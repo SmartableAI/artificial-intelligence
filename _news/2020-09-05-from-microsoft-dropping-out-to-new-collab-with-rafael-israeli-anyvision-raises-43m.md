@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.geektime.com/content/images/2020/09/ANYVISION-1599206759.jpg"

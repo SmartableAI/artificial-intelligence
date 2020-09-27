@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en_us/article/m7jzbb/dhs-admits-facial-reco
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/m7jzbb/dhs-admits-facial-recognition-photos-were-hacked-released-on-dark-web"
 type: article
 quality: 89
-heat: 129
+heat: 89
 published: true
 
 provider:
@@ -29,68 +29,6 @@ images:
     width: 4875
     height: 2738
     isCached: true
-
-related:
-  - title: "Report: LAPD used facial recognition nearly 30,000 times"
-    excerpt: "The Los Angeles Police Department has used facial-recognition software nearly 30,000 times since 2009 even while denying at times that it used the controversial technology at all, the Los Angeles Times reported Monday."
-    publishedDateTime: 2020-09-25T22:49:00Z
-    webUrl: "https://www.ctpost.com/news/article/Report-LAPD-used-facial-recognition-nearly-15585211.php"
-    ampWebUrl: "https://www.ctpost.com/news/amp/Report-LAPD-used-facial-recognition-nearly-15585211.php"
-    cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Report-LAPD-used-facial-recognition-nearly-15585211.php"
-    type: article
-    provider:
-      name: Connecticut Post
-      domain: ctpost.com
-    quality: 59
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
-  - title: "Report: LAPD used facial recognition nearly 30,000 times"
-    excerpt: "The Los Angeles Police Department has used facial-recognition software nearly 30,000 times since 2009 even while denying at times that it used the controversial technology at all, the Los Angeles Times reported Monday."
-    publishedDateTime: 2020-09-26T19:06:00Z
-    webUrl: "https://www.nhregister.com/news/article/Report-LAPD-used-facial-recognition-nearly-15585211.php"
-    ampWebUrl: "https://www.nhregister.com/news/amp/Report-LAPD-used-facial-recognition-nearly-15585211.php"
-    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Report-LAPD-used-facial-recognition-nearly-15585211.php"
-    type: article
-    provider:
-      name: New Haven Register
-      domain: nhregister.com
-    quality: 59
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
-  - title: "MEPs raise concerns on EU plans for police facial recognition database"
-    excerpt: "MEPs on the European Parliament's Civil Liberties Committee have questioned EU plans to establish a bloc-wide facial recognition database for use by police authorities, citing the potential abuse of data as well as the likelihood of false positives."
-    publishedDateTime: 2020-09-22T11:44:00Z
-    webUrl: "https://www.euractiv.com/section/digital/news/meps-raise-concerns-on-eu-plans-for-police-facial-recognition-database/"
-    type: article
-    provider:
-      name: EURACTIV
-      domain: euractiv.com
-    quality: 54
-    images:
-      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2020/09/shutterstock_1214866462-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Digital Brief: EU/UK data transfers, EU police facial recognition, dark web"
-    excerpt: "The European Commission has concerns that certain aspects of the UK’s data protection regime may change in the future and negatively impact the safety of EU personal data when transferred to the country,"
-    publishedDateTime: 2020-09-25T07:42:00Z
-    webUrl: "https://www.euractiv.com/section/digital/news/digital-brief-eu-uk-data-transfers-eu-police-facial-recognition-dark-web/"
-    type: article
-    provider:
-      name: EURACTIV
-      domain: euractiv.com
-    quality: 37
-    images:
-      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2019/07/Web-Article-Graphic-Digital-Brief-800x450.png"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "YcyNKK3O8JoG02+vLawyT1POTGKi6OxuZR8yERgudkJv3GVpO6KQjq9XjAsRj/rz2y4SuTPsXe4CGW6CMtqAyijh2LJZl1BzDqHehqQ17a2ApU8PXoGHiCPKGfKTB3RElWWwfBn1nN7Wh4meJAbDqwRFBTuuBiVml3kL18HS3RMmZPdkRDYB63Tw67ODx0pHprqMBCVjUDCR7sZghZWVU5NqSXsBcBXe2liuKCiv2dRHLU+McA3ZJaRBebdJyntVMfcC8npcIeoeqcweQrW6ra+zNo4gh2tW3OOM2QKp3FnFDdhuK15ocKiCvnNgqAXrievqbO6cnP2KPTH70RclEMrNWb5ids13Fb4HmvrjQCy2X5leirZSCjUIx5Tlz59goNTz+/Ot+Q0G0kzjgCFb6ppYh92CUxyqQYB0ywj0Oc0YoRweyTORSa/FFUxyzDXDgu31JcTB2LHGvYnOBWWzKEYxzy2tCQyAMeVgORj5iEUqj14kAvGOCLPBEGnV9hWSzznc8BvUDPl9Gd+huCX1zw==;pSTE7AwAL1s/RVHXMhMQUA=="
 ---

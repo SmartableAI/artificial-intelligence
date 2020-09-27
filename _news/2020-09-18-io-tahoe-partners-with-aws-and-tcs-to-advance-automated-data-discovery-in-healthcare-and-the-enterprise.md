@@ -17,6 +17,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/Ajay-Vohora-Ved-Sen-Io-Tahoe-2020.jpg"

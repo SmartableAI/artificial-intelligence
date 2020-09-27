@@ -24,33 +24,51 @@ images:
     isCached: true
 
 related:
-  - title: "Early Detection of Osteoarthritis with Artificial Intelligence"
-    excerpt: "“In the future, coupling presymptomatic OA detection with emergent clinical therapies could modify the outcome of a disease that costs the United States healthcare system $16.5 billion annually. Furthermore, our technique is broadly applicable to earlier ..."
-    publishedDateTime: 2020-09-22T12:04:00Z
-    webUrl: "https://www.genengnews.com/news/early-detection-of-osteoarthritis-with-artificial-intelligence/"
+  - title: "South Korea tech giants expanding robotics amid COVID-19"
+    excerpt: "South Korea's biggest tech companies are investing in robotics as a solution to the risks of human contact amid the coronavirus pandemic."
+    publishedDateTime: 2020-09-23T18:16:00Z
+    webUrl: "https://www.upi.com/Top_News/World-News/2020/09/23/South-Korea-tech-giants-expanding-robotics-amid-COVID-19/3121600883704/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2020/09/23/South-Korea-tech-giants-expanding-robotics-amid-COVID-19/3121600883704/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/09/23/South-Korea-tech-giants-expanding-robotics-amid-COVID-19/3121600883704/"
     type: article
     provider:
-      name: GEN
-      domain: genengnews.com
-    quality: 39
+      name: UPI.com
+      domain: upi.com
+    quality: 74
     images:
-      - url: "https://www.genengnews.com/wp-content/uploads/2020/09/human-skeleton-163715_1280.jpg"
-        width: 1280
-        height: 720
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/3121600883704/2020/1/f4b46952582fb33f29de4effbf354249/v1.5/South-Korea-tech-giants-expanding-robotics-amid-COVID-19.jpg"
+        width: 800
+        height: 534
         isCached: true
-  - title: "Artificial Intelligence May Predict Osteoarthritis Years Before Onset"
-    excerpt: "The artificial intelligence tool may enable providers to one day treat osteoarthritis with preventive drugs instead of surgery."
-    publishedDateTime: 2020-09-23T13:32:00Z
-    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-may-predict-osteoarthritis-years-before-onset"
+  - title: "Artificial Intelligence revamping exercise routines in the age of COVID-19"
+    excerpt: "Fitness routines have changed a lot during the pandemic. More people are opting to take their workout outside or choosing"
+    publishedDateTime: 2020-09-25T21:42:00Z
+    webUrl: "https://wtmj.com/homepage-showcase/2020/09/25/artificial-intelligence-revamping-exercise-routines-in-the-age-of-covid-19/"
+    ampWebUrl: "https://wtmj.com/homepage-showcase/2020/09/25/artificial-intelligence-revamping-exercise-routines-in-the-age-of-covid-19/amp/"
+    cdnAmpWebUrl: "https://wtmj-com.cdn.ampproject.org/c/s/wtmj.com/homepage-showcase/2020/09/25/artificial-intelligence-revamping-exercise-routines-in-the-age-of-covid-19/amp/"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 37
+      name: WTMJ
+      domain: wtmj.com
+    quality: 55
     images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-516323432.jpg"
-        width: 683
-        height: 415
+      - url: "https://wtmj.com/wp-content/uploads/2020/09/Exercise.png"
+        width: 1333
+        height: 868
+        isCached: true
+  - title: "From biotech to robotics: FTW Ventures talks food tech in the era of COVID"
+    excerpt: "FTW Ventures, an early-stage VC, has launched a new fund to support food and agri-tech start-ups that it believes can disrupt the sector. FoodNavigator speaks to founder and entrepreneur Brian Frank about the tech and trends he believes will come to the fore in a world now shaped by the coronavirus pandemic."
+    publishedDateTime: 2020-09-23T15:20:00Z
+    webUrl: "https://www.foodnavigator.com/Article/2020/09/23/From-biotech-to-robotics-FTW-Ventures-talks-food-tech-in-the-era-of-COVID"
+    type: article
+    provider:
+      name: FoodNavigator
+      domain: foodnavigator.com
+    quality: 52
+    images:
+      - url: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator.com/news/market-trends/from-biotech-to-robotics-ftw-ventures-talks-food-tech-in-the-era-of-covid/11790650-1-eng-GB/From-biotech-to-robotics-FTW-Ventures-talks-food-tech-in-the-era-of-COVID.jpg"
+        width: 1000
+        height: 750
         isCached: true
 
 secured: "MpCR6HFHSMaPj2u2TTFlXiHsCaurJLQO0CEdTUQR3M8sGinWKV28TXp3znclRvni+z9QS0jkWG//Vkvsgb4FVzVD5GL16Y91jReBAKAEDcCn0wlBSPpAPFtiRWd6QJLhSFtS0Lm+10Wuylj3/jWy6DAFLovkQIxMxsIkTW4T5l/VuWXpltYsVkb4H3AuQk5U8a6oqKdyFfX03PVbE/4S3AlvVVap2BxrXCgvM49TTmp/OqScgKhi5iBDDWAtFqUhQ2aKF0iJJ0RCIBlyE86zhraVo/0FN2MiKIEm+8yxSFsMwy9kasHry8HejNCTv02pgCWaM9PvBXBuWmU0NQfVGGz0G6692nZCXp9ognw0fezpJQ1T26HqpOYGFSXXSZ513uaj13fJ9uzEyNI4XgxQFYAXCYN08xBtbtkZnZdmeAH4WCzHxUkLxT19rB1dVvaK0DL/kgtpdomy1PqrlJSyOJWBDkExWmMxIRnEpQy7izFlIUVIQe0Vk7U5jjvYapi86UQNna7SeHNgJwvNtlNH8g==;VspN8L8lyfvnyERgFBFEDw=="

@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mms.businesswire.com/media/20200914005784/en/820961/23/IRTNTR44545.jpg"
@@ -25,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Image Recognition Market Coronavirus Pandemic: Short and long-term actions taken by Key Player? Fortune Business Insights"
-    excerpt: "Facial Recognition, Object Recognition, Pattern Recognition), By Applications (Scanning and Imaging, Security and Surveillance, Image Search, Augmented Reality and others), By Deployment (On-Premises, Cloud), By End-User (BFSI, Media and Entertainment ..."
-    publishedDateTime: 2020-09-22T13:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-coronavirus-pandemic-short-and-long-term-actions-taken-by-key-player-fortune-business-insights-2020-09-22"
+  - title: "NEC and The Face Recognition Company each upgrade biometric systems accuracy for masked faces"
+    excerpt: "NEC Corporation has launched a new biometric facial recognition engine for improved accuracy when matching people wearing masks. The company’s facial recognition technology was already relatively"
+    publishedDateTime: 2020-09-24T20:03:00Z
+    webUrl: "https://www.biometricupdate.com/202009/nec-and-the-face-recognition-company-each-upgrade-biometric-systems-accuracy-for-masked-faces"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 28
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/12142443/mask-detection.png"
+        width: 1024
+        height: 512
         isCached: true
 
-secured: "jpGB6FS8tI3e/yml4gXo67GisJBxZwEOcin7wzOPU6ibFMv5nQfTHbG2+FNK0PiXR3UTyFz5unfbFvBQfW+7uIvvgXjfECCc87t+luCPvV4Krw4pkX6XPdcpb2sgFyvKJOri+ERHMuER4E5V/qjHn9KE0gybjuYa4/d/EOYol4qM14i4A2R5KUU9ox+llze2bHAJSfwWbO7ngBeAiMMyQkTaN3TLF6pHUjC06mF8hNKxMuKP0oCoZWe2d6Y8PWxqd2UO9Vs1ft/sxSbY/NEjDoMkPtECoHwi0F4Irl8TsCsdwsOqdYMofSSufoW8DYbK0YO94FaTUlA4ScAk5a9MUkYXaez6Y9iU5HENR6Rgim4=;OukoJv+thwPII6LPnzmz7A=="
+secured: "OIDJ/G2fXBbaaOe4cSxqIInpYqfgXqU44R3BJkUQtlgSze5TRFQWgyJ/4MLNE7sjji6Mn/jYuuszmtLiS9jx+JtEgRk2UGJ40Mrp2HuuGR4uUjmo4SRMFVPwWBXaTmUaSSfo3KcPiF1z6vMUD8qpI/V4o1TcRmfSAp2NMNRk8p5kgkxlnl1IOZFRAaNoM6TZ/DZLSsAdEGmQjm8y3DFT7XzHKXY3dum8usdRGWslCbwCQVswPnd/S5+7Vdzdv+ZKPN/k/EX9TSYAsF8Oa9sN0IJUmKydnzt+CG1B9ELWN7EHi4jOaW7Ffcr6ddp6Uwpk+o6viQGIZleqL/BsIVxpJ0Tpbzw104YflZ4HjFAYAMOS4znsNjDK1lMheH1xB8wLCF8oz6xxBfShp+fG35EFxxYs06yVOMXnlGKSsfIWNlWETchTLQqzcA2yYBn42dceGkWMXuwdycd6zuSZkU+hEjXBzBjnbWE64/UCn+Lw1P94sr+NhFadPbxTYtmTn40vDJwraOdw/zk4DSS4As51Mg==;JTeRn2OqMSh4hC9djyXlvA=="
 ---
 

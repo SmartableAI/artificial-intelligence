@@ -18,6 +18,49 @@ topics:
   - AI
 
 related:
+  - title: "Google launches AI Platform Prediction in general availability"
+    excerpt: "courtesy of an engine that selects compatible cloud hardware (e.g., AI accelerator chips) automatically. On supported virtual machines, it shows metrics like graphics card, processor, RAM ..."
+    publishedDateTime: 2020-09-25T17:32:00Z
+    webUrl: "https://venturebeat.com/2020/09/25/google-launches-ai-platform-prediction-in-general-availability/"
+    ampWebUrl: "https://venturebeat.com/2020/09/25/google-launches-ai-platform-prediction-in-general-availability/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/25/google-launches-ai-platform-prediction-in-general-availability/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Mailchimp launches new AI tools as it continues its transformation to marketing platform"
+    excerpt: "Mailchimp may have started out as an easy to use newsletter tool, but that was almost 20 years ago. Today’s company still does email, but at its core, it is now a marketing automation platform for small businesses that also offers a website builder,"
+    publishedDateTime: 2020-09-22T23:41:00Z
+    webUrl: "https://techcrunch.com/2020/09/22/mailchimp-launches-new-ai-tools-as-it-continues-its-transformation-to-marketing-platform/"
+    ampWebUrl: "https://techcrunch.com/2020/09/22/mailchimp-launches-new-ai-tools-as-it-continues-its-transformation-to-marketing-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/mailchimp-launches-new-ai-tools-as-it-continues-its-transformation-to-marketing-platform/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 78
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/09/Screenshot-2020-09-22-080330.jpg?w=300"
+        width: 300
+        height: 222
+        isCached: true
+  - title: "ALSO Launches Marketplace Platform for Artificial Intelligence"
+    excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Based on the technology of ALSO's Cloud Marketplace, the company is launching a new Artificial Intelligence (AI ..."
+    publishedDateTime: 2020-09-22T08:32:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/also-launches-marketplace-platform-for-artificial-intelligence-1029609534"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/also-launches-marketplace-platform-for-artificial-intelligence-1029609534"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/also-launches-marketplace-platform-for-artificial-intelligence-1029609534"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
   - title: "Recruiter.com Announces New Artificial Intelligence Platform"
     excerpt: "Capable of Profiling Half a Billion Candidates HOUSTON, Sept. 22, 2020 (GLOBE NEWSWIRE) -- Recruiter.com Group, Inc. ("
     publishedDateTime: 2020-09-24T21:32:00Z
@@ -31,36 +74,6 @@ related:
       - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Ann Arbor conversational AI company Clinc announces new CEO"
-    excerpt: "Conversational AI startup Clinc has appointed IT veteran Jon Newhard as its new chief executive officer. The announcement comes seven months after the company’s co-founder Jason Mars stepped down as CEO following an exposé published by The Verge in which current and former employees alleged he had sexually harassed workers and clients and engaged in inappropriate conduct."
-    publishedDateTime: 2020-09-24T14:47:00Z
-    webUrl: "https://www.clickondetroit.com/all-about-ann-arbor/2020/09/24/ann-arbor-conversational-ai-company-clinc-announces-new-ceo/"
-    ampWebUrl: "https://www.clickondetroit.com/all-about-ann-arbor/2020/09/24/ann-arbor-conversational-ai-company-clinc-announces-new-ceo/?outputType=amp"
-    cdnAmpWebUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/all-about-ann-arbor/2020/09/24/ann-arbor-conversational-ai-company-clinc-announces-new-ceo/?outputType=amp"
-    type: article
-    provider:
-      name: clickondetroit.com
-      domain: clickondetroit.com
-    quality: 57
-    images:
-      - url: "https://www.clickondetroit.com/resizer/_4OXvqCaoDhUP3PZIJeY_TXzySU=/1280x720/smart/cloudfront-us-east-1.images.arcpublishing.com/gmg/MNZR3SZOLRBSLIUEECCBWR4YGA.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "P360 Announces AI-powered Sales Enablement Platform BirdzAI"
-    excerpt: "The BirdzAI platform now includes advanced Artificial Intelligence (AI) capabilities that enable ... BirdzAI is built on Microsoft Azure and is compatible with existing commercial infrastructure ..."
-    publishedDateTime: 2020-09-22T21:36:00Z
-    webUrl: "https://pharmaphorum.com/partner-content/p360-adds-advanced-artificial-intelligence-capabilities-to-its-sales-enablement-platform-birdzai/"
-    type: article
-    provider:
-      name: pharmaphorum.com
-      domain: pharmaphorum.com
-    quality: 39
-    images:
-      - url: "https://pharmaphorum.com/wp-content/uploads/2020/09/P360_BirdzAI.jpg"
-        width: 1059
-        height: 458
         isCached: true
   - title: "Recruiter.com introduces artificial intelligence platform"
     excerpt: "Recruiter.com Group (OTCQB:RCRT) launched its artificial intelligence powered candidate sourcing technology capable of profiling half a billion candidates. \"The market opportunity for AI-driven ..."

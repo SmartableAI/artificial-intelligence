@@ -47,6 +47,22 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "Facebook Illinois Settlement: How to Get a Payout in $650 Million Facial Recognition Class Action"
+    excerpt: "When the tag feature is enabled, the social network uses face recognition technology to analyze photos and videos it believes a user is in and creates a template. The template is then used to recognize users as they appear in other photos or videos."
+    publishedDateTime: 2020-09-23T12:26:00Z
+    webUrl: "https://www.newsweek.com/facebook-illinois-face-recognition-settlement-submit-claim-payout-1533779"
+    ampWebUrl: "https://www.newsweek.com/facebook-illinois-face-recognition-settlement-submit-claim-payout-1533779?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/facebook-illinois-face-recognition-settlement-submit-claim-payout-1533779?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 76
+    images:
+      - url: "https://d.newsweek.com/en/full/1641098/facebook-logo.jpg"
+        width: 2500
+        height: 1627
+        isCached: true
   - title: "Singapore to become first to use facial recognition in national identity scheme"
     excerpt: "Singapore will be the first country in the world to use facial recognition as part of its national identity scheme. This new technology will"
     publishedDateTime: 2020-09-26T18:51:00Z
@@ -74,29 +90,20 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 39
-  - title: "Facial recognition tech used to build SFPD gun case, despite city ban"
-    excerpt: "San Francisco police investigators may have circumvented the city’s ban on facial recognition technology by building a gun case, in part, on facial recognition software used by another law enforcement agency,"
-    publishedDateTime: 2020-09-25T06:08:00Z
-    webUrl: "https://www.houstonchronicle.com/bayarea/article/Facial-recognition-tech-used-to-build-SFPD-gun-15595796.php"
+  - title: "Facial Recognition Tech That Works With Masks"
+    excerpt: "Facial recognition algorithms work by measuring a face’s features – their size and distance from one another, for example – then comparing these measurements to those from a photo stored in a passenger’s ePassport or travel document. As this ..."
+    publishedDateTime: 2020-09-23T15:34:00Z
+    webUrl: "https://apex.aero/2020/09/23/facial-recognition-tech-works-masks"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
+      name: APEX
+      domain: apex.aero
     quality: 39
     images:
-      - url: "https://s.hdnux.com/photos/73/01/30/15472146/25/rawImage.jpg"
-        width: 2048
-        height: 1349
+      - url: "https://apex.aero/wp-content/uploads/2020/09/Untitled-design-3.png"
+        width: 1024
+        height: 678
         isCached: true
-  - title: "Mayor Peduto to sign legislation restricting facial recognition in Pittsburgh"
-    excerpt: "Pittsburgh Mayor Bill Peduto plans to sign legislation passed Tuesday by city council that restrict use of facial recognition software and predictive policing technology by police, a mayoral ..."
-    publishedDateTime: 2020-09-22T16:55:00Z
-    webUrl: "https://triblive.com/local/mayor-peduto-to-sign-legislation-restricting-facial-recognition-in-pittsburgh/"
-    type: article
-    provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 16
 
 secured: "AnW/8JN/MxIK+fqwzOiTkC8qLEW8QRB0wv0WdD/w/eRFX2S87HLIyLP28X5kFb4XV+3a8x+O06h90XJOLRAp+TV2shtQKngJGec2XXiAE+Z7a8hF7Dv3GYA2gzTPqfkWgJ5DHuGi3UwYMlD4YrtKD23kP4/wIBtoch+SpPONPFvNSlYv1UBvhNF4laTB4n5ZOjPU2b5NnwL1rzZ9VfTYEOyIt2jg8hkmt3sQ8vZI1im/h2O6GVNpS6ndKW2DI1JFXtIDNDfUTQOSMN0a0sSiX2i0A9BvDtvp4ZMHKVNTfmuVMBSPW+qr5IjMTLBL4wYPx8oyq6hJwiDA0E88nZzWULapzrhlUXXxjWqMm8isxVARHNSq56D87gmDIKNAB7oJF9gHfM6sC0aOu0SM9fkIgN1t5CdyzZ++WKIphNvSXa5hRrWR1bHSLWdPcVq4SAHvST1t1Gd2U2ZJrETlZnIT2M7qi5DkUVJuhlQpWUqmy7byb2C0Sa0QWh5WvqLeIXOI6mMQw8yCtiVp4JCSD1T3+Q==;CXFf7bBA5Fjec1QBI4snxA=="
 ---

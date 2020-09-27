@@ -7,7 +7,7 @@ originalUrl: "https://betakit.com/omnirobotic-raises-6-5-million-cad-as-it-looks
 webUrl: "https://betakit.com/omnirobotic-raises-6-5-million-cad-as-it-looks-to-develop-industrial-autonomous-robots/"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "MPC and MyRAS team up to transform industries with robotics"
-    excerpt: "“We are already embracing IR4.0 where we see transformation with the application of advanced technologies such as artificial intelligence (AI), big data analytics, additive manufacturing, system integration, autonomous robots and the Internet of Things ..."
-    publishedDateTime: 2020-09-23T23:51:00Z
-    webUrl: "https://www.thestar.com.my/business/business-news/2020/09/24/mpc-and-myras-team-up-to-transform-industries-with-robotics"
+  - title: "ROBOTSHOP LAUNCHES ITS NICHE MARKETPLACE IN ROBOTICS"
+    excerpt: "RobotShop.com, the world's leading source of robotics technology, today announces a major pivot by enhancing its online activities to include a Marketplace, allowing manufacturers and suppliers of robotics products to sell directly on its e-commerce platform."
+    publishedDateTime: 2020-09-24T20:28:00Z
+    webUrl: "https://www.roboticstomorrow.com/news/2020/09/22/robotshop-launches-its-niche-marketplace-in-robotics/15728/"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 54
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2020/09/24/872438.JPG"
-        width: 620
-        height: 410
-        isCached: true
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 34
 
 secured: "Ta6Q5PwtKxiu4oe2/mvTAfZK52TUJN+LhFlZweFvl6DSipVSto2OtueMTeXrsMDaDDJj1cIvtvd+Wowgozl8pauG16Qa6zqIkdJrj84w1T78JO3iohyh18ZmHxCdFu9aVqpN9XeHxNs0/V0SFjalJVryx8yE1JdLIrTZi2Nal/A6UdKgEVDWqtCEaIqj+fgWxjlRNVQ0/Ty3jJDGGJNGSskszdbvSGRk/Bt3EUK1QROG3zVar/9wUTsLZLVlJr0Y7krtDogugzze7p6EMqASH4Vng9FbjiJAerLWjNFQRyQcSZe3O39WG54/4d4+J4PmkoOzMrp16C1ZgscZmVtoaokkDeWMvjKCoI5XGGcWyu4zaQG1UNTLDf0A1iea+j0uPZyeYwkLKse4gW1GCKF97jWMNUBk+w/TS9RZ3hZVz2KVIODPtiqNccTjFvHxABuBxYxQIx2SibsHJUVdkwlEA3baeMoE63dsmDCYz1msSyCe6lV+dDGbF17HWXXzP8AmhtjRvjuoByj6L/EtWEUm2A==;HGYd8DdBXN4vViENi89xiQ=="
 ---

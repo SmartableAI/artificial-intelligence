@@ -38,6 +38,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 54
+  - title: "Facebook accused of censoring Palestinians under pretext of fighting hate speech"
+    excerpt: "\"Though there is international recognition that Palestinians' right to free speech online is under attack through restrictions and limitations, there have not been actions taken to lessen these,\" wrote Alysia Grapek, the author of the report, \"Facebook ..."
+    publishedDateTime: 2020-09-24T19:15:00Z
+    webUrl: "https://www.middleeasteye.net/news/facebook-palestine-censorship-anti-semitism-guidelines"
+    type: article
+    provider:
+      name: Middle East Eye
+      domain: middleeasteye.net
+    quality: 19
+    images:
+      - url: "http://www.middleeasteye.net/sites/default/files/images-story/facebook-logo-afp.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "2qNDosXkd6OELI/tcvJqGzOLmqOdTcufC+1CvLkSPmvnKAHUkoMsbkDiqtTABulOWmW0hCtjiG9nfacZ/yJCeV+NYPdKKKOTi5Z1loEaZo77Kc3xE5cOC2jqQ405a+l3q7ZlvhMyoEcKmQJIVnwPz+VdSfmuk+TTXzz472YUtbL0AOCtTqhozjM5+uho7J34ywdwkSuY8LY4ixFqgVCe8Xc1eVtIExeyjbcNd6Ykor4bqCpAAnd+8Qke4xHEWiohePj00XayjWgi3HsYZMZ7CIHWPHfx90WToHOscAeYuRN62o7fjRypDGEPmjplmkVutgqBh320HolI9X6MU5j3nvXIKwQ4N5tNoBHRkMycPXA=;JPndrN8XV94T8msgyr48xw=="
 ---

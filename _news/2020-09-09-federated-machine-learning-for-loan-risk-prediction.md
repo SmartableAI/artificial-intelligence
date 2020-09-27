@@ -14,6 +14,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
 images:
   - url: "https://res.infoq.com/articles/federated-machine-learning/en/headerimage/croppted-Figure-3-1599498664410.jpg"

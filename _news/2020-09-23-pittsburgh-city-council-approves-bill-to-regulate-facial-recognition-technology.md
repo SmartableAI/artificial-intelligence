@@ -7,7 +7,7 @@ originalUrl: "https://www.officer.com/investigations/forensics/facial-recognitio
 webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/news/21155373/pittsburgh-city-council-approves-bill-to-regulate-facial-recognition-technology"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -25,94 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Madurai Police Launches Facial Recognition App To Reduce Crime Rate"
-    excerpt: "To reduce robberies and other crimes, the Madurai city police has introduced the FACETAGR app, a technology-enabled web-based processor, which matches the facial features of a suspect with the data stored in a database."
-    publishedDateTime: 2020-09-26T16:18:00Z
-    webUrl: "https://www.ndtv.com/tamil-nadu-news/madurai-police-launches-facial-recognition-app-facetagr-to-reduce-crime-rate-2301538"
-    ampWebUrl: "https://www.ndtv.com/tamil-nadu-news/madurai-police-launches-facial-recognition-app-facetagr-to-reduce-crime-rate-2301538?amp=1&akamai-rum=off"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/tamil-nadu-news/madurai-police-launches-facial-recognition-app-facetagr-to-reduce-crime-rate-2301538?amp=1&akamai-rum=off"
+  - title: "Mayor Peduto to sign legislation restricting facial recognition in Pittsburgh"
+    excerpt: "Pittsburgh Mayor Bill Peduto plans to sign legislation passed Tuesday by city council that restrict use of facial recognition software and predictive policing technology by police, a mayoral ..."
+    publishedDateTime: 2020-09-22T16:55:00Z
+    webUrl: "https://triblive.com/local/mayor-peduto-to-sign-legislation-restricting-facial-recognition-in-pittsburgh/"
     type: article
     provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 74
-    images:
-      - url: "https://c.ndtvimg.com/2019-05/ituc17b_cctv-generic_625x300_29_May_19.jpg"
-        width: 650
-        height: 400
-        isCached: true
-  - title: "Police Commission to review LAPD’s facial recognition use after L.A. Times report"
-    excerpt: "The Los Angeles Police Commission on Tuesday said it would review the city Police Department’s use of facial recognition software and how it compared with programs in other major cities."
-    publishedDateTime: 2020-09-22T21:09:00Z
-    webUrl: "https://ktla.com/news/local-news/police-commission-to-review-lapds-facial-recognition-use-after-l-a-times-report/"
-    ampWebUrl: "https://ktla.com/news/local-news/police-commission-to-review-lapds-facial-recognition-use-after-l-a-times-report/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/local-news/police-commission-to-review-lapds-facial-recognition-use-after-l-a-times-report/amp/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 54
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2020/09/lapd.jpeg?w=1280"
-        width: 840
-        height: 560
-        isCached: true
-  - title: "The Detail: How are the police using facial recognition technology?"
-    excerpt: "There is growing alarm about the use of facial recognition, especially when the police don't tell us what they’re doing with the tech."
-    publishedDateTime: 2020-09-23T17:10:00Z
-    webUrl: "https://www.stuff.co.nz/national/the-detail/300114988/the-detail-how-are-the-police-using-facial-recognition-technology"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 54
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/m/a/1/1/image.related.StuffLandscapeSixteenByNine.1420x800.4yoi7g.png/1600864305668.jpg"
-        width: 1420
-        height: 798
-        isCached: true
-  - title: "IntelligenceBank Launches Facial Recognition"
-    excerpt: "IntelligenceBank - the leading marketing operations platform - announced the launch of Facial Recognition. As an add-on"
-    publishedDateTime: 2020-09-25T23:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/intelligencebank-launches-facial-recognition-301138357.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1281542/IntelligenceBank.jpg?p=facebook"
-        width: 1754
-        height: 918
-        isCached: true
-  - title: "Police Using Facial-Recognition Software To Catch Criminals- Because It Works"
-    excerpt: "Police have denied using this technology in the past, but Assistant Chief Horace Frank says a previous statement was an inaccurate mistake and that the agency is not trying to hide anything."
-    publishedDateTime: 2020-09-22T12:09:00Z
-    webUrl: "https://www.kabc.com/2020/09/22/police-using-facial-recognition-software-to-catch-criminals-because-it-works/"
-    type: article
-    provider:
-      name: KABC
-      domain: kabc.com
-    quality: 21
-    images:
-      - url: "https://express-images.franklymedia.com/6616/sites/320/2020/09/21133124/lapd-protect-and-s-shutterstock_106869842.jpg"
-        width: 610
-        height: 409
-        isCached: true
-  - title: "LAPD has used facial-recognition software 30K times in last decade, records show"
-    excerpt: "LOS ANGELES — The Los Angeles Police Department has used facial-recognition software nearly 30,000 times since 2009, with hundreds of officers running images of suspects from surveillance cameras and other sources against a massive database of mugshots ..."
-    publishedDateTime: 2020-09-22T15:45:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21155232/lapd-has-used-facialrecognition-software-30k-times-in-last-decade-records-show"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 19
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/09/US_NEWS_CPT_CALIF_FACIALRECOGNITION_LA__1_.5f6a1b0278727.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 868
-        isCached: true
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 16
 
 secured: "ZtOjq0V6ioUTHsMJd9PjWlcBbeRs4+Pk528pFKWpdE/B/ue7vEZWr+9OOE4IqKebOzVGFIXMvrqAqq6K+bG7NN3KSdndlyT2yWIvrppPinkvW4vvmGEc4SIsHDQr6c+nTrMXHiV9J04Hg4nDCh0QDhHA6rX4FzKkJmZrNcngYJY8cRs5VVhz8GvtwJAtnHkCYt5v/NDkuP4HBWTFi+L8SD55wkTyPvxfXUOHgEPIqf1KR9iuOrtdx2kR4KDY7PbGkqqGVEwsR1SVo4cJlhePNVHl2+glbezWFl++sf6JCNkEumM+TJFRs39dmRxI4RXabbW+DheY/lpCsuJGdYcSCZoAQW7CPCRpRbjc1f49a/A=;wKWjfW4ta206szuB3bkw1Q=="
 ---

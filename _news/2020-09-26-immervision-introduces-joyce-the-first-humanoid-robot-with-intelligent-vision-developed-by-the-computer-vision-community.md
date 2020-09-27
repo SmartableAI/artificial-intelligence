@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-26T03:05:00Z
 originalUrl: "https://www.businesswire.com/news/home/20200917005563/en/Immervision-Introduces-JOYCE-the-First-Humanoid-Robot-with-Intelligent-Vision-Developed-by-the-Computer-Vision-Community"
 webUrl: "https://www.businesswire.com/news/home/20200917005563/en/Immervision-Introduces-JOYCE-the-First-Humanoid-Robot-with-Intelligent-Vision-Developed-by-the-Computer-Vision-Community"
 type: article
-quality: 14
-heat: 14
+quality: 31
+heat: 31
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mms.businesswire.com/media/20200917005563/en/822304/23/JOYCE_Banner_hires.jpg"

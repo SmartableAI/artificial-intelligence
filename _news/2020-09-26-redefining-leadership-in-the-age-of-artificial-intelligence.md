@@ -26,21 +26,88 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence revamping exercise routines in the age of COVID-19"
-    excerpt: "Fitness routines have changed a lot during the pandemic. More people are opting to take their workout outside or choosing"
-    publishedDateTime: 2020-09-25T21:42:00Z
-    webUrl: "https://wtmj.com/homepage-showcase/2020/09/25/artificial-intelligence-revamping-exercise-routines-in-the-age-of-covid-19/"
-    ampWebUrl: "https://wtmj.com/homepage-showcase/2020/09/25/artificial-intelligence-revamping-exercise-routines-in-the-age-of-covid-19/amp/"
-    cdnAmpWebUrl: "https://wtmj-com.cdn.ampproject.org/c/s/wtmj.com/homepage-showcase/2020/09/25/artificial-intelligence-revamping-exercise-routines-in-the-age-of-covid-19/amp/"
+  - title: "Three Coming Shifts In AI"
+    excerpt: "Beyond the announcements and the hype, is AI really evolving? In this article, I’d like to focus not on far-off, vague hopes and wishes about AI, but instead on a few concrete developments that lie in the not-so-distant future."
+    publishedDateTime: 2020-09-25T15:59:00Z
+    webUrl: "https://www.forbes.com/sites/amirhusain/2020/09/25/three-coming-shifts-in-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/amirhusain/2020/09/25/three-coming-shifts-in-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amirhusain/2020/09/25/three-coming-shifts-in-ai/amp/"
     type: article
     provider:
-      name: WTMJ
-      domain: wtmj.com
-    quality: 55
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://wtmj.com/wp-content/uploads/2020/09/Exercise.png"
-        width: 1333
-        height: 868
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6e0dde8f8678b1a065cccb%2F0x0.jpg%3FcropX1%3D639%26cropX2%3D1859%26cropY1%3D1084%26cropY2%3D1771"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "On the dynamics of trust in AI"
+    excerpt: "On the dynamics of trust in AI Speakers from NATO Microsoft IBM and Aspen Institute will debate on the future of AI On September 28th at 3 PM CET humanAIze and Data Natives EUvsVirus Operations Lead will host a virtual"
+    publishedDateTime: 2020-09-25T09:19:00Z
+    webUrl: "https://www.openpr.com/news/2142023/on-the-dynamics-of-trust-in-ai"
+    ampWebUrl: "https://www.openpr.com/amp/2142023/on-the-dynamics-of-trust-in-ai"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2142023/on-the-dynamics-of-trust-in-ai"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
+    images:
+      - url: "https://cdn.openpr.com/T/9/T924478775_g.jpg"
+        width: 800
+        height: 420
+        isCached: true
+  - title: "5 Uses of Artificial Intelligence in the Contact Center"
+    excerpt: "Artificial intelligence isn’t just a science fiction concept anymore. You can find it everywhere, from helping medical teams analyze results to personalized advertisements on social media. It has a ton of benefits for your contact center agents,"
+    publishedDateTime: 2020-09-24T17:19:00Z
+    webUrl: "https://customerthink.com/5-uses-of-artificial-intelligence-in-the-contact-center/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 39
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-166139079-ctmedia.jpg"
+        width: 1788
+        height: 1677
+        isCached: true
+  - title: "The Promise of Artificial Intelligence"
+    excerpt: "Artificial intelligence and machine learning are increasingly being used to automate critical business functions and support clinicians making complex clinical decisions. As the pandemic challenges healthcare organizations to think innovatively to improve cost effectiveness,"
+    publishedDateTime: 2020-09-25T14:15:00Z
+    webUrl: "https://www.modernhealthcare.com/technology/promise-artificial-intelligence"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/AI%20EC_Thumbnail280.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Recruiter.com Expands Board with Experts in Artificial Intelligence and Corporate Finance"
+    excerpt: "Recruiter.com Group, Inc., a leading hiring platform, has announced today that Deborah Leff, Global Leader and Industry CTO for Data Science and Artificial Intelligence and Nick Florio, CPA, and founder of Strategic Staffing Concepts,"
+    publishedDateTime: 2020-09-24T22:55:00Z
+    webUrl: "https://www.nasdaq.com/press-release/recruiter.com-expands-board-with-experts-in-artificial-intelligence-and-corporate"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 38
+  - title: "Edge Computing, AI, and the Internet of Things"
+    excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
+    publishedDateTime: 2020-09-24T06:33:00Z
+    webUrl: "https://www.computerworld.com/resources/208606/edge-computing-ai-and-the-internet-of-things"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 37
+    images:
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "d9RKqJdiF0W5MddRX3N+/0yfXr7YIz3ePM5odRLLiiYOjsWsv786nZZ0dy/ztHksEME87XkoR94GbKTTQweYBEu1UAa7J4EDI3mxP4Lt+L3hS0hA2e9rpvp4PN1WCKA5wjTFujW2NMIfmo2nVtJeFeSnFnZTy7/ECRd8zPOCBiq/DUqYTf4hnHlNCQkLv7naC5QgHIJdT+YnlsV/3dLykAZLoTstTTh7GPefDu9d8hwZuUbJ1qodz7D6JzcBLN7mUktdBCx/3t//An7gWAKuq/AiJLwqGZ5M3y/3mHxjfCM3heg7Uko9f4zIIWLRTsIuLyU7fg38xyk+6k/ylEoa/9SB5mnDGil0+/Kvcwm1l24=;NaZEEQ3FgiV2SP+pnUpBIw=="

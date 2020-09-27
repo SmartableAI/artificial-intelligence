@@ -18,6 +18,7 @@ topics:
   - AI in Autos
   - AI
   - Natural Language Processing
+  - Machine Learning
 
 images:
   - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/09/Why-Deep-Learning-DevCon-Comes-At-The-Right-Time.jpg"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2020/09/24/1008876/how-close-is-ai-
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/09/24/1008876/how-close-is-ai-to-decoding-our-emotions/amp/"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Tomorrow: Socrates.ai to Host Webinar \"Giving Your Company a Single Voice\""
-    excerpt: "During this webinar, Socrates.ai will get to the heart of this problem, explaining how and why companies can speak with a single voice. Attendees will learn how artificial intelligence helps close the information gap to ensure employees get accurate answers to their questions and take away the insights needed to create a frictionless workforce experience."
-    publishedDateTime: 2020-09-24T08:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/tomorrow-socratesai-to-host-webinar-giving-your-company-a-single-voice-2020-09-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "tWR/o44yWUvNrly7XZoZEGVl90raATTM4xgZ4WQJhqzNFZfmNNl6DZ1LKWSlcoAlg1e4IPZ7md5ccGg5Yh+Qn2bb7GOeEjiNFI1EC10UNldzqw9BIybXTUFlAMSiCX4xTM59g6FYfO3Qf9Z01LgCI2jjVsvBDbwJm9bLh8qFxmgFewLEqLV5eXCxMvt0tR44cSCzh+ck5SSE+GaXiIaXr2iydErMSDXWpi91KF4jwfSk7WpHuasfrvZzpAKP1/C1ykbUOsvxHwaZwF65ccDKnG63wvmZmTfE212jLDMAa3+9JKJsZzufhYXhnY/znm5PJKrHkIPEy98T0MQx+SvX/NLBlHCWHAgYmQ/l2+VfBfEEr2FTEZit7RI7M+oxEBUUvpiuc+kseebrxw4667kJlKr+AxQpy8o57VH3Dn3LT4KGg6Z3TGnSh0A0cIkdJgk+qbHpgCtBYCf8nwXvyz8bOE1tI8/qxsISKnzX5mxCB7Mgqenh8Y8RPErM6u7nCYXW57Fvi+5uJQbW20knal3ZoA==;Ue+q8Xg4qwTai0OcQoZT1Q=="
 ---

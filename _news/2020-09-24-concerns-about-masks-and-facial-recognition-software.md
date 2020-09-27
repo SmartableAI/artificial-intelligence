@@ -21,31 +21,31 @@ topics:
   - AI
 
 related:
-  - title: "NEC and The Face Recognition Company each upgrade biometric systems accuracy for masked faces"
-    excerpt: "NEC Corporation has launched a new biometric facial recognition engine for improved accuracy when matching people wearing masks. The company’s facial recognition technology was already relatively"
-    publishedDateTime: 2020-09-24T20:03:00Z
-    webUrl: "https://www.biometricupdate.com/202009/nec-and-the-face-recognition-company-each-upgrade-biometric-systems-accuracy-for-masked-faces"
+  - title: "In facial recognition challenge, top-ranking algorithms show bias against Black women"
+    excerpt: "The results from a recent facial recognition competition demonstrate that even the best algorithms are still prone to gender and racial bias."
+    publishedDateTime: 2020-09-24T13:52:00Z
+    webUrl: "https://venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/"
+    ampWebUrl: "https://venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/amp/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 28
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 97
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/12142443/mask-detection.png"
-        width: 1024
-        height: 512
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1199708189-e1600898324155.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "NEC Face Recognition Engine Provides Highly Accurate Results Even When Face Masks are Worn"
-    excerpt: "As part of this, governments around the world are encouraging the use of face masks as a basic measure to combat infections under the \"New Normal.\" In conjunction with this, there is a need for face recognition technologies to adapt,"
-    publishedDateTime: 2020-09-25T06:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/09/a17651638/nec-face-recognition-engine-provides-highly-accurate-results-even-when-face-masks-are-worn"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17651638"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17651638"
+  - title: "NEC Face Recognition Engine Provides Highly Accurate Results Even when Face Masks are Worn"
+    excerpt: "NEC Corporation today announced the strengthening of its face recognition technology, already recognized as the world's most accurate (*1), with the development of a new face recognition engine that provides high-precision certification even when masks are ..."
+    publishedDateTime: 2020-09-24T20:27:00Z
+    webUrl: "https://www.newswiretoday.com/news/173757/NEC-Face-Recognition-Engine-Provides-Highly-Accurate-Results-Even-when-Face-Masks-are-Worn/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 14
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 9
 
 secured: "qePuEpSefnBD9TWQTwd31l1RgEpVVQq7QO/AkDD6t4RA91hSZ9PB/yN/+RIAEh7fejnjCt9ApETrTwvkxSPKGpDPxcvjQ8WmzSbIAf4kZqAURTS/0dm3G/FDrldzbvy+0J/VZH0+fP6Ohr+fpPYYOHZdivjKLWrPDZtJTaljUF1Chzoxr3GxTvIHxmYR1AZ3X09EAKEzVV+HxYYeqICwZQZMT9lx+OBofiy7gzLG0gOaunaCSrbWvDuzFBgVlO2HA68c3e5ld8o1aVpWcE2Of1mXuqiSF+W5WiGCEijvV6nksTy5dcNkjX7ryd/TbX2vJuqZcZGh3hqIu9ldVsneG4XPQdbukeoeQZM7uhoq3xhml1DGp3ubYsBLKsz0PUsMdg7XBoaW+L2ugC6uMoRbKQlzmt8jgU20IezH9Z3TtC/wvHOYzeX1e4YX6BjMW+hn/SUE2JieLnFXlQNepHpmuXpSMCnLdycO5WBKoyWKGBi5wKB0tm12vZB/bF5/BEfaQH8D726tuXiQVWafYYhJ/A==;RBaa6N0w21VtWyDpJAHfLA=="
 ---

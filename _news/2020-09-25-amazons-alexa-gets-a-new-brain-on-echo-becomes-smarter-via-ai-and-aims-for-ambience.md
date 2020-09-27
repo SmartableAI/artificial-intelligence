@@ -3,10 +3,10 @@ category: news
 title: "Amazon's Alexa gets a new brain on Echo, becomes smarter via AI and aims for ambience"
 excerpt: "Amazon's new Echo devices are more like edge computing hardware in enterprises where the AI processing is going local. The upshot is that Alexa will be more ambient in the smart home, but most likely coming to work with you."
 publishedDateTime: 2020-09-24T20:08:00Z
-originalUrl: "https://www.zdnet.com/article/amazons-alexa-gets-a-new-brain-on-echo-becomes-smarter-via-ai-and-aims-for-ambience/"
-webUrl: "https://www.zdnet.com/article/amazons-alexa-gets-a-new-brain-on-echo-becomes-smarter-via-ai-and-aims-for-ambience/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/amazons-alexa-gets-a-new-brain-on-echo-becomes-smarter-via-ai-and-aims-for-ambience/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazons-alexa-gets-a-new-brain-on-echo-becomes-smarter-via-ai-and-aims-for-ambience/"
+originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/amazons-alexa-gets-a-new-brain-on-echo-becomes-smarter-via-ai-and-aims-for-ambience/"
+webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/amazons-alexa-gets-a-new-brain-on-echo-becomes-smarter-via-ai-and-aims-for-ambience/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazons-alexa-gets-a-new-brain-on-echo-becomes-smarter-via-ai-and-aims-for-ambience/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazons-alexa-gets-a-new-brain-on-echo-becomes-smarter-via-ai-and-aims-for-ambience/"
 type: article
 quality: 80
 heat: -1
@@ -30,32 +30,39 @@ images:
     isCached: true
 
 related:
-  - title: "Alexa gets smarter, more conversational with teachable AI"
-    excerpt: "Amazon has unveiled new artificial intelligence capabilities for Alexa, aimed at making the voice assistant more conversational in your home. Alexa will be \"more natural and more expressive,\" Amazon said during its annual product launch event Thursday."
-    publishedDateTime: 2020-09-24T17:52:00Z
-    webUrl: "https://www.cnet.com/news/alexa-gets-smarter-more-conversational-with-teachable-artificial-intelligence/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/alexa-gets-smarter-more-conversational-with-teachable-artificial-intelligence/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/alexa-gets-smarter-more-conversational-with-teachable-artificial-intelligence/"
+  - title: "AI Weekly: Amazon went wide with Alexa; now it’s going deep"
+    excerpt: "Last year, Amazon baked its virtual assistant into any household device that could accommodate a chip. Its list of new ... imbuing it with AI to make it more human-like. This includes picking ..."
+    publishedDateTime: 2020-09-26T01:59:00Z
+    webUrl: "https://venturebeat.com/2020/09/25/ai-weekly-amazon-went-wide-with-alexa-now-its-going-deep/"
+    ampWebUrl: "https://venturebeat.com/2020/09/25/ai-weekly-amazon-went-wide-with-alexa-now-its-going-deep/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/25/ai-weekly-amazon-went-wide-with-alexa-now-its-going-deep/amp/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://cnet3.cbsistatic.com/img/N4wEwahDtTeUbGfYdXvv7s9RFl4=/1200x630/2020/04/13/3ef98427-1cf3-4dde-90b8-7f9afd264fb3/amazon-echo-dot-3.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/09/amazon-alexa-az1-neural-edge-processor.jpg?w=1200&#038;strip=all"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "Maru Launches Conversational AI Analytics Tool"
-    excerpt: "Tech-enabled insights group Maru has launched Conversational AI, an intelligent, device-agnostic feedback tool, as part of its Maru/HUB platform. Maru says the tool - available across messaging platforms including WhatsApp and Facebook Messenger to enhance familiarity for audiences - allows researchers and marketers to combine conversational feedback with its existing research technologies and traditional survey approaches for a more holistic understanding of consumer response."
-    publishedDateTime: 2020-09-23T00:42:00Z
-    webUrl: "https://www.mrweb.com/drno/news30322.htm"
+  - title: "Amazon Alexa: How developers use AI to help Alexa understand what you mean and not what you say"
+    excerpt: "The developers and engineers on the Alexa Smart Home team use a variety of mechanisms, including AI and ML, to help Alexa better understand your voice requests."
+    publishedDateTime: 2020-09-25T15:42:00Z
+    webUrl: "https://www.techrepublic.com/article/amazon-alexa-how-developers-use-ai-to-help-alexa-understand-what-you-mean-and-not-what-you-say/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/amazon-alexa-how-developers-use-ai-to-help-alexa-understand-what-you-mean-and-not-what-you-say/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/amazon-alexa-how-developers-use-ai-to-help-alexa-understand-what-you-mean-and-not-what-you-say/"
     type: article
     provider:
-      name: MrWeb
-      domain: mrweb.com
-    quality: 19
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 75
+    images:
+      - url: "https://tr3.cbsistatic.com/hub/i/r/2015/09/14/7ec6790b-2644-456e-b63d-6a07ddd173d3/resize/400x/3f0ca063a1a96d845fdfd2ff97d575ea/amazonechoteardown015.jpg"
+        width: 400
+        height: 267
+        isCached: true
 
-secured: "Pw7enzvSk+jhvZIhayS/+Y1ziqor0bWahV6xvc6HjQIOsaHocGTib+9HtT4IT2UKQinpVXubYjqtCnoB81oA2mNiB6NBIVRgoELzC658ufzl8N7bbk1kNnK+roNwEc+dcene4aLmidBvwueIBrTIDv18sl5fKz3V/Ph1qAXyPguF876uHhqih2Y1zqNmikYk/tv9tmVYsw9GSidjP7pzOp9I5wtYWCgsC9nvBvqtOWKeaozpsz+qby8v0ovjF0A3gukVRGo/hGWvtYdbZlla7HY+1fJJzCk+AVZns8+kF9opW5FIstXPmIuX/lfq9CxG9vCbcC3w0vX6ji1xSRKg6nKXLmsoDZRVMbyhSTtXwNU=;xMON6Y5wJ5Q54Wpxiabu5g=="
+secured: "fnnwsr0lIX69zCoU2EYq0cLtWBDo8BUZCyjBOpeqEKeTKDCmkqPV1Ap3KPVHGMo7a3UoIen0uEnwPwHFSgRH5oQlBXFtkgjSLDIf1p4miO6dwdh73xjqZU1EHIxE38C2BJpYLS1T+iuDHRIuylaxlKJgDYGXjltVJhETqb2sMx8JeFyMizR+KSPc91NUPp6iOXVnHLR49uraogo1FPValv2reGYSJ37B/TWk/lSmArstfizyTkZ1Tq8e30JqjH6730KoL3ZQUWY2aHtWqvSl3HqbwoOQwY4b20NWTUYRciHj2vd9c2h2aPaWhacWla7be2ki5dakBlUAxCi0ybhVCX4OWHJwPGp9qBLBGM8te2Q=;VNVyuLkW2QR2Cs0zbsH/uw=="
 ---
 

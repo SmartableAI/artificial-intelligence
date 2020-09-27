@@ -41,6 +41,22 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Cops use face recognition app to identify criminals"
+    excerpt: "The Madurai city police have introduced a mobile application which helps police officers on vehicle checks to identify criminals at the touch."
+    publishedDateTime: 2020-09-26T23:12:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/madurai/cops-use-face-recognition-app-to-identify-criminals/articleshow/78341811.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/madurai/cops-use-face-recognition-app-to-identify-criminals/amp_articleshow/78341811.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/madurai/cops-use-face-recognition-app-to-identify-criminals/amp_articleshow/78341811.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/photo/msid-47529300/47529300.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Police Commission to review LAPD’s facial recognition use after L.A. Times report"
     excerpt: "The Los Angeles Police Commission on Tuesday said it would review the city Police Department’s use of facial recognition software and how it compared with programs in other major cities."
     publishedDateTime: 2020-09-22T21:09:00Z
@@ -56,48 +72,6 @@ related:
       - url: "https://ktla.com/wp-content/uploads/sites/4/2020/09/lapd.jpeg?w=1280"
         width: 840
         height: 560
-        isCached: true
-  - title: "The Detail: How are the police using facial recognition technology?"
-    excerpt: "There is growing alarm about the use of facial recognition, especially when the police don't tell us what they’re doing with the tech."
-    publishedDateTime: 2020-09-23T17:10:00Z
-    webUrl: "https://www.stuff.co.nz/national/the-detail/300114988/the-detail-how-are-the-police-using-facial-recognition-technology"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 54
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/m/a/1/1/image.related.StuffLandscapeSixteenByNine.1420x800.4yoi7g.png/1600864305668.jpg"
-        width: 1420
-        height: 798
-        isCached: true
-  - title: "IntelligenceBank Launches Facial Recognition"
-    excerpt: "IntelligenceBank - the leading marketing operations platform - announced the launch of Facial Recognition. As an add-on"
-    publishedDateTime: 2020-09-25T23:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/intelligencebank-launches-facial-recognition-301138357.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1281542/IntelligenceBank.jpg?p=facebook"
-        width: 1754
-        height: 918
-        isCached: true
-  - title: "Pittsburgh City Council Approves Bill to Regulate Facial Recognition Technology"
-    excerpt: "PITTSBURGH -- Pittsburgh City Council on Tuesday passed a bill that would require the legislative body to give its approval prior to police use of facial recognition technology. The bill, sponsored by Councilman Corey O’Connor, regulates the city’s use ..."
-    publishedDateTime: 2020-09-22T21:22:00Z
-    webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/news/21155373/pittsburgh-city-council-approves-bill-to-regulate-facial-recognition-technology"
-    type: article
-    provider:
-      name: Officer
-      domain: officer.com
-    quality: 35
-    images:
-      - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2020/09/16x9/pittsburghpolice.5f6a6ad302648.png?auto=format&fit=max&w=1200"
-        width: 1192
-        height: 668
         isCached: true
   - title: "Police Using Facial-Recognition Software To Catch Criminals- Because It Works"
     excerpt: "Police have denied using this technology in the past, but Assistant Chief Horace Frank says a previous statement was an inaccurate mistake and that the agency is not trying to hide anything."

@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
 related:
   - title: "Franklin Templeton Combines Award-Winning Research with Machine Learning in New Goals Optimization Engine"

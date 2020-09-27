@@ -38,22 +38,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Hybrid AI through data, space, time, and industrial applications: Beyond Limits scores $113M Series C to scale up"
-    excerpt: "Abdallat went on to add that today we already have a collection of independent AI system that are experts in their own field, and increasingly outperform humans: \"As you start connecting them together, you have a network of intelligence society ..."
-    publishedDateTime: 2020-09-22T11:18:00Z
-    webUrl: "https://www.zdnet.com/article/hybrid-ai-through-data-space-time-and-industrial-applications-beyond-limits-scores-113m-series-c-to-scale-up/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/hybrid-ai-through-data-space-time-and-industrial-applications-beyond-limits-scores-113m-series-c-to-scale-up/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hybrid-ai-through-data-space-time-and-industrial-applications-beyond-limits-scores-113m-series-c-to-scale-up/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 66
-    images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/09/22/7c255cb1-23de-4d9d-b3fb-158143cf2d40/aj-abdallat-headshot.jpg"
-        width: 1200
-        height: 807
-        isCached: true
   - title: "Beyond Limits Takes $133M For AI Efforts"
     excerpt: "Los Angeles-based Beyond Limits, a startup which is developing artificial intelligence software for the industrial and enterprise market, said this morning that it has raised $133M in a Series C funding round. According to the company, it has closed on $ ..."
     publishedDateTime: 2020-09-22T13:33:00Z

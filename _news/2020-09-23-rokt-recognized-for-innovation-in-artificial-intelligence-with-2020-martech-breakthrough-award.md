@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/rokt-recognized-for-innov
 webUrl: "https://www.prnewswire.com/news-releases/rokt-recognized-for-innovation-in-artificial-intelligence-with-2020-martech-breakthrough-award-301135258.html"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 963
     height: 505
     isCached: true
-
-related:
-  - title: "Exponential AI Recognized in Gartner Hype Cycle for Artificial Intelligence, 2020 for Decision Intelligence and Composite AI"
-    excerpt: "Based Intelligent Decision and Automation Platform Company, today announced that it has been recognized in the Gartner’s"
-    publishedDateTime: 2020-09-26T03:51:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200910005072/en/Exponential-AI-Recognized-in-Gartner-Hype-Cycle-for-Artificial-Intelligence-2020-for-Decision-Intelligence-and-Composite-AI"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 27
-    images:
-      - url: "https://mms.businesswire.com/media/20200910005072/en/819314/23/xAI_Logo.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "9KApVW74E4sSqzHYyC6jam6XV6XzzulPwESwRTkUWhU2QwgX/S5mwryGmSFIzM6e9kV7h0h6Ioji3dJgdXohTXcV5q5Er32aQEKnLfUo+xVU/g+MRPMAwbX6N/5VZFZKuUy7QCqEchVi9OKLGHjiHAE/Sy5AbL9LCmfnf3eTu2TTr6LFRP+hMxR3OeYeLuzlLDesirrcVul2SfQOzG6HdHWxPK5POats9efBGQBvv05RPhq3tp9LRIUC0ZbJvO45ftU8Z+qgOC7UXAtatGRglBH8d4rQZtMUNZK+UFCpwOHGt20A/Ae8TXvvgMeRHJ6VfeEtXP0FVZJ9PD0sCOsEzctzsCur0CXD551dRadhxFA=;dAp1kGeNJO2GEaomdGK9FA=="
 ---

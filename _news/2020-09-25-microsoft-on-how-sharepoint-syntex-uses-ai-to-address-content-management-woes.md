@@ -24,21 +24,37 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft debuts new Search features and SharePoint Syntex"
-    excerpt: "Microsoft today introduced new features for Microsoft Search, alongside a new product -- SharePoint Syntex -- and Power Automate Desktop."
-    publishedDateTime: 2020-09-22T15:04:00Z
-    webUrl: "https://venturebeat.com/2020/09/22/microsoft-debuts-new-search-features-and-sharepoint-syntex/"
-    ampWebUrl: "https://venturebeat.com/2020/09/22/microsoft-debuts-new-search-features-and-sharepoint-syntex/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/22/microsoft-debuts-new-search-features-and-sharepoint-syntex/amp/"
+  - title: "Microsoft Ignite showcases first Project Cortex AI tool for SharePoint"
+    excerpt: "Civil engineering firm Mott McDonald has been testing SharePoint Syntex, the first product to come out of Microsoft’s Project Cortex proving ground for AI-based content management tools."
+    publishedDateTime: 2020-09-25T01:35:00Z
+    webUrl: "https://www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.html"
+    ampWebUrl: "https://www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.amp.html"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.amp.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: CIO
+      domain: cio.com
+    quality: 74
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/05/microsoft.jpg?w=1200&#038;strip=all"
+      - url: "https://images.idgesg.net/images/article/2020/09/multiple-exposure_profile_with_gears_overlaying_and_representing_the_brain_thought_intelligence_brainstorming_strategy_by_metamorworks_gettyimages-994767724_2400x1600-100858219-large.jpg"
         width: 1200
-        height: 600
+        height: 800
+        isCached: true
+  - title: "AI in Fintech Market Drives Future Change | IBM Corporation, Intel Corporation, IPsoft Inc., Microsoft Corporation"
+    excerpt: "The AI in Fintech market research report added by Report Ocean is an in depth analysis of the latest developments market size status upcoming technologies industry drivers challenges regulatory policies with key company profiles and strategies of players The research"
+    publishedDateTime: 2020-09-22T08:08:00Z
+    webUrl: "https://www.openpr.com/news/2138902/ai-in-fintech-market-drives-future-change-ibm-corporation"
+    ampWebUrl: "https://www.openpr.com/amp/2138902/ai-in-fintech-market-drives-future-change-ibm-corporation"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2138902/ai-in-fintech-market-drives-future-change-ibm-corporation"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 54
+    images:
+      - url: "https://cdn.openpr.com/T/9/T922139685_g.jpg"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "n3XyqpRVoOd0gs/SXNwezj43hL1EC/iW1w8lYCqSd6WHmyTsrmxzPCrRWtG36mZ09SoFRK+k7460Mjbw3XMe4KHeR4jv4s82gvVO32HHYuOJUp4nPL4LNFM6Ho91Hp9JLE5KdTxrvU2TzL0Se1PM1wIdqvHQIPjtMZne0Np8htOhu12bG21/FBqMiAKMFPslR2dftT13/hUJQSQfNR5bx6/T5JlReiOERuUK5r0loumY4JIqKMFgqtPWVEjQZ1C66AIRjxvLKgGJaluYfqOEe3WlygjQghoN0i8pwnBmljZxVnlkJmxNfu+8c6sTKRtq8Jt8piA45jX7nV4CFvQn1TKhy9iqvvl5wAClpE4CF2Y=;07AkqYQ79tAG9JxbPsOMmw=="

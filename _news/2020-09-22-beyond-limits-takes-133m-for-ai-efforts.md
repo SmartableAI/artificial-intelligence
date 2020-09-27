@@ -32,22 +32,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Hybrid AI through data, space, time, and industrial applications: Beyond Limits scores $113M Series C to scale up"
-    excerpt: "Abdallat went on to add that today we already have a collection of independent AI system that are experts in their own field, and increasingly outperform humans: \"As you start connecting them together, you have a network of intelligence society ..."
-    publishedDateTime: 2020-09-22T11:18:00Z
-    webUrl: "https://www.zdnet.com/article/hybrid-ai-through-data-space-time-and-industrial-applications-beyond-limits-scores-113m-series-c-to-scale-up/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/hybrid-ai-through-data-space-time-and-industrial-applications-beyond-limits-scores-113m-series-c-to-scale-up/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hybrid-ai-through-data-space-time-and-industrial-applications-beyond-limits-scores-113m-series-c-to-scale-up/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 66
-    images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/09/22/7c255cb1-23de-4d9d-b3fb-158143cf2d40/aj-abdallat-headshot.jpg"
-        width: 1200
-        height: 807
-        isCached: true
   - title: "Israeli Pain Monitoring Startup Medasense Raises $18M in Series C Round"
     excerpt: "Considering 3the complex nature of pain, Medasense technology uses a unique multi-parametric sensor platform and advanced AI algorithms to convert complicated ... \"Medasense is a model startup, having successfully introduced a disruptive medical device ..."
     publishedDateTime: 2020-09-22T12:37:00Z

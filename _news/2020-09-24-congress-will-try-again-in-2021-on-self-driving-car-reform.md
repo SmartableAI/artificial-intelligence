@@ -58,21 +58,21 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 69
-  - title: "Man ‘asleep’ in speeding self-driving car charged in Canada"
-    excerpt: "A driver who allegedly set his car to autopilot and then took a nap as it broke the speed limit on a rural Canadian highway has been charged."
-    publishedDateTime: 2020-09-23T15:39:00Z
-    webUrl: "https://newsinfo.inquirer.net/1339191/man-asleep-in-speeding-self-driving-car-charged-in-canada"
-    ampWebUrl: "https://newsinfo.inquirer.net/1339191/man-asleep-in-speeding-self-driving-car-charged-in-canada/amp"
-    cdnAmpWebUrl: "https://newsinfo-inquirer-net.cdn.ampproject.org/c/s/newsinfo.inquirer.net/1339191/man-asleep-in-speeding-self-driving-car-charged-in-canada/amp"
+  - title: "Uber investors are pressuring CEO to revamp the self-driving division"
+    excerpt: "Uber was once a serious contender in the race to build self-driving cars. Today, the effort is lagging far behind rivals"
+    publishedDateTime: 2020-09-23T09:33:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/mobility/2020/09/21/uber-investors-pressuring-ceo-revamp-self-driving-division/5857206002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5857206002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5857206002"
     type: article
     provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
+      name: Detroit News
+      domain: detroitnews.com
     quality: 44
     images:
-      - url: "https://newsinfo.inquirer.net/files/2020/09/20200923-self-driving-car-620x349.png"
-        width: 620
-        height: 349
+      - url: "https://www.gannett-cdn.com/presto/2020/09/21/PDTN/41d1c803-2318-4f70-937e-43dc6a07e98d-Uber.jpg?auto=webp&crop=901,507,x20,y212&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Congress Parks Self-Driving Car Regulation Until 2021"
     excerpt: "The U.S. Congress will try again in 2021 to try to approve long-stalled reforms to speed the adoption of self-driving cars, a key Democratic lawmaker said"
@@ -87,6 +87,20 @@ related:
       - url: "https://www.insurancejournal.com/app/uploads/2017/01/Self-Driving-car-on-road.jpg"
         width: 900
         height: 581
+        isCached: true
+  - title: "Self-Driving Car Bill Reintroduced in House Minus Biggest Backer"
+    excerpt: "Legislation that would allow carmakers to sell as many as 100,000 self-driving vehicles per year in the U.S. is being reintroduced in the U.S. House of"
+    publishedDateTime: 2020-09-24T12:44:00Z
+    webUrl: "https://www.claimsjournal.com/news/national/2020/09/24/299540.htm"
+    type: article
+    provider:
+      name: Claims Journal
+      domain: claimsjournal.com
+    quality: 24
+    images:
+      - url: "https://www.claimsjournal.com/app/uploads/2020/09/BB.freeway.traffic-580x380.jpg"
+        width: 580
+        height: 380
         isCached: true
 
 secured: "EL9PJ3vwTDlmXxpjhLu79dGVrvysc25EANsr4Ldi+M8pD0tYgt5YK3OioYMujf6Me2AvLxC898awuNZSDvjD/8WTk+EtQCkiMN0u0+u/ejmtL1i0oDQF3hnBCplEAQ6UhZVGnMwnSqNvyvE2c6G5kz37M1wzUKpFjsCiVJBCGtwh7ELjf7oDZv9FwY9INPlsUHQGkqp8j6mGP15KsToZ9sHYf3c/vIjw0kB11kN9xNzx2mi+QdQqCCAJNA6YrlnO6iYx+MEW/8ZFUd9URZId70KQYWS74zsG6YH5cL6o5XOc2sDJY7PnfKyYPPgBi9OfGZIx+FjrvvtPczeKfM9uVnUXmGBEEsU/zGAgJdN3ZRQ=;oGFGFuzG+iOwUQmgMei7Ag=="

@@ -25,33 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "Expanding Amazon Lex conversational experiences with US Spanish and British English"
-    excerpt: "Amazon Lex provides the power of automatic speech recognition (ASR) for converting speech to text, along with natural language understanding (NLU) for recognizing user intents. This combination allows you to develop sophisticated conversational interfaces using both voice and text for chatbots, IVR bots,"
-    publishedDateTime: 2020-09-24T17:11:11Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/expanding-amazon-lex-conversational-experiences-with-us-spanish-and-british-english/"
+  - title: "Alexa gets smarter, more conversational with teachable AI"
+    excerpt: "Amazon has unveiled new artificial intelligence capabilities for Alexa, aimed at making the voice assistant more conversational in your home. Alexa will be \"more natural and more expressive,\" Amazon said during its annual product launch event Thursday."
+    publishedDateTime: 2020-09-24T17:52:00Z
+    webUrl: "https://www.cnet.com/news/alexa-gets-smarter-more-conversational-with-teachable-artificial-intelligence/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/alexa-gets-smarter-more-conversational-with-teachable-artificial-intelligence/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/alexa-gets-smarter-more-conversational-with-teachable-artificial-intelligence/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 83
+      name: CNET
+      domain: cnet.com
+    quality: 87
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/22/1-Chart-849x630.jpg"
-        width: 849
+      - url: "https://cnet3.cbsistatic.com/img/N4wEwahDtTeUbGfYdXvv7s9RFl4=/1200x630/2020/04/13/3ef98427-1cf3-4dde-90b8-7f9afd264fb3/amazon-echo-dot-3.jpg"
+        width: 1200
         height: 630
         isCached: true
-  - title: "Amazon redesigns the Echo with a new spherical design and a custom machine learning processor"
-    excerpt: "Amazon has announced the fourth-generation version of its main Echo smart speaker, bringing a new spherical design and better sound performance. But the biggest change is a new, on-device speech recognition module that will locally process your audio on the Echo,"
-    publishedDateTime: 2020-09-24T18:09:00Z
-    webUrl: "https://www.theverge.com/2020/9/24/21452347/amazon-echo-4th-generation-features-price-release-date-alexa"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/9/24/21452347/amazon-echo-4th-generation-features-price-release-date-alexa"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/9/24/21452347/amazon-echo-4th-generation-features-price-release-date-alexa"
+  - title: "Alexa will soon gain more natural-sounding speech and recognize when multiple people are speaking"
+    excerpt: "Amazon announced a slew of new developer tools and resources for Alexa during its annual September hardware event."
+    publishedDateTime: 2020-09-24T18:23:00Z
+    webUrl: "https://venturebeat.com/2020/09/24/alexa-will-soon-gain-more-natural-sounding-speech-and-recognize-when-multiple-people-are-speaking/"
+    ampWebUrl: "https://venturebeat.com/2020/09/24/alexa-will-soon-gain-more-natural-sounding-speech-and-recognize-when-multiple-people-are-speaking/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/24/alexa-will-soon-gain-more-natural-sounding-speech-and-recognize-when-multiple-people-are-speaking/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 76
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/09/amazon-echo-dot-2019-e1571958500413.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Amazon’s AZ1 Neural Edge processor will make Alexa voice commands even faster"
+    excerpt: "Amazon’s preexisting products without the AZ1 send both the audio and its corresponding interaction to the cloud to be processed and back. Comparatively, these new ones that have the AZ1 built in can handle the audio on-device,"
+    publishedDateTime: 2020-09-24T17:40:00Z
+    webUrl: "https://www.theverge.com/2020/9/24/21453205/amazon-az1-neural-edge-processor-echo-show-10-alexa-voice-on-device"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/9/24/21453205/amazon-az1-neural-edge-processor-echo-show-10-alexa-voice-on-device"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/9/24/21453205/amazon-az1-neural-edge-processor-echo-show-10-alexa-voice-on-device"
     type: article
     provider:
       name: The Verge
       domain: theverge.com
-    quality: 78
+    quality: 71
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/tEU5cAXnuXGjzhmDHRI_SkJtjws=/0x0:1920x1080/1400x933/filters:focal(807x387:1113x693):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67463013/msedge_X9RFhS71eu.0.jpg"
+      - url: "https://cdn.vox-cdn.com/thumbor/DYgai69ITBpKgyZOtwQoxPwVkQc=/0x0:1920x1080/1400x933/filters:focal(807x387:1113x693):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67463191/lcimg_daa1e3c5_6113_4da4_8224_ecc2d3a2d352.0.jpg"
         width: 1400
         height: 933
         isCached: true

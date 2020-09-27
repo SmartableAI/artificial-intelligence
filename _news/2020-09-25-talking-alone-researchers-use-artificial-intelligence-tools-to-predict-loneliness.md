@@ -57,6 +57,22 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "UCSD Team Uses Artificial Intelligence to Predict Loneliness in Older Adults"
+    excerpt: "Participants were interviewed by trained study staff in unstructured conversations that were analyzed using NLP-understanding software, plus other machine-learning tools"
+    publishedDateTime: 2020-09-24T21:41:00Z
+    webUrl: "https://www.nbcsandiego.com/news/local/ucsd-team-uses-artificial-intelligence-to-predict-loneliness-in-older-adults/2412038/"
+    ampWebUrl: "https://www.nbcsandiego.com/news/local/ucsd-team-uses-artificial-intelligence-to-predict-loneliness-in-older-adults/2412038/?amp"
+    cdnAmpWebUrl: "https://www-nbcsandiego-com.cdn.ampproject.org/c/s/www.nbcsandiego.com/news/local/ucsd-team-uses-artificial-intelligence-to-predict-loneliness-in-older-adults/2412038/?amp"
+    type: article
+    provider:
+      name: NBC 7 San Diego
+      domain: nbcsandiego.com
+    quality: 54
+    images:
+      - url: "https://media.nbcsandiego.com/2019/09/GettyImages-1185422927.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "UCSD researches use artificial intelligence to predict loneliness in older adults"
     excerpt: "SAN DIEGO (CNS) – In a paper published Thursday, a team led by researchers at UC San Diego School of Medicine used artificial intelligence to analyze language patterns of older adults to discern ..."
     publishedDateTime: 2020-09-24T23:35:00Z

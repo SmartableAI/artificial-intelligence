@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/martineparis/2020/09/23/how-to-dress-fo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2020/09/23/how-to-dress-for-the-pandemic-surprising-trends-from-the-stitch-fix-ai-fashion-forecast/amp/"
 type: article
 quality: 78
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Rebooting the post-pandemic enterprise with AI automation"
+    excerpt: "While 59% of these SCM practitioners currently use cloud infrastructure, only 28% have deployed predictive analytics systems and a mere 12% use AI technologies. A recent post by the VP of Azure's AI operations highlighted several other areas where AI can ..."
+    publishedDateTime: 2020-09-24T09:36:00Z
+    webUrl: "https://diginomica.com/rebooting-post-pandemic-enterprise-ai-automation"
+    ampWebUrl: "https://diginomica.com/rebooting-post-pandemic-enterprise-ai-automation?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/rebooting-post-pandemic-enterprise-ai-automation?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 59
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2020-04/brain-20424_1280.jpg"
+        width: 1280
+        height: 980
+        isCached: true
   - title: "The 4 Top Artificial Intelligence Trends For 2021"
     excerpt: "Before the global pandemic struck in 2020 and the world was turned on its head, artificial intelligence (AI), and specifically the branch of AI known as machine learning (ML), were already causing widespread disruption in almost every industry. The Covid ..."
     publishedDateTime: 2020-09-24T12:30:00Z

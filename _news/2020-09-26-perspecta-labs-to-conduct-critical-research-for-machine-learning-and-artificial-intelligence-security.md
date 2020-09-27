@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/perspecta-labs-to-conduc
 webUrl: "https://www.marketwatch.com/press-release/perspecta-labs-to-conduct-critical-research-for-machine-learning-and-artificial-intelligence-security-2020-09-24"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "AIDP and Andy Khawaja Conduct New Pandemic Research for AI Technology"
-    excerpt: "Artificial Intelligence Defense Platform, a technology start-up creating AI technology for a safer, more comfortable future, and its Founder Andy Khawaja have created a new department within AIDP that is dedicated to pandemic research to see how AI technology can be most useful in future pandemics."
-    publishedDateTime: 2020-09-25T10:00:00Z
-    webUrl: "https://www.djournal.com/aidp-and-andy-khawaja-conduct-new-pandemic-research-for-ai-technology/article_081c3fe6-da10-5a49-9840-5245736d1621.html"
-    type: article
-    provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/7/5b/75b16f8d-79bd-5b7d-812e-e500d2af7749/5f6dc6cd430df.image.jpg?crop=1247%2C701%2C0%2C480&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
         isCached: true
 
 secured: "B+H5CTx8yzX7rnIw2Tftun87Qyj3cPORt9a1Qk4Dmdo4IX1D2HOrDb4A0uuZTJLFVwlXSVz1HYl48/Zf9aOpnBxBwflP9dWBAsdx/VH5A4AaCDF87dGqLjkJsgeXXJArFLmARkWOkOIBwKYthreBsx6jbjWtNETeqR7qqwQVNrP6GDH61ydNMFY5MPc36k17+Z6KxaR3Bs9FtpFtGIFz5BGf66NW/ZQUwJr6FMF7Z0Oi6De6/eeH0aHPyiABYd+PTIoyopozECptAy+PxbUzkrCWGW7n39rVNHlhHKQ2vzrZBo63ZB9ekFRGKT5zBm/EZUfAqlgYOUuLeuUMFoQTf2qrdHk7l2bDlRichzfIqio=;9cb3GpcIvKplOOVxktuBPQ=="

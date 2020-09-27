@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2020/09/23/mastercards-vp-of-ai-talks-bots-nlp-
 ampWebUrl: "https://venturebeat.com/2020/09/23/mastercards-vp-of-ai-talks-bots-nlp-and-why-fintechs-need-ai-for-customer-service-vb-live/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/23/mastercards-vp-of-ai-talks-bots-nlp-and-why-fintechs-need-ai-for-customer-service-vb-live/amp/"
 type: article
-quality: 77
-heat: 77
+quality: 94
+heat: 94
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/09/mastercard-in-control-mineraltree.jpg?w=1200&#038;strip=all"

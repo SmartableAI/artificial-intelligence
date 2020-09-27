@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/25/ai-weekly-amazon-went-wide-with-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/25/ai-weekly-amazon-went-wide-with-alexa-now-its-going-deep/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 109
 published: true
 
 provider:
@@ -29,6 +29,40 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Amazon's Alexa gets a new brain on Echo, becomes smarter via AI and aims for ambience"
+    excerpt: "Amazon's new Echo devices are more like edge computing hardware in enterprises where the AI processing is going local. The upshot is that Alexa will be more ambient in the smart home, but most likely coming to work with you."
+    publishedDateTime: 2020-09-24T20:08:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/amazons-alexa-gets-a-new-brain-on-echo-becomes-smarter-via-ai-and-aims-for-ambience/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazons-alexa-gets-a-new-brain-on-echo-becomes-smarter-via-ai-and-aims-for-ambience/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazons-alexa-gets-a-new-brain-on-echo-becomes-smarter-via-ai-and-aims-for-ambience/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 80
+    images:
+      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/09/24/bc532dc1-2796-40d7-8236-733cc0766223/amzn-az1-neural-edge.png"
+        width: 827
+        height: 497
+        isCached: true
+  - title: "Amazon Alexa: How developers use AI to help Alexa understand what you mean and not what you say"
+    excerpt: "The developers and engineers on the Alexa Smart Home team use a variety of mechanisms, including AI and ML, to help Alexa better understand your voice requests."
+    publishedDateTime: 2020-09-25T15:42:00Z
+    webUrl: "https://www.techrepublic.com/article/amazon-alexa-how-developers-use-ai-to-help-alexa-understand-what-you-mean-and-not-what-you-say/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/amazon-alexa-how-developers-use-ai-to-help-alexa-understand-what-you-mean-and-not-what-you-say/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/amazon-alexa-how-developers-use-ai-to-help-alexa-understand-what-you-mean-and-not-what-you-say/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 75
+    images:
+      - url: "https://tr3.cbsistatic.com/hub/i/r/2015/09/14/7ec6790b-2644-456e-b63d-6a07ddd173d3/resize/400x/3f0ca063a1a96d845fdfd2ff97d575ea/amazonechoteardown015.jpg"
+        width: 400
+        height: 267
+        isCached: true
 
 secured: "D/vnjnwcxcrWA8TV7TefEYkWuNzM4KoZfi7G2Bdq/bBOHd6GiRoZrWf10ZLqKfG0Us4/p2Nf/ECWFOO0/RaHqHjVN/pgOIU0UXGoJ975k5t/Vddb/uNvyden1q8WirKGrpa+UaVcsjQgqNPoRQWHeBfNG4ySEmt1nZpaGA1BE8OF2CapxAMpeMr3QBjKAXuxkiNEXB7GRrOSWdKgbR9x5ZGx5v9nqwSKUN9Cf/nAyVhWnMOSZ+4iqzcNOzS2gwSOEC5WhydAuGgX5QH5/BV4TzyNaN5Vih47fH4JJzSyT/T6T+ajiV+CQ/AlS1nRisif+Iqu3GZKg0uf5aVbFTrmIvVo6mNCMVNKwpWNRpJEu5c=;fcU9mmI55xLGmJQGRtbVFA=="
 ---

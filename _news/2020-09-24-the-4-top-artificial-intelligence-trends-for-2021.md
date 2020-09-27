@@ -40,6 +40,22 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "Rebooting the post-pandemic enterprise with AI automation"
+    excerpt: "While 59% of these SCM practitioners currently use cloud infrastructure, only 28% have deployed predictive analytics systems and a mere 12% use AI technologies. A recent post by the VP of Azure's AI operations highlighted several other areas where AI can ..."
+    publishedDateTime: 2020-09-24T09:36:00Z
+    webUrl: "https://diginomica.com/rebooting-post-pandemic-enterprise-ai-automation"
+    ampWebUrl: "https://diginomica.com/rebooting-post-pandemic-enterprise-ai-automation?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/rebooting-post-pandemic-enterprise-ai-automation?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 59
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2020-04/brain-20424_1280.jpg"
+        width: 1280
+        height: 980
+        isCached: true
 
 secured: "gMmh68wCRyTme3RTMD1WNbNOavuvq5XPWni4hKYJpwLrVF6a+hU22k4A0gtaNutx3Agen7hbsBGUSecUEqhsdxD/a+QWs3aS7LO+9S5f+lRvglqt8mokTtqya4ogSBcjgXH6hMP1id7U1bHMgGGFRA4+sjkobMmTNNz++hopHY0VJB1s3zUzplE+CINteg8xqLAVd4VPgYxUTFyp7ZewYCX453bFaYOdoDQsTArax4Wo/sW2NRpvfe6G+ezciQl2g8visP+cTt8SMPT1YKWf7SR0SDluW4TMpW3LMGGF4hosnCWJ29JgSHYn2dNRzSgkjM9B8tuE8vCnCS2y9kDOFEf2TQFj8OVVSGAxhvFHDvk=;EnxxQvxNv3gLpjauGVJg5w=="
 ---

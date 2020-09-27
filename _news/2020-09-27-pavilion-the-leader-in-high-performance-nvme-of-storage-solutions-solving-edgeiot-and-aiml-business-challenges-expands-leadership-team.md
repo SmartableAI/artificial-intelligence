@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-26T18:57:00Z
 originalUrl: "https://www.businesswire.com/news/home/20200917005867/en/"
 webUrl: "https://www.businesswire.com/news/home/20200917005867/en/"
 type: article
-quality: 4
-heat: 4
+quality: 21
+heat: 21
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://mms.businesswire.com/media/20200917005867/en/784279/23/PAV-Logo-fullcolor.jpg"

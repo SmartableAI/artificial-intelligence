@@ -35,6 +35,38 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Snapdragon 750G unveiled with mmWave 5G support, AI noise suppression"
+    excerpt: "The AI can mute the sound of jackhammers and sirens so you can call from noisy environments and no one will know it."
+    publishedDateTime: 2020-09-22T13:49:00Z
+    webUrl: "https://www.gsmarena.com/snapdragon_750g_unveiled_with_mmwave_5g_support_ai_noise_suppression-news-45396.php"
+    ampWebUrl: "https://m.gsmarena.com/snapdragon_750g_unveiled_with_mmwave_5g_support_ai_noise_suppression-amp-45396.php"
+    cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/snapdragon_750g_unveiled_with_mmwave_5g_support_ai_noise_suppression-amp-45396.php"
+    type: article
+    provider:
+      name: GSM Arena
+      domain: gsmarena.com
+    quality: 59
+    images:
+      - url: "https://fdn.gsmarena.com/imgroot/news/20/09/snapdragon-750g-announced/-1220x526/gsmarena_000.jpg"
+        width: 1220
+        height: 526
+        isCached: true
+  - title: "Global Chipmaker Qualcomm announces Snapdragon 750G chip with 5G connectivity"
+    excerpt: "Global chipmaker Qualcomm has announced Snapdragon 750G 5G Mobile Platform that enables global 5G connectivity with HDR gaming and on-device AI.Snapdragon 750G offers"
+    publishedDateTime: 2020-09-23T07:20:00Z
+    webUrl: "https://english.madhyamam.com/technology/global-chipmaker-qualcomm-announces-snapdragon-750g-chip-with-5g-connectivity-574863"
+    ampWebUrl: "https://english.madhyamam.com/amp/technology/global-chipmaker-qualcomm-announces-snapdragon-750g-chip-with-5g-connectivity-574863"
+    cdnAmpWebUrl: "https://english-madhyamam-com.cdn.ampproject.org/c/s/english.madhyamam.com/amp/technology/global-chipmaker-qualcomm-announces-snapdragon-750g-chip-with-5g-connectivity-574863"
+    type: article
+    provider:
+      name: Madhyamam
+      domain: madhyamam.com
+    quality: 56
+    images:
+      - url: "https://english.madhyamam.com/h-upload/2020/09/23/698411-qualcomm-hq-5-web.jpg"
+        width: 1798
+        height: 1080
+        isCached: true
   - title: "Qualcomm announces Snapdragon 750G with 5G connectivity and improved CPU and GPU performance"
     excerpt: "The Qualcomm Snapdragon 750G features the 5th-generation Qualcomm AI Engine that claims to offer ... In terms of graphics processing, it has the Adreno 619 GPU, which is said to enable up to ..."
     publishedDateTime: 2020-09-22T13:47:00Z
@@ -51,6 +83,20 @@ related:
         width: 700
         height: 393
         isCached: true
+  - title: "Qualcomm preps edge AI offering"
+    excerpt: "Almost 18 months on from the initial announcement of the Cloud AI 100 AI accelerator, Qualcomm has released a few further details of the solution form"
+    publishedDateTime: 2020-09-23T13:51:00Z
+    webUrl: "https://www.embedded.com/qualcomm-preps-edge-ai-offering/"
+    type: article
+    provider:
+      name: Embedded
+      domain: embedded.com
+    quality: 41
+    images:
+      - url: "https://www.embedded.com/wp-content/uploads/2020/09/img20200923085012Qualcomm-Cloud-AI-100-Promises-I_0.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Qualcomm announces Snapdragon 750G chip with 5G connectivity"
     excerpt: "Global chipmaker Qualcomm has announced Snapdragon 750G 5G Mobile Platform that enables global 5G connectivity with HDR gaming and on-device AI. Snapdragon 750G offers select Qualcomm Elite Gaming features to allow for smooth,"
     publishedDateTime: 2020-09-23T13:50:00Z
@@ -64,6 +110,20 @@ related:
       - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/qualcomm-announces-snapdragon-750g-chip-with-5g-connectivity-2020-09-23.jpg"
         width: 1000
         height: 800
+        isCached: true
+  - title: "Qualcomm Unveils Snapdragom 750G 5G Mobile Platform with HDR Gaming and On-device AI"
+    excerpt: "Qualcomm Technologies on Tuesday announced a new 5G mobile platform in the 7-series, the Qualcomm Snapdragon 750G 5G Mobile Platform"
+    publishedDateTime: 2020-09-24T01:31:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/18075-qualcomm-adds-new-5g-mobile-platform-to-snapdragon-7-series"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 32
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/ff1fd2afd5ad40e61d1f97f900b92c7e.jpg?t=20200924_012159"
+        width: 752
+        height: 408
         isCached: true
 
 secured: "nLQ1gXtJ0CORBlLNQo2lmHqYgCSiraakNGM8B6RqlOr+4U8ipVh/pVAzjP71TD+xRmLgmXuZGw8HRwBKAAthDqUQjVe8dK2x/m2xgvRA7TCkSmP5M4SuFijUEUc6BO+VuZKGhU81ThfLmXoLMULoxd9bKl1sgvH6XJVZgZ+mUNJcuSlgdJJpgbHmzTWyg4sLRYe+IZlzKnbDThWU5TxxUDH2WW+SMzD2UC5Nvn5uVivaSJF/pnfxXPu2Ec2YLwxHAOIL/9VfJBzs8dPrb8W69qwRTR+/QJsx8EnBMTRNfHFid0ohMUuvsNCV94zMyNR7HdbM1oTUOox8aafoPpT6VHVwKOAcMy9qPzXdH2ID8toExJATS6uJ9cDYV5mBFZBPpZir8/r+d0ZX6O4IXuz+M0JVpN1LfY7mA0nQUAFyBh9L4rqWHOcNBQ+beu+9o2C5FHDxf/9rAtJym7joX+yK4jGAxXZK4VaUqn/FR4e/5QO2j00boZvR7xlmziRAcqdpKHXi4W4BrF0ECOXJt61vzg==;sDn9wlA95SPWJM4YqpMuDg=="

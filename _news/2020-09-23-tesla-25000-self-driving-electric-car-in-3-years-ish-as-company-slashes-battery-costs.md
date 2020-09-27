@@ -28,35 +28,16 @@ images:
 
 related:
   - title: "Can Tesla Really Produce A $25,000 Self-Driving Electric Car?"
-    excerpt: "Despite the underwhelming response to Tesla’s Battery Day, CEO Elon Musk laid out some very ambitious plans for the company, though achieving them poses some major challenges"
-    publishedDateTime: 2020-09-26T21:00:00Z
-    webUrl: "https://oilprice.com/Energy/Energy-General/Can-Tesla-Really-Produce-A-25000-Self-Driving-Electric-Car.html"
-    ampWebUrl: "https://oilprice.com/Energy/Energy-General/Can-Tesla-Really-Produce-A-25000-Self-Driving-Electric-Car.amp.html"
-    cdnAmpWebUrl: "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Energy-General/Can-Tesla-Really-Produce-A-25000-Self-Driving-Electric-Car.amp.html"
+    excerpt: "During Tuesday’s much-hyped battery day, Tesla CEO Elon Musk laid out plans to put everyone behind the wheel (or is that sleeping in the"
+    publishedDateTime: 2020-09-26T22:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692"
     type: article
     provider:
-      name: Crude Oil Prices
-      domain: oilprice.com
-    quality: 59
-    images:
-      - url: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2020-09-25_hxhwkuvma8.jpg"
-        width: 700
-        height: 292
-        isCached: true
-  - title: "Tesla’s new battery tech promises a road to a cheap self-driving electric car"
-    excerpt: "New battery manufacturing tech could lead to big jumps in electric vehicle efficiency if everything works out. Latest Cookie Settings Many products featured on this site were editorially chosen. Popular Science may receive financial compensation for products purchased through this site."
-    publishedDateTime: 2020-09-25T04:38:00Z
-    webUrl: "https://www.popsci.com/story/technology/tesla-battery-day-cheap-electric-self-driving-car/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 36
-    images:
-      - url: "https://www.popsci.com/resizer/jXSh1CA-PX-ANxYvpM5Lum114wY=/1200x628/smart/cloudfront-us-east-1.images.arcpublishing.com/bonnier/RVOSZ4HXANHXXFTCRPSUHJ4FEE.png"
-        width: 1200
-        height: 628
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
 
 secured: "OZxnSenGAjiOuW0pxh17MAInZtX67dki05KpOxsppgzMNHB+89KrDptuZacHgYh7IX1rnRAhG/GOKrYL3gfuVciu71WQ/G752dNUPdFl5SI62pIh3omLDFVzU8LYZj9KBGnHlhN7VSC3izkLKqErdSIMl+D2FtIpoARDJE1PL2DPSElyvzlG0Qs1Vg1YIDa+z6mX0koPYSAkC7s07s926+0GtISsHU58pvGCsWaxCIFLqxKNpnxbXBWVr/K+gPn1lF4AypD2vMx3T7gtNdFkkE9DlIy90MQ7XZWLYiHijJLJkR/OHvdck7ull7BHhZRb8ozG+12ivl/C7kzgIxDoKVs9DWDnfkMY0PXuH1ypbiA=;mPRGMKdtGDL7YPEZGvnKIQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.chinadaily.com.cn/a/202009/24/WS5f6c0c50a31024ad0ba7b7
 webUrl: "https://www.chinadaily.com.cn/a/202009/24/WS5f6c0c50a31024ad0ba7b7c8.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 720
     height: 480
     isCached: true
-
-related:
-  - title: "Israeli startup EasySend lands $11M to bring an end to paperwork"
-    excerpt: "In a conversation with Geektime, CEO Tal Daskal tells that the platform utilizes AI technologies to transform the paperwork into a full digitized document, rather than strictly a PDF scanned file. The company says that “it’s fully understood now that ..."
-    publishedDateTime: 2020-09-23T11:32:00Z
-    webUrl: "https://www.geektime.com/easysend-raises-11m/"
-    ampWebUrl: "https://www.geektime.com/easysend-raises-11m/amp/"
-    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/easysend-raises-11m/amp/"
-    type: article
-    provider:
-      name: Geektime
-      domain: geektime.com
-    quality: 42
-    images:
-      - url: "https://www.geektime.com/content/images/2020/09/drag-and-drop-builder-1600764931.png"
-        width: 927
-        height: 541
-        isCached: true
 
 secured: "YZFVYgTEabK2HWomPD5RFCSrD9qvNMb1o5ybS33EfNm9U+w+fzwQV6soEwvfiATAJm3PrgfqO25LeAo5JHYt7JLRCBkL6X+l9R7akXo/dULWdPRtmrJTjjq49iyzU1yHLVBcsAA0N2h00qSI/SffOgDILyqasSjRvYa11RGxlyH7+1B7pgb5FUZsUTUF9fY9Cuw5X8A2/DrJDVIlhrj+63E7aodEOkXuXfz/TxuPO4lfbikberhW+w8RMhzsEWouFJQ3Xw3GB6BicH17hv3wKh+YkJ3cTMT9gzvNua9nE4S/lpR+QfQe2Svv3h6jMYxHmqkqu5pNNIZv3FIYwViHu9stbqW7S4rGGCwyrUk21FSKLWvQhb4woZa/26amMHTDmgqGpIcHMghvXvI9hLNhc0+7yb/AhPzuc6tMgN+YyEjnkZAuit6WnnWT5jflwRgA4EoEAzadY/6uMOJAjaEN4UR5JNPDiy886fRxYC6STcJFocLmYH8s4NEtRRB6mjij1yTn+++cY/CBd0aLpC1RVg==;EnHEhkHRczJ5hv4DdzZB8Q=="
 ---

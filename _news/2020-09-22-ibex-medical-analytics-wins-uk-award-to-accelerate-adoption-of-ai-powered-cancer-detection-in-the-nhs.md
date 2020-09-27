@@ -24,53 +24,67 @@ images:
     isCached: true
 
 related:
-  - title: "MIT Prof Wins $1M Award for Machine Learning-Based Cancer Detection"
-    excerpt: "Professor Regina Barzilay of MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) pioneered new advances in breast cancer detection using machine learning."
-    publishedDateTime: 2020-09-25T15:42:00Z
-    webUrl: "https://www.pcmag.com/news/mit-prof-wins-1m-award-for-machine-learning-based-cancer-detection"
-    ampWebUrl: "https://www.pcmag.com/news/mit-prof-wins-1m-award-for-machine-learning-based-cancer-detection?amp=true"
-    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/mit-prof-wins-1m-award-for-machine-learning-based-cancer-detection?amp=true"
+  - title: "Ava Aware Cloud combines machine learning and advanced analytics for organisations of any size"
+    excerpt: "This video security solution offers the simplicity and flexibility of a cloud platform while providing the same intelligent, proactive security, and AI capabilities of Ava’s on-premises and hybrid solutions ... within the enterprise suggests a need ..."
+    publishedDateTime: 2020-09-24T11:14:00Z
+    webUrl: "https://www.beyond.ai/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 89
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 110
     images:
-      - url: "https://i.pcmag.com/imagery/articles/030rLSKD8S7Pi7pPiiqgCuw-1.1601045739.fit_lim.size_1200x630.jpg"
-        width: 805
-        height: 453
+      - url: "https://www.beyond.ai/wp-content/uploads/2019/06/Energy-Thumbnail.jpg"
+        width: 1920
+        height: 1280
         isCached: true
-  - title: "MIT professor wins top AI award for cancer, drug research"
-    excerpt: "It’s meant to elevate AI advancements to the level of a Nobel Prize or computer science’s Turing Award, while also highlighting AI research that benefits society ... and gained almost no following, Facebook said. Their primary focus was Southeast ..."
-    publishedDateTime: 2020-09-23T14:20:00Z
-    webUrl: "https://www.wavy.com/news/technology/mit-professor-wins-top-ai-award-for-cancer-drug-research/"
-    ampWebUrl: "https://www.wavy.com/news/technology/mit-professor-wins-top-ai-award-for-cancer-drug-research/amp/"
-    cdnAmpWebUrl: "https://www-wavy-com.cdn.ampproject.org/c/s/www.wavy.com/news/technology/mit-professor-wins-top-ai-award-for-cancer-drug-research/amp/"
+  - title: "AI, Machine Learning, and Data Analytics in the Smart Home Market Analysis 2020-2028 Trends, Types, Applications and Regions"
+    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
+    publishedDateTime: 2020-09-22T08:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-machine-learning-and-data-analytics-in-the-smart-home-market-analysis-2020-2028-trends-types-applications-and-regions-2020-09-21"
     type: article
     provider:
-      name: WAVY
-      domain: wavy.com
-    quality: 59
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
     images:
-      - url: "https://www.wavy.com/wp-content/uploads/sites/3/2020/09/4609b2fdb139436693ce18ebc650d90b.jpg?w=1280"
-        width: 1280
-        height: 853
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Professor at MIT wins top AI award for cancer, drug research"
-    excerpt: "A Massachusetts Institute of Technology professor using computer science to detect cancer and discover new drugs has won a new $1 million award for artificial intelligence."
-    publishedDateTime: 2020-09-23T21:38:00Z
-    webUrl: "https://cbs4indy.com/news/professor-at-mit-wins-top-ai-award-for-cancer-drug-research/"
-    ampWebUrl: "https://cbs4indy.com/news/professor-at-mit-wins-top-ai-award-for-cancer-drug-research/amp/"
-    cdnAmpWebUrl: "https://cbs4indy-com.cdn.ampproject.org/c/s/cbs4indy.com/news/professor-at-mit-wins-top-ai-award-for-cancer-drug-research/amp/"
+  - title: "Maru Launches Conversational AI Analytics Tool"
+    excerpt: "Tech-enabled insights group Maru has launched Conversational AI, an intelligent, device-agnostic feedback tool, as part of its Maru/HUB platform. Maru says the tool - available across messaging platforms including WhatsApp and Facebook Messenger to enhance familiarity for audiences - allows researchers and marketers to combine conversational feedback with its existing research technologies and traditional survey approaches for a more holistic understanding of consumer response."
+    publishedDateTime: 2020-09-23T00:42:00Z
+    webUrl: "https://www.mrweb.com/drno/news30322.htm"
     type: article
     provider:
-      name: WTTV
-      domain: cbs4indy.com
-    quality: 59
+      name: MrWeb
+      domain: mrweb.com
+    quality: 19
+  - title: "True North: Pioneering Analytics, Algorithms and Artificial Intelligence"
+    excerpt: "True North initiated the “Analytics, Algorithms and Artificial Intelligence” (3A) project. A system, Kelp, was designed and developed internally to facilitate the transformation of True North into an AI-first firm based on the introduction of data ..."
+    publishedDateTime: 2020-09-23T12:11:00Z
+    webUrl: "https://www.hbs.edu/faculty/Pages/item.aspx?num=58794"
+    type: article
+    provider:
+      name: Harvard Business School
+      domain: hbs.edu
+    quality: 16
+  - title: "Business Intelligence And Analytics Market 2020 Global Insights and Technology Advancement –IBM Corporation, Microsoft Corporation, SAP SE"
+    excerpt: "The market can be segmented on the basis of type into spatial and location analytics, advanced and predictive analytics, cognitive/AI (Artificial Intelligence), content analytics and end-user query and reporting analytics. On the basis of services ..."
+    publishedDateTime: 2020-09-23T11:45:00Z
+    webUrl: "https://www.openpr.com/news/2140458/business-intelligence-and-analytics-market-2020-global"
+    ampWebUrl: "https://www.openpr.com/amp/2140458/business-intelligence-and-analytics-market-2020-global"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2140458/business-intelligence-and-analytics-market-2020-global"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 8
     images:
-      - url: "https://cbs4indy.com/wp-content/uploads/sites/22/2020/09/AP20267545042752.jpg?w=1280"
-        width: 1280
-        height: 853
+      - url: "https://cdn.openpr.com/T/9/T923400733_g.jpg"
+        width: 800
+        height: 312
         isCached: true
 
 secured: "5waU1qoVFF9s2AYWvO557g7N5gvFZhXOVG9H4Yop5f5Wf56/CKosaQwcyaPnSplOKM6xRMMQTPSPaEx5KVVNwu0juazcgnjEd1FpGe5MVOkVsiZwC/DCvkTIhh4+8Ze1Fp5bI9lZj/6+UzG6YQVew6IfG7HpvPl6w/F+PgDpv4e6mH+JD1byxI/ylJYwf1wZWhCeWzNaC4LR8EO4twd4hMVuu63hrcj9dG2fC35OrSR5Gtj1uL2AlXS7lt2pVv0PBEuvwj7LmInC/NV51sMWhOHabpFDJfuJczfIEzZhm1eH+x6kUEPdjolRf2WNhihmzq92XPGbpsk4ki7Wo+ZnKdGnbabTCV3jumgRw/HtMSM=;8a1prauq0HhEQaH0jYr6AQ=="

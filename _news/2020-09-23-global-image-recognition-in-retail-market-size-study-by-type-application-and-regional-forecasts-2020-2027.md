@@ -27,38 +27,38 @@ images:
     isCached: true
 
 related:
-  - title: "Computer Vision in Artificial Intelligence (AI) Market Outlook and Global Insights 2020 to 2026"
-    excerpt: "Market Insights Reports published a report on the Global Computer Vision in Artificial Intelligence (AI) Market analysis and forecast 2020-2026 delivering key insights and providing a competitive advantage to clients through a comprehensive report."
-    publishedDateTime: 2020-09-24T16:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-outlook-and-global-insights-2020-to-2026-2020-09-24"
+  - title: "Artificial Intelligence (AI) in Construction Market Study COVID-19 Impact Analysis, Growth Factors, Outlook Till 2028"
+    excerpt: "An estimated 51.2 % of the global population was using internet by the end of 2018 - International Telecommunication"
+    publishedDateTime: 2020-09-22T08:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-study-covid-19-impact-analysis-growth-factors-outlook-till-2028-2020-09-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 89
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "At CAGR 36.2%, Artificial Intelligence Market 2020: Future Challenges And Industry Growth Outlook 2025"
-    excerpt: "Artificial Intelligence Market is valued at USD 23.94 Billion in 2018 and expected to reach USD 208.49 Billion by 2025"
-    publishedDateTime: 2020-09-25T09:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/at-cagr-362-artificial-intelligence-market-2020-future-challenges-and-industry-growth-outlook-2025-2020-09-25"
+  - title: "Impact Of COVID-19 On Deep Learning Market Size, Share and Top Key Players During 2020-2028"
+    excerpt: "An estimated 51.2 % of the global population was using internet by the end of 2018 - International Telecommunication"
+    publishedDateTime: 2020-09-25T12:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/impact-of-covid-19-on-deep-learning-market-size-share-and-top-key-players-during-2020-2028-2020-09-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Contact Center AI Software Market 2020 Global Trend, Segmentation and Opportunities Forecast To 2026"
-    excerpt: "Sep 22, 2020 (Heraldkeepers) -- New Study Reports “Contact Center AI Software Market 2020 Global Market Opportunities, Challenges, Strategies and Forecasts 2026” has been Added on WiseGuyReports. The fundamental dynamics that are explored in the report ..."
-    publishedDateTime: 2020-09-22T18:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/contact-center-ai-software-market-2020-global-trend-segmentation-and-opportunities-forecast-to-2026-2020-09-22"
+  - title: "Artificial Intelligence (AI) in Drug Discovery Market Dynamics and Competitive Scenario through 2030 | Impact of COVID-19 Pandemic"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Sep 23, 2020 (AmericaNewsHour) -- Global artificial intelligence (AI) in drug discovery market will reach $2.57 billion by 2026, growing by 30.3% annually over 2020-2026 ..."
+    publishedDateTime: 2020-09-23T09:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-drug-discovery-market-dynamics-and-competitive-scenario-through-2030-impact-of-covid-19-pandemic-2020-09-23"
     type: article
     provider:
       name: MarketWatch
@@ -83,10 +83,38 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Machine Learning Market 2020 Industry Growth Analysis by Key Players, Segments, Competitive Landscape and Forecast to 2025"
-    excerpt: "Sep 22, 2020 (CDN Newswire via Comtex) -- The research report by MarketandResearch.biz, titled Global Machine Learning Market 2020 by Company, Type and Application, Forecast to 2025 draws research, analysis, and estimations by applying reliable knowledge ..."
-    publishedDateTime: 2020-09-22T20:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-market-2020-industry-growth-analysis-by-key-players-segments-competitive-landscape-and-forecast-to-2025-2020-09-22"
+  - title: "Artificial Intelligence (AI) in Social Media Market Share, Historical Growth, Analysis, Opportunities and Forecast To 2028 COVID-19 Of Impact"
+    excerpt: "An estimated 51.2 % of the global population was using internet by the end of 2018 - International Telecommunication"
+    publishedDateTime: 2020-09-25T13:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-social-media-market-share-historical-growth-analysis-opportunities-and-forecast-to-2028-covid-19-of-impact-2020-09-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Europe Artificial Intelligence (AI) in Drug Discovery Market : Industry Analysis and Opportunity Assessment 2021-2030 | Impact of COVID-19 Pandemic"
+    excerpt: "Europe artificial intelligence (AI) in drug discovery market reached $108.6 million in 2019 and will grow by 28.7%"
+    publishedDateTime: 2020-09-23T09:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/europe-artificial-intelligence-ai-in-drug-discovery-market-industry-analysis-and-opportunity-assessment-2021-2030-impact-of-covid-19-pandemic-2020-09-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Solutions Market Regional Analysis, Growth Drivers and Competitive Vendors | Apple Inc, Alphabet, IBM"
+    excerpt: "Segmentation by Industry Vertical:, Media & Advertising, BFSI, IT & Telecom, Retail, Healthcare, Automotive & Transportation Download Now And Browse Complete Information On The COVID 19 Impact Analysis On Artificial Intelligence Solutions Market ..."
+    publishedDateTime: 2020-09-24T05:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-solutions-market-regional-analysis-growth-drivers-and-competitive-vendors-apple-inc-alphabet-ibm-2020-09-24"
     type: article
     provider:
       name: MarketWatch
@@ -97,19 +125,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Far-Field Speech And Voice Recognition Market Evolving Technology and Growth Outlook 2020 to 2026"
-    excerpt: "Sep 23, 2020 (Market Insight Reports) -- The Far-Field Speech And Voice Recognition Market report is a compilation of first-hand information, qualitative and quantitative assessment by industry analysts, inputs from industry experts and industry ..."
-    publishedDateTime: 2020-09-23T05:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/far-field-speech-and-voice-recognition-market-evolving-technology-and-growth-outlook-2020-to-2026-2020-09-23?mod=mw_quote_news"
+  - title: "Tech Innovators Pitch AI Solutions for COVID-19 and the Contactless Economy"
+    excerpt: "Onto retail, Dr. Nicky Lu (Chairman & CEO of eYs3D Microelectronics and Etron Tech) champions AI-on-chip and his achievement in producing the world’s smallest DRAM semiconductors, followed by Sega Cheng (Co-founder & CEO of iKala) who presents his ..."
+    publishedDateTime: 2020-09-24T15:54:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200924005277/en/Tech-Innovators-Pitch-AI-Solutions-for-COVID-19-and-the-Contactless-Economy"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
+      name: Business Wire
+      domain: businesswire.com
+    quality: 37
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://mms.businesswire.com/media/20200924005277/en/824298/23/2020_AI_NOW_Online_Tech_Forum_EP1_AI_in_the_Contactless_Economy_post-event.jpg"
         width: 1200
-        height: 630
+        height: 627
         isCached: true
   - title: "Data storage market Size Outlook, COVID19 Impact on Industry, Share Value, Global Growth Drivers and Industry Forecast to 2026"
     excerpt: "Even though the trend of major companies to develop own storage platform such as Microsoft Azure, IBM Cloud ... data management, and AI and Machine learning offer opportunities for the data storage market to grow in the future. Besides, as the virtual ..."
@@ -125,46 +153,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing (NLP) in Life Sciences Services Market 2020 Global Trend, Segmentation and Opportunities Forecast To 2025"
-    excerpt: "The report on the global Natural Language Processing (NLP) in Life Sciences Services market provides a thorough assessment of the COVID-19 impact on the current and future market prospects across various geographies. Starting with an informative market ..."
-    publishedDateTime: 2020-09-22T11:53:00Z
-    webUrl: "https://www.openpr.com/news/2139345/natural-language-processing-nlp-in-life-sciences-services"
-    ampWebUrl: "https://www.openpr.com/amp/2139345/natural-language-processing-nlp-in-life-sciences-services"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2139345/natural-language-processing-nlp-in-life-sciences-services"
+  - title: "COVID-19 Recovery Analysis: Artificial Intelligence Platforms Market | Rise In Demand For AI-based Solutions to boost the Market Growth | Technavio"
+    excerpt: "Technavio has been monitoring the artificial intelligence platforms market and it is poised to grow by $ 12.51 bn during 2020-2024, progressing at a CAGR of over 33% during the forecast period. The report offers an up-to-date analysis regarding the current market scenario,"
+    publishedDateTime: 2020-09-25T21:39:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200916005770/en/COVID-19-Recovery-Analysis-Artificial-Intelligence-Platforms-Market-Rise-In-Demand-For-AI-based-Solutions-to-boost-the-Market-Growth-Technavio"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 8
-  - title: "Business Intelligence And Analytics Market 2020 Global Insights and Technology Advancement –IBM Corporation, Microsoft Corporation, SAP SE"
-    excerpt: "The market can be segmented on the basis of type into spatial and location analytics, advanced and predictive analytics, cognitive/AI (Artificial Intelligence), content analytics and end-user query and reporting analytics. On the basis of services ..."
-    publishedDateTime: 2020-09-23T11:45:00Z
-    webUrl: "https://www.openpr.com/news/2140458/business-intelligence-and-analytics-market-2020-global"
-    ampWebUrl: "https://www.openpr.com/amp/2140458/business-intelligence-and-analytics-market-2020-global"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2140458/business-intelligence-and-analytics-market-2020-global"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 8
+      name: Business Wire
+      domain: businesswire.com
+    quality: 14
     images:
-      - url: "https://cdn.openpr.com/T/9/T923400733_g.jpg"
-        width: 800
-        height: 312
-        isCached: true
-  - title: "Global Healthcare Service Robots Market Analysis and Forecast, 2020-2025: Robots Lending a Hand During Covid-19 Outbreak - ResearchAndMarkets.com"
-    excerpt: "Analysis and Forecast, 2020-2025\" report has been added to ResearchAndMarkets.com's offering. The global healthcare service robots market was valued to be $462.3 million in 2019 and is anticipated to witness an impressive double-digit growth rate,"
-    publishedDateTime: 2020-09-25T08:20:00Z
-    webUrl: "https://www.dailyrecordnews.com/ap_news/business/global-healthcare-service-robots-market-analysis-and-forecast-2020-2025-robots-lending-a-hand-during/article_72c1d11e-b8c8-56c5-94f7-93f07085c5f2.html"
-    type: article
-    provider:
-      name: Ellensburg Daily Record
-      domain: dailyrecordnews.com
-    quality: 2
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/dailyrecordnews.com/content/tncms/custom/image/0ef5f48e-94dc-11e7-8ed4-3365baf52acf.png"
+      - url: "https://mms.businesswire.com/media/20200916005770/en/821962/23/IRTNTR44235.jpg"
         width: 1200
-        height: 630
+        height: 627
         isCached: true
 
 secured: "xS7GTqzZfnQdvXjj8ohVnfCH4W/jSqokLfJT+FKcc7wATzYAZ1fFYJ/vobFfGWAVLgGWwNqCwp59LXPFcqrQk7iTAdMjysGLEoKaiz8E1iO8WkYDx4aHpT2axmviuB/4YSlM6vbwrq8C18nYJ2E6symhEQW6grSeKqOVo0q61776LAxBuTjik38pwGAx64G17CA+q6F6nOJfMZ+EkSyRmsyPslEcc7ZnbzWL2vh4W+3VnK4sspFQ5td6InI577IneIBio5XEux+Onh4vZ8eHtKUPauFVfFC69du79eYEFJMOM9CS3mL69Cozo9/+fX1jcFcEPamrtZx4BEmTnP3SW626Uldz8nhlpTScidAeEA+vTzrGhLZX2dpl6OxdHC4/xbIsDS4MooHzNmRWJHf+cFspgRoOand256Xk57W8UfYO9OeCYfBs/6WNG2yhm5JoWjr8iFZn78Qmx3Uc51ShdaCLGL3JzSawKUYDt2zbYTYPRj84rRsVdJ+gu6XUDd7Ik4mrauQyaeTWl5cyvQRdkQ==;r5TaROsg2d9BzvMZSQnmQw=="

@@ -29,17 +29,22 @@ images:
     isCached: true
 
 related:
-  - title: "Israel's Mobileye, Dubai's Habtoor Partner on Self-Driving Cars"
-    excerpt: "Israel's Mobileye and United Arab Emirate's Al Habtoor Group launched a partnership on Wednesday to create a fleet of self-driving \"robotaxis\" that could take to the streets of Dubai by the end of 2022."
-    publishedDateTime: 2020-09-23T12:25:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars?context=amp"
+  - title: "Israel's Mobileye, Dubai's Habtoor partner on self-driving cars"
+    excerpt: "JERUSALEM/DUBAI (Reuters) - Israel’s Mobileye and United Arab Emirate’s Al Habtoor Group launched a partnership on Wednesday to create a fleet of self-driving “robotaxis” that could take ..."
+    publishedDateTime: 2020-09-23T12:26:00Z
+    webUrl: "https://in.reuters.com/article/us-israel-gulf-intel-habtoor-idINKCN26E207"
+    ampWebUrl: "https://in.mobile.reuters.com/article/amp/idINKCN26E207"
+    cdnAmpWebUrl: "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINKCN26E207"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 69
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200923&t=2&i=1534603400&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8M19L"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Li Auto picks Nvidia over Mobileye for newest self-driving cars"
     excerpt: "Li Auto will be the first automaker to use Nvidia’s newest processor to facilitate highly autonomous driving functions for its EVs."
     publishedDateTime: 2020-09-24T07:59:00Z
@@ -83,6 +88,20 @@ related:
       - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2018/c26_01800.jpg"
         width: 800
         height: 392
+        isCached: true
+  - title: "Al-Habtoor signs deal with Israeli technology firm"
+    excerpt: "Dubai-based Al-Habtoor Group (AHG) and Israel’s Mobileye have signed strategic cooperation agreement to bring smart driving solutions to the UAE. It is one of the first major co"
+    publishedDateTime: 2020-09-24T03:40:00Z
+    webUrl: "https://www.meed.com/al-habtoor-signs-deal-with-israeli-technology-firm"
+    type: article
+    provider:
+      name: MEED
+      domain: meed.com
+    quality: 24
+    images:
+      - url: "https://www.meed.com/Uploads/NewsArticle/8146265/thumbnail3512.png"
+        width: 533
+        height: 400
         isCached: true
 
 secured: "iGv0RIQMdRGF72WWCFzocKk1okT5hNGSTYWk/x6Ap0/l+4WdlEMUORkxHDXRHgIJ2Wy8RvQqop4xgnEltFhZ/vZyXZUDP1otancb3sd622ix02HiXOrefY5Yzfd8HtgG41zQzy4sJBiC04KT6AIzLFCZEhRiQob1FYL7pCGpPEBvlvS9iEGqZMwxQaw7PTQEWhBvwolrfPCAOUgAQ4avav6oWUqAwa7g7vVlyHlb9idfEH/VDXndtm6iIuqwyEeAt597xtfdpDQZJGZF+5mT7MJxLRi/ulGFENxV5D6YKhrSC+361RPPC7ZkXAxA5kqGtCDud4M2M7MR4Rq+3rONu9IEN4m+KaMIOaZQ8Q69ndDNT+aG06nB9c6iqH1db9cnXSZAc2frETqebGa49WGowTN//Dfmb1zKSVmfxHJWhZYaJ7eAiHM29Ee+UOex6ENCKzgocnCa5Yb2Jt/golWu52FFNpMJ5/F6Nx27NsX3dRrRxTzOV8OPzAlsWXoTeSthxhzC7qOhuOqOwvIqLmWt8g==;B7Ri7f24t7uNkhdc0NfR+w=="

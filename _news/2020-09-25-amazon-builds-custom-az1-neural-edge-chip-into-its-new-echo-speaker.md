@@ -25,22 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon’s AZ1 Neural Edge processor will make Alexa voice commands even faster"
-    excerpt: "Amazon’s preexisting products without the AZ1 send both the audio and its corresponding interaction to the cloud to be processed and back. Comparatively, these new ones that have the AZ1 built in can handle the audio on-device,"
-    publishedDateTime: 2020-09-24T17:40:00Z
-    webUrl: "https://www.theverge.com/2020/9/24/21453205/amazon-az1-neural-edge-processor-echo-show-10-alexa-voice-on-device"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/9/24/21453205/amazon-az1-neural-edge-processor-echo-show-10-alexa-voice-on-device"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/9/24/21453205/amazon-az1-neural-edge-processor-echo-show-10-alexa-voice-on-device"
+  - title: "Amazon redesigns the Echo with a new spherical design and a custom machine learning processor"
+    excerpt: "Amazon has announced the fourth-generation version of its main Echo smart speaker, bringing a new spherical design and better sound performance. But the biggest change is a new, on-device speech recognition module that will locally process your audio on the Echo,"
+    publishedDateTime: 2020-09-24T18:09:00Z
+    webUrl: "https://www.theverge.com/2020/9/24/21452347/amazon-echo-4th-generation-features-price-release-date-alexa"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/9/24/21452347/amazon-echo-4th-generation-features-price-release-date-alexa"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/9/24/21452347/amazon-echo-4th-generation-features-price-release-date-alexa"
     type: article
     provider:
       name: The Verge
       domain: theverge.com
-    quality: 71
+    quality: 78
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/DYgai69ITBpKgyZOtwQoxPwVkQc=/0x0:1920x1080/1400x933/filters:focal(807x387:1113x693):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67463191/lcimg_daa1e3c5_6113_4da4_8224_ecc2d3a2d352.0.jpg"
+      - url: "https://cdn.vox-cdn.com/thumbor/tEU5cAXnuXGjzhmDHRI_SkJtjws=/0x0:1920x1080/1400x933/filters:focal(807x387:1113x693):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67463013/msedge_X9RFhS71eu.0.jpg"
         width: 1400
         height: 933
         isCached: true
+  - title: "Amazon refreshes Echo lineup with new custom chip"
+    excerpt: "The updated smart speaker lineup also features a sleek new design and new capabilities for kids. Meanwhile, the new Echo Show 10 features a screen that follows you as you move throughout a room."
+    publishedDateTime: 2020-09-24T17:37:00Z
+    webUrl: "https://www.zdnet.com/article/amazon-refreshes-echo-lineup-with-new-custom-chip/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-refreshes-echo-lineup-with-new-custom-chip/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-refreshes-echo-lineup-with-new-custom-chip/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
   - title: "Amazon’s Echo speakers now have spherical designs, on-device speech processing"
     excerpt: "The speakers now have a new on-device speech recognition module, which allows them to process voice locally.The new Echo Dot is priced at Rs. 4,499, while the Echo Dot with Clock will be sold for Rs."
     publishedDateTime: 2020-09-25T00:59:00Z

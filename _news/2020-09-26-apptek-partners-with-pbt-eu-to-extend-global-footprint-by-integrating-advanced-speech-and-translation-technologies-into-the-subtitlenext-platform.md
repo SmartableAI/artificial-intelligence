@@ -24,22 +24,6 @@ images:
     height: 627
     isCached: true
 
-related:
-  - title: "Mphasis partners with fintech platform Upswot to offer marketing insights though alternative data for business banking"
-    excerpt: "PRNewswire/ -- Mphasis, an Information Technology (IT) solutions provider specializing in cloud and cognitive services, today announced its"
-    publishedDateTime: 2020-09-26T03:20:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/mphasis-partners-with-fintech-platform-upswot-to-offer-marketing-insights-though-alternative-data-for-business-banking-301135966.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
-    images:
-      - url: "https://mma.prnewswire.com/media/690233/Mphasis_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
-        isCached: true
-
 secured: "5eZt2r/ThUm/+vBZi9LjP+pCnMVtLKE6S9tCCQ37LCYDDAI7eRj/0BiY0+acHgZHtF2/OLXT66a7iY+KsEBMWPtd4Qlw4YQIWz9Q1DzsMSulTpTzkQWYq9XY2MDlgw1STj5HffSQKe1NlvuXnLpP/rKcVtr3dg0CXyTwsKISj6Jf6J+apVCYzkTraQ9OrnXUggxvkegTI4pdDi2ECInbrAsqGJgZaB/IduHNJBrtaBGaEubU7iyPJzYMo7EyPzD8z6VMNK1wwoGo5cqaTA99Q00zLtgH5q+km6XyFgLCSykbcJzsH1+bFUAzCQ15BQn48alYB+I2jvthG0geaTvZUCnBD0I1ySgdroSXE81JiPs=;0Lntd43irdny4TMbegUW5w=="
 ---
 

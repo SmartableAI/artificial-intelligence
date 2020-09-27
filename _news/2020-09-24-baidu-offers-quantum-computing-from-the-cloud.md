@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/23/baidu-offers-quantum-computing-fr
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/23/baidu-offers-quantum-computing-from-the-cloud/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 598
     isCached: true
-
-related:
-  - title: "Edge Computing, AI, and the Internet of Things"
-    excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-    publishedDateTime: 2020-09-24T06:33:00Z
-    webUrl: "https://www.computerworld.com/resources/208606/edge-computing-ai-and-the-internet-of-things"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 37
-    images:
-      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "x9bwutBCL008/coh+h9eJ5fHe14vuQM24wQ1sJKBQpYoozSPui9PjXGRlwT1MZooepGzCK8VIzsLq0FQJ3azVdlNMYWGIA/DAcW7rZ40h6dXMBqm5yHp0GriwI/W5hE7kpb1rB2/c94fFbNP/2NcHKv2bPg8y16MYxPigBfei5G6w6yj/GjsJlwuGazvZ6v/FJ7KiJSpE4DLsKsO4CDjCHAOq72BUxdnPjZvWsrilPbwBIOEA8XSysSg9IpVvM15BAASwOlM0XXvDK0NepoXxtnhT4rBSPDr8TqahbidL4u04n4vbsnq//XEFceITr5YXLZn+WzQps31d5cM2BgQchrGTWVqmTpsk9IiF6nMPxMp+2JFiqKup3dRJKJ38zwBcRAj0ezffV9MdcMxOHOXKF133HNjqnt0Fz2yJ5Gwp+P4UZDO008Wjswz8pczMSX0spG5HzZppl+kKGFb3Rbe9zTm3v086zBF48bB+dR7XkY7FroexSPbCGse7cuP4oGeRBx7w+vGBmzbXtQvTQOyUg==;0Ns9UKMchX5rX+UgpJhDzw=="
 ---

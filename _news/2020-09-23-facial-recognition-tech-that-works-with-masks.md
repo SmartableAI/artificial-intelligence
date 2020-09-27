@@ -25,21 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "In facial recognition challenge, top-ranking algorithms show bias against Black women"
-    excerpt: "The results from a recent facial recognition competition demonstrate that even the best algorithms are still prone to gender and racial bias."
-    publishedDateTime: 2020-09-24T13:52:00Z
-    webUrl: "https://venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/"
-    ampWebUrl: "https://venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/amp/"
+  - title: "Best facial recognition home security cameras to buy this year"
+    excerpt: "Select home security cameras have facial recognition, a feature that lets you make a profile of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your list of known faces."
+    publishedDateTime: 2020-09-22T11:46:00Z
+    webUrl: "https://www.cnet.com/news/best-facial-recognition-home-security-cameras-to-buy-this-year/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-to-buy-this-year/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-to-buy-this-year/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 97
+      name: CNET
+      domain: cnet.com
+    quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1199708189-e1600898324155.jpg?w=1200&#038;strip=all"
+      - url: "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg"
         width: 1200
-        height: 600
+        height: 630
+        isCached: true
+  - title: "How to Thwart Facial Recognition and Other Surveillance"
+    excerpt: "And the lenses are opaque to infrared sensors, so—bonus!—they also block facial-recognition systems that use 3D imaging, like the iPhone's Face ID. A handful of US cities have banned government use of facial recognition technology due to concerns over ..."
+    publishedDateTime: 2020-09-22T10:00:00Z
+    webUrl: "https://www.wired.com/story/how-to-thwart-facial-recognition-other-surveillance/"
+    ampWebUrl: "https://www.wired.com/story/how-to-thwart-facial-recognition-other-surveillance/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-to-thwart-facial-recognition-other-surveillance/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 89
+    images:
+      - url: "https://media.wired.com/photos/5f6515d2eb3bb2da971988d8/master/pass/howtosurveillance1.jpg"
+        width: 2400
+        height: 1600
         isCached: true
   - title: "Facebook Illinois Settlement: How to Get a Payout in $650 Million Facial Recognition Class Action"
     excerpt: "When the tag feature is enabled, the social network uses face recognition technology to analyze photos and videos it believes a user is in and creates a template. The template is then used to recognize users as they appear in other photos or videos."
@@ -57,22 +73,33 @@ related:
         width: 2500
         height: 1627
         isCached: true
-  - title: "LAPD Used Facial Recognition Tech Frequently, Records Show"
-    excerpt: "(TNS) — The Los Angeles Police Department has used facial recognition software nearly 30,000 times since 2009, with hundreds of officers running images of suspects from surveillance cameras and other sources against a massive database of mugshots taken ..."
-    publishedDateTime: 2020-09-22T22:36:00Z
-    webUrl: "https://www.govtech.com/public-safety/LAPD-Used-Facial-Recognition-Tech-Frequently-Records-Show.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/LAPD-Used-Facial-Recognition-Tech-Frequently-Records-Show.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/LAPD-Used-Facial-Recognition-Tech-Frequently-Records-Show.html?AMP"
+  - title: "Singapore to become first to use facial recognition in national identity scheme"
+    excerpt: "Singapore will be the first country in the world to use facial recognition as part of its national identity scheme. This new technology will"
+    publishedDateTime: 2020-09-26T18:51:00Z
+    webUrl: "https://www.buzz.ie/news/singapore-facial-recognition-in-national-identity-scheme-390534"
+    ampWebUrl: "https://www.buzz.ie/amp/news/singapore-facial-recognition-in-national-identity-scheme-390534"
+    cdnAmpWebUrl: "https://www-buzz-ie.cdn.ampproject.org/c/s/www.buzz.ie/amp/news/singapore-facial-recognition-in-national-identity-scheme-390534"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
+      name: buzz.ie
+      domain: buzz.ie
+    quality: 55
     images:
-      - url: "https://media2.govtech.com/images/shutterstock_1139687675+(1).jpg"
-        width: 1119
-        height: 630
+      - url: "https://img.resized.co/buzz_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLmJ1enouaWVcXFwvdXBsb2Fkc1xcXC8yMDIwXFxcLzA5XFxcLzI2MTkyMjM2XFxcL1BBLTU1Mzg0OTQ2LTEwMjR4NjgzLmpwZ1wiLFwid2lkdGhcIjo2NDcsXCJoZWlnaHRcIjozNDAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5idXp6LmllXFxcL2lcXFwvbm8taW1hZ2UucG5nXCJ9IiwiaGFzaCI6IjI3NjRmYThhZjlhNWIyOWM5MGI5ZDc1ZmQyYTc4NzY5ZTIxN2I1YjIifQ==/pa-55384946-1024x683.jpg"
+        width: 647
+        height: 340
         isCached: true
+  - title: "City Restricts Facial Recognition Technology"
+    excerpt: "Pittsburgh City Council voted on Tuesday to restrict police usage of facial recognition technology. Pittsburgh Botanic Garden Targeted By HackersHackers breached the security of a company Pittsburgh Botanic Garden uses for financial management."
+    publishedDateTime: 2020-09-23T08:15:00Z
+    webUrl: "https://pittsburgh.cbslocal.com/video/4729215-city-restricts-facial-recognition-technology/"
+    ampWebUrl: "https://pittsburgh.cbslocal.com/video/4729215-city-restricts-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/video/4729215-city-restricts-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 39
 
 secured: "DbY35T0cGsFpJFKDiwZYNcmTptG/dHKEuXgt8SZ2WwKLhmRpEm6g6+j+mOb6GLdlnkgXZ38OmtG16C/AmA4d9uGLXJjrNL6AfVc1B+7SAArXtK6dzvRd1U+fsMDTz5qfXa7q1oqgRWjIeGJuAwAvkNRIXy+EIn6n82thXOPCD+d7KdSJ1EeXgb8HVeCEDkMjh2Dm2dSE1bOhTsp4MsCyXbPbwG9/K9YBtdElTpGgAUE5dcEs0ioVDwPGK9dki3l1iLIq0jySab+1iMhcFrT38h2Nxh+J+kbR9+vBidqclQ+MwmcVazUr4VxW567JxL+Oux4cEsTbUhHe0FV5bq8h26Xoe5UmJlr7q8SO0lFQ0khG7s72EoWnJTg3N4reN3JyPfQNb1UVvjVg2lpw+U42Yvo1+zeJpWgnycDNq0u9R/qXxRGseMCRwIBvSRgdOfADaPo0FlKamZsreKhHrU0VCZEaRvIPPiEMeR5BPB7lDZMqIxgPIRiPWmXwKzQlxfrh15DUrQogAURy3aqnPQbdww==;K6avUIWh9w0ZzA6i6pvOSQ=="
 ---

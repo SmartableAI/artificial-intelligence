@@ -7,7 +7,7 @@ originalUrl: "https://ibsintelligence.com/ibsi-news/top-4-fintech-funding-rounds
 webUrl: "https://ibsintelligence.com/ibsi-news/top-4-fintech-funding-rounds-in-singapore-this-september-2020/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,60 @@ images:
     width: 300
     height: 300
     isCached: true
+
+related:
+  - title: "Fintech Machine Learning Leader Attunely Secures $9M in Funding"
+    excerpt: "Press Release Attunely Inc., a pioneer in deploying machine learning to maximize revenue recovery and enhance the consumer experience, today announced $9 million in financing. The new capital includes an earlier seed round as well as a Series A investment."
+    publishedDateTime: 2020-09-24T15:47:00Z
+    webUrl: "https://venturebeat.com/2020/09/24/fintech-machine-learning-leader-attunely-secures-9m-in-funding/"
+    ampWebUrl: "https://venturebeat.com/2020/09/24/fintech-machine-learning-leader-attunely-secures-9m-in-funding/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/24/fintech-machine-learning-leader-attunely-secures-9m-in-funding/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+  - title: "Building a secure infrastructure for FinTech innovation in India"
+    excerpt: "FinTech innovators can win if they use analytics to outperform traditional financial service firms. 5G will offer the processing power to support advanced AI and Big Data use cases, allowing ..."
+    publishedDateTime: 2020-09-23T05:35:00Z
+    webUrl: "https://yourstory.com/2020/09/secure-infrastructure-fintech-innovation-india"
+    ampWebUrl: "https://yourstory.com/2020/09/secure-infrastructure-fintech-innovation-india/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/09/secure-infrastructure-fintech-innovation-india/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 44
+    images:
+      - url: "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/fintech-1599641536708.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Fintech Machine Learning Leader Attunely Secures $9M in Funding"
+    excerpt: "Attunely Inc., a pioneer in deploying machine learning to maximize revenue recovery and enhance the consumer experience, today announced $9 million in financing. The new capital includes an earlier seed round as well as a Series A investment."
+    publishedDateTime: 2020-09-25T07:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200924005133/en/Fintech-Machine-Learning-Leader-Attunely-Secures-9M-in-Funding"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 39
+    images:
+      - url: "https://mms.businesswire.com/media/20200924005133/en/824189/23/attunely+logo.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Latest Tech Nation fintech cohort reflects diversifying sector"
+    excerpt: "The latest group of fintechs accepted into Tech Nation’s growth programme reflects the diversification of a maturing sector."
+    publishedDateTime: 2020-09-23T14:59:00Z
+    webUrl: "https://www.computerweekly.com/news/252489469/Latest-Tech-Nation-fintech-cohort-reflects-diverse-sector"
+    ampWebUrl: "https://www.computerweekly.com/news/252489469/Latest-Tech-Nation-fintech-cohort-reflects-diverse-sector?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252489469/Latest-Tech-Nation-fintech-cohort-reflects-diverse-sector?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 24
 
 secured: "20m9ADkfN5qFtPy/VWCRJFFzY2lZnZKzH8CGEKH72Xgo2ZUvRnuQYb3vtjNUpQl3Dlfx3WXsbN55jPa4OXoXb0MjuMWcuK251+ySZKlLpmEENjzynw0UO+KidN82fTXgQRdv3Ayp28zXHaXUUlBM2s0cTWbou9zB59xwZPZloT/hSQXekuuaPowweWgaSrSCn+XtNE1rh8+LSc5zKbMcqGS2GBasnq2AQ+jpd15+XLyfjzmkBkxIwn+dnOjrWnfugXgtcDt5d5ETaq3HwW2ioTr2/DdHTMrMLpmxLTwtQ51hXgCQhIY35M+4f+EhYuxKkiviegPnOLTOl2qhD2JZYK1ZJL7o6VmgFBdRTS4xVNkmqATzNqgoAdWfqkCl+b6v6YwyQ/P4l7374/olO64MJNEz9EH/LkysDwnKKDCJ4MXFx9FxeQuJ/n8rEYyjy5GmFCTpVi+HtoKZKMdMbOMQlOzThdxIatTW8YzGug0BfBXuvEDMMF2M7/0NyjR+aaSxxcE06NTT0+44yblvyo9XjQ==;v5p+QjT1HDKC8JBQFqIEAA=="
 ---

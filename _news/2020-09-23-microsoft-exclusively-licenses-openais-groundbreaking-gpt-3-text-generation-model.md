@@ -9,8 +9,8 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/9/22/21451283/microsoft-o
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/9/22/21451283/microsoft-openai-gpt-3-exclusive-license-ai-language-research"
 type: article
 quality: 83
-heat: -1
-published: false
+heat: 93
+published: true
 
 provider:
   name: The Verge
@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft licenses the breakthrough natural language AI GPT-3"
-    excerpt: "Microsoft announced that it has “exclusively licensed” OpenAI’s sophisticated GPT-3 language model that can generate disturbingly human-like text in applications ranging from commercial bots to creati"
-    publishedDateTime: 2020-09-24T12:25:00Z
-    webUrl: "https://www.engadget.com/microsoft-gpt-3-exclusive-license-ai-language-model-094525975.html"
-    ampWebUrl: "https://www.engadget.com/amp/microsoft-gpt-3-exclusive-license-ai-language-model-094525975.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-gpt-3-exclusive-license-ai-language-model-094525975.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 104
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Fdf49deb0-fd76-11ea-afec-145aeeb4f3ac&client=amp-blogside-v2&signature=e1efb727751d470d04c033dfc8d047fc24126dc4"
-        width: 600
-        height: 350
-        isCached: true
-  - title: "Microsoft nabs exclusive license to key AI program"
-    excerpt: "Microsoft announced a deal Tuesday that will give it the exclusive license to OpenAI's GPT-3 language model, a tool that uses machine learning to generate remarkably human sounding text. Why it matters: The deal provides a way for many companies to have access to the technology while seemingly allowing Microsoft to establish guardrails and parameters for how the technology can be used."
-    publishedDateTime: 2020-09-24T21:38:00Z
-    webUrl: "https://www.axios.com/microsoft-open-ai-gpt3-0772052d-500c-4c92-8437-33c8be27789e.html"
-    ampWebUrl: "https://www.axios.com/microsoft-open-ai-gpt3-0772052d-500c-4c92-8437-33c8be27789e.html"
-    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/microsoft-open-ai-gpt3-0772052d-500c-4c92-8437-33c8be27789e.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 74
-    images:
-      - url: "https://images.axios.com/-s4Z0o3uapK9JUUBb31sF3c9dfc=/fit-in/1366x1366/2020/09/23/1600873770588.jpg"
-        width: 1366
-        height: 768
-        isCached: true
   - title: "Microsoft acquires exclusive license for Elon Musk’s largest GPT-3 AI language model"
     excerpt: "Microsoft is expanding its partnership with billionaire Elon Musk’s OpenAI as it acquires an exclusive license for GPT-3. GPT-3 is the largest and most sophisticated AI language"
     publishedDateTime: 2020-09-23T05:36:00Z
@@ -79,33 +47,6 @@ related:
         width: 412
         height: 275
         isCached: true
-  - title: "The Next Big Breakthrough in AI Will Be Around Language"
-    excerpt: "The big breakthroughs in AI will be about language. The 2010s produced breakthroughs in vision-enabled technologies, from accurate image searches on the web to computer vision systems for medical image analysis or for detecting defective parts in manufacturing and assembly,"
-    publishedDateTime: 2020-09-23T13:10:00Z
-    webUrl: "https://hbr.org/2020/09/the-next-big-breakthrough-in-ai-will-be-around-language"
-    ampWebUrl: "https://hbr.org/amp/2020/09/the-next-big-breakthrough-in-ai-will-be-around-language"
-    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/09/the-next-big-breakthrough-in-ai-will-be-around-language"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 61
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2020/09/Sep20_23_183428120-4.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Vectorspace AI & CERN Create Natural Language..."
-    excerpt: "Vectorspace AI and CERN, the European Organization for Nuclear Research and the largest particle physics laboratory in"
-    publishedDateTime: 2020-09-26T18:18:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/09/n17667949/vectorspace-ai-cern-create-natural-language-processing-nlp-datasets-in-particle-physics-with-appli"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17667949"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17667949"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
 
 secured: "kuXShHkIXEFKKfb64TTZyrKi8bdo853pRP0VOWtTCNFVxDiPImEWH9O5aD40h0YQezbscOoCWbqqS23ZQQa8+JF18pChpoZ2L6TDJsrZBs2wKve/m3moERddGAO8+WxIWASCXPDezZMZovHaAaYQb3MkkRSgesAkNVQ9a9tyTm3/+xg9jG+TzoJBUbnc4bzcYJ7IBS9qIxXB5RoIkU4wZCbe8t9bv+r3GOlY9aFy0oSR7EBcf492xfqvP6mCUcq3LyPCiCSL805Al5WsJY8r0H7k1DdW0exEkYFnRgzTLLEebiESMGKb0Ted5lMf2p9B4rn6fnW0gc1e66m/QBIO2ZAAUHhHRYB909OVtqPZfm0=;wLxXMTiwUo73zcARUEsvKQ=="
 ---

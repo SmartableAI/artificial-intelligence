@@ -27,24 +27,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "In-Flight Voice Recognition Market Analyze Competitive Developments , New Product launches and Acquisitions in the Market"
-    excerpt: "The IN-FLIGHT VOICE RECOGNITION market report presents a detailed evaluation of the market. The report focuses on providing a holistic overview with a forecast period of the report extending from 2018 to 2027. The IN-FLIGHT VOICE RECOGNITION market report ..."
-    publishedDateTime: 2020-09-23T17:43:00Z
-    webUrl: "https://www.openpr.com/news/2140827/in-flight-voice-recognition-market-analyze-competitive"
-    ampWebUrl: "https://www.openpr.com/amp/2140827/in-flight-voice-recognition-market-analyze-competitive"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2140827/in-flight-voice-recognition-market-analyze-competitive"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 19
-    images:
-      - url: "https://cdn.openpr.com/T/9/T923205671_g.jpg"
-        width: 500
-        height: 500
-        isCached: true
-
 secured: "5gQ7fq2VvOdHjXNV0jhccVf9kExnx14sN3X0TjWj+8w5YFZFflbs1gjIUSThVdpkEsSilpQRODQyRRto1d/sCrN8KIz3HUL/IRLWnMnBozJt7S0IvIslLBKFDAG6AM7WFjGkejMALl8kaFBmtpGQj52YVD/54K+ZWlg2UL6xAlrEWbsco+1pClhiQLeaGX17hy8ieA/BuIgwpq5TLmnCG8P+4K2CN6qbCuLbM9mpg8CiGF7uwPTYn6rU+HEn/MMkS66EqQOL42+a5PIuBTo1pWZQnUhjTOidLH3PndVHZ370+cpSCoNrMWwt92ssvraFB08v9OxbfO4mayIqfPK1BTmlKeXMMhtFFhR0iysEsss=;87BdSDZfiZYNPU+Ijo6Qpw=="
 ---
 

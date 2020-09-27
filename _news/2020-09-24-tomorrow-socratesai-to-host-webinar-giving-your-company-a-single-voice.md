@@ -28,21 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "How close is AI to decoding our emotions?"
-    excerpt: "Researchers have spent years trying to crack the mystery of how we express our feelings. Pioneers in the field of emotion detection will tell you the problem is far from solved. But that hasn’t stopped a growing number of companies from claiming their algorithms have cracked the puzzle."
-    publishedDateTime: 2020-09-24T15:20:00Z
-    webUrl: "https://www.technologyreview.com/2020/09/24/1008876/how-close-is-ai-to-decoding-our-emotions/"
-    ampWebUrl: "https://www.technologyreview.com/2020/09/24/1008876/how-close-is-ai-to-decoding-our-emotions/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/09/24/1008876/how-close-is-ai-to-decoding-our-emotions/amp/"
+  - title: "Bing applies AI and natural language models to autosuggest, People Also Ask"
+    excerpt: "Bing is now using natural language generation models (models that generate text) to improve its autosuggest and People Also Ask (PAA) features, the company announced Wednesday. It is also expanding the use of natural language representation models to extend its question answering and semantic highlighting features globally."
+    publishedDateTime: 2020-09-24T13:11:00Z
+    webUrl: "https://searchengineland.com/bing-applies-ai-and-natural-language-models-to-autosuggest-people-also-ask-341042"
+    ampWebUrl: "https://searchengineland.com/bing-applies-ai-and-natural-language-models-to-autosuggest-people-also-ask-341042/amp"
+    cdnAmpWebUrl: "https://searchengineland-com.cdn.ampproject.org/c/s/searchengineland.com/bing-applies-ai-and-natural-language-models-to-autosuggest-people-also-ask-341042/amp"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
+      name: Search Engine Land
+      domain: searchengineland.com
     quality: 57
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/09/Topper-6.jpg?w=1200"
-        width: 1200
-        height: 675
+      - url: "https://searchengineland.com/figz/wp-content/seloads/2016/12/bing-homepage-generic-ss-1920.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "Q9XTStmFz4jejreOLQRrMBRW+ZqN0loS5QI+3lCN1W7HNHQm/nCrCg+YpoyK4TIs2qvun4fmj/7eDQokaUvtywUI7R09KOhLJUOhM19V56lxtfRIFT3385yCXtNK4eNs9Bp+3Ka4xW5FhqXc427kP5ogeD72Gb1ESe60QwyWVhhrgjh4TyN3JaCMQJZRXHOi6QDE5ZtvlyX+2oUyPp/Zj9la4xklpO5IVa33cBo8e03DtXiebQaY1pQGljGrP9h97o/Fr06/z30yOl9q7J3oMyK+42Wj51JqyqO3SYGnXiBo7T1MJmXaLJIpOTHZB9Q9VYS65s8w4QdWVCJ4qlcYVGJVt2iT6JctQWX5A+XHlww=;/8cQ02Wq4VldXElLHIjwSg=="

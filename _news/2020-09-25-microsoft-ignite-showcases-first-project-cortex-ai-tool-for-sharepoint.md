@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cio.com/article/3575861/microsoft-ignite-showcases-first
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.amp.html"
 type: article
 quality: 74
-heat: 74
+heat: 94
 published: true
 
 provider:
@@ -25,6 +25,38 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "AI in Fintech Market Drives Future Change | IBM Corporation, Intel Corporation, IPsoft Inc., Microsoft Corporation"
+    excerpt: "The AI in Fintech market research report added by Report Ocean is an in depth analysis of the latest developments market size status upcoming technologies industry drivers challenges regulatory policies with key company profiles and strategies of players The research"
+    publishedDateTime: 2020-09-22T08:08:00Z
+    webUrl: "https://www.openpr.com/news/2138902/ai-in-fintech-market-drives-future-change-ibm-corporation"
+    ampWebUrl: "https://www.openpr.com/amp/2138902/ai-in-fintech-market-drives-future-change-ibm-corporation"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2138902/ai-in-fintech-market-drives-future-change-ibm-corporation"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 54
+    images:
+      - url: "https://cdn.openpr.com/T/9/T922139685_g.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Microsoft on How SharePoint Syntex Uses AI To Address Content Management Woes"
+    excerpt: "Project Cortex team members Naomi Moneypenny and Dan Holme explain the origins of Project Syntex, how it benefits orgs with content management problems, and clarifies security and governance concerns."
+    publishedDateTime: 2020-09-25T13:14:00Z
+    webUrl: "https://redmondmag.com/articles/2020/09/25/qa-microsoft-sharepoint-syntex.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 34
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/NailsColorsStringsBig.jpg"
+        width: 1665
+        height: 1158
+        isCached: true
 
 secured: "cisGpJi+2xdbjvciw03Wt05EfK8snPcRV2vrYra6Mo5ajX6Atrxhixs3b7W6QJZOQ79BToCzVtjj6D6qbKF6GSF257mZPh1zk1rHNDq1CHnNmJ5gaZ/aUmwlOQ/OrNabQnzXrbrLDPnYj0CTSdfOWjOJdVXZVRVMHyE8wsKoS8sEI8Gc1bgeLBsovm8CmoDGNS2bLh5f72fNK+YVNE9G2LhrsZgAcXLpL/NCi+Dq9Xg8vkyjNsozV/qIEjYwWHWTgPsEjESIj6hIztZC37tEQbolXCl/pXwcTbIA6Vt70/9YMqyMbbRFyVhuZVqFQsnyJyTXsLTu1IrhdERLz/aNb+a7abRS/UN7pZxtvnyK8yQ=;/awoBRdfPC6KXHQdCbX4rw=="
 ---

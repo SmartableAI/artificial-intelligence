@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Aiding DOD in Early Detection of COVID-19, Say Technologists"
-    excerpt: "The Defense Threat Reduction Agency and Defense Innovation Unit are applying commercial technology for early detection of the Severe Acute Respiratory Syndrome Coronavirus 2, which causes the COVID-19"
-    publishedDateTime: 2020-09-22T14:51:00Z
-    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2356086/ai-aiding-dod-in-early-detection-of-covid-19-say-technologists/"
-    type: article
-    provider:
-      name: US Department of Defense
-      domain: defense.gov
-    quality: 37
-    images:
-      - url: "https://media.defense.gov/2020/Sep/22/2002502651/1280/1280/0/200921-O-ZZ999-004.JPG"
-        width: 1280
-        height: 1002
-        isCached: true
   - title: "Artificial Intelligence May Predict Osteoarthritis Years Before Onset"
     excerpt: "The artificial intelligence tool may enable providers to one day treat osteoarthritis with preventive drugs instead of surgery."
     publishedDateTime: 2020-09-23T13:32:00Z

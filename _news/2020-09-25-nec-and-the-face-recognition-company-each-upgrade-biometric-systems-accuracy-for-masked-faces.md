@@ -25,28 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Concerns about masks and facial-recognition software"
-    excerpt: "With facemasks now a part of our lives, tech companies are tackling the challenge of updating facial-recognition software to handle them."
-    publishedDateTime: 2020-09-24T12:12:00Z
-    webUrl: "https://www.fox5ny.com/news/concerns-about-masks-and-facial-recognition-software"
-    ampWebUrl: "https://www.fox5ny.com/news/concerns-about-masks-and-facial-recognition-software.amp"
-    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/concerns-about-masks-and-facial-recognition-software.amp"
+  - title: "New Voice Recognition Biometrics Market Research Highlights Recovery Path for Businesses from COVID-19 Based on End-Users - BFSI, Government, Telecommunications, and Healthcare ..."
+    excerpt: "The new Voice Recognition Biometrics Market Research from Technavio indicates Neutral & At par growth in the short term as the business impact of COVID-19 spreads. \"One of the primary growth drivers for this market is the use of biometric voice recognition in the healthcare sector,"
+    publishedDateTime: 2020-09-24T21:18:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200914005784/en/New-Voice-Recognition-Biometrics-Market-Research-Highlights-Recovery-Path-for-Businesses-from-COVID-19-Based-on-End-Users---BFSI-Government-Telecommunications-and-Healthcare-Technavio"
     type: article
     provider:
-      name: Fox 5 NY
-      domain: fox5ny.com
-    quality: 24
-  - title: "NEC Face Recognition Engine Provides Highly Accurate Results Even When Face Masks are Worn"
-    excerpt: "As part of this, governments around the world are encouraging the use of face masks as a basic measure to combat infections under the \"New Normal.\" In conjunction with this, there is a need for face recognition technologies to adapt,"
-    publishedDateTime: 2020-09-25T06:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/09/a17651638/nec-face-recognition-engine-provides-highly-accurate-results-even-when-face-masks-are-worn"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17651638"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17651638"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 14
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+    images:
+      - url: "https://mms.businesswire.com/media/20200914005784/en/820961/23/IRTNTR44545.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "5/b6vgStDY8kBFGFuB6mIKKI3i/9gxxp7N5JYegsrIdCu0SjXp9QCN0A5/zIHPC1A88kLLuBxaJzLov/UKbjh1dGWg3anb1UqMpIgHFOJfB932kafE9xVS0a3BWzUP6uZYkPYwzGXFFh+ZaUzfAIqdoYZxbK5Ws6qMcZmcjgLvW6tyeggu+dGfTPvuRBopphEbL8kMeO7lMoUGhxGhFGwD7v/c56JvNddwCTr6cwEQ8fVNXJ4mJIbM8hR1d0YkJSg2pwDF4W6hSZR9TTIXQ0PIff3RABI7qz20UVriFLzV6Ykxdu36z91geZdU+HSRsmFe5Ywrs6snost0GGUp4LcBetiRM2QpBbbWFgmM8NJiQvVweFpsjCyxBw8bZqitvIsEiNW4UWfdklRo3ZLMnT+h3oXzoIriQD19/F82LZ160S9rZqDcgJlpsyrV2KXOCsusQRFTAsGhT/u0n+236Yq9oQgQElo6AO3n9FGQKBFczMgBYy79QEdN1Ey6OnpTiZeKQe5bdiItGmnWpmEXZowg==;l4Z6HJIsnV1OariByTtSfQ=="
 ---

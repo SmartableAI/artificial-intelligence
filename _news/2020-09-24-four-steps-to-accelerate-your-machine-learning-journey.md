@@ -8,8 +8,8 @@ webUrl: "https://www.commsmea.com/business/opinion/22450-four-steps-to-accelerat
 ampWebUrl: "https://www.commsmea.com/business/opinion/22450-four-steps-to-accelerate-your-machine-learning-journey?amp"
 cdnAmpWebUrl: "https://www-commsmea-com.cdn.ampproject.org/c/s/www.commsmea.com/business/opinion/22450-four-steps-to-accelerate-your-machine-learning-journey?amp"
 type: article
-quality: 26
-heat: -1
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AWS AI
   - AI
   - AI in Finance
+  - Machine Learning
 
 related:
   - title: "Four steps to accelerate the journey to machine learning"
@@ -30,7 +31,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 41
+    quality: 43
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/artificial-intelligence-4427460_1920-geralt-pixabay.jpg"
         width: 1920

@@ -42,6 +42,22 @@ related:
         width: 500
         height: 334
         isCached: true
+  - title: "Bharti Airtel picks up 10% stake in Kerala-based startup Waybeo Technology"
+    excerpt: "Waybeo CEO Krishnan R V said the tie-up with Airtel would help the telecom company use the startups telephone-based AI services."
+    publishedDateTime: 2020-09-23T15:51:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/startup/bharti-airtel-picks-up-10-stake-in-kerala-based-startup-waybeo-technology-5877271.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/startup/bharti-airtel-picks-up-10-stake-in-kerala-based-startup-waybeo-technology-5877271.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/startup/bharti-airtel-picks-up-10-stake-in-kerala-based-startup-waybeo-technology-5877271.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 55
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2019/09/artificial-intelligence-3382507_1280-e1576670917550-753x435.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
+        isCached: true
 
 secured: "wpCGza3yY84YlSU5GVExgNwmJZPlbk+4CGxPnUhPk24dLdahlbYtaHaTnaNxmP7ArkAXg/z7a7DOGNusP5wGrN+A2l9l0r+j9bDc82DKHso1kTNf5D+B7zssl/2wOTed598nCw3V8ezg6lDb+tZaEOngiOhiEisJ9wwfhO2EBuJnZzKC0vKjjSw3BJ2W8UVCSDFh6p2geWLJPgz6q5CdjsYfb9tmgPHO53JjiEEdzXAhJrV5EuDyezZieiJhHJBVX0x94g7HhsiZNCH/CYyYF2y9WlBbT25irGkvP5mBBqti8JYBi9+cAq4VktGkPUFSLrlMTI5ZIPrynSsNMdtIS9mNicBMoO+O8cwErk4nrJQ=;oo4g60S7N/HgzvkuU9PbIQ=="
 ---

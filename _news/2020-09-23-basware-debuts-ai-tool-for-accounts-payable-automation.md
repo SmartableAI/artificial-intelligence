@@ -26,44 +26,67 @@ images:
     isCached: true
 
 related:
-  - title: "Mailchimp launches new AI tools as it continues its transformation to marketing platform"
-    excerpt: "Mailchimp may have started out as an easy to use newsletter tool, but that was almost 20 years ago. Today’s company still does email, but at its core, it is now a marketing automation platform for small businesses that also offers a website builder,"
-    publishedDateTime: 2020-09-22T23:41:00Z
-    webUrl: "https://techcrunch.com/2020/09/22/mailchimp-launches-new-ai-tools-as-it-continues-its-transformation-to-marketing-platform/"
-    ampWebUrl: "https://techcrunch.com/2020/09/22/mailchimp-launches-new-ai-tools-as-it-continues-its-transformation-to-marketing-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/mailchimp-launches-new-ai-tools-as-it-continues-its-transformation-to-marketing-platform/amp/"
+  - title: "DeepCube’s software-based solution accelerates AI on existing hardware"
+    excerpt: "DeepCube, a startup developing a platform that reduces the computational requirements of AI algorithms on existing hardware, today raised $7 million. A spokesperson told VentureBeat the funds will ..."
+    publishedDateTime: 2020-09-22T13:01:00Z
+    webUrl: "https://venturebeat.com/2020/09/22/deepcubes-software-based-solution-accelerates-ai-on-existing-hardware/"
+    ampWebUrl: "https://venturebeat.com/2020/09/22/deepcubes-software-based-solution-accelerates-ai-on-existing-hardware/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/22/deepcubes-software-based-solution-accelerates-ai-on-existing-hardware/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 78
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/09/Screenshot-2020-09-22-080330.jpg?w=300"
-        width: 300
-        height: 222
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Maru Group launches Conversational AI feedback tool on proprietary insights platform Maru/HUB"
-    excerpt: "(GLOBE NEWSWIRE) -- Maru Group (‘Maru’), the global technology-enabled market research and customer insights company, have announced the launch of Maru/HUB Conversational AI, an intelligent, device-agnostic feedback tool."
-    publishedDateTime: 2020-09-24T09:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/maru-group-launches-conversational-ai-feedback-tool-on-proprietary-insights-platform-maru-hub-1029611526"
+  - title: "Global Deep Learning Software Market"
+    excerpt: "New York, United States - The Deep Learning Software Market has developed swiftly in recent years and has made a significant contribution to the global financial situation in terms of growth rate, market share, and sales generation. The report titled ..."
+    publishedDateTime: 2020-09-22T12:41:00Z
+    webUrl: "https://www.openpr.com/news/2139424/massive-growth-in-global-deep-learning-software-market-set"
+    ampWebUrl: "https://www.openpr.com/amp/2139424/massive-growth-in-global-deep-learning-software-market-set"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2139424/massive-growth-in-global-deep-learning-software-market-set"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
-  - title: "Maru Group launches Conversational AI feedback tool on proprietary insights platform Maru/HUB"
-    excerpt: "(GLOBE NEWSWIRE) -- Maru Group (‘Maru’), the global technology-enabled market research and customer insights company, have announced the launch of Maru/HUB Conversational AI, an intelligent, device-agnostic feedback tool."
-    publishedDateTime: 2020-09-22T14:00:00Z
-    webUrl: "https://apnews.com/globe-newswire/4ebe5953752817cb5c53bf3b0849d98c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 28
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://cdn.openpr.com/T/9/T922635002_g.jpg"
+        width: 550
+        height: 308
+        isCached: true
+  - title: "Global Artificial Intelligence Software System Market"
+    excerpt: "New York, United States - The Artificial Intelligence Software System Market has developed swiftly in recent years and has made a significant contribution to the global financial situation in terms of growth rate, market share, and sales generation."
+    publishedDateTime: 2020-09-22T12:38:00Z
+    webUrl: "https://www.openpr.com/news/2139421/global-artificial-intelligence-software-system-market"
+    ampWebUrl: "https://www.openpr.com/amp/2139421/global-artificial-intelligence-software-system-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2139421/global-artificial-intelligence-software-system-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
+    images:
+      - url: "https://cdn.openpr.com/T/9/T922500628_g.jpg"
+        width: 550
+        height: 354
+        isCached: true
+  - title: "Deep learning accelerator DeepCube raises $7M in new round"
+    excerpt: "Israeli deep learning startup DeepCube Ltd., which has built software to accelerate the process of running machine learning models in the data center and on edge devices, said today it has raised ..."
+    publishedDateTime: 2020-09-22T13:25:00Z
+    webUrl: "https://siliconangle.com/2020/09/22/deep-learning-accelerator-deepcube-raises-7m-series-round/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/Dr.-Eli.jpg"
+        width: 1065
+        height: 646
         isCached: true
 
 secured: "1xtdrkmhEOuCoTP9Bqzktz3lJwZJjAJQDRisywVXaWu05LgGPoXcS3oOKza1pK8580eV9fB3Oz7sdFEdNVijaM9an87oF5LXeqQP7KFk4sfkTNv/G8I50oGuzjQObjExs0ZIznR7OLqwN0kCvbIZs1sW81g3BVbeJcwqMhb1ryLvF/azUNAH/nQRn1Q7OS1dJKWW8Knmw3iCzIbt3wK+yYWhxe3cOr3tC116o/qGh/qJu932+0/Wce9GabB55V6oJtIKqA9eNDWTVvbhsH/6C9RkCUt52wAptyI1U4jkYfY5OE38mqOVac48WvVqKfAz0O9qBvBhtjBeAQVm6PpBs/fNlUn/PJwLE6oeSfPKTsY=;mgK8/fZYrcu6lNd8gYl7oQ=="

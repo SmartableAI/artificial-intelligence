@@ -40,6 +40,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "AI-powered hiring for the enterprise"
+    excerpt: "Tonya Hall sits down and talks to Mike Hudy, chief science officer at Modern Hire, about ways that AI-powered hiring kits can work for the enterprise, including the importance of adding transparency and bias mitigation to the systems."
+    publishedDateTime: 2020-09-24T02:45:00Z
+    webUrl: "https://www.zdnet.com/video/ai-powered-hiring-for-the-enterprise/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
+    images:
+      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/09/23/c4ad82c0-6480-4fef-bd86-7d922d0348d9/thumbnail/770x578/11117079a248004673652e6ca8918e33/thumb.jpg"
+        width: 770
+        height: 578
+        isCached: true
 
 secured: "XNP9WGRdn5TefJyTordZcdgi+tDdEMH34GGjgmPsRT5miD2XYQ0DkOFaYEZ8vX4nMdL9m3NBLxHgJVkMJ1FU/E0sul4Z/7OPBclMJpBXZsZ5FD4GX96C8VHDuE1zx6Yy3Q1FhOs/RuMdG+dWimty3WaLMirbcb4/3JHk88XqGaoaScDqylcTcb+/owhJQ2WUTbQHa8QuH2E2XC+q/yXq421mnm832BDO9/21LMM06+VD4SQAO8CxLjVjkoCvj/rNY45j4NZQQCnTSbLe+IOZNhD+33nRm2H1SSMzw39Ovxkzrph3YepaKMtuGwQ6vjnlpfLSFWNUTWSyG9PBJv2teNhpuxvagdEMv7nN6Ecar/A=;PIzvdZ7aCgfKvKZxRDMFkg=="
 ---

@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "4 things to remember when adapting AI/ML learning models during a pandemic"
+    excerpt: "The progress seen in AI/machine learning leading up to and during the pandemic cannot be ignored, but this crisis brings with it a unique opportunity for updates and innovation in modeling."
+    publishedDateTime: 2020-09-25T20:57:00Z
+    webUrl: "https://techcrunch.com/2020/09/25/4-things-to-remember-when-adapting-ai-ml-learning-models-during-a-pandemic/"
+    ampWebUrl: "https://techcrunch.com/2020/09/25/4-things-to-remember-when-adapting-ai-ml-learning-models-during-a-pandemic/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/25/4-things-to-remember-when-adapting-ai-ml-learning-models-during-a-pandemic/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 102
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1250179225.jpg?w=1024"
+        width: 1024
+        height: 696
+        isCached: true
   - title: "Gaining insights into winning football strategies using machine learning"
     excerpt: "University of Illinois, Urbana Champaign (UIUC) has partnered with the Amazon Machine Learning Solutions Lab to help UIUC football coaches prepare for games more efficiently and improve their odds of winning. Previously, coaches prepared for games by creating a game planning sheet that only featured"
     publishedDateTime: 2020-09-23T22:12:03Z
@@ -43,40 +59,22 @@ related:
         width: 900
         height: 537
         isCached: true
-  - title: "4 things to remember when adapting AI/ML learning models during a pandemic"
-    excerpt: "The progress seen in AI/machine learning leading up to and during the pandemic cannot be ignored, but this crisis brings with it a unique opportunity for updates and innovation in modeling."
-    publishedDateTime: 2020-09-25T20:57:00Z
-    webUrl: "https://techcrunch.com/2020/09/25/4-things-to-remember-when-adapting-ai-ml-learning-models-during-a-pandemic/"
-    ampWebUrl: "https://techcrunch.com/2020/09/25/4-things-to-remember-when-adapting-ai-ml-learning-models-during-a-pandemic/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/25/4-things-to-remember-when-adapting-ai-ml-learning-models-during-a-pandemic/amp/"
+  - title: "These weird, unsettling photos show that AI is getting smarter"
+    excerpt: "Of all the AI models in the world, OpenAI’s GPT-3 has most captured the public’s imagination. It can spew poems, short stories, and songs with little prompting, and has been demonstrated to fool people into thinking its outputs were written by a human."
+    publishedDateTime: 2020-09-25T16:20:00Z
+    webUrl: "https://www.technologyreview.com/2020/09/25/1008921/ai-allen-institute-generates-images-from-captions/"
+    ampWebUrl: "https://www.technologyreview.com/2020/09/25/1008921/ai-allen-institute-generates-images-from-captions/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/09/25/1008921/ai-allen-institute-generates-images-from-captions/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 85
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1250179225.jpg?w=1024"
-        width: 1024
-        height: 696
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/09/PeopleonCouch-prompt.png?w=3000"
+        width: 3000
+        height: 1688
         isCached: true
-  - title: "Global $21.2 Bn Online Language Learning Market to 2027 - Increasing Penetration of Artificial Intelligence in e-Learning Driving Growth"
-    excerpt: "The online language learning market is expected to grow at a CAGR of 18.7% from 2020 to 2027 to reach $21.2 billion by 2027 The growing need for communication across borders, increasing e-learning market,"
-    publishedDateTime: 2020-09-24T08:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-21-2-bn-online-language-learning-market-to-2027-increasing-penetration-of-artificial-intelligence-in-e-learning-driving-growth-1029618153"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 14
-  - title: "Mphasis partners with fintech platform Upswot to offer marketing insights though alternative data for business banking"
-    excerpt: "Mphasis, an Information Technology (IT) solutions provider specializing in cloud and cognitive services, has announced its strategic partnership with US-based Upswot, a fintech startup, that provides"
-    publishedDateTime: 2020-09-23T11:40:00Z
-    webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=274344"
-    type: article
-    provider:
-      name: Equity Bulls
-      domain: equitybulls.com
-    quality: 0
 
 secured: "UrdhubRwX4YWAHRRRlYxfhYnm/NCvugIBKN3C0tGJ7aHSnjHPEhoWS5tI6YDg5J9bWWbnwcB7koq1u8B2LsWrGBaYSlkq5nPTtdOzLskOv/NQh7FPz1V0BpOITdlpD8lbdvAMrgBbgeUNSCNWyjrsvdFYi39lHcUk1mHoozd2hBdlagpBn5s+SbRBtEM5muP9zM/iQyXF9XDN3F+GY+Id7X16hezU2NOF+uHIvphUnmbng2WcujUuyspaRqgGgOoeq2E9lboV7/1I2JcEvI2MRJrr6lhxb109n89CaxmqA4v6nyGgRgx/etp4QQt4gCC7PZMrNAZ31W9HylhSbTvniKtmOvt46csTPj6PGTcmxU=;TuZ3EParXO3TKmUJR1di3Q=="
 ---

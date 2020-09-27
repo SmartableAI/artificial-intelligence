@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/football-tracking-in
 webUrl: "https://aws.amazon.com/blogs/machine-learning/football-tracking-in-the-nfl-with-amazon-sagemaker/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
         width: 1260
         height: 630
+        isCached: true
+  - title: "Data visualization and anomaly detection using Amazon Athena and Pandas from Amazon SageMaker"
+    excerpt: "Many organizations use Amazon SageMaker for their machine learning (ML) requirements and source data from a data lake stored on Amazon Simple Storage Service (Amazon S3). The petabyte scale source data on Amazon S3 may not always be clean because data lakes ingest data from several source systems, such"
+    publishedDateTime: 2020-09-25T20:04:48Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/data-visualization-and-anomaly-detection-using-amazon-athena-and-pandas-from-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 78
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/02/1-Architecture.jpg"
+        width: 900
+        height: 484
         isCached: true
 
 secured: "TO51gZVQeFu1FmYgqgeTAWgjgAWBg1U8YPfz78XdOtPDSTALOMKVWg2YUXQ1/m5Ah1pWVr4DoUUp229FgReBql6LQNq50vH3vIBaARhNI38XIGpq6qIMCxnnQoPJ4Lkg/4dNczwdkqdfyBXaZdIkn+rPjLBAxLF4KNm1KDAxSzHJut52OsMkaciCrN6/zL++2IsTb3eVDOfiA7McMV+AhUsoPeJ2ZiN/rdV7YVxsJwcHY/RMwAaqf0h9SKFaZK8iFWouE68KeQmnuT/i6Xb0Cp1fpYfjiauT5W2CS4gPypa+QgMl0KLgd2BBetcElRC+bJFJKgQlyKIzsMWxoM+c4JKSzFHIGD/oiS4GdYWUbrg=;v51uekIste9rp1NM3AewDw=="

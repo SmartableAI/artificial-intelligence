@@ -10,7 +10,7 @@
       "originalUrl": "https://www.cnbc.com/video/2020/09/25/aiera-ceo-on-companys-machine-learning-platform-benefits-of-ai-investing.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -106,21 +106,21 @@
       ]
     },
     {
-      "path": "_news/2020-09-23-transforming-customer-banking-experiences-with-ai-and-machine-learning.md",
-      "title": "Transforming customer banking experiences with AI and machine learning",
-      "excerpt": "Mark Crichton, senior director at OneSpan, discusses how to transform customer banking experiences using AI and machine learning",
+      "path": "_news/2020-09-24-in-the-world-of-financial-technology-ai-poses-questions-heightens-efficiency-and-encourages-ingenuity.md",
+      "title": "In the world of financial technology, AI poses questions, heightens efficiency, and encourages ingenuity",
+      "excerpt": "Processes that weren’t gaining interest or moved slowly are now popular and expedited as a result. Sana Khan, Analytics & AI Solutions Lead for Azure Data & AI at Microsoft, explained that, in past months, the use cases for AI that already existed within ...",
       "sourceUrl": null,
-      "webUrl": "https://www.information-age.com/transforming-customer-banking-experiences-with-ai-ml-123491753/",
-      "originalUrl": "https://www.information-age.com/transforming-customer-banking-experiences-with-ai-ml-123491753/",
+      "webUrl": "https://www.bloomberg.com/professional/blog/in-the-world-of-financial-technology-ai-poses-questions-heightens-efficiency-and-encourages-ingenuity/",
+      "originalUrl": "https://www.bloomberg.com/professional/blog/in-the-world-of-financial-technology-ai-poses-questions-heightens-efficiency-and-encourages-ingenuity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://s27389.pcdn.co/wp-content/uploads/2020/09/transforming-customer-banking-experiences-with-ai-ml.jpeg",
-          "width": 1012,
-          "height": 675,
+          "url": "https://assets.bbhub.io/professional/sites/10/357184552.jpg",
+          "width": 800,
+          "height": 533,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -129,12 +129,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-23T08:39:00-07:00",
+      "publishedDateTime": "2020-09-23T10:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Information Age",
-        "domain": "information-age.com",
-        "images": null,
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -143,9 +152,9 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
+        "Microsoft AI",
         "AI",
-        "Machine Learning"
+        "AI in Finance"
       ]
     },
     {
@@ -157,7 +166,7 @@
       "originalUrl": "https://venturebeat.com/2020/09/23/mastercards-vp-of-ai-talks-bots-nlp-and-why-fintechs-need-ai-for-customer-service-vb-live/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -187,6 +196,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-india-israel-collaboration-can-boost-ai-fintech-startups.md",
+      "title": "‘India-Israel collaboration can boost AI, FinTech startups’",
+      "excerpt": "Dr Ron Malka, Israeli ambassador to India and Anupam Jalote, CEO of iCreate, during the signing of the MoU AHMEDABAD: An MoU signed between Ahmedabad-based International Centre for Technology and ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/city/ahmedabad/india-israel-collaboration-can-boost-ai-fintech-startups/articleshow/78269578.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/city/ahmedabad/india-israel-collaboration-can-boost-ai-fintech-startups/articleshow/78269578.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-78269569/78269569.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/city/ahmedabad/india-israel-collaboration-can-boost-ai-fintech-startups/amp_articleshow/78269578.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/ahmedabad/india-israel-collaboration-can-boost-ai-fintech-startups/amp_articleshow/78269578.cms",
+      "publishedDateTime": "2020-09-22T22:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -478,7 +530,8 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1349,57 +1402,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/08/25/what-healthcare-can-learn-from-fintechs-digital-evolution/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/08/25/what-healthcare-can-learn-from-fintechs-digital-evolution/amp/",
       "publishedDateTime": "2020-08-25T04:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-24-proptech-and-fintech-providers-fight-to-become-real-estate-market-leaders-in-switzerland.md",
-      "title": "Proptech And Fintech Providers Fight To Become Real Estate Market Leaders In Switzerland",
-      "excerpt": "New technologies and their frequent use during the first half of 2020 have shown the real estate sector more ways to conduct business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2020/08/24/proptech-and-fintech-providers-fight-to-become-real-estate-market-leaders-in-switzerland/",
-      "originalUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2020/08/24/proptech-and-fintech-providers-fight-to-become-real-estate-market-leaders-in-switzerland/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3ffe1b04d29513305c226a%2F0x0.jpg",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2020/08/24/proptech-and-fintech-providers-fight-to-become-real-estate-market-leaders-in-switzerland/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesrealestatecouncil/2020/08/24/proptech-and-fintech-providers-fight-to-become-real-estate-market-leaders-in-switzerland/amp/",
-      "publishedDateTime": "2020-08-24T05:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

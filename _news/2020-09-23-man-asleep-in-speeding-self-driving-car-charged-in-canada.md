@@ -9,7 +9,7 @@ ampWebUrl: "https://newsinfo.inquirer.net/1339191/man-asleep-in-speeding-self-dr
 cdnAmpWebUrl: "https://newsinfo-inquirer-net.cdn.ampproject.org/c/s/newsinfo.inquirer.net/1339191/man-asleep-in-speeding-self-driving-car-charged-in-canada/amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,62 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Congress will try again in 2021 on self-driving car reform"
-    excerpt: "The U.S. Congress will try again in 2021 to try to approve long-stalled reforms to speed the adoption of self-driving cars, a key Democratic lawmaker said Wednesday."
-    publishedDateTime: 2020-09-23T16:00:00Z
-    webUrl: "https://www.reuters.com/article/us-autos-self-driving-congress-idUSKCN26E2RA"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26E2RA"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26E2RA"
+  - title: "Uber driver charged in self-driving crash that left woman dead in Tempe in 2018"
+    excerpt: "Vasquez, who was behind the wheel as a safety driver in a self-driving Uber in that hit and killed a pedestrian in Tempe in 2018, has been indicted."
+    publishedDateTime: 2020-09-23T23:45:00Z
+    webUrl: "https://www.kvue.com/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
+    ampWebUrl: "https://www.kvue.com/amp/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
+    cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
+      name: KVUE
+      domain: kvue.com
+    quality: 40
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200923&t=2&i=1534629164&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8M1P8"
-        width: 852
-        height: 545
-        isCached: true
-  - title: "Congress will try again in 2021 on self-driving car reform"
-    excerpt: "The U.S. Congress will try again in 2021 to try to approve long-stalled reforms to speed the adoption of self-driving cars, a key Democratic lawmaker said Wednesday."
-    publishedDateTime: 2020-09-23T20:58:00Z
-    webUrl: "https://www.reuters.com/article/autos-self-driving-congress/congress-will-try-again-in-2021-on-self-driving-car-reform-idUSL2N2GK18L"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26E2RA"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26E2RA"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200923&t=2&i=1534629164&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8M1P8"
-        width: 852
-        height: 545
-        isCached: true
-  - title: "Congress Will Try Again in 2021 on Self-Driving Car Reform"
-    excerpt: "Self-driving cares suffered a major setback after the March 2018 death of a pedestrian in a crash with an Uber test vehicle, the first attributed to a self-driving car. The Nation"
-    publishedDateTime: 2020-09-24T22:24:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2020-09-23/congress-will-try-again-in-2021-on-self-driving-car-reform"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-09-23/congress-will-try-again-in-2021-on-self-driving-car-reform?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-09-23/congress-will-try-again-in-2021-on-self-driving-car-reform?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 69
-  - title: "Congress Parks Self-Driving Car Regulation Until 2021"
-    excerpt: "The U.S. Congress will try again in 2021 to try to approve long-stalled reforms to speed the adoption of self-driving cars, a key Democratic lawmaker said"
-    publishedDateTime: 2020-09-24T05:13:00Z
-    webUrl: "https://www.insurancejournal.com/news/national/2020/09/24/583893.htm"
-    type: article
-    provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 24
-    images:
-      - url: "https://www.insurancejournal.com/app/uploads/2017/01/Self-Driving-car-on-road.jpg"
-        width: 900
-        height: 581
+      - url: "https://media.kvue.com/assets/KPNX/images/d6207e33-c9f2-4d33-8e46-9e474695673a/d6207e33-c9f2-4d33-8e46-9e474695673a_750x422.jpg"
+        width: 750
+        height: 422
         isCached: true
 
 secured: "ksYkj6EAAALvg96GMgz3IYw21gTZoARRG4UdVbvCIohRZkQ3u+ZZYjqbCBRNHb/BIMx426jSBXKtWCqvvwIwnHD891RTPVsFNpNG9VW8zSSWut1hPnSrQCUpxP80nl8jnYr1dsH5cEfdycpFa1qYCheYYtFrOC90eZznSzuQrk58SmBaRQId6mglGXRrhO2k8cMhKkR8eZHZQm8y8I1fT+mMdSVJvGbw4DFO3tu9zD2oCF2xsPTe0Gvspa3tJ4drPvv/V/8TiqxhmW9VUOJ0w9dwSU4/F7vWFaKpo3Sv4TtScGTkYaWzTL/dP/G63aoh33APcHdSPUW2atcr2/kPmOLZXWwUSej88pn9jPCbbi8=;GY7nQuVJ6hlJcY/KbWuIaQ=="

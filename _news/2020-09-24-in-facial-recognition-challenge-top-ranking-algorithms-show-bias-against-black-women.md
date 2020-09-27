@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/24/in-facial-recognition-challenge-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/amp/"
 type: article
 quality: 97
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -31,52 +31,26 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook Illinois Settlement: How to Get a Payout in $650 Million Facial Recognition Class Action"
-    excerpt: "When the tag feature is enabled, the social network uses face recognition technology to analyze photos and videos it believes a user is in and creates a template. The template is then used to recognize users as they appear in other photos or videos."
-    publishedDateTime: 2020-09-23T12:26:00Z
-    webUrl: "https://www.newsweek.com/facebook-illinois-face-recognition-settlement-submit-claim-payout-1533779"
-    ampWebUrl: "https://www.newsweek.com/facebook-illinois-face-recognition-settlement-submit-claim-payout-1533779?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/facebook-illinois-face-recognition-settlement-submit-claim-payout-1533779?amp=1"
+  - title: "Concerns about masks and facial-recognition software"
+    excerpt: "With facemasks now a part of our lives, tech companies are tackling the challenge of updating facial-recognition software to handle them."
+    publishedDateTime: 2020-09-24T12:12:00Z
+    webUrl: "https://www.fox5ny.com/news/concerns-about-masks-and-facial-recognition-software"
+    ampWebUrl: "https://www.fox5ny.com/news/concerns-about-masks-and-facial-recognition-software.amp"
+    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/concerns-about-masks-and-facial-recognition-software.amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 76
-    images:
-      - url: "https://d.newsweek.com/en/full/1641098/facebook-logo.jpg"
-        width: 2500
-        height: 1627
-        isCached: true
-  - title: "LAPD Used Facial Recognition Tech Frequently, Records Show"
-    excerpt: "(TNS) — The Los Angeles Police Department has used facial recognition software nearly 30,000 times since 2009, with hundreds of officers running images of suspects from surveillance cameras and other sources against a massive database of mugshots taken ..."
-    publishedDateTime: 2020-09-22T22:36:00Z
-    webUrl: "https://www.govtech.com/public-safety/LAPD-Used-Facial-Recognition-Tech-Frequently-Records-Show.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/LAPD-Used-Facial-Recognition-Tech-Frequently-Records-Show.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/LAPD-Used-Facial-Recognition-Tech-Frequently-Records-Show.html?AMP"
+      name: Fox 5 NY
+      domain: fox5ny.com
+    quality: 24
+  - title: "NEC Face Recognition Engine Provides Highly Accurate Results Even when Face Masks are Worn"
+    excerpt: "NEC Corporation today announced the strengthening of its face recognition technology, already recognized as the world's most accurate (*1), with the development of a new face recognition engine that provides high-precision certification even when masks are ..."
+    publishedDateTime: 2020-09-24T20:27:00Z
+    webUrl: "https://www.newswiretoday.com/news/173757/NEC-Face-Recognition-Engine-Provides-Highly-Accurate-Results-Even-when-Face-Masks-are-Worn/"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1139687675+(1).jpg"
-        width: 1119
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Tech That Works With Masks"
-    excerpt: "Facial recognition algorithms work by measuring a face’s features – their size and distance from one another, for example – then comparing these measurements to those from a photo stored in a passenger’s ePassport or travel document. As this ..."
-    publishedDateTime: 2020-09-23T15:34:00Z
-    webUrl: "https://apex.aero/2020/09/23/facial-recognition-tech-works-masks"
-    type: article
-    provider:
-      name: APEX
-      domain: apex.aero
-    quality: 39
-    images:
-      - url: "https://apex.aero/wp-content/uploads/2020/09/Untitled-design-3.png"
-        width: 1024
-        height: 678
-        isCached: true
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 9
 
 secured: "Zc/1+F25lZOU6hirx3SkevqZ/J+IGTqWQi6GlhdIwXPgBRPPU0Grb4z3VPaTMo+E/DrQ6drJZcFS6QRwyuV0IVeqhamrm3+iHr4gxOASpNH2g+Ws40QYDpRGj+H9lwb4/sNwip6Dae0mqM0zq+8BUI+IcZdY69Wn9DadiRvM+GHi9QyzgmnuRRC1d+s5Vxw6V2aEx7F9r/LKrXZAZQ5nUNcKifaGVUOkf4zW3NMto2GDV+lxG34m1vD5iLy3XOKTljtoaZfNT/TKB2T01aDWidfSlfu2zAqrRdK+xqPrLmTu/Oz/ijHDOMwT5JSU/S59XtubAi78dNk2/Qdli3syw//+kR9nwH5j5NIzd4Jo6zUGt3q3/qL+Fb1eUYgGn7ykBK19NSigPGizk8VZZYFs55tmSV6E6vjdhcoQrh7ku1jxU6a1kL/khAaEXA5ymZcZH0zk9Gua3kHQzknC3rRno3tuMUOyjTCdWDwOzUiWIRffV3oE+ZrpiPCkBH+L4/Nmh2U55JJjVF8xK9MBdx5LPg==;lFqGnOrl3Kawl5z0Wx0BdQ=="
 ---

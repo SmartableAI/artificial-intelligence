@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2020/09/23/adobes-liquid-mode-leverages-ai-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/23/adobes-liquid-mode-leverages-ai-to-reformat-pdfs-for-mobile-devices/amp/"
 type: article
 quality: 87
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -30,38 +30,47 @@ images:
     isCached: true
 
 related:
-  - title: "Adobe’s ‘Liquid Mode’ uses AI to automatically redesign PDFs for mobile devices"
-    excerpt: "We’ve probably all been there: you’ve been poking around your phone for an hour, deep in some sort of Google research rabbit hole. You finally find a link that almost certainly has the info you’ve been looking for."
-    publishedDateTime: 2020-09-23T13:06:00Z
-    webUrl: "https://techcrunch.com/2020/09/23/adobes-liquid-mode-uses-ai-to-automatically-redesign-pdfs-for-mobile-devices/"
-    ampWebUrl: "https://techcrunch.com/2020/09/23/adobes-liquid-mode-uses-ai-to-automatically-redesign-pdfs-for-mobile-devices/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/23/adobes-liquid-mode-uses-ai-to-automatically-redesign-pdfs-for-mobile-devices/amp/"
+  - title: "Adobe peps up PDF on smartphones with AI-powered Liquid reformatting"
+    excerpt: "Adobe's PDF technology can't match quantum computing's revolutionary potential. But a lot more of the digital world revolves around the lowly Portable Document Format than the newfangled machines, which is why you should take note that Adobe is modernizing it for the smartphone era."
+    publishedDateTime: 2020-09-23T13:04:00Z
+    webUrl: "https://www.cnet.com/news/adobe-peps-up-pdf-on-smartphones-with-ai-powered-liquid-reformatting/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/adobe-peps-up-pdf-on-smartphones-with-ai-powered-liquid-reformatting/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/adobe-peps-up-pdf-on-smartphones-with-ai-powered-liquid-reformatting/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 83
+      name: CNET
+      domain: cnet.com
+    quality: 87
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/09/liquid-mode.jpg?w=680"
-        width: 680
-        height: 352
+      - url: "https://cnet1.cbsistatic.com/img/fl4kI_M8yk3VNsMy0z483SO4Cpc=/1200x630/2020/09/22/f046faf0-1ac9-49df-b71c-e9be4b8c6f43/adobe-pdf-logo-icon.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Adobe's Liquid Mode uses machine learning to make PDFs more readable on mobile devices"
-    excerpt: "Adobe today announced an update for Acrobat Reader that's supposed to solve the perennial problem of PDFs in a mobile-first world -- the poor reading experience"
-    publishedDateTime: 2020-09-24T12:07:00Z
-    webUrl: "https://www.techspot.com/news/86859-adobe-liquid-mode-uses-machine-learning-make-pdfs.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/86859-adobe-liquid-mode-uses-machine-learning-make-pdfs.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/86859-adobe-liquid-mode-uses-machine-learning-make-pdfs.html"
+  - title: "Adobe's Liquid Mode uses AI to make PDFs easier to read on phones"
+    excerpt: "The new mode uses Sensei, Adobe’s AI tool, to automatically reformat text, images and tables for mobile devices."
+    publishedDateTime: 2020-09-24T15:40:00Z
+    webUrl: "https://www.engadget.com/adobe-liquid-mode-130012210.html"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 81
+      name: Engadget
+      domain: engadget.com
+    quality: 67
     images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2020/09/2020-09-23-image-26.jpg"
-        width: 2000
-        height: 876
+      - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Fddd5f7d0-fd80-11ea-b1f5-651ca90fba55&client=amp-blogside-v2&signature=98c07f7998a907a6c07f51d5aad253202e5994d0"
+        width: 1015
+        height: 630
         isCached: true
+  - title: "Adobe intros Liquid Mode, an AI tool that automatically reformats PDFs for small screens"
+    excerpt: "Adobe's new Liquid Mode tool can understand the structure of PDFs and automatically reformat text, images and tables for consumption on small screens."
+    publishedDateTime: 2020-09-23T13:00:00Z
+    webUrl: "https://www.zdnet.com/article/adobe-intros-liquid-mode-an-ai-tool-that-automatically-reformats-pdfs-for-small-screens/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/adobe-intros-liquid-mode-an-ai-tool-that-automatically-reformats-pdfs-for-small-screens/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/adobe-intros-liquid-mode-an-ai-tool-that-automatically-reformats-pdfs-for-small-screens/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 58
 
 secured: "nFp36/5k8q4bDcJBm/wR+4lLdOnIXD/5dL1qGzf28FMZWrfRYDjhaceTdy2amka4Tt5AlRe9/bpn+qKMXjz2sPQXnBVlN0UuMR+wh4NrOm8xV6T1dMpB9pwX2A3XxXqsFJkKlK8i8VwLjIN1eo3xS+qv/H5nomy+QgbQCIcfSyERkcl0q1a9uScj4eyig6VXL7z5OSJD4J7yhpzY6IUedXxIOr560d9P5L7tVTVHsFEyLm7SmZ6fqLg5U8rk/vAvBlXjitcQxZtN7V1q7NXs82LON85UDcx4W+C6FaXKWxzb6QwW3zJnHZEAMWprywlWI1amIDrWqi1zGwuc/bk6OGMD6bjswpSVGaSalkWDKyRrQMWQpjxphPrE9nd47QQyK0OY7CnyrrZbjgKb4aX9XWhsdcCcLA5xYrZLp54QAkgROfCkXR3IZtbpE6TWm5Wu+HKt5bpH0kYFstR7Ll1w5rwGQLXJgx9/FSCoaqfaed4P4ECpKEO1U3K3Oxlz5iu+9HsHlIxctb99+gKdctJ54A==;Pep8o8qHQtFLgL5vfP22fQ=="
 ---

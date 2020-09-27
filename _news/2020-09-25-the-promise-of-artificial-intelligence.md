@@ -25,17 +25,89 @@ images:
     isCached: true
 
 related:
-  - title: "Profiting from the Rise of Robotics"
-    excerpt: "O f the many hyper-growth themes emerging today, artificial intelligence (AI) and robotics are among those sure to have the most profound impact on day-to-day life. With that stat"
-    publishedDateTime: 2020-09-25T17:52:00Z
-    webUrl: "https://www.nasdaq.com/articles/profiting-from-the-rise-of-robotics-2020-09-25"
-    ampWebUrl: "https://www.nasdaq.com/articles/profiting-from-the-rise-of-robotics-2020-09-25?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/profiting-from-the-rise-of-robotics-2020-09-25?amp"
+  - title: "Three Coming Shifts In AI"
+    excerpt: "Beyond the announcements and the hype, is AI really evolving? In this article, I’d like to focus not on far-off, vague hopes and wishes about AI, but instead on a few concrete developments that lie in the not-so-distant future."
+    publishedDateTime: 2020-09-25T15:59:00Z
+    webUrl: "https://www.forbes.com/sites/amirhusain/2020/09/25/three-coming-shifts-in-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/amirhusain/2020/09/25/three-coming-shifts-in-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amirhusain/2020/09/25/three-coming-shifts-in-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6e0dde8f8678b1a065cccb%2F0x0.jpg%3FcropX1%3D639%26cropX2%3D1859%26cropY1%3D1084%26cropY2%3D1771"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "On the dynamics of trust in AI"
+    excerpt: "On the dynamics of trust in AI Speakers from NATO Microsoft IBM and Aspen Institute will debate on the future of AI On September 28th at 3 PM CET humanAIze and Data Natives EUvsVirus Operations Lead will host a virtual"
+    publishedDateTime: 2020-09-25T09:19:00Z
+    webUrl: "https://www.openpr.com/news/2142023/on-the-dynamics-of-trust-in-ai"
+    ampWebUrl: "https://www.openpr.com/amp/2142023/on-the-dynamics-of-trust-in-ai"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2142023/on-the-dynamics-of-trust-in-ai"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
+    images:
+      - url: "https://cdn.openpr.com/T/9/T924478775_g.jpg"
+        width: 800
+        height: 420
+        isCached: true
+  - title: "Redefining Leadership in the Age of Artificial Intelligence"
+    excerpt: "Artificial Intelligence (AI) capabilities have led to a number of innovations including autonomous vehicles, self-driving flights. Some of the AI technologies feature predictions on future and accurate decision-making."
+    publishedDateTime: 2020-09-26T08:29:00Z
+    webUrl: "https://www.analyticsinsight.net/redefining-leadership-in-the-age-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 41
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/09/Webp.net-resizeimage-1.jpg"
+        width: 966
+        height: 643
+        isCached: true
+  - title: "5 Uses of Artificial Intelligence in the Contact Center"
+    excerpt: "Artificial intelligence isn’t just a science fiction concept anymore. You can find it everywhere, from helping medical teams analyze results to personalized advertisements on social media. It has a ton of benefits for your contact center agents,"
+    publishedDateTime: 2020-09-24T17:19:00Z
+    webUrl: "https://customerthink.com/5-uses-of-artificial-intelligence-in-the-contact-center/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 39
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-166139079-ctmedia.jpg"
+        width: 1788
+        height: 1677
+        isCached: true
+  - title: "Recruiter.com Expands Board with Experts in Artificial Intelligence and Corporate Finance"
+    excerpt: "Recruiter.com Group, Inc., a leading hiring platform, has announced today that Deborah Leff, Global Leader and Industry CTO for Data Science and Artificial Intelligence and Nick Florio, CPA, and founder of Strategic Staffing Concepts,"
+    publishedDateTime: 2020-09-24T22:55:00Z
+    webUrl: "https://www.nasdaq.com/press-release/recruiter.com-expands-board-with-experts-in-artificial-intelligence-and-corporate"
     type: article
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 84
+    quality: 38
+  - title: "Edge Computing, AI, and the Internet of Things"
+    excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
+    publishedDateTime: 2020-09-24T06:33:00Z
+    webUrl: "https://www.computerworld.com/resources/208606/edge-computing-ai-and-the-internet-of-things"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 37
+    images:
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "eISFa807nFK58AzzwIa43Z4SBCWku82Q+gzvnmvieJ+wiAHeDs09L741EjTUo1Ir8+/f9UzLYUNBm+cJdfm6n4jRweFjdy5S4S3uUkBQ2LoH+yoGPpe1Pdqb6uY+ioYumJJbydk8Yuo6lN3kkhwTh50ZkPWvUBrIowqDSjiKzmbFXRo9ZT6Nm6CFAKCftmf71sAfD142vabphIm/GBHJSU/d3FUvgpV0UJh/R/GCLUQUSxe2/TA6pQfdZM1/3ntFtgRlmNJ96byycLdKbQYsXToTCmenyhLtBreygK0xRLo/zWuI2L+Ek18JFywmnlMladagpAgH59ZBrg2yojzYXSe7FHGwYItSJJSQ/o3kU4kk0mNBwdPveXg6+oxr9hCI9RN4eyL85xVM8nFhGj+TYsAatjth6Mun/wcSMlBCibsRQJnAOEsr5iGrYBCueeRo866xep1w/y4MTuKoaqRfsGr3uIRAfsiIRHxnpdCXfLDQ4Qj/BuHCs6yq5lNHOJ38AxBwjYCfbI6tA+DRrBSYdA==;jhF/kj0V0kpbGN0p9ycgog=="
 ---

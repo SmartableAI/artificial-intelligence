@@ -36,19 +36,46 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 69
-  - title: "SigmaSense Closes $22M Series A Funding Round with Groundbreaking Invention Enabling Touchless Touch Screens"
-    excerpt: "object recognition, digital pens and high hover for touchless gestures on LCD, OLED, EPD and Mini-LED screens AUSTIN, Texas--(BUSINESS WIRE)--SigmaSense, the global leader in touch screen performance, today announced the closing of $22 million in Series A ..."
-    publishedDateTime: 2020-09-24T08:13:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200923005265/en/SigmaSense-Closes-22M-Series-A-Funding-Round-with-Groundbreaking-Invention-Enabling-Touchless-Touch-Screens/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ%3D%3D"
+  - title: "Building a secure infrastructure for FinTech innovation in India"
+    excerpt: "FinTech innovators can win if they use analytics to outperform traditional financial service firms. 5G will offer the processing power to support advanced AI and Big Data use cases, allowing ..."
+    publishedDateTime: 2020-09-23T05:35:00Z
+    webUrl: "https://yourstory.com/2020/09/secure-infrastructure-fintech-innovation-india"
+    ampWebUrl: "https://yourstory.com/2020/09/secure-infrastructure-fintech-innovation-india/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/09/secure-infrastructure-fintech-innovation-india/amp"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 5
+      name: Your Story
+      domain: yourstory.com
+    quality: 44
     images:
-      - url: "https://mms.businesswire.com/media/20200923005265/en/823840/23/SigmaSense_Logo.jpg"
-        width: 1200
-        height: 627
+      - url: "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/fintech-1599641536708.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Latest Tech Nation fintech cohort reflects diversifying sector"
+    excerpt: "The latest group of fintechs accepted into Tech Nation’s growth programme reflects the diversification of a maturing sector."
+    publishedDateTime: 2020-09-23T14:59:00Z
+    webUrl: "https://www.computerweekly.com/news/252489469/Latest-Tech-Nation-fintech-cohort-reflects-diverse-sector"
+    ampWebUrl: "https://www.computerweekly.com/news/252489469/Latest-Tech-Nation-fintech-cohort-reflects-diverse-sector?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252489469/Latest-Tech-Nation-fintech-cohort-reflects-diverse-sector?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 24
+  - title: "Top 4 FinTech funding rounds in Singapore this September 2020"
+    excerpt: "The FinTech sector in Singapore sees Machine Learning and Artificial Intelligence algorithms being used generally in lending & asset management services."
+    publishedDateTime: 2020-09-25T14:15:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/top-4-fintech-funding-rounds-in-singapore-this-september-2020/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2020/09/FinTech-Funding-wealth.jpg"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "+RYSMCUTtZ5uGzQqjk1YHLdaZ7vKmEzj0DQ2MID5wL3u/f4C1+C1tUtYtriwmb8CDtowbr+JTGqutqrntjLrKZPC3K93YZEuxAYLrgQ2taU65G0QEx7oxW/VhYOlLoqZPG23/qIhxJ40eT7bL157j1mQjRKvzaoyadQjgmTfkH62s0Z3Eo/7jLl9c2lvCNPAkNPN1PVxBaQ0qt3sz/kzL04brLjGz7MqcP4G80ET5YQtvofe64zbqb/c4UkqFxCFgxpsITm19qv3Y2NsqVa3TORhCeMs0hyLaMU4bYhMegv7qIVvedZ4ggSaXE0jJQqZViDnapqA6Yxps6LwCsgpyHiSm+NSy5/Rq4pyck/wofo=;MqmZrcH+n/S4AuM+mVLlSA=="

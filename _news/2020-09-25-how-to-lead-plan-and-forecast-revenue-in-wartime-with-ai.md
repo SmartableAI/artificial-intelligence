@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lucianapaulise/2020/09/23/how-to-lead-p
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lucianapaulise/2020/09/23/how-to-lead-plan-and-forecast-revenue-in-wartime-with-ai/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Artificial Intelligence Platforms Market Size 2020 Industry Share, Demand Status, Recent Development Trends with Top Players and Forecast Analysis"
+    excerpt: "Artificial Intelligence Platforms Market”research provides actionable intelligence on major parameters impacting"
+    publishedDateTime: 2020-09-25T09:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platforms-market-size-2020-industry-share-demand-status-recent-development-trends-with-top-players-and-forecast-analysis-2020-09-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "mkcsvz1hc2vS8vsFaxmHqgPQSh9u8/buZQeGW9Dv/69lKssPhytbjXYpIvONR412JRfyBo89oHpMUh9RCTTHfq7kU2Cb/9oC3hNhX/02L08I449Wjg4niyf/93DCbOoInBWHbbZ4meN7JmL3tYe6wV/72eWHFNQKKv+TeJxo35RF6yQd9BFxvBb7bovoxm45KjbOa7NlGfdhXFgRUdXpxDVXQD4zkeqCM2HPgJH06SHGVgRD6VcyaEiZqabYrcn2FAo/aKls9o8FVaL9Ntd0euj7OYLIa5VRcg9KQeA1kE70fIWw4pf9rV0hUqcirgYNgT46LFDjKn0legpIzEa/gG3xae9QRj88JQxnn7C/9icBDgmNCFfgOAA5sCwdDh2Rued/bUXtnV3WRcbFUtFsZjdbvvhhvk3ZkGRJQaAD0XNADFWERNc6mK92p3FN814rCaF/+07eCut3Hm36GSxAWf4KDQ5Z5JLlOaMoCzjQegL+3GaPdubV126OUgtUbZk924RY9EXf4eQvXvazjsXRoA==;xtFfscnCPWGYRjyxFKbD8A=="
 ---

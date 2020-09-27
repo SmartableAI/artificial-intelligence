@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/alexa-gets-smarter-more-convers
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/alexa-gets-smarter-more-conversational-with-teachable-artificial-intelligence/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,31 +30,52 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon's Alexa gets a new brain on Echo, becomes smarter via AI and aims for ambience"
-    excerpt: "Amazon's new Echo devices are more like edge computing hardware in enterprises where the AI processing is going local. The upshot is that Alexa will be more ambient in the smart home, but most likely coming to work with you."
-    publishedDateTime: 2020-09-24T20:08:00Z
-    webUrl: "https://www.zdnet.com/article/amazons-alexa-gets-a-new-brain-on-echo-becomes-smarter-via-ai-and-aims-for-ambience/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/amazons-alexa-gets-a-new-brain-on-echo-becomes-smarter-via-ai-and-aims-for-ambience/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazons-alexa-gets-a-new-brain-on-echo-becomes-smarter-via-ai-and-aims-for-ambience/"
+  - title: "Alexa will soon gain more natural-sounding speech and recognize when multiple people are speaking"
+    excerpt: "Amazon announced a slew of new developer tools and resources for Alexa during its annual September hardware event."
+    publishedDateTime: 2020-09-24T18:23:00Z
+    webUrl: "https://venturebeat.com/2020/09/24/alexa-will-soon-gain-more-natural-sounding-speech-and-recognize-when-multiple-people-are-speaking/"
+    ampWebUrl: "https://venturebeat.com/2020/09/24/alexa-will-soon-gain-more-natural-sounding-speech-and-recognize-when-multiple-people-are-speaking/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/24/alexa-will-soon-gain-more-natural-sounding-speech-and-recognize-when-multiple-people-are-speaking/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 80
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 76
     images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/09/24/bc532dc1-2796-40d7-8236-733cc0766223/amzn-az1-neural-edge.png"
-        width: 827
-        height: 497
+      - url: "https://venturebeat.com/wp-content/uploads/2019/09/amazon-echo-dot-2019-e1571958500413.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Maru Launches Conversational AI Analytics Tool"
-    excerpt: "Tech-enabled insights group Maru has launched Conversational AI, an intelligent, device-agnostic feedback tool, as part of its Maru/HUB platform. Maru says the tool - available across messaging platforms including WhatsApp and Facebook Messenger to enhance familiarity for audiences - allows researchers and marketers to combine conversational feedback with its existing research technologies and traditional survey approaches for a more holistic understanding of consumer response."
-    publishedDateTime: 2020-09-23T00:42:00Z
-    webUrl: "https://www.mrweb.com/drno/news30322.htm"
+  - title: "Amazon’s AZ1 Neural Edge processor will make Alexa voice commands even faster"
+    excerpt: "Amazon’s preexisting products without the AZ1 send both the audio and its corresponding interaction to the cloud to be processed and back. Comparatively, these new ones that have the AZ1 built in can handle the audio on-device,"
+    publishedDateTime: 2020-09-24T17:40:00Z
+    webUrl: "https://www.theverge.com/2020/9/24/21453205/amazon-az1-neural-edge-processor-echo-show-10-alexa-voice-on-device"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/9/24/21453205/amazon-az1-neural-edge-processor-echo-show-10-alexa-voice-on-device"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/9/24/21453205/amazon-az1-neural-edge-processor-echo-show-10-alexa-voice-on-device"
     type: article
     provider:
-      name: MrWeb
-      domain: mrweb.com
-    quality: 19
+      name: The Verge
+      domain: theverge.com
+    quality: 71
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/DYgai69ITBpKgyZOtwQoxPwVkQc=/0x0:1920x1080/1400x933/filters:focal(807x387:1113x693):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67463191/lcimg_daa1e3c5_6113_4da4_8224_ecc2d3a2d352.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
+  - title: "AI Conversations: AI and 5G Perfect Each Other"
+    excerpt: "The advent of 5G networks is accelerating the adoption of artificial intelligence (AI) use cases by enterprises and for consumers, while AI is also enabling communication services providers (CSPs) to automate processes for service and network management."
+    publishedDateTime: 2020-09-24T18:46:00Z
+    webUrl: "https://www.cio.com/article/3583608/ai-conversations-ai-and-5g-perfect-each-other.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 39
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/09/cityscape-012-100859572-large.jpg"
+        width: 1200
+        height: 709
+        isCached: true
 
 secured: "w7w3xptetIjrUKU+jAGWxtsgGXsJv9TjlzjSeY8shXGXBhgxGU0Cc/Xxm2HyVb0ebbTm+/wFj4WMrXedzVHHEmyJtCGJvOd6VWvn87qdFxncHrI3lDx1LSdvDnWmPx47ftpEzHtW8kPjFFbA6WkMSjoO2w/yE7INrJUdMUkOYHpnjCBJkhQvZvKgkgq+EpADSuL65wekoWr2eM0cr9sVSjudLFBnaBw11ZaoJQX4HZN2iP94VBr0kM4tor29DKTYZEGfkeE28F9vnmONsJunZcEzGleKptzHbBD3axJm1YOoXt5PbJ3BiS5i0zI6At0K5Zv2ALNjeDvLHp9CblmxVy/nn/iO5Sq5q8WiWt4O+xTkNk4UEzHAZagjqwxKM8x7ymGrKyi2ataP8MXe/FNRIscTRCtmc/4JGNB6jePj1djr2qJ+6886zUwjHQNCM42BBN/Vmom1A/iUQ3V9pIZ49YspGoic9D3Cl5GrgWnLN6SCFAjKPSqCsQ4HHL4J4gMBJCqm0TtsYfjzg4V31QFoFw==;GrlMICJdP+ijhK4ThiZ6sg=="
 ---

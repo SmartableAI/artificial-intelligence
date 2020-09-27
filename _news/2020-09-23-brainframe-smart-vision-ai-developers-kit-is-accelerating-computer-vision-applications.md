@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/junwu1/2020/09/22/brainframe-smart-visi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/09/22/brainframe-smart-vision-ai-developers-kit-is-accelerating-computer-vision-applications/amp/"
 type: article
 quality: 98
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://petapixel.com/assets/uploads/2020/09/5f17f44a2792e17dd16e4608_transparent-5-gigapixel-scale-2_00x-800x569.jpg"
         width: 800
         height: 569
+        isCached: true
+  - title: "AI and its Applications in the Education Sector"
+    excerpt: "The primary goal of developing AI systems is to offer an organization the capacity to rationalize a situation and decide on a specific course of action that maximizes the chances of attaining a particular goal."
+    publishedDateTime: 2020-09-24T15:39:00Z
+    webUrl: "https://www.cioapplications.com/news/ai-and-its-applications-in-the-education-sector-nid-6504.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 39
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/jq72j450.jpg"
+        width: 450
+        height: 308
         isCached: true
   - title: "British Startup Develops AI-Accelerated Computational Alice Camera"
     excerpt: "Alice Camera is an “AI-accelerated computational camera” designed to deliver better connectivity than a regular or advanced DSLR."

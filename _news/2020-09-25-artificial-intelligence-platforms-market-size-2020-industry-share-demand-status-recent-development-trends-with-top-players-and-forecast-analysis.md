@@ -28,33 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Chipsets Market Potential Growth, Share and Demand-Analysis of Key Players- Research Forecasts to 2025"
-    excerpt: "The GlobalArtificial Intelligence Chipsets Market will be analyzed on the basis of key market vendors, their product benchmarking, SWOT analysis, and company's financial data such as annual revenue, research and development expenses,"
-    publishedDateTime: 2020-09-22T09:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-potential-growth-share-and-demand-analysis-of-key-players--research-forecasts-to-2025-2020-09-22?tesla=y"
+  - title: "How To Lead, Plan And Forecast Revenue In Wartime With AI"
+    excerpt: "Alyssa Filter, CFO of the sales forecasting platform Clari, a revenue operations platform used by such companies as Zoom, Okta, Lenovo and Adobe, shares advice in an interview on how she is helping lead the company through this crisis."
+    publishedDateTime: 2020-09-24T21:36:00Z
+    webUrl: "https://www.forbes.com/sites/lucianapaulise/2020/09/23/how-to-lead-plan-and-forecast-revenue-in-wartime-with-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/lucianapaulise/2020/09/23/how-to-lead-plan-and-forecast-revenue-in-wartime-with-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lucianapaulise/2020/09/23/how-to-lead-plan-and-forecast-revenue-in-wartime-with-ai/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6b8b35a5b58517abba8d96%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1390%26cropY1%3D342%26cropY2%3D1124"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "COVID-19 Recovery Analysis: Artificial Intelligence Platforms Market | Rise In Demand For AI-based Solutions to boost the Market Growth | Technavio"
-    excerpt: "Technavio has been monitoring the artificial intelligence platforms market and it is poised to grow by $ 12.51 bn during 2020-2024, progressing at a CAGR of over 33% during the forecast period. The report offers an up-to-date analysis regarding the current market scenario,"
-    publishedDateTime: 2020-09-25T21:39:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200916005770/en/COVID-19-Recovery-Analysis-Artificial-Intelligence-Platforms-Market-Rise-In-Demand-For-AI-based-Solutions-to-boost-the-Market-Growth-Technavio"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 14
-    images:
-      - url: "https://mms.businesswire.com/media/20200916005770/en/821962/23/IRTNTR44235.jpg"
-        width: 1200
-        height: 627
+        height: 675
         isCached: true
 
 secured: "G5fZ0pYQJsFkh9uQbsB+PAvyygIIbmM/Pvxn7/j6Q2HWa1pvM0qaBjBAM90AonGNgAGDFzykhwrZ8AM/YZbxfcy9SHCKJeCKxBrQUZNJv/AD8XlUaopY4VEned1fVmjccqfiP/bAJw4pKQ5Gl2a6dTBo3/9pXYQ3B4G1cyt6bmLewxzmynv2zovibOjMdM3MGzIVtDBVFkxZ35zeQ+/1O3Z1ybQ46x27nX89jzxQ7IYfehJZGblbf27B9sUtyUjQ5SXTDNBphbxqLUmFKFaYh8bEJZivyanW2NEqzGrHBlPA5YiAC0/z9gNr1TlIZBi+lqCK/Z4kPxE/L/bQ5dIk3sixnXnm6WfXVKEObmmbQVM=;JqdYNXas4fVqM9P1oTu1XA=="

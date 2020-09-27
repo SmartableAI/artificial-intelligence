@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-autopil
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-autopilot-elon-musk/"
 type: article
 quality: 89
-heat: 179
+heat: 159
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Cars Versus The Most Dangerous Driving Month Of The Year"
-    excerpt: "Bottom-line is to please be extra careful when driving during September. One future aspect to consider involves the gradual advent of AI-based true self-driving cars. This raises an intriguing question: Will the emergence of AI-based true self-driving cars ..."
-    publishedDateTime: 2020-09-22T15:43:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/22/self-driving-cars-versus-the-most-dangerous-driving-month-of-the-year/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/22/self-driving-cars-versus-the-most-dangerous-driving-month-of-the-year/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/22/self-driving-cars-versus-the-most-dangerous-driving-month-of-the-year/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f692b8b1cc60d7a2b67c0ac%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5295%26cropY1%3D857%26cropY2%3D3339"
-        width: 1199
-        height: 562
-        isCached: true
   - title: "Tesla's full self-driving option falls short of its claim, report says"
     excerpt: "The team assessed the EV maker’s full self-driving offering and found several of its features did not provide as much real benefit to customers as it claimed. And customers are said to be paying ..."
     publishedDateTime: 2020-09-22T11:54:00Z
@@ -106,22 +90,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Wyoming Legislature weighs a future for self-driving vehicles"
-    excerpt: "This past week, state committee members contemplated legislation they believe could fast-track Wyoming to a leadership role on autonomous vehicle technology almost overnight."
-    publishedDateTime: 2020-09-26T19:15:00Z
-    webUrl: "https://trib.com/news/state-and-regional/govt-and-politics/wyoming-legislature-weighs-a-future-for-self-driving-vehicles/article_87abcf88-aad3-50e7-b794-6104003af234.html"
-    ampWebUrl: "https://trib.com/news/state-and-regional/govt-and-politics/wyoming-legislature-weighs-a-future-for-self-driving-vehicles/article_87abcf88-aad3-50e7-b794-6104003af234.amp.html"
-    cdnAmpWebUrl: "https://trib-com.cdn.ampproject.org/c/s/trib.com/news/state-and-regional/govt-and-politics/wyoming-legislature-weighs-a-future-for-self-driving-vehicles/article_87abcf88-aad3-50e7-b794-6104003af234.amp.html"
-    type: article
-    provider:
-      name: Casper Star-Tribune
-      domain: trib.com
-    quality: 44
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/assets/v3/editorial/0/24/0244ce3f-8d43-56ee-8c12-dcc175fa43df/5f6e306069ba6.image.jpg?resize=1024%2C707"
-        width: 1024
-        height: 707
-        isCached: true
   - title: "Tesla says it will have a full self-driving Autopilot beta very soon"
     excerpt: "CEO Elon Musk promised that a private beta of the “full self-driving version” of the Autopilot software was coming in “a month or so.” If so, that’s pretty cool, since the Autopilot in its current state is more of a driver aid,"
     publishedDateTime: 2020-09-23T16:40:00Z
@@ -136,17 +104,20 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Beijing to build pilot zone for self-driving vehicles"
-    excerpt: "Beijing is planning to build a cloud-based pilot area for self-driving vehicles before the end of this year, marking an important step for the development of"
-    publishedDateTime: 2020-09-23T11:44:00Z
-    webUrl: "https://infosurhoy.com/news/beijing-to-build-pilot-zone-for-self-driving-vehicles/"
-    ampWebUrl: "https://infosurhoy.com/news/beijing-to-build-pilot-zone-for-self-driving-vehicles/amp/"
-    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/news/beijing-to-build-pilot-zone-for-self-driving-vehicles/amp/"
+  - title: "Tesla’s new battery tech promises a road to a cheap self-driving electric car"
+    excerpt: "New battery manufacturing tech could lead to big jumps in electric vehicle efficiency if everything works out. Latest Cookie Settings Many products featured on this site were editorially chosen. Popular Science may receive financial compensation for products purchased through this site."
+    publishedDateTime: 2020-09-25T04:38:00Z
+    webUrl: "https://www.popsci.com/story/technology/tesla-battery-day-cheap-electric-self-driving-car/"
     type: article
     provider:
-      name: InfoSur Hoy
-      domain: infosurhoy.com
-    quality: 24
+      name: Popular Science
+      domain: popsci.com
+    quality: 36
+    images:
+      - url: "https://www.popsci.com/resizer/jXSh1CA-PX-ANxYvpM5Lum114wY=/1200x628/smart/cloudfront-us-east-1.images.arcpublishing.com/bonnier/RVOSZ4HXANHXXFTCRPSUHJ4FEE.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Coming soon, a self-driving Tesla! Elon Musk touts new version of Autopilot software, cuts battery costs"
     excerpt: "Tesla Inc CEO Elon Musk promised a new version of the company's Autopilot system at the company's \"Battery Day\" on Tuesday, even as he tempered expectations that Tesla's electric"
     publishedDateTime: 2020-09-23T11:44:00Z

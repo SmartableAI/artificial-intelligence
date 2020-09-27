@@ -27,21 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "DHS Admits Facial Recognition Photos Were Hacked, Released on Dark Web"
-    excerpt: "Traveler’s faces, license plates, and care information were hacked from a subcontractor called Perceptics and released on the dark web."
-    publishedDateTime: 2020-09-24T19:50:00Z
-    webUrl: "https://www.vice.com/en_us/article/m7jzbb/dhs-admits-facial-recognition-photos-were-hacked-released-on-dark-web"
-    ampWebUrl: "https://www.vice.com/amp/en_us/article/m7jzbb/dhs-admits-facial-recognition-photos-were-hacked-released-on-dark-web"
-    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/m7jzbb/dhs-admits-facial-recognition-photos-were-hacked-released-on-dark-web"
+  - title: "LAPD officers reportedly used facial recognition 30,000 times in the past decade, contradicting the department's previous denials"
+    excerpt: "Despite frequent denials and refusals to respond to public records requests, the LAPD has been using the controversial technology widely since 2009."
+    publishedDateTime: 2020-09-24T22:47:00Z
+    webUrl: "https://www.businessinsider.com/lapd-used-facial-recognition-tech-30000-times-despite-denials-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/lapd-used-facial-recognition-tech-30000-times-despite-denials-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lapd-used-facial-recognition-tech-30000-times-despite-denials-2020-9?amp"
     type: article
     provider:
-      name: VICE
-      domain: vice.com
-    quality: 89
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
     images:
-      - url: "https://video-images.vice.com//articles/5f6ccbdc98c1d9009cb46dbf/lede/1600965870073-gettyimages-905553688.jpeg?crop=1xw:0.7347xh;0xw,0.1422xh"
-        width: 4875
-        height: 2738
+      - url: "https://i.insider.com/5f697d0e57b7da001ee12f99?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "LAPD Used Facial Recognition Tech Frequently, Records Show"
+    excerpt: "(TNS) — The Los Angeles Police Department has used facial recognition software nearly 30,000 times since 2009, with hundreds of officers running images of suspects from surveillance cameras and other sources against a massive database of mugshots taken ..."
+    publishedDateTime: 2020-09-22T22:36:00Z
+    webUrl: "https://www.govtech.com/public-safety/LAPD-Used-Facial-Recognition-Tech-Frequently-Records-Show.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/LAPD-Used-Facial-Recognition-Tech-Frequently-Records-Show.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/LAPD-Used-Facial-Recognition-Tech-Frequently-Records-Show.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1139687675+(1).jpg"
+        width: 1119
+        height: 630
         isCached: true
   - title: "Report: LAPD used facial recognition nearly 30,000 times"
     excerpt: "The Los Angeles Police Department has used facial-recognition software nearly 30,000 times since 2009 even while denying at times that it used the controversial technology at all, the Los Angeles Times reported Monday."
@@ -58,34 +74,6 @@ related:
       - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
         width: 375
         height: 211
-        isCached: true
-  - title: "MEPs raise concerns on EU plans for police facial recognition database"
-    excerpt: "MEPs on the European Parliament's Civil Liberties Committee have questioned EU plans to establish a bloc-wide facial recognition database for use by police authorities, citing the potential abuse of data as well as the likelihood of false positives."
-    publishedDateTime: 2020-09-22T11:44:00Z
-    webUrl: "https://www.euractiv.com/section/digital/news/meps-raise-concerns-on-eu-plans-for-police-facial-recognition-database/"
-    type: article
-    provider:
-      name: EURACTIV
-      domain: euractiv.com
-    quality: 54
-    images:
-      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2020/09/shutterstock_1214866462-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Digital Brief: EU/UK data transfers, EU police facial recognition, dark web"
-    excerpt: "The European Commission has concerns that certain aspects of the UK’s data protection regime may change in the future and negatively impact the safety of EU personal data when transferred to the country,"
-    publishedDateTime: 2020-09-25T07:42:00Z
-    webUrl: "https://www.euractiv.com/section/digital/news/digital-brief-eu-uk-data-transfers-eu-police-facial-recognition-dark-web/"
-    type: article
-    provider:
-      name: EURACTIV
-      domain: euractiv.com
-    quality: 37
-    images:
-      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2019/07/Web-Article-Graphic-Digital-Brief-800x450.png"
-        width: 800
-        height: 450
         isCached: true
 
 secured: "+ePwz1RNbAgN68BaKYWvCu1oaiIMWsyizvrlhWy5KfNZ2rC6ot9tA5+ULwVUb7aURFZhvucgEXcX4Fx3MWTs6qqDlenRK3ZVPpGwPp8JaOqQvQUTr0lLrsJrlF0Ar6X8gMeCpPu9hbSjCF0jv3E2QFnIj6VEnsKYZqUAYVHsNWJH/kMxFCSu50g2HEY1/s38nNwgmr/J7ZZsFYOFf8sxKtUFQ08yy5TkN6uY92FzKBLZVozghLB6R7KZMsAiIkEmQI7aC/Z75z3B7KOhjqgkr7ap5jHXuwHtv8y4fTB8EAb3rUmpGg3SsY+bsKUg7K/QapSCqbitbE4xuhT5ZtEgacc7AC563p4UYmd2l05cE0M=;ukc9wrFqHL/HfOB+UVTfKw=="

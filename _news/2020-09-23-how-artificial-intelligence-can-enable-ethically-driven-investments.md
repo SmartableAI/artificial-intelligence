@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2020/09/23/how-art
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/09/23/how-artificial-intelligence-can-enable-ethically-driven-investments/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Driving Technician Enablement With Computer Vision AI"
+    excerpt: "Technicians can already leverage AI for a growing range of applications right from their smartphones, from automated scheduling to knowledge base retrieval and decision support. A core element of this transformation is Computer Vision AI."
+    publishedDateTime: 2020-09-23T20:57:00Z
+    webUrl: "https://www.fieldtechnologiesonline.com/doc/driving-technician-enablement-with-computer-vision-ai-0001"
+    type: article
+    provider:
+      name: Field Technologies Online
+      domain: fieldtechnologiesonline.com
+    quality: 54
+    images:
+      - url: "https://vertassets.blob.core.windows.net/image/1278c9ed/1278c9ed-6448-4761-97a7-2d39aedc441e/untitled.png"
+        width: 450
+        height: 300
+        isCached: true
 
 secured: "8PbBEiXrtQsirpVRWEoM3MOIKDF8YEKlohiDKCPqZkNWwM+yDOk2Q6RJV4EvPDAstRCrRVbDJybnByubnDRVEHYj6YsejDJps5Ro8HLeeNtvJhsN4jVLi0LhAZZxNcP3QSYGOClgSuP6HnEFW3+eiGMOlK/Fd0MkxlPtb3htDVhN49azDgmIJe/zh2U40LCxtfsMczZK/lxKif+SpnZV4o8zuNDANOJakEFbCZ3cCNU2Wrof/CeYPstaCDAXGduAkxS5ffiwYN8Nln/mEflW9XJzSKAwdYfWWhfmQPesPXkB6guuHj+cro6ercAGsQIjDRgF4O6iguxTk5PvrbjyM7g1AfME2USEXcJyFVlC0beU4rfVJSKdN/JLAjG4qRe3TIOOIwL/9QNeSY+i+RrcQQyqyWbMq2e3pgdYMiXBVW4IInRrfg/XuDwK1xGmW30H3BdPpqpGoZbP2EOD7mXzT22aJs8PONqvKH37iyYsA3ckKnUjUx/QLRXY/KSKLyaDrIGarzuM3gmnVguz2xOsBw==;uzy9HQWIrqNOOb7ZR6T05g=="
 ---

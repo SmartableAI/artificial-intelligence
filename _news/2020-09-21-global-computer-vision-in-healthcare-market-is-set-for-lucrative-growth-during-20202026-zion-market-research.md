@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Artificial Intelligence (AI) in Healthcare Market Size to accrue $ 4757.5 million by 2025"

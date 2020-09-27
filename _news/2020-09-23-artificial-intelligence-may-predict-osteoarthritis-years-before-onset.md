@@ -38,20 +38,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "AI Aiding DOD in Early Detection of COVID-19, Say Technologists"
-    excerpt: "The Defense Threat Reduction Agency and Defense Innovation Unit are applying commercial technology for early detection of the Severe Acute Respiratory Syndrome Coronavirus 2, which causes the COVID-19"
-    publishedDateTime: 2020-09-22T14:51:00Z
-    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2356086/ai-aiding-dod-in-early-detection-of-covid-19-say-technologists/"
-    type: article
-    provider:
-      name: US Department of Defense
-      domain: defense.gov
-    quality: 37
-    images:
-      - url: "https://media.defense.gov/2020/Sep/22/2002502651/1280/1280/0/200921-O-ZZ999-004.JPG"
-        width: 1280
-        height: 1002
-        isCached: true
 
 secured: "QDjTfTTFdCeexeAUcm6XXFsvDUplkEdRXS7nDqkKK0l4kDKEF7+RfDV3UA7aysy/rkXDWeibWGXycZ35etdlsA4MSWjlbG9gfjbFnwGD8/SD+aqHOD9qlv2EFoENRi1TbA6dRiIS9faX8E7z1Zq4qvuPfpYJBfmA3kSJ8wqPSGqYS8jfSkEdf+bv9mDdQK3ey6u7kMLY1tX9y4QbqhMiCUi6AWKRqICHCrIc+t608GH4tuf2L1bo7zutVm4cb2o2VYj5lqvd1WTny9ajcyPalnXml0wPQfY+F5JbyOLYb+eEzCtl6YJX9EuyNrbylpfDeojYlxtNJ6VIATbpzO1ukYSO4Ho2xGxYEz7tn9jA2d4=;orqSnWhUGyUviIOEY3mijw=="
 ---

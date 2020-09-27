@@ -7,7 +7,7 @@ originalUrl: "https://cheddar.com/media/u-s-rep-bob-latta-makes-new-push-for-reg
 webUrl: "https://cheddar.com/media/u-s-rep-bob-latta-makes-new-push-for-regulating-self-driving-vehicles"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Wyoming Legislature weighs a future for self-driving vehicles"
+    excerpt: "This past week, state committee members contemplated legislation they believe could fast-track Wyoming to a leadership role on autonomous vehicle technology almost overnight."
+    publishedDateTime: 2020-09-26T19:15:00Z
+    webUrl: "https://trib.com/news/state-and-regional/govt-and-politics/wyoming-legislature-weighs-a-future-for-self-driving-vehicles/article_87abcf88-aad3-50e7-b794-6104003af234.html"
+    ampWebUrl: "https://trib.com/news/state-and-regional/govt-and-politics/wyoming-legislature-weighs-a-future-for-self-driving-vehicles/article_87abcf88-aad3-50e7-b794-6104003af234.amp.html"
+    cdnAmpWebUrl: "https://trib-com.cdn.ampproject.org/c/s/trib.com/news/state-and-regional/govt-and-politics/wyoming-legislature-weighs-a-future-for-self-driving-vehicles/article_87abcf88-aad3-50e7-b794-6104003af234.amp.html"
+    type: article
+    provider:
+      name: Casper Star-Tribune
+      domain: trib.com
+    quality: 44
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/assets/v3/editorial/0/24/0244ce3f-8d43-56ee-8c12-dcc175fa43df/5f6e306069ba6.image.jpg?resize=1024%2C707"
+        width: 1024
+        height: 707
+        isCached: true
 
 secured: "kI6KgoYyUoYfhDVBpyS7VPhUhUVb7ZsQM7+R9frY6FJH4pBdzj6dn52ZdTpOOjhSFub1B+sLrPPelC5JlBJdRKSCM7HdHErZPPPL5tS22H8LNLT7mDtS28dZB3F1BiXVAp2UmanTK3N+3sLpS3ejJo53Pg6TJSg5zRXjiCnh3yfQ0PR7xMD0F/ZnVRZKP10Rl5pufPXbQ77W5Rx44Btmzc1dahWMA2kanRAzaG12+QbfRaVeWQpMicmUGySFI8MiwBTnqg4bXoGf5xCP7/dcbnRisCWFD5bpm+dwkUcxhiA/AFhkbOwmpp6s3Onh3SeUNH+lCnXkt1ZIn6AWsIwDqpGD522GRczvfYpXFWXJShw=;OQpZLDc1zvj1pctANHTVdA=="
 ---

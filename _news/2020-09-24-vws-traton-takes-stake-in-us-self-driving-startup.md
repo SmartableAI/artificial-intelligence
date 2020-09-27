@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "TuSimple expands self-driving trucks to Europe with Traton partnership"
-    excerpt: "Self-driving truck startup TuSimple inked an agreement with Traton that will give the VW subsidiary a minority stake in the startup."
-    publishedDateTime: 2020-09-23T07:30:00Z
-    webUrl: "https://venturebeat.com/2020/09/23/tusimple-expands-self-driving-trucks-to-europe-with-traton-partnership/"
-    ampWebUrl: "https://venturebeat.com/2020/09/23/tusimple-expands-self-driving-trucks-to-europe-with-traton-partnership/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/23/tusimple-expands-self-driving-trucks-to-europe-with-traton-partnership/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/09/AutonomousButton3-e1600713459170.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Self-driving trucks being trialled in Germany"
     excerpt: "Technology that enables trucks to achieve Level 4 autonomy is being developed by Continental. It is working in conjunction with braking components manufacturer Knorr-Bremse with the aim of helping transport companies address the driver shortage and reduce labour costs."
     publishedDateTime: 2020-09-23T11:24:00Z

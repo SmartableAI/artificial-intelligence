@@ -1,26 +1,29 @@
 ---
 category: news
 title: "Global startup Parcel Perform collaborates with Amazon Web Services (AWS) to improve e-commerce delivery experience with machine learning"
-excerpt: "Providing the latest delivery date of online purchases is a crucial driver for online shoppers' satisfaction, but arrival date predictions by"
-publishedDateTime: 2020-09-22T00:15:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/global-startup-parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-1029608848"
-webUrl: "https://markets.businessinsider.com/news/stocks/global-startup-parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-1029608848"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/global-startup-parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-1029608848"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-startup-parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-1029608848"
+excerpt: "Parcel Perform and Amazon Machine Learning Solutions Lab collaborated to build a flexible, scalable solution, combining AWS' expertise in ML and ML services like Amazon SageMaker, with the specific requirements of the logistics domain to build this unique ..."
+publishedDateTime: 2020-09-22T04:26:00Z
+originalUrl: "https://www.asiaone.com/business/global-startup-parcel-perform-collaborates-amazon-web-services-aws-improve-e-commerce"
+webUrl: "https://www.asiaone.com/business/global-startup-parcel-perform-collaborates-amazon-web-services-aws-improve-e-commerce"
+ampWebUrl: "https://www.asiaone.com/business/global-startup-parcel-perform-collaborates-amazon-web-services-aws-improve-e-commerce?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/global-startup-parcel-perform-collaborates-amazon-web-services-aws-improve-e-commerce?amp"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AWS AI
   - AI
+  - Machine Learning
 
-secured: "gyUb+WqRQ3gwCVGB5+bvDHwcYaoA68Fab8OqqwF71U34/SWOCnNVcfyeKSxTbDzCoh8aoxjV5o/Yf5lMxJH05Z83gDGdOWICXtRi58i49cxiz3Vxz2LyQARLejk9Fpm97vBO3IWzt8/LYHP+L6AuW7SRiw2yEs6Q++q9DQ7jmEKX+3GfDjQIVwPt2VEYPlLSFwFQPtCbd6FqikY+6IeQet1cCG+JSEJA+Vp5B4hhhUSlCyOYYsO8cmsq0ocD0bh/ll7g8RlVme55lmucMnSDekP/1tezXVHBGVoVo8hLTiIjWOUU2DEquUZHqYod/ckC0E4Wb2jS66KCTzRjY0PKAVtcNLAXQl+7OE5+zCJzqN8=;XVIW9X/iFo86OMXbnRqUUA=="
+images:
+  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Sep2020/pr-newswire_500_4_1272.jpg?itok=_nKPo1GS"
+    width: 763
+    height: 509
+    isCached: true
+
+secured: "gq2SkJPXE6c+fPy8GB6fAI+aNSdz5ggtFogpxhtvuTRNFI6ByoQp4JyW3XSGeR+B+xYu28Nrt3uuUrPbsBlOtN98HOd8CjhuL2gDTSr6WVq2/lH02p2LQm3LB2k5dCipl2VyQPQnQf1Ss/yNE0Qu89Oq5FlV/WfBH071RrOX3yhSgbxGrenov58OSyISxTQ/qSCNp8KDfCjuKOjaRmsszOH9/AfO4OQuRbXvyYpn63fjZRa46EQUgsbYU2GNM1hKcSHqIh8xiTbGR5tMHLNruN3smLkZg/3iVRaJrHd9XEpSk3B7Sw7OJ1JX9uh9WAGTO6qteRkGM1fVR74BsgmJ+yLrYwn/8mjwNLpRjFIq1Hw=;1sT/ik7RLZMlr23ZKTIXPg=="
 ---
 

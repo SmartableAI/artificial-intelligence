@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/09/24/rephrase-ai-seed-funding/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/24/rephrase-ai-seed-funding/amp/"
 type: article
 quality: 83
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1024
     height: 577
     isCached: true
-
-related:
-  - title: "This Startup Uses Deepfake Tech to Let Brands Create Video Sales Pitches at Scale"
-    excerpt: "A new startup wants to make video production as easy as choosing a spokesmodel, a tone of voice and typing out a script. Bangalore-based Rephrase.ai raised $1.5 million this week in a seed round led by Lightspeed Venture Partners and AV8 Ventures for a ..."
-    publishedDateTime: 2020-09-25T16:29:00Z
-    webUrl: "https://www.adweek.com/digital/startup-uses-deepfake-tech-to-let-brands-create-video-sales-pitches/"
-    type: article
-    provider:
-      name: Adweek
-      domain: adweek.com
-    quality: 17
-    images:
-      - url: "https://www.adweek.com/wp-content/uploads/2020/09/synthetic-media-CONTENT-2020-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "4YRiCm2V8r4X1KIPq3qu1Jzu2d/HIppX1n0XgNmCbjUqR7fDaxj+Q+JdWGO01DNFl+3oc5wNcbal69VLEMg+DSzq8PrrPwbYz1Ik3XrXtFIAagLJhB12hWiiDO1vnyOf8jJV485aqRLeNjBvYw2VCyzcNUyqO+wr6+9IjsyqgmWMEMg781tTt8Y7pXyQjL3s2iv3brO62sXcsNg8pc2ww0TPmE6Nz50ha9Jp8VSd7WZbAAQVUJXSLGavhl6LU0v7ziDVelDgXBsunNuA64k+A91tmJ/JuvJgp9QugABgyU1ZF0keDF/uOgaOWr4zOrqmc61P6CcCcddYRHkibE5cERRHKxPRk6mqGtIvfsJ3tu+FYk3vHtqMhaui4vurxmu1s/Z0THKc0Xrem6uuRGCix7ZcqrJTfqhGZn4WEbYAfZpyOOXboL6ANSPt95MlxoG2iTVNF1vXR5FRdjnNa6ILiwB+O0yfwIpH7Jf78dMiNrOE7a7poJEssbsvsaoOVhwCRX1NbALqzR2PmxOfwB/kTw==;XNFKTXRmvod98dkZ7eS9fA=="
 ---

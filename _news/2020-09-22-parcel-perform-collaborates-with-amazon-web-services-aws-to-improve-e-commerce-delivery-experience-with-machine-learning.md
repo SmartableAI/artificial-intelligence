@@ -23,6 +23,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Machine Learning
 
 related:
   - title: "Global startup Parcel Perform collaborates with Amazon Web Services (AWS) to improve e-commerce delivery experience with machine learning"

@@ -20,6 +20,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://cdn57.androidauthority.net/wp-content/uploads/2020/04/Roborock-S6-MaxV-robot-vacuum-cleaner-front-view-top-920x470.jpg"

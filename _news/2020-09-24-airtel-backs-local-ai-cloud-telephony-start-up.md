@@ -9,8 +9,8 @@ ampWebUrl: "https://www.mobileworldlive.com/asia/asia-news/airtel-backs-local-ai
 cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/asia/asia-news/airtel-backs-local-ai-cloud-telephony-start-up/amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Mobile World Live
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Bharti Airtel picks up 10% stake in Kerala-based startup Waybeo Technology"
+    excerpt: "Waybeo CEO Krishnan R V said the tie-up with Airtel would help the telecom company use the startups telephone-based AI services."
+    publishedDateTime: 2020-09-23T15:51:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/startup/bharti-airtel-picks-up-10-stake-in-kerala-based-startup-waybeo-technology-5877271.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/startup/bharti-airtel-picks-up-10-stake-in-kerala-based-startup-waybeo-technology-5877271.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/startup/bharti-airtel-picks-up-10-stake-in-kerala-based-startup-waybeo-technology-5877271.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 55
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2019/09/artificial-intelligence-3382507_1280-e1576670917550-753x435.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
+        isCached: true
   - title: "Airtel picks up a stake in cloud communications startup Waybeo, which builds AI-based telecom solutions"
     excerpt: "Indian telecom giant Airtel has picked up a strategic stake in Trivandrum-based cloud telephony startup Waybeo. This is the fifth startup to be inducted into the Airtel Startup Accelerator program. “Cloud technologies are transforming the way businesses serve and delight their customers."
     publishedDateTime: 2020-09-23T08:03:00Z

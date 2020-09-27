@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2020/09/23/volkswagens-truc
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/09/23/volkswagens-truck-unit-ties-up-with-tusimple-on-robot-big-rigs/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 159
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "TuSimple expands self-driving trucks to Europe with Traton partnership"
+    excerpt: "Self-driving truck startup TuSimple inked an agreement with Traton that will give the VW subsidiary a minority stake in the startup."
+    publishedDateTime: 2020-09-23T07:30:00Z
+    webUrl: "https://venturebeat.com/2020/09/23/tusimple-expands-self-driving-trucks-to-europe-with-traton-partnership/"
+    ampWebUrl: "https://venturebeat.com/2020/09/23/tusimple-expands-self-driving-trucks-to-europe-with-traton-partnership/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/23/tusimple-expands-self-driving-trucks-to-europe-with-traton-partnership/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/09/AutonomousButton3-e1600713459170.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Volkswagen's Traton partners with TuSimple for self-driving trucks"
     excerpt: "Volkswagen's <VOWG_p.DE> Traton commercial truck unit and self-driving technology startup TuSimple will partner to develop self-driving trucks, the companies said on Wednesday."
     publishedDateTime: 2020-09-23T15:37:00Z
@@ -100,6 +116,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1941b469-3443-402c-b48d-d6c5b91a055e.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+        isCached: true
+  - title: "Is TuSimple about to solve complexities of driverless trucks?"
+    excerpt: "However, that day may be fast approaching as TuSimple continues generating momentum. This year has been particularly momentous for TuSimple, as the company not only continues to refine its technology,"
+    publishedDateTime: 2020-09-24T15:01:00Z
+    webUrl: "https://www.fleetowner.com/technology/autonomous-vehicles/article/21142760/is-tusimple-about-to-solve-complexities-of-driverless-trucks"
+    type: article
+    provider:
+      name: Fleet Owner
+      domain: fleetowner.com
+    quality: 39
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/fleetowner/image/2020/09/16x9/tusimple_road.5f6c989e6cc9f.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 673
         isCached: true
 
 secured: "MHfVFMrqzfPE9pl5C8QlVdOmHO655fb44Fcc90jjoAOBaQLZzUMCr9qI/DxBNpk6mSgsWxISgfBPPhce9gLRCJt4rxYO6rgJ/E65laIm4FewxBeTIHFDmyx06MvSW8FGrXbfsV90GBsoWNOivZUpBxEAq7G36Au5JK+uAH5b1bTLBQ5TxRWWbxjUE/YT5UlJCDSkpk0B2XHBwIaaSU71UvOdnMs4Ho6NN31CtuKdaH5GdAsRJh48QkbFdcSSS8h2AL/ac2VVGsdx0J9HwAyl2BVvVINYWv3BFuY/6twxHIjCM1Y+tq8AMBj8FbQ/4uc4oaB2amU/F8Nf71R1luPar8s0ihnaOK9Lo4+qUuKpTLpMb15uuJifcmxQQ6lmMJx3OImeoU+gGNE38i0NBYXDUYBAuyYMPzj6uPmNdMrXrwL1JbZMNFXIC1DpOEnCJ33NQ2l+Y12mxDHjTLuStHKrHWyawECk+6TWueryih7Mxxj0s+wUbGdoGMS60W4BmX4A0Z5h8iUD0Yyfj771u5EoLg==;WBuXaXvclc4oxZuXQfYq3g=="

@@ -2,99 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2020-07-21-asmpt-collaborates-with-ibm-research-on-ai-chip-technology.md",
-      "title": "ASMPT Collaborates with IBM Research on AI Chip Technology",
-      "excerpt": "With the dawn of the Artificial Intelligence (AI)era upon the world, the usual playbook of continuous shrinking andpacking more and more transistors into chipsets will",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/asmpt-collaborates-ibm-research-ai-chip-technology",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jul2020/ASM-logo-200720_0.jpg?itok=igskQ2yX",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/asmpt-collaborates-ibm-research-ai-chip-technology?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/asmpt-collaborates-ibm-research-ai-chip-technology?amp",
-      "publishedDateTime": "2020-07-20T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-wyze-will-try-pay-what-you-want-model-for-its-ai-powered-person-detection.md",
-      "title": "Wyze will try pay-what-you-want model for its AI-powered person detection",
-      "excerpt": "Smart home company Wyze is experimenting with a rather unconventional method for providing customers with artificial intelligence-powered person detection for its smart security cameras: a pay-what-you-want business model.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/7/20/21331974/wyze-cam-ai-person-detection-free-pay-what-you-want-model-experiment",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/FOfBqFUxP-Z7IBLvzcnvwy2O0-8=/0x0:1599x1066/1400x933/filters:focal(1023x368:1277x622):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67083966/Wyze_Labs_Inc_WyzeCam.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/7/20/21331974/wyze-cam-ai-person-detection-free-pay-what-you-want-model-experiment",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/7/20/21331974/wyze-cam-ai-person-detection-free-pay-what-you-want-model-experiment",
-      "publishedDateTime": "2020-07-20T17:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-20-giants-in-the-aiot-chip-industry-qualcomm-alibaba-and-wimi-entering-the-battlefield.md",
       "title": "Giants in the AIoT Chip Industry – Qualcomm, Alibaba and WIMI Entering the Battlefield",
       "excerpt": "In recent years, the word AIoT has gradually become active in people's vision. AIoT (AI+IoT) means combining artificial intelligence with the Internet of Things to form a new integrated discipline. With the development of artificial intelligence technology,",
@@ -1464,7 +1371,49 @@
         "AI Hardware",
         "AI"
       ]
+    },
+    {
+      "path": "_news/2020-07-10-tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket.md",
+      "title": "Tech News: Neuromorphic computing and the brain-on-a-chip in your pocket",
+      "excerpt": "The human brain is relatively small, uses about 20 Watts of power and can accomplish an amazing number of complex tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.iol.co.za/business-report/tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket-50687754",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image-prod.iol.co.za/resize/1707x366?source=https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/iol/media/image/2020/07/09/50687754/3589663121.jpg&operation=CROP&offset=0x160&resize=1707x960",
+          "width": 651,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.iol.co.za/amp/business-report/tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket-50687754",
+      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket-50687754",
+      "publishedDateTime": "2020-07-09T22:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IOL News",
+        "domain": "iol.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
     }
   ],
-  "nextPage": 8
+  "nextPage": null
 }

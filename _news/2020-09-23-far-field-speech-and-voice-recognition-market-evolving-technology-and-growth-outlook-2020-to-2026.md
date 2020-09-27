@@ -29,146 +29,33 @@ images:
     isCached: true
 
 related:
-  - title: "Computer Vision in Artificial Intelligence (AI) Market Outlook and Global Insights 2020 to 2026"
-    excerpt: "Market Insights Reports published a report on the Global Computer Vision in Artificial Intelligence (AI) Market analysis and forecast 2020-2026 delivering key insights and providing a competitive advantage to clients through a comprehensive report."
-    publishedDateTime: 2020-09-24T16:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-outlook-and-global-insights-2020-to-2026-2020-09-24"
+  - title: "As Per Study, Voice and Speech Recognition Market Size Poised to Surpass USD 31.49 billion by 2026"
+    excerpt: "Selbyville, Delaware, The Voice and Speech Recognition market study now available with Market Study Report, LLC,"
+    publishedDateTime: 2020-09-23T17:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/as-per-study-voice-and-speech-recognition-market-size-poised-to-surpass-usd-3149-billion-by-2026-2020-09-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 89
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "At CAGR 36.2%, Artificial Intelligence Market 2020: Future Challenges And Industry Growth Outlook 2025"
-    excerpt: "Artificial Intelligence Market is valued at USD 23.94 Billion in 2018 and expected to reach USD 208.49 Billion by 2025"
-    publishedDateTime: 2020-09-25T09:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/at-cagr-362-artificial-intelligence-market-2020-future-challenges-and-industry-growth-outlook-2025-2020-09-25"
+  - title: "Smart Education and Learning Management Market Size is Projected to Reach USD 270,630.32 Million by 2025 | Valuates Reports"
+    excerpt: "... the growth of Smart Education & Learning Management market size are the adoption of e-learning solutions and Artificial Intelligence (AI) and Machine Learning (ML). Get Detailed Analysis of COVID-19 Impact on Smart Education and Learning Management ..."
+    publishedDateTime: 2020-09-23T13:41:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/smart-education-and-learning-management-market-size-is-projected-to-reach-usd-270-630-32-million-by-2025-valuates-reports-812155943.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Contact Center AI Software Market 2020 Global Trend, Segmentation and Opportunities Forecast To 2026"
-    excerpt: "Sep 22, 2020 (Heraldkeepers) -- New Study Reports “Contact Center AI Software Market 2020 Global Market Opportunities, Challenges, Strategies and Forecasts 2026” has been Added on WiseGuyReports. The fundamental dynamics that are explored in the report ..."
-    publishedDateTime: 2020-09-22T18:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/contact-center-ai-software-market-2020-global-trend-segmentation-and-opportunities-forecast-to-2026-2020-09-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) in BFSI Market 2020 Industry Outlook, Classification, Demand, Regional Analysis and Forecast to 2025"
-    excerpt: "The recently released report titled Global Artificial Intelligence (AI) in BFSI Market 2020 by Company, Type and Application, Forecast to 2025 mainly elaborates on market definitions, classifications,"
-    publishedDateTime: 2020-09-23T18:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-bfsi-market-2020-industry-outlook-classification-demand-regional-analysis-and-forecast-to-2025-2020-09-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Machine Learning Market 2020 Industry Growth Analysis by Key Players, Segments, Competitive Landscape and Forecast to 2025"
-    excerpt: "Sep 22, 2020 (CDN Newswire via Comtex) -- The research report by MarketandResearch.biz, titled Global Machine Learning Market 2020 by Company, Type and Application, Forecast to 2025 draws research, analysis, and estimations by applying reliable knowledge ..."
-    publishedDateTime: 2020-09-22T20:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-market-2020-industry-growth-analysis-by-key-players-segments-competitive-landscape-and-forecast-to-2025-2020-09-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Image Recognition in Retail Market Size study, by Type, Application and Regional Forecasts 2020-2027"
-    excerpt: "Also, in August 2019, AWS upgraded the Amazon Rekognition to deliver higher accuracy of gender identification and emotion detection. Thus, aiding the market growth. Further, the need to increase shelf availability, enhance customer experience and maximize ..."
-    publishedDateTime: 2020-09-22T23:58:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/09/ab17615125/global-image-recognition-in-retail-market-size-study-by-type-application-and-regional-forecasts-2"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17615125"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17615125"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
-    images:
-      - url: "https://www.abnewswire.com/uploads/1600795673.jpeg"
-        width: 278
-        height: 333
-        isCached: true
-  - title: "Data storage market Size Outlook, COVID19 Impact on Industry, Share Value, Global Growth Drivers and Industry Forecast to 2026"
-    excerpt: "Even though the trend of major companies to develop own storage platform such as Microsoft Azure, IBM Cloud ... data management, and AI and Machine learning offer opportunities for the data storage market to grow in the future. Besides, as the virtual ..."
-    publishedDateTime: 2020-09-24T10:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-storage-market-size-outlook-covid19-impact-on-industry-share-value-global-growth-drivers-and-industry-forecast-to-2026-2020-09-24?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing (NLP) in Life Sciences Services Market 2020 Global Trend, Segmentation and Opportunities Forecast To 2025"
-    excerpt: "The report on the global Natural Language Processing (NLP) in Life Sciences Services market provides a thorough assessment of the COVID-19 impact on the current and future market prospects across various geographies. Starting with an informative market ..."
-    publishedDateTime: 2020-09-22T11:53:00Z
-    webUrl: "https://www.openpr.com/news/2139345/natural-language-processing-nlp-in-life-sciences-services"
-    ampWebUrl: "https://www.openpr.com/amp/2139345/natural-language-processing-nlp-in-life-sciences-services"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2139345/natural-language-processing-nlp-in-life-sciences-services"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 8
-  - title: "Business Intelligence And Analytics Market 2020 Global Insights and Technology Advancement –IBM Corporation, Microsoft Corporation, SAP SE"
-    excerpt: "The market can be segmented on the basis of type into spatial and location analytics, advanced and predictive analytics, cognitive/AI (Artificial Intelligence), content analytics and end-user query and reporting analytics. On the basis of services ..."
-    publishedDateTime: 2020-09-23T11:45:00Z
-    webUrl: "https://www.openpr.com/news/2140458/business-intelligence-and-analytics-market-2020-global"
-    ampWebUrl: "https://www.openpr.com/amp/2140458/business-intelligence-and-analytics-market-2020-global"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2140458/business-intelligence-and-analytics-market-2020-global"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 8
-    images:
-      - url: "https://cdn.openpr.com/T/9/T923400733_g.jpg"
-        width: 800
-        height: 312
-        isCached: true
-  - title: "Global Healthcare Service Robots Market Analysis and Forecast, 2020-2025: Robots Lending a Hand During Covid-19 Outbreak - ResearchAndMarkets.com"
-    excerpt: "Analysis and Forecast, 2020-2025\" report has been added to ResearchAndMarkets.com's offering. The global healthcare service robots market was valued to be $462.3 million in 2019 and is anticipated to witness an impressive double-digit growth rate,"
-    publishedDateTime: 2020-09-25T08:20:00Z
-    webUrl: "https://www.dailyrecordnews.com/ap_news/business/global-healthcare-service-robots-market-analysis-and-forecast-2020-2025-robots-lending-a-hand-during/article_72c1d11e-b8c8-56c5-94f7-93f07085c5f2.html"
-    type: article
-    provider:
-      name: Ellensburg Daily Record
-      domain: dailyrecordnews.com
-    quality: 2
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/dailyrecordnews.com/content/tncms/custom/image/0ef5f48e-94dc-11e7-8ed4-3365baf52acf.png"
-        width: 1200
-        height: 630
+      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
+        width: 920
+        height: 482
         isCached: true
 
 secured: "PQ3Pth7nbS0mAesbZLAR0JWbB9NNO59ors9EyoTPQ5dWk2VwORSAz68BUmxLBKTxQhBl1SfPmiQz4asMZPzex7TgAJ+TG5MWPJtXFb5Pn+/CA+IDgSMPJL7qRQx6yhMQVdXteZRVA+06MU+ytHXZkMPwLXKsJHFmFZGBPBhOvz7eR46SOpi7o26BGbOMRcgiOHvOozklwaU06ozA2GX+YxbBeC/6Sfyd2F0+XWx8wIChpSVAzW+iTRTqGzN8YxxnjktLufcuAYKrJvBjZonTHYJsMq4nUHhYOULsf4zr2lMLyoAcsN7CAhcODEGF6SeIp7sVrOY/46vRdLcDXMfz/MuYmH35/0OjvN6jl7+nFw0=;wvPHD/WfKs9oOpHhtWcXMQ=="

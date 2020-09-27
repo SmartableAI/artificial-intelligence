@@ -25,37 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Mailchimp launches new AI tools as it continues its transformation to marketing platform"
-    excerpt: "Mailchimp may have started out as an easy to use newsletter tool, but that was almost 20 years ago. Today’s company still does email, but at its core, it is now a marketing automation platform for small businesses that also offers a website builder,"
-    publishedDateTime: 2020-09-22T23:41:00Z
-    webUrl: "https://techcrunch.com/2020/09/22/mailchimp-launches-new-ai-tools-as-it-continues-its-transformation-to-marketing-platform/"
-    ampWebUrl: "https://techcrunch.com/2020/09/22/mailchimp-launches-new-ai-tools-as-it-continues-its-transformation-to-marketing-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/mailchimp-launches-new-ai-tools-as-it-continues-its-transformation-to-marketing-platform/amp/"
+  - title: "Maru Group launches AI feedback research tool"
+    excerpt: "Market research and customer insights company Maru Group has added an artificial intelligence-based feedback tool to its Maru/Hub insights platform."
+    publishedDateTime: 2020-09-23T08:34:00Z
+    webUrl: "https://www.research-live.com/article/news/maru_group_launches_ai_feedback_research_tool/id/5074362"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5074362&name=maru-group-launches-ai-feedback-research-tool"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5074362&name=maru-group-launches-ai-feedback-research-tool"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 78
+      name: research
+      domain: research-live.com
+    quality: 59
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/09/Screenshot-2020-09-22-080330.jpg?w=300"
-        width: 300
-        height: 222
-        isCached: true
-  - title: "Basware Debuts AI Tool For Accounts Payable Automation"
-    excerpt: "To automate the transformation of machine-readable PDFs to digital invoices, Basware has rolled out SmartPDF AI in the newest expansion of its SmartPDF offering. The tool uses information taken from past invoices through a cutting-edge machine learning (ML ..."
-    publishedDateTime: 2020-09-22T21:31:00Z
-    webUrl: "https://www.pymnts.com/news/b2b-payments/2020/basware-debuts-artificial-intelligence-tool-accounts-payable-automation/"
-    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2020/basware-debuts-artificial-intelligence-tool-accounts-payable-automation/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2020/basware-debuts-artificial-intelligence-tool-accounts-payable-automation/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 57
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/09/accounts-payable-invoice-automation-1-457x305.jpg"
-        width: 457
-        height: 305
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
+        width: 1000
+        height: 581
         isCached: true
   - title: "Maru Group launches Conversational AI feedback tool on proprietary insights platform Maru/HUB"
     excerpt: "(GLOBE NEWSWIRE) -- Maru Group (‘Maru’), the global technology-enabled market research and customer insights company, have announced the launch of Maru/HUB Conversational AI, an intelligent, device-agnostic feedback tool."

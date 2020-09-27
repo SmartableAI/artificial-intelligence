@@ -8,7 +8,7 @@ webUrl: "https://www.openpr.com/news/2138902/ai-in-fintech-market-drives-future-
 ampWebUrl: "https://www.openpr.com/amp/2138902/ai-in-fintech-market-drives-future-change-ibm-corporation"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2138902/ai-in-fintech-market-drives-future-change-ibm-corporation"
 type: article
-quality: 37
+quality: 54
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://cdn.openpr.com/T/9/T922139685_g.jpg"
@@ -27,45 +28,36 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Fintech Market Enormous Growth Worldwide Along With Future Outlook 2020-2026"
-    excerpt: "The Global Report on Artificial Intelligence in Fintech Market Size, Status, Growth and Forecast 2020-2026. The Artificial Intelligence in Fintech Market recently Published Global Market research study with more than 100 industry informative desk and Figures spread through Pages and easy to understand detailed TOC on \"Artificial Intelligence in Fintech Market\"."
-    publishedDateTime: 2020-09-22T11:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-fintech-market-enormous-growth-worldwide-along-with-future-outlook-2020-2026-2020-09-22?tesla=y"
+  - title: "Microsoft Ignite showcases first Project Cortex AI tool for SharePoint"
+    excerpt: "Civil engineering firm Mott McDonald has been testing SharePoint Syntex, the first product to come out of Microsoft’s Project Cortex proving ground for AI-based content management tools."
+    publishedDateTime: 2020-09-25T01:35:00Z
+    webUrl: "https://www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.html"
+    ampWebUrl: "https://www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.amp.html"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.amp.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
+      name: CIO
+      domain: cio.com
+    quality: 74
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://images.idgesg.net/images/article/2020/09/multiple-exposure_profile_with_gears_overlaying_and_representing_the_brain_thought_intelligence_brainstorming_strategy_by_metamorworks_gettyimages-994767724_2400x1600-100858219-large.jpg"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
-  - title: "Artificial Intelligence Edge Device Market Worldwide Industry Share, Size, Gross Margin, Trend, Future Demand and Forecast till 2027"
-    excerpt: "Sep 22, 2020 (Market Insight Reports) -- Maharashtra, India: DataLibraryResearch.com add a new research report \"Artificial Intelligence Edge Device Market Opportunities and Forecast 2020-2026\" to its database and report forecasts the size of the Artificial ..."
-    publishedDateTime: 2020-09-22T06:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-edge-device-market-worldwide-industry-share-size-gross-margin-trend-future-demand-and-forecast-till-2027-2020-09-22"
+  - title: "Microsoft on How SharePoint Syntex Uses AI To Address Content Management Woes"
+    excerpt: "Project Cortex team members Naomi Moneypenny and Dan Holme explain the origins of Project Syntex, how it benefits orgs with content management problems, and clarifies security and governance concerns."
+    publishedDateTime: 2020-09-25T13:14:00Z
+    webUrl: "https://redmondmag.com/articles/2020/09/25/qa-microsoft-sharepoint-syntex.aspx"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 34
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/NailsColorsStringsBig.jpg"
+        width: 1665
+        height: 1158
         isCached: true
-  - title: "AI Infrastructure Market 2020 Is Booming Worldwide | Top Key Players : Xilinx, CiscoNutanix, Habana Labs, Oracle"
-    excerpt: "Global AI Infrastructure Market Insights Forecast to 2026 The AI Infrastructure Market report helps identify the biggest opportunities in the AI Infrastructure industry space and offers accurate latent demand forecasting that empowers quantitative decision making among AI Infrastructure market players"
-    publishedDateTime: 2020-09-24T13:24:00Z
-    webUrl: "https://www.openpr.com/news/2141772/ai-infrastructure-market-2020-is-booming-worldwide-top-key"
-    ampWebUrl: "https://www.openpr.com/amp/2141772/ai-infrastructure-market-2020-is-booming-worldwide-top-key"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2141772/ai-infrastructure-market-2020-is-booming-worldwide-top-key"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 18
 
 secured: "mFPaIWaGlSJ/ObE42m/1AJoUM3QKgQ2MXhqyvXQwTNeikupbF8RSgTgvIjS+oNUEAp0/FLxO3sM4X3XBBNTMEjQlxpwNzXPfGYsHvg/i9KrxZAEGybhrCuLJ/5NPG6AfIfOZxBtXDarPr4Dcrfsb4AeLCkIDPi2d4RKV6VOMKVxv9cGfBytCel8yhxGXogL/gsCe5IZMwqdnfu/LAs+bjY8Tze8f1tuXwoSAIB+gFGwLQ8ugeDNsKOuSZWl0LK/hsr6ciR9DIix8S6M/jcMArgXalnB7oygsHVjfbVwvX6pMW+bg2t3kUo+AuMXYMJkAM2dqYJkVGF4exmphs6SXh7Ts69iwfXBX1PM3lb2h/5vRshO1SOhdSsTuuzgmvXOTn3w5TbhrxSzBl3A3Y3jL6miUiSN0EkHa1LsaQ4qALQxQtl+VCTvcUtJiewK/hH/NsbCI4jOZpXwmiJw00XoS7LwZRwAb2NiIsSGk6gWPZAucuktqXiK0dI2kHzrqhJHyDxk9kB5jyTI791KvoqRUbQ==;k6VMeOiRZMpGCtjioF9B2A=="
 ---

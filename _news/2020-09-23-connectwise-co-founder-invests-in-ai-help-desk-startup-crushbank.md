@@ -7,7 +7,7 @@ originalUrl: "https://www.channele2e.com/investors/angels/connectwise-co-founder
 webUrl: "https://www.channele2e.com/investors/angels/connectwise-co-founder-invests-in-ai-help-desk-startup-crushbank/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 450
     height: 450
     isCached: true
+
+related:
+  - title: "Influencer Marketing Startup ClanConnect.ai Raises INR 5 Cr Led by Venture Catalysts"
+    excerpt: "The seed funding round also saw participation from a cohort of angel investors, including MD of Forest Essentials Samrath Bedi,  Sandeep Aggarwal of Droom.in, Haptik's co-founder Aakrit Vaish and Redc"
+    publishedDateTime: 2020-09-23T09:24:00Z
+    webUrl: "https://www.entrepreneur.com/article/356601"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/356601"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356601"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 80
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1600852866-clanconnect.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "zuKcbvVDF1N8aiQ/X2Ayg1iRGsROYQC/n8tSje96LLXKHTkYdbv8lxYsdunf0teHgUuycqv3JU8HpR+7FW7ulaq6Mg73Daj37PG1lBu8SGQqRO2gOqDV44ge2vkROLnfLZxPUa90bWVNNp/w3+1joPkKCOLUR7xkihzYBBHfAGfORyGe5f7byhmOrYj72gzceRz8KzAi1t34VCKenX7H3JDkbl7mg9YyWjjeJG9kKClb40Jceui/mL14SDp7CRqUOV6xvqv5v3AC0seLzU2fqR1AhE+jUtqm7Ooipttp7cbNcJYZKKSA1UmTo+lgwJ+IxktUYKh9AHhpJ3MrYYySpy9HU0tO+e8nXwYotbT4y/2xSlgRV2eKf2SmrJbPwU6j+6TNc4IDtTvHoiU/XChZ02737t3dhxY9ZBT7ViH+XrxmKqExp4iWEjutOy/u2/lAgt50Ees2as5sO90P0328BOlVPZfAvG4G7p/glEB3qqOAf0kfOuXpg9PHm+JZtJzBhgzW36Ed3OXAVXNkSNxmyQ==;3AE2UW76A07IhoYTEeQhDg=="
 ---

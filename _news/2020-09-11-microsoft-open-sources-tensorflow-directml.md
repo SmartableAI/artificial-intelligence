@@ -19,6 +19,7 @@ topics:
   - Google AI
   - AI
   - TensorFlow
+  - Microsoft AI
 
 images:
   - url: "https://sdtimes.com/wp-content/uploads/2020/09/opensource_tfdml_blogimage-1.png"

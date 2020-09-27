@@ -1,39 +1,39 @@
 ---
 category: news
-title: "NEC Face Recognition Engine Provides Highly Accurate Results Even When Face Masks are Worn"
-excerpt: "As part of this, governments around the world are encouraging the use of face masks as a basic measure to combat infections under the \"New Normal.\" In conjunction with this, there is a need for face recognition technologies to adapt,"
-publishedDateTime: 2020-09-25T06:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/09/a17651638/nec-face-recognition-engine-provides-highly-accurate-results-even-when-face-masks-are-worn"
-webUrl: "https://www.benzinga.com/pressreleases/20/09/a17651638/nec-face-recognition-engine-provides-highly-accurate-results-even-when-face-masks-are-worn"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17651638"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17651638"
+title: "NEC Face Recognition Engine Provides Highly Accurate Results Even when Face Masks are Worn"
+excerpt: "NEC Corporation today announced the strengthening of its face recognition technology, already recognized as the world's most accurate (*1), with the development of a new face recognition engine that provides high-precision certification even when masks are ..."
+publishedDateTime: 2020-09-24T20:27:00Z
+originalUrl: "https://www.newswiretoday.com/news/173757/NEC-Face-Recognition-Engine-Provides-Highly-Accurate-Results-Even-when-Face-Masks-are-Worn/"
+webUrl: "https://www.newswiretoday.com/news/173757/NEC-Face-Recognition-Engine-Provides-Highly-Accurate-Results-Even-when-Face-Masks-are-Worn/"
 type: article
-quality: 14
+quality: 9
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Newswire Today
+  domain: newswiretoday.com
 
 topics:
-  - Natural Language Processing
+  - Computer Vision
   - AI
 
 related:
-  - title: "NEC and The Face Recognition Company each upgrade biometric systems accuracy for masked faces"
-    excerpt: "NEC Corporation has launched a new biometric facial recognition engine for improved accuracy when matching people wearing masks. The company’s facial recognition technology was already relatively"
-    publishedDateTime: 2020-09-24T20:03:00Z
-    webUrl: "https://www.biometricupdate.com/202009/nec-and-the-face-recognition-company-each-upgrade-biometric-systems-accuracy-for-masked-faces"
+  - title: "In facial recognition challenge, top-ranking algorithms show bias against Black women"
+    excerpt: "The results from a recent facial recognition competition demonstrate that even the best algorithms are still prone to gender and racial bias."
+    publishedDateTime: 2020-09-24T13:52:00Z
+    webUrl: "https://venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/"
+    ampWebUrl: "https://venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/amp/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 28
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 97
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/12142443/mask-detection.png"
-        width: 1024
-        height: 512
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1199708189-e1600898324155.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Concerns about masks and facial-recognition software"
     excerpt: "With facemasks now a part of our lives, tech companies are tackling the challenge of updating facial-recognition software to handle them."
@@ -47,6 +47,6 @@ related:
       domain: fox5ny.com
     quality: 24
 
-secured: "4ZwU0nL/8SiTLQ2bHhdHnlJXKhVhF9eLF9+Y/6I2jfNqp8nh+jg+fkLz10galcktxGUIRhd0STiWBXo0aHJcUZqE7h+2KT6NXrWG6Y8syyy8jPWAPv+I7OG/voFSxZ1QwcXS7kiUPae/ncwF619U7NXPLO0sgUIYgwY8PuEEuwTDPfffadAUixBlBFS6DZ3nWLOL4YPz1OJc3D/9cWWmHqnkjur4MkOVy+GmutUtPOyjQe434Ui5JZ51w8Vt6hWpyzRZ0v998yP3mK2pHiJrHGv7Cdu3ZgaGmG8yMYQEBwPCyH8xxBuM8mo9bb0O5mGzdtipVSlt2AU/yEqp1qjl3me70XPU19z4vcMM3NuKmn0=;OlY7/SH8Mit6MXxLGnIZfA=="
+secured: "If1Bef/7XsreMDHgujuQVrMUrgL63HirIpr1K8MKIJ5ULyERA91ksX0Mt63GLaAKVF3WcbO19udFS94ShTVbMqjgHiGajE6K6US188iauyuDxMkejTF9Tc35kxBTTVywfpXtVOpGj6Z/KvgMxRkjUsZY/aD39eUoCXljusMIXoTYNkduxBb+/OxglQlTSJ8Dy9bWdXMfB/F0rjAYq/Gs9U1DwhBbzKPFOKx4q7R5QofJw6pz0tpP0uI5DJ5vew25sTHkc8SUiM/RJjrVrVjxnK3IgySyqS5QvQf4WkvnghS/JRANZE0F9PmDm8UspsX9okLxXlLQEA5ngO22aGYBWuFMAFvQBYyqZPyeCBrVltY/hG/jxoKM80ntw/aQl2MlZ/adWBXE2YeuyJD+6Qh67zVpCLo4p9bUJtqqyPRgQipB7mvj0dgUKchNc4Ml9gUCJ5RnpVbxELWYsLLUtXMxWoOeP5TqagP4S9JdSGsNUAmjCaC9/t+bKdyMUn06PPkL/q06mmJTk6G8ZforX9eBLA==;5yvI9ZRA3+Wf7aJDtDIpHw=="
 ---
 

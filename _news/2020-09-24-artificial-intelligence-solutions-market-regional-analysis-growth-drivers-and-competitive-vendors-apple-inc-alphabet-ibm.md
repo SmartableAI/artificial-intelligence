@@ -57,15 +57,29 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI, Machine Learning, and Data Analytics in the Smart Home Market Analysis 2020-2028 Trends, Types, Applications and Regions"
-    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
-    publishedDateTime: 2020-09-22T08:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-machine-learning-and-data-analytics-in-the-smart-home-market-analysis-2020-2028-trends-types-applications-and-regions-2020-09-21"
+  - title: "Artificial Intelligence (AI) in Drug Discovery Market Dynamics and Competitive Scenario through 2030 | Impact of COVID-19 Pandemic"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Sep 23, 2020 (AmericaNewsHour) -- Global artificial intelligence (AI) in drug discovery market will reach $2.57 billion by 2026, growing by 30.3% annually over 2020-2026 ..."
+    publishedDateTime: 2020-09-23T09:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-drug-discovery-market-dynamics-and-competitive-scenario-through-2030-impact-of-covid-19-pandemic-2020-09-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) in BFSI Market 2020 Industry Outlook, Classification, Demand, Regional Analysis and Forecast to 2025"
+    excerpt: "The recently released report titled Global Artificial Intelligence (AI) in BFSI Market 2020 by Company, Type and Application, Forecast to 2025 mainly elaborates on market definitions, classifications,"
+    publishedDateTime: 2020-09-23T18:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-bfsi-market-2020-industry-outlook-classification-demand-regional-analysis-and-forecast-to-2025-2020-09-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -99,33 +113,63 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Voice Recognition Market 2020 with (COVID-19) Impact Analysis, Product Type, Application, Key Manufacturers, Regions and Forecast to 2025"
-    excerpt: "Sep 21, 2020 (CDN Newswire via Comtex) -- The research report titled Global Voice Recognition Market 2020 by Company, Regions, Type and Application, Forecast to 2025 covers industry segment by applications, by type, regional outlook, market demand ..."
-    publishedDateTime: 2020-09-22T06:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-market-2020-with-covid-19-impact-analysis-product-type-application-key-manufacturers-regions-and-forecast-to-2025-2020-09-21"
+  - title: "Global Image Recognition in Retail Market Size study, by Type, Application and Regional Forecasts 2020-2027"
+    excerpt: "Also, in August 2019, AWS upgraded the Amazon Rekognition to deliver higher accuracy of gender identification and emotion detection. Thus, aiding the market growth. Further, the need to increase shelf availability, enhance customer experience and maximize ..."
+    publishedDateTime: 2020-09-22T23:58:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/09/ab17615125/global-image-recognition-in-retail-market-size-study-by-type-application-and-regional-forecasts-2"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17615125"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17615125"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
+    images:
+      - url: "https://www.abnewswire.com/uploads/1600795673.jpeg"
+        width: 278
+        height: 333
+        isCached: true
+  - title: "Tech Innovators Pitch AI Solutions for COVID-19 and the Contactless Economy"
+    excerpt: "Onto retail, Dr. Nicky Lu (Chairman & CEO of eYs3D Microelectronics and Etron Tech) champions AI-on-chip and his achievement in producing the world’s smallest DRAM semiconductors, followed by Sega Cheng (Co-founder & CEO of iKala) who presents his ..."
+    publishedDateTime: 2020-09-24T15:54:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200924005277/en/Tech-Innovators-Pitch-AI-Solutions-for-COVID-19-and-the-Contactless-Economy"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 37
+    images:
+      - url: "https://mms.businesswire.com/media/20200924005277/en/824298/23/2020_AI_NOW_Online_Tech_Forum_EP1_AI_in_the_Contactless_Economy_post-event.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Data storage market Size Outlook, COVID19 Impact on Industry, Share Value, Global Growth Drivers and Industry Forecast to 2026"
+    excerpt: "Even though the trend of major companies to develop own storage platform such as Microsoft Azure, IBM Cloud ... data management, and AI and Machine learning offer opportunities for the data storage market to grow in the future. Besides, as the virtual ..."
+    publishedDateTime: 2020-09-24T10:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-storage-market-size-outlook-covid19-impact-on-industry-share-value-global-growth-drivers-and-industry-forecast-to-2026-2020-09-24?mod=mw_quote_news"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 17
+    quality: 26
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Regenerative Medicine Market Report 2020-2024 with Impact Analysis of COVID-19 - Artificial Intelligence to Advance Regenerative Medicine"
-    excerpt: "Size & Forecast with Impact Analysis of COVID-19 (2020-2024)\" report has been added to ResearchAndMarkets.com's offering. Global Regenerative Medicine Market: Size & Forecast with Impact Analysis of COVID-19 (2020-2024),"
-    publishedDateTime: 2020-09-22T15:45:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-regenerative-medicine-market-report-2020-2024-with-impact-analysis-of-covid-19---artificial-intelligence-to-advance-regenerative-medicine-301135576.html"
+  - title: "COVID-19 Recovery Analysis: Artificial Intelligence Platforms Market | Rise In Demand For AI-based Solutions to boost the Market Growth | Technavio"
+    excerpt: "Technavio has been monitoring the artificial intelligence platforms market and it is poised to grow by $ 12.51 bn during 2020-2024, progressing at a CAGR of over 33% during the forecast period. The report offers an up-to-date analysis regarding the current market scenario,"
+    publishedDateTime: 2020-09-25T21:39:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200916005770/en/COVID-19-Recovery-Analysis-Artificial-Intelligence-Platforms-Market-Rise-In-Demand-For-AI-based-Solutions-to-boost-the-Market-Growth-Technavio"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 2
+      name: Business Wire
+      domain: businesswire.com
+    quality: 14
     images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
+      - url: "https://mms.businesswire.com/media/20200916005770/en/821962/23/IRTNTR44235.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "76kZwH+xFh/CFqaUZzhS+/MF7X+24H/sTbnp6iEZd43eHqYfiQdg97Z6iX+9UfNrFQt/XAYkhoeqVTbUM6/GWxdpy+DZnJLsXSXbruq8xL2uECAZYnujjUkkaXdEQTkd9lyHlbwz/cNAK1SagkEkt8/hte+lfa0cJ19HP3YDUMAkA+d2pCBHHoRKzwKAaXBdXCUjPJwg9PuKpvvm1Ftuu2sjelReh98/9GrY+Ejoksz5EYMm3mNEqElUWEKlKFNJjqoj/tV1mdn67U1i50Wr7MvlHxMHu0uWiZGP3yYJNrO4JRFINXHA1+NtptOFTC8qYANmIZYWk7RRJJlZaUWtKa0Sy/zn6d9UDCn7Dx33QG0=;1zj6ZtTsvcvE+rbuDEzarA=="

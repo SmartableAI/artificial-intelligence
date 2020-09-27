@@ -9,8 +9,8 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/9/24/21453205/amazon-az1-
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/9/24/21453205/amazon-az1-neural-edge-processor-echo-show-10-alexa-voice-on-device"
 type: article
 quality: 71
-heat: 91
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Verge
@@ -31,35 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon’s Echo speakers now have spherical designs, on-device speech processing"
-    excerpt: "The speakers now have a new on-device speech recognition module, which allows them to process voice locally.The new Echo Dot is priced at Rs. 4,499, while the Echo Dot with Clock will be sold for Rs."
-    publishedDateTime: 2020-09-25T00:59:00Z
-    webUrl: "https://www.livemint.com/technology/gadgets/amazon-s-echo-speakers-now-have-spherical-designs-on-device-speech-processing-11600993678269.html"
-    ampWebUrl: "https://www.livemint.com/technology/gadgets/amazon-s-echo-speakers-now-have-spherical-designs-on-device-speech-processing/amp-11600993678269.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/gadgets/amazon-s-echo-speakers-now-have-spherical-designs-on-device-speech-processing/amp-11600993678269.html"
+  - title: "Alexa gets smarter, more conversational with teachable AI"
+    excerpt: "Amazon has unveiled new artificial intelligence capabilities for Alexa, aimed at making the voice assistant more conversational in your home. Alexa will be \"more natural and more expressive,\" Amazon said during its annual product launch event Thursday."
+    publishedDateTime: 2020-09-24T17:52:00Z
+    webUrl: "https://www.cnet.com/news/alexa-gets-smarter-more-conversational-with-teachable-artificial-intelligence/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/alexa-gets-smarter-more-conversational-with-teachable-artificial-intelligence/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/alexa-gets-smarter-more-conversational-with-teachable-artificial-intelligence/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 40
+      name: CNET
+      domain: cnet.com
+    quality: 87
     images:
-      - url: "https://images.livemint.com/img/2020/09/25/600x338/ecospeakers1-kPEI--621x414@LiveMint_1600994637931.jpg"
-        width: 600
-        height: 337
+      - url: "https://cnet3.cbsistatic.com/img/N4wEwahDtTeUbGfYdXvv7s9RFl4=/1200x630/2020/04/13/3ef98427-1cf3-4dde-90b8-7f9afd264fb3/amazon-echo-dot-3.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Amazon builds custom AZ1 ‘neural edge’ chip into its new Echo speaker"
-    excerpt: "Echo smart speaker with a custom-made artificial intelligence chip for processing voice commands. The Echo is the flagship device in Amazon’s eponymous family of smart speakers. Since introducing the product line in 2014,"
-    publishedDateTime: 2020-09-24T21:26:00Z
-    webUrl: "https://siliconangle.com/2020/09/24/amazon-builds-custom-az1-neural-edge-chip-new-echo-speaker/"
+  - title: "Alexa will soon gain more natural-sounding speech and recognize when multiple people are speaking"
+    excerpt: "Amazon announced a slew of new developer tools and resources for Alexa during its annual September hardware event."
+    publishedDateTime: 2020-09-24T18:23:00Z
+    webUrl: "https://venturebeat.com/2020/09/24/alexa-will-soon-gain-more-natural-sounding-speech-and-recognize-when-multiple-people-are-speaking/"
+    ampWebUrl: "https://venturebeat.com/2020/09/24/alexa-will-soon-gain-more-natural-sounding-speech-and-recognize-when-multiple-people-are-speaking/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/24/alexa-will-soon-gain-more-natural-sounding-speech-and-recognize-when-multiple-people-are-speaking/amp/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 76
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/09/amazon-echo-dot-2019-e1571958500413.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "AI Conversations: AI and 5G Perfect Each Other"
+    excerpt: "The advent of 5G networks is accelerating the adoption of artificial intelligence (AI) use cases by enterprises and for consumers, while AI is also enabling communication services providers (CSPs) to automate processes for service and network management."
+    publishedDateTime: 2020-09-24T18:46:00Z
+    webUrl: "https://www.cio.com/article/3583608/ai-conversations-ai-and-5g-perfect-each-other.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
     quality: 39
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/amazon.png"
-        width: 920
-        height: 613
+      - url: "https://images.idgesg.net/images/article/2020/09/cityscape-012-100859572-large.jpg"
+        width: 1200
+        height: 709
         isCached: true
 
 secured: "LxjkrRP/SwJmJhJ9pPzidgrW+uWcVnitmlnepqpcyN16JjkvFd+awcM2H52y5RNhBY6UBK7hVm/A9vhmforU7e9RhWIL+UVEMT1K74zQlAzNxom1WDWnZlpXYry0eHjGVj1uGW9iWTphJOl1mmURyYr4f6RtEUj24/JYxyEcxuOncpftLq0/bj9IvSwFjl7VoUQm7GfJWlxpu2dmLovu+w3YZ1LDA6OEMx407j8QgCq8Pe4KNlD7Le6J60tbMRPjjgZLE1vxMuhxxrgPRwzVGi+q2g92ibKl3QP3srslfW9EObr3S9ViDQbUkC/8A1gMoREGLO6JVLs5xCI3gUs0NpCQdQYazcd+FdAmcV51T3hczwhsCe9ZXv3bkB0VMLTgrFyOV52zy+dvOG6NyqGxbxT2h/ILs2e7XRvi5dMkeDWnevxBJ9ttOReqY+b8n75xyCrHa0Kh8ePVUSSPSwf95wN/rPfHlScBlNeHmXlKD7wEQN6gppKBKZ1gYV9b8caHILWMIVmth66FPx2K1gym/A==;535PQqMnDBa6Vaf5rRUQlQ=="

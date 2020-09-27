@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/learning-in-the-cl
 webUrl: "https://markets.businessinsider.com/news/stocks/learning-in-the-cloud-canada-s-first-university-to-move-operations-into-one-secure-cloud-infrastructure-sets-the-stage-for-the-future-of-learning-1029615400"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -21,40 +21,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "Building a secure infrastructure for FinTech innovation in India"
-    excerpt: "FinTech innovators can win if they use analytics to outperform traditional financial service firms. 5G will offer the processing power to support advanced AI and Big Data use cases, allowing ..."
-    publishedDateTime: 2020-09-23T05:35:00Z
-    webUrl: "https://yourstory.com/2020/09/secure-infrastructure-fintech-innovation-india"
-    ampWebUrl: "https://yourstory.com/2020/09/secure-infrastructure-fintech-innovation-india/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/09/secure-infrastructure-fintech-innovation-india/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 44
-    images:
-      - url: "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/fintech-1599641536708.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "How innovations in security can increase freedom and protect lives in our communities"
-    excerpt: "People have always had an innate need to feel secure, from building fires at the front of caves that ward off predators in prehistoric times, to today’s efforts of locking your front door."
-    publishedDateTime: 2020-09-23T11:22:00Z
-    webUrl: "https://www.sourcesecurity.com/insights/innovations-security-increase-freedom-protect-lives-co-14836-ga.1600859544.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/insights/innovations-security-increase-freedom-protect-lives-co-14836-ga.1600859544.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/innovations-security-increase-freedom-protect-lives-co-14836-ga.1600859544.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 37
-    images:
-      - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/commoditisation-920.jpg"
-        width: 612
-        height: 355
-        isCached: true
 
 secured: "EIDfuCGOBP000B8RACR7woTwDxnzdTrd5knyxF33OuH7HYUw+Q0P9TZcregyxVxq5FTIO1elaQkaYWqf+ZA+WH1sTxJgc5p2mlZq/i5hTvpuQO6Rhd2PBgMfTuzBwksNLybOaGJFtm5YDAKJc8ezPv/F3OnqcOOYKBIr4JDTdEy/SMo+7L+6kpxWRXUs7ubhIRzy5e3rsH76YxUVwFp/VrDxgJrqGmkGNq3Qd4iWgVZikpVqiiax3LvaKFF5YWda4cvPmtAwlSG9gCsio0pRj/qBkTBcvInxjDX1YplR9P6w78IqPjzjMsV1oPu2toLvK6d3mjLKyCA+jRIawm0oj+rEC54tns1xkqAKOMO52Qg=;Fm+NfevrT0u/yLtiQFB45w=="
 ---

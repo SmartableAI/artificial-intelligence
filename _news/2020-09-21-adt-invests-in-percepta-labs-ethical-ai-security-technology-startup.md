@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 related:
   - title: "ADT Invests in Percepta Labs, “Ethical AI” Security Technology Startup"

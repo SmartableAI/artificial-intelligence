@@ -19,21 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Active learning accelerates redox-flow battery discovery"
-    excerpt: "By using active learning, scientists are more quickly finding suitable candidates for redox-flow batteries. When it comes time to design a new battery chemistry, scientists only can try a handful of possibilities experimentally,"
-    publishedDateTime: 2020-09-24T12:12:00Z
-    webUrl: "https://phys.org/news/2020-09-redox-flow-battery-discovery.html"
-    ampWebUrl: "https://phys.org/news/2020-09-redox-flow-battery-discovery.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-09-redox-flow-battery-discovery.amp"
+  - title: "P360 Adds Advanced Artificial Intelligence Capabilities to Its Sales Enablement Platform BirdzAI"
+    excerpt: "P360, a leading developer of technology for life sciences companies, today announced major updates to its sales enablement platform BirdzAI. The BirdzAI platform now includes advanced Artificial Intelligence (AI) capabilities that enable real-time decision-making for sales organizations by providing deep insights derived from a wide variety of proprietary and tertiary datasets."
+    publishedDateTime: 2020-09-23T13:30:00Z
+    webUrl: "https://apnews.com/business-wire/01770b14f1fa446c9835aafe3ec26c07"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 44
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/activelearni.jpg"
-        width: 1600
-        height: 900
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "P360 Announces AI-powered Sales Enablement Platform BirdzAI"
+    excerpt: "The BirdzAI platform now includes advanced Artificial Intelligence (AI) capabilities that enable ... BirdzAI is built on Microsoft Azure and is compatible with existing commercial infrastructure ..."
+    publishedDateTime: 2020-09-22T21:36:00Z
+    webUrl: "https://pharmaphorum.com/partner-content/p360-adds-advanced-artificial-intelligence-capabilities-to-its-sales-enablement-platform-birdzai/"
+    type: article
+    provider:
+      name: pharmaphorum.com
+      domain: pharmaphorum.com
+    quality: 39
+    images:
+      - url: "https://pharmaphorum.com/wp-content/uploads/2020/09/P360_BirdzAI.jpg"
+        width: 1059
+        height: 458
         isCached: true
 
 secured: "zB0fr36R1bQBwKXIXNgGABzn8rR6DoohZ6i9VuG8A/KjA10rxctEh4OAZshMf1aPktgEcxcgn4hpAuEjLZxM8CzZh5hwYcZG9qRRmnWY3SNlBhIj5tpJe9s38Y6lRCWyoWzqK40LcFDd5Y70jqDvBvw1VXeEke0DPxeMR+OqDlcdA7ceMoYrqESNSwvDr32yPC8Z7w8NKpoeJ8K/aWjulJVrCMQa+C2xHht/DVkLyFHJcjQnTDS7zM28VwJEiIDuVdpo/Z6SXT+BIRMXzRjQeCQjsklf7Hf5k85jafRMlFen2eJd/PkuUVkd/UWmqkQ9swp6idooNdbIr53cpJJ474hIALBTlwLDBTgWuihCTurAL7MOPbi1wOer3jFvizv3aPzMxMUSqlCIvB5zIGVt+2TOBYnJjzw7mIlU7Y3ibiAQ+lhl7sPFRS7Qw1xWFsZHvE5pZzRZQYEIKy1SAL+Cph8LkJOFWr8uzZyxA4ZzDZL2C0fwghdZdZPZaZg+YdZl0rFQB2xrJK7eS7VlJAG5oA==;J7Db855FqeqtnDwaZslsUw=="

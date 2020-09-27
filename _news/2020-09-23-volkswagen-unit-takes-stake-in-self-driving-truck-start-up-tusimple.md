@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "TuSimple expands self-driving trucks to Europe with Traton partnership"
+    excerpt: "Self-driving truck startup TuSimple inked an agreement with Traton that will give the VW subsidiary a minority stake in the startup."
+    publishedDateTime: 2020-09-23T07:30:00Z
+    webUrl: "https://venturebeat.com/2020/09/23/tusimple-expands-self-driving-trucks-to-europe-with-traton-partnership/"
+    ampWebUrl: "https://venturebeat.com/2020/09/23/tusimple-expands-self-driving-trucks-to-europe-with-traton-partnership/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/23/tusimple-expands-self-driving-trucks-to-europe-with-traton-partnership/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/09/AutonomousButton3-e1600713459170.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Volkswagen's Traton partners with TuSimple for self-driving trucks"
     excerpt: "Volkswagen's <VOWG_p.DE> Traton commercial truck unit and self-driving technology startup TuSimple will partner to develop self-driving trucks, the companies said on Wednesday."
     publishedDateTime: 2020-09-23T15:37:00Z
@@ -97,6 +113,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 54
+  - title: "Is TuSimple about to solve complexities of driverless trucks?"
+    excerpt: "However, that day may be fast approaching as TuSimple continues generating momentum. This year has been particularly momentous for TuSimple, as the company not only continues to refine its technology,"
+    publishedDateTime: 2020-09-24T15:01:00Z
+    webUrl: "https://www.fleetowner.com/technology/autonomous-vehicles/article/21142760/is-tusimple-about-to-solve-complexities-of-driverless-trucks"
+    type: article
+    provider:
+      name: Fleet Owner
+      domain: fleetowner.com
+    quality: 39
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/fleetowner/image/2020/09/16x9/tusimple_road.5f6c989e6cc9f.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 673
+        isCached: true
 
 secured: "raSDpOu560E1pB9GiXn5ER6AVnUA7q1f8fMe6C9uf/Yh29v7eWi8fksDiZBHtTmvhL0jKNZDrDq3i1Sl0QbeiXpOSsYa2uZlS/NwC32wSIRHsC45a5F9zgu+FFp9eXPssOB7HrDo49865tG1VswTvPL+ZeCgVJj8wimKIVfWi2htyIuEovk2fHIZr6fGXzL1dYtOBSBiVDHYcZC3Jvso8DptWCmPwYCzBCuXzZlb/Km96yi6Nw9/0jHYoyquNHMGQtHRXBhbfX6lZzsToLy7/HgE4tlzwuwj7kR6qr02T3MQ8Ot7B6uG7htkLzJ6NZKrK9FdNXrmcmONRZzgMf2oIsuk870MzpXz98VnUfGudlI=;hs7KWq9Htbe3qgQU+rpw0g=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/356406"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356406"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI-powered hiring for the enterprise"
+    excerpt: "Tonya Hall sits down and talks to Mike Hudy, chief science officer at Modern Hire, about ways that AI-powered hiring kits can work for the enterprise, including the importance of adding transparency and bias mitigation to the systems."
+    publishedDateTime: 2020-09-24T02:45:00Z
+    webUrl: "https://www.zdnet.com/video/ai-powered-hiring-for-the-enterprise/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
+    images:
+      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/09/23/c4ad82c0-6480-4fef-bd86-7d922d0348d9/thumbnail/770x578/11117079a248004673652e6ca8918e33/thumb.jpg"
+        width: 770
+        height: 578
+        isCached: true
   - title: "This AI-Powered App Lets You Say Goodbye to Background Noise During Video Calls Once and for All"
     excerpt: "With so many people working from home, the scourge of background noise during video calls and teleconferences is more fearsome than ever. And if you've ever been in a Zoom meeting or the like with someone else in a noisy room,"
     publishedDateTime: 2020-09-22T21:15:00Z

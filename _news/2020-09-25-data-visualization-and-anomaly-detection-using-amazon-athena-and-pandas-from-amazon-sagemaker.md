@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/data-visualization-a
 webUrl: "https://aws.amazon.com/blogs/machine-learning/data-visualization-and-anomaly-detection-using-amazon-athena-and-pandas-from-amazon-sagemaker/"
 type: article
 quality: 78
-heat: 78
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -27,6 +27,36 @@ images:
     width: 900
     height: 484
     isCached: true
+
+related:
+  - title: "Football tracking in the NFL with Amazon SageMaker"
+    excerpt: "With the 2020 football season kicking off, Amazon Web Services (AWS) is continuing its work with the National Football League (NFL) on several ongoing game-changing initiatives. Specifically, the NFL and AWS are teaming up to develop state-of-the-art cloud technology using machine learning (ML) aimed"
+    publishedDateTime: 2020-09-25T16:17:51Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/football-tracking-in-the-nfl-with-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/11/1-Graphic.jpg"
+        width: 900
+        height: 517
+        isCached: true
+  - title: "Streamline modeling with Amazon SageMaker Studio and the Amazon Experiments SDK"
+    excerpt: "The modeling phase is a highly iterative process in machine learning (ML) projects, where data scientists experiment with various data preprocessing and feature engineering strategies, intertwined with different model architectures, which are then trained with disparate sets of hyperparameter values."
+    publishedDateTime: 2020-09-24T20:02:24Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/streamline-modeling-with-amazon-sagemaker-studio-and-amazon-experiments-sdk/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 85
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
+        width: 1260
+        height: 630
+        isCached: true
 
 secured: "kX4iipgTum6agmmZWmFETPAm24xfHK23O9ztCXsjiuudfmmHwdM6l7UwnUvx3mRczo9yMlCEbaFUH2DH7WkHvZJzBj2754HHvxyq1nUrgv8S4obVI6aJg1KpwvgqGOFZqE4ONi0lVkl6qy3Y5oGYwz7lZHxs4wcwM9gPLKPZtCOVcaD+G/nUEQxfkf0siDMrekTP8mrTp9PSMRmEHG14VehP+g4X2Bc87GWhMusMBSlkjbzXbDbnTWjPPhyMhuZ3Qju1co/B6CMEKsqwIL0gWcMtvQc2iEUZN6BjtbhyAv23XDhQmosdyf2MnsnzS+TAA7n8URPoc6Zlr92bfFJfGDc2vR5yY9Hsr/sUFDZpsuU=;UEWBeahs6lsFpRvD77cLVA=="
 ---

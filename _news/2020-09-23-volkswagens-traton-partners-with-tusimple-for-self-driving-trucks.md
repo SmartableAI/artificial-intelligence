@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "TuSimple expands self-driving trucks to Europe with Traton partnership"
+    excerpt: "Self-driving truck startup TuSimple inked an agreement with Traton that will give the VW subsidiary a minority stake in the startup."
+    publishedDateTime: 2020-09-23T07:30:00Z
+    webUrl: "https://venturebeat.com/2020/09/23/tusimple-expands-self-driving-trucks-to-europe-with-traton-partnership/"
+    ampWebUrl: "https://venturebeat.com/2020/09/23/tusimple-expands-self-driving-trucks-to-europe-with-traton-partnership/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/23/tusimple-expands-self-driving-trucks-to-europe-with-traton-partnership/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/09/AutonomousButton3-e1600713459170.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Volkswagen Trucking Business Invests in Self-Driving Truck Developer TuSimple"
     excerpt: "Volkswagen unit Traton Group will work with TuSimple to develop self-driving trucks and take a stake in the technology company as part of their agreement."
     publishedDateTime: 2020-09-23T07:14:00Z
@@ -100,6 +116,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1941b469-3443-402c-b48d-d6c5b91a055e.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+        isCached: true
+  - title: "Is TuSimple about to solve complexities of driverless trucks?"
+    excerpt: "However, that day may be fast approaching as TuSimple continues generating momentum. This year has been particularly momentous for TuSimple, as the company not only continues to refine its technology,"
+    publishedDateTime: 2020-09-24T15:01:00Z
+    webUrl: "https://www.fleetowner.com/technology/autonomous-vehicles/article/21142760/is-tusimple-about-to-solve-complexities-of-driverless-trucks"
+    type: article
+    provider:
+      name: Fleet Owner
+      domain: fleetowner.com
+    quality: 39
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/fleetowner/image/2020/09/16x9/tusimple_road.5f6c989e6cc9f.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 673
         isCached: true
 
 secured: "b6X4eYcaaLbuvxQr8HLe8LmjiKJ4lRdH8GVRHbn/7cDxnwFiRbuJ8p8cb0GYZgheOClEYZAdtYKdD3PGgZTqc76qQbwDnDmFqUh1kO0yCDseqzZJeey8QH/wkARF79FuySMogKOKmp8jkwi5Tb/U0rE97pHshPnNFBaWrEshRGxB6AeWI2APcDI7PktkT0xc1/Xc+dtrAQX2N7SxFT7BTtcc48F9ZPPUH0C2kk9gcfpTNbccQq0hjyk5DZqCl8ytZoK6AGvJXdSJjdZnxTFykWweQK7iS5rABAO6rA35gLaitnO9j59sFHA6pPSfW6eInhoP+a4hTh4+CzncxcnKsXPnKX2rG8TuZnRf+APQMb0=;8vWGBUBy8GadHlB49PHulw=="

@@ -20,6 +20,7 @@ topics:
   - AI in Finance
   - AI
   - AWS AI
+  - Machine Learning
 
 images:
   - url: "https://image-prod.iol.co.za/resize/1429x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/7db40ba9-5b7a-59a1-bb3f-286be6e200d6&operation=CROP&offset=0x155&resize=1429x804"

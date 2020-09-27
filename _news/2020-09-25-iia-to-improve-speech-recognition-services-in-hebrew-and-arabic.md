@@ -26,6 +26,22 @@ images:
     height: 428
     isCached: true
 
+related:
+  - title: "Shalom, Alexa: New Association to Help Voice Tech Understand Hebrew and Arabic"
+    excerpt: "Prompts on how to use Amazon’s Alexa personal assistant are seen in an Amazon “experience center” in Vallejo, California, US,"
+    publishedDateTime: 2020-09-23T14:26:00Z
+    webUrl: "https://www.algemeiner.com/2020/09/23/shalom-alexa-new-association-to-help-voice-tech-understand-hebrew-and-arabic/"
+    type: article
+    provider:
+      name: Algemeiner
+      domain: algemeiner.com
+    quality: 20
+    images:
+      - url: "https://www.algemeiner.com/wp-content/uploads/2020/08/2020-07-16T120626Z_1_LYNXNPEG6F13F_RTROPTP_4_EU-ANTITRUST-TECH.jpg"
+        width: 720
+        height: 360
+        isCached: true
+
 secured: "lNId3nsT4X8wpwM1pWanQLQEDlSWh+2wqYSFuQV8R70bEseS5I/xN0oxKMk13vjTgjEZ5yct8W5Ss9loB6Lau+CTaPQw4IsvcIMBB5ZO/2+pXEb9ojcOhQVcrnQuIbp4QNlbcKlm/qreP4iYKcabx8aPD/qZoC62o+e+DeCThc7D+CB96WPq0cVXjTlyC7eP9Edm3xyLsqJKOZHs8RW0p7wmiPDVLXZiV6/czMkYoY6zdMz6mA/4IOfWHUA/Yihv5RP1dOws5gZwUtqvFCCf04XSOGLBSlYDYhCyWsRnS23uCRTQRIHs9cZeggLunnxjO9c3XTORb9oRDt+6NwCT7x24lwFgUcYNOlS7uZboNyT7AOBzrphsrvhbN561CGGseiLYjOv+g3Qn9cqIRlW8Yzq1cZUgcMRbNi7aP4H/1zuOg64zBKn643XmcrFx5WURydOAg2+ULNtHWI2MMKKBm3bcOlUpqLcbcxqReQGZklX8A8NH7BQGlwMT/FwMwhzD19XAh/FtM2+PdTAmfEM0Uw==;rHeoMm5Mg0SdKDTEvjQPCg=="
 ---
 

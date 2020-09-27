@@ -28,146 +28,46 @@ images:
     isCached: true
 
 related:
-  - title: "Computer Vision in Artificial Intelligence (AI) Market Outlook and Global Insights 2020 to 2026"
-    excerpt: "Market Insights Reports published a report on the Global Computer Vision in Artificial Intelligence (AI) Market analysis and forecast 2020-2026 delivering key insights and providing a competitive advantage to clients through a comprehensive report."
-    publishedDateTime: 2020-09-24T16:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-outlook-and-global-insights-2020-to-2026-2020-09-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 89
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "At CAGR 36.2%, Artificial Intelligence Market 2020: Future Challenges And Industry Growth Outlook 2025"
-    excerpt: "Artificial Intelligence Market is valued at USD 23.94 Billion in 2018 and expected to reach USD 208.49 Billion by 2025"
-    publishedDateTime: 2020-09-25T09:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/at-cagr-362-artificial-intelligence-market-2020-future-challenges-and-industry-growth-outlook-2025-2020-09-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) in BFSI Market 2020 Industry Outlook, Classification, Demand, Regional Analysis and Forecast to 2025"
-    excerpt: "The recently released report titled Global Artificial Intelligence (AI) in BFSI Market 2020 by Company, Type and Application, Forecast to 2025 mainly elaborates on market definitions, classifications,"
-    publishedDateTime: 2020-09-23T18:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-bfsi-market-2020-industry-outlook-classification-demand-regional-analysis-and-forecast-to-2025-2020-09-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Machine Learning Market 2020 Industry Growth Analysis by Key Players, Segments, Competitive Landscape and Forecast to 2025"
-    excerpt: "Sep 22, 2020 (CDN Newswire via Comtex) -- The research report by MarketandResearch.biz, titled Global Machine Learning Market 2020 by Company, Type and Application, Forecast to 2025 draws research, analysis, and estimations by applying reliable knowledge ..."
-    publishedDateTime: 2020-09-22T20:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-market-2020-industry-growth-analysis-by-key-players-segments-competitive-landscape-and-forecast-to-2025-2020-09-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Far-Field Speech And Voice Recognition Market Evolving Technology and Growth Outlook 2020 to 2026"
-    excerpt: "Sep 23, 2020 (Market Insight Reports) -- The Far-Field Speech And Voice Recognition Market report is a compilation of first-hand information, qualitative and quantitative assessment by industry analysts, inputs from industry experts and industry ..."
-    publishedDateTime: 2020-09-23T05:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/far-field-speech-and-voice-recognition-market-evolving-technology-and-growth-outlook-2020-to-2026-2020-09-23?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Image Recognition in Retail Market Size study, by Type, Application and Regional Forecasts 2020-2027"
-    excerpt: "Also, in August 2019, AWS upgraded the Amazon Rekognition to deliver higher accuracy of gender identification and emotion detection. Thus, aiding the market growth. Further, the need to increase shelf availability, enhance customer experience and maximize ..."
-    publishedDateTime: 2020-09-22T23:58:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/09/ab17615125/global-image-recognition-in-retail-market-size-study-by-type-application-and-regional-forecasts-2"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17615125"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17615125"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
-    images:
-      - url: "https://www.abnewswire.com/uploads/1600795673.jpeg"
-        width: 278
-        height: 333
-        isCached: true
-  - title: "Data storage market Size Outlook, COVID19 Impact on Industry, Share Value, Global Growth Drivers and Industry Forecast to 2026"
-    excerpt: "Even though the trend of major companies to develop own storage platform such as Microsoft Azure, IBM Cloud ... data management, and AI and Machine learning offer opportunities for the data storage market to grow in the future. Besides, as the virtual ..."
-    publishedDateTime: 2020-09-24T10:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-storage-market-size-outlook-covid19-impact-on-industry-share-value-global-growth-drivers-and-industry-forecast-to-2026-2020-09-24?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing (NLP) in Life Sciences Services Market 2020 Global Trend, Segmentation and Opportunities Forecast To 2025"
-    excerpt: "The report on the global Natural Language Processing (NLP) in Life Sciences Services market provides a thorough assessment of the COVID-19 impact on the current and future market prospects across various geographies. Starting with an informative market ..."
-    publishedDateTime: 2020-09-22T11:53:00Z
-    webUrl: "https://www.openpr.com/news/2139345/natural-language-processing-nlp-in-life-sciences-services"
-    ampWebUrl: "https://www.openpr.com/amp/2139345/natural-language-processing-nlp-in-life-sciences-services"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2139345/natural-language-processing-nlp-in-life-sciences-services"
+  - title: "AI Medicine Software Market"
+    excerpt: "Get a Sample Copy @ https://bit.ly/3kFgrzC The major players covered in AI Medicine Software for Covid-19 Market: Enlitic, Atomwise, DeepMind, Babylon Health, Flatiron Health, Tempus Labs, Sophia Genetics, Recursion Pharmaceuticals, Synyi, Freenome ..."
+    publishedDateTime: 2020-09-22T12:28:00Z
+    webUrl: "https://www.openpr.com/news/2139411/covid-19-impact-on-ai-medicine-software-market-outlook"
+    ampWebUrl: "https://www.openpr.com/amp/2139411/covid-19-impact-on-ai-medicine-software-market-outlook"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2139411/covid-19-impact-on-ai-medicine-software-market-outlook"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 8
-  - title: "Business Intelligence And Analytics Market 2020 Global Insights and Technology Advancement –IBM Corporation, Microsoft Corporation, SAP SE"
-    excerpt: "The market can be segmented on the basis of type into spatial and location analytics, advanced and predictive analytics, cognitive/AI (Artificial Intelligence), content analytics and end-user query and reporting analytics. On the basis of services ..."
-    publishedDateTime: 2020-09-23T11:45:00Z
-    webUrl: "https://www.openpr.com/news/2140458/business-intelligence-and-analytics-market-2020-global"
-    ampWebUrl: "https://www.openpr.com/amp/2140458/business-intelligence-and-analytics-market-2020-global"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2140458/business-intelligence-and-analytics-market-2020-global"
+    quality: 59
+    images:
+      - url: "https://cdn.openpr.com/T/9/T922220379_g.jpg"
+        width: 577
+        height: 337
+        isCached: true
+  - title: "Artificial Intelligence in Food – Beverages Market"
+    excerpt: "Global Compound Annual Growth Rate Global Artificial Intelligence in Food & Beverages Market is driven by increasing adoption of smart devices in the food & beverage sector which is projecting a rise in estimated value from USD 6,385.64 million in 2018 to ..."
+    publishedDateTime: 2020-09-22T17:03:00Z
+    webUrl: "https://www.openpr.com/news/2139629/artificial-intelligence-in-food-beverages-market-industry"
+    ampWebUrl: "https://www.openpr.com/amp/2139629/artificial-intelligence-in-food-beverages-market-industry"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2139629/artificial-intelligence-in-food-beverages-market-industry"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 8
-    images:
-      - url: "https://cdn.openpr.com/T/9/T923400733_g.jpg"
-        width: 800
-        height: 312
-        isCached: true
-  - title: "Global Healthcare Service Robots Market Analysis and Forecast, 2020-2025: Robots Lending a Hand During Covid-19 Outbreak - ResearchAndMarkets.com"
-    excerpt: "Analysis and Forecast, 2020-2025\" report has been added to ResearchAndMarkets.com's offering. The global healthcare service robots market was valued to be $462.3 million in 2019 and is anticipated to witness an impressive double-digit growth rate,"
-    publishedDateTime: 2020-09-25T08:20:00Z
-    webUrl: "https://www.dailyrecordnews.com/ap_news/business/global-healthcare-service-robots-market-analysis-and-forecast-2020-2025-robots-lending-a-hand-during/article_72c1d11e-b8c8-56c5-94f7-93f07085c5f2.html"
+    quality: 37
+  - title: "Global Regenerative Medicine Market Report 2020-2024 with Impact Analysis of COVID-19 - Artificial Intelligence to Advance Regenerative Medicine"
+    excerpt: "Size & Forecast with Impact Analysis of COVID-19 (2020-2024)\" report has been added to ResearchAndMarkets.com's offering. Global Regenerative Medicine Market: Size & Forecast with Impact Analysis of COVID-19 (2020-2024),"
+    publishedDateTime: 2020-09-22T15:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-regenerative-medicine-market-report-2020-2024-with-impact-analysis-of-covid-19---artificial-intelligence-to-advance-regenerative-medicine-301135576.html"
     type: article
     provider:
-      name: Ellensburg Daily Record
-      domain: dailyrecordnews.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 2
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/dailyrecordnews.com/content/tncms/custom/image/0ef5f48e-94dc-11e7-8ed4-3365baf52acf.png"
-        width: 1200
-        height: 630
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
         isCached: true
 
 secured: "km7jSDwLcC5d5oVki8TjvnXBK3ZHgkFhYdHcphR/HMC+TUdyR16a2icWeLGBrh4i1hH1CO4miDb+CPgbJcqK/xscLg82Dup2rVY3BPU8GYxxWhxCdOslUAA5PaowLpQL5xZ9JLG+eydZACL5jCSdzPElOMC+w1KjKY0dB7cHdWpVRWjv7DQMxaDjZoN9+nlUdjVy7F61YHLlByoC6RifROJNX8lPVC7y2SMYZGp83wLrsVCGIzNpSR072V1qQGtGOoUcJas6UgnbauAq5FkkkuhSJqiL3XVFsG2D/mepWAbsNFY/UEedkuzbNBkOnrw4MtNQOE+IIlOI24v3QniIPuTGBugvkZio39yDR0hn+qk=;M4nQH5PbPoWnlZATfcRueQ=="

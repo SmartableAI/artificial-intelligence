@@ -1,30 +1,28 @@
 ---
 category: news
 title: "Can Tesla Really Produce A $25,000 Self-Driving Electric Car?"
-excerpt: "Despite the underwhelming response to Tesla’s Battery Day, CEO Elon Musk laid out some very ambitious plans for the company, though achieving them poses some major challenges"
-publishedDateTime: 2020-09-26T21:00:00Z
-originalUrl: "https://oilprice.com/Energy/Energy-General/Can-Tesla-Really-Produce-A-25000-Self-Driving-Electric-Car.html"
-webUrl: "https://oilprice.com/Energy/Energy-General/Can-Tesla-Really-Produce-A-25000-Self-Driving-Electric-Car.html"
-ampWebUrl: "https://oilprice.com/Energy/Energy-General/Can-Tesla-Really-Produce-A-25000-Self-Driving-Electric-Car.amp.html"
-cdnAmpWebUrl: "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Energy-General/Can-Tesla-Really-Produce-A-25000-Self-Driving-Electric-Car.amp.html"
+excerpt: "During Tuesday’s much-hyped battery day, Tesla CEO Elon Musk laid out plans to put everyone behind the wheel (or is that sleeping in the"
+publishedDateTime: 2020-09-26T22:18:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692"
+webUrl: "https://markets.businessinsider.com/news/stocks/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692"
 type: article
-quality: 59
+quality: 69
 heat: 79
 published: true
 
 provider:
-  name: Crude Oil Prices
-  domain: oilprice.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2020-09-25_hxhwkuvma8.jpg"
-    width: 700
-    height: 292
-    isCached: true
 
 related:
   - title: "Tesla: $25,000 self-driving electric car in 3 years-ish, as company slashes battery costs"
@@ -43,21 +41,7 @@ related:
         width: 750
         height: 563
         isCached: true
-  - title: "Tesla’s new battery tech promises a road to a cheap self-driving electric car"
-    excerpt: "New battery manufacturing tech could lead to big jumps in electric vehicle efficiency if everything works out. Latest Cookie Settings Many products featured on this site were editorially chosen. Popular Science may receive financial compensation for products purchased through this site."
-    publishedDateTime: 2020-09-25T04:38:00Z
-    webUrl: "https://www.popsci.com/story/technology/tesla-battery-day-cheap-electric-self-driving-car/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 36
-    images:
-      - url: "https://www.popsci.com/resizer/jXSh1CA-PX-ANxYvpM5Lum114wY=/1200x628/smart/cloudfront-us-east-1.images.arcpublishing.com/bonnier/RVOSZ4HXANHXXFTCRPSUHJ4FEE.png"
-        width: 1200
-        height: 628
-        isCached: true
 
-secured: "UGp4sYME1K+lTVMvdgJi8dnOgOz/GvTJwc9cTSnWXb8YAfOlnZCgJQWUlTQPDZ2N1IJu6TmsRQMmQgY6gjzT7cQcQeM6OBZYYJGN4eG4qH6V97vjNlD9HLux8giHKMukl/ozmLaDhJRaSPj4lIsHYLccNl9CnbsOpuItC+TVb/YT427QMso0RAgZ+8HGFbSRfVbFc26OwH48xGVibnEZiVaHleXJKDjiKr2ZoJVQlNWFgkQ43SaeN84jwsApfescfEAC4DgGNaf8USMWo84PL8ViHPR+DVJ739hi7433K1UVeoEVTbt5+1y2hSbwHwXfj94LnbRzlN5QBpSWqvf82Br6dNxeVaLjN4T14dq2+LQ=;hXLA8doPItvwpknKkrlIMA=="
+secured: "9RJo3pbGvY05/I25EK7z2LOjSS8uqNpADBUP7F7YT7Z4M5CURnQrmsyuibTFM3G17l3JoWLH2CxKmEiXu9Sd6pHss2T9LfsJDTJL2xVBldx5ApzoNqzk8vKPj7Qy84rPTcGdNnfd3H2TF5hofn9AizgR1Ow5pCZytwv12RLVP2UiN1v8Ut6jl4lOKkKxYqoP9TuvSqblA/HEuwSw6IkeVhEkJJnAutZXxeO4k2xgKjjGsppe6Vo9QJMo6+av/uzIEnDhtiFLOY1y98vp/V/G169xlS1O5AD3MdITmqtu0KSPgrtIc5ozbjLc/x6tqFt/lwj7LfGlA8Atpak/HFpv5gkT1y4LDkZ8PNbaoDwApEs=;XwpzZiMNl4LLMWvecQsQ6g=="
 ---
 

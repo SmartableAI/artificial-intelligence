@@ -59,20 +59,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Ibex Medical Analytics Wins UK Award to Accelerate Adoption of AI-Powered Cancer Detection in the NHS"
-    excerpt: "Ibex Medical Analytics, the pioneer in artificial intelligence (AI)-based cancer diagnostics, has won a share of a £50 million fund as part"
-    publishedDateTime: 2020-09-22T13:56:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/ibex-medical-analytics-wins-uk-award-to-accelerate-adoption-of-ai-powered-cancer-detection-in-the-nhs-834621669.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 22
-    images:
-      - url: "https://mma.prnewswire.com/media/677339/Ibex_Medical_Analytics_Logo.jpg?p=facebook"
-        width: 1000
-        height: 524
-        isCached: true
 
 secured: "kJ4vye6DnmjXCdtS9Qx1qADLWbwjUWbspujDVe0ccOjZvkTl12Jhg7ZLJ3TZKqNwymlKKsRQKCT/Ha/diLwrYWWXmEYDAiDL7hwKvpKjY4Fs5tOxY/WjyFoZEkxfx77UhwRyGjfiHjatSxMRv9I9ndP1uTc+7u8nz5/By7cVQyFeVTKoHPL8H8WJyjjpgYrJItNy3DWLvv2zwVVDGiN/gb/fEhSv/zaEEPDfEiXOPwzA4D3FymzQSmHA6eZgtTVNSJ65kw9HVJrvKUorKdB/ncCbJcSDZSHV5FniWx+njvTMBKY9BtxSdv5vVVsxVpkXS6eQp2Nk9IRIwOFctf+TTSPEx/RM++D1AJIT1T/jLaOec3wC1CEBJfbIRMx8FZ1nhziHLSBpMp7+N6YdhwpNzMywuSA+yD4lSEFIeSP3eSIIpREX115zILxjctYOwMCO1skZHBQwzJoC4BKqn802l8CRi6aKFvWJok9dOb2Qz+Of14ULR5aa0uTOBTx6S7ah4YUZ9MtYNdPVCJlIUFvbNQ==;JuH0bydJEDstnIZjeuhD4g=="
 ---

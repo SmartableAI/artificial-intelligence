@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Tesla's full self-driving Autopilot beta coming in 'a month or so'"
-    excerpt: "Tesla's CEO shared that its engineers have fully overhauled the Autopilot software stack and are almost ready to share a dramatic upgrade."
-    publishedDateTime: 2020-09-23T14:56:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/tesla-full-self-driving-autopilot-elon-musk/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-autopilot-elon-musk/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-autopilot-elon-musk/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://cnet4.cbsistatic.com/img/-NA7wJ9AEujzfzMLTzIUGTJDz3E=/2018/06/11/5aae38ba-915f-4b34-ba36-58cf2671f07c/tesla-hw2-autopilot-ogi.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Self-Driving Cars Versus The Most Dangerous Driving Month Of The Year"
     excerpt: "Bottom-line is to please be extra careful when driving during September. One future aspect to consider involves the gradual advent of AI-based true self-driving cars. This raises an intriguing question: Will the emergence of AI-based true self-driving cars ..."
     publishedDateTime: 2020-09-22T15:43:00Z
@@ -53,109 +37,45 @@ related:
         width: 1199
         height: 562
         isCached: true
-  - title: "Tesla's full self-driving option falls short of its claim, report says"
-    excerpt: "The team assessed the EV maker’s full self-driving offering and found several of its features did not provide as much real benefit to customers as it claimed. And customers are said to be paying ..."
-    publishedDateTime: 2020-09-22T11:54:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/teslas-full-self-driving-option-falls-short-of-its-claim-report-says/article32669026.ece#!"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/teslas-full-self-driving-option-falls-short-of-its-claim-report-says/article32669026.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/teslas-full-self-driving-option-falls-short-of-its-claim-report-says/article32669026.ece/amp/"
+  - title: "How Merced County plans to bring more self-driving car testing to Atwater’s Castle Airport"
+    excerpt: "Maturing plans for self-driving vehicle testing at the former Castle Air Force Base in Atwater are putting Merced County on a global map for a niche — but lucrative — market, county officials say. Last week,"
+    publishedDateTime: 2020-09-23T14:00:00Z
+    webUrl: "https://www.mercedsunstar.com/news/local/article245894580.html"
+    ampWebUrl: "https://amp.mercedsunstar.com/news/local/article245894580.html"
+    cdnAmpWebUrl: "https://amp-mercedsunstar-com.cdn.ampproject.org/c/s/amp.mercedsunstar.com/news/local/article245894580.html"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 74
+      name: Merced Sun-Star
+      domain: mercedsunstar.com
+    quality: 49
     images:
-      - url: "https://www.thehindu.com/incoming/yi8l3x/article32669036.ece/ALTERNATES/LANDSCAPE_615/Teslaselfdriving"
-        width: 615
-        height: 384
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5596404783001/5286396c-ceb8-43ad-b52f-cb02957d415d/47c11371-d76a-48cc-a642-b7e9b73402eb/1280x720/match/image.jpg"
+        width: 1280
+        height: 719
         isCached: true
-  - title: "Tesla's Elon Musk promises full self-driving Autopilot beta in 'a month or so'"
-    excerpt: "The CEO shared how its engineers fully overhauled the software and are almost ready to share a dramatic upgrade."
-    publishedDateTime: 2020-09-22T22:14:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/teslas-elon-musk-promises-full-self-driving-autopilot-beta/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/teslas-elon-musk-promises-full-self-driving-autopilot-beta/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/teslas-elon-musk-promises-full-self-driving-autopilot-beta/"
+  - title: "Technology developed for lunar landings makes self-driving cars safer on Earth"
+    excerpt: "NASA is advancing a laser-based technology designed to help spacecraft land on a proverbial dime for missions to the Moon and Mars. The technology will undergo testing on upcoming suborbital rocket launches with Blue Origin on its New Shepard rocket and ride to the Moon on several commercial landers as part of the Artemis program."
+    publishedDateTime: 2020-09-22T22:25:00Z
+    webUrl: "https://www.aerotechnews.com/blog/2020/09/22/technology-developed-for-lunar-landings-makes-self-driving-cars-safer-on-earth/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 65
-  - title: "Elon Musk says Tesla's full self-driving Autopilot is coming soon and it's 'clearly going to work'"
-    excerpt: "The full-self driving car is about to take a step closer to reality. Tesla CEO Elon Musk said Tuesday that the test version of company's Autopilot system will be released in \"a month or so.\""
-    publishedDateTime: 2020-09-23T01:51:00Z
-    webUrl: "https://www.azcentral.com/story/money/cars/2020/09/22/tesla-elon-musk-full-self-driving-autopilot-software/3498264001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3498264001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3498264001"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 45
+      name: Aerotech New
+      domain: aerotechnews.com
+    quality: 20
     images:
-      - url: "https://www.gannett-cdn.com/-mm-/f4c4c3d8d99ab9a0fd37e8d3d494112eb6c0c801/c=0-0-580-326/local/-/media/2018/11/29/USATODAY/usatsports/tesla-autopilot-1-billion-miles_large.png?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 674
+      - url: "https://www.aerotechnews.com/wp-content/uploads/2020/09/nasa-cars2.png"
+        width: 602
+        height: 554
         isCached: true
-  - title: "Elon Musk says Tesla's full self-driving Autopilot is coming soon and it's 'clearly going to work'"
-    excerpt: "The next step in the self-driving revolution is coming in 'a month or so, says Tesla CEO Elon Musk, teasing the company's full self-driving Autopilot."
-    publishedDateTime: 2020-09-24T10:52:00Z
-    webUrl: "https://www.desmoinesregister.com/story/money/cars/2020/09/22/tesla-elon-musk-full-self-driving-autopilot-software/3498264001/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/3498264001"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/3498264001"
+  - title: "When Will the Self-Driving Wallet Arrive?"
+    excerpt: "A self-driving wallet is just that - an online service you would use to receive money and buy stuff. But also, it would send your taxes to the IRS and invest a part of your cash as you wish automatically."
+    publishedDateTime: 2020-09-23T23:40:00Z
+    webUrl: "https://www.finextra.com/blogposting/19349/when-will-the-self-driving-wallet-arrive"
     type: article
     provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 45
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/f4c4c3d8d99ab9a0fd37e8d3d494112eb6c0c801/c=0-0-580-326/local/-/media/2018/11/29/USATODAY/usatsports/tesla-autopilot-1-billion-miles_large.png?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "Wyoming Legislature weighs a future for self-driving vehicles"
-    excerpt: "This past week, state committee members contemplated legislation they believe could fast-track Wyoming to a leadership role on autonomous vehicle technology almost overnight."
-    publishedDateTime: 2020-09-26T19:15:00Z
-    webUrl: "https://trib.com/news/state-and-regional/govt-and-politics/wyoming-legislature-weighs-a-future-for-self-driving-vehicles/article_87abcf88-aad3-50e7-b794-6104003af234.html"
-    ampWebUrl: "https://trib.com/news/state-and-regional/govt-and-politics/wyoming-legislature-weighs-a-future-for-self-driving-vehicles/article_87abcf88-aad3-50e7-b794-6104003af234.amp.html"
-    cdnAmpWebUrl: "https://trib-com.cdn.ampproject.org/c/s/trib.com/news/state-and-regional/govt-and-politics/wyoming-legislature-weighs-a-future-for-self-driving-vehicles/article_87abcf88-aad3-50e7-b794-6104003af234.amp.html"
-    type: article
-    provider:
-      name: Casper Star-Tribune
-      domain: trib.com
-    quality: 44
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/assets/v3/editorial/0/24/0244ce3f-8d43-56ee-8c12-dcc175fa43df/5f6e306069ba6.image.jpg?resize=1024%2C707"
-        width: 1024
-        height: 707
-        isCached: true
-  - title: "Tesla says it will have a full self-driving Autopilot beta very soon"
-    excerpt: "CEO Elon Musk promised that a private beta of the “full self-driving version” of the Autopilot software was coming in “a month or so.” If so, that’s pretty cool, since the Autopilot in its current state is more of a driver aid,"
-    publishedDateTime: 2020-09-23T16:40:00Z
-    webUrl: "https://knowtechie.com/tesla-says-it-will-have-a-full-self-driving-autopilot-beta-very-soon/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 39
-    images:
-      - url: "https://mk0knowtechie1qof48y.kinstacdn.com/wp-content/uploads/2020/09/tesla-hw2-autopilot-promo-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Coming soon, a self-driving Tesla! Elon Musk touts new version of Autopilot software, cuts battery costs"
-    excerpt: "Tesla Inc CEO Elon Musk promised a new version of the company's Autopilot system at the company's \"Battery Day\" on Tuesday, even as he tempered expectations that Tesla's electric"
-    publishedDateTime: 2020-09-23T11:44:00Z
-    webUrl: "https://economictimes.indiatimes.com/magazines/panache/coming-soon-a-self-driving-tesla-elon-musk-touts-new-version-of-autopilot-software-cuts-battery-costs/articleshow/78273090.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 22
-    images:
-      - url: "https://img.etimg.com/thumb/msid-78273143,width-1070,height-580,imgsize-820186,overlay-etpanache/photo.jpg"
-        width: 1070
-        height: 580
-        isCached: true
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "n5nqRTky+47ltXBHtTO0W5nqOrfEs2Gm+pLLodRTz1N2qORpcGdTzrSLgAv6FZzSePg08Q8PO975QaQ6P+HXAUQcExJc+eZyZhM/X5HZ7fC7qfUbKSlJmEyY8Wfe2unC0XRUHhLD9YYpxPzp2E0e4ljmrbGhqG7HWl+rjz3dD3yqU3lXAZJG+HvXgAn47cTVRHoUB+ZCbeXPyPx++qEVNdJWIORGpdJWRq6M+w0FDgmgllGSe0ycnV15fioNiewNePunIETkDlEwIPaU6XN5SkU3mTccLHsoyUIDYUGCr4Dyuj/PmJWdBBdsyYjsdqeLZ43tIABiyxwwaIECxVgHn1nFrVUUO3Ad6GIkqNn5YDk=;3IhoQh5cFimb4SWmfn5Mlw=="
 ---

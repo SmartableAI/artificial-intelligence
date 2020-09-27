@@ -7,7 +7,7 @@ originalUrl: "https://www.djournal.com/aidp-and-andy-khawaja-conduct-new-pandemi
 webUrl: "https://www.djournal.com/aidp-and-andy-khawaja-conduct-new-pandemic-research-for-ai-technology/article_081c3fe6-da10-5a49-9840-5245736d1621.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,36 +22,6 @@ images:
     width: 1120
     height: 630
     isCached: true
-
-related:
-  - title: "Perspecta Labs to conduct critical research for machine learning and artificial intelligence security"
-    excerpt: "PRNewswire/ -- Perspecta Inc. (NYSE: PRSP), announced today that its innovative applied research arm, Perspecta Labs, received an award from the Intelligence Advanced Research Projects Activity (IARPA) to provide research on the Trojans in Artificial Intelligence (TrojAI) program."
-    publishedDateTime: 2020-09-26T04:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/perspecta-labs-to-conduct-critical-research-for-machine-learning-and-artificial-intelligence-security-2020-09-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Perspecta Labs to conduct critical research for machine learning and artificial intelligence security"
-    excerpt: "PRNewswire/ -- Perspecta Inc. (NYSE: PRSP), announced today that its innovative applied research arm, Perspecta Labs, received an award from the Intelligence Advanced Research Projects Activity (IARPA) to provide research on the Trojans in Artificial Intelligence (TrojAI) program."
-    publishedDateTime: 2020-09-24T22:52:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-scientific-ethics-artificial-intelligence-computing-and-information-technology-a1800b8879fd9ba3b069f80f9388e1cc"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 43
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "ZXLcIHJZupTOBq+twvTDOo3ikPaPJEQU5ok+zRbwIyjwPwjaeabDEDzj0dGIHiWni8/R2zHcmgjAcO4ss7Et3Vmajf64nzscXoaA/M6Gjw5KzlAaXvaChhIuQ8pNefkrZo0TTr7AF8/d004OxBpjcq39UyBJ5IJFTELitImFcvkDdt0LpVWRne/BYOgbZBN0YksQn51WFS0rQuaXcTbPrwAfKXPxfwVDQWJkAMCLEQ2MeMBmH1n25TkAr50Ops7J2u3H701e96vv2OFaWbpp1dGiVeCsz7hL+ktkbqgZYahIJQqXUOvSVEfJZvsvkcHFJSGQCYKwRrqFrVxxjVdBIr4Op/hH9bIjwHcWOp/0iag=;NYLaDIuORide7FRVgw1ngQ=="
 ---

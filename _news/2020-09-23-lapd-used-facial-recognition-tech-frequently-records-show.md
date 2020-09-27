@@ -27,51 +27,53 @@ images:
     isCached: true
 
 related:
-  - title: "In facial recognition challenge, top-ranking algorithms show bias against Black women"
-    excerpt: "The results from a recent facial recognition competition demonstrate that even the best algorithms are still prone to gender and racial bias."
-    publishedDateTime: 2020-09-24T13:52:00Z
-    webUrl: "https://venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/"
-    ampWebUrl: "https://venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/amp/"
+  - title: "LAPD officers reportedly used facial recognition 30,000 times in the past decade, contradicting the department's previous denials"
+    excerpt: "Despite frequent denials and refusals to respond to public records requests, the LAPD has been using the controversial technology widely since 2009."
+    publishedDateTime: 2020-09-24T22:47:00Z
+    webUrl: "https://www.businessinsider.com/lapd-used-facial-recognition-tech-30000-times-despite-denials-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/lapd-used-facial-recognition-tech-30000-times-despite-denials-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lapd-used-facial-recognition-tech-30000-times-despite-denials-2020-9?amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 97
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1199708189-e1600898324155.jpg?w=1200&#038;strip=all"
+      - url: "https://i.insider.com/5f697d0e57b7da001ee12f99?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Facebook Illinois Settlement: How to Get a Payout in $650 Million Facial Recognition Class Action"
-    excerpt: "When the tag feature is enabled, the social network uses face recognition technology to analyze photos and videos it believes a user is in and creates a template. The template is then used to recognize users as they appear in other photos or videos."
-    publishedDateTime: 2020-09-23T12:26:00Z
-    webUrl: "https://www.newsweek.com/facebook-illinois-face-recognition-settlement-submit-claim-payout-1533779"
-    ampWebUrl: "https://www.newsweek.com/facebook-illinois-face-recognition-settlement-submit-claim-payout-1533779?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/facebook-illinois-face-recognition-settlement-submit-claim-payout-1533779?amp=1"
+  - title: "Report: LAPD used facial recognition nearly 30,000 times"
+    excerpt: "The Los Angeles Police Department has used facial-recognition software nearly 30,000 times since 2009 even while denying at times that it used the controversial technology at all, the Los Angeles Times reported Monday."
+    publishedDateTime: 2020-09-25T22:49:00Z
+    webUrl: "https://www.ctpost.com/news/article/Report-LAPD-used-facial-recognition-nearly-15585211.php"
+    ampWebUrl: "https://www.ctpost.com/news/amp/Report-LAPD-used-facial-recognition-nearly-15585211.php"
+    cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Report-LAPD-used-facial-recognition-nearly-15585211.php"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 76
+      name: Connecticut Post
+      domain: ctpost.com
+    quality: 59
     images:
-      - url: "https://d.newsweek.com/en/full/1641098/facebook-logo.jpg"
-        width: 2500
-        height: 1627
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
         isCached: true
-  - title: "Facial Recognition Tech That Works With Masks"
-    excerpt: "Facial recognition algorithms work by measuring a face’s features – their size and distance from one another, for example – then comparing these measurements to those from a photo stored in a passenger’s ePassport or travel document. As this ..."
-    publishedDateTime: 2020-09-23T15:34:00Z
-    webUrl: "https://apex.aero/2020/09/23/facial-recognition-tech-works-masks"
+  - title: "Report: LAPD used facial recognition nearly 30,000 times"
+    excerpt: "The Los Angeles Police Department has used facial-recognition software nearly 30,000 times since 2009 even while denying at times that it used the controversial technology at all, the Los Angeles Times reported Monday."
+    publishedDateTime: 2020-09-26T19:06:00Z
+    webUrl: "https://www.nhregister.com/news/article/Report-LAPD-used-facial-recognition-nearly-15585211.php"
+    ampWebUrl: "https://www.nhregister.com/news/amp/Report-LAPD-used-facial-recognition-nearly-15585211.php"
+    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Report-LAPD-used-facial-recognition-nearly-15585211.php"
     type: article
     provider:
-      name: APEX
-      domain: apex.aero
-    quality: 39
+      name: New Haven Register
+      domain: nhregister.com
+    quality: 59
     images:
-      - url: "https://apex.aero/wp-content/uploads/2020/09/Untitled-design-3.png"
-        width: 1024
-        height: 678
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
         isCached: true
 
 secured: "8JAKVNqcOT3aK4I27wXGcBq/FJ6iEOJtfzXaJPx3iC+FYAD4xn6QVIsxwPMw3Bja7WdkjfaCEyy+5zh/yeTqAK2+9ZQOa3BPPLGLHtHzDyGwQZZovx0xuPIwV14thnHfbzdilh25KB9dTQtZ3EQ5mmWT2Ozhx34d5//vz0nparg3RSpZhrQD56Vd8f+M0nl3sOqOX2wdtgeFPz5mRQoqGsBGJkY8oZGCsU5HeZPBcCAzAjWLzLp3CJUXsZGKKsa4swK+V7nJglFiFy59jGLs2TSNY3ChWSocnSi+YFvtWHzPaVst0haJDcFX0/vHmkSEooDx7Oed6RXbrPUs3wUL6Y/DAt65iF2vY7gHabfn5Njx9bZEFmI/iiFqHiFXZH/uQNv2E8HlfixrIURXq3SUfxwNOetH6FzehYZvhsns8g5acw1aetlIKsYIab2Konk5yeBVYQwVF5RgxG1hUN7pzLEEJ7owbK6TvF+1UyKBiZglXENEcfutb8rHCExVmoCGVQyoKk66bPfTh4c240rtdw==;3lcN/uWhjnkuUpjf8QH76A=="

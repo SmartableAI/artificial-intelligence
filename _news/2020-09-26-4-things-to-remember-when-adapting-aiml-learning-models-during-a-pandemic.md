@@ -8,9 +8,9 @@ webUrl: "https://techcrunch.com/2020/09/25/4-things-to-remember-when-adapting-ai
 ampWebUrl: "https://techcrunch.com/2020/09/25/4-things-to-remember-when-adapting-ai-ml-learning-models-during-a-pandemic/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/25/4-things-to-remember-when-adapting-ai-ml-learning-models-during-a-pandemic/amp/"
 type: article
-quality: 85
-heat: -1
-published: false
+quality: 102
+heat: 132
+published: true
 
 provider:
   name: TechCrunch
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1250179225.jpg?w=1024"
@@ -58,24 +59,22 @@ related:
         width: 1260
         height: 630
         isCached: true
-  - title: "Global $21.2 Bn Online Language Learning Market to 2027 - Increasing Penetration of Artificial Intelligence in e-Learning Driving Growth"
-    excerpt: "The online language learning market is expected to grow at a CAGR of 18.7% from 2020 to 2027 to reach $21.2 billion by 2027 The growing need for communication across borders, increasing e-learning market,"
-    publishedDateTime: 2020-09-24T08:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-21-2-bn-online-language-learning-market-to-2027-increasing-penetration-of-artificial-intelligence-in-e-learning-driving-growth-1029618153"
+  - title: "These weird, unsettling photos show that AI is getting smarter"
+    excerpt: "Of all the AI models in the world, OpenAI’s GPT-3 has most captured the public’s imagination. It can spew poems, short stories, and songs with little prompting, and has been demonstrated to fool people into thinking its outputs were written by a human."
+    publishedDateTime: 2020-09-25T16:20:00Z
+    webUrl: "https://www.technologyreview.com/2020/09/25/1008921/ai-allen-institute-generates-images-from-captions/"
+    ampWebUrl: "https://www.technologyreview.com/2020/09/25/1008921/ai-allen-institute-generates-images-from-captions/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/09/25/1008921/ai-allen-institute-generates-images-from-captions/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 14
-  - title: "Mphasis partners with fintech platform Upswot to offer marketing insights though alternative data for business banking"
-    excerpt: "Mphasis, an Information Technology (IT) solutions provider specializing in cloud and cognitive services, has announced its strategic partnership with US-based Upswot, a fintech startup, that provides"
-    publishedDateTime: 2020-09-23T11:40:00Z
-    webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=274344"
-    type: article
-    provider:
-      name: Equity Bulls
-      domain: equitybulls.com
-    quality: 0
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/09/PeopleonCouch-prompt.png?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
 
 secured: "rUvH9kggwK3wEOQtuo8jrIK0rb5LlsPOXkG5vojiDEqEbe/XrVs09QH/yV1pFAko1qcVWo2JAxr2yDzUtb5RHlDUYKoDd4i39+0IOYs4HI0lkMrtYHRguM2L3Dv9Usi4gPbiyN1YK8CZJ9vVAfOc6ZDj7FWCDSny3iNb/4k/+joA8fACmsO4Tw4XlLDpeQQ3bCmCJlTDPJcmMXSXfCLs5UnFu1x802ctSyKxAtQr2pBxWIEHSZeuOvtWxld/g5q3oXYUfhh4W8CMY7ELkzwJy5ficT03s05cEMBvDq6HmqGJAYgndlXTP+RxEk3fmQHoCKhVhFm8j6/PSHKw5L2jn6n7idhmE8mKDyvmRHvrF4Ac9IniWslYgiqDUji66c/5vQj46XMiPEPgSUhyTpBxUrrbXAHwSaphkesGnqbNMgFoiht931BX+bmmKpkM4PX63b1HpaHzuzKfAyZ4XKoPy2OZujAcx9UII9Egfr1+hPPoFFt9lnIkv9rHuQLUB/cIiDUif/OA+CsDmXNfDX1s+g==;KAabyhkbi4FsVnZ9B3mFZw=="
 ---

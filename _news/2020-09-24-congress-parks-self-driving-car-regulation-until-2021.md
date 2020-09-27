@@ -68,21 +68,35 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 69
-  - title: "Man ‘asleep’ in speeding self-driving car charged in Canada"
-    excerpt: "A driver who allegedly set his car to autopilot and then took a nap as it broke the speed limit on a rural Canadian highway has been charged."
-    publishedDateTime: 2020-09-23T15:39:00Z
-    webUrl: "https://newsinfo.inquirer.net/1339191/man-asleep-in-speeding-self-driving-car-charged-in-canada"
-    ampWebUrl: "https://newsinfo.inquirer.net/1339191/man-asleep-in-speeding-self-driving-car-charged-in-canada/amp"
-    cdnAmpWebUrl: "https://newsinfo-inquirer-net.cdn.ampproject.org/c/s/newsinfo.inquirer.net/1339191/man-asleep-in-speeding-self-driving-car-charged-in-canada/amp"
+  - title: "Uber investors are pressuring CEO to revamp the self-driving division"
+    excerpt: "Uber was once a serious contender in the race to build self-driving cars. Today, the effort is lagging far behind rivals"
+    publishedDateTime: 2020-09-23T09:33:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/mobility/2020/09/21/uber-investors-pressuring-ceo-revamp-self-driving-division/5857206002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5857206002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5857206002"
     type: article
     provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
+      name: Detroit News
+      domain: detroitnews.com
     quality: 44
     images:
-      - url: "https://newsinfo.inquirer.net/files/2020/09/20200923-self-driving-car-620x349.png"
-        width: 620
-        height: 349
+      - url: "https://www.gannett-cdn.com/presto/2020/09/21/PDTN/41d1c803-2318-4f70-937e-43dc6a07e98d-Uber.jpg?auto=webp&crop=901,507,x20,y212&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Self-Driving Car Bill Reintroduced in House Minus Biggest Backer"
+    excerpt: "Legislation that would allow carmakers to sell as many as 100,000 self-driving vehicles per year in the U.S. is being reintroduced in the U.S. House of"
+    publishedDateTime: 2020-09-24T12:44:00Z
+    webUrl: "https://www.claimsjournal.com/news/national/2020/09/24/299540.htm"
+    type: article
+    provider:
+      name: Claims Journal
+      domain: claimsjournal.com
+    quality: 24
+    images:
+      - url: "https://www.claimsjournal.com/app/uploads/2020/09/BB.freeway.traffic-580x380.jpg"
+        width: 580
+        height: 380
         isCached: true
 
 secured: "i+IGO8KuYTQBTGuW/Uy/VazAaXsG6ZuLaWqbIu+jLsVHLqVUyRQRkNHJnw6OqYMsJqi4FqAYfGdgnO34p+b2yZwxP+9LEUD7f6I7bo3ZB/9DNVMWRYb9M5quKiQUNHjwqRjwDZzpvyRn8vuMsmCN2X09qobNbst7iz2RgObu6BsI+h9IEnqgGrs0Typ1SMPJlYDNPzk+CANG78ot40nmcGvtYo/ix/Sru6OcKdN5+EwKDHimuTcga9sNIsqYA7bmHqWjZhq42iMCZp2DUSfM8Rq+ucVVHkezSlCypz6lCDHdJwufCk8ukiqwNNyoYy1H/mjxcSgc8QlLL17CReYi5NlTj0SZ/0AqzTpFxDKmKlX+ZEqs8PShWZiWAp8zw7nsHPttQ7ALJqKtG71ct6TD92/D5tgpJNSmJZHwasEtVeYjZuhXCSukpaTQSIHwh3WpUUuLri3f1FS4YBhkvMf3OyOiz5/Yq2sM7Cn5cbnq8mdYbE+PDGwRpSuPJ1vi3RXtLmeioW6aLXyf663Y+HI2aQ==;XpETOSdUHW0zZ+yu/N3nXw=="

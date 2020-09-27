@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/new-tech-chief-of-startup-hypergian
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/new-tech-chief-of-startup-hypergiant-envisions-closer-human-ai-collaboration-11600853401"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1230
     height: 640
     isCached: true
-
-related:
-  - title: "‘India-Israel collaboration can boost AI, FinTech startups’"
-    excerpt: "Dr Ron Malka, Israeli ambassador to India and Anupam Jalote, CEO of iCreate, during the signing of the MoU AHMEDABAD: An MoU signed between Ahmedabad-based International Centre for Technology and ..."
-    publishedDateTime: 2020-09-23T05:47:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/ahmedabad/india-israel-collaboration-can-boost-ai-fintech-startups/articleshow/78269578.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/ahmedabad/india-israel-collaboration-can-boost-ai-fintech-startups/amp_articleshow/78269578.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/ahmedabad/india-israel-collaboration-can-boost-ai-fintech-startups/amp_articleshow/78269578.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/photo/msid-78269569/78269569.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "r7oWSPZsC8kxYurYjM6mJco0SCFnFdbT04pj+mkuxRrk/N7upbhSgyku/4gay+amBvwbItEmba/yeWoGzLN0ai1hnDMLvVycFv89hujOwh8vV1v88L5ecUzRCN36AwcUq8m+ZY4LJ9PpFmC+p6xgeXEQ4DqJ+cVS8eAtE1C3EkXzU6gdrAjqbuHW4YcRvEia0Qay/H085VYe/QWDQCj4KeNwWSNFbY+RgYRjaBeEPFIfqGZ6crLUFUpJ+DMMoEGgC5ZyCCfgGrUoSoNX4FjHyiwqZTLzZJXzKN7zHNKN/hiA2a62JMTV0bXYqpTd/MeKTKhsxtLotxXpCWb4ZnaX05UOWHgzAPM9QU3Q8oq5n84sQ/uezJCJM324mvrobfhWxQZveWvuLvMFPy+Hnyc/ZglIDJKZ439FYVdmq1rrhm5FM1OJMkkDcmdIIqtUAXoABu8esIh2xwTBiMxbAxdh4cR14Nk8kifvFrgkZLoSBLIGnlV1lTTJwPiWcd6hMKoxbiWjAluHTOdEGRVvWQJ1/w==;75KU4W6C8EfyiK4llDpskg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/thomasbrewster/2020/09/22/this-russian-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/09/22/this-russian-facial-recognition-startup-plans-to-take-its-aggression-detection-tech-global-with-15-million-backing-from-sovereign-wealth-funds/amp/"
 type: article
 quality: 52
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -31,22 +31,17 @@ images:
     isCached: true
 
 related:
-  - title: "Afghan woman wins recognition, sparks Taliban opposition for equal rights campaign"
-    excerpt: "But along with the recognition from the president and the ... for details such as on whether women would be required to wear a face-covering or work in jobs alongside men, they say the rights ..."
-    publishedDateTime: 2020-09-23T17:57:00Z
-    webUrl: "https://nypost.com/2020/09/23/in-the-name-of-the-mother-afghan-woman-wins-recognition-sparks-taliban-opposition/"
-    ampWebUrl: "https://nypost.com/2020/09/23/in-the-name-of-the-mother-afghan-woman-wins-recognition-sparks-taliban-opposition/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/09/23/in-the-name-of-the-mother-afghan-woman-wins-recognition-sparks-taliban-opposition/amp/"
+  - title: "Moscow’s leading facial recognition tech to be expanded to 10 other Russian cities"
+    excerpt: "Russia will introduce Moscow’s controversial facial recognition camera system to 10 other cities around the country. The installation cost in each municipality is estimated to be between 100-110 million rubles ($1."
+    publishedDateTime: 2020-09-26T15:48:00Z
+    webUrl: "https://www.rt.com/russia/501796-facial-recognition-russian-cities/"
+    ampWebUrl: "https://www.rt.com/russia/501796-facial-recognition-russian-cities/amp/"
+    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/russia/501796-facial-recognition-russian-cities/amp/"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 53
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/09/2020-09-23T061704Z_541771875_RC264J96VSF6_RTRMADP_3_AFGHANISTAN-WOMEN-MOTHERS-1.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
+      name: RT
+      domain: rt.com
+    quality: 33
 
 secured: "nTe92Q8PEB4OtpHZskUyGVD2cV3Ak8VQoKm8f6/s76Knkj5fCEaJPmaFADpn0oO5rcwEdtGc5zYAVv9cubMlFjcMOpqPDZtA/oKQsjbL34Qy4zEMavaZpdkF0hGb9ghwaLokasw1T+Z9FMfMCgpZS4Hg3TX/zXFsd2leriQ0mK/BZ8LW60970YopzuP9Gr/ySBtwZiUPQcbCPRMDwgpX+jMuYbqn9QjrDSfkm8K1B9A0KXKQrjvyWMSUtPjZI6OozG6+MVwhTz2qL92INb95aORo+fGX/7nDC4VyqdSFA00tTr2eZcL9a9d9fR/AoX3j+/X1pqQRQOlOGGZzvT6/6Wh5KckuvpmBPZ0xaWfcC+1s1T/F1BK8RTfACyBM8YAvrhXZmG1Lu5R1t+VXa95uUIBlJ93gEqk0vqtxmhpDiHDjwacIEFBCklRWPk7OAteIUTyo7Awn+RKvqDxASEfGTDnL/WiI5OXYs63eRKlNCVo82GNbn/wz8SBSFNtXeI7NuRIgRgRBbzt9px70GgUBmw==;ebU5KzZjC1b9VA6lRv1YFg=="
 ---
