@@ -2,7 +2,7 @@
 name: "Kabbage"
 overview: "Kabbage Inc., headquartered in Atlanta, has pioneered the first financial services data and technology platform to provide fully automated funding to small businesses in minutes. Kabbage leverages data generated through business activity such as accounting data, online sales, shipping and dozens of other sources to understand performance and deliver fast, flexible funding in real time. In just a few years, Kabbage has become the number one online provider of working capital to small businesses in the United States and UK."
 type: "profile"
-heat: 130
+heat: 50
 
 website: https://www.kabbage.com
 
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=VnqoE8kOHkI"
 
-secured: "Sm9vQj3XUS3mz3JQvVEJp3FfTYVWcxYBK+yREZVocnN/oQBkqpSVwPqql5jQOsnDCztTTWjN8p3n7weVCpjiA0oQ0aW4zO6BOySFhXEgn3npe+7GC4zhd7sPuYV6VCl5fQpG2SZv4ahA8ZbAV7zjaQVjZVyBAfK6xf84ytdknRCs/vNNVYUdM2/H+7LBbrJlk6R0YAvLZ8wLOFYeIoyfK4XQroOrBX/oMtB9RrX0RLRKPAXdfrNnOHIjbvc26i+n/TyWfgkg+u1UNdqPh6A9aq33q2nLRPYoVbAJoOJF0Qpju0J2a6CRLmP7e7VX8T5t8qwTdORhuYNWxHd0cIWSLYP1QtPqeOW4Vw71Bch9Kk6npq7ULzVewPWyaynw84MKpiHRIIQ+EuDZyOtnwbuM4EBbQxLlx8/EeMjtMVqFsHs=;rvBAy5f3qF4lxv7idRvPIg=="
+secured: "472oll6OAzqJA2uOTFLxDwgXBQuInMfbmnAlP+ci96LlKyVGjeonZC0Vog91xS4A3qZ1LH8Khm5YJN2WRHoV0AqyCHOL7jqSnsj0BEYLMm1ShzxT/dKYBlntLGWJpY34ggk5h/ocokNEBltEuHFrH8zdlQUmoFEzNpN+DMd1ttV+IqzGPZ1U5W0EDwUrjQHwHg3MuxKtXzu6cJpo5xVgQa/X8BUINhoqurJBcs3XLkPp7lVZlcUQurncV4+s1olXhq4GeM6rWZYMh9HKdnqrTvpYnX29Qy+k9rHbaGIOoG2NLyU64FP9ZSZb/E+f7gGK8Dm8lsKaW168kjK2wH17R5cTupcayGP/yfpGPiRhMdfE5n62Y/OM/DEErrpO8oQcGwrjmS3GTQFJQvgAgsT0az3Zz7S3xJPnRESGLqsTcNc=;+zr6d/LC+/jVepgvaEUw1w=="
 ---
 

@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "bearrobotics"
   url: "https://twitter.com/bearrobotics"
-  followers: 292
+  followers: 293
 
 size: 11-50 employees
 yearFounded: 2017
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=Dojvmqx49fw"
 
-secured: "+Vncwct0eU1fWYCemv89WudFeu/ZGc/rI2FKJ95YClqv7EOP8yS1hs3cIVdeVjzCjmCV26f57UeqoS2F/jJof0pmwwpQYah/VQoYorywJa3HzMU9jnkxJ+7lLe4QHboD/IezPMqx/OXa3uqnRA1h28vGbJp72Ka9ZP9kjuhfje4zdB6Javk011JNDOHCaa1618/dNucmOT5cBkaac7pC1RX0FBIVYPTR63tTc/JYCMpOaIhJ34C+zzQZF1YUoIAM/QAKcZjyWtn7FRysccfUYgfBK4sQgBJTLopQ+LNIabZxyQoiWhDrqYF14ic6nWmLT7qje8KuSA8CgFcxVWEPYa5yKs1XSv8XcJ0UNXv1kPA8BPfgYBGGYAPk3+lJCaLhT9MBtmO1vJL8YcLtVAZTCQ==;n+mDPp3EQF6DUh8oIzj7Rg=="
+secured: "OZC1e0dkkd2lyBYLIZ5/yaWSfdNaCAHD1RTJPXD3AfaBI598aTDdHqUnRZylV5j4hQ24Q9wt2US3GMj/g+LEM7YYsrHMGY/5LrBSwm2MMl/EyDhLEkXTiIkM7OxKo26aZuo3KkQP+2KlF2loTT7d9Q+WQMFT7v6N2PfEYfsbAV93NuZpXQu8dUGMcePaaFEWXl7nYb+kwrDyCGITxMgmPixLL0wF1zZ+74mrVBB/nY0MqztYnqaHOzYXCra20w0MUlfUypcP8l0m6Rq42amqtaT8pHjxNQIrrjoEdGMMGg/8Lxz3vIfFlrTJGfFDbgtVH/uyc6xno0aABuV2DMf/Wpi9A9NT1VK4oL2mUqs2qinqrg+I57NwJJh1fjdeygBqFPeHBqs6t+RRx2R3xIM/UA==;iQanovOEDb9hGfy9o0d8sQ=="
 ---
 
