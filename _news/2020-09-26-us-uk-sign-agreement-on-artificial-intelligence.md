@@ -2,11 +2,11 @@
 category: news
 title: "U.S., UK sign agreement on artificial intelligence"
 excerpt: "The Trump administration announced on Friday that the United States and the United Kingdom had signed a new agreement to cooperate on research and development of artificial intelligence."
-publishedDateTime: 2020-09-26T06:48:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-britain-ai-idUKKCN26G33H"
-webUrl: "https://www.reuters.com/article/uk-usa-britain-ai-idUKKCN26G33H"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKCN26G33H"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKCN26G33H"
+publishedDateTime: 2020-09-26T01:48:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-britain-ai-idUSKCN26G339"
+webUrl: "https://www.reuters.com/article/us-usa-britain-ai-idUSKCN26G339"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26G339"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26G339"
 type: article
 quality: 67
 heat: 67
@@ -23,6 +23,6 @@ provider:
 topics:
   - AI
 
-secured: "jM3zBZnONs1N4RM710Re/pYykGtaCokA4R3YecYxQbF1/CU1lIHonY17pwi+zCDFSlqd6PB8UEDgJvG4X8UIg+P7xiS1w97A2diLUknAyBpd+k8n5d/ZJXTBhoB5PrGgCDRIQd6g+z0VNlTeQleO16s2xdkA7xlLpLHtEF6EcnrPbHoYFt+E8jjZFdUTBTbTZz8mq1fcXGgL320sRBocbPlaOGt7tOB3dVgLWm9kKzH/xjDl55TTPjPOSbWhETm8GPStBB5yJukn/t9YGt85GDFJX+LMbwQoarWS2/4mju7qbJEWqODeqJ4D66zt9F3TsHSn/YnHQsUUl+AwAk5CHGO7cOsQ9EbyEPprvIAX9ic=;mQToTQdcA8vL1ByK7OYmIw=="
+secured: "u4/C2tU+wenfBW89xaciLoUatSXi5ni+mSr44qj4FYVdglA8HDbfm+Q6ihQAMYn4FrYfNhwfdjlL0TNEiWjeYR5AcabM3y5u+kJ+GGYrpoW2U/QcoC+NfmVsM+laVIH19zxjTKl7WzZAOPhptoDiEfu6sWH4exNXdRMKCHwGs4X5iGh7ySPfiD8jgrm8RHQQ0SKnDUTP1qu1T7dr3vdbSDT8nCU30napJ1s3uW13hzoC8OINRHhJA6wDVK5TfCI8rVwdb96lWL3v+Kl6xyn57jZ/lhhfOuNAk5wP5iROkw6MOFiPWP3b6EKdaCB0hThPa/H0T30zJk8ecgSV1u9QJ0yIv/3Z+9x1ntTY7Uhi9zo=;k611200mye+nxQQsCidm4g=="
 ---
 

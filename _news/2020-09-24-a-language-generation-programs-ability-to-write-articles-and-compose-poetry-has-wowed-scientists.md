@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmodo.com.au/2020/09/a-language-generation-programs-ab
 cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/09/a-language-generation-programs-ability-to-write-articles-and-compose-poetry-has-wowed-scientists/amp/"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "This extraordinary AI has stunned computer scientists with its writing ability"
-    excerpt: "OpenAI, a for-profit company under a nonprofit parent company, has built a language generation program dubbed GPT-3, an acronym for “Generative Pre-trained Transformer 3.” Its ability to learn, summarize,"
-    publishedDateTime: 2020-09-25T14:00:00Z
-    webUrl: "https://www.fastcompany.com/90554974/this-extraordinary-ai-has-stunned-computer-scientists-with-its-writing-ability?ref=hvper.com"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 35
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/09/p-190554974-a-language-generation-programand8217s-ability-to-write-articles-produce-code-and-compose-poetry-has-wowed-scientists.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "A language generation program’s ability to write articles, produce code and compose poetry has wowed scientists"
     excerpt: "GPT-3 is the biggest, most creative language generation program to date. But with awesome power comes awesome responsibility."
     publishedDateTime: 2020-09-23T12:30:00Z

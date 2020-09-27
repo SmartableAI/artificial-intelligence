@@ -7,7 +7,7 @@ originalUrl: "https://www.fastcompany.com/90554974/this-extraordinary-ai-has-stu
 webUrl: "https://www.fastcompany.com/90554974/this-extraordinary-ai-has-stunned-computer-scientists-with-its-writing-ability?ref=hvper.com"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -25,51 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "A Language Generation Program’s Ability to Write Articles and Compose Poetry Has Wowed Scientists"
-    excerpt: "Seven years ago, my student and I at Penn State built a bot to write a Wikipedia article on Bengali Nobel laureate Rabindranath Tagore’s play “Chitra.” First it culled information about “Chitra” from the internet."
-    publishedDateTime: 2020-09-24T01:00:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/09/a-language-generation-programs-ability-to-write-articles-and-compose-poetry-has-wowed-scientists/"
-    ampWebUrl: "https://www.gizmodo.com.au/2020/09/a-language-generation-programs-ability-to-write-articles-and-compose-poetry-has-wowed-scientists/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/09/a-language-generation-programs-ability-to-write-articles-and-compose-poetry-has-wowed-scientists/amp/"
+  - title: "Scientists combat anti-Semitism with artificial intelligence"
+    excerpt: "An international team of scientists said Monday it had joined forces to combat the spread of anti-Semitism online with the help of artificial intelligence. The project Decoding Anti-Semitism includes discourse analysts,"
+    publishedDateTime: 2020-09-27T03:04:00Z
+    webUrl: "https://www.beaumontenterprise.com/news/article/Scientists-combat-anti-Semitism-with-artificial-15584227.php"
+    ampWebUrl: "https://www.beaumontenterprise.com/news/amp/Scientists-combat-anti-Semitism-with-artificial-15584227.php"
+    cdnAmpWebUrl: "https://www-beaumontenterprise-com.cdn.ampproject.org/c/s/www.beaumontenterprise.com/news/amp/Scientists-combat-anti-Semitism-with-artificial-15584227.php"
     type: article
     provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 31
+      name: The Beaumont Enterprise
+      domain: beaumontenterprise.com
+    quality: 57
     images:
-      - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/09/01/irobot.jpg"
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
+  - title: "Scientists around the world join forces to combat anti-Semitism with artificial intelligence"
+    excerpt: "BERLIN — An international team of scientists said Monday it had joined forces to combat the spread of anti-Semitism online with the help of artificial intelligence. The project Decoding Anti ..."
+    publishedDateTime: 2020-09-22T13:43:00Z
+    webUrl: "https://nypost.com/2020/09/22/scientists-combat-anti-semitism-with-artificial-intelligence/"
+    ampWebUrl: "https://nypost.com/2020/09/22/scientists-combat-anti-semitism-with-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/09/22/scientists-combat-anti-semitism-with-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 46
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/09/anti-semitism-31.jpg?quality=90&strip=all&w=1200"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "A language generation program’s ability to write articles, produce code and compose poetry has wowed scientists"
-    excerpt: "GPT-3 is the biggest, most creative language generation program to date. But with awesome power comes awesome responsibility."
-    publishedDateTime: 2020-09-23T12:30:00Z
-    webUrl: "https://theconversation.com/a-language-generation-programs-ability-to-write-articles-produce-code-and-compose-poetry-has-wowed-scientists-145591"
-    ampWebUrl: "https://theconversation.com/amp/a-language-generation-programs-ability-to-write-articles-produce-code-and-compose-poetry-has-wowed-scientists-145591"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/a-language-generation-programs-ability-to-write-articles-produce-code-and-compose-poetry-has-wowed-scientists-145591"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 24
-    images:
-      - url: "https://images.theconversation.com/files/359199/original/file-20200921-16-1l6gwi6.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
-        isCached: true
-  - title: "A language generation program’s ability to write articles, produce code and compose poetry has wowed scientists"
-    excerpt: "GPT-3 is far and away the most “knowledgeable” natural language generation program to date, and it has a range of potential uses in professions ranging from teaching to journalism to customer service."
-    publishedDateTime: 2020-09-23T20:58:00Z
-    webUrl: "https://gcn.com/articles/2020/09/23/gpt-3-natural-language-generation.aspx"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 4
-    images:
-      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/AI_Automation/robot_spells_AI.jpg"
-        width: 760
-        height: 368
+        height: 800
         isCached: true
 
 secured: "pyK9VE4vd0pLEGiRsIQsIhSEpZVe0mt2zjY+1y8/j5FL8mrpwSf9bKZa9dEjnPlTQhs5D/PMWh0DahO7XU1oRsAByD3rjHiNvnrW1AUUbwA2K8SNVGyVUY7ox+FSRSkclyx+vjw+TN3WgiMhCkfyk/apohHp7a4NuoSZTrQYJB9vkb+TENZ4lpHcF4w+Nvwqo7SEuNvIJudkXQcl3XIOo7CAcoNwUJO+dltHoDTRiS9nAqv8LB5Ufj4vLReWUuSoDAGF3mPFtE1LX2z80Qk3mJQy1GsAA+pNHAWLVROSAw7WHyJQCbogMF1rW8auFmBEqLA6jUmWa2xZtofLwxTqzEGMjpM2JNn63Nwl/KJeviA=;0Y1xTQWoHFMk22uM1fhC0Q=="

@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How to Thwart Facial Recognition and Other Surveillance"
-    excerpt: "And the lenses are opaque to infrared sensors, so—bonus!—they also block facial-recognition systems that use 3D imaging, like the iPhone's Face ID. A handful of US cities have banned government use of facial recognition technology due to concerns over ..."
-    publishedDateTime: 2020-09-22T10:00:00Z
-    webUrl: "https://www.wired.com/story/how-to-thwart-facial-recognition-other-surveillance/"
-    ampWebUrl: "https://www.wired.com/story/how-to-thwart-facial-recognition-other-surveillance/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-to-thwart-facial-recognition-other-surveillance/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
-    images:
-      - url: "https://media.wired.com/photos/5f6515d2eb3bb2da971988d8/master/pass/howtosurveillance1.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
   - title: "Singapore to become first to use facial recognition in national identity scheme"
     excerpt: "Singapore will be the first country in the world to use facial recognition as part of its national identity scheme. This new technology will"
     publishedDateTime: 2020-09-26T18:51:00Z

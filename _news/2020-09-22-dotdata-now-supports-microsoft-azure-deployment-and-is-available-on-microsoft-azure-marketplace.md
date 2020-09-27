@@ -1,28 +1,28 @@
 ---
 category: news
 title: "dotData Now Supports Microsoft Azure Deployment and Is Available on Microsoft Azure Marketplace"
-excerpt: "SAN MATEO, Calif., Sept. 22, 2020 /PRNewswire/ -- dotData, focused on delivering full-cycle data science automation and operationalization for"
-publishedDateTime: 2020-09-22T12:29:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572"
-webUrl: "https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572"
+excerpt: "Integration of dotData's AutoML 2.0 platform with Microsoft's highly available, trusted and scalable Azure cloud platform provides increased speed and efficiency of data science and machine learning processes coupled with Azure's strong managed IaaS/PaaS ..."
+publishedDateTime: 2020-09-22T12:30:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace/article_f6c327bd-10d4-5df0-beed-77fd9ceef60a.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace/article_f6c327bd-10d4-5df0-beed-77fd9ceef60a.html"
 type: article
-quality: 87
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "Microsoft unveils updates across Azure Cognitive Services and Azure Machine Learning"
@@ -40,22 +40,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 573
-        isCached: true
-  - title: "Microsoft's new feature uses AI to make video chat less weird"
-    excerpt: "How Microsoft's Surface Pro X uses driver-based software and dedicated AI hardware to make video chat more people-friendly. With so many of us working from home, we've shifted into a world where video conferencing has become the main way we connect with ..."
-    publishedDateTime: 2020-09-22T10:19:00Z
-    webUrl: "https://www.techrepublic.com/article/microsofts-new-feature-uses-ai-to-make-video-chat-less-weird/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsofts-new-feature-uses-ai-to-make-video-chat-less-weird/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsofts-new-feature-uses-ai-to-make-video-chat-less-weird/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 106
-    images:
-      - url: "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Microsoft launches Azure Orbital to connect satellites to its cloud"
     excerpt: "Azure Networking, writes in today’s blog post. “With our intelligent cloud and edge strategy currently extending over sixty announced cloud regions, advanced analytics, and AI capabilities ..."
@@ -727,6 +711,6 @@ related:
         height: 432
         isCached: true
 
-secured: "z/riZsJW0vWWcVrE1kpJgFEzdYslcx/eRDewOkyuzEH9zWA/mfL2iNhJ0UHgbrL1h0XfQkdZfMfrgCGgYkqzgKmHj/8rpvu9DmPMXiRdC+3PAHMmbrIK7Y+4AscIVsPrhxHNvLVbmCJLq6flHuH9pDTdblRcZXwLXach+f8HezCzCD8X31Jq9MZUbs9O4v86j5xJaQSz8pOUlzYkZRVAZyg2yEHmLjAGG6oyaiBuSSItcDqzl5eWbQ3f27qgkXiHSfb2Ec/0ZzGhOJoGpNUn6ulOdvrB/6GavoiqCj0oXPoB/fyMoUmdSlyxHo7wmM+npRx86h1+jVgDBdK1O+38Pqo+Ap+mEP73ivB2zZjKEmg=;z8G6CLZr4mh/eZiGppbiXg=="
+secured: "1Q6vpuVR8Ck9Kg8npBNprJN7kEtN2+BIjppRMiYcAci30G4llCdjoh+xWsZnokB0bV4izJAlpOLcv2L2YQ/Ew3WnCDKz038zbbYgnd+SPsITu2/dyEW+55baTZyGD3pB2DkzXZ+i3v3wbz7dfVF5cvSvXfsNEtkQE/OJ3YbiOmmsq/HSebJij7fntFVPbL49zM4VxQDbbF8qtaLGnAl3MlcR2vQ6qp0mF3oy+DdhQHYknNtbQP5HeFR0nUkJT9pvRtHO5Aj6xNcMo5NZv5aVWOCmFH9fPgoxl+pTJcBVxVizIcHxaZPndpcE/i99Pc7hhsExcG85/nWGpvRrfYNDrsdqQs+cbSpEDx9YK99UnkQ=;YjcVdeVo6t4gwYvb9O2XYQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-home-se
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-to-buy-this-year/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "How to Thwart Facial Recognition and Other Surveillance"
-    excerpt: "And the lenses are opaque to infrared sensors, so—bonus!—they also block facial-recognition systems that use 3D imaging, like the iPhone's Face ID. A handful of US cities have banned government use of facial recognition technology due to concerns over ..."
-    publishedDateTime: 2020-09-22T10:00:00Z
-    webUrl: "https://www.wired.com/story/how-to-thwart-facial-recognition-other-surveillance/"
-    ampWebUrl: "https://www.wired.com/story/how-to-thwart-facial-recognition-other-surveillance/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-to-thwart-facial-recognition-other-surveillance/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
-    images:
-      - url: "https://media.wired.com/photos/5f6515d2eb3bb2da971988d8/master/pass/howtosurveillance1.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
   - title: "Facebook Illinois Settlement: How to Get a Payout in $650 Million Facial Recognition Class Action"
     excerpt: "When the tag feature is enabled, the social network uses face recognition technology to analyze photos and videos it believes a user is in and creates a template. The template is then used to recognize users as they appear in other photos or videos."
     publishedDateTime: 2020-09-23T12:26:00Z

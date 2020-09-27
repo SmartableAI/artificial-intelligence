@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/health-wellbeing/ai-loneliness-natural-speech-l
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/health-wellbeing/ai-loneliness-natural-speech-language/?amp=true"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -90,6 +90,22 @@ related:
       name: News Medical
       domain: news-medical.net
     quality: 51
+    images:
+      - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+  - title: "Researchers use artificial intelligence to discern degrees of loneliness in older adults"
+    excerpt: "For the past couple of decades, there has been a loneliness pandemic, marked by rising rates of suicides and opioid use, lost productivity, increased health care costs and rising mortality."
+    publishedDateTime: 2020-09-27T03:19:00Z
+    webUrl: "https://www.news-medical.net/news/20200925/Artificial-intelligence-analyzes-natural-language-patterns-to-discern-degrees-of-loneliness.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20200925/Artificial-intelligence-analyzes-natural-language-patterns-to-discern-degrees-of-loneliness.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200925/Artificial-intelligence-analyzes-natural-language-patterns-to-discern-degrees-of-loneliness.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 50
     images:
       - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
         width: 620

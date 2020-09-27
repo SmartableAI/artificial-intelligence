@@ -2,6 +2,47 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-27-scientists-combat-anti-semitism-with-artificial-intelligence.md",
+      "title": "Scientists combat anti-Semitism with artificial intelligence",
+      "excerpt": "An international team of scientists said Monday it had joined forces to combat the spread of anti-Semitism online with the help of artificial intelligence. The project Decoding Anti-Semitism includes discourse analysts,",
+      "sourceUrl": null,
+      "webUrl": "https://www.beaumontenterprise.com/news/article/Scientists-combat-anti-Semitism-with-artificial-15584227.php",
+      "originalUrl": "https://www.beaumontenterprise.com/news/article/Scientists-combat-anti-Semitism-with-artificial-15584227.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png",
+          "width": 375,
+          "height": 211,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.beaumontenterprise.com/news/amp/Scientists-combat-anti-Semitism-with-artificial-15584227.php",
+      "cdnAmpWebUrl": "https://www-beaumontenterprise-com.cdn.ampproject.org/c/s/www.beaumontenterprise.com/news/amp/Scientists-combat-anti-Semitism-with-artificial-15584227.php",
+      "publishedDateTime": "2020-09-26T20:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Beaumont Enterprise",
+        "domain": "beaumontenterprise.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-27-can-tesla-really-produce-a-25000-self-driving-electric-car.md",
       "title": "Can Tesla Really Produce A $25,000 Self-Driving Electric Car?",
       "excerpt": "During Tuesday’s much-hyped battery day, Tesla CEO Elon Musk laid out plans to put everyone behind the wheel (or is that sleeping in the",
@@ -1118,7 +1159,7 @@
       "originalUrl": "https://newatlas.com/health-wellbeing/ai-loneliness-natural-speech-language/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -1157,48 +1198,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.md",
-      "title": "Microsoft Ignite showcases first Project Cortex AI tool for SharePoint",
-      "excerpt": "Civil engineering firm Mott McDonald has been testing SharePoint Syntex, the first product to come out of Microsoft’s Project Cortex proving ground for AI-based content management tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.html",
-      "originalUrl": "https://www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/09/multiple-exposure_profile_with_gears_overlaying_and_representing_the_brain_thought_intelligence_brainstorming_strategy_by_metamorworks_gettyimages-994767724_2400x1600-100858219-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.amp.html",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.amp.html",
-      "publishedDateTime": "2020-09-24T18:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

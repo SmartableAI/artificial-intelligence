@@ -1,25 +1,31 @@
 ---
 category: news
-title: "South Africa's Indigenous Khoisan Seek Better Recognition"
-excerpt: "A giant bronze statue of Nelson Mandela overlooks a big black tarpaulin tent that has become a fixture on the emerald lawns of the South African president's office in Pretoria."
-publishedDateTime: 2020-09-26T21:35:00Z
-originalUrl: "https://www.barrons.com/news/south-africa-s-indigenous-khoisan-seek-better-recognition-01601092505"
-webUrl: "https://www.barrons.com/news/south-africa-s-indigenous-khoisan-seek-better-recognition-01601092505"
-ampWebUrl: "https://www.barrons.com/amp/news/south-africa-s-indigenous-khoisan-seek-better-recognition-01601092505"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/south-africa-s-indigenous-khoisan-seek-better-recognition-01601092505"
+title: "South Africa’s indigenous Khoisan seek better recognition"
+excerpt: "A giant bronze statue of Mandela overlooks a big black tarpaulin tent that has become a fixture on the emerald lawns of the South Africa."
+publishedDateTime: 2020-09-27T03:35:00Z
+originalUrl: "https://www.vanguardngr.com/2020/09/south-africas-indigenous-khoisan-seek-better-recognition/"
+webUrl: "https://www.vanguardngr.com/2020/09/south-africas-indigenous-khoisan-seek-better-recognition/"
+ampWebUrl: "https://www.vanguardngr.com/2020/09/south-africas-indigenous-khoisan-seek-better-recognition/amp/"
+cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/09/south-africas-indigenous-khoisan-seek-better-recognition/amp/"
 type: article
-quality: 24
-heat: 24
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Barron's
-  domain: barrons.com
+  name: Vanguard
+  domain: vanguardngr.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "tvqZ9vX5BJYm/aFRcHXi2EpJHJacrzMesBgtwArZ/nFHW0UZhlE8jlcvWOL4FCdtPh/vqVKYrkU5qXOTdlNxPew3bklD/y31lcT1PcCgcYGqhJ7elAG1yGlNoMPZr94X1Odbg6aAjalICe4AfgG7aOGVEjPHf3p2fmpTPn5YVgAFRBRDBaQerSA5IiSQFj21J/2E4Tf+86t4wYJcNwBR8/GyPpiDEHhAFEVZPZVIVFv0QKcITICmLa6wdZX1AqLyrNExGm+rZI8vGik/aHsrACjf3cTpWMcXE9FB+IqZw2GpaNGi3e7tKva2NNJoOB0nPTzQROiPK3c8RgiQD/9DMl7eDUWfJBKSVDT4+Yv6ZuY=;bi0+XGdjf/8yZsJU3/OyLg=="
+images:
+  - url: "https://i0.wp.com/www.vanguardngr.com/wp-content/uploads/2020/09/Khoisan-indigenous.jpg?fit=1355%2C888&ssl=1"
+    width: 1355
+    height: 888
+    isCached: true
+
+secured: "7jsFcctWusUbkcDBUfp+7yhHQg4eB9ox9ShITSCde//WqXuZrrMGioaIj6TMLRkOs2DzdZtknDAYfyGzOZZK3IoVl1TX3JYGHl6ttw8s7n3+OVNQeD1Gy4QntkjDVur7kz7wszmIMtX3PBJMc+8ydon/xi/prkzvSzn2tikxutfI/ySoQ6TMIksfULREkT4+PO4cca7B8Y9KolN66bnY9bjLqkkfmIjetAgI4fapEKmawcM2DHVYg/6Y+qGecn4JQk+t4FTgGlZpFuVQsFbGDV2Ku7bQ1+oApVCuac/jv+OP4zP17HR3qydCZz3AChgNydvIO7DMSs+jQiOtvO/Y7B43RZgiBPJcA4f4yCqCHrw=;g5m820+ZyNL1P3biYN+JFg=="
 ---
 

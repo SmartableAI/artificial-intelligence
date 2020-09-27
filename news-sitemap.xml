@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.beaumontenterprise.com/news/article/Scientists-combat-anti-Semitism-with-artificial-15584227.php</loc>
+    <lastmod>2020-09-26T20:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://markets.businessinsider.com/news/stocks/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692</loc>
     <lastmod>2020-09-26T15:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -811,7 +817,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://apnews.com/globenewswire-mobile/d1e2636d66efe74334839d6e7f1fded5</loc>
+    <loc>https://apnews.com/globe-newswire/d1e2636d66efe74334839d6e7f1fded5</loc>
     <lastmod>2020-09-21T00:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2167,7 +2173,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/latin-america-self-driving-car-market-2023-strategic-assessment-by-top-players-2020-09-13</loc>
+    <loc>https://www.marketwatch.com/press-release/latin-america-self-driving-car-market-2023-strategic-assessment-by-top-players-2020-09-13?mod=mw_quote_news</loc>
     <lastmod>2020-09-12T22:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2475,6 +2481,12 @@
   <url>
     <loc>https://www.barrons.com/quote/stock/us/xnas/ps</loc>
     <lastmod>2020-09-10T17:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.allaboutcircuits.com/news/skin-like-sensors-computer-vision-offer-accurate-hand-gesture-recognition/</loc>
+    <lastmod>2020-09-10T16:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
