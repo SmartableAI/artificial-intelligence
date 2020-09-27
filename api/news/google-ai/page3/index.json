@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-08-13-mlops-the-rise-of-machine-learning-operations.md",
-      "title": "MLops: The rise of machine learning operations",
-      "excerpt": "Once machine learning models make it to production, they still need updates and monitoring for drift. A team to manage ML operations makes good business sense",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3570716/mlops-the-rise-of-machine-learning-operations.html",
-      "originalUrl": "https://www.infoworld.com/article/3570716/mlops-the-rise-of-machine-learning-operations.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/07/teams_teamwork_collaboration_discussion_planning_meeting_communication_by_brauns_gettyimages-497812268_2400x1600-100853242-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3570716/mlops-the-rise-of-machine-learning-operations.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3570716/mlops-the-rise-of-machine-learning-operations.amp.html",
-      "publishedDateTime": "2020-08-13T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2020-08-13-animegan-uses-machine-learning-to-turn-photos-into-anime-style-backgrounds.md",
       "title": "AnimeGan Uses Machine Learning to Turn Photos Into Anime-Style Backgrounds",
       "excerpt": "A GitHub user recently posted the open-source code for AnimeGAN using machine learning platform Tensorflow for anyone to download and use to create anime-style backgrounds.",
@@ -1416,6 +1364,48 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-26-deepminds-newest-ai-programs-itself-to-make-all-the-right-decisions.md",
+      "title": "DeepMind’s Newest AI Programs Itself to Make All the Right Decisions",
+      "excerpt": "When Deep Blue defeated world chess champion Garry Kasparov in 1997, it may have seemed artificial intelligence had finally arrived. A computer had just taken down one of the top chess players of all time.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2020/07/26/deepminds-newest-ai-programs-itself-to-make-all-the-right-decisions/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2020/07/red-dice-black-background-probability.jpg",
+          "width": 1408,
+          "height": 792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2020/07/26/deepminds-newest-ai-programs-itself-to-make-all-the-right-decisions/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/07/26/deepminds-newest-ai-programs-itself-to-make-all-the-right-decisions/amp/",
+      "publishedDateTime": "2020-07-26T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
       ]
     }
   ],

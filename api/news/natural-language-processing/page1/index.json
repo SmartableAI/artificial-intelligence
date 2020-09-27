@@ -200,57 +200,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-24-as-per-study-voice-and-speech-recognition-market-size-poised-to-surpass-usd-3149-billion-by-2026.md",
-      "title": "As Per Study, Voice and Speech Recognition Market Size Poised to Surpass USD 31.49 billion by 2026",
-      "excerpt": "Selbyville, Delaware, The Voice and Speech Recognition market study now available with Market Study Report, LLC,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/as-per-study-voice-and-speech-recognition-market-size-poised-to-surpass-usd-3149-billion-by-2026-2020-09-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/as-per-study-voice-and-speech-recognition-market-size-poised-to-surpass-usd-3149-billion-by-2026-2020-09-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-23T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-23-mastercards-vp-of-ai-talks-bots-nlp-and-why-fintechs-need-ai-for-customer-service-vb-live.md",
       "title": "Mastercard’s VP of AI talks bots, NLP, and why fintechs need AI for customer service (VB Live)",
       "excerpt": "Join this VB Live event for insights on why AI is essential for fintech companies, plus how to implement it, how to make it perfom, and more. Register here for free. AI has been around for a long ...",
@@ -1444,6 +1393,57 @@
         "AI",
         "Facebook AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-millions-of-indians-are-getting-connected-to-an-internet-they-cant-use.md",
+      "title": "Millions of Indians are getting connected to an internet they can’t use",
+      "excerpt": "Most Indian businesses, banks, and government services develop their websites and apps in English and Hindi. What about the users who speak other languages?",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/1901456/millions-of-indians-are-connecting-to-an-internet-they-cant-use/",
+      "originalUrl": "https://qz.com/1901456/millions-of-indians-are-connecting-to-an-internet-they-cant-use/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/09/2016-08-31T120000Z_705861842_S1AETYOUITAA_RTRMADP_3_RELIANCE-TELECOMS-JIO-e1599688175138.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 788,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://qz.com/1901456/millions-of-indians-are-connecting-to-an-internet-they-cant-use/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1901456/millions-of-indians-are-connecting-to-an-internet-they-cant-use/amp/",
+      "publishedDateTime": "2020-09-10T01:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

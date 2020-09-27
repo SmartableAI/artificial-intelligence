@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Mailchimp launches new AI tools as it continues its transformation to marketing platform"
-    excerpt: "Mailchimp may have started out as an easy to use newsletter tool, but that was almost 20 years ago. Today’s company still does email, but at its core, it is now a marketing automation platform for small businesses that also offers a website builder,"
-    publishedDateTime: 2020-09-22T23:41:00Z
-    webUrl: "https://techcrunch.com/2020/09/22/mailchimp-launches-new-ai-tools-as-it-continues-its-transformation-to-marketing-platform/"
-    ampWebUrl: "https://techcrunch.com/2020/09/22/mailchimp-launches-new-ai-tools-as-it-continues-its-transformation-to-marketing-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/mailchimp-launches-new-ai-tools-as-it-continues-its-transformation-to-marketing-platform/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 78
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/09/Screenshot-2020-09-22-080330.jpg?w=300"
-        width: 300
-        height: 222
-        isCached: true
 
 secured: "06sGOCFg2itIU+91Nfdc0jnlZ8IUWPhKxfgUYJNpvvplbmUy7ZDJuv4hO9LpPt2hOdLnJaqLbYEixk0wV8IdHuEG7Tk0Zm5kApYepnfMoX+GRfqpbJOZagEuVf4oq0IL47PX8Tmccdqufm3gS55yXT59vsGoo+SY4wpv584lvlhPEqOOPgx9q/1nSQUFlcx04C/GPKwCuZNdlr/o4WAigrxNEAs5fCUHg40VQs7u69KCU+vprm9ByFUvoOxu8g2thj+mF1qfOhIphnDZ3k4ryhi+74B9tR2XhrUY7MDDp+RyuLoHoIF2uFvBjLQL8WKbjxjgYFpGWzjmrjfd/9Z8FOnGG54Xwqd0xCOfSfPdumc=;Nwo3jy2sWvNSoFqb5f8JdQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/professional/blog/in-the-world-of-financ
 webUrl: "https://www.bloomberg.com/professional/blog/in-the-world-of-financial-technology-ai-poses-questions-heightens-efficiency-and-encourages-ingenuity/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 800
     height: 533
     isCached: true
-
-related:
-  - title: "Agencies Should Consider the Pros and Cons of Artificial Intelligence"
-    excerpt: "Officials pushed agencies to examine the trade-offs—both positive and negative—as they adopt emerging technologies."
-    publishedDateTime: 2020-09-23T00:00:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2020/09/agencies-should-consider-pros-and-cons-artificial-intelligence/168686/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 39
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2020/09/22/NGai20200922/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "KuRFDvRRrqTjoHVT32nFza7sG3ne9v9aye4jbF9qJIhI6xYu7YCd4KRZGVXIKHZYVensijq/aZrH7hyXwkvuqHKeiO5FCjByS0WgJkPPgGRvmjjZcRk43xAROj00ZxcgNTuhNwnI0d5fKCFyyX7BLkBByIIG6q1RNharTksnrd9ZN2SHzx8QD7FIuaXw7GcR4FbBwQUOYHQrzcRMOoSnSisaJNAle+5zERevqq4sLKB5BXdjpWVP+3EIAiFfo9hBxurgW2QKH88FYExhnstDsLjEAwlqvSKc9K2XlbgbB+tFEtqQyVmwpicQD9U8W3040bTU9TQHyrbYAGg5TpOrYC7XxB1sPGQO9uj2GXt0ntVzk6YpNy0Gv3B0Let26X4ZTFwHzxbY0977/Iy5nhdf7+kyLsFkXvf4S2OIUc4QtL/sfNyMUh6EfZPlRcy84F7MYipyI6HYy3gbP+TqhFZmgjTBCtx7x/IcIbKDzncwuZSoA6tisndxOgRXfN7Zz2h4KDpYggz23hd1Ss4tfETNEQ==;3xg09LcIA7H9+OSqsch/yg=="
 ---

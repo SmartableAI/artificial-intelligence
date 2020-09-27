@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese propaganda network on Facebook used AI-generated faces"
-    excerpt: "Facebook removed two networks of fake accounts spreading government propaganda on the platform Tuesday, one originating in China and one in the Philippines. In its latest report on this kind of coordinated campaign,"
-    publishedDateTime: 2020-09-22T23:40:00Z
-    webUrl: "https://techcrunch.com/2020/09/22/facebook-gans-takes-down-networks-of-fake-accounts-originating-in-china-and-the-philippines/"
-    ampWebUrl: "https://techcrunch.com/2020/09/22/facebook-gans-takes-down-networks-of-fake-accounts-originating-in-china-and-the-philippines/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/facebook-gans-takes-down-networks-of-fake-accounts-originating-in-china-and-the-philippines/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/09/gans-graphika.jpeg?w=680"
-        width: 680
-        height: 380
-        isCached: true
   - title: "Facebook removes Chinese network of fake accounts that used AI-generated faces"
     excerpt: "The operation reportedly used AI-generated Facebook profile photos to spread government propaganda about Beijing's interests in the South China Sea."
     publishedDateTime: 2020-09-23T16:53:00Z
@@ -57,6 +41,17 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "Machine Learning Answers: Facebook Stock Is Down 20% In A Month, What Are The Chances It’ll Rebound?"
+    excerpt: "According to the Trefis Machine Learning Engine, which identifies trends in the company’s stock price data since its IPO in May 2012, returns for Facebook stock average a little over 3% in the next one-month (21 trading days) period after experiencing a 20% drop over the previous month (21 trading days)."
+    publishedDateTime: 2020-09-24T10:52:00Z
+    webUrl: "https://www.nasdaq.com/articles/machine-learning-answers%3A-facebook-stock-is-down-20-in-a-month-what-are-the-chances-itll"
+    ampWebUrl: "https://www.nasdaq.com/articles/machine-learning-answers%3A-facebook-stock-is-down-20-in-a-month-what-are-the-chances-itll?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/machine-learning-answers%3A-facebook-stock-is-down-20-in-a-month-what-are-the-chances-itll?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
 
 secured: "I8kyrVMA/HqH0rYIvjyGfzIeyfvwnl8uoft7eQfEjUvDvGvaLuZBSekkxA0VAPuZ4s9yJCoEGlRKRKoiU74BCDXV8BjZReP9IcFhhVA4aOJThq99+2bnMkt0JsD9nNEc8fkJ57L4vz8ahM+OIlQ94KpqVVhA0gfbSHtGGyHSgAEPCFxpDT58CO9n1vmWYTkhkiZWiTRgWUgrSxLWf9mS0APZo6HAoClcNq9HoMw28dlx/PY/u41/iXFpgyNPrN/pq9/yEd2tSEqJsFKe5bQiUas2sRwMDElIOPIgSMKf3PbFWiE2cggkkIPoQTWQTMEf9ZWZN3ZUrCt87oA8qn8O2Uoc1cPt88AYEWN/9Y2xgzIoUkZDrRGoKMLp6UMwH4cfaMK+IeNChw2XR834xh8EhQfQ/H0zIzEBz0yQgXHs35GFLZrzvBS3F+EJq00O0/f08V572/C7fbch34QT537Om6538CNUxwzXcwMOQ59COaLo3/ql3GKqOdXRvfNlt8OotSX4O1PeHog6md5hC2B7Uw==;y+m7ZS0gXvLUNLXVndC59g=="
 ---

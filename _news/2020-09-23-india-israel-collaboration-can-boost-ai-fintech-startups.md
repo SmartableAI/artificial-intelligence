@@ -9,8 +9,8 @@ ampWebUrl: "https://m.timesofindia.com/city/ahmedabad/india-israel-collaboration
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/ahmedabad/india-israel-collaboration-can-boost-ai-fintech-startups/amp_articleshow/78269578.cms"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Indiatimes
@@ -40,22 +40,6 @@ related:
       - url: "http://img.yicaiglobal.com/cdn/news/inclusion-meeting-opens-today-to-boost-shanghai-fintech/8136329285599232.jpg"
         width: 720
         height: 480
-        isCached: true
-  - title: "Israel based Fintech Fintica Teams Up with UAE-headquartered CEO of Barker and Booth"
-    excerpt: "Mohammed Al Beloushi, CEO at Barker and Booth Commercial Agency LLC, has confirmed that his company will make a strategic investment into the operations of Israel-based Fintech firm Fintica AI LLC, a"
-    publishedDateTime: 2020-09-22T23:14:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/09/167066-israel-based-fintech-fintica-teams-up-with-uae-headquartered-ceo-of-barker-and-booth/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/09/167066-israel-based-fintech-fintica-teams-up-with-uae-headquartered-ceo-of-barker-and-booth/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/09/167066-israel-based-fintech-fintica-teams-up-with-uae-headquartered-ceo-of-barker-and-booth/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 37
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/10/Tel-Aviv-Israel-1-600x519.jpg"
-        width: 600
-        height: 519
         isCached: true
 
 secured: "5/P60TX9rItCCXNlQ0lhJO42/Rn+45NQUa/QAZFy4C529ZFyldHAgt/kHbKmySEpPTcxziXtAmrjNFAj8/Wz07c6SYXljnTXZi6zXFqIDnOwTuV/BncQHj/8v1xiPJ4rzywzNUTayr4NIA2OFqBu5kbbeA15Ow2veUQYow8mnvi5ULdDZrJNVSJZ5urCf2MQmkzmlgRWLm2xHm2vot5qmciVVI3Khore7RwAcUP5x8Gg+HWNisleIvj4hC6VNHzNc2/nBjRW2/lozDvzKDxzS0wgsRHS+yAhIpmMSZszy1k/W+uhpVql/jgr99qMkZxZz6milGoeGYucZxt+suhExt2vZpPpgUVq7Y6L0m7CVHFiEZMcbqG857ldKVBlxTwpKexd7BDNAmRgyj2/hy/zqxq4p6+FIFRf3Vu5uKlmItOiLmmUyZsx29Lr11mdnckhGtoH6uz8juw40iclo3rjNAzuxLGZcA2OYsj+8AKWzDi8JTnakbBgvu0R5fv7IaEJS0r+/fBKXQ5ge4GQeALuMQ==;2HK/fF86R8uGuNLuGQictA=="

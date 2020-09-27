@@ -197,7 +197,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/24/say-aloha-to-self-driving-cars-as-hawaii-approves-roadway-testing-though-paradise-not-assured/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1347,34 +1347,25 @@
       ]
     },
     {
-      "path": "_news/2020-09-14-researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars.md",
-      "title": "Researchers claim to develop concept to ensure ‘legal safety’ of driverless cars",
-      "excerpt": "The algorithm attempts to verify that a driverless car will maintain ... Professor Noel Sharkey, emeritus professor of artificial intelligence and robotics at the University of Sheffield ...",
+      "path": "_news/2020-09-14-how-safe-are-driverless-cars.md",
+      "title": "How Safe Are Driverless Cars?",
+      "excerpt": "Science-fiction author Isaac Asimov, imagining a future of artificial intelligence ... on trying to figure out how we can program our driverless cars to make the right moral decisions in these ...",
       "sourceUrl": null,
-      "webUrl": "https://www.irishexaminer.com/world/arid-40048664.html",
-      "originalUrl": "https://www.irishexaminer.com/world/arid-40048664.html",
+      "webUrl": "https://www.psychologytoday.com/us/blog/talking-apes/202009/how-safe-are-driverless-cars",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/talking-apes/202009/how-safe-are-driverless-cars",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.irishexaminer.com/cms_media/module_img/3913/1956596_1_articlelarge_2.53370781.jpg.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "type": "article",
-      "ampWebUrl": "https://www.irishexaminer.com/world/arid-40048664.html?type=amp",
-      "cdnAmpWebUrl": "https://www-irishexaminer-com.cdn.ampproject.org/c/s/www.irishexaminer.com/world/arid-40048664.html?type=amp",
-      "publishedDateTime": "2020-09-14T09:59:00-07:00",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/talking-apes/202009/how-safe-are-driverless-cars?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/talking-apes/202009/how-safe-are-driverless-cars?amp",
+      "publishedDateTime": "2020-09-14T09:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Irish Examiner",
-        "domain": "irishexaminer.com",
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
         "images": null,
         "publishers": null,
         "authors": null

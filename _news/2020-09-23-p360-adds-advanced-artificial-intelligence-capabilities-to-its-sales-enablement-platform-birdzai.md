@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "Rakuten Mobile Adds Nuance Intelligent Engagement AI Services to Rakuten Communications Platform"
+    excerpt: "Nuance Communications, Inc. and Rakuten Mobile, Inc. today announced a strategic partnership to add Nuance ® Intelligent Engagement AI Services to the Rakuten Communications Platform. Through the Nuance-Rakuten Mobile partnership,"
+    publishedDateTime: 2020-09-27T05:35:00Z
+    webUrl: "https://www.nasdaq.com/press-release/rakuten-mobile-adds-nuance-intelligent-engagement-ai-services-to-rakuten"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
   - title: "Ardigen has received funding to accelerate its AI-driven TCR discovery platform for novel cell therapies"
     excerpt: "Ardigen is harnessing advanced Artificial Intelligence methods for novel precision medicine. The company accelerates therapy development by designing immunity, decoding microbiome, analysing biomedical images and providing digital drug discovery services."
     publishedDateTime: 2020-09-23T13:39:00Z

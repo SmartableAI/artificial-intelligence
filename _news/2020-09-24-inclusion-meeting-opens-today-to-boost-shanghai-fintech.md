@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Israel based Fintech Fintica Teams Up with UAE-headquartered CEO of Barker and Booth"
-    excerpt: "Mohammed Al Beloushi, CEO at Barker and Booth Commercial Agency LLC, has confirmed that his company will make a strategic investment into the operations of Israel-based Fintech firm Fintica AI LLC, a"
-    publishedDateTime: 2020-09-22T23:14:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/09/167066-israel-based-fintech-fintica-teams-up-with-uae-headquartered-ceo-of-barker-and-booth/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/09/167066-israel-based-fintech-fintica-teams-up-with-uae-headquartered-ceo-of-barker-and-booth/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/09/167066-israel-based-fintech-fintica-teams-up-with-uae-headquartered-ceo-of-barker-and-booth/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 37
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/10/Tel-Aviv-Israel-1-600x519.jpg"
-        width: 600
-        height: 519
-        isCached: true
 
 secured: "VREXqHMt1jP+PLSS/8bd3k6bf9L6SJuGeX3qkFR8WpplPKKtyCqVZU0axwHzMcs/PU+ctoB5NEbWKqsdDcZHSPJ56NgAHjWMAZoGgw18H+Ol3wZu3Tq+3a0q06KHoi3VnzPetrhh+0mO4F0Hld+w9TRolnOvp5dzgvP6S6/yk823GzQ13CEuaoQE/EjypNKFFCSXCxQCSKCozvc8XJjEPqmInUejGDDUqldSwexXEdmUpx9r7/xvWMpI02jBKqUVyuOU3AFjl+Pxmq3tMmpuIWFuEsRid2tPdE7Q6O8IzgxtTSdj1fly95QgUyyl25XxNRPEgKkn+PI72LyHpe43ka4J+ikYsUdJsXViDctbtsSpudcwnH5IDlM7hav0+irRy1HyeXwt466v7dtnBUl8HLIU+LJ1Yl6I0ke7mIdm4kAY5aR7TNnK+wEvqQ+TtRXWij4e5APZ6vf+bLX4GR4Hx/y64ztue3GErQtBCUNK+bKMY2l8MFFTgSj61ghmMmYeRVdeCzFINscqmRjFZsTK6g==;YLRxNNTZYYodyaJy4n6cdA=="
 ---

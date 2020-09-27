@@ -33,6 +33,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Rakuten Mobile Adds Nuance Intelligent Engagement AI Services to Rakuten Communications Platform"
+    excerpt: "Nuance Communications, Inc. and Rakuten Mobile, Inc. today announced a strategic partnership to add Nuance ® Intelligent Engagement AI Services to the Rakuten Communications Platform. Through the Nuance-Rakuten Mobile partnership,"
+    publishedDateTime: 2020-09-27T05:35:00Z
+    webUrl: "https://www.nasdaq.com/press-release/rakuten-mobile-adds-nuance-intelligent-engagement-ai-services-to-rakuten"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
 
 secured: "zB0fr36R1bQBwKXIXNgGABzn8rR6DoohZ6i9VuG8A/KjA10rxctEh4OAZshMf1aPktgEcxcgn4hpAuEjLZxM8CzZh5hwYcZG9qRRmnWY3SNlBhIj5tpJe9s38Y6lRCWyoWzqK40LcFDd5Y70jqDvBvw1VXeEke0DPxeMR+OqDlcdA7ceMoYrqESNSwvDr32yPC8Z7w8NKpoeJ8K/aWjulJVrCMQa+C2xHht/DVkLyFHJcjQnTDS7zM28VwJEiIDuVdpo/Z6SXT+BIRMXzRjQeCQjsklf7Hf5k85jafRMlFen2eJd/PkuUVkd/UWmqkQ9swp6idooNdbIr53cpJJ474hIALBTlwLDBTgWuihCTurAL7MOPbi1wOer3jFvizv3aPzMxMUSqlCIvB5zIGVt+2TOBYnJjzw7mIlU7Y3ibiAQ+lhl7sPFRS7Qw1xWFsZHvE5pZzRZQYEIKy1SAL+Cph8LkJOFWr8uzZyxA4ZzDZL2C0fwghdZdZPZaZg+YdZl0rFQB2xrJK7eS7VlJAG5oA==;J7Db855FqeqtnDwaZslsUw=="
 ---

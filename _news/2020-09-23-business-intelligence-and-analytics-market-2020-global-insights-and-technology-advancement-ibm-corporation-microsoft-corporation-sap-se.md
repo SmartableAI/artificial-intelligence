@@ -40,15 +40,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Maru Launches Conversational AI Analytics Tool"
-    excerpt: "Tech-enabled insights group Maru has launched Conversational AI, an intelligent, device-agnostic feedback tool, as part of its Maru/HUB platform. Maru says the tool - available across messaging platforms including WhatsApp and Facebook Messenger to enhance familiarity for audiences - allows researchers and marketers to combine conversational feedback with its existing research technologies and traditional survey approaches for a more holistic understanding of consumer response."
-    publishedDateTime: 2020-09-23T00:42:00Z
-    webUrl: "https://www.mrweb.com/drno/news30322.htm"
-    type: article
-    provider:
-      name: MrWeb
-      domain: mrweb.com
-    quality: 19
   - title: "True North: Pioneering Analytics, Algorithms and Artificial Intelligence"
     excerpt: "True North initiated the “Analytics, Algorithms and Artificial Intelligence” (3A) project. A system, Kelp, was designed and developed internally to facilitate the transformation of True North into an AI-first firm based on the introduction of data ..."
     publishedDateTime: 2020-09-23T12:11:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://thenextweb.com/neural/2020/09/23/facebook-removes-chinese-ne
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/23/facebook-removes-chinese-network-of-fake-accounts-that-used-ai-generated-faces/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: The Next Web
@@ -32,22 +32,17 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese propaganda network on Facebook used AI-generated faces"
-    excerpt: "Facebook removed two networks of fake accounts spreading government propaganda on the platform Tuesday, one originating in China and one in the Philippines. In its latest report on this kind of coordinated campaign,"
-    publishedDateTime: 2020-09-22T23:40:00Z
-    webUrl: "https://techcrunch.com/2020/09/22/facebook-gans-takes-down-networks-of-fake-accounts-originating-in-china-and-the-philippines/"
-    ampWebUrl: "https://techcrunch.com/2020/09/22/facebook-gans-takes-down-networks-of-fake-accounts-originating-in-china-and-the-philippines/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/facebook-gans-takes-down-networks-of-fake-accounts-originating-in-china-and-the-philippines/amp/"
+  - title: "Machine Learning Answers: Facebook Stock Is Down 20% In A Month, What Are The Chances It’ll Rebound?"
+    excerpt: "According to the Trefis Machine Learning Engine, which identifies trends in the company’s stock price data since its IPO in May 2012, returns for Facebook stock average a little over 3% in the next one-month (21 trading days) period after experiencing a 20% drop over the previous month (21 trading days)."
+    publishedDateTime: 2020-09-24T10:52:00Z
+    webUrl: "https://www.nasdaq.com/articles/machine-learning-answers%3A-facebook-stock-is-down-20-in-a-month-what-are-the-chances-itll"
+    ampWebUrl: "https://www.nasdaq.com/articles/machine-learning-answers%3A-facebook-stock-is-down-20-in-a-month-what-are-the-chances-itll?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/machine-learning-answers%3A-facebook-stock-is-down-20-in-a-month-what-are-the-chances-itll?amp"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/09/gans-graphika.jpeg?w=680"
-        width: 680
-        height: 380
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Start Using Facebook Messenger Bots For Your Business"
     excerpt: "Businesses are continuously evolving, finding new ways to improve customer experiences, and automate business operations, including Chatbots for marketing, transactions, and customer support."
     publishedDateTime: 2020-09-25T02:44:00Z

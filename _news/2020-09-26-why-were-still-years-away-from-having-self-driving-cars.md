@@ -47,6 +47,22 @@ related:
         width: 1199
         height: 562
         isCached: true
+  - title: "AI Is Increasingly Being Designed To Apologize, But Self-Driving Cars Are Not Hip To The Idea"
+    excerpt: "AI is increasingly offering apologies, but does this make sense. getty. They say that love means never having to say that you are sorry. When does it make sense though to proffer"
+    publishedDateTime: 2020-09-27T16:22:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingly-being-designed-to-apologize-but-self-driving-cars-are-not-hip-to-the-idea/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingly-being-designed-to-apologize-but-self-driving-cars-are-not-hip-to-the-idea/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingly-being-designed-to-apologize-but-self-driving-cars-are-not-hip-to-the-idea/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 76
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a971bf92664bddd8e6ca2%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Hawaii gives self-driving car testing the green light"
     excerpt: "Hawaii's legislation will require a human driver behind the wheel, but automakers will likely appreciate not having to worry about crossing state borders there."
     publishedDateTime: 2020-09-23T16:26:00Z

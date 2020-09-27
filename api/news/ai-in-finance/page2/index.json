@@ -2,48 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-08-21-artificial-intelligence-in-banking-hong-kong-academy-of-finance-publishes-report-on-ai-and-fintech.md",
-      "title": "Artificial Intelligence in Banking: Hong Kong Academy of Finance Publishes Report on AI and Fintech",
-      "excerpt": "The Hong Kong Institute for Monetary and Financial Research (HKIMR), the research segment of the Hong Kong Academy of Finance (AoF), has published a on AI and banking. Entitled “Artificial Intelligenc",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2020/08/165566-artificial-intelligence-in-banking-hong-kong-academy-of-finance-publishes-report-on-ai-and-fintech/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/08/Hong-Kong-Money-Sparkle-AI-600x600.jpg",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2020/08/165566-artificial-intelligence-in-banking-hong-kong-academy-of-finance-publishes-report-on-ai-and-fintech/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/08/165566-artificial-intelligence-in-banking-hong-kong-academy-of-finance-publishes-report-on-ai-and-fintech/amp/",
-      "publishedDateTime": "2020-08-21T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-21-banks-see-pressure-in-ai-race-from-fintechs-and-big-tech.md",
       "title": "Banks See Pressure in AI Race From Fintechs and Big Tech",
       "excerpt": "Fintech and big technology companies could outpace traditional banks in the race to develop AI tools that help personalize services, evaluate credit risk and more, analysts and industry executives say.",
@@ -1401,6 +1359,57 @@
         "AI in Finance",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-21-cybersecurity-services-market-trends-leveraging-artificial-intelligence-machine-learning-and-blockchain-technologies-for-cyber-defense.md",
+      "title": "Cybersecurity Services Market Trends: Leveraging Artificial Intelligence, Machine Learning And Blockchain Technologies For Cyber Defense",
+      "excerpt": "Leveraging artificial intelligence (AI), machine learning and blockchain technologies for cyber defense is a key trend in the cybersecurity services market. Cybersecurity vendors integrate artificial intelligence (AI) and machine learning principles into their solutions to tackle crucial hyper-connected workplace risks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cybersecurity-services-market-trends-leveraging-artificial-intelligence-machine-learning-and-blockchain-technologies-for-cyber-defense-2020-07-21",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-21T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     }
   ],
