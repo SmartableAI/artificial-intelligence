@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/amirhusain/2020/09/25/three-coming-shif
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amirhusain/2020/09/25/three-coming-shifts-in-ai/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 148
 published: true
 
 provider:

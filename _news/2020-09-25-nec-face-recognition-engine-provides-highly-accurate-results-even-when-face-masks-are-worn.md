@@ -1,42 +1,52 @@
 ---
 category: news
-title: "NEC Face Recognition Engine Provides Highly Accurate Results Even When Face Masks are Worn"
-excerpt: "As part of this, governments around the world are encouraging the use of face masks as a basic measure to combat infections under the \"New Normal.\" In conjunction with this, there is a need for face recognition technologies to adapt,"
-publishedDateTime: 2020-09-25T06:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/09/a17651638/nec-face-recognition-engine-provides-highly-accurate-results-even-when-face-masks-are-worn"
-webUrl: "https://www.benzinga.com/pressreleases/20/09/a17651638/nec-face-recognition-engine-provides-highly-accurate-results-even-when-face-masks-are-worn"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17651638"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17651638"
+title: "NEC Face Recognition Engine Provides Highly Accurate Results Even when Face Masks are Worn"
+excerpt: "NEC Corporation today announced the strengthening of its face recognition technology, already recognized as the world's most accurate (*1), with the development of a new face recognition engine that provides high-precision certification even when masks are ..."
+publishedDateTime: 2020-09-24T20:27:00Z
+originalUrl: "https://www.newswiretoday.com/news/173757/NEC-Face-Recognition-Engine-Provides-Highly-Accurate-Results-Even-when-Face-Masks-are-Worn/"
+webUrl: "https://www.newswiretoday.com/news/173757/NEC-Face-Recognition-Engine-Provides-Highly-Accurate-Results-Even-when-Face-Masks-are-Worn/"
 type: article
-quality: 31
-heat: 31
+quality: 9
+heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Newswire Today
+  domain: newswiretoday.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
 
 related:
-  - title: "NEC and The Face Recognition Company each upgrade biometric systems accuracy for masked faces"
-    excerpt: "NEC Corporation has launched a new biometric facial recognition engine for improved accuracy when matching people wearing masks. The company’s facial recognition technology was already relatively"
-    publishedDateTime: 2020-09-24T20:03:00Z
-    webUrl: "https://www.biometricupdate.com/202009/nec-and-the-face-recognition-company-each-upgrade-biometric-systems-accuracy-for-masked-faces"
+  - title: "In facial recognition challenge, top-ranking algorithms show bias against Black women"
+    excerpt: "The results from a recent facial recognition competition demonstrate that even the best algorithms are still prone to gender and racial bias."
+    publishedDateTime: 2020-09-24T13:52:00Z
+    webUrl: "https://venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/"
+    ampWebUrl: "https://venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/amp/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 28
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 97
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/12142443/mask-detection.png"
-        width: 1024
-        height: 512
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1199708189-e1600898324155.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
         isCached: true
+  - title: "Concerns about masks and facial-recognition software"
+    excerpt: "With facemasks now a part of our lives, tech companies are tackling the challenge of updating facial-recognition software to handle them."
+    publishedDateTime: 2020-09-24T12:12:00Z
+    webUrl: "https://www.fox5ny.com/news/concerns-about-masks-and-facial-recognition-software"
+    ampWebUrl: "https://www.fox5ny.com/news/concerns-about-masks-and-facial-recognition-software.amp"
+    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/concerns-about-masks-and-facial-recognition-software.amp"
+    type: article
+    provider:
+      name: Fox 5 NY
+      domain: fox5ny.com
+    quality: 24
 
-secured: "hlkSFega/qasKYOzcNSneK2mWgwZ4uoOYCtWOkvSstcnqhnrq/q8T6s0fgppcqob3HQnRGkEcgwNSfSMadk2eHhhYiVosSbkgmZZlU5yAdUi/wvI+wsMlOLKV7fya4986n6Axq+DAlEh8EM31Yqp054Nrq+Asq5okBTL/1lr/C/T5/exwWOy2EfzdTATt1Rek+wVIvBYXsw1zS7qVBXRBX4entQIMcb8oXeRdcurw+Wp7czh82kvqSJlUW48N9PS+vN6Hvl8Pw8PlnvIpxEwqgx+6AdHI/EWz6jRmcicqrriU/iHQLopr1oKLY0IafSVKjx6j4xt7DCVSLeVGR8EL7viWBQtYTuzwMfeFDeblmU=;tGFLstdX/6clmf6M1g4M4g=="
+secured: "xsG4qiZeYzaxQ2fD+0k5rNX0/l6EtzoiKo2n53XYfVtaj2Bc7qX+43Pws9LMNQm5pP+oUDxUrbqw1BNtF0m9G+JpcaYghWX+2WP5uMyYS106KJMpeSWhsbJr3qCQ7xLoasVmHEQRiYfGfc7/1gWp9c4v32NbPj1gXSF5+Btee7EYDUr0dlhbk7aJPS0bybMMsacErbUVTb7T3f3dAUnygvBWfoXZ+RPUuy+SLPr5RJIzWkOx+tAOzX9ALx6H9jwb/62IyOnU+QFntI2QapacfNoKgXEeW9kCxStTusBdydd7CAfxBdVBP3M1T4VWEoO7YUY5kVQA4Oo9WrkIuVGQkD2MMhnMsDoYRq6gSGDIlHOBMaldcACX03RSQREVfSVgdz3QisKBxNHbwKW4nDCgAz1iPRx/RTJRRgrI5LeIpdejCUZ8hSaNxp+AmshdiGi5MqN3L15J84EVtyrnoi4n5p/zoOk9kMqTvfSGZ9AT6rMOCb+DxZIjAg6j8Hj4iCakHR8HI0+B9ZiEFrUZcv8P6Q==;yizi4tpPprruXv1sw0a9cg=="
 ---
 

@@ -56,13 +56,22 @@
       "title": "IBM Watson Assistant Can Help States Deliver Critical Voting Information to Citizens",
       "excerpt": "IBM) has technology to help states use the AI capabilities of Watson to put this critical data and information directly into the hands of voters. With states facing a deluge of information ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ibm-watson-assistant-can-help-states-deliver-critical-voting-information-to-citizens-2020-09-17?tesla=y",
-      "originalUrl": "https://www.marketwatch.com/press-release/ibm-watson-assistant-can-help-states-deliver-critical-voting-information-to-citizens-2020-09-17?tesla=y",
+      "webUrl": "https://www.marketwatch.com/press-release/ibm-watson-assistant-can-help-states-deliver-critical-voting-information-to-citizens-2020-09-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/ibm-watson-assistant-can-help-states-deliver-critical-voting-information-to-citizens-2020-09-17",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,

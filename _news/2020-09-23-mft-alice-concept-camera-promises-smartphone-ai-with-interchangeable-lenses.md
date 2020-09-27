@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "British Startup Develops AI-Accelerated Computational Alice Camera"
+    excerpt: "Alice Camera is an “AI-accelerated computational camera” designed to deliver better connectivity than a regular or advanced DSLR."
+    publishedDateTime: 2020-09-23T08:27:00Z
+    webUrl: "https://analyticsindiamag.com/british-startup-develops-ai-accelerated-computational-alice-camera/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/09/British-Startup-Develops-The-AI-Accelerated-Computational-Alice-Camera.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "uRYSz7xqt30zsyjNBYWoUA0iao4yKoS7QtFMxj2tgEaXEdpEJQnzoSjisKGmNFnlR9vAcB/cEsJvFznRsNKWL0m72lOCjV17nyN5kEQXdpl/eCGDu8NWvRvxxLxNXjsPQFnWsSU2NM0QMgSZ8O42+zINcV74PLzTpu+HqiIHK8pCWy5E/gu4ovtkVGfB3ck/UE6DTtkBDbC7J8UlEEASdiRRa3jp1dDyufikujXDxrZ92UVx9EcPrGg9+agbe0CZ+W5hZMeUHux4Dn0+UV8iXQmhqonh//n2KRGDekZyd8Z0Z1x1w8GqUPWIWJFewGzewxZqlGwBTJ38TvX6cxsgC6Os2jqJ91ONy5VRJArXaR0cezVyiPW8RPrPHtGxq0HbtMvhyE7ZP+n8u1RQr3seyV27c0vMQFNHcWBgxBZ4xXNM1WbEiITBMj/UgZExxtXBsNgFwjvmzBBxUgdKR9Nm+KMWzz2+JOhKPZSElT2YcZe1u9UWJPKEZ1p8dTGuFnZV2Mc724lLhCbjxnoNMw0anA==;2cK5TAkEqMSHS1Ci9MN89g=="
 ---

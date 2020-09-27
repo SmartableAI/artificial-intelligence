@@ -68,6 +68,20 @@ related:
         width: 457
         height: 305
         isCached: true
+  - title: "dotData Enterprise is Now Available on Microsoft Azure"
+    excerpt: "Data, focused on delivering full-cycle data science automation and operationalization for the enterprise, is providing dotData Enterprise on Microsoft Azure, offering increased speed and efficiency of data science and machine learning processes coupled with Azure's strong managed IaaS/PaaS capabilities."
+    publishedDateTime: 2020-09-25T14:40:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/dotData-Enterprise-is-Now-Available-on-Microsoft-Azure-143056.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 71
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft’s Azure Communication Services handles enterprise video, voice, and text communications – Jaweb"
     excerpt: "Microsoft today announced a new communications offering called Azure Communication Services that’s built on top of Azure. Microsoft says it leverages the same network powering Microsoft Teams to enable developers to add multimodal messaging to apps and websites while tapping into services like Azure Cognitive Services for translation,"
     publishedDateTime: 2020-09-24T11:11:00Z
@@ -114,17 +128,48 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Dow Jones Down Slightly as Microsoft Launches New Cloud Services; Walmart+ Forecast Calls for 10 Million Subscribers"
-    excerpt: "Microsoft claims that it's the first such offering from a major cloud provider. Businesses that use the service will also be able to easily use other Azure capabilities, such as translation and sentiment analysis provided by Azure Cognitive Services."
-    publishedDateTime: 2020-09-22T18:03:00Z
-    webUrl: "https://www.nasdaq.com/articles/dow-jones-down-slightly-as-microsoft-launches-new-cloud-services-walmart-forecast-calls"
-    ampWebUrl: "https://www.nasdaq.com/articles/dow-jones-down-slightly-as-microsoft-launches-new-cloud-services-walmart-forecast-calls?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/dow-jones-down-slightly-as-microsoft-launches-new-cloud-services-walmart-forecast-calls?amp"
+  - title: "Microsoft to Advance Cloud-Based Satellite Data Processing With Azure Orbital"
+    excerpt: "Microsoft (Nasdaq: MSFT) has launched a ground station as a service designed to help customers communicate with their satellites and downlink and process satellite data using the Azure cloud platform."
+    publishedDateTime: 2020-09-23T10:01:00Z
+    webUrl: "https://www.govconwire.com/2020/09/microsoft-to-advance-cloud-based-satellite-data-processing-with-azure-orbital/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 46
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 51
+    images:
+      - url: "https://govconwire-media.s3.amazonaws.com/2020/09/23/de/91/de/dc/31/54/b4/a4/a0If300000N9uaUEAR-microsoft-20190109.jpeg"
+        width: 272
+        height: 270
+        isCached: true
+  - title: "CORRECTING and REPLACING SES Becomes Microsoft Azure Orbital Founding Connectivity Partner"
+    excerpt: "SES today announced it has joined as the medium Earth orbit (MEO) connectivity partner for Microsoft Azure Orbital, Microsoft’s new managed service enabling network operators to"
+    publishedDateTime: 2020-09-23T06:38:00Z
+    webUrl: "https://tucson.com/business/correcting-and-replacing-ses-becomes-microsoft-azure-orbital-founding-connectivity-partner/article_c57e3917-3762-5f53-97d5-19d69a84fd01.html"
+    type: article
+    provider:
+      name: Arizona Daily Star
+      domain: tucson.com
+    quality: 44
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/custom/image/80e87ada-cfb0-11e7-b59b-a75438cf81bb.png"
+        width: 620
+        height: 290
+        isCached: true
+  - title: "CORRECTING and REPLACING SES Becomes Microsoft Azure Orbital Founding Connectivity Partner"
+    excerpt: "... will enable our partners’ customers to on-ramp their data into Azure where it can immediately be processed with market-leading data analytics, geospatial tools and machine learning services, adding another layer of automation and intelligence in ..."
+    publishedDateTime: 2020-09-24T04:35:00Z
+    webUrl: "https://www.businesswireindia.com/correcting-and-replacing-ses-becomes-microsoft-azure-orbital-founding-connectivity-partner-69652.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 44
+    images:
+      - url: "https://mms.businesswire.com/media/20200922005927/en/823710/4/SES_Press_Release_SES_Becomes_Microsoft_Azure_Orbital_Founding_Connectivity_Partner_image.jpg"
+        width: 480
+        height: 310
+        isCached: true
   - title: "Jumio to Enable Biometric-Based Identity Proofing Services for Microsoft Azure Active Directory"
     excerpt: "Jumio, a leading provider of AI-powered end-to-end identity verification and authentication solutions, today announced that its AI-powered identity ve"
     publishedDateTime: 2020-09-22T22:05:00Z
@@ -139,6 +184,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "SES a “founding partner” with Microsoft Azure"
+    excerpt: "Microsoft’s Azure Orbital connectivity via the Cloud service will now benefit from the O3b satellite platform operated by SES. This is a significant expansion"
+    publishedDateTime: 2020-09-23T10:31:00Z
+    webUrl: "https://advanced-television.com/2020/09/23/ses-a-founding-partner-with-microsoft-azure/"
+    type: article
+    provider:
+      name: Advanced Television
+      domain: advanced-television.com
+    quality: 34
   - title: "\"Dev-friendly\" APIs and SDKs in New Azure Service Simplify Building Rich Communication Experiences"
     excerpt: "Microsoft this week unveiled the public preview of Azure Communication Services, a new platform for developers who want a simple and well-supported way to build new communications solutions or integrate them into existing applications."
     publishedDateTime: 2020-09-24T09:51:00Z

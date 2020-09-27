@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/photography/alice-camera-photogram/?amp=true"
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/photography/alice-camera-photogram/?amp=true"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://2.img-dpreview.com/files/p/E~TS520x0~articles/7241299090/5f17f4171e5dbcd12cb80393_transparent-1-gigapixel-scale-2_00x-p-500_copy.jpeg"
         width: 520
         height: 390
+        isCached: true
+  - title: "British Startup Develops AI-Accelerated Computational Alice Camera"
+    excerpt: "Alice Camera is an “AI-accelerated computational camera” designed to deliver better connectivity than a regular or advanced DSLR."
+    publishedDateTime: 2020-09-23T08:27:00Z
+    webUrl: "https://analyticsindiamag.com/british-startup-develops-ai-accelerated-computational-alice-camera/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/09/British-Startup-Develops-The-AI-Accelerated-Computational-Alice-Camera.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "KGCUSSzUQuZDWNnzcMeNVnx/ZwoADVkOQOpLTUE30uW4RofVk1qxHZBDK0ez1IaOIwPDwG3fHdEN62lcdurAC+3NIZNZqoTHM5Fhdj86c1ijkLaMdR12+c61ENcoNTUlpK6ylGkeqlqiNFI09aK4E7oOVuCryxnl7HbQOOTKvNvyH3O7VchlSoRppRzhgSWcVbJj4TSLYv5RZaO+iF6Ke7j0skaO7xZSnXI4HBCo/wbyopzHFPQNqgN3gXiFvUh9Fejg10UDzsv0giNsvm0D/eUMe2p1lxYQhkH7IvRDydpX86Kvusi58S6zjw5T4lAeZuG9zN17vHVDO5UnGmYSM8et2VhPPFk6Xz998/iIzH3efDGzb6RpctPzLdDONqgJ7Xlc2YfFiaCeTfFP6ys9ANciZWY9kwojClWmItx0YjkQ+cPHp00qZpDOp9PbtJ/Yd48Wk8px3V9sUslSNNRmbRLjs+bZ30A5nuktm61vD6xkNg3oL0U7E6wPAxNtn2SjgElN6qWkKtWRWWBham01PQ==;hXBnvGc14t2RdTcKNY1Q3g=="

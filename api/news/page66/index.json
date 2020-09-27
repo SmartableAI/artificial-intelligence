@@ -2,6 +2,57 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2020-08-06-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "AWS has a long, and growing ... NVIDIA continues to release new artificial intelligence hardware, including its recent A100 Tensor Core GPUs, which allow data centers to accelerate both AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/08/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
+      "originalUrl": "https://www.fool.com/investing/2020/08/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F585688%2Fgettyimages-1145585734.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/08/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/08/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
+      "publishedDateTime": "2020-08-06T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-06-city-of-tucson-water-department-selects-vodaais-machine-learning-to-support-decision-making.md",
       "title": "City of Tucson Water Department Selects VODA.ai's Machine Learning to Support Decision-Making",
       "excerpt": "The City of Tucson Water Department has selected VODA.ai as their exclusive provider of artificial intelligence software service for pipe prioritization. VODA.ai is excited to expand the partnership with the City of Tucson and provide continuous virtual condition assessment for the entire water system of over 4,",
@@ -1085,56 +1136,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-worlds-first-ai-generated-arts-festival-program-opens-this-friday.md",
-      "title": "‘World’s first’ AI-generated arts festival program opens this Friday",
-      "excerpt": "The Edinburgh Fringe is the world’s largest performing arts festival, but this year’s event has sadly been canceled due to COVID-19. Fortunately, art junkies can still get the",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/08/05/worlds-first-ai-generated-arts-festival-program-opens-this-friday/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-05T171319.315-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/08/05/worlds-first-ai-generated-arts-festival-program-opens-this-friday/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/05/worlds-first-ai-generated-arts-festival-program-opens-this-friday/amp/",
-      "publishedDateTime": "2020-08-05T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

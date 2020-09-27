@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2020-09-25-vietnam-ai-platform-rules-language-programming-contest-in-japan.md",
+      "title": "Vietnam AI platform rules language programming contest in Japan",
+      "excerpt": "Vietnam's artificial intelligence platform FPT.AI ranked first at SHINRA2020-ML, a contest to classify 30 Wikipedia language entities in fine-grained categories, in Japan.",
+      "sourceUrl": null,
+      "webUrl": "https://e.vnexpress.net/news/news/vietnam-ai-platform-rules-language-programming-contest-in-japan-4167219.html",
+      "originalUrl": "https://e.vnexpress.net/news/news/vietnam-ai-platform-rules-language-programming-contest-in-japan-4167219.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i-english.vnecdn.net/2020/09/25/Untitled118-1601018890-4769-1601019122_680x0.jpg",
+          "width": 680,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://ampe.vnexpress.net/news/news/vietnam-ai-platform-rules-language-programming-contest-in-japan-4167219.html",
+      "cdnAmpWebUrl": "https://ampe-vnexpress-net.cdn.ampproject.org/c/s/ampe.vnexpress.net/news/news/vietnam-ai-platform-rules-language-programming-contest-in-japan-4167219.html",
+      "publishedDateTime": "2020-09-25T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VN Express",
+        "domain": "vnexpress.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-ai-system-detects-loneliness-in-natural-speech-patterns.md",
       "title": "AI system detects loneliness in natural speech patterns",
       "excerpt": "A new proof of concept study, led by researchers at University of California San Diego School of Medicine, has demonstrated how speech-analyzing artificial intelligence tools can effectively predict the level of loneliness in older adults.",
@@ -1384,57 +1427,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-researchers-find-cutting-edge-language-models-fall-short-in-basic-reasoning.md",
-      "title": "Researchers find cutting-edge language models fall short in basic reasoning",
-      "excerpt": "A new paper finds that even cutting-edge language models like OpenAI's GPT-3 perform poorly when it comes to commonsense reasoning.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/09/researchers-find-cutting-edge-language-models-fall-short-in-basic-reasoning/",
-      "originalUrl": "https://venturebeat.com/2020/09/09/researchers-find-cutting-edge-language-models-fall-short-in-basic-reasoning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/09/researchers-find-cutting-edge-language-models-fall-short-in-basic-reasoning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/09/researchers-find-cutting-edge-language-models-fall-short-in-basic-reasoning/amp/",
-      "publishedDateTime": "2020-09-09T11:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

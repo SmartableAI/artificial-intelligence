@@ -29,87 +29,20 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft releases the InnerEye Deep Learning Toolkit to improve patient care"
-    excerpt: "With this in mind, the team released the InnerEye Deep Learning Toolkit as open-source software today. Built on top of PyTorch and integrated heavily with Microsoft Azure, the toolkit is meant to ease the process of training and deploying models."
-    publishedDateTime: 2020-09-22T18:01:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-releases-the-innereye-deep-learning-toolkit-to-improve-patient-care"
-    ampWebUrl: "https://www.neowin.net/amp/microsoft-releases-the-innereye-deep-learning-toolkit-to-improve-patient-care/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-releases-the-innereye-deep-learning-toolkit-to-improve-patient-care/"
+  - title: "Microsoft debuts Azure Orbital to power satellite downlinks for space sector clients"
+    excerpt: "“Once data is delivered to the end point in customers’ virtual network, customers can then use other Azure services like AI or ML, or even Azure Cognitive Services for that matter, to ..."
+    publishedDateTime: 2020-09-22T19:04:00Z
+    webUrl: "https://siliconangle.com/2020/09/22/microsoft-debuts-azure-orbital-power-satellite-downlinks-space-sector-clients/"
     type: article
     provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 103
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 47
     images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2020/09/1600790738_1400x788_innereye_still_nologo-5f653b8eedf12_story.jpg"
-        width: 760
-        height: 428
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/unsplash.jpg"
+        width: 750
+        height: 500
         isCached: true
-  - title: "dotData Enterprise is Now Available on Microsoft Azure"
-    excerpt: "Data, focused on delivering full-cycle data science automation and operationalization for the enterprise, is providing dotData Enterprise on Microsoft Azure, offering increased speed and efficiency of data science and machine learning processes coupled with Azure's strong managed IaaS/PaaS capabilities."
-    publishedDateTime: 2020-09-25T14:40:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/dotData-Enterprise-is-Now-Available-on-Microsoft-Azure-143056.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 71
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Microsoft to Advance Cloud-Based Satellite Data Processing With Azure Orbital"
-    excerpt: "Microsoft (Nasdaq: MSFT) has launched a ground station as a service designed to help customers communicate with their satellites and downlink and process satellite data using the Azure cloud platform."
-    publishedDateTime: 2020-09-23T10:01:00Z
-    webUrl: "https://www.govconwire.com/2020/09/microsoft-to-advance-cloud-based-satellite-data-processing-with-azure-orbital/"
-    type: article
-    provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 51
-    images:
-      - url: "https://govconwire-media.s3.amazonaws.com/2020/09/23/de/91/de/dc/31/54/b4/a4/a0If300000N9uaUEAR-microsoft-20190109.jpeg"
-        width: 272
-        height: 270
-        isCached: true
-  - title: "CORRECTING and REPLACING SES Becomes Microsoft Azure Orbital Founding Connectivity Partner"
-    excerpt: "SES today announced it has joined as the medium Earth orbit (MEO) connectivity partner for Microsoft Azure Orbital, Microsoft’s new managed service enabling network operators to"
-    publishedDateTime: 2020-09-23T06:38:00Z
-    webUrl: "https://tucson.com/business/correcting-and-replacing-ses-becomes-microsoft-azure-orbital-founding-connectivity-partner/article_c57e3917-3762-5f53-97d5-19d69a84fd01.html"
-    type: article
-    provider:
-      name: Arizona Daily Star
-      domain: tucson.com
-    quality: 44
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/custom/image/80e87ada-cfb0-11e7-b59b-a75438cf81bb.png"
-        width: 620
-        height: 290
-        isCached: true
-  - title: "CORRECTING and REPLACING SES Becomes Microsoft Azure Orbital Founding Connectivity Partner"
-    excerpt: "... will enable our partners’ customers to on-ramp their data into Azure where it can immediately be processed with market-leading data analytics, geospatial tools and machine learning services, adding another layer of automation and intelligence in ..."
-    publishedDateTime: 2020-09-24T04:35:00Z
-    webUrl: "https://www.businesswireindia.com/correcting-and-replacing-ses-becomes-microsoft-azure-orbital-founding-connectivity-partner-69652.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 44
-    images:
-      - url: "https://mms.businesswire.com/media/20200922005927/en/823710/4/SES_Press_Release_SES_Becomes_Microsoft_Azure_Orbital_Founding_Connectivity_Partner_image.jpg"
-        width: 480
-        height: 310
-        isCached: true
-  - title: "SES a “founding partner” with Microsoft Azure"
-    excerpt: "Microsoft’s Azure Orbital connectivity via the Cloud service will now benefit from the O3b satellite platform operated by SES. This is a significant expansion"
-    publishedDateTime: 2020-09-23T10:31:00Z
-    webUrl: "https://advanced-television.com/2020/09/23/ses-a-founding-partner-with-microsoft-azure/"
-    type: article
-    provider:
-      name: Advanced Television
-      domain: advanced-television.com
-    quality: 34
 
 secured: "11V4iqI1U/dkaTxxU1cRaxDz5EQnvhuBsMfDUjLIf+5irbsPS+52fg7mC37cAxsWyxOVqiJiVIyJcoFNL7d2E2Jc6/C3lqtiZnfk/QGWE/uscVbCSBqfcW2tPt86TKxqIRoeuzpuLWurUTupQnAO6nkzD2OLn6Q5ouGybxm2i4tCgyBbTQp5BkxuFlv/Ta6cUMtCVPVygcoLUmV6bk+phURrXoSJscYXOGQD65lmfxyFQAWPkVo4riQDoa+HwsLQtVpPDDi9xRDnzg/lrAv93H7k+6L1JFCRRK47Ik0+Y70rmeHN8btOP9oTZMtHKpZz+h7+M/bq012XXfjPytxzcVVd5NqtfoBSL3dVONfOzarZK7MS+Y7dK6PiM9W2+Lo50qRk3anEpP19TvFgZata2h2/E6vpGbHQ00WsGf20rLgjFFdePJw9Se3qBtseEwPW535hB0dsvF2NiRqq/Tpwy04sOdXxUMgWL9DwGhdxjlp87/7hP+GMbLj4kZhMtDl2Os/8KyZEjeAzTslqrecqkQ==;nAF4jghLGu25JYzeXnM2yg=="
 ---

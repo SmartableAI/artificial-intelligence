@@ -123,22 +123,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "Microsoft connects satellites to its cloud in new service, Azure Orbital"
-    excerpt: "Microsoft on Tuesday launched Azure Orbital, a new service that connects satellites to its cloud to process data from space."
-    publishedDateTime: 2020-09-22T18:08:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/09/22/Microsoft-connects-satellites-to-its-cloud-in-new-service-Azure-Orbital/6811600792489/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/09/22/Microsoft-connects-satellites-to-its-cloud-in-new-service-Azure-Orbital/6811600792489/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/09/22/Microsoft-connects-satellites-to-its-cloud-in-new-service-Azure-Orbital/6811600792489/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 73
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/i/6811600792489/2020/1/16007968764999/v1.5/Microsoft-connects-satellites-to-its-cloud-in-new-service-Azure-Orbital.jpg"
-        width: 620
-        height: 414
-        isCached: true
   - title: "Microsoft And Shell Announce New Partnership To Use Artificial Intelligence And Tech To Reduce Carbon Emissions"
     excerpt: "Microsoft and Shell have just announced a partnership to work together to use technology and artificial intelligence to help them address their emissions challenges, reduce CO2, and transition towards the use of renewable energy."
     publishedDateTime: 2020-09-23T05:02:00Z

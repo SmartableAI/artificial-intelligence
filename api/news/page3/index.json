@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-24-how-contextual-machine-learning-targets-human-error-to-prevent-email-based-data-breaches.md",
+      "title": "How Contextual Machine Learning Targets Human Error To Prevent Email-Based Data Breaches",
+      "excerpt": "While email has been critical to the continued operation of many businesses in the current health crisis, it has also presented those businesses with new data security challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/24/how-contextual-machine-learning-targets-human-error-to-prevent-email-based-data-breaches/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/24/how-contextual-machine-learning-targets-human-error-to-prevent-email-based-data-breaches/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6b3d6680f67d156da599fa%2F0x0.jpg",
+          "width": 1199,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/24/how-contextual-machine-learning-targets-human-error-to-prevent-email-based-data-breaches/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/24/how-contextual-machine-learning-targets-human-error-to-prevent-email-based-data-breaches/amp/",
+      "publishedDateTime": "2020-09-24T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-ava-aware-cloud-combines-machine-learning-and-advanced-analytics-for-organisations-of-any-size.md",
       "title": "Ava Aware Cloud combines machine learning and advanced analytics for organisations of any size",
       "excerpt": "This video security solution offers the simplicity and flexibility of a cloud platform while providing the same intelligent, proactive security, and AI capabilities of Ava’s on-premises and hybrid solutions ... within the enterprise suggests a need ...",
@@ -244,7 +296,7 @@
       "originalUrl": "https://www.indiatvnews.com/technology/news-microsoft-azure-communication-services-announced-651828",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 219,
       "tags": null,
       "images": [
         {
@@ -1161,57 +1213,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-intel-details-chips-designed-for-iot-and-edge-workloads.md",
-      "title": "Intel details chips designed for IoT and edge workloads",
-      "excerpt": "Intel is targeting the IoT and edge computing market with new processor products, including the Atom x6000E Series, Pentium, Celeron N, and J Series.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/23/intel-details-chips-designed-for-iot-and-edge-workloads/",
-      "originalUrl": "https://venturebeat.com/2020/09/23/intel-details-chips-designed-for-iot-and-edge-workloads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/intel-raja.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 642,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/23/intel-details-chips-designed-for-iot-and-edge-workloads/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/23/intel-details-chips-designed-for-iot-and-edge-workloads/amp/",
-      "publishedDateTime": "2020-09-23T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

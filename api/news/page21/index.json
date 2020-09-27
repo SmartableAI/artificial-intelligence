@@ -2,6 +2,57 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-09-09-researchers-data-set-pinpoints-challenges-adapting-speech-recognition-models-to-new-hardware.md",
+      "title": "Researchers’ data set pinpoints challenges adapting speech recognition models to new hardware",
+      "excerpt": "Researchers developed a data set -- Libra-Adapt -- designed to show the challenges in adapting voice recognition models to new devices and settings.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/09/researchers-data-set-pinpoints-challenges-adapting-speech-recognition-models-to-new-hardware/",
+      "originalUrl": "https://venturebeat.com/2020/09/09/researchers-data-set-pinpoints-challenges-adapting-speech-recognition-models-to-new-hardware/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/03/mvimg_20180316_123236-e1527729518370.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/09/researchers-data-set-pinpoints-challenges-adapting-speech-recognition-models-to-new-hardware/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/09/researchers-data-set-pinpoints-challenges-adapting-speech-recognition-models-to-new-hardware/amp/",
+      "publishedDateTime": "2020-09-09T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-09-conduent-teams-up-with-buoy-health-and-ibm-watson-health-to-help-its-clients-manage-covid-19-related-workplace-challenges.md",
       "title": "Conduent Teams Up with Buoy Health and IBM Watson Health to Help its Clients Manage COVID-19 Related Workplace Challenges",
       "excerpt": "Conduent Incorporated (Nasdaq: CNDT), a business process services and solutions company, today announced a collaboration with Buoy Health and IBM Watson Health to integrate both companies' cutting edge technologies and timely health care resources onto Conduent's Life@Work platform.",
@@ -1078,56 +1129,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-3-ways-ai-will-continue-to-accelerate-the-transition-to-remote-work.md",
-      "title": "3 Ways AI Will Continue To Accelerate The Transition To Remote Work",
-      "excerpt": "In response to the Covid-19 pandemic, businesses of all shapes and sizes have had to quickly adapt to remote work. Many experts predict that this year’s rapid transition to remote work constitutes a point of no return.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/falonfatemi/2020/09/09/3-ways-ai-will-continue-to-accelerate-the-transition-to-remote-work/",
-      "originalUrl": "https://www.forbes.com/sites/falonfatemi/2020/09/09/3-ways-ai-will-continue-to-accelerate-the-transition-to-remote-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f47310d25c1f0feb8c084b9%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D304%26cropY2%3D3679",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/falonfatemi/2020/09/09/3-ways-ai-will-continue-to-accelerate-the-transition-to-remote-work/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/falonfatemi/2020/09/09/3-ways-ai-will-continue-to-accelerate-the-transition-to-remote-work/amp/",
-      "publishedDateTime": "2020-09-08T21:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
