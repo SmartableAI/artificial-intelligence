@@ -1,28 +1,29 @@
 ---
 category: news
-title: "UCSD researches use artificial intelligence to predict loneliness in older adults"
-excerpt: "SAN DIEGO (CNS) – In a paper published Thursday, a team led by researchers at UC San Diego School of Medicine used artificial intelligence to analyze language patterns of older adults to discern ..."
-publishedDateTime: 2020-09-24T23:35:00Z
-originalUrl: "https://fox5sandiego.com/news/health/ucsd-researches-use-artificial-intelligence-to-predict-loneliness-in-older-adults/"
-webUrl: "https://fox5sandiego.com/news/health/ucsd-researches-use-artificial-intelligence-to-predict-loneliness-in-older-adults/"
-ampWebUrl: "https://fox5sandiego.com/news/health/ucsd-researches-use-artificial-intelligence-to-predict-loneliness-in-older-adults/amp/"
-cdnAmpWebUrl: "https://fox5sandiego-com.cdn.ampproject.org/c/s/fox5sandiego.com/news/health/ucsd-researches-use-artificial-intelligence-to-predict-loneliness-in-older-adults/amp/"
+title: "Artificial Intelligence Helps Predict Loneliness"
+excerpt: "In older adults, the use of artificial intelligence and natural language patterns (NLP) help discern degrees of loneliness, revealed research."
+publishedDateTime: 2020-09-27T04:03:00Z
+originalUrl: "https://www.medindia.net/news/artificial-intelligence-helps-predict-loneliness-197784-1.htm"
+webUrl: "https://www.medindia.net/news/artificial-intelligence-helps-predict-loneliness-197784-1.htm"
+ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-helps-predict-loneliness-197784-1.htm"
+cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-predict-loneliness-197784-1.htm"
 type: article
-quality: 52
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Fox 5 San Diego
-  domain: fox5sandiego.com
+  name: Medindia
+  domain: medindia.net
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://fox5sandiego.com/wp-content/uploads/sites/15/2020/09/GettyImages-1199677896.jpg?w=1280"
-    width: 1280
-    height: 853
+  - url: "https://images.medindia.net/amp-images/health-images/cataract-increases-risk-of-depression-in-older-adults.jpg"
+    width: 1200
+    height: 1000
     isCached: true
 
 related:
@@ -58,22 +59,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Artificial Intelligence Helps Predict Loneliness"
-    excerpt: "In older adults, the use of artificial intelligence and natural language patterns (NLP) help discern degrees of loneliness, revealed research."
-    publishedDateTime: 2020-09-27T04:03:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-helps-predict-loneliness-197784-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-helps-predict-loneliness-197784-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-predict-loneliness-197784-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 59
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/cataract-increases-risk-of-depression-in-older-adults.jpg"
-        width: 1200
-        height: 1000
-        isCached: true
   - title: "UCSD Team Uses Artificial Intelligence to Predict Loneliness in Older Adults"
     excerpt: "Participants were interviewed by trained study staff in unstructured conversations that were analyzed using NLP-understanding software, plus other machine-learning tools"
     publishedDateTime: 2020-09-24T21:41:00Z
@@ -89,6 +74,22 @@ related:
       - url: "https://media.nbcsandiego.com/2019/09/GettyImages-1185422927.jpg?resize=1200%2C675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "UCSD researches use artificial intelligence to predict loneliness in older adults"
+    excerpt: "SAN DIEGO (CNS) – In a paper published Thursday, a team led by researchers at UC San Diego School of Medicine used artificial intelligence to analyze language patterns of older adults to discern ..."
+    publishedDateTime: 2020-09-24T23:35:00Z
+    webUrl: "https://fox5sandiego.com/news/health/ucsd-researches-use-artificial-intelligence-to-predict-loneliness-in-older-adults/"
+    ampWebUrl: "https://fox5sandiego.com/news/health/ucsd-researches-use-artificial-intelligence-to-predict-loneliness-in-older-adults/amp/"
+    cdnAmpWebUrl: "https://fox5sandiego-com.cdn.ampproject.org/c/s/fox5sandiego.com/news/health/ucsd-researches-use-artificial-intelligence-to-predict-loneliness-in-older-adults/amp/"
+    type: article
+    provider:
+      name: Fox 5 San Diego
+      domain: fox5sandiego.com
+    quality: 52
+    images:
+      - url: "https://fox5sandiego.com/wp-content/uploads/sites/15/2020/09/GettyImages-1199677896.jpg?w=1280"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Artificial intelligence analyzes natural language patterns to discern degrees of loneliness"
     excerpt: "For the past couple of decades, there has been a loneliness pandemic, marked by rising rates of suicides and opioid use, lost productivity, increased health care costs and rising mortality."
@@ -137,6 +138,6 @@ related:
         height: 675
         isCached: true
 
-secured: "Qwn05zRyvugYagfLU3nrWHQSemSLi1DfcVSGOwH/7yQFVoEkl0kLP8d/BdzYU+5TReoaLF2A8BJ9juEtwKmsqLPX04L7L1JlOlZhvi5p9+3PCgbcGh6VdYmZHYzYNCM8n3eRn1yLK6iTXka1xpicXBWYHGDhPIQ2qiDOkSWCfh7d+owk8+q3ShqHNfNOEsdq1xg6YTtWJGej10Gs3u8rKDVcF2yDQ+nzgSJ7SweDoYbjqB7Sl4V/2+mowcGt5dqafAyqzUHZrLbJh2uUyJbK6lL0TJkfTwgTpDw9G7ZVEJsMPC+FrH7x4GWS8Ig4wDziPDQzWLUl1iaOwdNSDNsXbj0d3d1ygvmCfsSv5/Kaa/KKNeaZKBEq+OsyS6iV6UpQvRGPA8PSGij8crThFPK3gnAWJmWQsnw48T/JKDCAh2G6PKtH8Ls37EH0s/3OHIGf5ymoGr/i54oFXRTVgXxyn4vXKsinVQ/K19NydrQVM6PYibm3G7Ewn3VTtjmWVdtuoeAQPcG0Ir3UJhaP3JcbJw==;xM7TIPcoLuSDVO0znRDjkA=="
+secured: "F7Kl8fnKMTxbFpnNgSiKWDiV8Qk+y+OIIP3WZRC+18HQDz1+5xPUsL+MkJFOPXqLIbBWzfeX/ptnL/98Vn4gwhDsc6Dk0gC+1pjJE1gsz4EovESCkcZfrPIPvMftfn526tYMzKdEzOz9nN32z+M5MLYOfhV2LTHcnimSvFsvB+EozpAb7kAgGuTrycvfvczRDX5jqGEll8hJAFWlrhqPuhaYUK6Xtal4bTbMxitM871h/vito9h/LggxAb8PS+xXABWqY4U/0U1RtMGczTJueKQqQay2h1jssGW282db4tqG1KmCA/zPLwMtXiu7AjlnfhU90BF0jhpyi8ifJ6pa045n30yLhX0uh9y7LS2GRw4=;mygRN+9/L0KA3AEKyX26ng=="
 ---
 

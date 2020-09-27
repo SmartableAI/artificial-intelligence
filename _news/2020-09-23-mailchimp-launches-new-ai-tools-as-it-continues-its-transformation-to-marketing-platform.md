@@ -60,15 +60,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Recruiter.com Announces New Artificial Intelligence Platform"
-    excerpt: "HOUSTON, Sept. 22, 2020 (GLOBE NEWSWIRE) -- Recruiter.com Group, Inc. (OTCQB: RCRT) (\"Recruiter.com\"), a leading online hiring platform, announced the launch of its artificial intelligence (\"AI\") powered candidate sourcing technology. Recruiter.com's ..."
-    publishedDateTime: 2020-09-22T13:40:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2020/09/22/recruiter-com-announces-new-artificial-intelligence-platform"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 17
 
 secured: "c5FNINAftESP0xkWBngBW8ea8VQZ50Yqy2Zqin6W5/O4vFha7IpLCe7N7IRI4Yu94eOI2Cth/+xNnVweyQOL+v+h5bOgDvvs6/7wUI+0SpiuxYuLK0QQ6qQzZaY+gvG21X4JV8jorO//4kWlpGNH/NRnhb4Z49dCQnnu8xG2UYNjf6A2qvjbxN1Tz6H/jnAHTefbySN8IqrEFEVOtPhGUxKnxise4vnavG8Zgd/LwKaw8zD5ud4QfSz8OknS1FXo4WvsrVmegdyKrZUpV6WZXMr2rwLMVz8WdGK2KsBDXaSZUIozakOZpd3EcYlxKbPKQcGZ6j0/WFQXC9TYQywsCbV7TwhtPs3s4Sms55YqGqZuabCpM0D+0E1+3/VR1onmUnF6z1YaymCkhslmmGsuaFnD75vmtRdMNhkTTGMNge0/ft+adLuar4wCizYgnBCfLEO9BrAcL7tXKgil+g4V+mLdCuQpIrMmYRUfcNhyAsj9McQfzkPYwGBeB4Lf39qD5ShHxKzwTas0Uaf1qoxxTQ==;+wNlqB1l5SOtHnKQTuQZug=="
 ---

@@ -2,56 +2,6 @@
   "page": 71,
   "value": [
     {
-      "path": "_news/2020-08-03-fifty-years-after-designing-electric-lady-studios-architect-cuts-new-track-with-ai.md",
-      "title": "Fifty Years After Designing Electric Lady Studios, Architect Cuts New Track With AI",
-      "excerpt": "Architect and acoustician John Storyk, known for designing recording and performance spaces around the world, was frustrated by the limits of the software at his firm’s disposal. So last year, he and his research and development director decided to build their own.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/fifty-years-after-designing-electric-lady-studios-architect-cuts-new-track-with-ai-11596457800",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-215878/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/fifty-years-after-designing-electric-lady-studios-architect-cuts-new-track-with-ai-11596457800",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/fifty-years-after-designing-electric-lady-studios-architect-cuts-new-track-with-ai-11596457800",
-      "publishedDateTime": "2020-08-03T05:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-03-13-tech-experts-share-exciting-uses-of-human-centered-ai.md",
       "title": "13 Tech Experts Share Exciting Uses Of Human-Centered AI",
       "excerpt": "As this technology develops and becomes more integrated into our daily lives, the future of human-centered AI is looking brighter than ever. Below, the members of Forbes Technology Council share 13 exciting future uses of human-centered AI to keep an eye on.",
@@ -1134,6 +1084,56 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-01-myth-busting-ai-wont-work.md",
+      "title": "Myth-busting AI won’t work",
+      "excerpt": "Myths, including myths about AI, arise in response to the unknown. Debunking myths about AI won’t create knowledge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/myth-busting-ai-wont-work/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/08/01/79dd38d2-7072-4e11-a8b7-2755479c63c4/ai-hype-machine-july-2020.jpg",
+          "width": 4420,
+          "height": 3890,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/myth-busting-ai-wont-work/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/myth-busting-ai-wont-work/",
+      "publishedDateTime": "2020-08-01T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

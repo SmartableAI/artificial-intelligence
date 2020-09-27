@@ -32,20 +32,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Ibex Medical Analytics Wins UK Award to Accelerate Adoption of AI-Powered Cancer Detection in the NHS"
-    excerpt: "Ibex Medical Analytics, the pioneer in artificial intelligence (AI)-based cancer diagnostics, has won a share of a £50 million fund as part"
-    publishedDateTime: 2020-09-22T13:56:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/ibex-medical-analytics-wins-uk-award-to-accelerate-adoption-of-ai-powered-cancer-detection-in-the-nhs-834621669.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 22
-    images:
-      - url: "https://mma.prnewswire.com/media/677339/Ibex_Medical_Analytics_Logo.jpg?p=facebook"
-        width: 1000
-        height: 524
-        isCached: true
   - title: "Maru Launches Conversational AI Analytics Tool"
     excerpt: "Tech-enabled insights group Maru has launched Conversational AI, an intelligent, device-agnostic feedback tool, as part of its Maru/HUB platform. Maru says the tool - available across messaging platforms including WhatsApp and Facebook Messenger to enhance familiarity for audiences - allows researchers and marketers to combine conversational feedback with its existing research technologies and traditional survey approaches for a more holistic understanding of consumer response."
     publishedDateTime: 2020-09-23T00:42:00Z

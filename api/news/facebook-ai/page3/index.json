@@ -2,57 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-08-06-ai-models-need-to-be-interpretable-rather-than-just-explainable.md",
-      "title": "AI models need to be ‘interpretable’ rather than just ‘explainable’",
-      "excerpt": "Apple ran into trouble after customers pointed out on Twitter that its credit card service was discriminating against women. David Heinemeir Hansson, the creator of Ruby on Rails, called Apple Card a sexist program.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/08/06/ai-models-need-to-be-interpretable-rather-than-just-explainable/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/1-2-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/08/06/ai-models-need-to-be-interpretable-rather-than-just-explainable/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/06/ai-models-need-to-be-interpretable-rather-than-just-explainable/amp/",
-      "publishedDateTime": "2020-08-06T01:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-05-researchers-say-we-need-better-benchmarks-to-build-more-useful-ai-assistants.md",
       "title": "Researchers say we need better benchmarks to build more useful AI assistants",
       "excerpt": "AI researchers from Element AI, Stanford University, and CIFAR recommend more useful forms of AI that speak with people to get things done.",
@@ -1452,6 +1401,58 @@
         "AI",
         "Facebook AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-07-11-prepare-for-artificial-intelligence-to-produce-less-wizardry.md",
+      "title": "Prepare for Artificial Intelligence to Produce Less Wizardry",
+      "excerpt": "Early last year, a large European supermarket chain deployed artificial intelligence to predict what customers would buy each day at different stores, to help keep shelves stocked while reducing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/prepare-artificial-intelligence-produce-less-wizardry/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f0663989798446ce8080282/191:100/w_1280,c_limit/business_artificial-intelligence_687292162.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/prepare-artificial-intelligence-produce-less-wizardry/",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/prepare-artificial-intelligence-produce-less-wizardry/",
+      "publishedDateTime": "2020-07-11T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

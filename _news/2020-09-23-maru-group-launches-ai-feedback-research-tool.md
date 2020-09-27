@@ -9,8 +9,8 @@ ampWebUrl: "https://www.research-live.com/amp-page.html?id=5074362&name=maru-gro
 cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5074362&name=maru-group-launches-ai-feedback-research-tool"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: research
@@ -36,20 +36,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 38
-  - title: "Maru Group launches Conversational AI feedback tool on proprietary insights platform Maru/HUB"
-    excerpt: "(GLOBE NEWSWIRE) -- Maru Group (‘Maru’), the global technology-enabled market research and customer insights company, have announced the launch of Maru/HUB Conversational AI, an intelligent, device-agnostic feedback tool."
-    publishedDateTime: 2020-09-22T14:00:00Z
-    webUrl: "https://apnews.com/globe-newswire/4ebe5953752817cb5c53bf3b0849d98c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 28
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "Ukq0oPjoGY7/ymmxvlDVjPbaSB8s3ISiq24dC1saYjpfxRJR26mldynmpY80pHuvu746Ma3cvxWV1aCD2810wBVXMbB4l9RRUjJqhCzIrvlNCrplIEKLR7Eoq+4rLNV81QVgC3z9qlicNaLXQLSVOdMj1SYbve6Od1QETKl0Mc3LUIyu+k0U7pd6byKgt21LWvedgtnCfrGUnHHkmVGJvsfaSuxJO9wYHpzNs9u3fva7SsP13IkDKfF/lDf/OT+k9vJdxEIwX85tzWgtIAag/zm7d+TaUW134U/aWiKE+jWDQY4ohiAkOYXcoSL74HuIMoLFZBEEdb5enI+pSzINckX1FL0Rg24mfQ6TFzm7jXUyNckQVQ3JL+2JQGtoe2KptIhU5tOZNqnftdulY0H/GMHedVEt64Jq3SLK1lv7ZNDPP461/5XV6vwIJP+FCsWbAEGvND5fZO4pyIUFy9qoHEkFVfJqlMTPQ7yvbItPiautv6mMwZKALZkGQVRrTJLD/4GPLFajYu1viTluf/vdCw==;l9MhNt4fbxSzs+xba3/olw=="
 ---

@@ -33,20 +33,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Ibex Medical Analytics Wins UK Award to Accelerate Adoption of AI-Powered Cancer Detection in the NHS"
-    excerpt: "Ibex Medical Analytics, the pioneer in artificial intelligence (AI)-based cancer diagnostics, has won a share of a £50 million fund as part"
-    publishedDateTime: 2020-09-22T13:56:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/ibex-medical-analytics-wins-uk-award-to-accelerate-adoption-of-ai-powered-cancer-detection-in-the-nhs-834621669.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 22
-    images:
-      - url: "https://mma.prnewswire.com/media/677339/Ibex_Medical_Analytics_Logo.jpg?p=facebook"
-        width: 1000
-        height: 524
-        isCached: true
   - title: "True North: Pioneering Analytics, Algorithms and Artificial Intelligence"
     excerpt: "True North initiated the “Analytics, Algorithms and Artificial Intelligence” (3A) project. A system, Kelp, was designed and developed internally to facilitate the transformation of True North into an AI-first firm based on the introduction of data ..."
     publishedDateTime: 2020-09-23T12:11:00Z

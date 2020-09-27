@@ -3,8 +3,8 @@ category: news
 title: "GOWIN Semiconductor Launches GoAI 2.0 for Embedded Machine Learning Inference"
 excerpt: "GOWIN Semiconductor Corp., the world’s fastest-growing programmable logic company, releases the latest version of their GoAI machine learning platform, providing an SDK and accelerator to perform machine learning for edge inference using convolutional neural networks on GOWIN FPGAs."
 publishedDateTime: 2020-09-21T07:00:00Z
-originalUrl: "https://apnews.com/globe-newswire/d1e2636d66efe74334839d6e7f1fded5"
-webUrl: "https://apnews.com/globe-newswire/d1e2636d66efe74334839d6e7f1fded5"
+originalUrl: "https://apnews.com/globenewswire-mobile/d1e2636d66efe74334839d6e7f1fded5"
+webUrl: "https://apnews.com/globenewswire-mobile/d1e2636d66efe74334839d6e7f1fded5"
 type: article
 
 provider:
@@ -12,9 +12,9 @@ provider:
   domain: apnews.com
 
 topics:
-  - Machine Learning
-  - AI
   - Google AI
+  - AI
+  - Machine Learning
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -22,6 +22,6 @@ images:
     height: 450
     isCached: true
 
-secured: "5KFqe6c0YQeUxk/sI2GnONg0cV47QKNeE73oKgjCgsu0RP/vtecWzmxNDfyVsCxcOkut2giO2ICpSF0nieyYZyArEcbUR8scTRYyAa36oay+D5wZ7LmB3GgMFXRRJfWz8DAM22ojxHj9WbFo4+ZDQX2GgunXfo5fj4mjoHo2ZtdWeZcqo8jSUkX3Gxdbxf2veL7WDmCbmyPzMY+dg6En/XynMKZoD9VKNNXqHWHIvQMmU5Ha8v5qIVK1JrIQyiy+VBrXLxPh6uPyZrHZ41cikXUAEx+crQmCwY8ExOclaB+1RZObpwITXwoaB4LPOKbSBrFnzDFiV57nU1tMA5b82ge9hK1+gngl6Z7cr56DE7w=;ThL/ULXwBwGWJ8swIqI/XA=="
+secured: "xAle2IKqyMHD7+u4zy8OotUcj2NHUXnvhiYoNR7yJah88dL4U1s0de0zn+V7MGfTtQYe41RyO7hy/T8M9TPjMuYr6tLqg0clhR/ELXJ9FMCjsd4/4j3cQLLTwKrgGoQpOehAMwvvgDl9tt+bRA1Ar0iqh+dNgWYP7e1LqFV9AD72QFcFlZuvoUptfec6Ha4B9IspMrKZX0BckSf/W7yQt4M5HmjmdtUm3w6aV9M2zqHzvCOBvVqpcVeNPgUV5rnm4dZImloWPFc6DN9LjoD3E0sVEjzqtwoutGRsZfKPFFiFolH6BvNrLY2cxfsaLN7ERDIdsUmPrCPDiD0Of3xmhfQwe+dR443O8UadVPpPEQ0=;lr14lAyog42wGsesUPHsqA=="
 ---
 

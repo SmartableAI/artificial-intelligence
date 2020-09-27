@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/worldeconomicforum/2020/09/23/how-ai-co
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/worldeconomicforum/2020/09/23/how-ai-could-feed-the-worlds-hungry-while-sustaining-the-planet/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

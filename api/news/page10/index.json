@@ -2,56 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2020-09-17-do-algorithms-dreams-of-electric-speech-what-virtual-philip-k-dick-can-teach-us-about-ai.md",
-      "title": "Do Algorithms Dreams Of Electric Speech? What Virtual Philip K. Dick Can Teach Us About AI",
-      "excerpt": "\"It seems to me that it is really impossible that it could be me.\" What can a conversation between a virtual Philip K Dick and Dr. Ben Goertzel, one of the world's leading AI researchers, teach us about the playful nature of advanced AI development?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charlestowersclark/2020/09/16/do-algorithms-dreams-of-electric-speech-what-virtual-philip-k-dick-can-teach-us-about-ai/",
-      "originalUrl": "https://www.forbes.com/sites/charlestowersclark/2020/09/16/do-algorithms-dreams-of-electric-speech-what-virtual-philip-k-dick-can-teach-us-about-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f62530595ae669ac72329e4%2F0x0.jpg",
-          "width": 1200,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charlestowersclark/2020/09/16/do-algorithms-dreams-of-electric-speech-what-virtual-philip-k-dick-can-teach-us-about-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlestowersclark/2020/09/16/do-algorithms-dreams-of-electric-speech-what-virtual-philip-k-dick-can-teach-us-about-ai/amp/",
-      "publishedDateTime": "2020-09-16T11:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-17-facebook-employees-will-soon-be-wearing-ar-research-glasses-around-town.md",
       "title": "Facebook employees will soon be wearing AR research glasses around town",
       "excerpt": "The employees are gathering data about how the glasses perceive the world and what kind of privacy considerations they may need to make people feel comfortable around them.",
@@ -1197,6 +1147,39 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-16-ai-ethics-groups-repeating-one-of-societys-mistakes.md",
+      "title": "A.I. Ethics Groups Repeating One of Society's Mistakes",
+      "excerpt": "International organizations and corporations are racing to develop global guidelines for the ethical use of artificial intelligence. Declarations, manifestos, and recommendations are flooding the internet. But these efforts will be futile if they fail to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearscience.com/2020/09/16/ai_ethics_groups_repeating_one_of_society039s_mistakes_292251.html#!",
+      "originalUrl": "https://www.realclearscience.com/2020/09/16/ai_ethics_groups_repeating_one_of_society039s_mistakes_292251.html#!",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-15T21:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearScience",
+        "domain": "realclearscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     }

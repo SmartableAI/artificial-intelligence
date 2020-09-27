@@ -111,22 +111,6 @@ related:
         width: 980
         height: 597
         isCached: true
-  - title: "Azure Communications Services is Microsoft's new managed communication platform"
-    excerpt: "... Services uses the same secure platform that powers Microsoft Teams and is built natively on top of Azure. Developers can easily tap into other Azure services, such as Azure Cognitive Services for translation, sentiment analysis, and more. Also, all ..."
-    publishedDateTime: 2020-09-22T14:59:00Z
-    webUrl: "https://www.neowin.net/news/azure-communications-services-is-microsofts-new-managed-communication-platform"
-    ampWebUrl: "https://www.neowin.net/amp/azure-communications-services-is-microsofts-new-managed-communication-platform/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/azure-communications-services-is-microsofts-new-managed-communication-platform/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 100
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2020/09/1600721129_azure_at_ignite_2020_(2)_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "A Microsoft-powered instant two-way translator"
     excerpt: "A universal translator that allows instantaneous communication between speakers of different languages. The TARDIS does it in Doctor Who, the babble fish serves that function in The Hitchhiker's Guide to the Galaxy,"
     publishedDateTime: 2020-09-24T11:00:00Z
@@ -191,17 +175,6 @@ related:
         width: 1200
         height: 678
         isCached: true
-  - title: "Microsoft aims to grow Azure's footprint, resiliency with more availability zones and new services"
-    excerpt: "Microsoft is bringing on board two more Azure Availability Zones, readying an Azure Resource Mover service aimed at those who care about data residency, and previewing its Azure Orbital service for satellite operators."
-    publishedDateTime: 2020-09-22T15:00:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-aims-to-grow-azures-footprint-resiliency-with-more-availability-zones-new-services/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-aims-to-grow-azures-footprint-resiliency-with-more-availability-zones-new-services/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-aims-to-grow-azures-footprint-resiliency-with-more-availability-zones-new-services/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
   - title: "Microsoft at Ignite: Additions to Azure, Teams App and More"
     excerpt: "Microsoft MSFT announced major developments to its Teams ... It can also leverage other features of the platform including Azure Cognitive Services. The communication service is encrypted and adheres to HIPAA (Health Insurance Portability and ..."
     publishedDateTime: 2020-09-23T16:23:00Z

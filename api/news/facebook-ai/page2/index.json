@@ -2,48 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-08-26-ut-gets-20m-to-focus-on-ai-technology-and-lead-research-institute.md",
-      "title": "UT gets $20M to focus on AI technology and lead research institute",
-      "excerpt": "The University of Texas at Austin will become a research hub for the next generation of machine learning and artificial intelligence technology, after it",
-      "sourceUrl": null,
-      "webUrl": "https://www.statesman.com/business/20200826/ut-gets-20m-to-focus-on-ai-technology-and-lead-research-institute",
-      "originalUrl": "https://www.statesman.com/business/20200826/ut-gets-20m-to-focus-on-ai-technology-and-lead-research-institute",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20200826&Category=BUSINESS&ArtNo=200829244&Ref=AR",
-          "width": 1627,
-          "height": 1170,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.statesman.com/business/20200826/ut-gets-20m-to-focus-on-ai-technology-and-lead-research-institute?template=ampart",
-      "cdnAmpWebUrl": "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/business/20200826/ut-gets-20m-to-focus-on-ai-technology-and-lead-research-institute?template=ampart",
-      "publishedDateTime": "2020-08-26T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Austin American-Statesman",
-        "domain": "statesman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-25-two-left-feet-facebooks-new-ai-dance-choreographer-can-teach-you-some-brand-new-moves.md",
       "title": "Two left feet? Facebook’s new AI dance choreographer can teach you some brand new moves",
       "excerpt": "Facebook's AI boffins have developed a new system that creates original dance routines for any music that you feed it.",
@@ -1458,6 +1416,57 @@
       "topics": [
         "Facebook AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-06-ai-models-need-to-be-interpretable-rather-than-just-explainable.md",
+      "title": "AI models need to be ‘interpretable’ rather than just ‘explainable’",
+      "excerpt": "Apple ran into trouble after customers pointed out on Twitter that its credit card service was discriminating against women. David Heinemeir Hansson, the creator of Ruby on Rails, called Apple Card a sexist program.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/08/06/ai-models-need-to-be-interpretable-rather-than-just-explainable/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/1-2-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/08/06/ai-models-need-to-be-interpretable-rather-than-just-explainable/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/06/ai-models-need-to-be-interpretable-rather-than-just-explainable/amp/",
+      "publishedDateTime": "2020-08-06T01:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
       ]
     }
   ],

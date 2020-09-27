@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/24/in-facial-recognition-challenge-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/amp/"
 type: article
 quality: 97
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
       name: Fox 5 NY
       domain: fox5ny.com
     quality: 24
+  - title: "NEC Face Recognition Engine Provides Highly Accurate Results Even when Face Masks are Worn"
+    excerpt: "NEC Corporation today announced the strengthening of its face recognition technology, already recognized as the world's most accurate (*1), with the development of a new face recognition engine that provides high-precision certification even when masks are ..."
+    publishedDateTime: 2020-09-24T20:27:00Z
+    webUrl: "https://www.newswiretoday.com/news/173757/NEC-Face-Recognition-Engine-Provides-Highly-Accurate-Results-Even-when-Face-Masks-are-Worn/"
+    type: article
+    provider:
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 9
 
 secured: "Zc/1+F25lZOU6hirx3SkevqZ/J+IGTqWQi6GlhdIwXPgBRPPU0Grb4z3VPaTMo+E/DrQ6drJZcFS6QRwyuV0IVeqhamrm3+iHr4gxOASpNH2g+Ws40QYDpRGj+H9lwb4/sNwip6Dae0mqM0zq+8BUI+IcZdY69Wn9DadiRvM+GHi9QyzgmnuRRC1d+s5Vxw6V2aEx7F9r/LKrXZAZQ5nUNcKifaGVUOkf4zW3NMto2GDV+lxG34m1vD5iLy3XOKTljtoaZfNT/TKB2T01aDWidfSlfu2zAqrRdK+xqPrLmTu/Oz/ijHDOMwT5JSU/S59XtubAi78dNk2/Qdli3syw//+kR9nwH5j5NIzd4Jo6zUGt3q3/qL+Fb1eUYgGn7ykBK19NSigPGizk8VZZYFs55tmSV6E6vjdhcoQrh7ku1jxU6a1kL/khAaEXA5ymZcZH0zk9Gua3kHQzknC3rRno3tuMUOyjTCdWDwOzUiWIRffV3oE+ZrpiPCkBH+L4/Nmh2U55JJjVF8xK9MBdx5LPg==;lFqGnOrl3Kawl5z0Wx0BdQ=="
 ---

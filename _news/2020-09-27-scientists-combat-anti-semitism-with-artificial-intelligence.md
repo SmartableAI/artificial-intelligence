@@ -9,8 +9,8 @@ ampWebUrl: "https://www.beaumontenterprise.com/news/amp/Scientists-combat-anti-S
 cdnAmpWebUrl: "https://www-beaumontenterprise-com.cdn.ampproject.org/c/s/www.beaumontenterprise.com/news/amp/Scientists-combat-anti-Semitism-with-artificial-15584227.php"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: The Beaumont Enterprise
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Scientists around the world join forces to combat anti-Semitism with artificial intelligence"
-    excerpt: "BERLIN — An international team of scientists said Monday it had joined forces to combat the spread of anti-Semitism online with the help of artificial intelligence. The project Decoding Anti ..."
-    publishedDateTime: 2020-09-22T13:43:00Z
-    webUrl: "https://nypost.com/2020/09/22/scientists-combat-anti-semitism-with-artificial-intelligence/"
-    ampWebUrl: "https://nypost.com/2020/09/22/scientists-combat-anti-semitism-with-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/09/22/scientists-combat-anti-semitism-with-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 46
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/09/anti-semitism-31.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "This extraordinary AI has stunned computer scientists with its writing ability"
     excerpt: "OpenAI, a for-profit company under a nonprofit parent company, has built a language generation program dubbed GPT-3, an acronym for “Generative Pre-trained Transformer 3.” Its ability to learn, summarize,"
     publishedDateTime: 2020-09-25T14:00:00Z

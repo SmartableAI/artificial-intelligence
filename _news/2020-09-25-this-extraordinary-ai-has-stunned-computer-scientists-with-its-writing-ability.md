@@ -41,22 +41,6 @@ related:
         width: 375
         height: 211
         isCached: true
-  - title: "Scientists around the world join forces to combat anti-Semitism with artificial intelligence"
-    excerpt: "BERLIN — An international team of scientists said Monday it had joined forces to combat the spread of anti-Semitism online with the help of artificial intelligence. The project Decoding Anti ..."
-    publishedDateTime: 2020-09-22T13:43:00Z
-    webUrl: "https://nypost.com/2020/09/22/scientists-combat-anti-semitism-with-artificial-intelligence/"
-    ampWebUrl: "https://nypost.com/2020/09/22/scientists-combat-anti-semitism-with-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/09/22/scientists-combat-anti-semitism-with-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 46
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/09/anti-semitism-31.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "pyK9VE4vd0pLEGiRsIQsIhSEpZVe0mt2zjY+1y8/j5FL8mrpwSf9bKZa9dEjnPlTQhs5D/PMWh0DahO7XU1oRsAByD3rjHiNvnrW1AUUbwA2K8SNVGyVUY7ox+FSRSkclyx+vjw+TN3WgiMhCkfyk/apohHp7a4NuoSZTrQYJB9vkb+TENZ4lpHcF4w+Nvwqo7SEuNvIJudkXQcl3XIOo7CAcoNwUJO+dltHoDTRiS9nAqv8LB5Ufj4vLReWUuSoDAGF3mPFtE1LX2z80Qk3mJQy1GsAA+pNHAWLVROSAw7WHyJQCbogMF1rW8auFmBEqLA6jUmWa2xZtofLwxTqzEGMjpM2JNn63Nwl/KJeviA=;0Y1xTQWoHFMk22uM1fhC0Q=="
 ---

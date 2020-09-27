@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2020/09/23/South-Korea-t
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/09/23/South-Korea-tech-giants-expanding-robotics-amid-COVID-19/3121600883704/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator.com/news/market-trends/from-biotech-to-robotics-ftw-ventures-talks-food-tech-in-the-era-of-covid/11790650-1-eng-GB/From-biotech-to-robotics-FTW-Ventures-talks-food-tech-in-the-era-of-COVID.jpg"
         width: 1000
         height: 750
-        isCached: true
-  - title: "AI Aiding DOD in Early Detection of COVID-19, Say Technologists"
-    excerpt: "The Defense Threat Reduction Agency and Defense Innovation Unit are applying commercial technology for early detection of the Severe Acute Respiratory Syndrome Coronavirus 2, which causes the COVID-19"
-    publishedDateTime: 2020-09-22T14:51:00Z
-    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2356086/ai-aiding-dod-in-early-detection-of-covid-19-say-technologists/"
-    type: article
-    provider:
-      name: US Department of Defense
-      domain: defense.gov
-    quality: 37
-    images:
-      - url: "https://media.defense.gov/2020/Sep/22/2002502651/1280/1280/0/200921-O-ZZ999-004.JPG"
-        width: 1280
-        height: 1002
         isCached: true
 
 secured: "r9iC9tlu6biIp9FCDH+Iv6Dohw89INCTMQ2Sh6JUUaYW8zlbLbpN5hBjnBe3KRv6UJva2CrUgrkVpPqUVONGihYNhRobcVpTlf6ivshiscPlC4hhM+USvkiZImygYZmokIknagxWhGL376VHzKkDoccXlUl++borw5r0cXa8hN4Uh1A+XIsryGNxbDtz20oIw6WMS1/rmUSKYRqZoybwv28FoibGeBCYvye3mtZeLzZdb3u0FWM7w/1svUgVRaW0Dfw8t7VUUO4AsPUrz83Dj9UrorFkxcMusOGiBwEoH2JM0Z/hnrlpv41nL0mg/lAE+afgHAwh99yX+DKX/KWLjhIppedLkzUDvWgUdQjDzYbiw4f1oBY4J4y1cjM4PbF9FUqACM3v8p5UtyOyXz3ubc5NmSB7Qv8EbvX/tHIqmL3HczarpOwm/0t7jr6iC/H3+IA6b1s2XdiqGJiz0B7ZhFEBBQS8JRezWR2re6nBQ/KOE6P0QFCWEWjqlnzijhE7bK7H1ra1ksiArJroqVSXgw==;qu/xkFs7zXokn2/HhSplsg=="

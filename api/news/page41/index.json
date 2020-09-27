@@ -2,56 +2,6 @@
   "page": 41,
   "value": [
     {
-      "path": "_news/2020-08-26-ponyai-inks-robo-taxi-fleet-maintenance-partnership-with-bosch.md",
-      "title": "Pony.ai inks robo-taxi fleet maintenance partnership with Bosch",
-      "excerpt": "Self-driving car startup Pony.ai announced Bosch as a vehicle fleet maintenance partner. The two launched a pilot in San Francisco earlier this year.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/26/pony-ai-inks-robo-taxi-fleet-maintenance-partnership-with-bosch/",
-      "originalUrl": "https://venturebeat.com/2020/08/26/pony-ai-inks-robo-taxi-fleet-maintenance-partnership-with-bosch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/08/ad1de834-abf3-471e-b4cc-3408c731b4f4-e1566788588385.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/26/pony-ai-inks-robo-taxi-fleet-maintenance-partnership-with-bosch/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/26/pony-ai-inks-robo-taxi-fleet-maintenance-partnership-with-bosch/amp/",
-      "publishedDateTime": "2020-08-26T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-26-coronation-see-the-haunting-trailer-for-ai-weiweis-movie-about-chinas-lockdown.md",
       "title": "Coronation: See the haunting trailer for Ai Weiwei's movie about China's lockdown",
       "excerpt": "The Chinese artist and activist directed and produced the documentary from Europe, with ordinary citizens in Wuhan providing footage. It's streaming now.",
@@ -1170,6 +1120,39 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-26-speech-and-voice-recognition-technology-market-2020-global-analysis-opportunities-and-forecast-to-2025.md",
+      "title": "Speech and Voice Recognition Technology Market 2020 Global Analysis, Opportunities And Forecast To 2025",
+      "excerpt": "10.13.4 BioTrust (Netherlands) Revenue in Speech and Voice Recognition Technology Business (2015-2020)",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/08/ab17235849/speech-and-voice-recognition-technology-market-2020-global-analysis-opportunities-and-forecast-to",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/08/ab17235849/speech-and-voice-recognition-technology-market-2020-global-analysis-opportunities-and-forecast-to",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17235849",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17235849",
+      "publishedDateTime": "2020-08-25T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     }

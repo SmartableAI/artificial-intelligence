@@ -61,7 +61,7 @@
       "originalUrl": "https://venturebeat.com/2020/09/25/google-launches-ai-platform-prediction-in-general-availability/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -337,6 +337,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-global-chipmaker-qualcomm-announces-snapdragon-750g-chip-with-5g-connectivity.md",
+      "title": "Global Chipmaker Qualcomm announces Snapdragon 750G chip with 5G connectivity",
+      "excerpt": "Global chipmaker Qualcomm has announced Snapdragon 750G 5G Mobile Platform that enables global 5G connectivity with HDR gaming and on-device AI.Snapdragon 750G offers",
+      "sourceUrl": null,
+      "webUrl": "https://english.madhyamam.com/technology/global-chipmaker-qualcomm-announces-snapdragon-750g-chip-with-5g-connectivity-574863",
+      "originalUrl": "https://english.madhyamam.com/technology/global-chipmaker-qualcomm-announces-snapdragon-750g-chip-with-5g-connectivity-574863",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://english.madhyamam.com/h-upload/2020/09/23/698411-qualcomm-hq-5-web.jpg",
+          "width": 1798,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://english.madhyamam.com/amp/technology/global-chipmaker-qualcomm-announces-snapdragon-750g-chip-with-5g-connectivity-574863",
+      "cdnAmpWebUrl": "https://english-madhyamam-com.cdn.ampproject.org/c/s/english.madhyamam.com/amp/technology/global-chipmaker-qualcomm-announces-snapdragon-750g-chip-with-5g-connectivity-574863",
+      "publishedDateTime": "2020-09-23T00:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Madhyamam",
+        "domain": "madhyamam.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1383,57 +1425,6 @@
         "name": "ARN",
         "domain": "arnnet.com.au",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-brit-chip-maker-arm-gets-snapped-up-by-us-graphics-giant-nvidia.md",
-      "title": "Brit chip maker Arm gets snapped up by US graphics giant Nvidia",
-      "excerpt": "Nvidia has confirmed that it's acquiring UK chip maker Arm from Japanese owner SoftBank in a US$40 billion deal made up of a combination of shares and cash, though the move is yet to undergo regulatory scrutiny.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/mobile-technology/arm-softbank-nvidia-sale/",
-      "originalUrl": "https://newatlas.com/mobile-technology/arm-softbank-nvidia-sale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/6fa6852/2147483647/strip/true/crop/5724x3816+0+92/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F98%2Fd1%2Fb28a26944295b7329537136cce85%2Fdepositphotos-354903224-xl-2015.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/mobile-technology/arm-softbank-nvidia-sale/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/mobile-technology/arm-softbank-nvidia-sale/?amp=true",
-      "publishedDateTime": "2020-09-14T06:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

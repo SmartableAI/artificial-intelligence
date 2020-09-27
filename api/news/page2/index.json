@@ -2,48 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-09-25-microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.md",
-      "title": "Microsoft Ignite showcases first Project Cortex AI tool for SharePoint",
-      "excerpt": "Civil engineering firm Mott McDonald has been testing SharePoint Syntex, the first product to come out of Microsoft’s Project Cortex proving ground for AI-based content management tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.html",
-      "originalUrl": "https://www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/09/multiple-exposure_profile_with_gears_overlaying_and_representing_the_brain_thought_intelligence_brainstorming_strategy_by_metamorworks_gettyimages-994767724_2400x1600-100858219-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.amp.html",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.amp.html",
-      "publishedDateTime": "2020-09-24T18:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-25-monash-university-researchers-speed-up-epilepsy-diagnosis-with-machine-learning.md",
       "title": "Monash University researchers speed up epilepsy diagnosis with machine learning",
       "excerpt": "A new study by Monash University, together with Alfred Health and The Royal Melbourne Hospital, has uncovered how machine learning technology could be used to automate epilepsy diagnosis. As part of the study,",
@@ -290,57 +248,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-25-swedens-ericsson-telia-present-self-driving-bus-ahead-of-5g-spectrum-auction.md",
-      "title": "Sweden's Ericsson, Telia present self-driving bus ahead of 5G spectrum auction",
-      "excerpt": "Telecoms gear maker Ericsson and mobile operator Telia on Thursday showcased a self-driving, electric bus in Stockholm as the companies look at new business areas ahead of mass deployment of 5G technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/ericsson-autonomous/swedens-ericsson-telia-present-self-driving-bus-ahead-of-5g-spectrum-auction-idUSL5N2GL30G",
-      "originalUrl": "https://www.reuters.com/article/ericsson-autonomous/swedens-ericsson-telia-present-self-driving-bus-ahead-of-5g-spectrum-auction-idUSL5N2GL30G",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200924&t=2&i=1534799334&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8N1NF",
-          "width": 726,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL5N2GL30G",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL5N2GL30G",
-      "publishedDateTime": "2020-09-24T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-25-gpt-3s-bigotry-is-exactly-why-devs-shouldnt-use-the-internet-to-train-ai.md",
       "title": "GPT-3’s bigotry is exactly why devs shouldn’t use the internet to train AI",
       "excerpt": "Yeah, but your scientists were so preoccupied with whether or not they could, they didn’t stop to think if they should.” – Dr. Ian Malcolm, fictional character, Jurassic Park. It turns out that a $1 billion investment from Microsoft and unfettered access to a supercomputer wasn’t enough to keep OpenAI’s GPT-3 from being just as bigoted as",
@@ -551,7 +458,7 @@
       "originalUrl": "https://www.forbes.com/sites/tomdavenport/2020/09/24/return-on-ai-the-cdao-perspective/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -881,6 +788,57 @@
       ]
     },
     {
+      "path": "_news/2020-09-24-swedens-ericsson-telia-present-self-driving-bus-ahead-of-5g-spectrum-auction.md",
+      "title": "Sweden's Ericsson, Telia present self-driving bus ahead of 5G spectrum auction",
+      "excerpt": "STOCKHOLM (Reuters) - Telecoms gear maker Ericsson ERICb.ST and mobile operator Telia TELIA.ST on Thursday showcased a self-driving, electric bus in Stockholm as the companies look at new business ...",
+      "sourceUrl": null,
+      "webUrl": "https://uk.reuters.com/article/uk-ericsson-autonomous-idUKKCN26F2WN",
+      "originalUrl": "https://uk.reuters.com/article/uk-ericsson-autonomous-idUKKCN26F2WN",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200924&t=2&i=1534799334&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8N1NF",
+          "width": 726,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://uk.mobile.reuters.com/article/amp/idUKKCN26F2WN",
+      "cdnAmpWebUrl": "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKCN26F2WN",
+      "publishedDateTime": "2020-09-24T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-go-ahead-try-to-sneak-bad-words-past-ai-filtersfor-research.md",
       "title": "Go Ahead, Try to Sneak Bad Words Past AI Filters—for Research",
       "excerpt": "A new Facebook project pits humans against algorithms, to expose the systems' weaknesses and help make them better.",
@@ -1134,7 +1092,7 @@
       "originalUrl": "https://venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1224,6 +1182,56 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-is-your-business-ready-to-implement-ai.md",
+      "title": "Is Your Business Ready To Implement AI?",
+      "excerpt": "It's almost always worth it to start using AI, regardless of company size or industry, because once your enterprise is ready for AI, it's possible to ramp up the number of automated tasks over time and save more and more in time and costs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/24/is-your-business-ready-to-implement-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/24/is-your-business-ready-to-implement-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f33fae78e26add3d640245e%2F0x0.jpg",
+          "width": 1200,
+          "height": 836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/24/is-your-business-ready-to-implement-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/24/is-your-business-ready-to-implement-ai/amp/",
+      "publishedDateTime": "2020-09-24T05:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }
