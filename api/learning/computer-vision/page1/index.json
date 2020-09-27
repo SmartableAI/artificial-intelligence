@@ -4,6 +4,44 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/articles/medium-beginners-guide-to-computer-vision.md",
+      "title": "Beginner’s Guide to Computer Vision",
+      "excerpt": "The phenomenon that makes machines such as computers or mobile phones see the surroundings is known as Computer Vision. Serious work on re-creating a human eye started way back in 50s and since then, we have come a long way. Computer vision has already made its way to our mobile phone via different e-commerce or camera apps.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/articles/medium-beginners-guide-to-computer-vision/index.json",
+      "webUrl": "https://medium.com/readers-writers-digest/beginners-guide-to-computer-vision-23606224b720",
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1258/0*f_fh55r2DME5l6T6.jpg",
+          "width": 629,
+          "height": 441,
+          "title": "Beginner’s Guide to Computer Vision",
+          "isCached": false
+        }
+      ],
+      "type": "article",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_learning/videos/tensorflow-basic-computer-vision-with-ml-ml-zero-to-hero-part-2.md",
       "title": "Basic Computer Vision with ML (ML Zero to Hero - Part 2)",
       "excerpt": "In part two of Machine Learning Zero to Hero, AI Advocate Laurence Moroney (lmoroney@) walks through basic computer vision with machine learning by teaching a computer how to see and recognize different objects.  Beyond Hello World, a Computer Vision Example: https://goo.gle/34cHkDk  This video is also",
@@ -41,44 +79,6 @@
         "Google AI",
         "AI",
         "Machine Learning",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_learning/articles/medium-beginners-guide-to-computer-vision.md",
-      "title": "Beginner’s Guide to Computer Vision",
-      "excerpt": "The phenomenon that makes machines such as computers or mobile phones see the surroundings is known as Computer Vision. Serious work on re-creating a human eye started way back in 50s and since then, we have come a long way. Computer vision has already made its way to our mobile phone via different e-commerce or camera apps.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/articles/medium-beginners-guide-to-computer-vision/index.json",
-      "webUrl": "https://medium.com/readers-writers-digest/beginners-guide-to-computer-vision-23606224b720",
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1258/0*f_fh55r2DME5l6T6.jpg",
-          "width": 629,
-          "height": 441,
-          "title": "Beginner’s Guide to Computer Vision",
-          "isCached": false
-        }
-      ],
-      "type": "article",
-      "price": "Free",
-      "topics": [
-        "AI",
         "Computer Vision"
       ]
     },

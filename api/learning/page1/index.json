@@ -237,111 +237,91 @@
       ]
     },
     {
-      "path": "_learning/courses/coursera-advanced-data-science-capstone.md",
-      "title": "Advanced Data Science Capstone",
-      "excerpt": "Learn Advanced Data Science Capstone from IBM. This project completer has proven a deep understanding on massive parallel data processing, data exploration and visualization, advanced machine learning and deep learning and how to apply his ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-advanced-data-science-capstone/index.json",
-      "webUrl": "https://www.coursera.org/learn/advanced-data-science-capstone",
-      "length": "10 hours",
-      "ratings": {
-        "count": 199,
-        "average": 4.6
-      },
+      "path": "_learning/articles/medium-beginners-guide-to-computer-vision.md",
+      "title": "Beginner’s Guide to Computer Vision",
+      "excerpt": "The phenomenon that makes machines such as computers or mobile phones see the surroundings is known as Computer Vision. Serious work on re-creating a human eye started way back in 50s and since then, we have come a long way. Computer vision has already made its way to our mobile phone via different e-commerce or camera apps.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/articles/medium-beginners-guide-to-computer-vision/index.json",
+      "webUrl": "https://medium.com/readers-writers-digest/beginners-guide-to-computer-vision-23606224b720",
       "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
+        "name": "Medium",
+        "domain": "medium.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "IBM",
-            "domain": "ibm.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          }
         ]
       },
       "levels": [
-        "Advanced"
+        "Beginner"
       ],
       "heat": 110,
       "images": [
         {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/b0/b87e208be611e89f604728676b46b0/Advanced_Data_Science_Capstone.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Advanced Data Science Capstone",
+          "url": "https://miro.medium.com/max/1258/0*f_fh55r2DME5l6T6.jpg",
+          "width": 629,
+          "height": 441,
+          "title": "Beginner’s Guide to Computer Vision",
           "isCached": false
         }
       ],
-      "type": "course",
-      "price": "Free+",
+      "type": "article",
+      "price": "Free",
       "topics": [
         "AI",
-        "Machine Learning"
+        "Computer Vision"
       ]
     },
     {
-      "path": "_learning/courses/coursera-control-of-mobile-robots.md",
-      "title": "Control of Mobile Robots",
-      "excerpt": "Learn Control of Mobile Robots from Georgia Institute of Technology. Control of Mobile Robots is a course that focuses on the application of modern control theory to the problem of making robots move around in safe and effective ways. The ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-control-of-mobile-robots/index.json",
-      "webUrl": "https://www.coursera.org/learn/mobile-robot",
-      "length": "21 hours",
+      "path": "_learning/books/amazon-learning-from-data.md",
+      "title": "Learning From Data",
+      "excerpt": "This book, together with specially prepared online material freely accessible to our readers, provides a complete introduction to Machine Learning, the technology that enables computational systems to adaptively improve their performance with experience accumulated from the observed data.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-learning-from-data/index.json",
+      "webUrl": "https://www.amazon.com/Learning-Data-Yaser-S-Abu-Mostafa/dp/1600490069/",
       "ratings": {
-        "count": 1352,
-        "average": 4.8
+        "count": 172,
+        "average": 4.5
       },
       "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
+        "name": "Amazon",
+        "domain": "amazon.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ],
-        "publishers": [
+        "authors": [
           {
             "path": "",
-            "name": "Georgia Institute of Technology"
+            "title": "Yaser S. Abu-Mostafa",
+            "type": "profile",
+            "name": "Yaser S. Abu-Mostafa"
           }
         ]
       },
       "levels": [
-        "Beginner",
         "Intermediate"
       ],
       "heat": 110,
       "images": [
         {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/7e/e8fe7034c111e69ed8b50c8afbcd7c/ControlMobileRobots.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Control of Mobile Robots",
+          "url": "https://m.media-amazon.com/images/I/81k-OvvReZL._AC_UY218_ML3_.jpg",
+          "width": 142,
+          "height": 218,
+          "title": "Learning From Data",
           "isCached": false
         }
       ],
-      "type": "course",
-      "price": "Free+",
+      "type": "book",
+      "price": "$28.00",
       "topics": [
         "AI",
-        "AI in Robotics"
+        "Machine Learning"
       ]
     },
     {

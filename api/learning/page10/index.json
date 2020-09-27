@@ -4,55 +4,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_learning/courses/coursera-bayesian-methods-for-machine-learning.md",
-      "title": "Bayesian Methods for Machine Learning",
-      "excerpt": "Learn Bayesian Methods for Machine Learning from National Research University Higher School of Economics. People apply Bayesian methods in many areas: from game development to drug discovery. They give superpowers to many machine learning ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-bayesian-methods-for-machine-learning/index.json",
-      "webUrl": "https://www.coursera.org/learn/bayesian-methods-in-machine-learning",
-      "length": "39 hours",
-      "ratings": {
-        "count": 439,
-        "average": 4.6
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "National Research University Higher School of Economics"
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/36/c808e08bda11e795c4f57af56b2521/Bayesian-machine-learning2.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Bayesian Methods for Machine Learning",
-          "isCached": false
-        }
-      ],
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_learning/courses/coursera-big-data-applications-machine-learning-at-scale.md",
       "title": "Big Data Applications: Machine Learning at Scale",
       "excerpt": "Learn Big Data Applications: Machine Learning at Scale from Yandex. Machine learning is transforming the world around us. To become successful, you’d better know what kinds of problems can be solved with machine learning, and how they can be ...",
@@ -429,6 +380,56 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-control-of-mobile-robots.md",
+      "title": "Control of Mobile Robots",
+      "excerpt": "Learn Control of Mobile Robots from Georgia Institute of Technology. Control of Mobile Robots is a course that focuses on the application of modern control theory to the problem of making robots move around in safe and effective ways. The ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-control-of-mobile-robots/index.json",
+      "webUrl": "https://www.coursera.org/learn/mobile-robot",
+      "length": "21 hours",
+      "ratings": {
+        "count": 1352,
+        "average": 4.8
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Georgia Institute of Technology"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/7e/e8fe7034c111e69ed8b50c8afbcd7c/ControlMobileRobots.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Control of Mobile Robots",
+          "isCached": false
+        }
+      ],
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     },
     {

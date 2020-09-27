@@ -4,54 +4,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_learning/books/amazon-advances-in-financial-machine-learning.md",
-      "title": "Advances in Financial Machine Learning",
-      "excerpt": "Machine learning (ML) is changing virtually every aspect of our lives. Today ML algorithms accomplish tasks that until recently only expert humans could perform. As it relates to finance, this is the most exciting time to adopt a disruptive technology that will transform how everyone invests for generations. Readers will learn how to structure Big data in a way that is amenable to ML algorithms; how",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-advances-in-financial-machine-learning/index.json",
-      "webUrl": "https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X/",
-      "ratings": {
-        "count": 141,
-        "average": 4.6
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Marcos Lopez de Prado",
-            "type": "profile",
-            "name": "Marcos Lopez de Prado"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/51A6sUbwG2L._SX329_BO1,204,203,200_.jpg",
-          "width": 331,
-          "height": 499,
-          "title": "Advances in Financial Machine Learning",
-          "isCached": false
-        }
-      ],
-      "type": "book",
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/books/amazon-ai-superpowers-china-silicon-valley-and-the-new-world-order.md",
       "title": "AI Superpowers: China, Silicon Valley, and the New World Order",
       "excerpt": "Dr. Kai-Fu Lee—one of the world’s most respected experts on AI and China—reveals that China has suddenly caught up to the US at an astonishingly rapid and unexpected pace.",
@@ -875,56 +827,6 @@
       ]
     },
     {
-      "path": "_learning/books/amazon-learning-from-data.md",
-      "title": "Learning From Data",
-      "excerpt": "This book, together with specially prepared online material freely accessible to our readers, provides a complete introduction to Machine Learning, the technology that enables computational systems to adaptively improve their performance with experience accumulated from the observed data.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-learning-from-data/index.json",
-      "webUrl": "https://www.amazon.com/Learning-Data-Yaser-S-Abu-Mostafa/dp/1600490069/",
-      "ratings": {
-        "count": 172,
-        "average": 4.5
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Yaser S. Abu-Mostafa",
-            "type": "profile",
-            "name": "Yaser S. Abu-Mostafa"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/81k-OvvReZL._AC_UY218_ML3_.jpg",
-          "width": 142,
-          "height": 218,
-          "title": "Learning From Data",
-          "isCached": false
-        }
-      ],
-      "type": "book",
-      "price": "$28.00",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_learning/books/amazon-learning-opencv-computer-vision-with-the-opencv-library.md",
       "title": "Learning OpenCV: Computer Vision with the OpenCV Library",
       "excerpt": "\"This library is useful for practitioners, and is an excellent tool for those entering the field: it is a set of computer vision algorithms that work as advertised.\"-William T. Freeman, Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology Learning OpenCV puts you in the middle of the rapidly expanding field of computer vision. Written by the creators of the",
@@ -1528,6 +1430,120 @@
         "AI",
         "Machine Learning",
         "Math for AI"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-practical-automated-machine-learning-on-azure-using-azure-machine-learning-to-quickly-build-ai-solutions.md",
+      "title": "Practical Automated Machine Learning on Azure: Using Azure Machine Learning to Quickly Build AI Solutions",
+      "excerpt": "Develop smart applications without spending days and weeks building machine-learning models. With this practical book, you’ll learn how to apply Automated Machine Learning, a process that uses machine learning to help people build machine learning models. Deepak Mukunthu, Parashar Shah, and Wee Hyong Tok provide a mix of technical depth, hands-on examples, and case studies that show how customers are solving real-world problems with this technology.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-practical-automated-machine-learning-on-azure-using-azure-machine-learning-to-quickly-build-ai-solutions/index.json",
+      "webUrl": "https://www.amazon.com/Practical-Automated-Machine-Learning-Azure/dp/149205559X/",
+      "ratings": {
+        "count": 3,
+        "average": 4.3
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Deepak Mukunthu",
+            "type": "profile",
+            "name": "Deepak Mukunthu"
+          },
+          {
+            "path": "",
+            "title": "Parashar Shah",
+            "type": "profile",
+            "name": "Parashar Shah"
+          },
+          {
+            "path": "",
+            "title": "Wee Hyong Tok",
+            "type": "profile",
+            "name": "Wee Hyong Tok"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/81-SGy1qqGL._AC_UY218_ML3_.jpg",
+          "width": 166,
+          "height": 218,
+          "title": "Practical Automated Machine Learning on Azure: Using Azure Machine Learning to Quickly Build AI Solutions",
+          "isCached": false
+        }
+      ],
+      "type": "book",
+      "price": "$44.65",
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-practical-statistics-for-data-scientists-50-essential-concepts.md",
+      "title": "Practical Statistics for Data Scientists: 50 Essential Concepts",
+      "excerpt": "Statistical methods are a key part of data science, yet very few data scientists have any formal statistics training. Courses and books on basic statistics rarely cover the topic from a data science perspective. This practical guide explains how to apply various statistical methods to data science, tells you how to avoid their misuse, and gives you advice on what's important and what's not.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-practical-statistics-for-data-scientists-50-essential-concepts/index.json",
+      "webUrl": "https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/1491952962/",
+      "ratings": {
+        "count": 173,
+        "average": 4.3
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Peter Bruce",
+            "type": "profile",
+            "name": "Peter Bruce"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/91-41U+btKL._AC_UY218_ML3_.jpg",
+          "width": 166,
+          "height": 218,
+          "title": "Practical Statistics for Data Scientists: 50 Essential Concepts",
+          "isCached": false
+        }
+      ],
+      "type": "book",
+      "price": "$28.40",
+      "topics": [
+        "AI",
+        "Math for AI",
+        "Machine Learning"
       ]
     }
   ],

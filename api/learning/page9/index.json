@@ -4,120 +4,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_learning/books/amazon-practical-automated-machine-learning-on-azure-using-azure-machine-learning-to-quickly-build-ai-solutions.md",
-      "title": "Practical Automated Machine Learning on Azure: Using Azure Machine Learning to Quickly Build AI Solutions",
-      "excerpt": "Develop smart applications without spending days and weeks building machine-learning models. With this practical book, you’ll learn how to apply Automated Machine Learning, a process that uses machine learning to help people build machine learning models. Deepak Mukunthu, Parashar Shah, and Wee Hyong Tok provide a mix of technical depth, hands-on examples, and case studies that show how customers are solving real-world problems with this technology.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-practical-automated-machine-learning-on-azure-using-azure-machine-learning-to-quickly-build-ai-solutions/index.json",
-      "webUrl": "https://www.amazon.com/Practical-Automated-Machine-Learning-Azure/dp/149205559X/",
-      "ratings": {
-        "count": 3,
-        "average": 4.3
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Deepak Mukunthu",
-            "type": "profile",
-            "name": "Deepak Mukunthu"
-          },
-          {
-            "path": "",
-            "title": "Parashar Shah",
-            "type": "profile",
-            "name": "Parashar Shah"
-          },
-          {
-            "path": "",
-            "title": "Wee Hyong Tok",
-            "type": "profile",
-            "name": "Wee Hyong Tok"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/81-SGy1qqGL._AC_UY218_ML3_.jpg",
-          "width": 166,
-          "height": 218,
-          "title": "Practical Automated Machine Learning on Azure: Using Azure Machine Learning to Quickly Build AI Solutions",
-          "isCached": false
-        }
-      ],
-      "type": "book",
-      "price": "$44.65",
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-practical-statistics-for-data-scientists-50-essential-concepts.md",
-      "title": "Practical Statistics for Data Scientists: 50 Essential Concepts",
-      "excerpt": "Statistical methods are a key part of data science, yet very few data scientists have any formal statistics training. Courses and books on basic statistics rarely cover the topic from a data science perspective. This practical guide explains how to apply various statistical methods to data science, tells you how to avoid their misuse, and gives you advice on what's important and what's not.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-practical-statistics-for-data-scientists-50-essential-concepts/index.json",
-      "webUrl": "https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/1491952962/",
-      "ratings": {
-        "count": 173,
-        "average": 4.3
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Peter Bruce",
-            "type": "profile",
-            "name": "Peter Bruce"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/91-41U+btKL._AC_UY218_ML3_.jpg",
-          "width": 166,
-          "height": 218,
-          "title": "Practical Statistics for Data Scientists: 50 Essential Concepts",
-          "isCached": false
-        }
-      ],
-      "type": "book",
-      "price": "$28.40",
-      "topics": [
-        "AI",
-        "Math for AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_learning/books/amazon-practical-time-series-analysis-prediction-with-statistics-and-machine-learning.md",
       "title": "Practical Time Series Analysis: Prediction with Statistics and Machine Learning",
       "excerpt": "Time series data analysis is increasingly important due to the massive production of such data through the internet of things, the digitalization of healthcare, and the rise of smart cities. As continuous monitoring and data collection become more common, the need for competent time series analysis with both statistical and machine learning techniques will increase.",
@@ -1183,6 +1069,64 @@
       ]
     },
     {
+      "path": "_learning/courses/coursera-advanced-data-science-capstone.md",
+      "title": "Advanced Data Science Capstone",
+      "excerpt": "Learn Advanced Data Science Capstone from IBM. This project completer has proven a deep understanding on massive parallel data processing, data exploration and visualization, advanced machine learning and deep learning and how to apply his ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-advanced-data-science-capstone/index.json",
+      "webUrl": "https://www.coursera.org/learn/advanced-data-science-capstone",
+      "length": "10 hours",
+      "ratings": {
+        "count": 199,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "IBM",
+            "domain": "ibm.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/b0/b87e208be611e89f604728676b46b0/Advanced_Data_Science_Capstone.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Advanced Data Science Capstone",
+          "isCached": false
+        }
+      ],
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_learning/courses/coursera-advanced-deployment-scenarios-with-tensorflow.md",
       "title": "Advanced Deployment Scenarios with TensorFlow",
       "excerpt": "Learn Advanced Deployment Scenarios with TensorFlow from deeplearning.ai. Bringing a machine learning model into the real world involves a lot more than just modeling. This Specialization will teach you how to navigate various deployment ...",
@@ -1691,6 +1635,55 @@
           "width": 400,
           "height": 400,
           "title": "Art and Science of Machine Learning",
+          "isCached": false
+        }
+      ],
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-bayesian-methods-for-machine-learning.md",
+      "title": "Bayesian Methods for Machine Learning",
+      "excerpt": "Learn Bayesian Methods for Machine Learning from National Research University Higher School of Economics. People apply Bayesian methods in many areas: from game development to drug discovery. They give superpowers to many machine learning ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-bayesian-methods-for-machine-learning/index.json",
+      "webUrl": "https://www.coursera.org/learn/bayesian-methods-in-machine-learning",
+      "length": "39 hours",
+      "ratings": {
+        "count": 439,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "National Research University Higher School of Economics"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/36/c808e08bda11e795c4f57af56b2521/Bayesian-machine-learning2.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Bayesian Methods for Machine Learning",
           "isCached": false
         }
       ],

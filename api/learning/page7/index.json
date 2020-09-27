@@ -828,44 +828,6 @@
       ]
     },
     {
-      "path": "_learning/articles/medium-beginners-guide-to-computer-vision.md",
-      "title": "Beginner’s Guide to Computer Vision",
-      "excerpt": "The phenomenon that makes machines such as computers or mobile phones see the surroundings is known as Computer Vision. Serious work on re-creating a human eye started way back in 50s and since then, we have come a long way. Computer vision has already made its way to our mobile phone via different e-commerce or camera apps.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/articles/medium-beginners-guide-to-computer-vision/index.json",
-      "webUrl": "https://medium.com/readers-writers-digest/beginners-guide-to-computer-vision-23606224b720",
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1258/0*f_fh55r2DME5l6T6.jpg",
-          "width": 629,
-          "height": 441,
-          "title": "Beginner’s Guide to Computer Vision",
-          "isCached": false
-        }
-      ],
-      "type": "article",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_learning/articles/monkeylearn-gentle-guide-to-machine-learning.md",
       "title": "A Gentle Guide to Machine Learning",
       "excerpt": "Machine Learning is a subfield within Artificial Intelligence that builds algorithms that allow computers to learn to perform tasks from data instead of being explicitly programmed.",
@@ -1019,6 +981,54 @@
       "price": "Free",
       "topics": [
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-advances-in-financial-machine-learning.md",
+      "title": "Advances in Financial Machine Learning",
+      "excerpt": "Machine learning (ML) is changing virtually every aspect of our lives. Today ML algorithms accomplish tasks that until recently only expert humans could perform. As it relates to finance, this is the most exciting time to adopt a disruptive technology that will transform how everyone invests for generations. Readers will learn how to structure Big data in a way that is amenable to ML algorithms; how",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-advances-in-financial-machine-learning/index.json",
+      "webUrl": "https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X/",
+      "ratings": {
+        "count": 141,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Marcos Lopez de Prado",
+            "type": "profile",
+            "name": "Marcos Lopez de Prado"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/51A6sUbwG2L._SX329_BO1,204,203,200_.jpg",
+          "width": 331,
+          "height": 499,
+          "title": "Advances in Financial Machine Learning",
+          "isCached": false
+        }
+      ],
+      "type": "book",
+      "topics": [
+        "AI"
       ]
     }
   ],
