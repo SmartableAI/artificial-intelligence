@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/youtube-machine-learning-age-restrictio
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/youtube-machine-learning-age-restrictions-212253144.html"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F06%2FUntitled-design-79.png&signature=f779e5c721d35dbf35c70b43545cd878"
         width: 1200
         height: 600
-        isCached: true
-  - title: "YouTube to exploit artificial intelligence to enforce age restrictions"
-    excerpt: "Google LLC-owned YouTube announced today that it will introduce more advanced AI to ensure younger people aren’t watching videos designed for an older audience. Up until now, the company has ..."
-    publishedDateTime: 2020-09-23T03:33:00Z
-    webUrl: "https://siliconangle.com/2020/09/22/youtube-exploit-artificial-intelligence-enforce-age-restrictions/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/8087281559_67d71d8ae2_c.jpg"
-        width: 800
-        height: 598
         isCached: true
 
 secured: "fPmtysc6H7qrM1kAbzDLN6CLBc3whi2K42jOiwln5CfXvbl9goSEMPKWD9/0PKml63ZB9eKXClDgZaZGhcZLLFpRjYWhlaNW2w2LHqvmJylvZbfPRKiB3/IGcYOUXQdf34aBc1b0YeMusYtTB57YvFkYsLWSQQknJqI45K84/GGBB2Agiyc6BisroWcuWUB5JO01m51J3WynrFcO46bvV/hwW3MpDCGaa/0F9bgJsS5F1tJbsH9rNVFVpxTrFlR/9Qg5ZTXA13qjoEj/EQ36yyNXOuWqsFJfpk4FytKDZynK5BViYl7w5f1PeF9R836DmdPRU/LpX2mAt2he6K2MHudV5gDk4a7rCuo9YtkeeencxqowAt3aPjPvzizXKZyjB5Exoaq9zb90gEVO9qc/dm010PFiPfsXOQFX+W86Lvg+mSFEU0plkbEXtMA9ce+7UzJGNj0fW4SvtolvI19lv2ZZdO/m4E5IBzGhlrW+JF6L8QIgc+kBW63VC1TkWRlGAo5pxrGl0sWJaBOO/LxLrA==;2KWBLvSL8KU3BaHAY9tDrw=="

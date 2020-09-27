@@ -73,9 +73,9 @@ related:
   - title: "A Microsoft-powered instant two-way translator"
     excerpt: "A universal translator that allows instantaneous communication between speakers of different languages. The TARDIS does it in Doctor Who, the babble fish serves that function in The Hitchhiker's Guide to the Galaxy,"
     publishedDateTime: 2020-09-24T11:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/a-microsoft-powered-instant-two-way-translator/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/a-microsoft-powered-instant-two-way-translator/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/a-microsoft-powered-instant-two-way-translator/"
+    webUrl: "https://www.zdnet.com/article/a-microsoft-powered-instant-two-way-translator/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/a-microsoft-powered-instant-two-way-translator/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-microsoft-powered-instant-two-way-translator/"
     type: article
     provider:
       name: ZDNet
@@ -128,22 +128,6 @@ related:
       - url: "https://images.axios.com/-s4Z0o3uapK9JUUBb31sF3c9dfc=/fit-in/1366x1366/2020/09/23/1600873770588.jpg"
         width: 1366
         height: 768
-        isCached: true
-  - title: "Microsoft And Shell Announce New Partnership To Use Artificial Intelligence And Tech To Reduce Carbon Emissions"
-    excerpt: "Microsoft and Shell have just announced a partnership to work together to use technology and artificial intelligence to help them address their emissions challenges, reduce CO2, and transition towards the use of renewable energy."
-    publishedDateTime: 2020-09-23T05:02:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2020/09/23/microsoft-and-shell-announce-new-partnership-to-use-artificial-intelligence-and-tech-to-reduce-carbon-emissions/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2020/09/23/microsoft-and-shell-announce-new-partnership-to-use-artificial-intelligence-and-tech-to-reduce-carbon-emissions/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/09/23/microsoft-and-shell-announce-new-partnership-to-use-artificial-intelligence-and-tech-to-reduce-carbon-emissions/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6acbbe709e718d15a599fa%2F0x0.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Shell, Microsoft Alliance to Address Carbon Emissions Will Leverage AI, Azure"
     excerpt: "The companies are committed to accelerating their AI work together to drive efficiencies and reduce emissions. Shell and Microsoft have worked together to develop technologies that help keep Shell’s workers and sites safe. For example, Microsoft Azure ..."

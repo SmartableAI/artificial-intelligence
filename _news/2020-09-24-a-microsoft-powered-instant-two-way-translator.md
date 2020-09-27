@@ -3,10 +3,10 @@ category: news
 title: "A Microsoft-powered instant two-way translator"
 excerpt: "A universal translator that allows instantaneous communication between speakers of different languages. The TARDIS does it in Doctor Who, the babble fish serves that function in The Hitchhiker's Guide to the Galaxy,"
 publishedDateTime: 2020-09-24T11:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/a-microsoft-powered-instant-two-way-translator/"
-webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/a-microsoft-powered-instant-two-way-translator/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/a-microsoft-powered-instant-two-way-translator/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/a-microsoft-powered-instant-two-way-translator/"
+originalUrl: "https://www.zdnet.com/article/a-microsoft-powered-instant-two-way-translator/"
+webUrl: "https://www.zdnet.com/article/a-microsoft-powered-instant-two-way-translator/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/a-microsoft-powered-instant-two-way-translator/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-microsoft-powered-instant-two-way-translator/"
 type: article
 quality: 91
 heat: -1
@@ -132,22 +132,6 @@ related:
       - url: "https://www.dbta.com/images/social-logo-2019.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Microsoft And Shell Announce New Partnership To Use Artificial Intelligence And Tech To Reduce Carbon Emissions"
-    excerpt: "Microsoft and Shell have just announced a partnership to work together to use technology and artificial intelligence to help them address their emissions challenges, reduce CO2, and transition towards the use of renewable energy."
-    publishedDateTime: 2020-09-23T05:02:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2020/09/23/microsoft-and-shell-announce-new-partnership-to-use-artificial-intelligence-and-tech-to-reduce-carbon-emissions/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2020/09/23/microsoft-and-shell-announce-new-partnership-to-use-artificial-intelligence-and-tech-to-reduce-carbon-emissions/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/09/23/microsoft-and-shell-announce-new-partnership-to-use-artificial-intelligence-and-tech-to-reduce-carbon-emissions/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6acbbe709e718d15a599fa%2F0x0.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Shell, Microsoft Alliance to Address Carbon Emissions Will Leverage AI, Azure"
     excerpt: "The companies are committed to accelerating their AI work together to drive efficiencies and reduce emissions. Shell and Microsoft have worked together to develop technologies that help keep Shell’s workers and sites safe. For example, Microsoft Azure ..."
@@ -375,6 +359,6 @@ related:
         height: 432
         isCached: true
 
-secured: "ilHMvKFK6xjGqnqbQybXHI5UTbzqix8+NfOJ58YHE9m/R6kD5t0xiLkZg0P3TkiwbYQAHD/VyZyWjxyvQ5O7gFC6SvvkMXtJFvJt6au+NxpQWY4aClZ+6ilzM8HATI+27hQcTTVrXjtePnbUm8RduZbTgYmdqKD0BG9XQzRgc+fKQc7gMtj9ooTPaNQ41AYFGDCyHGDIQV+yyPAAvExTmZ1ZGJVCJYQRyfiHEM6uIkOmgy318e5cndnU2xZlQcKKuWSukza8cLsLHSbOx6e36pqRlNM0MbQ3c9dblRN1EF8CZuOc+C6Y6IL0mBEUMUi1lqe9E34Hu0C6T7R/eNHwBWYgeddX2QhHRA11n3td0Vrp7h1LijLlrtGECHUnX/XAdHJsxJNbUiMZa+ysMFDZ/E0gKk6qIeHhtLuHP3SXiyRZ/6/y2mmc1G3G4iU3pEXcjm9Hm6zufJda+3rJxR0rxos7Db0YvdtE+vWWhG8G9TdlxV5osxRPK6uCF1bdo8oCHD/MfujnHLIEIvyk0eGRHA==;dzQuWv0twARLqbRZVP5OGA=="
+secured: "nrXpCPL7chLYn/Mxx/QDvI2mw/keME5wwDAQfaupTIwC+AD6O5fOVkUd+89t7rTucpWq8zBQhqKvScxSpPsUd4aMlxX9mxOBgSW9tPlFozGu6i77gh4GqWZXTXrdaqX8RZrUIQpDRH58vVaDfRIk9PekMaL1XwRwP60We7bMrSCmosL5jNpInE1adEFDM6lXcJMxOHdnMjo9sAt+mVltkZtg/X7MO92AZSSPAVMtMI6NEmcnQK0fHgN5y4TolSHykMtjzqNOuaiIUiPi3SJAF7p1AABohQ4ZsnNs7jawnewKRH3s5i+vUfLSlV2hREYa3+rEYYFH0Fcft5EI9/FToxdIuCwK44NmrZ80DHx9qfs=;V3jm9IH13KYNHYARmjcq8A=="
 ---
 

@@ -40,6 +40,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "AGL transforms advanced analytics to run on central Azure platform"
+    excerpt: "AGL has rebuilt its analytics capabilities to run off a central platform powered by Azure services instead of running projects from standalone virtual machines and laptops. The new platform went live in mid-2020,"
+    publishedDateTime: 2020-09-27T20:54:00Z
+    webUrl: "https://www.itnews.com.au/news/agl-transforms-advanced-analytics-to-run-on-central-azure-platform-553823"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/20200924104634_AGL.png"
+        width: 2584
+        height: 1476
+        isCached: true
   - title: "True North: Pioneering Analytics, Algorithms and Artificial Intelligence"
     excerpt: "True North initiated the “Analytics, Algorithms and Artificial Intelligence” (3A) project. A system, Kelp, was designed and developed internally to facilitate the transformation of True North into an AI-first firm based on the introduction of data ..."
     publishedDateTime: 2020-09-23T12:11:00Z

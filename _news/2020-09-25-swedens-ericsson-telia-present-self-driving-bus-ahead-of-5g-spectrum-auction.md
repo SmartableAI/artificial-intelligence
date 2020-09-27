@@ -3,10 +3,10 @@ category: news
 title: "Sweden's Ericsson, Telia present self-driving bus ahead of 5G spectrum auction"
 excerpt: "Telecoms gear maker Ericsson and mobile operator Telia on Thursday showcased a self-driving, electric bus in Stockholm as the companies look at new business areas ahead of mass deployment of 5G technology."
 publishedDateTime: 2020-09-24T21:29:00Z
-originalUrl: "https://www.reuters.com/article/ericsson-autonomous/swedens-ericsson-telia-present-self-driving-bus-ahead-of-5g-spectrum-auction-idUSL5N2GL30G"
-webUrl: "https://www.reuters.com/article/ericsson-autonomous/swedens-ericsson-telia-present-self-driving-bus-ahead-of-5g-spectrum-auction-idUSL5N2GL30G"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL5N2GL30G"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL5N2GL30G"
+originalUrl: "https://www.reuters.com/article/us-ericsson-autonomous-idUSKCN26F2V6"
+webUrl: "https://www.reuters.com/article/us-ericsson-autonomous-idUSKCN26F2V6"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26F2V6"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26F2V6"
 type: article
 quality: 70
 heat: -1
@@ -48,6 +48,6 @@ related:
         height: 545
         isCached: true
 
-secured: "AelyxyTtolbmm+mU5zlWE/Xyvt4Vggj5caNsikiy+kgDtwzqwVYYMQEXpDFNLJE+GeAxioMixrJg6kV/lrbQDWW9DbIdiXdY+UgWNaCPrpYan6tscbCgWoH2QlAo2cDl/hHowKCQfqd1jcJP/zaK4H/d0rMxMhcZx7CoK40OhtXvWwTLwobZkALHe5y+faGiiQWdTYl8a8TOdAEZUuaJJMbgTPLVob0iCiVa1LAeR0zXg6oCQ8e5XwYLocABfbO980DULZI2OPjPLG0xVwdl2KMQjlZzjxX/lAOxEYI5E46W0GfpSMzqCpYQfoElV+pRVplASaLwxDdMwiHgURHGrZdiraLEnBNeummtuOjaBM5RnxXqnmrKzKyMeRYhr23LI75re6yj6WXPAYCiW2PzlvIKLqZJpsp5dLvuEw74toDvdk+F2jnRbApPyBMKz2ThEwXQrXnGFrk5LcfRlg7whwZ+zURCGh+9LwggAJDLmMPp8Gxq8lrR75+ySV0t8J+7pcTtze/GlQqwrs6pa+tyqQ==;XwYbs+j60GRQCJckOtdWiw=="
+secured: "KEOjXDHSZrAGIxYFlaoHnHeYP5BRH7OsR3BQtSzxnSTcvFlvQXuubAesgqAxXb6jsuW3SvKUOlK0YSYMYSFUeyN4r5CmquL4quknMo1O3jUokb1caTUJ0bxETc1zHBt8+JoB63vEm7SEdCeZqbFmkoLSd2QbZMvaRRTZpa7KIY5Q8Hyy71a7ufmneQO3EoBYkL1oaBBm5KZAWEVFbEpIOYLYCxAhUBNYJ5ZMCfBjj0Alj1cdQzq99pnrhfN24AS1arIGSvUhaUwpfSpaf7jTjx8KWoDqzIQRduWJuIimKzRhEJsUB7x4p3RaJA0BIwZubjXuWf2AY1Xgc5wh5GgyAJO3zFjkDZ+NpKbR7oZYWw4=;eeT1k0UXxLk9aRXVJQMKnw=="
 ---
 

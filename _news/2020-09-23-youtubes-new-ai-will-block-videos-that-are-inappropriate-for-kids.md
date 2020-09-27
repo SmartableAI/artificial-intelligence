@@ -44,20 +44,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "YouTube to exploit artificial intelligence to enforce age restrictions"
-    excerpt: "Google LLC-owned YouTube announced today that it will introduce more advanced AI to ensure younger people aren’t watching videos designed for an older audience. Up until now, the company has ..."
-    publishedDateTime: 2020-09-23T03:33:00Z
-    webUrl: "https://siliconangle.com/2020/09/22/youtube-exploit-artificial-intelligence-enforce-age-restrictions/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/8087281559_67d71d8ae2_c.jpg"
-        width: 800
-        height: 598
-        isCached: true
 
 secured: "qVrQWCZn8eYtGLT9/qj03ZaSpZgw2FQ4pgidGaSNxuAf95U7bM/4H9u54cBdQNNEImdPlSvVxJMrVljNLoHQ1CT3CxnZ1KziiBE+78BuWramO/IrLsK0mgmXkyo3kgP0bIYVPbKfdPdij5QhxDD4EhyMeNdedYGpe3wTIqL66Uqi+WBD7yE2eM6RfiCbio8AYAqNaRe0isC20FCghMEpYkkNbjtcLS/yZ8NAto3VboOi7Hm253dzoXLjmDoiaFuaBABkh1NjLav46/3tEc1KTIkGNRWkLYNGawmhL0K9hBWRfkSst8a/GK5Kpn9ZGjebegUmKNvDFwyeG3JK5jh5lmMblXkCIUGbJikF/JTLe0FZdfO6zWoqtLUIn9vWUlCY2tK0wfa0T1ZOL6jRXDUCQM1ITbSYqIMztt2254GXOfhXdI1ZlXCiq1qVM2PNZZWC2ObGsylJxORX8Z83sIhpA46u7hoAUE6Yt8cOuLSaJjmSMcRCGpnvjoR222ghv2kuFtvZlNDD4Shnbu/vapCdUg==;cO9KWiClx1+nKACnDLUYPA=="
 ---
