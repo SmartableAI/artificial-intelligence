@@ -2,7 +2,7 @@
 title: "From Languages to Information Week 5: Relation Extraction and Question Answering | Stanford University"
 excerpt: "This is the Week 5 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course"
 type: collection
-heat: 75
+heat: 60
 
 provider:
   name: Stanford University
@@ -11,18 +11,6 @@ provider:
     - url: https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg
       width: 50
       height: 50
-
-items:
-  - videos/stanford-university-91-information-extraction-and-named-entity-recognition-introducing-the-tasks-relation-extraction-and-question-answering
-  - videos/stanford-university-92-what-is-relation-extraction-relation-extraction-and-question-answering
-  - videos/stanford-university-93-using-patterns-to-extract-relations-relation-extraction-and-question-answering
-  - videos/stanford-university-94-supervised-relation-extraction-relation-extraction-and-question-answering
-  - videos/stanford-university-95-semi-supervised-and-unsupervised-relation-extraction-relation-extraction-and-question-answering
-  - videos/stanford-university-101-what-is-question-answering-relation-extraction-and-question-answering
-  - videos/stanford-university-102-answer-types-and-query-formulation-relation-extraction-and-question-answering
-  - videos/stanford-university-103-passage-retrieval-and-answer-extraction-relation-extraction-and-question-answering
-  - videos/stanford-university-104-using-knowledge-in-qa-relation-extraction-and-question-answering
-  - videos/stanford-university-105-advanced-answering-complex-questions-relation-extraction-and-question-answering
 
 items:
   - videos/stanford-university-91-information-extraction-and-named-entity-recognition-introducing-the-tasks-relation-extraction-and-question-answering

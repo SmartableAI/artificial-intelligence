@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT3M46S
 publishedDateTime: 2019-01-24T19:34:05Z
-heat: 62
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QSbAUxWfxQw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,6 +22,7 @@ topics:
   - TensorFlow
   - Google AI
   - AI
+  - AI Hardware
 
 images:
   - url: https://i.ytimg.com/vi/QSbAUxWfxQw/maxresdefault.jpg
@@ -29,6 +30,6 @@ images:
     height: 720
     isCached: true
 
-secured: "/QUcuKLwgKhTelEOQE2mLeacCDIDK860F17rEUqZMTvvdVmyAKXdHdMKu+pVHim+AX9dBaFDEj3usy3CJ1DdyakUtVVHxXlFMH0bS2GWUNin7XHQeujl9PQyJNjcLOP2ca3qPt1niX7o0IO6kufI2IKvBlrtjIGJgI8coeF4+sVtS2x/E5GhquYsbtIVylNbGTsE+/cUhA+y1YxyEDLLehtAOTiaAKrWh2hudFgHrjmGm0bGKkKPRW7Jg4g6+/vXSMzLihK9S1GcMNYNiok5q1OXissqMPJqqIizgzd/0jPNBIdAAi+JFdEYBcTH45ges727bXNu4C8Wu1+UQ/q9fGMpahQ0PdYonki0Z59JWcyYSZquKrCTshEAQXb8U8ypOSEC7VYSI2iAD4XEM2+ztQ==;qrjit7qF5WQBtYXMT5vM5w=="
+secured: "seMaELAU4XNf7oP01eVBhw7DORcYQYPUshLIJLGKWgC89nvFnXbwOByNtPXsPTENsxOL/cZmbpmiTprUqFYPKa1yP0ypEmwouOs5HvXRHGVeqNNsK/GniF8KxG4cLPdeWYsCOTW3fepk84nqYRqBalsuls2hKl4w7W533/c+93SMMARvCdgURXGTYbTesqNMjMqRBJR5ltmdUQI0AqWWyEo/nplk8OLKnONLXo39Is/6beFMP00L30+auRGB6VBxSytTN4eX8sVoe+LR5UxhOwYC9HRpLxI16khwD0eK7xsBAyzQgnpLKjyMESs9ahkra4HfwD/28TR/QBIYS8RzqBCTI3Z5uBM6tIeSCru7Fn8lPKt/hnVPXWgHoe2OD5RCvT571oFJFV7/qyDJzwGgLRhCNIDmRakpQe/oYPyy+hs=;RTHJX9EJg8XiJEZ3rF0VMQ=="
 ---
 

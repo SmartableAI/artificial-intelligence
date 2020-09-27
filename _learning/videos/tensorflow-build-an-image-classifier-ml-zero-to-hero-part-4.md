@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M27S
 publishedDateTime: 2019-09-18T17:00:16Z
-heat: 63
+heat: 64
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/u2TjZzNuly8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,6 +22,7 @@ topics:
   - TensorFlow
   - Google AI
   - AI
+  - Machine Learning
 
 images:
   - url: https://i.ytimg.com/vi/u2TjZzNuly8/maxresdefault.jpg
@@ -29,6 +30,6 @@ images:
     height: 720
     isCached: true
 
-secured: "H+6btsOPV7N5Ey+RsXFQ+LzJHLhtGnlcr5Lc7W55xGd39t+BOCki6bo6IX1LPFkWC1rdVCKe0Irlh5NdUJyjqT4LPN8uQn1aMDFfifiC0WE82P+7zVyBs0H/4GUYmMASFmP82Slnx9UEyQiFM7jESj4okkjBqHtXSi8bhNNVqyZbRZB/P6vRLUuZtsp4UP+hsOGVPfOTheHVLGSE6oqgKF2+L2qi+HUCJ7xR790QFfSXP9gq/Mdxuo3RtDv8Y7kPDKsVePc6l1tubTUEQY7MGZ0fcYnxZbsG7R1fuRzfCoKhl9qafnqLQJC+iz5OGLd8SxzYfSbA6RNTmz0sdIUFgu7+FNmwBhJMytIriKAgLbhw5o4wu/XEu5Ew83exh88A/szDbaRgjbMQ6HFbDNLv2Q==;8/TOC4S6rMWQCIMRFkG7YA=="
+secured: "aIMbXJn/sS6K/Pb3xs+3fkvf5IjNXuEQDV64EjJMuFmC+kBth/l7CRCG9d1KaZtbmdR7nfiYghYxsjfqq+0bzr6fhszF8hxXjBVwWjRzMgg47kXfvQ+A7z5vW5dp/65atGk7ubhm2rpDDdVX4DSqqXiMgIFoZdb1meY3AjVA/2bLXZ1X5IV+/en4I5ZcfoRpQGL/e8QwMXhsQ4DGKIjBzPw6kDVSkoNJ9MBpdGsHeCcK9Hi0zRtwM+jPKJ8CSnNoRoTNQylnD6POof0ykeq2BKX6ES1t2WG6/WwXGyRDc5voNT51RRrict4O4fBzrzqN+440V8NRpq49soLPpanxac/7aKFLoZw4TJLEgR0VZMATMeNd82toMs//n2pcf47SZlEJ4hkxDOgd8wtaWGmRuFUZ0iSyyHcKdhIT+v0eWTg=;s2BwA5/RjaXbBx4STAlLDQ=="
 ---
 

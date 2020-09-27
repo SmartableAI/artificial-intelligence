@@ -19,7 +19,7 @@
         "domain": "coursera.com",
         "images": [
           {
-            "url": "/assets/images/organizations/coursera.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -36,7 +36,7 @@
         "Beginner",
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 110,
       "images": [
         {
           "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/7e/e8fe7034c111e69ed8b50c8afbcd7c/ControlMobileRobots.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
@@ -69,7 +69,7 @@
         "domain": "coursera.com",
         "images": [
           {
-            "url": "/assets/images/organizations/coursera.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -118,7 +118,7 @@
         "domain": "coursera.com",
         "images": [
           {
-            "url": "/assets/images/organizations/coursera.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -167,7 +167,7 @@
         "domain": "coursera.com",
         "images": [
           {
-            "url": "/assets/images/organizations/coursera.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -217,7 +217,7 @@
         "domain": "coursera.com",
         "images": [
           {
-            "url": "/assets/images/organizations/coursera.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -267,7 +267,7 @@
         "domain": "coursera.com",
         "images": [
           {
-            "url": "/assets/images/organizations/coursera.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -312,7 +312,7 @@
         "domain": "udacity.com",
         "images": [
           {
-            "url": "/assets/images/organizations/udacity.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/udacity.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false

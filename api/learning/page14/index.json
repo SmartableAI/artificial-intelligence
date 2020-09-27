@@ -4,6 +4,199 @@
   "page": 14,
   "value": [
     {
+      "path": "_learning/courses/pluralsight-deep-learning-instances-and-frameworks-on-aws.md",
+      "title": "Deep Learning Instances and Frameworks on AWS",
+      "excerpt": "Deep learning enables a new level of data analysis, but configuring custom compute resources to gain these insights can be extremely difficult. In this course, Deep Learning Instances and Frameworks on AWS, you will gain the ability to launch deep learning instances on EC2 and ECS. First, you will learn the types of Deep Learning AMIs provided by AWS. Next, you will analyze how to leverage popular deep learning frameworks on these instances. Finally, you will review how to manage and scale your deep learning activities on these instances. When you are finished with this course, you will be able to launch and utilize custom deep learning instances and leverage popular deep learning frameworks.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-deep-learning-instances-and-frameworks-on-aws/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/aws-ami-deep-learning-instances-frameworks",
+      "length": "1h 23m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "David Tucker",
+            "type": "profile",
+            "name": "David Tucker"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/aws-ami-deep-learning-instances-frameworks-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Deep Learning Instances and Frameworks on AWS",
+          "isCached": false
+        }
+      ],
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-deploying-pytorch-models-in-production-pytorch-playbook.md",
+      "title": "Deploying PyTorch Models in Production: PyTorch Playbook",
+      "excerpt": "This course covers the important aspects of performing distributed training of PyTorch models, using the multiprocessing, data-parallel, and distributed data-parallel approaches. It also discusses which you can host PyTorch models for prediction.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-deploying-pytorch-models-in-production-pytorch-playbook/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/deploying-pytorch-models",
+      "length": "2h 13m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "tags": [
+        "PyTorch"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/deploying-pytorch-models-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Deploying PyTorch Models in Production: PyTorch Playbook",
+          "isCached": false
+        }
+      ],
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-designing-and-implementing-solutions-using-google-cloud-automl.md",
+      "title": "Designing and Implementing Solutions Using Google Cloud AutoML",
+      "excerpt": "Google Cloud AI offers a wide range of machine learning services. AutoML features cutting-edge technology which uses your training data to find the best model for your use case. In this course, you'll learn to build a custom machine learning model.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-designing-and-implementing-solutions-using-google-cloud-automl/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/google-cloud-automl-designing-implementing-solutions",
+      "length": "1h 41m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/google-cloud-automl-designing-implementing-solutions-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Designing and Implementing Solutions Using Google Cloud AutoML",
+          "isCached": false
+        }
+      ],
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-designing-and-implementing-solutions-using-google-machine-learning-apis.md",
+      "title": "Designing and Implementing Solutions Using Google Machine Learning APIs",
+      "excerpt": "Most organizations wish to harness the power of machine learning (ML) to improve their products, but they may not always have the expertise available in-house. This course shows you how to harness the power of ML for use cases using API calls.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-designing-and-implementing-solutions-using-google-machine-learning-apis/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/google-machine-learning-apis-designing-implementing-solutions",
+      "length": "1h 37m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/google-machine-learning-apis-designing-implementing-solutions-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Designing and Implementing Solutions Using Google Machine Learning APIs",
+          "isCached": false
+        }
+      ],
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_learning/courses/pluralsight-developing-applications-with-aws-rekognition.md",
       "title": "Developing Applications with AWS Rekognition",
       "excerpt": "AWS Rekognition provides powerful services for image and video processing. This course, Developing Applications with AWS Rekognition, will demonstrate how these features can be applied to your applications. First, you will cover topics like biometric access based on facial recognition and detection of unsafe content. Next, you will learn how to implement person tracking in security videos and metadata discovery for social media applications. Finally, you will see how other AWS services, like EC2 and Lambda, can work together with Rekognition to build complete applications. When you're finished with this course, you will be ready to use all of the features of Rekognition for image and video processing.",
@@ -15,7 +208,7 @@
         "domain": "pluralsight.com",
         "images": [
           {
-            "url": "/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -63,7 +256,7 @@
         "domain": "pluralsight.com",
         "images": [
           {
-            "url": "/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -114,7 +307,7 @@
         "domain": "pluralsight.com",
         "images": [
           {
-            "url": "/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -165,7 +358,7 @@
         "domain": "pluralsight.com",
         "images": [
           {
-            "url": "/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -216,7 +409,7 @@
         "domain": "pluralsight.com",
         "images": [
           {
-            "url": "/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -264,7 +457,7 @@
         "domain": "pluralsight.com",
         "images": [
           {
-            "url": "/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -315,7 +508,7 @@
         "domain": "pluralsight.com",
         "images": [
           {
-            "url": "/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -363,7 +556,7 @@
         "domain": "pluralsight.com",
         "images": [
           {
-            "url": "/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -411,7 +604,7 @@
         "domain": "pluralsight.com",
         "images": [
           {
-            "url": "/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -461,7 +654,7 @@
         "domain": "pluralsight.com",
         "images": [
           {
-            "url": "/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -513,7 +706,7 @@
         "domain": "pluralsight.com",
         "images": [
           {
-            "url": "/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -564,7 +757,7 @@
         "domain": "pluralsight.com",
         "images": [
           {
-            "url": "/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -615,7 +808,7 @@
         "domain": "pluralsight.com",
         "images": [
           {
-            "url": "/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -666,7 +859,7 @@
         "domain": "pluralsight.com",
         "images": [
           {
-            "url": "/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -714,7 +907,7 @@
         "domain": "pluralsight.com",
         "images": [
           {
-            "url": "/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -762,7 +955,7 @@
         "domain": "pluralsight.com",
         "images": [
           {
-            "url": "/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -809,7 +1002,7 @@
         "domain": "pluralsight.com",
         "images": [
           {
-            "url": "/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -859,7 +1052,7 @@
         "domain": "pluralsight.com",
         "images": [
           {
-            "url": "/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -910,7 +1103,7 @@
         "domain": "pluralsight.com",
         "images": [
           {
-            "url": "/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -961,7 +1154,7 @@
         "domain": "pluralsight.com",
         "images": [
           {
-            "url": "/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -1012,7 +1205,7 @@
         "domain": "pluralsight.com",
         "images": [
           {
-            "url": "/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -1063,7 +1256,7 @@
         "domain": "pluralsight.com",
         "images": [
           {
-            "url": "/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -1110,7 +1303,7 @@
         "domain": "pluralsight.com",
         "images": [
           {
-            "url": "/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -1161,7 +1354,7 @@
         "domain": "pluralsight.com",
         "images": [
           {
-            "url": "/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -1208,7 +1401,7 @@
         "domain": "pluralsight.com",
         "images": [
           {
-            "url": "/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -1256,7 +1449,7 @@
         "domain": "pluralsight.com",
         "images": [
           {
-            "url": "/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -1290,198 +1483,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-understanding-machine-learning-with-python.md",
-      "title": "Understanding Machine Learning with Python",
-      "excerpt": "Use your data to predict future events with the help of machine learning. This course will walk you through creating a machine learning prediction solution and will introduce Python, the scikit-learn library, and the Jupyter Notebook environment.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-understanding-machine-learning-with-python/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/python-understanding-machine-learning",
-      "length": "1h 53m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Jerry Kurata",
-            "type": "profile",
-            "name": "Jerry Kurata"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "tags": [
-        "scikit-learn",
-        "Python"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/python-understanding-machine-learning-v1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Understanding Machine Learning with Python",
-          "isCached": false
-        }
-      ],
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-using-pytorch-in-the-cloud-pytorch-playbook.md",
-      "title": "Using PyTorch in the Cloud: PyTorch Playbook",
-      "excerpt": "This course covers the important aspects of using PyTorch on Amazon Web Services (AWS), Microsoft Azure, and the Google Cloud Platform (GCP), including the use of cloud-hosted notebooks, deep learning VM instances with GPU support, and PyTorch estimators. ",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-using-pytorch-in-the-cloud-pytorch-playbook/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/using-pytorch-in-the-cloud-playbook",
-      "length": "2h 21m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "tags": [
-        "PyTorch"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/using-pytorch-in-the-cloud-playbook-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Using PyTorch in the Cloud: PyTorch Playbook",
-          "isCached": false
-        }
-      ],
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pytorch-deep-learning-with-pytorch-a-60-minute-blitz.md",
-      "title": "Deep Learning with PyTorch: A 60 Minute Blitz",
-      "excerpt": "Understand PyTorch’s Tensor library and neural networks at a high level. Train a small neural network to classify images",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pytorch-deep-learning-with-pytorch-a-60-minute-blitz/index.json",
-      "webUrl": "https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html",
-      "length": "1 hour",
-      "provider": {
-        "name": "pytorch.org",
-        "domain": "pytorch.org",
-        "authors": [
-          {
-            "path": "",
-            "title": "Soumith Chintala",
-            "type": "profile",
-            "name": "Soumith Chintala"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "tags": [
-        "PyTorch"
-      ],
-      "images": [
-        {
-          "url": "https://pytorch.org/tutorials/_images/pytorch-logo-flat.png",
-          "width": 400,
-          "height": 280,
-          "title": "Deep Learning with PyTorch: A 60 Minute Blitz",
-          "isCached": false
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/udacity-artificial-intelligence-for-robotics.md",
-      "title": "Artificial Intelligence for Robotics",
-      "excerpt": "Learn how to program all the major systems of a robotic car. Topics include planning, search, localization, tracking, and control.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/udacity-artificial-intelligence-for-robotics/index.json",
-      "webUrl": "https://classroom.udacity.com/courses/cs373",
-      "length": "2 Months",
-      "provider": {
-        "name": "Udacity",
-        "domain": "udacity.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/udacity.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Sebastian Thrun",
-            "type": "profile",
-            "name": "Sebastian Thrun"
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/cs373_thumbnail.jpg",
-          "width": 436,
-          "height": 268,
-          "title": "Artificial Intelligence for Robotics",
-          "isCached": false
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Autos"
       ]
     }
   ],

@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M51S
 publishedDateTime: 2019-09-20T00:48:24Z
-heat: 56
+heat: 58
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X0DQjfW09kA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - Machine Learning
 
 images:
   - url: https://i.ytimg.com/vi/X0DQjfW09kA/maxresdefault.jpg
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "a6GirFs6upgMQ/P2VaZksaRP7iwF6ktBDez6XAn5wjx7Sf2ZS0RcFqg9UqzdBAbvL6dG3XHqV3XN6V9aMjtlZ/XXm1x89bBIca8pX7meK2hZFK9dow++MJSedKz5lJvhkCVyOTAbf73tiQ2RcK3DupubLGd8E4Ox35b37SDQ9kIgzBlpe8V0Vph8VeR9SMRlSEgyjtTsFFSDu9NL+i528IyAGaN930bT2K98nOFSr1kxoNd4MYj8kOKMbwShSMgy+EqgrPKUJ+GGcQZ3ASfmwQeO01dh7LILn/pIv57ZjUdx12lB4PbLhqup4Wc7F8UHX37mOGAxGqIATjbdNjkqcncHw7gvsJBX5Uq4GrtttoeciP6HtRn9Tpy4ma6pQJOj3lJBqnnYBgqAWKK6pekPNw==;Lnf2FclzEyIZfbWJP7pzMA=="
+secured: "RnYdW+91W0aW+ZFvNepNK6fRDdvEHLEJx3iQoWdeChsB3lZBto58JP1TSOqGhqTQQVLkFRIosMdHypnKjdhtqYP5FRwcIi25lasnLUzO8nrkW0qYhRXpVVUI24q4r8JzZPgVG0KPCpDreJwQM1hDaxRflKFbqDW0aD4e1S0qOTH6FDDDKmUilg1NCLhFn6trsl4oxf9qeb+mpOzoyQQt4MqnuKrzYptHwHtlMdFGJQSfwhwZcZKoGb3ac4WpC2U2OJwoWEfLOCW8BG7mptj+4cUXarygWk8ce9Ri7u9Xhn+L8DlIqkyb1ePUU957qd2eW0DyNEJTU6YhLlpzioTqHtZtw+J59DK51WreBzqi3AK0Va3KxakFZYYWAF4nz49ENrCh6+MItVC0ts7F9rDNb0Ea+n1ullWkhPWOufuXt5s=;CCzrDEfVMrtb0j57pTJgmQ=="
 ---
 

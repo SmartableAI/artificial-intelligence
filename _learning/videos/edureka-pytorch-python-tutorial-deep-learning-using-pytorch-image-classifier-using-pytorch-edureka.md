@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - Facebook AI
 
 images:
   - url: https://i.ytimg.com/vi/XriwHXfLi6M/maxresdefault.jpg
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "5/RACnJJXUYeLQF4Pqq9P1haLgbRrYIZMulv32RXBDXPaFvFCay4Z0b9LaI7BeSosVhit0eG+anlOYJZbJjzg72LWSWk1IOpS2fjQY4iofXlaw2nq1JfN9GjZahODjqUtytQtfYGImmhd6G6PJBGvvly8gffB9vJa9n28GD7jae+GPRD+ug/wJiJaUtAVPZQ3KNRMmmeMk9lhL79/pjEcDdeTo653JoCJiiV8P4M+MWmPIKsObM5jiWt5vhGOCY5K3aR5Hs8hYygDdyd+q1uE3QGlu7jEi9NY6WzSWd7b03oueTb6/Idxo6SvUfUnxWLcuSetRZj3sDRx4FaloKBBValXl0Z5+4Xk7rAutbvWbrYeoaehXiYLzL2cq/49gyv6HvFVcnZ1p5LKy0X2crJyg==;mCP2C++/LfQH/z7T/IxEpg=="
+secured: "G3eFj9Yb60YWnGRahxcLK3OmkP0rGZIExORCBX1y7Ie6EmfsviBMjDi65jcS/OgQC2LKOJaZpr/Sw2Uj+zP2qGhTwVCK4S1Mr7/sOM/g0HVr7XrslFs3bhu624Uy8Aiw13SWDYmuw/TRZ/yAyup3tuIfgKRWmB/dqZMLel4lZ6tGxqaQkFIcQTVV0HJ0iPo0jpLnQUSdcii2ptInnHenjUWSnHMuEXllhWYkNerIvgxR1QE+edv3bFZX5/W2sXYvdrr7X2CP1f51Ofz9PjkGbnoonTmEp7n07tjf+Tzow/rtMcne4GaIS1bvGCpWDMiqMafWRQKal2BSyAB2MNb6IKaVExKIxesx4fW7w5vJE1c8hoCjBM7Biz8KyJBw/kRz1ReeLGMcLD0CZKkbd26rcrm2j5CcOs+uKQ7qYHYEWyY=;r+ox0ZmMYGuyExUAHt44RQ=="
 ---
 

@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT16M21S
 publishedDateTime: 2020-03-17T13:53:12Z
-heat: 54
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JFB_751d2uc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: https://i.ytimg.com/vi/JFB_751d2uc/maxresdefault.jpg
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "aVqR3ltCW41faziTIjRnn3Zy2dqO6wg3PgBFKxz0nedzSZYUjPkQXnJuVzdI4vqaqtI6nNcnPqyn6OANTsmE1PC+Qs9ty9OCVbvdVV/8kMP+eWD8pFnTkFzDwykr0I83OcxB3MPogBp501qb77cbHZn+UNoBP2vNjuy6TEXy0kgXbWX3wkx8P7sWhLP71Zj5EbwGJl7u1S8SYP7z151wHjenZ7tf8ru84cHCSTrthyrKPlU88Pi+9dvDQVLqnDUJ65MlGMgsoZoh0nWFgt+8RnJM7y0kXYi+8PYVv9TxisiRy5tYb/BAXwE6HKtrODnrmOdm+3qeIa+ENt7U6U/n0DwJry54ianlU0RNcgn+Bt496+I0mdu19FNppKYtWBoNhj39yMGGZ1UXaGE76I3+PQ==;lXzNxweYkHjuO6GuhUkXjQ=="
+secured: "kLZFlCC3OVQ/zz9wfs1GvId48Zau+NUSXFxmaP7uZCl9DkOAVSGc3uSqc2lD0aBXo/8+wmP7KXQa1HglmgxAD3KoRxQjTAEK4WPL/loP4h5B797u8Wzii/UBFBV6/mLO+8JaoWLpSuPXmVDlzMHWKadDDIcbQpGgvzLWq0DNqvls2XvHKtUnS20H6kvhBHQZYGXdS387z9pSLGh4ef6hVN16O9/VM4C83CEdconHTXlUh/EHUv17B2gg66Enm46I4z2p4IP5uBiR/RA6xthO+b3syx1mrOgS4incWRoI6WYOH2v0Q5Mu3arJMQFk61gjITajqheCGQxzICEsxKSh8fPhyHjDhzZGQ2Uro07j+KFGu+mytVk76dYm/MwGUFjECmpfwhc5c2MPO9yg8IkFZ7CxybakBa+0N4R0PjEnzBo=;VCHxbpwjlHQYoqqP01maFA=="
 ---
 

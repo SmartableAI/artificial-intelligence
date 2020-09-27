@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5H40M4S
 publishedDateTime: 2019-02-07T19:28:59Z
-heat: 60
+heat: 58
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CNuI8OWsppg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - Facebook AI
 
 images:
   - url: https://i.ytimg.com/vi/CNuI8OWsppg/maxresdefault.jpg
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "4XOLWI8OPGdfRpGYDbL5BlvhFNk4iPQkKqqZfvIOtHoQjBAvU7kBDCZUGfBo66eGvoITkQpookFRN4CCooRUN+3kg9UBxcW9h3WxF/QOrlxeKc2jSzV4TJPpZ+fAi6480XmD44jT64u8SEKzQVgcbLNbgnp4E9uVzwQzcCWTVW27huTXvn2DCe8iyj+JTMp9ThH4LH1IMeBM5vIaXNZuzDSos1/WbEWiUia5qNbqLKoePgHBe1pCWjUtfey7dvnrDRvgqe6+P3huqfr/8Hjn2qBRwJjwoDPPGlYIH/QonI24SzsUbRh47Zc8aUzgknJHSPrJ5uK1o0nXge7t1Ef2L5jqEsnqugIUWIjbhHwfWEICAgsqNaH963EZQS0QUCCDVRrfqBJmZx4P2XHjmoTl1Q==;vhK/h1bya6W69Ap/CdaW/A=="
+secured: "teW/sYYcmP+xiqaQQPFW0pKlLfW8dp7O/D76Arw0hvPrlsc33g9PoM8ezHK0zZbfTY4yRP7pdQKWGF0XZwK/iLnbkYHssdeO6oqQAXiFBhiHpC5apJJ8m5uGjXbwTEN5p2ZGVtKrjxtMEwR2QVwGst5ApfMKgXZFBWV/q0S01gJvSK1G06BqO2ptGYHnESmU4zKuiiJEfx8YPGuWCX/yCO0E3o/fQJmR+FvmL6PbkMZwQbYQ3GX16kfi07kROShQSzqZgfgmcGnmkUneMvefxJhUaOXfO9lIPJx/huOOXcTe9Y4DRxGDwwL/X44hEYBDx07icOG6bhTqarfKZjgP24zgM+bgMtx5XdB25vOksQOgCrA3U7SXLVgb8lST3EmaWK9CNfD0PKm/I6AXU+Ws012p3Z6WwpRSF6idvz5vps1hiu9CFDyutuKayh5xej06;Z2YHA9/1VGugVqa23EFp5w=="
 ---
 

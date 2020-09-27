@@ -4,56 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/coursera-getting-started-with-aws-machine-learning.md",
-      "title": "Getting Started with AWS Machine Learning",
-      "excerpt": "Learn Getting Started with AWS Machine Learning from Amazon Web Services. Machine learning (ML) is one of the fastest growing areas in technology and a highly sought after skillset in today’s job market. The World Economic Forum states the growth ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-getting-started-with-aws-machine-learning/index.json",
-      "webUrl": "https://www.coursera.org/learn/aws-machine-learning",
-      "length": "10 hours",
-      "ratings": {
-        "count": 183,
-        "average": 4.3
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "Amazon Web Services"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/4c/a2b3d72eae428b9022a328718d978e/MachineLearning-02.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Getting Started with AWS Machine Learning",
-          "isCached": false
-        }
-      ],
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_learning/collections/aws-machine-learning-ai-courses-in-pluralsight.md",
       "title": "AWS Machine Learning / AI courses in Pluralsight",
       "excerpt": "AWS has a number of machine learning and artificial intelligence services and products that can be used in conjunction with each other to make smart applications. In this path you’ll become familiar with them and see each one in action.",
@@ -65,9 +15,35 @@
       ],
       "topItems": [
         {
-          "path": "",
+          "path": "_learning/courses/pluralsight-getting-started-with-amazon-lex.md",
           "title": "Getting Started with Amazon Lex",
           "excerpt": "The creation of an interactive and intelligent application is helped by the use of automatic speech recognition (ASR) and natural language understanding (NLU). In Getting Started with Amazon Lex, you will be introduced to the skills required to leverage Amazon Lex to build these user interactions for the applications you create. First, you will learn how to define the intents that the ChatBot will fulfill for the user. Next, you will explore how to create the slots that will gather the required information from your user. Finally, you will discover how to implement Lambda functions that process the information gathered by your ChatBot to complete the desire of your users. When you are finished with this course, you will be prepared to create simple informational bots using Amazon Lex.",
+          "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-getting-started-with-amazon-lex/index.json",
+          "webUrl": "https://www.pluralsight.com/courses/getting-started-amazon-lex",
+          "length": "1h 57m",
+          "provider": {
+            "name": "Pluralsight",
+            "domain": "pluralsight.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ],
+            "authors": [
+              {
+                "path": "",
+                "title": "Mike Erickson",
+                "type": "profile",
+                "name": "Mike Erickson"
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
           "heat": 50,
           "images": [
             {
@@ -79,6 +55,7 @@
             }
           ],
           "type": "course",
+          "price": "$$",
           "topics": [
             "AI",
             "AWS AI",
@@ -86,9 +63,35 @@
           ]
         },
         {
-          "path": "",
+          "path": "_learning/courses/pluralsight-analyzing-text-on-aws-with-amazon-comprehend.md",
           "title": "Analyzing Text on AWS with Amazon Comprehend",
           "excerpt": "At the core of text analysis in the AWS Cloud is a thorough knowledge of Amazon Comprehend. In this course, Analyzing Text on AWS with Amazon Comprehend, you’ll learn how to use the service to extract insights and deep analysis about a given text. First, you’ll discover how the service is structured and common usage patterns for all of its features. Next, you’ll explore more advanced analysis concepts using an asynchronous request pattern. Finally, you’ll see how easy it can be to conduct complex topic modeling analysis. When you’re finished with this course, you’ll have a foundational knowledge of how to use Amazon Comprehend to analyze and understand any document set that will help you as you move forward and understand how to apply machine learning to real world problems.",
+          "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-analyzing-text-on-aws-with-amazon-comprehend/index.json",
+          "webUrl": "https://www.pluralsight.com/courses/aws-comprehend-analyzing-text",
+          "length": "1h 56m",
+          "provider": {
+            "name": "Pluralsight",
+            "domain": "pluralsight.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ],
+            "authors": [
+              {
+                "path": "",
+                "title": "Mark Nunnikhoven",
+                "type": "profile",
+                "name": "Mark Nunnikhoven"
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
           "heat": 50,
           "images": [
             {
@@ -100,6 +103,7 @@
             }
           ],
           "type": "course",
+          "price": "$$",
           "topics": [
             "AI",
             "AWS AI",
@@ -107,9 +111,35 @@
           ]
         },
         {
-          "path": "",
+          "path": "_learning/courses/pluralsight-building-a-voice-enabled-serverless-website-with-aws-polly.md",
           "title": "Building a Voice-enabled Serverless Website with AWS Polly",
           "excerpt": "With all the new technology trends like AI, Serverless, and DevOps, tieing everything together can be overwhelming. In this course, you'll not only demystify this process but also see how using voice can save you time and keep your users engaged.",
+          "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-building-a-voice-enabled-serverless-website-with-aws-polly/index.json",
+          "webUrl": "https://www.pluralsight.com/courses/aws-comprehend-analyzing-text",
+          "length": "1h 46m",
+          "provider": {
+            "name": "Pluralsight",
+            "domain": "pluralsight.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ],
+            "authors": [
+              {
+                "path": "",
+                "title": "Ralu Bolovan",
+                "type": "profile",
+                "name": "Ralu Bolovan"
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
           "heat": 50,
           "images": [
             {
@@ -121,6 +151,7 @@
             }
           ],
           "type": "course",
+          "price": "$$",
           "topics": [
             "AI",
             "AWS AI",
@@ -128,9 +159,35 @@
           ]
         },
         {
-          "path": "",
+          "path": "_learning/courses/pluralsight-translating-languages-on-aws-with-amazon-translate.md",
           "title": "Translating Languages on AWS with Amazon Translate",
           "excerpt": "Translating text at scale is a challenge for many organizations that want to make themselves understood internationally. In this course, Translating Languages on AWS with Amazon Translate, you will gain the ability to leverage Amazon Translate and neural machine translation in your applications. First, you will learn the basic context and benefits of neural machine translation tools. Next, you will discover how to leverage Amazon Translate APIs to scale your translation capabilities. Finally, you will explore how to integrate Amazon Translate with other AWS services such as Amazon Polly and Amazon CloudWatch. When you’re finished with this course, you will have the skills and knowledge of Amazon Translate needed to develop, secure, and monitor your own Amazon Translation applications and remove the restriction of language barriers.",
+          "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-translating-languages-on-aws-with-amazon-translate/index.json",
+          "webUrl": "https://www.pluralsight.com/courses/aws-translate-text",
+          "length": "2h 31m",
+          "provider": {
+            "name": "Pluralsight",
+            "domain": "pluralsight.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ],
+            "authors": [
+              {
+                "path": "",
+                "title": "Fernando Medina Corey",
+                "type": "profile",
+                "name": "Fernando Medina Corey"
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
           "heat": 50,
           "images": [
             {
@@ -142,6 +199,7 @@
             }
           ],
           "type": "course",
+          "price": "$$",
           "topics": [
             "AI",
             "AWS AI",
@@ -150,7 +208,7 @@
         }
       ],
       "size": 8,
-      "heat": 75,
+      "heat": 60,
       "images": [
         {
           "url": "https://pluralsight.imgix.net/course-images/audience/software-development.jpg",
@@ -213,6 +271,56 @@
       ]
     },
     {
+      "path": "_learning/courses/coursera-getting-started-with-aws-machine-learning.md",
+      "title": "Getting Started with AWS Machine Learning",
+      "excerpt": "Learn Getting Started with AWS Machine Learning from Amazon Web Services. Machine learning (ML) is one of the fastest growing areas in technology and a highly sought after skillset in today’s job market. The World Economic Forum states the growth ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-getting-started-with-aws-machine-learning/index.json",
+      "webUrl": "https://www.coursera.org/learn/aws-machine-learning",
+      "length": "10 hours",
+      "ratings": {
+        "count": 183,
+        "average": 4.3
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Amazon Web Services"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/4c/a2b3d72eae428b9022a328718d978e/MachineLearning-02.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Getting Started with AWS Machine Learning",
+          "isCached": false
+        }
+      ],
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_learning/courses/pluralsight-analyzing-text-on-aws-with-amazon-comprehend.md",
       "title": "Analyzing Text on AWS with Amazon Comprehend",
       "excerpt": "At the core of text analysis in the AWS Cloud is a thorough knowledge of Amazon Comprehend. In this course, Analyzing Text on AWS with Amazon Comprehend, you’ll learn how to use the service to extract insights and deep analysis about a given text. First, you’ll discover how the service is structured and common usage patterns for all of its features. Next, you’ll explore more advanced analysis concepts using an asynchronous request pattern. Finally, you’ll see how easy it can be to conduct complex topic modeling analysis. When you’re finished with this course, you’ll have a foundational knowledge of how to use Amazon Comprehend to analyze and understand any document set that will help you as you move forward and understand how to apply machine learning to real world problems.",
@@ -224,7 +332,7 @@
         "domain": "pluralsight.com",
         "images": [
           {
-            "url": "/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -272,7 +380,7 @@
         "domain": "pluralsight.com",
         "images": [
           {
-            "url": "/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -320,7 +428,7 @@
         "domain": "pluralsight.com",
         "images": [
           {
-            "url": "/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -368,7 +476,7 @@
         "domain": "pluralsight.com",
         "images": [
           {
-            "url": "/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -416,7 +524,7 @@
         "domain": "pluralsight.com",
         "images": [
           {
-            "url": "/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -464,7 +572,7 @@
         "domain": "pluralsight.com",
         "images": [
           {
-            "url": "/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -512,7 +620,7 @@
         "domain": "pluralsight.com",
         "images": [
           {
-            "url": "/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -560,7 +668,7 @@
         "domain": "pluralsight.com",
         "images": [
           {
-            "url": "/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false

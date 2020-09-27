@@ -18,7 +18,7 @@
         "domain": "amazon.com",
         "images": [
           {
-            "url": "/assets/images/organizations/amazon.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -70,7 +70,7 @@
         "domain": "amazon.com",
         "images": [
           {
-            "url": "/assets/images/organizations/amazon.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -121,7 +121,7 @@
         "domain": "amazon.com",
         "images": [
           {
-            "url": "/assets/images/organizations/amazon.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -171,7 +171,7 @@
         "domain": "amazon.com",
         "images": [
           {
-            "url": "/assets/images/organizations/amazon.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -209,10 +209,10 @@
       ]
     },
     {
-      "path": "_learning/books/amazon-machine-learning-mathematics-study-deep-learning-through-data-science-how-to-build-artificial-intelligence-through-concepts-of-statistics-algorithms-analysis-and-data-mining.md",
-      "title": "Machine Learning Mathematics: Study Deep Learning Through Data Science. How to Build Artificial Intelligence Through Concepts of Statistics, Algorithms, Analysis and Data Mining",
+      "path": "_learning/books/amazon-machine-learning-mathematics-study-deep-learning-through-data-science.md",
+      "title": "Machine Learning Mathematics: Study Deep Learning Through Data Science",
       "excerpt": "Master the World of Machine Learning – Even if You’re a Complete Beginner.  Are you an aspiring entrepreneur? Or are you an amateur software developer looking for a break in the world of machine learning? Then this is the book for you.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-machine-learning-mathematics-study-deep-learning-through-data-science-how-to-build-artificial-intelligence-through-concepts-of-statistics-algorithms-analysis-and-data-mining/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-machine-learning-mathematics-study-deep-learning-through-data-science/index.json",
       "webUrl": "https://www.amazon.com/Machine-Learning-Mathematics-Artificial-Intelligence-ebook/dp/B07Z413J9J/",
       "ratings": {
         "count": 25,
@@ -223,7 +223,7 @@
         "domain": "amazon.com",
         "images": [
           {
-            "url": "/assets/images/organizations/amazon.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -274,7 +274,7 @@
         "domain": "amazon.com",
         "images": [
           {
-            "url": "/assets/images/organizations/amazon.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -326,7 +326,7 @@
         "domain": "amazon.com",
         "images": [
           {
-            "url": "/assets/images/organizations/amazon.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -377,7 +377,7 @@
         "domain": "amazon.com",
         "images": [
           {
-            "url": "/assets/images/organizations/amazon.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -428,7 +428,7 @@
         "domain": "amazon.com",
         "images": [
           {
-            "url": "/assets/images/organizations/amazon.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -489,7 +489,7 @@
         "domain": "mit.edu",
         "images": [
           {
-            "url": "/assets/images/organizations/mit.edu-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false

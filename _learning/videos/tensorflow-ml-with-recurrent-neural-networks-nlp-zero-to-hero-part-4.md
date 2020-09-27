@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M59S
 publishedDateTime: 2020-04-30T22:12:44Z
-heat: 58
+heat: 59
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OuYtk9Ymut4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,7 @@ topics:
   - Google AI
   - AI
   - Natural Language Processing
+  - Machine Learning
 
 images:
   - url: https://i.ytimg.com/vi/OuYtk9Ymut4/maxresdefault.jpg
@@ -30,6 +31,6 @@ images:
     height: 720
     isCached: true
 
-secured: "rRbwvHQmp7sjk/oRSUCYSlttncIwtcJjnGAP8H/P5XXaflmqGkmTTtGcX5kcWd1V4zMn2cbVhDZj/aDKzXep21dQs9A1fQHYFN2wjcCZ5NiqWqiGVjZGvKDiyqDv/XIISgXsMv9lj1UHHE5Hgt7vRYnMgrAnAEiYpzY4pFEQ/APGmuz1GgcWL/EmqIp4GucqLWed0wqJGXYmounNGLT09g9GDYAVqt3frYS21DxO5jHEzUZYMWcLj5G6d3c5nz9H40RjM1YlQ24AAKCQ1HYvRYLXO4JU00k+sHOvyY851sHJFQjnUgRaUTQa4FhYZFKZb7VnvSaO2oeePmzPAleX4b+8ecd0U7Zrswy0ZIGJChHu0uug+ovvDFhm6MXzP6Ak8Hcg4QXGIqKtGZ16TmT5ag==;MJvLMe6//HI8eOg/99ys5w=="
+secured: "lZ4mxzQvK4DzpIB+9p1l4NibL7Zc2aPT121F5dRejrK5zr9zRXm9TiU/xPGZ32wTpd9tYRFaQ9dkTlSoX6wnU36Roe3hXao1J3fnEtpwnwDbLtKW6f90hDahuclzpzhD8EQxioEIoBspTrpE4V2u8QKtFkSdcG5aUCs5u5qSnOg5rU/Y/2ciri+9VKRwvI6Ma3tKTaZATUVmfvIcmtLNQCm9U568h5lpzp2n1pTRm5WQ484WCbGyeGMIXO9pr1/YtvzLfOHJBtfT+6SeAqbAvvc1ILZp92yyP9sdmSoPQxdIKsNonwt5AHa6PymtBVKxJSezYHU76hRTISrIGVTX86FA4mDNLpl2VRoXOeUYbKYw9BqLPXE7GBs3esWu7QTPlKElEcUSKsEh3xdjX6v34QC7UZE7VZ3TV7/By930vRE=;/gGq7nu1Ps6peeU5oN2A+w=="
 ---
 

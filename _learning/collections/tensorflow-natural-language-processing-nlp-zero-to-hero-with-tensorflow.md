@@ -2,7 +2,7 @@
 title: "Natural Language Processing (NLP) Zero to Hero with TensorFlow"
 excerpt: "Welcome to Zero to Hero for Natural Language Processing using TensorFlow! If you’re not an expert on AI or ML, don’t worry -- we’re taking the concepts of NLP and teaching them from first principles with our host Laurence Moroney."
 type: collection
-heat: 96
+heat: 75
 
 provider:
   name: TensorFlow
@@ -11,14 +11,6 @@ provider:
     - url: https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg
       width: 50
       height: 50
-
-items:
-  - videos/tensorflow-natural-language-processing-tokenization-nlp-zero-to-hero-part-1
-  - videos/tensorflow-sequencing-turning-sentences-into-data-nlp-zero-to-hero-part-2
-  - videos/tensorflow-training-a-model-to-recognize-sentiment-in-text-nlp-zero-to-hero-part-3
-  - videos/tensorflow-ml-with-recurrent-neural-networks-nlp-zero-to-hero-part-4
-  - videos/tensorflow-long-short-term-memory-for-nlp-nlp-zero-to-hero-part-5
-  - videos/tensorflow-training-an-ai-to-create-poetry-nlp-zero-to-hero-part-6
 
 items:
   - videos/tensorflow-natural-language-processing-tokenization-nlp-zero-to-hero-part-1

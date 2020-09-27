@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT12M45S
 publishedDateTime: 2018-11-29T05:21:30Z
-heat: 53
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p1ccbR2P_xA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - Natural Language Processing
 
 images:
   - url: https://i.ytimg.com/vi/p1ccbR2P_xA/maxresdefault.jpg
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Gj4tGPFAhYACep7R0i0subunN1emqjUXUyNS8a+2hMQHyVy6i09ALDSFuF0UVwfux9Nv/CYqwg/7dhKk27qul0zOO/1teRD6vP75qEoUgsaneJmLexxrZ8HTtQKyRXWfGsryxAhBe7O2q3WYYI9eDJCVAemHSCm5Gv7UzzLu3lZ+U/193qd+ttxxmM13y6AzrSCqhCOxmi9L39VuoHBixOy0zVBtfcdHuYkaZJrgDAAQBCYbKnvwaalwIYWWH2yYXAG7+xBx+aXeFKToX4lDbfCupU5rQSaehPuQKSB6Uw3GJJDjXkkP679WM0slQRw+Fie035HqOSbhm7Tt3pknPzeh4bvLXDcr0GC5jhz9i6e/qVJ4ny3oRgDKSBCGc+KZIxxCVipUpEtl5/g1abNIBw==;x77snk+Zm4z0bQrEoviLkQ=="
+secured: "JUllwW4tHgLRCL9s9tzxDCuGO0VFq9nCZL3b01xOUV7R76CSTICmg+PLS+cnoh9iT2CgJCATb7Qwpjayz26K8d6ezhSBb9+LFrlC4sI/Z9JVT7SdtIntV4BjxW1ptSziRe8ruVeTJr0C4wF9eRWqdIcqUZfVYdS+gUpyRAOiiXqhDkwXCMwMSKyrTymGcfjVwGLsq2qGtqb9jctSZlbKtkWwnKbSg73bIWQjsxvcIuacNQjXsK/jNi2TT0xdI3EHevMYE4zJ4G28Cslv7GvCaY04klPnVL1Qa54ZcOycMV5MsWJ41cfHrJrj8eC7P5a9aVQRxbhJxxdxsvcvwAmIbXOc8YNi19tWniBjyQemz5HQkNU+zVEbCuEY+8Bi/7QsvE4X7RpD7aSogk1gb+jb2kVLdRPKb9infeQW6orRPbE=;F8d/qUw71onCv5vsUY12ow=="
 ---
 

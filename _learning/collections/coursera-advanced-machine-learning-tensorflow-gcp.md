@@ -2,14 +2,7 @@
 title: "Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization"
 excerpt: "Learn Advanced Machine Learning with Google Cloud. Build production-ready machine learning models with TensorFlow on Google Cloud Platform."
 type: collection
-heat: 75
-
-items:
-  - courses/coursera-end-to-end-machine-learning-with-tensorflow-on-gcp
-  - courses/coursera-production-machine-learning-systems
-  - courses/coursera-image-understanding-with-tensorflow-on-gcp
-  - courses/coursera-sequence-models-for-time-series-and-natural-language-processing
-  - courses/coursera-recommendation-systems-with-tensorflow-on-gcp
+heat: 60
 
 levels:
   - Advanced

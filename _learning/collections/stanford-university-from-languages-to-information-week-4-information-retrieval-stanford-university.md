@@ -2,7 +2,7 @@
 title: "From Languages to Information Week 4: Information Retrieval | Stanford University"
 excerpt: "This is the Week 4 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course"
 type: collection
-heat: 76
+heat: 61
 
 provider:
   name: Stanford University
@@ -11,22 +11,6 @@ provider:
     - url: https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg
       width: 50
       height: 50
-
-items:
-  - videos/stanford-university-71-introduction-to-information-retrieval-information-retrieval
-  - videos/stanford-university-72-term-document-incidence-matrices-information-retrieval
-  - videos/stanford-university-73-the-inverted-index-information-retrieval
-  - videos/stanford-university-74-query-processing-with-the-inverted-index-information-retrieval
-  - videos/stanford-university-75-the-boolean-retrieval-model-information-retrieval
-  - videos/stanford-university-76-phrase-queries-and-positional-indexes-information-retrieval
-  - videos/stanford-university-81-introducing-ranked-retrieval-information-retrieval
-  - videos/stanford-university-82-scoring-with-the-jaccard-coefficient-information-retrieval
-  - videos/stanford-university-83-term-frequency-weighting-information-retrieval
-  - videos/stanford-university-84-inverse-document-frequency-weighting-information-retrieval
-  - videos/stanford-university-85-tf-idf-weighting-information-retrieval
-  - videos/stanford-university-86-the-vector-space-model-information-retrieval
-  - videos/stanford-university-87-calculating-tf-idf-cosine-scores-information-retrieval
-  - videos/stanford-university-88-evaluating-search-engines-information-retrieval
 
 items:
   - videos/stanford-university-71-introduction-to-information-retrieval-information-retrieval

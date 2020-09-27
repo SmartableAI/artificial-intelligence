@@ -16,10 +16,6 @@ items:
   - videos/stanford-university-138-word-similarity-distributional-similarity-i-recommendation-systems-and-vector-semantics
   - videos/stanford-university-1310-word-similarity-distributional-similarity-ii-recommendation-systems-and-vector-semantics
 
-items:
-  - videos/stanford-university-138-word-similarity-distributional-similarity-i-recommendation-systems-and-vector-semantics
-  - videos/stanford-university-1310-word-similarity-distributional-similarity-ii-recommendation-systems-and-vector-semantics
-
 topics:
   - AI
   - Natural Language Processing

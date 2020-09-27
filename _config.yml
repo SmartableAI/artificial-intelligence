@@ -33,18 +33,6 @@ pagination:
 
 
 #----------------------------------------------------------------------------------
-# Learning Settings
-#----------------------------------------------------------------------------------
-
-# Default settings of learning
-default_learning_settings: &default_learning_settings
-  layout: post
-  category: learning
-  permalink: /api/learning/:path/index.json
-  deleted: false
-
-
-#----------------------------------------------------------------------------------
 # Project Settings
 #----------------------------------------------------------------------------------
 
@@ -117,8 +105,6 @@ collections:
     output: true
   posts:
     output: true
-  learning:
-    output: true
   projects:
     output: true
   companies:
@@ -137,20 +123,6 @@ defaults:
       type: posts
     values:
       <<: *default_post_settings
-  # _learning
-  - scope:
-      path: ""
-      type: learning
-    values:
-      <<: *default_learning_settings
-  - scope:
-      path: "_learning/collections"
-    values:
-      layout: collection
-      category: learning
-      permalink: /api/learning/collections/:title/index.json
-      type: collection
-      support_paging: false
   # _projects
   - scope:
       path: ""

@@ -2,7 +2,7 @@
 title: "Machine Learning with ML.NET"
 excerpt: "Welcome to Machine Learning with ML.NET! In this introductory video series we will introduce the concept of Machine Learning, what you can do with various tooling, and how to get started with ML.NET!"
 type: collection
-heat: 81
+heat: 66
 
 provider:
   name: dotNET
@@ -11,16 +11,6 @@ provider:
     - url: https://smartableai.github.io/artificial-intelligence/assets/images/organizations/dotnet.microsoft.com-50x50.jpg
       width: 50
       height: 50
-
-items:
-  - videos/dotnet-mlnet-machine-learning-introduction-mlnet-1-of-8
-  - videos/dotnet-mlnet-introduction-mlnet-2-of-8
-  - videos/dotnet-getting-started-with-mlnet-mlnet-3-of-8
-  - videos/dotnet-build-a-ml-model-for-sentiment-analysis-mlnet-4-of-8
-  - videos/dotnet-build-a-ml-model-for-github-issue-classification-mlnet-5-of-8
-  - videos/dotnet-build-a-ml-model-for-predicting-taxi-fares-mlnet-6-of-8
-  - videos/dotnet-build-a-ml-model-for-movie-recommendation-mlnet-7-of-8
-  - videos/dotnet-deep-learning-with-mlnet-image-classification-mlnet-8-of-8
 
 items:
   - videos/dotnet-mlnet-machine-learning-introduction-mlnet-1-of-8

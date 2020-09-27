@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - Machine Learning
 
 images:
   - url: https://i.ytimg.com/vi/7U14iupLMdk/maxresdefault.jpg
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "JBbr5KCI1itYI/fSUUbFMImrjxz42dM4ftfccGs8jTYaPRTWyXcwOE6NoKQkT1Li/Huf+G/OvAC/jk3WPHA1ryTJC2b7rXZ99TJy4bYAh7UYF20numvisgDFHR5YJ0UC7yT5WrtOV8GdNVTceejh9iVOnhPz/ZTyMfY8lLsBd12a43O1PPnstaVrIFOkigGvwyw2j8o34++c/RZSmPdAnDSpgGeBA18NMm+LnNyX9nLz/qJ6f0QVjn9fmFuLtn2e3caL/haCOJAajBzb5auUafDa5HGG4XBfuXUdKe1eLM0BpVsR7kWpPXBqSq5ksaYsm0MX9ZZovjs5c0s5K8XSGAp5LHi196H9uHAwztFkNc0E1A1J3NyhJXpV9tBB8CXQPIg+bK0RRMR9BaY6hc39Nw==;KlZ4h9bGTr534SjQfR/9rA=="
+secured: "/Q7rphfm4SoMZv0CTq/KZelSWA0hKy3UOlJBS2ZbmP+bbP98PS4Vff6dxmbl7c20qcn9o2SU3TMflhJ+6MqWWC+4ahmck8Hd0REDl/VuxbtHaZ895wEqim/0EpdH+Ucya8B6zIv30hKGwzEFfsLz723x/m6kH0vlK7k4mI/atEj65UNgzFKr9mN38qf8cwTGxTdel4pqDi0jAo/hv/IpNuBqQbbwYaelF95VUMtzzeoeOnMMkGbfF0I4epgdpxgRrnOpiwMmkjrE0SJWiPL18b1GqrKuwq+NFmGp2I1/lOSDsRnphm5hKn3XKlkEk7/lSDRM9G9SNvwkgafEvL5w8eQ0Ag/8Z3H3cRv0ElzOSebLy18Eu48uU7iH6aylzPQ1/raGUeQ6R1zHe8Q0ig8j/cBirq3WeC/cosNDuoQ1VeI=;cCYi30u4/hM2BQ81Jtd4HA=="
 ---
 

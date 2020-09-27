@@ -21,6 +21,8 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - Google AI
+  - TensorFlow
 
 images:
   - url: https://i.ytimg.com/vi/uh2Fh6df7Lg/hqdefault.jpg
@@ -28,6 +30,6 @@ images:
     height: 360
     isCached: true
 
-secured: "TmSYaZ9K2Kv8+VZ/RzvlzlN3M9+7TgGxx4gdlRQVnrzrzRZJcxO3HaLthZj7tL/7rVkUD/z+5vYVe1kGUPBIcclX5EFw/m91ZUP+jKhOr6pfzA5kiC3JIzO4ayFtldB2erq3gZxlj5y2DTs8DQFAaNNkVfZLsJkLmHzIPikh9QL5KhFQZ1adonkWuYjq8tOrBqO+aSWFneGJOz2w3zFrnwu2ZZupYIBcp4CqrgT6zxzyUzm7WntK7nPTPJ8bLOei6yLxddezsK3mQK/trPBfmR9yImXEvxo27tV4EYoFZCrVNzFo0H6fExREeOxyLwAKfyPgeO4hxAAbc2W2KFmumkWiTII10dqwDfzklUwDPlqGF9kEpl8dQu54two5jY4OPAvYVCBaiq098rVfnCUTOA==;bDwO9+PY+dVd5tt3r1+sJw=="
+secured: "1c1Oe/D5JZQxafhuW6GLYk1D0bLac+7TR+IpOltdkshloPiVmMdbPv1wyWAqLJvHCQ0z5aVhe6wSznw9f5p4PoHOwmIElDRDP6meZOvDf3f2wDd5QpQt5dA0tmdl4T/TVPe64m7SHLIMCkV6yackCVTGUJMG2bbt+q5LyLAnBmQDcUowNZ26GsHGMRk8RaKxBlryOHkDasuAraLDaVISzSFvNRlk/Bn9DA3OP+BJn+A9e69W+04RzqzZOILmNRVCmJkJuShQpYESekh601ed1ECFMOphLpzdnUK7HpczSjaDLxKtayGy/o31xtG2pOSW/Am7H5oYtv5ZNDyQWMSPnAvZxLJ4ZaQlCJtUIq0vjwD9DAJ+HRWPqsagdJ9hSkF7QGUIUv9VAmu5lrwq5HtAgZOS9rnJEI4SGaAh2vNlNG4=;v9LYLBtz5udB0574tBVM7g=="
 ---
 
