@@ -27,20 +27,20 @@ images:
 
 related:
   - title: "Dissident Ai Weiwei protests possible extradition of Assange"
-    excerpt: "The dissident Chinese contemporary artist Ai Weiwei staged a silent protest outside London’s Old Bailey court on Monday against the possible extradition of WikiLeaks founder"
-    publishedDateTime: 2020-09-28T12:22:00Z
-    webUrl: "https://www.kxan.com/news/international/dissident-ai-weiwei-protests-possible-extradition-of-assange/"
-    ampWebUrl: "https://www.kxan.com/news/international/dissident-ai-weiwei-protests-possible-extradition-of-assange/amp/"
-    cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/international/dissident-ai-weiwei-protests-possible-extradition-of-assange/amp/"
+    excerpt: "The dissident Chinese contemporary artist Ai Weiwei staged a silent protest outside London's Old Bailey court on Monday against the possible extradition of WikiLeaks founder Julian Assange to the United States,"
+    publishedDateTime: 2020-09-28T12:30:00Z
+    webUrl: "https://www.chron.com/news/article/Dissident-Ai-Weiwei-protests-possible-extradition-15602451.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Dissident-Ai-Weiwei-protests-possible-extradition-15602451.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Dissident-Ai-Weiwei-protests-possible-extradition-15602451.php"
     type: article
     provider:
-      name: KXAN
-      domain: kxan.com
+      name: Houston Chronicle
+      domain: chron.com
     quality: 57
     images:
-      - url: "https://www.kxan.com/wp-content/uploads/sites/40/2020/09/2644d6c293a24777b618ebaef166d1e8.jpg?w=1280"
-        width: 1280
-        height: 783
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
         isCached: true
   - title: "Ai Weiwei and groomed dogs: Monday's best photos"
     excerpt: "The Guardian’s picture editors select highlights from around the world"

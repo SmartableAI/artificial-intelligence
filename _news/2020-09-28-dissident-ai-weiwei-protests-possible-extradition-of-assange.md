@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Dissident Ai Weiwei protests possible extradition of Assange"
-excerpt: "The dissident Chinese contemporary artist Ai Weiwei staged a silent protest outside London’s Old Bailey court on Monday against the possible extradition of WikiLeaks founder"
-publishedDateTime: 2020-09-28T12:22:00Z
-originalUrl: "https://www.kxan.com/news/international/dissident-ai-weiwei-protests-possible-extradition-of-assange/"
-webUrl: "https://www.kxan.com/news/international/dissident-ai-weiwei-protests-possible-extradition-of-assange/"
-ampWebUrl: "https://www.kxan.com/news/international/dissident-ai-weiwei-protests-possible-extradition-of-assange/amp/"
-cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/international/dissident-ai-weiwei-protests-possible-extradition-of-assange/amp/"
+excerpt: "The dissident Chinese contemporary artist Ai Weiwei staged a silent protest outside London's Old Bailey court on Monday against the possible extradition of WikiLeaks founder Julian Assange to the United States,"
+publishedDateTime: 2020-09-28T12:30:00Z
+originalUrl: "https://www.chron.com/news/article/Dissident-Ai-Weiwei-protests-possible-extradition-15602451.php"
+webUrl: "https://www.chron.com/news/article/Dissident-Ai-Weiwei-protests-possible-extradition-15602451.php"
+ampWebUrl: "https://www.chron.com/news/amp/Dissident-Ai-Weiwei-protests-possible-extradition-15602451.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Dissident-Ai-Weiwei-protests-possible-extradition-15602451.php"
 type: article
 quality: 57
 heat: 97
 published: true
 
 provider:
-  name: KXAN
-  domain: kxan.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.kxan.com/wp-content/uploads/sites/40/2020/09/2644d6c293a24777b618ebaef166d1e8.jpg?w=1280"
-    width: 1280
-    height: 783
+  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+    width: 375
+    height: 211
     isCached: true
 
 related:
@@ -82,6 +82,6 @@ related:
       domain: smh.com.au
     quality: 35
 
-secured: "lT1/io8Do9mWSrl43MC3qy8zQaMQEwPOOocuSjWCXICFbKatyeeIZz7Cp3qn1Lgb6KLBtEWPtomDSOW5fxohHXBtSCA3Jon051kwUugXHLyJ2RnlitHLz5yThspbNdM9sXEH2Ja8bgwYDiNRG6vpAJwZrpZqDzWYKkTQ4rbDR9QRN/HNLBR+EBWeSxIdo3c6szkgc0Qx8DhEvge9y0/cIaFJ16SbueUxTyWmWJyc8UjJfJnG4judTQOWnWajCF3auuAJqD286r3m+uBocuUt2tBxGhOihJImvciXTbtCMAew+3At0tA0U6zdmb+cMO6mwazpDeXSs2Q7thr4HUPnzdG6hWtXzQgUj48cnjvyP4c=;WbmOhZSF9Nmn2LiP74xV5A=="
+secured: "WNQ5+MlySOluhYWnwPWAied3O8DS6MxWy24QJzbQZhdhFjsDz6limGGM23/h1nADdA8z+kxumCi5pX+oiOBHr5aieu49ABKJotCEOUkTkiGQUEeL8MQsuJSXeGeBcsY3PF7bJ3LvSJW6+ceXiAFSYHCrrGxVvFcPrU5hZSzLQ5s020RwRz8+dN7tzPdqTNLI65dBnQ5WNG7VtwN+WL1+IBLfuxiYpMKQiwaFTOlGQWrnO0ikNiPlWXLdX6ELoPkN2za1c1k/Z82aJ62zODO1CYsb9R7L07DILQ/S1JbH/A4xfn0uenLaK6W+BcPattlY8/TOfvDY/SsDL1BYjS6gphgU6NzWH2NGUfp7JO8LSY0=;eJqaXYfKn4MvJt4kmpanqA=="
 ---
 

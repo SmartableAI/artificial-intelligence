@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Palestinian leader calls for new peace process in UN speech"
-excerpt: "Abbas seemed to acknowledge the growing international weariness with the decades-old conflict as he delivered the latest in a long series of addresses to the U.N. General Assembly."
-publishedDateTime: 2020-09-25T22:36:00Z
-originalUrl: "https://www.pbs.org/newshour/world/palestinian-leader-calls-for-new-peace-process-in-un-speech"
-webUrl: "https://www.pbs.org/newshour/world/palestinian-leader-calls-for-new-peace-process-in-un-speech"
-ampWebUrl: "https://www.pbs.org/newshour/amp/world/palestinian-leader-calls-for-new-peace-process-in-un-speech"
-cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/world/palestinian-leader-calls-for-new-peace-process-in-un-speech"
+excerpt: "Palestinian President Mahmoud Abbas on Friday called for an international conference early next year to launch a \"genuine peace process\" while criticizing the recent decision of two Arab countries to normalize relations with Israel."
+publishedDateTime: 2020-09-25T21:28:00Z
+originalUrl: "https://www.nhregister.com/news/article/Palestinian-leader-calls-for-new-peace-process-in-15597017.php"
+webUrl: "https://www.nhregister.com/news/article/Palestinian-leader-calls-for-new-peace-process-in-15597017.php"
+ampWebUrl: "https://www.nhregister.com/news/amp/Palestinian-leader-calls-for-new-peace-process-in-15597017.php"
+cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Palestinian-leader-calls-for-new-peace-process-in-15597017.php"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: PBS
-  domain: pbs.org
+  name: New Haven Register
+  domain: nhregister.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/09/2020-09-25T165616Z_477770301_RC2S5J988JHG_RTRMADP_3_UN-ASSEMBLY-1024x683.jpg"
-    width: 1024
-    height: 683
+  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+    width: 375
+    height: 211
     isCached: true
 
 related:
@@ -58,6 +58,6 @@ related:
         height: 682
         isCached: true
 
-secured: "2qNDosXkd6OELI/tcvJqGzOLmqOdTcufC+1CvLkSPmvnKAHUkoMsbkDiqtTABulOWmW0hCtjiG9nfacZ/yJCeV+NYPdKKKOTi5Z1loEaZo77Kc3xE5cOC2jqQ405a+l3q7ZlvhMyoEcKmQJIVnwPz+VdSfmuk+TTXzz472YUtbL0AOCtTqhozjM5+uho7J34ywdwkSuY8LY4ixFqgVCe8Xc1eVtIExeyjbcNd6Ykor4bqCpAAnd+8Qke4xHEWiohePj00XayjWgi3HsYZMZ7CIHWPHfx90WToHOscAeYuRN62o7fjRypDGEPmjplmkVutgqBh320HolI9X6MU5j3nvXIKwQ4N5tNoBHRkMycPXA=;JPndrN8XV94T8msgyr48xw=="
+secured: "DQ77q0z6H9YHKHSnp0IgqPTFpVuckP4TlpYGSqK+alG4pzi63Cx+Oery8bQ5RP2OXTo/KW0wkxZG5GrEjh/O9t4EKeOlX30q3RJ/e82jtKpDUWxNjuZqlDjboO7XzXSm7VdUOulbnxuIYeg2Dy9ifq/N9jyJd9vAQgf91z0oQccBJF8ltxUgU9q8KRl/J76LEi8CZHzgYqPhQToXf07K2EoKu9WUk0H3kep64StH3fdcISEazVbSvbp9Tzd1LBdzJPzWoo4b6zaRqXx1RgGV0JSumgyoBFU1M4wUtXbwbKAortIp6iW+1oxqCsGFbTOYsNWvBrGEi4BLbUUPuebGO9vyR/bBeVioVJ7AsH9gSRg=;Lw+iUfsYk8pKKfmexcH8Aw=="
 ---
 

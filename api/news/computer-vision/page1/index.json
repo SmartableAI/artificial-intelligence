@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-27-singapore-to-become-first-to-use-facial-recognition-in-national-identity-scheme.md",
+      "title": "Singapore to become first to use facial recognition in national identity scheme",
+      "excerpt": "Singapore will be the first country in the world to use facial recognition as part of its national identity scheme. This new technology will",
+      "sourceUrl": null,
+      "webUrl": "https://www.buzz.ie/news/singapore-facial-recognition-in-national-identity-scheme-390534",
+      "originalUrl": "https://www.buzz.ie/news/singapore-facial-recognition-in-national-identity-scheme-390534",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.resized.co/buzz_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLmJ1enouaWVcXFwvdXBsb2Fkc1xcXC8yMDIwXFxcLzA5XFxcLzI2MTkyMjM2XFxcL1BBLTU1Mzg0OTQ2LTEwMjR4NjgzLmpwZ1wiLFwid2lkdGhcIjo2NDcsXCJoZWlnaHRcIjozNDAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5idXp6LmllXFxcL2lcXFwvbm8taW1hZ2UucG5nXCJ9IiwiaGFzaCI6IjI3NjRmYThhZjlhNWIyOWM5MGI5ZDc1ZmQyYTc4NzY5ZTIxN2I1YjIifQ==/pa-55384946-1024x683.jpg",
+          "width": 647,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.buzz.ie/amp/news/singapore-facial-recognition-in-national-identity-scheme-390534",
+      "cdnAmpWebUrl": "https://www-buzz-ie.cdn.ampproject.org/c/s/www.buzz.ie/amp/news/singapore-facial-recognition-in-national-identity-scheme-390534",
+      "publishedDateTime": "2020-09-26T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "buzz.ie",
+        "domain": "buzz.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-26-madurai-police-launches-facial-recognition-app-to-reduce-crime-rate.md",
       "title": "Madurai Police Launches Facial Recognition App To Reduce Crime Rate",
       "excerpt": "To reduce robberies and other crimes, the Madurai city police has introduced the FACETAGR app, a technology-enabled web-based processor, which matches the facial features of a suspect with the data stored in a database.",
@@ -154,7 +196,7 @@
       "originalUrl": "https://venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1371,48 +1413,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-skin-like-sensors-and-ai-offer-surprisingly-accurate-hand-gesture-recognition.md",
-      "title": "Skin-Like Sensors and AI Offer (Surprisingly) Accurate Hand Gesture Recognition",
-      "excerpt": "Scientists in Singapore have developed an AI system that recognizes hand gestures by combining wearable skin-like sensors with computer vision. Human hand gesture recognition systems have come a long way over the last decade. Today, the technology lends ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.allaboutcircuits.com/news/skin-like-sensors-computer-vision-offer-accurate-hand-gesture-recognition/",
-      "originalUrl": "https://www.allaboutcircuits.com/news/skin-like-sensors-computer-vision-offer-accurate-hand-gesture-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.allaboutcircuits.com/uploads/thumbnails/Skin-like_sensor_and_AI.jpg",
-          "width": 700,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-10T16:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "All About Circuits",
-        "domain": "allaboutcircuits.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

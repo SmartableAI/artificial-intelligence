@@ -107,6 +107,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The battle for the telco cloud intensifies as Microsoft announces Azure for Operators"
+    excerpt: "The telco cloud is key to supporting 5G, applying AI to network services, and building an agile infrastructure Microsoft want to be a trusted telco partner"
+    publishedDateTime: 2020-09-28T17:13:00Z
+    webUrl: "https://www.telecomtv.com/content/emerging-tech/the-battle-for-the-telco-cloud-is-joined-as-microsoft-announces-azure-for-operators-39772/"
+    ampWebUrl: "https://www.telecomtv.com/content/emerging-tech/the-battle-for-the-telco-cloud-is-joined-as-microsoft-announces-azure-for-operators-39772/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/emerging-tech/the-battle-for-the-telco-cloud-is-joined-as-microsoft-announces-azure-for-operators-39772/amp/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 67
+    images:
+      - url: "https://assets.telecomtv.com/assets/telecomtv/cloud-native-telco-bg-web-8390.jpg?w=1200"
+        width: 1050
+        height: 750
+        isCached: true
   - title: "MAJiK Systems’ Visual Factory Now Available in the Microsoft Azure Marketplace"
     excerpt: "MAJiK Systems, provider of an IoT-centered software suite that allows manufacturers to drive operational excellence by natively connecting to PLCs and SCADA systems, today announced the availability of Visual Factory in the Microsoft Azure Marketplace,"
     publishedDateTime: 2020-09-24T16:31:00Z
@@ -192,20 +208,6 @@ related:
         width: 520
         height: 296
         isCached: true
-  - title: "SES signs multi-year agreement with Microsoft to be an Azure Orbital partner"
-    excerpt: "SES signed a multi-year agreement with Microsoft to be an Azure Orbital partner and to accelerate and expand the use of Microsoft Azure."
-    publishedDateTime: 2020-09-23T23:32:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/09/24/ses-microsoft/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 51
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/08/31114057/insecure-66a.jpg"
-        width: 304
-        height: 405
-        isCached: true
   - title: "Microsoft Launches a New Communication Platform with Azure Communication Services"
     excerpt: "Ignite Conference, Microsoft announced Azure Communication Services (ACS), a fully-managed communication platform. The offering is currently in public preview."
     publishedDateTime: 2020-09-26T14:09:00Z
@@ -219,6 +221,20 @@ related:
       - url: "https://res.infoq.com/news/2020/09/new-azure-communication-services/en/headerimage/croppted-ACS-1600940197471.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Microsoft unveils Azure for Operators in most aggressive cloud telco pursuit to date"
+    excerpt: "Microsoft has announced the launch of Azure for Operators to begin what the company calls 'a new chapter' in its telecoms industry collaboration."
+    publishedDateTime: 2020-09-28T17:53:00Z
+    webUrl: "https://cloudcomputing-news.net/news/2020/sep/28/microsoft-unveils-azure-for-operators-in-most-aggressive-cloud-telco-pursuit-to-date/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 47
+    images:
+      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2020/03/iStock-458544341_dqOApoY.jpg"
+        width: 1254
+        height: 836
         isCached: true
   - title: "CORRECTING and REPLACING SES Becomes Microsoft Azure Orbital Founding Connectivity Partner"
     excerpt: "... will enable our partners’ customers to on-ramp their data into Azure where it can immediately be processed with market-leading data analytics, geospatial tools and machine learning services, adding another layer of automation and intelligence in ..."

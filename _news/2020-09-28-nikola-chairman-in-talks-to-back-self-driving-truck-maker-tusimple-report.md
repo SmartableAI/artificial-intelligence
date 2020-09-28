@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/17671919"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17671919"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Benzinga.com
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Volkswagen's Traton partners with TuSimple for self-driving trucks"
-    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since (Reuters) - Volkswagen's Traton commercial truck unit and self-driving technology startup TuSimple will partner to develop self-driving trucks, the ..."
-    publishedDateTime: 2020-09-23T23:40:00Z
-    webUrl: "https://www.businessinsider.com/volkswagens-traton-partners-with-tusimple-for-self-driving-trucks-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/volkswagens-traton-partners-with-tusimple-for-self-driving-trucks-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/volkswagens-traton-partners-with-tusimple-for-self-driving-trucks-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
   - title: "Is TuSimple about to solve complexities of driverless trucks?"
     excerpt: "However, that day may be fast approaching as TuSimple continues generating momentum. This year has been particularly momentous for TuSimple, as the company not only continues to refine its technology,"
     publishedDateTime: 2020-09-24T15:01:00Z

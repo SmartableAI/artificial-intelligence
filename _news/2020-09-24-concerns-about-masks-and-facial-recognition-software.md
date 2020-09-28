@@ -37,6 +37,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Study indicates neither algorithmic differences nor diverse data sets solve facial recognition bias"
+    excerpt: "Facial recognition models fail to recognize Black, Middle Eastern, and Latino people more often than those with lighter skin. That’s according to a study by researchers at Witchita State ..."
+    publishedDateTime: 2020-09-28T17:05:00Z
+    webUrl: "https://venturebeat.com/2020/09/28/study-indicates-neither-algorithmic-differences-nor-diverse-data-sets-solve-facial-recognition-bias/"
+    ampWebUrl: "https://venturebeat.com/2020/09/28/study-indicates-neither-algorithmic-differences-nor-diverse-data-sets-solve-facial-recognition-bias/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/28/study-indicates-neither-algorithmic-differences-nor-diverse-data-sets-solve-facial-recognition-bias/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 75
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/09/biometrics-e1601309807874.jpg?w=1200&#038;strip=all"
+        width: 1198
+        height: 599
+        isCached: true
   - title: "NEC Face Recognition Engine Provides Highly Accurate Results Even when Face Masks are Worn"
     excerpt: "NEC Corporation today announced the strengthening of its face recognition technology, already recognized as the world's most accurate (*1), with the development of a new face recognition engine that provides high-precision certification even when masks are ..."
     publishedDateTime: 2020-09-24T20:27:00Z

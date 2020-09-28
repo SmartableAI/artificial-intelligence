@@ -3,8 +3,8 @@ category: news
 title: "Artificial Intelligence for Business 2016"
 excerpt: "Cumulative worldwide spending on artificial intelligence (AI) will reach $40.6 billion by 2024. AI is on the verge of becoming a critical part of every business infrastructure, making it vital for company decision-makers to understand how this technology can,"
 publishedDateTime: 2020-09-28T14:07:00Z
-originalUrl: "https://www.raconteur.net/report/artificial-intelligence-for-business-2016/page/3"
-webUrl: "https://www.raconteur.net/report/artificial-intelligence-for-business-2016/page/3"
+originalUrl: "https://www.raconteur.net/report/artificial-intelligence-for-business-2016/page/2"
+webUrl: "https://www.raconteur.net/report/artificial-intelligence-for-business-2016/page/2"
 type: article
 quality: 39
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 220
         isCached: true
 
-secured: "H5G4sc6SMDPNtQINPA1aRi7fqoxCzaWfD5cdD7SuZQolId9V8aUAadxUn3LXzpNTa8lvjhfbsbSWNjRndqD41hZQo4qm20Sm4pSYZh3jZQjumlnMXi/D1CNGbKp0Lhv2jN2JOj3Ue2+0iocB30nayIrczB0vkQndV9UXt5+BVozQOXau56G0IBXCtIVOy7QNkUNGYQp2qMqMPfwDaZ6x7Tl7Pu5DHrF4qAs3IcDlSozHGaR1BCYwaM37u8WplpyBFYEkRGoadUtKSEWNTiJ8HmoWAHZKVE+nEfzjzrYIaAzjKoy+Z+6NCmd38qsDLz4rBmZIj3g5dpJYmnY85Rgk1zBZFuTSYV/zWOaIpF0dbso=;LENn0RDPVUGg89WHfL9xkQ=="
+secured: "dMq2pfN8S3RLw4eJGN05IDYnciaEX/QWzY9WbysT4UsNbp3ulyyk+mCI0AT3G0V2YyQXhHN6NTC4PWS8iGmWs2hQkqiyNCmTXhzRgqhTVex6TcqsNBgAuQOwCE8iDPkmcxOYCuu84jGKJ4LfzUpVwKaE3ghcGUdSqeBL5qDjra685yfMhf5TLeXkZv8mE0SPpcy8mox/dBsbIcDzCMhViWdNjZAmYk1ospUHhgioyjDO9AOZ0wZYiSvlBZZqhcMPSQJMKSb+U8Sm9hj8qY+CBtpgq0yebJhzNX1cTkTUzudSilC6ZJ6YkDKEPW2sJa2ccH07wu25x69w5anpNbmO6OzD/oDnfQ8dN83I0FIYl8E=;A0IG/K4tdiIPzPCj57PcFw=="
 ---
 

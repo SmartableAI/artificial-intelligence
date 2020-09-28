@@ -41,17 +41,6 @@ related:
         width: 2560
         height: 1920
         isCached: true
-  - title: "Volkswagen's Traton partners with TuSimple for self-driving trucks"
-    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since (Reuters) - Volkswagen's Traton commercial truck unit and self-driving technology startup TuSimple will partner to develop self-driving trucks, the ..."
-    publishedDateTime: 2020-09-23T23:40:00Z
-    webUrl: "https://www.businessinsider.com/volkswagens-traton-partners-with-tusimple-for-self-driving-trucks-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/volkswagens-traton-partners-with-tusimple-for-self-driving-trucks-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/volkswagens-traton-partners-with-tusimple-for-self-driving-trucks-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
 
 secured: "GG0wHJCyHZkLUajsuqTeaNOmZ+WD83CuFITkne5Gc0uuyrRPvH6wmsRO5bKeiOWuYienzGgsyyQZ2a72OdvagHqCyBILUbvtw3Pyvy5grk1FCoxaIsnttFcfPgHk0W72APLBPzkYkeHDntNVLeh7zL8y33J8HBsVWsj2rrI1BBWdcO5Cp7hGzismjt6pxyEKOwF6ML70aKZsFxCKy+hmZxfG159qBoytQvgDVwz2ch1cXsffP5OXjTfTbsWCKTNuZyglRxOabfJi46/rILINXTS18nOyJmbWJP0DlDy99bBY7h7OnljfSVZacuPEBcEulu/IWUtMDFMPgUD1fVLCpbcdna/7M7jXYdPa5ImOt2nccdu5Oc7a6Fof0Fgcnq8XxJ5pXz1m/01n78BPcctGFHQTXmXHXOuMKEHtvs6Bce56hXJ1QLYPSZKlbxv2/jaPyCdomFKVpiEQt47yx4IPXxzom3AcKNvQHljfjdPaAzXogr6EvXe5tRq2FllzsBExPxXnmEtdCrTpQJavKYbcZQ==;booJqU/o/Fp4EbiZKHqnhA=="
 ---

@@ -3,10 +3,10 @@ category: news
 title: "Singapore's use of facial verification in ID scheme stirs privacy fears"
 excerpt: "Singapore's more than four million residents will have to use facial verification technology to access government services through the national identity scheme, a move criticised as intrusive and heavy-handed by privacy advocates."
 publishedDateTime: 2020-09-28T15:03:00Z
-originalUrl: "https://www.reuters.com/article/singapore-tech-facialrecognition-idINL8N2GO0AS"
-webUrl: "https://www.reuters.com/article/singapore-tech-facialrecognition-idINL8N2GO0AS"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINL8N2GO0AS"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINL8N2GO0AS"
+originalUrl: "https://www.reuters.com/article/singapore-tech-facialrecognition-idUSL8N2GO0AS"
+webUrl: "https://www.reuters.com/article/singapore-tech-facialrecognition-idUSL8N2GO0AS"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2GO0AS"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2GO0AS"
 type: article
 quality: 54
 heat: -1
@@ -25,22 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "Singapore hopes artificial intelligence will help boost its tourism industry"
-    excerpt: "Local start-ups like Vouch and Travelstop are betting on their AI-powered systems to help the country navigate new security standards, as Singapore prepares to reopen its borders again after months of coronavirus travel restriction."
-    publishedDateTime: 2020-09-24T00:54:00Z
-    webUrl: "https://www.cnbc.com/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 84
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106706240-1600338869741-gettyimages-1136947347-nik_1761-----gi--19mar19.jpeg?v=1600339088"
-        width: 5568
-        height: 3712
-        isCached: true
   - title: "Singapore to become first to use facial recognition in national identity scheme"
     excerpt: "Singapore will be the first country in the world to use facial recognition as part of its national identity scheme. This new technology will"
     publishedDateTime: 2020-09-26T18:51:00Z
@@ -57,7 +41,23 @@ related:
         width: 647
         height: 340
         isCached: true
+  - title: "Facebook users in Illinois may qualify for a $400 settlement check after the social media company used facial-recognition technology"
+    excerpt: "This isn't the first time that Facebook has received pushback for its facial-recognition feature. In 2019, Facebook began requiring users to opt-in to use their facial-recognition tool, after the FTC fined the tech giant $5 billion for its role in the the ..."
+    publishedDateTime: 2020-09-25T18:49:00Z
+    webUrl: "https://www.businessinsider.com/facebook-illinois-400-dollar-lawsuit-settlement-check-details-facial-recognition-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/facebook-illinois-400-dollar-lawsuit-settlement-check-details-facial-recognition-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-illinois-400-dollar-lawsuit-settlement-check-details-facial-recognition-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
+    images:
+      - url: "https://i.insider.com/5f4b60247ffa48002894d0aa?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
-secured: "TciqG93VthnzeQY1rRYjAF6LqZOemtIO2TDqs3HE+rKHTkVRzjFgQ8XxumXr4ZqEgaCfUVAazDY+HeXUO4CdTx1D9u1EGPqa3bPi6UwuA3EjNTTWE7R4Grn3JeUTqNkk4JHvb7V9/H4SPmvfNyK5tiKQk/7hF+v7O0TfdlNzrMPaY6Pl+gisuud4FUyErWNNhavqctrh7WSKzPiQqTRxhSj8htA08YfZirBHPnWqXOQC238VRZ1qL3vwk4J7YLrQNkv6FHXa2GN8GVZRDMerqYlwHfmxuUR1OJ6TeG57oELxQckXGrdiAps+zQvfd69sI9UQgVE05prHE2JjRiRLzcvCTaV/rT5LEIefWKFzjHQ=;gaEoY5AiWs7KS7tjev4fJQ=="
+secured: "hchW4z7eAqkZNmc4wOCEIjZNeLgjNML/pw4ZczZ8gWet0yxFdFSCCsp895VnJ+Z/zbuD7dde/Lj2hyaRdT28ZMcBHizipkvDupDKpVQ0YvT312QPSKAm0CR94g1MoLe9vFvgqhR4LjfGNHO3YRr1AbxdmQAA4PVAUwiEpvsmiNJNg2SExEJgi3YlowKlF+VF0YjcRpMm4UzYpqzriXfE4Stn0XFTOQqipgBaG/lJA+kp5bbPANQZRIH53rd501PVlmkZjaTLihPteRFi1zqSTkiEE0cOKRm9YDrTCkvTOldP5lmTdE8mClUy3EbAe1s5Ym3ov9vctFXH7mtoWu3IABT5vg4hTvqB8C8ZTMwums0=;V+OMjOe4pK418KU43omzww=="
 ---
 

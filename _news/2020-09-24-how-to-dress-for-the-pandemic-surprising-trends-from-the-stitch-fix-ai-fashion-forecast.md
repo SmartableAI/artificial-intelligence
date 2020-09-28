@@ -78,6 +78,20 @@ related:
         width: 1280
         height: 980
         isCached: true
+  - title: "How data and AI will shape the post-pandemic future"
+    excerpt: "Data science and AI are not only accelerating COVID-19 research and recovery today but helping organizations uncover insights and opportunities to succeed in the new normal."
+    publishedDateTime: 2020-09-28T17:44:00Z
+    webUrl: "https://www.cio.com/article/3575856/how-data-and-ai-will-shape-the-post-pandemic-future.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 37
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/09/data-ai-postpandemic-1-100859727-large.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "fYpjW5dwB8hNmjeibC4ds7vwwSZM4dP4rfhnZznofqr0gcff1Xsfmc/HDJPVxvBoPJAa/RRRI/uSf4cDLmU3p0Fpw4G4F/8wHhVnddeXqJSDwdpc3TpVaYOH5n/fg32JLJ56J7xCdGzTf1m7X0ruEUTubxU/w3YBitk/S/PyxfxyfKaFIsDs4bjXHWj1gGUtEDYWdj9uxBc1x8UloIvLblPBbLKdwEr+GBXv6IT7Wcw/FcsMp2yt/z5+DKvyNiUVGSzrSiLuh2TIRfi/iwml6S9guX32RfwVlwJjNzKwACcMdliKm0KONXaJ/yPc5DfmN9qFrRRlmhlW+X+CHtVnymjDAmiFcPQRJJBQVGkl5+ala/P+0ja5eiVuo+SmGSE7HhiskFVsEHITbDyIQ0F0jb1sc3Hdsw4qSeY2KtVPoWDuy4rJ9Vjk+at9J/qOiIQKN4qY0fr6WGEjwjDM53fSdWuJDJaZBqaXkoSd+Dys3bB6c4p4k/1ke93a8omG9tX+B2xZQ+uaNiNfdhfC0NhKZA==;rInuSsU5Ws9G9LGX+JwtIA=="
 ---

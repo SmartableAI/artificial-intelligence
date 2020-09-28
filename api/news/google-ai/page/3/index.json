@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-17-intelligent-machines-are-teaching-themselves-quantum-physics.md",
+      "title": "Intelligent Machines are Teaching Themselves Quantum Physics",
+      "excerpt": "Last year, Google's DeepMind AI beat Lee Sedol at Go, a strategy game like chess, but orders of magnitude more complicated. The win was a remarkable step forward for the field of artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en_us/article/vvxgja/machine-learning-quantum-physics-perimeter-institute-roger-melko",
+      "originalUrl": "https://www.vice.com/en_us/article/vvxgja/machine-learning-quantum-physics-perimeter-institute-roger-melko",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/articles/58a1d264e93ca05ed18ce76f/lede/1487000254373-3060257995_11deca9ef9_o.jpeg?crop=1xw:0.84375xh;center,center",
+          "width": 4752,
+          "height": 2673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en_us/article/vvxgja/machine-learning-quantum-physics-perimeter-institute-roger-melko",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/vvxgja/machine-learning-quantum-physics-perimeter-institute-roger-melko",
+      "publishedDateTime": "2020-08-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-14-google-open-sources-lit-a-toolset-for-evaluating-natural-language-models.md",
       "title": "Google open-sources LIT, a toolset for evaluating natural language models",
       "excerpt": "Google-affiliated researchers developed an open source framework -- Language Interpretability Tool (LIT) designed to explore and audit language models.",
