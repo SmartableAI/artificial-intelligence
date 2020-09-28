@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "SEE: When Tewatia had to ask for recognition at Delhi Capitals"
+    excerpt: "When Tewatia had to ask for recognition at Delhi Capitals. In a debriefing video of the 2019 season that has gone viral following his match-winning six-hitting spree on Sunday, Rahul Tewatia, who played for Delhi Capitals last year,"
+    publishedDateTime: 2020-09-28T12:37:00Z
+    webUrl: "https://www.rediff.com/cricket/report/see-when-tewatia-had-to-ask-for-recognition-at-delhi-ipl/20200928.htm"
+    ampWebUrl: "https://m.rediff.com/amp/cricket/report/see-when-tewatia-had-to-ask-for-recognition-at-delhi-ipl/20200928.htm"
+    cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/cricket/report/see-when-tewatia-had-to-ask-for-recognition-at-delhi-ipl/20200928.htm"
+    type: article
+    provider:
+      name: rediff.com
+      domain: rediff.com
+    quality: 44
+    images:
+      - url: "https://im.rediff.com/345-230/cricket/2020/sep/28tewatia2.jpg"
+        width: 345
+        height: 230
+        isCached: true
   - title: "IPL 2020: Rahul Tewatia asked for recognition last season, earned it this year"
     excerpt: "In a debriefing video of the 2019 season that has gone viral following his match-winning six-hitting spree on Sunday, Tewatia, who played for Delhi Ca"
     publishedDateTime: 2020-09-28T09:48:00Z

@@ -39,20 +39,6 @@ related:
         width: 1597
         height: 1080
         isCached: true
-  - title: "Microsoft Previews Power Platform and Dynamics 365 Updates at Microsoft Ignite"
-    excerpt: "Microsoft at its Ignite virtual user conference this week introduced a wide variety of capabilities being added in the latest versions of the Microsoft Power Platform and Dynamics 365. The Dynamics updates include the addition of a first-party voice ..."
-    publishedDateTime: 2020-09-23T19:45:00Z
-    webUrl: "https://cloudblogs.microsoft.com/dynamics365/bdm/2020/09/22/announcing-microsoft-power-platform-and-dynamics-365-updates-at-microsoft-ignite/"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 135
-    images:
-      - url: "https://cloudblogs.microsoft.com/uploads/prod/sites/4/2020/09/WIN20_PRO_RemoteWorking_001-1-scaled.jpeg"
-        width: 2560
-        height: 1920
-        isCached: true
   - title: "Microsoft licenses the breakthrough natural language AI GPT-3"
     excerpt: "Microsoft announced that it has “exclusively licensed” OpenAI’s sophisticated GPT-3 language model that can generate disturbingly human-like text in applications ranging from commercial bots to creati"
     publishedDateTime: 2020-09-24T12:25:00Z
@@ -130,20 +116,6 @@ related:
       - url: "https://www.dbta.com/images/social-logo-2019.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Shell, Microsoft Alliance to Address Carbon Emissions Will Leverage AI, Azure"
-    excerpt: "The companies are committed to accelerating their AI work together to drive efficiencies and reduce emissions. Shell and Microsoft have worked together to develop technologies that help keep Shell’s workers and sites safe. For example, Microsoft Azure ..."
-    publishedDateTime: 2020-09-23T19:06:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/shell-microsoft-alliance-to-address-carbon-emissions-will-leverage-ai-azure/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 66
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/Microsoft-Azure-logo.jpg"
-        width: 422
-        height: 208
         isCached: true
   - title: "MAJiK Systems’ Visual Factory Now Available in the Microsoft Azure Marketplace"
     excerpt: "MAJiK Systems, provider of an IoT-centered software suite that allows manufacturers to drive operational excellence by natively connecting to PLCs and SCADA systems, today announced the availability of Visual Factory in the Microsoft Azure Marketplace,"
@@ -274,20 +246,6 @@ related:
       - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/09/microsoft-ignite.jpg"
         width: 1600
         height: 1200
-        isCached: true
-  - title: "Microsoft Ignite 2020: Empowering businesses to build resilience for today and what’s ahead"
-    excerpt: "At Microsoft Ignite 2020 coming online this week ... For Azure AI, we’re updating Azure Cognitive Services with new capabilities to streamline business processes, enabling organizations to stay resilient and committed to economic recovery while deploying ..."
-    publishedDateTime: 2020-09-23T20:25:00Z
-    webUrl: "https://news.microsoft.com/en-hk/2020/09/23/microsoft-ignite-2020-empowering-businesses-to-build-resilience-for-today-and-whats-ahead/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 29
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/427/2020/09/Satya-Nadella-1000x563-1-768x432.jpg"
-        width: 768
-        height: 432
         isCached: true
 
 secured: "FaOoFZN/EgcclJzKPrdHZ1wYkls7bmTWx4xvLvFShx3VOv09xFZYwXXXIH5qAOC4/lu6/nuiZ0ek/uvz+c58edWf33LOqz/B1UOYxnuk13EjLXmCOla9QQ/3byIprvwSmBz8FdEqRrrUHjkocicdD1QAGGPSIl0sSZvJDC6ES4EH7Qq4ws1ir5yTdHw2ICw66BRRNUPlkJDoF9o1pA1lGgX2ha74rUrP/bi/dkrl54WWBxoXGfiBMK2Sqx2wXe259EKfOR58kfK9OY6KG4Rb35pwgs7VvM+l+5J053K42RteqDy3K1KyGg0xjUgKze7MLinu2Jg7oKSyZv3GFUi4kIgzgqVOwPt1UMVYpvASAC3vF12FlS1pQqsoVHoLnxnY7r8cNrMmfcShhKLupNp3a3b5hYP1+z5V0CtLBz81V2M9/Gbz64VfwXox+yc1D44EBZuAL/y5WwUtLcsZolK+l555Jw70HyEzwD8otw1aerSmm6dXLHjO+uk6JbzdZ2UI10Ta4sJfNHy47nPTJAUmog==;K9dKLHrFp4OI6RwKW4/vtQ=="

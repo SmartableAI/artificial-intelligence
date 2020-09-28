@@ -9,7 +9,7 @@ ampWebUrl: "https://elmoudjaweb.com/microsofts-azure-communication-services-hand
 cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/microsofts-azure-communication-services-handles-enterprise-video-voice-and-text-communications-jaweb/?amp"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Jumio’s AI-powered identity verification solutions now available for Microsoft Azure Active Directory B2C"
+    excerpt: "Jumio announced that its AI-powered identity verification solutions are now available to Microsoft Azure Active Directory External Identities for B2C customers. Azure Active Directory B2C is a customer identity access management solution. The integration ..."
+    publishedDateTime: 2020-09-24T00:04:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/09/24/jumio-microsoft-azure/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 52
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/08/31114057/insecure-66a.jpg"
+        width: 304
+        height: 405
+        isCached: true
   - title: "AI and its Applications in the Education Sector"
     excerpt: "The primary goal of developing AI systems is to offer an organization the capacity to rationalize a situation and decide on a specific course of action that maximizes the chances of attaining a particular goal."
     publishedDateTime: 2020-09-24T15:39:00Z

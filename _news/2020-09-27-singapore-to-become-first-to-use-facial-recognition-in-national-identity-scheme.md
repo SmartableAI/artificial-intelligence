@@ -43,6 +43,15 @@ related:
         width: 5568
         height: 3712
         isCached: true
+  - title: "Singapore's use of facial verification in ID scheme stirs privacy fears"
+    excerpt: "Worldwide, facial recognition systems are being deployed for a range of applications from tracking criminals to counting truant students. In Singapore, facial recognition technology is being ..."
+    publishedDateTime: 2020-09-28T13:48:00Z
+    webUrl: "https://news.trust.org/item/20200928125601-14rci"
+    type: article
+    provider:
+      name: Thomson Reuters Foundation
+      domain: trust.org
+    quality: 4
 
 secured: "8Q1ykcdhXKmSu8Rkh/uYV/KRJItSFfHeBn+5xIXX1LefK9IuwkLwbraQ9LXaMijGxZeg6nATEPvc3PJX2XDiv5+WGnWiKcxnDJCfRECX2Y3tSg23wijCXS3JdpR1zQfiaB80gzpd9bySncmMSYNGWfB+8Q/yA8KJ94dyrarRWnhar+1gj7OMY7MwAkG3cBV8tnnnHC03+GE9N1wSGXQY4kbswqnnNGKIDas9MDbqSqWpNafOo4817624W0vy/facYVpOadG7X6pTvrJ5l8kCAfuOYVxr89VgaCC9JsDod5irG5wzAVOle9u8vkw3ZlQQ/+7mwgeP59sguZnLi+4GoI8xXHr7394HnqfLBEkW704=;7TpJOI8W1en4h37h7v8JZA=="
 ---

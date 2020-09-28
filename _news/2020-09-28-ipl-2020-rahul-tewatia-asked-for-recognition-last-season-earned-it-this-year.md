@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/sports/cricket/ipl/top-stories/ipl-2020-r
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/sports/cricket/ipl/top-stories/ipl-2020-rahul-tewatia-asked-for-recognition-last-season-earned-it-this-year/amp_articleshow/78362599.cms"
 type: article
 quality: 40
-heat: 40
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "SEE: When Tewatia had to ask for recognition at Delhi Capitals"
+    excerpt: "When Tewatia had to ask for recognition at Delhi Capitals. In a debriefing video of the 2019 season that has gone viral following his match-winning six-hitting spree on Sunday, Rahul Tewatia, who played for Delhi Capitals last year,"
+    publishedDateTime: 2020-09-28T12:37:00Z
+    webUrl: "https://www.rediff.com/cricket/report/see-when-tewatia-had-to-ask-for-recognition-at-delhi-ipl/20200928.htm"
+    ampWebUrl: "https://m.rediff.com/amp/cricket/report/see-when-tewatia-had-to-ask-for-recognition-at-delhi-ipl/20200928.htm"
+    cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/cricket/report/see-when-tewatia-had-to-ask-for-recognition-at-delhi-ipl/20200928.htm"
+    type: article
+    provider:
+      name: rediff.com
+      domain: rediff.com
+    quality: 44
+    images:
+      - url: "https://im.rediff.com/345-230/cricket/2020/sep/28tewatia2.jpg"
+        width: 345
+        height: 230
+        isCached: true
   - title: "Tewatia asked for recognition last IPL season, earns his moment in the sun this year"
     excerpt: "After five seasons in the wilderness, the 27-year-old did something on Sunday night that ensured that he won’t have to ask for recognition anymore Rahul Tewatia had to request for a “pat on the back” last year but this season he has earned it."
     publishedDateTime: 2020-09-28T08:28:00Z

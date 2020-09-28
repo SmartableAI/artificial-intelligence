@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/09/24/singapore-looks-to-artificial-in
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 647
         height: 340
         isCached: true
+  - title: "Singapore's use of facial verification in ID scheme stirs privacy fears"
+    excerpt: "Worldwide, facial recognition systems are being deployed for a range of applications from tracking criminals to counting truant students. In Singapore, facial recognition technology is being ..."
+    publishedDateTime: 2020-09-28T13:48:00Z
+    webUrl: "https://news.trust.org/item/20200928125601-14rci"
+    type: article
+    provider:
+      name: Thomson Reuters Foundation
+      domain: trust.org
+    quality: 4
 
 secured: "nLX/j8CHQ4YIGjx9zZIwCsU7gqC7m38QoFRCiipFhF5+c4N+wr7BhzuO9Xct+7HRIW8fagFeiTixidccx0XPK3hQaSNKZ7jJjfEqYTw3rqPiy7lDUo2VJeQ8OsKjRvLYCamJiApMWgDKAK9MKkZZ/VLm5s5qk7VSER2F74a5rsJjHm54Cj9UIG+gKe0pKYQyt4y8XxORVAmTYXYcGTSS83u3Y5It2RLyF6QVYGK6HEwozIVytGi25sQxIGUdVjL8MZAkzqVqoTVI6t+p3DprHuJRouO3qMvwGTG1QLfdwSoH5gpovi5TTJ/7iuevzBUoE1SoSFv5NyMx4BuvfYtHJ6X07teSRJKBiyupWR3MUnc=;PorvgMUO7/RkZgPgqdBu6A=="
 ---

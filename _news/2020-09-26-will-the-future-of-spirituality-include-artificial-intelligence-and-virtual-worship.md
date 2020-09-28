@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-25T18:02:00Z
 originalUrl: "https://www.thedenverchannel.com/news/national-politics/the-race-2020/will-the-future-of-spirituality-include-artificial-intelligence-and-virtual-worship"
 webUrl: "https://www.thedenverchannel.com/news/national-politics/the-race-2020/will-the-future-of-spirituality-include-artificial-intelligence-and-virtual-worship"
 type: article
-quality: 32
-heat: 32
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://ewscripps.brightspotcdn.com/dims4/default/887c16e/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fbd%2Fce%2Fd75bf46c46f4a6183cca949fb8f3%2Fvlcsnap-2020-09-25-12h40m17s396.png"
@@ -24,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "4vN4cL9nuX18OjRlSCqDB2eLOlMLnTx/q1E1cCXqcQ8jmTvsBcQLXLLdDnOBBrcSRwJpqcyFiYBP3jqW9NqSPAIk0O0f9/5/z87cF/QcgXopqMyktBLm/MsSrfMNy3wd7BBV7dWJX3rOs/NKCZ0NjAiyPTXau1aq2432aPm5+SDnj/c0/XArEKwIHGVL3DEe3PpEZQkQs3AtD7Z3InG7/02uZR1XU89Z86XwucKTEssHu9N/hajJAZKmwBF3N0ar1ihA74z7zEDKLNUbNlRiCCkjZxX55/vzs4dE4PmEBFOG8Fsm7iosj2E97sSzinJuqqpwVMFLcBSikK5Y8fLn4RZ+y0+quBsKAcXIE79SQSA=;v0W4AetnRCAbOYcyHeSU6A=="
+secured: "5zDPFTnJzf2Q0MDJLrjFPQxfD8bbj4MHdoK6075wE1F1Q8JiAwakUcPxsXEerO/yGP8RzexX2dS/0O/7iPIQJV8Bx9BBIg56pQUpEb3LX1lXGGAIYZGVd2DUTR1NtzwFBXhR/CAz3b/g2R1YMzo0qlJQ+jmEysqo8ZrOqHp53UAV4OhsDcgBEK8lRRsYlX92kXswp5rLnsn0nzpXUnCJL+wYucoOu6EKjhrrEg3EjWzzbMeckUqDOi/jSsUP6m7jeec7Cx6joxjdHJgi5jt2I+hf8CokZiiMv5WU99SCdIdIcVO1eBL/pSWTXxY0DPccF8RhkdIUiw2GuDz2DD29S/qayfs6woCTtgJGNLTgmWVMTCfdjYxuOZfGcG7wLOl5dALR0ylTrjg/Z0Dm2/AMM8vS+q7f+s/eKuJ3d6tvfDwqHKARVz6O17KD8n9j8v4fO0TlyVveWuJsJpfRYZjQJI1xWJW8aByEOddXH3wWlEY9Ii3se0Q7z/S+Q/4vTcePtnXsj9szkQL7acD156i0lA==;sBe3CQrZH3ykeu1CPp3SKw=="
 ---
 

@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Jumio’s AI-powered identity verification solutions now available for Microsoft Azure Active Directory B2C"
+    excerpt: "Jumio announced that its AI-powered identity verification solutions are now available to Microsoft Azure Active Directory External Identities for B2C customers. Azure Active Directory B2C is a customer identity access management solution. The integration ..."
+    publishedDateTime: 2020-09-24T00:04:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/09/24/jumio-microsoft-azure/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 52
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/08/31114057/insecure-66a.jpg"
+        width: 304
+        height: 405
+        isCached: true
   - title: "\"Dev-friendly\" APIs and SDKs in New Azure Service Simplify Building Rich Communication Experiences"
     excerpt: "Microsoft this week unveiled the public preview of Azure Communication Services, a new platform for developers who want a simple and well-supported way to build new communications solutions or integrate them into existing applications."
     publishedDateTime: 2020-09-24T09:51:00Z

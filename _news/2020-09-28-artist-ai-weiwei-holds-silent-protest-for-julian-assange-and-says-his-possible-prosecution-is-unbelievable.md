@@ -40,6 +40,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Dissident Ai Weiwei protests possible extradition of Assange"
+    excerpt: "The dissident Chinese contemporary artist Ai Weiwei staged a silent protest outside London's Old Bailey court on Monday against the possible extradition of WikiLeaks founder"
+    publishedDateTime: 2020-09-28T12:06:00Z
+    webUrl: "https://apnews.com/3da7b17cb52d08601bd50e467de7a717"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/7d482ab7d19646ac9eba54c9b113eb24/3000.jpeg"
+        width: 3000
+        height: 1834
+        isCached: true
   - title: "Ai Weiwei holds silent protest outside Julian Assange's extradition hearing"
     excerpt: "Before attending court, the Chinese artist posted a photograph of himself and his son both wearing Free Assange t-shirts."
     publishedDateTime: 2020-09-28T09:53:00Z

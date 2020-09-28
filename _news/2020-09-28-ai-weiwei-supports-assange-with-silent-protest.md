@@ -40,6 +40,20 @@ related:
         width: 850
         height: 478
         isCached: true
+  - title: "Dissident Ai Weiwei protests possible extradition of Assange"
+    excerpt: "The dissident Chinese contemporary artist Ai Weiwei staged a silent protest outside London's Old Bailey court on Monday against the possible extradition of WikiLeaks founder"
+    publishedDateTime: 2020-09-28T12:06:00Z
+    webUrl: "https://apnews.com/3da7b17cb52d08601bd50e467de7a717"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/7d482ab7d19646ac9eba54c9b113eb24/3000.jpeg"
+        width: 3000
+        height: 1834
+        isCached: true
   - title: "Ai Weiwei holds silent protest outside Julian Assange's extradition hearing"
     excerpt: "Before attending court, the Chinese artist posted a photograph of himself and his son both wearing Free Assange t-shirts."
     publishedDateTime: 2020-09-28T09:53:00Z
@@ -52,6 +66,6 @@ related:
       domain: smh.com.au
     quality: 35
 
-secured: "P3ybhIhYaOzX+7DQ0ydh7+lSMm2DJsCZY6vU0doqx+XOUNuKqV3KqoGDPFB4hsfq46bJ2dcV3/u6sWXPZOQBSnyPgLcNg4iVoRkuiQy3NiklCl0Kl8jgXA8QCUwpSw7tWUHCrp3JrQ1DqDreYa5R2VU3GENMRdceKhpRnFzwstJaeO7MVw8LAXhKEQtLLHLe9j1qUlbc1NKe8sdn3Jd0JsqP0EBm+Gza1AnCbmEyOt799LCIbnEkcAPaNnQ33mA0uYB0D+CuwzbOraIiWaHOCSRo9/9UmWxTTKqyAd+jU6VXw3OpOuNhYuN0nsUI88eGlr0wfHzKIVcYQgY+98s7XVw3u8z0fEvN9KNWe/Sw6b4=;VCJkTR177+26rycIhz89NQ=="
+secured: "1RNlcH+lOHz0ii5T/B2DC+C8qY2WW0e+ceSCR6QpLoMrHzCewqb0Qpqb37bk8IX9rSnmusaR2b9vkFAi2q0dPupfQSQTUkPEaL7USlPuYKu0nqDSwpMzOxGm4LagWKReYtlmBIPsIxQpxdz9eRCD9p3F7c8mHbq2juKYq+BCxFIr8b65g35QV9g880sZG7Zt/uf9MBb4z33kWRq/GCbjtufZGRmrT35yqndjUnwkClpI+0mF0jo9TKOpxBOdeTzGGx1sVDGufP64sPjPRzpbMBJyTzWr8BxghTcxg2dQiyYKG+YARlJgHtiPkIJRRVGth8LcWxusumZaB9fFoi7Q0gWwxn9bi8n0QxKUaXveTq+V+YuXU8Cq2ak/4bVr2t4D9ptyGf3ffsfdvP/3AV7gQgDYQycUx9wa/p1t7w7EfbuKxyAT5dTjRJzVPs6SsLBgIBUM/VeIATS3sx/+Dv66otK6F0c7m8HQ0ki+nmoQvsc+6gz/45CTSPR3CC8JjD5TsUAH9SWHT9uR5d2WFJaPNw==;+r2pr2/PV5sdxaENjQIXLw=="
 ---
 

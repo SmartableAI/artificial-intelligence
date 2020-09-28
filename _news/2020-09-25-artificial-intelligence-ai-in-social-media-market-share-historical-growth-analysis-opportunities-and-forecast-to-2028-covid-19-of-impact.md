@@ -98,6 +98,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market – Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020-2026"
+    excerpt: "According to a new study published by Polaris Market Research the Global Artificial Intelligence Market is anticipated"
+    publishedDateTime: 2020-09-28T12:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2026-2020-09-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Autonomous Vehicle 2020 Global Market Key Players – AImotive, Apple, General Motors, Delphi Automotive - Analysis and Forecast to 2026"
     excerpt: "Autonomous Vehicle Industry 2020 An autonomous vehicle commonly known as a self driving car or a driverless car is a vehicle that utilizes a combination of sensors radar cameras and artificial intelligence to travel between destinations without a human driver"
     publishedDateTime: 2020-09-25T14:23:00Z
@@ -137,6 +151,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 24
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Speech and Voice Recognition Market By Leading Players, Future Applications, Trending Regions and Industry Share Estimate by 2026"
+    excerpt: "The global “Speech and Voice Recognition Market” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
+    publishedDateTime: 2020-09-28T13:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-market-by-leading-players-future-applications-trending-regions-and-industry-share-estimate-by-2026-2020-09-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

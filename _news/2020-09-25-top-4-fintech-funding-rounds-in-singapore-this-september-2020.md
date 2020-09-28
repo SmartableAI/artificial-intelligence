@@ -36,6 +36,22 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 69
+  - title: "Treasury Tech Finds A Home In Bank-FinTech Collaboration"
+    excerpt: "FinTech collaborations focus on corporate treasury management technology, while Italy readies for its largest open banking platform."
+    publishedDateTime: 2020-09-27T22:02:00Z
+    webUrl: "https://www.pymnts.com/news/b2b-payments/2020/open-banking-fintech-treasury-management/"
+    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2020/open-banking-fintech-treasury-management/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2020/open-banking-fintech-treasury-management/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/09/open-banking-fintech-treasury-management-457x305.jpg"
+        width: 457
+        height: 305
+        isCached: true
   - title: "Fintech Machine Learning Leader Attunely Secures $9M in Funding"
     excerpt: "Attunely Inc., a pioneer in deploying machine learning to maximize revenue recovery and enhance the consumer experience, today announced $9 million in financing. The new capital includes an earlier seed round as well as a Series A investment."
     publishedDateTime: 2020-09-25T07:00:00Z
