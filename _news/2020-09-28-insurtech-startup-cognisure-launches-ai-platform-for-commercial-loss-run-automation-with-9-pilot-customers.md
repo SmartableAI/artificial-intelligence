@@ -1,23 +1,27 @@
 ---
 category: news
 title: "InsurTech Startup CogniSure Launches AI Platform for Commercial Loss Run Automation With 9 Pilot Customers"
-excerpt: "The insurance industry spends a significant amount of manual effort, time and money analyzing PDF and Excel loss runs that are"
-publishedDateTime: 2020-09-27T17:44:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/09/n17631700/insurtech-startup-cognisure-launches-ai-platform-for-commercial-loss-run-automation-with-9-pilot-c"
-webUrl: "https://www.benzinga.com/pressreleases/20/09/n17631700/insurtech-startup-cognisure-launches-ai-platform-for-commercial-loss-run-automation-with-9-pilot-c"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17631700"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17631700"
+excerpt: "The insurance industry spends a significant amount of manual effort, time and money analyzing PDF and Excel loss runs that are in"
+publishedDateTime: 2020-09-28T01:04:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/insurtech-startup-cognisure-launches-ai-platform-for-commercial-loss-run-automation-with-9-pilot-customers-301137030.html"
+webUrl: "https://www.prnewswire.com/news-releases/insurtech-startup-cognisure-launches-ai-platform-for-commercial-loss-run-automation-with-9-pilot-customers-301137030.html"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "InsurTech Startup CogniSure Launches AI Platform for Commercial Loss Run Automation With 9 Pilot Customers"
@@ -35,6 +39,6 @@ related:
         height: 450
         isCached: true
 
-secured: "5TKy0DpVVbTV61HF20JsP3dsltDu2VhGl+L29mqu/7V8G4kOnxfzVKJYv3M8jC21gwrzMsLwXG4566Kg8X6ItFrmTCgv13aP27puu/S17uhtQ+UjJLi65TzJwYib+8fy/07UYN/ywkB55aFPFyqO/j5N46rXawfOGH4tpyXASkBJQQYPtHp5/9rCNrNmeHU0gmyxCnazaVxeZAaMnH7bZeaFouoQSkv+tdAFFpRPme8RTfgc/NLUoiV5Dju30VArboFloEdCX142UaiQvYn8VGiMGwzIkkJly6bHk2gQX5r6INdTXIZPL+oqzX4uSTGAzZVdPjYy76yG6Po6h0aLD8hWNH0o3NItYXAjaAEHNDU=;/cDqzzh+znAWPOPiwHtZdQ=="
+secured: "NOpzNNd6PoTQSAkCix7bY5Tg9TSGNBliIJ2qsBUJVrsKziQFoHGkNBwZceHVLDy9CUeRKmgydcUBFlK9ranUV/7A0mI+xA+NoM1mg6xRRX/Iw3ef2X1qG0VPJkHWt1aVsYwMPF1pGkIdJlOnMvpTHVqXdpOMbDu4po2zY0HXHRIEY58VADSiF/vSmF3+3Zq4LStub0fQmb3pyaCh4q/6D/0Xv9z5x5p8gXvGTXRcasgCXqJiifOdrTUrRmR8QK2Yq73KfW7TspeWQE3BAN4kqnvL2IXjiiV3rJmS5eGcg49QFhL0b6bUePNxIVq5qmCRIF5TRSWSZYsRf4GR44G/sWMF8ia1iYhcQcKhxk70+ME=;HLzwY1e6uHybLKuneNrOLw=="
 ---
 

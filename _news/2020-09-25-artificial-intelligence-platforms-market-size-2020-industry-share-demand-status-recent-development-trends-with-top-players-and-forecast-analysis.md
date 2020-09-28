@@ -3,8 +3,8 @@ category: news
 title: "Artificial Intelligence Platforms Market Size 2020 Industry Share, Demand Status, Recent Development Trends with Top Players and Forecast Analysis"
 excerpt: "Artificial Intelligence Platforms Market”research provides actionable intelligence on major parameters impacting"
 publishedDateTime: 2020-09-25T09:25:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platforms-market-size-2020-industry-share-demand-status-recent-development-trends-with-top-players-and-forecast-analysis-2020-09-25"
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platforms-market-size-2020-industry-share-demand-status-recent-development-trends-with-top-players-and-forecast-analysis-2020-09-25"
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platforms-market-size-2020-industry-share-demand-status-recent-development-trends-with-top-players-and-forecast-analysis-2020-09-25?mod=mw_quote_news"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platforms-market-size-2020-industry-share-demand-status-recent-development-trends-with-top-players-and-forecast-analysis-2020-09-25?mod=mw_quote_news"
 type: article
 quality: 29
 heat: -1
@@ -45,6 +45,6 @@ related:
         height: 675
         isCached: true
 
-secured: "qF5IXGC2bpKQgM1bdzd1VUnI6QOfaOWv0/7rPYCTGv43NkU6XmbNXkjbbzT+f2ULLgmcQXhzPnfrZt8qZk+Db1L52oF3uxK5KcB7NKc2Jkgk2OAqoDdOgRkbk1HqQJOvBtw/DQfB6eWxqjDMLdO3XGvZmJqb4BOuvx06B7bt2yweCdthaev5kTqVicUPVDJhtF8j5Hkb71MVU1YPECrK+O5w2sYicxjhoH/trCTQvNw81Me+x8zZWPBFO/LyQOJsdQhtgozB56Mhl1gH2hhN3Y1hfrQi5VahtzlReJl+KDtnwbRxQzotnnl6W1IM5PfeJ6c3T70aQSWJAHVduqJJ8/74Gi6mpJPzb27LpG7QyyU=;4BhiBeH4RxDR0VnXWQANhg=="
+secured: "pV+nxGB8iAjfCVM0+Dxzf1KPMJkYoCmYDxhAW137P40L1lMwDv00pv/RFWEKwxWsTLOUlbtQQ7LS1h3AW63wcCv1gehiRPcsC0LzOpNIiw4RnYIJteR78wscqWkX2bPcL+R3XxnTL+WY5omWm+uIXDNWUHHgxHxXpY6C+C6M6QBdU6OqVhIg1l6BtbaKPuX+TsiDMC8O67fzKoOCnZlBnBxtbWrsrrHVWfAleEBPKFtTVktxNhjGEG4ofM0GlH1zjI2CeRd6BRP2Jdjuju7nCGGIEhpvxN4WX3ZDSP4gmaiQTMK0XMQsOic4DoIRoBrmeT0+nGmIuDUfIA56/Kgd3HMKQdF2QMmyOLoVdRPQU3M=;1fAv3CaMPiIZolCy8LzHcA=="
 ---
 

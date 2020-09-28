@@ -3,25 +3,27 @@ category: news
 title: "Wyoming Legislature weighs a future for self-driving vehicles"
 excerpt: "This past week, state committee members contemplated legislation they believe could fast-track Wyoming to a leadership role on autonomous vehicle technology almost overnight."
 publishedDateTime: 2020-09-26T19:15:00Z
-originalUrl: "https://www.kpvi.com/news/regional_news/wyoming-legislature-weighs-a-future-for-self-driving-vehicles/article_67cca508-c29c-5636-9e84-870fe73a4e92.html"
-webUrl: "https://www.kpvi.com/news/regional_news/wyoming-legislature-weighs-a-future-for-self-driving-vehicles/article_67cca508-c29c-5636-9e84-870fe73a4e92.html"
+originalUrl: "https://trib.com/news/state-and-regional/govt-and-politics/wyoming-legislature-weighs-a-future-for-self-driving-vehicles/article_87abcf88-aad3-50e7-b794-6104003af234.html"
+webUrl: "https://trib.com/news/state-and-regional/govt-and-politics/wyoming-legislature-weighs-a-future-for-self-driving-vehicles/article_87abcf88-aad3-50e7-b794-6104003af234.html"
+ampWebUrl: "https://trib.com/news/state-and-regional/govt-and-politics/wyoming-legislature-weighs-a-future-for-self-driving-vehicles/article_87abcf88-aad3-50e7-b794-6104003af234.amp.html"
+cdnAmpWebUrl: "https://trib-com.cdn.ampproject.org/c/s/trib.com/news/state-and-regional/govt-and-politics/wyoming-legislature-weighs-a-future-for-self-driving-vehicles/article_87abcf88-aad3-50e7-b794-6104003af234.amp.html"
 type: article
-quality: 24
-heat: -1
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: KPVI
-  domain: kpvi.com
+  name: Casper Star-Tribune
+  domain: trib.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/kpvi.com/content/tncms/assets/v3/editorial/7/06/706792df-1322-5698-be43-f156ad7e62af/5f6e379c794ca.image.jpg?resize=912%2C630"
-    width: 912
-    height: 630
+  - url: "https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/assets/v3/editorial/0/24/0244ce3f-8d43-56ee-8c12-dcc175fa43df/5f6e306069ba6.image.jpg?resize=1024%2C707"
+    width: 1024
+    height: 707
     isCached: true
 
 related:
@@ -40,6 +42,6 @@ related:
         height: 675
         isCached: true
 
-secured: "Ozrc/hWtBUB1kC6gSPPAufmV2ficvXhk7CDw9oWvyDfY1emdp10VjFT20Pk/RSV6kXgRcfT1SNazYG5dnI0w0wJ0qZyCt2CfV9FJJGjA+hEabb1T7/nd4YsPeqJfu50ZnLkhneGhA39+PgyqpOJiCgvW3w2o1udO0/0QPKwnznQjv77dFSTINs13WQcLLKkUIUTJFkI16AWDryBNE/Fo8pBPIhWzpfH9kKk3F15HmnHFw0X9y7ir3fEojX/4TxAcCN1Gl8zXYy17xFaGZvM8JNwIXbUHGlbzyKs+EmsJQcRCGB64GcokOQKQNbbHHlRAasqgagThkDJmVcVILTCPFBpSZbQB/Md869wPRWRdwbc=;MU/xCLmG+pGa4LiYV+Hiag=="
+secured: "A2uBZcJGF5KpMnL52fjyhWACapU64K6askn6D9YF6QUYGMXlGCUsqAX93HTyEBC8ZghQhApeHDIvSeaYSsYjiEvartWpSV0LlRG11f1furdxUriqO36hOtxHwQAvXnYQ5mh/+np8wwSIho60Bu9TYNnfurP/uat6XoIRpm+Zoq569DwTb6j/PweKXYsHKW3DeORGxOgRrOP+MI1pVJy0823Yk7NT1Xn4G7zPefF+yPOIcoaE/2JuAJQAnKRclF0bZaWayTMkCpCQ0Xn1ud2yjAwV3c6NAMGUdrrJJcUeBK6J9zeu2sutZiQISyCCrI0JiYmZtcQs6vqgZO3I5zPsyzpubh1vljkNPc4dAQCMOek=;qTman8AVvWvXmBfLp36y6w=="
 ---
 
