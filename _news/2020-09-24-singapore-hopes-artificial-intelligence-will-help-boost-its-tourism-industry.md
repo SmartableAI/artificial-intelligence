@@ -47,14 +47,16 @@ related:
         height: 340
         isCached: true
   - title: "Singapore's use of facial verification in ID scheme stirs privacy fears"
-    excerpt: "Worldwide, facial recognition systems are being deployed for a range of applications from tracking criminals to counting truant students. In Singapore, facial recognition technology is being ..."
-    publishedDateTime: 2020-09-28T13:48:00Z
-    webUrl: "https://news.trust.org/item/20200928125601-14rci"
+    excerpt: "Singapore's more than four million residents will have to use facial verification technology to access government services through the national identity scheme, a move criticised as intrusive and heavy-handed by privacy advocates."
+    publishedDateTime: 2020-09-28T15:03:00Z
+    webUrl: "https://www.reuters.com/article/singapore-tech-facialrecognition-idINL8N2GO0AS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINL8N2GO0AS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINL8N2GO0AS"
     type: article
     provider:
-      name: Thomson Reuters Foundation
-      domain: trust.org
-    quality: 4
+      name: Reuters
+      domain: reuters.com
+    quality: 54
 
 secured: "nLX/j8CHQ4YIGjx9zZIwCsU7gqC7m38QoFRCiipFhF5+c4N+wr7BhzuO9Xct+7HRIW8fagFeiTixidccx0XPK3hQaSNKZ7jJjfEqYTw3rqPiy7lDUo2VJeQ8OsKjRvLYCamJiApMWgDKAK9MKkZZ/VLm5s5qk7VSER2F74a5rsJjHm54Cj9UIG+gKe0pKYQyt4y8XxORVAmTYXYcGTSS83u3Y5It2RLyF6QVYGK6HEwozIVytGi25sQxIGUdVjL8MZAkzqVqoTVI6t+p3DprHuJRouO3qMvwGTG1QLfdwSoH5gpovi5TTJ/7iuevzBUoE1SoSFv5NyMx4BuvfYtHJ6X07teSRJKBiyupWR3MUnc=;PorvgMUO7/RkZgPgqdBu6A=="
 ---

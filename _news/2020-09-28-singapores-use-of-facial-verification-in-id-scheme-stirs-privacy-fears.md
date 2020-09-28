@@ -1,18 +1,24 @@
 ---
 category: news
 title: "Singapore's use of facial verification in ID scheme stirs privacy fears"
-excerpt: "Worldwide, facial recognition systems are being deployed for a range of applications from tracking criminals to counting truant students. In Singapore, facial recognition technology is being ..."
-publishedDateTime: 2020-09-28T13:48:00Z
-originalUrl: "https://news.trust.org/item/20200928125601-14rci"
-webUrl: "https://news.trust.org/item/20200928125601-14rci"
+excerpt: "Singapore's more than four million residents will have to use facial verification technology to access government services through the national identity scheme, a move criticised as intrusive and heavy-handed by privacy advocates."
+publishedDateTime: 2020-09-28T15:03:00Z
+originalUrl: "https://www.reuters.com/article/singapore-tech-facialrecognition-idINL8N2GO0AS"
+webUrl: "https://www.reuters.com/article/singapore-tech-facialrecognition-idINL8N2GO0AS"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINL8N2GO0AS"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINL8N2GO0AS"
 type: article
-quality: 4
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Thomson Reuters Foundation
-  domain: trust.org
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
@@ -52,6 +58,6 @@ related:
         height: 340
         isCached: true
 
-secured: "dQF8fd+8k8BeZ9DWO6lqagAqB7F8YL8aAJNLIel6ZXdWn6Lk1UNlPwLuKTvtRAsr8tcsjl1DwErvKurGJ44DQdQEsiCbSnL5aIRPiljrASq76cKBfc6clL9Mtze+nGQ6S3mDS0rSxDHqXeGZUPrD7VRicN6UrbKBEx09+3N3jYd+cBfUddPhFewHUFOCjICVPqw/iFOAM92kGPHrCj2f+fidiVBcsvVgfjSMd7WhRGp4WP0RNk4g4iOv1UVDmnV+1mqUwDnvPKMFwpDL6CiqomAGzdFjlB1J5Kw6WhINIkLAEBAdFkIzpAwllY2vEfXGVQUt9kfnxLDrTbmwgxDmPrgviVCYAnEZ+xZ4wllRiHU=;TUuCg+fMHbp6PEkVDd97og=="
+secured: "TciqG93VthnzeQY1rRYjAF6LqZOemtIO2TDqs3HE+rKHTkVRzjFgQ8XxumXr4ZqEgaCfUVAazDY+HeXUO4CdTx1D9u1EGPqa3bPi6UwuA3EjNTTWE7R4Grn3JeUTqNkk4JHvb7V9/H4SPmvfNyK5tiKQk/7hF+v7O0TfdlNzrMPaY6Pl+gisuud4FUyErWNNhavqctrh7WSKzPiQqTRxhSj8htA08YfZirBHPnWqXOQC238VRZ1qL3vwk4J7YLrQNkv6FHXa2GN8GVZRDMerqYlwHfmxuUR1OJ6TeG57oELxQckXGrdiAps+zQvfd69sI9UQgVE05prHE2JjRiRLzcvCTaV/rT5LEIefWKFzjHQ=;gaEoY5AiWs7KS7tjev4fJQ=="
 ---
 

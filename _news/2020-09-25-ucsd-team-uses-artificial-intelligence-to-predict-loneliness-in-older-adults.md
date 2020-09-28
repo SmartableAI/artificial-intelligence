@@ -74,6 +74,22 @@ related:
         width: 1200
         height: 1000
         isCached: true
+  - title: "Artificial Intelligence Tools Predict Loneliness"
+    excerpt: "For the past couple of decades, there has been a loneliness pandemic, marked by rising rates of suicides and opioid use, lost productivity, increased"
+    publishedDateTime: 2020-09-28T15:46:00Z
+    webUrl: "https://scienceblog.com/518743/artificial-intelligence-tools-predict-loneliness/"
+    ampWebUrl: "https://scienceblog.com/518743/artificial-intelligence-tools-predict-loneliness/amp/"
+    cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/518743/artificial-intelligence-tools-predict-loneliness/amp/"
+    type: article
+    provider:
+      name: ScienceBlog
+      domain: scienceblog.com
+    quality: 57
+    images:
+      - url: "https://scienceblog.com/wp-content/uploads/2020/09/Artificial-Intelligence-Tools-to-Predict-Loneliness.jpg"
+        width: 450
+        height: 675
+        isCached: true
   - title: "UCSD researchers use artificial intelligence to predict loneliness in older adults"
     excerpt: "A team led by researchers at UC San Diego School of Medicine used artificial intelligence to analyze language patterns of older adults to discern degrees of loneliness, which could help slow rates"
     publishedDateTime: 2020-09-24T23:25:00Z

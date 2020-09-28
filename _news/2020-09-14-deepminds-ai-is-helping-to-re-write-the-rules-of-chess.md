@@ -3,10 +3,10 @@ category: news
 title: "DeepMind's AI is helping to re-write the rules of chess"
 excerpt: "In the game between chess and artificial intelligence, Google DeepMind's researchers have made yet another move, this time teaming up with ex-chess world champion Vladimir Kramnik to design and trial new AI-infused variants of the game."
 publishedDateTime: 2020-09-14T14:42:00Z
-originalUrl: "https://www.zdnet.com/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/"
-webUrl: "https://www.zdnet.com/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/"
+originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/"
+webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/"
 type: article
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 675
     isCached: true
 
-secured: "USEeR6CWfCP7MCUgY9aWGEe8nIMXk5Pl1mUWR9S3U6QA/irlspA+7ROpVqMBaCPQwMDzDkuxniUNG+T7gkr8lBS6m50wjU6XeoijDtcCfKSU1WynW+E/yUctBoorS0T+YH6mopnCZ4PmzmH/lDtZ75RwcBGJmSgYgohzQoa/BN9bgc7uEMx5KIPtdA5hT3803FC15WW2gSmroLsE6BTcrAqRKs4FgRoER8QDoDL7RdticFXVsCaQUhkqDtSaRuwF3wulkwHkjFxxJ3m+MfRatCbMwfTla5gsNWpQHBgeROrK9xoJPiDQb+XconjNLlOB40bTg0qSXQNwkZ5xOI14IoUpNjCuh4ATdPP31ZZ0Y9jMYO9MhgwpkQvrZeAiNuXPa5xYwuRAxp2hOr5TWNWYTnZrtTRXKVRcDJhoUnz/lCDWHOV28pnF9lTw6o+LXTtDVkpZbnVTJinchLxtVds7IC5U/IKqROSUrtZ89ihIWpnMisVghwisV6idZI7kEjpHW98ic5W4hbqmObIGakrYLhIMVE8xRoJ19kjJiZgjjdg=;KeDdwzl9GB5W0u7U/aIKhQ=="
+secured: "jHWlmcrKa5AuRHtkha6Xj0VleN+ey3WztGNr2haKO5BTyGT83rHESHavq+MO8b+uKFbM5WXgrDxiqdkMvlyl4HANUlcSHwWQKvG0UDUWviVYQPhSD19RVUwpvj1fgV3QU1XGBKeqIg9mTJQfAieIFYFyV9cp/ZgyA2rDvepXK29Ux2iRtQ2M6dNzvP9mqTyQzGK0FNUbGHm5EZ+H4oEZN+zAblKCnO6loiPFi52SHoP44Qc3DPe2V3DkU6FMZjCpd2CbpA/J+EMmx4idioYJ127OrXPZ16Lsurh0NEurW1h7uYwfUBO0m+6GaBU59hTh2pzcwz89e1VOG5dn49sOZDbnlGbke+wHyYfTD5DmYQw=;DI1poEp6TzbszSO8OL3qgA=="
 ---
 

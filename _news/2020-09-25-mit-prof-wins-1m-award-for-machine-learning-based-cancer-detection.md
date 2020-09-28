@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcmag.com/news/mit-prof-wins-1m-award-for-machine-learni
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/mit-prof-wins-1m-award-for-machine-learning-based-cancer-detection?amp=true"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 805
     height: 453
     isCached: true
-
-related:
-  - title: "Professor at MIT wins top AI award for cancer, drug research"
-    excerpt: "A Massachusetts Institute of Technology professor using computer science to detect cancer and discover new drugs has won a new $1 million award for artificial intelligence."
-    publishedDateTime: 2020-09-23T21:38:00Z
-    webUrl: "https://cbs4indy.com/news/professor-at-mit-wins-top-ai-award-for-cancer-drug-research/"
-    ampWebUrl: "https://cbs4indy.com/news/professor-at-mit-wins-top-ai-award-for-cancer-drug-research/amp/"
-    cdnAmpWebUrl: "https://cbs4indy-com.cdn.ampproject.org/c/s/cbs4indy.com/news/professor-at-mit-wins-top-ai-award-for-cancer-drug-research/amp/"
-    type: article
-    provider:
-      name: WTTV
-      domain: cbs4indy.com
-    quality: 59
-    images:
-      - url: "https://cbs4indy.com/wp-content/uploads/sites/22/2020/09/AP20267545042752.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "bO9oRX6Rz73HYJCMPO+cDZpT4t9apRbjtOeoZT0ZpR41PwhqepJWUKWFsdZPmt9Ae3Yb+LJO3pxr6I2jmpBdAiVGIdTz2YuwFSXwn0z4LmO9mmp4eHg6vAx45dq6I9U2ArJ9bow9AOjSykVx68lB4/c1HqZcVR0XFvKNvKaSq8dG+PJONv/MwjhLxcAbiunULiUldBN7nYOhKeF9gWUlf4wiqb6as+mU4riK4YB98CKgrQXfgrh+EEwNn3AaknrzqxPDzbhxDLvrcby7/ZUtCjXOfrxDvU9lO4/Z2gqX2q2wYAb0MsjV3V68GxRtb161qFpXvczCGxnhHE+YpCKS7g/dLIdjBoVv0Ba08AdfjpUsMlBjmh2WkkUvALd1kQso2mLV+3o0CdEY3dDQKbPUMC2/U5OC9cdFkbe9RcoYIWA0n1/2z7nLC/3cirpBqiE4upuHzN2YHOCNEBQNUp+m9LphX9qwd2214fglqg4kWbdzMbNLB2TtYqqf7cl056M9P0VJcZOvdfiQ+8Dhqy8MuA==;nl6+VvTv5e7X9lQBhQOiPw=="
 ---

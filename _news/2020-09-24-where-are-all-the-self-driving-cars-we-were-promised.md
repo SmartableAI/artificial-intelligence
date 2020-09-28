@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/shift/2020/09/24/whats-needed-to-get-safe-sel
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/09/24/whats-needed-to-get-safe-self-driving-cars-on-our-roads-autopilot/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 796
     height: 448
     isCached: true
+
+related:
+  - title: "Self-driving cars are here, and they're hungry for pedestrians"
+    excerpt: "Footage of a Tesla Model 3 safety test shows the car's autonomous braking system failing, causing the vehicle to slam into a robot pedestrian."
+    publishedDateTime: 2020-09-28T14:31:00Z
+    webUrl: "https://news.avclub.com/self-driving-cars-are-here-and-theyre-hungry-for-pedes-1845201537"
+    ampWebUrl: "https://news.avclub.com/self-driving-cars-are-here-and-theyre-hungry-for-pedes-1845201537/amp"
+    cdnAmpWebUrl: "https://news-avclub-com.cdn.ampproject.org/c/s/news.avclub.com/self-driving-cars-are-here-and-theyre-hungry-for-pedes-1845201537/amp"
+    type: article
+    provider:
+      name: AV Club
+      domain: avclub.com
+    quality: 44
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/i6yquwmxcwoyuvhgm7hd.jpg"
+        width: 800
+        height: 449
+        isCached: true
 
 secured: "R6nANE3xqi5dUDuh1J4YnzPFT3Yb/WH6fY4zZg4VqYNq9JPTubAVpm8/lcuemIvZrSMI6plwOao2/s4zj3pRt0l66Drx8LOZmgXZmqXDjQSNPNTYf7vyG0L+iKm3zBmXnkhzQ8OG0ej1WSJHwVvXKAB08wWPceAs6I4bfg9M8wmOTtcKF16Mjc0Uo8Vg6weLKouHRswPtfQSbnIB5R/r/3vZPSZIVOL/KGSF8ZS+U6jjoHnXbt966ppZWSvPqnmCDfgnqIVi3EFb0iI+cER6NGSFeiiAtajB0DILxs86vWvRjq1TEAtUpmICJi1yDP0C3fnoYXZn9VhXKQ+kLcp9CsAroDWcfi+eM961xfJQzPikridx2Ee/H8QRapvSSg4XpWg8mR4wtlRLnQd69Sbj0eEn3WCo1TgkblPRWW3bTJg4BFUHXuG5oeMOJzKBY3Dc60uCWTEWzg4C0/nqHZGi3I2mpNrt+/XhX/TU93O/Yuu62oMoozEO0vUUHrjZsm9De9kvUIq0nUKHLbC1BdDqUg==;gSb1x/1mx52w23soDv7cOw=="
 ---

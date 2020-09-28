@@ -37,18 +37,18 @@ related:
       domain: usnews.com
     quality: 69
   - title: "Self-Driving Car Bill Reintroduced in House Minus Biggest Backer"
-    excerpt: "Legislation that would allow carmakers to sell as many as 100,000 self-driving vehicles per year in the U.S. is being reintroduced in the U.S. House of"
-    publishedDateTime: 2020-09-24T12:44:00Z
-    webUrl: "https://www.claimsjournal.com/news/national/2020/09/24/299540.htm"
+    excerpt: "Legislation that would allow carmakers to sell as many as 100,000 self-driving vehicles per year in the U.S. is being reintroduced in the U.S. House of Representatives, but one of its biggest ..."
+    publishedDateTime: 2020-09-24T07:05:00Z
+    webUrl: "https://www.ttnews.com/articles/self-driving-car-bill-reintroduced-house-minus-biggest-backer"
     type: article
     provider:
-      name: Claims Journal
-      domain: claimsjournal.com
+      name: Transport Topics
+      domain: ttnews.com
     quality: 24
     images:
-      - url: "https://www.claimsjournal.com/app/uploads/2020/09/BB.freeway.traffic-580x380.jpg"
-        width: 580
-        height: 380
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/self-driving_0.jpg?itok=MsdY5YC0"
+        width: 470
+        height: 246
         isCached: true
 
 secured: "i+IGO8KuYTQBTGuW/Uy/VazAaXsG6ZuLaWqbIu+jLsVHLqVUyRQRkNHJnw6OqYMsJqi4FqAYfGdgnO34p+b2yZwxP+9LEUD7f6I7bo3ZB/9DNVMWRYb9M5quKiQUNHjwqRjwDZzpvyRn8vuMsmCN2X09qobNbst7iz2RgObu6BsI+h9IEnqgGrs0Typ1SMPJlYDNPzk+CANG78ot40nmcGvtYo/ix/Sru6OcKdN5+EwKDHimuTcga9sNIsqYA7bmHqWjZhq42iMCZp2DUSfM8Rq+ucVVHkezSlCypz6lCDHdJwufCk8ukiqwNNyoYy1H/mjxcSgc8QlLL17CReYi5NlTj0SZ/0AqzTpFxDKmKlX+ZEqs8PShWZiWAp8zw7nsHPttQ7ALJqKtG71ct6TD92/D5tgpJNSmJZHwasEtVeYjZuhXCSukpaTQSIHwh3WpUUuLri3f1FS4YBhkvMf3OyOiz5/Yq2sM7Cn5cbnq8mdYbE+PDGwRpSuPJ1vi3RXtLmeioW6aLXyf663Y+HI2aQ==;XpETOSdUHW0zZ+yu/N3nXw=="

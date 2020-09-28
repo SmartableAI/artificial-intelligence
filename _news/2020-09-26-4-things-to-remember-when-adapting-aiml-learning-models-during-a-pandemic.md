@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/09/25/4-things-to-remember-when-adapting
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/25/4-things-to-remember-when-adapting-ai-ml-learning-models-during-a-pandemic/amp/"
 type: article
 quality: 102
-heat: 132
+heat: 122
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Gaining insights into winning football strategies using machine learning"
-    excerpt: "University of Illinois, Urbana Champaign (UIUC) has partnered with the Amazon Machine Learning Solutions Lab to help UIUC football coaches prepare for games more efficiently and improve their odds of winning. Previously, coaches prepared for games by creating a game planning sheet that only featured"
-    publishedDateTime: 2020-09-23T22:12:03Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/gaining-insights-into-winning-football-strategies-using-machine-learning/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 88
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/16/1-Flowchart-2.jpg"
-        width: 900
-        height: 537
-        isCached: true
   - title: "Preventing customer churn by optimizing incentive programs using stochastic programming"
     excerpt: "In recent years, businesses are increasingly looking for ways to integrate the power of machine learning (ML) into business decision-making. This post demonstrates the use case of creating an optimal incentive program to offer customers identified as being at risk of leaving for a competitor, or churning."
     publishedDateTime: 2020-09-24T21:45:43Z

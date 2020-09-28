@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.sbs.com.au/v1/news/article/artist-ai-weiwei-holds-silent
 cdnAmpWebUrl: "https://amp-sbs-com-au.cdn.ampproject.org/c/s/amp.sbs.com.au/v1/news/article/artist-ai-weiwei-holds-silent-protest-for-julian-assange-and-says-his-possible-prosecution-is-unbelievable/a432883b-c354-4d2a-82c3-37cd0d074c24"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,36 @@ images:
     isCached: true
 
 related:
+  - title: "Dissident Ai Weiwei protests possible extradition of Assange"
+    excerpt: "The dissident Chinese contemporary artist Ai Weiwei staged a silent protest outside London’s Old Bailey court on Monday against the possible extradition of WikiLeaks founder"
+    publishedDateTime: 2020-09-28T12:22:00Z
+    webUrl: "https://www.kxan.com/news/international/dissident-ai-weiwei-protests-possible-extradition-of-assange/"
+    ampWebUrl: "https://www.kxan.com/news/international/dissident-ai-weiwei-protests-possible-extradition-of-assange/amp/"
+    cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/international/dissident-ai-weiwei-protests-possible-extradition-of-assange/amp/"
+    type: article
+    provider:
+      name: KXAN
+      domain: kxan.com
+    quality: 57
+    images:
+      - url: "https://www.kxan.com/wp-content/uploads/sites/40/2020/09/2644d6c293a24777b618ebaef166d1e8.jpg?w=1280"
+        width: 1280
+        height: 783
+        isCached: true
+  - title: "Ai Weiwei and groomed dogs: Monday's best photos"
+    excerpt: "The Guardian’s picture editors select highlights from around the world"
+    publishedDateTime: 2020-09-28T11:53:00Z
+    webUrl: "https://www.theguardian.com/news/gallery/2020/sep/28/ai-weiwei-and-groomed-dogs-mondays-best-photos"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 37
+    images:
+      - url: "https://i.guim.co.uk/img/media/1b1d28f90f835cb3d1903054ffa6a3f23547d042/0_356_5344_3207/master/5344.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5dc0e615717e9ccc5636a0875205c987"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Ai Weiwei Supports Assange With Silent Protest"
     excerpt: "Dissident Chinese artist Ai Weiwei held a silent protest on Monday outside a London court to demand the release of WikiLeaks founder Julian Assange, who faces extradition to the United States. Exiled Ai,"
     publishedDateTime: 2020-09-28T11:25:00Z
@@ -39,20 +69,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/28/assange-truly-represents-the-very-core-value-of.jpg"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Dissident Ai Weiwei protests possible extradition of Assange"
-    excerpt: "The dissident Chinese contemporary artist Ai Weiwei staged a silent protest outside London's Old Bailey court on Monday against the possible extradition of WikiLeaks founder"
-    publishedDateTime: 2020-09-28T12:06:00Z
-    webUrl: "https://apnews.com/3da7b17cb52d08601bd50e467de7a717"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/7d482ab7d19646ac9eba54c9b113eb24/3000.jpeg"
-        width: 3000
-        height: 1834
         isCached: true
   - title: "Ai Weiwei holds silent protest outside Julian Assange's extradition hearing"
     excerpt: "Before attending court, the Chinese artist posted a photograph of himself and his son both wearing Free Assange t-shirts."

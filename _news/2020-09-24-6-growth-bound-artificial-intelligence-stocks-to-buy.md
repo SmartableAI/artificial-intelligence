@@ -36,7 +36,7 @@ related:
     provider:
       name: InvestorPlace
       domain: investorplace.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://investorplace.com/wp-content/uploads/2019/10/artificial-intelligence.jpg"
         width: 1600

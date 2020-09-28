@@ -8,7 +8,7 @@ webUrl: "https://investorplace.com/2020/09/6-growth-bound-artificial-intelligenc
 ampWebUrl: "https://investorplace.com/2020/09/6-growth-bound-artificial-intelligence-stocks-to-buy/amp/"
 cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/09/6-growth-bound-artificial-intelligence-stocks-to-buy/amp/"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://investorplace.com/wp-content/uploads/2019/10/artificial-intelligence.jpg"

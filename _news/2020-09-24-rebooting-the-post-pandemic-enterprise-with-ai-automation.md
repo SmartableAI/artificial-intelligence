@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "The Pandemic Created A Plastics Problem, But AI Can Help"
+    excerpt: "In the wake of COVID-19, single-use plastics and other waste materials are growing, creating an opportunity for waste-to-energy plants, especially those equipped with intelligent systems."
+    publishedDateTime: 2020-09-28T14:02:00Z
+    webUrl: "https://www.forbes.com/sites/mitsubishiheavyindustries/2020/09/28/the-pandemic-created-a-plastics-problem-but-ai-can-help/"
+    ampWebUrl: "https://www.forbes.com/sites/mitsubishiheavyindustries/2020/09/28/the-pandemic-created-a-plastics-problem-but-ai-can-help/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mitsubishiheavyindustries/2020/09/28/the-pandemic-created-a-plastics-problem-but-ai-can-help/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6b775793ae332ea03fe5b4%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How To Dress For The Pandemic, Surprising Trends From The Stitch Fix AI Fashion Forecast"
     excerpt: "Stitch Fix is doubling down on its algorithms to capture $30 billion of retail market share they expect to move online over the next 12 to 18 months. Chief Algorithms Officer Emeritus, Eric Colson, shares insights on what AI is saying about the hot looks for the season."
     publishedDateTime: 2020-09-24T01:53:00Z

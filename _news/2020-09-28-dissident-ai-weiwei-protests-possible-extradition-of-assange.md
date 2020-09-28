@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Dissident Ai Weiwei protests possible extradition of Assange"
-excerpt: "The dissident Chinese contemporary artist Ai Weiwei staged a silent protest outside London's Old Bailey court on Monday against the possible extradition of WikiLeaks founder"
-publishedDateTime: 2020-09-28T12:06:00Z
-originalUrl: "https://apnews.com/3da7b17cb52d08601bd50e467de7a717"
-webUrl: "https://apnews.com/3da7b17cb52d08601bd50e467de7a717"
+excerpt: "The dissident Chinese contemporary artist Ai Weiwei staged a silent protest outside London’s Old Bailey court on Monday against the possible extradition of WikiLeaks founder"
+publishedDateTime: 2020-09-28T12:22:00Z
+originalUrl: "https://www.kxan.com/news/international/dissident-ai-weiwei-protests-possible-extradition-of-assange/"
+webUrl: "https://www.kxan.com/news/international/dissident-ai-weiwei-protests-possible-extradition-of-assange/"
+ampWebUrl: "https://www.kxan.com/news/international/dissident-ai-weiwei-protests-possible-extradition-of-assange/amp/"
+cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/international/dissident-ai-weiwei-protests-possible-extradition-of-assange/amp/"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 57
+heat: 97
+published: true
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: KXAN
+  domain: kxan.com
 
 topics:
   - AI
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/7d482ab7d19646ac9eba54c9b113eb24/3000.jpeg"
-    width: 3000
-    height: 1834
+  - url: "https://www.kxan.com/wp-content/uploads/sites/40/2020/09/2644d6c293a24777b618ebaef166d1e8.jpg?w=1280"
+    width: 1280
+    height: 783
     isCached: true
 
 related:
@@ -39,6 +41,20 @@ related:
       - url: "https://sl.sbs.com.au/public/image/file/2eb18225-ee7f-4883-b91f-f1a2d8879f06/crop/16x9"
         width: 850
         height: 478
+        isCached: true
+  - title: "Ai Weiwei and groomed dogs: Monday's best photos"
+    excerpt: "The Guardian’s picture editors select highlights from around the world"
+    publishedDateTime: 2020-09-28T11:53:00Z
+    webUrl: "https://www.theguardian.com/news/gallery/2020/sep/28/ai-weiwei-and-groomed-dogs-mondays-best-photos"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 37
+    images:
+      - url: "https://i.guim.co.uk/img/media/1b1d28f90f835cb3d1903054ffa6a3f23547d042/0_356_5344_3207/master/5344.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5dc0e615717e9ccc5636a0875205c987"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Ai Weiwei Supports Assange With Silent Protest"
     excerpt: "Dissident Chinese artist Ai Weiwei held a silent protest on Monday outside a London court to demand the release of WikiLeaks founder Julian Assange, who faces extradition to the United States. Exiled Ai,"
@@ -66,6 +82,6 @@ related:
       domain: smh.com.au
     quality: 35
 
-secured: "QO7sPJ/T1ApH6HYdhksS52rOE6NwsAfZZHnCv/baHfJgrzRxsToxtkGXFxcSOV9fHtD9dB9DnXBlMs9jL2QZiyC8VtT3a9Lr/DnvQf2UDmFqnT7+xsUBdbxvFT+e/WO4h3WYnskYWvc/F8GAlfOu6bGKzJiL84DSiw8aJ/VYzWOkJi7e9H4YcGyJby08BupXkh3fDD26CLopCSDvFxM4XKoKnoy6Vby9sihxv16womIe7KyGm8X4PLskamBRWHcndI55r/yc/yyAqXHFBOrsXOf4fZfTELah0kn8M/m7HblrMJbWnDdV/Bh6H+ecP+WaurLmwyjwIkkNDQ9jHxppMYMlcMCB2nBMtg3ZiEA/8Kc=;bME5ApmvUQ/QhwydlSM64Q=="
+secured: "lT1/io8Do9mWSrl43MC3qy8zQaMQEwPOOocuSjWCXICFbKatyeeIZz7Cp3qn1Lgb6KLBtEWPtomDSOW5fxohHXBtSCA3Jon051kwUugXHLyJ2RnlitHLz5yThspbNdM9sXEH2Ja8bgwYDiNRG6vpAJwZrpZqDzWYKkTQ4rbDR9QRN/HNLBR+EBWeSxIdo3c6szkgc0Qx8DhEvge9y0/cIaFJ16SbueUxTyWmWJyc8UjJfJnG4judTQOWnWajCF3auuAJqD286r3m+uBocuUt2tBxGhOihJImvciXTbtCMAew+3At0tA0U6zdmb+cMO6mwazpDeXSs2Q7thr4HUPnzdG6hWtXzQgUj48cnjvyP4c=;WbmOhZSF9Nmn2LiP74xV5A=="
 ---
 

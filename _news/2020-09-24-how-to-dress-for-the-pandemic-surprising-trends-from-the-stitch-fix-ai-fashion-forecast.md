@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "The Pandemic Created A Plastics Problem, But AI Can Help"
+    excerpt: "In the wake of COVID-19, single-use plastics and other waste materials are growing, creating an opportunity for waste-to-energy plants, especially those equipped with intelligent systems."
+    publishedDateTime: 2020-09-28T14:02:00Z
+    webUrl: "https://www.forbes.com/sites/mitsubishiheavyindustries/2020/09/28/the-pandemic-created-a-plastics-problem-but-ai-can-help/"
+    ampWebUrl: "https://www.forbes.com/sites/mitsubishiheavyindustries/2020/09/28/the-pandemic-created-a-plastics-problem-but-ai-can-help/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mitsubishiheavyindustries/2020/09/28/the-pandemic-created-a-plastics-problem-but-ai-can-help/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6b775793ae332ea03fe5b4%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Rebooting the post-pandemic enterprise with AI automation"
     excerpt: "While 59% of these SCM practitioners currently use cloud infrastructure, only 28% have deployed predictive analytics systems and a mere 12% use AI technologies. A recent post by the VP of Azure's AI operations highlighted several other areas where AI can ..."
     publishedDateTime: 2020-09-24T09:36:00Z

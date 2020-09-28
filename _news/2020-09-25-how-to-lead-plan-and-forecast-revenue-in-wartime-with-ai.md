@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lucianapaulise/2020/09/23/how-to-lead-p
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lucianapaulise/2020/09/23/how-to-lead-plan-and-forecast-revenue-in-wartime-with-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Artificial Intelligence Market By Business Growth, Trend, Segmentation, Top Key Players, Revenue and Industry Expansion Forecast Report"
+    excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2020-09-28T14:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-by-business-growth-trend-segmentation-top-key-players-revenue-and-industry-expansion-forecast-report-2020-09-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Platforms Market Size 2020 Industry Share, Demand Status, Recent Development Trends with Top Players and Forecast Analysis"
     excerpt: "Artificial Intelligence Platforms Market”research provides actionable intelligence on major parameters impacting"
     publishedDateTime: 2020-09-25T09:25:00Z

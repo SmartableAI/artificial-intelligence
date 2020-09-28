@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/health-wellbeing/ai-loneliness-natural-speech-l
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/health-wellbeing/ai-loneliness-natural-speech-language/?amp=true"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://images.medindia.net/amp-images/health-images/cataract-increases-risk-of-depression-in-older-adults.jpg"
         width: 1200
         height: 1000
+        isCached: true
+  - title: "Artificial Intelligence Tools Predict Loneliness"
+    excerpt: "For the past couple of decades, there has been a loneliness pandemic, marked by rising rates of suicides and opioid use, lost productivity, increased"
+    publishedDateTime: 2020-09-28T15:46:00Z
+    webUrl: "https://scienceblog.com/518743/artificial-intelligence-tools-predict-loneliness/"
+    ampWebUrl: "https://scienceblog.com/518743/artificial-intelligence-tools-predict-loneliness/amp/"
+    cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/518743/artificial-intelligence-tools-predict-loneliness/amp/"
+    type: article
+    provider:
+      name: ScienceBlog
+      domain: scienceblog.com
+    quality: 57
+    images:
+      - url: "https://scienceblog.com/wp-content/uploads/2020/09/Artificial-Intelligence-Tools-to-Predict-Loneliness.jpg"
+        width: 450
+        height: 675
         isCached: true
   - title: "UCSD Team Uses Artificial Intelligence to Predict Loneliness in Older Adults"
     excerpt: "Participants were interviewed by trained study staff in unstructured conversations that were analyzed using NLP-understanding software, plus other machine-learning tools"

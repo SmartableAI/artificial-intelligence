@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/17676651"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17676651"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     height: 372
     isCached: true
 
-secured: "XLlFLy9ECnP4RoJkP6iq1UoR+ybkwf2xHqZi+lrEAkhgvVvxF5cKmxOZKaNTep17YPIDCFt2e/EaLaArqQ9WAfwFDOTKjNh+BIxpwRoz8esQFpTjFGZnZJRcdX+1MvZvFEtmUQtuY9TkzK1GnbQtj0lxB/9B1u3LwIboWHzuPkvoVxoxGLMrvU+DghR4DjRy4qDWlA4QvhB4RHuz2c5kgP2C5ZvoXGydYzL7mKabk1FhYgBdB2HygRK1xpfIIzUqXleEDhMg8mKygQsik3WnVxUtyGw8BMqQu5gLfucYihBjUX0+T7rK0CojWwsPAF1vfU5J0o4fioFqNtbi21nubvYi5h9DsCYsu6xckkbJO94=;7sTLee9fT9ZF6ObP+yTMQA=="
+related:
+  - title: "Timekettle M2 Translator Earbuds: The World’s 1st Offline Translation Earbuds Providing Music and Calling Feature"
+    excerpt: "Timekettle Technologies believes that every communication is an opportunity to connect and establish a relationship with others. Thus, this company is committed to using artificial intelligence and cutting-edge hardware to create superior and innovative products,"
+    publishedDateTime: 2020-09-28T14:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/timekettle-m2-translator-earbuds-the-worlds-1st-offline-translation-earbuds-providing-music-and-calling-feature-2020-09-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "vD9ml2b1tcP8EE3m97GTF2p5aDvxuJqYeuxo7FwmE9c+NlVgjgqKEw2Rb5hpLVbaQg16ybuP+n2ZF6K78eLTIPYMRfn+wlNG3CR7lpNC6ActVil5aS112f2+Tq47WWMjdWclTSnvYX42LNbvymq3aKzsEVjIMT3Iff24DDpydKAyIi26MoofoRFnJsleIznX7Zbbl3lzkB7X50T18fMO1tJRmjcET0uoMNCCZLhdy3cDxGxGJ7cp7qhs1Ddel4gSwLuNmDqQTSJH9pI9STyxCjFFtcxfADZZN1QkKHStyi46wnovIHM3bXLxyIzXhdf52mWigAzL5u6U5TAbniu1NCXKLDuZ7oFz+RjRdSXiq1YnXpIIzE8ya1YzLSPU15IoabmFNO1JXymvbUouZZzsMrrNVdpmnSBdOw7TXgjNekGVW2HIUkq8nQd6C12kutibAS2mRtgx01fTnAH7dDgA50o4yG1pB8xTQo6mdyUMF3L1tzpeDq2RuPVtDTAWh8ziv3SkGyhvtOnzExntHYqWyw==;MA1B3j8kVzNBWK+ujfp9XA=="
 ---
 
