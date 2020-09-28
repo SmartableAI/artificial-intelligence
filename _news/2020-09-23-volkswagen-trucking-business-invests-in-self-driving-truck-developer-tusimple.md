@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/volkswagen-trucking-business-invest
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460"
 type: article
 quality: 71
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -68,22 +68,6 @@ related:
       - url: "https://cdn.fleetnews.co.uk/web/2/root/cfcontinentalenviroperception2020-environmental-perception.jpg"
         width: 2126
         height: 1537
-        isCached: true
-  - title: "Volkswagen’s Traton partners with TuSimple for self-driving trucks"
-    excerpt: "Volkswagen’s <VOWG_p.DE> Traton commercial truck unit and self-driving technology startup TuSimple will partner to develop self-driving trucks, the companies said on Wednesday. Traton <8TRA.DE> has also taken a minority stake in TuSimple,"
-    publishedDateTime: 2020-09-23T10:37:00Z
-    webUrl: "https://www.metro.us/volkswagens-traton-partners-with/"
-    ampWebUrl: "https://www.metro.us/volkswagens-traton-partners-with/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/volkswagens-traton-partners-with/amp/"
-    type: article
-    provider:
-      name: Metro US
-      domain: metro.us
-    quality: 44
-    images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2020binary_LYNXNPEG8M0IS-BASEIMAGE.jpg"
-        width: 800
-        height: 507
         isCached: true
   - title: "Is TuSimple about to solve complexities of driverless trucks?"
     excerpt: "However, that day may be fast approaching as TuSimple continues generating momentum. This year has been particularly momentous for TuSimple, as the company not only continues to refine its technology,"

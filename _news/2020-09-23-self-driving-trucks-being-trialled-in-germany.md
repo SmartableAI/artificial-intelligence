@@ -65,22 +65,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 54
-  - title: "Volkswagen’s Traton partners with TuSimple for self-driving trucks"
-    excerpt: "Volkswagen’s <VOWG_p.DE> Traton commercial truck unit and self-driving technology startup TuSimple will partner to develop self-driving trucks, the companies said on Wednesday. Traton <8TRA.DE> has also taken a minority stake in TuSimple,"
-    publishedDateTime: 2020-09-23T10:37:00Z
-    webUrl: "https://www.metro.us/volkswagens-traton-partners-with/"
-    ampWebUrl: "https://www.metro.us/volkswagens-traton-partners-with/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/volkswagens-traton-partners-with/amp/"
-    type: article
-    provider:
-      name: Metro US
-      domain: metro.us
-    quality: 44
-    images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2020binary_LYNXNPEG8M0IS-BASEIMAGE.jpg"
-        width: 800
-        height: 507
-        isCached: true
   - title: "Is TuSimple about to solve complexities of driverless trucks?"
     excerpt: "However, that day may be fast approaching as TuSimple continues generating momentum. This year has been particularly momentous for TuSimple, as the company not only continues to refine its technology,"
     publishedDateTime: 2020-09-24T15:01:00Z

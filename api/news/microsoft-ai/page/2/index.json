@@ -1,0 +1,1353 @@
+{
+  "page": 2,
+  "value": [
+    {
+      "path": "_news/2020-09-09-tamr-data-mastering-platform-now-available-on-microsoft-azure.md",
+      "title": "Tamr Data Mastering Platform Now Available on Microsoft Azure",
+      "excerpt": "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced its cloud-native capabilities on Microsoft Azure. These capabilities allow companies to master",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/tamr-data-mastering-platform-now-available-on-microsoft-azure/article_4688590a-bcaf-571f-9e96-50f6646e354e.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/tamr-data-mastering-platform-now-available-on-microsoft-azure/article_4688590a-bcaf-571f-9e96-50f6646e354e.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-09T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-ai-image-recognition-market-global-outlook-2020-2025-google-ibm-intel-samsung-microsoft-amazon-web-services-qualcomm.md",
+      "title": "AI Image Recognition Market Global Outlook 2020-2025: Google, IBM, Intel, Samsung, Microsoft, Amazon Web Services, Qualcomm",
+      "excerpt": "March 2019 – Amazon Rekognition launched enhanced face analysis. This is the fifth model update overall since the service launched. Face analysis generates rich metadata about detected faces in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-image-recognition-market-global-outlook-2020-2025-google-ibm-intel-samsung-microsoft-amazon-web-services-qualcomm-2020-09-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-image-recognition-market-global-outlook-2020-2025-google-ibm-intel-samsung-microsoft-amazon-web-services-qualcomm-2020-09-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-08T20:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-coders-software-engineers-find-work-with-right-skills.md",
+      "title": "Coders, Software Engineers Find Work with Right Skills",
+      "excerpt": "Experience with cloud-based infrastructures like MS-Azure, AWS, Google, Oracle ... general purpose programming language suitable for a variety of tasks in machine learning. Depending upon the specific machine learning application, the other suitable ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/design-hardware-software/coders-software-engineers-find-work-right-skills",
+      "originalUrl": "https://www.designnews.com/design-hardware-software/coders-software-engineers-find-work-right-skills",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/AdobeStock_267349628_700W.png",
+          "width": 700,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience.md",
+      "title": "Nutanix joins Microsoft Azure for seamless Hybrid Cloud experience",
+      "excerpt": "Enterprise Cloud computing firm Nutanix on Tuesday announced a partnership with Microsoft to deliver a Hybrid Cloud solution with seamless application, data and license mobility.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html",
+      "originalUrl": "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sify.com/uploads/nutanix_ujikoBjihaieg.jpeg",
+          "width": 800,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html",
+      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html",
+      "publishedDateTime": "2020-09-08T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sify.com",
+        "domain": "sify.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-08-nutanix-announces-partnership-with-microsoft-azure-for-a-seamless-hybrid-experience.md",
+      "title": "Nutanix Announces Partnership with Microsoft Azure for a Seamless Hybrid Experience",
+      "excerpt": "NEXT Conference - Nutanix (NASDAQ: NTNX), a leader in enterprise cloud computing, today announced a new partnership with Microsoft that will enable",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/nutanix-announces-partnership-with-microsoft-azure-for-a-seamless-hybrid-experience-2020-09-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/nutanix-announces-partnership-with-microsoft-azure-for-a-seamless-hybrid-experience-2020-09-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-08T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-08-10-ways-ai-improves-pricing-and-revenue-management.md",
+      "title": "10 Ways AI Improves Pricing And Revenue Management",
+      "excerpt": "The global Revenue Management market is expected to grow from $14.5B in 2019 to $22.4B by 2024, attaining a Compound Annual Growth Rate (CAGR) of 9.6%. BCG found that automating revenue management systems' pricing rules with AI can increase revenues up to 5% in less than nine months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/07/10-ways-ai-improves-pricing-and-revenue-management/",
+      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/07/10-ways-ai-improves-pricing-and-revenue-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f56f0b6dc8bdaa63c303cbb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3840%26cropY1%3D0%26cropY2%3D2160",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/07/10-ways-ai-improves-pricing-and-revenue-management/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/09/07/10-ways-ai-improves-pricing-and-revenue-management/amp/",
+      "publishedDateTime": "2020-09-07T20:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-08-content-moderation-solutions-market-2020-is-booming-worldwide-leading-key-players-cogito-microsoft-azure-clarifai-cognizant-accenture.md",
+      "title": "Content Moderation Solutions Market 2020 Is Booming Worldwide | Leading Key Players – Cogito, Microsoft Azure, Clarifai, Cognizant, Accenture",
+      "excerpt": "The report provides a detailed assessment of the 'Global Content Moderation Solutions Market’. This includes enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/content-moderation-solutions-market-2020-is-booming-worldwide-leading-key-players-cogito-microsoft-azure-clarifai-cognizant-accenture-2020-09-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/content-moderation-solutions-market-2020-is-booming-worldwide-leading-key-players-cogito-microsoft-azure-clarifai-cognizant-accenture-2020-09-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-07T19:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-07-microsoft-announces-the-general-availability-of-immersive-reader-service-on-the-azure-ai-platform.md",
+      "title": "Microsoft Announces the General Availability of Immersive Reader Service on the Azure AI Platform",
+      "excerpt": "Immersive Reader, which is a part of the Cognitive Services suite within the Microsoft Azure AI Platform, provides help for readers to read and comprehend text. In a recent blog, Microsoft announced the general availability of the service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2020/09/immersive-reader-ga-azure/",
+      "originalUrl": "https://www.infoq.com/news/2020/09/immersive-reader-ga-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2020/09/immersive-reader-ga-azure/en/headerimage/croppted-1920_Panel4_FeatureHeader_PictureDictionary-1599385533206.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-07T04:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-09-07-infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event.md",
+      "title": "Infoworks DataFoundry to be Featured at Databricks Microsoft Azure Event",
+      "excerpt": "Infoworks.io, the leader in Enterprise Data Operations and Orchestration (EDO2) systems, announces that the company is co-sponsoring a Unified Data",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event-2020-08-31",
+      "originalUrl": "https://www.marketwatch.com/press-release/infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event-2020-08-31",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-06T21:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-07-azure-machine-learning-studio-web-debuts.md",
+      "title": "Azure Machine Learning Studio Web Debuts",
+      "excerpt": "Microsoft announced the Azure Machine Learning studio web experience is generally available. The company yesterday (July 8) announced the advancement to GA, with a bevy of new features touching upon Notebooks functionality, the designer, experiment ...",
+      "sourceUrl": null,
+      "webUrl": "https://visualstudiomagazine.com/articles/2020/07/09/azure-ml-studio-web.aspx",
+      "originalUrl": "https://visualstudiomagazine.com/articles/2020/07/09/azure-ml-studio-web.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://visualstudiomagazine.com/-/media/ECG/visualstudiomagazine/Images/IntroImages2017/0117vsm_McCaffreyDataSciLab.jpg",
+          "width": 647,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-06T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Visual Studio Magazine",
+        "domain": "visualstudiomagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-05-microsoft-flight-simulator-2020-finally-realizes-the-true-next-generation-potential-of-azure-cloud-computing-in-pc-gaming.md",
+      "title": "Microsoft Flight Simulator 2020 finally realizes the true next-generation potential of Azure cloud computing in PC gaming",
+      "excerpt": "The core of Flight Simulator lies within Azure. From its hyper realistic flight handling to gorgeous visuals,’s cloud computing elevates the game into a technical marvel. In order to “somewhat accurately” create every inch of the entire globe with incredible detail,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/sg/news/microsoft-flight-simulator-2020-finally-realizes-the-true-next-generation-potential-of-azure-cloud-computing-in-pc-gaming",
+      "originalUrl": "https://www.techradar.com/sg/news/microsoft-flight-simulator-2020-finally-realizes-the-true-next-generation-potential-of-azure-cloud-computing-in-pc-gaming",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/jEgL3aGV7nLJiHjAPJYXYU-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/sg/amp/news/microsoft-flight-simulator-2020-finally-realizes-the-true-next-generation-potential-of-azure-cloud-computing-in-pc-gaming",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/microsoft-flight-simulator-2020-finally-realizes-the-true-next-generation-potential-of-azure-cloud-computing-in-pc-gaming",
+      "publishedDateTime": "2020-09-04T11:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-04-phoenixville-public-library-continues-to-offer-online-programs.md",
+      "title": "Phoenixville Public Library continues to offer online programs",
+      "excerpt": "Here's a roundup of upcoming online programs offered by the Phoenixvlle Public Library: Phoenixville Public Library will host a free online presentation — “The Red Cross and YOU!” — on Tuesday, September 8 at 7:00 PM.",
+      "sourceUrl": null,
+      "webUrl": "https://www.phoenixvillenews.com/lifestyle/phoenixville-public-library-continues-to-offer-online-programs/article_6739c1fa-eca6-11ea-a71e-2f099e37b615.html",
+      "originalUrl": "https://www.phoenixvillenews.com/lifestyle/phoenixville-public-library-continues-to-offer-online-programs/article_6739c1fa-eca6-11ea-a71e-2f099e37b615.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/phoenixvillenews.com/content/tncms/custom/image/eeba0d98-53a0-11e8-bdb2-2bcaaf51ad2e.jpg?resize=600%2C600",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-04T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phoenixville News",
+        "domain": "phoenixvillenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-04-microsoft-launches-deepfake-detector-to-spot-ai-altered-fake-news.md",
+      "title": "Microsoft Launches ‘deepfake’ Detector to Spot AI Altered Fake News",
+      "excerpt": "The tech giant Microsoft has launched new software that can assist in spotting 'deepfake' content that are altered by AI to look authentic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.phoneworld.com.pk/microsoft-launches-deepfake-detector-to-spot-ai-altered-fake-news/",
+      "originalUrl": "https://www.phoneworld.com.pk/microsoft-launches-deepfake-detector-to-spot-ai-altered-fake-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.phoneworld.com.pk/wp-content/uploads/2020/09/Microsoft-logo_rgb_c-gray-1.png",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.phoneworld.com.pk/microsoft-launches-deepfake-detector-to-spot-ai-altered-fake-news/amp/",
+      "cdnAmpWebUrl": "https://www-phoneworld-com-pk.cdn.ampproject.org/c/s/www.phoneworld.com.pk/microsoft-launches-deepfake-detector-to-spot-ai-altered-fake-news/amp/",
+      "publishedDateTime": "2020-09-04T02:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "phoneworld.com.pk",
+        "domain": "phoneworld.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-04-ndivision-inc-lane-sorgen-appointed-to-chief-revenue-officer.md",
+      "title": "nDivision Inc. Lane Sorgen Appointed to Chief Revenue Officer",
+      "excerpt": "DALLAS, TX / ACCESSWIRE / September 3, 2020 / nDivision Inc. (OTCQB:NDVN), the experts in using “digital labor” to reduce costs and increase service levels, today announced the appointment of Lane Sorgen to Chief Revenue Officer.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/8cadd96d703080b0c317174623ac1fcb",
+      "originalUrl": "https://apnews.com/8cadd96d703080b0c317174623ac1fcb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-03T15:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-ai-researchers-use-heartbeat-detection-to-identify-deepfake-videos.md",
+      "title": "AI researchers use heartbeat detection to identify deepfake videos",
+      "excerpt": "AI researchers are using heartbeat detection to identify deepfake videos and even to figure out what kind of generative model created a deepfake.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/03/ai-researchers-use-heartbeat-detection-to-identify-deepfake-videos/",
+      "originalUrl": "https://venturebeat.com/2020/09/03/ai-researchers-use-heartbeat-detection-to-identify-deepfake-videos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/ppg-cells.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 742,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/03/ai-researchers-use-heartbeat-detection-to-identify-deepfake-videos/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/03/ai-researchers-use-heartbeat-detection-to-identify-deepfake-videos/amp/",
+      "publishedDateTime": "2020-09-03T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-global-cognitive-services-market-future-prediction-report-by-2024-ibm-microsoft-google-aws-baidu-nuance-communications.md",
+      "title": "Global Cognitive Services Market Future Prediction Report By 2024 : IBM, Microsoft, Google, AWS, Baidu, Nuance Communications",
+      "excerpt": "Sep 03, 2020 (PRNews Times via COMTEX) -- Market Research Report Add a new global Cognitive Services market from manufacturers, countries, types and applications, predicts by 2024 in its research ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-cognitive-services-market-future-prediction-report-by-2024-ibm-microsoft-google-aws-baidu-nuance-communications-2020-09-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-cognitive-services-market-future-prediction-report-by-2024-ibm-microsoft-google-aws-baidu-nuance-communications-2020-09-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-03T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-altigen-acquires-blue-pandas-coreinteract-platform.md",
+      "title": "Altigen Acquires Blue Panda’s CoreInteract Platform",
+      "excerpt": "Adds Microsoft Teams Digital Customer Engagement Applications to Altigen’s Cloud Solutions Portfolio MILPITAS, CA / ACCESSWIRE / September 3, 2020 / Altigen Communications, Inc. (OTCQB:ATGN), a Silicon Valley-based Microsoft ISV and Cloud Solutions provider,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/4dcb5edf5403fc47bdd3c3764f186ac8",
+      "originalUrl": "https://apnews.com/4dcb5edf5403fc47bdd3c3764f186ac8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-03T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-the-distributed-cloud-era-has-arrived.md",
+      "title": "The distributed cloud era has arrived",
+      "excerpt": "The rise of distributed clouds and app-to-app networking dictates the use of cloud-native network and security infrastructure",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3573776/the-distributed-cloud-era-has-arrived.html",
+      "originalUrl": "https://www.infoworld.com/article/3573776/the-distributed-cloud-era-has-arrived.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/07/cso_nw_cloud_computing_distributed_decentralized_network_connections_iot_internet_of_things_thinkstock_853701240_3x2_1500x1000-100801371-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3573776/the-distributed-cloud-era-has-arrived.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3573776/the-distributed-cloud-era-has-arrived.amp.html",
+      "publishedDateTime": "2020-09-03T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-ai-in-aviation-market-key-insights-based-on-product-type-end-use-and-regional-demand-till-2023-impact-of-covid-19-pandemic.md",
+      "title": "AI In Aviation Market Key Insights Based on Product Type, End-use and Regional Demand Till 2023 | Impact of COVID-19 Pandemic",
+      "excerpt": "AI In Aviation Market Research Report by Type (Hardware, Software, Services), Equipment (Autocollimator, Measuring Microscope, Profile Projector, and Others), Technology (Machine Learning, Natural Language Processing,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-aviation-market-key-insights-based-on-product-type-end-use-and-regional-demand-till-2023-impact-of-covid-19-pandemic-2020-09-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-aviation-market-key-insights-based-on-product-type-end-use-and-regional-demand-till-2023-impact-of-covid-19-pandemic-2020-09-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-03T00:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-altigen-buys-blue-pandas-coreinteract-platform.md",
+      "title": "Altigen buys Blue Panda's CoreInteract platform",
+      "excerpt": "and using Microsoft Cognitive Services. CoreInteract will become generally available in the fourth quarter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.telecompaper.com/news/altigen-buys-blue-pandas-coreinteract-platform--1352473",
+      "originalUrl": "https://www.telecompaper.com/news/altigen-buys-blue-pandas-coreinteract-platform--1352473",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telecompaper",
+        "domain": "telecompaper.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-phoenixville-public-library-offers-free-online-program-in-september.md",
+      "title": "Phoenixville Public Library offers free online program in September",
+      "excerpt": "Phoenixville Public Library will host a free online presentation — “The Red Cross and YOU!” — on Tuesday, September 8 at 7:00 PM. Lynn Cohen of the American Red Cross, Southeastern PA Region, will be the speaker.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pottsmerc.com/lifestyle/phoenixville-public-library-offers-free-online-program-in-september/article_a29e875e-ed6d-11ea-b351-53ce4277149f.html",
+      "originalUrl": "https://www.pottsmerc.com/lifestyle/phoenixville-public-library-offers-free-online-program-in-september/article_a29e875e-ed6d-11ea-b351-53ce4277149f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/pottsmerc.com/content/tncms/assets/v3/editorial/1/37/1374194e-56cf-51d3-8af3-4f8e7208d475/5e615e660e7be.image.jpg?resize=1024%2C682",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pottsmerc.com/lifestyle/phoenixville-public-library-offers-free-online-program-in-september/article_a29e875e-ed6d-11ea-b351-53ce4277149f.amp.html",
+      "cdnAmpWebUrl": "https://www-pottsmerc-com.cdn.ampproject.org/c/s/www.pottsmerc.com/lifestyle/phoenixville-public-library-offers-free-online-program-in-september/article_a29e875e-ed6d-11ea-b351-53ce4277149f.amp.html",
+      "publishedDateTime": "2020-09-02T15:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Mercury",
+        "domain": "pottsmerc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-cognizant-to-acquire-pe-backed-10th-magnitude.md",
+      "title": "Cognizant to acquire PE-backed 10th Magnitude",
+      "excerpt": "Cognizant has agreed to acquire Chicago-based 10th Magnitude, a cloud specialist focused on the Microsoft Azure cloud computing platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pehub.com/cognizant-to-acquire-pe-backed-10th-magnitude/",
+      "originalUrl": "https://www.pehub.com/cognizant-to-acquire-pe-backed-10th-magnitude/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d16yj43vx3i1f6.cloudfront.net/uploads/2019/11/PEHub_NewsBriefs.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-02T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PE Hub",
+        "domain": "pehub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-dunnhumby-reduces-time-to-action-for-data-scientists-via-new-tool-on-microsoft-azure.md",
+      "title": "dunnhumby Reduces Time to Action for Data Scientists via New Tool on Microsoft Azure",
+      "excerpt": "Press Release dunnhumby, the global leader in customer data science, has launched its new web-based application on Microsoft Azure, enabling data scientists to deliver customer insights faster, driving profitability and customer loyalty.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/02/dunnhumby-reduces-time-to-action-for-data-scientists-via-new-tool-on-microsoft-azure/",
+      "originalUrl": "https://venturebeat.com/2020/09/02/dunnhumby-reduces-time-to-action-for-data-scientists-via-new-tool-on-microsoft-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/02/dunnhumby-reduces-time-to-action-for-data-scientists-via-new-tool-on-microsoft-azure/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/02/dunnhumby-reduces-time-to-action-for-data-scientists-via-new-tool-on-microsoft-azure/amp/",
+      "publishedDateTime": "2020-09-02T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-python-programming-microsofts-latest-beginners-course-looks-at-developing-for-nasa-projects.md",
+      "title": "Python programming: Microsoft's latest beginners' course looks at developing for NASA projects",
+      "excerpt": "Microsoft has teamed up with NASA to create three project-based learning modules that teach entry-level coders how to use the Python programming language and machine-learning algorithms to explore space,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/python-programming-microsofts-latest-beginners-course-looks-at-developing-for-nasa-projects/",
+      "originalUrl": "https://www.zdnet.com/article/python-programming-microsofts-latest-beginners-course-looks-at-developing-for-nasa-projects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/08/19/582375c6-baec-47ee-9c55-236b4297a9c2/thumbnail/1200x675/3ea67f1e37cd4c543258f75a21aac7a2/thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/python-programming-microsofts-latest-beginners-course-looks-at-developing-for-nasa-projects/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/python-programming-microsofts-latest-beginners-course-looks-at-developing-for-nasa-projects/",
+      "publishedDateTime": "2020-09-02T02:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-call-journey-now-available-in-microsoft-azure-marketplace-and-app-source.md",
+      "title": "Call Journey Now Available in Microsoft Azure Marketplace and App Source",
+      "excerpt": "Call Journey, provider of market-leading Conversation Analytics technology, announces its listing in the Microsoft Azure Marketplace and AppSource o",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmo.com.au/mediareleases/135281/call-journey-now-available-in-microsoft-azure/",
+      "originalUrl": "https://www.cmo.com.au/mediareleases/135281/call-journey-now-available-in-microsoft-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://demo.idg.com.au/cmo/cmo50/2020/cmo50_promo_2.jpg",
+          "width": 620,
+          "height": 254,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-02T00:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cmo.com.au",
+        "domain": "cmo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-01-arize-ai-helps-us-understand-how-ai-works.md",
+      "title": "Arize AI Helps Us Understand How AI Works",
+      "excerpt": "The lack of explainability and observability prevents AI and ML from being trusted tools in critical areas of human activity. Fortunately, Jason Lopatecki and Aparna Dhinakaran created Arize AI to helps us understand how and why AIs think.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/frederickdaso/2020/09/01/arize-ai-helps-us-understand-how-ai-works/",
+      "originalUrl": "https://www.forbes.com/sites/frederickdaso/2020/09/01/arize-ai-helps-us-understand-how-ai-works/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3827887b0409ce0d3c823f%2F0x0.jpg",
+          "width": 1199,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/frederickdaso/2020/09/01/arize-ai-helps-us-understand-how-ai-works/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2020/09/01/arize-ai-helps-us-understand-how-ai-works/amp/",
+      "publishedDateTime": "2020-09-01T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-01-ibm-deep-dive-strategy-shift-driving-growth-attractive-share-price-and-dividend-yield.md",
+      "title": "IBM Deep Dive: Strategy Shift Driving Growth; Attractive Share Price And Dividend Yield",
+      "excerpt": "IBM is successfully pivoting itself away from its declining legacy products and towards growth as a cloud, software, and services company.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4371850-ibm-deep-dive-strategy-shift-driving-growth-attractive-share-price-and-dividend-yield",
+      "originalUrl": "https://seekingalpha.com/article/4371850-ibm-deep-dive-strategy-shift-driving-growth-attractive-share-price-and-dividend-yield",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-31T19:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-01-call-journey-now-available-in-microsoft-azure-marketplace-and-app-source.md",
+      "title": "Call Journey Now Available in Microsoft Azure Marketplace and App Source",
+      "excerpt": "Microsoft customers can now gain access to Call Journey's AI-powered Conversation Analytics technology to drive customer experience, enhance employee engagement,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/08/p17320531/call-journey-now-available-in-microsoft-azure-marketplace-and-app-source",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/08/p17320531/call-journey-now-available-in-microsoft-azure-marketplace-and-app-source",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17320531",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17320531",
+      "publishedDateTime": "2020-08-31T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-01-more-businesses-are-using-ai-to-drive-user-experiences.md",
+      "title": "More Businesses Are Using AI to Drive User Experiences",
+      "excerpt": "Companies like TransUnion and Buffalo Jeans get improved sales, smarter marketing, improved IT uptime and more.",
+      "sourceUrl": null,
+      "webUrl": "https://biztechmagazine.com/article/2020/08/more-businesses-are-using-ai-drive-user-experiences",
+      "originalUrl": "https://biztechmagazine.com/article/2020/08/more-businesses-are-using-ai-drive-user-experiences",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202008/BT_Q320-Feat-Wong-AI-HERO.jpg?itok=MC6JSjke",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://biztechmagazine.com/article/2020/08/more-businesses-are-using-ai-drive-user-experiences?amp",
+      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/08/more-businesses-are-using-ai-drive-user-experiences?amp",
+      "publishedDateTime": "2020-08-31T15:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BizTech",
+        "domain": "biztechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-01-tech-moves-former-amazon-vp-brad-porter-joins-scale-ai-as-cto-uw-names-new-communication-leadership-director-and-more.md",
+      "title": "Tech Moves: Former Amazon VP Brad Porter joins Scale AI as CTO; UW names new Communication Leadership director; and more",
+      "excerpt": "Brad Porter, the longtime Amazon robotics leader, has surfaced as the first chief technology officer of Scale AI, a San Francisco-based company seeking to accelerate the development of",
+      "sourceUrl": null,
+      "webUrl": "https://mobile.twitter.com/bradporter_?lang=en",
+      "originalUrl": "https://www.geekwire.com/2020/tech-moves-former-amazon-vp-brad-porter-joins-scale-ai-cto-uw-names-new-communication-leadership-director/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-31T13:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "Microsoft AI"
+      ]
+    }
+  ],
+  "nextPage": 3
+}

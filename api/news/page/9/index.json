@@ -1,0 +1,1210 @@
+{
+  "page": 9,
+  "value": [
+    {
+      "path": "_news/2020-09-18-national-artificial-intelligence-and-robotics-hub.md",
+      "title": "National Artificial Intelligence and Robotics Hub",
+      "excerpt": "Read all the latest news, breaking stories, top headlines, opinion, pictures and videos about National Artificial Intelligence and Robotics Hub from Nigeria and the world on today.ng",
+      "sourceUrl": null,
+      "webUrl": "https://www.today.ng/topic/national-artificial-intelligence-and-robotics-hub",
+      "originalUrl": "https://www.today.ng/topic/national-artificial-intelligence-and-robotics-hub",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.today.ng/wp-content/uploads/2019/08/14053638.png",
+          "width": 700,
+          "height": 466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.today.ng/topic/national-artificial-intelligence-and-robotics-hub/amp",
+      "cdnAmpWebUrl": "https://www-today-ng.cdn.ampproject.org/c/s/www.today.ng/topic/national-artificial-intelligence-and-robotics-hub/amp",
+      "publishedDateTime": "2020-09-17T15:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TODAY",
+        "domain": "today.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-engineering-students-to-design-the-perfect-self-driving-indy-race-car.md",
+      "title": "Engineering students to design the perfect self-driving Indy race car",
+      "excerpt": "A new competition pits engineering squads in the task of designing the ultimate high-speed controls architecture.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/engineering-students-to-design-the-perfect-self-driving-indy-race-car/",
+      "originalUrl": "https://www.zdnet.com/video/engineering-students-to-design-the-perfect-self-driving-indy-race-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/09/16/d3af512b-0e0c-424f-9b1a-034aa89bd41d/thumbnail/370x278/46c4cff050aba7218eac14a0caae0916/20200916-beth-appleone.jpg",
+          "width": 370,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-17T15:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-detecting-and-redacting-pii-using-amazon-comprehend.md",
+      "title": "Detecting and redacting PII using Amazon Comprehend",
+      "excerpt": "Amazon Comprehend is a natural language processing (NLP) service that uses machine learning (ML) to find insights and relationships like people, places, sentiments, and topics in unstructured text. You can now use Amazon Comprehend ML capabilities to detect and redact personally identifiable information",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detecting-and-redacting-pii-using-amazon-comprehend/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detecting-and-redacting-pii-using-amazon-comprehend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/17/1-Realtime-analysis-875x630.jpg",
+          "width": 875,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-17T14:46:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-artificial-intelligence-chipsets-market-worth-578-billion-by-2026-cagr-of-401.md",
+      "title": "Artificial Intelligence (Chipsets) Market worth $57.8 billion by 2026 | CAGR of 40.1%",
+      "excerpt": "According to the latest market research report \"Artificial Intelligence (Chipsets) Market by Technology (Machine learning, Natural Language Processing, Context Aware Computing, Computer Vision), Hardware (Processor,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-worth-578-billion-by-2026-cagr-of-401-2020-09-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-worth-578-billion-by-2026-cagr-of-401-2020-09-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-17T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-sumo-logic-ipo-sees-strong-premium-for-growth-of-continuous-intelligence.md",
+      "title": "Sumo Logic IPO Sees Strong Premium for Growth of Continuous Intelligence",
+      "excerpt": "Business intelligence was one of the key buzzwords in years past. With the explosive growth of the cloud, machine learning, automation and",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/sumo-logic-ipo-sees-strong-premium-for-growth-of-continuous-intelligence-1029600326",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/sumo-logic-ipo-sees-strong-premium-for-growth-of-continuous-intelligence-1029600326",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://247wallst.com/wp-content/uploads/2019/09/imageforentry1-5gz.jpg",
+          "width": 1366,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/sumo-logic-ipo-sees-strong-premium-for-growth-of-continuous-intelligence-1029600326",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/sumo-logic-ipo-sees-strong-premium-for-growth-of-continuous-intelligence-1029600326",
+      "publishedDateTime": "2020-09-17T14:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-retail-robotics-market-rising-globally-at-a-cagr-of-3189-with-new-innovation-technology-advancement-trend-and-research-2020-to-2026.md",
+      "title": "Retail Robotics Market Rising Globally at a CAGR of 31.89% with New Innovation, Technology Advancement, Trend and Research 2020 to 2026",
+      "excerpt": "The Global Retail Robotics Market Research Report Forecast 2020 - 2026 is a valuable source of insightful data",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/retail-robotics-market-rising-globally-at-a-cagr-of-3189-with-new-innovation-technology-advancement-trend-and-research-2020-to-2026-2020-09-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/retail-robotics-market-rising-globally-at-a-cagr-of-3189-with-new-innovation-technology-advancement-trend-and-research-2020-to-2026-2020-09-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-17T12:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-ibm-ai-and-the-battle-for-cybersecurity.md",
+      "title": "IBM, AI And The Battle For Cybersecurity",
+      "excerpt": "The future of cybersecurity will likely be AI versus AI. IBM Research is using its expertise to help build the tools to defend against attacks of all kinds and protect data privacy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2020/09/17/ibm-ai-and-the-battle-for-cybersecurity/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2020/09/17/ibm-ai-and-the-battle-for-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f62aef583206e4962dbb205%2F0x0.jpg",
+          "width": 1200,
+          "height": 639,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2020/09/17/ibm-ai-and-the-battle-for-cybersecurity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/09/17/ibm-ai-and-the-battle-for-cybersecurity/amp/",
+      "publishedDateTime": "2020-09-17T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-a-strategic-playbook-for-data-analytics-and-machine-learning.md",
+      "title": "A Strategic Playbook for Data, Analytics, and Machine Learning",
+      "excerpt": "Harnessing the value of these massive data volumes requires a modern, cloud-based data infrastructure that unifies disparate information silos and leverages analytics and machine learning to promote critical business decision-making. Regardless of where ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/resources/208489/a-strategic-playbook-for-data-analytics-and-machine-learning",
+      "originalUrl": "https://www.infoworld.com/resources/208489/a-strategic-playbook-for-data-analytics-and-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-17T12:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-quantum-and-classical-computers-handle-time-differently-what-does-that-mean-for-ai.md",
+      "title": "Quantum and classical computers handle time differently. What does that mean for AI?",
+      "excerpt": "As humans, we take time for granted. We’re born into an innate understanding of the passage of events because it’s essential to our survival. But AI suffers from no such congenital condition. Robots do not understand the concept of time.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/17/quantum-and-classical-computers-handle-time-differently-what-does-that-mean-for-ai/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/17/quantum-and-classical-computers-handle-time-differently-what-does-that-mean-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/06/quantum_vs-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/17/quantum-and-classical-computers-handle-time-differently-what-does-that-mean-for-ai/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/17/quantum-and-classical-computers-handle-time-differently-what-does-that-mean-for-ai/amp/",
+      "publishedDateTime": "2020-09-17T12:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-small-companies-face-up-to-big-financial-hurdles-in-the-covid-era.md",
+      "title": "Small companies face up to big financial hurdles in the COVID era",
+      "excerpt": "Two business operators in Northeast Ohio are part of this New York Times article about small companies — especially music clubs, gyms, restaurants, bars and others that were forced to close by the coronavirus pandemic — trying to figure out how to pay off debts they've accumulated during the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/58eb7c26-2154-477f-af19-19157ae29261",
+      "originalUrl": "https://www.crainscleveland.com/scott-suttell-blog/small-companies-face-big-financial-hurdles-covid-era",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F21286c81-0e49-4eae-9c0f-15cb2f524032.jpg?source=amp&fit=scale-down&width=2400",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/58eb7c26-2154-477f-af19-19157ae29261",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/58eb7c26-2154-477f-af19-19157ae29261",
+      "publishedDateTime": "2020-09-17T11:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crain's Cleveland Business",
+        "domain": "crainscleveland.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-serving-pytorch-models-in-production-with-the-amazon-sagemaker-native-torchserve-integration.md",
+      "title": "Serving PyTorch models in production with the Amazon SageMaker native TorchServe integration",
+      "excerpt": "In April 2020, AWS and Facebook announced the launch of TorchServe to allow researches and machine learning (ML) developers from the PyTorch community to bring their models to production more quickly and without needing to write custom code. TorchServe is an open-source project that answers the industry",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/serving-pytorch-models-in-production-with-the-amazon-sagemaker-native-torchserve-integration/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/serving-pytorch-models-in-production-with-the-amazon-sagemaker-native-torchserve-integration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/27/serving-pytorch-models-1.jpg",
+          "width": 1000,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-17T11:06:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-adaptive-computing-platforms-deliver-efficient-ai-acceleration.md",
+      "title": "Adaptive computing platforms deliver efficient AI acceleration",
+      "excerpt": "CPUs alone are not keeping up and some form of compute acceleration is needed to more efficiently process AI inference workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/17/adaptive-computing-platforms-deliver-efficient-ai-acceleration/",
+      "originalUrl": "https://venturebeat.com/2020/09/17/adaptive-computing-platforms-deliver-efficient-ai-acceleration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-1222958278.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/17/adaptive-computing-platforms-deliver-efficient-ai-acceleration/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/17/adaptive-computing-platforms-deliver-efficient-ai-acceleration/amp/",
+      "publishedDateTime": "2020-09-17T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-california-whales-are-being-killed-by-ships-but-ai-might-be-able-to-save-them.md",
+      "title": "California Whales Are Being Killed by Ships, but AI Might Be Able to Save Them",
+      "excerpt": "Ships pose a huge threat to whales across the ocean. This is especially true in locations where both have a large presence, such as the areas around ports. Over the summer, 30 blue whales were seen feeding on the Los Angeles-Long Beach shipping lanes,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/ai-whale-california-shipping-system-1532611",
+      "originalUrl": "https://www.newsweek.com/ai-whale-california-shipping-system-1532611",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1638595/whale-ship-dead.jpg",
+          "width": 3932,
+          "height": 2484,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/ai-whale-california-shipping-system-1532611?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ai-whale-california-shipping-system-1532611?amp=1",
+      "publishedDateTime": "2020-09-17T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-gaggle-announces-a-new-service-gaggle-therapy.md",
+      "title": "Gaggle Announces a New Service: Gaggle Therapy",
+      "excerpt": "Gaggle Therapy. Gaggle Therapy matches students who need mental health support with counselors licensed in their state for weekly teletherapy sessions. “The COVID-19 pandemic has created a perfect storm,",
+      "sourceUrl": null,
+      "webUrl": "https://www.educationdive.com/press-release/20200917-gaggle-announces-a-new-service-gaggle-therapy/",
+      "originalUrl": "https://www.educationdive.com/press-release/20200917-gaggle-announces-a-new-service-gaggle-therapy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.educationdive.com/user_media/pressrelease/company_logos/20200918132007926/Virtanza_square.png",
+          "width": 500,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-17T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Education Dive",
+        "domain": "educationdive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-activity-detection-on-a-live-video-stream-with-amazon-sagemaker.md",
+      "title": "Activity detection on a live video stream with Amazon SageMaker",
+      "excerpt": "Live video streams are continuously generated across industries including media and entertainment, retail, and many more. Live events like sports, music, news, and other special events are broadcast for viewers on TV and other online streaming platforms. AWS customers increasingly rely on machine learning",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/activity-detection-on-a-live-video-stream-with-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/activity-detection-on-a-live-video-stream-with-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/01/1-Flow.jpg",
+          "width": 900,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-17T08:59:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-ibm-watson-assistant-can-help-states-deliver-critical-voting-information-to-citizens.md",
+      "title": "IBM Watson Assistant Can Help States Deliver Critical Voting Information to Citizens",
+      "excerpt": "IBM) has technology to help states use the AI capabilities of Watson to put this critical data and information directly into the hands of voters. With states facing a deluge of information ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanzen.net/nachricht/aktien/ibm-watson-assistant-can-help-states-deliver-critical-voting-information-to-citizens-9305678",
+      "originalUrl": "https://www.finanzen.net/nachricht/aktien/ibm-watson-assistant-can-help-states-deliver-critical-voting-information-to-citizens-9305678",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-17T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanzen",
+        "domain": "finanzen.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-rapidai-raises-25-million-to-analyze-medical-scans-with-ai-algorithms.md",
+      "title": "RapidAI raises $25 million to analyze medical scans with AI algorithms",
+      "excerpt": "RapidAI, a company developing algorithms that analyze medical imagery primarily from stroke victims, has raised $25 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/17/rapidai-raises-25-million-to-analyze-medical-scans-with-ai-algorithms/",
+      "originalUrl": "https://venturebeat.com/2020/09/17/rapidai-raises-25-million-to-analyze-medical-scans-with-ai-algorithms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/bca0635a-8374-451e-8ff1-1b16e8791b19-e1600108808571.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/17/rapidai-raises-25-million-to-analyze-medical-scans-with-ai-algorithms/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/17/rapidai-raises-25-million-to-analyze-medical-scans-with-ai-algorithms/amp/",
+      "publishedDateTime": "2020-09-17T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-ai-powered-weight-training-startup-tonal-raises-110-million-amid-home-workout-boom.md",
+      "title": "AI-powered weight training startup Tonal raises $110 million amid home workout boom",
+      "excerpt": "Tonal, a startup developing an AI-powered home weight training system, raised $110 million to further its R&D and mass-production efforts.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/17/ai-powered-weight-training-startup-tonal-raises-110-million-amid-home-workout-boom/",
+      "originalUrl": "https://venturebeat.com/2020/09/17/ai-powered-weight-training-startup-tonal-raises-110-million-amid-home-workout-boom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/04/tonal_fitness_official-e1600102966312.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/17/ai-powered-weight-training-startup-tonal-raises-110-million-amid-home-workout-boom/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/17/ai-powered-weight-training-startup-tonal-raises-110-million-amid-home-workout-boom/amp/",
+      "publishedDateTime": "2020-09-17T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-computer-vision-company-chooch-ai-makes-breakthroughs-in-edge-ai-in-speed-accuracy-and-scale.md",
+      "title": "Computer Vision Company Chooch AI Makes Breakthroughs in Edge AI in Speed, Accuracy and Scale",
+      "excerpt": "Chooch AI, a horizontal computer vision AI platform, today published the latest video presentation of an expert panel with Convergint Technologies and NVIDIA. Chooch AI is a member of the NVIDIA Inception program.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/globenewswire-mobile/47b59cde3e91723c62f05905b28641bf",
+      "originalUrl": "https://apnews.com/globenewswire-mobile/47b59cde3e91723c62f05905b28641bf",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-17T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-how-artificial-intelligence-is-helping-companies-identify-nail-new-product-opportunities.md",
+      "title": "How Artificial Intelligence Is Helping Companies Identify & Nail New Product Opportunities",
+      "excerpt": "The best and most cutting edge examples of how firms are using AI in the new product & service development process to identify and optimize new business ideas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michellegreenwald/2020/09/17/how-artificial-intelligence-is-helping-companies-identify--nail-new-product-opportunities/",
+      "originalUrl": "https://www.forbes.com/sites/michellegreenwald/2020/09/17/how-artificial-intelligence-is-helping-companies-identify--nail-new-product-opportunities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6205e8a15156fd3358e745%2F0x0.jpg",
+          "width": 1200,
+          "height": 609,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-17T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-ibms-watson-assistant-can-now-field-election-questions.md",
+      "title": "IBM’s Watson Assistant can now field election questions",
+      "excerpt": "IBM is teaming up with states to deploy a Watson Assistant solution that answers questions about the election via phone or online.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/17/ibms-watson-assistant-can-now-field-election-questions/",
+      "originalUrl": "https://venturebeat.com/2020/09/17/ibms-watson-assistant-can-now-field-election-questions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/17/ibms-watson-assistant-can-now-field-election-questions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/17/ibms-watson-assistant-can-now-field-election-questions/amp/",
+      "publishedDateTime": "2020-09-17T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-powering-up-the-transition-to-a-new-energy-world-eon-ai-and-digitalisation.md",
+      "title": "Powering up the transition to a new energy world - E.ON, AI and digitalisation",
+      "excerpt": "There’s a bold statement of intent on the homepage of the E.ON corporate website: We are going to be the energy company that supplies energy for the digital age. In pursuit of that ambition, the energy giant has embarked on a number of digital transformation initiatives in recent years,",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/powering-transition-new-energy-world-eon-ai-and-digitalisation",
+      "originalUrl": "https://diginomica.com/powering-transition-new-energy-world-eon-ai-and-digitalisation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2019-06/EON.jpg",
+          "width": 466,
+          "height": 335,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/powering-transition-new-energy-world-eon-ai-and-digitalisation?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/powering-transition-new-energy-world-eon-ai-and-digitalisation?amp",
+      "publishedDateTime": "2020-09-17T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-how-nvidias-arm-acquisition-will-drive-ai-to-every-edge.md",
+      "title": "How NVIDIA’s Arm acquisition will drive AI to every edge",
+      "excerpt": "However, NVIDIA has been frustrated in its attempts to become a dominant provider of AI chips for deployment into smartphones, embedded systems, and other edge devices. To address that strategic gap,",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3575396/how-nvidias-arm-acquisition-will-drive-ai-to-every-edge.html",
+      "originalUrl": "https://www.infoworld.com/article/3575396/how-nvidias-arm-acquisition-will-drive-ai-to-every-edge.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2017/07/keys-to_access_solutions_rubic-cube_puzzle-100728331-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3575396/how-nvidias-arm-acquisition-will-drive-ai-to-every-edge.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3575396/how-nvidias-arm-acquisition-will-drive-ai-to-every-edge.amp.html",
+      "publishedDateTime": "2020-09-17T03:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-inside-politics-joe-biden-offers-brexit-bill-warning.md",
+      "title": "Inside Politics: Joe Biden offers Brexit bill warning",
+      "excerpt": "Boris Johnson has forged a compromise deal with the Tory rebels on his controversial legislation – but the US presidential candidate has a warning about jeopardising transatlantic trade, writes Adam F",
+      "sourceUrl": null,
+      "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
+      "originalUrl": "https://www.independent.co.uk/independentpremium/uk-news/brexit-joe-biden-boris-johnson-deal-withdrawal-agreement-good-friday-ireland-b464207.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inside.com/assets/premium/Blue-email-icon-0994aadea0b5b10b19a148e2dd34a88c4a315b76ed51d7898fa49dc4ddc6d171.png",
+          "width": 414,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-16T23:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-observeai-bags-54-mn-in-series-b-round-led-by-menlo-ventures.md",
+      "title": "Observe.AI Bags $54 Mn In Series B Round Led By Menlo Ventures",
+      "excerpt": "Observe.AI, a contact centre artificial intelligence (AI) startup, announced that it has raised a $54 million Series B round led by Menlo Ventures, with participation from Next47 Ventures and NGP Capital.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/356293",
+      "originalUrl": "https://www.entrepreneur.com/article/356293",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1600321073-20200109120531-FotoJet48.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/356293",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356293",
+      "publishedDateTime": "2020-09-16T22:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    }
+  ],
+  "nextPage": 10
+}

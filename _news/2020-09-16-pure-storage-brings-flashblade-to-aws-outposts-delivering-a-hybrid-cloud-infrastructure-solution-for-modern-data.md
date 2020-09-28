@@ -1,72 +1,26 @@
 ---
 category: news
 title: "Pure Storage Brings FlashBlade to AWS Outposts, Delivering a Hybrid Cloud Infrastructure Solution for Modern Data"
-excerpt: "MOUNTAIN VIEW, Calif., Sept. 15, 2020 /PRNewswire via COMTEX/ -- MOUNTAIN VIEW, Calif., Sept. 15, 2020 /PRNewswire/ -- Pure Storage (NYSE: PSTG), the"
-publishedDateTime: 2020-09-16T02:02:00Z
-originalUrl: "https://www.marketwatch.com/press-release/pure-storage-brings-flashblade-to-aws-outposts-delivering-a-hybrid-cloud-infrastructure-solution-for-modern-data-2020-09-15"
-webUrl: "https://www.marketwatch.com/press-release/pure-storage-brings-flashblade-to-aws-outposts-delivering-a-hybrid-cloud-infrastructure-solution-for-modern-data-2020-09-15"
+excerpt: "PRNewswire/ -- Pure Storage (NYSE: PSTG), the IT pioneer that delivers storage as-a-service in a hybrid world and an Advanced Technology Partner in the"
+publishedDateTime: 2020-09-15T17:26:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/pure-storage-brings-flashblade-to-aws-outposts-delivering-a-hybrid-cloud-infrastructure-solution-for-modern-data-301131532.html"
+webUrl: "https://www.prnewswire.com/news-releases/pure-storage-brings-flashblade-to-aws-outposts-delivering-a-hybrid-cloud-infrastructure-solution-for-modern-data-301131532.html"
 type: article
-quality: 48
-heat: 48
-published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://mma.prnewswire.com/media/465493/Pure_Storage_Logo.jpg?p=facebook"
+    width: 800
+    height: 419
     isCached: true
 
-related:
-  - title: "Pure Storage Brings FlashBlade to AWS Outposts, Delivering a Hybrid Cloud Infrastructure Solution for Modern Data"
-    excerpt: "Pure Storage, the IT pioneer that delivers storage as-a-service in a hybrid world and an Advanced Technology Partner in the Amazon Web Services Partner Network, today announced that FlashBlade ® has achieved the AWS Outposts Ready designation,"
-    publishedDateTime: 2020-09-20T02:21:00Z
-    webUrl: "https://www.nasdaq.com/press-release/pure-storage-brings-flashblade-to-aws-outposts-delivering-a-hybrid-cloud"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 28
-  - title: "Pure storage brings FlashBlade to AWS Outposts, delivering a hybrid cloud infrastructure solution"
-    excerpt: "Pure Storage has announced that its FlashBlade has achieved the AWS Outposts Ready designation, part of the AWS Service Ready Program. Fully tested and supported, FlashBlade for AWS Outposts delivers a hybrid cloud solution with all-flash performance,"
-    publishedDateTime: 2020-09-16T09:38:00Z
-    webUrl: "https://www.pcr-online.biz/2020/09/16/pure-storage-brings-flashblade-to-aws-outposts-delivering-a-hybrid-cloud-infrastructure-solution/"
-    type: article
-    provider:
-      name: PCR
-      domain: pcr-online.biz
-    quality: 26
-    images:
-      - url: "https://www.pcr-online.biz/wp-content/uploads/cloud--660x330.jpg"
-        width: 660
-        height: 330
-        isCached: true
-  - title: "Pure Storage Brings FlashBlade to AWS Outposts, Delivering a Hybrid Cloud Infrastructure Solution for Modern Data"
-    excerpt: "With the validated integration of FlashBlade with AWS Outposts, AWS customers can now leverage a low-latency, high-performance unified fast file and object platform with native Am"
-    publishedDateTime: 2020-09-19T03:09:00Z
-    webUrl: "https://apnews.com/pr-newswire/4516944a2c313a8ca327df87729a456c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 18
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
-secured: "CDRmfy5k13yBnpH2u0sdxksEtxTErFguoiIfZTMtHpdF1FogS8o5gFD1E63jSh33zMPPNEB6OVXHZKBUVz7xqhFV+sXhjfqg/DXkNwklMWttia97NP4h4mkLoj4bID/RYsI3AErlcktVpbHy5pH7FA89D+yuBtRPb9KDortPVQ4JlHvp3wNgtZL6JLn54D1LhbbXgQjMI9XIDQ0riFu144Io5QsrBpqjA13EjYRdn/TMwpErmESh5kGO+/Wr5xHQ8c8Y92QpuKHaCDk4oQjaGLzWI0RbTKdLpHrF/ER3Cfgj4G2ljUDeaPdL+5sq4JdHSXzysG1NvpZcuGa/4uAp81aj64WxwV1shv66bXt/mtE=;3WBhqhFxkyWTgbaLWEb99w=="
+secured: "kKqMb9SXacsoUZATKF5aUxZ2uOImp9xNsT1Ym1IMcNs5plJrT7AJx4s3gFgnmASpaB1euHoz/6FQvbFwWxGzJxLNSiwCFaoSWZorYVnQ75Nzzb+abiU+USlax/xGZR0/Fpb/pPKsK2t0zb7kJgAnsrXpav6Wd+lS6W5uH1zdsTJP0iD6WXiTMJLXETKR8dfnb0KpP6PGwIgMZqB+e55LPdDdvd264+pNQS+XDCHXECIpVMG2H0gvZBtuf9JTK6qf+Mf4TWIYJ6f7cC4J0a8CFlacCNanwGD2HPxf6dwFePdK/iOWZsHNVTqdQe/fnIgN5FtdmAyy+gk7pKnjN4Aoey1sxz1sNeQvQnGh4pqhGkI=;/8tpEK7jbMXIAdcHYd1gdw=="
 ---
 

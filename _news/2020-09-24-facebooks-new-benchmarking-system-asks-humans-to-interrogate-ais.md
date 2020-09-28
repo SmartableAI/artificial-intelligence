@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/facebook-dynabench-ai-dynamic-benchmark
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-dynabench-ai-dynamic-benchmarking-160040897.html"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -76,22 +76,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/facebook-2.png"
         width: 718
         height: 400
-        isCached: true
-  - title: "Facebook Achieves New Milestones with Open-Source Embodied AI Navigation Systems"
-    excerpt: "Facebook recently shared the latest milestones from its embodied AI research program. The company achieved three new milestones this year in the form of SoundSpaces, the first audio-visual platform for embodied AI;"
-    publishedDateTime: 2020-09-23T09:13:00Z
-    webUrl: "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20705/Facebook-Achieves-New-Milestones-with-Open-Source-Embodied-AI-Navigation-Systems.aspx"
-    ampWebUrl: "https://mobile.engineering.com/amp/20705.html"
-    cdnAmpWebUrl: "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20705.html"
-    type: article
-    provider:
-      name: Engineering
-      domain: engineering.com
-    quality: 54
-    images:
-      - url: "https://www.engineering.com/portals/0/BlogFiles/58_ima1.png"
-        width: 640
-        height: 360
         isCached: true
 
 secured: "o2KvUkBH6YjvINTDklhe2LA0AXL+z7MVZdl9VRNE9BuSIPiorvEUnclq5SMth6QBQaPbSe0ikcKQeq+dsjENHdMk5hNTSnHDZGA1xMOSa0zc+KdokV9+88WOXlLO25ALjD1b/Fq3Yj1Mh/8ktTOZaFfrcbvWO1jHw+Ymijp/xj4+ftB35TFIUMhK7IdfjYZjP0Sn9OHk9O2tWV9I4HC+cv3HOFqtIZb/S8kKrGJuikWcC0QETglNML3snZIxe0hP4Z0zBeoR+lnc/yKsRG/m1RXVCPJoH/omRzpE3f/gXfEiGDDfXL8jwrZLiA1J8jv839hSjFuHvHNP+8as+r3fraLiFCGxd68BLuz4tM+5M0F4P7vh54T5pf55sH2TtQN3CpOQkPxeJIHv6FCr+ovnjwUSBxkG1z8SsaeCi13WgytPEnr6CyA60NdE/3LI/wOifn2neoe3gXVqj9r0hzBUhaF4nr3uDv/U/6qYdruDc6M3dPvOVrzKNxXZxgTNxdn3OGxe7P45DBXlRJ7yyOmlxw==;lhNVMbrX7d2k9/LVISYlUQ=="

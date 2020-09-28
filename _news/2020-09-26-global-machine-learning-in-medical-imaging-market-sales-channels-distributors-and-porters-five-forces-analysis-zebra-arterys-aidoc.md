@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-26T06:33:00Z
 originalUrl: "https://www.marketwatch.com/press-release/global-machine-learning-in-medical-imaging-market-sales-channels-distributors-and-porters-five-forces-analysis-zebra-arterys-aidoc-2020-09-26?mod=mw_quote_news"
 webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-in-medical-imaging-market-sales-channels-distributors-and-porters-five-forces-analysis-zebra-arterys-aidoc-2020-09-26?mod=mw_quote_news"
 type: article
-quality: 52
-heat: 52
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

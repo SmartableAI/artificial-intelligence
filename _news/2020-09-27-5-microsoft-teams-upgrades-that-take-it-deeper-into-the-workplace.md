@@ -7,7 +7,7 @@ originalUrl: "https://www.cmswire.com/collaboration-productivity/5-microsoft-tea
 webUrl: "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/5-new-ways-to-boost-productivity-with-enhanced-teams-power/ba-p/1680697"
 type: article
 quality: 139
-heat: 349
+heat: 339
 published: true
 
 provider:
@@ -240,20 +240,6 @@ related:
       - url: "https://2.img-dpreview.com/files/p/E~TS520x0~articles/8449901778/microsoft_deepfake_main.jpeg"
         width: 520
         height: 296
-        isCached: true
-  - title: "Microsoft to Advance Cloud-Based Satellite Data Processing With Azure Orbital"
-    excerpt: "Microsoft (Nasdaq: MSFT) has launched a ground station as a service designed to help customers communicate with their satellites and downlink and process satellite data using the Azure cloud platform."
-    publishedDateTime: 2020-09-23T10:01:00Z
-    webUrl: "https://www.govconwire.com/2020/09/microsoft-to-advance-cloud-based-satellite-data-processing-with-azure-orbital/"
-    type: article
-    provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 51
-    images:
-      - url: "https://govconwire-media.s3.amazonaws.com/2020/09/23/de/91/de/dc/31/54/b4/a4/a0If300000N9uaUEAR-microsoft-20190109.jpeg"
-        width: 272
-        height: 270
         isCached: true
   - title: "SES signs multi-year agreement with Microsoft to be an Azure Orbital partner"
     excerpt: "SES signed a multi-year agreement with Microsoft to be an Azure Orbital partner and to accelerate and expand the use of Microsoft Azure."

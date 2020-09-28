@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Drug Discovery Market Dynamics and Competitive Scenario through 2030 | Impact of COVID-19 Pandemic"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Sep 23, 2020 (AmericaNewsHour) -- Global artificial intelligence (AI) in drug discovery market will reach $2.57 billion by 2026, growing by 30.3% annually over 2020-2026 ..."
-    publishedDateTime: 2020-09-23T09:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-drug-discovery-market-dynamics-and-competitive-scenario-through-2030-impact-of-covid-19-pandemic-2020-09-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "How machine learning can help to future-proof clinical trials in the era of COVID-19"
     excerpt: "The COVID-19 pandemic is the greatest global healthcare crisis of our generation, presenting enormous challenges to medical research, including clinical trials. Advances in machine learning are providing an opportunity to adapt clinical trials and lay the groundwork for smarter,"
     publishedDateTime: 2020-09-24T13:35:00Z
@@ -71,20 +57,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2020/howmachinele.jpg"
         width: 885
         height: 432
-        isCached: true
-  - title: "Europe Artificial Intelligence (AI) in Drug Discovery Market : Industry Analysis and Opportunity Assessment 2021-2030 | Impact of COVID-19 Pandemic"
-    excerpt: "Europe artificial intelligence (AI) in drug discovery market reached $108.6 million in 2019 and will grow by 28.7%"
-    publishedDateTime: 2020-09-23T09:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/europe-artificial-intelligence-ai-in-drug-discovery-market-industry-analysis-and-opportunity-assessment-2021-2030-impact-of-covid-19-pandemic-2020-09-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Data storage market Size Outlook, COVID19 Impact on Industry, Share Value, Global Growth Drivers and Industry Forecast to 2026"
     excerpt: "Even though the trend of major companies to develop own storage platform such as Microsoft Azure, IBM Cloud ... data management, and AI and Machine learning offer opportunities for the data storage market to grow in the future. Besides, as the virtual ..."

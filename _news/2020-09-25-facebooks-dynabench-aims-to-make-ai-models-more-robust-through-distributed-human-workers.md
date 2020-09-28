@@ -77,22 +77,6 @@ related:
         width: 718
         height: 400
         isCached: true
-  - title: "Facebook Achieves New Milestones with Open-Source Embodied AI Navigation Systems"
-    excerpt: "Facebook recently shared the latest milestones from its embodied AI research program. The company achieved three new milestones this year in the form of SoundSpaces, the first audio-visual platform for embodied AI;"
-    publishedDateTime: 2020-09-23T09:13:00Z
-    webUrl: "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20705/Facebook-Achieves-New-Milestones-with-Open-Source-Embodied-AI-Navigation-Systems.aspx"
-    ampWebUrl: "https://mobile.engineering.com/amp/20705.html"
-    cdnAmpWebUrl: "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20705.html"
-    type: article
-    provider:
-      name: Engineering
-      domain: engineering.com
-    quality: 54
-    images:
-      - url: "https://www.engineering.com/portals/0/BlogFiles/58_ima1.png"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "HOTolk2FmB9L7llANma8H7XQnGQEpvJukDM02IxTX3a6Yfmodh1rkS98Ebhbc/FzX5U+XuwaBTiLBsZcuJAGB8/hW/fIzITEyRFjharo/Ps+qNgEjv0oSFqTFLW8HR3WJ66KNd9xxTm48rRkLjrHABDqCSE6iYPTfT4cF9VLQ37fprkUbMn7P9N+y8hAS0fimfShW4CfXD2cEFwdN/cy2tYRxcP2gzYen77XbNbfu+FzAOMlPNubcAaVDpFfJHHZ5kLVsVnaC84xDXd4KLlJx68oaLsAMxTZjmxhQ6LARSkuxOXduaz/aK+8bZz1xfQKE8tioaZ7Z18FTVHo5qVeU7HcoRtc7zEIH+/9ZoRyKel+h5qFdBA5awmdm59V39nSTaeysnG//N0AXpV47fiSHAgk6l2xVCDwX1UfVSZi/6i9vOb/x4WlmY+bsMe9xUNbEtj1fQFg2Izso7vE/vpk3ZUUZ3zLX1pJxaWiCbP87JOzbnCK2x2qgPOdLCo2grx0EEDDP+4uorcuVOgA2oS2sg==;ca8JwP7vG30YT/WkMsbECw=="
 ---

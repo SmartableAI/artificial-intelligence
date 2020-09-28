@@ -79,22 +79,6 @@ related:
         width: 2126
         height: 1537
         isCached: true
-  - title: "Volkswagen’s Traton partners with TuSimple for self-driving trucks"
-    excerpt: "Volkswagen’s <VOWG_p.DE> Traton commercial truck unit and self-driving technology startup TuSimple will partner to develop self-driving trucks, the companies said on Wednesday. Traton <8TRA.DE> has also taken a minority stake in TuSimple,"
-    publishedDateTime: 2020-09-23T10:37:00Z
-    webUrl: "https://www.metro.us/volkswagens-traton-partners-with/"
-    ampWebUrl: "https://www.metro.us/volkswagens-traton-partners-with/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/volkswagens-traton-partners-with/amp/"
-    type: article
-    provider:
-      name: Metro US
-      domain: metro.us
-    quality: 44
-    images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2020binary_LYNXNPEG8M0IS-BASEIMAGE.jpg"
-        width: 800
-        height: 507
-        isCached: true
   - title: "VW's Traton takes stake in U.S. self-driving startup"
     excerpt: "Volkswagen Group's Traton commercial truck unit is partnering with a self-driving startup that recently aligned with Navistar International, the U.S. manufacturer that VW’s truck unit is trying to acquire."
     publishedDateTime: 2020-09-23T18:52:00Z

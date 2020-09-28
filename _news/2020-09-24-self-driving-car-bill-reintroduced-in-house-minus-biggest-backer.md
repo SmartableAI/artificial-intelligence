@@ -68,22 +68,6 @@ related:
         width: 800
         height: 511
         isCached: true
-  - title: "Uber investors are pressuring CEO to revamp the self-driving division"
-    excerpt: "Uber was once a serious contender in the race to build self-driving cars. Today, the effort is lagging far behind rivals"
-    publishedDateTime: 2020-09-23T09:33:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/mobility/2020/09/21/uber-investors-pressuring-ceo-revamp-self-driving-division/5857206002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/5857206002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5857206002"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 44
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/21/PDTN/41d1c803-2318-4f70-937e-43dc6a07e98d-Uber.jpg?auto=webp&crop=901,507,x20,y212&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Congress Parks Self-Driving Car Regulation Until 2021"
     excerpt: "The U.S. Congress will try again in 2021 to try to approve long-stalled reforms to speed the adoption of self-driving cars, a key Democratic lawmaker said"
     publishedDateTime: 2020-09-24T05:13:00Z
