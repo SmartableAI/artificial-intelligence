@@ -43,22 +43,6 @@ related:
         width: 805
         height: 453
         isCached: true
-  - title: "MIT professor wins top AI award for cancer, drug research"
-    excerpt: "It’s meant to elevate AI advancements to the level of a Nobel Prize or computer science’s Turing Award, while also highlighting AI research that benefits society ... and gained almost no following, Facebook said. Their primary focus was Southeast ..."
-    publishedDateTime: 2020-09-23T14:20:00Z
-    webUrl: "https://www.wavy.com/news/technology/mit-professor-wins-top-ai-award-for-cancer-drug-research/"
-    ampWebUrl: "https://www.wavy.com/news/technology/mit-professor-wins-top-ai-award-for-cancer-drug-research/amp/"
-    cdnAmpWebUrl: "https://www-wavy-com.cdn.ampproject.org/c/s/www.wavy.com/news/technology/mit-professor-wins-top-ai-award-for-cancer-drug-research/amp/"
-    type: article
-    provider:
-      name: WAVY
-      domain: wavy.com
-    quality: 59
-    images:
-      - url: "https://www.wavy.com/wp-content/uploads/sites/3/2020/09/4609b2fdb139436693ce18ebc650d90b.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "kJ4vye6DnmjXCdtS9Qx1qADLWbwjUWbspujDVe0ccOjZvkTl12Jhg7ZLJ3TZKqNwymlKKsRQKCT/Ha/diLwrYWWXmEYDAiDL7hwKvpKjY4Fs5tOxY/WjyFoZEkxfx77UhwRyGjfiHjatSxMRv9I9ndP1uTc+7u8nz5/By7cVQyFeVTKoHPL8H8WJyjjpgYrJItNy3DWLvv2zwVVDGiN/gb/fEhSv/zaEEPDfEiXOPwzA4D3FymzQSmHA6eZgtTVNSJ65kw9HVJrvKUorKdB/ncCbJcSDZSHV5FniWx+njvTMBKY9BtxSdv5vVVsxVpkXS6eQp2Nk9IRIwOFctf+TTSPEx/RM++D1AJIT1T/jLaOec3wC1CEBJfbIRMx8FZ1nhziHLSBpMp7+N6YdhwpNzMywuSA+yD4lSEFIeSP3eSIIpREX115zILxjctYOwMCO1skZHBQwzJoC4BKqn802l8CRi6aKFvWJok9dOb2Qz+Of14ULR5aa0uTOBTx6S7ah4YUZ9MtYNdPVCJlIUFvbNQ==;JuH0bydJEDstnIZjeuhD4g=="
 ---

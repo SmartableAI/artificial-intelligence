@@ -25,38 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla's full self-driving Autopilot beta coming in 'a month or so'"
-    excerpt: "Tesla's CEO shared that its engineers have fully overhauled the Autopilot software stack and are almost ready to share a dramatic upgrade."
-    publishedDateTime: 2020-09-23T14:56:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/tesla-full-self-driving-autopilot-elon-musk/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-autopilot-elon-musk/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-autopilot-elon-musk/"
+  - title: "Can Tesla Really Produce A $25,000 Self-Driving Electric Car?"
+    excerpt: "During Tuesday’s much-hyped battery day, Tesla CEO Elon Musk laid out plans to put everyone behind the wheel (or is that sleeping in the"
+    publishedDateTime: 2020-09-26T22:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://cnet4.cbsistatic.com/img/-NA7wJ9AEujzfzMLTzIUGTJDz3E=/2018/06/11/5aae38ba-915f-4b34-ba36-58cf2671f07c/tesla-hw2-autopilot-ogi.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Elon Musk says Tesla's full self-driving Autopilot is coming soon and it's 'clearly going to work'"
-    excerpt: "The next step in the self-driving revolution is coming in 'a month or so, says Tesla CEO Elon Musk, teasing the company's full self-driving Autopilot."
-    publishedDateTime: 2020-09-24T10:52:00Z
-    webUrl: "https://www.desmoinesregister.com/story/money/cars/2020/09/22/tesla-elon-musk-full-self-driving-autopilot-software/3498264001/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/3498264001"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/3498264001"
-    type: article
-    provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 45
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/f4c4c3d8d99ab9a0fd37e8d3d494112eb6c0c801/c=0-0-580-326/local/-/media/2018/11/29/USATODAY/usatsports/tesla-autopilot-1-billion-miles_large.png?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 674
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
   - title: "Tesla’s new battery tech promises a road to a cheap self-driving electric car"
     excerpt: "New battery manufacturing tech could lead to big jumps in electric vehicle efficiency if everything works out. Latest Cookie Settings Many products featured on this site were editorially chosen. Popular Science may receive financial compensation for products purchased through this site."
     publishedDateTime: 2020-09-25T04:38:00Z

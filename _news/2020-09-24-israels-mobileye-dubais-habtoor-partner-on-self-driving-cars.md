@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/news/picture/israels-mobileye-dubais-habto
 webUrl: "https://www.reuters.com/news/picture/israels-mobileye-dubais-habtoor-partner-idUSKCN26E207"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://i1.wp.com/technode.com/wp-content/uploads/2020/07/Li-Auto02.jpg?fit=1920%2C1080&ssl=1"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Mobileye teams with Al Habtoor on UAE autonomous cars"
-    excerpt: "Israeli autonomous car developer Mobileye and Dubai-based Al Habtoor Group (AHG) today signed a memorandum of understanding (MoU) for strategic cooperation to bring mapping technologies for Advanced Driver Assistance Systems (ADAS),"
-    publishedDateTime: 2020-09-23T14:52:00Z
-    webUrl: "https://en.globes.co.il/en/article-mobileye-teams-with-al-habtoor-on-uae-autonomous-cars-1001343639"
-    type: article
-    provider:
-      name: globes.co.il
-      domain: globes.co.il
-    quality: 24
-    images:
-      - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2018/c26_01800.jpg"
-        width: 800
-        height: 392
         isCached: true
   - title: "Al-Habtoor signs deal with Israeli technology firm"
     excerpt: "Dubai-based Al-Habtoor Group (AHG) and Israel’s Mobileye have signed strategic cooperation agreement to bring smart driving solutions to the UAE. It is one of the first major co"

@@ -50,17 +50,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Latest Tech Nation fintech cohort reflects diversifying sector"
-    excerpt: "The latest group of fintechs accepted into Tech Nation’s growth programme reflects the diversification of a maturing sector."
-    publishedDateTime: 2020-09-23T14:59:00Z
-    webUrl: "https://www.computerweekly.com/news/252489469/Latest-Tech-Nation-fintech-cohort-reflects-diverse-sector"
-    ampWebUrl: "https://www.computerweekly.com/news/252489469/Latest-Tech-Nation-fintech-cohort-reflects-diverse-sector?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252489469/Latest-Tech-Nation-fintech-cohort-reflects-diverse-sector?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 24
 
 secured: "20m9ADkfN5qFtPy/VWCRJFFzY2lZnZKzH8CGEKH72Xgo2ZUvRnuQYb3vtjNUpQl3Dlfx3WXsbN55jPa4OXoXb0MjuMWcuK251+ySZKlLpmEENjzynw0UO+KidN82fTXgQRdv3Ayp28zXHaXUUlBM2s0cTWbou9zB59xwZPZloT/hSQXekuuaPowweWgaSrSCn+XtNE1rh8+LSc5zKbMcqGS2GBasnq2AQ+jpd15+XLyfjzmkBkxIwn+dnOjrWnfugXgtcDt5d5ETaq3HwW2ioTr2/DdHTMrMLpmxLTwtQ51hXgCQhIY35M+4f+EhYuxKkiviegPnOLTOl2qhD2JZYK1ZJL7o6VmgFBdRTS4xVNkmqATzNqgoAdWfqkCl+b6v6YwyQ/P4l7374/olO64MJNEz9EH/LkysDwnKKDCJ4MXFx9FxeQuJ/n8rEYyjy5GmFCTpVi+HtoKZKMdMbOMQlOzThdxIatTW8YzGug0BfBXuvEDMMF2M7/0NyjR+aaSxxcE06NTT0+44yblvyo9XjQ==;v5p+QjT1HDKC8JBQFqIEAA=="
 ---

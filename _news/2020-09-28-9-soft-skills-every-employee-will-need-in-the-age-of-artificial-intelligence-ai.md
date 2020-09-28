@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/bernardmarr/2020/09/28/9-soft-skills-every
 ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2020/09/28/9-soft-skills-every-employee-will-need-in-the-age-of-artificial-intelligence-ai/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/09/28/9-soft-skills-every-employee-will-need-in-the-age-of-artificial-intelligence-ai/amp/"
 type: article
-quality: 97
-heat: 97
+quality: 99
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7166cf598fcc4a100b3e63%2F0x0.jpg"
@@ -29,6 +30,6 @@ images:
     height: 800
     isCached: true
 
-secured: "BSLlRBb0LsC3LKgcLSscUYMvE/C/lEHIPd0fCpF4SAM94IbSFVzI66RYOtwvK1psQT+ge8VA2JV6NIirLhyVipEKgIsfGGeSPQuqG3z0VU89VitpmV2cAoUNlZJbcNMRRn9zK12+Qe+Pwhrn/fHESvuS1hY6+wOGeYl41HhGIPG+Edebr3/9/yUYIlv0imL7rH4gPeVIZpxhjQq8hWj5jeIDNHeoA+N2hxxkynIdH1tMPWvWDxB8QPQ1XUhSNzoPbMRM3Vo7Lllbl9nFVBv8QfXY8ApLzPPZ8yBSU42HEUbm52NJ4VWKba/9MgW3YW1UKS7aTZw1UtOImVvj9YzVppZf4jNjfiFUWdpEHjxMoKw=;o1Ue1u9lupR0fHV9oQ1HTA=="
+secured: "Im2YybE9+ULjFvHFBEDPPM6HuVcNl41Sj0QpBk8CbXJvNTXMZUhcqgwefYyCo1hwGQM+8iAGPzc7ILYg6QHbf1wTPGulRWV/voAuC5pf/BTsEIF4A1oOp/TLXaNLwA5dEUyPJx48U++8mPC8zo6Ce3YtJ+XUg5o+uMoa38m0RUr/q4Uc0NoKGcPY57ePnNA1xW+k+4NdY/Xj3IYxJXF6xQAqeiMzOFmpp7eq1Hg0ZRbeU477YAk5lWlSwSJdvuD2UjCcWKEPmYxkDWH4sj5wea6PgJ+6Sun1vwxHvik85NGIEmi/PiKyaqGp9Yb0qFq/RimXUHNObLBnHkBYEFh5LBezrzLrhpy/6Ir9d4qDqYCnWSo8FCcca5+lYhshcLHld3lyDMjO5a5esT5g8TyNy6pD0E+Gf4+exyldc3ptN7hHGbkHtEKEMXvfutU2ZrwwV8ZNT2ds4hyH3JmVzvo6FGJOkTf+js2mM7CQNGRrPdiEmb0mzpUlKy63sSOwpy/HKe8zP3NpBP1Ysdj7Ix99dw==;hLuM50tfZVAOCnAz4QzxJA=="
 ---
 

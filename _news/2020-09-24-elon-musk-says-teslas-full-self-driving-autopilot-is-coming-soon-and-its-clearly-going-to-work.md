@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.desmoinesregister.com/amp/3498264001"
 cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/3498264001"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -25,52 +25,6 @@ images:
     width: 1200
     height: 674
     isCached: true
-
-related:
-  - title: "Tesla's full self-driving Autopilot beta coming in 'a month or so'"
-    excerpt: "Tesla's CEO shared that its engineers have fully overhauled the Autopilot software stack and are almost ready to share a dramatic upgrade."
-    publishedDateTime: 2020-09-23T14:56:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/tesla-full-self-driving-autopilot-elon-musk/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-autopilot-elon-musk/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-autopilot-elon-musk/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://cnet4.cbsistatic.com/img/-NA7wJ9AEujzfzMLTzIUGTJDz3E=/2018/06/11/5aae38ba-915f-4b34-ba36-58cf2671f07c/tesla-hw2-autopilot-ogi.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Tesla says it will have a full self-driving Autopilot beta very soon"
-    excerpt: "CEO Elon Musk promised that a private beta of the “full self-driving version” of the Autopilot software was coming in “a month or so.” If so, that’s pretty cool, since the Autopilot in its current state is more of a driver aid,"
-    publishedDateTime: 2020-09-23T16:40:00Z
-    webUrl: "https://knowtechie.com/tesla-says-it-will-have-a-full-self-driving-autopilot-beta-very-soon/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 39
-    images:
-      - url: "https://mk0knowtechie1qof48y.kinstacdn.com/wp-content/uploads/2020/09/tesla-hw2-autopilot-promo-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Tesla’s new battery tech promises a road to a cheap self-driving electric car"
-    excerpt: "New battery manufacturing tech could lead to big jumps in electric vehicle efficiency if everything works out. Latest Cookie Settings Many products featured on this site were editorially chosen. Popular Science may receive financial compensation for products purchased through this site."
-    publishedDateTime: 2020-09-25T04:38:00Z
-    webUrl: "https://www.popsci.com/story/technology/tesla-battery-day-cheap-electric-self-driving-car/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 36
-    images:
-      - url: "https://www.popsci.com/resizer/jXSh1CA-PX-ANxYvpM5Lum114wY=/1200x628/smart/cloudfront-us-east-1.images.arcpublishing.com/bonnier/RVOSZ4HXANHXXFTCRPSUHJ4FEE.png"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "wMpdBnalTMUb6JcWMfWfGgF8c/nefGFFfZSb/XZ8dTrjOlR92IgmcIu+aE7N683394WHV+cZKTPP/Zl7Vokt/LKynrq4b7YHyxhvnsMYSaoNMWx0s8pajcC5QpC0dvI8D9mxQOaj6z3uV5DAQ5VvywObR+L4cgQVP557Vpppvkpim77tC3KtYn2JHXHEe8Q6/qKoluwZSLpRhelGD5qrCknAI880KHu8PtY7Qd+V7xHJ6VEp1aTDW3IGEfJn63ZKh48kjq9RB9uPU9kXjmrEYcGz4KamyndyIp6tgVpVnENkOhW3h1jWRKSGdLTZADLt+IBscaA6rfIOl8jFrnKK7iZ7LIUo6MYrbcwJor4gTO+HVaLlpSpo7BtyHMRDeA6oMYA1WVJt3KNqD8VL8Hii1IbeR/+aQAitW3yEYCTEjBZp19A96h3iEtB7vtV9Yh78prI5PIWZaLdJpHgVIYYJd30CMOT6dh7JHv4iarEfDQI3bwG65O3AQ0TQ2BZb6efHFSbyN5q9lScPClwJAfAmzg==;V2BnzAgYFTXYjMiwmqtNxg=="
 ---

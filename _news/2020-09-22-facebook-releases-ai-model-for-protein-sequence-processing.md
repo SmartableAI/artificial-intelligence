@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://res.infoq.com/news/2020/09/facebook-ai-genomics/en/headerimage/header-facebook-ai-genomics-1600618367199.jpg"

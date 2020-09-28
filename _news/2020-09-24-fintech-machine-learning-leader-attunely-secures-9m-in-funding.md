@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/24/fintech-machine-learning-leader-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/24/fintech-machine-learning-leader-attunely-secures-9m-in-funding/amp/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -39,17 +39,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Latest Tech Nation fintech cohort reflects diversifying sector"
-    excerpt: "The latest group of fintechs accepted into Tech Nation’s growth programme reflects the diversification of a maturing sector."
-    publishedDateTime: 2020-09-23T14:59:00Z
-    webUrl: "https://www.computerweekly.com/news/252489469/Latest-Tech-Nation-fintech-cohort-reflects-diverse-sector"
-    ampWebUrl: "https://www.computerweekly.com/news/252489469/Latest-Tech-Nation-fintech-cohort-reflects-diverse-sector?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252489469/Latest-Tech-Nation-fintech-cohort-reflects-diverse-sector?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 24
   - title: "Top 4 FinTech funding rounds in Singapore this September 2020"
     excerpt: "The FinTech sector in Singapore sees Machine Learning and Artificial Intelligence algorithms being used generally in lending & asset management services."
     publishedDateTime: 2020-09-25T14:15:00Z

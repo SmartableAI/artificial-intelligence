@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2020/09/24/spectrum-labs-raises-10m-for-its-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/24/spectrum-labs-raises-10m-for-its-ai-based-platform-to-combat-online-toxicity/amp/"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: TechCrunch
@@ -28,24 +28,6 @@ images:
     width: 1024
     height: 683
     isCached: true
-
-related:
-  - title: "WhyLabs raises $4 million to grow AI and data monitoring platform"
-    excerpt: "Based in Seattle, WhyLabs uses an open source library to tracks AI models and datasets and notify data scientists if problems arise."
-    publishedDateTime: 2020-09-23T14:35:00Z
-    webUrl: "https://venturebeat.com/2020/09/23/whylabs-raises-4-million-to-grow-ai-and-data-monitoring-platform/"
-    ampWebUrl: "https://venturebeat.com/2020/09/23/whylabs-raises-4-million-to-grow-ai-and-data-monitoring-platform/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/23/whylabs-raises-4-million-to-grow-ai-and-data-monitoring-platform/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/09/WhyLabs-Zoom-Team-e1600868899982.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 527
-        isCached: true
 
 secured: "PZTcwAcxpPGCEe6xGJikV82+O1I7bpyd+oT0e/veTcfhtFAQ6CKIMjsF9ibFcu4avpI5A/iSTT4kijqoqQZ7KFGvEqdrdyIjh2RWgd/T2cMkTU4cKzSXAnxa0MHJAPFvRhz7LfrVCHYci1XE057I0I3mylIPAmFYtpVXIifg8WTe35LZTLpErXqCmrjENRCaEmLedZQAkBQZ6T8o2AhE3zfLJ9s5KcqVFam55XnV1yNJQSeZKIoiWouy+zRe4SuhaJper6//f2pA09DY7YT0mZG5wCHGRmv1TEHNw5HIDcHiP01BOQlfrqU6xmLfAgZzryugHCVMLD7ovw2FxXjZakcvFzh7ILmHwV8umR3M67uv0xx2/sxtWae6MCkDCi3K3Pt7+91u1UnqB4xPeS0FkSCIWhnHnn0vWTCLgAi7sh1F3Wt/Y0GjH4DHWL9lQaW/GY5OL/9lkf6mfJ5dAT9xU8WG/+AE5VKEhyIquc5r0o6AulavQ5KNtrljKv99GmqICc568EI0TP7Q10KFhZdLww==;8Cz66VOj3PWG88982SxrPQ=="
 ---

@@ -74,6 +74,22 @@ related:
         width: 1200
         height: 1000
         isCached: true
+  - title: "UCSD researchers use artificial intelligence to predict loneliness in older adults"
+    excerpt: "A team led by researchers at UC San Diego School of Medicine used artificial intelligence to analyze language patterns of older adults to discern degrees of loneliness, which could help slow rates"
+    publishedDateTime: 2020-09-24T23:25:00Z
+    webUrl: "https://fox5sandiego.com/news/health/ucsd-researches-use-artificial-intelligence-to-predict-loneliness-in-older-adults/"
+    ampWebUrl: "https://fox5sandiego.com/news/health/ucsd-researches-use-artificial-intelligence-to-predict-loneliness-in-older-adults/amp/"
+    cdnAmpWebUrl: "https://fox5sandiego-com.cdn.ampproject.org/c/s/fox5sandiego.com/news/health/ucsd-researches-use-artificial-intelligence-to-predict-loneliness-in-older-adults/amp/"
+    type: article
+    provider:
+      name: Fox 5 San Diego
+      domain: fox5sandiego.com
+    quality: 53
+    images:
+      - url: "https://fox5sandiego.com/wp-content/uploads/sites/15/2020/09/GettyImages-1199677896.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "UCSD researches use artificial intelligence to predict loneliness in older adults"
     excerpt: "SAN DIEGO (CNS) – In a paper published Thursday, a team led by researchers at UC San Diego School of Medicine used artificial intelligence to analyze language patterns of older adults to discern ..."
     publishedDateTime: 2020-09-24T23:35:00Z

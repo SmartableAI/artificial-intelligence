@@ -1,17 +1,15 @@
 ---
 category: news
 title: "Global startup Parcel Perform collaborates with Amazon Web Services (AWS) to improve e-commerce delivery experience with machine learning"
-excerpt: "Parcel Perform and Amazon Machine Learning Solutions Lab collaborated to build a flexible, scalable solution, combining AWS' expertise in ML and ML services like Amazon SageMaker, with the specific requirements of the logistics domain to build this unique ..."
-publishedDateTime: 2020-09-22T04:26:00Z
-originalUrl: "https://www.asiaone.com/business/global-startup-parcel-perform-collaborates-amazon-web-services-aws-improve-e-commerce"
-webUrl: "https://www.asiaone.com/business/global-startup-parcel-perform-collaborates-amazon-web-services-aws-improve-e-commerce"
-ampWebUrl: "https://www.asiaone.com/business/global-startup-parcel-perform-collaborates-amazon-web-services-aws-improve-e-commerce?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/global-startup-parcel-perform-collaborates-amazon-web-services-aws-improve-e-commerce?amp"
+excerpt: "Parcel Perform and Amazon Machine Learning Solutions Lab collaborated to build a flexible, scalable solution, combining AWS' expertise in ML and ML services like Amazon SageMaker, with the ..."
+publishedDateTime: 2020-09-22T01:59:00Z
+originalUrl: "https://www.finanzen.net/nachricht/aktien/global-startup-parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-9317530"
+webUrl: "https://www.finanzen.net/nachricht/aktien/global-startup-parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-9317530"
 type: article
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Finanzen
+  domain: finanzen.net
 
 topics:
   - AWS AI
@@ -19,11 +17,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Sep2020/pr-newswire_500_4_1272.jpg?itok=_nKPo1GS"
-    width: 763
-    height: 509
+  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+    width: 600
+    height: 315
     isCached: true
 
-secured: "PUtO0lF0XlPaEJGN5+65IXBByn4Um6mNUVrQhU6Wp2by8/a5P0wngiqHBO+/NlDPDH1FefQgdkpa0/5kgmEBdMAJbuXpyk6QyzUHYOrIUHWIvohu0D61FPXbHu//5J1Wz0DlV/PxRrDCf/c/A6ccwA/LcJknm9NsehCyEH597kNvB17Gz6UHR5Un1aDAcmqikkjbCmba108lvc/Q1l5aQcqirAOrnnIz7/YUx5opaoqA90PlkKRWaK28SLuclLz8xV0W1bmOxqHPiWPFKwgJTfHmPpJDgi+bDRbKKw2lRebiIKHGp5x818iag28jO1MctA4tghmoH5Z7f7fCRfCTILcaHPv22Fj7oK99LnwpA+6idtNWGa+rE08hTQAqqSO+ndM4FTrevmqhOJkOFeFhNyzwyI+rS3YwJI3vDfFGIIfepF5Ve+qK5fq9BD1W/g9bzGUsyqIXBwYNy1d5fJYmuxFJ3wl7/l30UKf/sgto5pN3taDwVM/taKi7Lgj2noZcZ1h4hgaeu3N9f10hLSLnAw==;S6xV7aBUfyIkUUF68j7uMQ=="
+secured: "tTZiioDqjx4jevQT7wT0HcMFIyokOiGrspiTAD089IwNUoOnUN2ZktMCSIaKPZAO7GsJCA/L+kD9ziY5t1HrwzBY93/+Sb+Vdqi7C48zfbjSjrfz5mdA6KsbOAlyAy2yPBjnX4hLsYiApX5p8x3nDcQApDqeF1isnLRt7oVF4FcTnKLZrgto1dudZYQSErHWT3M105EiN7g7/DoXuYQ8ZwL+SgHe9417r+z5NdhQniR9thCk2sqBnlwKeJp9+v2aTxQnAue52C+XZDogCb04Pow+5vRUUN9ozeD5TTB/DSb6Ya1k+cqgqReDDL1Pk2Kx46KfbH6aa91gxjjVkCMvyY6wwSHHnSTyDd9Pe448mQU=;wULDgj1nAm5jDIr+JUrOHg=="
 ---
 

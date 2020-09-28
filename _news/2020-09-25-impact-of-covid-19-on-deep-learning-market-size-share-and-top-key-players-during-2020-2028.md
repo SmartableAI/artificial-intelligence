@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/impact-of-covid-19-on-de
 webUrl: "https://www.marketwatch.com/press-release/impact-of-covid-19-on-deep-learning-market-size-share-and-top-key-players-during-2020-2028-2020-09-24"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -86,20 +86,6 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/dailyrecordnews.com/content/tncms/custom/image/0ef5f48e-94dc-11e7-8ed4-3365baf52acf.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Smart Education and Learning Management Market Size is Projected to Reach USD 270,630.32 Million by 2025 | Valuates Reports"
-    excerpt: "... the growth of Smart Education & Learning Management market size are the adoption of e-learning solutions and Artificial Intelligence (AI) and Machine Learning (ML). Get Detailed Analysis of COVID-19 Impact on Smart Education and Learning Management ..."
-    publishedDateTime: 2020-09-23T13:41:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/smart-education-and-learning-management-market-size-is-projected-to-reach-usd-270-630-32-million-by-2025-valuates-reports-812155943.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
-    images:
-      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
-        width: 920
-        height: 482
         isCached: true
 
 secured: "NTIwET7tutvZ3Jw/rj+llEbm/H0vHGOJgyyn6j7gwOPDOYaVEQietpM5g8OuVQBv/vShGBWYzRsvLBwPAKxVfFWPFsMm1sx8nEbi2GmQe6a+PjSP9gAbEinPAEMIZs5UQ/WAV9VcXgGEJk6dgxn/EEr6x9vrfotn6PGMSdz4wcoyDphZlEtctWZjtlQJjIQh9jdmQ6+CMONfJaowyofW1vgRvkUteYr/hee/HSnhCEZeFwUiUITlnIB04OKBdCmO1RwOMHBTXeF/5dyBczJn6PuVPwO5SpWJRQ7j1oWssZv7CkUFwYohTgV+VBwpkIb0YZ29UybkdJQlNjQ+88TA8HmeiCpr70cf2LbZK1Zfj+M=;O6MM7nxC6tBlJvjpoxTmWw=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techspot.com/amp/news/86859-adobe-liquid-mode-uses-machi
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/86859-adobe-liquid-mode-uses-machine-learning-make-pdfs.html"
 type: article
 quality: 81
-heat: -1
-published: false
+heat: 91
+published: true
 
 provider:
   name: TechSpot
@@ -31,21 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Adobe’s ‘Liquid Mode’ uses AI to automatically redesign PDFs for mobile devices"
-    excerpt: "We’ve probably all been there: you’ve been poking around your phone for an hour, deep in some sort of Google research rabbit hole. You finally find a link that almost certainly has the info you’ve been looking for."
-    publishedDateTime: 2020-09-23T13:06:00Z
-    webUrl: "https://techcrunch.com/2020/09/23/adobes-liquid-mode-uses-ai-to-automatically-redesign-pdfs-for-mobile-devices/"
-    ampWebUrl: "https://techcrunch.com/2020/09/23/adobes-liquid-mode-uses-ai-to-automatically-redesign-pdfs-for-mobile-devices/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/23/adobes-liquid-mode-uses-ai-to-automatically-redesign-pdfs-for-mobile-devices/amp/"
+  - title: "Adobe's Liquid Mode uses AI to make PDFs easier to read on phones"
+    excerpt: "The new mode uses Sensei, Adobe’s AI tool, to automatically reformat text, images and tables for mobile devices."
+    publishedDateTime: 2020-09-24T15:40:00Z
+    webUrl: "https://www.engadget.com/adobe-liquid-mode-130012210.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 83
+      name: Engadget
+      domain: engadget.com
+    quality: 67
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/09/liquid-mode.jpg?w=680"
-        width: 680
-        height: 352
+      - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Fddd5f7d0-fd80-11ea-b1f5-651ca90fba55&client=amp-blogside-v2&signature=98c07f7998a907a6c07f51d5aad253202e5994d0"
+        width: 1015
+        height: 630
         isCached: true
 
 secured: "nj9nHkl2/OFwdDx56m4qXUKaNP9INNQprq0oHwYEY2UXEHBA8wNBoPM2EsMcOuy0LssQeCnfifRPZvlIIXCU1FkAQwSxXSXUrusnNSaxJvqJo1nXzbOX1aWjJ1TqYkUqvbDIwaBY5bIDv8SEyZywM8XV065Ynesn/+kvhmhRIIoLr/Ozwkq4KEt6AJoehnCSbcqgVR9Rf5r+OEL5u4P/2aT67HbattkqHhMBPPOJZMAay7sPj1Dq98oLiFyeQcmpl6CqBYXwpy1Pl/XfP6kXk0Kip9xxu/Y3pCTQkqRqpmvqRZ8nzdJNY7IpNz1VQlufkfZ4Kv9iS/aPeX/DVkmJO3CSRF4QRx0rchdrb50kufXvUNXQOpfefU/NMK9R5RTTpPAF5SBXgpjjrTKzRHlu70g67wTV5eL+BkqAAOasaofd9ZirZ/C8/5Xi+VnWMa1L5gulbGnF+SjszsOEmXWixOtlfpIM8HZwyQS5hRhXCZwrDBGevaCUOfLaZPnWEdxyJUEfDoRserYpto1Hv4eAWw==;t54Sa6Q4pQ6Lypo08CzXxg=="
