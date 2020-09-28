@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "parashift_ai"
   url: "https://twitter.com/parashift_ai"
-  followers: 112
+  followers: 113
 
 size: 11-50 employees
 yearFounded: 2018
