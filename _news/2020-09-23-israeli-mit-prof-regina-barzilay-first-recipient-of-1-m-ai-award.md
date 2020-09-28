@@ -9,7 +9,7 @@ ampWebUrl: "https://m.jpost.com/israel-news/israeli-mit-prof-regina-barzilay-fir
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/israel-news/israeli-mit-prof-regina-barzilay-first-recipient-of-1-m-ai-award-643249/amp"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 640
     height: 428
     isCached: true
-
-related:
-  - title: "Regina Barzilay wins $1M Association for the Advancement of Artificial Intelligence Squirrel AI award"
-    excerpt: "... the Association for the Advancement of Artificial Intelligence (AAAI) — announced today the winner of their new Squirrel AI Award for Artificial Intelligence for the Benefit of Humanity, a $1 million award given to honor individuals whose work in ..."
-    publishedDateTime: 2020-09-23T12:03:00Z
-    webUrl: "https://www.aaai.org/Awards/squirrel-ai-award-call.php"
-    type: article
-    provider:
-      name: news
-      domain: mit.edu
-    quality: 171
-    images:
-      - url: "https://www.aaai.org/Awards/AAAI-Squirrel-AI-Award-for-Artificial-Intelligence-for-the-Benefit-of-Humanity.jpg"
-        width: 1300
-        height: 650
-        isCached: true
 
 secured: "KsGSa2hdq8wIAQ2N/iyuXEGVNF7RkD0HnFyRymCAMGwBDCV7mvmX1EeZZScBYXxcBk618mBYA4umPU1IRCLD7x81JjuHgYlD9pRlp8G6e9gkYJq5Zw/VJbDCIVpRb92OI7PCl1TNyfSh2YOMyRZKLJLTveLCESXxKdQlm0HSgxCNTAHr+r9peZbUyCdvw1/GgAGtuiX1hgNhyBLr0RFzGHdFRx42ELFcaHjVRyB60l1MI1I2FCJcY0CbLhmiEXw1ylceRLDu64YLvgLMJMN+IfM4hGx0Mpxse6DKLBT+QSBo/Bml6i7T8Z1mT0DfRSDgpsm60VsZxaA2gkn9XFNOKcyziHHKql4FtxwHjueG7JtiQdyqxo357kkBurLNnHYgpVBYciKhE/+l04LZmpc0lJxdZZYmW+Omi91fMPlT+4xzA1qFwrYjY1T5yw5ZlOT+Uxa38gfEWRKuvftEswlO1AAzw4WkyK1Bqp6knvGjKnWvXlyiqFKxdm2202xRW+Zf9t9W6F7szhCymmpxQ2oQZg==;9eHZSwU1NWBoowqYGrOWXw=="
 ---

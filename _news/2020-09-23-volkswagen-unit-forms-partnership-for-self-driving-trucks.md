@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/volkswagen-unit-forms-partnership-fo
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/volkswagen-unit-forms-partnership-for-self-driving-trucks-2020-09-23?amp"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -19,79 +19,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Volkswagen Trucking Business Invests in Self-Driving Truck Developer TuSimple"
-    excerpt: "Volkswagen unit Traton Group will work with TuSimple to develop self-driving trucks and take a stake in the technology company as part of their agreement."
-    publishedDateTime: 2020-09-23T12:01:00Z
-    webUrl: "https://www.wsj.com/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460?mod=hp_minor_pos14"
-    ampWebUrl: "https://www.wsj.com/amp/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 71
-    images:
-      - url: "https://images.wsj.net/im-235133/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Volkswagen's Traton partners with TuSimple for self-driving trucks"
-    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since (Reuters) - Volkswagen's Traton commercial truck unit and self-driving technology startup TuSimple will partner to develop self-driving trucks, the ..."
-    publishedDateTime: 2020-09-23T23:40:00Z
-    webUrl: "https://www.businessinsider.com/volkswagens-traton-partners-with-tusimple-for-self-driving-trucks-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/volkswagens-traton-partners-with-tusimple-for-self-driving-trucks-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/volkswagens-traton-partners-with-tusimple-for-self-driving-trucks-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-  - title: "Self-driving trucks being trialled in Germany"
-    excerpt: "Technology that enables trucks to achieve Level 4 autonomy is being developed by Continental. It is working in conjunction with braking components manufacturer Knorr-Bremse with the aim of helping transport companies address the driver shortage and reduce labour costs."
-    publishedDateTime: 2020-09-23T11:24:00Z
-    webUrl: "https://www.commercialfleet.org/news/truck-news/2020/09/22/self-driving-trucks-being-trialled-in-germany"
-    ampWebUrl: "https://www.commercialfleet.org/amp/news/truck-news/2020/09/22/self-driving-trucks-being-trialled-in-germany"
-    cdnAmpWebUrl: "https://www-commercialfleet-org.cdn.ampproject.org/c/s/www.commercialfleet.org/amp/news/truck-news/2020/09/22/self-driving-trucks-being-trialled-in-germany"
-    type: article
-    provider:
-      name: Commercial Fleet
-      domain: commercialfleet.org
-    quality: 44
-    images:
-      - url: "https://cdn.fleetnews.co.uk/web/2/root/cfcontinentalenviroperception2020-environmental-perception.jpg"
-        width: 2126
-        height: 1537
-        isCached: true
-  - title: "Is TuSimple about to solve complexities of driverless trucks?"
-    excerpt: "However, that day may be fast approaching as TuSimple continues generating momentum. This year has been particularly momentous for TuSimple, as the company not only continues to refine its technology,"
-    publishedDateTime: 2020-09-24T15:01:00Z
-    webUrl: "https://www.fleetowner.com/technology/autonomous-vehicles/article/21142760/is-tusimple-about-to-solve-complexities-of-driverless-trucks"
-    type: article
-    provider:
-      name: Fleet Owner
-      domain: fleetowner.com
-    quality: 39
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/fleetowner/image/2020/09/16x9/tusimple_road.5f6c989e6cc9f.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 673
-        isCached: true
-  - title: "VW's Traton takes stake in U.S. self-driving startup"
-    excerpt: "Volkswagen Group's Traton commercial truck unit is partnering with a self-driving startup that recently aligned with Navistar International, the U.S. manufacturer that VW’s truck unit is trying to acquire."
-    publishedDateTime: 2020-09-23T18:52:00Z
-    webUrl: "https://europe.autonews.com/automakers/vws-traton-takes-stake-us-self-driving-startup"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Traton_TuSimple.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "TLlK7TBW78swB013Hd+lS4K4iBo5jt0tXMFbfW5qerIadFyljQ8AMGxlkleND1M7yY3TX+qucYMoGRTXYFqDJW6EBR9AEPsef7W3+RHWrwNCDbaaCmiQlm8TJR5VEL8PFi1LcCN5hTkbb8D+aoN7e8KTGUsYzFWa/etuoW1Bdqv6J8tW390pXQ3ahKb1wNGCocm8Pp15swDLALsqEyoomvK4raAiu+TSZfs1hrvXbf1X9430icnOABhZfXtZtvmv97vZQWQYL/mLGmqLz57U4McgFFvlaQahTXRGr0DGOMW7hGdc494mYSgK8hXrALvjhGEG0t+YaqNGAHPd4MzO0jqtoHBn9rBDL+o6iZucZwQ=;7dXHIRmyms/hBMwdjIQZzg=="
 ---

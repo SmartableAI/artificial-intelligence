@@ -63,17 +63,6 @@ related:
         width: 1400
         height: 1050
         isCached: true
-  - title: "Beijing to build pilot zone for self-driving vehicles"
-    excerpt: "Beijing is planning to build a cloud-based pilot area for self-driving vehicles before the end of this year, marking an important step for the development of"
-    publishedDateTime: 2020-09-23T11:44:00Z
-    webUrl: "https://infosurhoy.com/news/beijing-to-build-pilot-zone-for-self-driving-vehicles/"
-    ampWebUrl: "https://infosurhoy.com/news/beijing-to-build-pilot-zone-for-self-driving-vehicles/amp/"
-    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/news/beijing-to-build-pilot-zone-for-self-driving-vehicles/amp/"
-    type: article
-    provider:
-      name: InfoSur Hoy
-      domain: infosurhoy.com
-    quality: 24
 
 secured: "9sbPdCu7M1oOJn57cLwnlyDpfFUjW50D8PrGb117VZqBdp8FrO3oQo3ikI6yExcwcglJbmaIPUGUAG/j0QT1fDZpxY+FvXSzvp/nYudAdhqDD/lvg0kkCRH0DE9Roxdwyrje2UEYnwPpkEV/3PT1hwQnW5EkCsRNCMVSHX46xHyAuk1x5+TSiITUSDZQOrKxtLD75AQ+2vtIdxR1POW6X/okTgIpfI+e5gwhT5UbuT82BHOVEHoI50ukLf8wE7S1v/AuxhIjtbjTVNUCKCVQETW/rXppCeKj1+4LvQJ+efW0ifB+TR3yUqQev4yleBw6fviaDa2EtZg0L/1bcRI3wLQl35pLOUuTf9w/0fgqz1gV52NVoGGpG7Y7h8TRlYe06bJ7xUYJ1tXOKEw3MbpG0fj+0pVUPYPFX7K2DTJNJJRTu52nw2ppIS2OLHar1XyffX3VBSIcdv9QX6lfMdLVkYHW6AskO5cJzAQ3TOGCsp1kmGGpfdGUAV/jSMezT7NsZX1XLWMrz+pzH2TC3l/qzA==;3ejC6kFPW1l2iuXhIgN3cg=="
 ---

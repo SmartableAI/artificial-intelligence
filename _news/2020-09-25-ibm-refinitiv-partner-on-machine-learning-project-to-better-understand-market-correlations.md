@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-25T04:32:00Z
 originalUrl: "https://www.waterstechnology.com/data-management/7687361/ibm-refinitiv-partner-on-machine-learning-project-to-better-understand-market-correlations"
 webUrl: "https://www.waterstechnology.com/data-management/7687361/ibm-refinitiv-partner-on-machine-learning-project-to-better-understand-market-correlations"
 type: article
-quality: 14
-heat: 14
+quality: 31
+heat: 31
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.waterstechnology.com/sites/waterstechnology/files/styles/metatag_image/public/2020-09/GettyImages-1147913430.jpg?itok=S1I95EdN"

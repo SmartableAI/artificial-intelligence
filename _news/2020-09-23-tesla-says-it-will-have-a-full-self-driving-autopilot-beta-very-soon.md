@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Coming soon, a self-driving Tesla! Elon Musk touts new version of Autopilot software, cuts battery costs"
-    excerpt: "Tesla Inc CEO Elon Musk promised a new version of the company's Autopilot system at the company's \"Battery Day\" on Tuesday, even as he tempered expectations that Tesla's electric"
-    publishedDateTime: 2020-09-23T11:44:00Z
-    webUrl: "https://economictimes.indiatimes.com/magazines/panache/coming-soon-a-self-driving-tesla-elon-musk-touts-new-version-of-autopilot-software-cuts-battery-costs/articleshow/78273090.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 22
-    images:
-      - url: "https://img.etimg.com/thumb/msid-78273143,width-1070,height-580,imgsize-820186,overlay-etpanache/photo.jpg"
-        width: 1070
-        height: 580
-        isCached: true
 
 secured: "TE8EdC/yEFSYd6hw8SYx9QMmOoKuJqQ8qe9/4RkfO3G8H3C3OBQNr9mwvmT0MWGb1Jm0QtAkqbNC5K7jvfuLFwjGwYVkqX2xSOBGxEQ6LqToNfxE/pY3Xt0Ua2dE2KtU6LSaFRO4mCwfkHHsCHAp9AcPGuXGugrD86GIQMoEEZx2VfF78zkbzyiD4ygqkejvJKTDRNZw6u662Q0YK2jRRZNsX+Q02yCdrJEAhTZ3r3YDUE/SuXnBX82FprJaObOWawUpcoJ/faw6L0FKw5owUTOiOyUh//AIe9/9Hr+rv4Me/HgCjZhLcHQsRrq9TW+KnF5i/7pW7iMd+GOUlhQ8z5ZD/C+Hc+hAPeAbljze3HIOeDUuKeIsbHX4jb1vNVrmG4Ejkk6xOLSNaHNNcbDai/NGlJNq1mPzLjhsLVDYXHjUtPIiDY4MatnJ8OnL+6QRknjW7PSV19CmoG6sTPZ0cFN9yP6viJ8bWWEZIkP+bDiFniD43f1vCuwDUzCFlUtkGqZT56L8X1nonxCnqNBYzQ==;a3HERLN3sZMQA4gF6Jw6lg=="
 ---

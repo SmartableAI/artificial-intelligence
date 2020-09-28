@@ -60,17 +60,6 @@ related:
         width: 1015
         height: 630
         isCached: true
-  - title: "Adobe intros Liquid Mode, an AI tool that automatically reformats PDFs for small screens"
-    excerpt: "Adobe's new Liquid Mode tool can understand the structure of PDFs and automatically reformat text, images and tables for consumption on small screens."
-    publishedDateTime: 2020-09-23T13:00:00Z
-    webUrl: "https://www.zdnet.com/article/adobe-intros-liquid-mode-an-ai-tool-that-automatically-reformats-pdfs-for-small-screens/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/adobe-intros-liquid-mode-an-ai-tool-that-automatically-reformats-pdfs-for-small-screens/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/adobe-intros-liquid-mode-an-ai-tool-that-automatically-reformats-pdfs-for-small-screens/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 58
 
 secured: "nFp36/5k8q4bDcJBm/wR+4lLdOnIXD/5dL1qGzf28FMZWrfRYDjhaceTdy2amka4Tt5AlRe9/bpn+qKMXjz2sPQXnBVlN0UuMR+wh4NrOm8xV6T1dMpB9pwX2A3XxXqsFJkKlK8i8VwLjIN1eo3xS+qv/H5nomy+QgbQCIcfSyERkcl0q1a9uScj4eyig6VXL7z5OSJD4J7yhpzY6IUedXxIOr560d9P5L7tVTVHsFEyLm7SmZ6fqLg5U8rk/vAvBlXjitcQxZtN7V1q7NXs82LON85UDcx4W+C6FaXKWxzb6QwW3zJnHZEAMWprywlWI1amIDrWqi1zGwuc/bk6OGMD6bjswpSVGaSalkWDKyRrQMWQpjxphPrE9nd47QQyK0OY7CnyrrZbjgKb4aX9XWhsdcCcLA5xYrZLp54QAkgROfCkXR3IZtbpE6TWm5Wu+HKt5bpH0kYFstR7Ll1w5rwGQLXJgx9/FSCoaqfaed4P4ECpKEO1U3K3Oxlz5iu+9HsHlIxctb99+gKdctJ54A==;Pep8o8qHQtFLgL5vfP22fQ=="
 ---

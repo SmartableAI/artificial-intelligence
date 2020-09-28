@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2020/09/23/in-the-name-of-the-mother-afghan-woman
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/09/23/in-the-name-of-the-mother-afghan-woman-wins-recognition-sparks-taliban-opposition/amp/"
 type: article
 quality: 53
-heat: 53
+heat: 63
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Facial Recognition Tech That Works With Masks"
+    excerpt: "Facial recognition algorithms work by measuring a face’s features – their size and distance from one another, for example – then comparing these measurements to those from a photo stored in a passenger’s ePassport or travel document. As this ..."
+    publishedDateTime: 2020-09-23T15:34:00Z
+    webUrl: "https://apex.aero/2020/09/23/facial-recognition-tech-works-masks"
+    type: article
+    provider:
+      name: APEX
+      domain: apex.aero
+    quality: 39
+    images:
+      - url: "https://apex.aero/wp-content/uploads/2020/09/Untitled-design-3.png"
+        width: 1024
+        height: 678
+        isCached: true
 
 secured: "zxPdjZ48DLLEcCrDdFbgUudrzw7mxWlaAYRM+Z829yKv4I+spKWIns6dwyhjdJIeRlaTgBayUSw9fJKDJxDFZV1D/qDvnvkp4ejunUyPk09BVSV3opo8y9KO0Un+T/jj+hEa3lFD5LsPs5sPpHU3eBOy9/LYUn2c7PxLvkRA0E0yn22+zsD6qPgSG6u0Yzpr1UChKD3KpQ4lOImV+tNpYNDPuahv0oSw9VsWJ72nmEXLXU1UNecdvXjj/l4Q2AQjOalGAVYQdH3pLw1NNbyYh+eggkaVDe7Ha7sCrqu2dk1zR99OuNIppj2CGQnKpjlEw+/BP6mbN5f4HQ6vGLexLSMhTRAekfDbpidFcJ4ufTs=;FT51XUtoDRocwLcOAZGS5g=="
 ---

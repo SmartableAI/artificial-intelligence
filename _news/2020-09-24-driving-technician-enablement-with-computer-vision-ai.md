@@ -7,7 +7,7 @@ originalUrl: "https://www.fieldtechnologiesonline.com/doc/driving-technician-ena
 webUrl: "https://www.fieldtechnologiesonline.com/doc/driving-technician-enablement-with-computer-vision-ai-0001"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence Can Enable Ethically Driven Investments"
-    excerpt: "Individuals and investment firms are increasingly interested in more than a balance sheet when making investment decisions."
-    publishedDateTime: 2020-09-23T11:39:00Z
-    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2020/09/23/how-artificial-intelligence-can-enable-ethically-driven-investments/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2020/09/23/how-artificial-intelligence-can-enable-ethically-driven-investments/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/09/23/how-artificial-intelligence-can-enable-ethically-driven-investments/amp/"
+  - title: "P360 Adds Advanced Artificial Intelligence Capabilities to Its Sales Enablement Platform BirdzAI"
+    excerpt: "P360, a leading developer of technology for life sciences companies, today announced major updates to its sales enablement platform BirdzAI. The BirdzAI platform now includes advanced Artificial Intelligence (AI) capabilities that enable real-time decision-making for sales organizations by providing deep insights derived from a wide variety of proprietary and tertiary datasets."
+    publishedDateTime: 2020-09-23T13:30:00Z
+    webUrl: "https://apnews.com/business-wire/01770b14f1fa446c9835aafe3ec26c07"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a42c7eeeca94f314ea8ef%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "6BC2qQ8BQQzj00mvyq/56tSS9cmWqVm+g4f+FhihkRH+BSqnHUe0JuZ/xv0Eo7TLiGvNTeREXMeKZcZjIVaFEspoAcfOqbLGkX1ZDC+oLKaTo6YRrA0PvHFeuipwRcp397xBcJ4h4XI9sLNghIVJxDwV6vx5hxcAbG9iqKgWvV6Oaa4HHHVql3x3+yv95LCQn7hhfYRYCnPGRhKg/4EI922dE7UXmK0jS5EEKtNiUv/UQX4jKg/u12ZY33jyxv+zNnvYeXNRi2hg1/eCH+Bz1u8xeUm8qQ1TLd7MoZBABckHZpjJBnKSpgE5DOKQwZ4UhbWt9hay9AW6/iWUIfGji/p62zoJDSWw2/me++shWnESbqhJjLNoyfI5EDLWc20UkEbvoWh7RjSE636eMEhkLIRcWzh2VGdXpWLCyhWMQT3wBRFilgvYT8ex6c4FnKNOfw0lXrUTP2WGj4kyhkmU/G0B3KP9kPb+qjVNcgZVdSnvjLeOVP0kfdpC0xl6u8pJORuicN5Aky3bds4rHpPVcQ==;J8iFTIy/VdE4xxQ9TSpVVQ=="

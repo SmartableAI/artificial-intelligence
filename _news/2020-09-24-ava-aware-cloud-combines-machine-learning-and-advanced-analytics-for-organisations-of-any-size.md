@@ -7,7 +7,7 @@ originalUrl: "https://www.sourcesecurity.com/news/ava-aware-cloud-combines-machi
 webUrl: "https://www.beyond.ai/"
 type: article
 quality: 110
-heat: 140
+heat: 120
 published: true
 
 provider:
@@ -37,31 +37,6 @@ related:
       - url: "https://i.nextmedia.com.au/News/20200924104634_AGL.png"
         width: 2584
         height: 1476
-        isCached: true
-  - title: "True North: Pioneering Analytics, Algorithms and Artificial Intelligence"
-    excerpt: "True North initiated the “Analytics, Algorithms and Artificial Intelligence” (3A) project. A system, Kelp, was designed and developed internally to facilitate the transformation of True North into an AI-first firm based on the introduction of data ..."
-    publishedDateTime: 2020-09-23T12:11:00Z
-    webUrl: "https://www.hbs.edu/faculty/Pages/item.aspx?num=58794"
-    type: article
-    provider:
-      name: Harvard Business School
-      domain: hbs.edu
-    quality: 16
-  - title: "Business Intelligence And Analytics Market 2020 Global Insights and Technology Advancement –IBM Corporation, Microsoft Corporation, SAP SE"
-    excerpt: "The market can be segmented on the basis of type into spatial and location analytics, advanced and predictive analytics, cognitive/AI (Artificial Intelligence), content analytics and end-user query and reporting analytics. On the basis of services ..."
-    publishedDateTime: 2020-09-23T11:45:00Z
-    webUrl: "https://www.openpr.com/news/2140458/business-intelligence-and-analytics-market-2020-global"
-    ampWebUrl: "https://www.openpr.com/amp/2140458/business-intelligence-and-analytics-market-2020-global"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2140458/business-intelligence-and-analytics-market-2020-global"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 8
-    images:
-      - url: "https://cdn.openpr.com/T/9/T923400733_g.jpg"
-        width: 800
-        height: 312
         isCached: true
 
 secured: "eDUAJHb2pcT0a4yKMKurazIziZO7R307tjaQ3EF+2JJYXNIzKiRrUi9SeRHEAZH7D1OmXLGacUkYdS1wIWM9tSzE3fVaFWoRAliMwarVMURhN1Fc2WoUVgImOIy3zcFdK89VewELz6/8Yk71vVysrv7avBz7zuydQP1Ctk96qxtV21+sFBcSdvidwqa8UnJG31D8zLlRGuLIwmkIYP5mJHYOP0Jkb6sRm6I6TkpuRqUFASSubKtC3J7BvdTAepvJM+XfCMg9K7qEEdzdpcUgVpAVfC1akgimtv3Tqn9BnI6O17iY7YieCKN3+h6USFz82qnX1l9gXjJhmFluPcIgWikwbvfmUGbsWktS1J1H91U=;rxzLZIDMLXkaWyAxTwbhlQ=="

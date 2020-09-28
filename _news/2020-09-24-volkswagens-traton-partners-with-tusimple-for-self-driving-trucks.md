@@ -25,48 +25,21 @@ topics:
   - AI
 
 related:
-  - title: "Volkswagen Trucking Business Invests in Self-Driving Truck Developer TuSimple"
-    excerpt: "Volkswagen unit Traton Group will work with TuSimple to develop self-driving trucks and take a stake in the technology company as part of their agreement."
-    publishedDateTime: 2020-09-23T12:01:00Z
-    webUrl: "https://www.wsj.com/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460?mod=hp_minor_pos14"
-    ampWebUrl: "https://www.wsj.com/amp/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460"
+  - title: "Nikola Chairman In Talks To Back Self-Driving Truck Maker TuSimple: Report"
+    excerpt: "Nikola Corporation’s (NASDAQ: NKLA) freshly-appointed chairman, Steve Girsky, is looking to back self-driving truck maker TuSimple, TechCrunch reported Sunday. What"
+    publishedDateTime: 2020-09-28T04:38:00Z
+    webUrl: "https://www.benzinga.com/news/20/09/17671919/nikola-chairman-in-talks-to-back-self-driving-truck-maker-tusimple-report"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17671919"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17671919"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 71
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
     images:
-      - url: "https://images.wsj.net/im-235133/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Volkswagen Unit Forms Partnership for Self-Driving Trucks"
-    excerpt: "Volkswagen (OTC: VWAGY) announced today that it has joined forces with autonomous-vehicle start-up TuSimple to bring self-driving heavy-duty trucks to Europe. VW's truck unit, Traton Group, also bought an undisclosed minority stake in the California-based ..."
-    publishedDateTime: 2020-09-23T16:38:00Z
-    webUrl: "https://www.nasdaq.com/articles/volkswagen-unit-forms-partnership-for-self-driving-trucks-2020-09-23?time=1600878241"
-    ampWebUrl: "https://www.nasdaq.com/articles/volkswagen-unit-forms-partnership-for-self-driving-trucks-2020-09-23?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/volkswagen-unit-forms-partnership-for-self-driving-trucks-2020-09-23?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
-  - title: "Self-driving trucks being trialled in Germany"
-    excerpt: "Technology that enables trucks to achieve Level 4 autonomy is being developed by Continental. It is working in conjunction with braking components manufacturer Knorr-Bremse with the aim of helping transport companies address the driver shortage and reduce labour costs."
-    publishedDateTime: 2020-09-23T11:24:00Z
-    webUrl: "https://www.commercialfleet.org/news/truck-news/2020/09/22/self-driving-trucks-being-trialled-in-germany"
-    ampWebUrl: "https://www.commercialfleet.org/amp/news/truck-news/2020/09/22/self-driving-trucks-being-trialled-in-germany"
-    cdnAmpWebUrl: "https://www-commercialfleet-org.cdn.ampproject.org/c/s/www.commercialfleet.org/amp/news/truck-news/2020/09/22/self-driving-trucks-being-trialled-in-germany"
-    type: article
-    provider:
-      name: Commercial Fleet
-      domain: commercialfleet.org
-    quality: 44
-    images:
-      - url: "https://cdn.fleetnews.co.uk/web/2/root/cfcontinentalenviroperception2020-environmental-perception.jpg"
-        width: 2126
-        height: 1537
+      - url: "https://www.benzinga.com/files/images/story/2012/tusimple.jpg"
+        width: 2560
+        height: 1920
         isCached: true
   - title: "Is TuSimple about to solve complexities of driverless trucks?"
     excerpt: "However, that day may be fast approaching as TuSimple continues generating momentum. This year has been particularly momentous for TuSimple, as the company not only continues to refine its technology,"
@@ -81,20 +54,6 @@ related:
       - url: "https://base.imgix.net/files/base/ebm/fleetowner/image/2020/09/16x9/tusimple_road.5f6c989e6cc9f.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 673
-        isCached: true
-  - title: "VW's Traton takes stake in U.S. self-driving startup"
-    excerpt: "Volkswagen Group's Traton commercial truck unit is partnering with a self-driving startup that recently aligned with Navistar International, the U.S. manufacturer that VW’s truck unit is trying to acquire."
-    publishedDateTime: 2020-09-23T18:52:00Z
-    webUrl: "https://europe.autonews.com/automakers/vws-traton-takes-stake-us-self-driving-startup"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Traton_TuSimple.jpg"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "jrVC7pZDGqKMj+hdYUjQwmfeT2Ij1Rm0oCF8YdfeouRJ25/pQycw7T5yBP4vWrZJhnk3gokb/vVfI7geA1GsTpofZbpDLsBju8vnPTBSxtg9lLYcR/hhFKjqo/3kedAAAPLVNTHbQ+5LENt1PtO1BtHgRsFKOURfQV1ETFCnACzMv7eylyqBv0qeHcmYaZ/njrXNFRrmnudurnvUNilf1Ymmakqble2Fm6+mxj08N5pt09A+GWGYimrMi1i1JTNOyAV3Cc8Bku7OgX9M/VIHJOXR3MJiGZ474ZnRICC8CTuuH4byOjuZ0/M5IeW3sEecE9p3dDLEECXMq+yWK41uUSceB04P8HSpLWOGzrzA3Uw=;auxsJ9MN/1VHi0HhWIhd2w=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/facebook-illinois-400-dollar-lawsuit
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-illinois-400-dollar-lawsuit-settlement-check-details-facial-recognition-2020-9?amp"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -29,38 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Facebook Illinois Settlement: How to Get a Payout in $650 Million Facial Recognition Class Action"
-    excerpt: "When the tag feature is enabled, the social network uses face recognition technology to analyze photos and videos it believes a user is in and creates a template. The template is then used to recognize users as they appear in other photos or videos."
-    publishedDateTime: 2020-09-23T12:26:00Z
-    webUrl: "https://www.newsweek.com/facebook-illinois-face-recognition-settlement-submit-claim-payout-1533779"
-    ampWebUrl: "https://www.newsweek.com/facebook-illinois-face-recognition-settlement-submit-claim-payout-1533779?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/facebook-illinois-face-recognition-settlement-submit-claim-payout-1533779?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 76
-    images:
-      - url: "https://d.newsweek.com/en/full/1641098/facebook-logo.jpg"
-        width: 2500
-        height: 1627
-        isCached: true
-  - title: "Facial Recognition Tech That Works With Masks"
-    excerpt: "Facial recognition algorithms work by measuring a face’s features – their size and distance from one another, for example – then comparing these measurements to those from a photo stored in a passenger’s ePassport or travel document. As this ..."
-    publishedDateTime: 2020-09-23T15:34:00Z
-    webUrl: "https://apex.aero/2020/09/23/facial-recognition-tech-works-masks"
-    type: article
-    provider:
-      name: APEX
-      domain: apex.aero
-    quality: 39
-    images:
-      - url: "https://apex.aero/wp-content/uploads/2020/09/Untitled-design-3.png"
-        width: 1024
-        height: 678
-        isCached: true
 
 secured: "q9Pl0Hzp1wcuc83xLd5m3X/NbPKcTkQMRSU2dfaMGJ63zybNHOLkAJsX6JOBo7HPYQeHiXyLpg78arstezzaqVqvsByw0M0KHqL1SDZc7z3yQ2HigOPwKPKhS7XjPldoigjOYQHOov4eM35Ho5AzuGscDNO2ADBfXbTnk8USvz1iYa8vaJ+Ux+ZAb/QUEOudj73ghDMkV5fXwAQ1/FTs0MEfWFUdlJEJRz4kg6sAidfoY2/OBVi4oKFt+kBAIbPvQ5TbsySVEzdrHgWYmf4Vr9J/dU+g1drCXRHRDmdblHJPBvdSPXIm/3JRA0xY8UHGQTNq01TEzgws+2wNA3GANVBZ2Ix3TvuuoocB83tTQzYYVvwYlG3j6Ipwure7ddmlRJ8iUtYgkHneKfd80mJn8x8rv/Ine2lCGutZaKwZoQWYytoUWTf598zVJ++rYl7k3EqbmlxtvVgWlDFTvayYapCGchg5oPjj0R3hoJvfc6sW4N8uSHx51teQscPLXX/BCpR/OL8yGQXqu36PQsE3Wg==;7A9M+OFPK8k7U34DuW3WiA=="
 ---

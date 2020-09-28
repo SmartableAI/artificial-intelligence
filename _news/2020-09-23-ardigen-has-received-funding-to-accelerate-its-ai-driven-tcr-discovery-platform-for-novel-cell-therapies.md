@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ardigen-h
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ardigen-has-received-funding-to-accelerate-its-ai-driven-tcr-discovery-platform-for-novel-cell/article_7f8b61d9-c2d8-5c28-8ecb-f8d060aa753a.html"
 type: article
 quality: 2
-heat: -1
+heat: 2
 published: false
 
 provider:
@@ -17,31 +17,6 @@ provider:
 topics:
   - AI in Healthcare
   - AI
-
-related:
-  - title: "P360 Adds Advanced Artificial Intelligence Capabilities to Its Sales Enablement Platform BirdzAI"
-    excerpt: "P360, a leading developer of technology for life sciences companies, today announced major updates to its sales enablement platform BirdzAI. The BirdzAI platform now includes advanced Artificial Intelligence (AI) capabilities that enable real-time decision-making for sales organizations by providing deep insights derived from a wide variety of proprietary and tertiary datasets."
-    publishedDateTime: 2020-09-23T13:30:00Z
-    webUrl: "https://apnews.com/business-wire/01770b14f1fa446c9835aafe3ec26c07"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Rakuten Mobile Adds Nuance Intelligent Engagement AI Services to Rakuten Communications Platform"
-    excerpt: "Nuance Communications, Inc. and Rakuten Mobile, Inc. today announced a strategic partnership to add Nuance ® Intelligent Engagement AI Services to the Rakuten Communications Platform. Through the Nuance-Rakuten Mobile partnership,"
-    publishedDateTime: 2020-09-27T05:35:00Z
-    webUrl: "https://www.nasdaq.com/press-release/rakuten-mobile-adds-nuance-intelligent-engagement-ai-services-to-rakuten"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
 
 secured: "zB0fr36R1bQBwKXIXNgGABzn8rR6DoohZ6i9VuG8A/KjA10rxctEh4OAZshMf1aPktgEcxcgn4hpAuEjLZxM8CzZh5hwYcZG9qRRmnWY3SNlBhIj5tpJe9s38Y6lRCWyoWzqK40LcFDd5Y70jqDvBvw1VXeEke0DPxeMR+OqDlcdA7ceMoYrqESNSwvDr32yPC8Z7w8NKpoeJ8K/aWjulJVrCMQa+C2xHht/DVkLyFHJcjQnTDS7zM28VwJEiIDuVdpo/Z6SXT+BIRMXzRjQeCQjsklf7Hf5k85jafRMlFen2eJd/PkuUVkd/UWmqkQ9swp6idooNdbIr53cpJJ474hIALBTlwLDBTgWuihCTurAL7MOPbi1wOer3jFvizv3aPzMxMUSqlCIvB5zIGVt+2TOBYnJjzw7mIlU7Y3ibiAQ+lhl7sPFRS7Qw1xWFsZHvE5pZzRZQYEIKy1SAL+Cph8LkJOFWr8uzZyxA4ZzDZL2C0fwghdZdZPZaZg+YdZl0rFQB2xrJK7eS7VlJAG5oA==;J7Db855FqeqtnDwaZslsUw=="
 ---

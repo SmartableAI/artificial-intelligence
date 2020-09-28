@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/bernardmarr/2020/09/28/9-soft-skills-every-employee-will-need-in-the-age-of-artificial-intelligence-ai/</loc>
+    <lastmod>2020-09-27T21:39:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.benzinga.com/news/20/09/17671919/nikola-chairman-in-talks-to-back-self-driving-truck-maker-tusimple-report</loc>
+    <lastmod>2020-09-27T21:38:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.scmp.com/abacus/tech/article/3102891/chinese-publishers-see-ai-translation-killer-app-pushing-web-novels</loc>
     <lastmod>2020-09-27T17:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -361,12 +373,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/supermicro-is-first-to-market-with-nebs-level-3-certified-1u-server-delivers-2-560-nvidia-gpu-cores-for-5g-edge-ai-vr-innovation-1029615558</loc>
-    <lastmod>2020-09-24T01:07:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.marketwatch.com/press-release/tomorrow-socratesai-to-host-webinar-giving-your-company-a-single-voice-2020-09-21</loc>
     <lastmod>2020-09-24T01:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -417,6 +423,12 @@
   <url>
     <loc>https://www.upi.com/Top_News/World-News/2020/09/23/South-Korea-tech-giants-expanding-robotics-amid-COVID-19/3121600883704/</loc>
     <lastmod>2020-09-23T11:16:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/news/picture/israels-mobileye-dubais-habtoor-partner-idUSKCN26E207</loc>
+    <lastmod>2020-09-23T11:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -577,8 +589,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.indystar.com/story/money/cars/2020/09/22/tesla-elon-musk-full-self-driving-autopilot-software/3498264001/</loc>
-    <lastmod>2020-09-22T19:05:00-07:00</lastmod>
+    <loc>https://www.cincinnati.com/story/money/cars/2020/09/22/tesla-elon-musk-full-self-driving-autopilot-software/3498264001/</loc>
+    <lastmod>2020-09-22T19:44:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -673,8 +685,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572</loc>
-    <lastmod>2020-09-22T05:29:00-07:00</lastmod>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace/article_f6c327bd-10d4-5df0-beed-77fd9ceef60a.html</loc>
+    <lastmod>2020-09-22T05:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1927,12 +1939,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.irishexaminer.com/world/arid-40048664.html</loc>
-    <lastmod>2020-09-14T09:59:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.psychologytoday.com/us/blog/talking-apes/202009/how-safe-are-driverless-cars</loc>
     <lastmod>2020-09-14T09:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1983,6 +1989,12 @@
   <url>
     <loc>https://www.pcworld.com/article/3575077/nvidia-wants-its-gpus-in-your-arm-powered-smartphone.html</loc>
     <lastmod>2020-09-14T08:26:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.expressandstar.com/news/uk-news/2020/09/14/researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars/</loc>
+    <lastmod>2020-09-14T08:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

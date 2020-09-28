@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-autopil
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-autopilot-elon-musk/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://www.popsci.com/resizer/jXSh1CA-PX-ANxYvpM5Lum114wY=/1200x628/smart/cloudfront-us-east-1.images.arcpublishing.com/bonnier/RVOSZ4HXANHXXFTCRPSUHJ4FEE.png"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Coming soon, a self-driving Tesla! Elon Musk touts new version of Autopilot software, cuts battery costs"
-    excerpt: "Tesla Inc CEO Elon Musk promised a new version of the company's Autopilot system at the company's \"Battery Day\" on Tuesday, even as he tempered expectations that Tesla's electric"
-    publishedDateTime: 2020-09-23T11:44:00Z
-    webUrl: "https://economictimes.indiatimes.com/magazines/panache/coming-soon-a-self-driving-tesla-elon-musk-touts-new-version-of-autopilot-software-cuts-battery-costs/articleshow/78273090.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 22
-    images:
-      - url: "https://img.etimg.com/thumb/msid-78273143,width-1070,height-580,imgsize-820186,overlay-etpanache/photo.jpg"
-        width: 1070
-        height: 580
         isCached: true
 
 secured: "ai70SKjRzYHUHBs8wZ+/qslPL5W8JM2gkgcZA8zlRTRhRLuoi844Jtq6DYGiRyNtQFAHfmNp5ZwtN1uZDLcZuU93HnXZHvn7fcUhBmufoyfdY5Kg0J81dwdLbMnD9VHqj09Gp+H45rwrUKODMlcqnLfFnE0zceEQQSylgtzBTheS5lSZWdnXWBMAJ31zEbvDEtCBGEJRN4l3Frfr0u89dNpumf9ZMaVbM1NqWK+Ax6nbCu1nL9CnTmioMzBuAdFBDCFO4IVkExWP7L/AYH5/aDobrJ/w+q0ckp/EDxFEYiDKiBR/I20XsIAxeNyeaLi91RAYJUEBJ/ZqM+FqRqavWal6ynLgabu1jPvO6nE43SjaBQNV3dVXr1xvKzcP0CGWt8jjOvUEA38V0QQN1LbwoNPg2WZzfZxQK7MXwgDgMu9XcNbW7M/hWQpI44/rsB3d4I1e3h4ZIuk3ieOFso5ufNJPrvniWlktN/IVD4mfbL4YRj65ZsvLY9xI4BiqwTIvdgCS+YOJ9K7AGCuX1e085w==;GsFDpDHwxKpQAAtdwYqLVg=="

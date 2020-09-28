@@ -40,20 +40,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 53
-  - title: "Supermicro is First-to-Market with NEBS Level 3 Certified 1U Server -- Delivers 2,560 NVIDIA GPU Cores for 5G Edge AI & VR Innovation"
-    excerpt: "PRNewswire/ -- Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking solutions and green"
-    publishedDateTime: 2020-09-23T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/supermicro-is-first-to-market-with-nebs-level-3-certified-1u-server----delivers-2-560-nvidia-gpu-cores-for-5g-edge-ai--vr-innovation-301136316.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 23
-    images:
-      - url: "https://mma.prnewswire.com/media/1279730/Supermicro_Network_Equipment_Building_System.jpg?p=facebook"
-        width: 1430
-        height: 749
-        isCached: true
 
 secured: "iX5sBIDBz5mPnZRB9etNHHmQuJLMdkA6lz9spsGIm05+No4aD+NSupsuqJO+TM1Tr5eqg5HPnzOGgmjAnkTWxM6Ksa3OajgFHtbKBEwd2616QQ66WGbrGVpT1W1+rgLKSW4ZmmoSJIPpaPtwFAJRqawmLG8YjGozD0i/L70WwTnwHUvYKT4bJGXPpJQnXyf/N6ulud4WW+xYEJNlxK9cRlHjkRovKG6wVXYFU7en5LiqNuxrEvIxkJvza3DMLa3JTZcmY6QCtgYim9EvHv9M6IR0JUKHqPiilhar9VqHvixiuuD2yyrqn76bhstr7dysKHHqK5Q/1SOVe/0jwghaSrvoKTZMvZqxBiSjCWAQuQo=;XD+K+gWPiIytvlKhdsmyAg=="
 ---

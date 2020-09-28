@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "A language generation program’s ability to write articles, produce code and compose poetry has wowed scientists"
-    excerpt: "GPT-3 is the biggest, most creative language generation program to date. But with awesome power comes awesome responsibility."
-    publishedDateTime: 2020-09-23T12:30:00Z
-    webUrl: "https://theconversation.com/a-language-generation-programs-ability-to-write-articles-produce-code-and-compose-poetry-has-wowed-scientists-145591"
-    ampWebUrl: "https://theconversation.com/amp/a-language-generation-programs-ability-to-write-articles-produce-code-and-compose-poetry-has-wowed-scientists-145591"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/a-language-generation-programs-ability-to-write-articles-produce-code-and-compose-poetry-has-wowed-scientists-145591"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 24
-    images:
-      - url: "https://images.theconversation.com/files/359199/original/file-20200921-16-1l6gwi6.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
-        isCached: true
 
 secured: "g2IrYfrzH0kdYTlg4chWWdpRvO/ngKl26Pt6+UKBZa7Yg4aORo+i0tLCq6mtgyf51QYBZbpRrH+/BIIPi4CtnBRT5XFuwVRzzBpHZsPb2tAIJEgaaTz6SUah8CyC+d+0FVkaZkahxrCCGB0qYAFovo3Jj4CZawZJJmy87CQ91c6RfI4GRN4gQHGOJesIAKISXtdbX2qX79E6cHjiQVkott5JoiuhVnu/I/DIk2y7Tr8H8ShxR381qEqbn52u3DV/A6JQEfEFSmQ9Dk7QqxZspzZs1Ax2QXTChZjBONCNmwD3WhCMkYTlzUVFpgTYt2wvvdIHRIAmEpDOselad2YzzcI4kec/gwf/zPbBjPuHb50zapXnJFYNRSVQMUUOiOfjkljHy0Roch/2ux8oynCDXePI9S+jCyGINNmUIzwa5U8GiTQbmENl3xre6wFb8WfRXc6sCaMG+319OYdb5b/YrH8VNHfW0XCTLhYVisYY9swLv7/db0w6Y5fdHEF3lXJS2fiN4nSlSYdcXnF2OZeYxg==;EF6OhqzwqVAiwlCMZvLDqg=="
 ---

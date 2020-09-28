@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingl
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingly-being-designed-to-apologize-but-self-driving-cars-are-not-hip-to-the-idea/amp/"
 type: article
 quality: 78
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -63,17 +63,6 @@ related:
         width: 1400
         height: 1050
         isCached: true
-  - title: "Beijing to build pilot zone for self-driving vehicles"
-    excerpt: "Beijing is planning to build a cloud-based pilot area for self-driving vehicles before the end of this year, marking an important step for the development of"
-    publishedDateTime: 2020-09-23T11:44:00Z
-    webUrl: "https://infosurhoy.com/news/beijing-to-build-pilot-zone-for-self-driving-vehicles/"
-    ampWebUrl: "https://infosurhoy.com/news/beijing-to-build-pilot-zone-for-self-driving-vehicles/amp/"
-    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/news/beijing-to-build-pilot-zone-for-self-driving-vehicles/amp/"
-    type: article
-    provider:
-      name: InfoSur Hoy
-      domain: infosurhoy.com
-    quality: 24
 
 secured: "54RIKjabhUuP4J43IuQt28a1FzHGh1SMCtp30lYtQCaf8/KH9L/nYsGCvjxuPXjW0yGC8z+WQ+BsuaPCtKmbQoWa08F5eYzLGIjGtJQucEBwox+QbebztGpbAEYV4Zbj6VRcuhbDNC4lhG2aG3gauDwiUoYrLNA6Iv96LxTo+M3C2suGhtua+7zTMqqypS71MLVwr3l5JFeAWWBvDWGJYYAGuhl79wCto/MgoU/kiupef++p5xdkIs9/s6LGG3pwMCjOeT6yoj7TWv01p+XeOfM8ZOQ6qPdZQNpscXCLzqD935OH6rHTOuXrlP1guBETT8PxPM4AeEapKYXtBS8w6wAsZVh6xuLysXIEJN94JcNbc+AqlL+nz2onIQgHcZI7BFE5AMd1ZZRN2sanEmA8gh+JNCSAjVNN5F0VNS2ttvdb7epJn6esKHOvKOTLxlKgS13HyCOg7Yp2U10XH9Go503bR09yK+34K9fK67QyI2xofImwMmIUvI93y/Pj5fDNHeUTQ53KclPx51CRPsRe1A==;AJBKh4NEpAbpTbJDmA3LcQ=="
 ---
