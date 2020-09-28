@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Moving from notebooks to automated ML pipelines using Amazon SageMaker and AWS Glue"
+    excerpt: "A typical machine learning (ML) workflow involves processes such as data extraction, data preprocessing, feature engineering, model training and evaluation, and model deployment. As data changes over time, when you deploy models to production, you want your model to learn continually from the stream"
+    publishedDateTime: 2020-09-28T18:56:42Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/moving-from-notebooks-to-automated-ml-pipelines-using-amazon-sagemaker-and-aws-glue/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 115
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/24/1-Retraining-Pipeline.jpg"
+        width: 1000
+        height: 623
+        isCached: true
   - title: "Football tracking in the NFL with Amazon SageMaker"
     excerpt: "With the 2020 football season kicking off, Amazon Web Services (AWS) is continuing its work with the National Football League (NFL) on several ongoing game-changing initiatives. Specifically, the NFL and AWS are teaming up to develop state-of-the-art cloud technology using machine learning (ML) aimed"
     publishedDateTime: 2020-09-25T16:17:51Z

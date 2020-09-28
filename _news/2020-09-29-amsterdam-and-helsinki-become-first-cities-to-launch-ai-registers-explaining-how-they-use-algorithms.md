@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/09/28/amsterdam-and-helsinki-beco
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/28/amsterdam-and-helsinki-become-first-cities-to-launch-ai-registers-explaining-how-they-use-algorithms/amp/"
 type: article
 quality: 72
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     height: 417
     isCached: true
 
-secured: "WV01ZoCULaCk9lQPGk/NdgxkJz6PVkzCy4vb19lgVQ82pgxQgdSULDzl1n//K1KUVTxet1t1/kbPH4aTHjs4+T0yfdkgdTTyJ+O7bMfm+PH2oLUoKhp7H/VOD/eQjqA+HIwtFIfJe1VhzgIWEfq4kpsyKVJiU0PXlO0k3RdF8Hun7UxlhS7VvqiZaBHwOnVEw5PNQZVuarXKV+z5gcIcGPvj9uTAd30+cfqbSMRXM0KIcppbgXR36TPOyugBaVeSmaHrljr0uGaHjw1c28JyBW/rkzHLty450zXNHhje8B65uPKJ+C0HIM8xtLenDd7nvVpyXUBjKMqFs1hH+6mqVytEXqWtntVqjZ7j9qbbbl8=;S+eDK27KDxDLpgxR+NazaA=="
+related:
+  - title: "Amsterdam and Helsinki launch algorithm registries to bring transparency to public deployments of AI"
+    excerpt: "Amsterdam and Helsinki today launched AI registries to detail how each city uses algorithms to deliver services."
+    publishedDateTime: 2020-09-28T18:44:00Z
+    webUrl: "https://venturebeat.com/2020/09/28/amsterdam-and-helsinki-launch-algorithm-registries-to-bring-transparency-to-public-deployments-of-ai/"
+    ampWebUrl: "https://venturebeat.com/2020/09/28/amsterdam-and-helsinki-launch-algorithm-registries-to-bring-transparency-to-public-deployments-of-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/28/amsterdam-and-helsinki-launch-algorithm-registries-to-bring-transparency-to-public-deployments-of-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 72
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/09/amsterdam.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+
+secured: "f0Rv71EZEilS3zSI4NtjeUtb2DtniT19fUqVX75Rry64UzMrqJwu0exsdgIaU2AtzhjOlydexHBTrLGjT8YxynETgGcjzOh+P49mMDdRrMRY4vGyFILsqnNITDjtH4CJRnj0rWqUU/NAgkfOU5+x7OGUvNiwuMNK9/cQUsHDvihfsfAlacipfvfGnJ6GYaMq0GnaqvJt2CRUmbgQwPqDiS04oUVDitGrtz1ks3Pb2UyGpIFK5+DySk2JgZuYcdlDFcWYN4xNHvPefp/C2maghlwqStWPrFXa/ECqhb+Z/xyojAJbtw82JwNcIt44JoXm5dFbDYT5BpRRcmpAlloqRM+x6tY2qqVx2JY/L+jJMgyfIortqckWucWwxupB2jLuvRNjMD65xOeShuDOK+GTmTTpBUFrQ3mTyLGAQ0xyfjmHKv8FmTSZ6/SYfVMwcnU6kpq421F2rbw2+oNECMPTzdceDw/hW+35tNw8SLsTbfiT7E3a7Slxf0ECc/r+wZk17Mc3ZIfE0UlfpBg91MUCuw==;gJd4kBUPknYN4vYwUVXRWw=="
 ---
 

@@ -2,15 +2,13 @@
 category: news
 title: "Sweden's Ericsson, Telia present self-driving bus ahead of 5G spectrum auction"
 excerpt: "STOCKHOLM (Reuters) - Telecoms gear maker Ericsson ERICb.ST and mobile operator Telia TELIA.ST on Thursday showcased a self-driving, electric bus in Stockholm as the companies look at new business ..."
-publishedDateTime: 2020-09-24T16:25:00Z
-originalUrl: "https://uk.reuters.com/article/uk-ericsson-autonomous-idUKKCN26F2WN"
-webUrl: "https://uk.reuters.com/article/uk-ericsson-autonomous-idUKKCN26F2WN"
-ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKKCN26F2WN"
-cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKCN26F2WN"
+publishedDateTime: 2020-09-24T16:27:00Z
+originalUrl: "https://uk.reuters.com/article/uk-ericsson-autonomous/swedens-ericsson-telia-present-self-driving-bus-ahead-of-5g-spectrum-auction-idUKKCN26F2WN"
+webUrl: "https://uk.reuters.com/article/uk-ericsson-autonomous/swedens-ericsson-telia-present-self-driving-bus-ahead-of-5g-spectrum-auction-idUKKCN26F2WN"
 type: article
-quality: 70
-heat: 80
-published: true
+quality: 50
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -25,9 +23,9 @@ topics:
   - AI
 
 images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200924&t=2&i=1534799334&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8N1NF"
-    width: 726
-    height: 545
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20200924&t=2&i=1534797552&r=LYNXNPEG8N1N1&w=800"
+    width: 800
+    height: 600
     isCached: true
 
 related:
@@ -48,6 +46,6 @@ related:
         height: 545
         isCached: true
 
-secured: "Z+THK8un+YkIpjXiY17OAHqAHxOvJu8BS2hTTWl8UHlR+2r9VxIrmQ+qw9Sk6g71RRdhKHxP+4+wa7wpNK/sg91pSnto2bOA/G64O0XCjnm5S1VXqONAQr1SEn8HQipPY1zwtx/I9qmAh0wGpzZuFzwZJ3E/ht+LE4hjBrk70BwiBMi8xfyMAS32aIoDMYOx54fmsBXGQPCpDaZx+vm+A2+B6QQuEKp2GQ/yS/INRZHBPeh32poewesOO6argwDhAZuMJLLGtHtLUW9/F5CDJFp+WObTrUZMw1mXOfNqDTFIQvYhisBcgkundU6YJeq8KysFWPiw6Mp83XIPqKMFXhZK/PhAY5dukt4Dr0cXNO0=;C6iq6pirCVVrIZTLr/g5mw=="
+secured: "U6RZawbzMmqGrxw/eMx3MCA7QG33N/RaPjHF3d7OJShmYXN4TtDspNG3+qmtP381ZTHTFMTjNPLnV3idHvF4HLv4IxCpNuM8OfAX3DyWYoIPYprsEn/GjRfMksXQGZEdOIa7qMQO8GetcdnV0SYR6io2ikV4X8boqeS0INfjkZG1mVZriOKPTaRiCm3ABkrXaWk35UH43T/1por9RuLwm6oFnH/JS6hGidObOMNu8YpGNw11Wd4nPoO6HI6b6uToj1skkn2bNlAL5oOuzLrNTQCTPJ8G+iQV3HnROvi+IiqEFByLrnNgSJfS9WJoykr01TgzSG+VlSgZKTQBJ/nZOgMroo50r19gKfhYOpNFtXs=;ou7fOtMVmfctH2cKXGOdZA=="
 ---
 

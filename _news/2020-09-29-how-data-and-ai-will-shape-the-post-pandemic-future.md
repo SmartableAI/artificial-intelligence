@@ -56,22 +56,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How To Dress For The Pandemic, Surprising Trends From The Stitch Fix AI Fashion Forecast"
-    excerpt: "Stitch Fix is doubling down on its algorithms to capture $30 billion of retail market share they expect to move online over the next 12 to 18 months. Chief Algorithms Officer Emeritus, Eric Colson, shares insights on what AI is saying about the hot looks for the season."
-    publishedDateTime: 2020-09-24T01:53:00Z
-    webUrl: "https://www.forbes.com/sites/martineparis/2020/09/23/how-to-dress-for-the-pandemic-surprising-trends-from-the-stitch-fix-ai-fashion-forecast/"
-    ampWebUrl: "https://www.forbes.com/sites/martineparis/2020/09/23/how-to-dress-for-the-pandemic-surprising-trends-from-the-stitch-fix-ai-fashion-forecast/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2020/09/23/how-to-dress-for-the-pandemic-surprising-trends-from-the-stitch-fix-ai-fashion-forecast/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 78
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6bfa27c290560c57d1aa09%2F0x0.jpg"
-        width: 960
-        height: 640
-        isCached: true
   - title: "Rebooting the post-pandemic enterprise with AI automation"
     excerpt: "While 59% of these SCM practitioners currently use cloud infrastructure, only 28% have deployed predictive analytics systems and a mere 12% use AI technologies. A recent post by the VP of Azure's AI operations highlighted several other areas where AI can ..."
     publishedDateTime: 2020-09-24T09:36:00Z
@@ -89,6 +73,6 @@ related:
         height: 980
         isCached: true
 
-secured: "yM+pC5HC92DsRV6CoUyXPYs1ptWnhGTrcrWCIb64R3WY4v97BRBGytonU+hto2l7lxDWe14kWH83UCW4VcywmkTIm0ZrcRWYlcO57dWV5WydYW6SJe72X/6L4Ic4onQTH6UhlcMFXZ/PKwKEK8oXCxL80+LjTI5UvdfsbWzcsUEorHJIZ0BK0YvZq7MJKNwivYlbV+HwY+0vt/iNVEn7tIMYMuxE34UlUrQR3rIE3KKtm3xxWvPasfHRW/aqeUaYZQDdfocaheiG5fjFFCr+iArx99UGXuPPU/4N/oeSRF3MHdlLNaShKmrblctdQ8rjtwfpjpoo5o/SJ+FgutMg8Di0EgSohhZiDk00eakuows=;xiasgJengyk+gV3X2SDtHg=="
+secured: "eamxF4scesHwAklpfEl7q2VN3FuKkxzGEkXONUgo/DVnlLKUVW5cGOPhcmcGFLCu9eBYQSh10bbk+lvl2N/UsCHUmfZ1UqWwXSZeE1EQrtkK4KtQBllItnq1+Zo5r0hj72FaMNo5qXiJIunOzVpb/d4Ypz6bholbFM9vNpc/poX/th3XBjUD5oQzT7feu3J9z6PzJldLmy+Cyl3TS761dB5mnD0b5A3eFwy1PrH8xkI+I9IkizQmfH2roXIn3rfVH5ozfYg5lu0AX8TzrNkigJLCw+8pwIQBkLvDbeVH+ktRAluu21ECqGSQstIFBZQSf+zEFC9hSwd+TTkCpoJpMx6cEpj4+7DEksFCwYto32m4IJtLN39UPOz4zLn6PJHKZYaaRN8vbfIbt8nql41cmBnRhKLiH/9iK8LhVH64qvfeB0pLuHYI1WmfXsaNvENSCeCRXKDyYIibN9s9Dk/V28kjk2ZWETHk/DCEBdXj5rnLj+i2PsF9+gHh+voFzOFpdeoA5uv9wNiYn1LmPvbg3Q==;6TG8o1C1aNS394GXJ53hWg=="
 ---
 

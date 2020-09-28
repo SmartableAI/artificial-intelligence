@@ -172,6 +172,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 54
+  - title: "Microsoft launches Azure for Operators to expand connectivity"
+    excerpt: "Microsoft announced intent to expand connectivity, including 5G, by working with network operators to launch Azure for Operators"
+    publishedDateTime: 2020-09-28T18:51:00Z
+    webUrl: "https://www.information-age.com/microsoft-launches-azure-for-operators-expand-connectivity-123491849/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 54
+    images:
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2020/09/microsoft-launches-azure-for-operators-expand-connectivity.jpeg"
+        width: 1080
+        height: 675
+        isCached: true
   - title: "Microsoft unveils communication platform to help users connect better with businesses"
     excerpt: "In an effort to help customers connect better with businesses in the remote working times, Microsoft has announced Azure Communication Services which is the first fully managed communication platform offering from a major Cloud provider."
     publishedDateTime: 2020-09-24T07:05:00Z
@@ -261,6 +275,6 @@ related:
         height: 1200
         isCached: true
 
-secured: "V+dzq2UVlCq4F3IrZP7MchEFMC1GtOzjO4LAyHRImbSC/JOPxPTc+P1GcLeWQvby2wjgl8F0NQpC3OwPUm+GPhuV15H8y2KHQ46TQhTR2mJVH7CC0TtNXSsi67XRsGuaPvsLGgJoCM0LP8ok+d4vRONOkA1vbJ4NHIg6OSJXuGH6DuphKX6fREQRoBGMhqaqC09L1r4dIL3/MhbTPOXUiqVRowiBCfg7sB4h1t4dP/g60Tn4/fZIlt3msZNrxwavQUXK01F++uqmcL7tyA6Il0TOTkib79tifLd9nkSd9bu3e0dnekYmVGQTsc9s4MK5/5iCc2uybUYrJon+0zuIHWpw3HsLWZozbn2cjB8JTGI=;RLfZRfOVYSHeb5TcYE6Euw=="
+secured: "z76kUYzo1R7UXpkUw4AN1sp+BsdBY4F/tybBdBCcoQClwOUWqxEVdGlgfA4LZvzOHrDd00T0uXrYLsFHDqp8Bl+TmHcOsuFtN3cc/GWhhzCnYoWXBgNweJa8wYm/K53NTrzKDzfAz7R9NOt3PmmccvjezsXLCzNpZGXR0O+7tTT1z4BvNwaFpYDODS1lEKrcE2wxemb8k/fywyhgw5ZBFfyBMSiWN8PblzdH9TU+JVaFXrW3owOJ4w3RPCtnit/06MZxjMojuo2WieiUOvf6ddmy8d4dDTFYKWHbv+ZYGgQzTxUiUqmR3VsJv+rkCS2uCur+5YdaTF2Wf1C5qyrHFgyZeA//t04lgom3ewilg2fu3uPsAQXd39aMg/Of2QLmwkBKlSbHsEA+uW2jd561gzjTeA0zLWAXYLFLAn17s3xvuyVTNFc13us6/FYdIPxe5V3XkPd4jlOww6J5+dSWQIXLdusV580CN+dU7JRXzD2uMVKX0FL0t7EyygvboBMsR4//CtgAw2vrpbzGp6L3sw==;aNvJn76YqAncwuPcElzmTg=="
 ---
 

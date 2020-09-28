@@ -24,22 +24,6 @@ images:
     height: 901
     isCached: true
 
-related:
-  - title: "Qualcomm Unveils Snapdragom 750G 5G Mobile Platform with HDR Gaming and On-device AI"
-    excerpt: "Qualcomm Technologies on Tuesday announced a new 5G mobile platform in the 7-series, the Qualcomm Snapdragon 750G 5G Mobile Platform"
-    publishedDateTime: 2020-09-24T01:31:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/18075-qualcomm-adds-new-5g-mobile-platform-to-snapdragon-7-series"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 32
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/ff1fd2afd5ad40e61d1f97f900b92c7e.jpg?t=20200924_012159"
-        width: 752
-        height: 408
-        isCached: true
-
-secured: "CQQPUKmbg3t5Ik+9d8sjhTa2P2JhfnzPNHzgJ4820inhvjxOlnkgQ6PIuG75BKsIcBkROQR53/fG8HdjGkaTSKZdRFf6ogbHr2KpfLsBrVFA0S8mHBLco3ydo57HvSTvnhoCINIz9myedGFk9aUlrv7ktjTBGtlYKipKnzS0WnN51RD9JH1hS4tFdctRDHgywgPejqlwAXcEkvMRELvYeuZ9eJq3lVHEaYxoZn/mea2R+H4by3bMPTXBJeajOtdqijZaKD4JEhZ4J9ZcaTPWrI68xoogfY36CTnVYGYoZawFVRN4uh6ScrQsvqJ9Daxn77fJQ5hM5oZhmmPuttq/7SMfAUz/rX8N5QlakDf74F8=;rKk79N6cuwHx24x5+S7I7g=="
+secured: "OpXCzhnmyPJjhid6/J0DzfIO11RB+s1Ak1q3t9UlrWpZ6W2mlFbjtQRmo4rKi0ianMxdZRSVPy8yGxg4PN0fiLIZhCJoPItX4yd1XHIpTU30kDHK6Qb2VBP8SAeuY+pex38Pcl8QR3CTWlqeGlAylvHw11lE6yG7g50jNJ+82bMERn6M3pszAv6SPqz6Br86zhbdc+lgLH7CYd6pFeWqleu1h/gIAM5i9pAsAnnVY08XNDIaVsbsKAMY2H1FP8iEBwKHXfbEgpOsB1Od8EqI7DS2pzbt+rOg80V74xHa5v2MHrM2Xmtk/hyRYELQDsUTmtvzHmqL1uDzo8LxCVVRpFHAzv6xNvg6OwYkx2s/tD37kouaPE48Pdz4f3xxj53EgYost+tok9354Vo7NBz86f+5WE9Q1BI+iOkVo376m+sFMCPHT3lGDBSiApKj0/a5HaWZjr8VEtxEJEq1mLhBT9+Xlt+xmKj88x1EbUpu9tNxEKxlhI7E+Ms9HVQbpGXfq+/9kAvbrGDWKPHlBVTL2w==;PcSD9Lzt3jOltuqSTazqsA=="
 ---
 

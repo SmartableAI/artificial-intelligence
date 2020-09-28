@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How To Dress For The Pandemic, Surprising Trends From The Stitch Fix AI Fashion Forecast"
-    excerpt: "Stitch Fix is doubling down on its algorithms to capture $30 billion of retail market share they expect to move online over the next 12 to 18 months. Chief Algorithms Officer Emeritus, Eric Colson, shares insights on what AI is saying about the hot looks for the season."
-    publishedDateTime: 2020-09-24T01:53:00Z
-    webUrl: "https://www.forbes.com/sites/martineparis/2020/09/23/how-to-dress-for-the-pandemic-surprising-trends-from-the-stitch-fix-ai-fashion-forecast/"
-    ampWebUrl: "https://www.forbes.com/sites/martineparis/2020/09/23/how-to-dress-for-the-pandemic-surprising-trends-from-the-stitch-fix-ai-fashion-forecast/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2020/09/23/how-to-dress-for-the-pandemic-surprising-trends-from-the-stitch-fix-ai-fashion-forecast/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 78
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6bfa27c290560c57d1aa09%2F0x0.jpg"
-        width: 960
-        height: 640
-        isCached: true
   - title: "How data and AI will shape the post-pandemic future"
     excerpt: "Data science and AI are not only accelerating COVID-19 research and recovery today but helping organizations uncover insights and opportunities to succeed in the new normal."
     publishedDateTime: 2020-09-28T17:44:00Z
