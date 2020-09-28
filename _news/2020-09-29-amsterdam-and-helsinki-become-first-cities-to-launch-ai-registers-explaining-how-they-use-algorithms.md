@@ -9,8 +9,8 @@ ampWebUrl: "https://thenextweb.com/neural/2020/09/28/amsterdam-and-helsinki-beco
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/28/amsterdam-and-helsinki-become-first-cities-to-launch-ai-registers-explaining-how-they-use-algorithms/amp/"
 type: article
 quality: 72
-heat: 82
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Next Web
@@ -40,7 +40,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 72
+    quality: 74
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/09/amsterdam.jpg?w=1200&#038;strip=all"
         width: 1200

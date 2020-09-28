@@ -147,20 +147,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Microsoft announces Azure Communication Services"
-    excerpt: "It also enables developers to easily tap into other Azure services, such as Azure Cognitive Services for translation ... and GDPR (in the EU),\" Microsoft said in a statement on Wednesday. Azure Communication Services makes it easy to add voice and video ..."
-    publishedDateTime: 2020-09-24T04:55:00Z
-    webUrl: "https://www.sify.com/finance/microsoft-announces-azure-communication-services-news-topnews-ujyeO9fgegihh.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 54
-    images:
-      - url: "https://www.sify.com/uploads/microsoft_ap_uitr0fihdhehb.jpeg"
-        width: 950
-        height: 633
-        isCached: true
   - title: "A Microsoft-powered instant two-way translator"
     excerpt: "Powered by Microsoft's automatic speech recognition software and OrionStar AI Technology, the device is meant to provide users with instant two-way translation in 73 languages while displaying text on a 1.54\" IPS-LCD touch-screen, which offers a text-to ..."
     publishedDateTime: 2020-09-25T07:42:00Z
@@ -245,20 +231,6 @@ related:
       - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2020/03/iStock-458544341_dqOApoY.jpg"
         width: 1254
         height: 836
-        isCached: true
-  - title: "CORRECTING and REPLACING SES Becomes Microsoft Azure Orbital Founding Connectivity Partner"
-    excerpt: "... will enable our partners’ customers to on-ramp their data into Azure where it can immediately be processed with market-leading data analytics, geospatial tools and machine learning services, adding another layer of automation and intelligence in ..."
-    publishedDateTime: 2020-09-24T04:35:00Z
-    webUrl: "https://www.businesswireindia.com/correcting-and-replacing-ses-becomes-microsoft-azure-orbital-founding-connectivity-partner-69652.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 44
-    images:
-      - url: "https://mms.businesswire.com/media/20200922005927/en/823710/4/SES_Press_Release_SES_Becomes_Microsoft_Azure_Orbital_Founding_Connectivity_Partner_image.jpg"
-        width: 480
-        height: 310
         isCached: true
   - title: "Top Announcements From Microsoft Ignite 2020 Conference"
     excerpt: "Microsoft announced a flurry of updates targeting their Azure cloud services. These include healthcare, edge and more."

@@ -147,20 +147,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Microsoft announces Azure Communication Services"
-    excerpt: "It also enables developers to easily tap into other Azure services, such as Azure Cognitive Services for translation ... and GDPR (in the EU),\" Microsoft said in a statement on Wednesday. Azure Communication Services makes it easy to add voice and video ..."
-    publishedDateTime: 2020-09-24T04:55:00Z
-    webUrl: "https://www.sify.com/finance/microsoft-announces-azure-communication-services-news-topnews-ujyeO9fgegihh.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 54
-    images:
-      - url: "https://www.sify.com/uploads/microsoft_ap_uitr0fihdhehb.jpeg"
-        width: 950
-        height: 633
-        isCached: true
   - title: "Microsoft Azure Sentinel Now Analyzes User and Entity Behavior"
     excerpt: "Microsoft has updated its Azure Sentinel security service to give users more reasons to send expensive analytics data."
     publishedDateTime: 2020-09-24T14:27:00Z
@@ -246,20 +232,6 @@ related:
         width: 1254
         height: 836
         isCached: true
-  - title: "CORRECTING and REPLACING SES Becomes Microsoft Azure Orbital Founding Connectivity Partner"
-    excerpt: "... will enable our partners’ customers to on-ramp their data into Azure where it can immediately be processed with market-leading data analytics, geospatial tools and machine learning services, adding another layer of automation and intelligence in ..."
-    publishedDateTime: 2020-09-24T04:35:00Z
-    webUrl: "https://www.businesswireindia.com/correcting-and-replacing-ses-becomes-microsoft-azure-orbital-founding-connectivity-partner-69652.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 44
-    images:
-      - url: "https://mms.businesswire.com/media/20200922005927/en/823710/4/SES_Press_Release_SES_Becomes_Microsoft_Azure_Orbital_Founding_Connectivity_Partner_image.jpg"
-        width: 480
-        height: 310
-        isCached: true
   - title: "Top Announcements From Microsoft Ignite 2020 Conference"
     excerpt: "Microsoft announced a flurry of updates targeting their Azure cloud services. These include healthcare, edge and more."
     publishedDateTime: 2020-09-25T05:42:00Z
@@ -275,6 +247,6 @@ related:
         height: 1200
         isCached: true
 
-secured: "hprZUxhe2k612/wKuiH+3XV6Fy0tcwV3WIX9keYjkcl6QV6NXRH6utEWF2KZTSS5AeOEXzQ8OJrhqe8VlOJIKW7SElOMjyfwqjdCSQFdPNxCNncX7xXpFacqoC0Ayueg1hzjpUkpAsrDc3U9858FHmZT1C1l3ukTFxWBcCMY5erctsW074Ox4toTZkMUCwlbEm6Um2tPZ9ZUHVwHaLKhVGsFigreUB2MiVkCT+1NSOZOAjlsrh3nQK/hMEGq6EaHsY0iRFTDXdFNMp3Cnjo1wtgvhJTTr1pmK5GCjNblEuzOrMVDGYbz+J/ScTqcapb+eaMr9M/7cJfjj/vDArykreEEgo8NwD+Eu8rh1kqUrMI=;HK63sc7C6BNwtGEieG40kw=="
+secured: "dbj0cGQy/5He4eoZlzcR3s1DQ8fucti960L9RupPpXRH6fbfTptpb3fIibDfvA065wlz8RzW3bCzQDR3QojzGRfP9ar/BzKR4ad/1snAj4XEhFpPr2PraM9o27Lbdn6iTzjyn2R5zFon+N+rA1YZJv0FeRGXoC9bTrWAM/PCFn1i7FFNSx6AvW1hcudIHdzPAJTM+oKFGO0xXIZA6MWkPZHY1zPSPB5N+uSen6USOE8uP7yqlL4p+5WrRJzwPIOSSBTC5WjCulyZlnK2ZQPCm1zac2IgQGpZ6Z5lCCjIa99o2UM1aevBdux7kKjKRBsOSIo76ti5mVaiQvmoEuYZ3ahqZw3II5xKm7VTnmVUMtk1iU1tcgonrUGpuCJQFLvXL3TJckqRMQnMpLqosj1yWBtAdtjdfyLO1WVafj1ilrYPiEmWxgeM44IDV/ZvNk586S1iLkqiNt2LqUOFR0RnAwTs01Kh8bU5sL7wL+QuqE3YEpNGaZT5hUsMDNwuA3vr1LFdf4HGYhJlYoIJP6t3oA==;pbdiDHxUmrISNGBrXGAQ2w=="
 ---
 

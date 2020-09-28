@@ -3,10 +3,10 @@ category: news
 title: "Sweden's Ericsson, Telia present self-driving bus ahead of 5G spectrum auction"
 excerpt: "Telecoms gear maker Ericsson and mobile operator Telia on Thursday showcased a self-driving, electric bus in Stockholm as the companies look at new business areas ahead of mass deployment of 5G technology."
 publishedDateTime: 2020-09-24T21:29:00Z
-originalUrl: "https://www.reuters.com/article/us-ericsson-autonomous-idUSKCN26F2V6"
-webUrl: "https://www.reuters.com/article/us-ericsson-autonomous-idUSKCN26F2V6"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26F2V6"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26F2V6"
+originalUrl: "https://www.reuters.com/article/ericsson-autonomous/swedens-ericsson-telia-present-self-driving-bus-ahead-of-5g-spectrum-auction-idUSL5N2GL30G"
+webUrl: "https://www.reuters.com/article/ericsson-autonomous/swedens-ericsson-telia-present-self-driving-bus-ahead-of-5g-spectrum-auction-idUSL5N2GL30G"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL5N2GL30G"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL5N2GL30G"
 type: article
 quality: 70
 heat: 80
@@ -46,6 +46,6 @@ related:
         height: 600
         isCached: true
 
-secured: "/0iIb00CCywkvm9EEemPO5PSR5ThDuMJ6w1nx4z0DT1mez1EfJE8I2Xkdt8PhTgPOjEKeyDfwk8JFrWTZPPTYR8AJQrGtSym8bQcY/FEwab0hDcXO7rec+6nlFxvg4gZUFJMvEJ26btS8/+23/ZIdtGEWTAojCGjVtc5POgW6Vz0ycMmC6g/f9/VGZzvZ1mlke9OV6kT0SkplUSGae5AYRDiTb8/SFlazdcCus/xJi2oRFsfsdftrbsNhbeclxiUU0M9SmnMPr8YFlphgjoP/CqjPR0wPc+594w43QLp7vpa7OZNDJ3H7pew5gTq6qeHCJ4fZDbZgaWTSfg+LHSyjNajxXbLd+XoUhKS51NywdemXiNFoEwfdl3KC/YwP7klX5xJRgNOSu4rn6OnvumRt2whwdtVrHzqIC96/PA2UvABvHAdafbLMNObT6elibGNfLnZ0DCnJEe63I0klqlW+DDW5xCwpmTTPNU2+r1gHfJ8VvasTNS2b7hp4t1ZiEvL1oSxW8Ibtu4FzsyhS+vwiQ==;Nj5DsjlQCXMPIPTJ3myg7A=="
+secured: "alWi4hgQusKVP6BS/4JCbLTpzMLaxIi0mKM1xx2eTbVaBloJb6n1ppRibV59QZA6c0s2eyPtR7vfooR9tNacq+LUM76bda7GKSc2J2Z4+XGVw+DNwE46eMyyFOnM4Zc8DtaaUJDg5rChA6oThkePcUnb/4dYcKkuMka5KPz8/wkcCJQ3TyJkIP9Bif5QS6WoioK1EZ43E9Hwa01uOP1GiEYqMTzq8bKZ2BUNK9pdmRKjwVhGwOXOPyAlG4PtClIPPJ9FzpalvFuw3iH8x7x+gKzkqV7mS4k/p/l443ySUIkEyn8CH6XkL8cgZNPdOSCYFMe1mcxs9w/MMNPTaA9+vxj76hsgTn8/ex6QYRPyFtk=;oBmqNkCKR+yGsJQTSQIqsA=="
 ---
 

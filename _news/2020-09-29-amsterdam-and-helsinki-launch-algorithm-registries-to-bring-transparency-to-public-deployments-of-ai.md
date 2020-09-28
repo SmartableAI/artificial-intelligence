@@ -8,9 +8,9 @@ webUrl: "https://venturebeat.com/2020/09/28/amsterdam-and-helsinki-launch-algori
 ampWebUrl: "https://venturebeat.com/2020/09/28/amsterdam-and-helsinki-launch-algorithm-registries-to-bring-transparency-to-public-deployments-of-ai/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/28/amsterdam-and-helsinki-launch-algorithm-registries-to-bring-transparency-to-public-deployments-of-ai/amp/"
 type: article
-quality: 72
-heat: -1
-published: false
+quality: 74
+heat: 84
+published: true
 
 provider:
   name: VentureBeat
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/09/amsterdam.jpg?w=1200&#038;strip=all"
@@ -47,6 +48,6 @@ related:
         height: 417
         isCached: true
 
-secured: "CvRUReu3hgfrV8mKSc6RXHK+VgqhZ8ggNVhr3NOLpoAUGBIl6X2SiJZCVNp4VM24XY/QUqnmwo0jvMja/X5IHAXW9oXEmIcH2MgAi8rLGoszVrf2EtTs8lWyFYEJkBmnvSOfZyDLgTADkPV6yzeVI7dJszKbXRzBRp16glSkgi1+VcDUmlPRL2w66IDi+tSEtro7XGRmgGIp/ZNCQUCkRIvJd9SeDuX+kmKxntZaBVmUum4+R4X0/hn9RsfXu1DR2UW20MmkAZXBQtt6vZo7aheQgto2wKKoCNybJlb3Anwl6JpqloXSLh6ZGmNBYeBga7x109/QhY/URYXq0rRx2dKnEiDZs9iaLBGlFO+64xM=;JUx7LwV4VKL+cFZa2mnjow=="
+secured: "VhDntqkgOU7eiHQ44mN0A43k53Q1GgCcItNqiMOQE2bq84xj1/ooVa6djDvX/sRFW6HcT6mdlx9+PObJ99R7MoEtcB4R5egMPS3AwsqJ/pw94j2ULPAskxuLqSbZ58i56sQyGhN77xzKaCKXXMN6gtG9gJHpS/WAosYjfZCwA/LtVZqmEV73d+sdbWE+uPYLL6lZ8YSS0r331aL1XoSq3g5576075Z6ZyOI8vW+TcFVQSb2seQhADKw8I+ZvPG0pFu/LZlC6EElatJZgnJ+OtUkXBRuJ5WNrrHE+Jl/GmkX5/kRHAIc/Z0k7RRhR0sY0uTmuqiyEvT6FFtPv1p567KfKFDtnbO41UqHoHUAJb7drlO5K/rQqfzUi31u2+kLWcoPcozwQXlIudKMmmLO7fGnd+9yhso5zGByOnqIWVIaqUg8TV9FPQSVbQ69skOdO6gywh2XMbPnw25gzLflsual84yKdScS/BGdGgMRmWavJ7SPb9i23TbjTe6zFHwqyTej+Eec0Fc7O5mzLVPZ4bQ==;a6t+g1/OIMHa67SJrifhCA=="
 ---
 

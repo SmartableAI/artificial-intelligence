@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 643
         isCached: true
+  - title: "Artificial intelligence can help protect orchids and other species"
+    excerpt: "Many orchid species are threatened by land conversion and illegal harvesting. However, only a fraction of those species is included in the IUCN Red List of Threatened Species, because assessments require a lot of time,"
+    publishedDateTime: 2020-09-28T20:49:00Z
+    webUrl: "https://phys.org/news/2020-09-artificial-intelligence-orchids-species.html"
+    ampWebUrl: "https://phys.org/news/2020-09-artificial-intelligence-orchids-species.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-09-artificial-intelligence-orchids-species.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/5f721d610498b.jpg"
+        width: 1500
+        height: 2000
+        isCached: true
   - title: "Edge AI challenges memory technology"
     excerpt: "With the rise of AI at the edge comes a whole host of new requirements for memory systems. Can today’s memory technologies live up to the stringent"
     publishedDateTime: 2020-09-25T13:51:00Z

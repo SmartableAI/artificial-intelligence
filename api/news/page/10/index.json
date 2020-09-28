@@ -2,6 +2,224 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-09-18-driver-found-asleep-as-self-driving-tesla-car-breaks-speed-limit-cops.md",
+      "title": "Driver Found Asleep As Self-Driving Tesla Car Breaks Speed Limit: Cops",
+      "excerpt": "A driver who allegedly set his car to autopilot and then took a nap as it broke the speed limit on a rural Canadian highway has been charged with dangerous driving, police said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/world-news/teslas-self-driving-car-breaks-speed-limit-after-driver-falls-asleep-in-canada-police-2297487",
+      "originalUrl": "https://www.ndtv.com/world-news/teslas-self-driving-car-breaks-speed-limit-after-driver-falls-asleep-in-canada-police-2297487",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2020-09/sbsv48b8_canada-tesla_625x300_18_September_20.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/world-news/teslas-self-driving-car-breaks-speed-limit-after-driver-falls-asleep-in-canada-police-2297487?amp=1&akamai-rum=off",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/teslas-self-driving-car-breaks-speed-limit-after-driver-falls-asleep-in-canada-police-2297487?amp=1&akamai-rum=off",
+      "publishedDateTime": "2020-09-18T02:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-in-a-facial-recognition-bill-backed-by-microsoft-three-words-stand-between-citizens-and-their-civil-rights.md",
+      "title": "In a facial recognition bill backed by Microsoft, three words stand between citizens and their civil rights",
+      "excerpt": "In Washington, the first US state to pass a law regulating facial recognition, it’s legal for government agencies to use facial recognition to deny citizens access to basic rights and services ...",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/1905159/microsoft-is-shaping-facial-recognition-bills-across-the-us/",
+      "originalUrl": "https://qz.com/1905159/microsoft-is-shaping-facial-recognition-bills-across-the-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/09/2016-07-19T120000Z_795300523_TM3EC7J0UK701_RTRMADP_3_MICROSOFT-RESULTS-e1600378171367.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://qz.com/1905159/microsoft-is-shaping-facial-recognition-bills-across-the-us/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1905159/microsoft-is-shaping-facial-recognition-bills-across-the-us/amp/",
+      "publishedDateTime": "2020-09-18T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-gpu-manufacturer-nvidia-buys-chip-maker-arm-for-40-billion.md",
+      "title": "GPU Manufacturer Nvidia Buys Chip Maker ARM for $40 Billion",
+      "excerpt": "Chip giant Nvidia, which specializes in making hardware for video game consoles, GPUs for graphics cards, processors for the AI industry, and whose chips are utilized by the crypto mining sector ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.bitcoin.com/gpu-manufacturer-nvidia-buys-chip-maker-arm-for-40-billion/",
+      "originalUrl": "https://news.bitcoin.com/gpu-manufacturer-nvidia-buys-chip-maker-arm-for-40-billion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.bitcoin.com/wp-content/uploads/2020/09/gpu-manufacturer-nvidia-buys-chip-maker-arm-for-40-billion.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-18T01:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bitcoin.com",
+        "domain": "bitcoin.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-microsoft-to-skill-10-lakh-indian-students-in-artificial-intelligence.md",
+      "title": "Microsoft to skill 10 lakh Indian students in Artificial Intelligence",
+      "excerpt": "Online sessions for the series are set to commence on September 21 via live demos, virtual instructor-led training, and hands-on workshops.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/microsoft-to-skill-10-lakh-indian-students-in-artificial-intelligence/article32638573.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/microsoft-to-skill-10-lakh-indian-students-in-artificial-intelligence/article32638573.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/sci-tech/technology/r3m963/article32638442.ece/ALTERNATES/LANDSCAPE_615/AIseries1",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/microsoft-to-skill-10-lakh-indian-students-in-artificial-intelligence/article32638573.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/microsoft-to-skill-10-lakh-indian-students-in-artificial-intelligence/article32638573.ece/amp/",
+      "publishedDateTime": "2020-09-18T01:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-an-ai-for-an-ai-artificial-intelligence-wars-loom.md",
+      "title": "An AI for an AI: Artificial Intelligence wars loom",
+      "excerpt": "The technology is at risk of being appropriated by an oligarchy, which may not include just companies. Countries are in an arms race for AI supremacy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/editorials-columns/an-ai-for-an-ai-artificial-intelligence-wars-loom",
+      "originalUrl": "https://www.khaleejtimes.com/editorials-columns/an-ai-for-an-ai-artificial-intelligence-wars-loom",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.khaleejtimes.com/storyimage/KT/20200918/ARTICLE/200918891/AR/0/AR-200918891.jpg&NCS_modified=20200918084506&exif=.jpg",
+          "width": 1200,
+          "height": 605,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.khaleejtimes.com/editorials-columns/an-ai-for-an-ai-artificial-intelligence-wars-loom",
+      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/editorials-columns/an-ai-for-an-ai-artificial-intelligence-wars-loom",
+      "publishedDateTime": "2020-09-18T00:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-tesla-driver-20-charged-after-found-asleep-at-wheel-of-self-driving-car-traveling-over-90-mph-cops.md",
       "title": "Tesla driver, 20, charged after found asleep at wheel of self-driving car traveling over 90 mph: cops",
       "excerpt": "A Canadian man has been charged after he was found asleep at the wheel of a self-driving Tesla traveling over 93 mph down a highway in the province of Alberta, authorities said on Thursday.",
@@ -959,242 +1177,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-computer-vision-company-chooch-ai-makes-breakthroughs-in-edge-ai-in-speed-accuracy-and-scale.md",
-      "title": "Computer Vision Company Chooch AI Makes Breakthroughs in Edge AI in Speed, Accuracy and Scale",
-      "excerpt": "Chooch AI, a horizontal computer vision AI platform, today published the latest video presentation of an expert panel with Convergint Technologies and NVIDIA. Chooch AI is a member of the NVIDIA Inception program.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/globenewswire-mobile/47b59cde3e91723c62f05905b28641bf",
-      "originalUrl": "https://apnews.com/globenewswire-mobile/47b59cde3e91723c62f05905b28641bf",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-17T05:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-how-artificial-intelligence-is-helping-companies-identify-nail-new-product-opportunities.md",
-      "title": "How Artificial Intelligence Is Helping Companies Identify & Nail New Product Opportunities",
-      "excerpt": "The best and most cutting edge examples of how firms are using AI in the new product & service development process to identify and optimize new business ideas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michellegreenwald/2020/09/17/how-artificial-intelligence-is-helping-companies-identify--nail-new-product-opportunities/",
-      "originalUrl": "https://www.forbes.com/sites/michellegreenwald/2020/09/17/how-artificial-intelligence-is-helping-companies-identify--nail-new-product-opportunities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6205e8a15156fd3358e745%2F0x0.jpg",
-          "width": 1200,
-          "height": 609,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-17T05:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-ibm-watson-assistant-can-help-states-deliver-critical-voting-information-to-citizens.md",
-      "title": "IBM Watson Assistant Can Help States Deliver Critical Voting Information to Citizens",
-      "excerpt": "IBM) has technology to help states use the AI capabilities of Watson to put this critical data and information directly into the hands of voters. With states facing a deluge of information ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ibm-watson-assistant-can-help-states-deliver-critical-voting-information-to-citizens-2020-09-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/ibm-watson-assistant-can-help-states-deliver-critical-voting-information-to-citizens-2020-09-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-17T05:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-ibms-watson-assistant-can-now-field-election-questions.md",
-      "title": "IBM’s Watson Assistant can now field election questions",
-      "excerpt": "IBM is teaming up with states to deploy a Watson Assistant solution that answers questions about the election via phone or online.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/17/ibms-watson-assistant-can-now-field-election-questions/",
-      "originalUrl": "https://venturebeat.com/2020/09/17/ibms-watson-assistant-can-now-field-election-questions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/17/ibms-watson-assistant-can-now-field-election-questions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/17/ibms-watson-assistant-can-now-field-election-questions/amp/",
-      "publishedDateTime": "2020-09-17T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-powering-up-the-transition-to-a-new-energy-world-eon-ai-and-digitalisation.md",
-      "title": "Powering up the transition to a new energy world - E.ON, AI and digitalisation",
-      "excerpt": "There’s a bold statement of intent on the homepage of the E.ON corporate website: We are going to be the energy company that supplies energy for the digital age. In pursuit of that ambition, the energy giant has embarked on a number of digital transformation initiatives in recent years,",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/powering-transition-new-energy-world-eon-ai-and-digitalisation",
-      "originalUrl": "https://diginomica.com/powering-transition-new-energy-world-eon-ai-and-digitalisation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2019-06/EON.jpg",
-          "width": 466,
-          "height": 335,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/powering-transition-new-energy-world-eon-ai-and-digitalisation?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/powering-transition-new-energy-world-eon-ai-and-digitalisation?amp",
-      "publishedDateTime": "2020-09-17T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

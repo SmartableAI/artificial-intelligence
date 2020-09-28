@@ -57,6 +57,22 @@ related:
         width: 873
         height: 539
         isCached: true
+  - title: "Artificial intelligence can help protect orchids and other species"
+    excerpt: "Many orchid species are threatened by land conversion and illegal harvesting. However, only a fraction of those species is included in the IUCN Red List of Threatened Species, because assessments require a lot of time,"
+    publishedDateTime: 2020-09-28T20:49:00Z
+    webUrl: "https://phys.org/news/2020-09-artificial-intelligence-orchids-species.html"
+    ampWebUrl: "https://phys.org/news/2020-09-artificial-intelligence-orchids-species.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-09-artificial-intelligence-orchids-species.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/5f721d610498b.jpg"
+        width: 1500
+        height: 2000
+        isCached: true
 
 secured: "xt6DJHRr9iubKzbh4OYE7EYKhsfxZG2IpaFothxNy4HALyejTYKXH10JxlCcEuRiWVcGn1pz0jKOsXzooZXb4UpGJnDsrBNGMODpi9YvdUNps2HYZMvczH8BdcrHH86QjQcOjejpXpLJt7z9TWByLEHuXS7/S6+RvNeq+mRVyl569fse+JFh3Fhvoe8oTVydqyVU9UIiI0gsCEVR9EJTcwzfNoaGv8fVWXWyqyrtyZRG4vupbKaZARsglCoKbq10JHVtW5EQW2QOguc3Lh++WXneWvZlgn8ca5c5NLtD5LVkA9gbjwvJazi/oreHr+jTTCpsvU8HiMi51SntHfszjcmMdkjB3XcSxE0WOEZcANScjl4t/FwUji1DJSlY2nrLvqW0/Sb1IMF35LKsdjUCoNUL3uC2MpKQRbWuCGwQxEfaJtUWCr6YDuAiG2fhEjJr3LAJFSCbrCn+h63GcqOibM0vcRwNckt1rIsNTzFtmyILt31zdXW5CWL+FxJ7ZfzSp95KOFjSyxwxzFRShkeJsA==;ABGgHV8YarU455MKFnNgvg=="
 ---

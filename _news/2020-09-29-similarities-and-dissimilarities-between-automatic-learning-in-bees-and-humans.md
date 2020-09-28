@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Similarities and dissimilarities between automatic learning in bees and humans"
-excerpt: "This study provides the first systematic comparison of automatic visual learning in humans and honeybees, showing that while both species extract statistical information about co-occurrence contingencies of visual scenes,"
-publishedDateTime: 2020-09-28T19:19:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-09/ceu-sad092820.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-09/ceu-sad092820.php"
+excerpt: "A new study in PNAS shows that bees share a capacity for automatic learning the complex statistical properties often experienced in natural environments. Previously this was thought to be a visual capacity only present in humans and higher-level species,"
+publishedDateTime: 2020-09-28T20:53:00Z
+originalUrl: "https://medicalxpress.com/news/2020-09-similarities-dissimilarities-automatic-bees-humans.html"
+webUrl: "https://medicalxpress.com/news/2020-09-similarities-dissimilarities-automatic-bees-humans.html"
+ampWebUrl: "https://medicalxpress.com/news/2020-09-similarities-dissimilarities-automatic-bees-humans.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-09-similarities-dissimilarities-automatic-bees-humans.amp"
 type: article
-quality: 20
-heat: 20
+quality: 40
+heat: 40
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/bee.jpg"
+    width: 1920
+    height: 1275
     isCached: true
 
-secured: "95BQ+56q3Oa4A9SRYlX5Tt6/PYYrD/FuXmJUYpi3hK//HP1Kr9+MvXNJSjeDYQH4/IoKypowzetmeVY0kAA4dijE+MualbEt9nzPeW7EYpGBWWqhDOnyTTaHiLX6U7Yp054mdb5aQiHt68UO5ob/p0j4lYtcQNT89EK5zz4aHbctJ5QS91hNURWlN2UESpziRwn0W3Z8ULxSeP8SHil0LXnltOp8b22rT8vRgKjR9aI5U7jgWe5DxNEv2i0TtpAIN0vgg/YrZ6LBj1plJwY8ua865XHADsjxjdDFR4XgjvuDEr+7C7y2eUSrL8jCgh9xM2IntiMBxYHum9/e13anYaKh5KPDj2qHNI5ANaquDhg=;D+kxrbHSGxL69JRUzRzZew=="
+secured: "Td8PsqBciGECrEA7DLIrLlO6XWia7ExBSNpvchWgbReZuIXpEwoUFRvO6Izxcmb39p0ubsbsPyyUj4+cVkrpnuQD8+vkt7U8Mo3vmj4zBjliNucwYW9m5++CqmhO3R6x/ME2g2NrYhwVZkuLjkV9zf9iW8P1Rn2e0wAdn5r0PdeauiGLERjiUKmSdNreWYIUZrXqJtoixrNR0bj6oz8h6s0nn5LH6nhptqwRvgvTMy9+8BGW+UXkIAKv99vYo/nKAenHL48DZZQh15nIQuL8kJpL8y+TD+abVBSjG7FRGpwdZqbVLTA/pzTlX7DnbNgKXQ1DqtnFCgTG8bbMIs91hciYGXcV8q4tQKRcvOw1qOk=;Y3goh2P+qdIyfAOy1zN3Bg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chron.com/news/amp/Dissident-Ai-Weiwei-protests-possible
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Dissident-Ai-Weiwei-protests-possible-extradition-15602451.php"
 type: article
 quality: 57
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/28/assange-truly-represents-the-very-core-value-of.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Ai Weiwei Stages Silent Protest in Support of Wikileaks Founder"
+    excerpt: "The dissident Chinese artist Ai Weiwei staged a silent protest in front of a London court today, September 28, in support of Wikileaks founder Julian Assange, who is facing extradition to the United States."
+    publishedDateTime: 2020-09-28T20:15:00Z
+    webUrl: "https://hyperallergic.com/590887/ai-weiwei-stages-silent-protest-in-support-of-wikileaks-founder/"
+    type: article
+    provider:
+      name: Hyperallergic
+      domain: hyperallergic.com
+    quality: 37
+    images:
+      - url: "https://hyperallergic.com/wp-content/uploads/2020/09/Aiweiwei_1000.jpg"
+        width: 1000
+        height: 618
         isCached: true
   - title: "Ai Weiwei holds silent protest outside Julian Assange's extradition hearing"
     excerpt: "Before attending court, the Chinese artist posted a photograph of himself and his son both wearing Free Assange t-shirts."

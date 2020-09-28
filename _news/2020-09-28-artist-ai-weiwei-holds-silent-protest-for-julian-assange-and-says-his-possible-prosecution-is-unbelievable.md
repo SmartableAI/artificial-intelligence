@@ -70,6 +70,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Ai Weiwei Stages Silent Protest in Support of Wikileaks Founder"
+    excerpt: "The dissident Chinese artist Ai Weiwei staged a silent protest in front of a London court today, September 28, in support of Wikileaks founder Julian Assange, who is facing extradition to the United States."
+    publishedDateTime: 2020-09-28T20:15:00Z
+    webUrl: "https://hyperallergic.com/590887/ai-weiwei-stages-silent-protest-in-support-of-wikileaks-founder/"
+    type: article
+    provider:
+      name: Hyperallergic
+      domain: hyperallergic.com
+    quality: 37
+    images:
+      - url: "https://hyperallergic.com/wp-content/uploads/2020/09/Aiweiwei_1000.jpg"
+        width: 1000
+        height: 618
+        isCached: true
   - title: "Ai Weiwei holds silent protest outside Julian Assange's extradition hearing"
     excerpt: "Before attending court, the Chinese artist posted a photograph of himself and his son both wearing Free Assange t-shirts."
     publishedDateTime: 2020-09-28T09:53:00Z
