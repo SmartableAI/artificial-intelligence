@@ -13,6 +13,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://mma.prnewswire.com/media/1273016/ZAC_Applications.jpg?p=facebook"

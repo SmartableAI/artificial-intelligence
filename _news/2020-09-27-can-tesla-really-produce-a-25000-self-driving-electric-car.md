@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/can-tesla-really-produc
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -25,20 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "Tesla says it will have a full self-driving Autopilot beta very soon"
-    excerpt: "CEO Elon Musk promised that a private beta of the “full self-driving version” of the Autopilot software was coming in “a month or so.” If so, that’s pretty cool, since the Autopilot in its current state is more of a driver aid,"
-    publishedDateTime: 2020-09-23T16:40:00Z
-    webUrl: "https://knowtechie.com/tesla-says-it-will-have-a-full-self-driving-autopilot-beta-very-soon/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 39
-    images:
-      - url: "https://mk0knowtechie1qof48y.kinstacdn.com/wp-content/uploads/2020/09/tesla-hw2-autopilot-promo-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Tesla’s new battery tech promises a road to a cheap self-driving electric car"
     excerpt: "New battery manufacturing tech could lead to big jumps in electric vehicle efficiency if everything works out. Latest Cookie Settings Many products featured on this site were editorially chosen. Popular Science may receive financial compensation for products purchased through this site."
     publishedDateTime: 2020-09-25T04:38:00Z

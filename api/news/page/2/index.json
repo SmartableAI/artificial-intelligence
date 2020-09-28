@@ -2,6 +2,107 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-25-three-coming-shifts-in-ai.md",
+      "title": "Three Coming Shifts In AI",
+      "excerpt": "Beyond the announcements and the hype, is AI really evolving? In this article, I’d like to focus not on far-off, vague hopes and wishes about AI, but instead on a few concrete developments that lie in the not-so-distant future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/amirhusain/2020/09/25/three-coming-shifts-in-ai/",
+      "originalUrl": "https://www.forbes.com/sites/amirhusain/2020/09/25/three-coming-shifts-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6e0dde8f8678b1a065cccb%2F0x0.jpg%3FcropX1%3D639%26cropX2%3D1859%26cropY1%3D1084%26cropY2%3D1771",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/amirhusain/2020/09/25/three-coming-shifts-in-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amirhusain/2020/09/25/three-coming-shifts-in-ai/amp/",
+      "publishedDateTime": "2020-09-25T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-mit-prof-wins-1m-award-for-machine-learning-based-cancer-detection.md",
+      "title": "MIT Prof Wins $1M Award for Machine Learning-Based Cancer Detection",
+      "excerpt": "Professor Regina Barzilay of MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) pioneered new advances in breast cancer detection using machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/mit-prof-wins-1m-award-for-machine-learning-based-cancer-detection",
+      "originalUrl": "https://www.pcmag.com/news/mit-prof-wins-1m-award-for-machine-learning-based-cancer-detection",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/030rLSKD8S7Pi7pPiiqgCuw-1.1601045739.fit_lim.size_1200x630.jpg",
+          "width": 805,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/mit-prof-wins-1m-award-for-machine-learning-based-cancer-detection?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/mit-prof-wins-1m-award-for-machine-learning-based-cancer-detection?amp=true",
+      "publishedDateTime": "2020-09-25T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-vietnam-ai-platform-rules-language-programming-contest-in-japan.md",
       "title": "Vietnam AI platform rules language programming contest in Japan",
       "excerpt": "Vietnam's artificial intelligence platform FPT.AI ranked first at SHINRA2020-ML, a contest to classify 30 Wikipedia language entities in fine-grained categories, in Japan.",
@@ -91,57 +192,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-impact-of-covid-19-on-deep-learning-market-size-share-and-top-key-players-during-2020-2028.md",
-      "title": "Impact Of COVID-19 On Deep Learning Market Size, Share and Top Key Players During 2020-2028",
-      "excerpt": "An estimated 51.2 % of the global population was using internet by the end of 2018 - International Telecommunication",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/impact-of-covid-19-on-deep-learning-market-size-share-and-top-key-players-during-2020-2028-2020-09-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/impact-of-covid-19-on-deep-learning-market-size-share-and-top-key-players-during-2020-2028-2020-09-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-25T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -890,7 +940,7 @@
       "originalUrl": "https://www.vice.com/en_us/article/m7jzbb/dhs-admits-facial-recognition-photos-were-hacked-released-on-dark-web",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -941,7 +991,7 @@
       "originalUrl": "https://www.forbes.com/sites/ulrikjuulchristensen/2020/09/24/ais-latest-breakthrough-will-transform-learning-here-are-5-ways/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1182,49 +1232,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-6-growth-bound-artificial-intelligence-stocks-to-buy.md",
-      "title": "6 Growth-Bound Artificial Intelligence Stocks to Buy",
-      "excerpt": "Stock Market News, Stock Advice & Trading Tips Investors are keen to understand the confluence of artificial intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/6-growth-bound-artificial-intelligence-stocks-to-buy-1029620414",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/6-growth-bound-artificial-intelligence-stocks-to-buy-1029620414",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/6-growth-bound-artificial-intelligence-stocks-to-buy-1029620414",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/6-growth-bound-artificial-intelligence-stocks-to-buy-1029620414",
-      "publishedDateTime": "2020-09-24T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

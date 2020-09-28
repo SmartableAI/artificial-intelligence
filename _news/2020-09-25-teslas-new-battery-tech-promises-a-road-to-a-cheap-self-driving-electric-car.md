@@ -36,20 +36,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
-  - title: "Tesla says it will have a full self-driving Autopilot beta very soon"
-    excerpt: "CEO Elon Musk promised that a private beta of the “full self-driving version” of the Autopilot software was coming in “a month or so.” If so, that’s pretty cool, since the Autopilot in its current state is more of a driver aid,"
-    publishedDateTime: 2020-09-23T16:40:00Z
-    webUrl: "https://knowtechie.com/tesla-says-it-will-have-a-full-self-driving-autopilot-beta-very-soon/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 39
-    images:
-      - url: "https://mk0knowtechie1qof48y.kinstacdn.com/wp-content/uploads/2020/09/tesla-hw2-autopilot-promo-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "TcuNsc124+1m0KXtO0vuge3TjZgf4SOiWWgezqlfcJz1IL8nsXtLs7vGi0bBLLrZ6q9s7CpECbxgkjZAInnVT5dO7k47oz89RNn5AhDk8ymaYy/iHBdcKmSKQVXHheq21iWNGV1+APv1F75ue+8KYpqpHykQGBFYFCf1rAbcnYc2yd6VNzlSFnfV7jWdSnYDUlFvxKFnaSEaN69gdZbEFDC/9qKCjXfmNCxruaTrhUbIbGPF8KHtaVEVP1y6VGquKS9j/ZkUIBtsOVfcF3js3mHWuXaJrNciRaHMgdUOsrR/eXGZx9bZ+nNusX39qG/5wUagjIaw8JtQ345bNCP3QqzrR5oHf47AoaQWNu/aI1ijHiHPqu4f0WEJnoguFlH3GQYPtF+ZHkivkw8ZJ2h7dOeCiCPnpqhpVJW+hf1c/5Hq3s9iQRELkNU+sL44JTPirTtQEip2BFDZtBxGgi0QDFm2+5lV471ahMAdiAUMYgH1CDIDJGOIVl9ZTOlPgSsnwyXIaIMnsi1ikPmP5DBBvw==;WbSc5Me3a7j7CPRGYsQSfg=="
 ---

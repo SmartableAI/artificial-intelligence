@@ -2,6 +2,107 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-09-22-machine-learning-answers-facebook-stock-is-down-20-in-a-month-what-are-the-chances-itll-rebound.md",
+      "title": "Machine Learning Answers: Facebook Stock Is Down 20% In A Month, What Are The Chances It’ll Rebound?",
+      "excerpt": "Facebook stock reached an all-time high of almost $305 less than a month ago before a larger sell-off in the technology industry drove the stock price down nearly 20% to its current level of around $250.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greatspeculations/2020/09/22/machine-learning-answers-facebook-stock-is-down-20-in-a-month-what-are-the-chances-itll-rebound/",
+      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2020/09/22/machine-learning-answers-facebook-stock-is-down-20-in-a-month-what-are-the-chances-itll-rebound/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f69a7bf9ce76e0ec3ed24e9%2F0x0.jpg",
+          "width": 1200,
+          "height": 816,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2020/09/22/machine-learning-answers-facebook-stock-is-down-20-in-a-month-what-are-the-chances-itll-rebound/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2020/09/22/machine-learning-answers-facebook-stock-is-down-20-in-a-month-what-are-the-chances-itll-rebound/amp/",
+      "publishedDateTime": "2020-09-22T04:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-hybrid-ai-through-data-space-time-and-industrial-applications-beyond-limits-scores-113m-series-c-to-scale-up.md",
+      "title": "Hybrid AI through data, space, time, and industrial applications: Beyond Limits scores $113M Series C to scale up",
+      "excerpt": "Abdallat went on to add that today we already have a collection of independent AI system that are experts in their own field, and increasingly outperform humans: \"As you start connecting them together, you have a network of intelligence society ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/hybrid-ai-through-data-space-time-and-industrial-applications-beyond-limits-scores-113m-series-c-to-scale-up/",
+      "originalUrl": "https://www.zdnet.com/article/hybrid-ai-through-data-space-time-and-industrial-applications-beyond-limits-scores-113m-series-c-to-scale-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/09/22/7c255cb1-23de-4d9d-b3fb-158143cf2d40/aj-abdallat-headshot.jpg",
+          "width": 1200,
+          "height": 807,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/hybrid-ai-through-data-space-time-and-industrial-applications-beyond-limits-scores-113m-series-c-to-scale-up/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hybrid-ai-through-data-space-time-and-industrial-applications-beyond-limits-scores-113m-series-c-to-scale-up/",
+      "publishedDateTime": "2020-09-22T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-sams-club-partners-with-seattle-startup-98point6-to-offer-customers-telehealth-service.md",
       "title": "Sam’s Club partners with Seattle startup 98point6 to offer customers telehealth service",
       "excerpt": "Sam's Club, a division of Walmart, is promoting Seattle startup 98point6 as a telehealth service for its customers. The grocery giant will offer virtual healthcare through 98point6, a",
@@ -1050,107 +1151,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-leveraging-artificial-intelligence-ai-to-scale-ai-transformations.md",
-      "title": "Leveraging Artificial Intelligence (AI) To Scale AI Transformations",
-      "excerpt": "According to a recent McKinsey survey, just under a third of organizations use artificial intelligence for multiple business functions. Scaling AI transformations appears to be the most important challenge in this arena,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/21/leveraging-artificial-intelligence-ai-to-scale-ai-transformations/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/21/leveraging-artificial-intelligence-ai-to-scale-ai-transformations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0db1df72fadb0007edeed4%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/21/leveraging-artificial-intelligence-ai-to-scale-ai-transformations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/21/leveraging-artificial-intelligence-ai-to-scale-ai-transformations/amp/",
-      "publishedDateTime": "2020-09-21T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-adt-slumps-on-ai-startup.md",
-      "title": "ADT Slumps on AI Startup",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Sep 21, 2020 (Baystreet.ca via COMTEX) -- ADT Inc. (NYSE: ADT) shares dropped sharply Monday morning, on the announcement that, via its commercial channel, it is investing in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/adt-slumps-on-ai-startup-2020-09-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/adt-slumps-on-ai-startup-2020-09-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-21T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

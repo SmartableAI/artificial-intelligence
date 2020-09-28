@@ -7,7 +7,7 @@ originalUrl: "https://roboticsandautomationnews.com/2020/09/25/autonomous-shuttl
 webUrl: "https://roboticsandautomationnews.com/2020/09/25/autonomous-shuttles-large-diesel-buses-being-replaced-with-electric-self-driving-shuttles/36803/"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 750
     height: 427
     isCached: true
-
-related:
-  - title: "Autonomous Shuttles: IDTechEx Report Reveals the Future of Last-mile Mobility"
-    excerpt: "The autonomous mobility industry is tackling part of the last-mile problem that many commuters encounter when using public transportation"
-    publishedDateTime: 2020-09-23T15:43:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/autonomous-shuttles-idtechex-report-reveals-the-future-of-last-mile-mobility-301136834.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 21
-    images:
-      - url: "https://mma.prnewswire.com/media/1280132/IDTechEx_Autonomous_Shuttles.jpg?p=facebook"
-        width: 2698
-        height: 1414
-        isCached: true
 
 secured: "Opi3J1FyBUNm98utftAbFCjjAfGoxCGJfZzdkL5HW9tl9DWLw0Wv9BPlivm9V6c1kdCRt4LYviA3erGJrL9wU0Svbe/rwSZZiGB/qXTTJePP5JbsmHWfOb/Q1LcnpeETSiXcZGoJLcblydxdIu4Gwn879A7IJOyUDi7wjjvhrIcGkYhqbsxyrzfKjmPOwAxukYjmXc/N6BuV0HYOE5qauoXKnswy7m9Z8rvDNTIrCdtka4YCCxohzIWlBKMwflvyoJtXMF7ABxCtv/5Lq20v6aFDaAhDTSNoZivMv9FaG7WuVzfGryXIeZh/Qr+I77ws0oD9ZOwXysiQZQ7jmACYacOeldBq1H1cEY+8vdWOTSfIIfhIkqa2xjTC/9stLn/swIqISoTGCgSgyYwYQZCLMuzilIj45Oa54Z7TAKfJRiKdWIkD68dw6jFl07iBEerlHAMnMQn6BfhWTuCT00azBQzMeSufZgvXEjIEg2ebXY2V2pS4OlM7267BvFkrFjzg0FrtRzPcNc992IsEdWWPQQ==;4aADg7t7pap8tVrWknNZvQ=="
 ---

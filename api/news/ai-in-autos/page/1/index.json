@@ -103,7 +103,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": null,
       "type": "article",
@@ -392,7 +392,7 @@
       "originalUrl": "https://www.reuters.com/article/autos-self-driving-congress/congress-will-try-again-in-2021-on-self-driving-car-reform-idUSL2N2GK18L",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -725,32 +725,32 @@
     {
       "path": "_news/2020-09-23-elon-musk-says-teslas-full-self-driving-autopilot-is-coming-soon-and-its-clearly-going-to-work.md",
       "title": "Elon Musk says Tesla's full self-driving Autopilot is coming soon and it's 'clearly going to work'",
-      "excerpt": "The full-self driving car is about to take a step closer to reality. Tesla CEO Elon Musk said Tuesday that the test version of company's Autopilot system will be released in \"a month or so.\"",
+      "excerpt": "The fully self-driving car is about to take a step closer to reality. Tesla CEO Elon Musk said Tuesday that the test version of the company's Autopilot system will be released in \"a month or so.\"",
       "sourceUrl": null,
-      "webUrl": "https://www.cincinnati.com/story/money/cars/2020/09/22/tesla-elon-musk-full-self-driving-autopilot-software/3498264001/",
-      "originalUrl": "https://www.cincinnati.com/story/money/cars/2020/09/22/tesla-elon-musk-full-self-driving-autopilot-software/3498264001/",
+      "webUrl": "https://www.azcentral.com/story/money/cars/2020/09/22/tesla-elon-musk-full-self-driving-autopilot-software/3498264001/",
+      "originalUrl": "https://www.azcentral.com/story/money/cars/2020/09/22/tesla-elon-musk-full-self-driving-autopilot-software/3498264001/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/-mm-/f4c4c3d8d99ab9a0fd37e8d3d494112eb6c0c801/c=0-0-580-326/local/-/media/2018/11/29/USATODAY/usatsports/tesla-autopilot-1-billion-miles_large.png?width=1600&height=800&fit=crop",
-          "width": 1600,
-          "height": 800,
+          "url": "https://www.gannett-cdn.com/-mm-/f4c4c3d8d99ab9a0fd37e8d3d494112eb6c0c801/c=0-0-580-326/local/-/media/2018/11/29/USATODAY/usatsports/tesla-autopilot-1-billion-miles_large.png?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 674,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T19:44:00-07:00",
+      "ampWebUrl": "https://amp.azcentral.com/amp/3498264001",
+      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3498264001",
+      "publishedDateTime": "2020-09-22T18:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Cincinnati Enquirer",
-        "domain": "cincinnati.com",
+        "name": "The Arizona Republic",
+        "domain": "azcentral.com",
         "images": null,
         "publishers": null,
         "authors": null

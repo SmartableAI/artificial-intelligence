@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.marketwatch.com/press-release/ai-in-social-media-market-size-share-growth-trends-scope-and-forecast-2020-to-2030-2020-09-28</loc>
-    <lastmod>2020-09-28T00:14:00-07:00</lastmod>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-share-2020-global-growth-trends-industry-analysis-key-players-and-forecast-to-2023-2020-09-17</loc>
+    <lastmod>2020-09-28T02:35:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.zdnet.com/article/neural-network-trained-to-control-anaesthetic-doses-keep-patients-under-during-surgery/</loc>
+    <lastmod>2020-09-28T02:10:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://timesofindia.indiatimes.com/india/iisc-wipro-ge-start-ai-healthcare-lab/articleshow/78361777.cms</loc>
+    <lastmod>2020-09-28T01:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -159,12 +171,6 @@
   <url>
     <loc>https://www.forbes.com/sites/forbestechcouncil/2020/09/25/how-ai-and-technology-can-help-patients-manage-chronic-pain/</loc>
     <lastmod>2020-09-25T05:46:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/impact-of-covid-19-on-deep-learning-market-size-share-and-top-key-players-during-2020-2028-2020-09-24</loc>
-    <lastmod>2020-09-25T05:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -493,6 +499,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.oaoa.com/news/business/correcting-and-replacing-ses-becomes-microsoft-azure-orbital-founding-connectivity-partner/article_8f24ab84-719f-5f89-a3c2-2c3a47db75e1.html</loc>
+    <lastmod>2020-09-23T08:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.cnet.com/roadshow/news/tesla-full-self-driving-autopilot-elon-musk/</loc>
     <lastmod>2020-09-23T07:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -619,8 +631,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.cincinnati.com/story/money/cars/2020/09/22/tesla-elon-musk-full-self-driving-autopilot-software/3498264001/</loc>
-    <lastmod>2020-09-22T19:44:00-07:00</lastmod>
+    <loc>https://www.azcentral.com/story/money/cars/2020/09/22/tesla-elon-musk-full-self-driving-autopilot-software/3498264001/</loc>
+    <lastmod>2020-09-22T18:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -715,8 +727,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572</loc>
-    <lastmod>2020-09-22T05:29:00-07:00</lastmod>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace/article_f6c327bd-10d4-5df0-beed-77fd9ceef60a.html</loc>
+    <lastmod>2020-09-22T05:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -7,7 +7,7 @@ originalUrl: "https://www.sourcesecurity.com/news/ava-aware-cloud-combines-machi
 webUrl: "https://www.beyond.ai/"
 type: article
 quality: 110
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       - url: "https://i.nextmedia.com.au/News/20200924104634_AGL.png"
         width: 2584
         height: 1476
+        isCached: true
+  - title: "Viking Analytics and iioote introduce new AI-based product for early detection of black mold"
+    excerpt: "Viking Analytics, a Swedish provider of advanced analytics solution for predictive operations, and iioote, an IoT solution provider and"
+    publishedDateTime: 2020-09-28T08:31:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/viking-analytics-and-iioote-introduce-new-ai-based-product-for-early-detection-of-black-mold-301138841.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 26
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "eDUAJHb2pcT0a4yKMKurazIziZO7R307tjaQ3EF+2JJYXNIzKiRrUi9SeRHEAZH7D1OmXLGacUkYdS1wIWM9tSzE3fVaFWoRAliMwarVMURhN1Fc2WoUVgImOIy3zcFdK89VewELz6/8Yk71vVysrv7avBz7zuydQP1Ctk96qxtV21+sFBcSdvidwqa8UnJG31D8zLlRGuLIwmkIYP5mJHYOP0Jkb6sRm6I6TkpuRqUFASSubKtC3J7BvdTAepvJM+XfCMg9K7qEEdzdpcUgVpAVfC1akgimtv3Tqn9BnI6O17iY7YieCKN3+h6USFz82qnX1l9gXjJhmFluPcIgWikwbvfmUGbsWktS1J1H91U=;rxzLZIDMLXkaWyAxTwbhlQ=="

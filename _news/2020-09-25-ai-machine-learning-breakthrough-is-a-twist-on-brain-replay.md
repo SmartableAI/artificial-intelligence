@@ -59,20 +59,6 @@ related:
         width: 320
         height: 228
         isCached: true
-  - title: "Transforming customer banking experiences with AI and machine learning"
-    excerpt: "Mark Crichton, senior director at OneSpan, discusses how to transform customer banking experiences using AI and machine learning"
-    publishedDateTime: 2020-09-23T15:39:00Z
-    webUrl: "https://www.information-age.com/transforming-customer-banking-experiences-with-ai-ml-123491753/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 71
-    images:
-      - url: "https://s27389.pcdn.co/wp-content/uploads/2020/09/transforming-customer-banking-experiences-with-ai-ml.jpeg"
-        width: 1012
-        height: 675
-        isCached: true
 
 secured: "gw5GHaKM5+KHOwKYgh0YibajdDeu2CUspTmbgk7fTHPReSmrDJ7vHs/Gln75HmM/XdO2eQDc5cJr8/5T4GizotaD7LmFzL3JgprrzEmAkRM6xLdWaHpccr/9BouL2J8d75HPfukRla30YlifbzEdZJYHdT3rh/cWNtIFfI/fOoPb6NqazdglG2z74kJl3ZOSkiuOUBWl1QA5nly/6+Ns03E03GD5mLZtYd003iA6HNN0tw7ObRjLCDnVTUZUUVYInmlvC8ehbt9beXyxS3cRySvExnXOKpiTelnNDRo6nC5NYZDY+y2iWR7IhrNZICFxB9P39lM9D9msfw2cXU+cedEgX8PUNjEh9LAY+u2X2Ng=;vfju3jGqmOT/k/mRZy9ocA=="
 ---

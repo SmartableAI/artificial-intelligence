@@ -42,20 +42,6 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "From biotech to robotics: FTW Ventures talks food tech in the era of COVID"
-    excerpt: "FTW Ventures, an early-stage VC, has launched a new fund to support food and agri-tech start-ups that it believes can disrupt the sector. FoodNavigator speaks to founder and entrepreneur Brian Frank about the tech and trends he believes will come to the fore in a world now shaped by the coronavirus pandemic."
-    publishedDateTime: 2020-09-23T15:20:00Z
-    webUrl: "https://www.foodnavigator.com/Article/2020/09/23/From-biotech-to-robotics-FTW-Ventures-talks-food-tech-in-the-era-of-COVID"
-    type: article
-    provider:
-      name: FoodNavigator
-      domain: foodnavigator.com
-    quality: 52
-    images:
-      - url: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator.com/news/market-trends/from-biotech-to-robotics-ftw-ventures-talks-food-tech-in-the-era-of-covid/11790650-1-eng-GB/From-biotech-to-robotics-FTW-Ventures-talks-food-tech-in-the-era-of-COVID.jpg"
-        width: 1000
-        height: 750
-        isCached: true
 
 secured: "Mi/1XDhZk9iZveErmSlO3CXESV3Nc8D2jPmfpglfSAg4lzYE7saCBthQofjGYljSbaeUgjKZFRLDKEhziUQgVjkv79picjot/a8jc2GDskodPlOBQoIr3nLimgSYVEfPT6Ie1NB223a8FtApp4T9I1A5xMzlmFzIaW/NNyQYijEzkHFjSkOq8onOJiTavTmsfWeHeWqsqGoYRk+xGzl8Nhe+EV0PlMMFHcenfmhR4ttE59d3+khmUYHnJsn6d1FDUrHWR+D2NU6nnu7NlMNMi9mDDJBZb/PWSDZDZetW5ioq5i4XnmZgPM90CaH0thqK8v3sU+goNMYsG2krfxACEQbj2E4P/d56h/jS5XxW8mRW/rCMk6HnEtqRfzSwaUXNtYdn2kL1Sz/MI73hmJ9BoKNIAAGnxe0v3DBs/rVSMQTW9Um5Un4EJQFOTo5Q6mwNSMte1ufkwPVnFgHck8T+X1kuFL/JqOg3yF5DH1siXCHE+1zBMFc4y+dktXRHynoOtjI3xo5wq3VSRUpw5YI79A==;nyL52y3l6vBvJEZiC2I85A=="
 ---

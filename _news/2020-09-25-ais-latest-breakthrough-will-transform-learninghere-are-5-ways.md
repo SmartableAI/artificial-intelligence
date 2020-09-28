@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ulrikjuulchristensen/2020/09/24/ais-lat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ulrikjuulchristensen/2020/09/24/ais-latest-breakthrough-will-transform-learning-here-are-5-ways/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2020-09/pic2095.jpg?itok=zJTSRPRc"
         width: 320
         height: 228
-        isCached: true
-  - title: "Transforming customer banking experiences with AI and machine learning"
-    excerpt: "Mark Crichton, senior director at OneSpan, discusses how to transform customer banking experiences using AI and machine learning"
-    publishedDateTime: 2020-09-23T15:39:00Z
-    webUrl: "https://www.information-age.com/transforming-customer-banking-experiences-with-ai-ml-123491753/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 71
-    images:
-      - url: "https://s27389.pcdn.co/wp-content/uploads/2020/09/transforming-customer-banking-experiences-with-ai-ml.jpeg"
-        width: 1012
-        height: 675
         isCached: true
 
 secured: "iBZwpRIwKmNogHB9wnd9ECzL7IfEzuMHr/dFf4m3fvOucnXWDU3Y+e0sdQjH/+lU7zV0+TbslX0Zx/X84vp9Ig/0OvfGFk1+C3sqEL0pneI0OZHzXY5KY6pyEWP3MuuznTpQPWbmh6rv1Skb1C5kk085iveBygTKoq/dDdPJjvZWAANJoB9ru2qXviUci1mlkhOL2g+j+PCEYfZ4aD8pLoxFcG4D/GYaYLS8ElzZI5OEKFii1ArfwZQqcz6beiVLCkbIF4hna0CRz8DvG7975F1YWoF8xcR/9Pwu1wwSGYH2RpyIo+47qPGJLeA4deBnS/+ZmUsfFmF8WuL8gzLVavCTEsNpHJTn/9m7GNAdI3Pb4flCntA5jd4QmaQZJ4F3/4KHntDOIcKJaM5q959qyOIzfwBXsym+OO8cTXBbmxzAr32ODvqM8PWpo2JhYkKYJbiWsmMVvtD/Issq63CzbJlKo8rHcoIUnTzyvg9FtwonfzgwVh248cqBpFE0ol3TVnyapiq6IAncJUZD6l47dQ==;JUGOCJIX2CnJdIP/DkSgdQ=="

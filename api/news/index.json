@@ -2,15 +2,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-09-28-ai-in-social-media-market-size-share-growth-trends-scope-and-forecast-2020-to-2030.md",
-      "title": "AI in Social Media Market Size, Share, Growth, Trends, Scope and Forecast 2020 to 2030",
-      "excerpt": "A new study on the global AI in Social Media Market has been published by Insight Slice. It presents a wealth of information on key market dynamics, including the drivers, market trends, and challenges,",
+      "path": "_news/2020-09-28-artificial-intelligence-ai-chipset-market-share-2020-global-growth-trends-industry-analysis-key-players-and-forecast-to-2023.md",
+      "title": "Artificial Intelligence (AI) Chipset Market Share 2020 Global Growth, Trends, Industry Analysis, Key Players and Forecast to 2023",
+      "excerpt": "Global Artificial Intelligence (AI) Chipset Market (2020-2023) Industry Research Report is a comprehensive analysis containing key information on key players, market trends, price analysis and market overview for the forecast period.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-social-media-market-size-share-growth-trends-scope-and-forecast-2020-to-2030-2020-09-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-social-media-market-size-share-growth-trends-scope-and-forecast-2020-to-2030-2020-09-28",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-share-2020-global-growth-trends-industry-analysis-key-players-and-forecast-to-2023-2020-09-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-share-2020-global-growth-trends-industry-analysis-key-players-and-forecast-to-2023-2020-09-17",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 170,
       "tags": null,
       "images": [
         {
@@ -25,7 +25,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-28T00:14:00-07:00",
+      "publishedDateTime": "2020-09-28T02:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -48,7 +48,92 @@
         "news"
       ],
       "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-neural-network-trained-to-control-anesthetic-doses-keep-patients-under-during-surgery.md",
+      "title": "Neural network trained to control anesthetic doses, keep patients under during surgery",
+      "excerpt": "Academics from the Massachusetts Institute of Technology (MIT) and Massachusetts General Hospital have demonstrated how neural networks can be trained to administer anesthetic during surgery. Over the past decade, machine learning (ML), artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/neural-network-trained-to-control-anaesthetic-doses-keep-patients-under-during-surgery/",
+      "originalUrl": "https://www.zdnet.com/article/neural-network-trained-to-control-anaesthetic-doses-keep-patients-under-during-surgery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/neural-network-trained-to-control-anaesthetic-doses-keep-patients-under-during-surgery/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/neural-network-trained-to-control-anaesthetic-doses-keep-patients-under-during-surgery/",
+      "publishedDateTime": "2020-09-28T02:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-iisc-wipro-ge-start-ai-healthcare-lab.md",
+      "title": "IISc, Wipro-GE start AI healthcare lab",
+      "excerpt": "India News: The Indian Institute of Science (IISc) and Wipro GE Healthcare today announced the inauguration of an advanced center for innovation and research — ‘W",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/india/iisc-wipro-ge-start-ai-healthcare-lab/articleshow/78361777.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/india/iisc-wipro-ge-start-ai-healthcare-lab/articleshow/78361777.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-78361745/78361745.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/india/iisc-wipro-ge-start-ai-healthcare-lab/amp_articleshow/78361777.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/india/iisc-wipro-ge-start-ai-healthcare-lab/amp_articleshow/78361777.cms",
+      "publishedDateTime": "2020-09-28T01:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -449,7 +534,7 @@
       "originalUrl": "https://www.cmswire.com/collaboration-productivity/5-microsoft-teams-upgrades-that-takes-it-deeper-into-the-workplace/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 339,
+      "heat": 329,
       "tags": null,
       "images": [
         {
@@ -491,7 +576,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": null,
       "type": "article",
@@ -1089,107 +1174,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-three-coming-shifts-in-ai.md",
-      "title": "Three Coming Shifts In AI",
-      "excerpt": "Beyond the announcements and the hype, is AI really evolving? In this article, I’d like to focus not on far-off, vague hopes and wishes about AI, but instead on a few concrete developments that lie in the not-so-distant future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/amirhusain/2020/09/25/three-coming-shifts-in-ai/",
-      "originalUrl": "https://www.forbes.com/sites/amirhusain/2020/09/25/three-coming-shifts-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6e0dde8f8678b1a065cccb%2F0x0.jpg%3FcropX1%3D639%26cropX2%3D1859%26cropY1%3D1084%26cropY2%3D1771",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/amirhusain/2020/09/25/three-coming-shifts-in-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amirhusain/2020/09/25/three-coming-shifts-in-ai/amp/",
-      "publishedDateTime": "2020-09-25T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-mit-prof-wins-1m-award-for-machine-learning-based-cancer-detection.md",
-      "title": "MIT Prof Wins $1M Award for Machine Learning-Based Cancer Detection",
-      "excerpt": "Professor Regina Barzilay of MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) pioneered new advances in breast cancer detection using machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/mit-prof-wins-1m-award-for-machine-learning-based-cancer-detection",
-      "originalUrl": "https://www.pcmag.com/news/mit-prof-wins-1m-award-for-machine-learning-based-cancer-detection",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/030rLSKD8S7Pi7pPiiqgCuw-1.1601045739.fit_lim.size_1200x630.jpg",
-          "width": 805,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/mit-prof-wins-1m-award-for-machine-learning-based-cancer-detection?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/mit-prof-wins-1m-award-for-machine-learning-based-cancer-detection?amp=true",
-      "publishedDateTime": "2020-09-25T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

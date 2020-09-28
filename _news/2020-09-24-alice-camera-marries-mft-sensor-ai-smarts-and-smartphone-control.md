@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/photography/alice-camera-photogram/?amp=true"
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/photography/alice-camera-photogram/?amp=true"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "MFT ‘Alice’ concept camera promises smartphone AI with interchangeable lenses"
-    excerpt: "The Alice Camera intends to shake up the photo market and introduce the new technology the major manufacturers have failed to implement. It combines a MFT sensor and lens mount with a clamp for your smartphone,"
-    publishedDateTime: 2020-09-23T15:36:00Z
-    webUrl: "https://www.dpreview.com/news/7241299090/mft-alice-concept-camera-promises-smartphone-ai-with-interchangeable-lenses"
-    ampWebUrl: "https://m.dpreview.com/news/7241299090/mft-alice-concept-camera-promises-smartphone-ai-with-interchangeable-lenses.amp"
-    cdnAmpWebUrl: "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/7241299090/mft-alice-concept-camera-promises-smartphone-ai-with-interchangeable-lenses.amp"
-    type: article
-    provider:
-      name: Digital Photography Review
-      domain: dpreview.com
-    quality: 56
-    images:
-      - url: "https://2.img-dpreview.com/files/p/E~TS520x0~articles/7241299090/5f17f4171e5dbcd12cb80393_transparent-1-gigapixel-scale-2_00x-p-500_copy.jpeg"
-        width: 520
-        height: 390
-        isCached: true
 
 secured: "KGCUSSzUQuZDWNnzcMeNVnx/ZwoADVkOQOpLTUE30uW4RofVk1qxHZBDK0ez1IaOIwPDwG3fHdEN62lcdurAC+3NIZNZqoTHM5Fhdj86c1ijkLaMdR12+c61ENcoNTUlpK6ylGkeqlqiNFI09aK4E7oOVuCryxnl7HbQOOTKvNvyH3O7VchlSoRppRzhgSWcVbJj4TSLYv5RZaO+iF6Ke7j0skaO7xZSnXI4HBCo/wbyopzHFPQNqgN3gXiFvUh9Fejg10UDzsv0giNsvm0D/eUMe2p1lxYQhkH7IvRDydpX86Kvusi58S6zjw5T4lAeZuG9zN17vHVDO5UnGmYSM8et2VhPPFk6Xz998/iIzH3efDGzb6RpctPzLdDONqgJ7Xlc2YfFiaCeTfFP6ys9ANciZWY9kwojClWmItx0YjkQ+cPHp00qZpDOp9PbtJ/Yd48Wk8px3V9sUslSNNRmbRLjs+bZ30A5nuktm61vD6xkNg3oL0U7E6wPAxNtn2SjgElN6qWkKtWRWWBham01PQ==;hXBnvGc14t2RdTcKNY1Q3g=="
 ---

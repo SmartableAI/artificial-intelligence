@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2020/09/25/four-steps-accelerate-journey-
 webUrl: "https://siliconangle.com/2020/09/25/four-steps-accelerate-journey-machine-learning/"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -28,16 +28,16 @@ images:
 
 related:
   - title: "Four steps to accelerate your machine learning journey"
-    excerpt: "Swami Sivasubramanian, vice president, Amazon Machine Learning, AWS, looks at strategies for fast tracking the machine learning journey for enterprises across the world"
-    publishedDateTime: 2020-09-24T08:10:00Z
-    webUrl: "https://www.commsmea.com/business/opinion/22450-four-steps-to-accelerate-your-machine-learning-journey"
-    ampWebUrl: "https://www.commsmea.com/business/opinion/22450-four-steps-to-accelerate-your-machine-learning-journey?amp"
-    cdnAmpWebUrl: "https://www-commsmea-com.cdn.ampproject.org/c/s/www.commsmea.com/business/opinion/22450-four-steps-to-accelerate-your-machine-learning-journey?amp"
+    excerpt: "Another approach used by Morningstar — a global financial services firm — used hands-on training for their employees with AWS DeepRacer to accelerate the application of machine learning across ..."
+    publishedDateTime: 2020-09-24T07:44:00Z
+    webUrl: "https://www.itp.net/news/93915-four-steps-to-accelerate-your-machine-learning-journey"
+    ampWebUrl: "https://www.itp.net/news/93915-four-steps-to-accelerate-your-machine-learning-journey?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/news/93915-four-steps-to-accelerate-your-machine-learning-journey?amp"
     type: article
     provider:
-      name: CommsMEA
-      domain: commsmea.com
-    quality: 43
+      name: GDPR fines
+      domain: itp.net
+    quality: 41
 
 secured: "DvO4LaT5Hqi+Q8MPiV6zyrcnZizEz4aNNZv3OoNLo+AeZNbP3cDHPtbX5CyQ+NxTeUIbtSgNdwJNrQF/XsYRkdxTpwKAMAkpy/FNkB7wc8UsSwYeUWhHKpq+kglg639nyaa3zrSEY2V4+DRiLFLCnqt5DLghj9hLVYjw7lw6a1C4XMHTFR+8v0s0BFOF1u1Mns7yAKEFzIChErbU7xAzoNyO+CjdFZ4vXAKSmydW5odIFZlP7BkwVqOlyRihg1bHP+T4aFZ+WPE28I7iVfVb7JdHm9zVLqdp5B6sRILedYi6+TuZi52q4WabJaqDo32nGusBQnPEXFZPTgPcG7V0vJDC+aOovhsT7rXrk39byRxMCeoQS2yDZLxcY4aZpAPL5JLQCNpY2G+2p0ilG5vtfWIRL/cfqOzXDAfaFkX6Rzm1oPC/uKd1apylq/UDfiudQ/oc7oQix4qjJQqlBUBXqWYfZdLUfuLZ4DFt3ppUwdJc+r1l/nCqcVugalWG5MZ7TQNQjyDqWkDacbYjFkBNMg==;TDoaQOmRs2nDMU0GbgJUvQ=="
 ---

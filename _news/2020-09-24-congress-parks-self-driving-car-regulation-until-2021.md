@@ -52,22 +52,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 69
-  - title: "Congress will try again in 2021 on self-driving car reform"
-    excerpt: "U.S. lawmakers have been divided for years over how to reform regulations governing self-driving cars and what consumer and legal protections should be included. In 2017, the House of ..."
-    publishedDateTime: 2020-09-23T16:14:00Z
-    webUrl: "https://www.metro.us/congress-will-try-again/"
-    ampWebUrl: "https://www.metro.us/congress-will-try-again/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/congress-will-try-again/amp/"
-    type: article
-    provider:
-      name: Metro US
-      domain: metro.us
-    quality: 59
-    images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportDomesticNews/tagreuters.com2020binary_LYNXNPEG8M1P8-BASEIMAGE.jpg"
-        width: 800
-        height: 511
-        isCached: true
   - title: "Self-Driving Car Bill Reintroduced in House Minus Biggest Backer"
     excerpt: "Legislation that would allow carmakers to sell as many as 100,000 self-driving vehicles per year in the U.S. is being reintroduced in the U.S. House of"
     publishedDateTime: 2020-09-24T12:44:00Z
