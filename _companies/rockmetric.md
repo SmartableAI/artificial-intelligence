@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "rockmetric"
   url: "https://www.twitter.com/rockmetric"
-  followers: 241
+  followers: 240
 
 size: 11-50 employees
 yearFounded: 2015
