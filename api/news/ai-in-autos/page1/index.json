@@ -528,6 +528,57 @@
       ]
     },
     {
+      "path": "_news/2020-09-23-tusimple-expands-self-driving-trucks-to-europe-with-traton-partnership.md",
+      "title": "TuSimple expands self-driving trucks to Europe with Traton partnership",
+      "excerpt": "Self-driving truck startup TuSimple inked an agreement with Traton that will give the VW subsidiary a minority stake in the startup.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/23/tusimple-expands-self-driving-trucks-to-europe-with-traton-partnership/",
+      "originalUrl": "https://venturebeat.com/2020/09/23/tusimple-expands-self-driving-trucks-to-europe-with-traton-partnership/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/AutonomousButton3-e1600713459170.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/23/tusimple-expands-self-driving-trucks-to-europe-with-traton-partnership/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/23/tusimple-expands-self-driving-trucks-to-europe-with-traton-partnership/amp/",
+      "publishedDateTime": "2020-09-23T00:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-elon-musk-says-teslas-full-self-driving-autopilot-is-coming-soon-and-its-clearly-going-to-work.md",
       "title": "Elon Musk says Tesla's full self-driving Autopilot is coming soon and it's 'clearly going to work'",
       "excerpt": "The next step in the self-driving revolution is coming in 'a month or so, says Tesla CEO Elon Musk, teasing the company's full self-driving Autopilot.",
@@ -1334,48 +1385,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-tesla-self-driving-software-rewrite-should-be-available-by-end-of-2020-musk.md",
-      "title": "Tesla Self-Driving Software Rewrite Should Be Available By End Of 2020: Musk",
-      "excerpt": "Now CEO Elon Musk said that by the end of the year, a total rewrite of Tesla's Full Self Driving software should be ready for the public by December 2020. The new software will be in private beta within two to weeks,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/tech/20/09/17492558/tesla-self-driving-software-rewrite-should-be-available-by-end-of-2020-musk",
-      "originalUrl": "https://www.benzinga.com/tech/20/09/17492558/tesla-self-driving-software-rewrite-should-be-available-by-end-of-2020-musk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/autopilotoriginal__1_5.jpg",
-          "width": 2880,
-          "height": 1820,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17492558",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17492558",
-      "publishedDateTime": "2020-09-14T14:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

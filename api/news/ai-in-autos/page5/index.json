@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-08-17-mits-shared-ebike-transforms-into-a-self-driving-trike.md",
+      "title": "MIT's shared ebike transforms into a self-driving trike",
+      "excerpt": "While bicycle-sharing systems certainly are proving to be popular, they still have a few problems, such as the limited availability of bikes. Researchers at the MIT Media Lab are working on a solution,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/urban-transport/mit-shared-ebike-self-driving-trike/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/d421d8e/2147483647/strip/true/crop/1400x933+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F34%2F8c%2Fcfe1f5214b99b661aa1355c22aea%2Fautonomous-bike.jpeg.1400x1400.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/urban-transport/mit-shared-ebike-self-driving-trike/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/urban-transport/mit-shared-ebike-self-driving-trike/?amp=true",
+      "publishedDateTime": "2020-08-17T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-17-autox-launches-its-robotaxi-service-in-shanghai-competing-with-didis-pilot-program.md",
       "title": "AutoX launches its RoboTaxi service in Shanghai, competing with Didi’s pilot program",
       "excerpt": "Autonomous vehicle startup AutoX announced the public launch of of its self-driving taxi service in Shanghai today. Called simply RoboTaxi, AutoX’s offering already faces competition from Didi, China’s largest ride-hailing platform,",

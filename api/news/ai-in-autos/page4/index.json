@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-28-it-is-nearly-unthinkable-that-i-think-therefore-i-am-applies-to-ai-possibly-even-self-driving-cars.md",
+      "title": "It Is Nearly Unthinkable That ‘I Think, Therefore I Am’ Applies To AI, Possibly Even Self-Driving Cars",
+      "excerpt": "You have undoubtedly heard the famous phrase “I think, therefore I am.” Written oftentimes in its Latin form, the saying is known as ergo cogito, ergo sum. If you want to be smarmy and impress your friends,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/28/it-is-nearly-unthinkable-that-i-think-therefore-i-am-applies-to-ai-possibly-even-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/28/it-is-nearly-unthinkable-that-i-think-therefore-i-am-applies-to-ai-possibly-even-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F599006572%2F0x0.jpg%3FcropX1%3D284%26cropX2%3D4903%26cropY1%3D0%26cropY2%3D3463",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/28/it-is-nearly-unthinkable-that-i-think-therefore-i-am-applies-to-ai-possibly-even-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/28/it-is-nearly-unthinkable-that-i-think-therefore-i-am-applies-to-ai-possibly-even-self-driving-cars/amp/",
+      "publishedDateTime": "2020-08-28T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-28-uber-expands-self-driving-safety-report-after-ntsb-slams-culture.md",
       "title": "Uber Expands Self-Driving Safety Report After NTSB Slams Culture",
       "excerpt": "Read More: Fatal Self-Driving Uber Crash Prompts Call for Tighter Oversight The fatality occurred around 10 p.m. on March 18, 2018, when a 49-year-old woman was hit by a 2017 Volvo XC90 SUV ...",
@@ -1310,57 +1361,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-mits-shared-ebike-transforms-into-a-self-driving-trike.md",
-      "title": "MIT's shared ebike transforms into a self-driving trike",
-      "excerpt": "While bicycle-sharing systems certainly are proving to be popular, they still have a few problems, such as the limited availability of bikes. Researchers at the MIT Media Lab are working on a solution,",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/urban-transport/mit-shared-ebike-self-driving-trike/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/d421d8e/2147483647/strip/true/crop/1400x933+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F34%2F8c%2Fcfe1f5214b99b661aa1355c22aea%2Fautonomous-bike.jpeg.1400x1400.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/urban-transport/mit-shared-ebike-self-driving-trike/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/urban-transport/mit-shared-ebike-self-driving-trike/?amp=true",
-      "publishedDateTime": "2020-08-17T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

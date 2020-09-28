@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-24-in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women.md",
+      "title": "In facial recognition challenge, top-ranking algorithms show bias against Black women",
+      "excerpt": "The results from a recent facial recognition competition demonstrate that even the best algorithms are still prone to gender and racial bias.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/",
+      "originalUrl": "https://venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1199708189-e1600898324155.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/amp/",
+      "publishedDateTime": "2020-09-24T06:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-fortnite-challenge-how-to-make-a-stark-robot-dance.md",
       "title": "‘Fortnite’ Challenge: How To Make A Stark Robot Dance",
       "excerpt": "Fortnite has a new set of challenges that have just gone live this morning, including one very unique one that asks players to make a Stark Robot dance. How do you do this? It’s something I’ve never actually done before this challenge,",
@@ -621,56 +672,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-how-to-dress-for-the-pandemic-surprising-trends-from-the-stitch-fix-ai-fashion-forecast.md",
-      "title": "How To Dress For The Pandemic, Surprising Trends From The Stitch Fix AI Fashion Forecast",
-      "excerpt": "Stitch Fix is doubling down on its algorithms to capture $30 billion of retail market share they expect to move online over the next 12 to 18 months. Chief Algorithms Officer Emeritus, Eric Colson, shares insights on what AI is saying about the hot looks for the season.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martineparis/2020/09/23/how-to-dress-for-the-pandemic-surprising-trends-from-the-stitch-fix-ai-fashion-forecast/",
-      "originalUrl": "https://www.forbes.com/sites/martineparis/2020/09/23/how-to-dress-for-the-pandemic-surprising-trends-from-the-stitch-fix-ai-fashion-forecast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6bfa27c290560c57d1aa09%2F0x0.jpg",
-          "width": 960,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2020/09/23/how-to-dress-for-the-pandemic-surprising-trends-from-the-stitch-fix-ai-fashion-forecast/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2020/09/23/how-to-dress-for-the-pandemic-surprising-trends-from-the-stitch-fix-ai-fashion-forecast/amp/",
-      "publishedDateTime": "2020-09-23T18:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },

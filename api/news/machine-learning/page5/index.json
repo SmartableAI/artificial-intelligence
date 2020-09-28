@@ -2,6 +2,99 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-08-19-how-can-businesses-take-deep-learning-out-of-the-lab-and-onto-intelligent-edge-devices.md",
+      "title": "How Can Businesses Take Deep Learning Out Of The Lab And Onto Intelligent Edge Devices?",
+      "excerpt": "Despite successful research and developments in lab settings, deep learning has yet to reach its potential in real-world deployments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/19/how-can-businesses-take-deep-learning-out-of-the-lab-and-onto-intelligent-edge-devices/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/19/how-can-businesses-take-deep-learning-out-of-the-lab-and-onto-intelligent-edge-devices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3bdea7cf036822a957572d%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/19/how-can-businesses-take-deep-learning-out-of-the-lab-and-onto-intelligent-edge-devices/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/19/how-can-businesses-take-deep-learning-out-of-the-lab-and-onto-intelligent-edge-devices/amp/",
+      "publishedDateTime": "2020-08-19T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-machine-learning-in-retail-market.md",
+      "title": "Machine Learning in Retail Market",
+      "excerpt": "Machine Learning in Retail Market 2020 report is a compilation of first hand information qualitative and quantitative assessment by industry analysts inputs from industry experts and industry participants across the value chain The report provides in depth analysis of parent",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2116297/machine-learning-in-retail-market-to-impressive-growth-2025",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/8/T819308741_g.jpg",
+          "width": 562,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2116297/machine-learning-in-retail-market-to-impressive-growth-2025",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2116297/machine-learning-in-retail-market-to-impressive-growth-2025",
+      "publishedDateTime": "2020-08-19T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-19-deep-learning-market-2020-2023-growth-emerging-trends-and-forecast.md",
       "title": "Deep Learning Market 2020-2023: Growth, Emerging Trends, And Forecast",
       "excerpt": "In enterprise computing, deep learning is evolving into one of the most advanced technologies. Deep learning is a subset",

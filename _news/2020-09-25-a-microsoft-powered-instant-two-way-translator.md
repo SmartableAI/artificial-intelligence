@@ -170,20 +170,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "SES Becomes Microsoft Azure Orbital Founding Connectivity Partner"
-    excerpt: "... will enable our partners’ customers to on-ramp their data into Azure where it can immediately be processed with market-leading data analytics, geospatial tools and machine learning services, adding another layer of automation and intelligence in ..."
-    publishedDateTime: 2020-09-23T05:04:00Z
-    webUrl: "https://www.businesswireindia.com/ses-becomes-microsoft-azure-orbital-founding-connectivity-partner-69631.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 54
-    images:
-      - url: "https://mms.businesswire.com/media/20200922005927/en/823710/4/SES_Press_Release_SES_Becomes_Microsoft_Azure_Orbital_Founding_Connectivity_Partner_image.jpg"
-        width: 480
-        height: 310
-        isCached: true
   - title: "Microsoft announces Azure Communication Services"
     excerpt: "It also enables developers to easily tap into other Azure services, such as Azure Cognitive Services for translation ... and GDPR (in the EU),\" Microsoft said in a statement on Wednesday. Azure Communication Services makes it easy to add voice and video ..."
     publishedDateTime: 2020-09-24T04:55:00Z
@@ -299,20 +285,6 @@ related:
       - url: "https://res.infoq.com/news/2020/09/new-azure-communication-services/en/headerimage/croppted-ACS-1600940197471.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "CORRECTING and REPLACING SES Becomes Microsoft Azure Orbital Founding Connectivity Partner"
-    excerpt: "SES today announced it has joined as the medium Earth orbit (MEO) connectivity partner for Microsoft Azure Orbital, Microsoft’s new managed service enabling network operators to"
-    publishedDateTime: 2020-09-23T06:38:00Z
-    webUrl: "https://tucson.com/business/correcting-and-replacing-ses-becomes-microsoft-azure-orbital-founding-connectivity-partner/article_c57e3917-3762-5f53-97d5-19d69a84fd01.html"
-    type: article
-    provider:
-      name: Arizona Daily Star
-      domain: tucson.com
-    quality: 44
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/custom/image/80e87ada-cfb0-11e7-b59b-a75438cf81bb.png"
-        width: 620
-        height: 290
         isCached: true
   - title: "CORRECTING and REPLACING SES Becomes Microsoft Azure Orbital Founding Connectivity Partner"
     excerpt: "... will enable our partners’ customers to on-ramp their data into Azure where it can immediately be processed with market-leading data analytics, geospatial tools and machine learning services, adding another layer of automation and intelligence in ..."

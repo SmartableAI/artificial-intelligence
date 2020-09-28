@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/quora/2020/09/27/how-can-ai-support-small-businesses-during-the-pandemic/</loc>
+    <lastmod>2020-09-27T16:56:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.engadget.com/microsoft-flight-simulator-azure-ai-machine-learning-193545436.html?itm_source=parsely-api</loc>
     <lastmod>2020-09-27T12:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -379,12 +385,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.forbes.com/sites/martineparis/2020/09/23/how-to-dress-for-the-pandemic-surprising-trends-from-the-stitch-fix-ai-fashion-forecast/</loc>
-    <lastmod>2020-09-23T18:53:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.cnbc.com/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html</loc>
     <lastmod>2020-09-23T17:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -547,6 +547,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://venturebeat.com/2020/09/23/tusimple-expands-self-driving-trucks-to-europe-with-traton-partnership/</loc>
+    <lastmod>2020-09-23T00:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://english.madhyamam.com/technology/global-chipmaker-qualcomm-announces-snapdragon-750g-chip-with-5g-connectivity-574863</loc>
     <lastmod>2020-09-23T00:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -667,8 +673,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace/article_f6c327bd-10d4-5df0-beed-77fd9ceef60a.html</loc>
-    <lastmod>2020-09-22T05:30:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572</loc>
+    <lastmod>2020-09-22T05:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -759,6 +765,12 @@
   <url>
     <loc>https://www.pymnts.com/news/security-and-risk/2020/fincen-files-banks-battle-kyc-aml/</loc>
     <lastmod>2020-09-21T20:59:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.finanzen.net/nachricht/aktien/parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-9317528</loc>
+    <lastmod>2020-09-21T18:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -877,7 +889,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://apnews.com/globe-newswire/d1e2636d66efe74334839d6e7f1fded5</loc>
+    <loc>https://apnews.com/globenewswire-mobile/d1e2636d66efe74334839d6e7f1fded5</loc>
     <lastmod>2020-09-21T00:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

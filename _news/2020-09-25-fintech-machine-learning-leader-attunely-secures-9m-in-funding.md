@@ -36,22 +36,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 69
-  - title: "Building a secure infrastructure for FinTech innovation in India"
-    excerpt: "FinTech innovators can win if they use analytics to outperform traditional financial service firms. 5G will offer the processing power to support advanced AI and Big Data use cases, allowing ..."
-    publishedDateTime: 2020-09-23T05:35:00Z
-    webUrl: "https://yourstory.com/2020/09/secure-infrastructure-fintech-innovation-india"
-    ampWebUrl: "https://yourstory.com/2020/09/secure-infrastructure-fintech-innovation-india/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/09/secure-infrastructure-fintech-innovation-india/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 44
-    images:
-      - url: "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/fintech-1599641536708.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Latest Tech Nation fintech cohort reflects diversifying sector"
     excerpt: "The latest group of fintechs accepted into Tech Nation’s growth programme reflects the diversification of a maturing sector."
     publishedDateTime: 2020-09-23T14:59:00Z

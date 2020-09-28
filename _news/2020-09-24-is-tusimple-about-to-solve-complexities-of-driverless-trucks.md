@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Volkswagen’s Truck Unit Ties Up With TuSimple On Robot Big Rigs"
-    excerpt: "TuSimple, a startup that’s developing self-driving technology for heavy ... (TuSimple is also a standout member of Forbes’ 2020 AI 50 list of companies to watch.)"
-    publishedDateTime: 2020-09-23T07:01:00Z
-    webUrl: "https://www.forbes.com/sites/alanohnsman/2020/09/23/volkswagens-truck-unit-ties-up-with-tusimple-on-robot-big-rigs/"
-    ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2020/09/23/volkswagens-truck-unit-ties-up-with-tusimple-on-robot-big-rigs/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/09/23/volkswagens-truck-unit-ties-up-with-tusimple-on-robot-big-rigs/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a44a97566ec33224ea8ed%2F0x0.jpg"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "TuSimple expands self-driving trucks to Europe with Traton partnership"
     excerpt: "Self-driving truck startup TuSimple inked an agreement with Traton that will give the VW subsidiary a minority stake in the startup."
     publishedDateTime: 2020-09-23T07:30:00Z
@@ -126,6 +110,20 @@ related:
       - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2020binary_LYNXNPEG8M0IS-BASEIMAGE.jpg"
         width: 800
         height: 507
+        isCached: true
+  - title: "VW's Traton takes stake in U.S. self-driving startup"
+    excerpt: "Volkswagen Group's Traton commercial truck unit is partnering with a self-driving startup that recently aligned with Navistar International, the U.S. manufacturer that VW’s truck unit is trying to acquire."
+    publishedDateTime: 2020-09-23T18:52:00Z
+    webUrl: "https://europe.autonews.com/automakers/vws-traton-takes-stake-us-self-driving-startup"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Traton_TuSimple.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "GG0wHJCyHZkLUajsuqTeaNOmZ+WD83CuFITkne5Gc0uuyrRPvH6wmsRO5bKeiOWuYienzGgsyyQZ2a72OdvagHqCyBILUbvtw3Pyvy5grk1FCoxaIsnttFcfPgHk0W72APLBPzkYkeHDntNVLeh7zL8y33J8HBsVWsj2rrI1BBWdcO5Cp7hGzismjt6pxyEKOwF6ML70aKZsFxCKy+hmZxfG159qBoytQvgDVwz2ch1cXsffP5OXjTfTbsWCKTNuZyglRxOabfJi46/rILINXTS18nOyJmbWJP0DlDy99bBY7h7OnljfSVZacuPEBcEulu/IWUtMDFMPgUD1fVLCpbcdna/7M7jXYdPa5ImOt2nccdu5Oc7a6Fof0Fgcnq8XxJ5pXz1m/01n78BPcctGFHQTXmXHXOuMKEHtvs6Bce56hXJ1QLYPSZKlbxv2/jaPyCdomFKVpiEQt47yx4IPXxzom3AcKNvQHljfjdPaAzXogr6EvXe5tRq2FllzsBExPxXnmEtdCrTpQJavKYbcZQ==;booJqU/o/Fp4EbiZKHqnhA=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/as-per-study-voice-and-s
 webUrl: "https://www.marketwatch.com/press-release/as-per-study-voice-and-speech-recognition-market-size-poised-to-surpass-usd-3149-billion-by-2026-2020-09-23"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Far-Field Speech And Voice Recognition Market Evolving Technology and Growth Outlook 2020 to 2026"
-    excerpt: "Sep 23, 2020 (Market Insight Reports) -- The Far-Field Speech And Voice Recognition Market report is a compilation of first-hand information, qualitative and quantitative assessment by industry analysts, inputs from industry experts and industry ..."
-    publishedDateTime: 2020-09-23T05:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/far-field-speech-and-voice-recognition-market-evolving-technology-and-growth-outlook-2020-to-2026-2020-09-23?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "qp+brrrB42rBOlq5NPnicwoODxWozAMG1w0ocx6mt2b+yJtjgKoIroajrE+BkVSfJXQCPPAki9ajwYYO9XBWnQaH+DVbHKRzWQ0kMhEWDR5AKkrv00RwbWmAKnX2WHn4zz7bomCHx7eeMhX/BWJoarqPWSOiGWheAlLn+80h+zzUivMxH/hK7LZkSZdFTDjA4xP+VyNeIjrtpzZvJbE/M+bDLlCLWyqnUINZGBaBYjvk70sCGkwiBMyLpnQ7Q5UDN5tbp6XiTWwBKXBEcOKlMrbaVNWd2If6LyHAmRjTIu3I8jAqemzQngN1KorZElMNgqfbXdj9AWTLIDybJJYQy3Rr1cV5IMyRzzxIv7XN5nk=;QAWuuEdBCyayisWympOHFg=="
 ---

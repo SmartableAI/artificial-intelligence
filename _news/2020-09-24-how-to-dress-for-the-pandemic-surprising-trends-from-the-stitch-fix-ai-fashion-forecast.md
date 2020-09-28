@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/martineparis/2020/09/23/how-to-dress-fo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2020/09/23/how-to-dress-for-the-pandemic-surprising-trends-from-the-stitch-fix-ai-fashion-forecast/amp/"
 type: article
 quality: 78
-heat: 98
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "How Can AI Support Small Businesses During The Pandemic?"
+    excerpt: "VUCA is a term that seems appropriate for the environment Credit Sesame and many businesses have been facing since the pandemic."
+    publishedDateTime: 2020-09-27T23:56:00Z
+    webUrl: "https://www.forbes.com/sites/quora/2020/09/27/how-can-ai-support-small-businesses-during-the-pandemic/"
+    ampWebUrl: "https://www.forbes.com/sites/quora/2020/09/27/how-can-ai-support-small-businesses-during-the-pandemic/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2020/09/27/how-can-ai-support-small-businesses-during-the-pandemic/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f66c44541673f93c14d00c1%2F0x0.jpg"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "Rebooting the post-pandemic enterprise with AI automation"
     excerpt: "While 59% of these SCM practitioners currently use cloud infrastructure, only 28% have deployed predictive analytics systems and a mere 12% use AI technologies. A recent post by the VP of Azure's AI operations highlighted several other areas where AI can ..."
     publishedDateTime: 2020-09-24T09:36:00Z
@@ -45,20 +61,6 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2020-04/brain-20424_1280.jpg"
         width: 1280
         height: 980
-        isCached: true
-  - title: "The 4 Top Artificial Intelligence Trends For 2021"
-    excerpt: "Before the global pandemic struck in 2020 and the world was turned on its head, artificial intelligence (AI), and specifically the branch of AI known as machine learning (ML), were already causing widespread disruption in almost every industry. The Covid ..."
-    publishedDateTime: 2020-09-24T12:30:00Z
-    webUrl: "https://ctovision.com/the-4-top-artificial-intelligence-trends-for-2021/"
-    type: article
-    provider:
-      name: ctovision.com
-      domain: ctovision.com
-    quality: 37
-    images:
-      - url: "https://ctovision.com/wp-content/uploads/space.jpg"
-        width: 632
-        height: 422
         isCached: true
 
 secured: "fYpjW5dwB8hNmjeibC4ds7vwwSZM4dP4rfhnZznofqr0gcff1Xsfmc/HDJPVxvBoPJAa/RRRI/uSf4cDLmU3p0Fpw4G4F/8wHhVnddeXqJSDwdpc3TpVaYOH5n/fg32JLJ56J7xCdGzTf1m7X0ruEUTubxU/w3YBitk/S/PyxfxyfKaFIsDs4bjXHWj1gGUtEDYWdj9uxBc1x8UloIvLblPBbLKdwEr+GBXv6IT7Wcw/FcsMp2yt/z5+DKvyNiUVGSzrSiLuh2TIRfi/iwml6S9guX32RfwVlwJjNzKwACcMdliKm0KONXaJ/yPc5DfmN9qFrRRlmhlW+X+CHtVnymjDAmiFcPQRJJBQVGkl5+ala/P+0ja5eiVuo+SmGSE7HhiskFVsEHITbDyIQ0F0jb1sc3Hdsw4qSeY2KtVPoWDuy4rJ9Vjk+at9J/qOiIQKN4qY0fr6WGEjwjDM53fSdWuJDJaZBqaXkoSd+Dys3bB6c4p4k/1ke93a8omG9tX+B2xZQ+uaNiNfdhfC0NhKZA==;rInuSsU5Ws9G9LGX+JwtIA=="
