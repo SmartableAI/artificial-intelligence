@@ -173,20 +173,6 @@ related:
         width: 950
         height: 633
         isCached: true
-  - title: "Microsoft's Azure Defender for IoT Uses CyberX Tech"
-    excerpt: "Azure Defender for IoT is built to help IT and OT teams discover IoT and OT assets, identify critical flaws, and detect malicious behavior."
-    publishedDateTime: 2020-09-23T18:41:00Z
-    webUrl: "https://www.darkreading.com/iot/microsofts-azure-defender-for-iot-uses-cyberx-tech/d/d-id/1338996"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 54
-    images:
-      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
-        width: 600
-        height: 600
-        isCached: true
   - title: "A Microsoft-powered instant two-way translator"
     excerpt: "Powered by Microsoft's automatic speech recognition software and OrionStar AI Technology, the device is meant to provide users with instant two-way translation in 73 languages while displaying text on a 1.54\" IPS-LCD touch-screen, which offers a text-to ..."
     publishedDateTime: 2020-09-25T07:42:00Z

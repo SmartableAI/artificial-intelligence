@@ -2,6 +2,57 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-08-25-immersive-reader-for-azure-cognitive-services-is-now-generally-available.md",
+      "title": "Immersive Reader for Azure Cognitive Services is now generally available",
+      "excerpt": "The Azure Cognitive Service which has been in preview since last year has finally become generally available, bringing additional features such as an updated SDK and new translator languages as well.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/immersive-reader-for-azure-cognitive-services-is-now-generally-available",
+      "originalUrl": "https://www.neowin.net/news/immersive-reader-for-azure-cognitive-services-is-now-generally-available",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/09/1567329609_azure-2_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/immersive-reader-for-azure-cognitive-services-is-now-generally-available/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/immersive-reader-for-azure-cognitive-services-is-now-generally-available/",
+      "publishedDateTime": "2020-08-25T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-26-immersive-reader-for-azure-cognitive-services-is-now-generally-available.md",
       "title": "Immersive Reader for Azure Cognitive Services is now generally available",
       "excerpt": "The Azure Cognitive Service which has been in preview since last year has finally become generally available, bringing additional features such as an updated SDK and new translator languages as well.",
@@ -1144,47 +1195,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-ai-vs-human-fighter-pilot-heres-who-won-the-epic-dogfight.md",
-      "title": "AI vs. Human Fighter Pilot: Here's Who Won the Epic Dogfight",
-      "excerpt": "The dogfight is part of a DARPA-led effort to develop AI for fighter planes. The AI won an important string of victories but robotic air combat still has a ways to go. An artificial intelligence claimed victory over several other AIs in simulated dogfights and then went on to trounce a real human Air Force pilot,",
-      "sourceUrl": null,
-      "webUrl": "https://www.popularmechanics.com/military/aviation/a33765952/ai-vs-human-fighter-pilot-simulated-dogfight-results/",
-      "originalUrl": "https://www.popularmechanics.com/military/aviation/a33765952/ai-vs-human-fighter-pilot-simulated-dogfight-results/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-08-25-at-8-14-56-am-1598357785.png?crop=0.981xw:0.895xh;0.00321xw,0&resize=1200:*",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.popularmechanics.com/military/aviation/amp33765952/ai-vs-human-fighter-pilot-simulated-dogfight-results/",
-      "cdnAmpWebUrl": "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/military/aviation/amp33765952/ai-vs-human-fighter-pilot-simulated-dogfight-results/",
-      "publishedDateTime": "2020-08-25T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Mechanics",
-        "domain": "popularmechanics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

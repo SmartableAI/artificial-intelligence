@@ -187,20 +187,6 @@ related:
         width: 1363
         height: 766
         isCached: true
-  - title: "Microsoft's Azure Defender for IoT Uses CyberX Tech"
-    excerpt: "Azure Defender for IoT is built to help IT and OT teams discover IoT and OT assets, identify critical flaws, and detect malicious behavior."
-    publishedDateTime: 2020-09-23T18:41:00Z
-    webUrl: "https://www.darkreading.com/iot/microsofts-azure-defender-for-iot-uses-cyberx-tech/d/d-id/1338996"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 54
-    images:
-      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
-        width: 600
-        height: 600
-        isCached: true
   - title: "Microsoft unveils communication platform to help users connect better with businesses"
     excerpt: "In an effort to help customers connect better with businesses in the remote working times, Microsoft has announced Azure Communication Services which is the first fully managed communication platform offering from a major Cloud provider."
     publishedDateTime: 2020-09-24T07:05:00Z

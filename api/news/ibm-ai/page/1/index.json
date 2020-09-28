@@ -56,17 +56,17 @@
       "title": "IBM Watson Assistant Can Help States Deliver Critical Voting Information to Citizens",
       "excerpt": "IBM) has technology to help states use the AI capabilities of Watson to put this critical data and information directly into the hands of voters. With states facing a deluge of information ...",
       "sourceUrl": null,
-      "webUrl": "https://www.finanzen.net/nachricht/aktien/ibm-watson-assistant-can-help-states-deliver-critical-voting-information-to-citizens-9305678",
-      "originalUrl": "https://www.finanzen.net/nachricht/aktien/ibm-watson-assistant-can-help-states-deliver-critical-voting-information-to-citizens-9305678",
+      "webUrl": "https://www.marketwatch.com/press-release/ibm-watson-assistant-can-help-states-deliver-critical-voting-information-to-citizens-2020-09-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/ibm-watson-assistant-can-help-states-deliver-critical-voting-information-to-citizens-2020-09-17",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
-          "width": 600,
-          "height": 315,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -75,12 +75,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-17T07:00:00-07:00",
+      "publishedDateTime": "2020-09-17T05:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Finanzen",
-        "domain": "finanzen.net",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

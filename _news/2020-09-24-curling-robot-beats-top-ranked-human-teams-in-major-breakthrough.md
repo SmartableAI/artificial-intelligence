@@ -7,7 +7,7 @@ originalUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/robot-cu
 webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/robot-curling-korea-artificial-intelligence-ai-b574309.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robot beats humans at curling thanks to deep learning program"
-    excerpt: "Thanks to a new deep learning program, a curling robot, appropriately named Curly, was able to win three out of four matches against curlers from South Korea's national teams."
-    publishedDateTime: 2020-09-23T18:27:00Z
-    webUrl: "https://www.upi.com/Science_News/2020/09/23/Robot-beats-humans-at-curling-thanks-to-deep-learning-program/5991600873549/"
-    ampWebUrl: "https://www.upi.com/amp/Science_News/2020/09/23/Robot-beats-humans-at-curling-thanks-to-deep-learning-program/5991600873549/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2020/09/23/Robot-beats-humans-at-curling-thanks-to-deep-learning-program/5991600873549/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 76
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/i/5991600873549/2020/1/16008835508632/v1.5/Robot-beats-humans-at-curling-thanks-to-deep-learning-program.jpg"
-        width: 800
-        height: 532
-        isCached: true
   - title: "Robot beats human curling teams as part of research project"
     excerpt: "Researchers have developed an artificial intelligence-powered robot which has beaten human curling teams. The robot was designed by researchers from the Korea University in Seoul and the Berlin Institute of Technology."
     publishedDateTime: 2020-09-26T17:26:00Z

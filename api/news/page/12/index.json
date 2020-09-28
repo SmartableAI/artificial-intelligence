@@ -2,6 +2,57 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-09-16-safety-driver-in-fatal-arizona-uber-self-driving-car-crash-charged-with-homicide.md",
+      "title": "Safety driver in fatal Arizona Uber self-driving car crash charged with homicide",
+      "excerpt": "WASHINGTON (Reuters) - The back-up safety driver behind the wheel of a self-driving Uber Technologies UBER.N test vehicle that struck and killed a woman in Tempe, Arizona, in 2018 was charged with ...",
+      "sourceUrl": null,
+      "webUrl": "https://uk.reuters.com/article/uber-selfdriving/update-1-safety-driver-in-fatal-arizona-uber-self-driving-car-crash-charged-with-homicide-idUKL1N2GC2F5",
+      "originalUrl": "https://uk.reuters.com/article/uber-selfdriving/update-1-safety-driver-in-fatal-arizona-uber-self-driving-car-crash-charged-with-homicide-idUKL1N2GC2F5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200916&t=2&i=1533615341&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8F054",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://uk.mobile.reuters.com/article/amp/idUKKBN2663FU",
+      "cdnAmpWebUrl": "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN2663FU",
+      "publishedDateTime": "2020-09-15T16:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-16-best-facial-recognition-home-security-cameras-of-2020.md",
       "title": "Best facial recognition home security cameras of 2020",
       "excerpt": "Select home security cameras have facial recognition, a feature that lets you make a database of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your profile of known faces.",
@@ -1146,47 +1197,6 @@
         "Natural Language Processing",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-it-wasnt-our-fault-trump-blames-nevada-governor-for-indoor-rally-criticised-as-homicidal-by-doctors.md",
-      "title": "'It wasn't our fault': Trump blames Nevada governor for indoor rally criticised as 'homicidal' by doctors",
-      "excerpt": "Donald Trump on Tuesday slammed Nevada’s Democratic governor over an indoor weekend campaign rally he held in the state, saying he preferred a second outdoor event but Steve Sisolak “forced us inside” even amid the state government’s own coronavirus restrictions.",
-      "sourceUrl": null,
-      "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
-      "originalUrl": "https://www.msn.com/en-gb/news/world/it-wasnt-our-fault-trump-blames-nevada-governor-for-indoor-rally-criticised-as-homicidal-by-doctors/ar-BB193WpK",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inside.com/assets/premium/Blue-email-icon-0994aadea0b5b10b19a148e2dd34a88c4a315b76ed51d7898fa49dc4ddc6d171.png",
-          "width": 414,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-15T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
-        "domain": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

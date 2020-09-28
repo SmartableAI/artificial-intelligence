@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robot beats humans at curling thanks to deep learning program"
-    excerpt: "Thanks to a new deep learning program, a curling robot, appropriately named Curly, was able to win three out of four matches against curlers from South Korea's national teams."
-    publishedDateTime: 2020-09-23T18:27:00Z
-    webUrl: "https://www.upi.com/Science_News/2020/09/23/Robot-beats-humans-at-curling-thanks-to-deep-learning-program/5991600873549/"
-    ampWebUrl: "https://www.upi.com/amp/Science_News/2020/09/23/Robot-beats-humans-at-curling-thanks-to-deep-learning-program/5991600873549/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2020/09/23/Robot-beats-humans-at-curling-thanks-to-deep-learning-program/5991600873549/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 76
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/i/5991600873549/2020/1/16008835508632/v1.5/Robot-beats-humans-at-curling-thanks-to-deep-learning-program.jpg"
-        width: 800
-        height: 532
-        isCached: true
   - title: "Curling robot beats top-ranked human teams in major breakthrough"
     excerpt: "Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Premium subscription today. An AI-powered robot has beaten a team of professional curling players in a major real-world breakthrough for robotics."
     publishedDateTime: 2020-09-24T14:00:00Z

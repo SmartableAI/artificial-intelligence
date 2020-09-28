@@ -3,8 +3,8 @@ category: news
 title: "AI in Social Media Market Size, Share, Growth, Trends, Scope and Forecast 2020 to 2030"
 excerpt: "A new study on the global AI in Social Media Market has been published by Insight Slice. It presents a wealth of information on key market dynamics, including the drivers, market trends, and challenges,"
 publishedDateTime: 2020-09-28T07:14:00Z
-originalUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-size-share-growth-trends-scope-and-forecast-2020-to-2030-2020-09-28?mod=mw_quote_news"
-webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-size-share-growth-trends-scope-and-forecast-2020-to-2030-2020-09-28?mod=mw_quote_news"
+originalUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-size-share-growth-trends-scope-and-forecast-2020-to-2030-2020-09-28"
+webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-size-share-growth-trends-scope-and-forecast-2020-to-2030-2020-09-28"
 type: article
 quality: 59
 heat: -1
@@ -70,15 +70,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in BFSI Market 2020 Industry Outlook, Classification, Demand, Regional Analysis and Forecast to 2025"
-    excerpt: "The recently released report titled Global Artificial Intelligence (AI) in BFSI Market 2020 by Company, Type and Application, Forecast to 2025 mainly elaborates on market definitions, classifications,"
-    publishedDateTime: 2020-09-23T18:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-bfsi-market-2020-industry-outlook-classification-demand-regional-analysis-and-forecast-to-2025-2020-09-23"
+  - title: "AI in Manufacturing Market 2020 with COVID-19 Impact Analysis | Upcoming Trends & Forecast Till 2027"
+    excerpt: "The global artificial intelligence (AI) in manufacturing market size is expected to rise owing to increasing demand"
+    publishedDateTime: 2020-09-28T11:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-manufacturing-market-2020-with-covid-19-impact-analysis-upcoming-trends-forecast-till-2027-2020-09-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -171,6 +171,6 @@ related:
         height: 630
         isCached: true
 
-secured: "QaLlWNMOU+6SSn2RtRWVm44vGMJaujAV1i7TCbl+IJwK+XIiRTb+67pnX5ftXAZBcfvRwfxn2v2PceGbDcoCFiasFSPT8N7uNcheW7sBS/v4ICsKK+Is8segOWYK/ACcDbqcnvklF3U/3SJp8yqSfyJ6G2kcLw8kPiKmUtoaDi5KnMxMdws5ZsgK5k5Zb/xIFjao6jv0R18uqqc8lE5L0SpOObQXaGELzHJXMiEm+kwMOMwX2Fv9yK8jeY4Fl+ulWY/MZHJo8MyET0pEs2VKAROX2NA3v/DjF78Y+b7btSZQZ724nK1d+Rkqj05/GsCkr2baI0ekffsRuBeyw8i5z86qIhblVfEbeWCf7xp3YpA=;3j+/rzG74kOtwycGx+Mtyg=="
+secured: "5iXU9fize8Tv1GI2H+dzEPggSrmuJJIdlvceFJ4mi3dFfRWAwcO5IKvao490CaLzFSCtylaniXEpcYilclk8RPILLzx0bNtuiKYLtf+LUsSuz5wbrcTy/L0rgIOhIQtr1enEnTcqtOgeHnofiJzij9adr5UxsFU5ygHU+H13u/u/HtF3QWa+neg9USZrOPBapGNf0wiJXP+cBNBybMGiK8Y1lT7Sg8jV0F94NeuiUnyLU3NzLhNP2cNCUlTKAsDP76pwX7t574cWhtqU6BzTjzDSeZItQLRu2mnMLAuF/ZuO2Fd0ua5FmwOZj7af5IkSZ5s8FzLeJPTB9P4iyod1CbSMj6QofCFU0jNcoM6Vq7Q=;f0XueZgEQH6muih+mzzqjQ=="
 ---
 

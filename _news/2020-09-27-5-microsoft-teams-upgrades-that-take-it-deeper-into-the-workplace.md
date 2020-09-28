@@ -7,7 +7,7 @@ originalUrl: "https://www.cmswire.com/collaboration-productivity/5-microsoft-tea
 webUrl: "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/5-new-ways-to-boost-productivity-with-enhanced-teams-power/ba-p/1680697"
 type: article
 quality: 139
-heat: 329
+heat: 319
 published: true
 
 provider:
@@ -172,20 +172,6 @@ related:
       - url: "https://winbuzzer.com/wp-content/uploads/2019/03/Azure-Sentinel-Microsoft.jpg"
         width: 1363
         height: 766
-        isCached: true
-  - title: "Microsoft's Azure Defender for IoT Uses CyberX Tech"
-    excerpt: "Azure Defender for IoT is built to help IT and OT teams discover IoT and OT assets, identify critical flaws, and detect malicious behavior."
-    publishedDateTime: 2020-09-23T18:41:00Z
-    webUrl: "https://www.darkreading.com/iot/microsofts-azure-defender-for-iot-uses-cyberx-tech/d/d-id/1338996"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 54
-    images:
-      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
-        width: 600
-        height: 600
         isCached: true
   - title: "A Microsoft-powered instant two-way translator"
     excerpt: "Powered by Microsoft's automatic speech recognition software and OrionStar AI Technology, the device is meant to provide users with instant two-way translation in 73 languages while displaying text on a 1.54\" IPS-LCD touch-screen, which offers a text-to ..."

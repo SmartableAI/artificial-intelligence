@@ -175,6 +175,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/impact-of-covid-19-on-deep-learning-market-size-share-and-top-key-players-during-2020-2028-2020-09-24</loc>
+    <lastmod>2020-09-25T05:15:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.ibm.com/blogs/watson/2020/09/watson-aiops-is-now-updated-with-new-features/</loc>
     <lastmod>2020-09-25T05:11:59-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -727,8 +733,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace/article_f6c327bd-10d4-5df0-beed-77fd9ceef60a.html</loc>
-    <lastmod>2020-09-22T05:30:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572</loc>
+    <lastmod>2020-09-22T05:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1345,12 +1351,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.finanzen.net/nachricht/aktien/ibm-watson-assistant-can-help-states-deliver-critical-voting-information-to-citizens-9305678</loc>
-    <lastmod>2020-09-17T07:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://venturebeat.com/2020/09/17/rapidai-raises-25-million-to-analyze-medical-scans-with-ai-algorithms/</loc>
     <lastmod>2020-09-17T06:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1371,6 +1371,12 @@
   <url>
     <loc>https://www.forbes.com/sites/michellegreenwald/2020/09/17/how-artificial-intelligence-is-helping-companies-identify--nail-new-product-opportunities/</loc>
     <lastmod>2020-09-17T05:38:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/ibm-watson-assistant-can-help-states-deliver-critical-voting-information-to-citizens-2020-09-17</loc>
+    <lastmod>2020-09-17T05:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

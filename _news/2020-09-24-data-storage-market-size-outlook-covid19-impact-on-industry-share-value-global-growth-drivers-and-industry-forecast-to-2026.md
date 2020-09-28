@@ -46,7 +46,7 @@ related:
   - title: "AI in Social Media Market Size, Share, Growth, Trends, Scope and Forecast 2020 to 2030"
     excerpt: "A new study on the global AI in Social Media Market has been published by Insight Slice. It presents a wealth of information on key market dynamics, including the drivers, market trends, and challenges,"
     publishedDateTime: 2020-09-28T07:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-size-share-growth-trends-scope-and-forecast-2020-to-2030-2020-09-28?mod=mw_quote_news"
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-size-share-growth-trends-scope-and-forecast-2020-to-2030-2020-09-28"
     type: article
     provider:
       name: MarketWatch
@@ -85,15 +85,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in BFSI Market 2020 Industry Outlook, Classification, Demand, Regional Analysis and Forecast to 2025"
-    excerpt: "The recently released report titled Global Artificial Intelligence (AI) in BFSI Market 2020 by Company, Type and Application, Forecast to 2025 mainly elaborates on market definitions, classifications,"
-    publishedDateTime: 2020-09-23T18:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-bfsi-market-2020-industry-outlook-classification-demand-regional-analysis-and-forecast-to-2025-2020-09-23"
+  - title: "AI in Manufacturing Market 2020 with COVID-19 Impact Analysis | Upcoming Trends & Forecast Till 2027"
+    excerpt: "The global artificial intelligence (AI) in manufacturing market size is expected to rise owing to increasing demand"
+    publishedDateTime: 2020-09-28T11:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-manufacturing-market-2020-with-covid-19-impact-analysis-upcoming-trends-forecast-till-2027-2020-09-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
