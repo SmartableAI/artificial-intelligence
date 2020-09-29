@@ -7,7 +7,7 @@ originalUrl: "https://www.cmswire.com/collaboration-productivity/5-microsoft-tea
 webUrl: "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/5-new-ways-to-boost-productivity-with-enhanced-teams-power/ba-p/1680697"
 type: article
 quality: 139
-heat: 269
+heat: 259
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft licenses the breakthrough natural language AI GPT-3"
-    excerpt: "Microsoft announced that it has “exclusively licensed” OpenAI’s sophisticated GPT-3 language model that can generate disturbingly human-like text in applications ranging from commercial bots to creati"
-    publishedDateTime: 2020-09-24T12:25:00Z
-    webUrl: "https://www.engadget.com/microsoft-gpt-3-exclusive-license-ai-language-model-094525975.html"
-    ampWebUrl: "https://www.engadget.com/amp/microsoft-gpt-3-exclusive-license-ai-language-model-094525975.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-gpt-3-exclusive-license-ai-language-model-094525975.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 104
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Fdf49deb0-fd76-11ea-afec-145aeeb4f3ac&client=amp-blogside-v2&signature=e1efb727751d470d04c033dfc8d047fc24126dc4"
-        width: 600
-        height: 350
-        isCached: true
   - title: "Microsoft nabs exclusive license to key AI program"
     excerpt: "Microsoft announced a deal Tuesday that will give it the exclusive license to OpenAI's GPT-3 language model, a tool that uses machine learning to generate remarkably human sounding text. Why it matters: The deal provides a way for many companies to have access to the technology while seemingly allowing Microsoft to establish guardrails and parameters for how the technology can be used."
     publishedDateTime: 2020-09-24T21:38:00Z

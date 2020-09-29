@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 643
         isCached: true
-  - title: "AI recycling technology uses Raspberry Pi and robots"
-    excerpt: "A team of engineers used the popular device to create a way to automate the way we recycle. A team of engineers has used Raspberry Pi to power an AI recycling"
-    publishedDateTime: 2020-09-24T12:09:00Z
-    webUrl: "https://www.hydrogenfuelnews.com/ai-recycling-technology-uses-raspberry-pi-and-robots/8540582/"
-    ampWebUrl: "https://www.hydrogenfuelnews.com/ai-recycling-technology-uses-raspberry-pi-and-robots/8540582/amp/"
-    cdnAmpWebUrl: "https://www-hydrogenfuelnews-com.cdn.ampproject.org/c/s/www.hydrogenfuelnews.com/ai-recycling-technology-uses-raspberry-pi-and-robots/8540582/amp/"
-    type: article
-    provider:
-      name: Hydrogen Fuel News
-      domain: hydrogenfuelnews.com
-    quality: 74
-    images:
-      - url: "http://www.hydrogenfuelnews.com/wp-content/uploads/2020/09/AI-recycling-Raspberry-Pi-technology.jpg"
-        width: 873
-        height: 539
-        isCached: true
   - title: "Artificial intelligence can help protect orchids and other species"
     excerpt: "Many orchid species are threatened by land conversion and illegal harvesting. However, only a fraction of those species is included in the IUCN Red List of Threatened Species, because assessments require a lot of time,"
     publishedDateTime: 2020-09-28T20:49:00Z
@@ -93,6 +77,6 @@ related:
         height: 239
         isCached: true
 
-secured: "8tlzOjG+lNTvayKvJZxFXKv6jlKfQUeh2Q79HIpDC944nVas7JYdurygnL6Y0WmqM0vnP+0v5rPReUGhnqu5aisix0K6xhcS/KZQLh1VvzNAoLDxDNAkppGjS8LNcFNDvLlFHPy4t0UJE2WVMHaD+nqW/kJPBBa7EegEPZ32pe62IcHLN+psYuPPfHt0iwGw5qkEB5mBVbbmuBcYc9ldyPglSBPcg96buiao7cHHd0+L3ISuuAGFgIqQZj9Nke+vFE+ajjuHjVgqCVgxgsaVZQGIebaEMZUG+SsIpMldJBPquXC+SSgQET3FNm0umUXCJEZaUTKyfuxPJ6QCiKVOb3mMvVigBIwZNauk6EpRiP4=;lcqEk7oJO3DnLQPOuBrg5w=="
+secured: "88ZDN8jZA+ea4SUumuaTbbTp+myHUIXjL9DzmIUxhcqj6mZNLjQaxa5XZUaV/0g/LvQZMbydhjoh8bVoTuW5ar+fYsfiJlLActMJfCP3dLPWutPb6yOndOa/j7mWelwOQjMA+spbu8o3OimaOKf1fRpHiMyPTXzikwb4VH4AmdYW16N77CUTTDCRCNV6Y30raV3PWRkQvEgWGxKIdFAMdtNO4pBypRa+E9WGZmW7ctrkDXrAeZ6WtiMespCQBvQNPFMwdZfCa8Aeu/pNfkwH+AdkIOJ5cZ7rfarUcEm+kjndldCXfYxRiQfZu2N6lOcM7A7b9My+SaBGNtfMRIyk4DFggyEs8+k705oTZv7sUz5xAggl73kyU4fAdtTLrasopJ2K5We02QR+Ee8RJmKweNiOEV44Zhy7Fm5SXa8aKV5DPPZjxUbl534ZeYloIxR+m3jMAtRWBYkHR2FrhaslOaIoeVsPt6ZndwTPp9wUp1vc9qcUdgDtLP3SsCE3WYFoamA345Nz4KlrYWB6VXasdw==;NSO1TOtTjv4Gfe9eL5xm+A=="
 ---
 

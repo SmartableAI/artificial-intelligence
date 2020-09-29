@@ -23,22 +23,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Project Finance Startup Unety Partners With ecoAmerica to Save 16 Million Metric Tons of CO2"
-    excerpt: "Unety, a novel platform that democratizes financing to upgrade commercial buildings, today announced the launch of a nationwide"
-    publishedDateTime: 2020-09-24T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/project-finance-startup-unety-partners-with-ecoamerica-to-save-16-million-metric-tons-of-co2-301137365.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 11
-    images:
-      - url: "https://mma.prnewswire.com/media/1280317/Unety_Logo.jpg?p=facebook"
-        width: 600
-        height: 314
-        isCached: true
-
 secured: "/7uktmcGKSO7QEWXpFLNwpbKJJAjfL+CqUFweCTEUZAEmES9OHBvjynjYFL1dV11ec60A++6ESZqeTVJnQ8VL6DrMnXscSFrKo7gCRzRqG2wUAxsITarQmZznNRLLBNG+kZjd6WaZP6WJU4GNxv/DKkChMz4MAbi3NHeCOnUuamnja/eRiZ3Ytyb1yZdpTzhmQwol4Jm+hxGR97oS3Hp8OpXHqH5OJ5+UcClUm0p54HoEGev2Lbu5KWbgD+AJkMpgUVD/O1slfkXU8ERfy3cKA7rwTPBmj4Gja4w2eXLaT4txJd6aCnHM2td+Hj7bG1S76NlnZkCGEDZj+k/vSeRiQEOHkrZ+AwRtuS3t4URgQU=;Q7/P2WSv0eMb0JniBuKXhw=="
 ---
 

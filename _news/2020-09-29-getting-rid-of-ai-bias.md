@@ -1,27 +1,26 @@
 ---
 category: news
-title: "The Promise of Artificial Intelligence"
-excerpt: "Artificial intelligence and machine learning are increasingly being used to automate critical business functions and support clinicians making complex clinical decisions. As the pandemic challenges healthcare organizations to think innovatively to improve cost effectiveness,"
-publishedDateTime: 2020-09-25T14:15:00Z
-originalUrl: "https://www.modernhealthcare.com/technology/promise-artificial-intelligence"
-webUrl: "https://www.modernhealthcare.com/technology/promise-artificial-intelligence"
+title: "Getting rid of AI bias"
+excerpt: "Better facial recognition and changing algorithms - how to fight racial bias in AI"
+publishedDateTime: 2020-09-29T04:36:00Z
+originalUrl: "https://www.bbc.co.uk/programmes/p08ssk81"
+webUrl: "https://www.bbc.co.uk/programmes/p08ssk81"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Modern Healthcare
-  domain: modernhealthcare.com
+  name: BBC
+  domain: bbc.co.uk
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/AI%20EC_Thumbnail280.jpg"
-    width: 800
-    height: 600
+  - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p08ssk91.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -85,6 +84,20 @@ related:
         width: 1788
         height: 1677
         isCached: true
+  - title: "The Promise of Artificial Intelligence"
+    excerpt: "Artificial intelligence and machine learning are increasingly being used to automate critical business functions and support clinicians making complex clinical decisions. As the pandemic challenges healthcare organizations to think innovatively to improve cost effectiveness,"
+    publishedDateTime: 2020-09-25T14:15:00Z
+    webUrl: "https://www.modernhealthcare.com/technology/promise-artificial-intelligence"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/AI%20EC_Thumbnail280.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Recruiter.com Expands Board with Experts in Artificial Intelligence and Corporate Finance"
     excerpt: "Recruiter.com Group, Inc., a leading hiring platform, has announced today that Deborah Leff, Global Leader and Industry CTO for Data Science and Artificial Intelligence and Nick Florio, CPA, and founder of Strategic Staffing Concepts,"
     publishedDateTime: 2020-09-24T22:55:00Z
@@ -94,21 +107,7 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 38
-  - title: "Getting rid of AI bias"
-    excerpt: "Better facial recognition and changing algorithms - how to fight racial bias in AI"
-    publishedDateTime: 2020-09-29T04:36:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/p08ssk81"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p08ssk91.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
-secured: "eISFa807nFK58AzzwIa43Z4SBCWku82Q+gzvnmvieJ+wiAHeDs09L741EjTUo1Ir8+/f9UzLYUNBm+cJdfm6n4jRweFjdy5S4S3uUkBQ2LoH+yoGPpe1Pdqb6uY+ioYumJJbydk8Yuo6lN3kkhwTh50ZkPWvUBrIowqDSjiKzmbFXRo9ZT6Nm6CFAKCftmf71sAfD142vabphIm/GBHJSU/d3FUvgpV0UJh/R/GCLUQUSxe2/TA6pQfdZM1/3ntFtgRlmNJ96byycLdKbQYsXToTCmenyhLtBreygK0xRLo/zWuI2L+Ek18JFywmnlMladagpAgH59ZBrg2yojzYXSe7FHGwYItSJJSQ/o3kU4kk0mNBwdPveXg6+oxr9hCI9RN4eyL85xVM8nFhGj+TYsAatjth6Mun/wcSMlBCibsRQJnAOEsr5iGrYBCueeRo866xep1w/y4MTuKoaqRfsGr3uIRAfsiIRHxnpdCXfLDQ4Qj/BuHCs6yq5lNHOJ38AxBwjYCfbI6tA+DRrBSYdA==;jhF/kj0V0kpbGN0p9ycgog=="
+secured: "fke9ybPj8j+GhR7biD5uzpJ4V5LNQ2oRF3IwlWagf1AO94CbSbR053dP15LAKfioAeyh2jEeKVLbFC32ThnJPY8qiVs7YmOTQiY9jVyckqm8qkXL/gcNnuLjoy4BD0Th4g/IK2nkxwIEtsNG29eLfpS7GubtrAP41PSPlnhSlOhFl6FQNY0FmJ3I3cosQvAKPWo3iqE5vQT1IZjEm25gnrfPgaig9Gcaen7gFpsrXtOfSrRwbte/0K3gtiyd8Pdxq/mirFaXtpdktMXctnr7v8rbEp93OYR9rrSpglzWfO4iJsJmkz810N+i68aiW0S/Y4nVJCds1WhOMtNz5rMWGz7rC0r1i1RcMFibSnU69Es=;dRP205ivwwzpWA3s6dHEsw=="
 ---
 

@@ -41,22 +41,6 @@ related:
         width: 1597
         height: 1080
         isCached: true
-  - title: "Microsoft licenses the breakthrough natural language AI GPT-3"
-    excerpt: "Microsoft announced that it has “exclusively licensed” OpenAI’s sophisticated GPT-3 language model that can generate disturbingly human-like text in applications ranging from commercial bots to creati"
-    publishedDateTime: 2020-09-24T12:25:00Z
-    webUrl: "https://www.engadget.com/microsoft-gpt-3-exclusive-license-ai-language-model-094525975.html"
-    ampWebUrl: "https://www.engadget.com/amp/microsoft-gpt-3-exclusive-license-ai-language-model-094525975.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-gpt-3-exclusive-license-ai-language-model-094525975.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 104
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Fdf49deb0-fd76-11ea-afec-145aeeb4f3ac&client=amp-blogside-v2&signature=e1efb727751d470d04c033dfc8d047fc24126dc4"
-        width: 600
-        height: 350
-        isCached: true
   - title: "dotData Enterprise is Now Available on Microsoft Azure"
     excerpt: "Data, focused on delivering full-cycle data science automation and operationalization for the enterprise, is providing dotData Enterprise on Microsoft Azure, offering increased speed and efficiency of data science and machine learning processes coupled with Azure's strong managed IaaS/PaaS capabilities."
     publishedDateTime: 2020-09-25T14:40:00Z

@@ -24,6 +24,22 @@ images:
     height: 467
     isCached: true
 
+related:
+  - title: "AI and its Applications in the Education Sector"
+    excerpt: "The primary goal of developing AI systems is to offer an organization the capacity to rationalize a situation and decide on a specific course of action that maximizes the chances of attaining a particular goal."
+    publishedDateTime: 2020-09-24T15:39:00Z
+    webUrl: "https://www.cioapplications.com/news/ai-and-its-applications-in-the-education-sector-nid-6504.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 39
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/jq72j450.jpg"
+        width: 450
+        height: 308
+        isCached: true
+
 secured: "TKiJ1kIetJKPa/C38QdgL9KtA4h8gk0MQgS/f+gpDfTxS3FrhgMDUDHqgw+Z05OV40GvL3gxkgFm57DuJQyouz7FI5Tnz9A9FNX3o16WD2Pj8xnyk+sz/U0u1565EuVutNPF1jd6nskiHUgJTxqxDOGkLztApwCQkiQyaI+WFzbILoYNpBI90egqfli2KHR/wK+ZeRd0vLsEJ9a5jLXgG26H4XKJI054wSLaGy+btQYqfuY90xYJ4Z0kS55g3EZqZvJdRZBxgvNKMsfuAyRajqsU/EM3FYB3AzuvhsMnaIHCFOy8c1qGudzD83icfASll9hlGV/Z+H8cB+Hbxkv4jPazIynS8Ox/BsNCqht8mbavTa06ZzLStlvrl8ZTXubw9tPVSY5vrqWfCK1JtALHlGd7m/VXit7cP0xeGB1Pzgas9jUzJvuT39zZ+8FNl/sdArCS3/7XGQyMBVicGVlimO2DRIIWS2BQloK7wP/NRFYEXdwxf7jKRLHleIhkiE+V0JrYvrlK84gE97dHE1V9nA==;Jh0U30ii6gPn5oSaLO6O7g=="
 ---
 

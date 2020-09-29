@@ -1,30 +1,28 @@
 ---
 category: news
 title: "Can Tesla Really Produce A $25,000 Self-Driving Electric Car?"
-excerpt: "During Tuesday’s much-hyped battery day, Tesla CEO Elon Musk laid out plans to put everyone behind the wheel (or is that sleeping in the back) of a $25,000 car that drives itself. Much of the ..."
-publishedDateTime: 2020-09-26T21:01:00Z
-originalUrl: "https://oilprice.com/Energy/Energy-General/Can-Tesla-Really-Produce-A-25000-Self-Driving-Electric-Car.html"
-webUrl: "https://oilprice.com/Energy/Energy-General/Can-Tesla-Really-Produce-A-25000-Self-Driving-Electric-Car.html"
-ampWebUrl: "https://oilprice.com/Energy/Energy-General/Can-Tesla-Really-Produce-A-25000-Self-Driving-Electric-Car.amp.html"
-cdnAmpWebUrl: "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Energy-General/Can-Tesla-Really-Produce-A-25000-Self-Driving-Electric-Car.amp.html"
+excerpt: "During Tuesday’s much-hyped battery day, Tesla CEO Elon Musk laid out plans to put everyone behind the wheel (or is that sleeping in the"
+publishedDateTime: 2020-09-26T22:18:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692"
+webUrl: "https://markets.businessinsider.com/news/stocks/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 69
+heat: 79
+published: true
 
 provider:
-  name: Crude Oil Prices
-  domain: oilprice.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2020-09-25_hxhwkuvma8.jpg"
-    width: 700
-    height: 292
-    isCached: true
 
 related:
   - title: "Tesla’s new battery tech promises a road to a cheap self-driving electric car"
@@ -42,6 +40,6 @@ related:
         height: 628
         isCached: true
 
-secured: "01MnaK+4zRED3EoEC/TXW0AZuA1eskV8sP31xU27Xl5WTXYsZY9qPn7/dNVmmoyovS6d9+CAHnc1mnIR1KZgA/6V/wnwDnLtwKLUstwmA+uT2hg3IbnoTCaKkCG26gBrsK4fNELa+Vw9pDEXBdrA7UxlelfiVaaMrG/0CMoll+7MPupuYygCZqS8QjUEvyAj5kOeTO2+Tu/KCCR4P2WJDLzxCEp9uUB52gpFOK8qVGwwKg3TSIvAUZ4YYX4WKCfIsocwxULvJAzvkMmOTIU97S7Glif78xhacq99iJJou6PfTWZTtVQcZhdZDhNK6y7Ev5eMf51IrNZt/v5TsP89gTAe9poe+vvGdSMHqplRDs0=;Zgc+VPsLjzi2IksPnpSavw=="
+secured: "eNbEe2/KaWha6G+Mvm51deDbm0qB5qls9gqAHWcpNml5vdM3M7Jrok8ELpXvyHd9Copl1fxI3cN3EnGLUAdxVBfPOZuEutBeTchnfG1qPEOFV4mSUrNVUEJ/07IoqZ91tHbeKgk6jjAOmB5740DF7FJMvjljrjvP8yjTfXc6TXpKLhl/hCr0NlPQVWZHgcTkCE0f46B84Pzo1reL5s0xANOUpdJHiKhzPCNNruyw914XGtV4G5GDHXnEB+hT2THzsiir1Q9AFWsMEXxa/jpIze2JhT8eft3PzpfttUFJ06VaYsNpL4QWhkCed7sIpr47PBg0+vlpnlVVNUUaVRb1yAZ0IstcdrATBREN0JIbp/s=;SjJZwGO9tSYyb5j5Fwc4uw=="
 ---
 

@@ -2,6 +2,48 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2020-08-24-researchers-use-artificial-intelligence-to-strengthen-power-grid-resilience.md",
+      "title": "Researchers use artificial intelligence to strengthen power grid resilience",
+      "excerpt": "The US power grid system is not only large but dynamic, which makes it especially challenging to manage. Human operators know how to maintain systems when conditions are static. But when conditions change quickly operators lack a clear way of anticipating how the system should best adapt to meet system security and safety requirements.",
+      "sourceUrl": null,
+      "webUrl": "https://continuitycentral.com/index.php/news/resilience-news/5427-researchers-use-artificial-intelligence-to-strengthen-power-grid-resilience",
+      "originalUrl": "https://continuitycentral.com/index.php/news/resilience-news/5427-researchers-use-artificial-intelligence-to-strengthen-power-grid-resilience",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://continuitycentral.com/images/banners/consultantsad_cc1_2.jpg",
+          "width": 270,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-24T00:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "continuitycentral.com",
+        "domain": "continuitycentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-24-amplofly40-now-available-on-microsoft-appsource-and-azure-marketplace.md",
       "title": "AmploFly4.0 Now Available on Microsoft Appsource and Azure Marketplace",
       "excerpt": "Amplo Global Inc announced today that its AI-powered platform is now available on the Microsoft AppSource and Microsoft Azure Marketplace – their online stores providing applications and services for use on Azure.",
@@ -1073,48 +1115,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-22-aws-deepracer4-deepracer-13.md",
-      "title": "AWS DeepRacer入門：第4回 手を動かして強化学習を体験してみよう（自動運転ロボットカーDeepRacer編） (1/3)",
-      "excerpt": "連載目次 AWS DeepRacerは、自律走行を行うロボットカーである（第1回詳しく説明した）。 その走行エンジンの作成には、ディープラーニングの ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.atmarkit.co.jp/ait/articles/1908/22/news025.html",
-      "originalUrl": "https://www.atmarkit.co.jp/ait/articles/1908/22/news025.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.itmedia.co.jp/ait/articles/1908/22/cover_news025.png",
-          "width": 841,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-21T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MONOist",
-        "domain": "atmarkit.co.jp",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

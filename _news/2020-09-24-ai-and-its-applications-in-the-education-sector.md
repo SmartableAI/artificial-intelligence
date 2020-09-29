@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft’s Azure Communication Services handles enterprise video, voice, and text communications – Jaweb"
-    excerpt: "Microsoft today announced a new communications offering called Azure Communication Services that’s built on top of Azure. Microsoft says it leverages the same network powering Microsoft Teams to enable developers to add multimodal messaging to apps and websites while tapping into services like Azure Cognitive Services for translation,"
-    publishedDateTime: 2020-09-24T11:11:00Z
-    webUrl: "https://elmoudjaweb.com/microsofts-azure-communication-services-handles-enterprise-video-voice-and-text-communications-jaweb/"
-    ampWebUrl: "https://elmoudjaweb.com/microsofts-azure-communication-services-handles-enterprise-video-voice-and-text-communications-jaweb/?amp"
-    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/microsofts-azure-communication-services-handles-enterprise-video-voice-and-text-communications-jaweb/?amp"
+  - title: "Using artificial intelligence to elevating Thai medical standards in relation to lesion diagnosis"
+    excerpt: "Ltd. and Department of Radiology, Faculty of Medicine Siriraj Hospital, Mahidol University, to collaborate in medical AI technology for diagnostic radiography."
+    publishedDateTime: 2020-09-28T09:40:00Z
+    webUrl: "https://www.bangkokpost.com/business/1992975/using-artificial-intelligence-to-elevating-thai-medical-standards-in-relation-to-lesion-diagnosis"
     type: article
     provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 57
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 41
     images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/09/Microsofts-Azure-Communication-Services-handles-enterprise-video-voice-and-text.png"
-        width: 1200
-        height: 600
+      - url: "https://static.bangkokpost.com/media/content/20200928/c1_1992975_700.jpg"
+        width: 700
+        height: 467
         isCached: true
 
 secured: "9eRl8mk3mu0uNra0pzyDWgBccZ9401wH7kbwcK+zF62mR0Yfv2xGexFSoQ3LTZPEVrvXEB55NrpUfHqA/Uhe1/qldwagi+MbjNDr6KpAGRZhBwp/vPEu1IcAB4HysIgBEP1IjAp5qwSf4KMS+lgii8W1kVOijtoDt6JiCZso7cwOx4rhYrpYaMkZlpN1hikox+2Q8LwklyPX1rpDGB5gtylqFbsjhsnRP994Mf287iVTsvA3pgtmxWWubaRKhNOVYHFC4R6iqLGi3T+5mvClbDUAKa3BSLz6LtYHmeC5vgp331wmNk7bbtCyMqmEKQ1fFUT5ST5mG2TuQ3HcodeSuKDWZGfFXlHoEx5r4k1PfQHecsR1LbznQppp5Audzni2N3sAdMcQlaV0b0f80AFU+9x1A/G7Ey20rEU7Gq6GL4aDyOnvOHlbV61Fv6uNEG0+8JTNwwbOQjGK+fxtgiFT8l9f1F8R7aFs4Xe2DjbZ5gmTwFRzXhN2oop1dS92lWziZv7FalfXWLNnM4O7fj+9yA==;0QIBYiO7SG0li6EV2rsaVw=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.itnews.com.au/news/agl-transforms-advanced-analytics-t
 webUrl: "https://www.itnews.com.au/news/agl-transforms-advanced-analytics-to-run-on-central-azure-platform-553823"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ava Aware Cloud combines machine learning and advanced analytics for organisations of any size"
-    excerpt: "This video security solution offers the simplicity and flexibility of a cloud platform while providing the same intelligent, proactive security, and AI capabilities of Ava’s on-premises and hybrid solutions ... within the enterprise suggests a need ..."
-    publishedDateTime: 2020-09-24T11:14:00Z
-    webUrl: "https://www.beyond.ai/"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 110
-    images:
-      - url: "https://www.beyond.ai/wp-content/uploads/2019/06/Energy-Thumbnail.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Viking Analytics and iioote introduce new AI-based product for early detection of black mold"
     excerpt: "Viking Analytics, a Swedish provider of advanced analytics solution for predictive operations, and iioote, an IoT solution provider and"
     publishedDateTime: 2020-09-28T08:31:00Z

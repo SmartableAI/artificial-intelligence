@@ -58,22 +58,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "AI recycling technology uses Raspberry Pi and robots"
-    excerpt: "A team of engineers used the popular device to create a way to automate the way we recycle. A team of engineers has used Raspberry Pi to power an AI recycling"
-    publishedDateTime: 2020-09-24T12:09:00Z
-    webUrl: "https://www.hydrogenfuelnews.com/ai-recycling-technology-uses-raspberry-pi-and-robots/8540582/"
-    ampWebUrl: "https://www.hydrogenfuelnews.com/ai-recycling-technology-uses-raspberry-pi-and-robots/8540582/amp/"
-    cdnAmpWebUrl: "https://www-hydrogenfuelnews-com.cdn.ampproject.org/c/s/www.hydrogenfuelnews.com/ai-recycling-technology-uses-raspberry-pi-and-robots/8540582/amp/"
-    type: article
-    provider:
-      name: Hydrogen Fuel News
-      domain: hydrogenfuelnews.com
-    quality: 74
-    images:
-      - url: "http://www.hydrogenfuelnews.com/wp-content/uploads/2020/09/AI-recycling-Raspberry-Pi-technology.jpg"
-        width: 873
-        height: 539
-        isCached: true
   - title: "Edge AI challenges memory technology"
     excerpt: "With the rise of AI at the edge comes a whole host of new requirements for memory systems. Can today’s memory technologies live up to the stringent"
     publishedDateTime: 2020-09-25T13:51:00Z

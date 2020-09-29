@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ava Aware Cloud combines machine learning and advanced analytics for organisations of any size"
-    excerpt: "This video security solution offers the simplicity and flexibility of a cloud platform while providing the same intelligent, proactive security, and AI capabilities of Ava’s on-premises and hybrid solutions ... within the enterprise suggests a need ..."
-    publishedDateTime: 2020-09-24T11:14:00Z
-    webUrl: "https://www.beyond.ai/"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 110
-    images:
-      - url: "https://www.beyond.ai/wp-content/uploads/2019/06/Energy-Thumbnail.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "AGL transforms advanced analytics to run on central Azure platform"
     excerpt: "AGL has rebuilt its analytics capabilities to run off a central platform powered by Azure services instead of running projects from standalone virtual machines and laptops. The new platform went live in mid-2020,"
     publishedDateTime: 2020-09-27T20:54:00Z

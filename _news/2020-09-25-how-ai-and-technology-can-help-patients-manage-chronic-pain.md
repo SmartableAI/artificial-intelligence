@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/09/25/how-ai-and
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/25/how-ai-and-technology-can-help-patients-manage-chronic-pain/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f721ba48798ebc8ca144243%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D800%26cropY1%3D161%26cropY2%3D611"
         width: 800
         height: 450
-        isCached: true
-  - title: "AI recycling technology uses Raspberry Pi and robots"
-    excerpt: "A team of engineers used the popular device to create a way to automate the way we recycle. A team of engineers has used Raspberry Pi to power an AI recycling"
-    publishedDateTime: 2020-09-24T12:09:00Z
-    webUrl: "https://www.hydrogenfuelnews.com/ai-recycling-technology-uses-raspberry-pi-and-robots/8540582/"
-    ampWebUrl: "https://www.hydrogenfuelnews.com/ai-recycling-technology-uses-raspberry-pi-and-robots/8540582/amp/"
-    cdnAmpWebUrl: "https://www-hydrogenfuelnews-com.cdn.ampproject.org/c/s/www.hydrogenfuelnews.com/ai-recycling-technology-uses-raspberry-pi-and-robots/8540582/amp/"
-    type: article
-    provider:
-      name: Hydrogen Fuel News
-      domain: hydrogenfuelnews.com
-    quality: 74
-    images:
-      - url: "http://www.hydrogenfuelnews.com/wp-content/uploads/2020/09/AI-recycling-Raspberry-Pi-technology.jpg"
-        width: 873
-        height: 539
         isCached: true
   - title: "Artificial intelligence can help protect orchids and other species"
     excerpt: "Many orchid species are threatened by land conversion and illegal harvesting. However, only a fraction of those species is included in the IUCN Red List of Threatened Species, because assessments require a lot of time,"

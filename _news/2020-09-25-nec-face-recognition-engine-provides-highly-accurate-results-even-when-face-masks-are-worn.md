@@ -51,17 +51,6 @@ related:
         width: 1198
         height: 599
         isCached: true
-  - title: "Concerns about masks and facial-recognition software"
-    excerpt: "With facemasks now a part of our lives, tech companies are tackling the challenge of updating facial-recognition software to handle them."
-    publishedDateTime: 2020-09-24T12:12:00Z
-    webUrl: "https://www.fox5ny.com/news/concerns-about-masks-and-facial-recognition-software"
-    ampWebUrl: "https://www.fox5ny.com/news/concerns-about-masks-and-facial-recognition-software.amp"
-    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/concerns-about-masks-and-facial-recognition-software.amp"
-    type: article
-    provider:
-      name: Fox 5 NY
-      domain: fox5ny.com
-    quality: 24
 
 secured: "llOJUYwIC2fk+Woi4aqPmwd+xzcPJCYcGrhoMj7lo53HvXvwhsCfgaaIFTAyvV01NPJ+vUD4Kawqny/jOVKym+1PA3Yx5ctLGq+ItOon2HYkttg3tcLEWpUwVWu2KGNcll7UB1rC8VzojP0Gw1Xq1Fqv2HJL63qKJZmA/4yHOiRvhIu+ePqn3eTWRljZ4gqpfRx8RMzSuRgIUVhuH05LeYEboj6B8SyqeTJLCIovQ9wFqyTHeum5UcGEYX5gwJbVGqFRgT8/dvltfJPoHEIEy55x8jFKiCp7GjhQqMvMCPktZ363pHqXou2N6rhapigRHw/3slB1dCRw7vtw8Flv1QC99iEnjhuVkx8ubBYkRf8s8cH/hg+uhm+3hkAQhi7PHYGL49jQADCV7OPndiICqYpga2SuczjVS2Swal76hgtR4aZhUjUhx5mr1+tg4JZe/sIpFiKuNjIlEgYmVwZxLraUh8/HPBtimnGIUaVM8cfBGRxZh9AoE2ky6jtIqfX1yDWx+1Svm9bnR3xyCj+oNw==;RXlbhP9wtWynIlgamxn40g=="
 ---

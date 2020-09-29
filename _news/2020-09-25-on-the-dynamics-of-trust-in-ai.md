@@ -94,6 +94,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 38
+  - title: "Getting rid of AI bias"
+    excerpt: "Better facial recognition and changing algorithms - how to fight racial bias in AI"
+    publishedDateTime: 2020-09-29T04:36:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/p08ssk81"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 37
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p08ssk91.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "uilv057rKjzUfUYl5fVu0yhIakWTRNSL7HilM33uW/lDuY/SjeKGg2o6NARWtmbxlPjTiI6sZWteMUcOMLhyHe4MElIM5XL2akdc5GVV2EF0kJRqvMeJgsbojTayxwj9W0Hf6sCbAHOdvkEijZoXAgGoX2OBKkr7+rCMpOa4tVf3s0jjRSesuo2VcahNhT2lZlBH0GJj0Tp4wtqYqq7e3nboeLS7jvT4OnKVA1zi+7WdWLyIBJRP9s7H0oU5HGcg0bj0gW5J53QCegrRVAe2LqgH+YlRz7+uX3/CDCNy+2rriuk7QdBCEXVC+BWyRdWBGFUqz+xilIaHvecfkBt680jTL5hFzCfBC7sMLC1FNI1Un6TgnGQLSWx7kz8FgIvFnnDrpHDnn5QKj50D6kEVOj4acB4tUhDpFiQq1jnCLBJomgAQJ6Nd+ssXbboTjhy221GnNmA4fi9C3hZsCnIlqd7VTshhwicoOj9uWCz5ETL2W1YyHJXLXo2x2IiVai1UIxk4TNHaCpA394igFm7Y5w==;WYqWvSeXC68UH3sc7nXFEQ=="
 ---

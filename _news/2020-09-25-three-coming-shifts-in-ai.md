@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/amirhusain/2020/09/25/three-coming-shif
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amirhusain/2020/09/25/three-coming-shifts-in-ai/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -97,6 +97,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 38
+  - title: "Getting rid of AI bias"
+    excerpt: "Better facial recognition and changing algorithms - how to fight racial bias in AI"
+    publishedDateTime: 2020-09-29T04:36:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/p08ssk81"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 37
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p08ssk91.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "1V9PKgGwbHsAm5aPgug/WVYWvB94wKgF+K42S/0hNqEffbf2sqTMVlfaXVdH2IAlMfN7nNAq58V4NVKokRgv8BPCkTQDzpHHd1W0CaCT0Caq/s1Vm7ElUJmZSdZRAJgfhCHtZFAayIgUBXr/Hhza3+3kQE0Knu2bTj/KVNfaP7WIcT5R0IgoQW3+/cOP4xMWGaQ3/Pe9gyh7WQ5kTIfXlikywsbw8rM6LNgE2MIS7IfwdrRVqLiISsZkcB/xKABd9tjqDtO4zdhT9esH6yD+SjMBZobcn2EPVybqDUsXlCsG1GLcZ0Ag1bxHwNCvxyQGRriVSgxq16TOr7mGn9Zu8/M1HHC+3yF1Sx7pvTNAzbnOgJklprBaSSPAJD/np/4Vvi02RYlGoqkv8oE/JmSsrkr0DgrbBFzolnHsH+2Y2LmlCdGW5TGNHqOUQbObc0NAYQK6Vn7m1lereR3ZKTZx/gdPDrlJNyZR49MzF7JjU6fGPjBnci3EPRrCZA9HoxVpOWUAdiT0N/Y7QULHs87tYA==;Q2TTlhRtzZorDsoSOJ6zsA=="
 ---

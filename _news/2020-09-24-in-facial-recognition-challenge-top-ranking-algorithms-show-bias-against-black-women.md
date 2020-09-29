@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/24/in-facial-recognition-challenge-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/amp/"
 type: article
 quality: 97
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -47,17 +47,6 @@ related:
         width: 1198
         height: 599
         isCached: true
-  - title: "Concerns about masks and facial-recognition software"
-    excerpt: "With facemasks now a part of our lives, tech companies are tackling the challenge of updating facial-recognition software to handle them."
-    publishedDateTime: 2020-09-24T12:12:00Z
-    webUrl: "https://www.fox5ny.com/news/concerns-about-masks-and-facial-recognition-software"
-    ampWebUrl: "https://www.fox5ny.com/news/concerns-about-masks-and-facial-recognition-software.amp"
-    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/concerns-about-masks-and-facial-recognition-software.amp"
-    type: article
-    provider:
-      name: Fox 5 NY
-      domain: fox5ny.com
-    quality: 24
   - title: "NEC Face Recognition Engine Provides Highly Accurate Results Even when Face Masks are Worn"
     excerpt: "NEC Corporation today announced the strengthening of its face recognition technology, already recognized as the world's most accurate (*1), with the development of a new face recognition engine that provides high-precision certification even when masks are ..."
     publishedDateTime: 2020-09-24T20:27:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/adobe-liquid-mode-130012210.html"
 webUrl: "https://www.engadget.com/adobe-liquid-mode-130012210.html"
 type: article
 quality: 67
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 1015
     height: 630
     isCached: true
-
-related:
-  - title: "Adobe's Liquid Mode uses machine learning to make PDFs more readable on mobile devices"
-    excerpt: "Adobe today announced an update for Acrobat Reader that's supposed to solve the perennial problem of PDFs in a mobile-first world -- the poor reading experience"
-    publishedDateTime: 2020-09-24T12:07:00Z
-    webUrl: "https://www.techspot.com/news/86859-adobe-liquid-mode-uses-machine-learning-make-pdfs.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/86859-adobe-liquid-mode-uses-machine-learning-make-pdfs.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/86859-adobe-liquid-mode-uses-machine-learning-make-pdfs.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 81
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2020/09/2020-09-23-image-26.jpg"
-        width: 2000
-        height: 876
-        isCached: true
 
 secured: "pQIlsQoPQcwfpxto0JmlpNUo4JRI4ihQRvu0bUxZoFJlDeXZ6qQwq9+rnU+pbBHJM4mfhD/LC+qz7LwKx3lfDuFCcR6qBZVSxiB+D80pR8XInE3WPAybmk62jivsYi6imZhumUlMltZ6obaL+dWhJyZdMGe5BqVmFVFI9qhyd0x8vXoeWEU44Dg3i0xohp6/4AWWDRmdkaBq/kmxBQQfQjp5b8pUEzgyImlIps5BNpJheMyEV2hQQKf5ZOQXPaH+ICwOjoxglVfpiHHsvoKrLPoqshwIxwObjjiVpu9r0ovfwx2f2j51yvbKhVneBMJSERyU4U/2m2MIbtJmbDKunp3YOjIe1S/HS9hfziFfsJwzS0p/KwItbIofdDLuw51x+kf09p81X3cHEoMI/WTrBVJgZKpPFf9f0PzV9BdoD5Uvxw1729DtVvqgXvaHzVnEFoc3yh8Uq0INFuqTI7hBKck4678H604g+vaVWyWyz93isLMuvPyYmEa9xD2xDfHi3DVSxM0zZ1bt558U4wh6tg==;sMIAHeiS0D2GF8Vyz/xM9w=="
 ---
