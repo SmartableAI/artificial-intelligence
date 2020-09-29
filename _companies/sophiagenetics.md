@@ -2,7 +2,7 @@
 name: "Sophia Genetics"
 overview: "SOPHiA GENETICS improves patients diagnoses through accurate and fast genomic data analysis powered by SOPHiA AI. Watch the video: https://t.co/MsqztedvMG"
 type: "profile"
-heat: 0
+heat: 50
 
 website: https://www.sophiagenetics.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "sophiagenetics"
   url: "https://twitter.com/sophiagenetics"
-  followers: 21324
+  followers: 21325
 
 size: 201-500 employees
 yearFounded: 2011
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=KSr8445vqPg"
 
-secured: "5vuQTq6givcYetxvV7yJ95mNeyZ342H/Sw3fe5ph5QroxIwAD5ODfK8uF04wI8dco4dxQ0qlTN7MMAP7H8yY+gL5r1NkcCgy8MEy9jmboOTeFCFp9yb3mDvnR/5xyvBg5qcRpTz9qcQHscyTnUFsmq6QnKnJ+ygVjEPGzawkrwYZWDKTAqOH5VHMfCqpG248yQzdDNbws9pMph7zGRRhCkqn2cyfC6qAy9YJrHfHS6/pNPSWXZhQ3UP/qwuVW9E6L38HNhZNYG9AgP8bme6lyYwCHfxu3yTbLvMekz5u9nfCgKyHQVCYSt1CE5jepHbpVSlspTmptP0KUbEQD4n0yOkNn8Mf4EjZJLCUg6uog5SDJfFhkZKgv4bAEukm5Ybb1VhPMtrjF64cAUtm9TB4uc5wjXLOv4cCHhSHwt+BESs=;qt6a3txZHxKPZAhTty4nhg=="
+secured: "WaBGTl5mt635zH05SRmYAwVfjcl0ts/OReu6+uAYqr4FSaiv2wRmjXOpO5g6ioDmYPKk7rIyxkQepT9+V/1faUVgykQFXgNQTk1P8s25/dh4z4liB5t5Pq+1AJjW1lhm8iKyN+mhIT5tCBJa39fraFzNwYUETARjbKP4DHJL9FD4l1hsy4ZiwlmKwXnv1PoFBVFYdYC0FIJTsZoNNI+tZkEz3gEUG7svQq7v1hq1eHZYXQ71p4WvznnS3rAe0tynZreJ1jaZ1iBmU4qcaSgUlJ7nykeTcx0txxaC71DkK/NY53bnHr3WIgZois8CFLG0FoipuKukSrEVoNM/DfSybGAbJDAajAl84uVzjDlMZ3XVbAM36Q76guenve3o4IJK8RtXiORiQCb99JYOcs41MZNJ4O4b2W5wfNhzCl1lhZ8=;cQbDaGwwmA50Z4Xwfzmfiw=="
 ---
 

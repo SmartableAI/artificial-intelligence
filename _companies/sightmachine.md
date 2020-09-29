@@ -37,6 +37,6 @@ images:
     isCached: true
     title: "Sight Machine"
 
-secured: "KDMh4Oxim2Q6H2JZUoRU7RCnFH9Xy6Ie6t6o986S9Km+cjjp15+tcn7tM04aE7asHbMHRwfemJh77zzbFs9lMTMGMdKs5OIAR41b/X6vR6Vj06Pi122vFrBNjZyCIcWDNn3JLkZHkeJ/bBFf2QP/n0uNATwX7/3xkw8yBlnt7yOuGLusflXgKj45Dal/5X3GBp6CsvuZUSawJmi28F+SuOjtwpeh08+6sejBkUffqEehBDPw+BXsiZAFhBVGDurJz9DrGsKus+2km5vews6OF9HAfmwsiwH/Q6AIpEVjpq7qIk2gw/1OrJ1lyiZHO1otoDO0ySbScdrOaY9bCyeFp22meJFYccoquqkFmxzDyT/jVIipmVSTxQMit/CqfJ/wFFSbWduLJ/xymY/6a/mSjBYUR79Q2Z5k07rEMwBKo+c=;Icxw1iqWZB7DqmxCaEwo8Q=="
+secured: "VxN1MispTmj0jFRRX+W/V2aleX0GezIK6SAWTVCw5r9wxcP9BCVvYpnTWE9w5tYYrKAxwT6TxN5nZZ7bNCItsIrVMH7/PKXwWdLsW3Ycle5xDCyG4gmm+0MZjKckRWDu4GH2h8W0Jua+AfCWnqXVWyualo2BzRqinWH9aSmlIxe4PtcztFRcFDk8/MUUu6rb5LZ8al555+zR8ogj+f6UYjyVVRI60tRvavdvQqL5gA/vAs6qL26LHEmqlv7LHebcgRAfLGM5A4/iU9atZoYIyZHnrOfojWPJp6RQ/8QiIyEvAOet6R3o+dIAfCQrgIlXFSY3y+l32cgky0U75FuMrSkFjMNeD6kqpXapdhPib1yd7ZsBMYPOyferDg+QWm7ABBHNMYVFzRc+I9aTyibihAWcEH/swz29+yeu+VK3B+c=;G+JQERnR6s2SD7/PQWAefQ=="
 ---
 

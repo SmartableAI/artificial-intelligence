@@ -2,7 +2,7 @@
 name: "Intel"
 overview: "Harnessing silicon designed specifically for AI, end-to-end solutions that broadly span from the data center to the edge, and tools that enable customers to quickly deploy and scale up, Intel AI is leading the next evolution of compute."
 type: "profile"
-heat: 50
+heat: 58
 
 website: https://www.intel.ai/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "IntelAI"
   url: "https://twitter.com/IntelAI"
-  followers: 25380
+  followers: 25379
 
 size: 10,001+ employees
 yearFounded: 1968
@@ -44,6 +44,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "UKIDomMF0nDsvnZ0U4+G0cCsg2ciEo34MEF+JDc+MbzeRKNKl3dQgw4ZlyFrK+kPWQOlI3cTJpfCqVr9eRk5DAM3ZtciIzVQsuMjHQaZoi0TY+1A2/3V29sq5+epWGqAzkGBSSY5RaAR4DxAUMTbG7Bsh/mPLRFo3N/SW5Y6OhzNt83jQ+wAb7Y2KcqU+Lc6C84eFaKWJsxCN+a9uzKccJJaOmzkFlOXB2UMiKNVirI/dQzJ2R29EzjrvgPSs9WWbJDyRE7hxA0+PUlqHvEQJQw9bt9pVpDGyVVVYE5vG/i5Y1y4DmuS+z4hNfIzZ+/uhGm2jXjV4nlzR6mhlL4ab7451sjzHASA3dAUM0ZoxspKPpDY5iGBCP/n62WUqilsG6F+zx/AnAO3bsMtNvjRVtxkgtuogU/ppt0hM34lmzg=;CXldrqf4dcUfM9efStZfXQ=="
+secured: "ThPsAz4pKtLXsPuMmu+aJH2k8pQlylOaanW1L+MXOPNWxZEVfFOby77kXUDBfXqDwWTnyB+pmNs7kzLTf/Lg8fvXw6DT1Tp2x+7CsuzWhgh77wgtRpAmNxxzJVmypDlScDyOBn7EzsqQw1rHfCo9nLj+NFgSDCKatRVNJc51hQ3W3V2F/vJxXO5iIQts0yXHJGilGSiLJ3RPCJlZ5l7saWHOgsRkOsCzZDXNKaMM2U/wk3VX1/rmEk32kDFbwsanncB3i2IAhXSJfl9WRlb6gYKD/Dsos7VgZhNdJ/gKA70miFchy/G6dhL3tLgmlG8/ZytNoRddjRMT8EOy6x4YochBiNoEB9msTUR6DJSvPle4Wj49T/lTVfaWuPQGZA0onVJs/oMtS8UfV/PRadvyovMTu3Vxs+aQuTQ7lojsz7Y=;skJGmQu47GE/o8aaU884vw=="
 ---
 

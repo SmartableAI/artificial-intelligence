@@ -2,7 +2,7 @@
 name: "deeplearning.ai"
 overview: "deeplearning.ai is making a world-class AI education accessible to people around the globe. deeplearning.ai was founded by Andrew Ng, a global leader in AI."
 type: "profile"
-heat: 254
+heat: 236
 
 website: https://deeplearning.ai
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "deeplearningai_"
   url: "https://twitter.com/deeplearningai_"
-  followers: 44791
+  followers: 44807
 
 size: 11-50 employees
 yearFounded: 2017
@@ -40,6 +40,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "PdAxjyC9Y1Fvry01y/T1x479X9yaYo3nC7fplE0B9Goq/fz/g6vnPNy1G8iiRBsLNkDX20EIbfRwJQu1CFp0zo7imsG8iiXDNIshpUyVKHZPKIMyHThrhj+8pz0aMWmd+5SHncHI8w61c8+XupAkx7A4xJNBlaBBCXWatL2++OMt4ELv23ZvKcs/zQ+mKON7Nio1PtAXK+KUsVooGQhSb+yETacVi9QQVbXvxT5HxxmsxSzzCL/TNOTYqWDYo92rGgvDmwBk2bP4URouHduNFzy1FLEG4I3B+1AJVlJ2WK1vvLiQ1lXVgGyWF2wrxuYnNA2AcV9+Z7PBUmX9LtI0Y9n11RyAvMhPdoGqdcSocHeLlyFwxNmiIeC1m4c+Vp9iR5vO7hUup3SNNrdoyzQTclNF1Ou75dKpO8WLhJAuxzw=;PkYTSAADSYiOS0lt0/HxCg=="
+secured: "PXrXhtYwOqBlEHn4MAVjhPA+dLSHglPDTxFnD9NxySOF4ItNvRB0SLKgGJqaSPPVbEIit/J37zGQHBOkJmhGlGwVWmE8njj00L0HEuzV6/9U6wZth9NzuMZIQuCBaO71g8KyS78owJV9cXwAE47AvwmvMD3r/zUGcXxqJcoarIcT6AVZ1SVJITIODzGAvN4rdtI2b3dRMqVXLnoe1NfhvNUYEwRegnMOagZInxWzWam+8tO8ThptYjTd1gANXBVjyB+dSg/KkjNNa1PEyWuJssdxq6mfNL/dINQS5ZbtcGwo9+TF+5I9v+Z96hTn4yyL6rjAqUpdaotjYxAYs6mCNC8dPBlzY9+xHbPMQHCISZaP4ijbzMOo357hZiBD2rJYGw9fEXGNHVGjkbixu8As/1xPY4goD3H0LYxFl1eJ92w=;jKjbvCJAywyb1IYTGfPG/w=="
 ---
 
