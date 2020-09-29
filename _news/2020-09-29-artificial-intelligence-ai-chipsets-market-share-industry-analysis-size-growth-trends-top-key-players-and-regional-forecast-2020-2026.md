@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-29T09:45:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-industry-analysis-size-growth-trends-top-key-players-and-regional-forecast-2020-2026-2020-09-29"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-industry-analysis-size-growth-trends-top-key-players-and-regional-forecast-2020-2026-2020-09-29"
 type: article
-quality: 68
+quality: 70
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ topics:
   - AI
   - AI in Robotics
   - Machine Learning
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

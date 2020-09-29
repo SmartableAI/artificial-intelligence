@@ -3,8 +3,8 @@ category: news
 title: "Artificial Intelligence for Business 2016"
 excerpt: "Cumulative worldwide spending on artificial intelligence (AI) will reach $40.6 billion by 2024. AI is on the verge of becoming a critical part of every business infrastructure, making it vital for company decision-makers to understand how this technology can,"
 publishedDateTime: 2020-09-28T14:07:00Z
-originalUrl: "https://www.raconteur.net/report/artificial-intelligence-for-business-2016/page/2"
-webUrl: "https://www.raconteur.net/report/artificial-intelligence-for-business-2016/page/2"
+originalUrl: "https://www.raconteur.net/report/artificial-intelligence-for-business-2016/page/3"
+webUrl: "https://www.raconteur.net/report/artificial-intelligence-for-business-2016/page/3"
 type: article
 quality: 39
 heat: -1
@@ -36,6 +36,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 84
+  - title: "AMD To Strongly Benefit From New AI And Gaming Chips From Nvidia And AMD"
+    excerpt: "PCIe 4 is increasingly widely adopted by the PC and server industries. With Intel lacking critical PCIe 4 solutions, AMD is set to benefit."
+    publishedDateTime: 2020-09-29T14:12:00Z
+    webUrl: "https://seekingalpha.com/article/4376813-amd-to-strongly-benefit-from-new-ai-and-gaming-chips-from-nvidia-and-amd"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 53
+    images:
+      - url: "https://static3.seekingalpha.com/uploads/2020/9/28/9110881-16013140249302285.jpg"
+        width: 640
+        height: 441
+        isCached: true
   - title: "NVIDIA acquires chip maker Arm for $40 billion"
     excerpt: "In one of the biggest tech deals, Graphics giant NVIDIA has confirmed it is acquiring SoftBank-owned UK chip maker Arm for $40 billion with an aim to create a premier computing company for the age of artificial intelligence (AI)."
     publishedDateTime: 2020-09-27T05:36:00Z
@@ -64,7 +78,16 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "VMware announces Nvidia AI tie-up, Carbon Black-based security solutions"
+    excerpt: "VMware (VMW +1.0%) has a slate of announcements coming out of today's VMworld event.VMW is partnering with Nvidia (NASDAQ:NVDA) to make its data center management software work better with AI chips."
+    publishedDateTime: 2020-09-29T14:23:00Z
+    webUrl: "https://seekingalpha.com/news/3618048-vmware-announces-nvidia-ai-tie-up-carbon-black-based-security-solutions"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 20
 
-secured: "dMq2pfN8S3RLw4eJGN05IDYnciaEX/QWzY9WbysT4UsNbp3ulyyk+mCI0AT3G0V2YyQXhHN6NTC4PWS8iGmWs2hQkqiyNCmTXhzRgqhTVex6TcqsNBgAuQOwCE8iDPkmcxOYCuu84jGKJ4LfzUpVwKaE3ghcGUdSqeBL5qDjra685yfMhf5TLeXkZv8mE0SPpcy8mox/dBsbIcDzCMhViWdNjZAmYk1ospUHhgioyjDO9AOZ0wZYiSvlBZZqhcMPSQJMKSb+U8Sm9hj8qY+CBtpgq0yebJhzNX1cTkTUzudSilC6ZJ6YkDKEPW2sJa2ccH07wu25x69w5anpNbmO6OzD/oDnfQ8dN83I0FIYl8E=;A0IG/K4tdiIPzPCj57PcFw=="
+secured: "IdeZHAUGDHlbu7+DlQK29c+vKfVzVv4gx/X9gDCgLuJYFxgNHIKWOiaZtouYrOLHkCtIKHL2gX1IU54/xD3H65/b2mIGC9gn1ACL+eB8BTUFu6MElSmwItJFyVpa/89ayYU+/aE0q/s7UYuOe8IwG4iIrPiZLSddRwKlKbzgxk0D64KIkSys+is3KMrFAmu1SQDbk8z0mJ99Fbd0jJyTtxR2kHwyvvKV0reIRKVSU/SYOKRAa0Xlp+9rIO3TEQpDgDXlepxzyG33+9iDwWuCEBbqNF27yfgtzmqKWM3tuV+eeh4D109f7JbBhc+CcGCZ8+W00OWFU8XkmbN77hv+TU7mvQzGFPj56IloYn2xLfg=;KxcB90PBbBG3KPcjBUygCA=="
 ---
 

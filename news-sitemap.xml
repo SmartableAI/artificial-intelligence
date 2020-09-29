@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/stevemccaskill/2020/09/29/roland-garros-2020-puts-ai-at-the-heart-of-the-digital-experience-as-tennis-fans-stay-at-home/</loc>
+    <lastmod>2020-09-29T08:27:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://healthitanalytics.com/news/expanding-access-to-mental-healthcare-with-artificial-intelligence</loc>
+    <lastmod>2020-09-29T08:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wsj.com/articles/women-founders-of-ai-startups-take-aim-at-gender-bias-11601388625</loc>
+    <lastmod>2020-09-29T07:36:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/google-healths-strategy-and-identity-within-alphabet-2020-9</loc>
+    <lastmod>2020-09-29T07:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/09/29/applying-machine-learning-to-keep-employees-safe-and-save-lives/</loc>
     <lastmod>2020-09-29T06:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -9,6 +33,12 @@
   <url>
     <loc>https://www.nextplatform.com/2020/09/29/another-strange-shift-for-the-ai-chip-startup-segment/</loc>
     <lastmod>2020-09-29T06:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/marvell-enabling-the-next-generation-of-data-center-and-automotive-ai-accelerator-asics-2020-09-29</loc>
+    <lastmod>2020-09-29T06:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -247,8 +277,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/index.php/category/10250/4/index.php/article/neural-network-trained-to-control-anaesthetic-doses-keep-patients-under-during-surgery/</loc>
+    <loc>https://www.zdnet.com/article/neural-network-trained-to-control-anaesthetic-doses-keep-patients-under-during-surgery/</loc>
     <lastmod>2020-09-28T02:11:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.djournal.com/bear-robotics-and-softbank-robotics-group-announce-new-food-service-robot/article_1ffea957-dc6a-5c38-99b3-465fc366f409.html</loc>
+    <lastmod>2020-09-28T02:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -361,14 +397,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/perspecta-labs-to-conduct-critical-research-for-machine-learning-and-artificial-intelligence-security-2020-09-24</loc>
-    <lastmod>2020-09-25T21:03:00-07:00</lastmod>
+    <loc>https://venturebeat.com/2020/09/25/ai-weekly-amazon-went-wide-with-alexa-now-its-going-deep/</loc>
+    <lastmod>2020-09-25T18:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://venturebeat.com/2020/09/25/ai-weekly-amazon-went-wide-with-alexa-now-its-going-deep/</loc>
-    <lastmod>2020-09-25T18:59:00-07:00</lastmod>
+    <loc>https://www.ctpost.com/news/article/Report-LAPD-used-facial-recognition-nearly-15585211.php</loc>
+    <lastmod>2020-09-25T15:49:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -961,6 +997,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.prnewswire.com/news-releases/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-301135412.html</loc>
+    <lastmod>2020-09-22T08:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/lanceeliot/2020/09/22/self-driving-cars-versus-the-most-dangerous-driving-month-of-the-year/</loc>
     <lastmod>2020-09-22T08:43:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -985,8 +1027,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.oaoa.com/news/business/deepcube-raises-series-a-funding-to-realize-real-world-deployments-of-deep-learning-on-edge/article_4e75a071-716f-57e6-9465-990b83d9caa0.html?mode=jqm</loc>
-    <lastmod>2020-09-22T07:12:00-07:00</lastmod>
+    <loc>https://www.oaoa.com/news/business/causalens-launches-the-first-causal-ai-platform/article_242e8bb8-7d4a-5ede-89d2-d0fd8636e49b.html</loc>
+    <lastmod>2020-09-22T07:09:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businesswire.com/news/home/20200922005177/en/</loc>
+    <lastmod>2020-09-22T06:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1023,12 +1071,6 @@
   <url>
     <loc>https://www.openpr.com/news/2139411/covid-19-impact-on-ai-medicine-software-market-outlook</loc>
     <lastmod>2020-09-22T05:28:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572</loc>
-    <lastmod>2020-09-22T05:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1197,6 +1239,12 @@
   <url>
     <loc>https://www.businesswire.com/news/home/20200921005134/en/</loc>
     <lastmod>2020-09-21T06:17:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vida-receives-510-k-clearance-for-deep-learning-based-enhancements-to-its-lungprint-solution/article_4f8f2da1-81f1-5148-a823-09637cc7c2f8.html</loc>
+    <lastmod>2020-09-21T06:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1783,14 +1831,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/7-self-driving-car-companies-autonomous-vehicle-stocks-1029596050</loc>
-    <lastmod>2020-09-16T11:26:00-07:00</lastmod>
+    <loc>https://www.forbes.com/sites/charlestowersclark/2020/09/16/do-algorithms-dreams-of-electric-speech-what-virtual-philip-k-dick-can-teach-us-about-ai/</loc>
+    <lastmod>2020-09-16T11:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.forbes.com/sites/charlestowersclark/2020/09/16/do-algorithms-dreams-of-electric-speech-what-virtual-philip-k-dick-can-teach-us-about-ai/</loc>
-    <lastmod>2020-09-16T11:21:00-07:00</lastmod>
+    <loc>https://investorplace.com/2020/09/7-self-driving-car-companies-autonomous-vehicle-stocks/</loc>
+    <lastmod>2020-09-16T11:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

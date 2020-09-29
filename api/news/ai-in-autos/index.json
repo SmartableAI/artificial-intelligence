@@ -1181,33 +1181,33 @@
     {
       "path": "_news/2020-09-17-7-self-driving-car-companies-racing-to-gains.md",
       "title": "7 Self-Driving Car Companies Racing to Gains",
-      "excerpt": "Stock Market News, Stock Advice & Trading Tips Self-driving car companies hit a major pothole earlier this year. Long a",
+      "excerpt": "Editor’s Note: This article was updated on Sept. 18, 2020, to correct the road fatality statistic. Self-driving car companies hit a major pothole earlier this year. Long a favorite of tech ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/7-self-driving-car-companies-autonomous-vehicle-stocks-1029596050",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/7-self-driving-car-companies-autonomous-vehicle-stocks-1029596050",
+      "webUrl": "https://investorplace.com/2020/09/7-self-driving-car-companies-autonomous-vehicle-stocks/",
+      "originalUrl": "https://investorplace.com/2020/09/7-self-driving-car-companies-autonomous-vehicle-stocks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2019/07/autonomouscar1600b.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/7-self-driving-car-companies-autonomous-vehicle-stocks-1029596050",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/7-self-driving-car-companies-autonomous-vehicle-stocks-1029596050",
-      "publishedDateTime": "2020-09-16T11:26:00-07:00",
+      "ampWebUrl": "https://investorplace.com/2020/09/7-self-driving-car-companies-autonomous-vehicle-stocks/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/09/7-self-driving-car-companies-autonomous-vehicle-stocks/amp/",
+      "publishedDateTime": "2020-09-16T11:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

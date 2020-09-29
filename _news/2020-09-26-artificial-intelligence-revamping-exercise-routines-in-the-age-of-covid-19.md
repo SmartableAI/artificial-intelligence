@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Innovation with Artificial Intelligence"
+    excerpt: "The maritime sector keeps talking enthusiastically about Artificial Intelligence (AI). But what is it really? What is the role of technology in the"
+    publishedDateTime: 2020-09-29T13:13:00Z
+    webUrl: "https://www.thedigitalship.com/news/electronics-navigation/item/6824-innovation-with-artificial-intelligence"
+    type: article
+    provider:
+      name: Digital Ship
+      domain: thedigitalship.com
+    quality: 39
+    images:
+      - url: "https://thedigitalship.com/media/k2/items/cache/632c3491b2d391ab015a7b1797d7a51f_L.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Olive's AI Workforce to Revolutionize COVID-19 Testing at Tufts Medical Center"
     excerpt: "Olive announced today that it has entered into an agreement to leverage its AI workforce technology to streamline COVID-19 testing operations at Tufts"
     publishedDateTime: 2020-09-29T13:49:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/kensci-launches-ai-platfo
 webUrl: "https://www.prnewswire.com/news-releases/kensci-launches-ai-platform-for-digital-health-to-accelerate-ai-and-analytics-enabled-healthcare-301139612.html"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -26,47 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "AGL transforms advanced analytics to run on central Azure platform"
-    excerpt: "AGL has rebuilt its analytics capabilities to run off a central platform powered by Azure services instead of running projects from standalone virtual machines and laptops. The new platform went live in mid-2020,"
-    publishedDateTime: 2020-09-27T20:54:00Z
-    webUrl: "https://www.itnews.com.au/news/agl-transforms-advanced-analytics-to-run-on-central-azure-platform-553823"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/20200924104634_AGL.png"
-        width: 2584
-        height: 1476
-        isCached: true
-  - title: "Artificial Intelligence Platform Enables Data Analytics for Research"
-    excerpt: "A new data analytics tool uses artificial intelligence to facilitate large-scale, data-driven biomedical research."
-    publishedDateTime: 2020-09-29T13:38:00Z
-    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-platform-enables-data-analytics-for-research"
+  - title: "Expanding Access to Mental Healthcare with Artificial Intelligence"
+    excerpt: "Researchers at University of Illinois Chicago are testing a virtual agent powered by artificial intelligence to broaden access to mental healthcare."
+    publishedDateTime: 2020-09-29T15:03:00Z
+    webUrl: "https://healthitanalytics.com/news/expanding-access-to-mental-healthcare-with-artificial-intelligence"
     type: article
     provider:
       name: Analytics
       domain: healthitanalytics.com
-    quality: 37
+    quality: 54
     images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/image_%281%29.png"
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1092965070.jpg"
         width: 690
         height: 400
         isCached: true
-  - title: "Viking Analytics and iioote introduce new AI-based product for early detection of black mold"
-    excerpt: "Viking Analytics, a Swedish provider of advanced analytics solution for predictive operations, and iioote, an IoT solution provider and"
-    publishedDateTime: 2020-09-28T08:31:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/viking-analytics-and-iioote-introduce-new-ai-based-product-for-early-detection-of-black-mold-301138841.html"
+  - title: "AI in Health Care: Leading through Change"
+    excerpt: "Health care is evolving faster than we could have imagined. We are in the midst of a health care revolution, driven by artificial intelligence (AI). AI is creating a space for innovation and can enable physicians and nurses to work more efficiently and effectively in the face of unprecedented change."
+    publishedDateTime: 2020-09-29T15:28:00Z
+    webUrl: "https://www.aha.org/aha-center-health-innovation-market-scan/2020-09-29-ai-health-care-leading-through-change"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
+      name: aha.org
+      domain: aha.org
+    quality: 39
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://www.aha.org/sites/default/files/2019-04/Market_Scan_Call_Out_360x300.png"
+        width: 360
+        height: 300
         isCached: true
 
 secured: "foSuMOF6g3kWslpmhRSluIwk3vBavOHgAKdvROfhzJNhIS30toWXRNV4COZTl3SXsI/EoxrfR10bQL8z3b2LzW3VXV9JO5MVCr7ZhIz9c3iKgP/Eb/v2s6X86HADNgUTZ4o40MwQBHEFnsfZsidP+N9J+QN0aemOt9IZjat06qtJxHP//kZBw8VFhRHClTxwVsnG9bSseMyGw34PoxAr5lkLMYGfhbnisAdyR5DwpGpws55/vOVHJrJotS4zgPk2gSPKZGsmmALU+TZMMyOeuV6IsoYDzoohozfGhdJmOu0+1sxg7z2h3V8ZEfI4qlyTaooLiWVD3B00XK9ZTY57oACvBZjdiHu+B8+OTTYfmEQ=;27OjOdBWbSuN+dPV/2Y2QQ=="

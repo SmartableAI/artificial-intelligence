@@ -9,7 +9,7 @@ ampWebUrl: "https://www.buzz.ie/amp/news/singapore-facial-recognition-in-nationa
 cdnAmpWebUrl: "https://www-buzz-ie.cdn.ampproject.org/c/s/www.buzz.ie/amp/news/singapore-facial-recognition-in-national-identity-scheme-390534"
 type: article
 quality: 55
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -38,22 +38,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 54
-  - title: "Facebook users in Illinois may qualify for a $400 settlement check after the social media company used facial-recognition technology"
-    excerpt: "This isn't the first time that Facebook has received pushback for its facial-recognition feature. In 2019, Facebook began requiring users to opt-in to use their facial-recognition tool, after the FTC fined the tech giant $5 billion for its role in the the ..."
-    publishedDateTime: 2020-09-25T18:49:00Z
-    webUrl: "https://www.businessinsider.com/facebook-illinois-400-dollar-lawsuit-settlement-check-details-facial-recognition-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/facebook-illinois-400-dollar-lawsuit-settlement-check-details-facial-recognition-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-illinois-400-dollar-lawsuit-settlement-check-details-facial-recognition-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 43
-    images:
-      - url: "https://i.insider.com/5f4b60247ffa48002894d0aa?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "How Telangana is using the pandemic to push facial recognition tech on its population"
     excerpt: "Your face has a lot of value in Telangana these days. It can help you apply for a duplicate or renewed license without ever leaving the house. If you are an intermediate student, it can help you enrol in a degree college,"
     publishedDateTime: 2020-09-29T06:07:00Z

@@ -55,22 +55,17 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft nabs exclusive license to key AI program"
-    excerpt: "Microsoft announced a deal Tuesday that will give it the exclusive license to OpenAI's GPT-3 language model, a tool that uses machine learning to generate remarkably human sounding text. Why it matters: The deal provides a way for many companies to have access to the technology while seemingly allowing Microsoft to establish guardrails and parameters for how the technology can be used."
-    publishedDateTime: 2020-09-24T21:38:00Z
-    webUrl: "https://www.axios.com/microsoft-open-ai-gpt3-0772052d-500c-4c92-8437-33c8be27789e.html"
-    ampWebUrl: "https://www.axios.com/microsoft-open-ai-gpt3-0772052d-500c-4c92-8437-33c8be27789e.html"
-    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/microsoft-open-ai-gpt3-0772052d-500c-4c92-8437-33c8be27789e.html"
+  - title: "Microsoft (MSFT) Azure to Transform 5G Edge Cloud Computing"
+    excerpt: "Microsoft MSFT is focused on making the most of 5G networking capabilities to transform cloud and edge computing. The tech giant is working in collaboration with the telecommunications industry to develop a carrier-grade platform for edge and cloud –– Azure for Operators."
+    publishedDateTime: 2020-09-29T14:38:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-azure-to-transform-5g-edge-cloud-computing-2020-09-29"
+    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-azure-to-transform-5g-edge-cloud-computing-2020-09-29?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-azure-to-transform-5g-edge-cloud-computing-2020-09-29?amp"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
-    quality: 74
-    images:
-      - url: "https://images.axios.com/-s4Z0o3uapK9JUUBb31sF3c9dfc=/fit-in/1366x1366/2020/09/23/1600873770588.jpg"
-        width: 1366
-        height: 768
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
   - title: "Deep Neural Networks Market Booming Worldwide with leading Players Google, Oracle, Microsoft, IBM"
     excerpt: "Global Deep Neural Networks Market The global Deep Neural Networks Market size was valued at USD 1.26 Billion in 2019 and is anticipated to reach USD 5.98 Billion by 2027 at a CAGR of 21.4%. The global neural networks market is growing predominantly as the demand for implementing the deep neural network in healthcare and BFSI sectors are flourishing extensively."
     publishedDateTime: 2020-09-29T08:25:00Z
@@ -99,6 +94,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft aims to sharpen edge, 5G deployment with Azure for Operators"
+    excerpt: "IT and cloud giant announces partnership programme with telecommunications industry to more effectively enable the roll-out of next-generation networks."
+    publishedDateTime: 2020-09-29T14:39:00Z
+    webUrl: "https://www.computerweekly.com/news/252489786/Microsoft-aims-to-sharpen-edge-5G-deployment-with-Azure-for-Operators"
+    ampWebUrl: "https://www.computerweekly.com/news/252489786/Microsoft-aims-to-sharpen-edge-5G-deployment-with-Azure-for-Operators?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252489786/Microsoft-aims-to-sharpen-edge-5G-deployment-with-Azure-for-Operators?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 69
   - title: "The battle for the telco cloud intensifies as Microsoft announces Azure for Operators"
     excerpt: "The telco cloud is key to supporting 5G, applying AI to network services, and building an agile infrastructure Microsoft want to be a trusted telco partner"
     publishedDateTime: 2020-09-28T17:13:00Z
@@ -139,6 +145,20 @@ related:
       - url: "https://www.capacitymedia.com/Image/ServeImage?id=49446&w=780&h=442&cr=true"
         width: 780
         height: 442
+        isCached: true
+  - title: "Microsoft Obtains Exclusive License for GPT-3 AI Model"
+    excerpt: "Microsoft announced an agreement with OpenAI to license OpenAI's GPT-3 deep-learning model for natural-language processing (NLP). Although Microsoft's announcement says it has \"exclusively\" licensed the model,"
+    publishedDateTime: 2020-09-29T14:33:00Z
+    webUrl: "https://www.infoq.com/news/2020/09/microsoft-license-gpt-3/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 54
+    images:
+      - url: "https://res.infoq.com/news/2020/09/microsoft-license-gpt-3/en/headerimage/microsoft-license-gpt-3_header-1601145166901.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Microsoft Touts Azure as 'Carrier-Grade Platform' for Telcos Deploying 5G"
     excerpt: "Microsoft on Monday affirmed its software-defined networking infrastructure support for telecom companies, especially as they move more toward rolling out 5G wireless services."

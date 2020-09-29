@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/quora/2020/09/27/how-can-ai-support-sma
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2020/09/27/how-can-ai-support-small-businesses-during-the-pandemic/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
     quality: 37
     images:
       - url: "https://images.idgesg.net/images/article/2020/09/data-ai-postpandemic-1-100859727-large.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Harnessing big data and artificial intelligence to predict future pandemic spread"
+    excerpt: "During COVID-19, artificial intelligence (AI) has been used to enhance diagnostic efforts, deliver medical supplies and even assess risk factors from blood tests. Now, artificial intelligence is being used to forecast future COVID-19 cases."
+    publishedDateTime: 2020-09-29T15:51:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-09/tau-hbd092920.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 32
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
         width: 1200
         height: 675
         isCached: true

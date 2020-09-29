@@ -7,7 +7,7 @@ originalUrl: "https://www.electronicdesign.com/industrial-automation/article/211
 webUrl: "https://www.electronicdesign.com/industrial-automation/article/21142517/marvell-to-bring-5nm-chips-to-cloud-data-centers-and-5g-networks"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -26,14 +26,19 @@ images:
 
 related:
   - title: "Marvell Enabling the Next Generation of Data Center and Automotive AI Accelerator ASICs"
-    excerpt: "SANTA CLARA, Calif., Sept. 29, 2020 /PRNewswire/ -- Marvell (NASDAQ: MRVL) today announced that the company's custom application-specific integrated circuits (ASICs) offering is well-positioned to ena"
-    publishedDateTime: 2020-09-29T13:33:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/marvell-enabling-the-next-generation-of-data-center-and-automotive-ai-accelerator-asics/article_ffa6cede-a72a-5c36-89ac-609dec416d04.html"
+    excerpt: "PRNewswire/ -- Marvell (NASDAQ: MRVL) today announced that the company's custom application-specific integrated circuits (ASICs) offering is well-positioned to enable the next generation of artificial intelligence (AI) accelerator solutions for the data center and automotive markets."
+    publishedDateTime: 2020-09-29T13:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/marvell-enabling-the-next-generation-of-data-center-and-automotive-ai-accelerator-asics-2020-09-29"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 11
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "R7oSmLKYccz+WZgZrKMjr1wYAqroJIIhe7xFeNsO9HvfpYRcdYe4CykdGu1sygGuOdhBDzR4ookMdOrASWpLpo6l/n1+FNYXoAlFwJEc6TQQWHYLeRFvB6P6gNIMn+yc+Xuw/R/08bOKaz0XJGAJZRN1zeR4+SmNR94qoqNNN60YaZpM/wdyML9vb+7wnuxcZziQfiK2/dEkvW5KwJeuErxCMaqHqkmr9DrebxE3i40wPGT3f/cZoDa935qekjQnsCQmMdA/v9/sRjGdTgW1Maghx812czbl9Qgux+7mcnzmY01sgF3TewABcL702XGUoJIJ7oFuX7FlrQKVwSp/xv/AXua2gRuq+kDYXzHckxw=;Mss+GUlyMsZYvVcGVND0BQ=="
 ---

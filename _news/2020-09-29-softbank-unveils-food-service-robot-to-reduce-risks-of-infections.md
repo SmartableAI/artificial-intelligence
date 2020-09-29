@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Bear Robotics and SoftBank Robotics Group Announce New Food Service Robot"
+    excerpt: "Bear Robotics, a robotics and artificial intelligence company, and SoftBank Robotics Group, a leading robotics manufacturer and solutions provider, have collaborated to bring a new robot named Servi to the food service and hospitality field."
+    publishedDateTime: 2020-09-28T09:03:00Z
+    webUrl: "https://www.djournal.com/bear-robotics-and-softbank-robotics-group-announce-new-food-service-robot/article_1ffea957-dc6a-5c38-99b3-465fc366f409.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 53
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/7/a9/7a93335d-9eb9-546d-8ed5-482b0fc705e5/5f71aa0cac151.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "SoftBank unveils food service robot to reduce COVID-19 infection risk"
     excerpt: "SoftBank Group Corp.’s robot making unit on Monday unveiled its new food service robot in a move designed to reduce the risk of coronavirus infections between staff and customers at restaurants and other eateries."
     publishedDateTime: 2020-09-29T02:00:00Z

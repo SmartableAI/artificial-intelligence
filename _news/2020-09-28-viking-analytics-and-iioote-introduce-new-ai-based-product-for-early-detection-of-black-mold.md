@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "KenSci Launches AI Platform for Digital Health to Accelerate AI and Analytics Enabled Healthcare"
-    excerpt: "KenSci's AI platform for digital health helps health teams build data-rich use-cases and innovate in a secure data pipeline within their own Azure environments.\" said Heather Cartwright, General Manager, Microsoft Health. KenSci's existing customers have ..."
-    publishedDateTime: 2020-09-29T12:25:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/kensci-launches-ai-platform-for-digital-health-to-accelerate-ai-and-analytics-enabled-healthcare-301139612.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 43
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "AGL transforms advanced analytics to run on central Azure platform"
     excerpt: "AGL has rebuilt its analytics capabilities to run off a central platform powered by Azure services instead of running projects from standalone virtual machines and laptops. The new platform went live in mid-2020,"
     publishedDateTime: 2020-09-27T20:54:00Z

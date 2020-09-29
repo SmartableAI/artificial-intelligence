@@ -60,6 +60,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Harnessing big data and artificial intelligence to predict future pandemic spread"
+    excerpt: "During COVID-19, artificial intelligence (AI) has been used to enhance diagnostic efforts, deliver medical supplies and even assess risk factors from blood tests. Now, artificial intelligence is being used to forecast future COVID-19 cases."
+    publishedDateTime: 2020-09-29T15:51:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-09/tau-hbd092920.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 32
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "dyxGg6xXNR9IO6QiKg8gaDIquTyhex6Pq+QpY3/w39wV9JpP5LPIcwU2BXQSS+yNzX67p4W6Pm6C1mEhj7YDErvVklm1Mi//81IOAmt48Rb968NCv8hgv7w7fj4ZytjD7pN948Iiuf8I9PYdjpNlnQN9Ca1IMeWBTVcbZcFoRVTkYXlqYu9W7Bg2TMCMugskIY5m46ysGgHP/ZPgecEiZIilOV/8tRjC6s8KFRAxwpNpIkRkdIYym//s1JsSOoMt+3+MgNGEHdfjmLsT/BVzU7gKtq0spmirotTTyOgrhAdWP0HyMcu3BoWgENNT1O1wu5nKxiG/LgYT1vAuMCn60OLeqU1KYNnMtk4HFCt5h5BhcL2tlM8rLJO6Nlg2WPaw9Ur1Stauk5t2FHs5SeXqKusbu2awXeP5CJo+fAnHTix4NNezayxPG5Vvd4D35mLjs31VXYodJcWwpAfDEhOO+0L+eaymvVlb6qjAj6xTxSciB6HDDIQAe7Mu/7FkNdzJzae2JgSDcuUR+mA6NFDddg==;v+666jt9qU0zZKnMt1q4nQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/health-wellbeing/ai-loneliness-natural-speech-l
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/health-wellbeing/ai-loneliness-natural-speech-language/?amp=true"
 type: article
 quality: 89
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 1000
         isCached: true
+  - title: "Artificial Intelligence Tools Predict Loneliness"
+    excerpt: "For the past couple of decades, there has been a loneliness pandemic, marked by rising rates of suicides and opioid use, lost productivity, increased"
+    publishedDateTime: 2020-09-28T15:46:00Z
+    webUrl: "https://scienceblog.com/518743/artificial-intelligence-tools-predict-loneliness/"
+    ampWebUrl: "https://scienceblog.com/518743/artificial-intelligence-tools-predict-loneliness/amp/"
+    cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/518743/artificial-intelligence-tools-predict-loneliness/amp/"
+    type: article
+    provider:
+      name: ScienceBlog
+      domain: scienceblog.com
+    quality: 59
+    images:
+      - url: "https://scienceblog.com/wp-content/uploads/2020/09/Artificial-Intelligence-Tools-to-Predict-Loneliness.jpg"
+        width: 450
+        height: 675
+        isCached: true
   - title: "Artificial Intelligence Can Detect Loneliness With 94% Accuracy"
     excerpt: "Artificial intelligence (AI) can detect loneliness with 94 per cent accuracy from a person's speech, a new scientific paper reports."
     publishedDateTime: 2020-09-29T09:42:00Z
@@ -78,38 +94,6 @@ related:
       - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2020-09/shutterstock_510170158.jpg?itok=PGtKijfN"
         width: 1000
         height: 568
-        isCached: true
-  - title: "Artificial Intelligence Tools Predict Loneliness"
-    excerpt: "For the past couple of decades, there has been a loneliness pandemic, marked by rising rates of suicides and opioid use, lost productivity, increased"
-    publishedDateTime: 2020-09-28T15:46:00Z
-    webUrl: "https://scienceblog.com/518743/artificial-intelligence-tools-predict-loneliness/"
-    ampWebUrl: "https://scienceblog.com/518743/artificial-intelligence-tools-predict-loneliness/amp/"
-    cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/518743/artificial-intelligence-tools-predict-loneliness/amp/"
-    type: article
-    provider:
-      name: ScienceBlog
-      domain: scienceblog.com
-    quality: 57
-    images:
-      - url: "https://scienceblog.com/wp-content/uploads/2020/09/Artificial-Intelligence-Tools-to-Predict-Loneliness.jpg"
-        width: 450
-        height: 675
-        isCached: true
-  - title: "UCSD Team Uses Artificial Intelligence to Predict Loneliness in Older Adults"
-    excerpt: "Participants were interviewed by trained study staff in unstructured conversations that were analyzed using NLP-understanding software, plus other machine-learning tools"
-    publishedDateTime: 2020-09-24T21:41:00Z
-    webUrl: "https://www.nbcsandiego.com/news/local/ucsd-team-uses-artificial-intelligence-to-predict-loneliness-in-older-adults/2412038/"
-    ampWebUrl: "https://www.nbcsandiego.com/news/local/ucsd-team-uses-artificial-intelligence-to-predict-loneliness-in-older-adults/2412038/?amp"
-    cdnAmpWebUrl: "https://www-nbcsandiego-com.cdn.ampproject.org/c/s/www.nbcsandiego.com/news/local/ucsd-team-uses-artificial-intelligence-to-predict-loneliness-in-older-adults/2412038/?amp"
-    type: article
-    provider:
-      name: NBC 7 San Diego
-      domain: nbcsandiego.com
-    quality: 54
-    images:
-      - url: "https://media.nbcsandiego.com/2019/09/GettyImages-1185422927.jpg?resize=1200%2C675"
-        width: 1200
-        height: 675
         isCached: true
   - title: "UCSD researchers use artificial intelligence to predict loneliness in older adults"
     excerpt: "A team led by researchers at UC San Diego School of Medicine used artificial intelligence to analyze language patterns of older adults to discern degrees of loneliness, which could help slow rates"

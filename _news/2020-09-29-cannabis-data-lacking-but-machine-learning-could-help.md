@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/pub_releases/2020-09/uoca-cdl092820.php
 webUrl: "https://www.eurekalert.org/pub_releases/2020-09/uoca-cdl092820.php"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     height: 1920
     isCached: true
 
-secured: "kA7uUyUuPp5rIyMekCEsJCKO0XFECcb1TwQ2Yz2e6Nup+9U5PzNxvB/PASDi+oHQtDBfLBO50jbmNHL7ZWDfqmsADZXsAEBIyVUu9KWb2d5kdc7Iel7QWZlB1JKLrjI3RaGruSBh/kbq/9E2lcdTzkoGZftWOvE/oJ4zHsyNuyNVpB4S1UlhJ4l1zlXiLQsugktXKNOPEM49Tg4zJptVwlpb2DVae8rR6DMTLJAxxdnM5vDXr+vDI6CJq+UYFfCjQfQopKCh9pVOHj96wEaC/JlTrND5vafKj5BNO4774eMpmU6U7mmKZIvh3c+iDUbxv3alisb1v2+4LTBb666zsGvBjKLZDDgpp9CDa+mlaZM=;qyLRT6gHtb1+s4IbvpeW3A=="
+related:
+  - title: "Cannabis data lacking, but machine learning could help fill the gap"
+    excerpt: "Anyone who has used, sold, studied or even read much about marijuana likely recognizes these acronyms as active ingredients in the plant."
+    publishedDateTime: 2020-09-29T14:08:00Z
+    webUrl: "https://phys.org/news/2020-09-cannabis-lacking-machine-gap.html"
+    ampWebUrl: "https://phys.org/news/2020-09-cannabis-lacking-machine-gap.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-09-cannabis-lacking-machine-gap.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/cannabisdata.jpg"
+        width: 750
+        height: 1000
+        isCached: true
+
+secured: "zP+JuameqNfu2F6TCIYSQDC0pGZxu0evutzu0FnVuz1xcbtpCAYljUxm2DWuGiKT00j4lhkm8GwGasw1YMWuWLoVN3uoowKKb2Z9srSxl8a/nel63fwvUILovfkDvaYrj3Bhfx1gaSfoCtse7ZQoOIe1oOFscnRIh7UrLDV7U1M1NqHE3zAJtlQ9jHNWAINbRLIvwEea0M2hSQuL8RJ6BejsLKls7mcKSMt5zcXankL32JGsj2jAIrSTamQkicNBtB/KbrVZcutqGUgE9vwl1H7gTl4SOPy2MJZ7Whvk1lZc8loa81AmMfAmlh2DlWfXQ/ySjIY7gdD55zXO7po9WZRmgw4HqEnSVVhVwpmoAtRyTe0Gb7EQ1N+KUKv8aKOIMhT0d02nK6KZgjllV/8A46dI5AQV9Zso8bMHXrfqIl4xyzGKChW1vBTNpDx/EQhVC3TBMA+y/zHmBbejgHlT7MeGWEs1z2xZpGIQx4gFl09NSbyFd8GiBFesBLEPzy8665RwYhLGfQoW0SiHiX8ENw==;tlonLIyTx97yAXdDaWa4bw=="
 ---
 

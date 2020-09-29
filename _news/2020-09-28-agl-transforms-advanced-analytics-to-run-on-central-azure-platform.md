@@ -7,7 +7,7 @@ originalUrl: "https://www.itnews.com.au/news/agl-transforms-advanced-analytics-t
 webUrl: "https://www.itnews.com.au/news/agl-transforms-advanced-analytics-to-run-on-central-azure-platform-553823"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "KenSci Launches AI Platform for Digital Health to Accelerate AI and Analytics Enabled Healthcare"
-    excerpt: "KenSci's AI platform for digital health helps health teams build data-rich use-cases and innovate in a secure data pipeline within their own Azure environments.\" said Heather Cartwright, General Manager, Microsoft Health. KenSci's existing customers have ..."
-    publishedDateTime: 2020-09-29T12:25:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/kensci-launches-ai-platform-for-digital-health-to-accelerate-ai-and-analytics-enabled-healthcare-301139612.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 43
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Artificial Intelligence Platform Enables Data Analytics for Research"
     excerpt: "A new data analytics tool uses artificial intelligence to facilitate large-scale, data-driven biomedical research."
     publishedDateTime: 2020-09-29T13:38:00Z

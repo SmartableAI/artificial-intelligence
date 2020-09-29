@@ -3,10 +3,10 @@ category: news
 title: "Neural network trained to control anesthetic doses, keep patients under during surgery"
 excerpt: "Academics from the Massachusetts Institute of Technology (MIT) and Massachusetts General Hospital have demonstrated how neural networks can be trained to administer anesthetic during surgery. Over the past decade,"
 publishedDateTime: 2020-09-28T09:11:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/neural-network-trained-to-control-anaesthetic-doses-keep-patients-under-during-surgery/"
-webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/neural-network-trained-to-control-anaesthetic-doses-keep-patients-under-during-surgery/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/neural-network-trained-to-control-anaesthetic-doses-keep-patients-under-during-surgery/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/neural-network-trained-to-control-anaesthetic-doses-keep-patients-under-during-surgery/"
+originalUrl: "https://www.zdnet.com/article/neural-network-trained-to-control-anaesthetic-doses-keep-patients-under-during-surgery/"
+webUrl: "https://www.zdnet.com/article/neural-network-trained-to-control-anaesthetic-doses-keep-patients-under-during-surgery/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/neural-network-trained-to-control-anaesthetic-doses-keep-patients-under-during-surgery/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/neural-network-trained-to-control-anaesthetic-doses-keep-patients-under-during-surgery/"
 type: article
 quality: 96
 heat: 96
@@ -30,6 +30,6 @@ images:
     height: 675
     isCached: true
 
-secured: "ATCmTM69eXdW7ksJV4J7sHGGvYsvb1aAqXLy2ZZ44Md/w/VxT8sWxzvEVJuUmjcwqBab5fIz/NB5qHJTgBG4lIdZURvOYL3/OtPYyKxU23YGYIBzomaaBzAWeQavRxljQeSTceticwPGoWqJhUEjLzfC2Ike+3YLCzp5U0MpOhFabDG6SgDthrMXuSC7tvmtxyU8+QZlsGUcvp6TRQK8wu03DgootBsK/Dyj0HSdg8AL9LmVL/Qo5Z2m/kldvNzUuQKpBSYpBT6IADxFGvIRCsvlM0g/ho0gR2CYZfm3t7War9M2difQtPr2D7FyOIgl24rZL62/Ua9ZacI9tXOzCYKtVibA3Or2ttKEvWaTYXTOQM5vZm+ejd36N42x4RlKObKRyEFncJNS1GUO4w4k67WaBqRtaVcCffD+ZZ3LOfwukuRALO//0/SXRT0ePdlUhNZ15C0UO6wVFHMxa/68qtRmESDn1ZNnJamJULEd2E349G7YIVljJQ4evMvMnmjvxDjWzmfIKKIFAzq0GqJTtw==;N+9mcoCJ488E/FxiAv4vkQ=="
+secured: "Sx6aCeAFcgApokRAR1pyb7U9Ov9GPpsAht7N+8E8RLVls7J9naPqSEqLNuhd71kyCNQD+b4yQOvCuFAeSchw2D0u7IbEcOS/CYH7sd2FKUaB8KJW8f83FSZbkQwkVm7VNCOQmfXgzS+7IzyAC02uoazseUc0S3UUyXGBfML2YJ7Js6hg9CCGd0btb+NqpC2FFa/oLsj3XyO/rM10mzxhR1MFhpu6X8jlcM+kQDYK8EcU7A3SwUgg5PSrFyp/7awKbweggYT6oyxM7BHXa/m671ns0D6wAp54r2Cgqd9oQJ4YhxOzGlWoceuS69ey2vuInZjDwzhhiB5owp4fW4ef/KCoQBzQ3FkUzhcrZ6Oq8Bk=;lfj41V0uTmmgeAg5aqsD2g=="
 ---
 

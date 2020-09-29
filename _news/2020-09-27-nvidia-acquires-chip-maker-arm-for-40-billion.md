@@ -36,10 +36,24 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 84
+  - title: "AMD To Strongly Benefit From New AI And Gaming Chips From Nvidia And AMD"
+    excerpt: "PCIe 4 is increasingly widely adopted by the PC and server industries. With Intel lacking critical PCIe 4 solutions, AMD is set to benefit."
+    publishedDateTime: 2020-09-29T14:12:00Z
+    webUrl: "https://seekingalpha.com/article/4376813-amd-to-strongly-benefit-from-new-ai-and-gaming-chips-from-nvidia-and-amd"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 53
+    images:
+      - url: "https://static3.seekingalpha.com/uploads/2020/9/28/9110881-16013140249302285.jpg"
+        width: 640
+        height: 441
+        isCached: true
   - title: "Artificial Intelligence for Business 2016"
     excerpt: "Cumulative worldwide spending on artificial intelligence (AI) will reach $40.6 billion by 2024. AI is on the verge of becoming a critical part of every business infrastructure, making it vital for company decision-makers to understand how this technology can,"
     publishedDateTime: 2020-09-28T14:07:00Z
-    webUrl: "https://www.raconteur.net/report/artificial-intelligence-for-business-2016/page/2"
+    webUrl: "https://www.raconteur.net/report/artificial-intelligence-for-business-2016/page/3"
     type: article
     provider:
       name: Raconteur
@@ -64,6 +78,15 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "VMware announces Nvidia AI tie-up, Carbon Black-based security solutions"
+    excerpt: "VMware (VMW +1.0%) has a slate of announcements coming out of today's VMworld event.VMW is partnering with Nvidia (NASDAQ:NVDA) to make its data center management software work better with AI chips."
+    publishedDateTime: 2020-09-29T14:23:00Z
+    webUrl: "https://seekingalpha.com/news/3618048-vmware-announces-nvidia-ai-tie-up-carbon-black-based-security-solutions"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 20
 
 secured: "tgvTz/1xyF5Bf0zSgIIy7vURnuHBNjQ00qFNvmpoIlNfRmeDaCCQi7SByHPeDSMWwmxfzILzyHYyL5+7fG54DBdVAJXcDtF+OJV6uVKBVVAgzRyljUcd3on9DRC7IqyaRXAOK+PcQzqZSZW5682pAjZQm1vgdR5W/m0fdHXHijB9dRr23s4Re6LggeMxbsNjFyXMLj3ItkyfcrD26Pq8jjivBM0me/shCZPEUG9cvFhhNKpQ+dU3cQw2BYA1USIY2er7HrGqEP8wvMHJa6nf9IbJlDTEXmKvj7BNAALCbNbOz7RQmkVUFYtKqQVBEXBlKj7RN1nrQbKymkWMlmnyhjiyH+CAwwJrgXxGeLT9OWc=;jBiYD5j5FojEf8f0Df6rnQ=="
 ---

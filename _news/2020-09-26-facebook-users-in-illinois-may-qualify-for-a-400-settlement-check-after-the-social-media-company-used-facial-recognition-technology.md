@@ -31,46 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Singapore to become first to use facial recognition in national identity scheme"
-    excerpt: "Singapore will be the first country in the world to use facial recognition as part of its national identity scheme. This new technology will"
-    publishedDateTime: 2020-09-26T18:51:00Z
-    webUrl: "https://www.buzz.ie/news/singapore-facial-recognition-in-national-identity-scheme-390534"
-    ampWebUrl: "https://www.buzz.ie/amp/news/singapore-facial-recognition-in-national-identity-scheme-390534"
-    cdnAmpWebUrl: "https://www-buzz-ie.cdn.ampproject.org/c/s/www.buzz.ie/amp/news/singapore-facial-recognition-in-national-identity-scheme-390534"
+  - title: "Report: LAPD used facial recognition nearly 30,000 times"
+    excerpt: "The Los Angeles Police Department has used facial-recognition software nearly 30,000 times since 2009 even while denying at times that it used the controversial technology at all, the Los Angeles Times reported Monday."
+    publishedDateTime: 2020-09-25T22:49:00Z
+    webUrl: "https://www.ctpost.com/news/article/Report-LAPD-used-facial-recognition-nearly-15585211.php"
+    ampWebUrl: "https://www.ctpost.com/news/amp/Report-LAPD-used-facial-recognition-nearly-15585211.php"
+    cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Report-LAPD-used-facial-recognition-nearly-15585211.php"
     type: article
     provider:
-      name: buzz.ie
-      domain: buzz.ie
-    quality: 55
+      name: Connecticut Post
+      domain: ctpost.com
+    quality: 59
     images:
-      - url: "https://img.resized.co/buzz_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLmJ1enouaWVcXFwvdXBsb2Fkc1xcXC8yMDIwXFxcLzA5XFxcLzI2MTkyMjM2XFxcL1BBLTU1Mzg0OTQ2LTEwMjR4NjgzLmpwZ1wiLFwid2lkdGhcIjo2NDcsXCJoZWlnaHRcIjozNDAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5idXp6LmllXFxcL2lcXFwvbm8taW1hZ2UucG5nXCJ9IiwiaGFzaCI6IjI3NjRmYThhZjlhNWIyOWM5MGI5ZDc1ZmQyYTc4NzY5ZTIxN2I1YjIifQ==/pa-55384946-1024x683.jpg"
-        width: 647
-        height: 340
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
         isCached: true
-  - title: "Singapore's use of facial verification in ID scheme stirs privacy fears"
-    excerpt: "Singapore's more than four million residents will have to use facial verification technology to access government services through the national identity scheme, a move criticised as intrusive and heavy-handed by privacy advocates."
-    publishedDateTime: 2020-09-28T15:03:00Z
-    webUrl: "https://www.reuters.com/article/singapore-tech-facialrecognition-idUSL8N2GO0AS"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2GO0AS"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2GO0AS"
+  - title: "Report: LAPD used facial recognition nearly 30,000 times"
+    excerpt: "The Los Angeles Police Department has used facial-recognition software nearly 30,000 times since 2009 even while denying at times that it used the controversial technology at all, the Los Angeles Times reported Monday."
+    publishedDateTime: 2020-09-26T19:06:00Z
+    webUrl: "https://www.nhregister.com/news/article/Report-LAPD-used-facial-recognition-nearly-15585211.php"
+    ampWebUrl: "https://www.nhregister.com/news/amp/Report-LAPD-used-facial-recognition-nearly-15585211.php"
+    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Report-LAPD-used-facial-recognition-nearly-15585211.php"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-  - title: "How Telangana is using the pandemic to push facial recognition tech on its population"
-    excerpt: "Your face has a lot of value in Telangana these days. It can help you apply for a duplicate or renewed license without ever leaving the house. If you are an intermediate student, it can help you enrol in a degree college,"
-    publishedDateTime: 2020-09-29T06:07:00Z
-    webUrl: "https://www.medianama.com/2020/09/223-telangana-facial-recognition-push-covid19-pandemic/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 32
+      name: New Haven Register
+      domain: nhregister.com
+    quality: 59
     images:
-      - url: "https://i1.wp.com/www.medianama.com/wp-content/uploads/flat-3252983_1280.png?fit=1280%2C1066&#038;ssl=1"
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
+  - title: "Detroit City Council to vote to renew DPD's facial recognition contract"
+    excerpt: "The Detroit City Council is expected to vote Tuesday on the renewal of the controversial use of facial recognition technology in the city."
+    publishedDateTime: 2020-09-29T09:27:00Z
+    webUrl: "https://www.wxyz.com/news/detroit-city-council-to-vote-to-renew-dpds-facial-recognition-contract"
+    ampWebUrl: "https://www.wxyz.com/news/detroit-city-council-to-vote-to-renew-dpds-facial-recognition-contract?_amp=true"
+    cdnAmpWebUrl: "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/detroit-city-council-to-vote-to-renew-dpds-facial-recognition-contract?_amp=true"
+    type: article
+    provider:
+      name: WXYZ Detroit
+      domain: wxyz.com
+    quality: 59
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/b4258ae/2147483647/strip/true/crop/2777x1562+112+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F2b%2F27%2Fd6dcdccb4b9f9e78c5486cb85a7e%2Ffacial-recognition.jpg"
         width: 1280
-        height: 1066
+        height: 720
         isCached: true
 
 secured: "q9Pl0Hzp1wcuc83xLd5m3X/NbPKcTkQMRSU2dfaMGJ63zybNHOLkAJsX6JOBo7HPYQeHiXyLpg78arstezzaqVqvsByw0M0KHqL1SDZc7z3yQ2HigOPwKPKhS7XjPldoigjOYQHOov4eM35Ho5AzuGscDNO2ADBfXbTnk8USvz1iYa8vaJ+Ux+ZAb/QUEOudj73ghDMkV5fXwAQ1/FTs0MEfWFUdlJEJRz4kg6sAidfoY2/OBVi4oKFt+kBAIbPvQ5TbsySVEzdrHgWYmf4Vr9J/dU+g1drCXRHRDmdblHJPBvdSPXIm/3JRA0xY8UHGQTNq01TEzgws+2wNA3GANVBZ2Ix3TvuuoocB83tTQzYYVvwYlG3j6Ipwure7ddmlRJ8iUtYgkHneKfd80mJn8x8rv/Ine2lCGutZaKwZoQWYytoUWTf598zVJ++rYl7k3EqbmlxtvVgWlDFTvayYapCGchg5oPjj0R3hoJvfc6sW4N8uSHx51teQscPLXX/BCpR/OL8yGQXqu36PQsE3Wg==;7A9M+OFPK8k7U34DuW3WiA=="

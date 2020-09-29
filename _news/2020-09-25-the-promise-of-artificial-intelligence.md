@@ -71,15 +71,6 @@ related:
         width: 966
         height: 643
         isCached: true
-  - title: "Recruiter.com Expands Board with Experts in Artificial Intelligence and Corporate Finance"
-    excerpt: "Recruiter.com Group, Inc., a leading hiring platform, has announced today that Deborah Leff, Global Leader and Industry CTO for Data Science and Artificial Intelligence and Nick Florio, CPA, and founder of Strategic Staffing Concepts,"
-    publishedDateTime: 2020-09-24T22:55:00Z
-    webUrl: "https://www.nasdaq.com/press-release/recruiter.com-expands-board-with-experts-in-artificial-intelligence-and-corporate"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 38
   - title: "Getting rid of AI bias"
     excerpt: "Better facial recognition and changing algorithms - how to fight racial bias in AI"
     publishedDateTime: 2020-09-29T04:36:00Z

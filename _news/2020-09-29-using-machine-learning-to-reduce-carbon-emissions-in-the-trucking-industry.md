@@ -47,19 +47,21 @@ related:
         width: 1024
         height: 696
         isCached: true
-  - title: "Preventing customer churn by optimizing incentive programs using stochastic programming"
-    excerpt: "In recent years, businesses are increasingly looking for ways to integrate the power of machine learning (ML) into business decision-making. This post demonstrates the use case of creating an optimal incentive program to offer customers identified as being at risk of leaving for a competitor, or churning."
-    publishedDateTime: 2020-09-24T21:45:43Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/preventing-customer-churn-by-optimizing-incentive-programs-using-stochastic-programming/"
+  - title: "Companies are doubling down on artificial intelligence and machine learning due to pandemic"
+    excerpt: "Companies are planning to increase their spending on artificial intelligence and machine learning as a result of the pandemic, and IT leaders believe that those initiatives should have been a higher priority for their organizations all along, according to ..."
+    publishedDateTime: 2020-09-29T14:16:00Z
+    webUrl: "https://www.techrepublic.com/article/companies-are-doubling-down-on-artificial-intelligence-and-machine-learning-due-to-pandemic/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/companies-are-doubling-down-on-artificial-intelligence-and-machine-learning-due-to-pandemic/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/companies-are-doubling-down-on-artificial-intelligence-and-machine-learning-due-to-pandemic/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 66
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 94
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
-        width: 1260
-        height: 630
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2018/09/18/576ff782-4166-4148-9a24-1a349fb7d430/thumbnail/1200x675/06be1fbef92a10bdaa9eefca101d0989/cyber.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "These weird, unsettling photos show that AI is getting smarter"
     excerpt: "Of all the AI models in the world, OpenAI’s GPT-3 has most captured the public’s imagination. It can spew poems, short stories, and songs with little prompting, and has been demonstrated to fool people into thinking its outputs were written by a human."
@@ -78,6 +80,6 @@ related:
         height: 1688
         isCached: true
 
-secured: "MH+GaEtXvkNvS2UxmSJo1xtgr5BS7yBSZHEa1ipHl5Pv1AylzoOzfbCeeBYYbOUqkZEbDlNX2UNqfzOekt97lsJeKeIBMTlvWHei1ChRL6QTQPB5S5Ev+BDOh5+bB8qyM1bi6/fMjQ4Nq+Vk/ceRCOzdB8ZYGNsl4DVDk3dh8X5OyqSMEbBV7dtwv0kYBzxoBnh4PK8HrrLub4+pw0rvLPSUF9ezWwI+k1eYCNWD52hqUttSz3LT77qVFP1cT7ZHSYczPWKW6mep60eXHn15ARbzalIKgm8B3NL5JAO7sb8bKaOFmpv6wyq1JfKYo0XrnY1EeZ0lY6vBR5zrATWMuc07mzfarK68hJbDjDgsNVc=;gKTT7gA/D47DJXyGPO5rzw=="
+secured: "9AgCks0XtbzvJI4GYG6+TiW5VvRXNnq6VVU+VAB9bzwoStgTpY+3m1MaC2sCrFIo35D5w9K9WhBPmQUDxhZ6VZZ3WUQwmUg9MYQXSemf1+KOA5wtV75XTsy7pJAvAWH+aVlCgBfHfI45g4FecfojuvybKK8HGBDEJ19KkzhbF/bPtaOjiYZnVpN+JHvcegTfyF5xEANT0ZzMKnJlFOoYxoTtYGO1U+Y6kXmXzGMfYQSf/nAgjw0pDmg/6rUbxfXjfV0MliFQ3ksHdGheyPh2R54tRTQkdQfD97JoPOI8ALREtHCdSOfJO8HiTJecLImrtucLETMTOsPtqsSKLRZ/hr/4UrU51RLb3ResnWw7Ox7m1j3kgoUzP2VVnihImgyp2xmAu3aDxQxu3iyIaHDy+aZjGyWFyRWE5x1ECR+5qQOWEW/p1lV5Y/tqwS7xU5al3f5fp9ltrSBsrKI6zaM3Nyh6fcgHelPwE16IjoT1Wcgpdv7cEgNYzmVAH2euJHEnAAw6uI4misZz9cFLAxWsiw==;tihtyv3N9Dhat8AMu7GuwA=="
 ---
 

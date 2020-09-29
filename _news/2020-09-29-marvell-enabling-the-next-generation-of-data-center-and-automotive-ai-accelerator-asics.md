@@ -1,22 +1,32 @@
 ---
 category: news
 title: "Marvell Enabling the Next Generation of Data Center and Automotive AI Accelerator ASICs"
-excerpt: "SANTA CLARA, Calif., Sept. 29, 2020 /PRNewswire/ -- Marvell (NASDAQ: MRVL) today announced that the company's custom application-specific integrated circuits (ASICs) offering is well-positioned to ena"
-publishedDateTime: 2020-09-29T13:33:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/marvell-enabling-the-next-generation-of-data-center-and-automotive-ai-accelerator-asics/article_ffa6cede-a72a-5c36-89ac-609dec416d04.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/marvell-enabling-the-next-generation-of-data-center-and-automotive-ai-accelerator-asics/article_ffa6cede-a72a-5c36-89ac-609dec416d04.html"
+excerpt: "PRNewswire/ -- Marvell (NASDAQ: MRVL) today announced that the company's custom application-specific integrated circuits (ASICs) offering is well-positioned to enable the next generation of artificial intelligence (AI) accelerator solutions for the data center and automotive markets."
+publishedDateTime: 2020-09-29T13:08:00Z
+originalUrl: "https://www.marketwatch.com/press-release/marvell-enabling-the-next-generation-of-data-center-and-automotive-ai-accelerator-asics-2020-09-29"
+webUrl: "https://www.marketwatch.com/press-release/marvell-enabling-the-next-generation-of-data-center-and-automotive-ai-accelerator-asics-2020-09-29"
 type: article
-quality: 11
-heat: -1
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Marvell to Bring 5-nm Chips to Cloud Data Centers and 5G Networks"
@@ -34,6 +44,6 @@ related:
         height: 821
         isCached: true
 
-secured: "N1kvq6RrJD81NYCjaugkBnKbl6w8gdcHsAkcHGekZD0eBJzh2SxeaXBjGqjmX+NCtuOaj7dhjI9f7C/l9HS0hA2xhnh185iM3chxr37P/uw/l1hH2x3al/SdxLD73DJyyZqkVgGnEtGt8KsP08gtLVnKSBPIYzr/jGyL2PjDFiOzoyIHZJ6/RhPJ++1zCrXxEQ4wrfGt862BmahMsJbT28TgOcNBxugDW+f2V6j05A0Gh9NbNMgx5iy6u3TWcKfCx4rhxBnT1lUrBlFF24sZoHVtjWWTPVikNAK2t6YXTpkYfJVR9nfteE9/VewN4XdG9QlBInsnVCRPjf1Dx0LMIeWpamTWeR1TPkDyS9PBsxY=;/3GU5crEX2fsxCTe8HZDnQ=="
+secured: "Vd763+RjbWTE6xS8dFx5l2uwcMhQy1oNMT7DMal38HGi8/ropiWKjmcrZixnKJU/t7nF4DeSQQAQD1MAqfVa9DhNnusKpLiVaGEMClUe1pmriPepEvAwlRpCPKxLpBlFv65CUxhXJhISIzL5DEBEDRInm6PozplV6e9DupNKtb/NH+OfM0QrUIAon5btPzhPkvhexyy2okFzcZZpJLOlqXUDSX8igHF/4rKhixZPUH/QA7WkuvfwKftQ+HISWPnweB+kjWwZHlaI/qM52fY4JK1IVePFaeIlrqjoh5CVKOd5wpAi8mULX3e5zjgPC/DVLJvm1JaCct00Nhrs6iHdPZRpTtSf5CRn+hMzCa3mf34=;BGnONLIelwM8DjkalC5trw=="
 ---
 
