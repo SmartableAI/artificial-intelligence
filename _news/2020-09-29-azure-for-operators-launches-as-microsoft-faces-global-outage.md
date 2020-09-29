@@ -42,9 +42,9 @@ related:
   - title: "Microsoft Azure for Operators is a cloud platform for telcos"
     excerpt: "Microsoft’s push into the telecoms market continues with the launch of a dedicated suite of cloud services called ‘Azure for Operators’, hoping to capitalise on increased demand from telcos in the 5G era."
     publishedDateTime: 2020-09-29T10:58:00Z
-    webUrl: "https://www.techradar.com/in/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos"
-    ampWebUrl: "https://www.techradar.com/in/amp/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos"
+    webUrl: "https://www.techradar.com/au/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos"
+    ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos"
     type: article
     provider:
       name: TechRadar
@@ -213,6 +213,6 @@ related:
         height: 1200
         isCached: true
 
-secured: "fclA2lbxomaiKlvrpFB7n8hxq4rpq0zVii190J4ZCOXsRyPOHQbhE3P+lk6gVcHmqT0Q+0WVxXTUMMViViKVgckgDBknKCxbngHoKqgjkOodQBvuhoHWXXidks8yorvP44eWxbmngxVrgH06EH2BPtKe13Mjr3JeakGMpMIEck4fXEk24LX+9JQNKgnzm6fPRJGKa1WkK9QbVWN5PckMLdwwZmsJSI6bIq11abW+2Thzcwylu1Mb6/SEN6OW027C3Bv31D7NrQ0I1L6NIMhMU5c8/1iw1Zx7291xdj6zD7RPVvEIfXZDMXxSC45AuPIjuuPWHDopnJpKCI7Npu2/2MatrH+uZu3dIPdmF2EqAaw=;/oRRcuUlh4YuerMAh2g8cA=="
+secured: "P+E/hw9nvpqjE+aGtyan44rTkVD95LhpxhrpPH7dBwwu3oboNyrXh7CLOUjGqAcBI5ffQQZsR7ssmhoJBKN0flLvVnmKfNHN2EBaP3y4w/tBogB2WCm/ipPT1+aFtl7zskuqXQx0i952Vmn272vgjF4n3YXJR+DfkgxHH2JVVve0kGTJw6bIux49JnWZuw+p8tiiA016rk5kveh34rL+3z3EQ1EDJF58m219Sj5S4HkoSqwE5k4mxPqGZYp78vZ39sl2RiFK59e0prQ8tm7i6VLTbI1zzsC9nfBXNR79dvNOC7h//0wlJ+eABFiX9aJGOzrf4s/298ipjQduRaOY+ghY5D0j0LF1IVL/HypxfvWzgnZdPFsjdwDkGJ3aWWfbOGgssxxwgGmtc6/0sKh1cwyVAh80BnS6rApARzg1bQDZilsfmmB3wgSIbeaBPftmou1X6BV9GXSHXTx46YTRdQnmJ/znJrVUWrzl0rs1j05anTSlU0gZ03AHSgotJuNpDSM9f0kYOMZBZ8+aTL6Hgw==;JCKzQTxPMl/2H28jo7afsQ=="
 ---
 

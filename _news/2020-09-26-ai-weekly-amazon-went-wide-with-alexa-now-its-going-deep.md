@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/25/ai-weekly-amazon-went-wide-with-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/25/ai-weekly-amazon-went-wide-with-alexa-now-its-going-deep/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon's Alexa gets a new brain on Echo, becomes smarter via AI and aims for ambience"
-    excerpt: "Amazon's new Echo devices are more like edge computing hardware in enterprises where the AI processing is going local. The upshot is that Alexa will be more ambient in the smart home, but most likely coming to work with you."
-    publishedDateTime: 2020-09-24T20:08:00Z
-    webUrl: "https://www.zdnet.com/article/amazons-alexa-gets-a-new-brain-on-echo-becomes-smarter-via-ai-and-aims-for-ambience/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/amazons-alexa-gets-a-new-brain-on-echo-becomes-smarter-via-ai-and-aims-for-ambience/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazons-alexa-gets-a-new-brain-on-echo-becomes-smarter-via-ai-and-aims-for-ambience/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 80
-    images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/09/24/bc532dc1-2796-40d7-8236-733cc0766223/amzn-az1-neural-edge.png"
-        width: 827
-        height: 497
-        isCached: true
   - title: "Amazon Alexa: How developers use AI to help Alexa understand what you mean and not what you say"
     excerpt: "The developers and engineers on the Alexa Smart Home team use a variety of mechanisms, including AI and ML, to help Alexa better understand your voice requests."
     publishedDateTime: 2020-09-25T15:42:00Z

@@ -2,6 +2,336 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-29-applying-machine-learning-to-keep-employees-safe-and-save-lives.md",
+      "title": "Applying machine learning to keep employees safe and save lives",
+      "excerpt": "Warny leverages many of the key AWS Services such as IoT, Greengrass, and Sagemaker. Warny uses sophisticated computer vision algorithms to protect people working around dangerous machines ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/29/applying-machine-learning-to-keep-employees-safe-and-save-lives/",
+      "originalUrl": "https://venturebeat.com/2020/09/29/applying-machine-learning-to-keep-employees-safe-and-save-lives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/Hazzard_Outline.jpg?fit=800%2C387&strip=all",
+          "width": 800,
+          "height": 387,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/29/applying-machine-learning-to-keep-employees-safe-and-save-lives/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/29/applying-machine-learning-to-keep-employees-safe-and-save-lives/amp/",
+      "publishedDateTime": "2020-09-29T06:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-another-strange-shift-for-the-ai-chip-startup-segment.md",
+      "title": "Another Strange Shift for the AI Chip Startup Segment",
+      "excerpt": "Few of the AI hardware startups that have made it through the first round of reality (roughly 2016 until the present) have managed to navigate the choppy",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2020/09/29/another-strange-shift-for-the-ai-chip-startup-segment/",
+      "originalUrl": "https://www.nextplatform.com/2020/09/29/another-strange-shift-for-the-ai-chip-startup-segment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/shutterstock_613029992.jpg",
+          "width": 1300,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2020/09/29/another-strange-shift-for-the-ai-chip-startup-segment/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/09/29/another-strange-shift-for-the-ai-chip-startup-segment/amp/",
+      "publishedDateTime": "2020-09-29T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-artificial-intelligence-expert-zhu-songchun-to-return-to-china-from-us.md",
+      "title": "Artificial intelligence expert Zhu Songchun to return to China from US",
+      "excerpt": "UCLA professor’s switch to Peking University comes as Beijing seeks to make country a global leader in the field.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/china/science/article/3103543/artificial-intelligence-expert-zhu-songchun-return-china-us",
+      "originalUrl": "https://www.scmp.com/news/china/science/article/3103543/artificial-intelligence-expert-zhu-songchun-return-china-us",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/09/29/ec5744a6-022d-11eb-88c7-25dcd0ae6080_image_hires_211700.jpg?itok=RIqvM68m&v=1601385430",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/china/science/article/3103543/artificial-intelligence-expert-zhu-songchun-return-china-us",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3103543/artificial-intelligence-expert-zhu-songchun-return-china-us",
+      "publishedDateTime": "2020-09-29T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-cybermdx-healthcare-security-solution-is-now-available-in-aws-marketplace.md",
+      "title": "CyberMDX Healthcare Security Solution is Now Available in AWS Marketplace",
+      "excerpt": "CyberMDX, a leading healthcare cybersecurity provider delivering visibility and threat prevention for medical devices and clinical",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/il/news-releases/cybermdx-healthcare-security-solution-is-now-available-in-aws-marketplace-301139706.html",
+      "originalUrl": "https://www.prnewswire.com/il/news-releases/cybermdx-healthcare-security-solution-is-now-available-in-aws-marketplace-301139706.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-29T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-irobot-cofounder-helen-greiner-named-ceo-of-robotic-gardening-startup-tertill.md",
+      "title": "iRobot cofounder Helen Greiner named CEO of robotic gardening startup, Tertill",
+      "excerpt": "Boston-based robotic gardening startup Tertill this morning announced that it has appointed Helen Greiner as CEO and Chairman. The executive is best known for cofounding iRobot in 1990 along with fellow MIT Artificial Intelligence Lab members Rodney Brooks and Colin Angle (the company’s longtime",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/29/irobot-cofounder-helen-greiner-named-ceo-of-robotic-gardening-startup-tertill/",
+      "originalUrl": "https://techcrunch.com/2020/09/29/irobot-cofounder-helen-greiner-named-ceo-of-robotic-gardening-startup-tertill/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/p1010009.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/29/irobot-cofounder-helen-greiner-named-ceo-of-robotic-gardening-startup-tertill/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/29/irobot-cofounder-helen-greiner-named-ceo-of-robotic-gardening-startup-tertill/amp/",
+      "publishedDateTime": "2020-09-29T05:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-vmware-nvidia-partner-to-make-ai-chips-easier-for-businesses-to-use.md",
+      "title": "VMware, Nvidia Partner to Make AI Chips Easier for Businesses to Use",
+      "excerpt": "VMware Inc and Nvidia Corp on Tuesday announced an effort to make VMware's software for managing data centers work better with Nvidia's artificial intelligence (AI) chips. VMware makes software that helps businesses get more work out of data center servers by slicing physical machines into \"virtual\" ones so that more applications can be packed onto each physical machine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2020-09-29/vmware-nvidia-partner-to-make-ai-chips-easier-for-businesses-to-use",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2020-09-29/vmware-nvidia-partner-to-make-ai-chips-easier-for-businesses-to-use",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2020-09-29/vmware-nvidia-partner-to-make-ai-chips-easier-for-businesses-to-use?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-09-29/vmware-nvidia-partner-to-make-ai-chips-easier-for-businesses-to-use?context=amp",
+      "publishedDateTime": "2020-09-29T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-the-promise-of-voice-ai-lies-at-work-not-at-home.md",
+      "title": "The promise of voice AI lies at work, not at home",
+      "excerpt": "The next frontier for voice AI lies beyond your doorstep. From education to workforce automation to retail, the scope for new applications is opening up.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/29/the-promise-of-voice-ai-lies-at-work-not-at-home/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/29/the-promise-of-voice-ai-lies-at-work-not-at-home/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Voice-AI-hed-796x419.png",
+          "width": 796,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/29/the-promise-of-voice-ai-lies-at-work-not-at-home/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/29/the-promise-of-voice-ai-lies-at-work-not-at-home/amp/",
+      "publishedDateTime": "2020-09-29T05:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-navigating-covid-19-with-conversational-ai.md",
       "title": "Navigating COVID-19 With Conversational AI",
       "excerpt": "At the forefront of creating deep and engaging conversations via rich-media interactions, Conversational AI has proven itself to be of immense value in the current crisis with vast potential as a new",
@@ -10,7 +340,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/356864",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -153,6 +483,47 @@
       ]
     },
     {
+      "path": "_news/2020-09-29-doc-rivers-ousted-from-clippers-social-media-reacts-to-shocking-decision.md",
+      "title": "Doc Rivers ousted from Clippers, social media reacts to shocking decision",
+      "excerpt": "Clippers reporter Mirjam Swanson confirmed the bombshell news on Monday that the Clippers have fired head coach Doc Rivers. The Clippers blew a 3-1 series lead in the second round of the Western Conference playoffs against the Denver Nuggets,",
+      "sourceUrl": null,
+      "webUrl": "https://inside-com.breezy.hr/",
+      "originalUrl": "https://www.mercurynews.com/2020/09/29/social-media-reaction-to-the-shocking-firing-of-clippers-coach-doc-rivers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://breezy-social-images.imgix.net/442d93c02549/social-portal.png?auto=format&h=600",
+          "width": 1143,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-29T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mercury News",
+        "domain": "mercurynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-covid-19-nec-to-install-thermal-facial-recognition-scanners-at-airports.md",
       "title": "Covid-19: NEC to install thermal, facial recognition scanners at airports",
       "excerpt": "NEC Corporation of Malaysia Sdn Bhd is in the midst of installing thermal and facial recognition scanners to detect Covid-19 infections",
@@ -234,6 +605,47 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-inside-politics-tory-rebels-hope-for-deal-with-no-10-on-extra-scrutiny-powers.md",
+      "title": "Inside Politics: Tory rebels hope for deal with No 10 on extra scrutiny powers",
+      "excerpt": "Conservative backbenchers believe they’re in line for a bigger say on the coronavirus rules after a ‘cordial’ meeting with Jacob Rees-Mogg and the whips, writes Adam Forrest",
+      "sourceUrl": null,
+      "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
+      "originalUrl": "https://www.independent.co.uk/independentpremium/uk-news/boris-johnson-coronavirus-rules-tory-mps-compromise-eu-brexit-trade-deal-talks-b688535.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inside.com/assets/premium/Blue-email-icon-0994aadea0b5b10b19a148e2dd34a88c4a315b76ed51d7898fa49dc4ddc6d171.png",
+          "width": 414,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-28T23:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -687,7 +1099,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/moving-from-notebooks-to-automated-ml-pipelines-using-amazon-sagemaker-and-aws-glue/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -779,447 +1191,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-new-army-accelerated-multi-node-attack-enabled-by-ai-at-project-convergence-2020.md",
-      "title": "New Army ‘Accelerated Multi-Node Attack’ enabled by AI at Project Convergence 2020",
-      "excerpt": "Gray Eagle drones were armed with HELLFIRE missiles and GBU-69 glide bombs, 155mm artillery weapons fired rounds 60km (37.3 miles) to destroy SA-22 enemy air defenses and armored ground combat vehicles directly hit multiple T-72 tanks during the Army’s Project Convergence 2020 at Yuma Proving Grounds,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/new-army-accelerated-multi-node-attack-enabled-by-ai-at-project-convergence-2020",
-      "originalUrl": "https://www.foxnews.com/tech/new-army-accelerated-multi-node-attack-enabled-by-ai-at-project-convergence-2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/ArmyERCA.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/new-army-accelerated-multi-node-attack-enabled-by-ai-at-project-convergence-2020.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/new-army-accelerated-multi-node-attack-enabled-by-ai-at-project-convergence-2020.amp",
-      "publishedDateTime": "2020-09-28T11:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-google-cloud-has-a-big-edge-over-aws-or-azure-and-this-training-can-help-you-master-it.md",
-      "title": "Google Cloud Has a Big Edge Over AWS or Azure — and This Training Can Help You Master It",
-      "excerpt": "This training package usually sells for almost $640, but by getting in on this deal right now, you’ll get all seven courses for less than $5 each, just $29.99.",
-      "sourceUrl": null,
-      "webUrl": "https://www.extremetech.com/deals/315610-google-cloud-has-a-big-edge-over-aws-or-azure-and-this-training-can-help-you-master-it",
-      "originalUrl": "https://www.extremetech.com/deals/315610-google-cloud-has-a-big-edge-over-aws-or-azure-and-this-training-can-help-you-master-it",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.extremetech.com/wp-content/uploads/2020/09/sale_41159_article_image.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-28T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ExtremeTech",
-        "domain": "extremetech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-sd-times-news-digest-ruby-30-preview-1-release-cron-triggers-for-the-cloudflare-workers-and-tensorflow-recommender.md",
-      "title": "SD Times news digest: Ruby 3.0 preview 1 release, Cron Triggers for the Cloudflare Workers, and TensorFlow Recommender",
-      "excerpt": "Ruby 3.0 preview 1 release, Cron Triggers for the Cloudflare Workers serverless compute platform, TensorFlow Recommender released",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/softwaredev/sd-times-news-digest-ruby-3-0-preview-1-release-cron-triggers-for-the-cloudflare-workers-and-tensorflow-recommender/",
-      "originalUrl": "https://sdtimes.com/softwaredev/sd-times-news-digest-ruby-3-0-preview-1-release-cron-triggers-for-the-cloudflare-workers-and-tensorflow-recommender/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2020/09/gems-44532_1280.png",
-          "width": 1199,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-28T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-study-indicates-neither-algorithmic-differences-nor-diverse-data-sets-solve-facial-recognition-bias.md",
-      "title": "Study indicates neither algorithmic differences nor diverse data sets solve facial recognition bias",
-      "excerpt": "Facial recognition models fail to recognize Black, Middle Eastern, and Latino people more often than those with lighter skin. That’s according to a study by researchers at Witchita State ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/28/study-indicates-neither-algorithmic-differences-nor-diverse-data-sets-solve-facial-recognition-bias/",
-      "originalUrl": "https://venturebeat.com/2020/09/28/study-indicates-neither-algorithmic-differences-nor-diverse-data-sets-solve-facial-recognition-bias/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/biometrics-e1601309807874.jpg?w=1200&#038;strip=all",
-          "width": 1198,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/28/study-indicates-neither-algorithmic-differences-nor-diverse-data-sets-solve-facial-recognition-bias/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/28/study-indicates-neither-algorithmic-differences-nor-diverse-data-sets-solve-facial-recognition-bias/amp/",
-      "publishedDateTime": "2020-09-28T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-cogniac-raises-10-million-for-ai-that-spots-visual-changes-for-industrial-and-government-uses.md",
-      "title": "Cogniac raises $10 million for AI that spots visual changes for industrial and government uses",
-      "excerpt": "Cogniac, a startup developing technology for visual task ... per day. Cogniac’s AI platform has customers connect machine vision cameras, security cameras, drones, smartphones, and other sources ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/28/cogniac-raises-10-million-for-ai-that-spots-visual-changes-for-industrial-and-government-uses/",
-      "originalUrl": "https://venturebeat.com/2020/09/28/cogniac-raises-10-million-for-ai-that-spots-visual-changes-for-industrial-and-government-uses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/cogniac-feedback2-c61ea7568402df6e15d7bf52a568b012-e1601052079248.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/28/cogniac-raises-10-million-for-ai-that-spots-visual-changes-for-industrial-and-government-uses/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/28/cogniac-raises-10-million-for-ai-that-spots-visual-changes-for-industrial-and-government-uses/amp/",
-      "publishedDateTime": "2020-09-28T09:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-azure-databricks-previews-parallelized-proton-query-engine.md",
-      "title": "Azure Databricks previews parallelized Proton query engine",
-      "excerpt": "Microsoft has unveiled a preview of a C++-based vectorized query engine for the Azure Databricks cloud analytics and AI service based on Apache Spark. Azure Databricks, which is delivered in partnership with Databricks, introduced the Photon-powered ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3583657/azure-databricks-previews-parallelized-proton-query-engine.html",
-      "originalUrl": "https://www.infoworld.com/article/3583657/azure-databricks-previews-parallelized-proton-query-engine.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/01/spark-on-the-globe-shutterstock_7869750551-100827145-large.jpg",
-          "width": 1200,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3583657/azure-databricks-previews-parallelized-proton-query-engine.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3583657/azure-databricks-previews-parallelized-proton-query-engine.amp.html",
-      "publishedDateTime": "2020-09-28T09:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-mental-health-startup-equoo-will-be-distributed-by-unilever-in-new-global-youth-campaign.md",
-      "title": "Mental health startup eQuoo will be distributed by Unilever in new global youth campaign",
-      "excerpt": "Last December (yes, in the before-times) UK-based mental health startup eQuoo had a round of announcements, becoming the NHS approved mental health game, as well as signing Barmer, the largest insurance company in Germany,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/28/mental-health-startup-equoo-will-be-distributed-by-unilever-in-new-global-youth-campaign/",
-      "originalUrl": "https://techcrunch.com/2020/09/28/mental-health-startup-equoo-will-be-distributed-by-unilever-in-new-global-youth-campaign/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/HandPhone04.jpg?w=661",
-          "width": 661,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/28/mental-health-startup-equoo-will-be-distributed-by-unilever-in-new-global-youth-campaign/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/28/mental-health-startup-equoo-will-be-distributed-by-unilever-in-new-global-youth-campaign/amp/",
-      "publishedDateTime": "2020-09-28T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-facebook-open-sources-rag-an-ai-model-that-retrieves-documents-to-answer-questions.md",
-      "title": "Facebook open-sources RAG, an AI model that retrieves documents to answer questions",
-      "excerpt": "Facebook and AI startup Hugging Face today open-sourced Retrieval Augmented Generation (RAG), a natural language processing model that finds and interprets contextual information to complete a ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/28/facebook-open-sources-rag-an-ai-model-that-retrieves-documents-to-answer-questions/",
-      "originalUrl": "https://venturebeat.com/2020/09/28/facebook-open-sources-rag-an-ai-model-that-retrieves-documents-to-answer-questions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/moderator-e1591354274848.jpeg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/28/facebook-open-sources-rag-an-ai-model-that-retrieves-documents-to-answer-questions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/28/facebook-open-sources-rag-an-ai-model-that-retrieves-documents-to-answer-questions/amp/",
-      "publishedDateTime": "2020-09-28T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-let-ethics-guide-your-use-of-ai.md",
-      "title": "Let Ethics Guide Your Use of AI",
-      "excerpt": "As AI applications quickly advance into large-scale and more diverse use cases, it’s becoming imperative that ethics guide its development, deployment and applications. This is especially important as we increasingly apply AI to use cases that impact individual lives and livelihoods — including healthcare,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-experience/let-ethics-guide-your-use-of-ai/",
-      "originalUrl": "https://www.cmswire.com/digital-experience/let-ethics-guide-your-use-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/acffe6a8e9624a6a95b067e79eb74209.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-experience/let-ethics-guide-your-use-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/let-ethics-guide-your-use-of-ai/amp/",
-      "publishedDateTime": "2020-09-28T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

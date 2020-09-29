@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-01-nvidia-broadcast-brings-rtx-powered-ai-to-livestreaming-video.md",
+      "title": "Nvidia Broadcast brings RTX-powered AI to livestreaming video",
+      "excerpt": "Nvidia Broadcast is a new tool that brings together all of the companys RTX AI features for creating video and audio content.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/01/nvidia-broadcast-brings-rtx-powered-a-i-to-video-production/",
+      "originalUrl": "https://venturebeat.com/2020/09/01/nvidia-broadcast-brings-rtx-powered-a-i-to-video-production/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/Nvidia-RTX-Broadcast-e1598971502693.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 516,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/01/nvidia-broadcast-brings-rtx-powered-a-i-to-video-production/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/01/nvidia-broadcast-brings-rtx-powered-a-i-to-video-production/amp/",
+      "publishedDateTime": "2020-09-01T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-01-whats-hot-in-ai-according-to-training-data-google-ibm-microsoft-are-buying.md",
       "title": "What’s Hot In AI, According To Training Data Google, IBM, Microsoft Are Buying",
       "excerpt": "But what’s growing fastest in artificial intelligence? One clue is where the Fortune 50 are placing their AI bets. And one big tell is what they need training data for. “Training data is really the basis for AI,",
@@ -1338,57 +1389,6 @@
         "Microsoft AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai.md",
-      "title": "World’s largest chip gets beefier: 850 thousand cores for AI",
-      "excerpt": "Announed at the Hot Chips 2020 conference, the new chip — which is as large as a single 300-mm wafer — packs over two times more transistors as well as a whopping number of AI-optimized cores. The Cerebras Wafer Scale Engine Generation 2 has a die size of approximately 46,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai",
-      "originalUrl": "https://www.techradar.com/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/J4gMaC6kRdNLhVRDjnqSNU-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai",
-      "publishedDateTime": "2020-08-19T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

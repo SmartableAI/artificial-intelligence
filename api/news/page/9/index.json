@@ -2,6 +2,572 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-09-21-portlands-face-recognition-ban-is-a-new-twist-on-smart-cities.md",
+      "title": "Portland’s Face-Recognition Ban Is a New Twist on ‘Smart Cities’",
+      "excerpt": "The first big US city to prohibit private businesses from using the technology reflects rising skepticism of new tools and concerns about fairness.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/portlands-face-recognition-ban-twist-smart-cities/",
+      "originalUrl": "https://www.wired.com/story/portlands-face-recognition-ban-twist-smart-cities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f6503d2eb3bb2da971988d6/master/pass/business_portland_20027039523780.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/portlands-face-recognition-ban-twist-smart-cities/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/portlands-face-recognition-ban-twist-smart-cities/amp",
+      "publishedDateTime": "2020-09-21T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-ais-helping-students-improve-their-scores-in-less-than-24-hours.md",
+      "title": "AI’s Helping Students Improve Their Scores In Less Than 24 Hours",
+      "excerpt": "AI-enabled online learning platforms are increasingly popular around the world for parents who want their children to gain an edge on standardized tests or attaining mastery of a particular subject matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/junwu1/2020/09/21/ais-helping-students-improve-their-scores-in-less-than-24-hours/",
+      "originalUrl": "https://www.forbes.com/sites/junwu1/2020/09/21/ais-helping-students-improve-their-scores-in-less-than-24-hours/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6893aca40707b669a5b764%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/junwu1/2020/09/21/ais-helping-students-improve-their-scores-in-less-than-24-hours/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/09/21/ais-helping-students-improve-their-scores-in-less-than-24-hours/amp/",
+      "publishedDateTime": "2020-09-21T04:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-leveraging-artificial-intelligence-ai-to-scale-ai-transformations.md",
+      "title": "Leveraging Artificial Intelligence (AI) To Scale AI Transformations",
+      "excerpt": "According to a recent McKinsey survey, just under a third of organizations use artificial intelligence for multiple business functions. Scaling AI transformations appears to be the most important challenge in this arena,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/21/leveraging-artificial-intelligence-ai-to-scale-ai-transformations/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/21/leveraging-artificial-intelligence-ai-to-scale-ai-transformations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0db1df72fadb0007edeed4%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/21/leveraging-artificial-intelligence-ai-to-scale-ai-transformations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/21/leveraging-artificial-intelligence-ai-to-scale-ai-transformations/amp/",
+      "publishedDateTime": "2020-09-21T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-adt-slumps-on-ai-startup.md",
+      "title": "ADT Slumps on AI Startup",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Sep 21, 2020 (Baystreet.ca via COMTEX) -- ADT Inc. (NYSE: ADT) shares dropped sharply Monday morning, on the announcement that, via its commercial channel, it is investing in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/adt-slumps-on-ai-startup-2020-09-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/adt-slumps-on-ai-startup-2020-09-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-21T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-10-mlops-platforms-to-manage-the-machine-learning-lifecycle.md",
+      "title": "10 MLops platforms to manage the machine learning lifecycle",
+      "excerpt": "Machine learning lifecycle management systems rank and track your experiments over time, and sometimes integrate with deployment and monitoring",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3572442/10-mlops-platforms-to-manage-the-machine-learning-lifecycle.html",
+      "originalUrl": "https://www.infoworld.com/article/3572442/10-mlops-platforms-to-manage-the-machine-learning-lifecycle.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_man_graphic_interface_data_by_art24hr_gettyimages_1157378096-100817765-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3572442/10-mlops-platforms-to-manage-the-machine-learning-lifecycle.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3572442/10-mlops-platforms-to-manage-the-machine-learning-lifecycle.amp.html",
+      "publishedDateTime": "2020-09-21T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AWS AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-ft-the-fintech-times-losing-a-generation-of-women-in-finance.md",
+      "title": "F|T: The FinTech Times – Losing a generation of women in finance",
+      "excerpt": "Klarna says it is now the highest-valued private FinTech company in Europe following the funding round. Montréal-based Nuvei has officially set the price of its much-anticipated initial public offering on the Toronto Stock Exchange at $26 USD per share.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/75aea61b-e2d9-4d8a-adad-868b9c76511d",
+      "originalUrl": "https://betakit.com/ft-the-fintech-times-losing-a-generation-of-women-in-finance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd82958c7-8a85-407b-a8ec-b3307c14313a.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/75aea61b-e2d9-4d8a-adad-868b9c76511d",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/75aea61b-e2d9-4d8a-adad-868b9c76511d",
+      "publishedDateTime": "2020-09-21T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BetaKit",
+        "domain": "betakit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-safeguard-your-eyes-against-computer-vision-syndrome.md",
+      "title": "Safeguard your eyes against computer vision syndrome",
+      "excerpt": "Technology has simplified life in so many ways. Thanks to their tablets and smartphones, many people now have a wealth of information at their disposal 24 hours a day, seven days week. Computers,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonherald.com/2020/09/21/safeguard-your-eyes-against-computer-vision-syndrome/",
+      "originalUrl": "https://www.bostonherald.com/2020/09/21/safeguard-your-eyes-against-computer-vision-syndrome/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bostonherald.com/wp-content/uploads/2018/11/Herald_BridgePhoto.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bostonherald.com/2020/09/21/safeguard-your-eyes-against-computer-vision-syndrome/amp/",
+      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/09/21/safeguard-your-eyes-against-computer-vision-syndrome/amp/",
+      "publishedDateTime": "2020-09-21T02:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Boston Herald",
+        "domain": "bostonherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-bodet-launches-facial-recognition-to-complement-kelio-time-attendance-solutions.md",
+      "title": "Bodet Launches Facial Recognition to Complement Kelio Time & Attendance Solutions",
+      "excerpt": "FaceStation 2 is the latest biometric clocking-in user interface to be incorporated into Bodet’s innovative Time and Attendance Systems. Working in conjunction with Bodet’s Kelio Visio X7 interactive clocking terminal,",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2138082/bodet-launches-facial-recognition-to-complement-kelio-time",
+      "originalUrl": "https://www.openpr.com/news/2138082/bodet-launches-facial-recognition-to-complement-kelio-time",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/9/T921401134_g.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2138082/bodet-launches-facial-recognition-to-complement-kelio-time",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2138082/bodet-launches-facial-recognition-to-complement-kelio-time",
+      "publishedDateTime": "2020-09-21T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-samsung-galaxy-s30-might-include-iphone-rivaling-facial-recognition.md",
+      "title": "Samsung Galaxy S30 might include iPhone-rivaling facial recognition",
+      "excerpt": "While the Samsung Galaxy S20 line has the iPhone 11 range matched or beaten in a lot of ways, one thing it can’t match is Apple’s Face ID system for facial recognition. Indeed, Apple’s facial recognition is more secure than just about any Android version,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/uk/news/samsung-galaxy-s30-might-include-iphone-rivaling-facial-recognition",
+      "originalUrl": "https://www.techradar.com/uk/news/samsung-galaxy-s30-might-include-iphone-rivaling-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ECEgY8jasz3nbtrpwrPdK-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/uk/amp/news/samsung-galaxy-s30-might-include-iphone-rivaling-facial-recognition",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/samsung-galaxy-s30-might-include-iphone-rivaling-facial-recognition",
+      "publishedDateTime": "2020-09-21T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-gowin-semiconductor-launches-goai-20-for-embedded-machine-learning-inference.md",
+      "title": "GOWIN Semiconductor Launches GoAI 2.0 for Embedded Machine Learning Inference",
+      "excerpt": "GOWIN Semiconductor Corp., the world’s fastest-growing programmable logic company, releases the latest version of their GoAI machine learning platform, providing an SDK and accelerator to perform machine learning for edge inference using convolutional neural networks on GOWIN FPGAs.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/globe-newswire/d1e2636d66efe74334839d6e7f1fded5",
+      "originalUrl": "https://apnews.com/globe-newswire/d1e2636d66efe74334839d6e7f1fded5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-21T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-inside-politics-government-threatens-lockdown-if-rules-arent-followed.md",
+      "title": "Inside Politics: Government threatens lockdown if rules aren’t followed",
+      "excerpt": "As Boris Johnson considers national coronavirus restrictions, Matt Hancock has made it clear the public will be to blame for any second lockdown, writes Adam Forrest",
+      "sourceUrl": null,
+      "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
+      "originalUrl": "https://www.independent.co.uk/independentpremium/uk-news/boris-johnson-new-coronavirus-rules-fine-hancock-national-lockdown-threat-b511237.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inside.com/assets/premium/Blue-email-icon-0994aadea0b5b10b19a148e2dd34a88c4a315b76ed51d7898fa49dc4ddc6d171.png",
+          "width": 414,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-20T23:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-artificial-intelligence-chipsets-market-share-current-and-future-industry-trends-2020-2026.md",
+      "title": "Artificial Intelligence Chipsets Market Share Current and Future Industry Trends, 2020-2026",
+      "excerpt": "Increasing acceptance of cloud-based services in education, integration of AI inferencing hardware in the data centers, and rising product developments by manufacturers along with investment in startups are driving the growth of global artificial intelligence chipsets market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-share-current-and-future-industry-trends-2020-2026-2020-09-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-share-current-and-future-industry-trends-2020-2026-2020-09-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-20T23:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-21-the-4-top-artificial-intelligence-trends-for-2021.md",
       "title": "The 4 Top Artificial Intelligence Trends For 2021",
       "excerpt": "Artificial Intelligence (AI) has been a mega-trend in 2020. The current pandemic has only accelerated the relevance and adoption of AI and machine learning. Here we look at some of the top AI trends for 2021.",
@@ -583,576 +1149,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-carrefour-deploys-machine-learning-software-in-belgium.md",
-      "title": "Carrefour deploys machine learning software in Belgium",
-      "excerpt": "French supermarket Carrefour is enhancing its ecommerce offering with a new distribution centre and capabilities enabled by advanced data",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/carrefour-deploys-machine-learning-software-in-belgium-9300750",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/carrefour-deploys-machine-learning-software-in-belgium-9300750",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/carrefour-deploys-machine-learning-software-in-belgium-9300750",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/carrefour-deploys-machine-learning-software-in-belgium-9300750",
-      "publishedDateTime": "2020-09-19T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-this-new-ai-technology-could-prevent-ships-from-colliding-with-whales.md",
-      "title": "This New AI Technology Could Prevent Ships From Colliding With Whales",
-      "excerpt": "This has led the National Oceanic and Atmospheric Administration (NOAA) to establish speed reduction programs along both coasts to protect endangered right whales in the Atlantic Ocean (via “ Right Whale Slow Zones ”) and humpback,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/priyashukla/2020/09/19/this-new-ai-technology-could-prevent-ships-from-colliding-with-whales/",
-      "originalUrl": "https://www.forbes.com/sites/priyashukla/2020/09/19/this-new-ai-technology-could-prevent-ships-from-colliding-with-whales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5d72e832580d4befbb9b50%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4181%26cropY1%3D0%26cropY2%3D2352",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/priyashukla/2020/09/19/this-new-ai-technology-could-prevent-ships-from-colliding-with-whales/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/priyashukla/2020/09/19/this-new-ai-technology-could-prevent-ships-from-colliding-with-whales/amp/",
-      "publishedDateTime": "2020-09-19T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-how-artificial-intelligence-is-helping-companies-identify-and-nail-new-product-opportunities.md",
-      "title": "How Artificial Intelligence Is Helping Companies Identify And Nail New Product Opportunities",
-      "excerpt": "The best and most cutting edge examples of how firms are using AI in the new product & service development process to identify and optimize new business ideas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michellegreenwald/2020/09/17/how-artificial-intelligence-is-helping-companies-identify--nail-new-product-opportunities/",
-      "originalUrl": "https://www.forbes.com/sites/michellegreenwald/2020/09/17/how-artificial-intelligence-is-helping-companies-identify--nail-new-product-opportunities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6205e8a15156fd3358e745%2F0x0.jpg",
-          "width": 1200,
-          "height": 609,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-18T20:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-stephen-curry-enters-fitness-wars-with-investment-in-tonal-ai-home-gyms-110-million-round.md",
-      "title": "Stephen Curry Enters Fitness Wars With Investment In Tonal AI Home Gym’s $110 Million Round",
-      "excerpt": "The home fitness craze is winning the attention of professional athletes like Steph Curry, Klay Thompson and Serena Williams as they invest along with Amazon Alexa in Tonal AI home gym. Founder and CEO Aly Orady explains why the future of fitness is intelligent in this exclusive interview.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martineparis/2020/09/18/stephen-curry-enters-fitness-wars-with-investment-in-tonal-ai-home-gyms-110-million-round/",
-      "originalUrl": "https://www.forbes.com/sites/martineparis/2020/09/18/stephen-curry-enters-fitness-wars-with-investment-in-tonal-ai-home-gyms-110-million-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f64d6c25280e44e52d7ab87%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2020/09/18/stephen-curry-enters-fitness-wars-with-investment-in-tonal-ai-home-gyms-110-million-round/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2020/09/18/stephen-curry-enters-fitness-wars-with-investment-in-tonal-ai-home-gyms-110-million-round/amp/",
-      "publishedDateTime": "2020-09-18T18:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-adp-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award.md",
-      "title": "ADP® DataCloud Wins 2020 Artificial Intelligence (AI) Breakthrough Award",
-      "excerpt": "Recognized as a leading company in the global AI market today, ADP was selected as a winner in the 2020 AI Breakthrough Awards for its innovative workforce analytics solution, ADP® DataCloud. Named as winner for the \"Best AI-based Solution for Data Sciences\" category,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/adp-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award-1029590053",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/adp-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award-1029590053",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/adp-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award-1029590053",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/adp-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award-1029590053",
-      "publishedDateTime": "2020-09-18T17:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-miso-robotics-how-ai-can-transform-an-industry.md",
-      "title": "Miso Robotics: How AI Can Transform An Industry",
-      "excerpt": "Stock Market News, Stock Advice & Trading Tips Over the past decade, the advances in robotics have been breathtaking, as",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-how-ai-can-transform-an-industry-1029604082",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-how-ai-can-transform-an-industry-1029604082",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/miso-robotics-how-ai-can-transform-an-industry-1029604082",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/miso-robotics-how-ai-can-transform-an-industry-1029604082",
-      "publishedDateTime": "2020-09-18T17:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-vision-processing-unit-market-roadmap-for-recovery-from-covid-19growing-adoption-of-deep-learning-and-ai-to-boost-the-market-growth-technavio.md",
-      "title": "Vision Processing Unit Market- Roadmap for Recovery from COVID-19|Growing Adoption of Deep Learning and AI to boost the Market Growth | Technavio",
-      "excerpt": "Technavio has announced its latest market research report titled 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--Technavio has been monitoring the vision processing unit market and it is poised to grow by USD 892.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200918005312/en/Vision-Processing-Unit-Market--Roadmap-for-Recovery-from-COVID-19Growing-Adoption-of-Deep-Learning-and-AI-to-boost-the-Market-Growth-Technavio",
-      "originalUrl": "https://www.businesswire.com/news/home/20200918005312/en/Vision-Processing-Unit-Market--Roadmap-for-Recovery-from-COVID-19Growing-Adoption-of-Deep-Learning-and-AI-to-boost-the-Market-Growth-Technavio",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200918005312/en/822702/23/IRTNTR43075.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-18T16:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped.md",
-      "title": "People’s notions about AI are terrible, an MIT study asks whether they can be helped",
-      "excerpt": "Mistaken notions of AI agency could be helped by hands-on learning, argues MIT scholar Ziv Epstein.  One of the most striking PR moments of the AI age was the sale by Christie's auction house in October,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/",
-      "originalUrl": "https://www.zdnet.com/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/09/18/546f7a0b-e18b-497b-a4eb-b54889807168/epstein-2020-two-versions-of-a-story.png",
-          "width": 1516,
-          "height": 1714,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/",
-      "publishedDateTime": "2020-09-18T16:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed.md",
-      "title": "How do we know AI is ready to be in the wild? Maybe a critic is needed",
-      "excerpt": "Can the paradigm of adversarial AI make algorithms safer to send out into the world? Mischief can happen when AI is let loose in the world, just like any technology. The examples of AI gone wrong are numerous,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/",
-      "originalUrl": "https://www.zdnet.com/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/09/18/357e38bc-229d-41eb-b4dd-97f4f31e32f0/sergey-levine-headshot.jpg",
-          "width": 4324,
-          "height": 3684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/",
-      "publishedDateTime": "2020-09-18T13:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-a-beginners-guide-to-the-ai-apocalypse-killer-robots.md",
-      "title": "A beginner’s guide to the AI apocalypse: Killer robots",
-      "excerpt": "Welcome to the fifth article in TNW’s guide to the AI apocalypse. In this series we examine some of the most popular doomsday scenarios prognosticated by modern AI experts. Previous articles in this series include: Misaligned Objectives,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/09/18/a-beginners-guide-to-the-ai-apocalypse-killer-robots/",
-      "originalUrl": "https://thenextweb.com/neural/2020/09/18/a-beginners-guide-to-the-ai-apocalypse-killer-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/04/robots_wall-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/09/18/a-beginners-guide-to-the-ai-apocalypse-killer-robots/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/18/a-beginners-guide-to-the-ai-apocalypse-killer-robots/amp/",
-      "publishedDateTime": "2020-09-18T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-ai-weekly-cutting-edge-language-models-can-produce-convincing-misinformation-if-we-dont-stop-them.md",
-      "title": "AI Weekly: Cutting-edge language models can produce convincing misinformation if we don’t stop them",
-      "excerpt": "Cutting-edge language generation models like GPT-3 are capable of producing convincing falsehoods if not properly curtailed, a new study shows.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/18/ai-weekly-cutting-edge-language-models-can-produce-convincing-misinformation-if-we-dont-stop-them/",
-      "originalUrl": "https://venturebeat.com/2020/09/18/ai-weekly-cutting-edge-language-models-can-produce-convincing-misinformation-if-we-dont-stop-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/18/ai-weekly-cutting-edge-language-models-can-produce-convincing-misinformation-if-we-dont-stop-them/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/18/ai-weekly-cutting-edge-language-models-can-produce-convincing-misinformation-if-we-dont-stop-them/amp/",
-      "publishedDateTime": "2020-09-18T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-baidu-reveals-4-new-artificial-intelligence-technologies.md",
-      "title": "Baidu Reveals 4 New Artificial Intelligence Technologies",
-      "excerpt": "Baidu (NASDAQ:BIDU) recently hosted its annual Baidu World Conference in Beijing to showcase its latest technologies. The theme of this year's conference was the \"Intelligence of Everything,\" with a heavy emphasis on artificial intelligence (AI) technologies in cars,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/09/18/baidu-reveals-4-new-artificial-intelligence-techno/",
-      "originalUrl": "https://www.fool.com/investing/2020/09/18/baidu-reveals-4-new-artificial-intelligence-techno/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F592025%2F1.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/09/18/baidu-reveals-4-new-artificial-intelligence-techno/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/18/baidu-reveals-4-new-artificial-intelligence-techno/",
-      "publishedDateTime": "2020-09-18T11:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

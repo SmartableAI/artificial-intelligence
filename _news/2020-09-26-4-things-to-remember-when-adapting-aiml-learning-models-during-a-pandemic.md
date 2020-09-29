@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/09/25/4-things-to-remember-when-adapting
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/25/4-things-to-remember-when-adapting-ai-ml-learning-models-during-a-pandemic/amp/"
 type: article
 quality: 102
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Using Machine Learning To Reduce Carbon Emissions In The Trucking Industry"
+    excerpt: "By using advanced technology, data science and machine learning, this company says it's making the sharable truckload model work and cutting carbon emissions."
+    publishedDateTime: 2020-09-29T12:04:00Z
+    webUrl: "https://www.forbes.com/sites/jenniferhicks/2020/09/29/using-machine-learning-to-reduce-carbon-emissions-in-the-trucking-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/jenniferhicks/2020/09/29/using-machine-learning-to-reduce-carbon-emissions-in-the-trucking-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2020/09/29/using-machine-learning-to-reduce-carbon-emissions-in-the-trucking-industry/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f721cf81578a9c207144243%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Preventing customer churn by optimizing incentive programs using stochastic programming"
     excerpt: "In recent years, businesses are increasingly looking for ways to integrate the power of machine learning (ML) into business decision-making. This post demonstrates the use case of creating an optimal incentive program to offer customers identified as being at risk of leaving for a competitor, or churning."
     publishedDateTime: 2020-09-24T21:45:43Z

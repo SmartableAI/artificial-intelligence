@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/city/hyderabad/iit-hyd-researchers-use-ai
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/iit-hyd-researchers-use-ai-to-detect-mobile-use-by-drivers/amp_articleshow/78305004.cms"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 800
     height: 464
     isCached: true
-
-related:
-  - title: "Researchers use artificial intelligence tools to predict loneliness"
-    excerpt: "For the past couple of decades, there has been a loneliness pandemic, marked by rising rates of suicides and opioid use, lost productivity, increased health care costs and rising mortality. The COVID-19 pandemic,"
-    publishedDateTime: 2020-09-24T20:10:00Z
-    webUrl: "https://medicalxpress.com/news/2020-09-artificial-intelligence-tools-loneliness.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 39
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2017/1-loneliness.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
 
 secured: "SJGU0r+7Fd2yG9pmmQbb1/TaR8GoY3/bIZGXMDv277Hr7HJLrrzhWr7P6CEA6nJelwb43Q2c+OyPDQVF5hcUq9pYN8uAR1cI/wJe0w8yPektUmytrbtRpEEsNbmpZqFUlmyYVPHHYz6DdL7TWcGoQpHR3Af8AQ52TpZu2YK9b/khQPefKfEntm14M1eX/4B333xklTThShQRJBGQ2oIHO1qsJRGz8l26GLSr5+7c0MaxrZgSWUEHk7ZUitDuL3y3ekgTjZf/d4xQc+oR8v4XjKeFoSq/hsdmJOUNq8XG3vBQAFGQVuYbSyFJShbtBavj3cxW7Hdo48ipSpHfkRWOI3WUVB4RP+TbBaqxr5Un92KtjnQc1ImUaiC1WBUddpGMnbYlaDYxvCguuATr0SNa68LA9mSZuS9uPo6/hLgI/mqpw0Z3HJ+umASbu06LLkRLyTmz2KmwIBLPaoZf1InTN/LnemSgR8kCvrEqgKI5tEzyNVVc8E0VIQ88v/ib2bWX7VIPbJJy8mi/JBXgK+eIvA==;4rGoi1MiMHgY/F1aLsDkEg=="
 ---

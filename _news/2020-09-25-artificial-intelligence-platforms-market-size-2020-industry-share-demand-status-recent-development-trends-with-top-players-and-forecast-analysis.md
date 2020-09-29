@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Innovation with Artificial Intelligence"
+    excerpt: "The maritime sector keeps talking enthusiastically about Artificial Intelligence (AI). But what is it really? What is the role of technology in the"
+    publishedDateTime: 2020-09-29T13:13:00Z
+    webUrl: "https://www.thedigitalship.com/news/electronics-navigation/item/6824-innovation-with-artificial-intelligence"
+    type: article
+    provider:
+      name: Digital Ship
+      domain: thedigitalship.com
+    quality: 39
+    images:
+      - url: "https://thedigitalship.com/media/k2/items/cache/632c3491b2d391ab015a7b1797d7a51f_L.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Global Artificial Intelligence Market By Business Growth, Trend, Segmentation, Top Key Players, Revenue and Industry Expansion Forecast Report"
     excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
     publishedDateTime: 2020-09-28T14:23:00Z

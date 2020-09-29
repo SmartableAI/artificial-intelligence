@@ -41,22 +41,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Researchers demonstrate how deep learning can advance study of neural degeneration"
-    excerpt: "Researchers from North Carolina State University have demonstrated the utility of artificial intelligence (AI) in identifying and categorizing neural degeneration in the model organism C. elegans. The tool uses deep learning,"
-    publishedDateTime: 2020-09-24T20:14:00Z
-    webUrl: "https://phys.org/news/2020-09-deep-advance-neural-degeneration.html"
-    ampWebUrl: "https://phys.org/news/2020-09-deep-advance-neural-degeneration.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-09-deep-advance-neural-degeneration.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 53
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/232-researchersd.jpg"
-        width: 1440
-        height: 810
-        isCached: true
 
 secured: "SZueVG0LCbAabb6u+PXqaJ9z1422sASvzO6zdqlCudizgwrJW7mkQIo9uoiYslPjUC7nQtVYrxMYGaUmZxqoJdNAibt0SmrFgKgGjNRnyB04kfqifRomMKS2k51NkKPGQHsJm6qUbgiTNfQAqtVbWiQGeroXXjWhkODUnIdMETFB3kTWHgJlWatXU4xybGTCUvRUx5oJreoIpCwolph4e6xkpxic1IufVHgmPMSKt4vmePW2Vk9HBFcC8SwoTE/BL1mmD0JVFrgui0ZtD8TnInBtRGjmOyTccuwiVv1EYOOu0tnMbTElS570RiVNDV/2cJ0mSbWhZqeLBXXvEm4K1dUiQw+TCxkyjP6ybvR2Iuo=;eeFu749TdIhHupwLPzitYw=="
 ---

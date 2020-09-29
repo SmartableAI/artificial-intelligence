@@ -2,6 +2,552 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2020-08-19-meet-your-post-pandemic-coworker-an-ai-bot.md",
+      "title": "Meet Your Post-Pandemic Coworker: An AI Bot",
+      "excerpt": "Ready to swap your old cube-mate for a disembodied AI? IPsoft CEO Chetan Dube, creator of AI co-worker AMELIA, gives his take on the post-COVID office landscape.",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/artificial-intelligence-2/128242/meet-your-post-pandemic-coworker-an-ai-bot",
+      "originalUrl": "https://uk.pcmag.com/artificial-intelligence-2/128242/meet-your-post-pandemic-coworker-an-ai-bot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/m/meet-your-/meet-your-post-pandemic-coworker-an-ai-bot_vxzc.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://uk.pcmag.com/artificial-intelligence-2/128242/meet-your-post-pandemic-coworker-an-ai-bot?amp=1",
+      "cdnAmpWebUrl": "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/artificial-intelligence-2/128242/meet-your-post-pandemic-coworker-an-ai-bot?amp=1",
+      "publishedDateTime": "2020-08-19T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-vroom-vroom-ai-reveals-f1s-fastest-drivers-of-the-past-40-years.md",
+      "title": "Vroom vroom: AI reveals F1’s fastest drivers of the past 40 years",
+      "excerpt": "F1 and AWS have used an algorithm to rank the fastest drivers of all time, but not everyone is convinced by the system's calculations.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/08/19/vroom-vroom-ai-reveals-f1s-fastest-drivers-of-the-past-40-years/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-19T105234.562-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/08/19/vroom-vroom-ai-reveals-f1s-fastest-drivers-of-the-past-40-years/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/19/vroom-vroom-ai-reveals-f1s-fastest-drivers-of-the-past-40-years/amp/",
+      "publishedDateTime": "2020-08-19T04:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-aaeon-and-aotuai-announce-the-release-of-a-smart-vision-ai-developers-kit-on-an-intel-ai-platform-for-iot.md",
+      "title": "AAEON and Aotu.ai Announce the Release of a Smart Vision AI Developers Kit on an Intel AI Platform for IoT",
+      "excerpt": "AAEON and AOTU.AI are excited to announce the launch of the BrainFrame Edge AI Developers Kit (DevKit) on an Intel AI platform for IoT that will allow developers and system integrators to rapidly create and deploy Smart Vision applications.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/aaeon-and-aotu-ai-announce-the-release-of-a-smart-vision-ai-developers-kit-on-an-intel-ai-platform-for-iot-1029516115",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/aaeon-and-aotu-ai-announce-the-release-of-a-smart-vision-ai-developers-kit-on-an-intel-ai-platform-for-iot-1029516115",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/aaeon-and-aotu-ai-announce-the-release-of-a-smart-vision-ai-developers-kit-on-an-intel-ai-platform-for-iot-1029516115",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/aaeon-and-aotu-ai-announce-the-release-of-a-smart-vision-ai-developers-kit-on-an-intel-ai-platform-for-iot-1029516115",
+      "publishedDateTime": "2020-08-19T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-smart-dubais-artificial-intelligence-ethics-advisory-board-convenes-for-its-2nd-meeting-for-2020-explores-next-steps.md",
+      "title": "Smart Dubai's artificial intelligence ethics advisory board convenes for its 2nd meeting for 2020, explores next steps",
+      "excerpt": "The meeting was split into three main portions, presenting options for the future roll-out of tools for better AI, considering the potential of AI Audit Practices, and Cybersecurity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/Smart_Dubais_artificial_intelligence_ethics_advisory_board_convenes_for_its_2nd_meeting_for_2020_explores_next_steps-ZAWYA20200819101836/",
+      "originalUrl": "https://www.zawya.com/mena/en/press-releases/story/Smart_Dubais_artificial_intelligence_ethics_advisory_board_convenes_for_its_2nd_meeting_for_2020_explores_next_steps-ZAWYA20200819101836/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20200819101836/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200819101836/",
+      "publishedDateTime": "2020-08-19T03:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-fintech-just-made-a-big-leap-forward-in-this-tiny-country-heres-why.md",
+      "title": "Fintech just made a big leap forward in this tiny country: Here's why",
+      "excerpt": "But now its fintech industry, especially the digital-payments sector, is also beginning to make its mark. When Microblink, an R&D company based in Zagreb, Croatia, started out in 2013, it had to rely on its founders' finances,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/fintech-just-made-a-big-leap-forward-in-this-tiny-country-heres-why/",
+      "originalUrl": "https://www.zdnet.com/article/fintech-just-made-a-big-leap-forward-in-this-tiny-country-heres-why/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2019/10/25/55775b91-e663-4566-b8d3-471de68b11e7/thumbnail/1200x675/53c53f5d09cf88bbcb76eb0d0ea7e347/fintech-startups-why-bulgaria-is-a-hotbe-5da7266bdc406100013edd0f-1-oct-25-2019-19-26-43-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/fintech-just-made-a-big-leap-forward-in-this-tiny-country-heres-why/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fintech-just-made-a-big-leap-forward-in-this-tiny-country-heres-why/",
+      "publishedDateTime": "2020-08-19T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-machine-learning-in-retail-market.md",
+      "title": "Machine Learning in Retail Market",
+      "excerpt": "Machine Learning in Retail Market 2020 report is a compilation of first hand information qualitative and quantitative assessment by industry analysts inputs from industry experts and industry participants across the value chain The report provides in depth analysis of parent",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2116297/machine-learning-in-retail-market-to-impressive-growth-2025",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/8/T819308741_g.jpg",
+          "width": 562,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2116297/machine-learning-in-retail-market-to-impressive-growth-2025",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2116297/machine-learning-in-retail-market-to-impressive-growth-2025",
+      "publishedDateTime": "2020-08-19T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human.md",
+      "title": "How Ancient Rules of Logic Could Make Artificial Intelligence More Human",
+      "excerpt": "Many attempts to develop artificial intelligence are powered by powerful systems of mathematical logic. They tend to produce results that make logical sense to a computer program — but the result is not very human.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/",
+      "originalUrl": "https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmodo.com.au/content/uploads/sites/2/2020/08/19/aristotle.png",
+          "width": 1051,
+          "height": 597,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/amp/",
+      "publishedDateTime": "2020-08-19T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo Australia",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-facial-recognition-market-what-are-the-main-factors-that-contributing-towards-industry-growth.md",
+      "title": "Facial Recognition market - What Are The Main Factors That Contributing Towards Industry Growth?",
+      "excerpt": "Facial Recognition is a biometric application which captures image of an individual and identify it by applying",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market---what-are-the-main-factors-that-contributing-towards-industry-growth-2020-08-19",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-19T01:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-artificial-intelligence-ai-in-drug-discovery-market.md",
+      "title": "Artificial Intelligence (AI) in Drug Discovery Market",
+      "excerpt": "The large Artificial intelligence (AI) in drug discovery market report contains wide-ranging and comprehensive market insights which are based on business intelligence. A strong research methodology used in this marketing report comprises of data models ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2116269/artificial-intelligence-ai-in-drug-discovery-market-seeking",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/8/T819553587_g.jpg",
+          "width": 800,
+          "height": 460,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2116269/artificial-intelligence-ai-in-drug-discovery-market-seeking",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2116269/artificial-intelligence-ai-in-drug-discovery-market-seeking",
+      "publishedDateTime": "2020-08-19T01:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-inside-drift-meet-carolina-caprile-natural-language-processing-engineer.md",
+      "title": "Inside Drift: Meet Carolina Caprile, Natural Language Processing Engineer",
+      "excerpt": "Carolina Caprile breaks down her work as a natural language processing engineer and talks about what it was like to do stand-up comedy in Argentina.",
+      "sourceUrl": null,
+      "webUrl": "https://www.drift.com/blog/carolina-caprile-nlp-engineer/",
+      "originalUrl": "https://www.drift.com/blog/carolina-caprile-nlp-engineer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mk0drift0ho9g7wbfexi.kinstacdn.com/wp-content/uploads/2020/08/2008-Inside-Drift-Carolina-Caprile-1.jpg",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-19T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Drift",
+        "domain": "drift.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-how-to-leverage-on-artificial-intelligence-to-transform-the-way-entrepreneurs-do-business.md",
+      "title": "How to Leverage on Artificial Intelligence to Transform the Way Entrepreneurs Do Business",
+      "excerpt": "This situation has raised the importance and prominence of technology. As it recovers from human and economic ravages, AI is positioned to play a critical role",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/354973",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1597821086-artificial-intelligence-4715585.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/354973",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/354973",
+      "publishedDateTime": "2020-08-19T00:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-deep-learning-market-2020-2023-growth-emerging-trends-and-forecast.md",
+      "title": "Deep Learning Market 2020-2023: Growth, Emerging Trends, And Forecast",
+      "excerpt": "In enterprise computing, deep learning is evolving into one of the most advanced technologies. Deep learning is a subset",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2020-2023-growth-emerging-trends-and-forecast-2020-08-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2020-2023-growth-emerging-trends-and-forecast-2020-08-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-19T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-19-ai-health-startup-can-get-15-vital-signs-via-your-phone-camera.md",
       "title": "AI Health Startup Can Get 15 Vital Signs Via Your Phone Camera",
       "excerpt": "And having the results funneled to your personal medical AI engine to monitor you for any signs of poor health, ready to notify your physician if anything looks out of the ordinary. Like higher temperature,",
@@ -606,578 +1152,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-new-research-finds-fast-mri-scans-generated-with-artificial-intelligence-were-as-accurate-as-traditional-mri.md",
-      "title": "New Research Finds Fast MRI Scans Generated with Artificial Intelligence Were as Accurate as Traditional MRI",
-      "excerpt": "New research finds that rapid magnetic resonance imaging (MRI) scans generated with artificial intelligence (AI) were just as effective as, and were diagnostically",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/new-research-finds-fast-mri-scans-generated-with-artificial-intelligence-were-as-accurate-as-traditional/article_ef9113c2-3f11-5640-903b-add0a3df4046.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-18T15:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-mit-sloan-implementing-ai-from-exploration-to-execution.md",
-      "title": "MIT Sloan: Implementing AI from Exploration to Execution",
-      "excerpt": "Artificial intelligence is becoming a key component of business transformation ... Many of these enterprises use Amazon Web Services (AWS) as their technology platform for AI initiatives and access NVIDIA GPUs to speed up their machine learning applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/resources/207272/mit-sloan-implementing-ai-from-exploration-to-execution",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-18T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-chinese-ai-giant-blacklisted-by-trump-mints-money-from-virus.md",
-      "title": "Chinese AI Giant Blacklisted By Trump Mints Money From Virus",
-      "excerpt": "The Hong Kong-based startup’s revenue surged 147% to 5 billion yuan ($720 ... to develop its own tech industry and overtake the U.S. in key sectors. Read more: AI Unicorn SenseTime Is Said to Mull Hong Kong, China IPO In the case of facial recognition ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-08-18/chinese-ai-giant-blacklisted-by-trump-mints-money-from-virus",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iclFGm8eeMXk/v0/360x-1.jpg",
-          "width": 360,
-          "height": 239,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-08-18/chinese-ai-giant-blacklisted-by-trump-mints-money-from-virus",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-18/chinese-ai-giant-blacklisted-by-trump-mints-money-from-virus",
-      "publishedDateTime": "2020-08-18T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-5-big-myths-of-ai-and-machine-learning-debunked.md",
-      "title": "5 Big Myths of AI and Machine Learning Debunked",
-      "excerpt": "Artificial intelligence (AI) and machine learning (ML) are already powering tools that can give your business decision making processes a massive upgrade. Here’s what you really need to know.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/resources/207255/5-big-myths-of-ai-and-machine-learning-debunked",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-18T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-amazon-now-offers-third-party-solutions-for-contact-center-ai.md",
-      "title": "Amazon now offers third-party solutions for contact center AI",
-      "excerpt": "Amazon today announced the launch of AWS Contact Center Intelligence (CCI) solutions, a combination of services that enables customers to integrate contact centers with AI through partners in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/18/amazon-now-offers-third-party-solutions-for-contact-center-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/s4.reutersmedia.net_-1.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/18/amazon-now-offers-third-party-solutions-for-contact-center-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/18/amazon-now-offers-third-party-solutions-for-contact-center-ai/amp/",
-      "publishedDateTime": "2020-08-18T12:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri.md",
-      "title": "Researchers at Facebook AI, NYU Langone Push Speed Limits of MRI",
-      "excerpt": "The results of the joint effort, which originated at Facebook, show that accurate MRIs can be produced more quickly as AI functions with less data, researchers said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600",
-      "originalUrl": "https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-221966/social",
-          "width": 960,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600",
-      "publishedDateTime": "2020-08-18T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-hour-one-wants-synthetic-ai-characters-to-be-your-digital-avatars.md",
-      "title": "Hour One wants synthetic AI characters to be your digital avatars",
-      "excerpt": "If you ever wondered how we’ll populate the metaverse, look no further than Hour One, an Israeli startup that is making replicas of people with AI avatars. These avatars can be a near-perfect ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/18/hour-one-wants-synthetic-ai-characters-to-be-your-digital-avatars/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/hour-one-3-1.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 605,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/18/hour-one-wants-synthetic-ai-characters-to-be-your-digital-avatars/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/18/hour-one-wants-synthetic-ai-characters-to-be-your-digital-avatars/amp/",
-      "publishedDateTime": "2020-08-18T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-how-to-diagnose-and-treat-machine-learning-models-afflicted-by-covid-19.md",
-      "title": "How to diagnose and treat machine learning models afflicted by COVID-19",
-      "excerpt": "Its impact has been particularly significant on many machine learning (ML) models that companies use to predict human behavior. Companies need to take steps to deeply examine ML models and acquire ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/18/how-to-diagnose-and-treat-machine-learning-models-afflicted-by-covid-19/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1208505346.jpg?w=724",
-          "width": 724,
-          "height": 483,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/18/how-to-diagnose-and-treat-machine-learning-models-afflicted-by-covid-19/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/18/how-to-diagnose-and-treat-machine-learning-models-afflicted-by-covid-19/amp/",
-      "publishedDateTime": "2020-08-18T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-atscale-expands-reach-of-cloud-olap-with-support-for-microsoft-azure-databricks-in-20203-release.md",
-      "title": "AtScale Expands Reach of Cloud OLAP with Support for Microsoft Azure Databricks in 2020.3 Release",
-      "excerpt": "AtScale, the intelligent data virtualization provider for advanced analytics, today announced an enhanced platform integration with Azure Databricks. The integration extends AtScale’s Cloud Online Analytical Processing (COLAP) to analytics workloads wherever they reside: on-premises,",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200818005298/en/AtScale-Expands-Reach-Cloud-OLAP-Support-Microsoft",
-      "originalUrl": "https://www.businesswire.com/news/home/20200818005298/en/AtScale-Expands-Reach-Cloud-OLAP-Support-Microsoft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200818005298/en/813347/23/AtScale_Logo_2.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-18T10:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-amplofly40-now-available-on-microsoft-appsource-and-azure-marketplace.md",
-      "title": "amplofly4.0 Now Available on Microsoft Appsource and Azure Marketplace",
-      "excerpt": "Amplo Global Inc announced today that its AI-powered platform is now available on the Microsoft AppSource and  Microsoft Azure Marketplace – their online stores providing applications and services for use on Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/c6dc3fe157382b0b0e9f44cf7627faa7",
-      "originalUrl": "https://apnews.com/c6dc3fe157382b0b0e9f44cf7627faa7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-18T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-seattle-startup-vets-raise-13m-for-no-code-workflow-automation-startup-reflective.md",
-      "title": "Seattle startup vets raise $1.3M for no-code workflow automation startup Reflective",
-      "excerpt": "Robotic Process Automation, or RPA, involves systems that use AI to learn and then take over routine and mundane software processes and business workflows from human workers. UiPath is a leading RPA startup and recently raised an additional $225 million.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/seattle-startup-vets-raise-1-3m-no-code-workflow-automation-startup-reflective/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/08/reflective-leads-630x365.png",
-          "width": 630,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/seattle-startup-vets-raise-1-3m-no-code-workflow-automation-startup-reflective/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-startup-vets-raise-1-3m-no-code-workflow-automation-startup-reflective/amp/",
-      "publishedDateTime": "2020-08-18T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-researchers-claim-their-ai-can-hear-if-a-speaker-is-wearing-a-mask.md",
-      "title": "Researchers claim their AI can hear if a speaker is wearing a mask",
-      "excerpt": "Researchers at Duke Kunshan University, Wuhan University, Lenovo, and Sun Yat-sen University in Guangzhou claim to have developed an AI system that detects whether a person is wearing a mask from ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/18/researchers-claim-their-ai-can-hear-if-a-speaker-is-wearing-a-mask/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/elderly-at-home-covid-19.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/18/researchers-claim-their-ai-can-hear-if-a-speaker-is-wearing-a-mask/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/18/researchers-claim-their-ai-can-hear-if-a-speaker-is-wearing-a-mask/amp/",
-      "publishedDateTime": "2020-08-18T09:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

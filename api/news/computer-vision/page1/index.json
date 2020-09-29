@@ -324,6 +324,39 @@
       ]
     },
     {
+      "path": "_news/2020-09-25-nec-face-recognition-engine-provides-highly-accurate-results-even-when-face-masks-are-worn.md",
+      "title": "NEC Face Recognition Engine Provides Highly Accurate Results Even when Face Masks are Worn",
+      "excerpt": "NEC Corporation today announced the strengthening of its face recognition technology, already recognized as the world's most accurate (*1), with the development of a new face recognition engine that provides high-precision certification even when masks are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newswiretoday.com/news/173757/NEC-Face-Recognition-Engine-Provides-Highly-Accurate-Results-Even-when-Face-Masks-are-Worn/",
+      "originalUrl": "https://www.newswiretoday.com/news/173757/NEC-Face-Recognition-Engine-Provides-Highly-Accurate-Results-Even-when-Face-Masks-are-Worn/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-24T13:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newswire Today",
+        "domain": "newswiretoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-dhs-admits-facial-recognition-photos-were-hacked-released-on-dark-web.md",
       "title": "DHS Admits Facial Recognition Photos Were Hacked, Released on Dark Web",
       "excerpt": "Traveler’s faces, license plates, and care information were hacked from a subcontractor called Perceptics and released on the dark web.",
@@ -1382,48 +1415,6 @@
         "AWS AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-how-mcafee-researchers-successfully-bypassed-facial-recognition-verification-technology-with-ai.md",
-      "title": "How McAfee Researchers Successfully Bypassed Facial Recognition Verification Technology with AI",
-      "excerpt": "Facial recognition has become a common technology. It can be found in action every day, as millions of people unlock their personal devices with just a glance and social networks identify users in photos before they are tagged. But the many uses of facial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hstoday.us/subject-matter-areas/airport-aviation-security/how-mcafee-researchers-successfully-bypassed-facial-recognition-verification-technology-with-ai/",
-      "originalUrl": "https://www.hstoday.us/subject-matter-areas/airport-aviation-security/how-mcafee-researchers-successfully-bypassed-facial-recognition-verification-technology-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hstoday.us/wp-content/uploads/2018/12/binary-1536624_1920-480x384.jpg",
-          "width": 480,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-14T16:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Homeland Security Today",
-        "domain": "hstoday.us",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

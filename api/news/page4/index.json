@@ -2,6 +2,571 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-25-ai-machine-learning-breakthrough-is-a-twist-on-brain-replay.md",
+      "title": "AI Machine Learning Breakthrough Is a Twist on Brain Replay",
+      "excerpt": "From a neuroscience perspective, the concept of brain replay is analogous to a streaming service that activates repeat showings from its vast archives of stored pre-recorded content. The brain can replay memories by reactivating the neural activity patterns that represent prior experiences whether asleep or awake.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202009/ai-machine-learning-breakthrough-is-twist-brain-replay",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202009/ai-machine-learning-breakthrough-is-twist-brain-replay",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.psychologytoday.com/sites/default/files/styles/magazine_240x308/public/field_magazine_cover/2020-09.png?itok=8uWeigq4",
+          "width": 384,
+          "height": 504,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202009/ai-machine-learning-breakthrough-is-twist-brain-replay?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202009/ai-machine-learning-breakthrough-is-twist-brain-replay?amp",
+      "publishedDateTime": "2020-09-24T21:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-ai-system-detects-loneliness-in-natural-speech-patterns.md",
+      "title": "AI system detects loneliness in natural speech patterns",
+      "excerpt": "A new proof of concept study, led by researchers at University of California San Diego School of Medicine, has demonstrated how speech-analyzing artificial intelligence tools can effectively predict the level of loneliness in older adults.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/health-wellbeing/ai-loneliness-natural-speech-language/",
+      "originalUrl": "https://newatlas.com/health-wellbeing/ai-loneliness-natural-speech-language/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/78f4ee9/2147483647/strip/true/crop/2000x1333+0+4/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fc1%2F6c%2F6dec48c041d6aa9d714bfb5dfa8a%2Fdepositphotos-59728757-l-2015.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/health-wellbeing/ai-loneliness-natural-speech-language/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/health-wellbeing/ai-loneliness-natural-speech-language/?amp=true",
+      "publishedDateTime": "2020-09-24T19:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.md",
+      "title": "Microsoft Ignite showcases first Project Cortex AI tool for SharePoint",
+      "excerpt": "Civil engineering firm Mott McDonald has been testing SharePoint Syntex, the first product to come out of Microsoft’s Project Cortex proving ground for AI-based content management tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.html",
+      "originalUrl": "https://www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/09/multiple-exposure_profile_with_gears_overlaying_and_representing_the_brain_thought_intelligence_brainstorming_strategy_by_metamorworks_gettyimages-994767724_2400x1600-100858219-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.amp.html",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.amp.html",
+      "publishedDateTime": "2020-09-24T18:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-monash-university-researchers-speed-up-epilepsy-diagnosis-with-machine-learning.md",
+      "title": "Monash University researchers speed up epilepsy diagnosis with machine learning",
+      "excerpt": "A new study by Monash University, together with Alfred Health and The Royal Melbourne Hospital, has uncovered how machine learning technology could be used to automate epilepsy diagnosis. As part of the study,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/monash-university-researchers-speed-up-epilepsy-diagnosis-with-machine-learning/",
+      "originalUrl": "https://www.zdnet.com/article/monash-university-researchers-speed-up-epilepsy-diagnosis-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/monash-university-researchers-speed-up-epilepsy-diagnosis-with-machine-learning/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/monash-university-researchers-speed-up-epilepsy-diagnosis-with-machine-learning/",
+      "publishedDateTime": "2020-09-24T17:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-spectrum-labs-raises-10m-for-its-ai-based-platform-to-combat-online-toxicity.md",
+      "title": "Spectrum Labs raises $10M for its AI-based platform to combat online toxicity",
+      "excerpt": "With the U.S. presidential election now 40 days away, all eyes are focused on how online conversations, in conjunction with other hallmarks of online life like viral videos, news clips and misleading ads,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/24/spectrum-labs-raises-10m-for-its-ai-based-platform-to-combat-online-toxicity/",
+      "originalUrl": "https://techcrunch.com/2020/09/24/spectrum-labs-raises-10m-for-its-ai-based-platform-to-combat-online-toxicity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1050765184.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/24/spectrum-labs-raises-10m-for-its-ai-based-platform-to-combat-online-toxicity/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/24/spectrum-labs-raises-10m-for-its-ai-based-platform-to-combat-online-toxicity/amp/",
+      "publishedDateTime": "2020-09-24T17:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-improved-ocr-and-structured-data-extraction-with-amazon-textract.md",
+      "title": "Improved OCR and structured data extraction with Amazon Textract",
+      "excerpt": "Optical character recognition (OCR) technology, which enables extracting text from an image, has been around since the mid-20th century, and continues to be a research topic today. OCR and document understanding are still vibrant areas of research because they’re both valuable and hard problems to solve.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improved-ocr-and-structured-data-extraction-with-amazon-textract/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improved-ocr-and-structured-data-extraction-with-amazon-textract/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-24T15:52:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-lapd-officers-reportedly-used-facial-recognition-30000-times-in-the-past-decade-contradicting-the-departments-previous-denials.md",
+      "title": "LAPD officers reportedly used facial recognition 30,000 times in the past decade, contradicting the department's previous denials",
+      "excerpt": "Despite frequent denials and refusals to respond to public records requests, the LAPD has been using the controversial technology widely since 2009.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/lapd-used-facial-recognition-tech-30000-times-despite-denials-2020-9",
+      "originalUrl": "https://www.businessinsider.com/lapd-used-facial-recognition-tech-30000-times-despite-denials-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f697d0e57b7da001ee12f99?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/lapd-used-facial-recognition-tech-30000-times-despite-denials-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lapd-used-facial-recognition-tech-30000-times-despite-denials-2020-9?amp",
+      "publishedDateTime": "2020-09-24T15:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-breonna-taylor-case-sparks-amazon-web-services-ceo-to-call-for-police-culture-change.md",
+      "title": "Breonna Taylor case sparks Amazon Web Services CEO to call for police ‘culture change’",
+      "excerpt": "Amazon Web Services CEO Andy Jassy, who has been at the center of the debate over the use of Amazon technology by law enforcement, has weighed in on the culture of policing in the wake of the",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/breonna-taylor-case-sparks-amazon-web-services-ceo-tweet-need-police-culture-change/",
+      "originalUrl": "https://www.geekwire.com/2020/breonna-taylor-case-sparks-amazon-web-services-ceo-tweet-need-police-culture-change/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/12/AJ%402x-630x467.png",
+          "width": 630,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/breonna-taylor-case-sparks-amazon-web-services-ceo-tweet-need-police-culture-change/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/breonna-taylor-case-sparks-amazon-web-services-ceo-tweet-need-police-culture-change/amp/",
+      "publishedDateTime": "2020-09-24T14:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-how-to-lead-plan-and-forecast-revenue-in-wartime-with-ai.md",
+      "title": "How To Lead, Plan And Forecast Revenue In Wartime With AI",
+      "excerpt": "Alyssa Filter, CFO of the sales forecasting platform Clari, a revenue operations platform used by such companies as Zoom, Okta, Lenovo and Adobe, shares advice in an interview on how she is helping lead the company through this crisis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lucianapaulise/2020/09/23/how-to-lead-plan-and-forecast-revenue-in-wartime-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/lucianapaulise/2020/09/23/how-to-lead-plan-and-forecast-revenue-in-wartime-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6b8b35a5b58517abba8d96%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1390%26cropY1%3D342%26cropY2%3D1124",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lucianapaulise/2020/09/23/how-to-lead-plan-and-forecast-revenue-in-wartime-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lucianapaulise/2020/09/23/how-to-lead-plan-and-forecast-revenue-in-wartime-with-ai/amp/",
+      "publishedDateTime": "2020-09-24T14:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-swedens-ericsson-telia-present-self-driving-bus-ahead-of-5g-spectrum-auction.md",
+      "title": "Sweden's Ericsson, Telia present self-driving bus ahead of 5G spectrum auction",
+      "excerpt": "Telecoms gear maker Ericsson and mobile operator Telia on Thursday showcased a self-driving, electric bus in Stockholm as the companies look at new business areas ahead of mass deployment of 5G technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/ericsson-autonomous/swedens-ericsson-telia-present-self-driving-bus-ahead-of-5g-spectrum-auction-idUSL5N2GL30G",
+      "originalUrl": "https://www.reuters.com/article/ericsson-autonomous/swedens-ericsson-telia-present-self-driving-bus-ahead-of-5g-spectrum-auction-idUSL5N2GL30G",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200924&t=2&i=1534799334&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8N1NF",
+          "width": 726,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL5N2GL30G",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL5N2GL30G",
+      "publishedDateTime": "2020-09-24T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-gpt-3s-bigotry-is-exactly-why-devs-shouldnt-use-the-internet-to-train-ai.md",
+      "title": "GPT-3’s bigotry is exactly why devs shouldn’t use the internet to train AI",
+      "excerpt": "Yeah, but your scientists were so preoccupied with whether or not they could, they didn’t stop to think if they should.” – Dr. Ian Malcolm, fictional character, Jurassic Park. It turns out that a $1 billion investment from Microsoft and unfettered access to a supercomputer wasn’t enough to keep OpenAI’s GPT-3 from being just as bigoted as",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/24/gpt-3s-bigotry-is-exactly-why-devs-shouldnt-use-the-internet-to-train-ai/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/24/gpt-3s-bigotry-is-exactly-why-devs-shouldnt-use-the-internet-to-train-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/racistAIfeat-796x403.jpg",
+          "width": 796,
+          "height": 403,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/24/gpt-3s-bigotry-is-exactly-why-devs-shouldnt-use-the-internet-to-train-ai/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/24/gpt-3s-bigotry-is-exactly-why-devs-shouldnt-use-the-internet-to-train-ai/amp/",
+      "publishedDateTime": "2020-09-24T13:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-nec-face-recognition-engine-provides-highly-accurate-results-even-when-face-masks-are-worn.md",
+      "title": "NEC Face Recognition Engine Provides Highly Accurate Results Even when Face Masks are Worn",
+      "excerpt": "NEC Corporation today announced the strengthening of its face recognition technology, already recognized as the world's most accurate (*1), with the development of a new face recognition engine that provides high-precision certification even when masks are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newswiretoday.com/news/173757/NEC-Face-Recognition-Engine-Provides-Highly-Accurate-Results-Even-when-Face-Masks-are-Worn/",
+      "originalUrl": "https://www.newswiretoday.com/news/173757/NEC-Face-Recognition-Engine-Provides-Highly-Accurate-Results-Even-when-Face-Masks-are-Worn/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-24T13:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newswire Today",
+        "domain": "newswiretoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-selecting-the-right-metadata-to-build-high-performing-recommendation-models-with-amazon-personalize.md",
       "title": "Selecting the right metadata to build high-performing recommendation models with Amazon Personalize",
       "excerpt": "In this post, we show you how to select the right metadata for your use case when building a recommendation engine using Amazon Personalize. The aim is to help you optimize your models to generate more user-relevant recommendations. We look at which metadata is most relevant to include for different",
@@ -641,605 +1206,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-rephraseai-raises-15m-to-use-synthetic-media-for-personalized-sales-pitches.md",
-      "title": "Rephrase.ai raises $1.5M to use synthetic media for personalized sales pitches",
-      "excerpt": "Bangalore-based Rephrase.ai has an ambitious vision for reshaping how movies and videos are made. CEO Ashray Malhotra laid it out for me yesterday, saying that his co-founder Nisheeth Lahoti “came up with this concept — he wants to build an engine that can take any script as input and create",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/24/rephrase-ai-seed-funding/",
-      "originalUrl": "https://techcrunch.com/2020/09/24/rephrase-ai-seed-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-24-at-10.05.15-AM.jpg?w=1024",
-          "width": 1024,
-          "height": 577,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/24/rephrase-ai-seed-funding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/24/rephrase-ai-seed-funding/amp/",
-      "publishedDateTime": "2020-09-24T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women.md",
-      "title": "In facial recognition challenge, top-ranking algorithms show bias against Black women",
-      "excerpt": "The results from a recent facial recognition competition demonstrate that even the best algorithms are still prone to gender and racial bias.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/",
-      "originalUrl": "https://venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1199708189-e1600898324155.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/amp/",
-      "publishedDateTime": "2020-09-24T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-fortnite-challenge-how-to-make-a-stark-robot-dance.md",
-      "title": "‘Fortnite’ Challenge: How To Make A Stark Robot Dance",
-      "excerpt": "Fortnite has a new set of challenges that have just gone live this morning, including one very unique one that asks players to make a Stark Robot dance. How do you do this? It’s something I’ve never actually done before this challenge,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/paultassi/2020/09/24/fortnite-challenge-how-to-make-a-stark-robot-dance/",
-      "originalUrl": "https://www.forbes.com/sites/paultassi/2020/09/24/fortnite-challenge-how-to-make-a-stark-robot-dance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6c88d20885bdb2f9c85d00%2F0x0.jpg",
-          "width": 1199,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2020/09/24/fortnite-challenge-how-to-make-a-stark-robot-dance/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2020/09/24/fortnite-challenge-how-to-make-a-stark-robot-dance/amp/",
-      "publishedDateTime": "2020-09-24T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-is-your-business-ready-to-implement-ai.md",
-      "title": "Is Your Business Ready To Implement AI?",
-      "excerpt": "It's almost always worth it to start using AI, regardless of company size or industry, because once your enterprise is ready for AI, it's possible to ramp up the number of automated tasks over time and save more and more in time and costs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/24/is-your-business-ready-to-implement-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/24/is-your-business-ready-to-implement-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f33fae78e26add3d640245e%2F0x0.jpg",
-          "width": 1200,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/24/is-your-business-ready-to-implement-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/24/is-your-business-ready-to-implement-ai/amp/",
-      "publishedDateTime": "2020-09-24T05:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-alice-camera-marries-mft-sensor-ai-smarts-and-smartphone-control.md",
-      "title": "Alice Camera marries MFT sensor, AI smarts and smartphone control",
-      "excerpt": "Sony officially revealed its QX series of lens-style cameras, which mounted a combined optics/camera unit on a user's smartphone. Now a London startup is developing an interchangeable lens camera unit rocking a Micro Four Thirds sensor that's controlled using a",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/photography/alice-camera-photogram/",
-      "originalUrl": "https://newatlas.com/photography/alice-camera-photogram/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/c53de50/2147483647/strip/true/crop/1272x848+4+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F66%2Fe2%2F2f3dadab4253baba6aabe0245f41%2F5eff01337e88380d347d3340-img-6224.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/photography/alice-camera-photogram/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/photography/alice-camera-photogram/?amp=true",
-      "publishedDateTime": "2020-09-24T05:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-adobes-liquid-mode-uses-machine-learning-to-make-pdfs-more-readable-on-mobile-devices.md",
-      "title": "Adobe's Liquid Mode uses machine learning to make PDFs more readable on mobile devices",
-      "excerpt": "Adobe today announced an update for Acrobat Reader that's supposed to solve the perennial problem of PDFs in a mobile-first world -- the poor reading experience",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/86859-adobe-liquid-mode-uses-machine-learning-make-pdfs.html",
-      "originalUrl": "https://www.techspot.com/news/86859-adobe-liquid-mode-uses-machine-learning-make-pdfs.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/09/2020-09-23-image-26.jpg",
-          "width": 2000,
-          "height": 876,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/86859-adobe-liquid-mode-uses-machine-learning-make-pdfs.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/86859-adobe-liquid-mode-uses-machine-learning-make-pdfs.html",
-      "publishedDateTime": "2020-09-24T05:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-how-contextual-machine-learning-targets-human-error-to-prevent-email-based-data-breaches.md",
-      "title": "How Contextual Machine Learning Targets Human Error To Prevent Email-Based Data Breaches",
-      "excerpt": "While email has been critical to the continued operation of many businesses in the current health crisis, it has also presented those businesses with new data security challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/24/how-contextual-machine-learning-targets-human-error-to-prevent-email-based-data-breaches/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/24/how-contextual-machine-learning-targets-human-error-to-prevent-email-based-data-breaches/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6b3d6680f67d156da599fa%2F0x0.jpg",
-          "width": 1199,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/24/how-contextual-machine-learning-targets-human-error-to-prevent-email-based-data-breaches/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/24/how-contextual-machine-learning-targets-human-error-to-prevent-email-based-data-breaches/amp/",
-      "publishedDateTime": "2020-09-24T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-ava-aware-cloud-combines-machine-learning-and-advanced-analytics-for-organisations-of-any-size.md",
-      "title": "Ava Aware Cloud combines machine learning and advanced analytics for organisations of any size",
-      "excerpt": "This video security solution offers the simplicity and flexibility of a cloud platform while providing the same intelligent, proactive security, and AI capabilities of Ava’s on-premises and hybrid solutions ... within the enterprise suggests a need ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.beyond.ai/",
-      "originalUrl": "https://www.sourcesecurity.com/news/ava-aware-cloud-combines-machine-learning-co-1560927467-ga-npr.1600939341.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beyond.ai/wp-content/uploads/2019/06/Energy-Thumbnail.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-24T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-hailing-a-self-driving-taxi-when-blind-learn-how-waymo-answers-that-challenge-at-sight-tech-global.md",
-      "title": "Hailing a self-driving taxi when blind. Learn how Waymo answers that challenge at Sight Tech Global",
-      "excerpt": "Imagine yourself unable to see well enough to drive, and how that would change your life. I witness that scenario every day at home with my wife, who is legally blind, and a very busy person. She reveres Uber and Lyft because they provide her with the still remarkable option to get up and go",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/21/hailing-a-self-driving-taxi-when-blind-learn-how-waymo-answers-that-challenge-at-sight-tech-global/",
-      "originalUrl": "https://techcrunch.com/2020/09/21/hailing-a-self-driving-taxi-when-blind-learn-how-waymo-answers-that-challenge-at-sight-tech-global/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/Waymo-image-.png?w=1024",
-          "width": 1024,
-          "height": 637,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/21/hailing-a-self-driving-taxi-when-blind-learn-how-waymo-answers-that-challenge-at-sight-tech-global/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/21/hailing-a-self-driving-taxi-when-blind-learn-how-waymo-answers-that-challenge-at-sight-tech-global/amp/",
-      "publishedDateTime": "2020-09-24T03:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-where-are-all-the-self-driving-cars-we-were-promised.md",
-      "title": "Where are all the self-driving cars we were promised?",
-      "excerpt": "Join us at TNW2020 where we will discuss the future of autonoous driving and how we can make it safe with industry experts.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/shift/2020/09/24/whats-needed-to-get-safe-self-driving-cars-on-our-roads-autopilot/",
-      "originalUrl": "https://thenextweb.com/shift/2020/09/24/whats-needed-to-get-safe-self-driving-cars-on-our-roads-autopilot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/third-autopilot-tesla-propilot-cruise-self-driving-autonomy-cars-EV-future-mobility-driving-796x448.png",
-          "width": 796,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/shift/2020/09/24/whats-needed-to-get-safe-self-driving-cars-on-our-roads-autopilot/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/09/24/whats-needed-to-get-safe-self-driving-cars-on-our-roads-autopilot/amp/",
-      "publishedDateTime": "2020-09-24T02:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-ripjar-founded-by-gchq-alums-raises-368m-for-ai-that-detects-financial-crime.md",
-      "title": "Ripjar, founded by GCHQ alums, raises $36.8M for AI that detects financial crime",
-      "excerpt": "Financial crime as a wider category of cybercrime continues to be one of the most potent of online threats, covering nefarious actives as diverse as fraud, money laundering and funding terrorism. Today,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/24/ripjar-founded-by-gchq-alums-raises-36-8m-for-ai-that-detects-financial-crime/",
-      "originalUrl": "https://techcrunch.com/2020/09/24/ripjar-founded-by-gchq-alums-raises-36-8m-for-ai-that-detects-financial-crime/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1142858578.jpg?w=1024",
-          "width": 1024,
-          "height": 770,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/24/ripjar-founded-by-gchq-alums-raises-36-8m-for-ai-that-detects-financial-crime/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/24/ripjar-founded-by-gchq-alums-raises-36-8m-for-ai-that-detects-financial-crime/amp/",
-      "publishedDateTime": "2020-09-24T01:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-tomorrow-socratesai-to-host-webinar-giving-your-company-a-single-voice.md",
-      "title": "Tomorrow: Socrates.ai to Host Webinar \"Giving Your Company a Single Voice\"",
-      "excerpt": "During this webinar, Socrates.ai will get to the heart of this problem, explaining how and why companies can speak with a single voice. Attendees will learn how artificial intelligence helps close the information gap to ensure employees get accurate answers to their questions and take away the insights needed to create a frictionless workforce experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/tomorrow-socratesai-to-host-webinar-giving-your-company-a-single-voice-2020-09-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/tomorrow-socratesai-to-host-webinar-giving-your-company-a-single-voice-2020-09-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-24T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

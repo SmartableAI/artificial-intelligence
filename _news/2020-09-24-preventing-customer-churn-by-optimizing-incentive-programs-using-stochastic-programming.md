@@ -45,6 +45,22 @@ related:
         width: 1024
         height: 696
         isCached: true
+  - title: "Using Machine Learning To Reduce Carbon Emissions In The Trucking Industry"
+    excerpt: "By using advanced technology, data science and machine learning, this company says it's making the sharable truckload model work and cutting carbon emissions."
+    publishedDateTime: 2020-09-29T12:04:00Z
+    webUrl: "https://www.forbes.com/sites/jenniferhicks/2020/09/29/using-machine-learning-to-reduce-carbon-emissions-in-the-trucking-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/jenniferhicks/2020/09/29/using-machine-learning-to-reduce-carbon-emissions-in-the-trucking-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2020/09/29/using-machine-learning-to-reduce-carbon-emissions-in-the-trucking-industry/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f721cf81578a9c207144243%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "These weird, unsettling photos show that AI is getting smarter"
     excerpt: "Of all the AI models in the world, OpenAI’s GPT-3 has most captured the public’s imagination. It can spew poems, short stories, and songs with little prompting, and has been demonstrated to fool people into thinking its outputs were written by a human."
     publishedDateTime: 2020-09-25T16:20:00Z

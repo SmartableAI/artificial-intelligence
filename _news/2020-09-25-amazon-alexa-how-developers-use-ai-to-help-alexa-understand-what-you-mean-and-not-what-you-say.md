@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Amazon's Alexa gets a new brain on Echo, becomes smarter via AI and aims for ambience"
-    excerpt: "Amazon's new Echo devices are more like edge computing hardware in enterprises where the AI processing is going local. The upshot is that Alexa will be more ambient in the smart home, but most likely coming to work with you."
-    publishedDateTime: 2020-09-24T20:08:00Z
-    webUrl: "https://www.zdnet.com/article/amazons-alexa-gets-a-new-brain-on-echo-becomes-smarter-via-ai-and-aims-for-ambience/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/amazons-alexa-gets-a-new-brain-on-echo-becomes-smarter-via-ai-and-aims-for-ambience/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazons-alexa-gets-a-new-brain-on-echo-becomes-smarter-via-ai-and-aims-for-ambience/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 80
-    images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/09/24/bc532dc1-2796-40d7-8236-733cc0766223/amzn-az1-neural-edge.png"
-        width: 827
-        height: 497
-        isCached: true
 
 secured: "fDUttJqaCCCbYzZ4DKZQCd03tP/AEpCl4Pxj0NmVAT5JltbudBjGOUzmtNTU+8lZi9YvESYUYwzO58uS4+ReeM7+XvjAKc7P5L+ElT6neNIgDvjecNODKXs7JdTbZv9lUXZnSF5WYxsJy7nGe7MivKI6EVnkc70SiM6g+Q6PmpnbILzr5Np79osVIk39J958wuvitVIWNWv+KFXJKoMJyjZP3L2kahGR805XbJ9WKxu5YMim9xXAuS2TEMVAPuGyb1znfM0EEmYHloIpCadKcIWvo4HmadoZgRI6ElvHjva8XU4r7/xUtwgG9NWUA7tg+vPkyIhRWesIN4hhWCohS50xkHYRhdlzr3mGOsj7ngt/YQajiXHSK4eM9FqkE6rQDVFc3rO9mKMmJvgHkOLRr0oZ9ADsuQiptwhxwDa7kTfi0EX5vjOG/xk7vfyfA2XQ/JGSOuLhPmfKehWsm29hZ7a9vTMMJQVyphdmk8RBjufkUXY9VOs8IQTeDrJ6SgGEsU1MWjH0RRPfFlP3vrbbAQ==;D/b+JH8V2R+BlfceNlSlaA=="
 ---

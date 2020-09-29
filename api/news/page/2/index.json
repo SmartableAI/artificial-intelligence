@@ -2,6 +2,447 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-29-new-army-accelerated-multi-node-attack-enabled-by-ai-at-project-convergence-2020.md",
+      "title": "New Army ‘Accelerated Multi-Node Attack’ enabled by AI at Project Convergence 2020",
+      "excerpt": "Gray Eagle drones were armed with HELLFIRE missiles and GBU-69 glide bombs, 155mm artillery weapons fired rounds 60km (37.3 miles) to destroy SA-22 enemy air defenses and armored ground combat vehicles directly hit multiple T-72 tanks during the Army’s Project Convergence 2020 at Yuma Proving Grounds,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/new-army-accelerated-multi-node-attack-enabled-by-ai-at-project-convergence-2020",
+      "originalUrl": "https://www.foxnews.com/tech/new-army-accelerated-multi-node-attack-enabled-by-ai-at-project-convergence-2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/ArmyERCA.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/new-army-accelerated-multi-node-attack-enabled-by-ai-at-project-convergence-2020.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/new-army-accelerated-multi-node-attack-enabled-by-ai-at-project-convergence-2020.amp",
+      "publishedDateTime": "2020-09-28T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-google-cloud-has-a-big-edge-over-aws-or-azure-and-this-training-can-help-you-master-it.md",
+      "title": "Google Cloud Has a Big Edge Over AWS or Azure — and This Training Can Help You Master It",
+      "excerpt": "This training package usually sells for almost $640, but by getting in on this deal right now, you’ll get all seven courses for less than $5 each, just $29.99.",
+      "sourceUrl": null,
+      "webUrl": "https://www.extremetech.com/deals/315610-google-cloud-has-a-big-edge-over-aws-or-azure-and-this-training-can-help-you-master-it",
+      "originalUrl": "https://www.extremetech.com/deals/315610-google-cloud-has-a-big-edge-over-aws-or-azure-and-this-training-can-help-you-master-it",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.extremetech.com/wp-content/uploads/2020/09/sale_41159_article_image.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-28T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ExtremeTech",
+        "domain": "extremetech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-sd-times-news-digest-ruby-30-preview-1-release-cron-triggers-for-the-cloudflare-workers-and-tensorflow-recommender.md",
+      "title": "SD Times news digest: Ruby 3.0 preview 1 release, Cron Triggers for the Cloudflare Workers, and TensorFlow Recommender",
+      "excerpt": "Ruby 3.0 preview 1 release, Cron Triggers for the Cloudflare Workers serverless compute platform, TensorFlow Recommender released",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/softwaredev/sd-times-news-digest-ruby-3-0-preview-1-release-cron-triggers-for-the-cloudflare-workers-and-tensorflow-recommender/",
+      "originalUrl": "https://sdtimes.com/softwaredev/sd-times-news-digest-ruby-3-0-preview-1-release-cron-triggers-for-the-cloudflare-workers-and-tensorflow-recommender/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2020/09/gems-44532_1280.png",
+          "width": 1199,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-28T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-study-indicates-neither-algorithmic-differences-nor-diverse-data-sets-solve-facial-recognition-bias.md",
+      "title": "Study indicates neither algorithmic differences nor diverse data sets solve facial recognition bias",
+      "excerpt": "Facial recognition models fail to recognize Black, Middle Eastern, and Latino people more often than those with lighter skin. That’s according to a study by researchers at Witchita State ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/28/study-indicates-neither-algorithmic-differences-nor-diverse-data-sets-solve-facial-recognition-bias/",
+      "originalUrl": "https://venturebeat.com/2020/09/28/study-indicates-neither-algorithmic-differences-nor-diverse-data-sets-solve-facial-recognition-bias/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/biometrics-e1601309807874.jpg?w=1200&#038;strip=all",
+          "width": 1198,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/28/study-indicates-neither-algorithmic-differences-nor-diverse-data-sets-solve-facial-recognition-bias/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/28/study-indicates-neither-algorithmic-differences-nor-diverse-data-sets-solve-facial-recognition-bias/amp/",
+      "publishedDateTime": "2020-09-28T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-cogniac-raises-10-million-for-ai-that-spots-visual-changes-for-industrial-and-government-uses.md",
+      "title": "Cogniac raises $10 million for AI that spots visual changes for industrial and government uses",
+      "excerpt": "Cogniac, a startup developing technology for visual task ... per day. Cogniac’s AI platform has customers connect machine vision cameras, security cameras, drones, smartphones, and other sources ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/28/cogniac-raises-10-million-for-ai-that-spots-visual-changes-for-industrial-and-government-uses/",
+      "originalUrl": "https://venturebeat.com/2020/09/28/cogniac-raises-10-million-for-ai-that-spots-visual-changes-for-industrial-and-government-uses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/cogniac-feedback2-c61ea7568402df6e15d7bf52a568b012-e1601052079248.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/28/cogniac-raises-10-million-for-ai-that-spots-visual-changes-for-industrial-and-government-uses/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/28/cogniac-raises-10-million-for-ai-that-spots-visual-changes-for-industrial-and-government-uses/amp/",
+      "publishedDateTime": "2020-09-28T09:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-azure-databricks-previews-parallelized-proton-query-engine.md",
+      "title": "Azure Databricks previews parallelized Proton query engine",
+      "excerpt": "Microsoft has unveiled a preview of a C++-based vectorized query engine for the Azure Databricks cloud analytics and AI service based on Apache Spark. Azure Databricks, which is delivered in partnership with Databricks, introduced the Photon-powered ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3583657/azure-databricks-previews-parallelized-proton-query-engine.html",
+      "originalUrl": "https://www.infoworld.com/article/3583657/azure-databricks-previews-parallelized-proton-query-engine.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/01/spark-on-the-globe-shutterstock_7869750551-100827145-large.jpg",
+          "width": 1200,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3583657/azure-databricks-previews-parallelized-proton-query-engine.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3583657/azure-databricks-previews-parallelized-proton-query-engine.amp.html",
+      "publishedDateTime": "2020-09-28T09:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-mental-health-startup-equoo-will-be-distributed-by-unilever-in-new-global-youth-campaign.md",
+      "title": "Mental health startup eQuoo will be distributed by Unilever in new global youth campaign",
+      "excerpt": "Last December (yes, in the before-times) UK-based mental health startup eQuoo had a round of announcements, becoming the NHS approved mental health game, as well as signing Barmer, the largest insurance company in Germany,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/28/mental-health-startup-equoo-will-be-distributed-by-unilever-in-new-global-youth-campaign/",
+      "originalUrl": "https://techcrunch.com/2020/09/28/mental-health-startup-equoo-will-be-distributed-by-unilever-in-new-global-youth-campaign/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/HandPhone04.jpg?w=661",
+          "width": 661,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/28/mental-health-startup-equoo-will-be-distributed-by-unilever-in-new-global-youth-campaign/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/28/mental-health-startup-equoo-will-be-distributed-by-unilever-in-new-global-youth-campaign/amp/",
+      "publishedDateTime": "2020-09-28T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-facebook-open-sources-rag-an-ai-model-that-retrieves-documents-to-answer-questions.md",
+      "title": "Facebook open-sources RAG, an AI model that retrieves documents to answer questions",
+      "excerpt": "Facebook and AI startup Hugging Face today open-sourced Retrieval Augmented Generation (RAG), a natural language processing model that finds and interprets contextual information to complete a ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/28/facebook-open-sources-rag-an-ai-model-that-retrieves-documents-to-answer-questions/",
+      "originalUrl": "https://venturebeat.com/2020/09/28/facebook-open-sources-rag-an-ai-model-that-retrieves-documents-to-answer-questions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/moderator-e1591354274848.jpeg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/28/facebook-open-sources-rag-an-ai-model-that-retrieves-documents-to-answer-questions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/28/facebook-open-sources-rag-an-ai-model-that-retrieves-documents-to-answer-questions/amp/",
+      "publishedDateTime": "2020-09-28T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-let-ethics-guide-your-use-of-ai.md",
+      "title": "Let Ethics Guide Your Use of AI",
+      "excerpt": "As AI applications quickly advance into large-scale and more diverse use cases, it’s becoming imperative that ethics guide its development, deployment and applications. This is especially important as we increasingly apply AI to use cases that impact individual lives and livelihoods — including healthcare,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/digital-experience/let-ethics-guide-your-use-of-ai/",
+      "originalUrl": "https://www.cmswire.com/digital-experience/let-ethics-guide-your-use-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/acffe6a8e9624a6a95b067e79eb74209.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/digital-experience/let-ethics-guide-your-use-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/let-ethics-guide-your-use-of-ai/amp/",
+      "publishedDateTime": "2020-09-28T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-28-synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020.md",
       "title": "Synopsys to Host Panel on AI for Chip Design at AI Hardware Summit 2020",
       "excerpt": "PRNewswire/ --Synopsys, Inc. (Nasdaq: SNPS) today announced that Arun Venkatachar, VP of AI and Central Engineering, will participate in a panel discussion with participants from Intel and Google at the 2020 AI Hardware Summit on the topic of AI and whether it can revolutionize the way chips are designed today.",
@@ -508,6 +949,57 @@
       ]
     },
     {
+      "path": "_news/2020-09-28-hear-from-postmates-refraction-ai-and-fedex-about-autonomous-delivery-at-tc-sessions-mobility-2020.md",
+      "title": "Hear from Postmates, Refraction AI and FedEx about autonomous delivery at TC Sessions: Mobility 2020",
+      "excerpt": "Small startups and logistics giants alike are working on how to use automated vehicle technology and robotics for delivery. Some have even accelerated their efforts, with mixed results, as the COVID-19 pandemic drove up demand for delivery.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/28/hear-from-postmates-refraction-ai-and-fedex-about-autonomous-delivery-at-tc-sessions-mobility-2020/",
+      "originalUrl": "https://techcrunch.com/2020/09/28/hear-from-postmates-refraction-ai-and-fedex-about-autonomous-delivery-at-tc-sessions-mobility-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/kashani-yeung-Johnson-Roberson.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/28/hear-from-postmates-refraction-ai-and-fedex-about-autonomous-delivery-at-tc-sessions-mobility-2020/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/28/hear-from-postmates-refraction-ai-and-fedex-about-autonomous-delivery-at-tc-sessions-mobility-2020/amp/",
+      "publishedDateTime": "2020-09-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-28-how-can-ai-support-small-businesses-during-the-pandemic.md",
       "title": "How Can AI Support Small Businesses During The Pandemic?",
       "excerpt": "VUCA is a term that seems appropriate for the environment Credit Sesame and many businesses have been facing since the pandemic.",
@@ -682,453 +1174,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-27-ai-is-increasingly-being-designed-to-apologize-but-self-driving-cars-are-not-hip-to-the-idea.md",
-      "title": "AI Is Increasingly Being Designed To Apologize, But Self-Driving Cars Are Not Hip To The Idea",
-      "excerpt": "AI is increasingly offering apologies, but does this make sense. getty. They say that love means never having to say that you are sorry. When does it make sense though to proffer",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingly-being-designed-to-apologize-but-self-driving-cars-are-not-hip-to-the-idea/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingly-being-designed-to-apologize-but-self-driving-cars-are-not-hip-to-the-idea/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a971bf92664bddd8e6ca2%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingly-being-designed-to-apologize-but-self-driving-cars-are-not-hip-to-the-idea/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingly-being-designed-to-apologize-but-self-driving-cars-are-not-hip-to-the-idea/amp/",
-      "publishedDateTime": "2020-09-27T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-09-27-us-uk-announce-ai-partnership-axios.md",
-      "title": "U.S., UK announce AI partnership: Axios",
-      "excerpt": "The Trump administration is set to announce that the United States and the United Kingdom have signed a new agreement to cooperate on research and development on artificial intelligence, Axios reported  on Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/us-uk-announce-ai-partnership-axios-2020-9",
-      "originalUrl": "https://www.businessinsider.com/us-uk-announce-ai-partnership-axios-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/us-uk-announce-ai-partnership-axios-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-uk-announce-ai-partnership-axios-2020-9?amp",
-      "publishedDateTime": "2020-09-27T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-27-5-microsoft-teams-upgrades-that-take-it-deeper-into-the-workplace.md",
-      "title": "5 Microsoft Teams Upgrades That Take It Deeper Into the Workplace",
-      "excerpt": "With Redmond, Wash.-based Microsoft’s reach in the digital workplace as far as it is it is now, its annual Ignite conference is always a high point in the digital workplace calendar in terms of new releases and developments.",
-      "sourceUrl": null,
-      "webUrl": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/5-new-ways-to-boost-productivity-with-enhanced-teams-power/ba-p/1680697",
-      "originalUrl": "https://www.cmswire.com/collaboration-productivity/5-microsoft-teams-upgrades-that-takes-it-deeper-into-the-workplace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 269,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcommunity.microsoft.com/t5/image/serverpage/image-id/220823i97F191E801AC4FFC?v=1.0",
-          "width": 1597,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-27T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-27-can-tesla-really-produce-a-25000-self-driving-electric-car.md",
-      "title": "Can Tesla Really Produce A $25,000 Self-Driving Electric Car?",
-      "excerpt": "During Tuesday’s much-hyped battery day, Tesla CEO Elon Musk laid out plans to put everyone behind the wheel (or is that sleeping in the",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692",
-      "publishedDateTime": "2020-09-26T15:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-27-singapore-to-become-first-to-use-facial-recognition-in-national-identity-scheme.md",
-      "title": "Singapore to become first to use facial recognition in national identity scheme",
-      "excerpt": "Singapore will be the first country in the world to use facial recognition as part of its national identity scheme. This new technology will",
-      "sourceUrl": null,
-      "webUrl": "https://www.buzz.ie/news/singapore-facial-recognition-in-national-identity-scheme-390534",
-      "originalUrl": "https://www.buzz.ie/news/singapore-facial-recognition-in-national-identity-scheme-390534",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.resized.co/buzz_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLmJ1enouaWVcXFwvdXBsb2Fkc1xcXC8yMDIwXFxcLzA5XFxcLzI2MTkyMjM2XFxcL1BBLTU1Mzg0OTQ2LTEwMjR4NjgzLmpwZ1wiLFwid2lkdGhcIjo2NDcsXCJoZWlnaHRcIjozNDAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5idXp6LmllXFxcL2lcXFwvbm8taW1hZ2UucG5nXCJ9IiwiaGFzaCI6IjI3NjRmYThhZjlhNWIyOWM5MGI5ZDc1ZmQyYTc4NzY5ZTIxN2I1YjIifQ==/pa-55384946-1024x683.jpg",
-          "width": 647,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.buzz.ie/amp/news/singapore-facial-recognition-in-national-identity-scheme-390534",
-      "cdnAmpWebUrl": "https://www-buzz-ie.cdn.ampproject.org/c/s/www.buzz.ie/amp/news/singapore-facial-recognition-in-national-identity-scheme-390534",
-      "publishedDateTime": "2020-09-26T11:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "buzz.ie",
-        "domain": "buzz.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-27-the-last-of-us-part-ii-voice-actor-breaks-new-ground-with-twitchs-artificial.md",
-      "title": "The Last of Us Part II voice actor breaks new ground with Twitch’s Artificial",
-      "excerpt": "It’s a remotely produced sci-fi series that deals with the boundaries of humanity and artificial intelligence ... probably going to happen someday. A robot is going to kill someone, and who ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/26/the-last-of-us-part-ii-voice-actor-breaks-new-ground-with-twitchs-artificial/",
-      "originalUrl": "https://venturebeat.com/2020/09/26/the-last-of-us-part-ii-voice-actor-breaks-new-ground-with-twitchs-artificial/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/06/The-Last-of-Us-2-E3-2018-02.jpg?w=1200&#038;strip=all",
-          "width": 1157,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/26/the-last-of-us-part-ii-voice-actor-breaks-new-ground-with-twitchs-artificial/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/26/the-last-of-us-part-ii-voice-actor-breaks-new-ground-with-twitchs-artificial/amp/",
-      "publishedDateTime": "2020-09-26T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-madurai-police-launches-facial-recognition-app-to-reduce-crime-rate.md",
-      "title": "Madurai Police Launches Facial Recognition App To Reduce Crime Rate",
-      "excerpt": "To reduce robberies and other crimes, the Madurai city police has introduced the FACETAGR app, a technology-enabled web-based processor, which matches the facial features of a suspect with the data stored in a database.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/tamil-nadu-news/madurai-police-launches-facial-recognition-app-facetagr-to-reduce-crime-rate-2301538",
-      "originalUrl": "https://www.ndtv.com/tamil-nadu-news/madurai-police-launches-facial-recognition-app-facetagr-to-reduce-crime-rate-2301538",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2019-05/ituc17b_cctv-generic_625x300_29_May_19.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/tamil-nadu-news/madurai-police-launches-facial-recognition-app-facetagr-to-reduce-crime-rate-2301538?amp=1&akamai-rum=off",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/tamil-nadu-news/madurai-police-launches-facial-recognition-app-facetagr-to-reduce-crime-rate-2301538?amp=1&akamai-rum=off",
-      "publishedDateTime": "2020-09-26T09:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-iiit-sri-city-adds-mtech-programme-in-ai-machine-learning.md",
-      "title": "IIIT Sri City adds MTech Programme in AI & Machine Learning",
-      "excerpt": "IBM inaugurated the new MTech Programme in AI & ML at IIIT Sri City. She congratulated IIIT Sri City for pioneering the effort to produce",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/news/education/iiit-sri-city-adds-mtech-programme-in-ai-machine-learning/article32702623.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/news/education/iiit-sri-city-adds-mtech-programme-in-ai-machine-learning/article32702623.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/news/national/ukl1r2/article32452998.ece/ALTERNATES/LANDSCAPE_615/bl28-machine-learning",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/news/education/iiit-sri-city-adds-mtech-programme-in-ai-machine-learning/article32702623.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/education/iiit-sri-city-adds-mtech-programme-in-ai-machine-learning/article32702623.ece/amp/",
-      "publishedDateTime": "2020-09-26T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-study-mri-with-machine-learning-reveals-brain-changes-from-ptsd.md",
-      "title": "Study: MRI with machine learning reveals brain changes from PTSD",
-      "excerpt": "A new machine learning approach added to conventional magnetic resonance imaging can identify the regions of the brain causing dissociative symptoms in people with post-traumatic stress disorder, researchers found.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Health_News/2020/09/25/Study-MRI-with-machine-learning-reveals-brain-changes-from-PTSD/2911601057266/",
-      "originalUrl": "https://www.upi.com/Health_News/2020/09/25/Study-MRI-with-machine-learning-reveals-brain-changes-from-PTSD/2911601057266/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/i/2911601057266/2020/1/16010604892035/v1.5/Study-MRI-with-machine-learning-reveals-brain-changes-from-PTSD.jpg",
-          "width": 544,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Health_News/2020/09/25/Study-MRI-with-machine-learning-reveals-brain-changes-from-PTSD/2911601057266/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2020/09/25/Study-MRI-with-machine-learning-reveals-brain-changes-from-PTSD/2911601057266/",
-      "publishedDateTime": "2020-09-25T22:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-perspecta-labs-to-conduct-critical-research-for-machine-learning-and-artificial-intelligence-security.md",
-      "title": "Perspecta Labs to conduct critical research for machine learning and artificial intelligence security",
-      "excerpt": "PRNewswire/ -- Perspecta Inc. (NYSE: PRSP), announced today that its innovative applied research arm, Perspecta Labs, received an award from the Intelligence Advanced Research Projects Activity (IARPA) to provide research on the Trojans in Artificial Intelligence (TrojAI) program.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/perspecta-labs-to-conduct-critical-research-for-machine-learning-and-artificial-intelligence-security-2020-09-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/perspecta-labs-to-conduct-critical-research-for-machine-learning-and-artificial-intelligence-security-2020-09-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-25T21:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

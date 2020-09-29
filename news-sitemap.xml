@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://venturebeat.com/2020/09/29/applying-machine-learning-to-keep-employees-safe-and-save-lives/</loc>
+    <lastmod>2020-09-29T06:54:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nextplatform.com/2020/09/29/another-strange-shift-for-the-ai-chip-startup-segment/</loc>
+    <lastmod>2020-09-29T06:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.scmp.com/news/china/science/article/3103543/artificial-intelligence-expert-zhu-songchun-return-china-us</loc>
+    <lastmod>2020-09-29T06:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.prnewswire.com/il/news-releases/cybermdx-healthcare-security-solution-is-now-available-in-aws-marketplace-301139706.html</loc>
+    <lastmod>2020-09-29T06:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://techcrunch.com/2020/09/29/irobot-cofounder-helen-greiner-named-ceo-of-robotic-gardening-startup-tertill/</loc>
+    <lastmod>2020-09-29T05:35:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.usnews.com/news/technology/articles/2020-09-29/vmware-nvidia-partner-to-make-ai-chips-easier-for-businesses-to-use</loc>
+    <lastmod>2020-09-29T05:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://thenextweb.com/neural/2020/09/29/the-promise-of-voice-ai-lies-at-work-not-at-home/</loc>
+    <lastmod>2020-09-29T05:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.entrepreneur.com/article/356864</loc>
     <lastmod>2020-09-29T04:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -19,6 +61,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://inside-com.breezy.hr/</loc>
+    <lastmod>2020-09-29T03:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.thesundaily.my/home/covid-19-nec-to-install-thermal-facial-recognition-scanners-at-airports-XB4322246</loc>
     <lastmod>2020-09-29T00:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -27,6 +75,12 @@
   <url>
     <loc>https://analyticsindiamag.com/latest-ai-chips-accelerators-2021/</loc>
     <lastmod>2020-09-28T23:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://inside.com/premium?campaign_id=23010&amp;list_id=64&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
+    <lastmod>2020-09-28T23:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -217,6 +271,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://techcrunch.com/2020/09/28/hear-from-postmates-refraction-ai-and-fedex-about-autonomous-delivery-at-tc-sessions-mobility-2020/</loc>
+    <lastmod>2020-09-27T17:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/quora/2020/09/27/how-can-ai-support-small-businesses-during-the-pandemic/</loc>
     <lastmod>2020-09-27T16:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -285,6 +345,12 @@
   <url>
     <loc>https://www.thehindubusinessline.com/news/education/iiit-sri-city-adds-mtech-programme-in-ai-machine-learning/article32702623.ece</loc>
     <lastmod>2020-09-26T04:15:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://ajp.psychiatryonline.org/action/cookieAbsent</loc>
+    <lastmod>2020-09-26T00:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -385,14 +451,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://newatlas.com/health-wellbeing/ai-loneliness-natural-speech-language/</loc>
-    <lastmod>2020-09-24T19:02:00-07:00</lastmod>
+    <loc>https://www.psychologytoday.com/us/blog/the-future-brain/202009/ai-machine-learning-breakthrough-is-twist-brain-replay</loc>
+    <lastmod>2020-09-24T21:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.news-medical.net/news/20200924/Researchers-demonstrate-the-utility-of-AI-in-identifying-neural-degeneration.aspx</loc>
-    <lastmod>2020-09-24T18:54:00-07:00</lastmod>
+    <loc>https://newatlas.com/health-wellbeing/ai-loneliness-natural-speech-language/</loc>
+    <lastmod>2020-09-24T19:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -447,6 +513,12 @@
   <url>
     <loc>https://thenextweb.com/neural/2020/09/24/gpt-3s-bigotry-is-exactly-why-devs-shouldnt-use-the-internet-to-train-ai/</loc>
     <lastmod>2020-09-24T13:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.newswiretoday.com/news/173757/NEC-Face-Recognition-Engine-Provides-Highly-Accurate-Results-Even-when-Face-Masks-are-Worn/</loc>
+    <lastmod>2020-09-24T13:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1453,8 +1525,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.bignewsnetwork.com/news/266433753/artificial-intelligence-and-machine-learning-market-may-see-a-big-move--aibrain-amazon-anki-cloudminds-deepmind</loc>
-    <lastmod>2020-09-18T02:50:00-07:00</lastmod>
+    <loc>https://ipsnews.net/business/2020/09/18/artificial-intelligence-and-machine-learning-market-may-see-a-big-move-aibrain-amazon-anki-cloudminds-deepmind/</loc>
+    <lastmod>2020-09-18T02:49:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2713,8 +2785,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/index.php/category/10250/4/index.php/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/</loc>
-    <lastmod>2020-09-11T14:19:00-07:00</lastmod>
+    <loc>https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/</loc>
+    <lastmod>2020-09-11T14:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

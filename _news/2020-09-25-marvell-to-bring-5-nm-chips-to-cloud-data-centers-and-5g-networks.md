@@ -24,6 +24,17 @@ images:
     height: 821
     isCached: true
 
+related:
+  - title: "Marvell Enabling the Next Generation of Data Center and Automotive AI Accelerator ASICs"
+    excerpt: "SANTA CLARA, Calif., Sept. 29, 2020 /PRNewswire/ -- Marvell (NASDAQ: MRVL) today announced that the company's custom application-specific integrated circuits (ASICs) offering is well-positioned to ena"
+    publishedDateTime: 2020-09-29T13:33:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/marvell-enabling-the-next-generation-of-data-center-and-automotive-ai-accelerator-asics/article_ffa6cede-a72a-5c36-89ac-609dec416d04.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 11
+
 secured: "R7oSmLKYccz+WZgZrKMjr1wYAqroJIIhe7xFeNsO9HvfpYRcdYe4CykdGu1sygGuOdhBDzR4ookMdOrASWpLpo6l/n1+FNYXoAlFwJEc6TQQWHYLeRFvB6P6gNIMn+yc+Xuw/R/08bOKaz0XJGAJZRN1zeR4+SmNR94qoqNNN60YaZpM/wdyML9vb+7wnuxcZziQfiK2/dEkvW5KwJeuErxCMaqHqkmr9DrebxE3i40wPGT3f/cZoDa935qekjQnsCQmMdA/v9/sRjGdTgW1Maghx812czbl9Qgux+7mcnzmY01sgF3TewABcL702XGUoJIJ7oFuX7FlrQKVwSp/xv/AXua2gRuq+kDYXzHckxw=;Mss+GUlyMsZYvVcGVND0BQ=="
 ---
 

@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI’s Latest Breakthrough Will Transform Learning—Here Are 5 Ways"
-    excerpt: "In this post, I examine the potential of GPT-3, the AI program by OpenAI. It started out as a language model to predict the next word in a sentence and has vastly exceeded that capability."
-    publishedDateTime: 2020-09-24T19:04:00Z
-    webUrl: "https://www.forbes.com/sites/ulrikjuulchristensen/2020/09/24/ais-latest-breakthrough-will-transform-learning-here-are-5-ways/"
-    ampWebUrl: "https://www.forbes.com/sites/ulrikjuulchristensen/2020/09/24/ais-latest-breakthrough-will-transform-learning-here-are-5-ways/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ulrikjuulchristensen/2020/09/24/ais-latest-breakthrough-will-transform-learning-here-are-5-ways/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6cec69c5d877773123e979%2F0x0.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI Machine Learning Breakthrough Is a Twist on Brain Replay"
     excerpt: "From a neuroscience perspective, the concept of brain replay is analogous to a streaming service that activates repeat showings from its vast archives of stored pre-recorded content. The brain can replay memories by reactivating the neural activity patterns that represent prior experiences whether asleep or awake."
     publishedDateTime: 2020-09-25T04:56:00Z

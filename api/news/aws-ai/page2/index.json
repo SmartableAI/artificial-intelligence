@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-14-using-the-amazon-sagemaker-studio-image-build-cli-to-build-container-images-from-your-studio-notebooks.md",
+      "title": "Using the Amazon SageMaker Studio Image Build CLI to build container images from your Studio notebooks",
+      "excerpt": "The new Amazon SageMaker Studio Image Build convenience package allows data scientists and developers to easily build custom container images from your Studio notebooks via a new CLI. The new CLI eliminates the need to manually set up and connect to Docker build environments for building container images",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-the-amazon-sagemaker-studio-image-build-cli-to-build-container-images-from-your-studio-notebooks/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-the-amazon-sagemaker-studio-image-build-cli-to-build-container-images-from-your-studio-notebooks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/11/1-Flowchart.jpg",
+          "width": 900,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-14T13:44:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-how-amazon-is-using-machine-learning-to-eliminate-915000-tons-of-packaging.md",
+      "title": "How Amazon is using machine learning to eliminate 915,000 tons of packaging",
+      "excerpt": "ML has reduced Amazon's use of boxes from 69% to 42%, eliminating 915,000 tons of packaging material, and reducing carbon emissions significantly.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/14/how-amazon-is-using-machine-learning-to-eliminate-915000-tons-of-packaging/",
+      "originalUrl": "https://venturebeat.com/2020/09/14/how-amazon-is-using-machine-learning-to-eliminate-915000-tons-of-packaging/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/Amazon-RPM-Counter.jpg?w=300&resize=323%2C215&strip=all",
+          "width": 323,
+          "height": 215,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/14/how-amazon-is-using-machine-learning-to-eliminate-915000-tons-of-packaging/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/14/how-amazon-is-using-machine-learning-to-eliminate-915000-tons-of-packaging/amp/",
+      "publishedDateTime": "2020-09-14T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-ai-eye-aws-nasdaqgs-amzn-and-nfl-debuting-six-new-insights-through-next-gen-stats-platform.md",
       "title": "AI Eye: AWS (NasdaqGS: $AMZN) And NFL Debuting Six New Insights Through Next Gen Stats Platform",
       "excerpt": "AIEye Episode 428: AWS (NasdaqGS: $AMZN) and #NFL Debuting Six New Insights Through Next Gen Stats Platform, Schlumberger (NYSE: $SLB) Collaborating with IBM (NYSE: $IBM) and Red Hat on Oil & Gas Digital Transformation AI in Cybersecurity Market to Reach $101.",
@@ -148,19 +251,28 @@
     {
       "path": "_news/2020-09-12-recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus.md",
       "title": "Recipe for selling software in a pandemic: Be essential, add some machine learning, and focus, focus, focus",
-      "excerpt": "A bit of machine learning, some essential functions for finance departments, and a focus on vertical industries has allowed small software vendor Prophix to thrive even as tools such as Slack get dumped.",
+      "excerpt": "Instead of trading spreadsheets around, and manually annotating them, the company's Virtual Financial Analyst uses tools from Amazon's SageMaker environment to automatically reveal the anomalies ...",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/",
+      "webUrl": "https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/",
+      "originalUrl": "https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/09/11/6f1f4fd2-402e-4c0d-83b1-208ef209c7e2/alok-ajmera-zoom-call-sep-10th-2020.png",
+          "width": 2045,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/",
-      "publishedDateTime": "2020-09-11T14:19:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/",
+      "publishedDateTime": "2020-09-11T14:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -1323,99 +1435,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-indeed-selects-aws-as-its-preferred-cloud-to-drive-efficiencies-across-its-global-operations.md",
-      "title": "Indeed Selects AWS as Its Preferred Cloud to Drive Efficiencies across its Global Operations",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced that Indeed, the world’s leading job site, has selected AWS as",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200901005230/en/Selects-AWS-Preferred-Cloud-Drive-Efficiencies-Global",
-      "originalUrl": "https://www.businesswire.com/news/home/20200901005230/en/Selects-AWS-Preferred-Cloud-Drive-Efficiencies-Global",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200901005230/en/817187/23/AWS_logo_RGB.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-01T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-announcing-the-aws-deepcomposer-chartbusters-challenge-the-sounds-of-science.md",
-      "title": "Announcing the AWS DeepComposer Chartbusters challenge, The Sounds of Science",
-      "excerpt": "We’re excited to announce the next AWS DeepComposer Chartbusters challenge, in which developers interactively collaborate with AI using the new edit melody feature launching today! Chartbusters is a monthly challenge where you can use AWS DeepComposer to create original compositions on the console using",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-deepcomposer-chartbusters-challenge-the-sounds-of-science/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-deepcomposer-chartbusters-challenge-the-sounds-of-science/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/01/sound-of-science-03.jpg",
-          "width": 800,
-          "height": 473,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-01T09:59:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

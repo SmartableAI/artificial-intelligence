@@ -2,6 +2,588 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-09-23-hawaii-gives-self-driving-car-testing-the-green-light.md",
+      "title": "Hawaii gives self-driving car testing the green light",
+      "excerpt": "Hawaii's legislation will require a human driver behind the wheel, but automakers will likely appreciate not having to worry about crossing state borders there.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/hawaii-self-driving-car-testing/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/hawaii-self-driving-car-testing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/hawaii-self-driving-car-testing/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/hawaii-self-driving-car-testing/",
+      "publishedDateTime": "2020-09-23T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-how-ai-could-feed-the-worlds-hungry-while-sustaining-the-planet.md",
+      "title": "How AI Could Feed The World’s Hungry While Sustaining The Planet",
+      "excerpt": "Technological advancements tend to outpace cultural shifts. It has taken the shock of a global pandemic to accelerate the uptake of many technologies that have been around for at least a decade.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/worldeconomicforum/2020/09/23/how-ai-could-feed-the-worlds-hungry-while-sustaining-the-planet/",
+      "originalUrl": "https://www.forbes.com/sites/worldeconomicforum/2020/09/23/how-ai-could-feed-the-worlds-hungry-while-sustaining-the-planet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6b5b85cc29f979e9a599fa%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/worldeconomicforum/2020/09/23/how-ai-could-feed-the-worlds-hungry-while-sustaining-the-planet/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/worldeconomicforum/2020/09/23/how-ai-could-feed-the-worlds-hungry-while-sustaining-the-planet/amp/",
+      "publishedDateTime": "2020-09-23T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-mastercards-vp-of-ai-talks-bots-nlp-and-why-fintechs-need-ai-for-customer-service-vb-live.md",
+      "title": "Mastercard’s VP of AI talks bots, NLP, and why fintechs need AI for customer service (VB Live)",
+      "excerpt": "Join this VB Live event for insights on why AI is essential for fintech companies, plus how to implement it, how to make it perfom, and more. Register here for free. AI has been around for a long ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/23/mastercards-vp-of-ai-talks-bots-nlp-and-why-fintechs-need-ai-for-customer-service-vb-live/",
+      "originalUrl": "https://venturebeat.com/2020/09/23/mastercards-vp-of-ai-talks-bots-nlp-and-why-fintechs-need-ai-for-customer-service-vb-live/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/mastercard-in-control-mineraltree.jpg?w=1200&#038;strip=all",
+          "width": 993,
+          "height": 565,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/23/mastercards-vp-of-ai-talks-bots-nlp-and-why-fintechs-need-ai-for-customer-service-vb-live/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/23/mastercards-vp-of-ai-talks-bots-nlp-and-why-fintechs-need-ai-for-customer-service-vb-live/amp/",
+      "publishedDateTime": "2020-09-23T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-correcting-and-replacing-ses-becomes-microsoft-azure-orbital-founding-connectivity-partner.md",
+      "title": "CORRECTING and REPLACING SES Becomes Microsoft Azure Orbital Founding Connectivity Partner",
+      "excerpt": "... will enable our partners’ customers to on-ramp their data into Azure where it can immediately be processed with market-leading data analytics, geospatial tools and machine learning services, adding another layer of automation and intelligence in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.oaoa.com/news/business/correcting-and-replacing-ses-becomes-microsoft-azure-orbital-founding-connectivity-partner/article_8f24ab84-719f-5f89-a3c2-2c3a47db75e1.html",
+      "originalUrl": "https://www.oaoa.com/news/business/correcting-and-replacing-ses-becomes-microsoft-azure-orbital-founding-connectivity-partner/article_8f24ab84-719f-5f89-a3c2-2c3a47db75e1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/1/fb/1fb9030e-273f-58c2-9811-53fe40ee5814/5f6b51f2be146.image.jpg?resize=975%2C630",
+          "width": 975,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-23T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Odessa American",
+        "domain": "oaoa.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-teslas-full-self-driving-autopilot-beta-coming-in-a-month-or-so.md",
+      "title": "Tesla's full self-driving Autopilot beta coming in 'a month or so'",
+      "excerpt": "Tesla's CEO shared that its engineers have fully overhauled the Autopilot software stack and are almost ready to share a dramatic upgrade.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-autopilot-elon-musk/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-autopilot-elon-musk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/-NA7wJ9AEujzfzMLTzIUGTJDz3E=/2018/06/11/5aae38ba-915f-4b34-ba36-58cf2671f07c/tesla-hw2-autopilot-ogi.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-full-self-driving-autopilot-elon-musk/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-autopilot-elon-musk/",
+      "publishedDateTime": "2020-09-23T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-whylabs-raises-4-million-to-grow-ai-and-data-monitoring-platform.md",
+      "title": "WhyLabs raises $4 million to grow AI and data monitoring platform",
+      "excerpt": "Based in Seattle, WhyLabs uses an open source library to tracks AI models and datasets and notify data scientists if problems arise.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/23/whylabs-raises-4-million-to-grow-ai-and-data-monitoring-platform/",
+      "originalUrl": "https://venturebeat.com/2020/09/23/whylabs-raises-4-million-to-grow-ai-and-data-monitoring-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/WhyLabs-Zoom-Team-e1600868899982.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 527,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/23/whylabs-raises-4-million-to-grow-ai-and-data-monitoring-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/23/whylabs-raises-4-million-to-grow-ai-and-data-monitoring-platform/amp/",
+      "publishedDateTime": "2020-09-23T07:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-this-startup-has-raised-nearly-100-million-to-make-good-on-the-promise-of-ai-for-drug-discovery.md",
+      "title": "This Startup Has Raised Nearly $100 Million To Make Good On The Promise Of AI For Drug Discovery",
+      "excerpt": "Flagship Pioneering’s David Berry founded Valo Health 18 months ago with an eye to making an AI platform to develop drugs more quickly and efficiently.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alexknapp/2020/09/23/this-startup-has-raised-nearly-100-million-to-make-good-on-the-promise-of-ai-for-drug-discovery/",
+      "originalUrl": "https://www.forbes.com/sites/alexknapp/2020/09/23/this-startup-has-raised-nearly-100-million-to-make-good-on-the-promise-of-ai-for-drug-discovery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a65baf6e34f6e4c4ea8ef%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D600%26cropY1%3D99%26cropY2%3D436",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alexknapp/2020/09/23/this-startup-has-raised-nearly-100-million-to-make-good-on-the-promise-of-ai-for-drug-discovery/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexknapp/2020/09/23/this-startup-has-raised-nearly-100-million-to-make-good-on-the-promise-of-ai-for-drug-discovery/amp/",
+      "publishedDateTime": "2020-09-23T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-intel-details-chips-designed-for-iot-and-edge-workloads.md",
+      "title": "Intel details chips designed for IoT and edge workloads",
+      "excerpt": "Intel is targeting the IoT and edge computing market with new processor products, including the Atom x6000E Series, Pentium, Celeron N, and J Series.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/23/intel-details-chips-designed-for-iot-and-edge-workloads/",
+      "originalUrl": "https://venturebeat.com/2020/09/23/intel-details-chips-designed-for-iot-and-edge-workloads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/intel-raja.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 642,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/23/intel-details-chips-designed-for-iot-and-edge-workloads/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/23/intel-details-chips-designed-for-iot-and-edge-workloads/amp/",
+      "publishedDateTime": "2020-09-23T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-adobes-liquid-mode-uses-ai-to-automatically-redesign-pdfs-for-mobile-devices.md",
+      "title": "Adobe’s ‘Liquid Mode’ uses AI to automatically redesign PDFs for mobile devices",
+      "excerpt": "We’ve probably all been there: you’ve been poking around your phone for an hour, deep in some sort of Google research rabbit hole. You finally find a link that almost certainly has the info you’ve been looking for.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/23/adobes-liquid-mode-uses-ai-to-automatically-redesign-pdfs-for-mobile-devices/",
+      "originalUrl": "https://techcrunch.com/2020/09/23/adobes-liquid-mode-uses-ai-to-automatically-redesign-pdfs-for-mobile-devices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/liquid-mode.jpg?w=680",
+          "width": 680,
+          "height": 352,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/23/adobes-liquid-mode-uses-ai-to-automatically-redesign-pdfs-for-mobile-devices/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/23/adobes-liquid-mode-uses-ai-to-automatically-redesign-pdfs-for-mobile-devices/amp/",
+      "publishedDateTime": "2020-09-23T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-adobe-peps-up-pdf-on-smartphones-with-ai-powered-liquid-reformatting.md",
+      "title": "Adobe peps up PDF on smartphones with AI-powered Liquid reformatting",
+      "excerpt": "Adobe's PDF technology can't match quantum computing's revolutionary potential. But a lot more of the digital world revolves around the lowly Portable Document Format than the newfangled machines, which is why you should take note that Adobe is modernizing it for the smartphone era.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/adobe-peps-up-pdf-on-smartphones-with-ai-powered-liquid-reformatting/",
+      "originalUrl": "https://www.cnet.com/news/adobe-peps-up-pdf-on-smartphones-with-ai-powered-liquid-reformatting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/fl4kI_M8yk3VNsMy0z483SO4Cpc=/1200x630/2020/09/22/f046faf0-1ac9-49df-b71c-e9be4b8c6f43/adobe-pdf-logo-icon.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/adobe-peps-up-pdf-on-smartphones-with-ai-powered-liquid-reformatting/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/adobe-peps-up-pdf-on-smartphones-with-ai-powered-liquid-reformatting/",
+      "publishedDateTime": "2020-09-23T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-financial-venture-studio-opens-application-for-next-seed-stage-fintech-cohort.md",
+      "title": "Financial Venture Studio Opens Application for Next Seed-Stage Fintech Cohort",
+      "excerpt": "(GLOBE NEWSWIRE) -- Financial Venture Studio (FVS) is now accepting applications for its next seed-stage cohort. Interested U.S.-based companies should apply today for the chance to be part of the nation’s premier program for seed-stage fintech startups.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/globenewswire-mobile/ec8d4b7fb59d775af89ed10017572bf9",
+      "originalUrl": "https://apnews.com/globenewswire-mobile/ec8d4b7fb59d775af89ed10017572bf9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-23T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-facebook-illinois-settlement-how-to-get-a-payout-in-650-million-facial-recognition-class-action.md",
+      "title": "Facebook Illinois Settlement: How to Get a Payout in $650 Million Facial Recognition Class Action",
+      "excerpt": "When the tag feature is enabled, the social network uses face recognition technology to analyze photos and videos it believes a user is in and creates a template. The template is then used to recognize users as they appear in other photos or videos.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/facebook-illinois-face-recognition-settlement-submit-claim-payout-1533779",
+      "originalUrl": "https://www.newsweek.com/facebook-illinois-face-recognition-settlement-submit-claim-payout-1533779",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1641098/facebook-logo.jpg",
+          "width": 2500,
+          "height": 1627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/facebook-illinois-face-recognition-settlement-submit-claim-payout-1533779?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/facebook-illinois-face-recognition-settlement-submit-claim-payout-1533779?amp=1",
+      "publishedDateTime": "2020-09-23T05:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-israels-mobileye-dubais-habtoor-partner-on-self-driving-cars.md",
       "title": "Israel's Mobileye, Dubai's Habtoor Partner on Self-Driving Cars",
       "excerpt": "Israel's Mobileye and United Arab Emirate's Al Habtoor Group launched a partnership on Wednesday to create a fleet of self-driving \"robotaxis\" that could take to the streets of Dubai by the end of 2022.",
@@ -639,586 +1221,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-twitters-ai-revealed-to-have-racial-bias-after-a-viral-photo-experiment.md",
-      "title": "Twitter’s AI Revealed to Have Racial Bias After a Viral Photo Experiment",
-      "excerpt": "On Saturday, a user tested out racial discrimination existing in Twitter’s AI photo tools using two strips of photos. Twitter crops pictures attached to a tweet, only showing the entire picture after a user clicks on it,",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en_asia/article/93547v/twitter-ai-algorithm-has-racial-bias",
-      "originalUrl": "https://www.vice.com/en_asia/article/93547v/twitter-ai-algorithm-has-racial-bias",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com//articles/5f69d748e154ad009ce2ccf3/lede/1600774181209-marten-bjork-fvtg38cjck-unsplash.jpeg?crop=1xw:0.3746xh;0xw,0.3438xh",
-          "width": 3506,
-          "height": 1970,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en_asia/article/93547v/twitter-ai-algorithm-has-racial-bias",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_asia/article/93547v/twitter-ai-algorithm-has-racial-bias",
-      "publishedDateTime": "2020-09-22T19:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-elon-musk-says-teslas-full-self-driving-autopilot-is-coming-soon-and-its-clearly-going-to-work.md",
-      "title": "Elon Musk says Tesla's full self-driving Autopilot is coming soon and it's 'clearly going to work'",
-      "excerpt": "The next step in the self-driving revolution is coming in 'a month or so, says Tesla CEO Elon Musk, teasing the company's full self-driving Autopilot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indystar.com/story/money/cars/2020/09/22/tesla-elon-musk-full-self-driving-autopilot-software/3498264001/",
-      "originalUrl": "https://www.indystar.com/story/money/cars/2020/09/22/tesla-elon-musk-full-self-driving-autopilot-software/3498264001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/f4c4c3d8d99ab9a0fd37e8d3d494112eb6c0c801/c=0-0-580-326/local/-/media/2018/11/29/USATODAY/usatsports/tesla-autopilot-1-billion-miles_large.png?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.indystar.com/amp/3498264001",
-      "cdnAmpWebUrl": "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3498264001",
-      "publishedDateTime": "2020-09-22T19:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indianapolis Star",
-        "domain": "indystar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-chinese-propaganda-network-on-facebook-used-ai-generated-faces.md",
-      "title": "Chinese propaganda network on Facebook used AI-generated faces",
-      "excerpt": "Facebook removed two networks of fake accounts spreading government propaganda on the platform Tuesday, one originating in China and one in the Philippines. In its latest report on this kind of coordinated campaign,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/22/facebook-gans-takes-down-networks-of-fake-accounts-originating-in-china-and-the-philippines/",
-      "originalUrl": "https://techcrunch.com/2020/09/22/facebook-gans-takes-down-networks-of-fake-accounts-originating-in-china-and-the-philippines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/gans-graphika.jpeg?w=680",
-          "width": 680,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/22/facebook-gans-takes-down-networks-of-fake-accounts-originating-in-china-and-the-philippines/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/facebook-gans-takes-down-networks-of-fake-accounts-originating-in-china-and-the-philippines/amp/",
-      "publishedDateTime": "2020-09-22T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-beyond-limits-raises-133m-in-series-c-funding.md",
-      "title": "Beyond Limits Raises $133M in Series C Funding",
-      "excerpt": "Beyond Limits, a Los Angeles, CA-based industrial and enterprise-grade AI technology company built for the most demanding sectors, including energy, utilities and healthcare, raised a $113m Series C f",
-      "sourceUrl": null,
-      "webUrl": "https://www.finsmes.com/2020/09/beyond-limits-raises-133m-in-series-c-funding.html",
-      "originalUrl": "https://www.finsmes.com/2020/09/beyond-limits-raises-133m-in-series-c-funding.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finsmes.com/wp-content/uploads/2020/09/beyond.png",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T15:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "finsmes.com",
-        "domain": "finsmes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-youtube-ai-to-automatically-block-videos-that-violate-age-restrictions.md",
-      "title": "YouTube AI to automatically block videos that violate age restrictions",
-      "excerpt": "YouTube will use machine learning to automatically apply age restrictions on videos, the Google-owned video site said Tuesday, widening its use of artificial intelligence to automate blocking some videos from viewers who either aren't signed into a YouTube account or are signed in as a viewer under the age of 18.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/youtube-machine-learning-to-put-automated-age-restrictions-blocks-on-videos/",
-      "originalUrl": "https://www.cnet.com/news/youtube-machine-learning-to-put-automated-age-restrictions-blocks-on-videos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/1Bicd2Dw_TNaeMXIyl4HhwaHYF8=/1200x630/2019/06/27/96f3d515-23ab-4ed6-936e-3c945b449d26/youtube-4972.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/youtube-machine-learning-to-put-automated-age-restrictions-blocks-on-videos/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/youtube-machine-learning-to-put-automated-age-restrictions-blocks-on-videos/",
-      "publishedDateTime": "2020-09-22T15:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-seattle-startup-resonance-ai-raises-22m-to-analyze-dialogue-mood-music-in-video-content.md",
-      "title": "Seattle startup Resonance AI raises $2.2M to analyze dialogue, mood, music in video content",
-      "excerpt": "TV news broadcasters, productions studios, and others are using technology from a Seattle startup to analyze their video content and make changes based on audience reception.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/seattle-startup-resonance-ai-raises-2-2m-analyze-dialogue-mood-music-video-content/",
-      "originalUrl": "https://www.geekwire.com/2020/seattle-startup-resonance-ai-raises-2-2m-analyze-dialogue-mood-music-video-content/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/09/image007-630x473.jpg",
-          "width": 630,
-          "height": 473,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/seattle-startup-resonance-ai-raises-2-2m-analyze-dialogue-mood-music-video-content/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-startup-resonance-ai-raises-2-2m-analyze-dialogue-mood-music-video-content/amp/",
-      "publishedDateTime": "2020-09-22T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-ses-becomes-microsoft-azure-orbital-founding-connectivity-partner.md",
-      "title": "SES Becomes Microsoft Azure Orbital Founding Connectivity Partner",
-      "excerpt": "SES's proven low-latency MEO managed services to be part of Microsoft's new multi-orbit satellite connectivity integrated with Azure, promising optimized cloud",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/09/b17611271/ses-becomes-microsoft-azure-orbital-founding-connectivity-partner",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/09/b17611271/ses-becomes-microsoft-azure-orbital-founding-connectivity-partner",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200922005927/en/823710/4/SES_Press_Release_SES_Becomes_Microsoft_Azure_Orbital_Founding_Connectivity_Partner_image.jpg",
-          "width": 480,
-          "height": 310,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17611271",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17611271",
-      "publishedDateTime": "2020-09-22T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-contact-center-ai-software-market-2020-global-trend-segmentation-and-opportunities-forecast-to-2026.md",
-      "title": "Contact Center AI Software Market 2020 Global Trend, Segmentation and Opportunities Forecast To 2026",
-      "excerpt": "Sep 22, 2020 (Heraldkeepers) -- New Study Reports “Contact Center AI Software Market 2020 Global Market Opportunities, Challenges, Strategies and Forecasts 2026” has been Added on WiseGuyReports. The fundamental dynamics that are explored in the report ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/contact-center-ai-software-market-2020-global-trend-segmentation-and-opportunities-forecast-to-2026-2020-09-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/contact-center-ai-software-market-2020-global-trend-segmentation-and-opportunities-forecast-to-2026-2020-09-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T11:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-microsoft-releases-the-innereye-deep-learning-toolkit-to-improve-patient-care.md",
-      "title": "Microsoft releases the InnerEye Deep Learning Toolkit to improve patient care",
-      "excerpt": "With this in mind, the team released the InnerEye Deep Learning Toolkit as open-source software today. Built on top of PyTorch and integrated heavily with Microsoft Azure, the toolkit is meant to ease the process of training and deploying models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-releases-the-innereye-deep-learning-toolkit-to-improve-patient-care",
-      "originalUrl": "https://www.neowin.net/news/microsoft-releases-the-innereye-deep-learning-toolkit-to-improve-patient-care",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/09/1600790738_1400x788_innereye_still_nologo-5f653b8eedf12_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-releases-the-innereye-deep-learning-toolkit-to-improve-patient-care/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-releases-the-innereye-deep-learning-toolkit-to-improve-patient-care/",
-      "publishedDateTime": "2020-09-22T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-brainframe-smart-vision-ai-developers-kit-is-accelerating-computer-vision-applications.md",
-      "title": "BrainFrame: Smart Vision AI Developers Kit Is Accelerating Computer Vision Applications",
-      "excerpt": "Imagine being able to embark on a real-time computer vision project in a few hours, with no code to build a traffic control system, a warehouse monitoring system, or an in-store point of sale optimization system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/junwu1/2020/09/22/brainframe-smart-vision-ai-developers-kit-is-accelerating-computer-vision-applications/",
-      "originalUrl": "https://www.forbes.com/sites/junwu1/2020/09/22/brainframe-smart-vision-ai-developers-kit-is-accelerating-computer-vision-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a29457ce62549d45493de%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/junwu1/2020/09/22/brainframe-smart-vision-ai-developers-kit-is-accelerating-computer-vision-applications/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/09/22/brainframe-smart-vision-ai-developers-kit-is-accelerating-computer-vision-applications/amp/",
-      "publishedDateTime": "2020-09-22T10:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-self-driving-cars-versus-the-most-dangerous-driving-month-of-the-year.md",
-      "title": "Self-Driving Cars Versus The Most Dangerous Driving Month Of The Year",
-      "excerpt": "Bottom-line is to please be extra careful when driving during September. One future aspect to consider involves the gradual advent of AI-based true self-driving cars. This raises an intriguing question: Will the emergence of AI-based true self-driving cars ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/22/self-driving-cars-versus-the-most-dangerous-driving-month-of-the-year/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/22/self-driving-cars-versus-the-most-dangerous-driving-month-of-the-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f692b8b1cc60d7a2b67c0ac%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5295%26cropY1%3D857%26cropY2%3D3339",
-          "width": 1199,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/22/self-driving-cars-versus-the-most-dangerous-driving-month-of-the-year/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/22/self-driving-cars-versus-the-most-dangerous-driving-month-of-the-year/amp/",
-      "publishedDateTime": "2020-09-22T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-this-ai-powered-app-lets-you-say-goodbye-to-background-noise-during-video-calls-once-and-for-all.md",
-      "title": "This AI-Powered App Lets You Say Goodbye to Background Noise During Video Calls Once and for All",
-      "excerpt": "Disclosure: Our goal is to feature products and services that we think you'll find interesting and useful. If you purchase them, Entrepreneur may get a small share of the revenue from the sale from our commerce partners. With so many people working from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/356406",
-      "originalUrl": "https://www.entrepreneur.com/article/356406",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1600451525-krispimage4featuredimage.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/356406",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356406",
-      "publishedDateTime": "2020-09-22T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

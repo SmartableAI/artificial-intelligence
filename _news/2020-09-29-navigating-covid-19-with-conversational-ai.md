@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/356864"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356864"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Olive's AI Workforce to Revolutionize COVID-19 Testing at Tufts Medical Center"
+    excerpt: "Olive announced today that it has entered into an agreement to leverage its AI workforce technology to streamline COVID-19 testing operations at Tufts"
+    publishedDateTime: 2020-09-29T13:49:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/olives-ai-workforce-to-revolutionize-covid-19-testing-at-tufts-medical-center/article_3650e02e-f8e2-54e4-896b-12c306e10a05.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 33
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/bc/1bcafd02-270b-518b-b8f7-346d623f0f45/5f7334f027ff7.image.jpg?resize=400%2C210"
+        width: 400
+        height: 210
+        isCached: true
   - title: "COVID-19 Symptom Evaluation App, Built with Watson, Becomes Call for Code Regional Finalist"
     excerpt: "As the COVID-19 pandemic has continued to spread, doctors and hospitals have been overwhelmed by anxious patients worried about a symptom and unclear on"
     publishedDateTime: 2020-09-27T04:44:00Z
@@ -117,6 +131,6 @@ related:
         height: 627
         isCached: true
 
-secured: "FL6CeSXV6J87rYHEyOOp0si/+UGhJzTUItCYgooSNeO+XRqQn5eslbO+PF7apYCB9J23qp1tPXKyMKkno+pc3AlfzNAYGdLUay0eWYXdVI+RuDUFIalA9UGz5cmh7Dvo+uV3b6ucestEkplmm8pEPfAu6EjVbzcSpOnhCHpH/Ny+fkETJVHUybxafJg3H5K8A46LToInM8dv9UEkQl0+tkR4BgSIULdY8L4oPPG50onawQ8e2/G4XZWD2ifnjVl65vj2WAoyVpRqrTV0QGhuR7lxNDXGKWAAkMG9RdHIf4DrA3Im3XGoeiNrFErZdubRJe+uC0SuN8b2Hn+HjJL3SBU0JcGOwib3q3bNW/XkWN4=;eKyG3WkqAVQE2BsA9cVJew=="
+secured: "k6nCE2tZWRLbw7scaxhMEKH7ogZ+7lwVp9NiGLAa6vo7Y3E77k3nMKDir6WvIRb5nYWciOhLVRAr5Xr8yS2UglLDkHe4j2uKGGzZ3Ij9xSJsxUTgpH5KkvO4LT+QqXGKAx/ST+d34J636Gm/WXCrFmdfN1HqkgGVtWyM5dnm1d9+MTF+AiiCyqQf6hAYD7BDagRF1xn2QPAn0oTrlwdVvFWrojLScwpchPl7KeFFtA1mDP/wZAqpMFO7GRVkbE3O4SsfaujEPIc6MiI8oYGpWmV9jqoaw+BFwlqzY0xnCbBHsFofuFKV4RSxT1rr4wErN+xRhN00ovS0RoLl/q+782MYGL1JMhQmulIsoKshTxUdpwvRUEbD5gzGOTXa93yLtQAQz7rFzW2oMvtFK6X/yllqD9I+dwl3rF/zr2wmm2XrnaD2PFzhDAoApiiv3fdFGAINdlv+kIg4vqOvwB8ClAvLg4HVvhboK9MApkE9tqk/EmSTQMr3RWnyQgYIep3nePTDD57N6cij12fe3JbsyA==;EmtGcpEiIWK6AgzMrE7Sbw=="
 ---
 

@@ -26,22 +26,6 @@ images:
     height: 580
     isCached: true
 
-related:
-  - title: "Lecture on ‘Language Tech’ on 11th day of Toornayad"
-    excerpt: "On the 11th day of Toornayaad, Hindi literature festival, Narayan Chaudhary, Assistant Director, Indian Language Institute addressed the students on Thursday. He addressed the seminar under the guest lecture series."
-    publishedDateTime: 2020-09-24T19:22:00Z
-    webUrl: "https://www.dailypioneer.com/2020/state-editions/lecture-on----language-tech----on-11th-day-of-toornayad.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 24
-    images:
-      - url: "https://www.dailypioneer.com/images/logo.jpg"
-        width: 325
-        height: 325
-        isCached: true
-
 secured: "6+8JSahJf43y7Z6lSONX+Gc56qft3k9nKTZMgW1uA1F6ZNHpKjgHcu70nuCKJDET9z/uSXh0rfqKZB415KNaY9BOfjplciQIkUQlGvEdOLP2+XHGzm9Ra4VpcHN2JxRtox9lsWZ3msSyXFZSw3TLdyX1D4v/TRhptLYsPVGU9STV4nagI2qnWe0pprEla7T1LI+kbg5RcJr68KWExrIw0Pd9X/8NQ3vFSGQj4aBppGa0JOIZjH9FlgPw6FaVW66KjxUqvLFwmmpDZpmROzpj7EBnUyip/AWHvQpfiv7phfwWNe8Uvjp9Yxmde1fWCVi+MQAuL+XZJSpmIfC5j4yF8VQYaRDez8dnpGtS5jjcpdNuIZwbUI5ARFyfwV0VHGSSj0Hz4HIBy1X7v0l0w7c1oha3jybJKCMYb9CJO/+unNpn7XwHwWlIr0zgScbcPyLJJUJwkQeKqtCUFopm4pbQzhMrajwwJ/LtTmHd8yOQlj2MkHuthKS+f/rbBnsCZTqkEcSwRQDeBlf/2db/L4JcTA==;1zqb+ilWmVGuBLvx2EeWoA=="
 ---
 

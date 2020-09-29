@@ -171,20 +171,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Talking alone: Researchers use artificial intelligence tools to predict loneliness"
-    excerpt: "A team led by researchers at University of California San Diego School of Medicine has used artificial intelligence technologies to analyze natural language patterns to discern degrees of loneliness in older adults."
-    publishedDateTime: 2020-09-24T19:33:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-09/uoc--tar092420.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 33
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/244031_web.jpg"
-        width: 450
-        height: 675
-        isCached: true
 
 secured: "j9wOyX/yIzT++AqpDwuBgabWVWMg7pDKIeR4Gn0YgoH6y6Q+a96cQXU64TNSyO9xLulsCCNfIpPUEW235BCLRV8vViqloQHryC+1FOJqZ45CTeDKymfQvZlAI+tYP6OvTZi/3iVZn44QHslNcngIFBn06rdMC4w7zjoiPfDPONdkiwJvkD8S3ZjT/F+HvkcHi1PumJfiM2FNCE/q73VoEtEkMWBL3yQwTQdXPPom+LW9PZq0uiT/V5YYs8EDILFcPyOrbYB2ym8kMgQDjGSn0hj02Xqvfjx1Q94ssfYO5WzuEWZyL0DMzVdmNYzmmBrQ/9QUY2rffhgt08i/3nrCVFlBIUcqtpqO9k3HiNQly4ZfO2zmI1sVn6FWYpEL0I/nOWq+G+GCjqyV8Q3o1qhyE5T0gBNBY+By5jUfRzXFVw/9D4cf256DECwaYLX5PKAHvX/eDXBqhZca1N3taa9zq9X+D+bBY+I+BhiKfqzMpNBQzrNYByHMBBXH/cg4VsLSJzmwxT1w3XhoRdM1oD0Ixg==;utTkbdqB7/C1+He811Ykgg=="
 ---

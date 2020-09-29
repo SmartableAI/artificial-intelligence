@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-29-applying-machine-learning-to-keep-employees-safe-and-save-lives.md",
+      "title": "Applying machine learning to keep employees safe and save lives",
+      "excerpt": "Warny leverages many of the key AWS Services such as IoT, Greengrass, and Sagemaker. Warny uses sophisticated computer vision algorithms to protect people working around dangerous machines ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/29/applying-machine-learning-to-keep-employees-safe-and-save-lives/",
+      "originalUrl": "https://venturebeat.com/2020/09/29/applying-machine-learning-to-keep-employees-safe-and-save-lives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/Hazzard_Outline.jpg?fit=800%2C387&strip=all",
+          "width": 800,
+          "height": 387,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/29/applying-machine-learning-to-keep-employees-safe-and-save-lives/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/29/applying-machine-learning-to-keep-employees-safe-and-save-lives/amp/",
+      "publishedDateTime": "2020-09-29T06:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-cybermdx-healthcare-security-solution-is-now-available-in-aws-marketplace.md",
+      "title": "CyberMDX Healthcare Security Solution is Now Available in AWS Marketplace",
+      "excerpt": "CyberMDX, a leading healthcare cybersecurity provider delivering visibility and threat prevention for medical devices and clinical",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/il/news-releases/cybermdx-healthcare-security-solution-is-now-available-in-aws-marketplace-301139706.html",
+      "originalUrl": "https://www.prnewswire.com/il/news-releases/cybermdx-healthcare-security-solution-is-now-available-in-aws-marketplace-301139706.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-29T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-09-28-aws-inferentia-is-now-available-in-11-aws-regions-with-best-in-class-performance-for-running-object-detection-models-at-scale.md",
       "title": "AWS Inferentia is now available in 11 AWS Regions, with best-in-class performance for running object detection models at scale",
       "excerpt": "AWS has expanded the availability of Amazon EC2 Inf1 instances to four new AWS Regions, bringing the total number of supported Regions to 11: US East (N. Virginia, Ohio), US West (Oregon), Asia Pacific (Mumbai, Singapore, Sydney, Tokyo), Europe (Frankfurt, Ireland, Paris), and South America (S&atilde;o",
@@ -61,7 +156,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/moving-from-notebooks-to-automated-ml-pipelines-using-amazon-sagemaker-and-aws-glue/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -1325,109 +1420,6 @@
         "AWS AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-using-the-amazon-sagemaker-studio-image-build-cli-to-build-container-images-from-your-studio-notebooks.md",
-      "title": "Using the Amazon SageMaker Studio Image Build CLI to build container images from your Studio notebooks",
-      "excerpt": "The new Amazon SageMaker Studio Image Build convenience package allows data scientists and developers to easily build custom container images from your Studio notebooks via a new CLI. The new CLI eliminates the need to manually set up and connect to Docker build environments for building container images",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-the-amazon-sagemaker-studio-image-build-cli-to-build-container-images-from-your-studio-notebooks/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-the-amazon-sagemaker-studio-image-build-cli-to-build-container-images-from-your-studio-notebooks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/11/1-Flowchart.jpg",
-          "width": 900,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-14T13:44:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-how-amazon-is-using-machine-learning-to-eliminate-915000-tons-of-packaging.md",
-      "title": "How Amazon is using machine learning to eliminate 915,000 tons of packaging",
-      "excerpt": "ML has reduced Amazon's use of boxes from 69% to 42%, eliminating 915,000 tons of packaging material, and reducing carbon emissions significantly.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/14/how-amazon-is-using-machine-learning-to-eliminate-915000-tons-of-packaging/",
-      "originalUrl": "https://venturebeat.com/2020/09/14/how-amazon-is-using-machine-learning-to-eliminate-915000-tons-of-packaging/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/Amazon-RPM-Counter.jpg?w=300&resize=323%2C215&strip=all",
-          "width": 323,
-          "height": 215,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/14/how-amazon-is-using-machine-learning-to-eliminate-915000-tons-of-packaging/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/14/how-amazon-is-using-machine-learning-to-eliminate-915000-tons-of-packaging/amp/",
-      "publishedDateTime": "2020-09-14T07:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

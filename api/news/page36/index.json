@@ -2,6 +2,546 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-09-02-nvidias-monster-rtx-30-series-gpus-are-listed-with-twice-the-rumoured-core-count.md",
+      "title": "Nvidia's monster RTX 30-series GPUs are listed with twice the rumoured core count",
+      "excerpt": "Hsun Huang threw down the news we’ve all been waiting for—the official specs for the new 30-series Nvidia Ampere graphics cards. Nvidia has pulled up with the next step in the RTX revolution, promising AI powered acceleration with almost twice the performance-per-Watt of the Turing predecessors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcgamer.com/nvidia-ampere-30-series-announcement/",
+      "originalUrl": "https://www.pcgamer.com/nvidia-ampere-30-series-announcement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/LTiBwMDLNWHiwwViu3LuDb-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamer.com/amp/nvidia-ampere-30-series-announcement/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/nvidia-ampere-30-series-announcement/",
+      "publishedDateTime": "2020-09-01T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-nvidia-announces-geforce-rtx-30-series-gpu-new-tech.md",
+      "title": "NVIDIA Announces GeForce RTX 30 Series GPU, New Tech",
+      "excerpt": "NVIDIA unveiled its GeForce RTX 30 Series GPUs, powered by the NVIDIA Ampere architecture, which delivers the greatest-ever generational leap in GeForce history.",
+      "sourceUrl": null,
+      "webUrl": "https://www.worthplaying.com/article/2020/9/1/news/121526/",
+      "originalUrl": "https://www.worthplaying.com/article/2020/9/1/news/121526/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-01T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Worth Playing",
+        "domain": "worthplaying.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-01-announcing-the-aws-deepcomposer-chartbusters-challenge-the-sounds-of-science.md",
+      "title": "Announcing the AWS DeepComposer Chartbusters challenge, The Sounds of Science",
+      "excerpt": "We’re excited to announce the next AWS DeepComposer Chartbusters challenge, in which developers interactively collaborate with AI using the new edit melody feature launching today! Chartbusters is a monthly challenge where you can use AWS DeepComposer to create original compositions on the console using",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-deepcomposer-chartbusters-challenge-the-sounds-of-science/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-deepcomposer-chartbusters-challenge-the-sounds-of-science/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/01/sound-of-science-03.jpg",
+          "width": 800,
+          "height": 473,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-01T09:59:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-01-nvidia-broadcast-brings-rtx-powered-ai-to-livestreaming-video.md",
+      "title": "Nvidia Broadcast brings RTX-powered AI to livestreaming video",
+      "excerpt": "Nvidia Broadcast is a new tool that brings together all of the companys RTX AI features for creating video and audio content.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/01/nvidia-broadcast-brings-rtx-powered-a-i-to-video-production/",
+      "originalUrl": "https://venturebeat.com/2020/09/01/nvidia-broadcast-brings-rtx-powered-a-i-to-video-production/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/Nvidia-RTX-Broadcast-e1598971502693.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 516,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/01/nvidia-broadcast-brings-rtx-powered-a-i-to-video-production/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/01/nvidia-broadcast-brings-rtx-powered-a-i-to-video-production/amp/",
+      "publishedDateTime": "2020-09-01T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-01-3-top-artificial-intelligence-stocks-to-buy-in-september.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy in September",
+      "excerpt": "Artificial intelligence (AI) has the potential to influence almost every industry, and the overall economic impact of the tech will exceed what's spent on hardware, software, and services many times over.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/09/01/top-artificial-intelligence-stocks-buy-september/",
+      "originalUrl": "https://www.fool.com/investing/2020/09/01/top-artificial-intelligence-stocks-buy-september/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F589831%2Fgettyimages-896358708.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/09/01/top-artificial-intelligence-stocks-buy-september/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/01/top-artificial-intelligence-stocks-buy-september/",
+      "publishedDateTime": "2020-09-01T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-01-a-big-step-for-flood-forecasts-in-india-and-bangladesh.md",
+      "title": "A big step for flood forecasts in India and Bangladesh",
+      "excerpt": "For several years, the Google Flood Forecasting Initiative has been working with governments to develop systems that predict when and where flooding will occur—and keep people safe and informed. Much of this work is centered on India, where floods are a serious risk for hundreds of millions of people.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/flood-forecasts-india-bangladesh/",
+      "originalUrl": "https://blog.google/technology/ai/flood-forecasts-india-bangladesh/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screen_Shot_2020-08-31_at_6.57.16_PM.max-1300x1300.png",
+          "width": 1300,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/flood-forecasts-india-bangladesh/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/flood-forecasts-india-bangladesh/amp/",
+      "publishedDateTime": "2020-09-01T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-01-whats-hot-in-ai-according-to-training-data-google-ibm-microsoft-are-buying.md",
+      "title": "What’s Hot In AI, According To Training Data Google, IBM, Microsoft Are Buying",
+      "excerpt": "But what’s growing fastest in artificial intelligence? One clue is where the Fortune 50 are placing their AI bets. And one big tell is what they need training data for. “Training data is really the basis for AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/01/whats-hot-in-ai-according-to-training-data-google-ibm-microsoft-are-buying/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/01/whats-hot-in-ai-according-to-training-data-google-ibm-microsoft-are-buying/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4e6dc77bc351dcc612a595%2F0x0.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/01/whats-hot-in-ai-according-to-training-data-google-ibm-microsoft-are-buying/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/09/01/whats-hot-in-ai-according-to-training-data-google-ibm-microsoft-are-buying/amp/",
+      "publishedDateTime": "2020-09-01T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-01-elon-musks-neuralink-showcase-spurs-mind-copying-discussion-about-ai-and-self-driving-cars.md",
+      "title": "Elon Musk’s Neuralink Showcase Spurs Mind-Copying Discussion About AI And Self-Driving Cars",
+      "excerpt": "Let’s use that as a means to consider how copying the human mind can be related to AI, along with then using AI-based true self-driving cars as an example for exploring the mind-copying aspects. First of all,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/01/elon-musks-neuralink-showcase-spurs-mind-copying-discussion-about-ai-and-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/01/elon-musks-neuralink-showcase-spurs-mind-copying-discussion-about-ai-and-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed019bfa705cb0006454d1d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4592%26cropY1%3D188%26cropY2%3D3249",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/01/elon-musks-neuralink-showcase-spurs-mind-copying-discussion-about-ai-and-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/01/elon-musks-neuralink-showcase-spurs-mind-copying-discussion-about-ai-and-self-driving-cars/amp/",
+      "publishedDateTime": "2020-09-01T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-01-pandemic-tests-toll-roads-construction-but-ai-well-positioned.md",
+      "title": "Pandemic tests toll roads, construction, but AI well-positioned",
+      "excerpt": "Toll roads have fared better than airports during COVID-19. While flying has become a distant dream for most, people have been jumping in their cars and going on driving holidays as soon as pandemic restrictions are relaxed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.atlasai.co/about-atlasai.html",
+      "originalUrl": "https://www.afr.com/wealth/personal-finance/pandemic-tests-toll-roads-construction-but-ai-well-positioned-20200831-p55qb3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.atlasai.co/assets/img/inner-1.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-01T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Australian Financial Review",
+        "domain": "afr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-01-alphabets-googl-waymo-to-bring-driverless-trucks-in-texas.md",
+      "title": "Alphabet's (GOOGL) Waymo to Bring Driverless Trucks in Texas",
+      "excerpt": "Reportedly, Waymo plans to start the company’s ... services on the back of robust self-driving technology and artificial intelligence techniques. The company began the testing of self-driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/alphabets-googl-waymo-to-bring-driverless-trucks-in-texas-2020-09-01",
+      "originalUrl": "https://www.nasdaq.com/articles/alphabets-googl-waymo-to-bring-driverless-trucks-in-texas-2020-09-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/alphabets-googl-waymo-to-bring-driverless-trucks-in-texas-2020-09-01?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/alphabets-googl-waymo-to-bring-driverless-trucks-in-texas-2020-09-01?amp",
+      "publishedDateTime": "2020-09-01T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-01-aws-announces-general-availability-of-amazon-ebs-io2-volume.md",
+      "title": "AWS Announces General Availability of Amazon EBS io2 Volume",
+      "excerpt": "New Amazon EBS volume delivers 100x higher durability and 10x more IOPS-to-storage ratio at the same price of current comparable volumes Bristol Myers Squibb,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/08/b17222030/aws-announces-general-availability-of-amazon-ebs-io2-volume",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/08/b17222030/aws-announces-general-availability-of-amazon-ebs-io2-volume",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17222030",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17222030",
+      "publishedDateTime": "2020-09-01T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-01-electronic-skin-that-feels-pain-could-lead-to-smarter-prosthetics-and-robots.md",
+      "title": "Electronic skin that ‘feels’ pain could lead to smarter prosthetics and robots",
+      "excerpt": "Scientists from RMIT University in Australia have developed an electronic skin that reacts to pain like human skin.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/01/electronic-skin-that-feels-pain-could-lead-to-smarter-prosthetics-and-robots/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/01/electronic-skin-that-feels-pain-could-lead-to-smarter-prosthetics-and-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Untitled-design-2020-09-01T134601.951-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/01/electronic-skin-that-feels-pain-could-lead-to-smarter-prosthetics-and-robots/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/01/electronic-skin-that-feels-pain-could-lead-to-smarter-prosthetics-and-robots/amp/",
+      "publishedDateTime": "2020-09-01T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-01-arize-ai-helps-us-understand-how-ai-works.md",
       "title": "Arize AI Helps Us Understand How AI Works",
       "excerpt": "The lack of explainability and observability prevents AI and ML from being trusted tools in critical areas of human activity. Fortunately, Jason Lopatecki and Aparna Dhinakaran created Arize AI to helps us understand how and why AIs think.",
@@ -633,544 +1173,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-read-hillary-rodham-clintons-womens-rights-speech-from-1995.md",
-      "title": "Read Hillary Rodham Clinton’s ‘Women’s Rights’ Speech From 1995",
-      "excerpt": "Former Secretary of State Hillary Rodham Clinton delivered the following address to the United Nations’ Fourth World Conference on Women, in Beijing, 25 years ago. Then the first lady of the United States,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theatlantic.com/politics/archive/2020/09/read-hillary-rodham-clintons-womens-rights-speech/615733/",
-      "originalUrl": "https://www.theatlantic.com/politics/archive/2020/09/read-hillary-rodham-clintons-womens-rights-speech/615733/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/wKSdLibw2mjaR0vbanCEiaxUGTM=/0x184:2955x1847/570x321/media/img/mt/2020/08/AP_16267556636381/original.jpg",
-          "width": 570,
-          "height": 321,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.theatlantic.com/amp/article/615733/",
-      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/615733/",
-      "publishedDateTime": "2020-09-01T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-ai-language-tool-reveals-most-stressed-politicians-and-business-leaders.md",
-      "title": "AI Language Tool Reveals Most Stressed Politicians And Business Leaders",
-      "excerpt": "An automated language analysis system has measured the stress levels of US politicians and business leaders, finding that Bernie Sanders is the most stressed American politician and Bill Gates the most stressed business figure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/simonchandler/2020/09/01/ai-language-tool-reveals-most-stressed-politicians-and-business-leaders/",
-      "originalUrl": "https://www.forbes.com/sites/simonchandler/2020/09/01/ai-language-tool-reveals-most-stressed-politicians-and-business-leaders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4e0d0e1a85851f93b167b8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5472%26cropY1%3D256%26cropY2%3D3334",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/simonchandler/2020/09/01/ai-language-tool-reveals-most-stressed-politicians-and-business-leaders/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonchandler/2020/09/01/ai-language-tool-reveals-most-stressed-politicians-and-business-leaders/amp/",
-      "publishedDateTime": "2020-09-01T02:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-ibms-watson-is-helping-tennis-fans-argue-with-each-other.md",
-      "title": "IBM’s Watson is helping tennis fans argue with each other",
-      "excerpt": "Fans can discuss topics like the most influential players in history, and their arguments will be analyzed by IBM’s Watson technology (using the same AI tool that helped a computer take on a top ...",
-      "sourceUrl": null,
-      "webUrl": "https://localnews8.com/money/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/",
-      "originalUrl": "https://localnews8.com/money/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://localnews8.b-cdn.net/2019/11/Money-logo-new.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-01T02:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Local News 8",
-        "domain": "localnews8.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-deep-learning-market-analysis-size-regional-outlook-competitive-strategies-and-forecasts-to-2027.md",
-      "title": "Deep Learning Market Analysis, Size, Regional Outlook, Competitive Strategies and Forecasts to 2027",
-      "excerpt": "Sep 01, 2020 (Heraldkeepers) -- Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-analysis-size-regional-outlook-competitive-strategies-and-forecasts-to-2027-2020-09-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-analysis-size-regional-outlook-competitive-strategies-and-forecasts-to-2027-2020-09-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-01T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-cosmose-ai-raises-15-million-to-track-in-store-shoppers-using-smartphone-data.md",
-      "title": "Cosmose AI raises $15 million to track in-store shoppers using smartphone data",
-      "excerpt": "Cosmose AI, which is developing a platform that taps smartphone data to track shoppers' in-store behavior, has raised $15 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/31/cosmose-ai-raises-15-million-to-track-shoppers-in-store-behavior-using-smartphone-data/",
-      "originalUrl": "https://venturebeat.com/2020/08/31/cosmose-ai-raises-15-million-to-track-shoppers-in-store-behavior-using-smartphone-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/d79c264d-4092-49ea-9f94-80d75661c390-e1575582391172.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/31/cosmose-ai-raises-15-million-to-track-shoppers-in-store-behavior-using-smartphone-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/31/cosmose-ai-raises-15-million-to-track-shoppers-in-store-behavior-using-smartphone-data/amp/",
-      "publishedDateTime": "2020-09-01T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-mediatek-helio-g95-chip-announced-for-gaming-smartphones.md",
-      "title": "MediaTek Helio G95 chip announced for gaming smartphones",
-      "excerpt": "MediaTek today announced its latest gaming-focused chipset, the Helio G95. An upgraded version of the G90T, the new chip is slightly faster in CPU and GPU benchmarks and comes with other new features.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/mediatek-helio-g95-chip-announced-for-gaming-smartphones",
-      "originalUrl": "https://www.neowin.net/news/mediatek-helio-g95-chip-announced-for-gaming-smartphones",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/09/1598936959_mediatek-helio-g95_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/mediatek-helio-g95-chip-announced-for-gaming-smartphones/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/mediatek-helio-g95-chip-announced-for-gaming-smartphones/",
-      "publishedDateTime": "2020-08-31T22:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-max-kelsen-serves-automated-rostering-to-dominos-pizza.md",
-      "title": "Max Kelsen serves automated rostering to Domino’s Pizza",
-      "excerpt": "Max Kelsen has “taken out the guesswork” of staff rostering for Domino’s Pizza using Amazon Web Services’ machine learning technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/682585/max-kelsen-serves-automated-rostering-domino-pizza/",
-      "originalUrl": "https://www.arnnet.com.au/article/682585/max-kelsen-serves-automated-rostering-domino-pizza/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/dreamstime_s_135935220.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-31T21:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-ibm-deep-dive-strategy-shift-driving-growth-attractive-share-price-and-dividend-yield.md",
-      "title": "IBM Deep Dive: Strategy Shift Driving Growth; Attractive Share Price And Dividend Yield",
-      "excerpt": "IBM is successfully pivoting itself away from its declining legacy products and towards growth as a cloud, software, and services company.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4371850-ibm-deep-dive-strategy-shift-driving-growth-attractive-share-price-and-dividend-yield",
-      "originalUrl": "https://seekingalpha.com/article/4371850-ibm-deep-dive-strategy-shift-driving-growth-attractive-share-price-and-dividend-yield",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-31T19:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-atlanta-airport-plans-to-test-facial-recognition-touchless-technology.md",
-      "title": "Atlanta airport plans to test facial recognition, touchless technology",
-      "excerpt": "Jackson Atlanta International Airport plans to test facial recognition at check-in counters in the domestic terminal, part of a broader push to introduce more touchless technology in response to the coronavirus.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thenewstribune.com/news/nation-world/article245384385.html",
-      "originalUrl": "https://www.thenewstribune.com/news/nation-world/article245384385.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.thenewstribune.com/news/nation-world/article245384385.html",
-      "cdnAmpWebUrl": "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/nation-world/article245384385.html",
-      "publishedDateTime": "2020-08-31T18:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Tribune",
-        "domain": "thenewstribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-5-aws-services-that-implement-aiops-effectively.md",
-      "title": "5 AWS Services That Implement AIOps Effectively",
-      "excerpt": "It has an army of researchers and engineers working on machine learning and artificial intelligence domains. The massive data center footprint that AWS has generates large datasets extremely ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/09/01/5-aws-services-that-implement-aiops-effectively/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2020/09/01/5-aws-services-that-implement-aiops-effectively/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4e6d04c4e57fbe01b167b8%2F0x0.jpg",
-          "width": 1000,
-          "height": 707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/09/01/5-aws-services-that-implement-aiops-effectively/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/09/01/5-aws-services-that-implement-aiops-effectively/amp/",
-      "publishedDateTime": "2020-08-31T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-5-of-the-coolest-prosthetic-arm-breakthroughs.md",
-      "title": "5 of the Coolest Prosthetic Arm Breakthroughs",
-      "excerpt": "Easton LaChappelle, a young engineer from Cortez, Colorado has set out to develop the world's first mind-controlled robotic limb, and aims to make it affordable as well. The device works in tandem with a headset that reads brainwaves, reading about 12 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/rd/5-coolest-prosthetic-arm-breakthroughs",
-      "originalUrl": "https://www.mddionline.com/rd/5-coolest-prosthetic-arm-breakthroughs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/field/image/carlos-arturo_torres.png",
-          "width": 660,
-          "height": 371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-31T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-navy-asks-hydroid-to-develop-bathymetry-underwater-sensor-for-ocean-floor-mapping.md",
-      "title": "Navy asks Hydroid to develop bathymetry underwater sensor for ocean floor mapping",
-      "excerpt": "PANAMA CITY, Fla., 1 Sept. 2015. U.S. Navy undersea researchers are looking to unmanned underwater vehicle (UUV) expert Hydroid Inc. in Pocasset, Mass., to provide an underwater sensor able to map ...",
-      "sourceUrl": null,
-      "webUrl": "https://inside.com/campaigns/inside-ai-2020-08-21-24176/sections/204182",
-      "originalUrl": "https://www.militaryaerospace.com/computers/article/16714014/navy-asks-hydroid-to-develop-bathymetry-underwater-sensor-for-ocean-floor-mapping",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://e.insd.io/s/p/204182_original.jpg?1598033493",
-          "width": 744,
-          "height": 389,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-31T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Military",
-        "domain": "militaryaerospace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

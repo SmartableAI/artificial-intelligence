@@ -75,7 +75,7 @@ related:
   - title: "Artificial Intelligence Market – Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020-2026"
     excerpt: "According to a new study published by Polaris Market Research the Global Artificial Intelligence Market is anticipated"
     publishedDateTime: 2020-09-28T12:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2026-2020-09-28?tesla=y"
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2026-2020-09-28"
     type: article
     provider:
       name: MarketWatch

@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-08-chatbots-at-the-front-line-of-online-therapy-brains-byte-back-podcast.md",
+      "title": "Chatbots at the front line of online therapy (Brains Byte Back podcast)",
+      "excerpt": "Many of us have probably interacted with chatbots, perhaps even without knowing, when interacting with businesses, but what if chatbots were not just designed to help businesses, but also our mental health.",
+      "sourceUrl": null,
+      "webUrl": "https://sociable.co/web/chatbots-at-the-front-line-of-online-therapy-brains-byte-back-podcast/",
+      "originalUrl": "https://sociable.co/web/chatbots-at-the-front-line-of-online-therapy-brains-byte-back-podcast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sociable.co/wp-content/uploads/2020/09/bbb-chatbots.png",
+          "width": 640,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://sociable.co/web/chatbots-at-the-front-line-of-online-therapy-brains-byte-back-podcast/amp/",
+      "cdnAmpWebUrl": "https://sociable-co.cdn.ampproject.org/c/s/sociable.co/web/chatbots-at-the-front-line-of-online-therapy-brains-byte-back-podcast/amp/",
+      "publishedDateTime": "2020-09-08T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sociable",
+        "domain": "sociable.co",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-08-transforming-accounting-with-artificial-intelligence-an-interview-with-eli-fathi-ceo-mindbridgeai.md",
       "title": "Transforming Accounting With Artificial Intelligence: An Interview With Eli Fathi, CEO Mindbridge.ai",
       "excerpt": "This blog discusses why the accounting profession is undergoing major changes as a result of AI technologies. An example of a World Economic Forum Winner in the Top 100 2020, Mindbridge.ai is profiled due to their leadership in enabling auditors to to improve forensic accounting practices.",
@@ -1350,57 +1392,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-technology-comes-together-artificial-intelligence-augmented-reality-and-5g-combine-to-aid-surgeons.md",
-      "title": "Technology Comes Together: Artificial Intelligence, Augmented Reality, And 5G Combine To Aid Surgeons",
-      "excerpt": "The last few decades saw a move of computing from the edge to the cloud. While massive amounts of compute will remain in the cloud, the advances that have been gained there are helping to move performance back to the edge for critical issues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2020/08/20/technology-comes-together-artificial-intelligence-augmented-reality-and-5g-combine-to-aid-surgeons/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
-          "width": 876,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/08/20/technology-comes-together-artificial-intelligence-augmented-reality-and-5g-combine-to-aid-surgeons/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/08/20/technology-comes-together-artificial-intelligence-augmented-reality-and-5g-combine-to-aid-surgeons/amp/",
-      "publishedDateTime": "2020-08-20T11:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "AI in Healthcare"
       ]

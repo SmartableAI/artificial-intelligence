@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-29-applying-machine-learning-to-keep-employees-safe-and-save-lives.md",
+      "title": "Applying machine learning to keep employees safe and save lives",
+      "excerpt": "Warny leverages many of the key AWS Services such as IoT, Greengrass, and Sagemaker. Warny uses sophisticated computer vision algorithms to protect people working around dangerous machines ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/29/applying-machine-learning-to-keep-employees-safe-and-save-lives/",
+      "originalUrl": "https://venturebeat.com/2020/09/29/applying-machine-learning-to-keep-employees-safe-and-save-lives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/Hazzard_Outline.jpg?fit=800%2C387&strip=all",
+          "width": 800,
+          "height": 387,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/29/applying-machine-learning-to-keep-employees-safe-and-save-lives/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/29/applying-machine-learning-to-keep-employees-safe-and-save-lives/amp/",
+      "publishedDateTime": "2020-09-29T06:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-deep-science-robot-perception-acoustic-monitoring-using-ml-to-detect-arthritis.md",
       "title": "Deep Science: Robot perception, acoustic monitoring, using ML to detect arthritis",
       "excerpt": "This column aims to collect the most relevant recent discoveries and papers — particularly in but not limited to artificial intelligence — and explain why they matter. The topics in this week ...",
@@ -62,7 +114,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/moving-from-notebooks-to-automated-ml-pipelines-using-amazon-sagemaker-and-aws-glue/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -351,7 +403,7 @@
       "originalUrl": "https://techcrunch.com/2020/09/25/4-things-to-remember-when-adapting-ai-ml-learning-models-during-a-pandemic/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -494,6 +546,48 @@
         "AI",
         "Machine Learning",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-ai-machine-learning-breakthrough-is-a-twist-on-brain-replay.md",
+      "title": "AI Machine Learning Breakthrough Is a Twist on Brain Replay",
+      "excerpt": "From a neuroscience perspective, the concept of brain replay is analogous to a streaming service that activates repeat showings from its vast archives of stored pre-recorded content. The brain can replay memories by reactivating the neural activity patterns that represent prior experiences whether asleep or awake.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202009/ai-machine-learning-breakthrough-is-twist-brain-replay",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202009/ai-machine-learning-breakthrough-is-twist-brain-replay",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.psychologytoday.com/sites/default/files/styles/magazine_240x308/public/field_magazine_cover/2020-09.png?itok=8uWeigq4",
+          "width": 384,
+          "height": 504,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202009/ai-machine-learning-breakthrough-is-twist-brain-replay?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202009/ai-machine-learning-breakthrough-is-twist-brain-replay?amp",
+      "publishedDateTime": "2020-09-24T21:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1314,111 +1408,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-leveraging-artificial-intelligence-ai-to-scale-ai-transformations.md",
-      "title": "Leveraging Artificial Intelligence (AI) To Scale AI Transformations",
-      "excerpt": "According to a recent McKinsey survey, just under a third of organizations use artificial intelligence for multiple business functions. Scaling AI transformations appears to be the most important challenge in this arena,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/21/leveraging-artificial-intelligence-ai-to-scale-ai-transformations/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/21/leveraging-artificial-intelligence-ai-to-scale-ai-transformations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0db1df72fadb0007edeed4%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/21/leveraging-artificial-intelligence-ai-to-scale-ai-transformations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/21/leveraging-artificial-intelligence-ai-to-scale-ai-transformations/amp/",
-      "publishedDateTime": "2020-09-21T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-10-mlops-platforms-to-manage-the-machine-learning-lifecycle.md",
-      "title": "10 MLops platforms to manage the machine learning lifecycle",
-      "excerpt": "Machine learning lifecycle management systems rank and track your experiments over time, and sometimes integrate with deployment and monitoring",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3572442/10-mlops-platforms-to-manage-the-machine-learning-lifecycle.html",
-      "originalUrl": "https://www.infoworld.com/article/3572442/10-mlops-platforms-to-manage-the-machine-learning-lifecycle.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_man_graphic_interface_data_by_art24hr_gettyimages_1157378096-100817765-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3572442/10-mlops-platforms-to-manage-the-machine-learning-lifecycle.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3572442/10-mlops-platforms-to-manage-the-machine-learning-lifecycle.amp.html",
-      "publishedDateTime": "2020-09-21T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AWS AI",
-        "Google AI"
       ]
     }
   ],

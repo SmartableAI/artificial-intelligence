@@ -99,6 +99,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Olive's AI Workforce to Revolutionize COVID-19 Testing at Tufts Medical Center"
+    excerpt: "Olive announced today that it has entered into an agreement to leverage its AI workforce technology to streamline COVID-19 testing operations at Tufts"
+    publishedDateTime: 2020-09-29T13:49:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/olives-ai-workforce-to-revolutionize-covid-19-testing-at-tufts-medical-center/article_3650e02e-f8e2-54e4-896b-12c306e10a05.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 33
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/bc/1bcafd02-270b-518b-b8f7-346d623f0f45/5f7334f027ff7.image.jpg?resize=400%2C210"
+        width: 400
+        height: 210
+        isCached: true
   - title: "COVID-19 Recovery Analysis: Artificial Intelligence Platforms Market | Rise In Demand For AI-based Solutions to boost the Market Growth | Technavio"
     excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence Platforms Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--Technavio has been monitoring the artificial intelligence platforms market and it is poised to grow by $ 12."
     publishedDateTime: 2020-09-25T21:39:00Z

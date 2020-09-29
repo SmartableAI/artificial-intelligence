@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/moving-from-notebook
 webUrl: "https://aws.amazon.com/blogs/machine-learning/moving-from-notebooks-to-automated-ml-pipelines-using-amazon-sagemaker-and-aws-glue/"
 type: article
 quality: 115
-heat: 145
+heat: 135
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/11/1-Graphic.jpg"
         width: 900
         height: 517
-        isCached: true
-  - title: "Streamline modeling with Amazon SageMaker Studio and the Amazon Experiments SDK"
-    excerpt: "The modeling phase is a highly iterative process in machine learning (ML) projects, where data scientists experiment with various data preprocessing and feature engineering strategies, intertwined with different model architectures, which are then trained with disparate sets of hyperparameter values."
-    publishedDateTime: 2020-09-24T20:02:24Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/streamline-modeling-with-amazon-sagemaker-studio-and-amazon-experiments-sdk/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 85
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
-        width: 1260
-        height: 630
         isCached: true
   - title: "Data visualization and anomaly detection using Amazon Athena and Pandas from Amazon SageMaker"
     excerpt: "Many organizations use Amazon SageMaker for their machine learning (ML) requirements and source data from a data lake stored on Amazon Simple Storage Service (Amazon S3). The petabyte scale source data on Amazon S3 may not always be clean because data lakes ingest data from several source systems, such"

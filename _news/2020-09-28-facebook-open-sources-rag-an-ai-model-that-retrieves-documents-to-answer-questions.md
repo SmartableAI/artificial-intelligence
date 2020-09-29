@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/28/facebook-open-sources-rag-an-ai-m
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/28/facebook-open-sources-rag-an-ai-model-that-retrieves-documents-to-answer-questions/amp/"
 type: article
 quality: 83
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook’s Dynabench tool fools neural networks to advance AI research"
-    excerpt: "The goal is to create a “virtuous cycle of progress in AI research.” as Facebook’s Kiela and Williams put it. Having a more reliable tool for assessing model accuracy could benefit not only ..."
-    publishedDateTime: 2020-09-24T19:03:00Z
-    webUrl: "https://siliconangle.com/2020/09/24/facebooks-dynabench-tool-fools-neural-networks-advance-ai-research/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 58
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/facebook-2.png"
-        width: 718
-        height: 400
-        isCached: true
   - title: "New Facebook software creates smarter natural language processing models"
     excerpt: "Facebook Inc. has designed a new artificial intelligence framework it says can create more intelligent natural language processing models that generate accurate answers to questions without being constantly retrained."
     publishedDateTime: 2020-09-28T15:18:00Z

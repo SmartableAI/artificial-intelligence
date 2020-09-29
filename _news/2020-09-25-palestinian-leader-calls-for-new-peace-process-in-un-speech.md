@@ -1,30 +1,28 @@
 ---
 category: news
-title: "Palestinian leader calls for new peace process in UN speech"
-excerpt: "Palestinian President Mahmoud Abbas has called for an international conference early next year to launch a \"genuine peace process.”"
-publishedDateTime: 2020-09-25T15:43:00Z
-originalUrl: "https://abcnews.go.com/International/wireStory/palestinian-leader-calls-peace-process-speech-73242966"
-webUrl: "https://abcnews.go.com/International/wireStory/palestinian-leader-calls-peace-process-speech-73242966"
-ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/palestinian-leader-calls-peace-process-speech-73242966"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/palestinian-leader-calls-peace-process-speech-73242966"
+title: "Palestinian Leader Calls for New Peace Process in UN Speech"
+excerpt: "Palestinian President Mahmoud Abbas has called for an international conference early next year to launch a \"genuine peace process.”."
+publishedDateTime: 2020-09-25T15:46:00Z
+originalUrl: "https://www.usnews.com/news/world/articles/2020-09-25/palestinian-leader-calls-for-new-peace-process-in-un-speech"
+webUrl: "https://www.usnews.com/news/world/articles/2020-09-25/palestinian-leader-calls-for-new-peace-process-in-un-speech"
+ampWebUrl: "https://www.usnews.com/news/world/articles/2020-09-25/palestinian-leader-calls-for-new-peace-process-in-un-speech?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-09-25/palestinian-leader-calls-for-new-peace-process-in-un-speech?context=amp"
 type: article
-quality: 44
-heat: 44
+quality: 54
+heat: 64
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://s.abcnews.com/images/International/WireAP_dc953cda8c164be68954efa57304a11b_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Palestinian leader calls for new peace process in UN speech"
@@ -43,21 +41,7 @@ related:
         width: 375
         height: 211
         isCached: true
-  - title: "Facebook accused of censoring Palestinians under pretext of fighting hate speech"
-    excerpt: "\"Though there is international recognition that Palestinians' right to free speech online is under attack through restrictions and limitations, there have not been actions taken to lessen these,\" wrote Alysia Grapek, the author of the report, \"Facebook ..."
-    publishedDateTime: 2020-09-24T19:15:00Z
-    webUrl: "https://www.middleeasteye.net/news/facebook-palestine-censorship-anti-semitism-guidelines"
-    type: article
-    provider:
-      name: Middle East Eye
-      domain: middleeasteye.net
-    quality: 19
-    images:
-      - url: "http://www.middleeasteye.net/sites/default/files/images-story/facebook-logo-afp.jpg"
-        width: 1024
-        height: 682
-        isCached: true
 
-secured: "N6Ais2LpmjIEgA2Q7TCRZGCLatAuQRrsg6stEQjhS/r8i3N/LGSDjaB+xVuwsSgHqo/tXnZOI67BEYa50BGdSiPgtXhNQHKlEioNk1ei7lEW3IOuEAaVhBmaEjoNehtoiPiir3JmZ2LX42lOy8SbTI/Lj6fhIXDuKnORJjP5lSN83voOJ+cm1FRpKLNto4EnHbGtVxOLyqs9/VBmm0MTNMpOueJy9qW8n272Zta1f3q7JmNoxVNdbU9zinBfJ7KF24spvIlIt6RVEboaAoUTUYWPqa7wvPG2r6kE3iI17I16MLhzVfPxRRT/0NMEux+blOfyqQb7sXJzHeGyVnanGZCB2uiqC3khFEzA9hhj0bQ=;n3wSEUwFa9j/S4x3fU9f1w=="
+secured: "qb5bWq9RNi/aDNuUEMx6K8bQX/IK0H3FKLGZFLNsRIZGLygV26xvzKB5wvQFNps7huULALeJI3AfTl9souO/5xJCwVPgXu9WK1bRWDRQYFtgB+LU1CJOOgci2miA5YBxYvVUMxaopoKc5VAB0eNs1kBGyKmI9zsZLf/nTjTZT1HpfcHeazSAF3HUpo98bTvw5fj8WkJvXnuIyzEzJC2JUgy4xUqF5Hj4fv26HanswJ27Z0OyzWH3vdDNN62/I0E30pzw6cGpqF5FtTvPQwvmv3nGzVcsedZ9dIW24d7+dGEwyK9YJU0ZoD+uovoGTTRbzJJD1XHIBZvaGPe9bh5UhMrg84fg704fLiOE0co0KYWxehYMEmRWFfNFvORUI8tItI9v9RGCeHzf4R92JZo5H9Chf/fSIuGmXSqXLeOheDXvB/+iOxgCos+AGbriulmUvN4fMbSfGvDpzMFLVcln46EHsHySTqbdccNUlaUIzB3s31giHvyHPmpdiFYM3c2d4CnRZxJgaAmd/FyFYDr1pg==;THENjPTeT+bE30zw7BYBlQ=="
 ---
 

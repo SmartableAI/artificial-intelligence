@@ -27,36 +27,17 @@ images:
     isCached: true
 
 related:
-  - title: "Palestinian leader calls for new peace process in UN speech"
-    excerpt: "Palestinian President Mahmoud Abbas has called for an international conference early next year to launch a \"genuine peace process.”"
-    publishedDateTime: 2020-09-25T15:43:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/palestinian-leader-calls-peace-process-speech-73242966"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/palestinian-leader-calls-peace-process-speech-73242966"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/palestinian-leader-calls-peace-process-speech-73242966"
+  - title: "Palestinian Leader Calls for New Peace Process in UN Speech"
+    excerpt: "Palestinian President Mahmoud Abbas has called for an international conference early next year to launch a \"genuine peace process.”."
+    publishedDateTime: 2020-09-25T15:46:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2020-09-25/palestinian-leader-calls-for-new-peace-process-in-un-speech"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-09-25/palestinian-leader-calls-for-new-peace-process-in-un-speech?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-09-25/palestinian-leader-calls-for-new-peace-process-in-un-speech?context=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 44
-    images:
-      - url: "https://s.abcnews.com/images/International/WireAP_dc953cda8c164be68954efa57304a11b_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Facebook accused of censoring Palestinians under pretext of fighting hate speech"
-    excerpt: "\"Though there is international recognition that Palestinians' right to free speech online is under attack through restrictions and limitations, there have not been actions taken to lessen these,\" wrote Alysia Grapek, the author of the report, \"Facebook ..."
-    publishedDateTime: 2020-09-24T19:15:00Z
-    webUrl: "https://www.middleeasteye.net/news/facebook-palestine-censorship-anti-semitism-guidelines"
-    type: article
-    provider:
-      name: Middle East Eye
-      domain: middleeasteye.net
-    quality: 19
-    images:
-      - url: "http://www.middleeasteye.net/sites/default/files/images-story/facebook-logo-afp.jpg"
-        width: 1024
-        height: 682
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 54
 
 secured: "DQ77q0z6H9YHKHSnp0IgqPTFpVuckP4TlpYGSqK+alG4pzi63Cx+Oery8bQ5RP2OXTo/KW0wkxZG5GrEjh/O9t4EKeOlX30q3RJ/e82jtKpDUWxNjuZqlDjboO7XzXSm7VdUOulbnxuIYeg2Dy9ifq/N9jyJd9vAQgf91z0oQccBJF8ltxUgU9q8KRl/J76LEi8CZHzgYqPhQToXf07K2EoKu9WUk0H3kep64StH3fdcISEazVbSvbp9Tzd1LBdzJPzWoo4b6zaRqXx1RgGV0JSumgyoBFU1M4wUtXbwbKAortIp6iW+1oxqCsGFbTOYsNWvBrGEi4BLbUUPuebGO9vyR/bBeVioVJ7AsH9gSRg=;Lw+iUfsYk8pKKfmexcH8Aw=="
 ---

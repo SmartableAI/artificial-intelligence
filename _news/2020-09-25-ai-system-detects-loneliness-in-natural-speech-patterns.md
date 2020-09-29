@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/health-wellbeing/ai-loneliness-natural-speech-l
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/health-wellbeing/ai-loneliness-natural-speech-language/?amp=true"
 type: article
 quality: 89
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -174,20 +174,6 @@ related:
       - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
         width: 620
         height: 480
-        isCached: true
-  - title: "Talking alone: Researchers use artificial intelligence tools to predict loneliness"
-    excerpt: "A team led by researchers at University of California San Diego School of Medicine has used artificial intelligence technologies to analyze natural language patterns to discern degrees of loneliness in older adults."
-    publishedDateTime: 2020-09-24T19:33:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-09/uoc--tar092420.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 33
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/244031_web.jpg"
-        width: 450
-        height: 675
         isCached: true
 
 secured: "ziWykDLE3POrXjLXFsC7EuPnl4csYhmIuF7Xoz8K/r914H+/XVH27khI7yI3bucsnpRRv8bqAhPCqQEhBnQ7GkP4Uy05tMFAsoS+Gh6+g3TBnjO+sVQG5MZo5K8iiOGCavAhl6lgVhxHJf1aOVR3U/MCnG62xaL9vgX4Kz0fEbKk0fFT4hAIpnOdd9hAqueYVZt99KrNE/ufQCom9nCzE/AAiJeZeJed7fWcbpPuIe2b93IsReR7gc72A0tZriXgTGo3b5k4vx7Msc3xCfSEc5wyCeJ0RzJrCIns5t9iV7+jhcbxuQq064mmpha38jxX67a5fgEwYPFHGcjeH30Y+5ZMylnlZya0pjz7eNvUCQVmZogPbGbCKMQBs3GIVli61WVxTh8LQPhx2IdD6Ou61dSJsE1FqeZ/dX70zlw2jD/Obn73kzp2feheNd7+YlxGyKrg8gBq9RmveSCJ5GHuvzquIYU3IfTz997e7P3+0d/7iVPaJpWd3CqK7UZKqkj8kH4fs572IlI0U3FuhslGfQ==;Y/tIqhqm3Z8caYG4kO8MGQ=="

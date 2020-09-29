@@ -2,6 +2,485 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-27-ai-is-increasingly-being-designed-to-apologize-but-self-driving-cars-are-not-hip-to-the-idea.md",
+      "title": "AI Is Increasingly Being Designed To Apologize, But Self-Driving Cars Are Not Hip To The Idea",
+      "excerpt": "AI is increasingly offering apologies, but does this make sense. getty. They say that love means never having to say that you are sorry. When does it make sense though to proffer",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingly-being-designed-to-apologize-but-self-driving-cars-are-not-hip-to-the-idea/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingly-being-designed-to-apologize-but-self-driving-cars-are-not-hip-to-the-idea/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a971bf92664bddd8e6ca2%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingly-being-designed-to-apologize-but-self-driving-cars-are-not-hip-to-the-idea/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingly-being-designed-to-apologize-but-self-driving-cars-are-not-hip-to-the-idea/amp/",
+      "publishedDateTime": "2020-09-27T09:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-09-27-us-uk-announce-ai-partnership-axios.md",
+      "title": "U.S., UK announce AI partnership: Axios",
+      "excerpt": "The Trump administration is set to announce that the United States and the United Kingdom have signed a new agreement to cooperate on research and development on artificial intelligence, Axios reported  on Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/us-uk-announce-ai-partnership-axios-2020-9",
+      "originalUrl": "https://www.businessinsider.com/us-uk-announce-ai-partnership-axios-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/us-uk-announce-ai-partnership-axios-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-uk-announce-ai-partnership-axios-2020-9?amp",
+      "publishedDateTime": "2020-09-27T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-27-5-microsoft-teams-upgrades-that-take-it-deeper-into-the-workplace.md",
+      "title": "5 Microsoft Teams Upgrades That Take It Deeper Into the Workplace",
+      "excerpt": "With Redmond, Wash.-based Microsoft’s reach in the digital workplace as far as it is it is now, its annual Ignite conference is always a high point in the digital workplace calendar in terms of new releases and developments.",
+      "sourceUrl": null,
+      "webUrl": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/5-new-ways-to-boost-productivity-with-enhanced-teams-power/ba-p/1680697",
+      "originalUrl": "https://www.cmswire.com/collaboration-productivity/5-microsoft-teams-upgrades-that-takes-it-deeper-into-the-workplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 269,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcommunity.microsoft.com/t5/image/serverpage/image-id/220823i97F191E801AC4FFC?v=1.0",
+          "width": 1597,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-27T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-27-can-tesla-really-produce-a-25000-self-driving-electric-car.md",
+      "title": "Can Tesla Really Produce A $25,000 Self-Driving Electric Car?",
+      "excerpt": "During Tuesday’s much-hyped battery day, Tesla CEO Elon Musk laid out plans to put everyone behind the wheel (or is that sleeping in the",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692",
+      "publishedDateTime": "2020-09-26T15:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-27-singapore-to-become-first-to-use-facial-recognition-in-national-identity-scheme.md",
+      "title": "Singapore to become first to use facial recognition in national identity scheme",
+      "excerpt": "Singapore will be the first country in the world to use facial recognition as part of its national identity scheme. This new technology will",
+      "sourceUrl": null,
+      "webUrl": "https://www.buzz.ie/news/singapore-facial-recognition-in-national-identity-scheme-390534",
+      "originalUrl": "https://www.buzz.ie/news/singapore-facial-recognition-in-national-identity-scheme-390534",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.resized.co/buzz_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLmJ1enouaWVcXFwvdXBsb2Fkc1xcXC8yMDIwXFxcLzA5XFxcLzI2MTkyMjM2XFxcL1BBLTU1Mzg0OTQ2LTEwMjR4NjgzLmpwZ1wiLFwid2lkdGhcIjo2NDcsXCJoZWlnaHRcIjozNDAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5idXp6LmllXFxcL2lcXFwvbm8taW1hZ2UucG5nXCJ9IiwiaGFzaCI6IjI3NjRmYThhZjlhNWIyOWM5MGI5ZDc1ZmQyYTc4NzY5ZTIxN2I1YjIifQ==/pa-55384946-1024x683.jpg",
+          "width": 647,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.buzz.ie/amp/news/singapore-facial-recognition-in-national-identity-scheme-390534",
+      "cdnAmpWebUrl": "https://www-buzz-ie.cdn.ampproject.org/c/s/www.buzz.ie/amp/news/singapore-facial-recognition-in-national-identity-scheme-390534",
+      "publishedDateTime": "2020-09-26T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "buzz.ie",
+        "domain": "buzz.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-27-the-last-of-us-part-ii-voice-actor-breaks-new-ground-with-twitchs-artificial.md",
+      "title": "The Last of Us Part II voice actor breaks new ground with Twitch’s Artificial",
+      "excerpt": "It’s a remotely produced sci-fi series that deals with the boundaries of humanity and artificial intelligence ... probably going to happen someday. A robot is going to kill someone, and who ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/26/the-last-of-us-part-ii-voice-actor-breaks-new-ground-with-twitchs-artificial/",
+      "originalUrl": "https://venturebeat.com/2020/09/26/the-last-of-us-part-ii-voice-actor-breaks-new-ground-with-twitchs-artificial/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/06/The-Last-of-Us-2-E3-2018-02.jpg?w=1200&#038;strip=all",
+          "width": 1157,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/26/the-last-of-us-part-ii-voice-actor-breaks-new-ground-with-twitchs-artificial/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/26/the-last-of-us-part-ii-voice-actor-breaks-new-ground-with-twitchs-artificial/amp/",
+      "publishedDateTime": "2020-09-26T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-26-madurai-police-launches-facial-recognition-app-to-reduce-crime-rate.md",
+      "title": "Madurai Police Launches Facial Recognition App To Reduce Crime Rate",
+      "excerpt": "To reduce robberies and other crimes, the Madurai city police has introduced the FACETAGR app, a technology-enabled web-based processor, which matches the facial features of a suspect with the data stored in a database.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/tamil-nadu-news/madurai-police-launches-facial-recognition-app-facetagr-to-reduce-crime-rate-2301538",
+      "originalUrl": "https://www.ndtv.com/tamil-nadu-news/madurai-police-launches-facial-recognition-app-facetagr-to-reduce-crime-rate-2301538",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2019-05/ituc17b_cctv-generic_625x300_29_May_19.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/tamil-nadu-news/madurai-police-launches-facial-recognition-app-facetagr-to-reduce-crime-rate-2301538?amp=1&akamai-rum=off",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/tamil-nadu-news/madurai-police-launches-facial-recognition-app-facetagr-to-reduce-crime-rate-2301538?amp=1&akamai-rum=off",
+      "publishedDateTime": "2020-09-26T09:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-26-iiit-sri-city-adds-mtech-programme-in-ai-machine-learning.md",
+      "title": "IIIT Sri City adds MTech Programme in AI & Machine Learning",
+      "excerpt": "IBM inaugurated the new MTech Programme in AI & ML at IIIT Sri City. She congratulated IIIT Sri City for pioneering the effort to produce",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/news/education/iiit-sri-city-adds-mtech-programme-in-ai-machine-learning/article32702623.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/news/education/iiit-sri-city-adds-mtech-programme-in-ai-machine-learning/article32702623.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/news/national/ukl1r2/article32452998.ece/ALTERNATES/LANDSCAPE_615/bl28-machine-learning",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/news/education/iiit-sri-city-adds-mtech-programme-in-ai-machine-learning/article32702623.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/education/iiit-sri-city-adds-mtech-programme-in-ai-machine-learning/article32702623.ece/amp/",
+      "publishedDateTime": "2020-09-26T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-26-brazilian-man-gets-his-nose-removed-to-look-like-the-human-satan.md",
+      "title": "Brazilian Man Gets His Nose Removed to Look Like the 'Human Satan'",
+      "excerpt": "According to Psychiatryonline.org, there are evidence to correlate extreme body modifications with identity and self. Like us on Facebook to see similar stories",
+      "sourceUrl": null,
+      "webUrl": "https://ajp.psychiatryonline.org/action/cookieAbsent",
+      "originalUrl": "https://www.msn.com/en-in/news/offbeat/brazilian-man-gets-his-nose-removed-to-look-like-the-human-satan/ar-BB19r8hT",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-26T00:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "psychiatryonline.org/action/cookieabsent",
+        "domain": "psychiatryonline.org/action/cookieabsent",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-26-study-mri-with-machine-learning-reveals-brain-changes-from-ptsd.md",
+      "title": "Study: MRI with machine learning reveals brain changes from PTSD",
+      "excerpt": "A new machine learning approach added to conventional magnetic resonance imaging can identify the regions of the brain causing dissociative symptoms in people with post-traumatic stress disorder, researchers found.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Health_News/2020/09/25/Study-MRI-with-machine-learning-reveals-brain-changes-from-PTSD/2911601057266/",
+      "originalUrl": "https://www.upi.com/Health_News/2020/09/25/Study-MRI-with-machine-learning-reveals-brain-changes-from-PTSD/2911601057266/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/i/2911601057266/2020/1/16010604892035/v1.5/Study-MRI-with-machine-learning-reveals-brain-changes-from-PTSD.jpg",
+          "width": 544,
+          "height": 365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Health_News/2020/09/25/Study-MRI-with-machine-learning-reveals-brain-changes-from-PTSD/2911601057266/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2020/09/25/Study-MRI-with-machine-learning-reveals-brain-changes-from-PTSD/2911601057266/",
+      "publishedDateTime": "2020-09-25T22:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-26-perspecta-labs-to-conduct-critical-research-for-machine-learning-and-artificial-intelligence-security.md",
+      "title": "Perspecta Labs to conduct critical research for machine learning and artificial intelligence security",
+      "excerpt": "PRNewswire/ -- Perspecta Inc. (NYSE: PRSP), announced today that its innovative applied research arm, Perspecta Labs, received an award from the Intelligence Advanced Research Projects Activity (IARPA) to provide research on the Trojans in Artificial Intelligence (TrojAI) program.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/perspecta-labs-to-conduct-critical-research-for-machine-learning-and-artificial-intelligence-security-2020-09-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/perspecta-labs-to-conduct-critical-research-for-machine-learning-and-artificial-intelligence-security-2020-09-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-25T21:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-26-ai-weekly-amazon-went-wide-with-alexa-now-its-going-deep.md",
       "title": "AI Weekly: Amazon went wide with Alexa; now it’s going deep",
       "excerpt": "Last year, Amazon baked its virtual assistant into any household device that could accommodate a chip. Its list of new ... imbuing it with AI to make it more human-like. This includes picking ...",
@@ -10,7 +489,7 @@
       "originalUrl": "https://venturebeat.com/2020/09/25/ai-weekly-amazon-went-wide-with-alexa-now-its-going-deep/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -113,7 +592,7 @@
       "originalUrl": "https://techcrunch.com/2020/09/25/4-things-to-remember-when-adapting-ai-ml-learning-models-during-a-pandemic/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -684,538 +1163,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-ai-system-detects-loneliness-in-natural-speech-patterns.md",
-      "title": "AI system detects loneliness in natural speech patterns",
-      "excerpt": "A new proof of concept study, led by researchers at University of California San Diego School of Medicine, has demonstrated how speech-analyzing artificial intelligence tools can effectively predict the level of loneliness in older adults.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/health-wellbeing/ai-loneliness-natural-speech-language/",
-      "originalUrl": "https://newatlas.com/health-wellbeing/ai-loneliness-natural-speech-language/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/78f4ee9/2147483647/strip/true/crop/2000x1333+0+4/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fc1%2F6c%2F6dec48c041d6aa9d714bfb5dfa8a%2Fdepositphotos-59728757-l-2015.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/health-wellbeing/ai-loneliness-natural-speech-language/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/health-wellbeing/ai-loneliness-natural-speech-language/?amp=true",
-      "publishedDateTime": "2020-09-24T19:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-researchers-demonstrate-the-utility-of-ai-in-identifying-neural-degeneration.md",
-      "title": "Researchers demonstrate the utility of AI in identifying neural degeneration",
-      "excerpt": "Researchers from North Carolina State University have demonstrated the utility of artificial intelligence (AI) in identifying and categorizing neural degeneration in the model organism C. elegans. The tool uses deep learning,",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20200924/Researchers-demonstrate-the-utility-of-AI-in-identifying-neural-degeneration.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20200924/Researchers-demonstrate-the-utility-of-AI-in-identifying-neural-degeneration.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200924/Researchers-demonstrate-the-utility-of-AI-in-identifying-neural-degeneration.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200924/Researchers-demonstrate-the-utility-of-AI-in-identifying-neural-degeneration.aspx",
-      "publishedDateTime": "2020-09-24T18:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.md",
-      "title": "Microsoft Ignite showcases first Project Cortex AI tool for SharePoint",
-      "excerpt": "Civil engineering firm Mott McDonald has been testing SharePoint Syntex, the first product to come out of Microsoft’s Project Cortex proving ground for AI-based content management tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.html",
-      "originalUrl": "https://www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/09/multiple-exposure_profile_with_gears_overlaying_and_representing_the_brain_thought_intelligence_brainstorming_strategy_by_metamorworks_gettyimages-994767724_2400x1600-100858219-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.amp.html",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.amp.html",
-      "publishedDateTime": "2020-09-24T18:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-monash-university-researchers-speed-up-epilepsy-diagnosis-with-machine-learning.md",
-      "title": "Monash University researchers speed up epilepsy diagnosis with machine learning",
-      "excerpt": "A new study by Monash University, together with Alfred Health and The Royal Melbourne Hospital, has uncovered how machine learning technology could be used to automate epilepsy diagnosis. As part of the study,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/monash-university-researchers-speed-up-epilepsy-diagnosis-with-machine-learning/",
-      "originalUrl": "https://www.zdnet.com/article/monash-university-researchers-speed-up-epilepsy-diagnosis-with-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/monash-university-researchers-speed-up-epilepsy-diagnosis-with-machine-learning/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/monash-university-researchers-speed-up-epilepsy-diagnosis-with-machine-learning/",
-      "publishedDateTime": "2020-09-24T17:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-spectrum-labs-raises-10m-for-its-ai-based-platform-to-combat-online-toxicity.md",
-      "title": "Spectrum Labs raises $10M for its AI-based platform to combat online toxicity",
-      "excerpt": "With the U.S. presidential election now 40 days away, all eyes are focused on how online conversations, in conjunction with other hallmarks of online life like viral videos, news clips and misleading ads,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/24/spectrum-labs-raises-10m-for-its-ai-based-platform-to-combat-online-toxicity/",
-      "originalUrl": "https://techcrunch.com/2020/09/24/spectrum-labs-raises-10m-for-its-ai-based-platform-to-combat-online-toxicity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1050765184.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/24/spectrum-labs-raises-10m-for-its-ai-based-platform-to-combat-online-toxicity/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/24/spectrum-labs-raises-10m-for-its-ai-based-platform-to-combat-online-toxicity/amp/",
-      "publishedDateTime": "2020-09-24T17:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-improved-ocr-and-structured-data-extraction-with-amazon-textract.md",
-      "title": "Improved OCR and structured data extraction with Amazon Textract",
-      "excerpt": "Optical character recognition (OCR) technology, which enables extracting text from an image, has been around since the mid-20th century, and continues to be a research topic today. OCR and document understanding are still vibrant areas of research because they’re both valuable and hard problems to solve.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improved-ocr-and-structured-data-extraction-with-amazon-textract/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improved-ocr-and-structured-data-extraction-with-amazon-textract/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-24T15:52:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-lapd-officers-reportedly-used-facial-recognition-30000-times-in-the-past-decade-contradicting-the-departments-previous-denials.md",
-      "title": "LAPD officers reportedly used facial recognition 30,000 times in the past decade, contradicting the department's previous denials",
-      "excerpt": "Despite frequent denials and refusals to respond to public records requests, the LAPD has been using the controversial technology widely since 2009.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/lapd-used-facial-recognition-tech-30000-times-despite-denials-2020-9",
-      "originalUrl": "https://www.businessinsider.com/lapd-used-facial-recognition-tech-30000-times-despite-denials-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f697d0e57b7da001ee12f99?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/lapd-used-facial-recognition-tech-30000-times-despite-denials-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lapd-used-facial-recognition-tech-30000-times-despite-denials-2020-9?amp",
-      "publishedDateTime": "2020-09-24T15:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-breonna-taylor-case-sparks-amazon-web-services-ceo-to-call-for-police-culture-change.md",
-      "title": "Breonna Taylor case sparks Amazon Web Services CEO to call for police ‘culture change’",
-      "excerpt": "Amazon Web Services CEO Andy Jassy, who has been at the center of the debate over the use of Amazon technology by law enforcement, has weighed in on the culture of policing in the wake of the",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/breonna-taylor-case-sparks-amazon-web-services-ceo-tweet-need-police-culture-change/",
-      "originalUrl": "https://www.geekwire.com/2020/breonna-taylor-case-sparks-amazon-web-services-ceo-tweet-need-police-culture-change/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/12/AJ%402x-630x467.png",
-          "width": 630,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/breonna-taylor-case-sparks-amazon-web-services-ceo-tweet-need-police-culture-change/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/breonna-taylor-case-sparks-amazon-web-services-ceo-tweet-need-police-culture-change/amp/",
-      "publishedDateTime": "2020-09-24T14:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-how-to-lead-plan-and-forecast-revenue-in-wartime-with-ai.md",
-      "title": "How To Lead, Plan And Forecast Revenue In Wartime With AI",
-      "excerpt": "Alyssa Filter, CFO of the sales forecasting platform Clari, a revenue operations platform used by such companies as Zoom, Okta, Lenovo and Adobe, shares advice in an interview on how she is helping lead the company through this crisis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lucianapaulise/2020/09/23/how-to-lead-plan-and-forecast-revenue-in-wartime-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/lucianapaulise/2020/09/23/how-to-lead-plan-and-forecast-revenue-in-wartime-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6b8b35a5b58517abba8d96%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1390%26cropY1%3D342%26cropY2%3D1124",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lucianapaulise/2020/09/23/how-to-lead-plan-and-forecast-revenue-in-wartime-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lucianapaulise/2020/09/23/how-to-lead-plan-and-forecast-revenue-in-wartime-with-ai/amp/",
-      "publishedDateTime": "2020-09-24T14:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-swedens-ericsson-telia-present-self-driving-bus-ahead-of-5g-spectrum-auction.md",
-      "title": "Sweden's Ericsson, Telia present self-driving bus ahead of 5G spectrum auction",
-      "excerpt": "Telecoms gear maker Ericsson and mobile operator Telia on Thursday showcased a self-driving, electric bus in Stockholm as the companies look at new business areas ahead of mass deployment of 5G technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/ericsson-autonomous/swedens-ericsson-telia-present-self-driving-bus-ahead-of-5g-spectrum-auction-idUSL5N2GL30G",
-      "originalUrl": "https://www.reuters.com/article/ericsson-autonomous/swedens-ericsson-telia-present-self-driving-bus-ahead-of-5g-spectrum-auction-idUSL5N2GL30G",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200924&t=2&i=1534799334&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8N1NF",
-          "width": 726,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL5N2GL30G",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL5N2GL30G",
-      "publishedDateTime": "2020-09-24T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-gpt-3s-bigotry-is-exactly-why-devs-shouldnt-use-the-internet-to-train-ai.md",
-      "title": "GPT-3’s bigotry is exactly why devs shouldn’t use the internet to train AI",
-      "excerpt": "Yeah, but your scientists were so preoccupied with whether or not they could, they didn’t stop to think if they should.” – Dr. Ian Malcolm, fictional character, Jurassic Park. It turns out that a $1 billion investment from Microsoft and unfettered access to a supercomputer wasn’t enough to keep OpenAI’s GPT-3 from being just as bigoted as",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/09/24/gpt-3s-bigotry-is-exactly-why-devs-shouldnt-use-the-internet-to-train-ai/",
-      "originalUrl": "https://thenextweb.com/neural/2020/09/24/gpt-3s-bigotry-is-exactly-why-devs-shouldnt-use-the-internet-to-train-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/racistAIfeat-796x403.jpg",
-          "width": 796,
-          "height": 403,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/09/24/gpt-3s-bigotry-is-exactly-why-devs-shouldnt-use-the-internet-to-train-ai/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/24/gpt-3s-bigotry-is-exactly-why-devs-shouldnt-use-the-internet-to-train-ai/amp/",
-      "publishedDateTime": "2020-09-24T13:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

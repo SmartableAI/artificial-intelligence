@@ -28,9 +28,9 @@ related:
   - title: "Microsoft Azure for Operators is a cloud platform for telcos"
     excerpt: "Microsoft’s push into the telecoms market continues with the launch of a dedicated suite of cloud services called ‘Azure for Operators’, hoping to capitalise on increased demand from telcos in the 5G era."
     publishedDateTime: 2020-09-29T10:58:00Z
-    webUrl: "https://www.techradar.com/in/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos"
-    ampWebUrl: "https://www.techradar.com/in/amp/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos"
+    webUrl: "https://www.techradar.com/au/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos"
+    ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos"
     type: article
     provider:
       name: TechRadar

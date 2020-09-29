@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-15-nvidias-arm-deal-would-make-it-the-center-of-the-chip-world.md",
+      "title": "Nvidia's Arm Deal Would Make It the Center of the Chip World",
+      "excerpt": "Combining the two chipmakers would unite leaders in two big tech trends—artificial intelligence and mobile computing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/nvidias-arm-deal-make-center-chip-world/",
+      "originalUrl": "https://www.wired.com/story/nvidias-arm-deal-make-center-chip-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f5fc3481bae274a0ebce9dd/master/pass/business_nvidia_1177538064.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/nvidias-arm-deal-make-center-chip-world/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/nvidias-arm-deal-make-center-chip-world/amp",
+      "publishedDateTime": "2020-09-14T15:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-4-interesting-things-nvidia-just-shared-about-its-plans-for-arm.md",
       "title": "4 Interesting Things Nvidia Just Shared About its Plans for ARM",
       "excerpt": "1. Bringing Nvidia’s GPU and AI IP to ARM-Powered Chips Is a Top Priority On multiple occasions, Huang emphasized that Nvidia sees a large opportunity to license its GPU, AI co-processor and ...",
@@ -1328,57 +1379,6 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-global-edge-artificial-intelligence-ai-chip-market-2020-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2025.md",
-      "title": "Global Edge Artificial Intelligence (AI) Chip Market 2020 Research Analysis on Competitive landscape and Key Vendors, Forecast by 2025",
-      "excerpt": "MarketsandResearch.biz has published a new report titled, Global Edge Artificial Intelligence (AI) Chip Market",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2020-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2025-2020-09-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2020-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2025-2020-09-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-07T13:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

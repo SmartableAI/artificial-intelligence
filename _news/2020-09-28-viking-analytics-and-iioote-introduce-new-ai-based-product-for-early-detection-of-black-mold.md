@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "KenSci Launches AI Platform for Digital Health to Accelerate AI and Analytics Enabled Healthcare"
+    excerpt: "KenSci's AI platform for digital health helps health teams build data-rich use-cases and innovate in a secure data pipeline within their own Azure environments.\" said Heather Cartwright, General Manager, Microsoft Health. KenSci's existing customers have ..."
+    publishedDateTime: 2020-09-29T12:25:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/kensci-launches-ai-platform-for-digital-health-to-accelerate-ai-and-analytics-enabled-healthcare-301139612.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 43
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "AGL transforms advanced analytics to run on central Azure platform"
     excerpt: "AGL has rebuilt its analytics capabilities to run off a central platform powered by Azure services instead of running projects from standalone virtual machines and laptops. The new platform went live in mid-2020,"
     publishedDateTime: 2020-09-27T20:54:00Z
@@ -37,6 +51,20 @@ related:
       - url: "https://i.nextmedia.com.au/News/20200924104634_AGL.png"
         width: 2584
         height: 1476
+        isCached: true
+  - title: "Artificial Intelligence Platform Enables Data Analytics for Research"
+    excerpt: "A new data analytics tool uses artificial intelligence to facilitate large-scale, data-driven biomedical research."
+    publishedDateTime: 2020-09-29T13:38:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-platform-enables-data-analytics-for-research"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/image_%281%29.png"
+        width: 690
+        height: 400
         isCached: true
 
 secured: "gEEN/VPCXVe+TkmP/LM7jK3k+JiMQ09KejdbQwwtGVPl7WZb4G7yZ+vKb7PlIZehluKTJKxgbzrw1Z2oiUOlM6fFfg/pgE0ZB5Y3NVacWGnQf4LRZIVvIK7+4NTIkWh788Ut7LyliLc9r2UNKpo0bqSEz3Ll4MulI61bb0BIBNdceFmKb/Je/Asyojd7afC5EvNMQ8zEQYj/sA2v4oij6IU15o+ZD+7b/uhIqIliVCFldGGF3MvAIOu2L1hl1F9Z7iIQ4V3J8bSZexbF1T3WJF0uqHa7WTQ6h8tKX/6N+1Qb5aXI5aAPDHDg6B6dxLpCkHfnFeY2mUHx129kEkhRfA86e+fYAGbi5gHfDXv8gU4=;Me0dy5V5cYmgtlP4ZSjj3g=="
