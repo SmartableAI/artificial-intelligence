@@ -41,6 +41,22 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "Int'l project combats online antisemitism through artificial intelligence"
+    excerpt: "Studies have shown that the majority of antisemitic defamation is expressed in implicit ways – through the use of codes and allusions to certain conspiracy narratives through images."
+    publishedDateTime: 2020-09-29T18:24:00Z
+    webUrl: "https://www.jpost.com/diaspora/antisemitism/intl-project-combats-online-antisemitism-through-artificial-intelligence-643886"
+    ampWebUrl: "https://m.jpost.com/diaspora/antisemitism/intl-project-combats-online-antisemitism-through-artificial-intelligence-643886/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/diaspora/antisemitism/intl-project-combats-online-antisemitism-through-artificial-intelligence-643886/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 56
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/462910"
+        width: 640
+        height: 428
+        isCached: true
 
 secured: "pyK9VE4vd0pLEGiRsIQsIhSEpZVe0mt2zjY+1y8/j5FL8mrpwSf9bKZa9dEjnPlTQhs5D/PMWh0DahO7XU1oRsAByD3rjHiNvnrW1AUUbwA2K8SNVGyVUY7ox+FSRSkclyx+vjw+TN3WgiMhCkfyk/apohHp7a4NuoSZTrQYJB9vkb+TENZ4lpHcF4w+Nvwqo7SEuNvIJudkXQcl3XIOo7CAcoNwUJO+dltHoDTRiS9nAqv8LB5Ufj4vLReWUuSoDAGF3mPFtE1LX2z80Qk3mJQy1GsAA+pNHAWLVROSAw7WHyJQCbogMF1rW8auFmBEqLA6jUmWa2xZtofLwxTqzEGMjpM2JNn63Nwl/KJeviA=;0Y1xTQWoHFMk22uM1fhC0Q=="
 ---

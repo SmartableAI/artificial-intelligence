@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-29T16:14:00Z
 originalUrl: "https://www.imperial.ac.uk/news/205293/machine-learning-automated-daydreaming-imperial-academics/"
 webUrl: "https://www.imperial.ac.uk/news/205293/machine-learning-automated-daydreaming-imperial-academics/"
 type: article
-quality: 52
-heat: 52
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - Natural Language Processing
   - AI
   - Machine Learning
+  - AI in Robotics
 
 images:
   - url: "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/newseventsimage_1601368285543_mainnews2012_x1.jpg"

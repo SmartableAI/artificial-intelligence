@@ -7,7 +7,7 @@ originalUrl: "https://www.fiercebiotech.com/medtech/ai-drug-molecule-designer-xt
 webUrl: "https://www.fiercebiotech.com/medtech/ai-drug-molecule-designer-xtalpi-raises-318m-for-digital-twin-simulation-efforts"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 740
     height: 442
     isCached: true
+
+related:
+  - title: "AI-centered drug discovery startup XtalPi raises nearly $319M in Series C round"
+    excerpt: "The six-year-old Google-backed company was founded by three MIT physicists and hopes to use its technology to make drug discovery faster and less cumbersome by combining physics, AI and cloud computing."
+    publishedDateTime: 2020-09-29T19:22:00Z
+    webUrl: "https://medcitynews.com/2020/09/ai-centered-drug-discovery-startup-xtalpi-raises-over-318m-in-series-c-round/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 33
+    images:
+      - url: "https://medcitynews.com/uploads/2020/09/atl-deloitte-300x292.jpg"
+        width: 300
+        height: 292
+        isCached: true
 
 secured: "+MtbUuN/mSJ6N5oHrXKGqR/ZeDhDxKXDv7m4/X95xJ0lpknnYFXqQ6ywIES+Ot2WT13Gl4b/oApFb7e7Pr2vbEBA3Q+vGXfh7Zjr7QMVG4S4mpVw1R9nRcBoqtsKxmdBuIPg6VjJWKkIyfhIGxPpVV24VjreTsYbK2M3NuU7GDFP+lbUfziNNx0TTEUIT1z+gPjJiYaLcVd400L7dVGKe1H8GBayWzxV26hLE0fBPZlnCtvA+IB038/xOn5tJQ5GQsxLdGix6wd9jPsi1iOVuDk1hUH/3hLDVfHnielql21t5LadBWhsy02jsr3QmqW6DPyjsXyJu8Ie+0LmUvviP/BUULyrim2RxR628r01rZWjCVeR7tZWgmvpDQoURx7bgIPBQwhOaZwvZgdMYke9SpfRpeDATk+A4KsihhB28PgbCSOv1/wyJkFqwiJXQblGAJtRAFn9nrFOze87VCUQv2q50L2rdJaKta2k7Mg6RTp9vkAKdflcghFF2+OEvCOL9REDmO7lFVUisetk5/g5qg==;dbvF24fiKlYLToeRVGZjZg=="
 ---

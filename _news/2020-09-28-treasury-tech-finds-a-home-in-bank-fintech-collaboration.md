@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2020/open-banking-fintech-t
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2020/open-banking-fintech-treasury-management/amp/"
 type: article
 quality: 59
-heat: 109
-published: true
+heat: -1
+published: false
 
 provider:
   name: pymnts.com
@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Machine Learning Leader Attunely Secures $9M in Funding"
-    excerpt: "Attunely Inc., a pioneer in deploying machine learning to maximize revenue recovery and enhance the consumer experience, today announced $9 million in financing. The new capital includes an earlier seed round as well as a Series A investment."
-    publishedDateTime: 2020-09-25T07:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200924005133/en/Fintech-Machine-Learning-Leader-Attunely-Secures-9M-in-Funding"
+  - title: "Giant Fech Firms Could Pose Dangers To Financial System Warns House Fintech Task Force Chair"
+    excerpt: "Without mentioning Apple, Google and the like by name, House Fintech Task Force Chair Stephen Lynch warned today giant tech firms could pose dangers to the financial system. “I see to-big-to-fail fintechs in the future in a big,"
+    publishedDateTime: 2020-09-29T18:28:00Z
+    webUrl: "https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/"
+    ampWebUrl: "https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/amp/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 78
     images:
-      - url: "https://mms.businesswire.com/media/20200924005133/en/824189/23/attunely+logo.jpg"
-        width: 1200
-        height: 627
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f737b36e2e867ffa50a6877%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D257%26cropY2%3D3071"
+        width: 1199
+        height: 675
         isCached: true
   - title: "Australian Fintech WeMoney Secures $2 Million in Seed Funding to Launch Financial Wellness Platform"
     excerpt: "Dan Jovevski, a Fintech professional and former banker at National Australia Bank (NAB), has reportedly helped his company, WeMoney, with securing $2 million in capital in order to provide a service that helps young consumers with making better financial decisions."
@@ -56,20 +58,6 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/01/Australia-Money-iPhone.png"
         width: 412
         height: 680
-        isCached: true
-  - title: "Top 4 FinTech funding rounds in Singapore this September 2020"
-    excerpt: "The FinTech sector in Singapore sees Machine Learning and Artificial Intelligence algorithms being used generally in lending & asset management services."
-    publishedDateTime: 2020-09-25T14:15:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/top-4-fintech-funding-rounds-in-singapore-this-september-2020/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2020/09/FinTech-Funding-wealth.jpg"
-        width: 300
-        height: 300
         isCached: true
   - title: "Fintech scores capital to help Millennials save money"
     excerpt: "A former NAB banker has raised $2 million to build WeMoney, an app he says will help prevent users from running into financial difficulty."

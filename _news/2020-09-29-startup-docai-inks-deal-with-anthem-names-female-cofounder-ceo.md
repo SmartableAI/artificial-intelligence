@@ -40,6 +40,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Prepare.ai Founders & Sponsors Underwrite Entire Costs of 2020 Conference"
+    excerpt: "St. Louis-based AI & Tech Conference featuring nationally-known thought-leaders across multiple disciplines will now be free and open to all. ST. LOUIS -- September 28, 2020 -- The 2020 Prepare.ai Conference,"
+    publishedDateTime: 2020-09-29T19:12:00Z
+    webUrl: "https://www.directionsmag.com/pressrelease/10177"
+    type: article
+    provider:
+      name: Directions Magazine
+      domain: directionsmag.com
+    quality: 38
+    images:
+      - url: "https://dmpublisher.s3.us-west-2.amazonaws.com/2020/September/29/6/84b444f5-b1d8-4c58-b8b9-ac3c7c45a7e8-sized"
+        width: 800
+        height: 800
+        isCached: true
 
 secured: "CmbdebFFap9XmPEW9VMMolsjQaNWofJzu7fT64TGZ3HepbLcShETeZpzolwz/UYtdnUq1BX0tC8xIau297nW9YXSUHHUSMTycadsbI1+EmA/GqOvnt4zXcDyNqsQNFyECfnCJLacv1QMHPrIfoM0OV/B2h5IqbjNR+KWz7sdUahgj5Fk+uvBOkQTg/0sr5xn/BzLbqRCOtSUZwycJnnhdZ582bfI0otMOmI1t59PMNq1q6OzH/y+ryzBGH4on0aVIFQOyD0KMgxW+xObXhWUyPh2xdJ3nkSRKsooIxaHIZyp6vQ0D5uNp/BI+OfB7uwbIZ17gRoKc3vLYS8ipxjjdVDmgak9X3ZcTtXz2Skci9E=;G2/2NspzfBplr4yF2UtCeg=="
 ---

@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial recognition software in each ward, says SEC"
+    excerpt: "The State Election Commission has decided to introduce facial recognition software on pilot basis in the ensuing elections to the Greater Hyderabad Municipal Corporation. The commission has decided to utilise the facial recognition system in one polling station in each of the 150 wards in the GHMC."
+    publishedDateTime: 2020-09-29T17:52:00Z
+    webUrl: "https://www.thehindu.com/news/cities/Hyderabad/facial-recognition-software-in-each-ward-says-sec/article32726739.ece"
+    ampWebUrl: "https://www.thehindu.com/news/cities/Hyderabad/facial-recognition-software-in-each-ward-says-sec/article32726739.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Hyderabad/facial-recognition-software-in-each-ward-says-sec/article32726739.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Singapore to become first to use facial recognition in national identity scheme"
     excerpt: "Singapore will be the first country in the world to use facial recognition as part of its national identity scheme. This new technology will"
     publishedDateTime: 2020-09-26T18:51:00Z

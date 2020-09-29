@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/women-founders-of-ai-startups-take-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/women-founders-of-ai-startups-take-aim-at-gender-bias-11601388625"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Prepare.ai Founders & Sponsors Underwrite Entire Costs of 2020 Conference"
+    excerpt: "St. Louis-based AI & Tech Conference featuring nationally-known thought-leaders across multiple disciplines will now be free and open to all. ST. LOUIS -- September 28, 2020 -- The 2020 Prepare.ai Conference,"
+    publishedDateTime: 2020-09-29T19:12:00Z
+    webUrl: "https://www.directionsmag.com/pressrelease/10177"
+    type: article
+    provider:
+      name: Directions Magazine
+      domain: directionsmag.com
+    quality: 38
+    images:
+      - url: "https://dmpublisher.s3.us-west-2.amazonaws.com/2020/September/29/6/84b444f5-b1d8-4c58-b8b9-ac3c7c45a7e8-sized"
+        width: 800
+        height: 800
+        isCached: true
   - title: "Startup Doc.ai inks deal with Anthem, names female cofounder CEO"
     excerpt: "Palo Alto, California-based artificial intelligence startup doc.ai, which named cofounder Sam De Brouwer its new CEO on Tuesday, has built the technical infrastructure to securely collect and process disparate data in ways that engage patients."
     publishedDateTime: 2020-09-29T15:33:00Z

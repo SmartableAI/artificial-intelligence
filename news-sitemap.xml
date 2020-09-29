@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.fool.com/investing/2020/09/29/nvidia-and-vmware-partner-to-bring-ai-into-the-mai/</loc>
+    <lastmod>2020-09-29T11:54:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/</loc>
+    <lastmod>2020-09-29T11:28:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://dailypost.ng/2020/09/29/robots-in-nigeria-fg-to-boost-artificial-intelligence/</loc>
     <lastmod>2020-09-29T10:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -19,6 +31,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://venturebeat.com/2020/09/29/googles-smart-cleanup-taps-ai-to-streamline-data-entry/</loc>
+    <lastmod>2020-09-29T10:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/stevemccaskill/2020/09/29/roland-garros-2020-puts-ai-at-the-heart-of-the-digital-experience-as-tennis-fans-stay-at-home/</loc>
     <lastmod>2020-09-29T08:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -33,6 +51,12 @@
   <url>
     <loc>https://www.wsj.com/articles/women-founders-of-ai-startups-take-aim-at-gender-bias-11601388625</loc>
     <lastmod>2020-09-29T07:36:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/greatspeculations/2020/09/29/snowflake-looks-like-a-risky-bet-at-a-60-billion-plus-valuation/</loc>
+    <lastmod>2020-09-29T07:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -69,12 +93,6 @@
   <url>
     <loc>https://techcrunch.com/2020/09/29/irobot-cofounder-helen-greiner-named-ceo-of-robotic-gardening-startup-tertill/</loc>
     <lastmod>2020-09-29T05:35:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.usnews.com/news/technology/articles/2020-09-29/vmware-nvidia-partner-to-make-ai-chips-easier-for-businesses-to-use</loc>
-    <lastmod>2020-09-29T05:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -331,12 +349,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.pymnts.com/news/b2b-payments/2020/open-banking-fintech-treasury-management/</loc>
-    <lastmod>2020-09-27T15:02:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.engadget.com/microsoft-flight-simulator-azure-ai-machine-learning-193545436.html?itm_source=parsely-api</loc>
     <lastmod>2020-09-27T12:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -363,6 +375,18 @@
   <url>
     <loc>https://techcommunity.microsoft.com/t5/microsoft-teams-blog/5-new-ways-to-boost-productivity-with-enhanced-teams-power/ba-p/1680697</loc>
     <lastmod>2020-09-27T03:10:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.medindia.net/news/artificial-intelligence-helps-predict-loneliness-197784-1.htm</loc>
+    <lastmod>2020-09-26T21:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.beaumontenterprise.com/news/article/Scientists-combat-anti-Semitism-with-artificial-15584227.php</loc>
+    <lastmod>2020-09-26T20:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1003,6 +1027,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.prnewswire.com/news-releases/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-301135412.html</loc>
+    <lastmod>2020-09-22T08:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/lanceeliot/2020/09/22/self-driving-cars-versus-the-most-dangerous-driving-month-of-the-year/</loc>
     <lastmod>2020-09-22T08:43:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1075,12 +1105,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572</loc>
-    <lastmod>2020-09-22T05:17:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.wired.com/story/to-make-fairer-ai-physicists-peer-inside-its-black-box/</loc>
     <lastmod>2020-09-22T05:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1147,6 +1171,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.asiaone.com/business/global-startup-parcel-perform-collaborates-amazon-web-services-aws-improve-e-commerce</loc>
+    <lastmod>2020-09-21T21:26:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://medium.com/@szabogergo2020/differentiable-argmax-for-tensorflow-2da6ca5d8ae7</loc>
     <lastmod>2020-09-21T21:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1161,12 +1191,6 @@
   <url>
     <loc>https://www.finanzen.net/nachricht/aktien/parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-9317528</loc>
     <lastmod>2020-09-21T18:59:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.finanzen.net/nachricht/aktien/global-startup-parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-9317530</loc>
-    <lastmod>2020-09-21T17:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

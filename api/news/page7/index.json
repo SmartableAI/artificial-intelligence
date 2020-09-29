@@ -2,6 +2,207 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-09-23-how-artificial-intelligence-can-enable-ethically-driven-investments.md",
+      "title": "How Artificial Intelligence Can Enable Ethically Driven Investments",
+      "excerpt": "Individuals and investment firms are increasingly interested in more than a balance sheet when making investment decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/09/23/how-artificial-intelligence-can-enable-ethically-driven-investments/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/09/23/how-artificial-intelligence-can-enable-ethically-driven-investments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a42c7eeeca94f314ea8ef%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/09/23/how-artificial-intelligence-can-enable-ethically-driven-investments/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/09/23/how-artificial-intelligence-can-enable-ethically-driven-investments/amp/",
+      "publishedDateTime": "2020-09-23T04:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-youtubes-ai-can-automatically-age-restrict-inappropriate-videos.md",
+      "title": "YouTube's AI can automatically age-restrict inappropriate videos",
+      "excerpt": "YouTube already uses machine learning to flag inappropriate content for its Trust and Safety team to review, but moving forward, the company plans to expand the use of the technology. Starting later this year,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/youtube-machine-learning-age-restrictions-212253144.html",
+      "originalUrl": "https://www.engadget.com/youtube-machine-learning-age-restrictions-212253144.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-11%2F877972b0-017b-11ea-add6-088504b9b34b&client=amp-blogside-v2&signature=eae3d42cb0d567481cda43e04db5848af943d41e",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/youtube-machine-learning-age-restrictions-212253144.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/youtube-machine-learning-age-restrictions-212253144.html",
+      "publishedDateTime": "2020-09-23T03:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-14-open-source-tools-to-make-the-most-of-machine-learning.md",
+      "title": "14 open source tools to make the most of machine learning",
+      "excerpt": "Apache Mahout provides a way to build environments for hosting machine learning applications that can be scaled quickly and efficiently to meet demand. Mahout works mainly with another well-known Apache project, Spark, and was originally devised to work ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3575420/14-open-source-tools-to-make-the-most-of-machine-learning.html",
+      "originalUrl": "https://www.infoworld.com/article/3575420/14-open-source-tools-to-make-the-most-of-machine-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2016/08/machine-learning-cloud-ai-artifical-intelligence-3-100678132-large.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3575420/14-open-source-tools-to-make-the-most-of-machine-learning.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3575420/14-open-source-tools-to-make-the-most-of-machine-learning.amp.html",
+      "publishedDateTime": "2020-09-23T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-new-tech-chief-of-startup-hypergiant-envisions-closer-human-ai-collaboration.md",
+      "title": "New Tech Chief of Startup Hypergiant Envisions Closer Human-AI Collaboration",
+      "excerpt": "Hypergiant Industries tapped a former IBM official as its first chief technology officer, the artificial intelligence startup said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/new-tech-chief-of-startup-hypergiant-envisions-closer-human-ai-collaboration-11600853401",
+      "originalUrl": "https://www.wsj.com/articles/new-tech-chief-of-startup-hypergiant-envisions-closer-human-ai-collaboration-11600853401",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-235264/social",
+          "width": 1230,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/new-tech-chief-of-startup-hypergiant-envisions-closer-human-ai-collaboration-11600853401",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/new-tech-chief-of-startup-hypergiant-envisions-closer-human-ai-collaboration-11600853401",
+      "publishedDateTime": "2020-09-23T02:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-influencer-marketing-startup-clanconnectai-raises-inr-5-cr-led-by-venture-catalysts.md",
       "title": "Influencer Marketing Startup ClanConnect.ai Raises INR 5 Cr Led by Venture Catalysts",
       "excerpt": "The seed funding round also saw participation from a cohort of angel investors, including MD of Forest Essentials Samrath Bedi,  Sandeep Aggarwal of Droom.in, Haptik's co-founder Aakrit Vaish and Redc",
@@ -818,6 +1019,48 @@
       ]
     },
     {
+      "path": "_news/2020-09-22-dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace.md",
+      "title": "dotData Now Supports Microsoft Azure Deployment and Is Available on Microsoft Azure Marketplace",
+      "excerpt": "In addition, dotData has added Microsoft SQL Server and Azure SQL Database connectors which allows users to quickly and easily develop AI/ML models based on data stored in their corporate databases. By choosing the \"Transact\" option on the dotData ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-301135412.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-301135412.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-self-driving-cars-versus-the-most-dangerous-driving-month-of-the-year.md",
       "title": "Self-Driving Cars Versus The Most Dangerous Driving Month Of The Year",
       "excerpt": "Bottom-line is to please be extra careful when driving during September. One future aspect to consider involves the gradual advent of AI-based true self-driving cars. This raises an intriguing question: Will the emergence of AI-based true self-driving cars ...",
@@ -968,243 +1211,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-low-code-updates-in-power-platform-for-github-and-azure-are-now-in-preview.md",
-      "title": "Low-code updates in Power Platform for GitHub and Azure are now in preview",
-      "excerpt": "In September last year, the tech giant revealed how the Power Platform was benefiting from Azure AI services. In July, meanwhile, the Power BI Snowflake connector introduced a capability to enable single sign-on (SSO) based on Azure Active Directory (AAD ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/low-code-updates-in-power-platform-for-github-and-azure-are-now-in-preview",
-      "originalUrl": "https://www.neowin.net/news/low-code-updates-in-power-platform-for-github-and-azure-are-now-in-preview",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/09/1600610864_powerplatform-ignite2020_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/low-code-updates-in-power-platform-for-github-and-azure-are-now-in-preview/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/low-code-updates-in-power-platform-for-github-and-azure-are-now-in-preview/",
-      "publishedDateTime": "2020-09-22T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-causalens-launches-the-first-causal-ai-platform.md",
-      "title": "causaLens launches the first causal AI platform",
-      "excerpt": "“Businesses investing in the current form of machine learning (ML), including AutoML, have just been paying to automate a process that fits curves to data without an understanding of the real worl",
-      "sourceUrl": null,
-      "webUrl": "https://www.oaoa.com/news/business/causalens-launches-the-first-causal-ai-platform/article_242e8bb8-7d4a-5ede-89d2-d0fd8636e49b.html",
-      "originalUrl": "https://www.oaoa.com/news/business/causalens-launches-the-first-causal-ai-platform/article_242e8bb8-7d4a-5ede-89d2-d0fd8636e49b.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png",
-          "width": 576,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-deepcube-raises-series-a-funding-to-realize-real-world-deployments-of-deep-learning-on-edge-devices-at-scale.md",
-      "title": "DeepCube Raises Series A Funding to Realize Real-World Deployments of Deep Learning on Edge Devices, at Scale",
-      "excerpt": "DeepCube, the award-winning deep learning pioneer, today announced that it has closed $7 million in Series A funding.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200922005177/en/DeepCube-Raises-Series-A-Funding-to-Realize-Real-World-Deployments-of-Deep-Learning-on-Edge-Devices-at-Scale",
-      "originalUrl": "https://www.businesswire.com/news/home/20200922005177/en/DeepCube-Raises-Series-A-Funding-to-Realize-Real-World-Deployments-of-Deep-Learning-on-Edge-Devices-at-Scale",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200922005177/en/790877/23/DeepCube_logo_on_black.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-qualcomms-new-snapdragon-750g-has-5g-faster-speeds-and-improved-ai-performance.md",
-      "title": "Qualcomm’s new Snapdragon 750G has 5G, faster speeds, and improved AI performance",
-      "excerpt": "The 750G also features other improvements that have trickled down from Qualcomm’s higher-performance and newer chips, like the company’s fifth-generation AI engine, which Qualcomm says offers a 20 percent increase in AI performance for things like AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/9/22/21449747/qualcomm-snapdragon-750g-5g-faster-cpu-gpu-ai-engine-smartphone-processor",
-      "originalUrl": "https://www.theverge.com/2020/9/22/21449747/qualcomm-snapdragon-750g-5g-faster-cpu-gpu-ai-engine-smartphone-processor",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/EcS4q-86rZKgAIpccBnhdeReSGA=/0x0:6000x4000/1400x933/filters:focal(2520x1520:3480x2480):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67448284/Snapdragon_750G_5G_QRD___In_Hand.0.png",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/9/22/21449747/qualcomm-snapdragon-750g-5g-faster-cpu-gpu-ai-engine-smartphone-processor",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/9/22/21449747/qualcomm-snapdragon-750g-5g-faster-cpu-gpu-ai-engine-smartphone-processor",
-      "publishedDateTime": "2020-09-22T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-image-recognition-market-coronavirus-pandemic-short-and-long-term-actions-taken-by-key-player-fortune-business-insights.md",
-      "title": "Image Recognition Market Coronavirus Pandemic: Short and long-term actions taken by Key Player? Fortune Business Insights",
-      "excerpt": "Facial Recognition, Object Recognition, Pattern Recognition), By Applications (Scanning and Imaging, Security and Surveillance, Image Search, Augmented Reality and others), By Deployment (On-Premises, Cloud), By End-User (BFSI, Media and Entertainment ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-market-coronavirus-pandemic-short-and-long-term-actions-taken-by-key-player-fortune-business-insights-2020-09-22?mod=mw_quote_news",
-      "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-market-coronavirus-pandemic-short-and-long-term-actions-taken-by-key-player-fortune-business-insights-2020-09-22?mod=mw_quote_news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

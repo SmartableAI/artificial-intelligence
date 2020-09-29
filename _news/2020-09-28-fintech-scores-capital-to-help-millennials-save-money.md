@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Giant Fech Firms Could Pose Dangers To Financial System Warns House Fintech Task Force Chair"
+    excerpt: "Without mentioning Apple, Google and the like by name, House Fintech Task Force Chair Stephen Lynch warned today giant tech firms could pose dangers to the financial system. “I see to-big-to-fail fintechs in the future in a big,"
+    publishedDateTime: 2020-09-29T18:28:00Z
+    webUrl: "https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/"
+    ampWebUrl: "https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 78
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f737b36e2e867ffa50a6877%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D257%26cropY2%3D3071"
+        width: 1199
+        height: 675
+        isCached: true
   - title: "Treasury Tech Finds A Home In Bank-FinTech Collaboration"
     excerpt: "FinTech collaborations focus on corporate treasury management technology, while Italy readies for its largest open banking platform."
     publishedDateTime: 2020-09-27T22:02:00Z
@@ -41,20 +57,6 @@ related:
         width: 457
         height: 305
         isCached: true
-  - title: "Fintech Machine Learning Leader Attunely Secures $9M in Funding"
-    excerpt: "Attunely Inc., a pioneer in deploying machine learning to maximize revenue recovery and enhance the consumer experience, today announced $9 million in financing. The new capital includes an earlier seed round as well as a Series A investment."
-    publishedDateTime: 2020-09-25T07:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200924005133/en/Fintech-Machine-Learning-Leader-Attunely-Secures-9M-in-Funding"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 39
-    images:
-      - url: "https://mms.businesswire.com/media/20200924005133/en/824189/23/attunely+logo.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Australian Fintech WeMoney Secures $2 Million in Seed Funding to Launch Financial Wellness Platform"
     excerpt: "Dan Jovevski, a Fintech professional and former banker at National Australia Bank (NAB), has reportedly helped his company, WeMoney, with securing $2 million in capital in order to provide a service that helps young consumers with making better financial decisions."
     publishedDateTime: 2020-09-28T22:28:00Z
@@ -70,20 +72,6 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/01/Australia-Money-iPhone.png"
         width: 412
         height: 680
-        isCached: true
-  - title: "Top 4 FinTech funding rounds in Singapore this September 2020"
-    excerpt: "The FinTech sector in Singapore sees Machine Learning and Artificial Intelligence algorithms being used generally in lending & asset management services."
-    publishedDateTime: 2020-09-25T14:15:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/top-4-fintech-funding-rounds-in-singapore-this-september-2020/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2020/09/FinTech-Funding-wealth.jpg"
-        width: 300
-        height: 300
         isCached: true
   - title: "Society 5.0 needs Digital Asset Fintech Hubs"
     excerpt: "Japan’s “Society 5.0” refers to the fifth stride in human civilization evolution to create a “super-smart” future society which leverages the technological innovations of the current fourth industrial revolution (4IR) to achieve economic advancement and embed these in society to solve people’s problems so that they can live better lives."

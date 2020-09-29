@@ -9,8 +9,8 @@ ampWebUrl: "https://www.beaumontenterprise.com/news/amp/Scientists-combat-anti-S
 cdnAmpWebUrl: "https://www-beaumontenterprise-com.cdn.ampproject.org/c/s/www.beaumontenterprise.com/news/amp/Scientists-combat-anti-Semitism-with-artificial-15584227.php"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Beaumont Enterprise
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Int'l project combats online antisemitism through artificial intelligence"
+    excerpt: "Studies have shown that the majority of antisemitic defamation is expressed in implicit ways – through the use of codes and allusions to certain conspiracy narratives through images."
+    publishedDateTime: 2020-09-29T18:24:00Z
+    webUrl: "https://www.jpost.com/diaspora/antisemitism/intl-project-combats-online-antisemitism-through-artificial-intelligence-643886"
+    ampWebUrl: "https://m.jpost.com/diaspora/antisemitism/intl-project-combats-online-antisemitism-through-artificial-intelligence-643886/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/diaspora/antisemitism/intl-project-combats-online-antisemitism-through-artificial-intelligence-643886/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 56
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/462910"
+        width: 640
+        height: 428
+        isCached: true
   - title: "This extraordinary AI has stunned computer scientists with its writing ability"
     excerpt: "OpenAI, a for-profit company under a nonprofit parent company, has built a language generation program dubbed GPT-3, an acronym for “Generative Pre-trained Transformer 3.” Its ability to learn, summarize,"
     publishedDateTime: 2020-09-25T14:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/corporate-news-arti
 webUrl: "https://apnews.com/press-release/business-wire/corporate-news-artificial-intelligence-technology-business-north-america-144b7c6660a14e33ac09029d04417d88"
 type: article
 quality: 53
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "SoftBank Robotics America Announces Whiz Connect Automation Analytics Software as Part of Robotics-as-a-Service Solution"
+    excerpt: "Whiz Connect centralizes the Whiz automation portfolio in a single dashboard and empowers occupant health and wellness through continuous collection analytics and operational efficiency."
+    publishedDateTime: 2020-09-29T18:18:00Z
+    webUrl: "https://www.roboticstomorrow.com/content.php?post=15764"
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 9
 
 secured: "BE8q/Gp2Xdfp4oiXIifBoFnVBzig8l0JZrZS4mcGJjdl807Qqt2oqPLJeSiGxVvzvcRT7P7FhVcuNU7nt9Ei2+iR3x23jEg2NGU7yn+1Qv3XhSxWyjmdYftFh8n3YIWjNa9i+11UYxTcaBe1i0kOUP4W8FbcSDt95T8Hr14aTNMpVgM137VKeZ5JaWvj0uw7MjMDfnSadhSjkJAw2XmohDfO2OmTXL53faqeC4zvqFjeYTnN6eviunq4VkW2uAXPA18gRBBGU8+knyvrD9w6CaidL6hWvvRGq0A62csFByjB0y/lqII77phSbWWIasONfny8UL1YW+sFUoJ99WEJH/Js8rnO21vVNGyArtNfyeE=;evE6rcAXuPZuef/dqiRIgg=="
 ---
