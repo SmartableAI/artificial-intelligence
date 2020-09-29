@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "\"Dev-friendly\" APIs and SDKs in New Azure Service Simplify Building Rich Communication Experiences"
-    excerpt: "Microsoft this week unveiled the public preview of Azure Communication Services, a new platform for developers who want a simple and well-supported way to build new communications solutions or integrate them into existing applications."
-    publishedDateTime: 2020-09-24T09:51:00Z
-    webUrl: "https://adtmag.com/articles/2020/09/24/azure-communication-services.aspx"
-    type: article
-    provider:
-      name: adtmag.com
-      domain: adtmag.com
-    quality: 25
-    images:
-      - url: "https://adtmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/WindowsCloudBlueSkyBig.jpg"
-        width: 1665
-        height: 1158
-        isCached: true
 
 secured: "9eRl8mk3mu0uNra0pzyDWgBccZ9401wH7kbwcK+zF62mR0Yfv2xGexFSoQ3LTZPEVrvXEB55NrpUfHqA/Uhe1/qldwagi+MbjNDr6KpAGRZhBwp/vPEu1IcAB4HysIgBEP1IjAp5qwSf4KMS+lgii8W1kVOijtoDt6JiCZso7cwOx4rhYrpYaMkZlpN1hikox+2Q8LwklyPX1rpDGB5gtylqFbsjhsnRP994Mf287iVTsvA3pgtmxWWubaRKhNOVYHFC4R6iqLGi3T+5mvClbDUAKa3BSLz6LtYHmeC5vgp331wmNk7bbtCyMqmEKQ1fFUT5ST5mG2TuQ3HcodeSuKDWZGfFXlHoEx5r4k1PfQHecsR1LbznQppp5Audzni2N3sAdMcQlaV0b0f80AFU+9x1A/G7Ey20rEU7Gq6GL4aDyOnvOHlbV61Fv6uNEG0+8JTNwwbOQjGK+fxtgiFT8l9f1F8R7aFs4Xe2DjbZ5gmTwFRzXhN2oop1dS92lWziZv7FalfXWLNnM4O7fj+9yA==;0QIBYiO7SG0li6EV2rsaVw=="
 ---

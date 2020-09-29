@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Rahul Tewatia asked for recognition last IPL season, earns his moment in the sun this year"
+    excerpt: "After five seasons in the wilderness, the 27-year-old did something on Sunday night that ensured that he won't have to ask for recognition anymore."
+    publishedDateTime: 2020-09-29T02:26:00Z
+    webUrl: "https://www.newindianexpress.com/sport/ipl/news/2020/sep/29/watch-rahul-tewatia-asked-for-recognition-last-ipl-season-earns-his-moment-in-the-sun-this-year-vide-2203379.html"
+    ampWebUrl: "https://www.newindianexpress.com/sport/ipl/news/2020/sep/29/watch-rahul-tewatia-asked-for-recognition-last-ipl-season-earns-his-moment-in-the-sun-this-year-vide-2203379.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/sport/ipl/news/2020/sep/29/watch-rahul-tewatia-asked-for-recognition-last-ipl-season-earns-his-moment-in-the-sun-this-year-vide-2203379.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 34
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/9/28/w600X390/Rahul_Tewatia_RR_ipl.JPG"
+        width: 600
+        height: 390
+        isCached: true
 
 secured: "Sv9jq1XoNLWO4WTk/4s7buZylgqD/zIClWA8VnfkQTnQP4MwL5UX0YyX9NrzbbAluTVZvlUr/XTI74yOQWBFc36XnFEM3ui0nByLsDs5IjAc5iYllYGrI2+6dbJGkwHUkLsogT1NyrYSW7YOplMHBxPoG8hkJgbBp5kHok6lhqgG/wW+TIHEFq+Ov7EElrNUM/cs2gM2HMlwjAOmuvVthZvHwlet8o1To9vp/ZhvwqKrKXj25QuTvHQ8+gCMNYyJx2AwMvlwLyT7s8j+muPWW2eKNxrxErTEXtOoNHxjgD/Fl4m4LmqyWJiQyx8tw2XEQyTGYYdV6rb/kTpavN8rNX4T0LeV8mHFWhztkhsS9lo=;eQ5YQSCZca/xmQaO5eoWfw=="
 ---

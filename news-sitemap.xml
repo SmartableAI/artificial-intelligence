@@ -205,12 +205,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692</loc>
-    <lastmod>2020-09-26T15:18:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.buzz.ie/news/singapore-facial-recognition-in-national-identity-scheme-390534</loc>
     <lastmod>2020-09-26T11:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -523,12 +517,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://elmoudjaweb.com/microsofts-azure-communication-services-handles-enterprise-video-voice-and-text-communications-jaweb/</loc>
-    <lastmod>2020-09-24T04:11:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://techcrunch.com/2020/09/21/hailing-a-self-driving-taxi-when-blind-learn-how-waymo-answers-that-challenge-at-sight-tech-global/</loc>
     <lastmod>2020-09-24T03:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -697,8 +685,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://in.reuters.com/article/us-israel-gulf-intel-habtoor/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars-idINKCN26E207</loc>
-    <lastmod>2020-09-23T05:26:00-07:00</lastmod>
+    <loc>https://www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars</loc>
+    <lastmod>2020-09-23T05:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -877,8 +865,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace/article_f6c327bd-10d4-5df0-beed-77fd9ceef60a.html</loc>
-    <lastmod>2020-09-22T05:30:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572</loc>
+    <lastmod>2020-09-22T05:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1099,7 +1087,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://apnews.com/globe-newswire/d1e2636d66efe74334839d6e7f1fded5</loc>
+    <loc>https://apnews.com/globenewswire-mobile/d1e2636d66efe74334839d6e7f1fded5</loc>
     <lastmod>2020-09-21T00:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

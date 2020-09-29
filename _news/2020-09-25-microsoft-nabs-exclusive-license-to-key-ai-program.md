@@ -57,22 +57,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "A Microsoft-powered instant two-way translator"
-    excerpt: "A universal translator that allows instantaneous communication between speakers of different languages. The TARDIS does it in Doctor Who, the babble fish serves that function in The Hitchhiker's Guide to the Galaxy,"
-    publishedDateTime: 2020-09-24T11:00:00Z
-    webUrl: "https://www.zdnet.com/article/a-microsoft-powered-instant-two-way-translator/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/a-microsoft-powered-instant-two-way-translator/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-microsoft-powered-instant-two-way-translator/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 91
-    images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/09/23/a7fd5e67-9fdc-4cbc-8183-f6fe9cfbfb9a/cheetah-translator-plus.png"
-        width: 2540
-        height: 1042
-        isCached: true
   - title: "dotData Enterprise is Now Available on Microsoft Azure"
     excerpt: "Data, focused on delivering full-cycle data science automation and operationalization for the enterprise, is providing dotData Enterprise on Microsoft Azure, offering increased speed and efficiency of data science and machine learning processes coupled with Azure's strong managed IaaS/PaaS capabilities."
     publishedDateTime: 2020-09-25T14:40:00Z

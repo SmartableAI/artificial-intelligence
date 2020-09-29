@@ -9,7 +9,7 @@ ampWebUrl: "https://news.avclub.com/self-driving-cars-are-here-and-theyre-hungry
 cdnAmpWebUrl: "https://news-avclub-com.cdn.ampproject.org/c/s/news.avclub.com/self-driving-cars-are-here-and-theyre-hungry-for-pedes-1845201537/amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 800
     height: 449
     isCached: true
-
-related:
-  - title: "Where are all the self-driving cars we were promised?"
-    excerpt: "Join us at TNW2020 where we will discuss the future of autonoous driving and how we can make it safe with industry experts."
-    publishedDateTime: 2020-09-24T09:37:00Z
-    webUrl: "https://thenextweb.com/shift/2020/09/24/whats-needed-to-get-safe-self-driving-cars-on-our-roads-autopilot/"
-    ampWebUrl: "https://thenextweb.com/shift/2020/09/24/whats-needed-to-get-safe-self-driving-cars-on-our-roads-autopilot/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/09/24/whats-needed-to-get-safe-self-driving-cars-on-our-roads-autopilot/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 74
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/third-autopilot-tesla-propilot-cruise-self-driving-autonomy-cars-EV-future-mobility-driving-796x448.png"
-        width: 796
-        height: 448
-        isCached: true
 
 secured: "Nu2UOvsX2sjRnoZ+OVksgDr8+/vL4+GIbOXwoZ1P8xXB79WoXiguVh4iSQ3I+SiFwz/i5ujrVEwlaOOExAeQAs5qgL6hJbh+JiJ0QXaTx1QnD3KwzWUSuJe2XTXyLvP2bpsVoW3DDOkBFCAT7V7LKyUJb6CpCnGk1m+Ga/pygfW6LVpvmUA+fRcFb4g6yhvc+QmSAHdCgfHLglqfYT8uoCAVxeAGb6rnmTwjRtA4KAFuck5/c4BkEvp0nC7ymu++lA4RbfdcM5LJPtKeRP4T70JBSa54dwQbojW1xx05o0XcVfeg8AGSQ+6OFsAaNxejSUIj1Ko4r81O62bfKW1h9tUpAXIIPo6CINAeAxjUc0MxEzMqkzlfznqkuDbID8YFref4dCmysKFJB+ptsW8cOQ1aZ0n3+3skn2CT9h5JIQwAge5uIfZfac4Rea1h/gDxKs1Tcxiy2Zm0OuA8kPnKYRvydU/DXo1/euG2dj5+usJMObafWHXrf/SGbCrlQMQxfDj0Woxk4pJ716hxY9CasA==;yGkHRLAq3RsB05Fr5lzmsA=="
 ---

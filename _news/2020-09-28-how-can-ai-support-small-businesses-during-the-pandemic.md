@@ -46,21 +46,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Rebooting the post-pandemic enterprise with AI automation"
-    excerpt: "While 59% of these SCM practitioners currently use cloud infrastructure, only 28% have deployed predictive analytics systems and a mere 12% use AI technologies. A recent post by the VP of Azure's AI operations highlighted several other areas where AI can ..."
-    publishedDateTime: 2020-09-24T09:36:00Z
-    webUrl: "https://diginomica.com/rebooting-post-pandemic-enterprise-ai-automation"
-    ampWebUrl: "https://diginomica.com/rebooting-post-pandemic-enterprise-ai-automation?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/rebooting-post-pandemic-enterprise-ai-automation?amp"
+  - title: "Harnessing Big Data And Artificial Intelligence To Predict Pandemic Spread"
+    excerpt: "Texas A&M civil engineering researchers are using a deep learning model to forecast the growth of COVID-19 cases."
+    publishedDateTime: 2020-09-24T16:12:00Z
+    webUrl: "https://today.tamu.edu/2020/09/24/harnessing-big-data-and-artificial-intelligence-to-predict-pandemic-spread/"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 59
+      name: AgriLife TODAY
+      domain: tamu.edu
+    quality: 37
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2020-04/brain-20424_1280.jpg"
-        width: 1280
-        height: 980
+      - url: "https://today.tamu.edu/wp-content/uploads/2020/09/CVEN-research-big-data-22September2020.jpg"
+        width: 1000
+        height: 563
         isCached: true
   - title: "How data and AI will shape the post-pandemic future"
     excerpt: "Data science and AI are not only accelerating COVID-19 research and recovery today but helping organizations uncover insights and opportunities to succeed in the new normal."

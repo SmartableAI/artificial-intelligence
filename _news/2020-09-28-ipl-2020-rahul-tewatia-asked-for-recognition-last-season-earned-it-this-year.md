@@ -43,6 +43,22 @@ related:
         width: 345
         height: 230
         isCached: true
+  - title: "Rahul Tewatia asked for recognition last IPL season, earns his moment in the sun this year"
+    excerpt: "After five seasons in the wilderness, the 27-year-old did something on Sunday night that ensured that he won't have to ask for recognition anymore."
+    publishedDateTime: 2020-09-29T02:26:00Z
+    webUrl: "https://www.newindianexpress.com/sport/ipl/news/2020/sep/29/watch-rahul-tewatia-asked-for-recognition-last-ipl-season-earns-his-moment-in-the-sun-this-year-vide-2203379.html"
+    ampWebUrl: "https://www.newindianexpress.com/sport/ipl/news/2020/sep/29/watch-rahul-tewatia-asked-for-recognition-last-ipl-season-earns-his-moment-in-the-sun-this-year-vide-2203379.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/sport/ipl/news/2020/sep/29/watch-rahul-tewatia-asked-for-recognition-last-ipl-season-earns-his-moment-in-the-sun-this-year-vide-2203379.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 34
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/9/28/w600X390/Rahul_Tewatia_RR_ipl.JPG"
+        width: 600
+        height: 390
+        isCached: true
   - title: "Tewatia asked for recognition last IPL season, earns his moment in the sun this year"
     excerpt: "After five seasons in the wilderness, the 27-year-old did something on Sunday night that ensured that he won’t have to ask for recognition anymore Rahul Tewatia had to request for a “pat on the back” last year but this season he has earned it."
     publishedDateTime: 2020-09-28T08:28:00Z

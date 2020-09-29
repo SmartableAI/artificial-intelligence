@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-25T13:42:00Z
 originalUrl: "https://phys.org/news/2020-09-provably-exact-artificial-intelligence-nuclear.html"
 webUrl: "https://phys.org/news/2020-09-provably-exact-artificial-intelligence-nuclear.html"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2020/provablyexac.jpg"

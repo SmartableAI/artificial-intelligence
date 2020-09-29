@@ -53,48 +53,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-27-can-tesla-really-produce-a-25000-self-driving-electric-car.md",
-      "title": "Can Tesla Really Produce A $25,000 Self-Driving Electric Car?",
-      "excerpt": "During Tuesday’s much-hyped battery day, Tesla CEO Elon Musk laid out plans to put everyone behind the wheel (or is that sleeping in the",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692",
-      "publishedDateTime": "2020-09-26T15:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-25-follow-the-leader-a-shortcut-to-autonomous-trucking.md",
       "title": "Follow-the-leader: A shortcut to autonomous trucking",
       "excerpt": "A company spun out of a prestigious university robotics lab is making a big leap in autonomous trucking. Locomation is claiming the world's first autonomous truck purchase order from a Springfield, MO,",
@@ -538,36 +496,27 @@
     },
     {
       "path": "_news/2020-09-23-israels-mobileye-dubais-habtoor-partner-on-self-driving-cars.md",
-      "title": "Israel's Mobileye, Dubai's Habtoor partner on self-driving cars",
-      "excerpt": "JERUSALEM/DUBAI (Reuters) - Israel’s Mobileye and United Arab Emirate’s Al Habtoor Group launched a partnership on Wednesday to create a fleet of self-driving “robotaxis” that could take ...",
+      "title": "Israel's Mobileye, Dubai's Habtoor Partner on Self-Driving Cars",
+      "excerpt": "Israel's Mobileye and United Arab Emirate's Al Habtoor Group launched a partnership on Wednesday to create a fleet of self-driving \"robotaxis\" that could take to the streets of Dubai by the end of 2022.",
       "sourceUrl": null,
-      "webUrl": "https://in.reuters.com/article/us-israel-gulf-intel-habtoor/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars-idINKCN26E207",
-      "originalUrl": "https://in.reuters.com/article/us-israel-gulf-intel-habtoor/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars-idINKCN26E207",
+      "webUrl": "https://www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200923&t=2&i=1534603400&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8M19L",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "type": "article",
-      "ampWebUrl": "https://in.mobile.reuters.com/article/amp/idINKCN26E207",
-      "cdnAmpWebUrl": "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINKCN26E207",
-      "publishedDateTime": "2020-09-23T05:26:00-07:00",
+      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars?context=amp",
+      "publishedDateTime": "2020-09-23T05:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1421,6 +1370,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-16-tech-giant-launches-innovative-virtual-assistant-app.md",
+      "title": "Tech giant launches innovative virtual assistant app",
+      "excerpt": "During the 2022 Winter Olympics, 100 Baidu Apollo self-driving taxis will serve the Shougang Park. It has also launched DuerOS 6.0, the latest version of its conversational AI system, as well as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.globaltimes.cn/content/1201001.shtml",
+      "originalUrl": "https://www.globaltimes.cn/content/1201001.shtml",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-09-15/4d81a111-b52d-43fc-9c43-a430eb70a8bb.jpeg",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-15T14:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global Times",
+        "domain": "globaltimes.cn",
+        "images": null,
         "publishers": null,
         "authors": null
       },

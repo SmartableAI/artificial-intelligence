@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-28-apple-announces-new-ai-and-machine-learning-residency-program.md",
+      "title": "Apple Announces New AI and Machine Learning Residency Program",
+      "excerpt": "Apple's Machine Learning Reseach group has launched a new residency program inviting experts in various fields to apply their expertise to",
+      "sourceUrl": null,
+      "webUrl": "https://www.macrumors.com/2020/08/28/apple-announces-ai-ml-residency-program/",
+      "originalUrl": "https://www.macrumors.com/2020/08/28/apple-announces-ai-ml-residency-program/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.macrumors.com/t/s5F1Hgsit73B2FLQ9skCyODczOs=/1600x/https://images.macrumors.com/article-new/2020/08/jobs-1000-2fea582e89736fb64dce4527cce9dbd4.jpg",
+          "width": 1600,
+          "height": 1237,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.macrumors.com/2020/08/28/apple-announces-ai-ml-residency-program/amp/",
+      "cdnAmpWebUrl": "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2020/08/28/apple-announces-ai-ml-residency-program/amp/",
+      "publishedDateTime": "2020-08-28T03:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MacRumors",
+        "domain": "macrumors.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-28-artificial-neural-network-ann.md",
       "title": "Artificial Neural Network (ANN)",
       "excerpt": "What Is an Artificial Neural Network (ANN)? An artificial neural network (ANN) is the piece of a computing system designed to simulate the way the human brain analyzes and processes information.",
@@ -1352,58 +1394,6 @@
         "Machine Learning",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-chatbots-are-machine-learning-their-way-to-human-language.md",
-      "title": "Chatbots Are Machine Learning Their Way To Human Language",
-      "excerpt": "Computers are good at long division, but really bad at knowing whether humans are referring to football divisions, parliamentary division lobbies or long division for mathematics. This is because mathematics is formulaic,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/08/20/chatbots-are-machine-learning-their-way-to-human-language/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/08/20/chatbots-are-machine-learning-their-way-to-human-language/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3b8a4e25cb6511b0099a7f%2F0x0.jpg",
-          "width": 1200,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/08/20/chatbots-are-machine-learning-their-way-to-human-language/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/08/20/chatbots-are-machine-learning-their-way-to-human-language/amp/",
-      "publishedDateTime": "2020-08-19T22:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

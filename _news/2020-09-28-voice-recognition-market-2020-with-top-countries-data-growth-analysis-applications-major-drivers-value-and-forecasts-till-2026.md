@@ -143,20 +143,6 @@ related:
         width: 400
         height: 561
         isCached: true
-  - title: "Data storage market Size Outlook, COVID19 Impact on Industry, Share Value, Global Growth Drivers and Industry Forecast to 2026"
-    excerpt: "Even though the trend of major companies to develop own storage platform such as Microsoft Azure, IBM Cloud ... data management, and AI and Machine learning offer opportunities for the data storage market to grow in the future. Besides, as the virtual ..."
-    publishedDateTime: 2020-09-24T10:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-storage-market-size-outlook-covid19-impact-on-industry-share-value-global-growth-drivers-and-industry-forecast-to-2026-2020-09-24?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Speech and Voice Recognition Market By Leading Players, Future Applications, Trending Regions and Industry Share Estimate by 2026"
     excerpt: "The global “Speech and Voice Recognition Market” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
     publishedDateTime: 2020-09-28T13:38:00Z

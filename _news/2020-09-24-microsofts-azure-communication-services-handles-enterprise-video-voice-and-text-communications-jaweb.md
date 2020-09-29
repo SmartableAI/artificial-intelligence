@@ -9,8 +9,8 @@ ampWebUrl: "https://elmoudjaweb.com/microsofts-azure-communication-services-hand
 cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/microsofts-azure-communication-services-handles-enterprise-video-voice-and-text-communications-jaweb/?amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Elmoudjaweb
@@ -40,20 +40,6 @@ related:
       - url: "https://www.cioapplications.com/newstransfer/upload/jq72j450.jpg"
         width: 450
         height: 308
-        isCached: true
-  - title: "\"Dev-friendly\" APIs and SDKs in New Azure Service Simplify Building Rich Communication Experiences"
-    excerpt: "Microsoft this week unveiled the public preview of Azure Communication Services, a new platform for developers who want a simple and well-supported way to build new communications solutions or integrate them into existing applications."
-    publishedDateTime: 2020-09-24T09:51:00Z
-    webUrl: "https://adtmag.com/articles/2020/09/24/azure-communication-services.aspx"
-    type: article
-    provider:
-      name: adtmag.com
-      domain: adtmag.com
-    quality: 25
-    images:
-      - url: "https://adtmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/WindowsCloudBlueSkyBig.jpg"
-        width: 1665
-        height: 1158
         isCached: true
 
 secured: "h/8K9rsaPZ900KPbqdGIltlkMVY4r2W3OCfu5UBo4bEyfOmBI6+a8sp20RMnCs4PwBplgbdZhZSNrXnnhdNjrzhiGvKV8U9tLaSScIOIFBKWy4HeUTRMw8aIQestRGV9FXFyOqNE+PHw8wY3e2BoeCbppAbS4zkk8PkoYPZ5NPCIXPZHxolK5BrBIOOwlNIjmBUUw4FWVkRPiTF4nJCnpueZsT/XQV+IMECUAWurSYngpiqklxrY1e8Pf0q+4cIRoRrW77fDuBDnPK9q+GaH1mT+jLkkZ5upkjyyOKnzScGTMO5HfqRWa3ZT2GuBbtA/tDzGn+FZqojQ8lz2Ma1m34rXnN8D49hBxMmOCLycciFPW8dYM5U7oGLPVQijrI2AfCQtKEHRCCjfJZiJ8H2mSW55+uUsoYy4/yvEPSLqxvUP6xZPevaxvu+LKc14h9veoen1xjItLVSZLTVst/mFpxQuowAWKYTYJLWzHGueyaDJdcr45DBDjZMUF7XaGZrm0THgQ+YWdyBmfmi4jLtaGw==;ylhY6cgnq+h584rmaFRSAw=="

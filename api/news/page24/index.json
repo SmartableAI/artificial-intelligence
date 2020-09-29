@@ -2,81 +2,6 @@
   "page": 24,
   "value": [
     {
-      "path": "_news/2020-09-09-artificial-intelligence-perception-vs-reality.md",
-      "title": "Artificial Intelligence: Perception vs. Reality",
-      "excerpt": "Xue: Oh, I think actually companies are using it. There are some well known example like Tesla self-driving and Google, Google search, Apple's Siri and all the other application, famous applications. Even just talk about those less famous examples like our ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.datamation.com/artificial-intelligence/artificial-intelligence-perception-vs.-reality.html",
-      "originalUrl": "https://www.datamation.com/artificial-intelligence/artificial-intelligence-perception-vs.-reality.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datamation",
-        "domain": "datamation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-coders-software-engineers-find-work-with-right-skills.md",
-      "title": "Coders, Software Engineers Find Work with Right Skills",
-      "excerpt": "Experience with cloud-based infrastructures like MS-Azure, AWS, Google, Oracle ... general purpose programming language suitable for a variety of tasks in machine learning. Depending upon the specific machine learning application, the other suitable ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/design-hardware-software/coders-software-engineers-find-work-right-skills",
-      "originalUrl": "https://www.designnews.com/design-hardware-software/coders-software-engineers-find-work-right-skills",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/AdobeStock_267349628_700W.png",
-          "width": 700,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-09-nvidia-rtx-3090-3080-3070-gpu-price-release-date-and-specs-detailed.md",
       "title": "Nvidia RTX 3090, 3080, 3070 GPU: Price, Release Date, And Specs Detailed",
       "excerpt": "Nvidia revealed its new RTX 3000 line of Ampere-powered GPU earlier in the month--the RTX 3090, 3080, and 3070 cards. The new 3000 series is the second generation of RTX graphics cards that will run features like real-time ray tracing with much higher performance than current RTX cards.",
@@ -1165,6 +1090,99 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-08-facebook-is-working-on-ar-glasses-with-a-focus-on-audio-clarity.md",
+      "title": "Facebook is working on AR glasses with a focus on audio clarity",
+      "excerpt": "Facebook's Reality Labs Research wing is currently working on a number of projects designed to help us cut through noisy environments and zero in on folks we're trying to hold a conversation with, or enhance our daily lives when used with AR glasses.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/wearables/facebook-reality-labs-research-audio-enhancement-ar-glasses/",
+      "originalUrl": "https://newatlas.com/wearables/facebook-reality-labs-research-audio-enhancement-ar-glasses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/1fac25b/2147483647/strip/true/crop/2048x1365+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F41%2F1a%2F142f80554c73bf2b53bb42bb56e2%2Ffrl-research-audio-demo-2-2.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/wearables/facebook-reality-labs-research-audio-enhancement-ar-glasses/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/wearables/facebook-reality-labs-research-audio-enhancement-ar-glasses/?amp=true",
+      "publishedDateTime": "2020-09-08T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-08-edutainment-startup-sp-robotic-works-bags-tie50-winner-award-at-tiecon-2020.md",
+      "title": "Edutainment startup SP Robotic Works bags TiE50 Winner Award at TiEcon 2020",
+      "excerpt": "Pioneering as India's edutainment learning platform, SP Robotic Works has been selected as a 2020 TiE50 Winner in the prestigious TiE50 Awards Program. This ten-year-old awards competition is",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/content/press-releases-ani/edutainment-startup-sp-robotic-works-bags-tie50-winner-award-at-tiecon-2020-120090801411_1.html",
+      "originalUrl": "https://www.business-standard.com/content/press-releases-ani/edutainment-startup-sp-robotic-works-bags-tie50-winner-award-at-tiecon-2020-120090801411_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2020-09/08/full/20200908170816.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/content-amp/press-releases-ani/edutainment-startup-sp-robotic-works-bags-tie50-winner-award-at-tiecon-2020-120090801411_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/edutainment-startup-sp-robotic-works-bags-tie50-winner-award-at-tiecon-2020-120090801411_1.html",
+      "publishedDateTime": "2020-09-08T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

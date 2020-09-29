@@ -26,16 +26,21 @@ images:
 
 related:
   - title: "Can Tesla Really Produce A $25,000 Self-Driving Electric Car?"
-    excerpt: "During Tuesday’s much-hyped battery day, Tesla CEO Elon Musk laid out plans to put everyone behind the wheel (or is that sleeping in the"
-    publishedDateTime: 2020-09-26T22:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692"
+    excerpt: "During Tuesday’s much-hyped battery day, Tesla CEO Elon Musk laid out plans to put everyone behind the wheel (or is that sleeping in the back) of a $25,000 car that drives itself. Much of the ..."
+    publishedDateTime: 2020-09-26T21:01:00Z
+    webUrl: "https://oilprice.com/Energy/Energy-General/Can-Tesla-Really-Produce-A-25000-Self-Driving-Electric-Car.html"
+    ampWebUrl: "https://oilprice.com/Energy/Energy-General/Can-Tesla-Really-Produce-A-25000-Self-Driving-Electric-Car.amp.html"
+    cdnAmpWebUrl: "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Energy-General/Can-Tesla-Really-Produce-A-25000-Self-Driving-Electric-Car.amp.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
+      name: Crude Oil Prices
+      domain: oilprice.com
+    quality: 59
+    images:
+      - url: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2020-09-25_hxhwkuvma8.jpg"
+        width: 700
+        height: 292
+        isCached: true
 
 secured: "TcuNsc124+1m0KXtO0vuge3TjZgf4SOiWWgezqlfcJz1IL8nsXtLs7vGi0bBLLrZ6q9s7CpECbxgkjZAInnVT5dO7k47oz89RNn5AhDk8ymaYy/iHBdcKmSKQVXHheq21iWNGV1+APv1F75ue+8KYpqpHykQGBFYFCf1rAbcnYc2yd6VNzlSFnfV7jWdSnYDUlFvxKFnaSEaN69gdZbEFDC/9qKCjXfmNCxruaTrhUbIbGPF8KHtaVEVP1y6VGquKS9j/ZkUIBtsOVfcF3js3mHWuXaJrNciRaHMgdUOsrR/eXGZx9bZ+nNusX39qG/5wUagjIaw8JtQ345bNCP3QqzrR5oHf47AoaQWNu/aI1ijHiHPqu4f0WEJnoguFlH3GQYPtF+ZHkivkw8ZJ2h7dOeCiCPnpqhpVJW+hf1c/5Hq3s9iQRELkNU+sL44JTPirTtQEip2BFDZtBxGgi0QDFm2+5lV471ahMAdiAUMYgH1CDIDJGOIVl9ZTOlPgSsnwyXIaIMnsi1ikPmP5DBBvw==;WbSc5Me3a7j7CPRGYsQSfg=="
 ---

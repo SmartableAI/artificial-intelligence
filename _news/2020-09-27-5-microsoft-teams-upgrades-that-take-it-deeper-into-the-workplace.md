@@ -7,7 +7,7 @@ originalUrl: "https://www.cmswire.com/collaboration-productivity/5-microsoft-tea
 webUrl: "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/5-new-ways-to-boost-productivity-with-enhanced-teams-power/ba-p/1680697"
 type: article
 quality: 139
-heat: 279
+heat: 269
 published: true
 
 provider:
@@ -40,22 +40,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Fdf49deb0-fd76-11ea-afec-145aeeb4f3ac&client=amp-blogside-v2&signature=e1efb727751d470d04c033dfc8d047fc24126dc4"
         width: 600
         height: 350
-        isCached: true
-  - title: "A Microsoft-powered instant two-way translator"
-    excerpt: "A universal translator that allows instantaneous communication between speakers of different languages. The TARDIS does it in Doctor Who, the babble fish serves that function in The Hitchhiker's Guide to the Galaxy,"
-    publishedDateTime: 2020-09-24T11:00:00Z
-    webUrl: "https://www.zdnet.com/article/a-microsoft-powered-instant-two-way-translator/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/a-microsoft-powered-instant-two-way-translator/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-microsoft-powered-instant-two-way-translator/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 91
-    images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/09/23/a7fd5e67-9fdc-4cbc-8183-f6fe9cfbfb9a/cheetah-translator-plus.png"
-        width: 2540
-        height: 1042
         isCached: true
   - title: "Microsoft nabs exclusive license to key AI program"
     excerpt: "Microsoft announced a deal Tuesday that will give it the exclusive license to OpenAI's GPT-3 language model, a tool that uses machine learning to generate remarkably human sounding text. Why it matters: The deal provides a way for many companies to have access to the technology while seemingly allowing Microsoft to establish guardrails and parameters for how the technology can be used."

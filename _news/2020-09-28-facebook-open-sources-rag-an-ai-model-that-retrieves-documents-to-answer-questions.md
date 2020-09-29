@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/28/facebook-open-sources-rag-an-ai-m
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/28/facebook-open-sources-rag-an-ai-model-that-retrieves-documents-to-answer-questions/amp/"
 type: article
 quality: 83
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Machine Learning Answers: Facebook Stock Is Down 20% In A Month, What Are The Chances It’ll Rebound?"
-    excerpt: "According to the Trefis Machine Learning Engine, which identifies trends in the company’s stock price data since its IPO in May 2012, returns for Facebook stock average a little over 3% in the next one-month (21 trading days) period after experiencing a 20% drop over the previous month (21 trading days)."
-    publishedDateTime: 2020-09-24T10:52:00Z
-    webUrl: "https://www.nasdaq.com/articles/machine-learning-answers%3A-facebook-stock-is-down-20-in-a-month-what-are-the-chances-itll"
-    ampWebUrl: "https://www.nasdaq.com/articles/machine-learning-answers%3A-facebook-stock-is-down-20-in-a-month-what-are-the-chances-itll?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/machine-learning-answers%3A-facebook-stock-is-down-20-in-a-month-what-are-the-chances-itll?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
 
 secured: "uhGdANU03a8n5D8d2rVEx+3zmB9Bd6t/kwZTOqw+whtbKowbT5qV7iKYYDQVE51iXELMEgP91qEQOVmar1BYtSIWxYhXLaQmpe9TUtY9b53vvssTQ5sAOuArOoqbtY+H038xeidq1kQxlMlQZDoAbFiwjoEoXLnpowwLw9P3lEoT5aflM2WmpAU0tijMGqNiWeocSOxwfWaV97ZAkXOontE8Wlu2HiRDfEA47IZo5B3bPuNUoEGmsf8gNOtTa9LQL+TrFDd/ed6xr5jGaDHZANtVH6RBdAgWPXHnV2vSfJtoyeln4zKetxwntLrvXpcBVKoCsy9A6lqk5HTCNpz67r+3HHXluKcXf4oy/TCnrTH3egKY1Z4bVXE2BLOKpMT3/39/Cidl1kqJ011YG0w9g8TK8BtUFG/uritg9jfJ82WjORtiLC+p/cygpmmujskt/atrzu6I3Ngn9iR6jxgHHSRv6pA1HfVnI/4uhtBbijCRFslM0Q+F9tco2ONj+g2lcmtZqdWOZiNRKBf9YkVONA==;CSl2QPneBR9WwKFOImRUWA=="
 ---

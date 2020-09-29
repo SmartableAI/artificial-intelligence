@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-share-2020-global-growth-trends-industry-analysis-key-players-and-forecast-to-2023-2020-09-17"
 type: article
 quality: 70
-heat: 190
+heat: 180
 published: true
 
 provider:
@@ -128,20 +128,6 @@ related:
       - url: "https://cdn.openpr.com/T/9/T925379440_g.jpg"
         width: 400
         height: 561
-        isCached: true
-  - title: "Data storage market Size Outlook, COVID19 Impact on Industry, Share Value, Global Growth Drivers and Industry Forecast to 2026"
-    excerpt: "Even though the trend of major companies to develop own storage platform such as Microsoft Azure, IBM Cloud ... data management, and AI and Machine learning offer opportunities for the data storage market to grow in the future. Besides, as the virtual ..."
-    publishedDateTime: 2020-09-24T10:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-storage-market-size-outlook-covid19-impact-on-industry-share-value-global-growth-drivers-and-industry-forecast-to-2026-2020-09-24?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Voice Recognition Market 2020 with Top Countries Data, Growth Analysis, Applications, Major Drivers, Value and Forecasts till 2026"
     excerpt: "Global “Voice Recognition Market\" 2020 Research Report provides key analysis on the market status of the Voice"

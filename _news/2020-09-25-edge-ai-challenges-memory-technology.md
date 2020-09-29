@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 643
         isCached: true
+  - title: "How This Digital Avatar Is Elevating AI Technology"
+    excerpt: "Lee has created a seamless transition from the physical to digital world with upscale imagery and a unique vision with the digital avatar Aliza Rexx. Aliza is currently one of the fastest growing digital avatars with a loyal following on social media ever since she made her debut in 2018."
+    publishedDateTime: 2020-09-28T17:32:00Z
+    webUrl: "https://www.forbes.com/sites/isisbriones/2020/09/28/how-this-digital-avatar-is-elevating-ai-technology/"
+    ampWebUrl: "https://www.forbes.com/sites/isisbriones/2020/09/28/how-this-digital-avatar-is-elevating-ai-technology/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/isisbriones/2020/09/28/how-this-digital-avatar-is-elevating-ai-technology/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f721ba48798ebc8ca144243%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D800%26cropY1%3D161%26cropY2%3D611"
+        width: 800
+        height: 450
+        isCached: true
   - title: "AI recycling technology uses Raspberry Pi and robots"
     excerpt: "A team of engineers used the popular device to create a way to automate the way we recycle. A team of engineers has used Raspberry Pi to power an AI recycling"
     publishedDateTime: 2020-09-24T12:09:00Z
