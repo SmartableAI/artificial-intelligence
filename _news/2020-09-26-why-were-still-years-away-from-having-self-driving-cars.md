@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Self-driving cars are still going to take a long time, people"
+    excerpt: "A few years ago, I visited a super promising company called Luminar, which makes LiDAR, or Light Detection and Ranging, technology that helps autonomous cars see the world around them. Now, Luminar is going public."
+    publishedDateTime: 2020-09-29T11:07:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/self-driving-cars-luminar-autonomous-driving-highways/"
+    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/self-driving-cars-luminar-autonomous-driving-highways?amp"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/self-driving-cars-luminar-autonomous-driving-highways?amp"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 44
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2020/09/image-1.png?fit=740%2C416"
+        width: 740
+        height: 416
+        isCached: true
 
 secured: "VOXo3lO4bnLEe5CwpCmOv4rDL9i99XJZ1t7f9pFom+kB8NuMxQAIakJ8SCkrJvh2fGbK8djpQq4kyhBCGnu9HYfGF+xg+gGZI/bMTbhQ4sRiMNd2QQ5JtGKMSmfaNMAdHmhXYLBEW8VSzGQiul26COrqzY4za+Tf2OMzPSfiVj+K4+7VQP3n9pJtsb8pcFdOSYex2qoTjPQQoIQM0FkrsRm0lGjikP3DtGEyos3aXrd+bWpF3Ct7hQGBNbucxKsf07z+SkD2k8ElMRWQw5nStX4dxPupbBa68jLeV9X6bLYU5PSuJ0KNCuwifvbyKz8rwfCNxWR9RCybu6rXQ6U02lEsd7LgMe3J8TtgPtU4UPM=;MVTGWYCIZUmqwBO5FfhO3A=="
 ---

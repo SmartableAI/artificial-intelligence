@@ -3,13 +3,13 @@ category: news
 title: "Neural network trained to control anesthetic doses, keep patients under during surgery"
 excerpt: "Academics from the Massachusetts Institute of Technology (MIT) and Massachusetts General Hospital have demonstrated how neural networks can be trained to administer anesthetic during surgery. Over the past decade,"
 publishedDateTime: 2020-09-28T09:11:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/neural-network-trained-to-control-anaesthetic-doses-keep-patients-under-during-surgery/"
-webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/neural-network-trained-to-control-anaesthetic-doses-keep-patients-under-during-surgery/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/neural-network-trained-to-control-anaesthetic-doses-keep-patients-under-during-surgery/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/neural-network-trained-to-control-anaesthetic-doses-keep-patients-under-during-surgery/"
+originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/neural-network-trained-to-control-anaesthetic-doses-keep-patients-under-during-surgery/"
+webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/neural-network-trained-to-control-anaesthetic-doses-keep-patients-under-during-surgery/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/neural-network-trained-to-control-anaesthetic-doses-keep-patients-under-during-surgery/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/neural-network-trained-to-control-anaesthetic-doses-keep-patients-under-during-surgery/"
 type: article
-quality: 76
-heat: 76
+quality: 96
+heat: 96
 published: true
 
 provider:
@@ -24,6 +24,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "RDeMOvw0I/GbVtSf0oYppALuwiGKRYhYe9sgB0mjW7pdhOPH4aeEbA7gWaUSHGpQDJuW5VXHsZIgj4McdDLN8HNEtdx+gBtMQBXh/xHBJj+N8X3wMDnEoYhUc2JcW3u5+32eAaZc8X4eZQHAT8ilMZqHJ/D+pU3FbB3SycB/KzDR9VWfheg0I/vTlGtEwEQMWMV8B8AePs/w6J1MvMgQQu8RWyYs5Kkd5ZqdRcezW3ErC+GTuwsQNZn0b8fmcZxFo/+0bjjBgvxAk5lh9O6Gel33Jtso5Bgu94ednEuxa4bBBAZ85fTkGsTSdXQoenYvyrCgsMu/UbEfYsizWAUU/jX5Nr6AmxnawGoDahcCgHpC5KH/B3CpIijd5+w2oQu5L/lLyVatScjd/+qAHeEgvdkRm13OVmNVi9Maq9MArvV8NJ/jIH1dhnFmYDozqlZAEitm+qAr4zq0nZThVfNk0JO7QwX0pm1rJpiZoaA1FlYlB0D8qAR9x00enrvJpRCpqQysAPpKg6SD5QakhzZ8AA==;tnCcwNukpELw9ISOuHK1HQ=="
+images:
+  - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/08/26/819edb0f-11d4-4321-8447-982555f1c2db/thumbnail/1200x675/069dd34a53a6dec72536b86bb559cefe/20200826-daphne-karen-neural.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "CwTOhqSgxgb36Qn21S4YxXVN5PToEOtNiNMj9eCIUD+/PqzZRd9+eHAEfoArAlqJpngQ70MxiZ+lvgpQabkgTSp/ZWiJnYjFeed0pWpYkHHXsTJhFgqaDpJRw7PV2h2YJM6mmaLlukwqk+Hr7g38UydtuzCXI2hi5EwLLNWXUBbtsGh6MjMEwS81ftqR5hxmF6eXKUEiihfsSVF1vlEaAYLW2qBDzIIxBoOldiqhQ1AznVtpsAkfGbenOgeT6YyIVGMnCoBOBqVznGHtl3mrUVWNYBA9VHtzKimx89fz8kWtUY4Q46UQLHakiflpC2I3LQyRCfftG43+iTcbXoSG8tfg6PQKLv7iZZHDb4fsJ8Y=;58EY1toPKLIVa+NYvaRXzg=="
 ---
 

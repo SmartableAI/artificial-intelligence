@@ -71,20 +71,6 @@ related:
         width: 966
         height: 643
         isCached: true
-  - title: "5 Uses of Artificial Intelligence in the Contact Center"
-    excerpt: "Artificial intelligence isn’t just a science fiction concept anymore. You can find it everywhere, from helping medical teams analyze results to personalized advertisements on social media. It has a ton of benefits for your contact center agents,"
-    publishedDateTime: 2020-09-24T17:19:00Z
-    webUrl: "https://customerthink.com/5-uses-of-artificial-intelligence-in-the-contact-center/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 39
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-166139079-ctmedia.jpg"
-        width: 1788
-        height: 1677
-        isCached: true
   - title: "Recruiter.com Expands Board with Experts in Artificial Intelligence and Corporate Finance"
     excerpt: "Recruiter.com Group, Inc., a leading hiring platform, has announced today that Deborah Leff, Global Leader and Industry CTO for Data Science and Artificial Intelligence and Nick Florio, CPA, and founder of Strategic Staffing Concepts,"
     publishedDateTime: 2020-09-24T22:55:00Z

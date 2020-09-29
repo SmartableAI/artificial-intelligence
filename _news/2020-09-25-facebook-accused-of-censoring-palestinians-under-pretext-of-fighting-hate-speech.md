@@ -26,20 +26,20 @@ images:
 
 related:
   - title: "Palestinian leader calls for new peace process in UN speech"
-    excerpt: "Palestinian President Mahmoud Abbas on Friday called for an international conference early next year to launch a \"genuine peace process\" while criticizing the recent decision of two Arab countries to normalize relations with Israel."
-    publishedDateTime: 2020-09-25T15:37:00Z
-    webUrl: "https://www.chron.com/news/article/Palestinian-leader-calls-for-new-peace-process-in-15597017.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Palestinian-leader-calls-for-new-peace-process-in-15597017.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Palestinian-leader-calls-for-new-peace-process-in-15597017.php"
+    excerpt: "Palestinian President Mahmoud Abbas has called for an international conference early next year to launch a \"genuine peace process.”"
+    publishedDateTime: 2020-09-25T15:43:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/palestinian-leader-calls-peace-process-speech-73242966"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/palestinian-leader-calls-peace-process-speech-73242966"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/palestinian-leader-calls-peace-process-speech-73242966"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 44
     images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
+      - url: "https://s.abcnews.com/images/International/WireAP_dc953cda8c164be68954efa57304a11b_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Palestinian leader calls for new peace process in UN speech"
     excerpt: "Palestinian President Mahmoud Abbas on Friday called for an international conference early next year to launch a \"genuine peace process\" while criticizing the recent decision of two Arab countries to normalize relations with Israel."

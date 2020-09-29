@@ -2,6 +2,200 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-29-navigating-covid-19-with-conversational-ai.md",
+      "title": "Navigating COVID-19 With Conversational AI",
+      "excerpt": "At the forefront of creating deep and engaging conversations via rich-media interactions, Conversational AI has proven itself to be of immense value in the current crisis with vast potential as a new",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/356864",
+      "originalUrl": "https://www.entrepreneur.com/article/356864",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1601378445-artificial-intelligence-3382507-19201.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/356864",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356864",
+      "publishedDateTime": "2020-09-29T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-the-national-guards-fire-mapping-drones-get-an-ai-upgrade.md",
+      "title": "The National Guard’s Fire-Mapping Drones Get an AI Upgrade",
+      "excerpt": "Algorithms that quickly track the movement of wildfires could help firefighters‚ but the tech could also be put to non-humanitarian use.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/national-guards-fire-mapping-drones-get-ai-upgrade/",
+      "originalUrl": "https://www.wired.com/story/national-guards-fire-mapping-drones-get-ai-upgrade/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f7241eea8ee0ec61f9f13e9/master/pass/business_wildfire_160915-Z-OI569-1259.jpg",
+          "width": 2400,
+          "height": 1597,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/national-guards-fire-mapping-drones-get-ai-upgrade/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/national-guards-fire-mapping-drones-get-ai-upgrade/amp",
+      "publishedDateTime": "2020-09-29T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-british-billionaire-jim-mellon-plans-to-take-his-life-extension-start-up-public-in-six-to-12-months.md",
+      "title": "British billionaire Jim Mellon plans to take his life extension start-up public in six to 12 months",
+      "excerpt": "British billionaire Jim Mellon is planning to take his life extension company coupublic in the next six to 12 months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/09/29/billionaire-jim-mellon-plans-to-take-life-extension-start-up-public.html",
+      "originalUrl": "https://www.cnbc.com/2020/09/29/billionaire-jim-mellon-plans-to-take-life-extension-start-up-public.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104911349-GettyImages-872029500.jpg?v=1532563709",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/09/29/billionaire-jim-mellon-plans-to-take-life-extension-start-up-public.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/29/billionaire-jim-mellon-plans-to-take-life-extension-start-up-public.html",
+      "publishedDateTime": "2020-09-29T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-covid-19-nec-to-install-thermal-facial-recognition-scanners-at-airports.md",
+      "title": "Covid-19: NEC to install thermal, facial recognition scanners at airports",
+      "excerpt": "NEC Corporation of Malaysia Sdn Bhd is in the midst of installing thermal and facial recognition scanners to detect Covid-19 infections",
+      "sourceUrl": null,
+      "webUrl": "https://www.thesundaily.my/home/covid-19-nec-to-install-thermal-facial-recognition-scanners-at-airports-XB4322246",
+      "originalUrl": "https://www.thesundaily.my/home/covid-19-nec-to-install-thermal-facial-recognition-scanners-at-airports-XB4322246",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesundaily.my/binrepository/480x258/0c4/480d250/none/11808/RGVA/thermalcamerastory_1613239_20200929151938.jpg",
+          "width": 480,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-29T00:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sun",
+        "domain": "thesundaily.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-hot-ai-chips-to-look-forward-to-in-2021.md",
       "title": "Hot AI Chips To Look Forward To In 2021",
       "excerpt": "Qualcomm has announced their Cloud AI 100 accelerator, and with their experience in developing communications and smartphone technologies",
@@ -98,8 +292,8 @@
       "title": "Ai Weiwei: 'Too late' to curb China's global influence",
       "excerpt": "The leading Chinese dissident, the artist and filmmaker Ai Weiwei, says China's influence has become so great that it can't now be effectively stopped. \"The West should really have worried about China decades ago.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-asia-china-54321598",
-      "originalUrl": "https://www.bbc.com/news/world-asia-china-54321598",
+      "webUrl": "https://www.bbc.com/news/world-asia-china-54321598?at_campaign=64&at_custom1=%5Bpost+type%5D&at_custom2=twitter&at_custom4=F082CC54-01E6-11EB-B7A6-ABF94744363C&at_medium=custom7",
+      "originalUrl": "https://www.bbc.com/news/world-asia-china-54321598?at_campaign=64&at_custom1=%5Bpost+type%5D&at_custom2=twitter&at_custom4=F082CC54-01E6-11EB-B7A6-ABF94744363C&at_medium=custom7",
       "featuredContent": null,
       "highlight": null,
       "heat": 97,
@@ -1025,183 +1219,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020.md",
-      "title": "Synopsys to Host Panel on AI for Chip Design at AI Hardware Summit 2020",
-      "excerpt": "PRNewswire/ --Synopsys, Inc. (Nasdaq: SNPS) today announced that Arun Venkatachar, VP of AI and Central Engineering, will participate in a panel discussion with participants from Intel and Google at the 2020 AI Hardware Summit on the topic of AI and whether it can revolutionize the way chips are designed today.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020-1029626943",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020-1029626943",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020-1029626943",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020-1029626943",
-      "publishedDateTime": "2020-09-28T06:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-our-goal-shouldnt-be-to-build-merely-trustworthy-ai.md",
-      "title": "Our goal shouldn’t be to build merely ‘trustworthy’ AI",
-      "excerpt": "Mariarosaria Taddeo, Deputy Director of the Oxford Internet Institute's Digital Ethics Lab, explains why AI ethics must be a continuous practice.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/09/28/our-goal-shouldnt-be-to-build-merely-trustworthy-ai/",
-      "originalUrl": "https://thenextweb.com/neural/2020/09/28/our-goal-shouldnt-be-to-build-merely-trustworthy-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Untitled-design-2020-09-28T104701.865-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/09/28/our-goal-shouldnt-be-to-build-merely-trustworthy-ai/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/28/our-goal-shouldnt-be-to-build-merely-trustworthy-ai/amp/",
-      "publishedDateTime": "2020-09-28T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-this-interactive-vr-film-lets-you-play-god-to-an-evolving-artificial-intelligence.md",
-      "title": "This interactive VR 'film' lets you play god to an evolving artificial intelligence",
-      "excerpt": "If you could play god to an emerging artificial intelligence, would you? Or better: Should you? That’s the moral dilemma at the heart of Agence, an interactive “dynamic film” that blends ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/agence-ai-vr-film/",
-      "originalUrl": "https://mashable.com/article/agence-ai-vr-film/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F09%252F28%252Ffd%252F5554a8fadfd8486f97c31cc8336ffa35.15cd6.jpg%252F1200x630.jpg?signature=1oiSYK9Cltjtd5iFuSmbIu1--2w=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/agence-ai-vr-film.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/agence-ai-vr-film.amp",
-      "publishedDateTime": "2020-09-28T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-covid-19-aid-bill-otooles-speech-headline-parliaments-first-full-week.md",
-      "title": "COVID-19 aid bill, O'Toole's speech headline Parliament's first full week",
-      "excerpt": "Conservative Leader Erin O'Toole and the Bloc Quebecois chief Yves-Francois Blanchet are expected to take their seats in the House of Commons this week after being benched due to COVID-19.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bnnbloomberg.ca/covid-19-aid-bill-o-toole-s-speech-headline-parliament-s-first-full-week-1.1500424",
-      "originalUrl": "https://www.bnnbloomberg.ca/covid-19-aid-bill-o-toole-s-speech-headline-parliament-s-first-full-week-1.1500424",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.bnnbloomberg.ca/polopoly_fs/1.1484036!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/erin-o-toole.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bnnbloomberg.ca/covid-19-aid-bill-o-toole-s-speech-headline-parliament-s-first-full-week-1.1500424.amp.html",
-      "cdnAmpWebUrl": "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/covid-19-aid-bill-o-toole-s-speech-headline-parliament-s-first-full-week-1.1500424.amp.html",
-      "publishedDateTime": "2020-09-28T06:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bnnbloomberg",
-        "domain": "bnnbloomberg.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

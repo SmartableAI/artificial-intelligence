@@ -81,20 +81,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Manufacturing Market 2020 with COVID-19 Impact Analysis | Upcoming Trends & Forecast Till 2027"
-    excerpt: "The global artificial intelligence (AI) in manufacturing market size is expected to rise owing to increasing demand"
-    publishedDateTime: 2020-09-28T11:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-manufacturing-market-2020-with-covid-19-impact-analysis-upcoming-trends-forecast-till-2027-2020-09-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Market – Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020-2026"
     excerpt: "According to a new study published by Polaris Market Research the Global Artificial Intelligence Market is anticipated"
     publishedDateTime: 2020-09-28T12:58:00Z
@@ -103,21 +89,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Social Media Market Share, Historical Growth, Analysis, Opportunities and Forecast To 2028 COVID-19 Of Impact"
-    excerpt: "An estimated 51.2 % of the global population was using internet by the end of 2018 - International Telecommunication"
-    publishedDateTime: 2020-09-25T13:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-social-media-market-share-historical-growth-analysis-opportunities-and-forecast-to-2028-covid-19-of-impact-2020-09-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

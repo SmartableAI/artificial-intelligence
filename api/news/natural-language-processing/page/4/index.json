@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-19-how-duolingo-uses-ai-in-every-part-of-its-app.md",
+      "title": "How Duolingo uses AI in every part of its app",
+      "excerpt": "We spoke to von Ahn about all the ways Duolingo uses AI and then ... Knowing how to translate individual words isn’t enough for effective communication in a new language. Sentence construction ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/18/how-duolingo-uses-ai-in-every-part-of-its-app/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/duolingo-luis-von-ahn.jpeg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/18/how-duolingo-uses-ai-in-every-part-of-its-app/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/18/how-duolingo-uses-ai-in-every-part-of-its-app/amp/",
+      "publishedDateTime": "2020-08-18T21:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-19-full-transcript-of-michelle-obamas-dnc-speech.md",
       "title": "Full Transcript of Michelle Obama’s D.N.C. Speech",
       "excerpt": "Michelle Obama, the former first lady, was the keynote speaker on the first night of the 2020 Democratic National Convention.",

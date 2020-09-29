@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.entrepreneur.com/article/356864</loc>
+    <lastmod>2020-09-29T04:21:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wired.com/story/national-guards-fire-mapping-drones-get-ai-upgrade/</loc>
+    <lastmod>2020-09-29T04:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.cnbc.com/2020/09/29/billionaire-jim-mellon-plans-to-take-life-extension-start-up-public.html</loc>
+    <lastmod>2020-09-29T03:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.thesundaily.my/home/covid-19-nec-to-install-thermal-facial-recognition-scanners-at-airports-XB4322246</loc>
+    <lastmod>2020-09-29T00:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://analyticsindiamag.com/latest-ai-chips-accelerators-2021/</loc>
     <lastmod>2020-09-28T23:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -13,7 +37,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.bbc.com/news/world-asia-china-54321598</loc>
+    <loc>https://www.bbc.com/news/world-asia-china-54321598?at_campaign=64&amp;at_custom1=%255Bpost+type%255D&amp;at_custom2=twitter&amp;at_custom4=F082CC54-01E6-11EB-B7A6-ABF94744363C&amp;at_medium=custom7</loc>
     <lastmod>2020-09-28T16:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -151,8 +175,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.chron.com/news/article/Dissident-Ai-Weiwei-protests-possible-extradition-15602451.php</loc>
-    <lastmod>2020-09-28T05:30:00-07:00</lastmod>
+    <loc>https://abcnews.go.com/Entertainment/wireStory/dissident-ai-weiwei-protests-extradition-assange-73289487</loc>
+    <lastmod>2020-09-28T05:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -169,7 +193,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/index.php/category/2381/index.php/article/neural-network-trained-to-control-anaesthetic-doses-keep-patients-under-during-surgery/</loc>
+    <loc>https://www.zdnet.com/index.php/category/10250/4/index.php/article/neural-network-trained-to-control-anaesthetic-doses-keep-patients-under-during-surgery/</loc>
     <lastmod>2020-09-28T02:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -333,12 +357,6 @@
   <url>
     <loc>https://www.forbes.com/sites/forbestechcouncil/2020/09/25/how-ai-and-technology-can-help-patients-manage-chronic-pain/</loc>
     <lastmod>2020-09-25T05:46:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/impact-of-covid-19-on-deep-learning-market-size-share-and-top-key-players-during-2020-2028-2020-09-24</loc>
-    <lastmod>2020-09-25T05:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -717,6 +735,12 @@
   <url>
     <loc>https://www.cnet.com/news/adobe-peps-up-pdf-on-smartphones-with-ai-powered-liquid-reformatting/</loc>
     <lastmod>2020-09-23T06:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://apnews.com/globenewswire-mobile/ec8d4b7fb59d775af89ed10017572bf9</loc>
+    <lastmod>2020-09-23T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

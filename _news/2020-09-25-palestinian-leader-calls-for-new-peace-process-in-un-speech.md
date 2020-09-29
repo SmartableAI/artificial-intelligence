@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Palestinian leader calls for new peace process in UN speech"
-excerpt: "Palestinian President Mahmoud Abbas on Friday called for an international conference early next year to launch a \"genuine peace process\" while criticizing the recent decision of two Arab countries to normalize relations with Israel."
-publishedDateTime: 2020-09-25T15:37:00Z
-originalUrl: "https://www.chron.com/news/article/Palestinian-leader-calls-for-new-peace-process-in-15597017.php"
-webUrl: "https://www.chron.com/news/article/Palestinian-leader-calls-for-new-peace-process-in-15597017.php"
-ampWebUrl: "https://www.chron.com/news/amp/Palestinian-leader-calls-for-new-peace-process-in-15597017.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Palestinian-leader-calls-for-new-peace-process-in-15597017.php"
+excerpt: "Palestinian President Mahmoud Abbas has called for an international conference early next year to launch a \"genuine peace process.”"
+publishedDateTime: 2020-09-25T15:43:00Z
+originalUrl: "https://abcnews.go.com/International/wireStory/palestinian-leader-calls-peace-process-speech-73242966"
+webUrl: "https://abcnews.go.com/International/wireStory/palestinian-leader-calls-peace-process-speech-73242966"
+ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/palestinian-leader-calls-peace-process-speech-73242966"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/palestinian-leader-calls-peace-process-speech-73242966"
 type: article
 quality: 44
 heat: 44
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-    width: 375
-    height: 211
+  - url: "https://s.abcnews.com/images/International/WireAP_dc953cda8c164be68954efa57304a11b_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -58,6 +58,6 @@ related:
         height: 682
         isCached: true
 
-secured: "It2DE3xOS/c707Aiu5psKCsUpoSVfbsp1HFOs2c+0ckcfg9KkvFdfZai/ns++CiN64O70U8l/g2dcdraTYMyRMC9FKlCb0qGF1a+GMDsGRcQTLhttaCV6UOq7sDDnJhpNCQq+6wDgDCH/eHlcwhUOhweR4ADss3pjXiU0De2huRcpzBa0QyJAcRDxl06xShwPXFSB7f+nMaXGX+m/3uTx1+pP0gdGxk5oIqs1qWLhm1ngyMjy6vQbS1+zIVZT9l446eyPxYlptu3DUCYnKLz0hJ1MGPK+FcIdUEDfiOf5QaGg1HXr3vqI7urI66gHXP5eZy3emcqBuXXbsg+7dAAHH20Ix1S0IvwL6y6odo6CZk=;+d+8s+QhbCWke2m8RHYy+Q=="
+secured: "N6Ais2LpmjIEgA2Q7TCRZGCLatAuQRrsg6stEQjhS/r8i3N/LGSDjaB+xVuwsSgHqo/tXnZOI67BEYa50BGdSiPgtXhNQHKlEioNk1ei7lEW3IOuEAaVhBmaEjoNehtoiPiir3JmZ2LX42lOy8SbTI/Lj6fhIXDuKnORJjP5lSN83voOJ+cm1FRpKLNto4EnHbGtVxOLyqs9/VBmm0MTNMpOueJy9qW8n272Zta1f3q7JmNoxVNdbU9zinBfJ7KF24spvIlIt6RVEboaAoUTUYWPqa7wvPG2r6kE3iI17I16MLhzVfPxRRT/0NMEux+blOfyqQb7sXJzHeGyVnanGZCB2uiqC3khFEzA9hhj0bQ=;n3wSEUwFa9j/S4x3fU9f1w=="
 ---
 

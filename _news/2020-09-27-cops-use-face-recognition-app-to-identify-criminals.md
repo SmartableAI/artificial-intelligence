@@ -43,6 +43,20 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Madurai City Police using facial recognition tool to identify ‘suspicious’ people"
+    excerpt: "Since last week, the Madurai City Police in Tamil Nadu have been using a facial recognition application in a bid to nab potential criminals roaming around, especially in the night. The police claimed that with the rising number of chain snatching ..."
+    publishedDateTime: 2020-09-29T10:49:00Z
+    webUrl: "https://www.medianama.com/2020/09/223-madurai-police-facial-recognition/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 49
+    images:
+      - url: "https://i2.wp.com/www.medianama.com/wp-content/uploads/iStock-626867894-1620x1080.jpg?fit=1620%2C1080&#038;ssl=1"
+        width: 1620
+        height: 1080
+        isCached: true
 
 secured: "HPioj8nRT3P+L8HM4WKv+BV5UHg10re8Tzijq+PV6hxqjZMsU0rKT9sBbq5o1LRVSJavahXwJTEutGheuAkQ0n8tudGgH3DNViAwRBVpueC4fwmJ1aVp+69eu0NdpsWDX8drtJxBUymd/qZO0MAqCPX4tlSbhGsONX/7BD8WlSRE4S7VfckBCvA48O07iDWhQl/RMrpsHK6ZSxAbS32kYV1I8XnBH8kVA1D2HrV7rreMkosU/7oRKmnWgOrQkPiQ0Slzpjm4LzmsNF9e6JQuLLCO6coXqHRAurKQ4j8T29QUJeiHpDHzFa0s8x053iYB5EsWPX8NZCu1ExmubrGGCXFfUYAv3C69d6y8lyUq9Sk=;lON03fFuxTzlxGTYX2NZIQ=="
 ---

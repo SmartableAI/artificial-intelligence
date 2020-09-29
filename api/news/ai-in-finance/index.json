@@ -200,6 +200,48 @@
       ]
     },
     {
+      "path": "_news/2020-09-23-financial-venture-studio-opens-application-for-next-seed-stage-fintech-cohort.md",
+      "title": "Financial Venture Studio Opens Application for Next Seed-Stage Fintech Cohort",
+      "excerpt": "(GLOBE NEWSWIRE) -- Financial Venture Studio (FVS) is now accepting applications for its next seed-stage cohort. Interested U.S.-based companies should apply today for the chance to be part of the nation’s premier program for seed-stage fintech startups.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/globenewswire-mobile/ec8d4b7fb59d775af89ed10017572bf9",
+      "originalUrl": "https://apnews.com/globenewswire-mobile/ec8d4b7fb59d775af89ed10017572bf9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-23T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-fincen-files-show-banks-use-of-ai-and-machine-learning-effective-in-kycaml.md",
       "title": "FinCEN Files Show Banks’ Use Of AI And Machine Learning Effective In KYC/AML",
       "excerpt": "Documents submitted to FinCEN show that several of the largest global banks moved money on behalf of those involved in criminal financial activity.",
@@ -1341,57 +1383,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-08-25T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-what-healthcare-can-learn-from-fintechs-digital-evolution.md",
-      "title": "What Healthcare Can Learn From Fintech’s Digital Evolution",
-      "excerpt": "The digital disruption of the banking industry offers helpful comparisons and takeaways for the future of healthcare and healthcare finance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/08/25/what-healthcare-can-learn-from-fintechs-digital-evolution/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/08/25/what-healthcare-can-learn-from-fintechs-digital-evolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f43f423828d8baa4696f810%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/08/25/what-healthcare-can-learn-from-fintechs-digital-evolution/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/08/25/what-healthcare-can-learn-from-fintechs-digital-evolution/amp/",
-      "publishedDateTime": "2020-08-25T04:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

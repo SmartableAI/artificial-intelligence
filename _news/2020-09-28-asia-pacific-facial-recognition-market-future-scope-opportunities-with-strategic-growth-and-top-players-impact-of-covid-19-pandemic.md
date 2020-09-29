@@ -29,49 +29,33 @@ images:
     isCached: true
 
 related:
-  - title: "Impact Of COVID-19 On Deep Learning Market Size, Share and Top Key Players During 2020-2028"
-    excerpt: "An estimated 51.2 % of the global population was using internet by the end of 2018 - International Telecommunication"
-    publishedDateTime: 2020-09-25T12:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/impact-of-covid-19-on-deep-learning-market-size-share-and-top-key-players-during-2020-2028-2020-09-24"
+  - title: "Covid-19: NEC to install thermal, facial recognition scanners at airports"
+    excerpt: "NEC Corporation of Malaysia Sdn Bhd is in the midst of installing thermal and facial recognition scanners to detect Covid-19 infections"
+    publishedDateTime: 2020-09-29T07:34:00Z
+    webUrl: "https://www.thesundaily.my/home/covid-19-nec-to-install-thermal-facial-recognition-scanners-at-airports-XB4322246"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence revamping exercise routines in the age of COVID-19"
-    excerpt: "Fitness routines have changed a lot during the pandemic. More people are opting to take their workout outside or choosing"
-    publishedDateTime: 2020-09-25T21:42:00Z
-    webUrl: "https://wtmj.com/homepage-showcase/2020/09/25/artificial-intelligence-revamping-exercise-routines-in-the-age-of-covid-19/"
-    ampWebUrl: "https://wtmj.com/homepage-showcase/2020/09/25/artificial-intelligence-revamping-exercise-routines-in-the-age-of-covid-19/amp/"
-    cdnAmpWebUrl: "https://wtmj-com.cdn.ampproject.org/c/s/wtmj.com/homepage-showcase/2020/09/25/artificial-intelligence-revamping-exercise-routines-in-the-age-of-covid-19/amp/"
-    type: article
-    provider:
-      name: WTMJ
-      domain: wtmj.com
+      name: The Sun
+      domain: thesundaily.my
     quality: 55
     images:
-      - url: "https://wtmj.com/wp-content/uploads/2020/09/Exercise.png"
-        width: 1333
-        height: 868
+      - url: "https://www.thesundaily.my/binrepository/480x258/0c4/480d250/none/11808/RGVA/thermalcamerastory_1613239_20200929151938.jpg"
+        width: 480
+        height: 250
         isCached: true
-  - title: "Face Recognition Systems Market Size, Share Report 2020 Shipments, Price, Revenue and Gross profit till 2025 With Impact of COVID-19"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Face Recognition Systems Market”"
-    publishedDateTime: 2020-09-28T11:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-size-share-report-2020-shipments-price-revenue-and-gross-profit-till-2025-with-impact-of-covid-19-2020-09-24"
+  - title: "ATO re-tenders for myGovID anti-spoofing facial recognition software"
+    excerpt: "The Australian Taxation Office has gone back to the market to find a facial recognition solution to underpin the government’s myGovID digital identity credentialing app. The national revenue agency issued a tender for a 'liveness' solution late last week,"
+    publishedDateTime: 2020-09-28T01:41:00Z
+    webUrl: "https://www.itnews.com.au/news/ato-re-tenders-for-mygovid-anti-spoofing-facial-recognition-software-553982"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://i.nextmedia.com.au/News/facial_biometric_identity.jpg"
+        width: 1254
+        height: 836
         isCached: true
 
 secured: "RI9Oo2y6f3ZyYXXg7QfVId4onj9YcKkcT+Q/orHYx2+S+f0OxfDb1vRAS8D0kss+LRybUnu8z4dJGwTfKi7I210//t1NSmumfQtm9sy+gN+BE4MV04+yQUhsyC7N5/LOO6Z9+Wh6fvlbhNEJGABbapclwJ8u3TsYs83Y9o0xNArCaNF6yJFugoG7qqQeXdcIqOqpwlIAyxHCvDvTOzCu2UTm+jOzsP2tzI6+pE1AYjrfDWh1fdJOcgIp/5RAhQwiPLM7LYcnJkWI8GNUj6XmxnJaYnEnX7W+jWyVfooBBoWxEU2MRruQRgwGwxiLROKQ4S6Jij/KCLFjqQgcJPc2L0WJozXQ8953knf8A+ZLBsA=;6xqsgZ7hb2cz8eSFgd4KvA=="

@@ -21,20 +21,20 @@ topics:
 
 related:
   - title: "Dissident Ai Weiwei protests possible extradition of Assange"
-    excerpt: "The dissident Chinese contemporary artist Ai Weiwei staged a silent protest outside London's Old Bailey court on Monday against the possible extradition of WikiLeaks founder Julian Assange to the United States,"
-    publishedDateTime: 2020-09-28T12:30:00Z
-    webUrl: "https://www.chron.com/news/article/Dissident-Ai-Weiwei-protests-possible-extradition-15602451.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Dissident-Ai-Weiwei-protests-possible-extradition-15602451.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Dissident-Ai-Weiwei-protests-possible-extradition-15602451.php"
+    excerpt: "Chinese contemporary artist Ai Weiwei staged a silent protest outside London’s Old Bailey court against the possible extradition of WikiLeaks founder Julian Assange to the United States where he is wa"
+    publishedDateTime: 2020-09-28T12:37:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/dissident-ai-weiwei-protests-extradition-assange-73289487"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/dissident-ai-weiwei-protests-extradition-assange-73289487"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/dissident-ai-weiwei-protests-extradition-assange-73289487"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 57
     images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_7d482ab7d19646ac9eba54c9b113eb24_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Artist Ai Weiwei holds silent protest for Julian Assange and says his possible prosecution is 'unbelievable'"
     excerpt: "The dissident Chinese artist says Julian Assange \"represents the very core value of why we are fighting, the freedom of the press\" and he should be a \"free man\"."

@@ -41,6 +41,22 @@ related:
         width: 1597
         height: 1080
         isCached: true
+  - title: "Microsoft Azure for Operators is a cloud platform for telcos"
+    excerpt: "Microsoft’s push into the telecoms market continues with the launch of a dedicated suite of cloud services called ‘Azure for Operators’, hoping to capitalise on increased demand from telcos in the 5G era."
+    publishedDateTime: 2020-09-29T10:58:00Z
+    webUrl: "https://www.techradar.com/in/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos"
+    ampWebUrl: "https://www.techradar.com/in/amp/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 104
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/kExEad3yNfdKVXRBuEsmfc-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Deep Neural Networks Market Booming Worldwide with leading Players Google, Oracle, Microsoft, IBM"
     excerpt: "Global Deep Neural Networks Market The global Deep Neural Networks Market size was valued at USD 1.26 Billion in 2019 and is anticipated to reach USD 5.98 Billion by 2027 at a CAGR of 21.4%. The global neural networks market is growing predominantly as the demand for implementing the deep neural network in healthcare and BFSI sectors are flourishing extensively."
     publishedDateTime: 2020-09-29T08:25:00Z
@@ -96,6 +112,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 54
+  - title: "Azure for Operators launches as Microsoft faces global outage"
+    excerpt: "Microsoft it taking the rough with the smooth this week as it announced the launch of Azure for Operators, while tackling a major global outage."
+    publishedDateTime: 2020-09-29T10:47:00Z
+    webUrl: "https://www.capacitymedia.com/articles/3826485/azure-for-operators-launches-as-microsoft-faces-global-outage"
+    type: article
+    provider:
+      name: Capacity Media
+      domain: capacitymedia.com
+    quality: 54
+    images:
+      - url: "https://www.capacitymedia.com/Image/ServeImage?id=49446&w=780&h=442&cr=true"
+        width: 780
+        height: 442
+        isCached: true
   - title: "Microsoft launches Azure for Operators to expand connectivity"
     excerpt: "Microsoft announced intent to expand connectivity, including 5G, by working with network operators to launch Azure for Operators"
     publishedDateTime: 2020-09-28T18:51:00Z

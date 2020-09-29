@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingl
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingly-being-designed-to-apologize-but-self-driving-cars-are-not-hip-to-the-idea/amp/"
 type: article
 quality: 78
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/vWVvsfC0F_Tdmm4OmAkpT0S-fbw=/0x0:3000x2000/1400x1050/filters:focal(1866x972:2346x1452):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67470406/VOX_18.0.jpg"
         width: 1400
         height: 1050
+        isCached: true
+  - title: "Self-driving cars are still going to take a long time, people"
+    excerpt: "A few years ago, I visited a super promising company called Luminar, which makes LiDAR, or Light Detection and Ranging, technology that helps autonomous cars see the world around them. Now, Luminar is going public."
+    publishedDateTime: 2020-09-29T11:07:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/self-driving-cars-luminar-autonomous-driving-highways/"
+    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/self-driving-cars-luminar-autonomous-driving-highways?amp"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/self-driving-cars-luminar-autonomous-driving-highways?amp"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 44
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2020/09/image-1.png?fit=740%2C416"
+        width: 740
+        height: 416
         isCached: true
 
 secured: "54RIKjabhUuP4J43IuQt28a1FzHGh1SMCtp30lYtQCaf8/KH9L/nYsGCvjxuPXjW0yGC8z+WQ+BsuaPCtKmbQoWa08F5eYzLGIjGtJQucEBwox+QbebztGpbAEYV4Zbj6VRcuhbDNC4lhG2aG3gauDwiUoYrLNA6Iv96LxTo+M3C2suGhtua+7zTMqqypS71MLVwr3l5JFeAWWBvDWGJYYAGuhl79wCto/MgoU/kiupef++p5xdkIs9/s6LGG3pwMCjOeT6yoj7TWv01p+XeOfM8ZOQ6qPdZQNpscXCLzqD935OH6rHTOuXrlP1guBETT8PxPM4AeEapKYXtBS8w6wAsZVh6xuLysXIEJN94JcNbc+AqlL+nz2onIQgHcZI7BFE5AMd1ZZRN2sanEmA8gh+JNCSAjVNN5F0VNS2ttvdb7epJn6esKHOvKOTLxlKgS13HyCOg7Yp2U10XH9Go503bR09yK+34K9fK67QyI2xofImwMmIUvI93y/Pj5fDNHeUTQ53KclPx51CRPsRe1A==;AJBKh4NEpAbpTbJDmA3LcQ=="

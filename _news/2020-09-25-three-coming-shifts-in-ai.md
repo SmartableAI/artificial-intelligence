@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/amirhusain/2020/09/25/three-coming-shif
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amirhusain/2020/09/25/three-coming-shifts-in-ai/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/09/Webp.net-resizeimage-1.jpg"
         width: 966
         height: 643
-        isCached: true
-  - title: "5 Uses of Artificial Intelligence in the Contact Center"
-    excerpt: "Artificial intelligence isn’t just a science fiction concept anymore. You can find it everywhere, from helping medical teams analyze results to personalized advertisements on social media. It has a ton of benefits for your contact center agents,"
-    publishedDateTime: 2020-09-24T17:19:00Z
-    webUrl: "https://customerthink.com/5-uses-of-artificial-intelligence-in-the-contact-center/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 39
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-166139079-ctmedia.jpg"
-        width: 1788
-        height: 1677
         isCached: true
   - title: "The Promise of Artificial Intelligence"
     excerpt: "Artificial intelligence and machine learning are increasingly being used to automate critical business functions and support clinicians making complex clinical decisions. As the pandemic challenges healthcare organizations to think innovatively to improve cost effectiveness,"

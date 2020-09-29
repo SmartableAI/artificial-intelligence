@@ -28,24 +28,26 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Chipset Market Share 2020 Global Growth, Trends, Industry Analysis, Key Players and Forecast to 2023"
-    excerpt: "Global Artificial Intelligence (AI) Chipset Market (2020-2023) Industry Research Report is a comprehensive analysis containing key information on key players, market trends, price analysis and market overview for the forecast period."
-    publishedDateTime: 2020-09-28T09:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-share-2020-global-growth-trends-industry-analysis-key-players-and-forecast-to-2023-2020-09-17"
+  - title: "Navigating COVID-19 With Conversational AI"
+    excerpt: "At the forefront of creating deep and engaging conversations via rich-media interactions, Conversational AI has proven itself to be of immense value in the current crisis with vast potential as a new"
+    publishedDateTime: 2020-09-29T11:21:00Z
+    webUrl: "https://www.entrepreneur.com/article/356864"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/356864"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356864"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 87
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1601378445-artificial-intelligence-3382507-19201.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
         isCached: true
-  - title: "AI in Social Media Market Size, Share, Growth, Trends, Scope and Forecast 2020 to 2030"
-    excerpt: "A new study on the global AI in Social Media Market has been published by Insight Slice. It presents a wealth of information on key market dynamics, including the drivers, market trends, and challenges,"
-    publishedDateTime: 2020-09-28T07:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-size-share-growth-trends-scope-and-forecast-2020-to-2030-2020-09-28"
+  - title: "Impact Of COVID-19 On Deep Learning Market Size, Share and Top Key Players During 2020-2028"
+    excerpt: "An estimated 51.2 % of the global population was using internet by the end of 2018 - International Telecommunication"
+    publishedDateTime: 2020-09-25T12:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/impact-of-covid-19-on-deep-learning-market-size-share-and-top-key-players-during-2020-2028-2020-09-24"
     type: article
     provider:
       name: MarketWatch
@@ -56,47 +58,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Machine Learning in Medical Imaging Market Sales Channels, Distributors and Porter's Five Forces Analysis| Zebra, Arterys, Aidoc"
-    excerpt: "The latest research report provides a complete assessment of the Global Machine Learning in Medical Imaging market for the forecast year 2020-2029, which is beneficial for companies regardless of their size and revenue."
-    publishedDateTime: 2020-09-26T06:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-in-medical-imaging-market-sales-channels-distributors-and-porters-five-forces-analysis-zebra-arterys-aidoc-2020-09-26?mod=mw_quote_news"
+  - title: "Artificial Intelligence revamping exercise routines in the age of COVID-19"
+    excerpt: "Fitness routines have changed a lot during the pandemic. More people are opting to take their workout outside or choosing"
+    publishedDateTime: 2020-09-25T21:42:00Z
+    webUrl: "https://wtmj.com/homepage-showcase/2020/09/25/artificial-intelligence-revamping-exercise-routines-in-the-age-of-covid-19/"
+    ampWebUrl: "https://wtmj.com/homepage-showcase/2020/09/25/artificial-intelligence-revamping-exercise-routines-in-the-age-of-covid-19/amp/"
+    cdnAmpWebUrl: "https://wtmj-com.cdn.ampproject.org/c/s/wtmj.com/homepage-showcase/2020/09/25/artificial-intelligence-revamping-exercise-routines-in-the-age-of-covid-19/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
+      name: WTMJ
+      domain: wtmj.com
+    quality: 55
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Supply Chain Market Outlook , Size, Forecasts, Demand, Competitive Analysis, Growth Factors, Key Players"
-    excerpt: "Global Artificial Intelligence in Supply Chain Industry was valued at USD 767.8 Million in the year 2018. Global"
-    publishedDateTime: 2020-09-28T06:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-outlook-size-forecasts-demand-competitive-analysis-growth-factors-key-players-2020-09-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market – Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020-2026"
-    excerpt: "According to a new study published by Polaris Market Research the Global Artificial Intelligence Market is anticipated"
-    publishedDateTime: 2020-09-28T12:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2026-2020-09-28?tesla=y"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://wtmj.com/wp-content/uploads/2020/09/Exercise.png"
+        width: 1333
+        height: 868
         isCached: true
   - title: "Artificial Intelligence (AI) in Social Media Market Share, Historical Growth, Analysis, Opportunities and Forecast To 2028 COVID-19 Of Impact"
     excerpt: "An estimated 51.2 % of the global population was using internet by the end of 2018 - International Telecommunication"
@@ -112,73 +88,34 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Autonomous Vehicle 2020 Global Market Key Players – AImotive, Apple, General Motors, Delphi Automotive - Analysis and Forecast to 2026"
-    excerpt: "Autonomous Vehicle Industry 2020 An autonomous vehicle commonly known as a self driving car or a driverless car is a vehicle that utilizes a combination of sensors radar cameras and artificial intelligence to travel between destinations without a human driver"
-    publishedDateTime: 2020-09-25T14:23:00Z
-    webUrl: "https://www.openpr.com/news/2143245/autonomous-vehicle-2020-global-market-key-players-aimotive"
-    ampWebUrl: "https://www.openpr.com/amp/2143245/autonomous-vehicle-2020-global-market-key-players-aimotive"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2143245/autonomous-vehicle-2020-global-market-key-players-aimotive"
+  - title: "COVID-19 Symptom Evaluation App, Built with Watson, Becomes Call for Code Regional Finalist"
+    excerpt: "As the COVID-19 pandemic has continued to spread, doctors and hospitals have been overwhelmed by anxious patients worried about a symptom and unclear on"
+    publishedDateTime: 2020-09-27T04:44:00Z
+    webUrl: "https://www.datanami.com/2020/09/25/covid-19-symptom-evaluation-app-built-with-watson-becomes-call-for-code-regional-finalist/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 27
+      name: datanami.com
+      domain: datanami.com
+    quality: 29
     images:
-      - url: "https://cdn.openpr.com/T/9/T925379440_g.jpg"
-        width: 400
-        height: 561
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/shutterstock_covid_app.jpg"
+        width: 1024
+        height: 768
         isCached: true
-  - title: "Voice Recognition Market 2020 with Top Countries Data, Growth Analysis, Applications, Major Drivers, Value and Forecasts till 2026"
-    excerpt: "Global “Voice Recognition Market\" 2020 Research Report provides key analysis on the market status of the Voice"
-    publishedDateTime: 2020-09-28T08:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-2020-with-top-countries-data-growth-analysis-applications-major-drivers-value-and-forecasts-till-2026-2020-09-28"
+  - title: "COVID-19 Recovery Analysis: Artificial Intelligence Platforms Market | Rise In Demand For AI-based Solutions to boost the Market Growth | Technavio"
+    excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence Platforms Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--Technavio has been monitoring the artificial intelligence platforms market and it is poised to grow by $ 12."
+    publishedDateTime: 2020-09-25T21:39:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200916005770/en/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
+      name: Business Wire
+      domain: businesswire.com
+    quality: 14
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://mms.businesswire.com/media/20200916005770/en/821962/23/IRTNTR44235.jpg"
         width: 1200
-        height: 630
+        height: 627
         isCached: true
-  - title: "Global Speech and Voice Recognition Market By Leading Players, Future Applications, Trending Regions and Industry Share Estimate by 2026"
-    excerpt: "The global “Speech and Voice Recognition Market” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2020-09-28T13:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-market-by-leading-players-future-applications-trending-regions-and-industry-share-estimate-by-2026-2020-09-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 21
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Healthcare Service Robots Market Analysis and Forecast, 2020-2025: Robots Lending a Hand During Covid-19 Outbreak - ResearchAndMarkets.com"
-    excerpt: "Analysis and Forecast, 2020-2025\" report has been added to ResearchAndMarkets.com's offering. The global healthcare service robots market was valued to be $462.3 million in 2019 and is anticipated to witness an impressive double-digit growth rate,"
-    publishedDateTime: 2020-09-25T08:20:00Z
-    webUrl: "https://www.dailyrecordnews.com/ap_news/business/global-healthcare-service-robots-market-analysis-and-forecast-2020-2025-robots-lending-a-hand-during/article_72c1d11e-b8c8-56c5-94f7-93f07085c5f2.html"
-    type: article
-    provider:
-      name: Ellensburg Daily Record
-      domain: dailyrecordnews.com
-    quality: 2
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/dailyrecordnews.com/content/tncms/custom/image/0ef5f48e-94dc-11e7-8ed4-3365baf52acf.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global 3D Machine Vision Market By Offering, By Product, By Application, By Industry Vertical, By Region, Industry Analysis and Forecast, 2020 - 2026"
-    excerpt: "Reportlinker.com announces the release of the report \"Global 3D Machine Vision Market By Offering, By Product, By Application, By Industry Vertical, By Region, Industry Analysis and Forecast, 2020 - 2026\" -  It consists of multiple cameras or various laser displacement sensors that deliver the robots information about the parts."
-    publishedDateTime: 2020-09-28T23:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-3d-machine-vision-market-by-offering-by-product-by-application-by-industry-vertical-by-region-industry-analysis-and-forecast-2020-2026-1029628508"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 0
 
 secured: "oiCqt201Ey7t3niMUbBOy1sn61povjIHw6PAMScLYgJ9v8HhmjEs3wPCIFNiWtd98SCtKP721LGYnd1ybA63qqhow6QLyN98wzqGVp1yi+PjqTHr+Biv+XbXqxlhi+QZ7A2uq8u2NVXTPoCcStB7qVvvfTioNnDXyWXmYXw9qvZ2aSVaQUblvtUzClGQ4rUDFrRoc/WeuccY5ljsBN9t+/miYtEXS+JVKXKNrBgECvXJ3k/V95lrDmC4zrqHffbpDnkgtg+gdfkUxouZHADjg2GnA7xRUEmjp5iowei297EL8yVy3IjDDvleqSuQUQ59zmoCsJyZM4W9ibJdpRpm0Uc0AWu3xhtwCBn3a4lKLIk=;reMyYL2Mbju7ErKNDKWd3Q=="
 ---

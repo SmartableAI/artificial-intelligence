@@ -39,6 +39,20 @@ related:
         width: 480
         height: 250
         isCached: true
+  - title: "Asia Pacific Facial Recognition Market Future Scope, Opportunities with Strategic Growth and Top Players | Impact of COVID-19 Pandemic"
+    excerpt: "Asia Pacific facial recognition market will grow by 18.9% annually with a total addressable market cap of $36.4"
+    publishedDateTime: 2020-09-28T11:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/asia-pacific-facial-recognition-market-future-scope-opportunities-with-strategic-growth-and-top-players-impact-of-covid-19-pandemic-2020-09-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "WZhieXGQScamkgr08VLGAMKkYCQbsQFXFsmSn53fvpKH/9pVj8hIb9q+CggKkYOnGz+wGKbVVLlJjusxZhzIbbCjlDgFNB1Y27qXWwBhtqMOozVf8lqAOcg2EDbnNufGCzPoAx75sdqfbk4/EQFC8ZHb/VPccOiFseiZYXYWzja+848Qw926OWUFUu2mzA1QkvIUZJUDZx8UvNf3R04VCu8gykrw3GM9CiMn0KbcJZHilDoqMuz8XuEwU2BW2P6+uixg/zPM+NUvNvLwcj+ZYkeUVzhBwCsse+3TPVWyvK+ajUlsrW0Kd7P6zJ4INjjfVUfEOqeovWO2HSWWZoYFG2GWSpJwYJrH4SxDgrpNBdA=;P0WPTyCk/PopezwT06DEVQ=="
 ---

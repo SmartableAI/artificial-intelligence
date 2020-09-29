@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Navigating COVID-19 With Conversational AI"
+    excerpt: "At the forefront of creating deep and engaging conversations via rich-media interactions, Conversational AI has proven itself to be of immense value in the current crisis with vast potential as a new"
+    publishedDateTime: 2020-09-29T11:21:00Z
+    webUrl: "https://www.entrepreneur.com/article/356864"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/356864"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356864"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 87
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1601378445-artificial-intelligence-3382507-19201.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Impact Of COVID-19 On Deep Learning Market Size, Share and Top Key Players During 2020-2028"
     excerpt: "An estimated 51.2 % of the global population was using internet by the end of 2018 - International Telecommunication"
     publishedDateTime: 2020-09-25T12:15:00Z
@@ -40,33 +56,61 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Systems Market Size, Share Report 2020 Shipments, Price, Revenue and Gross profit till 2025 With Impact of COVID-19"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Face Recognition Systems Market”"
-    publishedDateTime: 2020-09-28T11:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-size-share-report-2020-shipments-price-revenue-and-gross-profit-till-2025-with-impact-of-covid-19-2020-09-24"
+  - title: "AI in Manufacturing Market 2020 with COVID-19 Impact Analysis | Upcoming Trends & Forecast Till 2027"
+    excerpt: "The global artificial intelligence (AI) in manufacturing market size is expected to rise owing to increasing demand"
+    publishedDateTime: 2020-09-28T11:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-manufacturing-market-2020-with-covid-19-impact-analysis-upcoming-trends-forecast-till-2027-2020-09-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 38
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Asia Pacific Facial Recognition Market Future Scope, Opportunities with Strategic Growth and Top Players | Impact of COVID-19 Pandemic"
-    excerpt: "Asia Pacific facial recognition market will grow by 18.9% annually with a total addressable market cap of $36.4"
-    publishedDateTime: 2020-09-28T11:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/asia-pacific-facial-recognition-market-future-scope-opportunities-with-strategic-growth-and-top-players-impact-of-covid-19-pandemic-2020-09-18"
+  - title: "Artificial Intelligence (AI) in Social Media Market Share, Historical Growth, Analysis, Opportunities and Forecast To 2028 COVID-19 Of Impact"
+    excerpt: "An estimated 51.2 % of the global population was using internet by the end of 2018 - International Telecommunication"
+    publishedDateTime: 2020-09-25T13:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-social-media-market-share-historical-growth-analysis-opportunities-and-forecast-to-2028-covid-19-of-impact-2020-09-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 37
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "COVID-19 Symptom Evaluation App, Built with Watson, Becomes Call for Code Regional Finalist"
+    excerpt: "As the COVID-19 pandemic has continued to spread, doctors and hospitals have been overwhelmed by anxious patients worried about a symptom and unclear on"
+    publishedDateTime: 2020-09-27T04:44:00Z
+    webUrl: "https://www.datanami.com/2020/09/25/covid-19-symptom-evaluation-app-built-with-watson-becomes-call-for-code-regional-finalist/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 29
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/shutterstock_covid_app.jpg"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "COVID-19 Recovery Analysis: Artificial Intelligence Platforms Market | Rise In Demand For AI-based Solutions to boost the Market Growth | Technavio"
+    excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence Platforms Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--Technavio has been monitoring the artificial intelligence platforms market and it is poised to grow by $ 12."
+    publishedDateTime: 2020-09-25T21:39:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200916005770/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 14
+    images:
+      - url: "https://mms.businesswire.com/media/20200916005770/en/821962/23/IRTNTR44235.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "Mi/1XDhZk9iZveErmSlO3CXESV3Nc8D2jPmfpglfSAg4lzYE7saCBthQofjGYljSbaeUgjKZFRLDKEhziUQgVjkv79picjot/a8jc2GDskodPlOBQoIr3nLimgSYVEfPT6Ie1NB223a8FtApp4T9I1A5xMzlmFzIaW/NNyQYijEzkHFjSkOq8onOJiTavTmsfWeHeWqsqGoYRk+xGzl8Nhe+EV0PlMMFHcenfmhR4ttE59d3+khmUYHnJsn6d1FDUrHWR+D2NU6nnu7NlMNMi9mDDJBZb/PWSDZDZetW5ioq5i4XnmZgPM90CaH0thqK8v3sU+goNMYsG2krfxACEQbj2E4P/d56h/jS5XxW8mRW/rCMk6HnEtqRfzSwaUXNtYdn2kL1Sz/MI73hmJ9BoKNIAAGnxe0v3DBs/rVSMQTW9Um5Un4EJQFOTo5Q6mwNSMte1ufkwPVnFgHck8T+X1kuFL/JqOg3yF5DH1siXCHE+1zBMFc4y+dktXRHynoOtjI3xo5wq3VSRUpw5YI79A==;nyL52y3l6vBvJEZiC2I85A=="

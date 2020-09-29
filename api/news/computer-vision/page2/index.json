@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-15-portland-becomes-first-city-to-ban-companies-from-using-facial-recognition-software-in-public.md",
+      "title": "Portland becomes first city to ban companies from using facial recognition software in public",
+      "excerpt": "City lawmakers are taking action over facial recognition software as the push for federal laws continue to lag.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/portland-becomes-first-city-to-ban-companies-from-using-facial-recognition-software-in-public/",
+      "originalUrl": "https://www.techrepublic.com/article/portland-becomes-first-city-to-ban-companies-from-using-facial-recognition-software-in-public/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/18/59230acb-bdff-45c2-8ebd-ed7360029d05/thumbnail/1200x675/e1b33d49ec267210d75278624895a30d/istock-1047259374.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/portland-becomes-first-city-to-ban-companies-from-using-facial-recognition-software-in-public/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/portland-becomes-first-city-to-ban-companies-from-using-facial-recognition-software-in-public/",
+      "publishedDateTime": "2020-09-14T12:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-ibm-pushes-for-us-to-limit-facial-recognition-system-exports.md",
       "title": "IBM pushes for US to limit facial recognition system exports",
       "excerpt": "In a letter [PDF] to the Commerce Department, IBM highlighted the need for tighter export controls for facial recognition technologies that employ for what it referred to as \"1-to-many\" matching. These suggested controls include controlling the export of both the high-resolution cameras used to collect data and the software algorithms used to analyse and match that data against a database of images,",
@@ -1308,48 +1359,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-t-hub-raytheon-technologies-select-3-start-ups-for-rtx-innovation-challenge.md",
-      "title": "T-Hub, Raytheon Technologies select 3 start-ups for RTX Innovation Challenge",
-      "excerpt": "Raytheon is seeking a system to improve and automate the way it inspects leased aircraft engines using computer vision, ML T-Hub and Raytheon Technologies, a global aerospace and defence company ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/info-tech/t-hub-raytheon-technologies-select-3-start-ups-for-rtx-innovation-challenge/article32512150.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/info-tech/t-hub-raytheon-technologies-select-3-start-ups-for-rtx-innovation-challenge/article32512150.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/info-tech/b3u8rk/article32512149.ece/ALTERNATES/LANDSCAPE_615/BL04T-Hub",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/t-hub-raytheon-technologies-select-3-start-ups-for-rtx-innovation-challenge/article32512150.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/t-hub-raytheon-technologies-select-3-start-ups-for-rtx-innovation-challenge/article32512150.ece/amp/",
-      "publishedDateTime": "2020-09-03T01:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
