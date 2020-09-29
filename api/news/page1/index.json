@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-29-ai-weiwei-too-late-to-curb-chinas-global-influence.md",
+      "title": "Ai Weiwei: 'Too late' to curb China's global influence",
+      "excerpt": "The leading Chinese dissident, the artist and filmmaker Ai Weiwei, says China's influence has become so great that it can't now be effectively stopped. \"The West should really have worried about China decades ago.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-asia-china-54321598",
+      "originalUrl": "https://www.bbc.com/news/world-asia-china-54321598",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/8378/production/_114665633_gettyimages-1178304766.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/world-asia-china-54321598",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-asia-china-54321598",
+      "publishedDateTime": "2020-09-28T16:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-colorado-law-enforcement-quietly-uses-facial-recognition.md",
       "title": "Colorado Law Enforcement Quietly Uses Facial Recognition",
       "excerpt": "Law enforcement agencies in Colorado have quietly expanded their use of facial recognition software through the DMV and other programs. The state has currently no laws regulating the use of facial recognition.",
@@ -1135,57 +1185,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-9-soft-skills-every-employee-will-need-in-the-age-of-artificial-intelligence-ai.md",
-      "title": "9 Soft Skills Every Employee Will Need In The Age Of Artificial Intelligence (AI)",
-      "excerpt": "Artificial Intelligence (AI) and machine learning systems are becoming increasingly competent at doing jobs that previously, only humans could do. Here, we look at the key soft skills everyone should be focusing on to compete well in the job market of the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/09/28/9-soft-skills-every-employee-will-need-in-the-age-of-artificial-intelligence-ai/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2020/09/28/9-soft-skills-every-employee-will-need-in-the-age-of-artificial-intelligence-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7166cf598fcc4a100b3e63%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/09/28/9-soft-skills-every-employee-will-need-in-the-age-of-artificial-intelligence-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/09/28/9-soft-skills-every-employee-will-need-in-the-age-of-artificial-intelligence-ai/amp/",
-      "publishedDateTime": "2020-09-27T21:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

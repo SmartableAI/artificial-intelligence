@@ -92,20 +92,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Edge Computing, AI, and the Internet of Things"
-    excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-    publishedDateTime: 2020-09-24T06:33:00Z
-    webUrl: "https://www.computerworld.com/resources/208606/edge-computing-ai-and-the-internet-of-things"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 37
-    images:
-      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "+1EZQmBCcJDiLZhC37/h0zAy/GhtFR+qmWoLU2EirbxZhX3IZsd54GrZT+06sypZJZbsl32AJu1ARkgF7hqxEcpZpKdKul7URlUDZKxmQyOQFbWBMB12KAtOj8ajsvWJBfA6ffIa0PwMA0efrgFr39cfubjc1vKisJkWnP+R3tZ07y560X43BXRqyNidzoGk+ligQs50AXGjD1PQQIXyU99gh77Z42iyZm1iNKZf1IuYciH2eW2TcTdhBuA2KPuTpbr0rCYX+Fse2BltEdktYTACL4oVpFyXEjjfseR5xJ2AmPD2TXteHsQi8Qdodc/42xvQmLWidOCrdKHZWbSvCiuy4krhrc/y/r9Q7eC89Pw=;HwOegj+HJN1wydeDtCbHJw=="
 ---

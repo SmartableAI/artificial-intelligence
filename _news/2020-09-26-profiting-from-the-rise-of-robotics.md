@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/profiting-from-the-rise-of-robotics-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/profiting-from-the-rise-of-robotics-2020-09-25?amp"
 type: article
 quality: 84
-heat: 85
+heat: 84
 published: true
 
 provider:

@@ -188,6 +188,20 @@ related:
         width: 1080
         height: 675
         isCached: true
+  - title: "Microsoft Touts Azure as 'Carrier-Grade Platform' for Telcos Deploying 5G"
+    excerpt: "Microsoft on Monday affirmed its software-defined networking infrastructure support for telecom companies, especially as they move more toward rolling out 5G wireless services."
+    publishedDateTime: 2020-09-28T22:12:00Z
+    webUrl: "https://redmondmag.com/articles/2020/09/28/azure-carrier-grade-platform-5g.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 53
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/AttenaSkyBig.jpg"
+        width: 1665
+        height: 1158
+        isCached: true
   - title: "Microsoft unveils a new AI-powered tool for spotting deepfaked images and videos"
     excerpt: "The tool was announced as part of Microsoft's effort to help prevent election interference in the form of digital manipulation."
     publishedDateTime: 2020-09-26T16:08:00Z

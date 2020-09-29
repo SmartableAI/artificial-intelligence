@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.bbc.com/news/world-asia-china-54321598</loc>
+    <lastmod>2020-09-28T16:41:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.govtech.com/public-safety/Colorado-Law-Enforcement-Quietly-Uses-Facial-Recognition.html</loc>
     <lastmod>2020-09-28T14:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -385,12 +391,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.reuters.com/article/ericsson-autonomous/swedens-ericsson-telia-present-self-driving-bus-ahead-of-5g-spectrum-auction-idUSL5N2GL30G</loc>
-    <lastmod>2020-09-24T14:29:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://thenextweb.com/neural/2020/09/24/gpt-3s-bigotry-is-exactly-why-devs-shouldnt-use-the-internet-to-train-ai/</loc>
     <lastmod>2020-09-24T13:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -447,6 +447,12 @@
   <url>
     <loc>https://www.engadget.com/facebook-dynabench-ai-dynamic-benchmarking-160040897.html</loc>
     <lastmod>2020-09-24T09:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://uk.reuters.com/article/uk-ericsson-autonomous-idUKKCN26F2WN</loc>
+    <lastmod>2020-09-24T09:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -769,8 +775,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.cincinnati.com/story/money/cars/2020/09/22/tesla-elon-musk-full-self-driving-autopilot-software/3498264001/</loc>
-    <lastmod>2020-09-22T19:44:00-07:00</lastmod>
+    <loc>https://www.azcentral.com/story/money/cars/2020/09/22/tesla-elon-musk-full-self-driving-autopilot-software/3498264001/</loc>
+    <lastmod>2020-09-22T18:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomdavenport/2020/09/24/return-on-ai-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/09/24/return-on-ai-the-cdao-perspective/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

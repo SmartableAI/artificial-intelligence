@@ -36,20 +36,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 69
-  - title: "Congress Parks Self-Driving Car Regulation Until 2021"
-    excerpt: "The U.S. Congress will try again in 2021 to try to approve long-stalled reforms to speed the adoption of self-driving cars, a key Democratic lawmaker said"
-    publishedDateTime: 2020-09-24T05:13:00Z
-    webUrl: "https://www.insurancejournal.com/news/national/2020/09/24/583893.htm"
-    type: article
-    provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 24
-    images:
-      - url: "https://www.insurancejournal.com/app/uploads/2017/01/Self-Driving-car-on-road.jpg"
-        width: 900
-        height: 581
-        isCached: true
 
 secured: "qRtCEPQG0z45l+0GWuYXlomjWtVg5NsjfjrpRSOn/wZEIGxSraFTybyPC/7fUpGbC+Xa2dSSYhkEcjAn5rQHfqeSTlRdxBJR/nPrLvfI31tC/uVvC3M4BmD+g8HkriYZIQ7XIdSl1cE9a+IdLfavLRvufxpHnk/nLzXb7w7STE2bNRsuVObH1vo/OBnKfwlxX60dLAXa9tPMYQO/EQYkI8OtCEXwi81RpTLLqA9nPo4LaX5fCJO5W7LSVlE0z/fxrw+aBB2tq3USGQVfgo0Yk3uFMcQFKG4rSJFfPI2y7C3sJ9rGCA1dXINHcB0G92RxqQNtD8r/0Ab6oKmJrhUVpXPTRz4n1VADFMWwwq3OEpI=;VGSleoWnZlyAv3yNSE5CJg=="
 ---

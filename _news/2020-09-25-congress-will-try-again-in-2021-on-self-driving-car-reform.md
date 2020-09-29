@@ -9,7 +9,7 @@ ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-09-23/congress-
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-09-23/congress-will-try-again-in-2021-on-self-driving-car-reform?context=amp"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -25,20 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "Congress Parks Self-Driving Car Regulation Until 2021"
-    excerpt: "The U.S. Congress will try again in 2021 to try to approve long-stalled reforms to speed the adoption of self-driving cars, a key Democratic lawmaker said"
-    publishedDateTime: 2020-09-24T05:13:00Z
-    webUrl: "https://www.insurancejournal.com/news/national/2020/09/24/583893.htm"
-    type: article
-    provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 24
-    images:
-      - url: "https://www.insurancejournal.com/app/uploads/2017/01/Self-Driving-car-on-road.jpg"
-        width: 900
-        height: 581
-        isCached: true
   - title: "Self-Driving Car Bill Reintroduced in House Minus Biggest Backer"
     excerpt: "Legislation that would allow carmakers to sell as many as 100,000 self-driving vehicles per year in the U.S. is being reintroduced in the U.S. House of Representatives, but one of its biggest ..."
     publishedDateTime: 2020-09-24T07:05:00Z

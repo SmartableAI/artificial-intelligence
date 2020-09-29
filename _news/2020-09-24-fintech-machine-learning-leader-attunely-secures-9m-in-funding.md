@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/24/fintech-machine-learning-leader-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/24/fintech-machine-learning-leader-attunely-secures-9m-in-funding/amp/"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -54,6 +54,22 @@ related:
       - url: "https://mms.businesswire.com/media/20200924005133/en/824189/23/attunely+logo.jpg"
         width: 1200
         height: 627
+        isCached: true
+  - title: "Australian Fintech WeMoney Secures $2 Million in Seed Funding to Launch Financial Wellness Platform"
+    excerpt: "Dan Jovevski, a Fintech professional and former banker at National Australia Bank (NAB), has reportedly helped his company, WeMoney, with securing $2 million in capital in order to provide a service that helps young consumers with making better financial decisions."
+    publishedDateTime: 2020-09-28T22:28:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/09/167305-australian-fintech-wemoney-secures-2-million-in-seed-funding-to-launch-financial-wellness-platform/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/09/167305-australian-fintech-wemoney-secures-2-million-in-seed-funding-to-launch-financial-wellness-platform/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/09/167305-australian-fintech-wemoney-secures-2-million-in-seed-funding-to-launch-financial-wellness-platform/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 30
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/01/Australia-Money-iPhone.png"
+        width: 412
+        height: 680
         isCached: true
   - title: "Top 4 FinTech funding rounds in Singapore this September 2020"
     excerpt: "The FinTech sector in Singapore sees Machine Learning and Artificial Intelligence algorithms being used generally in lending & asset management services."

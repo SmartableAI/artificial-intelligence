@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/amirhusain/2020/09/25/three-coming-shif
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amirhusain/2020/09/25/three-coming-shifts-in-ai/amp/"
 type: article
 quality: 87
-heat: 148
+heat: 137
 published: true
 
 provider:
@@ -97,20 +97,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 38
-  - title: "Edge Computing, AI, and the Internet of Things"
-    excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-    publishedDateTime: 2020-09-24T06:33:00Z
-    webUrl: "https://www.computerworld.com/resources/208606/edge-computing-ai-and-the-internet-of-things"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 37
-    images:
-      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "1V9PKgGwbHsAm5aPgug/WVYWvB94wKgF+K42S/0hNqEffbf2sqTMVlfaXVdH2IAlMfN7nNAq58V4NVKokRgv8BPCkTQDzpHHd1W0CaCT0Caq/s1Vm7ElUJmZSdZRAJgfhCHtZFAayIgUBXr/Hhza3+3kQE0Knu2bTj/KVNfaP7WIcT5R0IgoQW3+/cOP4xMWGaQ3/Pe9gyh7WQ5kTIfXlikywsbw8rM6LNgE2MIS7IfwdrRVqLiISsZkcB/xKABd9tjqDtO4zdhT9esH6yD+SjMBZobcn2EPVybqDUsXlCsG1GLcZ0Ag1bxHwNCvxyQGRriVSgxq16TOr7mGn9Zu8/M1HHC+3yF1Sx7pvTNAzbnOgJklprBaSSPAJD/np/4Vvi02RYlGoqkv8oE/JmSsrkr0DgrbBFzolnHsH+2Y2LmlCdGW5TGNHqOUQbObc0NAYQK6Vn7m1lereR3ZKTZx/gdPDrlJNyZR49MzF7JjU6fGPjBnci3EPRrCZA9HoxVpOWUAdiT0N/Y7QULHs87tYA==;Q2TTlhRtzZorDsoSOJ6zsA=="
 ---

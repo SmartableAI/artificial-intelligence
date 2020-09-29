@@ -7,7 +7,7 @@ originalUrl: "https://www.cmswire.com/collaboration-productivity/5-microsoft-tea
 webUrl: "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/5-new-ways-to-boost-productivity-with-enhanced-teams-power/ba-p/1680697"
 type: article
 quality: 139
-heat: 289
+heat: 299
 published: true
 
 provider:
@@ -171,6 +171,20 @@ related:
       - url: "https://s27389.pcdn.co/wp-content/uploads/2020/09/microsoft-launches-azure-for-operators-expand-connectivity.jpeg"
         width: 1080
         height: 675
+        isCached: true
+  - title: "Microsoft Touts Azure as 'Carrier-Grade Platform' for Telcos Deploying 5G"
+    excerpt: "Microsoft on Monday affirmed its software-defined networking infrastructure support for telecom companies, especially as they move more toward rolling out 5G wireless services."
+    publishedDateTime: 2020-09-28T22:12:00Z
+    webUrl: "https://redmondmag.com/articles/2020/09/28/azure-carrier-grade-platform-5g.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 53
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/AttenaSkyBig.jpg"
+        width: 1665
+        height: 1158
         isCached: true
   - title: "Microsoft unveils communication platform to help users connect better with businesses"
     excerpt: "In an effort to help customers connect better with businesses in the remote working times, Microsoft has announced Azure Communication Services which is the first fully managed communication platform offering from a major Cloud provider."

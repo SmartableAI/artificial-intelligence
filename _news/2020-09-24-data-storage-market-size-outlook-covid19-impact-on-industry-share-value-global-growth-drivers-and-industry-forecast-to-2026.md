@@ -171,20 +171,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "COVID-19 Recovery Analysis: Artificial Intelligence Platforms Market | Rise In Demand For AI-based Solutions to boost the Market Growth | Technavio"
-    excerpt: "Technavio has been monitoring the artificial intelligence platforms market and it is poised to grow by $ 12.51 bn during 2020-2024, progressing at a CAGR of over 33% during the forecast period. The report offers an up-to-date analysis regarding the current market scenario,"
-    publishedDateTime: 2020-09-25T21:39:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200916005770/en/COVID-19-Recovery-Analysis-Artificial-Intelligence-Platforms-Market-Rise-In-Demand-For-AI-based-Solutions-to-boost-the-Market-Growth-Technavio"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 14
-    images:
-      - url: "https://mms.businesswire.com/media/20200916005770/en/821962/23/IRTNTR44235.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Global Healthcare Service Robots Market Analysis and Forecast, 2020-2025: Robots Lending a Hand During Covid-19 Outbreak - ResearchAndMarkets.com"
     excerpt: "Analysis and Forecast, 2020-2025\" report has been added to ResearchAndMarkets.com's offering. The global healthcare service robots market was valued to be $462.3 million in 2019 and is anticipated to witness an impressive double-digit growth rate,"
     publishedDateTime: 2020-09-25T08:20:00Z
@@ -199,6 +185,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global 3D Machine Vision Market By Offering, By Product, By Application, By Industry Vertical, By Region, Industry Analysis and Forecast, 2020 - 2026"
+    excerpt: "Reportlinker.com announces the release of the report \"Global 3D Machine Vision Market By Offering, By Product, By Application, By Industry Vertical, By Region, Industry Analysis and Forecast, 2020 - 2026\" -  It consists of multiple cameras or various laser displacement sensors that deliver the robots information about the parts."
+    publishedDateTime: 2020-09-28T23:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-3d-machine-vision-market-by-offering-by-product-by-application-by-industry-vertical-by-region-industry-analysis-and-forecast-2020-2026-1029628508"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 0
 
 secured: "StyZygew4F4wjMaR4+6sPL4SY8bTGbXk7WbT4EjVY5FCIilP1f3MgKHWnGKuD193PET9Go8Kq9aYMoCLV5cmd4+q12FrlqZFEQTWeRhug2Mu/hJDkh+Reyqxpqfu4dkY1Glao5wcemtrnXGzGOJRJh59Ufz1QNLOZln/sYdyNgUwNuZxRV3ZFaZeca7SNt60Lh38Kn/gJ1fodCWJ6U4HPit10SdMfaV+2NVGj59zWniokzR5AuewTRHP4xyK0I/1U9lVVFJYaMwFjxbuLKyaZOVcnx/fEsCPr+TcwayvVSA3v0aJGNknHieCzrib3vcMG9HQIDQ6AcjZxDuaFxE/Qac5ezQfaLfMiTZQ0rV9Yi8=;9RJzVUjfotqHx7tByEtBUg=="
 ---

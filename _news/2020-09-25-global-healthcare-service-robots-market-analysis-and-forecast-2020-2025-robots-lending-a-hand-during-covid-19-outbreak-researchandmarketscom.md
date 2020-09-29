@@ -181,20 +181,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "COVID-19 Recovery Analysis: Artificial Intelligence Platforms Market | Rise In Demand For AI-based Solutions to boost the Market Growth | Technavio"
-    excerpt: "Technavio has been monitoring the artificial intelligence platforms market and it is poised to grow by $ 12.51 bn during 2020-2024, progressing at a CAGR of over 33% during the forecast period. The report offers an up-to-date analysis regarding the current market scenario,"
-    publishedDateTime: 2020-09-25T21:39:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200916005770/en/COVID-19-Recovery-Analysis-Artificial-Intelligence-Platforms-Market-Rise-In-Demand-For-AI-based-Solutions-to-boost-the-Market-Growth-Technavio"
+  - title: "Global 3D Machine Vision Market By Offering, By Product, By Application, By Industry Vertical, By Region, Industry Analysis and Forecast, 2020 - 2026"
+    excerpt: "Reportlinker.com announces the release of the report \"Global 3D Machine Vision Market By Offering, By Product, By Application, By Industry Vertical, By Region, Industry Analysis and Forecast, 2020 - 2026\" -  It consists of multiple cameras or various laser displacement sensors that deliver the robots information about the parts."
+    publishedDateTime: 2020-09-28T23:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-3d-machine-vision-market-by-offering-by-product-by-application-by-industry-vertical-by-region-industry-analysis-and-forecast-2020-2026-1029628508"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 14
-    images:
-      - url: "https://mms.businesswire.com/media/20200916005770/en/821962/23/IRTNTR44235.jpg"
-        width: 1200
-        height: 627
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 0
 
 secured: "WgkOW136sCA/d4dxMfWXk+2ujLMRHSN3VtntiW7GE+lff18tMKnJZZgRLBb0UbOVDMM1k0Nl6CsfBj/MnoHsOJzoNodWpXp9P5WAnZ/araTFDqaZmEx4jjrlobm7qrmaNrjFYVHJ0crEigFSpF/wnQFkYWtc6oV2wNOUTR9ZEP0ADt5yviGwC/LVC4AA9f7Pva3m7VHhoWr5M+DqQqrDCDJryhw6zEHRBaeqiwnt0WWDuGfXdYi9yE940EXtcRFYgOqxCmsrSw2+Y61aHlFEQe4GZukP6b1Do+Cgp1pGdkSMPoWMUzj8SNSbYQ5LI5OF4I76aSAckt/4YFax5qr0zfwLiJ1zMWju7JCoYnUoE9Y=;wpgTEIXY783UE6bDWMebTQ=="
 ---

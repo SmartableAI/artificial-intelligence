@@ -66,6 +66,22 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Australian Fintech WeMoney Secures $2 Million in Seed Funding to Launch Financial Wellness Platform"
+    excerpt: "Dan Jovevski, a Fintech professional and former banker at National Australia Bank (NAB), has reportedly helped his company, WeMoney, with securing $2 million in capital in order to provide a service that helps young consumers with making better financial decisions."
+    publishedDateTime: 2020-09-28T22:28:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/09/167305-australian-fintech-wemoney-secures-2-million-in-seed-funding-to-launch-financial-wellness-platform/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/09/167305-australian-fintech-wemoney-secures-2-million-in-seed-funding-to-launch-financial-wellness-platform/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/09/167305-australian-fintech-wemoney-secures-2-million-in-seed-funding-to-launch-financial-wellness-platform/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 30
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/01/Australia-Money-iPhone.png"
+        width: 412
+        height: 680
+        isCached: true
 
 secured: "20m9ADkfN5qFtPy/VWCRJFFzY2lZnZKzH8CGEKH72Xgo2ZUvRnuQYb3vtjNUpQl3Dlfx3WXsbN55jPa4OXoXb0MjuMWcuK251+ySZKlLpmEENjzynw0UO+KidN82fTXgQRdv3Ayp28zXHaXUUlBM2s0cTWbou9zB59xwZPZloT/hSQXekuuaPowweWgaSrSCn+XtNE1rh8+LSc5zKbMcqGS2GBasnq2AQ+jpd15+XLyfjzmkBkxIwn+dnOjrWnfugXgtcDt5d5ETaq3HwW2ioTr2/DdHTMrMLpmxLTwtQ51hXgCQhIY35M+4f+EhYuxKkiviegPnOLTOl2qhD2JZYK1ZJL7o6VmgFBdRTS4xVNkmqATzNqgoAdWfqkCl+b6v6YwyQ/P4l7374/olO64MJNEz9EH/LkysDwnKKDCJ4MXFx9FxeQuJ/n8rEYyjy5GmFCTpVi+HtoKZKMdMbOMQlOzThdxIatTW8YzGug0BfBXuvEDMMF2M7/0NyjR+aaSxxcE06NTT0+44yblvyo9XjQ==;v5p+QjT1HDKC8JBQFqIEAA=="
 ---

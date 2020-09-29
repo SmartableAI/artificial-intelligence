@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
 images:
   - url: "https://mms.businesswire.com/media/20200916005850/en/778866/23/Primary_Logo_RGB.jpg"

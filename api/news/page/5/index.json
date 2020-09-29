@@ -2,6 +2,48 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-24-south-korea-tech-giants-expanding-robotics-amid-covid-19.md",
+      "title": "South Korea tech giants expanding robotics amid COVID-19",
+      "excerpt": "South Korea's biggest tech companies are investing in robotics as a solution to the risks of human contact amid the coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/World-News/2020/09/23/South-Korea-tech-giants-expanding-robotics-amid-COVID-19/3121600883704/",
+      "originalUrl": "https://www.upi.com/Top_News/World-News/2020/09/23/South-Korea-tech-giants-expanding-robotics-amid-COVID-19/3121600883704/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/3121600883704/2020/1/f4b46952582fb33f29de4effbf354249/v1.5/South-Korea-tech-giants-expanding-robotics-amid-COVID-19.jpg",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2020/09/23/South-Korea-tech-giants-expanding-robotics-amid-COVID-19/3121600883704/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/09/23/South-Korea-tech-giants-expanding-robotics-amid-COVID-19/3121600883704/",
+      "publishedDateTime": "2020-09-23T11:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-israels-mobileye-dubais-habtoor-partner-on-self-driving-cars.md",
       "title": "Israel's Mobileye, Dubai's Habtoor partner on self-driving cars",
       "excerpt": "Mobileye Chief Executive Amnon Shashua and Al Habtoor Group Chairman Khalaf Ahmed Al Habtoor shake hands after signing a partnership agreement in Dubai, United Arab Emirates September 23, 2020. REUTER",
@@ -1189,48 +1231,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-global-chipmaker-qualcomm-announces-snapdragon-750g-chip-with-5g-connectivity.md",
-      "title": "Global Chipmaker Qualcomm announces Snapdragon 750G chip with 5G connectivity",
-      "excerpt": "Global chipmaker Qualcomm has announced Snapdragon 750G 5G Mobile Platform that enables global 5G connectivity with HDR gaming and on-device AI.Snapdragon 750G offers",
-      "sourceUrl": null,
-      "webUrl": "https://english.madhyamam.com/technology/global-chipmaker-qualcomm-announces-snapdragon-750g-chip-with-5g-connectivity-574863",
-      "originalUrl": "https://english.madhyamam.com/technology/global-chipmaker-qualcomm-announces-snapdragon-750g-chip-with-5g-connectivity-574863",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://english.madhyamam.com/h-upload/2020/09/23/698411-qualcomm-hq-5-web.jpg",
-          "width": 1798,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://english.madhyamam.com/amp/technology/global-chipmaker-qualcomm-announces-snapdragon-750g-chip-with-5g-connectivity-574863",
-      "cdnAmpWebUrl": "https://english-madhyamam-com.cdn.ampproject.org/c/s/english.madhyamam.com/amp/technology/global-chipmaker-qualcomm-announces-snapdragon-750g-chip-with-5g-connectivity-574863",
-      "publishedDateTime": "2020-09-23T00:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Madhyamam",
-        "domain": "madhyamam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

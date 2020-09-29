@@ -94,20 +94,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 38
-  - title: "Edge Computing, AI, and the Internet of Things"
-    excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-    publishedDateTime: 2020-09-24T06:33:00Z
-    webUrl: "https://www.computerworld.com/resources/208606/edge-computing-ai-and-the-internet-of-things"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 37
-    images:
-      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "eISFa807nFK58AzzwIa43Z4SBCWku82Q+gzvnmvieJ+wiAHeDs09L741EjTUo1Ir8+/f9UzLYUNBm+cJdfm6n4jRweFjdy5S4S3uUkBQ2LoH+yoGPpe1Pdqb6uY+ioYumJJbydk8Yuo6lN3kkhwTh50ZkPWvUBrIowqDSjiKzmbFXRo9ZT6Nm6CFAKCftmf71sAfD142vabphIm/GBHJSU/d3FUvgpV0UJh/R/GCLUQUSxe2/TA6pQfdZM1/3ntFtgRlmNJ96byycLdKbQYsXToTCmenyhLtBreygK0xRLo/zWuI2L+Ek18JFywmnlMladagpAgH59ZBrg2yojzYXSe7FHGwYItSJJSQ/o3kU4kk0mNBwdPveXg6+oxr9hCI9RN4eyL85xVM8nFhGj+TYsAatjth6Mun/wcSMlBCibsRQJnAOEsr5iGrYBCueeRo866xep1w/y4MTuKoaqRfsGr3uIRAfsiIRHxnpdCXfLDQ4Qj/BuHCs6yq5lNHOJ38AxBwjYCfbI6tA+DRrBSYdA==;jhF/kj0V0kpbGN0p9ycgog=="
 ---
