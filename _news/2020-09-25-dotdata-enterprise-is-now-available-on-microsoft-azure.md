@@ -72,22 +72,6 @@ related:
         width: 2540
         height: 1042
         isCached: true
-  - title: "Microsoft introduces Azure Communication Services: Know details"
-    excerpt: "Azure Communication Services makes it easy to add voice and video calling, chat, and SMS text message capabilities to mobile apps, desktop applications, and websites with just a few lines of code."
-    publishedDateTime: 2020-09-24T08:18:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news-microsoft-azure-communication-services-announced-651828"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-microsoft-azure-communication-services-announced-651828"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-microsoft-azure-communication-services-announced-651828"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 89
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/09/microsoft-1599791199.jpg"
-        width: 1200
-        height: 678
-        isCached: true
   - title: "Microsoft nabs exclusive license to key AI program"
     excerpt: "Microsoft announced a deal Tuesday that will give it the exclusive license to OpenAI's GPT-3 language model, a tool that uses machine learning to generate remarkably human sounding text. Why it matters: The deal provides a way for many companies to have access to the technology while seemingly allowing Microsoft to establish guardrails and parameters for how the technology can be used."
     publishedDateTime: 2020-09-24T21:38:00Z
@@ -186,22 +170,6 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/AttenaSkyBig.jpg"
         width: 1665
         height: 1158
-        isCached: true
-  - title: "Microsoft unveils communication platform to help users connect better with businesses"
-    excerpt: "In an effort to help customers connect better with businesses in the remote working times, Microsoft has announced Azure Communication Services which is the first fully managed communication platform offering from a major Cloud provider."
-    publishedDateTime: 2020-09-24T07:05:00Z
-    webUrl: "https://www.thenewsminute.com/article/microsoft-unveils-communication-platform-help-users-connect-better-businesses-133803"
-    ampWebUrl: "https://www.thenewsminute.com/article/microsoft-unveils-communication-platform-help-users-connect-better-businesses-133803?amp"
-    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/microsoft-unveils-communication-platform-help-users-connect-better-businesses-133803?amp"
-    type: article
-    provider:
-      name: The News Minute
-      domain: thenewsminute.com
-    quality: 52
-    images:
-      - url: "https://www.thenewsminute.com/sites/default/files/Microsoft_1200-min.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Microsoft unveils a new AI-powered tool for spotting deepfaked images and videos"
     excerpt: "The tool was announced as part of Microsoft's effort to help prevent election interference in the form of digital manipulation."

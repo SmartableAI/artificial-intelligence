@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-28-iisc-wipro-ge-start-ai-healthcare-lab.md",
+      "title": "IISc, Wipro-GE start AI healthcare lab",
+      "excerpt": "India News: The Indian Institute of Science (IISc) and Wipro GE Healthcare today announced the inauguration of an advanced center for innovation and research — ‘W",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/india/iisc-wipro-ge-start-ai-healthcare-lab/articleshow/78361777.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/india/iisc-wipro-ge-start-ai-healthcare-lab/articleshow/78361777.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-78361745/78361745.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/india/iisc-wipro-ge-start-ai-healthcare-lab/amp_articleshow/78361777.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/india/iisc-wipro-ge-start-ai-healthcare-lab/amp_articleshow/78361777.cms",
+      "publishedDateTime": "2020-09-28T01:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-09-28-9-soft-skills-every-employee-will-need-in-the-age-of-artificial-intelligence-ai.md",
       "title": "9 Soft Skills Every Employee Will Need In The Age Of Artificial Intelligence (AI)",
       "excerpt": "Artificial Intelligence (AI) and machine learning systems are becoming increasingly competent at doing jobs that previously, only humans could do. Here, we look at the key soft skills everyone should be focusing on to compete well in the job market of the future.",
@@ -213,7 +255,7 @@
       "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/27/how-to-improve-bot-detection-with-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -357,7 +399,7 @@
       "originalUrl": "https://www.cmswire.com/collaboration-productivity/5-microsoft-teams-upgrades-that-takes-it-deeper-into-the-workplace/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 299,
+      "heat": 279,
       "tags": null,
       "images": [
         {
@@ -1132,56 +1174,6 @@
         "Facebook AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-how-ai-and-technology-can-help-patients-manage-chronic-pain.md",
-      "title": "How AI And Technology Can Help Patients Manage Chronic Pain",
-      "excerpt": "Chronic pain can be a bewildering and life-altering problem. New technology, including AI-enabled tools, can help patients navigate the maze of chronic pain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/25/how-ai-and-technology-can-help-patients-manage-chronic-pain/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/25/how-ai-and-technology-can-help-patients-manage-chronic-pain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6ced7640297a1e6b8c9ea1%2F0x0.jpg",
-          "width": 1200,
-          "height": 643,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/25/how-ai-and-technology-can-help-patients-manage-chronic-pain/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/25/how-ai-and-technology-can-help-patients-manage-chronic-pain/amp/",
-      "publishedDateTime": "2020-09-25T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

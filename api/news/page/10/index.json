@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-09-18-mphasis-is-a-leading-machine-learning-ml-solutions-partner-in-aws-marketplace.md",
+      "title": "Mphasis is a leading Machine Learning (ML) solutions partner in AWS Marketplace",
+      "excerpt": "PRNewswire/ -- Mphasis (BSE: 526299; NSE: MPHASIS), an Information Technology (IT) solutions provider specializing in cloud and cognitive services,",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/mphasis-is-a-leading-machine-learning-ml-solutions-partner-in-aws-marketplace-301133749.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/mphasis-is-a-leading-machine-learning-ml-solutions-partner-in-aws-marketplace-301133749.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/690233/Mphasis_Logo.jpg?p=facebook",
+          "width": 2700,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-18T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-why-ai-and-robotic-process-automation-are-the-perfect-match.md",
       "title": "Why AI And Robotic Process Automation Are The Perfect Match",
       "excerpt": "But what about robotic process automation (RPA), which is conventionally thought of as a \"human replacement\"? I'm here to tell you that RPA is a burgeoning application that's leveraging AI, especially AI-driven analytics,",
@@ -1136,56 +1179,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-rapidai-raises-25-million-to-analyze-medical-scans-with-ai-algorithms.md",
-      "title": "RapidAI raises $25 million to analyze medical scans with AI algorithms",
-      "excerpt": "RapidAI, a company developing algorithms that analyze medical imagery primarily from stroke victims, has raised $25 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/17/rapidai-raises-25-million-to-analyze-medical-scans-with-ai-algorithms/",
-      "originalUrl": "https://venturebeat.com/2020/09/17/rapidai-raises-25-million-to-analyze-medical-scans-with-ai-algorithms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/bca0635a-8374-451e-8ff1-1b16e8791b19-e1600108808571.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/17/rapidai-raises-25-million-to-analyze-medical-scans-with-ai-algorithms/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/17/rapidai-raises-25-million-to-analyze-medical-scans-with-ai-algorithms/amp/",
-      "publishedDateTime": "2020-09-17T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

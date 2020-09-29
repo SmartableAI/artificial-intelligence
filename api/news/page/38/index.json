@@ -2,6 +2,56 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-08-31-this-ai-expert-from-senegal-is-helping-showcase-africans-in-stem.md",
+      "title": "This AI Expert From Senegal Is Helping Showcase Africans In STEM",
+      "excerpt": "Not only has Adji Bousso Dieng, an AI researcher from Senegal, contributed to the field of generative modeling and about to become one of the first black female faculty in Computer Science in the Ivy League,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/andrewwight/2020/08/30/this-ai-expert-from-senegal-is-helping-showcase-africans-in-stem/",
+      "originalUrl": "https://www.forbes.com/sites/andrewwight/2020/08/30/this-ai-expert-from-senegal-is-helping-showcase-africans-in-stem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f40029c9ef0598860b150c8%2F0x0.jpg%3FcropX1%3D187%26cropX2%3D1021%26cropY1%3D60%26cropY2%3D529",
+          "width": 834,
+          "height": 469,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/andrewwight/2020/08/30/this-ai-expert-from-senegal-is-helping-showcase-africans-in-stem/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewwight/2020/08/30/this-ai-expert-from-senegal-is-helping-showcase-africans-in-stem/amp/",
+      "publishedDateTime": "2020-08-30T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-30-forget-identifiers-the-future-of-ad-tech-is-ai.md",
       "title": "Forget Identifiers: The Future Of Ad Tech Is AI",
       "excerpt": "Apple's iOS 14 update will allow users to opt-in to sharing personal identifiers with developers. Advertisers fear a loss of revenue as a result, but maybe it's time for ad tech to evolve to accommodate for user privacy.",
@@ -1148,57 +1198,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-banks-arent-as-stupid-as-enterprise-ai-and-fintech-entrepreneurs-think.md",
-      "title": "Banks aren’t as stupid as enterprise AI and fintech entrepreneurs think",
-      "excerpt": "The right question is almost never whether to buy software or build it internally. Instead, banks have often worked to walk the difficult but smarter path right down the middle.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/28/banks-arent-as-stupid-as-enterprise-ai-and-fintech-entrepreneurs-think/",
-      "originalUrl": "https://techcrunch.com/2020/08/28/banks-arent-as-stupid-as-enterprise-ai-and-fintech-entrepreneurs-think/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-171578755.jpg?w=1000",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/28/banks-arent-as-stupid-as-enterprise-ai-and-fintech-entrepreneurs-think/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/28/banks-arent-as-stupid-as-enterprise-ai-and-fintech-entrepreneurs-think/amp/",
-      "publishedDateTime": "2020-08-28T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

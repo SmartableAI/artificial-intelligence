@@ -2,6 +2,56 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-25-how-ai-and-technology-can-help-patients-manage-chronic-pain.md",
+      "title": "How AI And Technology Can Help Patients Manage Chronic Pain",
+      "excerpt": "Chronic pain can be a bewildering and life-altering problem. New technology, including AI-enabled tools, can help patients navigate the maze of chronic pain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/25/how-ai-and-technology-can-help-patients-manage-chronic-pain/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/25/how-ai-and-technology-can-help-patients-manage-chronic-pain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6ced7640297a1e6b8c9ea1%2F0x0.jpg",
+          "width": 1200,
+          "height": 643,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/25/how-ai-and-technology-can-help-patients-manage-chronic-pain/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/25/how-ai-and-technology-can-help-patients-manage-chronic-pain/amp/",
+      "publishedDateTime": "2020-09-25T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-impact-of-covid-19-on-deep-learning-market-size-share-and-top-key-players-during-2020-2028.md",
       "title": "Impact Of COVID-19 On Deep Learning Market Size, Share and Top Key Players During 2020-2028",
       "excerpt": "An estimated 51.2 % of the global population was using internet by the end of 2018 - International Telecommunication",
@@ -583,48 +633,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-congress-will-try-again-in-2021-on-self-driving-car-reform.md",
-      "title": "Congress Will Try Again in 2021 on Self-Driving Car Reform",
-      "excerpt": "Self-driving cares suffered a major setback after the March 2018 death of a pedestrian in a crash with an Uber test vehicle, the first attributed to a self-driving car. The Nation",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2020-09-23/congress-will-try-again-in-2021-on-self-driving-car-reform",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2020-09-23/congress-will-try-again-in-2021-on-self-driving-car-reform",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2020-09-23/congress-will-try-again-in-2021-on-self-driving-car-reform?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-09-23/congress-will-try-again-in-2021-on-self-driving-car-reform?context=amp",
-      "publishedDateTime": "2020-09-24T15:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },

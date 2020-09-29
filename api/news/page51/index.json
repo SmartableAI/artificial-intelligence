@@ -2,6 +2,57 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2020-08-20-self-driving-cars-to-transport-golfers-and-caddies-at-the-wales-open.md",
+      "title": "Self-Driving Cars To Transport Golfers And Caddies At The Wales Open",
+      "excerpt": "One of the first deployments of autonomous vehicles at a major sporting event will transport players from clubhouse to tee",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemccaskill/2020/08/20/self-driving-cars-to-transport-golfers-and-caddies-at-the-wales-open/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3e635ba94645e96df9ef85%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemccaskill/2020/08/20/self-driving-cars-to-transport-golfers-and-caddies-at-the-wales-open/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemccaskill/2020/08/20/self-driving-cars-to-transport-golfers-and-caddies-at-the-wales-open/amp/",
+      "publishedDateTime": "2020-08-20T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-20-health-and-fitness-app-exercises-ai-for-competitive-advantage.md",
       "title": "Health and Fitness App Exercises AI for Competitive Advantage",
       "excerpt": "The use of artificial intelligence is not yet a common feature in fitness apps, but it is a main component in a popular India-based fitness app now focused on growing users in the U.S. and Canada. Bringing AI to personal workout routines at home could provide gym-starved exercise enthusiasts something new to sweat over.",
@@ -1144,56 +1195,6 @@
         "AI",
         "Facebook AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-tune-in-today-to-discuss-covid-19s-impact-on-the-startup-world.md",
-      "title": "Tune in today to discuss COVID-19’s impact on the startup world",
-      "excerpt": "We can’t help but wonder what the future of work will look like in the wake of this global pandemic. That’s the timely topic of today’s interactive webinar, COVID-19’s Impact on the Startup World. The second of three in our free series of interactive webinars — exclusively for founders",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/19/tune-in-today-to-discuss-covid-19s-impact-on-the-startup-world/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/45390120154_d2864e1953_c.jpg?w=799",
-          "width": 799,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/19/tune-in-today-to-discuss-covid-19s-impact-on-the-startup-world/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/19/tune-in-today-to-discuss-covid-19s-impact-on-the-startup-world/amp/",
-      "publishedDateTime": "2020-08-19T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

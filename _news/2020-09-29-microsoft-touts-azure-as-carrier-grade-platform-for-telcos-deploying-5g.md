@@ -71,22 +71,6 @@ related:
         width: 2540
         height: 1042
         isCached: true
-  - title: "Microsoft introduces Azure Communication Services: Know details"
-    excerpt: "Azure Communication Services makes it easy to add voice and video calling, chat, and SMS text message capabilities to mobile apps, desktop applications, and websites with just a few lines of code."
-    publishedDateTime: 2020-09-24T08:18:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news-microsoft-azure-communication-services-announced-651828"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-microsoft-azure-communication-services-announced-651828"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-microsoft-azure-communication-services-announced-651828"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 89
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/09/microsoft-1599791199.jpg"
-        width: 1200
-        height: 678
-        isCached: true
   - title: "Microsoft nabs exclusive license to key AI program"
     excerpt: "Microsoft announced a deal Tuesday that will give it the exclusive license to OpenAI's GPT-3 language model, a tool that uses machine learning to generate remarkably human sounding text. Why it matters: The deal provides a way for many companies to have access to the technology while seemingly allowing Microsoft to establish guardrails and parameters for how the technology can be used."
     publishedDateTime: 2020-09-24T21:38:00Z
@@ -186,22 +170,6 @@ related:
         width: 1080
         height: 675
         isCached: true
-  - title: "Microsoft unveils communication platform to help users connect better with businesses"
-    excerpt: "In an effort to help customers connect better with businesses in the remote working times, Microsoft has announced Azure Communication Services which is the first fully managed communication platform offering from a major Cloud provider."
-    publishedDateTime: 2020-09-24T07:05:00Z
-    webUrl: "https://www.thenewsminute.com/article/microsoft-unveils-communication-platform-help-users-connect-better-businesses-133803"
-    ampWebUrl: "https://www.thenewsminute.com/article/microsoft-unveils-communication-platform-help-users-connect-better-businesses-133803?amp"
-    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/microsoft-unveils-communication-platform-help-users-connect-better-businesses-133803?amp"
-    type: article
-    provider:
-      name: The News Minute
-      domain: thenewsminute.com
-    quality: 52
-    images:
-      - url: "https://www.thenewsminute.com/sites/default/files/Microsoft_1200-min.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft unveils a new AI-powered tool for spotting deepfaked images and videos"
     excerpt: "The tool was announced as part of Microsoft's effort to help prevent election interference in the form of digital manipulation."
     publishedDateTime: 2020-09-26T16:08:00Z
@@ -261,6 +229,6 @@ related:
         height: 1200
         isCached: true
 
-secured: "CsMjvPzuC6W/AnBruq2UfB5lOa/wRyR/oO8WrLGSxX+FDoeZJhMzsPxLi40RlllEdoVbv0WG4dLgBKWFLgsWYRVcNX2dkOIecjE0ygXeLlkdgm7pWe2zF0kf3rXiTFfYgZWAIC/WIjp5S++fH7PnjvLQ9jBGqvq0b74EFAsIJ3yjKdXhTT+kAmx6mviFrBZ9op85EbooFjT5NLfMVUFtJlkqU7+9vNW6+AfuDhivcj88J09p7LlCLlAc7U+TNdPUitFqImZJ6aBp2PpIvpjEKNUD8U91Pq/ABVtjzUnvWB8zFWamdUN1aVG6BZz5E9eEYJO1iSODF5SxMUmjBebtWeH5LK1sOrFWfaTKGq2slVA=;JMSnLvdENQ3obQeKIDzC3A=="
+secured: "56Ct3FaCFOyRQPWWs5Y6/PwmQScfwtcwViekRwEpqOJ2/HGseMZ8DjDwz/6bew8DMZbnkD5zcQrZfvd/EPCTgy6rknxPtmnHZ0PR3MFk6NR2j1WkIQSZq1CpEEae/A5Q5F2Ip51EQ/HOUXkzXFnyCdTFI/feGIYWy8pGo+D94X0MnemWMsPzrQRFZBpD4iQ6sV6heW8VWGVBGaHYqWRgvt9sSLJWaVlr5s4qOEue9OwsKlNnLjMUZ5MZdY9UV+6G6nAjC1YchsvlB/35VqiB3941J2TTrAybevp4ZtNEH0GwhHyl7Gy8F4f3dmJy8iikir0RBs2wUadgqDqEJXfkpnrUb41lR3Vdu1rcUJ6TKpBLT/zi0ItU/sNNYOVsQg1xj1R2BfHOx8dQVCNwTCy0F27+1HdSMGdU7RSnY4ZtLNB1N5g2AHMzhQAPWqtnsaiw3E6Lv+sa+2zKSNnZFx01DDLlly2pMwxSo0B2ogYBooBSTI5poVuiiwLDi4MGkUe/DK4CbsIqI9uynVvoGP/2BA==;RN+Jc6rKRz87x5Qsc33ZMQ=="
 ---
 

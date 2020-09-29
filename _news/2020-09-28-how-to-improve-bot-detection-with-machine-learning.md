@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/09/27/how-to-improve
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/09/27/how-to-improve-bot-detection-with-machine-learning/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Global $21.2 Bn Online Language Learning Market to 2027 - Increasing Penetration of Artificial Intelligence in e-Learning Driving Growth"
-    excerpt: "The online language learning market is expected to grow at a CAGR of 18.7% from 2020 to 2027 to reach $21.2 billion by 2027 The growing need for communication across borders, increasing e-learning market,"
-    publishedDateTime: 2020-09-24T08:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-21-2-bn-online-language-learning-market-to-2027-increasing-penetration-of-artificial-intelligence-in-e-learning-driving-growth-1029618153"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 14
 
 secured: "PEcyqhJAD4s0wArLTbHVopT15dzpuxQRXOIwOFLh8Ub+UvqJcf9zZzZTiUSPbaoNiFRiGhOgb535D0Wrh6qYbD6gwBuiNx00O/iCBtxH1icyi8bTC9eycSsAPFCpjsYUQgbjMcE8ZHvyi+pnDiaYPNLq2Zl5tsy5PZRjjVQGsxuIZ6EBxxYwPJb3de2wqGnwQcO2z4wmq9SWiDvYx92jzINI5C8r5pGKgYPo5n3fZlCYYn3xhU+QM3yWLpWFrLPx1I06clTIAA2KJHFLMTkr9iGW/6niWcJM7Xp+FKycciiOO2ncomIehnBRMNsfBBHyAj9djcyZ2m3MerqEJIjujvEnmYi6hGTHitaBQhmxxNOTbkapAZ2TZHH+1rtB16GLSo2+1sYUNFzFgBxVVF7swEM9Vfugy+yGaNfVl1tfQDih7CIuGjaoPMoIVQlEUv91DawuD2fTLLfPhE2r+R/J0A0YPRCxH00N4qPMDWsel99+wYzEVjRapgZiGBet9Da5eEnHPwv/fwVpUKX1m2WK6g==;AEnsO4mOmXW9T19/RRhvEQ=="
 ---
