@@ -2,6 +2,39 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2020-08-26-the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressing-at-a-cagr-of-83-during-the-forecast-period.md",
+      "title": "The Global Self-driving Taxi Market is expected to grow by 78588 units during 2020-2024 progressing at a CAGR of 83% during the forecast period",
+      "excerpt": "The analyst has been monitoring the self-driving taxi market and it is poised to grow by 78588 units during 2020-2024 progressing at a CAGR of 83% during the forecast period. Our reports on self ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/08/n17252765/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressin",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/08/n17252765/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressin",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17252765",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17252765",
+      "publishedDateTime": "2020-08-26T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-26-why-banks-need-to-sharpen-their-focus-on-financial-crime.md",
       "title": "Why Banks Need To Sharpen Their Focus On Financial Crime",
       "excerpt": "As banks contend with the economic fallout from the Covid-19 pandemic, their ability to respond to financial crime threats is not keeping pace with the sophistication and sheer number of incoming attacks.",
@@ -1120,56 +1153,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-vector-institute-forms-team-to-help-commercialize-ai-research.md",
-      "title": "Vector Institute forms team to help commercialize AI research",
-      "excerpt": "The Vector Institute announced the creation of a new team dedicated to laying the groundwork for the commercialization of AI research.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/26/vector-institute-forms-team-to-help-commercialize-ai-research/",
-      "originalUrl": "https://venturebeat.com/2020/08/26/vector-institute-forms-team-to-help-commercialize-ai-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/2242664e-13ed-4b45-8e11-dacae28fc734-e1598412011777.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/26/vector-institute-forms-team-to-help-commercialize-ai-research/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/26/vector-institute-forms-team-to-help-commercialize-ai-research/amp/",
-      "publishedDateTime": "2020-08-26T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

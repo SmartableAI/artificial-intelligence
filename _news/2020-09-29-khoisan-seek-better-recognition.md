@@ -28,7 +28,7 @@ related:
   - title: "South Africa's indigenous Khoisan seek better recognition"
     excerpt: "They have been camping outside the seat of government, demanding the official recognition of their languages and to negotiate land ownership"
     publishedDateTime: 2020-09-27T09:57:00Z
-    webUrl: "https://www.standardmedia.co.ke/africa/article/2001387897/south-africas-indigenous-khoisan-seek-better-recognition"
+    webUrl: "https://www.standardmedia.co.ke/ureport/article/2001387897/south-africa-s-indigenous-khoisan-seek-better-recognition"
     ampWebUrl: "https://www.standardmedia.co.ke/amp/africa/article/2001387897/south-africas-indigenous-khoisan-seek-better-recognition"
     cdnAmpWebUrl: "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/amp/africa/article/2001387897/south-africas-indigenous-khoisan-seek-better-recognition"
     type: article

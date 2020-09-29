@@ -2,6 +2,57 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-09-10-16-smart-ways-you-can-leverage-ai-to-boost-your-business.md",
+      "title": "16 Smart Ways You Can Leverage AI To Boost Your Business",
+      "excerpt": "AI offers the best way for companies to automate repetitive processes and gain insight into their customer bases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/16-smart-ways-you-can-leverage-ai-to-boost-your-business/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/16-smart-ways-you-can-leverage-ai-to-boost-your-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f58d99ecc7cbb59fb09fee4%2F0x0.jpg",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/16-smart-ways-you-can-leverage-ai-to-boost-your-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/09/16-smart-ways-you-can-leverage-ai-to-boost-your-business/amp/",
+      "publishedDateTime": "2020-09-09T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-09-10-7-ways-to-apply-artificial-intelligence-to-your-website.md",
       "title": "7 Ways To Apply Artificial Intelligence To Your Website",
       "excerpt": "In recent years we are seeing a great boom in artificial intelligence. Due to the boom in deep learning, we now have more robust and more general predictive models, being […]",
@@ -1124,58 +1175,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-how-ai-is-impacting-customer-experience-in-fintech-vb-live.md",
-      "title": "How AI is impacting customer experience in fintech (VB Live)",
-      "excerpt": "Learn how companies like MasterCard are implementing AI and NLP strategies that transform how fintech customer experience is done.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/09/how-ai-is-impacting-customer-experience-in-fintech-vb-live/",
-      "originalUrl": "https://venturebeat.com/2020/09/09/how-ai-is-impacting-customer-experience-in-fintech-vb-live/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/NLP.GettyImages-1199031078.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/09/how-ai-is-impacting-customer-experience-in-fintech-vb-live/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/09/how-ai-is-impacting-customer-experience-in-fintech-vb-live/amp/",
-      "publishedDateTime": "2020-09-09T04:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

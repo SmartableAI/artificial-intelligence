@@ -31,6 +31,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 84
+  - title: "VMware, Nvidia integrate on architecture, technology as they aim to accelerate AI adoption"
+    excerpt: "The partnership secures Nvidia's role in hybrid clouds as VMware outlined an architecture that incorporates data processing units (DPUs) in the data center, cloud and edge."
+    publishedDateTime: 2020-09-29T16:00:00Z
+    webUrl: "https://www.zdnet.com/article/vmware-nvidia-integrate-on-architecture-technology-as-they-aim-to-accelerate-ai-adoption/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/vmware-nvidia-integrate-on-architecture-technology-as-they-aim-to-accelerate-ai-adoption/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/vmware-nvidia-integrate-on-architecture-technology-as-they-aim-to-accelerate-ai-adoption/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 57
   - title: "AMD To Strongly Benefit From New AI And Gaming Chips From Nvidia And AMD"
     excerpt: "PCIe 4 is increasingly widely adopted by the PC and server industries. With Intel lacking critical PCIe 4 solutions, AMD is set to benefit."
     publishedDateTime: 2020-09-29T14:12:00Z
@@ -62,7 +73,7 @@ related:
   - title: "Artificial Intelligence for Business 2016"
     excerpt: "Cumulative worldwide spending on artificial intelligence (AI) will reach $40.6 billion by 2024. AI is on the verge of becoming a critical part of every business infrastructure, making it vital for company decision-makers to understand how this technology can,"
     publishedDateTime: 2020-09-28T14:07:00Z
-    webUrl: "https://www.raconteur.net/report/artificial-intelligence-for-business-2016/page/3"
+    webUrl: "https://www.raconteur.net/report/artificial-intelligence-for-business-2016/page/2"
     type: article
     provider:
       name: Raconteur
@@ -87,6 +98,43 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Nvidia NGC To Supercharge AI On VMware Cloud, vSphere And Tanzu"
+    excerpt: "Nvidia NGC will be integrated into VMware Cloud Foundation, vSphere and Tanzu to simplify the deployment of AI applications in enterprises, the two companies announced at VMworld 2020."
+    publishedDateTime: 2020-09-29T16:49:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/nvidia-ngc-to-supercharge-ai-on-vmware-cloud-vsphere-and-tanzu"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/0261-107dcd5f4248-ee0f859e333c-1000/abstract_partnership400.jpg"
+        width: 599
+        height: 399
+        isCached: true
+  - title: "VMware and Nvidia partner to accelerate AI and enterprise workloads"
+    excerpt: "Virtualization software giant VMware Inc. said today at its VMworld 2020 virtual event that it’s partnering with computer graphics chipmaker Nvidia Corp. on a new enterprise platform for artificial intelligence workloads."
+    publishedDateTime: 2020-09-29T16:28:00Z
+    webUrl: "https://siliconangle.com/2020/09/29/vmware-nvidia-partner-accelerate-ai-enterprise-workloads/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/NVIDIACEOfounderJensenHuang_VMwareCEOPatGelsinger_VMworld2020.jpg"
+        width: 2000
+        height: 1115
+        isCached: true
+  - title: "VMware and NVIDIA to Enable Next-Gen Hybrid Cloud Architecture and Bring AI to Every Enterprise"
+    excerpt: "VMware Customers Can Benefit from Unified Management of NVIDIA AI Software with All Apps, Tap into Security, Acceleration Capabilities of NVIDIA BlueField-2 DPU VMworld 2020 — At VMworld 2020, VMware and NVIDIA today announced a broad partnership to deliver both an end-to-end enterprise platform for AI and a new architecture for data center,"
+    publishedDateTime: 2020-09-29T16:00:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20200929005455/vmware-and-nvidia-to-enable-next-gen-hybrid-cloud-architecture-and-bring-ai-to-every-enterprise"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 7
 
 secured: "0py0SAHlFnnnM7lAh6kJh8PJOibvSAaBdxxSMdeNpNTND8MVHW8F6PktwA0Li/hGP42/HTKsqTsbvGJvJBsGimItgPjYS8Xqv/w37uico1sCQnK3szj7qIW+VnEq+8ZHCczRZAv8dMdC6/X4ULZ3XXJnWJUzUhrXnIvwtkWzDF1RdhWIArheUEgRDrms7OXUMBPX/tlGX0qiqS9d/Sis6iHhq+yD6tsQoR6D5YzM+W8/YyC1mYvQpaTzh9g9AITFBx0narAoewugvHX4xjEe1q4zI8BFAWW92lqqm6FxLIB0ebdzBq5hbtQPqEKkEtKHd80Eubq3lsffb9HqmAit+v1a4FUK0fpl7MtjwZBclII=;+cs2j5+BYxXZt5pfjI/rxg=="
 ---

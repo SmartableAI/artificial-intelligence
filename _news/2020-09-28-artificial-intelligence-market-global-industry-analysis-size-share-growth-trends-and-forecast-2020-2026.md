@@ -3,8 +3,8 @@ category: news
 title: "Artificial Intelligence Market – Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020-2026"
 excerpt: "According to a new study published by Polaris Market Research the Global Artificial Intelligence Market is anticipated"
 publishedDateTime: 2020-09-28T12:58:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2026-2020-09-28?tesla=y"
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2026-2020-09-28?tesla=y"
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2026-2020-09-28"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2026-2020-09-28"
 type: article
 quality: 49
 heat: -1
@@ -19,7 +19,7 @@ provider:
       height: 50
 
 topics:
-  - AI in Autos
+  - AI in Robotics
   - AI
 
 images:
@@ -157,6 +157,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Data Science and Machine-Learning Platforms Market Analysis, Leading Players, Future Growth, Business Prospects Research Report Foresight To 2026"
+    excerpt: "The Data Science and Machine Learning Platforms Market research report includes Market Size Upstream Situation Market Segmentation Data Science and Machine Learning Platforms Market Segmentation Price Cost And Industry Environment In addition the report outlines the factors driving industry growth"
+    publishedDateTime: 2020-09-28T14:49:00Z
+    webUrl: "https://www.openpr.com/news/2144889/data-science-and-machine-learning-platforms-market-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2144889/data-science-and-machine-learning-platforms-market-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2144889/data-science-and-machine-learning-platforms-market-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 7
+    images:
+      - url: "https://cdn.openpr.com/T/9/T928507636_g.jpg"
+        width: 731
+        height: 300
+        isCached: true
   - title: "Global Healthcare Service Robots Market Analysis and Forecast, 2020-2025: Robots Lending a Hand During Covid-19 Outbreak - ResearchAndMarkets.com"
     excerpt: "Analysis and Forecast, 2020-2025\" report has been added to ResearchAndMarkets.com's offering. The global healthcare service robots market was valued to be $462.3 million in 2019 and is anticipated to witness an impressive double-digit growth rate,"
     publishedDateTime: 2020-09-25T08:20:00Z
@@ -181,6 +197,6 @@ related:
       domain: businessinsider.com
     quality: 0
 
-secured: "x9xUvJAFlxftqZ0Y1L5xR/DFvtx13pi5/Cifdzjp5MmEZgfIRvbHlJpCalr5+SzzT03Xlhh9TTfKxOfKE+1Fh5CcJhrxIdEPjcbsaHFh1k8EJ7xSS6brfFzmS/dtHBqiVcyc/zpIVc5YUDO4QZ51qW18IJYHRFBi06HQ7oehEn0c6ZgrnVNrSsYUaIf8qD/UnZhqZprepr5uCidixZBwlTdjU2ouvANk7p0ZfLfTs39I626jwdGhObnrxqSzxUoF1Hon+OwqL1BUwTP7G3tedCR9xmmOHpSOMdxj+dvLZrGC63qKNfax8KAdcnvieqUZ37qZGr7toxkQFUNCQEy4nCbRPFX/tuaf2ZXvLOuXmUA=;Qb9dPuI4XhUCYaUkDTuCLA=="
+secured: "jLMnoeGRe+3gU/Ls9rC3RFPltoSZd0WDUrPCqlk3/oeSOfSDzbhtKXplUgmp7U8TZEkNI6Xfkgk1j6k8rdTnjJRqeAG2BbsuHp1s6/gpC/8C9motPPQAcTV8JaNy80H8X4xdRbYuBfdksb1t4Au2fWK0VkJDtxeMATtvJ/7obCrHg2q55xoi+O+OZZ9u6jku9yoAp/AhmFwBIAyt6GhHaDLC07JToLG/UyJvbbzrwnAR3u7Wc7kB+D6QekmOYHCUthfiklHCUXq6o93BojHGj3yUixmE1jH0fcaTRQ61WbSfK18p9zoNhjHNEv5Lq1dnr3k+ojBpWrUlixiNTWnyVKym2+avalgr6l7HdnlKLrg=;fgmjxO9rKHOOUymWliu6XA=="
 ---
 

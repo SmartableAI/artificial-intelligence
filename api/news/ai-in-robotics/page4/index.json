@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-01-ibm-rxn-ai-combined-with-robotics-to-speed-molecular-studies-and-chemical-research.md",
+      "title": "IBM RXN: AI combined with robotics to speed molecular studies and chemical research",
+      "excerpt": "AI and robotics are working together to find cures for diseases more quickly. Even if you're not in science, you can learn from this project.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ibm-rxn-ai-combined-with-robotics-to-speed-molecular-studies-and-chemical-research/",
+      "originalUrl": "https://www.techrepublic.com/article/ibm-rxn-ai-combined-with-robotics-to-speed-molecular-studies-and-chemical-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-rxn-ai-combined-with-robotics-to-speed-molecular-studies-and-chemical-research/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-rxn-ai-combined-with-robotics-to-speed-molecular-studies-and-chemical-research/",
+      "publishedDateTime": "2020-08-31T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-08-31-japan-explores-ai-as-the-pandemic-curbs-in-person-quality-control.md",
       "title": "Japan explores AI as the pandemic curbs in-person quality control",
       "excerpt": "At a Japanese factory, robots have started sharing the work of quality-control inspectors as the pandemic accelerates a shift in mass production.",
@@ -1356,57 +1407,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-how-industrial-robotics-market-will-grow-in-coming-future-despite-covid-19-chaos.md",
-      "title": "How Industrial Robotics Market Will Grow In Coming Future Despite COVID-19 Chaos?",
-      "excerpt": "The industrial robotics market is going to experience a negative impact in 2020. High investment cost is required",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/how-industrial-robotics-market-will-grow-in-coming-future-despite-covid-19-chaos-2020-08-19",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-20T01:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

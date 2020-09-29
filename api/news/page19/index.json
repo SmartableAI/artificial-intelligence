@@ -2,6 +2,48 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-09-13-custom-object-detection-tflite-model-for-android-using-tensorflow.md",
+      "title": "Custom Object Detection Tflite Model for Android using Tensorflow",
+      "excerpt": "In this tutorial, we will learn how to make a custom object detection model in TensorFlow and then converting the model to tflite for android. I will go through step by step. Every step is ...",
+      "sourceUrl": null,
+      "webUrl": "https://medium.com/analytics-vidhya/custom-object-detection-tflite-model-for-android-using-tensorflow-3d76e31afbc4",
+      "originalUrl": "https://medium.com/analytics-vidhya/custom-object-detection-tflite-model-for-android-using-tensorflow-3d76e31afbc4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-13T03:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-13-when-will-driverless-cars-be-a-part-of-our-everyday-lives.md",
       "title": "When Will Driverless Cars Be A Part Of Our Everyday Lives?",
       "excerpt": "Researcher Sebastian Thrun helped build Google's amazing driverless car ... His research focuses on robotics and artificial intelligence. He led the development of the robotic vehicle called ...",
@@ -1122,57 +1164,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-12-how-to-edit-writing-by-a-robot-a-step-by-step-guide.md",
-      "title": "How to edit writing by a robot: a step-by-step guide",
-      "excerpt": "Commissioning GPT-3 was a fun – and strange – lesson in artificial intelligence ... would deploy in attempting to convince humans that robots come in peace. Here’s how we went about it ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/commentisfree/2020/sep/11/artificial-intelligence-robot-writing-gpt-3",
-      "originalUrl": "https://www.theguardian.com/technology/commentisfree/2020/sep/11/artificial-intelligence-robot-writing-gpt-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/9ba12a5d0cc638c3cc4ae33a351f6a47b631b83d/0_0_2173_1305/master/2173.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e99d6dbe47f38e2edba5007d92d6b38d",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/commentisfree/2020/sep/11/artificial-intelligence-robot-writing-gpt-3",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/commentisfree/2020/sep/11/artificial-intelligence-robot-writing-gpt-3",
-      "publishedDateTime": "2020-09-11T13:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

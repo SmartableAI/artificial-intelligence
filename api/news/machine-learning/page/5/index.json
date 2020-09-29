@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-08-21-how-machine-learning-helps-companies-stay-agile-in-a-pandemic-vb-live.md",
+      "title": "How machine learning helps companies stay agile in a pandemic (VB Live)",
+      "excerpt": "Join this VB LIve event to learn how machine learning has offered companies powerful ways to adapt in these uncertain times.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/21/how-machine-learning-helps-companies-stay-agile-in-a-pandemic-vb-live/",
+      "originalUrl": "https://venturebeat.com/2020/08/21/how-machine-learning-helps-companies-stay-agile-in-a-pandemic-vb-live/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1204589859-1.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/21/how-machine-learning-helps-companies-stay-agile-in-a-pandemic-vb-live/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/21/how-machine-learning-helps-companies-stay-agile-in-a-pandemic-vb-live/amp/",
+      "publishedDateTime": "2020-08-21T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-08-21-ai-may-not-predict-the-next-pandemic-but-big-data-and-machine-learning-can-fight-this-one.md",
       "title": "AI may not predict the next pandemic, but big data and machine learning can fight this one",
       "excerpt": "Tech leaders increase project development and implementation (TechRepublic Premium) Admittedly, August is not as bad as March for Spain, but it's still not a situation many foresaw. Arenas' predictions were based on mathematical modeling and underline the important role technology can play in the timing of decisions about the virus and understanding its spread.",

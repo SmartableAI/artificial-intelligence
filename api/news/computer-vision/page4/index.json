@@ -2,6 +2,39 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-25-city-councilman-introduces-legislation-to-ban-unrestricted-use-of-facial-recognition-and-predictive-policing.md",
+      "title": "City Councilman Introduces Legislation To Ban Unrestricted Use Of Facial Recognition And Predictive Policing",
+      "excerpt": "As more people are calling for police reform across the U.S. and in Pittsburgh, some local officials are calling for transparency. City councilman Corey O’Connor is calling for transparency when it comes to facial recognition and predictive policing technology;",
+      "sourceUrl": null,
+      "webUrl": "https://pittsburgh.cbslocal.com/video/4678635-city-councilman-introduces-legislation-to-ban-unrestricted-use-of-facial-recognition-and-predictive-policing/",
+      "originalUrl": "https://pittsburgh.cbslocal.com/video/4678635-city-councilman-introduces-legislation-to-ban-unrestricted-use-of-facial-recognition-and-predictive-policing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://pittsburgh.cbslocal.com/video/4678635-city-councilman-introduces-legislation-to-ban-unrestricted-use-of-facial-recognition-and-predictive-policing/amp/",
+      "cdnAmpWebUrl": "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/video/4678635-city-councilman-introduces-legislation-to-ban-unrestricted-use-of-facial-recognition-and-predictive-policing/amp/",
+      "publishedDateTime": "2020-08-25T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Boston / WBZ",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-25-august-and-yale-smart-locks-get-fingerprint-and-facial-recognition-unlocking.md",
       "title": "August and Yale smart locks get fingerprint and facial recognition unlocking",
       "excerpt": "August and Yale locks are solidly positioned as top sellers in the smart lock market. We recently awarded August's Wi-Fi Smart Lock our Editors' Choice award for its updated styling and independence from the company's Connect module.",
@@ -1309,48 +1342,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-giant-lawsuit-alleges-instagram-used-face-recognition-illegally.md",
-      "title": "Giant Lawsuit Alleges Instagram Used Face Recognition Illegally",
-      "excerpt": "A new $500 billion class-action lawsuit alleges Instagram collects and stores people's biometric data without their consent.",
-      "sourceUrl": null,
-      "webUrl": "https://nerdist.com/article/lawsuit-instagram-face-recognition-california/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nerdist.com/wp-content/uploads/2020/08/Lawsuit-against-Instagram-feature-image-08132020.jpg",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://nerdist.com/article/lawsuit-instagram-face-recognition-california/?amp",
-      "cdnAmpWebUrl": "https://nerdist-com.cdn.ampproject.org/c/s/nerdist.com/article/lawsuit-instagram-face-recognition-california/?amp",
-      "publishedDateTime": "2020-08-14T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nerdist",
-        "domain": "nerdist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

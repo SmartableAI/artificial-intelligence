@@ -2,6 +2,48 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-08-27-federal-contractor-taps-google-cloud-ai-and-ml-to-inspect-us-navy-vessels.md",
+      "title": "Federal contractor taps Google Cloud AI and ML to inspect US Navy vessels",
+      "excerpt": "Simple Technology Solutions will be working with Google Cloud to modernize the maintenance and repairs inspection process for Navy vessels and facilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/federal-contractor-taps-google-cloud-ai-and-ml-to-inspect-us-navy-vessels/",
+      "originalUrl": "https://www.zdnet.com/article/federal-contractor-taps-google-cloud-ai-and-ml-to-inspect-us-navy-vessels/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/federal-contractor-taps-google-cloud-ai-and-ml-to-inspect-us-navy-vessels/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/federal-contractor-taps-google-cloud-ai-and-ml-to-inspect-us-navy-vessels/",
+      "publishedDateTime": "2020-08-27T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-27-graph-machine-learning-hype-and-beyond-arangodb-open-source-multi-model-database-releases-version-37.md",
       "title": "Graph, machine learning, hype and beyond: ArangoDB open source multi model database releases version 3.7",
       "excerpt": "A sui generis, multi-model open source database, designed from the ground up to be distributed. ArangoDB keeps up with the times and uses graph, and machine learning, as the entry points for its offering.",
@@ -1093,39 +1135,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressing-at-a-cagr-of-83-during-the-forecast-period.md",
-      "title": "The Global Self-driving Taxi Market is expected to grow by 78588 units during 2020-2024 progressing at a CAGR of 83% during the forecast period",
-      "excerpt": "The analyst has been monitoring the self-driving taxi market and it is poised to grow by 78588 units during 2020-2024 progressing at a CAGR of 83% during the forecast period. Our reports on self ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/08/n17252765/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressin",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/08/n17252765/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressin",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17252765",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17252765",
-      "publishedDateTime": "2020-08-26T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -2,6 +2,57 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-09-15-indian-ecommerce-player-snapdeal-uses-robots-for-last-mile-delivery.md",
+      "title": "Indian eCommerce player Snapdeal uses robots for last-mile delivery",
+      "excerpt": "The Covid-19 led lockdown and its impact on eCommerce resulted in the federal government approving drone-based deliveries in India in June. Though nothing more was heard on this front since, online marketplace Snapdeal has now announced that it had conducted last-mile delivery using robots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/in/news/indian-ecommerce-player-snapdeal-uses-robots-for-last-mile-delivery",
+      "originalUrl": "https://www.techradar.com/in/news/indian-ecommerce-player-snapdeal-uses-robots-for-last-mile-delivery",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/sYHeZM7HacnN6bsm9mivtY-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/in/amp/news/indian-ecommerce-player-snapdeal-uses-robots-for-last-mile-delivery",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/indian-ecommerce-player-snapdeal-uses-robots-for-last-mile-delivery",
+      "publishedDateTime": "2020-09-15T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-this-biotech-startup-just-raised-47-million-to-make-drugs-from-fungi.md",
       "title": "This Biotech Startup Just Raised $47 Million To Make Drugs From Fungi",
       "excerpt": "In order to find the next penicillin, Menlo Park-based startup Hexagon Bio uses an AI platform to sequence the genomes of fungi.",
@@ -1077,57 +1128,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-big-data-reveals-new-insights-into-what-our-dreams-say-about-us.md",
-      "title": "Big Data Reveals New Insights Into What Our Dreams Say About Us",
-      "excerpt": "Some scientists enthuse about possible uses in therapy; Covid-fueled dreams of massive bug attacks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/big-data-reveals-new-insights-into-what-our-dreams-say-about-us-11600098682?mod=hp_featst_pos4",
-      "originalUrl": "https://www.wsj.com/articles/big-data-reveals-new-insights-into-what-our-dreams-say-about-us-11600098682?mod=hp_featst_pos4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-231790/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/big-data-reveals-new-insights-into-what-our-dreams-say-about-us-11600098682",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/big-data-reveals-new-insights-into-what-our-dreams-say-about-us-11600098682",
-      "publishedDateTime": "2020-09-14T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

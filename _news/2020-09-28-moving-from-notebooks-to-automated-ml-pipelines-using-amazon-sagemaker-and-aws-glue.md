@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/moving-from-notebook
 webUrl: "https://aws.amazon.com/blogs/machine-learning/moving-from-notebooks-to-automated-ml-pipelines-using-amazon-sagemaker-and-aws-glue/"
 type: article
 quality: 115
-heat: 135
+heat: 145
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/02/1-Architecture.jpg"
         width: 900
         height: 484
+        isCached: true
+  - title: "Running on-demand, serverless Apache Spark data processing jobs using Amazon SageMaker managed Spark containers and the Amazon SageMaker SDK"
+    excerpt: "Apache Spark is a unified analytics engine for large scale, distributed data processing. Typically, businesses with Spark-based workloads on AWS use their own stack built on top of Amazon Elastic Compute Cloud (Amazon EC2), or Amazon EMR to run and scale Apache Spark, Hive, Presto, and other big data"
+    publishedDateTime: 2020-09-29T16:41:35Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/running-on-demand-serverless-apache-spark-data-processing-jobs-using-amazon-sagemaker-managed-spark-containers-and-the-amazon-sagemaker-sdk/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 69
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/25/1-Flowchart-4.jpg"
+        width: 441
+        height: 531
         isCached: true
 
 secured: "uCX+l9oCotKRbCSZMyicCj8rvbFFsnt9XbKHS1mVNUVLy5DdjvN++zC3QI2Im1W0uBiMgQoLH15aFJ5ICoYCk6F01o9gr1/Iy6mcWhSkMvLqhbQLudnsmE4ONrnRbds+2Q9f6IWWId0E5A4NipmFuiybF68lhtfOdZ+t0ZG5NKhP3hcPnFDnSgJFJKxVCDNOGZDnw1ENXO8yEjxf5IJNeAj4Al+MuQDw1/7nyEvXIGpCW+cl1qB5DXb9U/fk93avPdhoV1v5G4XiStXF01uN0BE0rT33DLDngk9P/0Fr/oaeoDDzSSvIWlKxA21TWu/f4+ntcdHpwVwlOceqnT05D1D6Ys4ktGkkV7q8dL/H1Oo=;S4r9yWKX9VJMfieR+C28Kw=="

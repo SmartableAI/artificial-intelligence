@@ -2,6 +2,39 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-09-08-impact-analysis-of-covid-19.md",
+      "title": "Impact Analysis of Covid-19",
+      "excerpt": "The rising demand for improved customer services in the healthcare and life sciences sector is a major factor driving growth of the natural language processing in healthcare and life sciences market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medgadget.com/2020/09/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-to-find-better-growth-with-us-21347-million-by-2026-cagr-26-8-coherent-market-insights.html",
+      "originalUrl": "https://www.medgadget.com/2020/09/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-to-find-better-growth-with-us-21347-million-by-2026-cagr-26-8-coherent-market-insights.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-08T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medgadget",
+        "domain": "medgadget.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-08-facial-recognition-technology-for-pets-is-launched-in-atlanta.md",
       "title": "Facial recognition technology for pets is launched in Atlanta",
       "excerpt": "In addition to Finding Rover, LifeLine has implemented a \"Lost & Found\" matchmaking program where they check pets reported as lost against those in shelters daily. A new Lost2Foun",
@@ -1117,49 +1150,6 @@
         "Facebook AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-07-microsoft-announces-the-general-availability-of-immersive-reader-service-on-the-azure-ai-platform.md",
-      "title": "Microsoft Announces the General Availability of Immersive Reader Service on the Azure AI Platform",
-      "excerpt": "Immersive Reader, which is a part of the Cognitive Services suite within the Microsoft Azure AI Platform, provides help for readers to read and comprehend text. In a recent blog, Microsoft announced the general availability of the service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2020/09/immersive-reader-ga-azure/",
-      "originalUrl": "https://www.infoq.com/news/2020/09/immersive-reader-ga-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2020/09/immersive-reader-ga-azure/en/headerimage/croppted-1920_Panel4_FeatureHeader_PictureDictionary-1599385533206.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-07T04:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

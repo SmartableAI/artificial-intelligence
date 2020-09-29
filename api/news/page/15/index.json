@@ -2,6 +2,56 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-09-16-latent-ai-makes-edge-ai-workloads-more-efficient.md",
+      "title": "Latent AI makes edge AI workloads more efficient",
+      "excerpt": "Latent AI, a startup that was spun out of SRI International, makes it easier to run AI workloads at the edge by dynamically managing workloads as necessary. Using its proprietary compression and compilation process,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/15/latent-ai-makes-edge-ai-workloads-more-efficient/",
+      "originalUrl": "https://techcrunch.com/2020/09/15/latent-ai-makes-edge-ai-workloads-more-efficient/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1222958278.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/15/latent-ai-makes-edge-ai-workloads-more-efficient/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/15/latent-ai-makes-edge-ai-workloads-more-efficient/amp/",
+      "publishedDateTime": "2020-09-15T11:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-16-apple-unveils-its-super-fast-five-nanometer-a14-chip-shipping-in-the-new-ipad-air-next-month.md",
       "title": "Apple unveils its super fast five nanometer A14 chip, shipping in the new iPad Air next month",
       "excerpt": "No iPhone 12 announced today, but Apple unveiled a new chip that will power the next generation of its hardware (including that phone whenever it’s launched). The A14 Bionic, which will ship first with the new iPad Air,",
@@ -1101,57 +1151,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-indian-ecommerce-player-snapdeal-uses-robots-for-last-mile-delivery.md",
-      "title": "Indian eCommerce player Snapdeal uses robots for last-mile delivery",
-      "excerpt": "The Covid-19 led lockdown and its impact on eCommerce resulted in the federal government approving drone-based deliveries in India in June. Though nothing more was heard on this front since, online marketplace Snapdeal has now announced that it had conducted last-mile delivery using robots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/in/news/indian-ecommerce-player-snapdeal-uses-robots-for-last-mile-delivery",
-      "originalUrl": "https://www.techradar.com/in/news/indian-ecommerce-player-snapdeal-uses-robots-for-last-mile-delivery",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/sYHeZM7HacnN6bsm9mivtY-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/in/amp/news/indian-ecommerce-player-snapdeal-uses-robots-for-last-mile-delivery",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/indian-ecommerce-player-snapdeal-uses-robots-for-last-mile-delivery",
-      "publishedDateTime": "2020-09-15T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

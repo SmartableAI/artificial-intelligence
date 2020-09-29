@@ -179,6 +179,49 @@
       ]
     },
     {
+      "path": "_news/2020-09-22-dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace.md",
+      "title": "dotData Now Supports Microsoft Azure Deployment and Is Available on Microsoft Azure Marketplace",
+      "excerpt": "Integration of dotData's AutoML 2.0 platform with Microsoft's highly available, trusted and scalable Azure cloud platform provides increased speed and efficiency of data science and machine ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572",
+      "publishedDateTime": "2020-09-22T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-to-make-fairer-ai-physicists-peer-inside-its-black-box.md",
       "title": "To Make Fairer AI, Physicists Peer Inside Its Black Box",
       "excerpt": "After repurposing facial recognition and deepfake tech to study galaxies and the Higgs boson, physicists think they can help shape the responsible use of AI.",
@@ -1103,57 +1146,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-the-reasonable-robot-looks-at-the-intersection-of-artificial-intelligence-ai-and-law.md",
-      "title": "“The Reasonable Robot” Looks At The Intersection Of Artificial Intelligence (AI) And Law",
-      "excerpt": "I have issues with many of the suggestions the author makes, still I think everyone should read the book. It brings up issues of critical importance as AI gains a more prevalent impact on society. What’s needed is the discussion that Ryan Abbot’s book,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2020/09/21/the-reasonable-robot-looks-at-the-intersection-of-artificial-intelligence-ai-and-law/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2020/09/21/the-reasonable-robot-looks-at-the-intersection-of-artificial-intelligence-ai-and-law/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
-          "width": 876,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/09/21/the-reasonable-robot-looks-at-the-intersection-of-artificial-intelligence-ai-and-law/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/09/21/the-reasonable-robot-looks-at-the-intersection-of-artificial-intelligence-ai-and-law/amp/",
-      "publishedDateTime": "2020-09-21T13:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

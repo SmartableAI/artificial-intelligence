@@ -2,6 +2,56 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-09-09-meet-the-ai-entrepreneur-preparing-underserved-students-for-the-future-of-work.md",
+      "title": "Meet The AI Entrepreneur Preparing Underserved Students For The Future Of Work",
+      "excerpt": "Artificial intelligence is dramatically changing how we live and work. Ora D. Tanner is designing a tech-enabled AI curriculum for underserved high schoolers to help them succeed in our increasingly automated future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/fastforward/2020/09/08/this-entrepreneur-is-preparing-underserved-students-for-the-future-of-work/",
+      "originalUrl": "https://www.forbes.com/sites/fastforward/2020/09/08/this-entrepreneur-is-preparing-underserved-students-for-the-future-of-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x527/https://specials-images.forbesimg.com/imageserve/5f57ce749a8421d22ed10081/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 527,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/fastforward/2020/09/08/this-entrepreneur-is-preparing-underserved-students-for-the-future-of-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/fastforward/2020/09/08/this-entrepreneur-is-preparing-underserved-students-for-the-future-of-work/amp/",
+      "publishedDateTime": "2020-09-08T11:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-09-cbp-doesnt-consistently-notify-air-travelers-about-facial-recognition-tech-use-privacy-gao.md",
       "title": "CBP doesn’t consistently notify air travelers about facial recognition tech use, privacy: GAO",
       "excerpt": "Customs and Border Protection (CBP) is not consistently notifying travelers about its use of facial recognition technology or privacy options in US airports, according to the Government Accountability Office (GAO).",
@@ -1125,39 +1175,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-impact-analysis-of-covid-19.md",
-      "title": "Impact Analysis of Covid-19",
-      "excerpt": "The rising demand for improved customer services in the healthcare and life sciences sector is a major factor driving growth of the natural language processing in healthcare and life sciences market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medgadget.com/2020/09/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-to-find-better-growth-with-us-21347-million-by-2026-cagr-26-8-coherent-market-insights.html",
-      "originalUrl": "https://www.medgadget.com/2020/09/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-to-find-better-growth-with-us-21347-million-by-2026-cagr-26-8-coherent-market-insights.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-08T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medgadget",
-        "domain": "medgadget.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

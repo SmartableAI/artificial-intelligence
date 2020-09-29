@@ -237,6 +237,15 @@ related:
         width: 1600
         height: 1200
         isCached: true
+  - title: "Microsoft Azure Cloud Ramps for 5G Telecom Service Provider Partners"
+    excerpt: "Microsoft Azure for Operators helps partners & telecommunications service providers (TSPs) roll out 5G networks and deliver new cloud-based services, Microsoft says."
+    publishedDateTime: 2020-09-29T17:21:00Z
+    webUrl: "https://www.channele2e.com/channel-partners/csps/microsoft-azure-cloud-ramps-for-5g-telecom-service-provider-partners/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 34
 
 secured: "q60vnt3Lj1kktmyVIUAv6kFUlVLwk4fRw+B9S7x5x+5TP0XGL5inxGeNiYI8UDzJmLBvgZ7EVGE7t9H4RnsT99GaLHJ2f/N1L7yQ69LzDGwh5pgNebahNRK0OIV6OUSe25hH+Qx77wlRMr4iB90VOYdHX3BFMtW7nmGezZbmYDS8kFhfJy97yJaTH+Rx9SmW7CMERbkWvzTF0NuclTPthOKkQveaVTeFMWNVAIcfaqo0U95O0a+fnMizb4QPIOwMmvpSXb0dPakUMYx618Jm9rY54aTkQwHQ7cFDFEZITsh7Agi6CqW+WmlZiJRaIMM5r1UBhy0/e8y7Tq9XTt89LcC3m7U7mxOmX28QG931jXs=;SfN2fc0TdvTfoYIQ7R6Hjg=="
 ---

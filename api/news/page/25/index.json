@@ -2,6 +2,58 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-09-09-how-ai-is-impacting-customer-experience-in-fintech-vb-live.md",
+      "title": "How AI is impacting customer experience in fintech (VB Live)",
+      "excerpt": "Learn how companies like MasterCard are implementing AI and NLP strategies that transform how fintech customer experience is done.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/09/how-ai-is-impacting-customer-experience-in-fintech-vb-live/",
+      "originalUrl": "https://venturebeat.com/2020/09/09/how-ai-is-impacting-customer-experience-in-fintech-vb-live/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/NLP.GettyImages-1199031078.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/09/how-ai-is-impacting-customer-experience-in-fintech-vb-live/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/09/how-ai-is-impacting-customer-experience-in-fintech-vb-live/amp/",
+      "publishedDateTime": "2020-09-09T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-09-09-global-deep-learning-market-trends-forecast-and-competitive-analysis-2013-2018-2019-2024.md",
       "title": "Global Deep Learning Market Trends, Forecast and Competitive Analysis, 2013-2018 & 2019-2024",
       "excerpt": "Trends, Forecast and Competitive Analysis\" report has been added to ResearchAndMarkets.com's offering. The deep learning market is expected to grow with a CAGR of 25% from 2019 to 2024. The future of the deep learning market looks promising with opportunities in the healthcare,",
@@ -1057,56 +1109,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-meet-the-ai-entrepreneur-preparing-underserved-students-for-the-future-of-work.md",
-      "title": "Meet The AI Entrepreneur Preparing Underserved Students For The Future Of Work",
-      "excerpt": "Artificial intelligence is dramatically changing how we live and work. Ora D. Tanner is designing a tech-enabled AI curriculum for underserved high schoolers to help them succeed in our increasingly automated future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/fastforward/2020/09/08/this-entrepreneur-is-preparing-underserved-students-for-the-future-of-work/",
-      "originalUrl": "https://www.forbes.com/sites/fastforward/2020/09/08/this-entrepreneur-is-preparing-underserved-students-for-the-future-of-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x527/https://specials-images.forbesimg.com/imageserve/5f57ce749a8421d22ed10081/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 527,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/fastforward/2020/09/08/this-entrepreneur-is-preparing-underserved-students-for-the-future-of-work/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/fastforward/2020/09/08/this-entrepreneur-is-preparing-underserved-students-for-the-future-of-work/amp/",
-      "publishedDateTime": "2020-09-08T11:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

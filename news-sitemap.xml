@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://dailypost.ng/2020/09/29/robots-in-nigeria-fg-to-boost-artificial-intelligence/</loc>
+    <lastmod>2020-09-29T10:51:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.cnet.com/news/best-facial-recognition-home-security-cameras-to-buy-in-2020/</loc>
+    <lastmod>2020-09-29T10:16:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/09/29/examsofts-remote-bar-exam-sparks-privacy-and-facial-recognition-concerns/</loc>
+    <lastmod>2020-09-29T10:07:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/stevemccaskill/2020/09/29/roland-garros-2020-puts-ai-at-the-heart-of-the-digital-experience-as-tennis-fans-stay-at-home/</loc>
     <lastmod>2020-09-29T08:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -33,12 +51,6 @@
   <url>
     <loc>https://www.nextplatform.com/2020/09/29/another-strange-shift-for-the-ai-chip-startup-segment/</loc>
     <lastmod>2020-09-29T06:31:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/marvell-enabling-the-next-generation-of-data-center-and-automotive-ai-accelerator-asics-2020-09-29</loc>
-    <lastmod>2020-09-29T06:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -283,7 +295,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.djournal.com/bear-robotics-and-softbank-robotics-group-announce-new-food-service-robot/article_1ffea957-dc6a-5c38-99b3-465fc366f409.html</loc>
+    <loc>https://apnews.com/press-release/business-wire/corporate-news-artificial-intelligence-technology-business-north-america-144b7c6660a14e33ac09029d04417d88</loc>
     <lastmod>2020-09-28T02:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -357,12 +369,6 @@
   <url>
     <loc>https://markets.businessinsider.com/news/stocks/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692</loc>
     <lastmod>2020-09-26T15:18:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.buzz.ie/news/singapore-facial-recognition-in-national-identity-scheme-390534</loc>
-    <lastmod>2020-09-26T11:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -805,12 +811,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.oaoa.com/news/business/correcting-and-replacing-ses-becomes-microsoft-azure-orbital-founding-connectivity-partner/article_8f24ab84-719f-5f89-a3c2-2c3a47db75e1.html</loc>
-    <lastmod>2020-09-23T08:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.cnet.com/roadshow/news/tesla-full-self-driving-autopilot-elon-musk/</loc>
     <lastmod>2020-09-23T07:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -973,6 +973,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://apnews.com/business-wire/17a08d01d2314154b83e6bfa51a8632b</loc>
+    <lastmod>2020-09-22T12:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.benzinga.com/pressreleases/20/09/b17611271/ses-becomes-microsoft-azure-orbital-founding-connectivity-partner</loc>
     <lastmod>2020-09-22T12:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -993,12 +999,6 @@
   <url>
     <loc>https://www.forbes.com/sites/junwu1/2020/09/22/brainframe-smart-vision-ai-developers-kit-is-accelerating-computer-vision-applications/</loc>
     <lastmod>2020-09-22T10:42:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.prnewswire.com/news-releases/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-301135412.html</loc>
-    <lastmod>2020-09-22T08:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1033,7 +1033,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.businesswire.com/news/home/20200922005177/en/</loc>
+    <loc>https://www.businesswire.com/news/home/20200922005177/en/DeepCube-Raises-Series-A-Funding-to-Realize-Real-World-Deployments-of-Deep-Learning-on-Edge-Devices-at-Scale</loc>
     <lastmod>2020-09-22T06:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1071,6 +1071,12 @@
   <url>
     <loc>https://www.openpr.com/news/2139411/covid-19-impact-on-ai-medicine-software-market-outlook</loc>
     <lastmod>2020-09-22T05:28:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572</loc>
+    <lastmod>2020-09-22T05:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

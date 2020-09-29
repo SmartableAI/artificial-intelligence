@@ -46,15 +46,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning Market Size growing at 33.8% CAGR to hit USD 5354.4 million by 2025"
-    excerpt: "Selbyville, Delaware, Global Machine Learning Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2025. Machine Learning Market Report also covers top key players,"
-    publishedDateTime: 2020-09-24T23:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-size-growing-at-338-cagr-to-hit-usd-53544-million-by-2025-2020-09-22"
+  - title: "Artificial Intelligence In Healthcare Market Growth, Leading Players and Forecast To 2025"
+    excerpt: "A comprehensive research report created through extensive primary research (inputs from industry experts, companies, stakeholders) and secondary research, the report aims to present the analysis of Global Artificial Intelligence in Healthcare Market."
+    publishedDateTime: 2020-09-29T16:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2025-2020-09-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 75
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

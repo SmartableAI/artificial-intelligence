@@ -2,6 +2,48 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-08-14-giant-lawsuit-alleges-instagram-used-face-recognition-illegally.md",
+      "title": "Giant Lawsuit Alleges Instagram Used Face Recognition Illegally",
+      "excerpt": "A new $500 billion class-action lawsuit alleges Instagram collects and stores people's biometric data without their consent.",
+      "sourceUrl": null,
+      "webUrl": "https://nerdist.com/article/lawsuit-instagram-face-recognition-california/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nerdist.com/wp-content/uploads/2020/08/Lawsuit-against-Instagram-feature-image-08132020.jpg",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://nerdist.com/article/lawsuit-instagram-face-recognition-california/?amp",
+      "cdnAmpWebUrl": "https://nerdist-com.cdn.ampproject.org/c/s/nerdist.com/article/lawsuit-instagram-face-recognition-california/?amp",
+      "publishedDateTime": "2020-08-14T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nerdist",
+        "domain": "nerdist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-14-image-recognition-market-volume-revenue-pestel-analysis-cagr-and-swot-studyattrasoft-inc-nec-corporation-google-inc.md",
       "title": "Image Recognition Market Volume, Revenue, PESTEL Analysis, CAGR and SWOT Study|Attrasoft Inc, NEC Corporation, Google Inc",
       "excerpt": "Analysis of Major Manufacturers of Image Recognition across the world: Examination of every Company profiles, picture of the object and details, sales, preceding costs, income, Gross Margin ...",

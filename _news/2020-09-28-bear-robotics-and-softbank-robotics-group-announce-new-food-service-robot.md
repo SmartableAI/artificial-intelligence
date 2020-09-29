@@ -3,25 +3,25 @@ category: news
 title: "Bear Robotics and SoftBank Robotics Group Announce New Food Service Robot"
 excerpt: "Bear Robotics, a robotics and artificial intelligence company, and SoftBank Robotics Group, a leading robotics manufacturer and solutions provider, have collaborated to bring a new robot named Servi to the food service and hospitality field."
 publishedDateTime: 2020-09-28T09:03:00Z
-originalUrl: "https://www.djournal.com/bear-robotics-and-softbank-robotics-group-announce-new-food-service-robot/article_1ffea957-dc6a-5c38-99b3-465fc366f409.html"
-webUrl: "https://www.djournal.com/bear-robotics-and-softbank-robotics-group-announce-new-food-service-robot/article_1ffea957-dc6a-5c38-99b3-465fc366f409.html"
+originalUrl: "https://apnews.com/press-release/business-wire/corporate-news-artificial-intelligence-technology-business-north-america-144b7c6660a14e33ac09029d04417d88"
+webUrl: "https://apnews.com/press-release/business-wire/corporate-news-artificial-intelligence-technology-business-north-america-144b7c6660a14e33ac09029d04417d88"
 type: article
 quality: 53
 heat: 73
 published: true
 
 provider:
-  name: Daily Journal
-  domain: djournal.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/7/a9/7a93335d-9eb9-546d-8ed5-482b0fc705e5/5f71aa0cac151.image.jpg?resize=1120%2C630"
-    width: 1120
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -54,6 +54,6 @@ related:
         height: 315
         isCached: true
 
-secured: "JaT3kMRd9AlFKFdwXlh7cqn8Qta9ZaZg5zO93SKrce348jamIPE0l/rYglZG/MNYbMwP5hwO4+cmCoVMd4G1Mjvi8lcxL7VijXOVww728tYfCv5gqMX0Rl1avKgZGnpgzBIzv6r0f3hggvs5ewoQpTd3KZuNAjn4ag/934ElY2tHpW6voQD0HhCaKBS180SsrmOxkm/JGc30eeSd4z2RthUlacKdq4SQeYRMJnVMAJCD13SfJYI3LqhS0hoWBK9uF9V3aavwcjBtJurt47CbEEep1CzTHmFoKvVbJp9C19qJHM13AvLBIjrQ1HgL/d/5pBt5znUWsXy2w+DuMhnXoEeE2EQwim81kjUqoZuKDEo=;GR3CoQP2+UvZS9FQfkXPmA=="
+secured: "BE8q/Gp2Xdfp4oiXIifBoFnVBzig8l0JZrZS4mcGJjdl807Qqt2oqPLJeSiGxVvzvcRT7P7FhVcuNU7nt9Ei2+iR3x23jEg2NGU7yn+1Qv3XhSxWyjmdYftFh8n3YIWjNa9i+11UYxTcaBe1i0kOUP4W8FbcSDt95T8Hr14aTNMpVgM137VKeZ5JaWvj0uw7MjMDfnSadhSjkJAw2XmohDfO2OmTXL53faqeC4zvqFjeYTnN6eviunq4VkW2uAXPA18gRBBGU8+knyvrD9w6CaidL6hWvvRGq0A62csFByjB0y/lqII77phSbWWIasONfny8UL1YW+sFUoJ99WEJH/Js8rnO21vVNGyArtNfyeE=;evE6rcAXuPZuef/dqiRIgg=="
 ---
 

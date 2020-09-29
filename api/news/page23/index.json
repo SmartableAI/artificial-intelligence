@@ -2,6 +2,48 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-09-10-centre-for-artificial-intelligence-and-robotics.md",
+      "title": "Centre for Artificial Intelligence and Robotics",
+      "excerpt": "Read all the latest news, breaking stories, top headlines, opinion, pictures and videos about Centre for Artificial Intelligence and Robotics from Nigeria and the world on today.ng",
+      "sourceUrl": null,
+      "webUrl": "https://www.today.ng/topic/centre-for-artificial-intelligence-and-robotics",
+      "originalUrl": "https://www.today.ng/topic/centre-for-artificial-intelligence-and-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.today.ng/wp-content/uploads/2019/08/14053638.png",
+          "width": 700,
+          "height": 466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.today.ng/topic/centre-for-artificial-intelligence-and-robotics/amp",
+      "cdnAmpWebUrl": "https://www-today-ng.cdn.ampproject.org/c/s/www.today.ng/topic/centre-for-artificial-intelligence-and-robotics/amp",
+      "publishedDateTime": "2020-09-10T01:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TODAY",
+        "domain": "today.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-10-millions-of-indians-are-getting-connected-to-an-internet-they-cant-use.md",
       "title": "Millions of Indians are getting connected to an internet they can’t use",
       "excerpt": "Most Indian businesses, banks, and government services develop their websites and apps in English and Hindi. What about the users who speak other languages?",
@@ -1087,57 +1129,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-16-smart-ways-you-can-leverage-ai-to-boost-your-business.md",
-      "title": "16 Smart Ways You Can Leverage AI To Boost Your Business",
-      "excerpt": "AI offers the best way for companies to automate repetitive processes and gain insight into their customer bases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/16-smart-ways-you-can-leverage-ai-to-boost-your-business/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/16-smart-ways-you-can-leverage-ai-to-boost-your-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f58d99ecc7cbb59fb09fee4%2F0x0.jpg",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/16-smart-ways-you-can-leverage-ai-to-boost-your-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/09/16-smart-ways-you-can-leverage-ai-to-boost-your-business/amp/",
-      "publishedDateTime": "2020-09-09T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

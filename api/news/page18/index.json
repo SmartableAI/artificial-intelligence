@@ -2,6 +2,57 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-09-14-amazon-google-and-microsoft-take-their-clouds-to-the-edge.md",
+      "title": "Amazon, Google, and Microsoft take their clouds to the edge",
+      "excerpt": "As enterprises ramp up edge computing deployments, the big three clouds are ponying up a surprising array of edge options for a broad range of needs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3575071/amazon-google-and-microsoft-take-their-clouds-to-the-edge.html",
+      "originalUrl": "https://www.infoworld.com/article/3575071/amazon-google-and-microsoft-take-their-clouds-to-the-edge.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/09/spot_edge_computing_3x2_2400x1600_06_ifw_a_multiple_cloud_instances_service_options_personal_clouds_by_gremlin_gettyimages-940308630-100857218-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3575071/amazon-google-and-microsoft-take-their-clouds-to-the-edge.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3575071/amazon-google-and-microsoft-take-their-clouds-to-the-edge.amp.html",
+      "publishedDateTime": "2020-09-14T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-better-outcomes-with-ai-frost-sullivan-names-microsoft-the-leading-ai-platform-for-healthcare-it.md",
       "title": "Better outcomes with AI: Frost & Sullivan names Microsoft the leading AI platform for healthcare IT",
       "excerpt": "Frost & Sullivan have recognized Microsoft as the “undisputed leader” in global AI platforms for the healthcare IT sector. ",
@@ -1129,48 +1180,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-custom-object-detection-tflite-model-for-android-using-tensorflow.md",
-      "title": "Custom Object Detection Tflite Model for Android using Tensorflow",
-      "excerpt": "In this tutorial, we will learn how to make a custom object detection model in TensorFlow and then converting the model to tflite for android. I will go through step by step. Every step is ...",
-      "sourceUrl": null,
-      "webUrl": "https://medium.com/analytics-vidhya/custom-object-detection-tflite-model-for-android-using-tensorflow-3d76e31afbc4",
-      "originalUrl": "https://medium.com/analytics-vidhya/custom-object-detection-tflite-model-for-android-using-tensorflow-3d76e31afbc4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-13T03:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

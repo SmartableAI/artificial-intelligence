@@ -3,8 +3,8 @@ category: news
 title: "DeepCube Raises Series A Funding to Realize Real-World Deployments of Deep Learning on Edge Devices, at Scale"
 excerpt: "DeepCube, the award-winning deep learning pioneer, today announced that it has closed $7 million in Series A funding."
 publishedDateTime: 2020-09-22T13:59:00Z
-originalUrl: "https://www.businesswire.com/news/home/20200922005177/en/"
-webUrl: "https://www.businesswire.com/news/home/20200922005177/en/"
+originalUrl: "https://www.businesswire.com/news/home/20200922005177/en/DeepCube-Raises-Series-A-Funding-to-Realize-Real-World-Deployments-of-Deep-Learning-on-Edge-Devices-at-Scale"
+webUrl: "https://www.businesswire.com/news/home/20200922005177/en/DeepCube-Raises-Series-A-Funding-to-Realize-Real-World-Deployments-of-Deep-Learning-on-Edge-Devices-at-Scale"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 627
     isCached: true
 
-secured: "oeqojsxYlu9eDUnLR4ik9WHLjc2HLThJWqZZhBoEqEswr0hRa8tOnnQl6aZR9ut3tI6Nxx7/cz4CCIyvqgAgfNG7pzOv8gS/mndlO+KiF8+erZAWYlHhcvmQC4eFwBmNcqaNXtseBehpIlgoTLqPdh+tgZ5WZdW8ySASCy+Tc+GHvxpwsbCLF2UJkcPZTcIBte/p81p8tmA+qrGB9itOQaDmb+YxXUCtnIyQj7hAFGYCdB4Q0F3FWEjL0XLAoRVD3W2alidNhwuZ5gBY0mpoMVyqfjFxMMcaMpPO1XYakN5+8T6iP6YcRrIbg2cxebtWLpqXizLiBzy0D6WkPdTk32GxSSxREPjsxAWZssk09q4=;xS7x1/xXXzPt6pg2V8qTug=="
+secured: "jrFnrPKX+qePnjk/R+ZSODKJc9lB0UXjjJ5FnFnuK9rbloJ+7pQI1enyk+Uen0uTv752d6UHwogmwzPmq6brDHJ+1pjai+odcNDJOugVc/8bMUUOjr/sa5zW6fAJBM3k1z5ILzC4kcC4hgkrdpBpKunawZO7OIQ1qVBJwaZpUUtVTHqVxvyInWtp67y4CvXwROPUZy8l3gqNEID15g+bPHxRCLoxbsWRAgsUS66QWglrba1nvZAUz3AlOe9ClTVedSNXJYy+3+CPV25sZRKIbHyzeZzeAvEfyVN7ttDupvD1pd2cC9DOMse7Y1cAKVGr4PKUyvS/7ue9m2/Lv+dC6+l/xUKwJm2N8Pst4Kr5ZzE=;JbI5AphcLBPYntSg8y1I/Q=="
 ---
 

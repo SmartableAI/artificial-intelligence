@@ -7,7 +7,7 @@ originalUrl: "https://www.cmswire.com/collaboration-productivity/5-microsoft-tea
 webUrl: "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/5-new-ways-to-boost-productivity-with-enhanced-teams-power/ba-p/1680697"
 type: article
 quality: 139
-heat: 289
+heat: 299
 published: true
 
 provider:
@@ -232,6 +232,15 @@ related:
         width: 1600
         height: 1200
         isCached: true
+  - title: "Microsoft Azure Cloud Ramps for 5G Telecom Service Provider Partners"
+    excerpt: "Microsoft Azure for Operators helps partners & telecommunications service providers (TSPs) roll out 5G networks and deliver new cloud-based services, Microsoft says."
+    publishedDateTime: 2020-09-29T17:21:00Z
+    webUrl: "https://www.channele2e.com/channel-partners/csps/microsoft-azure-cloud-ramps-for-5g-telecom-service-provider-partners/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 34
 
 secured: "tTOrn7T/610IOiUeCALAUU7gSv7sjX57z2GyTDtUQYncX5otGn8/PPu/3QI7IFA+0K/wxhifxM/dC6G3+WLz4BsmoxCW67C70lH+ZDLGTQUXwal9yTkSYcYhsCRPRb6si6JQLo6e+f0cEgqnbm8KObzNkErAkkexMd0K0ldFQOy3U/zrG5E2n6RCQqyVEOJeHDuNwKgb4v9003DwjooAfrUmVd68ieHVzh5gKooW4En6OTOdxTVFZAZmfbDoKpdRWkIZrG2eRccM5px9lCTOAHMYe98XimlnpJMoJVOzxDKevNEZS4PkRid2rbZm9d6Efta2NXoibHuZBGO0cPPQ/XtOwJtm3vE/eEcKsAVY2DU=;r78dPQuQP3skpyE06YkGZw=="
 ---

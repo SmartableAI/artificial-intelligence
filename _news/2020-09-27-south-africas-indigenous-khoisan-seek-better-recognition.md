@@ -3,8 +3,8 @@ category: news
 title: "South Africa's indigenous Khoisan seek better recognition"
 excerpt: "They have been camping outside the seat of government, demanding the official recognition of their languages and to negotiate land ownership"
 publishedDateTime: 2020-09-27T09:57:00Z
-originalUrl: "https://www.standardmedia.co.ke/africa/article/2001387897/south-africas-indigenous-khoisan-seek-better-recognition"
-webUrl: "https://www.standardmedia.co.ke/africa/article/2001387897/south-africas-indigenous-khoisan-seek-better-recognition"
+originalUrl: "https://www.standardmedia.co.ke/ureport/article/2001387897/south-africa-s-indigenous-khoisan-seek-better-recognition"
+webUrl: "https://www.standardmedia.co.ke/ureport/article/2001387897/south-africa-s-indigenous-khoisan-seek-better-recognition"
 ampWebUrl: "https://www.standardmedia.co.ke/amp/africa/article/2001387897/south-africas-indigenous-khoisan-seek-better-recognition"
 cdnAmpWebUrl: "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/amp/africa/article/2001387897/south-africas-indigenous-khoisan-seek-better-recognition"
 type: article
@@ -42,6 +42,6 @@ related:
         height: 630
         isCached: true
 
-secured: "GFIcDltN1t0hbymrRRgwAW7F8YR7fkfhGBC9L0fpmUlc08eNzo+FgTcqW8bZZANgBlpinIdlFGJjTPPieRon7zAnzRPTerOZDVnYY0hgDFVoY9pfLFcP6Ptz83w5dMgwN7yTOh6RSDJz1H2m+wEP1fcFONtxybAEOiyNgtntDf1RlJvdKOrLJ7pUqQ5khY+C9JLIhTXboED5OHC01XAerlR5BDQ9RGmcVhNyctaLdormSZnDWtc9oICVSkVoaAGzBr+kS35zDaa+fOLTq5Or20Df6aiRfwW4P4vHeOyTXp2pznxTAHLoUXTE35ieMFYbiNZ2WGaQpByKI5ImgCWzuZWuusZBIg5S8rpV9psozi4=;8+iAyBL5ZCBgTCIAaTvMFw=="
+secured: "pF84bh7FYxv6vEtuAnsjLyiOU5UrtPSy7JHvUTNHiXICUPwEzd1GMi/vG0VZN0LyTcxAFQrBe4NglWM7CgX8K8tp1nwjZBu2qZP0nuWq516IjA7T5v5s+Qo0IYd/6MyVEE5N4o5c/o27I18v9do6JHE2EJL/gVtIdrSndgUOX1I4ib87ciRVT9f88bmdYvoR14g+Ewnp7HozlRDTIj5sH/IU1mHwTLeDmgmU+v6Vwswx6SxvT9qaX0eUuo6iV+unxj4/BJRfBtX3sk9Q0/oDGTKSBxq9rgvMVCXHqV/JCLS/KTiGSAmw8iN8sbNF52NVlLSTQW+y5ET/8HGBvqt/xf3y4M/N/B2u4uwHX/FHbtM=;gtHDD9UE1dCzguGondR+iw=="
 ---
 

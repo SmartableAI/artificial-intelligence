@@ -114,7 +114,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/moving-from-notebooks-to-automated-ml-pipelines-using-amazon-sagemaker-and-aws-glue/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -1150,8 +1150,8 @@
       "title": "DeepCube Raises Series A Funding to Realize Real-World Deployments of Deep Learning on Edge Devices, at Scale",
       "excerpt": "DeepCube, the award-winning deep learning pioneer, today announced that it has closed $7 million in Series A funding.",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200922005177/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20200922005177/en/",
+      "webUrl": "https://www.businesswire.com/news/home/20200922005177/en/DeepCube-Raises-Series-A-Funding-to-Realize-Real-World-Deployments-of-Deep-Learning-on-Edge-Devices-at-Scale",
+      "originalUrl": "https://www.businesswire.com/news/home/20200922005177/en/DeepCube-Raises-Series-A-Funding-to-Realize-Real-World-Deployments-of-Deep-Learning-on-Edge-Devices-at-Scale",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1185,6 +1185,49 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace.md",
+      "title": "dotData Now Supports Microsoft Azure Deployment and Is Available on Microsoft Azure Marketplace",
+      "excerpt": "Integration of dotData's AutoML 2.0 platform with Microsoft's highly available, trusted and scalable Azure cloud platform provides increased speed and efficiency of data science and machine ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572",
+      "publishedDateTime": "2020-09-22T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1365,39 +1408,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-vida-receives-510k-clearance-for-deep-learning-based-enhancements-to-its-lungprint-solution.md",
-      "title": "VIDA receives 510(k) clearance for deep learning-based enhancements to its LungPrint® solution",
-      "excerpt": "The addition of deep learning algorithms to VIDA's LungPrint solution allows the company to improve the performance of lung imaging analysis and enable a more comprehensive assessment of disease ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vida-receives-510-k-clearance-for-deep-learning-based-enhancements-to-its-lungprint-solution/article_4f8f2da1-81f1-5148-a823-09637cc7c2f8.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vida-receives-510-k-clearance-for-deep-learning-based-enhancements-to-its-lungprint-solution/article_4f8f2da1-81f1-5148-a823-09637cc7c2f8.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-21T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

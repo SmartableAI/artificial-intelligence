@@ -57,6 +57,20 @@ related:
         width: 900
         height: 484
         isCached: true
+  - title: "Running on-demand, serverless Apache Spark data processing jobs using Amazon SageMaker managed Spark containers and the Amazon SageMaker SDK"
+    excerpt: "Apache Spark is a unified analytics engine for large scale, distributed data processing. Typically, businesses with Spark-based workloads on AWS use their own stack built on top of Amazon Elastic Compute Cloud (Amazon EC2), or Amazon EMR to run and scale Apache Spark, Hive, Presto, and other big data"
+    publishedDateTime: 2020-09-29T16:41:35Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/running-on-demand-serverless-apache-spark-data-processing-jobs-using-amazon-sagemaker-managed-spark-containers-and-the-amazon-sagemaker-sdk/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 69
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/25/1-Flowchart-4.jpg"
+        width: 441
+        height: 531
+        isCached: true
 
 secured: "TO51gZVQeFu1FmYgqgeTAWgjgAWBg1U8YPfz78XdOtPDSTALOMKVWg2YUXQ1/m5Ah1pWVr4DoUUp229FgReBql6LQNq50vH3vIBaARhNI38XIGpq6qIMCxnnQoPJ4Lkg/4dNczwdkqdfyBXaZdIkn+rPjLBAxLF4KNm1KDAxSzHJut52OsMkaciCrN6/zL++2IsTb3eVDOfiA7McMV+AhUsoPeJ2ZiN/rdV7YVxsJwcHY/RMwAaqf0h9SKFaZK8iFWouE68KeQmnuT/i6Xb0Cp1fpYfjiauT5W2CS4gPypa+QgMl0KLgd2BBetcElRC+bJFJKgQlyKIzsMWxoM+c4JKSzFHIGD/oiS4GdYWUbrg=;v51uekIste9rp1NM3AewDw=="
 ---

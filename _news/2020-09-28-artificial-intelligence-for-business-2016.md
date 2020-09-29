@@ -3,8 +3,8 @@ category: news
 title: "Artificial Intelligence for Business 2016"
 excerpt: "Cumulative worldwide spending on artificial intelligence (AI) will reach $40.6 billion by 2024. AI is on the verge of becoming a critical part of every business infrastructure, making it vital for company decision-makers to understand how this technology can,"
 publishedDateTime: 2020-09-28T14:07:00Z
-originalUrl: "https://www.raconteur.net/report/artificial-intelligence-for-business-2016/page/3"
-webUrl: "https://www.raconteur.net/report/artificial-intelligence-for-business-2016/page/3"
+originalUrl: "https://www.raconteur.net/report/artificial-intelligence-for-business-2016/page/2"
+webUrl: "https://www.raconteur.net/report/artificial-intelligence-for-business-2016/page/2"
 type: article
 quality: 39
 heat: -1
@@ -36,6 +36,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 84
+  - title: "VMware, Nvidia integrate on architecture, technology as they aim to accelerate AI adoption"
+    excerpt: "The partnership secures Nvidia's role in hybrid clouds as VMware outlined an architecture that incorporates data processing units (DPUs) in the data center, cloud and edge."
+    publishedDateTime: 2020-09-29T16:00:00Z
+    webUrl: "https://www.zdnet.com/article/vmware-nvidia-integrate-on-architecture-technology-as-they-aim-to-accelerate-ai-adoption/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/vmware-nvidia-integrate-on-architecture-technology-as-they-aim-to-accelerate-ai-adoption/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/vmware-nvidia-integrate-on-architecture-technology-as-they-aim-to-accelerate-ai-adoption/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 57
   - title: "AMD To Strongly Benefit From New AI And Gaming Chips From Nvidia And AMD"
     excerpt: "PCIe 4 is increasingly widely adopted by the PC and server industries. With Intel lacking critical PCIe 4 solutions, AMD is set to benefit."
     publishedDateTime: 2020-09-29T14:12:00Z
@@ -78,6 +89,34 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Nvidia NGC To Supercharge AI On VMware Cloud, vSphere And Tanzu"
+    excerpt: "Nvidia NGC will be integrated into VMware Cloud Foundation, vSphere and Tanzu to simplify the deployment of AI applications in enterprises, the two companies announced at VMworld 2020."
+    publishedDateTime: 2020-09-29T16:49:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/nvidia-ngc-to-supercharge-ai-on-vmware-cloud-vsphere-and-tanzu"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/0261-107dcd5f4248-ee0f859e333c-1000/abstract_partnership400.jpg"
+        width: 599
+        height: 399
+        isCached: true
+  - title: "VMware and Nvidia partner to accelerate AI and enterprise workloads"
+    excerpt: "Virtualization software giant VMware Inc. said today at its VMworld 2020 virtual event that it’s partnering with computer graphics chipmaker Nvidia Corp. on a new enterprise platform for artificial intelligence workloads."
+    publishedDateTime: 2020-09-29T16:28:00Z
+    webUrl: "https://siliconangle.com/2020/09/29/vmware-nvidia-partner-accelerate-ai-enterprise-workloads/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/NVIDIACEOfounderJensenHuang_VMwareCEOPatGelsinger_VMworld2020.jpg"
+        width: 2000
+        height: 1115
+        isCached: true
   - title: "VMware announces Nvidia AI tie-up, Carbon Black-based security solutions"
     excerpt: "VMware (VMW +1.0%) has a slate of announcements coming out of today's VMworld event.VMW is partnering with Nvidia (NASDAQ:NVDA) to make its data center management software work better with AI chips."
     publishedDateTime: 2020-09-29T14:23:00Z
@@ -87,7 +126,16 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 20
+  - title: "VMware and NVIDIA to Enable Next-Gen Hybrid Cloud Architecture and Bring AI to Every Enterprise"
+    excerpt: "VMware Customers Can Benefit from Unified Management of NVIDIA AI Software with All Apps, Tap into Security, Acceleration Capabilities of NVIDIA BlueField-2 DPU VMworld 2020 — At VMworld 2020, VMware and NVIDIA today announced a broad partnership to deliver both an end-to-end enterprise platform for AI and a new architecture for data center,"
+    publishedDateTime: 2020-09-29T16:00:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20200929005455/vmware-and-nvidia-to-enable-next-gen-hybrid-cloud-architecture-and-bring-ai-to-every-enterprise"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 7
 
-secured: "IdeZHAUGDHlbu7+DlQK29c+vKfVzVv4gx/X9gDCgLuJYFxgNHIKWOiaZtouYrOLHkCtIKHL2gX1IU54/xD3H65/b2mIGC9gn1ACL+eB8BTUFu6MElSmwItJFyVpa/89ayYU+/aE0q/s7UYuOe8IwG4iIrPiZLSddRwKlKbzgxk0D64KIkSys+is3KMrFAmu1SQDbk8z0mJ99Fbd0jJyTtxR2kHwyvvKV0reIRKVSU/SYOKRAa0Xlp+9rIO3TEQpDgDXlepxzyG33+9iDwWuCEBbqNF27yfgtzmqKWM3tuV+eeh4D109f7JbBhc+CcGCZ8+W00OWFU8XkmbN77hv+TU7mvQzGFPj56IloYn2xLfg=;KxcB90PBbBG3KPcjBUygCA=="
+secured: "D8/9wSi03PtCTPsYQERXszRRTURCnpj7vuOA2hzij8b0jEnpqiCNIFD3ySur0g/azE9Bcr0ggufkNkcJ/Qlo97Jd/c2xZ9KUY4g7fnU2/mnlP1lR0LF+Y3Rv1rNgsZCBsrgHz8BxV2EtvdkH4NvvxhM0wrWn85aLPmtfhi5wG0Bmi9RW566JaP2NhVv4CdqhD9aQgq24JL9J0SFlATkVRJRS7J1a3ljGXsT11VEhPmM8HWZR9vHHTq5XwBFwXcrKFmEt03mZGjc4f2C1lRaiR3kED8rZXHqNUypAoMDOCKoomyT0wNw/3LeVI0TwytnH18Z8tRqYeVgiOyAATK0F5Hz6CT4PNIxZiQMqKlTi/mI=;rTnaTO8hEQmNA5V2Msvlaw=="
 ---
 

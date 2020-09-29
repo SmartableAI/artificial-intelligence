@@ -42,6 +42,17 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Olive's AI Workforce to Revolutionize COVID-19 Testing at Tufts Medical Center"
+    excerpt: "Olive announced today that it has entered into an agreement to leverage its AI workforce technology to streamline COVID-19 testing operations at Tufts Medical Center in Boston, Mass. Olive will begin its enterprise-wide AI workforce deployment at the Medical Center by automating high-volume,"
+    publishedDateTime: 2020-09-29T17:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/olive-s-ai-workforce-to-revolutionize-covid-19-testing-at-tufts-medical-center-1029631076"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/olive-s-ai-workforce-to-revolutionize-covid-19-testing-at-tufts-medical-center-1029631076"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/olive-s-ai-workforce-to-revolutionize-covid-19-testing-at-tufts-medical-center-1029631076"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
   - title: "Impact Of COVID-19 On Deep Learning Market Size, Share and Top Key Players During 2020-2028"
     excerpt: "An estimated 51.2 % of the global population was using internet by the end of 2018 - International Telecommunication"
     publishedDateTime: 2020-09-25T12:15:00Z
