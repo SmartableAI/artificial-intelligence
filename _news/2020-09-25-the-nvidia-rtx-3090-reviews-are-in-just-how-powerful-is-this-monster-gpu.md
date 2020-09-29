@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/nvidia-geforce-rtx-3090-revi
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/nvidia-geforce-rtx-3090-review-roundup/?amp"
 type: article
 quality: 67
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -23,24 +23,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "Nvidia's Most Powerful, $1,500 GPU Sold Out In Minutes"
-    excerpt: "Within minutes of it going on sale at 6 a.m. Eastern, it had sold out on Nvidia's official site, online electronics retailer Newegg, and B&H.  Nvidia launched it’s RTX 3080 last week and sold out in seconds."
-    publishedDateTime: 2020-09-24T15:25:00Z
-    webUrl: "https://www.vice.com/en_us/article/jgx7pb/nvidias-most-powerful-dollar1500-gpu-sold-out-in-minutes"
-    ampWebUrl: "https://www.vice.com/amp/en_us/article/jgx7pb/nvidias-most-powerful-dollar1500-gpu-sold-out-in-minutes"
-    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/jgx7pb/nvidias-most-powerful-dollar1500-gpu-sold-out-in-minutes"
-    type: article
-    provider:
-      name: VICE
-      domain: vice.com
-    quality: 89
-    images:
-      - url: "https://video-images.vice.com//articles/5f6cb091ec90ba0095871394/lede/1600958744805-knmhdjg.jpeg?crop=1xw:0.75xh;center,center"
-        width: 1500
-        height: 843
-        isCached: true
 
 secured: "6AIScEpE7b8LDeB2Ib3H9NqzN3yLssaCK2fGrhbmjnpk+56RNdvhtqQFXzTozkVkXRpTX2qBoUEooqDUcrNoW5o9cMTWtDtsAD0prHykBpTun3telGEznlQyRd0Ne46HEgj3J1mpweOiDoyxB6lXkWsWM2TPWWZ+LaNWXzFP6sTU+Z0rHciDRzRut6onai/Um3Zrh/MesEIZzCBrOd5nX3rUYpUYwGJZPD3EHkpyF3RcCb16yt8pzEVgPDBc5B5atV+8DyY90tJxWIFFbeBJgkAtz5WNleI6uPpeUiC0bkLosSRU8MnLjmlaLp/Ywjyv1gd5HoM08MDgURofRXpEPpofR4vQSyII3t+LDw41kdQFEvlrPVunMXA8Wz2fq825pyzUVHOi+kyUZ6fzHfT1HJBZEgrN8bV1Vlv6fMS3fLfC59r383SapRiIX605wlFfMUTQUuWw+raeXAfF7hYzGecd9m4tYgzFJhi7FoCX9R9mU0oR8Ipk3EUr/oAu+AiBIzBxnyz9x5kiXpOUZrU50A==;pOpPiNJ2FghX/rssi0GDMA=="
 ---

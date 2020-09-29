@@ -59,6 +59,22 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "Detroit City Council to vote to renew DPD's facial recognition contract"
+    excerpt: "The Detroit City Council is expected to vote Tuesday on the renewal of the controversial use of facial recognition technology in the city."
+    publishedDateTime: 2020-09-29T09:27:00Z
+    webUrl: "https://www.wxyz.com/news/detroit-city-council-to-vote-to-renew-dpds-facial-recognition-contract"
+    ampWebUrl: "https://www.wxyz.com/news/detroit-city-council-to-vote-to-renew-dpds-facial-recognition-contract?_amp=true"
+    cdnAmpWebUrl: "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/detroit-city-council-to-vote-to-renew-dpds-facial-recognition-contract?_amp=true"
+    type: article
+    provider:
+      name: WXYZ Detroit
+      domain: wxyz.com
+    quality: 59
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/b4258ae/2147483647/strip/true/crop/2777x1562+112+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F2b%2F27%2Fd6dcdccb4b9f9e78c5486cb85a7e%2Ffacial-recognition.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "+ePwz1RNbAgN68BaKYWvCu1oaiIMWsyizvrlhWy5KfNZ2rC6ot9tA5+ULwVUb7aURFZhvucgEXcX4Fx3MWTs6qqDlenRK3ZVPpGwPp8JaOqQvQUTr0lLrsJrlF0Ar6X8gMeCpPu9hbSjCF0jv3E2QFnIj6VEnsKYZqUAYVHsNWJH/kMxFCSu50g2HEY1/s38nNwgmr/J7ZZsFYOFf8sxKtUFQ08yy5TkN6uY92FzKBLZVozghLB6R7KZMsAiIkEmQI7aC/Z75z3B7KOhjqgkr7ap5jHXuwHtv8y4fTB8EAb3rUmpGg3SsY+bsKUg7K/QapSCqbitbE4xuhT5ZtEgacc7AC563p4UYmd2l05cE0M=;ukc9wrFqHL/HfOB+UVTfKw=="
 ---

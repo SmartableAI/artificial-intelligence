@@ -3,8 +3,8 @@ category: news
 title: "Ai Weiwei: 'Too late' to curb China's global influence"
 excerpt: "The leading Chinese dissident, the artist and filmmaker Ai Weiwei, says China's influence has become so great that it can't now be effectively stopped. \"The West should really have worried about China decades ago."
 publishedDateTime: 2020-09-28T23:41:00Z
-originalUrl: "https://www.bbc.com/news/world-asia-china-54321598?at_campaign=64&at_custom1=%5Bpost+type%5D&at_custom2=twitter&at_custom4=F082CC54-01E6-11EB-B7A6-ABF94744363C&at_medium=custom7"
-webUrl: "https://www.bbc.com/news/world-asia-china-54321598?at_campaign=64&at_custom1=%5Bpost+type%5D&at_custom2=twitter&at_custom4=F082CC54-01E6-11EB-B7A6-ABF94744363C&at_medium=custom7"
+originalUrl: "https://www.bbc.com/news/world-asia-china-54321598"
+webUrl: "https://www.bbc.com/news/world-asia-china-54321598"
 ampWebUrl: "https://www.bbc.com/news/amp/world-asia-china-54321598"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-asia-china-54321598"
 type: article
@@ -45,6 +45,6 @@ related:
         height: 225
         isCached: true
 
-secured: "SCyV4oLtXGcV7WR+RSvLd5Zapfjk9I5ZsRbGEulnxpEU5H8GSwn4AyHWI27dezH5m+WMJEEISdTnRPeq1k6wZFYBvR2zSHgRsGNOzOqle7U42DsGRayCm/m3dDA+ZLXQUUEO9WxTKjFbGFWSqllJM4jhkl+1BBOpo0yqFDyFrnj7Sr/B8ijL0R/8EW8YONBYHfQRkWIxA81V52Fwx7ZBVgv0YgSgw66qKmXeQIxvu/1h2gNK24WEmsUGVJEIIGqolBGbR7ZeXZZmjmEY3wE098TEcxKsJ77vrYHrujliPx5lxvi/HSQuqa9gzpDjJPUw+qsAwz6QLH5RS+4HxtKLoo3eRVqtVoHAsAfDyRt8VCY=;VKNlp5ubZm8wX8NWmZXX1Q=="
+secured: "mzaUukzzT3lxejk7tEz/bAAtqbiBllh/0xzEqXyGXUWQlxQxAotNmM+JqtaUoHOANq08zIoNsIVlYRPrtWmkeo76bcgYWP9IdfG1jeaGcuZKHFnc+5QzFRh51AvXXRQLIXLyhQFs6XRBVCIIDJyIPb3nchr5uR8eFlSXbtoB7wK0Y0ppy6w1UYkY1rdglbfUkcomXL8q6c1pJoTeRLWfMGnE/vUo3yp1AjYM1Pf++TjKShtZGQUpjNsC40ijOzK6s0LRU5rU76XeVYNktaLW1/iYIIpJcrxI1gFSDWanifGp4/0YGEhRRWcyyeMKoPd+pwPxDblAv2ijvUKvgYv46IoKisWs12bWeABWQK9O4O4=;fReXL5DIL0bnKDQDFhPxhA=="
 ---
 

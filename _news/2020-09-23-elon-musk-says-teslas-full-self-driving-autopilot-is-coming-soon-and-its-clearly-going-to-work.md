@@ -2,16 +2,16 @@
 category: news
 title: "Elon Musk says Tesla's full self-driving Autopilot is coming soon and it's 'clearly going to work'"
 excerpt: "The next step in the self-driving revolution is coming in 'a month or so, says Tesla CEO Elon Musk, teasing the company's full self-driving Autopilot."
-publishedDateTime: 2020-09-23T02:19:00Z
-originalUrl: "https://www.tennessean.com/story/money/cars/2020/09/22/tesla-elon-musk-full-self-driving-autopilot-software/3498264001/"
-webUrl: "https://www.tennessean.com/story/money/cars/2020/09/22/tesla-elon-musk-full-self-driving-autopilot-software/3498264001/"
-ampWebUrl: "https://amp.tennessean.com/amp/3498264001"
-cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/3498264001"
+publishedDateTime: 2020-09-23T02:05:00Z
+originalUrl: "https://www.indystar.com/story/money/cars/2020/09/22/tesla-elon-musk-full-self-driving-autopilot-software/3498264001/"
+webUrl: "https://www.indystar.com/story/money/cars/2020/09/22/tesla-elon-musk-full-self-driving-autopilot-software/3498264001/"
+ampWebUrl: "https://amp.indystar.com/amp/3498264001"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3498264001"
 type: article
 
 provider:
-  name: Tennessean
-  domain: tennessean.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - AI in Autos
@@ -23,6 +23,6 @@ images:
     height: 674
     isCached: true
 
-secured: "6E7SLU5db0Ylg/D+1joxz+N99x0nkGNIjz41X4WtkXheebdAJgcqSj9vLiys5rRcSBPby2Z1fQZ0TYy0KZOLtkXAtIXlTxeFzblRch+7inuc7uUaCjG6tpJpR7xO7fi16CazfVDAzUrDF3I+jmwqRciDxLmNb0PzHf8g+AtJR0l2gxLubyQeWu2Kv0L1t+B7WfAb7lLxj4OiBpjRKMUM+08X9qI9Z85tdK09maUCEPWkHcltrn8UFr7GbT0CyI+5ecYgJPsWrJBK/oFL23ZFxcsx7IZqj0PVi7tOe9ZwKSKOz6wK90Wm5wTb5iyYrwFbhlV4KYY1rBne+CGQvz5n9ZLCXS4z8k8m4x5MXF3fdvc=;kXy94GNlGVBodGXLAGqV8A=="
+secured: "n53HhOMEd+/abzNQP8jHrGJax+bIpA7TO6+ylmQ9u8b1Ax/EdZP2tTbatP70rxObOF1m1vspaJKQtTEjj+GqSjopy6NLaHYIYgkkYeGsZIO1PIuitNYlrZywBQ1allogYSw7UShsVORFpSaLxd7FDxIfQvVdEy3y687MmJeAmO1yYkxNEAQnigDdCJVGqzpTfYG5wp0HJmh/sgMneh1F9tA8azbVwtsyp2aotQA4R9CwgWb/kA2wvWnEp3cMMs6KjgVowubNOzJjhjq67DZw1g/yQ0lmkG38moigWbw0uYqQGXUAAKSJNu4/HcvlV8kVs/yhIxo9mRXG8sQvGuqzDMPEa307MEFQ1p1QUZpzIvM=;ulr4wjIjZ3loJC6CFzUXNw=="
 ---
 

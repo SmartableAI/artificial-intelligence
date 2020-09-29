@@ -74,6 +74,22 @@ related:
         width: 1200
         height: 1000
         isCached: true
+  - title: "Artificial Intelligence Can Detect Loneliness With 94% Accuracy"
+    excerpt: "Artificial intelligence (AI) can detect loneliness with 94 per cent accuracy from a person's speech, a new scientific paper reports."
+    publishedDateTime: 2020-09-29T09:42:00Z
+    webUrl: "https://www.albawaba.com/editors-choice/artificial-intelligence-can-detect-loneliness-94-accuracy-1383395"
+    ampWebUrl: "https://www.albawaba.com/amp/editors-choice/artificial-intelligence-can-detect-loneliness-94-accuracy-1383395"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/editors-choice/artificial-intelligence-can-detect-loneliness-94-accuracy-1383395"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 59
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2020-09/shutterstock_510170158.jpg?itok=PGtKijfN"
+        width: 1000
+        height: 568
+        isCached: true
   - title: "UCSD Team Uses Artificial Intelligence to Predict Loneliness in Older Adults"
     excerpt: "Participants were interviewed by trained study staff in unstructured conversations that were analyzed using NLP-understanding software, plus other machine-learning tools"
     publishedDateTime: 2020-09-24T21:41:00Z

@@ -13,7 +13,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.bbc.com/news/world-asia-china-54321598?at_campaign=64&amp;at_custom1=%255Bpost+type%255D&amp;at_custom2=twitter&amp;at_custom4=F082CC54-01E6-11EB-B7A6-ABF94744363C&amp;at_medium=custom7</loc>
+    <loc>https://www.bbc.com/news/world-asia-china-54321598</loc>
     <lastmod>2020-09-28T16:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -195,6 +195,12 @@
   <url>
     <loc>https://www.forbes.com/sites/quora/2020/09/27/how-can-ai-support-small-businesses-during-the-pandemic/</loc>
     <lastmod>2020-09-27T16:56:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.pymnts.com/news/b2b-payments/2020/open-banking-fintech-treasury-management/</loc>
+    <lastmod>2020-09-27T15:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -411,6 +417,12 @@
   <url>
     <loc>https://www.forbes.com/sites/lucianapaulise/2020/09/23/how-to-lead-plan-and-forecast-revenue-in-wartime-with-ai/</loc>
     <lastmod>2020-09-24T14:36:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/article/ericsson-autonomous/swedens-ericsson-telia-present-self-driving-bus-ahead-of-5g-spectrum-auction-idUSL5N2GL30G</loc>
+    <lastmod>2020-09-24T14:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -799,8 +811,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.tennessean.com/story/money/cars/2020/09/22/tesla-elon-musk-full-self-driving-autopilot-software/3498264001/</loc>
-    <lastmod>2020-09-22T19:19:00-07:00</lastmod>
+    <loc>https://www.indystar.com/story/money/cars/2020/09/22/tesla-elon-musk-full-self-driving-autopilot-software/3498264001/</loc>
+    <lastmod>2020-09-22T19:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1417,8 +1429,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://ipsnews.net/business/2020/09/18/artificial-intelligence-and-machine-learning-market-may-see-a-big-move-aibrain-amazon-anki-cloudminds-deepmind/</loc>
-    <lastmod>2020-09-18T02:49:00-07:00</lastmod>
+    <loc>https://www.bignewsnetwork.com/news/266433753/artificial-intelligence-and-machine-learning-market-may-see-a-big-move--aibrain-amazon-anki-cloudminds-deepmind</loc>
+    <lastmod>2020-09-18T02:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2173,6 +2185,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.thestreet.com/investing/4-key-things-nvidia-just-shared-about-its-plans-for-arm</loc>
+    <lastmod>2020-09-14T14:22:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.kentonline.co.uk/news/national/researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars-12060/</loc>
     <lastmod>2020-09-14T13:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2235,6 +2253,12 @@
   <url>
     <loc>https://www.wsj.com/articles/big-data-reveals-new-insights-into-what-our-dreams-say-about-us-11600098682?mod=hp_featst_pos4</loc>
     <lastmod>2020-09-14T08:56:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wsj.com/articles/big-data-reveals-new-insights-into-what-our-dreams-say-about-us-11600098682</loc>
+    <lastmod>2020-09-14T08:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

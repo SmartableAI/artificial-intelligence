@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/lapd-used-facial-recognition-tech-30
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lapd-used-facial-recognition-tech-30000-times-despite-denials-2020-9?amp"
 type: article
 quality: 60
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
         width: 375
         height: 211
+        isCached: true
+  - title: "Detroit City Council to vote to renew DPD's facial recognition contract"
+    excerpt: "The Detroit City Council is expected to vote Tuesday on the renewal of the controversial use of facial recognition technology in the city."
+    publishedDateTime: 2020-09-29T09:27:00Z
+    webUrl: "https://www.wxyz.com/news/detroit-city-council-to-vote-to-renew-dpds-facial-recognition-contract"
+    ampWebUrl: "https://www.wxyz.com/news/detroit-city-council-to-vote-to-renew-dpds-facial-recognition-contract?_amp=true"
+    cdnAmpWebUrl: "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/detroit-city-council-to-vote-to-renew-dpds-facial-recognition-contract?_amp=true"
+    type: article
+    provider:
+      name: WXYZ Detroit
+      domain: wxyz.com
+    quality: 59
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/b4258ae/2147483647/strip/true/crop/2777x1562+112+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F2b%2F27%2Fd6dcdccb4b9f9e78c5486cb85a7e%2Ffacial-recognition.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "xLg0/5v9+WBSVnIGekMBt0doS4Z+y6aNj/TMMn0mKfGJLqCImqbbqFzpCCszzupmosDDaNMg/i1neyY5H3k9k9znZnQ428MJ6Oy3BykGP2fLKtlF2d48J0nDGtIrxAOE/masXCuMQw5b7C0LeIyzmURcdLotMnTPQiT8cKTHIACIBnGzDHmJp2ZAKkTX7ykXymhFhmbpGxFgZnu8TOLWB6gNRebOY9Y49B5/qOKEs78sQyimGEQblE54SpGoNHHoZv08+3ZLkDrBHrp46ucHj9iKmb+7rzgpPwdODEauCPE6iHbjMDgcahXW6rVjyvCH/FDKl4tbA4oI3llCzG1ZiKfyZkRTIM+An1tkl+WJoOJr+Z70zAFuQMssyw9ylh2PNFOMEgNJzRr0n/SPa5+O5flzheyXfhIaT5Vp2PS1ahGqGBq48MubhUuIMxId3CtqF985PXkzL7WKxxfaRin5WnwYNVB7pXqy2fWa2LfyGhcqIkofrtpYPTXqxXatNqAx0elCZWr89sipVBdG10qfSg==;u4pCbGcz4R7XJZc8t3WzYw=="

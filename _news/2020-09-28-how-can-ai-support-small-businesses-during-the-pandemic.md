@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/quora/2020/09/27/how-can-ai-support-sma
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2020/09/27/how-can-ai-support-small-businesses-during-the-pandemic/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6b775793ae332ea03fe5b4%2F0x0.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Harnessing Big Data And Artificial Intelligence To Predict Pandemic Spread"
-    excerpt: "Texas A&M civil engineering researchers are using a deep learning model to forecast the growth of COVID-19 cases."
-    publishedDateTime: 2020-09-24T16:12:00Z
-    webUrl: "https://today.tamu.edu/2020/09/24/harnessing-big-data-and-artificial-intelligence-to-predict-pandemic-spread/"
-    type: article
-    provider:
-      name: AgriLife TODAY
-      domain: tamu.edu
-    quality: 37
-    images:
-      - url: "https://today.tamu.edu/wp-content/uploads/2020/09/CVEN-research-big-data-22September2020.jpg"
-        width: 1000
-        height: 563
         isCached: true
   - title: "How data and AI will shape the post-pandemic future"
     excerpt: "Data science and AI are not only accelerating COVID-19 research and recovery today but helping organizations uncover insights and opportunities to succeed in the new normal."

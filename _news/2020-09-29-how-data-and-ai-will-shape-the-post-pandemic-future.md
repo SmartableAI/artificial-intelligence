@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Harnessing Big Data And Artificial Intelligence To Predict Pandemic Spread"
-    excerpt: "Texas A&M civil engineering researchers are using a deep learning model to forecast the growth of COVID-19 cases."
-    publishedDateTime: 2020-09-24T16:12:00Z
-    webUrl: "https://today.tamu.edu/2020/09/24/harnessing-big-data-and-artificial-intelligence-to-predict-pandemic-spread/"
-    type: article
-    provider:
-      name: AgriLife TODAY
-      domain: tamu.edu
-    quality: 37
-    images:
-      - url: "https://today.tamu.edu/wp-content/uploads/2020/09/CVEN-research-big-data-22September2020.jpg"
-        width: 1000
-        height: 563
-        isCached: true
 
 secured: "eamxF4scesHwAklpfEl7q2VN3FuKkxzGEkXONUgo/DVnlLKUVW5cGOPhcmcGFLCu9eBYQSh10bbk+lvl2N/UsCHUmfZ1UqWwXSZeE1EQrtkK4KtQBllItnq1+Zo5r0hj72FaMNo5qXiJIunOzVpb/d4Ypz6bholbFM9vNpc/poX/th3XBjUD5oQzT7feu3J9z6PzJldLmy+Cyl3TS761dB5mnD0b5A3eFwy1PrH8xkI+I9IkizQmfH2roXIn3rfVH5ozfYg5lu0AX8TzrNkigJLCw+8pwIQBkLvDbeVH+ktRAluu21ECqGSQstIFBZQSf+zEFC9hSwd+TTkCpoJpMx6cEpj4+7DEksFCwYto32m4IJtLN39UPOz4zLn6PJHKZYaaRN8vbfIbt8nql41cmBnRhKLiH/9iK8LhVH64qvfeB0pLuHYI1WmfXsaNvENSCeCRXKDyYIibN9s9Dk/V28kjk2ZWETHk/DCEBdXj5rnLj+i2PsF9+gHh+voFzOFpdeoA5uv9wNiYn1LmPvbg3Q==;6TG8o1C1aNS394GXJ53hWg=="
 ---

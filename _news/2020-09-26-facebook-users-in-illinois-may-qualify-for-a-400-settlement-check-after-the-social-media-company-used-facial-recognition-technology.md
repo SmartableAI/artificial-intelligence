@@ -58,6 +58,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 54
+  - title: "How Telangana is using the pandemic to push facial recognition tech on its population"
+    excerpt: "Your face has a lot of value in Telangana these days. It can help you apply for a duplicate or renewed license without ever leaving the house. If you are an intermediate student, it can help you enrol in a degree college,"
+    publishedDateTime: 2020-09-29T06:07:00Z
+    webUrl: "https://www.medianama.com/2020/09/223-telangana-facial-recognition-push-covid19-pandemic/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 32
+    images:
+      - url: "https://i1.wp.com/www.medianama.com/wp-content/uploads/flat-3252983_1280.png?fit=1280%2C1066&#038;ssl=1"
+        width: 1280
+        height: 1066
+        isCached: true
 
 secured: "q9Pl0Hzp1wcuc83xLd5m3X/NbPKcTkQMRSU2dfaMGJ63zybNHOLkAJsX6JOBo7HPYQeHiXyLpg78arstezzaqVqvsByw0M0KHqL1SDZc7z3yQ2HigOPwKPKhS7XjPldoigjOYQHOov4eM35Ho5AzuGscDNO2ADBfXbTnk8USvz1iYa8vaJ+Ux+ZAb/QUEOudj73ghDMkV5fXwAQ1/FTs0MEfWFUdlJEJRz4kg6sAidfoY2/OBVi4oKFt+kBAIbPvQ5TbsySVEzdrHgWYmf4Vr9J/dU+g1drCXRHRDmdblHJPBvdSPXIm/3JRA0xY8UHGQTNq01TEzgws+2wNA3GANVBZ2Ix3TvuuoocB83tTQzYYVvwYlG3j6Ipwure7ddmlRJ8iUtYgkHneKfd80mJn8x8rv/Ine2lCGutZaKwZoQWYytoUWTf598zVJ++rYl7k3EqbmlxtvVgWlDFTvayYapCGchg5oPjj0R3hoJvfc6sW4N8uSHx51teQscPLXX/BCpR/OL8yGQXqu36PQsE3Wg==;7A9M+OFPK8k7U34DuW3WiA=="
 ---

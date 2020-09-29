@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/28/facebook-open-sources-rag-an-ai-m
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/28/facebook-open-sources-rag-an-ai-model-that-retrieves-documents-to-answer-questions/amp/"
 type: article
 quality: 83
-heat: 83
+heat: 103
 published: true
 
 provider:
@@ -29,6 +29,36 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Facebook’s Dynabench tool fools neural networks to advance AI research"
+    excerpt: "The goal is to create a “virtuous cycle of progress in AI research.” as Facebook’s Kiela and Williams put it. Having a more reliable tool for assessing model accuracy could benefit not only ..."
+    publishedDateTime: 2020-09-24T19:03:00Z
+    webUrl: "https://siliconangle.com/2020/09/24/facebooks-dynabench-tool-fools-neural-networks-advance-ai-research/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 58
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/facebook-2.png"
+        width: 718
+        height: 400
+        isCached: true
+  - title: "New Facebook software creates smarter natural language processing models"
+    excerpt: "Facebook Inc. has designed a new artificial intelligence framework it says can create more intelligent natural language processing models that generate accurate answers to questions without being constantly retrained."
+    publishedDateTime: 2020-09-28T15:18:00Z
+    webUrl: "https://siliconangle.com/2020/09/28/new-facebook-software-creates-smarter-natural-language-processing-models/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 40
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/770.jpg"
+        width: 6000
+        height: 4500
+        isCached: true
 
 secured: "uhGdANU03a8n5D8d2rVEx+3zmB9Bd6t/kwZTOqw+whtbKowbT5qV7iKYYDQVE51iXELMEgP91qEQOVmar1BYtSIWxYhXLaQmpe9TUtY9b53vvssTQ5sAOuArOoqbtY+H038xeidq1kQxlMlQZDoAbFiwjoEoXLnpowwLw9P3lEoT5aflM2WmpAU0tijMGqNiWeocSOxwfWaV97ZAkXOontE8Wlu2HiRDfEA47IZo5B3bPuNUoEGmsf8gNOtTa9LQL+TrFDd/ed6xr5jGaDHZANtVH6RBdAgWPXHnV2vSfJtoyeln4zKetxwntLrvXpcBVKoCsy9A6lqk5HTCNpz67r+3HHXluKcXf4oy/TCnrTH3egKY1Z4bVXE2BLOKpMT3/39/Cidl1kqJ011YG0w9g8TK8BtUFG/uritg9jfJ82WjORtiLC+p/cygpmmujskt/atrzu6I3Ngn9iR6jxgHHSRv6pA1HfVnI/4uhtBbijCRFslM0Q+F9tco2ONj+g2lcmtZqdWOZiNRKBf9YkVONA==;CSl2QPneBR9WwKFOImRUWA=="
 ---
