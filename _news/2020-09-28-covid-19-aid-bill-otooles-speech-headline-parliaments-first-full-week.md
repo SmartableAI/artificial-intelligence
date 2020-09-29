@@ -9,8 +9,8 @@ ampWebUrl: "https://www.bnnbloomberg.ca/covid-19-aid-bill-o-toole-s-speech-headl
 cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/covid-19-aid-bill-o-toole-s-speech-headline-parliament-s-first-full-week-1.1500424.amp.html"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: bnnbloomberg
@@ -43,7 +43,21 @@ related:
         width: 1280
         height: 927
         isCached: true
+  - title: "COVID-19 aid bill, Erin O’Toole’s speech headline Parliament’s first full week"
+    excerpt: "The Conservative leader’s response to the speech from the throne will come as MPs are also set to debate new COVID-19 relief measures — and"
+    publishedDateTime: 2020-09-29T06:46:00Z
+    webUrl: "https://www.thestar.com/politics/federal/2020/09/28/covid-19-aid-bill-erin-otooles-speech-headline-parliaments-first-full-week.html"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com
+    quality: 35
+    images:
+      - url: "https://images.thestar.com/1EL3s6GnwexipI2iZe9eMF5zUak=/1200x820/smart/filters:cb(1601325978267)/https://www.thestar.com/content/dam/thestar/politics/federal/2020/09/28/covid-19-aid-bill-erin-otooles-speech-headline-parliaments-first-full-week/trudeau.jpg"
+        width: 1200
+        height: 820
+        isCached: true
 
-secured: "LdSfWax2QeJKl4Vi1docp4E6CcGSTdr/lTQA6feUF+OWtVJHmuEUu4BWhkCqwwUFDHA/z9PwIwOmM8mBh6s5Xl9PJcX6T+qt5CTnXUgGPoSCJHVUxsK+Nry0ByY9V2D2MQl690IeXkbbi7jQizOplc9A4CiZmtIMPzNvZUHHUb87xoWtTYvz9DV0F1eOa9/9YWhpVCdeDDagQoUtzgEJEZvf2k5RQKkFrNaGT9ucsgVw0iL65erCuTXDJkrrUomWlyGp4Q5BWXfbJ49LhBhCNiRar6WZFh/xbw0++/JNhiQqMeTPCgzY5xkHcZRmpd6xBkfC7Gk8jyuHH0R19eBS3HUYaBJx7D1MginB8GWExVo=;8GNWY7RZGV9msnAwToefvA=="
+secured: "hqMbyaLHXEhbJLreyO+aYicIxq6MG/fpBezLAHLvg6OPX6Q/uvKY49RfDaPTEGybMoxXwnHzlFBExCBIb69YNt8cLSErdee1TzWEB01fLnEkJgQJ2JmZIWTqwPNA2RjpMdzNygHZmcTprEAFk4jiIf4qq1VN02rIUM615B5wL7ayVGIhJp4+ezQJhYw+caG1qiRvdHcGs/CLQwdzm1catVaRGewgJCvJ0IgCjDtyEmz/Lf9Mjr2PT0oAYK2Ebfob6/hfTgfY4+gXaqBhorBd82rULumpD2itxbqYiRJDZrScZ1EkyIHz5j3BoRAxWjVnhoFGCuqQQxvVfcYhsFfTPRV57uqpAhDxVVaDoV8MheheFcdgVayMMF8YSUbqB4W0AtITw07uxam8OXPXPrroqVYD6txl0MIOuS+PhU7x6fVu7Pjr55Q+baK4euE5jux9OJ4POnkF7+gb71neBKv993vu1jhgeoNNipi+AV7x0IsleynQMLFXGyGBqlytbi0tkByNR9RVBnl2Dcnd2OHliQ==;lTVIekPaZrZG+/JjV03jKg=="
 ---
 

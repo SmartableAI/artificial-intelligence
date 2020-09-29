@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "NEC Face Recognition Engine Provides Highly Accurate Results Even when Face Masks are Worn"
+    excerpt: "NEC Corporation today announced the strengthening of its face recognition technology, already recognized as the world's most accurate (*1), with the development of a new face recognition engine that provides high-precision certification even when masks are ..."
+    publishedDateTime: 2020-09-24T20:27:00Z
+    webUrl: "https://www.newswiretoday.com/news/173757/NEC-Face-Recognition-Engine-Provides-Highly-Accurate-Results-Even-when-Face-Masks-are-Worn/"
+    type: article
+    provider:
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 9
   - title: "New Voice Recognition Biometrics Market Research Highlights Recovery Path for Businesses from COVID-19 Based on End-Users - BFSI, Government, Telecommunications, and Healthcare ..."
     excerpt: "The new Voice Recognition Biometrics Market Research from Technavio indicates Neutral & At par growth in the short term as the business impact of COVID-19 spreads. \"One of the primary growth drivers for this market is the use of biometric voice recognition in the healthcare sector,"
     publishedDateTime: 2020-09-24T21:18:00Z

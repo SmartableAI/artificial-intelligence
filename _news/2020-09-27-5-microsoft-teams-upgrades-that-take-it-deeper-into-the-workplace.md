@@ -7,7 +7,7 @@ originalUrl: "https://www.cmswire.com/collaboration-productivity/5-microsoft-tea
 webUrl: "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/5-new-ways-to-boost-productivity-with-enhanced-teams-power/ba-p/1680697"
 type: article
 quality: 139
-heat: 259
+heat: 249
 published: true
 
 provider:
@@ -84,20 +84,6 @@ related:
       - url: "https://mms.businesswire.com/media/20200924005015/en/823750/23/Majik_Systems.jpg"
         width: 1200
         height: 627
-        isCached: true
-  - title: "Microsoft Azure Sentinel Now Analyzes User and Entity Behavior"
-    excerpt: "Microsoft has updated its Azure Sentinel security service to give users more reasons to send expensive analytics data."
-    publishedDateTime: 2020-09-24T14:27:00Z
-    webUrl: "https://winbuzzer.com/2020/09/24/microsoft-azure-sentinel-now-analyzes-user-and-entity-behavior-xcxwbn/"
-    type: article
-    provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 54
-    images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2019/03/Azure-Sentinel-Microsoft.jpg"
-        width: 1363
-        height: 766
         isCached: true
   - title: "A Microsoft-powered instant two-way translator"
     excerpt: "Powered by Microsoft's automatic speech recognition software and OrionStar AI Technology, the device is meant to provide users with instant two-way translation in 73 languages while displaying text on a 1.54\" IPS-LCD touch-screen, which offers a text-to ..."

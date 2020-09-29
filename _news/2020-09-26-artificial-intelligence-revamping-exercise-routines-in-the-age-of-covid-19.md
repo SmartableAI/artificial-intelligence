@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How machine learning can help to future-proof clinical trials in the era of COVID-19"
-    excerpt: "The COVID-19 pandemic is the greatest global healthcare crisis of our generation, presenting enormous challenges to medical research, including clinical trials. Advances in machine learning are providing an opportunity to adapt clinical trials and lay the groundwork for smarter,"
-    publishedDateTime: 2020-09-24T13:35:00Z
-    webUrl: "https://medicalxpress.com/news/2020-09-machine-future-proof-clinical-trials-era.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-09-machine-future-proof-clinical-trials-era.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-09-machine-future-proof-clinical-trials-era.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 52
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2020/howmachinele.jpg"
-        width: 885
-        height: 432
-        isCached: true
   - title: "Face Recognition Systems Market Size, Share Report 2020 Shipments, Price, Revenue and Gross profit till 2025 With Impact of COVID-19"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Face Recognition Systems Market”"
     publishedDateTime: 2020-09-28T11:57:00Z

@@ -5,6 +5,8 @@ excerpt: "Amazon can predict your buying habits because its algorithms are train
 publishedDateTime: 2020-09-17T13:00:00Z
 originalUrl: "https://slate.com/technology/2020/09/synthetic-data-artificial-intelligence-bias.html"
 webUrl: "https://slate.com/technology/2020/09/synthetic-data-artificial-intelligence-bias.html"
+ampWebUrl: "https://slate.com/technology/2020/09/synthetic-data-artificial-intelligence-bias.amp"
+cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2020/09/synthetic-data-artificial-intelligence-bias.amp"
 type: article
 quality: 24
 heat: 24
@@ -17,6 +19,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
 images:
   - url: "https://compote.slate.com/images/141260a8-22e7-4f94-8c9e-25f206670516.gif?width=780&height=520&rect=1560x1040&offset=0x0"

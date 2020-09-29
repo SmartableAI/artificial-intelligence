@@ -99,20 +99,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Microsoft Azure Sentinel Now Analyzes User and Entity Behavior"
-    excerpt: "Microsoft has updated its Azure Sentinel security service to give users more reasons to send expensive analytics data."
-    publishedDateTime: 2020-09-24T14:27:00Z
-    webUrl: "https://winbuzzer.com/2020/09/24/microsoft-azure-sentinel-now-analyzes-user-and-entity-behavior-xcxwbn/"
-    type: article
-    provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 54
-    images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2019/03/Azure-Sentinel-Microsoft.jpg"
-        width: 1363
-        height: 766
-        isCached: true
   - title: "Microsoft launches Azure for Operators to expand connectivity"
     excerpt: "Microsoft announced intent to expand connectivity, including 5G, by working with network operators to launch Azure for Operators"
     publishedDateTime: 2020-09-28T18:51:00Z

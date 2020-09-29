@@ -19,37 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "In facial recognition challenge, top-ranking algorithms show bias against Black women"
-    excerpt: "The results from a recent facial recognition competition demonstrate that even the best algorithms are still prone to gender and racial bias."
-    publishedDateTime: 2020-09-24T13:52:00Z
-    webUrl: "https://venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/"
-    ampWebUrl: "https://venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/amp/"
+  - title: "NEC and The Face Recognition Company each upgrade biometric systems accuracy for masked faces"
+    excerpt: "NEC Corporation has launched a new biometric facial recognition engine for improved accuracy when matching people wearing masks. The company’s facial recognition technology was already relatively"
+    publishedDateTime: 2020-09-24T20:03:00Z
+    webUrl: "https://www.biometricupdate.com/202009/nec-and-the-face-recognition-company-each-upgrade-biometric-systems-accuracy-for-masked-faces"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 97
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 28
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1199708189-e1600898324155.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/12142443/mask-detection.png"
+        width: 1024
+        height: 512
         isCached: true
-  - title: "Study indicates neither algorithmic differences nor diverse data sets solve facial recognition bias"
-    excerpt: "Facial recognition models fail to recognize Black, Middle Eastern, and Latino people more often than those with lighter skin. That’s according to a study by researchers at Witchita State ..."
-    publishedDateTime: 2020-09-28T17:05:00Z
-    webUrl: "https://venturebeat.com/2020/09/28/study-indicates-neither-algorithmic-differences-nor-diverse-data-sets-solve-facial-recognition-bias/"
-    ampWebUrl: "https://venturebeat.com/2020/09/28/study-indicates-neither-algorithmic-differences-nor-diverse-data-sets-solve-facial-recognition-bias/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/28/study-indicates-neither-algorithmic-differences-nor-diverse-data-sets-solve-facial-recognition-bias/amp/"
+  - title: "New Voice Recognition Biometrics Market Research Highlights Recovery Path for Businesses from COVID-19 Based on End-Users - BFSI, Government, Telecommunications, and Healthcare ..."
+    excerpt: "The new Voice Recognition Biometrics Market Research from Technavio indicates Neutral & At par growth in the short term as the business impact of COVID-19 spreads. \"One of the primary growth drivers for this market is the use of biometric voice recognition in the healthcare sector,"
+    publishedDateTime: 2020-09-24T21:18:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200914005784/en/New-Voice-Recognition-Biometrics-Market-Research-Highlights-Recovery-Path-for-Businesses-from-COVID-19-Based-on-End-Users---BFSI-Government-Telecommunications-and-Healthcare-Technavio"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 75
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/09/biometrics-e1601309807874.jpg?w=1200&#038;strip=all"
-        width: 1198
-        height: 599
+      - url: "https://mms.businesswire.com/media/20200914005784/en/820961/23/IRTNTR44545.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "llOJUYwIC2fk+Woi4aqPmwd+xzcPJCYcGrhoMj7lo53HvXvwhsCfgaaIFTAyvV01NPJ+vUD4Kawqny/jOVKym+1PA3Yx5ctLGq+ItOon2HYkttg3tcLEWpUwVWu2KGNcll7UB1rC8VzojP0Gw1Xq1Fqv2HJL63qKJZmA/4yHOiRvhIu+ePqn3eTWRljZ4gqpfRx8RMzSuRgIUVhuH05LeYEboj6B8SyqeTJLCIovQ9wFqyTHeum5UcGEYX5gwJbVGqFRgT8/dvltfJPoHEIEy55x8jFKiCp7GjhQqMvMCPktZ363pHqXou2N6rhapigRHw/3slB1dCRw7vtw8Flv1QC99iEnjhuVkx8ubBYkRf8s8cH/hg+uhm+3hkAQhi7PHYGL49jQADCV7OPndiICqYpga2SuczjVS2Swal76hgtR4aZhUjUhx5mr1+tg4JZe/sIpFiKuNjIlEgYmVwZxLraUh8/HPBtimnGIUaVM8cfBGRxZh9AoE2ky6jtIqfX1yDWx+1Svm9bnR3xyCj+oNw==;RXlbhP9wtWynIlgamxn40g=="

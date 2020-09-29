@@ -1,14 +1,11 @@
 ---
 category: news
 title: "Artificial Neural Network Market- Covid19 Impact, Size, Share, Trends, ANN Technology, Software & Services, Application and Demand by 2023"
-excerpt: "Global Artificial Neural Network Market Synopsis According to Market Research Future Reports (MRFR), the global"
-publishedDateTime: 2020-09-14T13:57:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-neural-network-market--covid19-impact-size-share-trends-ann-technology-software-services-application-and-demand-by-2023-2020-09-14?mod=mw_quote_news"
-webUrl: "https://www.marketwatch.com/press-release/artificial-neural-network-market--covid19-impact-size-share-trends-ann-technology-software-services-application-and-demand-by-2023-2020-09-14?mod=mw_quote_news"
+excerpt: "According to Market Research Future Reports (MRFR), the global artificial neural network market is expected to acquire a significant market value, thriving at a substantial CAGR during the ..."
+publishedDateTime: 2020-09-14T14:02:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-neural-network-market--covid19-impact-size-share-trends-ann-technology-software-services-application-and-demand-by-2023-2020-09-14"
+webUrl: "https://www.marketwatch.com/press-release/artificial-neural-network-market--covid19-impact-size-share-trends-ann-technology-software-services-application-and-demand-by-2023-2020-09-14"
 type: article
-quality: 35
-heat: 35
-published: false
 
 provider:
   name: MarketWatch
@@ -28,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "ptRdP/YpEXEJKrF4f1z9V+0yqd++/eJH9CyPurd/ed7UMCB9boy7ciT83ao7yTAoFVxYjOPMgQkqcdhibCTQ+aeuy6NxMT8ImjudylknNBnvZeyHiY4YQyC7TyUnawwjCzD7t652JHGZqYLNVJI5yows6wqQ2MTZwL7v5QMdUNGXL1shP5fdrXEryThcjSNHVN52fO/EzeMr7AaWppcBdvuW45BsU54uO60/Q+zXiaPpQEbzw4JW7AJWtpghpYQT7xH8PYYJsTNt8U6XbNFtRu3yL8NGmRzaOfk6aoq6JdvBFBLdN1WMwxevzL+VGk6Y42+9S8hSzAauI9XThpIlRsGhAW5rh/X9J/A0y3MZ/8A=;M3VW1ndmIg1Mbvhjev+s2g=="
+secured: "ctTkLqcbr6d+8UcmJ6cOFDjMTBF5HSzq7BhY/VhOP0+904L5wsv9U8v8e4CudwHTjR/hJ2ilqXLca5uhAVPtOdiyvFtOUVw1x97pzPZYKoD7O5rYQbJWMVSZ2rgOGUWFNVCb78yEeFGBN2WVYozUIeYyrH4njmYVKFiZUmpNNoyOAFxg1DQ+QZcTdywFosi76al/r6Df43wblI3xgBy1i787iChqOUuo46hNzbLVDLkT5MfhJFN6wyuVFD/wEhlpjUKMJlHByu+5OtYDY2fnASImyGj+sleFIp5LxgCVMvAi1G4OxdledCG6/Jt/Yg9dFxmjOKqxC9lqwQxgCs5/0Hxpk48lWuZbvwFbjS3mFgU=;Xh+MNhYlqIWieTqe6OFQsg=="
 ---
 

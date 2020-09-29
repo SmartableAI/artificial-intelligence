@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Curling robot beats top-ranked human teams in major breakthrough"
-    excerpt: "Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Premium subscription today. An AI-powered robot has beaten a team of professional curling players in a major real-world breakthrough for robotics."
-    publishedDateTime: 2020-09-24T14:00:00Z
-    webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/robot-curling-korea-artificial-intelligence-ai-b574309.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 39
-    images:
-      - url: "https://static.independent.co.uk/2020/09/24/14/robot%20curling%20ai.jpg"
-        width: 1662
-        height: 1246
-        isCached: true
   - title: "Robot beats human curling teams as part of research project"
     excerpt: "Researchers have developed an artificial intelligence-powered robot which has beaten human curling teams. The robot was designed by researchers from the Korea University in Seoul and the Berlin Institute of Technology."
     publishedDateTime: 2020-09-26T17:26:00Z

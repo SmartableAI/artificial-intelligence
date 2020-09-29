@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://mma.prnewswire.com/media/1274547/Baidu_Apollo_s_5G_Remote_Driving_Service_remote_human_operators_control.jpg?p=facebook"

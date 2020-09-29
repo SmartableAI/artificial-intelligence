@@ -3,8 +3,8 @@ category: news
 title: "Volkswagen Trucking Business Invests in Self-Driving Truck Developer TuSimple"
 excerpt: "Volkswagen unit Traton Group will work with TuSimple to develop self-driving trucks and take a stake in the technology company as part of their agreement."
 publishedDateTime: 2020-09-23T12:01:00Z
-originalUrl: "https://www.wsj.com/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460?mod=hp_minor_pos14"
-webUrl: "https://www.wsj.com/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460?mod=hp_minor_pos14"
+originalUrl: "https://www.wsj.com/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460"
+webUrl: "https://www.wsj.com/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460"
 ampWebUrl: "https://www.wsj.com/amp/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 640
     isCached: true
 
-secured: "2IKuE/MvgRTnJAEwg+ueTBDjRlGggQ9c5fNCUjqgGgTA1G/Q6mmR2/L4ov6qTAAjmECwseiclVr29lNN3BG3U5gh9iLuWVoz2poYnoBkOSrW+5h/NirDHGLQVdlRAgwYCwQl5etbPbS1qkMvxN34/fGEEsy7+csd2DMbjdxYpChIUv20MlM7wcOmb20i9PjULtrEkKjqBASyCVXExMNLtH5PEab0phX9O7o5iA5zvQx8RXxq0g9lo8UH71cH6jGLQGSZWRq4TrdNyMsd31oA7FP2Z+nWdbCe2LTd94+VzEgFOC4soN2Fi3pdgYzDMRoNw7AwNSQvbuPDxdlWCMBwZGn0dOLS+I6sQWD50d9XaDwVPrb/N4hN/IohEN8DJaLFI41vRjQhwoxYhnLtNu2bW11+hqu9t3NE3SNL4gypm9oXMab27OwXw3vHhRsw70cdk4jVvweVWJ9qF20wMroOXm1/FamDAIPtF9Vc1F0sKbvGK2xqeJwgg34P9QG74IlcPQ7JLS7Rm0OZEeREn2AXzg==;c4pX1RF/AEAwLzigZAHNDg=="
+secured: "TnwQLuFfB0epz+6fh1Zme8M4e5A+hXRqPJK6cIj6P4p7AqZ0vbdhkDdjHwAHpYx2MmZo0Knq1XPd9OhIv74IzKLhHlWs/qWDXmM8W+hxJBHrv28nCZzmMfiO5V1X7vBWV2xXYl4KbzeZP/xkd4rDAg+uZ1smXeqHKIPBKlMNoeo/uHNa7GaS61+cqpVHzcctyRyPa7n2nGzPjR5NRD+PteukODbX3i4o19fNZly4uKNYCHt+ITtGwemJVaMPWdCJeX70GwiNSdfQk4CeDA4pyQlmkekp2b/NUcOo4p0J1w29NW+X/rZxf+lC2sHTJxfC0sqgYpthzu+dptEGRdCPWzoXwA4WeBbHohANuCYLsHk=;JhL1yL2D+77fmRAEdQ5MBQ=="
 ---
 

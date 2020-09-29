@@ -3,8 +3,8 @@ category: news
 title: "Ai Weiwei: 'Too late' to curb China's global influence"
 excerpt: "The leading Chinese dissident, the artist and filmmaker Ai Weiwei, says China's influence has become so great that it can't now be effectively stopped. \"The West should really have worried about China decades ago."
 publishedDateTime: 2020-09-28T23:41:00Z
-originalUrl: "https://www.bbc.com/news/world-asia-china-54321598"
-webUrl: "https://www.bbc.com/news/world-asia-china-54321598"
+originalUrl: "https://www.bbc.com/news/world-asia-china-54321598?at_campaign=64&at_custom1=%5Bpost+type%5D&at_custom2=twitter&at_custom4=F082CC54-01E6-11EB-B7A6-ABF94744363C&at_medium=custom7"
+webUrl: "https://www.bbc.com/news/world-asia-china-54321598?at_campaign=64&at_custom1=%5Bpost+type%5D&at_custom2=twitter&at_custom4=F082CC54-01E6-11EB-B7A6-ABF94744363C&at_medium=custom7"
 ampWebUrl: "https://www.bbc.com/news/amp/world-asia-china-54321598"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-asia-china-54321598"
 type: article
@@ -45,6 +45,6 @@ related:
         height: 225
         isCached: true
 
-secured: "buGjtgiCLpxnSd+VY2NNaQ9GaCQicl0byVguOg60mD+hg2jX9manqG0WbPPBWes0IBWWMzI6Kt04lNB25fFQYKDX3SZdXPnVtk9UqM9A3zwZo6aTaWury9HBfhk+AoZMkzLLMYdvJh7ES11QzjDKEGIq8ffkX4kb3YkxsnCXTICBNAsiAOu1CgZsFsHi9eYFOE9vIUrwd0vbfqhoyjfq2hl7Y2T6C5hVM82oaFipfBh8dDtLsc7fYHDdHZw8s2bV80HXXJ9XIT9IPzKiimRfd/87BdACVvTsWmDpuzQwBuQsqk1kVM9eE6IsYidM3eeyeab2inzTTWGd9JSQLdLEA4h8l+pRlmeMXWPgaPqGfXmBOip5rTskHHbyukPPogi/zDJ1vGEm3mgra6f1mTRLs1XOheBSo5BvetuBgZbvpZs4lvhtNgAT7bzeq3dDs/NFvaMv7QbQBYHTNmkOOH4S6gyWzVBJ0kCfWuN95EsUNvJYuq3MgU04e3O5Zom3CBQ7hKLP/nKxAKb+sPkYEZmHOw==;OcG00W/UAonz5w4rwpt5WA=="
+secured: "s95vVACC/B+bm9nimcooIcZHoosnkzhyYNrqZWLkAj8zBZuu6XCErlCLV7bGBoEETRHfaJSKc/QLksunqWysFg1mH3Oh9iwNO6QseFslUhffFuNQzgaHAwXISfb+Twnt4dkiWTdtQM55CpcHd6bM7/HfzRnaI89fWf6DcfN+P3kmrBWP3Oua6mwbkgMvvla50zV/9BjohCXT+Vy15XJPUCXyJfFQzmlJHFme7UXc74MBRbZTrhwNH7ci5yG/hOhETE38kgtNpdax5xvEXzk/kbyrV2EniDkPbHErEF3DF3sQgMYPGvpgTvBfxE9o7c41zRmrrfUP8TL8/logGVqv/EjRb0Q/SqvEAoxvWwkhkj0=;jbQVTcy9/6/z33JnmgM5rA=="
 ---
 
