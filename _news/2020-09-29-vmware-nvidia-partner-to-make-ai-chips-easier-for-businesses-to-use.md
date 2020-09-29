@@ -44,9 +44,9 @@ related:
   - title: "VMware, Nvidia integrate on architecture, technology as they aim to accelerate AI adoption"
     excerpt: "The partnership secures Nvidia's role in hybrid clouds as VMware outlined an architecture that incorporates data processing units (DPUs) in the data center, cloud and edge."
     publishedDateTime: 2020-09-29T16:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/vmware-nvidia-integrate-on-architecture-technology-as-they-aim-to-accelerate-ai-adoption/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/vmware-nvidia-integrate-on-architecture-technology-as-they-aim-to-accelerate-ai-adoption/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/vmware-nvidia-integrate-on-architecture-technology-as-they-aim-to-accelerate-ai-adoption/"
+    webUrl: "https://www.zdnet.com/article/vmware-nvidia-integrate-on-architecture-technology-as-they-aim-to-accelerate-ai-adoption/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/vmware-nvidia-integrate-on-architecture-technology-as-they-aim-to-accelerate-ai-adoption/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/vmware-nvidia-integrate-on-architecture-technology-as-they-aim-to-accelerate-ai-adoption/"
     type: article
     provider:
       name: ZDNet

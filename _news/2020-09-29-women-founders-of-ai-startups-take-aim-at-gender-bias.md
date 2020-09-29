@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/women-founders-of-ai-startups-take-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/women-founders-of-ai-startups-take-aim-at-gender-bias-11601388625"
 type: article
 quality: 87
-heat: 107
+heat: 108
 published: true
 
 provider:

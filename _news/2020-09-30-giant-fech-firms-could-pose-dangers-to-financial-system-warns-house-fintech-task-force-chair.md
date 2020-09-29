@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/amp/"
 type: article
 quality: 78
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Giant Tech Firms Could Pose Dangers To Financial System, Warns House Fintech Task Force Chair"
+    excerpt: "Without mentioning Apple, Google and the like by name, House Fintech Task Force Chair Stephen Lynch warned today giant tech firms could pose dangers to the financial system. “I see too-big-to-fail fintechs in the future in a big,"
+    publishedDateTime: 2020-09-29T20:02:00Z
+    webUrl: "https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/"
+    ampWebUrl: "https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 78
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f737b36e2e867ffa50a6877%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D257%26cropY2%3D3071"
+        width: 1199
+        height: 675
+        isCached: true
   - title: "Treasury Tech Finds A Home In Bank-FinTech Collaboration"
     excerpt: "FinTech collaborations focus on corporate treasury management technology, while Italy readies for its largest open banking platform."
     publishedDateTime: 2020-09-27T22:02:00Z

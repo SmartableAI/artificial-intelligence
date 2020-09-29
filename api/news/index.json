@@ -53,6 +53,49 @@
       ]
     },
     {
+      "path": "_news/2020-09-30-how-ai-will-revolutionize-manufacturing.md",
+      "title": "How AI will revolutionize manufacturing",
+      "excerpt": "Ask Stefan Jockusch about what a factory might look like in 10 or 20 years, and the answer might leave you at a crossroads between fascination and bewilderment. Jockusch is vice president for strategy at Siemens Digital Industries Software,",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2020/09/29/1008933/how-ai-will-revolutionize-manufacturing/",
+      "originalUrl": "https://www.technologyreview.com/2020/09/29/1008933/how-ai-will-revolutionize-manufacturing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/09/Siemens-Digital-Header.png?w=1920",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2020/09/29/1008933/how-ai-will-revolutionize-manufacturing/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/09/29/1008933/how-ai-will-revolutionize-manufacturing/amp/",
+      "publishedDateTime": "2020-09-29T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair.md",
       "title": "Giant Fech Firms Could Pose Dangers To Financial System Warns House Fintech Task Force Chair",
       "excerpt": "Without mentioning Apple, Google and the like by name, House Fintech Task Force Chair Stephen Lynch warned today giant tech firms could pose dangers to the financial system. “I see to-big-to-fail fintechs in the future in a big,",
@@ -61,7 +104,7 @@
       "originalUrl": "https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -298,6 +341,57 @@
       ]
     },
     {
+      "path": "_news/2020-09-29-datasaur-snags-39m-investment-to-build-intelligent-machine-learning-labeling-platform.md",
+      "title": "Datasaur snags $3.9M investment to build intelligent machine learning labeling platform",
+      "excerpt": "As machine learning has grown, one of the major bottlenecks remains labeling things so the machine learning application understands the data it’s working with. Datasaur, a member of the Y Combinator Winter 2020 batch,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/29/datasaur-snags-3-9m-investment-to-build-intelligent-machine-learning-labeling-platform/",
+      "originalUrl": "https://techcrunch.com/2020/09/29/datasaur-snags-3-9m-investment-to-build-intelligent-machine-learning-labeling-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-671392904.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/29/datasaur-snags-3-9m-investment-to-build-intelligent-machine-learning-labeling-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/29/datasaur-snags-3-9m-investment-to-build-intelligent-machine-learning-labeling-platform/amp/",
+      "publishedDateTime": "2020-09-29T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-roland-garros-2020-puts-ai-at-the-heart-of-the-digital-experience-as-tennis-fans-stay-at-home.md",
       "title": "Roland Garros 2020 Puts AI At The Heart Of The Digital Experience As Tennis Fans Stay At Home",
       "excerpt": "Only 1,000 fans will be able to attend this year's French Open at Roland Garros. AI hopes to bring the tournament to people's homes like never before",
@@ -398,7 +492,7 @@
       "originalUrl": "https://www.wsj.com/articles/women-founders-of-ai-startups-take-aim-at-gender-bias-11601388625",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -737,7 +831,7 @@
       "originalUrl": "https://techcrunch.com/2020/09/29/irobot-cofounder-helen-greiner-named-ceo-of-robotic-gardening-startup-tertill/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -1103,97 +1197,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-inside-politics-tory-rebels-hope-for-deal-with-no-10-on-extra-scrutiny-powers.md",
-      "title": "Inside Politics: Tory rebels hope for deal with No 10 on extra scrutiny powers",
-      "excerpt": "Conservative backbenchers believe they’re in line for a bigger say on the coronavirus rules after a ‘cordial’ meeting with Jacob Rees-Mogg and the whips, writes Adam Forrest",
-      "sourceUrl": null,
-      "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
-      "originalUrl": "https://www.independent.co.uk/independentpremium/uk-news/boris-johnson-coronavirus-rules-tory-mps-compromise-eu-brexit-trade-deal-talks-b688535.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inside.com/assets/premium/Blue-email-icon-0994aadea0b5b10b19a148e2dd34a88c4a315b76ed51d7898fa49dc4ddc6d171.png",
-          "width": 414,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-28T23:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-an-ai-paper-published-in-a-major-journal-dabbles-in-phrenology.md",
-      "title": "An AI Paper Published in a Major Journal Dabbles in Phrenology",
-      "excerpt": "On Friday, a trio of evolutionary psychology researchers published a research paper in Nature that sought to use machine learning to track historical changes in \"trustworthiness\" using facial expressions in portraits. The experiment was widely panned ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en_au/article/g5pawq/an-ai-paper-published-in-a-major-journal-dabbles-in-phrenology",
-      "originalUrl": "https://www.vice.com/en_au/article/g5pawq/an-ai-paper-published-in-a-major-journal-dabbles-in-phrenology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com//articles/5f6e654076a76b0095a25f2b/lede/1601070833510-post-w-gradient-background-19.jpeg?crop=1xw:1xh;center,center",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en_au/article/g5pawq/an-ai-paper-published-in-a-major-journal-dabbles-in-phrenology",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/g5pawq/an-ai-paper-published-in-a-major-journal-dabbles-in-phrenology",
-      "publishedDateTime": "2020-09-28T18:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

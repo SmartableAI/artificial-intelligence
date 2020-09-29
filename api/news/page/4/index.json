@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-26-4-things-to-remember-when-adapting-aiml-learning-models-during-a-pandemic.md",
+      "title": "4 things to remember when adapting AI/ML learning models during a pandemic",
+      "excerpt": "The progress seen in AI/machine learning leading up to and during the pandemic cannot be ignored, but this crisis brings with it a unique opportunity for updates and innovation in modeling.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/25/4-things-to-remember-when-adapting-ai-ml-learning-models-during-a-pandemic/",
+      "originalUrl": "https://techcrunch.com/2020/09/25/4-things-to-remember-when-adapting-ai-ml-learning-models-during-a-pandemic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1250179225.jpg?w=1024",
+          "width": 1024,
+          "height": 696,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/25/4-things-to-remember-when-adapting-ai-ml-learning-models-during-a-pandemic/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/25/4-things-to-remember-when-adapting-ai-ml-learning-models-during-a-pandemic/amp/",
+      "publishedDateTime": "2020-09-25T13:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-09-26-using-artificial-intelligence-to-tame-the-most-volatile-asset-class-in-history.md",
       "title": "Using Artificial Intelligence To Tame The Most Volatile Asset Class In History",
       "excerpt": "The digital asset space, also known as cryptocurrencies, has seen a precipitous rise in popularity this year in spite of being highly volatile as these digital assets have also recorded the most successful gains in all of the recorded history of money markets.",
@@ -48,6 +99,48 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-26-ai-machine-learning-breakthrough-is-a-twist-on-brain-replay.md",
+      "title": "AI Machine Learning Breakthrough Is a Twist on Brain Replay",
+      "excerpt": "From a neuroscience perspective, the concept of brain replay is analogous to a streaming service that activates repeat showings from its vast archives of stored pre-recorded content. The brain can replay memories by reactivating the neural activity patterns that represent prior experiences whether asleep or awake.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202009/ai-machine-learning-breakthrough-is-twist-brain-replay",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202009/ai-machine-learning-breakthrough-is-twist-brain-replay",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2020-09/pic2095.jpg?itok=zJTSRPRc",
+          "width": 320,
+          "height": 228,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202009/ai-machine-learning-breakthrough-is-twist-brain-replay?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202009/ai-machine-learning-breakthrough-is-twist-brain-replay?amp",
+      "publishedDateTime": "2020-09-25T11:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -969,11 +1062,11 @@
       "title": "Sweden's Ericsson, Telia present self-driving bus ahead of 5G spectrum auction",
       "excerpt": "Telecoms gear maker Ericsson and mobile operator Telia on Thursday showcased a self-driving, electric bus in Stockholm as the companies look at new business areas ahead of mass deployment of 5G technology.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/ericsson-autonomous/swedens-ericsson-telia-present-self-driving-bus-ahead-of-5g-spectrum-auction-idUSL5N2GL30G",
-      "originalUrl": "https://www.reuters.com/article/ericsson-autonomous/swedens-ericsson-telia-present-self-driving-bus-ahead-of-5g-spectrum-auction-idUSL5N2GL30G",
+      "webUrl": "https://www.reuters.com/article/us-ericsson-autonomous-idUSKCN26F2V6",
+      "originalUrl": "https://www.reuters.com/article/us-ericsson-autonomous-idUSKCN26F2V6",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": null,
       "tags": null,
       "images": [
         {
@@ -986,8 +1079,8 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL5N2GL30G",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL5N2GL30G",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN26F2V6",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26F2V6",
       "publishedDateTime": "2020-09-24T14:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1086,108 +1179,6 @@
         "name": "Newswire Today",
         "domain": "newswiretoday.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-selecting-the-right-metadata-to-build-high-performing-recommendation-models-with-amazon-personalize.md",
-      "title": "Selecting the right metadata to build high-performing recommendation models with Amazon Personalize",
-      "excerpt": "In this post, we show you how to select the right metadata for your use case when building a recommendation engine using Amazon Personalize. The aim is to help you optimize your models to generate more user-relevant recommendations. We look at which metadata is most relevant to include for different",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/selecting-the-right-metadata-to-build-high-performing-recommendation-models-with-amazon-personalize/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/selecting-the-right-metadata-to-build-high-performing-recommendation-models-with-amazon-personalize/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-24T13:21:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-dhs-admits-facial-recognition-photos-were-hacked-released-on-dark-web.md",
-      "title": "DHS Admits Facial Recognition Photos Were Hacked, Released on Dark Web",
-      "excerpt": "Traveler’s faces, license plates, and care information were hacked from a subcontractor called Perceptics and released on the dark web.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en_us/article/m7jzbb/dhs-admits-facial-recognition-photos-were-hacked-released-on-dark-web",
-      "originalUrl": "https://www.vice.com/en_us/article/m7jzbb/dhs-admits-facial-recognition-photos-were-hacked-released-on-dark-web",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com//articles/5f6ccbdc98c1d9009cb46dbf/lede/1600965870073-gettyimages-905553688.jpeg?crop=1xw:0.7347xh;0xw,0.1422xh",
-          "width": 4875,
-          "height": 2738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en_us/article/m7jzbb/dhs-admits-facial-recognition-photos-were-hacked-released-on-dark-web",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/m7jzbb/dhs-admits-facial-recognition-photos-were-hacked-released-on-dark-web",
-      "publishedDateTime": "2020-09-24T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

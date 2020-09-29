@@ -2,6 +2,106 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-09-19-ai-weekly-cutting-edge-language-models-can-produce-convincing-misinformation-if-we-dont-stop-them.md",
+      "title": "AI Weekly: Cutting-edge language models can produce convincing misinformation if we don’t stop them",
+      "excerpt": "Cutting-edge language generation models like GPT-3 are capable of producing convincing falsehoods if not properly curtailed, a new study shows.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/18/ai-weekly-cutting-edge-language-models-can-produce-convincing-misinformation-if-we-dont-stop-them/",
+      "originalUrl": "https://venturebeat.com/2020/09/18/ai-weekly-cutting-edge-language-models-can-produce-convincing-misinformation-if-we-dont-stop-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/18/ai-weekly-cutting-edge-language-models-can-produce-convincing-misinformation-if-we-dont-stop-them/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/18/ai-weekly-cutting-edge-language-models-can-produce-convincing-misinformation-if-we-dont-stop-them/amp/",
+      "publishedDateTime": "2020-09-18T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-baidu-reveals-4-new-artificial-intelligence-technologies.md",
+      "title": "Baidu Reveals 4 New Artificial Intelligence Technologies",
+      "excerpt": "Baidu (NASDAQ:BIDU) recently hosted its annual Baidu World Conference in Beijing to showcase its latest technologies. The theme of this year's conference was the \"Intelligence of Everything,\" with a heavy emphasis on artificial intelligence (AI) technologies in cars,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/09/18/baidu-reveals-4-new-artificial-intelligence-techno/",
+      "originalUrl": "https://www.fool.com/investing/2020/09/18/baidu-reveals-4-new-artificial-intelligence-techno/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F592025%2F1.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/09/18/baidu-reveals-4-new-artificial-intelligence-techno/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/18/baidu-reveals-4-new-artificial-intelligence-techno/",
+      "publishedDateTime": "2020-09-18T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-artificial-intelligence-market-growth-prospects-key-vendors-future-scenario-forecast-to-2026.md",
       "title": "Artificial Intelligence Market Growth Prospects, Key Vendors, Future Scenario Forecast to 2026",
       "excerpt": "Market Study Report, LLC's latest research report on 'Artificial Intelligence Market' delivers a comprehensive",
@@ -1059,99 +1159,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-tesla-driver-20-charged-after-found-asleep-at-wheel-of-self-driving-car-traveling-over-90-mph-cops.md",
-      "title": "Tesla driver, 20, charged after found asleep at wheel of self-driving car traveling over 90 mph: cops",
-      "excerpt": "A Canadian man has been charged after he was found asleep at the wheel of a self-driving Tesla traveling over 93 mph down a highway in the province of Alberta, authorities said on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/auto/tesla-driver-20-charged-after-found-asleep-at-wheel-of-self-driving-vehicle-going-over-90-mph",
-      "originalUrl": "https://www.foxnews.com/auto/tesla-driver-20-charged-after-found-asleep-at-wheel-of-self-driving-vehicle-going-over-90-mph",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/RCMP.png?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/auto/tesla-driver-20-charged-after-found-asleep-at-wheel-of-self-driving-vehicle-going-over-90-mph.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/tesla-driver-20-charged-after-found-asleep-at-wheel-of-self-driving-vehicle-going-over-90-mph.amp",
-      "publishedDateTime": "2020-09-17T21:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-nvidia-rtx-3090-3080-3070-gpu-all-specs-prices-and-release-dates-detailed.md",
-      "title": "Nvidia RTX 3090, 3080, 3070 GPU: All Specs, Prices, And Release Dates Detailed",
-      "excerpt": "Nvidia revealed its new RTX 3000 line of Ampere-powered GPU earlier this month ... of the Turing-based RTX 20 series which first introduced real-time ray tracing and AI capabilities in graphics hardware. Those video cards feature multiple processing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gamespot.com/articles/nvidia-rtx-3090-3080-3070-gpu-all-specs-prices-and-release-dates-detailed/1100-6481673/",
-      "originalUrl": "https://www.gamespot.com/articles/nvidia-rtx-3090-3080-3070-gpu-all-specs-prices-and-release-dates-detailed/1100-6481673/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3728918-pcgaming_rtx30series_impressions_20200901_site.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/nvidia-rtx-3090-3080-3070-gpu-all-specs-prices-and-release-dates-detailed/1100-6481673/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/nvidia-rtx-3090-3080-3070-gpu-all-specs-prices-and-release-dates-detailed/1100-6481673/",
-      "publishedDateTime": "2020-09-17T19:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

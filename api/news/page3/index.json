@@ -2,6 +2,89 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-28-dissident-ai-weiwei-protests-possible-extradition-of-assange.md",
+      "title": "Dissident Ai Weiwei protests possible extradition of Assange",
+      "excerpt": "Chinese contemporary artist Ai Weiwei staged a silent protest outside London’s Old Bailey court against the possible extradition of WikiLeaks founder Julian Assange to the United States where he is wa",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Entertainment/wireStory/dissident-ai-weiwei-protests-extradition-assange-73289487",
+      "originalUrl": "https://abcnews.go.com/Entertainment/wireStory/dissident-ai-weiwei-protests-extradition-assange-73289487",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Entertainment/WireAP_7d482ab7d19646ac9eba54c9b113eb24_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Entertainment/wireStory/dissident-ai-weiwei-protests-extradition-assange-73289487",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/dissident-ai-weiwei-protests-extradition-assange-73289487",
+      "publishedDateTime": "2020-09-28T05:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-ai-artificial-intelligence-chip-market.md",
+      "title": "AI (Artificial Intelligence) Chip Market",
+      "excerpt": "The latest study on the AI Artificial Intelligence Chip market published by the Reports and Data offers a deep understanding of the various market dynamics such as the challenges drivers trends and opportunities The report further elaborates on the micro",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2144662/ai-artificial-intelligence-chip-market-scope-and-growing",
+      "originalUrl": "https://www.openpr.com/news/2144662/ai-artificial-intelligence-chip-market-scope-and-growing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/9/T928328884_g.jpg",
+          "width": 650,
+          "height": 303,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2144662/ai-artificial-intelligence-chip-market-scope-and-growing",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2144662/ai-artificial-intelligence-chip-market-scope-and-growing",
+      "publishedDateTime": "2020-09-28T05:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-28-artificial-intelligence-ai-chipset-market-share-2020-global-growth-trends-industry-analysis-key-players-and-forecast-to-2023.md",
       "title": "Artificial Intelligence (AI) Chipset Market Share 2020 Global Growth, Trends, Industry Analysis, Key Players and Forecast to 2023",
       "excerpt": "Global Artificial Intelligence (AI) Chipset Market (2020-2023) Industry Research Report is a comprehensive analysis containing key information on key players, market trends, price analysis and market overview for the forecast period.",
@@ -10,7 +93,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-share-2020-global-growth-trends-industry-analysis-key-players-and-forecast-to-2023-2020-09-17",
       "featuredContent": null,
       "highlight": null,
-      "heat": 210,
+      "heat": 220,
       "tags": null,
       "images": [
         {
@@ -594,7 +677,7 @@
       "originalUrl": "https://www.cmswire.com/collaboration-productivity/5-microsoft-teams-upgrades-that-takes-it-deeper-into-the-workplace/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 299,
+      "heat": 309,
       "tags": null,
       "images": [
         {
@@ -707,48 +790,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-27-can-tesla-really-produce-a-25000-self-driving-electric-car.md",
-      "title": "Can Tesla Really Produce A $25,000 Self-Driving Electric Car?",
-      "excerpt": "During Tuesday’s much-hyped battery day, Tesla CEO Elon Musk laid out plans to put everyone behind the wheel (or is that sleeping in the",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692",
-      "publishedDateTime": "2020-09-26T15:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -1104,57 +1145,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-4-things-to-remember-when-adapting-aiml-learning-models-during-a-pandemic.md",
-      "title": "4 things to remember when adapting AI/ML learning models during a pandemic",
-      "excerpt": "The progress seen in AI/machine learning leading up to and during the pandemic cannot be ignored, but this crisis brings with it a unique opportunity for updates and innovation in modeling.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/25/4-things-to-remember-when-adapting-ai-ml-learning-models-during-a-pandemic/",
-      "originalUrl": "https://techcrunch.com/2020/09/25/4-things-to-remember-when-adapting-ai-ml-learning-models-during-a-pandemic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1250179225.jpg?w=1024",
-          "width": 1024,
-          "height": 696,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/25/4-things-to-remember-when-adapting-ai-ml-learning-models-during-a-pandemic/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/25/4-things-to-remember-when-adapting-ai-ml-learning-models-during-a-pandemic/amp/",
-      "publishedDateTime": "2020-09-25T13:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -71,6 +71,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
+  - title: "Microsoft Azure Solution Could Greatly Reduce 5G Roll-Out Costs"
+    excerpt: "Microsoft has revealed a new cloud solution, built on its Azure platform and meant to bolster 5G rollouts nationwide. That's according to recent reports"
+    publishedDateTime: 2020-09-29T21:51:00Z
+    webUrl: "https://www.androidheadlines.com/2020/09/microsoft-azure-5g-cloud-platform.html"
+    ampWebUrl: "https://www.androidheadlines.com/2020/09/microsoft-azure-5g-cloud-platform.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/09/microsoft-azure-5g-cloud-platform.html/amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 74
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2020/09/Microsoft-Logo-DG-AH-2020.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "dotData Enterprise is Now Available on Microsoft Azure"
     excerpt: "Data, focused on delivering full-cycle data science automation and operationalization for the enterprise, is providing dotData Enterprise on Microsoft Azure, offering increased speed and efficiency of data science and machine learning processes coupled with Azure's strong managed IaaS/PaaS capabilities."
     publishedDateTime: 2020-09-25T14:40:00Z

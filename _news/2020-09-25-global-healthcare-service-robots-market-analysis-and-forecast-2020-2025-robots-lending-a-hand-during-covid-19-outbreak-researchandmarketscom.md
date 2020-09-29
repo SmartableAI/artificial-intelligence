@@ -89,7 +89,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -132,6 +132,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence Software System Market 2020 Segmentation, Statistics, Top Manufacturers, Regional Analysis and Forecast to 2025"
+    excerpt: "Global Artificial Intelligence Software System Market 2020 by Company, Regions, Type and Application, Forecast"
+    publishedDateTime: 2020-09-29T20:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-software-system-market-2020-segmentation-statistics-top-manufacturers-regional-analysis-and-forecast-to-2025-2020-09-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

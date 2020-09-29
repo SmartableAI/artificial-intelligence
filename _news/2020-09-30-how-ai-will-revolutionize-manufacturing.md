@@ -8,9 +8,9 @@ webUrl: "https://www.technologyreview.com/2020/09/29/1008933/how-ai-will-revolut
 ampWebUrl: "https://www.technologyreview.com/2020/09/29/1008933/how-ai-will-revolutionize-manufacturing/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/09/29/1008933/how-ai-will-revolutionize-manufacturing/amp/"
 type: article
-quality: 57
-heat: 67
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: MIT Technology Review
@@ -18,6 +18,8 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
+  - AI in Robotics
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2020/09/Siemens-Digital-Header.png?w=1920"
@@ -41,6 +43,6 @@ related:
         height: 313
         isCached: true
 
-secured: "PEp9M6aL9DDbqW0ZfwZ5NIenWGb8yj0UrgFE+mUSI1RSaY6bmscL0fwk4L7ru11A9dzp0HtbZXoY2oH7KTriMtJ0RH14tybaqDDPAoyRpjxAO6smCOTkMEhTpKWG+tKA4ZaXrakt0qQzMfIH0a/Zmb5LI4ZNiT7Kv2KD4s6QUs6ovo6U1aGt7TNAsl6JDXbuB9CwjuWn+p0tedEuGFsgznurwhKbWX4MAxUtufhjhsdQJhBd/CcHUtLtl196ecTr4YrWUdIiR5NPZds/KuqizUOOeZ3ozNONMPvepkyzvY8+Z4AB521PZq9rDci5HwMq7qKLcEfhQRMCdifs1GuvkQUpCa5vPc4CigJ+MBZ7daI=;wcHAYT8la8TZKUVQjQK0gA=="
+secured: "hlQ4iIEIkfV7Jk6/CIRp30SKLJXsTxqYf+8ndb/VS2OW+dwxxmb35dHeQbLYDXbBSufMFSKyEdMzAVi4GtOmnPhNe8TNFl+pzIXlFkTAja01lHzM8/pkpa/v1W038JpcvS1p9GLj0b7tIE11I5A5nRCFfenBkKtpRm0WwfMXIuR7SCAB6rAczU7rFnL2wxR41xiobmR2gh8JFAlyQB5FLTuMogxO12ZyvHaq0AGxaKd1tpamuUkJg4/H/yI4uk4H7cA2b361U9i6sotkKvKXa598/KGtgz6i4g6YhdlrULyJ3mE7rJ86v0myJ39LcgCsNUlUZ9FXtRUaEQLY9xGVOqOOzUFUGsn5btKX6jCjpS4/cVXDv0a82+c98odC8x2Lh4fbGXI+rowjNhlGPTPUMDxi42sOknad8qxK7paxb/P13zSL/NOeuYB9M6mLHEJkyXmvYCBZRnJ9t892ZF2IQo3Bgoi86qReL4DBLnkd7JZwq3bQmqhKmaeRGkkxMYPGrSsKhc/8yhvzcdOUBcr/8w==;eMpUsjjz8LbS3vCzcW/qQw=="
 ---
 

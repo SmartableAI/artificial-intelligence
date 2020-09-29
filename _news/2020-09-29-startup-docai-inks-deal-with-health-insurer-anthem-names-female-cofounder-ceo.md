@@ -46,6 +46,17 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Garden-weeding robotics company hires iRobot cofounder as CEO"
+    excerpt: "If Tertill, the garden-weeding robot made by a Billerica startup of the same name ... autonomous systems, and artificial intelligence. At Tertill, Greiner is reuniting with Joe Jones, who was instrumental in creating the Roomba and later created the ..."
+    publishedDateTime: 2020-09-29T20:31:00Z
+    webUrl: "https://www.bostonglobe.com/2020/09/29/business/garden-weeding-robotics-company-hires-irobot-cofounder-ceo/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/09/29/business/garden-weeding-robotics-company-hires-irobot-cofounder-ceo/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/09/29/business/garden-weeding-robotics-company-hires-irobot-cofounder-ceo/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 54
 
 secured: "QANPGER50nbKqD+5WYClsvOVuf9oWQ/JojfG/MqXYM4UtdQ7Gmh5S7hIDCPq5HADNdM9Uu3ZQDAMdHL2swWKICBnuiaIRNooS9zXvKM6n8jld1kvUC0VjG/H4dn5DZgSjfAoOlJmZRurxvfBP02hO8QxCkq2ZDpLIYCX2lqMztz/0nHo44WSQgbnL2C7y7aUY5cOK6/DMs+1/RLt7fKwrDXD8wLui4MqjIWy/WjTOr5tYRHd7hm2XPh3ljnSOW+WPyBTx7PQPq2b5I+P9cnJqMy+xwLkdwv8j5CdnoQ1WjSrqUsA7akY8Cwh1xobdwH32thYiT7GsI5OnKuHHZeMEPKq2B96dbXu2eN968pp47GxVosWzPwja3/uUAi5xQ7wGxmAuAw491vqAZptsaDT8ZSDMThEpNv9K2TUoo4BK3X327WebxphLBU8QiBIg36oAsHrrJp+ybgExayNM5KRQ8LJJoWUj72XvRQRqcC7DoDrg/QWRCTuhKWYxH10+Grqd/gi7e25RKiBVlVgHJWeqg==;+v3vmSEldLu543cfX9PA/w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/09/29/irobot-cofounder-helen-greiner-nam
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/29/irobot-cofounder-helen-greiner-named-ceo-of-robotic-gardening-startup-tertill/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -47,6 +47,17 @@ related:
         width: 711
         height: 478
         isCached: true
+  - title: "Garden-weeding robotics company hires iRobot cofounder as CEO"
+    excerpt: "If Tertill, the garden-weeding robot made by a Billerica startup of the same name ... autonomous systems, and artificial intelligence. At Tertill, Greiner is reuniting with Joe Jones, who was instrumental in creating the Roomba and later created the ..."
+    publishedDateTime: 2020-09-29T20:31:00Z
+    webUrl: "https://www.bostonglobe.com/2020/09/29/business/garden-weeding-robotics-company-hires-irobot-cofounder-ceo/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/09/29/business/garden-weeding-robotics-company-hires-irobot-cofounder-ceo/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/09/29/business/garden-weeding-robotics-company-hires-irobot-cofounder-ceo/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 54
 
 secured: "12EzrqRiwnmfWQ8vSY8BtuXEvpq/r+fKYSwm+o6POGiaoBg9j+GUGQ63XNk0u9gN7Un1cIJAjV3Ekc5NAjL2cKy7gJ1lSG5xRytHYzIsx7rNZDY7150OksgO1OOHGqiCt6lbCBe2v9Y/IWWXP/5XnycjFrTWxUAqfw32Txc8XkdF7Du0rbPhJ0KjvFrvycuOqIgEqqWTyf8dJV9Yvu+XQl/Vi4I+TLvnU7svDwZYk5TnriUIwBgU0/CyhcknhCnKQc48W+A5HI5KyYqDpvCLDJIwDJV4sSAiwrqJM9IbLNS6moxi1B1sCqaktIwG0d7TT7SXsPEJW/g6ysCWX4UaQiEbAVDbW7ZZzPBT/khRgnGQ70AkSCF5iGpsMWEMj7zrVPUX2UnynNhFfFucR0robbERk3LavCqFb5GD0GT7O/MYEzpwowxzDbJL99wYsgBswpucAstsNEXQ9aFrNzs5dbtv/1NEbHskxNLA+S6XJ1UenosTrVnPsp/co4clYiDqLRnPcWX13PL3bS33zy8yfw==;guFQcLqU7oYzOXA0ROo0+w=="
 ---

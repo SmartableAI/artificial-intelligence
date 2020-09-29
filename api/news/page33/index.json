@@ -2,6 +2,106 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-09-03-fujitsu-and-tokyo-shinagawa-hospital-to-develop-ai-for-covid-19-pneumonia-diagnosis.md",
+      "title": "Fujitsu and Tokyo Shinagawa Hospital to develop AI for COVID-19 pneumonia diagnosis",
+      "excerpt": "Fujitsu and Tokyo Shinagawa Hospital have announced a partnership to jointly develop artificial intelligence (AI) technology that can be used to help with early detection of COVID-19 pneumonia, even in cases where the possibility of infection is determined ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/fujitsu-and-tokyo-shinagawa-hospital-to-develop-ai-for-covid-19-pneumonia-diagnosis/",
+      "originalUrl": "https://www.zdnet.com/article/fujitsu-and-tokyo-shinagawa-hospital-to-develop-ai-for-covid-19-pneumonia-diagnosis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/09/03/6a3a21c6-901a-4897-ab7b-8a4bdbac1bcf/fujitsu-tokyo-hospital-ai-research.jpg",
+          "width": 607,
+          "height": 284,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/fujitsu-and-tokyo-shinagawa-hospital-to-develop-ai-for-covid-19-pneumonia-diagnosis/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fujitsu-and-tokyo-shinagawa-hospital-to-develop-ai-for-covid-19-pneumonia-diagnosis/",
+      "publishedDateTime": "2020-09-02T17:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-siri-shortcuts-and-google-assistant-shortcuts-reveal-the-future-and-danger-of-smart-ai-assistants.md",
+      "title": "Siri Shortcuts And Google Assistant Shortcuts Reveal The Future (And Danger) Of Smart AI Assistants",
+      "excerpt": "In iOS 12, Apple started rolling out Siri Shortcuts. In iOS 14, they’re getting much smarter and more pervasive. Now Google is rolling out shortcuts for Google Assistant. In doing so, they’re both showing us the near future power of AI-driven smart assistants.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/02/siri-shortcuts-and-google-assistant-shortcuts-reveal-the-future-and-danger-of-smart-ai-assistants/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/02/siri-shortcuts-and-google-assistant-shortcuts-reveal-the-future-and-danger-of-smart-ai-assistants/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f50365db3264b95aba4c6aa%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/02/siri-shortcuts-and-google-assistant-shortcuts-reveal-the-future-and-danger-of-smart-ai-assistants/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/09/02/siri-shortcuts-and-google-assistant-shortcuts-reveal-the-future-and-danger-of-smart-ai-assistants/amp/",
+      "publishedDateTime": "2020-09-02T17:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-03-machine-learning-ai-chooses-henry-cavill-as-the-next-james-bond.md",
       "title": "Machine Learning AI Chooses Henry Cavill As The Next James Bond",
       "excerpt": "Elizabeth Olsen Deletes Instagram Due To Backlash For Not Po... Eternals Director Wants The Film To Be Bigger Than Avengers:... Grand Theft Auto 6 Is Reportedly Years Away From Being Annou ...",
@@ -1046,107 +1146,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu.md",
-      "title": "GPU company Imagination Technologies to teach students how to design a CPU",
-      "excerpt": "This does not necessarily bring Imagination back to CPU business right now as it yet has to announce any RISC-V products, but rather demonstrates the company’s interests. The course is called “RVfpga: Understanding Computer Architecture” and it includes theoretical and practical materials to help students understand the basics of processor architecture in general as well as modification or RISC-V cores and microarchitectures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/sg/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu",
-      "originalUrl": "https://www.techradar.com/sg/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/3KVYrh3xCBJEz6enRvignB-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/sg/amp/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu",
-      "publishedDateTime": "2020-09-02T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-tiktok-deal-talks-are-snarled-over-fate-of-apps-algorithms.md",
-      "title": "TikTok Deal Talks Are Snarled Over Fate of App’s Algorithms",
-      "excerpt": "Deal talks for TikTok’s U.S. operations have been complicated by the key question of whether the app’s core algorithms can be included as part of a deal, according to people familiar with the matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/tiktok-deal-talks-are-snarled-over-fate-of-apps-algorithms-11598995674?mod=hp_lead_pos1",
-      "originalUrl": "https://www.wsj.com/articles/tiktok-deal-talks-are-snarled-over-fate-of-apps-algorithms-11598995674",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-227247/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/tiktok-deal-talks-are-snarled-over-fate-of-apps-algorithms-11598995674",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tiktok-deal-talks-are-snarled-over-fate-of-apps-algorithms-11598995674",
-      "publishedDateTime": "2020-09-02T09:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

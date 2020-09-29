@@ -60,6 +60,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
+  - title: "Microsoft Azure Solution Could Greatly Reduce 5G Roll-Out Costs"
+    excerpt: "Microsoft has revealed a new cloud solution, built on its Azure platform and meant to bolster 5G rollouts nationwide. That's according to recent reports"
+    publishedDateTime: 2020-09-29T21:51:00Z
+    webUrl: "https://www.androidheadlines.com/2020/09/microsoft-azure-5g-cloud-platform.html"
+    ampWebUrl: "https://www.androidheadlines.com/2020/09/microsoft-azure-5g-cloud-platform.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/09/microsoft-azure-5g-cloud-platform.html/amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 74
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2020/09/Microsoft-Logo-DG-AH-2020.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Deep Neural Networks Market Booming Worldwide with leading Players Google, Oracle, Microsoft, IBM"
     excerpt: "Global Deep Neural Networks Market The global Deep Neural Networks Market size was valued at USD 1.26 Billion in 2019 and is anticipated to reach USD 5.98 Billion by 2027 at a CAGR of 21.4%. The global neural networks market is growing predominantly as the demand for implementing the deep neural network in healthcare and BFSI sectors are flourishing extensively."
     publishedDateTime: 2020-09-29T08:25:00Z

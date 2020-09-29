@@ -53,48 +53,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-27-can-tesla-really-produce-a-25000-self-driving-electric-car.md",
-      "title": "Can Tesla Really Produce A $25,000 Self-Driving Electric Car?",
-      "excerpt": "During Tuesday’s much-hyped battery day, Tesla CEO Elon Musk laid out plans to put everyone behind the wheel (or is that sleeping in the",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692",
-      "publishedDateTime": "2020-09-26T15:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-25-follow-the-leader-a-shortcut-to-autonomous-trucking.md",
       "title": "Follow-the-leader: A shortcut to autonomous trucking",
       "excerpt": "A company spun out of a prestigious university robotics lab is making a big leap in autonomous trucking. Locomation is claiming the world's first autonomous truck purchase order from a Springfield, MO,",
@@ -150,11 +108,11 @@
       "title": "Sweden's Ericsson, Telia present self-driving bus ahead of 5G spectrum auction",
       "excerpt": "Telecoms gear maker Ericsson and mobile operator Telia on Thursday showcased a self-driving, electric bus in Stockholm as the companies look at new business areas ahead of mass deployment of 5G technology.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/ericsson-autonomous/swedens-ericsson-telia-present-self-driving-bus-ahead-of-5g-spectrum-auction-idUSL5N2GL30G",
-      "originalUrl": "https://www.reuters.com/article/ericsson-autonomous/swedens-ericsson-telia-present-self-driving-bus-ahead-of-5g-spectrum-auction-idUSL5N2GL30G",
+      "webUrl": "https://www.reuters.com/article/us-ericsson-autonomous-idUSKCN26F2V6",
+      "originalUrl": "https://www.reuters.com/article/us-ericsson-autonomous-idUSKCN26F2V6",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": null,
       "tags": null,
       "images": [
         {
@@ -167,8 +125,8 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL5N2GL30G",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL5N2GL30G",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN26F2V6",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26F2V6",
       "publishedDateTime": "2020-09-24T14:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1405,6 +1363,57 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-16-sonys-new-ai-agent-achieves-superhuman-gran-turismo-sport-scores.md",
+      "title": "Sony’s new AI agent achieves superhuman Gran Turismo Sport scores",
+      "excerpt": "One of the best things about computers is that they can learn just as much from a simulation as they can from so-called ‘real world’ experiences. That means, given the proper simulator, we can teach AI to drive cars without ever putting a single human in danger.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/15/sonys-new-ai-agent-achieves-superhuman-gran-turismo-sport-scores/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/15/sonys-new-ai-agent-achieves-superhuman-gran-turismo-sport-scores/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/gtsai-796x448.jpg",
+          "width": 796,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/15/sonys-new-ai-agent-achieves-superhuman-gran-turismo-sport-scores/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/15/sonys-new-ai-agent-achieves-superhuman-gran-turismo-sport-scores/amp/",
+      "publishedDateTime": "2020-09-15T15:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,99 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2020-08-28-artificial-neural-network-ann.md",
+      "title": "Artificial Neural Network (ANN)",
+      "excerpt": "What Is an Artificial Neural Network (ANN)? An artificial neural network (ANN) is the piece of a computing system designed to simulate the way the human brain analyzes and processes information.",
+      "sourceUrl": null,
+      "webUrl": "https://www.investopedia.com/terms/a/artificial-neural-networks-ann.asp",
+      "originalUrl": "https://www.investopedia.com/terms/a/artificial-neural-networks-ann.asp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.investopedia.com/thmb/vyWllvh5Q2SUpiq0zeDKcr8frTQ=/2121x1414/filters:fill(auto,1)/GettyImages-1161674558-bbb1f71d068e40c9b832f2eaad4fc348.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investopedia",
+        "domain": "investopedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-28-self-driving-car-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026.md",
+      "title": "Self-Driving Car Market 2020 Analysis report with Cross-Channel, Opportunities, Upturn Growth by 2026",
+      "excerpt": "Aug 28, 2020 (Profound via COMTEX) -- The report provides rational insights along with historical and forecast data to aid in better understanding of the Global Self-Driving Car Market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026-2020-08-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026-2020-08-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-28-the-tiniest-computer-vision-platform-just-got-better.md",
       "title": "The Tiniest Computer Vision Platform Just Got Better",
       "excerpt": "The future, if you believe the ad copy, is a world filled with cameras backed by intelligence, neural nets, and computer vision. Despite the hype, this may actually turn out to be true ...",
@@ -1044,89 +1137,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-27-popids-face-based-payments-pose-privacy-and-security-risks.md",
-      "title": "PopID’s face-based payments pose privacy and security risks",
-      "excerpt": "PopID, a face-based payments tech vendor intent on expanding across the U.S., has problematic privacy and security policies.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/27/popids-face-based-payments-pose-privacy-and-security-risks/",
-      "originalUrl": "https://venturebeat.com/2020/08/27/popids-face-based-payments-pose-privacy-and-security-risks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/block_image-e1597092687237.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/27/popids-face-based-payments-pose-privacy-and-security-risks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/27/popids-face-based-payments-pose-privacy-and-security-risks/amp/",
-      "publishedDateTime": "2020-08-27T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-27-gene-weingarten-i-have-a-joke-about-twitter-memes.md",
-      "title": "Gene Weingarten: I have a joke about Twitter memes",
-      "excerpt": "I have a joke about ceilings, but it goes over everyone’s head. I have a joke about an emergency room, but it’s a groaner. I have a joke about lutefisk, but it’s in bad taste. I had a joke about erectile dysfunction,",
-      "sourceUrl": null,
-      "webUrl": "https://mobile.twitter.com/elonmusk/status/1298494373278220290",
-      "originalUrl": "https://www.washingtonpost.com/lifestyle/magazine/gene-weingarten-i-have-a-joke-about-twitter-memes/2020/08/24/b3129ddc-d65c-11ea-9c3b-dfc394c03988_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-27T06:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -3,10 +3,10 @@ category: news
 title: "VMware, Nvidia integrate on architecture, technology as they aim to accelerate AI adoption"
 excerpt: "The partnership secures Nvidia's role in hybrid clouds as VMware outlined an architecture that incorporates data processing units (DPUs) in the data center, cloud and edge."
 publishedDateTime: 2020-09-29T16:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/vmware-nvidia-integrate-on-architecture-technology-as-they-aim-to-accelerate-ai-adoption/"
-webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/vmware-nvidia-integrate-on-architecture-technology-as-they-aim-to-accelerate-ai-adoption/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/vmware-nvidia-integrate-on-architecture-technology-as-they-aim-to-accelerate-ai-adoption/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/vmware-nvidia-integrate-on-architecture-technology-as-they-aim-to-accelerate-ai-adoption/"
+originalUrl: "https://www.zdnet.com/article/vmware-nvidia-integrate-on-architecture-technology-as-they-aim-to-accelerate-ai-adoption/"
+webUrl: "https://www.zdnet.com/article/vmware-nvidia-integrate-on-architecture-technology-as-they-aim-to-accelerate-ai-adoption/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/vmware-nvidia-integrate-on-architecture-technology-as-they-aim-to-accelerate-ai-adoption/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/vmware-nvidia-integrate-on-architecture-technology-as-they-aim-to-accelerate-ai-adoption/"
 type: article
 quality: 77
 heat: -1
@@ -132,6 +132,6 @@ related:
       domain: morningstar.com
     quality: 7
 
-secured: "Zz4OnHoWJ4xPLfQkIviihtB1euFCmzH0EmaCwCXDVy+fq57Vs9JjQNptWH1taVv3xOLFhbKcAfoT3SkZwJkNSM45add8fjO2mEVwtqGkLTzgPDDNy8cXpFCV47jGrWB4skhP/f5xr3Kw3Z1W7h0o5NNp3nVlBBlgXjB0C3TIjXczAd0hTK+kxBlrI+Wd9FQb6MUTVuGFJcBM8B5chzu/yQ+blakJK+nIhVrN8U9HKo7m3cMCKm3Pjr/CFt21yBSWAYmDvBGexAVaWWBar+PlS442IU/1xkloyRNjdXn18AUNwC7kiiY4mcO1jjZyjs64IJtbvDsxGenGFwV3jr+Bx7HoStv4JS0Fksi950r3PsA=;UVH4cFmYFf55Qxr+aqgKFQ=="
+secured: "dR+xao0B3mX/U9z4at2+96hnxcpO9JVLoIBeHtMrY/0divrWTIaMhmyWAbYvD0hWRSAh/Zji97Mr3159WhGEUdhNlzZ/7FHk4rZ0QEc2HwOgGhQHFnIaKRQD5cSnzkxJkIbsz2wWIFO7FXkCueBMhLwWDTeJuz63ZnBr+TV2s0iKPXZog1otMniFNNSjIFHz7P44PzNUDBE+lOMVV68PAgX6KUEQ714QrF+4wLBNSFsMeGGleXsNQq8pYwME2qMwb/L/eR0aMsMjG+gegS9fAhHxwa/epxpybxwphHfDOn/PAvk19gr3/y5kjKkvI1uaDFHLj02HShPd4Jaa+3/RR/wkTP75psABLtR634Idw+Q=;OBeKtdOUs3udhnphdunJ1g=="
 ---
 

@@ -35,13 +35,13 @@ related:
     provider:
       name: MIT Technology Review
       domain: technologyreview.com
-    quality: 57
+    quality: 61
     images:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2020/09/Siemens-Digital-Header.png?w=1920"
         width: 1920
         height: 1080
         isCached: true
 
-secured: "vs4Cn5FwhQvgh0Jqmhrwr3Daa+X2EWruoy21xQ9XF2w21lZo7waxLL004w08OlQDMPo3X8PjAAp2ROgjsqLiBHG53S3fOY7+wu2nYBmwMkuMUDqB8qCWmmvT3wxdK12weAVmS+S+ixbB/9sr4cFMWJ4evBLa8G5p/H/DZX8rWFWurxUIfPnhd6darLPaHn9upIZ0FBrbFRgGqo+xx55jwjRa40fNtWisQWJYwUa/uwbOTQLk/ySS8/a9/Fyn3MeGcreNw4JiS8E1my9O46uYQdybS+xLVPGwSoZXhQeAQeRQNHrsK6aljLUfDkRLw6l45NDdbLwGMacWwOnW14AhmIPA4rHGZqx7P3BhHP5QIgE=;+5xmpnvLcms3kZeNx+M0dw=="
+secured: "R/XpOmxK+GkqC5ccZj9dCcwXGWumu33EmqHtlkQNXe2lC8YPDey+yorWvD9P7YgA995+iHz+tXQffq/4LSrza0KkJDqxLQjgn8vdCBk7VH9kdrr5KxaI4j2mUkxM8PbK7c7OoVj533jQJoEL1WUQeiggntTih+kMuPc9I86SCNrBY/iI3+39ycXhXBr2yw6CHPrXPhFWfCaMlUVTsJ2wDIcQoSgWuIDaxF9fuL8kwPoU33k70rEkRRZuTsvyp2VAJ51UydXcZVnWI4kA3FG41zkvxXSFxRIBPfLrAAqYgOslove4FweOqefO+0p+ywqSKF/vaxsk+6Iyp8NqeU+vz9QhYx4i8A+fhO9upuJu/RfZF3mElTGF4mM/cm6UNHbSmBvs8d4+0qRDwYcMCmgtbpwpudY+ptoXg/vKLBaIntBniYIVnytyqIRb/W++eYZdHegWLyS7yItel7DrpIXExH5a/74kUIkhFWyiMf7OSeGVLL5a4JonkD3+7Yu8H6r/TPH15qeP7uM1g5gFw1Ycew==;GadSbrnPt/Ezy59x8+zUkQ=="
 ---
 

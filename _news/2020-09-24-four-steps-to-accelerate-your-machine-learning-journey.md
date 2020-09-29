@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Four steps to accelerate your machine learning journey"
-excerpt: "Using Amazon SageMaker for their ExpenseFinder tool, which automatically pulls a year’s worth of bank transactions, Intuit’s machine learning algorithm helps their customers discover $4,300 on ..."
+excerpt: "Another approach used by Morningstar — a global financial services firm — used hands-on training for their employees with AWS DeepRacer to accelerate the application of machine learning across ..."
 publishedDateTime: 2020-09-24T07:44:00Z
 originalUrl: "https://www.itp.net/news/93915-four-steps-to-accelerate-your-machine-learning-journey"
 webUrl: "https://www.itp.net/news/93915-four-steps-to-accelerate-your-machine-learning-journey"
@@ -18,6 +18,6 @@ topics:
   - AI
   - Machine Learning
 
-secured: "E52S1zSN4R4ZQPXfhEYErbAXC0sF+xgDB/P9KCLhbdaPvWcGiv9L9VuxbGx12DnMOkxQzerqb64gTRkrfwChXD2dn+VEhswt5RZ9TdKDK0n3ecHkqWpz1NP1GDuWpBgMEOTAU79N4GqCJYwTPfzhUnzDc0XQSbodTeJxqawG/OvF06IYz7GnigMt2QYwJytSJnefAlWoK+jCrBQ5GNxhiS1EKEekGygqwFmNOjOHOyauQEdFzn7p+KLuDYHCwDZC/ZahuwEZqOzIORb+M/tFt4BoWYm6Y52nlQZ92lqx5+nOZcLImjcKmh605NbrnccVTMjyAarKqPObIDDX5LiPDmnzf4T7uhOv8zeLdMy92EU=;psGLLFYXftNh4LYzzZlD6Q=="
+secured: "ZG2PAIVPTVuxR7GVijbu1afO8RdAJUMj4sX3GmpbFRE7lTjGx78F0gFVCR/GuQfRM7qydUQ5eTJTRs7g4jShFbSGlwfBPAZ5Xp4NVotJ58hVbHZXrEftJra3FeZhi9cse354nID/mNzrEGQ9bIaO3HRbB3VkBPhXX5iFN1aZ1bHmVjvOjrotOOl7wtz9wmM3v80lnP9vi3ODr8fQ8QMGOhuaBrbytSGOY6Kak58wBHXlJuupF0CcPfW/TkJjMcO4IJNzLq07dEgZxTBf7jkNV9uzculh1gxUP93hn7b3PRWYOyUafIiITLT+dFsW+IRf0dB3tX+fMz5tf0QmuxlbJM10KV2gIW+swxiUIlTDZ68=;xYEDjlXdGUB+h3+p9Oah8Q=="
 ---
 

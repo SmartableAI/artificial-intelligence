@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-29-datasaur-snags-39m-investment-to-build-intelligent-machine-learning-labeling-platform.md",
+      "title": "Datasaur snags $3.9M investment to build intelligent machine learning labeling platform",
+      "excerpt": "As machine learning has grown, one of the major bottlenecks remains labeling things so the machine learning application understands the data it’s working with. Datasaur, a member of the Y Combinator Winter 2020 batch,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/29/datasaur-snags-3-9m-investment-to-build-intelligent-machine-learning-labeling-platform/",
+      "originalUrl": "https://techcrunch.com/2020/09/29/datasaur-snags-3-9m-investment-to-build-intelligent-machine-learning-labeling-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-671392904.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/29/datasaur-snags-3-9m-investment-to-build-intelligent-machine-learning-labeling-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/29/datasaur-snags-3-9m-investment-to-build-intelligent-machine-learning-labeling-platform/amp/",
+      "publishedDateTime": "2020-09-29T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-applying-machine-learning-to-keep-employees-safe-and-save-lives.md",
       "title": "Applying machine learning to keep employees safe and save lives",
       "excerpt": "Warny leverages many of the key AWS Services such as IoT, Greengrass, and Sagemaker. Warny uses sophisticated computer vision algorithms to protect people working around dangerous machines ...",
@@ -395,6 +446,48 @@
       ]
     },
     {
+      "path": "_news/2020-09-26-ai-machine-learning-breakthrough-is-a-twist-on-brain-replay.md",
+      "title": "AI Machine Learning Breakthrough Is a Twist on Brain Replay",
+      "excerpt": "From a neuroscience perspective, the concept of brain replay is analogous to a streaming service that activates repeat showings from its vast archives of stored pre-recorded content. The brain can replay memories by reactivating the neural activity patterns that represent prior experiences whether asleep or awake.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202009/ai-machine-learning-breakthrough-is-twist-brain-replay",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202009/ai-machine-learning-breakthrough-is-twist-brain-replay",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2020-09/pic2095.jpg?itok=zJTSRPRc",
+          "width": 320,
+          "height": 228,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202009/ai-machine-learning-breakthrough-is-twist-brain-replay?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202009/ai-machine-learning-breakthrough-is-twist-brain-replay?amp",
+      "publishedDateTime": "2020-09-25T11:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-mit-prof-wins-1m-award-for-machine-learning-based-cancer-detection.md",
       "title": "MIT Prof Wins $1M Award for Machine Learning-Based Cancer Detection",
       "excerpt": "Professor Regina Barzilay of MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) pioneered new advances in breast cancer detection using machine learning.",
@@ -780,7 +873,7 @@
     {
       "path": "_news/2020-09-24-four-steps-to-accelerate-your-machine-learning-journey.md",
       "title": "Four steps to accelerate your machine learning journey",
-      "excerpt": "Using Amazon SageMaker for their ExpenseFinder tool, which automatically pulls a year’s worth of bank transactions, Intuit’s machine learning algorithm helps their customers discover $4,300 on ...",
+      "excerpt": "Another approach used by Morningstar — a global financial services firm — used hands-on training for their employees with AWS DeepRacer to accelerate the application of machine learning across ...",
       "sourceUrl": null,
       "webUrl": "https://www.itp.net/news/93915-four-steps-to-accelerate-your-machine-learning-journey",
       "originalUrl": "https://www.itp.net/news/93915-four-steps-to-accelerate-your-machine-learning-journey",
@@ -1239,49 +1332,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-22-global-startup-parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning.md",
-      "title": "Global startup Parcel Perform collaborates with Amazon Web Services (AWS) to improve e-commerce delivery experience with machine learning",
-      "excerpt": "Parcel Perform and Amazon Machine Learning Solutions Lab collaborated to build a flexible, scalable solution, combining AWS' expertise in ML and ML services like Amazon SageMaker, with the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/global-startup-parcel-perform-collaborates-amazon-web-services-aws-improve-e-commerce",
-      "originalUrl": "https://www.asiaone.com/business/global-startup-parcel-perform-collaborates-amazon-web-services-aws-improve-e-commerce",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Sep2020/pr-newswire_500_4_1272.jpg?itok=_nKPo1GS",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/global-startup-parcel-perform-collaborates-amazon-web-services-aws-improve-e-commerce?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/global-startup-parcel-perform-collaborates-amazon-web-services-aws-improve-e-commerce?amp",
-      "publishedDateTime": "2020-09-21T21:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2020-09-22-fincen-files-show-banks-use-of-ai-and-machine-learning-effective-in-kycaml.md",
       "title": "FinCEN Files Show Banks’ Use Of AI And Machine Learning Effective In KYC/AML",
       "excerpt": "Documents submitted to FinCEN show that several of the largest global banks moved money on behalf of those involved in criminal financial activity.",
@@ -1365,39 +1415,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-vida-receives-510k-clearance-for-deep-learning-based-enhancements-to-its-lungprint-solution.md",
-      "title": "VIDA receives 510(k) clearance for deep learning-based enhancements to its LungPrint® solution",
-      "excerpt": "The addition of deep learning algorithms to VIDA's LungPrint solution allows the company to improve the performance of lung imaging analysis and enable a more comprehensive assessment of disease ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vida-receives-510-k-clearance-for-deep-learning-based-enhancements-to-its-lungprint-solution/article_4f8f2da1-81f1-5148-a823-09637cc7c2f8.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vida-receives-510-k-clearance-for-deep-learning-based-enhancements-to-its-lungprint-solution/article_4f8f2da1-81f1-5148-a823-09637cc7c2f8.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-21T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

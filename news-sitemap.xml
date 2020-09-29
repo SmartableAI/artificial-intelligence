@@ -7,6 +7,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.technologyreview.com/2020/09/29/1008933/how-ai-will-revolutionize-manufacturing/</loc>
+    <lastmod>2020-09-29T11:46:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/</loc>
     <lastmod>2020-09-29T11:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -33,6 +39,12 @@
   <url>
     <loc>https://venturebeat.com/2020/09/29/googles-smart-cleanup-taps-ai-to-streamline-data-entry/</loc>
     <lastmod>2020-09-29T10:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://techcrunch.com/2020/09/29/datasaur-snags-3-9m-investment-to-build-intelligent-machine-learning-labeling-platform/</loc>
+    <lastmod>2020-09-29T08:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -391,12 +403,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692</loc>
-    <lastmod>2020-09-26T15:18:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://venturebeat.com/2020/09/26/the-last-of-us-part-ii-voice-actor-breaks-new-ground-with-twitchs-artificial/</loc>
     <lastmod>2020-09-26T10:26:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -453,6 +459,12 @@
   <url>
     <loc>https://www.forbes.com/sites/anniebrown/2020/09/25/using-artificial-intelligence-to-tame-the-most-volatile-asset-class-in-history/</loc>
     <lastmod>2020-09-25T12:39:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.psychologytoday.com/intl/blog/the-future-brain/202009/ai-machine-learning-breakthrough-is-twist-brain-replay</loc>
+    <lastmod>2020-09-25T11:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -571,7 +583,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.reuters.com/article/ericsson-autonomous/swedens-ericsson-telia-present-self-driving-bus-ahead-of-5g-spectrum-auction-idUSL5N2GL30G</loc>
+    <loc>https://www.reuters.com/article/us-ericsson-autonomous-idUSKCN26F2V6</loc>
     <lastmod>2020-09-24T14:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1171,12 +1183,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.asiaone.com/business/global-startup-parcel-perform-collaborates-amazon-web-services-aws-improve-e-commerce</loc>
-    <lastmod>2020-09-21T21:26:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://medium.com/@szabogergo2020/differentiable-argmax-for-tensorflow-2da6ca5d8ae7</loc>
     <lastmod>2020-09-21T21:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1191,6 +1197,12 @@
   <url>
     <loc>https://www.finanzen.net/nachricht/aktien/parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-9317528</loc>
     <lastmod>2020-09-21T18:59:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.finanzen.net/nachricht/aktien/global-startup-parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-9317530</loc>
+    <lastmod>2020-09-21T17:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

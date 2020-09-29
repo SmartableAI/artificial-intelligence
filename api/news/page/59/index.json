@@ -2,6 +2,107 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2020-08-15-these-4-drugmakers-are-using-ai-to-improve-their-products-does-it-make-them-better-buys.md",
+      "title": "These 4 Drugmakers Are Using AI to Improve Their Products. Does It Make Them Better Buys?",
+      "excerpt": "AstraZenca, GlaxoSmithKline, Novartis and Eli Lilly are using artificial intelligence systems to help in drug development, decision-making, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/08/15/these-4-drugmakers-are-using-ai-to-improve-their-p/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F587771%2Fartificial-intelligence-getty-628.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/08/15/these-4-drugmakers-are-using-ai-to-improve-their-p/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/08/15/these-4-drugmakers-are-using-ai-to-improve-their-p/",
+      "publishedDateTime": "2020-08-15T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-15-black-lives-matter-activist-hunted-by-nypd-facial-recognition-technology.md",
+      "title": "Black Lives Matter Activist Hunted by NYPD Facial Recognition Technology",
+      "excerpt": "\"We're being specifically targeted with this technology because of what we're protesting,\" Derrick Ingram said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/black-lives-matter-activist-hunted-facial-recognition-technology-1525335",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1622897/derrick-ingram.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/black-lives-matter-activist-hunted-facial-recognition-technology-1525335?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/black-lives-matter-activist-hunted-facial-recognition-technology-1525335?amp=1",
+      "publishedDateTime": "2020-08-15T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-15-the-morning-after-ai-generated-video-plays-out-fake-wimbledon-matchups.md",
       "title": "The Morning After: AI-generated video plays out fake Wimbledon matchups",
       "excerpt": "This morning we're looking back at some of the week's biggest stories, while the Engadget Podcast discusses the Surface Duo and Galaxy Watch 3.",
@@ -1067,99 +1168,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-analyst-watch-the-rise-of-ai-chips.md",
-      "title": "Analyst Watch: The rise of AI chips",
-      "excerpt": "In a recent study on AI chips for Kisaco Research, where we closely examined 16 chip providers, we also mapped the AI chip landscape and found 80 startups globally with over $10.5 billion of ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/analyst-watch-the-rise-of-ai-chips/",
-      "originalUrl": "https://sdtimes.com/ai/analyst-watch-the-rise-of-ai-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2020/08/board-453758_640.jpg",
-          "width": 640,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-14T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-giant-lawsuit-alleges-instagram-used-face-recognition-illegally.md",
-      "title": "Giant Lawsuit Alleges Instagram Used Face Recognition Illegally",
-      "excerpt": "A new $500 billion class-action lawsuit alleges Instagram collects and stores people's biometric data without their consent.",
-      "sourceUrl": null,
-      "webUrl": "https://nerdist.com/article/lawsuit-instagram-face-recognition-california/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nerdist.com/wp-content/uploads/2020/08/Lawsuit-against-Instagram-feature-image-08132020.jpg",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://nerdist.com/article/lawsuit-instagram-face-recognition-california/?amp",
-      "cdnAmpWebUrl": "https://nerdist-com.cdn.ampproject.org/c/s/nerdist.com/article/lawsuit-instagram-face-recognition-california/?amp",
-      "publishedDateTime": "2020-08-14T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nerdist",
-        "domain": "nerdist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }
