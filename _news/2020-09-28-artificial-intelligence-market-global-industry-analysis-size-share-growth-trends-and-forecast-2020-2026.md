@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-28T12:58:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2026-2020-09-28?tesla=y"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2026-2020-09-28?tesla=y"
 type: article
-quality: 49
+quality: 51
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

@@ -55,20 +55,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 63
-  - title: "Impact Of COVID-19 On Deep Learning Market Size, Share and Top Key Players During 2020-2028"
-    excerpt: "An estimated 51.2 % of the global population was using internet by the end of 2018 - International Telecommunication"
-    publishedDateTime: 2020-09-25T12:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/impact-of-covid-19-on-deep-learning-market-size-share-and-top-key-players-during-2020-2028-2020-09-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence revamping exercise routines in the age of COVID-19"
     excerpt: "Fitness routines have changed a lot during the pandemic. More people are opting to take their workout outside or choosing"
     publishedDateTime: 2020-09-25T21:42:00Z

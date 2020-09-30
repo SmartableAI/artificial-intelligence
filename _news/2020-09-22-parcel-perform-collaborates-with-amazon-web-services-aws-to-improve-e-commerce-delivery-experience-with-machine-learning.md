@@ -2,26 +2,26 @@
 category: news
 title: "Parcel Perform collaborates with Amazon Web Services (AWS) to improve e-commerce delivery experience with machine learning"
 excerpt: "Parcel Perform and Amazon Machine Learning Solutions Lab collaborated closely to build a flexible, scalable solution, combining AWS' expertise in ML and ML services like Amazon SageMaker ..."
-publishedDateTime: 2020-09-22T01:59:00Z
-originalUrl: "https://www.finanzen.net/nachricht/aktien/parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-9317528"
-webUrl: "https://www.finanzen.net/nachricht/aktien/parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-9317528"
+publishedDateTime: 2020-09-22T00:08:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-1029608850"
+webUrl: "https://markets.businessinsider.com/news/stocks/parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-1029608850"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-1029608850"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-1029608850"
 type: article
 
 provider:
-  name: Finanzen
-  domain: finanzen.net
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
   - Machine Learning
 
-images:
-  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "Sq1bHmn5McbeV7hOZ9VoV54XiGLBWD0aFVnloU0pnrI/WWMEmYo415Tnn2DUOsX1yZfQMQa2I4G+NatATiH+1c0JWAb9Iu0CpONVVkZrBja+Spp3YTHkqMsb2S+EhtKuI7EEI3wIy6JCe7NSJdJJcVnGG6/PomV2fZNj4TTLMMErLT7xVU6WilnlzGWYic+emZkHfDu99hKRov3HA3WcK21H2Z0ptK+V9o183XcS/LZunPL1LPv8hr5s+rJjqy78NBtsAQ+0sWYikp33YhE6iOGS4a+wIYrEGSGuqxkkcQBRHgWeJOfLJR9C1cuQ+cE6Jri5HS9i9kdL8JKVINvSXP+uRCyaghYJQJKxr2EDVOs=;PwZO1/Hy13xGNbMfjcIY5w=="
+secured: "eYf5qv6ddDCbOF3eoJWj3EtaO4XlohJDah6ygOKmAi2/FtjWQmzdkvedxv18GSSVjWkxJ7diJ7FvfAvaw9y7LKVoF8t/h/1kKnMHx0zrtfXb0tB654QK3Uu7GJCnTzEHhfxTpVu2pWnmlLjscYLK/01upSYSO77ovP0iK1bBEQrPXzb1K7RY/AOBlG8/QeUgsF6bidnsbTw/dn0TH4EJ+WmU2EiSxhh1RYeX4GeV0s+uSjPvwnbtet86SVXrR5LuYShc2WHWE7WxaLZ/KPyqsK1qLtpvf69as8JeCgSxR+FHL6F9s8va9APwNrXowQDS+dBNumkJdg8w6ZEXMCX3CrjcZOzv1BCaSikD/t6gnss=;i7Hkf6f2lLQMbxg1FOLnUQ=="
 ---
 

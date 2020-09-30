@@ -2,6 +2,90 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-29-doc-rivers-ousted-from-clippers-social-media-reacts-to-shocking-decision.md",
+      "title": "Doc Rivers ousted from Clippers, social media reacts to shocking decision",
+      "excerpt": "Clippers reporter Mirjam Swanson confirmed the bombshell news on Monday that the Clippers have fired head coach Doc Rivers. The Clippers blew a 3-1 series lead in the second round of the Western Conference playoffs against the Denver Nuggets,",
+      "sourceUrl": null,
+      "webUrl": "https://inside-com.breezy.hr/",
+      "originalUrl": "https://www.mercurynews.com/2020/09/29/social-media-reaction-to-the-shocking-firing-of-clippers-coach-doc-rivers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://breezy-social-images.imgix.net/442d93c02549/social-portal.png?auto=format&h=600",
+          "width": 1143,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-29T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mercury News",
+        "domain": "mercurynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-covid-19-nec-to-install-thermal-facial-recognition-scanners-at-airports.md",
+      "title": "Covid-19: NEC to install thermal, facial recognition scanners at airports",
+      "excerpt": "NEC Corporation of Malaysia Sdn Bhd is in the midst of installing thermal and facial recognition scanners to detect Covid-19 infections",
+      "sourceUrl": null,
+      "webUrl": "https://www.thesundaily.my/home/covid-19-nec-to-install-thermal-facial-recognition-scanners-at-airports-XB4322246",
+      "originalUrl": "https://www.thesundaily.my/home/covid-19-nec-to-install-thermal-facial-recognition-scanners-at-airports-XB4322246",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesundaily.my/binrepository/480x258/0c4/480d250/none/11808/RGVA/thermalcamerastory_1613239_20200929151938.jpg",
+          "width": 480,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-29T00:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sun",
+        "domain": "thesundaily.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-hot-ai-chips-to-look-forward-to-in-2021.md",
       "title": "Hot AI Chips To Look Forward To In 2021",
       "excerpt": "Qualcomm has announced their Cloud AI 100 accelerator, and with their experience in developing communications and smartphone technologies",
@@ -730,6 +814,56 @@
       ]
     },
     {
+      "path": "_news/2020-09-29-how-this-digital-avatar-is-elevating-ai-technology.md",
+      "title": "How This Digital Avatar Is Elevating AI Technology",
+      "excerpt": "Lee has created a seamless transition from the physical to digital world with upscale imagery and a unique vision with the digital avatar Aliza Rexx. Aliza is currently one of the fastest growing digital avatars with a loyal following on social media ever since she made her debut in 2018.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/isisbriones/2020/09/28/how-this-digital-avatar-is-elevating-ai-technology/",
+      "originalUrl": "https://www.forbes.com/sites/isisbriones/2020/09/28/how-this-digital-avatar-is-elevating-ai-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f721ba48798ebc8ca144243%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D800%26cropY1%3D161%26cropY2%3D611",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/isisbriones/2020/09/28/how-this-digital-avatar-is-elevating-ai-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/isisbriones/2020/09/28/how-this-digital-avatar-is-elevating-ai-technology/amp/",
+      "publishedDateTime": "2020-09-28T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-google-cloud-has-a-big-edge-over-aws-or-azure-and-this-training-can-help-you-master-it.md",
       "title": "Google Cloud Has a Big Edge Over AWS or Azure — and This Training Can Help You Master It",
       "excerpt": "This training package usually sells for almost $640, but by getting in on this deal right now, you’ll get all seven courses for less than $5 each, just $29.99.",
@@ -1076,141 +1210,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-let-ethics-guide-your-use-of-ai.md",
-      "title": "Let Ethics Guide Your Use of AI",
-      "excerpt": "As AI applications quickly advance into large-scale and more diverse use cases, it’s becoming imperative that ethics guide its development, deployment and applications. This is especially important as we increasingly apply AI to use cases that impact individual lives and livelihoods — including healthcare,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-experience/let-ethics-guide-your-use-of-ai/",
-      "originalUrl": "https://www.cmswire.com/digital-experience/let-ethics-guide-your-use-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/acffe6a8e9624a6a95b067e79eb74209.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-experience/let-ethics-guide-your-use-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/let-ethics-guide-your-use-of-ai/amp/",
-      "publishedDateTime": "2020-09-28T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020.md",
-      "title": "Synopsys to Host Panel on AI for Chip Design at AI Hardware Summit 2020",
-      "excerpt": "PRNewswire/ --Synopsys, Inc. (Nasdaq: SNPS) today announced that Arun Venkatachar, VP of AI and Central Engineering, will participate in a panel discussion with participants from Intel and Google at the 2020 AI Hardware Summit on the topic of AI and whether it can revolutionize the way chips are designed today.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020-1029626943",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020-1029626943",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020-1029626943",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020-1029626943",
-      "publishedDateTime": "2020-09-28T06:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-our-goal-shouldnt-be-to-build-merely-trustworthy-ai.md",
-      "title": "Our goal shouldn’t be to build merely ‘trustworthy’ AI",
-      "excerpt": "Mariarosaria Taddeo, Deputy Director of the Oxford Internet Institute's Digital Ethics Lab, explains why AI ethics must be a continuous practice.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/09/28/our-goal-shouldnt-be-to-build-merely-trustworthy-ai/",
-      "originalUrl": "https://thenextweb.com/neural/2020/09/28/our-goal-shouldnt-be-to-build-merely-trustworthy-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Untitled-design-2020-09-28T104701.865-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/09/28/our-goal-shouldnt-be-to-build-merely-trustworthy-ai/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/28/our-goal-shouldnt-be-to-build-merely-trustworthy-ai/amp/",
-      "publishedDateTime": "2020-09-28T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

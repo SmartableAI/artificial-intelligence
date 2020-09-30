@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2020-09-artificial-intelligence-orchids-specie
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-09-artificial-intelligence-orchids-species.amp"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,54 +24,6 @@ images:
     width: 1500
     height: 2000
     isCached: true
-
-related:
-  - title: "How AI And Technology Can Help Patients Manage Chronic Pain"
-    excerpt: "Chronic pain can be a bewildering and life-altering problem. New technology, including AI-enabled tools, can help patients navigate the maze of chronic pain."
-    publishedDateTime: 2020-09-25T12:46:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/09/25/how-ai-and-technology-can-help-patients-manage-chronic-pain/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/09/25/how-ai-and-technology-can-help-patients-manage-chronic-pain/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/25/how-ai-and-technology-can-help-patients-manage-chronic-pain/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6ced7640297a1e6b8c9ea1%2F0x0.jpg"
-        width: 1200
-        height: 643
-        isCached: true
-  - title: "How This Digital Avatar Is Elevating AI Technology"
-    excerpt: "Lee has created a seamless transition from the physical to digital world with upscale imagery and a unique vision with the digital avatar Aliza Rexx. Aliza is currently one of the fastest growing digital avatars with a loyal following on social media ever since she made her debut in 2018."
-    publishedDateTime: 2020-09-28T17:32:00Z
-    webUrl: "https://www.forbes.com/sites/isisbriones/2020/09/28/how-this-digital-avatar-is-elevating-ai-technology/"
-    ampWebUrl: "https://www.forbes.com/sites/isisbriones/2020/09/28/how-this-digital-avatar-is-elevating-ai-technology/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/isisbriones/2020/09/28/how-this-digital-avatar-is-elevating-ai-technology/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f721ba48798ebc8ca144243%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D800%26cropY1%3D161%26cropY2%3D611"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Edge AI challenges memory technology"
-    excerpt: "With the rise of AI at the edge comes a whole host of new requirements for memory systems. Can today’s memory technologies live up to the stringent"
-    publishedDateTime: 2020-09-25T13:51:00Z
-    webUrl: "https://www.embedded.com/edge-ai-challenges-memory-technology/"
-    type: article
-    provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 39
-    images:
-      - url: "https://www.embedded.com/wp-content/uploads/2020/09/img20200925093009Memory-Technologies-Confront-Edg_5.jpg"
-        width: 300
-        height: 239
-        isCached: true
 
 secured: "0WVXKri/QE4q9Qfp1PmmETEOvDsGuA5wDXgimfseqYfmqDKFxtvebfF61Z6kyir2WBDsfD1+/UIxCvudhxRCZQK/buqWuIuheOQVIqLbn6LW7m95Nf0S2vq8eyzRC/fUaPCa11KC5r0UMipKzhLnqvJfw9WqJadh4fjr5ion9DNbOgBvlYmbWHAwhXAL+xhI8VLsv0u+tJu2ju4YfEA6Kz5eKsMBUBRvY+TTF/xDMoilbu//6sh8as0eaOVCe1Z+tkxIdYVW+2KWPn9XFM0J0btQgvfmEpt1o80xjyZmHLYwV3YsR+tRj0mFjyTrGdDWqYnlwxA1fwD4w2yQsA+bKZdGDB/vs/lHQKHiHussN8jA3Cny8UdQKrYt0gW2bE6BeCp0L2E/B3jWldJR31bOtM2ieCZlDgio+auEPyfVCiJWSgMpwZFRjDuQjYZXJ/bFJlNEblJV2bGAl5JyGDrZHUT2/mzx+1TBqlXw5K/AyUkJ0d++Wcrt0rvMvY6+Rp2ul/mUGBjOuJAriBFZVfAmYQ==;xaE7iHH1OKg8LeNKq6cfdA=="
 ---

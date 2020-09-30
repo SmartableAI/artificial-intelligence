@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/isisbriones/2020/09/28/how-this-digital
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/isisbriones/2020/09/28/how-this-digital-avatar-is-elevating-ai-technology/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: Forbes
@@ -30,37 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "How AI And Technology Can Help Patients Manage Chronic Pain"
-    excerpt: "Chronic pain can be a bewildering and life-altering problem. New technology, including AI-enabled tools, can help patients navigate the maze of chronic pain."
-    publishedDateTime: 2020-09-25T12:46:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/09/25/how-ai-and-technology-can-help-patients-manage-chronic-pain/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/09/25/how-ai-and-technology-can-help-patients-manage-chronic-pain/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/25/how-ai-and-technology-can-help-patients-manage-chronic-pain/amp/"
+  - title: "Using artificial intelligence to elevating Thai medical standards in relation to lesion diagnosis"
+    excerpt: "Ltd. and Department of Radiology, Faculty of Medicine Siriraj Hospital, Mahidol University, to collaborate in medical AI technology for diagnostic radiography."
+    publishedDateTime: 2020-09-28T09:40:00Z
+    webUrl: "https://www.bangkokpost.com/business/1992975/using-artificial-intelligence-to-elevating-thai-medical-standards-in-relation-to-lesion-diagnosis"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 41
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6ced7640297a1e6b8c9ea1%2F0x0.jpg"
-        width: 1200
-        height: 643
-        isCached: true
-  - title: "Artificial intelligence can help protect orchids and other species"
-    excerpt: "Many orchid species are threatened by land conversion and illegal harvesting. However, only a fraction of those species is included in the IUCN Red List of Threatened Species, because assessments require a lot of time,"
-    publishedDateTime: 2020-09-28T20:49:00Z
-    webUrl: "https://phys.org/news/2020-09-artificial-intelligence-orchids-species.html"
-    ampWebUrl: "https://phys.org/news/2020-09-artificial-intelligence-orchids-species.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-09-artificial-intelligence-orchids-species.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/5f721d610498b.jpg"
-        width: 1500
-        height: 2000
+      - url: "https://static.bangkokpost.com/media/content/20200928/c1_1992975_700.jpg"
+        width: 700
+        height: 467
         isCached: true
   - title: "Edge AI challenges memory technology"
     excerpt: "With the rise of AI at the edge comes a whole host of new requirements for memory systems. Can today’s memory technologies live up to the stringent"

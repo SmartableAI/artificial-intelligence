@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Survey Results: Missourians voice opinions on Missouri law enforcement training"
+    excerpt: "Changes could be coming to the way law enforcement officers are trained and disciplined in the state of Missouri. This decision comes after the Department of"
+    publishedDateTime: 2020-09-30T04:08:00Z
+    webUrl: "https://www.ozarksfirst.com/local-news/regional-news/survey-results-missourians-voice-opinions-on-missouri-law-enforcement-training/"
+    ampWebUrl: "https://www.ozarksfirst.com/local-news/regional-news/survey-results-missourians-voice-opinions-on-missouri-law-enforcement-training/amp/"
+    cdnAmpWebUrl: "https://www-ozarksfirst-com.cdn.ampproject.org/c/s/www.ozarksfirst.com/local-news/regional-news/survey-results-missourians-voice-opinions-on-missouri-law-enforcement-training/amp/"
+    type: article
+    provider:
+      name: Ozarks First
+      domain: ozarksfirst.com
+    quality: 55
+    images:
+      - url: "https://www.ozarksfirst.com/wp-content/uploads/sites/65/2020/09/19EC31C4A06948DEB779673F2C7FDCB8.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Survey: Thousands voice opinions on how Missouri law enforcement officers are trained"
     excerpt: "Changes could soon be coming to the way law enforcement officers are trained and disciplined in the state of Missouri."
     publishedDateTime: 2020-09-29T23:17:00Z

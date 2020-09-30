@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.ozarksfirst.com/local-news/regional-news/survey-results-missourians-voice-opinions-on-missouri-law-enforcement-training/</loc>
+    <lastmod>2020-09-29T21:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.vice.com/en/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban</loc>
     <lastmod>2020-09-29T14:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.ibm.com/blogs/watson/2020/09/address-returning-to-the-workplace-with-ibm-watson-works/</loc>
+    <lastmod>2020-09-29T12:16:33-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -237,6 +249,12 @@
   <url>
     <loc>https://www.foxnews.com/tech/new-army-accelerated-multi-node-attack-enabled-by-ai-at-project-convergence-2020</loc>
     <lastmod>2020-09-28T11:07:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/isisbriones/2020/09/28/how-this-digital-avatar-is-elevating-ai-technology/</loc>
+    <lastmod>2020-09-28T10:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -835,6 +853,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://apnews.com/business-wire/eb31fbacc10643b9a526004a72ffe534</loc>
+    <lastmod>2020-09-23T09:10:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/worldeconomicforum/2020/09/23/how-ai-could-feed-the-worlds-hungry-while-sustaining-the-planet/</loc>
     <lastmod>2020-09-23T08:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -999,6 +1023,12 @@
   <url>
     <loc>https://www.cnet.com/news/youtube-machine-learning-to-put-automated-age-restrictions-blocks-on-videos/</loc>
     <lastmod>2020-09-22T15:28:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businesswire.com/news/home/20200922005002/en/Jumio-to-Enable-Biometric-Based-Identity-Proofing-Services-for-Microsoft-Azure-Active-Directory</loc>
+    <lastmod>2020-09-22T15:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1183,12 +1213,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.asiaone.com/business/global-startup-parcel-perform-collaborates-amazon-web-services-aws-improve-e-commerce</loc>
-    <lastmod>2020-09-21T21:26:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://medium.com/@szabogergo2020/differentiable-argmax-for-tensorflow-2da6ca5d8ae7</loc>
     <lastmod>2020-09-21T21:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1201,8 +1225,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.finanzen.net/nachricht/aktien/parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-9317528</loc>
-    <lastmod>2020-09-21T18:59:00-07:00</lastmod>
+    <loc>https://www.finanzen.net/nachricht/aktien/global-startup-parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-9317530</loc>
+    <lastmod>2020-09-21T17:21:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-1029608850</loc>
+    <lastmod>2020-09-21T17:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1615,8 +1645,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://ipsnews.net/business/2020/09/18/artificial-intelligence-and-machine-learning-market-may-see-a-big-move-aibrain-amazon-anki-cloudminds-deepmind/</loc>
-    <lastmod>2020-09-18T02:49:00-07:00</lastmod>
+    <loc>https://www.bignewsnetwork.com/news/266433753/artificial-intelligence-and-machine-learning-market-may-see-a-big-move--aibrain-amazon-anki-cloudminds-deepmind</loc>
+    <lastmod>2020-09-18T02:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

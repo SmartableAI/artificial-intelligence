@@ -2,6 +2,242 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-09-14-nvidia-to-acquire-arm-for-40-billion-creating-worlds-premier-computing-company-for-the-age-of-ai.md",
+      "title": "NVIDIA to Acquire Arm for $40 Billion, Creating World's Premier Computing Company for the Age of AI",
+      "excerpt": "Unites NVIDIA's leadership in artificial intelligence with Arm's vast computing ecosystem to drive innovation for all customers NVIDIA will expand Arm's",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/nvidia-to-acquire-arm-for-40-billion-creating-worlds-premier-computing-company-for-the-age-of-ai-2020-09-13-191842137",
+      "originalUrl": "https://www.marketwatch.com/press-release/nvidia-to-acquire-arm-for-40-billion-creating-worlds-premier-computing-company-for-the-age-of-ai-2020-09-13-191842137",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-13T17:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-nba-playoffs-the-clippers-arent-playing-like-the-title-favorites.md",
+      "title": "NBA Playoffs: The Clippers aren't playing like the title favorites",
+      "excerpt": "The Nuggets have impressively rallied from down 16 in Game 5 and down 19 in Game 6 to force Game 7 on Tuesday (9 p.m. ET on ESPN). Nikola Jokic, who had 34 points (his most this postseason), is an All-NBA player who is performing like one.",
+      "sourceUrl": null,
+      "webUrl": "https://inside-com.breezy.hr/",
+      "originalUrl": "https://www.espn.com/nba/story/_/id/29878128/nba-playoffs-clippers-playing-title-favorites",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://breezy-social-images.imgix.net/442d93c02549/social-portal.png?auto=format&h=600",
+          "width": 1143,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-13T15:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ESPN",
+        "domain": "espn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-uae-israeli-educational-institutions-to-collaborate-on-ai-research.md",
+      "title": "UAE, Israeli educational institutions to collaborate on AI research",
+      "excerpt": "The MoU is the first signed between Israeli and UAE higher education bodies, intending to \"advance the development and use of artificial intelligence as a tool for progress.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.jpost.com/middle-east/uae-israeli-educational-institutions-to-collaborate-on-ai-research-642090",
+      "originalUrl": "https://www.jpost.com/middle-east/uae-israeli-educational-institutions-to-collaborate-on-ai-research-642090",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/463478",
+          "width": 640,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://m.jpost.com/middle-east/uae-israeli-educational-institutions-to-collaborate-on-ai-research-642090/amp",
+      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/middle-east/uae-israeli-educational-institutions-to-collaborate-on-ai-research-642090/amp",
+      "publishedDateTime": "2020-09-13T12:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jerusalem Post Blogs",
+        "domain": "jpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-how-forza-uses-neural-networks-to-evolve-its-racing-ai.md",
+      "title": "How Forza Uses Neural Networks To Evolve Its Racing AI",
+      "excerpt": "Today on War Stories, Ars Technica is joined by Dan Greenawalt, Creative Director of the Forza franchise, who takes us through the colossal potential (and many challenges) of utilizing deep neural networks to build sophisticated racing AI.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/video/watch/war-stories-how-forza-uses-neural-networks-to-evolve-its-racing-ai",
+      "originalUrl": "https://arstechnica.com/video/watch/war-stories-how-forza-uses-neural-networks-to-evolve-its-racing-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_450,q_80,w_800/v1599844552/arstechnica_war-stories-forza.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-13T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-can-ai-solve-one-of-the-oldest-mysteries-of-linguistics.md",
+      "title": "Can A.I. solve one of the oldest mysteries of linguistics?",
+      "excerpt": "Lost languages like Linear A have confounded researchers for decades, but as artificial intelligence advances, could technology crack the case?",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/features/can-ai-solve-lost-languages/",
+      "originalUrl": "https://www.digitaltrends.com/features/can-ai-solve-lost-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/tourist-girl-admiring-medinet-habu-temple-luxor-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/features/can-ai-solve-lost-languages/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/can-ai-solve-lost-languages/?amp",
+      "publishedDateTime": "2020-09-13T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-13-waymos-head-of-lidar-explains-how-the-advanced-laser-tech-went-from-science-fiction-to-being-a-vital-tool-for-self-driving-cars.md",
       "title": "Waymo's head of lidar explains how the advanced laser tech went from science fiction to being a vital tool for self-driving cars",
       "excerpt": "Verghese spends his time developing new laser radars to compliment the evolving Waymo suite of hardware and software technologies.",
@@ -945,233 +1181,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-new-age-revolutionised-by-ai-5g-communication-robotics.md",
-      "title": "New age revolutionised by AI, 5G communication, robotics",
-      "excerpt": "The industry experts and researchers from around the world, who gave plenary talks and presented a glimpse of future technology in the post-Corona Virus era during HYDCON 2020 opined that the",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/news/cities/hyderabad/new-age-revolutionised-by-ai-5g-communication-robotics-645250",
-      "originalUrl": "https://www.thehansindia.com/news/cities/hyderabad/new-age-revolutionised-by-ai-5g-communication-robotics-645250",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2020/09/12/998150-robotics.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/news/cities/hyderabad/new-age-revolutionised-by-ai-5g-communication-robotics-645250",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/hyderabad/new-age-revolutionised-by-ai-5g-communication-robotics-645250",
-      "publishedDateTime": "2020-09-12T12:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-brainchip-demonstrates-companys-event-based-ai-neural-processor-at-embedded-vision-summit.md",
-      "title": "BrainChip Demonstrates Company’s Event-Based AI Neural Processor at Embedded Vision Summit",
-      "excerpt": "BrainChip Holdings Ltd. (ASX: BRN), a leading provider of ultra-low power high performance AI technology, today announced its participation at the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/brainchip-demonstrates-companys-event-based-ai-neural-processor-at-embedded-vision-summit-2020-09-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/brainchip-demonstrates-companys-event-based-ai-neural-processor-at-embedded-vision-summit-2020-09-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-12T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-09-12-nvidia-rtx-3090-3080-3070-gpu-specs-price-and-release-date-detailed.md",
-      "title": "Nvidia RTX 3090, 3080, 3070 GPU: Specs, Price, And Release Date Detailed",
-      "excerpt": "Nvidia revealed its new RTX 3000 line of Ampere-powered GPU earlier in the month--the RTX 3090, 3080, and 3070 cards. The new 3000 series is the second generation of RTX graphics cards that will run features like real-time ray tracing with much higher performance than current RTX cards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gamespot.com/articles/nvidia-rtx-3090-3080-3070-gpu-specs-price-and-release-date-detailed/1100-6481673/",
-      "originalUrl": "https://www.gamespot.com/articles/nvidia-rtx-3090-3080-3070-gpu-specs-price-and-release-date-detailed/1100-6481673/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3728918-pcgaming_rtx30series_impressions_20200901_site.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/nvidia-rtx-3090-3080-3070-gpu-specs-price-and-release-date-detailed/1100-6481673/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/nvidia-rtx-3090-3080-3070-gpu-specs-price-and-release-date-detailed/1100-6481673/",
-      "publishedDateTime": "2020-09-12T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-12-hitting-the-books-how-china-uses-ai-to-influence-its-14-billion-citizens.md",
-      "title": "Hitting the books: How China uses AI to influence its 1.4 billion citizens",
-      "excerpt": "Today, states and their actors are waging a digital cold war with artificial intelligence systems at the heart of the fight. In T-Minus AI, the US Air Force’s first Chairperson for Artificial Intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/hitting-the-books-t-minus-ai-michael-kanaan-benbella-books-153007408.html",
-      "originalUrl": "https://www.engadget.com/hitting-the-books-t-minus-ai-michael-kanaan-benbella-books-153007408.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2F3b489de0-e70c-11ea-b7bf-e0c6ee444da8&client=amp-blogside-v2&signature=c0eb11731adb671fa1b36aec2f11faaf4b1635a0",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/hitting-the-books-t-minus-ai-michael-kanaan-benbella-books-153007408.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/hitting-the-books-t-minus-ai-michael-kanaan-benbella-books-153007408.html",
-      "publishedDateTime": "2020-09-12T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-12-israel-and-uae-to-collaborate-on-ai-cloud-computing-for-covid-19.md",
-      "title": "Israel and UAE to collaborate on AI, cloud computing for COVID-19",
-      "excerpt": "Abu Dhabi's Group 42 company, which specializes in artificial intelligence (AI) and cloud computing, is planning to open offices in Israel in order to collaborate on solutions to the coronavirus pandemic,",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpost.com/health-science/israel-and-uae-to-collaborate-on-ai-cloud-computing-for-covid-19-642036",
-      "originalUrl": "https://www.jpost.com/health-science/israel-and-uae-to-collaborate-on-ai-cloud-computing-for-covid-19-642036",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/462888",
-          "width": 640,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://m.jpost.com/health-science/israel-and-uae-to-collaborate-on-ai-cloud-computing-for-covid-19-642036/amp",
-      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/health-science/israel-and-uae-to-collaborate-on-ai-cloud-computing-for-covid-19-642036/amp",
-      "publishedDateTime": "2020-09-12T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jerusalem Post Blogs",
-        "domain": "jpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

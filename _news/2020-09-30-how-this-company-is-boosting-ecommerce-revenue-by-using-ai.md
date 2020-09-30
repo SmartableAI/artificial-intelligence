@@ -2,27 +2,27 @@
 category: news
 title: "How This Company Is Boosting Ecommerce Revenue by Using AI"
 excerpt: "Omri Katz says a common problem when it comes to ecommerce is converting a user into a customer. When someone visits an online store, “98% of online users will leave the online store without completing a purchase,"
-publishedDateTime: 2020-09-29T20:30:00Z
-originalUrl: "https://www.mysanantonio.com/business/article/How-This-Company-Is-Boosting-Ecommerce-Revenue-by-15606348.php"
-webUrl: "https://www.mysanantonio.com/business/article/How-This-Company-Is-Boosting-Ecommerce-Revenue-by-15606348.php"
+publishedDateTime: 2020-09-29T17:30:00Z
+originalUrl: "https://www.entrepreneur.com/video/356766"
+webUrl: "https://www.entrepreneur.com/video/356766"
+ampWebUrl: "https://www.entrepreneur.com/amphtml/356766"
+cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356766"
 type: article
-quality: 37
-heat: 37
+quality: 67
+heat: 67
 published: false
 
 provider:
   name: Entrepreneur
-  domain: mysanantonio.com
+  domain: entrepreneur.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://s.hdnux.com/photos/01/14/33/12/20034204/15/rawImage.jpg"
-    width: 2000
-    height: 1333
-    isCached: true
-
-secured: "Z7xRXU2NGDdBMK0P0PctCQxn8ICZD+OySi1x+l44423HjfuVY9MP8Wodo+4JInjXleXcP9QxXzsICp0SZE+i7owC80oW4MVHjuTWLymoYYDH0ZIdfBIA5O6Oa5N4NwXEzLEUqoAYpjXsgtihqNwKtliHImRnd7rvUO9HHV4nnGK9KlJhlqF/px6qAmHa9Z1lykPPihJjcf1iB33rlLXO5SRT2fmsO/Z1RlPo8dGIcL6PuATykbGmempJE0Mamzni/covMetD0OKz0E2RBNcvB7jjWU0aLg/z3UVzXilSgX8QO4c+rSly4/go6OmC0mCaFAQ0rqGkNJxj+vGSwNbfXwk9MZPhdiM0zGqqxihIpmfZzyomHWGXmaG4tv6NsxaZ5Z1QU6ia6+igo5ItpTy/VNpaitfFVmBhhmdrIIoqVngMSmhKUtIQbLjkRj3yQ+5+nd0+bp/JAZddFpSHbVf/afoGV8ZF3p+cMOz0BrOmAkG63YpPtDxjQR66lOg3jLjsMoKnWBXtjedr4GJel70FEA==;v3FNKDvcEwcisnAEs8Z9Vg=="
+secured: "A/tK94ZF1UeakMYuOv5Z8ej6RQH1U2e4ZoZcsBv/PqCVLEDPGQaS3QQXhmALs3MZFCXNoSBkAXvPlK654K8dA8HCic0SZk7b0CCmpkQBPFZ8NIyeH0XGphEjT88hYMTa5ZpTEMyxlOrDyj40ona6PXoNjUthYozkz2aGSv4xXwdIJGQWClSzmNJRzcc25r3yBbeqcjLBDmogfWHxKbWGz7XxHNoea7hi58CD9Wy9Kb5kNszliivtfv6+fSjcf41f0yDveafKemw4DKhb60VNM+K90RaD1Y7bxl8t6wKQ8ZO7J6ALeT9EyTPu/XwgSXs/DFf19MPrJDV8oLB8Yj1AjafQcTeMaBfrcUEQt2t02dZnmq/V0XQIO01v0IBGT4y/GzFiqBTHZHaPkC8w9ftaOsEtl+u8n1l2Ye2bajh+ZFLhgoh5HhUq++vLGSIl+J1g159A2X4ZTLTCFmt41JcjPNA4HkvK/9sa/xidO/uIhmnVmBz8IIzOtaeK7KaYQ4hq0FEXmCsfqFz8tsi9xGcviQ==;iUKL6LzCCSguqrhcjEBUVg=="
 ---
 
