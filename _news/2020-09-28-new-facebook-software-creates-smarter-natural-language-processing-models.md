@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Facebook Is Giving Away This Speech Recognition Model For Free"
+    excerpt: "Facebook AI recently introduced and open-sourced wav2vec framework for self-supervised learning of representations from raw audio data."
+    publishedDateTime: 2020-09-30T11:33:00Z
+    webUrl: "https://analyticsindiamag.com/facebook-is-giving-away-this-speech-recognition-model-for-free/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/09/aim_zuck-compressed.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "CkIu8uuHrH7exQpWZBPo1rU5QMU0Ux9nCvxPQ1pFYH0hWZG5ld0QdeUXdNOcXAKEt2Jxb1vrZ7OHRv70PJKwEzFsA2oaLb6bvCGp+WGlyEBLIYjS2VqiPGa4NW1P3wEuAzDRR+hQRzu6ihTq7A4cXJDl6Hzvv0Tu0rmtc+hDG0qHqIpPMY3Q4pfT6iQtXrz03L9rSHmnb1aGd1wZR2MPhARDR0tQd1JeD25q9jxskrrBbnMw4wiKBGwNkxt6hCtRlLF+XjFKK1q3AXbq6dbatzykRuEZPy4DNOkahOCGNcSoivxGVyj4kOkqZssb6Xy1RdP42D/VYM9W3Jj1xb+Zqu5GVIAyg154u+xUQgr5FznJF/z/1BYSLrf/4yYYxut55Jd3Suo5WuVw9B0lcRvseY3i2xl6jt9xwfdFrWiYvXpcxxI7y6+/17VY5tB12CdOPKNuty1tmn0dRf4azC2PW6KjCP3CMk6C9/SJvlLe0Nis8Ocasm7gYqysSt28dvPOmwT4n0o0LUMIadFKRkAq7g==;7fJfZD+skinropBbQEZ3Sg=="
 ---

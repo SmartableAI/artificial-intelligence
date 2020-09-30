@@ -8,8 +8,8 @@ webUrl: "https://www.businessinsider.in/tech/news/microsoft-translator-adds-assa
 ampWebUrl: "https://www.businessinsider.in/tech/news/microsoft-translator-adds-assamese-to-its-list-of-real-time-translation-for-indian-languages/amp_articleshow/78402706.cms"
 cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/microsoft-translator-adds-assamese-to-its-list-of-real-time-translation-for-indian-languages/amp_articleshow/78402706.cms"
 type: article
-quality: 48
-heat: 48
+quality: 50
+heat: 50
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.businessinsider.in/thumb/msid-78402703,height-275,width-412,imgsize-23410/tech/news/microsoft-translator-adds-assamese-to-its-list-of-real-time-translation-for-indian-languages/microsoft.jpg"
@@ -26,6 +27,6 @@ images:
     height: 275
     isCached: true
 
-secured: "0XAj7h/DxOmffGG2IfyIylAPyTqqTrwUTPgdUki0MQxR5Y0hEOz5cEkuGIfF4XRvXFZzfuTBC4HoVYB7+94p5HSgfYoe/Ddm3bOQe78I0et8n40fW59nsd4JwWxfdakNwlhkJpAE1Nr3dKZ7ZentKwdemfP21t/UKG3G3mpZKz1CFmqvrT6NaUtaaTx2gkHf0QPiVg8B3rzascV6vTAjfXw4iF/HzOvofmtBA3CxsvkB9ULrpL4p1PckaEKZ+KFlP1GsooUiJxgEj0s3JVIMB1DKom3Wux3UBBLJ7L3Vy+/Dy/L2SfKV529DKDUitwD7TDAz4havqkGE1RBF8TkAAMwuVg+3CouQ7H39aWcOQec=;4tq1OgbNShaZsAN0YQTOgw=="
+secured: "fOsNZWcPSLToyu0zvzzQfxANQexdmRy8LG4fX07QmLGUjkCQdi9SjgY5w150YiMzzDj4wyS9QlnYSTyOAMZcswA8D59OWlK6eamyvZUtQkI/YzG3mTLxKBZXShOXbNgtvezu/XEKcMjbzcZM+6NuWUagWDC549OXCA42aSi9VfTH4djpeL+Q03ZTWy6oxiqU3wJBdleYeSm6xMq34E+iMZNhgilmrUHLlZvh3/IpiZ09jrPBkSW3FfHHcxnCRYsdv/Z7Docc0TfCvoa9OFqWcF+GLiW49X980vkBSgoGWXBQPmjJAPa4iB17/edqYfqr4eVPA0bk+WQVm/hqGT1bB9h0N9mRxXx9DLh18S8b17RipHQx6twfGbkD1mc8cNoXJGmBQNlNhrlgG2RIstVc8Aqhmf8O4rENKergK77xbb/PfoABJe9CP7g2B9vWAYbkzgK5ZjBF5Ky0PZO3o1oJsxsyZWcell8ut09VeoyBpW97ob7eWB+vJCHN7LWc07ykNE735L03YcvXCQSfARfw+Q==;dwTwREW3/5FyAofeCRY+xA=="
 ---
 

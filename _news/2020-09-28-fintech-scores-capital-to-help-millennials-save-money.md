@@ -103,6 +103,20 @@ related:
         width: 500
         height: 232
         isCached: true
+  - title: "Onfido teams up with FinTech Oval Money to boost digital customer verification"
+    excerpt: "Onfido announced a new partnership with FinTech Oval Money in a bid to accelerate and enhance the latter's digital customer verification and registration process."
+    publishedDateTime: 2020-09-30T10:20:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/onfido-teams-up-with-fintech-oval-money-to-boost-digital-customer-verification/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 20
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2020/07/Onfido-logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "lahckUn+kcOmRhdhhzJiYC+QIfH+xuKh0x4v4aPRNyONez/Vii+HFh8mo5BK9dQIHEOWVIeDpC+sz4zvG/hzuCDcBTSA34H1tP4mEQpM34jdpPceH1T1wgTVcc4H0NQl5HQfT5eNgmUuwaqhD/wuEWTYLuOeB8JjvugVk7OnDEHCweJXdv9apnyUltO1SzXJvORspUOc8GYoCaWTfjBzOG1VhRET15di/UStvWyC/8Xeqc55baoyE4Wwj14tn10XzqJ43ytypMSx6nAGwA4Wyp6HLGQFqHo/n5pXijpD6peLjkEaOxp05w7htbYVwgrm0TCZ6pYlcWXDhf8xZJZw2Je8ny4DTBHNyy6dxYppHFuKTIpG/EO0zZCLaAVnh3GiywhgvlTNv5Kna5bOuOiD7sgTtz7gae5YgVQuaYZgnv/B4jV1afmbEIeTFZ6sazwymKTrCevJajW9N5EVTFqpSi0/mBd1/BWoH8Vskh0PMGMX/j2IluoMH7UuvaTwd/+sO5GvDL8Xzru1mfshy6Gi2Q==;OmiyzGKHfiTIBIZ0u49Row=="
 ---

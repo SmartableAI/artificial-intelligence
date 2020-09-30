@@ -2,37 +2,28 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-09-29-artificial-intelligence-in-medical-imaging-market-to-witness-massive-growth-by-2026-ibm-microsoft-apple.md",
-      "title": "Artificial Intelligence in Medical Imaging Market to witness Massive Growth by 2026| IBM, Microsoft, Apple",
-      "excerpt": "An extensive elaboration of the Global Artificial Intelligence in Medical Imaging market strategy of the industry players in the precision of import/export consumption, supply and demand. The study starts with an introduction about the company/manufacturers profiling stating strategic concept behind business using methods to assess and analyze market.",
+      "path": "_news/2020-09-30-will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning.md",
+      "title": "Will AI cross the proverbial chasm? Algorithmia resolves the practical pitfalls of machine learning",
+      "excerpt": "You could get something like what Algorithmia offers by using Amazon's SageMaker, for example. But SageMaker is all about using only Amazon's resources. The appeal with Algorithmia is that the deployments will run in multiple cloud facilities, wherever a ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-to-witness-massive-growth-by-2026-ibm-microsoft-apple-2020-09-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-to-witness-massive-growth-by-2026-ibm-microsoft-apple-2020-09-29",
+      "webUrl": "https://www.zdnet.com/article/will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning/",
+      "originalUrl": "https://www.zdnet.com/article/will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 74,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-28T23:12:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning/",
+      "publishedDateTime": "2020-09-30T04:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "ZDNet",
+        "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -48,7 +39,9 @@
         "news"
       ],
       "topics": [
+        "AWS AI",
         "AI",
+        "Machine Learning",
         "Microsoft AI"
       ]
     },

@@ -157,18 +157,18 @@ related:
         height: 630
         isCached: true
   - title: "Microsoft unveils Azure for Operators to unlock 5G potential"
-    excerpt: "With Azure, businesses can also implement a more flexible and scalable model, bring down infrastructure cost, as well as automate operations using AI and machine learning to differentiate their services. Microsoft also highlighted that it will support ..."
-    publishedDateTime: 2020-09-30T09:45:00Z
-    webUrl: "https://www.channelpro.co.uk/news/11908/microsoft-unveils-azure-for-operators-to-unlock-5g-potential"
+    excerpt: "Microsoft has announced a new cloud platform called Azure for Operators that has been designed to help telecommunications operators unlock the full potential of 5G.  The new offering will help communication service providers create new opportunities and provide core infrastructure,"
+    publishedDateTime: 2020-09-30T11:45:00Z
+    webUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/8768/microsoft-unveils-azure-for-operators-to-unlock-5g-potential"
     type: article
     provider:
-      name: Channel Pro
-      domain: channelpro.co.uk
+      name: Cloud Pro
+      domain: cloudpro.co.uk
     quality: 54
     images:
-      - url: "https://cdn1.channelpro.co.uk/sites/channelpro/files/2018/10/5g_shutterstock_606561206.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2019/01/5g-speed-o2-future-of-people.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Microsoft Touts Azure as 'Carrier-Grade Platform' for Telcos Deploying 5G"
     excerpt: "Microsoft on Monday affirmed its software-defined networking infrastructure support for telecom companies, especially as they move more toward rolling out 5G wireless services."
@@ -229,18 +229,18 @@ related:
         height: 836
         isCached: true
   - title: "Microsoft Translator now supports Assamese too"
-    excerpt: "Toronto, Mississauga, Brampton and around the World, Breaking Entertainment News from Bollywood Hollywood, Sports, Cricket"
-    publishedDateTime: 2020-09-30T08:03:00Z
-    webUrl: "https://www.canindia.com/microsoft-translator-now-supports-assamese-too/"
+    excerpt: "The Azure-based service will now provide real-time translation ... General Manager - AI & Search - Microsoft India, said in a statement. \"As part of our mission to remove language barriers ..."
+    publishedDateTime: 2020-09-30T11:12:00Z
+    webUrl: "https://menafn.com/1100880896/Microsoft-Translator-now-supports-Assamese-too"
     type: article
     provider:
-      name: Canindia.com
-      domain: canindia.com
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 41
     images:
-      - url: "https://www.canindia.com/epaper/front1a.png"
-        width: 252
-        height: 388
+      - url: "https://menafn.com/updates/pr/2020-09/30/I_9ee6f788-9image_story.jpg"
+        width: 400
+        height: 300
         isCached: true
   - title: "Microsoft Azure Cloud Ramps for 5G Telecom Service Provider Partners"
     excerpt: "Microsoft Azure for Operators helps partners & telecommunications service providers (TSPs) roll out 5G networks and deliver new cloud-based services, Microsoft says."

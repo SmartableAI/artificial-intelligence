@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Microsoft unveils Azure for Operators to unlock 5G potential"
-excerpt: "With Azure, businesses can also implement a more flexible and scalable model, bring down infrastructure cost, as well as automate operations using AI and machine learning to differentiate their services. Microsoft also highlighted that it will support ..."
-publishedDateTime: 2020-09-30T09:45:00Z
-originalUrl: "https://www.channelpro.co.uk/news/11908/microsoft-unveils-azure-for-operators-to-unlock-5g-potential"
-webUrl: "https://www.channelpro.co.uk/news/11908/microsoft-unveils-azure-for-operators-to-unlock-5g-potential"
+excerpt: "Microsoft has announced a new cloud platform called Azure for Operators that has been designed to help telecommunications operators unlock the full potential of 5G.  The new offering will help communication service providers create new opportunities and provide core infrastructure,"
+publishedDateTime: 2020-09-30T11:45:00Z
+originalUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/8768/microsoft-unveils-azure-for-operators-to-unlock-5g-potential"
+webUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/8768/microsoft-unveils-azure-for-operators-to-unlock-5g-potential"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Channel Pro
-  domain: channelpro.co.uk
+  name: Cloud Pro
+  domain: cloudpro.co.uk
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://cdn1.channelpro.co.uk/sites/channelpro/files/2018/10/5g_shutterstock_606561206.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2019/01/5g-speed-o2-future-of-people.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -224,18 +224,18 @@ related:
         height: 836
         isCached: true
   - title: "Microsoft Translator now supports Assamese too"
-    excerpt: "Toronto, Mississauga, Brampton and around the World, Breaking Entertainment News from Bollywood Hollywood, Sports, Cricket"
-    publishedDateTime: 2020-09-30T08:03:00Z
-    webUrl: "https://www.canindia.com/microsoft-translator-now-supports-assamese-too/"
+    excerpt: "The Azure-based service will now provide real-time translation ... General Manager - AI & Search - Microsoft India, said in a statement. \"As part of our mission to remove language barriers ..."
+    publishedDateTime: 2020-09-30T11:12:00Z
+    webUrl: "https://menafn.com/1100880896/Microsoft-Translator-now-supports-Assamese-too"
     type: article
     provider:
-      name: Canindia.com
-      domain: canindia.com
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 41
     images:
-      - url: "https://www.canindia.com/epaper/front1a.png"
-        width: 252
-        height: 388
+      - url: "https://menafn.com/updates/pr/2020-09/30/I_9ee6f788-9image_story.jpg"
+        width: 400
+        height: 300
         isCached: true
   - title: "Microsoft Azure Cloud Ramps for 5G Telecom Service Provider Partners"
     excerpt: "Microsoft Azure for Operators helps partners & telecommunications service providers (TSPs) roll out 5G networks and deliver new cloud-based services, Microsoft says."
@@ -247,6 +247,6 @@ related:
       domain: channele2e.com
     quality: 34
 
-secured: "0MdYs9MlEV6BezUCy4Rs2UhDx84RcybONJC8fFS0r6YEPvimq9yVottGpOmc6E5WmZabJJ10tG4O7HDxLN1nOzxn6Mgcfl+1jpchnUdpeulGnLI2OjJy11ASi+T+DdTkk4BfM8d658RGhUwvhDvI9jXhQa0p2xwzDm2X2XQsiUHbbFBU/dnN7RMttpTw+rGGzlHfuEJiPPWNXN6dpFR8IlUgbQBEeHi00UlVrinUd+UC6r8i4OZwtrVVWHq2++AXa4U/nG5XcO1cM4i1xLXy5VscgN4G4cQGSWJnjRtUzPwhAVOx7xn44ZY7J+QbzQfcTVdcKK3qDr3ehyYb6diddoy3HGdJhPyShnV06fHvbCo=;4KNDA4UvBR+srHyEQMgr2w=="
+secured: "THaYkNm1tMAckX76L6l48uuCox5XTdU9ONkHbTxgZghyXU0f+omkKmNpDpJ2YXV6tv8TG30RaddVolleutDJwPwMOlv7sT/f5OMG/naDumHUH4CKghY4Z5VE4bPO+qcYWO4jCTvTUx2QLGIKgKBMRGcgBdStIwr4oVg7p4B3sUZSwwwOr2Fs0zA1ao4gSGgqUJyFhDbkJzFu2NjA53rndfE7bPjFWtQFrI9OO69AI1hcRfr5QYTq6P0SvKipj/knRwn2EKdkT3jFvBeZnjktOF1+O7+ykN5UzROlrftxyy17XYM+zn2AK/wu9UPz4j59q7IAx7nKphYdjZ0N1hsB/TsqnOyYyLy3BzwNc5ZExUE=;1p67b9U5k7lDPF6ihyw1Nw=="
 ---
 

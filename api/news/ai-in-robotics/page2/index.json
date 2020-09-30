@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-16-pandemic-brings-robot-waiters-to-south-korean-restaurants.md",
+      "title": "Pandemic brings robot waiters to South Korean restaurants",
+      "excerpt": "South Korean telecom company KT has partnered with restaurant chain Mad for Garlic on a pilot program using an AI-powered serving robot in Seoul.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/World-News/2020/09/16/Pandemic-brings-robot-waiters-to-South-Korean-restaurants/3561600254093/",
+      "originalUrl": "https://www.upi.com/Top_News/World-News/2020/09/16/Pandemic-brings-robot-waiters-to-South-Korean-restaurants/3561600254093/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/i/3561600254093/2020/1/16002549476790/v1.5/Pandemic-brings-robot-waiters-to-South-Korean-restaurants.jpg",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2020/09/16/Pandemic-brings-robot-waiters-to-South-Korean-restaurants/3561600254093/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/09/16/Pandemic-brings-robot-waiters-to-South-Korean-restaurants/3561600254093/",
+      "publishedDateTime": "2020-09-16T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-16-robot-research-vessel-to-set-off-on-epic-ocean-voyage-of-discovery.md",
       "title": "Robot research vessel to set off on epic ocean voyage of discovery",
       "excerpt": "On the 400th anniversary of the start of an epic voyage from England to the New World aboard the Mayflower, an autonomous, solar-powered marine research vessel is due to launch on a mission to gather environmental data about the ocean.",
@@ -1308,57 +1350,6 @@
         "name": "New York Post",
         "domain": "nypost.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-stephen-hawking-was-wrong-about-ai-killing-humans-says-robot.md",
-      "title": "Stephen Hawking was wrong about AI killing humans (says robot)",
-      "excerpt": "Instead, this is GPT-3, an Open AI robot that's just written a column for The Guardian. And what a column. \"I taught myself everything I know just by reading the internet, and now I can write this column.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/stephen-hawking-was-wrong-about-ai-killing-humans-says-robot/",
-      "originalUrl": "https://www.zdnet.com/article/stephen-hawking-was-wrong-about-ai-killing-humans-says-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2015/10/16/5f7074dc-9a8d-4085-b278-7fbcbee1d3d5/dwf15-979587.jpg",
-          "width": 2200,
-          "height": 1595,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/stephen-hawking-was-wrong-about-ai-killing-humans-says-robot/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/stephen-hawking-was-wrong-about-ai-killing-humans-says-robot/",
-      "publishedDateTime": "2020-09-09T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

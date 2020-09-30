@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/amp/"
 type: article
 quality: 78
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -106,6 +106,20 @@ related:
       - url: "https://www.finextra.com/finextra-images/visible_pictures/6983cedd-fb46-4d6a-a131-3b2223f3f858.PNG"
         width: 500
         height: 232
+        isCached: true
+  - title: "Onfido teams up with FinTech Oval Money to boost digital customer verification"
+    excerpt: "Onfido announced a new partnership with FinTech Oval Money in a bid to accelerate and enhance the latter's digital customer verification and registration process."
+    publishedDateTime: 2020-09-30T10:20:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/onfido-teams-up-with-fintech-oval-money-to-boost-digital-customer-verification/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 20
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2020/07/Onfido-logo.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "zsLq8O8EW56auBMLcACjlxe5tYQxGcTa7M32vLvoeZza9zAvAOU5K+Mn26H0DdsAbokx4pGFcMmBR+Micu4VovSQ+XqxaWSWVDF2xT8xFjw+y/ZuxeRpgetmS4crEbswvaQg7BGqgEBV8mvEvKMrL9/BFJXOb9oJpuRxbGvddXeYfl6/geF0KixeKrmHsTlEGQQmAOVtdl5PM4/u5wtiQUtu6a10lKgSDfJ10JFjRL9z/Mj5XAOE+qOrP+63FQqSfE3AbxZ4ZKv3pa1Ps9KHnXY7rSa/Sb3pymLE60cJgHZfPRB030S2UZUdpioJ5ODachtJcYBnYiBY9kmXxVavAwmGD++mXD87TnIgBzZIcPA=;kRT1SThKnBgZeAltMbRvyQ=="

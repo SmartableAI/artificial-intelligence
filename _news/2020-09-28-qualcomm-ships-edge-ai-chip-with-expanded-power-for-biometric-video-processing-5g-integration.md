@@ -25,33 +25,44 @@ images:
     isCached: true
 
 related:
-  - title: "Hot AI Chips To Look Forward To In 2021"
-    excerpt: "Qualcomm has announced their Cloud AI 100 accelerator, and with their experience in developing communications and smartphone technologies"
-    publishedDateTime: 2020-09-29T06:47:00Z
-    webUrl: "https://analyticsindiamag.com/latest-ai-chips-accelerators-2021/"
+  - title: "AI in Computer Vision Market 2020 Latest Advancements and Growth Analysis- Intel, Qualcomm, General Electric, Apple"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Sep 30, 2020 (Market Insight Reports) -- The Global AI in Computer Vision Market Research Report 2020-2027 is a valuable source of insightful data for business strategists."
+    publishedDateTime: 2020-09-30T11:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2020-latest-advancements-and-growth-analysis--intel-qualcomm-general-electric-apple-2020-09-30"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/09/ml-accl-compressed.jpg"
-        width: 1601
-        height: 1201
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "What Can We Expect From AI in 2021?"
-    excerpt: "Artificial Intelligence is a hot topic. What can we expect from AI in 2021? Let's take a look at the applications of Artificial Intellegence."
-    publishedDateTime: 2020-09-27T13:55:00Z
-    webUrl: "https://www.techprevue.com/what-can-we-expect-from-ai/"
+  - title: "The Zacks Analyst Blog Highlights: Intel, Google, Qualcomm, General Motors, Nvidia and Baidu"
+    excerpt: "The low power consumption of Mobileye chips and the ability to create maps for self-driving systems via its Road Experience Management platform helped Intel, which is currently carrying a Zacks Rank #3 (Hold),"
+    publishedDateTime: 2020-09-28T11:34:00Z
+    webUrl: "https://www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-intel-google-qualcomm-general-motors-nvidia-and-baidu"
+    ampWebUrl: "https://www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-intel-google-qualcomm-general-motors-nvidia-and-baidu?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-intel-google-qualcomm-general-motors-nvidia-and-baidu?amp"
     type: article
     provider:
-      name: Waterproof
-      domain: techprevue.com
-    quality: 41
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 58
+  - title: "The question mark over AI and intellectual property"
+    excerpt: "AI is playing a growing role in producing new creations and ideas As it evolves and becomes more autonomous, there are questions over the technology's"
+    publishedDateTime: 2020-09-30T00:59:00Z
+    webUrl: "https://techwireasia.com/2020/09/the-question-mark-over-ai-and-intellectual-property/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
     images:
-      - url: "https://www.techprevue.com/wp-content/uploads/2020/09/what-can-we-expect-from-ai.jpg"
-        width: 1280
-        height: 854
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2020/09/shutterstock_700768720-1024x599.png"
+        width: 1024
+        height: 599
         isCached: true
 
 secured: "OpXCzhnmyPJjhid6/J0DzfIO11RB+s1Ak1q3t9UlrWpZ6W2mlFbjtQRmo4rKi0ianMxdZRSVPy8yGxg4PN0fiLIZhCJoPItX4yd1XHIpTU30kDHK6Qb2VBP8SAeuY+pex38Pcl8QR3CTWlqeGlAylvHw11lE6yG7g50jNJ+82bMERn6M3pszAv6SPqz6Br86zhbdc+lgLH7CYd6pFeWqleu1h/gIAM5i9pAsAnnVY08XNDIaVsbsKAMY2H1FP8iEBwKHXfbEgpOsB1Od8EqI7DS2pzbt+rOg80V74xHa5v2MHrM2Xmtk/hyRYELQDsUTmtvzHmqL1uDzo8LxCVVRpFHAzv6xNvg6OwYkx2s/tD37kouaPE48Pdz4f3xxj53EgYost+tok9354Vo7NBz86f+5WE9Q1BI+iOkVo376m+sFMCPHT3lGDBSiApKj0/a5HaWZjr8VEtxEJEq1mLhBT9+Xlt+xmKj88x1EbUpu9tNxEKxlhI7E+Ms9HVQbpGXfq+/9kAvbrGDWKPHlBVTL2w==;PcSD9Lzt3jOltuqSTazqsA=="

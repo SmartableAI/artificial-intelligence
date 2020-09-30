@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-insights-on-fortified-dairy-products-market-and-forecast-assumptions-2020-09-30</loc>
+    <lastmod>2020-09-30T04:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.zdnet.com/article/will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning/</loc>
+    <lastmod>2020-09-30T04:33:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2020-latest-advancements-and-growth-analysis--intel-qualcomm-general-electric-apple-2020-09-30</loc>
+    <lastmod>2020-09-30T04:07:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://techcrunch.com/2020/09/30/hailo-challenges-intel-and-google-with-its-new-ai-modules-for-edge-devices/</loc>
+    <lastmod>2020-09-30T04:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.openpr.com/news/2147119/abdominal-surgical-robots-market-2020-global-industry</loc>
+    <lastmod>2020-09-30T03:51:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://arstechnica.com/gadgets/2020/09/intel-heidelberg-university-team-up-to-bring-radeon-gpu-support-to-ai/</loc>
+    <lastmod>2020-09-30T03:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.wsj.com/articles/detroit-renews-facial-recognition-contract-11601422598</loc>
     <lastmod>2020-09-29T23:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -175,20 +211,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://analyticsindiamag.com/latest-ai-chips-accelerators-2021/</loc>
-    <lastmod>2020-09-28T23:47:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://inside.com/premium?campaign_id=23010&amp;list_id=64&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
     <lastmod>2020-09-28T23:15:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-to-witness-massive-growth-by-2026-ibm-microsoft-apple-2020-09-29</loc>
-    <lastmod>2020-09-28T23:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -309,6 +333,12 @@
   <url>
     <loc>https://www.cmswire.com/digital-experience/let-ethics-guide-your-use-of-ai/</loc>
     <lastmod>2020-09-28T07:09:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/janakirammsv/2020/09/28/google-cloud-ai-prediction-service-becomes-generally-available/</loc>
+    <lastmod>2020-09-28T06:39:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -943,7 +973,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wsj.com/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460</loc>
+    <loc>https://www.wsj.com/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460?mod=hp_minor_pos14</loc>
     <lastmod>2020-09-23T05:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2085,6 +2115,12 @@
   <url>
     <loc>https://www.realclearscience.com/2020/09/16/ai_ethics_groups_repeating_one_of_society039s_mistakes_292251.html#!</loc>
     <lastmod>2020-09-15T21:43:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.arnnet.com.au/article/682955/oracle-open-sources-java-machine-learning-library/</loc>
+    <lastmod>2020-09-15T19:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

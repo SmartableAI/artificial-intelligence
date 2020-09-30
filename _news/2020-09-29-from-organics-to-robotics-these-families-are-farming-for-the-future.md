@@ -7,7 +7,7 @@ originalUrl: "https://www.irishexaminer.com/lifestyle/people/arid-40056329.html"
 webUrl: "https://www.irishexaminer.com/lifestyle/people/arid-40056329.html"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     width: 600
     height: 338
     isCached: true
-
-related:
-  - title: "Profiting from the Rise of Robotics"
-    excerpt: "O f the many hyper-growth themes emerging today, artificial intelligence (AI) and robotics are among those sure to have the most profound impact on day-to-day life. With that stat"
-    publishedDateTime: 2020-09-25T17:52:00Z
-    webUrl: "https://www.nasdaq.com/articles/profiting-from-the-rise-of-robotics-2020-09-25"
-    ampWebUrl: "https://www.nasdaq.com/articles/profiting-from-the-rise-of-robotics-2020-09-25?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/profiting-from-the-rise-of-robotics-2020-09-25?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 84
 
 secured: "JEuD9jCKaKAffVlrWRpvCTjA+/ojZEjnvEYw+uhYx5jxwzxPS/1WRQ1byc097N4hgnxNXquINxH7ulG4PNjkwa+wfD1oCE15x/JsRM5WhWSSFhB15sMBzG+9GMOerZfcklvyFV2NPe8OWlJ490/gvCBbLjEWjWtdXIQDAJ54DUowbosRCfIAAwkT5XYkiXetRKinVxD4C+eJKF1bTDk504eM+o2C6xMHtQFSY6UviuvLocNmAOlWl8xxYKljokurcXCo3ApNNS9z1y0z4OaTsbHbyjF21BYQzp09NctNRbKKdeOc0fJu/uWQ2DHVcmyAO6OyI3mDzOY4S3yIsNUqO4ZJPRWqJxVjs8dJCWM9WCya9KucWv8u7r0nIFv9pBmlMO9I+SCRkDongxk6B4MygjQfRNdnwd7a0+tMp25A0Zj3Gov8+guYA7BuvOVhRgpIesc+NaSoJ2YXDSAHFzgB04E3x7JO0N2r7SBB9ftIpWphVUg/q362Zt2gJEiBFdgAkh99g9qdmgGg3gObGZl7uQ==;o3/suvyNVUWjZdkugT+Fyg=="
 ---

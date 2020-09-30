@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-30-abdominal-surgical-robots-market.md",
+      "title": "Abdominal Surgical Robots Market",
+      "excerpt": "Abdominal Surgical Robots Market Report provides key measurements ... and solutions that provide high accuracy in a minimally invasive manner backed by artificial intelligence technology. Abdominal surgical robots are the collection of robotic systems ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2147119/abdominal-surgical-robots-market-2020-global-industry",
+      "originalUrl": "https://www.openpr.com/news/2147119/abdominal-surgical-robots-market-2020-global-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/9/T930868104_g.jpg",
+          "width": 576,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2147119/abdominal-surgical-robots-market-2020-global-industry",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2147119/abdominal-surgical-robots-market-2020-global-industry",
+      "publishedDateTime": "2020-09-30T03:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-how-ai-will-revolutionize-manufacturing.md",
       "title": "How AI will revolutionize manufacturing",
       "excerpt": "Ask Stefan Jockusch about what a factory might look like in 10 or 20 years, and the answer might leave you at a crossroads between fascination and bewilderment. Jockusch is vice president for strategy at Siemens Digital Industries Software,",
@@ -1329,48 +1371,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-pandemic-brings-robot-waiters-to-south-korean-restaurants.md",
-      "title": "Pandemic brings robot waiters to South Korean restaurants",
-      "excerpt": "South Korean telecom company KT has partnered with restaurant chain Mad for Garlic on a pilot program using an AI-powered serving robot in Seoul.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/World-News/2020/09/16/Pandemic-brings-robot-waiters-to-South-Korean-restaurants/3561600254093/",
-      "originalUrl": "https://www.upi.com/Top_News/World-News/2020/09/16/Pandemic-brings-robot-waiters-to-South-Korean-restaurants/3561600254093/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/i/3561600254093/2020/1/16002549476790/v1.5/Pandemic-brings-robot-waiters-to-South-Korean-restaurants.jpg",
-          "width": 800,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2020/09/16/Pandemic-brings-robot-waiters-to-South-Korean-restaurants/3561600254093/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/09/16/Pandemic-brings-robot-waiters-to-South-Korean-restaurants/3561600254093/",
-      "publishedDateTime": "2020-09-16T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

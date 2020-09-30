@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/28/facebook-open-sources-rag-an-ai-m
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/28/facebook-open-sources-rag-an-ai-model-that-retrieves-documents-to-answer-questions/amp/"
 type: article
 quality: 83
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook Is Giving Away This Speech Recognition Model For Free"
+    excerpt: "Facebook AI recently introduced and open-sourced wav2vec framework for self-supervised learning of representations from raw audio data."
+    publishedDateTime: 2020-09-30T11:33:00Z
+    webUrl: "https://analyticsindiamag.com/facebook-is-giving-away-this-speech-recognition-model-for-free/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/09/aim_zuck-compressed.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "New Facebook software creates smarter natural language processing models"
     excerpt: "Facebook Inc. has designed a new artificial intelligence framework it says can create more intelligent natural language processing models that generate accurate answers to questions without being constantly retrained."
     publishedDateTime: 2020-09-28T15:18:00Z

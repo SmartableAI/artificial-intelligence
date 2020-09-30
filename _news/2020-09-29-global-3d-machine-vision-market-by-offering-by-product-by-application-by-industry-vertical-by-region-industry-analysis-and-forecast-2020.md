@@ -23,20 +23,31 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Medical Imaging Market to witness Massive Growth by 2026| IBM, Microsoft, Apple"
-    excerpt: "An extensive elaboration of the Global Artificial Intelligence in Medical Imaging market strategy of the industry players in the precision of import/export consumption, supply and demand. The study starts with an introduction about the company/manufacturers profiling stating strategic concept behind business using methods to assess and analyze market."
-    publishedDateTime: 2020-09-29T06:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-to-witness-massive-growth-by-2026-ibm-microsoft-apple-2020-09-29"
+  - title: "Artificial Intelligence (AI) Market Insights on Fortified Dairy Products Market and Forecast Assumptions"
+    excerpt: "Particularly in healthcare, Artificial Intelligence (AI), is expected to bring revolutionary changes in terms of reduction in terms of healthcare cost reduction and quality treatment in the region. This report defines, describe, and forecast the overall ..."
+    publishedDateTime: 2020-09-30T11:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-insights-on-fortified-dairy-products-market-and-forecast-assumptions-2020-09-30"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 66
+    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Retail Market to..."
+    excerpt: "The global artificial intelligence (AI) in retail market size is expected to reach USD 23.32 billion by 2027, exhibiting a CAGR of"
+    publishedDateTime: 2020-09-29T17:12:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/09/g17703278/artificial-intelligence-ai-in-retail-market-to-reach-usd-23-32-billion-by-2027-rising-adoption-for"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17703278"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17703278"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 52
 
 secured: "ja+E7Dlpfd3miMo3YC6UQN9e1GYqeQjJc7anGzeu8eTybFOW/xMvLfJkut7Pc3xhp/8XwUQHM7WFvjtlY/WX1qpDutQMALKPe3TW4AuBRiqa/BIUZgzSv0gchRfXSO2cY+T8PYgFxi1qBcDslm0aznyQH2lH/9VH5xa5Y0zsPXP7EASZUBRuiuepVNotO83Vh7tGzPG2jS+S0OqXbBvAIphlHfOWhKaWgYuB/XrDRsOkemSUKcP4iA8UIi7JSlXLU/kbTm70X+yl3CYwKc+nNcEK39tzjcMMnucfrnJdGIZr7PA/JUQ9lSF9Y8We9DY6xU8ZQ2PqVUZ4yILB+XC/nByq0wioWPhtq9p9iIi0mdM=;e39PVUKEX905dN4legRfpQ=="
 ---
