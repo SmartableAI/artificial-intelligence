@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.wsj.com/articles/detroit-renews-facial-recognition-contract-11601422598</loc>
+    <lastmod>2020-09-29T23:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.ozarksfirst.com/local-news/regional-news/survey-results-missourians-voice-opinions-on-missouri-law-enforcement-training/</loc>
     <lastmod>2020-09-29T21:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -417,12 +423,6 @@
   <url>
     <loc>https://www.medindia.net/news/artificial-intelligence-helps-predict-loneliness-197784-1.htm</loc>
     <lastmod>2020-09-26T21:03:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.beaumontenterprise.com/news/article/Scientists-combat-anti-Semitism-with-artificial-15584227.php</loc>
-    <lastmod>2020-09-26T20:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2101,6 +2101,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.sciencedaily.com/releases/2020/09/200916131103.htm</loc>
+    <lastmod>2020-09-15T17:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://uk.reuters.com/article/uber-selfdriving/update-1-safety-driver-in-fatal-arizona-uber-self-driving-car-crash-charged-with-homicide-idUKL1N2GC2F5</loc>
     <lastmod>2020-09-15T16:22:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2349,6 +2355,12 @@
   <url>
     <loc>https://www.zdnet.com/index.php/category/2184/index.php/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/</loc>
     <lastmod>2020-09-15T02:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-size-top-companies-growth-factors-market-status-and-future-forecasts-to-2027-2020-09-15</loc>
+    <lastmod>2020-09-15T01:39:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

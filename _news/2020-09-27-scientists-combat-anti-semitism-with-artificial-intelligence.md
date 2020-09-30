@@ -9,8 +9,8 @@ ampWebUrl: "https://www.beaumontenterprise.com/news/amp/Scientists-combat-anti-S
 cdnAmpWebUrl: "https://www-beaumontenterprise-com.cdn.ampproject.org/c/s/www.beaumontenterprise.com/news/amp/Scientists-combat-anti-Semitism-with-artificial-15584227.php"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: The Beaumont Enterprise
@@ -41,20 +41,6 @@ related:
       - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/462910"
         width: 640
         height: 428
-        isCached: true
-  - title: "This extraordinary AI has stunned computer scientists with its writing ability"
-    excerpt: "OpenAI, a for-profit company under a nonprofit parent company, has built a language generation program dubbed GPT-3, an acronym for “Generative Pre-trained Transformer 3.” Its ability to learn, summarize,"
-    publishedDateTime: 2020-09-25T14:00:00Z
-    webUrl: "https://www.fastcompany.com/90554974/this-extraordinary-ai-has-stunned-computer-scientists-with-its-writing-ability?ref=hvper.com"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 35
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/09/p-190554974-a-language-generation-programand8217s-ability-to-write-articles-produce-code-and-compose-poetry-has-wowed-scientists.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "MmM4G6z+d/UWfBhojLhe7RUCcWitICtRWdrWIyitzntKRiVh8xlRP10hS7rnWHplb2nLhyli3ZMKaPElQ6GYrSaljPeNx1N/PSmyZ2E4Xg5p8FJi9obn/PwU65qlgnGtEPXVlhhgS5QGxsX+QmDgA8O0CbtKQHXftbuGkMRsc5VFGH4eFzGRs5yj6ZqBCouqP/E+S+Qcmf5XmugsCRSNqW4SSLXsC7zeH/AodQzSmnY5IxGBdphG93lPooo3CPwCgvgpnkMBsMrR85oGIz1WeKZ8HLgyChvEuHLzH7Vq2xC0RjNAciivwb+mGz77Cvb03hm2iSDxUf5/3CCF/bAxSoc2hC2sY3TtrUJldPFYQa0=;X97G1TC2bpBaSHQj/dSd8w=="

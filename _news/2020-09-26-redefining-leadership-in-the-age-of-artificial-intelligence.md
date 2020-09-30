@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "The Promise of Artificial Intelligence"
-    excerpt: "Artificial intelligence and machine learning are increasingly being used to automate critical business functions and support clinicians making complex clinical decisions. As the pandemic challenges healthcare organizations to think innovatively to improve cost effectiveness,"
-    publishedDateTime: 2020-09-25T14:15:00Z
-    webUrl: "https://www.modernhealthcare.com/technology/promise-artificial-intelligence"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/AI%20EC_Thumbnail280.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Getting rid of AI bias"
     excerpt: "Better facial recognition and changing algorithms - how to fight racial bias in AI"
     publishedDateTime: 2020-09-29T04:36:00Z

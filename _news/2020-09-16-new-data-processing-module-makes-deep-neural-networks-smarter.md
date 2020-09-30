@@ -1,29 +1,24 @@
 ---
 category: news
 title: "New data processing module makes deep neural networks smarter"
-excerpt: "Artificial intelligence researchers have improved the performance of deep neural networks by combining feature normalization and feature attention modules into a single module that they call attentive normalization."
-publishedDateTime: 2020-09-16T16:52:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-09/ncsu-ndp091620.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-09/ncsu-ndp091620.php"
+excerpt: "Artificial intelligence researchers at North Carolina State University have improved the performance of deep neural networks by combining feature normalization and feature attention modules into a ..."
+publishedDateTime: 2020-09-16T00:00:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2020/09/200916131103.htm"
+webUrl: "https://www.sciencedaily.com/releases/2020/09/200916131103.htm"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
-    isCached: true
-
-secured: "EpNkaq6T8qCVPGiap99tKVhxRs0oBsSP8BcJYh8p75fUTDo/dljN1sBOfZmTH6ieg/OMW1+Bd/yIndV9xoFGwh/i6U8oLPenBZsUbWz/IrqjrfNXNB38WwgcfZynXa+tigf6lqDGQcdiBFrGEhVf6uUn4OC/177/9+Yvt0b5d1r+4k7IvOJTeTCVZtB8GWLHqEwMQNcc6Gh6JjsNGmEOBeoSjE2wuk7SOphJccbe65io/5YqQliYefuydsosZGEyYJ65BnLOB0w5wosQgf+weoP+IxnR0pfRUGX26nPwj/bYuxx6lKHFXtFoNtN0Cq2tEvZ4lYmsBt+HxLVs4ku7rQsYGNEDwvb0Qc+DyCNU1RE=;uHCwlKXPvgmHBjWNeO2D3w=="
+secured: "kKPdAktMwrpSOWzjyfId0WTGyWr0sbAW6UkNNT56dhmwh3CIuge9I7kLRSy7UjfTW8QGP+oE81Ni0rfrIzt0WJo4diUaRY74RfR6dBuGeFymJrS0nrf6iIjpnzLVlVI5u31AzkSgATF9fYDrbQpNvanElKuE+nsvXy8+xiGQiQj+d1nMhSal8BAHfJUqPWNAe1akx/zQIy3yrjiacSTJY/npvGbjCM1Rn4wiCHoXQAx5byniqH61M0hNAEGHpcU0N/MLuDiGQZDKa/E/Idj5vHHuoERBYCCiLL7+HVi7HB9n08MuBwNeRWJZMYt9NzHc4M1ObmIZ3Aj2is/iJZLP+OL8qcJbcrXIu/q9u9hG29Q=;WWtpieu+j75vOpxwln124g=="
 ---
 

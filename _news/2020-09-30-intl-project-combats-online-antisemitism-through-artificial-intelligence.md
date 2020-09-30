@@ -42,20 +42,6 @@ related:
         width: 375
         height: 211
         isCached: true
-  - title: "This extraordinary AI has stunned computer scientists with its writing ability"
-    excerpt: "OpenAI, a for-profit company under a nonprofit parent company, has built a language generation program dubbed GPT-3, an acronym for “Generative Pre-trained Transformer 3.” Its ability to learn, summarize,"
-    publishedDateTime: 2020-09-25T14:00:00Z
-    webUrl: "https://www.fastcompany.com/90554974/this-extraordinary-ai-has-stunned-computer-scientists-with-its-writing-ability?ref=hvper.com"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 35
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/09/p-190554974-a-language-generation-programand8217s-ability-to-write-articles-produce-code-and-compose-poetry-has-wowed-scientists.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "z61hb9UUhzeoIKjPc8kxsqB08tC2QsqkBmph4awNgt3yg1pxjq/Kx6rVMuZCLSw1d0LWZP+G/RXUo8GcIfvY5IdeJwg+QSaXxA5vXyOuzDNcOHId+V8HWrG3NZgj/HrU50/QqV3NcDVsgBGKBUO3u+gpqQyt3wglb/D+uxtQTiwSTWqMWvKMIdVkKmmGEnSVsV0BMh9at3v9DumnDcMb27JRr0QAEMBUSqYm/mRDibqXdL1AdUKTt8G6EUKT1AjeWOM1lrc1eV66SfmvYuMW4gf03JFx9Rt1oVfxwC2QFMrJhJvX2uQ/bxTAx07gmQjo0v/oHigGQxgHWdBr8dvbOSFvP7/zlSBlqqJWZ7pGlc4jrvjNFbzoFPLG2ilVLohHZgqhDzU63t2YxaMg11X0Sk0PS/0JUukqM90uAQhQzEhb0N7/jfA2ZGgBDf7EoaOwkCR3v4yC+87AHS3el0pweBXChuQmAutr5TtMmPFQ7V49vnh/xH/5PYPvi9MdNQDRzPbWXE71Y3LJ4g0w1Gqbiw==;IkZL9da9wDhw2rnfZjSKTQ=="
 ---

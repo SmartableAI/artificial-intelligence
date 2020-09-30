@@ -41,20 +41,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Edge AI challenges memory technology"
-    excerpt: "With the rise of AI at the edge comes a whole host of new requirements for memory systems. Can today’s memory technologies live up to the stringent"
-    publishedDateTime: 2020-09-25T13:51:00Z
-    webUrl: "https://www.embedded.com/edge-ai-challenges-memory-technology/"
-    type: article
-    provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 39
-    images:
-      - url: "https://www.embedded.com/wp-content/uploads/2020/09/img20200925093009Memory-Technologies-Confront-Edg_5.jpg"
-        width: 300
-        height: 239
-        isCached: true
 
 secured: "TKiJ1kIetJKPa/C38QdgL9KtA4h8gk0MQgS/f+gpDfTxS3FrhgMDUDHqgw+Z05OV40GvL3gxkgFm57DuJQyouz7FI5Tnz9A9FNX3o16WD2Pj8xnyk+sz/U0u1565EuVutNPF1jd6nskiHUgJTxqxDOGkLztApwCQkiQyaI+WFzbILoYNpBI90egqfli2KHR/wK+ZeRd0vLsEJ9a5jLXgG26H4XKJI054wSLaGy+btQYqfuY90xYJ4Z0kS55g3EZqZvJdRZBxgvNKMsfuAyRajqsU/EM3FYB3AzuvhsMnaIHCFOy8c1qGudzD83icfASll9hlGV/Z+H8cB+Hbxkv4jPazIynS8Ox/BsNCqht8mbavTa06ZzLStlvrl8ZTXubw9tPVSY5vrqWfCK1JtALHlGd7m/VXit7cP0xeGB1Pzgas9jUzJvuT39zZ+8FNl/sdArCS3/7XGQyMBVicGVlimO2DRIIWS2BQloK7wP/NRFYEXdwxf7jKRLHleIhkiE+V0JrYvrlK84gE97dHE1V9nA==;Jh0U30ii6gPn5oSaLO6O7g=="
 ---

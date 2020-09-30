@@ -54,20 +54,6 @@ related:
         width: 966
         height: 643
         isCached: true
-  - title: "The Promise of Artificial Intelligence"
-    excerpt: "Artificial intelligence and machine learning are increasingly being used to automate critical business functions and support clinicians making complex clinical decisions. As the pandemic challenges healthcare organizations to think innovatively to improve cost effectiveness,"
-    publishedDateTime: 2020-09-25T14:15:00Z
-    webUrl: "https://www.modernhealthcare.com/technology/promise-artificial-intelligence"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/AI%20EC_Thumbnail280.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "AfAOuzoa3uQJB7szZjBwZHtSKv8kJ8KnyeS6ENITpyr3e5oIBlMLZtFUcrm5VzdR0wIGaCCB442u+FNXFo6TfovYa8bVj4vn4H3T3bvX2hsO+tg10yav3n9FhoTb++L6i4tfsBC+dMf3fwgx0nD0yLeKfL58R1GaS8Xj0uVtvgxIIUdzbZ4vJNo1RshFgMjAFatqhvnvbETuJyIw2gqiktkcZrsBS4FQsqSHXRR83vE41AJQrxD3b+fqvpBQzobNg4mE/AZUJ53R3Qp7TGH/NdvzRJ78aMRLojosMYyo03pgg6WTWpGOlcwibT97yAj6oW1ptd2pFOQNiW+IF0tMvrH5t7lG/iSPIGU8Ust8xt/oheqglO/QvhDCpGxdfoJRFea/TrPJOoGna8/j4ChTCUbfGWTSoX4HXlt7bQQxGM8rQAm4/kCAyojdWWkI3xZFiyf414f4Jo6LS8OHiJvELY5dXOiEMcjl5aah4G3M+GKxAeuRBELGzNjwCEzy5MZ1JkN0iteSR1yzq2aeF7AMFg==;HKwUydrgKetDC1R4eNKOig=="
 ---

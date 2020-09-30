@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.detroitnews.com/amp/3563440001"
 cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/3563440001"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Detroit Renews Facial Recognition Contract"
+    excerpt: "The Detroit City Council voted to renew its police department’s contract with a facial recognition provider, bucking a recent trend of major cities moving to curtail law enforcement’s use of the technology. The body voted 6-3 to renew a “maintenance ..."
+    publishedDateTime: 2020-09-30T06:05:00Z
+    webUrl: "https://www.wsj.com/articles/detroit-renews-facial-recognition-contract-11601422598"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
+    images:
+      - url: "https://images.wsj.net/im-238297/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Detroit City Council votes to extend facial recognition contract, despite controversy"
     excerpt: "Detroit first introduced facial recognition software in 2017. Critics say the software disproportionately misidentifies people of color."
     publishedDateTime: 2020-09-29T21:25:00Z

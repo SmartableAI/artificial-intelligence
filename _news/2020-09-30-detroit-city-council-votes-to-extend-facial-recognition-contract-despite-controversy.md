@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Detroit Renews Facial Recognition Contract"
+    excerpt: "The Detroit City Council voted to renew its police department’s contract with a facial recognition provider, bucking a recent trend of major cities moving to curtail law enforcement’s use of the technology. The body voted 6-3 to renew a “maintenance ..."
+    publishedDateTime: 2020-09-30T06:05:00Z
+    webUrl: "https://www.wsj.com/articles/detroit-renews-facial-recognition-contract-11601422598"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
+    images:
+      - url: "https://images.wsj.net/im-238297/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Detroit council set to vote on facial recognition software contract"
     excerpt: "Detroit — City Council is expected to vote Tuesday on a contract to support the police department's controversial facial recognition software. The measure — to cover costs associated with upgrades and maintenance — is set to return to the council ..."
     publishedDateTime: 2020-09-29T12:25:00Z
