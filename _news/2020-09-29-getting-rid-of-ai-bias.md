@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "On the dynamics of trust in AI"
-    excerpt: "On the dynamics of trust in AI Speakers from NATO Microsoft IBM and Aspen Institute will debate on the future of AI On September 28th at 3 PM CET humanAIze and Data Natives EUvsVirus Operations Lead will host a virtual"
-    publishedDateTime: 2020-09-25T09:19:00Z
-    webUrl: "https://www.openpr.com/news/2142023/on-the-dynamics-of-trust-in-ai"
-    ampWebUrl: "https://www.openpr.com/amp/2142023/on-the-dynamics-of-trust-in-ai"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2142023/on-the-dynamics-of-trust-in-ai"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
-    images:
-      - url: "https://cdn.openpr.com/T/9/T924478775_g.jpg"
-        width: 800
-        height: 420
-        isCached: true
   - title: "Redefining Leadership in the Age of Artificial Intelligence"
     excerpt: "Artificial Intelligence (AI) capabilities have led to a number of innovations including autonomous vehicles, self-driving flights. Some of the AI technologies feature predictions on future and accurate decision-making."
     publishedDateTime: 2020-09-26T08:29:00Z

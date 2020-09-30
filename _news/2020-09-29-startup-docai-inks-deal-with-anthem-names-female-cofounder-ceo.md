@@ -40,6 +40,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Women in AI awards open for entries"
+    excerpt: "The WAI awards Australia 2021 are now open for entries from early stage start-ups founded or co-founded by a woman, with a product in the field. The awards are open across 11 categories and will be overseen by an advisory group including Queensland AI Hub CEO Dr Sue Keay,"
+    publishedDateTime: 2020-09-30T03:39:00Z
+    webUrl: "https://www.spatialsource.com.au/company-industry/women-in-ai-awards-open-for-entries"
+    type: article
+    provider:
+      name: Spatial Source
+      domain: spatialsource.com.au
+    quality: 39
+    images:
+      - url: "https://s3-ap-southeast-1.amazonaws.com/www.spatialsource.com.au/wp-content/uploads/2020/09/30124445/rae-johnston-12-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Prepare.ai Founders & Sponsors Underwrite Entire Costs of 2020 Conference"
     excerpt: "St. Louis-based AI & Tech Conference featuring nationally-known thought-leaders across multiple disciplines will now be free and open to all. ST. LOUIS -- September 28, 2020 -- The 2020 Prepare.ai Conference,"
     publishedDateTime: 2020-09-29T19:12:00Z

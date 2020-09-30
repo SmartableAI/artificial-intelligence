@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.vice.com/en/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban</loc>
+    <lastmod>2020-09-29T14:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.fool.com/investing/2020/09/29/nvidia-and-vmware-partner-to-bring-ai-into-the-mai/</loc>
     <lastmod>2020-09-29T11:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -435,12 +441,6 @@
   <url>
     <loc>https://venturebeat.com/2020/09/25/ai-weekly-amazon-went-wide-with-alexa-now-its-going-deep/</loc>
     <lastmod>2020-09-25T18:59:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.ctpost.com/news/article/Report-LAPD-used-facial-recognition-nearly-15585211.php</loc>
-    <lastmod>2020-09-25T15:49:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1063,12 +1063,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.oaoa.com/news/business/causalens-launches-the-first-causal-ai-platform/article_242e8bb8-7d4a-5ede-89d2-d0fd8636e49b.html</loc>
-    <lastmod>2020-09-22T07:09:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.businesswire.com/news/home/20200922005177/en/DeepCube-Raises-Series-A-Funding-to-Realize-Real-World-Deployments-of-Deep-Learning-on-Edge-Devices-at-Scale</loc>
     <lastmod>2020-09-22T06:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1089,6 +1083,12 @@
   <url>
     <loc>https://venturebeat.com/2020/09/22/deepcubes-software-based-solution-accelerates-ai-on-existing-hardware/</loc>
     <lastmod>2020-09-22T06:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businesswire.com/news/home/20200922005020/en/causaLens-launches-the-first-causal-AI-platform</loc>
+    <lastmod>2020-09-22T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1183,6 +1183,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.asiaone.com/business/global-startup-parcel-perform-collaborates-amazon-web-services-aws-improve-e-commerce</loc>
+    <lastmod>2020-09-21T21:26:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://medium.com/@szabogergo2020/differentiable-argmax-for-tensorflow-2da6ca5d8ae7</loc>
     <lastmod>2020-09-21T21:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1197,12 +1203,6 @@
   <url>
     <loc>https://www.finanzen.net/nachricht/aktien/parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-9317528</loc>
     <lastmod>2020-09-21T18:59:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.finanzen.net/nachricht/aktien/global-startup-parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-9317530</loc>
-    <lastmod>2020-09-21T17:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1797,6 +1797,12 @@
   <url>
     <loc>https://diginomica.com/powering-transition-new-energy-world-eon-ai-and-digitalisation</loc>
     <lastmod>2020-09-17T05:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.bbc.co.uk/news/amp/technology-54175359</loc>
+    <lastmod>2020-09-17T04:26:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

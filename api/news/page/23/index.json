@@ -2,6 +2,58 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-09-10-orchard-raises-69-million-to-develop-machine-learning-for-buying-and-selling-homes.md",
+      "title": "Orchard raises $69 million to develop machine learning for buying and selling homes",
+      "excerpt": "Orchard raised $69 million to continue the development of its machine learning technology that aims to make buying a home less complicated.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/10/orchard-raises-69-million-to-develop-machine-learning-for-buying-and-selling-homes/",
+      "originalUrl": "https://venturebeat.com/2020/09/10/orchard-raises-69-million-to-develop-machine-learning-for-buying-and-selling-homes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/orchard_social-e1599736489458.jpeg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/10/orchard-raises-69-million-to-develop-machine-learning-for-buying-and-selling-homes/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/10/orchard-raises-69-million-to-develop-machine-learning-for-buying-and-selling-homes/amp/",
+      "publishedDateTime": "2020-09-10T04:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-09-10-microsoft-nasscoms-futureskills-to-launch-ai-skilling-initiative-in-india.md",
       "title": "Microsoft, Nasscom’s FutureSkills to launch AI-skilling initiative in India",
       "excerpt": "Microsoft in collaboration with Nasscom’s FutureSkills will launch a nation-wide initiative in India to skill students in Artificial Intelligence. The initiative aims to skill 1 million students by 2021.",
@@ -1069,57 +1121,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-i-have-no-desire-to-wipe-out-humans-robot-writes-in-ominous-op-ed.md",
-      "title": "‘I have no desire to wipe out humans,’ robot writes in ominous op-ed",
-      "excerpt": "OpenAI’s powerful new language generator, saying exactly what a robot intending to destroy humans might say. In an op-ed for The Guardian — yes, robots write op-eds now — GPT-3 was told to write an essay convincing readers that the machines come in peace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/i-have-no-desire-to-wipe-out-humans-robot-writes-in-an-ominous-op-ed-11599675925?siteid=bigcharts&dist=bigcharts",
-      "originalUrl": "https://www.marketwatch.com/story/i-have-no-desire-to-wipe-out-humans-robot-writes-in-an-ominous-op-ed-11599675925?siteid=bigcharts&dist=bigcharts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-230139/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/i-have-no-desire-to-wipe-out-humans-robot-writes-in-an-ominous-op-ed-11599675925",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/i-have-no-desire-to-wipe-out-humans-robot-writes-in-an-ominous-op-ed-11599675925",
-      "publishedDateTime": "2020-09-09T12:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -3,8 +3,8 @@ category: news
 title: "Artificial Intelligence Market – Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020-2026"
 excerpt: "According to a new study published by Polaris Market Research the Global Artificial Intelligence Market is anticipated"
 publishedDateTime: 2020-09-28T12:58:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2026-2020-09-28"
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2026-2020-09-28"
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2026-2020-09-28?tesla=y"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2026-2020-09-28?tesla=y"
 type: article
 quality: 49
 heat: -1
@@ -19,7 +19,7 @@ provider:
       height: 50
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
 
 images:
@@ -169,20 +169,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Platforms Market Size 2020 Industry Share, Demand Status, Recent Development Trends with Top Players and Forecast Analysis"
-    excerpt: "Artificial Intelligence Platforms Market”research provides actionable intelligence on major parameters impacting"
-    publishedDateTime: 2020-09-25T09:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platforms-market-size-2020-industry-share-demand-status-recent-development-trends-with-top-players-and-forecast-analysis-2020-09-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice Recognition Market 2020 with Top Countries Data, Growth Analysis, Applications, Major Drivers, Value and Forecasts till 2026"
     excerpt: "Global “Voice Recognition Market\" 2020 Research Report provides key analysis on the market status of the Voice"
     publishedDateTime: 2020-09-28T08:16:00Z
@@ -228,6 +214,6 @@ related:
         height: 300
         isCached: true
 
-secured: "JvIxeWmyH2IcvG4c8AG8V0oIrUV4Klgfh/BUpGRdCYWCTtNu1pjG9g25L1+GzEl+TpiPsXDrKGLhCwg6wSh4CZc/f5Nu73qLljpJ9GWLsxR/L5NiiOLZHxHaBzU6hY9/ZeeoOzf7Lf64eyF9YAAMG5if5nLHYSH+RGgqfUOlgYu4tvA7eT4mSUcsYgOlMkYS/vlaqTJTNtr57ech12/wS1rxPP/betQe25yWxaSlPNxCf/QZCkw7oIasmNKP0QEStx72si7wPBMP4aY9YJpgFOEXfAFYNgEGLKup8Kvv1ODrj6DMlUIlJnPF04KWQybCcmN1hVn3+eUFwFplMuHcEgK3YI+bju/4a1HdPefxM2A=;JfXlKehXL3waER7wjpUfMg=="
+secured: "Wg9x0Puz0xafQs9Ja4HiN4eubOoo3MIplP1N9IkKvctZj2qx2HnCmb3hciGu/LAGSmmB9ZAdFlJXMqRmV0W6/f4N+lAVEIKSBS80TgM3mJsEEtt5je1Tpf3znoiTlYblS/6ILYb3etnR1YF0Tsc/BN706eXVivqlNB4ORkLbv3ft8nSJMOHWSg0Joouue2q71Pfi5XqHiXMZ83cSP0Q1Dard9nmgT2NIU0BZ6hlBCig9nYfuaw+nlL6HfbPiHS24Ce3X4aUooZFSKjEQUKJwKsekKtQRWr1YyFk/YXxkGynz4dk8KdWhArIJ0T7Y6b49uQ4MXTvty2m46RrvQ584dMZq0cB2lwmTJT2S4K8nYfw=;ozgst6S8deTj08OQfno8Vg=="
 ---
 

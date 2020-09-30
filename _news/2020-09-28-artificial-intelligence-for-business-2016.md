@@ -7,7 +7,7 @@ originalUrl: "https://www.raconteur.net/report/artificial-intelligence-for-busin
 webUrl: "https://www.raconteur.net/report/artificial-intelligence-for-business-2016/page/2"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 829
     height: 588
     isCached: true
-
-related:
-  - title: "How AI can impact and transform business IT operations"
-    excerpt: "In this article, four experts discuss how AI can be used to not only impact, but transform business IT operations"
-    publishedDateTime: 2020-09-25T09:15:00Z
-    webUrl: "https://www.information-age.com/how-ai-can-impact-and-transform-business-it-operations-123491738/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 39
-    images:
-      - url: "https://s27389.pcdn.co/wp-content/uploads/2020/09/humane-ai-requires-regulatory-regime-512x220.jpeg"
-        width: 512
-        height: 220
-        isCached: true
 
 secured: "D8/9wSi03PtCTPsYQERXszRRTURCnpj7vuOA2hzij8b0jEnpqiCNIFD3ySur0g/azE9Bcr0ggufkNkcJ/Qlo97Jd/c2xZ9KUY4g7fnU2/mnlP1lR0LF+Y3Rv1rNgsZCBsrgHz8BxV2EtvdkH4NvvxhM0wrWn85aLPmtfhi5wG0Bmi9RW566JaP2NhVv4CdqhD9aQgq24JL9J0SFlATkVRJRS7J1a3ljGXsT11VEhPmM8HWZR9vHHTq5XwBFwXcrKFmEt03mZGjc4f2C1lRaiR3kED8rZXHqNUypAoMDOCKoomyT0wNw/3LeVI0TwytnH18Z8tRqYeVgiOyAATK0F5Hz6CT4PNIxZiQMqKlTi/mI=;rTnaTO8hEQmNA5V2Msvlaw=="
 ---

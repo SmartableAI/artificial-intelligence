@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Singapore to become first to use facial recognition in national identity scheme"
-    excerpt: "Singapore will be the first country in the world to use facial recognition as part of its national identity scheme. This new technology will"
-    publishedDateTime: 2020-09-26T18:51:00Z
-    webUrl: "https://www.buzz.ie/news/singapore-facial-recognition-in-national-identity-scheme-390534"
-    ampWebUrl: "https://www.buzz.ie/amp/news/singapore-facial-recognition-in-national-identity-scheme-390534"
-    cdnAmpWebUrl: "https://www-buzz-ie.cdn.ampproject.org/c/s/www.buzz.ie/amp/news/singapore-facial-recognition-in-national-identity-scheme-390534"
-    type: article
-    provider:
-      name: buzz.ie
-      domain: buzz.ie
-    quality: 55
-    images:
-      - url: "https://img.resized.co/buzz_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLmJ1enouaWVcXFwvdXBsb2Fkc1xcXC8yMDIwXFxcLzA5XFxcLzI2MTkyMjM2XFxcL1BBLTU1Mzg0OTQ2LTEwMjR4NjgzLmpwZ1wiLFwid2lkdGhcIjo2NDcsXCJoZWlnaHRcIjozNDAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5idXp6LmllXFxcL2lcXFwvbm8taW1hZ2UucG5nXCJ9IiwiaGFzaCI6IjI3NjRmYThhZjlhNWIyOWM5MGI5ZDc1ZmQyYTc4NzY5ZTIxN2I1YjIifQ==/pa-55384946-1024x683.jpg"
-        width: 647
-        height: 340
-        isCached: true
 
 secured: "jLTAmnjZy6cW4cHeOhqJVVy/vZzPtIE5yGObGSxY6l51diPn9EV3QklvONNDV87tCeVnZgMdYr1pOh/bO7QiNt0oEkXoZkA5JqUQzCmZkGgQrkIh82ICJ4oXcheEwPsyj5WFm2wv9FlQBFJqoBL0gE35Frrm97QwN7TDbj5jH57vNZHnQGSprPS4uXJTmxSP2VuFYE+yONe8Xgw+1pZ025tszxGJSS4BCLot3g+vwtlR3hNHM2R9YXOuanBVRlcsBbRBYcw2lA5Ow+ByVZ4FjOvVd2jg28Uj1kZk77lLK/rORcoeEfQ9+6tcMSKue64Fqvq+LQsjCl3yB3gT1xUmNT925ACPNUQBg0PZ5NexrxE=;lQUk55G23DmYSaA6/LP2/Q=="
 ---

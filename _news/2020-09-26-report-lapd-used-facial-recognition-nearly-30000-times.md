@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ctpost.com/news/amp/Report-LAPD-used-facial-recognition-
 cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Report-LAPD-used-facial-recognition-nearly-15585211.php"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: Connecticut Post
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon Spent $24,000 To Kill Portland's Facial Recognition Ban"
+    excerpt: "On Wednesday, Portland lawmakers will vote on what could be the strongest facial recognition ban in the United States. In November 2019, city officials revealed they were crafting legislation that would ban the use of facial recognition technology by both ..."
+    publishedDateTime: 2020-09-29T21:05:00Z
+    webUrl: "https://www.vice.com/en/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban"
+    ampWebUrl: "https://www.vice.com/amp/en_us/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban"
+    type: article
+    provider:
+      name: VICE
+      domain: vice.com
+    quality: 89
+    images:
+      - url: "https://video-images.vice.com//articles/5f592142fafbbe00943f97f5/lede/1599678133842-gettyimages-1220178244.jpeg?crop=1xw:0.8665xh;0xw,0.0392xh"
+        width: 5037
+        height: 2829
+        isCached: true
   - title: "Report: LAPD used facial recognition nearly 30,000 times"
     excerpt: "The Los Angeles Police Department has used facial-recognition software nearly 30,000 times since 2009 even while denying at times that it used the controversial technology at all, the Los Angeles Times reported Monday."
     publishedDateTime: 2020-09-26T19:06:00Z
@@ -59,22 +75,33 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Facebook users in Illinois may qualify for a $400 settlement check after the social media company used facial-recognition technology"
-    excerpt: "This isn't the first time that Facebook has received pushback for its facial-recognition feature. In 2019, Facebook began requiring users to opt-in to use their facial-recognition tool, after the FTC fined the tech giant $5 billion for its role in the the ..."
-    publishedDateTime: 2020-09-25T18:49:00Z
-    webUrl: "https://www.businessinsider.com/facebook-illinois-400-dollar-lawsuit-settlement-check-details-facial-recognition-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/facebook-illinois-400-dollar-lawsuit-settlement-check-details-facial-recognition-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-illinois-400-dollar-lawsuit-settlement-check-details-facial-recognition-2020-9?amp"
+  - title: "Singapore to become first to use facial recognition in national identity scheme"
+    excerpt: "Singapore will be the first country in the world to use facial recognition as part of its national identity scheme. This new technology will"
+    publishedDateTime: 2020-09-26T18:51:00Z
+    webUrl: "https://www.buzz.ie/news/singapore-facial-recognition-in-national-identity-scheme-390534"
+    ampWebUrl: "https://www.buzz.ie/amp/news/singapore-facial-recognition-in-national-identity-scheme-390534"
+    cdnAmpWebUrl: "https://www-buzz-ie.cdn.ampproject.org/c/s/www.buzz.ie/amp/news/singapore-facial-recognition-in-national-identity-scheme-390534"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 43
+      name: buzz.ie
+      domain: buzz.ie
+    quality: 55
     images:
-      - url: "https://i.insider.com/5f4b60247ffa48002894d0aa?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://img.resized.co/buzz_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLmJ1enouaWVcXFwvdXBsb2Fkc1xcXC8yMDIwXFxcLzA5XFxcLzI2MTkyMjM2XFxcL1BBLTU1Mzg0OTQ2LTEwMjR4NjgzLmpwZ1wiLFwid2lkdGhcIjo2NDcsXCJoZWlnaHRcIjozNDAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5idXp6LmllXFxcL2lcXFwvbm8taW1hZ2UucG5nXCJ9IiwiaGFzaCI6IjI3NjRmYThhZjlhNWIyOWM5MGI5ZDc1ZmQyYTc4NzY5ZTIxN2I1YjIifQ==/pa-55384946-1024x683.jpg"
+        width: 647
+        height: 340
         isCached: true
+  - title: "Detroit City Council Passes Facial Recognition Contract For DPD"
+    excerpt: "A controversial topic was put before the Detroit City Council Tuesday. Members voted on a facial recognition contract that opponents call “flawed technology.” CW50’s Cryss Walker tells us what decision was made."
+    publishedDateTime: 2020-09-30T03:24:00Z
+    webUrl: "https://detroit.cbslocal.com/2020/09/29/detroit-city-council-passes-facial-recognition-contract-for-dpd/"
+    ampWebUrl: "https://detroit.cbslocal.com/2020/09/29/detroit-city-council-passes-facial-recognition-contract-for-dpd/amp/"
+    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2020/09/29/detroit-city-council-passes-facial-recognition-contract-for-dpd/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 39
 
 secured: "+ePwz1RNbAgN68BaKYWvCu1oaiIMWsyizvrlhWy5KfNZ2rC6ot9tA5+ULwVUb7aURFZhvucgEXcX4Fx3MWTs6qqDlenRK3ZVPpGwPp8JaOqQvQUTr0lLrsJrlF0Ar6X8gMeCpPu9hbSjCF0jv3E2QFnIj6VEnsKYZqUAYVHsNWJH/kMxFCSu50g2HEY1/s38nNwgmr/J7ZZsFYOFf8sxKtUFQ08yy5TkN6uY92FzKBLZVozghLB6R7KZMsAiIkEmQI7aC/Z75z3B7KOhjqgkr7ap5jHXuwHtv8y4fTB8EAb3rUmpGg3SsY+bsKUg7K/QapSCqbitbE4xuhT5ZtEgacc7AC563p4UYmd2l05cE0M=;ukc9wrFqHL/HfOB+UVTfKw=="
 ---
