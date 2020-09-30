@@ -59,20 +59,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Facial recognition tech used to build SFPD gun case, despite city ban"
-    excerpt: "San Francisco police investigators may have circumvented the city’s ban on facial recognition technology by building a gun case, in part, on facial recognition software used by another law enforcement agency,"
-    publishedDateTime: 2020-09-25T06:08:00Z
-    webUrl: "https://www.houstonchronicle.com/bayarea/article/Facial-recognition-tech-used-to-build-SFPD-gun-15595796.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 39
-    images:
-      - url: "https://s.hdnux.com/photos/73/01/30/15472146/25/rawImage.jpg"
-        width: 2048
-        height: 1349
-        isCached: true
 
 secured: "8Q1ykcdhXKmSu8Rkh/uYV/KRJItSFfHeBn+5xIXX1LefK9IuwkLwbraQ9LXaMijGxZeg6nATEPvc3PJX2XDiv5+WGnWiKcxnDJCfRECX2Y3tSg23wijCXS3JdpR1zQfiaB80gzpd9bySncmMSYNGWfB+8Q/yA8KJ94dyrarRWnhar+1gj7OMY7MwAkG3cBV8tnnnHC03+GE9N1wSGXQY4kbswqnnNGKIDas9MDbqSqWpNafOo4817624W0vy/facYVpOadG7X6pTvrJ5l8kCAfuOYVxr89VgaCC9JsDod5irG5wzAVOle9u8vkw3ZlQQ/+7mwgeP59sguZnLi+4GoI8xXHr7394HnqfLBEkW704=;7TpJOI8W1en4h37h7v8JZA=="
 ---

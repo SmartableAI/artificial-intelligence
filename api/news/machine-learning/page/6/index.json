@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-08-14-how-facebooks-yann-lecun-is-charting-a-path-to-human-level-intelligence.md",
+      "title": "How Facebook’s Yann LeCun is charting a path to human-level intelligence",
+      "excerpt": "Facebook's chief AI scientist Yann LeCun told TNW about the latest work at FAIR, the social network's research lab.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/08/14/how-facebooks-yann-lecun-is-charting-a-path-to-human-level-intelligence/",
+      "originalUrl": "https://thenextweb.com/neural/2020/08/14/how-facebooks-yann-lecun-is-charting-a-path-to-human-level-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-14T190320.489-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/08/14/how-facebooks-yann-lecun-is-charting-a-path-to-human-level-intelligence/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/14/how-facebooks-yann-lecun-is-charting-a-path-to-human-level-intelligence/amp/",
+      "publishedDateTime": "2020-08-14T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-08-14-chip-startup-blaize-debuts-ai-modules-for-machine-learning-at-the-edge.md",
       "title": "Chip startup Blaize debuts AI modules for machine learning at the edge",
       "excerpt": "Venture-backed chip startup Blaize Inc. has introduced three new hardware modules for running artificial intelligence models at so-called edge locations such as factories. The modules, announced on Thursday,",

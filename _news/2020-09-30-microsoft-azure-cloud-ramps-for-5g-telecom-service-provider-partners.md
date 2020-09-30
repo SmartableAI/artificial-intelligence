@@ -242,20 +242,6 @@ related:
         width: 1254
         height: 836
         isCached: true
-  - title: "Top Announcements From Microsoft Ignite 2020 Conference"
-    excerpt: "Microsoft announced a flurry of updates targeting their Azure cloud services. These include healthcare, edge and more."
-    publishedDateTime: 2020-09-25T05:42:00Z
-    webUrl: "https://analyticsindiamag.com/top-announcements-microsoft-ignite-2020/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/09/microsoft-ignite.jpg"
-        width: 1600
-        height: 1200
-        isCached: true
 
 secured: "4SINTlE76bC5bEr2ec/SL3r/gHzG/n19Xhsxie0J8y3hvRStqhZyvTkIPchJPjRexLcajHQBNrRAvNmndEWVffbTy7jERajICMWYMZA7KIK74oqTFvngUfVupJIaL8VXobXno7p0fxTd0+vyKApzv8lDHcqZPZluWCN16/14TN4uvDkI2e5pWgTAe0Pk67TX0PY47QYmZQlehet8C7q+GOACO78FvRKySLb6xYYS77lXPGY6CEw+kLxDw5xcbTF7BCSIg124lBEbBYAHkK9z56vNBTnF2hh950HmNq/LWInJNquhlL+25h07Wlut6R0rwV+K/O28RT7Y9OT6EIwWaI/4csvQi+wJ74RGxJHBLoRyzyeaA9joEzCnFTend94E6+rLHOA10StjwIQg70ZUesFSnM1bOYAqyL7hHhcWMOVTkd/GohUA+2i6MKK/jwQ+A9HOS3U06wFMsIhFCtoygCZkUzCzWlNm7H7lR03kjRAHjjeOpz3LbqT2tU3rB3lFhyxTEfMIKS2tNDpYBsys8A==;Y528VkbypUd+XpWocrbcZQ=="
 ---

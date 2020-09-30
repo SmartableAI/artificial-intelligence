@@ -1,27 +1,27 @@
 ---
 category: news
-title: "AMD To Strongly Benefit From New AI And Gaming Chips From Nvidia And AMD"
-excerpt: "PCIe 4 is increasingly widely adopted by the PC and server industries. With Intel lacking critical PCIe 4 solutions, AMD is set to benefit."
-publishedDateTime: 2020-09-29T14:12:00Z
-originalUrl: "https://seekingalpha.com/article/4376813-amd-to-strongly-benefit-from-new-ai-and-gaming-chips-from-nvidia-and-amd"
-webUrl: "https://seekingalpha.com/article/4376813-amd-to-strongly-benefit-from-new-ai-and-gaming-chips-from-nvidia-and-amd"
+title: "VMware and Nvidia team up to make AI chips easier to use"
+excerpt: "VMware and Nvidia have announced an effort to make VMware's software for managing data centers work better with Nvidia's artificial intelligence (AI) chips."
+publishedDateTime: 2020-09-29T23:50:00Z
+originalUrl: "https://www.arnnet.com.au/article/683359/vmware-nvidia-team-up-make-ai-chips-easier-use/"
+webUrl: "https://www.arnnet.com.au/article/683359/vmware-nvidia-team-up-make-ai-chips-easier-use/"
 type: article
-quality: 53
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Seeking Alpha
-  domain: seekingalpha.com
+  name: ARN
+  domain: arnnet.com.au
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://static3.seekingalpha.com/uploads/2020/9/28/9110881-16013140249302285.jpg"
-    width: 640
-    height: 441
+  - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/vmware_1.jpg"
+    width: 651
+    height: 455
     isCached: true
 
 related:
@@ -68,19 +68,19 @@ related:
         width: 748
         height: 471
         isCached: true
-  - title: "VMware and Nvidia team up to make AI chips easier to use"
-    excerpt: "VMware and Nvidia have announced an effort to make VMware's software for managing data centers work better with Nvidia's artificial intelligence (AI) chips."
-    publishedDateTime: 2020-09-29T23:50:00Z
-    webUrl: "https://www.arnnet.com.au/article/683359/vmware-nvidia-team-up-make-ai-chips-easier-use/"
+  - title: "AMD To Strongly Benefit From New AI And Gaming Chips From Nvidia And AMD"
+    excerpt: "PCIe 4 is increasingly widely adopted by the PC and server industries. With Intel lacking critical PCIe 4 solutions, AMD is set to benefit."
+    publishedDateTime: 2020-09-29T14:12:00Z
+    webUrl: "https://seekingalpha.com/article/4376813-amd-to-strongly-benefit-from-new-ai-and-gaming-chips-from-nvidia-and-amd"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 54
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 53
     images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/vmware_1.jpg"
-        width: 651
-        height: 455
+      - url: "https://static3.seekingalpha.com/uploads/2020/9/28/9110881-16013140249302285.jpg"
+        width: 640
+        height: 441
         isCached: true
   - title: "Nvidia NGC To Supercharge AI On VMware Cloud, vSphere And Tanzu"
     excerpt: "Nvidia NGC will be integrated into VMware Cloud Foundation, vSphere and Tanzu to simplify the deployment of AI applications in enterprises, the two companies announced at VMworld 2020."
@@ -129,6 +129,6 @@ related:
       domain: morningstar.com
     quality: 7
 
-secured: "YuQs1LLld+tbXM8pSdrAztCyzW74o/U5hIhkLhnIQhtLJk5/EBrDopf33BzDLTiJOtehvUo8f0DA53KVkT8ID7gqB79B1VGSOFvu/lKu9KUmoMfp7G+v5VOVkGDP/FtUIe8GfCdl7jcQW1TjujjPh7PfMQlDzRSxgrvNOyYVZ7+HOZWdPWIkgJ1ROREbwTDoU0iXm5G9IRlSccElbwk3WvT7OYv5x9DYy5K9wbBXXTh+kvopMUri6uaFNizLEwILKOV65FFTkR3aV/enQaONCyRvPHMCdjkdYzI5YTIoPDCJLkT8eLe28UH3jLlvGsI7tUq3QF50HdV1VZ+vJx2/Lzj2nsbmQdtK+4ljWVvRAEzhup/HPLHakGnYX3E46UCwh8R6KIaJKb9zM/mSf2xUKhXXpjN39YJJLmPRFX48CY9r3Qd8/tkjgY3ji97NxvGAwil68wDJFTcHERxS+FfRzyV3y+qiDQPzXbSAPRGEdRbmDB93iWQVKbg+sHYKxMYYwVbuCaJbFXiezloMWD3jhw==;AXSD7ol0iNqbnb+3q9yiHQ=="
+secured: "SM9p8D3Wl1i1ywzbuZHB84ETgUxzZJA/NyQrbjn4cerBJhQ6WYMHEAhCTSgLJbHmY6/GWBqgW+LVo6AzSZYtDkXRwabtxcDMCikTEbqIGA7b1pN317E+O+LA8SoaYpgUH2h+N6tL8+diRppa7znPvosZrlMy3vZEaHxgMK+Z1GmBx/IBU5NZ1aFbYhV1T/N2nCsoyuOvuy5ezRMjfcAaO8ZByhIxfAu8jp9BzhgswCddVHM/+duav1QJNg+d93h1gXiKDI9t6+bqqJdlvLtOjENUklEWwm0gqiTUP3Q/AqbW0aPm427p5E/1pGEPpYlbNGWzoBK9x5bEgicXtYBtDi2n8RU5Yu1ixim5//1jq+Y=;yuXjszkd59WRPFgXTykWLw=="
 ---
 

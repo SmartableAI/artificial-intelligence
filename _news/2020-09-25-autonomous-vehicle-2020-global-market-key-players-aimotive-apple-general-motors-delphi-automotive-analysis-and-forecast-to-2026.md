@@ -128,7 +128,7 @@ related:
   - title: "Global Artificial Intelligence Market By Business Growth, Trend, Segmentation, Top Key Players, Revenue and Industry Expansion Forecast Report"
     excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
     publishedDateTime: 2020-09-28T14:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-by-business-growth-trend-segmentation-top-key-players-revenue-and-industry-expansion-forecast-report-2020-09-28"
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-by-business-growth-trend-segmentation-top-key-players-revenue-and-industry-expansion-forecast-report-2020-09-28?mod=mw_quote_news"
     type: article
     provider:
       name: MarketWatch

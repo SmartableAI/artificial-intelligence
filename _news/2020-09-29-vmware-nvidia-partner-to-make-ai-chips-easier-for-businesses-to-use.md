@@ -57,6 +57,20 @@ related:
         width: 748
         height: 471
         isCached: true
+  - title: "VMware and Nvidia team up to make AI chips easier to use"
+    excerpt: "VMware and Nvidia have announced an effort to make VMware's software for managing data centers work better with Nvidia's artificial intelligence (AI) chips."
+    publishedDateTime: 2020-09-29T23:50:00Z
+    webUrl: "https://www.arnnet.com.au/article/683359/vmware-nvidia-team-up-make-ai-chips-easier-use/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 54
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/vmware_1.jpg"
+        width: 651
+        height: 455
+        isCached: true
   - title: "AMD To Strongly Benefit From New AI And Gaming Chips From Nvidia And AMD"
     excerpt: "PCIe 4 is increasingly widely adopted by the PC and server industries. With Intel lacking critical PCIe 4 solutions, AMD is set to benefit."
     publishedDateTime: 2020-09-29T14:12:00Z
@@ -98,20 +112,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/NVIDIACEOfounderJensenHuang_VMwareCEOPatGelsinger_VMworld2020.jpg"
         width: 2000
         height: 1115
-        isCached: true
-  - title: "Boldly go into the future using artificial intelligence"
-    excerpt: "A few years ago, whenever anyone mentioned Big Data, Artificial Intelligence (AI), or Machine Learning, I always thought of Data from Star Trek: The Next Generation. You remember him? Data was a sentient being with gold eyes and deathly pale skin-wrapped super-processing computer."
-    publishedDateTime: 2020-09-25T07:00:00Z
-    webUrl: "https://www.cuinsight.com/boldly-go-into-the-future-using-artificial-intelligence.html"
-    type: article
-    provider:
-      name: Credit Union Insight
-      domain: cuinsight.com
-    quality: 37
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2020/09/bigstock-London-England-St-338487421.jpg"
-        width: 1000
-        height: 500
         isCached: true
   - title: "VMware announces Nvidia AI tie-up, Carbon Black-based security solutions"
     excerpt: "VMware (VMW +1.0%) has a slate of announcements coming out of today's VMworld event.VMW is partnering with Nvidia (NASDAQ:NVDA) to make its data center management software work better with AI chips."

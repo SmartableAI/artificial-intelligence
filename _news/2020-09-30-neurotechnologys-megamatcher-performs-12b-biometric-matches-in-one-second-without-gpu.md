@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-29T21:11:00Z
 originalUrl: "https://www.biometricupdate.com/202009/neurotechnologys-megamatcher-performs-1-2b-biometric-matches-in-one-second-without-gpu"
 webUrl: "https://www.biometricupdate.com/202009/neurotechnologys-megamatcher-performs-1-2b-biometric-matches-in-one-second-without-gpu"
 type: article
-quality: 31
-heat: 31
+quality: 33
+heat: 33
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Computer Vision
 
 images:
   - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/09170452/multimodal-biometrics.jpg"
@@ -24,6 +25,6 @@ images:
     height: 455
     isCached: true
 
-secured: "lCNJaX3i9sXKw716my0Jz6Cndhcx/lKBVFre5eWj5Xge1nHZrFUOr0ZsSeIINBMkzDu75Hf9k3EtfReDSAak38cOU/gjhk7KruvXn41L9a0yVqrW8dJuPEUKFx0lIlNC3JBEG9DuGN8sG7i1RIvEHy/H74a0R3yrAxHBOYUcUxLSLMyYag+w3o8mN72nj3ajko3Yk1W2PXirAZsxeCNHwJfqzw63Tvi56rDvN9SIMEXW1tiQduIjtGnL2usnKyT7S3KOWfCeC4TOrBKTw2lxQ0XyZ5agcFzHmg4VkVOkahAIfz7aVHZLAgr0AGbxD03y5eBNegwBhuZq3VdOefk0+lHwTQhlT4QPFrq4qNU9MtE=;oeZu4wQpIOswRT9NGgvAYw=="
+secured: "XDELq0i1hiSOGVFzyaNk4T0EumAxwdzyd0MLuPlrtzozIuoVCC820AJ7OrU2XDYwL+rvg5olRCxLBXP1aiNo137qW7dj7bcu29Iw5zfsgR77FPVJB4jcivpSst9KP1pan7CPZhnXMlAlsKtrucNnY7h3VwnT2y/VtVWDEWiBA4a7R3GowZ38mcwdV2Itxo63PgshCwE1glHcHmBo8YlVlGzMdEvzQS2+hKdh3y6MexgZ03VvsLs1UbY+n85BFPULCOksrud9xvuoyTQw9CN5e+tlO3nTBP2240Hvq3XoQ9FE2HZlDX5SAXyfiYSUdDD3nMgPMWZ8VWomijJXArmvLJg5TxuZIXiSDHW+6102UrsW1tdsMS1DukDOX5V7dpaDONTiVIi0v4dRueCJRu5KlPBdwQASgtmbccoPtlKiDQh9Dm/jfnATE1oMvpPgIRQK+ZJtYVGVp/NZsoLmGFEQ1p3TJT0mzv4p9p6aZHR7aS4L1g9VrrvSfOCj9mr0IWZLWcEPaRoRconrKbOm7QvO+g==;1pSyI/43b9TS7wuZTF7H/Q=="
 ---
 

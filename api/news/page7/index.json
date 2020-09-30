@@ -1122,48 +1122,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-22-dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace.md",
-      "title": "dotData Now Supports Microsoft Azure Deployment and Is Available on Microsoft Azure Marketplace",
-      "excerpt": "In addition, dotData has added Microsoft SQL Server and Azure SQL Database connectors which allows users to quickly and easily develop AI/ML models based on data stored in their corporate databases. By choosing the \"Transact\" option on the dotData ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-301135412.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-301135412.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-22-self-driving-cars-versus-the-most-dangerous-driving-month-of-the-year.md",
       "title": "Self-Driving Cars Versus The Most Dangerous Driving Month Of The Year",
       "excerpt": "Bottom-line is to please be extra careful when driving during September. One future aspect to consider involves the gradual advent of AI-based true self-driving cars. This raises an intriguing question: Will the emergence of AI-based true self-driving cars ...",
@@ -1211,6 +1169,56 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-this-ai-powered-app-lets-you-say-goodbye-to-background-noise-during-video-calls-once-and-for-all.md",
+      "title": "This AI-Powered App Lets You Say Goodbye to Background Noise During Video Calls Once and for All",
+      "excerpt": "Disclosure: Our goal is to feature products and services that we think you'll find interesting and useful. If you purchase them, Entrepreneur may get a small share of the revenue from the sale from our commerce partners. With so many people working from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/356406",
+      "originalUrl": "https://www.entrepreneur.com/article/356406",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1600451525-krispimage4featuredimage.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/356406",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356406",
+      "publishedDateTime": "2020-09-22T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

@@ -56,7 +56,7 @@ related:
   - title: "SoftBank Robotics America Announces Whiz Connect Automation Analytics Software as Part of Robotics-as-a-Service Solution"
     excerpt: "Whiz Connect centralizes the Whiz automation portfolio in a single dashboard and empowers occupant health and wellness through continuous collection analytics and operational efficiency."
     publishedDateTime: 2020-09-29T18:18:00Z
-    webUrl: "https://www.roboticstomorrow.com/content.php?post=15764"
+    webUrl: "https://www.roboticstomorrow.com/news/2020/09/29/softbank-robotics-america-announces-whiz-connect-automation-analytics-software-as-part-of-robotics-as-a-service-solution-/15764/"
     type: article
     provider:
       name: Robotics Tomorrow

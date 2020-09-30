@@ -7,7 +7,7 @@ originalUrl: "https://www.cmswire.com/collaboration-productivity/5-microsoft-tea
 webUrl: "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/5-new-ways-to-boost-productivity-with-enhanced-teams-power/ba-p/1680697"
 type: article
 quality: 139
-heat: 309
+heat: 299
 published: true
 
 provider:
@@ -233,20 +233,6 @@ related:
       - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2020/03/iStock-458544341_dqOApoY.jpg"
         width: 1254
         height: 836
-        isCached: true
-  - title: "Top Announcements From Microsoft Ignite 2020 Conference"
-    excerpt: "Microsoft announced a flurry of updates targeting their Azure cloud services. These include healthcare, edge and more."
-    publishedDateTime: 2020-09-25T05:42:00Z
-    webUrl: "https://analyticsindiamag.com/top-announcements-microsoft-ignite-2020/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/09/microsoft-ignite.jpg"
-        width: 1600
-        height: 1200
         isCached: true
   - title: "Microsoft Azure Cloud Ramps for 5G Telecom Service Provider Partners"
     excerpt: "Microsoft Azure for Operators helps partners & telecommunications service providers (TSPs) roll out 5G networks and deliver new cloud-based services, Microsoft says."

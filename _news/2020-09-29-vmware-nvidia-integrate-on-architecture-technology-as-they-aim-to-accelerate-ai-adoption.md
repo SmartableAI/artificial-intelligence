@@ -57,6 +57,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 84
+  - title: "VMware and Nvidia team up to make AI chips easier to use"
+    excerpt: "VMware and Nvidia have announced an effort to make VMware's software for managing data centers work better with Nvidia's artificial intelligence (AI) chips."
+    publishedDateTime: 2020-09-29T23:50:00Z
+    webUrl: "https://www.arnnet.com.au/article/683359/vmware-nvidia-team-up-make-ai-chips-easier-use/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 54
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/vmware_1.jpg"
+        width: 651
+        height: 455
+        isCached: true
   - title: "AMD To Strongly Benefit From New AI And Gaming Chips From Nvidia And AMD"
     excerpt: "PCIe 4 is increasingly widely adopted by the PC and server industries. With Intel lacking critical PCIe 4 solutions, AMD is set to benefit."
     publishedDateTime: 2020-09-29T14:12:00Z
@@ -99,20 +113,6 @@ related:
         width: 2000
         height: 1115
         isCached: true
-  - title: "Boldly go into the future using artificial intelligence"
-    excerpt: "A few years ago, whenever anyone mentioned Big Data, Artificial Intelligence (AI), or Machine Learning, I always thought of Data from Star Trek: The Next Generation. You remember him? Data was a sentient being with gold eyes and deathly pale skin-wrapped super-processing computer."
-    publishedDateTime: 2020-09-25T07:00:00Z
-    webUrl: "https://www.cuinsight.com/boldly-go-into-the-future-using-artificial-intelligence.html"
-    type: article
-    provider:
-      name: Credit Union Insight
-      domain: cuinsight.com
-    quality: 37
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2020/09/bigstock-London-England-St-338487421.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "VMware announces Nvidia AI tie-up, Carbon Black-based security solutions"
     excerpt: "VMware (VMW +1.0%) has a slate of announcements coming out of today's VMworld event.VMW is partnering with Nvidia (NASDAQ:NVDA) to make its data center management software work better with AI chips."
     publishedDateTime: 2020-09-29T14:23:00Z
@@ -132,6 +132,6 @@ related:
       domain: morningstar.com
     quality: 7
 
-secured: "dR+xao0B3mX/U9z4at2+96hnxcpO9JVLoIBeHtMrY/0divrWTIaMhmyWAbYvD0hWRSAh/Zji97Mr3159WhGEUdhNlzZ/7FHk4rZ0QEc2HwOgGhQHFnIaKRQD5cSnzkxJkIbsz2wWIFO7FXkCueBMhLwWDTeJuz63ZnBr+TV2s0iKPXZog1otMniFNNSjIFHz7P44PzNUDBE+lOMVV68PAgX6KUEQ714QrF+4wLBNSFsMeGGleXsNQq8pYwME2qMwb/L/eR0aMsMjG+gegS9fAhHxwa/epxpybxwphHfDOn/PAvk19gr3/y5kjKkvI1uaDFHLj02HShPd4Jaa+3/RR/wkTP75psABLtR634Idw+Q=;OBeKtdOUs3udhnphdunJ1g=="
+secured: "Q2gpNJFG982TJURBZ08k3mV6cvGbmAJw+cGj9WkCvsQeoaFsGA8qFBa8D3ZffxV8PSwXTo5HmyJ7oyWioFfUZy4Gx74oyTgAQDPUvf/i8pIcHhz8t1ngzecOQdFQvLDBvaM7QReciPZv4XTyV9Id6/VW0rZ9CjUTzYMAokQSPxNpkexu2HVZNMDDqlix1FkMr93jew6IBMcZgiB5D14KrAPqlH6sYAfXbPiE02Ee6u8kRNTRV0oVjuenI1zYEYsMdSP29bgoE2+9X29DPtAEUmrs1eU8JIZb2FfxVqh09Bc1olp6s/h7TQfG2WEabZBlwuvRTcVgu5ZqXbc3uw1Iwq7Ik+gwxxvssn1dR2aDbztnP3ktlHAAyx1l2MHtNdBwbUJPwjyCJuXCRDTTYAyoBrov6ty1Snv11o4ILl+7iKvbrB6ECFZyFN6MNHQIIskqhga7VJARpxuQq01DdszshsiDQS1Mhxpd+iIrjjR0Rfy5FRgFnj1EdxFVP3JtmReMziCbL0pP3q4DYcf8cZYQ3w==;qAiUj+6TNaAFBjQ0oXP3mQ=="
 ---
 

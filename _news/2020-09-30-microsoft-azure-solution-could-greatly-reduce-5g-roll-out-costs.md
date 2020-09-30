@@ -234,20 +234,6 @@ related:
         width: 1254
         height: 836
         isCached: true
-  - title: "Top Announcements From Microsoft Ignite 2020 Conference"
-    excerpt: "Microsoft announced a flurry of updates targeting their Azure cloud services. These include healthcare, edge and more."
-    publishedDateTime: 2020-09-25T05:42:00Z
-    webUrl: "https://analyticsindiamag.com/top-announcements-microsoft-ignite-2020/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/09/microsoft-ignite.jpg"
-        width: 1600
-        height: 1200
-        isCached: true
   - title: "Microsoft Azure Cloud Ramps for 5G Telecom Service Provider Partners"
     excerpt: "Microsoft Azure for Operators helps partners & telecommunications service providers (TSPs) roll out 5G networks and deliver new cloud-based services, Microsoft says."
     publishedDateTime: 2020-09-29T17:21:00Z
@@ -258,6 +244,6 @@ related:
       domain: channele2e.com
     quality: 34
 
-secured: "DHaFk9JJXgWOJ7WsVLo+STcy7EDnYMfusCMLqcE3FeyEX2DcfiNTNWqkiD9pOUYeS3r+Z0spUOQKsozFSKwMWRMBSlgkrIamjfnN5nXtJeVpIL1CtnPPRvofgJf0rdTFR+ZD6FARiQqz3X79bMKgvp4Eti1RAdEgD+VQ8IYB4pYTnpReYAcff+HipdJWO3t1CDNlfG6JW9nBjo2nk7YGGSJFi46AQJ2BaX2d2ECvKjqym1sd7UMvPhSHPJm6GoJXZmAJmWN6d70SSlIaTzRDGEpaND7dvn+Bb1+tgw4FXildIII4RWdLzwSKVrHYlo0mhQ2GOT4mLOSR+8KfY45IMFXtIZcfT1YAOpR2Z3Kq3hQ=;v8/E9IbFiPh+u2naScUlNQ=="
+secured: "r3R5JN69+CD3skZmHTOY1ZtOTNvZil7txojMonERgm/4PiLOFKBuzak+cfdR6ljUaz5ubIV/16dxAXdP1LN0/ph82vSL3GwFaaXPg1I51sfJcdiJK5Hwr1YUsmS6QNGBw20VqnThEVzSA7lLuYkNidH+geTFZIIyheS/PcVaLln+F5qd0H6xKAddBuNtqjxhprS3+NzxbJ2cfGH6tJzXdCfWpu1z5S7PlQc9rWg6CbdSrgzAWzAcOcqGS2MMas88nDM98HYjrFwCDYvciC26/F0PEFreFxpWqp6a8IoN2OcdScUs7isS+RI8lOuaXxn4C055yHM7O5jOYe6H9w+2Q6frNdooyvnKhrhHVyLIF+E7XiuO1zmZme1cf5gMmPtjjdvQbROiCuyqmX8htKZWD81iHMB4BferAFL1MrI6GYzU8GLSTwCd6dzx71Yf+X1lSKb5mAhwbPaaR0FlEFKt9dmtMcp0h49VHV9iSEVyy1eO6uyg94hZB6WAsU6keFslRxy+g1zLWLNtjtj11fM0Eg==;dfzxXY2AA+C6YorrKON0wA=="
 ---
 
