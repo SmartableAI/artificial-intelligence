@@ -2,6 +2,99 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-21-heres-the-smallest-aiml-supercomputer-ever.md",
+      "title": "Here's the smallest AI/ML supercomputer ever",
+      "excerpt": "The vector processor, with advanced pipelining, is a technology that proved itself long ago,” wrote Robbert Emery, who is responsible for commercializing NEC Corporation’s advanced technologies in HPC and AI/ML platform solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/uk/news/heres-the-smallest-aiml-supercomputer-ever",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/q8a4w5iETy5tBB4KkqL5EU-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/uk/amp/news/heres-the-smallest-aiml-supercomputer-ever",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/heres-the-smallest-aiml-supercomputer-ever",
+      "publishedDateTime": "2020-08-21T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-21-reinforcement-learning-market-to-see-massive-growth-by-2025-bonsai-deepmind-technologies-maluuba.md",
+      "title": "Reinforcement Learning Market to See Massive Growth by 2025 | Bonsai, Deepmind Technologies, Maluuba",
+      "excerpt": "Global Reinforcement Learning Market Report from AMA Research highlights deep analysis on market characteristics, sizing, estimates and growth by segmentation, regional breakdowns & country along with competitive landscape, players market shares, and ...",
+      "sourceUrl": null,
+      "webUrl": "https://ipsnews.net/business/2020/08/21/reinforcement-learning-market-to-see-massive-growth-by-2025-bonsai-deepmind-technologies-maluuba/",
+      "originalUrl": "https://ipsnews.net/business/2020/08/21/reinforcement-learning-market-to-see-massive-growth-by-2025-bonsai-deepmind-technologies-maluuba/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icrowdnewswire.com/wp-content/uploads/2020/08/824-1597987804.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-20T23:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inter Press Service",
+        "domain": "ipsnews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-19-solving-drams-row-hammer-problem-using-vertical-epitaxial-transistors.md",
       "title": "Solving DRAM’s Row Hammer Problem Using Vertical Epitaxial Transistors",
       "excerpt": "Initiatives like TensorFlow Lite for Microcontrollers and TinyML help make such advantages realizable. However, as the pace of bringing AI to the embedded edge picks up, what’s emerged is the ...",

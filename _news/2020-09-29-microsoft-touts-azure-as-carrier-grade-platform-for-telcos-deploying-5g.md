@@ -66,6 +66,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
+  - title: "Microsoft unveils Azure for Operators to unlock 5G potential"
+    excerpt: "Microsoft has announced a new cloud platform called Azure for Operators that has been designed to help telecommunications operators unlock the full potential of 5G. The new offering will help communication service providers create new opportunities and provide core infrastructure,"
+    publishedDateTime: 2020-09-30T11:08:00Z
+    webUrl: "https://www.itpro.co.uk/mobile/5g/357287/microsoft-unveils-azure-for-operators-to-unlock-5g-potential"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 84
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/v1570816662/itpro/2018/08/5g_shutterstock_750428755.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Microsoft Azure Solution Could Greatly Reduce 5G Roll-Out Costs"
     excerpt: "Microsoft has revealed a new cloud solution, built on its Azure platform and meant to bolster 5G rollouts nationwide. That's according to recent reports"
     publishedDateTime: 2020-09-29T21:51:00Z
@@ -165,20 +179,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft unveils Azure for Operators to unlock 5G potential"
-    excerpt: "Microsoft has announced a new cloud platform called Azure for Operators that has been designed to help telecommunications operators unlock the full potential of 5G.  The new offering will help communication service providers create new opportunities and provide core infrastructure,"
-    publishedDateTime: 2020-09-30T11:45:00Z
-    webUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/8768/microsoft-unveils-azure-for-operators-to-unlock-5g-potential"
-    type: article
-    provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
-    quality: 54
-    images:
-      - url: "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2019/01/5g-speed-o2-future-of-people.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Microsoft unveils a new AI-powered tool for spotting deepfaked images and videos"
     excerpt: "The tool was announced as part of Microsoft's effort to help prevent election interference in the form of digital manipulation."
     publishedDateTime: 2020-09-26T16:08:00Z
@@ -246,6 +246,20 @@ related:
       name: ChannelE2E
       domain: channele2e.com
     quality: 34
+  - title: "Andor Health Collaborates with Mentor to Deliver Next Generation, AI-Powered Virtual Experiences with Microsoft Technology"
+    excerpt: "Andor Health Collaborates with Mentor to Deliver Next Generation, AI-Powered Virtual Experiences with Microsoft Technology"
+    publishedDateTime: 2020-09-30T13:30:00Z
+    webUrl: "https://www.finanzen.net/nachricht/aktien/andor-health-collaborates-with-mentor-to-deliver-next-generation-ai-powered-virtual-experiences-with-microsoft-technology-9347090"
+    type: article
+    provider:
+      name: Finanzen
+      domain: finanzen.net
+    quality: 28
+    images:
+      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "56Ct3FaCFOyRQPWWs5Y6/PwmQScfwtcwViekRwEpqOJ2/HGseMZ8DjDwz/6bew8DMZbnkD5zcQrZfvd/EPCTgy6rknxPtmnHZ0PR3MFk6NR2j1WkIQSZq1CpEEae/A5Q5F2Ip51EQ/HOUXkzXFnyCdTFI/feGIYWy8pGo+D94X0MnemWMsPzrQRFZBpD4iQ6sV6heW8VWGVBGaHYqWRgvt9sSLJWaVlr5s4qOEue9OwsKlNnLjMUZ5MZdY9UV+6G6nAjC1YchsvlB/35VqiB3941J2TTrAybevp4ZtNEH0GwhHyl7Gy8F4f3dmJy8iikir0RBs2wUadgqDqEJXfkpnrUb41lR3Vdu1rcUJ6TKpBLT/zi0ItU/sNNYOVsQg1xj1R2BfHOx8dQVCNwTCy0F27+1HdSMGdU7RSnY4ZtLNB1N5g2AHMzhQAPWqtnsaiw3E6Lv+sa+2zKSNnZFx01DDLlly2pMwxSo0B2ogYBooBSTI5poVuiiwLDi4MGkUe/DK4CbsIqI9uynVvoGP/2BA==;RN+Jc6rKRz87x5Qsc33ZMQ=="
 ---

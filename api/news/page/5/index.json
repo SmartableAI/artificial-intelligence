@@ -2,6 +2,303 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-25-watson-aiops-is-now-updated-with-new-features.md",
+      "title": "Watson AIOps is now updated with new features",
+      "excerpt": "We have brought Netcool capabilities into Watson AIOps In July, we announced that we were bringing the superb event management, topology and predictive insights capabilities from OMNIbus/Netcool into Watson AIOps. I’m happy to announce that the Watson AIOps is now updated with these new capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/09/watson-aiops-is-now-updated-with-new-features/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/09/watson-aiops-is-now-updated-with-new-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/09/Watson-AIOps-image-for-9-25-blog_v2-1.jpg",
+          "width": 2010,
+          "height": 886,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-25T05:11:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-aiera-ceo-on-companys-machine-learning-platform-benefits-of-ai-investing.md",
+      "title": "Aiera CEO on company's machine learning platform, benefits of AI investing",
+      "excerpt": "Ken Sena, cofounder and CEO at Aiera, on the benefits of AI investing, highlighting the company's machine learning platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2020/09/25/aiera-ceo-on-companys-machine-learning-platform-benefits-of-ai-investing.html",
+      "originalUrl": "https://www.cnbc.com/video/2020/09/25/aiera-ceo-on-companys-machine-learning-platform-benefits-of-ai-investing.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106717211-16010328336ED2-REQ-092520-WEX-SenaAlTech.jpg?v=1601032832",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-25T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-follow-the-leader-a-shortcut-to-autonomous-trucking.md",
+      "title": "Follow-the-leader: A shortcut to autonomous trucking",
+      "excerpt": "A company spun out of a prestigious university robotics lab is making a big leap in autonomous trucking. Locomation is claiming the world's first autonomous truck purchase order from a Springfield, MO,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/follow-the-leader-a-shortcut-to-autonomous-trucking/",
+      "originalUrl": "https://www.zdnet.com/article/follow-the-leader-a-shortcut-to-autonomous-trucking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/09/25/3f827e13-f829-4223-8f2a-cdd96e9c9a88/locomation.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/follow-the-leader-a-shortcut-to-autonomous-trucking/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/follow-the-leader-a-shortcut-to-autonomous-trucking/",
+      "publishedDateTime": "2020-09-25T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-artificial-intelligence-ai-in-healthcare-market-size-to-accrue-47575-million-by-2025.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market Size to accrue $ 4757.5 million by 2025",
+      "excerpt": "Sep 25, 2020 (Market Insight Reports) -- Selbyville, Delaware, Growth forecast report \" Artificial Intelligence (AI) in Healthcare Market size by Product Type (Deep Learning, Querying Method, Natural Language Processing, Context Aware Processing and Other ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-to-accrue-47575-million-by-2025-2020-09-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-to-accrue-47575-million-by-2025-2020-09-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-25T00:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-ai-machine-learning-breakthrough-is-a-twist-on-brain-replay.md",
+      "title": "AI Machine Learning Breakthrough Is a Twist on Brain Replay",
+      "excerpt": "From a neuroscience perspective, the concept of brain replay is analogous to a streaming service that activates repeat showings from its vast archives of stored pre-recorded content. The brain can replay memories by reactivating the neural activity patterns that represent prior experiences whether asleep or awake.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202009/ai-machine-learning-breakthrough-is-twist-brain-replay",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202009/ai-machine-learning-breakthrough-is-twist-brain-replay",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.psychologytoday.com/sites/default/files/styles/magazine_240x308/public/field_magazine_cover/2020-09.png?itok=8uWeigq4",
+          "width": 384,
+          "height": 504,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202009/ai-machine-learning-breakthrough-is-twist-brain-replay?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202009/ai-machine-learning-breakthrough-is-twist-brain-replay?amp",
+      "publishedDateTime": "2020-09-24T21:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-ai-system-detects-loneliness-in-natural-speech-patterns.md",
+      "title": "AI system detects loneliness in natural speech patterns",
+      "excerpt": "A new proof of concept study, led by researchers at University of California San Diego School of Medicine, has demonstrated how speech-analyzing artificial intelligence tools can effectively predict the level of loneliness in older adults.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/health-wellbeing/ai-loneliness-natural-speech-language/",
+      "originalUrl": "https://newatlas.com/health-wellbeing/ai-loneliness-natural-speech-language/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/78f4ee9/2147483647/strip/true/crop/2000x1333+0+4/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fc1%2F6c%2F6dec48c041d6aa9d714bfb5dfa8a%2Fdepositphotos-59728757-l-2015.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/health-wellbeing/ai-loneliness-natural-speech-language/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/health-wellbeing/ai-loneliness-natural-speech-language/?amp=true",
+      "publishedDateTime": "2020-09-24T19:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.md",
       "title": "Microsoft Ignite showcases first Project Cortex AI tool for SharePoint",
       "excerpt": "Civil engineering firm Mott McDonald has been testing SharePoint Syntex, the first product to come out of Microsoft’s Project Cortex proving ground for AI-based content management tools.",
@@ -918,302 +1215,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-swedens-ericsson-telia-present-self-driving-bus-ahead-of-5g-spectrum-auction.md",
-      "title": "Sweden's Ericsson, Telia present self-driving bus ahead of 5G spectrum auction",
-      "excerpt": "STOCKHOLM (Reuters) - Telecoms gear maker Ericsson ERICb.ST and mobile operator Telia TELIA.ST on Thursday showcased a self-driving, electric bus in Stockholm as the companies look at new business ...",
-      "sourceUrl": null,
-      "webUrl": "https://uk.reuters.com/article/uk-ericsson-autonomous-idUKKCN26F2WN",
-      "originalUrl": "https://uk.reuters.com/article/uk-ericsson-autonomous-idUKKCN26F2WN",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200924&t=2&i=1534799334&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8N1NF",
-          "width": 726,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://uk.mobile.reuters.com/article/amp/idUKKCN26F2WN",
-      "cdnAmpWebUrl": "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKCN26F2WN",
-      "publishedDateTime": "2020-09-24T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-go-ahead-try-to-sneak-bad-words-past-ai-filtersfor-research.md",
-      "title": "Go Ahead, Try to Sneak Bad Words Past AI Filters—for Research",
-      "excerpt": "A new Facebook project pits humans against algorithms, to expose the systems' weaknesses and help make them better.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/try-sneak-bad-words-ai-filters-research/",
-      "originalUrl": "https://www.wired.com/story/try-sneak-bad-words-ai-filters-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f6bae090621ecd5cce97179/master/pass/business_ai_1151768629.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/try-sneak-bad-words-ai-filters-research/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/try-sneak-bad-words-ai-filters-research/amp",
-      "publishedDateTime": "2020-09-24T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-fintech-machine-learning-leader-attunely-secures-9m-in-funding.md",
-      "title": "Fintech Machine Learning Leader Attunely Secures $9M in Funding",
-      "excerpt": "Press Release Attunely Inc., a pioneer in deploying machine learning to maximize revenue recovery and enhance the consumer experience, today announced $9 million in financing. The new capital includes an earlier seed round as well as a Series A investment.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/24/fintech-machine-learning-leader-attunely-secures-9m-in-funding/",
-      "originalUrl": "https://venturebeat.com/2020/09/24/fintech-machine-learning-leader-attunely-secures-9m-in-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/24/fintech-machine-learning-leader-attunely-secures-9m-in-funding/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/24/fintech-machine-learning-leader-attunely-secures-9m-in-funding/amp/",
-      "publishedDateTime": "2020-09-24T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-nvidias-most-powerful-1500-gpu-sold-out-in-minutes.md",
-      "title": "Nvidia's Most Powerful, $1,500 GPU Sold Out In Minutes",
-      "excerpt": "Within minutes of it going on sale at 6 a.m. Eastern, it had sold out on Nvidia's official site, online electronics retailer Newegg, and B&H.  Nvidia launched it’s RTX 3080 last week and sold out in seconds.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en_us/article/jgx7pb/nvidias-most-powerful-dollar1500-gpu-sold-out-in-minutes",
-      "originalUrl": "https://www.vice.com/en_us/article/jgx7pb/nvidias-most-powerful-dollar1500-gpu-sold-out-in-minutes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com//articles/5f6cb091ec90ba0095871394/lede/1600958744805-knmhdjg.jpeg?crop=1xw:0.75xh;center,center",
-          "width": 1500,
-          "height": 843,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en_us/article/jgx7pb/nvidias-most-powerful-dollar1500-gpu-sold-out-in-minutes",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/jgx7pb/nvidias-most-powerful-dollar1500-gpu-sold-out-in-minutes",
-      "publishedDateTime": "2020-09-24T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-rephraseai-raises-15m-to-use-synthetic-media-for-personalized-sales-pitches.md",
-      "title": "Rephrase.ai raises $1.5M to use synthetic media for personalized sales pitches",
-      "excerpt": "Bangalore-based Rephrase.ai has an ambitious vision for reshaping how movies and videos are made. CEO Ashray Malhotra laid it out for me yesterday, saying that his co-founder Nisheeth Lahoti “came up with this concept — he wants to build an engine that can take any script as input and create",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/24/rephrase-ai-seed-funding/",
-      "originalUrl": "https://techcrunch.com/2020/09/24/rephrase-ai-seed-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-24-at-10.05.15-AM.jpg?w=1024",
-          "width": 1024,
-          "height": 577,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/24/rephrase-ai-seed-funding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/24/rephrase-ai-seed-funding/amp/",
-      "publishedDateTime": "2020-09-24T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women.md",
-      "title": "In facial recognition challenge, top-ranking algorithms show bias against Black women",
-      "excerpt": "The results from a recent facial recognition competition demonstrate that even the best algorithms are still prone to gender and racial bias.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/",
-      "originalUrl": "https://venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1199708189-e1600898324155.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/amp/",
-      "publishedDateTime": "2020-09-24T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

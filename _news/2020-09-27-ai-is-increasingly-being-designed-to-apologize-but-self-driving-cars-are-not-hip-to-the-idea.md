@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingl
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingly-being-designed-to-apologize-but-self-driving-cars-are-not-hip-to-the-idea/amp/"
 type: article
 quality: 78
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why we’re still years away from having self-driving cars"
-    excerpt: "Carmakers began dropping the terms “self-driving” and “mobility” at car shows, Uber and its competitors poached engineers from university robotics labs en masse, and Tesla fans began squabbling on Twitter about whether the company’s Autopilot ..."
-    publishedDateTime: 2020-09-25T19:41:00Z
-    webUrl: "https://www.vox.com/recode/2020/9/25/21456421/why-self-driving-cars-autonomous-still-years-away"
-    ampWebUrl: "https://www.vox.com/platform/amp/recode/2020/9/25/21456421/why-self-driving-cars-autonomous-still-years-away"
-    cdnAmpWebUrl: "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/recode/2020/9/25/21456421/why-self-driving-cars-autonomous-still-years-away"
-    type: article
-    provider:
-      name: Vox
-      domain: vox.com
-    quality: 74
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/vWVvsfC0F_Tdmm4OmAkpT0S-fbw=/0x0:3000x2000/1400x1050/filters:focal(1866x972:2346x1452):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67470406/VOX_18.0.jpg"
-        width: 1400
-        height: 1050
-        isCached: true
   - title: "Self-driving cars are still going to take a long time, people"
     excerpt: "A few years ago, I visited a super promising company called Luminar, which makes LiDAR, or Light Detection and Ranging, technology that helps autonomous cars see the world around them. Now, Luminar is going public."
     publishedDateTime: 2020-09-29T11:07:00Z

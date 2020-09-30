@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/amp/"
 type: article
 quality: 78
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -106,6 +106,20 @@ related:
       - url: "https://www.finextra.com/finextra-images/visible_pictures/6983cedd-fb46-4d6a-a131-3b2223f3f858.PNG"
         width: 500
         height: 232
+        isCached: true
+  - title: "3 Fintech Opportunities For Entrepreneurs Beyond 2020"
+    excerpt: "The financial service sector has not been an exception. Banks have closed, at least temporarily, and many other services that users have come to rely on have had hiccups or slowdowns of varying degrees."
+    publishedDateTime: 2020-09-30T12:15:00Z
+    webUrl: "https://www.stamfordadvocate.com/business/article/3-Fintech-Opportunities-For-Entrepreneurs-Beyond-15606047.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 24
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/33/02/20033671/29/rawImage.jpg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Onfido teams up with FinTech Oval Money to boost digital customer verification"
     excerpt: "Onfido announced a new partnership with FinTech Oval Money in a bid to accelerate and enhance the latter's digital customer verification and registration process."

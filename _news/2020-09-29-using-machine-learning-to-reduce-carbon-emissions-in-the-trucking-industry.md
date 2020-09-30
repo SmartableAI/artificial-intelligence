@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/jenniferhicks/2020/09/29/using-machine-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2020/09/29/using-machine-learning-to-reduce-carbon-emissions-in-the-trucking-industry/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: Forbes
@@ -31,37 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "4 things to remember when adapting AI/ML learning models during a pandemic"
-    excerpt: "The progress seen in AI/machine learning leading up to and during the pandemic cannot be ignored, but this crisis brings with it a unique opportunity for updates and innovation in modeling."
-    publishedDateTime: 2020-09-25T20:57:00Z
-    webUrl: "https://techcrunch.com/2020/09/25/4-things-to-remember-when-adapting-ai-ml-learning-models-during-a-pandemic/"
-    ampWebUrl: "https://techcrunch.com/2020/09/25/4-things-to-remember-when-adapting-ai-ml-learning-models-during-a-pandemic/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/25/4-things-to-remember-when-adapting-ai-ml-learning-models-during-a-pandemic/amp/"
+  - title: "Machine Vision: A Boon for the Manufacturing Industry"
+    excerpt: "FREMONT, CA: Machine vision is one of the important additions to the manufacturing sector. It has provided automated"
+    publishedDateTime: 2020-09-29T10:56:00Z
+    webUrl: "https://www.cioreview.com/news/machine-vision-a-boon-for-the-manufacturing-industry-nid-32046-cid-34.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 102
+      name: CIOReview
+      domain: cioreview.com
+    quality: 24
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1250179225.jpg?w=1024"
-        width: 1024
-        height: 696
-        isCached: true
-  - title: "Companies are doubling down on artificial intelligence and machine learning due to pandemic"
-    excerpt: "Companies are planning to increase their spending on artificial intelligence and machine learning as a result of the pandemic, and IT leaders believe that those initiatives should have been a higher priority for their organizations all along, according to ..."
-    publishedDateTime: 2020-09-29T14:16:00Z
-    webUrl: "https://www.techrepublic.com/article/companies-are-doubling-down-on-artificial-intelligence-and-machine-learning-due-to-pandemic/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/companies-are-doubling-down-on-artificial-intelligence-and-machine-learning-due-to-pandemic/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/companies-are-doubling-down-on-artificial-intelligence-and-machine-learning-due-to-pandemic/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 94
-    images:
-      - url: "https://tr1.cbsistatic.com/hub/i/r/2018/09/18/576ff782-4166-4148-9a24-1a349fb7d430/thumbnail/1200x675/06be1fbef92a10bdaa9eefca101d0989/cyber.jpg"
-        width: 1200
-        height: 675
+      - url: "https://cioreview.com/Rank_subcat_images/spt9omaster.jpg"
+        width: 478
+        height: 556
         isCached: true
 
 secured: "9AgCks0XtbzvJI4GYG6+TiW5VvRXNnq6VVU+VAB9bzwoStgTpY+3m1MaC2sCrFIo35D5w9K9WhBPmQUDxhZ6VZZ3WUQwmUg9MYQXSemf1+KOA5wtV75XTsy7pJAvAWH+aVlCgBfHfI45g4FecfojuvybKK8HGBDEJ19KkzhbF/bPtaOjiYZnVpN+JHvcegTfyF5xEANT0ZzMKnJlFOoYxoTtYGO1U+Y6kXmXzGMfYQSf/nAgjw0pDmg/6rUbxfXjfV0MliFQ3ksHdGheyPh2R54tRTQkdQfD97JoPOI8ALREtHCdSOfJO8HiTJecLImrtucLETMTOsPtqsSKLRZ/hr/4UrU51RLb3ResnWw7Ox7m1j3kgoUzP2VVnihImgyp2xmAu3aDxQxu3iyIaHDy+aZjGyWFyRWE5x1ECR+5qQOWEW/p1lV5Y/tqwS7xU5al3f5fp9ltrSBsrKI6zaM3Nyh6fcgHelPwE16IjoT1Wcgpdv7cEgNYzmVAH2euJHEnAAw6uI4misZz9cFLAxWsiw==;tihtyv3N9Dhat8AMu7GuwA=="

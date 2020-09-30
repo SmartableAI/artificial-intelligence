@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/moving-from-notebook
 webUrl: "https://aws.amazon.com/blogs/machine-learning/moving-from-notebooks-to-automated-ml-pipelines-using-amazon-sagemaker-and-aws-glue/"
 type: article
 quality: 115
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Data visualization and anomaly detection using Amazon Athena and Pandas from Amazon SageMaker"
-    excerpt: "Many organizations use Amazon SageMaker for their machine learning (ML) requirements and source data from a data lake stored on Amazon Simple Storage Service (Amazon S3). The petabyte scale source data on Amazon S3 may not always be clean because data lakes ingest data from several source systems, such"
-    publishedDateTime: 2020-09-25T20:04:48Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/data-visualization-and-anomaly-detection-using-amazon-athena-and-pandas-from-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 78
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/02/1-Architecture.jpg"
-        width: 900
-        height: 484
-        isCached: true
   - title: "Running on-demand, serverless Apache Spark data processing jobs using Amazon SageMaker managed Spark containers and the Amazon SageMaker SDK"
     excerpt: "Apache Spark is a unified analytics engine for large scale, distributed data processing. Typically, businesses with Spark-based workloads on AWS use their own stack built on top of Amazon Elastic Compute Cloud (Amazon EC2), or Amazon EMR to run and scale Apache Spark, Hive, Presto, and other big data"
     publishedDateTime: 2020-09-29T16:41:35Z

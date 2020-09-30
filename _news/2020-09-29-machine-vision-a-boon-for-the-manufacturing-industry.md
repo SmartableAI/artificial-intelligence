@@ -7,7 +7,7 @@ originalUrl: "https://www.cioreview.com/news/machine-vision-a-boon-for-the-manuf
 webUrl: "https://www.cioreview.com/news/machine-vision-a-boon-for-the-manufacturing-industry-nid-32046-cid-34.html"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 478
     height: 556
     isCached: true
+
+related:
+  - title: "Using Machine Learning To Reduce Carbon Emissions In The Trucking Industry"
+    excerpt: "By using advanced technology, data science and machine learning, this company says it's making the sharable truckload model work and cutting carbon emissions."
+    publishedDateTime: 2020-09-29T12:04:00Z
+    webUrl: "https://www.forbes.com/sites/jenniferhicks/2020/09/29/using-machine-learning-to-reduce-carbon-emissions-in-the-trucking-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/jenniferhicks/2020/09/29/using-machine-learning-to-reduce-carbon-emissions-in-the-trucking-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2020/09/29/using-machine-learning-to-reduce-carbon-emissions-in-the-trucking-industry/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f721cf81578a9c207144243%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "gDLGeAsZYhJa2NcwMzosDnl/fQSgh1mGP8FRxTUaHt02XaqrtG/0eEyvKvSzPqD5dgyS4Njo4XyHy3T4il1YKstvHmEfLm5ktMd5d4dWq0fJZOOc+E1EId0xLZ0klMuaNlBPw3uM4t96wm/6msAr0cVX6OMa/ZTdVLQamTj7fBwoQ39cGb2/nVFnFhBC/2emY6b7dtOiCmwqMMLOI5qfOCDuUIvUuL2GH6JCMn8mwY+Cfs8zNuBm9EH/qJkrZhVueELqZBONVUC1LSiQE/K3XqbonZlJhXgp+Hdyfr1aaGscDHBjsZHTqjg4RF+FpPPQ+9bn20c1PEQtPmom5jXehb2Oyj/5AMbk11XBG8bfZzo=;9IUoYTaJgh7RUSnXhwZTqw=="
 ---

@@ -68,6 +68,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
+  - title: "Microsoft unveils Azure for Operators to unlock 5G potential"
+    excerpt: "Microsoft has announced a new cloud platform called Azure for Operators that has been designed to help telecommunications operators unlock the full potential of 5G. The new offering will help communication service providers create new opportunities and provide core infrastructure,"
+    publishedDateTime: 2020-09-30T11:08:00Z
+    webUrl: "https://www.itpro.co.uk/mobile/5g/357287/microsoft-unveils-azure-for-operators-to-unlock-5g-potential"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 84
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/v1570816662/itpro/2018/08/5g_shutterstock_750428755.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Deep Neural Networks Market Booming Worldwide with leading Players Google, Oracle, Microsoft, IBM"
     excerpt: "Global Deep Neural Networks Market The global Deep Neural Networks Market size was valued at USD 1.26 Billion in 2019 and is anticipated to reach USD 5.98 Billion by 2027 at a CAGR of 21.4%. The global neural networks market is growing predominantly as the demand for implementing the deep neural network in healthcare and BFSI sectors are flourishing extensively."
     publishedDateTime: 2020-09-29T08:25:00Z
@@ -151,20 +165,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft unveils Azure for Operators to unlock 5G potential"
-    excerpt: "Microsoft has announced a new cloud platform called Azure for Operators that has been designed to help telecommunications operators unlock the full potential of 5G.  The new offering will help communication service providers create new opportunities and provide core infrastructure,"
-    publishedDateTime: 2020-09-30T11:45:00Z
-    webUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/8768/microsoft-unveils-azure-for-operators-to-unlock-5g-potential"
-    type: article
-    provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
-    quality: 54
-    images:
-      - url: "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2019/01/5g-speed-o2-future-of-people.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Microsoft Touts Azure as 'Carrier-Grade Platform' for Telcos Deploying 5G"
     excerpt: "Microsoft on Monday affirmed its software-defined networking infrastructure support for telecom companies, especially as they move more toward rolling out 5G wireless services."
     publishedDateTime: 2020-09-28T22:12:00Z
@@ -246,6 +246,20 @@ related:
       name: ChannelE2E
       domain: channele2e.com
     quality: 34
+  - title: "Andor Health Collaborates with Mentor to Deliver Next Generation, AI-Powered Virtual Experiences with Microsoft Technology"
+    excerpt: "Andor Health Collaborates with Mentor to Deliver Next Generation, AI-Powered Virtual Experiences with Microsoft Technology"
+    publishedDateTime: 2020-09-30T13:30:00Z
+    webUrl: "https://www.finanzen.net/nachricht/aktien/andor-health-collaborates-with-mentor-to-deliver-next-generation-ai-powered-virtual-experiences-with-microsoft-technology-9347090"
+    type: article
+    provider:
+      name: Finanzen
+      domain: finanzen.net
+    quality: 28
+    images:
+      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "r3R5JN69+CD3skZmHTOY1ZtOTNvZil7txojMonERgm/4PiLOFKBuzak+cfdR6ljUaz5ubIV/16dxAXdP1LN0/ph82vSL3GwFaaXPg1I51sfJcdiJK5Hwr1YUsmS6QNGBw20VqnThEVzSA7lLuYkNidH+geTFZIIyheS/PcVaLln+F5qd0H6xKAddBuNtqjxhprS3+NzxbJ2cfGH6tJzXdCfWpu1z5S7PlQc9rWg6CbdSrgzAWzAcOcqGS2MMas88nDM98HYjrFwCDYvciC26/F0PEFreFxpWqp6a8IoN2OcdScUs7isS+RI8lOuaXxn4C055yHM7O5jOYe6H9w+2Q6frNdooyvnKhrhHVyLIF+E7XiuO1zmZme1cf5gMmPtjjdvQbROiCuyqmX8htKZWD81iHMB4BferAFL1MrI6GYzU8GLSTwCd6dzx71Yf+X1lSKb5mAhwbPaaR0FlEFKt9dmtMcp0h49VHV9iSEVyy1eO6uyg94hZB6WAsU6keFslRxy+g1zLWLNtjtj11fM0Eg==;dfzxXY2AA+C6YorrKON0wA=="
 ---

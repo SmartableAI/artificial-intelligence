@@ -40,7 +40,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 89
+    quality: 189
     images:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F593354%2Fnvidia-dgx-systems-the-worlds-first-portfolio-of-purpose-built-ai-supercomputers.jpg&w=1200&op=resize"
         width: 1200

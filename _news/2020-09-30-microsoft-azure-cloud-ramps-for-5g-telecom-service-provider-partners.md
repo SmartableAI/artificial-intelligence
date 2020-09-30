@@ -60,6 +60,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
+  - title: "Microsoft unveils Azure for Operators to unlock 5G potential"
+    excerpt: "Microsoft has announced a new cloud platform called Azure for Operators that has been designed to help telecommunications operators unlock the full potential of 5G. The new offering will help communication service providers create new opportunities and provide core infrastructure,"
+    publishedDateTime: 2020-09-30T11:08:00Z
+    webUrl: "https://www.itpro.co.uk/mobile/5g/357287/microsoft-unveils-azure-for-operators-to-unlock-5g-potential"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 84
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/v1570816662/itpro/2018/08/5g_shutterstock_750428755.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Microsoft Azure Solution Could Greatly Reduce 5G Roll-Out Costs"
     excerpt: "Microsoft has revealed a new cloud solution, built on its Azure platform and meant to bolster 5G rollouts nationwide. That's according to recent reports"
     publishedDateTime: 2020-09-29T21:51:00Z
@@ -159,20 +173,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft unveils Azure for Operators to unlock 5G potential"
-    excerpt: "Microsoft has announced a new cloud platform called Azure for Operators that has been designed to help telecommunications operators unlock the full potential of 5G.  The new offering will help communication service providers create new opportunities and provide core infrastructure,"
-    publishedDateTime: 2020-09-30T11:45:00Z
-    webUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/8768/microsoft-unveils-azure-for-operators-to-unlock-5g-potential"
-    type: article
-    provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
-    quality: 54
-    images:
-      - url: "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2019/01/5g-speed-o2-future-of-people.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Microsoft Touts Azure as 'Carrier-Grade Platform' for Telcos Deploying 5G"
     excerpt: "Microsoft on Monday affirmed its software-defined networking infrastructure support for telecom companies, especially as they move more toward rolling out 5G wireless services."
     publishedDateTime: 2020-09-28T22:12:00Z
@@ -244,6 +244,20 @@ related:
       - url: "https://menafn.com/updates/pr/2020-09/30/I_9ee6f788-9image_story.jpg"
         width: 400
         height: 300
+        isCached: true
+  - title: "Andor Health Collaborates with Mentor to Deliver Next Generation, AI-Powered Virtual Experiences with Microsoft Technology"
+    excerpt: "Andor Health Collaborates with Mentor to Deliver Next Generation, AI-Powered Virtual Experiences with Microsoft Technology"
+    publishedDateTime: 2020-09-30T13:30:00Z
+    webUrl: "https://www.finanzen.net/nachricht/aktien/andor-health-collaborates-with-mentor-to-deliver-next-generation-ai-powered-virtual-experiences-with-microsoft-technology-9347090"
+    type: article
+    provider:
+      name: Finanzen
+      domain: finanzen.net
+    quality: 28
+    images:
+      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "4SINTlE76bC5bEr2ec/SL3r/gHzG/n19Xhsxie0J8y3hvRStqhZyvTkIPchJPjRexLcajHQBNrRAvNmndEWVffbTy7jERajICMWYMZA7KIK74oqTFvngUfVupJIaL8VXobXno7p0fxTd0+vyKApzv8lDHcqZPZluWCN16/14TN4uvDkI2e5pWgTAe0Pk67TX0PY47QYmZQlehet8C7q+GOACO78FvRKySLb6xYYS77lXPGY6CEw+kLxDw5xcbTF7BCSIg124lBEbBYAHkK9z56vNBTnF2hh950HmNq/LWInJNquhlL+25h07Wlut6R0rwV+K/O28RT7Y9OT6EIwWaI/4csvQi+wJ74RGxJHBLoRyzyeaA9joEzCnFTend94E6+rLHOA10StjwIQg70ZUesFSnM1bOYAqyL7hHhcWMOVTkd/GohUA+2i6MKK/jwQ+A9HOS3U06wFMsIhFCtoygCZkUzCzWlNm7H7lR03kjRAHjjeOpz3LbqT2tU3rB3lFhyxTEfMIKS2tNDpYBsys8A==;Y528VkbypUd+XpWocrbcZQ=="

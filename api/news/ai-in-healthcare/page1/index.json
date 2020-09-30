@@ -10,7 +10,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-insights-on-fortified-dairy-products-market-and-forecast-assumptions-2020-09-30",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -61,7 +61,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2025-2020-09-29",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -288,48 +288,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-09-27-artificial-intelligence-helps-predict-loneliness.md",
-      "title": "Artificial Intelligence Helps Predict Loneliness",
-      "excerpt": "In older adults, the use of artificial intelligence and natural language patterns (NLP) help discern degrees of loneliness, revealed research.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-helps-predict-loneliness-197784-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-helps-predict-loneliness-197784-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/cataract-increases-risk-of-depression-in-older-adults.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-helps-predict-loneliness-197784-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-predict-loneliness-197784-1.htm",
-      "publishedDateTime": "2020-09-26T21:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     },
     {
@@ -1347,6 +1305,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-artificial-intelligence-ai-in-healthcare-market.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market",
+      "excerpt": "A new research document is added in HTF MI database of 42 pages, titled as 'Artificial Intelligence (AI) in Healthcare Market in India (2018-2023) Revenue, Growth Forecast, Trends, Drivers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2132624/artificial-intelligence-ai-in-healthcare-market-to-watch",
+      "originalUrl": "https://www.openpr.com/news/2132624/artificial-intelligence-ai-in-healthcare-market-to-watch",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/9/T911412799_g.jpg",
+          "width": 600,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2132624/artificial-intelligence-ai-in-healthcare-market-to-watch",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2132624/artificial-intelligence-ai-in-healthcare-market-to-watch",
+      "publishedDateTime": "2020-09-11T03:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

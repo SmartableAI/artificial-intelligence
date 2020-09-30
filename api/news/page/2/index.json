@@ -2,6 +2,362 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-29-datasaur-snags-39m-investment-to-build-intelligent-machine-learning-labeling-platform.md",
+      "title": "Datasaur snags $3.9M investment to build intelligent machine learning labeling platform",
+      "excerpt": "As machine learning has grown, one of the major bottlenecks remains labeling things so the machine learning application understands the data it’s working with. Datasaur, a member of the Y Combinator Winter 2020 batch,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/29/datasaur-snags-3-9m-investment-to-build-intelligent-machine-learning-labeling-platform/",
+      "originalUrl": "https://techcrunch.com/2020/09/29/datasaur-snags-3-9m-investment-to-build-intelligent-machine-learning-labeling-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-671392904.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/29/datasaur-snags-3-9m-investment-to-build-intelligent-machine-learning-labeling-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/29/datasaur-snags-3-9m-investment-to-build-intelligent-machine-learning-labeling-platform/amp/",
+      "publishedDateTime": "2020-09-29T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-roland-garros-2020-puts-ai-at-the-heart-of-the-digital-experience-as-tennis-fans-stay-at-home.md",
+      "title": "Roland Garros 2020 Puts AI At The Heart Of The Digital Experience As Tennis Fans Stay At Home",
+      "excerpt": "Only 1,000 fans will be able to attend this year's French Open at Roland Garros. AI hopes to bring the tournament to people's homes like never before",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemccaskill/2020/09/29/roland-garros-2020-puts-ai-at-the-heart-of-the-digital-experience-as-tennis-fans-stay-at-home/",
+      "originalUrl": "https://www.forbes.com/sites/stevemccaskill/2020/09/29/roland-garros-2020-puts-ai-at-the-heart-of-the-digital-experience-as-tennis-fans-stay-at-home/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f734ff73a7334cd624a47b6%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemccaskill/2020/09/29/roland-garros-2020-puts-ai-at-the-heart-of-the-digital-experience-as-tennis-fans-stay-at-home/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemccaskill/2020/09/29/roland-garros-2020-puts-ai-at-the-heart-of-the-digital-experience-as-tennis-fans-stay-at-home/amp/",
+      "publishedDateTime": "2020-09-29T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-women-founders-of-ai-startups-take-aim-at-gender-bias.md",
+      "title": "Women Founders of AI Startups Take Aim at Gender Bias",
+      "excerpt": "They see gender diversity in their companies as crucial in making sure the technology doesn’t penalize the underrepresented.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/women-founders-of-ai-startups-take-aim-at-gender-bias-11601388625",
+      "originalUrl": "https://www.wsj.com/articles/women-founders-of-ai-startups-take-aim-at-gender-bias-11601388625",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-237380/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/women-founders-of-ai-startups-take-aim-at-gender-bias-11601388625",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/women-founders-of-ai-startups-take-aim-at-gender-bias-11601388625",
+      "publishedDateTime": "2020-09-29T07:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-companies-are-doubling-down-on-artificial-intelligence-and-machine-learning-due-to-pandemic.md",
+      "title": "Companies are doubling down on artificial intelligence and machine learning due to pandemic",
+      "excerpt": "Companies are planning to increase their spending on artificial intelligence and machine learning as a result of the pandemic, and IT leaders believe that those initiatives should have been a higher priority for their organizations all along, according to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/companies-are-doubling-down-on-artificial-intelligence-and-machine-learning-due-to-pandemic/",
+      "originalUrl": "https://www.techrepublic.com/article/companies-are-doubling-down-on-artificial-intelligence-and-machine-learning-due-to-pandemic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2018/09/18/576ff782-4166-4148-9a24-1a349fb7d430/thumbnail/1200x675/06be1fbef92a10bdaa9eefca101d0989/cyber.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/companies-are-doubling-down-on-artificial-intelligence-and-machine-learning-due-to-pandemic/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/companies-are-doubling-down-on-artificial-intelligence-and-machine-learning-due-to-pandemic/",
+      "publishedDateTime": "2020-09-29T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-snowflake-looks-like-a-risky-bet-at-a-60-billion-plus-valuation.md",
+      "title": "Snowflake Looks Like A Risky Bet At A $60 Billion Plus Valuation",
+      "excerpt": "Snowflake, the cloud-based data warehousing company that went public recently, is valued at about $60 billion, or about $220 per share. The company trades at a whopping 230x trailing Revenues - well above many other high-growth SaaS names.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greatspeculations/2020/09/29/snowflake-looks-like-a-risky-bet-at-a-60-billion-plus-valuation/",
+      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2020/09/29/snowflake-looks-like-a-risky-bet-at-a-60-billion-plus-valuation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f72e0242f4428bd11ff2cc3%2F0x0.jpg",
+          "width": 1042,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2020/09/29/snowflake-looks-like-a-risky-bet-at-a-60-billion-plus-valuation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2020/09/29/snowflake-looks-like-a-risky-bet-at-a-60-billion-plus-valuation/amp/",
+      "publishedDateTime": "2020-09-29T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-inside-google-healths-struggle-to-refocus-regain-trust-navigate-healthcare-and-make-money.md",
+      "title": "Inside Google Health's struggle to refocus, regain trust, navigate healthcare, and make money",
+      "excerpt": "The young team is up against trust issues, Alphabet's messy layout, and an industry it can't fix with the click of a button.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-healths-strategy-and-identity-within-alphabet-2020-9",
+      "originalUrl": "https://www.businessinsider.com/google-healths-strategy-and-identity-within-alphabet-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f732abb0ab50d00184aced7?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-29T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-applying-machine-learning-to-keep-employees-safe-and-save-lives.md",
+      "title": "Applying machine learning to keep employees safe and save lives",
+      "excerpt": "Warny leverages many of the key AWS Services such as IoT, Greengrass, and Sagemaker. Warny uses sophisticated computer vision algorithms to protect people working around dangerous machines ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/29/applying-machine-learning-to-keep-employees-safe-and-save-lives/",
+      "originalUrl": "https://venturebeat.com/2020/09/29/applying-machine-learning-to-keep-employees-safe-and-save-lives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/Hazzard_Outline.jpg?fit=800%2C387&strip=all",
+          "width": 800,
+          "height": 387,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/29/applying-machine-learning-to-keep-employees-safe-and-save-lives/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/29/applying-machine-learning-to-keep-employees-safe-and-save-lives/amp/",
+      "publishedDateTime": "2020-09-29T06:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-another-strange-shift-for-the-ai-chip-startup-segment.md",
       "title": "Another Strange Shift for the AI Chip Startup Segment",
       "excerpt": "Few of the AI hardware startups that have made it through the first round of reality (roughly 2016 until the present) have managed to navigate the choppy",
@@ -238,6 +594,57 @@
       ]
     },
     {
+      "path": "_news/2020-09-29-using-machine-learning-to-reduce-carbon-emissions-in-the-trucking-industry.md",
+      "title": "Using Machine Learning To Reduce Carbon Emissions In The Trucking Industry",
+      "excerpt": "By using advanced technology, data science and machine learning, this company says it's making the sharable truckload model work and cutting carbon emissions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2020/09/29/using-machine-learning-to-reduce-carbon-emissions-in-the-trucking-industry/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2020/09/29/using-machine-learning-to-reduce-carbon-emissions-in-the-trucking-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f721cf81578a9c207144243%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2020/09/29/using-machine-learning-to-reduce-carbon-emissions-in-the-trucking-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2020/09/29/using-machine-learning-to-reduce-carbon-emissions-in-the-trucking-industry/amp/",
+      "publishedDateTime": "2020-09-29T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-navigating-covid-19-with-conversational-ai.md",
       "title": "Navigating COVID-19 With Conversational AI",
       "excerpt": "At the forefront of creating deep and engaging conversations via rich-media interactions, Conversational AI has proven itself to be of immense value in the current crisis with vast potential as a new",
@@ -470,47 +877,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-inside-politics-tory-rebels-hope-for-deal-with-no-10-on-extra-scrutiny-powers.md",
-      "title": "Inside Politics: Tory rebels hope for deal with No 10 on extra scrutiny powers",
-      "excerpt": "Conservative backbenchers believe they’re in line for a bigger say on the coronavirus rules after a ‘cordial’ meeting with Jacob Rees-Mogg and the whips, writes Adam Forrest",
-      "sourceUrl": null,
-      "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
-      "originalUrl": "https://www.independent.co.uk/independentpremium/uk-news/boris-johnson-coronavirus-rules-tory-mps-compromise-eu-brexit-trade-deal-talks-b688535.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inside.com/assets/premium/Blue-email-icon-0994aadea0b5b10b19a148e2dd34a88c4a315b76ed51d7898fa49dc4ddc6d171.png",
-          "width": 414,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-28T23:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -849,364 +1215,6 @@
         "AI Hardware",
         "AI",
         "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-take-a-look-at-this-new-drone-on-demand-mobile-app.md",
-      "title": "Take A Look At This New Drone On Demand Mobile App",
-      "excerpt": "Aquiline Drones is bringing a “Drone-on-Demand” (DoD) mobile app to the market. The DoD app will be accessible through all mobile devices, including smartphones and tablets. According to the company,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2020/09/28/take-a-look-at-this-new-drone-on-demand-mobile-app/",
-      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2020/09/28/take-a-look-at-this-new-drone-on-demand-mobile-app/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f722a94103c005007144241%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2020/09/28/take-a-look-at-this-new-drone-on-demand-mobile-app/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2020/09/28/take-a-look-at-this-new-drone-on-demand-mobile-app/amp/",
-      "publishedDateTime": "2020-09-28T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-deep-science-robot-perception-acoustic-monitoring-using-ml-to-detect-arthritis.md",
-      "title": "Deep Science: Robot perception, acoustic monitoring, using ML to detect arthritis",
-      "excerpt": "This column aims to collect the most relevant recent discoveries and papers — particularly in but not limited to artificial intelligence — and explain why they matter. The topics in this week ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/28/deep-science-robot-perception-acoustic-monitoring-using-ml-to-detect-arthritis/",
-      "originalUrl": "https://techcrunch.com/2020/09/28/deep-science-robot-perception-acoustic-monitoring-using-ml-to-detect-arthritis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-1136667866.jpg?w=1024",
-          "width": 1024,
-          "height": 716,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/28/deep-science-robot-perception-acoustic-monitoring-using-ml-to-detect-arthritis/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/28/deep-science-robot-perception-acoustic-monitoring-using-ml-to-detect-arthritis/amp/",
-      "publishedDateTime": "2020-09-28T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-moving-from-notebooks-to-automated-ml-pipelines-using-amazon-sagemaker-and-aws-glue.md",
-      "title": "Moving from notebooks to automated ML pipelines using Amazon SageMaker and AWS Glue",
-      "excerpt": "A typical machine learning (ML) workflow involves processes such as data extraction, data preprocessing, feature engineering, model training and evaluation, and model deployment. As data changes over time, when you deploy models to production, you want your model to learn continually from the stream",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/moving-from-notebooks-to-automated-ml-pipelines-using-amazon-sagemaker-and-aws-glue/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/moving-from-notebooks-to-automated-ml-pipelines-using-amazon-sagemaker-and-aws-glue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/24/1-Retraining-Pipeline.jpg",
-          "width": 1000,
-          "height": 623,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-28T11:56:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-amsterdam-and-helsinki-launch-algorithm-registries-to-bring-transparency-to-public-deployments-of-ai.md",
-      "title": "Amsterdam and Helsinki launch algorithm registries to bring transparency to public deployments of AI",
-      "excerpt": "Amsterdam and Helsinki today launched AI registries to detail how each city uses algorithms to deliver services.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/28/amsterdam-and-helsinki-launch-algorithm-registries-to-bring-transparency-to-public-deployments-of-ai/",
-      "originalUrl": "https://venturebeat.com/2020/09/28/amsterdam-and-helsinki-launch-algorithm-registries-to-bring-transparency-to-public-deployments-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/amsterdam.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/28/amsterdam-and-helsinki-launch-algorithm-registries-to-bring-transparency-to-public-deployments-of-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/28/amsterdam-and-helsinki-launch-algorithm-registries-to-bring-transparency-to-public-deployments-of-ai/amp/",
-      "publishedDateTime": "2020-09-28T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-new-army-accelerated-multi-node-attack-enabled-by-ai-at-project-convergence-2020.md",
-      "title": "New Army ‘Accelerated Multi-Node Attack’ enabled by AI at Project Convergence 2020",
-      "excerpt": "Gray Eagle drones were armed with HELLFIRE missiles and GBU-69 glide bombs, 155mm artillery weapons fired rounds 60km (37.3 miles) to destroy SA-22 enemy air defenses and armored ground combat vehicles directly hit multiple T-72 tanks during the Army’s Project Convergence 2020 at Yuma Proving Grounds,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/new-army-accelerated-multi-node-attack-enabled-by-ai-at-project-convergence-2020",
-      "originalUrl": "https://www.foxnews.com/tech/new-army-accelerated-multi-node-attack-enabled-by-ai-at-project-convergence-2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/ArmyERCA.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/new-army-accelerated-multi-node-attack-enabled-by-ai-at-project-convergence-2020.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/new-army-accelerated-multi-node-attack-enabled-by-ai-at-project-convergence-2020.amp",
-      "publishedDateTime": "2020-09-28T11:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-how-this-digital-avatar-is-elevating-ai-technology.md",
-      "title": "How This Digital Avatar Is Elevating AI Technology",
-      "excerpt": "Lee has created a seamless transition from the physical to digital world with upscale imagery and a unique vision with the digital avatar Aliza Rexx. Aliza is currently one of the fastest growing digital avatars with a loyal following on social media ever since she made her debut in 2018.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/isisbriones/2020/09/28/how-this-digital-avatar-is-elevating-ai-technology/",
-      "originalUrl": "https://www.forbes.com/sites/isisbriones/2020/09/28/how-this-digital-avatar-is-elevating-ai-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f721ba48798ebc8ca144243%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D800%26cropY1%3D161%26cropY2%3D611",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/isisbriones/2020/09/28/how-this-digital-avatar-is-elevating-ai-technology/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/isisbriones/2020/09/28/how-this-digital-avatar-is-elevating-ai-technology/amp/",
-      "publishedDateTime": "2020-09-28T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-sd-times-news-digest-ruby-30-preview-1-release-cron-triggers-for-the-cloudflare-workers-and-tensorflow-recommender.md",
-      "title": "SD Times news digest: Ruby 3.0 preview 1 release, Cron Triggers for the Cloudflare Workers, and TensorFlow Recommender",
-      "excerpt": "Ruby 3.0 preview 1 release, Cron Triggers for the Cloudflare Workers serverless compute platform, TensorFlow Recommender released",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/softwaredev/sd-times-news-digest-ruby-3-0-preview-1-release-cron-triggers-for-the-cloudflare-workers-and-tensorflow-recommender/",
-      "originalUrl": "https://sdtimes.com/softwaredev/sd-times-news-digest-ruby-3-0-preview-1-release-cron-triggers-for-the-cloudflare-workers-and-tensorflow-recommender/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2020/09/gems-44532_1280.png",
-          "width": 1199,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-28T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
       ]
     }
   ],

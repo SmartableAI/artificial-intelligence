@@ -37,17 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Retail Market to..."
-    excerpt: "The global artificial intelligence (AI) in retail market size is expected to reach USD 23.32 billion by 2027, exhibiting a CAGR of"
-    publishedDateTime: 2020-09-29T17:12:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/09/g17703278/artificial-intelligence-ai-in-retail-market-to-reach-usd-23-32-billion-by-2027-rising-adoption-for"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17703278"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17703278"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 52
 
 secured: "ja+E7Dlpfd3miMo3YC6UQN9e1GYqeQjJc7anGzeu8eTybFOW/xMvLfJkut7Pc3xhp/8XwUQHM7WFvjtlY/WX1qpDutQMALKPe3TW4AuBRiqa/BIUZgzSv0gchRfXSO2cY+T8PYgFxi1qBcDslm0aznyQH2lH/9VH5xa5Y0zsPXP7EASZUBRuiuepVNotO83Vh7tGzPG2jS+S0OqXbBvAIphlHfOWhKaWgYuB/XrDRsOkemSUKcP4iA8UIi7JSlXLU/kbTm70X+yl3CYwKc+nNcEK39tzjcMMnucfrnJdGIZr7PA/JUQ9lSF9Y8We9DY6xU8ZQ2PqVUZ4yILB+XC/nByq0wioWPhtq9p9iIi0mdM=;e39PVUKEX905dN4legRfpQ=="
 ---

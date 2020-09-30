@@ -117,7 +117,21 @@ related:
         width: 500
         height: 232
         isCached: true
+  - title: "3 Fintech Opportunities For Entrepreneurs Beyond 2020"
+    excerpt: "The financial service sector has not been an exception. Banks have closed, at least temporarily, and many other services that users have come to rely on have had hiccups or slowdowns of varying degrees."
+    publishedDateTime: 2020-09-30T12:15:00Z
+    webUrl: "https://www.stamfordadvocate.com/business/article/3-Fintech-Opportunities-For-Entrepreneurs-Beyond-15606047.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 24
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/33/02/20033671/29/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
-secured: "ATw5RONaraeG04RF66al0NZ2QyIA4tYIlKrFnjng92cN3NxBMDMhGRXMY8Uj11XoCwARXFXw3EYd1/i5J0QM/cyKyBLq9EMn/dhmnzFtZ8sHG19EpyAq0JYDj2eX7pwEq3/SgP0JsGICv0h3dV8S2DH55nXfEyRtzrseq4vhK0xrmbFqpwbDieVLJThK8QcD5YatytPF9G3jt1yHQfj7G4+V3l7iM+kn3M7sagMTqNE6qqWQP9usWlDSvUp+mcli1fv869vMF3aDl5nymEvwakXZIVuYYSfqrl50zBLB0w6XnFHYqt4TKfXFAfGTAj8G6Ist5Hsz1sEAwq2GXTw4oCjbGhGZHqp6TyYd8rsDYws=;JtqqhzvXbTYgEhLXGeE/Gg=="
+secured: "IaJvoFNp/aiRepLM0Qh5aWWdT/Javt9c8EVSrH+M1jYDQSBVblR7VzXpqPjCJUo9jyHdwS/g3jCSNfSokIfBShFsK5yz7zB9Ir26noMieOT9aITc6fmZeplkU+3b2BsSOW04jgzJK9YusLfieBRQDDphw56SMuXFno6m/jd6XztFdIDF0MK/dDK+ao3mD2F8HlOqakAe227AYnopx/Voc1TQIH/Z8Mzr8E8QLkbCIpiCSBtiKCwT7Tsdg6ls1YOYx06vduRRhJ2D8ziMDuS9d/MrhCQKnpVei7TgLKQ/qFYWrCHG+n+VxGasI0uXN+Xvfs1iBBdGmWxgSLf5tGgEcACn86D1VMYm1NPvZsS6NheeTyeEumV7nvufxt3dfvJlQd3+UBlXxlwFwENC49IeEuyXF/qoNwbyhvhJVSCh4udsGaJgXkRYRYrxYMHzbggNkhgjZ09JsyGl7DAsGFHr5SB6OgKvoEOjegjXNkB/XIg+q3RVPtqBUKnSzVsku5HfA3p2IvzWA9LhhrZsCiz8BA==;xhuJdrRbwN41vt4Fzs7lQw=="
 ---
 

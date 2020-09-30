@@ -2,6 +2,364 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-29-take-a-look-at-this-new-drone-on-demand-mobile-app.md",
+      "title": "Take A Look At This New Drone On Demand Mobile App",
+      "excerpt": "Aquiline Drones is bringing a “Drone-on-Demand” (DoD) mobile app to the market. The DoD app will be accessible through all mobile devices, including smartphones and tablets. According to the company,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2020/09/28/take-a-look-at-this-new-drone-on-demand-mobile-app/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2020/09/28/take-a-look-at-this-new-drone-on-demand-mobile-app/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f722a94103c005007144241%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2020/09/28/take-a-look-at-this-new-drone-on-demand-mobile-app/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2020/09/28/take-a-look-at-this-new-drone-on-demand-mobile-app/amp/",
+      "publishedDateTime": "2020-09-28T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-deep-science-robot-perception-acoustic-monitoring-using-ml-to-detect-arthritis.md",
+      "title": "Deep Science: Robot perception, acoustic monitoring, using ML to detect arthritis",
+      "excerpt": "This column aims to collect the most relevant recent discoveries and papers — particularly in but not limited to artificial intelligence — and explain why they matter. The topics in this week ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/28/deep-science-robot-perception-acoustic-monitoring-using-ml-to-detect-arthritis/",
+      "originalUrl": "https://techcrunch.com/2020/09/28/deep-science-robot-perception-acoustic-monitoring-using-ml-to-detect-arthritis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-1136667866.jpg?w=1024",
+          "width": 1024,
+          "height": 716,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/28/deep-science-robot-perception-acoustic-monitoring-using-ml-to-detect-arthritis/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/28/deep-science-robot-perception-acoustic-monitoring-using-ml-to-detect-arthritis/amp/",
+      "publishedDateTime": "2020-09-28T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-moving-from-notebooks-to-automated-ml-pipelines-using-amazon-sagemaker-and-aws-glue.md",
+      "title": "Moving from notebooks to automated ML pipelines using Amazon SageMaker and AWS Glue",
+      "excerpt": "A typical machine learning (ML) workflow involves processes such as data extraction, data preprocessing, feature engineering, model training and evaluation, and model deployment. As data changes over time, when you deploy models to production, you want your model to learn continually from the stream",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/moving-from-notebooks-to-automated-ml-pipelines-using-amazon-sagemaker-and-aws-glue/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/moving-from-notebooks-to-automated-ml-pipelines-using-amazon-sagemaker-and-aws-glue/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/24/1-Retraining-Pipeline.jpg",
+          "width": 1000,
+          "height": 623,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-28T11:56:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-amsterdam-and-helsinki-launch-algorithm-registries-to-bring-transparency-to-public-deployments-of-ai.md",
+      "title": "Amsterdam and Helsinki launch algorithm registries to bring transparency to public deployments of AI",
+      "excerpt": "Amsterdam and Helsinki today launched AI registries to detail how each city uses algorithms to deliver services.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/28/amsterdam-and-helsinki-launch-algorithm-registries-to-bring-transparency-to-public-deployments-of-ai/",
+      "originalUrl": "https://venturebeat.com/2020/09/28/amsterdam-and-helsinki-launch-algorithm-registries-to-bring-transparency-to-public-deployments-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/amsterdam.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/28/amsterdam-and-helsinki-launch-algorithm-registries-to-bring-transparency-to-public-deployments-of-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/28/amsterdam-and-helsinki-launch-algorithm-registries-to-bring-transparency-to-public-deployments-of-ai/amp/",
+      "publishedDateTime": "2020-09-28T11:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-new-army-accelerated-multi-node-attack-enabled-by-ai-at-project-convergence-2020.md",
+      "title": "New Army ‘Accelerated Multi-Node Attack’ enabled by AI at Project Convergence 2020",
+      "excerpt": "Gray Eagle drones were armed with HELLFIRE missiles and GBU-69 glide bombs, 155mm artillery weapons fired rounds 60km (37.3 miles) to destroy SA-22 enemy air defenses and armored ground combat vehicles directly hit multiple T-72 tanks during the Army’s Project Convergence 2020 at Yuma Proving Grounds,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/new-army-accelerated-multi-node-attack-enabled-by-ai-at-project-convergence-2020",
+      "originalUrl": "https://www.foxnews.com/tech/new-army-accelerated-multi-node-attack-enabled-by-ai-at-project-convergence-2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/ArmyERCA.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/new-army-accelerated-multi-node-attack-enabled-by-ai-at-project-convergence-2020.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/new-army-accelerated-multi-node-attack-enabled-by-ai-at-project-convergence-2020.amp",
+      "publishedDateTime": "2020-09-28T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-how-this-digital-avatar-is-elevating-ai-technology.md",
+      "title": "How This Digital Avatar Is Elevating AI Technology",
+      "excerpt": "Lee has created a seamless transition from the physical to digital world with upscale imagery and a unique vision with the digital avatar Aliza Rexx. Aliza is currently one of the fastest growing digital avatars with a loyal following on social media ever since she made her debut in 2018.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/isisbriones/2020/09/28/how-this-digital-avatar-is-elevating-ai-technology/",
+      "originalUrl": "https://www.forbes.com/sites/isisbriones/2020/09/28/how-this-digital-avatar-is-elevating-ai-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f721ba48798ebc8ca144243%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D800%26cropY1%3D161%26cropY2%3D611",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/isisbriones/2020/09/28/how-this-digital-avatar-is-elevating-ai-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/isisbriones/2020/09/28/how-this-digital-avatar-is-elevating-ai-technology/amp/",
+      "publishedDateTime": "2020-09-28T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-sd-times-news-digest-ruby-30-preview-1-release-cron-triggers-for-the-cloudflare-workers-and-tensorflow-recommender.md",
+      "title": "SD Times news digest: Ruby 3.0 preview 1 release, Cron Triggers for the Cloudflare Workers, and TensorFlow Recommender",
+      "excerpt": "Ruby 3.0 preview 1 release, Cron Triggers for the Cloudflare Workers serverless compute platform, TensorFlow Recommender released",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/softwaredev/sd-times-news-digest-ruby-3-0-preview-1-release-cron-triggers-for-the-cloudflare-workers-and-tensorflow-recommender/",
+      "originalUrl": "https://sdtimes.com/softwaredev/sd-times-news-digest-ruby-3-0-preview-1-release-cron-triggers-for-the-cloudflare-workers-and-tensorflow-recommender/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2020/09/gems-44532_1280.png",
+          "width": 1199,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-28T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-study-indicates-neither-algorithmic-differences-nor-diverse-data-sets-solve-facial-recognition-bias.md",
       "title": "Study indicates neither algorithmic differences nor diverse data sets solve facial recognition bias",
       "excerpt": "Facial recognition models fail to recognize Black, Middle Eastern, and Latino people more often than those with lighter skin. That’s according to a study by researchers at Witchita State ...",
@@ -293,6 +651,56 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-the-pandemic-created-a-plastics-problem-but-ai-can-help.md",
+      "title": "The Pandemic Created A Plastics Problem, But AI Can Help",
+      "excerpt": "In the wake of COVID-19, single-use plastics and other waste materials are growing, creating an opportunity for waste-to-energy plants, especially those equipped with intelligent systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mitsubishiheavyindustries/2020/09/28/the-pandemic-created-a-plastics-problem-but-ai-can-help/",
+      "originalUrl": "https://www.forbes.com/sites/mitsubishiheavyindustries/2020/09/28/the-pandemic-created-a-plastics-problem-but-ai-can-help/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6b775793ae332ea03fe5b4%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mitsubishiheavyindustries/2020/09/28/the-pandemic-created-a-plastics-problem-but-ai-can-help/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mitsubishiheavyindustries/2020/09/28/the-pandemic-created-a-plastics-problem-but-ai-can-help/amp/",
+      "publishedDateTime": "2020-09-28T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -791,395 +1199,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-chinese-publishers-see-ai-translation-as-the-killer-app-for-pushing-web-novels-overseas.md",
-      "title": "Chinese publishers see AI translation as the killer app for pushing web novels overseas",
-      "excerpt": "While artificial intelligence has so far proven to be inferior at the job compared to humans, that hasn’t deterred China’s online literature platforms from betting on algorithms to introduce Chinese web novels to English-speaking audiences.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/abacus/tech/article/3102891/chinese-publishers-see-ai-translation-killer-app-pushing-web-novels",
-      "originalUrl": "https://www.scmp.com/abacus/tech/article/3102891/chinese-publishers-see-ai-translation-killer-app-pushing-web-novels",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/09/25/c5f3a53c-fe3d-11ea-9bb5-57ca6b07e40a_image_hires_155243.jpg?itok=uE7g2BRT&v=1601020372",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/abacus/tech/article/3102891/chinese-publishers-see-ai-translation-killer-app-pushing-web-novels",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/abacus/tech/article/3102891/chinese-publishers-see-ai-translation-killer-app-pushing-web-novels",
-      "publishedDateTime": "2020-09-27T17:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-hear-from-postmates-refraction-ai-and-fedex-about-autonomous-delivery-at-tc-sessions-mobility-2020.md",
-      "title": "Hear from Postmates, Refraction AI and FedEx about autonomous delivery at TC Sessions: Mobility 2020",
-      "excerpt": "Small startups and logistics giants alike are working on how to use automated vehicle technology and robotics for delivery. Some have even accelerated their efforts, with mixed results, as the COVID-19 pandemic drove up demand for delivery.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/28/hear-from-postmates-refraction-ai-and-fedex-about-autonomous-delivery-at-tc-sessions-mobility-2020/",
-      "originalUrl": "https://techcrunch.com/2020/09/28/hear-from-postmates-refraction-ai-and-fedex-about-autonomous-delivery-at-tc-sessions-mobility-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/kashani-yeung-Johnson-Roberson.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/28/hear-from-postmates-refraction-ai-and-fedex-about-autonomous-delivery-at-tc-sessions-mobility-2020/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/28/hear-from-postmates-refraction-ai-and-fedex-about-autonomous-delivery-at-tc-sessions-mobility-2020/amp/",
-      "publishedDateTime": "2020-09-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-how-can-ai-support-small-businesses-during-the-pandemic.md",
-      "title": "How Can AI Support Small Businesses During The Pandemic?",
-      "excerpt": "VUCA is a term that seems appropriate for the environment Credit Sesame and many businesses have been facing since the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/quora/2020/09/27/how-can-ai-support-small-businesses-during-the-pandemic/",
-      "originalUrl": "https://www.forbes.com/sites/quora/2020/09/27/how-can-ai-support-small-businesses-during-the-pandemic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f66c44541673f93c14d00c1%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/quora/2020/09/27/how-can-ai-support-small-businesses-during-the-pandemic/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2020/09/27/how-can-ai-support-small-businesses-during-the-pandemic/amp/",
-      "publishedDateTime": "2020-09-27T16:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-how-microsoft-flight-simulator-became-a-living-game-with-azure-ai.md",
-      "title": "How 'Microsoft Flight Simulator' became a 'living game' with Azure AI",
-      "excerpt": "Flight Simulator is a triumph, one that fully captures the meditative experience of soaring through the clouds. But to bring the game to life,  and developer As",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/microsoft-flight-simulator-azure-ai-machine-learning-193545436.html?itm_source=parsely-api",
-      "originalUrl": "https://www.engadget.com/microsoft-flight-simulator-azure-ai-machine-learning-193545436.html?itm_source=parsely-api",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F92036cb1-ff61-11ea-bf3e-731546a38c60&client=amp-blogside-v2&signature=ffe8a2b4c0f922e4dd987dfb384f0ddaa42ed397",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-27T12:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-how-to-improve-bot-detection-with-machine-learning.md",
-      "title": "How To Improve Bot Detection With Machine Learning",
-      "excerpt": "The bot landscape is changing fast as fraudsters look to capitalize on the confusion, fear and uncertainty surrounding Covid-19 and its immediately accelerating e-commerce.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/27/how-to-improve-bot-detection-with-machine-learning/",
-      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/27/how-to-improve-bot-detection-with-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f70cdf27a22d0b0bf2220f7%2F0x0.jpg%3FcropX1%3D698%26cropX2%3D4871%26cropY1%3D93%26cropY2%3D2875",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/27/how-to-improve-bot-detection-with-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/09/27/how-to-improve-bot-detection-with-machine-learning/amp/",
-      "publishedDateTime": "2020-09-27T11:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-27-ai-is-increasingly-being-designed-to-apologize-but-self-driving-cars-are-not-hip-to-the-idea.md",
-      "title": "AI Is Increasingly Being Designed To Apologize, But Self-Driving Cars Are Not Hip To The Idea",
-      "excerpt": "AI is increasingly offering apologies, but does this make sense. getty. They say that love means never having to say that you are sorry. When does it make sense though to proffer",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingly-being-designed-to-apologize-but-self-driving-cars-are-not-hip-to-the-idea/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingly-being-designed-to-apologize-but-self-driving-cars-are-not-hip-to-the-idea/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a971bf92664bddd8e6ca2%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingly-being-designed-to-apologize-but-self-driving-cars-are-not-hip-to-the-idea/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingly-being-designed-to-apologize-but-self-driving-cars-are-not-hip-to-the-idea/amp/",
-      "publishedDateTime": "2020-09-27T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-09-27-us-uk-announce-ai-partnership-axios.md",
-      "title": "U.S., UK announce AI partnership: Axios",
-      "excerpt": "The Trump administration is set to announce that the United States and the United Kingdom have signed a new agreement to cooperate on research and development on artificial intelligence, Axios reported  on Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/us-uk-announce-ai-partnership-axios-2020-9",
-      "originalUrl": "https://www.businessinsider.com/us-uk-announce-ai-partnership-axios-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/us-uk-announce-ai-partnership-axios-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-uk-announce-ai-partnership-axios-2020-9?amp",
-      "publishedDateTime": "2020-09-27T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-27-5-microsoft-teams-upgrades-that-take-it-deeper-into-the-workplace.md",
-      "title": "5 Microsoft Teams Upgrades That Take It Deeper Into the Workplace",
-      "excerpt": "With Redmond, Wash.-based Microsoft’s reach in the digital workplace as far as it is it is now, its annual Ignite conference is always a high point in the digital workplace calendar in terms of new releases and developments.",
-      "sourceUrl": null,
-      "webUrl": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/5-new-ways-to-boost-productivity-with-enhanced-teams-power/ba-p/1680697",
-      "originalUrl": "https://www.cmswire.com/collaboration-productivity/5-microsoft-teams-upgrades-that-takes-it-deeper-into-the-workplace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 299,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcommunity.microsoft.com/t5/image/serverpage/image-id/220823i97F191E801AC4FFC?v=1.0",
-          "width": 1597,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-27T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

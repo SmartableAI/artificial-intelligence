@@ -3,8 +3,8 @@ category: news
 title: "Volkswagen Trucking Business Invests in Self-Driving Truck Developer TuSimple"
 excerpt: "Volkswagen unit Traton Group will work with TuSimple to develop self-driving trucks and take a stake in the technology company as part of their agreement."
 publishedDateTime: 2020-09-23T12:01:00Z
-originalUrl: "https://www.wsj.com/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460?mod=hp_minor_pos14"
-webUrl: "https://www.wsj.com/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460?mod=hp_minor_pos14"
+originalUrl: "https://www.wsj.com/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460"
+webUrl: "https://www.wsj.com/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460"
 ampWebUrl: "https://www.wsj.com/amp/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 640
     isCached: true
 
-secured: "+G8wMt8eF5SUGGFb9HaktuvAeJwlAVA7c+78PlOC65Y3QR7T0GcQRhCDtOcxK1QlYCI58mzfARKnVkz15kXgJsuwZamFHFLjLJGeawxiFisr4MQgWIFI2IReBDqEhxkFY71oCKqMWMGy0wyuExE5crGZXPPOhdqpj+BvqOA0hXdZgDQ6qesolheckUkqrCTjgaqUGwMYUvsVHXYCEOFjtiPt6YIdo1MU1J0/pDUzvfvjgyqEgMXaKhlU0uESzcQuO0L6BV0DsAcAg10jiqUva3zTDl5C+2EBL0bUxpXO8V/U6T+zhranZ8Gt66w+lTn8Zw0Q8U+JM3CECFKhdkz6XOvUL/05W5GpOv1Dj6ItA3A=;golCIO7IKqvrxmwm+bYVJA=="
+secured: "/qDo6WNivBQfFdfXaCCWupictO1mdybGsd/svkD/9ufItWOLAa2soYGsFhx+tBCl0eJ7s7FjKSih9o7+/k9slD4lKcZNzLKcY9lM4KkglRB+a4YFHYs2nms+KfTmNoBrZpfDmk67HaJsTVgZrzkKOtnmhPeGgerMcvY0q88tuu0PUiaGVzc75yhWKPrtk8bgg5WIcfY12U/CJojShQavZyDfzun4Rs+i55N0SZYuVMaoGBi/mBz80RfZLIkIILqUXKH7f7HIvHE7ymcxTPUCGNOinS3rgm/bn11S30J20GLM+Oi0kTB7xawC56/CddFbiTaGLZflTi/yh5cLdC9E6xTFjlP+g7f0EKpjTx96gB8=;KpH2eF32UmgiLM5fTEOm5g=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://www.fool.com/investing/2020/09/29/nvidia-and-vmware-partner-to-
 ampWebUrl: "https://www.fool.com/amp/investing/2020/09/29/nvidia-and-vmware-partner-to-bring-ai-into-the-mai/"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/29/nvidia-and-vmware-partner-to-bring-ai-into-the-mai/"
 type: article
-quality: 89
-heat: 179
+quality: 189
+heat: 279
 published: true
 
 provider:
@@ -149,6 +149,6 @@ related:
       domain: morningstar.com
     quality: 7
 
-secured: "tc2vC9wKjz5qLSlRZOChdIj551gvmvChTvqFSjp6u4YKUCCdeTmzyjtqkMzkvKvxKH6MioVIO72YiLehMJuXRUkaTqj221xrh1F3yWwPYcHwInms7r46CcVmaSDCAOYbEMyrjnjxMA831ntFBVSHT4RzGvGPrqwKITg4ezSiaagyXGdL9bZmXFLUis5hyYS0JmJPujT+IzzWQEQuE4/8G+cwETac9ttBnWLeLQzNGDNiNk4cnr01QMLV/XUcHRx4qUUBSVywIoRGyuk7uDGhyX85EmaOiw+epv2UrEmOC9k+EEQItzVn51mkomGFIX06GBRpeAlolWDkCEsLm01/TCoRuXOVlYvX+W27BFBhmqIMzc94GVISc+lWrhbw+aIlMlQY+Weoejab9fWt4emjNPLwE2RwbO9ESEmu4XK51nRuDN1pQaKIqxdTylczTs656DwD+3reT8NyBFp0dHYGowHmIvmCdspVC8DBy2xyx+x0MGI9gMCfHx0ie/tP66llVYKbIHazCRsvukcmtRJEbQ==;qqRpBHAhm2jvuRA9NXH7yQ=="
+secured: "x9hpunjCCqwRm3gOqLjR2gLLhu6zqXu8ZsvSgkn7uB7vGtB2mjG3+EyshwI82717AOkl3VYvEOPuBSC9HvqfEpz93Fo8nmvwyib7cueoARGupAsJ3BP1jNJcXLIgdC/8tCYwsybNmwZbBhHsRjVBswrBB9mDhv7Pjkt3ZQxk7+quSrAvZAqjpSzbkQq11ub/zHWgwbmzJG0uxRCbdVmcyj9hKPuSUul4Blbtu7WI8BdEjTf1nNSSmpmqSR5XQdHYjycQtUN3Ppndyw+/ZAhOmGzh82RL5dddctRRR8SNbYVfXIEVn4Yh35ajheCV0kUrYeGzhPXmrpcQ8NoCYzst5vDJRey209IzBGkdkeWyv3/ebQPp+5zMRfP+pZ0PPLgt/Jm57ceoX1j4lkYuEjtG0wweGHxPFFa4CV3t/ZGdIQrra4XTRTLsa1rA9f/izKPB7bTTHnby5o+dgLkik2sgcmWdSVaCil0VDs3o4THlJaFSLAvZSJUxB0W/mapUUns5Mxb2jIQPoyMsDvRDXyFgCEkn93BSwjD54p/ZOr1gJyw=;ynhNEp9vFJpf65T+vvQmjg=="
 ---
 

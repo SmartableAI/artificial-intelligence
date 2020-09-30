@@ -2,6 +2,429 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2020-09-02-nvidia-unveils-ampere-geforce-rtx-3090-rtx-3080-and-rtx-3070-gaming-gpus-crushes-it-again.md",
+      "title": "NVIDIA Unveils Ampere GeForce RTX 3090, RTX 3080 And RTX 3070 Gaming GPUs, Crushes It Again",
+      "excerpt": "It may be a little presumptuous to make early projections like this but my initial thought is that Ampere is going to be a huge hit among gamers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2020/09/01/nvidia-unveils-ampere-geforce-rtx-3090-3080-and-3070-gaming-gpus-and-crushes-it-again/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2020/09/01/nvidia-unveils-ampere-geforce-rtx-3090-3080-and-3070-gaming-gpus-and-crushes-it-again/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4e7ae75aeffe545e825438%2F0x0.jpg",
+          "width": 960,
+          "height": 565,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2020/09/01/nvidia-unveils-ampere-geforce-rtx-3090-3080-and-3070-gaming-gpus-and-crushes-it-again/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2020/09/01/nvidia-unveils-ampere-geforce-rtx-3090-3080-and-3070-gaming-gpus-and-crushes-it-again/amp/",
+      "publishedDateTime": "2020-09-01T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-01-announcing-the-winner-of-the-aws-deepcomposer-chartbusters-spin-the-model-challenge.md",
+      "title": "Announcing the winner of the AWS DeepComposer Chartbusters Spin the Model challenge",
+      "excerpt": "We’re excited to announce the top 10 compositions and the winner of the AWS DeepComposer Chartbusters Spin the Model challenge. AWS DeepComposer provides a creative and hands-on experience for learning generative AI and machine learning. Chartbusters is a global monthly challenge where you can use AWS",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-winner-of-the-aws-deepcomposer-chartbusters-spin-the-model-challenge/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-winner-of-the-aws-deepcomposer-chartbusters-spin-the-model-challenge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-01T12:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-ibm-collaborated-with-the-city-of-seoul-south-korea-to-develop-an-ai-based-virtual-assistant-for-its-citizens-using-ibm-watson.md",
+      "title": "IBM Collaborated with the City of Seoul, South Korea to Develop an AI-based Virtual Assistant for its Citizens using IBM Watson",
+      "excerpt": "PRNewswire/ -- IBM (NYSE: IBM) and the city of Seoul, South Korea, have launched an AI-based virtual assistant for Seoul citizens using IBM Watson Assistant. The virtual assistant is part of the city's \"I Care You\" project,",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20200820ny98850/ibm-collaborated-with-the-city-of-seoul-south-korea-to-develop-an-ai-based-virtual-assistant-for-its-citizens-using-ibm-watson",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20200820ny98850/ibm-collaborated-with-the-city-of-seoul-south-korea-to-develop-an-ai-based-virtual-assistant-for-its-citizens-using-ibm-watson",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-01T12:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-01-how-to-run-distributed-training-using-horovod-and-mxnet-on-aws-dl-containers-and-aws-deep-learning-amis.md",
+      "title": "How to run distributed training using Horovod and MXNet on AWS DL Containers and AWS  Deep Learning AMIs",
+      "excerpt": "Distributed training of large deep learning models has become an indispensable way of model training for computer vision (CV) and natural language processing (NLP) applications. Open source frameworks such as Horovod provide distributed training support to Apache MXNet, PyTorch, and TensorFlow. Converting",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/horovod-mxnet-distributed-training/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/horovod-mxnet-distributed-training/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/01/1-Architecture.jpg",
+          "width": 900,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-01T12:29:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-geforce-rtx-3080-is-nvidias-new-flagship-next-gen-gpu.md",
+      "title": "GeForce RTX 3080 is Nvidia’s New Flagship Next-Gen GPU",
+      "excerpt": "The RTX 3080 is said to be up to twice as fast as the original RTX 2080. Built on a custom 8N manufacturing process, it has 28 billion transistors, 8704 CUDA Cores, and a 10 GB GDDR6X VRAM. It was also confirmed that the images showing the curved heatsink and bi-directional fans of the GPU that were leaked earlier in the year are indeed accurate.",
+      "sourceUrl": null,
+      "webUrl": "https://gamingbolt.com/geforce-rtx-3080-is-nvidias-new-flagship-next-gen-gpu",
+      "originalUrl": "https://gamingbolt.com/geforce-rtx-3080-is-nvidias-new-flagship-next-gen-gpu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gamingbolt.com/geforce-rtx-3080-is-nvidias-new-flagship-next-gen-gpu/amp",
+      "cdnAmpWebUrl": "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/geforce-rtx-3080-is-nvidias-new-flagship-next-gen-gpu/amp",
+      "publishedDateTime": "2020-09-01T12:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "From Software",
+        "domain": "gamingbolt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-nvidia-unveils-geforce-rtx-30-series-gpus.md",
+      "title": "NVIDIA unveils GeForce RTX 30 Series GPUs",
+      "excerpt": "NVIDIA introduced its new GeForce RTX 30 Series GPUs today. The new cards will be available starting in September. The new series of GPUs will be the biggest jump forward in graphics technology in the history of the company,",
+      "sourceUrl": null,
+      "webUrl": "https://dotesports.com/hardware/news/nvidia-unveils-geforce-rtx-30-series-gpus",
+      "originalUrl": "https://dotesports.com/hardware/news/nvidia-unveils-geforce-rtx-30-series-gpus",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn1.dotesports.com/wp-content/uploads/2020/09/01132606/geforce-rtx-3090-product-gallery-full-screen-3840-2-scaled.jpg",
+          "width": 2560,
+          "height": 1441,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://dotesports.com/hardware/news/nvidia-unveils-geforce-rtx-30-series-gpus/amp",
+      "cdnAmpWebUrl": "https://dotesports-com.cdn.ampproject.org/c/s/dotesports.com/hardware/news/nvidia-unveils-geforce-rtx-30-series-gpus/amp",
+      "publishedDateTime": "2020-09-01T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dot Esports",
+        "domain": "dotesports.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-01-using-amazon-textract-with-aws-privatelink.md",
+      "title": "Using Amazon Textract with AWS PrivateLink",
+      "excerpt": "Amazon Textract now supports Amazon Virtual Private Cloud (Amazon VPC) endpoints via AWS PrivateLink so you can securely initiate API calls to Amazon Textract from within your VPC and avoid using the public internet. In this post, we show you how to access Amazon Textract APIs from within your VPC without",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-amazon-textract-with-aws-privatelink/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-amazon-textract-with-aws-privatelink/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/31/textract-privatelink.jpg",
+          "width": 1000,
+          "height": 485,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-01T11:58:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-ai-eye-indeed-selects-aws-nasdaqgs-amzn-as-preferred-cloud-and-leading-lens-manufacturer-to-utilize-ai-powered-celebros-from-bridgeline.md",
+      "title": "AI Eye: Indeed Selects AWS (NasdaqGS: $AMZN) As Preferred Cloud And Leading Lens Manufacturer To Utilize AI-Powered Celebros From Bridgeline Digital (NasdaqCM: $BLIN) For eCommerce",
+      "excerpt": "deal tracker and advancements in artificial intelligence Stocks discussed: (NasdaqGS:AMZN) (NasdaqCM:BLIN) The world’s leading job site Indeed has selected Amazon Web Services (AWS), a ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/instablog/776842-investorideas-com/5492243-ai-eye-indeed-selects-aws-nasdaqgs-amzn-preferred-cloud-and-leading-lens-manufacturer-to",
+      "originalUrl": "https://seekingalpha.com/instablog/776842-investorideas-com/5492243-ai-eye-indeed-selects-aws-nasdaqgs-amzn-preferred-cloud-and-leading-lens-manufacturer-to",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static2.seekingalpha.com/uploads/2020/9/1/776842-1598985456764054.jpg",
+          "width": 387,
+          "height": 365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-01T11:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-future-cars-may-live-a-lot-longer-analysts-believe.md",
+      "title": "Future cars may live a lot longer, analysts believe",
+      "excerpt": "Vehicle lifecycles are typically about five years with updates sprinkled in, but the lifespan could double to 10 years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/future-cars-vehicle-lifecycle-updates/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/future-cars-vehicle-lifecycle-updates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/I-FdpHll_2IA0qHIZu-4T82tWYU=/2020/02/03/77404ad3-e112-43aa-b8be-6d451870ba75/ep3gwiew4ayb6cd.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/future-cars-vehicle-lifecycle-updates/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/future-cars-vehicle-lifecycle-updates/",
+      "publishedDateTime": "2020-09-01T11:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-02-acer-announces-support-for-the-new-nvidia-geforce-rtx-30-series-gpus-across-its-predator-orion-desktop-portfolio.md",
       "title": "Acer Announces Support for the New NVIDIA GeForce RTX 30 Series GPUs Across Its Predator Orion Desktop Portfolio",
       "excerpt": "The GeForce RTX 3090, 3080, and 3070 represent the greatest GPU generational leap in the history ... ray-traced graphics and cutting-edge AI features, and provide gamers with incredible gaming ...",
@@ -724,428 +1147,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-aws-announces-general-availability-of-amazon-ebs-io2-volume.md",
-      "title": "AWS Announces General Availability of Amazon EBS io2 Volume",
-      "excerpt": "New Amazon EBS volume delivers 100x higher durability and 10x more IOPS-to-storage ratio at the same price of current comparable volumes Bristol Myers Squibb,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/08/b17222030/aws-announces-general-availability-of-amazon-ebs-io2-volume",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/08/b17222030/aws-announces-general-availability-of-amazon-ebs-io2-volume",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17222030",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17222030",
-      "publishedDateTime": "2020-09-01T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-electronic-skin-that-feels-pain-could-lead-to-smarter-prosthetics-and-robots.md",
-      "title": "Electronic skin that ‘feels’ pain could lead to smarter prosthetics and robots",
-      "excerpt": "Scientists from RMIT University in Australia have developed an electronic skin that reacts to pain like human skin.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/09/01/electronic-skin-that-feels-pain-could-lead-to-smarter-prosthetics-and-robots/",
-      "originalUrl": "https://thenextweb.com/neural/2020/09/01/electronic-skin-that-feels-pain-could-lead-to-smarter-prosthetics-and-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Untitled-design-2020-09-01T134601.951-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/09/01/electronic-skin-that-feels-pain-could-lead-to-smarter-prosthetics-and-robots/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/01/electronic-skin-that-feels-pain-could-lead-to-smarter-prosthetics-and-robots/amp/",
-      "publishedDateTime": "2020-09-01T06:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-arize-ai-helps-us-understand-how-ai-works.md",
-      "title": "Arize AI Helps Us Understand How AI Works",
-      "excerpt": "The lack of explainability and observability prevents AI and ML from being trusted tools in critical areas of human activity. Fortunately, Jason Lopatecki and Aparna Dhinakaran created Arize AI to helps us understand how and why AIs think.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/frederickdaso/2020/09/01/arize-ai-helps-us-understand-how-ai-works/",
-      "originalUrl": "https://www.forbes.com/sites/frederickdaso/2020/09/01/arize-ai-helps-us-understand-how-ai-works/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3827887b0409ce0d3c823f%2F0x0.jpg",
-          "width": 1199,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/frederickdaso/2020/09/01/arize-ai-helps-us-understand-how-ai-works/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2020/09/01/arize-ai-helps-us-understand-how-ai-works/amp/",
-      "publishedDateTime": "2020-09-01T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-sarcos-robotics-raises-40-million-to-develop-an-exoskeleton-for-industrial-applications.md",
-      "title": "Sarcos Robotics raises $40 million to develop an exoskeleton for industrial applications",
-      "excerpt": "Sarcos Robotics, a startup developing robots for industrial and defense applications, today nabbed $40 million in equity financing.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/01/sarcos-robotics-raises-40-million-to-develop-an-exoskeleton-for-industrial-applications/",
-      "originalUrl": "https://venturebeat.com/2020/09/01/sarcos-robotics-raises-40-million-to-develop-an-exoskeleton-for-industrial-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/sarcos-hero-e1598912552984.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/01/sarcos-robotics-raises-40-million-to-develop-an-exoskeleton-for-industrial-applications/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/01/sarcos-robotics-raises-40-million-to-develop-an-exoskeleton-for-industrial-applications/amp/",
-      "publishedDateTime": "2020-09-01T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-newfront-insurance-named-to-the-2020-cb-insights-fintech-250-list-of-fastest-growing-fintech-startups.md",
-      "title": "Newfront Insurance Named to the 2020 CB Insights Fintech 250 List of Fastest-Growing Fintech Startups",
-      "excerpt": "CB Insights today named Newfront Insurance to the third annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. The recognition by CB Insights is the latest in a string of milestones for three-year old Newfront,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/PR Newswire/0db8ebfe0c1cb7b738d3be49ab3df670",
-      "originalUrl": "https://apnews.com/PR Newswire/0db8ebfe0c1cb7b738d3be49ab3df670",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-01T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-wearable-robot-company-marches-to-big-raise.md",
-      "title": "Wearable robot company marches to big raise",
-      "excerpt": "There's are two reasons I've written glowingly about a Utah-based robotics company called Sarcos, which just locked in an additional $40M in Series C funding. The first is the company's pragmatic approach to becoming a key automation supplier in the near-term.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/wearable-robot-company-marches-to-big-raise/",
-      "originalUrl": "https://www.zdnet.com/article/wearable-robot-company-marches-to-big-raise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/wearable-robot-company-marches-to-big-raise/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/wearable-robot-company-marches-to-big-raise/",
-      "publishedDateTime": "2020-09-01T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-trevor-paglen-is-putting-the-art-in-artificial-intelligence.md",
-      "title": "Trevor Paglen Is Putting the Art in Artificial Intelligence",
-      "excerpt": "With two upcoming exhibitions that center on AI, the multimedia artist is drawing attention to a hidden world of modern phrenology, racist categorizations and the surreality of facial recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/trevor-paglen-art-artificial-intelligence-interview-11598963246",
-      "originalUrl": "https://www.wsj.com/articles/trevor-paglen-art-artificial-intelligence-interview-11598963246",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-227233/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/trevor-paglen-art-artificial-intelligence-interview-11598963246",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trevor-paglen-art-artificial-intelligence-interview-11598963246",
-      "publishedDateTime": "2020-09-01T05:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-salesforce-beefing-up-field-service-offering-with-ai.md",
-      "title": "Salesforce beefing up field service offering with AI",
-      "excerpt": "Salesforce has been adding artificial intelligence to all parts of its platform for several years now. It calls the underlying artificial intelligence layer on the Salesforce platform Einstein. Today the company announced some enhancements to its field service offerings that take advantage of this",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/01/salesforce-beefing-up-field-service-offering-with-ai/",
-      "originalUrl": "https://techcrunch.com/2020/09/01/salesforce-beefing-up-field-service-offering-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1135334309.jpg?w=1024",
-          "width": 1024,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/01/salesforce-beefing-up-field-service-offering-with-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/01/salesforce-beefing-up-field-service-offering-with-ai/amp/",
-      "publishedDateTime": "2020-09-01T05:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-ai-enhanced-displays-are-coming-to-more-affordable-smartphones.md",
-      "title": "AI-enhanced displays are coming to more affordable smartphones",
-      "excerpt": "Pixelworks' i6 display processor boasts AI scene detection to enhance picture quality for more affordable phones.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/pixelworks-i6-display-processor-1151116/",
-      "originalUrl": "https://www.androidauthority.com/pixelworks-i6-display-processor-1151116/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/04/OnePlus-8-screen-1-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/pixelworks-i6-display-processor-1151116/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/pixelworks-i6-display-processor-1151116/amp/",
-      "publishedDateTime": "2020-09-01T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

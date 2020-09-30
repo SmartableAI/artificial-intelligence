@@ -2,6 +2,207 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-30-coralogix-raises-25-million-to-parse-software-logs-with-ai.md",
+      "title": "Coralogix raises $25 million to parse software logs with AI",
+      "excerpt": "Coralogix, which leverages AI and machine learning to parse software development logs, raised $25 million in venture capital financing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/30/coralogix-raises-25-million-to-parse-software-logs-with-ai/",
+      "originalUrl": "https://venturebeat.com/2020/09/30/coralogix-raises-25-million-to-parse-software-logs-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/Coralogicx.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 586,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/30/coralogix-raises-25-million-to-parse-software-logs-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/30/coralogix-raises-25-million-to-parse-software-logs-with-ai/amp/",
+      "publishedDateTime": "2020-09-30T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-how-the-trevor-project-continues-to-support-lgbtq-youth.md",
+      "title": "How The Trevor Project continues to support LGBTQ youth",
+      "excerpt": "This September, National Suicide Prevention Awareness Month feels different. Over the past nine months, LGBTQ youth have experienced unique challenges in relation to COVID-19.The pandemic has amplified existing mental health disparities and created new problems that have impacted the daily lives of many",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/google-org/trevor-project-support-lgbtq-youth/",
+      "originalUrl": "https://blog.google/outreach-initiatives/google-org/trevor-project-support-lgbtq-youth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3O5A3023_LUKnAQ7.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 866,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/google-org/trevor-project-support-lgbtq-youth/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-org/trevor-project-support-lgbtq-youth/amp/",
+      "publishedDateTime": "2020-09-30T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-artificial-intelligence-used-to-predict-loneliness-in-senior-citizens.md",
+      "title": "Artificial Intelligence Used To Predict Loneliness In Senior Citizens",
+      "excerpt": "Publishing in the American Journal of Psychiatry, the researchers were able to harness natural language processing (NLP) and machine learning to classify the sentiment and emotions of speech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/simonchandler/2020/09/30/artificial-intelligence-used-to-predict-loneliness-in-senior-citizens/",
+      "originalUrl": "https://www.forbes.com/sites/simonchandler/2020/09/30/artificial-intelligence-used-to-predict-loneliness-in-senior-citizens/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f747c5e462d02aecbe7e4f4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5568%26cropY1%3D181%26cropY2%3D3313",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/simonchandler/2020/09/30/artificial-intelligence-used-to-predict-loneliness-in-senior-citizens/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonchandler/2020/09/30/artificial-intelligence-used-to-predict-loneliness-in-senior-citizens/amp/",
+      "publishedDateTime": "2020-09-30T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-automotive-artificial-intelligence-ai-market-analysis-growth-opportunities.md",
+      "title": "Automotive Artificial Intelligence (AI) Market Analysis & Growth Opportunities",
+      "excerpt": "Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-analysis-growth-opportunities-2020-09-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-analysis-growth-opportunities-2020-09-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-30T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-artificial-intelligence-ai-market-insights-on-fortified-dairy-products-market-and-forecast-assumptions.md",
       "title": "Artificial Intelligence (AI) Market Insights on Fortified Dairy Products Market and Forecast Assumptions",
       "excerpt": "Particularly in healthcare, Artificial Intelligence (AI), is expected to bring revolutionary changes in terms of reduction in terms of healthcare cost reduction and quality treatment in the region. This report defines, describe, and forecast the overall ...",
@@ -10,7 +211,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-insights-on-fortified-dairy-products-market-and-forecast-assumptions-2020-09-30",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -61,7 +262,7 @@
       "originalUrl": "https://www.zdnet.com/article/will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 76,
       "tags": null,
       "images": null,
       "type": "article",
@@ -93,7 +294,8 @@
         "AWS AI",
         "AI",
         "Machine Learning",
-        "Microsoft AI"
+        "Microsoft AI",
+        "AI in Finance"
       ]
     },
     {
@@ -289,6 +491,88 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-inside-politics-no-10-wants-compromise-with-tory-mps-on-covid-rules.md",
+      "title": "Inside Politics: No 10 wants ‘compromise’ with Tory MPs on Covid rules",
+      "excerpt": "Mogg has held talks with senior backbencher Sir Graham Brady in a bid to head off an embarrassing defeat for the government, writes Adam Forrest",
+      "sourceUrl": null,
+      "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
+      "originalUrl": "https://www.independent.co.uk/independentpremium/uk-news/boris-johnson-forgets-coronavirus-rules-tory-mps-rebel-amendement-b712212.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inside.com/assets/premium/Blue-email-icon-0994aadea0b5b10b19a148e2dd34a88c4a315b76ed51d7898fa49dc4ddc6d171.png",
+          "width": 414,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-30T02:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-deepfake-videos-featuring-kim-jong-un-putin-go-viral-before-us-local-networks-ban-them.md",
+      "title": "Deepfake Videos Featuring Kim Jong Un, Putin Go Viral Before US Local Networks Ban Them",
+      "excerpt": "The ads were supposed to warn Americans of the fragile nature of democracy and to take actions and vote during the U.S. Presidential elections 2020",
+      "sourceUrl": null,
+      "webUrl": "https://www.youtube.com/watch?v=ERQlaJ_czHU&feature=youtu.be",
+      "originalUrl": "https://www.ibtimes.sg/deepfake-videos-featuring-kim-jong-un-putin-go-viral-before-us-local-networks-ban-them-52062",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ERQlaJ_czHU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-30T01:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ellen",
+        "domain": "ibtimes.sg",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -495,7 +779,7 @@
       "originalUrl": "https://www.fool.com/investing/2020/09/29/nvidia-and-vmware-partner-to-bring-ai-into-the-mai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 279,
       "tags": null,
       "images": [
         {
@@ -589,7 +873,7 @@
       "originalUrl": "https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 148,
       "tags": null,
       "images": [
         {
@@ -834,7 +1118,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2025-2020-09-29",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -916,311 +1200,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-datasaur-snags-39m-investment-to-build-intelligent-machine-learning-labeling-platform.md",
-      "title": "Datasaur snags $3.9M investment to build intelligent machine learning labeling platform",
-      "excerpt": "As machine learning has grown, one of the major bottlenecks remains labeling things so the machine learning application understands the data it’s working with. Datasaur, a member of the Y Combinator Winter 2020 batch,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/29/datasaur-snags-3-9m-investment-to-build-intelligent-machine-learning-labeling-platform/",
-      "originalUrl": "https://techcrunch.com/2020/09/29/datasaur-snags-3-9m-investment-to-build-intelligent-machine-learning-labeling-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-671392904.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/29/datasaur-snags-3-9m-investment-to-build-intelligent-machine-learning-labeling-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/29/datasaur-snags-3-9m-investment-to-build-intelligent-machine-learning-labeling-platform/amp/",
-      "publishedDateTime": "2020-09-29T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-roland-garros-2020-puts-ai-at-the-heart-of-the-digital-experience-as-tennis-fans-stay-at-home.md",
-      "title": "Roland Garros 2020 Puts AI At The Heart Of The Digital Experience As Tennis Fans Stay At Home",
-      "excerpt": "Only 1,000 fans will be able to attend this year's French Open at Roland Garros. AI hopes to bring the tournament to people's homes like never before",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemccaskill/2020/09/29/roland-garros-2020-puts-ai-at-the-heart-of-the-digital-experience-as-tennis-fans-stay-at-home/",
-      "originalUrl": "https://www.forbes.com/sites/stevemccaskill/2020/09/29/roland-garros-2020-puts-ai-at-the-heart-of-the-digital-experience-as-tennis-fans-stay-at-home/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f734ff73a7334cd624a47b6%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemccaskill/2020/09/29/roland-garros-2020-puts-ai-at-the-heart-of-the-digital-experience-as-tennis-fans-stay-at-home/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemccaskill/2020/09/29/roland-garros-2020-puts-ai-at-the-heart-of-the-digital-experience-as-tennis-fans-stay-at-home/amp/",
-      "publishedDateTime": "2020-09-29T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-women-founders-of-ai-startups-take-aim-at-gender-bias.md",
-      "title": "Women Founders of AI Startups Take Aim at Gender Bias",
-      "excerpt": "They see gender diversity in their companies as crucial in making sure the technology doesn’t penalize the underrepresented.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/women-founders-of-ai-startups-take-aim-at-gender-bias-11601388625",
-      "originalUrl": "https://www.wsj.com/articles/women-founders-of-ai-startups-take-aim-at-gender-bias-11601388625",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-237380/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/women-founders-of-ai-startups-take-aim-at-gender-bias-11601388625",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/women-founders-of-ai-startups-take-aim-at-gender-bias-11601388625",
-      "publishedDateTime": "2020-09-29T07:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-snowflake-looks-like-a-risky-bet-at-a-60-billion-plus-valuation.md",
-      "title": "Snowflake Looks Like A Risky Bet At A $60 Billion Plus Valuation",
-      "excerpt": "Snowflake, the cloud-based data warehousing company that went public recently, is valued at about $60 billion, or about $220 per share. The company trades at a whopping 230x trailing Revenues - well above many other high-growth SaaS names.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2020/09/29/snowflake-looks-like-a-risky-bet-at-a-60-billion-plus-valuation/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2020/09/29/snowflake-looks-like-a-risky-bet-at-a-60-billion-plus-valuation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f72e0242f4428bd11ff2cc3%2F0x0.jpg",
-          "width": 1042,
-          "height": 366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2020/09/29/snowflake-looks-like-a-risky-bet-at-a-60-billion-plus-valuation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2020/09/29/snowflake-looks-like-a-risky-bet-at-a-60-billion-plus-valuation/amp/",
-      "publishedDateTime": "2020-09-29T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-inside-google-healths-struggle-to-refocus-regain-trust-navigate-healthcare-and-make-money.md",
-      "title": "Inside Google Health's struggle to refocus, regain trust, navigate healthcare, and make money",
-      "excerpt": "The young team is up against trust issues, Alphabet's messy layout, and an industry it can't fix with the click of a button.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-healths-strategy-and-identity-within-alphabet-2020-9",
-      "originalUrl": "https://www.businessinsider.com/google-healths-strategy-and-identity-within-alphabet-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f732abb0ab50d00184aced7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-29T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-applying-machine-learning-to-keep-employees-safe-and-save-lives.md",
-      "title": "Applying machine learning to keep employees safe and save lives",
-      "excerpt": "Warny leverages many of the key AWS Services such as IoT, Greengrass, and Sagemaker. Warny uses sophisticated computer vision algorithms to protect people working around dangerous machines ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/29/applying-machine-learning-to-keep-employees-safe-and-save-lives/",
-      "originalUrl": "https://venturebeat.com/2020/09/29/applying-machine-learning-to-keep-employees-safe-and-save-lives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/Hazzard_Outline.jpg?fit=800%2C387&strip=all",
-          "width": 800,
-          "height": 387,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/29/applying-machine-learning-to-keep-employees-safe-and-save-lives/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/29/applying-machine-learning-to-keep-employees-safe-and-save-lives/amp/",
-      "publishedDateTime": "2020-09-29T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

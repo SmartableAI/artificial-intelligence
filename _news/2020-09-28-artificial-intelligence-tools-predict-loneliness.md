@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Used To Predict Loneliness In Senior Citizens"
+    excerpt: "Publishing in the American Journal of Psychiatry, the researchers were able to harness natural language processing (NLP) and machine learning to classify the sentiment and emotions of speech."
+    publishedDateTime: 2020-09-30T12:47:00Z
+    webUrl: "https://www.forbes.com/sites/simonchandler/2020/09/30/artificial-intelligence-used-to-predict-loneliness-in-senior-citizens/"
+    ampWebUrl: "https://www.forbes.com/sites/simonchandler/2020/09/30/artificial-intelligence-used-to-predict-loneliness-in-senior-citizens/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonchandler/2020/09/30/artificial-intelligence-used-to-predict-loneliness-in-senior-citizens/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f747c5e462d02aecbe7e4f4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5568%26cropY1%3D181%26cropY2%3D3313"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Artificial Intelligence Helps Predict Loneliness"
     excerpt: "In older adults, the use of artificial intelligence and natural language patterns (NLP) help discern degrees of loneliness, revealed research."
     publishedDateTime: 2020-09-27T04:03:00Z
@@ -42,38 +58,6 @@ related:
       - url: "https://images.medindia.net/amp-images/health-images/cataract-increases-risk-of-depression-in-older-adults.jpg"
         width: 1200
         height: 1000
-        isCached: true
-  - title: "Artificial Intelligence Can Detect Loneliness With 94% Accuracy"
-    excerpt: "Artificial intelligence (AI) can detect loneliness with 94 per cent accuracy from a person's speech, a new scientific paper reports."
-    publishedDateTime: 2020-09-29T09:42:00Z
-    webUrl: "https://www.albawaba.com/editors-choice/artificial-intelligence-can-detect-loneliness-94-accuracy-1383395"
-    ampWebUrl: "https://www.albawaba.com/amp/editors-choice/artificial-intelligence-can-detect-loneliness-94-accuracy-1383395"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/editors-choice/artificial-intelligence-can-detect-loneliness-94-accuracy-1383395"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 59
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2020-09/shutterstock_510170158.jpg?itok=PGtKijfN"
-        width: 1000
-        height: 568
-        isCached: true
-  - title: "Researchers use artificial intelligence to discern degrees of loneliness in older adults"
-    excerpt: "For the past couple of decades, there has been a loneliness pandemic, marked by rising rates of suicides and opioid use, lost productivity, increased health care costs and rising mortality."
-    publishedDateTime: 2020-09-27T03:19:00Z
-    webUrl: "https://www.news-medical.net/news/20200925/Artificial-intelligence-analyzes-natural-language-patterns-to-discern-degrees-of-loneliness.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20200925/Artificial-intelligence-analyzes-natural-language-patterns-to-discern-degrees-of-loneliness.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200925/Artificial-intelligence-analyzes-natural-language-patterns-to-discern-degrees-of-loneliness.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 50
-    images:
-      - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
         isCached: true
 
 secured: "WtOF1v2m0L5GVZLJLt24ugMj39ZHR2vOnAHoHDzA1BBdjDBopcqW29bEssq8ynp9ABHA17qEG1Moujp68vYZf1TYNji2XaKACpI5XH8Hs0M6FOwe50NIpfZTobXAzkVBuOvIApi8bkt16E89uwa8IsOnWC6BENtEYCFQHE4ssxH+TOvcCx82+MTC3pN119YWAglVW3VB+T4sgUylE7i04EZJuSMQbSHMyFyG4+dC/6ZGqHYOApqtirSaLAcuW1k7km9whKIBn8AGe4Y8egup3LEP2AwJpDdQlv7G3sii3aOf/X/HRfuu4HgKYabhRTHQ0+L258UIH69S9JxW6jpNxYNNgxM4xUeA3O3KF2CKpwd5DwVuz6nfrXJDNruHPb8kTrt02DKTUq53wgzugUEQQma8u9bm8gVsEJIoU03HsKOqj8Nv/Ltp1wPJOCPNhPtk2IR3s92e5hXu3zieQEkqnnJeA+qSQseYH83ULVZY3rbnkT0jrhuCmtX6Cwt1Nfrg3wydHt1In+8BizF+zNCHRQ==;Oi46RyKg3UjO9a0CshGdtQ=="

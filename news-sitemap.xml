@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://venturebeat.com/2020/09/30/coralogix-raises-25-million-to-parse-software-logs-with-ai/</loc>
+    <lastmod>2020-09-30T06:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://blog.google/outreach-initiatives/google-org/trevor-project-support-lgbtq-youth/</loc>
+    <lastmod>2020-09-30T06:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/simonchandler/2020/09/30/artificial-intelligence-used-to-predict-loneliness-in-senior-citizens/</loc>
+    <lastmod>2020-09-30T05:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-analysis-growth-opportunities-2020-09-30</loc>
+    <lastmod>2020-09-30T05:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-insights-on-fortified-dairy-products-market-and-forecast-assumptions-2020-09-30</loc>
     <lastmod>2020-09-30T04:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -33,6 +57,18 @@
   <url>
     <loc>https://arstechnica.com/gadgets/2020/09/intel-heidelberg-university-team-up-to-bring-radeon-gpu-support-to-ai/</loc>
     <lastmod>2020-09-30T03:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://inside.com/premium?campaign_id=23010&amp;list_id=64&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
+    <lastmod>2020-09-30T02:55:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=ERQlaJ_czHU&amp;feature=youtu.be</loc>
+    <lastmod>2020-09-30T01:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -133,6 +169,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.techrepublic.com/article/companies-are-doubling-down-on-artificial-intelligence-and-machine-learning-due-to-pandemic/</loc>
+    <lastmod>2020-09-29T07:16:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/greatspeculations/2020/09/29/snowflake-looks-like-a-risky-bet-at-a-60-billion-plus-valuation/</loc>
     <lastmod>2020-09-29T07:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -181,6 +223,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.forbes.com/sites/jenniferhicks/2020/09/29/using-machine-learning-to-reduce-carbon-emissions-in-the-trucking-industry/</loc>
+    <lastmod>2020-09-29T05:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.entrepreneur.com/article/356864</loc>
     <lastmod>2020-09-29T04:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -207,12 +255,6 @@
   <url>
     <loc>https://www.thesundaily.my/home/covid-19-nec-to-install-thermal-facial-recognition-scanners-at-airports-XB4322246</loc>
     <lastmod>2020-09-29T00:34:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://inside.com/premium?campaign_id=23010&amp;list_id=64&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
-    <lastmod>2020-09-28T23:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -337,6 +379,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.forbes.com/sites/mitsubishiheavyindustries/2020/09/28/the-pandemic-created-a-plastics-problem-but-ai-can-help/</loc>
+    <lastmod>2020-09-28T07:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/janakirammsv/2020/09/28/google-cloud-ai-prediction-service-becomes-generally-available/</loc>
     <lastmod>2020-09-28T06:39:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -415,12 +463,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.forbes.com/sites/quora/2020/09/27/how-can-ai-support-small-businesses-during-the-pandemic/</loc>
-    <lastmod>2020-09-27T16:56:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.engadget.com/microsoft-flight-simulator-azure-ai-machine-learning-193545436.html?itm_source=parsely-api</loc>
     <lastmod>2020-09-27T12:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -447,12 +489,6 @@
   <url>
     <loc>https://techcommunity.microsoft.com/t5/microsoft-teams-blog/5-new-ways-to-boost-productivity-with-enhanced-teams-power/ba-p/1680697</loc>
     <lastmod>2020-09-27T03:10:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.medindia.net/news/artificial-intelligence-helps-predict-loneliness-197784-1.htm</loc>
-    <lastmod>2020-09-26T21:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -877,6 +913,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.finanznachrichten.de/nachrichten-2020-09/50779615-autonomous-shuttles-idtechex-report-reveals-the-future-of-last-mile-mobility-008.htm</loc>
+    <lastmod>2020-09-23T10:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://thenextweb.com/neural/2020/09/23/facebook-removes-chinese-network-of-fake-accounts-that-used-ai-generated-faces/</loc>
     <lastmod>2020-09-23T09:53:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -973,7 +1015,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wsj.com/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460?mod=hp_minor_pos14</loc>
+    <loc>https://www.wsj.com/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460</loc>
     <lastmod>2020-09-23T05:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2019,6 +2061,12 @@
   <url>
     <loc>https://venturebeat.com/2020/09/16/aidoc-raises-20-million-more-for-its-computer-vision-medical-tools/</loc>
     <lastmod>2020-09-16T06:14:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.prnewswire.com/news-releases/sensiml-integrates-googles-tensorflow-lite-for-microcontrollers-301131982.html</loc>
+    <lastmod>2020-09-16T05:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3099,6 +3147,12 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/rambus-advances-hbm2e-performance-to-40-gbps-for-aiml-training-applications-2020-09-09</loc>
     <lastmod>2020-09-11T03:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.openpr.com/news/2132624/artificial-intelligence-ai-in-healthcare-market-to-watch</loc>
+    <lastmod>2020-09-11T03:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -5703,6 +5757,12 @@
   <url>
     <loc>https://www.bloomberg.com/news/articles/2020-08-31/amazon-top-robotics-engineer-joins-scale-ai</loc>
     <lastmod>2020-08-31T12:10:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=sbFHhpYU15w</loc>
+    <lastmod>2020-08-31T12:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

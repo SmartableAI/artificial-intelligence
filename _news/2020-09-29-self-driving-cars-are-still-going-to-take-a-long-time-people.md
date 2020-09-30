@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Why we’re still years away from having self-driving cars"
-    excerpt: "Carmakers began dropping the terms “self-driving” and “mobility” at car shows, Uber and its competitors poached engineers from university robotics labs en masse, and Tesla fans began squabbling on Twitter about whether the company’s Autopilot ..."
-    publishedDateTime: 2020-09-25T19:41:00Z
-    webUrl: "https://www.vox.com/recode/2020/9/25/21456421/why-self-driving-cars-autonomous-still-years-away"
-    ampWebUrl: "https://www.vox.com/platform/amp/recode/2020/9/25/21456421/why-self-driving-cars-autonomous-still-years-away"
-    cdnAmpWebUrl: "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/recode/2020/9/25/21456421/why-self-driving-cars-autonomous-still-years-away"
-    type: article
-    provider:
-      name: Vox
-      domain: vox.com
-    quality: 74
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/vWVvsfC0F_Tdmm4OmAkpT0S-fbw=/0x0:3000x2000/1400x1050/filters:focal(1866x972:2346x1452):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67470406/VOX_18.0.jpg"
-        width: 1400
-        height: 1050
-        isCached: true
 
 secured: "D0L329tEXcQ8hypN9ncBo32dJ7OJ1MtLfsr8mUHtYQqZJFW/ez6Uo8F2o7V2Xo8gzZMoaS1GVikI+qR81uOzcMwawhW4hl9Iw2Khtt46SAeUkDiTQVHCDS4W48agpAIifododTZD50HjFllPo7ywOM4YzAB2J/0nNZQGMy6LsA7cKNAymJCYfBkhTkSqo8DFgMre6cqHE6aTxwKYhgGjQp90/UclXqAz7Tld9hcg+Y7afZ4uOx29VQdiKPaaW9eKIRkiDwPiGKcOgvgkSvrOUHd0DwLSbOUMthVTldNNgeQ9VhZiNrl0ZaqZdWpG3Fs9jbzUymPx1jZPSE9te/EGv/qtKSMgxh/o4B3kdqV14RhmZV2slxeFHcGYhfZKas9lRP4lfJXkLLrAb5uQ54JqRW2dcDYyzgjtU0+eLJEFyvCfR9AnxDdDkcjioIknZUnapTUbhmI1AMp7nl1WaJCqxzNS4dm0LhkVTC3qQLeFwKXvvPASXHSKxpe7papwMnXCZMHD/+xkGTNMKrG4AsWD5w==;/sam6DSu3kavXhqUz5HjTw=="
 ---

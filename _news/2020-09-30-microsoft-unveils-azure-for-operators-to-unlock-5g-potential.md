@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Microsoft unveils Azure for Operators to unlock 5G potential"
-excerpt: "Microsoft has announced a new cloud platform called Azure for Operators that has been designed to help telecommunications operators unlock the full potential of 5G.  The new offering will help communication service providers create new opportunities and provide core infrastructure,"
-publishedDateTime: 2020-09-30T11:45:00Z
-originalUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/8768/microsoft-unveils-azure-for-operators-to-unlock-5g-potential"
-webUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/8768/microsoft-unveils-azure-for-operators-to-unlock-5g-potential"
+excerpt: "Microsoft has announced a new cloud platform called Azure for Operators that has been designed to help telecommunications operators unlock the full potential of 5G. The new offering will help communication service providers create new opportunities and provide core infrastructure,"
+publishedDateTime: 2020-09-30T11:08:00Z
+originalUrl: "https://www.itpro.co.uk/mobile/5g/357287/microsoft-unveils-azure-for-operators-to-unlock-5g-potential"
+webUrl: "https://www.itpro.co.uk/mobile/5g/357287/microsoft-unveils-azure-for-operators-to-unlock-5g-potential"
 type: article
-quality: 54
+quality: 84
 heat: -1
 published: false
 
 provider:
-  name: Cloud Pro
-  domain: cloudpro.co.uk
+  name: IT Pro
+  domain: itpro.co.uk
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2019/01/5g-speed-o2-future-of-people.jpg"
-    width: 1280
-    height: 720
+  - url: "https://media.itpro.co.uk/image/upload/v1570816662/itpro/2018/08/5g_shutterstock_750428755.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -246,7 +250,21 @@ related:
       name: ChannelE2E
       domain: channele2e.com
     quality: 34
+  - title: "Andor Health Collaborates with Mentor to Deliver Next Generation, AI-Powered Virtual Experiences with Microsoft Technology"
+    excerpt: "Andor Health Collaborates with Mentor to Deliver Next Generation, AI-Powered Virtual Experiences with Microsoft Technology"
+    publishedDateTime: 2020-09-30T13:30:00Z
+    webUrl: "https://www.finanzen.net/nachricht/aktien/andor-health-collaborates-with-mentor-to-deliver-next-generation-ai-powered-virtual-experiences-with-microsoft-technology-9347090"
+    type: article
+    provider:
+      name: Finanzen
+      domain: finanzen.net
+    quality: 28
+    images:
+      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
-secured: "THaYkNm1tMAckX76L6l48uuCox5XTdU9ONkHbTxgZghyXU0f+omkKmNpDpJ2YXV6tv8TG30RaddVolleutDJwPwMOlv7sT/f5OMG/naDumHUH4CKghY4Z5VE4bPO+qcYWO4jCTvTUx2QLGIKgKBMRGcgBdStIwr4oVg7p4B3sUZSwwwOr2Fs0zA1ao4gSGgqUJyFhDbkJzFu2NjA53rndfE7bPjFWtQFrI9OO69AI1hcRfr5QYTq6P0SvKipj/knRwn2EKdkT3jFvBeZnjktOF1+O7+ykN5UzROlrftxyy17XYM+zn2AK/wu9UPz4j59q7IAx7nKphYdjZ0N1hsB/TsqnOyYyLy3BzwNc5ZExUE=;1p67b9U5k7lDPF6ihyw1Nw=="
+secured: "gmQk+pX+K+JCTZNnMQSjAhEtgZuBdi5CuZ3IRKrFcHE55XFiHaUsuesY2L30g7Rz4OtbETumM8XS1KkMyqABRc7+CI0wyZfQQMfb+zdIypxjSxrv1v7VDezJOEQgMKh36e38gyckyMbrYJ36oQXKoNItaLqGkMmNvbYelMl8igFF1ISGzASd7gwWw5iyrX7R1GaiT0dioFBzY00lUIhOaXddTrXIYfQrSB3OGFOhRnc3RwzmCUMG1uPZcEFYdw1gBj4NhKoCjZo+zZkZGBWUZrxJPa/h3Xonyf/OvoNQUy2TYxFLTbzFPtR4QNAxv7mb+URSv1E+u1v8RGFeQQvJ7Rws5hNT6iu8NBebwnwwAFA=;AluB2GQZIsGrsoI1Q/OMEw=="
 ---
 

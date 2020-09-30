@@ -26,6 +26,17 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "TSW partners with IIT Roorkee to launch an online program on Data Science & Machine Learning"
+    excerpt: "These days the future of work is being shaped by some powerful forces, namely artificial intelligence, data science and machine learning. While some jobs will be lost, many others will be created due to them."
+    publishedDateTime: 2020-09-30T13:47:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20200930/3634538.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 8
+
 secured: "DLBbnHqXj1GuilpGrEyAcaXmwKUs1cH/Ejj+ZOMh/XeY9g7HnyU7y1lptegdIotRb/+kuRxlutjlqYsFTdqm239Qo4FpnUSJ192eC5pCed8SJdMC1ybsK8ZV0vqhGkbncR/Sh9TDz6CyO4Y3+CYOwWc7K65LB24+eoHWkX7rcWrU/7JMut42PwxvD4Yo1DPYUPouCJSBF7yTrBflrS4LI3xnNXYKWa8hRu8xYCjo7aYSw2+u1O7mhxjrY3Lsbwlx3bBNvdXpAfq3H4bXmav7On689MqTGbPOZLWEQ/1jUyWRMC7Jnl+Lzx2PIzxssUTC51ry8KHlfaIml6v2CRbFQ0Gg/7un3wVHRn/DGo0DebU=;YABmgDUmTGy5ZeQ/q3texA=="
 ---
 
