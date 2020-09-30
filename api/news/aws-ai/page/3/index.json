@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-01-using-amazon-textract-with-aws-privatelink.md",
+      "title": "Using Amazon Textract with AWS PrivateLink",
+      "excerpt": "Amazon Textract now supports Amazon Virtual Private Cloud (Amazon VPC) endpoints via AWS PrivateLink so you can securely initiate API calls to Amazon Textract from within your VPC and avoid using the public internet. In this post, we show you how to access Amazon Textract APIs from within your VPC without",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-amazon-textract-with-aws-privatelink/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-amazon-textract-with-aws-privatelink/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/31/textract-privatelink.jpg",
+          "width": 1000,
+          "height": 485,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-01T11:58:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-02-ai-eye-indeed-selects-aws-nasdaqgs-amzn-as-preferred-cloud-and-leading-lens-manufacturer-to-utilize-ai-powered-celebros-from-bridgeline.md",
       "title": "AI Eye: Indeed Selects AWS (NasdaqGS: $AMZN) As Preferred Cloud And Leading Lens Manufacturer To Utilize AI-Powered Celebros From Bridgeline Digital (NasdaqCM: $BLIN) For eCommerce",
       "excerpt": "deal tracker and advancements in artificial intelligence Stocks discussed: (NasdaqGS:AMZN) (NasdaqCM:BLIN) The world’s leading job site Indeed has selected Amazon Web Services (AWS), a ...",
@@ -1320,59 +1371,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-unlocking-the-financial-potential-of-millions-with-machine-learning.md",
-      "title": "Unlocking the financial potential of millions with machine learning",
-      "excerpt": "To date, Tala’s innovative machine learning solution has found, scored, and offered more than 5 million customers $2.5 billion in loans.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/20/unlocking-the-financial-potential-of-millions-with-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2020/08/20/unlocking-the-financial-potential-of-millions-with-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/KE.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/20/unlocking-the-financial-potential-of-millions-with-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/20/unlocking-the-financial-potential-of-millions-with-machine-learning/amp/",
-      "publishedDateTime": "2020-08-20T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Finance",
-        "Machine Learning"
       ]
     }
   ],

@@ -6,6 +6,9 @@ publishedDateTime: 2020-09-30T15:30:00Z
 originalUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-professional-services-b6c11259d205c0986ae95007f4e5d274"
 webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-professional-services-b6c11259d205c0986ae95007f4e5d274"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Associated Press

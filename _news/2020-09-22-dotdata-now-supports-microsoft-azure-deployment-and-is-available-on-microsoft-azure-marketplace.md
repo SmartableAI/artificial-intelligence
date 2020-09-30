@@ -5,6 +5,8 @@ excerpt: "Integration of dotData's AutoML 2.0 platform with Microsoft's highly a
 publishedDateTime: 2020-09-22T12:17:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572"
 webUrl: "https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572"
 type: article
 
 provider:
@@ -20,6 +22,6 @@ topics:
   - AI
   - Microsoft AI
 
-secured: "KqRFE1AO5Wb71igSO9kfKwL1L5NJnHSmlH3A1UY1swr5DasRuL22Ktu0ivy4zyqMVv8i0Yad3mTvQAKGjetHMMLq080+ORWYHdsBAIQ1/iOR4bob8858seKJstWp6bwkfHNEporQ9rHtOp7gVOA3KBgkRYBvmPiDu6WKPU75e9BM0C8aF8LlFazYkAwx/nHG1M+oiYXOAcDBw47LMB5nBs2NN9tnydCI2JsszPKMzUAAyy0xMZ89XazgwAV782+n0qAZZeR456XFL2cAnVjoyTmhrAIASKJGVQP8Q/iFO+u23Li4TeUzsZUOj7RKxaGMe5W4dTd+GBjRMiQZ68KiqVt8q5E3z3bRpSxOFNsf7Ic=;pH4sCDZJWwoSRqaBAcNhkw=="
+secured: "mxgXQkmzYAnIo5pJRfFgwgiPxkzC3J4plYSdV3myLaa9SXICw1L+injshsBYW5gmTJ89yYaGsVgyM8u6IWMCRS2C4jS6h2ymDmldPbcXQjG4FsO69dgjk+9Gt4G05IugoqZ51lbZN2Dq1V8a/msEOAHlmduSMq4cSO1TruGwzEXi4Q25I2RR36QYOk6SaizX/lOP3zMj3s7waAmg1WO9ljMcb1NyOvh+xIvkibrM6c8BEdvIe20VUA9OQksQIWZoRx9eI5e9qXNozKpCL6RIlhcBJ0qpO19keKaCccr8uZqSB7mtIglDlVtIPAoGEuKMjRYtrFWdt084LFQS94qkfe7sJy97Ozob33Ow9AeaTL8=;/uTQRH9tgOoluoFUKAzwMg=="
 ---
 

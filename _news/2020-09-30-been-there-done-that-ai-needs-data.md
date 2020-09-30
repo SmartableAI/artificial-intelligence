@@ -6,6 +6,9 @@ publishedDateTime: 2020-09-30T16:28:00Z
 originalUrl: "https://www.army.mil/article/239521/been_there_done_that_ai_needs_data"
 webUrl: "https://www.army.mil/article/239521/been_there_done_that_ai_needs_data"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: United States Army

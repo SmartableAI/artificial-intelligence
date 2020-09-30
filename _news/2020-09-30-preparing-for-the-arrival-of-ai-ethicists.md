@@ -6,6 +6,9 @@ publishedDateTime: 2020-09-30T16:23:00Z
 originalUrl: "https://nearshoreamericas.com/dedicated-ai-ethicists/"
 webUrl: "https://nearshoreamericas.com/dedicated-ai-ethicists/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Nearshore Americas

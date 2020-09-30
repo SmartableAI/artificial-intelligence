@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/building-custom-language-models-to-supercharge-speech-to-text-performance-for-amazon-transcribe/</loc>
+    <lastmod>2020-09-30T11:12:58-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/tigergraph-highlights-next-generation-graph-and-machine-learning-partnerships-at-graph-ai-world-2020-2020-09-30</loc>
+    <lastmod>2020-09-30T09:56:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.neowin.net/news/astrazeneca-uses-pytorch-and-azure-ml-to-speed-up-drug-discovery</loc>
+    <lastmod>2020-09-30T09:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.vice.com/en/article/n7wx8b/detroit-extends-contract-of-facial-recognition-program-that-doesnt-work</loc>
     <lastmod>2020-09-30T08:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -87,12 +105,6 @@
   <url>
     <loc>https://arstechnica.com/gadgets/2020/09/intel-heidelberg-university-team-up-to-bring-radeon-gpu-support-to-ai/</loc>
     <lastmod>2020-09-30T03:30:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://inside.com/premium?campaign_id=23010&amp;list_id=64&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
-    <lastmod>2020-09-30T02:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -283,14 +295,20 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://inside.com/premium?campaign_id=23010&amp;list_id=64&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
+    <lastmod>2020-09-28T23:15:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.vice.com/en_au/article/g5pawq/an-ai-paper-published-in-a-major-journal-dabbles-in-phrenology</loc>
     <lastmod>2020-09-28T18:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.bbc.com/news/world-asia-china-54321598?at_campaign=64&amp;at_custom1=%255Bpost+type%255D&amp;at_custom2=twitter&amp;at_custom4=F082CC54-01E6-11EB-B7A6-ABF94744363C&amp;at_medium=custom7</loc>
-    <lastmod>2020-09-28T16:41:00-07:00</lastmod>
+    <loc>https://www.bbc.com/news/av/world-asia-china-54294193</loc>
+    <lastmod>2020-09-28T16:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -487,6 +505,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://mashable.com/2016/10/14/paralyzed-man-feels-fingers-again/</loc>
+    <lastmod>2020-09-27T17:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.engadget.com/microsoft-flight-simulator-azure-ai-machine-learning-193545436.html?itm_source=parsely-api</loc>
     <lastmod>2020-09-27T12:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -501,12 +525,6 @@
   <url>
     <loc>https://www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingly-being-designed-to-apologize-but-self-driving-cars-are-not-hip-to-the-idea/</loc>
     <lastmod>2020-09-27T09:22:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.businessinsider.com/us-uk-announce-ai-partnership-axios-2020-9</loc>
-    <lastmod>2020-09-27T07:38:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -621,6 +639,12 @@
   <url>
     <loc>https://www.forbes.com/sites/forbestechcouncil/2020/09/25/how-ai-and-technology-can-help-patients-manage-chronic-pain/</loc>
     <lastmod>2020-09-25T05:46:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.bloomberg.com/professional/blog/staying-compliant-in-any-language/</loc>
+    <lastmod>2020-09-25T05:26:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -795,6 +819,12 @@
   <url>
     <loc>https://www.vice.com/en_us/article/jgx7pb/nvidias-most-powerful-dollar1500-gpu-sold-out-in-minutes</loc>
     <lastmod>2020-09-24T08:25:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/article/us-health-coronavirus-japan-factory-rebo/japan-looks-to-ai-as-coronavirus-challenges-go-and-see-quality-control-mantra-idUSKCN26F2HB</loc>
+    <lastmod>2020-09-24T07:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1051,6 +1081,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.paymentssource.com/news/pnc-acquires-local-pittsburgh-fintech-to-boost-card-marketing</loc>
+    <lastmod>2020-09-23T03:57:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.engadget.com/youtube-machine-learning-age-restrictions-212253144.html</loc>
     <lastmod>2020-09-23T03:44:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1111,8 +1147,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.indystar.com/story/money/cars/2020/09/22/tesla-elon-musk-full-self-driving-autopilot-software/3498264001/</loc>
-    <lastmod>2020-09-22T19:05:00-07:00</lastmod>
+    <loc>https://www.usatoday.com/story/money/cars/2020/09/22/tesla-elon-musk-full-self-driving-autopilot-software/3498264001/</loc>
+    <lastmod>2020-09-22T18:44:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1201,6 +1237,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.oaoa.com/news/business/causalens-launches-the-first-causal-ai-platform/article_242e8bb8-7d4a-5ede-89d2-d0fd8636e49b.html</loc>
+    <lastmod>2020-09-22T07:09:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.businesswire.com/news/home/20200922005177/en/DeepCube-Raises-Series-A-Funding-to-Realize-Real-World-Deployments-of-Deep-Learning-on-Edge-Devices-at-Scale</loc>
     <lastmod>2020-09-22T06:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1221,12 +1263,6 @@
   <url>
     <loc>https://venturebeat.com/2020/09/22/deepcubes-software-based-solution-accelerates-ai-on-existing-hardware/</loc>
     <lastmod>2020-09-22T06:01:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.businesswire.com/news/home/20200922005020/en/causaLens-launches-the-first-causal-AI-platform</loc>
-    <lastmod>2020-09-22T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1423,14 +1459,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vida-receives-510-k-clearance-for-deep-learning-based-enhancements-to-its-lungprint-solution/article_4f8f2da1-81f1-5148-a823-09637cc7c2f8.html</loc>
-    <lastmod>2020-09-21T06:12:00-07:00</lastmod>
+    <loc>https://www.wired.com/story/portlands-face-recognition-ban-twist-smart-cities/</loc>
+    <lastmod>2020-09-21T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wired.com/story/portlands-face-recognition-ban-twist-smart-cities/</loc>
-    <lastmod>2020-09-21T06:00:00-07:00</lastmod>
+    <loc>https://www.prnewswire.com/news-releases/vida-receives-510k-clearance-for-deep-learning-based-enhancements-to-its-lungprint-solution-301134393.html</loc>
+    <lastmod>2020-09-21T05:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

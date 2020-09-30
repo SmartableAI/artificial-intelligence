@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-30-astrazeneca-uses-pytorch-and-azure-ml-to-speed-up-drug-discovery.md",
+      "title": "AstraZeneca uses PyTorch and Azure ML to speed up drug discovery",
+      "excerpt": "The firm has introduced a new production use case for early drug discovery, utilizing the PyTorch framework alongside Microsoft's Azure Machine Learning to support the latest research.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/astrazeneca-uses-pytorch-and-azure-ml-to-speed-up-drug-discovery",
+      "originalUrl": "https://www.neowin.net/news/astrazeneca-uses-pytorch-and-azure-ml-to-speed-up-drug-discovery",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/09/1601479971_astrazeneca_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/astrazeneca-uses-pytorch-and-azure-ml-to-speed-up-drug-discovery/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/astrazeneca-uses-pytorch-and-azure-ml-to-speed-up-drug-discovery/",
+      "publishedDateTime": "2020-09-30T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-ai-in-computer-vision-market-2020-latest-advancements-and-growth-analysis-intel-qualcomm-general-electric-apple.md",
       "title": "AI in Computer Vision Market 2020 Latest Advancements and Growth Analysis- Intel, Qualcomm, General Electric, Apple",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Sep 30, 2020 (Market Insight Reports) -- The Global AI in Computer Vision Market Research Report 2020-2027 is a valuable source of insightful data for business strategists.",
@@ -85,48 +138,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-27-us-uk-announce-ai-partnership-axios.md",
-      "title": "U.S., UK announce AI partnership: Axios",
-      "excerpt": "The Trump administration is set to announce that the United States and the United Kingdom have signed a new agreement to cooperate on research and development on artificial intelligence, Axios reported  on Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/us-uk-announce-ai-partnership-axios-2020-9",
-      "originalUrl": "https://www.businessinsider.com/us-uk-announce-ai-partnership-axios-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/us-uk-announce-ai-partnership-axios-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-uk-announce-ai-partnership-axios-2020-9?amp",
-      "publishedDateTime": "2020-09-27T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

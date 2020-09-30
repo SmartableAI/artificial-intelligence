@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/amp/"
 type: article
 quality: 78
-heat: 148
+heat: 158
 published: true
 
 provider:
@@ -135,6 +135,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "How Fintech Companies Are Dealing with New Data Security Challenges"
+    excerpt: "Cybercrime is more sophisticated than ever and a new attack occurs every 39 seconds - unfortunately, fintech companies are some of hackers’ favorite targets. This shouldn’t come as a surprise - people are relying on digital money management more,"
+    publishedDateTime: 2020-09-30T16:44:00Z
+    webUrl: "https://www.finextra.com/blogposting/19380/how-fintech-companies-are-dealing-with-new-data-security-challenges"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "zsLq8O8EW56auBMLcACjlxe5tYQxGcTa7M32vLvoeZza9zAvAOU5K+Mn26H0DdsAbokx4pGFcMmBR+Micu4VovSQ+XqxaWSWVDF2xT8xFjw+y/ZuxeRpgetmS4crEbswvaQg7BGqgEBV8mvEvKMrL9/BFJXOb9oJpuRxbGvddXeYfl6/geF0KixeKrmHsTlEGQQmAOVtdl5PM4/u5wtiQUtu6a10lKgSDfJ10JFjRL9z/Mj5XAOE+qOrP+63FQqSfE3AbxZ4ZKv3pa1Ps9KHnXY7rSa/Sb3pymLE60cJgHZfPRB030S2UZUdpioJ5ODachtJcYBnYiBY9kmXxVavAwmGD++mXD87TnIgBzZIcPA=;kRT1SThKnBgZeAltMbRvyQ=="
 ---

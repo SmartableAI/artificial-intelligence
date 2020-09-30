@@ -6,6 +6,9 @@ publishedDateTime: 2020-09-30T16:16:00Z
 originalUrl: "https://mobileidworld.com/cerence-pateo-develop-cloud-based-voice-tech-indonesian-auto-market-093001/"
 webUrl: "https://mobileidworld.com/cerence-pateo-develop-cloud-based-voice-tech-indonesian-auto-market-093001/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Mobile ID News

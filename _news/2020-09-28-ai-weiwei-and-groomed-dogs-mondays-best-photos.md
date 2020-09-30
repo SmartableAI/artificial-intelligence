@@ -28,77 +28,29 @@ images:
     isCached: true
 
 related:
-  - title: "Dissident Ai Weiwei protests possible extradition of Assange"
-    excerpt: "The dissident Chinese contemporary artist Ai Weiwei staged a silent protest outside London's Old Bailey court on Monday against the possible extradition of WikiLeaks founder Julian Assange to the United States,"
-    publishedDateTime: 2020-09-28T12:30:00Z
-    webUrl: "https://www.chron.com/news/article/Dissident-Ai-Weiwei-protests-possible-extradition-15602451.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Dissident-Ai-Weiwei-protests-possible-extradition-15602451.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Dissident-Ai-Weiwei-protests-possible-extradition-15602451.php"
+  - title: "Ai WeiWei: 'Chinese communism could disappear any moment'"
+    excerpt: "Chinese communism could disappear any moment' Up Next, 'This is the darkest day for Hong Kong' Video, 00:01:17'This is the darkest day for Hong Kong' Behind-the-scenes: Ai Weiwei exhibit. Video, 00:03:45Behind-the-scenes: Ai Weiwei exhibit 'They said they would smash our windows' Video,"
+    publishedDateTime: 2020-09-28T23:52:00Z
+    webUrl: "https://www.bbc.com/news/av/world-asia-china-54294193"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 57
+      name: BBC
+      domain: bbc.com
+    quality: 67
     images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08skxm2.jpg"
+        width: 400
+        height: 225
         isCached: true
-  - title: "Artist Ai Weiwei holds silent protest for Julian Assange and says his possible prosecution is 'unbelievable'"
-    excerpt: "The dissident Chinese artist says Julian Assange \"represents the very core value of why we are fighting, the freedom of the press\" and he should be a \"free man\"."
-    publishedDateTime: 2020-09-28T11:52:00Z
-    webUrl: "https://www.sbs.com.au/news/artist-ai-weiwei-holds-silent-protest-for-julian-assange-and-says-his-possible-prosecution-is-unbelievable"
-    ampWebUrl: "https://amp.sbs.com.au/v1/news/article/artist-ai-weiwei-holds-silent-protest-for-julian-assange-and-says-his-possible-prosecution-is-unbelievable/a432883b-c354-4d2a-82c3-37cd0d074c24"
-    cdnAmpWebUrl: "https://amp-sbs-com-au.cdn.ampproject.org/c/s/amp.sbs.com.au/v1/news/article/artist-ai-weiwei-holds-silent-protest-for-julian-assange-and-says-his-possible-prosecution-is-unbelievable/a432883b-c354-4d2a-82c3-37cd0d074c24"
+  - title: "Ai Weiwei: 'Too late' to curb China's global influence"
+    excerpt: "The leading Chinese dissident, the artist and filmmaker Ai Weiwei, says China's influence has become so great that it can't now be effectively stopped. \"The West should really have worried about China decades ago."
+    publishedDateTime: 2020-09-28T23:41:00Z
+    webUrl: "https://www.bbc.com/news/world-asia-china-54321598"
     type: article
     provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 38
-    images:
-      - url: "https://sl.sbs.com.au/public/image/file/2eb18225-ee7f-4883-b91f-f1a2d8879f06/crop/16x9"
-        width: 850
-        height: 478
-        isCached: true
-  - title: "Ai Weiwei Supports Assange With Silent Protest"
-    excerpt: "Dissident Chinese artist Ai Weiwei held a silent protest on Monday outside a London court to demand the release of WikiLeaks founder Julian Assange, who faces extradition to the United States. Exiled Ai,"
-    publishedDateTime: 2020-09-28T11:25:00Z
-    webUrl: "https://www.ibtimes.com/ai-weiwei-supports-assange-silent-protest-3053052"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 37
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/28/assange-truly-represents-the-very-core-value-of.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Ai Weiwei Stages Silent Protest in Support of Wikileaks Founder"
-    excerpt: "The dissident Chinese artist Ai Weiwei staged a silent protest in front of a London court today, September 28, in support of Wikileaks founder Julian Assange, who is facing extradition to the United States."
-    publishedDateTime: 2020-09-28T20:15:00Z
-    webUrl: "https://hyperallergic.com/590887/ai-weiwei-stages-silent-protest-in-support-of-wikileaks-founder/"
-    type: article
-    provider:
-      name: Hyperallergic
-      domain: hyperallergic.com
-    quality: 37
-    images:
-      - url: "https://hyperallergic.com/wp-content/uploads/2020/09/Aiweiwei_1000.jpg"
-        width: 1000
-        height: 618
-        isCached: true
-  - title: "Ai Weiwei holds silent protest outside Julian Assange's extradition hearing"
-    excerpt: "Before attending court, the Chinese artist posted a photograph of himself and his son both wearing Free Assange t-shirts."
-    publishedDateTime: 2020-09-28T09:53:00Z
-    webUrl: "https://www.smh.com.au/world/europe/ai-weiwei-holds-silent-protest-outside-julian-assange-s-extradition-hearing-20200928-p5602q.html"
-    ampWebUrl: "https://amp.smh.com.au/world/europe/ai-weiwei-holds-silent-protest-outside-julian-assange-s-extradition-hearing-20200928-p5602q.html"
-    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/world/europe/ai-weiwei-holds-silent-protest-outside-julian-assange-s-extradition-hearing-20200928-p5602q.html"
-    type: article
-    provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 35
+      name: BBC
+      domain: bbc.com
+    quality: 47
 
 secured: "LJw29hAXrmlp/XWAn3PfCTEzXbPEWgL4A4+40+oBCxA3DGllB5DlvUMk3da5sFhu2J01V02QJQMR8WEFYX4Ubbb9Vcc09QAsu4NXq4UogiJmzr0zeL6gT9ptI6DnBK1JtXuCqJz5qqE/UiI4Q1K7jiTysXlEHNuljO8sg43QpWmJsVgSLNp9WW/IyZew4JRYh89Ce3iz9AWVvHLSHxhNAtvvZsPby23m1ma17vt9la2DSA3s0VoalGZ3G1yC55Omtt4dVbRF4c6DayWqh6ICyLwvs5lk3RtZQyH+nIGn0AwbZZTtBOcEDozTYjIza8IvnKkLaFGvgE4vcU4UAqXz3Y65KX/kUd5fICbauElpsa9w05quHggcNEV2sADFV63Uo52rUoFTlePtHu29WTRxXZS+UyP8tthEIoVDLULCMMRlbqKB/3mge+9PrXbqJX4/wmz+oBQ3Glru/2KmVWAqcmnq1X/QTUNKdDcDLQ22UWqTpPuTx5BaVic/TGK0Q5n8TefXc45Lciq99MBaGmPfzA==;e25Kk3m0LkacLfu8SHcw2w=="
 ---

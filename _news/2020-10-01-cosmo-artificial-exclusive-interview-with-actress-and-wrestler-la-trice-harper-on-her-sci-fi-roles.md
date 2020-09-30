@@ -6,6 +6,9 @@ publishedDateTime: 2020-09-30T17:08:00Z
 originalUrl: "https://www.comicbookmovie.com/amp/sci-fi/cosmo-artificial-exclusive-interview-with-actress-and-wrestler-la-trice-harper-on-her-sci-fi-roles-a178796"
 webUrl: "https://www.comicbookmovie.com/amp/sci-fi/cosmo-artificial-exclusive-interview-with-actress-and-wrestler-la-trice-harper-on-her-sci-fi-roles-a178796"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Comic Book Movie

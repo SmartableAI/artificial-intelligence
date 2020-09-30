@@ -7,8 +7,8 @@ originalUrl: "https://www.bbc.com/news/av/world-asia-china-54294193"
 webUrl: "https://www.bbc.com/news/av/world-asia-china-54294193"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: BBC
@@ -31,18 +31,25 @@ related:
   - title: "Ai Weiwei: 'Too late' to curb China's global influence"
     excerpt: "The leading Chinese dissident, the artist and filmmaker Ai Weiwei, says China's influence has become so great that it can't now be effectively stopped. \"The West should really have worried about China decades ago."
     publishedDateTime: 2020-09-28T23:41:00Z
-    webUrl: "https://www.bbc.com/news/world-asia-china-54321598?at_campaign=64&at_custom1=%5Bpost+type%5D&at_custom2=twitter&at_custom4=F082CC54-01E6-11EB-B7A6-ABF94744363C&at_medium=custom7"
-    ampWebUrl: "https://www.bbc.com/news/amp/world-asia-china-54321598"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-asia-china-54321598"
+    webUrl: "https://www.bbc.com/news/world-asia-china-54321598"
     type: article
     provider:
       name: BBC
       domain: bbc.com
-    quality: 87
+    quality: 47
+  - title: "Ai Weiwei and groomed dogs: Monday's best photos"
+    excerpt: "The Guardian’s picture editors select highlights from around the world"
+    publishedDateTime: 2020-09-28T11:53:00Z
+    webUrl: "https://www.theguardian.com/news/gallery/2020/sep/28/ai-weiwei-and-groomed-dogs-mondays-best-photos"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 37
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/8378/production/_114665633_gettyimages-1178304766.jpg"
-        width: 1024
-        height: 576
+      - url: "https://i.guim.co.uk/img/media/1b1d28f90f835cb3d1903054ffa6a3f23547d042/0_356_5344_3207/master/5344.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5dc0e615717e9ccc5636a0875205c987"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "OARcxgt/CaIgIyNeEg1VL96lh8rNmuseXcUfXq5YWrmjz6CB942i8i+curgxAzcGLn2XAIqvjNY7Omz7N5clRpXumLt4Gf6bi7AMpTtjpqHj4Da/MY+sA0zmsHlT00cz6nRobqXdxiwqr6TFG0N0S+2WhVFpT5NPsWEGpXrTxWOoUSlqIXOT5PCEl9/hpdYtjepTPKZ/AVVnRFJLUhPUUvlEWT3fHz4oIcECV8nwqLSGL0l8L5e9wBmqLKwkMCXu2ra0mR/wx9/kjuqwxWLrPL+1vxYjnkKPF9Bn666JXTTAqcdJl1rADjeivUrgq26klmdKB8tTskXE290Emg1I68me5E5rD3zZXP47BrH9BLFRUqjJ+UoC0rcoxbZ0V8XqRFpLFYZTw6s97mwq3ebMWDeonhHaMdR+dCAAd54vuXTMf6HUzxh0JBKFH3HVo0raiV4HyozUYYGAOqEZyduG6OFWFgKvBW+vb4/ndOm9sTw29MipXSE65dR34IlDBMM6cshYvnmP13k+i5pnTR0z8w==;cnPt9Zmr3zARpSzx37Uvmg=="

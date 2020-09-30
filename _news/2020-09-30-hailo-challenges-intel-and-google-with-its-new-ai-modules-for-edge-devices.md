@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/09/30/hailo-challenges-intel-and-google-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/30/hailo-challenges-intel-and-google-with-its-new-ai-modules-for-edge-devices/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -49,6 +49,20 @@ related:
     excerpt: "Leading AI chipmaker Hailo announced today the launch of its M.2 and Mini PCIe high-performance AI acceleration modules for empowering"
     publishedDateTime: 2020-09-30T11:15:00Z
     webUrl: "https://www.prnewswire.com/il/news-releases/ai-chipmaker-hailo-launches-top-performing-m2-and-mini-pcie-ai-acceleration-modules-to-enhance-performance-of-edge-devices-301141749.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 28
+    images:
+      - url: "https://mma.prnewswire.com/media/1294554/Hailo_Comparison_Infographic.jpg?p=facebook"
+        width: 1430
+        height: 749
+        isCached: true
+  - title: "AI Chipmaker Hailo Launches Top-Performing M.2 and Mini PCIe AI Acceleration Modules to Enhance Performance of Edge Devices"
+    excerpt: "Leading AI chipmaker Hailo announced today the launch of its M.2 and Mini PCIe high-performance AI acceleration modules for empowering"
+    publishedDateTime: 2020-09-30T18:00:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/ai-chipmaker-hailo-launches-top-performing-m-2-and-mini-pcie-ai-acceleration-modules-to-enhance-performance-of-edge-devices-821495435.html"
     type: article
     provider:
       name: PR Newswire

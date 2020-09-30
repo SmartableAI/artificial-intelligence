@@ -6,6 +6,9 @@ publishedDateTime: 2020-09-30T16:53:00Z
 originalUrl: "https://www.forbes.com/sites/helenalbert/2020/09/30/ai-technology-can-help-speed-up-stroke-diagnosis-and-treatment/"
 webUrl: "https://www.forbes.com/sites/helenalbert/2020/09/30/ai-technology-can-help-speed-up-stroke-diagnosis-and-treatment/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

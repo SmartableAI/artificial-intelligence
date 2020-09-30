@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/356864"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356864"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -111,6 +111,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Personalized Learning and Tech Equity Under COVID-19"
+    excerpt: "For older students, COVID-19 opens the doors for deep learning that involves solving a complex problem that might encompass economic, health, and social justice challenges. This discussion will address the steps schools need to take to encourage and ..."
+    publishedDateTime: 2020-09-30T18:45:00Z
+    webUrl: "https://www.edweek.org/ew/events/summits/personalized-learning-and-tech-equity-under-covid-19.html"
+    type: article
+    provider:
+      name: Education Week
+      domain: edweek.org
+    quality: 4
 
 secured: "k6nCE2tZWRLbw7scaxhMEKH7ogZ+7lwVp9NiGLAa6vo7Y3E77k3nMKDir6WvIRb5nYWciOhLVRAr5Xr8yS2UglLDkHe4j2uKGGzZ3Ij9xSJsxUTgpH5KkvO4LT+QqXGKAx/ST+d34J636Gm/WXCrFmdfN1HqkgGVtWyM5dnm1d9+MTF+AiiCyqQf6hAYD7BDagRF1xn2QPAn0oTrlwdVvFWrojLScwpchPl7KeFFtA1mDP/wZAqpMFO7GRVkbE3O4SsfaujEPIc6MiI8oYGpWmV9jqoaw+BFwlqzY0xnCbBHsFofuFKV4RSxT1rr4wErN+xRhN00ovS0RoLl/q+782MYGL1JMhQmulIsoKshTxUdpwvRUEbD5gzGOTXa93yLtQAQz7rFzW2oMvtFK6X/yllqD9I+dwl3rF/zr2wmm2XrnaD2PFzhDAoApiiv3fdFGAINdlv+kIg4vqOvwB8ClAvLg4HVvhboK9MApkE9tqk/EmSTQMr3RWnyQgYIep3nePTDD57N6cij12fe3JbsyA==;EmtGcpEiIWK6AgzMrE7Sbw=="
 ---

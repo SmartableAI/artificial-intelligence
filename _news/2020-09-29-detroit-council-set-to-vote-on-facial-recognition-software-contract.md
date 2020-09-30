@@ -73,6 +73,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Detroit OKs Controversial Facial Recognition Tech Contract"
+    excerpt: "The city council approved a contract that will upgrade controversial facial recognition software used by police despite calls to ban the technology, which its opponents have questioned as racist."
+    publishedDateTime: 2020-09-30T16:39:00Z
+    webUrl: "https://www.govtech.com/public-safety/Detroit-Oks-Controversial-Facial-Recognition-Tech-Contract.html"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 19
 
 secured: "rLYP/AOxGsrNlUWBsm27rNgRW5HuAa0OpkYwQBMwrKJPo2805CWy2WntOhi12TLKaunyqhGV9xbWmIb1E9+BD9l2XxPIKeOnQ1Inv+Gz9hQRzQK0yptX3SMqliKD+5i7b/uk/3L8LilMp2Bjl72lo7RG0ZGr0dlpYDZzIODIC4yv+zprUIHSWDEAZ8c6U0/PMxRS2hrJ9DKYkhKAwu8HgoH6GUXZXZjaBJBIptCK+nZx0GDz5F4rM76JFAXmjDXWO+GBIEA0kipClR0EWsfeB9FgCmsHzJndXlDBdHwUkqW5yJiSjIoL+gVmSIKX7INzQFzwhhJNTcQk3lWVewwHA2x9d91yFpNNtti4H6ZAevpBZxiyZqVu5WleR1JA/yxXYT43SHpz9tJN0ythE4N2S6THFT9HEPnJ2Oz9uk3RGRg4AqINLy8mBDoilILmmkdVzr2R5hqfZfrDGRP+z/uDxOLgibvZ3w6KH0oEUGEXRUY1AvzBPNbwsYhOJPpHwY2wWFjI4z1WD1SybiEGGzlvRA==;ctTz3CeiwKwcH5evYW+j3g=="
 ---

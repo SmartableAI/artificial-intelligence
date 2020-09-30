@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en_us/article/n7wx8b/detroit-extends-contra
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/n7wx8b/detroit-extends-contract-of-facial-recognition-program-that-doesnt-work"
 type: article
 quality: 88
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -77,6 +77,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Detroit OKs Controversial Facial Recognition Tech Contract"
+    excerpt: "The city council approved a contract that will upgrade controversial facial recognition software used by police despite calls to ban the technology, which its opponents have questioned as racist."
+    publishedDateTime: 2020-09-30T16:39:00Z
+    webUrl: "https://www.govtech.com/public-safety/Detroit-Oks-Controversial-Facial-Recognition-Tech-Contract.html"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 19
 
 secured: "cMtZe+D3bddtvJtyv5ZnldyEwOP7gEvfniUTBkmZich9sxKNP5QZQPV1e3o+RvaZGfM2CkHVC9LWF7iUNt650TLZYZ7P/tan1ASoAymnACPToLu+TSZCHxC9vGdGqBU6871nXzDsehfxzjbItpviqn13mwQxTbCW03wTwkdKtBgUPJ6H19BdHwNcmIm8COWzggM7eCYLhBjysiUUYjlXIWJ0ftyg9WADWdnH72iZDI3vh0KOiz3ZtVYLkvgwHZb1Mr5L7psMMVF38BZF3OL9+7EnBligmmnH8j4yqgpJ7rvowIlpLSsZz/yZpk+OPs2IIQW7xcE8WV3P5q/v+OmhU4GnJB4b7+4UWYakEVwZUlrBQ2eAPHDnmI6iaabTiQsdXUNMkdExbJVqlrMhb8HETqClbB6YsljVFE8aIz926rvildtMZeSWeWf4idU7XmJU/iBY7IUHdsefZwUGk3Vs9LhHLgTT2AY6hBrsoK8kieNKMV/UnpQNyZyXHesiHeeapNYKF54ZfuGpXMqX3PREJQ==;XeozIIizPOAcAMt9JQuvrA=="
 ---

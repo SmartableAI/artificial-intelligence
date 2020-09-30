@@ -7,8 +7,8 @@ originalUrl: "https://www.independent.co.uk/independentpremium/uk-news/boris-joh
 webUrl: "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---"
 type: article
 quality: 118
-heat: -1
-published: false
+heat: 118
+published: true
 
 provider:
   name: The Independent
@@ -22,22 +22,6 @@ images:
     width: 414
     height: 278
     isCached: true
-
-related:
-  - title: "Inside Politics: No 10 wants ‘compromise’ with Tory MPs on Covid rules"
-    excerpt: "Mogg has held talks with senior backbencher Sir Graham Brady in a bid to head off an embarrassing defeat for the government, writes Adam Forrest"
-    publishedDateTime: 2020-09-30T09:55:00Z
-    webUrl: "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 122
-    images:
-      - url: "https://inside.com/assets/premium/Blue-email-icon-0994aadea0b5b10b19a148e2dd34a88c4a315b76ed51d7898fa49dc4ddc6d171.png"
-        width: 414
-        height: 278
-        isCached: true
 
 secured: "u7GMrTy6itMF2EqJNe5miuGUr0qDmkxa8NDmSyGVOgAgV9CYnOUE3yIITxVAogHg4E2Rpq7S6SZ9qMrKsjejOp0pFijPb9NHZtIh5VADMt+sEwYA/8pzDW3hHRolwMSTza9eZ7/6Hb5jgdMes9oglT1tki/coOJWxW/k7fYjcp9Fe0lbPCbKvqltMBsoAMVTqD4BzAFdI6ceC5qiL/NWz6mN3/0NfciIC6f3Qyz7HMEI2WHwREAAPymAEjNSVPGxGA3TetLoVU3dQ/oU2g/w1HX/EawyTUwKJRkyhn4SQDeY+B+rmGA+TClhRvFai1xS2KFS78D619o+H4e7RvZ8eBFkbRx6Niyvm8yosh+6yLlNQEAAg3tAWzI7ODjJaAYdjThb8fEW60BA1byWrCFNqzXRaNT5DNURkVjBnkC4KeMoTMqjvf6mVapnIWq904cIStYRQiJ5EbyQZ3e9L9TVFUj/gSwk6Fhb+C57PoVv0nOlaCg0sTT8x6R9A/aWTEScxfHmrXt9eW8WCSL0AHgqPXwEw4DW0HP782HdMfcvBKg=;TCJljN3f+JNnl5qraAxppA=="
 ---

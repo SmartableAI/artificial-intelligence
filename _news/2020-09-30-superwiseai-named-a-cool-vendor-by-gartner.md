@@ -6,6 +6,9 @@ publishedDateTime: 2020-09-30T16:12:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/superwiseai-named-a-cool-vendor-by-gartner-301142125.html"
 webUrl: "https://www.prnewswire.com/news-releases/superwiseai-named-a-cool-vendor-by-gartner-301142125.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: PR Newswire

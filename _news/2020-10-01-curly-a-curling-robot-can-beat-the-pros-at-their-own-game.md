@@ -6,6 +6,9 @@ publishedDateTime: 2020-09-30T17:15:00Z
 originalUrl: "https://www.smithsonianmag.com/smart-news/curly-curling-robot-can-beat-pros-their-own-game-180975951/"
 webUrl: "https://www.smithsonianmag.com/smart-news/curly-curling-robot-can-beat-pros-their-own-game-180975951/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Smithsonian Magazine

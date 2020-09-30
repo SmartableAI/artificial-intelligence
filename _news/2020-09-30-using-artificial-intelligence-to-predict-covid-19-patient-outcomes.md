@@ -107,6 +107,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Personalized Learning and Tech Equity Under COVID-19"
+    excerpt: "For older students, COVID-19 opens the doors for deep learning that involves solving a complex problem that might encompass economic, health, and social justice challenges. This discussion will address the steps schools need to take to encourage and ..."
+    publishedDateTime: 2020-09-30T18:45:00Z
+    webUrl: "https://www.edweek.org/ew/events/summits/personalized-learning-and-tech-equity-under-covid-19.html"
+    type: article
+    provider:
+      name: Education Week
+      domain: edweek.org
+    quality: 4
 
 secured: "d/zVun9F6NEvnXpol5D9vQaRaHtS8AwP/UD8zi1OgLrX0hWafx2+/xOzVS7RvKBLoye4I8H2+q1A8Y5/gY0aGCAOQtETDL9ZHQYVPyWfDKF6WW7F66TmLk0AXN3c0AF2cfRwVaHdmoIwAtJkUC0B8jK1hcOr0ALBw2WyZdVDLBTiWF3lsOStywPxEEfF4rxWCTG1RWKsSij4iJMxoV3A1oXolc0ih62NcTPSA+1H9xzr4BhlYwPPGxCRQBix0o88IWz3u9Xe0uZd3676Pl00kRVJMaYGUxh349gbvWjHs3VzzOzM1jy47BbRHKfdgXr0PMFrg8hk1nRvoSzRwknq52HJp3m/FhV3nRaIEMOcdTQ=;x5gVoDid/96VXSJCZpMWdQ=="
 ---

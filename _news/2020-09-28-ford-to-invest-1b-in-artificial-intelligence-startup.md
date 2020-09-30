@@ -24,6 +24,17 @@ images:
     height: 521
     isCached: true
 
+related:
+  - title: "How Can We Best Identify and Nurture Promising AI Startups?"
+    excerpt: "In this special guest feature, Salvatore Minetti, CEO, Fountech.Ventures, outlines a number of important points for how we ought to help promising early-stage startups build towards commercial success."
+    publishedDateTime: 2020-09-30T16:27:00Z
+    webUrl: "https://insidebigdata.com/2020/09/30/how-can-we-best-identify-and-nurture-promising-ai-startups/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 17
+
 secured: "DV/XZyt8s6iZJjGI6X6FYNiBVxMfHd0L6U668C0tdTXsfHfHY0n68/gF8iw/aiVDiY0ZxfpFXEdtKYp+4aRV4RxQ/D6qTGpWrauWQjWA13ZjtqnSarHKMUcPZ/U/sws1Wf5VAJNAS/BzXaXfxXs4u7OZicsm7snUR1FxkTvlspLVfMW+P+u6Mn7BxsLDerRBN7GDdnzP9a+TEQHFlW7+TjEsajQlxDOQNtwPbomhBcs1qA+Jf1op/YZxYHU9xHKdsH8TV+8uxin0u6jgXVFp7VOH/dxkogCVdE5pEHDcPsOH9EMYrKOxFhWw4pcB5wTCgQqbtfXpRKioShs1p+XIrXFlWMj12YlupPBAlqn15qiUseNgIkLrfn2YECii7fHJUPbYXy2eSujuOcLyX9HangAzfWhbiMwAs3dERdzQl9onuC3xlNLZAwnFdMqKECJOo5JD2aLFqEYm/lOzNemwS15hcBFcZRmaYf6Bb9y9GCTdnWEunYno8ygptbAW+MOyZ48bwnVGdIC1+B9PN8Lynw==;lUicCDS5DKLdDPojtehiFA=="
 ---
 

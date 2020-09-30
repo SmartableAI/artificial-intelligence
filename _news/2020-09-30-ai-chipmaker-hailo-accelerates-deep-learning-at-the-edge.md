@@ -56,6 +56,20 @@ related:
         width: 1430
         height: 749
         isCached: true
+  - title: "AI Chipmaker Hailo Launches Top-Performing M.2 and Mini PCIe AI Acceleration Modules to Enhance Performance of Edge Devices"
+    excerpt: "Leading AI chipmaker Hailo announced today the launch of its M.2 and Mini PCIe high-performance AI acceleration modules for empowering"
+    publishedDateTime: 2020-09-30T18:00:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/ai-chipmaker-hailo-launches-top-performing-m-2-and-mini-pcie-ai-acceleration-modules-to-enhance-performance-of-edge-devices-821495435.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 28
+    images:
+      - url: "https://mma.prnewswire.com/media/1294554/Hailo_Comparison_Infographic.jpg?p=facebook"
+        width: 1430
+        height: 749
+        isCached: true
 
 secured: "8IMTyAjsy3N8HPIksvFZtFDOz+aiayEf10GLIMBEneOkoiyNBd+pi9Wp5sng6SK3z8LdXLXGVhfYrOUHOASUdvOusaWEF1skXgQ62JGwfVXfagS/U1euN2p5YJdDxVI9qzxyamSR0dTUJzG/bRWd+2JgfmjqDQ+euaPi7Iy8ak8OoDNvr4JdgEGk0kH/Eswt+z5xramHimM/O2a5YjlubJdkhvqgG0gYW/RdM5BbjyW9oZnt3RXzB/J3v+VHoICJNuJui6GEHwBPzkBOfOAtr7c731mr7rp1Dc6i3/hnCR1zVanPINkjQxpAMsm6ivQ3YJtK7bOc5RcynreCnBuobRTvjGllYGt+M1yjqzI2t3lFNlZ/O7Nw1E6BMG46u2SrEwsEFLmf4KesWNi/fKRjlfYxr47B31j9rEVMjqvskUOrGqzXuZNwyshOJkp3YXcORwlngDO0Ikl/yuJ3qC9CV3Bmch5Dk1NuOedQxk9Ze+gzraqA8ucGjQIX/ChgysKQGyAXchvLJlYF/7Y1qjxAzQ==;mhcTdSFR/mSNLn4X7a8RXg=="
 ---

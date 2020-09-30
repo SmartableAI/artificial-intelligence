@@ -6,6 +6,9 @@ publishedDateTime: 2020-09-30T16:25:00Z
 originalUrl: "https://siliconangle.com/2020/09/30/ray-ai-framework-used-amazon-intel-engineers-marks-1-0-release/"
 webUrl: "https://siliconangle.com/2020/09/30/ray-ai-framework-used-amazon-intel-engineers-marks-1-0-release/"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: SiliconANGLE

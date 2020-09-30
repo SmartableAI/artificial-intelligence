@@ -56,20 +56,6 @@ related:
         width: 850
         height: 478
         isCached: true
-  - title: "Ai Weiwei and groomed dogs: Monday's best photos"
-    excerpt: "The Guardian’s picture editors select highlights from around the world"
-    publishedDateTime: 2020-09-28T11:53:00Z
-    webUrl: "https://www.theguardian.com/news/gallery/2020/sep/28/ai-weiwei-and-groomed-dogs-mondays-best-photos"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 37
-    images:
-      - url: "https://i.guim.co.uk/img/media/1b1d28f90f835cb3d1903054ffa6a3f23547d042/0_356_5344_3207/master/5344.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5dc0e615717e9ccc5636a0875205c987"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Ai Weiwei Stages Silent Protest in Support of Wikileaks Founder"
     excerpt: "The dissident Chinese artist Ai Weiwei staged a silent protest in front of a London court today, September 28, in support of Wikileaks founder Julian Assange, who is facing extradition to the United States."
     publishedDateTime: 2020-09-28T20:15:00Z

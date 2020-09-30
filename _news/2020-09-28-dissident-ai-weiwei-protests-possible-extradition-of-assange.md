@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chron.com/news/amp/Dissident-Ai-Weiwei-protests-possible
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Dissident-Ai-Weiwei-protests-possible-extradition-15602451.php"
 type: article
 quality: 57
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://sl.sbs.com.au/public/image/file/2eb18225-ee7f-4883-b91f-f1a2d8879f06/crop/16x9"
         width: 850
         height: 478
-        isCached: true
-  - title: "Ai Weiwei and groomed dogs: Monday's best photos"
-    excerpt: "The Guardian’s picture editors select highlights from around the world"
-    publishedDateTime: 2020-09-28T11:53:00Z
-    webUrl: "https://www.theguardian.com/news/gallery/2020/sep/28/ai-weiwei-and-groomed-dogs-mondays-best-photos"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 37
-    images:
-      - url: "https://i.guim.co.uk/img/media/1b1d28f90f835cb3d1903054ffa6a3f23547d042/0_356_5344_3207/master/5344.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5dc0e615717e9ccc5636a0875205c987"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Ai Weiwei Supports Assange With Silent Protest"
     excerpt: "Dissident Chinese artist Ai Weiwei held a silent protest on Monday outside a London court to demand the release of WikiLeaks founder Julian Assange, who faces extradition to the United States. Exiled Ai,"
@@ -96,6 +82,6 @@ related:
       domain: smh.com.au
     quality: 35
 
-secured: "lP+6pT+adlckvsDh1S/ABYsrTg/gX3p6raEzhpg6ApwrOtm2078MQW05lpl3niw2IfjN+ph0PsTv2Ry5n+oDsZlSvof3hychCy3II4Taivr7MFf6u61piVVAAQ8zEFdSe5u1suIzdNDQznYKcXSFh55UEaG/RdiMbHHl5czR6X59Cq1JdkUeV3TSYAFMYdKIb6TLtEAuYsEyMDUDv5/nxC6OEMdWAk32+35prqL1PR31g/EAm9zWhiEV83ZuIkDInURsZ9Yx8P8QxWpR4hUpIfoVjw9U7IANYmgtOHTc/9m/Pyka30DOO6kyXl+xWLFBdVbBqOl7QDgRbQ4XnsEgEMOvj0DerIoA8nqpdfu3vRc=;oeE0/9DppMRnA/eYTVQbLg=="
+secured: "jxn7nKgtA4Lneg9+FTQkb+9t7fb7zUvmurRhWTCVwQA1kanSPpByEEdctI/ha+Wjc3zCjAwSIQSylLYte0bhm0JiTVR4W/5OC/SGE5n3baGwdAJrbiWflLuHXuWK1KGx+NZlBBvsMVhSToOVQ+6MV4wJ7Ow0YI2m2bhfipdr9Rg1+9xw+Z+Dxp6BZf33wLEjtpjbAufPEY2LS+ukAEAWrgzpRkHyjnEFz9+M7DJ3F3ecf+VR04UprRCr7MfEjcHbp063QI9okDs1rfosrRMxDM2e2+ulzH41RRFcPkoceUzR8isVvETwcIz8ncR84fd3wMnI5hLDfmEo6DYiuTk3PrjI6hUbbZUguWga/sJDyYIOJaLpknarbYC27U/LdUor4F/YZZn6Ldl0kUgW0pG4Sm4/ChK2852MdlGcRdtmUCZsjL6Uhp7Qkq1mvyYv5FZFfGvtvd6udJtDdilYw2IHENUYJCvKajX3S48uOwwxxADT6Xun5NhQ/qM9whkerux7haFVwuWb6YP8QzyBpxSEWA==;IjWcFE4K/TBwQlrKYYbFGw=="
 ---
 
