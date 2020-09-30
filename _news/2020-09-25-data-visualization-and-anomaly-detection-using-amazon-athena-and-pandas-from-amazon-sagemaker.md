@@ -43,20 +43,6 @@ related:
         width: 1000
         height: 623
         isCached: true
-  - title: "Football tracking in the NFL with Amazon SageMaker"
-    excerpt: "With the 2020 football season kicking off, Amazon Web Services (AWS) is continuing its work with the National Football League (NFL) on several ongoing game-changing initiatives. Specifically, the NFL and AWS are teaming up to develop state-of-the-art cloud technology using machine learning (ML) aimed"
-    publishedDateTime: 2020-09-25T16:17:51Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/football-tracking-in-the-nfl-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/11/1-Graphic.jpg"
-        width: 900
-        height: 517
-        isCached: true
   - title: "Running on-demand, serverless Apache Spark data processing jobs using Amazon SageMaker managed Spark containers and the Amazon SageMaker SDK"
     excerpt: "Apache Spark is a unified analytics engine for large scale, distributed data processing. Typically, businesses with Spark-based workloads on AWS use their own stack built on top of Amazon Elastic Compute Cloud (Amazon EC2), or Amazon EMR to run and scale Apache Spark, Hive, Presto, and other big data"
     publishedDateTime: 2020-09-29T16:41:35Z

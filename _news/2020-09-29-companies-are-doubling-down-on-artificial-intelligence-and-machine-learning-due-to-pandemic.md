@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "These weird, unsettling photos show that AI is getting smarter"
-    excerpt: "Of all the AI models in the world, OpenAI’s GPT-3 has most captured the public’s imagination. It can spew poems, short stories, and songs with little prompting, and has been demonstrated to fool people into thinking its outputs were written by a human."
-    publishedDateTime: 2020-09-25T16:20:00Z
-    webUrl: "https://www.technologyreview.com/2020/09/25/1008921/ai-allen-institute-generates-images-from-captions/"
-    ampWebUrl: "https://www.technologyreview.com/2020/09/25/1008921/ai-allen-institute-generates-images-from-captions/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/09/25/1008921/ai-allen-institute-generates-images-from-captions/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/09/PeopleonCouch-prompt.png?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
 
 secured: "M+IbTYEhWeZuTgyJvuJNk04WoB775nMt3Q5eWYlaggboDvVupaDhDb4d5EJqsfCixZDadEXgKpSSIDAvFSuzzmQTSqo8khO+i9PH5TcZ0Pj9JiFidUKylR1VAOp7co6p4Na46akU0c5vuz58c3jNSlmJckteA7RMlpDXyWKupBY+u04IdKgeHyuR4hPGnvpAFuZXQw3roLRgVejkcrSYkyLwz6gTcPCfi4rPme6b3fIK66QgSh2QgcthQwv9bBTnh1+OKwFHqK0qy4pOlcGhFPoE9bd3K4pKd0scaE7XMDQQKK6n5tWwwuEqKPVsNOguNPn5VMp66laOuuFDSnSP7+inIcV/uIrMYIY+wPk+6Kib+PuHtJ6souEkvGCraePWgoHZyDg2bQwQiTjDmRBBSUJtwFurdFUkfWc/Kb/aZ/uM/Q+GlFVby1RC8LF08QcNFlALKp3+SIcGUWsfdB0J0/XMz0ko3IfGGSmJspvF8Uy+ALzO5bS4BAVsIvHVN/rG1AZIq95quq3iDuWNmoK3MA==;A+WemstkfowvhOOPu2NURA=="
 ---

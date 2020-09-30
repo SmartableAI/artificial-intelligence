@@ -43,7 +43,7 @@ related:
   - title: "Women in AI awards open for entries"
     excerpt: "The WAI awards Australia 2021 are now open for entries from early stage start-ups founded or co-founded by a woman, with a product in the field. The awards are open across 11 categories and will be overseen by an advisory group including Queensland AI Hub CEO Dr Sue Keay,"
     publishedDateTime: 2020-09-30T03:39:00Z
-    webUrl: "https://www.spatialsource.com.au/company-industry/women-in-ai-awards-open-for-entries"
+    webUrl: "https://www.spatialsource.com.au/latest-news/women-in-ai-awards-open-for-entries"
     type: article
     provider:
       name: Spatial Source
@@ -67,6 +67,20 @@ related:
       - url: "https://dmpublisher.s3.us-west-2.amazonaws.com/2020/September/29/6/84b444f5-b1d8-4c58-b8b9-ac3c7c45a7e8-sized"
         width: 800
         height: 800
+        isCached: true
+  - title: "Getting rid of AI bias"
+    excerpt: "Better facial recognition and changing algorithms - how to fight racial bias in AI"
+    publishedDateTime: 2020-09-29T04:36:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/p08ssk81"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 37
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p08ssk91.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "CmbdebFFap9XmPEW9VMMolsjQaNWofJzu7fT64TGZ3HepbLcShETeZpzolwz/UYtdnUq1BX0tC8xIau297nW9YXSUHHUSMTycadsbI1+EmA/GqOvnt4zXcDyNqsQNFyECfnCJLacv1QMHPrIfoM0OV/B2h5IqbjNR+KWz7sdUahgj5Fk+uvBOkQTg/0sr5xn/BzLbqRCOtSUZwycJnnhdZ582bfI0otMOmI1t59PMNq1q6OzH/y+ryzBGH4on0aVIFQOyD0KMgxW+xObXhWUyPh2xdJ3nkSRKsooIxaHIZyp6vQ0D5uNp/BI+OfB7uwbIZ17gRoKc3vLYS8ipxjjdVDmgak9X3ZcTtXz2Skci9E=;G2/2NspzfBplr4yF2UtCeg=="

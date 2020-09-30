@@ -73,6 +73,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://markets.businessinsider.com/news/stocks/tickeron-releases-ai-robots-and-ai-screener-tools-to-support-and-assist-forex-traders-1029630432</loc>
+    <lastmod>2020-09-29T09:29:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://techcrunch.com/2020/09/29/datasaur-snags-3-9m-investment-to-build-intelligent-machine-learning-labeling-platform/</loc>
     <lastmod>2020-09-29T08:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -261,12 +267,6 @@
   <url>
     <loc>https://www.forbes.com/sites/isisbriones/2020/09/28/how-this-digital-avatar-is-elevating-ai-technology/</loc>
     <lastmod>2020-09-28T10:32:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.extremetech.com/deals/315610-google-cloud-has-a-big-edge-over-aws-or-azure-and-this-training-can-help-you-master-it</loc>
-    <lastmod>2020-09-28T10:26:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -499,8 +499,20 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.fastcompany.com/90554974/this-extraordinary-ai-has-stunned-computer-scientists-with-its-writing-ability</loc>
+    <lastmod>2020-09-25T09:22:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/amirhusain/2020/09/25/three-coming-shifts-in-ai/</loc>
     <lastmod>2020-09-25T08:59:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://abcnews.go.com/International/wireStory/palestinian-leader-calls-peace-process-speech-73242966</loc>
+    <lastmod>2020-09-25T08:43:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

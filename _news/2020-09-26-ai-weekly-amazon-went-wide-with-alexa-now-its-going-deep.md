@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/25/ai-weekly-amazon-went-wide-with-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/25/ai-weekly-amazon-went-wide-with-alexa-now-its-going-deep/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Amazon Alexa: How developers use AI to help Alexa understand what you mean and not what you say"
-    excerpt: "The developers and engineers on the Alexa Smart Home team use a variety of mechanisms, including AI and ML, to help Alexa better understand your voice requests."
-    publishedDateTime: 2020-09-25T15:42:00Z
-    webUrl: "https://www.techrepublic.com/article/amazon-alexa-how-developers-use-ai-to-help-alexa-understand-what-you-mean-and-not-what-you-say/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/amazon-alexa-how-developers-use-ai-to-help-alexa-understand-what-you-mean-and-not-what-you-say/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/amazon-alexa-how-developers-use-ai-to-help-alexa-understand-what-you-mean-and-not-what-you-say/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 75
-    images:
-      - url: "https://tr3.cbsistatic.com/hub/i/r/2015/09/14/7ec6790b-2644-456e-b63d-6a07ddd173d3/resize/400x/3f0ca063a1a96d845fdfd2ff97d575ea/amazonechoteardown015.jpg"
-        width: 400
-        height: 267
-        isCached: true
 
 secured: "K6FNSix0SQ7ajj4xcgy3j1B5Qo0TFJZ3CQPPhRrnxR/h+aIWbqpxtiFL3aZKETAV24Ln+r19YNTNeGx0FcmxfSw3TU48+Yhov/7Ejw0z1uKlIDo8ftL24CNP0OGLqtfePBZ0tDF+yNJ80/xwF2/iKe799a3QTsueBVJzWMVvvZcf33tZEO97CaqD/aNEDjijpYzkWBZvaK27CWLSCjUFHUPbUkcTTJsKSOl8nSWldjr7lkh84eoWIFCfKWPe1Rm4z14XKD6uzkghSv+eiegFAogxJcoVBuSek/+4i7eQp1BlFwOO3z9vXcIdRUlTdQ0qcAqiVkoQ/5Uw7LnXDotftdUcfVxqpsBF+7pOy7zHaO0YSFTQslDlP895KpieT1zUtynIwGhmuF1gStTaf4EDtLPgZn4nv+x3gHaSJwiWHO7EzfqsjkwrM08RE5exE7jmr4rcMMSwbQMmdUnbuYY1r+ynIoGicx7+zrVa/GxzPRJp5mzTLpKs6LJHJ0ZC5a8UuKdamMIZuNtFgrkCTGQrJA==;avCJF1l8JQLizybZ5xtmhQ=="
 ---

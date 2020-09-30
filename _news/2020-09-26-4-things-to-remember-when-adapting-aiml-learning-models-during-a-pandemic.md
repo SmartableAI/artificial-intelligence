@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/09/25/4-things-to-remember-when-adapting
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/25/4-things-to-remember-when-adapting-ai-ml-learning-models-during-a-pandemic/amp/"
 type: article
 quality: 102
-heat: 132
+heat: 122
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f721cf81578a9c207144243%2F0x0.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "These weird, unsettling photos show that AI is getting smarter"
-    excerpt: "Of all the AI models in the world, OpenAI’s GPT-3 has most captured the public’s imagination. It can spew poems, short stories, and songs with little prompting, and has been demonstrated to fool people into thinking its outputs were written by a human."
-    publishedDateTime: 2020-09-25T16:20:00Z
-    webUrl: "https://www.technologyreview.com/2020/09/25/1008921/ai-allen-institute-generates-images-from-captions/"
-    ampWebUrl: "https://www.technologyreview.com/2020/09/25/1008921/ai-allen-institute-generates-images-from-captions/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/09/25/1008921/ai-allen-institute-generates-images-from-captions/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/09/PeopleonCouch-prompt.png?w=3000"
-        width: 3000
-        height: 1688
         isCached: true
 
 secured: "rUvH9kggwK3wEOQtuo8jrIK0rb5LlsPOXkG5vojiDEqEbe/XrVs09QH/yV1pFAko1qcVWo2JAxr2yDzUtb5RHlDUYKoDd4i39+0IOYs4HI0lkMrtYHRguM2L3Dv9Usi4gPbiyN1YK8CZJ9vVAfOc6ZDj7FWCDSny3iNb/4k/+joA8fACmsO4Tw4XlLDpeQQ3bCmCJlTDPJcmMXSXfCLs5UnFu1x802ctSyKxAtQr2pBxWIEHSZeuOvtWxld/g5q3oXYUfhh4W8CMY7ELkzwJy5ficT03s05cEMBvDq6HmqGJAYgndlXTP+RxEk3fmQHoCKhVhFm8j6/PSHKw5L2jn6n7idhmE8mKDyvmRHvrF4Ac9IniWslYgiqDUji66c/5vQj46XMiPEPgSUhyTpBxUrrbXAHwSaphkesGnqbNMgFoiht931BX+bmmKpkM4PX63b1HpaHzuzKfAyZ4XKoPy2OZujAcx9UII9Egfr1+hPPoFFt9lnIkv9rHuQLUB/cIiDUif/OA+CsDmXNfDX1s+g==;KAabyhkbi4FsVnZ9B3mFZw=="

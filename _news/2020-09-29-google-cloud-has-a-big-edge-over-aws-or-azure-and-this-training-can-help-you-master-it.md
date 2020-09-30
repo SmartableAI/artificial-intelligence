@@ -7,8 +7,8 @@ originalUrl: "https://www.extremetech.com/deals/315610-google-cloud-has-a-big-ed
 webUrl: "https://www.extremetech.com/deals/315610-google-cloud-has-a-big-edge-over-aws-or-azure-and-this-training-can-help-you-master-it"
 type: article
 quality: 64
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: ExtremeTech
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Understand Machine Learning and Data Analysis With The Help Of This Expert-Led Training"
-    excerpt: "This world-shaping and career-changing technology training regularly sells for about $1,600, but in this collection, you’ll get everything you need for about $5 per course, just $39.99."
-    publishedDateTime: 2020-09-25T16:53:00Z
-    webUrl: "https://www.extremetech.com/deals/315493-understand-machine-learning-and-data-analysis-with-the-help-of-this-expert-led-training"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 46
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2020/09/sale_39532_article_image.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "E5OXHwn8zRxzxYn7CAPwHhQsfb1tdtFHfUUdY7KissiLxvjEfQTB50pcmkWwN7Q0+VbwVxDfZqkwxg6lmw13O5pApMLopu6ye9XR0Cm1VQ7S0o+Ak6KFeqZvL++3xXNu9USglBSmY8Rytk9Us3EvJ62kG1OZZXbguhlA4HT17djCassdK2jQ/oAW1mbyDAOpPBaoAnvo4hgUkcFE4Jbm2BzN4fbGbLhb8nm4ezTCdYJP9/FKya4D1NI/fy16AX2OtA4fHyYV9k1HXFwt64CE83sLj4HBx1F3EwwZ/9H8hr0CdUUh8FGIa76/D5Ro95SBj8iflszYBokyjX9aIcGHUKE19OFSg0xeLhT1KVfwi/ao08WLEUaT17DA7824SE/1LSOe4xEfzKtORCP+vVCo7RpGkk0txPaLAVjCrfaqsvIHE5PxF6VOjI6OPA/R8DLQUuUNO7Txv2XE1pmkrGCWX9CThKMWM69A2mL3xWtlSdJHrxo8bHBc50Kgiq5P/YMbk/zwjb2IY41PZ0L3WjV++w==;8Loq6wTbQwfxLQ0ahwohYw=="
 ---

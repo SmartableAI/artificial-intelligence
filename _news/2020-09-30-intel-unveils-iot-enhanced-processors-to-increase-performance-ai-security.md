@@ -1,0 +1,45 @@
+---
+category: news
+title: "Intel unveils IoT-enhanced processors to increase performance, AI, security"
+excerpt: "Intel has announced new enhanced Internet of Things (IoT) capabilities. The 11th Gen Intel Core processors, Intel Atom x6000E series, and Intel Pentium and Celeron N and J series bring new artificial intelligence (AI),"
+publishedDateTime: 2020-09-30T07:44:00Z
+originalUrl: "https://www.digitimes.com/news/a20200930PR200.html"
+webUrl: "https://www.digitimes.com/news/a20200930PR200.html"
+type: article
+quality: 37
+heat: 37
+published: false
+
+provider:
+  name: Digi Times
+  domain: digitimes.com
+
+topics:
+  - AI Hardware
+  - AI
+
+images:
+  - url: "https://www.digitimes.com/newsshow/20200930PR200_files/2_b.jpg"
+    width: 640
+    height: 427
+    isCached: true
+
+related:
+  - title: "Department of Defense Increases Support for Information Security and Intelligence, Artificial Intelligence Curriculum to Begin"
+    excerpt: "Ferris State University’s Information Security and Intelligence program has secured a Department of Defense grant to help with the development of an Artificial Intelligence curriculum, student scholarships and support directed to the ISI’s Cyber Competition schedule."
+    publishedDateTime: 2020-09-26T04:01:00Z
+    webUrl: "https://www.ferris.edu/HTMLS/news/archive/2020/september/security.htm"
+    type: article
+    provider:
+      name: Ferris State University
+      domain: ferris.edu
+    quality: 9
+    images:
+      - url: "https://www.ferris.edu/HTMLS/news/archive/2020/september/images/cyber-competition-main.jpg"
+        width: 500
+        height: 292
+        isCached: true
+
+secured: "HEle3QzQ6YtvcNKOVZQhaXxKou9UeGaW/tAKUR3iNobpcrjsJ/dsGhZXlBRCmf9X7U3MUWvo3Wd0quFpzmWfK6qxhdJhwT7Qzh9YssGnLjLGJDdqiDnh1aZgQauvvTy2YCxPqzS8/79vcUNO/Ar8tu6wHtZGCrfBOlMM7910yQZmi6XEEBFXrT1mMfm5fGgD/5N6yPRdC6idX8QhEm0+z9WB1thBOwla27BcNIZcC37KfUl30isc8mdIhARv8wQn3rpz0L+qvEAcDvNbC8DUngWXZ1QxxcHDckdjWuFOYnFTaEfQCCal943xhs6QyB7ZGn+xkQ4vX1w2inxHiHCdXM8ESKDUIfaRabqIAPE9nso=;0pSPtXLHUqOSljrEJ2lo/Q=="
+---
+

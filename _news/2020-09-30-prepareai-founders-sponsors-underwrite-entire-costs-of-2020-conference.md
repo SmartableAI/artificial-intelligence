@@ -44,7 +44,7 @@ related:
   - title: "Women in AI awards open for entries"
     excerpt: "The WAI awards Australia 2021 are now open for entries from early stage start-ups founded or co-founded by a woman, with a product in the field. The awards are open across 11 categories and will be overseen by an advisory group including Queensland AI Hub CEO Dr Sue Keay,"
     publishedDateTime: 2020-09-30T03:39:00Z
-    webUrl: "https://www.spatialsource.com.au/company-industry/women-in-ai-awards-open-for-entries"
+    webUrl: "https://www.spatialsource.com.au/latest-news/women-in-ai-awards-open-for-entries"
     type: article
     provider:
       name: Spatial Source
@@ -54,6 +54,20 @@ related:
       - url: "https://s3-ap-southeast-1.amazonaws.com/www.spatialsource.com.au/wp-content/uploads/2020/09/30124445/rae-johnston-12-scaled.jpg"
         width: 2560
         height: 1707
+        isCached: true
+  - title: "Getting rid of AI bias"
+    excerpt: "Better facial recognition and changing algorithms - how to fight racial bias in AI"
+    publishedDateTime: 2020-09-29T04:36:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/p08ssk81"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 37
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p08ssk91.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Startup Doc.ai inks deal with Anthem, names female cofounder CEO"
     excerpt: "Palo Alto, California-based artificial intelligence startup doc.ai, which named cofounder Sam De Brouwer its new CEO on Tuesday, has built the technical infrastructure to securely collect and process disparate data in ways that engage patients."

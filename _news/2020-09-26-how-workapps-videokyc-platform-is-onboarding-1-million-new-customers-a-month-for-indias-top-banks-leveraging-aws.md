@@ -3,11 +3,13 @@ category: news
 title: "How WorkApps’ VideoKYC platform is onboarding 1 million new customers a month for India’s top banks leveraging AWS"
 excerpt: "WorkApps with its enterprise-grade messaging platform for large organisations has been working towards enabling enterprises to augment their communication efforts, improve efficiency and change the way people collaborate and work together."
 publishedDateTime: 2020-09-26T03:08:00Z
-originalUrl: "https://yourstory.com/2020/09/workapps-videokyc-platform-1m-customers-banks-aws&c=5281742320559466222&mkt=en-us"
-webUrl: "https://yourstory.com/2020/09/workapps-videokyc-platform-1m-customers-banks-aws&c=5281742320559466222&mkt=en-us"
+originalUrl: "https://yourstory.com/2020/09/workapps-videokyc-platform-1m-customers-banks-aws"
+webUrl: "https://yourstory.com/2020/09/workapps-videokyc-platform-1m-customers-banks-aws"
+ampWebUrl: "https://yourstory.com/2020/09/workapps-videokyc-platform-1m-customers-banks-aws/amp"
+cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/09/workapps-videokyc-platform-1m-customers-banks-aws/amp"
 type: article
-quality: 17
-heat: 17
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -19,11 +21,11 @@ topics:
   - AI
 
 images:
-  - url: "https://images.yourstory.com/cs/2/18d4ab20d08111e99775a119527191d8/image16-1601020500451.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face&blur=50"
+  - url: "https://images.yourstory.com/cs/2/18d4ab20d08111e99775a119527191d8/image16-1601020500451.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
     width: 800
     height: 400
     isCached: true
 
-secured: "0PT69rXaeKS8AM7vm8mQG80OCzaFVqaPjP0AhvcHnSkhbJivPjw4hADxrjvmwRCJQYTmPNsybDza5fOvw/itUXoqslNFuRVDu3nYsJrbR4QYLLS2sQ/VBJZqc5NKkKPmfKCyfUnuwrV4xXuy+qdH1idcfIdIljs/U5teDuogG2djzweBVWw644TPmGxXYcw6+tZxJ1Us1o5HITtwjg4S5J3UZbc/yz0yolmqlHeD2mju9SctDqaDvWZfmeL+X8+lYwD56zYwFJ4bdYcOUO6WGA2O85t3F/N/GQWH/YbFdUxrY25LYHUmpw6gCeyhiTmryJBYmoWvowa88URjzd6zebioPhT3/CSuDqdC9k8+ciU=;F19bSpZHwIQu3a4fVduf/A=="
+secured: "A1GtMnRApUa1utBdQm+MblJY0cZo0e62O+jnZtdC6vs1GHNgQjFVc3ZPO94DaBzlNGte9cLdXp5pzp/wBsmZANvwmGsLlB8lMXUG0CcNgOJNgC9YZfd1WMl/pKS2iC14YwYihOzz2IslH9EXihz3tTblKo7/Njaa8KfF2cqBAoS46DxJ4EZ5fCdglpnu8xvb/6JE1dIVQJme6whAC0XSQElrB7Lyxr6Z0Cx1ugMAaRQGkanPEYFb5o4WLAjgXPDVjPx/fkhmsRSttmK5Id2vMDpN6tNHpNCWV/ih7rW5mOI+xie8e8KL4jkRQcf+orLKRD4D6698lda1aCotFe7FEs9HNB+cJGeB+Usp9UJJX+Y=;H/9bCJjWm/yl11jM+/i20A=="
 ---
 

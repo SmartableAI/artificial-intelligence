@@ -3,8 +3,8 @@ category: news
 title: "Women in AI awards open for entries"
 excerpt: "The WAI awards Australia 2021 are now open for entries from early stage start-ups founded or co-founded by a woman, with a product in the field. The awards are open across 11 categories and will be overseen by an advisory group including Queensland AI Hub CEO Dr Sue Keay,"
 publishedDateTime: 2020-09-30T03:39:00Z
-originalUrl: "https://www.spatialsource.com.au/company-industry/women-in-ai-awards-open-for-entries"
-webUrl: "https://www.spatialsource.com.au/company-industry/women-in-ai-awards-open-for-entries"
+originalUrl: "https://www.spatialsource.com.au/latest-news/women-in-ai-awards-open-for-entries"
+webUrl: "https://www.spatialsource.com.au/latest-news/women-in-ai-awards-open-for-entries"
 type: article
 quality: 39
 heat: -1
@@ -55,6 +55,20 @@ related:
         width: 800
         height: 800
         isCached: true
+  - title: "Getting rid of AI bias"
+    excerpt: "Better facial recognition and changing algorithms - how to fight racial bias in AI"
+    publishedDateTime: 2020-09-29T04:36:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/p08ssk81"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 37
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p08ssk91.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Startup Doc.ai inks deal with Anthem, names female cofounder CEO"
     excerpt: "Palo Alto, California-based artificial intelligence startup doc.ai, which named cofounder Sam De Brouwer its new CEO on Tuesday, has built the technical infrastructure to securely collect and process disparate data in ways that engage patients."
     publishedDateTime: 2020-09-29T15:33:00Z
@@ -70,6 +84,6 @@ related:
         height: 211
         isCached: true
 
-secured: "vmaV7ceNm+VWhulw5pnUlqYk7nRN1tHQf51Lbcd0RT4jKHEORButNjT4WnBT5GYY0qzPu+VUgB5r736mQlwmkCqe1vKOj0FWyg23CW+kCxLrsB2GjbBMcQgxMUym4R8mihAm0/XKxXS3YXJ5G7UtnQTld5qAbgZb71SX8rXEBR5fjFIYIOanl8/o+0qZQa5/RkJa3UyLmodRRdlon8772skBqR2SZ/bMPnmErdxfr5Mr+35tyYrEqVcnY5UvyWqUB+cskR81/gBiQBzqqlSvdpjEv0nBtlYkVSOJIYn464U5IRQH04QJV4+xnBH0tD8HnrT8Y9C+sLkEcSCxTM4lKjCQKlrLu5j1ZRji0BobTPnLqhUDcmfgS1gvaAh1ysFfiM3PBhQMiRWimPnd3+yFPeu91+sxB9O1adSsVW9gYc/mt9EjqGQqs1ZbBZqbJzd47HStuYT2p5QVSuJibQWAlBqqG9wfDBy07pwx9120Fzg/fvO665upMsZXdzc7QTk4010KPsY0Dc+mMA+nv+t/5Q==;ixOMZqansMDMewGV0HusJA=="
+secured: "SUp2YptBG75kVUzg8Mbfk3V5Ebj3rxqxe53AWR/zhCBl2EUt7EnU7ugQdE5ArxVhdDGbqT/lro17k4IN9tC60hoyk1qTej4rD3OSdzIv2vIqSWJBHk8dNGWM2AuGEzGNXpJcNvU2WJjAH+yd8rIRWykgv8JHKEvwjEtaa9a01izLHmCWglpvcFc7ocMirT5O1u6BYpeYh/Qp7DHIFyLtQBKZSj/1qxruB6W+M8/tRGeZJhfbkrT2+aOq/THvmtR/KA5Kv1vz4kV5CbvTtWF61LSKlGJKuCBpviFbbuNy4aE21ZU4aqazpJIp3HUtcQ0n+65L1FQ7mikSd1tiMk5Dc56DzywJ6lz86MZl6z+eaZs=;2/dCu2R0EwrjEUf4ZqGTyg=="
 ---
 

@@ -151,6 +151,20 @@ related:
         width: 1080
         height: 675
         isCached: true
+  - title: "Microsoft unveils Azure for Operators to unlock 5G potential"
+    excerpt: "With Azure, businesses can also implement a more flexible and scalable model, bring down infrastructure cost, as well as automate operations using AI and machine learning to differentiate their services. Microsoft also highlighted that it will support ..."
+    publishedDateTime: 2020-09-30T09:45:00Z
+    webUrl: "https://www.channelpro.co.uk/news/11908/microsoft-unveils-azure-for-operators-to-unlock-5g-potential"
+    type: article
+    provider:
+      name: Channel Pro
+      domain: channelpro.co.uk
+    quality: 54
+    images:
+      - url: "https://cdn1.channelpro.co.uk/sites/channelpro/files/2018/10/5g_shutterstock_606561206.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Microsoft Touts Azure as 'Carrier-Grade Platform' for Telcos Deploying 5G"
     excerpt: "Microsoft on Monday affirmed its software-defined networking infrastructure support for telecom companies, especially as they move more toward rolling out 5G wireless services."
     publishedDateTime: 2020-09-28T22:12:00Z
@@ -208,6 +222,20 @@ related:
       - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2020/03/iStock-458544341_dqOApoY.jpg"
         width: 1254
         height: 836
+        isCached: true
+  - title: "Microsoft Translator now supports Assamese too"
+    excerpt: "Toronto, Mississauga, Brampton and around the World, Breaking Entertainment News from Bollywood Hollywood, Sports, Cricket"
+    publishedDateTime: 2020-09-30T08:03:00Z
+    webUrl: "https://www.canindia.com/microsoft-translator-now-supports-assamese-too/"
+    type: article
+    provider:
+      name: Canindia.com
+      domain: canindia.com
+    quality: 41
+    images:
+      - url: "https://www.canindia.com/epaper/front1a.png"
+        width: 252
+        height: 388
         isCached: true
   - title: "Microsoft Azure Cloud Ramps for 5G Telecom Service Provider Partners"
     excerpt: "Microsoft Azure for Operators helps partners & telecommunications service providers (TSPs) roll out 5G networks and deliver new cloud-based services, Microsoft says."

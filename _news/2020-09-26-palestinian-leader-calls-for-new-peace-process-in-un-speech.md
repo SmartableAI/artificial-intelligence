@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nhregister.com/news/amp/Palestinian-leader-calls-for-new
 cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Palestinian-leader-calls-for-new-peace-process-in-15597017.php"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -25,19 +25,6 @@ images:
     width: 375
     height: 211
     isCached: true
-
-related:
-  - title: "Palestinian Leader Calls for New Peace Process in UN Speech"
-    excerpt: "Palestinian President Mahmoud Abbas has called for an international conference early next year to launch a \"genuine peace process.”."
-    publishedDateTime: 2020-09-25T15:46:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2020-09-25/palestinian-leader-calls-for-new-peace-process-in-un-speech"
-    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-09-25/palestinian-leader-calls-for-new-peace-process-in-un-speech?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-09-25/palestinian-leader-calls-for-new-peace-process-in-un-speech?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 54
 
 secured: "DQ77q0z6H9YHKHSnp0IgqPTFpVuckP4TlpYGSqK+alG4pzi63Cx+Oery8bQ5RP2OXTo/KW0wkxZG5GrEjh/O9t4EKeOlX30q3RJ/e82jtKpDUWxNjuZqlDjboO7XzXSm7VdUOulbnxuIYeg2Dy9ifq/N9jyJd9vAQgf91z0oQccBJF8ltxUgU9q8KRl/J76LEi8CZHzgYqPhQToXf07K2EoKu9WUk0H3kep64StH3fdcISEazVbSvbp9Tzd1LBdzJPzWoo4b6zaRqXx1RgGV0JSumgyoBFU1M4wUtXbwbKAortIp6iW+1oxqCsGFbTOYsNWvBrGEi4BLbUUPuebGO9vyR/bBeVioVJ7AsH9gSRg=;Lw+iUfsYk8pKKfmexcH8Aw=="
 ---

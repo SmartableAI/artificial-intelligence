@@ -36,6 +36,17 @@ related:
       name: India Education Diary
       domain: indiaeducationdiary.in
     quality: 40
+  - title: "Capgemini Press Release// Growing number of businesses recognize need for ethical and trusted AI-powered systems but progress is still patchy"
+    excerpt: "Good morning, Please find below the press release issued today. Best regards, Marishka MartinsGroup PR Consultant | Group Marketing & Communications Capgemini Group |"
+    publishedDateTime: 2020-09-30T06:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/09/tr17710931/capgemini-press-release-growing-number-of-businesses-recognize-need-for-ethical-and-trusted-ai-po"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17710931"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17710931"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
 
 secured: "Eb90nO+doI11EYVfvWd6kammqnzhUVXC3WXVgqq8nyzf5RfS3HHyrGaTCNfdWddfTJujdLGOflzeIl4wE1l7jJhcH2CuNGm4MoG377R09bwDtlmXOweX08kQn6KH+kAmaiW40pKiX1BHXFqnYPqe1exHU4sfpsw/RcyPfS5ppcQg4a43zuENc+z99odRqh+06OWXt9f882/VlIUttKWrXn7e8xyngIHrgAx1oUp3I+ecqr5ZvmuJYkZjGG20ZaOgl1sNaY2lp66foHi3Me67+oB2r2CNy40lvURPUAH7ZRNRuheODcnXVUvI7QjElSCW6+6krkiPPh4Y1eEkPhatVkirvAlTACRq/VUsj3mGaEw=;+D8I0T96aG5aPOAldJiuzA=="
 ---

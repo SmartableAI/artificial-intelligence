@@ -26,22 +26,6 @@ images:
     height: 707
     isCached: true
 
-related:
-  - title: "U.S. Rep. Bob Latta Makes New Push for Regulating Self-Driving Vehicles"
-    excerpt: "Ohio Rep. Bob Latta joined Cheddar to discuss new safety legislation he's introduced for autonomous vehicles. The Self-Drive Act will create a national standard for operation of self-driving cars."
-    publishedDateTime: 2020-09-25T16:20:00Z
-    webUrl: "https://cheddar.com/media/u-s-rep-bob-latta-makes-new-push-for-regulating-self-driving-vehicles"
-    type: article
-    provider:
-      name: Cheddar
-      domain: cheddar.com
-    quality: 24
-    images:
-      - url: "https://img.chdrstatic.com/media/7b5bc2ff-af36-409e-a4f3-68204b6803cf.jpg?source=backend&crop=1200:675,smart&width=1200&height=675&auto=webp"
-        width: 1200
-        height: 675
-        isCached: true
-
 secured: "3JNmMpgcFANGNxksPT239SUnOMAS2/vGb8ud1wgYxlSQ3o40+WybD2feYacvtLaH/bzNZ9HPKhCmyUcqZm9aVPwNZPmquHZ/h69OmpikwZxMBvQZY3KveAUzicxPDxFaBo3MyFTqx7HNz2iktGYDf96H1Xhcs1qf1ZKEgmFFZTSaD8krvKcjhnRLO/PIHNPGw4obm6NsVbqZEid24mxW7DLCa4sFY6DBfpoLg0c5DHoI9nvilPvNhI9+lX2+yNV551GmFNihhJov74fDIOPOvOdJsMsIrNRNdVie+VVCPeYDRTo652RuCt4KZQy9a2Fbp12fFQEFPxjPireuhzImtU2sYq+w3oJm9dho3sChMgyGMSBS+O6FTaAquIHAksqZAG7Bfe06gz/cTtzTz9MNN9j0U4hgHYJqfLZIqFmNQ4CfsL1nlc1YB3O5zvm0NeiU9AhbM3HNHStYd7HdovwjLU/OUbel+yMwYkKhEplzS9NXka2xXCxj+ZHo0Kp4GrEmUvp2nX94xkru83eqBphY5Q==;ZwScx1hCOtj7tHjs4plUCg=="
 ---
 

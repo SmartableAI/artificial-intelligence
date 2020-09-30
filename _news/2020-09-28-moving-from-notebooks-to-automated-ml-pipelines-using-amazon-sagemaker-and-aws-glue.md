@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/moving-from-notebook
 webUrl: "https://aws.amazon.com/blogs/machine-learning/moving-from-notebooks-to-automated-ml-pipelines-using-amazon-sagemaker-and-aws-glue/"
 type: article
 quality: 115
-heat: 145
+heat: 135
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Football tracking in the NFL with Amazon SageMaker"
-    excerpt: "With the 2020 football season kicking off, Amazon Web Services (AWS) is continuing its work with the National Football League (NFL) on several ongoing game-changing initiatives. Specifically, the NFL and AWS are teaming up to develop state-of-the-art cloud technology using machine learning (ML) aimed"
-    publishedDateTime: 2020-09-25T16:17:51Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/football-tracking-in-the-nfl-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/11/1-Graphic.jpg"
-        width: 900
-        height: 517
-        isCached: true
   - title: "Data visualization and anomaly detection using Amazon Athena and Pandas from Amazon SageMaker"
     excerpt: "Many organizations use Amazon SageMaker for their machine learning (ML) requirements and source data from a data lake stored on Amazon Simple Storage Service (Amazon S3). The petabyte scale source data on Amazon S3 may not always be clean because data lakes ingest data from several source systems, such"
     publishedDateTime: 2020-09-25T20:04:48Z
