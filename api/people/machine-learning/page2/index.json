@@ -4,6 +4,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_people/kalyanmoy-deb.md",
+      "title": "Kalyanmoy Deb",
+      "excerpt": "Koenig Endowed Chair Professor, Electrical and Computer Engineering, Michigan State …",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/kalyanmoy-deb/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/kalyanmoy-deb/",
+      "type": "profile",
+      "name": "Kalyanmoy Deb",
+      "bio": "Koenig Endowed Chair Professor, Electrical and Computer Engineering, Michigan State …",
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=paTAXiIAAAAJ",
+        "citations": 148296
+      },
+      "affiliation": {
+        "path": "",
+        "name": "msu.edu",
+        "domain": "msu.edu"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://scholar.google.com/citations?view_op=view_photo&user=paTAXiIAAAAJ&citpid=3",
+          "width": 116,
+          "height": 127,
+          "title": "Kalyanmoy Deb",
+          "isCached": false
+        }
+      ]
+    },
+    {
+      "path": "_people/leo-breiman.md",
+      "title": "Leo Breiman",
+      "excerpt": "Leo Breiman (January 27, 1928 – July 5, 2005) was a distinguished statistician at the University of California, Berkeley. He was the recipient of numerous honors and awards, and was a member of the United States National Academy of Science.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/leo-breiman/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/leo-breiman/",
+      "type": "profile",
+      "name": "Leo Breiman",
+      "bio": "Leo Breiman (January 27, 1928 – July 5, 2005) was a distinguished statistician at the University of California, Berkeley. He was the recipient of numerous honors and awards, and was a member of the United States National Academy of Science.",
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=mXSv_1UAAAAJ",
+        "citations": 159984
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Leo_Breiman"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "berkeley.edu",
+        "domain": "berkeley.edu"
+      },
+      "topics": [
+        "AI",
+        "Math for AI",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://scholar.google.com/citations?view_op=view_photo&user=mXSv_1UAAAAJ&citpid=2",
+          "width": 128,
+          "height": 89,
+          "title": "Leo Breiman",
+          "isCached": false
+        }
+      ]
+    },
+    {
+      "path": "_people/lev-dudko.md",
+      "title": "Lev Dudko",
+      "excerpt": "Lomonosov Moscow State University Skobeltsyn Institute of Nuclear Physics",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/lev-dudko/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/lev-dudko/",
+      "type": "profile",
+      "name": "Lev Dudko",
+      "bio": "Lomonosov Moscow State University Skobeltsyn Institute of Nuclear Physics",
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=zEQGLhoAAAAJ",
+        "citations": 172122
+      },
+      "affiliation": {
+        "path": "",
+        "name": "sinp.msu.ru",
+        "domain": "sinp.msu.ru"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://scholar.google.com/citations/images/avatar_scholar_128.png",
+          "width": 128,
+          "height": 128,
+          "title": "Lev Dudko",
+          "isCached": false
+        }
+      ]
+    },
+    {
       "path": "_people/lily-asquith.md",
       "title": "Lily Asquith",
       "excerpt": "Royal Society Dorothy Hodgkin Research Fellow, University of Sussex",
@@ -144,65 +247,6 @@
       ]
     },
     {
-      "path": "_people/rajat-monga.md",
-      "title": "Rajat Monga",
-      "excerpt": "Sr. Director/Distinguished Engineer. Leading #TensorFlow at Google.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/rajat-monga/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/rajat-monga/",
-      "type": "profile",
-      "name": "Rajat Monga",
-      "bio": "Sr. Director/Distinguished Engineer. Leading #TensorFlow at Google.",
-      "location": "San Francisco Bay Area",
-      "website": "https://research.google/people/RajatMonga/",
-      "twitter": {
-        "username": "rajatmonga",
-        "url": "https://twitter.com/rajatmonga",
-        "followers": 14223
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/rajatmonga/"
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=W8yZCNsAAAAJ",
-        "citations": 31082
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Google",
-        "domain": "google.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/google.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          },
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/google.com-400x400.jpg",
-            "width": 400,
-            "height": 400,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "AI",
-        "Google AI",
-        "Machine Learning",
-        "TensorFlow"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/732267151277481984/gMRijPzT_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Rajat Monga",
-          "isCached": true
-        }
-      ]
-    },
-    {
       "path": "_people/yoshua-bengio.md",
       "title": "Yoshua Bengio",
       "excerpt": "Yoshua Bengio OC FRSC is a Canadian computer scientist, most noted for his work on artificial neural networks and deep learning. He was a co-recipient of the 2018 ACM A.M. Turing Award for his work in deep learning.",
@@ -237,133 +281,6 @@
           "height": 128,
           "title": "Yoshua Bengio",
           "isCached": false
-        }
-      ]
-    },
-    {
-      "path": "_people/christopher-m-bishop.md",
-      "title": "Christopher M. Bishop",
-      "excerpt": "Laboratory Director at Microsoft Research Cambridge @MSFTResearchCam",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/christopher-m-bishop/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/christopher-m-bishop/",
-      "type": "profile",
-      "name": "Christopher M. Bishop",
-      "bio": "Laboratory Director at Microsoft Research Cambridge @MSFTResearchCam",
-      "location": "Cambridge, England",
-      "website": "https://t.co/qaAoprog1k",
-      "twitter": {
-        "username": "chrisbishopmsft",
-        "url": "https://twitter.com/chrisbishopmsft",
-        "followers": 5183
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=gsr-K3ADUvAC",
-        "citations": 115599
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 41,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/750274527016386560/D8Z1_kgh_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Christopher M. Bishop",
-          "isCached": true
-        }
-      ]
-    },
-    {
-      "path": "_people/daniele-bonacorsi.md",
-      "title": "Daniele Bonacorsi",
-      "excerpt": "High-Energy Physics at CERN. Software and Computing for the CMS experiment at the LHC. Big Data Analytics, {M,D}Learning. University of Bologna, INFN, CERN.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/daniele-bonacorsi/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/daniele-bonacorsi/",
-      "type": "profile",
-      "name": "Daniele Bonacorsi",
-      "bio": "High-Energy Physics at CERN. Software and Computing for the CMS experiment at the LHC. Big Data Analytics, {M,D}Learning. University of Bologna, INFN, CERN.",
-      "twitter": {
-        "username": "DBonacorsi",
-        "url": "https://twitter.com/DBonacorsi",
-        "followers": 668
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=7_xEzmUAAAAJ",
-        "citations": 140475
-      },
-      "affiliation": {
-        "path": "",
-        "name": "infn.it",
-        "domain": "infn.it"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 41,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1841900580/twitter_image_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Daniele Bonacorsi",
-          "isCached": true
-        }
-      ]
-    },
-    {
-      "path": "_people/alexandr-wang.md",
-      "title": "Alexandr Wang",
-      "excerpt": "Founder and CEO at Scale AI - a data platform for AI.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/alexandr-wang/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/alexandr-wang/",
-      "type": "profile",
-      "name": "Alexandr Wang",
-      "bio": "Founder and CEO at Scale AI - a data platform for AI.",
-      "location": "San Francisco, CA",
-      "website": "https://scale.com/",
-      "twitter": {
-        "username": "alexandr_wang",
-        "url": "https://twitter.com/alexandr_wang",
-        "followers": 9256
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/alexandrwang/"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Scale",
-        "domain": "scale.com"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Computer Vision",
-        "AI in Autos"
-      ],
-      "heat": 18,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/775445981034795008/R3D5PQLN_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Alexandr Wang",
-          "isCached": true
         }
       ]
     },
@@ -410,6 +327,65 @@
           "width": 400,
           "height": 400,
           "title": "Kai-Fu Lee",
+          "isCached": true
+        }
+      ]
+    },
+    {
+      "path": "_people/rajat-monga.md",
+      "title": "Rajat Monga",
+      "excerpt": "Sr. Director/Distinguished Engineer. Leading #TensorFlow at Google.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/rajat-monga/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/rajat-monga/",
+      "type": "profile",
+      "name": "Rajat Monga",
+      "bio": "Sr. Director/Distinguished Engineer. Leading #TensorFlow at Google.",
+      "location": "San Francisco Bay Area",
+      "website": "https://research.google/people/RajatMonga/",
+      "twitter": {
+        "username": "rajatmonga",
+        "url": "https://twitter.com/rajatmonga",
+        "followers": 14225
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/rajatmonga/"
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=W8yZCNsAAAAJ",
+        "citations": 31082
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Google",
+        "domain": "google.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/google.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          },
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/google.com-400x400.jpg",
+            "width": 400,
+            "height": 400,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "AI",
+        "Google AI",
+        "Machine Learning",
+        "TensorFlow"
+      ],
+      "heat": 0,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/732267151277481984/gMRijPzT_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Rajat Monga",
           "isCached": true
         }
       ]

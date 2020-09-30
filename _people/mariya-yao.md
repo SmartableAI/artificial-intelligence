@@ -2,14 +2,14 @@
 name: "Mariya Yao"
 bio: "Editor-In-Chief @TOPBOTS. Former CTO @MetamavenAI. #AI #ML @Forbes writer, speaker, author @AppliedAIBook, maker of lovable #UX & crappy #bots"
 type: "profile"
-heat: 3
+heat: 0
 
 website: https://mariyayao.com/
 
 twitter:
   username: thinkmariya
   url: https://twitter.com/thinkmariya
-  followers: 28409
+  followers: 28410
 
 topics:
   - AI
@@ -21,6 +21,6 @@ images:
     isCached: true
     title: "Mariya Yao"
 
-secured: "rSFB5Dhd9bHXWIbxJ9dYQjUIRnaLlTivZdU+E+7sOeJTAL7X+sHS9Q6NFRnbgmh3VHvOg82Wjm6ftlPhcOOTWmp2aIpMZdYtLim1rmF5D6cj+QuDI4YXXkI62PCUzAgGHHYA82QARJFglZPJbxcYElBu6U59Zhc5iN/HLrvjVRvqLhvTZjVr3w6uwDV013WKID1X+Fn1YvpI2859ngg+BK+WDx6K5KfeTYDyydhuj/Mwz5+Tk3ZU3xVqFQDY044LApqYNSDrCBsJjeclRZ0JeE9F42yki+cKhyozumhvLseFZBrF36kGZNJ8w79+BAKsz28jp2vvmWhPFTIowUOuM8G0eb3hfpP5qLCWH6D9tLYVpYqobitVouHneihve3eE9JJ39RYxMDrfKam69Kx/aNCcrYXTFMbrWqgjHLxazIA=;9NbS7z2dbRCJzLpplmPRUA=="
+secured: "uPp/JZQr+OJ6/tY6Np7Azo5xo6/6K5bF0ISWW1huWSg6CqQ/T8Gdi8DaoDo2XmrosMgKkHW5AWfrE8dk9B9TE9eQ9u2MwPxBXUx2Hp30hPRxcjz6DGuXTfTNgEPeR5BauEcwx8RMt4Nthy+fwgR8IE2qshLyPpQsEJ35fCI8r6V5s4l5ZBz/mcajYXIvAEcEvpCEyYLUWf/coBv0zdVFxDGB9gPqRFBARe/EHebDjJ8tEQfmrDDCdOVTgBCT9onHu66DKNzkTU75fEnVc0GxkzMar6+Oi7R/ONmQwIcsdk0C7j83goYGfHCTyOCeTGmMD80sFMfoVni7HurFdCvauPjLN5G/1bd8D0XZgtxhiDffaw3WBP3bJIxcb+SfJJMQilJU1Y/b/2SNTyd+b6mWqt6GCRdpZkYNPR6VzSHcU9M=;dICna0YqjuxTf0rL6Rc57A=="
 ---
 
