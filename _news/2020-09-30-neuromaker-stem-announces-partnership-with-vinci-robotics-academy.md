@@ -2,28 +2,28 @@
 category: news
 title: "NeuroMaker STEM Announces Partnership with Vinci Robotics Academy"
 excerpt: "NeuroMaker, the STEM education arm of Somerville based company BrainCo announces their partnership with Vinci Robotics Academy, a 501(c)(3) non-profit organization that operates STEAM educational programs in the greater Boston area."
-publishedDateTime: 2020-09-30T13:35:00Z
-originalUrl: "https://www.finanzen.net/nachricht/aktien/neuromaker-stem-announces-partnership-with-vinci-robotics-academy-9347122"
-webUrl: "https://www.finanzen.net/nachricht/aktien/neuromaker-stem-announces-partnership-with-vinci-robotics-academy-9347122"
+publishedDateTime: 2020-09-30T13:53:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/neuromaker-stem-announces-partnership-with-vinci-robotics-academy-1029635620"
+webUrl: "https://markets.businessinsider.com/news/stocks/neuromaker-stem-announces-partnership-with-vinci-robotics-academy-1029635620"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/neuromaker-stem-announces-partnership-with-vinci-robotics-academy-1029635620"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/neuromaker-stem-announces-partnership-with-vinci-robotics-academy-1029635620"
 type: article
-quality: 54
-heat: 54
-published: false
+quality: 84
+heat: 84
+published: true
 
 provider:
-  name: Finanzen
-  domain: finanzen.net
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "mjXzy8RwLdzsoSLms6bmekIWGj0leR/8eS0F0XIh+RgaVaEUAdA6ylL0Ordbnjr9ndysawrUB43VVFZKwTeah8dL3AfUubg7UHnfKJ32ecqL7SmKq8+ERYJzC8LndMK4kvLBSwilPev9+KglzO8A7N7k+UyZDKsXiHZjz0Grpn9pp1fUtg+qOTwt5qHhduyU1+jqjRymlIh2FL0+JWjyAah6w41dB+xv+bhRox0p8ar6zNdMbXuO7mVJCM7VFNbudaxmBBRF2Qn9AJ7rLYZ63iNxAIBh5sEdDKX/femFsAq284kQz2sc6WwM9TheKp87yvx000JRFEP2pC2WgHA/w97rpRTlo3cmmzktO/IHTTk=;azkLeDeTo4F+lRmk0vUjAw=="
+secured: "YITQBKiNVOVeO4GGMuB4gh1iZwy9omiwq47EYJbBIVYYK4gr1DTO4jiCjobvmHO39z5kAD7rNKJkxRpcnSNztaAo+ZtSfc57zM9OYzbh42+CSQUZvMr7Jgwm6mR+hl7WSZtBofFqDqydTmcYnUQ4uEiRFaceO7Xzv7oG6K1Gngt+ANi1BPHs85p//NIAdVW67ayTw9G6a59t1780Tf74PFWOsclo1GvuvYu42Ua9AQQxhXY6WRAN4baJjk0lj9mOVHrFfmtJHgn5h0NY2GGLT8Nw9RFucSpabcJLe1hXOG0z2WotoQwlb70YRFvI91KNGU31x4SHFp5PKmOfwlxiPF7OuaTw534jE/exMF005/w=;XM9DnThIR75FNgOi1+WRFg=="
 ---
 

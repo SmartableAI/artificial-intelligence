@@ -1,29 +1,29 @@
 ---
 category: news
 title: "SYSTRAN Partners with TED to Create Specialized Translation Models Expanding Professional Applications of Machine Translation"
-excerpt: "PRNewswire/ -- SYSTRAN, the leader in AI-based translation technology, announces its new partnership with TED, a nonprofit organization devoted to Ideas Worth Spreading, to build"
-publishedDateTime: 2020-09-30T12:22:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/systran-partners-with-ted-to-create-specialized-translation-models-expanding-professional-applications-of-machine-translation/article_2876188d-59c2-5b5d-a412-76b6c422d0af.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/systran-partners-with-ted-to-create-specialized-translation-models-expanding-professional-applications-of-machine-translation/article_2876188d-59c2-5b5d-a412-76b6c422d0af.html"
+excerpt: "PRNewswire/ -- SYSTRAN, the leader in AI-based translation technology, announces its new partnership with TED, a nonprofit organization devoted to Ideas"
+publishedDateTime: 2020-09-30T12:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/systran-partners-with-ted-to-create-specialized-translation-models-expanding-professional-applications-of-machine-translation-301141876.html"
+webUrl: "https://www.prnewswire.com/news-releases/systran-partners-with-ted-to-create-specialized-translation-models-expanding-professional-applications-of-machine-translation-301141876.html"
 type: article
 quality: 12
 heat: 12
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/bd/5bdf5785-9e57-5d52-a934-b7dbdfecc3fd/5f747897330a8.image.jpg?resize=400%2C347"
-    width: 400
-    height: 347
+  - url: "https://mma.prnewswire.com/media/1227311/LOGO_SYSTRAN_VERTICAL_RVB_4K.jpg?p=facebook"
+    width: 2700
+    height: 1414
     isCached: true
 
-secured: "mgWPYIp36pAUCCx9B4hcjWVGuQm9tDmaw9MhdVQguEl4BC5GEhkWLfTLyr7ebdAG+jcfHo8SX+c6hZS/+YJew1D1uSAaoI3US8buOvrLe4cqbTKmsj02ilC0WoipAbZJ3P28Oyr+oibbym1y6Wm0JUqpWabSuE1ipplJq5leUYdpQSuLC2RqnQsKTJxdH2qD67NgIttz5ktupKuxVgzztS/U6OWC5xT8jFj84Z7Vl/ZYdgSzarLKP1voBGr1u5AOONQOw7oh1x9PEergmsrmaq7FRhc8gtC25D2EYtbfLzrM7uYjQ46mcaWIb5e5UH5QlLNyr8kWRUIvbMJ+NIDRruAzRepLpogL1HoE4+Zd+f8=;qfRHvMrghbSUzVfdhdmsZw=="
+secured: "zu7yFjwz4Jvz/ZrNbtws+8hOpF/V3pNNmppSey9znQSW8BvAatH1U/Cw1AOIPbMWM2w0fAmsVkA/yUGBeCet9V/T/4G3spe20ODlaV8kVuD4pQlhgSwvr6Nnn5uzp0z0TApsIc8lRgh6jmh8ltrMHsNP4w5yTLOL0JhKM5V0mDoDs0o4kO8UnNjFKllOshcGwRjIgDT23NL+r5tn0K0V06spv9D1hPJ59PwACeFldjKqbf/0dvW8XTpZfLEMndw2Nl7JUb2FE2prOvFlNysIL94VKclz05C2TGRt93G47TvcTM0aLSZMrQk0ccH1VZ+OMPjDcTmtLj8GqDxnHVvaxcJBTibZoaNzIRF5b2ob73Y=;rmrqyP5x/MMUqyOG2fIJQg=="
 ---
 

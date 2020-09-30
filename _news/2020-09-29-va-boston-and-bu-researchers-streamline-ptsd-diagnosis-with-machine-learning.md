@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers streamline PTSD diagnosis with machine learning"
+    excerpt: "Post-traumatic stress disorder (PTSD) affects eight million adults in the US, including hundreds of thousands of veterans of the conflicts in Iraq and Afghanistan. And as the COVID crisis continues to take its toll on everyone's mental health,"
+    publishedDateTime: 2020-09-30T15:04:00Z
+    webUrl: "https://medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/combatveteran.jpg"
+        width: 1920
+        height: 1368
+        isCached: true
   - title: "Streamlining PTSD Diagnosis with Machine Learning"
     excerpt: "Among veterans, the “gold standard” diagnostic assessment for PTSD could be shortened. Different items in the diagnostic proved less important for male or for female veterans."
     publishedDateTime: 2020-09-29T00:00:00Z

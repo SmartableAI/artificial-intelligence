@@ -51,22 +51,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 63
-  - title: "Artificial Intelligence revamping exercise routines in the age of COVID-19"
-    excerpt: "Fitness routines have changed a lot during the pandemic. More people are opting to take their workout outside or choosing"
-    publishedDateTime: 2020-09-25T21:42:00Z
-    webUrl: "https://wtmj.com/homepage-showcase/2020/09/25/artificial-intelligence-revamping-exercise-routines-in-the-age-of-covid-19/"
-    ampWebUrl: "https://wtmj.com/homepage-showcase/2020/09/25/artificial-intelligence-revamping-exercise-routines-in-the-age-of-covid-19/amp/"
-    cdnAmpWebUrl: "https://wtmj-com.cdn.ampproject.org/c/s/wtmj.com/homepage-showcase/2020/09/25/artificial-intelligence-revamping-exercise-routines-in-the-age-of-covid-19/amp/"
-    type: article
-    provider:
-      name: WTMJ
-      domain: wtmj.com
-    quality: 55
-    images:
-      - url: "https://wtmj.com/wp-content/uploads/2020/09/Exercise.png"
-        width: 1333
-        height: 868
-        isCached: true
   - title: "AI in Manufacturing Market 2020 with COVID-19 Impact Analysis | Upcoming Trends & Forecast Till 2027"
     excerpt: "The global artificial intelligence (AI) in manufacturing market size is expected to rise owing to increasing demand"
     publishedDateTime: 2020-09-28T11:12:00Z
@@ -122,20 +106,6 @@ related:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/shutterstock_covid_app.jpg"
         width: 1024
         height: 768
-        isCached: true
-  - title: "COVID-19 Recovery Analysis: Artificial Intelligence Platforms Market | Rise In Demand For AI-based Solutions to boost the Market Growth | Technavio"
-    excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence Platforms Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--Technavio has been monitoring the artificial intelligence platforms market and it is poised to grow by $ 12."
-    publishedDateTime: 2020-09-25T21:39:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200916005770/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 14
-    images:
-      - url: "https://mms.businesswire.com/media/20200916005770/en/821962/23/IRTNTR44235.jpg"
-        width: 1200
-        height: 627
         isCached: true
 
 secured: "rWE6w+RFVokTCgZkAaBmgf0l5KvUxueS1a1oFVQVCnqDPm3wDLx1NZlzNOsYe4q/hgGXratNHxnPHxmZKAzSH3p0HE6qd3z4d7UQ6QkZEikEUvIzqXV+zRW/hp2KoJijDou+f5/l1ol0khx1qHWmJPec6gsi7/H6+e9OakCi86eAAyGl64lXOHUrFurOsdXao/0nXUNwRI2YdBa4JoZVB6ANmd70/5A9w4qF1pax7s03Z2JV0u+Nwm/aTYkEOxSkWEBffcC7I0AepNto/YbipaCd4JGrdT2Shd6w3nEeHEVCV9pyvVJH3EwH+4BFQFQvpfmvhzx73tp44DqbPVMRAG8m+XX/ZxW9gb3d7ZvW7qE=;SsgaoA7PZ3KMi1u+gHpHjw=="

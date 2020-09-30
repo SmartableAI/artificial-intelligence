@@ -2,6 +2,39 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-08-24-orangepixel-preparing-to-launch-the-first-of-a-dozen-games-on-nintendo-switch.md",
+      "title": "Orangepixel preparing to launch the first of a dozen games on Nintendo Switch",
+      "excerpt": "The Meganoid is a dreadnought spaceship saving humanity with a colonization mission, but lately it has been seeing some problems happening, with technicians turning into mind-controlled goons.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gamasutra.com/view/pressreleases/368731/Orangepixel_preparing_to_launch_the_first_of_a_dozen_games_on_Nintendo_Switch.php",
+      "originalUrl": "https://www.gamasutra.com/view/pressreleases/368731/Orangepixel_preparing_to_launch_the_first_of_a_dozen_games_on_Nintendo_Switch.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-24T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gamasutra",
+        "domain": "gamasutra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-21-facebooks-new-embodied-ai-project-aims-to-build-a-new-breed-of-robots.md",
       "title": "Facebook’s new ’embodied A.I’ project aims to build a new breed of robots",
       "excerpt": "Facebook wants to build an army of robot assistants that can wait on us in all kinds of new ways. Here's what it's working on.",

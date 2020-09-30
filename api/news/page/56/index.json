@@ -2,6 +2,182 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2020-08-19-machine-learning-in-retail-market.md",
+      "title": "Machine Learning in Retail Market",
+      "excerpt": "Machine Learning in Retail Market 2020 report is a compilation of first hand information qualitative and quantitative assessment by industry analysts inputs from industry experts and industry participants across the value chain The report provides in depth analysis of parent",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2116297/machine-learning-in-retail-market-to-impressive-growth-2025",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/8/T819308741_g.jpg",
+          "width": 562,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2116297/machine-learning-in-retail-market-to-impressive-growth-2025",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2116297/machine-learning-in-retail-market-to-impressive-growth-2025",
+      "publishedDateTime": "2020-08-19T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human.md",
+      "title": "How Ancient Rules of Logic Could Make Artificial Intelligence More Human",
+      "excerpt": "Many attempts to develop artificial intelligence are powered by powerful systems of mathematical logic. They tend to produce results that make logical sense to a computer program — but the result is not very human.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/",
+      "originalUrl": "https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmodo.com.au/content/uploads/sites/2/2020/08/19/aristotle.png",
+          "width": 1051,
+          "height": 597,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/amp/",
+      "publishedDateTime": "2020-08-19T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo Australia",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-facial-recognition-market-what-are-the-main-factors-that-contributing-towards-industry-growth.md",
+      "title": "Facial Recognition market - What Are The Main Factors That Contributing Towards Industry Growth?",
+      "excerpt": "Facial Recognition is a biometric application which captures image of an individual and identify it by applying",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market---what-are-the-main-factors-that-contributing-towards-industry-growth-2020-08-19",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-19T01:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-artificial-intelligence-ai-in-drug-discovery-market.md",
+      "title": "Artificial Intelligence (AI) in Drug Discovery Market",
+      "excerpt": "The large Artificial intelligence (AI) in drug discovery market report contains wide-ranging and comprehensive market insights which are based on business intelligence. A strong research methodology used in this marketing report comprises of data models ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2116269/artificial-intelligence-ai-in-drug-discovery-market-seeking",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/8/T819553587_g.jpg",
+          "width": 800,
+          "height": 460,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2116269/artificial-intelligence-ai-in-drug-discovery-market-seeking",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2116269/artificial-intelligence-ai-in-drug-discovery-market-seeking",
+      "publishedDateTime": "2020-08-19T01:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-19-inside-drift-meet-carolina-caprile-natural-language-processing-engineer.md",
       "title": "Inside Drift: Meet Carolina Caprile, Natural Language Processing Engineer",
       "excerpt": "Carolina Caprile breaks down her work as a natural language processing engineer and talks about what it was like to do stand-up comedy in Argentina.",
@@ -985,200 +1161,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri.md",
-      "title": "Researchers at Facebook AI, NYU Langone Push Speed Limits of MRI",
-      "excerpt": "The results of the joint effort, which originated at Facebook, show that accurate MRIs can be produced more quickly as AI functions with less data, researchers said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600",
-      "originalUrl": "https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-221966/social",
-          "width": 960,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600",
-      "publishedDateTime": "2020-08-18T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-hour-one-wants-synthetic-ai-characters-to-be-your-digital-avatars.md",
-      "title": "Hour One wants synthetic AI characters to be your digital avatars",
-      "excerpt": "If you ever wondered how we’ll populate the metaverse, look no further than Hour One, an Israeli startup that is making replicas of people with AI avatars. These avatars can be a near-perfect ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/18/hour-one-wants-synthetic-ai-characters-to-be-your-digital-avatars/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/hour-one-3-1.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 605,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/18/hour-one-wants-synthetic-ai-characters-to-be-your-digital-avatars/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/18/hour-one-wants-synthetic-ai-characters-to-be-your-digital-avatars/amp/",
-      "publishedDateTime": "2020-08-18T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-how-to-diagnose-and-treat-machine-learning-models-afflicted-by-covid-19.md",
-      "title": "How to diagnose and treat machine learning models afflicted by COVID-19",
-      "excerpt": "Its impact has been particularly significant on many machine learning (ML) models that companies use to predict human behavior. Companies need to take steps to deeply examine ML models and acquire ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/18/how-to-diagnose-and-treat-machine-learning-models-afflicted-by-covid-19/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1208505346.jpg?w=724",
-          "width": 724,
-          "height": 483,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/18/how-to-diagnose-and-treat-machine-learning-models-afflicted-by-covid-19/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/18/how-to-diagnose-and-treat-machine-learning-models-afflicted-by-covid-19/amp/",
-      "publishedDateTime": "2020-08-18T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-atscale-expands-reach-of-cloud-olap-with-support-for-microsoft-azure-databricks-in-20203-release.md",
-      "title": "AtScale Expands Reach of Cloud OLAP with Support for Microsoft Azure Databricks in 2020.3 Release",
-      "excerpt": "AtScale, the intelligent data virtualization provider for advanced analytics, today announced an enhanced platform integration with Azure Databricks. The integration extends AtScale’s Cloud Online Analytical Processing (COLAP) to analytics workloads wherever they reside: on-premises,",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200818005298/en/AtScale-Expands-Reach-Cloud-OLAP-Support-Microsoft",
-      "originalUrl": "https://www.businesswire.com/news/home/20200818005298/en/AtScale-Expands-Reach-Cloud-OLAP-Support-Microsoft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200818005298/en/813347/23/AtScale_Logo_2.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-18T10:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

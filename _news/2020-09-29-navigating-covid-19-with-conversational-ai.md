@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/356864"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356864"
 type: article
 quality: 87
-heat: 167
+heat: 147
 published: true
 
 provider:
@@ -41,22 +41,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 63
-  - title: "Artificial Intelligence revamping exercise routines in the age of COVID-19"
-    excerpt: "Fitness routines have changed a lot during the pandemic. More people are opting to take their workout outside or choosing"
-    publishedDateTime: 2020-09-25T21:42:00Z
-    webUrl: "https://wtmj.com/homepage-showcase/2020/09/25/artificial-intelligence-revamping-exercise-routines-in-the-age-of-covid-19/"
-    ampWebUrl: "https://wtmj.com/homepage-showcase/2020/09/25/artificial-intelligence-revamping-exercise-routines-in-the-age-of-covid-19/amp/"
-    cdnAmpWebUrl: "https://wtmj-com.cdn.ampproject.org/c/s/wtmj.com/homepage-showcase/2020/09/25/artificial-intelligence-revamping-exercise-routines-in-the-age-of-covid-19/amp/"
-    type: article
-    provider:
-      name: WTMJ
-      domain: wtmj.com
-    quality: 55
-    images:
-      - url: "https://wtmj.com/wp-content/uploads/2020/09/Exercise.png"
-        width: 1333
-        height: 868
-        isCached: true
   - title: "AI in Manufacturing Market 2020 with COVID-19 Impact Analysis | Upcoming Trends & Forecast Till 2027"
     excerpt: "The global artificial intelligence (AI) in manufacturing market size is expected to rise owing to increasing demand"
     publishedDateTime: 2020-09-28T11:12:00Z
@@ -126,20 +110,6 @@ related:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/shutterstock_covid_app.jpg"
         width: 1024
         height: 768
-        isCached: true
-  - title: "COVID-19 Recovery Analysis: Artificial Intelligence Platforms Market | Rise In Demand For AI-based Solutions to boost the Market Growth | Technavio"
-    excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence Platforms Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--Technavio has been monitoring the artificial intelligence platforms market and it is poised to grow by $ 12."
-    publishedDateTime: 2020-09-25T21:39:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200916005770/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 14
-    images:
-      - url: "https://mms.businesswire.com/media/20200916005770/en/821962/23/IRTNTR44235.jpg"
-        width: 1200
-        height: 627
         isCached: true
 
 secured: "k6nCE2tZWRLbw7scaxhMEKH7ogZ+7lwVp9NiGLAa6vo7Y3E77k3nMKDir6WvIRb5nYWciOhLVRAr5Xr8yS2UglLDkHe4j2uKGGzZ3Ij9xSJsxUTgpH5KkvO4LT+QqXGKAx/ST+d34J636Gm/WXCrFmdfN1HqkgGVtWyM5dnm1d9+MTF+AiiCyqQf6hAYD7BDagRF1xn2QPAn0oTrlwdVvFWrojLScwpchPl7KeFFtA1mDP/wZAqpMFO7GRVkbE3O4SsfaujEPIc6MiI8oYGpWmV9jqoaw+BFwlqzY0xnCbBHsFofuFKV4RSxT1rr4wErN+xRhN00ovS0RoLl/q+782MYGL1JMhQmulIsoKshTxUdpwvRUEbD5gzGOTXa93yLtQAQz7rFzW2oMvtFK6X/yllqD9I+dwl3rF/zr2wmm2XrnaD2PFzhDAoApiiv3fdFGAINdlv+kIg4vqOvwB8ClAvLg4HVvhboK9MApkE9tqk/EmSTQMr3RWnyQgYIep3nePTDD57N6cij12fe3JbsyA==;EmtGcpEiIWK6AgzMrE7Sbw=="

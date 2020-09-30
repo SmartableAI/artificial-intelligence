@@ -2,6 +2,200 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-30-examsofts-remote-bar-exam-sparks-privacy-and-facial-recognition-concerns.md",
+      "title": "ExamSoft’s remote bar exam sparks privacy and facial recognition concerns",
+      "excerpt": "To administer bar exams in 20 different states next week, ExamSoft is using facial recognition and collecting the biometric data of legal professionals.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/29/examsofts-remote-bar-exam-sparks-privacy-and-facial-recognition-concerns/",
+      "originalUrl": "https://venturebeat.com/2020/09/29/examsofts-remote-bar-exam-sparks-privacy-and-facial-recognition-concerns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/kiana-caton.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/29/examsofts-remote-bar-exam-sparks-privacy-and-facial-recognition-concerns/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/29/examsofts-remote-bar-exam-sparks-privacy-and-facial-recognition-concerns/amp/",
+      "publishedDateTime": "2020-09-29T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-googles-smart-cleanup-taps-ai-to-streamline-data-entry.md",
+      "title": "Google’s Smart Cleanup taps AI to streamline data entry",
+      "excerpt": "Smart Cleanup, an AI-powered Google Sheets feature that automatically detects and removes duplicates and more, is now generally available.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/29/googles-smart-cleanup-taps-ai-to-streamline-data-entry/",
+      "originalUrl": "https://venturebeat.com/2020/09/29/googles-smart-cleanup-taps-ai-to-streamline-data-entry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/29/googles-smart-cleanup-taps-ai-to-streamline-data-entry/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/29/googles-smart-cleanup-taps-ai-to-streamline-data-entry/amp/",
+      "publishedDateTime": "2020-09-29T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2025.md",
+      "title": "Artificial Intelligence In Healthcare Market Growth, Leading Players and Forecast To 2025",
+      "excerpt": "A comprehensive research report created through extensive primary research (inputs from industry experts, companies, stakeholders) and secondary research, the report aims to present the analysis of Global Artificial Intelligence in Healthcare Market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2025-2020-09-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2025-2020-09-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-29T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-tickeron-releases-ai-robots-and-ai-screener-tools-to-support-and-assist-forex-traders.md",
+      "title": "Tickeron Releases AI Robots and AI Screener Tools To Support And Assist Forex Traders",
+      "excerpt": "Tickeron, an artificial and human intelligence platform delivering unparalleled trading insights and analysis, uses its revolutionary new AI-powered features, AI Robots and AI Screener, to provide Forex traders with the information and analysis necessary to be successful.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/tickeron-releases-ai-robots-and-ai-screener-tools-to-support-and-assist-forex-traders-1029630432",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/tickeron-releases-ai-robots-and-ai-screener-tools-to-support-and-assist-forex-traders-1029630432",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/tickeron-releases-ai-robots-and-ai-screener-tools-to-support-and-assist-forex-traders-1029630432",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tickeron-releases-ai-robots-and-ai-screener-tools-to-support-and-assist-forex-traders-1029630432",
+      "publishedDateTime": "2020-09-29T09:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-datasaur-snags-39m-investment-to-build-intelligent-machine-learning-labeling-platform.md",
       "title": "Datasaur snags $3.9M investment to build intelligent machine learning labeling platform",
       "excerpt": "As machine learning has grown, one of the major bottlenecks remains labeling things so the machine learning application understands the data it’s working with. Datasaur, a member of the Y Combinator Winter 2020 batch,",
@@ -602,7 +796,7 @@
       "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2020/09/29/using-machine-learning-to-reduce-carbon-emissions-in-the-trucking-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -653,7 +847,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/356864",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -1028,193 +1222,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-colorado-law-enforcement-quietly-uses-facial-recognition.md",
-      "title": "Colorado Law Enforcement Quietly Uses Facial Recognition",
-      "excerpt": "Law enforcement agencies in Colorado have quietly expanded their use of facial recognition software through the DMV and other programs. The state has currently no laws regulating the use of facial recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/public-safety/Colorado-Law-Enforcement-Quietly-Uses-Facial-Recognition.html",
-      "originalUrl": "https://www.govtech.com/public-safety/Colorado-Law-Enforcement-Quietly-Uses-Facial-Recognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/shutterstock_1139687675+(1).jpg",
-          "width": 1119,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/public-safety/Colorado-Law-Enforcement-Quietly-Uses-Facial-Recognition.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Colorado-Law-Enforcement-Quietly-Uses-Facial-Recognition.html?AMP",
-      "publishedDateTime": "2020-09-28T14:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-aws-inferentia-is-now-available-in-11-aws-regions-with-best-in-class-performance-for-running-object-detection-models-at-scale.md",
-      "title": "AWS Inferentia is now available in 11 AWS Regions, with best-in-class performance for running object detection models at scale",
-      "excerpt": "AWS has expanded the availability of Amazon EC2 Inf1 instances to four new AWS Regions, bringing the total number of supported Regions to 11: US East (N. Virginia, Ohio), US West (Oregon), Asia Pacific (Mumbai, Singapore, Sydney, Tokyo), Europe (Frankfurt, Ireland, Paris), and South America (S&atilde;o",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-inferentia-is-now-available-in-11-aws-regions-with-best-in-class-performance-for-running-object-detection-models-at-scale/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-inferentia-is-now-available-in-11-aws-regions-with-best-in-class-performance-for-running-object-detection-models-at-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-28T13:44:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-windows-10-lists-of-vocal-commands-for-speech-recognition-and-dictation.md",
-      "title": "Windows 10: Lists of vocal commands for speech recognition and dictation",
-      "excerpt": "Windows 10 allows users to talk to their computers, but the list of possible commands is significant. We provide a handy reference to the most common speech recognition commands.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/windows-10-lists-of-vocal-commands-for-speech-recognition-and-dictation/",
-      "originalUrl": "https://www.techrepublic.com/article/windows-10-lists-of-vocal-commands-for-speech-recognition-and-dictation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/09/28/e51a3589-405f-4398-a331-49ddee712d1c/resize/1200x/caf9c5d3c56947cd35663e4d024df7e1/istock-1135346381.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/windows-10-lists-of-vocal-commands-for-speech-recognition-and-dictation/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/windows-10-lists-of-vocal-commands-for-speech-recognition-and-dictation/",
-      "publishedDateTime": "2020-09-28T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-pure-vector-engines-get-gpu-math-help-for-next-earth-simulator.md",
-      "title": "Pure Vector Engines Get GPU Math Help for Next Earth Simulator",
-      "excerpt": "For those who have followed the evolution of supercomputing over the years, the Earth Simulator series of systems has represented the state of the art in",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2020/09/28/pure-vector-engines-get-gpu-math-help-for-next-earth-simulator/",
-      "originalUrl": "https://www.nextplatform.com/2020/09/28/pure-vector-engines-get-gpu-math-help-for-next-earth-simulator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/shutterstock_787937605-scaled.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2020/09/28/pure-vector-engines-get-gpu-math-help-for-next-earth-simulator/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/09/28/pure-vector-engines-get-gpu-math-help-for-next-earth-simulator/amp/",
-      "publishedDateTime": "2020-09-28T13:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Math for AI"
       ]
     }
   ],

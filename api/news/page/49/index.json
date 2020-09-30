@@ -2,6 +2,173 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2020-08-24-mit-is-developing-an-ai-cancer-diagnosis-system.md",
+      "title": "MIT Is Developing an AI Cancer Diagnosis System",
+      "excerpt": "Diagnosing cancer is a depressingly common activity in hospitals—but spotting subtle variations in tumor types can require sifting through hundreds of previous cases. At MIT, though, researchers are developing a system that uses Artificial Intelligence to speed up that process.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/mit-is-developing-an-ai-cancer-diagnosis-system-1699916919",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/mijxpgk5vtiwiubd04dj.jpg",
+          "width": 800,
+          "height": 362,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/mit-is-developing-an-ai-cancer-diagnosis-system-1699916919/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/mit-is-developing-an-ai-cancer-diagnosis-system-1699916919/amp",
+      "publishedDateTime": "2020-08-24T14:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-25-stradvision-to-collaborate-with-leading-custom-soc-supplier-socionext-to-provide-efficient-adas-solutions.md",
+      "title": "StradVision to collaborate with leading custom SoC supplier Socionext to provide efficient ADAS solutions",
+      "excerpt": "SAN JOSE, Calif., Aug. 24, 2020 /PRNewswire/ -- StradVision has announced a collaboration with Socionext Inc., a leading supplier of System-on-Chip (SoC) solutions, to bring StradVision's deep ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/08/n17218459/stradvision-to-collaborate-with-leading-custom-soc-supplier-socionext-to-provide-efficient-adas-so",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/08/n17218459/stradvision-to-collaborate-with-leading-custom-soc-supplier-socionext-to-provide-efficient-adas-so",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17218459",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17218459",
+      "publishedDateTime": "2020-08-24T14:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-24-stradvision-to-collaborate-with-leading-custom-soc-supplier-socionext-to-provide-efficient-adas-solutions.md",
+      "title": "StradVision to collaborate with leading custom SoC supplier Socionext to provide efficient ADAS solutions",
+      "excerpt": "StradVision has announced a collaboration with Socionext Inc., a leading supplier of System-on-Chip (SoC) solutions, to bring",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/stradvision-to-collaborate-with-leading-custom-soc-supplier-socionext-to-provide-efficient-adas-solutions-301117303.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/stradvision-to-collaborate-with-leading-custom-soc-supplier-socionext-to-provide-efficient-adas-solutions-301117303.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1003667/StradVision_Logo.jpg?p=facebook",
+          "width": 1413,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-24T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-25-hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program.md",
+      "title": "HSG Digital joins Amazon Web Services Contact Center Intelligence solutions partner program",
+      "excerpt": "HGS Digital LLC, a subsidiary of Hinduja Global Solutions, announced its participation as an Amazon Web Services (AWS) Contact Center Intelligence (CCI) solutions Partner program. This unique designation recognizes that HGS Digital is an AWS Partner Network (APN) Partner that specializes in helping customers add intelligence to their existing contact center solution,",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiainfoline.com/article/companies-announcements-bse/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082500273_1.html",
+      "originalUrl": "https://www.indiainfoline.com/article/companies-announcements-bse/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082500273_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg",
+          "width": 350,
+          "height": 233,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.indiainfoline.com/article-amp/companies-announcements-bse/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082500273_1.html",
+      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/companies-announcements-bse/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082500273_1.html",
+      "publishedDateTime": "2020-08-24T13:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Infoline",
+        "domain": "indiainfoline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-24-hgs-digital-joins-aws-contact-center-intelligence-solutions-partner-program.md",
       "title": "HGS DIGITAL Joins AWS Contact Center Intelligence Solutions Partner Program",
       "excerpt": "services such as Amazon SageMaker, Amazon Comprehend, Amazon Transcribe, and Amazon Lex, to gain greater efficiencies and deliver increasingly tailored customer experiences. With 61 delivery ...",
@@ -986,201 +1153,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-24-gop-convention-to-kick-off-as-audio-emerges-of-trumps-sister-criticizing-him.md",
-      "title": "GOP convention to kick off as audio emerges of Trump’s sister criticizing him",
-      "excerpt": "The Republican National Convention is set to kick off Monday night. President Trump will speak on all four nights of the event, and, in a break from tradition, will deliver his nomination ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.youtube.com/watch?v=wNLK_f6m4e0&feature=emb_title",
-      "originalUrl": "https://www.msn.com/en-us/news/world/gop-convention-to-kick-off-as-audio-emerges-of-trumps-sister-criticizing-him/vi-BB18ji91",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wNLK_f6m4e0/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-24T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "youtube.com/watch?v=wnlk_f6m4e0&feature=emb_title",
-        "domain": "youtube.com/watch?v=wnlk_f6m4e0&feature=emb_title",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-24-healthcare-information-technology-it-market-worth-usd-4418-billion-by-2025.md",
-      "title": "Healthcare Information Technology (IT) Market worth USD 441.8 Billion by 2025",
-      "excerpt": "Selbyville, Delaware According to Market Study Report, Healthcare Information Technology (IT) Market will exceed",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-information-technology-it-market-worth-usd-4418-billion-by-2025-2020-08-24",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-24T02:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-24-pandemic-has-online-sellers-leaning-on-cloud.md",
-      "title": "Pandemic Has Online Sellers Leaning on Cloud",
-      "excerpt": "Retailers more than ever are leaning on cloud computing to capitalize on a surge in online shopping without overloading their information-technology systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/pandemic-has-online-sellers-leaning-on-cloud-11598261400",
-      "originalUrl": "https://www.wsj.com/articles/pandemic-has-online-sellers-leaning-on-cloud-11598261400",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-223920/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/pandemic-has-online-sellers-leaning-on-cloud-11598261400",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pandemic-has-online-sellers-leaning-on-cloud-11598261400",
-      "publishedDateTime": "2020-08-24T02:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-24-lidar-is-getting-so-cheap-itd-be-madness-not-to-use-it-in-self-driving-cars.md",
-      "title": "LiDAR is getting so cheap it’d be madness not to use it in self-driving cars",
-      "excerpt": "LiDAR sensors are getting so cheap that it makes it hard to understand why any self-driving car company wouldn't bother using them in its vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/shift/2020/08/24/lidar-is-getting-so-cheap-itd-be-madness-not-to-use-it-in-self-driving-cars/",
-      "originalUrl": "https://thenextweb.com/shift/2020/08/24/lidar-is-getting-so-cheap-itd-be-madness-not-to-use-it-in-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/lidar-huawei-car-autopilot-self-driving-sensor-tech-development-796x447.jpg",
-          "width": 796,
-          "height": 447,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/shift/2020/08/24/lidar-is-getting-so-cheap-itd-be-madness-not-to-use-it-in-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/08/24/lidar-is-getting-so-cheap-itd-be-madness-not-to-use-it-in-self-driving-cars/amp/",
-      "publishedDateTime": "2020-08-24T00:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

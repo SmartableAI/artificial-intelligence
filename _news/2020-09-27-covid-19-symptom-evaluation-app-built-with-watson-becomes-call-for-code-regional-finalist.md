@@ -52,22 +52,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 63
-  - title: "Artificial Intelligence revamping exercise routines in the age of COVID-19"
-    excerpt: "Fitness routines have changed a lot during the pandemic. More people are opting to take their workout outside or choosing"
-    publishedDateTime: 2020-09-25T21:42:00Z
-    webUrl: "https://wtmj.com/homepage-showcase/2020/09/25/artificial-intelligence-revamping-exercise-routines-in-the-age-of-covid-19/"
-    ampWebUrl: "https://wtmj.com/homepage-showcase/2020/09/25/artificial-intelligence-revamping-exercise-routines-in-the-age-of-covid-19/amp/"
-    cdnAmpWebUrl: "https://wtmj-com.cdn.ampproject.org/c/s/wtmj.com/homepage-showcase/2020/09/25/artificial-intelligence-revamping-exercise-routines-in-the-age-of-covid-19/amp/"
-    type: article
-    provider:
-      name: WTMJ
-      domain: wtmj.com
-    quality: 55
-    images:
-      - url: "https://wtmj.com/wp-content/uploads/2020/09/Exercise.png"
-        width: 1333
-        height: 868
-        isCached: true
   - title: "AI in Manufacturing Market 2020 with COVID-19 Impact Analysis | Upcoming Trends & Forecast Till 2027"
     excerpt: "The global artificial intelligence (AI) in manufacturing market size is expected to rise owing to increasing demand"
     publishedDateTime: 2020-09-28T11:12:00Z
@@ -123,20 +107,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/bc/1bcafd02-270b-518b-b8f7-346d623f0f45/5f7334f027ff7.image.jpg?resize=400%2C210"
         width: 400
         height: 210
-        isCached: true
-  - title: "COVID-19 Recovery Analysis: Artificial Intelligence Platforms Market | Rise In Demand For AI-based Solutions to boost the Market Growth | Technavio"
-    excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence Platforms Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--Technavio has been monitoring the artificial intelligence platforms market and it is poised to grow by $ 12."
-    publishedDateTime: 2020-09-25T21:39:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200916005770/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 14
-    images:
-      - url: "https://mms.businesswire.com/media/20200916005770/en/821962/23/IRTNTR44235.jpg"
-        width: 1200
-        height: 627
         isCached: true
 
 secured: "eWRHQoMnNijT2aSGuIezcz135EfCNleylzBG+3SILoTwCseRqbzkO/kwVmHxZl3GqsPf6rtck21EUCvjSvYtHaQfDWQ2B9qul18MS5UQ/xlq9AiF/PRmZeZAD7iOxpZeCwxR3IVLZnnR97uZq2nVX1vOuv+grDStDx6dIzvevKzrfq19TiW0lNruFrQV1Ddq1NE7BgrCA59WmOD+1rWpnKmFIEK0RLIX4tXgCXoHcUhO3h1eS3TTr4ZlTAa+FYM14vboMqCLtiVo/VyIBiX96RIIjoUrip5tUSBxZfQRsrDzGh737AhSsxTK4UfV6P2F2FBly5RHLgkoEl64RB2dLElyfuQQ/PARoyT03774j6w=;H8tUQ7ZcJnx22tjv1idYTQ=="

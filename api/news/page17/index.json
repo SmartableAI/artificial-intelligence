@@ -2,6 +2,174 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-09-15-nvidia-arm-deal-revs-up-chip-industry-4-stocks-in-focus.md",
+      "title": "NVIDIA-Arm Deal Revs Up Chip Industry: 4 Stocks in Focus",
+      "excerpt": "NVIDIA is now well poised to upscale its inference technology, robust drivers, and accelerators by utilizing Arm’s robust architecture and chip designs. Arm acquisition is expected to aid NVIDIA in offering end-to-end ecosystem of technology across the data center,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/nvidia-arm-deal-revs-up-chip-industry%3A-4-stocks-in-focus-2020-09-15",
+      "originalUrl": "https://www.nasdaq.com/articles/nvidia-arm-deal-revs-up-chip-industry%3A-4-stocks-in-focus-2020-09-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/nvidia-arm-deal-revs-up-chip-industry%3A-4-stocks-in-focus-2020-09-15?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidia-arm-deal-revs-up-chip-industry%3A-4-stocks-in-focus-2020-09-15?amp",
+      "publishedDateTime": "2020-09-15T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-observeai-raises-54-million-in-series-b-funding-round-to-expand-contact-center-ai-solution.md",
+      "title": "Observe.AI raises $54 million in series B funding round to expand contact center AI solution",
+      "excerpt": "Observe.AI raises $54 million in series B funding round to expand contact center AI solution. Observe.AI, a provider of contact center AI, has announced a $54 million series B fin",
+      "sourceUrl": null,
+      "webUrl": "https://www.kmworld.com/Articles/News/News/Observe.AI raises-%2454-million-in-series-B-funding-round-to-expand-contact-center-AI-solution-142844.aspx",
+      "originalUrl": "https://www.kmworld.com/Articles/News/News/Observe.AI raises-%2454-million-in-series-B-funding-round-to-expand-contact-center-AI-solution-142844.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.kmworld.com/images/subscribe_magazines_km.png",
+          "width": 772,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-15T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KMWorld Magazine",
+        "domain": "kmworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-ibm-joins-forces-with-nielsen-global-consumer-business-to-expand-data-targeting-offerings-for-marketers.md",
+      "title": "IBM Joins Forces With Nielsen Global Consumer Business To Expand Data Targeting Offerings For Marketers",
+      "excerpt": "The Weather Targeting data tool is part of a suite of AI-driven targeting solutions. Most recently, IBM Watson Advertising used the technology to assist with the COVID-19 pandemic by enabling ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/ibm-joins-forces-with-nielsen-global-consumer-business-to-expand-data-targeting-offerings-for-marketers-301130149.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/ibm-joins-forces-with-nielsen-global-consumer-business-to-expand-data-targeting-offerings-for-marketers-301130149.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook",
+          "width": 2698,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-15T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-seegrid-closes-a-52-million-round-for-self-driving-industrial-vehicles.md",
+      "title": "Seegrid closes a $52 million round for self-driving industrial vehicles",
+      "excerpt": "Seegrid, a company that builds self-driving vehicles to carry materials in industrial environments, has raised a further $27 million in funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/15/seegrid-closes-a-52-million-round-for-self-driving-industrial-vehicles/",
+      "originalUrl": "https://venturebeat.com/2020/09/15/seegrid-closes-a-52-million-round-for-self-driving-industrial-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/tow-tractor-on-black-bg_223e80ec.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/15/seegrid-closes-a-52-million-round-for-self-driving-industrial-vehicles/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/15/seegrid-closes-a-52-million-round-for-self-driving-industrial-vehicles/amp/",
+      "publishedDateTime": "2020-09-15T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-varada-raises-12-million-to-automate-data-lake-management-with-ai.md",
       "title": "Varada raises $12 million to automate data lake management with AI",
       "excerpt": "Varada, a startup developing AI solutions to common data lake problems, has raised $12 million in venture capital funding.",
@@ -977,192 +1145,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-using-the-amazon-sagemaker-studio-image-build-cli-to-build-container-images-from-your-studio-notebooks.md",
-      "title": "Using the Amazon SageMaker Studio Image Build CLI to build container images from your Studio notebooks",
-      "excerpt": "The new Amazon SageMaker Studio Image Build convenience package allows data scientists and developers to easily build custom container images from your Studio notebooks via a new CLI. The new CLI eliminates the need to manually set up and connect to Docker build environments for building container images",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-the-amazon-sagemaker-studio-image-build-cli-to-build-container-images-from-your-studio-notebooks/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-the-amazon-sagemaker-studio-image-build-cli-to-build-container-images-from-your-studio-notebooks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/11/1-Flowchart.jpg",
-          "width": 900,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-14T13:44:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-ibm-shows-through-nielsen-how-it-targets-ads-without-third-party-cookies-or-identifiers.md",
-      "title": "IBM Shows Through Nielsen How It Targets Ads Without Third-Party Cookies Or Identifiers",
-      "excerpt": "Sheri Bachstein, IBM’s vice president and global head of Watson Advertising and The Weather Company, says the company has been working for years with artificial intelligence (AI) to prepare for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediapost.com/publications/article/355708/ibm-shows-through-nielsen-how-it-targets-ads-witho.html",
-      "originalUrl": "https://www.mediapost.com/publications/article/355708/ibm-shows-through-nielsen-how-it-targets-ads-witho.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-14T13:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaPost",
-        "domain": "mediapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-nvidia-acquisition-of-arm-throws-company-into-tech-spat-between-us-and-china.md",
-      "title": "Nvidia acquisition of Arm throws company into tech spat between U.S. and China",
-      "excerpt": "Nvidia Corp's $40 billion acquisition of chip designer Arm is set to catapult it into the fray of geopolitical tensions between Beijing and Washington, analysts and lawyers say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-arm-holdings-m-a-nvidia-china-analysi-idUSKBN2651UJ",
-      "originalUrl": "https://www.reuters.com/article/us-arm-holdings-m-a-nvidia-china-analysi-idUSKBN2651UJ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200914&t=2&i=1533358312&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8D13J",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2651UJ",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2651UJ",
-      "publishedDateTime": "2020-09-14T12:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-portland-becomes-first-city-to-ban-companies-from-using-facial-recognition-software-in-public.md",
-      "title": "Portland becomes first city to ban companies from using facial recognition software in public",
-      "excerpt": "City lawmakers are taking action over facial recognition software as the push for federal laws continue to lag.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/portland-becomes-first-city-to-ban-companies-from-using-facial-recognition-software-in-public/",
-      "originalUrl": "https://www.techrepublic.com/article/portland-becomes-first-city-to-ban-companies-from-using-facial-recognition-software-in-public/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/18/59230acb-bdff-45c2-8ebd-ed7360029d05/thumbnail/1200x675/e1b33d49ec267210d75278624895a30d/istock-1047259374.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/portland-becomes-first-city-to-ban-companies-from-using-facial-recognition-software-in-public/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/portland-becomes-first-city-to-ban-companies-from-using-facial-recognition-software-in-public/",
-      "publishedDateTime": "2020-09-14T12:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

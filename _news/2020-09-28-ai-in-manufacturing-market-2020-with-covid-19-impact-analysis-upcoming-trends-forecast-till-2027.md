@@ -55,22 +55,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 63
-  - title: "Artificial Intelligence revamping exercise routines in the age of COVID-19"
-    excerpt: "Fitness routines have changed a lot during the pandemic. More people are opting to take their workout outside or choosing"
-    publishedDateTime: 2020-09-25T21:42:00Z
-    webUrl: "https://wtmj.com/homepage-showcase/2020/09/25/artificial-intelligence-revamping-exercise-routines-in-the-age-of-covid-19/"
-    ampWebUrl: "https://wtmj.com/homepage-showcase/2020/09/25/artificial-intelligence-revamping-exercise-routines-in-the-age-of-covid-19/amp/"
-    cdnAmpWebUrl: "https://wtmj-com.cdn.ampproject.org/c/s/wtmj.com/homepage-showcase/2020/09/25/artificial-intelligence-revamping-exercise-routines-in-the-age-of-covid-19/amp/"
-    type: article
-    provider:
-      name: WTMJ
-      domain: wtmj.com
-    quality: 55
-    images:
-      - url: "https://wtmj.com/wp-content/uploads/2020/09/Exercise.png"
-        width: 1333
-        height: 868
-        isCached: true
   - title: "Innovation with Artificial Intelligence"
     excerpt: "The maritime sector keeps talking enthusiastically about Artificial Intelligence (AI). But what is it really? What is the role of technology in the"
     publishedDateTime: 2020-09-29T13:13:00Z
@@ -126,20 +110,6 @@ related:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/shutterstock_covid_app.jpg"
         width: 1024
         height: 768
-        isCached: true
-  - title: "COVID-19 Recovery Analysis: Artificial Intelligence Platforms Market | Rise In Demand For AI-based Solutions to boost the Market Growth | Technavio"
-    excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence Platforms Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--Technavio has been monitoring the artificial intelligence platforms market and it is poised to grow by $ 12."
-    publishedDateTime: 2020-09-25T21:39:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200916005770/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 14
-    images:
-      - url: "https://mms.businesswire.com/media/20200916005770/en/821962/23/IRTNTR44235.jpg"
-        width: 1200
-        height: 627
         isCached: true
 
 secured: "oiCqt201Ey7t3niMUbBOy1sn61povjIHw6PAMScLYgJ9v8HhmjEs3wPCIFNiWtd98SCtKP721LGYnd1ybA63qqhow6QLyN98wzqGVp1yi+PjqTHr+Biv+XbXqxlhi+QZ7A2uq8u2NVXTPoCcStB7qVvvfTioNnDXyWXmYXw9qvZ2aSVaQUblvtUzClGQ4rUDFrRoc/WeuccY5ljsBN9t+/miYtEXS+JVKXKNrBgECvXJ3k/V95lrDmC4zrqHffbpDnkgtg+gdfkUxouZHADjg2GnA7xRUEmjp5iowei297EL8yVy3IjDDvleqSuQUQ59zmoCsJyZM4W9ibJdpRpm0Uc0AWu3xhtwCBn3a4lKLIk=;reMyYL2Mbju7ErKNDKWd3Q=="

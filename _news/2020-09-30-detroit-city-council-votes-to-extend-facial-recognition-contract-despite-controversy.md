@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Detroit Extends Contract of Facial Recognition Program That Doesn’t Work"
+    excerpt: "The city’s own police chief admits the technology misidentifies 96 percent of time and yet the city voted to extend its use."
+    publishedDateTime: 2020-09-30T15:48:00Z
+    webUrl: "https://www.vice.com/en/article/n7wx8b/detroit-extends-contract-of-facial-recognition-program-that-doesnt-work"
+    ampWebUrl: "https://www.vice.com/amp/en_us/article/n7wx8b/detroit-extends-contract-of-facial-recognition-program-that-doesnt-work"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/n7wx8b/detroit-extends-contract-of-facial-recognition-program-that-doesnt-work"
+    type: article
+    provider:
+      name: VICE
+      domain: vice.com
+    quality: 88
+    images:
+      - url: "https://video-images.vice.com//articles/5f749022ec3b770096060224/lede/1601475076793-gettyimages-75287401.jpeg?crop=1xw:0.8462888665997994xh;center,center"
+        width: 3000
+        height: 1687
+        isCached: true
   - title: "Detroit Renews Facial Recognition Contract"
     excerpt: "The Detroit City Council voted to renew its police department’s contract with a facial recognition provider, bucking a recent trend of major cities moving to curtail law enforcement’s use of the technology. The body voted 6-3 to renew a “maintenance ..."
     publishedDateTime: 2020-09-30T06:05:00Z

@@ -37,6 +37,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Education Market Technology, Development, Trend, Segmentation, Overall Market Analysis And Forecast To 2026"
+    excerpt: "This report studies the Artificial Intelligence AI in Education Market with many aspects of the industry like the market size market status market trends and forecast the report also provides brief information of the competitors and the specific growth opportunities"
+    publishedDateTime: 2020-09-30T15:04:00Z
+    webUrl: "https://www.openpr.com/news/2147295/artificial-intelligence-ai-in-education-market-technology"
+    ampWebUrl: "https://www.openpr.com/amp/2147295/artificial-intelligence-ai-in-education-market-technology"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2147295/artificial-intelligence-ai-in-education-market-technology"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 40
+    images:
+      - url: "https://cdn.openpr.com/T/9/T930537136_g.jpg"
+        width: 744
+        height: 389
+        isCached: true
 
 secured: "ja+E7Dlpfd3miMo3YC6UQN9e1GYqeQjJc7anGzeu8eTybFOW/xMvLfJkut7Pc3xhp/8XwUQHM7WFvjtlY/WX1qpDutQMALKPe3TW4AuBRiqa/BIUZgzSv0gchRfXSO2cY+T8PYgFxi1qBcDslm0aznyQH2lH/9VH5xa5Y0zsPXP7EASZUBRuiuepVNotO83Vh7tGzPG2jS+S0OqXbBvAIphlHfOWhKaWgYuB/XrDRsOkemSUKcP4iA8UIi7JSlXLU/kbTm70X+yl3CYwKc+nNcEK39tzjcMMnucfrnJdGIZr7PA/JUQ9lSF9Y8We9DY6xU8ZQ2PqVUZ4yILB+XC/nByq0wioWPhtq9p9iIi0mdM=;e39PVUKEX905dN4legRfpQ=="
 ---

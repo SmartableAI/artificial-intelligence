@@ -43,22 +43,6 @@ related:
         width: 5037
         height: 2829
         isCached: true
-  - title: "Report: LAPD used facial recognition nearly 30,000 times"
-    excerpt: "The Los Angeles Police Department has used facial-recognition software nearly 30,000 times since 2009 even while denying at times that it used the controversial technology at all, the Los Angeles Times reported Monday."
-    publishedDateTime: 2020-09-25T22:49:00Z
-    webUrl: "https://www.ctpost.com/news/article/Report-LAPD-used-facial-recognition-nearly-15585211.php"
-    ampWebUrl: "https://www.ctpost.com/news/amp/Report-LAPD-used-facial-recognition-nearly-15585211.php"
-    cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Report-LAPD-used-facial-recognition-nearly-15585211.php"
-    type: article
-    provider:
-      name: Connecticut Post
-      domain: ctpost.com
-    quality: 59
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
   - title: "Detroit City Council to vote to renew DPD's facial recognition contract"
     excerpt: "The Detroit City Council is expected to vote Tuesday on the renewal of the controversial use of facial recognition technology in the city."
     publishedDateTime: 2020-09-29T09:27:00Z

@@ -2,6 +2,192 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-09-14-using-the-amazon-sagemaker-studio-image-build-cli-to-build-container-images-from-your-studio-notebooks.md",
+      "title": "Using the Amazon SageMaker Studio Image Build CLI to build container images from your Studio notebooks",
+      "excerpt": "The new Amazon SageMaker Studio Image Build convenience package allows data scientists and developers to easily build custom container images from your Studio notebooks via a new CLI. The new CLI eliminates the need to manually set up and connect to Docker build environments for building container images",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-the-amazon-sagemaker-studio-image-build-cli-to-build-container-images-from-your-studio-notebooks/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-the-amazon-sagemaker-studio-image-build-cli-to-build-container-images-from-your-studio-notebooks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/11/1-Flowchart.jpg",
+          "width": 900,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-14T13:44:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-ibm-shows-through-nielsen-how-it-targets-ads-without-third-party-cookies-or-identifiers.md",
+      "title": "IBM Shows Through Nielsen How It Targets Ads Without Third-Party Cookies Or Identifiers",
+      "excerpt": "Sheri Bachstein, IBM’s vice president and global head of Watson Advertising and The Weather Company, says the company has been working for years with artificial intelligence (AI) to prepare for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediapost.com/publications/article/355708/ibm-shows-through-nielsen-how-it-targets-ads-witho.html",
+      "originalUrl": "https://www.mediapost.com/publications/article/355708/ibm-shows-through-nielsen-how-it-targets-ads-witho.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-14T13:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaPost",
+        "domain": "mediapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-nvidia-acquisition-of-arm-throws-company-into-tech-spat-between-us-and-china.md",
+      "title": "Nvidia acquisition of Arm throws company into tech spat between U.S. and China",
+      "excerpt": "Nvidia Corp's $40 billion acquisition of chip designer Arm is set to catapult it into the fray of geopolitical tensions between Beijing and Washington, analysts and lawyers say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-arm-holdings-m-a-nvidia-china-analysi-idUSKBN2651UJ",
+      "originalUrl": "https://www.reuters.com/article/us-arm-holdings-m-a-nvidia-china-analysi-idUSKBN2651UJ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200914&t=2&i=1533358312&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8D13J",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2651UJ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2651UJ",
+      "publishedDateTime": "2020-09-14T12:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-portland-becomes-first-city-to-ban-companies-from-using-facial-recognition-software-in-public.md",
+      "title": "Portland becomes first city to ban companies from using facial recognition software in public",
+      "excerpt": "City lawmakers are taking action over facial recognition software as the push for federal laws continue to lag.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/portland-becomes-first-city-to-ban-companies-from-using-facial-recognition-software-in-public/",
+      "originalUrl": "https://www.techrepublic.com/article/portland-becomes-first-city-to-ban-companies-from-using-facial-recognition-software-in-public/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/18/59230acb-bdff-45c2-8ebd-ed7360029d05/thumbnail/1200x675/e1b33d49ec267210d75278624895a30d/istock-1047259374.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/portland-becomes-first-city-to-ban-companies-from-using-facial-recognition-software-in-public/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/portland-becomes-first-city-to-ban-companies-from-using-facial-recognition-software-in-public/",
+      "publishedDateTime": "2020-09-14T12:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-explainable-ai-artificial-intelligence-image-recognition-startup-selected-by-us-air-force-for-premier-space-industry-event.md",
       "title": "Explainable-AI (Artificial Intelligence) Image Recognition Startup Selected by US Air Force for Premier Space Industry Event",
       "excerpt": "PRNewswire/ -- Z Advanced Computing, Inc. (ZAC), a software startup, is selected by the US Air Force, among the top teams to exhibit at \"EngageSpace\"",
@@ -934,209 +1120,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-brit-chip-maker-arm-gets-snapped-up-by-us-graphics-giant-nvidia.md",
-      "title": "Brit chip maker Arm gets snapped up by US graphics giant Nvidia",
-      "excerpt": "Nvidia has confirmed that it's acquiring UK chip maker Arm from Japanese owner SoftBank in a US$40 billion deal made up of a combination of shares and cash, though the move is yet to undergo regulatory scrutiny.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/mobile-technology/arm-softbank-nvidia-sale/",
-      "originalUrl": "https://newatlas.com/mobile-technology/arm-softbank-nvidia-sale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/6fa6852/2147483647/strip/true/crop/5724x3816+0+92/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F98%2Fd1%2Fb28a26944295b7329537136cce85%2Fdepositphotos-354903224-xl-2015.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/mobile-technology/arm-softbank-nvidia-sale/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/mobile-technology/arm-softbank-nvidia-sale/?amp=true",
-      "publishedDateTime": "2020-09-14T06:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-nvidias-40-billion-arm-bet-all-about-data-centers-edge-computing-ai.md",
-      "title": "Nvidia's $40 billion Arm bet all about data centers, edge computing, AI",
-      "excerpt": "Arm combination is compelling on multiple fronts and could be \"a first class data center platform\" but now the parties just need regulators to buy into the deal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nvidias-40-billion-arm-bet-all-about-data-centers-edge-computing-ai/",
-      "originalUrl": "https://www.zdnet.com/article/nvidias-40-billion-arm-bet-all-about-data-centers-edge-computing-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/09/14/dc945c69-549b-484b-9ca6-ea09cbeaec97/nvidia-arm-circle.png",
-          "width": 881,
-          "height": 537,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidias-40-billion-arm-bet-all-about-data-centers-edge-computing-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidias-40-billion-arm-bet-all-about-data-centers-edge-computing-ai/",
-      "publishedDateTime": "2020-09-14T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-how-taoist-teachings-can-expose-the-hype-and-pretensions-of-artificial-intelligence.md",
-      "title": "How Taoist teachings can expose the hype and pretensions of artificial intelligence",
-      "excerpt": "Artificial intelligence is everywhere ... preferences and interests. READ FULL ARTICLE Self-driving cars are just around the corner, quite literally. Computers now routinely beat the greatest human players of chess and Go. Your recreational drones know ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/comment/opinion/article/3101508/how-taoist-teachings-can-expose-hype-and-pretensions-artificial",
-      "originalUrl": "https://www.scmp.com/comment/opinion/article/3101508/how-taoist-teachings-can-expose-hype-and-pretensions-artificial",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/methode/2020/09/15/56f52380-f682-11ea-a41c-8cbd1416100a_image_hires_023122.jpg?itok=6WoDizn9&v=1600108292",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/comment/opinion/article/3101508/how-taoist-teachings-can-expose-hype-and-pretensions-artificial",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3101508/how-taoist-teachings-can-expose-hype-and-pretensions-artificial",
-      "publishedDateTime": "2020-09-14T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-do-you-really-need-an-ai-powered-smart-range.md",
-      "title": "Do You Really Need an AI-Powered Smart Range?",
-      "excerpt": "As the pandemic has forced us to spend more time at home than we did previously, many of us have invested in making these spaces—which are now our offices, daycares, cafeterias, and entertainment hubs—a little more conducive to an always-home lifestyle.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/do-you-really-need-an-ai-powered-smart-range-1845047132",
-      "originalUrl": "https://gizmodo.com/do-you-really-need-an-ai-powered-smart-range-1845047132",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/d5qxsxiclz8wc7nzytru.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/do-you-really-need-an-ai-powered-smart-range-1845047132/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/do-you-really-need-an-ai-powered-smart-range-1845047132/amp",
-      "publishedDateTime": "2020-09-14T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

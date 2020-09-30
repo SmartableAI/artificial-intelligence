@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2020/09/29/1008933/how-ai-will-revo
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/09/29/1008933/how-ai-will-revolutionize-manufacturing/amp/"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Automation & Artificial Intelligence Revolutionize the Cannabis Industry"
+    excerpt: "To some, artificial intelligence (AI) may be categorized next to the likes of Bitcoin and blockchain: it’s just another techie buzz word. For others, artificial intelligence could conjure up images of sentient robots hellbent on world domination."
+    publishedDateTime: 2020-09-30T14:57:00Z
+    webUrl: "https://www.weedworthy.com/the-news/press-releases/automation-artificial-intelligence-revolutionize-the-cannabis-industry"
+    type: article
+    provider:
+      name: weedworthy.com
+      domain: weedworthy.com
+    quality: 38
+    images:
+      - url: "https://420intel.com/sites/default/files/field/image/newwwlumigrow-greenhouse.jpg"
+        width: 700
+        height: 442
+        isCached: true
   - title: "How Analytics and AI-driven Processes Will Revolutionize the Industrial Sector"
     excerpt: "Artificial Intelligence and analytics fall into four categories reflecting the type of insight delivered; these categories are predictive, performance, prescriptive and prognostic insights–the Four P’s of industrial AI."
     publishedDateTime: 2020-09-28T00:00:00Z

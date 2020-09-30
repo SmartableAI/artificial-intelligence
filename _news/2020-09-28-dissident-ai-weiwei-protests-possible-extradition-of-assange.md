@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Dissident Ai Weiwei protests possible extradition of Assange"
-excerpt: "Chinese contemporary artist Ai Weiwei staged a silent protest outside London’s Old Bailey court against the possible extradition of WikiLeaks founder Julian Assange to the United States where he is wa"
-publishedDateTime: 2020-09-28T12:37:00Z
-originalUrl: "https://abcnews.go.com/Entertainment/wireStory/dissident-ai-weiwei-protests-extradition-assange-73289487"
-webUrl: "https://abcnews.go.com/Entertainment/wireStory/dissident-ai-weiwei-protests-extradition-assange-73289487"
-ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/dissident-ai-weiwei-protests-extradition-assange-73289487"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/dissident-ai-weiwei-protests-extradition-assange-73289487"
+excerpt: "The dissident Chinese contemporary artist Ai Weiwei staged a silent protest outside London's Old Bailey court on Monday against the possible extradition of WikiLeaks founder Julian Assange to the United States,"
+publishedDateTime: 2020-09-28T12:30:00Z
+originalUrl: "https://www.chron.com/news/article/Dissident-Ai-Weiwei-protests-possible-extradition-15602451.php"
+webUrl: "https://www.chron.com/news/article/Dissident-Ai-Weiwei-protests-possible-extradition-15602451.php"
+ampWebUrl: "https://www.chron.com/news/amp/Dissident-Ai-Weiwei-protests-possible-extradition-15602451.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Dissident-Ai-Weiwei-protests-possible-extradition-15602451.php"
 type: article
 quality: 57
 heat: 107
 published: true
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Entertainment/WireAP_7d482ab7d19646ac9eba54c9b113eb24_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+    width: 375
+    height: 211
     isCached: true
 
 related:
@@ -96,6 +96,6 @@ related:
       domain: smh.com.au
     quality: 35
 
-secured: "+CiO4fY/SFTZDU3xPnZdTTRQIN0cl7zAhWeL+myfrwIkELK4AGyybQqVib9H9XyRmg/WYWJKjerdTDTdbQevhDqG0Kqs1/OMN9sdD9RBHyIaVs8H6lBX7sbR9RPkw38rZTrYCsr8pN9bUX+kUQTf3ujRVsvIPSMFEuN/htnp07AHJpR8X3mM8Pungrbl7zK1EYZVW4717r0P/5rZKB1rMvPAUVCAYVIXIt5MisFE6I/X9yUeH7YER5hXFDMDeky/C5LIpzPKdsVxk3tkKZUSogF7XCPII2zzUx7xDv660j+1vsf5UO6a9XufQ5h7jPG5ZDZvkORSYxy11bBMxAZgq/muo6WWztbkSt4czmdVOVU=;DpCgDtCvZjq7P11W4zdEkg=="
+secured: "lP+6pT+adlckvsDh1S/ABYsrTg/gX3p6raEzhpg6ApwrOtm2078MQW05lpl3niw2IfjN+ph0PsTv2Ry5n+oDsZlSvof3hychCy3II4Taivr7MFf6u61piVVAAQ8zEFdSe5u1suIzdNDQznYKcXSFh55UEaG/RdiMbHHl5czR6X59Cq1JdkUeV3TSYAFMYdKIb6TLtEAuYsEyMDUDv5/nxC6OEMdWAk32+35prqL1PR31g/EAm9zWhiEV83ZuIkDInURsZ9Yx8P8QxWpR4hUpIfoVjw9U7IANYmgtOHTc/9m/Pyka30DOO6kyXl+xWLFBdVbBqOl7QDgRbQ4XnsEgEMOvj0DerIoA8nqpdfu3vRc=;oeE0/9DppMRnA/eYTVQbLg=="
 ---
 

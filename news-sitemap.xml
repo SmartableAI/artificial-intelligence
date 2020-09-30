@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.vice.com/en/article/n7wx8b/detroit-extends-contract-of-facial-recognition-program-that-doesnt-work</loc>
+    <lastmod>2020-09-30T08:48:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://thenextweb.com/neural/2020/09/30/this-ai-advised-me-to-read-the-hunger-games-to-survive-this-cruel-world/</loc>
+    <lastmod>2020-09-30T08:16:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.html</loc>
+    <lastmod>2020-09-30T08:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/09/30/using-machine-learning-to-tackle-some-of-the-worlds-biggest-problems-infographic/</loc>
+    <lastmod>2020-09-30T07:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/neuromaker-stem-announces-partnership-with-vinci-robotics-academy-1029635620</loc>
+    <lastmod>2020-09-30T06:53:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/09/30/coralogix-raises-25-million-to-parse-software-logs-with-ai/</loc>
     <lastmod>2020-09-30T06:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -69,12 +99,6 @@
   <url>
     <loc>https://www.youtube.com/watch?v=ERQlaJ_czHU&amp;feature=youtu.be</loc>
     <lastmod>2020-09-30T01:59:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.wsj.com/articles/detroit-renews-facial-recognition-contract-11601422598</loc>
-    <lastmod>2020-09-29T23:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -415,8 +439,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://abcnews.go.com/Entertainment/wireStory/dissident-ai-weiwei-protests-extradition-assange-73289487</loc>
-    <lastmod>2020-09-28T05:37:00-07:00</lastmod>
+    <loc>https://www.chron.com/news/article/Dissident-Ai-Weiwei-protests-possible-extradition-15602451.php</loc>
+    <lastmod>2020-09-28T05:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
