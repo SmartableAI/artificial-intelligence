@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "rev"
   url: "https://twitter.com/rev"
-  followers: 7667
+  followers: 7669
 
 size: 51-200 employees
 yearFounded: 2010
