@@ -16,12 +16,6 @@ topics:
   - AI
   - Machine Learning
 
-images:
-  - url: "https://cdn.bignewsnetwork.com/cus1601438671680.jpg"
-    width: 630
-    height: 420
-    isCached: true
-
-secured: "GcXiYYTROxogXZGLDdf+0i+m6XQJ2yoVyPMP4wH7t9vQL/K4NmXNVRtC6cuGDRkQ8ZSWnUt26Q7GqZ9TWhcalUMrf4laIZXa8JmEtSOMhULLETDUykJ91BpYmfmJsazjmU5GdhETIvPLP0x7j8ssC3KH0idM/L0IymyTIYv0kTxL2e1UCmJ/z7U8FIaB3AghAqgO8KdsqiA2tqNukaL/Q73Kd3+EXFxZjXuRBiNIUBwmAsq4rP3k09rc2oBckIwnXgTvlfxzGRtNv2IEIoZaKAU2+H6VWKQU5erxjD+B2LSXHbe4Xca4JyZq8Rrf7JLt7HgDuz43ZWuP2LPKfSc7PFWoKz70SQj14uSghAVs35I=;CUglREgJYKdsRLBbNVQepA=="
+secured: "MCDHR+jkFmwOqlWEtzcIxzKBXEoCckPfltbAza3W71F3UTHdS2a8Md28CeSL+RTFQD0H2/ST0sTuSCgrot85rw9pFrKhbAQcmbb0hUl+aR4HHk/jlNdbeBs1OO8rq6X25NXPvSgvmQnReupKi0dRUYiHRsoYcdp/QgALXaaj6sVWS0LlH3Ju9gbpBcq4lfacNMRTgpn7HeAyLew36jtY7aUe5HL2umvYrW1+7DQePz7F9eaF6pVVuWGd1+NKBJvfiwmXXsQY0bVrnRO7ccQQ4RCFFfP6UWA8ptQ4oW05F22/TmJKr0gW9o6E8RWqv/mxO5ezLIidLm9dlzfy4CSa8kR0fpCWH3u7/0EJi10F3mg=;swIRutfOlyI879aQYjc2NQ=="
 ---
 

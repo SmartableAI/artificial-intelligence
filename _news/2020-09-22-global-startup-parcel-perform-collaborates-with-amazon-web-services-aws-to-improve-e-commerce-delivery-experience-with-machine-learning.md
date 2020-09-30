@@ -16,12 +16,6 @@ topics:
   - AI
   - Machine Learning
 
-images:
-  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "lu2zm6lmzgHUpP32yFZnlUQHOfSLG8Zve9tvBXNu/+HDFbvZppwzYI3IlrN5lp/zsQP3K52+0fAIVlfK8FgNy0Hw+0lqA/nr/bI8jYqocw9wCXxKU0609LKJiYzERdg/JjSdxjHWJ4760DpW2K++S7oxv+ha0QtaZapbMY3BKoyElk+yrsMTk/TrNsU+sbTTO2QMIC8yImy7aVEfnqmRso51q14deR8aa4ZDoRei+tQpU/Li4DsOeLhUbJFce4WCaciwiUasgs45XAPPNJQTfl3WkByWTxlSXOFwv6WPap8DZuyvq2BsQkWVn3D1ZUUyD3s6yrxIIMMHu8B8IIvoWSvqotfK/qfkiFkgiQ8ey4k=;SzW63HSPe/MtBimjamInPQ=="
+secured: "+XF16LRDrk35wfiW+yAssZ8NpLj6zAuZYO/ZIjbadnFrYfK28y6ZYYOCrZ4/t22sA6SG4vmSj22jpB41+h2ip5Xq/W/bqzd2tB0sC98cx+r5WO9oXqkroyQAhlGxJWxR4oxFtVtR1qbbUzXnniTjWoknehXtU7Y2oeFHajA03OiMj16GIyKIlKj92RqRWzFtxEltUNIxdzPFXQw6HxRfrISHBMHqEnCyzsJgcb520CoLEUjMgtJHMDXiUxONWhphH9ZsL6E1X6s1Zvv+Bat/nvJe2nTbeg6aknq45j4flC7UfwC/Pi6cRPt5PlWhyz7rJy3P2TM6FCUGJgdyBVYWhI51RajI3MiyW1eI7hdfy5M=;FnZOjXShx+TLhqjSThRblg=="
 ---
 
