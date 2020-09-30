@@ -8,7 +8,8 @@ webUrl: "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---
 type: article
 quality: 122
 heat: 132
-published: true
+published: false
+removed: true
 
 provider:
   name: The Independent
