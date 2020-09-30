@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/09/29/nvidia-and-vmware-part
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/29/nvidia-and-vmware-partner-to-bring-ai-into-the-mai/"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -85,6 +85,22 @@ related:
       - url: "https://static3.seekingalpha.com/uploads/2020/9/28/9110881-16013140249302285.jpg"
         width: 640
         height: 441
+        isCached: true
+  - title: "NVIDIA And VMWare Announce Hybrid Cloud Partnership For AI Software And Hardware Infrastructure"
+    excerpt: "This is only the beginning of the discussion though, so stay tuned to HotHardware and wait for GTC2020 on October 5th for more news from NVIDIA and VMWare."
+    publishedDateTime: 2020-09-29T20:03:00Z
+    webUrl: "https://hothardware.com/news/nvidia-vmware-partnership-for-ai"
+    ampWebUrl: "https://amp.hothardware.com/news/nvidia-vmware-partnership-for-ai"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-vmware-partnership-for-ai"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 47
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/52992/content/nvidia-vmware-hero.jpg"
+        width: 708
+        height: 398
         isCached: true
   - title: "Nvidia NGC To Supercharge AI On VMware Cloud, vSphere And Tanzu"
     excerpt: "Nvidia NGC will be integrated into VMware Cloud Foundation, vSphere and Tanzu to simplify the deployment of AI applications in enterprises, the two companies announced at VMworld 2020."

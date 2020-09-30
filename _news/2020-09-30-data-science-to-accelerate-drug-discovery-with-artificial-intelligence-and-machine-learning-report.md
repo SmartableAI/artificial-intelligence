@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-29T23:41:00Z
 originalUrl: "https://www.canadianmanufacturing.com/technology/data-science-to-accelerate-drug-discovery-with-artificial-intelligence-and-machine-learning-report-261375/"
 webUrl: "https://www.canadianmanufacturing.com/technology/data-science-to-accelerate-drug-discovery-with-artificial-intelligence-and-machine-learning-report-261375/"
 type: article
-quality: 40
-heat: 40
+quality: 42
+heat: 42
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.canadianmanufacturing.com/wp-content/uploads/2020/09/Drug_Discovery_Pharma_Data_Science-1024x576.jpg"
@@ -24,6 +25,6 @@ images:
     height: 576
     isCached: true
 
-secured: "uFiRTaFHTeQ45f/VMxCS8vwCZFgwB+wzb5pJ958sQ1x6jUpLLAQ4r1Z0AYXkGL1Z/bsoN4Tf5GuNE83wTpqZgXuuu/UjsSe0BDt0nBqdpWnZn78+cBPtftm9LKR+bYsvfd+YFKqOuvC3Hlpd2SbuIgo+1BK1d4vHupb55IhlfEJrfkQAb/f3Jv6bj5ZLNBesVIDJT5GoCnh+t7LVm/360YZMtLSDlFi6QmOnH6QB9OVQTiywnAO39RCws4lENlsJGmZuvYrdeb8kD7a5ZnBaywUmVqLL9iG5BYEhHjdZF8qRXuEyESwZPvqqpSkMBPdmUcixlvW93J8sKL3FbpKCeXmlcTSYh7J95OTrkW8oPeQ=;SrX+DcphqBBs8VTUlDOpUg=="
+secured: "f1ak5MVOmMpQMBTb5m0H+7VJbYYvKtOpdVkSGtDbPIClnQa7mmHIl9pUYW0xCRX3bEGXvra7KH2CJp+MxAEkqNJLVQV4rCnbuz/K2Zv5iHJIK9KPpKIqj6yj5dj8RCN7fyucRBp5HRHjMh8AOsxqbe4+NuwiNYsv/rYjSbRFPMGfySdXgZR/H7UHB8JhTWYFtasJUXyJa6egSlkO/1/Jl9hOEW66GDZVfYBm0bAgRgmM2sEd40e46OyEjiiJVvwtq1W7S1M1I1S7el2/JCrISSdUW+DM8ak65YlANLp4Y8+wSvMB9QYbx0t6c/GXVNwAnXqcQ/ZMkIqE/A5q5dGJQxd7lmUL+8MpCL09n+Zb6ezREsZTDxTSp/DwZ+SOxgOF+8O5CVHU1Is7q+/+li3MOii0riEHvk3T3/XWZlllGFliLNQ9N66H8H5EM/EMmnntGFEYOYblPerQ3dMvhXBKimfPwkw6BBCSSukP99YAUNRYfOwGVQlTkgN/A0sdjJLzdDpIvDNbQ7iEiXo4lysr8g==;ZcN8EWskzpTUeuJlDzUlDw=="
 ---
 

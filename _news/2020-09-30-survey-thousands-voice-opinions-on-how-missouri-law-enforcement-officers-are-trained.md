@@ -9,7 +9,7 @@ ampWebUrl: "https://fox2now.com/news/missouri/survey-thousands-voice-opinions-on
 cdnAmpWebUrl: "https://fox2now-com.cdn.ampproject.org/c/s/fox2now.com/news/missouri/survey-thousands-voice-opinions-on-how-missouri-law-enforcement-officers-are-trained/amp/"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     height: 720
     isCached: true
 
-secured: "TqdnhhxsMMJ2Wb1URZdargWCwPgmhwBhxIrcQY6K6DeZZubbOGc9yiP1eZQTSFsY/fEOsKZ+8x0+CQpLJ9qjCSTppTfAQ9stI5Wb23LrwrsoOhe7QYYP7V28aXWpsCuaWa3oDK6cuCcTc6pYYerLW9CHn1JgVgL/HkIR3ZnROwzltT1vVxfV8TUUhhuTA27kw1wyXKzKFb0suS8IgpyO8AjqmKiAZLYiXpDt5mGX5KacUCKETgB/3LNx++2A911mNmYpCYUuLAb/ghqgT91ZvWoVtzcLbdeAwGUrvpXWa0sCg2DpJh/1Q9Zz4q8pnuauxLfyeHC9YOAHxkToj4j3T/bdHUng577icrEL1rxuF1g=;TdPMKZJDLAvc0r6+qbVxMg=="
+related:
+  - title: "Thousands take survey to voice opinions on how Missouri law enforcement officers are trained"
+    excerpt: "Changes could soon be coming to the way law enforcement officers are trained and disciplined in the state of Missouri. This comes after Missourians were asked to fill"
+    publishedDateTime: 2020-09-30T00:25:00Z
+    webUrl: "https://www.fourstateshomepage.com/news/thousands-take-survey-to-voice-opinions-on-how-missouri-law-enforcement-officers-are-trained/"
+    ampWebUrl: "https://www.fourstateshomepage.com/news/thousands-take-survey-to-voice-opinions-on-how-missouri-law-enforcement-officers-are-trained/amp/"
+    cdnAmpWebUrl: "https://www-fourstateshomepage-com.cdn.ampproject.org/c/s/www.fourstateshomepage.com/news/thousands-take-survey-to-voice-opinions-on-how-missouri-law-enforcement-officers-are-trained/amp/"
+    type: article
+    provider:
+      name: Four States Homepage
+      domain: fourstateshomepage.com
+    quality: 48
+    images:
+      - url: "https://www.fourstateshomepage.com/wp-content/uploads/sites/36/2020/09/MO-Law-Enforcement.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "pyKZCiN5kRgxappjla5+/LOvJmoHyWU0JbR2lg58bgCzskavAMirAMZyUJoheE+aWNEvYekaVhu8bM+q1xsLlLUzv7hLRHS1Tck/IbQt2xJ2oa+wZmPVmKNwerCyp2NcziweYML0noEOirib+p8b8WlnWhDxIBsatDw87UMM2df9HO/RLnllNFw3rVYUYG2IsuTB0cfAm8Cb08jgmxE5DCviRpYS35l4SlpAxuf16NGpX0wivF/S3t+EaBcz5ejFwQvOjrBZJC3EvpRjZZG8kV//KMDowaQ7M1UMg2VhmHJFO04HcUZwmbFitbHbZSkjAjdDnrWGYn955clQ8N277fTAQJUqDrmDTkSiFHMKCwxRrSo3b3YSH2pSCYj/HVbpJFAtXV6f5I1/ATagByslweJVsQaWLHp9+wRUXkcnoFSfms78z1PWRb9D+8DpZsrdzBn28p3iWW9gE4tfe5PO9jzRTBQKrQ7VxZYnitksELa2ETFh89O77yDZFry05apHCJhk6mAcCWjW92rGCzmP6g==;mZx+Ny5rYI6hKoa5zdyqzQ=="
 ---
 

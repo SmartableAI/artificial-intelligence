@@ -96,6 +96,22 @@ related:
         width: 640
         height: 441
         isCached: true
+  - title: "NVIDIA And VMWare Announce Hybrid Cloud Partnership For AI Software And Hardware Infrastructure"
+    excerpt: "This is only the beginning of the discussion though, so stay tuned to HotHardware and wait for GTC2020 on October 5th for more news from NVIDIA and VMWare."
+    publishedDateTime: 2020-09-29T20:03:00Z
+    webUrl: "https://hothardware.com/news/nvidia-vmware-partnership-for-ai"
+    ampWebUrl: "https://amp.hothardware.com/news/nvidia-vmware-partnership-for-ai"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-vmware-partnership-for-ai"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 47
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/52992/content/nvidia-vmware-hero.jpg"
+        width: 708
+        height: 398
+        isCached: true
   - title: "VMware and Nvidia partner to accelerate AI and enterprise workloads"
     excerpt: "Virtualization software giant VMware Inc. said today at its VMworld 2020 virtual event that it’s partnering with computer graphics chipmaker Nvidia Corp. on a new enterprise platform for artificial intelligence workloads."
     publishedDateTime: 2020-09-29T16:28:00Z

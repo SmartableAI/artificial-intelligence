@@ -1,22 +1,30 @@
 ---
 category: news
-title: "VMware and NVIDIA to Enable Next-Gen Hybrid Cloud Architecture and Bring AI to Every Enterprise"
-excerpt: "VMware Customers Can Benefit from Unified Management of NVIDIA AI Software with All Apps, Tap into Security, Acceleration Capabilities of NVIDIA BlueField-2 DPU VMworld 2020 — At VMworld 2020, VMware and NVIDIA today announced a broad partnership to deliver both an end-to-end enterprise platform for AI and a new architecture for data center,"
-publishedDateTime: 2020-09-29T16:00:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20200929005455/vmware-and-nvidia-to-enable-next-gen-hybrid-cloud-architecture-and-bring-ai-to-every-enterprise"
-webUrl: "https://www.morningstar.com/news/business-wire/20200929005455/vmware-and-nvidia-to-enable-next-gen-hybrid-cloud-architecture-and-bring-ai-to-every-enterprise"
+title: "NVIDIA And VMWare Announce Hybrid Cloud Partnership For AI Software And Hardware Infrastructure"
+excerpt: "This is only the beginning of the discussion though, so stay tuned to HotHardware and wait for GTC2020 on October 5th for more news from NVIDIA and VMWare."
+publishedDateTime: 2020-09-29T20:03:00Z
+originalUrl: "https://hothardware.com/news/nvidia-vmware-partnership-for-ai"
+webUrl: "https://hothardware.com/news/nvidia-vmware-partnership-for-ai"
+ampWebUrl: "https://amp.hothardware.com/news/nvidia-vmware-partnership-for-ai"
+cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-vmware-partnership-for-ai"
 type: article
-quality: 7
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: HotHardware
+  domain: hothardware.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://images.hothardware.com/contentimages/newsitem/52992/content/nvidia-vmware-hero.jpg"
+    width: 708
+    height: 398
+    isCached: true
 
 related:
   - title: "NVIDIA and VMWare Partner to Bring AI Into the Mainstream"
@@ -90,22 +98,6 @@ related:
         width: 640
         height: 441
         isCached: true
-  - title: "NVIDIA And VMWare Announce Hybrid Cloud Partnership For AI Software And Hardware Infrastructure"
-    excerpt: "This is only the beginning of the discussion though, so stay tuned to HotHardware and wait for GTC2020 on October 5th for more news from NVIDIA and VMWare."
-    publishedDateTime: 2020-09-29T20:03:00Z
-    webUrl: "https://hothardware.com/news/nvidia-vmware-partnership-for-ai"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-vmware-partnership-for-ai"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-vmware-partnership-for-ai"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 47
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/52992/content/nvidia-vmware-hero.jpg"
-        width: 708
-        height: 398
-        isCached: true
   - title: "Nvidia NGC To Supercharge AI On VMware Cloud, vSphere And Tanzu"
     excerpt: "Nvidia NGC will be integrated into VMware Cloud Foundation, vSphere and Tanzu to simplify the deployment of AI applications in enterprises, the two companies announced at VMworld 2020."
     publishedDateTime: 2020-09-29T16:49:00Z
@@ -143,7 +135,16 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 20
+  - title: "VMware and NVIDIA to Enable Next-Gen Hybrid Cloud Architecture and Bring AI to Every Enterprise"
+    excerpt: "VMware Customers Can Benefit from Unified Management of NVIDIA AI Software with All Apps, Tap into Security, Acceleration Capabilities of NVIDIA BlueField-2 DPU VMworld 2020 — At VMworld 2020, VMware and NVIDIA today announced a broad partnership to deliver both an end-to-end enterprise platform for AI and a new architecture for data center,"
+    publishedDateTime: 2020-09-29T16:00:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20200929005455/vmware-and-nvidia-to-enable-next-gen-hybrid-cloud-architecture-and-bring-ai-to-every-enterprise"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 7
 
-secured: "CXA8eCqjjCPxEOcHs88UDwYrzPH+8L2CKsmOrbXH9EArHQekSAuEs5GwKAj8Pxq0cvwHPI6kcv+xBbApOaYkp8pGW1FEpBaboaMAkYw6OPtqN7281CaStBrS071t7FWyXZ8LB4isfxVd/DN65HibE0BYxG1eprREwn1efsnZgyh7WjlvNzLhAjKiOKnvssG7jJGM5aygs6iJmMuoAL3DqqpQM5rBgGKgPGLa2UKquCQ93LLwz3kGW0OSU+Vy4jBFDczEPjDWqs874P/pnKwlEZQ6vR4OZFm7ogHRrFXNPIBZN7doyH228KFSoVbTfNQ9MDby/YwUHP6x+zbDKOGJsL6/XN3lNRKvFgUtdArSH9Q=;sW15u/gPbLPaI3zRuuN3Tw=="
+secured: "WqHtuWxOuavtwNYac1jYEpxdKnlfL5jIHyBxjvJByKoJqZ0RWUKGn1ODWqfMxijANQjtzKoLrxieqD055LJMG/p0r0u7zWN8MBNuGICGZNnBDz2FpsJSS2SErHS06ulQczZrk0MRFyYooShTsCXGIfzyNhpZNqRst9SfJU6QpnFHIwO6jYRvxTmSBz0wLDfbar3YUqVYihQp2NkvG5AA+V8oRBeqJenBWVjhIBMwPvZFFrGWkX7a3kAk30nejCfwl+vRb0xP/7VdjCUuAre3qD/gui/IhBsn+TSkIExT7iBWAcTwXKojPfPqB4gN6hDAtRUuA382Dgb/0UIxPPUFP8GYQnewuiVgVV33IUfhk3w=;BFeJRiDhIrEV3jlZSS7gog=="
 ---
 

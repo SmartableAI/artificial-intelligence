@@ -137,17 +137,6 @@ related:
         width: 1050
         height: 750
         isCached: true
-  - title: "A Microsoft-powered instant two-way translator"
-    excerpt: "Powered by Microsoft's automatic speech recognition software and OrionStar AI Technology, the device is meant to provide users with instant two-way translation in 73 languages while displaying text on a 1.54\" IPS-LCD touch-screen, which offers a text-to ..."
-    publishedDateTime: 2020-09-25T07:42:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/a-microsoft-powered-instant-two-way-translator/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/a-microsoft-powered-instant-two-way-translator/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/a-microsoft-powered-instant-two-way-translator/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 54
   - title: "Microsoft launches Azure for Operators to expand connectivity"
     excerpt: "Microsoft announced intent to expand connectivity, including 5G, by working with network operators to launch Azure for Operators"
     publishedDateTime: 2020-09-28T18:51:00Z

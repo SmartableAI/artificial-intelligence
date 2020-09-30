@@ -82,6 +82,22 @@ related:
         width: 640
         height: 441
         isCached: true
+  - title: "NVIDIA And VMWare Announce Hybrid Cloud Partnership For AI Software And Hardware Infrastructure"
+    excerpt: "This is only the beginning of the discussion though, so stay tuned to HotHardware and wait for GTC2020 on October 5th for more news from NVIDIA and VMWare."
+    publishedDateTime: 2020-09-29T20:03:00Z
+    webUrl: "https://hothardware.com/news/nvidia-vmware-partnership-for-ai"
+    ampWebUrl: "https://amp.hothardware.com/news/nvidia-vmware-partnership-for-ai"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-vmware-partnership-for-ai"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 47
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/52992/content/nvidia-vmware-hero.jpg"
+        width: 708
+        height: 398
+        isCached: true
   - title: "Nvidia NGC To Supercharge AI On VMware Cloud, vSphere And Tanzu"
     excerpt: "Nvidia NGC will be integrated into VMware Cloud Foundation, vSphere and Tanzu to simplify the deployment of AI applications in enterprises, the two companies announced at VMworld 2020."
     publishedDateTime: 2020-09-29T16:49:00Z
@@ -129,6 +145,6 @@ related:
       domain: morningstar.com
     quality: 7
 
-secured: "SM9p8D3Wl1i1ywzbuZHB84ETgUxzZJA/NyQrbjn4cerBJhQ6WYMHEAhCTSgLJbHmY6/GWBqgW+LVo6AzSZYtDkXRwabtxcDMCikTEbqIGA7b1pN317E+O+LA8SoaYpgUH2h+N6tL8+diRppa7znPvosZrlMy3vZEaHxgMK+Z1GmBx/IBU5NZ1aFbYhV1T/N2nCsoyuOvuy5ezRMjfcAaO8ZByhIxfAu8jp9BzhgswCddVHM/+duav1QJNg+d93h1gXiKDI9t6+bqqJdlvLtOjENUklEWwm0gqiTUP3Q/AqbW0aPm427p5E/1pGEPpYlbNGWzoBK9x5bEgicXtYBtDi2n8RU5Yu1ixim5//1jq+Y=;yuXjszkd59WRPFgXTykWLw=="
+secured: "niUL4fniV902aIoO3rZlFgysJABqDhc3osobgntiSonrGyIG/DEBUFPqLiQTH6DTuTfdCvYkjkkY+M7drJ/PqovwpDDjQXwJpwaEQNqiDkA3NqaI+pX5FFp2k/HeoHicXmiV92IE3ZwGOLywDctiRLsuaQTN8Mbczm9jhWSnlcanVnFROWAGMNv1ntrRIbimwXU3oZu2ouQjmOLTdyyvO5Tqgg2Kbb89Y73Dyhv20j8TV6X6MRCH0d/PA9VQGCEUpzCgFP2+VlIsS9J9l/M/LGnBGoeM5iJ0XRXgOy0akuRzaQmr+XTTbSh07lI+TWKgEmdpUG8ubYJVQcTDdftGTtOEjR+5ssuEHds9ze3XEvMS8/b08mmG44O0QvXyJUPfHo6SARA7lrI8feHBSMG/FhA1ED12jOndWyKyae4lhbKHo+wUASUt+2SwEf7m5yb1fS91RTdyDMBAEBdzTzE+QVRS84eSRu6VZojQ/62RnuHGyB5A1KtsillgOlTnvM+mUmD1dA9GDHsXn6h62EJzcg==;CcIJSB4fDffeeVrD4juAoA=="
 ---
 

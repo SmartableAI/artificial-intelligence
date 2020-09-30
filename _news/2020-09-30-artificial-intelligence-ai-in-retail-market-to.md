@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/17703278"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17703278"
 type: article
 quality: 52
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -20,48 +20,15 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) in Healthcare Market Size to accrue $ 4757.5 million by 2025"
-    excerpt: "Sep 25, 2020 (Market Insight Reports) -- Selbyville, Delaware, Growth forecast report \" Artificial Intelligence (AI) in Healthcare Market size by Product Type (Deep Learning, Querying Method, Natural Language Processing, Context Aware Processing and Other ..."
-    publishedDateTime: 2020-09-25T07:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-to-accrue-47575-million-by-2025-2020-09-25"
+  - title: "Call for tech businesses in Artificial Intelligence (AI), Internet of Things (IoT) and beyond"
+    excerpt: "The Department for International Trade (DIT) in the East of England and Germany, in collaboration with CW (Cambridge Wireless), will host on Tuesday 6 October 2020, a virtual premiere of their recent digital pitching session - UK-German Innovation Challenge: Pitch your tech innovation to German corporates."
+    publishedDateTime: 2020-09-27T23:24:00Z
+    webUrl: "https://www.cambridgenetwork.co.uk/news/call-tech-businesses-artificial-intelligence-ai-internet-things-iot-and-beyond"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 90
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence In Healthcare Market Growth, Leading Players and Forecast To 2025"
-    excerpt: "A comprehensive research report created through extensive primary research (inputs from industry experts, companies, stakeholders) and secondary research, the report aims to present the analysis of Global Artificial Intelligence in Healthcare Market."
-    publishedDateTime: 2020-09-29T16:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2025-2020-09-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 75
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Chipsets Market Share – Industry Analysis, Size, Growth, Trends, Top Key Players and Regional Forecast 2020-2026"
-    excerpt: "Selbyville, Delaware, Global Artificial Intelligence (AI) Chipsets Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Artificial Intelligence (AI) Chipsets Market Report also covers top key players,"
-    publishedDateTime: 2020-09-29T09:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-industry-analysis-size-growth-trends-top-key-players-and-regional-forecast-2020-2026-2020-09-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Cambridge Network
+      domain: cambridgenetwork.co.uk
+    quality: 21
 
 secured: "wioBATx7WtXMltw2n3q/ItgFxAFvsJsGEWDlam5tkaH1M4c6r8ScoGLspuID2tp5hJ9h0pJyLUqvfOrm9aiIYkm5lumRd9iUgz1mSj9+rLPP4UoG68zszRKQI1Ywqylk/2yAfg3HQSl9EPT+wb5WitLFj+9AIEgTGMEkGOqZKyQyscSoivD4ETH4s5tq38U3Qdi41yj4AtwPB2ZHW69KiXkcNxeEftyngQX8n85IyMF3xkew/YheKNqxWOWuxi73n5A0IZGl6rmJ8/Yqa3ESM52I/esAvtHO1liqzZpf8BLdYuN/MMc7kbqnn3yAOskqwvTXzqTkkkUXJntPsTbNdM+sG6/SO59hbLsAdXfEW8U=;SfN8WO6w/nOtiD8dNR+c6g=="
 ---
