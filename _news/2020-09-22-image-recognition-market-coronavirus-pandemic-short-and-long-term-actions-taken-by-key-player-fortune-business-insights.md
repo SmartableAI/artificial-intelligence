@@ -2,9 +2,9 @@
 category: news
 title: "Image Recognition Market Coronavirus Pandemic: Short and long-term actions taken by Key Player? Fortune Business Insights"
 excerpt: "Facial Recognition, Object Recognition, Pattern Recognition), By Applications (Scanning and Imaging, Security and Surveillance, Image Search, Augmented Reality and others), By Deployment (On-Premises, Cloud), By End-User (BFSI, Media and Entertainment ..."
-publishedDateTime: 2020-09-22T13:32:00Z
-originalUrl: "https://www.marketwatch.com/press-release/image-recognition-market-coronavirus-pandemic-short-and-long-term-actions-taken-by-key-player-fortune-business-insights-2020-09-22?mod=mw_quote_news"
-webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-coronavirus-pandemic-short-and-long-term-actions-taken-by-key-player-fortune-business-insights-2020-09-22?mod=mw_quote_news"
+publishedDateTime: 2020-09-22T13:16:00Z
+originalUrl: "https://www.marketwatch.com/press-release/image-recognition-market-coronavirus-pandemic-short-and-long-term-actions-taken-by-key-player-fortune-business-insights-2020-09-22"
+webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-coronavirus-pandemic-short-and-long-term-actions-taken-by-key-player-fortune-business-insights-2020-09-22"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "dLNNFJpT+XPnsiMw4777JEJWnWxC+iGrMY8xTJZzp/TmlTVt+QPxvm7Vg7Kx2y70gjpOaB6fc8ZirDKaTYjjgmSD8NiMCFnoyutYqJZlDKvtEzUUuqn1GF+QWl27uAPf2CVDBfStU7gd1vR5JCvcWl8qgNTU7dKovQp1WrHkf5xOZQP1r/HVhrNAaXRhOjCnLMrlX2B8661h4+D9cmFEhmirwrnbubyz6m1dE5HJByNlhh2agoSnzqqXKKMbii62eWNsMfWqmkNYyLpLosmyW+rsDGHzQTPXCkDvAcrDyd+6Cp3e5lR6gmn0NgRpgAOLMvIJM773/UzDGrECShvMXyEKbJY1ov7TDcp1Btme0dA=;oLflzbkrltKmIaPdadA15A=="
+secured: "b6qe0M9djw8HXalwdDIGH2DMF6jc7iLP0HO8eX759pMf9eHcObQYebtwV/q6D7HqkPWNfKabeGbqHAujsX6pSH/Jed9uAgutqL79UVgIrr94cXHkNVio8OBr977F7+lQTVMUCiXqU4t+KFz3OgN5wnt3aYQEpuyBiyvBEjmfYqb++Ar/18U3Hmc2WIeBlpS2g2gFwt0FQvn097sR/yu+4ZNLS++DkeS3iZ3WGaNC3ihNSTSg5WwXTyhK0FY6H7twLoIN5fDF54JwyfbOZ4e9dv4rNW1cTMqRYN2sqSJPS3R7jRi8Fz9D6qAl40yTlR0wRBruvLmP05keu6J07MObdqLbcNrJ6LTEqkM7E0CZp1s=;KejT6ISXu4aX+Nr/pys6+Q=="
 ---
 

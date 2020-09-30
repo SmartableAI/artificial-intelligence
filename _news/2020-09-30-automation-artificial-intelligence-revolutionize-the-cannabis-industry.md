@@ -41,6 +41,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "How Artificial Intelligence Affects Real Estate"
+    excerpt: "Artificial intelligence has made inroads into not one or two, but virtually every industry on the face of Earth, including real estate. The technology has found incredibly exciting applications in this sector and has delivered exceptional value. Before we ..."
+    publishedDateTime: 2020-09-30T19:44:00Z
+    webUrl: "https://customerthink.com/how-artificial-intelligence-affects-real-estate/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 37
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/robot-507811.jpg"
+        width: 4961
+        height: 3508
+        isCached: true
   - title: "How Analytics and AI-driven Processes Will Revolutionize the Industrial Sector"
     excerpt: "Artificial Intelligence and analytics fall into four categories reflecting the type of insight delivered; these categories are predictive, performance, prescriptive and prognostic insights–the Four P’s of industrial AI."
     publishedDateTime: 2020-09-28T00:00:00Z

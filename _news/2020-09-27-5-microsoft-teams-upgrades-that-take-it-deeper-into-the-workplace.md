@@ -7,7 +7,7 @@ originalUrl: "https://www.cmswire.com/collaboration-productivity/5-microsoft-tea
 webUrl: "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/5-new-ways-to-boost-productivity-with-enhanced-teams-power/ba-p/1680697"
 type: article
 quality: 139
-heat: 309
+heat: 329
 published: true
 
 provider:
@@ -40,6 +40,22 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/kExEad3yNfdKVXRBuEsmfc-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "From Microsoft VP to law student: What this exec’s career transition says about AI and the law"
+    excerpt: "Mike Angiulo worked at Microsoft for 25 years as an engineering manager and vice president for products including Windows PCs, Microsoft Outlook, Xbox, Surface, and cloud and artificial"
+    publishedDateTime: 2020-09-30T21:20:00Z
+    webUrl: "https://www.geekwire.com/2020/microsoft-vp-law-student-execs-career-transition-says-ai-law/"
+    ampWebUrl: "https://www.geekwire.com/2020/microsoft-vp-law-student-execs-career-transition-says-ai-law/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-vp-law-student-execs-career-transition-says-ai-law/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 92
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/09/mike-angiulo-2-630x420.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "Microsoft (MSFT) Azure to Transform 5G Edge Cloud Computing"
     excerpt: "Microsoft MSFT is focused on making the most of 5G networking capabilities to transform cloud and edge computing. The tech giant is working in collaboration with the telecommunications industry to develop a carrier-grade platform for edge and cloud –– Azure for Operators."
@@ -122,6 +138,22 @@ related:
       - url: "https://assets.telecomtv.com/assets/telecomtv/cloud-native-telco-bg-web-8390.jpg?w=1200"
         width: 1050
         height: 750
+        isCached: true
+  - title: "Microsoft Translator now support Assamese language"
+    excerpt: "The service is available on Microsoft Translator app, add-ins, Office 365, Bing Translator, and through the Azure Cognitive Services Translator API for businesses and developers. Users can translate Assamese text, supported by more than 70 languages ..."
+    publishedDateTime: 2020-09-30T18:54:00Z
+    webUrl: "https://www.digit.in/press-release/apps/microsoft-translator-now-support-assamese-language-56681.html"
+    ampWebUrl: "https://www.digit.in/article/amp/apps/56681/microsoft-translator-now-support-assamese-language"
+    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/apps/56681/microsoft-translator-now-support-assamese-language"
+    type: article
+    provider:
+      name: Digit
+      domain: digit.in
+    quality: 59
+    images:
+      - url: "https://static.digit.in/default/223b47fd8c7f598a1e46c43038d9d58c33f10470.jpeg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Azure for Operators launches as Microsoft faces global outage"
     excerpt: "Microsoft it taking the rough with the smooth this week as it announced the launch of Azure for Operators, while tackling a major global outage."

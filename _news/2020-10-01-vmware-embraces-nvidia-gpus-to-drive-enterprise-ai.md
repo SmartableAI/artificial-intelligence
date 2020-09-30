@@ -70,6 +70,22 @@ related:
         width: 748
         height: 471
         isCached: true
+  - title: "VMware Embraces Nvidia GPUs, DPUs To Drive Enterprise AI"
+    excerpt: "AI is too hard for most enterprises to adopt, just like HPC was and continues to be. The search for “easy AI” – solutions that will reduce the costs and"
+    publishedDateTime: 2020-09-30T21:14:00Z
+    webUrl: "https://www.nextplatform.com/2020/09/30/vmware-embraces-nvidia-gpus-to-drive-enterprise-ai/"
+    ampWebUrl: "https://www.nextplatform.com/2020/09/30/vmware-embraces-nvidia-gpus-to-drive-enterprise-ai/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/09/30/vmware-embraces-nvidia-gpus-to-drive-enterprise-ai/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 76
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/VMware-CEOs.png"
+        width: 1061
+        height: 525
+        isCached: true
   - title: "VMware and Nvidia team up to make AI chips easier to use"
     excerpt: "VMware and Nvidia have announced an effort to make VMware's software for managing data centers work better with Nvidia's artificial intelligence (AI) chips."
     publishedDateTime: 2020-09-29T23:50:00Z

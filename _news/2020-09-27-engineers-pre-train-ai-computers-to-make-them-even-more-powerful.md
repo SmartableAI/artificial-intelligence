@@ -22,21 +22,21 @@ topics:
   - AI
 
 related:
-  - title: "Thinking About Making a Powerful App? Here Are Top AI Tools That Are Totally Worth Your Time"
-    excerpt: "In order to make this happen we have a lot of machine learning tools available to us today: The machine learning eco-system has developed"
-    publishedDateTime: 2020-09-28T18:25:00Z
-    webUrl: "https://www.fincyte.com/best-machine-learning-tools-to-make-powerful-app/"
-    ampWebUrl: "https://www.fincyte.com/best-machine-learning-tools-to-make-powerful-app/?amp"
-    cdnAmpWebUrl: "https://www-fincyte-com.cdn.ampproject.org/c/s/www.fincyte.com/best-machine-learning-tools-to-make-powerful-app/?amp"
+  - title: "As AI chips improve, is TOPS the best way to measure their power?"
+    excerpt: "There's more to understanding the performance of AI-capable chips than just a single summary number, even if that's what chipmakers are marketing to users."
+    publishedDateTime: 2020-09-30T21:21:00Z
+    webUrl: "https://venturebeat.com/2020/09/30/as-ai-chips-improve-is-tops-the-best-way-to-measure-their-power/"
+    ampWebUrl: "https://venturebeat.com/2020/09/30/as-ai-chips-improve-is-tops-the-best-way-to-measure-their-power/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/30/as-ai-chips-improve-is-tops-the-best-way-to-measure-their-power/amp/"
     type: article
     provider:
-      name: Top
-      domain: fincyte.com
-    quality: 48
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://www.fincyte.com/wp-content/uploads/2020/09/7-Best-Machine-Learning-Tools-You-Need-To-Know.jpg"
-        width: 1350
-        height: 900
+      - url: "https://venturebeat.com/wp-content/uploads/2020/09/5thgenaiengine-e1601490960504.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "OSO3eJaJ36+xUeP3LU5dDMaWaBwO87rwM++J2ym5s4pVYu+gp6jep2x8wkJMKrfQ+ayuFSTqFficqX9nndyEaL3BcNssSPU6th/MfS1VlkTyDUcjWrDF8OnLHO4/uP2kXIkjN3YmGjte3D5UTGNyI3yMeuo61buFC/XHcecGZ4Ar3vw7qB4mqZswyaQjnKyOYvXgw3kfrxjbsE4xKlYwCEyhBk4uRk5Fo/wxi5R6ZRhav3riVZYVTW+zQHWObQETbdUAbOU7+UJGoDYrSkdoXojMrmUYRo7YZij66MgVOMqlrcfNsk7aTCne0oHAySijLDw38DxdQ1S4KqFMnL+iPM6NDQMEoJsh4KMwzDR38DA=;OoD/qcSxXO0db778bFIcIQ=="

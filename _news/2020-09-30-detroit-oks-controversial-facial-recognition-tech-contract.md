@@ -81,6 +81,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Facial recognition contract extension reopens rifts among Detroit police commissioners"
+    excerpt: "Facial recognition technology, a contentious topic in Detroit that has drawn national headlines, continues to garner attention and spark debate. The Detroit City Council Tuesday voted 6-3 to extend a $220,000 contract with law enforcement technology ..."
+    publishedDateTime: 2020-09-30T21:38:00Z
+    webUrl: "https://www.freep.com/story/news/local/michigan/detroit/2020/09/30/facial-recognition-police-commissioners-rifts/5869731002/"
+    ampWebUrl: "https://amp.freep.com/amp/5869731002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5869731002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 51
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/08/07/PDTF/b0927c9f-c34a-495a-ad67-ef97cdf59b70-school_security__080719_13.JPG?auto=webp&crop=3599,2025,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "/GK2HQTNggkT7S0MQE2vjTVXuMhwAZ5cz6UmDuXYMP9n2x/dXQ3OWjhBePpnmsdRdlIR9TRhVKgkJzlNu2bKOltJ7MROraoeG18f7iBPX3+/Cu5S9XPhzgNmveuGAHCJqFhxATA2AYn0mIaU8AoVRkfLCd97hvpcHgx0HOZWGL4e4/9T4uRjq7qZQ/xCecALXnEfnTz45Ck1436dp3pEK5DKcbM8b4876XMpwVAXhKJREwmvy6MZgqk3uKZIs8xboGVzZ3zLOqFqlrG1GtfVHAOpCYIEJE5b8kuHlVeP7JLUYF/SfEPBhto0JAT/+ZamCNbz4qVr3rBl26MuiwkYRRvwA8ThzLOTfMfrj6LibJ5eYMtJEyElvdG4qV4J0cxR1heGfK/tpTrf6/jZ9R3iqACxcfv4WSzV4Gz6+pJDIhoZn1rT0EtYOvbgwbwQf8X1/1mpArGd8XNwy/0Ss8zEBIYTCG2n5ZfUIXPUJGc4fbVZ3lLSWTHRIstPhPCh+Om1qT9eGAbnUStOL1of1dWktg==;9ZPLUSYO3vdzquiMLLkdWw=="
 ---

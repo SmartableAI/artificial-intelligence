@@ -55,6 +55,20 @@ related:
         width: 700
         height: 442
         isCached: true
+  - title: "How Artificial Intelligence Affects Real Estate"
+    excerpt: "Artificial intelligence has made inroads into not one or two, but virtually every industry on the face of Earth, including real estate. The technology has found incredibly exciting applications in this sector and has delivered exceptional value. Before we ..."
+    publishedDateTime: 2020-09-30T19:44:00Z
+    webUrl: "https://customerthink.com/how-artificial-intelligence-affects-real-estate/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 37
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/robot-507811.jpg"
+        width: 4961
+        height: 3508
+        isCached: true
 
 secured: "R/XpOmxK+GkqC5ccZj9dCcwXGWumu33EmqHtlkQNXe2lC8YPDey+yorWvD9P7YgA995+iHz+tXQffq/4LSrza0KkJDqxLQjgn8vdCBk7VH9kdrr5KxaI4j2mUkxM8PbK7c7OoVj533jQJoEL1WUQeiggntTih+kMuPc9I86SCNrBY/iI3+39ycXhXBr2yw6CHPrXPhFWfCaMlUVTsJ2wDIcQoSgWuIDaxF9fuL8kwPoU33k70rEkRRZuTsvyp2VAJ51UydXcZVnWI4kA3FG41zkvxXSFxRIBPfLrAAqYgOslove4FweOqefO+0p+ywqSKF/vaxsk+6Iyp8NqeU+vz9QhYx4i8A+fhO9upuJu/RfZF3mElTGF4mM/cm6UNHbSmBvs8d4+0qRDwYcMCmgtbpwpudY+ptoXg/vKLBaIntBniYIVnytyqIRb/W++eYZdHegWLyS7yItel7DrpIXExH5a/74kUIkhFWyiMf7OSeGVLL5a4JonkD3+7Yu8H6r/TPH15qeP7uM1g5gFw1Ycew==;GadSbrnPt/Ezy59x8+zUkQ=="
 ---

@@ -26,17 +26,6 @@ images:
     height: 900
     isCached: true
 
-related:
-  - title: "Engineers pre-train AI computers to make them even more powerful"
-    excerpt: "Engineers have developed a new machine-learning method that paves the way for artificial intelligence to be used in applications that until now have been deemed too sensitive. The method, which has been tested by running simulations on a climate-control system for a 100-room building,"
-    publishedDateTime: 2020-09-27T01:47:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/09/200922112258.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
-
 secured: "Hnz0sNbVxTPdxL48ikwwQi3EExK6GJ0hdGWMKscv5LAwcR0ykVpKjn8gTfCZ9V7sqRFHNSRF9u3dTj2HmLwgLI8Af3+KE4KLxvpVGOnFLrckHZew4HI0jpvgQjizd0bKqfJ3BQq90Ap7dVsVCKWqJTkt78olmQ6LLGMa+X1PS+FMk0bBELCehxVs+W4zCZq/0CKf1IOlC4QJ/XXEQ5ebi4V6R4cu0DXJz0Kw32rgr2PScsJZsvO7uJ6ZNzXW1zgkV6yrHwvk8Md1+cUwlbS2YgrimcQK2JjXP9+SEK9tXrllKt9jlPIvstu4QpGOZrLyGr0Ww3kAZhhL19JKU9XCnKKf0yberwi3Dh4/DySzW/fu9jvlOGcG4+ykay1E8LblT9eccwg8fNWU8n9Hx2UvfyWMZRsgeWfYVH/6vv3sFjBXNJvA6M9on67kdnq0DU3JRb9+jjXFv7VdIbws/xc2jwy44MzOfHF9KAoluwMGbmMQT8w6RIfAwGr2cH1Mz2fu8QUAA+Eq4yNEKrASqe2WvQ==;4CNdOFuWrOmJ+WLPJcIsig=="
 ---
 

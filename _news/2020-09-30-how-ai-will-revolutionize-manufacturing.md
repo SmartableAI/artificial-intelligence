@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2020/09/29/1008933/how-ai-will-revo
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/09/29/1008933/how-ai-will-revolutionize-manufacturing/amp/"
 type: article
 quality: 61
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://420intel.com/sites/default/files/field/image/newwwlumigrow-greenhouse.jpg"
         width: 700
         height: 442
+        isCached: true
+  - title: "How Artificial Intelligence Affects Real Estate"
+    excerpt: "Artificial intelligence has made inroads into not one or two, but virtually every industry on the face of Earth, including real estate. The technology has found incredibly exciting applications in this sector and has delivered exceptional value. Before we ..."
+    publishedDateTime: 2020-09-30T19:44:00Z
+    webUrl: "https://customerthink.com/how-artificial-intelligence-affects-real-estate/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 37
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/robot-507811.jpg"
+        width: 4961
+        height: 3508
         isCached: true
   - title: "How Analytics and AI-driven Processes Will Revolutionize the Industrial Sector"
     excerpt: "Artificial Intelligence and analytics fall into four categories reflecting the type of insight delivered; these categories are predictive, performance, prescriptive and prognostic insights–the Four P’s of industrial AI."

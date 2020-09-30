@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/09/29/nvidia-and-vmware-part
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/29/nvidia-and-vmware-partner-to-bring-ai-into-the-mai/"
 type: article
 quality: 189
-heat: 289
+heat: 299
 published: true
 
 provider:
@@ -57,6 +57,22 @@ related:
       - url: "https://zdnet3.cbsistatic.com/hub/i/2020/09/28/c3259eba-0214-46d7-a76a-9b9ca5a892b6/vmware-nvidia-architecture.png"
         width: 748
         height: 471
+        isCached: true
+  - title: "VMware Embraces Nvidia GPUs, DPUs To Drive Enterprise AI"
+    excerpt: "AI is too hard for most enterprises to adopt, just like HPC was and continues to be. The search for “easy AI” – solutions that will reduce the costs and"
+    publishedDateTime: 2020-09-30T21:14:00Z
+    webUrl: "https://www.nextplatform.com/2020/09/30/vmware-embraces-nvidia-gpus-to-drive-enterprise-ai/"
+    ampWebUrl: "https://www.nextplatform.com/2020/09/30/vmware-embraces-nvidia-gpus-to-drive-enterprise-ai/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/09/30/vmware-embraces-nvidia-gpus-to-drive-enterprise-ai/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 76
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/VMware-CEOs.png"
+        width: 1061
+        height: 525
         isCached: true
   - title: "VMware Embraces Nvidia GPUs To Drive Enterprise AI"
     excerpt: "Adopting GPUs was a natural move. Organizations that run VMware software can now use those same processes to leverage GPUs for AI workloads. “We’ve always been a CPU-centric company and the GPU was always something over there. Maybe we virtualize ..."

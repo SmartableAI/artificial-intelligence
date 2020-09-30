@@ -43,6 +43,20 @@ related:
         width: 1000
         height: 623
         isCached: true
+  - title: "Using Amazon Rekognition Custom Labels and Amazon A2I for detecting pizza slices and augmenting predictions"
+    excerpt: "Customers need machine learning (ML) models to detect objects that are interesting for their business. In most cases doing so is hard as these models needs thousands of labelled images and deep learning expertise. &nbsp;Generating this data can take months to gather, and can require large teams of labelers"
+    publishedDateTime: 2020-09-30T21:30:12Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/using-amazon-rekognition-custom-labels-and-amazon-a2i-for-detecting-pizza-slices-and-augmenting-predictions/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 88
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/30/3-Custom-labels.jpg"
+        width: 900
+        height: 424
+        isCached: true
 
 secured: "aqaDfYuTuNQcawxWWukzlDVNj2wDqvd8cc5p7OMemgb4iWgZa0b4RnILhgIk3MVLpznUpFfXpe4BFkDykfc88mYPKtik7VO4DLicwD04G2l+b2+aF4kVoETtrH695RL1oT3CY0b1ksyTAislxyAiOOCUfn9w47J/yba31zz+OvpVCPmidohu15owpdZnKnPoiDgXAD46B09PUqx3+9f0qfd4VDxx0jpgX3h7vEYftUbDlVpF418APyRmjIdexQ8dRU3pEWv0/p1P/RdXkMzZUmdZuqCRm0GmIoRME4JOXMYejJfH8U7q/oZTt1xWIhc8jwqEyN8cKHPssuV2u5K7SdAEwiVfTDuyVV4XK0bgOKM=;nQaQ9weGfODXbGvey1ZMnA=="
 ---

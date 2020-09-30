@@ -24,22 +24,6 @@ images:
     height: 427
     isCached: true
 
-related:
-  - title: "Department of Defense Increases Support for Information Security and Intelligence, Artificial Intelligence Curriculum to Begin"
-    excerpt: "Ferris State University’s Information Security and Intelligence program has secured a Department of Defense grant to help with the development of an Artificial Intelligence curriculum, student scholarships and support directed to the ISI’s Cyber Competition schedule."
-    publishedDateTime: 2020-09-26T04:01:00Z
-    webUrl: "https://www.ferris.edu/HTMLS/news/archive/2020/september/security.htm"
-    type: article
-    provider:
-      name: Ferris State University
-      domain: ferris.edu
-    quality: 9
-    images:
-      - url: "https://www.ferris.edu/HTMLS/news/archive/2020/september/images/cyber-competition-main.jpg"
-        width: 500
-        height: 292
-        isCached: true
-
 secured: "slQn/tVlM7wNXGvE+fDdII4x4QU8AINa2qG20YSYph7c8aJB9xcifMw1YBL1lprlTKyC2rW2Gfo5xjQ2DEKkfC+VcfpLtrtb5uwk/lE5ijMKYFkoDfYQWoyx2Y0TF8tNmsFO2Ia5gX8AoAXkGobMVsa2ULjHUCPoKdpPUz/bmGbTOlBuTzuLKpo01JmUmpX0H2PwRi+5UvdDAWBv99UjRuZENdJTWnmNlElGqTarsnEWe5Uc4OChrYuNZqj1TCLqvHjUs2iwEhLBksGDyMYTeII8ZlgqutCKQtRPpauA6WKAaQ1QsPCuCtOAVtXO3rrma5Lg3VjlZmd+7nje9uIvRR9mxHUBxWA0CkYhqn8ZnpuhDsSewUMdxymaM48c/OLoeEzovMnpnzGjtkFEe1UtGdAYIxMAPhjXOC1mLb2YCY2gdgNVvynb53ut1OXpk1Ymu8VaCYT1+QUb/e5fFLegJiFib9hcrZxCu5yPN+dsCPCK/y15HmUCjKWtHLZkH/ew5Qd4KER3KkE/QxEhA858NQ==;DbRejXt3cs3rnGYYND8toQ=="
 ---
 

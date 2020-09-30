@@ -20,20 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Exponential AI Recognized in Gartner Hype Cycle for Artificial Intelligence, 2020 for Decision Intelligence and Composite AI"
-    excerpt: "Based Intelligent Decision and Automation Platform Company, today announced that it has been recognized in the Gartner’s"
-    publishedDateTime: 2020-09-26T03:51:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200910005072/en/Exponential-AI-Recognized-in-Gartner-Hype-Cycle-for-Artificial-Intelligence-2020-for-Decision-Intelligence-and-Composite-AI"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 27
-    images:
-      - url: "https://mms.businesswire.com/media/20200910005072/en/819314/23/xAI_Logo.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Capgemini Press Release// Growing number of businesses recognize need for ethical and trusted AI-powered systems but progress is still patchy"
     excerpt: "Good morning, Please find below the press release issued today. Best regards, Marishka MartinsGroup PR Consultant | Group Marketing & Communications Capgemini Group |"
     publishedDateTime: 2020-09-30T06:30:00Z
