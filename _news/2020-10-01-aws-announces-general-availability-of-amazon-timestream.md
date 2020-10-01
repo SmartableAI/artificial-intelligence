@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/article/technology-business-amazoncom-inc-corpo
 webUrl: "https://apnews.com/article/technology-business-amazoncom-inc-corporate-news-building-construction-15b4cac4c728480abae476bdfa6d82af"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon Timestream database is now generally available"
+    excerpt: "The latest addition to the AWS database portfolio focuses on time series data – a segment where fit-for-purpose databases are emerging because use cases ranging from IoT to e-commerce are driving data volumes overwhelming general-purpose platforms."
+    publishedDateTime: 2020-10-01T12:00:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/amazon-timestream-database-is-now-generally-available/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/amazon-timestream-database-is-now-generally-available/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/amazon-timestream-database-is-now-generally-available/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
   - title: "AWS launches Amazon Timestream, a serverless time series database for IoT and operational applications"
     excerpt: "AWS announced the general availability of Amazon Timestream, a new time series database for IoT and operational applications."
     publishedDateTime: 2020-10-01T08:25:00Z

@@ -1004,6 +1004,50 @@
       ]
     },
     {
+      "path": "_news/2020-09-13-develop-ml-applications-with-the-glow-neural-network-compiler-and-tensorflow-lite-for-imx-rt-crossover-mcus.md",
+      "title": "Develop ML Applications with the Glow Neural Network Compiler and TensorFlow Lite for i.MX RT Crossover MCUs",
+      "excerpt": "TensorFlow Lite, as an inference engine, is one such example of a deep learning tool that has gained tremendous popularity in recent years. A relative newcomer to this field is Glow, the open source neural network compiler. This session explores the trade ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.allaboutcircuits.com/tech-days/summer-2020/nxp-semiconductors/webinars/develop-ml-applications-with-the-glow-neural-network-compiler-and-tensorflow-lite-for-i.mx-rt-crossover-mcus/",
+      "originalUrl": "https://www.allaboutcircuits.com/tech-days/summer-2020/nxp-semiconductors/webinars/develop-ml-applications-with-the-glow-neural-network-compiler-and-tensorflow-lite-for-i.mx-rt-crossover-mcus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.allaboutcircuits.com/uploads/tech-days/NXP_ImageCodeGraphic_Op01v042_%28002%29.jpg",
+          "width": 2400,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-13T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "All About Circuits",
+        "domain": "allaboutcircuits.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2020-09-13-custom-object-detection-tflite-model-for-android-using-tensorflow.md",
       "title": "Custom Object Detection Tflite Model for Android using Tensorflow",
       "excerpt": "In this tutorial, we will learn how to make a custom object detection model in TensorFlow and then converting the model to tflite for android. I will go through step by step. Every step is ...",
@@ -1359,58 +1403,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-get-your-hands-dirty-the-many-benefits-of-learning-to-code-as-a-ceo.md",
-      "title": "Get Your Hands Dirty: The Many Benefits Of Learning To Code As A CEO",
-      "excerpt": "This is all open source, so it's freely available. I taught myself using a variety of books and online resources as well as the ML packages SciKit Learn, TensorFlow (an open-source library originally developed by Google) and Keras (a more abstracted deep ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/get-your-hands-dirty-the-many-benefits-of-learning-to-code-as-a-ceo/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/get-your-hands-dirty-the-many-benefits-of-learning-to-code-as-a-ceo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f578a304f5e311ae14b571d%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/get-your-hands-dirty-the-many-benefits-of-learning-to-code-as-a-ceo/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/09/get-your-hands-dirty-the-many-benefits-of-learning-to-code-as-a-ceo/amp/",
-      "publishedDateTime": "2020-09-09T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

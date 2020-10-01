@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-15-ai-researchers-devise-failure-detection-method-for-safety-critical-machine-learning.md",
+      "title": "AI researchers devise failure detection method for safety-critical machine learning",
+      "excerpt": "Researchers devised a way to predict the failure rates of safety-critical machine learning systems used in self-driving cars, robotic surgery, and planes.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/15/ai-researchers-devise-failure-detection-method-for-safety-critical-machine-learning/",
+      "originalUrl": "https://venturebeat.com/2020/09/15/ai-researchers-devise-failure-detection-method-for-safety-critical-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/photo-1539109523166-85417acfcdb7.jpeg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/15/ai-researchers-devise-failure-detection-method-for-safety-critical-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/15/ai-researchers-devise-failure-detection-method-for-safety-critical-machine-learning/amp/",
+      "publishedDateTime": "2020-09-15T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-researchers-say-artificial-intelligence-and-machine-learning-could-enhance-scientific-peer-review.md",
       "title": "Researchers say artificial intelligence and machine learning could enhance scientific peer review",
       "excerpt": "As the COVID-19 pandemic has swept the world, researchers have published hundreds of papers each week reporting their findings—many of which have not undergone a thorough peer review process to gauge their reliability.",
@@ -237,6 +288,50 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-develop-ml-applications-with-the-glow-neural-network-compiler-and-tensorflow-lite-for-imx-rt-crossover-mcus.md",
+      "title": "Develop ML Applications with the Glow Neural Network Compiler and TensorFlow Lite for i.MX RT Crossover MCUs",
+      "excerpt": "TensorFlow Lite, as an inference engine, is one such example of a deep learning tool that has gained tremendous popularity in recent years. A relative newcomer to this field is Glow, the open source neural network compiler. This session explores the trade ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.allaboutcircuits.com/tech-days/summer-2020/nxp-semiconductors/webinars/develop-ml-applications-with-the-glow-neural-network-compiler-and-tensorflow-lite-for-i.mx-rt-crossover-mcus/",
+      "originalUrl": "https://www.allaboutcircuits.com/tech-days/summer-2020/nxp-semiconductors/webinars/develop-ml-applications-with-the-glow-neural-network-compiler-and-tensorflow-lite-for-i.mx-rt-crossover-mcus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.allaboutcircuits.com/uploads/tech-days/NXP_ImageCodeGraphic_Op01v042_%28002%29.jpg",
+          "width": 2400,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-13T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "All About Circuits",
+        "domain": "allaboutcircuits.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "TensorFlow"
       ]
     },
     {
@@ -1320,100 +1415,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-artificial-intelligence-in-retail-market-2020-2023-demand-analysis-type-statistics-regions-and-industry-key-manufacture.md",
-      "title": "Artificial Intelligence in Retail Market 2020-2023: Demand Analysis, Type, Statistics, Regions, and Industry Key Manufacture",
-      "excerpt": "Artificial Intelligence is anticipated to disrupt every business and enterprises across the world. One of the major factors that drive the growth of artificial intelligence market",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-2020-2023-demand-analysis-type-statistics-regions-and-industry-key-manufacture-2020-09-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-2020-2023-demand-analysis-type-statistics-regions-and-industry-key-manufacture-2020-09-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-08T00:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-use-artificial-intelligence-machine-learning-for-efficient-relief-management.md",
-      "title": "Use artificial intelligence, machine learning for efficient relief management",
-      "excerpt": "Bangladesh located to the north-east of South Asia is one of the disaster-prone areas of the region as well the world due to its geographical characteristics, complex topographical features, excessive and mighty river system,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailystar.net/business/news/use-artificial-intelligence-machine-learning-efficient-relief-management-1957645",
-      "originalUrl": "https://www.thedailystar.net/business/news/use-artificial-intelligence-machine-learning-efficient-relief-management-1957645",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/natural-disasters.jpg?itok=avHIeykZ",
-          "width": 560,
-          "height": 292,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thedailystar.net/business/news/use-artificial-intelligence-machine-learning-efficient-relief-management-1957645?amp",
-      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/news/use-artificial-intelligence-machine-learning-efficient-relief-management-1957645?amp",
-      "publishedDateTime": "2020-09-07T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Star",
-        "domain": "thedailystar.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

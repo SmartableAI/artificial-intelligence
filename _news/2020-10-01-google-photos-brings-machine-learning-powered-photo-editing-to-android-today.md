@@ -43,6 +43,20 @@ related:
         width: 920
         height: 470
         isCached: true
+  - title: "Google's new Android Photos app can use AI to enhance your photos"
+    excerpt: "Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Premium subscription today. In a blog post about the update, Google said that a new “Suggestions” tab, which will appear at the bottom of the screen ..."
+    publishedDateTime: 2020-10-01T13:57:00Z
+    webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/google-photos-update-android-app-ai-enhance-pictures-b740806.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 37
+    images:
+      - url: "https://static.independent.co.uk/2020/10/01/14/Screenshot%202020-10-01%20140429.png"
+        width: 1127
+        height: 463
+        isCached: true
 
 secured: "tcPI4v43jsgeFsxtttWunOvNMFPgVtiTOgmdvPz92p/DMsoIp/IbNRh7OGxhmfkBX3uJJF3RFbMNuPsj1EA9Q1HmSzGT08TLIB78DRZDSzPWsBB0h0wK7JcOiObosdzk+FEgHyJ4Vd0FJTBk9idTgsDMSf5jaJaA6Rvw/57G7aXrTlK7mQf0AaeYnic0EevkPTEqtVPaOih7bOLIyCYHv49QZy5PcVtUucNBu+A7RKFgAa9x9fXRVgN3ZYxdoV0TWq7nN+xzdUiemmYit8mgPheICpkn5p/4YlMkJ1UaVx4soWnw4xY/aNxKQ9BtkhhrI53cUokUmae1tNsPFK5WGi/IL4f069D2UTIv8Fseses=;K5wWoQLcn0IyPPRVL6GfJQ=="
 ---

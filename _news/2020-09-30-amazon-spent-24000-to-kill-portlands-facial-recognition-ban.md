@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en_us/article/g5p9z3/amazon-spent-dollar240
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Report: LAPD used facial recognition nearly 30,000 times"
-    excerpt: "The Los Angeles Police Department has used facial-recognition software nearly 30,000 times since 2009 even while denying at times that it used the controversial technology at all, the Los Angeles Times reported Monday."
-    publishedDateTime: 2020-09-26T19:06:00Z
-    webUrl: "https://www.nhregister.com/news/article/Report-LAPD-used-facial-recognition-nearly-15585211.php"
-    ampWebUrl: "https://www.nhregister.com/news/amp/Report-LAPD-used-facial-recognition-nearly-15585211.php"
-    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Report-LAPD-used-facial-recognition-nearly-15585211.php"
-    type: article
-    provider:
-      name: New Haven Register
-      domain: nhregister.com
-    quality: 59
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
   - title: "Detroit City Council to vote to renew DPD's facial recognition contract"
     excerpt: "The Detroit City Council is expected to vote Tuesday on the renewal of the controversial use of facial recognition technology in the city."
     publishedDateTime: 2020-09-29T09:27:00Z

@@ -2,6 +2,278 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-08-29-facial-recognition-technology-is-biased-with-higher-error-rates-against-people-of-colour.md",
+      "title": "Facial recognition technology is biased with higher error rates against people of colour",
+      "excerpt": "Even though Williams had nothing to do with the incident, facial recognition technology used by Michigan State Police “matched” his face with a grainy image obtained from an in-store surveillance video showing another African American man taking $3,",
+      "sourceUrl": null,
+      "webUrl": "https://scroll.in/article/971374/facial-recognition-technology-is-biased-with-higher-error-rates-against-people-of-colour",
+      "originalUrl": "https://scroll.in/article/971374/facial-recognition-technology-is-biased-with-higher-error-rates-against-people-of-colour",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s01.sgp1.cdn.digitaloceanspaces.com/book/124346-kfgetldkjs-1598371183.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scroll.in/article/971374/facial-recognition-technology-is-biased-with-higher-error-rates-against-people-of-colour",
+      "cdnAmpWebUrl": "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/971374/facial-recognition-technology-is-biased-with-higher-error-rates-against-people-of-colour",
+      "publishedDateTime": "2020-08-28T17:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scroll",
+        "domain": "scroll.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-29-google-granted-patent-for-automatic-object-recognition-in-videos.md",
+      "title": "Google Granted Patent for Automatic Object Recognition in Videos",
+      "excerpt": "Automatic object recognition is kind of a big deal in some circles. Having a computer that’s able to automatically recognize what an object is with any accuracy is a tool that could find many uses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.themarysue.com/google-object-recognition/",
+      "originalUrl": "https://www.themarysue.com/google-object-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.themarysue.com/google-object-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-themarysue-com.cdn.ampproject.org/c/s/www.themarysue.com/google-object-recognition/amp/",
+      "publishedDateTime": "2020-08-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Mary Sue",
+        "domain": "themarysue.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-29-kaldi-speech-recognition-gains-tensorflow-deep-learning-support.md",
+      "title": "Kaldi speech recognition gains TensorFlow deep learning support",
+      "excerpt": "Kaldi, an open-source speech recognition toolkit, has been updated with integration with the open-source TensorFlow deep learning library. Developers Yishay Carmiel and Hainan Xu of Seattle-based ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/deep-learning/kaldi-speech-tensorflow-deep-learning/",
+      "originalUrl": "https://sdtimes.com/deep-learning/kaldi-speech-tensorflow-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2017/08/DSC2820-1.jpg",
+          "width": 1620,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-08-28-take-a-closer-look-at-elon-musks-neuralink-surgical-robot.md",
+      "title": "Take a closer look at Elon Musk’s Neuralink surgical robot",
+      "excerpt": "While the science was front-and-center in Elon Musk’s presentation about Neuralink, his human brain computer inference company, the surgical robot the company debuted made a splash of its own. The rounded polycarbonate sci-fi design of the brain surgeon bot looks like something out of the",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/08/28/take-a-closer-look-at-elon-musks-neuralink-surgical-robot/",
+      "originalUrl": "https://techcrunch.com/2020/08/28/take-a-closer-look-at-elon-musks-neuralink-surgical-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/08/early-digital-sketches-of-the-robot.jpg?w=600",
+          "width": 600,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/08/28/take-a-closer-look-at-elon-musks-neuralink-surgical-robot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/28/take-a-closer-look-at-elon-musks-neuralink-surgical-robot/amp/",
+      "publishedDateTime": "2020-08-28T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-29-le-machine-learning-automatise-va-t-il-remplacer-le-data-scientist.md",
+      "title": "Le machine learning automatisé va-t-il remplacer le data scientist",
+      "excerpt": "DataRobot, Google AutoML, H2O.ai... Les solutions d'automated machine learning se multiplient depuis quelques années. Leur ambition ? Automatiser la création de modèles d'apprentissage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.journaldunet.com/solutions/dsi/1493101-le-machine-learning-automatise-va-t-il-remplacer-les-data-scientists/",
+      "originalUrl": "https://www.journaldunet.com/solutions/dsi/1493101-le-machine-learning-automatise-va-t-il-remplacer-les-data-scientists/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-0.journaldunet.com/Cihe4Jc1q_3pnLXW_i67tdAQY7Y=/540x/smart/63c71b725da14af3ab53c43b85a79543/ccmcms-jdn/17238006.jpg",
+          "width": 540,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-28T15:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "journaldunet.com",
+        "domain": "journaldunet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-28-how-amazons-new-health-tracker-will-use-ai-to-monitor-your-tone-of-voice.md",
+      "title": "How Amazon’s new health tracker will use AI to monitor your tone of voice",
+      "excerpt": "Amazon's Halo will include a feature called Tone that offers users feedback about how happy or tired they sound.",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/1897411/amazons-new-fitness-tracker-halo-will-monitor-your-tone-of-voice/",
+      "originalUrl": "https://qz.com/1897411/amazons-new-fitness-tracker-halo-will-monitor-your-tone-of-voice/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/08/Halo_App_and_Halo_Band-e1598648831888.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 788,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://qz.com/1897411/amazons-new-fitness-tracker-halo-will-monitor-your-tone-of-voice/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1897411/amazons-new-fitness-tracker-halo-will-monitor-your-tone-of-voice/amp/",
+      "publishedDateTime": "2020-08-28T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-28-7-data-science-certifications-to-boost-your-resume-and-salary.md",
       "title": "7 data science certifications to boost your resume and salary",
       "excerpt": "IBM, Google, SAS, and Oracle offer online courses and exams to quantify data science skills and expertise with modeling and analysis software.",
@@ -905,294 +1177,6 @@
         "AI",
         "AI Ethics",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-ibm-will-use-ai-to-pipe-in-simulated-crowd-noise-during-the-us-open.md",
-      "title": "IBM will use AI to pipe in simulated crowd noise during the U.S. Open",
-      "excerpt": "IBM plans to apply AI and machine learning solutions to new challenges brought on by the pandemic during the 140th U.S. Open.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/28/ibm-will-use-ai-to-pipe-in-simulated-crowd-noise-during-the-u-s-open/",
-      "originalUrl": "https://venturebeat.com/2020/08/28/ibm-will-use-ai-to-pipe-in-simulated-crowd-noise-during-the-u-s-open/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/28/ibm-will-use-ai-to-pipe-in-simulated-crowd-noise-during-the-u-s-open/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/28/ibm-will-use-ai-to-pipe-in-simulated-crowd-noise-during-the-u-s-open/amp/",
-      "publishedDateTime": "2020-08-28T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-us-open-wont-have-spectators-but-it-will-have-ibms-ai-and-hybrid-cloud.md",
-      "title": "US Open won't have spectators, but it will have IBM's AI and hybrid cloud",
-      "excerpt": "Fans will be able to use IBM's new tech features as they watch the Grand Slam event from home this year.  This year, IBM has developed three new tennis-based digital experiences for fans of the US Open.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/us-open-wont-have-spectators-but-it-will-have-ibms-ai-and-hybrid-cloud/",
-      "originalUrl": "https://www.techrepublic.com/article/us-open-wont-have-spectators-but-it-will-have-ibms-ai-and-hybrid-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/us-open-wont-have-spectators-but-it-will-have-ibms-ai-and-hybrid-cloud/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/us-open-wont-have-spectators-but-it-will-have-ibms-ai-and-hybrid-cloud/",
-      "publishedDateTime": "2020-08-28T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-how-the-duke-reporters-lab-used-the-political-conventions-to-perfect-its-automated-fact-checking-program.md",
-      "title": "How the Duke Reporters’ Lab used the political conventions to perfect its automated fact-checking program",
-      "excerpt": "The eight nights of both political conventions provided the perfect soil to see how well Gardener could improve Squash.",
-      "sourceUrl": null,
-      "webUrl": "https://reporterslab.org/tech-and-check/",
-      "originalUrl": "https://www.poynter.org/fact-checking/2020/how-the-duke-reporters-lab-used-the-political-conventions-to-perfect-its-automated-fact-checking-program/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://reporterslab.org/wp-content/uploads/2020/02/Squash-logo.001-4.jpeg",
-          "width": 499,
-          "height": 491,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-28T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Poynter",
-        "domain": "poynter.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing.md",
-      "title": "IBM hopes to power US Open's digital experiences with Watson's natural language processing",
-      "excerpt": "The US Open can't have fans this year so IBM is hoping it can use AI to fuel debates, experiences and even the noise in the stadium.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/08/28/b59c73bd-e81b-4c3c-8115-c06cc32d2467/us-open-questions.png",
-          "width": 813,
-          "height": 505,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/",
-      "publishedDateTime": "2020-08-28T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-tsmc-announces-its-first-3nm-ai-chip-customer-neither-apple-nor-huawei.md",
-      "title": "TSMC announces its first 3nm AI chip customer – neither Apple nor Huawei",
-      "excerpt": "At TSMC’s 26th Technical Symposium, TSMC officially confirmed that its 5nm and 6nm processes are already in mass production. In addition, the company also announced that",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2020/08/28/tsmc-announces-its-first-3nm-ai-chip-customer-neither-apple-nor-huawei/",
-      "originalUrl": "https://www.gizchina.com/2020/08/28/tsmc-announces-its-first-3nm-ai-chip-customer-neither-apple-nor-huawei/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2020/08/colossus-b.jpg",
-          "width": 678,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2020/08/28/tsmc-announces-its-first-3nm-ai-chip-customer-neither-apple-nor-huawei/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/08/28/tsmc-announces-its-first-3nm-ai-chip-customer-neither-apple-nor-huawei/amp/",
-      "publishedDateTime": "2020-08-28T04:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-ai-jesus-will-help-you-embrace-the-apocalypse.md",
-      "title": "AI Jesus will help you embrace the apocalypse",
-      "excerpt": "The neural network spat out some baffling verses after studying the King James Bible In yet another sign that the end of the world is nigh, an AI Jesus has arisen with a new set of apocalyptic biblical verses.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/08/28/ai-jesus-will-help-you-embrace-the-apocalypse/",
-      "originalUrl": "https://thenextweb.com/neural/2020/08/28/ai-jesus-will-help-you-embrace-the-apocalypse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-27T133838.454-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/08/28/ai-jesus-will-help-you-embrace-the-apocalypse/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/28/ai-jesus-will-help-you-embrace-the-apocalypse/amp/",
-      "publishedDateTime": "2020-08-28T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

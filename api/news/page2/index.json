@@ -2,6 +2,191 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-30-this-ai-advised-me-to-read-the-hunger-games-to-survive-this-cruel-world.md",
+      "title": "This AI advised me to read The Hunger Games to survive this ‘cruel world’",
+      "excerpt": "If you’re unimpressed by the book recommendations provided by your tasteless friends, a new AI tool called GPT-3 Books could help revive your joy of reading. The system is the brainchild of Anurag Ramdasan and Richard Reis.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/30/this-ai-advised-me-to-read-the-hunger-games-to-survive-this-cruel-world/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/30/this-ai-advised-me-to-read-the-hunger-games-to-survive-this-cruel-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Untitled-design-2020-09-30T145811.614-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/30/this-ai-advised-me-to-read-the-hunger-games-to-survive-this-cruel-world/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/30/this-ai-advised-me-to-read-the-hunger-games-to-survive-this-cruel-world/amp/",
+      "publishedDateTime": "2020-09-30T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-researchers-streamline-ptsd-diagnosis-with-machine-learning.md",
+      "title": "Researchers streamline PTSD diagnosis with machine learning",
+      "excerpt": "Post-traumatic stress disorder (PTSD) affects eight million adults in the US, including hundreds of thousands of veterans of the conflicts in Iraq and Afghanistan. And as the COVID crisis continues to take its toll on everyone's mental health,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.html",
+      "originalUrl": "https://medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/combatveteran.jpg",
+          "width": 1920,
+          "height": 1368,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.amp",
+      "publishedDateTime": "2020-09-30T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-using-machine-learning-to-tackle-some-of-the-worlds-biggest-problems-infographic.md",
+      "title": "Using machine learning to tackle some of the world’s biggest problems (Infographic)",
+      "excerpt": "A look at some of the promising applications of machine learning to benefit society from understanding climate change to finding homes for the homeless.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/30/using-machine-learning-to-tackle-some-of-the-worlds-biggest-problems-infographic/",
+      "originalUrl": "https://venturebeat.com/2020/09/30/using-machine-learning-to-tackle-some-of-the-worlds-biggest-problems-infographic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/aws_VB-feature-image-01.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/30/using-machine-learning-to-tackle-some-of-the-worlds-biggest-problems-infographic/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/30/using-machine-learning-to-tackle-some-of-the-worlds-biggest-problems-infographic/amp/",
+      "publishedDateTime": "2020-09-30T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-neuromaker-stem-announces-partnership-with-vinci-robotics-academy.md",
+      "title": "NeuroMaker STEM Announces Partnership with Vinci Robotics Academy",
+      "excerpt": "NeuroMaker, the STEM education arm of Somerville based company BrainCo announces their partnership with Vinci Robotics Academy, a 501(c)(3) non-profit organization that operates STEAM educational programs in the greater Boston area.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/neuromaker-stem-announces-partnership-with-vinci-robotics-academy-1029635620",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/neuromaker-stem-announces-partnership-with-vinci-robotics-academy-1029635620",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/neuromaker-stem-announces-partnership-with-vinci-robotics-academy-1029635620",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/neuromaker-stem-announces-partnership-with-vinci-robotics-academy-1029635620",
+      "publishedDateTime": "2020-09-30T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-coralogix-raises-25-million-to-parse-software-logs-with-ai.md",
       "title": "Coralogix raises $25 million to parse software logs with AI",
       "excerpt": "Coralogix, which leverages AI and machine learning to parse software development logs, raised $25 million in venture capital financing.",
@@ -448,7 +633,7 @@
       "originalUrl": "https://www.vice.com/en/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -550,7 +735,7 @@
       "originalUrl": "https://www.ibm.com/blogs/watson/2020/09/address-returning-to-the-workplace-with-ibm-watson-works/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -651,7 +836,7 @@
       "originalUrl": "https://www.technologyreview.com/2020/09/29/1008933/how-ai-will-revolutionize-manufacturing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -1020,208 +1205,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-datasaur-snags-39m-investment-to-build-intelligent-machine-learning-labeling-platform.md",
-      "title": "Datasaur snags $3.9M investment to build intelligent machine learning labeling platform",
-      "excerpt": "As machine learning has grown, one of the major bottlenecks remains labeling things so the machine learning application understands the data it’s working with. Datasaur, a member of the Y Combinator Winter 2020 batch,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/29/datasaur-snags-3-9m-investment-to-build-intelligent-machine-learning-labeling-platform/",
-      "originalUrl": "https://techcrunch.com/2020/09/29/datasaur-snags-3-9m-investment-to-build-intelligent-machine-learning-labeling-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-671392904.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/29/datasaur-snags-3-9m-investment-to-build-intelligent-machine-learning-labeling-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/29/datasaur-snags-3-9m-investment-to-build-intelligent-machine-learning-labeling-platform/amp/",
-      "publishedDateTime": "2020-09-29T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-roland-garros-2020-puts-ai-at-the-heart-of-the-digital-experience-as-tennis-fans-stay-at-home.md",
-      "title": "Roland Garros 2020 Puts AI At The Heart Of The Digital Experience As Tennis Fans Stay At Home",
-      "excerpt": "Only 1,000 fans will be able to attend this year's French Open at Roland Garros. AI hopes to bring the tournament to people's homes like never before",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemccaskill/2020/09/29/roland-garros-2020-puts-ai-at-the-heart-of-the-digital-experience-as-tennis-fans-stay-at-home/",
-      "originalUrl": "https://www.forbes.com/sites/stevemccaskill/2020/09/29/roland-garros-2020-puts-ai-at-the-heart-of-the-digital-experience-as-tennis-fans-stay-at-home/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f734ff73a7334cd624a47b6%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemccaskill/2020/09/29/roland-garros-2020-puts-ai-at-the-heart-of-the-digital-experience-as-tennis-fans-stay-at-home/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemccaskill/2020/09/29/roland-garros-2020-puts-ai-at-the-heart-of-the-digital-experience-as-tennis-fans-stay-at-home/amp/",
-      "publishedDateTime": "2020-09-29T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-women-founders-of-ai-startups-take-aim-at-gender-bias.md",
-      "title": "Women Founders of AI Startups Take Aim at Gender Bias",
-      "excerpt": "They see gender diversity in their companies as crucial in making sure the technology doesn’t penalize the underrepresented.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/women-founders-of-ai-startups-take-aim-at-gender-bias-11601388625",
-      "originalUrl": "https://www.wsj.com/articles/women-founders-of-ai-startups-take-aim-at-gender-bias-11601388625",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-237380/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/women-founders-of-ai-startups-take-aim-at-gender-bias-11601388625",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/women-founders-of-ai-startups-take-aim-at-gender-bias-11601388625",
-      "publishedDateTime": "2020-09-29T07:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-companies-are-doubling-down-on-artificial-intelligence-and-machine-learning-due-to-pandemic.md",
-      "title": "Companies are doubling down on artificial intelligence and machine learning due to pandemic",
-      "excerpt": "Companies are planning to increase their spending on artificial intelligence and machine learning as a result of the pandemic, and IT leaders believe that those initiatives should have been a higher priority for their organizations all along, according to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/companies-are-doubling-down-on-artificial-intelligence-and-machine-learning-due-to-pandemic/",
-      "originalUrl": "https://www.techrepublic.com/article/companies-are-doubling-down-on-artificial-intelligence-and-machine-learning-due-to-pandemic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2018/09/18/576ff782-4166-4148-9a24-1a349fb7d430/thumbnail/1200x675/06be1fbef92a10bdaa9eefca101d0989/cyber.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/companies-are-doubling-down-on-artificial-intelligence-and-machine-learning-due-to-pandemic/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/companies-are-doubling-down-on-artificial-intelligence-and-machine-learning-due-to-pandemic/",
-      "publishedDateTime": "2020-09-29T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

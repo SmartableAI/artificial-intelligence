@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/companies-are-doubli
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/companies-are-doubling-down-on-artificial-intelligence-and-machine-learning-due-to-pandemic/"
 type: article
 quality: 94
-heat: 134
+heat: 104
 published: true
 
 provider:
@@ -31,36 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Can AI Support Small Businesses During The Pandemic?"
-    excerpt: "VUCA is a term that seems appropriate for the environment Credit Sesame and many businesses have been facing since the pandemic."
-    publishedDateTime: 2020-09-27T23:56:00Z
-    webUrl: "https://www.forbes.com/sites/quora/2020/09/27/how-can-ai-support-small-businesses-during-the-pandemic/"
-    ampWebUrl: "https://www.forbes.com/sites/quora/2020/09/27/how-can-ai-support-small-businesses-during-the-pandemic/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2020/09/27/how-can-ai-support-small-businesses-during-the-pandemic/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f66c44541673f93c14d00c1%2F0x0.jpg"
-        width: 1200
-        height: 801
-        isCached: true
-  - title: "How data and AI will shape the post-pandemic future"
-    excerpt: "Data science and AI are not only accelerating COVID-19 research and recovery today but helping organizations uncover insights and opportunities to succeed in the new normal."
-    publishedDateTime: 2020-09-28T17:44:00Z
-    webUrl: "https://www.cio.com/article/3575856/how-data-and-ai-will-shape-the-post-pandemic-future.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 37
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/09/data-ai-postpandemic-1-100859727-large.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "How To Get CEOs And Board Directors Leading Right With AI. Start Applying Proven Adult Learning And Collective Intelligence Methods"
     excerpt: "Leadership is about securing followers and more importantly maximizing the collaborative strength of collective intelligence. To get AI right, CEOs & Board Directors need to learn more & leverage proven adult learning methods to crack the Big Data Gaps and low success rates of sustaining applied AI."
     publishedDateTime: 2020-09-29T10:22:00Z
@@ -74,20 +44,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f71ed1f47c6afddc901406a%2F0x0.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Harnessing big data and artificial intelligence to predict future pandemic spread"
-    excerpt: "During COVID-19, artificial intelligence (AI) has been used to enhance diagnostic efforts, deliver medical supplies and even assess risk factors from blood tests. Now, artificial intelligence is being used to forecast future COVID-19 cases."
-    publishedDateTime: 2020-09-29T15:51:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-09/tau-hbd092920.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 32
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "M+IbTYEhWeZuTgyJvuJNk04WoB775nMt3Q5eWYlaggboDvVupaDhDb4d5EJqsfCixZDadEXgKpSSIDAvFSuzzmQTSqo8khO+i9PH5TcZ0Pj9JiFidUKylR1VAOp7co6p4Na46akU0c5vuz58c3jNSlmJckteA7RMlpDXyWKupBY+u04IdKgeHyuR4hPGnvpAFuZXQw3roLRgVejkcrSYkyLwz6gTcPCfi4rPme6b3fIK66QgSh2QgcthQwv9bBTnh1+OKwFHqK0qy4pOlcGhFPoE9bd3K4pKd0scaE7XMDQQKK6n5tWwwuEqKPVsNOguNPn5VMp66laOuuFDSnSP7+inIcV/uIrMYIY+wPk+6Kib+PuHtJ6souEkvGCraePWgoHZyDg2bQwQiTjDmRBBSUJtwFurdFUkfWc/Kb/aZ/uM/Q+GlFVby1RC8LF08QcNFlALKp3+SIcGUWsfdB0J0/XMz0ko3IfGGSmJspvF8Uy+ALzO5bS4BAVsIvHVN/rG1AZIq95quq3iDuWNmoK3MA==;A+WemstkfowvhOOPu2NURA=="

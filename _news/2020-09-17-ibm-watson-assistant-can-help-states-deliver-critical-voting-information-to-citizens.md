@@ -1,17 +1,19 @@
 ---
 category: news
 title: "IBM Watson Assistant Can Help States Deliver Critical Voting Information to Citizens"
-excerpt: "IBM) has technology to help states use the AI capabilities of Watson to put this critical data and information directly into the hands of voters. With states facing a deluge of information ..."
-publishedDateTime: 2020-09-17T12:34:00Z
-originalUrl: "https://www.marketwatch.com/press-release/ibm-watson-assistant-can-help-states-deliver-critical-voting-information-to-citizens-2020-09-17"
-webUrl: "https://www.marketwatch.com/press-release/ibm-watson-assistant-can-help-states-deliver-critical-voting-information-to-citizens-2020-09-17"
+excerpt: "PRNewswire/ -- With COVID-19 causing uncertainty about voting logistics and procedures across the country, IBM"
+publishedDateTime: 2020-09-17T14:27:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-watson-assistant-can-help-states-deliver-critical-voting-information-to-citizens-1029598387"
+webUrl: "https://markets.businessinsider.com/news/stocks/ibm-watson-assistant-can-help-states-deliver-critical-voting-information-to-citizens-1029598387"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-watson-assistant-can-help-states-deliver-critical-voting-information-to-citizens-1029598387"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-watson-assistant-can-help-states-deliver-critical-voting-information-to-citizens-1029598387"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -19,12 +21,6 @@ topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "WJX4kv39Rs/GGxtf3Y8kjEaUbNkHtkET248MDI4QZzx7lj5GgUxvwgnR25ddnfArxLJ9oR6ImUGJhLOkPrcbksItXYzjch2unIpN7rwhb9xPRUkU+rKg8rmyjFU42vhWsVSlfI+JcndkmfKeMU4QXrWWer+sgw14EfEkix+qtbgSPN5bKdA/y6kw4mI2/7EIglCJ6UUXF2ECga3Nd1+VkDNllki8wskToLjk0wU3K8i1edeX6Ixgmt6SSosytK8zyw/iA5ZYqQHRxUNMBw7chA4m/YwI3YFEkqeQIG3wnaios1pADCCjbNNq7eVlLB4W1A4V4QsiIIalnojuXQD/9DKgGoaATIfkPnBA1ax8apc=;iVcxVPYhOP0KTCiPY8QIfw=="
+secured: "0bx2KTyH833ZbnoW5pbU6+ypWF5q1m7a/Yb6KF2I2NP9Aem/qY8uyWvfDZfnKHrHh96YAgW70PJzMScHN88M/eX+hqS8FArmlKd//iIQqqqZCb4HZwnsKlbxEq6D7lAj14eGBel/9IzbqHg2dAK95qpEzODonC3Tuia9TWcQ1rU5ZKuQSwArsvQNqIEZtCtMOv1aPc3qshxRaXxM0HDJxvU5gISbVmzStwico2DXkw6jJvhELqPckDr+4bjxMKVtUD8lQPT/26Je4rxycFWyyT6Ruo1hPSVwIfdfkG6jHGbB+B/zjSoARXN8JIvbb8/x8VriFcrM3MxIe2ivZ8fDTCAtGYN8oIrdBtWL7C2aUf4=;Lfd9SVjP6UWu92CG9yYwZA=="
 ---
 

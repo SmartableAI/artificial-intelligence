@@ -43,22 +43,6 @@ related:
         width: 5037
         height: 2829
         isCached: true
-  - title: "Report: LAPD used facial recognition nearly 30,000 times"
-    excerpt: "The Los Angeles Police Department has used facial-recognition software nearly 30,000 times since 2009 even while denying at times that it used the controversial technology at all, the Los Angeles Times reported Monday."
-    publishedDateTime: 2020-09-26T19:06:00Z
-    webUrl: "https://www.nhregister.com/news/article/Report-LAPD-used-facial-recognition-nearly-15585211.php"
-    ampWebUrl: "https://www.nhregister.com/news/amp/Report-LAPD-used-facial-recognition-nearly-15585211.php"
-    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Report-LAPD-used-facial-recognition-nearly-15585211.php"
-    type: article
-    provider:
-      name: New Haven Register
-      domain: nhregister.com
-    quality: 59
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
   - title: "Detroit City Council Passes Facial Recognition Contract For DPD"
     excerpt: "A controversial topic was put before the Detroit City Council Tuesday. Members voted on a facial recognition contract that opponents call “flawed technology.” CW50’s Cryss Walker tells us what decision was made."
     publishedDateTime: 2020-09-30T03:24:00Z

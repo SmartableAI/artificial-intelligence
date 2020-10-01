@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidauthority.com/google-photos-editor-android-2020-u
 cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/google-photos-editor-android-2020-update-1163513/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://i0.wp.com/ausdroid.net/wp-content/uploads/2020/10/Photos_Editor_Hero_Portrait_light2x.max-1000x1000-1.png?fit=1000%2C416&ssl=1"
         width: 1000
         height: 416
+        isCached: true
+  - title: "Google's new Android Photos app can use AI to enhance your photos"
+    excerpt: "Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Premium subscription today. In a blog post about the update, Google said that a new “Suggestions” tab, which will appear at the bottom of the screen ..."
+    publishedDateTime: 2020-10-01T13:57:00Z
+    webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/google-photos-update-android-app-ai-enhance-pictures-b740806.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 37
+    images:
+      - url: "https://static.independent.co.uk/2020/10/01/14/Screenshot%202020-10-01%20140429.png"
+        width: 1127
+        height: 463
         isCached: true
 
 secured: "utr5/8pwAZVBGXbLc6VozC3CfdwD0mPzJDoVctxgdX9TvKFh8U9XX0I5qOx5C6yDlEcCAyJRS9HnDGhW+mzS6dxlrhhAzy791PykXztpvpFPRmlpKbhoS5XMKXgtF4gzpCkQVUjcDQMsuYPcN879+Zrhk2ZpoMxNzhax2x/CPSgEw/W6Cx2w7edctdQ93ghp//fh0SxrHDM1KiilBvSXufT9zr0LcZQ8t0/SAaOTGtlTlRnAo8Dwl0DJfE9h6P8Ex05dOF/+wyL2wDnbuLDAgu95CklrZrWamTgSfYDTvgx5EmhRWuhs2fvR7QmtGpHRJzcbUfyBMFLyA7IFCmKOKyjkgWWxgaD9U1PS1V63BnFUeBSsydMw0En8JxbANw7oWf1JzGWOTfCNLMXCYdrOPkj7QwSo1QHRogW53099tZdXjGHnchCpulV2MRHDTt2pAB/rXLZfwWeZrw3FQlElxPQthYjsBv3j3GvHKxHNxvCIdGTnNqX1dgFsgMvVrBC8zZht4DPEuanqh+ol3f1EuQ==;GOX/dd8Y6okUy/0SRuTIOA=="

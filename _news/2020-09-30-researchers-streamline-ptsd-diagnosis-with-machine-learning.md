@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.amp"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://www.bu.edu/sph/files/2020/09/Streamlining-PTSD-Diagnosis-with-Machine-Learning-Veterans-400x241-1.jpeg"
         width: 400
         height: 241
+        isCached: true
+  - title: "Machine Learning Can Streamline PTSD Diagnosis in Veterans"
+    excerpt: "Using machine learning, researchers were able to cut six of the 20 questions used to diagnose post-traumatic stress disorder (PTSD) while still maintaining accuracy in a veteran population, according to a study published in Assessment."
+    publishedDateTime: 2020-10-01T13:33:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-can-streamline-ptsd-diagnosis-in-veterans"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 54
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-917184638.jpg"
+        width: 690
+        height: 400
         isCached: true
   - title: "VA Boston and BU researchers streamline PTSD diagnosis with machine learning"
     excerpt: "Now, researchers from the VA Boston Healthcare System and the Boston University School of Public Health (BUSPH) have used machine learning to explore streamlining the ''gold standard'' diagnostic tool for PTSD."

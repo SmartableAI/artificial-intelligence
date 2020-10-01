@@ -2,6 +2,108 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-01-how-the-pandemic-has-reshaped-ai-robotics-and-automation.md",
+      "title": "How the pandemic has reshaped AI, robotics, and automation",
+      "excerpt": "Tonya Hall talks with Dr. Kate Darling, research specialist at the MIT Media Lab, to learn more about how the future of AI, robotics, and automation was reshaped following the COVID-19 pandemic outbreak.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/video/how-the-pandemic-has-reshaped-ai-robotics-and-automation/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/video/how-the-pandemic-has-reshaped-ai-robotics-and-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/09/30/f447663b-3622-49b4-9d70-842de8d91c0d/thumbnail/370x278/c89db3759753cf93a251fb062018a286/it-leadership-influential-cios-deliver-e-5f71c506156d300635196775-1-sep-30-2020-12-20-02-poster.jpg",
+          "width": 370,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-01T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-deckrobot-raises-15-million-to-generate-powerpoint-slides-using-ai.md",
+      "title": "DeckRobot Raises $1.5 Million To Generate PowerPoint Slides Using AI",
+      "excerpt": "Making professional, company-approved Powerpoint slides is difficult for the average employee. DeckRobot is an artificial intelligence add-on to Microsoft Office’s PowerPoint to all a user to create approvable slide decks in one click.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/frederickdaso/2020/10/01/deckrobot-raises-15-million-to-generate-powerpoint-slides-using-ai/",
+      "originalUrl": "https://www.forbes.com/sites/frederickdaso/2020/10/01/deckrobot-raises-15-million-to-generate-powerpoint-slides-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f709683ae01957e6150d240%2F0x0.jpg",
+          "width": 1199,
+          "height": 775,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/frederickdaso/2020/10/01/deckrobot-raises-15-million-to-generate-powerpoint-slides-using-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2020/10/01/deckrobot-raises-15-million-to-generate-powerpoint-slides-using-ai/amp/",
+      "publishedDateTime": "2020-10-01T05:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-01-robocorp-cloud-a-groundbreaking-solution-to-build-a-software-robot-workforce.md",
       "title": "Robocorp Cloud - A Groundbreaking Solution to Build a Software Robot Workforce",
       "excerpt": "Robocorp announces its latest release – Robocorp Cloud – which for the first time ever – allows IT developers and programmers to orchestrate and run robots straight from the cloud. This new technology significantly improves the way Robotic Process Automation (RPA) developers and their teammates operate and maintain their software robot workforce.",
@@ -145,7 +247,7 @@
       "originalUrl": "https://www.technologyreview.com/2020/09/29/1008933/how-ai-will-revolutionize-manufacturing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -1288,90 +1390,6 @@
         "AI",
         "AI in Robotics",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-this-raspberry-pi-powered-ai-helps-robots-to-sort-through-your-recycling.md",
-      "title": "This Raspberry Pi-powered AI helps robots to sort through your recycling",
-      "excerpt": "A team of engineers built an AI system based on a Raspberry Pi to automate recycling. The machines are taking over, get ready. By 2024, AI will have dramatically transformed how we live our lives, conduct business,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/this-raspberry-pi-powered-ai-helps-robots-to-sort-through-your-recycling/",
-      "originalUrl": "https://www.zdnet.com/article/this-raspberry-pi-powered-ai-helps-robots-to-sort-through-your-recycling/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-raspberry-pi-powered-ai-helps-robots-to-sort-through-your-recycling/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-raspberry-pi-powered-ai-helps-robots-to-sort-through-your-recycling/",
-      "publishedDateTime": "2020-09-18T07:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-during-pandemic-more-workers-being-replaced-by-robots-new-study-finds.md",
-      "title": "During pandemic, more workers being replaced by robots, new study finds",
-      "excerpt": "The coronavirus pandemic is accelerating the trend of robots replacing humans in the workplace, which could result in a recovery from recession that nonetheless costs jobs, according to a new report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.spokesman.com/stories/2020/sep/15/during-pandemic-more-workers-being-replaced-by-rob/",
-      "originalUrl": "https://www.spokesman.com/stories/2020/sep/15/during-pandemic-more-workers-being-replaced-by-rob/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumb.spokesman.com/jcBdgbiLi4RufbJAE9-UE3coqaM=/480x0/media.spokesman.com/photos/2020/09/17/5f62741253474.hires.jpg",
-          "width": 480,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.spokesman.com/stories/2020/sep/15/during-pandemic-more-workers-being-replaced-by-rob/?amp-content=amp",
-      "cdnAmpWebUrl": "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2020/sep/15/during-pandemic-more-workers-being-replaced-by-rob/?amp-content=amp",
-      "publishedDateTime": "2020-09-17T15:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Spokesman-Review",
-        "domain": "spokesman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

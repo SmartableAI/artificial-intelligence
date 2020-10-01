@@ -2,6 +2,233 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-09-17-ibms-watson-assistant-can-now-field-election-questions.md",
+      "title": "IBM’s Watson Assistant can now field election questions",
+      "excerpt": "IBM is teaming up with states to deploy a Watson Assistant solution that answers questions about the election via phone or online.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/17/ibms-watson-assistant-can-now-field-election-questions/",
+      "originalUrl": "https://venturebeat.com/2020/09/17/ibms-watson-assistant-can-now-field-election-questions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/17/ibms-watson-assistant-can-now-field-election-questions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/17/ibms-watson-assistant-can-now-field-election-questions/amp/",
+      "publishedDateTime": "2020-09-17T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-powering-up-the-transition-to-a-new-energy-world-eon-ai-and-digitalisation.md",
+      "title": "Powering up the transition to a new energy world - E.ON, AI and digitalisation",
+      "excerpt": "There’s a bold statement of intent on the homepage of the E.ON corporate website: We are going to be the energy company that supplies energy for the digital age. In pursuit of that ambition, the energy giant has embarked on a number of digital transformation initiatives in recent years,",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/powering-transition-new-energy-world-eon-ai-and-digitalisation",
+      "originalUrl": "https://diginomica.com/powering-transition-new-energy-world-eon-ai-and-digitalisation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2019-06/EON.jpg",
+          "width": 466,
+          "height": 335,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/powering-transition-new-energy-world-eon-ai-and-digitalisation?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/powering-transition-new-energy-world-eon-ai-and-digitalisation?amp",
+      "publishedDateTime": "2020-09-17T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-ubers-self-driving-operator-charged-over-fatal-crash.md",
+      "title": "Uber's self-driving operator charged over fatal crash",
+      "excerpt": "Image caption The self-driving Volvo hit a pedestrian at 39mph ... Only today it is being reported that the Chinese tech giant Baidu is pushing back the full rollout of its robo-taxis until ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/amp/technology-54175359",
+      "originalUrl": "https://www.bbc.co.uk/news/amp/technology-54175359",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/15157/production/_114395368_hi063348894.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/amp/technology-54175359",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-54175359",
+      "publishedDateTime": "2020-09-17T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-how-nvidias-arm-acquisition-will-drive-ai-to-every-edge.md",
+      "title": "How NVIDIA’s Arm acquisition will drive AI to every edge",
+      "excerpt": "However, NVIDIA has been frustrated in its attempts to become a dominant provider of AI chips for deployment into smartphones, embedded systems, and other edge devices. To address that strategic gap,",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3575396/how-nvidias-arm-acquisition-will-drive-ai-to-every-edge.html",
+      "originalUrl": "https://www.infoworld.com/article/3575396/how-nvidias-arm-acquisition-will-drive-ai-to-every-edge.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2017/07/keys-to_access_solutions_rubic-cube_puzzle-100728331-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3575396/how-nvidias-arm-acquisition-will-drive-ai-to-every-edge.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3575396/how-nvidias-arm-acquisition-will-drive-ai-to-every-edge.amp.html",
+      "publishedDateTime": "2020-09-17T03:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-inside-politics-joe-biden-offers-brexit-bill-warning.md",
+      "title": "Inside Politics: Joe Biden offers Brexit bill warning",
+      "excerpt": "Boris Johnson has forged a compromise deal with the Tory rebels on his controversial legislation – but the US presidential candidate has a warning about jeopardising transatlantic trade, writes Adam F",
+      "sourceUrl": null,
+      "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
+      "originalUrl": "https://www.independent.co.uk/independentpremium/uk-news/brexit-joe-biden-boris-johnson-deal-withdrawal-agreement-good-friday-ireland-b464207.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inside.com/assets/premium/Blue-email-icon-0994aadea0b5b10b19a148e2dd34a88c4a315b76ed51d7898fa49dc4ddc6d171.png",
+          "width": 414,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-16T23:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-17-observeai-bags-54-mn-in-series-b-round-led-by-menlo-ventures.md",
       "title": "Observe.AI Bags $54 Mn In Series B Round Led By Menlo Ventures",
       "excerpt": "Observe.AI, a contact centre artificial intelligence (AI) startup, announced that it has raised a $54 million Series B round led by Menlo Ventures, with participation from Next47 Ventures and NGP Capital.",
@@ -942,247 +1169,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-qualcomm-details-cloud-ai-100-chipset-announces-developer-kit.md",
-      "title": "Qualcomm details Cloud AI 100 chipset, announces developer kit",
-      "excerpt": "Qualcomm shared details about the Cloud AI 100 chipset it announced last year, along with the Cloud Edge AI Development Kit.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/16/qualcomm-details-cloud-ai-100-chipset-announces-developer-kit/",
-      "originalUrl": "https://venturebeat.com/2020/09/16/qualcomm-details-cloud-ai-100-chipset-announces-developer-kit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/ca4da21f-6d64-4878-8771-b3b8098ebd4e-e1600064374641.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/16/qualcomm-details-cloud-ai-100-chipset-announces-developer-kit/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/16/qualcomm-details-cloud-ai-100-chipset-announces-developer-kit/amp/",
-      "publishedDateTime": "2020-09-16T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Natural Language Processing",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-aidoc-raises-20-million-more-for-its-computer-vision-medical-tools.md",
-      "title": "Aidoc raises $20 million more for its computer vision medical tools",
-      "excerpt": "Aidoc, which bills itself as an AI solutions provider for radiologists, today closed a $20 million extension to the series B it raised in April 2019.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/16/aidoc-raises-20-million-more-for-its-computer-vision-medical-tools/",
-      "originalUrl": "https://venturebeat.com/2020/09/16/aidoc-raises-20-million-more-for-its-computer-vision-medical-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/Aidoc-Covid-e1599583845771.jpeg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/16/aidoc-raises-20-million-more-for-its-computer-vision-medical-tools/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/16/aidoc-raises-20-million-more-for-its-computer-vision-medical-tools/amp/",
-      "publishedDateTime": "2020-09-16T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-franklin-templeton-combines-award-winning-research-with-machine-learning-in-new-goals-optimization-engine.md",
-      "title": "Franklin Templeton Combines Award-Winning Research with Machine Learning in New Goals Optimization Engine",
-      "excerpt": "Franklin Templeton today announced the introduction of its proprietary Goals Optimization Engine, or GOE TM. The global offering provides investors with personalized investment paths for their unique goals,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/business-wire/b1d5650433984f78b9f53f17f2762438",
-      "originalUrl": "https://apnews.com/business-wire/b1d5650433984f78b9f53f17f2762438",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-16T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-sensiml-integrates-googles-tensorflow-lite-for-microcontrollers.md",
-      "title": "SensiML Integrates Google's TensorFlow Lite for Microcontrollers",
-      "excerpt": "AI tools for building intelligent IoT endpoints, today announced that its SensiML Analytics Toolkit now seamlessly integrates with Google's TensorFlow Lite for Microcontrollers. Developers working ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/sensiml-integrates-googles-tensorflow-lite-for-microcontrollers-301131982.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/sensiml-integrates-googles-tensorflow-lite-for-microcontrollers-301131982.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/891804/SensiML_Logo.jpg?p=facebook",
-          "width": 2059,
-          "height": 1079,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-16T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-nokia-simplifies-microsoft-azure-integration.md",
-      "title": "Nokia simplifies Microsoft Azure integration",
-      "excerpt": "The announcement comes almost a year after Nokia and Microsoft made their first joint solutions public. In November 2019, the two companies announced a strategic collaboration aim",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/marketing-comms/business-communications/357124/nokia-simplifies-microsoft-azure-integration",
-      "originalUrl": "https://www.itpro.co.uk/marketing-comms/business-communications/357124/nokia-simplifies-microsoft-azure-integration",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1594375394/itpro/2020/07/shutterstock_nokia%20data%20centre.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-16T05:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

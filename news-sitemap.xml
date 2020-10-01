@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.zdnet.com/index.php/category/2184/index.php/video/how-the-pandemic-has-reshaped-ai-robotics-and-automation/</loc>
+    <lastmod>2020-10-01T06:20:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/10/01/ibm-open-sources-ai-for-optimizing-satellite-communications-and-predicting-space-debris-trajectories/</loc>
+    <lastmod>2020-10-01T06:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/frederickdaso/2020/10/01/deckrobot-raises-15-million-to-generate-powerpoint-slides-using-ai/</loc>
+    <lastmod>2020-10-01T05:07:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.zdnet.com/index.php/category/10250/4/index.php/article/amazon-timestream-database-is-now-generally-available/</loc>
+    <lastmod>2020-10-01T05:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://markets.businessinsider.com/news/stocks/robocorp-cloud-a-groundbreaking-solution-to-build-a-software-robot-workforce-1029639016</loc>
     <lastmod>2020-10-01T04:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -289,6 +313,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://healthitanalytics.com/news/expanding-access-to-mental-healthcare-with-artificial-intelligence</loc>
+    <lastmod>2020-09-29T08:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.wsj.com/articles/women-founders-of-ai-startups-take-aim-at-gender-bias-11601388625</loc>
     <lastmod>2020-09-29T07:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -517,12 +547,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.forbes.com/sites/mitsubishiheavyindustries/2020/09/28/the-pandemic-created-a-plastics-problem-but-ai-can-help/</loc>
-    <lastmod>2020-09-28T07:02:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.forbes.com/sites/janakirammsv/2020/09/28/google-cloud-ai-prediction-service-becomes-generally-available/</loc>
     <lastmod>2020-09-28T06:39:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -723,6 +747,12 @@
   <url>
     <loc>https://www.pcmag.com/news/mit-prof-wins-1m-award-for-machine-learning-based-cancer-detection</loc>
     <lastmod>2020-09-25T08:42:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.dailymail.co.uk/sciencetech/article-8772287/AI-detect-lonely-analysing-speech.html?&amp;hss_channel=tw-17392332</loc>
+    <lastmod>2020-09-25T07:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1159,14 +1189,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://ca.reuters.com/article/technologyNews/idCAKCN26E207-OCATC</loc>
-    <lastmod>2020-09-23T05:27:00-07:00</lastmod>
+    <loc>https://www.newsweek.com/facebook-illinois-face-recognition-settlement-submit-claim-payout-1533779</loc>
+    <lastmod>2020-09-23T05:26:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.newsweek.com/facebook-illinois-face-recognition-settlement-submit-claim-payout-1533779</loc>
-    <lastmod>2020-09-23T05:26:00-07:00</lastmod>
+    <loc>https://www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars</loc>
+    <lastmod>2020-09-23T05:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1387,8 +1417,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace/article_f6c327bd-10d4-5df0-beed-77fd9ceef60a.html</loc>
-    <lastmod>2020-09-22T05:30:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572</loc>
+    <lastmod>2020-09-22T05:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1465,6 +1495,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.asiaone.com/business/global-startup-parcel-perform-collaborates-amazon-web-services-aws-improve-e-commerce</loc>
+    <lastmod>2020-09-21T21:26:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://medium.com/@szabogergo2020/differentiable-argmax-for-tensorflow-2da6ca5d8ae7</loc>
     <lastmod>2020-09-21T21:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1473,12 +1509,6 @@
   <url>
     <loc>https://www.pymnts.com/news/security-and-risk/2020/fincen-files-banks-battle-kyc-aml/</loc>
     <lastmod>2020-09-21T20:59:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.finanzen.net/nachricht/aktien/global-startup-parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-9317530</loc>
-    <lastmod>2020-09-21T18:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2041,6 +2071,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://markets.businessinsider.com/news/stocks/ibm-watson-assistant-can-help-states-deliver-critical-voting-information-to-citizens-1029598387</loc>
+    <lastmod>2020-09-17T07:27:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/09/17/rapidai-raises-25-million-to-analyze-medical-scans-with-ai-algorithms/</loc>
     <lastmod>2020-09-17T06:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2061,12 +2097,6 @@
   <url>
     <loc>https://www.forbes.com/sites/michellegreenwald/2020/09/17/how-artificial-intelligence-is-helping-companies-identify--nail-new-product-opportunities/</loc>
     <lastmod>2020-09-17T05:38:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/ibm-watson-assistant-can-help-states-deliver-critical-voting-information-to-citizens-2020-09-17</loc>
-    <lastmod>2020-09-17T05:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2997,6 +3027,12 @@
   <url>
     <loc>https://www.jpost.com/middle-east/uae-israeli-educational-institutions-to-collaborate-on-ai-research-642090</loc>
     <lastmod>2020-09-13T12:22:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.allaboutcircuits.com/tech-days/summer-2020/nxp-semiconductors/webinars/develop-ml-applications-with-the-glow-neural-network-compiler-and-tensorflow-lite-for-i.mx-rt-crossover-mcus/</loc>
+    <lastmod>2020-09-13T09:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -7,8 +7,8 @@ originalUrl: "https://healthitanalytics.com/news/expanding-access-to-mental-heal
 webUrl: "https://healthitanalytics.com/news/expanding-access-to-mental-healthcare-with-artificial-intelligence"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Analytics
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "BUDDI.AI Emerges from Stealth Mode to Transform the Healthcare Revenue Cycle"
+    excerpt: "PR Newswire/ -- BUDDI.AI (f/k/a BUDDIHealth), a leading provider of AI-powered clinical revenue cycle automation solutions"
+    publishedDateTime: 2020-10-01T12:31:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/buddiai-emerges-from-stealth-mode-to-transform-the-healthcare-revenue-cycle-301143543.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 51
+    images:
+      - url: "https://mma.prnewswire.com/media/1294815/BUDDI_Logo.jpg?p=facebook"
+        width: 1458
+        height: 764
+        isCached: true
   - title: "KenSci Launches AI Platform for Digital Health to Accelerate AI and Analytics Enabled Healthcare"
     excerpt: "KenSci's AI platform for digital health helps health teams build data-rich use-cases and innovate in a secure data pipeline within their own Azure environments.\" said Heather Cartwright, General Manager, Microsoft Health. KenSci's existing customers have ..."
     publishedDateTime: 2020-09-29T12:25:00Z

@@ -378,6 +378,49 @@
       ]
     },
     {
+      "path": "_news/2020-09-22-dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace.md",
+      "title": "dotData Now Supports Microsoft Azure Deployment and Is Available on Microsoft Azure Marketplace",
+      "excerpt": "SAN MATEO, Calif., Sept. 22, 2020 /PRNewswire/ -- dotData, focused on delivering full-cycle data science automation and operationalization for",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572",
+      "publishedDateTime": "2020-09-22T05:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-machine-learning-answers-facebook-stock-is-down-20-in-a-month-what-are-the-chances-itll-rebound.md",
       "title": "Machine Learning Answers: Facebook Stock Is Down 20% In A Month, What Are The Chances It’ll Rebound?",
       "excerpt": "Facebook stock reached an all-time high of almost $305 less than a month ago before a larger sell-off in the technology industry drove the stock price down nearly 20% to its current level of around $250.",
@@ -429,6 +472,49 @@
       ]
     },
     {
+      "path": "_news/2020-09-22-global-startup-parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning.md",
+      "title": "Global startup Parcel Perform collaborates with Amazon Web Services (AWS) to improve e-commerce delivery experience with machine learning",
+      "excerpt": "Parcel Perform and Amazon Machine Learning Solutions Lab collaborated to build a flexible, scalable solution, combining AWS' expertise in ML and ML services like Amazon SageMaker, with the specific requirements of the logistics domain to build this unique ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/global-startup-parcel-perform-collaborates-amazon-web-services-aws-improve-e-commerce",
+      "originalUrl": "https://www.asiaone.com/business/global-startup-parcel-perform-collaborates-amazon-web-services-aws-improve-e-commerce",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Sep2020/pr-newswire_500_4_1272.jpg?itok=_nKPo1GS",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/global-startup-parcel-perform-collaborates-amazon-web-services-aws-improve-e-commerce?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/global-startup-parcel-perform-collaborates-amazon-web-services-aws-improve-e-commerce?amp",
+      "publishedDateTime": "2020-09-21T21:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-fincen-files-show-banks-use-of-ai-and-machine-learning-effective-in-kycaml.md",
       "title": "FinCEN Files Show Banks’ Use Of AI And Machine Learning Effective In KYC/AML",
       "excerpt": "Documents submitted to FinCEN show that several of the largest global banks moved money on behalf of those involved in criminal financial activity.",
@@ -467,49 +553,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-global-startup-parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning.md",
-      "title": "Global startup Parcel Perform collaborates with Amazon Web Services (AWS) to improve e-commerce delivery experience with machine learning",
-      "excerpt": "Parcel Perform and Amazon Machine Learning Solutions Lab collaborated to build a flexible, scalable solution, combining AWS' expertise in ML and ML services like Amazon SageMaker, with the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanzen.net/nachricht/aktien/global-startup-parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-9317530",
-      "originalUrl": "https://www.finanzen.net/nachricht/aktien/global-startup-parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-9317530",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-21T18:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanzen",
-        "domain": "finanzen.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI",
         "Machine Learning"
       ]
@@ -1332,57 +1375,6 @@
         "Google AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-ai-researchers-devise-failure-detection-method-for-safety-critical-machine-learning.md",
-      "title": "AI researchers devise failure detection method for safety-critical machine learning",
-      "excerpt": "Researchers devised a way to predict the failure rates of safety-critical machine learning systems used in self-driving cars, robotic surgery, and planes.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/15/ai-researchers-devise-failure-detection-method-for-safety-critical-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2020/09/15/ai-researchers-devise-failure-detection-method-for-safety-critical-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/photo-1539109523166-85417acfcdb7.jpeg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/15/ai-researchers-devise-failure-detection-method-for-safety-critical-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/15/ai-researchers-devise-failure-detection-method-for-safety-critical-machine-learning/amp/",
-      "publishedDateTime": "2020-09-15T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

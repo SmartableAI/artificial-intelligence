@@ -57,6 +57,20 @@ related:
         width: 400
         height: 241
         isCached: true
+  - title: "Machine Learning Can Streamline PTSD Diagnosis in Veterans"
+    excerpt: "Using machine learning, researchers were able to cut six of the 20 questions used to diagnose post-traumatic stress disorder (PTSD) while still maintaining accuracy in a veteran population, according to a study published in Assessment."
+    publishedDateTime: 2020-10-01T13:33:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-can-streamline-ptsd-diagnosis-in-veterans"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 54
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-917184638.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "VA Boston and BU researchers streamline PTSD diagnosis with machine learning"
     excerpt: "Now, researchers from the VA Boston Healthcare System and the Boston University School of Public Health (BUSPH) have used machine learning to explore streamlining the ''gold standard'' diagnostic tool for PTSD."
     publishedDateTime: 2020-09-29T04:00:00Z

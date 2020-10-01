@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-09-get-your-hands-dirty-the-many-benefits-of-learning-to-code-as-a-ceo.md",
+      "title": "Get Your Hands Dirty: The Many Benefits Of Learning To Code As A CEO",
+      "excerpt": "This is all open source, so it's freely available. I taught myself using a variety of books and online resources as well as the ML packages SciKit Learn, TensorFlow (an open-source library originally developed by Google) and Keras (a more abstracted deep ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/get-your-hands-dirty-the-many-benefits-of-learning-to-code-as-a-ceo/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/get-your-hands-dirty-the-many-benefits-of-learning-to-code-as-a-ceo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f578a304f5e311ae14b571d%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/get-your-hands-dirty-the-many-benefits-of-learning-to-code-as-a-ceo/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/09/get-your-hands-dirty-the-many-benefits-of-learning-to-code-as-a-ceo/amp/",
+      "publishedDateTime": "2020-09-09T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-09-08-smarter-phones-in-your-hacks-with-tensorflow-lite.md",
       "title": "Smarter Phones In Your Hacks With TensorFlow Lite",
       "excerpt": "If your neural network was written using Google’s TensorFlow framework then you’ve had the option of using TensorFlow Mobile, but it doesn’t use any of the phone’s accelerated hardware ...",
@@ -1395,57 +1447,6 @@
         "AI Ethics",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-24-5-interesting-announcements-from-kubeconcloudnativecon-europe-2020.md",
-      "title": "5 Interesting Announcements From KubeCon+CloudNativeCon Europe 2020",
-      "excerpt": "KubeCon+CloudNativeCon Europe 2020, the largest gathering of the Kubernetes and cloud native community, has gone virtual this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/08/23/5-interesting-announcements-from-kubeconcloudnativecon-europe-2020/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2020/08/23/5-interesting-announcements-from-kubeconcloudnativecon-europe-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4323e7c422e6c8a6411fbc%2F0x0.jpg",
-          "width": 1000,
-          "height": 523,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/08/23/5-interesting-announcements-from-kubeconcloudnativecon-europe-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/08/23/5-interesting-announcements-from-kubeconcloudnativecon-europe-2020/amp/",
-      "publishedDateTime": "2020-08-23T19:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

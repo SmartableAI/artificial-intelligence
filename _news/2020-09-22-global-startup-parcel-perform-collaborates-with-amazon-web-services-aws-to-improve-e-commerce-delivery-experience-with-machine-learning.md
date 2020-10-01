@@ -1,15 +1,17 @@
 ---
 category: news
 title: "Global startup Parcel Perform collaborates with Amazon Web Services (AWS) to improve e-commerce delivery experience with machine learning"
-excerpt: "Parcel Perform and Amazon Machine Learning Solutions Lab collaborated to build a flexible, scalable solution, combining AWS' expertise in ML and ML services like Amazon SageMaker, with the ..."
-publishedDateTime: 2020-09-22T01:59:00Z
-originalUrl: "https://www.finanzen.net/nachricht/aktien/global-startup-parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-9317530"
-webUrl: "https://www.finanzen.net/nachricht/aktien/global-startup-parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-9317530"
+excerpt: "Parcel Perform and Amazon Machine Learning Solutions Lab collaborated to build a flexible, scalable solution, combining AWS' expertise in ML and ML services like Amazon SageMaker, with the specific requirements of the logistics domain to build this unique ..."
+publishedDateTime: 2020-09-22T04:26:00Z
+originalUrl: "https://www.asiaone.com/business/global-startup-parcel-perform-collaborates-amazon-web-services-aws-improve-e-commerce"
+webUrl: "https://www.asiaone.com/business/global-startup-parcel-perform-collaborates-amazon-web-services-aws-improve-e-commerce"
+ampWebUrl: "https://www.asiaone.com/business/global-startup-parcel-perform-collaborates-amazon-web-services-aws-improve-e-commerce?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/global-startup-parcel-perform-collaborates-amazon-web-services-aws-improve-e-commerce?amp"
 type: article
 
 provider:
-  name: Finanzen
-  domain: finanzen.net
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AWS AI
@@ -17,11 +19,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-    width: 600
-    height: 315
+  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Sep2020/pr-newswire_500_4_1272.jpg?itok=_nKPo1GS"
+    width: 763
+    height: 509
     isCached: true
 
-secured: "esVvGQ/n2z9Io1YzOyShh1OMAPZY3bF5ZfbMcStY4h+gBMUMO6RkvInnylCYIezYGzUnoeQ/Gu+MP+CMRY/PHEWA7v46WwQS+dVNhJl75uPzz31ss723F3BW2z4aRS55k49R6KdQ2f6mq6ZOVVIp8aMJj71sjz8cBiV1cdoL+MnLXK9lhaoFsgcrf13Bj2DN68ofFY4oVDYPCVHtysu4Wd1N/6wdufIFxrEmY8KxOwajpD37KXKmQXwxB2U0UxM7TqJDq8uneLaBrLkJhBNVfWXWmyz4ticzDa7sWND/W3zWU4U20FnGDuZSp5rIAYpXx0yH8OLYdRGa3yLnA/B45Izai+52no7ZPbjswZpVV7w=;aBtEygE7kjel0sVcaHPWiA=="
+secured: "K7ylI+s+hMgf1x9HYvrbeq4f0nkP8Q+q4ft1/GTWqJ2dt3eYmCY4Kbyq+BVefVA6yEx32xaezZig0GtfcdKLRz9mWBicFeK3nYLiY99C1NDS1x+Z2KbDV1QZjX/tmfj5+a+V6AZuzTkYZ02bXHNfNdgSagFLRWhYv1gEWVSxVsQt2Tl80XBWKM59ksuffmiUF5KTm5574TTIrr3MaJ9jdP98Sy9cmzUJ4Tm/mXCGeMqfO/B9u3/bbbMPhTgMI1XHQvNAcl+/GRKB2mtUc5npyEcF+CotfkU7K/QPg8c0c4L6kjRYUNUJAanr3NfIm5E+OKCSSPSOsn9pvcfj26+zoxC2gW3de1dvO2ycIbWqPAk=;r6Cfnb2XQJgshGdiOPZKow=="
 ---
 

@@ -2,6 +2,234 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-09-24-how-deep-learning-can-advance-study-of-neural-degeneration.md",
+      "title": "How deep learning can advance study of neural degeneration",
+      "excerpt": "elegans. The tool uses deep learning, a form of AI, and should facilitate and expedite research into neural degeneration. Researchers from North Carolina State University have demonstrated the utility of artificial intelligence (AI) in identifying and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2020/09/200924141616.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2020/09/200924141616.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-23T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-congress-will-try-again-in-2021-on-self-driving-car-reform.md",
+      "title": "Congress will try again in 2021 on self-driving car reform",
+      "excerpt": "The U.S. Congress will try again in 2021 to try to approve long-stalled reforms to speed the adoption of self-driving cars, a key Democratic lawmaker said Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/autos-self-driving-congress/congress-will-try-again-in-2021-on-self-driving-car-reform-idUSL2N2GK18L",
+      "originalUrl": "https://www.reuters.com/article/autos-self-driving-congress/congress-will-try-again-in-2021-on-self-driving-car-reform-idUSL2N2GK18L",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200923&t=2&i=1534629164&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8M1P8",
+          "width": 852,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN26E2RA",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26E2RA",
+      "publishedDateTime": "2020-09-23T13:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-mouser-electronics-new-intelligent-revolution-series-explores-cutting-edge-applications-in-artificial-intelligence.md",
+      "title": "Mouser Electronics’ New Intelligent Revolution Series Explores Cutting-Edge Applications in Artificial Intelligence",
+      "excerpt": "Mouser Electronics announces The Intelligent Revolution, a captivating new series in Mouser’s award-winning Empowering Innovation Together program.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20200923005723/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20200923005723/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200923005723/en/824095/23/PRINT_EIT_IntelligentRevolution_eBook1.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-23T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-baidu-offers-quantum-computing-from-the-cloud.md",
+      "title": "Baidu offers quantum computing from the cloud",
+      "excerpt": "Following its developer conference last week, Baidu today detailed Quantum Leaf, a new cloud quantum computing platform designed for programming, simulating, and executing quantum workloads. It’s aimed at providing a programming environment for quantum infrastructure as a service setups,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/23/baidu-offers-quantum-computing-from-the-cloud/",
+      "originalUrl": "https://venturebeat.com/2020/09/23/baidu-offers-quantum-computing-from-the-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/9e8a9be4-add4-432a-b207-b64b6ad60760-e1590588506627.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/23/baidu-offers-quantum-computing-from-the-cloud/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/23/baidu-offers-quantum-computing-from-the-cloud/amp/",
+      "publishedDateTime": "2020-09-23T12:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure.md",
+      "title": "Jumio Unveils Identity Verification With Biometrics For Microsoft Azure",
+      "excerpt": "California-based Jumio said its artificial intelligence (AI)-fueled identity verification offerings are now available to Microsoft Azure Active Directory External Identities for business-to-consumer (B2C) clients. The technology allows for a biometric and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/",
+      "originalUrl": "https://www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2020/09/identity-verification-artifical-intelligence-457x305.jpg",
+          "width": 457,
+          "height": 305,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/amp/",
+      "publishedDateTime": "2020-09-23T12:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-from-sci-fi-to-everyday-business-welcome-to-the-age-of-the-robot.md",
       "title": "From Sci-Fi To Everyday Business: Welcome To The Age Of The Robot",
       "excerpt": "However, it wasn’t until the more sophisticated use of artificial intelligence (AI) that modern robots acquired more advanced capabilities like navigating unpredictable obstacles and autonomous decision-making. A high-speed cellular connection over 5G ...",
@@ -856,48 +1084,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-23-israels-mobileye-dubais-habtoor-partner-on-self-driving-cars.md",
-      "title": "Israel's Mobileye, Dubai's Habtoor partner on self-driving cars",
-      "excerpt": "JERUSALEM/DUBAI (Reuters) - Israel’s Mobileye and United Arab Emirate’s Al Habtoor Group launched a partnership on Wednesday to create a fleet of self-driving “robotaxis” that could take ...",
-      "sourceUrl": null,
-      "webUrl": "https://ca.reuters.com/article/technologyNews/idCAKCN26E207-OCATC",
-      "originalUrl": "https://ca.reuters.com/article/technologyNews/idCAKCN26E207-OCATC",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCAKCN26E207-OCATC",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKCN26E207-OCATC",
-      "publishedDateTime": "2020-09-23T05:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-23-facebook-illinois-settlement-how-to-get-a-payout-in-650-million-facial-recognition-class-action.md",
       "title": "Facebook Illinois Settlement: How to Get a Payout in $650 Million Facial Recognition Class Action",
       "excerpt": "When the tag feature is enabled, the social network uses face recognition technology to analyze photos and videos it believes a user is in and creates a template. The template is then used to recognize users as they appear in other photos or videos.",
@@ -949,172 +1135,28 @@
       ]
     },
     {
-      "path": "_news/2020-09-23-regina-barzilay-wins-1m-association-for-the-advancement-of-artificial-intelligence-squirrel-ai-award.md",
-      "title": "Regina Barzilay wins $1M Association for the Advancement of Artificial Intelligence Squirrel AI award",
-      "excerpt": "... the Association for the Advancement of Artificial Intelligence (AAAI) — announced today the winner of their new Squirrel AI Award for Artificial Intelligence for the Benefit of Humanity, a $1 million award given to honor individuals whose work in ...",
+      "path": "_news/2020-09-23-israels-mobileye-dubais-habtoor-partner-on-self-driving-cars.md",
+      "title": "Israel's Mobileye, Dubai's Habtoor Partner on Self-Driving Cars",
+      "excerpt": "Israel's Mobileye and United Arab Emirate's Al Habtoor Group launched a partnership on Wednesday to create a fleet of self-driving \"robotaxis\" that could take to the streets of Dubai by the end of 2022.",
       "sourceUrl": null,
-      "webUrl": "https://www.aaai.org/Awards/squirrel-ai-award-call.php",
-      "originalUrl": "https://news.mit.edu/2020/regina-barzilay-wins-aaai-squirrel-ai-award-artificial-intelligence-0923",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aaai.org/Awards/AAAI-Squirrel-AI-Award-for-Artificial-Intelligence-for-the-Benefit-of-Humanity.jpg",
-          "width": 1300,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-23T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-how-artificial-intelligence-can-enable-ethically-driven-investments.md",
-      "title": "How Artificial Intelligence Can Enable Ethically Driven Investments",
-      "excerpt": "Individuals and investment firms are increasingly interested in more than a balance sheet when making investment decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/09/23/how-artificial-intelligence-can-enable-ethically-driven-investments/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/09/23/how-artificial-intelligence-can-enable-ethically-driven-investments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a42c7eeeca94f314ea8ef%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/09/23/how-artificial-intelligence-can-enable-ethically-driven-investments/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/09/23/how-artificial-intelligence-can-enable-ethically-driven-investments/amp/",
-      "publishedDateTime": "2020-09-23T04:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-pnc-acquires-local-pittsburgh-fintech-to-boost-card-marketing.md",
-      "title": "Pnc Acquires Local Pittsburgh Fintech To Boost Card Marketing",
-      "excerpt": "ECB says 'stablecoin' an unstable name; and other information you need to start your day, from PaymentsSource and around the web.",
-      "sourceUrl": null,
-      "webUrl": "https://www.paymentssource.com/news/pnc-acquires-local-pittsburgh-fintech-to-boost-card-marketing",
-      "originalUrl": "https://www.paymentssource.com/news/pnc-acquires-local-pittsburgh-fintech-to-boost-card-marketing",
+      "webUrl": "https://www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-23T03:57:00-07:00",
+      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars?context=amp",
+      "publishedDateTime": "2020-09-23T05:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PaymentsSource",
-        "domain": "paymentssource.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-youtubes-ai-can-automatically-age-restrict-inappropriate-videos.md",
-      "title": "YouTube's AI can automatically age-restrict inappropriate videos",
-      "excerpt": "YouTube already uses machine learning to flag inappropriate content for its Trust and Safety team to review, but moving forward, the company plans to expand the use of the technology. Starting later this year,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/youtube-machine-learning-age-restrictions-212253144.html",
-      "originalUrl": "https://www.engadget.com/youtube-machine-learning-age-restrictions-212253144.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-11%2F877972b0-017b-11ea-add6-088504b9b34b&client=amp-blogside-v2&signature=eae3d42cb0d567481cda43e04db5848af943d41e",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/youtube-machine-learning-age-restrictions-212253144.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/youtube-machine-learning-age-restrictions-212253144.html",
-      "publishedDateTime": "2020-09-23T03:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1130,57 +1172,7 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-14-open-source-tools-to-make-the-most-of-machine-learning.md",
-      "title": "14 open source tools to make the most of machine learning",
-      "excerpt": "Apache Mahout provides a way to build environments for hosting machine learning applications that can be scaled quickly and efficiently to meet demand. Mahout works mainly with another well-known Apache project, Spark, and was originally devised to work ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3575420/14-open-source-tools-to-make-the-most-of-machine-learning.html",
-      "originalUrl": "https://www.infoworld.com/article/3575420/14-open-source-tools-to-make-the-most-of-machine-learning.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2016/08/machine-learning-cloud-ai-artifical-intelligence-3-100678132-large.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3575420/14-open-source-tools-to-make-the-most-of-machine-learning.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3575420/14-open-source-tools-to-make-the-most-of-machine-learning.amp.html",
-      "publishedDateTime": "2020-09-23T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
+        "AI in Autos",
         "AI"
       ]
     }

@@ -40,6 +40,20 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "BUDDI.AI Emerges from Stealth Mode to Transform the Healthcare Revenue Cycle"
+    excerpt: "PR Newswire/ -- BUDDI.AI (f/k/a BUDDIHealth), a leading provider of AI-powered clinical revenue cycle automation solutions"
+    publishedDateTime: 2020-10-01T12:31:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/buddiai-emerges-from-stealth-mode-to-transform-the-healthcare-revenue-cycle-301143543.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 51
+    images:
+      - url: "https://mma.prnewswire.com/media/1294815/BUDDI_Logo.jpg?p=facebook"
+        width: 1458
+        height: 764
+        isCached: true
 
 secured: "foSuMOF6g3kWslpmhRSluIwk3vBavOHgAKdvROfhzJNhIS30toWXRNV4COZTl3SXsI/EoxrfR10bQL8z3b2LzW3VXV9JO5MVCr7ZhIz9c3iKgP/Eb/v2s6X86HADNgUTZ4o40MwQBHEFnsfZsidP+N9J+QN0aemOt9IZjat06qtJxHP//kZBw8VFhRHClTxwVsnG9bSseMyGw34PoxAr5lkLMYGfhbnisAdyR5DwpGpws55/vOVHJrJotS4zgPk2gSPKZGsmmALU+TZMMyOeuV6IsoYDzoohozfGhdJmOu0+1sxg7z2h3V8ZEfI4qlyTaooLiWVD3B00XK9ZTY57oACvBZjdiHu+B8+OTTYfmEQ=;27OjOdBWbSuN+dPV/2Y2QQ=="
 ---
