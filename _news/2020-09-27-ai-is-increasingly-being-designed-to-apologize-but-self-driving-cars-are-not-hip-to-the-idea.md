@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingl
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingly-being-designed-to-apologize-but-self-driving-cars-are-not-hip-to-the-idea/amp/"
 type: article
 quality: 78
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 740
         height: 416
         isCached: true
+  - title: "The self-driving cars of the future aren’t inclusive. They’re trying to change that."
+    excerpt: "By combining artificial intelligence with research that looks into the way people interact with machines and computers, researchers at Northeastern and the University of Maine want to help make self-driving cars even smarter and accessible for people who are visually impaired or blind."
+    publishedDateTime: 2020-09-30T22:02:00Z
+    webUrl: "https://news.northeastern.edu/2020/09/30/the-self-driving-cars-of-the-future-arent-inclusive-theyre-trying-to-change-that/"
+    type: article
+    provider:
+      name: Northeastern University
+      domain: northeastern.edu
+    quality: 0
 
 secured: "54RIKjabhUuP4J43IuQt28a1FzHGh1SMCtp30lYtQCaf8/KH9L/nYsGCvjxuPXjW0yGC8z+WQ+BsuaPCtKmbQoWa08F5eYzLGIjGtJQucEBwox+QbebztGpbAEYV4Zbj6VRcuhbDNC4lhG2aG3gauDwiUoYrLNA6Iv96LxTo+M3C2suGhtua+7zTMqqypS71MLVwr3l5JFeAWWBvDWGJYYAGuhl79wCto/MgoU/kiupef++p5xdkIs9/s6LGG3pwMCjOeT6yoj7TWv01p+XeOfM8ZOQ6qPdZQNpscXCLzqD935OH6rHTOuXrlP1guBETT8PxPM4AeEapKYXtBS8w6wAsZVh6xuLysXIEJN94JcNbc+AqlL+nz2onIQgHcZI7BFE5AMd1ZZRN2sanEmA8gh+JNCSAjVNN5F0VNS2ttvdb7epJn6esKHOvKOTLxlKgS13HyCOg7Yp2U10XH9Go503bR09yK+34K9fK67QyI2xofImwMmIUvI93y/Pj5fDNHeUTQ53KclPx51CRPsRe1A==;AJBKh4NEpAbpTbJDmA3LcQ=="
 ---

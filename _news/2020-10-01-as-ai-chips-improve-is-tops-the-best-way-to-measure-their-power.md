@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2020/09/30/as-ai-chips-improve-is-tops-the-best
 ampWebUrl: "https://venturebeat.com/2020/09/30/as-ai-chips-improve-is-tops-the-best-way-to-measure-their-power/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/30/as-ai-chips-improve-is-tops-the-best-way-to-measure-their-power/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 104
+heat: 114
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/09/5thgenaiengine-e1601490960504.jpg?w=1200&#038;strip=all"
@@ -40,6 +41,6 @@ related:
       domain: sciencedaily.com
     quality: 47
 
-secured: "rS+Gi8DT1Xxrpom1ujIj+vlk0kFot6H4GmBmguVxHaGLSRn6j9Xfqy5tK49ZF+AhzW7O7mZ6j0RaJ1ZJ6Jq6o/ml7/mKINchfAe3yn/GbmifLhNGme/RYozQmQqE1sHYw3D/Ll38OiSh4lK3YOB89hCHUZfEFjsSgKhIHvU8NAt/HdEziL2jG4ry4cCUBkojzevTWTDKX4C1VFEOTteojc+ZbZCmtBhNj8eC1xf+qFLpwGXTsM+H1zc2tUDQVg8jnUfVfm9HhRlLsAn3zTiGD6g6lNTOfDWzo6CIBJJPf0f6lBtEgnftkaz5boDey3K9Bo2EcXLyWfHFkZgpGOg0ZHib0Z7mFUJ9g02UA+AJgLI=;AFPCcbDwU+oNY+FIlDYqww=="
+secured: "cxnl7WfHn5xENV6tIlwMZLG5HL9P0mHSZi/tTiRrfHp/Vrc9FJcKqbMNMQ5mgI4hLq6xrDPAVT8LEfpjgWf9+wUlHOUvWIgj0QVX5BaHV+Qa2ii9mW1kNqTFLVGTjU03X+YkKA/TmYS3dJ82La8LYYLKO3UDr9UqwutUXpb3nTapOMFIHymND2N9AF9J4l7BZznJXS24ji+wI12hUkxZxlBZydJ4Bi2HvunZiqmfMe0KheVz6FNx0URqgUdzjzMMCWguCBrJq38IkkwONJSRKpfAI1DW+asvHB1ze91uRuHK+zO4OLPT2eUybJJhvruc5ujDdeCHS6m1oTRXYxzNOw+LId2NJQB4SYDrMDtSH9XjuUiHsKzbIpzza7QVxG7+k5Ln270BTjiaKqYG4CvGEa3UJYgZl3EiIfGXC4eUzgGwF13NkeJhD7JApi7PjdK7aemV4Qc59KZcJTmCxlM5U2Cf09cs3Ql1182mUH2U2tAHxAo7dTIqNtUUDYsxFBNc3pBXS4BqX45pnik4PlPnCw==;cMEY9IU/c6M2tJ6jcY156g=="
 ---
 

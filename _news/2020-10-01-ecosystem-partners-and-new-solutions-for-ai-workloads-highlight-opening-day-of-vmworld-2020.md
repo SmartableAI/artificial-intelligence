@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-30T19:00:00Z
 originalUrl: "https://siliconangle.com/2020/09/30/ecosystem-partners-and-new-solutions-for-ai-workloads-highlight-opening-day-of-vmworld-2020-vmworld/"
 webUrl: "https://siliconangle.com/2020/09/30/ecosystem-partners-and-new-solutions-for-ai-workloads-highlight-opening-day-of-vmworld-2020-vmworld/"
 type: article
-quality: 29
+quality: 31
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AWS AI
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/VMworld3.jpg"

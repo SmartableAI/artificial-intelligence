@@ -40,6 +40,20 @@ related:
         width: 620
         height: 389
         isCached: true
+  - title: "Vietnam steps up use of AI in health sector"
+    excerpt: "Vietnam’s health care sector is stepping up the use of artificial intelligence (AI) to improve service quality."
+    publishedDateTime: 2020-09-30T23:30:00Z
+    webUrl: "https://vietnamnet.vn/en/society/vietnam-steps-up-use-of-ai-in-health-sector-677609.html"
+    type: article
+    provider:
+      name: Vietnamnet
+      domain: vietnamnet.vn
+    quality: 39
+    images:
+      - url: "https://vnn-res.vgcloud.vn/ResV9/images/vietnamnet-bridge.png"
+        width: 738
+        height: 273
+        isCached: true
 
 secured: "Wzs1qkvnGnUTK9j2TDMCp2p7E/eGMtHgWkbxFEh443RIAS1NZW9usLmzui3BDq7kWsrwRfX4lD2wfVg6qgZDa0X1iVfDvVkuIBR2B1bg4OCCQA1+4Gy1AipEk0u7oe+4mZJwqu3LN1sHePUPnAiulO/fryuewa/PCjF9IQNf4Vcj9IpVmTXN4x3ZdZH5XKnBhbOwpCE3128qhglkzxx7QGJlc6A9txXeB7pdwz+BeWNvDXRmiypc6u+9HXUgTg6xJ4wlyDY9lJP1WABv8BKfrjoUCJlI20HJZzKyXkVdW8oAcO3g9hHqVsZ5GJSgWPUJ7UttmZKRt7u69zie3vZpdiHkKzLw/gwy+imCnFbsUhgO5mJRHF80xtydDUmphpQKbPMfePuGDvElrrb/AoFnAKLleWn8zHkWaF86yObDweEd3rFqxBbNBwLvjgo+PhjGik7gbG5/6w2B54LV0G5dG39IplkDDbpxkbw7XaRi/w1owA4w/Sm6tUzTnCX8QYdofGlhA4gJkPusGJ5kBcMyPQ==;9U2zYrqjVlrtIn6BOzPAaA=="
 ---

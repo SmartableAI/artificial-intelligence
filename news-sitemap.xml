@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.zdnet.com/index.php/category/2381/index.php/article/will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning/</loc>
-    <lastmod>2020-09-30T14:27:00-07:00</lastmod>
+    <loc>https://www.zdnet.com/index.php/category/2184/index.php/article/will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning/</loc>
+    <lastmod>2020-09-30T16:42:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-machine-learning-september-2020-edition/</loc>
+    <lastmod>2020-09-30T16:14:37-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/joemckendrick/2020/09/28/executives-say-technology-will-boost-productivity-but-their-employees-arent-so-sure/</loc>
+    <lastmod>2020-09-30T16:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.cnbc.com/video/2020/09/30/docusign-ceo-on-housing-contracts-launching-ai-powered-analyzer.html</loc>
+    <lastmod>2020-09-30T15:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -271,8 +289,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/il/news-releases/cybermdx-healthcare-security-solution-is-now-available-in-aws-marketplace-301139706.html</loc>
-    <lastmod>2020-09-29T06:03:00-07:00</lastmod>
+    <loc>https://www.prnewswire.com/news-releases/cybermdx-healthcare-security-solution-is-now-available-in-aws-marketplace-301139706.html</loc>
+    <lastmod>2020-09-29T06:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -661,7 +679,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://variety.com/2020/film/festivals/san-sebastian-zinemaldia-startup-challenge-filmchain-1234783626/</loc>
+    <loc>https://variety.com/2020/film/festivals/san-sebastian-zinemaldia-startup-challenge-filmchain-1234783626/#!</loc>
     <lastmod>2020-09-25T07:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

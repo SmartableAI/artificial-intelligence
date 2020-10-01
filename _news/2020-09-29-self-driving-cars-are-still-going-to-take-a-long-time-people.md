@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The self-driving cars of the future aren’t inclusive. They’re trying to change that."
+    excerpt: "By combining artificial intelligence with research that looks into the way people interact with machines and computers, researchers at Northeastern and the University of Maine want to help make self-driving cars even smarter and accessible for people who are visually impaired or blind."
+    publishedDateTime: 2020-09-30T22:02:00Z
+    webUrl: "https://news.northeastern.edu/2020/09/30/the-self-driving-cars-of-the-future-arent-inclusive-theyre-trying-to-change-that/"
+    type: article
+    provider:
+      name: Northeastern University
+      domain: northeastern.edu
+    quality: 0
 
 secured: "D0L329tEXcQ8hypN9ncBo32dJ7OJ1MtLfsr8mUHtYQqZJFW/ez6Uo8F2o7V2Xo8gzZMoaS1GVikI+qR81uOzcMwawhW4hl9Iw2Khtt46SAeUkDiTQVHCDS4W48agpAIifododTZD50HjFllPo7ywOM4YzAB2J/0nNZQGMy6LsA7cKNAymJCYfBkhTkSqo8DFgMre6cqHE6aTxwKYhgGjQp90/UclXqAz7Tld9hcg+Y7afZ4uOx29VQdiKPaaW9eKIRkiDwPiGKcOgvgkSvrOUHd0DwLSbOUMthVTldNNgeQ9VhZiNrl0ZaqZdWpG3Fs9jbzUymPx1jZPSE9te/EGv/qtKSMgxh/o4B3kdqV14RhmZV2slxeFHcGYhfZKas9lRP4lfJXkLLrAb5uQ54JqRW2dcDYyzgjtU0+eLJEFyvCfR9AnxDdDkcjioIknZUnapTUbhmI1AMp7nl1WaJCqxzNS4dm0LhkVTC3qQLeFwKXvvPASXHSKxpe7papwMnXCZMHD/+xkGTNMKrG4AsWD5w==;/sam6DSu3kavXhqUz5HjTw=="
 ---

@@ -49,7 +49,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 29
+    quality: 31
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/VMworld3.jpg"
         width: 987

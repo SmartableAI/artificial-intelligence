@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/09/28/our-goal-shouldnt-be-to-bui
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/28/our-goal-shouldnt-be-to-build-merely-trustworthy-ai/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:
