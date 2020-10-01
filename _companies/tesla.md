@@ -4,7 +4,7 @@ otherNames:
   - "Tesla Motors"
 overview: "Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage. CA-based Tesla is committed to having the best-in-class in safety, performance, and reliability in all Tesla cars. There are currently over 275,000 Model S, Model X and Model 3 vehicles on the road worldwide. To achieve a sustainable energy future, Tesla also created infinitely scalable energy products: Powerwall, Powerpack and Solar Roof. As the world’s only vertically integrated energy company, Tesla continues to innovate, scale and reduce the costs of commercial and grid-scale systems, with the goal of ultimately getting us to 100% renewable energy grids."
 type: "profile"
-heat: 526
+heat: 565
 
 website: https://www.tesla.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 6273983
+  followers: 6274379
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "dcmZIU/G204/UQWXR/9MD/Xz4VQ+x9kz2WB/tirTBwfRtrOi2J1bmpF8JXG3WO9dGlMb9z7HNrDVROyIePrTA7Umzo0B16mC3yBFtXh4wj5/9XdTgSkaX//G/ldxCbvULbcuAyl2545Jvd9EeOzaOd1W7aj5TcDox9tvDqmRgAnMsheRsbxkINLT76tlogqxo6QTP2zB333ldYw6OgNtPpYWeSKka/YcYh0gBl8dKhZkpJLEVsWwcUK7aTRfLOk1Lo3VYs5rS+YonSjfmA+A4V6AMxa8/euqcmbvNNIy/lJp7aqKggX2ZqCXY+f6P/FaQqQGyV68exuk8j/OqeTcPrOyZ7xwkrKbLraQ8SUij6aNi0NVJoiDT4PMyTwSdguPcVLlQxJbryzjPExvRZujd/7eQxBvQQPzC3ctYh0xyxc=;ulFMbk/r6JbvK5qoRTS6vg=="
+secured: "PEmaflAuyObgUsXtqlpaeb9ZLP1dryQIozmpbyRwFUwqlAy6vEI5J9UFxgiYfSsBcg39C3wwuoHo3PMghOEQabKhn+pOh10xYWrtulZrmdfYv0v0rnM/LCBBm1BsaHbBQV0yDVbuwLtdboEF7OQCiC6F0NEF3N92WvlILt9/hLcSUnmVZBVbZ3W5JSDVuO+XXc8f10OFLCWkU6FqLGpQyzso6LNnLblG7XcCAvMdnPRHn7pGRhhnA1jE7kk6UPvgKi36DUqWrhyz97oSDdbBN0rx7hsWoCEULFk/4r5L8og7tg5zv3xAArKtwO8cFgHf4HB/a/QYMw5GQMtdGI3Jhr0MZuzIK5uMQaFXRDSdOYX0xLgkgD1ErxWD9HA4W8WnOzrNd0rTtX1P8Nb9Eg3l5wAi9eQDju+hPxhG1XJ76jU=;IZjTcRhl6VcCN/c24HB4Hg=="
 ---
 
