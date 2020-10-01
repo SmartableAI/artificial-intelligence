@@ -40,6 +40,22 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "IIT Roorkee, TSW to launch PG Certificate programme in Data Science and Machine Learning"
+    excerpt: "Roorkee has partnered with TSW, the Executive Education Division of Times Professional Learning (a part of The Times of India group) and launched a Post Graduate Certificate Programme in Data Science & Machine Learning."
+    publishedDateTime: 2020-10-01T10:10:00Z
+    webUrl: "https://www.thestatesman.com/education/iit-roorkee-tsw-to-launch-pg-certificate-programme-in-data-science-and-machine-learning-1502927206.html"
+    ampWebUrl: "https://www.thestatesman.com/education/iit-roorkee-tsw-to-launch-pg-certificate-programme-in-data-science-and-machine-learning-1502927206.html/amp"
+    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/education/iit-roorkee-tsw-to-launch-pg-certificate-programme-in-data-science-and-machine-learning-1502927206.html/amp"
+    type: article
+    provider:
+      name: The Statesman
+      domain: thestatesman.com
+    quality: 50
+    images:
+      - url: "https://www.thestatesman.com/wp-content/uploads/2020/10/QT-IIT-data-science.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "dykv5H0ZUOUdusnBxWSa/Ystcp6rHT+oBHx8fAsI5eQ2PaKQ9DQO0NOQiwPp9w3bb/rSbB61Ri59rB+1Jv9veBBk5XpSeDDOMAolLxEHjzzedO2wNkEqhDFEWdU8Zu6qraHa3PFDtYr10xQKiAbHpdThaYqlleOiTTiPkuBHRhYfQn4L3Li9ePjhLxqwla7vf71ASoaR6Jd398RNr+40PUsCbtNGgMDv/DIJA6ox9u79xk+kLECVpVDrgNZoQJLfpg6UhnWaHHXABUE1/+SKyWg3/kcMVi1gSfbpidkpmVZQLKh4LitdvfJca1IMzCEGre4yu/rCJiMwcCRgPOgnnzF6VdZUYZ53p/zajFJ9tR+cUwK4n48Oz5E9okBWhVV9Ix+DF11PBYodS3kjjZ35aeBSGhO/jB98s6ej8bArov3ZGy+OS0Tj6LDiZN7UunAYewMdXQrO2tte5fV1Ekw7bcA5V3GrYsEZW5EIWX32821WxYKkRqqwBefHRcekeInovX/k1M8ca9+u3+jaFIIEjg==;uM4A5IuWmkB/5edv2YRI+w=="
 ---

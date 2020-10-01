@@ -2,6 +2,48 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-09-10-homegrown-robotics-upstart-greyorange-scores-100mn-at-a-700mn-valuation.md",
+      "title": "Homegrown robotics upstart GreyOrange scores $100Mn at a $700Mn valuation",
+      "excerpt": "GreyOrange is one of those rare 'Born in India' firms who have made a significant mark in the robotics industry.",
+      "sourceUrl": null,
+      "webUrl": "https://thetechportal.com/2020/09/10/greyorange-robotics-india-funding-100-million/",
+      "originalUrl": "https://thetechportal.com/2020/09/10/greyorange-robotics-india-funding-100-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thetechportal.com/wp-content/uploads/2020/09/grey-orange-robotics-the-tech-portal.jpg",
+          "width": 1920,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thetechportal.com/2020/09/10/greyorange-robotics-india-funding-100-million/?amp",
+      "cdnAmpWebUrl": "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2020/09/10/greyorange-robotics-india-funding-100-million/?amp",
+      "publishedDateTime": "2020-09-10T05:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thetechportal.com",
+        "domain": "thetechportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-10-palmer-luckeys-ghost-4-military-drones-can-swarm-into-an-ai-surveillance-system.md",
       "title": "Palmer Luckey's Ghost 4 military drones can swarm into an AI surveillance system",
       "excerpt": "Palmer Luckey rose to tech fame for inventing the Oculus Rift, a virtual reality headset that helped rekindle interest in the technology. Now he's got a high-tech product to show off: the. Built by Anduril Industries,",
@@ -1094,48 +1136,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-norfolk-va-pd-used-facial-recognition-not-even-officials-knew.md",
-      "title": "Norfolk, Va., PD Used Facial Recognition, Not Even Officials Knew",
-      "excerpt": "The Clearview AI application was piloted by police in the city, but most city leaders and the public had no idea it was being used. The technology has raised concerns among civil rights and privacy advocates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/public-safety/Norfolk-Va-PD-Used-Facial-Recognition-Not-Even-Officials-Knew.html",
-      "originalUrl": "https://www.govtech.com/public-safety/Norfolk-Va-PD-Used-Facial-Recognition-Not-Even-Officials-Knew.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/shutterstock_1139687675+(1).jpg",
-          "width": 1119,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/public-safety/Norfolk-Va-PD-Used-Facial-Recognition-Not-Even-Officials-Knew.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Norfolk-Va-PD-Used-Facial-Recognition-Not-Even-Officials-Knew.html?AMP",
-      "publishedDateTime": "2020-09-09T14:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

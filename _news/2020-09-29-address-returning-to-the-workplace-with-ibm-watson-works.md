@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2020/09/address-returning-to-the-
 webUrl: "https://www.ibm.com/blogs/watson/2020/09/address-returning-to-the-workplace-with-ibm-watson-works/"
 type: article
 quality: 117
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 990
     height: 498
     isCached: true
+
+related:
+  - title: "IBM Watson Assistant Can Help States Deliver Critical Voting Information to Citizens"
+    excerpt: "IBM) has technology to help states use the AI capabilities of Watson to put this critical data and information directly into the hands of voters. With states facing a deluge of information ..."
+    publishedDateTime: 2020-09-26T20:09:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ibm-watson-assistant-can-help-states-deliver-critical-voting-information-to-citizens-301132925.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 32
+    images:
+      - url: "https://mma.prnewswire.com/media/1275883/Watson_Voter_Idaho_2_ID_9894bb8e128a.jpg?p=facebook"
+        width: 5157
+        height: 2699
+        isCached: true
 
 secured: "TeHlsU9uDKDsZfzrUYQ1kNSKnyGJUBsjjCm2A3owd9jsJODEAwZA3rOEoa0PZUhzQSAZQJkRnPu3BAy9dWbh+bqnqJ728tfCKWPNq6kQoae/iBxHvxkRcsmFw+ljkNA4FkMPNY3AaO9i7tR2aFi3IIXiI3ScVdPlAcutGdpptVSeHPFDvD2FDXQXPBoQ+AaCZlWA3tff5nCTNGzjUIwqhA7GiqHJjVTEbf4X6Vr6KNF3RxGK8SEbo5DR3vDcBABBm1ZK7f/VRaca9RBLzqfs4HjjoKRx0Z6YuIqAdls08AOhm7l4aCKiQgmBk0/6Vz7/kqYNxtOv5Z74LtGdbUoorwFFWd565CaOymppXf3rDE4=;JYUMyidEEXvhkH6bm1Iaog=="
 ---

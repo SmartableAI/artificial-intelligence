@@ -43,20 +43,6 @@ related:
         width: 576
         height: 320
         isCached: true
-  - title: "Next Gen Surgical Robotics: Focus on Miniaturized , Autonomous and Teleoperated Surgical Robotics Technologies - ResearchAndMarkets.com"
-    excerpt: "ResearchAndMarkets.com published a new article on \"Surgical Robotics\" Surgical robotics systems are designed and created to reach areas that are difficult or out of reach of a surgeon without making a large incision."
-    publishedDateTime: 2020-09-26T17:08:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200914005391/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 22
-    images:
-      - url: "https://mms.businesswire.com/media/20200914005391/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "6XZzn72mBMVKBfWpbByVKVfEa5nGPuPaSszxoaKLJLNPCgTK10I7K2A/Q6pevhEMRyPAUCRXpKpq/t70B3RfFKYbsSiGc0YD7Clvo+7mwQIgk3+4aVTUvvaodYLTKa9kp0Y/kasIhaPyRdVW/jWn5GZcUMpVHAsZleR0lrV+9PMVw9Y7WnyYOBljiGA83nQRlPfNc3D8ZlGT3LckumfGUTwFr6U5sWtTvpHzHaiyJhm3fFPRHYnywY7/TComJgq8HURcuMB2mHf/1F8ddK7wkpH72hp+ZwzBiSEpzMCfYPRr1SXGhnwn+i3iul9PkYaBF2qbiRsVdUBnEtNMPGsWuQPqNpg6hCAKp+W3Q6PFKdA=;cA5/KwlHVjHvb48gMBtaRA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://yourstory.com/2020/10/10-week-programme-help-founders-ml-sta
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/10/10-week-programme-help-founders-ml-startups-scale/amp"
 type: article
 quality: 75
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "IIT Roorkee, TSW to launch PG Certificate programme in Data Science and Machine Learning"
+    excerpt: "Roorkee has partnered with TSW, the Executive Education Division of Times Professional Learning (a part of The Times of India group) and launched a Post Graduate Certificate Programme in Data Science & Machine Learning."
+    publishedDateTime: 2020-10-01T10:10:00Z
+    webUrl: "https://www.thestatesman.com/education/iit-roorkee-tsw-to-launch-pg-certificate-programme-in-data-science-and-machine-learning-1502927206.html"
+    ampWebUrl: "https://www.thestatesman.com/education/iit-roorkee-tsw-to-launch-pg-certificate-programme-in-data-science-and-machine-learning-1502927206.html/amp"
+    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/education/iit-roorkee-tsw-to-launch-pg-certificate-programme-in-data-science-and-machine-learning-1502927206.html/amp"
+    type: article
+    provider:
+      name: The Statesman
+      domain: thestatesman.com
+    quality: 50
+    images:
+      - url: "https://www.thestatesman.com/wp-content/uploads/2020/10/QT-IIT-data-science.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "USAF adds nine companies to Skyborg artificial intelligence development programme"
     excerpt: "The awards are part of a second phase of the \"Skyborg Prototyping, Experimentation and Autonomy Development\" programme."
     publishedDateTime: 2020-09-30T21:13:00Z

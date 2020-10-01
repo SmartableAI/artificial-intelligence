@@ -33,6 +33,20 @@ related:
         width: 500
         height: 333
         isCached: true
+  - title: "Watch Curly the Curling Robot Beat the Pros at Their Own Game"
+    excerpt: "The sport of curling requires such precision and strategy that it’s sometimes referred to as “chess on ice.” Players push 40-pound stones across frozen sheets, rotating the stones just enough that they “curl,"
+    publishedDateTime: 2020-10-01T02:26:00Z
+    webUrl: "https://southfloridareporter.com/watch-curly-the-curling-robot-beat-the-pros-at-their-own-game/"
+    type: article
+    provider:
+      name: SouthFlorida Reporter
+      domain: southfloridareporter.com
+    quality: 39
+    images:
+      - url: "https://southfloridareporter.s3.amazonaws.com/wp-content/uploads/2020/09/30201518/20180316_113530894_34685.jpg"
+        width: 500
+        height: 333
+        isCached: true
 
 secured: "8aclFTSBl9UMCNm+kmwYsTG3fIqlkpwOpurIpmiu0julgeL+TVi8SooS7BW3vtYSTiyGDfihNuFseAGPnlhBN/zXLRpoHMewVEo7DD43YMuq0WD0YiKO4TQ+2ImRpUnyRNBOVyrnnuojey9Bt9bGW+OzIJt6hcfkuZN4hZ+NiXjFSpiZ/waCyG0QhEIjTFaf07teRgeKma0tfFNkaIUBC6ElORlnZjCsAKTWFlcOYXiriiaRppTqAN+SCA45wI+2UxdFNnvlfaDpT9N8AkYEni9DZnIOP52BP5RTXxD2eYS0e0D0luhyJW2a1T+V33D1yNEahJvZl90e9wmXIzkdNqgIYbC3CJeGFzsQ//r5aj//od4O2kBmCL9TIUm2TsVC+ZyUU/gXv/E+7Qx4c3Pexdk2PHT1OvmNKPeqAlLedxfc6DMKuS2i/1oQRL30Idf0KG7Qv0FGpj1ZadBYlSULwajuhZeOPsqkhSzndpVuC7SM2BerWdGCpGqJwbW0gdm/ZvO2F03BRXgUFzOud7Ohxw==;JYwEuRJtntGgwlE4kZEdAw=="
 ---

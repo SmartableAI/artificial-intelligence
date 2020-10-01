@@ -59,22 +59,6 @@ related:
         width: 375
         height: 211
         isCached: true
-  - title: "Singapore to become first to use facial recognition in national identity scheme"
-    excerpt: "Singapore will be the first country in the world to use facial recognition as part of its national identity scheme. This new technology will"
-    publishedDateTime: 2020-09-26T18:51:00Z
-    webUrl: "https://www.buzz.ie/news/singapore-facial-recognition-in-national-identity-scheme-390534"
-    ampWebUrl: "https://www.buzz.ie/amp/news/singapore-facial-recognition-in-national-identity-scheme-390534"
-    cdnAmpWebUrl: "https://www-buzz-ie.cdn.ampproject.org/c/s/www.buzz.ie/amp/news/singapore-facial-recognition-in-national-identity-scheme-390534"
-    type: article
-    provider:
-      name: buzz.ie
-      domain: buzz.ie
-    quality: 55
-    images:
-      - url: "https://img.resized.co/buzz_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLmJ1enouaWVcXFwvdXBsb2Fkc1xcXC8yMDIwXFxcLzA5XFxcLzI2MTkyMjM2XFxcL1BBLTU1Mzg0OTQ2LTEwMjR4NjgzLmpwZ1wiLFwid2lkdGhcIjo2NDcsXCJoZWlnaHRcIjozNDAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5idXp6LmllXFxcL2lcXFwvbm8taW1hZ2UucG5nXCJ9IiwiaGFzaCI6IjI3NjRmYThhZjlhNWIyOWM5MGI5ZDc1ZmQyYTc4NzY5ZTIxN2I1YjIifQ==/pa-55384946-1024x683.jpg"
-        width: 647
-        height: 340
-        isCached: true
   - title: "Detroit City Council Passes Facial Recognition Contract For DPD"
     excerpt: "A controversial topic was put before the Detroit City Council Tuesday. Members voted on a facial recognition contract that opponents call “flawed technology.” CW50’s Cryss Walker tells us what decision was made."
     publishedDateTime: 2020-09-30T03:24:00Z
