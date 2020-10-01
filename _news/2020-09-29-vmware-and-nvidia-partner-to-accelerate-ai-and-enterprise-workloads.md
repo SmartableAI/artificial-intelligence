@@ -158,6 +158,15 @@ related:
         width: 599
         height: 399
         isCached: true
+  - title: "VMware, Nvidia forge partnership to make AI chips easier for business use"
+    excerpt: "VMware Inc. (VMW) and Nvidia Corp. (NVDA) on Tuesday announced a partnership to make VMware's software for managing data centers work more smoothly with Nvidia's artificial intelligence chips ... there are a whole bunch of AI use-case scenarios,\" VMware ..."
+    publishedDateTime: 2020-09-30T12:29:00Z
+    webUrl: "https://www.morningstar.com/news/marketwatch/20200929584/vmware-nvidia-forge-partnership-to-make-ai-chips-easier-for-business-use"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 33
   - title: "VMware announces Nvidia AI tie-up, Carbon Black-based security solutions"
     excerpt: "VMware (VMW +1.0%) has a slate of announcements coming out of today's VMworld event.VMW is partnering with Nvidia (NASDAQ:NVDA) to make its data center management software work better with AI chips."
     publishedDateTime: 2020-09-29T14:23:00Z

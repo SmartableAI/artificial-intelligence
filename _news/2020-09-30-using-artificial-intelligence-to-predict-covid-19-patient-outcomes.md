@@ -79,6 +79,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "IBM: Covid-19 pushes robots, contactless payment options"
+    excerpt: "Delivery robots, contactless payment, remote work, advanced supply chain operations and telehealth are among the top technology trends to watch in the wake of the coronavirus pandemic, says IBM Thailand."
+    publishedDateTime: 2020-10-01T00:26:00Z
+    webUrl: "https://www.bangkokpost.com/business/1994727/ibm-covid-19-pushes-robots-contactless-payment-options"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 39
+    images:
+      - url: "https://static.bangkokpost.com/media/content/dcx/2020/10/01/3765583_700.jpg"
+        width: 700
+        height: 467
+        isCached: true
   - title: "Olive's AI Workforce to Revolutionize COVID-19 Testing at Tufts Medical Center"
     excerpt: "Olive announced today that it has entered into an agreement to leverage its AI workforce technology to streamline COVID-19 testing operations at Tufts"
     publishedDateTime: 2020-09-29T13:49:00Z

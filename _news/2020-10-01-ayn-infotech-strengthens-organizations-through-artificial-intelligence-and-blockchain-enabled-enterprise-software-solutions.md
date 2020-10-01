@@ -1,28 +1,29 @@
 ---
 category: news
 title: "AYN InfoTech Strengthens Organizations Through Artificial Intelligence And Blockchain Enabled Enterprise Software Solutions"
-excerpt: "According to Martin Fowler, a British software developer, author, and international speaker on software development, \"Enterprise"
-publishedDateTime: 2020-09-30T18:24:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/ayn-infotech-strengthens-organizations-through-artificial-intelligence-and-blockchain-enabled-enterprise-software-solutions-301142234.html"
-webUrl: "https://www.prnewswire.com/news-releases/ayn-infotech-strengthens-organizations-through-artificial-intelligence-and-blockchain-enabled-enterprise-software-solutions-301142234.html"
+excerpt: "AYN InfoTech is one such company that has made a formidable mark for being a leader in Enterprise Software Solutions using Artificial Intelligence and ... A few of their better-known products are: Healthcare & Life science Core Banking Solutions (CBS ..."
+publishedDateTime: 2020-09-30T17:51:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20200930ln42992/ayn-infotech-strengthens-organizations-through-artificial-intelligence-and-blockchain-enabled-enterprise-software-solutions"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20200930ln42992/ayn-infotech-strengthens-organizations-through-artificial-intelligence-and-blockchain-enabled-enterprise-software-solutions"
 type: article
-quality: 26
-heat: 26
+quality: 28
+heat: 28
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1276988/Mr_Yakub_Sheikh_Founder_AYNInfoTech.jpg?p=facebook"
-    width: 600
-    height: 315
+  - url: "https://mma.prnewswire.com/media/1276988/Mr_Yakub_Sheikh_Founder_AYNInfoTech.jpg"
+    width: 400
+    height: 399
     isCached: true
 
-secured: "Cc/pmSA6OOgaMRodKpQECppmIxC3sSe7xGIuWhJaHrJyiv8K3iOvM4jNTSywiA0tfD2jgE0nXk1PpfKRweJSz5cm8IvIqRp5lvoD1TZ9ueDLuBuhOs7HZNVqJtpI0wIU1WoTKmAHKbbcwl3t4Bju3+CR0aHnuQTuB0+M3a80p7w3YqIVbDyb9eqp8LbJL39eljUddZg01boVn+I0Op51qt0vhlafPgVnH2NsmJkRF8iyDF8YCcJisifDX+lyuQAU4IrXT2pky0fP3gRE39/tjiZaapQfiXlMmqENAbyZFT6SVMuUOd3Hn2dQQrlcLIREN/cmShkiq1mhdmL4vnklUzU2BroVvOdro03mduFGiII=;ji6gZxXy4aH+OXOXKskffw=="
+secured: "LGWQLc87eZTJAdntyiiFTF5sfH0ST0IUOem0n0P8DESGqTlycwubqhkWWvN9F4myKXzp2zWcaLXZNCTbBJ1rSkBfMQdXzVjItaVSFupMJRpuUD1MPzbHA/jC9SXLBobEHo5rQBlrgEn8ffCKiodVTx8pGFNrqQ3LClwn+1uvH3UO220M83/jBD3wOeci17eCtdQdFDO38/l4Stv4g2sCsgCOpaCJ6+d0UKYS1U8OD1LgBSxvll2RINKBOXSDJxSGGnlxXQUWIxE2l7l+YgfmPR/hAczVEJN/JFs+srB97spH2bd8u367GZevgE7Gvy8APaVBOciBAOrEpk8HosHHvilawFz9ObnYJB8YrrVdi6s=;+DtDfRUozOCwgxu6/LUsVw=="
 ---
 

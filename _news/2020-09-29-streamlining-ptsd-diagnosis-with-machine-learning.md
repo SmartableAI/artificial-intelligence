@@ -41,6 +41,22 @@ related:
         width: 1920
         height: 1368
         isCached: true
+  - title: "VA Boston and BU researchers use machine learning to streamline the diagnostic tool for PTSD"
+    excerpt: "Post-traumatic stress disorder (PTSD) affects eight million adults in the US, including hundreds of thousands of veterans of the conflicts in Iraq and Afghanistan."
+    publishedDateTime: 2020-10-01T00:33:00Z
+    webUrl: "https://www.news-medical.net/news/20200930/VA-Boston-and-BU-researchers-use-machine-learning-to-streamline-the-diagnostic-tool-for-PTSD.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20200930/VA-Boston-and-BU-researchers-use-machine-learning-to-streamline-the-diagnostic-tool-for-PTSD.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200930/VA-Boston-and-BU-researchers-use-machine-learning-to-streamline-the-diagnostic-tool-for-PTSD.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 63
+    images:
+      - url: "https://www.news-medical.net/image.axd?picture=2016%2f3%2fAbstract_medicine_background-Hilch-1000_f0a8c263e6e04ed18dfcc5ef27c17907-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "VA Boston and BU researchers streamline PTSD diagnosis with machine learning"
     excerpt: "Now, researchers from the VA Boston Healthcare System and the Boston University School of Public Health (BUSPH) have used machine learning to explore streamlining the ''gold standard'' diagnostic tool for PTSD."
     publishedDateTime: 2020-09-29T04:00:00Z

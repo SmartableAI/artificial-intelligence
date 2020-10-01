@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Personalized Learning and Tech Equity Under COVID-19"
-excerpt: "For older students, COVID-19 opens the doors for deep learning that involves solving a complex problem that might encompass economic, health, and social justice challenges. This discussion will address the steps schools need to take to encourage and ..."
-publishedDateTime: 2020-09-30T18:45:00Z
-originalUrl: "https://www.edweek.org/ew/events/summits/personalized-learning-and-tech-equity-under-covid-19.html"
-webUrl: "https://www.edweek.org/ew/events/summits/personalized-learning-and-tech-equity-under-covid-19.html"
+title: "IBM: Covid-19 pushes robots, contactless payment options"
+excerpt: "Delivery robots, contactless payment, remote work, advanced supply chain operations and telehealth are among the top technology trends to watch in the wake of the coronavirus pandemic, says IBM Thailand."
+publishedDateTime: 2020-10-01T00:26:00Z
+originalUrl: "https://www.bangkokpost.com/business/1994727/ibm-covid-19-pushes-robots-contactless-payment-options"
+webUrl: "https://www.bangkokpost.com/business/1994727/ibm-covid-19-pushes-robots-contactless-payment-options"
 type: article
-quality: 4
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Education Week
-  domain: edweek.org
+  name: Bangkok Post
+  domain: bangkokpost.com
 
 topics:
-  - Machine Learning
+  - AI in Robotics
   - AI
+
+images:
+  - url: "https://static.bangkokpost.com/media/content/dcx/2020/10/01/3765583_700.jpg"
+    width: 700
+    height: 467
+    isCached: true
 
 related:
   - title: "Navigating COVID-19 With Conversational AI"
@@ -74,20 +80,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "IBM: Covid-19 pushes robots, contactless payment options"
-    excerpt: "Delivery robots, contactless payment, remote work, advanced supply chain operations and telehealth are among the top technology trends to watch in the wake of the coronavirus pandemic, says IBM Thailand."
-    publishedDateTime: 2020-10-01T00:26:00Z
-    webUrl: "https://www.bangkokpost.com/business/1994727/ibm-covid-19-pushes-robots-contactless-payment-options"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 39
-    images:
-      - url: "https://static.bangkokpost.com/media/content/dcx/2020/10/01/3765583_700.jpg"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Using artificial intelligence to predict Covid-19 patient outcomes"
     excerpt: "Artificial intelligence can do more than recommend a song or suggest what to write in an email. It might even be able to predict outcomes in Covid-19 patients."
     publishedDateTime: 2020-09-30T07:00:00Z
@@ -130,7 +122,16 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Personalized Learning and Tech Equity Under COVID-19"
+    excerpt: "For older students, COVID-19 opens the doors for deep learning that involves solving a complex problem that might encompass economic, health, and social justice challenges. This discussion will address the steps schools need to take to encourage and ..."
+    publishedDateTime: 2020-09-30T18:45:00Z
+    webUrl: "https://www.edweek.org/ew/events/summits/personalized-learning-and-tech-equity-under-covid-19.html"
+    type: article
+    provider:
+      name: Education Week
+      domain: edweek.org
+    quality: 4
 
-secured: "R3bWyHFmlXtKbXS/3Gr1e1vm7/3HrS9tEHGEloAajS2CFxZgQb+HSXtplrlZteuVYYBCsnvb0//2LK/VHlDYaaZbUZWlkywNVSljwcj4MkmL927wOGkIwVnprtlg+vbMdlfoB38KHmxq3V+Gw5IsDGofUlalqo6UFMziKcl2swTseORjYizFBgca7z0uzzBcWYNCkenvvAd2FSYM3dV29HNAlHFy28FS77Hn5jSKjoWoWcc9SdYOgHzNtLtm5jD/XjLnZTmpCWw14ld+b8NK+Qy6oF/aoZ6ACM1wuACTBTKZGRBp1EvtGAETNONRi4q3ECv5LIjSWcvrDCexU95uIKvAFTUUcEfwZ4rE39sY3zE=;qlpKOWG+i7e+95VYxkBgvA=="
+secured: "LXsKeOnNeszw+bvCKQF5ynzqDN1yJFEASy/mSzM/HPe08Kmg37hjvsh/d4zkpTrHW865Va8mYobqmu5LGhrtZIVkAz0XZ2IOncETfbDedz0GCB+acxzUjM8CQKjD6xEjEFr7ViSARv9bTuSECC1VXeTOVZCpUSKFw0P6R5ZAPa/UuQdsw9suTdS7/OpDR9aQ0PsGk9riu4ml2/dM/amPvCaIXeasI2Tcp5LMRdm7+bpozRDNhfBGcnAxIQbWHUlsh7sUKWpmXGWuQK40oNd4v6oHtpuyA835wEQbVWMtjXhdJEKaWAB1u+7Q78vBLI9g5t7ffXxekCkqN7N2VaW9NGYL59V5lPaj7WApxWrCN2w=;OSPM2jtqmqieDv1z92NR+A=="
 ---
 

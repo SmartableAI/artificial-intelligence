@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/will-ai
 ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning/"
 type: article
-quality: 90
-heat: 100
+quality: 92
+heat: 102
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AWS AI
 
 images:
   - url: "https://zdnet4.cbsistatic.com/hub/i/2020/09/29/8d457003-6fff-4124-8566-6fa533c43731/kenny-daniel-algorithmia-2020.png"
@@ -43,6 +44,6 @@ related:
       domain: zdnet.com
     quality: 76
 
-secured: "vZ2VQjvsFd+hrlB523F00OE/9JmyUqiPTAQwf67FWz4yrY7+Eok0iJM/UZTTfGiAehnNxv9pY4lnLqx4yhUQocwAx3yTvAD2elJvqbeBl18U4bLw7fpn2qnRDhsu6iVnLlj5fLVxIoIm+OHMaLccNRMBNZ8UZUZq4JsSGeyJ64m+YbzwRjpaWSF2kCEHGeSLQ+fLtmVeiCOO3yHBdeMvvyWYmmKFDfDrgfhvup1VCzUHwu1m3D0S4pT8jWTVT9VrZVm85Q6ZYulUF6k9uPF0oF6/fWtkldJDrkHxTWJwdRbAlbgsx4v0MwG01wfayzAMvWV/C6o/KAmvkBF42w2X2WlD1V4zOECXP1JxPxOJOPg=;zK3WSiIhZGEo7v8lwhTNHQ=="
+secured: "0za4tfh1IGI3HS943465S2oP4WEX9P0EgCzmfa0BDyNieHFyPuF6J4iKk73i8awepuTnvX8hnZ1thlP+IrPho7/nOpBTlspmJBbnifCAgpKaRKkMMXM2lb7GsmPXq6LkOxZCkEtPVW+jYcWWP3U4wDS6HcMT8Zf+4YHPh3wJZHTrDDkA2Sz+h7tS+1VAVzeCl/ofgrYBVzR7z96XMJwlxw5YDxdhjZ7nUL9/O1S+WlnxM0SnccV2uUPRakCguGsVm7w5trmL+LacGFQ3SB5P9uhkfb9qynTUFDbqqbeufpMsUqLrAkTJegLQ+fwRAkmApE9SE2n2JQdIzjW18QoR0Aspv/3ut4HpLwGTHrlSdbx13BCRvpcNX0nyYQh8GtujZvUbBhHMS9YUC9F4ZTkTnUodZxX/T49MlsAd/jqantND8EzsJVE4oQdmBrwbPnLEFcpA8NdDcgu/f2MsIw3C0cAhGZLr8/0JtcauhaE8USpY6uDg82gZwMUPAvHVJQrheYzgLxiUaKbjfT50BPRPzg==;SVyy9JNLUzcqAEJQ4Qc1JA=="
 ---
 
