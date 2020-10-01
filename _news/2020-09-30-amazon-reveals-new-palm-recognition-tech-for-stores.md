@@ -7,7 +7,7 @@ originalUrl: "https://wwd.com/business-news/technology/amazon-one-palm-recogniti
 webUrl: "https://wwd.com/business-news/technology/amazon-one-palm-recognition-retail-stores-1234612528/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon’s new palm-recognition biometric device lets you pay without touching"
-    excerpt: "As the coronavirus pandemic pushes more retailers to consider contactless payment options, Amazon is hoping to deliver more of what they want with its new Amazon One. The biometric device, which Amazon announced this morning,"
-    publishedDateTime: 2020-09-29T12:21:00Z
-    webUrl: "https://www.fastcompany.com/90557677/amazons-new-palm-recognition-biometric-device-lets-you-pay-without-touching"
+  - title: "How to avoid disasters like Amazon’s Rekognition"
+    excerpt: "One way to avoid disastrous AI systems in the wild might be to build responsible operation into the programs from the start, professor Sergey Levine of U.C. Berkeley told ZDNet. He has a plan to do that."
+    publishedDateTime: 2020-10-01T16:15:00Z
+    webUrl: "https://www.zdnet.com/video/how-to-avoid-disasters-like-amazons-rekognition/"
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 21
+      name: ZDNet
+      domain: zdnet.com
+    quality: 71
     images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/09/p-1-amazonand8217s-new-palm-recognition-biometric-device-lets-you-pay-without-touching.jpg"
-        width: 1280
-        height: 720
+      - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/10/01/12df13b7-db78-4236-b526-0836a495301d/thumbnail/570x322/6308002064d9b6a1ed183d9434012f27/20200923-tiernan-karen-ai.jpg"
+        width: 570
+        height: 322
         isCached: true
 
 secured: "cpLuhissYPMHATv5llgCmm1zsWG84hT2Ydue6Ll3I4qw+94rI3lBhr9A2S5+mJKcJmf27YkBpjfVnqQlrb88n7la7zxnZj68zEgYCUkYw5M+NvNMvWLVGIzckb1L16uLn5+7vy0PncrA/BhSH9cp1ZAxSOCxmE5XG4JdVkm18mz+18hQ9c8+1+H2kZFvCffglAqM8o3w3+jicY7wFP2+Cwb/OCtNlyzHqPDXoWdRZIdQHd9mZc8SsjM4bLTyJO7n6wBXMWCwf6hC0E3tkvWiDpg7MndkgQZJ2BheskBzAnaQYkkr6NXpvX5DYVvzokOkoCoO/D3GeMUYWJuBlGzu7UvpD4g4SdXHXcLF/2EbsiOeYQ48IrQQcyiOZFq15fVar6bC7axWcfJIT5TajNz1pxH2uXQMTTj0kq9Bj1ksrapDHgON5CWOwO6jHr8tmFD+MEnoHLgDdOtlw3a9+JgX5aMa+0npm88gBYFbJBtq75e9nniGxMgi4u+1Y5Iev6wK8LqvN5+q8w3CnCxzW/rJbw==;ZvGFt1gN/M2/XaQsH+7LEg=="

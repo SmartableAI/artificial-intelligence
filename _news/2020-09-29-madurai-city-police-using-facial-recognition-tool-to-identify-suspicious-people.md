@@ -7,7 +7,7 @@ originalUrl: "https://www.medianama.com/2020/09/223-madurai-police-facial-recogn
 webUrl: "https://www.medianama.com/2020/09/223-madurai-police-facial-recognition/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1620
     height: 1080
     isCached: true
-
-related:
-  - title: "Cops use face recognition app to identify criminals"
-    excerpt: "The Madurai city police have introduced a mobile application which helps police officers on vehicle checks to identify criminals at the touch."
-    publishedDateTime: 2020-09-26T23:12:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/madurai/cops-use-face-recognition-app-to-identify-criminals/articleshow/78341811.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/madurai/cops-use-face-recognition-app-to-identify-criminals/amp_articleshow/78341811.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/madurai/cops-use-face-recognition-app-to-identify-criminals/amp_articleshow/78341811.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/photo/msid-47529300/47529300.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "HM8BVfeXF74GDZ0fYJD21lfS5AXKmp3R1l75dAmQ3skmQJT2ooAHQLJJlKSONZNc0k0voG7a8vUMmi5PrKQpA13WSHL6RxEpZcarjb/EbOtf3X06OSUNQNgGhhpnNtM6098/k4F+chpvnB44ZIk5bqDm/Q89R23IwbtozK7bjWBJd5yyvNX1GrMv8YMf5WN+ZSe70jT6Ry/vM2qYzyqgqmkjNDtDK8n7GJ+WOFe+FdxB+IBrdO3qk8eYe59ZVAwiSq51PNSF3swIO98TWg70BpoWTLcoH2wP0FrcHvy5XTUOwSXvrLMiuWavaqEQwO7bmc36+1NUpA3lq3vye27IQ1QubKEn1P1yIE7I1+q1v9c=;u7jn6tI8vgDsyxFxrYF+Bw=="
 ---

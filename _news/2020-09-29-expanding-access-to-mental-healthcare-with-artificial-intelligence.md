@@ -7,7 +7,7 @@ originalUrl: "https://healthitanalytics.com/news/expanding-access-to-mental-heal
 webUrl: "https://healthitanalytics.com/news/expanding-access-to-mental-healthcare-with-artificial-intelligence"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "BUDDI AI Emerges from Stealth Mode to Transform the Healthcare Revenue Cycle"
+    excerpt: "PRNewswire/ -- BUDDI AI ( a.k.a BUDDI Health), a leading provider of AI-powered clinical and revenue cycle automation solutions for healthcare, is proud"
+    publishedDateTime: 2020-10-01T16:10:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/buddiai-emerges-from-stealth-mode-to-transform-the-healthcare-revenue-cycle-301143543.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 51
+    images:
+      - url: "https://mma.prnewswire.com/media/1294815/BUDDI_Logo.jpg?p=facebook"
+        width: 1458
+        height: 764
+        isCached: true
   - title: "BUDDI.AI Emerges from Stealth Mode to Transform the Healthcare Revenue Cycle"
     excerpt: "PR Newswire/ -- BUDDI.AI (f/k/a BUDDIHealth), a leading provider of AI-powered clinical revenue cycle automation solutions for healthcare is proud to announce its emergence from"
     publishedDateTime: 2020-10-01T13:26:00Z

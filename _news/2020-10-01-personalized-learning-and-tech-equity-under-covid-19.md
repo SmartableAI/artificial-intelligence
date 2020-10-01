@@ -88,6 +88,20 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "Artificial Intelligence Simplifies COVID-19 Testing, Workflows"
+    excerpt: "Tufts Medical Center will leverage an artificial intelligence platform to accelerate the COVID-19 testing process."
+    publishedDateTime: 2020-10-01T17:05:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-simplifies-covid-19-testing-workflows"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2017-03-30_health_quality_improvements.jpg"
+        width: 686
+        height: 396
+        isCached: true
   - title: "Using artificial intelligence to predict Covid-19 patient outcomes"
     excerpt: "Artificial intelligence can do more than recommend a song or suggest what to write in an email. It might even be able to predict outcomes in Covid-19 patients."
     publishedDateTime: 2020-09-30T07:00:00Z

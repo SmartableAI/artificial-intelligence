@@ -3,8 +3,8 @@ category: news
 title: "LegalTech Artificial Intelligence Market To Witness A Sizable Expansion of 35.94% CAGR by 2026 – Zion Market Research"
 excerpt: "According to the report, the global legaltech artificial intelligence market was valued at approximately USD 3,245 million in 2018 and is expected to generate around USD 37,858 million by 2026, at a CAGR of around 35."
 publishedDateTime: 2020-10-01T02:40:00Z
-originalUrl: "https://apnews.com/press-release/marketers-media/technology-business-corporate-news-technology-issues-computer-and-data-security-6170fb08a59333afc9d0d5a88c330456"
-webUrl: "https://apnews.com/press-release/marketers-media/technology-business-corporate-news-technology-issues-computer-and-data-security-6170fb08a59333afc9d0d5a88c330456"
+originalUrl: "https://apnews.com/press-release/marketersmedia/technology-business-corporate-news-technology-issues-computer-and-data-security-6170fb08a59333afc9d0d5a88c330456"
+webUrl: "https://apnews.com/press-release/marketersmedia/technology-business-corporate-news-technology-issues-computer-and-data-security-6170fb08a59333afc9d0d5a88c330456"
 type: article
 quality: 14
 heat: -1
@@ -39,6 +39,6 @@ related:
         height: 630
         isCached: true
 
-secured: "WM1BUrCxj7VMDKGh5FPSLfeB77bFpnpmA5WRyPVwA9bKgpkmHaFCtMKzXqzsbwgRCHb66epnu0E2LEzt2zMNP48ipBZ0DLrKHdRR4TzK+4Y4u9qoO+ao8iAhp6qPcjrzYBtqKlNwykMoXBLLR+0TYjmnsZmi0OmeK/8x7ItsCHq6GhybUqIwQVLduOD5cXcxPrcBFU3mZLFKSjER9HcDcfUEiYvYS5fZPLPP138+uqECHUZErIv1kAg78tLBLUGy1S6wHuzcDCIWAAcTyAV9QSSSI7eALBGT3ZhB50jdXdVGSJZcv4JyiY5gDUTocQdHQE3uCNDtOBsNRXDYl5QJ6yijs5sUe2nbjQKNdGMMpMc=;Ce9NGen3gzhJe3+SR8Oxcw=="
+secured: "3xSSQg6+kU9Dd26E+NJ/WGa+OOv8Q5ZAxZOhWFswwXc18WgCC2KpUpnBE9xvroTrmqLDvhN8oM2PZksdhr4LdpqXo/hg30cambycNrSPZe3B3amJq1PKLnTS5XDNjd9swILJB/OlUCm6m36mT5sXAGEje+5FCcaZQKAZzhtMs8A4K5zTm78dCQLPIs2rct2tknVGYLSWEY8GPACPdO36wrNEjoSUtiP7qiQM+LxibKOXV5r7p5nfRsjEd2rk5LlRd+1kQIuhQ0aXzp1qFNuXAiIUu98GCoFleDgj88IsfegMCTvcxKli7vqJEEmiSqHO7TVlVQeEhmfxV661NBwZdamL57A+9qH48l1ZxfmOVhc=;fTHElcKHFC6rt20j81xfIw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.autonews.com/mobility-report/michigan-av-startup-names
 webUrl: "https://www.autonews.com/mobility-report/michigan-av-startup-names-new-ceo"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     height: 600
     isCached: true
 
-secured: "a+CWnw7wkAIHK9zTA9DVyr/Y2DCUq6myaUpGlNquBPxQrZlgxdZXz4SlqT3kMUTLmYckF3Xun41OQBDbyeCcXZQIxUvQZhHBgpllD4yA2ahblsey1l//gKzFhkFxgHBTr+VEhCmuutyhgd+AW2OKO3zwr3Lu5+udRI/K6ve/sbELMYIBpq2eE0ALttCjOLM7SfhGJW42ByA6QaExrhxFVYG0nlM/lCKoJX84n7PlP3K/PG0HXc0JNlXSxbh2aSZRUGl9X52Kefj+L+fJo/ZiVEP49khAGF57r3njlhnWM7eaG4gPYq6QqrhfvM1Lx7imj0fqrOConhmRc+rkpl7TVw5xlD8Lwq5yJdYKfdWsy/0=;qzP6oOm99g2/demTfI/BXw=="
+related:
+  - title: "Mobility veteran joins Ann Arbor’s Refraction AI as new CEO"
+    excerpt: "Mobility industry veteran Luke Schneider has been named as the new chief executive officer of Ann Arbor-based Refraction AI. The tech startup is known for its small REV-1 , delivery robots that scuttle around Tree Town taking food and groceries to community members."
+    publishedDateTime: 2020-10-01T16:30:00Z
+    webUrl: "https://www.clickondetroit.com/all-about-ann-arbor/2020/10/01/mobility-veteran-joins-ann-arbors-refraction-ai-as-new-ceo/"
+    ampWebUrl: "https://www.clickondetroit.com/all-about-ann-arbor/2020/10/01/mobility-veteran-joins-ann-arbors-refraction-ai-as-new-ceo/?outputType=amp"
+    cdnAmpWebUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/all-about-ann-arbor/2020/10/01/mobility-veteran-joins-ann-arbors-refraction-ai-as-new-ceo/?outputType=amp"
+    type: article
+    provider:
+      name: clickondetroit.com
+      domain: clickondetroit.com
+    quality: 59
+    images:
+      - url: "https://www.clickondetroit.com/resizer/_0zbJThsNyjpyxNuCbgQ4A0R-Mo=/1280x720/smart/cloudfront-us-east-1.images.arcpublishing.com/gmg/66NSROKUTJD2BAVY7IHWWGWCWQ.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "eRAm7vgDMVHf51I1p8CzIlAbhShjVORgED3VyCbsXVMrgouhK0Qv8Assnnc+RSWTZ3bbUr0GdgU6iUOIzxguSx5gvGeB9Wn/DtCffdcASuAciaI9TT4M1Jjxo7yyAZyOzAbegymMS6lGOXFWVFmGWstc/Yf6WEW1ftNIeQtcGYurKtMjp1iSQyquaVZQpCpPnGu7RI1XGI8nPree6i/bjA9M95ciOL97c7rXYqhxGmvQFELUTqd7MPjLu8ce20r3osTJYmFH32QOyARaeuXWXvh3MvxsLzcWMkX4yUMpn3meXGjWVyI+3sd+ZMGju5JuNl0FDDrnuBuBbWebbN+u/Q56t/Rg++Y3DByRisg453tQEzotvekTiQY9JhDNwLvybRMSxZStPGef00RWEfCK9mpk1VYRc2fIZJUrpuXcy68jl8SeaEELTmFFIl2fl7JohtWoZaVT/twsDOCOfMstl8sVCAHkiGK+W9ZIo/sYK3fP+v+d4EF0WTtFQe8ePB4LYM3tvFYslY3dYWDMMfO78Q==;MRqM4dVd1pGuEqxGMRsQ3w=="
 ---
 

@@ -26,19 +26,14 @@ topics:
 
 related:
   - title: "AWS Announces General Availability of Amazon Timestream"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Timestream, a new time series database for IoT and operational applications that can scale to process trillions of time series events per day up to 1,"
+    excerpt: "New serverless time series database for IoT and operational applications can scale to process trillions of time series events per day up to 1,000 times faster than relational databases, and at as low as 1/10th the cost Guardian Life,"
     publishedDateTime: 2020-09-30T23:15:00Z
-    webUrl: "https://apnews.com/article/technology-business-amazoncom-inc-corporate-news-building-construction-15b4cac4c728480abae476bdfa6d82af"
+    webUrl: "https://www.morningstar.com/news/business-wire/20200930006011/aws-announces-general-availability-of-amazon-timestream"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 34
   - title: "AWS launches Amazon Timestream, a serverless time series database for IoT and operational applications"
     excerpt: "AWS announced the general availability of Amazon Timestream, a new time series database for IoT and operational applications."
     publishedDateTime: 2020-10-01T08:25:00Z

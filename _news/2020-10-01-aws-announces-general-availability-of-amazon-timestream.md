@@ -1,28 +1,22 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Timestream"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Timestream, a new time series database for IoT and operational applications that can scale to process trillions of time series events per day up to 1,"
+excerpt: "New serverless time series database for IoT and operational applications can scale to process trillions of time series events per day up to 1,000 times faster than relational databases, and at as low as 1/10th the cost Guardian Life,"
 publishedDateTime: 2020-09-30T23:15:00Z
-originalUrl: "https://apnews.com/article/technology-business-amazoncom-inc-corporate-news-building-construction-15b4cac4c728480abae476bdfa6d82af"
-webUrl: "https://apnews.com/article/technology-business-amazoncom-inc-corporate-news-building-construction-15b4cac4c728480abae476bdfa6d82af"
+originalUrl: "https://www.morningstar.com/news/business-wire/20200930006011/aws-announces-general-availability-of-amazon-timestream"
+webUrl: "https://www.morningstar.com/news/business-wire/20200930006011/aws-announces-general-availability-of-amazon-timestream"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Amazon Timestream database is now generally available"
@@ -51,6 +45,6 @@ related:
         height: 511
         isCached: true
 
-secured: "vWhqYjvmcWK01msolZxLcMKSnNVzj60UoYynISYIc4hbiH7urX/0SyqhirxmPGUFNZ2iQMZcTarXnkaNOYO5drT1B8guiQ2jACKBw3jMlRjWSSf3reAWo2mPtoUGva/ibu5pZnDtR48wMyFzMUySC+WbA+hO2z9bjBrvfK8axh4L/fg8rELR+64Vv4ZeSiUL7hK3oZYr/D9GBJCx8Ldt922x8HLRFCkbinikHQB+XB37suqzPW3HwSdsQpsO8ABU+J8lvdw/e0kloR1SXljufUFxtQAnFAvhquBSwX5E7xfw4GIoFvKMs1M3vGBcdMpFADqAQaJSdtgEEghhf6XSWJYSdL2wX34mpve1EreY6bU=;C6OphKi1mNuPKzrAbgXxPw=="
+secured: "7PVWB5ZBtTfBKiFHXXldDbwwj7LGGgHCeCLM2T2cxtzxL4665jdshvuZ6FgQ51nRTPSANrfjQEOYOD9/79L+Ho7UbWGVE7F4yd/IAmJ6x1Dzbi9rO19x7gbLYkX4m/KwxagJc3LmL0EQMbe0DF+dyqP9Zn9RtpYyHW9TRcbb6z78y/mmVWqavCyApeu/JqYX8msSL7H8M9FH6hp+fMo5+IuLDdwocs42gYcm2XRe7aoOKuAD2Cfr2z2sojOpmxRKfPN/ADUoydSJf3emtLDsxhyPQZDRaxe7xvUibyH82JP+DAr+CQPrc1aFr7o0XrL8Si+ixzD7YWZ1Tuwml0ULIOSKFLQmSc8BxXaqXN7pQAs=;VGXz845xKAhQw47O6AeMIw=="
 ---
 
