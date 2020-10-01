@@ -9,7 +9,7 @@ ampWebUrl: "https://m.jpost.com/diaspora/antisemitism/intl-project-combats-onlin
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/diaspora/antisemitism/intl-project-combats-online-antisemitism-through-artificial-intelligence-643886/amp"
 type: article
 quality: 56
-heat: -1
+heat: 56
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 640
     height: 428
     isCached: true
-
-related:
-  - title: "Scientists combat anti-Semitism with artificial intelligence"
-    excerpt: "An international team of scientists said Monday it had joined forces to combat the spread of anti-Semitism online with the help of artificial intelligence. The project Decoding Anti-Semitism includes discourse analysts,"
-    publishedDateTime: 2020-09-27T03:04:00Z
-    webUrl: "https://www.beaumontenterprise.com/news/article/Scientists-combat-anti-Semitism-with-artificial-15584227.php"
-    ampWebUrl: "https://www.beaumontenterprise.com/news/amp/Scientists-combat-anti-Semitism-with-artificial-15584227.php"
-    cdnAmpWebUrl: "https://www-beaumontenterprise-com.cdn.ampproject.org/c/s/www.beaumontenterprise.com/news/amp/Scientists-combat-anti-Semitism-with-artificial-15584227.php"
-    type: article
-    provider:
-      name: The Beaumont Enterprise
-      domain: beaumontenterprise.com
-    quality: 57
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
 
 secured: "z61hb9UUhzeoIKjPc8kxsqB08tC2QsqkBmph4awNgt3yg1pxjq/Kx6rVMuZCLSw1d0LWZP+G/RXUo8GcIfvY5IdeJwg+QSaXxA5vXyOuzDNcOHId+V8HWrG3NZgj/HrU50/QqV3NcDVsgBGKBUO3u+gpqQyt3wglb/D+uxtQTiwSTWqMWvKMIdVkKmmGEnSVsV0BMh9at3v9DumnDcMb27JRr0QAEMBUSqYm/mRDibqXdL1AdUKTt8G6EUKT1AjeWOM1lrc1eV66SfmvYuMW4gf03JFx9Rt1oVfxwC2QFMrJhJvX2uQ/bxTAx07gmQjo0v/oHigGQxgHWdBr8dvbOSFvP7/zlSBlqqJWZ7pGlc4jrvjNFbzoFPLG2ilVLohHZgqhDzU63t2YxaMg11X0Sk0PS/0JUukqM90uAQhQzEhb0N7/jfA2ZGgBDf7EoaOwkCR3v4yC+87AHS3el0pweBXChuQmAutr5TtMmPFQ7V49vnh/xH/5PYPvi9MdNQDRzPbWXE71Y3LJ4g0w1Gqbiw==;IkZL9da9wDhw2rnfZjSKTQ=="
 ---

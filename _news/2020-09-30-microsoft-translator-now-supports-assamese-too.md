@@ -2,22 +2,27 @@
 category: news
 title: "Microsoft Translator now supports Assamese too"
 excerpt: "Microsoft India said on Wednesday that it has added Assamese as the latest Indian language in Microsoft Translator, increasing the number of Indian languages it supports to 12. The Azure-based service will now provide real-time translation and transliteration support for the language."
-publishedDateTime: 2020-09-30T14:41:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Science/20200930/3634598.html"
-webUrl: "https://news.webindia123.com/news/Articles/Science/20200930/3634598.html"
+publishedDateTime: 2020-09-30T11:54:00Z
+originalUrl: "https://menafn.com/1100880896/Microsoft-Translator-now-supports-Assamese-too"
+webUrl: "https://menafn.com/1100880896/Microsoft-Translator-now-supports-Assamese-too"
 type: article
-quality: 21
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Microsoft AI
+  - AI
+
+images:
+  - url: "https://menafn.com/updates/pr/2020-09/30/I_9ee6f788-9image_story.jpg"
+    width: 400
+    height: 300
+    isCached: true
 
 related:
   - title: "5 Microsoft Teams Upgrades That Take It Deeper Into the Workplace"
@@ -258,6 +263,6 @@ related:
         height: 450
         isCached: true
 
-secured: "FWR6ESamn31Xc5IPP+aKvd8tAT03ZsKYgFRJcqd4InzzvPfZYscsXxBLuoIgtT5EWVqwbO/2gO9ZNnBmiQupWkVXkXDfYe0v3V/Lq0GbzDC+fl5XvvED0NEcA+dMp4j2qKRIXaeHCOjR7GV6LNBus2yLluRMKHy9UJRcriPzskUipQWIkBA93rZax2vA4IfStF6ezltiRihR4Iwk08cd+8P+qoiBuQhX8VKezMFa9iTZjZxXjcGO0pV/WNy+QrU8uK126k0ubQhcNtt4uU8qra6Zb/Vp/kCjKQmMTrS9tSc8cb9AR0sqTYLrdApPi8Ww7Y9CdJvqz9X7oUJ78FkdXvYgTZrQbSioeZYWMfcX1C4=;XfsMFxCCr8997FUjvMg0Qw=="
+secured: "cJvhHW9r4e3RPY3CGPQ6RD/CUrFVp7zB9AL3KmueBYxqW3CaV+hX9a5kDMStOnmF8rXripBEtrZ7C9Tq1slW3c8v2GgoKjoR5UynhN9XjWxorrCMkaNFsQTISmtwlCEHBiGRLEfhFM9EOUHFBtlu5Xl3KIZmmXhCaMWzQLiCwWd/ym2xJv6pn/Lg/kG1nrL6T6ZRH5nVcr27bbn+VXkY2sekvdltqJedTSkVv2usbI3OR1bePM5VXglrRiWyU4quA6Udm+WNnHl289I9C4mjAsbNcECWcAguzDY1Z0ovYzWFbpwnQZqOeaA8AD0eSXQvcID48an2h/HBfQ+rtuzJqtxcE8ZzMOr57ku3CVEsXOA=;LaF/3XXz8aupriLZSCplwA=="
 ---
 

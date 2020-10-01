@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Platform Enables Data Analytics for Research"
-    excerpt: "A new data analytics tool uses artificial intelligence to facilitate large-scale, data-driven biomedical research."
-    publishedDateTime: 2020-09-29T13:38:00Z
-    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-platform-enables-data-analytics-for-research"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 37
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/image_%281%29.png"
-        width: 690
-        height: 400
-        isCached: true
   - title: "Viking Analytics and iioote introduce new AI-based product for early detection of black mold"
     excerpt: "Viking Analytics, a Swedish provider of advanced analytics solution for predictive operations, and iioote, an IoT solution provider and"
     publishedDateTime: 2020-09-28T08:31:00Z

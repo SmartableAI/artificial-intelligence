@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/356864"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356864"
 type: article
 quality: 87
-heat: 177
+heat: 167
 published: true
 
 provider:
@@ -124,20 +124,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/bc/1bcafd02-270b-518b-b8f7-346d623f0f45/5f7334f027ff7.image.jpg?resize=400%2C210"
         width: 400
         height: 210
-        isCached: true
-  - title: "COVID-19 Symptom Evaluation App, Built with Watson, Becomes Call for Code Regional Finalist"
-    excerpt: "As the COVID-19 pandemic has continued to spread, doctors and hospitals have been overwhelmed by anxious patients worried about a symptom and unclear on"
-    publishedDateTime: 2020-09-27T04:44:00Z
-    webUrl: "https://www.datanami.com/2020/09/25/covid-19-symptom-evaluation-app-built-with-watson-becomes-call-for-code-regional-finalist/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 29
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/shutterstock_covid_app.jpg"
-        width: 1024
-        height: 768
         isCached: true
   - title: "Personalized Learning and Tech Equity Under COVID-19"
     excerpt: "For older students, COVID-19 opens the doors for deep learning that involves solving a complex problem that might encompass economic, health, and social justice challenges. This discussion will address the steps schools need to take to encourage and ..."

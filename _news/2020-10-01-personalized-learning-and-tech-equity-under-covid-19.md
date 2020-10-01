@@ -130,20 +130,6 @@ related:
         width: 400
         height: 210
         isCached: true
-  - title: "COVID-19 Symptom Evaluation App, Built with Watson, Becomes Call for Code Regional Finalist"
-    excerpt: "As the COVID-19 pandemic has continued to spread, doctors and hospitals have been overwhelmed by anxious patients worried about a symptom and unclear on"
-    publishedDateTime: 2020-09-27T04:44:00Z
-    webUrl: "https://www.datanami.com/2020/09/25/covid-19-symptom-evaluation-app-built-with-watson-becomes-call-for-code-regional-finalist/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 29
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/shutterstock_covid_app.jpg"
-        width: 1024
-        height: 768
-        isCached: true
 
 secured: "R3bWyHFmlXtKbXS/3Gr1e1vm7/3HrS9tEHGEloAajS2CFxZgQb+HSXtplrlZteuVYYBCsnvb0//2LK/VHlDYaaZbUZWlkywNVSljwcj4MkmL927wOGkIwVnprtlg+vbMdlfoB38KHmxq3V+Gw5IsDGofUlalqo6UFMziKcl2swTseORjYizFBgca7z0uzzBcWYNCkenvvAd2FSYM3dV29HNAlHFy28FS77Hn5jSKjoWoWcc9SdYOgHzNtLtm5jD/XjLnZTmpCWw14ld+b8NK+Qy6oF/aoZ6ACM1wuACTBTKZGRBp1EvtGAETNONRi4q3ECv5LIjSWcvrDCexU95uIKvAFTUUcEfwZ4rE39sY3zE=;qlpKOWG+i7e+95VYxkBgvA=="
 ---

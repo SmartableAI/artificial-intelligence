@@ -225,6 +225,20 @@ related:
         width: 1254
         height: 836
         isCached: true
+  - title: "Microsoft Translator now supports Assamese too"
+    excerpt: "Microsoft India said on Wednesday that it has added Assamese as the latest Indian language in Microsoft Translator, increasing the number of Indian languages it supports to 12. The Azure-based service will now provide real-time translation and transliteration support for the language."
+    publishedDateTime: 2020-09-30T11:54:00Z
+    webUrl: "https://menafn.com/1100880896/Microsoft-Translator-now-supports-Assamese-too"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2020-09/30/I_9ee6f788-9image_story.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Microsoft Azure Cloud Ramps for 5G Telecom Service Provider Partners"
     excerpt: "Microsoft Azure for Operators helps partners & telecommunications service providers (TSPs) roll out 5G networks and deliver new cloud-based services, Microsoft says."
     publishedDateTime: 2020-09-29T17:21:00Z
@@ -248,15 +262,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Microsoft Translator now supports Assamese too"
-    excerpt: "Microsoft India said on Wednesday that it has added Assamese as the latest Indian language in Microsoft Translator, increasing the number of Indian languages it supports to 12. The Azure-based service will now provide real-time translation and transliteration support for the language."
-    publishedDateTime: 2020-09-30T14:41:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20200930/3634598.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 21
 
 secured: "56Ct3FaCFOyRQPWWs5Y6/PwmQScfwtcwViekRwEpqOJ2/HGseMZ8DjDwz/6bew8DMZbnkD5zcQrZfvd/EPCTgy6rknxPtmnHZ0PR3MFk6NR2j1WkIQSZq1CpEEae/A5Q5F2Ip51EQ/HOUXkzXFnyCdTFI/feGIYWy8pGo+D94X0MnemWMsPzrQRFZBpD4iQ6sV6heW8VWGVBGaHYqWRgvt9sSLJWaVlr5s4qOEue9OwsKlNnLjMUZ5MZdY9UV+6G6nAjC1YchsvlB/35VqiB3941J2TTrAybevp4ZtNEH0GwhHyl7Gy8F4f3dmJy8iikir0RBs2wUadgqDqEJXfkpnrUb41lR3Vdu1rcUJ6TKpBLT/zi0ItU/sNNYOVsQg1xj1R2BfHOx8dQVCNwTCy0F27+1HdSMGdU7RSnY4ZtLNB1N5g2AHMzhQAPWqtnsaiw3E6Lv+sa+2zKSNnZFx01DDLlly2pMwxSo0B2ogYBooBSTI5poVuiiwLDi4MGkUe/DK4CbsIqI9uynVvoGP/2BA==;RN+Jc6rKRz87x5Qsc33ZMQ=="
 ---

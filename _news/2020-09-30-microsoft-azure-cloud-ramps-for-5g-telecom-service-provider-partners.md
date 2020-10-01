@@ -233,6 +233,20 @@ related:
         width: 1254
         height: 836
         isCached: true
+  - title: "Microsoft Translator now supports Assamese too"
+    excerpt: "Microsoft India said on Wednesday that it has added Assamese as the latest Indian language in Microsoft Translator, increasing the number of Indian languages it supports to 12. The Azure-based service will now provide real-time translation and transliteration support for the language."
+    publishedDateTime: 2020-09-30T11:54:00Z
+    webUrl: "https://menafn.com/1100880896/Microsoft-Translator-now-supports-Assamese-too"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2020-09/30/I_9ee6f788-9image_story.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Andor Health Collaborates with Mentor to Deliver Next Generation, AI-Powered Virtual Experiences with Microsoft Technology"
     excerpt: "Andor Health and Mentor Worldwide LLC have formed a collaboration to provide the aesthetic physician community with the next-generation virtual health experiences to enhance the relationship between a surgeon and their patients."
     publishedDateTime: 2020-09-30T13:30:00Z
@@ -247,15 +261,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Microsoft Translator now supports Assamese too"
-    excerpt: "Microsoft India said on Wednesday that it has added Assamese as the latest Indian language in Microsoft Translator, increasing the number of Indian languages it supports to 12. The Azure-based service will now provide real-time translation and transliteration support for the language."
-    publishedDateTime: 2020-09-30T14:41:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20200930/3634598.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 21
 
 secured: "4SINTlE76bC5bEr2ec/SL3r/gHzG/n19Xhsxie0J8y3hvRStqhZyvTkIPchJPjRexLcajHQBNrRAvNmndEWVffbTy7jERajICMWYMZA7KIK74oqTFvngUfVupJIaL8VXobXno7p0fxTd0+vyKApzv8lDHcqZPZluWCN16/14TN4uvDkI2e5pWgTAe0Pk67TX0PY47QYmZQlehet8C7q+GOACO78FvRKySLb6xYYS77lXPGY6CEw+kLxDw5xcbTF7BCSIg124lBEbBYAHkK9z56vNBTnF2hh950HmNq/LWInJNquhlL+25h07Wlut6R0rwV+K/O28RT7Y9OT6EIwWaI/4csvQi+wJ74RGxJHBLoRyzyeaA9joEzCnFTend94E6+rLHOA10StjwIQg70ZUesFSnM1bOYAqyL7hHhcWMOVTkd/GohUA+2i6MKK/jwQ+A9HOS3U06wFMsIhFCtoygCZkUzCzWlNm7H7lR03kjRAHjjeOpz3LbqT2tU3rB3lFhyxTEfMIKS2tNDpYBsys8A==;Y528VkbypUd+XpWocrbcZQ=="
 ---

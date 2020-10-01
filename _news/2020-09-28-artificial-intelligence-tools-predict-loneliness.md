@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Artificial Intelligence Helps Predict Loneliness"
-    excerpt: "In older adults, the use of artificial intelligence and natural language patterns (NLP) help discern degrees of loneliness, revealed research."
-    publishedDateTime: 2020-09-27T04:03:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-helps-predict-loneliness-197784-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-helps-predict-loneliness-197784-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-predict-loneliness-197784-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 59
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/cataract-increases-risk-of-depression-in-older-adults.jpg"
-        width: 1200
-        height: 1000
-        isCached: true
 
 secured: "WtOF1v2m0L5GVZLJLt24ugMj39ZHR2vOnAHoHDzA1BBdjDBopcqW29bEssq8ynp9ABHA17qEG1Moujp68vYZf1TYNji2XaKACpI5XH8Hs0M6FOwe50NIpfZTobXAzkVBuOvIApi8bkt16E89uwa8IsOnWC6BENtEYCFQHE4ssxH+TOvcCx82+MTC3pN119YWAglVW3VB+T4sgUylE7i04EZJuSMQbSHMyFyG4+dC/6ZGqHYOApqtirSaLAcuW1k7km9whKIBn8AGe4Y8egup3LEP2AwJpDdQlv7G3sii3aOf/X/HRfuu4HgKYabhRTHQ0+L258UIH69S9JxW6jpNxYNNgxM4xUeA3O3KF2CKpwd5DwVuz6nfrXJDNruHPb8kTrt02DKTUq53wgzugUEQQma8u9bm8gVsEJIoU03HsKOqj8Nv/Ltp1wPJOCPNhPtk2IR3s92e5hXu3zieQEkqnnJeA+qSQseYH83ULVZY3rbnkT0jrhuCmtX6Cwt1Nfrg3wydHt1In+8BizF+zNCHRQ==;Oi46RyKg3UjO9a0CshGdtQ=="
 ---
