@@ -40,6 +40,6 @@ related:
       domain: zdnet.com
     quality: 60
 
-secured: "RLhtm+teuziW8ApBG/J6YHuf+ABzIbbOTkBEppwccHTXi9WHVtVqgQRoVAqGyn6MYrLGJTf2y25jwBHW7Q3TOQ3OOF26zl6iAi1soz6ePrdDB2MW5TBHRTeb7fqT7E8WUr67shv75dZYDxLw88cJWBzUnyXxn3Of85dYnsHMTbN5vNbeaF3vJfI3iiR817ie43WPS32pHCjRAUGtcqlGPjj97BQccsemTfjLuONpPgoYjCH0gc9jEqiReZ744v2I2iJ6YwU/+8u3WdWuf+gg2wwrBjwxTRbnkf/MHFypvFchWvM1/7+dVuuAk2xZjfr2ifvwSJiCyi0i5sG1XUHUO0JaV3SqE+dPgUlq6w/CG/c=;4kePnulJoucIDuaxa9eDAQ=="
+secured: "UkMTPbMmATLi9sH2sUUzdKEp/p/uwAEWs8YYaR26X/kZSwbVRVZgUQxnZMJ6+Vub/aw5JAomxRLU3q3/2iopufW79GbOs6IyDCkxYWKBi+fLIUmnNHYZUia0n236clgOgXW87Cw15RhjP0L1hvcnR5rPuv7RUazNvy2ELGXmccn4Qvw4nI8jsP8SkSFzgLjfOik+bxzCSdX00pNKC6QVyj+uytKIPjA40ouk7es6ffaI5NQKLnHDUT01P+wkdzbHJ/MGiq2o0ID3G4eG7z9TMokxM6P5oWSFR/LwyRF5aiGScA7h8SAvY+nJhZhwqifbr4hRJasAMbj2BbBxQSmJYtHtFoUEfsSyTX1/6ILO80M=;u+lbyYfFerteQLkW4bOfBw=="
 ---
 
