@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/automotive-artificial-in
 webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-analysis-growth-opportunities-2020-09-30"
 type: article
 quality: 78
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 52
+  - title: "Artificial Intelligence in Manufacturing Market Size, Future Scope, Growth Analysis and Forecast Report by 2027 with Top Companies"
+    excerpt: "Global Artificial Intelligence in Manufacturing Market was valued at USD 966.67 million in 2019 which is expected to reach USD 22880.45 million by 2027 at CAGR 50.32%. Latest published report on the Artificial Intelligence in Manufacturing market,"
+    publishedDateTime: 2020-10-01T02:21:00Z
+    webUrl: "https://ipsnews.net/business/2020/10/01/artificial-intelligence-in-manufacturing-market-size-future-scope-growth-analysis-and-forecast-report-by-2027-with-top-companies/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 0
 
 secured: "sFvmghpMfQo1Q30LXg6Y6RCTdZow0b0j5Yjaw1jINztIIugm29BCE17l84yvHqMo+2RhxrOnhRegWVVH4kDS/9KaTxPtTqoWIMUEFBFo4gGS7G+6uno2kA3K/rNwMfG4i+K6LdWDUhvc8cpmKog6jH7oLGn0MYFkEsIv8wQc27bUyP6KHlTmy4/ZV0Dd3T6jXFiZGYc+TAHW1qeXmcKQUDOwgKenkvHpyv/wiyYsBZ6gBMZG0NPkL5BsS/SCt+QI5Sh0LIXwHbSR0rbmDYvs2Ey4r54NtZpe5CrsvqRwa7PQGI3FWp8CTcgu49CVBEwncJAuYZPm7JKEh6YKvdmK1MwMzN+PYSNQlpfw70xvnTE=;a825Z8MPmdLLv5fMGfEHwQ=="
 ---

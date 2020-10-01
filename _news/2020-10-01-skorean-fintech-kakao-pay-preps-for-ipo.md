@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Treasury Tech Finds A Home In Bank-FinTech Collaboration"
-excerpt: "FinTech collaborations focus on corporate treasury management technology, while Italy readies for its largest open banking platform."
-publishedDateTime: 2020-09-27T22:02:00Z
-originalUrl: "https://www.pymnts.com/news/b2b-payments/2020/open-banking-fintech-treasury-management/"
-webUrl: "https://www.pymnts.com/news/b2b-payments/2020/open-banking-fintech-treasury-management/"
-ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2020/open-banking-fintech-treasury-management/amp/"
-cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2020/open-banking-fintech-treasury-management/amp/"
+title: "S.Korean FinTech Kakao Pay Preps For IPO"
+excerpt: "Kakao Pay is set to be the first South Korean FinTech working with mobile payments to undertake an IPO. The company is likely to be valued at $8.5 billion."
+publishedDateTime: 2020-10-01T03:18:00Z
+originalUrl: "https://www.pymnts.com/news/ipo/2020/south-korean-fintech-kakao-pay-preps-ipo/"
+webUrl: "https://www.pymnts.com/news/ipo/2020/south-korean-fintech-kakao-pay-preps-ipo/"
+ampWebUrl: "https://www.pymnts.com/news/ipo/2020/south-korean-fintech-kakao-pay-preps-ipo/amp/"
+cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2020/south-korean-fintech-kakao-pay-preps-ipo/amp/"
 type: article
-quality: 59
+quality: 44
 heat: -1
 published: false
 
@@ -21,9 +21,9 @@ topics:
   - AI
 
 images:
-  - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/09/open-banking-fintech-treasury-management-457x305.jpg"
+  - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/09/IPO-2-457x297.jpg"
     width: 457
-    height: 305
+    height: 297
     isCached: true
 
 related:
@@ -59,21 +59,21 @@ related:
         width: 1199
         height: 675
         isCached: true
-  - title: "S.Korean FinTech Kakao Pay Preps For IPO"
-    excerpt: "Kakao Pay is set to be the first South Korean FinTech working with mobile payments to undertake an IPO. The company is likely to be valued at $8.5 billion."
-    publishedDateTime: 2020-10-01T03:18:00Z
-    webUrl: "https://www.pymnts.com/news/ipo/2020/south-korean-fintech-kakao-pay-preps-ipo/"
-    ampWebUrl: "https://www.pymnts.com/news/ipo/2020/south-korean-fintech-kakao-pay-preps-ipo/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2020/south-korean-fintech-kakao-pay-preps-ipo/amp/"
+  - title: "Treasury Tech Finds A Home In Bank-FinTech Collaboration"
+    excerpt: "FinTech collaborations focus on corporate treasury management technology, while Italy readies for its largest open banking platform."
+    publishedDateTime: 2020-09-27T22:02:00Z
+    webUrl: "https://www.pymnts.com/news/b2b-payments/2020/open-banking-fintech-treasury-management/"
+    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2020/open-banking-fintech-treasury-management/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2020/open-banking-fintech-treasury-management/amp/"
     type: article
     provider:
       name: pymnts.com
       domain: pymnts.com
-    quality: 44
+    quality: 59
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/09/IPO-2-457x297.jpg"
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/09/open-banking-fintech-treasury-management-457x305.jpg"
         width: 457
-        height: 297
+        height: 305
         isCached: true
   - title: "Australian Fintech WeMoney Secures $2 Million in Seed Funding to Launch Financial Wellness Platform"
     excerpt: "Dan Jovevski, a Fintech professional and former banker at National Australia Bank (NAB), has reportedly helped his company, WeMoney, with securing $2 million in capital in order to provide a service that helps young consumers with making better financial decisions."
@@ -157,6 +157,6 @@ related:
       domain: finextra.com
     quality: 4
 
-secured: "L3T7YkRj2DXvkQtn2F76e/I2z6rpKWHKyws56Rlf+VJ7CTdn3K2VQEBDl0hm92pySrqU6a6T42z9XPJE96lmnuiahL+Ba4Csrc7iPjqunDp3och3RAK+RcKMDn/MiSubg0EfW0B/4hHzigzn3vnEirO+6NFtwwAIhf+Fe+LwrqNDgLu/g1XraekOgEekuG9Xiht1+ryfh3S96eYfdDdnpKjlIvF54MoMoHWsubHrVNP5T5VZ/DybsP916ca8fWdhuO7j3SfpzYrvdmwdLMRJ22+fftp6jn7JA6BfK55StxJc6yMN3eM6BgNNtfpx6tG0f5HwVT75eMSyEhgPcGOp/dnnUkeLEg4AtNzBZhgyJKiuZkMziGm9Y4XFdaSs6ODr3/f30UydcmHsmG1vu2yqpswT/d9fvO9aegWbV//3SUhkCrN2rnHw1fpuoj+Y6V/PgRYBjeFfSKANDk2B3rWQQgcMRZJFmw6J6q13qyI0h7EwBIaqk1f9MNKkHANyai6RyB/U4Vi+ks3DOW5gJVJP0g==;oRMW67yo8zvyRubcTUvrFQ=="
+secured: "pKvjb6K5847YKLtJyVssIG0TPOJWm7bW8MaiEc89OWfGG12OlFVX4Na4O9xlbc1JY4OvB2r5FVoPvnZUyvgxrmB8Y0G4e8HwElTYwtrhB0YwIEiPterCToo/hBo6+u9t7z4YKMChIPOpwk7QEUJZEzIyd5tC7hToVRrGnZXMXTAuOxNtVwWU+h/60Q8AtUpYaVLvKcD1qwTc1avDfnaUlHyB3bduIB86bivFi+zeDOGMeP8JAJnxL3VyltRiL92y1/6BKRiUQlWp2S7VXgxNyg0rpD0Uzs1KXnzApvHzbaYq61+0QpSmz0GEFyNCAokSJUcrU+3ePM3HegwUOEbcazkLZvBDHQ8oHHdJzVbEilU=;o7rhM+dugZz8XVqqeimSbg=="
 ---
 

@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Superwise.ai named a Cool Vendor by Gartner"
-excerpt: "The solution integrates seamlessly, using API and SDKs, and is platform agnostic, supporting any ML platform, - i.e.: AWS SageMaker, Kubeflow, Azure ML, DataRobot, or custom implementations. Gartner subscribers can view the report here. Gartner does ..."
-publishedDateTime: 2020-09-30T16:12:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/superwiseai-named-a-cool-vendor-by-gartner-301142125.html"
-webUrl: "https://www.prnewswire.com/news-releases/superwiseai-named-a-cool-vendor-by-gartner-301142125.html"
+excerpt: "Superwise.ai, a pioneer of AI assurance and monitoring solutions, today announced that it has been recognized in the Cool Vendors in Enterprise AI Governance by Gartner 1. The report includes the following recommendation: \"Build trust in AI solutions by applying an explainable AI (XAI) approach to holistically address aspects of AI models such as trust,"
+publishedDateTime: 2020-09-30T16:30:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/superwise-ai-named-a-cool-vendor-by-gartner-1029636628"
+webUrl: "https://markets.businessinsider.com/news/stocks/superwise-ai-named-a-cool-vendor-by-gartner-1029636628"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/superwise-ai-named-a-cool-vendor-by-gartner-1029636628"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/superwise-ai-named-a-cool-vendor-by-gartner-1029636628"
 type: article
-quality: 19
-heat: 19
+quality: 69
+heat: 69
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AWS AI
+  - Microsoft AI
   - AI
 
-secured: "JSzjdNqgt3aoVafn29mLT8Zj3ObAyG8hXz1eXmGn85voUzSbH1zKrSlq9BmM6YrMdPshc3Dx2gyO0UC1yMy4IQBXM5lRGPleJg1Jnx7Zi2scXFG43tolDskLOnr09MOgrEqskGyixPHFkVeu74FtiU5U3cZgwh/oiEWOy294lkWedg3lRh4QouxzZTVlRExNkOzuMhT8Lsj2lK3z21QOaB61t+xmOLWVY4Ef9KOAd5/yBFvJaqA3HzXlqhoHcApVa62+KrKtdVZ/dkIagt997yGdh/bY1yjMipL42IIaegwhFGmugLGNXl12ZpLZPlijFNjXoqLySbdcIx+VJbxE7cZh7+8VT9Mg902wxDqF14Q=;5U3zwMxCPOkKJlQdeF2jvQ=="
+secured: "YKnDZIRJe+vqY0Q9b8Qg4Q8EhAYtaj/oqPVcosUgewTlwrox1rCuWtNbZ6LhxgDCfvrm4ersgYwLxvvZwhZyFuxNAzbLNULOno5Sv4Pkp/VlCTDZ6YISfCzy7wpgMZKick/haeCdLCPjIPUmOmDVdPUt7rRJkI2+X4Wbol99BPo3TrBxozTly/+UELwgtYHCcgw/W8JaS6Bn/c/kidJ5mnl3u736cs9f3/BlRGWgFILZGj1gJOv9cSNbptS5/ms3Z/557KzZ0GkjPKPfc09DcYheORjiI5Y/RLP3GbWMtotjqFQ/8BgpbJIE83Rhx8AzGlSH4o8MxSukj6gBQQouv+oCSyA6P35R+E3YpoZE7fs=;Q9nOwib9k58YB4JOfevF+Q=="
 ---
 

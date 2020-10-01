@@ -75,6 +75,22 @@ related:
         width: 457
         height: 305
         isCached: true
+  - title: "S.Korean FinTech Kakao Pay Preps For IPO"
+    excerpt: "Kakao Pay is set to be the first South Korean FinTech working with mobile payments to undertake an IPO. The company is likely to be valued at $8.5 billion."
+    publishedDateTime: 2020-10-01T03:18:00Z
+    webUrl: "https://www.pymnts.com/news/ipo/2020/south-korean-fintech-kakao-pay-preps-ipo/"
+    ampWebUrl: "https://www.pymnts.com/news/ipo/2020/south-korean-fintech-kakao-pay-preps-ipo/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2020/south-korean-fintech-kakao-pay-preps-ipo/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/09/IPO-2-457x297.jpg"
+        width: 457
+        height: 297
+        isCached: true
   - title: "Fintech scores capital to help Millennials save money"
     excerpt: "A former NAB banker has raised $2 million to build WeMoney, an app he says will help prevent users from running into financial difficulty."
     publishedDateTime: 2020-09-28T01:31:00Z

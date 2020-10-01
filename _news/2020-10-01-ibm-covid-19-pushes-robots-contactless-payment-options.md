@@ -2,9 +2,9 @@
 category: news
 title: "IBM: Covid-19 pushes robots, contactless payment options"
 excerpt: "Delivery robots, contactless payment, remote work, advanced supply chain operations and telehealth are among the top technology trends to watch in the wake of the coronavirus pandemic, says IBM Thailand."
-publishedDateTime: 2020-10-01T00:26:00Z
-originalUrl: "https://www.bangkokpost.com/business/1994727/ibm-covid-19-pushes-robots-contactless-payment-options"
-webUrl: "https://www.bangkokpost.com/business/1994727/ibm-covid-19-pushes-robots-contactless-payment-options"
+publishedDateTime: 2020-10-01T02:45:00Z
+originalUrl: "https://www.bangkokpost.com/tech/1994727/ibm-covid-19-pushes-robots-contactless-payment-options"
+webUrl: "https://www.bangkokpost.com/tech/1994727/ibm-covid-19-pushes-robots-contactless-payment-options"
 type: article
 quality: 39
 heat: -1
@@ -132,6 +132,6 @@ related:
       domain: edweek.org
     quality: 4
 
-secured: "LXsKeOnNeszw+bvCKQF5ynzqDN1yJFEASy/mSzM/HPe08Kmg37hjvsh/d4zkpTrHW865Va8mYobqmu5LGhrtZIVkAz0XZ2IOncETfbDedz0GCB+acxzUjM8CQKjD6xEjEFr7ViSARv9bTuSECC1VXeTOVZCpUSKFw0P6R5ZAPa/UuQdsw9suTdS7/OpDR9aQ0PsGk9riu4ml2/dM/amPvCaIXeasI2Tcp5LMRdm7+bpozRDNhfBGcnAxIQbWHUlsh7sUKWpmXGWuQK40oNd4v6oHtpuyA835wEQbVWMtjXhdJEKaWAB1u+7Q78vBLI9g5t7ffXxekCkqN7N2VaW9NGYL59V5lPaj7WApxWrCN2w=;OSPM2jtqmqieDv1z92NR+A=="
+secured: "/dun20ZEx0fx8hdnOgZXCOp7gZz28xhTgPV3f3lJ7z7039r39dqamEkVAoN7/7Ick6Wv7Ihd+IzFvlM17SPCGHJo7p7gEyBgudrr6kUDTPWGW35RLM2mhhZxoacpr60yO4heNK8xzv4f1zPDXKgUkRs5C9RFRRcq5oCNYsok1lKCGh8gZtnT8AyzqkEwtWzjeg1kzxRS3WAQxUo++qqBKlO9vFq04ZnTF7HJT19gneK2S6jEDc/ZjA85ufoexzMt71BbHSLFczmOz+BBZIs5fqsvO87XW++VMGq5QXKU4qvIUH3FpuiQcltn9jzqLQH10uNJygrI9910+chUjJj4EQY7CnQXBYC36PsOS9oeTg0=;djJS84WpJIjLWwYuQ9zDWQ=="
 ---
 

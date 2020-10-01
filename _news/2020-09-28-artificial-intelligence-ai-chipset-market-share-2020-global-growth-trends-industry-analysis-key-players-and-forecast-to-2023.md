@@ -54,6 +54,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 52
+  - title: "Artificial Intelligence in Manufacturing Market Size, Future Scope, Growth Analysis and Forecast Report by 2027 with Top Companies"
+    excerpt: "Global Artificial Intelligence in Manufacturing Market was valued at USD 966.67 million in 2019 which is expected to reach USD 22880.45 million by 2027 at CAGR 50.32%. Latest published report on the Artificial Intelligence in Manufacturing market,"
+    publishedDateTime: 2020-10-01T02:21:00Z
+    webUrl: "https://ipsnews.net/business/2020/10/01/artificial-intelligence-in-manufacturing-market-size-future-scope-growth-analysis-and-forecast-report-by-2027-with-top-companies/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 0
 
 secured: "GJ5HAXhM+JnLW4cyVuH8DOwqjgNJjV4ig/82E+zmsgIHlz62Sjhb7UmVnljAH0kjxLR13tll8XHGPo6h/OAJ06uUGHSa3QVo8tGIvYVlyNV14iuBEOFP/I1DX1Rcx+dapiHQtTupmFiRmec4uLUbhJUuzRfRYu84IKBGLWT+dor5yESK8c7WJlVBL7G4nwPSoMvk+KNT4JqznWAh4YoS0XCws/+K0Yc24xnTtlZOY5nirc+jZxNQLMw31ulHh67IhNkBAzXSdWPrvyZVYGijvecquVenOk+j3cGZsrLrqD6XAQZZbI5H8hAHSLH8J25CiNC6SJ6Hv8V/zWxonKvQm4nPj9eqJy+6ln9AIOwyHkQ=;QuNwWYJ+GLQ1ZNJHdEVRwQ=="
 ---

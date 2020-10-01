@@ -3,10 +3,10 @@ category: news
 title: "AI in Social Media Market Size, Share, Growth, Trends, Scope and Forecast 2020 to 2030"
 excerpt: "A new study on the global AI in Social Media Market has been published by Insight Slice. It presents a wealth of information on key market dynamics, including the drivers, market trends, and challenges,"
 publishedDateTime: 2020-09-28T07:14:00Z
-originalUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-size-share-growth-trends-scope-and-forecast-2020-to-2030-2020-09-28"
-webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-size-share-growth-trends-scope-and-forecast-2020-to-2030-2020-09-28"
+originalUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-size-share-growth-trends-scope-and-forecast-2020-to-2030-2020-09-28?mod=mw_quote_news"
+webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-size-share-growth-trends-scope-and-forecast-2020-to-2030-2020-09-28?mod=mw_quote_news"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
       height: 50
 
 topics:
+  - Facebook AI
   - AI
 
 images:
@@ -78,7 +79,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -199,6 +200,6 @@ related:
         height: 300
         isCached: true
 
-secured: "5iXU9fize8Tv1GI2H+dzEPggSrmuJJIdlvceFJ4mi3dFfRWAwcO5IKvao490CaLzFSCtylaniXEpcYilclk8RPILLzx0bNtuiKYLtf+LUsSuz5wbrcTy/L0rgIOhIQtr1enEnTcqtOgeHnofiJzij9adr5UxsFU5ygHU+H13u/u/HtF3QWa+neg9USZrOPBapGNf0wiJXP+cBNBybMGiK8Y1lT7Sg8jV0F94NeuiUnyLU3NzLhNP2cNCUlTKAsDP76pwX7t574cWhtqU6BzTjzDSeZItQLRu2mnMLAuF/ZuO2Fd0ua5FmwOZj7af5IkSZ5s8FzLeJPTB9P4iyod1CbSMj6QofCFU0jNcoM6Vq7Q=;f0XueZgEQH6muih+mzzqjQ=="
+secured: "u0XYVqrbiKYhXcwWhVcjKH7iZswaGKHWwgilCMU8vuQqlVpKiz9yGHftCKi+47Ct0p6vj+L9dBWIRXj9+1GRTx81vA3Q+TdyYw2CpI+Rx7zBZPyaWXJsuBdKRbqP/QesFfHxcXxCv5V5vzO38qtTVWuyX5STRoEL2U++iuL8RJUjkitGRbvxJsV26Ksmzb4vtpMoREUbiF+d7qQCy1+ru44hnJnItK+3RSsdmdlEoRxv0tESJ8ggGIexNVazsvGAoGEDN751NOP/5EiZOf/FR148aeq2i4ZjKf/WM7+MKY4l40WchPpQGVo8qcHzHGqjilBSqSOXIaLPFQj7JknVEbPbX7J/JCE13mk9Huwthao=;W8CmncwKkqpsslRySMd1Tg=="
 ---
 

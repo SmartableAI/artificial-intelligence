@@ -73,6 +73,22 @@ related:
         width: 457
         height: 305
         isCached: true
+  - title: "S.Korean FinTech Kakao Pay Preps For IPO"
+    excerpt: "Kakao Pay is set to be the first South Korean FinTech working with mobile payments to undertake an IPO. The company is likely to be valued at $8.5 billion."
+    publishedDateTime: 2020-10-01T03:18:00Z
+    webUrl: "https://www.pymnts.com/news/ipo/2020/south-korean-fintech-kakao-pay-preps-ipo/"
+    ampWebUrl: "https://www.pymnts.com/news/ipo/2020/south-korean-fintech-kakao-pay-preps-ipo/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2020/south-korean-fintech-kakao-pay-preps-ipo/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/09/IPO-2-457x297.jpg"
+        width: 457
+        height: 297
+        isCached: true
   - title: "Australian Fintech WeMoney Secures $2 Million in Seed Funding to Launch Financial Wellness Platform"
     excerpt: "Dan Jovevski, a Fintech professional and former banker at National Australia Bank (NAB), has reportedly helped his company, WeMoney, with securing $2 million in capital in order to provide a service that helps young consumers with making better financial decisions."
     publishedDateTime: 2020-09-28T22:28:00Z

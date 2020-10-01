@@ -48,6 +48,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Manufacturing Market Size, Future Scope, Growth Analysis and Forecast Report by 2027 with Top Companies"
+    excerpt: "Global Artificial Intelligence in Manufacturing Market was valued at USD 966.67 million in 2019 which is expected to reach USD 22880.45 million by 2027 at CAGR 50.32%. Latest published report on the Artificial Intelligence in Manufacturing market,"
+    publishedDateTime: 2020-10-01T02:21:00Z
+    webUrl: "https://ipsnews.net/business/2020/10/01/artificial-intelligence-in-manufacturing-market-size-future-scope-growth-analysis-and-forecast-report-by-2027-with-top-companies/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 0
 
 secured: "wioBATx7WtXMltw2n3q/ItgFxAFvsJsGEWDlam5tkaH1M4c6r8ScoGLspuID2tp5hJ9h0pJyLUqvfOrm9aiIYkm5lumRd9iUgz1mSj9+rLPP4UoG68zszRKQI1Ywqylk/2yAfg3HQSl9EPT+wb5WitLFj+9AIEgTGMEkGOqZKyQyscSoivD4ETH4s5tq38U3Qdi41yj4AtwPB2ZHW69KiXkcNxeEftyngQX8n85IyMF3xkew/YheKNqxWOWuxi73n5A0IZGl6rmJ8/Yqa3ESM52I/esAvtHO1liqzZpf8BLdYuN/MMc7kbqnn3yAOskqwvTXzqTkkkUXJntPsTbNdM+sG6/SO59hbLsAdXfEW8U=;SfN8WO6w/nOtiD8dNR+c6g=="
 ---
