@@ -95,6 +95,17 @@ related:
         width: 1061
         height: 525
         isCached: true
+  - title: "AI investment increased during the pandemic, and many business plan to do more, Gartner found"
+    excerpt: "A quarter of IT professionals increased AI investment levels due to COVID-19, 42% kept it at the same level, but 75% plan to continue or begin new AI projects in the next 6-9 months."
+    publishedDateTime: 2020-10-01T14:57:00Z
+    webUrl: "https://www.techrepublic.com/article/ai-investment-increased-during-the-pandemic-and-many-business-plan-to-do-more-gartner-found/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-investment-increased-during-the-pandemic-and-many-business-plan-to-do-more-gartner-found/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-investment-increased-during-the-pandemic-and-many-business-plan-to-do-more-gartner-found/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 56
   - title: "VMware and Nvidia team up to make AI chips easier to use"
     excerpt: "VMware and Nvidia have announced an effort to make VMware's software for managing data centers work better with Nvidia's artificial intelligence (AI) chips."
     publishedDateTime: 2020-09-29T23:50:00Z

@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "AI Is Increasingly Being Designed To Apologize, But Self-Driving Cars Are Not Hip To The Idea"
-    excerpt: "AI is increasingly offering apologies, but does this make sense. getty. They say that love means never having to say that you are sorry. When does it make sense though to proffer"
-    publishedDateTime: 2020-09-27T16:22:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingly-being-designed-to-apologize-but-self-driving-cars-are-not-hip-to-the-idea/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingly-being-designed-to-apologize-but-self-driving-cars-are-not-hip-to-the-idea/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingly-being-designed-to-apologize-but-self-driving-cars-are-not-hip-to-the-idea/amp/"
+  - title: "Self-driving cars are here, and they're hungry for pedestrians"
+    excerpt: "Footage of a Tesla Model 3 safety test shows the car's autonomous braking system failing, causing the vehicle to slam into a robot pedestrian."
+    publishedDateTime: 2020-09-28T14:31:00Z
+    webUrl: "https://news.avclub.com/self-driving-cars-are-here-and-theyre-hungry-for-pedes-1845201537"
+    ampWebUrl: "https://news.avclub.com/self-driving-cars-are-here-and-theyre-hungry-for-pedes-1845201537/amp"
+    cdnAmpWebUrl: "https://news-avclub-com.cdn.ampproject.org/c/s/news.avclub.com/self-driving-cars-are-here-and-theyre-hungry-for-pedes-1845201537/amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 78
+      name: AV Club
+      domain: avclub.com
+    quality: 44
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a971bf92664bddd8e6ca2%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/i6yquwmxcwoyuvhgm7hd.jpg"
+        width: 800
+        height: 449
         isCached: true
   - title: "Self-driving cars are still going to take a long time, people"
     excerpt: "A few years ago, I visited a super promising company called Luminar, which makes LiDAR, or Light Detection and Ranging, technology that helps autonomous cars see the world around them. Now, Luminar is going public."
@@ -50,20 +50,6 @@ related:
       - url: "https://www.marketplace.org/wp-content/uploads/2020/09/image-1.png?fit=740%2C416"
         width: 740
         height: 416
-        isCached: true
-  - title: "Self-Driving Cars Move on Down the Road"
-    excerpt: "Some of the touted advantages of self-driving vehicles include reduced accidents, reduced traffic congestion, reduced CO2 emissions, increased lane capacity, lower fuel consumption, transportation accessibility,"
-    publishedDateTime: 2020-09-28T16:03:00Z
-    webUrl: "https://www.evaluationengineering.com/applications/article/21154596/selfdriving-cars-move-on-down-the-road"
-    type: article
-    provider:
-      name: evaluationengineering
-      domain: evaluationengineering.com
-    quality: 24
-    images:
-      - url: "https://img.evaluationengineering.com/files/base/ebm/ee/image/2020/09/GettyImages_872673304.5f67b891d794d.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 744
         isCached: true
 
 secured: "kphkAqeqz6c6BMmQxKzksQJA/wG1Twqk0eINpQJzYEL3u8aeEOLw49NuwOr/eU17zweP4p4OsdENUtqnQ7ICWlIgmFo5uFYBMxAiSw8ZOc+zjwMvuKpI1zgy0tiGU8avMEHpkTbS0/8CcpxKBDkGRsR0jQDFB+kR16zT6r4SbG3J6y7cfb52LhBmf6lVY5FF/IEe9uW0yOLYnFyrG1phvfDVFZj/c2FCTT1RWBJBXhN7C82Jn0flasEjh/AIm+8SxotfEFr3W3aqCDdnHaRpfYqS64edvdBOeHeSbYhLQMNLNmqzXZaFmhO5vzvrSEIiw365TuNTeAadGhpJGGHBT/KOzAJ+PuQkMOIbJ+f4CY2J5TPHlStJMoIJrz+TZG3eyxAJ5HX4JIIBnOsiNu5Eyd8F0VNjHxRU2PzI6+1wU/81BxUYq8rwAmSR5mz5Lg+OC1LinNCU2uckEmc2NyECovPKBXi5BMydTNqgn6ewSKQPqYNo4g2wLfpL9hD+bQTDMnceJ+1Ix4gIIqvamtfDkw==;FxeDqnxmjuAF04PEKiVZQg=="

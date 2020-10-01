@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google Photos gets smarter, AI-powered editor"
+    excerpt: "Google rolled out a new version of the photo editor in the Google Photos app on Android. It uses machine learning to give you suggestions on how to fix a photo, which you can apply with one tap. Google says more suggestions are coming to Pixel devices in the coming months,"
+    publishedDateTime: 2020-10-01T12:46:00Z
+    webUrl: "https://mashable.com/article/google-photos-editor/"
+    ampWebUrl: "https://mashable.com/article/google-photos-editor.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/google-photos-editor.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 87
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F10%252F01%252Fb8%252Fd762c63acc904b9298f8889e590f20a9.e68f3.png%252F1200x630.png?signature=fMk9DtgSsV3Qv23BxBAKCHnAVhc="
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Google Photos’ new Android editor uses AI to help images pop"
     excerpt: "Google is rolling out an update editor in the Photos app for Android. It offers AI suggestions for edits and more granular manual control. Portrait Light on the Pixel 4a 5G and Pixel 5 helps faces shine."
     publishedDateTime: 2020-09-30T21:17:00Z

@@ -27,35 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI Is Increasingly Being Designed To Apologize, But Self-Driving Cars Are Not Hip To The Idea"
-    excerpt: "AI is increasingly offering apologies, but does this make sense. getty. They say that love means never having to say that you are sorry. When does it make sense though to proffer"
-    publishedDateTime: 2020-09-27T16:22:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingly-being-designed-to-apologize-but-self-driving-cars-are-not-hip-to-the-idea/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingly-being-designed-to-apologize-but-self-driving-cars-are-not-hip-to-the-idea/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingly-being-designed-to-apologize-but-self-driving-cars-are-not-hip-to-the-idea/amp/"
+  - title: "Self-driving cars are here, and they're hungry for pedestrians"
+    excerpt: "Footage of a Tesla Model 3 safety test shows the car's autonomous braking system failing, causing the vehicle to slam into a robot pedestrian."
+    publishedDateTime: 2020-09-28T14:31:00Z
+    webUrl: "https://news.avclub.com/self-driving-cars-are-here-and-theyre-hungry-for-pedes-1845201537"
+    ampWebUrl: "https://news.avclub.com/self-driving-cars-are-here-and-theyre-hungry-for-pedes-1845201537/amp"
+    cdnAmpWebUrl: "https://news-avclub-com.cdn.ampproject.org/c/s/news.avclub.com/self-driving-cars-are-here-and-theyre-hungry-for-pedes-1845201537/amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 78
+      name: AV Club
+      domain: avclub.com
+    quality: 44
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a971bf92664bddd8e6ca2%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Self-Driving Cars Move on Down the Road"
-    excerpt: "Some of the touted advantages of self-driving vehicles include reduced accidents, reduced traffic congestion, reduced CO2 emissions, increased lane capacity, lower fuel consumption, transportation accessibility,"
-    publishedDateTime: 2020-09-28T16:03:00Z
-    webUrl: "https://www.evaluationengineering.com/applications/article/21154596/selfdriving-cars-move-on-down-the-road"
-    type: article
-    provider:
-      name: evaluationengineering
-      domain: evaluationengineering.com
-    quality: 24
-    images:
-      - url: "https://img.evaluationengineering.com/files/base/ebm/ee/image/2020/09/GettyImages_872673304.5f67b891d794d.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 744
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/i6yquwmxcwoyuvhgm7hd.jpg"
+        width: 800
+        height: 449
         isCached: true
   - title: "The self-driving cars of the future aren’t inclusive. They’re trying to change that."
     excerpt: "By combining artificial intelligence with research that looks into the way people interact with machines and computers, researchers at Northeastern and the University of Maine want to help make self-driving cars even smarter and accessible for people who are visually impaired or blind."

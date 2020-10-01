@@ -9,8 +9,8 @@ ampWebUrl: "https://www.androidauthority.com/google-photos-editor-android-2020-u
 cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/google-photos-editor-android-2020-update-1163513/amp/"
 type: article
 quality: 87
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: Android Authority
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google Photos gets smarter, AI-powered editor"
+    excerpt: "Google rolled out a new version of the photo editor in the Google Photos app on Android. It uses machine learning to give you suggestions on how to fix a photo, which you can apply with one tap. Google says more suggestions are coming to Pixel devices in the coming months,"
+    publishedDateTime: 2020-10-01T12:46:00Z
+    webUrl: "https://mashable.com/article/google-photos-editor/"
+    ampWebUrl: "https://mashable.com/article/google-photos-editor.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/google-photos-editor.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 87
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F10%252F01%252Fb8%252Fd762c63acc904b9298f8889e590f20a9.e68f3.png%252F1200x630.png?signature=fMk9DtgSsV3Qv23BxBAKCHnAVhc="
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Google Photos brings machine learning-powered photo editing to Android today"
     excerpt: "Today Google Photos is launching a new machine learning-powered editor alongside the new Pixel 4a 5G and Pixel 5 devices. First and foremost is a new tab coming to the editor that uses the machine ..."
     publishedDateTime: 2020-09-30T21:03:00Z

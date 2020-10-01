@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Nigeria at 60 - What Tafawa Balewa Said in His Independence Speech"
+    excerpt: "Nigeria became a sovereign nation on October 1, 1960. On October 1, 1960, Nigeria gained its independence from Britain following years of struggle for sovereignty by leaders from various ethnic groups in the country."
+    publishedDateTime: 2020-10-01T15:21:00Z
+    webUrl: "https://allafrica.com/stories/202010010750.html"
+    type: article
+    provider:
+      name: AllAfrica.com
+      domain: allafrica.com
+    quality: 39
+    images:
+      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
+        width: 664
+        height: 664
+        isCached: true
   - title: "FLASHBACK: Tafawa Balewa’s 1960 Independence Day speech"
     excerpt: "BY ABUBAKAR TAFAWA BALEWAAdvertisement Today is Independence Day. The first of October 1960 is a date to which for two years every Nigerian has been eagerly looking forward. At last,"
     publishedDateTime: 2020-10-01T08:57:00Z

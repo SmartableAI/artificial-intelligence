@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-10-dod-enlisting-ar-microscopes-to-spot-cancer.md",
+      "title": "DOD enlisting AR microscopes to spot cancer",
+      "excerpt": "The Defense Innovation Unit is partnering with Google Cloud to use machine learning and augmented reality to speed and improve the accuracy of cancer diagnoses.",
+      "sourceUrl": null,
+      "webUrl": "https://gcn.com/articles/2020/09/09/diu-google-ai-cancer-detection.aspx?admgarea=TC_EmergingTech",
+      "originalUrl": "https://gcn.com/articles/2020/09/09/diu-google-ai-cancer-detection.aspx?admgarea=TC_EmergingTech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2020/September/ARmicroscope.jpg",
+          "width": 760,
+          "height": 368,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-09T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GCN",
+        "domain": "gcn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-09-get-your-hands-dirty-the-many-benefits-of-learning-to-code-as-a-ceo.md",
       "title": "Get Your Hands Dirty: The Many Benefits Of Learning To Code As A CEO",
       "excerpt": "This is all open source, so it's freely available. I taught myself using a variety of books and online resources as well as the ML packages SciKit Learn, TensorFlow (an open-source library originally developed by Google) and Keras (a more abstracted deep ...",
@@ -1395,58 +1437,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-a-dogfight-renews-concerns-about-ais-lethal-potential.md",
-      "title": "A Dogfight Renews Concerns About AI's Lethal Potential",
-      "excerpt": "Alphabet's DeepMind pioneered reinforcement learning. A California company used it to create an algorithm that defeated an F-16 pilot in a simulation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/dogfight-renews-concerns-ai-lethal-potential/",
-      "originalUrl": "https://www.wired.com/story/dogfight-renews-concerns-ai-lethal-potential/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f4437bbc83d017a112ec55f/master/pass/business_f16_927284852.jpg",
-          "width": 2400,
-          "height": 1602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/dogfight-renews-concerns-ai-lethal-potential/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dogfight-renews-concerns-ai-lethal-potential/amp",
-      "publishedDateTime": "2020-08-25T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Google AI"
       ]
     }
   ],

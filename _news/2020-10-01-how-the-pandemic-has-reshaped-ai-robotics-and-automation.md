@@ -3,8 +3,8 @@ category: news
 title: "How the pandemic has reshaped AI, robotics, and automation"
 excerpt: "Tonya Hall talks with Dr. Kate Darling, research specialist at the MIT Media Lab, to learn more about how the future of AI, robotics, and automation was reshaped following the COVID-19 pandemic outbreak."
 publishedDateTime: 2020-10-01T13:20:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/video/how-the-pandemic-has-reshaped-ai-robotics-and-automation/"
-webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/video/how-the-pandemic-has-reshaped-ai-robotics-and-automation/"
+originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/video/how-the-pandemic-has-reshaped-ai-robotics-and-automation/"
+webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/video/how-the-pandemic-has-reshaped-ai-robotics-and-automation/"
 type: article
 quality: 99
 heat: 169
@@ -134,6 +134,6 @@ related:
         height: 675
         isCached: true
 
-secured: "FDKCO6y62bm7xAJmcTaoSbe4/CwCT9uRI6UFfB+X8FSxuI1ob9Ud/3QMlG6d1LHFBAVYR5ku3HUV59P0u5Vys9x6VnkMCUN88ccMGOodm4npae/gQaSlsOsGW9H7XsIEPjYpkfEi73g22UU6bJOmUqp18oRttgJnno65bDhjtKRnVhDJi2m2qIzd7GLWdSD+pWvaimfwk72OZ1SygI9tkYCgovznig76Id8FsBWfXJXCd/3BvmwRJmwBz5Jhi2WBfblhFEJBaCJXG9hZL08USpjbPOLtgGS0NhbRHDerK7XG33k5Lmum/ftSpT3vVE+DTxtrFjF27Ns7h1Q57uvLtSmqy66730hXGCxksPVNFu4=;a0POl9BKdhRzsKoHRE/cXg=="
+secured: "Qy3Tnjrzckrp7yr8XzFbar8CCZl60o1OIUkjSxWK0yAdJcKM0xmJC86Ji7pLAOPTxCxFo+wUvVt+6ehoybaxdOvLTS72hdCC7klmpeYQMXPB7h3WgrFcTHb7SNt8CpySXH+ssb7zhMZDEJgTcOzaG+gNiiy/DVfMHiObuKuZgcgeNx6nvxb6wRUIVO0jt8eB+2dCndUFyzWVRrPjXL03dNB1HXhG/kSPnhoQz3DJOlpIGGGgDdCmDL4mgho7f2QvNiQuh4JAaw5SzRGXxC/fV3FMhTZFqCK+1a9ibZ1UuLdk4VrnQGR1gqsuKOfEdEQs0h4ZJLVFKsSg/YdGrFfN0DIRqlfjmDo+6AowGq6Pazw=;BrrY2v702FADr3CrWIfBUA=="
 ---
 

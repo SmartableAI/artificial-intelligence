@@ -27,7 +27,7 @@ related:
     provider:
       name: Sify.com
       domain: sify.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.sify.com/uploads/artificial_intelligence_uiepq9gafiaif.jpeg"
         width: 650

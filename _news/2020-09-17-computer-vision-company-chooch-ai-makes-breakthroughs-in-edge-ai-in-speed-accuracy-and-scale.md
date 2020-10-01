@@ -1,26 +1,24 @@
 ---
 category: news
 title: "Computer Vision Company Chooch AI Makes Breakthroughs in Edge AI in Speed, Accuracy and Scale"
-excerpt: "Chooch AI, a horizontal computer vision AI platform, today published the latest video presentation of an expert panel with Convergint Technologies and NVIDIA. Chooch AI is a member of the NVIDIA Inception program."
-publishedDateTime: 2020-09-17T12:50:00Z
-originalUrl: "https://apnews.com/globenewswire-mobile/47b59cde3e91723c62f05905b28641bf"
-webUrl: "https://apnews.com/globenewswire-mobile/47b59cde3e91723c62f05905b28641bf"
+excerpt: "17, 2020 (GLOBE NEWSWIRE) -- Chooch AI, a horizontal computer vision AI platform, today published the latest video presentation of an expert panel with Convergint Technologies and NVIDIA."
+publishedDateTime: 2020-09-17T16:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/computer-vision-company-chooch-ai-makes-breakthroughs-in-edge-ai-in-speed-accuracy-and-scale-1029598846"
+webUrl: "https://markets.businessinsider.com/news/stocks/computer-vision-company-chooch-ai-makes-breakthroughs-in-edge-ai-in-speed-accuracy-and-scale-1029598846"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "0IIEQnqDXSlPBOP6Wm1gzzL6fvXpjejT6+dSwFDXAhM01WMTKpAe6Cs3BHDnbZNQ8/PF7VvRv6Bwez+potEjnq+ElxeQDtpxY87JYsitfivhDYqT/SsKm37PdFoq0bHH55iTxBhEEpYunCX9JIuN6iA6YaFoHAbiSQ13aSXFeEIAnJRL+GCIAz/a54zBFZFehmERrLzOloQIlnHRT9l1dqMc8q2Eh1y626a6OrKEv+oHiKrNsLgHQ6T65L5uJoPlR2j9O85ciNykTBrU9XNx2y/vIyKk1D9bu9mfh0/vEpMrGnwkMmqlTamv3D6NoVF+R58LLIrRNWon82BBwCOIQ9xFua3tA1LFjjSdXk95MEA=;XMtTGS1jEqS6gT9sBejUcg=="
+secured: "Sa7DFkTuCPsEydWekgGfbEWIxYTc2FPZxB7mImTWv+2iF9/cpgvrFG/FjGzrB0DT23uqeNHI2uJ5HOxoDhqklEcyQgyOcF+FZS+sJe3Vl6SWQ8gCPbtW0Wn/QDorZmUkgrhQmsHDGwQ/ucNM0ZH2y/znQLIDKxsudIsyNHmm7iohHvcwVLos2aIpu8MXfpzzoRcfiJqNHW7tnga+hq9eZGRmLgJSGQnzeo5iwsbk8CAeIFHDUNwXtZmLR0MSHpx8gSoa1xezC0HoKwqrBZAI3Kd7hw24Nl8+UPYHQbjxuKSKrDnN9gnZtR+CASqrudD4SpYhGhWY3EKUAGocEu5O1rvNUTRxSnXOIANOIxtxfxs=;uqCjRpwxV+jaRR9y5ro9bQ=="
 ---
 

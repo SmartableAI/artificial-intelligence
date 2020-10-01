@@ -100,6 +100,17 @@ related:
         width: 1061
         height: 525
         isCached: true
+  - title: "AI investment increased during the pandemic, and many business plan to do more, Gartner found"
+    excerpt: "A quarter of IT professionals increased AI investment levels due to COVID-19, 42% kept it at the same level, but 75% plan to continue or begin new AI projects in the next 6-9 months."
+    publishedDateTime: 2020-10-01T14:57:00Z
+    webUrl: "https://www.techrepublic.com/article/ai-investment-increased-during-the-pandemic-and-many-business-plan-to-do-more-gartner-found/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-investment-increased-during-the-pandemic-and-many-business-plan-to-do-more-gartner-found/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-investment-increased-during-the-pandemic-and-many-business-plan-to-do-more-gartner-found/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 56
   - title: "AMD To Strongly Benefit From New AI And Gaming Chips From Nvidia And AMD"
     excerpt: "PCIe 4 is increasingly widely adopted by the PC and server industries. With Intel lacking critical PCIe 4 solutions, AMD is set to benefit."
     publishedDateTime: 2020-09-29T14:12:00Z

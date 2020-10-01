@@ -1251,33 +1251,33 @@
     {
       "path": "_news/2020-09-17-computer-vision-company-chooch-ai-makes-breakthroughs-in-edge-ai-in-speed-accuracy-and-scale.md",
       "title": "Computer Vision Company Chooch AI Makes Breakthroughs in Edge AI in Speed, Accuracy and Scale",
-      "excerpt": "Chooch AI, a horizontal computer vision AI platform, today published the latest video presentation of an expert panel with Convergint Technologies and NVIDIA. Chooch AI is a member of the NVIDIA Inception program.",
+      "excerpt": "17, 2020 (GLOBE NEWSWIRE) -- Chooch AI, a horizontal computer vision AI platform, today published the latest video presentation of an expert panel with Convergint Technologies and NVIDIA.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/globenewswire-mobile/47b59cde3e91723c62f05905b28641bf",
-      "originalUrl": "https://apnews.com/globenewswire-mobile/47b59cde3e91723c62f05905b28641bf",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/computer-vision-company-chooch-ai-makes-breakthroughs-in-edge-ai-in-speed-accuracy-and-scale-1029598846",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/computer-vision-company-chooch-ai-makes-breakthroughs-in-edge-ai-in-speed-accuracy-and-scale-1029598846",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-17T05:50:00-07:00",
+      "publishedDateTime": "2020-09-17T09:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

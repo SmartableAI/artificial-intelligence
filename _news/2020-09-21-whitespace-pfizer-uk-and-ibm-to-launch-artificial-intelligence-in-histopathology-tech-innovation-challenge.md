@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - IBM AI
 
 images:
   - url: "https://www.pcr-online.biz/wp-content/uploads/Medical-electronics-660x330.jpg"

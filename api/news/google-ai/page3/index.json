@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-25-a-dogfight-renews-concerns-about-ais-lethal-potential.md",
+      "title": "A Dogfight Renews Concerns About AI's Lethal Potential",
+      "excerpt": "Alphabet's DeepMind pioneered reinforcement learning. A California company used it to create an algorithm that defeated an F-16 pilot in a simulation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/dogfight-renews-concerns-ai-lethal-potential/",
+      "originalUrl": "https://www.wired.com/story/dogfight-renews-concerns-ai-lethal-potential/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f4437bbc83d017a112ec55f/master/pass/business_f16_927284852.jpg",
+          "width": 2400,
+          "height": 1602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/dogfight-renews-concerns-ai-lethal-potential/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dogfight-renews-concerns-ai-lethal-potential/amp",
+      "publishedDateTime": "2020-08-25T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-24-5-interesting-announcements-from-kubeconcloudnativecon-europe-2020.md",
       "title": "5 Interesting Announcements From KubeCon+CloudNativeCon Europe 2020",
       "excerpt": "KubeCon+CloudNativeCon Europe 2020, the largest gathering of the Kubernetes and cloud native community, has gone virtual this year.",

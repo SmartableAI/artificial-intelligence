@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-01T13:43:00Z
 originalUrl: "https://www.sify.com/news/indias-artificial-intelligence-spending-grows-at-over-30-idc-news-education-uj4mPCbjgbieg.html"
 webUrl: "https://www.sify.com/news/indias-artificial-intelligence-spending-grows-at-over-30-idc-news-education-uj4mPCbjgbieg.html"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.sify.com/uploads/artificial_intelligence_uiepq9gafiaif.jpeg"
@@ -34,6 +35,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "72y1LShCczfdkgPqxGmM6fSplo80vaBYk31f+K5wio0yREZzgePGbX9IQFhMDcPVsTlnB8tnxELhMjOZvE3NoFKqkIDnfBRc5syhlxlQ/aGI/iD8rSqgweJ83XwoPAk6mKU7BdCdmrMZq5uSaKBeQcqZgGAks/IOiWhJEpkWRt0BvPwymn58GJcuIuIVgXxgUGTL4bAGI9UEsyyB3iKxJHwW6jdSx92qBUXL/Xx3/+73fMu4bB2VAAbWG175NI1y8Q3cX5lGbhuT2OnsMlvvFZEs/l9BOxCzPxdnkpfM5sNqdlIO+wjeHlFrFdiRThX3xiyVmaof8kbROU8ycwurK9opxU5jd9z4/XdN77I/8CE=;05AFxwl5Rlvv3CUooDltKw=="
+secured: "oVnbAUbwlNhIw+vXZ0thAC3HlwRvMHw/RcYqK9P670Gp7C3hvTMdQYD6SXv6T0z5D+L1U0b1PchmrLu17vzJg3ftwgNnAo0TRSo50S4ZFVL9j0cHalDMqTJL2oXzlbyykxLRV+yHcEU112twIPrWglZ4N0dkxTrN0U1axyqQkzXNF2i6id624aiY6ulaoCdZ4dJ5Vl5cF1jsy45S4D3jPna76GzmztlSU0pP2lu2NiIgiNKXEC7EVYX1Scr7MhVyGfV160yxcnw82B2iL0zX/6+ObM0J1TsY+WVf15u8Ug2aB0QDaP8CwppFBvtyeG54I+0HIxJrFfjB0bSZWSXnemKMLRTpHEKSm9JwNIGzOyIhJaphZm4mtV5WEyVTm16pBYbubAkf9Wh1hb0pTIdDy5KvBexGF8My9z5LGJpdCFCSbZJSm/s/LBnXQM8qJbRxTZvrjSPJ1KyvlHh+1uBL17uViqo0lrb8W1IPaY6dibMHz0L3YhkRFsyNp4IGUBF257QTejL3o4+fTAXsphEhPQ==;VO5pK0BzotfI0jyFilgBGw=="
 ---
 
