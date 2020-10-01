@@ -1,44 +1,30 @@
 ---
 category: news
 title: "Intelemark's New Microsoft Azure Cloud-Based AI Proprietary Software Fuels International Expansion"
-excerpt: "Intelemark, a national leader in the lead generation/appointment setting industry for more than 20 years, is pleased to announce the successful implementation of our"
+excerpt: "Intelemark, a national leader in the lead generation/appointment setting industry for more than 20 years, is pleased to announce the"
 publishedDateTime: 2020-09-30T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/intelemarks-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion/article_d763ca0c-5282-5ff7-81a8-f5688877c416.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/intelemarks-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion/article_d763ca0c-5282-5ff7-81a8-f5688877c416.html"
+originalUrl: "https://www.prnewswire.com/news-releases/intelemarks-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion-301141708.html"
+webUrl: "https://www.prnewswire.com/news-releases/intelemarks-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion-301141708.html"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://mma.prnewswire.com/media/1294546/Intelemark_Logo.jpg?p=facebook"
+    width: 1447
+    height: 759
     isCached: true
 
 related:
-  - title: "AYN InfoTech Strengthens Organizations Through Artificial Intelligence And Blockchain Enabled Enterprise Software Solutions"
-    excerpt: "According to Martin Fowler, a British software developer, author, and international speaker on software development, “Enterprise applications are about the display, manipulation, and storage of large amounts of often complex data and the support or automation of business processes with that data."
-    publishedDateTime: 2020-09-30T17:24:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-industry-information-technology-computer-and-data-security-9a0e40b720934f0682d6da62c8879785"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 26
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Hexaware Becomes a Microsoft Azure Expert Managed Service Provider (MSP) and Earns Advanced Certification for Data Warehouse Migration to Azure"
     excerpt: "PRNewswire/ -- Hexaware, one of the fastest growing next-generation digital transformation partners, today announced that it has become a Microsoft Azure Expert Managed Service Provider"
     publishedDateTime: 2020-09-29T11:00:00Z
@@ -54,6 +40,6 @@ related:
         height: 240
         isCached: true
 
-secured: "6UOvtTz13I9Cv+kVC0gC5UlygCLKPV36Ug1UVZ3kY9arm2tZdoihU2RSmGoYWQ6CPrQnNWmGQLxTPv6DiLEr4kNdBLJMepzL1zrM9zqJ5rr7Tt+N1DdR238htsqzKS2x0pBVwER28SGJsf4HqxfhJp7jXsIed+BDExTwgZHuipb9kC0QxUQQmO6NhUbxZNtZQm2Ut9bMVepkSEpVlEp7ZfWNhRnWU8XmABJm/LNutH0ScxaU7mPCJfMbjENum36LrHmVpFnkf3CkG4aBJzgRZfDhDeuPFsv759sikKYOrumoXtSpRi3+2rxu4fX5aLbDv/IQmYZBZLQy9KtZm/Q0FpmXg2cEmwY3ZyHQ1hCIUT0=;4UkgsfLuUfDi3kYWU9qxBA=="
+secured: "rBpa1NYBRhwh4lzWi7fhjLyp5uR9Rot7yu5AR6HEfDL6I4ar7k6+5oElZP5tyXUK8x9DfztGqZXNfALnpa1OkiKfbm2D4AC5rcuzwv6vIfheacg9FcxPqGrx3s+4a/IW9Qge0pILc3obk/DRZrpJTDsXBeV1rWc9pRlIxt+oblJfKdyb2liJncwbo1gz92jdXQgqVysOPV55H8IDCmwitSN1rxGy6DELu+/NHz1n2gkheGQlJQ++18iy0GHyH+Hd5AGqxDyNB+KfW2+2tz2BO2lU+B+BH6N4Z0SdPXLjZSVn/PiDuVTfNYwcV0zFMnxHVVmbkBbcUOQXjCRtXW38ugNSWSLMRFTHapU+fAEYuAo=;3lrqikIbJtKdT56fk2GtYg=="
 ---
 

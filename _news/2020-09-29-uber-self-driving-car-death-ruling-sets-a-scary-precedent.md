@@ -55,6 +55,20 @@ related:
         width: 620
         height: 491
         isCached: true
+  - title: "World-first testing system aims to end dangerous confusion around “self-driving” cars"
+    excerpt: "A new testing standard which ranks the assisted driving systems of new cars has been launched in an effort to reduce confusion around the current technology. A growing number of cars are being sold with systems - such as Tesla’s Autopilot and BMW’s Driving Assistant Professional - which claim to ease the strain on drivers by offering support to keep a car in its lane and maintain a safe distance to other vehicles even when moving through traffic jams."
+    publishedDateTime: 2020-10-01T06:09:00Z
+    webUrl: "https://www.scotsman.com/lifestyle/cars/world-first-testing-system-aims-end-dangerous-confusion-around-self-driving-cars-2988937"
+    type: article
+    provider:
+      name: The Scotsman
+      domain: scotsman.com
+    quality: 32
+    images:
+      - url: "https://www.scotsman.com/images-i.jpimedia.uk/imagefetch/https://jpgreatcontent.co.uk/wp-content/uploads/2020/09/Audi-Q8_CCRs_straight-lane.jpg"
+        width: 1620
+        height: 1080
+        isCached: true
 
 secured: "vUVR9YYv/bW4BEXcvIpLETzI13fbk5L3Y/euzkAoYVcXxZm6nz0Z35YGZDKZZXJYXr0t9Z4T73Dx7AmwpW1CKF8/UndXqlHQg02esgk16ZdTvxZCIg32Z1csvNGb9my16mGb6Qv/g+ce5np2d3yFTQCzgJU47mFzyKHbiHkSz9qFyXTwek8KQu1urGbwb5c6d97mSmiBl6SyOKjyEAgx4eX9S8318wZf3zIiqcB8N9jIkGvzSA5qLICUA3GtyiMP0qod3qtQB0L/RbYKe8BTizSSMa15jykEf5UziWX8T0m30LOZVjv7ityG131B6GIbgOug3TA7mSz/+tZ2aHZQOFjYnveWrofdhBxpmpNkTfNyha7a85AJ1GiKSF7NxdjnHHlVTB8KvAA1zvaoFTTEjbLGh5N/5qmUXfQi2uf7ZkzaUT9j+zcWGpl8CPhNl8TT3UMJv40j4ob7ifSnl9AALTFC1nw3k42+AJpL9qSkrUiCIPUEvUq9DhaQf/AL0qzvgx3xiqnGtyby+OZEJ3XgFA==;Zjt8bRLgqyCxBg7cT0ljdw=="
 ---

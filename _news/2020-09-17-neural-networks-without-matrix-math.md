@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Math for AI
 
 images:
   - url: "https://i0.wp.com/semiengineering.com/wp-content/uploads/2019/02/iStock-937898842-NeuralNetwork.jpg?fit=632%2C553&#038;ssl=1"

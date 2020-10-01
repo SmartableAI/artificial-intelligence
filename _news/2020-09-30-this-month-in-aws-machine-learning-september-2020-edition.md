@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-ma
 webUrl: "https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-machine-learning-september-2020-edition/"
 type: article
 quality: 106
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f74a122cf179d7498ed404f%2F0x0.jpg"
         width: 600
         height: 457
+        isCached: true
+  - title: "Startup Funding: September 2020"
+    excerpt: "Big investment in EV, batteries, and data center chips as 26 companies raise $2.6B; special look at computer vision funding."
+    publishedDateTime: 2020-10-01T07:04:00Z
+    webUrl: "https://semiengineering.com/startup-funding-september-2020/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 22
+    images:
+      - url: "https://i2.wp.com/semiengineering.com/wp-content/uploads/startup-funding-2020-09-Sep-table1.png?fit=841%2C808&#038;ssl=1"
+        width: 841
+        height: 808
         isCached: true
 
 secured: "zGm2FWm5WRB/MGNlHrgf4cOAI1+Ig4AjnGApuXx1Fml+d24BJ2yjHNDTc9yUokykSGSbO3fgMxFIoAEhr9Hp97u2OEcE9yLTNPwK6Hqqe6nDfaueTdu6CXm62UsM1jYAVuUsW3SPLYbAn1gg9qZW1/gTg9yyjCBqivZQHfqbtv8cvGzebpOfJOphP0hAdbv88sDxUm2vK+WhzT89+olZuzstXyyg1eiZB+49MCKPYjFsNV/QCzac9Iohg9zvc+PmXhe+8E7qceaKGWNnQoPezi52vrvvBPhXyo6iDKbgJ0AHJUNHEBFrkYD21M22Y/VPHPvOrCASCenP9x4ouB8KjaZ4uCGnY4QWyiKMVxMHsqc=;qnz4mrXh2xSLzZfGXTIANQ=="

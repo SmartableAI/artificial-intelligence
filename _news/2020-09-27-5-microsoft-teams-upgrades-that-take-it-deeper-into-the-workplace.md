@@ -7,7 +7,7 @@ originalUrl: "https://www.cmswire.com/collaboration-productivity/5-microsoft-tea
 webUrl: "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/5-new-ways-to-boost-productivity-with-enhanced-teams-power/ba-p/1680697"
 type: article
 quality: 139
-heat: 329
+heat: 319
 published: true
 
 provider:
@@ -226,20 +226,6 @@ related:
       - url: "https://2.img-dpreview.com/files/p/E~TS520x0~articles/8449901778/microsoft_deepfake_main.jpeg"
         width: 520
         height: 296
-        isCached: true
-  - title: "Microsoft Launches a New Communication Platform with Azure Communication Services"
-    excerpt: "Ignite Conference, Microsoft announced Azure Communication Services (ACS), a fully-managed communication platform. The offering is currently in public preview."
-    publishedDateTime: 2020-09-26T14:09:00Z
-    webUrl: "https://www.infoq.com/news/2020/09/new-azure-communication-services/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 49
-    images:
-      - url: "https://res.infoq.com/news/2020/09/new-azure-communication-services/en/headerimage/croppted-ACS-1600940197471.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Microsoft unveils Azure for Operators in most aggressive cloud telco pursuit to date"
     excerpt: "Microsoft has announced the launch of Azure for Operators to begin what the company calls 'a new chapter' in its telecoms industry collaboration."

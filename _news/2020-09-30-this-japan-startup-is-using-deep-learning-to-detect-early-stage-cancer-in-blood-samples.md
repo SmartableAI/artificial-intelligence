@@ -45,6 +45,20 @@ related:
         width: 1260
         height: 630
         isCached: true
+  - title: "Startup Funding: September 2020"
+    excerpt: "Big investment in EV, batteries, and data center chips as 26 companies raise $2.6B; special look at computer vision funding."
+    publishedDateTime: 2020-10-01T07:04:00Z
+    webUrl: "https://semiengineering.com/startup-funding-september-2020/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 22
+    images:
+      - url: "https://i2.wp.com/semiengineering.com/wp-content/uploads/startup-funding-2020-09-Sep-table1.png?fit=841%2C808&#038;ssl=1"
+        width: 841
+        height: 808
+        isCached: true
 
 secured: "rtO50lOUhyrH2Xi9wfUA/Uh+EdlNBr3dl8SPA+z1MmucuF8BpCS3OPpP3NUHOWQf2mhtNr94ga/trFdPNHevEVTyHwTQb/HKvTAnfv8kbtzD0Vvl/YFoelYf00DZ3w0zyk8WB5FionJtfCT+KB44Ek2ctFKpy9EqrX9QkK34uGEOIOA7+lqlUlVgdHnjGepst2KF0AOGi8V7RzRfZ368YIdQgqzguJhB6KRCK+iE/gBQEEX9wv2HE0Gy9W/P/ieIcu5+v6BIjZ8iy/t2ZwdSaLJHNN/xvt7P/uw/oc0UzoSyENapQvOTCFsb16mb0VqRWYeJFOEsUpGht16ZT5tt4zgih6ELcG0bgMSFLLQIq8Trme4zrLUL75jPwT7Z2J/BhU8fWSETdh2UHMI/PSXBQW0UHrUEg0+qgxjcvZCO/uxgxo0PzP12jGB0grT0fhSUI6kBOStQh2xWT8USFxHPdpiS5mKoVHQIjUGuPjyxonNDyyR4Za7vyVp9nxYvgNuc/9UBcOOK8q0alEz6hYNG9A==;BtDrSIW2kiEU0UcuHTzX2A=="
 ---

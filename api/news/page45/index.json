@@ -2,39 +2,6 @@
   "page": 45,
   "value": [
     {
-      "path": "_news/2020-08-27-fox-robotics-raises-9m-for-self-driving-forklifts.md",
-      "title": "Fox Robotics Raises $9M For Self-driving Forklifts",
-      "excerpt": "This brings Fox's total funding to over $13 million. -- Fox's self-driving forklifts automatically unload trailers and have been running in pilots with logistics companies that currently operate tens of thousands of manual forklifts. -- Fox will use the ...",
-      "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2020/08/27/fox-robotics-raises-9m-for-self-driving-forklifts",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2020/08/27/fox-robotics-raises-9m-for-self-driving-forklifts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-27T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-27-porn-site-stripchat-inadvertently-discovers-next-best-use-case-for-ai.md",
       "title": "Porn Site Stripchat Inadvertently Discovers Next Best Use Case For AI",
       "excerpt": "Stripchat, a live camming platform that boasts over 60 million visits per month, has launched a new AI service tool that might just provide us with a glimpse into the next service area of deep machine learning and AI.",
@@ -1125,6 +1092,48 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-08-26-ut-gets-20m-to-focus-on-ai-technology-and-lead-research-institute.md",
+      "title": "UT gets $20M to focus on AI technology and lead research institute",
+      "excerpt": "The University of Texas at Austin will become a research hub for the next generation of machine learning and artificial intelligence technology, after it",
+      "sourceUrl": null,
+      "webUrl": "https://www.statesman.com/business/20200826/ut-gets-20m-to-focus-on-ai-technology-and-lead-research-institute",
+      "originalUrl": "https://www.statesman.com/business/20200826/ut-gets-20m-to-focus-on-ai-technology-and-lead-research-institute",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20200826&Category=BUSINESS&ArtNo=200829244&Ref=AR",
+          "width": 1627,
+          "height": 1170,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.statesman.com/business/20200826/ut-gets-20m-to-focus-on-ai-technology-and-lead-research-institute?template=ampart",
+      "cdnAmpWebUrl": "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/business/20200826/ut-gets-20m-to-focus-on-ai-technology-and-lead-research-institute?template=ampart",
+      "publishedDateTime": "2020-08-26T12:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Austin American-Statesman",
+        "domain": "statesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
       ]
     }
   ],

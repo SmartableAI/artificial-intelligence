@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingl
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingly-being-designed-to-apologize-but-self-driving-cars-are-not-hip-to-the-idea/amp/"
 type: article
 quality: 78
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.marketplace.org/wp-content/uploads/2020/09/image-1.png?fit=740%2C416"
         width: 740
         height: 416
+        isCached: true
+  - title: "Self-Driving Cars Move on Down the Road"
+    excerpt: "Some of the touted advantages of self-driving vehicles include reduced accidents, reduced traffic congestion, reduced CO2 emissions, increased lane capacity, lower fuel consumption, transportation accessibility,"
+    publishedDateTime: 2020-09-28T16:03:00Z
+    webUrl: "https://www.evaluationengineering.com/applications/article/21154596/selfdriving-cars-move-on-down-the-road"
+    type: article
+    provider:
+      name: evaluationengineering
+      domain: evaluationengineering.com
+    quality: 24
+    images:
+      - url: "https://img.evaluationengineering.com/files/base/ebm/ee/image/2020/09/GettyImages_872673304.5f67b891d794d.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 744
         isCached: true
   - title: "The self-driving cars of the future aren’t inclusive. They’re trying to change that."
     excerpt: "By combining artificial intelligence with research that looks into the way people interact with machines and computers, researchers at Northeastern and the University of Maine want to help make self-driving cars even smarter and accessible for people who are visually impaired or blind."

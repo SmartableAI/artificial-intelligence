@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-01T05:47:00Z
 originalUrl: "https://www.linkedin.com/pulse/4-top-artificial-intelligence-trends-2021-bernard-marr"
 webUrl: "https://www.linkedin.com/pulse/4-top-artificial-intelligence-trends-2021-bernard-marr"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C5612AQH7eDnueqHBKw/article-cover_image-shrink_720_1280/0?e=1606953600&v=beta&t=k2cn1L_Bf3tanXwujvpjTsOIn9SYWpb9AyUAY1M3sDE"

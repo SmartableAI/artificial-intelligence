@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en_us/article/qj4qbw/uber-safety-driver-cha
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
 type: article
 quality: 72
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/1531d31e433fd1adc6b7a7e760103118_L.jpg"
         width: 620
         height: 491
+        isCached: true
+  - title: "World-first testing system aims to end dangerous confusion around “self-driving” cars"
+    excerpt: "A new testing standard which ranks the assisted driving systems of new cars has been launched in an effort to reduce confusion around the current technology. A growing number of cars are being sold with systems - such as Tesla’s Autopilot and BMW’s Driving Assistant Professional - which claim to ease the strain on drivers by offering support to keep a car in its lane and maintain a safe distance to other vehicles even when moving through traffic jams."
+    publishedDateTime: 2020-10-01T06:09:00Z
+    webUrl: "https://www.scotsman.com/lifestyle/cars/world-first-testing-system-aims-end-dangerous-confusion-around-self-driving-cars-2988937"
+    type: article
+    provider:
+      name: The Scotsman
+      domain: scotsman.com
+    quality: 32
+    images:
+      - url: "https://www.scotsman.com/images-i.jpimedia.uk/imagefetch/https://jpgreatcontent.co.uk/wp-content/uploads/2020/09/Audi-Q8_CCRs_straight-lane.jpg"
+        width: 1620
+        height: 1080
         isCached: true
   - title: "Uber Self-Driving Car Death Ruling Sets a Scary Precedent"
     excerpt: "This March 18, 2018  from video from a mounted camera provided by the Tempe Police Department shows an interior view moments before an Uber SUV hit a woman in Tempe, Ariz. (Tempe Police Department via AP,"

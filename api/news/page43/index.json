@@ -2,57 +2,6 @@
   "page": 43,
   "value": [
     {
-      "path": "_news/2020-08-28-banks-arent-as-stupid-as-enterprise-ai-and-fintech-entrepreneurs-think.md",
-      "title": "Banks aren’t as stupid as enterprise AI and fintech entrepreneurs think",
-      "excerpt": "The right question is almost never whether to buy software or build it internally. Instead, banks have often worked to walk the difficult but smarter path right down the middle.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/28/banks-arent-as-stupid-as-enterprise-ai-and-fintech-entrepreneurs-think/",
-      "originalUrl": "https://techcrunch.com/2020/08/28/banks-arent-as-stupid-as-enterprise-ai-and-fintech-entrepreneurs-think/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-171578755.jpg?w=1000",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/28/banks-arent-as-stupid-as-enterprise-ai-and-fintech-entrepreneurs-think/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/28/banks-arent-as-stupid-as-enterprise-ai-and-fintech-entrepreneurs-think/amp/",
-      "publishedDateTime": "2020-08-28T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-28-announcing-the-express-testing-capability-in-amazon-lex.md",
       "title": "Announcing the express testing capability in Amazon Lex",
       "excerpt": "Amazon Lex now provides the express testing capability on the AWS Management Console to expedite building your chatbot. You can start testing your bot soon after you initiate the build process without having to wait for the entire build to complete. You can use the new testing option to check the basic",
@@ -1173,6 +1122,57 @@
         "name": "Business Line",
         "domain": "thehindubusinessline.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-28-what-can-i-do-with-machine-learning-studio-classic.md",
+      "title": "What can I do with Machine Learning Studio (classic)?",
+      "excerpt": "Machine Learning Studio (classic) is a drag-and-drop tool for quickly building models from a library of ready-to-use algorithms and modules.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/azure/machine-learning/studio/studio-classic-overview",
+      "originalUrl": "https://docs.microsoft.com/en-us/azure/machine-learning/studio/studio-classic-overview",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/en-us/azure/machine-learning/studio/media/what-is-ml-studio/azure-ml-studio-diagram.jpg",
+          "width": 780,
+          "height": 459,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-27T22:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

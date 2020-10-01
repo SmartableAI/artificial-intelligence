@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en_us/article/n7wx8b/detroit-extends-contra
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/n7wx8b/detroit-extends-contract-of-facial-recognition-program-that-doesnt-work"
 type: article
 quality: 88
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2019/08/07/PDTF/b0927c9f-c34a-495a-ad67-ef97cdf59b70-school_security__080719_13.JPG?auto=webp&crop=3599,2025,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Detroit City Council defies public opposition and renews facial recognition contract"
+    excerpt: "A majority of the council of nine Democrats voted to approve a two-year, $220,000 upgrade and maintenance contract with South Carolina-based DataWorks Plus."
+    publishedDateTime: 2020-10-01T06:05:00Z
+    webUrl: "https://www.wsws.org/en/articles/2020/10/01/face-o01.html"
+    type: article
+    provider:
+      name: World Socialist Web Site
+      domain: wsws.org
+    quality: 34
+    images:
+      - url: "https://www.wsws.org/asset/7bc3d8bc-010b-4206-9b76-a0d92688751e/image.jpg"
+        width: 550
+        height: 309
         isCached: true
   - title: "Detroit OKs Controversial Facial Recognition Tech Contract"
     excerpt: "The city council approved a contract that will upgrade controversial facial recognition software used by police despite calls to ban the technology, which its opponents have questioned as racist."

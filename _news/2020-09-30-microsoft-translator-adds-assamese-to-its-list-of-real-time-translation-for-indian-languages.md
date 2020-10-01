@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.in/tech/news/microsoft-translator-adds-a
 cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/microsoft-translator-adds-assamese-to-its-list-of-real-time-translation-for-indian-languages/amp_articleshow/78402706.cms"
 type: article
 quality: 50
-heat: 60
+heat: -1
 published: false
 
 provider:
@@ -28,19 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "SYSTRAN Partners with TED to Create Specialized Translation Models Expanding Professional Applications of Machine Translation"
-    excerpt: "SYSTRAN, the leader in AI-based translation technology, announces its new partnership with TED, a nonprofit organization devoted to Ideas Worth Spreading, to build specialized neural translation models that are based on high-quality translations of TED Talks."
-    publishedDateTime: 2020-09-30T12:00:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/educational-services-business-science-professional-services-b966d4b3b48a39c1d6ec00a446db8c43"
+  - title: "Microsoft Translator adds Assamese, strengthens support for 12 Indian languages"
+    excerpt: "Microsoft India has announced the addition of Assamese as the latest Indian language in Microsoft Translator. The Azure-based service will now provide real-time"
+    publishedDateTime: 2020-09-30T08:09:00Z
+    webUrl: "https://technuter.com/operating-system/microsoft/microsoft-translator-adds-assamese-strengthens-support-for-12-indian-languages.html"
+    ampWebUrl: "https://technuter.com/operating-system/microsoft/microsoft-translator-adds-assamese-strengthens-support-for-12-indian-languages.html/amp"
+    cdnAmpWebUrl: "https://technuter-com.cdn.ampproject.org/c/s/technuter.com/operating-system/microsoft/microsoft-translator-adds-assamese-strengthens-support-for-12-indian-languages.html/amp"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 12
+      name: technuter.com
+      domain: technuter.com
+    quality: 55
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://technuter.com/wp-content/uploads/2020/01/Microsoft.jpg"
+        width: 418
+        height: 335
         isCached: true
 
 secured: "fOsNZWcPSLToyu0zvzzQfxANQexdmRy8LG4fX07QmLGUjkCQdi9SjgY5w150YiMzzDj4wyS9QlnYSTyOAMZcswA8D59OWlK6eamyvZUtQkI/YzG3mTLxKBZXShOXbNgtvezu/XEKcMjbzcZM+6NuWUagWDC549OXCA42aSi9VfTH4djpeL+Q03ZTWy6oxiqU3wJBdleYeSm6xMq34E+iMZNhgilmrUHLlZvh3/IpiZ09jrPBkSW3FfHHcxnCRYsdv/Z7Docc0TfCvoa9OFqWcF+GLiW49X980vkBSgoGWXBQPmjJAPa4iB17/edqYfqr4eVPA0bk+WQVm/hqGT1bB9h0N9mRxXx9DLh18S8b17RipHQx6twfGbkD1mc8cNoXJGmBQNlNhrlgG2RIstVc8Aqhmf8O4rENKergK77xbb/PfoABJe9CP7g2B9vWAYbkzgK5ZjBF5Ky0PZO3o1oJsxsyZWcell8ut09VeoyBpW97ob7eWB+vJCHN7LWc07ykNE735L03YcvXCQSfARfw+Q==;dwTwREW3/5FyAofeCRY+xA=="

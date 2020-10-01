@@ -235,20 +235,6 @@ related:
         width: 520
         height: 296
         isCached: true
-  - title: "Microsoft Launches a New Communication Platform with Azure Communication Services"
-    excerpt: "Ignite Conference, Microsoft announced Azure Communication Services (ACS), a fully-managed communication platform. The offering is currently in public preview."
-    publishedDateTime: 2020-09-26T14:09:00Z
-    webUrl: "https://www.infoq.com/news/2020/09/new-azure-communication-services/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 49
-    images:
-      - url: "https://res.infoq.com/news/2020/09/new-azure-communication-services/en/headerimage/croppted-ACS-1600940197471.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft unveils Azure for Operators in most aggressive cloud telco pursuit to date"
     excerpt: "Microsoft has announced the launch of Azure for Operators to begin what the company calls 'a new chapter' in its telecoms industry collaboration."
     publishedDateTime: 2020-09-28T17:53:00Z

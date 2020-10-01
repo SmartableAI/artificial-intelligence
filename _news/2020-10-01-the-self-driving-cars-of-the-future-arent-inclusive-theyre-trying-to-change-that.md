@@ -51,6 +51,20 @@ related:
         width: 740
         height: 416
         isCached: true
+  - title: "Self-Driving Cars Move on Down the Road"
+    excerpt: "Some of the touted advantages of self-driving vehicles include reduced accidents, reduced traffic congestion, reduced CO2 emissions, increased lane capacity, lower fuel consumption, transportation accessibility,"
+    publishedDateTime: 2020-09-28T16:03:00Z
+    webUrl: "https://www.evaluationengineering.com/applications/article/21154596/selfdriving-cars-move-on-down-the-road"
+    type: article
+    provider:
+      name: evaluationengineering
+      domain: evaluationengineering.com
+    quality: 24
+    images:
+      - url: "https://img.evaluationengineering.com/files/base/ebm/ee/image/2020/09/GettyImages_872673304.5f67b891d794d.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 744
+        isCached: true
 
 secured: "kphkAqeqz6c6BMmQxKzksQJA/wG1Twqk0eINpQJzYEL3u8aeEOLw49NuwOr/eU17zweP4p4OsdENUtqnQ7ICWlIgmFo5uFYBMxAiSw8ZOc+zjwMvuKpI1zgy0tiGU8avMEHpkTbS0/8CcpxKBDkGRsR0jQDFB+kR16zT6r4SbG3J6y7cfb52LhBmf6lVY5FF/IEe9uW0yOLYnFyrG1phvfDVFZj/c2FCTT1RWBJBXhN7C82Jn0flasEjh/AIm+8SxotfEFr3W3aqCDdnHaRpfYqS64edvdBOeHeSbYhLQMNLNmqzXZaFmhO5vzvrSEIiw365TuNTeAadGhpJGGHBT/KOzAJ+PuQkMOIbJ+f4CY2J5TPHlStJMoIJrz+TZG3eyxAJ5HX4JIIBnOsiNu5Eyd8F0VNjHxRU2PzI6+1wU/81BxUYq8rwAmSR5mz5Lg+OC1LinNCU2uckEmc2NyECovPKBXi5BMydTNqgn6ewSKQPqYNo4g2wLfpL9hD+bQTDMnceJ+1Ix4gIIqvamtfDkw==;FxeDqnxmjuAF04PEKiVZQg=="
 ---
