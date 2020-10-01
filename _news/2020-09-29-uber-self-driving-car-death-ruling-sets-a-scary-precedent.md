@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Uber’s self-driving car unit has made little progress despite $2.5B price tag"
-    excerpt: "Uber’s efforts to build a self-driving car have cost the company nearly $2.5 billion and still it’s nowhere close to putting a driverless car on the road, according to a new report."
-    publishedDateTime: 2020-09-28T06:08:00Z
-    webUrl: "https://nypost.com/2020/09/28/ubers-self-driving-car-unit-makes-little-progress-despite-price-tag/"
-    ampWebUrl: "https://nypost.com/2020/09/28/ubers-self-driving-car-unit-makes-little-progress-despite-price-tag/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/09/28/ubers-self-driving-car-unit-makes-little-progress-despite-price-tag/amp/"
+  - title: "Uber Safety Driver Charged In First Death Caused By 'Self-Driving' Vehicle"
+    excerpt: "On Tuesday, a woman was charged with negligent homicide after one of Uber's self-driving vehicles killed a pedestrian in Tempe, Arizona. For years, Uber and other companies in the self-driving vehicle industry have relied on \"safety drivers\"—people who ..."
+    publishedDateTime: 2020-09-29T21:05:00Z
+    webUrl: "https://www.vice.com/en_us/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
+    ampWebUrl: "https://www.vice.com/amp/en_us/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 41
+      name: VICE
+      domain: vice.com
+    quality: 72
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/09/Uber-Logo.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://video-images.vice.com//articles/5f636781e2069b0095ed22d7/lede/1600350374335-gettyimages-609845734.jpeg?crop=1xw:0.8588xh;0xw,0.1412xh"
+        width: 4200
+        height: 2359
         isCached: true
   - title: "Uber's self driving car was an expensive waste of time"
     excerpt: "It can't drive without messing things up After five years and an investment of around $2.5 billion, Uber's effort to build a self-driving car is a lemon. Apparently an Uber manager said that the car cant drive more than half a mile without encountering a problem in an email to Uber CEO"
@@ -55,17 +55,6 @@ related:
         width: 620
         height: 491
         isCached: true
-  - title: "Uber ‘wasted’ $3.5 billion on self-driving cars with no ‘meaningful progress’"
-    excerpt: "More than a decade after launching, rideshare app Uber hasn’t made a single dollar in profit, but has “wasted” billions on a plan to create self-driving cars. Uber’s efforts to build a self-driving car have cost the company nearly $US2.5 billion ..."
-    publishedDateTime: 2020-09-30T03:51:00Z
-    webUrl: "https://www.news.com.au/technology/motoring/on-the-road/uber-wasted-35-billion-on-selfdriving-cars-with-no-meaningful-progress/news-story/1ade9a515dadad5a492322c14d2d2f35"
-    ampWebUrl: "https://amp.news.com.au/technology/motoring/on-the-road/uber-wasted-35-billion-on-selfdriving-cars-with-no-meaningful-progress/news-story/1ade9a515dadad5a492322c14d2d2f35"
-    cdnAmpWebUrl: "https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/technology/motoring/on-the-road/uber-wasted-35-billion-on-selfdriving-cars-with-no-meaningful-progress/news-story/1ade9a515dadad5a492322c14d2d2f35"
-    type: article
-    provider:
-      name: News.com.au
-      domain: news.com.au
-    quality: 21
 
 secured: "vUVR9YYv/bW4BEXcvIpLETzI13fbk5L3Y/euzkAoYVcXxZm6nz0Z35YGZDKZZXJYXr0t9Z4T73Dx7AmwpW1CKF8/UndXqlHQg02esgk16ZdTvxZCIg32Z1csvNGb9my16mGb6Qv/g+ce5np2d3yFTQCzgJU47mFzyKHbiHkSz9qFyXTwek8KQu1urGbwb5c6d97mSmiBl6SyOKjyEAgx4eX9S8318wZf3zIiqcB8N9jIkGvzSA5qLICUA3GtyiMP0qod3qtQB0L/RbYKe8BTizSSMa15jykEf5UziWX8T0m30LOZVjv7ityG131B6GIbgOug3TA7mSz/+tZ2aHZQOFjYnveWrofdhBxpmpNkTfNyha7a85AJ1GiKSF7NxdjnHHlVTB8KvAA1zvaoFTTEjbLGh5N/5qmUXfQi2uf7ZkzaUT9j+zcWGpl8CPhNl8TT3UMJv40j4ob7ifSnl9AALTFC1nw3k42+AJpL9qSkrUiCIPUEvUq9DhaQf/AL0qzvgx3xiqnGtyby+OZEJ3XgFA==;Zjt8bRLgqyCxBg7cT0ljdw=="
 ---

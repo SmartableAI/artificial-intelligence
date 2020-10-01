@@ -279,18 +279,18 @@ related:
       domain: channele2e.com
     quality: 34
   - title: "Andor Health Collaborates with Mentor to Deliver Next Generation, AI-Powered Virtual Experiences with Microsoft Technology"
-    excerpt: "Andor Health Collaborates with Mentor to Deliver Next Generation, AI-Powered Virtual Experiences with Microsoft Technology"
+    excerpt: "Andor Health and Mentor Worldwide LLC have formed a collaboration to provide the aesthetic physician community with the next-generation virtual health experiences to enhance the relationship between a surgeon and their patients."
     publishedDateTime: 2020-09-30T13:30:00Z
-    webUrl: "https://www.finanzen.net/nachricht/aktien/andor-health-collaborates-with-mentor-to-deliver-next-generation-ai-powered-virtual-experiences-with-microsoft-technology-9347090"
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-medical-technology-health-artificial-intelligence-computing-and-information-technology-7ebeb192b3437584eac7a740d6619523"
     type: article
     provider:
-      name: Finanzen
-      domain: finanzen.net
+      name: Associated Press
+      domain: apnews.com
     quality: 28
     images:
-      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-        width: 600
-        height: 315
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "56Ct3FaCFOyRQPWWs5Y6/PwmQScfwtcwViekRwEpqOJ2/HGseMZ8DjDwz/6bew8DMZbnkD5zcQrZfvd/EPCTgy6rknxPtmnHZ0PR3MFk6NR2j1WkIQSZq1CpEEae/A5Q5F2Ip51EQ/HOUXkzXFnyCdTFI/feGIYWy8pGo+D94X0MnemWMsPzrQRFZBpD4iQ6sV6heW8VWGVBGaHYqWRgvt9sSLJWaVlr5s4qOEue9OwsKlNnLjMUZ5MZdY9UV+6G6nAjC1YchsvlB/35VqiB3941J2TTrAybevp4ZtNEH0GwhHyl7Gy8F4f3dmJy8iikir0RBs2wUadgqDqEJXfkpnrUb41lR3Vdu1rcUJ6TKpBLT/zi0ItU/sNNYOVsQg1xj1R2BfHOx8dQVCNwTCy0F27+1HdSMGdU7RSnY4ZtLNB1N5g2AHMzhQAPWqtnsaiw3E6Lv+sa+2zKSNnZFx01DDLlly2pMwxSo0B2ogYBooBSTI5poVuiiwLDi4MGkUe/DK4CbsIqI9uynVvoGP/2BA==;RN+Jc6rKRz87x5Qsc33ZMQ=="

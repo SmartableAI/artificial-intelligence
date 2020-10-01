@@ -27,34 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Uber's self driving car was an expensive waste of time"
-    excerpt: "It can't drive without messing things up After five years and an investment of around $2.5 billion, Uber's effort to build a self-driving car is a lemon. Apparently an Uber manager said that the car cant drive more than half a mile without encountering a problem in an email to Uber CEO"
-    publishedDateTime: 2020-09-30T10:08:00Z
-    webUrl: "https://www.fudzilla.com/news/automotive/51623-uber-s-self-driving-car-was-an-expensive-waste-of-time"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/1531d31e433fd1adc6b7a7e760103118_L.jpg"
-        width: 620
-        height: 491
-        isCached: true
-  - title: "Uber Self-Driving Car Death Ruling Sets a Scary Precedent"
-    excerpt: "This March 18, 2018  from video from a mounted camera provided by the Tempe Police Department shows an interior view moments before an Uber SUV hit a woman in Tempe, Ariz. (Tempe Police Department via AP,"
-    publishedDateTime: 2020-09-29T16:01:00Z
-    webUrl: "https://nextcity.org/daily/entry/uber-self-driving-car-death-ruling-sets-a-scary-precedent"
-    type: article
-    provider:
-      name: Next City
-      domain: nextcity.org
-    quality: 24
-    images:
-      - url: "https://nextcity.org/images/daily/_resized/AP_20259839530321.jpg"
-        width: 1200
-        height: 718
-        isCached: true
   - title: "Uber ‘wasted’ $3.5 billion on self-driving cars with no ‘meaningful progress’"
     excerpt: "More than a decade after launching, rideshare app Uber hasn’t made a single dollar in profit, but has “wasted” billions on a plan to create self-driving cars. Uber’s efforts to build a self-driving car have cost the company nearly $US2.5 billion ..."
     publishedDateTime: 2020-09-30T03:51:00Z

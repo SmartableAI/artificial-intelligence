@@ -7,7 +7,7 @@ originalUrl: "https://eandt.theiet.org/content/articles/2020/09/ai-ready-nations
 webUrl: "https://eandt.theiet.org/content/articles/2020/09/ai-ready-nations-in-danger-of-entrenching-inequality/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     width: 1200
     height: 450
     isCached: true
-
-related:
-  - title: "AYN InfoTech Strengthens Organizations Through Artificial Intelligence And Blockchain Enabled Enterprise Software Solutions"
-    excerpt: "According to Martin Fowler, a British software developer, author, and international speaker on software development, \"Enterprise applications are about the display, manipulation, and storage of large amounts of often complex data and the support or automation of business processes with that data."
-    publishedDateTime: 2020-09-30T20:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ayn-infotech-strengthens-organizations-through-artificial-intelligence-and-blockchain-enabled-enterprise-software-solutions-1029636825"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/ayn-infotech-strengthens-organizations-through-artificial-intelligence-and-blockchain-enabled-enterprise-software-solutions-1029636825"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ayn-infotech-strengthens-organizations-through-artificial-intelligence-and-blockchain-enabled-enterprise-software-solutions-1029636825"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
 
 secured: "pr/JCBQK//tJIushnNVKqQOQ6SVJPzE9lt6DHyvqrDGSheIKYNyT9OMgwXyQ+pmaAtQEqPzXjJDYrEHHQg+61niyyx5z0bAfVVbn1GBYNvmKBACZ4XhEIIxHE2mb8CxXOCLUem8CBKqPCPw+s+e0YUatmg1L3fcHKHKAcyMNvnTWWzzqAqxPacYIeFzW0bnKt0N9EeYZl0ITTflaX+Hv7AJLD0dI7R9mIOYTJXa9LVHCbQWx2oF11mdP9HlwfKBeZJWeaDcYduTDuP47KAPFZyvztoMY/LerXPri4ggLfkQ+4oFX5FPDkGgnOhuhWej32AJ9VYSNdBwkFF/iRfiJd8ABW5TEY+om/ywfy440JLw=;San3mvQuOxKjcE6p2yMO9w=="
 ---

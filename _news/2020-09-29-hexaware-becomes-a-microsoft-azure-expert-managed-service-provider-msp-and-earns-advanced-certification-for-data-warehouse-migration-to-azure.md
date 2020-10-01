@@ -26,18 +26,32 @@ images:
 
 related:
   - title: "Intelemark's New Microsoft Azure Cloud-Based AI Proprietary Software Fuels International Expansion"
-    excerpt: "Intelemark, a national leader in the lead generation/appointment setting industry for more than 20 years, is pleased to announce the"
+    excerpt: "Intelemark, a national leader in the lead generation/appointment setting industry for more than 20 years, is pleased to announce the successful implementation of our"
     publishedDateTime: 2020-09-30T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/intelemarks-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion-301141708.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/intelemarks-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion/article_d763ca0c-5282-5ff7-81a8-f5688877c416.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 55
     images:
-      - url: "https://mma.prnewswire.com/media/1294546/Intelemark_Logo.jpg?p=facebook"
-        width: 1447
-        height: 759
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "AYN InfoTech Strengthens Organizations Through Artificial Intelligence And Blockchain Enabled Enterprise Software Solutions"
+    excerpt: "According to Martin Fowler, a British software developer, author, and international speaker on software development, “Enterprise applications are about the display, manipulation, and storage of large amounts of often complex data and the support or automation of business processes with that data."
+    publishedDateTime: 2020-09-30T17:24:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-industry-information-technology-computer-and-data-security-9a0e40b720934f0682d6da62c8879785"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 26
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "02i0RM7e0ynP3JSP7HBN8vDn739FaVe+U5iQ9y3epY90o9SsRSbzoRe8p7quaQ67Nu0M/s7yciyPRDz1LtJQNp9ydVwDfkKyll0itPIoA5apaoZ1qwWiwq6CtBp6J47ihiWxIUQpsBwWAEuGcCbpOsza8yaO/8r4q04cHZoU8zA5ekZcEaANqzh0EwHqmht3j+8MgItQb7pDr3MibX0YKQptEoR9gngParxWIWGEhHxzCChL+SO11ovi8+wz70tfurO3QhG8XVcpPNDUQrWCgP513anwQ6Asm0c3LRvTazv6ru09o+xUBWgSqDy7xZA1APztlHbpv1rOdd+hs9Hy+myfAfdbhae6mqbS5OOamEcLn+09AZQvHsJqPPsW78w/1ep21neaSShqFq/wcNkJvmTOvWuxcdv+7TI04C/MJHIQakskWaBYV1SaTpZeONlTeyUfxVWQO26uJotmRk7dtxioiaVVMHfPX0oaC3oV0FBU2iM7QgY6gkgXyx8M6PW8SVKgtDSasfUvbdCZv58GUQ==;6U/gG7zuotrsBNSR5U7K3g=="

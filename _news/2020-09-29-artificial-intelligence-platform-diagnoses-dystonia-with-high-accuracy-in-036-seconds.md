@@ -1,42 +1,31 @@
 ---
 category: news
 title: "Artificial intelligence platform diagnoses dystonia with high accuracy in 0.36 seconds"
-excerpt: "Mass Eye and Ear researchers have developed of an artificial intelligence platform called DystoniaNet. In a new study of brain MRIs of 612 people, the platform diagnosed dystonia with 98.8 percent accuracy."
-publishedDateTime: 2020-09-28T19:05:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-09/meae-aip092320.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-09/meae-aip092320.php"
+excerpt: "Researchers at Mass Eye and Ear have developed a unique diagnostic tool that can detect dystonia from MRI scans, the first technology of its kind to provide an objective diagnosis of the disorder. Dystonia is a potentially disabling neurological condition that causes involuntary muscle contractions,"
+publishedDateTime: 2020-09-28T19:02:00Z
+originalUrl: "https://medicalxpress.com/news/2020-09-artificial-intelligence-platform-dystonia-high.html"
+webUrl: "https://medicalxpress.com/news/2020-09-artificial-intelligence-platform-dystonia-high.html"
+ampWebUrl: "https://medicalxpress.com/news/2020-09-artificial-intelligence-platform-dystonia-high.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-09-artificial-intelligence-platform-dystonia-high.amp"
 type: article
-quality: 31
-heat: -1
+quality: 51
+heat: 51
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
-  - Facebook AI
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/243865_web.jpg"
-    width: 720
-    height: 720
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/6-1-artificialin.jpg"
+    width: 1854
+    height: 1099
     isCached: true
 
-related:
-  - title: "Focal Dystonia Accurately Identified by Artificial Intelligence-Based Deep Learning Platform"
-    excerpt: "DystoniaNet is artificial intelligence (AI) based deep learning platform that can detect dystonia cases from an MRI with 98.8 percent accuracy, reports a new study."
-    publishedDateTime: 2020-09-29T09:21:00Z
-    webUrl: "https://www.medindia.net/news/focal-dystonia-accurately-identified-by-artificial-intelligence-based-deep-learning-platform-197826-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/focal-dystonia-accurately-identified-by-artificial-intelligence-based-deep-learning-platform-197826-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/focal-dystonia-accurately-identified-by-artificial-intelligence-based-deep-learning-platform-197826-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 43
-
-secured: "UY+pGJKeXVMYa2ELILeTzZdVcFq+pydkHAWkATCIz2i+s/r3F4KFrTrP8vZ0EO9nyDw1vmvV2jTY4xkYtnRChvpae7EEl8BuokGJ308MBOQ/U6T/JOSNUFtlzxqhmQzApKG0KgKRuKlt0R34rVkSZeYjAC1Hg576bdQn2OXZE/l5920vezDCWNDDf5TIbt+SMldSxAfqsDecRBeN8SeoqYU675HFoXS8hB/PQNDY/V0z/pt4toFWx2aCRIQ0wGSl6p1flSKwsaj7wGXsxS88137YFkFH6Yf4k57/b0zZ2ugGYqrPdh7pTCUhUm8ubbhabL/6IJYaxSrG2iT0jzMku/UCMMfvhV/mzQ3OetBbxmE=;l2EGbsVYawFNCJt4cc89zg=="
+secured: "dCf3XazGJBgQ6oy5RXtx24UID3WUaVc/RSV+S1Ob8BVe4LiOzgfCQEXTiM0kXfgYNGQhpVUdtJ53+yCo3MyDQ0TsWEuwzd+BotYkXItdypi17W15hFxQ0zf0X72w97Bp2oSygXbUKAPyhjtmPtX3LZKHU8PowTzChpC/HdZMuZ8JHdyE/CPD+bTvqBo1tJMExbDMk5c23v9tjOPx1HfHWCX6mrmBkDIDqkjYRn3ekcDX83oIKbXfbl70h5OCS8XTol+TZ3WRBZrFhDIRkOPN6NMdBrm600XJt2stNquknWGgaz+vEmCdOkQq9KeFn+sBatS6/k6nq8nn721JLU0hyi8A5zqKIxk60SkZ0j5v2KQ=;yVoQ9RfMfn2/rQTQjpQWbQ=="
 ---
 

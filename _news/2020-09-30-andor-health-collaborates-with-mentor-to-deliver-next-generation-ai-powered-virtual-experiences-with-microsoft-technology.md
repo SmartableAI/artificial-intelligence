@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Andor Health Collaborates with Mentor to Deliver Next Generation, AI-Powered Virtual Experiences with Microsoft Technology"
-excerpt: "Andor Health Collaborates with Mentor to Deliver Next Generation, AI-Powered Virtual Experiences with Microsoft Technology"
+excerpt: "Andor Health and Mentor Worldwide LLC have formed a collaboration to provide the aesthetic physician community with the next-generation virtual health experiences to enhance the relationship between a surgeon and their patients."
 publishedDateTime: 2020-09-30T13:30:00Z
-originalUrl: "https://www.finanzen.net/nachricht/aktien/andor-health-collaborates-with-mentor-to-deliver-next-generation-ai-powered-virtual-experiences-with-microsoft-technology-9347090"
-webUrl: "https://www.finanzen.net/nachricht/aktien/andor-health-collaborates-with-mentor-to-deliver-next-generation-ai-powered-virtual-experiences-with-microsoft-technology-9347090"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-medical-technology-health-artificial-intelligence-computing-and-information-technology-7ebeb192b3437584eac7a740d6619523"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-medical-technology-health-artificial-intelligence-computing-and-information-technology-7ebeb192b3437584eac7a740d6619523"
 type: article
 quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Finanzen
-  domain: finanzen.net
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-    width: 600
-    height: 315
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -293,6 +293,6 @@ related:
       domain: channele2e.com
     quality: 34
 
-secured: "D+Rk/TFpsilJkbhxu+UgjU4yPdsItN95HG4uARsEAGHFYflRlG+XPhiSIuvjyV5entORmJhu4FCyQ3lmbMxFDb827vAbT81QCL613ni9iKdGE1JV9kIMCLzzDG3CcLNlJrPShhrnzNX7nQYq9vl/bi0zX75NL2Gk0xLzG0Zi+t5Zpyh5OeudXJa1+eDAW9pE3Yari+p65Nks+pwIBw3SPs2Og/F8RATC6CzDAxec9COyGrN8gaPEIew6bisYZJ9AdEAtud4/CkmI7LxRihbw6Lhj3QMh/VBkOQlSQLkUrH0PTB0z81fSlLs033I0oZ1QVKLR9Ppgq0t/u1LWxe8QezIsoVFySdYrDlVDezLmEQA=;T9k6whXg5YGkv/TYyQvLFA=="
+secured: "qOftniNQFPNbyFskn4DxCxUD8q7YtFbwcgsGtHNYE9p5M4M9wzYgpWisyWS/Ly0mqp9l6LenU4hbgyUEVYjBH7EW5UAZtBBzwdNnBmIDpT4I0QAfMaJN6ZaLXJZqXy5mMASfnD47cehIccOOuhnC5l7zPCYMxpzbcxKDVGGVFhpYXiK8K0ukEqoFYZ8IpUo6wAtKaAYiC6z2wFYkv7Shv5uDS3wYhBxFGh3IfVMD5L75tzt+GLgiBWS4Sej3UHyutW5RkulhvA1Cbzb2gxFmZLWjOhVTWv3nQsKjQda19yLFmlfhkkRi96z0bLvHG9T5KQwfvplV7QF+lEuFUvejXTaBgdga3PCKi2/agVZ9NAM=;fHOSugV4x9S5rKZzB0YUwA=="
 ---
 
