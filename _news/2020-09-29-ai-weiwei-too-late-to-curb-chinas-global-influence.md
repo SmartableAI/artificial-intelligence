@@ -25,7 +25,7 @@ related:
   - title: "Ai WeiWei: 'Chinese communism could disappear any moment'"
     excerpt: "Chinese communism could disappear any moment' Up Next, 'This is the darkest day for Hong Kong' Video, 00:01:17'This is the darkest day for Hong Kong' Behind-the-scenes: Ai Weiwei exhibit. Video, 00:03:45Behind-the-scenes: Ai Weiwei exhibit 'They said they would smash our windows' Video,"
     publishedDateTime: 2020-09-28T23:52:00Z
-    webUrl: "https://www.bbc.com/news/av/world-asia-china-54294193"
+    webUrl: "https://www.bbc.com/news/world-asia-china-54294193"
     type: article
     provider:
       name: BBC

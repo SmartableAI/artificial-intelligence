@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-state-of-ai-in-2020-dem
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-state-of-ai-in-2020-democratization-industrialization-and-the-way-to-artificial-general-intelligence/"
 type: article
 quality: 69
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -30,29 +30,22 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Computer Vision Market 2020 Latest Advancements and Growth Analysis- Intel, Qualcomm, General Electric, Apple"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Sep 30, 2020 (Market Insight Reports) -- The Global AI in Computer Vision Market Research Report 2020-2027 is a valuable source of insightful data for business strategists."
-    publishedDateTime: 2020-09-30T11:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2020-latest-advancements-and-growth-analysis--intel-qualcomm-general-electric-apple-2020-09-30"
+  - title: "Air Street Capital: AI industry remains strong despite academic brain drain, tech nationalization"
+    excerpt: "Air Street Capital's annual State of AI report finds that despite challenges, the AI industry remains strong heading into 2020."
+    publishedDateTime: 2020-10-01T18:03:00Z
+    webUrl: "https://venturebeat.com/2020/10/01/air-street-capital-ai-industry-remains-strong-despite-academic-brain-drain-tech-nationalization/"
+    ampWebUrl: "https://venturebeat.com/2020/10/01/air-street-capital-ai-industry-remains-strong-despite-academic-brain-drain-tech-nationalization/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/01/air-street-capital-ai-industry-remains-strong-despite-academic-brain-drain-tech-nationalization/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 76
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&#038;strip=all"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "Global 3D Machine Vision Market By Offering, By Product, By Application, By Industry Vertical, By Region, Industry Analysis and Forecast, 2020 - 2026"
-    excerpt: "Reportlinker.com announces the release of the report \"Global 3D Machine Vision Market By Offering, By Product, By Application, By Industry Vertical, By Region, Industry Analysis and Forecast, 2020 - 2026\" -  It consists of multiple cameras or various laser displacement sensors that deliver the robots information about the parts."
-    publishedDateTime: 2020-09-28T23:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-3d-machine-vision-market-by-offering-by-product-by-application-by-industry-vertical-by-region-industry-analysis-and-forecast-2020-2026-1029628508"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 0
 
 secured: "z5h76Vq+onkL5hE48l6trZ2vB4yLetaDOu83YmCOnpvEgBhhlS+ZrsQuLoNL3HDDjdzxX9beGxBvH9qbL//V/K+Zg3bBdok9Wh1AcvCMkRk+/xC/tAtTJCRF15OohhUy06TtVV0Zs5H9hnPEX/Iy4axr/vZ6DasxCFD0N75feCQjtyFbk6cyxBCB9PaOWqqLZH/GbxBHfN5/D3N+o+yNqN7FDd6jnvE4Y0VySE5x7T15IDkW+7u/bQuvMOYGGK2tShm+gaMxxx5Vnn8XFeMlofSMwGWh0/ueF+sfLhoo9LBmtam8lCxj6vbUICvL711ycVC5M4rJGtvM/nChwBBZeA7gldYjgZtc/e8JtUXX6qO2A4G2Wym0AE5afKKziTwzYZa7RqW4iLjCZAatS5R4DXJjl5EIOTonlPLZ2y79gzAYNXR8hwVEHOYHgIf6jMwz1Cm5pvCkMGGfbqxyLq2+Zy4o/9r4wVH7FJ4Bsi7y+HsFMYyA8s3ZiRZYFo7dG3pWdzhPb+T7011wGHq95MOG8w==;NhsmkLalCxOXd788G4XW8Q=="
 ---

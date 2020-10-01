@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-02-anticipating-heart-failure-with-machine-learning.md",
+      "title": "Anticipating heart failure with machine learning",
+      "excerpt": "A new algorithm developed at MIT CSAIL aims to distinguish between different pulmonary edema severity levels automatically by looking at a single X-ray image.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2020/anticipating-heart-failure-machine-learning-1001",
+      "originalUrl": "https://news.mit.edu/2020/anticipating-heart-failure-machine-learning-1001",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202009/Pulmonary-Edema-xray.png",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-01T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-using-machine-learning-to-predict-pediatric-brain-injury.md",
       "title": "Using machine learning to predict pediatric brain injury",
       "excerpt": "When newborn babies or children with heart or lung distress are struggling to survive, doctors often turn to a form of life support that uses artificial lungs. This treatment, called Extracorporeal Membrane Oxygenation (ECMO),",
@@ -747,7 +798,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/moving-from-notebooks-to-automated-ml-pipelines-using-amazon-sagemaker-and-aws-glue/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -1398,58 +1449,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-how-contextual-machine-learning-targets-human-error-to-prevent-email-based-data-breaches.md",
-      "title": "How Contextual Machine Learning Targets Human Error To Prevent Email-Based Data Breaches",
-      "excerpt": "While email has been critical to the continued operation of many businesses in the current health crisis, it has also presented those businesses with new data security challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/24/how-contextual-machine-learning-targets-human-error-to-prevent-email-based-data-breaches/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/24/how-contextual-machine-learning-targets-human-error-to-prevent-email-based-data-breaches/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6b3d6680f67d156da599fa%2F0x0.jpg",
-          "width": 1199,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/24/how-contextual-machine-learning-targets-human-error-to-prevent-email-based-data-breaches/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/24/how-contextual-machine-learning-targets-human-error-to-prevent-email-based-data-breaches/amp/",
-      "publishedDateTime": "2020-09-24T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

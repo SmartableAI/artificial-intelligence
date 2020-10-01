@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2020-latest-advancements-and-growth-analysis--intel-qualcomm-general-electric-apple-2020-09-30"
 type: article
 quality: 64
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: MarketWatch
@@ -30,31 +30,45 @@ images:
     isCached: true
 
 related:
-  - title: "The state of AI in 2020: democratization, industrialization, and the way to artificial general intelligence"
-    excerpt: "From fit for purpose development to pie in the sky research, this is what AI looks like in 2020 After releasing what may well have been the most comprehensive report on the State of AI in 2019, Air Street Capital and RAAIS founder Nathan Benaich and AI angel investor,"
-    publishedDateTime: 2020-10-01T08:09:00Z
-    webUrl: "https://www.zdnet.com/article/the-state-of-ai-in-2020-democratization-industrialization-and-the-way-to-artificial-general-intelligence/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-state-of-ai-in-2020-democratization-industrialization-and-the-way-to-artificial-general-intelligence/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-state-of-ai-in-2020-democratization-industrialization-and-the-way-to-artificial-general-intelligence/"
+  - title: "The Zacks Analyst Blog Highlights: Intel, Google, Qualcomm, General Motors, Nvidia and Baidu"
+    excerpt: "The low power consumption of Mobileye chips and the ability to create maps for self-driving systems via its Road Experience Management platform helped Intel, which is currently carrying a Zacks Rank #3 (Hold),"
+    publishedDateTime: 2020-09-28T11:34:00Z
+    webUrl: "https://www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-intel-google-qualcomm-general-motors-nvidia-and-baidu"
+    ampWebUrl: "https://www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-intel-google-qualcomm-general-motors-nvidia-and-baidu?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-intel-google-qualcomm-general-motors-nvidia-and-baidu?amp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 58
+  - title: "Qualcomm ships edge AI chip with expanded power for biometric video processing, 5G integration"
+    excerpt: "Qualcomm Technologies, Inc., a subsidiary of Qualcomm Inc., is aiming to grow its slice of the edge AI chip market with news that the Qualcomm Cloud AI 100 is shipping to select worldwide"
+    publishedDateTime: 2020-09-28T16:50:00Z
+    webUrl: "https://www.biometricupdate.com/202009/qualcomm-ships-edge-ai-chip-with-expanded-power-for-biometric-video-processing-5g-integration"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 42
     images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/10/01/c5fa5375-76e9-4f61-bec0-ff049485159c/pearlbook.jpg"
-        width: 1000
-        height: 600
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/28124236/qualcomm.jpg"
+        width: 1600
+        height: 901
         isCached: true
-  - title: "Global 3D Machine Vision Market By Offering, By Product, By Application, By Industry Vertical, By Region, Industry Analysis and Forecast, 2020 - 2026"
-    excerpt: "Reportlinker.com announces the release of the report \"Global 3D Machine Vision Market By Offering, By Product, By Application, By Industry Vertical, By Region, Industry Analysis and Forecast, 2020 - 2026\" -  It consists of multiple cameras or various laser displacement sensors that deliver the robots information about the parts."
-    publishedDateTime: 2020-09-28T23:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-3d-machine-vision-market-by-offering-by-product-by-application-by-industry-vertical-by-region-industry-analysis-and-forecast-2020-2026-1029628508"
+  - title: "The question mark over AI and intellectual property"
+    excerpt: "AI is playing a growing role in producing new creations and ideas As it evolves and becomes more autonomous, there are questions over the technology's"
+    publishedDateTime: 2020-09-30T00:59:00Z
+    webUrl: "https://techwireasia.com/2020/09/the-question-mark-over-ai-and-intellectual-property/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 0
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
+    images:
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2020/09/shutterstock_700768720-1024x599.png"
+        width: 1024
+        height: 599
+        isCached: true
 
 secured: "XO/NNdr8/Cx36NbrCoUByhmoidNy3xH00qhGsGCNV9gQI0URldyAlNqHfV1KHbwaHu2WLpUNjD75ZpHd2HfPU2DZ85eRFtSEwEGf1Bc6xHabCn2l2AcwXsHBjLXgubpYgeR/gLYwj7c/BIW9jYKqlLEVFVmPKaFK8xkkwhqnlGwkmL9LjLJ4ZtSKXzIRxArIliZyg1xDytSfNRJ8p5uv3YKe1qTxG5kEvy0NGwJvzdnO64Nl8bHqpaH7OrZde0596qiKMn1rZ+nw7buT9ou2S3E+8hiDDQgRNEohLNM/kcQHzENqi/jYua1t3LUKvMRPEvQGd+CLLZ/P/7JnyhS+xmirNuhxGm+W2MzQ8CK5708=;RP2XHl9zpUSmbgvhcb/NBw=="
 ---

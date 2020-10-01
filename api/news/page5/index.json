@@ -2,6 +2,192 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-28-let-ethics-guide-your-use-of-ai.md",
+      "title": "Let Ethics Guide Your Use of AI",
+      "excerpt": "As AI applications quickly advance into large-scale and more diverse use cases, it’s becoming imperative that ethics guide its development, deployment and applications. This is especially important as we increasingly apply AI to use cases that impact individual lives and livelihoods — including healthcare,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/digital-experience/let-ethics-guide-your-use-of-ai/",
+      "originalUrl": "https://www.cmswire.com/digital-experience/let-ethics-guide-your-use-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/acffe6a8e9624a6a95b067e79eb74209.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/digital-experience/let-ethics-guide-your-use-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/let-ethics-guide-your-use-of-ai/amp/",
+      "publishedDateTime": "2020-09-28T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-google-cloud-ai-prediction-service-becomes-generally-available.md",
+      "title": "Google Cloud AI Prediction Service Becomes Generally Available",
+      "excerpt": "Google announced the general availability of AI Prediction service, a key component of its AI Platform. The service supports hosting the models trained in popular machine learning frameworks including TensorFlow,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/09/28/google-cloud-ai-prediction-service-becomes-generally-available/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2020/09/28/google-cloud-ai-prediction-service-becomes-generally-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f71e536a0e9f1ca8b01406a%2F0x0.jpg",
+          "width": 1000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/09/28/google-cloud-ai-prediction-service-becomes-generally-available/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/09/28/google-cloud-ai-prediction-service-becomes-generally-available/amp/",
+      "publishedDateTime": "2020-09-28T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020.md",
+      "title": "Synopsys to Host Panel on AI for Chip Design at AI Hardware Summit 2020",
+      "excerpt": "PRNewswire/ --Synopsys, Inc. (Nasdaq: SNPS) today announced that Arun Venkatachar, VP of AI and Central Engineering, will participate in a panel discussion with participants from Intel and Google at the 2020 AI Hardware Summit on the topic of AI and whether it can revolutionize the way chips are designed today.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020-1029626943",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020-1029626943",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020-1029626943",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020-1029626943",
+      "publishedDateTime": "2020-09-28T06:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-our-goal-shouldnt-be-to-build-merely-trustworthy-ai.md",
+      "title": "Our goal shouldn’t be to build merely ‘trustworthy’ AI",
+      "excerpt": "Mariarosaria Taddeo, Deputy Director of the Oxford Internet Institute's Digital Ethics Lab, explains why AI ethics must be a continuous practice.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/28/our-goal-shouldnt-be-to-build-merely-trustworthy-ai/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/28/our-goal-shouldnt-be-to-build-merely-trustworthy-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Untitled-design-2020-09-28T104701.865-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/28/our-goal-shouldnt-be-to-build-merely-trustworthy-ai/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/28/our-goal-shouldnt-be-to-build-merely-trustworthy-ai/amp/",
+      "publishedDateTime": "2020-09-28T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-28-this-interactive-vr-film-lets-you-play-god-to-an-evolving-artificial-intelligence.md",
       "title": "This interactive VR 'film' lets you play god to an evolving artificial intelligence",
       "excerpt": "If you could play god to an emerging artificial intelligence, would you? Or better: Should you? That’s the moral dilemma at the heart of Agence, an interactive “dynamic film” that blends ...",
@@ -952,182 +1138,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-4-things-to-remember-when-adapting-aiml-learning-models-during-a-pandemic.md",
-      "title": "4 things to remember when adapting AI/ML learning models during a pandemic",
-      "excerpt": "The progress seen in AI/machine learning leading up to and during the pandemic cannot be ignored, but this crisis brings with it a unique opportunity for updates and innovation in modeling.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/25/4-things-to-remember-when-adapting-ai-ml-learning-models-during-a-pandemic/",
-      "originalUrl": "https://techcrunch.com/2020/09/25/4-things-to-remember-when-adapting-ai-ml-learning-models-during-a-pandemic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1250179225.jpg?w=1024",
-          "width": 1024,
-          "height": 696,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/25/4-things-to-remember-when-adapting-ai-ml-learning-models-during-a-pandemic/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/25/4-things-to-remember-when-adapting-ai-ml-learning-models-during-a-pandemic/amp/",
-      "publishedDateTime": "2020-09-25T13:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-using-artificial-intelligence-to-tame-the-most-volatile-asset-class-in-history.md",
-      "title": "Using Artificial Intelligence To Tame The Most Volatile Asset Class In History",
-      "excerpt": "The digital asset space, also known as cryptocurrencies, has seen a precipitous rise in popularity this year in spite of being highly volatile as these digital assets have also recorded the most successful gains in all of the recorded history of money markets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2020/09/25/using-artificial-intelligence-to-tame-the-most-volatile-asset-class-in-history/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2020/09/25/using-artificial-intelligence-to-tame-the-most-volatile-asset-class-in-history/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6e46911dd414185365cccd%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D625%26cropY2%3D4000",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2020/09/25/using-artificial-intelligence-to-tame-the-most-volatile-asset-class-in-history/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2020/09/25/using-artificial-intelligence-to-tame-the-most-volatile-asset-class-in-history/amp/",
-      "publishedDateTime": "2020-09-25T12:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-ai-machine-learning-breakthrough-is-a-twist-on-brain-replay.md",
-      "title": "AI Machine Learning Breakthrough Is a Twist on Brain Replay",
-      "excerpt": "From a neuroscience perspective, the concept of brain replay is analogous to a streaming service that activates repeat showings from its vast archives of stored pre-recorded content. The brain can replay memories by reactivating the neural activity patterns that represent prior experiences whether asleep or awake.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202009/ai-machine-learning-breakthrough-is-twist-brain-replay",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202009/ai-machine-learning-breakthrough-is-twist-brain-replay",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2020-09/pic2095.jpg?itok=zJTSRPRc",
-          "width": 320,
-          "height": 228,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202009/ai-machine-learning-breakthrough-is-twist-brain-replay?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202009/ai-machine-learning-breakthrough-is-twist-brain-replay?amp",
-      "publishedDateTime": "2020-09-25T11:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-profiting-from-the-rise-of-robotics.md",
-      "title": "Profiting from the Rise of Robotics",
-      "excerpt": "O f the many hyper-growth themes emerging today, artificial intelligence (AI) and robotics are among those sure to have the most profound impact on day-to-day life. With that stat",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/profiting-from-the-rise-of-robotics-2020-09-25",
-      "originalUrl": "https://www.nasdaq.com/articles/profiting-from-the-rise-of-robotics-2020-09-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/profiting-from-the-rise-of-robotics-2020-09-25?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/profiting-from-the-rise-of-robotics-2020-09-25?amp",
-      "publishedDateTime": "2020-09-25T10:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

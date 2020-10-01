@@ -3,8 +3,8 @@ category: news
 title: "How to avoid disasters like Amazon’s Rekognition"
 excerpt: "One way to avoid disastrous AI systems in the wild might be to build responsible operation into the programs from the start, professor Sergey Levine of U.C. Berkeley told ZDNet. He has a plan to do that."
 publishedDateTime: 2020-10-01T16:15:00Z
-originalUrl: "https://www.zdnet.com/video/how-to-avoid-disasters-like-amazons-rekognition/"
-webUrl: "https://www.zdnet.com/video/how-to-avoid-disasters-like-amazons-rekognition/"
+originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/video/how-to-avoid-disasters-like-amazons-rekognition/"
+webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/video/how-to-avoid-disasters-like-amazons-rekognition/"
 type: article
 quality: 71
 heat: 81
@@ -24,9 +24,9 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/10/01/12df13b7-db78-4236-b526-0836a495301d/thumbnail/570x322/6308002064d9b6a1ed183d9434012f27/20200923-tiernan-karen-ai.jpg"
-    width: 570
-    height: 322
+  - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/09/30/f447663b-3622-49b4-9d70-842de8d91c0d/thumbnail/370x278/c89db3759753cf93a251fb062018a286/it-leadership-influential-cios-deliver-e-5f71c506156d300635196775-1-sep-30-2020-12-20-02-poster.jpg"
+    width: 370
+    height: 278
     isCached: true
 
 related:
@@ -45,6 +45,6 @@ related:
         height: 263
         isCached: true
 
-secured: "t0ZDRXdg0KzpK9AWjjZfBP2wZQybS7FmJHXsBPSkiw7JKuYtqTaBDKcRD/J9uBFTfozljAxCu0g/KbfUISGiOLhxGDWVhigv/gkUhwsLrD+0fKLzDkAUz19yNpORjwfUX051ximx6yYtN8tS2/qaGXWLKiOZlY6J2ZWHeUJONUwSNywPlBzeOV+r5EwiSWvBqNN0jNZCbRZbQDqu5O9baWbOFZGvcXeveqDtfl/Wy5XjmQwTXsXNRiejuQquJtl3udWYXd4CtLJzdgPrPLuNpDGeuBo05LBf+tUmGSZ3wYIKNtPwtHAD1gmf9+9vAaT/sMmrRcACJxSbxdm60VLJ7gUisaTSkFHJXEcNmxN2SK0=;m1bZPBRURFxksWaZhUhKXw=="
+secured: "hXMz6jNiJpkg3bliqHozFr4kCAV3zPgULGhahErO/NxbG2o+Iajg6H6ldrUOJVn8rw1y5JSE/Xwujjb02KA7Mc8BDApChiNBQX/V+E9u5UPTD824Hyi9eudSm+k1kHUnp6GAgudtpGqDUYsbLXyReiiQpCZoXNFSfdbsd4awO46MKU2C28u7vfH9KKKkBIebrlMuAR2+J+n6V9NQL3vX+SGSq6fskWbflZCfsMaVIeaR4YIWU5kfP/0OFKtS9YpRTT2+WTUrNx4rUAJe9snC/7fAZJE0EOHqQf2v1XXMxH/Ozm/0Nv9DnW1fV1ek7PDgCPNbfeP8QAheABrSGc6btRE+YLaG99zq3PWwjYUksAE=;lEIa5IMPBiH9qMgMsuGaLg=="
 ---
 

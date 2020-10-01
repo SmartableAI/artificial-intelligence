@@ -2,9 +2,9 @@
 category: news
 title: "China AI start-ups surge forward with $30bn funding since 2016"
 excerpt: "Fundraising by Chinese artificial intelligence start-ups has increased rapidly since the Beijing government announced an AI drive in 2016, according to a report compiled by the Chinese tech news portal 36Kr."
-publishedDateTime: 2020-09-30T22:02:00Z
-originalUrl: "https://www.ft.com/content/f6c84f50-264e-4d1e-ac4d-bb0ade75c115"
-webUrl: "https://www.ft.com/content/f6c84f50-264e-4d1e-ac4d-bb0ade75c115"
+publishedDateTime: 2020-09-30T22:00:00Z
+originalUrl: "https://www.ft.com/content/f6c84f50-264e-4d1e-ac4d-bb0ade75c115?shareType=nongift"
+webUrl: "https://www.ft.com/content/f6c84f50-264e-4d1e-ac4d-bb0ade75c115?shareType=nongift"
 type: article
 quality: 17
 heat: 17
@@ -17,6 +17,6 @@ provider:
 topics:
   - AI
 
-secured: "/joYe1rOEi8En7oBR9oK0lfJuslySv5cKLBQOwkMMBuM3B98Ah3HhcadLQ/YE0Oh1h/s5Sdqz1Zyx30radQgWN8MmshC5hs4NY0Vn3rp6o/pXMMEsXNVr6oqN+IKAhdM1UtueGEvdigM2bRtxGr5/h7HFWI7mbeB9b65KpbfQPveYACSIRkSAfCRNfjt6CzigjYklNUdCxLplWZy9jBFq1PMVEhUI0C9BD+XUG7qmzbEeM+rpjyH8aa/acbhj7IUnelj08/gMjmDOwhRkhIj05vglyPd1KVFfLOMr9FZTU6Gw9zdS03+F2miLUKaEmspppccVNsbN9qFWMOfaYz1JYyc/ey1GG35O28nQnMhlWkYbSjsABZlMkwKgX7HQrWZYAQMV8kzD9LWndxc4KtWmT3ooZ9odbFvO0KsMbiKDGBocFHlg0VxofTDXBBvcVG/YzHtDGjRz3No7Ie2AOiT/fqMf1O83D1Hag4aZj57tr4Jioze1PNC8X5L2VRkOHTLVAhHo93n8ZhK0Dqe/Y1T+g==;5UJs1sjieOp2VTvcoNO4Eg=="
+secured: "loJFl1XghWQmSmjtE2SxeNqoXIidNL14EOZit5/I1le1pfAeRjpY+0TjEc79xl4IAdDCG+TKVNMkuwHgHuviHFUbLJ3DZgKKFeA10g8dij2AovI9wX+/cvL5IUqkO9A7BGv/XMwah/+YmrsG1TH+aMJysy0wB4Bn0zVZiQscYFD0qbPC65c15VUQUayqXnuASnbsEGhQKWGaFBeMhnB6vk4BsAk0cXoICSb26TcJL0TatROkdKztvWLMTdO35GqbtjrCzw0bP7uqHsBl3tRtzOQfMVByh/G0Md66VnriWzZc7WUqF2hni7dgvfHPqGiEuiokmC7TAbn4x/d8TVY5OdEWeqjjlmp8x/33nGRbDmVtWM9rsvvjOJvDJSW7tFxXjvrljcTv88xeBMbmb8BTFTmOPOdgFkcyYLBw1yFC2MjPFWGhYKKrYKa3EW4lQ59WPcU5RZJxUPxG4AfbEa9JPIfcQfm0HlvNyqKmX5bulW8fZM0ZuxyOf9ATDTuxtnGZiVtc4N3M3JkT51QUVAd5dw==;NA1DxEAlKilwP9w6CA0Vfw=="
 ---
 

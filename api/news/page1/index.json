@@ -2,6 +2,210 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-01-getting-started-with-aws-deepracer-community-races.md",
+      "title": "Getting started with AWS DeepRacer community races",
+      "excerpt": "AWS DeepRacer allows you to get hands-on with machine learning (ML) through a fully autonomous 1/18th scale race car driven by reinforcement learning, a 3D racing simulator on the AWS DeepRacer console, a global racing league, and hundreds of customer-initiated community races. With AWS DeepRacer community",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-aws-deepracer-community-races/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-aws-deepracer-community-races/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/01/1A-758x630.jpg",
+          "width": 758,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-01T12:19:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-via-acquires-delivery-logistics-startup-fleetonomy-to-bolster-fulfillment-with-ai.md",
+      "title": "Via acquires delivery logistics startup Fleetonomy to bolster fulfillment with AI",
+      "excerpt": "Via acquired Fleetonomy, a startup that analyzes delivery data and delivers insights to maximize inventory and conduct proactive maintenance.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/01/via-acquires-delivery-logistics-startup-fleetonomy-to-bolster-fulfillment-with-ai/",
+      "originalUrl": "https://venturebeat.com/2020/10/01/via-acquires-delivery-logistics-startup-fleetonomy-to-bolster-fulfillment-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/232a9c02-eb55-4af8-be59-38fb161b1f93-e1601359046546.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/01/via-acquires-delivery-logistics-startup-fleetonomy-to-bolster-fulfillment-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/01/via-acquires-delivery-logistics-startup-fleetonomy-to-bolster-fulfillment-with-ai/amp/",
+      "publishedDateTime": "2020-10-01T11:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-anticipating-heart-failure-with-machine-learning.md",
+      "title": "Anticipating heart failure with machine learning",
+      "excerpt": "A new algorithm developed at MIT CSAIL aims to distinguish between different pulmonary edema severity levels automatically by looking at a single X-ray image.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2020/anticipating-heart-failure-machine-learning-1001",
+      "originalUrl": "https://news.mit.edu/2020/anticipating-heart-failure-machine-learning-1001",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202009/Pulmonary-Edema-xray.png",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-01T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-air-street-capital-ai-industry-remains-strong-despite-academic-brain-drain-tech-nationalization.md",
+      "title": "Air Street Capital: AI industry remains strong despite academic brain drain, tech nationalization",
+      "excerpt": "Air Street Capital's annual State of AI report finds that despite challenges, the AI industry remains strong heading into 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/01/air-street-capital-ai-industry-remains-strong-despite-academic-brain-drain-tech-nationalization/",
+      "originalUrl": "https://venturebeat.com/2020/10/01/air-street-capital-ai-industry-remains-strong-despite-academic-brain-drain-tech-nationalization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/01/air-street-capital-ai-industry-remains-strong-despite-academic-brain-drain-tech-nationalization/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/01/air-street-capital-ai-industry-remains-strong-despite-academic-brain-drain-tech-nationalization/amp/",
+      "publishedDateTime": "2020-10-01T11:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-using-machine-learning-to-predict-pediatric-brain-injury.md",
       "title": "Using machine learning to predict pediatric brain injury",
       "excerpt": "When newborn babies or children with heart or lung distress are struggling to survive, doctors often turn to a form of life support that uses artificial lungs. This treatment, called Extracorporeal Membrane Oxygenation (ECMO),",
@@ -99,17 +303,17 @@
       "title": "How to avoid disasters like Amazon’s Rekognition",
       "excerpt": "One way to avoid disastrous AI systems in the wild might be to build responsible operation into the programs from the start, professor Sergey Levine of U.C. Berkeley told ZDNet. He has a plan to do that.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/video/how-to-avoid-disasters-like-amazons-rekognition/",
-      "originalUrl": "https://www.zdnet.com/video/how-to-avoid-disasters-like-amazons-rekognition/",
+      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/video/how-to-avoid-disasters-like-amazons-rekognition/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/video/how-to-avoid-disasters-like-amazons-rekognition/",
       "featuredContent": null,
       "highlight": null,
       "heat": 81,
       "tags": null,
       "images": [
         {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/10/01/12df13b7-db78-4236-b526-0836a495301d/thumbnail/570x322/6308002064d9b6a1ed183d9434012f27/20200923-tiernan-karen-ai.jpg",
-          "width": 570,
-          "height": 322,
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/09/30/f447663b-3622-49b4-9d70-842de8d91c0d/thumbnail/370x278/c89db3759753cf93a251fb062018a286/it-leadership-influential-cios-deliver-e-5f71c506156d300635196775-1-sep-30-2020-12-20-02-poster.jpg",
+          "width": 370,
+          "height": 278,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -155,7 +359,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/01/fast-tracking-ai-ethics-is-dicey-and-shortsighted-especially-for-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -194,7 +398,8 @@
       ],
       "topics": [
         "AI",
-        "AI Ethics"
+        "AI Ethics",
+        "AI in Autos"
       ]
     },
     {
@@ -253,8 +458,8 @@
       "title": "How the pandemic has reshaped AI, robotics, and automation",
       "excerpt": "Tonya Hall talks with Dr. Kate Darling, research specialist at the MIT Media Lab, to learn more about how the future of AI, robotics, and automation was reshaped following the COVID-19 pandemic outbreak.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/video/how-the-pandemic-has-reshaped-ai-robotics-and-automation/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/video/how-the-pandemic-has-reshaped-ai-robotics-and-automation/",
+      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/video/how-the-pandemic-has-reshaped-ai-robotics-and-automation/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/video/how-the-pandemic-has-reshaped-ai-robotics-and-automation/",
       "featuredContent": null,
       "highlight": null,
       "heat": 169,
@@ -446,16 +651,16 @@
       "title": "Amazon Timestream database is now generally available",
       "excerpt": "The latest addition to the AWS database portfolio focuses on time series data – a segment where fit-for-purpose databases are emerging because use cases ranging from IoT to e-commerce are driving data volumes overwhelming general-purpose platforms.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/amazon-timestream-database-is-now-generally-available/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/amazon-timestream-database-is-now-generally-available/",
+      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/amazon-timestream-database-is-now-generally-available/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/amazon-timestream-database-is-now-generally-available/",
       "featuredContent": null,
       "highlight": null,
       "heat": 89,
       "tags": null,
       "images": null,
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazon-timestream-database-is-now-generally-available/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazon-timestream-database-is-now-generally-available/",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/amazon-timestream-database-is-now-generally-available/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/amazon-timestream-database-is-now-generally-available/",
       "publishedDateTime": "2020-10-01T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -755,56 +960,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-01-the-state-of-ai-in-2020-democratization-industrialization-and-the-way-to-artificial-general-intelligence.md",
-      "title": "The state of AI in 2020: democratization, industrialization, and the way to artificial general intelligence",
-      "excerpt": "From fit for purpose development to pie in the sky research, this is what AI looks like in 2020 After releasing what may well have been the most comprehensive report on the State of AI in 2019, Air Street Capital and RAAIS founder Nathan Benaich and AI angel investor,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-state-of-ai-in-2020-democratization-industrialization-and-the-way-to-artificial-general-intelligence/",
-      "originalUrl": "https://www.zdnet.com/article/the-state-of-ai-in-2020-democratization-industrialization-and-the-way-to-artificial-general-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/10/01/c5fa5375-76e9-4f61-bec0-ff049485159c/pearlbook.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-state-of-ai-in-2020-democratization-industrialization-and-the-way-to-artificial-general-intelligence/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-state-of-ai-in-2020-democratization-industrialization-and-the-way-to-artificial-general-intelligence/",
-      "publishedDateTime": "2020-10-01T01:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-01-saas-based-startup-infilect-raises-15-mn-in-pre-series-a-round.md",
       "title": "SaaS-Based Startup Infilect Raises $1.5 Mn In Pre-Series A Round",
       "excerpt": "Bangalore-based software-as-a-service (SaaS) startup Infilect has raised USD 1.5 million in Pre-series A round. The investment round was led by Mela Ventures and 1Crowd along with participation from The Chennai Angles.",
@@ -1056,158 +1211,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-elon-musk-put-a-computer-interface-in-a-pigs-brain-could-future-ai-turn-animals-against-us.md",
-      "title": "Elon Musk put a computer interface in a pig’s brain. Could future AI turn animals against us?",
-      "excerpt": "It’s been a month since Elon Musk and Neuralink trotted out a cyborg pig to show off the company’s progress toward a brain computer interface (BCI). I still see Gertrude in my nightmares. The big idea behind Neuralink is the development of a brain implant that will allow everybody to control computers with their minds.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/09/30/elon-musk-put-a-computer-interface-in-a-pigs-brain-could-future-ai-turn-the-animals-against-us/",
-      "originalUrl": "https://thenextweb.com/neural/2020/09/30/elon-musk-put-a-computer-interface-in-a-pigs-brain-could-future-ai-turn-the-animals-against-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/animalfarm-796x448.jpg",
-          "width": 796,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/09/30/elon-musk-put-a-computer-interface-in-a-pigs-brain-could-future-ai-turn-the-animals-against-us/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/30/elon-musk-put-a-computer-interface-in-a-pigs-brain-could-future-ai-turn-the-animals-against-us/amp/",
-      "publishedDateTime": "2020-09-30T14:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-pixel-5-fails-to-live-up-to-googles-ai-showcase-device.md",
-      "title": "Pixel 5 fails to live up to Google’s AI showcase device",
-      "excerpt": "During its Launch Night In event, Google took the wraps off of two new midrange smartphones: the Pixel 5 and Pixel 4a (5G).",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/30/pixel-5-fails-to-live-up-to-googles-ai-showcase-device/",
-      "originalUrl": "https://venturebeat.com/2020/09/30/pixel-5-fails-to-live-up-to-googles-ai-showcase-device/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/7c13bc17-bc3c-4b4e-89e9-316e4bce3df1-e1601487811424.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/30/pixel-5-fails-to-live-up-to-googles-ai-showcase-device/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/30/pixel-5-fails-to-live-up-to-googles-ai-showcase-device/amp/",
-      "publishedDateTime": "2020-09-30T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-as-ai-chips-improve-is-tops-the-best-way-to-measure-their-power.md",
-      "title": "As AI chips improve, is TOPS the best way to measure their power?",
-      "excerpt": "There's more to understanding the performance of AI-capable chips than just a single summary number, even if that's what chipmakers are marketing to users.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/30/as-ai-chips-improve-is-tops-the-best-way-to-measure-their-power/",
-      "originalUrl": "https://venturebeat.com/2020/09/30/as-ai-chips-improve-is-tops-the-best-way-to-measure-their-power/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/5thgenaiengine-e1601490960504.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/30/as-ai-chips-improve-is-tops-the-best-way-to-measure-their-power/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/30/as-ai-chips-improve-is-tops-the-best-way-to-measure-their-power/amp/",
-      "publishedDateTime": "2020-09-30T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

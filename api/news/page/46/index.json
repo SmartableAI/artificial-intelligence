@@ -2,6 +2,194 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2020-08-27-google-cloud-and-sts-to-automate-us-navy-maintenance-inspections-using-ai-and-ml-technology.md",
+      "title": "Google Cloud and STS to Automate U.S. Navy Maintenance Inspections Using AI and ML Technology",
+      "excerpt": "How it works: STS will leverage public domain and inspection drone images to build a high-quality AI/ML model using Google Cloud AutoML, a simple, secure, and flexible ML service that allows ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/google-cloud-and-sts-to-automate-u-s-navy-maintenance-inspections-using-ai-and-ml/article_94a8a2b2-a765-5bcd-9d3a-d1f62501ed19.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/google-cloud-and-sts-to-automate-u-s-navy-maintenance-inspections-using-ai-and-ml/article_94a8a2b2-a765-5bcd-9d3a-d1f62501ed19.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-27T05:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-27-proteantecs-raises-45-million-to-apply-ai-to-chip-design-and-performance-monitoring.md",
+      "title": "ProteanTecs raises $45 million to apply AI to chip design and performance monitoring",
+      "excerpt": "Startup ProteanTecs raised $45 million to further develop its AI chip design platform, bringing its total raised to nearly $100 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/27/proteantecs-raises-45-million-to-apply-ai-to-chip-design-and-performance-monitoring/",
+      "originalUrl": "https://venturebeat.com/2020/08/27/proteantecs-raises-45-million-to-apply-ai-to-chip-design-and-performance-monitoring/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/27/proteantecs-raises-45-million-to-apply-ai-to-chip-design-and-performance-monitoring/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/27/proteantecs-raises-45-million-to-apply-ai-to-chip-design-and-performance-monitoring/amp/",
+      "publishedDateTime": "2020-08-27T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-27-federal-contractor-taps-google-cloud-ai-and-ml-to-inspect-us-navy-vessels.md",
+      "title": "Federal contractor taps Google Cloud AI and ML to inspect US Navy vessels",
+      "excerpt": "Simple Technology Solutions will be working with Google Cloud to modernize the maintenance and repairs inspection process for Navy vessels and facilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/federal-contractor-taps-google-cloud-ai-and-ml-to-inspect-us-navy-vessels/",
+      "originalUrl": "https://www.zdnet.com/article/federal-contractor-taps-google-cloud-ai-and-ml-to-inspect-us-navy-vessels/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/federal-contractor-taps-google-cloud-ai-and-ml-to-inspect-us-navy-vessels/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/federal-contractor-taps-google-cloud-ai-and-ml-to-inspect-us-navy-vessels/",
+      "publishedDateTime": "2020-08-27T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-27-graph-machine-learning-hype-and-beyond-arangodb-open-source-multi-model-database-releases-version-37.md",
+      "title": "Graph, machine learning, hype and beyond: ArangoDB open source multi model database releases version 3.7",
+      "excerpt": "A sui generis, multi-model open source database, designed from the ground up to be distributed. ArangoDB keeps up with the times and uses graph, and machine learning, as the entry points for its offering.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/graph-machine-learning-hype-and-beyond-arangodb-open-source-multi-model-database-releases-version-3-7/",
+      "originalUrl": "https://www.zdnet.com/article/graph-machine-learning-hype-and-beyond-arangodb-open-source-multi-model-database-releases-version-3-7/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/08/27/357024d4-fa60-47c8-9df3-52f9bc25856c/arangoml-pipeline-complete-pipeline-1024x470.jpg",
+          "width": 1024,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/graph-machine-learning-hype-and-beyond-arangodb-open-source-multi-model-database-releases-version-3-7/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/graph-machine-learning-hype-and-beyond-arangodb-open-source-multi-model-database-releases-version-3-7/",
+      "publishedDateTime": "2020-08-27T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-27-automotive-artificial-intelligence-ai-market-next-big-thing-major-giants-ibm-microsoft-xilinx.md",
       "title": "Automotive Artificial Intelligence (AI) Market Next Big Thing | Major Giants IBM, Microsoft, Xilinx",
       "excerpt": "Latest released the research study on Global Automotive Artificial Intelligence AI Market offers a detailed overview of the factors influencing the global business scope Automotive Artificial Intelligence AI Market research report shows the latest market insights current situation analysis with",
@@ -947,183 +1135,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-machine-learning-algorithm-confirms-50-new-exoplanets-in-historic-first.md",
-      "title": "Machine learning algorithm confirms 50 new exoplanets in historic first",
-      "excerpt": "A new machine learning technique can be used to sift through massive datasets to discern exoplanets from false positives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/machine-learning-algorithm-confirms-50-new-exoplanets-in-historic-first/",
-      "originalUrl": "https://www.techrepublic.com/article/machine-learning-algorithm-confirms-50-new-exoplanets-in-historic-first/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/machine-learning-algorithm-confirms-50-new-exoplanets-in-historic-first/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/machine-learning-algorithm-confirms-50-new-exoplanets-in-historic-first/",
-      "publishedDateTime": "2020-08-26T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-tachyum-prodigy-native-ai-supports-tensorflow-and-pytorch.md",
-      "title": "Tachyum Prodigy Native AI Supports TensorFlow and PyTorch",
-      "excerpt": "SANTA CLARA, Calif., August 26, 2020 – Tachyum Inc. announced that it has further expanded the capabilities of its Prodigy Universal Processor through support for TensorFlow and PyTorch environments, enabling a faster, less expensive and more dynamic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hpcwire.com/off-the-wire/tachyum-prodigy-native-ai-supports-tensorflow-and-pytorch/",
-      "originalUrl": "https://www.hpcwire.com/off-the-wire/tachyum-prodigy-native-ai-supports-tensorflow-and-pytorch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/HPCwire-logo-square.png",
-          "width": 440,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-26T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HPCwire",
-        "domain": "hpcwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressing-at-a-cagr-of-83-during-the-forecast-period.md",
-      "title": "The Global Self-driving Taxi Market is expected to grow by 78588 units during 2020-2024 progressing at a CAGR of 83% during the forecast period",
-      "excerpt": "The analyst has been monitoring the self-driving taxi market and it is poised to grow by 78588 units during 2020-2024 progressing at a CAGR of 83% during the forecast period. Our reports on self ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/08/n17252765/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressin",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/08/n17252765/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressin",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17252765",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17252765",
-      "publishedDateTime": "2020-08-26T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-why-banks-need-to-sharpen-their-focus-on-financial-crime.md",
-      "title": "Why Banks Need To Sharpen Their Focus On Financial Crime",
-      "excerpt": "As banks contend with the economic fallout from the Covid-19 pandemic, their ability to respond to financial crime threats is not keeping pace with the sophistication and sheer number of incoming attacks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/steveculp/2020/08/26/why-banks-need-to-sharpen-their-focus-on-financial-crime/",
-      "originalUrl": "https://www.forbes.com/sites/steveculp/2020/08/26/why-banks-need-to-sharpen-their-focus-on-financial-crime/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f43faec352da179b5f176ea%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/steveculp/2020/08/26/why-banks-need-to-sharpen-their-focus-on-financial-crime/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveculp/2020/08/26/why-banks-need-to-sharpen-their-focus-on-financial-crime/amp/",
-      "publishedDateTime": "2020-08-26T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

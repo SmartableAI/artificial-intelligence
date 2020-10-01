@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/30/as-ai-chips-improve-is-tops-the-b
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/30/as-ai-chips-improve-is-tops-the-best-way-to-measure-their-power/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Engineers pre-train AI computers to make them even more powerful"
-    excerpt: "Engineers have developed a new machine-learning method that paves the way for artificial intelligence to be used in applications that until now have been deemed too sensitive. The method, which has been tested by running simulations on a climate-control system for a 100-room building,"
-    publishedDateTime: 2020-09-27T01:47:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/09/200922112258.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
 
 secured: "GKcRCZZhWPXmuPOy+Q+t6cUcCL5w+CRllf/hM2OCLfVret81D15dLnosxeMFYI3mybr/Uuq4KtXswnTg4ySiKYz4MmKutBW3YIQIda2LBK2l3ErwTeZOcz43JUoxv8rOQQ/sFor+E1SMgV6+fRE3/u+JGH27KbDv3t5RvYRd4Ed1DgjEV7JSsnOFZe4Y/dQNJSGQnjMy5WKrLKnsE5yl529XPgUvS1+Xv21ACOLKB4RWcOBCckXdxRAkYqqSIP+geos5Wel8d1HJ49klcvFaHzpQJcl3gOHcSjDlLgteJnUlLkmOyMDhq7NLuFw/HV+0edABAt+SNiYZDZtYA08ktFsqcY9wpREYK+3sJI3GA0DHsFGmIHWxc/gYnprSL40cstHUSCWWXdQXYCPAZbcMN0q+IZOwDYBSg2/oCRnegPI46qAprOydKyZp3sdON6DRPpeYcZUjWFZBPFsK7+41rYHrCS8TnjMEs8a2PaDWFMEnknCYNo60hNwGss8AHbIytdpkiIn7d9KnBl/x+EWCig==;nO9RckTYxt7YeWZJtGocUQ=="
 ---

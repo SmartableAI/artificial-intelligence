@@ -2,6 +2,141 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-17-7-self-driving-car-companies-racing-to-gains.md",
+      "title": "7 Self-Driving Car Companies Racing to Gains",
+      "excerpt": "Editor’s Note: This article was updated on Sept. 18, 2020, to correct the road fatality statistic. Self-driving car companies hit a major pothole earlier this year. Long a favorite of tech ...",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2020/09/7-self-driving-car-companies-autonomous-vehicle-stocks/",
+      "originalUrl": "https://investorplace.com/2020/09/7-self-driving-car-companies-autonomous-vehicle-stocks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-16T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-16-elon-musk-says-self-driving-electric-cars-in-tunnels-under-cities-will-feel-like-warp-drive.md",
+      "title": "Elon Musk Says Self-Driving Electric Cars in Tunnels Under Cities Will 'Feel Like Warp Drive'",
+      "excerpt": "The Tesla and SpaceX boss announced on Twitter this week that The Boring Company's first operational tunnel in Las Vegas is \"almost done.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/elon-musk-tesla-boring-company-vegas-loop-self-driving-electric-cars-warp-drive-1532282",
+      "originalUrl": "https://www.newsweek.com/elon-musk-tesla-boring-company-vegas-loop-self-driving-electric-cars-warp-drive-1532282",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1637737/elon-musk.jpg",
+          "width": 3290,
+          "height": 2320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/elon-musk-tesla-boring-company-vegas-loop-self-driving-electric-cars-warp-drive-1532282?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/elon-musk-tesla-boring-company-vegas-loop-self-driving-electric-cars-warp-drive-1532282?amp=1",
+      "publishedDateTime": "2020-09-16T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-16-uber-backup-driver-charged-in-fatal-2018-self-driving-car-crash.md",
+      "title": "Uber backup driver charged in fatal 2018 self-driving car crash",
+      "excerpt": "The backup safety driver who was behind the wheel when one of Uber’s self-driving cars struck and killed a pedestrian in 2018 has been charged with negligent homicide, the New York Times reports. Rafaela Vasquez,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2020/9/16/21439354/uber-backup-driver-charged-autonomous-self-driving-car-crash-negligent-homicide",
+      "originalUrl": "https://www.theverge.com/2020/9/16/21439354/uber-backup-driver-charged-autonomous-self-driving-car-crash-negligent-homicide",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 344,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/Bjdq9rwdqqGu0imAP6-L8aQZTe4=/0x0:1434x790/1400x933/filters:focal(603x281:831x509):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67414250/uber_tempe_2.0.png",
+          "width": 1400,
+          "height": 790,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/9/16/21439354/uber-backup-driver-charged-autonomous-self-driving-car-crash-negligent-homicide",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/9/16/21439354/uber-backup-driver-charged-autonomous-self-driving-car-crash-negligent-homicide",
+      "publishedDateTime": "2020-09-16T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-16-baidu-apollo-head-says-technical-issues-and-high-costs-likely-to-delay-full-roll-out-of-robotaxis-until-2025.md",
       "title": "Baidu Apollo head says technical issues and high costs likely to delay full roll-out of robotaxis until 2025",
       "excerpt": "At the Baidu World event, the company also unveiled a fully-autonomous driving vehicle without a safety driver in a live demonstration, where a remote control was used, connected",
@@ -1240,114 +1375,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-cautions-about-artificial-intelligence-and-response.md",
-      "title": "Cautions About Artificial Intelligence - And Response",
-      "excerpt": "Artificial Intelligence ... road rage, or texting. Self driving cars don’t get tired, they don’t get distracted, and they don’t speed. The point is, these machines have potential to be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chattanoogan.com/2017/12/15/360222/Cautions-About-Artificial-Intelligence.aspx",
-      "originalUrl": "https://www.chattanoogan.com/2017/12/15/360222/Cautions-About-Artificial-Intelligence.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-09T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chattanoogan.com",
-        "domain": "chattanoogan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-captive-audience-how-well-be-the-ones-who-pay-for-autonomous-mobility.md",
-      "title": "Captive Audience: How We’ll Be the Ones Who Pay for Autonomous Mobility",
-      "excerpt": "Those rewards will come in part from licensing the software that powers self-driving cars, both to owners and to corporate customers. But an even larger, longer-tailed source of revenue in self ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.automobilemag.com/news/self-driving-cars-captive-audience-ads/",
-      "originalUrl": "https://www.automobilemag.com/news/self-driving-cars-captive-audience-ads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-09T11:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automobile",
-        "domain": "automobilemag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-7-ways-to-apply-artificial-intelligence-to-your-website.md",
-      "title": "7 Ways To Apply Artificial Intelligence To Your Website",
-      "excerpt": "In recent years we are seeing a great boom in artificial intelligence. Due to the boom in deep learning, we now have more robust and more general predictive models, being […]",
-      "sourceUrl": null,
-      "webUrl": "https://ctovision.com/7-ways-to-apply-artificial-intelligence-to-your-website/",
-      "originalUrl": "https://ctovision.com/7-ways-to-apply-artificial-intelligence-to-your-website/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ctovision.com/wp-content/uploads/space.jpg",
-          "width": 632,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-09T10:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ctovision.com",
-        "domain": "ctovision.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

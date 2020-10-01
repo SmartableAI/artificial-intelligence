@@ -239,20 +239,6 @@ related:
         width: 1254
         height: 836
         isCached: true
-  - title: "Microsoft Translator now supports Assamese too"
-    excerpt: "The Azure-based service will now provide real-time translation ... General Manager - AI & Search - Microsoft India, said in a statement. \"As part of our mission to remove language barriers ..."
-    publishedDateTime: 2020-09-30T11:12:00Z
-    webUrl: "https://menafn.com/1100880896/Microsoft-Translator-now-supports-Assamese-too"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 41
-    images:
-      - url: "https://menafn.com/updates/pr/2020-09/30/I_9ee6f788-9image_story.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Microsoft Azure Cloud Ramps for 5G Telecom Service Provider Partners"
     excerpt: "Microsoft Azure for Operators helps partners & telecommunications service providers (TSPs) roll out 5G networks and deliver new cloud-based services, Microsoft says."
     publishedDateTime: 2020-09-29T17:21:00Z
@@ -262,6 +248,15 @@ related:
       name: ChannelE2E
       domain: channele2e.com
     quality: 34
+  - title: "Microsoft Translator now supports Assamese too"
+    excerpt: "Microsoft India said on Wednesday that it has added Assamese as the latest Indian language in Microsoft Translator, increasing the number of Indian languages it supports to 12. The Azure-based service will now provide real-time translation and transliteration support for the language."
+    publishedDateTime: 2020-09-30T14:41:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20200930/3634598.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 21
 
 secured: "qOftniNQFPNbyFskn4DxCxUD8q7YtFbwcgsGtHNYE9p5M4M9wzYgpWisyWS/Ly0mqp9l6LenU4hbgyUEVYjBH7EW5UAZtBBzwdNnBmIDpT4I0QAfMaJN6ZaLXJZqXy5mMASfnD47cehIccOOuhnC5l7zPCYMxpzbcxKDVGGVFhpYXiK8K0ukEqoFYZ8IpUo6wAtKaAYiC6z2wFYkv7Shv5uDS3wYhBxFGh3IfVMD5L75tzt+GLgiBWS4Sej3UHyutW5RkulhvA1Cbzb2gxFmZLWjOhVTWv3nQsKjQda19yLFmlfhkkRi96z0bLvHG9T5KQwfvplV7QF+lEuFUvejXTaBgdga3PCKi2/agVZ9NAM=;fHOSugV4x9S5rKZzB0YUwA=="
 ---

@@ -43,6 +43,20 @@ related:
         width: 1000
         height: 623
         isCached: true
+  - title: "Onboarding Amazon SageMaker Studio with AWS SSO and Okta Universal Directory"
+    excerpt: "In 2019, AWS announced Amazon SageMaker Studio, a unified integrated development environment (IDE) for machine learning (ML) development. You can write code, track experiments, visualize data, and perform debugging and monitoring within a single, integrated visual interface. Amazon SageMaker Studio supports"
+    publishedDateTime: 2020-10-01T18:57:14Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/onboarding-amazon-sagemaker-studio-with-aws-sso-and-okta-universal-directory/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 101
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/01/FeatureImage.jpg"
+        width: 900
+        height: 450
+        isCached: true
   - title: "Using Amazon Rekognition Custom Labels and Amazon A2I for detecting pizza slices and augmenting predictions"
     excerpt: "Customers need machine learning (ML) models to detect objects that are interesting for their business. In most cases doing so is hard as these models needs thousands of labelled images and deep learning expertise. &nbsp;Generating this data can take months to gather, and can require large teams of labelers"
     publishedDateTime: 2020-09-30T21:30:12Z

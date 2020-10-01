@@ -2,6 +2,191 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-09-02-anti-procrastination-glasses-will-use-ai-to-track-your-activities.md",
+      "title": "‘Anti-Procrastination’ Glasses Will Use AI To Track Your Activities",
+      "excerpt": "Speaking of which, new ‘anti-procrastination’ smart glasses have been launched that can keep you from procrastinating by tracking your activities and providing personalized insights. SEE ALSO: This AI Startup Rents Out Robots That Can Do Human Jobs Amid The Coronavirus Pandemic The glasses called the ‘Specs’ have been launched by a startup named Auctify,",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/16767/anti-procrastination-glasses-will-use-ai-to-track-your-activities",
+      "originalUrl": "https://in.mashable.com/tech/16767/anti-procrastination-glasses-will-use-ai-to-track-your-activities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/photo/default/ai-glasses-specs_n54f.620.jpg",
+          "width": 620,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/tech/16767/anti-procrastination-glasses-will-use-ai-to-track-your-activities?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/16767/anti-procrastination-glasses-will-use-ai-to-track-your-activities?amp=1",
+      "publishedDateTime": "2020-09-02T01:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-the-next-generation-of-nlp-how-new-capabilities-empower-businesses-to-make-data-informed-decisions.md",
+      "title": "The next generation of NLP: how new capabilities empower businesses to make data-informed decisions",
+      "excerpt": "Language is constantly evolving &#8211; it shifts to meet the changing dynamics of our society. The business world is no different &#8211; it has its own vernacular that evolves in response to new innovations, changing consumer expectations and world events. The language of business is documented in",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/09/the-next-generation-of-nlp-how-new-capabilities-empower-businesses-to-make-data-informed-decisions/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/09/the-next-generation-of-nlp-how-new-capabilities-empower-businesses-to-make-data-informed-decisions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/09/social-tile-2.png",
+          "width": 990,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-02T01:00:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-the-best-facial-recognition-security-cameras-of-2020.md",
+      "title": "The best facial recognition security cameras of 2020",
+      "excerpt": "Select home security cameras have facial recognition, a feature that lets you make a database of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your profile of known faces.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-2020-google-nest/",
+      "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-2020-google-nest/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 299,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/O4onAnkKGXEMUhxqCMsiV1okXi4=/756x567/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg",
+          "width": 756,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2020-google-nest/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2020-google-nest/",
+      "publishedDateTime": "2020-09-02T00:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-call-journey-now-available-in-microsoft-azure-marketplace-and-app-source.md",
+      "title": "Call Journey Now Available in Microsoft Azure Marketplace and App Source",
+      "excerpt": "Call Journey, provider of market-leading Conversation Analytics technology, announces its listing in the Microsoft Azure Marketplace and AppSource o",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmo.com.au/mediareleases/135281/call-journey-now-available-in-microsoft-azure/",
+      "originalUrl": "https://www.cmo.com.au/mediareleases/135281/call-journey-now-available-in-microsoft-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://demo.idg.com.au/cmo/cmo50/2020/cmo50_promo_2.jpg",
+          "width": 620,
+          "height": 254,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-02T00:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cmo.com.au",
+        "domain": "cmo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-02-beyond-the-court-how-ibm-is-powering-first-ever-spectator-less-us-open.md",
       "title": "Beyond the court: How IBM is powering first-ever spectator-less US Open",
       "excerpt": "AI Sounds: IBM leveraged its AI Highlights technology ... In past years, AI Highlights used Watson to digest video footage and rank the excitement level of each clip to compile a highlight reel ...",
@@ -951,192 +1136,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-nvidia-unveils-geforce-rtx-30-series-gpus.md",
-      "title": "NVIDIA unveils GeForce RTX 30 Series GPUs",
-      "excerpt": "NVIDIA introduced its new GeForce RTX 30 Series GPUs today. The new cards will be available starting in September. The new series of GPUs will be the biggest jump forward in graphics technology in the history of the company,",
-      "sourceUrl": null,
-      "webUrl": "https://dotesports.com/hardware/news/nvidia-unveils-geforce-rtx-30-series-gpus",
-      "originalUrl": "https://dotesports.com/hardware/news/nvidia-unveils-geforce-rtx-30-series-gpus",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn1.dotesports.com/wp-content/uploads/2020/09/01132606/geforce-rtx-3090-product-gallery-full-screen-3840-2-scaled.jpg",
-          "width": 2560,
-          "height": 1441,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://dotesports.com/hardware/news/nvidia-unveils-geforce-rtx-30-series-gpus/amp",
-      "cdnAmpWebUrl": "https://dotesports-com.cdn.ampproject.org/c/s/dotesports.com/hardware/news/nvidia-unveils-geforce-rtx-30-series-gpus/amp",
-      "publishedDateTime": "2020-09-01T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dot Esports",
-        "domain": "dotesports.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-using-amazon-textract-with-aws-privatelink.md",
-      "title": "Using Amazon Textract with AWS PrivateLink",
-      "excerpt": "Amazon Textract now supports Amazon Virtual Private Cloud (Amazon VPC) endpoints via AWS PrivateLink so you can securely initiate API calls to Amazon Textract from within your VPC and avoid using the public internet. In this post, we show you how to access Amazon Textract APIs from within your VPC without",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-amazon-textract-with-aws-privatelink/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-amazon-textract-with-aws-privatelink/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/31/textract-privatelink.jpg",
-          "width": 1000,
-          "height": 485,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-01T11:58:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-ai-eye-indeed-selects-aws-nasdaqgs-amzn-as-preferred-cloud-and-leading-lens-manufacturer-to-utilize-ai-powered-celebros-from-bridgeline.md",
-      "title": "AI Eye: Indeed Selects AWS (NasdaqGS: $AMZN) As Preferred Cloud And Leading Lens Manufacturer To Utilize AI-Powered Celebros From Bridgeline Digital (NasdaqCM: $BLIN) For eCommerce",
-      "excerpt": "deal tracker and advancements in artificial intelligence Stocks discussed: (NasdaqGS:AMZN) (NasdaqCM:BLIN) The world’s leading job site Indeed has selected Amazon Web Services (AWS), a ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/instablog/776842-investorideas-com/5492243-ai-eye-indeed-selects-aws-nasdaqgs-amzn-preferred-cloud-and-leading-lens-manufacturer-to",
-      "originalUrl": "https://seekingalpha.com/instablog/776842-investorideas-com/5492243-ai-eye-indeed-selects-aws-nasdaqgs-amzn-preferred-cloud-and-leading-lens-manufacturer-to",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static2.seekingalpha.com/uploads/2020/9/1/776842-1598985456764054.jpg",
-          "width": 387,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-01T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-future-cars-may-live-a-lot-longer-analysts-believe.md",
-      "title": "Future cars may live a lot longer, analysts believe",
-      "excerpt": "Vehicle lifecycles are typically about five years with updates sprinkled in, but the lifespan could double to 10 years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/future-cars-vehicle-lifecycle-updates/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/future-cars-vehicle-lifecycle-updates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/I-FdpHll_2IA0qHIZu-4T82tWYU=/2020/02/03/77404ad3-e112-43aa-b8be-6d451870ba75/ep3gwiew4ayb6cd.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/future-cars-vehicle-lifecycle-updates/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/future-cars-vehicle-lifecycle-updates/",
-      "publishedDateTime": "2020-09-01T11:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

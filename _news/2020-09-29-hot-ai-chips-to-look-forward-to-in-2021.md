@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/latest-ai-chips-accelerators-2021/"
 webUrl: "https://analyticsindiamag.com/latest-ai-chips-accelerators-2021/"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Qualcomm ships edge AI chip with expanded power for biometric video processing, 5G integration"
-    excerpt: "Qualcomm Technologies, Inc., a subsidiary of Qualcomm Inc., is aiming to grow its slice of the edge AI chip market with news that the Qualcomm Cloud AI 100 is shipping to select worldwide"
-    publishedDateTime: 2020-09-28T16:50:00Z
-    webUrl: "https://www.biometricupdate.com/202009/qualcomm-ships-edge-ai-chip-with-expanded-power-for-biometric-video-processing-5g-integration"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 42
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/28124236/qualcomm.jpg"
-        width: 1600
-        height: 901
-        isCached: true
   - title: "What Can We Expect From AI in 2021?"
     excerpt: "Artificial Intelligence is a hot topic. What can we expect from AI in 2021? Let's take a look at the applications of Artificial Intellegence."
     publishedDateTime: 2020-09-27T13:55:00Z

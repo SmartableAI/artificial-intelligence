@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/getting-started-with-aws-deepracer-community-races/</loc>
+    <lastmod>2020-10-01T12:19:54-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/10/01/via-acquires-delivery-logistics-startup-fleetonomy-to-bolster-fulfillment-with-ai/</loc>
+    <lastmod>2020-10-01T11:17:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://news.mit.edu/2020/anticipating-heart-failure-machine-learning-1001</loc>
+    <lastmod>2020-10-01T11:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/10/01/air-street-capital-ai-industry-remains-strong-despite-academic-brain-drain-tech-nationalization/</loc>
+    <lastmod>2020-10-01T11:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://medicalxpress.com/news/2020-10-machine-pediatric-brain-injury.html</loc>
     <lastmod>2020-10-01T10:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -13,7 +37,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/video/how-to-avoid-disasters-like-amazons-rekognition/</loc>
+    <loc>https://www.zdnet.com/index.php/category/2381/index.php/video/how-to-avoid-disasters-like-amazons-rekognition/</loc>
     <lastmod>2020-10-01T09:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -31,7 +55,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/index.php/category/10250/4/index.php/video/how-the-pandemic-has-reshaped-ai-robotics-and-automation/</loc>
+    <loc>https://www.zdnet.com/index.php/category/2381/index.php/video/how-the-pandemic-has-reshaped-ai-robotics-and-automation/</loc>
     <lastmod>2020-10-01T06:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -55,7 +79,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/index.php/category/2184/index.php/article/amazon-timestream-database-is-now-generally-available/</loc>
+    <loc>https://www.zdnet.com/index.php/category/2381/index.php/article/amazon-timestream-database-is-now-generally-available/</loc>
     <lastmod>2020-10-01T05:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -93,12 +117,6 @@
   <url>
     <loc>https://thenextweb.com/neural/2020/10/01/googles-new-machine-learning-tool-turns-your-awful-humming-into-a-beautiful-violin-solo/</loc>
     <lastmod>2020-10-01T02:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.zdnet.com/article/the-state-of-ai-in-2020-democratization-industrialization-and-the-way-to-artificial-general-intelligence/</loc>
-    <lastmod>2020-10-01T01:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -231,6 +249,12 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-insights-on-fortified-dairy-products-market-and-forecast-assumptions-2020-09-30</loc>
     <lastmod>2020-09-30T04:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2020-latest-advancements-and-growth-analysis--intel-qualcomm-general-electric-apple-2020-09-30</loc>
+    <lastmod>2020-09-30T04:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -469,7 +493,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.bbc.com/news/av/world-asia-china-54294193</loc>
+    <loc>https://www.bbc.com/news/world-asia-china-54294193</loc>
     <lastmod>2020-09-28T16:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1447,8 +1471,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572</loc>
-    <lastmod>2020-09-22T05:29:00-07:00</lastmod>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace/article_f6c327bd-10d4-5df0-beed-77fd9ceef60a.html</loc>
+    <lastmod>2020-09-22T05:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

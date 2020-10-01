@@ -93,6 +93,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Detroit Approves Police Use of Facial Recognition Software"
+    excerpt: "The City Council approved a nearly $200,000 facial recognition contract that will run through September 2022 but many see the tech as racist, discriminating for the sake of efficiency and they question its accuracy."
+    publishedDateTime: 2020-10-01T19:44:00Z
+    webUrl: "https://www.governing.com/security/Detroit-Approves-Police-Use-of-Facial-Recognition-Software.html"
+    ampWebUrl: "https://www.governing.com/security/Detroit-Approves-Police-Use-of-Facial-Recognition-Software.html?AMP"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Detroit-Approves-Police-Use-of-Facial-Recognition-Software.html?AMP"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 39
   - title: "Detroit City Council defies public opposition and renews facial recognition contract"
     excerpt: "A majority of the council of nine Democrats voted to approve a two-year, $220,000 upgrade and maintenance contract with South Carolina-based DataWorks Plus."
     publishedDateTime: 2020-10-01T06:05:00Z
