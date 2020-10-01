@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-insights-on-fortified-dairy-products-market-and-forecast-assumptions-2020-09-30"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 744
         height: 389
         isCached: true
-  - title: "Global 3D Machine Vision Market By Offering, By Product, By Application, By Industry Vertical, By Region, Industry Analysis and Forecast, 2020 - 2026"
-    excerpt: "Reportlinker.com announces the release of the report \"Global 3D Machine Vision Market By Offering, By Product, By Application, By Industry Vertical, By Region, Industry Analysis and Forecast, 2020 - 2026\" -  It consists of multiple cameras or various laser displacement sensors that deliver the robots information about the parts."
-    publishedDateTime: 2020-09-28T23:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-3d-machine-vision-market-by-offering-by-product-by-application-by-industry-vertical-by-region-industry-analysis-and-forecast-2020-2026-1029628508"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 0
 
 secured: "kJ7Xnk8llcTFgNctaSHK7tyVkTMTlrAr1BBn3+rcq2UIxTSRqQwyl6PzaIdDSC2m7t5U373wPutiPpaYUB15fYLGhq1EjSmrzZHBdxuCOZtz650qysFBtkq7FhHT3obEy3cS7gZDuEhbyFmzuNjeK4S9KPZfzM6Zq6u8kWI7xNcTJvm/jnw5SecC2iIq/I0oBZsQs9yeF0xTOGWvXvqCp3okqcYfUImyfv4Swhs42YZQe9C62X4f0lhnse5cr6HwJGBy/Vfhyyzh+OW4OKkE5bkIR3HYAJmFvAs6s6xlQgJdoiNJe0ZeIVX1I3g/Nza3v7fcjv7mTHHxjLfGaTptRZlVixFgi16ittRJpB5rKcE=;VgaXp3ZSE2s/8Je2QJA8Kg=="
 ---

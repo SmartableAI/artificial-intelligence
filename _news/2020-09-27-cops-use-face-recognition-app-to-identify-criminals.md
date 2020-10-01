@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/city/madurai/cops-use-face-recognition-ap
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/madurai/cops-use-face-recognition-app-to-identify-criminals/amp_articleshow/78341811.cms"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Madurai Police Launches Facial Recognition App To Reduce Crime Rate"
-    excerpt: "To reduce robberies and other crimes, the Madurai city police has introduced the FACETAGR app, a technology-enabled web-based processor, which matches the facial features of a suspect with the data stored in a database."
-    publishedDateTime: 2020-09-26T16:18:00Z
-    webUrl: "https://www.ndtv.com/tamil-nadu-news/madurai-police-launches-facial-recognition-app-facetagr-to-reduce-crime-rate-2301538"
-    ampWebUrl: "https://www.ndtv.com/tamil-nadu-news/madurai-police-launches-facial-recognition-app-facetagr-to-reduce-crime-rate-2301538?amp=1&akamai-rum=off"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/tamil-nadu-news/madurai-police-launches-facial-recognition-app-facetagr-to-reduce-crime-rate-2301538?amp=1&akamai-rum=off"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 74
-    images:
-      - url: "https://c.ndtvimg.com/2019-05/ituc17b_cctv-generic_625x300_29_May_19.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Madurai City Police using facial recognition tool to identify ‘suspicious’ people"
     excerpt: "Since last week, the Madurai City Police in Tamil Nadu have been using a facial recognition application in a bid to nab potential criminals roaming around, especially in the night. The police claimed that with the rising number of chain snatching ..."
     publishedDateTime: 2020-09-29T10:49:00Z

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Madurai Police Launches Facial Recognition App To Reduce Crime Rate"
-    excerpt: "To reduce robberies and other crimes, the Madurai city police has introduced the FACETAGR app, a technology-enabled web-based processor, which matches the facial features of a suspect with the data stored in a database."
-    publishedDateTime: 2020-09-26T16:18:00Z
-    webUrl: "https://www.ndtv.com/tamil-nadu-news/madurai-police-launches-facial-recognition-app-facetagr-to-reduce-crime-rate-2301538"
-    ampWebUrl: "https://www.ndtv.com/tamil-nadu-news/madurai-police-launches-facial-recognition-app-facetagr-to-reduce-crime-rate-2301538?amp=1&akamai-rum=off"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/tamil-nadu-news/madurai-police-launches-facial-recognition-app-facetagr-to-reduce-crime-rate-2301538?amp=1&akamai-rum=off"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 74
-    images:
-      - url: "https://c.ndtvimg.com/2019-05/ituc17b_cctv-generic_625x300_29_May_19.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Cops use face recognition app to identify criminals"
     excerpt: "The Madurai city police have introduced a mobile application which helps police officers on vehicle checks to identify criminals at the touch."
     publishedDateTime: 2020-09-26T23:12:00Z

@@ -2,6 +2,150 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-15-ai-researchers-devise-failure-detection-method-for-safety-critical-machine-learning.md",
+      "title": "AI researchers devise failure detection method for safety-critical machine learning",
+      "excerpt": "Researchers devised a way to predict the failure rates of safety-critical machine learning systems used in self-driving cars, robotic surgery, and planes.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/15/ai-researchers-devise-failure-detection-method-for-safety-critical-machine-learning/",
+      "originalUrl": "https://venturebeat.com/2020/09/15/ai-researchers-devise-failure-detection-method-for-safety-critical-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/photo-1539109523166-85417acfcdb7.jpeg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/15/ai-researchers-devise-failure-detection-method-for-safety-critical-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/15/ai-researchers-devise-failure-detection-method-for-safety-critical-machine-learning/amp/",
+      "publishedDateTime": "2020-09-15T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-researchers-say-artificial-intelligence-and-machine-learning-could-enhance-scientific-peer-review.md",
+      "title": "Researchers say artificial intelligence and machine learning could enhance scientific peer review",
+      "excerpt": "As the COVID-19 pandemic has swept the world, researchers have published hundreds of papers each week reporting their findings—many of which have not undergone a thorough peer review process to gauge their reliability.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2020-09-artificial-intelligence-machine-scientific-peer.html",
+      "originalUrl": "https://medicalxpress.com/news/2020-09-artificial-intelligence-machine-scientific-peer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/aimingforacc.jpg",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-09-artificial-intelligence-machine-scientific-peer.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-09-artificial-intelligence-machine-scientific-peer.amp",
+      "publishedDateTime": "2020-09-15T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-machine-learning-in-retail-market-2020-structure-research-methodology-forecast-to-2024.md",
+      "title": "Machine Learning in Retail Market 2020 Structure, Research Methodology Forecast to 2024",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Sep 15, 2020 (The Expresswire) -- Global “Machine Learning in Retail Market” 2024 Research Report provide in-depth study of the present state of the Industry. Initially ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-retail-market-2020-structure-research-methodology-forecast-to-2024-2020-09-15?mod=mw_quote_news",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-retail-market-2020-structure-research-methodology-forecast-to-2024-2020-09-15?mod=mw_quote_news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 196,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-15T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-how-artificial-intelligence-and-machine-learning-will-make-isr-faster.md",
       "title": "How Artificial Intelligence And Machine Learning Will Make ISR Faster",
       "excerpt": "Raytheon Intelligence and Space is integrating artificial intelligence and machine learning across ISR capabilities to help warfighters make decisions faster with reduced workload. (Raytheon Technologies photo illustration created by Grant Parsley) If a swarm of heavily armed fast boats barreled full speed at an aircraft carrier,",
@@ -1268,133 +1412,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-use-artificial-intelligence-machine-learning-for-efficient-relief-management.md",
-      "title": "Use artificial intelligence, machine learning for efficient relief management",
-      "excerpt": "Bangladesh located to the north-east of South Asia is one of the disaster-prone areas of the region as well the world due to its geographical characteristics, complex topographical features, excessive and mighty river system,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailystar.net/business/news/use-artificial-intelligence-machine-learning-efficient-relief-management-1957645",
-      "originalUrl": "https://www.thedailystar.net/business/news/use-artificial-intelligence-machine-learning-efficient-relief-management-1957645",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/natural-disasters.jpg?itok=avHIeykZ",
-          "width": 560,
-          "height": 292,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thedailystar.net/business/news/use-artificial-intelligence-machine-learning-efficient-relief-management-1957645?amp",
-      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/news/use-artificial-intelligence-machine-learning-efficient-relief-management-1957645?amp",
-      "publishedDateTime": "2020-09-07T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Star",
-        "domain": "thedailystar.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-09-07-google-cloud-a-platform-for-innovation.md",
-      "title": "Google Cloud: A platform for innovation",
-      "excerpt": "Using AutoML Vision, organisations can automate the training of their own custom machine learning models. Or they can take advantage of the pre-trained machine learning models in our Vision API to assign labels to images and quickly classify them into ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.themanufacturer.com/articles/google-cloud-a-platform-for-innovation/",
-      "originalUrl": "https://www.themanufacturer.com/articles/google-cloud-a-platform-for-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://themanufacturer-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/09/02180919/Colored-pipes-in-The-Dalles.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-06T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Manufacturing",
-        "domain": "themanufacturer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-07-dubais-rta-applies-ai-machine-learning-to-plan-better-bus-routes.md",
-      "title": "Dubai’s RTA applies AI, machine learning to plan better bus routes",
-      "excerpt": "Dubai’s Roads and Transport Authority (RTA) has begun experimenting on the use of Artificial Intelligence technologies and machine learning algorithms in plotting bus routes in Dubai, according to officials.",
-      "sourceUrl": null,
-      "webUrl": "https://english.alarabiya.net/en/News/gulf/2020/09/07/Dubai-s-RTA-applies-AI-machine-learning-to-plan-better-bus-routes",
-      "originalUrl": "https://english.alarabiya.net/en/News/gulf/2020/09/07/Dubai-s-RTA-applies-AI-machine-learning-to-plan-better-bus-routes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://vid.alarabiya.net/images/2020/09/07/77e067e1-6e24-4fe5-aa30-05cb9ad7de20/77e067e1-6e24-4fe5-aa30-05cb9ad7de20_16x9_600x338.jpg?width=466",
-          "width": 466,
-          "height": 262,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://english.alarabiya.net/en/amp/News/gulf/2020/09/07/Dubai-s-RTA-applies-AI-machine-learning-to-plan-better-bus-routes",
-      "cdnAmpWebUrl": "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/en/amp/News/gulf/2020/09/07/Dubai-s-RTA-applies-AI-machine-learning-to-plan-better-bus-routes",
-      "publishedDateTime": "2020-09-06T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "العربية.نت",
-        "domain": "alarabiya.net",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,24 +2,24 @@
 category: news
 title: "World-first testing system aims to end dangerous confusion around “self-driving” cars"
 excerpt: "A new testing standard which ranks the assisted driving systems of new cars has been launched in an effort to reduce confusion around the current technology. A growing number of cars are being sold with systems - such as Tesla’s Autopilot and BMW’s Driving Assistant Professional - which claim to ease the strain on drivers by offering support to keep a car in its lane and maintain a safe distance to other vehicles even when moving through traffic jams."
-publishedDateTime: 2020-10-01T06:09:00Z
-originalUrl: "https://www.scotsman.com/lifestyle/cars/world-first-testing-system-aims-end-dangerous-confusion-around-self-driving-cars-2988937"
-webUrl: "https://www.scotsman.com/lifestyle/cars/world-first-testing-system-aims-end-dangerous-confusion-around-self-driving-cars-2988937"
+publishedDateTime: 2020-10-01T06:32:00Z
+originalUrl: "https://www.sunderlandecho.com/lifestyle/cars/world-first-testing-system-aims-end-dangerous-confusion-around-self-driving-cars-2988937"
+webUrl: "https://www.sunderlandecho.com/lifestyle/cars/world-first-testing-system-aims-end-dangerous-confusion-around-self-driving-cars-2988937"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: The Scotsman
-  domain: scotsman.com
+  name: Sunderland Echo
+  domain: sunderlandecho.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.scotsman.com/images-i.jpimedia.uk/imagefetch/https://jpgreatcontent.co.uk/wp-content/uploads/2020/09/Audi-Q8_CCRs_straight-lane.jpg"
+  - url: "https://www.sunderlandecho.com/images-i.jpimedia.uk/imagefetch/https://jpgreatcontent.co.uk/wp-content/uploads/2020/09/Audi-Q8_CCRs_straight-lane.jpg"
     width: 1620
     height: 1080
     isCached: true
@@ -40,6 +40,22 @@ related:
       - url: "https://video-images.vice.com//articles/5f636781e2069b0095ed22d7/lede/1600350374335-gettyimages-609845734.jpeg?crop=1xw:0.8588xh;0xw,0.1412xh"
         width: 4200
         height: 2359
+        isCached: true
+  - title: "‘Self-driving’ systems officially assessed"
+    excerpt: "Thatcham Research and Euro NCAP have assessed the latest driver assistance systems to ensure users are fully aware of their capabilities."
+    publishedDateTime: 2020-10-01T09:18:00Z
+    webUrl: "https://www.fleetnews.co.uk/news/manufacturer-news/2020/10/01/self-driving-systems-officially-assessed"
+    ampWebUrl: "https://www.fleetnews.co.uk/amp/news/manufacturer-news/2020/10/01/self-driving-systems-officially-assessed"
+    cdnAmpWebUrl: "https://www-fleetnews-co-uk.cdn.ampproject.org/c/s/www.fleetnews.co.uk/amp/news/manufacturer-news/2020/10/01/self-driving-systems-officially-assessed"
+    type: article
+    provider:
+      name: Fleet News
+      domain: fleetnews.co.uk
+    quality: 44
+    images:
+      - url: "https://www.fleetnews.co.uk/amp/iframe-loading/560/315"
+        width: 560
+        height: 315
         isCached: true
   - title: "Uber's self driving car was an expensive waste of time"
     excerpt: "It can't drive without messing things up After five years and an investment of around $2.5 billion, Uber's effort to build a self-driving car is a lemon. Apparently an Uber manager said that the car cant drive more than half a mile without encountering a problem in an email to Uber CEO"
@@ -70,6 +86,6 @@ related:
         height: 718
         isCached: true
 
-secured: "1vNDEqbNLRB1Td9Ye65ICbjjKZ3YxygQ0GE7joxOlizWpw4LyUaefRvM27xjVT/TPbLc2Op1sggVlmxHAHjrTucOzD39jyWxpOLUTg34oGIrokD6yOBioDj8b+ErFcSeJtDpRYXh+zCtLDydIYvg50PSY3f4plC3C0fVJ8PFC/6aRapnwofR16oqPirSMOpMLTqNMl26at3lpyDM/xTLY7CUhI1FXBjNwMTllWO8h/quPdjN3UvE19x4E8DQ8tWnp/yAebtzo73eIioQHg2qAfd9wMSDbMw48BUV5gctY+MShy3jdVvdnfxqxBba1nNQ99IEDC58HhvFMz2DY6Wl4uQzB9/bt1VhNMJ7sTR/JS4=;zhJhw6c71qgSo2Q59WIkYg=="
+secured: "rVaG8GmkTUJ5QMATJF8bdVlBl1ajq1JU8R/SMPyEHBgHVNwwLR8BLPdkFlN+rk9jBQWsWapvydmVGt9DrZ9HTIbMLDqSf3bx70qCTZJ3jHeA8+YnWdFZ8UxeFzjIS6Ym2prz+KBLBrBazer07wxhuGPxOaihwTsWpZc7LsctD/hG3PLFWD8ag36Odwa6tx0ABCd+uMOFi2g+7fvyxj8ozF3b7qWGyyapzddDz6JkYBheWJHDsZ4HZhLGcYfJI/P6Wybetvf7R7RqqN3ZWhC1ZoVi5hlOsWwlNVagB50zJvkuACRvttu0aE36WHFLWJ3CR+iBPav+mcXJ7OKZTjGvEgxFCpVsuQsBxFlvKaBktik=;C246HdL6ZtYfZHtSuX7kZg=="
 ---
 

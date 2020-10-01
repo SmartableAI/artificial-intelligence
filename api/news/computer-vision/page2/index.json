@@ -2,57 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-09-16-over-1000-parents-sign-open-letter-protesting-facial-recognition-in-schools.md",
-      "title": "Over 1,000 parents sign open letter protesting facial recognition in schools",
-      "excerpt": "More than 1,000 parents from all 50 U.S. states signed an open letter advocating for a ban on facial recognition in schools.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/16/over-1000-parents-sign-open-letter-protesting-facial-recognition-in-schools/",
-      "originalUrl": "https://venturebeat.com/2020/09/16/over-1000-parents-sign-open-letter-protesting-facial-recognition-in-schools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/block_image-e1597092687237.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/16/over-1000-parents-sign-open-letter-protesting-facial-recognition-in-schools/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/16/over-1000-parents-sign-open-letter-protesting-facial-recognition-in-schools/amp/",
-      "publishedDateTime": "2020-09-16T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-16-computer-vision-market-in-deep-analysis-and-experts-review-report-2020-2025.md",
       "title": "Computer Vision Market In-deep Analysis And Experts Review Report 2020-2025",
       "excerpt": "The report titled \"Computer Vision Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,",
@@ -1370,6 +1319,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-04-3-start-ups-selected-for-innovation-challenge.md",
+      "title": "3 start-ups selected for Innovation Challenge",
+      "excerpt": "Three start-ups have been selected to develop proof-of-concept (PoC) systems in the RTX Innovation Challenge in Computer Vision that aerospace and defence company Raytheon Technologies had ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/news/cities/Hyderabad/3-start-ups-selected-for-innovation-challenge/article32518345.ece",
+      "originalUrl": "https://www.thehindu.com/news/cities/Hyderabad/3-start-ups-selected-for-innovation-challenge/article32518345.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th.thgim.com/static/theme/default/base/img/og-image.jpg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/news/cities/Hyderabad/3-start-ups-selected-for-innovation-challenge/article32518345.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Hyderabad/3-start-ups-selected-for-innovation-challenge/article32518345.ece/amp/",
+      "publishedDateTime": "2020-09-03T16:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

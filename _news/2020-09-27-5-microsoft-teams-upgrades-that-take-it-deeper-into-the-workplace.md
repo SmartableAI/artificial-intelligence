@@ -7,7 +7,7 @@ originalUrl: "https://www.cmswire.com/collaboration-productivity/5-microsoft-tea
 webUrl: "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/5-new-ways-to-boost-productivity-with-enhanced-teams-power/ba-p/1680697"
 type: article
 quality: 139
-heat: 319
+heat: 309
 published: true
 
 provider:
@@ -210,22 +210,6 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/AttenaSkyBig.jpg"
         width: 1665
         height: 1158
-        isCached: true
-  - title: "Microsoft unveils a new AI-powered tool for spotting deepfaked images and videos"
-    excerpt: "The tool was announced as part of Microsoft's effort to help prevent election interference in the form of digital manipulation."
-    publishedDateTime: 2020-09-26T16:08:00Z
-    webUrl: "https://www.dpreview.com/news/8449901778/microsoft-unveils-a-new-ai-powered-tool-for-spotting-deepfaked-images-and-videos"
-    ampWebUrl: "https://m.dpreview.com/news/8449901778/microsoft-unveils-a-new-ai-powered-tool-for-spotting-deepfaked-images-and-videos.amp"
-    cdnAmpWebUrl: "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/8449901778/microsoft-unveils-a-new-ai-powered-tool-for-spotting-deepfaked-images-and-videos.amp"
-    type: article
-    provider:
-      name: Digital Photography Review
-      domain: dpreview.com
-    quality: 52
-    images:
-      - url: "https://2.img-dpreview.com/files/p/E~TS520x0~articles/8449901778/microsoft_deepfake_main.jpeg"
-        width: 520
-        height: 296
         isCached: true
   - title: "Microsoft unveils Azure for Operators in most aggressive cloud telco pursuit to date"
     excerpt: "Microsoft has announced the launch of Azure for Operators to begin what the company calls 'a new chapter' in its telecoms industry collaboration."

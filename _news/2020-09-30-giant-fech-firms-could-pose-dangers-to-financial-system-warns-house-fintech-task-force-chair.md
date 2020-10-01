@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/amp/"
 type: article
 quality: 78
-heat: 168
+heat: 178
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/09/open-banking-fintech-treasury-management-457x305.jpg"
         width: 457
         height: 305
+        isCached: true
+  - title: "How Covid-19 has injected new life into the fintech sector"
+    excerpt: "The coronavirus pandemic has forced the hands of many companies when it comes to their use of technology and, in doing so, it has reignited the fintech revolution."
+    publishedDateTime: 2020-10-01T08:30:00Z
+    webUrl: "https://www.itproportal.com/features/how-covid-19-has-injected-new-life-into-the-fintech-sector/"
+    ampWebUrl: "https://www.itproportal.com/amp/features/how-covid-19-has-injected-new-life-into-the-fintech-sector/"
+    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/how-covid-19-has-injected-new-life-into-the-fintech-sector/"
+    type: article
+    provider:
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 44
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/HeCsiY6yjxpnUybtYHdeu9-1200-80.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "S.Korean FinTech Kakao Pay Preps For IPO"
     excerpt: "Kakao Pay is set to be the first South Korean FinTech working with mobile payments to undertake an IPO. The company is likely to be valued at $8.5 billion."

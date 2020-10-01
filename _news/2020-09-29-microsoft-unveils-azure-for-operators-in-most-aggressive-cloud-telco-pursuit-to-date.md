@@ -225,22 +225,6 @@ related:
         width: 1665
         height: 1158
         isCached: true
-  - title: "Microsoft unveils a new AI-powered tool for spotting deepfaked images and videos"
-    excerpt: "The tool was announced as part of Microsoft's effort to help prevent election interference in the form of digital manipulation."
-    publishedDateTime: 2020-09-26T16:08:00Z
-    webUrl: "https://www.dpreview.com/news/8449901778/microsoft-unveils-a-new-ai-powered-tool-for-spotting-deepfaked-images-and-videos"
-    ampWebUrl: "https://m.dpreview.com/news/8449901778/microsoft-unveils-a-new-ai-powered-tool-for-spotting-deepfaked-images-and-videos.amp"
-    cdnAmpWebUrl: "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/8449901778/microsoft-unveils-a-new-ai-powered-tool-for-spotting-deepfaked-images-and-videos.amp"
-    type: article
-    provider:
-      name: Digital Photography Review
-      domain: dpreview.com
-    quality: 52
-    images:
-      - url: "https://2.img-dpreview.com/files/p/E~TS520x0~articles/8449901778/microsoft_deepfake_main.jpeg"
-        width: 520
-        height: 296
-        isCached: true
   - title: "Microsoft Translator now supports Assamese too"
     excerpt: "The Azure-based service will now provide real-time translation ... General Manager - AI & Search - Microsoft India, said in a statement. \"As part of our mission to remove language barriers ..."
     publishedDateTime: 2020-09-30T11:12:00Z

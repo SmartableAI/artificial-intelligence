@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en_us/article/qj4qbw/uber-safety-driver-cha
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
 type: article
 quality: 72
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "‘Self-driving’ systems officially assessed"
+    excerpt: "Thatcham Research and Euro NCAP have assessed the latest driver assistance systems to ensure users are fully aware of their capabilities."
+    publishedDateTime: 2020-10-01T09:18:00Z
+    webUrl: "https://www.fleetnews.co.uk/news/manufacturer-news/2020/10/01/self-driving-systems-officially-assessed"
+    ampWebUrl: "https://www.fleetnews.co.uk/amp/news/manufacturer-news/2020/10/01/self-driving-systems-officially-assessed"
+    cdnAmpWebUrl: "https://www-fleetnews-co-uk.cdn.ampproject.org/c/s/www.fleetnews.co.uk/amp/news/manufacturer-news/2020/10/01/self-driving-systems-officially-assessed"
+    type: article
+    provider:
+      name: Fleet News
+      domain: fleetnews.co.uk
+    quality: 44
+    images:
+      - url: "https://www.fleetnews.co.uk/amp/iframe-loading/560/315"
+        width: 560
+        height: 315
+        isCached: true
   - title: "Uber's self driving car was an expensive waste of time"
     excerpt: "It can't drive without messing things up After five years and an investment of around $2.5 billion, Uber's effort to build a self-driving car is a lemon. Apparently an Uber manager said that the car cant drive more than half a mile without encountering a problem in an email to Uber CEO"
     publishedDateTime: 2020-09-30T10:08:00Z
@@ -47,15 +63,15 @@ related:
         isCached: true
   - title: "World-first testing system aims to end dangerous confusion around “self-driving” cars"
     excerpt: "A new testing standard which ranks the assisted driving systems of new cars has been launched in an effort to reduce confusion around the current technology. A growing number of cars are being sold with systems - such as Tesla’s Autopilot and BMW’s Driving Assistant Professional - which claim to ease the strain on drivers by offering support to keep a car in its lane and maintain a safe distance to other vehicles even when moving through traffic jams."
-    publishedDateTime: 2020-10-01T06:09:00Z
-    webUrl: "https://www.scotsman.com/lifestyle/cars/world-first-testing-system-aims-end-dangerous-confusion-around-self-driving-cars-2988937"
+    publishedDateTime: 2020-10-01T06:32:00Z
+    webUrl: "https://www.sunderlandecho.com/lifestyle/cars/world-first-testing-system-aims-end-dangerous-confusion-around-self-driving-cars-2988937"
     type: article
     provider:
-      name: The Scotsman
-      domain: scotsman.com
+      name: Sunderland Echo
+      domain: sunderlandecho.com
     quality: 32
     images:
-      - url: "https://www.scotsman.com/images-i.jpimedia.uk/imagefetch/https://jpgreatcontent.co.uk/wp-content/uploads/2020/09/Audi-Q8_CCRs_straight-lane.jpg"
+      - url: "https://www.sunderlandecho.com/images-i.jpimedia.uk/imagefetch/https://jpgreatcontent.co.uk/wp-content/uploads/2020/09/Audi-Q8_CCRs_straight-lane.jpg"
         width: 1620
         height: 1080
         isCached: true

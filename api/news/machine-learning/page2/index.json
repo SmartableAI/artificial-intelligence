@@ -2,6 +2,143 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-24-how-deep-learning-can-advance-study-of-neural-degeneration.md",
+      "title": "How deep learning can advance study of neural degeneration",
+      "excerpt": "elegans. The tool uses deep learning, a form of AI, and should facilitate and expedite research into neural degeneration. Researchers from North Carolina State University have demonstrated the utility of artificial intelligence (AI) in identifying and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2020/09/200924141616.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2020/09/200924141616.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-23T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-robot-beats-humans-at-curling-thanks-to-deep-learning-program.md",
+      "title": "Robot beats humans at curling thanks to deep learning program",
+      "excerpt": "Thanks to a new deep learning program, a curling robot, appropriately named Curly, was able to win three out of four matches against curlers from South Korea's national teams.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Science_News/2020/09/23/Robot-beats-humans-at-curling-thanks-to-deep-learning-program/5991600873549/",
+      "originalUrl": "https://www.upi.com/Science_News/2020/09/23/Robot-beats-humans-at-curling-thanks-to-deep-learning-program/5991600873549/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/i/5991600873549/2020/1/16008835508632/v1.5/Robot-beats-humans-at-curling-thanks-to-deep-learning-program.jpg",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Science_News/2020/09/23/Robot-beats-humans-at-curling-thanks-to-deep-learning-program/5991600873549/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2020/09/23/Robot-beats-humans-at-curling-thanks-to-deep-learning-program/5991600873549/",
+      "publishedDateTime": "2020-09-23T11:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-facebook-removes-chinese-network-of-fake-accounts-that-used-ai-generated-faces.md",
+      "title": "Facebook removes Chinese network of fake accounts that used AI-generated faces",
+      "excerpt": "The operation reportedly used AI-generated Facebook profile photos to spread government propaganda about Beijing's interests in the South China Sea.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/23/facebook-removes-chinese-network-of-fake-accounts-that-used-ai-generated-faces/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/23/facebook-removes-chinese-network-of-fake-accounts-that-used-ai-generated-faces/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-92-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/23/facebook-removes-chinese-network-of-fake-accounts-that-used-ai-generated-faces/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/23/facebook-removes-chinese-network-of-fake-accounts-that-used-ai-generated-faces/amp/",
+      "publishedDateTime": "2020-09-23T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-14-open-source-tools-to-make-the-most-of-machine-learning.md",
       "title": "14 open source tools to make the most of machine learning",
       "excerpt": "Apache Mahout provides a way to build environments for hosting machine learning applications that can be scaled quickly and efficiently to meet demand. Mahout works mainly with another well-known Apache project, Spark, and was originally devised to work ...",
@@ -1238,150 +1375,6 @@
         "Google AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-ai-researchers-devise-failure-detection-method-for-safety-critical-machine-learning.md",
-      "title": "AI researchers devise failure detection method for safety-critical machine learning",
-      "excerpt": "Researchers devised a way to predict the failure rates of safety-critical machine learning systems used in self-driving cars, robotic surgery, and planes.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/15/ai-researchers-devise-failure-detection-method-for-safety-critical-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2020/09/15/ai-researchers-devise-failure-detection-method-for-safety-critical-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/photo-1539109523166-85417acfcdb7.jpeg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/15/ai-researchers-devise-failure-detection-method-for-safety-critical-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/15/ai-researchers-devise-failure-detection-method-for-safety-critical-machine-learning/amp/",
-      "publishedDateTime": "2020-09-15T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-researchers-say-artificial-intelligence-and-machine-learning-could-enhance-scientific-peer-review.md",
-      "title": "Researchers say artificial intelligence and machine learning could enhance scientific peer review",
-      "excerpt": "As the COVID-19 pandemic has swept the world, researchers have published hundreds of papers each week reporting their findings—many of which have not undergone a thorough peer review process to gauge their reliability.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-09-artificial-intelligence-machine-scientific-peer.html",
-      "originalUrl": "https://medicalxpress.com/news/2020-09-artificial-intelligence-machine-scientific-peer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/aimingforacc.jpg",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-09-artificial-intelligence-machine-scientific-peer.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-09-artificial-intelligence-machine-scientific-peer.amp",
-      "publishedDateTime": "2020-09-15T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-machine-learning-in-retail-market-2020-structure-research-methodology-forecast-to-2024.md",
-      "title": "Machine Learning in Retail Market 2020 Structure, Research Methodology Forecast to 2024",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Sep 15, 2020 (The Expresswire) -- Global “Machine Learning in Retail Market” 2024 Research Report provide in-depth study of the present state of the Industry. Initially ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-retail-market-2020-structure-research-methodology-forecast-to-2024-2020-09-15?mod=mw_quote_news",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-retail-market-2020-structure-research-methodology-forecast-to-2024-2020-09-15?mod=mw_quote_news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 196,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-15T04:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,243 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-01-this-10-week-programme-aims-to-help-founders-of-ml-startups-achieve-scale.md",
+      "title": "This 10-week programme aims to help founders of ML startups achieve scale",
+      "excerpt": "ML Elevate is an intensive, 10-week programme designed to enable early-stage core ML startup founders to build, grow and scale in a holistic manner by providing the right combination of tools, resources and insights from industry leaders across a host of verticals.",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2020/10/10-week-programme-help-founders-ml-startups-scale",
+      "originalUrl": "https://yourstory.com/2020/10/10-week-programme-help-founders-ml-startups-scale",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/18d4ab20d08111e99775a119527191d8/Untitleddesign92-1601544096694.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2020/10/10-week-programme-help-founders-ml-startups-scale/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/10/10-week-programme-help-founders-ml-startups-scale/amp",
+      "publishedDateTime": "2020-10-01T02:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-enea-claims-15-increase-in-ran-capacity-through-machine-learning.md",
+      "title": "Enea claims 15% increase in RAN capacity through machine learning",
+      "excerpt": "Covid-19 pandemic renewing operator focuses on extracting maximum capacity from 4G networks and machine learning, seen as providing a significant boost to capacity and cost-effectiveness.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/news/252489915/Enea-claims-15-increase-in-RAN-capacity-through-machine-learning",
+      "originalUrl": "https://www.computerweekly.com/news/252489915/Enea-claims-15-increase-in-RAN-capacity-through-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ttgtmedia.com/visuals/German/article/network-technician-4-adobe.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/news/252489915/Enea-claims-15-increase-in-RAN-capacity-through-machine-learning?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252489915/Enea-claims-15-increase-in-RAN-capacity-through-machine-learning?amp=1",
+      "publishedDateTime": "2020-10-01T02:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-ai-has-resulted-in-ethical-issues-for-90-of-businesses.md",
+      "title": "AI Has Resulted In “Ethical Issues” For 90% Of Businesses",
+      "excerpt": "A new report from Capgemini has revealed that 90% of organizations are aware of at least one instance where an AI system had resulted in ethical issues for their business. The report, titled “AI and the Ethical Conundrum: How organizations can build ethically robust AI systems and gain trust” has found that while digital and AI-enabled interactions with customers are on the rise as customers seek contactless or non-touch interfaces amid the COVID-19 pandemic,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/carlypage/2020/10/01/ai-has-resulted-in-ethical-issues-for-90-of-businesses/",
+      "originalUrl": "https://www.forbes.com/sites/carlypage/2020/10/01/ai-has-resulted-in-ethical-issues-for-90-of-businesses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f75981378b657a43458c3ad%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/carlypage/2020/10/01/ai-has-resulted-in-ethical-issues-for-90-of-businesses/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carlypage/2020/10/01/ai-has-resulted-in-ethical-issues-for-90-of-businesses/amp/",
+      "publishedDateTime": "2020-10-01T02:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-googles-new-machine-learning-tool-turns-your-awful-humming-into-a-beautiful-violin-solo.md",
+      "title": "Google’s new machine learning tool turns your awful humming into a beautiful violin solo",
+      "excerpt": "I often sit on my sofa and hum tunes that I made up in my head. While doing that, I also imagine that my automatically gets converted to a beautiful musical piece. Google‘s new machine learning algorithm experiment,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/10/01/googles-new-machine-learning-tool-turns-your-awful-humming-into-a-beautiful-violin-solo/",
+      "originalUrl": "https://thenextweb.com/neural/2020/10/01/googles-new-machine-learning-tool-turns-your-awful-humming-into-a-beautiful-violin-solo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Tone-transfer-796x418.jpg",
+          "width": 796,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/10/01/googles-new-machine-learning-tool-turns-your-awful-humming-into-a-beautiful-violin-solo/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/01/googles-new-machine-learning-tool-turns-your-awful-humming-into-a-beautiful-violin-solo/amp/",
+      "publishedDateTime": "2020-10-01T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-the-state-of-ai-in-2020-democratization-industrialization-and-the-way-to-artificial-general-intelligence.md",
+      "title": "The state of AI in 2020: democratization, industrialization, and the way to artificial general intelligence",
+      "excerpt": "From fit for purpose development to pie in the sky research, this is what AI looks like in 2020 After releasing what may well have been the most comprehensive report on the State of AI in 2019, Air Street Capital and RAAIS founder Nathan Benaich and AI angel investor,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-state-of-ai-in-2020-democratization-industrialization-and-the-way-to-artificial-general-intelligence/",
+      "originalUrl": "https://www.zdnet.com/article/the-state-of-ai-in-2020-democratization-industrialization-and-the-way-to-artificial-general-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/10/01/c5fa5375-76e9-4f61-bec0-ff049485159c/pearlbook.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-state-of-ai-in-2020-democratization-industrialization-and-the-way-to-artificial-general-intelligence/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-state-of-ai-in-2020-democratization-industrialization-and-the-way-to-artificial-general-intelligence/",
+      "publishedDateTime": "2020-10-01T01:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-01-saas-based-startup-infilect-raises-15-mn-in-pre-series-a-round.md",
       "title": "SaaS-Based Startup Infilect Raises $1.5 Mn In Pre-Series A Round",
       "excerpt": "Bangalore-based software-as-a-service (SaaS) startup Infilect has raised USD 1.5 million in Pre-series A round. The investment round was led by Mela Ventures and 1Crowd along with participation from The Chennai Angles.",
@@ -1000,261 +1237,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-artificial-intelligence-used-to-predict-loneliness-in-senior-citizens.md",
-      "title": "Artificial Intelligence Used To Predict Loneliness In Senior Citizens",
-      "excerpt": "Publishing in the American Journal of Psychiatry, the researchers were able to harness natural language processing (NLP) and machine learning to classify the sentiment and emotions of speech.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/simonchandler/2020/09/30/artificial-intelligence-used-to-predict-loneliness-in-senior-citizens/",
-      "originalUrl": "https://www.forbes.com/sites/simonchandler/2020/09/30/artificial-intelligence-used-to-predict-loneliness-in-senior-citizens/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f747c5e462d02aecbe7e4f4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5568%26cropY1%3D181%26cropY2%3D3313",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/simonchandler/2020/09/30/artificial-intelligence-used-to-predict-loneliness-in-senior-citizens/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonchandler/2020/09/30/artificial-intelligence-used-to-predict-loneliness-in-senior-citizens/amp/",
-      "publishedDateTime": "2020-09-30T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-automotive-artificial-intelligence-ai-market-analysis-growth-opportunities.md",
-      "title": "Automotive Artificial Intelligence (AI) Market Analysis & Growth Opportunities",
-      "excerpt": "Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-analysis-growth-opportunities-2020-09-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-analysis-growth-opportunities-2020-09-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-artificial-intelligence-ai-market-insights-on-fortified-dairy-products-market-and-forecast-assumptions.md",
-      "title": "Artificial Intelligence (AI) Market Insights on Fortified Dairy Products Market and Forecast Assumptions",
-      "excerpt": "Particularly in healthcare, Artificial Intelligence (AI), is expected to bring revolutionary changes in terms of reduction in terms of healthcare cost reduction and quality treatment in the region. This report defines, describe, and forecast the overall ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-insights-on-fortified-dairy-products-market-and-forecast-assumptions-2020-09-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-insights-on-fortified-dairy-products-market-and-forecast-assumptions-2020-09-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T04:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-ai-in-computer-vision-market-2020-latest-advancements-and-growth-analysis-intel-qualcomm-general-electric-apple.md",
-      "title": "AI in Computer Vision Market 2020 Latest Advancements and Growth Analysis- Intel, Qualcomm, General Electric, Apple",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Sep 30, 2020 (Market Insight Reports) -- The Global AI in Computer Vision Market Research Report 2020-2027 is a valuable source of insightful data for business strategists.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2020-latest-advancements-and-growth-analysis--intel-qualcomm-general-electric-apple-2020-09-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2020-latest-advancements-and-growth-analysis--intel-qualcomm-general-electric-apple-2020-09-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-hailo-challenges-intel-and-google-with-its-new-ai-modules-for-edge-devices.md",
-      "title": "Hailo challenges Intel and Google with its new AI modules for edge devices",
-      "excerpt": "Hailo, a Tel Aviv-based startup best known for its high-performance AI chips, today announced the launch of its M.2 and Mini PCIe high-AI acceleration modules. Based around its Hailo-8 chip, these new models are meant to be used in edge devices for anything from smart city and smart home solutions",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/30/hailo-challenges-intel-and-google-with-its-new-ai-modules-for-edge-devices/",
-      "originalUrl": "https://techcrunch.com/2020/09/30/hailo-challenges-intel-and-google-with-its-new-ai-modules-for-edge-devices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/05/Hailo-8-chip-breakthrough-performance-for-deep-learning-applications-at-your-fingertip.jpg?w=1024",
-          "width": 1024,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/30/hailo-challenges-intel-and-google-with-its-new-ai-modules-for-edge-devices/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/30/hailo-challenges-intel-and-google-with-its-new-ai-modules-for-edge-devices/amp/",
-      "publishedDateTime": "2020-09-30T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

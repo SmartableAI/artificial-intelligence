@@ -2,6 +2,209 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-30-artificial-intelligence-used-to-predict-loneliness-in-senior-citizens.md",
+      "title": "Artificial Intelligence Used To Predict Loneliness In Senior Citizens",
+      "excerpt": "Publishing in the American Journal of Psychiatry, the researchers were able to harness natural language processing (NLP) and machine learning to classify the sentiment and emotions of speech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/simonchandler/2020/09/30/artificial-intelligence-used-to-predict-loneliness-in-senior-citizens/",
+      "originalUrl": "https://www.forbes.com/sites/simonchandler/2020/09/30/artificial-intelligence-used-to-predict-loneliness-in-senior-citizens/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f747c5e462d02aecbe7e4f4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5568%26cropY1%3D181%26cropY2%3D3313",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/simonchandler/2020/09/30/artificial-intelligence-used-to-predict-loneliness-in-senior-citizens/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonchandler/2020/09/30/artificial-intelligence-used-to-predict-loneliness-in-senior-citizens/amp/",
+      "publishedDateTime": "2020-09-30T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-automotive-artificial-intelligence-ai-market-analysis-growth-opportunities.md",
+      "title": "Automotive Artificial Intelligence (AI) Market Analysis & Growth Opportunities",
+      "excerpt": "Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-analysis-growth-opportunities-2020-09-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-analysis-growth-opportunities-2020-09-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-30T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-artificial-intelligence-ai-market-insights-on-fortified-dairy-products-market-and-forecast-assumptions.md",
+      "title": "Artificial Intelligence (AI) Market Insights on Fortified Dairy Products Market and Forecast Assumptions",
+      "excerpt": "Particularly in healthcare, Artificial Intelligence (AI), is expected to bring revolutionary changes in terms of reduction in terms of healthcare cost reduction and quality treatment in the region. This report defines, describe, and forecast the overall ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-insights-on-fortified-dairy-products-market-and-forecast-assumptions-2020-09-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-insights-on-fortified-dairy-products-market-and-forecast-assumptions-2020-09-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-30T04:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-hailo-challenges-intel-and-google-with-its-new-ai-modules-for-edge-devices.md",
+      "title": "Hailo challenges Intel and Google with its new AI modules for edge devices",
+      "excerpt": "Hailo, a Tel Aviv-based startup best known for its high-performance AI chips, today announced the launch of its M.2 and Mini PCIe high-AI acceleration modules. Based around its Hailo-8 chip, these new models are meant to be used in edge devices for anything from smart city and smart home solutions",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/30/hailo-challenges-intel-and-google-with-its-new-ai-modules-for-edge-devices/",
+      "originalUrl": "https://techcrunch.com/2020/09/30/hailo-challenges-intel-and-google-with-its-new-ai-modules-for-edge-devices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/05/Hailo-8-chip-breakthrough-performance-for-deep-learning-applications-at-your-fingertip.jpg?w=1024",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/30/hailo-challenges-intel-and-google-with-its-new-ai-modules-for-edge-devices/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/30/hailo-challenges-intel-and-google-with-its-new-ai-modules-for-edge-devices/amp/",
+      "publishedDateTime": "2020-09-30T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-abdominal-surgical-robots-market.md",
       "title": "Abdominal Surgical Robots Market",
       "excerpt": "Abdominal Surgical Robots Market Report provides key measurements ... and solutions that provide high accuracy in a minimally invasive manner backed by artificial intelligence technology. Abdominal surgical robots are the collection of robotic systems ...",
@@ -237,7 +440,7 @@
       "originalUrl": "https://www.vice.com/en_us/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -432,7 +635,7 @@
       "originalUrl": "https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 168,
+      "heat": 178,
       "tags": null,
       "images": [
         {
@@ -1011,201 +1214,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-inside-google-healths-struggle-to-refocus-regain-trust-navigate-healthcare-and-make-money.md",
-      "title": "Inside Google Health's struggle to refocus, regain trust, navigate healthcare, and make money",
-      "excerpt": "The young team is up against trust issues, Alphabet's messy layout, and an industry it can't fix with the click of a button.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-healths-strategy-and-identity-within-alphabet-2020-9",
-      "originalUrl": "https://www.businessinsider.com/google-healths-strategy-and-identity-within-alphabet-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f732abb0ab50d00184aced7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-29T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-applying-machine-learning-to-keep-employees-safe-and-save-lives.md",
-      "title": "Applying machine learning to keep employees safe and save lives",
-      "excerpt": "Warny leverages many of the key AWS Services such as IoT, Greengrass, and Sagemaker. Warny uses sophisticated computer vision algorithms to protect people working around dangerous machines ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/29/applying-machine-learning-to-keep-employees-safe-and-save-lives/",
-      "originalUrl": "https://venturebeat.com/2020/09/29/applying-machine-learning-to-keep-employees-safe-and-save-lives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/Hazzard_Outline.jpg?fit=800%2C387&strip=all",
-          "width": 800,
-          "height": 387,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/29/applying-machine-learning-to-keep-employees-safe-and-save-lives/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/29/applying-machine-learning-to-keep-employees-safe-and-save-lives/amp/",
-      "publishedDateTime": "2020-09-29T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-another-strange-shift-for-the-ai-chip-startup-segment.md",
-      "title": "Another Strange Shift for the AI Chip Startup Segment",
-      "excerpt": "Few of the AI hardware startups that have made it through the first round of reality (roughly 2016 until the present) have managed to navigate the choppy",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2020/09/29/another-strange-shift-for-the-ai-chip-startup-segment/",
-      "originalUrl": "https://www.nextplatform.com/2020/09/29/another-strange-shift-for-the-ai-chip-startup-segment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/shutterstock_613029992.jpg",
-          "width": 1300,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2020/09/29/another-strange-shift-for-the-ai-chip-startup-segment/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/09/29/another-strange-shift-for-the-ai-chip-startup-segment/amp/",
-      "publishedDateTime": "2020-09-29T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-artificial-intelligence-expert-zhu-songchun-to-return-to-china-from-us.md",
-      "title": "Artificial intelligence expert Zhu Songchun to return to China from US",
-      "excerpt": "UCLA professor’s switch to Peking University comes as Beijing seeks to make country a global leader in the field.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/china/science/article/3103543/artificial-intelligence-expert-zhu-songchun-return-china-us",
-      "originalUrl": "https://www.scmp.com/news/china/science/article/3103543/artificial-intelligence-expert-zhu-songchun-return-china-us",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/09/29/ec5744a6-022d-11eb-88c7-25dcd0ae6080_image_hires_211700.jpg?itok=RIqvM68m&v=1601385430",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/china/science/article/3103543/artificial-intelligence-expert-zhu-songchun-return-china-us",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3103543/artificial-intelligence-expert-zhu-songchun-return-china-us",
-      "publishedDateTime": "2020-09-29T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
