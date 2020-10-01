@@ -4,6 +4,63 @@
   "page": 6,
   "value": [
     {
+      "path": "_companies/clarifyhealth.md",
+      "title": "Clarify Health Solutions",
+      "excerpt": "Clarify Health provides the breakthrough technology and analytics platform to personalize and optimize patient care journeys. Our purpose-built solutions - developed by a world-class team of data scientists and engineers from the financial services industry, top clinical operations experts, and logistics specialists - are transforming healthcare processes and workflows. Clarify delivers actionable insights that enable physicians, health systems, payers, and life sciences organizations to deliver better care today and evolve for a value-based world.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/clarifyhealth/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/clarifyhealth/",
+      "type": "profile",
+      "name": "Clarify Health Solutions",
+      "overview": "Clarify Health provides the breakthrough technology and analytics platform to personalize and optimize patient care journeys. Our purpose-built solutions - developed by a world-class team of data scientists and engineers from the financial services industry, top clinical operations experts, and logistics specialists - are transforming healthcare processes and workflows. Clarify delivers actionable insights that enable physicians, health systems, payers, and life sciences organizations to deliver better care today and evolve for a value-based world.",
+      "website": "https://www.clarifyhealth.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/clarify-health-solutions",
+        "followers": 7518
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/clarify-health-solutions"
+      },
+      "twitter": {
+        "username": "clarifyhealth",
+        "url": "https://twitter.com/clarifyhealth",
+        "followers": 445
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=j4LXE1HWZBk"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/875390228067778561/DJQqpFAE_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Clarify Health Solutions",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEMhUl0AvDjnQ/company-logo_200_200/0?e=1594857600&v=beta&t=YHFxjnbIB6TVu5qDajyOhNpNIAyVVdjDaJBcZN2K2hM",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ]
+    },
+    {
       "path": "_companies/cleo.md",
       "title": "Cleo",
       "excerpt": "Banking is boring... and broken. That's why we made Cleo. She's helped over 1.7 million people in the US, Canada and UK feel better about their money. We launched in 2016, are a fast-growing start-up, backed by the founders of Skype, Transferwise and Zoopla.",
@@ -27,7 +84,7 @@
       "twitter": {
         "username": "meet_cleo",
         "url": "https://twitter.com/meet_cleo",
-        "followers": 12424
+        "followers": 12487
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -937,7 +994,7 @@
       "twitter": {
         "username": "gatik_ai",
         "url": "https://twitter.com/gatik_ai",
-        "followers": 275
+        "followers": 276
       },
       "size": "11-50 employees",
       "yearFounded": 2017,
@@ -1040,7 +1097,7 @@
       "twitter": {
         "username": "GideonBros",
         "url": "https://twitter.com/GideonBros",
-        "followers": 483
+        "followers": 484
       },
       "size": "11-50 employees",
       "yearFounded": 2017,
@@ -1183,7 +1240,7 @@
       "twitter": {
         "username": "Icertis",
         "url": "https://twitter.com/Icertis",
-        "followers": 2782
+        "followers": 2783
       },
       "size": "501-1,000 employees",
       "yearFounded": 2009,
@@ -1234,7 +1291,7 @@
       "twitter": {
         "username": "infermedica",
         "url": "https://twitter.com/infermedica",
-        "followers": 2643
+        "followers": 2642
       },
       "size": "51-200 employees",
       "yearFounded": 2012,
@@ -1436,28 +1493,6 @@
           "isCached": true
         }
       ]
-    },
-    {
-      "path": "_companies/kaskada.md",
-      "title": "Kaskada",
-      "excerpt": "",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/kaskada/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/kaskada/",
-      "type": "profile",
-      "name": "Kaskada",
-      "overview": "",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/kaskada"
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Seattle, WA"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 50
     }
   ],
   "nextPage": 7

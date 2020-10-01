@@ -23,7 +23,7 @@
       "twitter": {
         "username": "deeplearningai_",
         "url": "https://twitter.com/deeplearningai_",
-        "followers": 45186
+        "followers": 45200
       },
       "size": "11-50 employees",
       "yearFounded": 2017,
@@ -74,7 +74,7 @@
       "twitter": {
         "username": "alitheon",
         "url": "https://twitter.com/alitheon",
-        "followers": 332
+        "followers": 28
       },
       "size": "11-50 employees",
       "yearFounded": 2015,
@@ -125,7 +125,7 @@
       "twitter": {
         "username": "ubtechrobotics",
         "url": "https://twitter.com/ubtechrobotics",
-        "followers": 73651
+        "followers": 73661
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -183,7 +183,7 @@
       "twitter": {
         "username": "anacondainc",
         "url": "https://twitter.com/anacondainc",
-        "followers": 56060
+        "followers": 56065
       },
       "size": "51-200 employees",
       "yearFounded": 2012,
@@ -239,7 +239,7 @@
       "twitter": {
         "username": "zymergen",
         "url": "https://twitter.com/zymergen",
-        "followers": 3947
+        "followers": 3948
       },
       "size": "201-500 employees",
       "yearFounded": 2013,
@@ -300,7 +300,7 @@
       "twitter": {
         "username": "scale_ai",
         "url": "https://twitter.com/scale_ai",
-        "followers": 5037
+        "followers": 5039
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -361,7 +361,7 @@
       "twitter": {
         "username": "Affirm",
         "url": "https://twitter.com/Affirm",
-        "followers": 8175
+        "followers": 8177
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -422,7 +422,7 @@
       "twitter": {
         "username": "airaio",
         "url": "https://twitter.com/airaio",
-        "followers": 4072
+        "followers": 4071
       },
       "size": "11-50 employees",
       "yearFounded": 2015,
@@ -477,7 +477,7 @@
       "twitter": {
         "username": "cruise",
         "url": "https://twitter.com/cruise",
-        "followers": 15187
+        "followers": 15189
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -542,7 +542,7 @@
       "twitter": {
         "username": "noodleai",
         "url": "https://twitter.com/noodleai",
-        "followers": 1415
+        "followers": 1413
       },
       "size": "201-500 employees",
       "yearFounded": 2016,
@@ -653,7 +653,7 @@
       "twitter": {
         "username": "cnvrg_io",
         "url": "https://twitter.com/cnvrg_io",
-        "followers": 876
+        "followers": 877
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -848,7 +848,7 @@
       "twitter": {
         "username": "SparkCognition",
         "url": "https://twitter.com/SparkCognition",
-        "followers": 3847
+        "followers": 3846
       },
       "size": "201-500 employees",
       "yearFounded": 2013,
@@ -1085,6 +1085,61 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C560BAQFvW39zAmPs5g/company-logo_200_200/0?e=1594857600&v=beta&t=kI5CD2vgr4BAYNPoC6jfprrH4GfylJbX_cZlL32sVlY",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ]
+    },
+    {
+      "path": "_companies/bluehexagon.ai.md",
+      "title": "Blue Hexagon",
+      "excerpt": "Blue Hexagon is a deep learning innovator focused on protecting organizations from cyberthreats. We've built the industry's first real-time deep learning platform for network threat protection. We have a world class team of deep learning and security experts innovating and setting a new standard for cyber defense. We are headquartered in Sunnyvale, CA.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/bluehexagon.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/bluehexagon.ai/",
+      "type": "profile",
+      "name": "Blue Hexagon",
+      "overview": "Blue Hexagon is a deep learning innovator focused on protecting organizations from cyberthreats. We've built the industry's first real-time deep learning platform for network threat protection. We have a world class team of deep learning and security experts innovating and setting a new standard for cyber defense. We are headquartered in Sunnyvale, CA.",
+      "website": "https://bluehexagon.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/blue-hexagon-inc/",
+        "followers": 3669
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/blue-hexagon"
+      },
+      "twitter": {
+        "username": "bluehexagonai",
+        "url": "https://twitter.com/bluehexagonai",
+        "followers": 341
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2017,
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "tags": [
+        "Security"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1061031032105779200/HFuyqQ7L_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Blue Hexagon",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEreDMnmV-z6w/company-logo_200_200/0?e=1594857600&v=beta&t=wEesu17QpHr1GYg57sKuCfRsPlE6KDIRoEw86J4VU5s",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -1516,61 +1571,6 @@
       ]
     },
     {
-      "path": "_companies/bluehexagon.ai.md",
-      "title": "Blue Hexagon",
-      "excerpt": "Blue Hexagon is a deep learning innovator focused on protecting organizations from cyberthreats. We've built the industry's first real-time deep learning platform for network threat protection. We have a world class team of deep learning and security experts innovating and setting a new standard for cyber defense. We are headquartered in Sunnyvale, CA.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/bluehexagon.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/bluehexagon.ai/",
-      "type": "profile",
-      "name": "Blue Hexagon",
-      "overview": "Blue Hexagon is a deep learning innovator focused on protecting organizations from cyberthreats. We've built the industry's first real-time deep learning platform for network threat protection. We have a world class team of deep learning and security experts innovating and setting a new standard for cyber defense. We are headquartered in Sunnyvale, CA.",
-      "website": "https://bluehexagon.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/blue-hexagon-inc/",
-        "followers": 3669
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/blue-hexagon"
-      },
-      "twitter": {
-        "username": "bluehexagonai",
-        "url": "https://twitter.com/bluehexagonai",
-        "followers": 341
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "Sunnyvale, CA"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 41,
-      "tags": [
-        "Security"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1061031032105779200/HFuyqQ7L_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Blue Hexagon",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEreDMnmV-z6w/company-logo_200_200/0?e=1594857600&v=beta&t=wEesu17QpHr1GYg57sKuCfRsPlE6KDIRoEw86J4VU5s",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ]
-    },
-    {
       "path": "_companies/datarobot.md",
       "title": "DataRobot",
       "excerpt": "DataRobot powers the AI-driven enterprise. Its breakthrough invention of automated machine learning empowers users throughout the organization to consistently make business decisions unmatched in simplicity, speed, and accuracy. The DataRobot platform evaluates hundreds of cutting-edge machine learning algorithms to discover, deploy, and customize the best machine learning models for every situation. DataRobot delivers the most accurate insights at scale, providing the fastest path to data science success for organizations of all sizes.",
@@ -1590,7 +1590,7 @@
       "twitter": {
         "username": "DataRobot",
         "url": "https://twitter.com/DataRobot",
-        "followers": 16690
+        "followers": 16692
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,

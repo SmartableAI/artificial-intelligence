@@ -4,6 +4,61 @@
   "page": 8,
   "value": [
     {
+      "path": "_companies/parashift.io.md",
+      "title": "Parashift AG",
+      "excerpt": "Accelerating paradigm shifts in the financial industry by leveraging new technologies.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/parashift.io/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/parashift.io/",
+      "type": "profile",
+      "name": "Parashift AG",
+      "overview": "Accelerating paradigm shifts in the financial industry by leveraging new technologies.",
+      "website": "https://parashift.io/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/parashiftag/",
+        "followers": 376
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/parashift-ag"
+      },
+      "twitter": {
+        "username": "parashift_ai",
+        "url": "https://twitter.com/parashift_ai",
+        "followers": 113
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2018,
+      "locations": [
+        "Sissach, Baselland"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ],
+      "heat": 50,
+      "tags": [
+        "FinTech"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1210138673569837056/mmkNyiRi_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Parashift AG",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEJPRXWlGJWVg/company-logo_200_200/0?e=1594857600&v=beta&t=HFzrPP5_28l7Nt45o9MAL0zt870NxVkzcx6TRXFeKLs",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ]
+    },
+    {
       "path": "_companies/persado.md",
       "title": "Persado",
       "excerpt": "Spearheading the future of mobility by building world-class autonomous driving technology - safely, reliably, and at scale",
@@ -728,7 +783,7 @@
       "twitter": {
         "username": "Tamr_Inc",
         "url": "https://twitter.com/Tamr_Inc",
-        "followers": 3911
+        "followers": 3912
       },
       "size": "51-200 employees",
       "yearFounded": 2012,
@@ -1009,7 +1064,7 @@
       "twitter": {
         "username": "VianaiSystems",
         "url": "https://twitter.com/VianaiSystems",
-        "followers": 572
+        "followers": 571
       },
       "size": "11-50 employees",
       "yearFounded": 2019,
@@ -1428,58 +1483,6 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C560BAQH1T3MkqJIZ1w/company-logo_200_200/0?e=1594857600&v=beta&t=hfVmbjlDPgNiotB-bhVoGUyUkkQCKT6t1s8J11cZ7VA",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ]
-    },
-    {
-      "path": "_companies/algorithmia.md",
-      "title": "Algorithmia",
-      "excerpt": "AI-powered business insights. Complete research in record time. Find what others miss.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/algorithmia/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/algorithmia/",
-      "type": "profile",
-      "name": "Algorithmia",
-      "overview": "AI-powered business insights. Complete research in record time. Find what others miss.",
-      "website": "https://www.algorithmia.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/algorithmia-inc",
-        "followers": 4610
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/algorithmia"
-      },
-      "twitter": {
-        "username": "Algorithmia",
-        "url": "https://twitter.com/Algorithmia",
-        "followers": 6368
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2013,
-      "locations": [
-        "Seattle, WA",
-        "Seattle, Washington"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 41,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1293312087188373504/yJYx_yYJ_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Algorithmia",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHrwkW4z_etGw/company-logo_200_200/0?e=1594857600&v=beta&t=hKazn3Lt5xBOxcQSv87GE-YLoCATQrf2gCbI5mw7m8k",
           "width": 400,
           "height": 400,
           "title": "logo",
