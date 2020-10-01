@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "labgeni_us"
   url: "https://twitter.com/labgeni_us"
-  followers: 2142
+  followers: 2143
 
 size: 11-50 employees
 yearFounded: 2012
