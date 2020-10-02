@@ -7,8 +7,8 @@ originalUrl: "https://www.thesundaily.my/home/covid-19-nec-to-install-thermal-fa
 webUrl: "https://www.thesundaily.my/home/covid-19-nec-to-install-thermal-facial-recognition-scanners-at-airports-XB4322246"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: The Sun
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "ATO re-tenders for myGovID anti-spoofing facial recognition software"
-    excerpt: "The Australian Taxation Office has gone back to the market to find a facial recognition solution to underpin the government’s myGovID digital identity credentialing app. The national revenue agency issued a tender for a 'liveness' solution late last week,"
-    publishedDateTime: 2020-09-28T01:41:00Z
-    webUrl: "https://www.itnews.com.au/news/ato-re-tenders-for-mygovid-anti-spoofing-facial-recognition-software-553982"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/facial_biometric_identity.jpg"
-        width: 1254
-        height: 836
-        isCached: true
   - title: "Asia Pacific Facial Recognition Market Future Scope, Opportunities with Strategic Growth and Top Players | Impact of COVID-19 Pandemic"
     excerpt: "Asia Pacific facial recognition market will grow by 18.9% annually with a total addressable market cap of $36.4"
     publishedDateTime: 2020-09-28T11:35:00Z

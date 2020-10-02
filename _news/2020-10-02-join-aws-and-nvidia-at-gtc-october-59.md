@@ -30,16 +30,21 @@ images:
 
 related:
   - title: "7 Artificial Intelligence Stocks to Buy for October"
-    excerpt: "Stock Market News, Stock Advice & Trading Tips With so much death and economic destruction wrought by the novel coronavirus,"
-    publishedDateTime: 2020-10-02T14:37:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/7-artificial-intelligence-stocks-to-buy-october-1029644435"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/7-artificial-intelligence-stocks-to-buy-october-1029644435"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/7-artificial-intelligence-stocks-to-buy-october-1029644435"
+    excerpt: "Here are the companies that are using machines to help us, from inventory management to finding that special someone."
+    publishedDateTime: 2020-10-02T13:52:00Z
+    webUrl: "https://investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/"
+    ampWebUrl: "https://investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/amp/"
+    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
+      name: InvestorPlace
+      domain: investorplace.com
+    quality: 59
+    images:
+      - url: "https://investorplace.com/wp-content/uploads/2019/07/ai1600b.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Nvidia GTC to focus on AI, datacenter, graphics"
     excerpt: "Nvidia, already the world's leading supplier for graphics chips, has made it clear that it is to compete with other chip giant such as Intel in the AI chip sector, and it received a shot of adrenaline with it's recent announcement that it is acquiring chipmaker Arm from SoftBank for US$40 billion."
     publishedDateTime: 2020-09-28T08:04:00Z

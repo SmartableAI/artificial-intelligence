@@ -2,57 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-08-20-google-pixel-buds-tap-ai-to-alert-users-to-sirens-crying-babies-and-barking-dogs.md",
-      "title": "Google Pixel Buds tap AI to alert users to sirens, crying babies, and barking dogs",
-      "excerpt": "Google Pixel Buds are getting an experimental feature that uses AI to alert users to the sound of a crying baby, siren, or barking dog.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/20/google-pixel-buds-tap-ai-to-alert-users-to-sirens-crying-babies-and-barking-dogs/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/pixel-buds-2.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/20/google-pixel-buds-tap-ai-to-alert-users-to-sirens-crying-babies-and-barking-dogs/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/20/google-pixel-buds-tap-ai-to-alert-users-to-sirens-crying-babies-and-barking-dogs/amp/",
-      "publishedDateTime": "2020-08-20T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-20-researchers-improve-perception-of-robots-with-new-hearing-capabilities.md",
       "title": "Researchers improve perception of robots with new hearing capabilities",
       "excerpt": "Carnegie Mellon University researchers said their work is the first large-scale study of the interactions between sound and robotic action.",

@@ -1,28 +1,26 @@
 ---
 category: news
-title: "CEO’s of VEEV, WORK, LGIQ, DOCRF Discuss New Growth Opportunities in Cloud-Based Healthcare, Fintech, and Digital Workplaces"
-excerpt: "Accelerating digital transformation is driving explosive growth, in the cloud, fintech, and digital connectivity. Wall Street Reporter highlights the latest comments from industry thought leaders: Slack Technologies,"
-publishedDateTime: 2020-10-02T16:17:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ceo-s-of-veev-work-lgiq-docrf-discuss-new-growth-opportunities-in-cloud-based-healthcare-fintech-and-digital-workplaces-1029644373"
-webUrl: "https://markets.businessinsider.com/news/stocks/ceo-s-of-veev-work-lgiq-docrf-discuss-new-growth-opportunities-in-cloud-based-healthcare-fintech-and-digital-workplaces-1029644373"
+title: "CEO's of VEEV, WORK, LGIQ, DOCRF Discuss New Growth Opportunities in Cloud-Based Healthcare, Fintech, and Digital Workplaces"
+excerpt: "Wall Street Reporter, the trusted name in financial news since 1843, has published reports on the latest comments and insights"
+publishedDateTime: 2020-10-02T13:59:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/10/g17754942/ceos-of-veev-work-lgiq-docrf-discuss-new-growth-opportunities-in-cloud-based-healthcare-fintech-an"
+webUrl: "https://www.benzinga.com/pressreleases/20/10/g17754942/ceos-of-veev-work-lgiq-docrf-discuss-new-growth-opportunities-in-cloud-based-healthcare-fintech-an"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17754942"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17754942"
 type: article
-quality: 24
-heat: 24
+quality: 14
+heat: 14
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
   - AI
   - AI in Healthcare
 
-secured: "nWlpGDPhZXJX3NE6Xw/WnNAB2FcT2Dx0V34U+ioxC+uzGph+YTIoO99rCyzxSECkUnfYql5WYn2CTkwcfKCJQn+p3oa4gDIrYD7RnWDZUjsXr7ZY166Ki4xBMkYMa/Av1wYqnrF3f50WGBvNywTZyCcNuHeLGeKIrDMG2eDArc4/vWoDKHzvHNHaBoc46LvetqZog1hKyNzYxChp5GiW5AeTRNtRfSI2AbVWC/R5lrU96SoPalBogMgzYfd+s0LwpaDmM7c2ogvNkGVxVVgkgRsr9i5CIu+Kr+jkrOOVKUFxxRARpgcIgDaxcn1xlUKaXlc05EFyAC9kJR1I8OSwEguYMeB7FOfN2EeHmqpEM20=;eW9WDxidMiOJIqPpdcq/wA=="
+secured: "zGAH5+czr7ANIr9aIz7cKDsHGAGNqqJtsaKjSmdrQzT9WmlDhJeZxoT1aKUZNPjbX97D8x1tvJf4DW+9aIcJSvvtmMHk6OyKIJlA0kzTJPMx7OCsI2zmljV2dDDoKIVuahLHNMZIaRiwJis4zSghyxdgMgJxW6gyvCHwzr+kw/jpQwbHUM+Ogby6r/kTgzCvMBPs/Ox+Anp1UFWTU/n7NGWsYWAacrqHqrFNnSbJSE4kLBkD/dYERDhpMbpEhFf9vUaU1iijAVuZRaPYmjmjrYcWJwxP/aDvxzOYQS6xa4BFr+O8VbJyW0TNJUe4Tpnx7TNwAR+GfH/m65biA9auni2tW9KBfs7kOulU5DWokCk=;GsYd/KY54CcpVWs7ifFp3Q=="
 ---
 

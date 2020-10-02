@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.entrepreneur.com/article/357127</loc>
+    <lastmod>2020-10-02T12:51:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.infoworld.com/article/3584152/run-a-deep-learning-model-in-java-a-quick-take.html</loc>
+    <lastmod>2020-10-02T12:38:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/10/02/ai-weekly-palantir-twitter-and-building-public-trust-into-the-ai-design-process/</loc>
+    <lastmod>2020-10-02T12:33:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/10/02/ibm-joins-nih-effort-to-diagnose-schizophrenia-using-ai/</loc>
+    <lastmod>2020-10-02T12:15:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.foxnews.com/us/parkland-ai-video-son-voters</loc>
+    <lastmod>2020-10-02T11:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://techcrunch.com/2020/10/02/writer-pens-a-5m-seed-round-for-its-ai-style-guide-that-flags-bias-and-tone/</loc>
+    <lastmod>2020-10-02T11:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.pcworld.com/article/3584530/the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.html</loc>
     <lastmod>2020-10-02T10:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -159,6 +195,12 @@
   <url>
     <loc>https://venturebeat.com/2020/10/01/ibm-open-sources-ai-for-optimizing-satellite-communications-and-predicting-space-debris-trajectories/</loc>
     <lastmod>2020-10-01T06:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://techcrunch.com/2020/10/01/combining-machine-learning-tools-for-medical-imaging-with-genetic-sequencing-nets-sophia-genetics-110m/</loc>
+    <lastmod>2020-10-01T05:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -597,12 +639,6 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/deep-neural-networks-market-booming-worldwide-with-leading-players-google-oracle-microsoft-ibm-2020-09-29</loc>
     <lastmod>2020-09-29T01:25:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.thesundaily.my/home/covid-19-nec-to-install-thermal-facial-recognition-scanners-at-airports-XB4322246</loc>
-    <lastmod>2020-09-29T00:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1219,14 +1255,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/tomorrow-socratesai-to-host-webinar-giving-your-company-a-single-voice-2020-09-21</loc>
-    <lastmod>2020-09-24T01:02:00-07:00</lastmod>
+    <loc>https://www.commsmea.com/business/opinion/22450-four-steps-to-accelerate-your-machine-learning-journey</loc>
+    <lastmod>2020-09-24T01:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.itp.net/news/93915-four-steps-to-accelerate-your-machine-learning-journey</loc>
-    <lastmod>2020-09-24T00:44:00-07:00</lastmod>
+    <loc>https://www.marketwatch.com/press-release/tomorrow-socratesai-to-host-webinar-giving-your-company-a-single-voice-2020-09-21</loc>
+    <lastmod>2020-09-24T01:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1609,8 +1645,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572</loc>
-    <lastmod>2020-09-22T05:29:00-07:00</lastmod>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace/article_f6c327bd-10d4-5df0-beed-77fd9ceef60a.html</loc>
+    <lastmod>2020-09-22T05:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3013,6 +3049,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/artificial-neural-network-market--covid19-impact-size-share-trends-ann-technology-software-services-application-and-demand-by-2023-2020-09-14</loc>
+    <lastmod>2020-09-14T08:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/lanceeliot/2020/09/14/when-wildfire-smoke-and-ash-fill-the-sky-heres-how-self-driving-cars-can-go-awry/</loc>
     <lastmod>2020-09-14T08:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -3075,12 +3117,6 @@
   <url>
     <loc>https://www.arnnet.com.au/mediareleases/135437/ai-chip-market-outlook-to-2030-emerging-trends/</loc>
     <lastmod>2020-09-14T07:16:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/artificial-neural-network-market--covid19-impact-size-share-trends-ann-technology-software-services-application-and-demand-by-2023-2020-09-14?mod=mw_quote_news</loc>
-    <lastmod>2020-09-14T06:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

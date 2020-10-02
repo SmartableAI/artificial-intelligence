@@ -1,28 +1,30 @@
 ---
 category: news
 title: "7 Artificial Intelligence Stocks to Buy for October"
-excerpt: "Stock Market News, Stock Advice & Trading Tips With so much death and economic destruction wrought by the novel coronavirus,"
-publishedDateTime: 2020-10-02T14:37:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/7-artificial-intelligence-stocks-to-buy-october-1029644435"
-webUrl: "https://markets.businessinsider.com/news/stocks/7-artificial-intelligence-stocks-to-buy-october-1029644435"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/7-artificial-intelligence-stocks-to-buy-october-1029644435"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/7-artificial-intelligence-stocks-to-buy-october-1029644435"
+excerpt: "Here are the companies that are using machines to help us, from inventory management to finding that special someone."
+publishedDateTime: 2020-10-02T13:52:00Z
+originalUrl: "https://investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/"
+webUrl: "https://investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/"
+ampWebUrl: "https://investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/amp/"
+cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/amp/"
 type: article
-quality: 69
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: InvestorPlace
+  domain: investorplace.com
 
 topics:
+  - AI in Healthcare
   - AI
-  - IBM AI
+
+images:
+  - url: "https://investorplace.com/wp-content/uploads/2019/07/ai1600b.jpg"
+    width: 1600
+    height: 900
+    isCached: true
 
 related:
   - title: "Join AWS and NVIDIA at GTC, October 5–9"
@@ -54,6 +56,6 @@ related:
         height: 427
         isCached: true
 
-secured: "8ASMDigqvRb/LU/6lztOAKUhQG8h+koWuIwhP59PyyzwxAzeMCBdsGWTYrQG4HPMKNadqgLWzRKL/FIzQE87/nAbODY3/MR4s/yMzpMXFD1JTWdHcABYGUD7+xqULGobFSLN5MVRFBS/NhLuyd8PXLH5R9cSOR0pCg9sj5xQaceEf2OIwaoO6SJlfmCZSijzM8/U/vvH6DR611E3uicqnSnyJCZzIn5O6nTWuf63XHfET7GdQ2OWtJ/sh+AEz7misVLirri8PUvStdAmMu5wPiAAzsEEtiyFqXFHZBzDQ+L/EWxeacppxz09V6Ig4Iu/auinrFPpjfsZR8ncshiSFg+RfAj7atkOXN+KwnA1piGky2lQHAsyMFgk8IbtP4t/DMWH1qnx90fX+oYN17yjRhVvl21azPdD0/Ikiq8FVzJuAyDeS7O7jzYpSVda0q/H2317okMNU94GurdVwq+qy8hmMswvyras5xI93/QwcfYs8NGaQ/BRuvFdW5wi7N5dFn5H+c1rH1C6EfWpOC62Wg==;RU43wNCL/1QMTofmF0+93Q=="
+secured: "QNm3Hq/NFaRLBApNi5cl37Q3AIQirxlSEfSLjA+hBN9Ox7bfFwBGrK3OUqAzhf/rznHVL5SBtnemCmpb1XS3rFqNaTnhLSzdnVq69vI/aLAFKPV/YCzTS0I9bA3c+Qx9u7D7+hUVIwWmtjh/3ZqJZVNe9EOOtaNc9wrSTNoNa7W6k4hyeJri+bgV5b+ysSHElWSRMWocd4vrlB/KIaaXb7ukpC9U38IRTrBrukhZkbUCQaAXMau1x5bPZQdsWJNfJguebGYy8Xt4jawkvMW3keWdkZeRyDlMJvR714pPebOHj/xGLoH1Un3BvS8yBKUf6I40yrcI48g7NRDUdAR3F/3R6aYdY04/0ltLX0++vwE=;XJ03ICDYYbK+M5JhTmtllg=="
 ---
 

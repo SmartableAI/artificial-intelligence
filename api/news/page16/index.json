@@ -2,6 +2,301 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-09-18-retail-robotics-market-rising-globally-at-a-cagr-of-3189-with-new-innovation-technology-advancement-trend-and-research-2020-to-2026.md",
+      "title": "Retail Robotics Market Rising Globally at a CAGR of 31.89% with New Innovation, Technology Advancement, Trend and Research 2020 to 2026",
+      "excerpt": "The Global Retail Robotics Market Research Report Forecast 2020 - 2026 is a valuable source of insightful data",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/retail-robotics-market-rising-globally-at-a-cagr-of-3189-with-new-innovation-technology-advancement-trend-and-research-2020-to-2026-2020-09-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/retail-robotics-market-rising-globally-at-a-cagr-of-3189-with-new-innovation-technology-advancement-trend-and-research-2020-to-2026-2020-09-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-17T12:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-ibm-ai-and-the-battle-for-cybersecurity.md",
+      "title": "IBM, AI And The Battle For Cybersecurity",
+      "excerpt": "The future of cybersecurity will likely be AI versus AI. IBM Research is using its expertise to help build the tools to defend against attacks of all kinds and protect data privacy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2020/09/17/ibm-ai-and-the-battle-for-cybersecurity/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2020/09/17/ibm-ai-and-the-battle-for-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f62aef583206e4962dbb205%2F0x0.jpg",
+          "width": 1200,
+          "height": 639,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2020/09/17/ibm-ai-and-the-battle-for-cybersecurity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/09/17/ibm-ai-and-the-battle-for-cybersecurity/amp/",
+      "publishedDateTime": "2020-09-17T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-a-strategic-playbook-for-data-analytics-and-machine-learning.md",
+      "title": "A Strategic Playbook for Data, Analytics, and Machine Learning",
+      "excerpt": "Harnessing the value of these massive data volumes requires a modern, cloud-based data infrastructure that unifies disparate information silos and leverages analytics and machine learning to promote critical business decision-making. Regardless of where ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/resources/208489/a-strategic-playbook-for-data-analytics-and-machine-learning",
+      "originalUrl": "https://www.infoworld.com/resources/208489/a-strategic-playbook-for-data-analytics-and-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-17T12:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-quantum-and-classical-computers-handle-time-differently-what-does-that-mean-for-ai.md",
+      "title": "Quantum and classical computers handle time differently. What does that mean for AI?",
+      "excerpt": "As humans, we take time for granted. We’re born into an innate understanding of the passage of events because it’s essential to our survival. But AI suffers from no such congenital condition. Robots do not understand the concept of time.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/17/quantum-and-classical-computers-handle-time-differently-what-does-that-mean-for-ai/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/17/quantum-and-classical-computers-handle-time-differently-what-does-that-mean-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/06/quantum_vs-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/17/quantum-and-classical-computers-handle-time-differently-what-does-that-mean-for-ai/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/17/quantum-and-classical-computers-handle-time-differently-what-does-that-mean-for-ai/amp/",
+      "publishedDateTime": "2020-09-17T12:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-small-companies-face-up-to-big-financial-hurdles-in-the-covid-era.md",
+      "title": "Small companies face up to big financial hurdles in the COVID era",
+      "excerpt": "Two business operators in Northeast Ohio are part of this New York Times article about small companies — especially music clubs, gyms, restaurants, bars and others that were forced to close by the coronavirus pandemic — trying to figure out how to pay off debts they've accumulated during the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/58eb7c26-2154-477f-af19-19157ae29261",
+      "originalUrl": "https://www.crainscleveland.com/scott-suttell-blog/small-companies-face-big-financial-hurdles-covid-era",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F21286c81-0e49-4eae-9c0f-15cb2f524032.jpg?source=amp&fit=scale-down&width=2400",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/58eb7c26-2154-477f-af19-19157ae29261",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/58eb7c26-2154-477f-af19-19157ae29261",
+      "publishedDateTime": "2020-09-17T11:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crain's Cleveland Business",
+        "domain": "crainscleveland.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-serving-pytorch-models-in-production-with-the-amazon-sagemaker-native-torchserve-integration.md",
+      "title": "Serving PyTorch models in production with the Amazon SageMaker native TorchServe integration",
+      "excerpt": "In April 2020, AWS and Facebook announced the launch of TorchServe to allow researches and machine learning (ML) developers from the PyTorch community to bring their models to production more quickly and without needing to write custom code. TorchServe is an open-source project that answers the industry",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/serving-pytorch-models-in-production-with-the-amazon-sagemaker-native-torchserve-integration/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/serving-pytorch-models-in-production-with-the-amazon-sagemaker-native-torchserve-integration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/27/serving-pytorch-models-1.jpg",
+          "width": 1000,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-17T11:06:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-adaptive-computing-platforms-deliver-efficient-ai-acceleration.md",
       "title": "Adaptive computing platforms deliver efficient AI acceleration",
       "excerpt": "CPUs alone are not keeping up and some form of compute acceleration is needed to more efficiently process AI inference workloads.",
@@ -881,301 +1176,6 @@
         "name": "theverge.com/interface/2020/9/16/21439741/mark-zuckerberg-facebook-connect-oculus-ar-vr-glasses-quest-apple-watch?scrolla=5eb6d68b7fedc32c19ef33b4",
         "domain": "theverge.com/interface/2020/9/16/21439741/mark-zuckerberg-facebook-connect-oculus-ar-vr-glasses-quest-apple-watch?scrolla=5eb6d68b7fedc32c19ef33b4",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-snowflakes-ipo-is-a-bet-on-companies-using-ai-for-everything.md",
-      "title": "Snowflake’s IPO is a bet on companies using AI for everything",
-      "excerpt": "Snowflake's $70 billion valuation is based on its ability to analyze cloud data faster and cheaper than its competitors.",
-      "sourceUrl": null,
-      "webUrl": "https://qz.com/1904413/snowflakes-ipo-is-a-bet-on-companies-using-ai-for-everything/",
-      "originalUrl": "https://qz.com/1904413/snowflakes-ipo-is-a-bet-on-companies-using-ai-for-everything/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/09/2019-01-23T092808Z_1666479738_RC17FEB4AE50_RTRMADP_3_NEPAL-WEATHER-e1600289144541.jpg?quality=75&strip=all&w=1400",
-          "width": 1400,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://qz.com/1904413/snowflakes-ipo-is-a-bet-on-companies-using-ai-for-everything/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1904413/snowflakes-ipo-is-a-bet-on-companies-using-ai-for-everything/amp/",
-      "publishedDateTime": "2020-09-16T14:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-reps-hurd-kelly-formalize-national-ai-strategy-resolution.md",
-      "title": "Reps. Hurd, Kelly Formalize National AI Strategy Resolution",
-      "excerpt": "The resolution introduced by Reps. Hurd and Kelly in coordination with BPC and other stakeholders includes recommendations from four AI white papers on workforce, national security, R&D, and ethics. “American ongoing and future leadership in AI will be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.meritalk.com/articles/reps-hurd-kelly-formalize-national-ai-strategy-resolution/",
-      "originalUrl": "https://www.meritalk.com/articles/reps-hurd-kelly-formalize-national-ai-strategy-resolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.meritalk.com/wp-content/uploads/2020/02/shutterstock_561931702-min.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-16T12:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MeriTalk",
-        "domain": "meritalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-ubers-self-driving-car-safety-driver-charged-in-fatal-2018-crash.md",
-      "title": "Uber's self-driving car 'safety driver' charged in fatal 2018 crash",
-      "excerpt": "The driver who was behind the wheel of the autonomous vehicle is arraigned on one count of negligent homicide.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/ubers-self-driving-car-safety-driver-charged-in-fatal-2018-crash/",
-      "originalUrl": "https://www.cnet.com/news/ubers-self-driving-car-safety-driver-charged-in-fatal-2018-crash/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 234,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/4RWp-CT8SdPs7I1-asH1y47N9IY=/1200x630/2018/12/19/ff7286c9-b975-4789-97fb-fd86b387cee6/aaa4508-pit.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ubers-self-driving-car-safety-driver-charged-in-fatal-2018-crash/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ubers-self-driving-car-safety-driver-charged-in-fatal-2018-crash/",
-      "publishedDateTime": "2020-09-16T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-facebook-ray-ban-team-up-on-smart-glasses.md",
-      "title": "Facebook, Ray-Ban Team Up on Smart Glasses",
-      "excerpt": "To prepare, Facebook will have hundreds of employees wear a research version of the smart glasses, dubbed Project Aria, to gather data on how they work in the real world.",
-      "sourceUrl": null,
-      "webUrl": "https://au.pcmag.com/news/68594/facebook-ray-ban-team-up-on-smart-glasses",
-      "originalUrl": "https://au.pcmag.com/news/68594/facebook-ray-ban-team-up-on-smart-glasses",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_au/news/f/facebook-r/facebook-ray-ban-team-up-on-smart-glasses_vj1f.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://au.pcmag.com/news/68594/facebook-ray-ban-team-up-on-smart-glasses?amp=1",
-      "cdnAmpWebUrl": "https://au-pcmag-com.cdn.ampproject.org/c/s/au.pcmag.com/news/68594/facebook-ray-ban-team-up-on-smart-glasses?amp=1",
-      "publishedDateTime": "2020-09-16T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-lutherai-is-a-new-ai-tool-that-acts-like-google-for-personal-conversations.md",
-      "title": "Luther.AI is a new AI tool that acts like Google for personal conversations",
-      "excerpt": "When it comes to pop culture, a company executive or history questions, most of us use Google as a memory crutch to recall information we can’t always keep in our heads, but Google can’t help you remember the name of your client’s spouse or the great idea you came up with at a",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/16/luther-ai-is-a-new-ai-tool-that-acts-like-google-for-personal-conversations/",
-      "originalUrl": "https://techcrunch.com/2020/09/16/luther-ai-is-a-new-ai-tool-that-acts-like-google-for-personal-conversations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.vidible.tv/prod/2020-09/16/5f62658d2be1612af543ea3d/5f6265e48a54cc704a8a71ba_o_U_v1.jpg?w=550&h=310",
-          "width": 550,
-          "height": 310,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/16/luther-ai-is-a-new-ai-tool-that-acts-like-google-for-personal-conversations/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/16/luther-ai-is-a-new-ai-tool-that-acts-like-google-for-personal-conversations/amp/",
-      "publishedDateTime": "2020-09-16T11:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-do-algorithms-dreams-of-electric-speech-what-virtual-philip-k-dick-can-teach-us-about-ai.md",
-      "title": "Do Algorithms Dreams Of Electric Speech? What Virtual Philip K. Dick Can Teach Us About AI",
-      "excerpt": "\"It seems to me that it is really impossible that it could be me.\" What can a conversation between a virtual Philip K Dick and Dr. Ben Goertzel, one of the world's leading AI researchers, teach us about the playful nature of advanced AI development?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charlestowersclark/2020/09/16/do-algorithms-dreams-of-electric-speech-what-virtual-philip-k-dick-can-teach-us-about-ai/",
-      "originalUrl": "https://www.forbes.com/sites/charlestowersclark/2020/09/16/do-algorithms-dreams-of-electric-speech-what-virtual-philip-k-dick-can-teach-us-about-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f62530595ae669ac72329e4%2F0x0.jpg",
-          "width": 1200,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charlestowersclark/2020/09/16/do-algorithms-dreams-of-electric-speech-what-virtual-philip-k-dick-can-teach-us-about-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlestowersclark/2020/09/16/do-algorithms-dreams-of-electric-speech-what-virtual-philip-k-dick-can-teach-us-about-ai/amp/",
-      "publishedDateTime": "2020-09-16T11:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

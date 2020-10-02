@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-01T15:43:00Z
 originalUrl: "https://www.vendingmarketwatch.com/technology/news/21156710/touchlessai-announces-intuitive-speechenabled-technology-to-prevent-covid19-infection-from-touchscreens"
 webUrl: "https://www.vendingmarketwatch.com/technology/news/21156710/touchlessai-announces-intuitive-speechenabled-technology-to-prevent-covid19-infection-from-touchscreens"
 type: article
-quality: 21
-heat: 21
+quality: 23
+heat: 23
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://img.vendingmarketwatch.com/files/base/cygnus/vmw/image/2020/10/16x9/Screen_Shot_2020_10_01_at_10.32.59_AM.5f75f8100e1fb.png?auto=format&fit=max&w=1200"

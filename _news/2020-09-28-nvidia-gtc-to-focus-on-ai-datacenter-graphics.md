@@ -40,16 +40,21 @@ related:
         height: 630
         isCached: true
   - title: "7 Artificial Intelligence Stocks to Buy for October"
-    excerpt: "Stock Market News, Stock Advice & Trading Tips With so much death and economic destruction wrought by the novel coronavirus,"
-    publishedDateTime: 2020-10-02T14:37:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/7-artificial-intelligence-stocks-to-buy-october-1029644435"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/7-artificial-intelligence-stocks-to-buy-october-1029644435"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/7-artificial-intelligence-stocks-to-buy-october-1029644435"
+    excerpt: "Here are the companies that are using machines to help us, from inventory management to finding that special someone."
+    publishedDateTime: 2020-10-02T13:52:00Z
+    webUrl: "https://investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/"
+    ampWebUrl: "https://investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/amp/"
+    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
+      name: InvestorPlace
+      domain: investorplace.com
+    quality: 59
+    images:
+      - url: "https://investorplace.com/wp-content/uploads/2019/07/ai1600b.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "RrZ65atipMkyfg6hwMVdy8rufuU9pap1LdGDB3GM858lYRGmvoOtIPC6XdZPE08n36IMDiTUtGAB6nSSELpVTfS6TjaPzBrPeeox4mrmkok/x0snb/+LdEKc7ouysa+vTTt2SBEJLk6Mi6MEHCvphPl2/c96jCM/n3cZOBZdONlGClOB2oflpAkqs+Rv5DTuccbtvwLkc1B9gpN8oURSgxSutEYAfoxWwH28HFdYZKZL1PTzltBZGxkPFT1hOeM5kgeZM2n/u9kES0HppX43KLOf8mi2b9cfB3LT+l9aGC5VW43Z6Uf1wiA4qyCH/Pir3l0gOybZvQ9W3rVPMjH2y7b5jyM0hsDPIAAW8qgM/4g=;UCyAgsnyrUlYQOwaiG62yQ=="
 ---

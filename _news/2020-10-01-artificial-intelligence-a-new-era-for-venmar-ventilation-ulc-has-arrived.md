@@ -8,8 +8,8 @@ webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence
 ampWebUrl: "https://markets.businessinsider.com/amp/news/artificial-intelligence-a-new-era-for-venmar-ventilation-ulc-has-arrived-1029638932"
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-a-new-era-for-venmar-ventilation-ulc-has-arrived-1029638932"
 type: article
-quality: 65
-heat: 65
+quality: 67
+heat: 67
 published: false
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 secured: "L5cSoyA419ZhYYBb6mDE7UPv9fBwS21eUryb2ExSFXjNL1PoXHCpHqlbffjrUGUPQNA0edJcRNEInw7h4eLEzVUIkaDtyRFle1LOvrbYT9qMiMpFIqH4DWrxNQ5t6+9inLO1+0UDFF31C7gE+m0/p5sGJK57NQXl7oBOrFJyqbAo1pYlGfNSYdgQIgsIY8NWQu5+xCR4RnQKQwnxUDE5iQ1RP3l0N3LuieThf9pJAlh2PaRJ8JpHJWwXMBY/eafzCmBh9Xo6j14xCQ/vKpzn+kij4X98jeT7S0Pohylk9bOejyA2peoen5YClo8XJJquMiRL+Tue5iIk2i+6MB6cpgGWYca0ZXzY63SKWqTQAt8=;+qmBimHrmbAG42rwEdBpZA=="
 ---

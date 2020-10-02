@@ -2,21 +2,274 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-09-29-covid-19-nec-to-install-thermal-facial-recognition-scanners-at-airports.md",
-      "title": "Covid-19: NEC to install thermal, facial recognition scanners at airports",
-      "excerpt": "NEC Corporation of Malaysia Sdn Bhd is in the midst of installing thermal and facial recognition scanners to detect Covid-19 infections",
+      "path": "_news/2020-09-29-using-machine-learning-to-reduce-carbon-emissions-in-the-trucking-industry.md",
+      "title": "Using Machine Learning To Reduce Carbon Emissions In The Trucking Industry",
+      "excerpt": "By using advanced technology, data science and machine learning, this company says it's making the sharable truckload model work and cutting carbon emissions.",
       "sourceUrl": null,
-      "webUrl": "https://www.thesundaily.my/home/covid-19-nec-to-install-thermal-facial-recognition-scanners-at-airports-XB4322246",
-      "originalUrl": "https://www.thesundaily.my/home/covid-19-nec-to-install-thermal-facial-recognition-scanners-at-airports-XB4322246",
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2020/09/29/using-machine-learning-to-reduce-carbon-emissions-in-the-trucking-industry/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2020/09/29/using-machine-learning-to-reduce-carbon-emissions-in-the-trucking-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 107,
       "tags": null,
       "images": [
         {
-          "url": "https://www.thesundaily.my/binrepository/480x258/0c4/480d250/none/11808/RGVA/thermalcamerastory_1613239_20200929151938.jpg",
-          "width": 480,
-          "height": 250,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f721cf81578a9c207144243%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2020/09/29/using-machine-learning-to-reduce-carbon-emissions-in-the-trucking-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2020/09/29/using-machine-learning-to-reduce-carbon-emissions-in-the-trucking-industry/amp/",
+      "publishedDateTime": "2020-09-29T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-navigating-covid-19-with-conversational-ai.md",
+      "title": "Navigating COVID-19 With Conversational AI",
+      "excerpt": "At the forefront of creating deep and engaging conversations via rich-media interactions, Conversational AI has proven itself to be of immense value in the current crisis with vast potential as a new",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/356864",
+      "originalUrl": "https://www.entrepreneur.com/article/356864",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1601378445-artificial-intelligence-3382507-19201.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/356864",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356864",
+      "publishedDateTime": "2020-09-29T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-the-national-guards-fire-mapping-drones-get-an-ai-upgrade.md",
+      "title": "The National Guard’s Fire-Mapping Drones Get an AI Upgrade",
+      "excerpt": "Algorithms that quickly track the movement of wildfires could help firefighters‚ but the tech could also be put to non-humanitarian use.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/national-guards-fire-mapping-drones-get-ai-upgrade/",
+      "originalUrl": "https://www.wired.com/story/national-guards-fire-mapping-drones-get-ai-upgrade/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f7241eea8ee0ec61f9f13e9/master/pass/business_wildfire_160915-Z-OI569-1259.jpg",
+          "width": 2400,
+          "height": 1597,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/national-guards-fire-mapping-drones-get-ai-upgrade/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/national-guards-fire-mapping-drones-get-ai-upgrade/amp",
+      "publishedDateTime": "2020-09-29T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-microsoft-azure-for-operators-is-a-cloud-platform-for-telcos.md",
+      "title": "Microsoft Azure for Operators is a cloud platform for telcos",
+      "excerpt": "Microsoft’s push into the telecoms market continues with the launch of a dedicated suite of cloud services called ‘Azure for Operators’, hoping to capitalise on increased demand from telcos in the 5G era.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/au/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos",
+      "originalUrl": "https://www.techradar.com/au/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 284,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/kExEad3yNfdKVXRBuEsmfc-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/au/amp/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos",
+      "publishedDateTime": "2020-09-29T03:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-british-billionaire-jim-mellon-plans-to-take-his-life-extension-start-up-public-in-six-to-12-months.md",
+      "title": "British billionaire Jim Mellon plans to take his life extension start-up public in six to 12 months",
+      "excerpt": "British billionaire Jim Mellon is planning to take his life extension company coupublic in the next six to 12 months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/09/29/billionaire-jim-mellon-plans-to-take-life-extension-start-up-public.html",
+      "originalUrl": "https://www.cnbc.com/2020/09/29/billionaire-jim-mellon-plans-to-take-life-extension-start-up-public.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104911349-GettyImages-872029500.jpg?v=1532563709",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/09/29/billionaire-jim-mellon-plans-to-take-life-extension-start-up-public.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/29/billionaire-jim-mellon-plans-to-take-life-extension-start-up-public.html",
+      "publishedDateTime": "2020-09-29T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-doc-rivers-ousted-from-clippers-social-media-reacts-to-shocking-decision.md",
+      "title": "Doc Rivers ousted from Clippers, social media reacts to shocking decision",
+      "excerpt": "Clippers reporter Mirjam Swanson confirmed the bombshell news on Monday that the Clippers have fired head coach Doc Rivers. The Clippers blew a 3-1 series lead in the second round of the Western Conference playoffs against the Denver Nuggets,",
+      "sourceUrl": null,
+      "webUrl": "https://inside-com.breezy.hr/",
+      "originalUrl": "https://www.mercurynews.com/2020/09/29/social-media-reaction-to-the-shocking-firing-of-clippers-coach-doc-rivers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://breezy-social-images.imgix.net/442d93c02549/social-portal.png?auto=format&h=600",
+          "width": 1143,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -25,11 +278,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-29T00:34:00-07:00",
+      "publishedDateTime": "2020-09-29T03:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Sun",
-        "domain": "thesundaily.my",
+        "name": "Mercury News",
+        "domain": "mercurynews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -39,9 +292,59 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-deep-neural-networks-market-booming-worldwide-with-leading-players-google-oracle-microsoft-ibm.md",
+      "title": "Deep Neural Networks Market Booming Worldwide with leading Players Google, Oracle, Microsoft, IBM",
+      "excerpt": "Global Deep Neural Networks Market The global Deep Neural Networks Market size was valued at USD 1.26 Billion in 2019 and is anticipated to reach USD 5.98 Billion by 2027 at a CAGR of 21.4%. The global neural networks market is growing predominantly as the demand for implementing the deep neural network in healthcare and BFSI sectors are flourishing extensively.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-neural-networks-market-booming-worldwide-with-leading-players-google-oracle-microsoft-ibm-2020-09-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-neural-networks-market-booming-worldwide-with-leading-players-google-oracle-microsoft-ibm-2020-09-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-29T01:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI",
-        "Computer Vision"
+        "Microsoft AI"
       ]
     },
     {
@@ -921,293 +1224,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-azure-databricks-previews-parallelized-proton-query-engine.md",
-      "title": "Azure Databricks previews parallelized Proton query engine",
-      "excerpt": "Microsoft has unveiled a preview of a C++-based vectorized query engine for the Azure Databricks cloud analytics and AI service based on Apache Spark. Azure Databricks, which is delivered in partnership with Databricks, introduced the Photon-powered ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3583657/azure-databricks-previews-parallelized-proton-query-engine.html",
-      "originalUrl": "https://www.infoworld.com/article/3583657/azure-databricks-previews-parallelized-proton-query-engine.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/01/spark-on-the-globe-shutterstock_7869750551-100827145-large.jpg",
-          "width": 1200,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3583657/azure-databricks-previews-parallelized-proton-query-engine.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3583657/azure-databricks-previews-parallelized-proton-query-engine.amp.html",
-      "publishedDateTime": "2020-09-28T09:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-mental-health-startup-equoo-will-be-distributed-by-unilever-in-new-global-youth-campaign.md",
-      "title": "Mental health startup eQuoo will be distributed by Unilever in new global youth campaign",
-      "excerpt": "Last December (yes, in the before-times) UK-based mental health startup eQuoo had a round of announcements, becoming the NHS approved mental health game, as well as signing Barmer, the largest insurance company in Germany,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/28/mental-health-startup-equoo-will-be-distributed-by-unilever-in-new-global-youth-campaign/",
-      "originalUrl": "https://techcrunch.com/2020/09/28/mental-health-startup-equoo-will-be-distributed-by-unilever-in-new-global-youth-campaign/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/HandPhone04.jpg?w=661",
-          "width": 661,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/28/mental-health-startup-equoo-will-be-distributed-by-unilever-in-new-global-youth-campaign/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/28/mental-health-startup-equoo-will-be-distributed-by-unilever-in-new-global-youth-campaign/amp/",
-      "publishedDateTime": "2020-09-28T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-uk-and-us-marked-down-on-responsible-ai.md",
-      "title": "UK and US marked down on responsible AI",
-      "excerpt": "The UK and US have been rated as leaders in government use of artificial intelligence, but the Nordics and Baltics attained the highest scores for responsible AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252489721/UK-and-US-marked-down-on-responsible-AI",
-      "originalUrl": "https://www.computerweekly.com/news/252489721/UK-and-US-marked-down-on-responsible-AI",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ttgtmedia.com/visuals/German/article/artificial-intelligence-brain-2-adobe.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/252489721/UK-and-US-marked-down-on-responsible-AI?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252489721/UK-and-US-marked-down-on-responsible-AI?amp=1",
-      "publishedDateTime": "2020-09-28T07:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-google-cloud-ai-prediction-service-becomes-generally-available.md",
-      "title": "Google Cloud AI Prediction Service Becomes Generally Available",
-      "excerpt": "Google announced the general availability of AI Prediction service, a key component of its AI Platform. The service supports hosting the models trained in popular machine learning frameworks including TensorFlow,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/09/28/google-cloud-ai-prediction-service-becomes-generally-available/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2020/09/28/google-cloud-ai-prediction-service-becomes-generally-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f71e536a0e9f1ca8b01406a%2F0x0.jpg",
-          "width": 1000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/09/28/google-cloud-ai-prediction-service-becomes-generally-available/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/09/28/google-cloud-ai-prediction-service-becomes-generally-available/amp/",
-      "publishedDateTime": "2020-09-28T06:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020.md",
-      "title": "Synopsys to Host Panel on AI for Chip Design at AI Hardware Summit 2020",
-      "excerpt": "PRNewswire/ --Synopsys, Inc. (Nasdaq: SNPS) today announced that Arun Venkatachar, VP of AI and Central Engineering, will participate in a panel discussion with participants from Intel and Google at the 2020 AI Hardware Summit on the topic of AI and whether it can revolutionize the way chips are designed today.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020-1029626943",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020-1029626943",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020-1029626943",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020-1029626943",
-      "publishedDateTime": "2020-09-28T06:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-our-goal-shouldnt-be-to-build-merely-trustworthy-ai.md",
-      "title": "Our goal shouldn’t be to build merely ‘trustworthy’ AI",
-      "excerpt": "Mariarosaria Taddeo, Deputy Director of the Oxford Internet Institute's Digital Ethics Lab, explains why AI ethics must be a continuous practice.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/09/28/our-goal-shouldnt-be-to-build-merely-trustworthy-ai/",
-      "originalUrl": "https://thenextweb.com/neural/2020/09/28/our-goal-shouldnt-be-to-build-merely-trustworthy-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Untitled-design-2020-09-28T104701.865-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/09/28/our-goal-shouldnt-be-to-build-merely-trustworthy-ai/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/28/our-goal-shouldnt-be-to-build-merely-trustworthy-ai/amp/",
-      "publishedDateTime": "2020-09-28T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

@@ -35,7 +35,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2019/05/Hailo-8-chip-breakthrough-performance-for-deep-learning-applications-at-your-fingertip.jpg?w=1024"
         width: 1024

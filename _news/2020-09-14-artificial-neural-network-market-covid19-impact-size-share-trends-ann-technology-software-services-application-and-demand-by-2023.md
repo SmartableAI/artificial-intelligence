@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Artificial Neural Network Market- Covid19 Impact, Size, Share, Trends, ANN Technology, Software & Services, Application and Demand by 2023"
-excerpt: "Global Artificial Neural Network Market Synopsis According to Market Research Future Reports (MRFR), the global"
-publishedDateTime: 2020-09-14T13:57:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-neural-network-market--covid19-impact-size-share-trends-ann-technology-software-services-application-and-demand-by-2023-2020-09-14?mod=mw_quote_news"
-webUrl: "https://www.marketwatch.com/press-release/artificial-neural-network-market--covid19-impact-size-share-trends-ann-technology-software-services-application-and-demand-by-2023-2020-09-14?mod=mw_quote_news"
+excerpt: "According to Market Research Future Reports (MRFR), the global artificial neural network market is expected to acquire a significant market value, thriving at a substantial CAGR during the ..."
+publishedDateTime: 2020-09-14T15:37:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-neural-network-market--covid19-impact-size-share-trends-ann-technology-software-services-application-and-demand-by-2023-2020-09-14"
+webUrl: "https://www.marketwatch.com/press-release/artificial-neural-network-market--covid19-impact-size-share-trends-ann-technology-software-services-application-and-demand-by-2023-2020-09-14"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "r5qTYsw/fuukkJ/DVgZRw6/SLQJBQtNQGzs3I8+UL0F59Rp73lckazkAshr063j/meyo+6tXyjJSbdAitgVFj1hbEVOim+lm4uIInuo2qvVun0Oi65Q2dcJ7LRgxrFiT7NWnrBorxQ2ANkB8biDjFJJVwhogw4dkG+DjPN1CEXPJWIaWsPD/qM3d1bUR1MjvNqnqG4PZI2P4323H3qz5fQ9z4QDtarwBU7Ec4HEG/Pq8gwGkNth2MeZW7gDkxvrw2uOLOpu4xrCgQNBCOwbBRyqFx1T2u0zfuNrof2ZdvYEFqAFr9blah7/umVlZgSt5G6s9wWI1lxjjre3LY51fXPXF8UveOdyy6xHZz0I27AM=;DNpZvJN2JD2QxeO9uFWJyA=="
+secured: "7QfDiOu+4+nUqTJ6CKe708siLPb8b3IxH5RfKnrOC6ltgEIbuhkciX4g5sVwefKcaKTDQQOpB6P2a+UBvFuzFoUl0mf61fKtnKgmmaVrFxKg2BH02iX0wjsImGDVTzciPnStIGj9UIxhs1Re1J9vaxw3mhLLou7B5pcrLp/gqZHDNVNmlX1QlG5muaTTCaE+JT7rMTlAkwWEwKzPayg6+KHoNT4fcFPPRP0NIDCcWrntpkqGFvfBl5KHk6iC81+ja0g0WXaw8DT4zmvtXR4njd74iQhw1+S9EZrOv61KvPlVCeCm2tGL+GwRFdr/vJz5js1eu5mBz0i4lIJZmQBgmIG3f1F5+tsnvwaKfyyN8aI=;4EaOEDsrIXx11kXSgxcW6Q=="
 ---
 

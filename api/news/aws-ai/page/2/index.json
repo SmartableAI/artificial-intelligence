@@ -2,57 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-09-17-detecting-and-redacting-pii-using-amazon-comprehend.md",
-      "title": "Detecting and redacting PII using Amazon Comprehend",
-      "excerpt": "Amazon Comprehend is a natural language processing (NLP) service that uses machine learning (ML) to find insights and relationships like people, places, sentiments, and topics in unstructured text. You can now use Amazon Comprehend ML capabilities to detect and redact personally identifiable information",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detecting-and-redacting-pii-using-amazon-comprehend/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detecting-and-redacting-pii-using-amazon-comprehend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/17/1-Realtime-analysis-875x630.jpg",
-          "width": 875,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-17T14:46:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-17-serving-pytorch-models-in-production-with-the-amazon-sagemaker-native-torchserve-integration.md",
       "title": "Serving PyTorch models in production with the Amazon SageMaker native TorchServe integration",
       "excerpt": "In April 2020, AWS and Facebook announced the launch of TorchServe to allow researches and machine learning (ML) developers from the PyTorch community to bring their models to production more quickly and without needing to write custom code. TorchServe is an open-source project that answers the industry",
@@ -1427,6 +1376,57 @@
       "topics": [
         "AWS AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-amazon-polly-ntts-voices-now-available-in-singapore-tokyo-frankfurt-and-london-regions.md",
+      "title": "Amazon Polly NTTS voices now available in Singapore, Tokyo, Frankfurt, and London Regions",
+      "excerpt": "Amazon Polly turns text into lifelike speech, allowing you to create voice-enabled applications. We’re excited to announce the general availability of all Neural Text-to-Speech (NTTS) voices in Asia Pacific (Singapore), Asian Pacific (Tokyo), EU (Frankfurt), and EU (London) Regions. You can now synthesize",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-ntts-voices-now-available-in-singapore-tokyo-frankfurt-and-london-regions/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-ntts-voices-now-available-in-singapore-tokyo-frankfurt-and-london-regions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-03T10:12:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     }
   ],

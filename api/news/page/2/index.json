@@ -2,6 +2,305 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-02-air-street-capital-ai-industry-remains-strong-despite-academic-brain-drain-tech-nationalization.md",
+      "title": "Air Street Capital: AI industry remains strong despite academic brain drain, tech nationalization",
+      "excerpt": "Air Street Capital's annual State of AI report finds that despite challenges, the AI industry remains strong heading into 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/01/air-street-capital-ai-industry-remains-strong-despite-academic-brain-drain-tech-nationalization/",
+      "originalUrl": "https://venturebeat.com/2020/10/01/air-street-capital-ai-industry-remains-strong-despite-academic-brain-drain-tech-nationalization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/01/air-street-capital-ai-industry-remains-strong-despite-academic-brain-drain-tech-nationalization/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/01/air-street-capital-ai-industry-remains-strong-despite-academic-brain-drain-tech-nationalization/amp/",
+      "publishedDateTime": "2020-10-01T11:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-using-machine-learning-to-predict-pediatric-brain-injury.md",
+      "title": "Using machine learning to predict pediatric brain injury",
+      "excerpt": "When newborn babies or children with heart or lung distress are struggling to survive, doctors often turn to a form of life support that uses artificial lungs. This treatment, called Extracorporeal Membrane Oxygenation (ECMO),",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2020-10-machine-pediatric-brain-injury.html",
+      "originalUrl": "https://medicalxpress.com/news/2020-10-machine-pediatric-brain-injury.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/1-usingmachine.jpg",
+          "width": 1440,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-10-machine-pediatric-brain-injury.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-machine-pediatric-brain-injury.amp",
+      "publishedDateTime": "2020-10-01T10:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-halloween-themed-aws-deepcomposer-chartbusters-challenge-track-or-treat.md",
+      "title": "Halloween-themed AWS DeepComposer Chartbusters Challenge: Track or Treat",
+      "excerpt": "We are back with a spooktacular AWS DeepComposer Chartbusters challenge, Track or Treat! In this challenge, you can interactively collaborate with the ghost in the machine (learning) and compose spooky music! Chartbusters is a global monthly challenge where you can use AWS DeepComposer to create original",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/halloween-themed-aws-deepcomposer-chartbusters-challenge-track-or-treat/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/halloween-themed-aws-deepcomposer-chartbusters-challenge-track-or-treat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/01/3-.jpg",
+          "width": 900,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-01T10:35:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-how-to-avoid-disasters-like-amazons-rekognition.md",
+      "title": "How to avoid disasters like Amazon’s Rekognition",
+      "excerpt": "One way to avoid disastrous AI systems in the wild might be to build responsible operation into the programs from the start, professor Sergey Levine of U.C. Berkeley told ZDNet. He has a plan to do that.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/video/how-to-avoid-disasters-like-amazons-rekognition/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/video/how-to-avoid-disasters-like-amazons-rekognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/10/01/5c32dd88-72fe-4f31-8628-3f86d7a78d8e/thumbnail/370x278/58b9f96baf74fb0d2e3eefb4b3427f0a/thumb.jpg",
+          "width": 370,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-01T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-fast-tracking-ai-ethics-is-dicey-and-shortsighted-especially-for-self-driving-cars.md",
+      "title": "Fast-Tracking AI Ethics Is Dicey And Shortsighted, Especially For Self-Driving Cars",
+      "excerpt": "There seems to be quite a rush to get AI systems out-the-door these days. Unfortunately, there is a devilish price to be paid in such a rush to judgment and the associated misguided assumption that the soonest AI is the best kind of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/01/fast-tracking-ai-ethics-is-dicey-and-shortsighted-especially-for-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/01/fast-tracking-ai-ethics-is-dicey-and-shortsighted-especially-for-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F488653868%2F0x0.jpg",
+          "width": 1200,
+          "height": 1107,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/01/fast-tracking-ai-ethics-is-dicey-and-shortsighted-especially-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/01/fast-tracking-ai-ethics-is-dicey-and-shortsighted-especially-for-self-driving-cars/amp/",
+      "publishedDateTime": "2020-10-01T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-what-if-you-could-turn-your-voice-into-any-instrument.md",
+      "title": "What if you could turn your voice into any instrument?",
+      "excerpt": "Imagine whistling your favorite song. You might not sound like the real deal, right? Now imagine your rendition using auto-tune software. Better, sure, but the result is still your voice. What if there was a way to turn your voice into something like a violin, or a saxophone, or a flute? Google Research’s",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/what-if-you-could-turn-your-voice-any-instrument/",
+      "originalUrl": "https://blog.google/technology/ai/what-if-you-could-turn-your-voice-any-instrument/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/tone_transfer_2.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/what-if-you-could-turn-your-voice-any-instrument/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/what-if-you-could-turn-your-voice-any-instrument/amp/",
+      "publishedDateTime": "2020-10-01T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-01-how-the-pandemic-has-reshaped-ai-robotics-and-automation.md",
       "title": "How the pandemic has reshaped AI, robotics, and automation",
       "excerpt": "Tonya Hall talks with Dr. Kate Darling, research specialist at the MIT Media Lab, to learn more about how the future of AI, robotics, and automation was reshaped following the COVID-19 pandemic outbreak.",
@@ -99,6 +398,57 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-combining-machine-learning-tools-for-medical-imaging-with-genetic-sequencing-nets-sophia-genetics-110m.md",
+      "title": "Combining machine learning tools for medical imaging with genetic sequencing nets Sophia Genetics $110M",
+      "excerpt": "SOPHiA GENETICS, the shoutily and poorly capitalized-named startup that’s combining machine learning tools for medical imaging and genetic sequencing to come up with a more holistic view of diseases for better patient care,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/01/combining-machine-learning-tools-for-medical-imaging-with-genetic-sequencing-nets-sophia-genetics-110m/",
+      "originalUrl": "https://techcrunch.com/2020/10/01/combining-machine-learning-tools-for-medical-imaging-with-genetic-sequencing-nets-sophia-genetics-110m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/08/GettyImages-552163301-mri.jpg?w=1024",
+          "width": 1024,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/01/combining-machine-learning-tools-for-medical-imaging-with-genetic-sequencing-nets-sophia-genetics-110m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/01/combining-machine-learning-tools-for-medical-imaging-with-genetic-sequencing-nets-sophia-genetics-110m/amp/",
+      "publishedDateTime": "2020-10-01T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -869,366 +1219,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-as-ai-chips-improve-is-tops-the-best-way-to-measure-their-power.md",
-      "title": "As AI chips improve, is TOPS the best way to measure their power?",
-      "excerpt": "There's more to understanding the performance of AI-capable chips than just a single summary number, even if that's what chipmakers are marketing to users.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/30/as-ai-chips-improve-is-tops-the-best-way-to-measure-their-power/",
-      "originalUrl": "https://venturebeat.com/2020/09/30/as-ai-chips-improve-is-tops-the-best-way-to-measure-their-power/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/5thgenaiengine-e1601490960504.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/30/as-ai-chips-improve-is-tops-the-best-way-to-measure-their-power/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/30/as-ai-chips-improve-is-tops-the-best-way-to-measure-their-power/amp/",
-      "publishedDateTime": "2020-09-30T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-from-microsoft-vp-to-law-student-what-this-execs-career-transition-says-about-ai-and-the-law.md",
-      "title": "From Microsoft VP to law student: What this exec’s career transition says about AI and the law",
-      "excerpt": "Mike Angiulo worked at Microsoft for 25 years as an engineering manager and vice president for products including Windows PCs, Microsoft Outlook, Xbox, Surface, and cloud and artificial",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/microsoft-vp-law-student-execs-career-transition-says-ai-law/",
-      "originalUrl": "https://www.geekwire.com/2020/microsoft-vp-law-student-execs-career-transition-says-ai-law/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/09/mike-angiulo-2-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-vp-law-student-execs-career-transition-says-ai-law/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-vp-law-student-execs-career-transition-says-ai-law/amp/",
-      "publishedDateTime": "2020-09-30T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-these-robots-use-ai-to-learn-how-to-clean-your-house.md",
-      "title": "These Robots Use AI to Learn How to Clean Your House",
-      "excerpt": "At Toyota, researchers are experimenting with prototypes that swoop from the ceiling to take care of chores with the help of machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/robots-use-ai-learn-clean-your-house/",
-      "originalUrl": "https://www.wired.com/story/robots-use-ai-learn-clean-your-house/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f74c95e922b403d5b360f47/master/pass/business_toytota_gmk.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/robots-use-ai-learn-clean-your-house/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/robots-use-ai-learn-clean-your-house/amp",
-      "publishedDateTime": "2020-09-30T13:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-say-goodbye-to-hold-music.md",
-      "title": "Say goodbye to hold music",
-      "excerpt": "Sometimes, a phone call is the best way to get something done. We call retailers to locate missing packages, utilities to adjust our internet speeds, airlines to change our travel itineraries...the list goes on. But more often than not, we need to wait on hold during these calls—listening closely to",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/pixel/hold-for-me/",
-      "originalUrl": "https://blog.google/products/pixel/hold-for-me/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HFM-hero2x.max-1300x1300.png",
-          "width": 1300,
-          "height": 557,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/pixel/hold-for-me/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/pixel/hold-for-me/amp/",
-      "publishedDateTime": "2020-09-30T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-building-custom-language-models-to-supercharge-speech-to-text-performance-for-amazon-transcribe.md",
-      "title": "Building custom language models to supercharge speech-to-text performance for Amazon Transcribe",
-      "excerpt": "Amazon Transcribe is a fully-managed automatic speech recognition service (ASR) that makes it easy to add speech-to-text capabilities to voice-enabled applications. As our service grows, so does the diversity of our customer base, which now spans domains such as insurance, finance, law, real estate,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-custom-language-models-to-supercharge-speech-to-text-performance-for-amazon-transcribe/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/building-custom-language-models-to-supercharge-speech-to-text-performance-for-amazon-transcribe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T11:12:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-tigergraph-highlights-next-generation-graph-and-machine-learning-partnerships-at-graph-ai-world-2020.md",
-      "title": "TigerGraph Highlights Next-Generation Graph and Machine Learning Partnerships at Graph + AI World 2020",
-      "excerpt": "REDWOOD CITY, Calif., Sept. 30, 2020 (GLOBE NEWSWIRE) -- TigerGraph, the only scalable graph database for the enterprise, today announced that it will showcase multiple key partnerships that are democratizing the use of graph with AI and machine learning at Graph + AI World 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/tigergraph-highlights-next-generation-graph-and-machine-learning-partnerships-at-graph-ai-world-2020-2020-09-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/tigergraph-highlights-next-generation-graph-and-machine-learning-partnerships-at-graph-ai-world-2020-2020-09-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-astrazeneca-uses-pytorch-and-azure-ml-to-speed-up-drug-discovery.md",
-      "title": "AstraZeneca uses PyTorch and Azure ML to speed up drug discovery",
-      "excerpt": "The firm has introduced a new production use case for early drug discovery, utilizing the PyTorch framework alongside Microsoft's Azure Machine Learning to support the latest research.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/astrazeneca-uses-pytorch-and-azure-ml-to-speed-up-drug-discovery",
-      "originalUrl": "https://www.neowin.net/news/astrazeneca-uses-pytorch-and-azure-ml-to-speed-up-drug-discovery",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/09/1601479971_astrazeneca_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/astrazeneca-uses-pytorch-and-azure-ml-to-speed-up-drug-discovery/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/astrazeneca-uses-pytorch-and-azure-ml-to-speed-up-drug-discovery/",
-      "publishedDateTime": "2020-09-30T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "Facebook AI"
       ]
     }
   ],

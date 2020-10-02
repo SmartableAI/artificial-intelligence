@@ -2,6 +2,303 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-09-13-europe-machine-learning-market-analysis-covering-size-share-growth-trends-and-upcoming-opportunities.md",
+      "title": "Europe Machine Learning market Analysis Covering Size, Share, Growth, Trends and Upcoming Opportunities",
+      "excerpt": "The value of the machine learning market in Europe is expected to reach USD 3.96 Bn by 2023, expanding at a compound",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/europe-machine-learning-market-analysis-covering-size-share-growth-trends-and-upcoming-opportunities-2020-09-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/europe-machine-learning-market-analysis-covering-size-share-growth-trends-and-upcoming-opportunities-2020-09-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-13T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-this-stanford-professor-says-ai-hiring-tools-are-flawedheres-how-to-get-a-fair-shake.md",
+      "title": "This Stanford Professor Says AI Hiring Tools Are Flawed—Here’s How To Get A Fair Shake",
+      "excerpt": "If you’re looking for a job, you may need to impress a bot before you even get the chance to wow a recruiter. Here’s how to put your most AI-friendly foot forward.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnhall/2020/09/13/this-stanford-professor-says-ai-hiring-tools-are-flawed-heres-how-to-get-a-fair-shake/",
+      "originalUrl": "https://www.forbes.com/sites/johnhall/2020/09/13/this-stanford-professor-says-ai-hiring-tools-are-flawed-heres-how-to-get-a-fair-shake/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5be5a932ae9d68f2ef8e58%2F0x0.jpg",
+          "width": 1199,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnhall/2020/09/13/this-stanford-professor-says-ai-hiring-tools-are-flawed-heres-how-to-get-a-fair-shake/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnhall/2020/09/13/this-stanford-professor-says-ai-hiring-tools-are-flawed-heres-how-to-get-a-fair-shake/amp/",
+      "publishedDateTime": "2020-09-13T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-machine-learning-market-analysis-size-share-growth-trends-and-forecast.md",
+      "title": "Machine learning Market Analysis, Size, Share, Growth, Trends, and Forecast",
+      "excerpt": "The Global Machine learning market report provides an in-depth analysis of the Global Machine learning market during",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-analysis-size-share-growth-trends-and-forecast-2020-09-13?mod=mw_quote_news",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-analysis-size-share-growth-trends-and-forecast-2020-09-13?mod=mw_quote_news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-13T04:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-north-america-self-driving-car-market-global-industry-analysis-size-share-growth-trends-and-forecast.md",
+      "title": "North America Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast",
+      "excerpt": "A self-driving car also known as the driverless car or an autonomous car or a robotic car uses a combination of cameras, radars sensor, GPS system and artificial intelligence (AI) to travel ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/north-america-self-driving-car-market---global-industry-analysis-size-share-growth-trends-and-forecast-2020-09-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/north-america-self-driving-car-market---global-industry-analysis-size-share-growth-trends-and-forecast-2020-09-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-13T04:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-canada-artificial-intelligence-market-insights-current-and-future-market-trends-forecast-till-2027.md",
+      "title": "Canada Artificial Intelligence Market Insights, Current And Future Market Trends & Forecast Till 2027",
+      "excerpt": "The market report offers a comprehensive business study that analyses innovative ways for business growth and describes necessary factors such as leading players, market revenue, and growth rate. This report also focusses on market volume and value at a country level.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/canada-artificial-intelligence-market-insights-current-and-future-market-trends-forecast-till-2027-2020-09-13?mod=mw_quote_news",
+      "originalUrl": "https://www.marketwatch.com/press-release/canada-artificial-intelligence-market-insights-current-and-future-market-trends-forecast-till-2027-2020-09-13?mod=mw_quote_news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-13T04:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-custom-object-detection-tflite-model-for-android-using-tensorflow.md",
+      "title": "Custom Object Detection Tflite Model for Android using Tensorflow",
+      "excerpt": "In this tutorial, we will learn how to make a custom object detection model in TensorFlow and then converting the model to tflite for android. I will go through step by step. Every step is ...",
+      "sourceUrl": null,
+      "webUrl": "https://medium.com/analytics-vidhya/custom-object-detection-tflite-model-for-android-using-tensorflow-3d76e31afbc4",
+      "originalUrl": "https://medium.com/analytics-vidhya/custom-object-detection-tflite-model-for-android-using-tensorflow-3d76e31afbc4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-13T03:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-13-when-will-driverless-cars-be-a-part-of-our-everyday-lives.md",
       "title": "When Will Driverless Cars Be A Part Of Our Everyday Lives?",
       "excerpt": "Researcher Sebastian Thrun helped build Google's amazing driverless car ... His research focuses on robotics and artificial intelligence. He led the development of the robotic vehicle called ...",
@@ -867,303 +1164,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-12-toucan-raises-3m-to-teach-you-new-languages-as-you-browse-the-web.md",
-      "title": "Toucan raises $3M to teach you new languages as you browse the web",
-      "excerpt": "Toucan has developed a Chrome browser extension designed for anyone who wants to learn a new language but hasn’t found the motivation or the time. Once installed, the extension scans the text of any (English-language) website you’re visiting and will automatically translate some of the",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/11/toucan-funding/",
-      "originalUrl": "https://techcrunch.com/2020/09/11/toucan-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/ToucanTechCrunch1.jpg?w=680",
-          "width": 680,
-          "height": 452,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/11/toucan-funding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/11/toucan-funding/amp/",
-      "publishedDateTime": "2020-09-11T21:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-12-how-kabbage-improved-the-ppp-lending-experience-with-amazon-textract.md",
-      "title": "How Kabbage improved the PPP lending experience with Amazon Textract",
-      "excerpt": "This is a guest post by Anthony Sabelli, Head of Data Science at Kabbage, a data and technology company providing small business cash flow solutions. Kabbage is a data and technology company providing small business cash flow solutions. One way in which we serve our customers is by providing them access",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-kabbage-improved-the-ppp-lending-experience-with-amazon-textract/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-kabbage-improved-the-ppp-lending-experience-with-amazon-textract/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-11T17:28:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-12-bahrain-says-its-time-to-embrace-israel-the-gulf-hears-a-saudi-voice.md",
-      "title": "Bahrain Says It’s Time to Embrace Israel. The Gulf Hears a Saudi Voice.",
-      "excerpt": "Bahrain’s closeness to Saudi rulers makes it unthinkable the change in diplomatic ties happened without approval. But Saudi Arabia itself may not be in a rush to normalize relations with Israel.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/11/world/middleeast/bahrain-israel-saudi-arabia.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/11/world/middleeast/bahrain-israel-saudi-arabia.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/09/11/world/11bahrain-saudi/11bahrain-saudi-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/11/world/middleeast/bahrain-israel-saudi-arabia.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/11/world/middleeast/bahrain-israel-saudi-arabia.amp.html",
-      "publishedDateTime": "2020-09-11T17:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-12-ai-eye-accenture-nyse-acn-introduces-new-generation-of-mywizard-intelligent-automation-platform-ibm-nyse-ibm-announces-ai-powered-trade.md",
-      "title": "AI Eye: Accenture (NYSE: $ACN) Introduces New Generation Of myWizard Intelligent Automation Platform, IBM (NYSE: $IBM) Announces AI-Powered Trade Assistant For ESPN Fantasy ...",
-      "excerpt": "Introduces New Generation of myWizard Intelligent Automation Platform, IBM (NYSE: $IBM) Announces #AI-Powered Trade Assistant for #ESPN #FantasyFootball App Mobile AI Market to Reach $12.4 Billion by 2027 Point Roberts WA,",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/instablog/776842-investorideas-com/5496226-ai-eye-accenture-nyse-acn-introduces-new-generation-of-mywizard-intelligent-automation",
-      "originalUrl": "https://seekingalpha.com/instablog/776842-investorideas-com/5496226-ai-eye-accenture-nyse-acn-introduces-new-generation-of-mywizard-intelligent-automation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static3.seekingalpha.com/uploads/2020/9/11/776842-1599845765345105.jpg",
-          "width": 387,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-11T15:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-12-recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus.md",
-      "title": "Recipe for selling software in a pandemic: Be essential, add some machine learning, and focus, focus, focus",
-      "excerpt": "Instead of trading spreadsheets around, and manually annotating them, the company's Virtual Financial Analyst uses tools from Amazon's SageMaker environment to automatically reveal the anomalies ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/",
-      "originalUrl": "https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/09/11/6f1f4fd2-402e-4c0d-83b1-208ef209c7e2/alok-ajmera-zoom-call-sep-10th-2020.png",
-          "width": 2045,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/",
-      "publishedDateTime": "2020-09-11T14:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-12-ai-weekly-what-ml-practitioners-are-doing-about-climate-change.md",
-      "title": "AI Weekly: What ML practitioners are doing about climate change",
-      "excerpt": "Projects are underway to use AI to address climate change and its impact from groups like Climate Change AI and Climate Trace.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/11/ai-weekly-what-ml-practitioners-are-doing-about-climate-change/",
-      "originalUrl": "https://venturebeat.com/2020/09/11/ai-weekly-what-ml-practitioners-are-doing-about-climate-change/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-1271593615.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/11/ai-weekly-what-ml-practitioners-are-doing-about-climate-change/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/11/ai-weekly-what-ml-practitioners-are-doing-about-climate-change/amp/",
-      "publishedDateTime": "2020-09-11T13:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

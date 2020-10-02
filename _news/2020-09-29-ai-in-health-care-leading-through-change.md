@@ -154,7 +154,7 @@ related:
   - title: "Voice Recognition Market 2020 with Top Countries Data, Growth Analysis, Applications, Major Drivers, Value and Forecasts till 2026"
     excerpt: "Global “Voice Recognition Market\" 2020 Research Report provides key analysis on the market status of the Voice"
     publishedDateTime: 2020-09-28T08:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-2020-with-top-countries-data-growth-analysis-applications-major-drivers-value-and-forecasts-till-2026-2020-09-28?mod=mw_quote_news"
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-2020-with-top-countries-data-growth-analysis-applications-major-drivers-value-and-forecasts-till-2026-2020-09-28"
     type: article
     provider:
       name: MarketWatch

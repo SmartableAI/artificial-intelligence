@@ -1,10 +1,10 @@
 ---
 category: news
 title: "COVID-19 and Mining Social Media - Enabling Machine Learning Workloads with Big Data"
-excerpt: "In this article, author Adi Pollock discusses how to enable machine learning workloads with big data to query and analyze COVID-19 tweets to understand social sentiment towards COVID-19. The book Office Optional by Larry English describes how employees ..."
-publishedDateTime: 2020-10-02T12:29:00Z
-originalUrl: "https://www.infoq.com/articles/covid-social-media-machine-learning/?topicPageSponsorship=9ee9cabb-978d-4b65-9c62-dba6f9b389b3&itm_source=articles_about_architecture-design&itm_medium=link&itm_campaign=architecture-design"
-webUrl: "https://www.infoq.com/articles/covid-social-media-machine-learning/?topicPageSponsorship=9ee9cabb-978d-4b65-9c62-dba6f9b389b3&itm_source=articles_about_architecture-design&itm_medium=link&itm_campaign=architecture-design"
+excerpt: "In this article, author Adi Pollock discusses how to enable machine learning workloads with big data to query and analyze COVID-19 tweets to understand social sentiment towards COVID-19."
+publishedDateTime: 2020-10-02T15:51:00Z
+originalUrl: "https://www.infoq.com/articles/covid-social-media-machine-learning/?topicPageSponsorship=aa1a9092-c441-486c-8c69-4416fca4b422&itm_source=articles_about_architecture-design&itm_medium=link&itm_campaign=architecture-design"
+webUrl: "https://www.infoq.com/articles/covid-social-media-machine-learning/?topicPageSponsorship=aa1a9092-c441-486c-8c69-4416fca4b422&itm_source=articles_about_architecture-design&itm_medium=link&itm_campaign=architecture-design"
 type: article
 quality: 34
 heat: -1
@@ -15,9 +15,9 @@ provider:
   domain: infoq.com
 
 topics:
-  - Machine Learning
-  - AI
   - Microsoft AI
+  - AI
+  - Machine Learning
 
 images:
   - url: "https://res.infoq.com/articles/covid-social-media-machine-learning/en/headerimage/croppted-eIq7PfpU-1601562447743.jpeg"
@@ -179,6 +179,6 @@ related:
       domain: edweek.org
     quality: 4
 
-secured: "E0r2uqPfQgQ6+PKF0b1twoj/lUZ/u/qLel0QBHHRkLzdR8MV8lGiANzQkTthlZNnLJlpMCZL/FtwnKGtEDZQ3wag3KUtJzpBP6saDclSP+6oXOJ1KHTPxgE95I1KQc5aQ81USX7yHv8I46a7jI/J5FwbTODbPBudSaVPN7DtinSCdADr7dTLLjYeJaY5KE/SNikQ1EADf5N420gpCzydKGJk4QWx/oorn7DUgrHesMISAqpMyNo8CubZGPWApX42Fe0rWEt3N/GSKPK3zPo5oA3oS8StOy7BKIqfFBWwAzTDlPD3PVBGVieCwZBOwQ61a1l0tTmEVeM79P3XkS9aYzYbdxC5cuT2PzsIk6GGbBT35Eg9EQg5zGoFpNuDUGTwEu7FqKeEfcp2Vik06k4QJdeUs5TXI0hZhEemrcP6QMwEhGB8701OYI0+NgzUbjzRwBGg38oL3fgqHzpeDd5y2R/G3eq5u9OQ3Qcr188BDf7wG2YwE3S/OHSoSfkW99k/ju7PoY6IujuxK4L6cj+rew==;ry0Y0cRdMk8S0DEmbX8Waw=="
+secured: "ENtM3ohgswHPfI4DjdOsPby4AO2PNFk8XTdkBoGiHcXOT0V5RxfA4V9sEOmcDfAzUz/4YGetrgk8P+elJfU4Yw6Hg9LFT+zctj0e+M4p5RU3eBM7dls5okA4LbWp6pd9M9JydV3lgd5/Sr+CYZEL+MUCVXwHmFudMu8YxUb0CxHsMbr5g7zNHB4B8yhax806R3mMT4TJJMhWfbsCgiuszD/uGHBSkJRrX7duLXCn7at4VQrDPLv5Gd332sCbVwgmbBPCW3kd0I9Se5jKZKfAKo1fEqVk6La+FWEFLWGXtxs1K2v4b9BQWGa2d152N6OSxsDXDN7cymSXHUquX+bIpzS1PnqOjEJlR2PGf8nZea0=;3mgGJ/l6x0fUq9n3njd4lg=="
 ---
 

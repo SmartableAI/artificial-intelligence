@@ -43,20 +43,6 @@ related:
         width: 480
         height: 250
         isCached: true
-  - title: "ATO re-tenders for myGovID anti-spoofing facial recognition software"
-    excerpt: "The Australian Taxation Office has gone back to the market to find a facial recognition solution to underpin the government’s myGovID digital identity credentialing app. The national revenue agency issued a tender for a 'liveness' solution late last week,"
-    publishedDateTime: 2020-09-28T01:41:00Z
-    webUrl: "https://www.itnews.com.au/news/ato-re-tenders-for-mygovid-anti-spoofing-facial-recognition-software-553982"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/facial_biometric_identity.jpg"
-        width: 1254
-        height: 836
-        isCached: true
 
 secured: "RI9Oo2y6f3ZyYXXg7QfVId4onj9YcKkcT+Q/orHYx2+S+f0OxfDb1vRAS8D0kss+LRybUnu8z4dJGwTfKi7I210//t1NSmumfQtm9sy+gN+BE4MV04+yQUhsyC7N5/LOO6Z9+Wh6fvlbhNEJGABbapclwJ8u3TsYs83Y9o0xNArCaNF6yJFugoG7qqQeXdcIqOqpwlIAyxHCvDvTOzCu2UTm+jOzsP2tzI6+pE1AYjrfDWh1fdJOcgIp/5RAhQwiPLM7LYcnJkWI8GNUj6XmxnJaYnEnX7W+jWyVfooBBoWxEU2MRruQRgwGwxiLROKQ4S6Jij/KCLFjqQgcJPc2L0WJozXQ8953knf8A+ZLBsA=;6xqsgZ7hb2cz8eSFgd4KvA=="
 ---
