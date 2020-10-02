@@ -71,6 +71,20 @@ related:
         width: 900
         height: 424
         isCached: true
+  - title: "Building an end-to-end intelligent document processing solution using AWS"
+    excerpt: "As organizations grow larger in size, so does the need for having better document processing. In industries such as healthcare, legal, insurance, and banking, the continuous influx of paper-based or PDF documents (like invoices, health charts, and insurance claims) have pushed businesses to consider"
+    publishedDateTime: 2020-10-02T01:25:41Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/building-an-end-to-end-intelligent-document-processing-solution-using-aws/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 88
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/22/1-DocumentAnalysisSolution.jpg"
+        width: 900
+        height: 471
+        isCached: true
 
 secured: "aqaDfYuTuNQcawxWWukzlDVNj2wDqvd8cc5p7OMemgb4iWgZa0b4RnILhgIk3MVLpznUpFfXpe4BFkDykfc88mYPKtik7VO4DLicwD04G2l+b2+aF4kVoETtrH695RL1oT3CY0b1ksyTAislxyAiOOCUfn9w47J/yba31zz+OvpVCPmidohu15owpdZnKnPoiDgXAD46B09PUqx3+9f0qfd4VDxx0jpgX3h7vEYftUbDlVpF418APyRmjIdexQ8dRU3pEWv0/p1P/RdXkMzZUmdZuqCRm0GmIoRME4JOXMYejJfH8U7q/oZTt1xWIhc8jwqEyN8cKHPssuV2u5K7SdAEwiVfTDuyVV4XK0bgOKM=;nQaQ9weGfODXbGvey1ZMnA=="
 ---

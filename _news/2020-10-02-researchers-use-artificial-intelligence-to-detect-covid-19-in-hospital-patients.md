@@ -1,35 +1,48 @@
 ---
 category: news
-title: "Navigating COVID-19 With Conversational AI"
-excerpt: "At the forefront of creating deep and engaging conversations via rich-media interactions, Conversational AI has proven itself to be of immense value in the current crisis with vast potential as a new"
-publishedDateTime: 2020-09-29T11:21:00Z
-originalUrl: "https://www.entrepreneur.com/article/356864"
-webUrl: "https://www.entrepreneur.com/article/356864"
-ampWebUrl: "https://www.entrepreneur.com/amphtml/356864"
-cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356864"
+title: "Researchers use artificial intelligence to detect COVID-19 in hospital patients"
+excerpt: "Researchers at the University of Minnesota and M Health Fairview are developing a new technology that uses artificial intelligence to help doctors detect COVID-19 in hospital patients."
+publishedDateTime: 2020-10-02T01:26:00Z
+originalUrl: "https://www.fox9.com/news/researchers-use-artificial-intelligence-to-detect-covid-19-in-hospital-patients"
+webUrl: "https://www.fox9.com/news/researchers-use-artificial-intelligence-to-detect-covid-19-in-hospital-patients"
+ampWebUrl: "https://www.fox9.com/news/researchers-use-artificial-intelligence-to-detect-covid-19-in-hospital-patients.amp"
+cdnAmpWebUrl: "https://www-fox9-com.cdn.ampproject.org/c/s/www.fox9.com/news/researchers-use-artificial-intelligence-to-detect-covid-19-in-hospital-patients.amp"
 type: article
-quality: 87
-heat: 177
-published: true
+quality: 55
+heat: -1
+published: false
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Fox 9
+  domain: fox9.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://assets.entrepreneur.com/content/3x2/2000/1601378445-artificial-intelligence-3382507-19201.jpg?width=600&crop=16:9"
-    width: 600
-    height: 338
+  - url: "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2020/10/932/470/chest-xray-ai-covid-detection.jpg?ve=1&tl=1"
+    width: 932
+    height: 470
     isCached: true
 
 related:
+  - title: "Navigating COVID-19 With Conversational AI"
+    excerpt: "At the forefront of creating deep and engaging conversations via rich-media interactions, Conversational AI has proven itself to be of immense value in the current crisis with vast potential as a new"
+    publishedDateTime: 2020-09-29T11:21:00Z
+    webUrl: "https://www.entrepreneur.com/article/356864"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/356864"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356864"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 87
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1601378445-artificial-intelligence-3382507-19201.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Olive's AI Workforce to Revolutionize COVID-19 Testing at Tufts Medical Center"
     excerpt: "Olive announced today that it has entered into an agreement to leverage its AI workforce technology to streamline COVID-19 testing operations at Tufts Medical Center in Boston, Mass. Olive will begin its enterprise-wide AI workforce deployment at the Medical Center by automating high-volume,"
     publishedDateTime: 2020-09-29T17:18:00Z
@@ -41,22 +54,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 63
-  - title: "Researchers use artificial intelligence to detect COVID-19 in hospital patients"
-    excerpt: "Researchers at the University of Minnesota and M Health Fairview are developing a new technology that uses artificial intelligence to help doctors detect COVID-19 in hospital patients."
-    publishedDateTime: 2020-10-02T01:26:00Z
-    webUrl: "https://www.fox9.com/news/researchers-use-artificial-intelligence-to-detect-covid-19-in-hospital-patients"
-    ampWebUrl: "https://www.fox9.com/news/researchers-use-artificial-intelligence-to-detect-covid-19-in-hospital-patients.amp"
-    cdnAmpWebUrl: "https://www-fox9-com.cdn.ampproject.org/c/s/www.fox9.com/news/researchers-use-artificial-intelligence-to-detect-covid-19-in-hospital-patients.amp"
-    type: article
-    provider:
-      name: Fox 9
-      domain: fox9.com
-    quality: 55
-    images:
-      - url: "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2020/10/932/470/chest-xray-ai-covid-detection.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
   - title: "AI in Manufacturing Market 2020 with COVID-19 Impact Analysis | Upcoming Trends & Forecast Till 2027"
     excerpt: "The global artificial intelligence (AI) in manufacturing market size is expected to rise owing to increasing demand"
     publishedDateTime: 2020-09-28T11:12:00Z
@@ -151,6 +148,6 @@ related:
       domain: edweek.org
     quality: 4
 
-secured: "k6nCE2tZWRLbw7scaxhMEKH7ogZ+7lwVp9NiGLAa6vo7Y3E77k3nMKDir6WvIRb5nYWciOhLVRAr5Xr8yS2UglLDkHe4j2uKGGzZ3Ij9xSJsxUTgpH5KkvO4LT+QqXGKAx/ST+d34J636Gm/WXCrFmdfN1HqkgGVtWyM5dnm1d9+MTF+AiiCyqQf6hAYD7BDagRF1xn2QPAn0oTrlwdVvFWrojLScwpchPl7KeFFtA1mDP/wZAqpMFO7GRVkbE3O4SsfaujEPIc6MiI8oYGpWmV9jqoaw+BFwlqzY0xnCbBHsFofuFKV4RSxT1rr4wErN+xRhN00ovS0RoLl/q+782MYGL1JMhQmulIsoKshTxUdpwvRUEbD5gzGOTXa93yLtQAQz7rFzW2oMvtFK6X/yllqD9I+dwl3rF/zr2wmm2XrnaD2PFzhDAoApiiv3fdFGAINdlv+kIg4vqOvwB8ClAvLg4HVvhboK9MApkE9tqk/EmSTQMr3RWnyQgYIep3nePTDD57N6cij12fe3JbsyA==;EmtGcpEiIWK6AgzMrE7Sbw=="
+secured: "/wuSgBARJTRnSoZvi0P7PB7arXAd+iyhY8D5UmpoK2rAbPZb9/2RZQREs94+MFDTbRG2wsmxYc5HSK90CVbHxqI226NLPhJEqi0Sx4pRr4uXu1u2JEYxuxKoWguTSvG9YEqlk+yYB5ZyWLeRHKPNltaUOjs0G4gN+c4e3u+/Vrd85uB/3wslza0Qax4DCLgKsXUIAiUI54yzQ/N/RbsZiNxdfvaHQjHx2BFCGgi6EC7wISkGlgOleH/fRQGD3ha64NCRy+JZVubAPFdOzRMqLX8svY2/Q21o0ZQsxXmMFx/rj/bHvejs/FA6ieS3g0gpdx5dx9utPmHkAGYKzQJrvueXZVLiaNPAbKfRWGO5k3I=;8wAvBMCoYL4spcRTW0uSKA=="
 ---
 

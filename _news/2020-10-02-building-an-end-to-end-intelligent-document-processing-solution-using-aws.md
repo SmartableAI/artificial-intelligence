@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Using Amazon Rekognition Custom Labels and Amazon A2I for detecting pizza slices and augmenting predictions"
-excerpt: "Customers need machine learning (ML) models to detect objects that are interesting for their business. In most cases doing so is hard as these models needs thousands of labelled images and deep learning expertise. &nbsp;Generating this data can take months to gather, and can require large teams of labelers"
-publishedDateTime: 2020-09-30T21:30:12Z
-originalUrl: "https://aws.amazon.com/blogs/machine-learning/using-amazon-rekognition-custom-labels-and-amazon-a2i-for-detecting-pizza-slices-and-augmenting-predictions/"
-webUrl: "https://aws.amazon.com/blogs/machine-learning/using-amazon-rekognition-custom-labels-and-amazon-a2i-for-detecting-pizza-slices-and-augmenting-predictions/"
+title: "Building an end-to-end intelligent document processing solution using AWS"
+excerpt: "As organizations grow larger in size, so does the need for having better document processing. In industries such as healthcare, legal, insurance, and banking, the continuous influx of paper-based or PDF documents (like invoices, health charts, and insurance claims) have pushed businesses to consider"
+publishedDateTime: 2020-10-02T01:25:41Z
+originalUrl: "https://aws.amazon.com/blogs/machine-learning/building-an-end-to-end-intelligent-document-processing-solution-using-aws/"
+webUrl: "https://aws.amazon.com/blogs/machine-learning/building-an-end-to-end-intelligent-document-processing-solution-using-aws/"
 type: article
 quality: 88
 heat: -1
@@ -21,12 +21,11 @@ provider:
 topics:
   - AI
   - AWS AI
-  - Computer Vision
 
 images:
-  - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/30/3-Custom-labels.jpg"
+  - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/22/1-DocumentAnalysisSolution.jpg"
     width: 900
-    height: 424
+    height: 471
     isCached: true
 
 related:
@@ -58,19 +57,19 @@ related:
         width: 900
         height: 450
         isCached: true
-  - title: "Building an end-to-end intelligent document processing solution using AWS"
-    excerpt: "As organizations grow larger in size, so does the need for having better document processing. In industries such as healthcare, legal, insurance, and banking, the continuous influx of paper-based or PDF documents (like invoices, health charts, and insurance claims) have pushed businesses to consider"
-    publishedDateTime: 2020-10-02T01:25:41Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/building-an-end-to-end-intelligent-document-processing-solution-using-aws/"
+  - title: "Using Amazon Rekognition Custom Labels and Amazon A2I for detecting pizza slices and augmenting predictions"
+    excerpt: "Customers need machine learning (ML) models to detect objects that are interesting for their business. In most cases doing so is hard as these models needs thousands of labelled images and deep learning expertise. &nbsp;Generating this data can take months to gather, and can require large teams of labelers"
+    publishedDateTime: 2020-09-30T21:30:12Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/using-amazon-rekognition-custom-labels-and-amazon-a2i-for-detecting-pizza-slices-and-augmenting-predictions/"
     type: article
     provider:
       name: AWS
       domain: aws.amazon.com
     quality: 88
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/22/1-DocumentAnalysisSolution.jpg"
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/30/3-Custom-labels.jpg"
         width: 900
-        height: 471
+        height: 424
         isCached: true
   - title: "Running on-demand, serverless Apache Spark data processing jobs using Amazon SageMaker managed Spark containers and the Amazon SageMaker SDK"
     excerpt: "Apache Spark is a unified analytics engine for large scale, distributed data processing. Typically, businesses with Spark-based workloads on AWS use their own stack built on top of Amazon Elastic Compute Cloud (Amazon EC2), or Amazon EMR to run and scale Apache Spark, Hive, Presto, and other big data"
@@ -87,6 +86,6 @@ related:
         height: 531
         isCached: true
 
-secured: "UlwbvjHlTWvwclGPHQqUpdlZjU6h1KD7Mxao7Ydn44wrAjIG8GEW8bd1r+DAO6BpAiCIQqNGfrKtQj3dUv7sE5KJ0m0CkAzbHqmesma3an1kdlfuZKecVbJ8V/OKNMqxU4SV2lU0V/CM/LGTzdOQJRZY9IZp1Fg233xbrp2rg3LCyS6uPus8zfQJwf/SB9oo700RuQ9Fzq8fWKG4MGB8UqyLvtZx8IT5eNxeuA6MB/AWYQlOpNxfl8kbvYoba+HpAdODDSC1VuIOnkEyeWzaKnnXBZSxKqBUra3Gbb3BqZtCqI1O0GU51UEckXADqqRIaOS6YjO4XP6+7euUPf2kOMu+U+TNnNTgbs9uZHA6hLg=;A7YEAxw/TEvSIAwlHrkG7A=="
+secured: "A2+KoTxdAZ2+mtN/3yRhAEtn2UaqRmatejchDAxxke8tJz/DSfUUm9QFLjWCFF/xHsly13OXiuqJORpGN0PVeVKSWjIDRotxu2sZ+SVowdl9K8k9Y58Pqe3X9itxjtzizTlGtHcJ4QP+UBeK968l05qa3oU/lZlkxtaA5tfCuNVU1eGzs5H52WWLLCcXJnrEHnT6WOMhw+BCS8smzXhEl1RK/km8Jg1EF8bUcKEzR1D17zJCxGRWhi4r6LP/uB0M/t6ofWLYe0Ny+0CruDCpGX073Pos65kArAQx5wLgdLlSvq1vOTihd5QLbttyilXSFas1+v6YlYjGmESyv92Soxis+HUqaY5pDODxBbB5a64=;eCahIGG0zCTaD4rfFAsdmQ=="
 ---
 

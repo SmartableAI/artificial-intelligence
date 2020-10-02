@@ -7,7 +7,7 @@ originalUrl: "https://news.mit.edu/2020/anticipating-heart-failure-machine-learn
 webUrl: "https://news.mit.edu/2020/anticipating-heart-failure-machine-learning-1001"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:

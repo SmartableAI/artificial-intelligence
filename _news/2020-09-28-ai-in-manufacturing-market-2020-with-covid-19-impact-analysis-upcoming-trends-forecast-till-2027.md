@@ -55,6 +55,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 63
+  - title: "Researchers use artificial intelligence to detect COVID-19 in hospital patients"
+    excerpt: "Researchers at the University of Minnesota and M Health Fairview are developing a new technology that uses artificial intelligence to help doctors detect COVID-19 in hospital patients."
+    publishedDateTime: 2020-10-02T01:26:00Z
+    webUrl: "https://www.fox9.com/news/researchers-use-artificial-intelligence-to-detect-covid-19-in-hospital-patients"
+    ampWebUrl: "https://www.fox9.com/news/researchers-use-artificial-intelligence-to-detect-covid-19-in-hospital-patients.amp"
+    cdnAmpWebUrl: "https://www-fox9-com.cdn.ampproject.org/c/s/www.fox9.com/news/researchers-use-artificial-intelligence-to-detect-covid-19-in-hospital-patients.amp"
+    type: article
+    provider:
+      name: Fox 9
+      domain: fox9.com
+    quality: 55
+    images:
+      - url: "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2020/10/932/470/chest-xray-ai-covid-detection.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
   - title: "Innovation with Artificial Intelligence"
     excerpt: "The maritime sector keeps talking enthusiastically about Artificial Intelligence (AI). But what is it really? What is the role of technology in the"
     publishedDateTime: 2020-09-29T13:13:00Z
