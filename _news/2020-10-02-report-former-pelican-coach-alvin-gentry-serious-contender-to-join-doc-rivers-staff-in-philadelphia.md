@@ -8,6 +8,7 @@ webUrl: "https://inside-com.breezy.hr/"
 type: article
 quality: 106
 heat: 106
+published: true
 
 provider:
   name: USA Today

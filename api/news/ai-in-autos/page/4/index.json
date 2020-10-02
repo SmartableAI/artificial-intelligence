@@ -2,6 +2,39 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-02-unsupervised-learning-an-overview-on-emerging-machine-learningartificial-intelligence-approaches.md",
+      "title": "Unsupervised Learning: An Overview on Emerging Machine Learning/Artificial Intelligence Approaches",
+      "excerpt": "3.1 Unsupervised Learning Will Empower a Higher Level of Autonomy Among Self ... Self-driving Cars Is Facilitating the Adoption of Unsupervised Learning Techniques 4.2 The Accuracy of Artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/09/g17345739/unsupervised-learning-an-overview-on-emerging-machine-learningartificial-intelligence-approaches",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/09/g17345739/unsupervised-learning-an-overview-on-emerging-machine-learningartificial-intelligence-approaches",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17345739",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17345739",
+      "publishedDateTime": "2020-09-02T02:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-02-nvidia-plans-to-be-a-force-behind-level-5-autonomous-vehicles.md",
       "title": "Nvidia Plans to Be a Force Behind Level 5 Autonomous Vehicles",
       "excerpt": "The company calls Pegasus, “The world's first artificial intelligence computer designed to drive fully ... essentially functioning as a mobile office or living room.\" Driverless cars will enable new ride- and car-sharing services,” Huang said.",
@@ -1327,57 +1360,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-baidu-launches-its-new-urban-robotaxi-service.md",
-      "title": "Baidu Launches Its New Urban Robotaxi Service",
-      "excerpt": "Baidu (NASDAQ:BIDU) announced on Friday that it has launched a branch of its robotaxi service Apollo Go in that city, the first time it is operational in a downtown urban environment. Apollo Go is hooked into the company's wider digital ecosystem.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/08/21/baidu-launches-its-first-urban-robotaxi-service/",
-      "originalUrl": "https://www.fool.com/investing/2020/08/21/baidu-launches-its-first-urban-robotaxi-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F588944%2Fa-baidu-self-driving-car.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/08/21/baidu-launches-its-first-urban-robotaxi-service/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/08/21/baidu-launches-its-first-urban-robotaxi-service/",
-      "publishedDateTime": "2020-08-21T16:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

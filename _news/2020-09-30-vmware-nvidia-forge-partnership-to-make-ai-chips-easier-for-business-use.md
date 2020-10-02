@@ -177,6 +177,20 @@ related:
         width: 2000
         height: 1115
         isCached: true
+  - title: "Arize AI Joins NVIDIA Inception Program"
+    excerpt: "Arize AI, today announced it has joined the NVIDIA Inception program, which is designed to nurture startups revolutionizing industries"
+    publishedDateTime: 2020-10-02T15:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/arize-ai-joins-nvidia-inception-program-301144741.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/1276605/Arize_AI_Logo.jpg?p=facebook"
+        width: 2696
+        height: 1414
+        isCached: true
   - title: "VMware announces Nvidia AI tie-up, Carbon Black-based security solutions"
     excerpt: "VMware (VMW +1.0%) has a slate of announcements coming out of today's VMworld event.VMW is partnering with Nvidia (NASDAQ:NVDA) to make its data center management software work better with AI chips."
     publishedDateTime: 2020-09-29T14:23:00Z

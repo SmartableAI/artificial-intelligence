@@ -154,6 +154,20 @@ related:
         width: 400
         height: 210
         isCached: true
+  - title: "COVID-19 and Mining Social Media - Enabling Machine Learning Workloads with Big Data"
+    excerpt: "In this article, author Adi Pollock discusses how to enable machine learning workloads with big data to query and analyze COVID-19 tweets to understand social sentiment towards COVID-19. The book Office Optional by Larry English describes how employees ..."
+    publishedDateTime: 2020-10-02T12:29:00Z
+    webUrl: "https://www.infoq.com/articles/covid-social-media-machine-learning/?topicPageSponsorship=9ee9cabb-978d-4b65-9c62-dba6f9b389b3&itm_source=articles_about_architecture-design&itm_medium=link&itm_campaign=architecture-design"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 32
+    images:
+      - url: "https://res.infoq.com/articles/covid-social-media-machine-learning/en/headerimage/croppted-eIq7PfpU-1601562447743.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Personalized Learning and Tech Equity Under COVID-19"
     excerpt: "For older students, COVID-19 opens the doors for deep learning that involves solving a complex problem that might encompass economic, health, and social justice challenges. This discussion will address the steps schools need to take to encourage and ..."
     publishedDateTime: 2020-09-30T18:45:00Z

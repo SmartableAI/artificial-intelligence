@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20201001030053/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20201001030053/"
 type: article
 quality: 44
-heat: 64
+heat: 44
 published: false
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/Mary-Edwards-Upgrade-2020.jpg"
         width: 1666
         height: 937
-        isCached: true
-  - title: "Fintech Machine Learning Leader Attunely Secures $9M in Funding"
-    excerpt: "Attunely Inc., a pioneer in deploying machine learning to maximize revenue recovery and enhance the consumer experience, today announced $9 million in financing. The new capital includes an earlier seed round as well as a Series A investment."
-    publishedDateTime: 2020-09-27T21:49:00Z
-    webUrl: "https://www.oaoa.com/news/business/fintech-machine-learning-leader-attunely-secures-9m-in-funding/article_36df6d26-3a5d-572a-aa29-444ecaea5cd2.html"
-    type: article
-    provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 39
-    images:
-      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
-        width: 576
-        height: 288
         isCached: true
 
 secured: "CHjTJNhQqdkt1xQXF3b3bCeWBjlUAyR+skBf3PSnb8F0KshdSRLNuSZftFi8yIoqsgiH3jX45A1tSWG3SwdZXDSiyFCo/H7q0lqgN0oLJH7U7z/gNZU9M3LYbzvBg96S6VNNLNu5pGjdyorCK6e1+qPPZX9x6UCPG+m6lQPF9Zm/XDRmfXVRGFe2A2I2uFxcrdyAZQoHRpaE1Hz2ofvTKfpI0xszrnhmfomhPBsb2QnxPOAdUsox7aml3tLZXJAsUF+sYVQyOccHvL08jnnravHqGAvJpbot3Ww6EAbynsmJjsSEvrpU0l17WKwJQfEdSP2pcFiR13WMz/SEd5ynb4EqaWcGi+k0BAHrqqukkm8h+FZHghH/c04Sq/Ou0XM3XkfVgFuOQSd15rO9wbGW+2Cj6QmGHP8AXtZtQF49ufbpvu6L067UPtqCDdMwQdVN419DiKG4OulAieiN4yG806kP+BA5JkMF3nJLKTaDXtnWUrvFARRlR2UffoJn+IcIBg8ZDZIrgE0ybN5ZnCUc2Q==;49kiZKTynDguBgS8Lhu2iA=="

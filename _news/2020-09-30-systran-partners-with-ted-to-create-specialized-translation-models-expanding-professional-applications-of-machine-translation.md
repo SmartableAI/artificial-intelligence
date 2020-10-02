@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "HCL and IBM announce new collaboration to help organizations with digital transformation"
-    excerpt: "The IBM Ecosystem Unit of HCL will help clients even in regulated industries leverage IBM Cloud capabilities to transform mission-critical workloads"
-    publishedDateTime: 2020-10-01T12:29:00Z
-    webUrl: "https://www.dqindia.com/hcl-ibm-announce-new-collaboration-help-organizations-digital-transformation/"
-    ampWebUrl: "https://www.dqindia.com/hcl-ibm-announce-new-collaboration-help-organizations-digital-transformation/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/hcl-ibm-announce-new-collaboration-help-organizations-digital-transformation/amp/"
+  - title: "Accelerate your Machine Learning applications with zero code changes"
+    excerpt: "PRNewswire/ -- InAccel, a pioneer on FPGA-based acceleration, has released an accelerated machine learning platform that allows instant acceleration of"
+    publishedDateTime: 2020-10-02T13:23:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/accelerate-your-machine-learning-applications-with-zero-code-changes-301144841.html"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 35
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
     images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2019/09/hands-1063442_960_720.jpg"
-        width: 603
-        height: 400
+      - url: "https://mma.prnewswire.com/media/1294793/InAccel_Logo.jpg?p=facebook"
+        width: 1531
+        height: 802
         isCached: true
 
 secured: "5gDlgHI8gZbmn4gD9DqR15PSRmb9huDK8QjBMK/ioBYNdEA5rxuVpwCSYWSWE/ZJU5ZWZebCWFbrOrIgeiDNAqlHenNYrq0Q2Ycr/uof1ye0mFdle6c8SMGA5RXq4Sx3j5u3vM6xQjQJfyX+tE+IQ5zDWuljn6mUGsiOegZu4ZpxwZcEC+RKsx70Cy/hi1qWNFGscyz70xgZHTBbG7MII/dYSuPgEx8LxKvf4MfhLDnF8fKbxRJGw03AP8OdKcSeUFIR5hDTZsRP3S082m9A/kxwUGPAtmtz+1UHyymeRYHqZib3y4EvGl3uxn+T+ueBhf06UNfw6XKSt6loqURUtp+jMn5d7puzGMWIKMHPTh0=;rWlRVLZMGrPs3Mh0jQ1wag=="

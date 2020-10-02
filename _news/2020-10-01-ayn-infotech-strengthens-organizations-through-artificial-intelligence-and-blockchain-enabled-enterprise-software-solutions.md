@@ -25,19 +25,30 @@ images:
     isCached: true
 
 related:
-  - title: "AI-ready nations in danger of entrenching inequality"
-    excerpt: "A report from Oxford Insights and the International Development Research Centre (IDRC) has assessed countries on the basis of their AI readiness and responsibility and found that some are at risk of furthering inequality and marginalisation."
-    publishedDateTime: 2020-09-28T16:22:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2020/09/ai-ready-nations-in-danger-of-entrenching-inequality/"
+  - title: "The future of Digital, 4IR, AI, Blockchain, Smart..."
+    excerpt: "PRWeb/ -- Digital Week Online offers a global cutting edge Digital 360 program that highlights the latest trends"
+    publishedDateTime: 2020-10-02T03:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/10/n17749409/the-future-of-digital-4ir-ai-blockchain-smart-cities-digital-week-online-most-ambitious-program-ev"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17749409"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17749409"
     type: article
     provider:
-      name: IET
-      domain: theiet.org
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 39
+  - title: "Blockchain Startup Fluree Completes Seed Funding Round"
+    excerpt: "Startup Fluree, developer of a blockchain-secured “Web 3.0” data management platform, has secured additional financing that wraps up the company’s $6.5 million seed financing round. Fluree, based in Winston-Salem,"
+    publishedDateTime: 2020-09-29T23:31:00Z
+    webUrl: "https://www.crn.com/news/applications-os/blockchain-startup-fluree-completes-seed-funding-round"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
     images:
-      - url: "https://eandt.theiet.org/media/4823/artificial-neural-network.jpg?crop=0,0.27099166666666663,0,0.23728958333333339&cropmode=percentage&width=1200&height=450&rnd=131534060080000000"
-        width: 1200
-        height: 450
+      - url: "https://www.crn.com/resources/025f-0fe59f166b14-9bacc3ac8eba-1000/1008861200.jpg"
+        width: 611
+        height: 429
         isCached: true
 
 secured: "BNQkxhuRL3fWnG3YL27eh9Ue2/pilXaKzB/F0Jwz+tc6NgybcMM1vfqN2tmRSEcWHEvB03zeOKerueDfWNnpy61kZVh8L3neEUWugTVKi58bhli6aBorPdQCwHMkdh/nP6rhJNZmNPcWX3JQsxVicxSVYSTUO7k0eAHSbPt/du5l04RCobm1kmNJy91gPFFDzZuqIcsLt1luZMQCxB5BCzn/ABuuQYwIsKbHAQbsAFvCvscILafO3dDi+M4WKjPgGYGowRNT2JPUtp7HiYlriDk96n695kv6vLQPHaq6lotdZI2lmsNDStJxDolHthWu95BnnjXE45dcQ83oUbMah8TN7qZXlR2FqYxjgFbFKWA=;PgZV4M2J2/zE6SGW37APLw=="

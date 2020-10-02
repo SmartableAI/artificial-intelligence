@@ -2,6 +2,99 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-08-25-a-robot-tried-to-fix-value-investing-and-ended-up-buying-amazon.md",
+      "title": "A Robot Tried to Fix Value Investing and Ended Up Buying Amazon",
+      "excerpt": "Artificial intelligence has been touted as a solution for everything from ending lines at the checkout to rooting out systematic bias in Wall Street hiring. It was almost inevitable that someone would suggest using it to fix value investing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-08-25/a-robot-tried-to-fix-value-investing-and-ended-up-buying-amazon",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-08-25/a-robot-tried-to-fix-value-investing-and-ended-up-buying-amazon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGRK1N7WsVRU/v2/pidjEfPlU1QWZop3vfGKsrX.ke8XuWirGYh1PKgEw44kE/360x-1.png",
+          "width": 360,
+          "height": 202,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-08-25/a-robot-tried-to-fix-value-investing-and-ended-up-buying-amazon",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-25/a-robot-tried-to-fix-value-investing-and-ended-up-buying-amazon",
+      "publishedDateTime": "2020-08-25T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-25-roombas-robot-vacuums-getting-artificial-intelligence-software-upgrade.md",
+      "title": "Roombas robot vacuums getting artificial intelligence software upgrade",
+      "excerpt": "Robot announced the largest software upgrade for its robot vacuum cleaner, Roomba, in the company’s 30-year history.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wkbn.com/news/national-world/roombas-robot-vacuums-getting-artificial-intelligence-software-upgrade/",
+      "originalUrl": "https://www.wkbn.com/news/national-world/roombas-robot-vacuums-getting-artificial-intelligence-software-upgrade/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wkbn.com/wp-content/uploads/sites/48/2020/08/roomba.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wkbn.com/news/national-world/roombas-robot-vacuums-getting-artificial-intelligence-software-upgrade/amp/",
+      "cdnAmpWebUrl": "https://www-wkbn-com.cdn.ampproject.org/c/s/www.wkbn.com/news/national-world/roombas-robot-vacuums-getting-artificial-intelligence-software-upgrade/amp/",
+      "publishedDateTime": "2020-08-25T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WKBN",
+        "domain": "wkbn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-25-short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-increases-by-294.md",
       "title": "Short Interest in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Increases By 29.4%",
       "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) saw a large increase in short interest during the month of July. As of July 31st, there was short interest totalling 4,400 shares,",

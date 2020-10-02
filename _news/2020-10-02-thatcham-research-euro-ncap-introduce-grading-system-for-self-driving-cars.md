@@ -8,6 +8,7 @@ webUrl: "https://www.aftermarketnews.com/thatcham-research-euro-ncap-introduce-g
 type: article
 quality: 22
 heat: 22
+published: false
 
 provider:
   name: After Market News
@@ -23,6 +24,6 @@ images:
     height: 300
     isCached: true
 
-secured: "pGuBDvVzJBGMJXbyJtiQah8JDFhH2XUI7o3J0869FJg4GGeKkfWlhWY5kupzy/v0Lms6DJ69DO2VlOEhGO+vAWaiTqQpta54iiOsDV8FPkshbnEmNsXvHQzZ4goE1+2r04M6yEAlJS3RMw9ekRSsAvrETQ2mQPHwHjkTqHyfTbuRrM4qQpe5ZPKegB1etihKxtvWlKFvSKBKIU8R71H//ta8MlnUfZjYZImO78/CrlDXlnvax7sGBAyOAxsH/w3Sp+gvq5wgNnKpGzGlMqF8jt6bKLKMAddgk8C3XxmLL7qRquMZzK97RGEbE6pDVY8TAvpVe0UaNmUMt1Cytauffz+VgD3JaGeZ0OYIb6R1LF8=;UvfBZDNy+h6WoHD+eMqk8A=="
+secured: "oMFqnkoPBf0ptOVy7uKYG0U09xnrxXttJroLUKAqFYOkSXK8xoddmiMIJ9H8g0fZd5aYZmUsnwK7Av+J1ObVGGEahgKGf6fsPhxDrbLgv4CHahv06ZDjoewITz1WOmLpyLXsa1jVlyHDIIIhnPFt23a0FjF8QqvYRJ9My90YGkdL6z3SU4fcR+dV+XqI9IQx04ftSh6EZB/grFkW01rz45u+TEnFKkidlEUdic74B0CsyhVX2K9weyvSIHPS4FPvmAhWmOgCUtozZg7DutoDybnllQYr6pjmgfSreB5UYz+5b3oG3TZb6+lMSDcRi/HYhILjdqikvya14+8+ADibiGly+ncHJbZfHsv4pv15U7JyKREbapcpLkuqxEMvWwye+4BvJ6rOkt6F5/3J2rxw69QD1j7f/XuV1VbS3isYP3tp5WkHxoUXjjNLtEDNXDb0kI/SgytisW06+KpMffzfEw4MxKYYna+Wb9sZkFC+GK7nidOYTMXVtBlDk5xQEb377t1T+sM/mdmkGdu2UdLdkQ==;PpZoyJ0FIYdGN7lp55gmIw=="
 ---
 

@@ -1259,6 +1259,40 @@
       ]
     },
     {
+      "path": "_news/2020-09-18-immervision-introduces-joyce-the-first-humanoid-robot-with-intelligent-vision-developed-by-the-computer-vision-community.md",
+      "title": "Immervision Introduces JOYCE, the First Humanoid Robot with Intelligent Vision Developed by the Computer Vision Community",
+      "excerpt": "Immervision, the Montreal-based leader in wide-angle intelligent vision, introduces JOYCE, the first humanoid robot developed by the computer vision community to help machines gain human-like ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswireindia.com/immervision-introduces-joyce-the-first-humanoid-robot-with-intelligent-vision-developed-by-the-computer-vision-community-69569.html",
+      "originalUrl": "https://www.businesswireindia.com/immervision-introduces-joyce-the-first-humanoid-robot-with-intelligent-vision-developed-by-the-computer-vision-community-69569.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-18T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswireindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-in-a-facial-recognition-bill-backed-by-microsoft-three-words-stand-between-citizens-and-their-civil-rights.md",
       "title": "In a facial recognition bill backed by Microsoft, three words stand between citizens and their civil rights",
       "excerpt": "In Washington, the first US state to pass a law regulating facial recognition, it’s legal for government agencies to use facial recognition to deny citizens access to basic rights and services ...",
@@ -1383,57 +1417,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-aidoc-raises-20-million-more-for-its-computer-vision-medical-tools.md",
-      "title": "Aidoc raises $20 million more for its computer vision medical tools",
-      "excerpt": "Aidoc, which bills itself as an AI solutions provider for radiologists, today closed a $20 million extension to the series B it raised in April 2019.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/16/aidoc-raises-20-million-more-for-its-computer-vision-medical-tools/",
-      "originalUrl": "https://venturebeat.com/2020/09/16/aidoc-raises-20-million-more-for-its-computer-vision-medical-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/Aidoc-Covid-e1599583845771.jpeg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/16/aidoc-raises-20-million-more-for-its-computer-vision-medical-tools/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/16/aidoc-raises-20-million-more-for-its-computer-vision-medical-tools/amp/",
-      "publishedDateTime": "2020-09-16T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -10,6 +10,7 @@ cdnAmpWebUrl: "https://www-espn-com.cdn.ampproject.org/c/s/www.espn.com/fantasy/
 type: article
 quality: 44
 heat: 44
+published: false
 
 provider:
   name: ESPN
@@ -25,6 +26,6 @@ images:
     height: 729
     isCached: true
 
-secured: "jauT1x4j2Jc3wJBQwSDkGTk9ZxO8dmHV4L+LkO8D6r64HviWyBA9c9EV42tUA/Yitt0NoeLjw17m/u0orODcLahS7+c8dx5DJcDR3xwV7KckQmuKKZrIqJcNCymi4NXPnhpALw14N2if94uuRt4s/bOjvMbeXdJwOUMPcYnbdEgCuUTNM6vKkJmf70kfCIn+h6dSMiW2BfmD5kOxtNS2xaQqVXpI69HqfM8IOy1Kc7aZ6ViVIHQiz5iOVKekaXSNpoxL+kRemJ8zW2buf0W7xQz/G6ld26SXlGX+5i1LMmgjFUFQiUpAbI3gEF28jilKJMXIlAxAu91okGmYBT3ztzvLzOkbc0rIdk29R1LWyBw=;dsSYPosutiyCd0PTfYXGBg=="
+secured: "metbiMGP2U4Nh21qgntqw/MUnV3knwpH6CZzdHJB9ZEfFqMYW54SGDubVsduCHPPvBC1zMfVZ8nl/8QdNJTJTovK/sVE4cCqXAlCEOtARlSKmrGNH7qWS9zPzbEGqV3LQZ8QPUjhCwkI2o3M+49NvYvOBaIQC5wjAePA+gAcDbi6UxOu2pj9FwpBsnFmIg1S1kmwvgXfkly6QAv7lT1LtSVjFqc0CLgqMGwx6+Bwvz5f1SrYZH4cuhBPmmPIgZtB35IU7LFqfvhpeX4cIhQmU0tcG6jgmxjGCxglBoZW4yaDKyJOBmCWoYPkf9uRBg2ytqIAwuP2YiKq6SAlkj7XR8J+Y56dvHB5bbdjyzJCCc4sttbYW/N3+BOGlX85+PO3CEymDZQsKjxjz7g1Hq6fPiVho4D1HUXtJiodKN3hMJ0uNf8Zl9uZoOkToFHprwnPq08PKZRxfBSI9PKxUmCtJp4Q7tEKYWVio+bIe1LyEZaEySETJgw/t+ORSElM6hp3lwNZfeI3XbWxyp8gBrBO5Q==;5mIZ5qX1K9Dy40Jzeo+Tuw=="
 ---
 

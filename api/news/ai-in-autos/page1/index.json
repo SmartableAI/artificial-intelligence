@@ -157,6 +157,48 @@
       ]
     },
     {
+      "path": "_news/2020-09-30-worldwide-self-driving-taxi-industry-to-2024-key-leading-countries.md",
+      "title": "Worldwide Self-driving Taxi Industry to 2024 - Key Leading Countries",
+      "excerpt": "PRNewswire/ -- The 'Global Self-driving Taxi Market 2020-2024' report has been added to ResearchAndMarkets.com's",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/worldwide-self-driving-taxi-industry-to-2024-key-leading-countries-1029636271",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/worldwide-self-driving-taxi-industry-to-2024-key-leading-countries-1029636271",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/worldwide-self-driving-taxi-industry-to-2024-key-leading-countries-1029636271",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/worldwide-self-driving-taxi-industry-to-2024-key-leading-countries-1029636271",
+      "publishedDateTime": "2020-09-30T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-congress-will-try-again-in-2021-on-self-driving-car-reform.md",
       "title": "Congress will try again in 2021 on self-driving car reform",
       "excerpt": "The U.S. Congress will try again in 2021 to try to approve long-stalled reforms to speed the adoption of self-driving cars, a key Democratic lawmaker said Wednesday.",
@@ -777,27 +819,36 @@
     },
     {
       "path": "_news/2020-09-23-israels-mobileye-dubais-habtoor-partner-on-self-driving-cars.md",
-      "title": "Israel's Mobileye, Dubai's Habtoor Partner on Self-Driving Cars",
-      "excerpt": "Israel's Mobileye and United Arab Emirate's Al Habtoor Group launched a partnership on Wednesday to create a fleet of self-driving \"robotaxis\" that could take to the streets of Dubai by the end of 2022.",
+      "title": "Israel's Mobileye, Dubai's Habtoor partner on self-driving cars",
+      "excerpt": "JERUSALEM/DUBAI (Reuters) - Israel’s Mobileye and United Arab Emirate’s Al Habtoor Group launched a partnership on Wednesday to create a fleet of self-driving “robotaxis” that could take ...",
       "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars",
+      "webUrl": "https://uk.reuters.com/article/israel-gulf-intel-habtoor/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars-idUKL5N2GK1RU",
+      "originalUrl": "https://uk.reuters.com/article/israel-gulf-intel-habtoor/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars-idUKL5N2GK1RU",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200923&t=2&i=1534603400&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8M19L",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars?context=amp",
-      "publishedDateTime": "2020-09-23T05:25:00-07:00",
+      "ampWebUrl": "https://uk.mobile.reuters.com/article/amp/idUKKCN26E207",
+      "cdnAmpWebUrl": "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKCN26E207",
+      "publishedDateTime": "2020-09-23T05:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1336,57 +1387,6 @@
         "name": "BBC",
         "domain": "bbc.co.uk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-ubers-self-driving-car-safety-driver-charged-in-fatal-2018-crash.md",
-      "title": "Uber's self-driving car 'safety driver' charged in fatal 2018 crash",
-      "excerpt": "The driver who was behind the wheel of the autonomous vehicle is arraigned on one count of negligent homicide.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/ubers-self-driving-car-safety-driver-charged-in-fatal-2018-crash/",
-      "originalUrl": "https://www.cnet.com/news/ubers-self-driving-car-safety-driver-charged-in-fatal-2018-crash/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 234,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/4RWp-CT8SdPs7I1-asH1y47N9IY=/1200x630/2018/12/19/ff7286c9-b975-4789-97fb-fd86b387cee6/aaa4508-pit.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ubers-self-driving-car-safety-driver-charged-in-fatal-2018-crash/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ubers-self-driving-car-safety-driver-charged-in-fatal-2018-crash/",
-      "publishedDateTime": "2020-09-16T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

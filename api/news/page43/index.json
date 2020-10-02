@@ -2,6 +2,611 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-08-31-50-exoplanets-discovered-in-deep-space-by-advanced-artificial-intelligence.md",
+      "title": "50 exoplanets discovered in deep space by advanced artificial intelligence",
+      "excerpt": "More than 4,000 exoplanets have been discovered so far by astronomers. Now, artificial intelligence has discovered an additional 50, thanks to old data from NASA.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/science/50-exoplanets-discovered-advanced-artificial-intelligence",
+      "originalUrl": "https://www.foxnews.com/science/50-exoplanets-discovered-advanced-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2019/12/exoplanet-water-common.jpg",
+          "width": 1056,
+          "height": 515,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/science/50-exoplanets-discovered-advanced-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/50-exoplanets-discovered-advanced-artificial-intelligence.amp",
+      "publishedDateTime": "2020-08-31T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-31-israeli-ai-chip-developer-hailo-opens-doors-on-japanese-expansion.md",
+      "title": "Israeli AI chip developer Hailo opens doors on Japanese expansion",
+      "excerpt": "Israeli microprocessor developer Hailo sees a path to support and dominate growing Asian AI chip market by establishing new Japanese",
+      "sourceUrl": null,
+      "webUrl": "https://www.geektime.com/hailo-announces-japanese-expansion/",
+      "originalUrl": "https://www.geektime.com/hailo-announces-japanese-expansion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geektime.com/content/images/2020/08/Hailo-8-AI-processor.jpg",
+          "width": 1600,
+          "height": 1598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geektime.com/hailo-announces-japanese-expansion/amp/",
+      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/hailo-announces-japanese-expansion/amp/",
+      "publishedDateTime": "2020-08-31T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geektime",
+        "domain": "geektime.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-31-3-top-artificial-intelligence-stocks-to-buy-in-september.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy in September",
+      "excerpt": "Many people have probably heard of artificial intelligence but may be unsure ... as quantum computing and self-driving cars with its Waymo subsidiary. Despite its formidable search business ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/08/31/3-top-artificial-intelligence-stocks-to-buy-in-sep/",
+      "originalUrl": "https://www.fool.com/investing/2020/08/31/3-top-artificial-intelligence-stocks-to-buy-in-sep/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.ycharts.com/charts/3377434643bd31fc8332c880784b1b2b.png",
+          "width": 720,
+          "height": 503,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/08/31/3-top-artificial-intelligence-stocks-to-buy-in-sep/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/08/31/3-top-artificial-intelligence-stocks-to-buy-in-sep/",
+      "publishedDateTime": "2020-08-31T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-31-medical-robots-market-2020-global-size-share-regional-trends-and-2026-forecast.md",
+      "title": "Medical Robots Market | 2020 Global Size, Share, Regional trends and 2026 Forecast",
+      "excerpt": "The Global Medical Robots Market is likely to expand in the coming years due to advancements made in embedded systems. According to a report by Fortune Business Insights, titled “Medical Robots Market Size”,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/medical-robots-market-2020-global-size-share-regional-trends-and-2026-forecast-2020-08-26?tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/medical-robots-market-2020-global-size-share-regional-trends-and-2026-forecast-2020-08-26?tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-31T04:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-31-china-is-gunning-to-be-the-world-leader-in-ai-chips-while-restricting-exports.md",
+      "title": "China Is Gunning To Be The World Leader In AI Chips While Restricting Exports",
+      "excerpt": "China has passed the US in AI chip patenting and their brightest star, Cambricon has more than four times as many patents as Nvidia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anthonytrippe/2020/08/31/china-is-gunning-to-be-the-world-leader-in-ai-chips-while-restricting-exports/",
+      "originalUrl": "https://www.forbes.com/sites/anthonytrippe/2020/08/31/china-is-gunning-to-be-the-world-leader-in-ai-chips-while-restricting-exports/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f492ba1b592c05b5258e438%2F0x0.jpg",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anthonytrippe/2020/08/31/china-is-gunning-to-be-the-world-leader-in-ai-chips-while-restricting-exports/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonytrippe/2020/08/31/china-is-gunning-to-be-the-world-leader-in-ai-chips-while-restricting-exports/amp/",
+      "publishedDateTime": "2020-08-31T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-31-israeli-chip-maker-hailo-to-set-up-tokyo-unit-as-demand-for-ai-tech-grows.md",
+      "title": "Israeli chip maker Hailo to set up Tokyo unit as demand for AI tech grows",
+      "excerpt": "Hailo, a maker of chips that allows edge devices like smart cameras or smart cars to have artificial intelligence capabilities, said it is setting up a wholly owned subsidiary in Tokyo, Japan. Edge devices are electronic devices that are installed at the edge of networks — the entry point to networks — in products such as autonomous vehicles,",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/israeli-chip-maker-hailo-to-set-up-tokyo-unit-as-demand-for-ai-tech-grows/",
+      "originalUrl": "https://www.timesofisrael.com/israeli-chip-maker-hailo-to-set-up-tokyo-unit-as-demand-for-ai-tech-grows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2020/08/Hailo-8-AI-processor-e1598859102334-640x400.jpg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/israeli-chip-maker-hailo-to-set-up-tokyo-unit-as-demand-for-ai-tech-grows/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/israeli-chip-maker-hailo-to-set-up-tokyo-unit-as-demand-for-ai-tech-grows/amp/",
+      "publishedDateTime": "2020-08-31T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-31-ai-cloud-aim-to-enhance-the-us-open-fan-experience.md",
+      "title": "AI, Cloud Aim to Enhance the U.S. Open Fan Experience",
+      "excerpt": "The U.S. Tennis Association is turning to cloud computing and artificial intelligence to enhance the experiences of fans who this year can only watch the U.S. Open on televisions, computers and smartphones.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-cloud-aim-to-enhance-the-u-s-open-fan-experience-11598866201",
+      "originalUrl": "https://www.wsj.com/articles/ai-cloud-aim-to-enhance-the-u-s-open-fan-experience-11598866201",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-226475/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-cloud-aim-to-enhance-the-u-s-open-fan-experience-11598866201",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-cloud-aim-to-enhance-the-u-s-open-fan-experience-11598866201",
+      "publishedDateTime": "2020-08-31T02:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-31-artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains.md",
+      "title": "Artificial intelligence: Elon Musk puts computer chips in animal brains",
+      "excerpt": "Elon Musk, the founder of the American company Tesla and SpaceX, demonstrated how to connect a computer chip made by his new company ‘Neuralink’ to the animal brain. Elon Musk’s company, Neuralink, has developed a chip in just four years,",
+      "sourceUrl": null,
+      "webUrl": "https://dailytimes.com.pk/661146/artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains/",
+      "originalUrl": "https://dailytimes.com.pk/661146/artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dailytimes.com.pk/assets/uploads/2020/08/31/SPACEXCAPSULETESTTHNAK.jpg",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://dailytimes.com.pk/661146/artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains/amp/",
+      "cdnAmpWebUrl": "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/661146/artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains/amp/",
+      "publishedDateTime": "2020-08-31T02:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Times",
+        "domain": "dailytimes.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-31-military-ai-vanquishes-human-fighter-pilot-in-f-16-simulation-how-scared-should-we-be.md",
+      "title": "Military AI vanquishes human fighter pilot in F-16 simulation. How scared should we be?",
+      "excerpt": "Artificial intelligence can master difficult combat skills at warp speed, but the Pentagon’s futurists must remain mindful of its limitations and risks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/think/opinion/military-ai-vanquishes-human-fighter-pilot-f-16-simulation-how-ncna1238773",
+      "originalUrl": "https://www.nbcnews.com/think/opinion/military-ai-vanquishes-human-fighter-pilot-f-16-simulation-how-ncna1238773",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_35/3408488/200828-loyal-wingman-drone-ac-429p_bbc39303ab1ab71d2c4297a95f68d541.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1238773",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1238773",
+      "publishedDateTime": "2020-08-31T01:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-31-nvidias-top-gpu-has-a-formidable-new-ai-rival-and-its-not-who-you-think-it-is.md",
+      "title": "Nvidia's top GPU has a formidable new AI rival and it's not who you think it is",
+      "excerpt": "Tachyum, the company that plans to kill the CPU and GPU with its universal Prodigy processor, this week shared additional details regarding its upcoming chip.   As it turns out, the new processor will support industry-standard open-source development frameworks for AI applications,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/sg/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
+      "originalUrl": "https://www.techradar.com/sg/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/YCeRLZApvjKfDm8VpVZCkC-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/sg/amp/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
+      "publishedDateTime": "2020-08-30T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-31-robot-takes-contact-free-measurements-of-patients-vital-signs.md",
+      "title": "Robot takes contact-free measurements of patients’ vital signs",
+      "excerpt": "Dog-like robots can remotely measure patients’ vital signs and could be used to reduce health care workers’ risk of Covid-19 exposure. The “Dr. Spot” robots, developed by researchers at MIT and Brigham and Women’s Hospital,",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2020/spot-robot-vital-signs-0831",
+      "originalUrl": "https://news.mit.edu/2020/spot-robot-vital-signs-0831",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202008/Robotic-Vital-Signs-01.jpg",
+          "width": 948,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-30T21:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-31-7-machine-learning-challenges-businesses-face-while-implementing.md",
+      "title": "7 Machine Learning Challenges Businesses Face While Implementing",
+      "excerpt": "Studies show that your business can experience 40% productivity improvement by using Artificial Intelligence and Machine Learning. It can help you to reorganize your data in such a way that you ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.business2community.com/business-innovation/7-machine-learning-challenges-businesses-face-while-implementing-02341340",
+      "originalUrl": "https://www.business2community.com/business-innovation/7-machine-learning-challenges-businesses-face-while-implementing-02341340",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.business2community.com/wp-content/uploads/2020/08/machine-learning_challenges-900x600.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.business2community.com/business-innovation/7-machine-learning-challenges-businesses-face-while-implementing-02341340/amp",
+      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/7-machine-learning-challenges-businesses-face-while-implementing-02341340/amp",
+      "publishedDateTime": "2020-08-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business 2 Community",
+        "domain": "business2community.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-31-natural-language-processing-nlp.md",
+      "title": "Natural Language Processing (NLP)",
+      "excerpt": "Natural Language Processing (NLP) is a field of artificial intelligence that enables computers to analyze and understand human language. It was formulated to build software that generates and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.investopedia.com/terms/n/natural-language-processing-nlp.asp",
+      "originalUrl": "https://www.investopedia.com/terms/n/natural-language-processing-nlp.asp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.investopedia.com/thmb/HRAP7gMQGtY7BIZ59JP9jR83wSs=/1500x1000/filters:fill(auto,1)/GettyImages-1160619087-8fcfcf3b100942b7ae939eb8bf85b00c.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investopedia",
+        "domain": "investopedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-31-understanding-the-technology-behind-traffic-sign-recognition-tsr-systems.md",
       "title": "Understanding the Technology behind Traffic Sign Recognition (TSR) Systems",
       "excerpt": "It can be used in manufacturing as a part of quality control, object recognition, a way to navigate a mobile robot, or as a way to detect edges in images. To identify the matching area, we have to compare the template image against the source image by ...",
@@ -570,615 +1175,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-29-artificial-intelligence-is-the-next-top-gun.md",
-      "title": "Artificial Intelligence Is the Next Top Gun",
-      "excerpt": "We were both skeptical that the artificial intelligence program that would be piloting one of the virtual aircraft would be able to outfight the human pilot, call sign “Banger,” from the Air Force's equivalent of the Navy’s legendary TOPGUN fighter-tactics instruction program.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2020-08-29/u-s-and-china-ai-is-the-next-top-gun",
-      "originalUrl": "https://www.bloomberg.com/opinion/articles/2020-08-29/u-s-and-china-ai-is-the-next-top-gun",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRjdmh0OUMWc/v1/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/opinion/articles/2020-08-29/u-s-and-china-ai-is-the-next-top-gun",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/opinion/articles/2020-08-29/u-s-and-china-ai-is-the-next-top-gun",
-      "publishedDateTime": "2020-08-29T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-29-lexinfintech-wins-the-asian-banker-award-for-best-ai-and-innovation-lab-in-china.md",
-      "title": "LexinFintech Wins The Asian Banker Award for Best AI and Innovation Lab in China",
-      "excerpt": "(GLOBE NEWSWIRE) -- LexinFintech Holdings Ltd. (“Lexin”) (NASDAQ: LX), a leading online consumption and consumer finance platform for educated young professionals in China, has been awarded the Best AI and Innovation Lab Award in China by The Asian Banker,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/e56ee21690d6c6819cb428bd14d8c958",
-      "originalUrl": "https://apnews.com/e56ee21690d6c6819cb428bd14d8c958",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-29T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-29-robot-boats-leave-autonomous-cars-in-their-wake.md",
-      "title": "Robot Boats Leave Autonomous Cars in Their Wake",
-      "excerpt": "Driverless ships don’t have to worry about crowded roads. And they don’t need bunks—or toilets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/robot-boats-leave-autonomous-cars-in-their-wake-11598673601",
-      "originalUrl": "https://www.wsj.com/articles/robot-boats-leave-autonomous-cars-in-their-wake-11598673601",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-226255/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/robot-boats-leave-autonomous-cars-in-their-wake-11598673601",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/robot-boats-leave-autonomous-cars-in-their-wake-11598673601",
-      "publishedDateTime": "2020-08-29T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-08-29-elon-musks-neuralink-brain-computer-watch-working-demo-replay.md",
-      "title": "Elon Musk's Neuralink brain-computer: Watch 'working' demo replay",
-      "excerpt": "The brain-computer startup showed off a 'working' device, in pigs, on Friday. You can rewatch the presser here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.youtube.com/watch?v=sr8hzF3j2fo",
-      "originalUrl": "https://www.cnet.com/how-to/elon-musks-neuralink-brain-computer-how-to-watch-working-demo-reveal-live/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 217,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/sr8hzF3j2fo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-28T19:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-29-stocks-start-september-in-high-gear-as-apple-and-tesla-split-and-markets-await-the-august-jobs-report.md",
-      "title": "Stocks start September in high gear as Apple and Tesla split, and markets await the August jobs report",
-      "excerpt": "Stocks could start the historically weak month of September on an upswing, after what is so far the best August for the S&P 500 since 1986.",
-      "sourceUrl": null,
-      "webUrl": "https://jobs.apple.com/en-us/search?search=%23aimlresidency&sort=relevance",
-      "originalUrl": "https://www.cnbc.com/2020/08/28/stocks-start-september-in-high-gear-as-apple-and-tesla-split-and-markets-await-the-august-jobs-report.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-28T18:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-29-facial-recognition-technology-is-biased-with-higher-error-rates-against-people-of-colour.md",
-      "title": "Facial recognition technology is biased with higher error rates against people of colour",
-      "excerpt": "Even though Williams had nothing to do with the incident, facial recognition technology used by Michigan State Police “matched” his face with a grainy image obtained from an in-store surveillance video showing another African American man taking $3,",
-      "sourceUrl": null,
-      "webUrl": "https://scroll.in/article/971374/facial-recognition-technology-is-biased-with-higher-error-rates-against-people-of-colour",
-      "originalUrl": "https://scroll.in/article/971374/facial-recognition-technology-is-biased-with-higher-error-rates-against-people-of-colour",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s01.sgp1.cdn.digitaloceanspaces.com/book/124346-kfgetldkjs-1598371183.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scroll.in/article/971374/facial-recognition-technology-is-biased-with-higher-error-rates-against-people-of-colour",
-      "cdnAmpWebUrl": "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/971374/facial-recognition-technology-is-biased-with-higher-error-rates-against-people-of-colour",
-      "publishedDateTime": "2020-08-28T17:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scroll",
-        "domain": "scroll.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-29-google-granted-patent-for-automatic-object-recognition-in-videos.md",
-      "title": "Google Granted Patent for Automatic Object Recognition in Videos",
-      "excerpt": "Automatic object recognition is kind of a big deal in some circles. Having a computer that’s able to automatically recognize what an object is with any accuracy is a tool that could find many uses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.themarysue.com/google-object-recognition/",
-      "originalUrl": "https://www.themarysue.com/google-object-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.themarysue.com/google-object-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-themarysue-com.cdn.ampproject.org/c/s/www.themarysue.com/google-object-recognition/amp/",
-      "publishedDateTime": "2020-08-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Mary Sue",
-        "domain": "themarysue.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-29-kaldi-speech-recognition-gains-tensorflow-deep-learning-support.md",
-      "title": "Kaldi speech recognition gains TensorFlow deep learning support",
-      "excerpt": "Kaldi, an open-source speech recognition toolkit, has been updated with integration with the open-source TensorFlow deep learning library. Developers Yishay Carmiel and Hainan Xu of Seattle-based ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/deep-learning/kaldi-speech-tensorflow-deep-learning/",
-      "originalUrl": "https://sdtimes.com/deep-learning/kaldi-speech-tensorflow-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2017/08/DSC2820-1.jpg",
-          "width": 1620,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-take-a-closer-look-at-elon-musks-neuralink-surgical-robot.md",
-      "title": "Take a closer look at Elon Musk’s Neuralink surgical robot",
-      "excerpt": "While the science was front-and-center in Elon Musk’s presentation about Neuralink, his human brain computer inference company, the surgical robot the company debuted made a splash of its own. The rounded polycarbonate sci-fi design of the brain surgeon bot looks like something out of the",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/28/take-a-closer-look-at-elon-musks-neuralink-surgical-robot/",
-      "originalUrl": "https://techcrunch.com/2020/08/28/take-a-closer-look-at-elon-musks-neuralink-surgical-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/early-digital-sketches-of-the-robot.jpg?w=600",
-          "width": 600,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/28/take-a-closer-look-at-elon-musks-neuralink-surgical-robot/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/28/take-a-closer-look-at-elon-musks-neuralink-surgical-robot/amp/",
-      "publishedDateTime": "2020-08-28T16:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-29-le-machine-learning-automatise-va-t-il-remplacer-le-data-scientist.md",
-      "title": "Le machine learning automatisé va-t-il remplacer le data scientist",
-      "excerpt": "DataRobot, Google AutoML, H2O.ai... Les solutions d'automated machine learning se multiplient depuis quelques années. Leur ambition ? Automatiser la création de modèles d'apprentissage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.journaldunet.com/solutions/dsi/1493101-le-machine-learning-automatise-va-t-il-remplacer-les-data-scientists/",
-      "originalUrl": "https://www.journaldunet.com/solutions/dsi/1493101-le-machine-learning-automatise-va-t-il-remplacer-les-data-scientists/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-0.journaldunet.com/Cihe4Jc1q_3pnLXW_i67tdAQY7Y=/540x/smart/63c71b725da14af3ab53c43b85a79543/ccmcms-jdn/17238006.jpg",
-          "width": 540,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-28T15:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "journaldunet.com",
-        "domain": "journaldunet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-how-amazons-new-health-tracker-will-use-ai-to-monitor-your-tone-of-voice.md",
-      "title": "How Amazon’s new health tracker will use AI to monitor your tone of voice",
-      "excerpt": "Amazon's Halo will include a feature called Tone that offers users feedback about how happy or tired they sound.",
-      "sourceUrl": null,
-      "webUrl": "https://qz.com/1897411/amazons-new-fitness-tracker-halo-will-monitor-your-tone-of-voice/",
-      "originalUrl": "https://qz.com/1897411/amazons-new-fitness-tracker-halo-will-monitor-your-tone-of-voice/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/08/Halo_App_and_Halo_Band-e1598648831888.jpg?quality=75&strip=all&w=1400",
-          "width": 1400,
-          "height": 788,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://qz.com/1897411/amazons-new-fitness-tracker-halo-will-monitor-your-tone-of-voice/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1897411/amazons-new-fitness-tracker-halo-will-monitor-your-tone-of-voice/amp/",
-      "publishedDateTime": "2020-08-28T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-7-data-science-certifications-to-boost-your-resume-and-salary.md",
-      "title": "7 data science certifications to boost your resume and salary",
-      "excerpt": "IBM, Google, SAS, and Oracle offer online courses and exams to quantify data science skills and expertise with modeling and analysis software.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/7-data-science-certifications-to-boost-your-resume-and-salary/",
-      "originalUrl": "https://www.techrepublic.com/article/7-data-science-certifications-to-boost-your-resume-and-salary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/7-data-science-certifications-to-boost-your-resume-and-salary/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/7-data-science-certifications-to-boost-your-resume-and-salary/",
-      "publishedDateTime": "2020-08-28T13:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-ai-analysis-finds-that-in-app-ad-issues-are-fixed-faster-on-android-than-ios.md",
-      "title": "AI analysis finds that in-app ad issues are fixed faster on Android than iOS",
-      "excerpt": "Researchers found major differences between how in-app ad complaints are addressed on the iOS App Store and Google Play.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/28/ai-analysis-finds-that-in-app-ad-issues-are-fixed-faster-on-android-than-ios/",
-      "originalUrl": "https://venturebeat.com/2020/08/28/ai-analysis-finds-that-in-app-ad-issues-are-fixed-faster-on-android-than-ios/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/fe6abb8c-2585-4d43-965d-980609eb259c-e1598634853169.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/28/ai-analysis-finds-that-in-app-ad-issues-are-fixed-faster-on-android-than-ios/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/28/ai-analysis-finds-that-in-app-ad-issues-are-fixed-faster-on-android-than-ios/amp/",
-      "publishedDateTime": "2020-08-28T13:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

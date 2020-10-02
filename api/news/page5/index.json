@@ -2,6 +2,449 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-29-microsoft-now-supports-12-indian-languages-including-assamese.md",
+      "title": "Microsoft now supports 12 Indian languages including Assamese",
+      "excerpt": "Microsoft Translator, a cloud-based free translation and transcription service from Microsoft, has added support for Assamese, the official language of Assam spoken by more than 14 million people in the Northeast.",
+      "sourceUrl": null,
+      "webUrl": "https://www.compsmag.com/news/technology/microsoft-now-supports-12-indian-languages-including-assamese/",
+      "originalUrl": "https://www.compsmag.com/news/technology/microsoft-now-supports-12-indian-languages-including-assamese/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/09/Microsoft-now-supports-12-Indian-languages-including-Assamese.png",
+          "width": 920,
+          "height": 485,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/technology/microsoft-now-supports-12-indian-languages-including-assamese/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/microsoft-now-supports-12-indian-languages-including-assamese/amp/",
+      "publishedDateTime": "2020-09-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-ai-weiwei-chinese-communism-could-disappear-any-moment.md",
+      "title": "Ai WeiWei: 'Chinese communism could disappear any moment'",
+      "excerpt": "Chinese communism could disappear any moment' Up Next, 'This is the darkest day for Hong Kong' Video, 00:01:17'This is the darkest day for Hong Kong' Behind-the-scenes: Ai Weiwei exhibit. Video, 00:03:45Behind-the-scenes: Ai Weiwei exhibit 'They said they would smash our windows' Video,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-asia-china-54294193",
+      "originalUrl": "https://www.bbc.com/news/world-asia-china-54294193",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/images/ic/400xn/p08skxm2.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-28T16:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-why-do-we-do-what-we-do-manipulating-yourself-to-better-manipulate-others.md",
+      "title": "Why Do We Do What We Do? Manipulating Yourself To Better Manipulate Others",
+      "excerpt": "Have you ever wondered what are the hidden motives behind your actions? Why do we convince ourselves to believe something that is simply not true? Why do we ignore aging and imminent death and focus on the current events?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alexzhavoronkov/2020/09/28/why-do-we-do-what-we-do-manipulating-yourself-to-better-manipulate-others/",
+      "originalUrl": "https://www.forbes.com/sites/alexzhavoronkov/2020/09/28/why-do-we-do-what-we-do-manipulating-yourself-to-better-manipulate-others/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f724f734e817dcca1144241%2F0x0.jpg",
+          "width": 1200,
+          "height": 1798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alexzhavoronkov/2020/09/28/why-do-we-do-what-we-do-manipulating-yourself-to-better-manipulate-others/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexzhavoronkov/2020/09/28/why-do-we-do-what-we-do-manipulating-yourself-to-better-manipulate-others/amp/",
+      "publishedDateTime": "2020-09-28T15:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-aws-inferentia-is-now-available-in-11-aws-regions-with-best-in-class-performance-for-running-object-detection-models-at-scale.md",
+      "title": "AWS Inferentia is now available in 11 AWS Regions, with best-in-class performance for running object detection models at scale",
+      "excerpt": "AWS has expanded the availability of Amazon EC2 Inf1 instances to four new AWS Regions, bringing the total number of supported Regions to 11: US East (N. Virginia, Ohio), US West (Oregon), Asia Pacific (Mumbai, Singapore, Sydney, Tokyo), Europe (Frankfurt, Ireland, Paris), and South America (S&atilde;o",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-inferentia-is-now-available-in-11-aws-regions-with-best-in-class-performance-for-running-object-detection-models-at-scale/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-inferentia-is-now-available-in-11-aws-regions-with-best-in-class-performance-for-running-object-detection-models-at-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-28T13:44:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-windows-10-lists-of-vocal-commands-for-speech-recognition-and-dictation.md",
+      "title": "Windows 10: Lists of vocal commands for speech recognition and dictation",
+      "excerpt": "Windows 10 allows users to talk to their computers, but the list of possible commands is significant. We provide a handy reference to the most common speech recognition commands.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/windows-10-lists-of-vocal-commands-for-speech-recognition-and-dictation/",
+      "originalUrl": "https://www.techrepublic.com/article/windows-10-lists-of-vocal-commands-for-speech-recognition-and-dictation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/09/28/e51a3589-405f-4398-a331-49ddee712d1c/resize/1200x/caf9c5d3c56947cd35663e4d024df7e1/istock-1135346381.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/windows-10-lists-of-vocal-commands-for-speech-recognition-and-dictation/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/windows-10-lists-of-vocal-commands-for-speech-recognition-and-dictation/",
+      "publishedDateTime": "2020-09-28T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-pure-vector-engines-get-gpu-math-help-for-next-earth-simulator.md",
+      "title": "Pure Vector Engines Get GPU Math Help for Next Earth Simulator",
+      "excerpt": "For those who have followed the evolution of supercomputing over the years, the Earth Simulator series of systems has represented the state of the art in",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2020/09/28/pure-vector-engines-get-gpu-math-help-for-next-earth-simulator/",
+      "originalUrl": "https://www.nextplatform.com/2020/09/28/pure-vector-engines-get-gpu-math-help-for-next-earth-simulator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/shutterstock_787937605-scaled.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2020/09/28/pure-vector-engines-get-gpu-math-help-for-next-earth-simulator/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/09/28/pure-vector-engines-get-gpu-math-help-for-next-earth-simulator/amp/",
+      "publishedDateTime": "2020-09-28T13:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-take-a-look-at-this-new-drone-on-demand-mobile-app.md",
+      "title": "Take A Look At This New Drone On Demand Mobile App",
+      "excerpt": "Aquiline Drones is bringing a “Drone-on-Demand” (DoD) mobile app to the market. The DoD app will be accessible through all mobile devices, including smartphones and tablets. According to the company,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2020/09/28/take-a-look-at-this-new-drone-on-demand-mobile-app/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2020/09/28/take-a-look-at-this-new-drone-on-demand-mobile-app/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f722a94103c005007144241%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2020/09/28/take-a-look-at-this-new-drone-on-demand-mobile-app/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2020/09/28/take-a-look-at-this-new-drone-on-demand-mobile-app/amp/",
+      "publishedDateTime": "2020-09-28T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-deep-science-robot-perception-acoustic-monitoring-using-ml-to-detect-arthritis.md",
+      "title": "Deep Science: Robot perception, acoustic monitoring, using ML to detect arthritis",
+      "excerpt": "This column aims to collect the most relevant recent discoveries and papers — particularly in but not limited to artificial intelligence — and explain why they matter. The topics in this week ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/28/deep-science-robot-perception-acoustic-monitoring-using-ml-to-detect-arthritis/",
+      "originalUrl": "https://techcrunch.com/2020/09/28/deep-science-robot-perception-acoustic-monitoring-using-ml-to-detect-arthritis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-1136667866.jpg?w=1024",
+          "width": 1024,
+          "height": 716,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/28/deep-science-robot-perception-acoustic-monitoring-using-ml-to-detect-arthritis/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/28/deep-science-robot-perception-acoustic-monitoring-using-ml-to-detect-arthritis/amp/",
+      "publishedDateTime": "2020-09-28T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-moving-from-notebooks-to-automated-ml-pipelines-using-amazon-sagemaker-and-aws-glue.md",
+      "title": "Moving from notebooks to automated ML pipelines using Amazon SageMaker and AWS Glue",
+      "excerpt": "A typical machine learning (ML) workflow involves processes such as data extraction, data preprocessing, feature engineering, model training and evaluation, and model deployment. As data changes over time, when you deploy models to production, you want your model to learn continually from the stream",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/moving-from-notebooks-to-automated-ml-pipelines-using-amazon-sagemaker-and-aws-glue/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/moving-from-notebooks-to-automated-ml-pipelines-using-amazon-sagemaker-and-aws-glue/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/24/1-Retraining-Pipeline.jpg",
+          "width": 1000,
+          "height": 623,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-28T11:56:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-amsterdam-and-helsinki-launch-algorithm-registries-to-bring-transparency-to-public-deployments-of-ai.md",
       "title": "Amsterdam and Helsinki launch algorithm registries to bring transparency to public deployments of AI",
       "excerpt": "Amsterdam and Helsinki today launched AI registries to detail how each city uses algorithms to deliver services.",
@@ -756,438 +1199,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-neural-network-trained-to-control-anesthetic-doses-keep-patients-under-during-surgery.md",
-      "title": "Neural network trained to control anesthetic doses, keep patients under during surgery",
-      "excerpt": "Academics from the Massachusetts Institute of Technology (MIT) and Massachusetts General Hospital have demonstrated how neural networks can be trained to administer anesthetic during surgery. Over the past decade,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/neural-network-trained-to-control-anaesthetic-doses-keep-patients-under-during-surgery/",
-      "originalUrl": "https://www.zdnet.com/article/neural-network-trained-to-control-anaesthetic-doses-keep-patients-under-during-surgery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/08/26/819edb0f-11d4-4321-8447-982555f1c2db/thumbnail/1200x675/069dd34a53a6dec72536b86bb559cefe/20200826-daphne-karen-neural.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/neural-network-trained-to-control-anaesthetic-doses-keep-patients-under-during-surgery/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/neural-network-trained-to-control-anaesthetic-doses-keep-patients-under-during-surgery/",
-      "publishedDateTime": "2020-09-28T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-bear-robotics-and-softbank-robotics-group-announce-new-food-service-robot.md",
-      "title": "Bear Robotics and SoftBank Robotics Group Announce New Food Service Robot",
-      "excerpt": "Bear Robotics, a robotics and artificial intelligence company, and SoftBank Robotics Group, a leading robotics manufacturer and solutions provider, have collaborated to bring a new robot named Servi to the food service and hospitality field.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/corporate-news-artificial-intelligence-technology-business-north-america-144b7c6660a14e33ac09029d04417d88",
-      "originalUrl": "https://apnews.com/press-release/business-wire/corporate-news-artificial-intelligence-technology-business-north-america-144b7c6660a14e33ac09029d04417d88",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-28T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-iisc-wipro-ge-start-ai-healthcare-lab.md",
-      "title": "IISc, Wipro-GE start AI healthcare lab",
-      "excerpt": "India News: The Indian Institute of Science (IISc) and Wipro GE Healthcare today announced the inauguration of an advanced center for innovation and research — ‘W",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/india/iisc-wipro-ge-start-ai-healthcare-lab/articleshow/78361777.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/india/iisc-wipro-ge-start-ai-healthcare-lab/articleshow/78361777.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-78361745/78361745.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/india/iisc-wipro-ge-start-ai-healthcare-lab/amp_articleshow/78361777.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/india/iisc-wipro-ge-start-ai-healthcare-lab/amp_articleshow/78361777.cms",
-      "publishedDateTime": "2020-09-28T01:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-9-soft-skills-every-employee-will-need-in-the-age-of-artificial-intelligence-ai.md",
-      "title": "9 Soft Skills Every Employee Will Need In The Age Of Artificial Intelligence (AI)",
-      "excerpt": "Artificial Intelligence (AI) and machine learning systems are becoming increasingly competent at doing jobs that previously, only humans could do. Here, we look at the key soft skills everyone should be focusing on to compete well in the job market of the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/09/28/9-soft-skills-every-employee-will-need-in-the-age-of-artificial-intelligence-ai/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2020/09/28/9-soft-skills-every-employee-will-need-in-the-age-of-artificial-intelligence-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7166cf598fcc4a100b3e63%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/09/28/9-soft-skills-every-employee-will-need-in-the-age-of-artificial-intelligence-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/09/28/9-soft-skills-every-employee-will-need-in-the-age-of-artificial-intelligence-ai/amp/",
-      "publishedDateTime": "2020-09-27T21:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-chinese-publishers-see-ai-translation-as-the-killer-app-for-pushing-web-novels-overseas.md",
-      "title": "Chinese publishers see AI translation as the killer app for pushing web novels overseas",
-      "excerpt": "While artificial intelligence has so far proven to be inferior at the job compared to humans, that hasn’t deterred China’s online literature platforms from betting on algorithms to introduce Chinese web novels to English-speaking audiences.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/abacus/tech/article/3102891/chinese-publishers-see-ai-translation-killer-app-pushing-web-novels",
-      "originalUrl": "https://www.scmp.com/abacus/tech/article/3102891/chinese-publishers-see-ai-translation-killer-app-pushing-web-novels",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/09/25/c5f3a53c-fe3d-11ea-9bb5-57ca6b07e40a_image_hires_155243.jpg?itok=uE7g2BRT&v=1601020372",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/abacus/tech/article/3102891/chinese-publishers-see-ai-translation-killer-app-pushing-web-novels",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/abacus/tech/article/3102891/chinese-publishers-see-ai-translation-killer-app-pushing-web-novels",
-      "publishedDateTime": "2020-09-27T17:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-hear-from-postmates-refraction-ai-and-fedex-about-autonomous-delivery-at-tc-sessions-mobility-2020.md",
-      "title": "Hear from Postmates, Refraction AI and FedEx about autonomous delivery at TC Sessions: Mobility 2020",
-      "excerpt": "Small startups and logistics giants alike are working on how to use automated vehicle technology and robotics for delivery. Some have even accelerated their efforts, with mixed results, as the COVID-19 pandemic drove up demand for delivery.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/28/hear-from-postmates-refraction-ai-and-fedex-about-autonomous-delivery-at-tc-sessions-mobility-2020/",
-      "originalUrl": "https://techcrunch.com/2020/09/28/hear-from-postmates-refraction-ai-and-fedex-about-autonomous-delivery-at-tc-sessions-mobility-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/kashani-yeung-Johnson-Roberson.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/28/hear-from-postmates-refraction-ai-and-fedex-about-autonomous-delivery-at-tc-sessions-mobility-2020/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/28/hear-from-postmates-refraction-ai-and-fedex-about-autonomous-delivery-at-tc-sessions-mobility-2020/amp/",
-      "publishedDateTime": "2020-09-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-this-paralyzed-man-can-feel-his-fingers-again-thanks-to-a-mind-controlled-robotic-arm.md",
-      "title": "This paralyzed man can feel his fingers again thanks to a mind-controlled robotic arm",
-      "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/2016/10/14/paralyzed-man-feels-fingers-again/",
-      "originalUrl": "https://mashable.com/2016/10/14/paralyzed-man-feels-fingers-again/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2016%252F10%252F14%252Fb6%252FAP_16287736330662.d3659.jpg%252F1200x630.jpg?signature=FcoGOanYXavhwhQJ5dHhaSbAjk4=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-how-microsoft-flight-simulator-became-a-living-game-with-azure-ai.md",
-      "title": "How 'Microsoft Flight Simulator' became a 'living game' with Azure AI",
-      "excerpt": "Flight Simulator is a triumph, one that fully captures the meditative experience of soaring through the clouds. But to bring the game to life,  and developer As",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/microsoft-flight-simulator-azure-ai-machine-learning-193545436.html?itm_source=parsely-api",
-      "originalUrl": "https://www.engadget.com/microsoft-flight-simulator-azure-ai-machine-learning-193545436.html?itm_source=parsely-api",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F92036cb1-ff61-11ea-bf3e-731546a38c60&client=amp-blogside-v2&signature=ffe8a2b4c0f922e4dd987dfb384f0ddaa42ed397",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-27T12:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-how-to-improve-bot-detection-with-machine-learning.md",
-      "title": "How To Improve Bot Detection With Machine Learning",
-      "excerpt": "The bot landscape is changing fast as fraudsters look to capitalize on the confusion, fear and uncertainty surrounding Covid-19 and its immediately accelerating e-commerce.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/27/how-to-improve-bot-detection-with-machine-learning/",
-      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/27/how-to-improve-bot-detection-with-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f70cdf27a22d0b0bf2220f7%2F0x0.jpg%3FcropX1%3D698%26cropX2%3D4871%26cropY1%3D93%26cropY2%3D2875",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/27/how-to-improve-bot-detection-with-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/09/27/how-to-improve-bot-detection-with-machine-learning/amp/",
-      "publishedDateTime": "2020-09-27T11:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

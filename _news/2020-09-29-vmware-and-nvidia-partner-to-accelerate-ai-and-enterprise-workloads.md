@@ -169,6 +169,20 @@ related:
         width: 599
         height: 399
         isCached: true
+  - title: "Arize AI Joins NVIDIA Inception Program"
+    excerpt: "Arize AI, today announced it has joined the NVIDIA Inception program, which is designed to nurture startups revolutionizing industries"
+    publishedDateTime: 2020-10-02T15:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/arize-ai-joins-nvidia-inception-program-301144741.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/1276605/Arize_AI_Logo.jpg?p=facebook"
+        width: 2696
+        height: 1414
+        isCached: true
   - title: "VMware, Nvidia forge partnership to make AI chips easier for business use"
     excerpt: "VMware Inc. (VMW) and Nvidia Corp. (NVDA) on Tuesday announced a partnership to make VMware's software for managing data centers work more smoothly with Nvidia's artificial intelligence chips ... there are a whole bunch of AI use-case scenarios,\" VMware ..."
     publishedDateTime: 2020-09-30T12:29:00Z

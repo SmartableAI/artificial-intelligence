@@ -8,6 +8,7 @@ webUrl: "https://www.retailtimes.co.uk/russias-x5-retail-group-introduces-speech
 type: article
 quality: 39
 heat: 39
+published: false
 
 provider:
   name: Retail Times

@@ -7,7 +7,7 @@ originalUrl: "https://www.mpg.de/15455301/0929-bild-134137-artificial-intelligen
 webUrl: "https://www.mpg.de/15455301/0929-bild-134137-artificial-intelligence-in-art-a-simple-tool-or-creative-genius1"
 type: article
 quality: 39
-heat: 49
+heat: 39
 published: false
 
 provider:

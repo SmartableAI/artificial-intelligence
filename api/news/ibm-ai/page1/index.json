@@ -103,12 +103,54 @@
       ]
     },
     {
+      "path": "_news/2020-09-26-ibm-smart-lineup-decisions-for-nfl-week-3.md",
+      "title": "IBM Smart Lineup Decisions for NFL Week 3",
+      "excerpt": "That's where IBM Insights comes in, as it uses Watson AI to break down all of the content you're consuming and then some. And by \"some,\" I mean every inch of the interwebs. Below are the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.espn.co.uk/fantasy/football/story/_/page/smartlineup200925/ibm-smart-lineup-decisions-nfl-week-2",
+      "originalUrl": "https://www.espn.co.uk/fantasy/football/story/_/page/smartlineup200925/ibm-smart-lineup-decisions-nfl-week-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0925%2Fr750975_1296x729_16%2D9.jpg",
+          "width": 1296,
+          "height": 729,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.espn.co.uk/fantasy/football/story/_/page/smartlineup200925/ibm-smart-lineup-decisions-nfl-week-2?platform=amp",
+      "cdnAmpWebUrl": "https://www-espn-co-uk.cdn.ampproject.org/c/s/www.espn.co.uk/fantasy/football/story/_/page/smartlineup200925/ibm-smart-lineup-decisions-nfl-week-2?platform=amp",
+      "publishedDateTime": "2020-09-25T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ESPN",
+        "domain": "espn.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-ai-can-detect-how-lonely-you-are-by-analysing-your-speech.md",
       "title": "AI can detect how lonely you are by analysing your speech",
       "excerpt": "Researchers in the US used several AI tools, including IBM Watson, to analyse transcripts of older adults interviewed about feelings of loneliness.",
       "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-8772287/AI-detect-lonely-analysing-speech.html?&hss_channel=tw-17392332",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-8772287/AI-detect-lonely-analysing-speech.html?&hss_channel=tw-17392332",
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-8772287/amp/AI-detect-lonely-analysing-speech.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-8772287/amp/AI-detect-lonely-analysing-speech.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1324,58 +1366,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-ibm-will-use-ai-to-pipe-in-simulated-crowd-noise-during-the-us-open.md",
-      "title": "IBM will use AI to pipe in simulated crowd noise during the U.S. Open",
-      "excerpt": "IBM plans to apply AI and machine learning solutions to new challenges brought on by the pandemic during the 140th U.S. Open.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/28/ibm-will-use-ai-to-pipe-in-simulated-crowd-noise-during-the-u-s-open/",
-      "originalUrl": "https://venturebeat.com/2020/08/28/ibm-will-use-ai-to-pipe-in-simulated-crowd-noise-during-the-u-s-open/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/28/ibm-will-use-ai-to-pipe-in-simulated-crowd-noise-during-the-u-s-open/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/28/ibm-will-use-ai-to-pipe-in-simulated-crowd-noise-during-the-u-s-open/amp/",
-      "publishedDateTime": "2020-08-28T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
         "IBM AI"
       ]
     }

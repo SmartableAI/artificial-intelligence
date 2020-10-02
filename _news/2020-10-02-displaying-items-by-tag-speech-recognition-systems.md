@@ -7,7 +7,7 @@ originalUrl: "https://www.itwire.com/freelancer-sp-720/tag/speech recognition sy
 webUrl: "https://www.itwire.com/freelancer-sp-720/tag/speech recognition systems.html"
 type: article
 quality: 39
-heat: 49
+heat: 39
 published: false
 
 provider:

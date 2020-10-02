@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/09/29/nvidia-and-vmware-part
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/29/nvidia-and-vmware-partner-to-bring-ai-into-the-mai/"
 type: article
 quality: 189
-heat: 319
+heat: 329
 published: true
 
 provider:
@@ -172,6 +172,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/NVIDIACEOfounderJensenHuang_VMwareCEOPatGelsinger_VMworld2020.jpg"
         width: 2000
         height: 1115
+        isCached: true
+  - title: "Arize AI Joins NVIDIA Inception Program"
+    excerpt: "Arize AI, today announced it has joined the NVIDIA Inception program, which is designed to nurture startups revolutionizing industries"
+    publishedDateTime: 2020-10-02T15:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/arize-ai-joins-nvidia-inception-program-301144741.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/1276605/Arize_AI_Logo.jpg?p=facebook"
+        width: 2696
+        height: 1414
         isCached: true
   - title: "VMware, Nvidia forge partnership to make AI chips easier for business use"
     excerpt: "VMware Inc. (VMW) and Nvidia Corp. (NVDA) on Tuesday announced a partnership to make VMware's software for managing data centers work more smoothly with Nvidia's artificial intelligence chips ... there are a whole bunch of AI use-case scenarios,\" VMware ..."

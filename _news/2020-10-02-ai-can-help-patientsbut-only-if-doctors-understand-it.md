@@ -10,6 +10,7 @@ cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/
 type: article
 quality: 87
 heat: 87
+published: true
 
 provider:
   name: Wired
@@ -28,6 +29,6 @@ images:
     height: 1600
     isCached: true
 
-secured: "BT2XAJntHppcmY8FyIPk5xS62R7z0Yro1C7RiwBjEhEbMV5jAM8B0421dhrhX8gOji/fQNfcJE2qjZ4AHy4/cKcWS29UPDm0d8l2aygwqVcqwyT3OHYIVo80ZXTvJwFdZ8PtHqtZCVDO0ecEoTz1KpvcceQ6b0pdBuS4FVsW+xoaD/pncOr4VXW4jW336F7zO+i4jMUda4TbOUfzKbRq4Coi7ZrTmq/1e8Otb8LbMGZCaG9eCouEbOmjrsZrtyiHbZiTK/xKpRtKRldyfx6jyh5gdd1SRjhEtzfiQ8stFCV7iiMraT6kcgVmk6B85bzlvneXoXs2z6tZqR/M5WNTz+325mzWo7HOQ+qgqpRri/Q=;i9gIICibt2+X8oSRXfz1SA=="
+secured: "gsFj5VwEhxtN+RjSyTGk4fqtnSxVg9sUC+MnI9HZv9l7n7WrrO9KL1689AZv/sS1xEE+t7SRGJctj4YlVlvOJKDhLr7Nu2WKqXaN301jbB796hWP/oZO85fxzosRR/Zj7NXo62+RhMHN8ybhZIu0hLQnNyrh9ZLcHLXfkTxbx7+ubv1+GalihysnCSBigKM4PrNar2fKrCQmvPIANgsCcvYDLq6IuMr4HwQl59HVGg3aHznIEQNN7Jo6GaDyR2aOH5AokW80mN3ySW5CXNDxkdJU1IqUpW2ZNanr1A/rSeEcDJhr2j76191MYhlJ54wUZcKK62gS3NvANpLKhDCNPx9bqquVEwkLC8VjlASa1Gbfcgj+CPpkMzz0/aEd9aCi6aeecXmhq5Kgfbr7aeVW79lfWWsVibxOED9x2wpFFe/Wlc1MgonzEBaSffgxEZjwC0Qujm7eJabxbHd3UnfmE7e4YDvlNogxF1MDbH3p0hh6yTii+gExjN25xOJEvD4l5o77CJRIMB9v/R6JfQSWJg==;IVXf6FaEqR9tfHxXBKI2QA=="
 ---
 

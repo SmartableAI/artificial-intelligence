@@ -73,22 +73,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Treasury Tech Finds A Home In Bank-FinTech Collaboration"
-    excerpt: "FinTech collaborations focus on corporate treasury management technology, while Italy readies for its largest open banking platform."
-    publishedDateTime: 2020-09-27T22:02:00Z
-    webUrl: "https://www.pymnts.com/news/b2b-payments/2020/open-banking-fintech-treasury-management/"
-    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2020/open-banking-fintech-treasury-management/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2020/open-banking-fintech-treasury-management/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/09/open-banking-fintech-treasury-management-457x305.jpg"
-        width: 457
-        height: 305
-        isCached: true
   - title: "How Covid-19 has injected new life into the fintech sector"
     excerpt: "The coronavirus pandemic has forced the hands of many companies when it comes to their use of technology and, in doing so, it has reignited the fintech revolution."
     publishedDateTime: 2020-10-01T08:30:00Z

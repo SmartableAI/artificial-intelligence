@@ -1,20 +1,17 @@
 ---
 category: news
 title: "IBM Smart Lineup Decisions for NFL Week 3"
-excerpt: "That's where IBM Insights comes in, as they use Watson AI to break down all of the content you're consuming and then some. And by \"some\", I mean every inch of the interwebs. Below are the highlights for NFL Week 3 - good and bad."
-publishedDateTime: 2020-09-25T17:56:00Z
-originalUrl: "https://www.espn.com.au/fantasy/football/story/_/page/smartlineup200925/ibm-smart-lineup-decisions-nfl-week-2"
-webUrl: "https://www.espn.com.au/fantasy/football/story/_/page/smartlineup200925/ibm-smart-lineup-decisions-nfl-week-2"
-ampWebUrl: "https://www.espn.com.au/fantasy/football/story/_/page/smartlineup200925/ibm-smart-lineup-decisions-nfl-week-2?platform=amp"
-cdnAmpWebUrl: "https://www-espn-com-au.cdn.ampproject.org/c/s/www.espn.com.au/fantasy/football/story/_/page/smartlineup200925/ibm-smart-lineup-decisions-nfl-week-2?platform=amp"
+excerpt: "That's where IBM Insights comes in, as it uses Watson AI to break down all of the content you're consuming and then some. And by \"some,\" I mean every inch of the interwebs. Below are the ..."
+publishedDateTime: 2020-09-25T18:10:00Z
+originalUrl: "https://www.espn.co.uk/fantasy/football/story/_/page/smartlineup200925/ibm-smart-lineup-decisions-nfl-week-2"
+webUrl: "https://www.espn.co.uk/fantasy/football/story/_/page/smartlineup200925/ibm-smart-lineup-decisions-nfl-week-2"
+ampWebUrl: "https://www.espn.co.uk/fantasy/football/story/_/page/smartlineup200925/ibm-smart-lineup-decisions-nfl-week-2?platform=amp"
+cdnAmpWebUrl: "https://www-espn-co-uk.cdn.ampproject.org/c/s/www.espn.co.uk/fantasy/football/story/_/page/smartlineup200925/ibm-smart-lineup-decisions-nfl-week-2?platform=amp"
 type: article
-quality: 44
-heat: 44
-published: false
 
 provider:
-  name: ESPN.com
-  domain: espn.com.au
+  name: ESPN
+  domain: espn.co.uk
 
 topics:
   - IBM AI
@@ -26,6 +23,6 @@ images:
     height: 729
     isCached: true
 
-secured: "OUjfoaq/YZfZbGx/SWdaoa6N/pKrs3MC/ChRrJZAYttBgGQ1Yg+sIh6QO+ZeFSF4/w8XPc2fcniFcc/Ut2AzYEK1ELluZsWG/sr32GBm7hlGJbJAu1284Pi+IebDWrvuvZe6oDpeZHsXBpd1mMSwRf+PS2Z1xL09K0RVtlnJg2hhSDmDHtORAFnz/mpF4XvhGVIq11bxsefPTFIumKAz3RPR7/7SyjUyoJjTK0A1UZ47rtuDecPI4IXNJNEOjVPI13+xvi8isWlakk7WH1g5JErFH1mLk1TV4cnqXRg2YfjUaJasxouMTiaWX66zwjkMVliO5Gtknc9FFsyuU8jSqz8uQzB66u3bA89qMqfZGSs=;wPF1ZPSbcUcIZf+Cc+kxtg=="
+secured: "SHEUwrjHGG8O8qUeHttZXdB+z1p55mWAY5P0kyevmk8UYWLSQao16m2N93uUaXDulkHFffaz1Lq1nWGkbDa+hHv2HQK+fRMJfRx+TS701es05OSTDWO+k4lILfDM7wtGl0EFhmok+WZLoqwK8oZuu7BUc8Ja9iSUFKSjjTc/nVa4+6WioQMUkexhFBoy9uX+lqqRCACLU75btcQG40q3eZHF3AIgA458VJyrjR52uL84ff9vSLnJGmsSfUS/6bMyRaL0Zf5y9UyE6CW/tFxnIlIoqOUa1m5t+HQ25c1/sPaTYh5AMyascQlm0a4rIBSOponY3Nf0LuXy4cRWkhIqcIEFtMEnFCjKGDxWASnZhqc=;2KfcVRXn2kq22V/4bMNoVA=="
 ---
 

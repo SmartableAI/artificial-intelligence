@@ -8,6 +8,7 @@ webUrl: "https://www.finanznachrichten.de/nachrichten-2020-10/50859802-artificia
 type: article
 quality: 3
 heat: 3
+published: false
 
 provider:
   name: Finanznachrichten

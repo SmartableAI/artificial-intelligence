@@ -8,6 +8,7 @@ webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/02/public-sp
 type: article
 quality: 67
 heat: 67
+published: false
 
 provider:
   name: Forbes

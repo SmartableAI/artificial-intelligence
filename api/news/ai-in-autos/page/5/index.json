@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-08-21-baidu-launches-its-new-urban-robotaxi-service.md",
+      "title": "Baidu Launches Its New Urban Robotaxi Service",
+      "excerpt": "Baidu (NASDAQ:BIDU) announced on Friday that it has launched a branch of its robotaxi service Apollo Go in that city, the first time it is operational in a downtown urban environment. Apollo Go is hooked into the company's wider digital ecosystem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/08/21/baidu-launches-its-first-urban-robotaxi-service/",
+      "originalUrl": "https://www.fool.com/investing/2020/08/21/baidu-launches-its-first-urban-robotaxi-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F588944%2Fa-baidu-self-driving-car.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/08/21/baidu-launches-its-first-urban-robotaxi-service/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/08/21/baidu-launches-its-first-urban-robotaxi-service/",
+      "publishedDateTime": "2020-08-21T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-21-watch-self-driving-cars-need-to-learn-how-humans-drive.md",
       "title": "WATCH: Self-Driving Cars Need To Learn How Humans Drive",
       "excerpt": "Waymo, formerly the Google self-driving ... She is a computer scientist and engineer who studies the relationship between artificial intelligence systems, like self-driving cars, and humans.",

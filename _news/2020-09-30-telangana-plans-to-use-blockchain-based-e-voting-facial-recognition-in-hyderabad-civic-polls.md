@@ -7,7 +7,7 @@ originalUrl: "https://www.medianama.com/2020/09/223-telangana-evoting-blockchain
 webUrl: "https://www.medianama.com/2020/09/223-telangana-evoting-blockchain-facial-recognition-ghmc-polls/"
 type: article
 quality: 42
-heat: 52
+heat: 42
 published: false
 
 provider:

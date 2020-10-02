@@ -8,6 +8,7 @@ webUrl: "https://www.prnewswire.com/news-releases/superwiseai-named-a-cool-vendo
 type: article
 quality: 39
 heat: 39
+published: false
 
 provider:
   name: PR Newswire
@@ -23,6 +24,6 @@ images:
     height: 315
     isCached: true
 
-secured: "CdUGqjFUMgyEWsyV9Np5C8Mozh/gVxRpXw0yyrqZJTIBqSGGXDCFcqHBb3b4bxID7WFKsxBfbrXJu0nUSVd5p3DlCbALLEUkdxE2vSlDw23WIw2RJGj1yC3+U7Xqg+wtE29xM35kWg1lYKiZ+A0gDVTOW3pLdM6kKTzcaIxtxTj8/Gvht8YNvlH3kpC3UjCgbJ6OdcvQiGucHe7HahBZQ3EmffFcnW7qQ7MNCO/ngE98u73ljn7q9QBpka41swa8+aK8Mlka1S+onsJOfXMrMgYryt9mQdZe4DcYyIBBHDxewFREJ8zDb5Qfli1Ga0QyNdhmovSAkVGxg/uYhGRj2/KtXzt3QIBGpuqGeQBN3D8=;jq5DJLvlGmv1eKt4fIpRRw=="
+secured: "BS1BbN35PMPz+VIqfkJJ09R5+HVtRJRTOV9wSjiGkAVosDPJoujiuK/5XkyC4M6/WDfWF/v3VL7Bs87qz5dLOAR4OMKE5crim0Yt8Krx2BLgFgxRiM1EtQJitaJ1gKnzdEOLVZqrz4XlejIHOdCDgS2x7rtXp8q9YLQBMmlkf2ZMKvXCg1HE7jOObsS/hd83IAm7TvAXuTHstx6oczVGVe4rgz3FCyfxy2ysLoqRIq+Wj+fkQi7e2Duvz79Pp6H62nrMxShHfvSlf+UXIk/0n2IfuMBTs/T7yeV34vhKKNxCOefm/rbgjTy+AZZGcktnxL47wg+NsapWVkrXnhSibE6tGKIz//w6iN0FPUvRDb4=;7l54/za87SoW/tHXlcP4BQ=="
 ---
 

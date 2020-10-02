@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202009/national-ambitions-dodgy-ai
 webUrl: "https://www.biometricupdate.com/202009/national-ambitions-dodgy-ai-policy-and-deployment"
 type: article
 quality: 39
-heat: 49
+heat: 39
 published: false
 
 provider:

@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-17-serving-pytorch-models-in-production-with-the-amazon-sagemaker-native-torchserve-integration.md",
+      "title": "Serving PyTorch models in production with the Amazon SageMaker native TorchServe integration",
+      "excerpt": "In April 2020, AWS and Facebook announced the launch of TorchServe to allow researches and machine learning (ML) developers from the PyTorch community to bring their models to production more quickly and without needing to write custom code. TorchServe is an open-source project that answers the industry",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/serving-pytorch-models-in-production-with-the-amazon-sagemaker-native-torchserve-integration/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/serving-pytorch-models-in-production-with-the-amazon-sagemaker-native-torchserve-integration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/27/serving-pytorch-models-1.jpg",
+          "width": 1000,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-17T11:06:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-17-activity-detection-on-a-live-video-stream-with-amazon-sagemaker.md",
       "title": "Activity detection on a live video stream with Amazon SageMaker",
       "excerpt": "Live video streams are continuously generated across industries including media and entertainment, retail, and many more. Live events like sports, music, news, and other special events are broadcast for viewers on TV and other online streaming platforms. AWS customers increasingly rely on machine learning",
@@ -1376,57 +1427,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-nfl-reveals-new-expected-rush-yards-stat-with-help-from-amazon-web-services.md",
-      "title": "NFL reveals new ‘Expected Rush Yards’ stat, with help from Amazon Web Services",
-      "excerpt": "Football fans wondering whether the next handoff to a running back could be another Beast Quake have another stat to track thanks to Next Gen Stats, the platform powered by Amazon Web Services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/nfl-reveals-new-expected-rush-yards-stat-help-amazon-web-services/",
-      "originalUrl": "https://www.geekwire.com/2020/nfl-reveals-new-expected-rush-yards-stat-help-amazon-web-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/09/bigstock-Football-field-114165206-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/nfl-reveals-new-expected-rush-yards-stat-help-amazon-web-services/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/nfl-reveals-new-expected-rush-yards-stat-help-amazon-web-services/amp/",
-      "publishedDateTime": "2020-09-02T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

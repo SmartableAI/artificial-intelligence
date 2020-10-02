@@ -2,6 +2,273 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-02-ai-and-ethics-one-third-of-executives-are-not-aware-of-potential-ai-bias.md",
+      "title": "AI and ethics: One-third of executives are not aware of potential AI bias",
+      "excerpt": "The majority of consumers expect companies to be accountable for their AI systems, yet about half of companies do not have a dedicated member overseeing ethical AI implementation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-and-ethics-one-third-of-executives-are-not-aware-of-potential-ai-bias/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-and-ethics-one-third-of-executives-are-not-aware-of-potential-ai-bias/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-and-ethics-one-third-of-executives-are-not-aware-of-potential-ai-bias/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-and-ethics-one-third-of-executives-are-not-aware-of-potential-ai-bias/",
+      "publishedDateTime": "2020-10-02T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-7-artificial-intelligence-stocks-to-buy-for-october.md",
+      "title": "7 Artificial Intelligence Stocks to Buy for October",
+      "excerpt": "Stock Market News, Stock Advice & Trading Tips With so much death and economic destruction wrought by the novel coronavirus,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/7-artificial-intelligence-stocks-to-buy-october-1029644435",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/7-artificial-intelligence-stocks-to-buy-october-1029644435",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/7-artificial-intelligence-stocks-to-buy-october-1029644435",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/7-artificial-intelligence-stocks-to-buy-october-1029644435",
+      "publishedDateTime": "2020-10-02T07:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-shares-up-13.md",
+      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) Shares Up 1.3%",
+      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) shot up 1.3% during trading on Thursday . The stock traded as high as $39.44 and last traded at $39.44. 11,825 shares were traded during mid-day trading,",
+      "sourceUrl": null,
+      "webUrl": "https://theenterpriseleader.com/2020/10/02/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-shares-up-1-3.html",
+      "originalUrl": "https://theenterpriseleader.com/2020/10/02/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-shares-up-1-3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 450,
+          "height": 323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://theenterpriseleader.com/2020/10/02/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-shares-up-1-3.html/amp",
+      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2020/10/02/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-shares-up-1-3.html/amp",
+      "publishedDateTime": "2020-10-02T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theenterpriseleader.com",
+        "domain": "theenterpriseleader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-three-best-practices-for-how-banks-can-get-the-most-out-of-investments-in-ai-innovations.md",
+      "title": "Three best practices for how banks can get the most out of investments in AI innovations",
+      "excerpt": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since AI in banking is entering the mainstream as financial institutions start incorporating AI solutions into their businesses: A majority of financial services ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/3-best-practices-for-implementing-ai-in-banking-2020-10",
+      "originalUrl": "https://www.businessinsider.com/3-best-practices-for-implementing-ai-in-banking-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5e62c54afee23d19745f9109?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-02T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-mit-report-how-ai-changes-the-world.md",
+      "title": "MIT Report How AI changes the world",
+      "excerpt": "Building Workforce Skills for AI As the world becomes more digital, artificial intelligence (AI) is increasingly critical to the way we do business. Leaders are no longer deciding",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/resource-library/whitepapers/mit-report-how-ai-changes-the-world/",
+      "originalUrl": "https://www.techrepublic.com/resource-library/whitepapers/mit-report-how-ai-changes-the-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/whitepapers/mit-report-how-ai-changes-the-world/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/mit-report-how-ai-changes-the-world/",
+      "publishedDateTime": "2020-10-02T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-ai-can-help-patientsbut-only-if-doctors-understand-it.md",
+      "title": "AI Can Help Patients—but Only If Doctors Understand It",
+      "excerpt": "Algorithms can help diagnose a growing range of health problems, but humans need to be trained to listen. Nurse Dina Sarro didn’t know much about artificial intelligence when Duke University Hospital installed machine learning software to raise an alarm when a person was at risk of developing sepsis,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-help-patients-doctors-understand/",
+      "originalUrl": "https://www.wired.com/story/ai-help-patients-doctors-understand/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f7675e3ff21dc4074d250d8/master/pass/business_nurse_1224894742.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-help-patients-doctors-understand/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-help-patients-doctors-understand/amp",
+      "publishedDateTime": "2020-10-02T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-facebooks-ai-matches-people-in-need-with-those-willing-to-assist.md",
       "title": "Facebook’s AI matches people in need with those willing to assist",
       "excerpt": "Facebook's machine learning algorithms can match those in need of help during the pandemic with those willing to provide help, and vice versa.",
@@ -10,7 +277,7 @@
       "originalUrl": "https://venturebeat.com/2020/10/02/facebooks-ai-matches-people-in-need-with-those-willing-to-assist/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -60,7 +327,7 @@
       "originalUrl": "https://www.zdnet.com/article/five-australian-universities-launch-project-to-improve-voice-assistants-for-kids/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -154,34 +421,34 @@
       ]
     },
     {
-      "path": "_news/2020-10-02-pm-modi-to-inaugurate-global-summit-on-artificial-intelligence-on-oct-5.md",
-      "title": "PM Modi to inaugurate global summit on artificial intelligence on Oct 5",
-      "excerpt": "New Delhi: Prime Minister Narendra Modi will inaugurate a global virtual summit on Artificial Intelligence (AI), RAISE 2020 - 'Responsible AI for Social Empowerment 2020' on October 5, according to the Ministry of Electronics and Information Technology.",
+      "path": "_news/2020-10-02-report-former-pelican-coach-alvin-gentry-serious-contender-to-join-doc-rivers-staff-in-philadelphia.md",
+      "title": "Report: Former Pelican coach Alvin Gentry 'serious contender' to join Doc Rivers staff in Philadelphia",
+      "excerpt": "After being fired from the New Orleans Pelicans this off-season, Alvin Gentry is likely to be apart of Doc Rivers’ staff in Philadelphia.",
       "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/india/pm-modi-to-inaugurate-global-summit-on-artificial-intelligence-on-oct-5",
-      "originalUrl": "https://www.freepressjournal.in/india/pm-modi-to-inaugurate-global-summit-on-artificial-intelligence-on-oct-5",
+      "webUrl": "https://inside-com.breezy.hr/",
+      "originalUrl": "https://lonzowire.usatoday.com/2020/10/01/pelicans-news-alvin-gentry-doc-rivers-head-coach/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 106,
       "tags": null,
       "images": [
         {
-          "url": "https://mc.webpcache.epapr.in/mcms.php?size=large&in=https://mcmscache.epapr.in/post_images/website_13/post_18468642/thumb.jfif",
-          "width": 800,
-          "height": 453,
+          "url": "https://breezy-social-images.imgix.net/442d93c02549/social-portal.png?auto=format&h=600",
+          "width": 1143,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://m.freepressjournal.in/article/india/pm-modi-to-inaugurate-global-summit-on-artificial-intelligence-on-oct-5/874fdda3-15a7-40ed-866a-b14d3946b9f2",
-      "cdnAmpWebUrl": "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/india/pm-modi-to-inaugurate-global-summit-on-artificial-intelligence-on-oct-5/874fdda3-15a7-40ed-866a-b14d3946b9f2",
-      "publishedDateTime": "2020-10-01T18:50:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-01T17:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
+        "name": "USA Today",
+        "domain": "usatoday.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -203,7 +470,7 @@
       "originalUrl": "https://www.zdnet.com/article/alibaba-cloud-nears-profitability-as-customers-move-from-iaas-into-ai-data-analytics-workloads/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -242,7 +509,50 @@
       ],
       "topics": [
         "AI",
-        "Microsoft AI"
+        "Microsoft AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-machine-learning-maximizes-email-marketing-roi-with-list-segmentation.md",
+      "title": "Machine Learning Maximizes Email Marketing ROI With List Segmentation",
+      "excerpt": "Your email marketing ROI can improve with the help of the superior list segmentation mechanisms that machine learning can provide.",
+      "sourceUrl": null,
+      "webUrl": "https://www.smartdatacollective.com/machine-learning-maximizes-email-marketing-roi-with-list-segmentation/",
+      "originalUrl": "https://www.smartdatacollective.com/machine-learning-maximizes-email-marketing-roi-with-list-segmentation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smartdatacollective.com/wp-content/uploads/2020/09/email-marketing-roi.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.smartdatacollective.com/machine-learning-maximizes-email-marketing-roi-with-list-segmentation/amp/",
+      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/machine-learning-maximizes-email-marketing-roi-with-list-segmentation/amp/",
+      "publishedDateTime": "2020-10-01T12:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartData Collective",
+        "domain": "smartdatacollective.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -887,327 +1197,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-amazon-timestream-database-is-now-generally-available.md",
-      "title": "Amazon Timestream database is now generally available",
-      "excerpt": "The latest addition to the AWS database portfolio focuses on time series data – a segment where fit-for-purpose databases are emerging because use cases ranging from IoT to e-commerce are driving data volumes overwhelming general-purpose platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/amazon-timestream-database-is-now-generally-available/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/amazon-timestream-database-is-now-generally-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/amazon-timestream-database-is-now-generally-available/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/amazon-timestream-database-is-now-generally-available/",
-      "publishedDateTime": "2020-10-01T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-robocorp-cloud-a-groundbreaking-solution-to-build-a-software-robot-workforce.md",
-      "title": "Robocorp Cloud - A Groundbreaking Solution to Build a Software Robot Workforce",
-      "excerpt": "Robocorp announces its latest release – Robocorp Cloud – which for the first time ever – allows IT developers and programmers to orchestrate and run robots straight from the cloud. This new technology significantly improves the way Robotic Process Automation (RPA) developers and their teammates operate and maintain their software robot workforce.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/robocorp-cloud-a-groundbreaking-solution-to-build-a-software-robot-workforce-1029639016",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/robocorp-cloud-a-groundbreaking-solution-to-build-a-software-robot-workforce-1029639016",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/robocorp-cloud-a-groundbreaking-solution-to-build-a-software-robot-workforce-1029639016",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/robocorp-cloud-a-groundbreaking-solution-to-build-a-software-robot-workforce-1029639016",
-      "publishedDateTime": "2020-10-01T04:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-this-10-week-programme-aims-to-help-founders-of-ml-startups-achieve-scale.md",
-      "title": "This 10-week programme aims to help founders of ML startups achieve scale",
-      "excerpt": "ML Elevate is an intensive, 10-week programme designed to enable early-stage core ML startup founders to build, grow and scale in a holistic manner by providing the right combination of tools, resources and insights from industry leaders across a host of verticals.",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2020/10/10-week-programme-help-founders-ml-startups-scale",
-      "originalUrl": "https://yourstory.com/2020/10/10-week-programme-help-founders-ml-startups-scale",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/18d4ab20d08111e99775a119527191d8/Untitleddesign92-1601544096694.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2020/10/10-week-programme-help-founders-ml-startups-scale/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/10/10-week-programme-help-founders-ml-startups-scale/amp",
-      "publishedDateTime": "2020-10-01T02:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-enea-claims-15-increase-in-ran-capacity-through-machine-learning.md",
-      "title": "Enea claims 15% increase in RAN capacity through machine learning",
-      "excerpt": "Covid-19 pandemic renewing operator focuses on extracting maximum capacity from 4G networks and machine learning, seen as providing a significant boost to capacity and cost-effectiveness.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252489915/Enea-claims-15-increase-in-RAN-capacity-through-machine-learning",
-      "originalUrl": "https://www.computerweekly.com/news/252489915/Enea-claims-15-increase-in-RAN-capacity-through-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ttgtmedia.com/visuals/German/article/network-technician-4-adobe.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/252489915/Enea-claims-15-increase-in-RAN-capacity-through-machine-learning?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252489915/Enea-claims-15-increase-in-RAN-capacity-through-machine-learning?amp=1",
-      "publishedDateTime": "2020-10-01T02:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-ai-has-resulted-in-ethical-issues-for-90-of-businesses.md",
-      "title": "AI Has Resulted In “Ethical Issues” For 90% Of Businesses",
-      "excerpt": "A new report from Capgemini has revealed that 90% of organizations are aware of at least one instance where an AI system had resulted in ethical issues for their business. The report, titled “AI and the Ethical Conundrum: How organizations can build ethically robust AI systems and gain trust” has found that while digital and AI-enabled interactions with customers are on the rise as customers seek contactless or non-touch interfaces amid the COVID-19 pandemic,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/carlypage/2020/10/01/ai-has-resulted-in-ethical-issues-for-90-of-businesses/",
-      "originalUrl": "https://www.forbes.com/sites/carlypage/2020/10/01/ai-has-resulted-in-ethical-issues-for-90-of-businesses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f75981378b657a43458c3ad%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/carlypage/2020/10/01/ai-has-resulted-in-ethical-issues-for-90-of-businesses/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carlypage/2020/10/01/ai-has-resulted-in-ethical-issues-for-90-of-businesses/amp/",
-      "publishedDateTime": "2020-10-01T02:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-googles-new-machine-learning-tool-turns-your-awful-humming-into-a-beautiful-violin-solo.md",
-      "title": "Google’s new machine learning tool turns your awful humming into a beautiful violin solo",
-      "excerpt": "I often sit on my sofa and hum tunes that I made up in my head. While doing that, I also imagine that my automatically gets converted to a beautiful musical piece. Google‘s new machine learning algorithm experiment,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/10/01/googles-new-machine-learning-tool-turns-your-awful-humming-into-a-beautiful-violin-solo/",
-      "originalUrl": "https://thenextweb.com/neural/2020/10/01/googles-new-machine-learning-tool-turns-your-awful-humming-into-a-beautiful-violin-solo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Tone-transfer-796x418.jpg",
-          "width": 796,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/10/01/googles-new-machine-learning-tool-turns-your-awful-humming-into-a-beautiful-violin-solo/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/01/googles-new-machine-learning-tool-turns-your-awful-humming-into-a-beautiful-violin-solo/amp/",
-      "publishedDateTime": "2020-10-01T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-saas-based-startup-infilect-raises-15-mn-in-pre-series-a-round.md",
-      "title": "SaaS-Based Startup Infilect Raises $1.5 Mn In Pre-Series A Round",
-      "excerpt": "Bangalore-based software-as-a-service (SaaS) startup Infilect has raised USD 1.5 million in Pre-series A round. The investment round was led by Mela Ventures and 1Crowd along with participation from The Chennai Angles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/357009",
-      "originalUrl": "https://www.entrepreneur.com/article/357009",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1601530012-Infilect-Founders-Logo2.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/357009",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/357009",
-      "publishedDateTime": "2020-09-30T22:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

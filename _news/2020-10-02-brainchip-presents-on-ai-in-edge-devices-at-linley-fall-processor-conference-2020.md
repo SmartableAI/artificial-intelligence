@@ -8,6 +8,7 @@ webUrl: "https://www.businesswire.com/news/home/20201001005974/en/BrainChip-Pres
 type: article
 quality: 29
 heat: 29
+published: false
 
 provider:
   name: Business Wire

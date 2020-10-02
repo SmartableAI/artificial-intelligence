@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/hcl-ibm-announce-new-collaboration-help-orga
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/hcl-ibm-announce-new-collaboration-help-organizations-digital-transformation/amp/"
 type: article
 quality: 35
-heat: 45
+heat: 35
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 603
     height: 400
     isCached: true
-
-related:
-  - title: "SYSTRAN Partners with TED to Create Specialized Translation Models Expanding Professional Applications of Machine Translation"
-    excerpt: "PRNewswire/ -- SYSTRAN, the leader in AI-based translation technology, announces its new partnership with TED, a nonprofit organization devoted to Ideas"
-    publishedDateTime: 2020-09-30T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/systran-partners-with-ted-to-create-specialized-translation-models-expanding-professional-applications-of-machine-translation-301141876.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 12
-    images:
-      - url: "https://mma.prnewswire.com/media/1227311/LOGO_SYSTRAN_VERTICAL_RVB_4K.jpg?p=facebook"
-        width: 2700
-        height: 1414
-        isCached: true
 
 secured: "cc2Cqs46HylARqze0I1rYhUAA5bP5hiHd8NmKbqIerzhWci8JT6XXf8PLCVUEStaAY0CpEEKW1kv5x1VXAML2Gg00YKfKgJBEreYBU4fuQCExhzQsFgCFfIgRa3X7rwN5LH04lJDI69OKCE3OkzkI36X7y6njzzTw+m0XtiskVwDbUbVi8Oy8mXTXqAKvzEteSM6z5WBBObb6AeAtVGdai9ZAR+bWFjvZjmpV24MC3yDVSUJrG8Mq1wp0Bol8XP7TiVUw3Ic4k/abkPOUQRBApj81pZQtVeJj2wPfXAltMKZ5Cbn2OyA2p6OvXYHsuHd3315lEbJ3M12Nvil3EgyNJcKnCjKWG6UNQxmVds7daGM7LcwONhZl75PF36SMqiv80TJJmP0VLpQAYPwsc2T4XotIEVltKVE8Yag8IYH0Tzi4BTrbRe8w3x8V9VI/ywgQDvPQX014T0HgFrUmmvhPYB9Y43CZO6bnEYRdT41AoTIDC0TnYsS+jG3unDXjcHRlGR18zXyXDV7KNuB2HzJgQ==;ceRFx/40LkWlbwehs1AiAw=="
 ---

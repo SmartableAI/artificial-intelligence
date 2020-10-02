@@ -2,6 +2,615 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-09-14-ai-eye-aws-nasdaqgs-amzn-and-nfl-debuting-six-new-insights-through-next-gen-stats-platform.md",
+      "title": "AI Eye: AWS (NasdaqGS: $AMZN) And NFL Debuting Six New Insights Through Next Gen Stats Platform",
+      "excerpt": "AIEye Episode 428: AWS (NasdaqGS: $AMZN) and #NFL Debuting Six New Insights Through Next Gen Stats Platform, Schlumberger (NYSE: $SLB) Collaborating with IBM (NYSE: $IBM) and Red Hat on Oil & Gas Digital Transformation AI in Cybersecurity Market to Reach $101.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/instablog/776842-investorideas-com/5495383-ai-eye-aws-nasdaqgs-amzn-and-nfl-debuting-six-new-insights-through-next-gen-stats-platform",
+      "originalUrl": "https://seekingalpha.com/instablog/776842-investorideas-com/5495383-ai-eye-aws-nasdaqgs-amzn-and-nfl-debuting-six-new-insights-through-next-gen-stats-platform",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/uploads/2020/9/9/776842-15996764639220161.jpg",
+          "width": 387,
+          "height": 365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-13T23:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-nvidia-acquires-arm-to-shake-up-chip-industry.md",
+      "title": "NVIDIA Acquires ARM to Shake Up Chip Industry",
+      "excerpt": "NVIDIA’s massive purchase of ARM for $40 billion-plus will have some profound implications on AI and its rival, Intel.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/pc-hardware/nvidia-acquires-arm-to-shake-up-chip-industry",
+      "originalUrl": "https://www.eweek.com/pc-hardware/nvidia-acquires-arm-to-shake-up-chip-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2020/09/NIVIDA.Arm.logos.jpeg?alias=social_image",
+          "width": 560,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-13T23:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-nvidia-confirms-its-buying-arm-for-40b-to-expand-its-ai-efforts.md",
+      "title": "Nvidia confirms it’s buying Arm for $40B to expand its AI efforts",
+      "excerpt": "Graphics hardware and AI giant Nvidia has confirmed its long-rumored acquisition of UK-based chip design firm Arm in a $40 billion transaction.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/14/nvidia-confirms-its-buying-arm-for-40b-to-expand-its-ai-efforts/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/14/nvidia-confirms-its-buying-arm-for-40b-to-expand-its-ai-efforts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/ARM-x-Nvidia-hed-796x419.jpg",
+          "width": 796,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/14/nvidia-confirms-its-buying-arm-for-40b-to-expand-its-ai-efforts/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/14/nvidia-confirms-its-buying-arm-for-40b-to-expand-its-ai-efforts/amp/",
+      "publishedDateTime": "2020-09-13T21:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-nvidia-will-buy-arm-for-up-to-40-billion-combining-smartphone-gpu-powerhouses.md",
+      "title": "Nvidia will buy Arm for up to $40 billion, combining smartphone, GPU powerhouses",
+      "excerpt": "Nvidia is set to buy Arm for as much as $40 billion, the largest semiconductor deal ever. Nvidia says that it will use Arm's CPUs to bolster its AI technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/3574961/nvidia-will-buy-arm-for-up-to-40-billion-combining-smartphone-gpu-powerhouses.html",
+      "originalUrl": "https://www.pcworld.com/article/3574961/nvidia-will-buy-arm-for-up-to-40-billion-combining-smartphone-gpu-powerhouses.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2017/05/nvidia-volta-tesla-v100-2-100722222-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/3574961/nvidia-will-buy-arm-for-up-to-40-billion-combining-smartphone-gpu-powerhouses.amp.html",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3574961/nvidia-will-buy-arm-for-up-to-40-billion-combining-smartphone-gpu-powerhouses.amp.html",
+      "publishedDateTime": "2020-09-13T20:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-arm-uk-based-chip-designer-sold-to-nvidia.md",
+      "title": "ARM: UK-based chip designer sold to Nvidia",
+      "excerpt": "But experts say one risk Nvidia faces is that the takeover could encourage ARM's wider client list to shift focus to a rival type of chip technology, which lags behind in terms of",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/technology-54142567?intlink_from_url=&link_location=live-reporting-story",
+      "originalUrl": "https://www.bbc.co.uk/news/technology-54142567?intlink_from_url=&link_location=live-reporting-story",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/13BD5/production/_113835808_armchip.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/amp/technology-54142567",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-54142567",
+      "publishedDateTime": "2020-09-13T18:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-ibm-pushes-for-us-to-limit-facial-recognition-system-exports.md",
+      "title": "IBM pushes for US to limit facial recognition system exports",
+      "excerpt": "In a letter [PDF] to the Commerce Department, IBM highlighted the need for tighter export controls for facial recognition technologies that employ for what it referred to as \"1-to-many\" matching. These suggested controls include controlling the export of both the high-resolution cameras used to collect data and the software algorithms used to analyse and match that data against a database of images,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/",
+      "originalUrl": "https://www.zdnet.com/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/",
+      "publishedDateTime": "2020-09-13T18:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-nvidia-to-officially-buy-arm-focus-on-ai-promises-neutrality.md",
+      "title": "NVIDIA to officially buy Arm, focus on AI, promises neutrality",
+      "excerpt": "Putting all speculation to rest, NVIDIA has finally announced that it is making an official bid to acquire Arm Limited from SoftBank. While the final say will be with regulators, this would mean",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/nvidia-to-officially-buy-arm-focus-on-ai-promises-neutrality-13637861/",
+      "originalUrl": "https://www.slashgear.com/nvidia-to-officially-buy-arm-focus-on-ai-promises-neutrality-13637861/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/09/nvidia-arm.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/nvidia-to-officially-buy-arm-focus-on-ai-promises-neutrality-13637861/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidia-to-officially-buy-arm-focus-on-ai-promises-neutrality-13637861/amp/",
+      "publishedDateTime": "2020-09-13T17:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-nvidia-to-acquire-arm-for-40-billion-creating-worlds-premier-computing-company-for-the-age-of-ai.md",
+      "title": "NVIDIA to Acquire Arm for $40 Billion, Creating World's Premier Computing Company for the Age of AI",
+      "excerpt": "Unites NVIDIA's leadership in artificial intelligence with Arm's vast computing ecosystem to drive innovation for all customers NVIDIA will expand Arm's",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/nvidia-to-acquire-arm-for-40-billion-creating-worlds-premier-computing-company-for-the-age-of-ai-2020-09-13-191842137",
+      "originalUrl": "https://www.marketwatch.com/press-release/nvidia-to-acquire-arm-for-40-billion-creating-worlds-premier-computing-company-for-the-age-of-ai-2020-09-13-191842137",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-13T17:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-nba-playoffs-the-clippers-arent-playing-like-the-title-favorites.md",
+      "title": "NBA Playoffs: The Clippers aren't playing like the title favorites",
+      "excerpt": "The Nuggets have impressively rallied from down 16 in Game 5 and down 19 in Game 6 to force Game 7 on Tuesday (9 p.m. ET on ESPN). Nikola Jokic, who had 34 points (his most this postseason), is an All-NBA player who is performing like one.",
+      "sourceUrl": null,
+      "webUrl": "https://inside-com.breezy.hr/",
+      "originalUrl": "https://www.espn.com/nba/story/_/id/29878128/nba-playoffs-clippers-playing-title-favorites",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://breezy-social-images.imgix.net/442d93c02549/social-portal.png?auto=format&h=600",
+          "width": 1143,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-13T15:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ESPN",
+        "domain": "espn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-uae-israeli-educational-institutions-to-collaborate-on-ai-research.md",
+      "title": "UAE, Israeli educational institutions to collaborate on AI research",
+      "excerpt": "The MoU is the first signed between Israeli and UAE higher education bodies, intending to \"advance the development and use of artificial intelligence as a tool for progress.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.jpost.com/middle-east/uae-israeli-educational-institutions-to-collaborate-on-ai-research-642090",
+      "originalUrl": "https://www.jpost.com/middle-east/uae-israeli-educational-institutions-to-collaborate-on-ai-research-642090",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/463478",
+          "width": 640,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://m.jpost.com/middle-east/uae-israeli-educational-institutions-to-collaborate-on-ai-research-642090/amp",
+      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/middle-east/uae-israeli-educational-institutions-to-collaborate-on-ai-research-642090/amp",
+      "publishedDateTime": "2020-09-13T12:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jerusalem Post Blogs",
+        "domain": "jpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-develop-ml-applications-with-the-glow-neural-network-compiler-and-tensorflow-lite-for-imx-rt-crossover-mcus.md",
+      "title": "Develop ML Applications with the Glow Neural Network Compiler and TensorFlow Lite for i.MX RT Crossover MCUs",
+      "excerpt": "TensorFlow Lite, as an inference engine, is one such example of a deep learning tool that has gained tremendous popularity in recent years. A relative newcomer to this field is Glow, the open source neural network compiler. This session explores the trade ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.allaboutcircuits.com/tech-days/summer-2020/nxp-semiconductors/webinars/develop-ml-applications-with-the-glow-neural-network-compiler-and-tensorflow-lite-for-i.mx-rt-crossover-mcus/",
+      "originalUrl": "https://www.allaboutcircuits.com/tech-days/summer-2020/nxp-semiconductors/webinars/develop-ml-applications-with-the-glow-neural-network-compiler-and-tensorflow-lite-for-i.mx-rt-crossover-mcus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.allaboutcircuits.com/uploads/tech-days/NXP_ImageCodeGraphic_Op01v042_%28002%29.jpg",
+          "width": 2400,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-13T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "All About Circuits",
+        "domain": "allaboutcircuits.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-how-forza-uses-neural-networks-to-evolve-its-racing-ai.md",
+      "title": "How Forza Uses Neural Networks To Evolve Its Racing AI",
+      "excerpt": "Today on War Stories, Ars Technica is joined by Dan Greenawalt, Creative Director of the Forza franchise, who takes us through the colossal potential (and many challenges) of utilizing deep neural networks to build sophisticated racing AI.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/video/watch/war-stories-how-forza-uses-neural-networks-to-evolve-its-racing-ai",
+      "originalUrl": "https://arstechnica.com/video/watch/war-stories-how-forza-uses-neural-networks-to-evolve-its-racing-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_450,q_80,w_800/v1599844552/arstechnica_war-stories-forza.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-13T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-can-ai-solve-one-of-the-oldest-mysteries-of-linguistics.md",
+      "title": "Can A.I. solve one of the oldest mysteries of linguistics?",
+      "excerpt": "Lost languages like Linear A have confounded researchers for decades, but as artificial intelligence advances, could technology crack the case?",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/features/can-ai-solve-lost-languages/",
+      "originalUrl": "https://www.digitaltrends.com/features/can-ai-solve-lost-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/tourist-girl-admiring-medinet-habu-temple-luxor-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/features/can-ai-solve-lost-languages/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/can-ai-solve-lost-languages/?amp",
+      "publishedDateTime": "2020-09-13T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-13-waymos-head-of-lidar-explains-how-the-advanced-laser-tech-went-from-science-fiction-to-being-a-vital-tool-for-self-driving-cars.md",
       "title": "Waymo's head of lidar explains how the advanced laser tech went from science fiction to being a vital tool for self-driving cars",
       "excerpt": "Verghese spends his time developing new laser radars to compliment the evolving Waymo suite of hardware and software technologies.",
@@ -564,606 +1173,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-even-if-elon-musks-neuralink-brain-chip-never-gives-us-telepathy-it-could-do-wonders-for-animal-testing.md",
-      "title": "Even if Elon Musk's Neuralink brain chip never gives us telepathy, it could do wonders for animal testing",
-      "excerpt": "Elon Musk hosted a live demo from his company Neuralink showing a pig named Gertrude with a computer chip in her brain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/elon-musk-neuralink-animal-testing-benefits-2020-9",
-      "originalUrl": "https://www.businessinsider.com/elon-musk-neuralink-animal-testing-benefits-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f5b555b7ed0ee001e25eb96?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-neuralink-animal-testing-benefits-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-neuralink-animal-testing-benefits-2020-9?amp",
-      "publishedDateTime": "2020-09-13T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-my-exploration-with-and-exploitation-of-aws-deepracer.md",
-      "title": "My exploration with and exploitation of(?) AWS DeepRacer",
-      "excerpt": "After some searching, I found out that DeepRacer is “an autonomous 1/18th scale race car designed to test RL [reinforcement learning] models by racing on a physical track” made by Amazon Web ...",
-      "sourceUrl": null,
-      "webUrl": "https://medium.com/@notyourtypicalSTEMasian/my-exploration-with-and-exploitation-of-aws-deepracer-3646ae152e8f",
-      "originalUrl": "https://medium.com/@notyourtypicalSTEMasian/my-exploration-with-and-exploitation-of-aws-deepracer-3646ae152e8f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1070/1*5QeB4uAfPA0RLDrPtLFwTQ.png",
-          "width": 1070,
-          "height": 366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-13T01:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-latin-america-self-driving-car-market-2023-strategic-assessment-by-top-players.md",
-      "title": "Latin America Self-driving Car Market 2023| Strategic Assessment By Top Players",
-      "excerpt": "Sep 13, 2020 (AmericaNewsHour) -- Latin America self-driving car market A self-driving car, also known as the driverless car or an autonomous car or",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/latin-america-self-driving-car-market-2023-strategic-assessment-by-top-players-2020-09-13?mod=mw_quote_news",
-      "originalUrl": "https://www.marketwatch.com/press-release/latin-america-self-driving-car-market-2023-strategic-assessment-by-top-players-2020-09-13?mod=mw_quote_news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-12T22:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-virginia-graves-receives-recognition-for-decades-of-public-service.md",
-      "title": "Virginia Graves receives recognition for decades of public service",
-      "excerpt": "Even after working as a nurse in the Korean War and caring for patients in the W.G. Bill “Hefner” VA Medical Center for decades, Virginia Graves wasn’t done serving people. That’s why she was excited to join the Nursing Home Advisory Committee,",
-      "sourceUrl": null,
-      "webUrl": "https://www.salisburypost.com/2020/09/13/virginia-graves-receives-recognition-for-decades-of-public-service/",
-      "originalUrl": "https://www.salisburypost.com/2020/09/13/virginia-graves-receives-recognition-for-decades-of-public-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.salisburypost.com/wp-content/uploads/sites/9/2020/09/0913-Graves1.jpg",
-          "width": 622,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-12T21:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Salisbury Post",
-        "domain": "salisburypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-switch-4k-gaming-could-be-added-with-new-dock-chip-swap-ai-upscaling.md",
-      "title": "Switch 4K gaming could be added with new dock chip swap, AI upscaling",
-      "excerpt": "Nintendo reportedly tells developers to update their games to run at 4K, hinting the new Switch model revision will output 4K.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/75046/switch-4k-gaming-could-be-added-with-new-dock-chip-swap-ai-upscaling/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/75046/switch-4k-gaming-could-be-added-with-new-dock-chip-swap-ai-upscaling/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tweaktown.com/images/news/7/5/75046_5_new-switch-may-support-4k-output-for-uhdtvs-coming-early-2021.jpg",
-          "width": 620,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.tweaktown.com/news/75046/switch-4k-gaming-could-be-added-with-new-dock-chip-swap-ai-upscaling/amp.html",
-      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/75046/switch-4k-gaming-could-be-added-with-new-dock-chip-swap-ai-upscaling/amp.html",
-      "publishedDateTime": "2020-09-12T17:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-facebooks-universal-music-translator.md",
-      "title": "Facebook’s Universal Music Translator",
-      "excerpt": "Star Trek has its universal language translator and now researchers from ... was also used in the recently announced Google Duplex AI. The inspiration for it came from the human ability to ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/06/02/facebooks-universal-music-translator/",
-      "originalUrl": "https://hackaday.com/2018/06/02/facebooks-universal-music-translator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/05/universal_music_translation_fe1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-artificial-intelligence-and-the-future-of-food-industry.md",
-      "title": "Artificial Intelligence and the future of food industry",
-      "excerpt": "It uses Artificial Intelligence (AI) to help you with recipes that you can make with the ingredients you input. It’s an application that teamed with Bon Appetite, a recipe app, and can read up the chemical compositions of hundreds of ingredients and analyse 10,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/lifestyle/food/2020/sep/13/artificial-intelligence-and-the-future-of-food-industry-2195156.html",
-      "originalUrl": "https://www.newindianexpress.com/lifestyle/food/2020/sep/13/artificial-intelligence-and-the-future-of-food-industry-2195156.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/9/12/w600X390/Foodtech.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/lifestyle/food/2020/sep/13/artificial-intelligence-and-the-future-of-food-industry-2195156.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/lifestyle/food/2020/sep/13/artificial-intelligence-and-the-future-of-food-industry-2195156.amp",
-      "publishedDateTime": "2020-09-12T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-behind-the-eyeballs-of-ai-how-neural-networks-work.md",
-      "title": "Behind the Eyeballs of AI: How Neural Networks Work",
-      "excerpt": "Sometimes it seems like practically every time I ask how a cool piece of new technology works, I get a two letter response: AI.",
-      "sourceUrl": null,
-      "webUrl": "https://medium.com/@a.jeremymah/behind-the-eyeballs-of-ai-how-neural-networks-work-207c31e0b1ff",
-      "originalUrl": "https://medium.com/@a.jeremymah/behind-the-eyeballs-of-ai-how-neural-networks-work-207c31e0b1ff",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*glZLpGmeqtROeg9rWpa1nw.jpeg",
-          "width": 1200,
-          "height": 1058,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-12T15:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-new-age-revolutionised-by-ai-5g-communication-robotics.md",
-      "title": "New age revolutionised by AI, 5G communication, robotics",
-      "excerpt": "The industry experts and researchers from around the world, who gave plenary talks and presented a glimpse of future technology in the post-Corona Virus era during HYDCON 2020 opined that the",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/news/cities/hyderabad/new-age-revolutionised-by-ai-5g-communication-robotics-645250",
-      "originalUrl": "https://www.thehansindia.com/news/cities/hyderabad/new-age-revolutionised-by-ai-5g-communication-robotics-645250",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2020/09/12/998150-robotics.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/news/cities/hyderabad/new-age-revolutionised-by-ai-5g-communication-robotics-645250",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/hyderabad/new-age-revolutionised-by-ai-5g-communication-robotics-645250",
-      "publishedDateTime": "2020-09-12T12:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-brainchip-demonstrates-companys-event-based-ai-neural-processor-at-embedded-vision-summit.md",
-      "title": "BrainChip Demonstrates Company’s Event-Based AI Neural Processor at Embedded Vision Summit",
-      "excerpt": "BrainChip Holdings Ltd. (ASX: BRN), a leading provider of ultra-low power high performance AI technology, today announced its participation at the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/brainchip-demonstrates-companys-event-based-ai-neural-processor-at-embedded-vision-summit-2020-09-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/brainchip-demonstrates-companys-event-based-ai-neural-processor-at-embedded-vision-summit-2020-09-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-12T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-09-12-nvidia-rtx-3090-3080-3070-gpu-specs-price-and-release-date-detailed.md",
-      "title": "Nvidia RTX 3090, 3080, 3070 GPU: Specs, Price, And Release Date Detailed",
-      "excerpt": "Nvidia revealed its new RTX 3000 line of Ampere-powered GPU earlier in the month--the RTX 3090, 3080, and 3070 cards. The new 3000 series is the second generation of RTX graphics cards that will run features like real-time ray tracing with much higher performance than current RTX cards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gamespot.com/articles/nvidia-rtx-3090-3080-3070-gpu-specs-price-and-release-date-detailed/1100-6481673/",
-      "originalUrl": "https://www.gamespot.com/articles/nvidia-rtx-3090-3080-3070-gpu-specs-price-and-release-date-detailed/1100-6481673/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3728918-pcgaming_rtx30series_impressions_20200901_site.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/nvidia-rtx-3090-3080-3070-gpu-specs-price-and-release-date-detailed/1100-6481673/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/nvidia-rtx-3090-3080-3070-gpu-specs-price-and-release-date-detailed/1100-6481673/",
-      "publishedDateTime": "2020-09-12T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-12-hitting-the-books-how-china-uses-ai-to-influence-its-14-billion-citizens.md",
-      "title": "Hitting the books: How China uses AI to influence its 1.4 billion citizens",
-      "excerpt": "Today, states and their actors are waging a digital cold war with artificial intelligence systems at the heart of the fight. In T-Minus AI, the US Air Force’s first Chairperson for Artificial Intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/hitting-the-books-t-minus-ai-michael-kanaan-benbella-books-153007408.html",
-      "originalUrl": "https://www.engadget.com/hitting-the-books-t-minus-ai-michael-kanaan-benbella-books-153007408.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2F3b489de0-e70c-11ea-b7bf-e0c6ee444da8&client=amp-blogside-v2&signature=c0eb11731adb671fa1b36aec2f11faaf4b1635a0",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/hitting-the-books-t-minus-ai-michael-kanaan-benbella-books-153007408.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/hitting-the-books-t-minus-ai-michael-kanaan-benbella-books-153007408.html",
-      "publishedDateTime": "2020-09-12T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-12-israel-and-uae-to-collaborate-on-ai-cloud-computing-for-covid-19.md",
-      "title": "Israel and UAE to collaborate on AI, cloud computing for COVID-19",
-      "excerpt": "Abu Dhabi's Group 42 company, which specializes in artificial intelligence (AI) and cloud computing, is planning to open offices in Israel in order to collaborate on solutions to the coronavirus pandemic,",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpost.com/health-science/israel-and-uae-to-collaborate-on-ai-cloud-computing-for-covid-19-642036",
-      "originalUrl": "https://www.jpost.com/health-science/israel-and-uae-to-collaborate-on-ai-cloud-computing-for-covid-19-642036",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/462888",
-          "width": 640,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://m.jpost.com/health-science/israel-and-uae-to-collaborate-on-ai-cloud-computing-for-covid-19-642036/amp",
-      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/health-science/israel-and-uae-to-collaborate-on-ai-cloud-computing-for-covid-19-642036/amp",
-      "publishedDateTime": "2020-09-12T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jerusalem Post Blogs",
-        "domain": "jpost.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
