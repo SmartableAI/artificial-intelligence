@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4H52M51S
 publishedDateTime: 2019-06-02T08:22:52Z
-heat: 177
+heat: 167
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JMUxmLyrhSk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 

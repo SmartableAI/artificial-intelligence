@@ -2,7 +2,7 @@
 title: "Machine Learning with ML.NET"
 excerpt: "Welcome to Machine Learning with ML.NET! In this introductory video series we will introduce the concept of Machine Learning, what you can do with various tooling, and how to get started with ML.NET!"
 type: collection
-heat: 66
+heat: 64
 
 provider:
   name: dotNET
