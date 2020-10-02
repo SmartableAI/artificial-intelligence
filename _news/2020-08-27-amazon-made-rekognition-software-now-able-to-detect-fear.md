@@ -16,6 +16,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Computer Vision
 
 images:
   - url: "https://mondrian.mashable.com/2019%252F08%252F14%252F5c%252Fd535431604e94fd58731c9b7cc541e31.7b409.jpg%252F1200x630.jpg?signature=kObCpPJ-dBTpK78Z0j4YY8TPxt4="

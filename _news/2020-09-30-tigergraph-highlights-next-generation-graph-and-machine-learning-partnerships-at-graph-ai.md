@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-30T15:00:00Z
 originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-software-artificial-intelligence-81c1e586ca815f19a0089c4cc29cdd48"
 webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-software-artificial-intelligence-81c1e586ca815f19a0089c4cc29cdd48"
 type: article
-quality: 42
+quality: 44
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

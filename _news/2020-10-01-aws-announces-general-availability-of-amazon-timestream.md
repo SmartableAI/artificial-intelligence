@@ -1,18 +1,18 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Timestream"
-excerpt: "New serverless time series database for IoT and operational applications can scale to process trillions of time series events per day up to 1,000 times faster than relational databases, and at as low as 1/10th the cost Guardian Life,"
-publishedDateTime: 2020-09-30T23:15:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20200930006011/aws-announces-general-availability-of-amazon-timestream"
-webUrl: "https://www.morningstar.com/news/business-wire/20200930006011/aws-announces-general-availability-of-amazon-timestream"
+excerpt: "Stockhouse.com use cookies on this site. By continuing to use our service, you agree to our use of cookies. Cookies are used to offer you a better browsing experience and to analyze our traffic. We also use them to share usage information with our"
+publishedDateTime: 2020-09-30T23:43:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2020/09/30/aws-announces-general-availability-of-amazon-timestream"
+webUrl: "https://stockhouse.com/news/press-releases/2020/09/30/aws-announces-general-availability-of-amazon-timestream"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AWS AI
@@ -45,6 +45,6 @@ related:
         height: 511
         isCached: true
 
-secured: "7PVWB5ZBtTfBKiFHXXldDbwwj7LGGgHCeCLM2T2cxtzxL4665jdshvuZ6FgQ51nRTPSANrfjQEOYOD9/79L+Ho7UbWGVE7F4yd/IAmJ6x1Dzbi9rO19x7gbLYkX4m/KwxagJc3LmL0EQMbe0DF+dyqP9Zn9RtpYyHW9TRcbb6z78y/mmVWqavCyApeu/JqYX8msSL7H8M9FH6hp+fMo5+IuLDdwocs42gYcm2XRe7aoOKuAD2Cfr2z2sojOpmxRKfPN/ADUoydSJf3emtLDsxhyPQZDRaxe7xvUibyH82JP+DAr+CQPrc1aFr7o0XrL8Si+ixzD7YWZ1Tuwml0ULIOSKFLQmSc8BxXaqXN7pQAs=;VGXz845xKAhQw47O6AeMIw=="
+secured: "L3KxTGX6KY5uwg/rvYvjsZ91BybI0C2FmsUNtEhwaMc/vYQRkTay/Vdq7MZl+J/hsMerVfMiXx0dQDGO0HoFDDXQLwoOZN+aRvCzAyCBYwmumoDzFUwf9u+LfQHunFRQaPfhRyIuI6PRZ/cA/L1w0zyiXogn5PkeTdTlIAk4JNlupj1XZX9B10D47LsbnXAtHMoxGLBnYCjLA89TfbStgOA/qUcfuPACG5MhInwxiIs38C8uvL28BJoFCV4n0oV/6Air8mUOMySRZpMCKTNKTZCR/XL/ir59FO6jthGqW00p6tUlB74AIh8JCmcGOFwESMKbb3rRmO6mMm5rHJxTwpBLuX06cd6FBWWBY1DrQe8=;8h+dgKgd6iKpifHyn5zsaQ=="
 ---
 

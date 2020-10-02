@@ -26,13 +26,13 @@ topics:
 
 related:
   - title: "AWS Announces General Availability of Amazon Timestream"
-    excerpt: "New serverless time series database for IoT and operational applications can scale to process trillions of time series events per day up to 1,000 times faster than relational databases, and at as low as 1/10th the cost Guardian Life,"
-    publishedDateTime: 2020-09-30T23:15:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20200930006011/aws-announces-general-availability-of-amazon-timestream"
+    excerpt: "Stockhouse.com use cookies on this site. By continuing to use our service, you agree to our use of cookies. Cookies are used to offer you a better browsing experience and to analyze our traffic. We also use them to share usage information with our"
+    publishedDateTime: 2020-09-30T23:43:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2020/09/30/aws-announces-general-availability-of-amazon-timestream"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
+      name: Stockhouse
+      domain: stockhouse.com
     quality: 34
   - title: "AWS launches Amazon Timestream, a serverless time series database for IoT and operational applications"
     excerpt: "AWS announced the general availability of Amazon Timestream, a new time series database for IoT and operational applications."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/09/27/how-to-improve
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/09/27/how-to-improve-bot-detection-with-machine-learning/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "ML.NET Improves Object Detection"
+    excerpt: "In the monthly September update to ML.NET -- bringing it to v1.5.2 -- Microsoft introduced: The ability to train custom object detection models via Model Builder, leveraging Azure and AutoML The ability to locally train image classification models with the ..."
+    publishedDateTime: 2020-09-28T22:46:00Z
+    webUrl: "https://visualstudiomagazine.com/articles/2020/09/28/mlnet-sep20.aspx"
+    type: article
+    provider:
+      name: Visual Studio Magazine
+      domain: visualstudiomagazine.com
+    quality: 39
+    images:
+      - url: "https://visualstudiomagazine.com/-/media/ECG/visualstudiomagazine/Images/introimages/0116vsm_PVogelTips_FileTwice.jpg"
+        width: 647
+        height: 450
+        isCached: true
 
 secured: "PEcyqhJAD4s0wArLTbHVopT15dzpuxQRXOIwOFLh8Ub+UvqJcf9zZzZTiUSPbaoNiFRiGhOgb535D0Wrh6qYbD6gwBuiNx00O/iCBtxH1icyi8bTC9eycSsAPFCpjsYUQgbjMcE8ZHvyi+pnDiaYPNLq2Zl5tsy5PZRjjVQGsxuIZ6EBxxYwPJb3de2wqGnwQcO2z4wmq9SWiDvYx92jzINI5C8r5pGKgYPo5n3fZlCYYn3xhU+QM3yWLpWFrLPx1I06clTIAA2KJHFLMTkr9iGW/6niWcJM7Xp+FKycciiOO2ncomIehnBRMNsfBBHyAj9djcyZ2m3MerqEJIjujvEnmYi6hGTHitaBQhmxxNOTbkapAZ2TZHH+1rtB16GLSo2+1sYUNFzFgBxVVF7swEM9Vfugy+yGaNfVl1tfQDih7CIuGjaoPMoIVQlEUv91DawuD2fTLLfPhE2r+R/J0A0YPRCxH00N4qPMDWsel99+wYzEVjRapgZiGBet9Da5eEnHPwv/fwVpUKX1m2WK6g==;AEnsO4mOmXW9T19/RRhvEQ=="
 ---

@@ -1,27 +1,31 @@
 ---
 category: news
 title: "SensiML Integrates Google's TensorFlow Lite for Microcontrollers"
-excerpt: "AI tools for building intelligent IoT endpoints, today announced that its SensiML Analytics Toolkit now seamlessly integrates with Google's TensorFlow Lite for Microcontrollers. Developers working ..."
-publishedDateTime: 2020-09-16T12:40:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/sensiml-integrates-googles-tensorflow-lite-for-microcontrollers-301131982.html"
-webUrl: "https://www.prnewswire.com/news-releases/sensiml-integrates-googles-tensorflow-lite-for-microcontrollers-301131982.html"
+excerpt: "Developers working with Google's TensorFlow Lite for Microcontrollers open source neural network inference engine now have the option to leverage SensiML's powerful automated data labeling and ..."
+publishedDateTime: 2020-09-16T15:41:00Z
+originalUrl: "https://www.marketwatch.com/press-release/sensiml-integrates-googles-tensorflow-lite-for-microcontrollers-2020-09-16?dist=bigcharts&tesla=y"
+webUrl: "https://www.marketwatch.com/press-release/sensiml-integrates-googles-tensorflow-lite-for-microcontrollers-2020-09-16?dist=bigcharts&tesla=y"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - TensorFlow
   - Google AI
   - AI
+  - TensorFlow
 
 images:
-  - url: "https://mma.prnewswire.com/media/891804/SensiML_Logo.jpg?p=facebook"
-    width: 2059
-    height: 1079
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "vFHV4dcQ1/MM9yCwmGerq3hIR2ePaJnIm0g2S+WMkG+/wxMQurN/o2gNA01x4W3SeQKm8Xb7Mc/0FJtn5MqRgZ1S57o87isCCPkbHeo2OtcK4tud2l9/UmhXABrP1yAJ90ZC7EKSucHU036H6XLHbWjCwMLz3DJhmAmsnme99o/PgVGnuWWDxN8qwqO5N209QCUPpOi23IyCyUblbg5f42vk0MagVyBIJBVIj6b6IrP47UF8CeFbQBnY5h3/DtipwLnYpTUr/LDDDsytqZmeW78kWd70SSH+bZPvuTV12JYrECqE8UsskEvGokRwWuKED6FGRojj7OyB9Xx0KBsd34j/YUvsO8qtWOutufAHIhA=;J9y4UfCcr/EGLtvDyXvCVw=="
+secured: "EQ717E/dIc4s+M/432KXNx43rVP6VQC+mEzXq/OLLWbhrbVM+fHTNMYn/Sso0mnzbubyisl7sfXLV2xaOMTfWYH3nInZkQWABBRrYWLZCjBfCUuEmRmWevcwpKNQQHsbSVf0Vzz7xdICC7cGe1gFmmiphTKgWnyXuPjx4bBxRkpZ4192qPjok2kHo30o2eY9WflHILpKzTyA/QxN+Ij329SCUYCh78yCU6CjQrUS/7JfPB5JdxjZhVdmFtimH2dEUZQgKsRN9CsbcK51eKd+hKccr7Dyb3JHvP34nNjsXq8beLebKknvzBV3mL76LJlh3XEyc5iS8QDAG943rjefEnKpsIC8WUEjqfOmXJPztYE=;4RWAKjOrOHpmDgpBrvxnJg=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/alibaba-cloud-nears-profitability-as-cust
 ampWebUrl: "https://www.zdnet.com/google-amp/article/alibaba-cloud-nears-profitability-as-customers-move-from-iaas-into-ai-data-analytics-workloads/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alibaba-cloud-nears-profitability-as-customers-move-from-iaas-into-ai-data-analytics-workloads/"
 type: article
-quality: 75
-heat: 85
+quality: 77
+heat: 87
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://zdnet4.cbsistatic.com/hub/i/2020/10/01/a2830110-7534-4682-ad13-fe18a31a80f6/alibaba-cloud-stack.png"
@@ -45,6 +46,6 @@ related:
         height: 400
         isCached: true
 
-secured: "DRyMWLc0dG1ymznMaYFpH/zFP3PFZiyVYf7Pj+co26tVJODok07fz6YYoHwhOnmC/tyD9/kwIDNBraSQ+gD1duL18RLFqIqlD/990VuK6kfP3+TItSGsogP/vk4ZoFxWPdUJWte7Lb1W0Do6Kb4PH/khiuLwrNl4Jr4yL6ulryQtpBa/Px0XiQDoJbQkUL+F052OaWryyT0vkpzFOIBmlvVI60BpQrzd+TIGQT9pFHYpIgjEQOSHQILSwCOeAc6KVvRwBSRo6JVVpjXvERrUgl7bjBt6cFykyxbAXY1yvJpvmwbOeqYum5nJVhDCdNKC6OcSp7CuVjM+Go/jRx+DvbKALBnBisehZzLFamhIH6Y=;cQUcKsAk1lj2Cd0JsSX1zA=="
+secured: "swFeAopPhjxEJAV6QTawswd1FANf8VjkUIQ4RR7WGK3AQhvOSvzqhYpWFYku3Iiui70V+qngQUHYf9HQ4a7eJmI2SknWxS/sO0AYiukQdYtU7MCPp283/YylAgkJicZM6sgLmsmNkaVbOzV3Hx8546IQMEYiIY7MK6XU/SsEdJqdPu0Mp/YT8Yuel7sdBOMtM7LuueuhIQbabMaOXbhy0Peeq3IiIYBcUgnjWSd7hUdGYELIl/jiKBTG0Tz6NBHSM0x1fFE6FI1aN/D3/SR810qMOVB0SWygwrmA8AYDrvGsJbrP6eETybCL5SBuWwE3zeSX7w+8vDELgKZNn7zCNXijHxYUc1Lwjz6UYYG/9x2pdtRFk9QRf22UeFWbRh+W585T4jOyGBW7BkGGoQ/SGAtDWwlx2lIA6zVgK5RLQa4Rv66LHiTpFLBDUjnbtlKyfHUEnsK+5vnuCs5qyV3Qf46j9Wk/gAwoGZy3/NDVD/svP2f3i87FUkHhltB4B4WujMrY4aapt06w/CTBLVf+Rg==;ZUAcuVXlXS2REoubdyqyjQ=="
 ---
 

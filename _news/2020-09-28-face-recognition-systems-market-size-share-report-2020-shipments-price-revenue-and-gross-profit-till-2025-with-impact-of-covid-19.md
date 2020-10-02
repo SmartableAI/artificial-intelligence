@@ -28,6 +28,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Augmented Intelligence Market Forecast to 2027 - COVID-19 Impact and Global Analysis"
+    excerpt: "The \"Augmented Intelligence Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Technology, Enterprise Size, End-User, and Geography\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2020-10-02T09:39:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/augmented-intelligence-market-forecast-to-2027-covid-19-impact-and-global-analysis-1029643338"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 25
+
 secured: "ANBrmjhaBIzLG679P8hBjpNUFIYU/xP/LQmbx7U2OL5iHM6UdogWfe6jZDwRuiQVmKhYGTk7vh8o0UB61DHxFlk71Ox2a1dPPpARNoNTqgSn0Usfn/OXGKLbdDbcsXRMY0TNixowxYeoJEd/qfPLLFYtl6cLMzM0j+KYtOb2WVizjhP0YnTe2XZHNOrPMCCigpcjqZ/2iKmwQc1ut2mO8xnkBWCpaRXITS2t0IhS1EvytAOgn+FFZb4gUiBNPeW9b9OLLkQcbfHEDLTIG5IqiYS5bsKCqA0kVNbJTZn3lNYhoqzWrpbBXGLy9LAoOR4yLV5tIvpgReRXEJZ2z63c53UFcKE7sC5jgvCX2dSaYmk=;s0JYtcWSTAiu+pZuO+i6xA=="
 ---
 

@@ -108,19 +108,19 @@
     {
       "path": "_news/2020-09-16-sensiml-integrates-googles-tensorflow-lite-for-microcontrollers.md",
       "title": "SensiML Integrates Google's TensorFlow Lite for Microcontrollers",
-      "excerpt": "AI tools for building intelligent IoT endpoints, today announced that its SensiML Analytics Toolkit now seamlessly integrates with Google's TensorFlow Lite for Microcontrollers. Developers working ...",
+      "excerpt": "Developers working with Google's TensorFlow Lite for Microcontrollers open source neural network inference engine now have the option to leverage SensiML's powerful automated data labeling and ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/sensiml-integrates-googles-tensorflow-lite-for-microcontrollers-301131982.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/sensiml-integrates-googles-tensorflow-lite-for-microcontrollers-301131982.html",
+      "webUrl": "https://www.marketwatch.com/press-release/sensiml-integrates-googles-tensorflow-lite-for-microcontrollers-2020-09-16?dist=bigcharts&tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/sensiml-integrates-googles-tensorflow-lite-for-microcontrollers-2020-09-16?dist=bigcharts&tesla=y",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/891804/SensiML_Logo.jpg?p=facebook",
-          "width": 2059,
-          "height": 1079,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -129,12 +129,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-16T05:40:00-07:00",
+      "publishedDateTime": "2020-09-16T08:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -143,9 +152,9 @@
         "news"
       ],
       "topics": [
-        "TensorFlow",
         "Google AI",
-        "AI"
+        "AI",
+        "TensorFlow"
       ]
     },
     {

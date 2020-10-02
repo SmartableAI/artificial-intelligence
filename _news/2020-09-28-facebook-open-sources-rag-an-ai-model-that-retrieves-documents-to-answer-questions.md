@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2020/09/28/facebook-open-sources-rag-an-ai-m
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/28/facebook-open-sources-rag-an-ai-model-that-retrieves-documents-to-answer-questions/amp/"
 type: article
 quality: 83
-heat: 103
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook’s AI matches people in need with those willing to assist"
+    excerpt: "Facebook's machine learning algorithms can match those in need of help during the pandemic with those willing to provide help, and vice versa."
+    publishedDateTime: 2020-10-02T08:02:00Z
+    webUrl: "https://venturebeat.com/2020/10/02/facebooks-ai-matches-people-in-need-with-those-willing-to-assist/"
+    ampWebUrl: "https://venturebeat.com/2020/10/02/facebooks-ai-matches-people-in-need-with-those-willing-to-assist/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/02/facebooks-ai-matches-people-in-need-with-those-willing-to-assist/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/moderator-e1591354274848.jpeg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Facebook Is Giving Away This Speech Recognition Model For Free"
     excerpt: "Facebook AI recently introduced and open-sourced wav2vec framework for self-supervised learning of representations from raw audio data."
     publishedDateTime: 2020-09-30T11:33:00Z
@@ -59,6 +75,17 @@ related:
         width: 6000
         height: 4500
         isCached: true
+  - title: "Facebook’s new ’embodied A.I’ project aims to build a new breed of robots"
+    excerpt: "Facebook wants to build an army of robot assistants that can wait on us in all kinds of new ways. Well, kind of."
+    publishedDateTime: 2020-09-28T23:19:00Z
+    webUrl: "https://infosurhoy.com/technology/facebooks-new-embodied-a-i-project-aims-to-build-a-new-breed-of-robots/"
+    ampWebUrl: "https://infosurhoy.com/technology/facebooks-new-embodied-a-i-project-aims-to-build-a-new-breed-of-robots/amp/"
+    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/technology/facebooks-new-embodied-a-i-project-aims-to-build-a-new-breed-of-robots/amp/"
+    type: article
+    provider:
+      name: InfoSur Hoy
+      domain: infosurhoy.com
+    quality: 38
 
 secured: "uhGdANU03a8n5D8d2rVEx+3zmB9Bd6t/kwZTOqw+whtbKowbT5qV7iKYYDQVE51iXELMEgP91qEQOVmar1BYtSIWxYhXLaQmpe9TUtY9b53vvssTQ5sAOuArOoqbtY+H038xeidq1kQxlMlQZDoAbFiwjoEoXLnpowwLw9P3lEoT5aflM2WmpAU0tijMGqNiWeocSOxwfWaV97ZAkXOontE8Wlu2HiRDfEA47IZo5B3bPuNUoEGmsf8gNOtTa9LQL+TrFDd/ed6xr5jGaDHZANtVH6RBdAgWPXHnV2vSfJtoyeln4zKetxwntLrvXpcBVKoCsy9A6lqk5HTCNpz67r+3HHXluKcXf4oy/TCnrTH3egKY1Z4bVXE2BLOKpMT3/39/Cidl1kqJ011YG0w9g8TK8BtUFG/uritg9jfJ82WjORtiLC+p/cygpmmujskt/atrzu6I3Ngn9iR6jxgHHSRv6pA1HfVnI/4uhtBbijCRFslM0Q+F9tco2ONj+g2lcmtZqdWOZiNRKBf9YkVONA==;CSl2QPneBR9WwKFOImRUWA=="
 ---
