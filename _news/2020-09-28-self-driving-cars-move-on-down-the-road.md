@@ -36,6 +36,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
+  - title: "Tesla's Self-Driving Cars Can Now Accelerate Through Green Lights Without Driver Approval"
+    excerpt: "You better look twice before crossing an intersection (in a car or especially on foot), because Tesla's fleet of self-driving vehicles have a new capability—driving through green lights without driver confirmation."
+    publishedDateTime: 2020-10-02T17:30:00Z
+    webUrl: "https://hothardware.com/news/tesla-self-driving-cars-roll-through-green-lights"
+    ampWebUrl: "https://amp.hothardware.com/news/tesla-self-driving-cars-roll-through-green-lights"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/tesla-self-driving-cars-roll-through-green-lights"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 50
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/53023/content/Tesla_Model_S.jpg"
+        width: 708
+        height: 386
+        isCached: true
 
 secured: "70rQUAnvUNnscL4nenBW+CAlAJIeR9HLpXW8WWjXA8/zWsmnvRfbDtUbzV7qJ/Z6efsN4K7wcrHozcvjyTPBzSgGk9FRPtq7xSP8ZerwU7OK6KXN2FU7T9HcjjY/KNBNFpd0XUXY92fRqjav76fJzzx+hxVG9LQ9/TGibqeOZXu8sS4UhJobT4Bm3tUdx6l1wM3SOd76zyWBY6whpOxeze4Mi8ICg+Aucsl1IHVw5hM29Yqh405NBYkfvbBcsNrRxF66fESihP+Rz3uTWXmfX5X5Rw4jaMzHAWzw2d/sJOWC4FBqqhF4AJNfdYZbbZS4tJclBq5zGK5skdMuv5LFukkGwwO8Vx5sBFlqqPfAgnU=;id5EVvNb89uWDQTCZC1l1Q=="
 ---

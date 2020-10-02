@@ -26,18 +26,18 @@ topics:
 
 related:
   - title: "Robocorp Cloud – New Groundbreaking Solution to Build a Software Robot Workforce"
-    excerpt: "Robocorp announces its latest release – Robocorp Cloud – which for the first time ever – allows IT developers and programmers"
+    excerpt: "Robocorp announces its latest release – Robocorp Cloud – which for the first time ever – allows IT developers and programmers to orchestrate and run robots straight from the cloud. This new technology significantly improves the way Robotic Process Automation (RPA) developers and their teammates operate and maintain their software robot workforce."
     publishedDateTime: 2020-10-01T09:55:00Z
-    webUrl: "https://www.djournal.com/news/nation-world/robocorp-cloud-new-groundbreaking-solution-to-build-a-software-robot-workforce/article_a5e6ef9d-1c89-58a6-8cd6-a5be43cbf72d.html"
+    webUrl: "https://apnews.com/press-release/send2press/technology-business-corporate-news-products-and-services-cloud-computing-ab5dce08ad8fdbf5a83c64efd3d41bfd"
     type: article
     provider:
-      name: Daily Journal
-      domain: djournal.com
+      name: Associated Press
+      domain: apnews.com
     quality: 34
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/custom/image/c4931bce-e1a3-11e6-b934-53284b68f006.jpg"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "w2UgSzkILhljTAEr2u71wqey7EmNEzwc+2AZkiBexaLeBzBNiJ/BLmr4P69iwBGffwCoKkdMdWdmBPDM92W9SEjCeIkRm2I9oyUwSCyHDL+v+RfGMn1Rcr1yoLxQhFqGWYkRqS9lCktSuKS051Mz0Otc0Z6KxN3F3084NyFWqk0S9ql6NEI2UyVGvmGI5FzN5O04zBV8ln9RehfWjIEm2ztUjPToc9UdufD4I2jwdR0SRTiIeCf5fqzEAKqZSLR3qhXhyuyrFNyzor9eGyLCUHrf1fIjgRXkaOOVIIgR8JaRldowlrkHOfgQ43eNvZdNpjMzibVDz+iOG2fMKL5bYioopxxp6LJLDEmo2pvZou0=;HJbchl1o7VxZniF2zp0yWQ=="

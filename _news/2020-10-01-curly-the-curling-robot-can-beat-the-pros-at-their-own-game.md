@@ -7,7 +7,7 @@ originalUrl: "https://www.smithsonianmag.com/smart-news/curly-curling-robot-can-
 webUrl: "https://www.smithsonianmag.com/smart-news/curly-curling-robot-can-beat-pros-their-own-game-180975951/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI Gives Curling Robot the Right Moves"
+    excerpt: "If you didn’t know better, first impressions might lead one to believe that curling is simply a more primitive form of bowling, but slower … and on ice. However, as Klaus-Robert Muller, the machine-learning researcher who recently developed Curly,"
+    publishedDateTime: 2020-10-02T16:38:00Z
+    webUrl: "https://www.manufacturing.net/technology/video/21196417/ai-gives-curling-robot-the-right-moves"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 54
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/10/MM_931_thumb.5f77447f1e98c.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Watch Curly the Curling Robot Beat the Pros at Their Own Game"
     excerpt: "The sport of curling requires such precision and strategy that it’s sometimes referred to as “chess on ice.” Players push 40-pound stones across frozen sheets, rotating the stones just enough that they “curl,"
     publishedDateTime: 2020-10-01T02:26:00Z

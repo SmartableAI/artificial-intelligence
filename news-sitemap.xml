@@ -1,14 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.techrepublic.com/article/ai-and-ethics-one-third-of-executives-are-not-aware-of-potential-ai-bias/</loc>
-    <lastmod>2020-10-02T08:08:00-07:00</lastmod>
+    <loc>https://www.pcworld.com/article/3584530/the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.html</loc>
+    <lastmod>2020-10-02T10:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/7-artificial-intelligence-stocks-to-buy-october-1029644435</loc>
-    <lastmod>2020-10-02T07:37:00-07:00</lastmod>
+    <loc>https://aws.amazon.com/blogs/machine-learning/16671-2/</loc>
+    <lastmod>2020-10-02T09:40:52-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.manufacturing.net/technology/video/21196417/ai-gives-curling-robot-the-right-moves</loc>
+    <lastmod>2020-10-02T09:38:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.digitaltrends.com/features/court-decides-robots-machines-cant-be-inventors/</loc>
+    <lastmod>2020-10-02T09:21:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.techrepublic.com/article/ai-and-ethics-one-third-of-executives-are-not-aware-of-potential-ai-bias/</loc>
+    <lastmod>2020-10-02T08:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -51,6 +69,12 @@
   <url>
     <loc>https://www.forbes.com/sites/bernardmarr/2020/10/02/how-is-artificial-intelligence-used-in-b2b-companies-here-are-powerful-examples/</loc>
     <lastmod>2020-10-01T21:25:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.freepressjournal.in/india/pm-modi-to-inaugurate-global-summit-on-artificial-intelligence-on-oct-5</loc>
+    <lastmod>2020-10-01T18:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1585,8 +1609,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace/article_f6c327bd-10d4-5df0-beed-77fd9ceef60a.html</loc>
-    <lastmod>2020-09-22T05:30:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572</loc>
+    <lastmod>2020-09-22T05:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

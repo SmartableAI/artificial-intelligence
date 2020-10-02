@@ -2,6 +2,191 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-30-worldwide-self-driving-taxi-industry-to-2024-key-leading-countries.md",
+      "title": "Worldwide Self-driving Taxi Industry to 2024 - Key Leading Countries",
+      "excerpt": "PRNewswire/ -- The 'Global Self-driving Taxi Market 2020-2024' report has been added to ResearchAndMarkets.com's",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/worldwide-self-driving-taxi-industry-to-2024-key-leading-countries-1029636271",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/worldwide-self-driving-taxi-industry-to-2024-key-leading-countries-1029636271",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/worldwide-self-driving-taxi-industry-to-2024-key-leading-countries-1029636271",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/worldwide-self-driving-taxi-industry-to-2024-key-leading-countries-1029636271",
+      "publishedDateTime": "2020-09-30T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-detroit-extends-contract-of-facial-recognition-program-that-doesnt-work.md",
+      "title": "Detroit Extends Contract of Facial Recognition Program That Doesn’t Work",
+      "excerpt": "The city’s own police chief admits the technology misidentifies 96 percent of time and yet the city voted to extend its use.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/n7wx8b/detroit-extends-contract-of-facial-recognition-program-that-doesnt-work",
+      "originalUrl": "https://www.vice.com/en/article/n7wx8b/detroit-extends-contract-of-facial-recognition-program-that-doesnt-work",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com//articles/5f749022ec3b770096060224/lede/1601475076793-gettyimages-75287401.jpeg?crop=1xw:0.8462888665997994xh;center,center",
+          "width": 3000,
+          "height": 1687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en_us/article/n7wx8b/detroit-extends-contract-of-facial-recognition-program-that-doesnt-work",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/n7wx8b/detroit-extends-contract-of-facial-recognition-program-that-doesnt-work",
+      "publishedDateTime": "2020-09-30T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-this-ai-advised-me-to-read-the-hunger-games-to-survive-this-cruel-world.md",
+      "title": "This AI advised me to read The Hunger Games to survive this ‘cruel world’",
+      "excerpt": "If you’re unimpressed by the book recommendations provided by your tasteless friends, a new AI tool called GPT-3 Books could help revive your joy of reading. The system is the brainchild of Anurag Ramdasan and Richard Reis.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/30/this-ai-advised-me-to-read-the-hunger-games-to-survive-this-cruel-world/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/30/this-ai-advised-me-to-read-the-hunger-games-to-survive-this-cruel-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Untitled-design-2020-09-30T145811.614-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/30/this-ai-advised-me-to-read-the-hunger-games-to-survive-this-cruel-world/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/30/this-ai-advised-me-to-read-the-hunger-games-to-survive-this-cruel-world/amp/",
+      "publishedDateTime": "2020-09-30T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-researchers-streamline-ptsd-diagnosis-with-machine-learning.md",
+      "title": "Researchers streamline PTSD diagnosis with machine learning",
+      "excerpt": "Post-traumatic stress disorder (PTSD) affects eight million adults in the US, including hundreds of thousands of veterans of the conflicts in Iraq and Afghanistan. And as the COVID crisis continues to take its toll on everyone's mental health,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.html",
+      "originalUrl": "https://medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/combatveteran.jpg",
+          "width": 1920,
+          "height": 1368,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.amp",
+      "publishedDateTime": "2020-09-30T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-using-machine-learning-to-tackle-some-of-the-worlds-biggest-problems-infographic.md",
       "title": "Using machine learning to tackle some of the world’s biggest problems (Infographic)",
       "excerpt": "A look at some of the promising applications of machine learning to benefit society from understanding climate change to finding homes for the homeless.",
@@ -499,7 +684,7 @@
       "originalUrl": "https://www.businessinsider.com/congress-will-try-again-in-2021-on-self-driving-car-reform-2020-9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": null,
       "type": "article",
@@ -1002,200 +1187,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-examsofts-remote-bar-exam-sparks-privacy-and-facial-recognition-concerns.md",
-      "title": "ExamSoft’s remote bar exam sparks privacy and facial recognition concerns",
-      "excerpt": "To administer bar exams in 20 different states next week, ExamSoft is using facial recognition and collecting the biometric data of legal professionals.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/29/examsofts-remote-bar-exam-sparks-privacy-and-facial-recognition-concerns/",
-      "originalUrl": "https://venturebeat.com/2020/09/29/examsofts-remote-bar-exam-sparks-privacy-and-facial-recognition-concerns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/kiana-caton.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/29/examsofts-remote-bar-exam-sparks-privacy-and-facial-recognition-concerns/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/29/examsofts-remote-bar-exam-sparks-privacy-and-facial-recognition-concerns/amp/",
-      "publishedDateTime": "2020-09-29T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-googles-smart-cleanup-taps-ai-to-streamline-data-entry.md",
-      "title": "Google’s Smart Cleanup taps AI to streamline data entry",
-      "excerpt": "Smart Cleanup, an AI-powered Google Sheets feature that automatically detects and removes duplicates and more, is now generally available.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/29/googles-smart-cleanup-taps-ai-to-streamline-data-entry/",
-      "originalUrl": "https://venturebeat.com/2020/09/29/googles-smart-cleanup-taps-ai-to-streamline-data-entry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/29/googles-smart-cleanup-taps-ai-to-streamline-data-entry/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/29/googles-smart-cleanup-taps-ai-to-streamline-data-entry/amp/",
-      "publishedDateTime": "2020-09-29T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2025.md",
-      "title": "Artificial Intelligence In Healthcare Market Growth, Leading Players and Forecast To 2025",
-      "excerpt": "A comprehensive research report created through extensive primary research (inputs from industry experts, companies, stakeholders) and secondary research, the report aims to present the analysis of Global Artificial Intelligence in Healthcare Market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2025-2020-09-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2025-2020-09-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-29T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-tickeron-releases-ai-robots-and-ai-screener-tools-to-support-and-assist-forex-traders.md",
-      "title": "Tickeron Releases AI Robots and AI Screener Tools To Support And Assist Forex Traders",
-      "excerpt": "Tickeron, an artificial and human intelligence platform delivering unparalleled trading insights and analysis, uses its revolutionary new AI-powered features, AI Robots and AI Screener, to provide Forex traders with the information and analysis necessary to be successful.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/tickeron-releases-ai-robots-and-ai-screener-tools-to-support-and-assist-forex-traders-1029630432",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/tickeron-releases-ai-robots-and-ai-screener-tools-to-support-and-assist-forex-traders-1029630432",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/tickeron-releases-ai-robots-and-ai-screener-tools-to-support-and-assist-forex-traders-1029630432",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tickeron-releases-ai-robots-and-ai-screener-tools-to-support-and-assist-forex-traders-1029630432",
-      "publishedDateTime": "2020-09-29T09:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

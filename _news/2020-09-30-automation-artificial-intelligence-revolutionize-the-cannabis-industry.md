@@ -39,22 +39,6 @@ related:
         width: 370
         height: 278
         isCached: true
-  - title: "How Can AI Support Small Businesses During The Pandemic?"
-    excerpt: "VUCA is a term that seems appropriate for the environment Credit Sesame and many businesses have been facing since the pandemic."
-    publishedDateTime: 2020-09-27T23:56:00Z
-    webUrl: "https://www.forbes.com/sites/quora/2020/09/27/how-can-ai-support-small-businesses-during-the-pandemic/"
-    ampWebUrl: "https://www.forbes.com/sites/quora/2020/09/27/how-can-ai-support-small-businesses-during-the-pandemic/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2020/09/27/how-can-ai-support-small-businesses-during-the-pandemic/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f66c44541673f93c14d00c1%2F0x0.jpg"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "The Pandemic Created A Plastics Problem, But AI Can Help"
     excerpt: "In the wake of COVID-19, single-use plastics and other waste materials are growing, creating an opportunity for waste-to-energy plants, especially those equipped with intelligent systems."
     publishedDateTime: 2020-09-28T14:02:00Z
@@ -100,20 +84,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2020/09/data-ai-postpandemic-1-100859727-large.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "How Analytics and AI-driven Processes Will Revolutionize the Industrial Sector"
-    excerpt: "Artificial Intelligence and analytics fall into four categories reflecting the type of insight delivered; these categories are predictive, performance, prescriptive and prognostic insights–the Four P’s of industrial AI."
-    publishedDateTime: 2020-09-28T00:00:00Z
-    webUrl: "https://www.automation.com/en-us/articles/september-2020/analytics-ai-processes-revolutionize-industrial"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 35
-    images:
-      - url: "https://www.automation.com/getmedia/4e040a94-7b96-4132-94d9-6c07174cfd84/Jim-Chappell-sept-2020-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
         isCached: true
   - title: "Harnessing big data and artificial intelligence to predict future pandemic spread"
     excerpt: "During COVID-19, artificial intelligence (AI) has been used to enhance diagnostic efforts, deliver medical supplies and even assess risk factors from blood tests. Now, artificial intelligence is being used to forecast future COVID-19 cases."

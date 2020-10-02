@@ -2,6 +2,201 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-03-the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.md",
+      "title": "The HP Spectre x360 14 gets a lush OLED display and a lot more AI smarts",
+      "excerpt": "The new HP Spectre x360 14 features OLED, while the Spectre x360 13 and Envy x360 upgrade to 11th-gen Tiger Lake processors",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/3584530/the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.html",
+      "originalUrl": "https://www.pcworld.com/article/3584530/the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/10/hp-spectre-x360-14-front-facing_natural-silver-100860561-large.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/3584530/the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.amp.html",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3584530/the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.amp.html",
+      "publishedDateTime": "2020-10-02T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-join-aws-and-nvidia-at-gtc-october-59.md",
+      "title": "Join AWS and NVIDIA at GTC, October 5–9",
+      "excerpt": "Starting Monday, October 5, 2020, the NVIDIA GPU Technology Conference (GTC) is offering online sessions for you to learn AWS best practices to accomplish your machine learning (ML), virtual workstations, high performance computing (HPC), and internet of things (IoT) goals faster and more easily. Amazon",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/16671-2/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/16671-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-02T09:40:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-ai-gives-curling-robot-the-right-moves.md",
+      "title": "AI Gives Curling Robot the Right Moves",
+      "excerpt": "If you didn’t know better, first impressions might lead one to believe that curling is simply a more primitive form of bowling, but slower … and on ice. However, as Klaus-Robert Muller, the machine-learning researcher who recently developed Curly,",
+      "sourceUrl": null,
+      "webUrl": "https://www.manufacturing.net/technology/video/21196417/ai-gives-curling-robot-the-right-moves",
+      "originalUrl": "https://www.manufacturing.net/technology/video/21196417/ai-gives-curling-robot-the-right-moves",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.manufacturing.net/files/base/indm/multi/image/2020/10/MM_931_thumb.5f77447f1e98c.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-02T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Manufacturing",
+        "domain": "manufacturing.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-landmark-court-decision-says-robots-cant-be-inventors-but-the-fight-isnt-over.md",
+      "title": "Landmark court decision says robots can’t be inventors. But the fight isn’t over",
+      "excerpt": "The United Kingdom's highest court tossed out a case that would've established that machines can be creative and win patents for their inventions",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/features/court-decides-robots-machines-cant-be-inventors/",
+      "originalUrl": "https://www.digitaltrends.com/features/court-decides-robots-machines-cant-be-inventors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/imagecomposite_aibrain_200723-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/features/court-decides-robots-machines-cant-be-inventors/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/court-decides-robots-machines-cant-be-inventors/?amp",
+      "publishedDateTime": "2020-10-02T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-ai-and-ethics-one-third-of-executives-are-not-aware-of-potential-ai-bias.md",
       "title": "AI and ethics: One-third of executives are not aware of potential AI bias",
       "excerpt": "The majority of consumers expect companies to be accountable for their AI systems, yet about half of companies do not have a dedicated member overseeing ethical AI implementation.",
@@ -40,47 +235,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-7-artificial-intelligence-stocks-to-buy-for-october.md",
-      "title": "7 Artificial Intelligence Stocks to Buy for October",
-      "excerpt": "Stock Market News, Stock Advice & Trading Tips With so much death and economic destruction wrought by the novel coronavirus,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/7-artificial-intelligence-stocks-to-buy-october-1029644435",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/7-artificial-intelligence-stocks-to-buy-october-1029644435",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/7-artificial-intelligence-stocks-to-buy-october-1029644435",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/7-artificial-intelligence-stocks-to-buy-october-1029644435",
-      "publishedDateTime": "2020-10-02T07:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -185,7 +339,7 @@
       "originalUrl": "https://www.techrepublic.com/resource-library/whitepapers/mit-report-how-ai-changes-the-world/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 99,
       "tags": null,
       "images": null,
       "type": "article",
@@ -417,6 +571,47 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-pm-modi-to-inaugurate-global-summit-on-artificial-intelligence-on-oct-5.md",
+      "title": "PM Modi to inaugurate global summit on artificial intelligence on Oct 5",
+      "excerpt": "New Delhi: Prime Minister Narendra Modi will inaugurate a global virtual summit on Artificial Intelligence (AI), RAISE 2020 - 'Responsible AI for Social Empowerment 2020' on October 5, according to the Ministry of Electronics and Information Technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/india/pm-modi-to-inaugurate-global-summit-on-artificial-intelligence-on-oct-5",
+      "originalUrl": "https://www.freepressjournal.in/india/pm-modi-to-inaugurate-global-summit-on-artificial-intelligence-on-oct-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mc.webpcache.epapr.in/mcms.php?size=large&in=https://mcmscache.epapr.in/post_images/website_13/post_18468642/thumb.jfif",
+          "width": 800,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://m.freepressjournal.in/article/india/pm-modi-to-inaugurate-global-summit-on-artificial-intelligence-on-oct-5/874fdda3-15a7-40ed-866a-b14d3946b9f2",
+      "cdnAmpWebUrl": "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/india/pm-modi-to-inaugurate-global-summit-on-artificial-intelligence-on-oct-5/874fdda3-15a7-40ed-866a-b14d3946b9f2",
+      "publishedDateTime": "2020-10-01T18:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -666,7 +861,7 @@
       "originalUrl": "https://news.mit.edu/2020/anticipating-heart-failure-machine-learning-1001",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -810,7 +1005,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/halloween-themed-aws-deepcomposer-chartbusters-challenge-track-or-treat/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -1005,199 +1200,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-how-the-pandemic-has-reshaped-ai-robotics-and-automation.md",
-      "title": "How the pandemic has reshaped AI, robotics, and automation",
-      "excerpt": "Tonya Hall talks with Dr. Kate Darling, research specialist at the MIT Media Lab, to learn more about how the future of AI, robotics, and automation was reshaped following the COVID-19 pandemic outbreak.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/video/how-the-pandemic-has-reshaped-ai-robotics-and-automation/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/video/how-the-pandemic-has-reshaped-ai-robotics-and-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/09/30/f447663b-3622-49b4-9d70-842de8d91c0d/thumbnail/370x278/c89db3759753cf93a251fb062018a286/it-leadership-influential-cios-deliver-e-5f71c506156d300635196775-1-sep-30-2020-12-20-02-poster.jpg",
-          "width": 370,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-01T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-ibm-open-sources-ai-for-optimizing-satellite-communications-and-predicting-space-debris-trajectories.md",
-      "title": "IBM open-sources AI for optimizing satellite communications and predicting space debris trajectories",
-      "excerpt": "IBM has open-sourced projects designed to help optimize small satellite communications and predict the trajectories of space junk.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/01/ibm-open-sources-ai-for-optimizing-satellite-communications-and-predicting-space-debris-trajectories/",
-      "originalUrl": "https://venturebeat.com/2020/10/01/ibm-open-sources-ai-for-optimizing-satellite-communications-and-predicting-space-debris-trajectories/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/nano-satellites-kineis-e1580987091588.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/01/ibm-open-sources-ai-for-optimizing-satellite-communications-and-predicting-space-debris-trajectories/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/01/ibm-open-sources-ai-for-optimizing-satellite-communications-and-predicting-space-debris-trajectories/amp/",
-      "publishedDateTime": "2020-10-01T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-google-photos-gets-smarter-ai-powered-editor.md",
-      "title": "Google Photos gets smarter, AI-powered editor",
-      "excerpt": "Google rolled out a new version of the photo editor in the Google Photos app on Android. It uses machine learning to give you suggestions on how to fix a photo, which you can apply with one tap. Google says more suggestions are coming to Pixel devices in the coming months,",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/google-photos-editor/",
-      "originalUrl": "https://mashable.com/article/google-photos-editor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F10%252F01%252Fb8%252Fd762c63acc904b9298f8889e590f20a9.e68f3.png%252F1200x630.png?signature=fMk9DtgSsV3Qv23BxBAKCHnAVhc=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/google-photos-editor.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/google-photos-editor.amp",
-      "publishedDateTime": "2020-10-01T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-deckrobot-raises-15-million-to-generate-powerpoint-slides-using-ai.md",
-      "title": "DeckRobot Raises $1.5 Million To Generate PowerPoint Slides Using AI",
-      "excerpt": "Making professional, company-approved Powerpoint slides is difficult for the average employee. DeckRobot is an artificial intelligence add-on to Microsoft Office’s PowerPoint to all a user to create approvable slide decks in one click.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/frederickdaso/2020/10/01/deckrobot-raises-15-million-to-generate-powerpoint-slides-using-ai/",
-      "originalUrl": "https://www.forbes.com/sites/frederickdaso/2020/10/01/deckrobot-raises-15-million-to-generate-powerpoint-slides-using-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f709683ae01957e6150d240%2F0x0.jpg",
-          "width": 1199,
-          "height": 775,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/frederickdaso/2020/10/01/deckrobot-raises-15-million-to-generate-powerpoint-slides-using-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2020/10/01/deckrobot-raises-15-million-to-generate-powerpoint-slides-using-ai/amp/",
-      "publishedDateTime": "2020-10-01T05:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

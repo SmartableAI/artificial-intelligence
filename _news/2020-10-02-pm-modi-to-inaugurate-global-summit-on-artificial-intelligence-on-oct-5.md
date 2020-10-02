@@ -9,8 +9,8 @@ ampWebUrl: "https://m.freepressjournal.in/article/india/pm-modi-to-inaugurate-gl
 cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/india/pm-modi-to-inaugurate-global-summit-on-artificial-intelligence-on-oct-5/874fdda3-15a7-40ed-866a-b14d3946b9f2"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Free Press Journal
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Mega Virtual Summit on Artificial Intelligence to be held from October 5-9"
+    excerpt: "MeitY and NITI Aayog will organize a Mega Virtual Summit on Artificial Intelligence (AI), RAISE 2020 from October 5-9, 2020."
+    publishedDateTime: 2020-09-28T08:14:00Z
+    webUrl: "https://www.voicendata.com/mega-virtual-summit-artificial-intelligence-held-october-5-9/"
+    ampWebUrl: "https://www.voicendata.com/mega-virtual-summit-artificial-intelligence-held-october-5-9/amp/"
+    cdnAmpWebUrl: "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/mega-virtual-summit-artificial-intelligence-held-october-5-9/amp/"
+    type: article
+    provider:
+      name: Voicendata.com
+      domain: voicendata.com
+    quality: 55
+    images:
+      - url: "https://www.voicendata.com/wp-content/uploads/2020/09/Narendra-Modi.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "PM Modi to inaugurate global virtual summit on Artificial Intelligence on Oct 5"
     excerpt: "The summit is being organised by the Ministry of Electronics and Information Technology (MeitY) and NITI Aayog."
     publishedDateTime: 2020-10-02T03:17:00Z

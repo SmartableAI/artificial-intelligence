@@ -2,6 +2,211 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-09-21-ais-helping-students-improve-their-scores-in-less-than-24-hours.md",
+      "title": "AI’s Helping Students Improve Their Scores In Less Than 24 Hours",
+      "excerpt": "AI-enabled online learning platforms are increasingly popular around the world for parents who want their children to gain an edge on standardized tests or attaining mastery of a particular subject matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/junwu1/2020/09/21/ais-helping-students-improve-their-scores-in-less-than-24-hours/",
+      "originalUrl": "https://www.forbes.com/sites/junwu1/2020/09/21/ais-helping-students-improve-their-scores-in-less-than-24-hours/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6893aca40707b669a5b764%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/junwu1/2020/09/21/ais-helping-students-improve-their-scores-in-less-than-24-hours/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/09/21/ais-helping-students-improve-their-scores-in-less-than-24-hours/amp/",
+      "publishedDateTime": "2020-09-21T04:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-leveraging-artificial-intelligence-ai-to-scale-ai-transformations.md",
+      "title": "Leveraging Artificial Intelligence (AI) To Scale AI Transformations",
+      "excerpt": "According to a recent McKinsey survey, just under a third of organizations use artificial intelligence for multiple business functions. Scaling AI transformations appears to be the most important challenge in this arena,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/21/leveraging-artificial-intelligence-ai-to-scale-ai-transformations/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/21/leveraging-artificial-intelligence-ai-to-scale-ai-transformations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0db1df72fadb0007edeed4%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/21/leveraging-artificial-intelligence-ai-to-scale-ai-transformations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/21/leveraging-artificial-intelligence-ai-to-scale-ai-transformations/amp/",
+      "publishedDateTime": "2020-09-21T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-adt-slumps-on-ai-startup.md",
+      "title": "ADT Slumps on AI Startup",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Sep 21, 2020 (Baystreet.ca via COMTEX) -- ADT Inc. (NYSE: ADT) shares dropped sharply Monday morning, on the announcement that, via its commercial channel, it is investing in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/adt-slumps-on-ai-startup-2020-09-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/adt-slumps-on-ai-startup-2020-09-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-21T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-10-mlops-platforms-to-manage-the-machine-learning-lifecycle.md",
+      "title": "10 MLops platforms to manage the machine learning lifecycle",
+      "excerpt": "Machine learning lifecycle management systems rank and track your experiments over time, and sometimes integrate with deployment and monitoring",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3572442/10-mlops-platforms-to-manage-the-machine-learning-lifecycle.html",
+      "originalUrl": "https://www.infoworld.com/article/3572442/10-mlops-platforms-to-manage-the-machine-learning-lifecycle.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_man_graphic_interface_data_by_art24hr_gettyimages_1157378096-100817765-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3572442/10-mlops-platforms-to-manage-the-machine-learning-lifecycle.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3572442/10-mlops-platforms-to-manage-the-machine-learning-lifecycle.amp.html",
+      "publishedDateTime": "2020-09-21T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AWS AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-21-ft-the-fintech-times-losing-a-generation-of-women-in-finance.md",
       "title": "F|T: The FinTech Times – Losing a generation of women in finance",
       "excerpt": "Klarna says it is now the highest-valued private FinTech company in Europe following the funding round. Montréal-based Nuvei has officially set the price of its much-anticipated initial public offering on the Toronto Stock Exchange at $26 USD per share.",
@@ -951,198 +1156,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-this-new-ai-technology-could-prevent-ships-from-colliding-with-whales.md",
-      "title": "This New AI Technology Could Prevent Ships From Colliding With Whales",
-      "excerpt": "This has led the National Oceanic and Atmospheric Administration (NOAA) to establish speed reduction programs along both coasts to protect endangered right whales in the Atlantic Ocean (via “ Right Whale Slow Zones ”) and humpback,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/priyashukla/2020/09/19/this-new-ai-technology-could-prevent-ships-from-colliding-with-whales/",
-      "originalUrl": "https://www.forbes.com/sites/priyashukla/2020/09/19/this-new-ai-technology-could-prevent-ships-from-colliding-with-whales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5d72e832580d4befbb9b50%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4181%26cropY1%3D0%26cropY2%3D2352",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/priyashukla/2020/09/19/this-new-ai-technology-could-prevent-ships-from-colliding-with-whales/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/priyashukla/2020/09/19/this-new-ai-technology-could-prevent-ships-from-colliding-with-whales/amp/",
-      "publishedDateTime": "2020-09-19T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-how-artificial-intelligence-is-helping-companies-identify-and-nail-new-product-opportunities.md",
-      "title": "How Artificial Intelligence Is Helping Companies Identify And Nail New Product Opportunities",
-      "excerpt": "The best and most cutting edge examples of how firms are using AI in the new product & service development process to identify and optimize new business ideas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michellegreenwald/2020/09/17/how-artificial-intelligence-is-helping-companies-identify--nail-new-product-opportunities/",
-      "originalUrl": "https://www.forbes.com/sites/michellegreenwald/2020/09/17/how-artificial-intelligence-is-helping-companies-identify--nail-new-product-opportunities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6205e8a15156fd3358e745%2F0x0.jpg",
-          "width": 1200,
-          "height": 609,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-18T20:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-stephen-curry-enters-fitness-wars-with-investment-in-tonal-ai-home-gyms-110-million-round.md",
-      "title": "Stephen Curry Enters Fitness Wars With Investment In Tonal AI Home Gym’s $110 Million Round",
-      "excerpt": "The home fitness craze is winning the attention of professional athletes like Steph Curry, Klay Thompson and Serena Williams as they invest along with Amazon Alexa in Tonal AI home gym. Founder and CEO Aly Orady explains why the future of fitness is intelligent in this exclusive interview.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martineparis/2020/09/18/stephen-curry-enters-fitness-wars-with-investment-in-tonal-ai-home-gyms-110-million-round/",
-      "originalUrl": "https://www.forbes.com/sites/martineparis/2020/09/18/stephen-curry-enters-fitness-wars-with-investment-in-tonal-ai-home-gyms-110-million-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f64d6c25280e44e52d7ab87%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2020/09/18/stephen-curry-enters-fitness-wars-with-investment-in-tonal-ai-home-gyms-110-million-round/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2020/09/18/stephen-curry-enters-fitness-wars-with-investment-in-tonal-ai-home-gyms-110-million-round/amp/",
-      "publishedDateTime": "2020-09-18T18:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-adp-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award.md",
-      "title": "ADP® DataCloud Wins 2020 Artificial Intelligence (AI) Breakthrough Award",
-      "excerpt": "Recognized as a leading company in the global AI market today, ADP was selected as a winner in the 2020 AI Breakthrough Awards for its innovative workforce analytics solution, ADP® DataCloud. Named as winner for the \"Best AI-based Solution for Data Sciences\" category,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/adp-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award-1029590053",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/adp-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award-1029590053",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/adp-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award-1029590053",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/adp-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award-1029590053",
-      "publishedDateTime": "2020-09-18T17:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

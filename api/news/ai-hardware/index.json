@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-03-the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.md",
+      "title": "The HP Spectre x360 14 gets a lush OLED display and a lot more AI smarts",
+      "excerpt": "The new HP Spectre x360 14 features OLED, while the Spectre x360 13 and Envy x360 upgrade to 11th-gen Tiger Lake processors",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/3584530/the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.html",
+      "originalUrl": "https://www.pcworld.com/article/3584530/the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/10/hp-spectre-x360-14-front-facing_natural-silver-100860561-large.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/3584530/the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.amp.html",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3584530/the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.amp.html",
+      "publishedDateTime": "2020-10-02T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-01-as-ai-chips-improve-is-tops-the-best-way-to-measure-their-power.md",
       "title": "As AI chips improve, is TOPS the best way to measure their power?",
       "excerpt": "There's more to understanding the performance of AI-capable chips than just a single summary number, even if that's what chipmakers are marketing to users.",
@@ -1369,57 +1420,6 @@
       "ampWebUrl": "https://techcrunch.com/2020/09/15/apple-unveils-its-super-fast-five-nanometer-a14-chip-shipping-in-the-new-ipad-air-next-month/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/15/apple-unveils-its-super-fast-five-nanometer-a14-chip-shipping-in-the-new-ipad-air-next-month/amp/",
       "publishedDateTime": "2020-09-15T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-google-launches-new-ai-powered-meeting-room-hardware.md",
-      "title": "Google launches new AI-powered meeting room hardware",
-      "excerpt": "Google today announced the Google Meet Series One, a new video conferencing hardware suite for meeting rooms. Built in collaboration with Lenovo, the Series One uses high-end cameras and microphones and then marries them with Google’s AI smarts thanks to using Google’s own Coral M.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/15/google-launches-new-ai-powered-meeting-room-hardware/",
-      "originalUrl": "https://techcrunch.com/2020/09/15/google-launches-new-ai-powered-meeting-room-hardware/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/Google_Series-One_Medium-Room-Kit-1.png?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/15/google-launches-new-ai-powered-meeting-room-hardware/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/15/google-launches-new-ai-powered-meeting-room-hardware/amp/",
-      "publishedDateTime": "2020-09-15T09:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",

@@ -2,6 +2,90 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-19-adp-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award.md",
+      "title": "ADP® DataCloud Wins 2020 Artificial Intelligence (AI) Breakthrough Award",
+      "excerpt": "Recognized as a leading company in the global AI market today, ADP was selected as a winner in the 2020 AI Breakthrough Awards for its innovative workforce analytics solution, ADP® DataCloud. Named as winner for the \"Best AI-based Solution for Data Sciences\" category,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/adp-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award-1029590053",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/adp-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award-1029590053",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/adp-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award-1029590053",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/adp-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award-1029590053",
+      "publishedDateTime": "2020-09-18T17:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-miso-robotics-how-ai-can-transform-an-industry.md",
+      "title": "Miso Robotics: How AI Can Transform An Industry",
+      "excerpt": "Stock Market News, Stock Advice & Trading Tips Over the past decade, the advances in robotics have been breathtaking, as",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-how-ai-can-transform-an-industry-1029604082",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-how-ai-can-transform-an-industry-1029604082",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/miso-robotics-how-ai-can-transform-an-industry-1029604082",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/miso-robotics-how-ai-can-transform-an-industry-1029604082",
+      "publishedDateTime": "2020-09-18T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed.md",
       "title": "How do we know AI is ready to be in the wild? Maybe a critic is needed",
       "excerpt": "Can the paradigm of adversarial AI make algorithms safer to send out into the world? Mischief can happen when AI is let loose in the world, just like any technology. The examples of AI gone wrong are numerous,",
@@ -1278,90 +1362,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-new-wsu-smart-factory-to-have-artificial-intelligence-robotics-as-it-looks-to-future.md",
-      "title": "New WSU smart factory to have artificial intelligence, robotics as it looks to future",
-      "excerpt": "A new smart factory at Wichita State University will explore manufacturing possibilities through a partnership with Deloitte.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kansas.com/news/business/article245609400.html",
-      "originalUrl": "https://www.kansas.com/news/business/article245609400.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998028001/dea73a44-1daa-42fa-a764-e842fd4a899c/e24cb380-15bf-4dad-998c-b4735c284642/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.kansas.com/news/business/article245609400.html",
-      "cdnAmpWebUrl": "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/business/article245609400.html",
-      "publishedDateTime": "2020-09-10T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wichita Eagle",
-        "domain": "kansas.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-covid-19-pushing-investors-into-logistics-robotics.md",
-      "title": "COVID-19 Pushing Investors into Logistics Robotics",
-      "excerpt": "In this article, we will discuss some of the reasons why investors are hot for logistics robots and how these technological advancements as",
-      "sourceUrl": null,
-      "webUrl": "https://www.fincyte.com/covid-19-pushing-investors-into-logistics-robotics/",
-      "originalUrl": "https://www.fincyte.com/covid-19-pushing-investors-into-logistics-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fincyte.com/wp-content/uploads/2020/09/COVID-19-Pushing-Investors-into-Logistics-Robotics.jpg",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fincyte.com/covid-19-pushing-investors-into-logistics-robotics/?amp",
-      "cdnAmpWebUrl": "https://www-fincyte-com.cdn.ampproject.org/c/s/www.fincyte.com/covid-19-pushing-investors-into-logistics-robotics/?amp",
-      "publishedDateTime": "2020-09-10T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Top",
-        "domain": "fincyte.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

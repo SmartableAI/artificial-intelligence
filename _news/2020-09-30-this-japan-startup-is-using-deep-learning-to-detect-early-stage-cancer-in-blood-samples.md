@@ -45,6 +45,22 @@ related:
         width: 1260
         height: 630
         isCached: true
+  - title: "The 18 Largest US Tech Startup Funding Rounds of September 2020"
+    excerpt: "Everything you need to need to know about the largest US startup funding rounds of September 2020; broken down by industry, stage, investors, and"
+    publishedDateTime: 2020-10-02T16:40:00Z
+    webUrl: "https://www.alleywatch.com/2020/10/us-startup-funding-top-largest-september-2020-vc/8/"
+    ampWebUrl: "https://www.alleywatch.com/2020/10/us-startup-funding-top-largest-september-2020-vc/amp/"
+    cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2020/10/us-startup-funding-top-largest-september-2020-vc/amp/"
+    type: article
+    provider:
+      name: alleywatch.com
+      domain: alleywatch.com
+    quality: 42
+    images:
+      - url: "https://cdn.alleywatch.com/wp-content/uploads/2020/10/September-2020-us-top-startup-fundings.jpg"
+        width: 1000
+        height: 525
+        isCached: true
   - title: "Startup Funding: September 2020"
     excerpt: "Big investment in EV, batteries, and data center chips as 26 companies raise $2.6B; special look at computer vision funding."
     publishedDateTime: 2020-10-01T07:04:00Z

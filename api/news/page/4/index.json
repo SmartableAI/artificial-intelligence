@@ -2,6 +2,200 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-30-examsofts-remote-bar-exam-sparks-privacy-and-facial-recognition-concerns.md",
+      "title": "ExamSoft’s remote bar exam sparks privacy and facial recognition concerns",
+      "excerpt": "To administer bar exams in 20 different states next week, ExamSoft is using facial recognition and collecting the biometric data of legal professionals.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/29/examsofts-remote-bar-exam-sparks-privacy-and-facial-recognition-concerns/",
+      "originalUrl": "https://venturebeat.com/2020/09/29/examsofts-remote-bar-exam-sparks-privacy-and-facial-recognition-concerns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/kiana-caton.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/29/examsofts-remote-bar-exam-sparks-privacy-and-facial-recognition-concerns/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/29/examsofts-remote-bar-exam-sparks-privacy-and-facial-recognition-concerns/amp/",
+      "publishedDateTime": "2020-09-29T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-googles-smart-cleanup-taps-ai-to-streamline-data-entry.md",
+      "title": "Google’s Smart Cleanup taps AI to streamline data entry",
+      "excerpt": "Smart Cleanup, an AI-powered Google Sheets feature that automatically detects and removes duplicates and more, is now generally available.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/29/googles-smart-cleanup-taps-ai-to-streamline-data-entry/",
+      "originalUrl": "https://venturebeat.com/2020/09/29/googles-smart-cleanup-taps-ai-to-streamline-data-entry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/29/googles-smart-cleanup-taps-ai-to-streamline-data-entry/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/29/googles-smart-cleanup-taps-ai-to-streamline-data-entry/amp/",
+      "publishedDateTime": "2020-09-29T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2025.md",
+      "title": "Artificial Intelligence In Healthcare Market Growth, Leading Players and Forecast To 2025",
+      "excerpt": "A comprehensive research report created through extensive primary research (inputs from industry experts, companies, stakeholders) and secondary research, the report aims to present the analysis of Global Artificial Intelligence in Healthcare Market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2025-2020-09-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2025-2020-09-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-29T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-tickeron-releases-ai-robots-and-ai-screener-tools-to-support-and-assist-forex-traders.md",
+      "title": "Tickeron Releases AI Robots and AI Screener Tools To Support And Assist Forex Traders",
+      "excerpt": "Tickeron, an artificial and human intelligence platform delivering unparalleled trading insights and analysis, uses its revolutionary new AI-powered features, AI Robots and AI Screener, to provide Forex traders with the information and analysis necessary to be successful.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/tickeron-releases-ai-robots-and-ai-screener-tools-to-support-and-assist-forex-traders-1029630432",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/tickeron-releases-ai-robots-and-ai-screener-tools-to-support-and-assist-forex-traders-1029630432",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/tickeron-releases-ai-robots-and-ai-screener-tools-to-support-and-assist-forex-traders-1029630432",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tickeron-releases-ai-robots-and-ai-screener-tools-to-support-and-assist-forex-traders-1029630432",
+      "publishedDateTime": "2020-09-29T09:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-datasaur-snags-39m-investment-to-build-intelligent-machine-learning-labeling-platform.md",
       "title": "Datasaur snags $3.9M investment to build intelligent machine learning labeling platform",
       "excerpt": "As machine learning has grown, one of the major bottlenecks remains labeling things so the machine learning application understands the data it’s working with. Datasaur, a member of the Y Combinator Winter 2020 batch,",
@@ -1021,182 +1215,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-covid-19-nec-to-install-thermal-facial-recognition-scanners-at-airports.md",
-      "title": "Covid-19: NEC to install thermal, facial recognition scanners at airports",
-      "excerpt": "NEC Corporation of Malaysia Sdn Bhd is in the midst of installing thermal and facial recognition scanners to detect Covid-19 infections",
-      "sourceUrl": null,
-      "webUrl": "https://www.thesundaily.my/home/covid-19-nec-to-install-thermal-facial-recognition-scanners-at-airports-XB4322246",
-      "originalUrl": "https://www.thesundaily.my/home/covid-19-nec-to-install-thermal-facial-recognition-scanners-at-airports-XB4322246",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesundaily.my/binrepository/480x258/0c4/480d250/none/11808/RGVA/thermalcamerastory_1613239_20200929151938.jpg",
-          "width": 480,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-29T00:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sun",
-        "domain": "thesundaily.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-hot-ai-chips-to-look-forward-to-in-2021.md",
-      "title": "Hot AI Chips To Look Forward To In 2021",
-      "excerpt": "Qualcomm has announced their Cloud AI 100 accelerator, and with their experience in developing communications and smartphone technologies",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/latest-ai-chips-accelerators-2021/",
-      "originalUrl": "https://analyticsindiamag.com/latest-ai-chips-accelerators-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2020/09/ml-accl-compressed.jpg",
-          "width": 1601,
-          "height": 1201,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-28T23:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-inside-politics-tory-rebels-hope-for-deal-with-no-10-on-extra-scrutiny-powers.md",
-      "title": "Inside Politics: Tory rebels hope for deal with No 10 on extra scrutiny powers",
-      "excerpt": "Conservative backbenchers believe they’re in line for a bigger say on the coronavirus rules after a ‘cordial’ meeting with Jacob Rees-Mogg and the whips, writes Adam Forrest",
-      "sourceUrl": null,
-      "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
-      "originalUrl": "https://www.independent.co.uk/independentpremium/uk-news/boris-johnson-coronavirus-rules-tory-mps-compromise-eu-brexit-trade-deal-talks-b688535.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inside.com/assets/premium/Blue-email-icon-0994aadea0b5b10b19a148e2dd34a88c4a315b76ed51d7898fa49dc4ddc6d171.png",
-          "width": 414,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-28T23:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-an-ai-paper-published-in-a-major-journal-dabbles-in-phrenology.md",
-      "title": "An AI Paper Published in a Major Journal Dabbles in Phrenology",
-      "excerpt": "On Friday, a trio of evolutionary psychology researchers published a research paper in Nature that sought to use machine learning to track historical changes in \"trustworthiness\" using facial expressions in portraits. The experiment was widely panned ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en_au/article/g5pawq/an-ai-paper-published-in-a-major-journal-dabbles-in-phrenology",
-      "originalUrl": "https://www.vice.com/en_au/article/g5pawq/an-ai-paper-published-in-a-major-journal-dabbles-in-phrenology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com//articles/5f6e654076a76b0095a25f2b/lede/1601070833510-post-w-gradient-background-19.jpeg?crop=1xw:1xh;center,center",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en_au/article/g5pawq/an-ai-paper-published-in-a-major-journal-dabbles-in-phrenology",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/g5pawq/an-ai-paper-published-in-a-major-journal-dabbles-in-phrenology",
-      "publishedDateTime": "2020-09-28T18:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

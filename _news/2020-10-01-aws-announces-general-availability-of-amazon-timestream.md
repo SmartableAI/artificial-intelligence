@@ -1,28 +1,22 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Timestream"
-excerpt: "including services like AWS IoT Core (for IoT data collection), Amazon Kinesis and Amazon MSK (for streaming data), Amazon QuickSight (for serverless Business Intelligence), and Amazon SageMaker ..."
-publishedDateTime: 2020-10-01T00:50:00Z
-originalUrl: "https://www.businesswire.com/news/home/20200930006011/en/"
-webUrl: "https://www.businesswire.com/news/home/20200930006011/en/"
+excerpt: "Stockhouse.com use cookies on this site. By continuing to use our service, you agree to our use of cookies. Cookies are used to offer you a better browsing experience and to analyze our traffic. We also use them to share usage information with our"
+publishedDateTime: 2020-09-30T23:43:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2020/09/30/aws-announces-general-availability-of-amazon-timestream"
+webUrl: "https://stockhouse.com/news/press-releases/2020/09/30/aws-announces-general-availability-of-amazon-timestream"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://mms.businesswire.com/media/20200930006011/en/826518/23/AWS_logo_RGB.jpg"
-    width: 1200
-    height: 627
-    isCached: true
 
 related:
   - title: "Amazon Timestream database is now generally available"
@@ -51,6 +45,6 @@ related:
         height: 511
         isCached: true
 
-secured: "xIKqNq+9etLb8FFSch7/EM+6MPa/o54S6XlbaD7oamb2W1+4RiQNd5E1y7+AeXMxn9l0LvWRnAeuMCM0PCEe0I9jN+8GOWodwLa6dkLdUBRA0mI+KC/h0B0ZG2W7HqDd9uY64dHXGTC+I79Gj84i9/xh9lYHWNR1jGyvkfZ4KJGo7gkIOfMEC/kwjgjFtM32QwHIdDIcsjMAV+4eAG2CUwNyj00ss4qSeUwyLahbTVx2bDekyuvbAdMjCKpJ4Q7W0Qcr2SFsxrlhhuL6vJmUnnfqKKbr1hkePFqoMSXGe/ofg3HlRPi5GFqxpOXDTaDImG72L4ap6jbCsJNgOQYvZg22YLtKUrLt687swIa8Rck=;Ydl/fJum61F4cclg5XVMag=="
+secured: "T93mGFv1QuDO8pnqpcCMUmhRFm4g9rq5DxjnW6gJFRwAquFQWjXI0oNi/ZRJR2KR6PgwtOq7DTVN2JTajyM3nk/hUCcDNeWRIXxj0G7REzP6Oq/Fbb/YCSphdqMD+hS6GVeopytrRehQCqj4nafhLqQDJpnnsu+3yyRoijK0BHmS6+r1kyAUHC6APeK0DR59aGdsl9X19a7oUcHaBM7wqubq4eK0R4GL86XLErQ2aimpBvo/1MHqEVA60lkI0yiFFt0UcYKWnAjTaSNkL+MvQGy/EjtLGwhCPiRkjhjwnq+1a6XzZ1tU7/j5XAGsAuAcCbV8kpXi4ntE7sC198kan3MK5vEo8VgMVit5CkeX2wc=;bwsnvvI6biuBq84HKHLQhQ=="
 ---
 

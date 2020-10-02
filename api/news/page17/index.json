@@ -2,6 +2,183 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-09-17-7-self-driving-car-companies-racing-to-gains.md",
+      "title": "7 Self-Driving Car Companies Racing to Gains",
+      "excerpt": "Editor’s Note: This article was updated on Sept. 18, 2020, to correct the road fatality statistic. Self-driving car companies hit a major pothole earlier this year. Long a favorite of tech ...",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2020/09/7-self-driving-car-companies-autonomous-vehicle-stocks/",
+      "originalUrl": "https://investorplace.com/2020/09/7-self-driving-car-companies-autonomous-vehicle-stocks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-16T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-facebook-employees-will-soon-be-wearing-ar-research-glasses-around-town.md",
+      "title": "Facebook employees will soon be wearing AR research glasses around town",
+      "excerpt": "The employees are gathering data about how the glasses perceive the world and what kind of privacy considerations they may need to make people feel comfortable around them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fastcompany.com/90551313/facebook-employees-will-soon-be-wearing-ar-research-glasses-around-town?partner=feedburner",
+      "originalUrl": "https://www.fastcompany.com/90551313/facebook-employees-will-soon-be-wearing-ar-research-glasses-around-town?partner=feedburner",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/09/p-1-facebook-employees-will-soon-be-wearing-ar-research-glasses-around-town.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-16T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fast Company",
+        "domain": "fastcompany.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-machine-learning-based-object-recognition-system-as-a-blind-aid.md",
+      "title": "MACHINE LEARNING BASED OBJECT RECOGNITION SYSTEM AS A BLIND AID",
+      "excerpt": "This project introduces a live object recognition system that serves as a blind aid. Visually impaired people heavily rely on their other senses such as touch and auditory signals for ...",
+      "sourceUrl": null,
+      "webUrl": "https://medium.com/@mpchannels/machine-learning-based-object-recognition-system-as-a-blind-aid-7214f668f4b2",
+      "originalUrl": "https://medium.com/@mpchannels/machine-learning-based-object-recognition-system-as-a-blind-aid-7214f668f4b2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/697/1*lY3zY_AsH53ynKsMf2KubQ.jpeg",
+          "width": 697,
+          "height": 457,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-16T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-16-learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-spin-the-model-challenge.md",
+      "title": "Learn from the winner of the AWS DeepComposer Chartbusters Spin the Model Challenge",
+      "excerpt": "AWS is excited to announce the winner of the second AWS DeepComposer Chartbusters challenge, Lena Taupier. AWS DeepComposer gives developers a creative way to get started with machine learning (ML). In June, we launched the Chartbusters challenge, a global competition where developers use AWS DeepComposer",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-spin-the-model-challenge/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-spin-the-model-challenge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/15/1-Lena-880x630.jpg",
+          "width": 880,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-16T09:13:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-16-ai-powered-ship-sets-sail-for-sea-trials-and-environmental-research-missions.md",
       "title": "AI-powered ship sets sail for sea trials and environmental research missions",
       "excerpt": "The Mayflower Autonomous Ship today set sail from Plymouth on the southern coast of England, 400 years since its namesake left the same port to take the Pilgrims to Massachusetts,",
@@ -149,9 +326,9 @@
         "news"
       ],
       "topics": [
-        "TensorFlow",
         "Google AI",
-        "AI"
+        "AI",
+        "TensorFlow"
       ]
     },
     {
@@ -1016,163 +1193,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-inside-politics-dominic-raab-goes-to-washington-to-explain-brexit-bill.md",
-      "title": "Inside Politics: Dominic Raab goes to Washington to explain Brexit bill",
-      "excerpt": "The foreign secretary wants to reassure US politicians they have nothing to worry about when it comes to Britain’s minor foray into international law-breaking, writes Adam Forrest",
-      "sourceUrl": null,
-      "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
-      "originalUrl": "https://www.independent.co.uk/independentpremium/uk-news/brexit-dominic-raab-us-washington-pelosi-pompeo-trade-deal-b450849.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inside.com/assets/premium/Blue-email-icon-0994aadea0b5b10b19a148e2dd34a88c4a315b76ed51d7898fa49dc4ddc6d171.png",
-          "width": 414,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-15T23:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-the-clippers-fell-short-of-an-nba-title-but-doc-rivers-still-showed-the-way.md",
-      "title": "The Clippers fell short of an NBA title, but Doc Rivers still showed the way",
-      "excerpt": "As the LA Clippers head out of the NBA bubble stunned and disappointed after being eliminated by the Denver Nuggets in Game 7 of their",
-      "sourceUrl": null,
-      "webUrl": "https://inside-com.breezy.hr/",
-      "originalUrl": "https://theundefeated.com/features/his-message-was-powerful-how-doc-rivers-made-an-impact-in-the-nba-bubble/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://breezy-social-images.imgix.net/442d93c02549/social-portal.png?auto=format&h=600",
-          "width": 1143,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-15T23:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Undefeated",
-        "domain": "theundefeated.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-ai-and-machine-learning-tools-can-help-separate-covid-related-claims.md",
-      "title": "AI and machine learning tools can help separate COVID-related claims",
-      "excerpt": "As the COVID-19 pandemic has swept the world, researchers have published hundreds of papers each week reporting their findings - many of which have not undergone a thorough peer review process to gauge their reliability.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20200916/AI-and-machine-learning-tools-can-help-separate-COVID-related-claims.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20200916/AI-and-machine-learning-tools-can-help-separate-COVID-related-claims.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2014%2f7%2f134984011-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200916/AI-and-machine-learning-tools-can-help-separate-COVID-related-claims.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200916/AI-and-machine-learning-tools-can-help-separate-COVID-related-claims.aspx",
-      "publishedDateTime": "2020-09-15T22:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-ai-ethics-groups-repeating-one-of-societys-mistakes.md",
-      "title": "A.I. Ethics Groups Repeating One of Society's Mistakes",
-      "excerpt": "International organizations and corporations are racing to develop global guidelines for the ethical use of artificial intelligence. Declarations, manifestos, and recommendations are flooding the internet. But these efforts will be futile if they fail to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearscience.com/2020/09/16/ai_ethics_groups_repeating_one_of_society039s_mistakes_292251.html#!",
-      "originalUrl": "https://www.realclearscience.com/2020/09/16/ai_ethics_groups_repeating_one_of_society039s_mistakes_292251.html#!",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-15T21:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearScience",
-        "domain": "realclearscience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

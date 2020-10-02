@@ -3,8 +3,8 @@ category: news
 title: "Artificial Intelligence and Media: A Special Report"
 excerpt: "In his 1983 memoir “Adventures in the Screen Trade,” Oscar-winning screenwriter William Goldman famously observed that in Hollywood “nobody knows anything.” By that he meant no one involved in"
 publishedDateTime: 2020-10-01T14:53:00Z
-originalUrl: "https://variety.com/vip-special-reports/artificial-intelligence-and-media-a-special-report-1234783682/#!"
-webUrl: "https://variety.com/vip-special-reports/artificial-intelligence-and-media-a-special-report-1234783682/#!"
+originalUrl: "https://variety.com/vip-special-reports/artificial-intelligence-and-media-a-special-report-1234783682/"
+webUrl: "https://variety.com/vip-special-reports/artificial-intelligence-and-media-a-special-report-1234783682/"
 type: article
 quality: 37
 heat: 37
@@ -23,6 +23,6 @@ images:
     height: 576
     isCached: true
 
-secured: "yMugH474kgr29g9tpOd+It/j5iisTimym2W2YMre0SJ46vdHp92KDiybbg3x3qjDZ0T4MXT60eMMo8wztqFEwforo4l3UiHCRfbMDAFxAlZrgPdUNbobFhxjsuxD86rVj78aFgpzrejy26h8pYF5vi+SbLOLoO3seLpGHwJkJfScno9/1FiVj+hWH5rO7QTPuHvfvwL5gMSw10nE9Gsp9DALKUaW5/f9Q12kuV3IpxByvuRnDQ7Y0KTQm6y2WDOwPDqL2J9K77+KXhms7meaiId609fhx7VyBD8HYd41QL+qMMwpFUnTkeZGtO0o+lo5U0GQnL02LLRIchyZDTvosSIE1Lxr439cWAeTXjREZvIp66OaIPzYS83sAYQeDBwqBBKaGE7m69ssVxclqGXI26bka+f/ed5U9xwB8ElLMh+o4qQ+YgXSOHsciLTfdPJEJ2IQSWNznkvri+L1M2dd8bEU9lVnz/yNi4chvwQVQ6YhYUZ/NyDxgCZECBi6KnopgtMqzq9oKrBhAXrTOIGQrQ==;oZNRFjl9WXsuvcE7oYb+zQ=="
+secured: "7Qu3spLMPpLsg1fZ21n12wl7of/CYz+Cf1Rgib4C3oHWhWxwxYcr9WAdaOzl01LkSUbiLycfjmnFBp1dpfmLF3edQ8jukciUo5wdmMRwN7Kv/pibLef+WJYCnqZs4d3ru4JbW4VadOgVZXA04/uGLZIaUY6o9aRqwHVE5ylftKALW2Y7AO/7TIDkgEI4Jg5bQOL4RoVJlutLkG/s3x8Lvu413YtB4RRD4Lf7YP9XfNktVZyMgPGNUpzIBiDovsbyUOFoVGO4o70cFhu6yCHC+zkfFDJkcmZ0rRf48GEeLvpl9V9RD8bdFmCrSFJ//i48n86eAulOBxh8NkpV87HBS6PgAC9OkHv1S3xm/1vyYs8=;WiuQWiZ6HjQNLd0zGyUycA=="
 ---
 

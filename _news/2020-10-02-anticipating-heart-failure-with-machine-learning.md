@@ -7,7 +7,7 @@ originalUrl: "https://news.mit.edu/2020/anticipating-heart-failure-machine-learn
 webUrl: "https://news.mit.edu/2020/anticipating-heart-failure-machine-learning-1001"
 type: article
 quality: 84
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1000
     height: 667
     isCached: true
+
+related:
+  - title: "Anticipating heart failure with machine learning"
+    excerpt: "Every year, roughly one out of eight U.S. deaths is caused at least in part by heart failure. One of acute heart failure's most common warning signs is excess fluid in the lungs, a condition known as pulmonary edema."
+    publishedDateTime: 2020-10-02T17:00:00Z
+    webUrl: "https://medicalxpress.com/news/2020-10-heart-failure-machine.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 54
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2020/1-anticipating.jpg"
+        width: 784
+        height: 600
+        isCached: true
 
 secured: "0xsOPk9VRyMJn/Wp7AsGL0ZtLnFbKdQXjA7AlVKhZlL0QyjWP1MYpxvVWXPG5U+65ILphwcq0nFb9I2KhqlF7HCxrdIUng19PZoDj8PjyqZKXmKoJJhsdQ/a6Kvm57TwNe2B7vdzLNdX9b0IWPd9roJX5DBWpqkoNj5HDVmZ6c7KsoidpP6qe9pBpEyljjyKXV8//rmvMp5tUjaI1DxwGedoFSBeSLozycDCk4GqkDOBfQ6nyLEq4eTbsHhm/tlmyvaE9gYuw3vgv05R/LPNCh4JLNAstoPpehix8WuxbebH/IKtLWFbSVyLwlM/V6MLsMv6h6xOpQuhoKJu6MErSgZyj/PKX/cdfC2Jwn6ddylRBiTfyjP3EeMUEl7Ne+EcBqOy22GlMJJC1qQ5djc3l6DK//SYPTQzyJcK2EicyiIA15zC18mV54QLwEakyFMbjkIltjQcdxIZ3WeWeljaEPiTJVEIgG2kKmtWvezCU7uZl7EnvhhlwmvIu5WmN0rJjudvL/zbI+mD1hdbVNGUMg==;65YxoVq7cdSLT/BLcrp8lA=="
 ---

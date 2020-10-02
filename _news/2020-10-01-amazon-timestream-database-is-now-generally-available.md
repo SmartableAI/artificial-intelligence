@@ -26,19 +26,14 @@ topics:
 
 related:
   - title: "AWS Announces General Availability of Amazon Timestream"
-    excerpt: "including services like AWS IoT Core (for IoT data collection), Amazon Kinesis and Amazon MSK (for streaming data), Amazon QuickSight (for serverless Business Intelligence), and Amazon SageMaker ..."
-    publishedDateTime: 2020-10-01T00:50:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200930006011/en/"
+    excerpt: "Stockhouse.com use cookies on this site. By continuing to use our service, you agree to our use of cookies. Cookies are used to offer you a better browsing experience and to analyze our traffic. We also use them to share usage information with our"
+    publishedDateTime: 2020-09-30T23:43:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2020/09/30/aws-announces-general-availability-of-amazon-timestream"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 54
-    images:
-      - url: "https://mms.businesswire.com/media/20200930006011/en/826518/23/AWS_logo_RGB.jpg"
-        width: 1200
-        height: 627
-        isCached: true
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 34
   - title: "AWS launches Amazon Timestream, a serverless time series database for IoT and operational applications"
     excerpt: "AWS announced the general availability of Amazon Timestream, a new time series database for IoT and operational applications."
     publishedDateTime: 2020-10-01T08:25:00Z

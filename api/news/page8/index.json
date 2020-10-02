@@ -2,6 +2,191 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-09-25-swedens-ericsson-telia-present-self-driving-bus-ahead-of-5g-spectrum-auction.md",
+      "title": "Sweden's Ericsson, Telia present self-driving bus ahead of 5G spectrum auction",
+      "excerpt": "Telecoms gear maker Ericsson and mobile operator Telia on Thursday showcased a self-driving, electric bus in Stockholm as the companies look at new business areas ahead of mass deployment of 5G technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-ericsson-autonomous-idUSKCN26F2V6",
+      "originalUrl": "https://www.reuters.com/article/us-ericsson-autonomous-idUSKCN26F2V6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200924&t=2&i=1534799334&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8N1NF",
+          "width": 726,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN26F2V6",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26F2V6",
+      "publishedDateTime": "2020-09-24T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-gpt-3s-bigotry-is-exactly-why-devs-shouldnt-use-the-internet-to-train-ai.md",
+      "title": "GPT-3’s bigotry is exactly why devs shouldn’t use the internet to train AI",
+      "excerpt": "Yeah, but your scientists were so preoccupied with whether or not they could, they didn’t stop to think if they should.” – Dr. Ian Malcolm, fictional character, Jurassic Park. It turns out that a $1 billion investment from Microsoft and unfettered access to a supercomputer wasn’t enough to keep OpenAI’s GPT-3 from being just as bigoted as",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/24/gpt-3s-bigotry-is-exactly-why-devs-shouldnt-use-the-internet-to-train-ai/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/24/gpt-3s-bigotry-is-exactly-why-devs-shouldnt-use-the-internet-to-train-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/racistAIfeat-796x403.jpg",
+          "width": 796,
+          "height": 403,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/24/gpt-3s-bigotry-is-exactly-why-devs-shouldnt-use-the-internet-to-train-ai/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/24/gpt-3s-bigotry-is-exactly-why-devs-shouldnt-use-the-internet-to-train-ai/amp/",
+      "publishedDateTime": "2020-09-24T13:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-nec-face-recognition-engine-provides-highly-accurate-results-even-when-face-masks-are-worn.md",
+      "title": "NEC Face Recognition Engine Provides Highly Accurate Results Even when Face Masks are Worn",
+      "excerpt": "NEC Corporation today announced the strengthening of its face recognition technology, already recognized as the world's most accurate (*1), with the development of a new face recognition engine that provides high-precision certification even when masks are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newswiretoday.com/news/173757/NEC-Face-Recognition-Engine-Provides-Highly-Accurate-Results-Even-when-Face-Masks-are-Worn/",
+      "originalUrl": "https://www.newswiretoday.com/news/173757/NEC-Face-Recognition-Engine-Provides-Highly-Accurate-Results-Even-when-Face-Masks-are-Worn/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-24T13:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newswire Today",
+        "domain": "newswiretoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-selecting-the-right-metadata-to-build-high-performing-recommendation-models-with-amazon-personalize.md",
+      "title": "Selecting the right metadata to build high-performing recommendation models with Amazon Personalize",
+      "excerpt": "In this post, we show you how to select the right metadata for your use case when building a recommendation engine using Amazon Personalize. The aim is to help you optimize your models to generate more user-relevant recommendations. We look at which metadata is most relevant to include for different",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/selecting-the-right-metadata-to-build-high-performing-recommendation-models-with-amazon-personalize/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/selecting-the-right-metadata-to-build-high-performing-recommendation-models-with-amazon-personalize/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-24T13:21:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-dhs-admits-facial-recognition-photos-were-hacked-released-on-dark-web.md",
       "title": "DHS Admits Facial Recognition Photos Were Hacked, Released on Dark Web",
       "excerpt": "Traveler’s faces, license plates, and care information were hacked from a subcontractor called Perceptics and released on the dark web.",
@@ -1030,208 +1215,6 @@
         "name": "SourceSecurity",
         "domain": "sourcesecurity.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-hailing-a-self-driving-taxi-when-blind-learn-how-waymo-answers-that-challenge-at-sight-tech-global.md",
-      "title": "Hailing a self-driving taxi when blind. Learn how Waymo answers that challenge at Sight Tech Global",
-      "excerpt": "Imagine yourself unable to see well enough to drive, and how that would change your life. I witness that scenario every day at home with my wife, who is legally blind, and a very busy person. She reveres Uber and Lyft because they provide her with the still remarkable option to get up and go",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/21/hailing-a-self-driving-taxi-when-blind-learn-how-waymo-answers-that-challenge-at-sight-tech-global/",
-      "originalUrl": "https://techcrunch.com/2020/09/21/hailing-a-self-driving-taxi-when-blind-learn-how-waymo-answers-that-challenge-at-sight-tech-global/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/Waymo-image-.png?w=1024",
-          "width": 1024,
-          "height": 637,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/21/hailing-a-self-driving-taxi-when-blind-learn-how-waymo-answers-that-challenge-at-sight-tech-global/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/21/hailing-a-self-driving-taxi-when-blind-learn-how-waymo-answers-that-challenge-at-sight-tech-global/amp/",
-      "publishedDateTime": "2020-09-24T03:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-where-are-all-the-self-driving-cars-we-were-promised.md",
-      "title": "Where are all the self-driving cars we were promised?",
-      "excerpt": "Join us at TNW2020 where we will discuss the future of autonoous driving and how we can make it safe with industry experts.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/shift/2020/09/24/whats-needed-to-get-safe-self-driving-cars-on-our-roads-autopilot/",
-      "originalUrl": "https://thenextweb.com/shift/2020/09/24/whats-needed-to-get-safe-self-driving-cars-on-our-roads-autopilot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/third-autopilot-tesla-propilot-cruise-self-driving-autonomy-cars-EV-future-mobility-driving-796x448.png",
-          "width": 796,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/shift/2020/09/24/whats-needed-to-get-safe-self-driving-cars-on-our-roads-autopilot/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/09/24/whats-needed-to-get-safe-self-driving-cars-on-our-roads-autopilot/amp/",
-      "publishedDateTime": "2020-09-24T02:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-ripjar-founded-by-gchq-alums-raises-368m-for-ai-that-detects-financial-crime.md",
-      "title": "Ripjar, founded by GCHQ alums, raises $36.8M for AI that detects financial crime",
-      "excerpt": "Financial crime as a wider category of cybercrime continues to be one of the most potent of online threats, covering nefarious actives as diverse as fraud, money laundering and funding terrorism. Today,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/24/ripjar-founded-by-gchq-alums-raises-36-8m-for-ai-that-detects-financial-crime/",
-      "originalUrl": "https://techcrunch.com/2020/09/24/ripjar-founded-by-gchq-alums-raises-36-8m-for-ai-that-detects-financial-crime/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1142858578.jpg?w=1024",
-          "width": 1024,
-          "height": 770,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/24/ripjar-founded-by-gchq-alums-raises-36-8m-for-ai-that-detects-financial-crime/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/24/ripjar-founded-by-gchq-alums-raises-36-8m-for-ai-that-detects-financial-crime/amp/",
-      "publishedDateTime": "2020-09-24T01:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-tomorrow-socratesai-to-host-webinar-giving-your-company-a-single-voice.md",
-      "title": "Tomorrow: Socrates.ai to Host Webinar \"Giving Your Company a Single Voice\"",
-      "excerpt": "During this webinar, Socrates.ai will get to the heart of this problem, explaining how and why companies can speak with a single voice. Attendees will learn how artificial intelligence helps close the information gap to ensure employees get accurate answers to their questions and take away the insights needed to create a frictionless workforce experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/tomorrow-socratesai-to-host-webinar-giving-your-company-a-single-voice-2020-09-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/tomorrow-socratesai-to-host-webinar-giving-your-company-a-single-voice-2020-09-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-24T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
