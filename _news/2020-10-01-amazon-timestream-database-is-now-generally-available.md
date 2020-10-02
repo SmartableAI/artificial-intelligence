@@ -3,10 +3,10 @@ category: news
 title: "Amazon Timestream database is now generally available"
 excerpt: "The latest addition to the AWS database portfolio focuses on time series data – a segment where fit-for-purpose databases are emerging because use cases ranging from IoT to e-commerce are driving data volumes overwhelming general-purpose platforms."
 publishedDateTime: 2020-10-01T12:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/amazon-timestream-database-is-now-generally-available/"
-webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/amazon-timestream-database-is-now-generally-available/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/amazon-timestream-database-is-now-generally-available/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/amazon-timestream-database-is-now-generally-available/"
+originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/amazon-timestream-database-is-now-generally-available/"
+webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/amazon-timestream-database-is-now-generally-available/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazon-timestream-database-is-now-generally-available/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazon-timestream-database-is-now-generally-available/"
 type: article
 quality: 69
 heat: 89
@@ -49,6 +49,6 @@ related:
         height: 511
         isCached: true
 
-secured: "1Gv/+Ofe1FT9MEzgWlbrRCwspYd4aGoz7fa4VNUJlsHICKrj02YqZuArABCGyQWJjIJ2dFsczPhqhxBisnk+VASaeVwML61p4ZNEKeRfbUsFdWf6LN8AcFRHJiHWK428/GJxWIaoJXsggV6ZKa7gwmQcOydNNnebLm6f0+PS3k3w7is/GAeBPO8DPvoPLlMx903dvseB32Eq5iGhrRrI5xgwEBXOu7uw2InwhhNzc9rCIW6gWTAbA/SJs5W06oZraaaIQ6f/y5VQEnO/6b2Z8D60M6GGLquibCA96CJlXs3L2WVyUfFKkV8i9V9btZbTCIOLBiSN/PRuy4+UgNbFRQkt1vcX05uFV5FNBcrhA5vQRmI6Nbi+QCpx7+kOyk/o9qCCbVYn1MrlSrnIA35Tovd93D0wWvr/AAqCjwoTXLdKYh3G1FYsncthdchuqFyGOhsnvyhB9adY1b4yVqz6kSlnPwcO+OF/KsdZOvophRg4lud9dfcyyKNYntxPwX12wZ+8BRHedZLyVwsTqqZZNg==;/4WOMvUqZmEb7cgZHJr+0g=="
+secured: "sVBBoZ/aOZmIjS8dlIAg1Z+6QzQlNzZdIECAWgOzgkFt1zdJEtMr/y+hurDZxBrULjLSD/Cs+v0eEPYLrWBPl4dRVodOIEIticwm3WZeaj98cB79eeuQ8zAH6ryG42JdVHCZHxecJZiWluCcq7VcLXf1nBHmxQDks+4l+8Y2SI15Ld5W9b3+s5ZJ8N/p2nZxftLTcQ0v2uFzgp6jKOI7cR2g0FmAk9lJwAqL0GqqTc7Dwy89f+Kep8IuKiwhJVRLu+7+1bljnt+Xm2VuQ5I0Xr/uU0gN4JC9eUO9ACtS+3D7a+9MJSAnMl0hJi/4H884Nv6XkMaAgwAS5kvZrsAGnwYV/cdAii0WOZVdXA+1gL8aKhAORV7a5OwJkl3j+O881V7fCPb6aXiRsJ+eu0DR5MsnZLt4qSvP+jVdKKo/7PSpuNc+3F+a7rLCTDIRC5IoyQF3uGhxNqri8kabxBf/ggPX0Y/ra736kEp2nMJhfxb2FjdxWucXLQTAfW1rN/CRIvdrwaCA+4ymArK1BUbL4A==;K4l577Z0YDF0qlprhkm0dg=="
 ---
 

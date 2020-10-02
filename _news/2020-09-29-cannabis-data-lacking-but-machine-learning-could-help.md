@@ -41,6 +41,15 @@ related:
         width: 750
         height: 1000
         isCached: true
+  - title: "Cannabis data lacking, but machine learning could help"
+    excerpt: "Everyone's heard of THC and CBD. But many other active compounds in cannabis interact to influence its effects. A new study confirms that those compounds are seldom tested for, and strain name is not indicative of potency or chemical makeup."
+    publishedDateTime: 2020-10-02T02:02:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/09/200929123516.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "zP+JuameqNfu2F6TCIYSQDC0pGZxu0evutzu0FnVuz1xcbtpCAYljUxm2DWuGiKT00j4lhkm8GwGasw1YMWuWLoVN3uoowKKb2Z9srSxl8a/nel63fwvUILovfkDvaYrj3Bhfx1gaSfoCtse7ZQoOIe1oOFscnRIh7UrLDV7U1M1NqHE3zAJtlQ9jHNWAINbRLIvwEea0M2hSQuL8RJ6BejsLKls7mcKSMt5zcXankL32JGsj2jAIrSTamQkicNBtB/KbrVZcutqGUgE9vwl1H7gTl4SOPy2MJZ7Whvk1lZc8loa81AmMfAmlh2DlWfXQ/ySjIY7gdD55zXO7po9WZRmgw4HqEnSVVhVwpmoAtRyTe0Gb7EQ1N+KUKv8aKOIMhT0d02nK6KZgjllV/8A46dI5AQV9Zso8bMHXrfqIl4xyzGKChW1vBTNpDx/EQhVC3TBMA+y/zHmBbejgHlT7MeGWEs1z2xZpGIQx4gFl09NSbyFd8GiBFesBLEPzy8665RwYhLGfQoW0SiHiX8ENw==;tlonLIyTx97yAXdDaWa4bw=="
 ---

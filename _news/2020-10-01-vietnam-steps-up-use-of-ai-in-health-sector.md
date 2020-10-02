@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Vietnam AI platform rules language programming contest in Japan"
-    excerpt: "FPT.AI's Natural Language Processing performs best in English, Vietnamese and Korean at the SHINRA2020-ML project. Photo courtesy of FPT. Vietnam's artificial intelligence platform FPT.AI ranked first at SHINRA2020-ML,"
-    publishedDateTime: 2020-09-27T10:31:00Z
-    webUrl: "https://vietreader.com/business/17520-vietnam-ai-platform-rules-language-programming-contest-in-japan.html"
-    type: article
-    provider:
-      name: vietreader.com
-      domain: vietreader.com
-    quality: 41
-    images:
-      - url: "https://cdn.vietreader.com/uploads/posts/2020-09/vietnam-ai-platform-rules-language-programming-contest-in-japan-1.jpg"
-        width: 680
-        height: 408
-        isCached: true
   - title: "Vietnam steps up use of AI in health sector"
     excerpt: "Time-lapse technology for embryo culture and selection combined using artificial intelligence software are used in Hanoi’s Vinmec Hospital to select good embryos, increasing the likelihood of IVF conception."
     publishedDateTime: 2020-09-30T12:31:00Z

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "5 Microsoft Teams Upgrades That Take It Deeper Into the Workplace"
-    excerpt: "With Redmond, Wash.-based Microsoft’s reach in the digital workplace as far as it is it is now, its annual Ignite conference is always a high point in the digital workplace calendar in terms of new releases and developments."
-    publishedDateTime: 2020-09-27T10:10:00Z
-    webUrl: "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/5-new-ways-to-boost-productivity-with-enhanced-teams-power/ba-p/1680697"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 139
-    images:
-      - url: "https://techcommunity.microsoft.com/t5/image/serverpage/image-id/220823i97F191E801AC4FFC?v=1.0"
-        width: 1597
-        height: 1080
-        isCached: true
   - title: "Microsoft Azure for Operators is a cloud platform for telcos"
     excerpt: "Microsoft’s push into the telecoms market continues with the launch of a dedicated suite of cloud services called ‘Azure for Operators’, hoping to capitalise on increased demand from telcos in the 5G era."
     publishedDateTime: 2020-09-29T10:58:00Z
@@ -54,22 +40,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/kExEad3yNfdKVXRBuEsmfc-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "From Microsoft VP to law student: What this exec’s career transition says about AI and the law"
-    excerpt: "Mike Angiulo worked at Microsoft for 25 years as an engineering manager and vice president for products including Windows PCs, Microsoft Outlook, Xbox, Surface, and cloud and artificial"
-    publishedDateTime: 2020-09-30T21:20:00Z
-    webUrl: "https://www.geekwire.com/2020/microsoft-vp-law-student-execs-career-transition-says-ai-law/"
-    ampWebUrl: "https://www.geekwire.com/2020/microsoft-vp-law-student-execs-career-transition-says-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-vp-law-student-execs-career-transition-says-ai-law/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 92
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/09/mike-angiulo-2-630x420.jpg"
-        width: 630
-        height: 420
         isCached: true
   - title: "Microsoft (MSFT) Azure to Transform 5G Edge Cloud Computing"
     excerpt: "Microsoft MSFT is focused on making the most of 5G networking capabilities to transform cloud and edge computing. The tech giant is working in collaboration with the telecommunications industry to develop a carrier-grade platform for edge and cloud –– Azure for Operators."
@@ -111,20 +81,6 @@ related:
       - url: "https://www.androidheadlines.com/wp-content/uploads/2020/09/Microsoft-Logo-DG-AH-2020.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Deep Neural Networks Market Booming Worldwide with leading Players Google, Oracle, Microsoft, IBM"
-    excerpt: "Global Deep Neural Networks Market The global Deep Neural Networks Market size was valued at USD 1.26 Billion in 2019 and is anticipated to reach USD 5.98 Billion by 2027 at a CAGR of 21.4%. The global neural networks market is growing predominantly as the demand for implementing the deep neural network in healthcare and BFSI sectors are flourishing extensively."
-    publishedDateTime: 2020-09-29T08:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-neural-networks-market-booming-worldwide-with-leading-players-google-oracle-microsoft-ibm-2020-09-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 73
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Microsoft aims to sharpen edge, 5G deployment with Azure for Operators"
     excerpt: "IT and cloud giant announces partnership programme with telecommunications industry to more effectively enable the roll-out of next-generation networks."
@@ -169,6 +125,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Intelemark's New Microsoft Azure Cloud-Based AI Proprietary Software Fuels International Expansion"
+    excerpt: "Intelemark, a national leader in the lead generation/appointment setting industry for more than 20 years, is pleased to announce the"
+    publishedDateTime: 2020-09-30T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/intelemarks-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion-301141708.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 55
+    images:
+      - url: "https://mma.prnewswire.com/media/1294546/Intelemark_Logo.jpg?p=facebook"
+        width: 1447
+        height: 759
+        isCached: true
   - title: "Azure for Operators launches as Microsoft faces global outage"
     excerpt: "Microsoft it taking the rough with the smooth this week as it announced the launch of Azure for Operators, while tackling a major global outage."
     publishedDateTime: 2020-09-29T10:47:00Z
@@ -196,6 +166,20 @@ related:
       - url: "https://s27389.pcdn.co/wp-content/uploads/2020/09/microsoft-launches-azure-for-operators-expand-connectivity.jpeg"
         width: 1080
         height: 675
+        isCached: true
+  - title: "Microsoft Unveils 5G/Telco Playbook With ‘Azure For Operators’"
+    excerpt: "Microsoft Azure Monday laid out its playbook to partner with communications service providers by providing a carrier-grade platform for edge and cloud computing to help network operators realize the full potential of 5G technology."
+    publishedDateTime: 2020-09-28T19:57:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-unveils-5g-telco-playbook-with-azure-for-operators-"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/025f-0ff0d7dce6e1-290de920b9a0-1000/microsoft-azure-sign.jpg"
+        width: 610
+        height: 457
         isCached: true
   - title: "Microsoft Touts Azure as 'Carrier-Grade Platform' for Telcos Deploying 5G"
     excerpt: "Microsoft on Monday affirmed its software-defined networking infrastructure support for telecom companies, especially as they move more toward rolling out 5G wireless services."
@@ -239,6 +223,20 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Scality Announces 1 Terabit Per Second Performance for Scale-Out File System in Microsoft Azure Public Cloud"
+    excerpt: "Scality, a leader in software solutions for distributed file and object storage, today announced the technical preview"
+    publishedDateTime: 2020-09-29T20:10:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/scality-announces-1-terabit-per-second-performance-for-scale-out-file-system-in-microsoft-azure-public-cloud/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 35
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/Advantage-System-2-405x228.jpeg"
+        width: 405
+        height: 228
+        isCached: true
   - title: "Microsoft Azure Cloud Ramps for 5G Telecom Service Provider Partners"
     excerpt: "Microsoft Azure for Operators helps partners & telecommunications service providers (TSPs) roll out 5G networks and deliver new cloud-based services, Microsoft says."
     publishedDateTime: 2020-09-29T17:21:00Z
@@ -248,20 +246,15 @@ related:
       name: ChannelE2E
       domain: channele2e.com
     quality: 34
-  - title: "Andor Health Collaborates with Mentor to Deliver Next Generation, AI-Powered Virtual Experiences with Microsoft Technology"
-    excerpt: "Andor Health and Mentor Worldwide LLC have formed a collaboration to provide the aesthetic physician community with the next-generation virtual health experiences to enhance the relationship between a surgeon and their patients."
-    publishedDateTime: 2020-09-30T13:30:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-medical-technology-health-artificial-intelligence-computing-and-information-technology-7ebeb192b3437584eac7a740d6619523"
+  - title: "Scality Announces 1 Terabit Per Second Performance for Scale-Out File System in Microsoft Azure Public Cloud"
+    excerpt: "data remains in native Azure format and fully accessible by any Azure service for use cases including data analytics, machine learning and more. Scality SOFS has been available as part of Scality's industry-leading on-premises storage solution, RING ..."
+    publishedDateTime: 2020-09-29T13:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/scality-announces-1-terabit-per-second-performance-for-scale-out-file-system-in-microsoft-azure/article_f685f50b-01a5-5b3c-b019-70e8299790d2.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 28
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 15
 
 secured: "PiWdw1VSrcSJP5TOFmD5OUjNxTYU7NCm7yqFVyNGEmTcD3AouNHJwef9czt1Bw0z6s65abLFOr2HkmrUDAd1vUCXp5/6HyM1knRGj0xNxPTsMGJL4aRQAexl3Zn+fIobM/WNE9cluknPmncecSyq+oKDvPZF6muT6rYDNnptyz5Bd3aDorvE5TFIWkBUKGiICzwTIGZb4LxK3rLosJl3I5tmYpYkJgnjYKIwt8dKyhm5Lp4x65VSNa309DgU4eoeN5KjTb44iqcyHX3Nvb+UV7DwP8ADQnmOXj5H3ZMrEFOnNcgDzE+wCuaj2r58Ge6xuoYWcRvnII5oKiaowRIlQPzs1PUgYcd0h8bie09GRkU=;QJy7Cj9ZYmQeiNBRVUShjQ=="
 ---

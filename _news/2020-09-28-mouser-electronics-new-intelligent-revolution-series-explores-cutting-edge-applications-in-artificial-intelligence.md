@@ -7,7 +7,7 @@ originalUrl: "https://www.eejournal.com/industry_news/mouser-electronics-new-int
 webUrl: "https://www.eejournal.com/industry_news/mouser-electronics-new-intelligent-revolution-series-explores-cutting-edge-applications-in-artificial-intelligence/"
 type: article
 quality: 15
-heat: -1
+heat: 15
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 512
     height: 512
     isCached: true
-
-related:
-  - title: "Mouser Electronics’ New Intelligent Revolution Series Explores Cutting-Edge Applications in Artificial Intelligence"
-    excerpt: "Artificial intelligence has revolutionized many high-profile industries, and we are now seeing this groundbreaking technology applied to new applications in life sciences,” said Kevin Hess, Senior Vice President,"
-    publishedDateTime: 2020-09-27T10:05:00Z
-    webUrl: "https://kdhnews.com/news/ap/mouser-electronics-new-intelligent-revolution-series-explores-cutting-edge-applications-in-artificial-intelligence/article_6b26dc74-5db8-5835-ad27-f326ca303a4f.html"
-    type: article
-    provider:
-      name: Killeen Daily Herald
-      domain: kdhnews.com
-    quality: 15
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/f/79/f7981298-6a32-5a52-a118-213abc57e65f/5f6b74e630500.image.jpg?resize=945%2C630"
-        width: 945
-        height: 630
-        isCached: true
 
 secured: "gQnV9Vz9fttQzhx0yK5tAIPjd83Gc7M3umw3RcV00iAjxbf+ZLumz0CV55aXgPShgPpw0wyb7t7LxxRpFYlOBU70bPPE/5FspFZWGPBDMOi9STh3ynB9I8IRrQRKQFuQBVlLmYzERQMI0rgG288j4SpXvr3tvhlloSUdK8kguN8/Fi7vQxo3IGSNiI+ISIj7Fad884G+j5ACAaD3Sdia13qnPPBWp+z9JCsQmo3s4BpcAJhlTtno1DaeIfFZpEvM3ykxhGw6w7h9dPRaJshOW48dmP/qbNLn+TAbphKQa3AocVD2nENiYiWb6qDWFsxBsmZuLMKiHqETKHvoa8yYCNDqaIMqkMs1dxVyLVy6utA=;dGCyzJOJNLbWC6nmWECK3A=="
 ---

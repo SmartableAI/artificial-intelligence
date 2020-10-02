@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2020-09-cannabis-lacking-machine-gap.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-09-cannabis-lacking-machine-gap.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Phys.org
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Cannabis data lacking, but machine learning could help"
+    excerpt: "Everyone's heard of THC and CBD. But many other active compounds in cannabis interact to influence its effects. A new study confirms that those compounds are seldom tested for, and strain name is not indicative of potency or chemical makeup."
+    publishedDateTime: 2020-10-02T02:02:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/09/200929123516.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Cannabis data lacking, but machine learning could help"
     excerpt: "Everyone's heard of THC and CBD. But many other active compounds in cannabis interact to influence its effects. A new study confirms that those compounds are seldom tested for, and strain name is not indicative of potency or chemical makeup."
     publishedDateTime: 2020-09-29T13:11:00Z

@@ -42,6 +42,22 @@ related:
         width: 800
         height: 453
         isCached: true
+  - title: "PM Modi to inaugurate global virtual summit on Artificial Intelligence on Oct 5"
+    excerpt: "The summit is being organised by the Ministry of Electronics and Information Technology (MeitY) and NITI Aayog."
+    publishedDateTime: 2020-10-02T03:17:00Z
+    webUrl: "https://www.newsr.in/n/India/1zlu60yal3/PM-Modi-to-inaugurate-global-virtual-summit-on.htm"
+    ampWebUrl: "https://www.newsr.in/n/India/1zlu60yal3/PM-Modi-to-inaugurate-global-virtual-summit-on.htm"
+    cdnAmpWebUrl: "https://www-newsr-in.cdn.ampproject.org/c/s/www.newsr.in/n/India/1zlu60yal3/PM-Modi-to-inaugurate-global-virtual-summit-on.htm"
+    type: article
+    provider:
+      name: newsr.in
+      domain: newsr.in
+    quality: 55
+    images:
+      - url: "https://cdn.newsserve.net/newsR256.png"
+        width: 256
+        height: 256
+        isCached: true
 
 secured: "/eFbT96AORcM5nRaBRb1blvDUqnUHyl5wA1XWPBJB2gsp+6hJFchd4n7PjR+ex9nPUgPHkhAUwgCcFc1Km09EfLXL51du1l/wvOW/8duGpC4g/jCdSO+MpTMmpwNvDscHzQP6f1Yx5l5wWxSLbHIdFBr7uEjpM6G8WR+kODbYqOo+LCPI+K23D4H+pslWaQb7plJBxHJvA9Mbwv16LgXfv5xOyVhygMVVOCuHpVWqMA3Ed2V6Ce+Fi17euvokmYSDiWoxqDFlncKqBX0AwhKVXqm+DNeZRMVGTFzShfhYDjSoWIpqRT5MsJtm2BCUV9j/sO+cz3NHsQUKGkTqcJOCjXStgJu0aAGM4O2aUXDhsQ=;8D14lSYII+j3Vp53aOiUEw=="
 ---

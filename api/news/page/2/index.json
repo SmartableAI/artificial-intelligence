@@ -255,6 +255,57 @@
       ]
     },
     {
+      "path": "_news/2020-10-01-from-microsoft-vp-to-law-student-what-this-execs-career-transition-says-about-ai-and-the-law.md",
+      "title": "From Microsoft VP to law student: What this exec’s career transition says about AI and the law",
+      "excerpt": "Mike Angiulo worked at Microsoft for 25 years as an engineering manager and vice president for products including Windows PCs, Microsoft Outlook, Xbox, Surface, and cloud and artificial",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/microsoft-vp-law-student-execs-career-transition-says-ai-law/",
+      "originalUrl": "https://www.geekwire.com/2020/microsoft-vp-law-student-execs-career-transition-says-ai-law/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/09/mike-angiulo-2-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-vp-law-student-execs-career-transition-says-ai-law/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-vp-law-student-execs-career-transition-says-ai-law/amp/",
+      "publishedDateTime": "2020-09-30T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-say-goodbye-to-hold-music.md",
       "title": "Say goodbye to hold music",
       "excerpt": "Sometimes, a phone call is the best way to get something done. We call retailers to locate missing packages, utilities to adjust our internet speeds, airlines to change our travel itineraries...the list goes on. But more often than not, we need to wait on hold during these calls—listening closely to",
@@ -1185,48 +1236,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-survey-results-missourians-voice-opinions-on-missouri-law-enforcement-training.md",
-      "title": "Survey Results: Missourians voice opinions on Missouri law enforcement training",
-      "excerpt": "Changes could be coming to the way law enforcement officers are trained and disciplined in the state of Missouri. This decision comes after the Department of",
-      "sourceUrl": null,
-      "webUrl": "https://www.ozarksfirst.com/local-news/regional-news/survey-results-missourians-voice-opinions-on-missouri-law-enforcement-training/",
-      "originalUrl": "https://www.ozarksfirst.com/local-news/regional-news/survey-results-missourians-voice-opinions-on-missouri-law-enforcement-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ozarksfirst.com/wp-content/uploads/sites/65/2020/09/19EC31C4A06948DEB779673F2C7FDCB8.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.ozarksfirst.com/local-news/regional-news/survey-results-missourians-voice-opinions-on-missouri-law-enforcement-training/amp/",
-      "cdnAmpWebUrl": "https://www-ozarksfirst-com.cdn.ampproject.org/c/s/www.ozarksfirst.com/local-news/regional-news/survey-results-missourians-voice-opinions-on-missouri-law-enforcement-training/amp/",
-      "publishedDateTime": "2020-09-29T21:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ozarks First",
-        "domain": "ozarksfirst.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
