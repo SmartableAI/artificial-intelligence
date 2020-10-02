@@ -7,7 +7,7 @@ originalUrl: "https://buffalonews.com/opinion/another-voice-court-will-force-tru
 webUrl: "https://buffalonews.com/opinion/another-voice-court-will-force-trump-to-leave-office-if-he-loses/article_a67eaaa8-027f-11eb-8d3c-bb6400230116.html"
 type: article
 quality: 24
-heat: 34
+heat: 24
 published: false
 
 provider:

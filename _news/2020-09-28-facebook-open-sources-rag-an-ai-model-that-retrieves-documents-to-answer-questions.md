@@ -86,6 +86,22 @@ related:
       name: InfoSur Hoy
       domain: infosurhoy.com
     quality: 38
+  - title: "Indian fact checking site NewsMobile with US varsity startup FakeNetAI Win IFCN-Facebook Global Innovation Challenge"
+    excerpt: "In today technology news, we covered about the Indian fact checking site NewsMobile with US varsity startup FakeNetAI Win IFCN-Facebook Global Innovation Challenge"
+    publishedDateTime: 2020-09-29T20:54:00Z
+    webUrl: "https://www.compsmag.com/news/technology/indian-fact-checking-site-newsmobile-with-us-varsity-startup-fakenetai-win-ifcn-facebook-global-innovation-challenge/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/indian-fact-checking-site-newsmobile-with-us-varsity-startup-fakenetai-win-ifcn-facebook-global-innovation-challenge/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/indian-fact-checking-site-newsmobile-with-us-varsity-startup-fakenetai-win-ifcn-facebook-global-innovation-challenge/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 36
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/09/Indian-fact-checking-site-NewsMobile-with-US-varsity-startup-FakeNetAI.jpg"
+        width: 920
+        height: 690
+        isCached: true
 
 secured: "uhGdANU03a8n5D8d2rVEx+3zmB9Bd6t/kwZTOqw+whtbKowbT5qV7iKYYDQVE51iXELMEgP91qEQOVmar1BYtSIWxYhXLaQmpe9TUtY9b53vvssTQ5sAOuArOoqbtY+H038xeidq1kQxlMlQZDoAbFiwjoEoXLnpowwLw9P3lEoT5aflM2WmpAU0tijMGqNiWeocSOxwfWaV97ZAkXOontE8Wlu2HiRDfEA47IZo5B3bPuNUoEGmsf8gNOtTa9LQL+TrFDd/ed6xr5jGaDHZANtVH6RBdAgWPXHnV2vSfJtoyeln4zKetxwntLrvXpcBVKoCsy9A6lqk5HTCNpz67r+3HHXluKcXf4oy/TCnrTH3egKY1Z4bVXE2BLOKpMT3/39/Cidl1kqJ011YG0w9g8TK8BtUFG/uritg9jfJ82WjORtiLC+p/cygpmmujskt/atrzu6I3Ngn9iR6jxgHHSRv6pA1HfVnI/4uhtBbijCRFslM0Q+F9tco2ONj+g2lcmtZqdWOZiNRKBf9YkVONA==;CSl2QPneBR9WwKFOImRUWA=="
 ---

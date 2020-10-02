@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/north-carolina-heal
 webUrl: "https://apnews.com/press-release/business-wire/north-carolina-health-care-industry-technology-business-medical-technology-2382830432bc40c8810070d3dc678026"
 type: article
 quality: 8
-heat: 18
+heat: 8
 published: false
 
 provider:

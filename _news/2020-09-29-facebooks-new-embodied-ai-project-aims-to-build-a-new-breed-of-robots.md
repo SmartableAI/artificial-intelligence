@@ -81,6 +81,22 @@ related:
         width: 6000
         height: 4500
         isCached: true
+  - title: "Indian fact checking site NewsMobile with US varsity startup FakeNetAI Win IFCN-Facebook Global Innovation Challenge"
+    excerpt: "In today technology news, we covered about the Indian fact checking site NewsMobile with US varsity startup FakeNetAI Win IFCN-Facebook Global Innovation Challenge"
+    publishedDateTime: 2020-09-29T20:54:00Z
+    webUrl: "https://www.compsmag.com/news/technology/indian-fact-checking-site-newsmobile-with-us-varsity-startup-fakenetai-win-ifcn-facebook-global-innovation-challenge/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/indian-fact-checking-site-newsmobile-with-us-varsity-startup-fakenetai-win-ifcn-facebook-global-innovation-challenge/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/indian-fact-checking-site-newsmobile-with-us-varsity-startup-fakenetai-win-ifcn-facebook-global-innovation-challenge/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 36
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/09/Indian-fact-checking-site-NewsMobile-with-US-varsity-startup-FakeNetAI.jpg"
+        width: 920
+        height: 690
+        isCached: true
 
 secured: "lP0f/260rm9slmy/S/mZ1RGrkGhic1HPj7oJdzgE9L7n4Cx+673k5h/e7KAqUX/uFtRMjbkO3e7oOMiscBhSAAT9EV5BrbN0GcLufRrkWcuMT7GU5j3z+CqNyPn9XCuHsGslmzL1/agTS40h+DGe0dyiln9zJ4fomLqBtjNwSmeDJe0xs3HdWXXK0AoPq1fKLw2vl5LSTLfAA74dhfQ3nEUtxejF0C/UZ/zn0ZfCXKAwkftF/6pOMlideWFlP6dHP8QxeKaM+whpBuYSSBAt+RAcFa3OfaUcklYH69DTxG2D4AmMMM83y34PEVuI3Rs3dqvk019JXD835+6SFJBiNYQrp69l6fwN/uh+p/RyWwI=;pK5eQRttJRgXAt6AmXhAHw=="
 ---

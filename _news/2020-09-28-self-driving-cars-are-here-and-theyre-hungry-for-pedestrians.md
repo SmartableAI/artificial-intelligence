@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving cars are still going to take a long time, people"
+    excerpt: "A few years ago, I visited a super promising company called Luminar, which makes LiDAR, or Light Detection and Ranging, technology that helps autonomous cars see the world around them. Now, Luminar is going public."
+    publishedDateTime: 2020-09-29T11:07:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/self-driving-cars-luminar-autonomous-driving-highways/"
+    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/self-driving-cars-luminar-autonomous-driving-highways?amp"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/self-driving-cars-luminar-autonomous-driving-highways?amp"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 44
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2020/09/image-1.png?fit=740%2C416"
+        width: 740
+        height: 416
+        isCached: true
   - title: "The self-driving cars of the future aren’t inclusive. They’re trying to change that."
     excerpt: "By combining artificial intelligence with research that looks into the way people interact with machines and computers, researchers at Northeastern and the University of Maine want to help make self-driving cars even smarter and accessible for people who are visually impaired or blind."
     publishedDateTime: 2020-09-30T22:02:00Z

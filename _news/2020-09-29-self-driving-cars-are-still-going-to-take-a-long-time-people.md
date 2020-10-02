@@ -27,27 +27,30 @@ images:
     isCached: true
 
 related:
-  - title: "Worldwide Self-driving Taxi Industry to 2024 - Key Leading Countries"
-    excerpt: "PRNewswire/ -- The 'Global Self-driving Taxi Market 2020-2024' report has been added to ResearchAndMarkets.com's"
-    publishedDateTime: 2020-09-30T16:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/worldwide-self-driving-taxi-industry-to-2024-key-leading-countries-1029636271"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/worldwide-self-driving-taxi-industry-to-2024-key-leading-countries-1029636271"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/worldwide-self-driving-taxi-industry-to-2024-key-leading-countries-1029636271"
+  - title: "Self-driving cars are here, and they're hungry for pedestrians"
+    excerpt: "Footage of a Tesla Model 3 safety test shows the car's autonomous braking system failing, causing the vehicle to slam into a robot pedestrian."
+    publishedDateTime: 2020-09-28T14:31:00Z
+    webUrl: "https://news.avclub.com/self-driving-cars-are-here-and-theyre-hungry-for-pedes-1845201537"
+    ampWebUrl: "https://news.avclub.com/self-driving-cars-are-here-and-theyre-hungry-for-pedes-1845201537/amp"
+    cdnAmpWebUrl: "https://news-avclub-com.cdn.ampproject.org/c/s/news.avclub.com/self-driving-cars-are-here-and-theyre-hungry-for-pedes-1845201537/amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-  - title: "Worldwide Voice Recognition Biometrics Market is Forecast to Grow by USD 2.60 Billion During 2020-2024, Progressing at a CAGR of 19%"
-    excerpt: "The \"Global Voice Recognition Biometrics Market 2020-2024\" report has been added to ResearchAndMarkets.com's offering. The voice recognition biometrics market is poised to grow by USD 2.60 billion during 2020-2024 progressing at a CAGR of 19% during the forecast period."
-    publishedDateTime: 2020-09-28T11:23:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/09/g17674891/worldwide-voice-recognition-biometrics-market-is-forecast-to-grow-by-usd-2-60-billion-during-2020-"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17674891"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17674891"
+      name: AV Club
+      domain: avclub.com
+    quality: 44
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/i6yquwmxcwoyuvhgm7hd.jpg"
+        width: 800
+        height: 449
+        isCached: true
+  - title: "The self-driving cars of the future aren’t inclusive. They’re trying to change that."
+    excerpt: "By combining artificial intelligence with research that looks into the way people interact with machines and computers, researchers at Northeastern and the University of Maine want to help make self-driving cars even smarter and accessible for people who are visually impaired or blind."
+    publishedDateTime: 2020-09-30T22:02:00Z
+    webUrl: "https://news.northeastern.edu/2020/09/30/the-self-driving-cars-of-the-future-arent-inclusive-theyre-trying-to-change-that/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Northeastern University
+      domain: northeastern.edu
     quality: 0
 
 secured: "D0L329tEXcQ8hypN9ncBo32dJ7OJ1MtLfsr8mUHtYQqZJFW/ez6Uo8F2o7V2Xo8gzZMoaS1GVikI+qR81uOzcMwawhW4hl9Iw2Khtt46SAeUkDiTQVHCDS4W48agpAIifododTZD50HjFllPo7ywOM4YzAB2J/0nNZQGMy6LsA7cKNAymJCYfBkhTkSqo8DFgMre6cqHE6aTxwKYhgGjQp90/UclXqAz7Tld9hcg+Y7afZ4uOx29VQdiKPaaW9eKIRkiDwPiGKcOgvgkSvrOUHd0DwLSbOUMthVTldNNgeQ9VhZiNrl0ZaqZdWpG3Fs9jbzUymPx1jZPSE9te/EGv/qtKSMgxh/o4B3kdqV14RhmZV2slxeFHcGYhfZKas9lRP4lfJXkLLrAb5uQ54JqRW2dcDYyzgjtU0+eLJEFyvCfR9AnxDdDkcjioIknZUnapTUbhmI1AMp7nl1WaJCqxzNS4dm0LhkVTC3qQLeFwKXvvPASXHSKxpe7papwMnXCZMHD/+xkGTNMKrG4AsWD5w==;/sam6DSu3kavXhqUz5HjTw=="

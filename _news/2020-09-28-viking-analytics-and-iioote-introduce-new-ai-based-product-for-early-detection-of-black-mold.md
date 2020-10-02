@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/viking-analytics-and-iioo
 webUrl: "https://www.prnewswire.com/news-releases/viking-analytics-and-iioote-introduce-new-ai-based-product-for-early-detection-of-black-mold-301138841.html"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 600
     height: 315
     isCached: true
-
-related:
-  - title: "AGL transforms advanced analytics to run on central Azure platform"
-    excerpt: "AGL has rebuilt its analytics capabilities to run off a central platform powered by Azure services instead of running projects from standalone virtual machines and laptops. The new platform went live in mid-2020,"
-    publishedDateTime: 2020-09-27T20:54:00Z
-    webUrl: "https://www.itnews.com.au/news/agl-transforms-advanced-analytics-to-run-on-central-azure-platform-553823"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/20200924104634_AGL.png"
-        width: 2584
-        height: 1476
-        isCached: true
 
 secured: "gEEN/VPCXVe+TkmP/LM7jK3k+JiMQ09KejdbQwwtGVPl7WZb4G7yZ+vKb7PlIZehluKTJKxgbzrw1Z2oiUOlM6fFfg/pgE0ZB5Y3NVacWGnQf4LRZIVvIK7+4NTIkWh788Ut7LyliLc9r2UNKpo0bqSEz3Ll4MulI61bb0BIBNdceFmKb/Je/Asyojd7afC5EvNMQ8zEQYj/sA2v4oij6IU15o+ZD+7b/uhIqIliVCFldGGF3MvAIOu2L1hl1F9Z7iIQ4V3J8bSZexbF1T3WJF0uqHa7WTQ6h8tKX/6N+1Qb5aXI5aAPDHDg6B6dxLpCkHfnFeY2mUHx129kEkhRfA86e+fYAGbi5gHfDXv8gU4=;Me0dy5V5cYmgtlP4ZSjj3g=="
 ---

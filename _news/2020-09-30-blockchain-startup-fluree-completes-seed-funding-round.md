@@ -35,6 +35,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 39
+  - title: "AYN InfoTech Strengthens Organizations Through Artificial Intelligence And Blockchain Enabled Enterprise Software Solutions"
+    excerpt: "According to Martin Fowler, a British software developer, author, and international speaker on software development, “Enterprise applications are about the display, manipulation, and storage of large amounts of often complex data and the support or automation of business processes with that data."
+    publishedDateTime: 2020-09-30T17:24:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-industry-information-technology-computer-and-data-security-9a0e40b720934f0682d6da62c8879785"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "C7tdAtH9BnldntpVqN8O7zpM7nrgexmpLHndM1mmEKU3+pyZhgqlVPIdR0sdqKWVQgcLpNUWEyfnVNSzJSIFABmZU6Gw0984Pwt4OAP+ZinNiaG2+7DAt0IgfI5yMSnvji+Vp89siL09RfCHo0mqDW1KL9qL8Aj4AXhHbAsefcvxPmhzLx4jvfjExPmQv0559JSRonw88P1UyYfySbYTYqHnUyw2lNScHeHVr77XucgBngxs8mF0tLe31F29WtA5dg/9wgaqzcL//nQ2m+sbMBeiHkvdNfwcQMdeiq9ad5Z2R2W3EZ6UgnqG/dKxuVXgqFbG9lm+C5g8pjAhloH299sxmxePS3Ly26aJQo+yeMk=;XBDxJKvYtMslzrNoy2naXQ=="
 ---

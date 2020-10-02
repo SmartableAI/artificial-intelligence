@@ -9,7 +9,7 @@ ampWebUrl: "https://technuter.com/operating-system/microsoft/microsoft-translato
 cdnAmpWebUrl: "https://technuter-com.cdn.ampproject.org/c/s/technuter.com/operating-system/microsoft/microsoft-translator-adds-assamese-strengthens-support-for-12-indian-languages.html/amp"
 type: article
 quality: 55
-heat: 65
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft now supports 12 Indian languages including Assamese"
+    excerpt: "Microsoft Translator, a cloud-based free translation and transcription service from Microsoft, has added support for Assamese, the official language of Assam spoken by more than 14 million people in the Northeast."
+    publishedDateTime: 2020-09-29T00:00:00Z
+    webUrl: "https://www.compsmag.com/news/technology/microsoft-now-supports-12-indian-languages-including-assamese/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/microsoft-now-supports-12-indian-languages-including-assamese/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/microsoft-now-supports-12-indian-languages-including-assamese/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 59
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/09/Microsoft-now-supports-12-Indian-languages-including-Assamese.png"
+        width: 920
+        height: 485
+        isCached: true
   - title: "Microsoft Translator adds Assamese to its list of real-time translation for Indian languages"
     excerpt: "Microsoft India said on Wednesday that it has added Assamese as the latest Indian language in Microsoft Translator, increasing the number of Indian languages it supports to 12. The Azure-based service will now provide real-time translation and transliteration support for the language."
     publishedDateTime: 2020-09-30T08:22:00Z

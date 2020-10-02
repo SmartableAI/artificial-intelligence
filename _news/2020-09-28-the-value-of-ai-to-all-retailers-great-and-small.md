@@ -7,7 +7,7 @@ originalUrl: "https://www.information-age.com/value-ai-all-retailers-great-small
 webUrl: "https://www.information-age.com/value-ai-all-retailers-great-small-123491822/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 981
     height: 675
     isCached: true
-
-related:
-  - title: "The role of artificial intelligence in cancer treatment"
-    excerpt: "With continuous enhancement of deep learning technology, artificial intelligence (AI) is constantly expanding its boundaries. In the medical field, the application of AI is often manifested in assisting diagnosis of early tumors,"
-    publishedDateTime: 2020-09-28T15:37:00Z
-    webUrl: "https://www.pharmiweb.com/article/the-role-of-artificial-intelligence-in-cancer-treatment"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 39
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
-        isCached: true
 
 secured: "nybhYskVHaVTe/7u1Hm5U7yKVT0eyYP8K4cz+vFXeiOWkhBKWdYUwHaC3x0znA/Klky7v1vnPHEawTY2hGIfbA4hJ1KXka5iXTI8RkWvI3FAubD0nvhAlJAcdt0zxpEyWTZQjB38kxs7CLytRH15yQDxYXC1JJQ8a8HA3/K6ZNPkING05o6fHSrL1Gq7QOm+NNR+jc/D+bI38srnY58n1dZdn+PaXtHajZ1EGhW+mhGDm/X7KT9NPwUkYuVhdHipgmhfVH1GMqZji+cHpuvcpTN7aAwTgZ63Je9Zz4Z/7OwwwXJpffsgI1aa/6K9/CbbkO9Kwt9yRQT2FAOyKvZSjdsxufzLm3gcnHVFSxoXBSU=;CBjRjPinOSjR/hUWxUxXQw=="
 ---
