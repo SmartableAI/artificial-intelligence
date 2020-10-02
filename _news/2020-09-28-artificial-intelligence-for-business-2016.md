@@ -24,6 +24,22 @@ images:
     height: 588
     isCached: true
 
+related:
+  - title: "Epic Ways to Use Google Voice for Your Business"
+    excerpt: "[Benefit # 1] They Promote Human Interaction: For 43% of smartphone users, voice recognition will free them from mobile addiction and allow them to interact more with the world around them. 53% agree that “it would be easier for technology to answer them ..."
+    publishedDateTime: 2020-10-02T21:47:00Z
+    webUrl: "https://customerthink.com/epic-ways-to-use-google-voice-for-your-business/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 24
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/pixabay_smartphone-2123520_1280-mobile-app-smartphone.jpg"
+        width: 1280
+        height: 687
+        isCached: true
+
 secured: "D8/9wSi03PtCTPsYQERXszRRTURCnpj7vuOA2hzij8b0jEnpqiCNIFD3ySur0g/azE9Bcr0ggufkNkcJ/Qlo97Jd/c2xZ9KUY4g7fnU2/mnlP1lR0LF+Y3Rv1rNgsZCBsrgHz8BxV2EtvdkH4NvvxhM0wrWn85aLPmtfhi5wG0Bmi9RW566JaP2NhVv4CdqhD9aQgq24JL9J0SFlATkVRJRS7J1a3ljGXsT11VEhPmM8HWZR9vHHTq5XwBFwXcrKFmEt03mZGjc4f2C1lRaiR3kED8rZXHqNUypAoMDOCKoomyT0wNw/3LeVI0TwytnH18Z8tRqYeVgiOyAATK0F5Hz6CT4PNIxZiQMqKlTi/mI=;rTnaTO8hEQmNA5V2Msvlaw=="
 ---
 

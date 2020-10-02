@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/357127"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/357127"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 338
     isCached: true
 
-secured: "svY+3hNBngPL0xb4HGZkP8hGILE/LBQkDX2CL3dneTzmdihgmEswz2hRGGy+urIjEXViBf06moiNvEKbPv24/ALY1l3wPyNpeOtRfFcxTfzPW6z2XxrKWgFQFzWVv/ofyMUYwIZyXVUiGhIOGKu3hs17lXDLHVFLivaTSUxkCBHS08nZTL0ApQaOOPwnjnH46QmJlXgi+WYYTaRlGSVc1JQr4bTR2++EmdY9jWl+NhhHyKbQffX4W7SxrlCnJljvSEwfqPWu2UZQBpQ613sJVCDXHK2U2eAN1FA5bWLBPxHshKyB9gdL39/tOoe85fvA+pWtp6csCGcSQSvAKGUL2SK1dHtnyoTFPnB7r9sfx7o=;uDvnysJ3ZNFDjRW5iwKAXw=="
+secured: "CQW6+IkvDWjsp8TjRxEaIoNZcd57i2P5e82wRFBWzL21x1imdYoqL8LdVrTGx66qXZcl6jG3M1FvD9hP8J/fDi3dlcBqA3GkY2JPmj5RfQFAbeRDpglZ2yPR//JEtea6tERWxjWzeugtH6w+5B2HtNvobQJp5Pr5vxMrB51gQyvNShKGuRiJUWIphgFBw/tfz+eRqX+kq7xYM9bso++/qmFtlKEuOKgXdWP9Z1PXOmsmU0g8IXzRApqSZWSDfh9jaM8rq3ezCdb2bhHpvH90pwqTURqrLBvWG7qWhZvymLDlvabq+QF6onR0MyK/Cp+uqzrL/fD+EnKmG+7nPEZEslkcnGalQG9Kv2xu9RNQck0jI1ZGEUWxS0i2DAYSSwgLluThLPt+czVrLsjPoPRbkhY1W9KrsqImrVOGFuXXpP1hH3mwM9geSOW8IZ29l8BmY67qZMgmscQv39dZCLytr7e4IYVMQZzK8JZ6rKzDs+pXvIFch0HWfKORxHddwBu1LPTjaqk8kGEW4WD+7WqHBw==;RM05bG9LpB1BgKA3w4Xwyg=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-ruby-3-0-prev
 webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-ruby-3-0-preview-1-release-cron-triggers-for-the-cloudflare-workers-and-tensorflow-recommender/"
 type: article
 quality: 62
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: SD Times
@@ -28,22 +28,6 @@ images:
     width: 1199
     height: 1280
     isCached: true
-
-related:
-  - title: "Tensorflow’s New Package Makes Building Recommendation Systems Easier Than Ever"
-    excerpt: "TensorFlow recommenders are built on TensorFlow 2.x and Keras. The design is modular for users to easily customise."
-    publishedDateTime: 2020-09-28T04:40:00Z
-    webUrl: "https://analyticsindiamag.com/tensorflow-tfrs-recommenders-package/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 52
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/09/tfrs.png"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "NGVVCVjsqugKkMa9J1cZ8WR0FiLC7TOuI/epxxatJp51aiF/SVpd5X4Nc0bUMIt2S5hBdD6V+VZvYv4TtoRtZvdIWZ8BlWhgq3Q8rCG52gixAc1HM3xheS8UELgQix5iV/bPpfkCZwlXOLczQo/UTzDxn8FYqG/EfBFXhqUlQUqluKrX+JVuNP7PQoFno7sUwdnEP3ksK0U/Bzm8iRIarZXGJElfeAEv3JUq5Ns8njRUS/yQkh2oQ00ic9I8S9TChAR9AUTVNp8/4BluWb3qo0prXHFDJsIjj9gvYcRXCj6bpaMm/diOboUfKxptBylFd/UgJohgpQjEKk2x4R2zsmcOtCyPH3KfVoEw95mHwc2YhmnZaP+Ge1fKMtSvl29oLExnn+Pv02QkedKjd467+sRdRZxIb2lP5CO/jGCO+q7nX9ip4PUCvxV3Wi6E5TpKffzod3gbRjPffz7RNKiM/CjGoAL0pFeSO2iUPPa91eKzz3HVE+ixcgkfeEHdhe0G7Wjawxxsg1GBkcQ2LK1TfA==;Y9I9E9SsT3OSgqbQql5bqw=="
 ---

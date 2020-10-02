@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/getting-started-with
 webUrl: "https://aws.amazon.com/blogs/machine-learning/getting-started-with-aws-deepracer-community-races/"
 type: article
 quality: 121
-heat: 131
+heat: 132
 published: true
 
 provider:
