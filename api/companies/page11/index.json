@@ -4,110 +4,114 @@
   "page": 11,
   "value": [
     {
-      "path": "_companies/narrative.md",
-      "title": "Narrative",
-      "excerpt": "Narrative is the company behind the Narrative Clip camera, a tiny camera and GPS that you clip on and wear. It’s an entirely new kind of digital camera with no controls. Instead, it automatically takes photos as you go. The Narrative app then seamlessly and effortlessly organizes them for you.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/narrative/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/narrative/",
+      "path": "_companies/noodle.ai.md",
+      "title": "Noodle.ai",
+      "excerpt": "Noodle.ai is your source for Enterprise AI®. We’re on a mission to create a world without waste. We believe in AI for radical efficiency and extraordinary good. We push the limits of data science to give business leaders a view into the past and future, so that they can stop wasting time and resources now, helping you plan, make, and move goods and resources for manufacturers and complex supply chains.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/noodle.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/noodle.ai/",
       "type": "profile",
-      "name": "Narrative",
+      "name": "Noodle.ai",
       "otherNames": [
-        "Third Dot AB",
-        "memoto",
-        "Narrative AB",
-        "Narrative Clip"
+        "Noodle Analytics, Inc."
       ],
-      "overview": "Narrative is the company behind the Narrative Clip camera, a tiny camera and GPS that you clip on and wear. It’s an entirely new kind of digital camera with no controls. Instead, it automatically takes photos as you go. The Narrative app then seamlessly and effortlessly organizes them for you.",
-      "website": "http://getnarrative.com/",
+      "overview": "Noodle.ai is your source for Enterprise AI®. We’re on a mission to create a world without waste. We believe in AI for radical efficiency and extraordinary good. We push the limits of data science to give business leaders a view into the past and future, so that they can stop wasting time and resources now, helping you plan, make, and move goods and resources for manufacturers and complex supply chains.",
+      "website": "https://noodle.ai",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/narrative-ab-narrative-clip-/",
-        "followers": 469
+        "url": "https://www.linkedin.com/company/noodle-ai/",
+        "followers": 15189
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/narrative"
+        "url": "https://www.crunchbase.com/organization/noodle-analytics-inc-noodle-ai"
       },
       "twitter": {
-        "username": "getnarrative",
-        "url": "https://twitter.com/getnarrative",
-        "followers": 24484
+        "username": "noodleai",
+        "url": "https://twitter.com/noodleai",
+        "followers": 1410
       },
-      "size": "11-50 employees",
-      "yearFounded": 2012,
+      "size": "201-500 employees",
+      "yearFounded": 2016,
       "locations": [
-        "Stockholm"
+        "San Francisco, CA",
+        "San Francisco, California"
       ],
       "funding": {
         "status": "Early Stage Venture"
       },
       "topics": [
         "AI",
-        "Computer Vision"
+        "Machine Learning"
       ],
       "heat": 0,
-      "tags": [
-        "Image Recognition",
-        "Wearables"
-      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/378800000542288111/9f0de099c28730e017ddaf26b60a048a_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1308514817435561984/vOQjwFYn_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Narrative",
+          "title": "Noodle.ai",
           "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHZxlcjlPLDrg/company-logo_200_200/0?e=1594857600&v=beta&t=iBpJAM7fr1JSHWA_glLCxjgCHhD3YqXB83j9QicCdOs",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ]
     },
     {
-      "path": "_companies/voyage.auto.md",
-      "title": "Voyage",
-      "excerpt": "Wave Computing is revolutionizing AI with its dataflow-based solutions, bringing deep learning to your data wherever it may be, from the datacenter to the edge.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/voyage.auto/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/voyage.auto/",
+      "path": "_companies/sentifi.md",
+      "title": "Sentifi",
+      "excerpt": "Sentifi is a Swiss tech company and provider of alternative data analytics. Our enterprise solutions are used by the world’s leading financial services organizations whilst our media solutions are integrated on the websites of more than 50 publishers in Europe and Asia.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/sentifi/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/sentifi/",
       "type": "profile",
-      "name": "Voyage",
-      "overview": "Wave Computing is revolutionizing AI with its dataflow-based solutions, bringing deep learning to your data wherever it may be, from the datacenter to the edge.",
-      "website": "https://voyage.auto/",
+      "name": "Sentifi",
+      "overview": "Sentifi is a Swiss tech company and provider of alternative data analytics. Our enterprise solutions are used by the world’s leading financial services organizations whilst our media solutions are integrated on the websites of more than 50 publishers in Europe and Asia.",
+      "website": "https://parashift.io/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/18078448",
-        "followers": 4537
+        "url": "https://www.linkedin.com/company/sentifi/",
+        "followers": 11489
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/voyage"
+        "url": "https://www.crunchbase.com/organization/sentifi"
       },
       "twitter": {
-        "username": "voyage",
-        "url": "https://twitter.com/voyage",
-        "followers": 8125
+        "username": "sentifi",
+        "url": "https://twitter.com/sentifi",
+        "followers": 4872
       },
       "size": "51-200 employees",
-      "yearFounded": 2017,
+      "yearFounded": 2012,
       "locations": [
-        "Palo Alto, CA"
+        "Zurich, Switzerland",
+        "Zurich, Zurich"
       ],
       "funding": {
-        "status": "Early Stage Venture"
+        "status": "Seed"
       },
       "topics": [
         "AI",
-        "AI in Autos"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=-j0tc0Y1CIE"
-        }
+        "AI in Finance"
       ],
       "heat": 0,
       "tags": [
-        "Autonomous Vehicles"
+        "FinTech"
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1278712351915536386/CoejbAt3_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1145902565151739905/KRRXTq0L_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Voyage",
+          "title": "Sentifi",
           "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQE_mtrM-SjMVQ/company-logo_200_200/0?e=1594857600&v=beta&t=kvL_dpqMRheoUPLs0WjZXn_V74Fh1zSdcN0VJxqBX4w",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ]
     }

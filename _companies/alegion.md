@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Alegion"
   url: "https://twitter.com/Alegion"
-  followers: 1771
+  followers: 1770
 
 size: 51-200 employees
 yearFounded: 2012
@@ -42,6 +42,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "URAUVP8bsdBDZ7P2JlB6aEHeGT3ObzzzlANe0UMAVMuTKZFPXiGh35uSzDJtI5uGqtXMcUzC+TaKo4s9vqx5BkjesDgUttm5J3yH4R1B2WUOmWfZ86TimP3DAubwQjZpPfo90UOKJqV372m2ryVDlHsleGTN5LOBCMQfziyp0pPPXgNNeNvLuWo9rWc7hhmijlIYGIS6JhjQovngD4lz0tt/QCVmrJUWcIEtelL86p3Du+M9/dMX8MKHE0izhBUaMIpR/xc1IJ/nosnssqj2pHvctmfdDRygx777JhugL4k8JGMZ8mUNXjZfQ0JiHamysmmCz5vyEmocaajz4z4EH/+16BqirD+CkMYO5325L1/eJ90aUmEDY9DQFe8Im3DIo5tEGCKLXtzumAiQn6GjzD+qzW7nbqy2TeByeZLqnOU=;946E9EQ3aMPLu5pM/y3m2Q=="
+secured: "nJ33gS46rliWuLbT1X+OPt+xWBc26jGQ1beya+6+CC6xWKTpysyGmd6mUH8YWrWg5r06xgp7aDDndt5WFjOUqaeDpKCAGqHAb5HECOADf0m2hLWA1V5D0CX76W58+qZcBF6lDCOyl7sywrbfSWtNCbg73vVkcWrR02zKwX1y953PT//jpSkcYvCVeeysXRWmyD3HOVCfkz4p9XwcjlLA7vFgoVZZWKNtKtjEq0L0rDtzUha7Cti6wS6NgkZjo7Vg7YEU9wFBbXxOvKC7cLZyZeUNfJVHU5lDpx8jK41Unbx+yQpLEtJ4x7LY0Daj39txFEpmyxrXPjLLJXXHOULLwmjAhx627Awes5x3C/JBkvRPnd/e35AUD9BpTK22TOqjXpg4CpF7h5XPCmEuXlghXb4m3+TmT4uF7cNJawiurN8=;/ArrXQUA04kssO8JJs2xmg=="
 ---
 

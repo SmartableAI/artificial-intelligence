@@ -2,7 +2,7 @@
 name: "Lumiata"
 overview: "Lumiata is the industry's first AI Platform purpose-built for healthcare. Lumiata is powered by 75 million-member data, proprietary clinical, risk and financial algorithms, and industry leading data science and machine learning talent. We help Business, Benefits and Care Management teams at health plans, providers and employers make better decisions–– from identifying and managing individual's risk to retaining customers in competitive insurance markets–– using easy-to-use, fast-to-deploy AI applications. The Lumiata AI Platform also arms internal data science teams in healthcare organizations rapidly develop and deploy predictive models and applications. Silicon Valley-based Lumiata is backed by tier 1 investors Khosla Ventures, BlueCross BlueShield Venture Partners, Sandbox Industries and Intel Capital."
 type: "profile"
-heat: 50
+heat: 57
 
 website: http://www.lumiata.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Lumiata"
   url: "https://twitter.com/Lumiata"
-  followers: 1064
+  followers: 1065
 
 size: 11-50 employees
 yearFounded: 2013
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=1uxjtyJdxbU"
 
-secured: "kddeA4mqoetVR7s695TQ3a2KQgoUUBjIyO7RafYku9Jv4qTPpfhzwGoGbvS0H6DLXMoqs8R8XgsnX9VdTIgJrahuiD2rvPquaW9WG+A9h8HLCM//Nop9UBgqrg9cxwNzsTgRJXjiiaJOCnMbh19q8dqGSjzFr9qtBchpgw6grZHktVSi8vBmTuWB2qPdnRkfAZW1OWUSH9ElBFSfc36GUVbbJcL0W+LH3SQ2uPWe3RLMRgf5ursVba202UrcTHfYbq3OOUTU+RHPTR46RhuATCC57u+6QmuE5Tp11EmvFiRxhv9hzJmwryuVbss3gocEBr9SfRrjYbqYC7aq4JrhOm0Mz+0UisxW0wLK/xjr/JPe0EfYhfYjB0hv1rzUvpT4Y+q/w7rpZQw6XA4L3QkTM7DHzhMX+H8XQPdtflztXhM=;AcoJJrFPehnNn8SXN+LQ9g=="
+secured: "mylpswI5bfwG94LXQxUIzTYrfXZ3BkT9MTznPQ6BB2YLr5F7NhQtJSgx63K5yv0eXs2fAjsbRMCgcbXGU0tEFgg5FVi+UPnjFGgJeC0suSy1nXGNW4+xTj4dj7CHP0iTk1s5NzD/dNY5O3Urs9Yih4bJBbuOC9U0tU/2pUrZR8ixPie5POkQct5+LXqf4Vowx3EmY8JCwVov0Us28IaDIKKYIQGASGnso6BPUdvPs6axDpvckFyvCn7jMxPXrx+j4l70wYYTuid6LEnQeJRC3hNHELVIzuObB0vfSTpaEvAOs58NmddITWS/ed9wUsI3GOqj5OuXyDm6rAzy7N1NU86GPqQPot9Q7MiP0Pfv7s/TN4US/TTLJIyPQnbltG5RPNyVyGr03fD9Zva2YME5GvkebP3JgpkxpyP67cTIqxs=;/zl328zNNbhdE3k7sEqQZQ=="
 ---
 

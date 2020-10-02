@@ -4,195 +4,77 @@
   "page": 2,
   "value": [
     {
-      "path": "_companies/preferred-networks.jp.md",
-      "title": "Preferred Networks",
-      "excerpt": "Preferred Networks, Inc. implements Deep Intelligence throughout the Internet to integrate data from the physical and digital worlds.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/preferred-networks.jp/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/preferred-networks.jp/",
+      "path": "_companies/cognitive.ru.md",
+      "title": "Cognitive Technologies",
+      "excerpt": "One of the Europe's top developers of autonomous driving technologies for ground transport, AI-based software and corporate business apps.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/cognitive.ru/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/cognitive.ru/",
       "type": "profile",
-      "name": "Preferred Networks",
-      "overview": "Preferred Networks, Inc. implements Deep Intelligence throughout the Internet to integrate data from the physical and digital worlds.",
-      "website": "https://www.preferred-networks.jp/en/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/preferred-networks-inc-/",
-        "followers": 1435
-      },
+      "name": "Cognitive Technologies",
+      "overview": "One of the Europe's top developers of autonomous driving technologies for ground transport, AI-based software and corporate business apps.",
+      "website": "https://www.cognitive.ru/",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/preferred-networks"
+        "url": "https://www.crunchbase.com/organization/cognitive-technologies"
       },
       "twitter": {
-        "username": "preferrednet",
-        "url": "https://twitter.com/preferrednet",
-        "followers": 5090
+        "username": "CognitivePilot",
+        "url": "https://twitter.com/CognitivePilot",
+        "followers": 1149
       },
-      "size": "11-50 employees",
-      "yearFounded": 2014,
+      "yearFounded": 0,
       "locations": [
-        "Tokyo, Japan",
-        "Chiyoda-ku, Tokyo"
+        "Tel Aviv-Yafo, Israel"
       ],
       "topics": [
         "AI",
-        "AI in Robotics",
         "AI in Autos"
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=cldaGudHP3I"
+          "url": "https://www.youtube.com/watch?v=7SxXEfB5rTQ"
         }
       ],
-      "heat": 31,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1268713412269228032/XH38w5wu_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Preferred Networks",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQF6xvtdYzDy6w/company-logo_200_200/0?e=1594857600&v=beta&t=6UJK1UAPD3QqK4LzT-uxdcrjthGhoEt57uNx3ZAn26o",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ]
-    },
-    {
-      "path": "_companies/zendrive.md",
-      "title": "Zendrive",
-      "excerpt": "Zendrive is leading the evolution of safety in an era of transportation innovation and mobile ubiquity. We've measured and analyzed 160-billion miles of driving data and are using it to better predict risk, reduce collisions, and save lives and money.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/zendrive/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/zendrive/",
-      "type": "profile",
-      "name": "Zendrive",
-      "overview": "Zendrive is leading the evolution of safety in an era of transportation innovation and mobile ubiquity. We've measured and analyzed 160-billion miles of driving data and are using it to better predict risk, reduce collisions, and save lives and money.",
-      "website": "http://www.zendrive.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/zendrive/",
-        "followers": 8236
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/zendrive"
-      },
-      "twitter": {
-        "username": "zendrive",
-        "url": "https://twitter.com/zendrive",
-        "followers": 2100
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2013,
-      "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 31,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/695044843081306113/N-YxharB_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Zendrive",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHxILxdaXKGXg/company-logo_200_200/0?e=1594857600&v=beta&t=lsBBVcy1Et43wBr46LmGm3YwJfbrCzc8QMvVMp5E8AA",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ]
-    },
-    {
-      "path": "_companies/wayve.ai.md",
-      "title": "Wayve",
-      "excerpt": "Wayve is pioneering artificial intelligence software for self-driving cars. Our unique end-to-end machine learning approach learns to drive in new places more efficiently than competing technology. Our headquarters are in Cambridge, United Kingdom.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/wayve.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/wayve.ai/",
-      "type": "profile",
-      "name": "Wayve",
-      "overview": "Wayve is pioneering artificial intelligence software for self-driving cars. Our unique end-to-end machine learning approach learns to drive in new places more efficiently than competing technology. Our headquarters are in Cambridge, United Kingdom.",
-      "website": "https://wayve.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/wayve-technologies/",
-        "followers": 1777
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/wayve-9739"
-      },
-      "twitter": {
-        "username": "wayve_ai",
-        "url": "https://twitter.com/wayve_ai",
-        "followers": 1800
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "Cambridge, United Kingdom"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 18,
+      "heat": 42,
       "tags": [
         "Autonomous Vehicles"
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/969232018109292544/nRtAcIv0_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1250883994868158465/SlWcqB4z_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Wayve",
+          "title": "Cognitive Technologies",
           "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHYCX2Cqc8QVA/company-logo_200_200/0?e=1594857600&v=beta&t=dM19s3wgkc5aaj2Llif0yHl9BJiizO8R1Zb-0z51yu8",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ]
     },
     {
-      "path": "_companies/voyage.auto.md",
-      "title": "Voyage",
-      "excerpt": "Wave Computing is revolutionizing AI with its dataflow-based solutions, bringing deep learning to your data wherever it may be, from the datacenter to the edge.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/voyage.auto/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/voyage.auto/",
+      "path": "_companies/starskyrobotics.md",
+      "title": "Starsky Robotics",
+      "excerpt": "Starsky Robotics is an autonomous truck startup aiming to make our roads safer while providing truck drivers with jobs that bring them back to their families.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/starskyrobotics/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/starskyrobotics/",
       "type": "profile",
-      "name": "Voyage",
-      "overview": "Wave Computing is revolutionizing AI with its dataflow-based solutions, bringing deep learning to your data wherever it may be, from the datacenter to the edge.",
-      "website": "https://voyage.auto/",
+      "name": "Starsky Robotics",
+      "overview": "Starsky Robotics is an autonomous truck startup aiming to make our roads safer while providing truck drivers with jobs that bring them back to their families.",
+      "website": "http://starskyrobotics.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/18078448",
-        "followers": 4537
+        "url": "https://www.linkedin.com/company/starsky-robotics",
+        "followers": 2281
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/voyage"
+        "url": "https://www.crunchbase.com/organization/starsky-robotics"
       },
       "twitter": {
-        "username": "voyage",
-        "url": "https://twitter.com/voyage",
-        "followers": 8125
+        "username": "StarskyRobotics",
+        "url": "https://twitter.com/StarskyRobotics",
+        "followers": 912
       },
-      "size": "51-200 employees",
-      "yearFounded": 2017,
+      "size": "11-50 employees",
+      "yearFounded": 0,
       "locations": [
-        "Palo Alto, CA"
+        "San Francisco, CA (CA)",
+        "San Francisco, California (CA)"
       ],
       "funding": {
         "status": "Early Stage Venture"
@@ -203,19 +85,118 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=-j0tc0Y1CIE"
+          "url": "https://www.youtube.com/watch?v=-fjy3iaiWFw"
         }
       ],
-      "heat": 0,
+      "heat": 42,
       "tags": [
         "Autonomous Vehicles"
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1278712351915536386/CoejbAt3_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/835187208634060800/orva3Tpz_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Voyage",
+          "title": "Starsky Robotics",
+          "isCached": true
+        }
+      ]
+    },
+    {
+      "path": "_companies/didi-chuxing.md",
+      "title": "Didi Chuxing",
+      "excerpt": "Didi Chuxing is a mobile transportation platform, offering a full range of commuting options to 400 cities in China.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/didi-chuxing/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/didi-chuxing/",
+      "type": "profile",
+      "name": "Didi Chuxing",
+      "otherNames": [
+        "Didi Kuaidi",
+        "Didi",
+        "滴滴出行",
+        "滴滴"
+      ],
+      "overview": "Didi Chuxing is a mobile transportation platform, offering a full range of commuting options to 400 cities in China.",
+      "website": "https://www.didiglobal.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/didi-chuxing/",
+        "followers": 0
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/didi-dache"
+      },
+      "twitter": {
+        "username": "DidiGlobal",
+        "url": "https://twitter.com/DidiGlobal",
+        "followers": 2482
+      },
+      "size": "5,001-10,000 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "Beijing, China",
+        "海淀区, Beijing Shi"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 32,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1106433399873429506/GrIncNRj_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Didi Chuxing",
+          "isCached": true
+        }
+      ]
+    },
+    {
+      "path": "_companies/drive.ai.md",
+      "title": "Drive.ai",
+      "excerpt": "A modern machine learning company dedicated to revolutionizing diagnostic healthcare",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/drive.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/drive.ai/",
+      "type": "profile",
+      "name": "Drive.ai",
+      "overview": "A modern machine learning company dedicated to revolutionizing diagnostic healthcare",
+      "website": "https://www.drive.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/drive.ai/",
+        "followers": 10509
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/drive-ai"
+      },
+      "twitter": {
+        "username": "driveai_",
+        "url": "https://twitter.com/driveai_",
+        "followers": 9124
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=YJe8ELIU7_E"
+        }
+      ],
+      "heat": 20,
+      "tags": [
+        "Autonomous Vehicles"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/770501816685441024/X-rJxsyj_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Drive.ai",
           "isCached": true
         }
       ]
