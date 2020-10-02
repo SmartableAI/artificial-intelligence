@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Russia Expands Facial Recognition Despite Privacy Concerns"
+    excerpt: "Russian authorities are planning to expand the use of CCTV cameras with facial recognition software, despite weighty concerns about the lack of regulation, oversight, and data protection, Human Rights Watch said today."
+    publishedDateTime: 2020-10-02T04:30:00Z
+    webUrl: "https://www.hrw.org/news/2020/10/02/russia-expands-facial-recognition-despite-privacy-concerns"
+    type: article
+    provider:
+      name: Human Rights Watch
+      domain: hrw.org
+    quality: 39
+    images:
+      - url: "https://www.hrw.org/sites/default/files/media_2020/10/202010eca_russia_facerecognition.JPG"
+        width: 5385
+        height: 3400
+        isCached: true
 
 secured: "LahX0hp+eRYL0gvCsGcRz0FTIFt/TPFTe1gb0HPW+sIY6ik5ZkXpSw5gmkZJVIgwDZD0CYndctx60DA9fMW55LCicCCArc9kxrzHqSSTr/a8rjax0Kv4WwuAAv1qe6WedcQi5JxvzDVMce0sPcwLbiurVWybnAh3ZFJ/PuX5xVmW5eGTe6NOdlqWhUDV4PPg6+kR6T6wOFxYJJeWhdc+rOTwlOQSa6Of8QXiMYmbtaUskMEe9Rg7c/yXdgfmSnyTlnJ49V56XEhMT7+1sbWmzj42m2vuyJwn547KZIdHRgPDiQA0VSuw1elaZ0LhHFyc+itjTLgKbvLepiAB4GUyPEYA5UDgBOz16+AJCypzKQcVnXHf5oMGTgTnSf+ajui12dK97E93QtPtKsmlHYLtyhEyhOJDDbDj8R/bKyyBH976Rt3nWKD1sYEoTwaHMyPpix4zCGqYZhrAlNgwmvvVerN1sskEUiBuAfdodAOgPbcWB7hrOTwYmu2XDoRkDpuM1sswQWbiXtLA3RHfD/vIoA==;fI3r88UnPbhsjj8iNE+xtw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/09/28/deep-science-robot-perception-acou
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/28/deep-science-robot-perception-acoustic-monitoring-using-ml-to-detect-arthritis/amp/"
 type: article
 quality: 101
-heat: 101
+heat: 102
 published: true
 
 provider:

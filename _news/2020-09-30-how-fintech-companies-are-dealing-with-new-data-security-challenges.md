@@ -99,6 +99,22 @@ related:
         width: 457
         height: 297
         isCached: true
+  - title: "Top 5 technologies that will transform the Fintech sector"
+    excerpt: "Here are the top five technologies that will allow the Fintech industry to enhance productivity and efficiency in automating the solutions."
+    publishedDateTime: 2020-10-02T05:20:00Z
+    webUrl: "https://www.ciol.com/top-5-technologies-will-transform-fintech-sector/"
+    ampWebUrl: "https://www.ciol.com/top-5-technologies-will-transform-fintech-sector/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/top-5-technologies-will-transform-fintech-sector/amp/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 44
+    images:
+      - url: "https://www.ciol.com/wp-content/uploads/2017/10/Fintech.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Australian Fintech WeMoney Secures $2 Million in Seed Funding to Launch Financial Wellness Platform"
     excerpt: "Dan Jovevski, a Fintech professional and former banker at National Australia Bank (NAB), has reportedly helped his company, WeMoney, with securing $2 million in capital in order to provide a service that helps young consumers with making better financial decisions."
     publishedDateTime: 2020-09-28T22:28:00Z

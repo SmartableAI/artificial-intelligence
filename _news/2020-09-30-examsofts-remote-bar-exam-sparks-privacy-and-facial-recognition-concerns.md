@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/29/examsofts-remote-bar-exam-sparks-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/29/examsofts-remote-bar-exam-sparks-privacy-and-facial-recognition-concerns/amp/"
 type: article
 quality: 88
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Russia Expands Facial Recognition Despite Privacy Concerns"
+    excerpt: "Russian authorities are planning to expand the use of CCTV cameras with facial recognition software, despite weighty concerns about the lack of regulation, oversight, and data protection, Human Rights Watch said today."
+    publishedDateTime: 2020-10-02T04:30:00Z
+    webUrl: "https://www.hrw.org/news/2020/10/02/russia-expands-facial-recognition-despite-privacy-concerns"
+    type: article
+    provider:
+      name: Human Rights Watch
+      domain: hrw.org
+    quality: 39
+    images:
+      - url: "https://www.hrw.org/sites/default/files/media_2020/10/202010eca_russia_facerecognition.JPG"
+        width: 5385
+        height: 3400
+        isCached: true
   - title: "Samsung smart TV's voice recognition creates privacy concerns"
     excerpt: "Electronics giant Samsung is facing heat from privacy advocates over its smart TVs. The company says its voice recognition system note only records personal conversations, but also may pass them along to third parties."
     publishedDateTime: 2020-09-29T13:04:00Z

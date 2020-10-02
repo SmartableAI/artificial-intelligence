@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/news/applications-os/blockchain-startup-fluree
 webUrl: "https://www.crn.com/news/applications-os/blockchain-startup-fluree-completes-seed-funding-round"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,19 @@ images:
     width: 611
     height: 429
     isCached: true
+
+related:
+  - title: "The future of Digital, 4IR, AI, Blockchain, Smart..."
+    excerpt: "PRWeb/ -- Digital Week Online offers a global cutting edge Digital 360 program that highlights the latest trends"
+    publishedDateTime: 2020-10-02T03:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/10/n17749409/the-future-of-digital-4ir-ai-blockchain-smart-cities-digital-week-online-most-ambitious-program-ev"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17749409"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17749409"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
 
 secured: "C7tdAtH9BnldntpVqN8O7zpM7nrgexmpLHndM1mmEKU3+pyZhgqlVPIdR0sdqKWVQgcLpNUWEyfnVNSzJSIFABmZU6Gw0984Pwt4OAP+ZinNiaG2+7DAt0IgfI5yMSnvji+Vp89siL09RfCHo0mqDW1KL9qL8Aj4AXhHbAsefcvxPmhzLx4jvfjExPmQv0559JSRonw88P1UyYfySbYTYqHnUyw2lNScHeHVr77XucgBngxs8mF0tLe31F29WtA5dg/9wgaqzcL//nQ2m+sbMBeiHkvdNfwcQMdeiq9ad5Z2R2W3EZ6UgnqG/dKxuVXgqFbG9lm+C5g8pjAhloH299sxmxePS3Ly26aJQo+yeMk=;XBDxJKvYtMslzrNoy2naXQ=="
 ---

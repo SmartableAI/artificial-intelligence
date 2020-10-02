@@ -3,10 +3,10 @@ category: news
 title: "TigerGraph Highlights Next-Generation Graph and Machine Learning Partnerships at Graph + AI ..."
 excerpt: "TigerGraph, the only scalable graph database for the enterprise, today announced that it will showcase multiple key partnerships that are democratizing the use of graph with AI and machine learning at Graph + AI World 2020."
 publishedDateTime: 2020-09-30T15:00:00Z
-originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-software-artificial-intelligence-81c1e586ca815f19a0089c4cc29cdd48"
-webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-software-artificial-intelligence-81c1e586ca815f19a0089c4cc29cdd48"
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-software-artificial-intelligence-81c1e586ca815f19a0089c4cc29cdd48"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-software-artificial-intelligence-81c1e586ca815f19a0089c4cc29cdd48"
 type: article
-quality: 44
+quality: 42
 heat: -1
 published: false
 
@@ -17,7 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-  - Microsoft AI
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -55,6 +54,6 @@ related:
         height: 509
         isCached: true
 
-secured: "gwqjXevDnpIgIeKBux+wL82vb+ajrFMQw7Fc72nJ8vdxmcc/3p27pF7QjPqcjOzDECyxNLWhgKKNdRq3n/mTfgMHRDxz4Jlml7RJNvhoym92/07EzMPptgjNfTkkoCnUb5a+8m6gMRhylHAExsUfMJB087tvJiUm+2xhLbNIs/8E22xVH2Age/KwWP21P/s1wZ9S7IQjlOOPqYpUFNbB0diGMToijakWJh+g/LIZVupFp/sp3Mr5IkK4pOgiPLqn85Gbmp8U+F+DIrtzgxkao37ApmJAjNAYSk2MNHc/+9nZ1HJkDk+qZHMAoCrXJWbTUb1J/VdWQ/u5C/xne0IsfZ2eIPCVbDrMQAW7jBqMRRU=;SBUD6OfL0AySZ9nuhahkeA=="
+secured: "KRqccNAeowsbqCfEZQPbbDiJoE3tDKKgOVpMeVMRSMppbTUSRqLeg3R+We5frA8DsKroPrUT5InRUy6k/49IPvhfHyoENFZqu6FaN1FZK6yZe50t2PF+Sloj2pFVdqwOl2UEwC/M6tTV9hG1AakASjCaHudpaND1k8YhnFx+pHvyxnAyWZv9MbPw+DZhld280jbndAiXoi6NXK4skzOvDrV21lMbXFpm/KXEETay7GpXQjPpuIugO5OtfG+4SE/WCIC0Anq7PoHczpe6qs7owf9AuSmk2nA4cYbwOAGW6W5/brvJ5lWxxNxakJKIpzCz7uxs8acTBpLkdCyDM/2u6rxB5JyzXsSsV6W1wHNpGRo=;ePtIfB3RGQCnHm/hJo1U/w=="
 ---
 

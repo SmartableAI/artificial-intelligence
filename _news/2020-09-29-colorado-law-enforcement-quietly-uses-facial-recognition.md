@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/public-safety/Colorado-Law-Enforcement-Quiet
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Colorado-Law-Enforcement-Quietly-Uses-Facial-Recognition.html?AMP"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Government Technology
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Colorado law enforcement quietly expanded its use of facial recognition"
-    excerpt: "The other man couldn’t be identified. The case in Aurora is one of hundreds of times Colorado law enforcement in the past few years have accessed facial recognition software through the DMV or by using a program more than 80 Colorado agencies paid for ..."
-    publishedDateTime: 2020-09-27T12:01:00Z
-    webUrl: "https://www.denverpost.com/2020/09/27/facial-recognition-colorado-police/"
-    ampWebUrl: "https://www.denverpost.com/2020/09/27/facial-recognition-colorado-police/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/09/27/facial-recognition-colorado-police/amp/"
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 57
-    images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2020/07/TDP-L-J_ELIJAHRALLY_RE_18.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Colorado Police Have Quietly Expanded Facial Recognition Use"
     excerpt: "The DMV and at least 80 other agencies across the state use facial recognition technology and investigators say it's an invaluable crime fighting tool. But civil rights advocates say the tech does more harm than good."
     publishedDateTime: 2020-09-28T21:00:00Z

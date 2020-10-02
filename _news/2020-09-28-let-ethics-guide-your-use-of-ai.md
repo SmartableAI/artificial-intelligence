@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cmswire.com/digital-experience/let-ethics-guide-your-use
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/let-ethics-guide-your-use-of-ai/amp/"
 type: article
 quality: 74
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: CMS Wire
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "These Robots Use AI to Learn How to Clean Your House"
+    excerpt: "At Toyota, researchers are experimenting with prototypes that swoop from the ceiling to take care of chores with the help of machine learning."
+    publishedDateTime: 2020-09-30T20:13:00Z
+    webUrl: "https://www.wired.com/story/robots-use-ai-learn-clean-your-house/"
+    ampWebUrl: "https://www.wired.com/story/robots-use-ai-learn-clean-your-house/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/robots-use-ai-learn-clean-your-house/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 87
+    images:
+      - url: "https://media.wired.com/photos/5f74c95e922b403d5b360f47/master/pass/business_toytota_gmk.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "How artificial intelligence can help your website"
     excerpt: "Even though artificial intelligence is a huge topic to cover in one article, we shall try to find out how AI can enhance your business website."
     publishedDateTime: 2020-10-01T13:11:00Z

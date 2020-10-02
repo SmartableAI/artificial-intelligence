@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "These Robots Use AI to Learn How to Clean Your House"
+    excerpt: "At Toyota, researchers are experimenting with prototypes that swoop from the ceiling to take care of chores with the help of machine learning."
+    publishedDateTime: 2020-09-30T20:13:00Z
+    webUrl: "https://www.wired.com/story/robots-use-ai-learn-clean-your-house/"
+    ampWebUrl: "https://www.wired.com/story/robots-use-ai-learn-clean-your-house/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/robots-use-ai-learn-clean-your-house/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 87
+    images:
+      - url: "https://media.wired.com/photos/5f74c95e922b403d5b360f47/master/pass/business_toytota_gmk.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Let Ethics Guide Your Use of AI"
     excerpt: "As AI applications quickly advance into large-scale and more diverse use cases, it’s becoming imperative that ethics guide its development, deployment and applications. This is especially important as we increasingly apply AI to use cases that impact individual lives and livelihoods — including healthcare,"
     publishedDateTime: 2020-09-28T14:09:00Z
