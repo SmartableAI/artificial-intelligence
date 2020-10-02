@@ -43,19 +43,19 @@ related:
         width: 1601
         height: 1201
         isCached: true
-  - title: "What Can We Expect From AI in 2021?"
-    excerpt: "Artificial Intelligence is a hot topic. What can we expect from AI in 2021? Let's take a look at the applications of Artificial Intellegence."
-    publishedDateTime: 2020-09-27T13:55:00Z
-    webUrl: "https://www.techprevue.com/what-can-we-expect-from-ai/"
+  - title: "Qualcomm ships edge AI chip with expanded power for biometric video processing, 5G integration"
+    excerpt: "Qualcomm Technologies, Inc., a subsidiary of Qualcomm Inc., is aiming to grow its slice of the edge AI chip market with news that the Qualcomm Cloud AI 100 is shipping to select worldwide"
+    publishedDateTime: 2020-09-28T16:50:00Z
+    webUrl: "https://www.biometricupdate.com/202009/qualcomm-ships-edge-ai-chip-with-expanded-power-for-biometric-video-processing-5g-integration"
     type: article
     provider:
-      name: Waterproof
-      domain: techprevue.com
-    quality: 41
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 42
     images:
-      - url: "https://www.techprevue.com/wp-content/uploads/2020/09/what-can-we-expect-from-ai.jpg"
-        width: 1280
-        height: 854
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/28124236/qualcomm.jpg"
+        width: 1600
+        height: 901
         isCached: true
 
 secured: "yjGr3uChHg78wlMUlapsWznXVvqvZU9hXfN10o4X1+5ZlKL4Zsq+3ynr1I2muHXXpOrsMGonKPKPOPutyQvrHUwT+gE+06LmzdPN+u4tO682A6vfScOvsUPUlfCYQvKvEjmha0I1uldqv29l1Lkce6gji5UhinfhuwPM5401iNWfHKfChcxB9tWdKjoKHWBa+Jcbjm58U1PaRuD0REvmwGCcJ3W8gnj0ryQNgAlvtcCxCQty/8ZG+2xWvVNaOGev3cEaHJ2F4sWfeCRPYbfP8IGQgjz7ClSD7pNQrtl4wjRnjdJ/zlX3VLK0VkmTTdFPi57n1jvYI/+nQ9sg9YMF4WfgFQd5X8xf5JDHWLqvg90=;rvXh+Ru2RKPtwd1i3cn7fA=="

@@ -2,56 +2,6 @@
   "page": 46,
   "value": [
     {
-      "path": "_news/2020-08-27-amazon-launches-an-ai-powered-health-and-wellness-band-called-halo.md",
-      "title": "Amazon Launches an AI-Powered Health and Wellness Band Called Halo",
-      "excerpt": "Amazon has today signaled its intention to grab a share of the fitness tracker market by introducing Amazon Halo —a health and wellness band combined with a \"suite of AI-powered health features\" accessed via the Halo app on Android or iOS.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/amazon-launches-an-ai-powered-health-and-wellness-band-called-halo",
-      "originalUrl": "https://www.pcmag.com/news/amazon-launches-an-ai-powered-health-and-wellness-band-called-halo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/05103dT048r57vM9FV1xpvK-1.1598538004.fit_lim.size_1200x630.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/amazon-launches-an-ai-powered-health-and-wellness-band-called-halo?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/amazon-launches-an-ai-powered-health-and-wellness-band-called-halo?amp=true",
-      "publishedDateTime": "2020-08-27T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-27-qualcomm-backed-firm-releases-processor-as-ai-chip-race-heats-up.md",
       "title": "Qualcomm-backed firm releases processor as AI chip race heats up",
       "excerpt": "Kneron Inc, a semiconductor startup backed by venture capital arms of Qualcomm Inc QCOM.O and Alibaba Group Holding Ltd BABA.N, on Thursday announced a new chip",
@@ -1098,6 +1048,57 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-26-clearview-ai-ceo-says-over-2400-police-agencies-are-using-its-facial-recognition-software.md",
+      "title": "Clearview AI CEO says ‘over 2,400 police agencies’ are using its facial recognition software",
+      "excerpt": "More than 2,400 police agencies have entered contracts with Clearview AI, a controversial facial recognition firm, according to comments made by Clearview AI CEO Hoan Ton-That in an interview with Jason Calacanis on YouTube.",
+      "sourceUrl": null,
+      "webUrl": "https://hoantonthat.com/",
+      "originalUrl": "https://www.theverge.com/2020/8/26/21402978/clearview-ai-ceo-interview-2400-police-agencies-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hoantonthat.com/assets/images/card.jpg?v13505373516951",
+          "width": 1280,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-26T14:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     }
   ],

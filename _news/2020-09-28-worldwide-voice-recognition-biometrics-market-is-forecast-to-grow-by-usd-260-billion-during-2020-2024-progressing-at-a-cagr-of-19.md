@@ -24,14 +24,19 @@ topics:
 
 related:
   - title: "Worldwide Self-driving Taxi Industry to 2024 - Key Leading Countries"
-    excerpt: "PRNewswire/ -- The 'Global Self-driving Taxi Market 2020-2024' report has been added to ResearchAndMarkets.com's"
-    publishedDateTime: 2020-09-30T16:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/worldwide-self-driving-taxi-industry-to-2024-key-leading-countries-1029636271"
+    excerpt: "PRNewswire/ -- The \"Global Self-driving Taxi Market 2020-2024\" report has been added to ResearchAndMarkets.com's offering. The self-driving taxi market"
+    publishedDateTime: 2020-09-30T15:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/worldwide-self-driving-taxi-industry-to-2024---key-leading-countries-301142078.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
 
 secured: "ktVqsJxw2XsQi+Es5ktj0CZvtw2puhHcCjYdhSRug3DEwFrOgBT9C85hw9lrVg0xGQuD6SS/x8VDOXbLc5l6To5PuNsnzQp0dbTqZqKD/JyKeSaG9uPdbSZuELMECAAxZ6kfVzRHT5teD09T8EB8vU2+CmUVG7Ge7qbnVuxAIV/xPngjFxepWkdb31F2mQQ2aAqsucH7npfavioQRx5yr+zB4aXmof5tU/Rz4OO8WJrzO1mKVS1HvbzAgIpDEtdxx8iWuYyDMicldMG4hg2ak7DH00DSzVzchcJlx//PQfFP/5/N49d5ibkz3iZPsefg3WD2ePnPECXKa3i9014C9WZd0qhP4uEzaa0k8+z67io=;paFXI0z14EGk1Ra97FrO8Q=="
 ---

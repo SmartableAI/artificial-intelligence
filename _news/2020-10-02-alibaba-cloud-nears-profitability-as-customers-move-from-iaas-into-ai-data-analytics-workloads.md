@@ -3,13 +3,13 @@ category: news
 title: "Alibaba Cloud nears profitability as customers move from IaaS into AI, data analytics workloads"
 excerpt: "Alibaba Cloud customers are moving into more demanding workloads and driving financial results. Even if Alibaba Cloud remains a mostly China cloud company it has a lot of revenue runway ahead."
 publishedDateTime: 2020-10-01T21:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/alibaba-cloud-nears-profitability-as-customers-move-from-iaas-into-ai-data-analytics-workloads/"
-webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/alibaba-cloud-nears-profitability-as-customers-move-from-iaas-into-ai-data-analytics-workloads/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/alibaba-cloud-nears-profitability-as-customers-move-from-iaas-into-ai-data-analytics-workloads/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/alibaba-cloud-nears-profitability-as-customers-move-from-iaas-into-ai-data-analytics-workloads/"
+originalUrl: "https://www.zdnet.com/article/alibaba-cloud-nears-profitability-as-customers-move-from-iaas-into-ai-data-analytics-workloads/"
+webUrl: "https://www.zdnet.com/article/alibaba-cloud-nears-profitability-as-customers-move-from-iaas-into-ai-data-analytics-workloads/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/alibaba-cloud-nears-profitability-as-customers-move-from-iaas-into-ai-data-analytics-workloads/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alibaba-cloud-nears-profitability-as-customers-move-from-iaas-into-ai-data-analytics-workloads/"
 type: article
-quality: 77
-heat: 87
+quality: 75
+heat: 85
 published: true
 
 provider:
@@ -21,7 +21,6 @@ provider:
       height: 50
 
 topics:
-  - Microsoft AI
   - AI
 
 images:
@@ -46,6 +45,6 @@ related:
         height: 400
         isCached: true
 
-secured: "6Gg/XrKkfo2VyRuTvUnL6PDxFBP81XaHwcaoGrdLTKXtta/NFmQ2uhnsXVC1dZIEwiprBSjIexuNojfKXnElcXC3KeLyOlZsFI7Ymmev9Hzq9hsIWmPy4fR2BId5578jGZAW0h3QIGp+ohvEMOUNfVpzGbBn7tw/3vuc2TJkkBqDFphO1/2/DwRuhxfcP//0p3L2wLIq7X5fnJ+Us67xELr5XCcQVke4tWcuncb7VTYFz8DooOYM0/+gryiCaVP4g3h7yxeEbZUXfDrSPfIVVliwJD9DqEsEq4PQh91pXY2GMTDpWMYvtPh6ME2S8sGGJepoc0qR6lCX8EJJbfSg1xwuWLMddxLgOUhDRxcnN2w=;M2ML2hYFqjtIKQKqzgMaMA=="
+secured: "xHivHghNH5V2pHsEAXwq0IMKkPoAG6OgagSVF5OIEWGZdv0cHsUbtpqedvNGn5kfBE5NQ/AOKe+UMsdOTcPFEc3FR7m0G5oyapYAuS6xr2TxX7T9th1PIC0f31Z/XmMdusbpEXBg+3pyFI4VkFYVc+d++qdYQpxEbkkMXywxDsdVWmpaoWQVMLF1Gsto+f2kcEGM4FdeHp0T9DAuIZg7h5kRaieHgl+LnfeSBocCfaj5KSfIy0JxKuCISajd+wJKljC50h/Iq6P4pA8YI+mBNOKeaLBTaj2fR5BCN20tpbTLMJFikzGQ5DfQvq0Xcvlx0za2+HFCxd2zzU8bJj5tBlhp2mAvx1bKyTFf0HsAHwc=;q4BVYOrR8x5RTgjRIW7Qjw=="
 ---
 

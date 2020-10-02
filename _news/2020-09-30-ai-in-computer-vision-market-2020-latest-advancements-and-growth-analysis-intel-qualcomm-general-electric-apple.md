@@ -1,14 +1,14 @@
 ---
 category: news
 title: "AI in Computer Vision Market 2020 Latest Advancements and Growth Analysis- Intel, Qualcomm, General Electric, Apple"
-excerpt: "The MarketWatch News Department was not involved in the creation of this content. Sep 30, 2020 (Market Insight Reports) -- The Global AI in Computer Vision Market Research Report 2020-2027 is a valuable source of insightful data for business strategists."
-publishedDateTime: 2020-09-30T11:07:00Z
-originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2020-latest-advancements-and-growth-analysis--intel-qualcomm-general-electric-apple-2020-09-30"
-webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2020-latest-advancements-and-growth-analysis--intel-qualcomm-general-electric-apple-2020-09-30"
+excerpt: "Global AI in Computer Vision Market was valued at USD 3.32 Billion in 2018 and is projected to reach USD 68.11 Billion by 2026, growing at a CAGR of 45.64 % from 2019 to 2026.  Top leading Companies in Global AI in Computer Vision Market are Wikitude,"
+publishedDateTime: 2020-09-30T11:20:00Z
+originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2020-latest-advancements-and-growth-analysis--intel-qualcomm-general-electric-apple-2020-09-30?mod=mw_quote_news"
+webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2020-latest-advancements-and-growth-analysis--intel-qualcomm-general-electric-apple-2020-09-30?mod=mw_quote_news"
 type: article
 quality: 64
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -19,9 +19,9 @@ provider:
       height: 50
 
 topics:
-  - Computer Vision
-  - AI
   - Facebook AI
+  - AI
+  - Computer Vision
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -30,46 +30,55 @@ images:
     isCached: true
 
 related:
-  - title: "The Zacks Analyst Blog Highlights: Intel, Google, Qualcomm, General Motors, Nvidia and Baidu"
-    excerpt: "The low power consumption of Mobileye chips and the ability to create maps for self-driving systems via its Road Experience Management platform helped Intel, which is currently carrying a Zacks Rank #3 (Hold),"
-    publishedDateTime: 2020-09-28T11:34:00Z
-    webUrl: "https://www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-intel-google-qualcomm-general-motors-nvidia-and-baidu"
-    ampWebUrl: "https://www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-intel-google-qualcomm-general-motors-nvidia-and-baidu?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-intel-google-qualcomm-general-motors-nvidia-and-baidu?amp"
+  - title: "Automotive Artificial Intelligence (AI) Market Analysis & Growth Opportunities"
+    excerpt: "Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to"
+    publishedDateTime: 2020-09-30T12:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-analysis-growth-opportunities-2020-09-30"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 58
-  - title: "Qualcomm ships edge AI chip with expanded power for biometric video processing, 5G integration"
-    excerpt: "Qualcomm Technologies, Inc., a subsidiary of Qualcomm Inc., is aiming to grow its slice of the edge AI chip market with news that the Qualcomm Cloud AI 100 is shipping to select worldwide"
-    publishedDateTime: 2020-09-28T16:50:00Z
-    webUrl: "https://www.biometricupdate.com/202009/qualcomm-ships-edge-ai-chip-with-expanded-power-for-biometric-video-processing-5g-integration"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 42
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 78
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/28124236/qualcomm.jpg"
-        width: 1600
-        height: 901
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "The question mark over AI and intellectual property"
-    excerpt: "AI is playing a growing role in producing new creations and ideas As it evolves and becomes more autonomous, there are questions over the technology's"
-    publishedDateTime: 2020-09-30T00:59:00Z
-    webUrl: "https://techwireasia.com/2020/09/the-question-mark-over-ai-and-intellectual-property/"
+  - title: "Artificial Intelligence (AI) Chipset Market Share 2020 Global Growth, Trends, Industry Analysis, Key Players and Forecast to 2023"
+    excerpt: "Global Artificial Intelligence (AI) Chipset Market (2020-2023) Industry Research Report is a comprehensive analysis containing key information on key players, market trends, price analysis and market overview for the forecast period."
+    publishedDateTime: 2020-09-28T09:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-share-2020-global-growth-trends-industry-analysis-key-players-and-forecast-to-2023-2020-09-17"
     type: article
     provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
     images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2020/09/shutterstock_700768720-1024x599.png"
-        width: 1024
-        height: 599
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Retail Market to..."
+    excerpt: "The global artificial intelligence (AI) in retail market size is expected to reach USD 23.32 billion by 2027, exhibiting a CAGR of"
+    publishedDateTime: 2020-09-29T17:12:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/09/g17703278/artificial-intelligence-ai-in-retail-market-to-reach-usd-23-32-billion-by-2027-rising-adoption-for"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17703278"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17703278"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 52
+  - title: "Artificial Intelligence in Manufacturing Market Size, Future Scope, Growth Analysis and Forecast Report by 2027 with Top Companies"
+    excerpt: "Global Artificial Intelligence in Manufacturing Market was valued at USD 966.67 million in 2019 which is expected to reach USD 22880.45 million by 2027 at CAGR 50.32%. Latest published report on the Artificial Intelligence in Manufacturing market,"
+    publishedDateTime: 2020-10-01T02:21:00Z
+    webUrl: "https://ipsnews.net/business/2020/10/01/artificial-intelligence-in-manufacturing-market-size-future-scope-growth-analysis-and-forecast-report-by-2027-with-top-companies/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 0
 
-secured: "XO/NNdr8/Cx36NbrCoUByhmoidNy3xH00qhGsGCNV9gQI0URldyAlNqHfV1KHbwaHu2WLpUNjD75ZpHd2HfPU2DZ85eRFtSEwEGf1Bc6xHabCn2l2AcwXsHBjLXgubpYgeR/gLYwj7c/BIW9jYKqlLEVFVmPKaFK8xkkwhqnlGwkmL9LjLJ4ZtSKXzIRxArIliZyg1xDytSfNRJ8p5uv3YKe1qTxG5kEvy0NGwJvzdnO64Nl8bHqpaH7OrZde0596qiKMn1rZ+nw7buT9ou2S3E+8hiDDQgRNEohLNM/kcQHzENqi/jYua1t3LUKvMRPEvQGd+CLLZ/P/7JnyhS+xmirNuhxGm+W2MzQ8CK5708=;RP2XHl9zpUSmbgvhcb/NBw=="
+secured: "+cypee4uXySsttbkWihmP/RByQI0bGDANZyPRGIXj9tuektVjl9Op0UVyoKGDewttj6p6yQZAse3PNAkVMDoF1Q0p/UoF9l3CizF8uMXf8A7hS6gak88I8bL9cwfboIm/1dmN++t4Q/q4qNbETjvKwS9PiEFT778s9UFy6HY1NSX5AhUsSe1asneCw461wtXmv8ehT1JUa+ZKjmSnllXWd3xrmqpuiIRiCx7Q7grSGDzrmzKIBHl4MB6qN+1DsIVDA4ueT5A5Iu1fGGLfVvwdUOoOk/oQ687N6FK0a5pVIWuAhElFf0RqJEtP58p9aGj+M2dHzMHTL9zuqjT5qeMqYtu/4unkfKdPox9+fZCdOM=;quSyiomkv7CcPPp5AsiZpw=="
 ---
 

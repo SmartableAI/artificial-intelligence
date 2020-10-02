@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Artificial Intelligence Simplifies COVID-19 Testing, Workflows"
-excerpt: "Tufts Medical Center will leverage an artificial intelligence platform to accelerate the COVID-19 testing process."
-publishedDateTime: 2020-10-01T17:05:00Z
-originalUrl: "https://healthitanalytics.com/news/artificial-intelligence-simplifies-covid-19-testing-workflows"
-webUrl: "https://healthitanalytics.com/news/artificial-intelligence-simplifies-covid-19-testing-workflows"
+title: "Artificial intelligence can detect COVID-19 faster and easier"
+excerpt: "Multiple scientific studies have uncovered how to use artificial intelligence to detect, but not prevent, the latest coronavirus."
+publishedDateTime: 2020-10-02T07:46:00Z
+originalUrl: "https://calvinayre.com/2020/10/02/life/artificial-intelligence-can-detect-covid-19-faster-and-easier/"
+webUrl: "https://calvinayre.com/2020/10/02/life/artificial-intelligence-can-detect-covid-19-faster-and-easier/"
+ampWebUrl: "https://calvinayre.com/2020/10/02/life/artificial-intelligence-can-detect-covid-19-faster-and-easier/amp/"
+cdnAmpWebUrl: "https://calvinayre-com.cdn.ampproject.org/c/s/calvinayre.com/2020/10/02/life/artificial-intelligence-can-detect-covid-19-faster-and-easier/amp/"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Analytics
-  domain: healthitanalytics.com
+  name: CalvinAyre
+  domain: calvinayre.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2017-03-30_health_quality_improvements.jpg"
-    width: 686
-    height: 396
+  - url: "https://calvinayre.com/wp-content/uploads/2020/10/artificial-intelligence-can-detect-covid-19-faster-and-easier.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -52,22 +54,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 63
-  - title: "Artificial intelligence can detect COVID-19 faster and easier"
-    excerpt: "Multiple scientific studies have uncovered how to use artificial intelligence to detect, but not prevent, the latest coronavirus."
-    publishedDateTime: 2020-10-02T07:46:00Z
-    webUrl: "https://calvinayre.com/2020/10/02/life/artificial-intelligence-can-detect-covid-19-faster-and-easier/"
-    ampWebUrl: "https://calvinayre.com/2020/10/02/life/artificial-intelligence-can-detect-covid-19-faster-and-easier/amp/"
-    cdnAmpWebUrl: "https://calvinayre-com.cdn.ampproject.org/c/s/calvinayre.com/2020/10/02/life/artificial-intelligence-can-detect-covid-19-faster-and-easier/amp/"
-    type: article
-    provider:
-      name: CalvinAyre
-      domain: calvinayre.com
-    quality: 59
-    images:
-      - url: "https://calvinayre.com/wp-content/uploads/2020/10/artificial-intelligence-can-detect-covid-19-faster-and-easier.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Researchers use artificial intelligence to detect COVID-19 in hospital patients"
     excerpt: "Researchers at the University of Minnesota and M Health Fairview are developing a new technology that uses artificial intelligence to help doctors detect COVID-19 in hospital patients."
     publishedDateTime: 2020-10-02T01:26:00Z
@@ -126,6 +112,20 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "Artificial Intelligence Simplifies COVID-19 Testing, Workflows"
+    excerpt: "Tufts Medical Center will leverage an artificial intelligence platform to accelerate the COVID-19 testing process."
+    publishedDateTime: 2020-10-01T17:05:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-simplifies-covid-19-testing-workflows"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2017-03-30_health_quality_improvements.jpg"
+        width: 686
+        height: 396
+        isCached: true
   - title: "Using artificial intelligence to predict Covid-19 patient outcomes"
     excerpt: "Artificial intelligence can do more than recommend a song or suggest what to write in an email. It might even be able to predict outcomes in Covid-19 patients."
     publishedDateTime: 2020-09-30T07:00:00Z
@@ -164,6 +164,6 @@ related:
       domain: edweek.org
     quality: 4
 
-secured: "RVZe9fxmCGJePw9VxlJrhcmCfjWK/mTrxmOrTbj5841zUnQj+U/UJvp17pShA5PHJmW8hy5tXwYJ03Sn3/wvumtukuG6fKC7As9DsFPyMREJljGsQaDgznDzWBGmJFYA0iJYcJpjlytJDnYmMInX4+r17oZZPnnTO0vgTMn++ppFKIKtO0oPhIbwRBHhmW6QBSfv0dto+xRNTsBYmSnsApZK72MM7EbX+bUJwpokm7Bjad9apr+/kjckHTSfrh61XrlFdSHu0o4AzsdEKf7QCfFQCVizTD80UaH7HNmuVJFjgQ+f5TPxLak/yIHsGGF0B0avl2wjqsTlbiEpWfFg7azkik8EfnZC2DBSP3/qEF4MpCKb1XG2dTHoINWMudxnQIt2WzsDlx8FcNgALcpoOjZZTPEsUkEdGsRhNNG9po9HKquq5Rv1S9rYE4PKcv6Qxe81m/L2m6caTqxc0//g4NYoyM5dPAvB53J+bei1gBFp9YlgU62tnA2Eu/UF6oxmO4VxtzcMP8Rh6UuprqlcTQ==;98mBlGC8KR1+qG7zcQiBkA=="
+secured: "2n4mPMfc4QseNFNzJ0K5SpptXII+Ag1Sld2ri14gaisLiCfCKkTPm7FvgXpHGu4fKfoFBPgudu7tJT5pUBmvqkaRmYrZH/RvAI3TGrT2Efm2LLjLiiaj5OxOCmidaHkG+VLSRizrTHUlQk6vw2c0kG1vShOSc8yvGhC3yZYKArDdCs9Yt3jpFDXX2OtPJTmfSuPt2WEocGMhG4GqCYLsrNYOyGU2IuiQJ1cRZJbq2sUIG1oVqx+iJOMnZfRShjLy7Kq+zaupgB5rcqoz/LP6hDdhO9jnkSfgVRiODsXHFLCMqt4BcCJXvkZJz5jgBLYtVqEqG5QVhlgLkBs33rLdm64r96vCmMf7gz4d+IN8wEQ=;LD2yXu1Qo6TQBviSRQmvkw=="
 ---
 

@@ -55,7 +55,18 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "HRW Warns Of Privacy Concerns As Russia Expands Facial-Recognition Systems"
+    excerpt: "Human Rights Watch (HRW) has criticized Russia's plans to expand the use of \"invasive\" facial-recognition systems because of the group's \"serious concern\" over the project's potential threat to privacy. The Kommersant newspaper reported last week that CCTV ..."
+    publishedDateTime: 2020-10-02T07:41:00Z
+    webUrl: "https://www.rferl.org/a/hrw-warns-of-privacy-concerns-as-russia-expands-facial-recognition-systems/30869831.html"
+    ampWebUrl: "https://www.rferl.org/amp/hrw-warns-of-privacy-concerns-as-russia-expands-facial-recognition-systems/30869831.html"
+    cdnAmpWebUrl: "https://www-rferl-org.cdn.ampproject.org/c/s/www.rferl.org/amp/hrw-warns-of-privacy-concerns-as-russia-expands-facial-recognition-systems/30869831.html"
+    type: article
+    provider:
+      name: Radio Free Europe/Radio Liberty
+      domain: rferl.org
+    quality: 22
 
-secured: "bvXCZ6KuAuNfen8ObW4ljmA3Zej/RYdEBv4n7YaTxs97qyzW8f3okvfpSD0tSoaesEmHpw4eKYT6chFEBV2ZqIfONqsnp3WB3eTQg/nC4veCiLGqwpUCVDsLKUaf4bVXIo+HoVIeugrR9wemloSpj2As8VRmrsKIEV13V6n8NmvIylrpC7BCK3dNkeY0IzXrgpyX2ZVR0PiqQ/Y0M4QYI97qULXe5zJhmD7mjglhYWro0tPf4UsEJk4IpOZSba5JtnBYQ5nW2fGonq18D0OMRxtWvSc6oQWSneUUYxiMxrIUU59PRhLW0yLX1NFxdEILKtKg/CVX7kRm5XAekZ+EUYfxTB1DXTNv1079EVBJP58=;25iwIzXOFSie5Sk6jAIq2A=="
+secured: "AOY/rSOv6r7rCCf5hVC7K3xnFEl0+gt5IotDn0+KtpjPsG5ZgG1NSWlXGhmkDzoPRNJyGhDnnYAdJqEroVSBPd0C9jYxuVEOpgofagAg0YtVxTbhbIYyOJVugmzJa6kfOcmdVohpm5yjb02/EalppwzxZKId+f4JZ5Wh+BYWzmsLdUWGTEmuesJX2YceGVblSOpSm7CRm9ikRS2nJoXqBKcOSFV5GcraEbwWeDBtheuUPJ4F3eDgva6I/T5gWuC6CajLJ40vGNsiu1URHAwXRLaos4sYLnrD4xrylpwCcceCe8FGhm6kbLKIdOMa4w5Xf0+2wnyJNO0+nU1RH9ELZUapsXOESF7mIDFEtZPmq2655zdRXIE5511t9dJ11vd1isMXUgn2M9VnJrKvQ8X1FDisJ6nqOnoJ+F2ljI2b/upCRGBBvo5O2NkTYKjNQP0W1FRTgtsZ1RecB5r7fbayjQ92nI1UPQVyBP48nBRYbiz6UqNnDkLFHo4rMePh9L/AmCEPT2EMHUH5Cu1EyQjtyQ==;KedbQq+O6KDZdvwZNEh7zA=="
 ---
 

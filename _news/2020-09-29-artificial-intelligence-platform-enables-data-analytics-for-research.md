@@ -27,14 +27,14 @@ related:
   - title: "Alibaba Cloud nears profitability as customers move from IaaS into AI, data analytics workloads"
     excerpt: "Alibaba Cloud customers are moving into more demanding workloads and driving financial results. Even if Alibaba Cloud remains a mostly China cloud company it has a lot of revenue runway ahead."
     publishedDateTime: 2020-10-01T21:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/alibaba-cloud-nears-profitability-as-customers-move-from-iaas-into-ai-data-analytics-workloads/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/alibaba-cloud-nears-profitability-as-customers-move-from-iaas-into-ai-data-analytics-workloads/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/alibaba-cloud-nears-profitability-as-customers-move-from-iaas-into-ai-data-analytics-workloads/"
+    webUrl: "https://www.zdnet.com/article/alibaba-cloud-nears-profitability-as-customers-move-from-iaas-into-ai-data-analytics-workloads/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/alibaba-cloud-nears-profitability-as-customers-move-from-iaas-into-ai-data-analytics-workloads/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alibaba-cloud-nears-profitability-as-customers-move-from-iaas-into-ai-data-analytics-workloads/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 77
+    quality: 75
     images:
       - url: "https://zdnet4.cbsistatic.com/hub/i/2020/10/01/a2830110-7534-4682-ad13-fe18a31a80f6/alibaba-cloud-stack.png"
         width: 1163

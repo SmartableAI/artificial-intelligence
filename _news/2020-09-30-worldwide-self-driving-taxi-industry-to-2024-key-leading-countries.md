@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Worldwide Self-driving Taxi Industry to 2024 - Key Leading Countries"
-excerpt: "PRNewswire/ -- The 'Global Self-driving Taxi Market 2020-2024' report has been added to ResearchAndMarkets.com's"
-publishedDateTime: 2020-09-30T16:01:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/worldwide-self-driving-taxi-industry-to-2024-key-leading-countries-1029636271"
-webUrl: "https://markets.businessinsider.com/news/stocks/worldwide-self-driving-taxi-industry-to-2024-key-leading-countries-1029636271"
+excerpt: "PRNewswire/ -- The \"Global Self-driving Taxi Market 2020-2024\" report has been added to ResearchAndMarkets.com's offering. The self-driving taxi market"
+publishedDateTime: 2020-09-30T15:45:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/worldwide-self-driving-taxi-industry-to-2024---key-leading-countries-301142078.html"
+webUrl: "https://www.prnewswire.com/news-releases/worldwide-self-driving-taxi-industry-to-2024---key-leading-countries-301142078.html"
 type: article
-quality: 34
-heat: 34
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+    width: 800
+    height: 419
+    isCached: true
 
 related:
   - title: "Worldwide Voice Recognition Biometrics Market is Forecast to Grow by USD 2.60 Billion During 2020-2024, Progressing at a CAGR of 19%"
@@ -33,6 +35,6 @@ related:
       domain: businessinsider.com
     quality: 3
 
-secured: "O+/T07HjevR7JuRDv0ClUAAY8KqT2evyFWMzqmGNqDWb2xISNhN6kU8TiaVRWqgemdydk/zBGOKk7XU9zw4Bns06XjRvW2WUbfXqX/5qN7KIsFVAAPE1Yqpkl8KiHf/moJdlDOI3M/3dqe5+97E4G/bew0cVvFAKfA3qQ3p73sk/ZHNhP0t0lgGHizPMZzqpxWDT216KeAOLrPXgbMdBcV/nb0TMyhwhh5FVUn15KfKP5YpO1ZQpakxLvt1k8bKAS6gKHBZJEpZnf0gBqiYTYmc/Xyv0eos9XeH5bsPAdQuIdA/1E881xSLXMS1eXpKbfL7XpEfj60ZbrJtnXDxTzU+roh/m87IiJG6LUB8k6yw=;sOZg1lXx5PnUh2zOp51O3A=="
+secured: "q1XISkmTHDpwY8ND9ZYAGQb9fnTNsc0lbxnLCprqPwyILqtKL7EQWjjKoBXmxiteScz9tkNVPRw2SpJVvxwczt9sLDXQWKfhve+QR/UYpvArHzNVaAXIzI91tc9egtXVdPgMiP9nMtdmGOgZoTxuNsryOFksGCGlzj1YHWhy1qXx1/vlKRIN56v/2MF6+rZCJTW2IApErJkYHvcT6OJB6JDED7nZTKD67DVBXvPmXloriU90JhBwecX8pQ6G+HBUlSzA35DyF7221urAXcv2YEhbNfzR63dfqLiP3xSeyDA8RQ+yZjZKhMxQCyJHcvvO/IRS7KeyVayt8C3qJYHzlNz88jlm9hvtGMrk40cJkWg=;HPKodu2yIWcwgcgTu7yclA=="
 ---
 

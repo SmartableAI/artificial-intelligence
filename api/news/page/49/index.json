@@ -2,57 +2,6 @@
   "page": 49,
   "value": [
     {
-      "path": "_news/2020-08-25-facial-recognition-designed-to-detect-around-face-masks-are-failing-study-finds.md",
-      "title": "Facial recognition designed to detect around face masks are failing, study finds",
-      "excerpt": "Many facial recognition companies have claimed that they can detect people with pinpoint accuracy even while they're wearing face masks, but the latest results from a study show that the coverings are dramatically increasing the error rates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/health/facial-recognition-designed-to-detect-around-face-masks-are-failing-study-finds/",
-      "originalUrl": "https://www.cnet.com/health/facial-recognition-designed-to-detect-around-face-masks-are-failing-study-finds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/x2e96wd1fpkM4UP-mi2c2FVNa-w=/756x567/2020/05/12/e19738c2-f117-4bd8-b48c-e3b7aee37406/01-homemade-face-mask.jpg",
-          "width": 756,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/facial-recognition-designed-to-detect-around-face-masks-are-failing-study-finds/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-designed-to-detect-around-face-masks-are-failing-study-finds/",
-      "publishedDateTime": "2020-08-25T11:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-26-automatic-object-recognition-from-satellite-images-using-artificial-neural-network.md",
       "title": "Automatic Object Recognition From Satellite Images Using Artificial Neural Network",
       "excerpt": "Object recognition from satellite images is a very important application for various purposes. Objects can be recognized based on certain features and then applying some algorithm to extract those ...",
@@ -1177,6 +1126,56 @@
       ],
       "topics": [
         "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-25-this-ai-just-found-50-new-planets-in-a-huge-nasa-dataset.md",
+      "title": "This AI just found 50 new planets in a huge NASA dataset",
+      "excerpt": "Scientists from Warwick University made the discovery by analyzing data collected by space telescopes, such as NASA‘s Kepler and TESS. These telescopes capture signs of planets passing in front ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/08/25/this-ai-just-found-50-new-planets-in-a-huge-nasa-dataset/",
+      "originalUrl": "https://thenextweb.com/neural/2020/08/25/this-ai-just-found-50-new-planets-in-a-huge-nasa-dataset/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-25T134309.041-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/08/25/this-ai-just-found-50-new-planets-in-a-huge-nasa-dataset/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/25/this-ai-just-found-50-new-planets-in-a-huge-nasa-dataset/amp/",
+      "publishedDateTime": "2020-08-25T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

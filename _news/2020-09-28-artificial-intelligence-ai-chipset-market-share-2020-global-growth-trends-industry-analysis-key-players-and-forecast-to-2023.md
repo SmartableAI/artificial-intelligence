@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Computer Vision Market 2020 Latest Advancements and Growth Analysis- Intel, Qualcomm, General Electric, Apple"
+    excerpt: "Global AI in Computer Vision Market was valued at USD 3.32 Billion in 2018 and is projected to reach USD 68.11 Billion by 2026, growing at a CAGR of 45.64 % from 2019 to 2026.  Top leading Companies in Global AI in Computer Vision Market are Wikitude,"
+    publishedDateTime: 2020-09-30T11:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2020-latest-advancements-and-growth-analysis--intel-qualcomm-general-electric-apple-2020-09-30?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Retail Market to..."
     excerpt: "The global artificial intelligence (AI) in retail market size is expected to reach USD 23.32 billion by 2027, exhibiting a CAGR of"
     publishedDateTime: 2020-09-29T17:12:00Z

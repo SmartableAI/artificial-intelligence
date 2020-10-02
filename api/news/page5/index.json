@@ -2,57 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-09-29-amsterdam-and-helsinki-launch-algorithm-registries-to-bring-transparency-to-public-deployments-of-ai.md",
-      "title": "Amsterdam and Helsinki launch algorithm registries to bring transparency to public deployments of AI",
-      "excerpt": "Amsterdam and Helsinki today launched AI registries to detail how each city uses algorithms to deliver services.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/28/amsterdam-and-helsinki-launch-algorithm-registries-to-bring-transparency-to-public-deployments-of-ai/",
-      "originalUrl": "https://venturebeat.com/2020/09/28/amsterdam-and-helsinki-launch-algorithm-registries-to-bring-transparency-to-public-deployments-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/amsterdam.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/28/amsterdam-and-helsinki-launch-algorithm-registries-to-bring-transparency-to-public-deployments-of-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/28/amsterdam-and-helsinki-launch-algorithm-registries-to-bring-transparency-to-public-deployments-of-ai/amp/",
-      "publishedDateTime": "2020-09-28T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2020-09-29-new-army-accelerated-multi-node-attack-enabled-by-ai-at-project-convergence-2020.md",
       "title": "New Army ‘Accelerated Multi-Node Attack’ enabled by AI at Project Convergence 2020",
       "excerpt": "Gray Eagle drones were armed with HELLFIRE missiles and GBU-69 glide bombs, 155mm artillery weapons fired rounds 60km (37.3 miles) to destroy SA-22 enemy air defenses and armored ground combat vehicles directly hit multiple T-72 tanks during the Army’s Project Convergence 2020 at Yuma Proving Grounds,",
@@ -1188,6 +1137,57 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-how-to-improve-bot-detection-with-machine-learning.md",
+      "title": "How To Improve Bot Detection With Machine Learning",
+      "excerpt": "The bot landscape is changing fast as fraudsters look to capitalize on the confusion, fear and uncertainty surrounding Covid-19 and its immediately accelerating e-commerce.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/27/how-to-improve-bot-detection-with-machine-learning/",
+      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/27/how-to-improve-bot-detection-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f70cdf27a22d0b0bf2220f7%2F0x0.jpg%3FcropX1%3D698%26cropX2%3D4871%26cropY1%3D93%26cropY2%3D2875",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/27/how-to-improve-bot-detection-with-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/09/27/how-to-improve-bot-detection-with-machine-learning/amp/",
+      "publishedDateTime": "2020-09-27T11:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }
