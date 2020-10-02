@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence In Military Market worth 18.82 Billion USD by 2025 | CAGR of 14.75%"
+    excerpt: "The report “Artificial Intelligence in Military Market by Offering (Software, Hardware, Services), Technology (Learning & Intelligence, Advanced Computing, AI Systems), Applicat"
+    publishedDateTime: 2020-10-01T21:55:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/10/ab17747491/artificial-intelligence-in-military-market-worth-18-82-billion-usd-by-2025-cagr-of-14-75"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17747491"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17747491"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 47
+    images:
+      - url: "https://www.marketsandmarkets.com/Images/artificial-intelligence-military-market2.jpg"
+        width: 519
+        height: 312
+        isCached: true
 
 secured: "8M01fqpy8xrBVDKi19ljzKGazD2oDtY5/tsfsrKwKVidzWA47wDU/2ZiH1MdHe36e6uub53UtZSIas8XDyesgw9y4PfSTTJNOP0zYYhjchROtu6BgmeIsuv+BdNJaWnCStlPCGcvGSnLzRzmo4xY/7czYHiEyTrws4VMpK52THaKyBnbl8GUArXrrqGY+4FIfxfarcg2SM5cn3x/LP92D3HUZijRxehv8JWYeXn4HQKpDaJi10DHjCd1DDe/Oe0xLF16K5sU99vcYdes55ROxRlD1wLnB4UTCcYw3572lAQEPksTyupWMxlCXfT7KslcJ3jtWy3hp8CwEsE4IHrAFjmnBTx7UgmFVhSpx/xkVvY=;nU1BZGOQFA2prMc3i7Sn/g=="
 ---

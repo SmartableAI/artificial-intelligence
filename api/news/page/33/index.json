@@ -2,6 +2,39 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-09-04-tsa-is-testing-facial-recognition-at-security-checkpoints.md",
+      "title": "TSA is testing facial recognition at security checkpoints",
+      "excerpt": "To increase security and promote social distancing, the TSA is testing touchless facial recognition technology to get you to your gate. “We want to do what we can to have fewer touchpoints for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kwqc.com/2020/09/04/tsa-is-testing-facial-recognition-at-security-checkpoints/",
+      "originalUrl": "https://www.kwqc.com/2020/09/04/tsa-is-testing-facial-recognition-at-security-checkpoints/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-04T07:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KWQC",
+        "domain": "kwqc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-04-mustard-raises-17m-to-improve-athletic-mechanics-with-ai.md",
       "title": "Mustard raises $1.7M to improve athletic mechanics with AI",
       "excerpt": "Athletic coaching is a massive, multi-billion-dollar industry. No surprise, really, given the massive revenue some top athletes are able to generate. Mustard is working to supplant — or at least augment — some of that pricey coaching with the launch of a new mobile app designed to analyze an",
@@ -1084,57 +1117,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-were-entering-the-ai-twilight-zone-between-narrow-and-general-ai.md",
-      "title": "We’re entering the AI twilight zone between narrow and general AI",
-      "excerpt": "OpenAI's GPT-3 transcends the definition of narrow AI. It doesn't qualify as general AI, but it's the first clear sign that we've begun the shift.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/03/were-entering-the-ai-twilight-zone-between-narrow-and-general-ai/",
-      "originalUrl": "https://venturebeat.com/2020/09/03/were-entering-the-ai-twilight-zone-between-narrow-and-general-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/halfway.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/03/were-entering-the-ai-twilight-zone-between-narrow-and-general-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/03/were-entering-the-ai-twilight-zone-between-narrow-and-general-ai/amp/",
-      "publishedDateTime": "2020-09-03T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

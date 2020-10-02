@@ -2,6 +2,56 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-09-23-how-ai-could-feed-the-worlds-hungry-while-sustaining-the-planet.md",
+      "title": "How AI Could Feed The World’s Hungry While Sustaining The Planet",
+      "excerpt": "Technological advancements tend to outpace cultural shifts. It has taken the shock of a global pandemic to accelerate the uptake of many technologies that have been around for at least a decade.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/worldeconomicforum/2020/09/23/how-ai-could-feed-the-worlds-hungry-while-sustaining-the-planet/",
+      "originalUrl": "https://www.forbes.com/sites/worldeconomicforum/2020/09/23/how-ai-could-feed-the-worlds-hungry-while-sustaining-the-planet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6b5b85cc29f979e9a599fa%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/worldeconomicforum/2020/09/23/how-ai-could-feed-the-worlds-hungry-while-sustaining-the-planet/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/worldeconomicforum/2020/09/23/how-ai-could-feed-the-worlds-hungry-while-sustaining-the-planet/amp/",
+      "publishedDateTime": "2020-09-23T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-mastercards-vp-of-ai-talks-bots-nlp-and-why-fintechs-need-ai-for-customer-service-vb-live.md",
       "title": "Mastercard’s VP of AI talks bots, NLP, and why fintechs need AI for customer service (VB Live)",
       "excerpt": "Join this VB Live event for insights on why AI is essential for fintech companies, plus how to implement it, how to make it perfom, and more. Register here for free. AI has been around for a long ...",
@@ -1170,39 +1220,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-elon-musk-says-teslas-full-self-driving-autopilot-is-coming-soon-and-its-clearly-going-to-work.md",
-      "title": "Elon Musk says Tesla's full self-driving Autopilot is coming soon and it's 'clearly going to work'",
-      "excerpt": "The next step in the self-driving revolution is coming in 'a month or so, says Tesla CEO Elon Musk, teasing the company's full self-driving Autopilot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/money/cars/2020/09/22/tesla-elon-musk-full-self-driving-autopilot-software/3498264001/",
-      "originalUrl": "https://www.usatoday.com/story/money/cars/2020/09/22/tesla-elon-musk-full-self-driving-autopilot-software/3498264001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T18:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

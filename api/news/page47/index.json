@@ -2,6 +2,48 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2020-08-26-us-increases-funding-for-ai-and-quantum-information-science.md",
+      "title": "US Increases Funding for AI and Quantum Information Science",
+      "excerpt": "US Increases Funding for AI and Quantum Information Science; Penny Stocks Have a Bad Rap but Some of Them May Hold the Future of Technology; Multi-dimensional Quantum Commun",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextbigfuture.com/2020/08/us-increases-funding-for-ai-and-quantum-information-science.html",
+      "originalUrl": "https://www.nextbigfuture.com/2020/08/us-increases-funding-for-ai-and-quantum-information-science.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nextbigfuture.com/wp-content/uploads/2020/03/Honeywell-Quantum-Solutions-H-Trap.jpg",
+          "width": 4208,
+          "height": 2752,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nextbigfuture.com/2020/08/us-increases-funding-for-ai-and-quantum-information-science.html?amp",
+      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2020/08/us-increases-funding-for-ai-and-quantum-information-science.html?amp",
+      "publishedDateTime": "2020-08-26T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NextBigFuture",
+        "domain": "nextbigfuture.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-27-uc-davis-to-lead-new-artificial-intelligence-institute-for-next-generation-food-systems.md",
       "title": "UC Davis to Lead New Artificial Intelligence Institute for Next-Generation Food Systems",
       "excerpt": "The University of California, Davis, has been awarded $20 million as part of a multi-institutional collaboration to establish an institute focused on enabling the next-generation food system through the integration of artificial intelligence,",
@@ -1086,57 +1128,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services.md",
-      "title": "Microsoft Word: How the new transcription feature works and how it compares to other services",
-      "excerpt": "Word can now turn a conversation or meeting into text ready to use in a document, but that might not come to desktop Word for a while.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services/",
-      "originalUrl": "https://www.techrepublic.com/article/microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/08/26/6edd296a-482a-40b9-837f-6715b2869887/resize/400x/5cfb2e68f8e346a2d980b56f4a756443/word-transcribe-desktop.jpg",
-          "width": 400,
-          "height": 521,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services/",
-      "publishedDateTime": "2020-08-26T04:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -2,6 +2,39 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-09-02-unsupervised-learning-an-overview-on-emerging-machine-learningartificial-intelligence-approaches.md",
+      "title": "Unsupervised Learning: An Overview on Emerging Machine Learning/Artificial Intelligence Approaches",
+      "excerpt": "3.1 Unsupervised Learning Will Empower a Higher Level of Autonomy Among Self ... Self-driving Cars Is Facilitating the Adoption of Unsupervised Learning Techniques 4.2 The Accuracy of Artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/09/g17345739/unsupervised-learning-an-overview-on-emerging-machine-learningartificial-intelligence-approaches",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/09/g17345739/unsupervised-learning-an-overview-on-emerging-machine-learningartificial-intelligence-approaches",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17345739",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17345739",
+      "publishedDateTime": "2020-09-02T02:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-02-vic-contact-tracing-now-ready-for-the-reopening-says-andrews.md",
       "title": "Vic contact tracing now ready for the reopening says Andrews",
       "excerpt": "Artificial intelligence is being used to bolster Victoria's contact tracing system as Premier DanielAndrews moved to reassure business and the community the much criticised system is in shape for ...",
@@ -1085,57 +1118,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-how-to-run-distributed-training-using-horovod-and-mxnet-on-aws-dl-containers-and-aws-deep-learning-amis.md",
-      "title": "How to run distributed training using Horovod and MXNet on AWS DL Containers and AWS  Deep Learning AMIs",
-      "excerpt": "Distributed training of large deep learning models has become an indispensable way of model training for computer vision (CV) and natural language processing (NLP) applications. Open source frameworks such as Horovod provide distributed training support to Apache MXNet, PyTorch, and TensorFlow. Converting",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/horovod-mxnet-distributed-training/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/horovod-mxnet-distributed-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/01/1-Architecture.jpg",
-          "width": 900,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-01T12:29:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -2,6 +2,56 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2020-08-20-ibm-uses-ai-to-evaluate-risk-of-developing-genetic-diseases.md",
+      "title": "IBM uses AI to evaluate risk of developing genetic diseases",
+      "excerpt": "In a new Nature Communications study, researchers at IBM, the Broad Institute, and Color find evidence that genetic mutations don't always cause disease.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/20/ibm-uses-ai-to-evaluate-risk-of-developing-genetic-diseases/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/f77d6f41-6a8a-4e8f-bd4b-0be639603669-e1597781187824.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/20/ibm-uses-ai-to-evaluate-risk-of-developing-genetic-diseases/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/20/ibm-uses-ai-to-evaluate-risk-of-developing-genetic-diseases/amp/",
+      "publishedDateTime": "2020-08-20T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-20-how-industrial-robotics-market-will-grow-in-coming-future-despite-covid-19-chaos.md",
       "title": "How Industrial Robotics Market Will Grow In Coming Future Despite COVID-19 Chaos?",
       "excerpt": "The industrial robotics market is going to experience a negative impact in 2020. High investment cost is required",
@@ -1145,57 +1195,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-uk-to-consult-on-tech-that-could-see-self-driving-vehicles-on-freeways-by-2021.md",
-      "title": "UK to consult on tech that could see self-driving vehicles on freeways by 2021",
-      "excerpt": "Self-driving technology could transform the way people undertake car journeys. The U.K. government's announcement was welcomed by a number of organizations. The U.K. government has started a consultation on the use of Automated Lane Keeping System technology on Britain's freeways.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/08/19/uk-to-consult-on-tech-that-could-see-self-driving-vehicles-on-freeways.html",
-      "originalUrl": "https://www.cnbc.com/2020/08/19/uk-to-consult-on-tech-that-could-see-self-driving-vehicles-on-freeways.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106670012-1597848598442-gettyimages-1060939028-img_7450.jpeg?v=1597848845",
-          "width": 3648,
-          "height": 2736,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/08/19/uk-to-consult-on-tech-that-could-see-self-driving-vehicles-on-freeways.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/08/19/uk-to-consult-on-tech-that-could-see-self-driving-vehicles-on-freeways.html",
-      "publishedDateTime": "2020-08-19T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

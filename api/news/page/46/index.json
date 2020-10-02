@@ -2,6 +2,56 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2020-08-27-acto-raises-115-million-to-bolster-life-sciences-sales-with-ai.md",
+      "title": "ACTO raises $11.5 million to bolster life sciences sales with AI",
+      "excerpt": "ACTO, a startup using AI-powered mobile experiences to educate stakeholders in life sciences, today closed an $11.5 million funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/27/acto-raises-11-5-million-to-bolster-life-sciences-sales-with-ai/",
+      "originalUrl": "https://venturebeat.com/2020/08/27/acto-raises-11-5-million-to-bolster-life-sciences-sales-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/27/acto-raises-11-5-million-to-bolster-life-sciences-sales-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/27/acto-raises-11-5-million-to-bolster-life-sciences-sales-with-ai/amp/",
+      "publishedDateTime": "2020-08-27T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-27-frost-sullivan-recognizes-linkshadow-as-innovation-leader-in-user-and-entity-behavior-analytics-based-on-machine-learning.md",
       "title": "Frost & Sullivan Recognizes LinkShadow as Innovation Leader in User and Entity Behavior Analytics Based on Machine Learning",
       "excerpt": "Frost & Sullivan has named LinkShadow as a top industry innovator in the Frost Radar™: User and Entity Behavior Analytics Based on",
@@ -1094,48 +1144,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-us-increases-funding-for-ai-and-quantum-information-science.md",
-      "title": "US Increases Funding for AI and Quantum Information Science",
-      "excerpt": "US Increases Funding for AI and Quantum Information Science; Penny Stocks Have a Bad Rap but Some of Them May Hold the Future of Technology; Multi-dimensional Quantum Commun",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2020/08/us-increases-funding-for-ai-and-quantum-information-science.html",
-      "originalUrl": "https://www.nextbigfuture.com/2020/08/us-increases-funding-for-ai-and-quantum-information-science.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nextbigfuture.com/wp-content/uploads/2020/03/Honeywell-Quantum-Solutions-H-Trap.jpg",
-          "width": 4208,
-          "height": 2752,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nextbigfuture.com/2020/08/us-increases-funding-for-ai-and-quantum-information-science.html?amp",
-      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2020/08/us-increases-funding-for-ai-and-quantum-information-science.html?amp",
-      "publishedDateTime": "2020-08-26T10:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

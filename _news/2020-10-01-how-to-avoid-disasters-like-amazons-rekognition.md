@@ -3,8 +3,8 @@ category: news
 title: "How to avoid disasters like Amazon’s Rekognition"
 excerpt: "One way to avoid disastrous AI systems in the wild might be to build responsible operation into the programs from the start, professor Sergey Levine of U.C. Berkeley told ZDNet. He has a plan to do that."
 publishedDateTime: 2020-10-01T16:15:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/video/how-to-avoid-disasters-like-amazons-rekognition/"
-webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/video/how-to-avoid-disasters-like-amazons-rekognition/"
+originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/video/how-to-avoid-disasters-like-amazons-rekognition/"
+webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/video/how-to-avoid-disasters-like-amazons-rekognition/"
 type: article
 quality: 71
 heat: 81
@@ -24,7 +24,7 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/09/30/f447663b-3622-49b4-9d70-842de8d91c0d/thumbnail/370x278/c89db3759753cf93a251fb062018a286/it-leadership-influential-cios-deliver-e-5f71c506156d300635196775-1-sep-30-2020-12-20-02-poster.jpg"
+  - url: "https://zdnet4.cbsistatic.com/hub/i/r/2020/10/01/5c32dd88-72fe-4f31-8628-3f86d7a78d8e/thumbnail/370x278/58b9f96baf74fb0d2e3eefb4b3427f0a/thumb.jpg"
     width: 370
     height: 278
     isCached: true
@@ -45,6 +45,6 @@ related:
         height: 263
         isCached: true
 
-secured: "0zG2zzTotyQAiRVr75J9akKw+SsLGvwiRheMeGMLreCoFUZaCG+C+htdjOOI5NjzK/FruiwaHXSmE1bwo9TSR3bXPlXaVDiFWH89TajQcy7BOVsVw1wFD5oCR5fEr/sUXXW33XHTE/STRTX4GqD/qMBeCZ299FZYtk2KdR8YDiiMi1BKzbSyWgKSNMx5MXdZ0NMH+KQQ3ZWGQAK0VXK0gmCOPC9si0JrvTyym+moPoMqQ8NyS3/q7IYc6285gMXbwU7VJq5Dwxnjr9/rnJ8C5IDA7xilG6O0OJ8FgXto90t7Gd40H6xXzrZwPe6ShLYwXYr4a4TaJN3QAxMwE5Q7KMNRoXul3gZ7zP+2FuTIS/xolHHCglZVxUDJhybnnGRLRhsj1sdtAJWAZbdzUYvqdsnR9OnIa2lygg7EBoTUldorkcMU811tUbmzA9L0FAUn5nlmn2oPkFxiFS3ucsniAA7TGMYKqxuvI5s8XqJkMuOnpz/5/wFciiQmSiqnDOh128nKlScnIbSh9qLRtFoMAg==;ZlP+o4gJADfb8fXqKOxFdA=="
+secured: "n3KP6o8TSoGyCXRmucJBo+YiJCcJXl4L5mFIT3RbHSjneyL2yRRbO8uBDux8QzaiH91d3kTLfnZLpvA4dAw3upv0avvnjOAJGEm4fILmbyHi8ymj/i3Pyqs5/7xd2P0CRLrpyRRMaO8lP7cV+zQc0UVcoeUzFoO/gnsA2Y8rBcomWS15xZCOn2cNiCpfbvSch0pxQjM0iLCSkZCGW7znT1r86nJN/dx6b6KPQVoCaTn1En4mwZ3vfcuchzoxZ8AiDmWDy9qx7KL80+TGwNVETeR1lHG3rT7QvKmYFw0NiBGX/jdINC3evOFme6CGry6LTHQzulwrmuQit08/lc6xE3IS5q5AaooaTfL9ZK2JDEg=;UQ+9dAnmm7fzHSxuC3lCQg=="
 ---
 

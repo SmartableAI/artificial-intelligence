@@ -160,15 +160,15 @@
       "title": "How to avoid disasters like Amazon’s Rekognition",
       "excerpt": "One way to avoid disastrous AI systems in the wild might be to build responsible operation into the programs from the start, professor Sergey Levine of U.C. Berkeley told ZDNet. He has a plan to do that.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/video/how-to-avoid-disasters-like-amazons-rekognition/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/video/how-to-avoid-disasters-like-amazons-rekognition/",
+      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/video/how-to-avoid-disasters-like-amazons-rekognition/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/video/how-to-avoid-disasters-like-amazons-rekognition/",
       "featuredContent": null,
       "highlight": null,
       "heat": 81,
       "tags": null,
       "images": [
         {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/09/30/f447663b-3622-49b4-9d70-842de8d91c0d/thumbnail/370x278/c89db3759753cf93a251fb062018a286/it-leadership-influential-cios-deliver-e-5f71c506156d300635196775-1-sep-30-2020-12-20-02-poster.jpg",
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/10/01/5c32dd88-72fe-4f31-8628-3f86d7a78d8e/thumbnail/370x278/58b9f96baf74fb0d2e3eefb4b3427f0a/thumb.jpg",
           "width": 370,
           "height": 278,
           "title": null,
@@ -449,6 +449,49 @@
       ]
     },
     {
+      "path": "_news/2020-09-29-cybermdx-healthcare-security-solution-is-now-available-in-aws-marketplace.md",
+      "title": "CyberMDX Healthcare Security Solution is Now Available in AWS Marketplace",
+      "excerpt": "CyberMDX, a leading healthcare cybersecurity provider delivering visibility and threat prevention for medical devices and clinical networks, today announced that the company's solutions",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/cybermdx-healthcare-security-solution-is-now-available-in-aws-marketplace/article_d7f5648b-9ed9-5a4a-9681-df5698a324c0.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/cybermdx-healthcare-security-solution-is-now-available-in-aws-marketplace/article_d7f5648b-9ed9-5a4a-9681-df5698a324c0.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-29T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-snowflake-looks-like-a-risky-bet-at-a-60-billion-plus-valuation.md",
       "title": "Snowflake Looks Like A Risky Bet At A $60 Billion Plus Valuation",
       "excerpt": "Snowflake, the cloud-based data warehousing company that went public recently, is valued at about $60 billion, or about $220 per share. The company trades at a whopping 230x trailing Revenues - well above many other high-growth SaaS names.",
@@ -549,49 +592,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-cybermdx-healthcare-security-solution-is-now-available-in-aws-marketplace.md",
-      "title": "CyberMDX Healthcare Security Solution is Now Available in AWS Marketplace",
-      "excerpt": "The solution combines the team's extensive research into medical device protocols and knowledge of cyber-attacks and medical device vulnerabilities with Artificial Intelligence (AI ... at CyberMDX. \"AWS Marketplace is a digital catalog trusted by millions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/cybermdx-healthcare-security-solution-is-now-available-in-aws-marketplace-301139706.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/cybermdx-healthcare-security-solution-is-now-available-in-aws-marketplace-301139706.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-29T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {

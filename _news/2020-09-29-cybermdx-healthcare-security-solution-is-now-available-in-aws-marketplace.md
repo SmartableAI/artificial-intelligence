@@ -1,18 +1,18 @@
 ---
 category: news
 title: "CyberMDX Healthcare Security Solution is Now Available in AWS Marketplace"
-excerpt: "The solution combines the team's extensive research into medical device protocols and knowledge of cyber-attacks and medical device vulnerabilities with Artificial Intelligence (AI ... at CyberMDX. \"AWS Marketplace is a digital catalog trusted by millions."
-publishedDateTime: 2020-09-29T13:02:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/cybermdx-healthcare-security-solution-is-now-available-in-aws-marketplace-301139706.html"
-webUrl: "https://www.prnewswire.com/news-releases/cybermdx-healthcare-security-solution-is-now-available-in-aws-marketplace-301139706.html"
+excerpt: "CyberMDX, a leading healthcare cybersecurity provider delivering visibility and threat prevention for medical devices and clinical networks, today announced that the company's solutions"
+publishedDateTime: 2020-09-29T14:29:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/cybermdx-healthcare-security-solution-is-now-available-in-aws-marketplace/article_d7f5648b-9ed9-5a4a-9681-df5698a324c0.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/cybermdx-healthcare-security-solution-is-now-available-in-aws-marketplace/article_d7f5648b-9ed9-5a4a-9681-df5698a324c0.html"
 type: article
 quality: 70
 heat: 80
 published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AWS AI
@@ -20,9 +20,9 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -41,6 +41,6 @@ related:
         height: 315
         isCached: true
 
-secured: "Jfln4Fbza9aMD7IAaTTQ+023YnNdrL75T87YNlz+BU7GRsB0VNUcbea166izXIhfRxKFiBZxOKYAQ/OzFxZrQCIgqhe5Kxb+E7RXD3OOpRHNTJISmY7PdMyvKJ0BxEfAiWplD2FhAdVkpey77Z1LZPvDsmmeL3nLEasKqv0VQVrVKC0jQz0tFY3cNRVARAsSreSwXW51c0nrg1OCDyQjQF6vo625sWpPSoDVTg6VFRs1BOFpd0pfx7C0K/+UhvgHlIt0FLFoa5/is6yV7z9iIy1WWjpwFZ9fesd2IaOwnXL5G4nSahmXFuFuU6ftWJL5jaW33UnK+NAscR+3rIyZIIO+F1JbRvZMqlNYrn7W5wk=;2ujeeBSXb/EQyHraGt842Q=="
+secured: "VlkYVFMef2gRPPpZSjWDD2g9Q02R4u+qNzhDfGHhxKqAkRWTfoIgBPIKnDA/EalGwgfpp/+dERxsNY0zy+x2BamOfbN9PJu8uvzpt5cqqDz63D5CC09D/pDZatDjD++Pfm8RunzrOmxtgAAgw/A1CBmlv4DA5O+TqE9Ie97BdVDNipp4ClVdYJSyIgyChc/7jKi/9XjYOlrsb9o6h0LwjGPmExiBH64KZS1ui7Il4s1IxqFi6Nf3VhoAjrv7HBWaRi7YBQdWmbgfpHkuQ3kxz3ci4LXFMmA64HDZC+u4qMxtS5E57bDx9UOZH+m7AA84C6jUb2q6B51WnjydUwPTASwj0Hb1fRJJao+Jc+VPF4s=;Cvad6VSlTAB9YSKY/QJGjA=="
 ---
 

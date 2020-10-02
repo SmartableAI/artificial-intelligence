@@ -2,6 +2,57 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-09-16-apple-unveils-its-super-fast-five-nanometer-a14-chip-shipping-in-the-new-ipad-air-next-month.md",
+      "title": "Apple unveils its super fast five nanometer A14 chip, shipping in the new iPad Air next month",
+      "excerpt": "No iPhone 12 announced today, but Apple unveiled a new chip that will power the next generation of its hardware (including that phone whenever it’s launched). The A14 Bionic, which will ship first with the new iPad Air,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/15/apple-unveils-its-super-fast-five-nanometer-a14-chip-shipping-in-the-new-ipad-air-next-month/",
+      "originalUrl": "https://techcrunch.com/2020/09/15/apple-unveils-its-super-fast-five-nanometer-a14-chip-shipping-in-the-new-ipad-air-next-month/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-15-at-1.54.30-PM-2.png?w=680",
+          "width": 680,
+          "height": 378,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/15/apple-unveils-its-super-fast-five-nanometer-a14-chip-shipping-in-the-new-ipad-air-next-month/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/15/apple-unveils-its-super-fast-five-nanometer-a14-chip-shipping-in-the-new-ipad-air-next-month/amp/",
+      "publishedDateTime": "2020-09-15T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-16-jpmorgan-and-blackrock-tap-ai-startup-to-automate-opening-custody-accounts.md",
       "title": "JPMorgan and BlackRock tap AI startup to automate opening custody accounts",
       "excerpt": "JPMorgan Chase & Co and BlackRock Inc have teamed up with artificial intelligence (AI) technology startup Saphyre to automate the opening of custody accounts, the companies said on Tuesday.",
@@ -1101,56 +1152,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-this-biotech-startup-just-raised-47-million-to-make-drugs-from-fungi.md",
-      "title": "This Biotech Startup Just Raised $47 Million To Make Drugs From Fungi",
-      "excerpt": "In order to find the next penicillin, Menlo Park-based startup Hexagon Bio uses an AI platform to sequence the genomes of fungi.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/leahrosenbaum/2020/09/15/this-biotech-startup-just-raised-47-million-to-make-drugs-from-fungi/",
-      "originalUrl": "https://www.forbes.com/sites/leahrosenbaum/2020/09/15/this-biotech-startup-just-raised-47-million-to-make-drugs-from-fungi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f60219eda89508c74189be4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D995%26cropY1%3D403%26cropY2%3D964",
-          "width": 995,
-          "height": 561,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/leahrosenbaum/2020/09/15/this-biotech-startup-just-raised-47-million-to-make-drugs-from-fungi/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/leahrosenbaum/2020/09/15/this-biotech-startup-just-raised-47-million-to-make-drugs-from-fungi/amp/",
-      "publishedDateTime": "2020-09-15T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

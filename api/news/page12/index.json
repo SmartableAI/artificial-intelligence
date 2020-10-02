@@ -2,6 +2,57 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-09-21-german-space-agencys-modular-self-driving-truck-is-just-a-life-size-childrens-toy-from-the-70s.md",
+      "title": "German space agency’s modular self-driving truck is just a life-size children’s toy from the ’70s",
+      "excerpt": "Swiss Army Knives are brilliant. Why have one knife when you can have six in one handy, pocket-sized package? They are the epitome of multi-purpose, functional fashion. Sadly, for the motoring ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/shift/2020/09/21/germanys-space-agency-self-driving-truck-1970s-childrens-toy-big-loader/",
+      "originalUrl": "https://thenextweb.com/shift/2020/09/21/germanys-space-agency-self-driving-truck-1970s-childrens-toy-big-loader/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F09%2Fu-shift-car-ev-truck-autonomous-self-driving-car-future-dlr-germany.jpg&signature=18e893eaf05ec88864fef108044067ec",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-21T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-21-experian-and-biocatch-provide-a-global-financial-services-provider-with-a-73-lift-in-fraud-detection.md",
       "title": "Experian and BioCatch Provide a Global Financial Services Provider With a 73% Lift in Fraud Detection",
       "excerpt": "Experian joined forces with behavioral biometrics provider and CrossCore® partner BioCatch to deliver a layered fraud detection approach.",
@@ -1106,57 +1157,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-ibm-says-us-should-adopt-new-export-controls-on-facial-recognition-systems.md",
-      "title": "IBM says U.S. should adopt new export controls on facial recognition systems",
-      "excerpt": "IBM Corp said on Friday the U.S. Commerce Department should adopt new controls to limit the export of facial recognition systems to repressive regimes that can be used to commit human rights violations.",
-      "sourceUrl": null,
-      "webUrl": "https://cn.reuters.com/article/ibm-facial-recognition-exports-idCNL1N2G8043",
-      "originalUrl": "https://cn.reuters.com/article/ibm-facial-recognition-exports-idCNL1N2G8043",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200911&t=2&i=1533045806&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8A0YL",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCNL1N2G8043",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2G8043",
-      "publishedDateTime": "2020-09-19T23:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

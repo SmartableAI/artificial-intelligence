@@ -2,6 +2,56 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2020-08-31-nsf-grant-to-increase-access-to-ai-research-help-save-sea-turtles-and-more.md",
+      "title": "NSF grant to increase access to AI research, help save sea turtles, and more",
+      "excerpt": "Last week, the University of Oklahoma announced a $20 million grant from the National Science Foundation (NSF). Overall, the NSF provided more than $100 million in investments to establish and support five artificial intelligence (AI) Institutes and education centers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/nsf-grant-to-increase-access-to-ai-research-help-save-sea-turtles-and-more/",
+      "originalUrl": "https://www.techrepublic.com/article/nsf-grant-to-increase-access-to-ai-research-help-save-sea-turtles-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/08/31/a82d9cbe-4220-4552-a0b0-15df5762fc26/resize/1200x/2433fa721e5259f4859b7b36dbbc8cb4/adokon.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/nsf-grant-to-increase-access-to-ai-research-help-save-sea-turtles-and-more/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/nsf-grant-to-increase-access-to-ai-research-help-save-sea-turtles-and-more/",
+      "publishedDateTime": "2020-08-31T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-31-dresner-advisory-services-publishes-2020-data-science-and-machine-learning-market-study.md",
       "title": "Dresner Advisory Services Publishes 2020 Data Science and Machine Learning Market Study",
       "excerpt": "NASHUA, N.H., Aug. 31, 2020 (GLOBE NEWSWIRE) -- Dresner Advisory Services today published the 2020 Data Science and Machine Learning Market Study, part of its Wisdom of Crowds® series of research.",
@@ -1107,57 +1157,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-30-human-meets-ai-intel-labs-team-pushes-at-the-boundaries-of-human-machine-interaction-with-deep-learning.md",
-      "title": "Human meets AI: Intel Labs team pushes at the boundaries of human-machine interaction with deep learning",
-      "excerpt": "Working with a variety of technologies, including GPT-2, OpenAI's generative deep learning model for text, Nachman and team are pushing at the boundaries of how a person can exist in a give and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/human-meets-ai-intel-labs-team-pushes-at-the-boundaries-of-human-machine-interaction-with-deep-learning/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/human-meets-ai-intel-labs-team-pushes-at-the-boundaries-of-human-machine-interaction-with-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/08/29/3f7c04f8-4ea3-4718-bb58-fa91c8069d7a/peter-scott-morgan-cardiff-productions-690x460.jpg",
-          "width": 690,
-          "height": 460,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/human-meets-ai-intel-labs-team-pushes-at-the-boundaries-of-human-machine-interaction-with-deep-learning/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/human-meets-ai-intel-labs-team-pushes-at-the-boundaries-of-human-machine-interaction-with-deep-learning/",
-      "publishedDateTime": "2020-08-29T17:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

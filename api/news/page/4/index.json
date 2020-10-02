@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-29-using-machine-learning-to-reduce-carbon-emissions-in-the-trucking-industry.md",
+      "title": "Using Machine Learning To Reduce Carbon Emissions In The Trucking Industry",
+      "excerpt": "By using advanced technology, data science and machine learning, this company says it's making the sharable truckload model work and cutting carbon emissions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2020/09/29/using-machine-learning-to-reduce-carbon-emissions-in-the-trucking-industry/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2020/09/29/using-machine-learning-to-reduce-carbon-emissions-in-the-trucking-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f721cf81578a9c207144243%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2020/09/29/using-machine-learning-to-reduce-carbon-emissions-in-the-trucking-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2020/09/29/using-machine-learning-to-reduce-carbon-emissions-in-the-trucking-industry/amp/",
+      "publishedDateTime": "2020-09-29T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-navigating-covid-19-with-conversational-ai.md",
       "title": "Navigating COVID-19 With Conversational AI",
       "excerpt": "At the forefront of creating deep and engaging conversations via rich-media interactions, Conversational AI has proven itself to be of immense value in the current crisis with vast potential as a new",
@@ -1164,56 +1215,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-mental-health-startup-equoo-will-be-distributed-by-unilever-in-new-global-youth-campaign.md",
-      "title": "Mental health startup eQuoo will be distributed by Unilever in new global youth campaign",
-      "excerpt": "Last December (yes, in the before-times) UK-based mental health startup eQuoo had a round of announcements, becoming the NHS approved mental health game, as well as signing Barmer, the largest insurance company in Germany,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/28/mental-health-startup-equoo-will-be-distributed-by-unilever-in-new-global-youth-campaign/",
-      "originalUrl": "https://techcrunch.com/2020/09/28/mental-health-startup-equoo-will-be-distributed-by-unilever-in-new-global-youth-campaign/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/HandPhone04.jpg?w=661",
-          "width": 661,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/28/mental-health-startup-equoo-will-be-distributed-by-unilever-in-new-global-youth-campaign/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/28/mental-health-startup-equoo-will-be-distributed-by-unilever-in-new-global-youth-campaign/amp/",
-      "publishedDateTime": "2020-09-28T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
