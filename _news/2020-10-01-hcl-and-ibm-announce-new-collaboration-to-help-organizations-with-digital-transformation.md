@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/hcl-ibm-announce-new-collaboration-help-orga
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/hcl-ibm-announce-new-collaboration-help-organizations-digital-transformation/amp/"
 type: article
 quality: 35
-heat: 35
+heat: 45
 published: false
 
 provider:

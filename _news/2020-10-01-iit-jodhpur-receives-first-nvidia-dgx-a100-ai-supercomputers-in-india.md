@@ -7,7 +7,7 @@ originalUrl: "https://www.ndtv.com/education/iit-jodhpur-receives-first-nvidia-d
 webUrl: "https://www.ndtv.com/education/iit-jodhpur-receives-first-nvidia-dgx-a100-ai-supercomputers-in-india"
 type: article
 quality: 39
-heat: 39
+heat: 49
 published: false
 
 provider:

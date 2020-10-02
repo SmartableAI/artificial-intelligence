@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/iit-roorkee-offers-postgraduate-certificate-
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-roorkee-offers-postgraduate-certificate-program-data-science-machine-learning-working-professionals/amp/"
 type: article
 quality: 37
-heat: 37
+heat: 47
 published: false
 
 provider:

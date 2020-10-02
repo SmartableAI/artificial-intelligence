@@ -7,7 +7,7 @@ originalUrl: "https://allafrica.com/stories/202010010750.html"
 webUrl: "https://allafrica.com/stories/202010010750.html"
 type: article
 quality: 39
-heat: 39
+heat: 59
 published: false
 
 provider:

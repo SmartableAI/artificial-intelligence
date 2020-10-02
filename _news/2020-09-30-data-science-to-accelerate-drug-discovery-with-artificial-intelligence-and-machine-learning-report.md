@@ -7,7 +7,7 @@ originalUrl: "https://www.canadianmanufacturing.com/technology/data-science-to-a
 webUrl: "https://www.canadianmanufacturing.com/technology/data-science-to-accelerate-drug-discovery-with-artificial-intelligence-and-machine-learning-report-261375/"
 type: article
 quality: 42
-heat: 42
+heat: 52
 published: false
 
 provider:

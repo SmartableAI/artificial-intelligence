@@ -3,12 +3,11 @@ category: news
 title: "TigerGraph Highlights Next-Generation Graph and Machine Learning Partnerships at Graph + AI ..."
 excerpt: "TigerGraph, the only scalable graph database for the enterprise, today announced that it will showcase multiple key partnerships that are democratizing the use of graph with AI and machine learning at Graph + AI World 2020."
 publishedDateTime: 2020-09-30T15:00:00Z
-originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-software-artificial-intelligence-81c1e586ca815f19a0089c4cc29cdd48"
-webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-software-artificial-intelligence-81c1e586ca815f19a0089c4cc29cdd48"
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-software-artificial-intelligence-81c1e586ca815f19a0089c4cc29cdd48"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-software-artificial-intelligence-81c1e586ca815f19a0089c4cc29cdd48"
 type: article
-quality: 44
-heat: -1
-published: false
+quality: 42
+heat: 42
 
 provider:
   name: Associated Press
@@ -17,7 +16,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-  - Microsoft AI
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -25,36 +23,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "TigerGraph Highlights Next-Generation Graph and Machine Learning Partnerships at Graph + AI World 2020"
-    excerpt: "REDWOOD CITY, Calif., Sept. 30, 2020 (GLOBE NEWSWIRE) -- TigerGraph, the only scalable graph database for the enterprise, today announced that it will showcase multiple key partnerships that are democratizing the use of graph with AI and machine learning at Graph + AI World 2020."
-    publishedDateTime: 2020-09-30T16:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/tigergraph-highlights-next-generation-graph-and-machine-learning-partnerships-at-graph-ai-world-2020-2020-09-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Ecosystem partners and new solutions for AI workloads highlight opening day of VMworld 2020"
-    excerpt: "The epic partnership between VMware and AWS really has dominated the discussion the last few years in this ecosystem, and they’re expanding not only with Microsoft Azure, but with Oracle.”"
-    publishedDateTime: 2020-09-30T19:00:00Z
-    webUrl: "https://siliconangle.com/2020/09/30/ecosystem-partners-and-new-solutions-for-ai-workloads-highlight-opening-day-of-vmworld-2020-vmworld/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 31
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/VMworld3.jpg"
-        width: 987
-        height: 509
-        isCached: true
-
-secured: "hSZPvAHvzbp+3LXj1YKd+/ta48O4JZVcvK5yiyPbYmb+SAsIPflCD/hHPFVfQCLGyf4YA4pZo90Pgy27aJ6IgLo5TLbTzj7WCwqO96eQbQiP7DkOHpY3ErjWVLeMKADp42IY5FZLt1DUcVFIhSHKSjeljdZUZ1YvgEDdJhWdUfr/+XI39C/iMOU/tOc6k9kPaM1bFkQd1LDYWJ+JyhgImIpaOfOkKNKgHKvQS+w9jMO1pRSUsMH5bA5gogiCid1iOtQ4n3e447+TYcH8CEkoiWuyNb9wH8q6v8F8iu8gfhFsReDwuQeJS18YBPGvR6jyRG/DTgRfnobaguN7mpIetAWTOyFbWh/M8VWsl4N1Po4=;nSf9R8sKuEYqqgE+nM5SMA=="
+secured: "Bp9leBeln74IaIptoZ/Ly9pJ4h2FaxqmAIhu6FU2uWXE5K2PwYlWRf2lWvK4fH025WoRp0byu/RkgB5QPnmc2ryi2XhIXq3Er6ZqaJlDv/NNF9xsewLzu7pXr/AFy+8BMA+LvAJ0ETMJ95CG6VWvaD6LOMij5uAN0SCKBJxvoDzZPk/YmhjWYIuQf5N/vBBw7P3AZZsojBg69PFG7f0uOTLjs4bHxvLwKPYMCAhubvzyeRRnAh6yXKE1tiO8h8juMWLivVyeYprBsiK5MiKyk/4NoG5zceeSURuiisYbAQxy03p0DFYT6mAf4I4GJbVKVqsoVyJEA3qOjBAy4n4iOlAUq4pHYUQJlWo9NPJ8azc=;iHTBon7HM7fN0lZQQX7t5w=="
 ---
 

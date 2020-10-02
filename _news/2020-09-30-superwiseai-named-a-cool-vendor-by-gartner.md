@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Superwise.ai named a Cool Vendor by Gartner"
-excerpt: "Superwise.ai, a pioneer of AI assurance and monitoring solutions, today announced that it has been recognized in the Cool Vendors in Enterprise AI Governance by Gartner 1. The report includes the following recommendation: \"Build trust in AI solutions by applying an explainable AI (XAI) approach to holistically address aspects of AI models such as trust,"
-publishedDateTime: 2020-09-30T16:30:00Z
+excerpt: "© 2020 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ..."
+publishedDateTime: 2020-09-30T16:19:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/superwise-ai-named-a-cool-vendor-by-gartner-1029636628"
 webUrl: "https://markets.businessinsider.com/news/stocks/superwise-ai-named-a-cool-vendor-by-gartner-1029636628"
 ampWebUrl: "https://markets.businessinsider.com/amp/news/superwise-ai-named-a-cool-vendor-by-gartner-1029636628"
@@ -10,7 +10,6 @@ cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/market
 type: article
 quality: 69
 heat: 69
-published: false
 
 provider:
   name: Business Insider
@@ -21,9 +20,9 @@ provider:
       height: 50
 
 topics:
-  - Microsoft AI
+  - AWS AI
   - AI
 
-secured: "q3XCbQHHHuuQ+EVj6+XHsSTke1x3iGiIyGm08Qz0fbDeL3H06oBmuuHGXgm1kQTKXr/Ur5m6dMr2mSCTxfQcGADhrS1GachMF0961V0fB34D9nhtb9uBCcX+PP7DVHb/YOlT0W4L9bsOJ7wn5BtOCfkJJNJWt4UgujRoFRdvL0rnqZzbiUM/LL8vvqrZ6hkZKmwSomHZclQjJyHJZvwS1n/nhnzoSiVkqia1MYveRz42tEyj0bllvEx4CubibE8UzgVgdGccBGKrqUl15/dG4Dh9XWspjztbp/fVtdY7D67BiIYXRUPWrowoN6q7T6xZCiG7jVtaVcGb4yYh8eDxd6lOjZi5RB4qVpLaqiByIU8=;g7cm7/aSYpKOaxOeNiuNSQ=="
+secured: "M+9EPbihHPXEko3qTSSAtwyqyC+y8/NH+tpz1yv0rOJG/uSVctka/Juj5X5su+REtipO6NjFL5qAefBGmt1qqgikzTp28NrzMbdEMSfV5sjQYkSft2yURI3Idby9GRWv4qatQZPheZ7EjcXjzYHmjgF1nKurHNNrdgFg5x3VHUJkFuIUdLMnLPh0b9v7UbniO6fjieLQ8uQiMQjhvbpevSmJXFimdvSeThqBdzZmII/sTndPI4F+gJ807Sy3xrxICYthsSTN1X+9LNX5tIHclT4ROl1iBR7SeBNJI2Bae8VVPenQEfUrQinCejIJPT/Q2QlXKmmSK5zy/qSiyJRvfAMLGUAlX98eGW+Ga9NrjbM=;R9UVPNckUZooj6umVlZz2g=="
 ---
 

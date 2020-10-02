@@ -7,7 +7,7 @@ originalUrl: "https://www.sify.com/news/indias-artificial-intelligence-spending-
 webUrl: "https://www.sify.com/news/indias-artificial-intelligence-spending-grows-at-over-30-idc-news-education-uj4mPCbjgbieg.html"
 type: article
 quality: 39
-heat: 39
+heat: 49
 published: false
 
 provider:

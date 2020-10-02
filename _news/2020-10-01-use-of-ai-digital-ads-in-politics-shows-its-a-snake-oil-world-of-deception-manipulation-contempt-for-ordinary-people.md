@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rt.com/op-ed/502168-ai-digital-ad-politics/amp/"
 cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/op-ed/502168-ai-digital-ad-politics/amp/"
 type: article
 quality: 33
-heat: 33
+heat: 43
 published: false
 
 provider:

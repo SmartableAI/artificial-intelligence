@@ -34,7 +34,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 77
+    quality: 79
     images:
       - url: "https://zdnet4.cbsistatic.com/hub/i/2020/10/01/a2830110-7534-4682-ad13-fe18a31a80f6/alibaba-cloud-stack.png"
         width: 1163

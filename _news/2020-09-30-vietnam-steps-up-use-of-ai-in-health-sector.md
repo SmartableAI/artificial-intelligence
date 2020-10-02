@@ -7,7 +7,7 @@ originalUrl: "https://vietreader.com/health/17931-vietnam-steps-up-use-of-ai-in-
 webUrl: "https://vietreader.com/health/17931-vietnam-steps-up-use-of-ai-in-health-sector.html"
 type: article
 quality: 39
-heat: 39
+heat: 49
 published: false
 
 provider:

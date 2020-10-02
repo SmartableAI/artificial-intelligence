@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/alibaba-cloud-nears-profitability-as-cust
 ampWebUrl: "https://www.zdnet.com/google-amp/article/alibaba-cloud-nears-profitability-as-customers-move-from-iaas-into-ai-data-analytics-workloads/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alibaba-cloud-nears-profitability-as-customers-move-from-iaas-into-ai-data-analytics-workloads/"
 type: article
-quality: 77
-heat: 87
+quality: 79
+heat: 89
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - AWS AI
 
 images:
   - url: "https://zdnet4.cbsistatic.com/hub/i/2020/10/01/a2830110-7534-4682-ad13-fe18a31a80f6/alibaba-cloud-stack.png"

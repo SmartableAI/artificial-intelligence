@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/our-nlp-models-are-the-best-in-the-w
 webUrl: "https://analyticsindiamag.com/our-nlp-models-are-the-best-in-the-world-for-indian-vernacular-languages-ganesh-gopalan-ceo-co-founder-gnani-ai/"
 type: article
 quality: 43
-heat: 43
+heat: 53
 published: false
 
 provider:
