@@ -14,7 +14,7 @@ website: http://t.co/M6c0l3S5lb
 twitter:
   username: rosalindpicard
   url: https://twitter.com/rosalindpicard
-  followers: 10890
+  followers: 10891
 
 linkedin:
   url: https://www.linkedin.com/in/rosalind-picard-0111bb/
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Rosalind Picard"
 
-secured: "JvAmOjTgSArrgWUNstku+6/BPSMOpQ42N3mPwuoZ1qvhxxyGpyIfJBV56NRJHZtUQ+xwfCxwBc/F5orkhmwk8rKkp3yblYM1xLprg2xozhlpWPtdqgDzykOu/HhlfJNows6o495Sd6IeEBR8VIp7FjD3sAVVJE3OcRBLnFG5fD3KE/vwR6I2kjn4rhBjAHAXMsGQEgBjhbjI6nLyOAOryCV85Vt2Zlniga1SjQyRNQu1uZQsUQKbNvE6BS6frh8KnsCJ+eZ3jZ9jqHC/ovvUYHWLz6LSu2z6uUeh6w7c1qgbCNHFoylFneUBg0sfLxVehS+mjfn1YwV+0In6A1oQbVWWnhhMggZMOGKA3Zlf1rpqglGitkMVHg+iSR9D9z5ZMX9a3w5ydFLRSpVkk4gFLd04jFfVoBPge3NEg3lJpsY=;sY0og300zCMGuKdxxRMOPQ=="
+secured: "/LsFmbpBWeGJleA4rMqZee5CNZ96wz0n+8Vk2zEbcBT1IJl/31y38+/pMp05AGI/V3n6+WQMvfFqSWanLy5ciIT1qOGIzyrksyYOn8hPvYhfZ4NGWZU+JdoiaUV71SK9Q4FlO8CzAf/3YVCwas66M4kiqy4iXhMPGsi6ieZ1jjIWTYPop4TtG0kmXx7uPD+qfXFo2rT/y2VeBgnCh6ni9y8lGunBm2y7buKHvPf4ezR2rSF/ROBTZKpFqC58CCJBVe9AvwiAUP46nUHsbwnBy5FHQI20pr6RT8ToaaLYctas/rPRgYMV+5jZPnlLG2FBpOYrno+ZWD4o7zJ49Y8hwKItATkMtFJh1VhQ5kuoZo2JXZ6tV8Tv2zgMHTAjp6bDNZCSepRhL2hzwOZkDZAI+EB32WW9H6fiUnMED0egiew=;Re5Vq38qqwx0ugaUOEBSPA=="
 ---
 
