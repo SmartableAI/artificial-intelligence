@@ -73,20 +73,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Supply Chain Market Outlook , Size, Forecasts, Demand, Competitive Analysis, Growth Factors, Key Players"
-    excerpt: "Global Artificial Intelligence in Supply Chain Industry was valued at USD 767.8 Million in the year 2018. Global"
-    publishedDateTime: 2020-09-28T06:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-outlook-size-forecasts-demand-competitive-analysis-growth-factors-key-players-2020-09-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Energy Market 2020 Global Trend, Segmentation and Opportunities Forecast To 2026"
     excerpt: "New Study Reports “Artificial Intelligence in Energy Market 2020 Global Market Opportunities, Challenges, Strategies and Forecasts 2026” has been Added on WiseGuyReports. This report provides in depth study of \"Artificial Intelligence in Energy Market\" using SWOT analysis i."
     publishedDateTime: 2020-09-29T19:09:00Z

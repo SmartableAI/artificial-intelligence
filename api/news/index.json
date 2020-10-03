@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-02-simplify-data-management-with-new-apis-in-amazon-personalize.md",
+      "title": "Simplify data management with new APIs in Amazon Personalize",
+      "excerpt": "Amazon Personalize now makes it easier to manage your growing item and user catalogs with new APIs to incrementally add items and users in your datasets to create personalized recommendations. With the new putItems and putUsers APIs, you can simplify the process of managing your datasets. You no longer",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/simplify-data-management-with-new-apis-in-amazon-personalize/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/simplify-data-management-with-new-apis-in-amazon-personalize/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-02T16:00:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-03-there-is-already-a-beer-created-by-artificial-intelligence.md",
       "title": "There is already a beer created by Artificial Intelligence",
       "excerpt": "To carry out this project, the creators chose the Indian Pale Ale type of beer. Technology has become a large part of our lives and with it Artificial Intelligence (AI) has intruded into our daily lives, so much so that with the help of it we have been ...",
@@ -212,7 +263,7 @@
       "originalUrl": "https://www.foxnews.com/us/parkland-ai-video-son-voters",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1151,57 +1202,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-anticipating-heart-failure-with-machine-learning.md",
-      "title": "Anticipating heart failure with machine learning",
-      "excerpt": "A new algorithm developed at MIT CSAIL aims to distinguish between different pulmonary edema severity levels automatically by looking at a single X-ray image.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2020/anticipating-heart-failure-machine-learning-1001",
-      "originalUrl": "https://news.mit.edu/2020/anticipating-heart-failure-machine-learning-1001",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202009/Pulmonary-Edema-xray.png",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-01T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

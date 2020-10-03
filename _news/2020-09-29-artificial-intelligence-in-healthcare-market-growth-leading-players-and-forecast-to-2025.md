@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2025-2020-09-29"
 type: article
 quality: 75
-heat: 195
+heat: 185
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Supply Chain Market Outlook , Size, Forecasts, Demand, Competitive Analysis, Growth Factors, Key Players"
-    excerpt: "Global Artificial Intelligence in Supply Chain Industry was valued at USD 767.8 Million in the year 2018. Global"
-    publishedDateTime: 2020-09-28T06:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-outlook-size-forecasts-demand-competitive-analysis-growth-factors-key-players-2020-09-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
