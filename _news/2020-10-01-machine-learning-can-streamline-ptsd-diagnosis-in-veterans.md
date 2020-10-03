@@ -57,20 +57,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "VA Boston and BU researchers streamline PTSD diagnosis with machine learning"
-    excerpt: "Now, researchers from the VA Boston Healthcare System and the Boston University School of Public Health (BUSPH) have used machine learning to explore streamlining the ''gold standard'' diagnostic tool for PTSD."
-    publishedDateTime: 2020-09-29T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-09/buso-vba092920.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 51
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "Gn/gcySJGJ6g3nfoASo2iE+X1Y6hitBndSySOaeydeAjSib7Lfn+J0mhJMonVIAzOVCMGplNAZ+YKZ0cEiJAxi5ZQtlkaTOMChZTh7Sa+altcJUMax+uVXlLCch3Qu88gZ/Olb6QdE4vIFZXxhX/yrtfZ+Zq6EM12i4Ku2KEhNcq2mGEQlir2RE6nl35B/fgfS+Ke0dTkLUHzb6nDDb+oHg8DOL2Krt+luIiYyW5QJHJqfhP2DiFq6cZ63SP9DOEIK9tlZh3QNvadnvHzuYp6LbmlDWxjboGhMDq0VBJ+krATBMhXWUcLu0zUJpiDhG2d02nkyugOIJS3W7QB1sPT7V83cRzYcbbvVkCyK7q7tjiumtNkWl+8f0d12feuD9kAVh5HySsmynEUNUPW+wYsdgFVnqfbYLB4/5FOkGzTQHpuYOlJt316TUkzumEJXC/vw8An4Z13AWeFSBtQOGN8W2JDG2IxA8g+Gx6vwAL5EgF0v0HIkvNJ7IEhowW6w5KIwcnGVyMJHIxaENMkLs19A==;CNXr8MRz52EnsD3EGIymuQ=="
 ---

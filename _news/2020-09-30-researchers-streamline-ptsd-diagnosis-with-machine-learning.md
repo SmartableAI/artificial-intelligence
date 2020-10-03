@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.amp"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-917184638.jpg"
         width: 690
         height: 400
-        isCached: true
-  - title: "VA Boston and BU researchers streamline PTSD diagnosis with machine learning"
-    excerpt: "Now, researchers from the VA Boston Healthcare System and the Boston University School of Public Health (BUSPH) have used machine learning to explore streamlining the ''gold standard'' diagnostic tool for PTSD."
-    publishedDateTime: 2020-09-29T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-09/buso-vba092920.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 51
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "TiKWsWjLJSriWOo5cEe9MaDpe1soOnXafIWKc1nLDfXqp8W5dUhRfOlzmdrQNkKkjgnUO13x6o18WjQH81fBH64BrVeyyMjoaxkBwkLa6eOyw1eaIum3PzLeKBO1T/OH/8W+idrWrh25VN2yvi5sI+42xv66hifGWPwxMyyUI4G68sq8oQI7kvCseuM07M2pI6YM+rJWESjrAcagr+vccE8cFbO+Q8owqqg2u0XUN8pWLX1IZYl7rwR1GozjskzlZEL4lObiAi6V/4zLSwBGLrDJc2s+wpf47tHaU/pv8Xw0lQMFbEAv2xONEpE9uox1OBj+xYp2lDzORwiGgDhn+tW9rqgR4Nt67NWr38YvWZhJzRvuQAVZhzvcfyxL4s47rzV3o7jkHRnNPPQhRih6Y71jhJrHX4l0LqH1wW+noJJsw6/zZZsCvmzcUsZFhtxmfeUFmfJC7rqHN1yiEN29fHqWFoMHON5UNZt1om8hISe4w4+vNVrYQ0+jUT3J77+r2i2zsQ6f5uwb4UubB7vJNg==;H5rp8PeAk2+XEXYVuxY22g=="

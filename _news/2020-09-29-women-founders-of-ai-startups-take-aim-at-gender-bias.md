@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/women-founders-of-ai-startups-take-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/women-founders-of-ai-startups-take-aim-at-gender-bias-11601388625"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://dmpublisher.s3.us-west-2.amazonaws.com/2020/September/29/6/84b444f5-b1d8-4c58-b8b9-ac3c7c45a7e8-sized"
         width: 800
         height: 800
-        isCached: true
-  - title: "Getting rid of AI bias"
-    excerpt: "Better facial recognition and changing algorithms - how to fight racial bias in AI"
-    publishedDateTime: 2020-09-29T04:36:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/p08ssk81"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p08ssk91.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Startup Doc.ai inks deal with Anthem, names female cofounder CEO"
     excerpt: "Palo Alto, California-based artificial intelligence startup doc.ai, which named cofounder Sam De Brouwer its new CEO on Tuesday, has built the technical infrastructure to securely collect and process disparate data in ways that engage patients."

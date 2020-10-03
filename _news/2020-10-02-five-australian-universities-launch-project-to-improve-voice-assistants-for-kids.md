@@ -3,13 +3,13 @@ category: news
 title: "Five Australian universities launch project to improve voice assistants for kids"
 excerpt: "A joint project between five Australian universities, called AusKidTalk, has been launched to improve the performance of voice recognition systems when being used by children. The universities involved in AusKidTalk are University of New South Wales,"
 publishedDateTime: 2020-10-02T04:33:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/five-australian-universities-launch-project-to-improve-voice-assistants-for-kids/"
-webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/five-australian-universities-launch-project-to-improve-voice-assistants-for-kids/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/five-australian-universities-launch-project-to-improve-voice-assistants-for-kids/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/five-australian-universities-launch-project-to-improve-voice-assistants-for-kids/"
+originalUrl: "https://www.zdnet.com/article/five-australian-universities-launch-project-to-improve-voice-assistants-for-kids/"
+webUrl: "https://www.zdnet.com/article/five-australian-universities-launch-project-to-improve-voice-assistants-for-kids/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/five-australian-universities-launch-project-to-improve-voice-assistants-for-kids/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/five-australian-universities-launch-project-to-improve-voice-assistants-for-kids/"
 type: article
 quality: 69
-heat: 79
+heat: 80
 published: true
 
 provider:
@@ -43,6 +43,6 @@ related:
       domain: smh.com.au
     quality: 24
 
-secured: "rrLOcNRqhPP/XLVKiQbLk6LHZH7NWHa3aAfIFSkmFUVxErR5d02uoFuUGuusVqGmkJsMdzJd5aBolCzcqE5eYwv963S+vCH9V7/NzmTqrqcz3TY47SQWQNsrp1grq6UAbsgspi6HN7ECUUqRP+gDaIlWoNUDR56uPz2p25k9a2042eoqZ/+zARAXwV0jrsr3XhLmDHMciDzrLBfT4u1bxsfhC0weVJsOM8TEXOmqzAJR6yH92Zwt6HL/dH9zggWRl5Y9nidWq3nsFqQ6dwYOjiTJYeLByKwGiIOCrdgYRn5kWeeO/ZwUVFUEvNVkvs9WsgWFOsBmGTQWMFwwlXbTEVSCFWm3j4L5XkQZnKATZWs=;XpAs6wr6nZNJ2wZ1wcM9gg=="
+secured: "jgKcqRGNo4EourJ5A44QgDxstiiEb+PxLHSYGSy3P2ryhU7TWNbvhQvW6CfQTP4ofDWgIuRuIvSKfhNsB85Sktlkm/Hiwa+05MTsXcoOmh2qmaQ+U4Zfl+0NcQM4MsmLs5aafNwy2rWOJv8a86xapjO03YzOVUMcKbwop+n2PnqLIYs29BR206nKL+ciuwR8Vw4zjH9ab76aEuDPalNbaeOs3N0uHQ7+/0kSsT/V7NmzdUq5WEPgG95Zh6ZobBwQsA4XB37X8nAklHY2WRml+rA35+elAOkc7nEXOKpY9Kc0piJgEtnQ4ZHBXxICu2V/anEWzbbrOb70mUnm//8M1E3F2+yv84lodpbM8Um5xpg=;83/KI+ZNfTVAnQNCu8U7JQ=="
 ---
 

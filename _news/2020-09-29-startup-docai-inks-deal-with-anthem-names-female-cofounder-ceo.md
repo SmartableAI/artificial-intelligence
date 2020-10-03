@@ -68,20 +68,6 @@ related:
         width: 800
         height: 800
         isCached: true
-  - title: "Getting rid of AI bias"
-    excerpt: "Better facial recognition and changing algorithms - how to fight racial bias in AI"
-    publishedDateTime: 2020-09-29T04:36:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/p08ssk81"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p08ssk91.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "CmbdebFFap9XmPEW9VMMolsjQaNWofJzu7fT64TGZ3HepbLcShETeZpzolwz/UYtdnUq1BX0tC8xIau297nW9YXSUHHUSMTycadsbI1+EmA/GqOvnt4zXcDyNqsQNFyECfnCJLacv1QMHPrIfoM0OV/B2h5IqbjNR+KWz7sdUahgj5Fk+uvBOkQTg/0sr5xn/BzLbqRCOtSUZwycJnnhdZ582bfI0otMOmI1t59PMNq1q6OzH/y+ryzBGH4on0aVIFQOyD0KMgxW+xObXhWUyPh2xdJ3nkSRKsooIxaHIZyp6vQ0D5uNp/BI+OfB7uwbIZ17gRoKc3vLYS8ipxjjdVDmgak9X3ZcTtXz2Skci9E=;G2/2NspzfBplr4yF2UtCeg=="
 ---
