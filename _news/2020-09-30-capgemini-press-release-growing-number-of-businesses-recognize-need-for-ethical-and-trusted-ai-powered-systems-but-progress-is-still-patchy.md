@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/17710931"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17710931"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,19 +19,6 @@ provider:
 topics:
   - AI Ethics
   - AI
-
-related:
-  - title: "Capgemini recognized for innovation in Artificial Intelligence with 2020 AI Breakthrough Award"
-    excerpt: "Capgemini announced today that it has been selected as the winner of the “Best Intelligent Word Recognition Solution” award in the 2020 AI Breakthrough Awards program conducted by AI"
-    publishedDateTime: 2020-09-28T16:33:00Z
-    webUrl: "https://indiaeducationdiary.in/capgemini-recognized-for-innovation-in-artificial-intelligence-with-2020-ai-breakthrough-award/"
-    ampWebUrl: "https://indiaeducationdiary.in/capgemini-recognized-for-innovation-in-artificial-intelligence-with-2020-ai-breakthrough-award/?amp"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/capgemini-recognized-for-innovation-in-artificial-intelligence-with-2020-ai-breakthrough-award/?amp"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 40
 
 secured: "PAJiJWkOvZFdrxd3nDnmruiQ1nZOdf7gtZfjXbeKWUlISX7kvpndpWdPEKeg/VSfG23KvzJoe585p35YEiM+KuOL6Uua7ItAz9w9MoRlcB+L4n3+mXglWWDorL1/MXzP7GjPjs2mBJSYo/cK1j3IwrutA39fBRHv6eYNWpRcZJReDU2qXxnARYuzRQgpXhDpQao+HA5J1Bpm2DrlPFJ4PbqAuDaDBrhU7mmTpd08xITD4ZSSrWPaXckO5J1M3b7FWskWD/SECWygle7g/cvehh12O6hRwC5EfQRVeznY7jUK/iYKw4eJwXyvKaw1iE64CoYpTg4XMp2zOeITUbvs+bItIi4vChfY03I9sOH5auw=;yqQmOdnaIbCKQkiqNMNj9A=="
 ---

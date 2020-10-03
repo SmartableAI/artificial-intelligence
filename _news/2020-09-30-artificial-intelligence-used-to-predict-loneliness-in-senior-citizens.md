@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/simonchandler/2020/09/30/artificial-int
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonchandler/2020/09/30/artificial-intelligence-used-to-predict-loneliness-in-senior-citizens/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Artificial Intelligence Tools Predict Loneliness"
-    excerpt: "For the past couple of decades, there has been a loneliness pandemic, marked by rising rates of suicides and opioid use, lost productivity, increased"
-    publishedDateTime: 2020-09-28T15:46:00Z
-    webUrl: "https://scienceblog.com/518743/artificial-intelligence-tools-predict-loneliness/"
-    ampWebUrl: "https://scienceblog.com/518743/artificial-intelligence-tools-predict-loneliness/amp/"
-    cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/518743/artificial-intelligence-tools-predict-loneliness/amp/"
-    type: article
-    provider:
-      name: ScienceBlog
-      domain: scienceblog.com
-    quality: 59
-    images:
-      - url: "https://scienceblog.com/wp-content/uploads/2020/09/Artificial-Intelligence-Tools-to-Predict-Loneliness.jpg"
-        width: 450
-        height: 675
-        isCached: true
 
 secured: "TCbAd3JBMj65fEmIiL8u/FoG7PAEOcN8qgUVqRkQEnWAhrlHkpeP5sAs8XCrtZ7CI66wbJAc/SGsF5+FFdoj24bxCm8hRCLVncD8WtPiPglliNlCvOPJr4Et1v4jK8DLmkFQqUEjX1l2EAH/yWtyGPlvaE8WPissQHP+BV/Wr4Soc0SWH52PQABedauorK6OCkF8+45rKDoI6GyttcghKeE0mAWoYpt6r0kfvhLFGz4IKOTvJASmNy+mdVmMa5U4zrD7C+rQL0/YAYnfoDCASaX/IMhC8QhxLoMtqwTVkrcAnPrZ5W+51nP+iQPnDhrg/HwLZYCs7gFGZQZCU4j42B97srUHtX9bk2f0yFAKFkZQIsjfYukqhb/KpOMt+CjIcMZ8rlMKBKUrcPBso+lAnIUc3KqEDAjLHKzduh6LQd1foF3UwsNg4WBGq5SfBy5GFrgV2g3miDXok7zF/eQrTf/WFWGQBsB+D8xhlEOt1zPFu5LkDB3+K81/WuwzZ64rP+kJHxOo7Za7YPKeRQ+Anw==;izGH+DfHjIGG0b6s5+GKow=="
 ---

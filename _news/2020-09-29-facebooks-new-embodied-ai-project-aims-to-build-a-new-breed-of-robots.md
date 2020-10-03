@@ -51,20 +51,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "New Facebook software creates smarter natural language processing models"
-    excerpt: "Facebook Inc. has designed a new artificial intelligence framework it says can create more intelligent natural language processing models that generate accurate answers to questions without being constantly retrained."
-    publishedDateTime: 2020-09-28T15:18:00Z
-    webUrl: "https://siliconangle.com/2020/09/28/new-facebook-software-creates-smarter-natural-language-processing-models/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 40
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/770.jpg"
-        width: 6000
-        height: 4500
-        isCached: true
   - title: "Indian fact checking site NewsMobile with US varsity startup FakeNetAI Win IFCN-Facebook Global Innovation Challenge"
     excerpt: "In today technology news, we covered about the Indian fact checking site NewsMobile with US varsity startup FakeNetAI Win IFCN-Facebook Global Innovation Challenge"
     publishedDateTime: 2020-09-29T20:54:00Z

@@ -39,20 +39,6 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "GE Healthcare heads AI in imaging project in France"
-    excerpt: "GE Healthcare (NYSE:GE) announced that it launched its AI DReAM project for facilitating artificial intelligence use in medical imaging."
-    publishedDateTime: 2020-09-30T14:01:00Z
-    webUrl: "https://www.massdevice.com/ge-healthcare-heads-ai-in-imaging-project-in-france/"
-    type: article
-    provider:
-      name: MassDevice
-      domain: massdevice.com
-    quality: 54
-    images:
-      - url: "https://www.massdevice.com/wp-content/uploads/2019/07/GE-Healthcare-logo.png"
-        width: 770
-        height: 500
-        isCached: true
   - title: "BUDDI.AI Emerges from Stealth Mode to Transform the Healthcare Revenue Cycle"
     excerpt: "PR Newswire/ -- BUDDI.AI (f/k/a BUDDIHealth), a leading provider of AI-powered clinical revenue cycle automation solutions for healthcare is proud to announce its emergence from"
     publishedDateTime: 2020-10-01T13:26:00Z

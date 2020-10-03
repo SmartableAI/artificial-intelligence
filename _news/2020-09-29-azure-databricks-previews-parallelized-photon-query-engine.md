@@ -9,8 +9,8 @@ ampWebUrl: "https://www.infoworld.com/article/3583657/azure-databricks-previews-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3583657/azure-databricks-previews-parallelized-photon-query-engine.amp.html"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: InfoWorld
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 650
     isCached: true
-
-related:
-  - title: "Azure Databricks previews parallelized Proton query engine"
-    excerpt: "Microsoft has unveiled a preview of a C++-based vectorized query engine for the Azure Databricks cloud analytics and AI service based on Apache Spark. Azure Databricks, which is delivered in partnership with Databricks, introduced the Photon-powered ..."
-    publishedDateTime: 2020-09-28T16:29:00Z
-    webUrl: "https://www.infoworld.com/article/3583657/azure-databricks-previews-parallelized-proton-query-engine.html"
-    ampWebUrl: "https://www.infoworld.com/article/3583657/azure-databricks-previews-parallelized-proton-query-engine.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3583657/azure-databricks-previews-parallelized-proton-query-engine.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/01/spark-on-the-globe-shutterstock_7869750551-100827145-large.jpg"
-        width: 1200
-        height: 650
-        isCached: true
 
 secured: "e335lgM8mwcWc9VRHoSdCdoxefEu3Fequ3pyJ0Jc405yTZY3Cv6xAAv0hwfsUxS6M0suefP8UTuqSZS2cEKvOuyGHtPtkjeIyVUn3AT0WUHiebh2UINk/Ixk5a86ilb1yS50pWW8Oheie/ygWulp7LWb5gjUsbMphjOvBDjuFKQp7SDz9oTRyhuJyqBRKIpP7QuPL1hO6ETSlIKiwAOkAmKJDpNSsoCxpIPBGP74my5Te442sZ38mTZNrgEmcmgZFAyJagyw1DldcOdTsxC2IsYuxSa/UOkSVE7rrzAE10LeEHlxJLppKaCj4YIamGGBLnRHbBoNXl/fKHh34XLABMs5qZjyTFijiqRB+cDyLZ4=;1CbI9dvolhYoKQroHpJHzQ=="
 ---

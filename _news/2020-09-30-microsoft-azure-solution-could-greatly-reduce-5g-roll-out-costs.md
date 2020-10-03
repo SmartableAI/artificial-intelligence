@@ -95,20 +95,6 @@ related:
         width: 1050
         height: 750
         isCached: true
-  - title: "Microsoft gets into 5G race with Azure cloud for telecom operators, aims to use AI for ops"
-    excerpt: "After banning China's Huawei [HWT.UL] from its telecom network, the U.S. government has been pushing big American companies such as Microsoft to get more involved with 5G - a technology which promises to enable everything from self-driving cars to remote surgery and more automated manufacturing."
-    publishedDateTime: 2020-09-28T16:08:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/international/business/microsoft-gets-into-5g-race-with-azure-cloud-for-telecom-operators-aims-to-use-ai-for-ops/articleshow/78369231.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://img.etimg.com/thumb/msid-78369266,width-1070,height-580,imgsize-526261,overlay-economictimes/photo.jpg"
-        width: 1070
-        height: 580
-        isCached: true
   - title: "Microsoft Translator now support Assamese language"
     excerpt: "The service is available on Microsoft Translator app, add-ins, Office 365, Bing Translator, and through the Azure Cognitive Services Translator API for businesses and developers. Users can translate Assamese text, supported by more than 70 languages ..."
     publishedDateTime: 2020-09-30T18:54:00Z

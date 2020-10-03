@@ -255,7 +255,7 @@
       "originalUrl": "https://venturebeat.com/2020/10/02/ibm-joins-nih-effort-to-diagnose-schizophrenia-using-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -676,56 +676,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-02-three-best-practices-for-how-banks-can-get-the-most-out-of-investments-in-ai-innovations.md",
-      "title": "Three best practices for how banks can get the most out of investments in AI innovations",
-      "excerpt": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since AI in banking is entering the mainstream as financial institutions start incorporating AI solutions into their businesses: A majority of financial services ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/3-best-practices-for-implementing-ai-in-banking-2020-10",
-      "originalUrl": "https://www.businessinsider.com/3-best-practices-for-implementing-ai-in-banking-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5e62c54afee23d19745f9109?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-02T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-02-mit-report-how-ai-changes-the-world.md",
       "title": "MIT Report How AI changes the world",
       "excerpt": "Building Workforce Skills for AI As the world becomes more digital, artificial intelligence (AI) is increasingly critical to the way we do business. Leaders are no longer deciding",
@@ -827,7 +777,7 @@
       "originalUrl": "https://venturebeat.com/2020/10/02/facebooks-ai-matches-people-in-need-with-those-willing-to-assist/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -1204,6 +1154,57 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-anticipating-heart-failure-with-machine-learning.md",
+      "title": "Anticipating heart failure with machine learning",
+      "excerpt": "A new algorithm developed at MIT CSAIL aims to distinguish between different pulmonary edema severity levels automatically by looking at a single X-ray image.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2020/anticipating-heart-failure-machine-learning-1001",
+      "originalUrl": "https://news.mit.edu/2020/anticipating-heart-failure-machine-learning-1001",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202009/Pulmonary-Edema-xray.png",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-01T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

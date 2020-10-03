@@ -28,16 +28,16 @@ related:
   - title: "How to avoid disasters like Amazon’s Rekognition"
     excerpt: "One way to avoid disastrous AI systems in the wild might be to build responsible operation into the programs from the start, professor Sergey Levine of U.C. Berkeley told ZDNet. He has a plan to do that."
     publishedDateTime: 2020-10-01T16:15:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/video/how-to-avoid-disasters-like-amazons-rekognition/"
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/video/how-to-avoid-disasters-like-amazons-rekognition/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
     quality: 71
     images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2020/10/01/5c32dd88-72fe-4f31-8628-3f86d7a78d8e/thumbnail/370x278/58b9f96baf74fb0d2e3eefb4b3427f0a/thumb.jpg"
-        width: 370
-        height: 278
+      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2020/10/01/12df13b7-db78-4236-b526-0836a495301d/thumbnail/770x578/e48e8f2ba67ef4f816f263bed808b4ef/20200923-tiernan-karen-ai.jpg"
+        width: 770
+        height: 578
         isCached: true
 
 secured: "cpLuhissYPMHATv5llgCmm1zsWG84hT2Ydue6Ll3I4qw+94rI3lBhr9A2S5+mJKcJmf27YkBpjfVnqQlrb88n7la7zxnZj68zEgYCUkYw5M+NvNMvWLVGIzckb1L16uLn5+7vy0PncrA/BhSH9cp1ZAxSOCxmE5XG4JdVkm18mz+18hQ9c8+1+H2kZFvCffglAqM8o3w3+jicY7wFP2+Cwb/OCtNlyzHqPDXoWdRZIdQHd9mZc8SsjM4bLTyJO7n6wBXMWCwf6hC0E3tkvWiDpg7MndkgQZJ2BheskBzAnaQYkkr6NXpvX5DYVvzokOkoCoO/D3GeMUYWJuBlGzu7UvpD4g4SdXHXcLF/2EbsiOeYQ48IrQQcyiOZFq15fVar6bC7axWcfJIT5TajNz1pxH2uXQMTTj0kq9Bj1ksrapDHgON5CWOwO6jHr8tmFD+MEnoHLgDdOtlw3a9+JgX5aMa+0npm88gBYFbJBtq75e9nniGxMgi4u+1Y5Iev6wK8LqvN5+q8w3CnCxzW/rJbw==;ZvGFt1gN/M2/XaQsH+7LEg=="

@@ -385,48 +385,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-29-hot-ai-chips-to-look-forward-to-in-2021.md",
-      "title": "Hot AI Chips To Look Forward To In 2021",
-      "excerpt": "Qualcomm has announced their Cloud AI 100 accelerator, and with their experience in developing communications and smartphone technologies",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/latest-ai-chips-accelerators-2021/",
-      "originalUrl": "https://analyticsindiamag.com/latest-ai-chips-accelerators-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2020/09/ml-accl-compressed.jpg",
-          "width": 1601,
-          "height": 1201,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-28T23:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-29-synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020.md",
       "title": "Synopsys to Host Panel on AI for Chip Design at AI Hardware Summit 2020",
       "excerpt": "MOUNTAIN VIEW, Calif., Sept. 28, 2020 /PRNewswire via COMTEX/ -- MOUNTAIN VIEW, Calif., Sept. 28, 2020 /PRNewswire/ --Synopsys, Inc. (Nasdaq: SNPS)",
@@ -1434,6 +1392,59 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-16-qualcomm-details-cloud-ai-100-chipset-announces-developer-kit.md",
+      "title": "Qualcomm details Cloud AI 100 chipset, announces developer kit",
+      "excerpt": "Qualcomm shared details about the Cloud AI 100 chipset it announced last year, along with the Cloud Edge AI Development Kit.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/16/qualcomm-details-cloud-ai-100-chipset-announces-developer-kit/",
+      "originalUrl": "https://venturebeat.com/2020/09/16/qualcomm-details-cloud-ai-100-chipset-announces-developer-kit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/ca4da21f-6d64-4878-8771-b3b8098ebd4e-e1600064374641.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/16/qualcomm-details-cloud-ai-100-chipset-announces-developer-kit/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/16/qualcomm-details-cloud-ai-100-chipset-announces-developer-kit/amp/",
+      "publishedDateTime": "2020-09-16T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Natural Language Processing",
+        "Google AI"
       ]
     }
   ],

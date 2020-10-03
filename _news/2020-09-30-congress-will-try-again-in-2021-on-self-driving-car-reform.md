@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/congress-will-try-again-in-2021-on-s
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/congress-will-try-again-in-2021-on-self-driving-car-reform-2020-9?amp"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/53023/content/Tesla_Model_S.jpg"
         width: 708
         height: 386
-        isCached: true
-  - title: "Self-Driving Cars Move on Down the Road"
-    excerpt: "Some of the touted advantages of self-driving vehicles include reduced accidents, reduced traffic congestion, reduced CO2 emissions, increased lane capacity, lower fuel consumption, transportation accessibility,"
-    publishedDateTime: 2020-09-28T16:03:00Z
-    webUrl: "https://www.evaluationengineering.com/applications/article/21154596/selfdriving-cars-move-on-down-the-road"
-    type: article
-    provider:
-      name: evaluationengineering
-      domain: evaluationengineering.com
-    quality: 24
-    images:
-      - url: "https://img.evaluationengineering.com/files/base/ebm/ee/image/2020/09/GettyImages_872673304.5f67b891d794d.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 744
         isCached: true
 
 secured: "pBGdDoYMh0gxDO7xK1pjSNQoKvQxY5FR8m6pySBEqhUAdO10Ox55gCT2GJZslGlhAXrxkHG8IrX64tOJEFq0hc5Nk4liiTE6+dB9Xrq31qZc9/JV2WCkztzdngL6wziNQnd9UNrOxg3Y7uhlK29aW9tHavPLsfHw65/jh3PHQ1ZYOZ3Nf1aWzVDFvM2fQH8LAg2lV+3hx8ksAdfpawRWN0YgjUsxynFpvmQFlYzED1HCVpRV2eu6RWz3u+qCrlkYcE+uPeRwdqd8+cZJuERLOa59+SppdbtcLTrogX/6L89F/YtgACfqb505FEQTSwRbP7UQ5xVbwx+3FVGIwlv7LMCOYT+Kcf9u3LW549el6w8=;Nj3zL4IiCwIkc8XpTHVIwg=="

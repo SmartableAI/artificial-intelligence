@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "New Facebook software creates smarter natural language processing models"
-    excerpt: "Facebook Inc. has designed a new artificial intelligence framework it says can create more intelligent natural language processing models that generate accurate answers to questions without being constantly retrained."
-    publishedDateTime: 2020-09-28T15:18:00Z
-    webUrl: "https://siliconangle.com/2020/09/28/new-facebook-software-creates-smarter-natural-language-processing-models/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 40
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/770.jpg"
-        width: 6000
-        height: 4500
-        isCached: true
   - title: "Facebook’s new ’embodied A.I’ project aims to build a new breed of robots"
     excerpt: "Facebook wants to build an army of robot assistants that can wait on us in all kinds of new ways. Well, kind of."
     publishedDateTime: 2020-09-28T23:19:00Z

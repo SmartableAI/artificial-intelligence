@@ -166,7 +166,7 @@
       "originalUrl": "https://www.businessinsider.com/congress-will-try-again-in-2021-on-self-driving-car-reform-2020-9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": null,
       "type": "article",
@@ -238,6 +238,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-startup-circle-how-is-superproai-an-ai-driven-knowledge-hub.md",
+      "title": "Startup Circle: How is Superpro.ai an AI-driven knowledge hub?",
+      "excerpt": "A life-long learner, he has filed more than 30 patents in Europe and the US around Artificial Intelligence and has raised multi-million dollar investments. Excerpts of the interview: Superpro.ai ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ciol.com/startup-circle-superpro-ai-ai-driven-knowledge-hub/",
+      "originalUrl": "https://www.ciol.com/startup-circle-superpro-ai-ai-driven-knowledge-hub/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ciol.com/wp-content/uploads/2020/09/superpro.jpg",
+          "width": 850,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.ciol.com/startup-circle-superpro-ai-ai-driven-knowledge-hub/amp/",
+      "cdnAmpWebUrl": "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/startup-circle-superpro-ai-ai-driven-knowledge-hub/amp/",
+      "publishedDateTime": "2020-09-29T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOL",
+        "domain": "ciol.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -820,36 +862,27 @@
     },
     {
       "path": "_news/2020-09-23-israels-mobileye-dubais-habtoor-partner-on-self-driving-cars.md",
-      "title": "Israel's Mobileye, Dubai's Habtoor partner on self-driving cars",
-      "excerpt": "JERUSALEM/DUBAI (Reuters) - Israel’s Mobileye and United Arab Emirate’s Al Habtoor Group launched a partnership on Wednesday to create a fleet of self-driving “robotaxis” that could take ...",
+      "title": "Israel's Mobileye, Dubai's Habtoor Partner on Self-Driving Cars",
+      "excerpt": "Israel's Mobileye and United Arab Emirate's Al Habtoor Group launched a partnership on Wednesday to create a fleet of self-driving \"robotaxis\" that could take to the streets of Dubai by the end of 2022.",
       "sourceUrl": null,
-      "webUrl": "https://uk.reuters.com/article/israel-gulf-intel-habtoor/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars-idUKL5N2GK1RU",
-      "originalUrl": "https://uk.reuters.com/article/israel-gulf-intel-habtoor/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars-idUKL5N2GK1RU",
+      "webUrl": "https://www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200923&t=2&i=1534603400&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8M19L",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "type": "article",
-      "ampWebUrl": "https://uk.mobile.reuters.com/article/amp/idUKKCN26E207",
-      "cdnAmpWebUrl": "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKCN26E207",
-      "publishedDateTime": "2020-09-23T05:07:00-07:00",
+      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars?context=amp",
+      "publishedDateTime": "2020-09-23T05:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1339,57 +1372,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-chinas-baidu-wants-to-be-an-autonomous-vehicle-powerhouse.md",
-      "title": "China’s Baidu Wants To Be An Autonomous Vehicle Powerhouse",
-      "excerpt": "as a Google imitator, is now going toe-to-toe with Google subsidiary Waymo, as well as Samsung ... and doing “deep learning” for artificial intelligence machines out of their California ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kenrapoza/2020/09/17/chinas-baidu-wants-to-be-an-autonomous-vehicle-powerhouse/",
-      "originalUrl": "https://www.forbes.com/sites/kenrapoza/2020/09/17/chinas-baidu-wants-to-be-an-autonomous-vehicle-powerhouse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f628020062c802e3d14ad8f%2F0x0.jpg",
-          "width": 1200,
-          "height": 784,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/kenrapoza/2020/09/17/chinas-baidu-wants-to-be-an-autonomous-vehicle-powerhouse/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kenrapoza/2020/09/17/chinas-baidu-wants-to-be-an-autonomous-vehicle-powerhouse/amp/",
-      "publishedDateTime": "2020-09-17T05:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

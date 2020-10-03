@@ -9,7 +9,7 @@ ampWebUrl: "https://scienceblog.com/518767/machine-learning-takes-on-synthetic-b
 cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/518767/machine-learning-takes-on-synthetic-biology-algorithms-can-bioengineer-cells-for-you/amp/"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1386
     height: 924
     isCached: true
-
-related:
-  - title: "Machine learning takes on synthetic biology: algorithms can bioengineer cells for you"
-    excerpt: "Scientists have developed a new tool that adapts machine learning algorithms to the needs of synthetic biology to guide development systematically. The innovation means scientists will not have to spend years developing a meticulous understanding of each part of a cell and what it does in order to manipulate it."
-    publishedDateTime: 2020-09-28T17:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/09/200925113447.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 42
 
 secured: "Ayy62jRCk+65fFarhWA/ghTY+SFjrBdCuSoGJhc9aeWs5v106PtgV28Cv0SWWF1cXby3fhWMyvZBm7Fh3Ib0wadSSsgF5O+GyudqOxpjRctkgzroJUnYIDs4j3asMxtNWcETaks3GiuPgm1XbLcaYObtEtK3RT1YGNhZDzYwOZ55pcfdvrCa4PcOQzLXvZ+xD+vtZzZSP4RHg6zOhpY58Q+LQ/Fizs/wjT+Ix5B1OAkpOm+azgSvNrTHeEhLrJvzh1R6iGf8E08RzhPdJoGaEYB1cW9X5YbL/cBC/lA8+E4M7qZ9iVT00YrnTni1T5l8PCtR3HYs0c87NuA5PuiD6UMHhuSuKk7biFh88BkyAaKstJE+ujbM03yCI0xXxNWYGXEUd2FbWCeUL4ViQllsLMIOUvYtSNnIZc+zSkNdx7Pc3V5U/lp7TU8zEbZdfarjZJ1QASniIDZp659XZXO6z7e5BEcZqcE2Sbzw24lUfk+t6K5BAffcDLS8TWnuw4m4TbJWi2IE9x69yIGyjNk7UQ==;fjIW3tNbYFuyCCyRJ5lNIA=="
 ---

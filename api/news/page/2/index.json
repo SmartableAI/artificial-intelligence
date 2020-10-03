@@ -2,57 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-10-02-anticipating-heart-failure-with-machine-learning.md",
-      "title": "Anticipating heart failure with machine learning",
-      "excerpt": "A new algorithm developed at MIT CSAIL aims to distinguish between different pulmonary edema severity levels automatically by looking at a single X-ray image.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2020/anticipating-heart-failure-machine-learning-1001",
-      "originalUrl": "https://news.mit.edu/2020/anticipating-heart-failure-machine-learning-1001",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202009/Pulmonary-Edema-xray.png",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-01T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-02-air-street-capital-ai-industry-remains-strong-despite-academic-brain-drain-tech-nationalization.md",
       "title": "Air Street Capital: AI industry remains strong despite academic brain drain, tech nationalization",
       "excerpt": "Air Street Capital's annual State of AI report finds that despite challenges, the AI industry remains strong heading into 2020.",
@@ -202,17 +151,17 @@
       "title": "How to avoid disasters like Amazon’s Rekognition",
       "excerpt": "One way to avoid disastrous AI systems in the wild might be to build responsible operation into the programs from the start, professor Sergey Levine of U.C. Berkeley told ZDNet. He has a plan to do that.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/video/how-to-avoid-disasters-like-amazons-rekognition/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/video/how-to-avoid-disasters-like-amazons-rekognition/",
+      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/video/how-to-avoid-disasters-like-amazons-rekognition/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/video/how-to-avoid-disasters-like-amazons-rekognition/",
       "featuredContent": null,
       "highlight": null,
       "heat": 81,
       "tags": null,
       "images": [
         {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/10/01/5c32dd88-72fe-4f31-8628-3f86d7a78d8e/thumbnail/370x278/58b9f96baf74fb0d2e3eefb4b3427f0a/thumb.jpg",
-          "width": 370,
-          "height": 278,
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/10/01/12df13b7-db78-4236-b526-0836a495301d/thumbnail/770x578/e48e8f2ba67ef4f816f263bed808b4ef/20200923-tiernan-karen-ai.jpg",
+          "width": 770,
+          "height": 578,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1220,6 +1169,56 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-pixel-5-fails-to-live-up-to-googles-ai-showcase-device.md",
+      "title": "Pixel 5 fails to live up to Google’s AI showcase device",
+      "excerpt": "During its Launch Night In event, Google took the wraps off of two new midrange smartphones: the Pixel 5 and Pixel 4a (5G).",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/30/pixel-5-fails-to-live-up-to-googles-ai-showcase-device/",
+      "originalUrl": "https://venturebeat.com/2020/09/30/pixel-5-fails-to-live-up-to-googles-ai-showcase-device/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/7c13bc17-bc3c-4b4e-89e9-316e4bce3df1-e1601487811424.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/30/pixel-5-fails-to-live-up-to-googles-ai-showcase-device/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/30/pixel-5-fails-to-live-up-to-googles-ai-showcase-device/amp/",
+      "publishedDateTime": "2020-09-30T14:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

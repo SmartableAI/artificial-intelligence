@@ -7,7 +7,7 @@ originalUrl: "https://healthitanalytics.com/news/expanding-access-to-mental-heal
 webUrl: "https://healthitanalytics.com/news/expanding-access-to-mental-healthcare-with-artificial-intelligence"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "GE Healthcare heads AI in imaging project in France"
-    excerpt: "GE Healthcare (NYSE:GE) announced that it launched its AI DReAM project for facilitating artificial intelligence use in medical imaging."
-    publishedDateTime: 2020-09-30T14:01:00Z
-    webUrl: "https://www.massdevice.com/ge-healthcare-heads-ai-in-imaging-project-in-france/"
-    type: article
-    provider:
-      name: MassDevice
-      domain: massdevice.com
-    quality: 54
-    images:
-      - url: "https://www.massdevice.com/wp-content/uploads/2019/07/GE-Healthcare-logo.png"
-        width: 770
-        height: 500
-        isCached: true
   - title: "BUDDI AI Emerges from Stealth Mode to Transform the Healthcare Revenue Cycle"
     excerpt: "PRNewswire/ -- BUDDI AI ( a.k.a BUDDI Health), a leading provider of AI-powered clinical and revenue cycle automation solutions for healthcare, is proud"
     publishedDateTime: 2020-10-01T16:10:00Z
