@@ -70,17 +70,6 @@ related:
         width: 1000
         height: 618
         isCached: true
-  - title: "Ai Weiwei holds silent protest outside Julian Assange's extradition hearing"
-    excerpt: "Before attending court, the Chinese artist posted a photograph of himself and his son both wearing Free Assange t-shirts."
-    publishedDateTime: 2020-09-28T09:53:00Z
-    webUrl: "https://www.smh.com.au/world/europe/ai-weiwei-holds-silent-protest-outside-julian-assange-s-extradition-hearing-20200928-p5602q.html"
-    ampWebUrl: "https://amp.smh.com.au/world/europe/ai-weiwei-holds-silent-protest-outside-julian-assange-s-extradition-hearing-20200928-p5602q.html"
-    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/world/europe/ai-weiwei-holds-silent-protest-outside-julian-assange-s-extradition-hearing-20200928-p5602q.html"
-    type: article
-    provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 35
 
 secured: "1RNlcH+lOHz0ii5T/B2DC+C8qY2WW0e+ceSCR6QpLoMrHzCewqb0Qpqb37bk8IX9rSnmusaR2b9vkFAi2q0dPupfQSQTUkPEaL7USlPuYKu0nqDSwpMzOxGm4LagWKReYtlmBIPsIxQpxdz9eRCD9p3F7c8mHbq2juKYq+BCxFIr8b65g35QV9g880sZG7Zt/uf9MBb4z33kWRq/GCbjtufZGRmrT35yqndjUnwkClpI+0mF0jo9TKOpxBOdeTzGGx1sVDGufP64sPjPRzpbMBJyTzWr8BxghTcxg2dQiyYKG+YARlJgHtiPkIJRRVGth8LcWxusumZaB9fFoi7Q0gWwxn9bi8n0QxKUaXveTq+V+YuXU8Cq2ak/4bVr2t4D9ptyGf3ffsfdvP/3AV7gQgDYQycUx9wa/p1t7w7EfbuKxyAT5dTjRJzVPs6SsLBgIBUM/VeIATS3sx/+Dv66otK6F0c7m8HQ0ki+nmoQvsc+6gz/45CTSPR3CC8JjD5TsUAH9SWHT9uR5d2WFJaPNw==;+r2pr2/PV5sdxaENjQIXLw=="
 ---

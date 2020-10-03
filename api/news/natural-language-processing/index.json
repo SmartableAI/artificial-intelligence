@@ -198,48 +198,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-28-covid-19-aid-bill-otooles-speech-headline-parliaments-first-full-week.md",
-      "title": "COVID-19 aid bill, O'Toole's speech headline Parliament's first full week",
-      "excerpt": "Conservative Leader Erin O'Toole and the Bloc Quebecois chief Yves-Francois Blanchet are expected to take their seats in the House of Commons this week after being benched due to COVID-19.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bnnbloomberg.ca/covid-19-aid-bill-o-toole-s-speech-headline-parliament-s-first-full-week-1.1500424",
-      "originalUrl": "https://www.bnnbloomberg.ca/covid-19-aid-bill-o-toole-s-speech-headline-parliament-s-first-full-week-1.1500424",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.bnnbloomberg.ca/polopoly_fs/1.1484036!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/erin-o-toole.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bnnbloomberg.ca/covid-19-aid-bill-o-toole-s-speech-headline-parliament-s-first-full-week-1.1500424.amp.html",
-      "cdnAmpWebUrl": "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/covid-19-aid-bill-o-toole-s-speech-headline-parliament-s-first-full-week-1.1500424.amp.html",
-      "publishedDateTime": "2020-09-28T06:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bnnbloomberg",
-        "domain": "bnnbloomberg.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-28-chinese-publishers-see-ai-translation-as-the-killer-app-for-pushing-web-novels-overseas.md",
       "title": "Chinese publishers see AI translation as the killer app for pushing web novels overseas",
       "excerpt": "While artificial intelligence has so far proven to be inferior at the job compared to humans, that hasn’t deterred China’s online literature platforms from betting on algorithms to introduce Chinese web novels to English-speaking audiences.",
@@ -1415,6 +1373,57 @@
         "name": "Hackaday",
         "domain": "hackaday.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-12-toucan-raises-3m-to-teach-you-new-languages-as-you-browse-the-web.md",
+      "title": "Toucan raises $3M to teach you new languages as you browse the web",
+      "excerpt": "Toucan has developed a Chrome browser extension designed for anyone who wants to learn a new language but hasn’t found the motivation or the time. Once installed, the extension scans the text of any (English-language) website you’re visiting and will automatically translate some of the",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/11/toucan-funding/",
+      "originalUrl": "https://techcrunch.com/2020/09/11/toucan-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/ToucanTechCrunch1.jpg?w=680",
+          "width": 680,
+          "height": 452,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/11/toucan-funding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/11/toucan-funding/amp/",
+      "publishedDateTime": "2020-09-11T21:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

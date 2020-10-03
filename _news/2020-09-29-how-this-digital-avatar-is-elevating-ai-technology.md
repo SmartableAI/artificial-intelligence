@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/isisbriones/2020/09/28/how-this-digital
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/isisbriones/2020/09/28/how-this-digital-avatar-is-elevating-ai-technology/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 800
     height: 450
     isCached: true
-
-related:
-  - title: "Using artificial intelligence to elevating Thai medical standards in relation to lesion diagnosis"
-    excerpt: "Ltd. and Department of Radiology, Faculty of Medicine Siriraj Hospital, Mahidol University, to collaborate in medical AI technology for diagnostic radiography."
-    publishedDateTime: 2020-09-28T09:40:00Z
-    webUrl: "https://www.bangkokpost.com/business/1992975/using-artificial-intelligence-to-elevating-thai-medical-standards-in-relation-to-lesion-diagnosis"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 41
-    images:
-      - url: "https://static.bangkokpost.com/media/content/20200928/c1_1992975_700.jpg"
-        width: 700
-        height: 467
-        isCached: true
 
 secured: "88ZDN8jZA+ea4SUumuaTbbTp+myHUIXjL9DzmIUxhcqj6mZNLjQaxa5XZUaV/0g/LvQZMbydhjoh8bVoTuW5ar+fYsfiJlLActMJfCP3dLPWutPb6yOndOa/j7mWelwOQjMA+spbu8o3OimaOKf1fRpHiMyPTXzikwb4VH4AmdYW16N77CUTTDCRCNV6Y30raV3PWRkQvEgWGxKIdFAMdtNO4pBypRa+E9WGZmW7ctrkDXrAeZ6WtiMespCQBvQNPFMwdZfCa8Aeu/pNfkwH+AdkIOJ5cZ7rfarUcEm+kjndldCXfYxRiQfZu2N6lOcM7A7b9My+SaBGNtfMRIyk4DFggyEs8+k705oTZv7sUz5xAggl73kyU4fAdtTLrasopJ2K5We02QR+Ee8RJmKweNiOEV44Zhy7Fm5SXa8aKV5DPPZjxUbl534ZeYloIxR+m3jMAtRWBYkHR2FrhaslOaIoeVsPt6ZndwTPp9wUp1vc9qcUdgDtLP3SsCE3WYFoamA345Nz4KlrYWB6VXasdw==;NSO1TOtTjv4Gfe9eL5xm+A=="
 ---

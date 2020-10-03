@@ -43,22 +43,6 @@ related:
         width: 345
         height: 230
         isCached: true
-  - title: "IPL 2020: Rahul Tewatia asked for recognition last season, earned it this year"
-    excerpt: "In a debriefing video of the 2019 season that has gone viral following his match-winning six-hitting spree on Sunday, Tewatia, who played for Delhi Ca"
-    publishedDateTime: 2020-09-28T09:48:00Z
-    webUrl: "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2020-rahul-tewatia-asked-for-recognition-last-season-earned-it-this-year/articleshow/78362599.cms"
-    ampWebUrl: "https://m.timesofindia.com/sports/cricket/ipl/top-stories/ipl-2020-rahul-tewatia-asked-for-recognition-last-season-earned-it-this-year/amp_articleshow/78362599.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/sports/cricket/ipl/top-stories/ipl-2020-rahul-tewatia-asked-for-recognition-last-season-earned-it-this-year/amp_articleshow/78362599.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 40
-    images:
-      - url: "https://static.toiimg.com/photo/msid-78362739/78362739.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "6rlAGq5hzpZS24KR3pceraz+3tovTrBQf+aOxKuRvSYkKwnxMPE2rQEvT+lG7PCNJ4fgoUaINq8IFNs/N/+2O1HxV79tbDShwgPkPvWENNYqfJFB9BMdl6IgSARYyvi+qvCymjZL5gssYKnGVPVXW9FHUPYINc4R5tQ+HfQbsnQRqjUHFRb282wtsB/a25OjTaUbo5xVYA5eizh4N4Ph0lwJG82oqK5WAeVkyKHevzLz0W3JXRkCMJhy8iZVktCT8Wv6o4zBaSIISOIlKFVgT9fJH41HWkwwU7XTDaI+zIW8rJ9pyZRJKlWr0H0PjD4c38nFVpt1cHaG94+zN2UfBS5iRmhqXQy7JqGakB5gYhc=;Z6NvFq+HV+RuKnPBQDolMA=="
 ---

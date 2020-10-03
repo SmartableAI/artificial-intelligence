@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "IPL 2020: Rahul Tewatia asked for recognition last season, earned it this year"
-    excerpt: "In a debriefing video of the 2019 season that has gone viral following his match-winning six-hitting spree on Sunday, Tewatia, who played for Delhi Ca"
-    publishedDateTime: 2020-09-28T09:48:00Z
-    webUrl: "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2020-rahul-tewatia-asked-for-recognition-last-season-earned-it-this-year/articleshow/78362599.cms"
-    ampWebUrl: "https://m.timesofindia.com/sports/cricket/ipl/top-stories/ipl-2020-rahul-tewatia-asked-for-recognition-last-season-earned-it-this-year/amp_articleshow/78362599.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/sports/cricket/ipl/top-stories/ipl-2020-rahul-tewatia-asked-for-recognition-last-season-earned-it-this-year/amp_articleshow/78362599.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 40
-    images:
-      - url: "https://static.toiimg.com/photo/msid-78362739/78362739.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Rahul Tewatia asked for recognition last IPL season, earns his moment in the sun this year"
     excerpt: "After five seasons in the wilderness, the 27-year-old did something on Sunday night that ensured that he won't have to ask for recognition anymore."
     publishedDateTime: 2020-09-29T02:26:00Z

@@ -127,20 +127,6 @@ related:
         width: 412
         height: 680
         isCached: true
-  - title: "Society 5.0 needs Digital Asset Fintech Hubs"
-    excerpt: "Japan’s “Society 5.0” refers to the fifth stride in human civilization evolution to create a “super-smart” future society which leverages the technological innovations of the current fourth industrial revolution (4IR) to achieve economic advancement and embed these in society to solve people’s problems so that they can live better lives."
-    publishedDateTime: 2020-09-28T09:05:00Z
-    webUrl: "https://www.finextra.com/blogposting/19365/society-50-needs-digital-asset-fintech-hubs"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/visible_pictures/6983cedd-fb46-4d6a-a131-3b2223f3f858.PNG"
-        width: 500
-        height: 232
-        isCached: true
   - title: "3 Fintech Opportunities For Entrepreneurs Beyond 2020"
     excerpt: "The financial service sector has not been an exception. Banks have closed, at least temporarily, and many other services that users have come to rely on have had hiccups or slowdowns of varying degrees."
     publishedDateTime: 2020-09-30T12:15:00Z

@@ -41,22 +41,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "COVID-19 aid bill, Tory leader O'Toole's speech headline Parliament's first full week"
-    excerpt: "Conservative Leader Erin O'Toole and the Bloc Quebecois chief Yves-Francois Blanchet are expected to take their seats in the House of Commons this week after being benched due to COVID-19."
-    publishedDateTime: 2020-09-28T09:06:00Z
-    webUrl: "https://www.ctvnews.ca/politics/covid-19-aid-bill-tory-leader-o-toole-s-speech-headline-parliament-s-first-full-week-1.5122704"
-    ampWebUrl: "https://beta.ctvnews.ca/national/politics/2020/9/28/1_5122704.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/politics/2020/9/28/1_5122704.html"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 52
-    images:
-      - url: "https://beta.ctvnews.ca/national/politics/2020/9/28/1_5122704/_jcr_content/root/responsivegrid/image.coreimg.jpg"
-        width: 1280
-        height: 927
-        isCached: true
 
 secured: "2goaiHgDJ0f/pzdmfG4M4SfIt28X7n0WUlZ0v0Wq+3lewS34gwRHTKKP7IbqoaZv/aqks5U8v4ki2YP/4VwvogJiX+7rGu0xNBXQDUWFTty3IPR8hKRFXSZahK3ZgYVrwvLE5sMF3j61bH1EamS4S/6Pk/glvS4qaENeCe9q4vT8nm7X2F8b5p9yrs2xvyYmkE/mhXF56UTlPqCpzJk9E5Uvm9q9029eNlrRRW0NztUMvxFBg8hA/DODRcGdyAdalXeSthaLsCRHzDt1S8CvzVHGsiaeNjvqM41fEFDzQsHj6n1kyMk+K823mBanIq+Vgnh8ne+j0z5+cgBf6ZOHUE6nP8oXKIhhJm5Y1hoXFWY=;zec6Cr9mS3VZ0jMK1TK75Q=="
 ---

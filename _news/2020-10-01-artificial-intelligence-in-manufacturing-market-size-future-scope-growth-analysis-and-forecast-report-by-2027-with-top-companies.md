@@ -32,20 +32,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Chipset Market Share 2020 Global Growth, Trends, Industry Analysis, Key Players and Forecast to 2023"
-    excerpt: "Global Artificial Intelligence (AI) Chipset Market (2020-2023) Industry Research Report is a comprehensive analysis containing key information on key players, market trends, price analysis and market overview for the forecast period."
-    publishedDateTime: 2020-09-28T09:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-share-2020-global-growth-trends-industry-analysis-key-players-and-forecast-to-2023-2020-09-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI in Computer Vision Market 2020 Latest Advancements and Growth Analysis- Intel, Qualcomm, General Electric, Apple"
     excerpt: "Global AI in Computer Vision Market was valued at USD 3.32 Billion in 2018 and is projected to reach USD 68.11 Billion by 2026, growing at a CAGR of 45.64 % from 2019 to 2026.  Top leading Companies in Global AI in Computer Vision Market are Wikitude,"
     publishedDateTime: 2020-09-30T11:20:00Z

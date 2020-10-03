@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chron.com/news/amp/Dissident-Ai-Weiwei-protests-possible
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Dissident-Ai-Weiwei-protests-possible-extradition-15602451.php"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -70,17 +70,6 @@ related:
         width: 1000
         height: 618
         isCached: true
-  - title: "Ai Weiwei holds silent protest outside Julian Assange's extradition hearing"
-    excerpt: "Before attending court, the Chinese artist posted a photograph of himself and his son both wearing Free Assange t-shirts."
-    publishedDateTime: 2020-09-28T09:53:00Z
-    webUrl: "https://www.smh.com.au/world/europe/ai-weiwei-holds-silent-protest-outside-julian-assange-s-extradition-hearing-20200928-p5602q.html"
-    ampWebUrl: "https://amp.smh.com.au/world/europe/ai-weiwei-holds-silent-protest-outside-julian-assange-s-extradition-hearing-20200928-p5602q.html"
-    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/world/europe/ai-weiwei-holds-silent-protest-outside-julian-assange-s-extradition-hearing-20200928-p5602q.html"
-    type: article
-    provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 35
 
 secured: "jxn7nKgtA4Lneg9+FTQkb+9t7fb7zUvmurRhWTCVwQA1kanSPpByEEdctI/ha+Wjc3zCjAwSIQSylLYte0bhm0JiTVR4W/5OC/SGE5n3baGwdAJrbiWflLuHXuWK1KGx+NZlBBvsMVhSToOVQ+6MV4wJ7Ow0YI2m2bhfipdr9Rg1+9xw+Z+Dxp6BZf33wLEjtpjbAufPEY2LS+ukAEAWrgzpRkHyjnEFz9+M7DJ3F3ecf+VR04UprRCr7MfEjcHbp063QI9okDs1rfosrRMxDM2e2+ulzH41RRFcPkoceUzR8isVvETwcIz8ncR84fd3wMnI5hLDfmEo6DYiuTk3PrjI6hUbbZUguWga/sJDyYIOJaLpknarbYC27U/LdUor4F/YZZn6Ldl0kUgW0pG4Sm4/ChK2852MdlGcRdtmUCZsjL6Uhp7Qkq1mvyYv5FZFfGvtvd6udJtDdilYw2IHENUYJCvKajX3S48uOwwxxADT6Xun5NhQ/qM9whkerux7haFVwuWb6YP8QzyBpxSEWA==;IjWcFE4K/TBwQlrKYYbFGw=="
 ---

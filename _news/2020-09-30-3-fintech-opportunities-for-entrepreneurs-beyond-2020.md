@@ -137,20 +137,6 @@ related:
         width: 412
         height: 680
         isCached: true
-  - title: "Society 5.0 needs Digital Asset Fintech Hubs"
-    excerpt: "Japan’s “Society 5.0” refers to the fifth stride in human civilization evolution to create a “super-smart” future society which leverages the technological innovations of the current fourth industrial revolution (4IR) to achieve economic advancement and embed these in society to solve people’s problems so that they can live better lives."
-    publishedDateTime: 2020-09-28T09:05:00Z
-    webUrl: "https://www.finextra.com/blogposting/19365/society-50-needs-digital-asset-fintech-hubs"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/visible_pictures/6983cedd-fb46-4d6a-a131-3b2223f3f858.PNG"
-        width: 500
-        height: 232
-        isCached: true
   - title: "Onfido teams up with FinTech Oval Money to boost digital customer verification"
     excerpt: "Onfido announced a new partnership with FinTech Oval Money in a bid to accelerate and enhance the latter's digital customer verification and registration process."
     publishedDateTime: 2020-09-30T10:20:00Z
