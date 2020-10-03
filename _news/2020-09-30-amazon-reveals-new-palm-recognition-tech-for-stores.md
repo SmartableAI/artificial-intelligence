@@ -81,6 +81,20 @@ related:
         width: 759
         height: 630
         isCached: true
+  - title: "High five for Amazon, as retailer expands palm-recognition tech"
+    excerpt: "Amazon has introduced palm-recognition technology to two Seattle stores and is hoping to encourage broader use in non-Amazon locations, such as sports stadia and offices."
+    publishedDateTime: 2020-09-29T16:00:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2020/09/high-five-for-amazon-as-retailer-expands-palm-recognition-tech/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 39
+    images:
+      - url: "https://eandt.theiet.org/media/13972/sharon-mccutcheon-vlppehtlh08-unsplash.jpg?crop=0.0000000000000013895057943753,0.30041666666666711,0,0.20739583333333223&cropmode=percentage&width=1200&height=450&rnd=132458663570000000"
+        width: 1200
+        height: 450
+        isCached: true
 
 secured: "cpLuhissYPMHATv5llgCmm1zsWG84hT2Ydue6Ll3I4qw+94rI3lBhr9A2S5+mJKcJmf27YkBpjfVnqQlrb88n7la7zxnZj68zEgYCUkYw5M+NvNMvWLVGIzckb1L16uLn5+7vy0PncrA/BhSH9cp1ZAxSOCxmE5XG4JdVkm18mz+18hQ9c8+1+H2kZFvCffglAqM8o3w3+jicY7wFP2+Cwb/OCtNlyzHqPDXoWdRZIdQHd9mZc8SsjM4bLTyJO7n6wBXMWCwf6hC0E3tkvWiDpg7MndkgQZJ2BheskBzAnaQYkkr6NXpvX5DYVvzokOkoCoO/D3GeMUYWJuBlGzu7UvpD4g4SdXHXcLF/2EbsiOeYQ48IrQQcyiOZFq15fVar6bC7axWcfJIT5TajNz1pxH2uXQMTTj0kq9Bj1ksrapDHgON5CWOwO6jHr8tmFD+MEnoHLgDdOtlw3a9+JgX5aMa+0npm88gBYFbJBtq75e9nniGxMgi4u+1Y5Iev6wK8LqvN5+q8w3CnCxzW/rJbw==;ZvGFt1gN/M2/XaQsH+7LEg=="
 ---

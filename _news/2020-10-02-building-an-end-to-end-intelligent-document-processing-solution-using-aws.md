@@ -71,6 +71,20 @@ related:
         width: 759
         height: 630
         isCached: true
+  - title: "High five for Amazon, as retailer expands palm-recognition tech"
+    excerpt: "Amazon has introduced palm-recognition technology to two Seattle stores and is hoping to encourage broader use in non-Amazon locations, such as sports stadia and offices."
+    publishedDateTime: 2020-09-29T16:00:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2020/09/high-five-for-amazon-as-retailer-expands-palm-recognition-tech/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 39
+    images:
+      - url: "https://eandt.theiet.org/media/13972/sharon-mccutcheon-vlppehtlh08-unsplash.jpg?crop=0.0000000000000013895057943753,0.30041666666666711,0,0.20739583333333223&cropmode=percentage&width=1200&height=450&rnd=132458663570000000"
+        width: 1200
+        height: 450
+        isCached: true
   - title: "Amazon Reveals New Palm Recognition Tech for Stores"
     excerpt: "It’s a strange question born out of an even stranger premise from the e-tailer, which hopes to seed its new palm recognition technology at physical retail stores. On Tuesday, Amazon unveiled Amazon One,"
     publishedDateTime: 2020-09-29T21:03:00Z

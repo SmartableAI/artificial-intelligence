@@ -45,6 +45,15 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 34
+  - title: "AWS Announces General Availability of Amazon Timestream"
+    excerpt: "including services like AWS IoT Core (for IoT data collection), Amazon Kinesis and Amazon MSK (for streaming data), Amazon QuickSight (for serverless Business Intelligence), and Amazon SageMaker ..."
+    publishedDateTime: 2020-10-01T17:29:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20200930006011/aws-announces-general-availability-of-amazon-timestream"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 34
 
 secured: "sOOwsV3GIWv0ZkEC+Po2OU29nVbQYAp3yzqYkAW9GmLFbMj/WubmCqPHZ50/zsyLqxqGo7gy7jA7dVipw7j5ZNQIACgH5JarpqxTwaA5OndaClOWXXB8SkTHT/s/olgqlB2DtFGuHQC5IhmWwbRmGYZD6BRnU02sTmCPkX6CC0RV+GyDQ5QpHgg6qTlU9UfIKAi7TefJ2gKGwF0QgrUndrNgPMoEFCdws9QL/rblsaEh+fwNvOvIl5rakFbiRszZOyBfvBGRDhlUuwFSjB2OULv3ni65TzPl9xN0pggm6DTLiMHXVTCX+a0znnygi094zG711RfLTywnSz9Qwwx2pRKqlH4IIO1c8iCVnw1PnOMDZ56BQvhOb+NiMEyy76xgUkMJy3R352XRw3n6zeT8pnmxpI4/0cihHWnAuA5JXabKDCaZNln7TWete9OB013mWqIhE7EAW/3PD4rbrN+/Nebk9MzJUBp4QlTH2IAtMqLDJ+7dWcTh49Y+ino3JxyKKXvvBcDEJ80vSlEw03n88w==;BrubJYrrOqbS6lQZr1WcHg=="
 ---

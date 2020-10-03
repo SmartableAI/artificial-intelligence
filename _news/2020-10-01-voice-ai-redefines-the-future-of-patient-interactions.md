@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "The promise of voice AI lies at work, not at home"
-    excerpt: "The next frontier for voice AI lies beyond your doorstep. From education to workforce automation to retail, the scope for new applications is opening up."
-    publishedDateTime: 2020-09-29T12:08:00Z
-    webUrl: "https://thenextweb.com/neural/2020/09/29/the-promise-of-voice-ai-lies-at-work-not-at-home/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/09/29/the-promise-of-voice-ai-lies-at-work-not-at-home/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/29/the-promise-of-voice-ai-lies-at-work-not-at-home/amp/"
+  - title: "Three best practices for how banks can get the most out of investments in AI innovations"
+    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since AI in banking is entering the mainstream as financial institutions start incorporating AI solutions into their businesses: A majority of financial services ..."
+    publishedDateTime: 2020-10-02T13:48:00Z
+    webUrl: "https://www.businessinsider.com/3-best-practices-for-implementing-ai-in-banking-2020-10"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 158
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Voice-AI-hed-796x419.png"
-        width: 796
-        height: 419
+      - url: "https://i.insider.com/5e62c54afee23d19745f9109?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Voice AI Redefines The Future Of Patient Interactions"
     excerpt: "In the past decade, the fundamental structure of healthcare management has changed radically. The industry has become more consumer-driven with a focus on providing personalized patient care. On the other hand,"

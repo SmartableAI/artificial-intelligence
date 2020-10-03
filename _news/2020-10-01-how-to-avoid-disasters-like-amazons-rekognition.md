@@ -72,6 +72,20 @@ related:
         width: 759
         height: 630
         isCached: true
+  - title: "High five for Amazon, as retailer expands palm-recognition tech"
+    excerpt: "Amazon has introduced palm-recognition technology to two Seattle stores and is hoping to encourage broader use in non-Amazon locations, such as sports stadia and offices."
+    publishedDateTime: 2020-09-29T16:00:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2020/09/high-five-for-amazon-as-retailer-expands-palm-recognition-tech/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 39
+    images:
+      - url: "https://eandt.theiet.org/media/13972/sharon-mccutcheon-vlppehtlh08-unsplash.jpg?crop=0.0000000000000013895057943753,0.30041666666666711,0,0.20739583333333223&cropmode=percentage&width=1200&height=450&rnd=132458663570000000"
+        width: 1200
+        height: 450
+        isCached: true
   - title: "Amazon Reveals New Palm Recognition Tech for Stores"
     excerpt: "It’s a strange question born out of an even stranger premise from the e-tailer, which hopes to seed its new palm recognition technology at physical retail stores. On Tuesday, Amazon unveiled Amazon One,"
     publishedDateTime: 2020-09-29T21:03:00Z
@@ -87,6 +101,6 @@ related:
         height: 263
         isCached: true
 
-secured: "qKxkz3b6SNB935KbA4KAd1N+mr70708854CBAPKZ6YHFKWpG+E9C5K/04sxPn6yLZJD4tq4dC5LitP8VuHI4GY7fOM/JWcaV/IUZtOkOiAoQbEZDYAV2RR61L61gOf0TWcnqSi9f/+WdN/DlTcsa2D+B/ZFcWF/WqWJ4XTS4kY5+SuFa2vziDbU7SeXGTgh6p7swO8epUgOm5ylot1Sxe0jRlOdake+sdP4OjC2dC4IFcaG6LmgNuDuudrpr4R7OXrcQ/SV3as8GoxcCpAcnYSk5Bz7unktJy73iMbBNqm4oyVJeJMGkC17wOyHvpF7bFFS+JyeAo3mJa/hTdXL8CVCWh9qU0RtsrrIzf1JMGRY=;yH3YbsqxTS7BKimoMML5Sw=="
+secured: "nfLXSI5A1DqeWyYwJFSMU19c2k1pa2VcjNZXbzdOJhdTWZ93qPvhylZ6m9juTZu5302ucF+PoJ27I2k76nIVd1DajyAx0w7skkIm4E4CN5R6itLHFdGa6/JdZNOR44iNB9oowvUI5nxMz9jcOjYzetEe3H+cOwtQ/IXBBooskkfiiqVqE941TNKo9Bfu9oAqXcdeYZD8GwpJkBmnWLoaLvWRgucwqwmiZIcWs1C+wD/hEv95N8fqYCGCFJeXaLpzQnQHW1Wvt4HZZM8+MwEekb7vDRaIZtyiMz8hKu0Ep/+rVWxn12qu+Bug0dQ6g0Vb5B/J7hA1FP0BCPtlRdUhLyDAHG88vk0QwoxtjH5CkZg=;O8sHf1Dx4Y8l625fFhFDAw=="
 ---
 

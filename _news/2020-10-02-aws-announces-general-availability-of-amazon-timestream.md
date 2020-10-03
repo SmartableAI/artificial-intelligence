@@ -1,18 +1,18 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Timestream"
-excerpt: "Stockhouse.com use cookies on this site. By continuing to use our service, you agree to our use of cookies. Cookies are used to offer you a better browsing experience and to analyze our traffic. We also use them to share usage information with our"
-publishedDateTime: 2020-09-30T23:43:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2020/09/30/aws-announces-general-availability-of-amazon-timestream"
-webUrl: "https://stockhouse.com/news/press-releases/2020/09/30/aws-announces-general-availability-of-amazon-timestream"
+excerpt: "including services like AWS IoT Core (for IoT data collection), Amazon Kinesis and Amazon MSK (for streaming data), Amazon QuickSight (for serverless Business Intelligence), and Amazon SageMaker ..."
+publishedDateTime: 2020-10-01T17:29:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20200930006011/aws-announces-general-availability-of-amazon-timestream"
+webUrl: "https://www.morningstar.com/news/business-wire/20200930006011/aws-announces-general-availability-of-amazon-timestream"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - AWS AI
@@ -31,13 +31,13 @@ related:
       domain: zdnet.com
     quality: 69
   - title: "AWS Announces General Availability of Amazon Timestream"
-    excerpt: "including services like AWS IoT Core (for IoT data collection), Amazon Kinesis and Amazon MSK (for streaming data), Amazon QuickSight (for serverless Business Intelligence), and Amazon SageMaker ..."
-    publishedDateTime: 2020-10-01T17:29:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20200930006011/aws-announces-general-availability-of-amazon-timestream"
+    excerpt: "Stockhouse.com use cookies on this site. By continuing to use our service, you agree to our use of cookies. Cookies are used to offer you a better browsing experience and to analyze our traffic. We also use them to share usage information with our"
+    publishedDateTime: 2020-09-30T23:43:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2020/09/30/aws-announces-general-availability-of-amazon-timestream"
     type: article
     provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
+      name: Stockhouse
+      domain: stockhouse.com
     quality: 34
   - title: "AWS launches Amazon Timestream, a serverless time series database for IoT and operational applications"
     excerpt: "AWS announced the general availability of Amazon Timestream, a new time series database for IoT and operational applications."
@@ -54,6 +54,6 @@ related:
         height: 511
         isCached: true
 
-secured: "00C8V3pp1e/P4INlfL9+6KTAlLT5X1rme/DH2bTRM4S2Gj3iwVWKQECI+et2kCCuMoSG4ZidtjXOtFegWoSepp01NXFsNFQSqOkdCClvi880Xu4NAyl80VFf3ttHBhKu9hrT10iXnmg0wfII7Ky9nhlEfspXiasvMaaEig+8+6guOHyK7PlaKsxuKXlfoNkX5k2ajhHqnQBm/2BpwvjNBhi95hBihAXiQ4mD+j1RihSI9NDgKBl/7H3GloJCdAWKN7I9U+yJmY9MdYBRP+Wog6ftt0QvWGxXVJ5TeB6IhS4rgZctqfv2g238RLaXj8WfGXHh7ZISIzkcXQbzTA8b7pBdKa+prIOqTqB1xHPv+uU=;9cpdeWDU6kuc9gCK6lOGNQ=="
+secured: "tBNSFS2W2rKXFZx8WHdNMJvTPjuRP8hd7lv3MLquuc+s8kWKQU0j9LE3Ya0+yS01BsTyL/w0jYe6kKLlU3Fwbd9/yIKmZkV9RmAG/eMGRF02RHZr4mdNZrfAfhzMAsCXYG2jazQ5jBYt9dH6R8dP/dxZwii5InvIAbkj3NtcsIM6Ok/Rt8C4mhc5vOpGAdZl16rzvBikXEhQ2kQHwzPbkNmpvPeisTPzAup9R8WN4i/cXhsngIR46YcJf/cmSzrWw9fULAmM0fzlANp66dCAcEK9uPK9K89MKxZeMwvKpXph5rs3pNZ33LxGYUtaj+8nivjf0njDn44RtFKuUVYpjX9FvoICgaU5zib1Isj50YU=;KO26zaThrzIj/ofo1aUaoA=="
 ---
 

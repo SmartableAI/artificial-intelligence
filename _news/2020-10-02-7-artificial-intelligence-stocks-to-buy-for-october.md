@@ -1,31 +1,27 @@
 ---
 category: news
 title: "7 Artificial Intelligence Stocks to Buy for October"
-excerpt: "Here are the companies that are using machines to help us, from inventory management to finding that special someone."
-publishedDateTime: 2020-10-02T13:52:00Z
-originalUrl: "https://investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/"
-webUrl: "https://investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/"
-ampWebUrl: "https://investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/amp/"
-cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/amp/"
+excerpt: "Stock Market News, Stock Advice & Trading Tips With so much death and economic destruction wrought by the novel coronavirus,"
+publishedDateTime: 2020-10-02T14:37:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/7-artificial-intelligence-stocks-to-buy-october-1029644435"
+webUrl: "https://markets.businessinsider.com/news/stocks/7-artificial-intelligence-stocks-to-buy-october-1029644435"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/7-artificial-intelligence-stocks-to-buy-october-1029644435"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/7-artificial-intelligence-stocks-to-buy-october-1029644435"
 type: article
-quality: 61
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: InvestorPlace
-  domain: investorplace.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
   - AI
-  - IBM AI
-
-images:
-  - url: "https://investorplace.com/wp-content/uploads/2019/07/ai1600b.jpg"
-    width: 1600
-    height: 900
-    isCached: true
 
 related:
   - title: "Join AWS and NVIDIA at GTC, October 5–9"
@@ -43,6 +39,6 @@ related:
         height: 630
         isCached: true
 
-secured: "QNm3Hq/NFaRLBApNi5cl37Q3AIQirxlSEfSLjA+hBN9Ox7bfFwBGrK3OUqAzhf/rznHVL5SBtnemCmpb1XS3rFqNaTnhLSzdnVq69vI/aLAFKPV/YCzTS0I9bA3c+Qx9u7D7+hUVIwWmtjh/3ZqJZVNe9EOOtaNc9wrSTNoNa7W6k4hyeJri+bgV5b+ysSHElWSRMWocd4vrlB/KIaaXb7ukpC9U38IRTrBrukhZkbUCQaAXMau1x5bPZQdsWJNfJguebGYy8Xt4jawkvMW3keWdkZeRyDlMJvR714pPebOHj/xGLoH1Un3BvS8yBKUf6I40yrcI48g7NRDUdAR3F/3R6aYdY04/0ltLX0++vwE=;XJ03ICDYYbK+M5JhTmtllg=="
+secured: "rPv+BybEJTzCWKJ2UD7LHVNj4z2rWwFr+NM6v6+0ZTDNR0GyZVGDaFOKMgz1PWjC962lWSX+UuBFk2SkqCU8NiaY26l30V21kO6yyKNSzVXIQVHe9/PqWvuPrI1H3iuXmJ9R7eRpcI2HdPpUuRkznirK8UzlD/4mGc4UoLvARVhIcdw8i/dzOgwNKiaHDtMUiru2uL2U573dXX+be1yF/zcmbxJINZWPrHz5k0R0qDTtPGonIRdo0nMRMzlJUibPpstGGeML00m2+cuZcgfLr3QMT/FdJ2z/BSr+0GNKb4JzZKHtDhnYGAo+y/0Oyvd7MjjmJOGOMPTgqT0805yEU0sVhDoOU2WbToExA/a+RYfSD+u7oirh81YgHKNLfHc6D1fYY8sgTd08HozsVDvU0Yo8dPunvE79qhpAPUh9f/8licBi+VpVTQKkmdn9ahn/VTTXILPRNTzjs1TSvunhh40CtX2NAAFHMVYlsezPiIPrp6H45z+6T7iwpVO3aFTj+WTNMgko8sl9MzAwQucKEA==;besyShKqGHnY9m2I43wJKg=="
 ---
 
