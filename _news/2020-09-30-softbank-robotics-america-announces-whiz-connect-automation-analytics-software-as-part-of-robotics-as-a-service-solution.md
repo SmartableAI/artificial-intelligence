@@ -33,20 +33,6 @@ related:
         width: 870
         height: 614
         isCached: true
-  - title: "SoftBank unveils food service robot to reduce risks of infections"
-    excerpt: "SoftBank Group Corp.'s robot making unit on Monday unveiled its new food service robot in a move designed to reduce the risk of coron"
-    publishedDateTime: 2020-09-28T22:49:00Z
-    webUrl: "https://mainichi.jp/english/articles/20200928/p2g/00m/0bu/113000c"
-    type: article
-    provider:
-      name: mainichi.jp
-      domain: mainichi.jp
-    quality: 39
-    images:
-      - url: "https://cdn.mainichi.jp/vol1/2020/09/28/20200928p2g00m0bu112000p/0c8.jpg?1"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "urC2h66Yp2AfcJrbo3cnw0OlHnXvSz4F/P+IBDbnWeHVTfRODw7GVEmVtR1c55LGJrucIVw9eRVWNNiAw3u5RiU04djMjMv+nOPuol5xQ6zPRIH15NEoXCcIzp9lQq7oeCVRCLpXVX7f5VwRspbf43GrlOhhMmAZoVv/Y5GHNWwcItDCIjRAvz1+BpyRHhA0r/Au8ZhuTWtBpfd1yezIDD8AUqdoUUxXb9gNLRdqc9PM/raaPSPH5JUc8Erozi4DHx2Y0YKkse07jdrByxHd9T1l8RwH3qMckOeGcrs+P2pNFkw8NEoGxFX9vKgVVJvMSCLoD+9n2VyCaV/smSvX1YgKlMMrFadyy8W8kwwCX7Q=;BmFF6a+aIDuOzGcLNJqb1A=="
 ---

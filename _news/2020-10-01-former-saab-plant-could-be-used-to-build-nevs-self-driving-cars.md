@@ -7,7 +7,7 @@ originalUrl: "https://www.motorauthority.com/news/1129795_former-saab-plant-coul
 webUrl: "https://www.motorauthority.com/news/1129795_former-saab-plant-could-be-used-to-build-nevs-self-driving-cars"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,31 @@ images:
     width: 1920
     height: 1242
     isCached: true
+
+related:
+  - title: "Tire Blowouts Could Cause Self-Driving Cars To Go Astray"
+    excerpt: "Self-driving cars will need to contend with tire blowouts. getty. Have you ever had a tire go bad on you? Sometimes, a tire can seemingly obliterate and become a tangled mess of r"
+    publishedDateTime: 2020-10-03T15:35:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/03/tire-blowouts-could-cause-self-driving-cars-to-go-astray/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f585ee53da66757735430a2%2F0x0.jpg%3FcropX1%3D401%26cropX2%3D4704%26cropY1%3D78%26cropY2%3D2946"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "The self-driving cars of the future aren’t inclusive. They’re trying to change that."
+    excerpt: "By combining artificial intelligence with research that looks into the way people interact with machines and computers, researchers at Northeastern and the University of Maine want to help make self-driving cars even smarter and accessible for people who are visually impaired or blind."
+    publishedDateTime: 2020-09-30T22:02:00Z
+    webUrl: "https://news.northeastern.edu/2020/09/30/the-self-driving-cars-of-the-future-arent-inclusive-theyre-trying-to-change-that/"
+    type: article
+    provider:
+      name: Northeastern University
+      domain: northeastern.edu
+    quality: 0
 
 secured: "/HmwpLzof3OrZabrXKFw4rkJ7rHxeckzF/ehNXd6zebgjHeNKRtgoxQ39jSBeQzNyL+qmTC9ZOMv/h51jIQMvch+TehuYq1Kcp7Ys0PO7HblGaw+IolmazrfONJXE9E1nF0ZmfFkP7TClFbvcgEdsuHMI5k3BIdSYcjCeinjzxGIk8uE2h5mJC03inTgnGJgO9ro2Zoi34qG/rua9oPsvRJxWn8vz3GZNayRW2B9SoPsHSzAcIKGvYwMxPa56EE7EaQTdTEsJhKJQtOzldlGqXe7assi9evUcNap3ZKZ3ShgjEk80EyBc4hiRb8bG+X4xGW5ElB6wSDG9raNT0FnL2toR+08gv/GstRV5FKjssza2s372IuG052mOF4lGRFJ4euhSRqaG7k1iGcVtAiuxEg9YZgSyBdRGTBXi3CfsXlsK6XMDl/Wdmnye4fx5zD6G16ugrRrUXo2faHQ2nrRKeK8VM5s0i7iGt/mGHkT/G06ga2+Hd1AUaj+Gw7oiFMegUG+bqLas0E+3G8q+1/b1A==;wFnIwuW7P4e1DY8K4rQUNw=="
 ---

@@ -151,20 +151,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft Touts Azure as 'Carrier-Grade Platform' for Telcos Deploying 5G"
-    excerpt: "Microsoft on Monday affirmed its software-defined networking infrastructure support for telecom companies, especially as they move more toward rolling out 5G wireless services."
-    publishedDateTime: 2020-09-28T22:12:00Z
-    webUrl: "https://redmondmag.com/articles/2020/09/28/azure-carrier-grade-platform-5g.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 53
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/AttenaSkyBig.jpg"
-        width: 1665
-        height: 1158
-        isCached: true
   - title: "Scality Announces 1 Terabit Per Second Performance for Scale-Out File System in Microsoft Azure Public Cloud"
     excerpt: "Scality, a leader in software solutions for distributed file and object storage, today announced the technical preview"
     publishedDateTime: 2020-09-29T20:10:00Z

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "SoftBank unveils food service robot to reduce risks of infections"
-    excerpt: "SoftBank Group Corp.'s robot making unit on Monday unveiled its new food service robot in a move designed to reduce the risk of coron"
-    publishedDateTime: 2020-09-28T22:49:00Z
-    webUrl: "https://mainichi.jp/english/articles/20200928/p2g/00m/0bu/113000c"
-    type: article
-    provider:
-      name: mainichi.jp
-      domain: mainichi.jp
-    quality: 39
-    images:
-      - url: "https://cdn.mainichi.jp/vol1/2020/09/28/20200928p2g00m0bu112000p/0c8.jpg?1"
-        width: 600
-        height: 315
-        isCached: true
   - title: "SoftBank Robotics America Announces Whiz Connect Automation Analytics Software as Part of Robotics-as-a-Service Solution"
     excerpt: "Whiz Connect centralizes the Whiz automation portfolio in a single dashboard and empowers occupant health and wellness through continuous collection analytics and operational efficiency."
     publishedDateTime: 2020-09-29T18:18:00Z

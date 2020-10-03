@@ -3,8 +3,8 @@ category: news
 title: "COVID-19 and Mining Social Media - Enabling Machine Learning Workloads with Big Data"
 excerpt: "In this article, author Adi Pollock discusses how to enable machine learning workloads with big data to query and analyze COVID-19 tweets to understand social sentiment towards COVID-19."
 publishedDateTime: 2020-10-02T15:51:00Z
-originalUrl: "https://www.infoq.com/articles/covid-social-media-machine-learning/?topicPageSponsorship=9ee9cabb-978d-4b65-9c62-dba6f9b389b3&itm_source=articles_about_architecture-design&itm_medium=link&itm_campaign=architecture-design"
-webUrl: "https://www.infoq.com/articles/covid-social-media-machine-learning/?topicPageSponsorship=9ee9cabb-978d-4b65-9c62-dba6f9b389b3&itm_source=articles_about_architecture-design&itm_medium=link&itm_campaign=architecture-design"
+originalUrl: "https://www.infoq.com/articles/covid-social-media-machine-learning/?topicPageSponsorship=aa1a9092-c441-486c-8c69-4416fca4b422&itm_source=articles_about_architecture-design&itm_medium=link&itm_campaign=architecture-design"
+webUrl: "https://www.infoq.com/articles/covid-social-media-machine-learning/?topicPageSponsorship=aa1a9092-c441-486c-8c69-4416fca4b422&itm_source=articles_about_architecture-design&itm_medium=link&itm_campaign=architecture-design"
 type: article
 quality: 32
 heat: -1
@@ -154,6 +154,20 @@ related:
         width: 400
         height: 210
         isCached: true
+  - title: "Diagnosing COVID From a Person’s Voice"
+    excerpt: "Researchers are exploring ways to use people’s vocalizations to diagnose coronavirus infections, dementia and depression"
+    publishedDateTime: 2020-10-03T14:12:00Z
+    webUrl: "https://www.scientificamerican.com/article/diagnosing-covid-from-a-persons-voice/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 24
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/8C8D39AD-D5B6-4D5E-9EED7869DE114047.jpg"
+        width: 790
+        height: 496
+        isCached: true
   - title: "Personalized Learning and Tech Equity Under COVID-19"
     excerpt: "For older students, COVID-19 opens the doors for deep learning that involves solving a complex problem that might encompass economic, health, and social justice challenges. This discussion will address the steps schools need to take to encourage and ..."
     publishedDateTime: 2020-09-30T18:45:00Z
@@ -164,6 +178,6 @@ related:
       domain: edweek.org
     quality: 4
 
-secured: "INmoFivpiu+0DGxzjrExDCFgi8/uMRwDOZiZW9mF7N6he23cOBYGz6idVwIq081I2QAEf5Acf2yhVTAV6ek8+KKGBqK1CpLlgdQ4PXQrDoGt+/QO8SYeIzcO6Su030UV4hbUk54KLVE2khxspU63sr81Kq3QFL7DkeVETTify7C+f3aqxZZi7+75uY3XpIDLMLXJk2NRuc/luydZRHIq04zCKZv9ImvlUTNlSRV0chQ4AddA+TV5p/JBctWxUDvJG1fkE1DEgMgmA4zK+MFh64ybUQh7v5Sz93bSCTg8MVoCuikzZ0by6fFCBOOiMc0EtF9Pob9Iy3ixN+1KF8P8TLmy0cQemfJJQc/crTmlDfk=;yFdgX2qp7JjPobMFjKSENw=="
+secured: "uUzZCZBNVOPxorI1e/R5xyo/vFLNkiMfTstwkYeoLOXbQK9/iHbXq/+b8PM90ulNCxQpdCe+w7Lnihl+fkjGJCE+l/9dXJbjOC2JhQrQKSAEKG1yKXiSrGL2ybR0pB5vjO2rYcQZtRSrMm8Oa3CqL3YRcnwPrnkSLVelNsj5qYQR4zukcrBUg7UB3yu1kY38PYDoXrdDTiqhKFbNCNAXoyVNdMbXpLntmWd5ZzCHYmioZhNzOEk0WxpXa7lx2duYvP4rvQK46tFnyYtyZSYgqt8aRDB0Lm7oonej5blthMu3irDjSS2yl3lz+O2bGf+m/B7UsAenSvK9vEDhje+1CdCc+NTPgDmVTkFA+ukrFFM=;wURev4klGfzIgFOGC3XbMA=="
 ---
 

@@ -137,22 +137,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Australian Fintech WeMoney Secures $2 Million in Seed Funding to Launch Financial Wellness Platform"
-    excerpt: "Dan Jovevski, a Fintech professional and former banker at National Australia Bank (NAB), has reportedly helped his company, WeMoney, with securing $2 million in capital in order to provide a service that helps young consumers with making better financial decisions."
-    publishedDateTime: 2020-09-28T22:28:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/09/167305-australian-fintech-wemoney-secures-2-million-in-seed-funding-to-launch-financial-wellness-platform/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/09/167305-australian-fintech-wemoney-secures-2-million-in-seed-funding-to-launch-financial-wellness-platform/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/09/167305-australian-fintech-wemoney-secures-2-million-in-seed-funding-to-launch-financial-wellness-platform/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 30
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/01/Australia-Money-iPhone.png"
-        width: 412
-        height: 680
-        isCached: true
   - title: "Onfido teams up with FinTech Oval Money to boost digital customer verification"
     excerpt: "Onfido announced a new partnership with FinTech Oval Money in a bid to accelerate and enhance the latter's digital customer verification and registration process."
     publishedDateTime: 2020-09-30T10:20:00Z

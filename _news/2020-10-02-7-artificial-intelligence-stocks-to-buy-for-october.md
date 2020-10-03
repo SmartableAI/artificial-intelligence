@@ -1,27 +1,29 @@
 ---
 category: news
 title: "7 Artificial Intelligence Stocks to Buy for October"
-excerpt: "Stock Market News, Stock Advice & Trading Tips With so much death and economic destruction wrought by the novel coronavirus,"
-publishedDateTime: 2020-10-02T14:37:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/7-artificial-intelligence-stocks-to-buy-october-1029644435"
-webUrl: "https://markets.businessinsider.com/news/stocks/7-artificial-intelligence-stocks-to-buy-october-1029644435"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/7-artificial-intelligence-stocks-to-buy-october-1029644435"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/7-artificial-intelligence-stocks-to-buy-october-1029644435"
+excerpt: "Here are the companies that are using machines to help us, from inventory management to finding that special someone."
+publishedDateTime: 2020-10-02T13:52:00Z
+originalUrl: "https://investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/"
+webUrl: "https://investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/"
+ampWebUrl: "https://investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/amp/"
+cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/amp/"
 type: article
-quality: 67
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: InvestorPlace
+  domain: investorplace.com
 
 topics:
   - AI
+
+images:
+  - url: "https://investorplace.com/wp-content/uploads/2019/07/ai1600b.jpg"
+    width: 1600
+    height: 900
+    isCached: true
 
 related:
   - title: "Join AWS and NVIDIA at GTC, October 5–9"
@@ -39,6 +41,6 @@ related:
         height: 630
         isCached: true
 
-secured: "rPv+BybEJTzCWKJ2UD7LHVNj4z2rWwFr+NM6v6+0ZTDNR0GyZVGDaFOKMgz1PWjC962lWSX+UuBFk2SkqCU8NiaY26l30V21kO6yyKNSzVXIQVHe9/PqWvuPrI1H3iuXmJ9R7eRpcI2HdPpUuRkznirK8UzlD/4mGc4UoLvARVhIcdw8i/dzOgwNKiaHDtMUiru2uL2U573dXX+be1yF/zcmbxJINZWPrHz5k0R0qDTtPGonIRdo0nMRMzlJUibPpstGGeML00m2+cuZcgfLr3QMT/FdJ2z/BSr+0GNKb4JzZKHtDhnYGAo+y/0Oyvd7MjjmJOGOMPTgqT0805yEU0sVhDoOU2WbToExA/a+RYfSD+u7oirh81YgHKNLfHc6D1fYY8sgTd08HozsVDvU0Yo8dPunvE79qhpAPUh9f/8licBi+VpVTQKkmdn9ahn/VTTXILPRNTzjs1TSvunhh40CtX2NAAFHMVYlsezPiIPrp6H45z+6T7iwpVO3aFTj+WTNMgko8sl9MzAwQucKEA==;besyShKqGHnY9m2I43wJKg=="
+secured: "HGXPfwo2tow8ZE7xxtWGQv3fuyQFs6vpSTZFdmzPkoRuGJKCfC6VpfNrBfjYc3VGxRb/Xr1MfpjkQdEW1+R+7eEYxoGOgCkWN5HtJN7Gwe95lTi2sXP5pEsSxsjJ5pbKEHYh7Rt8HOicHUI6eTZG+8XWOdzx9nZDWDYK3zfNjKPhaeeQxAxuucO28hHaSkKix0ImBFr+wtx4siuNzPProaPtx+BOUt0rVAMrh3t/5U3LW+jLOAJCsWWecMVsterh0QQXWoJCXXqfPwI3ZVI7h1xNYlUgHKyEozygm2hTKDJCE2bJv/PVgSHtk4jIxw39wR6RM8wOIxQiLmg5s6ThFgXoHZYNiNGA/PWj4OcBAwA=;xVnwQubrskaYCgWi9pu81Q=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/amp/"
 type: article
 quality: 78
-heat: 178
+heat: 168
 published: true
 
 provider:
@@ -126,22 +126,6 @@ related:
       - url: "https://www.ciol.com/wp-content/uploads/2017/10/Fintech.jpg"
         width: 400
         height: 400
-        isCached: true
-  - title: "Australian Fintech WeMoney Secures $2 Million in Seed Funding to Launch Financial Wellness Platform"
-    excerpt: "Dan Jovevski, a Fintech professional and former banker at National Australia Bank (NAB), has reportedly helped his company, WeMoney, with securing $2 million in capital in order to provide a service that helps young consumers with making better financial decisions."
-    publishedDateTime: 2020-09-28T22:28:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/09/167305-australian-fintech-wemoney-secures-2-million-in-seed-funding-to-launch-financial-wellness-platform/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/09/167305-australian-fintech-wemoney-secures-2-million-in-seed-funding-to-launch-financial-wellness-platform/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/09/167305-australian-fintech-wemoney-secures-2-million-in-seed-funding-to-launch-financial-wellness-platform/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 30
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/01/Australia-Money-iPhone.png"
-        width: 412
-        height: 680
         isCached: true
   - title: "3 Fintech Opportunities For Entrepreneurs Beyond 2020"
     excerpt: "The financial service sector has not been an exception. Banks have closed, at least temporarily, and many other services that users have come to rely on have had hiccups or slowdowns of varying degrees."
