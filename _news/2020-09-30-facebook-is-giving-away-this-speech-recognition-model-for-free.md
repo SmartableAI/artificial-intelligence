@@ -42,17 +42,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Facebook’s new ’embodied A.I’ project aims to build a new breed of robots"
-    excerpt: "Facebook wants to build an army of robot assistants that can wait on us in all kinds of new ways. Well, kind of."
-    publishedDateTime: 2020-09-28T23:19:00Z
-    webUrl: "https://infosurhoy.com/technology/facebooks-new-embodied-a-i-project-aims-to-build-a-new-breed-of-robots/"
-    ampWebUrl: "https://infosurhoy.com/technology/facebooks-new-embodied-a-i-project-aims-to-build-a-new-breed-of-robots/amp/"
-    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/technology/facebooks-new-embodied-a-i-project-aims-to-build-a-new-breed-of-robots/amp/"
-    type: article
-    provider:
-      name: InfoSur Hoy
-      domain: infosurhoy.com
-    quality: 38
   - title: "Indian fact checking site NewsMobile with US varsity startup FakeNetAI Win IFCN-Facebook Global Innovation Challenge"
     excerpt: "In today technology news, we covered about the Indian fact checking site NewsMobile with US varsity startup FakeNetAI Win IFCN-Facebook Global Innovation Challenge"
     publishedDateTime: 2020-09-29T20:54:00Z

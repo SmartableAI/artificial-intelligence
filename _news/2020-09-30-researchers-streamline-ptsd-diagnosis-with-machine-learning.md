@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.amp"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://www.news-medical.net/image.axd?picture=2016%2f3%2fAbstract_medicine_background-Hilch-1000_f0a8c263e6e04ed18dfcc5ef27c17907-620x480.jpg"
         width: 620
         height: 480
-        isCached: true
-  - title: "Streamlining PTSD Diagnosis with Machine Learning"
-    excerpt: "Among veterans, the “gold standard” diagnostic assessment for PTSD could be shortened. Different items in the diagnostic proved less important for male or for female veterans."
-    publishedDateTime: 2020-09-29T00:00:00Z
-    webUrl: "https://www.bu.edu/sph/2020/09/29/streamlining-ptsd-diagnosis-with-machine-learning/"
-    type: article
-    provider:
-      name: Boston University
-      domain: bu.edu
-    quality: 54
-    images:
-      - url: "https://www.bu.edu/sph/files/2020/09/Streamlining-PTSD-Diagnosis-with-Machine-Learning-Veterans-400x241-1.jpeg"
-        width: 400
-        height: 241
         isCached: true
   - title: "Machine Learning Can Streamline PTSD Diagnosis in Veterans"
     excerpt: "Using machine learning, researchers were able to cut six of the 20 questions used to diagnose post-traumatic stress disorder (PTSD) while still maintaining accuracy in a veteran population, according to a study published in Assessment."

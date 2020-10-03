@@ -140,6 +140,20 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "COVID-19 and Mining Social Media - Enabling Machine Learning Workloads with Big Data"
+    excerpt: "In this article, author Adi Pollock discusses how to enable machine learning workloads with big data to query and analyze COVID-19 tweets to understand social sentiment towards COVID-19."
+    publishedDateTime: 2020-10-02T15:51:00Z
+    webUrl: "https://www.infoq.com/articles/covid-social-media-machine-learning/?topicPageSponsorship=aa1a9092-c441-486c-8c69-4416fca4b422&itm_source=articles_about_architecture-design&itm_medium=link&itm_campaign=architecture-design"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 34
+    images:
+      - url: "https://res.infoq.com/articles/covid-social-media-machine-learning/en/headerimage/croppted-eIq7PfpU-1601562447743.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Olive's AI Workforce to Revolutionize COVID-19 Testing at Tufts Medical Center"
     excerpt: "Olive announced today that it has entered into an agreement to leverage its AI workforce technology to streamline COVID-19 testing operations at Tufts"
     publishedDateTime: 2020-09-29T13:49:00Z
@@ -154,20 +168,6 @@ related:
         width: 400
         height: 210
         isCached: true
-  - title: "COVID-19 and Mining Social Media - Enabling Machine Learning Workloads with Big Data"
-    excerpt: "In this article, author Adi Pollock discusses how to enable machine learning workloads with big data to query and analyze COVID-19 tweets to understand social sentiment towards COVID-19."
-    publishedDateTime: 2020-10-02T15:51:00Z
-    webUrl: "https://www.infoq.com/articles/covid-social-media-machine-learning/?topicPageSponsorship=aa1a9092-c441-486c-8c69-4416fca4b422&itm_source=articles_about_architecture-design&itm_medium=link&itm_campaign=architecture-design"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 32
-    images:
-      - url: "https://res.infoq.com/articles/covid-social-media-machine-learning/en/headerimage/croppted-eIq7PfpU-1601562447743.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Personalized Learning and Tech Equity Under COVID-19"
     excerpt: "For older students, COVID-19 opens the doors for deep learning that involves solving a complex problem that might encompass economic, health, and social justice challenges. This discussion will address the steps schools need to take to encourage and ..."
     publishedDateTime: 2020-09-30T18:45:00Z
@@ -178,6 +178,6 @@ related:
       domain: edweek.org
     quality: 4
 
-secured: "ej+bmp41dQZsmLXZ8k05MsiZqJ1O+UIUruebWZvg4xE3EtOGBO4yHm1kJr/fJYKiUgxD7pMbUvk5mgdIcxt6LQpEMrAgCjmlI6Y9x9JHluxC6MpfPj+3HG41Bb+Wy8mY2+/Fyk6GTcT75G4t0KNFQiI2M32M8VnQGNf+/0hVwV9Mg3Xkqb3uCycnbTN+vCcXyrvI6/2Lgu/8So0YhQTnplIQINJG01+uf4OelXpkEWx7nSpnbHJ06KZrVcKE+pgd1h22xz/bYzyr6QDsq5zuSVqI4YYi33gp0q2uHy3tHAIXjuH1AaXwDuu5ju7o//df0ZRn84pMQjuu+5EFo0Rru+2NyO0babU2gpPnuRfgvhc=;fGDJeZIvGFrrnjuBKis6Sw=="
+secured: "/BRtfeDLeWzp/vMv+QPyjbYRGoNYsdBtU1DBohKnRs/WCSa6rvnwljnvCA2Uhop0R3/5qZVyKRjOQAbb3zXf6rBz59PBT6/z12GNAWJ8zS9U39LMK/ckStILhRUzeRFrIHudb6qX7Q9HzWKwOkNxexeWzPoolI+OeTsmHI32seQH5rzCsvMyBaFpsrJPgqxlfN3QEj+Lr4GJ3RomJ/cg2eN2sIr8VeNGMLQZjaxic8NvLAOvi4s+JrxzNaHZBlPNvnNzeVrtW7FTnfR5GhE0yZoDdvDOeNNbg6Vsnl4QmMmNyBkNAc6rdBxsM82JPri2Pgmkscn+Cw1i+R2C+tT/CF8SwuqYTKmZEDgV6SQQNDXPuONT2Zh04Ve+8WIsIkP5UvyjgWrsZZcjKE+ehdPQFoedJOowDE91ht7WBH1yQfyHSdwhazvDRQr186DDd17m3USQGt1HBpCNK4LQwmjlgSFAnlad/RwgnN2GWSdFQUZqaaYdO+CmQxQGUs9bk/QubJyUsBHpxIEYd7DURrGq/Q==;gtqbkBamTrSBt0dWXN/Bsg=="
 ---
 

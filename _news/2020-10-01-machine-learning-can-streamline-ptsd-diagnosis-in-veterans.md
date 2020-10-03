@@ -57,20 +57,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Streamlining PTSD Diagnosis with Machine Learning"
-    excerpt: "Among veterans, the “gold standard” diagnostic assessment for PTSD could be shortened. Different items in the diagnostic proved less important for male or for female veterans."
-    publishedDateTime: 2020-09-29T00:00:00Z
-    webUrl: "https://www.bu.edu/sph/2020/09/29/streamlining-ptsd-diagnosis-with-machine-learning/"
-    type: article
-    provider:
-      name: Boston University
-      domain: bu.edu
-    quality: 54
-    images:
-      - url: "https://www.bu.edu/sph/files/2020/09/Streamlining-PTSD-Diagnosis-with-Machine-Learning-Veterans-400x241-1.jpeg"
-        width: 400
-        height: 241
-        isCached: true
   - title: "VA Boston and BU researchers streamline PTSD diagnosis with machine learning"
     excerpt: "Now, researchers from the VA Boston Healthcare System and the Boston University School of Public Health (BUSPH) have used machine learning to explore streamlining the ''gold standard'' diagnostic tool for PTSD."
     publishedDateTime: 2020-09-29T04:00:00Z

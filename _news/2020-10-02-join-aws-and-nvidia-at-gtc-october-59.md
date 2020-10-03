@@ -39,7 +39,7 @@ related:
     provider:
       name: InvestorPlace
       domain: investorplace.com
-    quality: 57
+    quality: 61
     images:
       - url: "https://investorplace.com/wp-content/uploads/2019/07/ai1600b.jpg"
         width: 1600

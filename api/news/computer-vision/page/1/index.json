@@ -1174,6 +1174,48 @@
       ]
     },
     {
+      "path": "_news/2020-09-19-huangs-law-is-the-new-moores-law-and-explains-why-nvidia-wants-arm.md",
+      "title": "Huang’s Law is the new Moore’s law, and explains why Nvidia wants Arm",
+      "excerpt": "voice and object recognition in our personal gadgets. Between November 2012 and this May, performance of Nvidia’s chips increased 317 times for an important class of AI calculations, says Bill ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/technology/tech-news/huang-s-law-is-the-new-moore-s-law-and-explains-why-nvidia-wants-arm-11600530134203.html",
+      "originalUrl": "https://www.livemint.com/technology/tech-news/huang-s-law-is-the-new-moore-s-law-and-explains-why-nvidia-wants-arm-11600530134203.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2020/09/19/600x338/a35a2ae482ad4a97ab798de3396e67e6-a35a2ae482ad4a97ab798de3396e67e6-1_1600530200000_1600530213133.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/technology/tech-news/huang-s-law-is-the-new-moore-s-law-and-explains-why-nvidia-wants-arm/amp-11600530134203.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/huang-s-law-is-the-new-moore-s-law-and-explains-why-nvidia-wants-arm/amp-11600530134203.html",
+      "publishedDateTime": "2020-09-19T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-realnetworks-strengthens-safrs-leadership-team-with-appointment-of-brad-donaldson-as-vice-president-computer-vision.md",
       "title": "RealNetworks Strengthens SAFR's Leadership Team with Appointment of Brad Donaldson as Vice President, Computer Vision",
       "excerpt": "PRNewswire/ -- RealNetworks, Inc. (Nasdaq: RNWK) today announced the appointment of Brad Donaldson as Vice President, Computer Vision to lead the",
@@ -1374,57 +1416,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-aidoc-raises-20-million-more-for-its-computer-vision-medical-tools.md",
-      "title": "Aidoc raises $20 million more for its computer vision medical tools",
-      "excerpt": "Aidoc, which bills itself as an AI solutions provider for radiologists, today closed a $20 million extension to the series B it raised in April 2019.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/16/aidoc-raises-20-million-more-for-its-computer-vision-medical-tools/",
-      "originalUrl": "https://venturebeat.com/2020/09/16/aidoc-raises-20-million-more-for-its-computer-vision-medical-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/Aidoc-Covid-e1599583845771.jpeg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/16/aidoc-raises-20-million-more-for-its-computer-vision-medical-tools/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/16/aidoc-raises-20-million-more-for-its-computer-vision-medical-tools/amp/",
-      "publishedDateTime": "2020-09-16T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

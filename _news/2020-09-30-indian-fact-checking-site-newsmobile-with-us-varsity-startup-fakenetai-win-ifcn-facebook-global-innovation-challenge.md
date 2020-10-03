@@ -57,17 +57,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Facebook’s new ’embodied A.I’ project aims to build a new breed of robots"
-    excerpt: "Facebook wants to build an army of robot assistants that can wait on us in all kinds of new ways. Well, kind of."
-    publishedDateTime: 2020-09-28T23:19:00Z
-    webUrl: "https://infosurhoy.com/technology/facebooks-new-embodied-a-i-project-aims-to-build-a-new-breed-of-robots/"
-    ampWebUrl: "https://infosurhoy.com/technology/facebooks-new-embodied-a-i-project-aims-to-build-a-new-breed-of-robots/amp/"
-    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/technology/facebooks-new-embodied-a-i-project-aims-to-build-a-new-breed-of-robots/amp/"
-    type: article
-    provider:
-      name: InfoSur Hoy
-      domain: infosurhoy.com
-    quality: 38
 
 secured: "eDGbZr7OUV6lYDKCLnAROV996Hv5s3Yco+2EPJg02PE2eYhW2a16oBitrKqhD7ge3FflMTgQcRvG0Af+Ka/NvGnW2+M+3yyVYe/+VWL2ZocJFVfODfpyrlU67eNuavpOvdcIV3lXm+Xn9zBCo773FOm4SblKhQ7gq+Ob4mRBxfxMdVLscrdyUOGVx1VmPqa4nHksTaABLH6rWTQTvQFYF9V4yoa3IVVCJQ3tZnOwb+a/yDVONAPc6YnIvofaiGWUyF2upJH0cThIASazjUN9HNpWaxMbY6TssDIZjOE1Yg5rxBV+tKuer8tdCFty3Kc/g+Bp9JbWje8jAXNB3ymfSXpojV3cQL1NYwsdB0zSKcLEnbtRYfQgfEWj5j8idcJgh7hlXfWrM5Iqaxx2wZFnMVHLX7uVEzveFaUke25M9sajP8SD5tkt8GhgvPaGRhshh0k+cg4fUIPAiZlg7nrPdcZ9UIIxbJBtZVwRpXTSGIBNpnd5xsoqOXTfESG/qoGcbQIK2QliDQSrYFpQFXOnSg==;imWB5VZ1aJLTzDika5MXkg=="
 ---

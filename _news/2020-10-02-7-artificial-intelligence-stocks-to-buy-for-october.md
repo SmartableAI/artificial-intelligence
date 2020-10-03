@@ -8,7 +8,7 @@ webUrl: "https://investorplace.com/2020/10/7-artificial-intelligence-stocks-to-b
 ampWebUrl: "https://investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/amp/"
 cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/amp/"
 type: article
-quality: 57
+quality: 61
 heat: -1
 published: false
 
@@ -18,6 +18,8 @@ provider:
 
 topics:
   - AI
+  - IBM AI
+  - AI in Healthcare
 
 images:
   - url: "https://investorplace.com/wp-content/uploads/2019/07/ai1600b.jpg"

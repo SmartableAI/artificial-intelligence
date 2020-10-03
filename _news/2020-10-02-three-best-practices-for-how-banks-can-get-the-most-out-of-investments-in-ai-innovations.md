@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/3-best-practices-for-implementing-
 webUrl: "https://www.businessinsider.com/3-best-practices-for-implementing-ai-in-banking-2020-10"
 type: article
 quality: 158
-heat: 178
+heat: 188
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "How to become an early investor in AI robot revolutionizing the fast food industry"
+    excerpt: "Investing in an emerging company is not reserved for the stars of Shark Tank. No matter how intimidating it may seem at first glance, the truth is that anyone can"
+    publishedDateTime: 2020-10-03T13:15:00Z
+    webUrl: "https://nypost.com/2020/10/03/how-to-invest-early-in-the-ai-robot-revolutionizing-fast-food/"
+    ampWebUrl: "https://nypost.com/2020/10/03/how-to-invest-early-in-the-ai-robot-revolutionizing-fast-food/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/03/how-to-invest-early-in-the-ai-robot-revolutionizing-fast-food/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 68
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/Invest.png?w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Voice AI Redefines The Future Of Patient Interactions"
     excerpt: "In the past decade, the fundamental structure of healthcare management has changed radically. The industry has become more consumer-driven with a focus on providing personalized patient care. On the other hand,"
     publishedDateTime: 2020-10-03T11:14:00Z

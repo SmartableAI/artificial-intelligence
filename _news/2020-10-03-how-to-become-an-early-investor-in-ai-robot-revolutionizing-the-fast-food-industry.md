@@ -1,0 +1,77 @@
+---
+category: news
+title: "How to become an early investor in AI robot revolutionizing the fast food industry"
+excerpt: "Investing in an emerging company is not reserved for the stars of Shark Tank. No matter how intimidating it may seem at first glance, the truth is that anyone can"
+publishedDateTime: 2020-10-03T13:15:00Z
+originalUrl: "https://nypost.com/2020/10/03/how-to-invest-early-in-the-ai-robot-revolutionizing-fast-food/"
+webUrl: "https://nypost.com/2020/10/03/how-to-invest-early-in-the-ai-robot-revolutionizing-fast-food/"
+ampWebUrl: "https://nypost.com/2020/10/03/how-to-invest-early-in-the-ai-robot-revolutionizing-fast-food/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/03/how-to-invest-early-in-the-ai-robot-revolutionizing-fast-food/amp/"
+type: article
+quality: 68
+heat: -1
+published: false
+
+provider:
+  name: New York Post
+  domain: nypost.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/Invest.png?w=1200"
+    width: 1200
+    height: 800
+    isCached: true
+
+related:
+  - title: "Three best practices for how banks can get the most out of investments in AI innovations"
+    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since AI in banking is entering the mainstream as financial institutions start incorporating AI solutions into their businesses: A majority of financial services ..."
+    publishedDateTime: 2020-10-02T13:48:00Z
+    webUrl: "https://www.businessinsider.com/3-best-practices-for-implementing-ai-in-banking-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 158
+    images:
+      - url: "https://i.insider.com/5e62c54afee23d19745f9109?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Voice AI Redefines The Future Of Patient Interactions"
+    excerpt: "In the past decade, the fundamental structure of healthcare management has changed radically. The industry has become more consumer-driven with a focus on providing personalized patient care. On the other hand,"
+    publishedDateTime: 2020-10-03T11:14:00Z
+    webUrl: "https://inc42.com/buzz/voice-ai-redefines-the-future-of-patient-interactions/"
+    ampWebUrl: "https://inc42.com/buzz/voice-ai-redefines-the-future-of-patient-interactions/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/voice-ai-redefines-the-future-of-patient-interactions/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 59
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2020/10/Untitled-design-2020-10-03T142535.041.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Voice AI Redefines The Future Of Patient Interactions"
+    excerpt: "With automated processes, Artificial Intelligence is paving the way for technologically advanced healthcare space."
+    publishedDateTime: 2020-10-01T07:53:00Z
+    webUrl: "https://analyticsindiamag.com/voice-ai-redefines-the-future-of-patient-interactions/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/Voice-AI-01.jpg"
+        width: 1750
+        height: 1021
+        isCached: true
+
+secured: "4Mqb+/lu5eG1sTXBDE7e/oY+Vx0zndBZbnuY6T8QKujYJ5PTPXFeuYhI3MkrjuGEosldeqOKUW9G1UurS7LByJrIB8o/h8HQmRxNbSCn4mLRSQAeovFkWidNrRhJkwpsxHhmye406ckZoftPKgCbmJM4mPww1W5UqxhKbYg/LVb0CY+G+g4kC+NH9Iu/ICv2Yqs2uotzWYm9upF9Vhs7HRYiRrWRapb3dZbXky5d/nt1H5liIhaQOu/APn0ERbuih+Mv4ocVTfRRH9JHB8wlURn8TK+BlqbO6q0B5i+RHYvdFoOK2eZ9TtlEUm0GTeh0dLFpnsQeHoc7ZvSyoxEzWUEAW2QZFw3FPSFbO2MmYBM=;gAwWmQ7+A2iBmdrmmDncwg=="
+---
+

@@ -54,9 +54,9 @@ related:
         height: 471
         isCached: true
   - title: "How to avoid disasters like Amazon’s Rekognition"
-    excerpt: "One way to avoid disastrous AI systems in the wild might be to build responsible operation into the programs from the start, professor Sergey Levine of U.C. Berkeley told ZDNet. He has a plan to ..."
-    publishedDateTime: 2020-10-01T15:55:00Z
-    webUrl: "https://www.zdnet.com/video/how-to-avoid-disasters-like-amazons-rekognition/"
+    excerpt: "One way to avoid disastrous AI systems in the wild might be to build responsible operation into the programs from the start, professor Sergey Levine of U.C. Berkeley told ZDNet. He has a plan to do that."
+    publishedDateTime: 2020-10-01T16:15:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/video/how-to-avoid-disasters-like-amazons-rekognition/"
     type: article
     provider:
       name: ZDNet

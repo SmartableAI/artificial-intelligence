@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-03T14:05:00Z
 originalUrl: "https://www.eurekalert.org/pub_releases/2020-10/acos-nai100120.php"
 webUrl: "https://www.eurekalert.org/pub_releases/2020-10/acos-nai100120.php"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.eurekalert.org/multimedia/pub/web/244737_web.jpg"
@@ -39,6 +40,6 @@ related:
         height: 1539
         isCached: true
 
-secured: "Y7xQkyy+DwRyQo3Qnwdod18xkXmhGsozKd+Jej0Pa87/wJ7IlItq0gw447FYUxUzTa5nwwGjicH3gMsJYEZ9tvDSMPBssehoRQS1F5/MeCdVNpq4Srqxq3IekcG+Sh/DmfQd89ue6MQBQqXTfux4+0uIMaLl0mNasccjVRxJsToAGfhkWjB6HCNaKqsszUB+sLQg4+gIKcZmzqJZv+rPajXvfzXefG/WK3FAMMOn/gieGvhrtJKPwWSnoaTvAH+CmX8d42smEqYcMnE0OlVO1pjxNqoqCFwlIn23nK9eQWM2O3j2QICE7VNzPeaSUt9c9O7z9kUUwGTn6KDgpAcmUft35y1sVakUMSbg0HqCbrE=;EYwkGLAiSqko2h/VC+ZVCA=="
+secured: "wIBJi+sFlILkdWNhHhmLOg0FvfZfI0I+oIygEoGmYyaFOWL5dOU87i6ya2zoJ45l4PgdvWcnJWuTTY8QR8mfwWrA4vivS68TEtPsujJYFhui/FUVNXmFqziM8zw2lniUg8nmF6fatTJALaMBpgMqdr+Ze6JBEa9f+2yYWHkKBrUX2ZPjyGKd9Bf87BDmiDkUAL8JSMmBwChbklkHFf60q4f33O48fRV4BRemGjEoKhoIpimOLZF2ugHb++Ba6CZf6dHY4+2A0YwtufKaaypZs1p25Y4VtjURb21E42pjdSubJXpuxCONcREpC3sgYPVCH/XxBmO43dFmiRD1lbxJ9k7QOqZmF4f0Hbzom70ODOfBPlm//WHfIutbU6IUYKZLgPhaw5Uq+YXeBi7rq4tLzFaQRyLeH4B9G4UQ3dbhDxLU29ffz2PzFrWKVTJoeN7hNzDA30NSpwbMtcG7Yczp4Rlt3KNgJkTSLhg7fdF1kB3w6kn5odULFC5Yzv5hA5X7quJ+MyUEuoCtVQVXUWOo1Q==;B4u8bjm77iszkfCwyv1r9A=="
 ---
 

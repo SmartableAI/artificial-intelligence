@@ -126,6 +126,20 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "COVID-19 and Mining Social Media - Enabling Machine Learning Workloads with Big Data"
+    excerpt: "In this article, author Adi Pollock discusses how to enable machine learning workloads with big data to query and analyze COVID-19 tweets to understand social sentiment towards COVID-19."
+    publishedDateTime: 2020-10-02T15:51:00Z
+    webUrl: "https://www.infoq.com/articles/covid-social-media-machine-learning/?topicPageSponsorship=aa1a9092-c441-486c-8c69-4416fca4b422&itm_source=articles_about_architecture-design&itm_medium=link&itm_campaign=architecture-design"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 34
+    images:
+      - url: "https://res.infoq.com/articles/covid-social-media-machine-learning/en/headerimage/croppted-eIq7PfpU-1601562447743.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Olive's AI Workforce to Revolutionize COVID-19 Testing at Tufts Medical Center"
     excerpt: "Olive announced today that it has entered into an agreement to leverage its AI workforce technology to streamline COVID-19 testing operations at Tufts"
     publishedDateTime: 2020-09-29T13:49:00Z
@@ -139,20 +153,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/bc/1bcafd02-270b-518b-b8f7-346d623f0f45/5f7334f027ff7.image.jpg?resize=400%2C210"
         width: 400
         height: 210
-        isCached: true
-  - title: "COVID-19 and Mining Social Media - Enabling Machine Learning Workloads with Big Data"
-    excerpt: "In this article, author Adi Pollock discusses how to enable machine learning workloads with big data to query and analyze COVID-19 tweets to understand social sentiment towards COVID-19."
-    publishedDateTime: 2020-10-02T15:51:00Z
-    webUrl: "https://www.infoq.com/articles/covid-social-media-machine-learning/?topicPageSponsorship=aa1a9092-c441-486c-8c69-4416fca4b422&itm_source=articles_about_architecture-design&itm_medium=link&itm_campaign=architecture-design"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 32
-    images:
-      - url: "https://res.infoq.com/articles/covid-social-media-machine-learning/en/headerimage/croppted-eIq7PfpU-1601562447743.jpeg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Diagnosing COVID From a Person’s Voice"
     excerpt: "Researchers are exploring ways to use people’s vocalizations to diagnose coronavirus infections, dementia and depression"

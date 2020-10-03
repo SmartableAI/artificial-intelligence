@@ -1105,6 +1105,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.businesswire.com/news/home/20200916005883/en/Lemonade-CFO-Tim-Bixby-to-Present-at-the-Barclays-Global-Financial-Services-Conference</loc>
+    <lastmod>2020-09-24T15:19:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.geekwire.com/2020/breonna-taylor-case-sparks-amazon-web-services-ceo-tweet-need-police-culture-change/</loc>
     <lastmod>2020-09-24T14:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1687,8 +1693,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace/article_f6c327bd-10d4-5df0-beed-77fd9ceef60a.html</loc>
-    <lastmod>2020-09-22T05:30:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572</loc>
+    <lastmod>2020-09-22T05:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2031,6 +2037,12 @@
   <url>
     <loc>https://www.forbes.com/sites/priyashukla/2020/09/19/this-new-ai-technology-could-prevent-ships-from-colliding-with-whales/</loc>
     <lastmod>2020-09-19T09:49:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.livemint.com/technology/tech-news/huang-s-law-is-the-new-moore-s-law-and-explains-why-nvidia-wants-arm-11600530134203.html</loc>
+    <lastmod>2020-09-19T08:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2539,6 +2551,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.businesswire.com/news/home/20200916005185/en/Franklin-Templeton-Combines-Award-Winning-Research-with-Machine-Learning-in-New-Goals-Optimization-Engine</loc>
+    <lastmod>2020-09-16T08:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.newsweek.com/elon-musk-tesla-boring-company-vegas-loop-self-driving-electric-cars-warp-drive-1532282</loc>
     <lastmod>2020-09-16T08:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2559,12 +2577,6 @@
   <url>
     <loc>https://venturebeat.com/2020/09/16/aidoc-raises-20-million-more-for-its-computer-vision-medical-tools/</loc>
     <lastmod>2020-09-16T06:14:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://apnews.com/business-wire/b1d5650433984f78b9f53f17f2762438</loc>
-    <lastmod>2020-09-16T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
