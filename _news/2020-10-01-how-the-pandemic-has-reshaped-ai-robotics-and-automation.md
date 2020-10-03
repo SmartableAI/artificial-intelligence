@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/video/how-
 webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/video/how-the-pandemic-has-reshaped-ai-robotics-and-automation/"
 type: article
 quality: 99
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Pandemic Created A Plastics Problem, But AI Can Help"
-    excerpt: "In the wake of COVID-19, single-use plastics and other waste materials are growing, creating an opportunity for waste-to-energy plants, especially those equipped with intelligent systems."
-    publishedDateTime: 2020-09-28T14:02:00Z
-    webUrl: "https://www.forbes.com/sites/mitsubishiheavyindustries/2020/09/28/the-pandemic-created-a-plastics-problem-but-ai-can-help/"
-    ampWebUrl: "https://www.forbes.com/sites/mitsubishiheavyindustries/2020/09/28/the-pandemic-created-a-plastics-problem-but-ai-can-help/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mitsubishiheavyindustries/2020/09/28/the-pandemic-created-a-plastics-problem-but-ai-can-help/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6b775793ae332ea03fe5b4%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AIOps uses AI, automation to boost security"
     excerpt: "As security threats and attempted data breaches increase, more organizations are looking to the IT operations platform for AI-enabled cyber defense."
     publishedDateTime: 2020-09-30T21:10:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/02/facebooks-ai-matches-people-in-ne
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/02/facebooks-ai-matches-people-in-need-with-those-willing-to-assist/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 128
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook open-sources RAG, an AI model that retrieves documents to answer questions"
-    excerpt: "Facebook and AI startup Hugging Face today open-sourced Retrieval Augmented Generation (RAG), a natural language processing model that finds and interprets contextual information to complete a ..."
-    publishedDateTime: 2020-09-28T15:01:00Z
-    webUrl: "https://venturebeat.com/2020/09/28/facebook-open-sources-rag-an-ai-model-that-retrieves-documents-to-answer-questions/"
-    ampWebUrl: "https://venturebeat.com/2020/09/28/facebook-open-sources-rag-an-ai-model-that-retrieves-documents-to-answer-questions/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/28/facebook-open-sources-rag-an-ai-model-that-retrieves-documents-to-answer-questions/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/moderator-e1591354274848.jpeg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Facebook Is Giving Away This Speech Recognition Model For Free"
     excerpt: "Facebook AI recently introduced and open-sourced wav2vec framework for self-supervised learning of representations from raw audio data."
     publishedDateTime: 2020-09-30T11:33:00Z

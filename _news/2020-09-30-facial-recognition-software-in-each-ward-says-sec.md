@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Crown Point looks to install facial recognition cameras to help in COVID-19 contact tracing"
+    excerpt: "A northwestern Indiana city wants to install a facial recognition video network camera system downtown that it hopes will help slow the spread of the coronavirus."
+    publishedDateTime: 2020-10-03T07:57:00Z
+    webUrl: "https://abc7chicago.com/crown-point-contact-tracing-indiana-covid-social-distancing/6727046/"
+    ampWebUrl: "https://abc7chicago.com/amp/crown-point-contact-tracing-indiana-covid-social-distancing/6727046/"
+    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/crown-point-contact-tracing-indiana-covid-social-distancing/6727046/"
+    type: article
+    provider:
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
+    quality: 49
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/6727254_AP_85217790912.png"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "jLTAmnjZy6cW4cHeOhqJVVy/vZzPtIE5yGObGSxY6l51diPn9EV3QklvONNDV87tCeVnZgMdYr1pOh/bO7QiNt0oEkXoZkA5JqUQzCmZkGgQrkIh82ICJ4oXcheEwPsyj5WFm2wv9FlQBFJqoBL0gE35Frrm97QwN7TDbj5jH57vNZHnQGSprPS4uXJTmxSP2VuFYE+yONe8Xgw+1pZ025tszxGJSS4BCLot3g+vwtlR3hNHM2R9YXOuanBVRlcsBbRBYcw2lA5Ow+ByVZ4FjOvVd2jg28Uj1kZk77lLK/rORcoeEfQ9+6tcMSKue64Fqvq+LQsjCl3yB3gT1xUmNT925ACPNUQBg0PZ5NexrxE=;lQUk55G23DmYSaA6/LP2/Q=="
 ---

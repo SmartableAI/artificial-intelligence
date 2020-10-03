@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-home-se
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-to-buy-in-2020/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
         width: 300
         height: 300
+        isCached: true
+  - title: "Crown Point looks to install facial recognition cameras to help in COVID-19 contact tracing"
+    excerpt: "A northwestern Indiana city wants to install a facial recognition video network camera system downtown that it hopes will help slow the spread of the coronavirus."
+    publishedDateTime: 2020-10-03T07:57:00Z
+    webUrl: "https://abc7chicago.com/crown-point-contact-tracing-indiana-covid-social-distancing/6727046/"
+    ampWebUrl: "https://abc7chicago.com/amp/crown-point-contact-tracing-indiana-covid-social-distancing/6727046/"
+    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/crown-point-contact-tracing-indiana-covid-social-distancing/6727046/"
+    type: article
+    provider:
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
+    quality: 49
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/6727254_AP_85217790912.png"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "BkWi9ERe5mFJNZbxpMADeIrv+c+RueSEwUqBWKNmtcZtPJCeteHXc0dw7HU6lLkOt66eVU2XWkTYpUSb1qrQ16cSHbK+qGeCGLfz+NNoYmYtZ3t1QWsrKk5sBNX/xbzXPTV+xDZyfJfsXgFJC8d+zzMsa73wHfITlUX8QpeC02ye7BXYjt0CCk7RkZ+zMeCQk0KDuLNDHfJQDziuctigsPWp/QILPJbqDJWtUOXCw8V1sCPCG2C+ABgWc9ixyqWKH7EGHCdsIFb6zyd/A2cz+IGiysEGSJPsm5CK5Lcac2LR3s3cY6FgK+G86hArEykB/DzHEB4Tk4gFv/8UqtfInOmcX0ZNzxsSRTA/1bxG64RO6/+5cMFnNKZVFnSCETqmbx3+hbfld1+1dUxYaa3L51tJ6abHkeVqHr9Igs4/p1rb3wMfoe2tL/uZC8FWBnfbWklB71lrELRyraB5ZngiHccXPtzhWeyV4mkgqT3dl7iEKnGtW8UuY4O7QMgvN4XqWl/kH9ge4r7zB6e8b0I/Fw==;F3fNi2CCO8wkkvGUmTOp+g=="

@@ -2,6 +2,107 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-09-08-global-edge-artificial-intelligence-ai-chip-market-2020-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2025.md",
+      "title": "Global Edge Artificial Intelligence (AI) Chip Market 2020 Research Analysis on Competitive landscape and Key Vendors, Forecast by 2025",
+      "excerpt": "MarketsandResearch.biz has published a new report titled, Global Edge Artificial Intelligence (AI) Chip Market",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2020-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2025-2020-09-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2020-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2025-2020-09-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-07T13:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-07-kick-ass-creator-mark-millar-backs-ai-cameras-in-scottish-football.md",
+      "title": "Kick-Ass creator Mark Millar backs AI cameras in Scottish football",
+      "excerpt": "Ass and Wanted to the big screen, and now he's taking Albion Rovers to your living room via robot cameras. Comic book writer and Hollywood producer Mark Millar is behind a far-out idea that will transport fans to Cliftonhill and other lower league grounds throughout Scotland.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/sport/football/54062392",
+      "originalUrl": "https://www.bbc.com/sport/football/54062392",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/A8F9/production/_114275234_gettyimages-479336231.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/sport/amp/football/54062392",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/sport/amp/football/54062392",
+      "publishedDateTime": "2020-09-07T09:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-07-this-us-based-healthcare-startup-is-saving-healthcare-cost-by-unifying-patient-records.md",
       "title": "This US-Based Healthcare Startup Is Saving Healthcare Cost By Unifying Patient Records",
       "excerpt": "Till date, Innovaccer has saved over $600 million in healthcare cost and has unified records for over 24 million lives",
@@ -1076,90 +1177,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-07-face-masks-and-facial-recognition-will-both-be-common-in-the-future-how-will-they-co-exist.md",
-      "title": "Face masks and facial recognition will both be common in the future. How will they co-exist?",
-      "excerpt": "One consequence of this is that facial recognition systems in place for security and crime prevention may no longer be able to fulfil their purpose. In Australia, most agencies are silent about ...",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/face-masks-and-facial-recognition-will-both-be-common-in-the-future-how-will-they-co-exist-144417",
-      "originalUrl": "https://theconversation.com/face-masks-and-facial-recognition-will-both-be-common-in-the-future-how-will-they-co-exist-144417",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/353221/original/file-20200817-24-10qf4oa.png?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=267&fit=crop",
-          "width": 320,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/face-masks-and-facial-recognition-will-both-be-common-in-the-future-how-will-they-co-exist-144417",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/face-masks-and-facial-recognition-will-both-be-common-in-the-future-how-will-they-co-exist-144417",
-      "publishedDateTime": "2020-09-06T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-07-dubais-rta-applies-ai-machine-learning-to-plan-better-bus-routes.md",
-      "title": "Dubai’s RTA applies AI, machine learning to plan better bus routes",
-      "excerpt": "Dubai’s Roads and Transport Authority (RTA) has begun experimenting on the use of Artificial Intelligence technologies and machine learning algorithms in plotting bus routes in Dubai, according to officials.",
-      "sourceUrl": null,
-      "webUrl": "https://english.alarabiya.net/en/News/gulf/2020/09/07/Dubai-s-RTA-applies-AI-machine-learning-to-plan-better-bus-routes",
-      "originalUrl": "https://english.alarabiya.net/en/News/gulf/2020/09/07/Dubai-s-RTA-applies-AI-machine-learning-to-plan-better-bus-routes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://vid.alarabiya.net/images/2020/09/07/77e067e1-6e24-4fe5-aa30-05cb9ad7de20/77e067e1-6e24-4fe5-aa30-05cb9ad7de20_16x9_600x338.jpg?width=466",
-          "width": 466,
-          "height": 262,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://english.alarabiya.net/en/amp/News/gulf/2020/09/07/Dubai-s-RTA-applies-AI-machine-learning-to-plan-better-bus-routes",
-      "cdnAmpWebUrl": "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/en/amp/News/gulf/2020/09/07/Dubai-s-RTA-applies-AI-machine-learning-to-plan-better-bus-routes",
-      "publishedDateTime": "2020-09-06T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "العربية.نت",
-        "domain": "alarabiya.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -3,8 +3,8 @@ category: news
 title: "COVID-19 and Mining Social Media - Enabling Machine Learning Workloads with Big Data"
 excerpt: "In this article, author Adi Pollock discusses how to enable machine learning workloads with big data to query and analyze COVID-19 tweets to understand social sentiment towards COVID-19."
 publishedDateTime: 2020-10-02T15:51:00Z
-originalUrl: "https://www.infoq.com/articles/covid-social-media-machine-learning/?topicPageSponsorship=aa1a9092-c441-486c-8c69-4416fca4b422&itm_source=articles_about_architecture-design&itm_medium=link&itm_campaign=architecture-design"
-webUrl: "https://www.infoq.com/articles/covid-social-media-machine-learning/?topicPageSponsorship=aa1a9092-c441-486c-8c69-4416fca4b422&itm_source=articles_about_architecture-design&itm_medium=link&itm_campaign=architecture-design"
+originalUrl: "https://www.infoq.com/articles/covid-social-media-machine-learning/?topicPageSponsorship=9ee9cabb-978d-4b65-9c62-dba6f9b389b3&itm_source=articles_about_architecture-design&itm_medium=link&itm_campaign=architecture-design"
+webUrl: "https://www.infoq.com/articles/covid-social-media-machine-learning/?topicPageSponsorship=9ee9cabb-978d-4b65-9c62-dba6f9b389b3&itm_source=articles_about_architecture-design&itm_medium=link&itm_campaign=architecture-design"
 type: article
 quality: 34
 heat: -1
@@ -165,6 +165,6 @@ related:
       domain: edweek.org
     quality: 4
 
-secured: "o8A7OJy9nPEaVa+5RKMCBUIA2e3FxgocEh9mf2QnYSYYyGIFAXulrHFXhat7qhZdozehoQO6UDrSyFWbodERHPF2R8oPDvdWh0qID+NWtqax5hpGGfLqGOEBUMlx+ig512uG0nplXyUPDmCC2alc+b2xsi9LPeIYkj86PvPuyUBuWlE1JfmouVkg/k8PmnjI+ME5OaQsEBDkmOkPbiNwhBIp94IVUyodwugwo7+qYlFYxjMMknWVl0Hm/FCIZO5asOnkHkSkpBgAuGoOCKVeX9ObKumsL2Dtb30pFjmWIq8hdRFN0Lfiu9z0WoCgKq3FHCkHrMRh7EKvRGSL6PgNSG4xaXOOEuQbEF799r9hBgQ=;G0fyFlY3EjBAYpyyPxPodQ=="
+secured: "QDX38rQ0e887dBT7VC+JpSj6uc14wucDefYE42ov79xnczv7Hjy1XY+ylNOFFyIUtjGvvo33bp2Yl6TTdqV1zLcKmksFsW5VGP/hPasLHtjXyMlb8gC1Kr6OxV+22zDlT4X+kB3/A6/VX43MPM/OdXBNfj1K4GwlR6NtGdFF7N+3D81WTjMF99HXDhj/BcH/W0q/8m4yi3FiIoo24Mzj2TRLaiIMUqX0YXqh9aCzzN5Wz6YsFqILEDX0xI/woLjoQTmSJ4CYYbKo+wcEg2gt7TDfne49k7g3Lljq8hG7ZfUvdNQttcX2J3LBOhZTBeN01uq2/WUS0IAkeJXV4wN/cK4Ndvhm5uxae6bv2LvsxI0=;hk2kM7iQuvBsy+EUvF/oHQ=="
 ---
 

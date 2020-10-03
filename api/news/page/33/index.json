@@ -2,6 +2,90 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-09-07-face-masks-and-facial-recognition-will-both-be-common-in-the-future-how-will-they-co-exist.md",
+      "title": "Face masks and facial recognition will both be common in the future. How will they co-exist?",
+      "excerpt": "One consequence of this is that facial recognition systems in place for security and crime prevention may no longer be able to fulfil their purpose. In Australia, most agencies are silent about ...",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/face-masks-and-facial-recognition-will-both-be-common-in-the-future-how-will-they-co-exist-144417",
+      "originalUrl": "https://theconversation.com/face-masks-and-facial-recognition-will-both-be-common-in-the-future-how-will-they-co-exist-144417",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/353221/original/file-20200817-24-10qf4oa.png?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=267&fit=crop",
+          "width": 320,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/face-masks-and-facial-recognition-will-both-be-common-in-the-future-how-will-they-co-exist-144417",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/face-masks-and-facial-recognition-will-both-be-common-in-the-future-how-will-they-co-exist-144417",
+      "publishedDateTime": "2020-09-06T14:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-07-dubais-rta-applies-ai-machine-learning-to-plan-better-bus-routes.md",
+      "title": "Dubai’s RTA applies AI, machine learning to plan better bus routes",
+      "excerpt": "Dubai’s Roads and Transport Authority (RTA) has begun experimenting on the use of Artificial Intelligence technologies and machine learning algorithms in plotting bus routes in Dubai, according to officials.",
+      "sourceUrl": null,
+      "webUrl": "https://english.alarabiya.net/en/News/gulf/2020/09/07/Dubai-s-RTA-applies-AI-machine-learning-to-plan-better-bus-routes",
+      "originalUrl": "https://english.alarabiya.net/en/News/gulf/2020/09/07/Dubai-s-RTA-applies-AI-machine-learning-to-plan-better-bus-routes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://vid.alarabiya.net/images/2020/09/07/77e067e1-6e24-4fe5-aa30-05cb9ad7de20/77e067e1-6e24-4fe5-aa30-05cb9ad7de20_16x9_600x338.jpg?width=466",
+          "width": 466,
+          "height": 262,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://english.alarabiya.net/en/amp/News/gulf/2020/09/07/Dubai-s-RTA-applies-AI-machine-learning-to-plan-better-bus-routes",
+      "cdnAmpWebUrl": "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/en/amp/News/gulf/2020/09/07/Dubai-s-RTA-applies-AI-machine-learning-to-plan-better-bus-routes",
+      "publishedDateTime": "2020-09-06T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "العربية.نت",
+        "domain": "alarabiya.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-07-how-ai-will-automate-cybersecurity-in-the-post-covid-world.md",
       "title": "How AI will automate cybersecurity in the post-COVID world",
       "excerpt": "As cybercrime is becoming more lucrative and more automated, we're going to have to depend on automated defenses on the other side.",
@@ -1064,108 +1148,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-05-microsoft-flight-simulator-2020-finally-realizes-the-true-next-generation-potential-of-azure-cloud-computing-in-pc-gaming.md",
-      "title": "Microsoft Flight Simulator 2020 finally realizes the true next-generation potential of Azure cloud computing in PC gaming",
-      "excerpt": "The core of Flight Simulator lies within Azure. From its hyper realistic flight handling to gorgeous visuals,’s cloud computing elevates the game into a technical marvel. In order to “somewhat accurately” create every inch of the entire globe with incredible detail,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/sg/news/microsoft-flight-simulator-2020-finally-realizes-the-true-next-generation-potential-of-azure-cloud-computing-in-pc-gaming",
-      "originalUrl": "https://www.techradar.com/sg/news/microsoft-flight-simulator-2020-finally-realizes-the-true-next-generation-potential-of-azure-cloud-computing-in-pc-gaming",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/jEgL3aGV7nLJiHjAPJYXYU-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/sg/amp/news/microsoft-flight-simulator-2020-finally-realizes-the-true-next-generation-potential-of-azure-cloud-computing-in-pc-gaming",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/microsoft-flight-simulator-2020-finally-realizes-the-true-next-generation-potential-of-azure-cloud-computing-in-pc-gaming",
-      "publishedDateTime": "2020-09-04T11:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-05-yandex-and-uber-spin-off-self-driving-division.md",
-      "title": "Yandex and Uber spin-off self-driving division",
-      "excerpt": "Russian technology company Yandex and American ride-sharing firm Uber partnered to develop self-driving vehicles, but on Friday, the two companies announced they're spinning this joint venture off ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/yandex-uber-self-driving-russia/",
-      "originalUrl": "https://www.cnet.com/news/yandex-uber-self-driving-russia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/U5E9F3OpPEZ6uR4Rhww4QIovyUw=/2019/07/11/66dc6beb-e710-47b0-aa8e-973ad2f335d6/yandex-hyundai-mobis-ogi.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/yandex-uber-self-driving-russia/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/yandex-uber-self-driving-russia/",
-      "publishedDateTime": "2020-09-04T11:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
