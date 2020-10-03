@@ -43,6 +43,20 @@ related:
         width: 800
         height: 453
         isCached: true
+  - title: "PM to inaugurate Global Virtual Summit on Artificial Intelligence"
+    excerpt: "Aiming to drive India's vision for social transformation through responsible AI, the Ministry of Electronics and Information Technology (MeitY) and NITI Aayog are organizing a Global Virtual Summit on Artificial Intelligence (AI),"
+    publishedDateTime: 2020-10-03T11:05:00Z
+    webUrl: "https://knnindia.co.in/news/newsdetails/sectors/pm-to-inaugurate-global-virtual-summit-on-artificial-intelligence"
+    type: article
+    provider:
+      name: knnindia.co.in
+      domain: knnindia.co.in
+    quality: 39
+    images:
+      - url: "https://knnindia.co.in/uploads/newsfiles/PM-Modi-AI-3-10-2020.jpg"
+        width: 500
+        height: 344
+        isCached: true
 
 secured: "CKDo8bsXUDguHypBZZUgEELZLeLakh7pqzV55dMW88Tl/Kk4dQDAQXRv4JOyqTaqqyanECUOZfr4SzJdVsDDYkn90e14WadjS3DcGKn3VVidPpcgHbAWVpBA1p0sThOjIy2B45qknbd2h/mt8yU044g9gJOFD3mMNXO5s2P/KyxVnpBmjaXI+ZRC25wuLBiZDgVEbiep1spimND8VQoPjzrsptv+1kFZDI9CYOiJlLiL1q8pZ6245hmGbEEdBGe7wxktj8Y5Aaq2eFFSjyZciCC3Cs+lDKZ+Kk2hwU0e/XO75T4nQ1PV9JvN9gwwPopCPn3InWo1wRp4psibB1OeubB5Sb/HOOCYbvh4JrDCUlE=;XHB1OQQpDyxNrMb0Tsp7wg=="
 ---

@@ -41,6 +41,22 @@ related:
         width: 796
         height: 419
         isCached: true
+  - title: "Voice AI Redefines The Future Of Patient Interactions"
+    excerpt: "In the past decade, the fundamental structure of healthcare management has changed radically. The industry has become more consumer-driven with a focus on providing personalized patient care. On the other hand,"
+    publishedDateTime: 2020-10-03T11:14:00Z
+    webUrl: "https://inc42.com/buzz/voice-ai-redefines-the-future-of-patient-interactions/"
+    ampWebUrl: "https://inc42.com/buzz/voice-ai-redefines-the-future-of-patient-interactions/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/voice-ai-redefines-the-future-of-patient-interactions/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 59
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2020/10/Untitled-design-2020-10-03T142535.041.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "v2f0by1gNLNEgQs2UGpkrjcObr5j51MJzi//CO8nP0AJ3mxzrvNYYI/e+4ep0t5QPxaK6ZrzTJCOrDp02qs4ob4UUC37E0eYEZZ4cxmAwZCXPNdDxJpVy3TSITonyDDnLy0SGsQwjYSrxdz0CoajkgyQsGRb/Mb94q7XCuodLUlSkQYu1Hkoied5iaEumgJV2AEEITYAEcRa23b+SFvxq5evNmCZQKKxfANWMQ7B0ycvZ2RIkKwF7oUDmAQo5JeK61P1Us7oHVUb2wQu1FY9axazzuTtPx1xRQpFN+e+j+4bEUY6eAqJzpxeytxcaf1D26bvTRrITnfAmGHbO1xgCY311t3QYHN/kZT9+d8kyvvugHlq/Ya2C2ajsAVl2wjnRebRyQGVjHlhnvjGnRj6JYiJDcRuthXSIzQ43M4Gx5nVxKoQhA9mx3pQop5LvI3cubJfYxMHLfkZoqWHgTrVU56VnSVFXnc4gTKZ7TIAV7n/oXUJ3ry0DmA2JjqXQzwnLBLAoPF8yHrHPNkQDwldKQ==;Rhe1CVxgHNOB+IOMP3Grqg=="
 ---

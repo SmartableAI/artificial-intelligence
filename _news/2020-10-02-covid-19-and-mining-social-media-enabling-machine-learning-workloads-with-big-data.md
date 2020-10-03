@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-02T15:51:00Z
 originalUrl: "https://www.infoq.com/articles/covid-social-media-machine-learning/?topicPageSponsorship=aa1a9092-c441-486c-8c69-4416fca4b422&itm_source=articles_about_architecture-design&itm_medium=link&itm_campaign=architecture-design"
 webUrl: "https://www.infoq.com/articles/covid-social-media-machine-learning/?topicPageSponsorship=aa1a9092-c441-486c-8c69-4416fca4b422&itm_source=articles_about_architecture-design&itm_medium=link&itm_campaign=architecture-design"
 type: article
-quality: 32
+quality: 34
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://res.infoq.com/articles/covid-social-media-machine-learning/en/headerimage/croppted-eIq7PfpU-1601562447743.jpeg"
@@ -164,6 +165,6 @@ related:
       domain: edweek.org
     quality: 4
 
-secured: "aaubFtoOaAa83bod8td6vf889p2YepDZs7X2AbxeVNFaBmaz0hmXBKPBCXuETypZAcvvc27kMbP0Im7zQNRhD6vcGC25mwhj/irFRYQdmdJpAHFokDU4SDTy8abTp2kKH5kbDAz9mb+bZhZvwaQ2zXh6g1BoiVpYm4mv0B7jhAbg3dB8JnV3emIvdzpfV4tF2N0sJgZyQ8EYQUJZrkYb3VBHgzX7R1RkxNSJbv1rPHvQ0ko9lbSiJXLYfDo9BgMQvjIc0z7I+tmyTcw+mVn53JEu2EGwba6Xe8dx+XIrPTdT48h8qj7JItis9G0MmKZ51x0oaV6bH+JsjU4sWWQuoXpDrrXPfpJw4qCPLI24Fl8=;XWT5mQpoy5PkxbE6zaH56A=="
+secured: "jY/+fMgBLJYYWbE2NN0+rn3Fs8sqOlQSO5aCtzmPVk8S67hUAyGXRQrKWui46PhkMYtuf6aMS+cepO6y6IPypFZQf435QpDsEtW9+NUzcrA1Na7/zOeeN59oRQfeD4sqa2EDKJexnBJ/UUBhtUBHy8cgpTjC7mHBR5j1iguSttH9bghBoj3655XPi3vgMKsORSMx6QYjRqIoGeVeBfFsTopKrpIaglw7DqqmFuNzDCLvCW5JYpuCAAzmz4HfLcX97X19VCoSPHq19fOsRQRUBOnhJ2MSjhmwqkdYv3Ez1AOyuH7FvE8yyzs8dY2HI7g8TxPcnyfQJEJ7eKSwkCFh9NRgTyy2WZ1FAEf9VCL0itSZZBa567dXUL764dRdI0FfS5f90/wZG3IfRajAI0q59vJylV9GjBM4GNr8jIe8+OFS52huP2iT2WnoOEPo76t00PV2ZiQTtsRtKp16u0ND5xxDKjTyeZt+XoaN/0H8HNgBCPpn1s4V2qanRgjHUJbQGu34K6RUxUdHIjiYHfbOyQ==;cpETrDq6RFjIKYjHJcVcBw=="
 ---
 

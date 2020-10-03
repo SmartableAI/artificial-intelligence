@@ -147,7 +147,7 @@ related:
     provider:
       name: InfoQ
       domain: infoq.com
-    quality: 32
+    quality: 34
     images:
       - url: "https://res.infoq.com/articles/covid-social-media-machine-learning/en/headerimage/croppted-eIq7PfpU-1601562447743.jpeg"
         width: 1200

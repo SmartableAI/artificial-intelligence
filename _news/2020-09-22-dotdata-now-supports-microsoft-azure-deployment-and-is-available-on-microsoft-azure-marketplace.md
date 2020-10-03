@@ -1,27 +1,26 @@
 ---
 category: news
 title: "dotData Now Supports Microsoft Azure Deployment and Is Available on Microsoft Azure Marketplace"
-excerpt: "SAN MATEO, Calif., Sept. 22, 2020 /PRNewswire/ -- dotData, focused on delivering full-cycle data science automation and operationalization for"
-publishedDateTime: 2020-09-22T12:29:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572"
-webUrl: "https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572"
+excerpt: "Integration of dotData's AutoML 2.0 platform with Microsoft's highly available, trusted and scalable Azure cloud platform provides increased speed and efficiency of data science and machine learning processes coupled with Azure's strong managed IaaS/PaaS ..."
+publishedDateTime: 2020-09-22T12:30:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace/article_f6c327bd-10d4-5df0-beed-77fd9ceef60a.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace/article_f6c327bd-10d4-5df0-beed-77fd9ceef60a.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - Machine Learning
-  - AI
   - Microsoft AI
+  - AI
 
-secured: "z++wVv7Kic7xi5SiF4QIjxukKG3Pww3W+dAQvHesvKRhmZw0s4blyaKx87cPPn6Edz5J3NXG2tSvu1vZQhtsULIIKvZVtpZz2BPgOP6P89PI/2flpCADdI+tPauoE6fd84yHNP5BjvNoYD1L8fEKUV9YLxiaSUm5yTFv2ka9YM8eegKFkiskKS+h6On3so0fK+m4He949VmcdI36LhOVKtzN+Dm4lM/Ii/v94n6t95NY781S5SM8ghhl0sEJ/IkIh8+VJXajItbmz+EuLYPCYIQjSF6fb+vw5T42CG2dticGro+meilHpUtM4XNei7jh/rXQEyDD6bn8hxw7gGeJlERPJGGEB8YgBgz/e+kszaw=;zznQhPvkXdp5gI+gAU9AJw=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "tO1cKahvNn5Oq1d5wpUabCzdacu7PZe1xRVqIJG1ktzYMIRUr42EwX6KPcP8B16T4Z37nlFGiYfD2U/ibbkMDcMO8PB9KWpbiCz93N+XMU9RHmOxqVsnQFpVOwc6mRvDshWX83nFv7SM5ZCnrfA8ok6dnk/ZZLF8+Qg00PD6kZWl9N4llr/e9Qg/b5T1Tca8BRGPFiqIyNWutZhSE+53FPnoZKQ3QoX82KA91JgCGS+TDUXRPyw4EvAxZHbccIIU7BWgnuT3hxQeVHH+2rF4ldfqjemImFNOOp0JriKQJAmggYnFjKQNwIn3uROGzxaN6dmSbO7mvCCMEfGRk0+5IyjdAXIE7J0SSN7iw5JWBnI=;TUasl5Tfhic5inrLIB37Yg=="
 ---
 

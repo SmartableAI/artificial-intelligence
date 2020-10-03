@@ -93,22 +93,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 69
-  - title: "The battle for the telco cloud intensifies as Microsoft announces Azure for Operators"
-    excerpt: "The telco cloud is key to supporting 5G, applying AI to network services, and building an agile infrastructure Microsoft want to be a trusted telco partner"
-    publishedDateTime: 2020-09-28T17:13:00Z
-    webUrl: "https://www.telecomtv.com/content/emerging-tech/the-battle-for-the-telco-cloud-is-joined-as-microsoft-announces-azure-for-operators-39772/"
-    ampWebUrl: "https://www.telecomtv.com/content/emerging-tech/the-battle-for-the-telco-cloud-is-joined-as-microsoft-announces-azure-for-operators-39772/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/emerging-tech/the-battle-for-the-telco-cloud-is-joined-as-microsoft-announces-azure-for-operators-39772/amp/"
-    type: article
-    provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 67
-    images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/cloud-native-telco-bg-web-8390.jpg?w=1200"
-        width: 1050
-        height: 750
-        isCached: true
   - title: "Microsoft Translator now support Assamese language"
     excerpt: "The service is available on Microsoft Translator app, add-ins, Office 365, Bing Translator, and through the Azure Cognitive Services Translator API for businesses and developers. Users can translate Assamese text, supported by more than 70 languages ..."
     publishedDateTime: 2020-09-30T18:54:00Z
@@ -138,20 +122,6 @@ related:
       - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "Microsoft launches Azure for Operators to expand connectivity"
-    excerpt: "Microsoft announced intent to expand connectivity, including 5G, by working with network operators to launch Azure for Operators"
-    publishedDateTime: 2020-09-28T18:51:00Z
-    webUrl: "https://www.information-age.com/microsoft-launches-azure-for-operators-expand-connectivity-123491849/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 54
-    images:
-      - url: "https://s27389.pcdn.co/wp-content/uploads/2020/09/microsoft-launches-azure-for-operators-expand-connectivity.jpeg"
-        width: 1080
-        height: 675
         isCached: true
   - title: "Microsoft Obtains Exclusive License for GPT-3 AI Model"
     excerpt: "Microsoft announced an agreement with OpenAI to license OpenAI's GPT-3 deep-learning model for natural-language processing (NLP). Although Microsoft's announcement says it has \"exclusively\" licensed the model,"
@@ -194,20 +164,6 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/AttenaSkyBig.jpg"
         width: 1665
         height: 1158
-        isCached: true
-  - title: "Microsoft unveils Azure for Operators in most aggressive cloud telco pursuit to date"
-    excerpt: "Microsoft has announced the launch of Azure for Operators to begin what the company calls 'a new chapter' in its telecoms industry collaboration."
-    publishedDateTime: 2020-09-28T17:53:00Z
-    webUrl: "https://cloudcomputing-news.net/news/2020/sep/28/microsoft-unveils-azure-for-operators-in-most-aggressive-cloud-telco-pursuit-to-date/"
-    type: article
-    provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 47
-    images:
-      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2020/03/iStock-458544341_dqOApoY.jpg"
-        width: 1254
-        height: 836
         isCached: true
   - title: "Microsoft Translator now supports Assamese too"
     excerpt: "Microsoft India said on Wednesday that it has added Assamese as the latest Indian language in Microsoft Translator, increasing the number of Indian languages it supports to 12. The Azure-based service will now provide real-time translation and transliteration support for the language."

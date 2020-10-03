@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Sycomp launches an unmatched cloud data experience with Sycomp Storage Fueled by IBM Spectrum Scale on Azure"
-excerpt: "Sycomp today introduces the first IBM Spectrum Scale solution on Azure. Sycomp Storage Fueled by IBM Spectrum Scale, a new cloud storage solution now available on the Microsoft Azure Marketplace. Sycomp Storage Fueled by IBM Spectrum Scale enables organizations to utilize different storage tiers,"
-publishedDateTime: 2020-10-01T15:00:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-cloud-computing-it-conglomerates-information-technology-2c24e5e9c07ed40ce3b962089e8df224"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-cloud-computing-it-conglomerates-information-technology-2c24e5e9c07ed40ce3b962089e8df224"
+excerpt: "Sycomp today introduces the first IBM Spectrum Scale solution on Azure. Sycomp Storage Fueled by IBM Spectrum Scale, a new cloud storage"
+publishedDateTime: 2020-10-01T15:23:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/sycomp-launches-an-unmatched-cloud-data-experience-with-sycomp-storage-fueled-by-ibm-spectrum-scale/article_d6d52ced-9668-5c43-825d-e0bcaf90702a.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/sycomp-launches-an-unmatched-cloud-data-experience-with-sycomp-storage-fueled-by-ibm-spectrum-scale/article_d6d52ced-9668-5c43-825d-e0bcaf90702a.html"
 type: article
 quality: 20
 heat: 20
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/79/279ff7f9-501f-5469-ae1c-7e43ac3af324/5f75f6281233c.image.jpg?resize=400%2C302"
+    width: 400
+    height: 302
     isCached: true
 
-secured: "WkBt4Xmq3Nlcu7JR5XKghj/rrwSAjCFuWO78vrzMzrBr9njMivzqK9TbISN+8tGFKluAo6G6iH57BvJqg50FNbs13X84xUKPDcWwg1QaOqcQo/8xzXgwjkk3Q772RiRUW+7gwx+q5SZMGmAvQBLbv/ZNfdL7ydFLvBUkeH9w/gznvEwjImmLxY2yvdojsE+gZINGFhMTR8FPQmtIrYTAgu/Ivz31mJ5L0CqTRaUXe+bs6I1WhWanZoK0RQsl47YZOn0mkMsxzHJKoXDZyQwiNd1MjzTQIxLEqi0r6AgdRMDvIoWkiMnCVL7Pk7IFI8+mzUUu9kKchuhmPilUHKmNFNxqXwKc50O59r+RPhMjOjw=;l6lMiSUmgyfZaLQfeGHWZQ=="
+secured: "R4kasklzqB9cFuYCn8pSMBcahh8EGe+6lICbzvqN28p9mgC2KS+xTDcXuyCtl1ogZZnkc2qfsqXV8/c2S8hSLslU3U3O99MSdlBKSdM/D3sX2RNyT6q/ukq8qIUDSUpSi4CdiMmF1MCNmVHyyU6gx+BlNq+mwDsjuDHBhQmBpWC8vJ7l2unCnnZvKzcKtdZBCzhrwQpt2dEo/QLOrc7UeMMwLGv74cb/EtshTRitK/9eS4sDB0pnL7lMobRoZWZnp89imhQP93zpPD230tnIo5q2ssXPHSOk3+Q3XPyUcupjM9izfQwWBnICC+1yK+FrL/iqqPh03IbSH34cucMzV9iKgyTSxSEWgr8+piWupOI=;HYxhRfget///bP0rilhdfw=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://m.freepressjournal.in/article/india/pm-modi-to-inaugurate-gl
 cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/india/pm-modi-to-inaugurate-global-summit-on-artificial-intelligence-on-oct-5/874fdda3-15a7-40ed-866a-b14d3946b9f2"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Free Press Journal
@@ -41,6 +41,20 @@ related:
       - url: "https://cdn.newsserve.net/newsR256.png"
         width: 256
         height: 256
+        isCached: true
+  - title: "PM to inaugurate Global Virtual Summit on Artificial Intelligence"
+    excerpt: "Aiming to drive India's vision for social transformation through responsible AI, the Ministry of Electronics and Information Technology (MeitY) and NITI Aayog are organizing a Global Virtual Summit on Artificial Intelligence (AI),"
+    publishedDateTime: 2020-10-03T11:05:00Z
+    webUrl: "https://knnindia.co.in/news/newsdetails/sectors/pm-to-inaugurate-global-virtual-summit-on-artificial-intelligence"
+    type: article
+    provider:
+      name: knnindia.co.in
+      domain: knnindia.co.in
+    quality: 39
+    images:
+      - url: "https://knnindia.co.in/uploads/newsfiles/PM-Modi-AI-3-10-2020.jpg"
+        width: 500
+        height: 344
         isCached: true
 
 secured: "dsR6/lhn2La8bUbHh9nLk4QIpJ0pUqfbGz12C1ZkC++kyWA+WdCdd4tk30t055x2iseluZK2Q9l7AdIpQZHMj3J19GSaHa+i6n8Rq8rCuU9clf/Uxmuok9842Qxa2yd54mCT1wzIAZYc/bfiRb3Z/SnqvERyn71jwlKrp2Wo132aHV4JP5CdmipYnstMzdUKZ0hsWFK4WxFH2QvPXRAX1MkMIhSYFfixhb9Pm68SBL7ba1VpYRmgIw/CQ26xkUlbQrMsA1L1rozTxL1RNwOjBlczX5iXuJxgi6hz0GRwaLqsfDD14qbkXbTqqzHAz0e8791Wde2sNO8HrcW5kLWhOD+6ZTP3NgDWrD5aCz2QZNM=;qWUpdZRTpYunAixAWLbhbA=="

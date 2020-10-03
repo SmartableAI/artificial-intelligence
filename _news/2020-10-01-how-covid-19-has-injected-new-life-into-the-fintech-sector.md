@@ -75,6 +75,22 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "Fintech Harvest to Offer AI and Machine Learning enhanced Financial Wellness Reports"
+    excerpt: "US-based Fintech firm Harvest is reportedly planning to transform the existing credit scoring systems. Like many other Fintechs, Harvest will be using artificial intelligence (AI) and machine learning (ML) algorithms to offer clients a dynamic view of ..."
+    publishedDateTime: 2020-10-03T11:46:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/10/167534-fintech-harvest-to-offer-ai-and-machine-learning-enhanced-financial-wellness-reports/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/10/167534-fintech-harvest-to-offer-ai-and-machine-learning-enhanced-financial-wellness-reports/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/167534-fintech-harvest-to-offer-ai-and-machine-learning-enhanced-financial-wellness-reports/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 69
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/09/Harvest-Mow-Farm-600x450.jpeg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "S.Korean FinTech Kakao Pay Preps For IPO"
     excerpt: "Kakao Pay is set to be the first South Korean FinTech working with mobile payments to undertake an IPO. The company is likely to be valued at $8.5 billion."
     publishedDateTime: 2020-10-01T03:18:00Z

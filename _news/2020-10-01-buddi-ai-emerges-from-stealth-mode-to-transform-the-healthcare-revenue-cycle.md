@@ -67,6 +67,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Anthem extends partnership with AI startup to increase digital health offerings"
+    excerpt: "Anthem is extending its partnership with artificial intelligence platform doc.ai to help the Indianapolis-based payer grow its digital health offerings, according to a Sept. 29 news release. Anthem and doc."
+    publishedDateTime: 2020-10-02T18:14:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-transformation/anthem-extends-partnership-with-ai-startup-to-increase-digital-health-offerings.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 33
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/3.jpg"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "9Azn7nBgLsBcT0x9zo1fWKV2D/bSZm576wnRI9jer9vvl3uFqA5nV3xGV1W+lMtjAsn3vO35oFMwrSqeWbD/geo59SE3z0ZCDz4dz7YLH+eZFdo7BROUHF019CQ9EwffKCFbjEyC6ACtkkaclz2i5Uv51sFepxJC5Vf+MbAUom2RPWF94TyDMvgbDpznfWd3ee3k/qzXWu1/K8J7cgEGhBGS3iwKI4ahJMl/UANO0lMAXYP3n7jxBS6+sXn7ba0yf3KMhRPG7/ktXuVKRvGWX6/4aYEbYy/DGkfwaXZFJQOM3qOIPitSrRgwktOas7iGtDh9AG4nL8yaF8lavIGqkWL8ZjJHW5Uh7yH5w3+3rug=;WJ8tR0RJq2nsoIGUUtRXnQ=="
 ---

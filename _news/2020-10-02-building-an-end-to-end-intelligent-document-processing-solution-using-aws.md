@@ -29,34 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Moving from notebooks to automated ML pipelines using Amazon SageMaker and AWS Glue"
-    excerpt: "A typical machine learning (ML) workflow involves processes such as data extraction, data preprocessing, feature engineering, model training and evaluation, and model deployment. As data changes over time, when you deploy models to production, you want your model to learn continually from the stream"
-    publishedDateTime: 2020-09-28T18:56:42Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/moving-from-notebooks-to-automated-ml-pipelines-using-amazon-sagemaker-and-aws-glue/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 115
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/24/1-Retraining-Pipeline.jpg"
-        width: 1000
-        height: 623
-        isCached: true
-  - title: "Onboarding Amazon SageMaker Studio with AWS SSO and Okta Universal Directory"
-    excerpt: "In 2019, AWS announced Amazon SageMaker Studio, a unified integrated development environment (IDE) for machine learning (ML) development. You can write code, track experiments, visualize data, and perform debugging and monitoring within a single, integrated visual interface. Amazon SageMaker Studio supports"
-    publishedDateTime: 2020-10-01T18:57:14Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/onboarding-amazon-sagemaker-studio-with-aws-sso-and-okta-universal-directory/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 101
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/01/FeatureImage.jpg"
-        width: 900
-        height: 450
-        isCached: true
   - title: "Using Amazon Rekognition Custom Labels and Amazon A2I for detecting pizza slices and augmenting predictions"
     excerpt: "Customers need machine learning (ML) models to detect objects that are interesting for their business. In most cases doing so is hard as these models needs thousands of labelled images and deep learning expertise. &nbsp;Generating this data can take months to gather, and can require large teams of labelers"
     publishedDateTime: 2020-09-30T21:30:12Z
@@ -71,19 +43,47 @@ related:
         width: 900
         height: 424
         isCached: true
-  - title: "Running on-demand, serverless Apache Spark data processing jobs using Amazon SageMaker managed Spark containers and the Amazon SageMaker SDK"
-    excerpt: "Apache Spark is a unified analytics engine for large scale, distributed data processing. Typically, businesses with Spark-based workloads on AWS use their own stack built on top of Amazon Elastic Compute Cloud (Amazon EC2), or Amazon EMR to run and scale Apache Spark, Hive, Presto, and other big data"
-    publishedDateTime: 2020-09-29T16:41:35Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/running-on-demand-serverless-apache-spark-data-processing-jobs-using-amazon-sagemaker-managed-spark-containers-and-the-amazon-sagemaker-sdk/"
+  - title: "How to avoid disasters like Amazon’s Rekognition"
+    excerpt: "One way to avoid disastrous AI systems in the wild might be to build responsible operation into the programs from the start, professor Sergey Levine of U.C. Berkeley told ZDNet. He has a plan to ..."
+    publishedDateTime: 2020-10-01T15:55:00Z
+    webUrl: "https://www.zdnet.com/video/how-to-avoid-disasters-like-amazons-rekognition/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 71
+    images:
+      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2020/10/01/12df13b7-db78-4236-b526-0836a495301d/thumbnail/770x578/e48e8f2ba67ef4f816f263bed808b4ef/20200923-tiernan-karen-ai.jpg"
+        width: 770
+        height: 578
+        isCached: true
+  - title: "Creating a multi-department enterprise search using custom attributes in Amazon Kendra"
+    excerpt: "An enterprise typically houses multiple departments such as engineering, finance, legal, and marketing, creating a growing number of documents and content that employees need to access. Creating a search experience that intuitively delivers the right information according to an employee’s role, and the"
+    publishedDateTime: 2020-10-01T23:07:17Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/creating-a-multi-department-enterprise-search-using-custom-attributes-in-amazon-kendra/"
     type: article
     provider:
       name: AWS
       domain: aws.amazon.com
-    quality: 69
+    quality: 66
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/25/1-Flowchart-4.jpg"
-        width: 441
-        height: 531
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/29/1-Architecture-3-759x630.jpg"
+        width: 759
+        height: 630
+        isCached: true
+  - title: "Amazon Reveals New Palm Recognition Tech for Stores"
+    excerpt: "It’s a strange question born out of an even stranger premise from the e-tailer, which hopes to seed its new palm recognition technology at physical retail stores. On Tuesday, Amazon unveiled Amazon One,"
+    publishedDateTime: 2020-09-29T21:03:00Z
+    webUrl: "https://wwd.com/business-news/technology/amazon-one-palm-recognition-retail-stores-1234612528/"
+    type: article
+    provider:
+      name: Women's Wear Daily
+      domain: wwd.com
+    quality: 24
+    images:
+      - url: "https://pmcwwd.files.wordpress.com/2020/09/dior-extintion-rebellion-sf.jpg?w=394&h=263&crop=1"
+        width: 394
+        height: 263
         isCached: true
 
 secured: "A2+KoTxdAZ2+mtN/3yRhAEtn2UaqRmatejchDAxxke8tJz/DSfUUm9QFLjWCFF/xHsly13OXiuqJORpGN0PVeVKSWjIDRotxu2sZ+SVowdl9K8k9Y58Pqe3X9itxjtzizTlGtHcJ4QP+UBeK968l05qa3oU/lZlkxtaA5tfCuNVU1eGzs5H52WWLLCcXJnrEHnT6WOMhw+BCS8smzXhEl1RK/km8Jg1EF8bUcKEzR1D17zJCxGRWhi4r6LP/uB0M/t6ofWLYe0Ny+0CruDCpGX073Pos65kArAQx5wLgdLlSvq1vOTihd5QLbttyilXSFas1+v6YlYjGmESyv92Soxis+HUqaY5pDODxBbB5a64=;eCahIGG0zCTaD4rfFAsdmQ=="

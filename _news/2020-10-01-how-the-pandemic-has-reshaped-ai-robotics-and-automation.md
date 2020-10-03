@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/video/how-
 webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/video/how-the-pandemic-has-reshaped-ai-robotics-and-automation/"
 type: article
 quality: 99
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://420intel.com/sites/default/files/field/image/newwwlumigrow-greenhouse.jpg"
         width: 700
         height: 442
-        isCached: true
-  - title: "How data and AI will shape the post-pandemic future"
-    excerpt: "Data science and AI are not only accelerating COVID-19 research and recovery today but helping organizations uncover insights and opportunities to succeed in the new normal."
-    publishedDateTime: 2020-09-28T17:44:00Z
-    webUrl: "https://www.cio.com/article/3575856/how-data-and-ai-will-shape-the-post-pandemic-future.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 37
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/09/data-ai-postpandemic-1-100859727-large.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Harnessing big data and artificial intelligence to predict future pandemic spread"
     excerpt: "During COVID-19, artificial intelligence (AI) has been used to enhance diagnostic efforts, deliver medical supplies and even assess risk factors from blood tests. Now, artificial intelligence is being used to forecast future COVID-19 cases."
