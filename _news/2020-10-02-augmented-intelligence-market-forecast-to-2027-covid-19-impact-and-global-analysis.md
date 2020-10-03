@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/augmented-intellig
 webUrl: "https://markets.businessinsider.com/news/stocks/augmented-intelligence-market-forecast-to-2027-covid-19-impact-and-global-analysis-1029643338"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -22,19 +22,19 @@ topics:
   - AI
 
 related:
-  - title: "Face Recognition Systems Market Size, Share Report 2020 Shipments, Price, Revenue and Gross profit till 2025 With Impact of COVID-19"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Face Recognition Systems Market”"
-    publishedDateTime: 2020-09-28T11:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-size-share-report-2020-shipments-price-revenue-and-gross-profit-till-2025-with-impact-of-covid-19-2020-09-24"
+  - title: "How the intelligence-based health system will become critical to meet patient needs today and post-Covid-19"
+    excerpt: "To enable greater health access, the healthcare industry must modernize. We need systems rooted in intelligence for a healthier tomorrow."
+    publishedDateTime: 2020-09-29T20:35:00Z
+    webUrl: "https://medcitynews.com/2020/09/how-the-intelligence-based-health-system-will-become-critical-to-meet-patient-needs-today-and-post-covid-19/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 6
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://medcitynews.com/uploads/2017/02/GettyImages-172595086.jpg"
+        width: 683
+        height: 512
         isCached: true
 
 secured: "RW76nHPU087STW9/Hv1rcy3c9AAZt+aA+vfUPKzhUI6ZHXg5NXkkdvnTREt/ERPaLJhLL+dAh7UqltWEJHmoXWpeRIdT8G578F6h4VtznXVxclTf9p+GXjEWFdaTLViQKvevBqCgqP1H4Gor69Vus3Aom+cAyGQHFuQzn3bsXn3G2rPBfUR/XKcgTewru9qiPYBJm6Ms0DcpmiXaDfb46P8G6Zu6GZflv0K8qD1vReR532+e7vhgy8wJMIZTGkNpasSlBrH+JpDV1HnfAcvLasvIcqm8c9gpLZFT5f9kpS5pPt6BTZHdjlgjZe2LCs8YMPsfLfGXBb3Yd7YQ7FGi8fBog6ldAlYPUBn4e5Gye3k=;/ii2wlZOn7iOhEOqVDL/4Q=="

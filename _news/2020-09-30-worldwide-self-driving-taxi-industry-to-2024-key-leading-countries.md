@@ -9,8 +9,8 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/worldwide-self-driving-
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/worldwide-self-driving-taxi-industry-to-2024-key-leading-countries-1029636271"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Business Insider
@@ -41,17 +41,6 @@ related:
         width: 740
         height: 416
         isCached: true
-  - title: "Worldwide Voice Recognition Biometrics Market is Forecast to Grow by USD 2.60 Billion During 2020-2024, Progressing at a CAGR of 19%"
-    excerpt: "The \"Global Voice Recognition Biometrics Market 2020-2024\" report has been added to ResearchAndMarkets.com's offering. The voice recognition biometrics market is poised to grow by USD 2.60 billion during 2020-2024 progressing at a CAGR of 19% during the forecast period."
-    publishedDateTime: 2020-09-28T11:23:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/09/g17674891/worldwide-voice-recognition-biometrics-market-is-forecast-to-grow-by-usd-2-60-billion-during-2020-"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17674891"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17674891"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "TZY81xZosnJT5nDw1Z5eQEXgIqwKhw/EKFZ6jzZ6ubKbVAyL98medLbumhUulPXEzpR/36uFxVqjVToDVm8KaFH7s3jZbD9t9yEq3kLt7Nl5yoKVSgir4LuVPemjzA7BMaFxCRM7Kwkx/pq+9W1mejFKgXTlEdZ6E6uT17cLuyxcFFfp38s3uwzS/bqvViFOvMdxUH/p9P8c6WJRbzYTyurdLU7v4SXJOBRs2OT4LHkbFmz8ivVfGCAf+tOQrKEueImjELvhhdp1RCyc2+TSfvIC8G3sFM6rYmf4WLToFgkVZC4tSEBFiHIfskboh5UomQoNZERlB8M4B0/ko/U4V0nW9TMefsfkQuQuUkdo2fs=;2/Gu/Dawa75QhrfJO2plKg=="
 ---

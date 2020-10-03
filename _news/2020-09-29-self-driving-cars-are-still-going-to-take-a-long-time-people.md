@@ -38,17 +38,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 54
-  - title: "Worldwide Voice Recognition Biometrics Market is Forecast to Grow by USD 2.60 Billion During 2020-2024, Progressing at a CAGR of 19%"
-    excerpt: "The \"Global Voice Recognition Biometrics Market 2020-2024\" report has been added to ResearchAndMarkets.com's offering. The voice recognition biometrics market is poised to grow by USD 2.60 billion during 2020-2024 progressing at a CAGR of 19% during the forecast period."
-    publishedDateTime: 2020-09-28T11:23:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/09/g17674891/worldwide-voice-recognition-biometrics-market-is-forecast-to-grow-by-usd-2-60-billion-during-2020-"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17674891"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17674891"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "D0L329tEXcQ8hypN9ncBo32dJ7OJ1MtLfsr8mUHtYQqZJFW/ez6Uo8F2o7V2Xo8gzZMoaS1GVikI+qR81uOzcMwawhW4hl9Iw2Khtt46SAeUkDiTQVHCDS4W48agpAIifododTZD50HjFllPo7ywOM4YzAB2J/0nNZQGMy6LsA7cKNAymJCYfBkhTkSqo8DFgMre6cqHE6aTxwKYhgGjQp90/UclXqAz7Tld9hcg+Y7afZ4uOx29VQdiKPaaW9eKIRkiDwPiGKcOgvgkSvrOUHd0DwLSbOUMthVTldNNgeQ9VhZiNrl0ZaqZdWpG3Fs9jbzUymPx1jZPSE9te/EGv/qtKSMgxh/o4B3kdqV14RhmZV2slxeFHcGYhfZKas9lRP4lfJXkLLrAb5uQ54JqRW2dcDYyzgjtU0+eLJEFyvCfR9AnxDdDkcjioIknZUnapTUbhmI1AMp7nl1WaJCqxzNS4dm0LhkVTC3qQLeFwKXvvPASXHSKxpe7papwMnXCZMHD/+xkGTNMKrG4AsWD5w==;/sam6DSu3kavXhqUz5HjTw=="
 ---

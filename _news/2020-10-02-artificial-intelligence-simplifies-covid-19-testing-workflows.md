@@ -84,20 +84,6 @@ related:
         width: 932
         height: 470
         isCached: true
-  - title: "AI in Manufacturing Market 2020 with COVID-19 Impact Analysis | Upcoming Trends & Forecast Till 2027"
-    excerpt: "The global artificial intelligence (AI) in manufacturing market size is expected to rise owing to increasing demand"
-    publishedDateTime: 2020-09-28T11:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-manufacturing-market-2020-with-covid-19-impact-analysis-upcoming-trends-forecast-till-2027-2020-09-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Innovation with Artificial Intelligence"
     excerpt: "The maritime sector keeps talking enthusiastically about Artificial Intelligence (AI). But what is it really? What is the role of technology in the"
     publishedDateTime: 2020-09-29T13:13:00Z
@@ -140,6 +126,20 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "COVID-19 and Mining Social Media - Enabling Machine Learning Workloads with Big Data"
+    excerpt: "In this article, author Adi Pollock discusses how to enable machine learning workloads with big data to query and analyze COVID-19 tweets to understand social sentiment towards COVID-19."
+    publishedDateTime: 2020-10-02T15:51:00Z
+    webUrl: "https://www.infoq.com/articles/covid-social-media-machine-learning/?topicPageSponsorship=aa1a9092-c441-486c-8c69-4416fca4b422&itm_source=articles_about_architecture-design&itm_medium=link&itm_campaign=architecture-design"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 34
+    images:
+      - url: "https://res.infoq.com/articles/covid-social-media-machine-learning/en/headerimage/croppted-eIq7PfpU-1601562447743.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Olive's AI Workforce to Revolutionize COVID-19 Testing at Tufts Medical Center"
     excerpt: "Olive announced today that it has entered into an agreement to leverage its AI workforce technology to streamline COVID-19 testing operations at Tufts"
     publishedDateTime: 2020-09-29T13:49:00Z
@@ -153,20 +153,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/bc/1bcafd02-270b-518b-b8f7-346d623f0f45/5f7334f027ff7.image.jpg?resize=400%2C210"
         width: 400
         height: 210
-        isCached: true
-  - title: "COVID-19 and Mining Social Media - Enabling Machine Learning Workloads with Big Data"
-    excerpt: "In this article, author Adi Pollock discusses how to enable machine learning workloads with big data to query and analyze COVID-19 tweets to understand social sentiment towards COVID-19."
-    publishedDateTime: 2020-10-02T15:51:00Z
-    webUrl: "https://www.infoq.com/articles/covid-social-media-machine-learning/?topicPageSponsorship=9ee9cabb-978d-4b65-9c62-dba6f9b389b3&itm_source=articles_about_architecture-design&itm_medium=link&itm_campaign=architecture-design"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 32
-    images:
-      - url: "https://res.infoq.com/articles/covid-social-media-machine-learning/en/headerimage/croppted-eIq7PfpU-1601562447743.jpeg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Personalized Learning and Tech Equity Under COVID-19"
     excerpt: "For older students, COVID-19 opens the doors for deep learning that involves solving a complex problem that might encompass economic, health, and social justice challenges. This discussion will address the steps schools need to take to encourage and ..."

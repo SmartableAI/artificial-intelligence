@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market – Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020-2026"
-    excerpt: "According to a new study published by Polaris Market Research the Global Artificial Intelligence Market is anticipated"
-    publishedDateTime: 2020-09-28T12:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2026-2020-09-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Energy Market 2020 Global Trend, Segmentation and Opportunities Forecast To 2026"
     excerpt: "New Study Reports “Artificial Intelligence in Energy Market 2020 Global Market Opportunities, Challenges, Strategies and Forecasts 2026” has been Added on WiseGuyReports. This report provides in depth study of \"Artificial Intelligence in Energy Market\" using SWOT analysis i."
     publishedDateTime: 2020-09-29T19:09:00Z

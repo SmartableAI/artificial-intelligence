@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/news/world-asia-china-54294193"
 webUrl: "https://www.bbc.com/news/world-asia-china-54294193"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -37,20 +37,6 @@ related:
       name: BBC
       domain: bbc.com
     quality: 47
-  - title: "Ai Weiwei and groomed dogs: Monday's best photos"
-    excerpt: "The Guardian’s picture editors select highlights from around the world"
-    publishedDateTime: 2020-09-28T11:53:00Z
-    webUrl: "https://www.theguardian.com/news/gallery/2020/sep/28/ai-weiwei-and-groomed-dogs-mondays-best-photos"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 37
-    images:
-      - url: "https://i.guim.co.uk/img/media/1b1d28f90f835cb3d1903054ffa6a3f23547d042/0_356_5344_3207/master/5344.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5dc0e615717e9ccc5636a0875205c987"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "1M6ei+80HDR7Gacv3SwI1ueg0ns5Vf4MtznMXgaiv+tGFQFhhBP5926/2YkQzZ1DSaKZHSzY3AireGbkDDT1ZVzSlZLTmDgWKnnDgsKasDR7QRVJFRSRzwboy1j7ciu0imcR/lrNrayWryEkhdkWTgWr9eUeLxg09Gj+VRmNkmQVUfzObaaKHomOdrp9Zm6XZuz2A6RTHnpjiidu0kOg/MnVuyl6BYxZFofH2jyEDGtdj/c6/3wF/plH3wAhG0Ei3Tq80uPZ5IfQEi3s1AfgfwEDlwrn8Tla6CJCPFgHaz6kstZAULlOA/leNv8A0UHkG8xcJsEPRkvGsH15xSN/9GmBjlLzgsJiK5DIVI+Imm4=;/neCMGxFrLaFYQoP2+AIeQ=="
 ---

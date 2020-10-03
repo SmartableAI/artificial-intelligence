@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newindianexpress.com/sport/ipl/news/2020/sep/29/watch-ra
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/sport/ipl/news/2020/sep/29/watch-rahul-tewatia-asked-for-recognition-last-ipl-season-earns-his-moment-in-the-sun-this-year-vide-2203379.amp"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 600
     height: 390
     isCached: true
-
-related:
-  - title: "SEE: When Tewatia had to ask for recognition at Delhi Capitals"
-    excerpt: "When Tewatia had to ask for recognition at Delhi Capitals. In a debriefing video of the 2019 season that has gone viral following his match-winning six-hitting spree on Sunday, Rahul Tewatia, who played for Delhi Capitals last year,"
-    publishedDateTime: 2020-09-28T12:37:00Z
-    webUrl: "https://www.rediff.com/cricket/report/see-when-tewatia-had-to-ask-for-recognition-at-delhi-ipl/20200928.htm"
-    ampWebUrl: "https://m.rediff.com/amp/cricket/report/see-when-tewatia-had-to-ask-for-recognition-at-delhi-ipl/20200928.htm"
-    cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/cricket/report/see-when-tewatia-had-to-ask-for-recognition-at-delhi-ipl/20200928.htm"
-    type: article
-    provider:
-      name: rediff.com
-      domain: rediff.com
-    quality: 44
-    images:
-      - url: "https://im.rediff.com/345-230/cricket/2020/sep/28tewatia2.jpg"
-        width: 345
-        height: 230
-        isCached: true
 
 secured: "6rlAGq5hzpZS24KR3pceraz+3tovTrBQf+aOxKuRvSYkKwnxMPE2rQEvT+lG7PCNJ4fgoUaINq8IFNs/N/+2O1HxV79tbDShwgPkPvWENNYqfJFB9BMdl6IgSARYyvi+qvCymjZL5gssYKnGVPVXW9FHUPYINc4R5tQ+HfQbsnQRqjUHFRb282wtsB/a25OjTaUbo5xVYA5eizh4N4Ph0lwJG82oqK5WAeVkyKHevzLz0W3JXRkCMJhy8iZVktCT8Wv6o4zBaSIISOIlKFVgT9fJH41HWkwwU7XTDaI+zIW8rJ9pyZRJKlWr0H0PjD4c38nFVpt1cHaG94+zN2UfBS5iRmhqXQy7JqGakB5gYhc=;Z6NvFq+HV+RuKnPBQDolMA=="
 ---

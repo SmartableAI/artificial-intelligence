@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market – Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020-2026"
-    excerpt: "According to a new study published by Polaris Market Research the Global Artificial Intelligence Market is anticipated"
-    publishedDateTime: 2020-09-28T12:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2026-2020-09-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI in Health Care: Leading through Change"
     excerpt: "Health care is evolving faster than we could have imagined. We are in the midst of a health care revolution, driven by artificial intelligence (AI). AI is creating a space for innovation and can enable physicians and nurses to work more efficiently and effectively in the face of unprecedented change."
     publishedDateTime: 2020-09-29T15:28:00Z

@@ -1,25 +1,29 @@
 ---
 category: news
 title: "Superwise.ai named a Cool Vendor by Gartner"
-excerpt: "TEL AVIV, Israel, Sept. 30, 2020 /PRNewswire/ -- Superwise.ai, a pioneer of AI assurance and monitoring solutions, today announced that it has been recognized in the Cool Vendors in Enterprise AI ..."
-publishedDateTime: 2020-09-30T16:26:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/09/n17720982/superwise-ai-named-a-cool-vendor-by-gartner"
-webUrl: "https://www.benzinga.com/pressreleases/20/09/n17720982/superwise-ai-named-a-cool-vendor-by-gartner"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17720982"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17720982"
+excerpt: "Superwise.ai, a pioneer of AI assurance and monitoring solutions, today announced that it has been recognized in the Cool Vendors in Enterprise AI Governance by Gartner 1. The report includes the following recommendation: \"Build trust in AI solutions by applying an explainable AI (XAI) approach to holistically address aspects of AI models such as trust,"
+publishedDateTime: 2020-09-30T16:30:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/superwise-ai-named-a-cool-vendor-by-gartner-1029636628"
+webUrl: "https://markets.businessinsider.com/news/stocks/superwise-ai-named-a-cool-vendor-by-gartner-1029636628"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/superwise-ai-named-a-cool-vendor-by-gartner-1029636628"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/superwise-ai-named-a-cool-vendor-by-gartner-1029636628"
 type: article
-quality: 39
-heat: 39
+quality: 69
+heat: 69
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AWS AI
+  - Microsoft AI
   - AI
 
-secured: "eFO1qGt0YuGU/IqydTauTtB+D+v7RSOsbHcT61bROlkVCHfICv6snLz8nGmZPJQ7tDFn3uedYX1VG8Myg3ZRkATaNyd+BS8E2laMSTfrYECtQkFVW1yXHhvRaDd/bb+DqLgCTOK8IOlq5Z1YDpyuDDWXxPX8FkBnBQvXDRfua7wko1vpTXoxzRxXUolA4bsNNggMaVhwrAhN3487kUeQGcuvps8Ybq0fYrLjUN0F09kfqsZ6zNZg6JO/bOuT/L6OoTuyDuvbVtT5ZJSB0swDORJ/1pGw8sQqmxpMmbaeCSz7o0xYEKp/Yy+EfXCMP0X6scFluMkPFq6uAVcM3xR7qfYb0He5EIdRblMo7mK71ww=;GbleJGWohPv3fPVe51XNJg=="
+secured: "TfZpJQ0tjlHFCIy6jCSgjjMvdLMsDC1VCuIMOI6S7I63GY4Bi4bF6f1lcDv/9hWyVOC0BBAQCCRa7+Je7S9V8pLP3vN4fm/ik29HfSXxmXupy57XVRndeQpBtXyBVyTJx3P3zwKSHPdnkzZ0PM7M7bh5TWjEkTGHx5OWBgNOHA7lledx8cJbD7T+ntpGarw3+YUMK7iGST5sbwi+H9jUJdIaqXjHogBPbtpZlqq7/32AGvkmD0hk7qD2e0+67g3MgQgJrSOxjBoAzj1jkHiFTjRQfrW6662o0ANG2V52bifxsPyPP/UuWECduva0xjkKLCk/9qgWNQkDoBQQG3OV7iTRHGoCGWrPOMQK53aiZKw=;WlDUDkBFGWOAPZpEkYpXRg=="
 ---
 

@@ -3,10 +3,10 @@ category: news
 title: "COVID-19 and Mining Social Media - Enabling Machine Learning Workloads with Big Data"
 excerpt: "In this article, author Adi Pollock discusses how to enable machine learning workloads with big data to query and analyze COVID-19 tweets to understand social sentiment towards COVID-19."
 publishedDateTime: 2020-10-02T15:51:00Z
-originalUrl: "https://www.infoq.com/articles/covid-social-media-machine-learning/?topicPageSponsorship=9ee9cabb-978d-4b65-9c62-dba6f9b389b3&itm_source=articles_about_architecture-design&itm_medium=link&itm_campaign=architecture-design"
-webUrl: "https://www.infoq.com/articles/covid-social-media-machine-learning/?topicPageSponsorship=9ee9cabb-978d-4b65-9c62-dba6f9b389b3&itm_source=articles_about_architecture-design&itm_medium=link&itm_campaign=architecture-design"
+originalUrl: "https://www.infoq.com/articles/covid-social-media-machine-learning/?topicPageSponsorship=aa1a9092-c441-486c-8c69-4416fca4b422&itm_source=articles_about_architecture-design&itm_medium=link&itm_campaign=architecture-design"
+webUrl: "https://www.infoq.com/articles/covid-social-media-machine-learning/?topicPageSponsorship=aa1a9092-c441-486c-8c69-4416fca4b422&itm_source=articles_about_architecture-design&itm_medium=link&itm_campaign=architecture-design"
 type: article
-quality: 32
+quality: 34
 heat: -1
 published: false
 
@@ -15,8 +15,9 @@ provider:
   domain: infoq.com
 
 topics:
-  - Machine Learning
+  - Microsoft AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://res.infoq.com/articles/covid-social-media-machine-learning/en/headerimage/croppted-eIq7PfpU-1601562447743.jpeg"
@@ -83,20 +84,6 @@ related:
       - url: "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2020/10/932/470/chest-xray-ai-covid-detection.jpg?ve=1&tl=1"
         width: 932
         height: 470
-        isCached: true
-  - title: "AI in Manufacturing Market 2020 with COVID-19 Impact Analysis | Upcoming Trends & Forecast Till 2027"
-    excerpt: "The global artificial intelligence (AI) in manufacturing market size is expected to rise owing to increasing demand"
-    publishedDateTime: 2020-09-28T11:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-manufacturing-market-2020-with-covid-19-impact-analysis-upcoming-trends-forecast-till-2027-2020-09-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Innovation with Artificial Intelligence"
     excerpt: "The maritime sector keeps talking enthusiastically about Artificial Intelligence (AI). But what is it really? What is the role of technology in the"
@@ -178,6 +165,6 @@ related:
       domain: edweek.org
     quality: 4
 
-secured: "3IbPefwUl7jVb7JEvnzZdQEfOlMIXzWXlTYMI5lRssgYkD5mEptUUmqtwrGiLpLfd8HbQWGDSpI0UcdretnMxYe9bLVX/8lVsjyEhMQSeAuypX6ebpPm8oJPyeQAarOppifsTmQZZ9o22VvQAwaIvZSYgzV1iSF2KcSHw5c0p/rrSOniqctT0rvMEtQn/+dRQ8pXNJqymy1RLlsYKCLf8qRL0sNf0UHefInyvWrxUgsVMfltCt6O0J32+KGRs7eCk5WtL4yS39/pCph2jKxK7Iy0MErgsGIYCgI6lEeArsSUfoXG5uFqgETgmjYAje6e2nFGAR+filn9coNpGB7PCFQic2G67OdMK4OfkKs1SvU=;jadBmloUOk1/T8F2TV/EvA=="
+secured: "o8A7OJy9nPEaVa+5RKMCBUIA2e3FxgocEh9mf2QnYSYYyGIFAXulrHFXhat7qhZdozehoQO6UDrSyFWbodERHPF2R8oPDvdWh0qID+NWtqax5hpGGfLqGOEBUMlx+ig512uG0nplXyUPDmCC2alc+b2xsi9LPeIYkj86PvPuyUBuWlE1JfmouVkg/k8PmnjI+ME5OaQsEBDkmOkPbiNwhBIp94IVUyodwugwo7+qYlFYxjMMknWVl0Hm/FCIZO5asOnkHkSkpBgAuGoOCKVeX9ObKumsL2Dtb30pFjmWIq8hdRFN0Lfiu9z0WoCgKq3FHCkHrMRh7EKvRGSL6PgNSG4xaXOOEuQbEF799r9hBgQ=;G0fyFlY3EjBAYpyyPxPodQ=="
 ---
 
