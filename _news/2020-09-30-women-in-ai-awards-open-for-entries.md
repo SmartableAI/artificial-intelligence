@@ -28,14 +28,14 @@ related:
   - title: "Women Founders of AI Startups Take Aim at Gender Bias"
     excerpt: "They see gender diversity in their companies as crucial in making sure the technology doesn’t penalize the underrepresented."
     publishedDateTime: 2020-09-29T14:36:00Z
-    webUrl: "https://www.wsj.com/articles/women-founders-of-ai-startups-take-aim-at-gender-bias-11601388625"
+    webUrl: "https://www.wsj.com/articles/women-founders-of-ai-startups-take-aim-at-gender-bias-11601388625?mod=hp_featst_pos4"
     ampWebUrl: "https://www.wsj.com/amp/articles/women-founders-of-ai-startups-take-aim-at-gender-bias-11601388625"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/women-founders-of-ai-startups-take-aim-at-gender-bias-11601388625"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://images.wsj.net/im-237380/social"
         width: 1280

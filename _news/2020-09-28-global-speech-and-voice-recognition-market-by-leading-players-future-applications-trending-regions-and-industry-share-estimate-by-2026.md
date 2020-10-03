@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Social Media Market Size, Share, Growth, Trends, Scope and Forecast 2020 to 2030"
-    excerpt: "A new study on the global AI in Social Media Market has been published by Insight Slice. It presents a wealth of information on key market dynamics, including the drivers, market trends, and challenges,"
-    publishedDateTime: 2020-09-28T07:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-size-share-growth-trends-scope-and-forecast-2020-to-2030-2020-09-28?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Market – Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020-2026"
     excerpt: "According to a new study published by Polaris Market Research the Global Artificial Intelligence Market is anticipated"
     publishedDateTime: 2020-09-28T12:58:00Z
@@ -155,20 +141,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Market 2020 with Top Countries Data, Growth Analysis, Applications, Major Drivers, Value and Forecasts till 2026"
-    excerpt: "Global “Voice Recognition Market\" 2020 Research Report provides key analysis on the market status of the Voice"
-    publishedDateTime: 2020-09-28T08:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-2020-with-top-countries-data-growth-analysis-applications-major-drivers-value-and-forecasts-till-2026-2020-09-28?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Data Science and Machine-Learning Platforms Market Analysis, Leading Players, Future Growth, Business Prospects Research Report Foresight To 2026"
     excerpt: "The Data Science and Machine Learning Platforms Market research report includes Market Size Upstream Situation Market Segmentation Data Science and Machine Learning Platforms Market Segmentation Price Cost And Industry Environment In addition the report outlines the factors driving industry growth"
     publishedDateTime: 2020-09-28T14:49:00Z
@@ -185,6 +157,15 @@ related:
         width: 731
         height: 300
         isCached: true
+  - title: "Global Artificial Intelligence Software Market Analysis of Major Segments and Future Opportunity Assessment 2020-2025"
+    excerpt: "The contemporary development prediction report titled Global Artificial Intelligence Software Market 2020 by Company, Regions, Type and Application, Forecast to 2025 provides an all-inclusive research study that covers current facts and statistics about the production and application in the Artificial Intelligence Software market."
+    publishedDateTime: 2020-10-03T00:26:00Z
+    webUrl: "https://ipsnews.net/business/2020/09/30/global-artificial-intelligence-software-market-analysis-of-major-segments-and-future-opportunity-assessment-2020-2025/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 0
 
 secured: "hao8FtJrKpFeB2TueGGjGxqOjiR5ZxoR62HD5Qn/9hsbIS1AaRoNJEWGr/ckTnH8ItnruldVJgesxUZ3KBIzQiWAlXzq/TOB4eXJfN9gracKA+9gvmsOlOk4WHawAwvLZ4PAyRbXdE8abV3u7GMPfSFcUJ+OXY2Tg5LlIlXr8dKtCDPeQa2FA1qz4Fso8W3vOJKVW9k5QaoEOneMtgEiLErNQPcnW2H86Q9Rb21yj+WcmYMQdPBVkon4qcNcoagVLHtFXJygawUOUUuD63LoevjTkK+le9TjJK6zvrVcpIlHh8sU/CfuwYNSVJgJ9SQABddW1TaBCyoQ8dafMReuO8gwCGi2Lbpa5txw+MnY6b0=;2Y4W9Gk6S623c4Um6fUdOQ=="
 ---

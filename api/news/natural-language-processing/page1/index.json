@@ -718,6 +718,48 @@
       ]
     },
     {
+      "path": "_news/2020-09-23-the-next-big-breakthrough-in-ai-will-be-around-language.md",
+      "title": "The Next Big Breakthrough in AI Will Be Around Language",
+      "excerpt": "The 2020s are going to bring major advances in language-based AI tasks. GPT-3, a state-of-the-art natural language processing tool developed by OpenAI, will soon be able to produce short stories, songs,",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2020/09/the-next-big-breakthrough-in-ai-will-be-around-language",
+      "originalUrl": "https://hbr.org/2020/09/the-next-big-breakthrough-in-ai-will-be-around-language",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2020/09/Sep20_23_183428120-4.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2020/09/the-next-big-breakthrough-in-ai-will-be-around-language",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/09/the-next-big-breakthrough-in-ai-will-be-around-language",
+      "publishedDateTime": "2020-09-23T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-microsoft-lands-exclusive-license-for-openais-astonishing-gpt-3-model.md",
       "title": "Microsoft Lands Exclusive License for OpenAI's Astonishing GPT-3 Model",
       "excerpt": "Microsoft is having a hell of a week. On Monday, the company announced a $7.5 billion deal to acquire Zenimax and all of its big video game properties. In one move, the Xbox platform’s future suddenly looked a lot brighter.",
@@ -756,48 +798,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-the-next-big-breakthrough-in-ai-will-be-around-language.md",
-      "title": "The Next Big Breakthrough in AI Will Be Around Language",
-      "excerpt": "GPT-3, a state-of-the-art natural language processing tool developed by OpenAI, will soon be able to produce short stories, songs, press releases, technical manuals, text in the style of ...",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2020/09/the-next-big-breakthrough-in-ai-will-be-around-language?ab=hero-subleft-2",
-      "originalUrl": "https://hbr.org/2020/09/the-next-big-breakthrough-in-ai-will-be-around-language?ab=hero-subleft-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2020/09/Sep20_23_183428120-4.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://hbr.org/amp/2020/09/the-next-big-breakthrough-in-ai-will-be-around-language",
-      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/09/the-next-big-breakthrough-in-ai-will-be-around-language",
-      "publishedDateTime": "2020-09-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

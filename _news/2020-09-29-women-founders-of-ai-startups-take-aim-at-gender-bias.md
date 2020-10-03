@@ -3,13 +3,13 @@ category: news
 title: "Women Founders of AI Startups Take Aim at Gender Bias"
 excerpt: "They see gender diversity in their companies as crucial in making sure the technology doesn’t penalize the underrepresented."
 publishedDateTime: 2020-09-29T14:36:00Z
-originalUrl: "https://www.wsj.com/articles/women-founders-of-ai-startups-take-aim-at-gender-bias-11601388625"
-webUrl: "https://www.wsj.com/articles/women-founders-of-ai-startups-take-aim-at-gender-bias-11601388625"
+originalUrl: "https://www.wsj.com/articles/women-founders-of-ai-startups-take-aim-at-gender-bias-11601388625?mod=hp_featst_pos4"
+webUrl: "https://www.wsj.com/articles/women-founders-of-ai-startups-take-aim-at-gender-bias-11601388625?mod=hp_featst_pos4"
 ampWebUrl: "https://www.wsj.com/amp/articles/women-founders-of-ai-startups-take-aim-at-gender-bias-11601388625"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/women-founders-of-ai-startups-take-aim-at-gender-bias-11601388625"
 type: article
-quality: 87
-heat: 127
+quality: 89
+heat: 129
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
       height: 50
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
@@ -87,6 +88,6 @@ related:
         height: 211
         isCached: true
 
-secured: "yXX8FQW644XOP8OdaKRdTw1rlsWMYCqnzyfMmLVLvGq6TBQVPvG3pZ/+iF94T2C5X7xfr1iWhXEAkrY/Y0J/chuiS082Iu22QyvPw6S93zWYv0O3ixZn4Gh/mjhGDd3qgOc3CHH6OLdSWxlvdW6lR2dytxwOPbLurh2Q4ZstRqE7kgSdbniq64mKr1+X9FTJUaZWrNa0IlwMqEwDp47g2YH0fmPjTd4C03H06Npefuua7MFSTvDdQcsmyt3kR8J9a7wUA+/aKpf6jDlrMlUTjVKwmylTjwys7aHxY+NAojE6pk1AWRriPx8OCzLmFGt9/XdpJKAuIEyP2HV5mwCyeKgPcGVIpk8kDFhcvmeIBlrs1e28qxP8rJBYqXM3LV9GtDOX5o4SieurTaPjENjo5NSwYCF7AubWD5zr02p2DoJfuggCoXtRYmoPrbdmv510wz1MLJLVOVrOjJiiiDKEwnAM1i/kzUMADeZkJi4uEUZnJqpUeHvjLbwI3WGVSqptoQxH+ve24cG1fpgIF7gOzw==;ZG6SWBqe1VADa9ccRRQ/jg=="
+secured: "SYQ7S0P3xiRsesw2GZlawLsYklsZoKCU23xNVFKFtVjUNtvXUCoNAnrQj6d7w/QI+eqWem3wtkMa6DROTPU85Z6xrOX7MkkHjVYbax2pN37PeC04ntDWxiBO65CpcHD0m1tYVg7fGhHlAUM61HRwf/cSJB7kM8joQ7ebinJKsOTMOBBc7JEzhXdETPf7CeFtBoQVH/sNWf8Fdk4/k80Egyjh8odI32Z7JFYXef8HwHtPFRniiGpOK0LdW1YE3f2XRMwz/1jnY+DA3ldt7JB9ekmj0DdTOBLR2vWJ5Oi7imqUNtUlh4K2nOaMrOmZQNL0jfNEvorupaMQzNb47OD08ZxmRMiVTC4JDmVPE/e7TUo=;gHJtAWpM9wG8WXgAmwBS3A=="
 ---
 

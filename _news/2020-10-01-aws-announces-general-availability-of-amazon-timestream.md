@@ -22,9 +22,9 @@ related:
   - title: "Amazon Timestream database is now generally available"
     excerpt: "The latest addition to the AWS database portfolio focuses on time series data – a segment where fit-for-purpose databases are emerging because use cases ranging from IoT to e-commerce are driving data volumes overwhelming general-purpose platforms."
     publishedDateTime: 2020-10-01T12:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/amazon-timestream-database-is-now-generally-available/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazon-timestream-database-is-now-generally-available/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazon-timestream-database-is-now-generally-available/"
+    webUrl: "https://www.zdnet.com/article/amazon-timestream-database-is-now-generally-available/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-timestream-database-is-now-generally-available/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-timestream-database-is-now-generally-available/"
     type: article
     provider:
       name: ZDNet
@@ -45,6 +45,6 @@ related:
         height: 511
         isCached: true
 
-secured: "0SjFANbPz3RmxHSO2JjEeelwPnBFYRkPl+9PeQlS0KuwV5xaBHZL07puMy8DYMn8qmhy74s9qTGocG3IDl8lKn87oSZwi45iIKnbJM1OqQACFE+cKC84OG7/BsnlXed68VIfqaKsyJtaHP0jB/sv8rO+CPZr69S4ExzcZrwImG1vgdKjFAXkOKWbNbTWSPqQaiGXnbceWeJuoxcmB7F3FYk51a3D6LkcAdLzdKUws6T2R26SjOaPKvKdKlJZF/WG3sY8nR08WirSjPhsK8sQcMeRYKBJQGMI/B+r3TXZCb8+TAtgx+G5ugAfCEl90fguOhPH2LKfzCUUup42WCOEXYk1xlPMCjvqOM5KGSl2K30=;J8xbhaf92t2uwBapf+wloA=="
+secured: "f4CerVdxCjXXD/Bgp4Ra02z7dW4wIuuFaOxWYLLCflSp6xHHR45HnEeWyycgY6sO0bm9/Ajwwgjc8Dp7t7ORY+xPsOuj+/WbPZsw5rl8R5ve4TztEz39lJO/wqxbxmhbV/6YQFbvLTXo1aCeZ7XswMzIierhl+lrnnhpHgu5PABsjgFAKjDZUTGTaIVL5OI0tnXA63lVseH4oB1p5M8l1RViaSrfZXQFcJWgCU4ZQ3n/FTmc180XvLE7xUakrDKzppbG8jB0g+/G26w8lg/g7JN8nhj/K1I2Yibu0PDtnQnXTe1FB3nzF2PO+rQA9IAv6QdpAUZLLGwQTKsYJyuyXwxZUosnInIW5tlR2Cn/Fow=;Wc2FdmUe0eAOB27dVk6DOg=="
 ---
 

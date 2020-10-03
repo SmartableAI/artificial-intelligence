@@ -8,8 +8,8 @@ webUrl: "https://www.wired.com/story/ai-help-patients-doctors-understand/"
 ampWebUrl: "https://www.wired.com/story/ai-help-patients-doctors-understand/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-help-patients-doctors-understand/amp"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://media.wired.com/photos/5f7675e3ff21dc4074d250d8/master/pass/business_nurse_1224894742.jpg"

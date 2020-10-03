@@ -28,9 +28,9 @@ related:
   - title: "Amazon Timestream database is now generally available"
     excerpt: "The latest addition to the AWS database portfolio focuses on time series data – a segment where fit-for-purpose databases are emerging because use cases ranging from IoT to e-commerce are driving data volumes overwhelming general-purpose platforms."
     publishedDateTime: 2020-10-01T12:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/amazon-timestream-database-is-now-generally-available/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazon-timestream-database-is-now-generally-available/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazon-timestream-database-is-now-generally-available/"
+    webUrl: "https://www.zdnet.com/article/amazon-timestream-database-is-now-generally-available/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-timestream-database-is-now-generally-available/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-timestream-database-is-now-generally-available/"
     type: article
     provider:
       name: ZDNet

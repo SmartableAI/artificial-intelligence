@@ -59,20 +59,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "Tewatia asked for recognition last IPL season, earns his moment in the sun this year"
-    excerpt: "After five seasons in the wilderness, the 27-year-old did something on Sunday night that ensured that he won’t have to ask for recognition anymore Rahul Tewatia had to request for a “pat on the back” last year but this season he has earned it."
-    publishedDateTime: 2020-09-28T08:28:00Z
-    webUrl: "https://www.tribuneindia.com/news/sports/tewatia-asked-for-recognition-last-ipl-season-earns-his-moment-in-the-sun-this-year-147851"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 17
-    images:
-      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/9/2020_9$largeimg_1442915587.JPG"
-        width: 620
-        height: 464
-        isCached: true
 
 secured: "knFUqOSmcj7dfBe5RwiotIkdVlxLBNkQlP+UC0S+9m4e009ENsZg/iyrGNWiHcmXAwD56vR4lNjmnb2bboOIbNBtsTl4sVxfIWDDyCZLnwdIBjSjUPwwuLL9paYYgoy0myPnrwxPZ4SGOMg716zHHynTIMAtVFhVkWw5hKbzGrxyEQd5OJ57vJ7U5VriK1Eoq+pDrdWACSBrthWs+szSWF12OLLy8Ttzwsire+xRYS0uOuzFzv1TmEn3UDhU0I/mQXMe/aPbPyt2GPWqvaREr+oqnntB8EWbG2rXUWkb2DqsiIA7AtePD8BqC+JB0uGGA+DdxR33iHzX50L45PtIKftsZrpIpuCJjGxymvxCUvY=;l2ubrWRse4UFIgsNAqhySQ=="
 ---

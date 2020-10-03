@@ -43,22 +43,6 @@ related:
         width: 800
         height: 453
         isCached: true
-  - title: "Mega Virtual Summit on Artificial Intelligence to be held from October 5-9"
-    excerpt: "MeitY and NITI Aayog will organize a Mega Virtual Summit on Artificial Intelligence (AI), RAISE 2020 from October 5-9, 2020."
-    publishedDateTime: 2020-09-28T08:14:00Z
-    webUrl: "https://www.voicendata.com/mega-virtual-summit-artificial-intelligence-held-october-5-9/"
-    ampWebUrl: "https://www.voicendata.com/mega-virtual-summit-artificial-intelligence-held-october-5-9/amp/"
-    cdnAmpWebUrl: "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/mega-virtual-summit-artificial-intelligence-held-october-5-9/amp/"
-    type: article
-    provider:
-      name: Voicendata.com
-      domain: voicendata.com
-    quality: 55
-    images:
-      - url: "https://www.voicendata.com/wp-content/uploads/2020/09/Narendra-Modi.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "CKDo8bsXUDguHypBZZUgEELZLeLakh7pqzV55dMW88Tl/Kk4dQDAQXRv4JOyqTaqqyanECUOZfr4SzJdVsDDYkn90e14WadjS3DcGKn3VVidPpcgHbAWVpBA1p0sThOjIy2B45qknbd2h/mt8yU044g9gJOFD3mMNXO5s2P/KyxVnpBmjaXI+ZRC25wuLBiZDgVEbiep1spimND8VQoPjzrsptv+1kFZDI9CYOiJlLiL1q8pZ6245hmGbEEdBGe7wxktj8Y5Aaq2eFFSjyZciCC3Cs+lDKZ+Kk2hwU0e/XO75T4nQ1PV9JvN9gwwPopCPn3InWo1wRp4psibB1OeubB5Sb/HOOCYbvh4JrDCUlE=;XHB1OQQpDyxNrMb0Tsp7wg=="
 ---

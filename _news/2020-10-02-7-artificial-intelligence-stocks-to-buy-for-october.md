@@ -42,20 +42,6 @@ related:
         width: 1260
         height: 630
         isCached: true
-  - title: "Nvidia GTC to focus on AI, datacenter, graphics"
-    excerpt: "Nvidia, already the world's leading supplier for graphics chips, has made it clear that it is to compete with other chip giant such as Intel in the AI chip sector, and it received a shot of adrenaline with it's recent announcement that it is acquiring chipmaker Arm from SoftBank for US$40 billion."
-    publishedDateTime: 2020-09-28T08:04:00Z
-    webUrl: "https://www.digitimes.com/news/a20200928PD206.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
-    images:
-      - url: "https://www.digitimes.com/newsshow/20200928PD206_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
 
 secured: "QNm3Hq/NFaRLBApNi5cl37Q3AIQirxlSEfSLjA+hBN9Ox7bfFwBGrK3OUqAzhf/rznHVL5SBtnemCmpb1XS3rFqNaTnhLSzdnVq69vI/aLAFKPV/YCzTS0I9bA3c+Qx9u7D7+hUVIwWmtjh/3ZqJZVNe9EOOtaNc9wrSTNoNa7W6k4hyeJri+bgV5b+ysSHElWSRMWocd4vrlB/KIaaXb7ukpC9U38IRTrBrukhZkbUCQaAXMau1x5bPZQdsWJNfJguebGYy8Xt4jawkvMW3keWdkZeRyDlMJvR714pPebOHj/xGLoH1Un3BvS8yBKUf6I40yrcI48g7NRDUdAR3F/3R6aYdY04/0ltLX0++vwE=;XJ03ICDYYbK+M5JhTmtllg=="
 ---

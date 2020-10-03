@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Social Media Market Size, Share, Growth, Trends, Scope and Forecast 2020 to 2030"
-    excerpt: "A new study on the global AI in Social Media Market has been published by Insight Slice. It presents a wealth of information on key market dynamics, including the drivers, market trends, and challenges,"
-    publishedDateTime: 2020-09-28T07:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-size-share-growth-trends-scope-and-forecast-2020-to-2030-2020-09-28?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Market – Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020-2026"
     excerpt: "According to a new study published by Polaris Market Research the Global Artificial Intelligence Market is anticipated"
     publishedDateTime: 2020-09-28T12:58:00Z
@@ -137,20 +123,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Market 2020 with Top Countries Data, Growth Analysis, Applications, Major Drivers, Value and Forecasts till 2026"
-    excerpt: "Global “Voice Recognition Market\" 2020 Research Report provides key analysis on the market status of the Voice"
-    publishedDateTime: 2020-09-28T08:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-2020-with-top-countries-data-growth-analysis-applications-major-drivers-value-and-forecasts-till-2026-2020-09-28?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Speech and Voice Recognition Market By Leading Players, Future Applications, Trending Regions and Industry Share Estimate by 2026"
     excerpt: "The global “Speech and Voice Recognition Market” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
     publishedDateTime: 2020-09-28T13:38:00Z
@@ -181,6 +153,15 @@ related:
         width: 731
         height: 300
         isCached: true
+  - title: "Global Artificial Intelligence Software Market Analysis of Major Segments and Future Opportunity Assessment 2020-2025"
+    excerpt: "The contemporary development prediction report titled Global Artificial Intelligence Software Market 2020 by Company, Regions, Type and Application, Forecast to 2025 provides an all-inclusive research study that covers current facts and statistics about the production and application in the Artificial Intelligence Software market."
+    publishedDateTime: 2020-10-03T00:26:00Z
+    webUrl: "https://ipsnews.net/business/2020/09/30/global-artificial-intelligence-software-market-analysis-of-major-segments-and-future-opportunity-assessment-2020-2025/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 0
 
 secured: "X3rea1rX6GFO2PJP8FdWCZv6329PGJs40PRXpIu1tfrlVjbgQm+X9icuZp0Z7mlhwpXdvauLBumrcsWgd0mOYlrqKZuAA1tnvk9i8pY8Y736lEUn3yps/6xnzmnOSAdaWwNq2yDP7BI3GA1vwhyjMuUSvpMRrTXQySER/g0P+UhUfuOlIEcMgst4lNEKQtKsb+TUKBmvN+x+6gvCPBkY59gwFlcuhaRmAaKPRQQ/YlEGyawQNVPBWPyKMfcbQPgPFLOmTZ1akxIRUOTXThQ1Cdbz+YoGklNBPJandoI/bjNDMnyLKoNd59CD8YxiBeHeCs4BgFp7Oh+nb8QoN1SiK2WHQ1KIZO9JAF87h2qDU/mXNZLVe8AM/FRCZ7J7yigjvfnldMIF/ctswKPtFrZm6oW0036sf2CfaEaoV4+CsiQLa9L6FekbdyLOYuZfhdoJ24Gk1dy/uxKbxT8b8vu97Icr0O/Udxfc3ACHxSIv8tQGrZ74Jj3UPTVDxpoiG6e9Aqj+NqmCYvrTp3u/F/CXbw==;isxBbrKRvATutwJohwvpdA=="
 ---

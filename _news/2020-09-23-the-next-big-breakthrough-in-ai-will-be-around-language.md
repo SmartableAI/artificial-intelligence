@@ -1,10 +1,10 @@
 ---
 category: news
 title: "The Next Big Breakthrough in AI Will Be Around Language"
-excerpt: "GPT-3, a state-of-the-art natural language processing tool developed by OpenAI, will soon be able to produce short stories, songs, press releases, technical manuals, text in the style of ..."
-publishedDateTime: 2020-09-23T00:00:00Z
-originalUrl: "https://hbr.org/2020/09/the-next-big-breakthrough-in-ai-will-be-around-language?ab=hero-subleft-2"
-webUrl: "https://hbr.org/2020/09/the-next-big-breakthrough-in-ai-will-be-around-language?ab=hero-subleft-2"
+excerpt: "The 2020s are going to bring major advances in language-based AI tasks. GPT-3, a state-of-the-art natural language processing tool developed by OpenAI, will soon be able to produce short stories, songs,"
+publishedDateTime: 2020-09-23T13:10:00Z
+originalUrl: "https://hbr.org/2020/09/the-next-big-breakthrough-in-ai-will-be-around-language"
+webUrl: "https://hbr.org/2020/09/the-next-big-breakthrough-in-ai-will-be-around-language"
 ampWebUrl: "https://hbr.org/amp/2020/09/the-next-big-breakthrough-in-ai-will-be-around-language"
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/09/the-next-big-breakthrough-in-ai-will-be-around-language"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 675
     isCached: true
 
-secured: "VjURAeyEEgj3VdbY3p3T7EYAJq1R6rWjrH3QntrV+sV/byc3DuKnGfZH7b/LysKn4sym4iDPSZtGgk7hlEIuDK4VEdPNBYsps2Omf2KV5fsmXKqc+e2Kq/ZJtTGmvW8JBFNklBW8hgXpvnSkFPc/DM/vvpMnMGeugcF1NYSj/yDw6CPCxR2OzP/wAGkjq6N3MzSd8LjmAtKksMptz6lE0u84MIwRAyUF5anMeHbJInQb7n5IugFGXNmlDwhLZt3LZpjL6Ezl8wZaDdB/1lle2NJ/+KfIoesVtT2eZj4S78rY6QwVEmF9PM/Dci600LeuH1Pfn7mUEHUApgvuyYLvCM0VYBkkxFZDGRbAbaZTng0=;3DT8IkpVWWjpPdLSeLeOoQ=="
+secured: "8MDypE29rCaPLvahmOiO/3gJI05YEl4MDeyjGqQVWvESl9qNE/V0RGOLqmu1ZxINpclH/UOr1aFgW1ocJ8k8J6GW/M1ngL75VCFVV7uPM3wAIqJrYJVj43CdvUDkQTbh3Aw5NTH3eGXFb1cA3yf5kqf9XEG20mtFTO7E05WMvEHJ7gTJlByY1LEjIJvvIsknaIKx9NUoC07f0EerZaqisLh43bMpLjhYjT2t5qRcjO/R8yi5MYVbIAWTshQJuVkwROfMUkaDgYWHZi3quBK1cbJot97NywgT/6fCvCjYQBCXNm3R6gQZFEy4ul+U/qTwC3rqZTPV+Rh17rCOHoolIJDU3JeH2VKpw2Oqax4DY8g=;B8GXOszeOL5yBo81iHAWMg=="
 ---
 

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Artificial Neural Network Market- Covid19 Impact, Size, Share, Trends, ANN Technology, Software & Services, Application and Demand by 2023"
-excerpt: "Global Artificial Neural Network Market Synopsis According to Market Research Future Reports (MRFR), the global"
-publishedDateTime: 2020-09-14T13:57:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-neural-network-market--covid19-impact-size-share-trends-ann-technology-software-services-application-and-demand-by-2023-2020-09-14?mod=mw_quote_news"
-webUrl: "https://www.marketwatch.com/press-release/artificial-neural-network-market--covid19-impact-size-share-trends-ann-technology-software-services-application-and-demand-by-2023-2020-09-14?mod=mw_quote_news"
+excerpt: "According to Market Research Future Reports (MRFR), the global artificial neural network market is expected to acquire a significant market value, thriving at a substantial CAGR during the ..."
+publishedDateTime: 2020-09-14T15:37:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-neural-network-market--covid19-impact-size-share-trends-ann-technology-software-services-application-and-demand-by-2023-2020-09-14"
+webUrl: "https://www.marketwatch.com/press-release/artificial-neural-network-market--covid19-impact-size-share-trends-ann-technology-software-services-application-and-demand-by-2023-2020-09-14"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "Ycax0dsMfK4CpDeFPnb+kM0elpWO1TJqW4dbf3E+jtdh6NQepFGFB52moFx0K4WcYwjDOHSmNhWnuANaWQ9CzO89S4TFFlJSDyoiTo9Ra116AbOGL6wrizdUDD2NXYFzE40P9pcVEGqRcgo9tt2IM8/b622u3TtXkLPQMDLe5UqARetrcRLg6laSTDfAUfIxJ9BuEX5V9TtU6ouOIC/b1953dXi9b1jTGx+bPQ/Dc46pxtq8Ci2ZswD+DGkq6CZs+y8tOgIj1G9DXx3FXDtJt3S25IF/Mrcqwo0yStrKp/HBXRHDpfC/BY+a6KJbZ4/YxyR3uRtsVAsxqeeZBtgXjT+p5Ej1uI904SnsIYsSJ4k=;RQ6z6G7Ml0ulniTUTVgtjg=="
+secured: "JHBFbwo7D6R+hi2Ef+q5a0Qc1eXklK5P525EF01/8h4rjFvQ/ACB67fb+rhR1RWGOmJBNY2/bBlYOJSDunXNvdgfRfIdjMzbSot6J5xq8EV+Zn6pao2kPeSnd44FP54ixQRqgDyQHvG8IYspFxLb7E/Acf9xZArcG9H+7LRT/go7lKfExWm25V82nvN//JFoIP3noqJcqtfew94iKqRtWmnGY6XcFTtyV0CAuwhxjxgNKhPGXJz+6vwqzTraVs/gZzI4mDqK1w6YskuIOt9FjJZUvvqI8cAngz36+4jZT6mWIusczvyHTuqAuZCV84BcATiZpAcuYoesrsIZ9RVj98KgdVy6nU61XTMhXcqL7jc=;JLpDIsPDTKmkpOcNWJmy9A=="
 ---
 

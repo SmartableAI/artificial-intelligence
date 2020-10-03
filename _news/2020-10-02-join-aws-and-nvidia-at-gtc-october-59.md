@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/16671-2/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/16671-2/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://investorplace.com/wp-content/uploads/2019/07/ai1600b.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Nvidia GTC to focus on AI, datacenter, graphics"
-    excerpt: "Nvidia, already the world's leading supplier for graphics chips, has made it clear that it is to compete with other chip giant such as Intel in the AI chip sector, and it received a shot of adrenaline with it's recent announcement that it is acquiring chipmaker Arm from SoftBank for US$40 billion."
-    publishedDateTime: 2020-09-28T08:04:00Z
-    webUrl: "https://www.digitimes.com/news/a20200928PD206.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
-    images:
-      - url: "https://www.digitimes.com/newsshow/20200928PD206_files/2_b.jpg"
-        width: 640
-        height: 427
         isCached: true
 
 secured: "8KRTB5ZU2vrr4JY9p1n6h/cQpuOKf6bqZzDkqhQ293nBBC9HTWdbtiBec1gklYzMjr0b7D6VCKC59TGXT9hqK7oeKq+4IuBiX943agBNiOl5NhVXmECy5SjPaR4DEYYUAMppZo58jEbAM+KZ0nmMKGszr7+k7WOZ0B60AY6tBSMufg/I9Ai2X8rv1bllD8Gb+sst3iaT5AdAkHSsjxWetjyXw0rBxkwY6uh/9ChnEE9oBinF/pgLzNLa5v+j4yhJyf+sR+O7BbA+ecdClMK9EKPuSS7wcmsYrTzoqNsjPj1Y8iLXuhcg6J3qjvwX/+IwpjPgcdMyu+Hqf1vWs6NysJj9c/KBOVElrnAwBWVVmZY=;WQGO27BvQHdZ1zzh8EeP1w=="

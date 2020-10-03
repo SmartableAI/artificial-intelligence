@@ -25,21 +25,61 @@ images:
     isCached: true
 
 related:
-  - title: "IISc, Wipro-GE start AI healthcare lab"
-    excerpt: "India News: The Indian Institute of Science (IISc) and Wipro GE Healthcare today announced the inauguration of an advanced center for innovation and research — ‘W"
-    publishedDateTime: 2020-09-28T08:52:00Z
-    webUrl: "https://timesofindia.indiatimes.com/india/iisc-wipro-ge-start-ai-healthcare-lab/articleshow/78361777.cms"
-    ampWebUrl: "https://m.timesofindia.com/india/iisc-wipro-ge-start-ai-healthcare-lab/amp_articleshow/78361777.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/india/iisc-wipro-ge-start-ai-healthcare-lab/amp_articleshow/78361777.cms"
+  - title: "Expanding Access to Mental Healthcare with Artificial Intelligence"
+    excerpt: "Researchers at University of Illinois Chicago are testing a virtual agent powered by artificial intelligence to broaden access to mental healthcare."
+    publishedDateTime: 2020-09-29T15:03:00Z
+    webUrl: "https://healthitanalytics.com/news/expanding-access-to-mental-healthcare-with-artificial-intelligence"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 54
     images:
-      - url: "https://static.toiimg.com/photo/msid-78361745/78361745.jpg"
-        width: 1200
-        height: 800
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1092965070.jpg"
+        width: 690
+        height: 400
+        isCached: true
+  - title: "BUDDI AI Emerges from Stealth Mode to Transform the Healthcare Revenue Cycle"
+    excerpt: "PRNewswire/ -- BUDDI AI ( a.k.a BUDDI Health), a leading provider of AI-powered clinical and revenue cycle automation solutions for healthcare, is proud"
+    publishedDateTime: 2020-10-01T16:10:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/buddiai-emerges-from-stealth-mode-to-transform-the-healthcare-revenue-cycle-301143543.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 51
+    images:
+      - url: "https://mma.prnewswire.com/media/1294815/BUDDI_Logo.jpg?p=facebook"
+        width: 1458
+        height: 764
+        isCached: true
+  - title: "BUDDI.AI Emerges from Stealth Mode to Transform the Healthcare Revenue Cycle"
+    excerpt: "PR Newswire/ -- BUDDI.AI (f/k/a BUDDIHealth), a leading provider of AI-powered clinical revenue cycle automation solutions for healthcare is proud to announce its emergence from"
+    publishedDateTime: 2020-10-01T13:26:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/buddi-ai-emerges-from-stealth-mode-to-transform-the-healthcare-revenue-cycle/article_b27d490d-aaa3-51b5-9040-23d9043c25a6.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 51
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/8f/b8f30fcb-b414-50e1-a37e-8dab3fbef868/5f75d35281cc3.image.jpg?resize=400%2C296"
+        width: 400
+        height: 296
+        isCached: true
+  - title: "KenSci Launches AI Platform for Digital Health to Accelerate AI and Analytics Enabled Healthcare"
+    excerpt: "KenSci's AI platform for digital health helps health teams build data-rich use-cases and innovate in a secure data pipeline within their own Azure environments.\" said Heather Cartwright, General Manager, Microsoft Health. KenSci's existing customers have ..."
+    publishedDateTime: 2020-09-29T12:25:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/kensci-launches-ai-platform-for-digital-health-to-accelerate-ai-and-analytics-enabled-healthcare-301139612.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 43
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "tkFAdVlw/O5J4LXBfe8uA2fpGwiua8ERQDUBxGOleziKmiLLXvCVylpHjbFTqQD9OlG/JL46oI/Zdbai4ct9PeiB3Ln1mJN4C8ZB3ALAO8KEJPGWSWTZwWBDSuT9LdaUTleqSZX8f6fXawpivYQTv5sxpWyknO7XKtdRHA+yf4No66Nhuc8h1eQGIgk5ydunJvic3TS7xHKnuPMOAhoWq+Pt4gKtJLDStF2OPwvCS2U+GEH64VuucTwHAzkR8xw6FSsghC1MAJrz+zdhFP9bq8wcVrZYt8b5YJuUPa/656Xk/qNyz1mC7dla+0ZVhHF+sk+cvF+VbWJNptJV2GgL/3TLWTSxVSQa9zvuXAvoq6Wrl4Toi5hkQ0TXvKJiiPhgDj8MGWXgTNhHC2yOjRTE+cqr5YxDSSr3o2f/Jzukgq4aqm7e1395aGwNNeGaOg8gfOTHNPIcJpwxb6f3c12NKNpSo7MZ9BTNKccQ92TmKjyo636xK84j2xUu0jPzRyT+hQr8X2dohYN+MyQPDPPYCQ==;0bnfp9qrGV3EhoqElq/h7Q=="
