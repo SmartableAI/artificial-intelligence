@@ -2,6 +2,48 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-09-25-improve-hey-siri-on-iphone-by-re-training-voice-recognition.md",
+      "title": "Improve “Hey Siri” on iPhone by Re-Training Voice Recognition",
+      "excerpt": "Training Voice Recognition So after a lot of requests from our users here is a guide about Improve “Hey Siri” on iPhone by Re-Training Voice Recognition. Having Hey Siri enabled for hands-free activation of the virtual assistant is no doubt useful,",
+      "sourceUrl": null,
+      "webUrl": "https://www.compsmag.com/how-to/improve-hey-siri-on-iphone-by-re-training-voice-recognition/",
+      "originalUrl": "https://www.compsmag.com/how-to/improve-hey-siri-on-iphone-by-re-training-voice-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/wp-content/uploads/2020/09/1601031610_960_Improve-Hey-Siri-on-iPhone-by-Re-Training-Voice-Recognition.jpg",
+          "width": 450,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/how-to/improve-hey-siri-on-iphone-by-re-training-voice-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/how-to/improve-hey-siri-on-iphone-by-re-training-voice-recognition/amp/",
+      "publishedDateTime": "2020-09-25T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-follow-the-leader-a-shortcut-to-autonomous-trucking.md",
       "title": "Follow-the-leader: A shortcut to autonomous trucking",
       "excerpt": "A company spun out of a prestigious university robotics lab is making a big leap in autonomous trucking. Locomation is claiming the world's first autonomous truck purchase order from a Springfield, MO,",
@@ -438,8 +480,8 @@
       "title": "Lemonade CFO Tim Bixby to Present at the Barclays Global Financial Services Conference",
       "excerpt": "Tim Bixby, Chief Financial Officer of Lemonade (LMND), will present at the Barclays Global Financial Services Conference on Wednesday, September 16, 2",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200916005883/en/Lemonade-CFO-Tim-Bixby-to-Present-at-the-Barclays-Global-Financial-Services-Conference",
-      "originalUrl": "https://www.businesswire.com/news/home/20200916005883/en/Lemonade-CFO-Tim-Bixby-to-Present-at-the-Barclays-Global-Financial-Services-Conference",
+      "webUrl": "https://www.businesswire.com/news/home/20200916005883/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20200916005883/en/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1155,57 +1197,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-swedens-ericsson-telia-present-self-driving-bus-ahead-of-5g-spectrum-auction.md",
-      "title": "Sweden's Ericsson, Telia present self-driving bus ahead of 5G spectrum auction",
-      "excerpt": "STOCKHOLM (Reuters) - Telecoms gear maker Ericsson ERICb.ST and mobile operator Telia TELIA.ST on Thursday showcased a self-driving, electric bus in Stockholm as the companies look at new business ...",
-      "sourceUrl": null,
-      "webUrl": "https://uk.reuters.com/article/uk-ericsson-autonomous-idUKKCN26F2WN",
-      "originalUrl": "https://uk.reuters.com/article/uk-ericsson-autonomous-idUKKCN26F2WN",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200924&t=2&i=1534799334&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8N1NF",
-          "width": 726,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://uk.mobile.reuters.com/article/amp/idUKKCN26F2WN",
-      "cdnAmpWebUrl": "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKCN26F2WN",
-      "publishedDateTime": "2020-09-24T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

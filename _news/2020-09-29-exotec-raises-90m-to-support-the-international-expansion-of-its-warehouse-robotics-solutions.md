@@ -18,6 +18,17 @@ topics:
   - AI in Robotics
   - AI
 
+related:
+  - title: "SoftBank Robotics America Announces Whiz Connect Automation Analytics Software as Part of Robotics-as-a-Service Solution"
+    excerpt: "Whiz Connect centralizes the Whiz automation portfolio in a single dashboard and empowers occupant health and wellness through continuous collection analytics and operational efficiency."
+    publishedDateTime: 2020-09-29T18:18:00Z
+    webUrl: "https://www.roboticstomorrow.com/news/2020/09/29/softbank-robotics-america-announces-whiz-connect-automation-analytics-software-as-part-of-robotics-as-a-service-solution-/15764/"
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 9
+
 secured: "8T8FFJeyttCYLwwIxEq/SzAJm3Flwg9wzzYM7CX/x5ICipvB6jS+iEf9cBBWo4IkgWXl0NU9td9+3EqT+Q6pn4oLnqXkjpKwj9x3/6bX16fo7UNCIz+WOoBzwr1+yLv4zKfrMQzqf/TiQaFuk2ZPR0qyDvsTLlihFBfYGDxvGhgbaFwHwxtwM1hMa329GiALrfjxo6WuXPqMuOtTz6UNo2o4CohDlrj27RPNa8/yudukw3h3ZMRBEXGO3rSEfnVoI4VBjdEtALDLgEpCLW4p+fNJdR2Q9PCY+k79N2DjQjX6EhdlKKWFR08T+EblPFSDSmDZeaQpCJj4Qj7ScNItLFW7dbb9BfG6pukx0xUUKdM=;OuxhFz/gwMtHbA9sVJVIxw=="
 ---
 

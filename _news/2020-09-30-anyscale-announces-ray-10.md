@@ -30,6 +30,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 12
+  - title: "Anyscale Ray 1.0: Providing universal serverless compute API and expanded ecosystem of libraries"
+    excerpt: "Not only do we leverage it through Analytics Zoo with RayOnSpark, we leverage Ray for hyperparameter search, model selection, and AutoML. Ray and its libraries have proven invaluable in meeting ..."
+    publishedDateTime: 2020-10-02T02:51:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/10/02/anyscale-ray-1-0/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 0
 
 secured: "0DOC7aZYn8hgms/Ke4oCns+2OVUYvR3HZoz4jH4CjpziPGMOa8uK7IYHOdsl4/hP7SD3h3M4UD+tP1yUhrWjPwPNKs7Xh6Id+kItUTfwNgOfGtpGOTzyCn4JuP2vE7PHmi+52Yj3m3cZBliL5uGCgfoAmc/q7BM1MeFYUrlb4ffKgmr3hnt/mzGjPGI5AtON26YxNOBWjlrkBu/6mJebojw8ZUYmq0k6p/EOoHtAHl89opOox0jtI/sXMUiUqaTxOY7Sw69CmfyA9z8TxTRhT+XATy6fDl/mFeA7glc636bgELFYzoogxOEjLkZaH2ZoMvQIovEQvnCj3aBG1jrD/M751IkNuI7SB+Xim4Dng+s=;f5RxLa+kEY+Sku9dQ+SG7Q=="
 ---
