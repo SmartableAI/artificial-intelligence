@@ -1,34 +1,46 @@
 ---
 category: news
-title: "Microsoft unveils Azure for Operators to unlock 5G potential"
-excerpt: "Microsoft has announced a new cloud platform called Azure for Operators that has been designed to help telecommunications operators unlock the full potential of 5G. The new offering will help communication service providers create new opportunities and provide core infrastructure,"
-publishedDateTime: 2020-09-30T11:08:00Z
-originalUrl: "https://www.itpro.co.uk/mobile/5g/357287/microsoft-unveils-azure-for-operators-to-unlock-5g-potential"
-webUrl: "https://www.itpro.co.uk/mobile/5g/357287/microsoft-unveils-azure-for-operators-to-unlock-5g-potential"
+title: "Microsoft Translator adds Assamese, strengthens support for 12 Indian languages"
+excerpt: "Microsoft India has announced the addition of Assamese as the latest Indian language in Microsoft Translator. The Azure-based service will now provide real-time translation and"
+publishedDateTime: 2020-10-04T18:02:00Z
+originalUrl: "https://indiaeducationdiary.in/microsoft-translator-adds-assamese-strengthens-support-for-12-indian-languages/"
+webUrl: "https://indiaeducationdiary.in/microsoft-translator-adds-assamese-strengthens-support-for-12-indian-languages/"
+ampWebUrl: "https://indiaeducationdiary.in/microsoft-translator-adds-assamese-strengthens-support-for-12-indian-languages/?amp"
+cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/microsoft-translator-adds-assamese-strengthens-support-for-12-indian-languages/?amp"
 type: article
-quality: 84
-heat: 124
-published: true
+quality: 55
+heat: -1
+published: false
 
 provider:
-  name: IT Pro
-  domain: itpro.co.uk
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg"
-      width: 50
-      height: 50
+  name: India Education Diary
+  domain: indiaeducationdiary.in
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://media.itpro.co.uk/image/upload/v1570816662/itpro/2018/08/5g_shutterstock_750428755.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/04/microsoft.jpg?fit=463%2C260&ssl=1"
+    width: 463
+    height: 260
     isCached: true
 
 related:
+  - title: "Microsoft unveils Azure for Operators to unlock 5G potential"
+    excerpt: "Microsoft has announced a new cloud platform called Azure for Operators that has been designed to help telecommunications operators unlock the full potential of 5G. The new offering will help communication service providers create new opportunities and provide core infrastructure,"
+    publishedDateTime: 2020-09-30T11:08:00Z
+    webUrl: "https://www.itpro.co.uk/mobile/5g/357287/microsoft-unveils-azure-for-operators-to-unlock-5g-potential"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 84
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/v1570816662/itpro/2018/08/5g_shutterstock_750428755.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Microsoft Translator now support Assamese language"
     excerpt: "The service is available on Microsoft Translator app, add-ins, Office 365, Bing Translator, and through the Azure Cognitive Services Translator API for businesses and developers. Users can translate Assamese text, supported by more than 70 languages ..."
     publishedDateTime: 2020-09-30T18:54:00Z
@@ -61,22 +73,6 @@ related:
         width: 418
         height: 335
         isCached: true
-  - title: "Microsoft Translator adds Assamese, strengthens support for 12 Indian languages"
-    excerpt: "Microsoft India has announced the addition of Assamese as the latest Indian language in Microsoft Translator. The Azure-based service will now provide real-time translation and"
-    publishedDateTime: 2020-10-04T18:02:00Z
-    webUrl: "https://indiaeducationdiary.in/microsoft-translator-adds-assamese-strengthens-support-for-12-indian-languages/"
-    ampWebUrl: "https://indiaeducationdiary.in/microsoft-translator-adds-assamese-strengthens-support-for-12-indian-languages/?amp"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/microsoft-translator-adds-assamese-strengthens-support-for-12-indian-languages/?amp"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 55
-    images:
-      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/04/microsoft.jpg?fit=463%2C260&ssl=1"
-        width: 463
-        height: 260
-        isCached: true
   - title: "Microsoft Translator now supports Assamese too"
     excerpt: "Microsoft India said on Wednesday that it has added Assamese as the latest Indian language in Microsoft Translator, increasing the number of Indian languages it supports to 12. The Azure-based service will now provide real-time translation and transliteration support for the language."
     publishedDateTime: 2020-09-30T11:54:00Z
@@ -92,6 +88,6 @@ related:
         height: 300
         isCached: true
 
-secured: "c32jX2aI1d+acmrBsBW1JEJbUKexKGKXKrZ0DiiT3b2lbTO/s0qO5hcYlYpO6YTs0ilSTUfHOlZQ0GfHaIYCq5w6eP+LfkzMm7ZveFsR97RvJCiorqrU9qljFOYnQMDP9u03NS8lKQHoA+G2+mGcluxXOwx8DdRKtLT5BFpdS06yARg7rucNfT1hRGUNx0UofY/V3+IkXp9qFdavXoQjW0tUrXLwDXXOedUhhCUDe+zMzXjv4b6HKg1yHB57gqKSf0MZZuZ6D/sFc0IhVn+zFZ159B0wZ4l2885+EzAAx8rCF15nzALHjbh42NYUDTKXHOjENNT8SZNuJvHKF1wYQJCTCiLmFxIdnmo6XiPTnAFuesZqmXEQwHWJqCTA+XPTjErEjITUhWP/3vgLybPCWc4cMXwPpfwfUxUH9vhMLED/INCJmPSIS4ohdSJa2pP5W1FsJ0oC5e9nNL7iXc0wvcE6j93V1XS9JG9ASTHNE8qrv8XqDBtYTcs4tYUzG3gasRulqBBzjwoh+e990e56fQ==;FZdSq4hQg81mHBiu86yoJA=="
+secured: "UXrZdpsHUldfvZE27K7Y7QR/7Bf+svoCqFSAhTYqjfS2oC81CA6Y653iVj9JXWxb4MuDXi3qwkfoXmKQxZUNaxmBjI2QpYcaRDwlh453zA/4HcAiFNfJxI5nCubnZDJHeZ107cr7Ko1sgtBawGtdzgfFJEKVFO9W+PNGK8lgom7OzVOiRZXeCQ11Tvw8K+kXwueISDqSU8ymIBQpkm5RaLbvj5zCD1Ot6IhwK3OfnrJ8PPZssaRtrsoxTsYIgQb/XEzkLsYFzegL85GgSqIF07CN4FgADel2RxvD9Hp2Qwkib7EmV9gu6Ywj+ffQh9X+Tn6kQSeZ1PWiNwXZqT/b30KNLtRgMqHdM9Ya1mKjg9k=;QaboyDNCXsqQDjnuxkFJZg=="
 ---
 

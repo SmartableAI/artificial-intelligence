@@ -1,29 +1,43 @@
 ---
 category: news
 title: "7 Artificial Intelligence Stocks to Buy for October"
-excerpt: "IBM offers the patient investor potentially significant upside. As you know, with its AI platform Watson, Big Blue has been helping multiple enterprises and industries maximize their efficiency."
-publishedDateTime: 2020-10-02T14:17:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/7-artificial-intelligence-stocks-to-buy-october-1029644435"
-webUrl: "https://markets.businessinsider.com/news/stocks/7-artificial-intelligence-stocks-to-buy-october-1029644435"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/7-artificial-intelligence-stocks-to-buy-october-1029644435"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/7-artificial-intelligence-stocks-to-buy-october-1029644435"
+excerpt: "But if there is one on Wall Street, it’s the rise of artificial intelligence stocks. Yes, there is the profitability angle from machine learning and other relevant technology facilitates. But this crisis has been a crash course in the sector’s viability."
+publishedDateTime: 2020-10-02T13:58:00Z
+originalUrl: "https://www.nasdaq.com/articles/7-artificial-intelligence-stocks-to-buy-for-october-2020-10-02"
+webUrl: "https://www.nasdaq.com/articles/7-artificial-intelligence-stocks-to-buy-for-october-2020-10-02"
+ampWebUrl: "https://www.nasdaq.com/articles/7-artificial-intelligence-stocks-to-buy-for-october-2020-10-02?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-artificial-intelligence-stocks-to-buy-for-october-2020-10-02?amp"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "aOc+gGCTruaSq+hvlTm56Fbg5XMOMLk+oy+mx0AtBYEv/SIMVFc4t8t/uvUmgit/BH49TOb/cNUAnV6FW5+8ElYfCmwgPXAs1TetPb/RIaP8i4GXiG/fQb9WgUOV1ruma3mdu4AOd99xRtYiWV4Ri6m+BBuPzo8wxAzD15xVGKrPjhfUdDT1UaDCmrZZMsLzR35hp6+zDU8sApCbsnXedSTXQHdB1jmB52glR3z0p129741xuqM8hgD66c6KQdeRhBHznMo5slapd/vHkvJrRfW2TqcqLDVQsfe16BW4CIvOAuOe+aoIAZAco+wFWopkYU0BQfMwMYrS1Ft/g7vIeA/Gwn/hnu2Q7NARV78k8fs=;ip7i85f1EBbHx8Gazu9G+g=="
+related:
+  - title: "7 Artificial Intelligence Stocks to Buy for October"
+    excerpt: "IBM offers the patient investor potentially significant upside. As you know, with its AI platform Watson, Big Blue has been helping multiple enterprises and industries maximize their efficiency."
+    publishedDateTime: 2020-10-02T18:31:00Z
+    webUrl: "https://investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/"
+    ampWebUrl: "https://investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/amp/"
+    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/amp/"
+    type: article
+    provider:
+      name: InvestorPlace
+      domain: investorplace.com
+    quality: 59
+    images:
+      - url: "https://investorplace.com/wp-content/uploads/2019/07/ai1600b.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+
+secured: "GQ3alvDZEKiiKnfZzSmSuznakf6OMIkbvLalWBUyPCuNR6yT1HRsDS9wnEMEReV/nl32QhgiOb+0aAIlyeQuLd/iC13a53uZgKEkJ8J1PX0qnsvfg83AEJq6ysZYToGO8Ynrt4PjLxFk6f8PjRjjhja6P1YEkEZoYgT/uvVaFqH4IzUqF77Ju6qKpm90qDZnlhO8io5xIYIo3/gjiMJonT79sJ2u6In/69G01Zje0PTfltQ9h+ibgX4/DoLcrqq761SNvO36LtEF3HmWLEStAqjbXSuagxQIgxwQj7nuM8xynPlI+n8gtEQd5DBoDEyRWXvscRsQQdes6aXXO049Tkf4x2pJgjoQdsKyzaZpE/o=;gwmfH8AlR/1U3VBmMUQVvw=="
 ---
 

@@ -71,6 +71,22 @@ related:
         width: 418
         height: 335
         isCached: true
+  - title: "Microsoft Translator adds Assamese, strengthens support for 12 Indian languages"
+    excerpt: "Microsoft India has announced the addition of Assamese as the latest Indian language in Microsoft Translator. The Azure-based service will now provide real-time translation and"
+    publishedDateTime: 2020-10-04T18:02:00Z
+    webUrl: "https://indiaeducationdiary.in/microsoft-translator-adds-assamese-strengthens-support-for-12-indian-languages/"
+    ampWebUrl: "https://indiaeducationdiary.in/microsoft-translator-adds-assamese-strengthens-support-for-12-indian-languages/?amp"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/microsoft-translator-adds-assamese-strengthens-support-for-12-indian-languages/?amp"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 55
+    images:
+      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/04/microsoft.jpg?fit=463%2C260&ssl=1"
+        width: 463
+        height: 260
+        isCached: true
 
 secured: "cJvhHW9r4e3RPY3CGPQ6RD/CUrFVp7zB9AL3KmueBYxqW3CaV+hX9a5kDMStOnmF8rXripBEtrZ7C9Tq1slW3c8v2GgoKjoR5UynhN9XjWxorrCMkaNFsQTISmtwlCEHBiGRLEfhFM9EOUHFBtlu5Xl3KIZmmXhCaMWzQLiCwWd/ym2xJv6pn/Lg/kG1nrL6T6ZRH5nVcr27bbn+VXkY2sekvdltqJedTSkVv2usbI3OR1bePM5VXglrRiWyU4quA6Udm+WNnHl289I9C4mjAsbNcECWcAguzDY1Z0ovYzWFbpwnQZqOeaA8AD0eSXQvcID48an2h/HBfQ+rtuzJqtxcE8ZzMOr57ku3CVEsXOA=;LaF/3XXz8aupriLZSCplwA=="
 ---
