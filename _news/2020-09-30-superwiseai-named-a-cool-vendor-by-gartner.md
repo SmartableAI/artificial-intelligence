@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Superwise.ai named a Cool Vendor by Gartner"
-excerpt: "The solution integrates seamlessly, using API and SDKs, and is platform agnostic, supporting any ML platform, - i.e.: AWS SageMaker, Kubeflow, Azure ML, DataRobot, or custom implementations. Gartner subscribers can view the report here. Gartner does ..."
-publishedDateTime: 2020-09-30T16:12:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/superwiseai-named-a-cool-vendor-by-gartner-301142125.html"
-webUrl: "https://www.prnewswire.com/news-releases/superwiseai-named-a-cool-vendor-by-gartner-301142125.html"
+excerpt: "Superwise.ai, a pioneer of AI assurance and monitoring solutions, today announced that it has been recognized in the Cool Vendors in Enterprise AI Governance by Gartner 1. The report includes the following recommendation: \"Build trust in AI solutions by applying an explainable AI (XAI) approach to holistically address aspects of AI models such as trust,"
+publishedDateTime: 2020-09-30T16:30:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/superwise-ai-named-a-cool-vendor-by-gartner-1029636628"
+webUrl: "https://markets.businessinsider.com/news/stocks/superwise-ai-named-a-cool-vendor-by-gartner-1029636628"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/superwise-ai-named-a-cool-vendor-by-gartner-1029636628"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/superwise-ai-named-a-cool-vendor-by-gartner-1029636628"
 type: article
-quality: 39
-heat: 39
+quality: 69
+heat: 69
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AWS AI
+  - Microsoft AI
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "f8ard5gjpjJFPiDXVKwnwiaZwAPW5F9kLjKSio9ZhEMNAkGLLJ19lkp8R/gUHq8McT+Qg/ADJSjqxxRcbOJml7vB9iR/eeFh54yVrzvCyEPnH226d2Ku5hppUjO2IBk51XaaJPtdMWXeFSJ1TW2zeLprpc5tvz3pwhPFnfv2rj68Bp5UuPnjv06T2a9IEq/051l8i3YNcJVsgioursUaRlfJi9R2JF7DQKmtbMkk9DhCbQHs+6On4Ehvab6n2YOaFe5m0dH1/Cwtt79Q4L1Gq43Izmame+7+hPgYuqY0Qk6787FVyyXRSP7O9c0GVA+ijx2MSKimQsgp+r8ESPrOec/Cnj1x+fR2pW3KmC2hMUI=;LNaway1BOoOyb+C/gNPk4w=="
+secured: "+bK0GACTeVdOTWu+fZawXrFRGixzX8vKFNVikJidPo2OrBwmNfUe7f0QjbNONINiE+DCddAVEfZBanKQbYfD0lOsYqdB1gqAvXl0D304wiW7Ef1KQuZdzSWhxgeAAGcw23OFH9hhxQjCvrLyAka7M/jKqSnujKKyAKibgGcymsJnqI8sdAPcDwTNVVBtz2Px4Y9XvhoyVYnXlEs7LGNdrkd6WquZYnPgbO+Tm1w+bz+FOI4yZez+kDmMuOWUFvUP7vuulrPRcRdgF36jSr3+6/Kv91HqwLrXp572ZPqjRWVCTutKLZObUpDbm6iITztogevVTH/y9IKpLSdY2KXwAsvOt2Q45ziDkpto11ujF5c=;MHruXlVf1FCj88ieAYgulw=="
 ---
 

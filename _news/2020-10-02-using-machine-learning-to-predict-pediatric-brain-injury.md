@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2020-10-machine-pediatric-brain-injur
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-machine-pediatric-brain-injury.amp"
 type: article
 quality: 74
-heat: 85
+heat: 84
 published: true
 
 provider:

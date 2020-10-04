@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmodo.com.au/2020/09/the-australian-governments-800m-d
 cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/09/the-australian-governments-800m-digital-business-plan-will-let-you-access-mygov-with-facial-recognition/amp/"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 410
     height: 231
     isCached: true
-
-related:
-  - title: "Government’s $800m Digital Business plan will let you access myGov with facial recognition"
-    excerpt: "Associate professor in Business Law. Director of the UNSW Business School Cybersecurity and Data Governance Research Network, UNSW An A$800 million JobMaker Digital Business Plan has been released this week to support economic recovery in the wake of COVID-19."
-    publishedDateTime: 2020-09-29T05:57:00Z
-    webUrl: "https://theconversation.com/governments-800m-digital-business-plan-will-let-you-access-mygov-with-facial-recognition-147048"
-    ampWebUrl: "https://theconversation.com/amp/governments-800m-digital-business-plan-will-let-you-access-mygov-with-facial-recognition-147048"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/governments-800m-digital-business-plan-will-let-you-access-mygov-with-facial-recognition-147048"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 49
-    images:
-      - url: "https://images.theconversation.com/files/360465/original/file-20200929-14-m23pn2.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
-        isCached: true
 
 secured: "3ax4buS8v7A6x2kdhuTDRkH1dmaV2WVVkjk1hMchnfach9nMxvQaRkVuEXwAPV8pPcjd71LnfwilqADBu1rZtQx/29Pw7ITPS7ehEOEoWZjJtzVmBrNCPtYPYmklCoMQn50xqBGuB9OZvpzs9KccZ6nwQtAO3RDR+2x0nU+n3PE/tDY/C3zaLggK6Gi4XWDwzAFyrsZ0/MbiLz4PsLRfIFHK/7Ok8cviE+8vAC/xHu2XYS5Tsi0g5K3pZr6MwbdqUmF71TOxr/f3FMH+5IV6NYMpbx2HT9CtFaTFTveK8f7k/vSTw/H+cJ2GE82AtuDTiEHaNVHTX3FFTQT2/qEHqrWGDpCDpfIave65xAhTstF8ipw/sQTpEXKk3MWYnNVuobRQVIrV6GsMy4ifvDQZzV38w0GWQ9CoL7F1nti1+cq1xuQc7zpWHKPsxkf0JMfVX33mba8i9j6fVXYKyM0qvkzWKmnHQDbvV46nsEUUNFPdIt27I9qDyE+tGoqvhcqaKK/9Vkpg6+zVdPz4ySuclA==;rMT78s9pbqm4rlsIgLQjjw=="
 ---

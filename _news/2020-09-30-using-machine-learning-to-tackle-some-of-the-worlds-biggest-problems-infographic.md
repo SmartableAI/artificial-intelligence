@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/30/using-machine-learning-to-tackle-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/30/using-machine-learning-to-tackle-some-of-the-worlds-biggest-problems-infographic/amp/"
 type: article
 quality: 83
-heat: 84
+heat: 83
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/five-australian-universitie
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/five-australian-universities-launch-project-to-improve-voice-assistants-for-kids/"
 type: article
 quality: 69
-heat: 80
+heat: 79
 published: true
 
 provider:
@@ -43,6 +43,6 @@ related:
       domain: smh.com.au
     quality: 24
 
-secured: "jgKcqRGNo4EourJ5A44QgDxstiiEb+PxLHSYGSy3P2ryhU7TWNbvhQvW6CfQTP4ofDWgIuRuIvSKfhNsB85Sktlkm/Hiwa+05MTsXcoOmh2qmaQ+U4Zfl+0NcQM4MsmLs5aafNwy2rWOJv8a86xapjO03YzOVUMcKbwop+n2PnqLIYs29BR206nKL+ciuwR8Vw4zjH9ab76aEuDPalNbaeOs3N0uHQ7+/0kSsT/V7NmzdUq5WEPgG95Zh6ZobBwQsA4XB37X8nAklHY2WRml+rA35+elAOkc7nEXOKpY9Kc0piJgEtnQ4ZHBXxICu2V/anEWzbbrOb70mUnm//8M1E3F2+yv84lodpbM8Um5xpg=;83/KI+ZNfTVAnQNCu8U7JQ=="
+secured: "3NOGInjTx2zXNWrF/CPX2iFiTJWE4lQ+QEmz2MMKG/5eLsl2L69OAMKdyzasQC/Xo40oD8t/Jzldkg6bhbIaN+S7d5ENqWaSXuw8JFa4DjSWsoAyb9oMf9aAgXU1SBGeC1PE4XrQ/PISjHt9j5eyAodXU4YD0W+kFinbG4FOwWkns0o4zY4+vleVcuzkyQSkP+ZlB739MJXNd1uRxAThCIBQo7FjERD1FTYeDrCDcrqWzpGg9AhaZBCrgt934cnvWHxpxvx+LxnQBKG8KgLA/xBFFpJBj2j0pMj87RR5Gl6YUMKTj0ekExFxnduZ3LQ1OG2iavbg8Y8Cnw9cM9WfV7W2LcucLloeTbqpUb1mfPJtjWge+dMLdrvmYppTJYELF87E5+w7LBx9L16AYygzGo+OVxJi/TZZggbwm3x7WEr7QqLxawjBuRitbBWw87jrnt30jNi204sDr1J7szODsvSonYfSDgpr/WyBE0BZsyFa5aLBkGOfGx3iyMnUts8hotTvQdJV9wqhz0P0P5gbGQ==;2HeTpt2WIiib04xhNZJ0PA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2020-09-cannabis-lacking-machine-gap.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-09-cannabis-lacking-machine-gap.amp"
 type: article
 quality: 59
-heat: 80
+heat: 79
 published: true
 
 provider:
