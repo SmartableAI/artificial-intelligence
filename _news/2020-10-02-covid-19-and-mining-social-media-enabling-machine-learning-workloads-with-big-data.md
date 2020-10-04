@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://res.infoq.com/articles/covid-social-media-machine-learning/en/headerimage/croppted-eIq7PfpU-1601562447743.jpeg"
@@ -24,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "kvlCvWVPmU8r0yIQvbOd3ftzmmoQaK4aXnTqMTakKlyS3LuDlu8iUJQ6WTWsIDEYBnheDuSbyW8nu/zovN2U93Dm3i5OP6CBkxu2wEzdLd5mOBjlu/Rc86fsi7/nLUO7XnigBgtlpP4gSZO0U0RAY+D+BFEiiEpVmgsYSuOQcy5NS8xYj/YBe5pjOxpL/tHSXtDwl3sbmqCiyDYlLgMxUEwTBIeiJcwPKvejUCJ0KmZrbUGbcUioyCUmyS5ulB67+ojK/LLXJJLRnbPunP/sUKy3avHUyi1Xp/PxLfnRp5meYjzcxHPAXTSp79Iw5r/Wxh/RV1o4MlCIaqq77UzP49FHmt8zp8yRodWg6Nzd8ZE=;VNiukgBb84h+HN/5ZUP4ZQ=="
+secured: "wk36rGkpep1jfAgo08ND1yYeeAkpBgCcV4QgnYZnhw++CGIr+AaHZXyT/p9SqIaszPV6LB+oouZnrr7Xz9URariDYk9XYS2ePTyNp43EtYaB9pKSMPrERPLq1GAGh8feGMTTkLSm23kRJZ4qEIFCbRCTf3w+sCUsY/bwAa8bleo+yxpm/zUIXi7VkwKpTZFsqETYpc6gkSKwjHjStTKzQuuqZMLq5+7mtluPftaty6zfMzI1u3q6l4+1vkl6LkJNVhuzbh46CcNVODTwCMcc/3clNA5+7PWPkZ3SK3/sXRYb6Ls/CTgUHrFns0T95ohGisTPKP57gK13KMYXIz3sqll5judOz0lhNj0gkfXUETAqOaLAce5KFI6p4wB5ed53hgOBl6jJFpYFEnqvpSYwmiExVODBhblQRalVw5CtMrtSi3vzGuMs9GGPbgLaxwfTo5ucQNr9baLMkFCzK9MR+dbW+qGs7oEdjKoYfSDctjh8aV1mKy/EHQGWJYlPc9dSHZVi/eJ90w94GJaSgOaHZw==;KYTKcFpQ/V8JG+QiGadzgw=="
 ---
 

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Get this Deep Learning & Data Analysis Certification Bundle for only $39.99"
-excerpt: "Best selling instructor and data scientist Minerva Singh provides 30 hours of content on data analysis, visualization, statistics, deep learning, and more including certification at 97% off!"
-publishedDateTime: 2020-09-15T20:00:00Z
-originalUrl: "https://www.neowin.net/news/get-this-deep-learning--data-analysis-certification-bundle-for-only-3999/"
-webUrl: "https://www.neowin.net/news/get-this-deep-learning--data-analysis-certification-bundle-for-only-3999/"
+excerpt: "Deep Learning Statistics & Machine Learning For Regression Modeling With R Learn Hands-On Regression Analysis for Practical Statistical Modeling & Machine Learning in R Master PyTorch For ..."
+publishedDateTime: 2020-09-15T20:02:00Z
+originalUrl: "https://www.neowin.net/news/get-this-deep-learning--data-analysis-certification-bundle-for-only-3999"
+webUrl: "https://www.neowin.net/news/get-this-deep-learning--data-analysis-certification-bundle-for-only-3999"
 ampWebUrl: "https://www.neowin.net/amp/get-this-deep-learning--data-analysis-certification-bundle-for-only-3999/"
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/get-this-deep-learning--data-analysis-certification-bundle-for-only-3999/"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 428
     isCached: true
 
-secured: "DKp7oyadlbKahX9Khnq2PVu1LUzMbrOFir3ETYkZc9DRw52YpGBtGP3srMp6VyPUsXWIwDPC1/Y91z5X7AjKbEV0DJg8oDvu81lvOpCUqL+pKnjAL7C34MTIUHz2HkV799szPTbhcyqsOMhxwEbss0wxTyHdFgLvypsrE7AgyHNOnleQpPZw39+ueW0b+Fp/nwCmib1zk6fLWOQKXVH3l9D9eWBDyyeE4Y+IkzmHeJFyHRc5h6xdcQlOq0bkJcERSzoIQY+OMMtRRxkZIjLOv3Qco6MZWarijDW0CkNe4AGo6nYFJVYLviXfG0UuXZVjfzzClGBYSwPrwyDVOmhcKsAhpvMcIUhZrDc/90JU9duFc5sIPE8vJ4p1gZUZF7clAXl+N7mIsbfeiB6TdS0DbrMUkG6d3u/7S3ldPcMet5/1rdpj0HGv/gbK9Pdf1WmzNurcovcem/co4FHIkr/ymxty9DUf6V4JwOaklTXFRQSlBewK9hH2H88q/LgiTm9m6shL0COzWwO8oHjgmMsOSdDWLEe9ACAMVvs/TOFpJ9s=;0gQUQqCqNO7mte9yJXbqDg=="
+secured: "DPRSMPotmSm4tAFZ6CEGFjcdhAoTEijQcgpd7pljbBOLZ3lm4sc0p0ikCGHL6UXYPmObJhrukdGXfZlcHvMhHlXuPMmLV9Y/4JPJQ4VzuZ1dwSqd//a+wLeCajT2dvSQIUPc2E3aAaiboIRkIWPFtcihxUFRUWsf9qo8rQopvEJzCnRufaxOD63+DGlFB5mdG0VyX6hes5q7fMdssr4hkFkfxCbgV1oJaAj7J0coEVlLc5sICXN5JRVONu5FkjwT9Z79BpC9Az1kqaNsI4nYC2t2zUb9fhx+oTYotb06kZ49wpnbRgboxxYynK7p6E/e2YtvYhpLwXTs0hl5AmrBcDFrVhTl76lmnFgu+lllChc=;1s6ocX8kBFfz7+LDe7Z5vQ=="
 ---
 
