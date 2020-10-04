@@ -5,7 +5,7 @@ otherNames:
   - "Api.ai"
 overview: "People should do the work they care most about. Robots can do the rest. 🤖  Meet our robot @moxirobot."
 type: "profile"
-heat: 112
+heat: 58
 
 website: https://dialogflow.com/
 
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ADD-rvsS5z4"
 
-secured: "LzketafUMZxRK2zBZocPAcsIssxlahn7DMsUXNNxOfbw5AODIooXciVRgku+XYOSUKanduBLIlIO8AR/GoYrMPw/8Kuecw8hma3Sp1YffaiSOPfGr99bMQiIY0LWGz7IRYXEL8MRzfQ7wWZ88kG/PB/s3Ywa3LUBfjGP9ypmw1gg+m14i3G7EZOS5CpUNpd9uNAEyiFATo5YvpIcDgw/S+cMhTvyrqi/JDCpxEvYtt0yzyDmTwlII0RVQnCpsKq6wSQdIMXLO9HXdDNJdRcTyD2rqOJEZK7ByGkuYmQz9B8SbQj4qyEUsxZJDXMxLqcwXY9EFdT2Yfb4lB14bR4nnmQQkdsuF0nl4E9bSZid9bMY6sDnljg+EalcpKu8DdnFAoy6yaWGLJFtvNsNktcvb/2009HJqGYpnLWfQHgMWxY=;ZjqNS4CnhR07GCln/1zCvA=="
+secured: "fPrh7nDri3vH2gNHpjmZXTvnXp8riFWShim3i9f+8cq9lDTaIOYE6bMSB+70eMAsODMbhaKcnz/FaZ0q7PpdUVfzvCQ7yDmpHfI+moGzqo01CEKOAAyDus1cFgvi+34+GsOUJHgOctXMdibX+hJqPCgz7c2+pq6lvs7ihep8SDSiGkV+UdMkVxviuabq6VvBnGiUfYQWMzH66TuZMiTnjyDwBp4XE+3daKl/Xn2aQRP/FsWYFLOYYHKGDlf3+Wea95xCA1TNJAxTC0TT0BHOVkMf9PdhYpWObNhljzPLRbsFAJgPLq5O4HExSiJpCTq7Ac8XX/5hU4OWBUzMu/dovGHmn0mL3O4BmgevrHchOpL1ow7c1TGqnqZEHFkRV/6h0ERo5RKRmP2RUIawieazx05cS10VchYRU8juhGYlWt8=;ukUaMhsPSSrX9WVRp+4vqg=="
 ---
 
