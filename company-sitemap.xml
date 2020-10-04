@@ -385,12 +385,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/ai/company/kabbage/</loc>
-    <lastmod>2020-09-28T00:00:00-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/ai/company/freenome/</loc>
     <lastmod>2020-09-28T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -398,6 +392,12 @@
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/company/gong.io/</loc>
+    <lastmod>2020-09-28T00:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/ai/company/kabbage/</loc>
     <lastmod>2020-09-28T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
