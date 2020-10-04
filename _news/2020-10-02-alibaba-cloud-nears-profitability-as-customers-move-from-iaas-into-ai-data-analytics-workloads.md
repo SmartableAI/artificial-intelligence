@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/alibaba-cloud-nears-profita
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alibaba-cloud-nears-profitability-as-customers-move-from-iaas-into-ai-data-analytics-workloads/"
 type: article
 quality: 79
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 1163
     height: 553
     isCached: true
-
-related:
-  - title: "Artificial Intelligence Platform Enables Data Analytics for Research"
-    excerpt: "A new data analytics tool uses artificial intelligence to facilitate large-scale, data-driven biomedical research."
-    publishedDateTime: 2020-09-29T13:38:00Z
-    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-platform-enables-data-analytics-for-research"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 37
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/image_%281%29.png"
-        width: 690
-        height: 400
-        isCached: true
 
 secured: "swFeAopPhjxEJAV6QTawswd1FANf8VjkUIQ4RR7WGK3AQhvOSvzqhYpWFYku3Iiui70V+qngQUHYf9HQ4a7eJmI2SknWxS/sO0AYiukQdYtU7MCPp283/YylAgkJicZM6sgLmsmNkaVbOzV3Hx8546IQMEYiIY7MK6XU/SsEdJqdPu0Mp/YT8Yuel7sdBOMtM7LuueuhIQbabMaOXbhy0Peeq3IiIYBcUgnjWSd7hUdGYELIl/jiKBTG0Tz6NBHSM0x1fFE6FI1aN/D3/SR810qMOVB0SWygwrmA8AYDrvGsJbrP6eETybCL5SBuWwE3zeSX7w+8vDELgKZNn7zCNXijHxYUc1Lwjz6UYYG/9x2pdtRFk9QRf22UeFWbRh+W585T4jOyGBW7BkGGoQ/SGAtDWwlx2lIA6zVgK5RLQa4Rv66LHiTpFLBDUjnbtlKyfHUEnsK+5vnuCs5qyV3Qf46j9Wk/gAwoGZy3/NDVD/svP2f3i87FUkHhltB4B4WujMrY4aapt06w/CTBLVf+Rg==;ZUAcuVXlXS2REoubdyqyjQ=="
 ---

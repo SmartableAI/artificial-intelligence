@@ -7,7 +7,7 @@ originalUrl: "https://www.bmwblog.com/2020/09/29/bmw-publishes-software-package-
 webUrl: "https://www.bmwblog.com/2020/09/29/bmw-publishes-software-package-for-ai-object-recognition-apps/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 2560
     height: 1707
     isCached: true
-
-related:
-  - title: "Programming artificial intelligence for object recognition made easy – by the BMW Group"
-    excerpt: "The BMW Group is releasing another software package that makes light work of creating artificial intelligence (AI) applications for object recognition. The core of the latest release (github.com/BMW-InnovationLab) is the so-called BMW Labeling Tool Lite."
-    publishedDateTime: 2020-09-29T13:49:00Z
-    webUrl: "https://www.automotiveworld.com/news-releases/programming-artificial-intelligence-for-object-recognition-made-easy-by-the-bmw-group/"
-    type: article
-    provider:
-      name: Automotive World
-      domain: automotiveworld.com
-    quality: 26
 
 secured: "eopS/0w1bQuH/nXpJ+3w4NtMOrcq1tPZ+RW3q03RSP1P9xDWGdQ7jLqdIl6A9wY0AJRF6kLsjwtL+93SvQ2ATAXgTWjLM6mwH9UgMw5hc0yuysNXwBFOfbDlAiUBwyR8TAgGmAjqBWBTcnacZRYQdc8OMqtXA7aF4x6ii81bOXrZ9AkWSPW9oVyeWiAEdHr/k7U+wWKvNLLNHyKqpA9o7kbrVe6p0q0TLRrSx/r5UslSwaCEOkjHq3DVVQQZK8igMyludsaUKeblYkm3wx2cv1g+cXGl1L3OzG6Y0cr+Oxrx+5sJgD+/7GcK/VW8JaCp3DOAt8Gfi4jEfKBn22j+Dx2BBK6UFzg61mALIKQ0vRXxcGE//DEVJoK/RaBpgPEs4DmyN7OqwfbdzwoMmXsQLdvtWmk032fF9T4Ob2ID6xOMF9haiGMq9pLPJqnVNv2t+nQ/24Det97w6Y2a+1nli+oZyXUvClB9yVdq2rULtrKqR/CvAEk1JKBqx27NFtDPccXUG1NuE5jOUF4XE2l4FA==;CTIAi/k/LwMr4AoTvMX0HQ=="
 ---

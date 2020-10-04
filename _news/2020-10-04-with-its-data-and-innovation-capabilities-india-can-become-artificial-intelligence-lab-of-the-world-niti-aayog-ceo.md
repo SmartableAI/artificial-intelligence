@@ -6,6 +6,9 @@ publishedDateTime: 2020-10-04T06:08:00Z
 originalUrl: "https://swarajyamag.com/insta/with-its-data-and-innovation-capabilities-india-can-become-artificial-intelligence-lab-of-the-world-niti-aayog-ceo"
 webUrl: "https://swarajyamag.com/insta/with-its-data-and-innovation-capabilities-india-can-become-artificial-intelligence-lab-of-the-world-niti-aayog-ceo"
 type: article
+quality: 16
+heat: -1
+published: false
 
 provider:
   name: Swarajya
@@ -20,6 +23,24 @@ images:
     width: 1199
     height: 630
     isCached: true
+
+related:
+  - title: "India Can Become AI Laboratory of The World: NITI Aayog CEO"
+    excerpt: "The aim of the summit is to kick-start discussion on the creation of robust AI-powered public infrastructure that benefits all, not just in India but across the world, an official statement said. “India, one of the founding members of the Global ..."
+    publishedDateTime: 2020-10-03T18:04:00Z
+    webUrl: "https://www.india.com/business/india-can-become-ai-laboratory-of-the-world-niti-aayog-ceo-4161749/"
+    ampWebUrl: "https://www.india.com/business/india-can-become-ai-laboratory-of-the-world-niti-aayog-ceo-4161749/amp/"
+    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/business/india-can-become-ai-laboratory-of-the-world-niti-aayog-ceo-4161749/amp/"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 57
+    images:
+      - url: "https://s3.india.com/wp-content/uploads/2015/10/niti-aayog.jpg"
+        width: 651
+        height: 386
+        isCached: true
 
 secured: "xE6xFd2idtR4HZ7Yyfvn+ERFmLYcf5QwV4KTwRB9yDMszapvaD4mVZ56pX38JYDCRmE99Rr584+68tRHaIFDw+IXx2e80NHEOkUSOFIQz7ZRRYQVQvp568GvUbSI5X1IcSspAJSuGo0i3PV7tHE/INo3LT5Geba/NDxVbqWeJchPtaJC+phX+RC5OWkLo+dQzegezcazxAqYwAF02PW25wdciRoyUPkacwQKaLJL9TZm8rYiowbVsRDohxenA2lJaWkRBGMph4hxkjrVceqJSqjNu+eLf8pYBy9D8ZLnaeTyKuaQEwJON9RdJ1y4Vqncm/NNB/Im7t9n3H/ql+OHS2YqhoHv+GgspWIISwfEmzs=;57FSPKnOmbQlMS8QZdSE4Q=="
 ---

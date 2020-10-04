@@ -55,19 +55,19 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Microsoft Obtains Exclusive License for GPT-3 AI Model"
-    excerpt: "Microsoft announced an agreement with OpenAI to license OpenAI's GPT-3 deep-learning model for natural-language processing (NLP). Although Microsoft's announcement says it has \"exclusively\" licensed the model,"
-    publishedDateTime: 2020-09-29T14:33:00Z
-    webUrl: "https://www.infoq.com/news/2020/09/microsoft-license-gpt-3/"
+  - title: "Oracle and Microsoft Introduce Enhanced AI Capabilities for Customer Data Platforms"
+    excerpt: "Oracle added machine learning capabilities to its CX Unity product and Microsoft announced a new engagement insights feature for its CDP."
+    publishedDateTime: 2020-10-02T10:51:00Z
+    webUrl: "https://www.chiefmarketer.com/oracle-and-microsoft-introduce-enhanced-ai-capabilities-for-customer-data-platforms/"
     type: article
     provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 54
+      name: Chief Marketer
+      domain: chiefmarketer.com
+    quality: 48
     images:
-      - url: "https://res.infoq.com/news/2020/09/microsoft-license-gpt-3/en/headerimage/microsoft-license-gpt-3_header-1601145166901.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.chiefmarketer.com/wp-content/uploads/2020/10/istock-653137006-scaled.jpg"
+        width: 1024
+        height: 724
         isCached: true
 
 secured: "qOftniNQFPNbyFskn4DxCxUD8q7YtFbwcgsGtHNYE9p5M4M9wzYgpWisyWS/Ly0mqp9l6LenU4hbgyUEVYjBH7EW5UAZtBBzwdNnBmIDpT4I0QAfMaJN6ZaLXJZqXy5mMASfnD47cehIccOOuhnC5l7zPCYMxpzbcxKDVGGVFhpYXiK8K0ukEqoFYZ8IpUo6wAtKaAYiC6z2wFYkv7Shv5uDS3wYhBxFGh3IfVMD5L75tzt+GLgiBWS4Sej3UHyutW5RkulhvA1Cbzb2gxFmZLWjOhVTWv3nQsKjQda19yLFmlfhkkRi96z0bLvHG9T5KQwfvplV7QF+lEuFUvejXTaBgdga3PCKi2/agVZ9NAM=;fHOSugV4x9S5rKZzB0YUwA=="

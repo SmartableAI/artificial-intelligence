@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/olive-s-ai-workforce-to
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/olive-s-ai-workforce-to-revolutionize-covid-19-testing-at-tufts-medical-center-1029631076"
 type: article
 quality: 63
-heat: 143
+heat: 133
 published: true
 
 provider:
@@ -83,20 +83,6 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
         width: 600
         height: 600
-        isCached: true
-  - title: "Olive's AI Workforce to Revolutionize COVID-19 Testing at Tufts Medical Center"
-    excerpt: "Olive announced today that it has entered into an agreement to leverage its AI workforce technology to streamline COVID-19 testing operations at Tufts"
-    publishedDateTime: 2020-09-29T13:49:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/olives-ai-workforce-to-revolutionize-covid-19-testing-at-tufts-medical-center/article_3650e02e-f8e2-54e4-896b-12c306e10a05.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 33
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/bc/1bcafd02-270b-518b-b8f7-346d623f0f45/5f7334f027ff7.image.jpg?resize=400%2C210"
-        width: 400
-        height: 210
         isCached: true
   - title: "Augmented Intelligence Market Forecast to 2027 - COVID-19 Impact and Global Analysis"
     excerpt: "The \"Augmented Intelligence Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Technology, Enterprise Size, End-User, and Geography\" report has been added to ResearchAndMarkets.com's offering."

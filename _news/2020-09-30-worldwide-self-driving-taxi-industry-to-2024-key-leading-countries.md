@@ -6,6 +6,9 @@ publishedDateTime: 2020-09-30T15:45:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/worldwide-self-driving-taxi-industry-to-2024---key-leading-countries-301142078.html"
 webUrl: "https://www.prnewswire.com/news-releases/worldwide-self-driving-taxi-industry-to-2024---key-leading-countries-301142078.html"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
   name: PR Newswire

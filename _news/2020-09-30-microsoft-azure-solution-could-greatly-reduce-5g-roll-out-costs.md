@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft (MSFT) Azure to Transform 5G Edge Cloud Computing"
-    excerpt: "Microsoft MSFT is focused on making the most of 5G networking capabilities to transform cloud and edge computing. The tech giant is working in collaboration with the telecommunications industry to develop a carrier-grade platform for edge and cloud –– Azure for Operators."
-    publishedDateTime: 2020-09-29T14:38:00Z
-    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-azure-to-transform-5g-edge-cloud-computing-2020-09-29"
-    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-azure-to-transform-5g-edge-cloud-computing-2020-09-29?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-azure-to-transform-5g-edge-cloud-computing-2020-09-29?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 84
   - title: "Microsoft unveils Azure for Operators to unlock 5G potential"
     excerpt: "Microsoft has announced a new cloud platform called Azure for Operators that has been designed to help telecommunications operators unlock the full potential of 5G. The new offering will help communication service providers create new opportunities and provide core infrastructure,"
     publishedDateTime: 2020-09-30T11:08:00Z
@@ -52,17 +41,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft aims to sharpen edge, 5G deployment with Azure for Operators"
-    excerpt: "IT and cloud giant announces partnership programme with telecommunications industry to more effectively enable the roll-out of next-generation networks."
-    publishedDateTime: 2020-09-29T14:39:00Z
-    webUrl: "https://www.computerweekly.com/news/252489786/Microsoft-aims-to-sharpen-edge-5G-deployment-with-Azure-for-Operators"
-    ampWebUrl: "https://www.computerweekly.com/news/252489786/Microsoft-aims-to-sharpen-edge-5G-deployment-with-Azure-for-Operators?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252489786/Microsoft-aims-to-sharpen-edge-5G-deployment-with-Azure-for-Operators?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 69
   - title: "Microsoft Translator now support Assamese language"
     excerpt: "The service is available on Microsoft Translator app, add-ins, Office 365, Bing Translator, and through the Azure Cognitive Services Translator API for businesses and developers. Users can translate Assamese text, supported by more than 70 languages ..."
     publishedDateTime: 2020-09-30T18:54:00Z
@@ -79,6 +57,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft Translator adds Assamese, strengthens support for 12 Indian languages"
+    excerpt: "Microsoft India has announced the addition of Assamese as the latest Indian language in Microsoft Translator. The Azure-based service will now provide real-time"
+    publishedDateTime: 2020-09-30T08:09:00Z
+    webUrl: "https://technuter.com/operating-system/microsoft/microsoft-translator-adds-assamese-strengthens-support-for-12-indian-languages.html"
+    ampWebUrl: "https://technuter.com/operating-system/microsoft/microsoft-translator-adds-assamese-strengthens-support-for-12-indian-languages.html/amp"
+    cdnAmpWebUrl: "https://technuter-com.cdn.ampproject.org/c/s/technuter.com/operating-system/microsoft/microsoft-translator-adds-assamese-strengthens-support-for-12-indian-languages.html/amp"
+    type: article
+    provider:
+      name: technuter.com
+      domain: technuter.com
+    quality: 55
+    images:
+      - url: "https://technuter.com/wp-content/uploads/2020/01/Microsoft.jpg"
+        width: 418
+        height: 335
+        isCached: true
   - title: "Microsoft Translator now supports Assamese too"
     excerpt: "Microsoft India said on Wednesday that it has added Assamese as the latest Indian language in Microsoft Translator, increasing the number of Indian languages it supports to 12. The Azure-based service will now provide real-time translation and transliteration support for the language."
     publishedDateTime: 2020-09-30T11:54:00Z
@@ -92,6 +86,20 @@ related:
       - url: "https://menafn.com/updates/pr/2020-09/30/I_9ee6f788-9image_story.jpg"
         width: 400
         height: 300
+        isCached: true
+  - title: "Scality Announces 1 Terabit Per Second Performance for Scale-Out File System in Microsoft Azure Public Cloud"
+    excerpt: "Scality, a leader in software solutions for distributed file and object storage, today announced the technical preview"
+    publishedDateTime: 2020-09-29T20:10:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/scality-announces-1-terabit-per-second-performance-for-scale-out-file-system-in-microsoft-azure-public-cloud/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 35
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/Advantage-System-2-405x228.jpeg"
+        width: 405
+        height: 228
         isCached: true
   - title: "Microsoft Azure Cloud Ramps for 5G Telecom Service Provider Partners"
     excerpt: "Microsoft Azure for Operators helps partners & telecommunications service providers (TSPs) roll out 5G networks and deliver new cloud-based services, Microsoft says."

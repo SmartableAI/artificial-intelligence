@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-2020-global-trend-segmentation-and-opportunities-forecast-to-2026-2020-09-29"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -28,34 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence In Healthcare Market Growth, Leading Players and Forecast To 2025"
-    excerpt: "A comprehensive research report created through extensive primary research (inputs from industry experts, companies, stakeholders) and secondary research, the report aims to present the analysis of Global Artificial Intelligence in Healthcare Market."
-    publishedDateTime: 2020-09-29T16:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2025-2020-09-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 75
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI in Health Care: Leading through Change"
-    excerpt: "Health care is evolving faster than we could have imagined. We are in the midst of a health care revolution, driven by artificial intelligence (AI). AI is creating a space for innovation and can enable physicians and nurses to work more efficiently and effectively in the face of unprecedented change."
-    publishedDateTime: 2020-09-29T15:28:00Z
-    webUrl: "https://www.aha.org/aha-center-health-innovation-market-scan/2020-09-29-ai-health-care-leading-through-change"
-    type: article
-    provider:
-      name: aha.org
-      domain: aha.org
-    quality: 39
-    images:
-      - url: "https://www.aha.org/sites/default/files/2019-04/Market_Scan_Call_Out_360x300.png"
-        width: 360
-        height: 300
-        isCached: true
   - title: "Global Artificial Intelligence Software Market 2020 Industry Key Player, Trend and Segmented Data, Demand and Forecast by 2025"
     excerpt: "Sep 29, 2020 (CDN Newswire via Comtex) -- A wide-ranging analysis report titled Global Artificial Intelligence Software Market 2020 by Company, Regions,"
     publishedDateTime: 2020-09-29T19:08:00Z

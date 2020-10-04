@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/buddiai-emerges-from-stea
 webUrl: "https://www.prnewswire.com/news-releases/buddiai-emerges-from-stealth-mode-to-transform-the-healthcare-revenue-cycle-301143543.html"
 type: article
 quality: 51
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Expanding Access to Mental Healthcare with Artificial Intelligence"
-    excerpt: "Researchers at University of Illinois Chicago are testing a virtual agent powered by artificial intelligence to broaden access to mental healthcare."
-    publishedDateTime: 2020-09-29T15:03:00Z
-    webUrl: "https://healthitanalytics.com/news/expanding-access-to-mental-healthcare-with-artificial-intelligence"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 54
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1092965070.jpg"
-        width: 690
-        height: 400
-        isCached: true
   - title: "BUDDI.AI Emerges from Stealth Mode to Transform the Healthcare Revenue Cycle"
     excerpt: "PR Newswire/ -- BUDDI.AI (f/k/a BUDDIHealth), a leading provider of AI-powered clinical revenue cycle automation solutions for healthcare is proud to announce its emergence from"
     publishedDateTime: 2020-10-01T13:26:00Z

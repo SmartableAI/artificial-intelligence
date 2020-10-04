@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en_us/article/qj4qbw/uber-safety-driver-cha
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
 type: article
 quality: 72
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://www.sunderlandecho.com/images-i.jpimedia.uk/imagefetch/https://jpgreatcontent.co.uk/wp-content/uploads/2020/09/Audi-Q8_CCRs_straight-lane.jpg"
         width: 1620
         height: 1080
-        isCached: true
-  - title: "Uber Self-Driving Car Death Ruling Sets a Scary Precedent"
-    excerpt: "This March 18, 2018  from video from a mounted camera provided by the Tempe Police Department shows an interior view moments before an Uber SUV hit a woman in Tempe, Ariz. (Tempe Police Department via AP,"
-    publishedDateTime: 2020-09-29T16:01:00Z
-    webUrl: "https://nextcity.org/daily/entry/uber-self-driving-car-death-ruling-sets-a-scary-precedent"
-    type: article
-    provider:
-      name: Next City
-      domain: nextcity.org
-    quality: 24
-    images:
-      - url: "https://nextcity.org/images/daily/_resized/AP_20259839530321.jpg"
-        width: 1200
-        height: 718
         isCached: true
 
 secured: "pc3mrFPpDW4GVVotH+FsQoZEp98b0Hba9LwDySp3sfEUl584+P9sXFMkjZ3tFEueYWEXn9RQw6lHKRlf68EUxS6gNiALzq15jlERss+OR3+kaCN6VzyxWNv9LgJqVZgLW3NKTV8qYD5/BwD371B7hMncMpJ9EXmQf43hrYOyniQC3y/hFe8qluIMXAuDP4NeypfVCNCUX4YueHZY1bOyeCYA7HV3ixpLKEeJpC2Jgjwf3K8Z8z4aN8LVt0tbD2DaxzcXWcqXtH24M5Jhyyc7r9Atmemtxm2ExinJWPCui3UiXEGYQeuPvyE4PCJb42HDCbZLunTKOdicwGKxanDuKJ/ng3+LZBZyb2cziTU4n4M=;6PJxarUwpuTDnUtI/uZm7Q=="

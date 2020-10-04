@@ -41,19 +41,19 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Microsoft Obtains Exclusive License for GPT-3 AI Model"
-    excerpt: "Microsoft announced an agreement with OpenAI to license OpenAI's GPT-3 deep-learning model for natural-language processing (NLP). Although Microsoft's announcement says it has \"exclusively\" licensed the model,"
-    publishedDateTime: 2020-09-29T14:33:00Z
-    webUrl: "https://www.infoq.com/news/2020/09/microsoft-license-gpt-3/"
+  - title: "Oracle and Microsoft Introduce Enhanced AI Capabilities for Customer Data Platforms"
+    excerpt: "Oracle added machine learning capabilities to its CX Unity product and Microsoft announced a new engagement insights feature for its CDP."
+    publishedDateTime: 2020-10-02T10:51:00Z
+    webUrl: "https://www.chiefmarketer.com/oracle-and-microsoft-introduce-enhanced-ai-capabilities-for-customer-data-platforms/"
     type: article
     provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 54
+      name: Chief Marketer
+      domain: chiefmarketer.com
+    quality: 48
     images:
-      - url: "https://res.infoq.com/news/2020/09/microsoft-license-gpt-3/en/headerimage/microsoft-license-gpt-3_header-1601145166901.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.chiefmarketer.com/wp-content/uploads/2020/10/istock-653137006-scaled.jpg"
+        width: 1024
+        height: 724
         isCached: true
   - title: "Andor Health Collaborates with Mentor to Deliver Next Generation, AI-Powered Virtual Experiences with Microsoft Technology"
     excerpt: "Andor Health and Mentor Worldwide LLC have formed a collaboration to provide the aesthetic physician community with the next-generation virtual health experiences to enhance the relationship between a surgeon and their patients."

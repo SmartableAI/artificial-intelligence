@@ -7,7 +7,7 @@ originalUrl: "https://www.infoworld.com/article/3584152/run-a-deep-learning-mode
 webUrl: "https://www.infoworld.com/article/3584152/run-a-deep-learning-model-in-java-a-quick-take.html"
 type: article
 quality: 71
-heat: 71
+heat: 72
 published: true
 
 provider:

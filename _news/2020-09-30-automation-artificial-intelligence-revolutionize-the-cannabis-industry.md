@@ -28,14 +28,14 @@ related:
   - title: "How the pandemic has reshaped AI, robotics, and automation"
     excerpt: "Tonya Hall talks with Dr. Kate Darling, research specialist at the MIT Media Lab, to learn more about how the future of AI, robotics, and automation was reshaped following the COVID-19 pandemic outbreak."
     publishedDateTime: 2020-10-01T13:20:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/video/how-the-pandemic-has-reshaped-ai-robotics-and-automation/"
+    webUrl: "https://www.zdnet.com/video/how-the-pandemic-has-reshaped-ai-robotics-and-automation/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
     quality: 99
     images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/09/30/f447663b-3622-49b4-9d70-842de8d91c0d/thumbnail/370x278/c89db3759753cf93a251fb062018a286/it-leadership-influential-cios-deliver-e-5f71c506156d300635196775-1-sep-30-2020-12-20-02-poster.jpg"
+      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/10/01/46c45d69-b545-4832-8436-707c403c6393/thumbnail/370x278/f9e6564e767b3b87b7f3eb35bb3c3e1a/20201001-j2-google.jpg"
         width: 370
         height: 278
         isCached: true
@@ -54,20 +54,6 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2020/09/MIT_AppDCoverARTonly.png"
         width: 1500
         height: 1161
-        isCached: true
-  - title: "Harnessing big data and artificial intelligence to predict future pandemic spread"
-    excerpt: "During COVID-19, artificial intelligence (AI) has been used to enhance diagnostic efforts, deliver medical supplies and even assess risk factors from blood tests. Now, artificial intelligence is being used to forecast future COVID-19 cases."
-    publishedDateTime: 2020-09-29T15:51:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-09/tau-hbd092920.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 32
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "9f5MI1iuvtdyNp0pzu03p1J90OmgKhg4ybZzIPMAr/fQnetuRE1zLk6FFpqePYBI9132D0cbts/EJ/s4canrNTuFaDckUMmISthsU4IN3WIJLnShp+YcYiTCDEonbega1VXNantuaS76yhDOrtnPCxaqcOEAek2livOx7YHbKrKZwJe/yQGQpSV70UQtYMx/zCt3TcV3iMOS83di8YQYHc/+zCv8K1ZXvZWQFAAA7A8pM+tfLpHnhXJsMGJ/JewCUAdOHpJQehynUWCjZ0VrLyG/W98TIWZDWjvMk0gVeCijgypljQQ7hi/Y+nvB02jnk2xDk2MWDq+y7FNkt3MO94LuFGzS1J1G9qgynnQ+pxs=;k0W6mlZIyf15fc4qZ+r6Cg=="

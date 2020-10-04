@@ -25,49 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Women Founders of AI Startups Take Aim at Gender Bias"
-    excerpt: "They see gender diversity in their companies as crucial in making sure the technology doesn’t penalize the underrepresented."
-    publishedDateTime: 2020-09-29T14:36:00Z
-    webUrl: "https://www.wsj.com/articles/women-founders-of-ai-startups-take-aim-at-gender-bias-11601388625?mod=hp_featst_pos4"
-    ampWebUrl: "https://www.wsj.com/amp/articles/women-founders-of-ai-startups-take-aim-at-gender-bias-11601388625"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/women-founders-of-ai-startups-take-aim-at-gender-bias-11601388625"
+  - title: "When artificial intelligence creates art"
+    excerpt: "Intelligent algorithms are used to create paintings, write poems, and compose music. According to a study by an international team of researchers from the Massachusetts Institute of Technology (MIT),"
+    publishedDateTime: 2020-09-30T12:59:00Z
+    webUrl: "https://www.mpg.de/15455301/0929-bild-134137-artificial-intelligence-in-art-a-simple-tool-or-creative-genius1"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 89
+      name: Max Planck Society
+      domain: www.mpg.de
+    quality: 39
     images:
-      - url: "https://images.wsj.net/im-237380/social"
-        width: 1280
-        height: 640
+      - url: "https://www.mpg.de/15454976/original-1601457345.png"
+        width: 1019
+        height: 1023
         isCached: true
-  - title: "Prepare.ai Founders & Sponsors Underwrite Entire Costs of 2020 Conference"
-    excerpt: "St. Louis-based AI & Tech Conference featuring nationally-known thought-leaders across multiple disciplines will now be free and open to all. ST. LOUIS -- September 28, 2020 -- The 2020 Prepare.ai Conference,"
-    publishedDateTime: 2020-09-29T19:12:00Z
-    webUrl: "https://www.directionsmag.com/pressrelease/10177"
+  - title: "Artificial intelligence in art: a simple tool or creative genius?"
+    excerpt: "According to a study by an international team of researchers from the Massachusetts Institute of Technology (MIT), and the Center of Humans and Machines at the Max Planck Institute for Human Development, whether people perceive artificial intelligence (AI ..."
+    publishedDateTime: 2020-09-30T13:26:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-09/mpif-aii093020.php"
     type: article
     provider:
-      name: Directions Magazine
-      domain: directionsmag.com
-    quality: 38
-    images:
-      - url: "https://dmpublisher.s3.us-west-2.amazonaws.com/2020/September/29/6/84b444f5-b1d8-4c58-b8b9-ac3c7c45a7e8-sized"
-        width: 800
-        height: 800
-        isCached: true
-  - title: "Startup Doc.ai inks deal with Anthem, names female cofounder CEO"
-    excerpt: "Palo Alto, California-based artificial intelligence startup doc.ai, which named cofounder Sam De Brouwer its new CEO on Tuesday, has built the technical infrastructure to securely collect and process disparate data in ways that engage patients."
-    publishedDateTime: 2020-09-29T15:33:00Z
-    webUrl: "https://www.healthleadersmedia.com/telehealth/startup-docai-inks-deal-anthem-names-female-cofounder-ceo"
-    type: article
-    provider:
-      name: HealthLeaders Media
-      domain: healthleadersmedia.com
+      name: EurekAlert!
+      domain: eurekalert.org
     quality: 37
     images:
-      - url: "https://www.healthleadersmedia.com/sites/hlmp/themes/hlmp/release/hlm_redesign/images/footer-logo.png"
-        width: 500
-        height: 211
+      - url: "https://eurekalert.org/multimedia/pub/web/244495_web.jpg"
+        width: 1440
+        height: 1445
         isCached: true
 
 secured: "SUp2YptBG75kVUzg8Mbfk3V5Ebj3rxqxe53AWR/zhCBl2EUt7EnU7ugQdE5ArxVhdDGbqT/lro17k4IN9tC60hoyk1qTej4rD3OSdzIv2vIqSWJBHk8dNGWM2AuGEzGNXpJcNvU2WJjAH+yd8rIRWykgv8JHKEvwjEtaa9a01izLHmCWglpvcFc7ocMirT5O1u6BYpeYh/Qp7DHIFyLtQBKZSj/1qxruB6W+M8/tRGeZJhfbkrT2+aOq/THvmtR/KA5Kv1vz4kV5CbvTtWF61LSKlGJKuCBpviFbbuNy4aE21ZU4aqazpJIp3HUtcQ0n+65L1FQ7mikSd1tiMk5Dc56DzywJ6lz86MZl6z+eaZs=;2/dCu2R0EwrjEUf4ZqGTyg=="

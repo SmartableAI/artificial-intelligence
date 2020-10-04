@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-04-pm-narendra-modi-to-inaugurate-artificial-intelligence-raise-summit-on-oct-5.md",
+      "title": "PM Narendra Modi to inaugurate artificial intelligence ‘RAISE’ summit on Oct 5",
+      "excerpt": "Prime Minister Narendra Modi will inaugurate RAISE 2020, a mega virtual summit on Artificial Intelligence (AI) on October 5.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsx.com/national/pm-narendra-modi-to-inaugurate-artificial-intelligence-raise-summit-on-oct-5.html",
+      "originalUrl": "https://www.newsx.com/national/pm-narendra-modi-to-inaugurate-artificial-intelligence-raise-summit-on-oct-5.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newsx.com/wp-content/uploads/2020/09/modif-703091-C05kaKE3.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newsx.com/amp/national/pm-narendra-modi-to-inaugurate-artificial-intelligence-raise-summit-on-oct-5.html",
+      "cdnAmpWebUrl": "https://www-newsx-com.cdn.ampproject.org/c/s/www.newsx.com/amp/national/pm-narendra-modi-to-inaugurate-artificial-intelligence-raise-summit-on-oct-5.html",
+      "publishedDateTime": "2020-10-04T01:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NewsX",
+        "domain": "newsx.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-03-tire-blowouts-could-cause-self-driving-cars-to-go-astray.md",
       "title": "Tire Blowouts Could Cause Self-Driving Cars To Go Astray",
       "excerpt": "Self-driving cars will need to contend with tire blowouts. getty. Have you ever had a tire go bad on you? Sometimes, a tire can seemingly obliterate and become a tangled mess of r",
@@ -246,7 +288,7 @@
       "originalUrl": "https://www.infoworld.com/article/3584152/run-a-deep-learning-model-in-java-a-quick-take.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -1055,47 +1097,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-02-pm-modi-to-inaugurate-global-summit-on-artificial-intelligence-on-oct-5.md",
-      "title": "PM Modi to inaugurate global summit on artificial intelligence on Oct 5",
-      "excerpt": "New Delhi: Prime Minister Narendra Modi will inaugurate a global virtual summit on Artificial Intelligence (AI), RAISE 2020 - 'Responsible AI for Social Empowerment 2020' on October 5, according to the Ministry of Electronics and Information Technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/india/pm-modi-to-inaugurate-global-summit-on-artificial-intelligence-on-oct-5",
-      "originalUrl": "https://www.freepressjournal.in/india/pm-modi-to-inaugurate-global-summit-on-artificial-intelligence-on-oct-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mc.webpcache.epapr.in/mcms.php?size=large&in=https://mcmscache.epapr.in/post_images/website_13/post_18468642/thumb.jfif",
-          "width": 800,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://m.freepressjournal.in/article/india/pm-modi-to-inaugurate-global-summit-on-artificial-intelligence-on-oct-5/874fdda3-15a7-40ed-866a-b14d3946b9f2",
-      "cdnAmpWebUrl": "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/india/pm-modi-to-inaugurate-global-summit-on-artificial-intelligence-on-oct-5/874fdda3-15a7-40ed-866a-b14d3946b9f2",
-      "publishedDateTime": "2020-10-01T18:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-02-report-former-pelican-coach-alvin-gentry-serious-contender-to-join-doc-rivers-staff-in-philadelphia.md",
       "title": "Report: Former Pelican coach Alvin Gentry 'serious contender' to join Doc Rivers staff in Philadelphia",
       "excerpt": "After being fired from the New Orleans Pelicans this off-season, Alvin Gentry is likely to be apart of Doc Rivers’ staff in Philadelphia.",
@@ -1145,7 +1146,7 @@
       "originalUrl": "https://www.zdnet.com/article/alibaba-cloud-nears-profitability-as-customers-move-from-iaas-into-ai-data-analytics-workloads/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {

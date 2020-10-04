@@ -16,9 +16,9 @@ provider:
       height: 50
 
 topics:
-  - TensorFlow
   - Google AI
   - AI
+  - TensorFlow
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -26,6 +26,6 @@ images:
     height: 630
     isCached: true
 
-secured: "EKffXGUlmpj/vXgikpv5qOYtmcCS4a1bD5UT6KlgcXP4epU5WsazPs6R8LZU1saOpEGMSlecZMOBwr39yqJADw5jjxP9nFQ2R5BzR8P1LfXd2YqA7sO+VU/RL2raUY1yV2qRkPDFPwtZIuBhxxeoDp7xDqQ+gT6paRrDBCga4S3U+1UTAianCKwAXB3htS9zu0Yegkyjz7HqRi0yrlaMvsXiP86O9XA2aGQ3yBQGZJZcPnQuyu+M8HJUL+Xn1P5yKj3vb/onW4vouOTnXwcc9nX+igStfR1zPjtTvsNmG54NjMFWLb5K6BJngQPZEFjlCM+drx/v2YagAWRqhD4fI/Eq2abd8SJvYX4TqgteoR4=;ygKBNl3JZi/s/EkoOXIYeg=="
+secured: "3xsvCam6MKQx17pQMRVvs0joUliLSzjWdF4S9YaVdApQeJZo809eyeH6vIRhGcfng5MkhCKbTju5Ss6ClzWOHvqY2oagAfHkFD/t4BHmHvy52oM9f+LpO3fV4WRlXoLPDvS2YcXMnSW6Tgx2hO5hv1xwYQTUsM6TzNdQO6Y1xN8oBiLkAIt+NyvbDCgUUsnRNgz7PT0pHm+H/SBxcBvaA8g0nhydbOo3s0/9qU/iFlE8fIykHcqDvmaR8yKkuW9qa5jdapLAohBq/R/wCILIexrj5HeQcNr71xU7D5nsceRf0vUWxBiGKGavuGww4nPIGXfh0oKJ0FIALm9+7d8FfkUTlFV3t46OdYy2jFMhTcg=;ssdl6pFfRfzPtUsMuSSvTQ=="
 ---
 

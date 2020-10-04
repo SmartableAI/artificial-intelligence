@@ -1,26 +1,27 @@
 ---
 category: news
-title: "‘Vermont Voice and Vote’ is theme of Vermont Archives Month"
-excerpt: "October is Vermont Archives Month and the theme this year is “Vermont Voice and Vote,\" state officials said. Vermont's theme \"was selected in recognition of"
-publishedDateTime: 2020-10-03T18:50:00Z
-originalUrl: "https://apnews.com/b9a497d0dddb27e34919e3d7d5fcae1c"
-webUrl: "https://apnews.com/b9a497d0dddb27e34919e3d7d5fcae1c"
+title: "'Vermont Voice and Vote' Is Theme of Vermont Archives Month"
+excerpt: "October is Vermont Archives Month and the theme this year is “Vermont Voice and Vote,\" state officials said. Vermont's theme \"was selected in recognition of a monumental year that brings us a new census,"
+publishedDateTime: 2020-10-04T02:04:00Z
+originalUrl: "https://www.usnews.com/news/best-states/vermont/articles/2020-10-03/vermont-voice-and-vote-is-theme-of-vermont-archives-month"
+webUrl: "https://www.usnews.com/news/best-states/vermont/articles/2020-10-03/vermont-voice-and-vote-is-theme-of-vermont-archives-month"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://apnews.com/images/ShareLogo2.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "qkXUdcqF3dqi0tcahwsM7Jtfa42fxKHSnE39snhoj/u1NGq7E63UEs63ku2MDqPF9253Yl9Xg9K7q9uQreK+ufSi9HG+MEsiwHfUsSRJcuZxY6fqkKbi+rpDWV3XLKl/TK4ASwOKj8qa0IowUBE++148+8zhl+t3B+WX3+rLDsQR1PfUXQoYtrY9woiOezretcGbozzEukCGlHmwjC8SMhLCJxfzh+d0JRl+c4WHYiIFf0WsQS7ZEXl3NBE9qcsskQ3BkkDoty3KaF2YgLpM4Fsp5M2Px8NkxeuOnrXznwldu9NpYO69Tr6fECLS8LoQa5BA8qB23VvQg7eANrZphCfnp1b6c0T5wTZaN1k5xk8=;1rO7QH7J/ogR309BnbSEHw=="
+secured: "cI2cn/p+gg47plRrXQTR4qM79FCncFPtTZEFKtNP/WdRcOcP035LR0+TuOYMLFVgGYUWa4/snAffSdR8TY5/thfJiasG8z+yJa4RzgtjiygKb00u0tQ4/oRTw2mkPz7TjebPdoFgL9eA96fkMKsuXWgHwxrosz89NBtbNB35N983EHnmyMbDZdOJ6jDrmgo6fl6m5dCU38gziWsstxcqHYzpH8bTgkHapqNh1dJ4OqI0b/rYIsU9b4kEPW8xfcYWyAGybR7mmjYZPnOFRJkLpEHrK9x3Gro0crGixlZLumIADzaFBB3RlHfgjOBg//LM3UjdFGVa3Ct0ho9/MIXrip6kOE92R2vrgvGzxOACN08=;GjicgepS7hE05mqrdmCcPg=="
 ---
 

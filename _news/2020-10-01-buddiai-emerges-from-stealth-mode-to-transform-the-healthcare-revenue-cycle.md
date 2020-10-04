@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Expanding Access to Mental Healthcare with Artificial Intelligence"
-    excerpt: "Researchers at University of Illinois Chicago are testing a virtual agent powered by artificial intelligence to broaden access to mental healthcare."
-    publishedDateTime: 2020-09-29T15:03:00Z
-    webUrl: "https://healthitanalytics.com/news/expanding-access-to-mental-healthcare-with-artificial-intelligence"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 54
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1092965070.jpg"
-        width: 690
-        height: 400
-        isCached: true
   - title: "BUDDI AI Emerges from Stealth Mode to Transform the Healthcare Revenue Cycle"
     excerpt: "PRNewswire/ -- BUDDI AI ( a.k.a BUDDI Health), a leading provider of AI-powered clinical and revenue cycle automation solutions for healthcare, is proud"
     publishedDateTime: 2020-10-01T16:10:00Z

@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "VMware, Nvidia integrate on architecture, technology as they aim to accelerate AI adoption"
-    excerpt: "The partnership secures Nvidia's role in hybrid clouds as VMware outlined an architecture that incorporates data processing units (DPUs) in the data center, cloud and edge."
-    publishedDateTime: 2020-09-29T16:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/vmware-nvidia-integrate-on-architecture-technology-as-they-aim-to-accelerate-ai-adoption/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/vmware-nvidia-integrate-on-architecture-technology-as-they-aim-to-accelerate-ai-adoption/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/vmware-nvidia-integrate-on-architecture-technology-as-they-aim-to-accelerate-ai-adoption/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 77
-    images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/09/28/c3259eba-0214-46d7-a76a-9b9ca5a892b6/vmware-nvidia-architecture.png"
-        width: 748
-        height: 471
-        isCached: true
   - title: "VMware Embraces Nvidia GPUs, DPUs To Drive Enterprise AI"
     excerpt: "AI is too hard for most enterprises to adopt, just like HPC was and continues to be. The search for “easy AI” – solutions that will reduce the costs and"
     publishedDateTime: 2020-09-30T21:14:00Z
@@ -116,48 +100,6 @@ related:
         width: 651
         height: 455
         isCached: true
-  - title: "AMD To Strongly Benefit From New AI And Gaming Chips From Nvidia And AMD"
-    excerpt: "PCIe 4 is increasingly widely adopted by the PC and server industries. With Intel lacking critical PCIe 4 solutions, AMD is set to benefit."
-    publishedDateTime: 2020-09-29T14:12:00Z
-    webUrl: "https://seekingalpha.com/article/4376813-amd-to-strongly-benefit-from-new-ai-and-gaming-chips-from-nvidia-and-amd"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 53
-    images:
-      - url: "https://static3.seekingalpha.com/uploads/2020/9/28/9110881-16013140249302285.jpg"
-        width: 640
-        height: 441
-        isCached: true
-  - title: "Nvidia NGC To Supercharge AI On VMware Cloud, vSphere And Tanzu"
-    excerpt: "Nvidia NGC will be integrated into VMware Cloud Foundation, vSphere and Tanzu to simplify the deployment of AI applications in enterprises, the two companies announced at VMworld 2020."
-    publishedDateTime: 2020-09-29T16:49:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/nvidia-ngc-to-supercharge-ai-on-vmware-cloud-vsphere-and-tanzu"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/0261-107dcd5f4248-ee0f859e333c-1000/abstract_partnership400.jpg"
-        width: 599
-        height: 399
-        isCached: true
-  - title: "VMware and Nvidia partner to accelerate AI and enterprise workloads"
-    excerpt: "Virtualization software giant VMware Inc. said today at its VMworld 2020 virtual event that it’s partnering with computer graphics chipmaker Nvidia Corp. on a new enterprise platform for artificial intelligence workloads."
-    publishedDateTime: 2020-09-29T16:28:00Z
-    webUrl: "https://siliconangle.com/2020/09/29/vmware-nvidia-partner-accelerate-ai-enterprise-workloads/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/NVIDIACEOfounderJensenHuang_VMwareCEOPatGelsinger_VMworld2020.jpg"
-        width: 2000
-        height: 1115
-        isCached: true
   - title: "Arize AI Joins NVIDIA Inception Program"
     excerpt: "Arize AI, today announced it has joined the NVIDIA Inception program, which is designed to nurture startups revolutionizing industries"
     publishedDateTime: 2020-10-02T15:00:00Z
@@ -181,24 +123,6 @@ related:
       name: Morningstar%2c Inc.
       domain: morningstar.com
     quality: 33
-  - title: "VMware announces Nvidia AI tie-up, Carbon Black-based security solutions"
-    excerpt: "VMware (VMW +1.0%) has a slate of announcements coming out of today's VMworld event.VMW is partnering with Nvidia (NASDAQ:NVDA) to make its data center management software work better with AI chips."
-    publishedDateTime: 2020-09-29T14:23:00Z
-    webUrl: "https://seekingalpha.com/news/3618048-vmware-announces-nvidia-ai-tie-up-carbon-black-based-security-solutions"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 20
-  - title: "VMware and NVIDIA to Enable Next-Gen Hybrid Cloud Architecture and Bring AI to Every Enterprise"
-    excerpt: "VMware Customers Can Benefit from Unified Management of NVIDIA AI Software with All Apps, Tap into Security, Acceleration Capabilities of NVIDIA BlueField-2 DPU VMworld 2020 — At VMworld 2020, VMware and NVIDIA today announced a broad partnership to deliver both an end-to-end enterprise platform for AI and a new architecture for data center,"
-    publishedDateTime: 2020-09-29T16:00:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20200929005455/vmware-and-nvidia-to-enable-next-gen-hybrid-cloud-architecture-and-bring-ai-to-every-enterprise"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 7
 
 secured: "VNZq3jyVgIIYLEJ/HBIgkDFkz7WNCIUTCwOe1aP0f14Ar1Vc2m6eQjMmyPL1SuplqXdvfEBiSVk+x+Sewd75Xwnx1e2YXXDDznIoOrQ5Xb1U7vXXil8nZsaBdzpLL8c1LzGdiSSFHi44Ggi5KafHu5Tc2IUBmPtygJDPjTrAR40HYuMHVIlcM5Wh2R+hUR2ZJjT9VHG2AFXa8+w8cBJPUqY/vQzA7xUpPqMIwGMZHgpJxE90eV86Gf7fjpOfM1Zsl3cZzHawPb0omHtGP3A7ahIxn34arYAGbsE9wiYTlU4uZGaLZJmoKBl+Ar3DBO+YVj1qThck8H67buxDXMYPbsemrUG3MxqYn89FOaVSlq4h+rXnCgpGMMvNhTUpvBGkVsT9TTQaIDKSuwJz8sKUfArwWdgPb65I/Y5UjmSw1BR086v6FnFul3izagk6RWkZu6DVNN7fZgpeIqLtUH1Zflukj/pDYYL9+9swV+bPcRXvXrT3mcHRJFvFjoIEuK5B3d+kNOVFVc2JtHE+i3V0qQ==;MoyBUpJX4YescSH9i1T01g=="
 ---

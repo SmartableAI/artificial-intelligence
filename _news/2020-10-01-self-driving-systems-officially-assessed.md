@@ -71,20 +71,6 @@ related:
         width: 1620
         height: 1080
         isCached: true
-  - title: "Uber Self-Driving Car Death Ruling Sets a Scary Precedent"
-    excerpt: "This March 18, 2018  from video from a mounted camera provided by the Tempe Police Department shows an interior view moments before an Uber SUV hit a woman in Tempe, Ariz. (Tempe Police Department via AP,"
-    publishedDateTime: 2020-09-29T16:01:00Z
-    webUrl: "https://nextcity.org/daily/entry/uber-self-driving-car-death-ruling-sets-a-scary-precedent"
-    type: article
-    provider:
-      name: Next City
-      domain: nextcity.org
-    quality: 24
-    images:
-      - url: "https://nextcity.org/images/daily/_resized/AP_20259839530321.jpg"
-        width: 1200
-        height: 718
-        isCached: true
 
 secured: "xEmwvgF2Z6nlGtESUxkE9aDAG8f/uLqaXHRkQ6iLaLUGWifjuGtassGBWABNuLd8LZDFFdac0W/mZACL8QcpymCxqyxnSYQTHudepz+kDmgkMuZu0c5dPQHvOSQ+Whazvh7XAgS4vI2sdXtqWGrJ5l5vnBUEi+lF65NjsjcBpEW42erVcz5UsfB8Y/KUaXTANEeCv+EhO2KlXgWgH+RJBUFxUh1QZAtzkwr86q+OcSunM/wgezUtA9te3FnCTE8uJE7M98l4uhDceF6thigT+85qZx7jK70/RSs9qysR35XASBKDGoHnuCjBtMTegb/Lq//XeygmCEcmM59obmMGaOg+Vdo3EjqUpixcm/u549k=;L9RtWmn1hkUd0njt51VHIQ=="
 ---

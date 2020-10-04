@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.newsx.com/national/pm-narendra-modi-to-inaugurate-artificial-intelligence-raise-summit-on-oct-5.html</loc>
+    <lastmod>2020-10-04T01:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/lanceeliot/2020/10/03/tire-blowouts-could-cause-self-driving-cars-to-go-astray/</loc>
     <lastmod>2020-10-03T08:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -133,12 +139,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.freepressjournal.in/india/pm-modi-to-inaugurate-global-summit-on-artificial-intelligence-on-oct-5</loc>
-    <lastmod>2020-10-01T18:50:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://inside-com.breezy.hr/</loc>
     <lastmod>2020-10-01T17:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -217,7 +217,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/index.php/category/2381/index.php/video/how-the-pandemic-has-reshaped-ai-robotics-and-automation/</loc>
+    <loc>https://www.zdnet.com/video/how-the-pandemic-has-reshaped-ai-robotics-and-automation/</loc>
     <lastmod>2020-10-01T06:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -439,6 +439,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.itpro.co.uk/mobile/5g/357287/microsoft-unveils-azure-for-operators-to-unlock-5g-potential</loc>
+    <lastmod>2020-09-30T04:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://techcrunch.com/2020/09/30/hailo-challenges-intel-and-google-with-its-new-ai-modules-for-edge-devices/</loc>
     <lastmod>2020-09-30T04:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -477,6 +483,12 @@
   <url>
     <loc>https://www.vice.com/en_us/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle</loc>
     <lastmod>2020-09-29T14:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.prnewswire.com/il/news-releases/cybermdx-healthcare-security-solution-is-now-available-in-aws-marketplace-301139706.html</loc>
+    <lastmod>2020-09-29T13:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2341,6 +2353,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.prnewswire.com/news-releases/deep-neural-networks-market-to-reach-usd-5-98-billion-by-2027--cagr-of-21-4-emergen-research-301133338.html</loc>
+    <lastmod>2020-09-17T13:27:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/retail-robotics-market-rising-globally-at-a-cagr-of-3189-with-new-innovation-technology-advancement-trend-and-research-2020-to-2026-2020-09-17</loc>
     <lastmod>2020-09-17T12:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2791,13 +2809,13 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://federalnewsnetwork.com/commentary/2020/09/ethical-challenges-of-dods-ethical-principles-for-ai/</loc>
-    <lastmod>2020-09-15T13:00:00-07:00</lastmod>
+    <loc>https://www.neowin.net/news/get-this-deep-learning--data-analysis-certification-bundle-for-only-3999</loc>
+    <lastmod>2020-09-15T13:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.neowin.net/news/get-this-deep-learning--data-analysis-certification-bundle-for-only-3999/</loc>
+    <loc>https://federalnewsnetwork.com/commentary/2020/09/ethical-challenges-of-dods-ethical-principles-for-ai/</loc>
     <lastmod>2020-09-15T13:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Samsung smart TV's voice recognition creates privacy concerns"
-    excerpt: "Electronics giant Samsung is facing heat from privacy advocates over its smart TVs. The company says its voice recognition system note only records personal conversations, but also may pass them along to third parties."
-    publishedDateTime: 2020-09-29T13:04:00Z
-    webUrl: "https://www.cbsnews.com/video/samsung-smart-tvs-voice-recognition-creates-privacy-concerns/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 24
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2015/02/10/934f77a2-5ca3-4f94-8a86-4012e2e9ee82/thumbnail/1200x630/9a796f1c03646f98f443b828ac6a8784/ctm0210tv342789640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "HRW Warns Of Privacy Concerns As Russia Expands Facial-Recognition Systems"
     excerpt: "Human Rights Watch (HRW) has criticized Russia's plans to expand the use of \"invasive\" facial-recognition systems because of the group's \"serious concern\" over the project's potential threat to privacy. The Kommersant newspaper reported last week that CCTV ..."
     publishedDateTime: 2020-10-02T07:41:00Z

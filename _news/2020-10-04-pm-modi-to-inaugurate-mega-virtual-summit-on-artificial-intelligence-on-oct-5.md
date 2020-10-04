@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "PM Narendra Modi to inaugurate artificial intelligence ‘RAISE’ summit on Oct 5"
+    excerpt: "Prime Minister Narendra Modi will inaugurate RAISE 2020, a mega virtual summit on Artificial Intelligence (AI) on October 5."
+    publishedDateTime: 2020-10-04T08:45:00Z
+    webUrl: "https://www.newsx.com/national/pm-narendra-modi-to-inaugurate-artificial-intelligence-raise-summit-on-oct-5.html"
+    ampWebUrl: "https://www.newsx.com/amp/national/pm-narendra-modi-to-inaugurate-artificial-intelligence-raise-summit-on-oct-5.html"
+    cdnAmpWebUrl: "https://www-newsx-com.cdn.ampproject.org/c/s/www.newsx.com/amp/national/pm-narendra-modi-to-inaugurate-artificial-intelligence-raise-summit-on-oct-5.html"
+    type: article
+    provider:
+      name: NewsX
+      domain: newsx.com
+    quality: 70
+    images:
+      - url: "https://www.newsx.com/wp-content/uploads/2020/09/modif-703091-C05kaKE3.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "PM Modi to inaugurate global summit on artificial intelligence on Oct 5"
     excerpt: "New Delhi: Prime Minister Narendra Modi will inaugurate a global virtual summit on Artificial Intelligence (AI), RAISE 2020 - 'Responsible AI for Social Empowerment 2020' on October 5, according to the Ministry of Electronics and Information Technology."
     publishedDateTime: 2020-10-02T01:50:00Z
@@ -56,20 +72,6 @@ related:
       - url: "https://cdn.newsserve.net/newsR256.png"
         width: 256
         height: 256
-        isCached: true
-  - title: "PM to inaugurate Global Virtual Summit on Artificial Intelligence"
-    excerpt: "Aiming to drive India's vision for social transformation through responsible AI, the Ministry of Electronics and Information Technology (MeitY) and NITI Aayog are organizing a Global Virtual Summit on Artificial Intelligence (AI),"
-    publishedDateTime: 2020-10-03T11:05:00Z
-    webUrl: "https://knnindia.co.in/news/newsdetails/sectors/pm-to-inaugurate-global-virtual-summit-on-artificial-intelligence"
-    type: article
-    provider:
-      name: knnindia.co.in
-      domain: knnindia.co.in
-    quality: 39
-    images:
-      - url: "https://knnindia.co.in/uploads/newsfiles/PM-Modi-AI-3-10-2020.jpg"
-        width: 500
-        height: 344
         isCached: true
 
 secured: "hSwnpg6dhVBaW7TWZc1gIpyob8owEV/VV1AZGESEJODG+8Rw9GelPgYdEWerH/S7X2cKwNp50/bhX3XYDLDG9ayzNo7zE8VZK8wyY0mDzWj43VdzmKcBBlk4o/apQ5W46/mAp6D2zZGsO8Dp0cOJJnypHtFD8VafYUqMwMSbUhZDy2bgxdeGaNOS3eBI2q1l6N3CHbJZhCiIs5gXJTDpV1/Gl8d7GQMDKxW1yUeMNvnCgURpYamG5RNp3yotfMXZjRwbDXvK+EkWKr3wu6tGPNbXj1aCE1eBlXOj4Yg7uu09qUAVWZP2t0g/h8i0RAGAy9+rvKcK2ZMZZFG+qmJBumxPgR8RZRE4nyxUujXP9i2zLPvY1VAjvrH7zojXOFIetps/EJMXfwWk8gxU7OdDZ2rTOc3sD/IFiiqs+hPgo85IKH+5dpEovI2294tiynluM8ew9xvJe4lN6rBPa2pHXjJddAzP5r9olDD/ugUhsJX/QRQo7gCh71Lo2RnS4Bu5LuqS1TwEhWfpKJX4WvkfLQ==;1cSO7ka6UI6aN13zG02XMA=="
