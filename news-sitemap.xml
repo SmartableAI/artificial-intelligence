@@ -121,7 +121,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/index.php/category/2184/index.php/article/five-australian-universities-launch-project-to-improve-voice-assistants-for-kids/</loc>
+    <loc>https://www.zdnet.com/article/five-australian-universities-launch-project-to-improve-voice-assistants-for-kids/</loc>
     <lastmod>2020-10-01T21:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -493,12 +493,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.technologyreview.com/2020/09/29/1008933/how-ai-will-revolutionize-manufacturing/</loc>
-    <lastmod>2020-09-29T11:46:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/</loc>
     <lastmod>2020-09-29T11:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -513,6 +507,12 @@
   <url>
     <loc>https://www.entrepreneur.com/video/356766</loc>
     <lastmod>2020-09-29T10:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/olive-s-ai-workforce-to-revolutionize-covid-19-testing-at-tufts-medical-center-1029631076</loc>
+    <lastmod>2020-09-29T10:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -609,6 +609,12 @@
   <url>
     <loc>https://venturebeat.com/2020/09/29/applying-machine-learning-to-keep-employees-safe-and-save-lives/</loc>
     <lastmod>2020-09-29T06:54:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/katiejennings/2020/09/29/startup-docai-inks-deal-with-health-insurer-anthem-names-female-cofounder-ceo/</loc>
+    <lastmod>2020-09-29T06:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1717,14 +1723,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572</loc>
-    <lastmod>2020-09-22T05:29:00-07:00</lastmod>
+    <loc>https://www.openpr.com/news/2139411/covid-19-impact-on-ai-medicine-software-market-outlook</loc>
+    <lastmod>2020-09-22T05:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.openpr.com/news/2139411/covid-19-impact-on-ai-medicine-software-market-outlook</loc>
-    <lastmod>2020-09-22T05:28:00-07:00</lastmod>
+    <loc>https://www.prnewswire.com/news-releases/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-301135412.html</loc>
+    <lastmod>2020-09-22T05:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

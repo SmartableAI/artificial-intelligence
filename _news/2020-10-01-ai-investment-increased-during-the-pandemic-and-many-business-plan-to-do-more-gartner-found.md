@@ -40,17 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "VMware, Nvidia Partner to Make AI Chips Easier for Businesses to Use"
-    excerpt: "VMware Inc and Nvidia Corp on Tuesday announced an effort to make VMware's software for managing data centers work better with Nvidia's artificial intelligence (AI) chips. VMware makes software that helps businesses get more work out of data center servers by slicing physical machines into \"virtual\" ones so that more applications can be packed onto each physical machine."
-    publishedDateTime: 2020-09-29T12:23:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2020-09-29/vmware-nvidia-partner-to-make-ai-chips-easier-for-businesses-to-use"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-09-29/vmware-nvidia-partner-to-make-ai-chips-easier-for-businesses-to-use?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-09-29/vmware-nvidia-partner-to-make-ai-chips-easier-for-businesses-to-use?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 84
   - title: "VMware, Nvidia integrate on architecture, technology as they aim to accelerate AI adoption"
     excerpt: "The partnership secures Nvidia's role in hybrid clouds as VMware outlined an architecture that incorporates data processing units (DPUs) in the data center, cloud and edge."
     publishedDateTime: 2020-09-29T16:00:00Z

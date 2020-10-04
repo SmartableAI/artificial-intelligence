@@ -9,8 +9,8 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/olive-s-ai-workforce-to
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/olive-s-ai-workforce-to-revolutionize-covid-19-testing-at-tufts-medical-center-1029631076"
 type: article
 quality: 63
-heat: -1
-published: false
+heat: 143
+published: true
 
 provider:
   name: Business Insider
@@ -24,21 +24,21 @@ topics:
   - AI
 
 related:
-  - title: "Navigating COVID-19 With Conversational AI"
-    excerpt: "At the forefront of creating deep and engaging conversations via rich-media interactions, Conversational AI has proven itself to be of immense value in the current crisis with vast potential as a new"
-    publishedDateTime: 2020-09-29T11:21:00Z
-    webUrl: "https://www.entrepreneur.com/article/356864"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/356864"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356864"
+  - title: "How AI will revolutionize manufacturing"
+    excerpt: "Ask Stefan Jockusch about what a factory might look like in 10 or 20 years, and the answer might leave you at a crossroads between fascination and bewilderment. Jockusch is vice president for strategy at Siemens Digital Industries Software,"
+    publishedDateTime: 2020-09-29T18:46:00Z
+    webUrl: "https://www.technologyreview.com/2020/09/29/1008933/how-ai-will-revolutionize-manufacturing/"
+    ampWebUrl: "https://www.technologyreview.com/2020/09/29/1008933/how-ai-will-revolutionize-manufacturing/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/09/29/1008933/how-ai-will-revolutionize-manufacturing/amp/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 87
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 61
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1601378445-artificial-intelligence-3382507-19201.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/09/Siemens-Digital-Header.png?w=1920"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Artificial intelligence can detect COVID-19 faster and easier"
     excerpt: "Multiple scientific studies have uncovered how to use artificial intelligence to detect, but not prevent, the latest coronavirus."
@@ -55,50 +55,6 @@ related:
       - url: "https://calvinayre.com/wp-content/uploads/2020/10/artificial-intelligence-can-detect-covid-19-faster-and-easier.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Researchers use artificial intelligence to detect COVID-19 in hospital patients"
-    excerpt: "Researchers at the University of Minnesota and M Health Fairview are developing a new technology that uses artificial intelligence to help doctors detect COVID-19 in hospital patients."
-    publishedDateTime: 2020-10-02T01:26:00Z
-    webUrl: "https://www.fox9.com/news/researchers-use-artificial-intelligence-to-detect-covid-19-in-hospital-patients"
-    ampWebUrl: "https://www.fox9.com/news/researchers-use-artificial-intelligence-to-detect-covid-19-in-hospital-patients.amp"
-    cdnAmpWebUrl: "https://www-fox9-com.cdn.ampproject.org/c/s/www.fox9.com/news/researchers-use-artificial-intelligence-to-detect-covid-19-in-hospital-patients.amp"
-    type: article
-    provider:
-      name: Fox 9
-      domain: fox9.com
-    quality: 55
-    images:
-      - url: "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2020/10/932/470/chest-xray-ai-covid-detection.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
-  - title: "Innovation with Artificial Intelligence"
-    excerpt: "The maritime sector keeps talking enthusiastically about Artificial Intelligence (AI). But what is it really? What is the role of technology in the"
-    publishedDateTime: 2020-09-29T13:13:00Z
-    webUrl: "https://www.thedigitalship.com/news/electronics-navigation/item/6824-innovation-with-artificial-intelligence"
-    type: article
-    provider:
-      name: Digital Ship
-      domain: thedigitalship.com
-    quality: 39
-    images:
-      - url: "https://thedigitalship.com/media/k2/items/cache/632c3491b2d391ab015a7b1797d7a51f_L.jpg"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "IBM: Covid-19 pushes robots, contactless payment options"
-    excerpt: "Delivery robots, contactless payment, remote work, advanced supply chain operations and telehealth are among the top technology trends to watch in the wake of the coronavirus pandemic, says IBM Thailand."
-    publishedDateTime: 2020-10-01T02:45:00Z
-    webUrl: "https://www.bangkokpost.com/tech/1994727/ibm-covid-19-pushes-robots-contactless-payment-options"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 39
-    images:
-      - url: "https://static.bangkokpost.com/media/content/dcx/2020/10/01/3765583_700.jpg"
-        width: 700
-        height: 467
         isCached: true
   - title: "Artificial Intelligence Simplifies COVID-19 Testing, Workflows"
     excerpt: "Tufts Medical Center will leverage an artificial intelligence platform to accelerate the COVID-19 testing process."
@@ -128,20 +84,6 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "COVID-19 and Mining Social Media - Enabling Machine Learning Workloads with Big Data"
-    excerpt: "In this article, author Adi Pollock discusses how to enable machine learning workloads with big data to query and analyze COVID-19 tweets to understand social sentiment towards COVID-19."
-    publishedDateTime: 2020-10-02T15:51:00Z
-    webUrl: "https://www.infoq.com/articles/covid-social-media-machine-learning/?topicPageSponsorship=9ee9cabb-978d-4b65-9c62-dba6f9b389b3&itm_source=articles_about_architecture-design&itm_medium=link&itm_campaign=architecture-design"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 34
-    images:
-      - url: "https://res.infoq.com/articles/covid-social-media-machine-learning/en/headerimage/croppted-eIq7PfpU-1601562447743.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Olive's AI Workforce to Revolutionize COVID-19 Testing at Tufts Medical Center"
     excerpt: "Olive announced today that it has entered into an agreement to leverage its AI workforce technology to streamline COVID-19 testing operations at Tufts"
     publishedDateTime: 2020-09-29T13:49:00Z
@@ -156,19 +98,28 @@ related:
         width: 400
         height: 210
         isCached: true
-  - title: "Diagnosing COVID From a Person’s Voice"
-    excerpt: "Researchers are exploring ways to use people’s vocalizations to diagnose coronavirus infections, dementia and depression"
-    publishedDateTime: 2020-10-03T14:12:00Z
-    webUrl: "https://www.scientificamerican.com/article/diagnosing-covid-from-a-persons-voice/"
+  - title: "Augmented Intelligence Market Forecast to 2027 - COVID-19 Impact and Global Analysis"
+    excerpt: "The \"Augmented Intelligence Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Technology, Enterprise Size, End-User, and Geography\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2020-10-02T09:39:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/augmented-intelligence-market-forecast-to-2027-covid-19-impact-and-global-analysis-1029643338"
     type: article
     provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 24
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 25
+  - title: "Touchless.ai Announces Intuitive Speech-Enabled Technology to Prevent COVID-19 Infection From Touchscreens"
+    excerpt: "We solved the problems of voice experience in commercial environments with an AI-driven interface that really works\" Israel’s Touchless.ai has started to deploy a voice solution that turns any interactive kiosk into a voice-activated touch-free interface."
+    publishedDateTime: 2020-10-01T15:43:00Z
+    webUrl: "https://www.vendingmarketwatch.com/technology/news/21156710/touchlessai-announces-intuitive-speechenabled-technology-to-prevent-covid19-infection-from-touchscreens"
+    type: article
+    provider:
+      name: VendingMarketWatch
+      domain: vendingmarketwatch.com
+    quality: 23
     images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/8C8D39AD-D5B6-4D5E-9EED7869DE114047.jpg"
-        width: 790
-        height: 496
+      - url: "https://img.vendingmarketwatch.com/files/base/cygnus/vmw/image/2020/10/16x9/Screen_Shot_2020_10_01_at_10.32.59_AM.5f75f8100e1fb.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 676
         isCached: true
   - title: "Personalized Learning and Tech Equity Under COVID-19"
     excerpt: "For older students, COVID-19 opens the doors for deep learning that involves solving a complex problem that might encompass economic, health, and social justice challenges. This discussion will address the steps schools need to take to encourage and ..."

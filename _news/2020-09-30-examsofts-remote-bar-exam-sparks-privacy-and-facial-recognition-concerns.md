@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/29/examsofts-remote-bar-exam-sparks-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/29/examsofts-remote-bar-exam-sparks-privacy-and-facial-recognition-concerns/amp/"
 type: article
 quality: 88
-heat: 119
+heat: 118
 published: true
 
 provider:

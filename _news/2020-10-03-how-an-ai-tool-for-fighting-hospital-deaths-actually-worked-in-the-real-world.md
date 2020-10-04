@@ -48,22 +48,6 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 69
-  - title: "AI still set to massively change the way we work"
-    excerpt: "Artificial intelligence (AI) is unlikely to snatch your job, but it is likely to fundamentally change it, according to a new report from software firm Citrix. Based on a poll of more than 500 C-Suite leaders and 1,"
-    publishedDateTime: 2020-09-29T12:30:00Z
-    webUrl: "https://www.itproportal.com/news/ai-still-set-to-massively-change-the-way-we-work/"
-    ampWebUrl: "https://www.itproportal.com/amp/news/ai-still-set-to-massively-change-the-way-we-work/"
-    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/ai-still-set-to-massively-change-the-way-we-work/"
-    type: article
-    provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 59
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/BCqwpZWk689Ca3eJ289Zim-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "Ih7dhqNsODOosH0MhPIDa58FiwvkSp3N/zgw8MSvNarCijAe7hIGHY7R1DRcdg//J/3/ya8a26YASBoB3RGzlwlaMSqOMg7/lyYYNQXpmeEklER6rsyc31LZ0QhkZF7UtstarzVtXdvdN9cwMRwerffipqpuG/UMLag2Ao5eVDrz8QPDDWGAB7bPY5051j3YiMk2YNN8jPXsm+pJH9c8BZCOtZMZJJ/Z7ZrePF7oC0zoCuycMpm0cJQtumF2mI6MRhojV5DM/X/5QX5yCbpuQx0GzcZx3AAnNO3BPAsUlXvAiQKziISfx4qJ+T4taZK+VQFZ1N9yHLbtF2dhN1i7f7RQjywFuPwZpq1cfsCZzhlQbtVErvucux/ofmyJBVh4XZ5OLmZuq3mgyiwOujeYTzkxNlUoVDHNsn4F//s+2OQdkhEDzCfOcn6Xka60ryoBJC0hlJh0mgTbfjdZGEethUCdbe/tec/zfypGXxmhZdizbXkt/YpMPkNqaSJo+k5f4Iobcpl2zjjMn7d7qs1q+Q==;FeIlKLkec5/7Z2tXH87hIA=="
 ---

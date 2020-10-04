@@ -27,156 +27,36 @@ images:
     isCached: true
 
 related:
-  - title: "Navigating COVID-19 With Conversational AI"
-    excerpt: "At the forefront of creating deep and engaging conversations via rich-media interactions, Conversational AI has proven itself to be of immense value in the current crisis with vast potential as a new"
-    publishedDateTime: 2020-09-29T11:21:00Z
-    webUrl: "https://www.entrepreneur.com/article/356864"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/356864"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356864"
+  - title: "These Robots Use AI to Learn How to Clean Your House"
+    excerpt: "At Toyota, researchers are experimenting with prototypes that swoop from the ceiling to take care of chores with the help of machine learning."
+    publishedDateTime: 2020-09-30T20:13:00Z
+    webUrl: "https://www.wired.com/story/robots-use-ai-learn-clean-your-house/"
+    ampWebUrl: "https://www.wired.com/story/robots-use-ai-learn-clean-your-house/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/robots-use-ai-learn-clean-your-house/amp"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
+      name: Wired
+      domain: wired.com
     quality: 87
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1601378445-artificial-intelligence-3382507-19201.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
+      - url: "https://media.wired.com/photos/5f74c95e922b403d5b360f47/master/pass/business_toytota_gmk.jpg"
+        width: 2400
+        height: 1600
         isCached: true
-  - title: "Olive's AI Workforce to Revolutionize COVID-19 Testing at Tufts Medical Center"
-    excerpt: "Olive announced today that it has entered into an agreement to leverage its AI workforce technology to streamline COVID-19 testing operations at Tufts Medical Center in Boston, Mass. Olive will begin its enterprise-wide AI workforce deployment at the Medical Center by automating high-volume,"
-    publishedDateTime: 2020-09-29T17:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/olive-s-ai-workforce-to-revolutionize-covid-19-testing-at-tufts-medical-center-1029631076"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/olive-s-ai-workforce-to-revolutionize-covid-19-testing-at-tufts-medical-center-1029631076"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/olive-s-ai-workforce-to-revolutionize-covid-19-testing-at-tufts-medical-center-1029631076"
+  - title: "How artificial intelligence can help your website"
+    excerpt: "Even though artificial intelligence is a huge topic to cover in one article, we shall try to find out how AI can enhance your business website."
+    publishedDateTime: 2020-10-01T13:11:00Z
+    webUrl: "https://techaeris.com/2020/10/01/how-artificial-intelligence-can-help-your-website/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
-  - title: "Artificial intelligence can detect COVID-19 faster and easier"
-    excerpt: "Multiple scientific studies have uncovered how to use artificial intelligence to detect, but not prevent, the latest coronavirus."
-    publishedDateTime: 2020-10-02T07:46:00Z
-    webUrl: "https://calvinayre.com/2020/10/02/life/artificial-intelligence-can-detect-covid-19-faster-and-easier/"
-    ampWebUrl: "https://calvinayre.com/2020/10/02/life/artificial-intelligence-can-detect-covid-19-faster-and-easier/amp/"
-    cdnAmpWebUrl: "https://calvinayre-com.cdn.ampproject.org/c/s/calvinayre.com/2020/10/02/life/artificial-intelligence-can-detect-covid-19-faster-and-easier/amp/"
-    type: article
-    provider:
-      name: CalvinAyre
-      domain: calvinayre.com
-    quality: 59
-    images:
-      - url: "https://calvinayre.com/wp-content/uploads/2020/10/artificial-intelligence-can-detect-covid-19-faster-and-easier.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Innovation with Artificial Intelligence"
-    excerpt: "The maritime sector keeps talking enthusiastically about Artificial Intelligence (AI). But what is it really? What is the role of technology in the"
-    publishedDateTime: 2020-09-29T13:13:00Z
-    webUrl: "https://www.thedigitalship.com/news/electronics-navigation/item/6824-innovation-with-artificial-intelligence"
-    type: article
-    provider:
-      name: Digital Ship
-      domain: thedigitalship.com
-    quality: 39
-    images:
-      - url: "https://thedigitalship.com/media/k2/items/cache/632c3491b2d391ab015a7b1797d7a51f_L.jpg"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "IBM: Covid-19 pushes robots, contactless payment options"
-    excerpt: "Delivery robots, contactless payment, remote work, advanced supply chain operations and telehealth are among the top technology trends to watch in the wake of the coronavirus pandemic, says IBM Thailand."
-    publishedDateTime: 2020-10-01T02:45:00Z
-    webUrl: "https://www.bangkokpost.com/tech/1994727/ibm-covid-19-pushes-robots-contactless-payment-options"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 39
-    images:
-      - url: "https://static.bangkokpost.com/media/content/dcx/2020/10/01/3765583_700.jpg"
-        width: 700
-        height: 467
-        isCached: true
-  - title: "Artificial Intelligence Simplifies COVID-19 Testing, Workflows"
-    excerpt: "Tufts Medical Center will leverage an artificial intelligence platform to accelerate the COVID-19 testing process."
-    publishedDateTime: 2020-10-01T17:05:00Z
-    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-simplifies-covid-19-testing-workflows"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2017-03-30_health_quality_improvements.jpg"
-        width: 686
-        height: 396
-        isCached: true
-  - title: "Using artificial intelligence to predict Covid-19 patient outcomes"
-    excerpt: "Artificial intelligence can do more than recommend a song or suggest what to write in an email. It might even be able to predict outcomes in Covid-19 patients."
-    publishedDateTime: 2020-09-30T07:00:00Z
-    webUrl: "https://www.register-herald.com/health/using-artificial-intelligence-to-predict-covid-19-patient-outcomes/article_0e84e1b4-24c1-55c0-bcfb-8a110c9181f4.html"
-    type: article
-    provider:
-      name: The Register-Herald
-      domain: register-herald.com
+      name: Techaeris
+      domain: techaeris.com
     quality: 37
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
-        width: 600
-        height: 600
+      - url: "https://techaeris.com/wp-content/uploads/2020/05/SEO-and-websites-1000x543.jpg"
+        width: 1000
+        height: 543
         isCached: true
-  - title: "COVID-19 and Mining Social Media - Enabling Machine Learning Workloads with Big Data"
-    excerpt: "In this article, author Adi Pollock discusses how to enable machine learning workloads with big data to query and analyze COVID-19 tweets to understand social sentiment towards COVID-19."
-    publishedDateTime: 2020-10-02T15:51:00Z
-    webUrl: "https://www.infoq.com/articles/covid-social-media-machine-learning/?topicPageSponsorship=9ee9cabb-978d-4b65-9c62-dba6f9b389b3&itm_source=articles_about_architecture-design&itm_medium=link&itm_campaign=architecture-design"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 34
-    images:
-      - url: "https://res.infoq.com/articles/covid-social-media-machine-learning/en/headerimage/croppted-eIq7PfpU-1601562447743.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Olive's AI Workforce to Revolutionize COVID-19 Testing at Tufts Medical Center"
-    excerpt: "Olive announced today that it has entered into an agreement to leverage its AI workforce technology to streamline COVID-19 testing operations at Tufts"
-    publishedDateTime: 2020-09-29T13:49:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/olives-ai-workforce-to-revolutionize-covid-19-testing-at-tufts-medical-center/article_3650e02e-f8e2-54e4-896b-12c306e10a05.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 33
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/bc/1bcafd02-270b-518b-b8f7-346d623f0f45/5f7334f027ff7.image.jpg?resize=400%2C210"
-        width: 400
-        height: 210
-        isCached: true
-  - title: "Diagnosing COVID From a Person’s Voice"
-    excerpt: "Researchers are exploring ways to use people’s vocalizations to diagnose coronavirus infections, dementia and depression"
-    publishedDateTime: 2020-10-03T14:12:00Z
-    webUrl: "https://www.scientificamerican.com/article/diagnosing-covid-from-a-persons-voice/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 24
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/8C8D39AD-D5B6-4D5E-9EED7869DE114047.jpg"
-        width: 790
-        height: 496
-        isCached: true
-  - title: "Personalized Learning and Tech Equity Under COVID-19"
-    excerpt: "For older students, COVID-19 opens the doors for deep learning that involves solving a complex problem that might encompass economic, health, and social justice challenges. This discussion will address the steps schools need to take to encourage and ..."
-    publishedDateTime: 2020-09-30T18:45:00Z
-    webUrl: "https://www.edweek.org/ew/events/summits/personalized-learning-and-tech-equity-under-covid-19.html"
-    type: article
-    provider:
-      name: Education Week
-      domain: edweek.org
-    quality: 4
 
 secured: "XC6HLkImi2zGtde5+4MujzaNoL+0ajmY4zliqKyR8j3hArGxbAc6oXWbR24JNkaOVDaX/r5NaHSWPAgWYCzjSjSwYyD39hQM5xtoy+kQUHXTblKJIJJ5+TNDniy9siMGdZibIWyWRuAxRiGhN9kGy5KaAdgtjCgbQdFDs/WxeXNdIixlj6M97UFbaeJHrvjMmU1+L2i+rXjoDUqoNSUIVuAI1n8avUUd2RYrgPVZpSPhAPL7v//xEhQcIyTmECQqUqQDioSovrw8P6llzRKbb7MG2A59IRSTlh7qGyQtS3QHSrW3aKqCmmpA6qHRDzAnS/uspUwqUoCGH2vBMT8lTlecvaR66VBrjuIF+HjaWc+3m9we/SqjsRk5X8XOW6hXcJUqOZRez1IcXhx/HE0aWYojmEwxDAmXaSGVHlEThOOOhz7h+c/gmafjJKRMBaQdj548O377aKYLZ2kK/y10EXcZr2rpBu/ukhM8joVP7Bty1MqduhAX0EsAys6I54xRx3fT+dGMfSazF6sbFcJ0Mg==;gbYwKGXRMFO1bOj+peXE4A=="
 ---

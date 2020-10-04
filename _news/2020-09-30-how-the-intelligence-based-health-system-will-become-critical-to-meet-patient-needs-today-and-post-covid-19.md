@@ -7,7 +7,7 @@ originalUrl: "https://medcitynews.com/2020/09/how-the-intelligence-based-health-
 webUrl: "https://medcitynews.com/2020/09/how-the-intelligence-based-health-system-will-become-critical-to-meet-patient-needs-today-and-post-covid-19/"
 type: article
 quality: 6
-heat: -1
+heat: 6
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 683
     height: 512
     isCached: true
-
-related:
-  - title: "Augmented Intelligence Market Forecast to 2027 - COVID-19 Impact and Global Analysis"
-    excerpt: "The \"Augmented Intelligence Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Technology, Enterprise Size, End-User, and Geography\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2020-10-02T09:39:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/augmented-intelligence-market-forecast-to-2027-covid-19-impact-and-global-analysis-1029643338"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 25
 
 secured: "SrwsUZ7EZyi9VrwbDs0YA/IslWMy9n9b7XXZfPv07uK2a3q265jZzjKiho8TWb8K9xHc/+laAV/YBoQtXBTtIFpL4Db6aYzc1lE2PILYBiSOgqgrrBWrwP6DAx9PR6nOYPkSpxKXns/ba2QE8SVy0AL4OevWqHuLcUbcod1vh7FysKslTNvF9Akyy2N8AnAmw1hafWlxaMryCogqUmtes6LeBPoV1JUQePsodPL1is2VLi97kq7Ujd065nVjo/z73Nn1Zadz6SlYT9/opg+qz8rN2OS60gDqXTDtXffG1IYvK4N6HApLHrMk5ki5BAC/0Wv37Sl99bSo+4dftnJnDy5BA53n0aFD+6I0ahHaqZd/50e3x4qfiXGD7yOHCEvgVc1EH6rtdIC1m4IPMR2WVdkhKDcXMzfQcZsSkEuQWo7X9AMmCnEdnvaMNyQ+QtEsveGsugrr6IA6Bl4CmNUghXiXzLYCtuYT+auOdBkdP7Kktpx8yUPqK1jbD8aWgzMZwvyCFLMthChz8YO6C81R1Q==;LUYccpISrDP8lX1tZF/b1w=="
 ---

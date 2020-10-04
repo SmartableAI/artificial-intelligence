@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/robots-use-ai-learn-clean-your-house/amp
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/robots-use-ai-learn-clean-your-house/amp"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers use artificial intelligence to detect COVID-19 in hospital patients"
+    excerpt: "Researchers at the University of Minnesota and M Health Fairview are developing a new technology that uses artificial intelligence to help doctors detect COVID-19 in hospital patients."
+    publishedDateTime: 2020-10-02T01:26:00Z
+    webUrl: "https://www.fox9.com/news/researchers-use-artificial-intelligence-to-detect-covid-19-in-hospital-patients"
+    ampWebUrl: "https://www.fox9.com/news/researchers-use-artificial-intelligence-to-detect-covid-19-in-hospital-patients.amp"
+    cdnAmpWebUrl: "https://www-fox9-com.cdn.ampproject.org/c/s/www.fox9.com/news/researchers-use-artificial-intelligence-to-detect-covid-19-in-hospital-patients.amp"
+    type: article
+    provider:
+      name: Fox 9
+      domain: fox9.com
+    quality: 55
+    images:
+      - url: "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2020/10/932/470/chest-xray-ai-covid-detection.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
   - title: "How artificial intelligence can help your website"
     excerpt: "Even though artificial intelligence is a huge topic to cover in one article, we shall try to find out how AI can enhance your business website."
     publishedDateTime: 2020-10-01T13:11:00Z

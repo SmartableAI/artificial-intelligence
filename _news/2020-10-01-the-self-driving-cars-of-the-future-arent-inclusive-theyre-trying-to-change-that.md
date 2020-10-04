@@ -33,22 +33,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Self-driving cars are still going to take a long time, people"
-    excerpt: "A few years ago, I visited a super promising company called Luminar, which makes LiDAR, or Light Detection and Ranging, technology that helps autonomous cars see the world around them. Now, Luminar is going public."
-    publishedDateTime: 2020-09-29T11:07:00Z
-    webUrl: "https://www.marketplace.org/shows/marketplace-tech/self-driving-cars-luminar-autonomous-driving-highways/"
-    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/self-driving-cars-luminar-autonomous-driving-highways?amp"
-    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/self-driving-cars-luminar-autonomous-driving-highways?amp"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 44
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2020/09/image-1.png?fit=740%2C416"
-        width: 740
-        height: 416
-        isCached: true
   - title: "Former Saab plant could be used to build NEVS self-driving cars"
     excerpt: "The former Saab plant in Trollhättan, Sweden, hasn't built a car since 2013, but it could be up and running again if current owner NEVS finds success with its new Sango self-driving car. The Sango is a six-seat shuttle that NEVS plans to operate on a trial basis in the Swedish capital Stockholm starting in late 2021."
     publishedDateTime: 2020-10-01T10:00:00Z
