@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Giant Fech Firms Could Pose Dangers To Financial System Warns House Fintech Task Force Chair"
-    excerpt: "Without mentioning Apple, Google and the like by name, House Fintech Task Force Chair Stephen Lynch warned today giant tech firms could pose dangers to the financial system. “I see to-big-to-fail fintechs in the future in a big,"
-    publishedDateTime: 2020-09-29T18:28:00Z
-    webUrl: "https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/"
-    ampWebUrl: "https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 78
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f737b36e2e867ffa50a6877%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D257%26cropY2%3D3071"
-        width: 1199
-        height: 675
-        isCached: true
   - title: "Giant Tech Firms Could Pose Dangers To Financial System, Warns House Fintech Task Force Chair"
     excerpt: "Without mentioning Apple, Google and the like by name, House Fintech Task Force Chair Stephen Lynch warned today giant tech firms could pose dangers to the financial system. “I see too-big-to-fail fintechs in the future in a big,"
     publishedDateTime: 2020-09-29T20:02:00Z
@@ -67,21 +51,21 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Fintech Harvest to Offer AI and Machine Learning enhanced Financial Wellness Reports"
-    excerpt: "US-based Fintech firm Harvest is reportedly planning to transform the existing credit scoring systems. Like many other Fintechs, Harvest will be using artificial intelligence (AI) and machine learning (ML) algorithms to offer clients a dynamic view of ..."
-    publishedDateTime: 2020-10-03T11:46:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/10/167534-fintech-harvest-to-offer-ai-and-machine-learning-enhanced-financial-wellness-reports/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/10/167534-fintech-harvest-to-offer-ai-and-machine-learning-enhanced-financial-wellness-reports/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/167534-fintech-harvest-to-offer-ai-and-machine-learning-enhanced-financial-wellness-reports/amp/"
+  - title: "Egypt: fintech, e-commerce and telehealth secures top funding in Q3"
+    excerpt: "After several months of COVID-19-related economic uncertainty, investors seem to be embracing the new normal in Q3 by resuming the deployment of capital in promising business models. “Three months ago,"
+    publishedDateTime: 2020-10-01T07:21:00Z
+    webUrl: "https://www.zawya.com/mena/en/wealth/story/Egypt_fintech_ecommerce_and_telehealth_secures_top_funding_in_Q3-ZAWYA20201001030053/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20201001030053/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20201001030053/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 69
+      name: Zawya
+      domain: zawya.com
+    quality: 44
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/09/Harvest-Mow-Farm-600x450.jpeg"
-        width: 600
-        height: 450
+      - url: "https://images.zawya.com/images/cia/zAmp/190419052755USPE.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "How Covid-19 has injected new life into the fintech sector"
     excerpt: "The coronavirus pandemic has forced the hands of many companies when it comes to their use of technology and, in doing so, it has reignited the fintech revolution."
@@ -159,6 +143,17 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Juniper Research: Future Digital Award Winners Announced for Fintech & Payments 2020"
+    excerpt: "It is with great pleasure that Juniper Research announces the 2020 winners of the Future Digital Awards for Fintech & Payments. This category recognises the most"
+    publishedDateTime: 2020-10-01T06:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/10/b17730213/juniper-research-future-digital-award-winners-announced-for-fintech-payments-2020"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17730213"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17730213"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 17
 
 secured: "6XsP9tRoWeUK8QuW5zYp2zEsurDG7vEso0f2OsWM/v2GL/x/2jRTKH6pV7I8nS0EoBJEbVid7pOgQNaGndmP2OFGWOg2E6G0IkjxsQY+M6ZPgJwpP1Foqzb8KThpAqKxxbnKE/kOxyIe7DelcnzGYSkQhhENH/O9Agy4CzpsL6sUkdxamXt7q4oGrFle07UK2QcjE+5N3BMQUsEJULRDEaA7E17ZHXDZEBN7dBTwABKajG4+LzRM2hMpvCT+U4Lc3FPcLhZ7uHT26NzZjd/n/PILN0yjoQ+ddSq+OilNhnEWWbRsuv1KADtkmE0fxvZYntbTC5CYwBHwThhdONgGuzTCHIn0mMK93D+tO/J4htOjUpf81bHj2fdvfG5xC/fdZH5VryOuiu5iZKyPCuakJj8mfv/TZnZR6iEh3yNLnzg/f4z/KL2E4ugGui/H/sq+k71tF5bgahQWsU3ZYJnv32bbYYr2OscJKpQdyUDlZ+jdo1MnSTfJ68b//xiGjs8iDBYzc6he6VWYOd+Kk+mJMw==;4YHyRRLeoHK/yF+Q4JJ2MQ=="
 ---

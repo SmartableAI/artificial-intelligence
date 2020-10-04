@@ -25,104 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA and VMWare Partner to Bring AI Into the Mainstream"
-    excerpt: "Follow @dannyvena At its annual VMworld cloud computing conference, VMware (NYSE:VMW) today announced a partnership with NVIDIA (NASDAQ:NVDA) that has an ambitious goal: to make artificial intelligence (AI) available to every enterprise,"
-    publishedDateTime: 2020-09-29T18:54:00Z
-    webUrl: "https://www.fool.com/investing/2020/09/29/nvidia-and-vmware-partner-to-bring-ai-into-the-mai/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/09/29/nvidia-and-vmware-partner-to-bring-ai-into-the-mai/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/29/nvidia-and-vmware-partner-to-bring-ai-into-the-mai/"
+  - title: "IIT Jodhpur Receives NVIDIA DGX A100 AI System in India"
+    excerpt: "Education News: DGX A100 -- the world's most advanced AI system -- will be accessible to all students at the campus and will facilitate advanced AI research and educa"
+    publishedDateTime: 2020-10-03T05:10:00Z
+    webUrl: "https://timesofindia.indiatimes.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/articleshow/78457955.cms"
+    ampWebUrl: "https://m.timesofindia.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/amp_articleshow/78457955.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/amp_articleshow/78457955.cms"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 189
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F593354%2Fnvidia-dgx-systems-the-worlds-first-portfolio-of-purpose-built-ai-supercomputers.jpg&w=1200&op=resize"
+      - url: "https://static.toiimg.com/photo/msid-78457905/78457905.jpg"
         width: 1200
-        height: 675
+        height: 900
         isCached: true
-  - title: "VMware Embraces Nvidia GPUs, DPUs To Drive Enterprise AI"
-    excerpt: "AI is too hard for most enterprises to adopt, just like HPC was and continues to be. The search for “easy AI” – solutions that will reduce the costs and"
-    publishedDateTime: 2020-09-30T21:14:00Z
-    webUrl: "https://www.nextplatform.com/2020/09/30/vmware-embraces-nvidia-gpus-to-drive-enterprise-ai/"
-    ampWebUrl: "https://www.nextplatform.com/2020/09/30/vmware-embraces-nvidia-gpus-to-drive-enterprise-ai/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/09/30/vmware-embraces-nvidia-gpus-to-drive-enterprise-ai/amp/"
+  - title: "IIT Jodhpur Receives First 'NVIDIA DGX A100' AI Supercomputers In India"
+    excerpt: "NVIDIA DGX A100 features the world’s most advanced accelerator, the NVIDIA A100 Tensor Core GPU, enabling enterprises to consolidate training, inference, and analytics into a unified, easy-to-deploy AI infrastructure that includes direct access to NVIDIA ..."
+    publishedDateTime: 2020-10-01T11:57:00Z
+    webUrl: "https://www.ndtv.com/education/iit-jodhpur-receives-first-nvidia-dgx-a100-ai-supercomputers-in-india"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 76
+      name: NDTV
+      domain: ndtv.com
+    quality: 39
     images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/VMware-CEOs.png"
-        width: 1061
-        height: 525
+      - url: "https://cache.careers360.mobi/media/article_images/2020/10/1/iijbekqg_iit-jodhpur-_625x300_13_January_20.jpg"
+        width: 650
+        height: 400
         isCached: true
-  - title: "VMware Embraces Nvidia GPUs To Drive Enterprise AI"
-    excerpt: "Adopting GPUs was a natural move. Organizations that run VMware software can now use those same processes to leverage GPUs for AI workloads. “We’ve always been a CPU-centric company and the GPU was always something over there. Maybe we virtualize ..."
-    publishedDateTime: 2020-09-30T18:29:00Z
-    webUrl: "https://www.nextplatform.com/2020/09/30/vmware-embraces-nvidia-gpus-to-drive-enterprise-ai/"
-    ampWebUrl: "https://www.nextplatform.com/2020/09/30/vmware-embraces-nvidia-gpus-to-drive-enterprise-ai/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/09/30/vmware-embraces-nvidia-gpus-to-drive-enterprise-ai/amp/"
+  - title: "Updated: IIT Jodhpur Receives NVIDIA DGX A100 AI System in India"
+    excerpt: "Indian Institute of Technology Jodhpur (IITJ) today announced the installation of two NVIDIA DGX A100 systems at the Central Computing Facility for students from all departments, including the School of AI and Data Science,"
+    publishedDateTime: 2020-10-01T14:20:00Z
+    webUrl: "https://www.businesswireindia.com/updated-iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india-69755.html"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 74
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/VMware-CEOs.png"
-        width: 1061
-        height: 525
-        isCached: true
-  - title: "AI investment increased during the pandemic, and many business plan to do more, Gartner found"
-    excerpt: "A quarter of IT professionals increased AI investment levels due to COVID-19, 42% kept it at the same level, but 75% plan to continue or begin new AI projects in the next 6-9 months."
-    publishedDateTime: 2020-10-01T14:57:00Z
-    webUrl: "https://www.techrepublic.com/article/ai-investment-increased-during-the-pandemic-and-many-business-plan-to-do-more-gartner-found/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-investment-increased-during-the-pandemic-and-many-business-plan-to-do-more-gartner-found/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-investment-increased-during-the-pandemic-and-many-business-plan-to-do-more-gartner-found/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 56
-  - title: "VMware and Nvidia team up to make AI chips easier to use"
-    excerpt: "VMware and Nvidia have announced an effort to make VMware's software for managing data centers work better with Nvidia's artificial intelligence (AI) chips."
-    publishedDateTime: 2020-09-29T23:50:00Z
-    webUrl: "https://www.arnnet.com.au/article/683359/vmware-nvidia-team-up-make-ai-chips-easier-use/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 54
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/vmware_1.jpg"
-        width: 651
-        height: 455
-        isCached: true
-  - title: "NVIDIA And VMWare Announce Hybrid Cloud Partnership For AI Software And Hardware Infrastructure"
-    excerpt: "This is only the beginning of the discussion though, so stay tuned to HotHardware and wait for GTC2020 on October 5th for more news from NVIDIA and VMWare."
-    publishedDateTime: 2020-09-29T20:03:00Z
-    webUrl: "https://hothardware.com/news/nvidia-vmware-partnership-for-ai"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-vmware-partnership-for-ai"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-vmware-partnership-for-ai"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 47
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/52992/content/nvidia-vmware-hero.jpg"
-        width: 708
-        height: 398
-        isCached: true
-  - title: "VMware, Nvidia forge partnership to make AI chips easier for business use"
-    excerpt: "VMware Inc. (VMW) and Nvidia Corp. (NVDA) on Tuesday announced a partnership to make VMware's software for managing data centers work more smoothly with Nvidia's artificial intelligence chips ... there are a whole bunch of AI use-case scenarios,\" VMware ..."
-    publishedDateTime: 2020-09-30T12:29:00Z
-    webUrl: "https://www.morningstar.com/news/marketwatch/20200929584/vmware-nvidia-forge-partnership-to-make-ai-chips-easier-for-business-use"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 33
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 19
 
 secured: "nzPNZN0AGGVPLPaMCbaVuBiQ7T6juPXk4EHgDsKAzIiuFoS2DXl0O/oCWunauqHucODkeJOz+jhDB8Uytd8ktHlw2WDXPXeAGfS33cSB/X64ogTwk2Fe65CZefEIUacm/HDs0FpuGhEqHND1gGMWJrW9p4gDTeARaGWB/zo8SXwmn4V0D0hbzV0nFE6YrqBdAzlJLl/0cXbP19u29P+HNtZ6xMXHiLKVb2hB1SeVSjjRi/vWJNurykv9GFCtxfaLyjJ3Dq2UYFU2tgrGCW9m4hvQ+aaFQnsAPeBK2vGGDzc1Ipn4l/2j1bw+rUQGtqurVN4vmKa5E4+zX7M+rb3jnfUWUUj0AS8VSPewtCXBD5o=;3jExFRKI/StcVMHUNq8GTg=="
 ---

@@ -1,24 +1,30 @@
 ---
 category: news
 title: "7 Artificial Intelligence Stocks to Buy for October"
-excerpt: "But if there is one on Wall Street, it’s the rise of artificial intelligence stocks. Yes, there is the profitability angle from machine learning and other relevant technology facilitates. But this crisis has been a crash course in the sector’s viability."
-publishedDateTime: 2020-10-02T13:58:00Z
-originalUrl: "https://www.nasdaq.com/articles/7-artificial-intelligence-stocks-to-buy-for-october-2020-10-02"
-webUrl: "https://www.nasdaq.com/articles/7-artificial-intelligence-stocks-to-buy-for-october-2020-10-02"
-ampWebUrl: "https://www.nasdaq.com/articles/7-artificial-intelligence-stocks-to-buy-for-october-2020-10-02?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-artificial-intelligence-stocks-to-buy-for-october-2020-10-02?amp"
+excerpt: "Here are the companies that are using machines to help us, from inventory management to finding that special someone."
+publishedDateTime: 2020-10-02T16:58:00Z
+originalUrl: "https://investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/"
+webUrl: "https://investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/"
+ampWebUrl: "https://investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/amp/"
+cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/amp/"
 type: article
-quality: 69
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: InvestorPlace
+  domain: investorplace.com
 
 topics:
-  - AI in Healthcare
+  - IBM AI
   - AI
+
+images:
+  - url: "https://investorplace.com/wp-content/uploads/2019/07/ai1600b.jpg"
+    width: 1600
+    height: 900
+    isCached: true
 
 related:
   - title: "Join AWS and NVIDIA at GTC, October 5–9"
@@ -36,6 +42,6 @@ related:
         height: 630
         isCached: true
 
-secured: "s8N+8BPkFP/GSypfor778/qU55o0+Wulw0Hbv6q93VkS/SIafeTkcrcnqrvTEj9LVwtPHmvoFUP8vn37XfaW2iLaMWMMq4muq2Wqf93DohQ5V9LI3A5tY1DG4Bct6rYarbN+2uzivX3X0rWtqM1Ak1jMQ5Dr20Y0x94jdw2XmxMkNUus42adO0TjizTozrRZG5NL9iBJB+CXUURjLr3sioQy9hfzpyeUrWEsHY8QtmRoGcV9+IThpE8kwzpqMejLnTiqBpkuWJPvJzFCZbdyTIpD0W7OKLSlU9+v2fIyosDnrVam7YIwInuCqph9bXatAagEA0D6iD8+86d/XM9yodgBOs5ivBdz8Qz5mImO5j8=;b6AVwL4bQ1duW+5cr6mvmQ=="
+secured: "58z1L21ikbP0ZNaalAQgqHFrv7duNAOBwuoE5k5jmFjXNw2PV976VVhPya5b3GLj8ldFtQIFSSOHu/UtrvibMEhMZR8x/zK97CwZI/izb5UjRUBEadkccDN8yVN2c23hg9DDTJfvdfAQ+Efz/wXJCPMxsK9TBRq+G5JR37sZVE90qddYpWtiME7vB5f/CdIvPlSLFF6/+N4lvLTUbyS9HIWknyALECQ7GeR9pnB1IY2Tq/PD/Ad8hEnNQR5ZcmSAfxuikUgcPKkzNkjZtU+AffoEBPQAsdda68pEIveBv6X/SBDyqbj8blXkySZ+t9nm7PswNtaO+C3bnaeUyh4Zw60OxTBIdDXeYQQvcqRVqdI=;fklrwjsjf+JQj6RBAFRS2w=="
 ---
 

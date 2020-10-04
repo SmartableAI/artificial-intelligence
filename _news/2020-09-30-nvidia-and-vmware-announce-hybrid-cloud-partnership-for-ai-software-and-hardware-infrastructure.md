@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA and VMWare Partner to Bring AI Into the Mainstream"
-    excerpt: "Follow @dannyvena At its annual VMworld cloud computing conference, VMware (NYSE:VMW) today announced a partnership with NVIDIA (NASDAQ:NVDA) that has an ambitious goal: to make artificial intelligence (AI) available to every enterprise,"
-    publishedDateTime: 2020-09-29T18:54:00Z
-    webUrl: "https://www.fool.com/investing/2020/09/29/nvidia-and-vmware-partner-to-bring-ai-into-the-mai/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/09/29/nvidia-and-vmware-partner-to-bring-ai-into-the-mai/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/29/nvidia-and-vmware-partner-to-bring-ai-into-the-mai/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 189
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F593354%2Fnvidia-dgx-systems-the-worlds-first-portfolio-of-purpose-built-ai-supercomputers.jpg&w=1200&op=resize"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "VMware Embraces Nvidia GPUs, DPUs To Drive Enterprise AI"
     excerpt: "AI is too hard for most enterprises to adopt, just like HPC was and continues to be. The search for “easy AI” – solutions that will reduce the costs and"
     publishedDateTime: 2020-09-30T21:14:00Z
@@ -75,17 +59,6 @@ related:
         width: 1061
         height: 525
         isCached: true
-  - title: "AI investment increased during the pandemic, and many business plan to do more, Gartner found"
-    excerpt: "A quarter of IT professionals increased AI investment levels due to COVID-19, 42% kept it at the same level, but 75% plan to continue or begin new AI projects in the next 6-9 months."
-    publishedDateTime: 2020-10-01T14:57:00Z
-    webUrl: "https://www.techrepublic.com/article/ai-investment-increased-during-the-pandemic-and-many-business-plan-to-do-more-gartner-found/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-investment-increased-during-the-pandemic-and-many-business-plan-to-do-more-gartner-found/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-investment-increased-during-the-pandemic-and-many-business-plan-to-do-more-gartner-found/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 56
   - title: "VMware and Nvidia team up to make AI chips easier to use"
     excerpt: "VMware and Nvidia have announced an effort to make VMware's software for managing data centers work better with Nvidia's artificial intelligence (AI) chips."
     publishedDateTime: 2020-09-29T23:50:00Z
@@ -99,20 +72,6 @@ related:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/vmware_1.jpg"
         width: 651
         height: 455
-        isCached: true
-  - title: "Arize AI Joins NVIDIA Inception Program"
-    excerpt: "Arize AI, today announced it has joined the NVIDIA Inception program, which is designed to nurture startups revolutionizing industries"
-    publishedDateTime: 2020-10-02T15:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/arize-ai-joins-nvidia-inception-program-301144741.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1276605/Arize_AI_Logo.jpg?p=facebook"
-        width: 2696
-        height: 1414
         isCached: true
   - title: "VMware, Nvidia forge partnership to make AI chips easier for business use"
     excerpt: "VMware Inc. (VMW) and Nvidia Corp. (NVDA) on Tuesday announced a partnership to make VMware's software for managing data centers work more smoothly with Nvidia's artificial intelligence chips ... there are a whole bunch of AI use-case scenarios,\" VMware ..."

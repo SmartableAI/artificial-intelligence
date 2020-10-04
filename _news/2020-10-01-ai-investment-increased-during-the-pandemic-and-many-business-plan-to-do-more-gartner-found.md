@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-investment-increa
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-investment-increased-during-the-pandemic-and-many-business-plan-to-do-more-gartner-found/"
 type: article
 quality: 56
-heat: -1
+heat: 56
 published: false
 
 provider:
@@ -22,109 +22,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "NVIDIA and VMWare Partner to Bring AI Into the Mainstream"
-    excerpt: "Follow @dannyvena At its annual VMworld cloud computing conference, VMware (NYSE:VMW) today announced a partnership with NVIDIA (NASDAQ:NVDA) that has an ambitious goal: to make artificial intelligence (AI) available to every enterprise,"
-    publishedDateTime: 2020-09-29T18:54:00Z
-    webUrl: "https://www.fool.com/investing/2020/09/29/nvidia-and-vmware-partner-to-bring-ai-into-the-mai/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/09/29/nvidia-and-vmware-partner-to-bring-ai-into-the-mai/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/29/nvidia-and-vmware-partner-to-bring-ai-into-the-mai/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 189
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F593354%2Fnvidia-dgx-systems-the-worlds-first-portfolio-of-purpose-built-ai-supercomputers.jpg&w=1200&op=resize"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "VMware Embraces Nvidia GPUs, DPUs To Drive Enterprise AI"
-    excerpt: "AI is too hard for most enterprises to adopt, just like HPC was and continues to be. The search for “easy AI” – solutions that will reduce the costs and"
-    publishedDateTime: 2020-09-30T21:14:00Z
-    webUrl: "https://www.nextplatform.com/2020/09/30/vmware-embraces-nvidia-gpus-to-drive-enterprise-ai/"
-    ampWebUrl: "https://www.nextplatform.com/2020/09/30/vmware-embraces-nvidia-gpus-to-drive-enterprise-ai/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/09/30/vmware-embraces-nvidia-gpus-to-drive-enterprise-ai/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 76
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/VMware-CEOs.png"
-        width: 1061
-        height: 525
-        isCached: true
-  - title: "VMware Embraces Nvidia GPUs To Drive Enterprise AI"
-    excerpt: "Adopting GPUs was a natural move. Organizations that run VMware software can now use those same processes to leverage GPUs for AI workloads. “We’ve always been a CPU-centric company and the GPU was always something over there. Maybe we virtualize ..."
-    publishedDateTime: 2020-09-30T18:29:00Z
-    webUrl: "https://www.nextplatform.com/2020/09/30/vmware-embraces-nvidia-gpus-to-drive-enterprise-ai/"
-    ampWebUrl: "https://www.nextplatform.com/2020/09/30/vmware-embraces-nvidia-gpus-to-drive-enterprise-ai/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/09/30/vmware-embraces-nvidia-gpus-to-drive-enterprise-ai/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 74
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/VMware-CEOs.png"
-        width: 1061
-        height: 525
-        isCached: true
-  - title: "VMware and Nvidia team up to make AI chips easier to use"
-    excerpt: "VMware and Nvidia have announced an effort to make VMware's software for managing data centers work better with Nvidia's artificial intelligence (AI) chips."
-    publishedDateTime: 2020-09-29T23:50:00Z
-    webUrl: "https://www.arnnet.com.au/article/683359/vmware-nvidia-team-up-make-ai-chips-easier-use/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 54
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/vmware_1.jpg"
-        width: 651
-        height: 455
-        isCached: true
-  - title: "NVIDIA And VMWare Announce Hybrid Cloud Partnership For AI Software And Hardware Infrastructure"
-    excerpt: "This is only the beginning of the discussion though, so stay tuned to HotHardware and wait for GTC2020 on October 5th for more news from NVIDIA and VMWare."
-    publishedDateTime: 2020-09-29T20:03:00Z
-    webUrl: "https://hothardware.com/news/nvidia-vmware-partnership-for-ai"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-vmware-partnership-for-ai"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-vmware-partnership-for-ai"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 47
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/52992/content/nvidia-vmware-hero.jpg"
-        width: 708
-        height: 398
-        isCached: true
-  - title: "Arize AI Joins NVIDIA Inception Program"
-    excerpt: "Arize AI, today announced it has joined the NVIDIA Inception program, which is designed to nurture startups revolutionizing industries"
-    publishedDateTime: 2020-10-02T15:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/arize-ai-joins-nvidia-inception-program-301144741.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1276605/Arize_AI_Logo.jpg?p=facebook"
-        width: 2696
-        height: 1414
-        isCached: true
-  - title: "VMware, Nvidia forge partnership to make AI chips easier for business use"
-    excerpt: "VMware Inc. (VMW) and Nvidia Corp. (NVDA) on Tuesday announced a partnership to make VMware's software for managing data centers work more smoothly with Nvidia's artificial intelligence chips ... there are a whole bunch of AI use-case scenarios,\" VMware ..."
-    publishedDateTime: 2020-09-30T12:29:00Z
-    webUrl: "https://www.morningstar.com/news/marketwatch/20200929584/vmware-nvidia-forge-partnership-to-make-ai-chips-easier-for-business-use"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 33
 
 secured: "LPbL+MTDwLlpA2ZeCOjtRSlAod+tv1Uf8kFlpO5PnTIXLeIBYI9SFx67GN0I25TGbk8t2ka/JG5As2Ke3Pmd44tv7TpXzTnyVUqiYJABluONhnxLD792D+2LU0LJDWTT6zXzTB7BgVgkTMmhIK/f2xdS6yOqIQf+MqFZuV7kv1x4HH2GlgUa31S+LIVUl39eXj7GZmyhUi52+KouJONadrEBzjIct0yKJpLynhJO+XCL9tOjKmpBdbgzvORzWRP2BsfVPU//4kXAmdPCH1nJ2oPq4zX5Eb6Ozk7hqRH2g3JVWLdir+S+mg0mT/oNE7wwxge0SdiNOYSm5aLaFc0D356I5ZTP3Z2Yv+wHn3yqMTvrYdsXKmN8NEVpn0nlY/s7oc/muV8z9XaUUo8aMjmXJ5OBX2hSZI0eZnEMhgDg/86QaffHBTsydkLIFYLa7wP9nPNCMLWvV0N4zoFXNA6l4/hyl02NWg2mzWaXmH434KxapkLnrPBl7dB01fO0u5xLPWH/knYE1Db2XzyqkXVGPw==;Zco+Vr8V5lo1Hp97YonYVQ=="
 ---

@@ -44,17 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Retail Market to..."
-    excerpt: "The global artificial intelligence (AI) in retail market size is expected to reach USD 23.32 billion by 2027, exhibiting a CAGR of"
-    publishedDateTime: 2020-09-29T17:12:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/09/g17703278/artificial-intelligence-ai-in-retail-market-to-reach-usd-23-32-billion-by-2027-rising-adoption-for"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17703278"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17703278"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 52
   - title: "Artificial Intelligence in Manufacturing Market Size, Future Scope, Growth Analysis and Forecast Report by 2027 with Top Companies"
     excerpt: "Global Artificial Intelligence in Manufacturing Market was valued at USD 966.67 million in 2019 which is expected to reach USD 22880.45 million by 2027 at CAGR 50.32%. Latest published report on the Artificial Intelligence in Manufacturing market,"
     publishedDateTime: 2020-10-01T02:21:00Z

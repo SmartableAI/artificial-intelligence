@@ -19,33 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Olive's AI Workforce to Revolutionize COVID-19 Testing at Tufts Medical Center"
-    excerpt: "Olive announced today that it has entered into an agreement to leverage its AI workforce technology to streamline COVID-19 testing operations at Tufts Medical Center in Boston, Mass. Olive will begin its enterprise-wide AI workforce deployment at the Medical Center by automating high-volume,"
-    publishedDateTime: 2020-09-29T17:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/olive-s-ai-workforce-to-revolutionize-covid-19-testing-at-tufts-medical-center-1029631076"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/olive-s-ai-workforce-to-revolutionize-covid-19-testing-at-tufts-medical-center-1029631076"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/olive-s-ai-workforce-to-revolutionize-covid-19-testing-at-tufts-medical-center-1029631076"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
-  - title: "How AI will revolutionize manufacturing"
-    excerpt: "Ask Stefan Jockusch about what a factory might look like in 10 or 20 years, and the answer might leave you at a crossroads between fascination and bewilderment. Jockusch is vice president for strategy at Siemens Digital Industries Software,"
-    publishedDateTime: 2020-09-29T18:46:00Z
-    webUrl: "https://www.technologyreview.com/2020/09/29/1008933/how-ai-will-revolutionize-manufacturing/"
-    ampWebUrl: "https://www.technologyreview.com/2020/09/29/1008933/how-ai-will-revolutionize-manufacturing/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/09/29/1008933/how-ai-will-revolutionize-manufacturing/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 61
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/09/Siemens-Digital-Header.png?w=1920"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Artificial intelligence can detect COVID-19 faster and easier"
     excerpt: "Multiple scientific studies have uncovered how to use artificial intelligence to detect, but not prevent, the latest coronavirus."
     publishedDateTime: 2020-10-02T07:46:00Z
@@ -90,6 +63,20 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "Effect of Machine Learning on Business Opportunities in the COVID-19 Pandemic."
+    excerpt: "March 2020 saw the rise of COVID-19 and with this, people from all over the world became susceptible to this dangerous virus that has proven to be fatal in many countries. According to research and market analysis,"
+    publishedDateTime: 2020-10-01T17:11:00Z
+    webUrl: "https://www.politicmag.net/press-releases/effect-of-machine-learning-on-business-opportunities-in-the-covid-19-pandemic-13755-2020/"
+    type: article
+    provider:
+      name: politicmag.net
+      domain: politicmag.net
+    quality: 35
+    images:
+      - url: "https://www.politicmag.net/wp-content/uploads/2020/10/Effect-of-Machine-Learning-on-Business-Opportunities-in-the-COVID-19-Pandemic.png"
+        width: 940
+        height: 788
+        isCached: true
   - title: "Augmented Intelligence Market Forecast to 2027 - COVID-19 Impact and Global Analysis"
     excerpt: "The \"Augmented Intelligence Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Technology, Enterprise Size, End-User, and Geography\" report has been added to ResearchAndMarkets.com's offering."
     publishedDateTime: 2020-10-02T09:39:00Z
@@ -99,19 +86,19 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 25
-  - title: "Touchless.ai Announces Intuitive Speech-Enabled Technology to Prevent COVID-19 Infection From Touchscreens"
-    excerpt: "We solved the problems of voice experience in commercial environments with an AI-driven interface that really works\" Israel’s Touchless.ai has started to deploy a voice solution that turns any interactive kiosk into a voice-activated touch-free interface."
-    publishedDateTime: 2020-10-01T15:43:00Z
-    webUrl: "https://www.vendingmarketwatch.com/technology/news/21156710/touchlessai-announces-intuitive-speechenabled-technology-to-prevent-covid19-infection-from-touchscreens"
+  - title: "Diagnosing COVID From a Person’s Voice"
+    excerpt: "Researchers are exploring ways to use people’s vocalizations to diagnose coronavirus infections, dementia and depression"
+    publishedDateTime: 2020-10-03T14:12:00Z
+    webUrl: "https://www.scientificamerican.com/article/diagnosing-covid-from-a-persons-voice/"
     type: article
     provider:
-      name: VendingMarketWatch
-      domain: vendingmarketwatch.com
-    quality: 23
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 24
     images:
-      - url: "https://img.vendingmarketwatch.com/files/base/cygnus/vmw/image/2020/10/16x9/Screen_Shot_2020_10_01_at_10.32.59_AM.5f75f8100e1fb.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 676
+      - url: "https://static.scientificamerican.com/sciam/cache/file/8C8D39AD-D5B6-4D5E-9EED7869DE114047.jpg"
+        width: 790
+        height: 496
         isCached: true
 
 secured: "R3bWyHFmlXtKbXS/3Gr1e1vm7/3HrS9tEHGEloAajS2CFxZgQb+HSXtplrlZteuVYYBCsnvb0//2LK/VHlDYaaZbUZWlkywNVSljwcj4MkmL927wOGkIwVnprtlg+vbMdlfoB38KHmxq3V+Gw5IsDGofUlalqo6UFMziKcl2swTseORjYizFBgca7z0uzzBcWYNCkenvvAd2FSYM3dV29HNAlHFy28FS77Hn5jSKjoWoWcc9SdYOgHzNtLtm5jD/XjLnZTmpCWw14ld+b8NK+Qy6oF/aoZ6ACM1wuACTBTKZGRBp1EvtGAETNONRi4q3ECv5LIjSWcvrDCexU95uIKvAFTUUcEfwZ4rE39sY3zE=;qlpKOWG+i7e+95VYxkBgvA=="

@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Arize AI Joins NVIDIA Inception Program"
+    excerpt: "Arize AI, today announced it has joined the NVIDIA Inception program, which is designed to nurture startups revolutionizing industries"
+    publishedDateTime: 2020-10-02T15:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/arize-ai-joins-nvidia-inception-program-301144741.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/1276605/Arize_AI_Logo.jpg?p=facebook"
+        width: 2696
+        height: 1414
+        isCached: true
   - title: "Updated: IIT Jodhpur Receives NVIDIA DGX A100 AI System in India"
     excerpt: "Indian Institute of Technology Jodhpur (IITJ) today announced the installation of two NVIDIA DGX A100 systems at the Central Computing Facility for students from all departments, including the School of AI and Data Science,"
     publishedDateTime: 2020-10-01T14:20:00Z

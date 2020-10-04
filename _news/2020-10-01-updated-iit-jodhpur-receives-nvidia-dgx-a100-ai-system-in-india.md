@@ -49,6 +49,20 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Arize AI Joins NVIDIA Inception Program"
+    excerpt: "Arize AI, today announced it has joined the NVIDIA Inception program, which is designed to nurture startups revolutionizing industries"
+    publishedDateTime: 2020-10-02T15:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/arize-ai-joins-nvidia-inception-program-301144741.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/1276605/Arize_AI_Logo.jpg?p=facebook"
+        width: 2696
+        height: 1414
+        isCached: true
 
 secured: "HU662ZcVeZbvOeiE7tQMzq2rcXIvnb+fTypXfjsNMKVWig/XAY+a8a7zIF09NfLT1BTqdacGeRcaSQFa52saQmRnbYSC8uJwrz6IemOkfKmLk7WqYQzuu4xafPtu/fyg3F9NqYdYB4k9kiP3quCt+N1DuVq4hNQ4t11Z62Ig2XLkxz0+voZdDud+HvvfXrfKebcrkFYWvj0mN6RGkUcuSybcsH1QWLN1VZmV+c5qWwDVsV9GHNKutuTAc1Ff4uzZ1yM6DBgWpXZJmEq0gWbp5SVVjz0R80IAzdM/tRRNx66EbNsN+9SGVoCeTqx9JDGhm1SNIuoaxjvWBkcmg9s12Yf5oYUteVaVeJPewMOTHFs=;OtB3TD/4RgtI1ww8QJF5oA=="
 ---

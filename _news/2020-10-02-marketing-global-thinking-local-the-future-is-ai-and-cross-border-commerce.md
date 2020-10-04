@@ -7,7 +7,7 @@ originalUrl: "https://www.thedrum.com/opinion/2020/10/02/marketing-global-thinki
 webUrl: "https://www.thedrum.com/opinion/2020/10/02/marketing-global-thinking-local-the-future-ai-and-cross-border-commerce"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     width: 1280
     height: 854
     isCached: true
-
-related:
-  - title: "How This Company Is Boosting Ecommerce Revenue by Using AI"
-    excerpt: "Omri Katz says a common problem when it comes to ecommerce is converting a user into a customer. When someone visits an online store, “98% of online users will leave the online store without completing a purchase,"
-    publishedDateTime: 2020-09-29T17:30:00Z
-    webUrl: "https://www.entrepreneur.com/video/356766"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/356766"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356766"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
 
 secured: "YRGJ0ZvmsUJBVf0fxNtH/nON2joAgniGSGqbwLTrdQuaC6o1DXmZQ6Mac2rBT5y72IXIo9PEqI4c3cAiKBZgmP02cnvY/fdPAhv2zC5H3m2ghrRr3H0qPiblPUllOn4n56kBNWi9Ae32uLwpWrMHr2LupFlsu9Sco/nvrQ/rhLP5DN5w2Mu4suumijr7XWtIuP9+9x6SROrxgU0Lk2uQAHx+XUm4lmNoYnU+xjJwwEHQz/38KWzBt3kFqYRE8K5avdw3JT7dUwhq0N7l9n+Nm9nOljWZINfubJQ9RVGuMs7FKlBKBbmqnsYEpRXpH9GBQwll9q+vZoxjxOZyMNH5XimL9esgByHWM2E8WwznmgQT6fhr84cZ6uEeXVOWmGd3zkNvQyONDNwm1v0HN8olrHSKnT8GlwSbsTxIN+gjPZY0BFp06ktwDIBjEHYVAM+WSR9UuMRV7ah5WMunncV71y500vWoWwN6SG5C0y2YkM1fKGfZweo45kK4Dxnc8CL57tbcEmiP2e/oZsz604qCVA==;aGG+QOfvZ5yio6R7WabhVQ=="
 ---

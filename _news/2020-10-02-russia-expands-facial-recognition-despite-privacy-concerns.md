@@ -7,7 +7,7 @@ originalUrl: "https://www.hrw.org/news/2020/10/02/russia-expands-facial-recognit
 webUrl: "https://www.hrw.org/news/2020/10/02/russia-expands-facial-recognition-despite-privacy-concerns"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "ExamSoft’s remote bar exam sparks privacy and facial recognition concerns"
-    excerpt: "To administer bar exams in 20 different states next week, ExamSoft is using facial recognition and collecting the biometric data of legal professionals."
-    publishedDateTime: 2020-09-29T17:07:00Z
-    webUrl: "https://venturebeat.com/2020/09/29/examsofts-remote-bar-exam-sparks-privacy-and-facial-recognition-concerns/"
-    ampWebUrl: "https://venturebeat.com/2020/09/29/examsofts-remote-bar-exam-sparks-privacy-and-facial-recognition-concerns/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/29/examsofts-remote-bar-exam-sparks-privacy-and-facial-recognition-concerns/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 88
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/09/kiana-caton.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "HRW Warns Of Privacy Concerns As Russia Expands Facial-Recognition Systems"
     excerpt: "Human Rights Watch (HRW) has criticized Russia's plans to expand the use of \"invasive\" facial-recognition systems because of the group's \"serious concern\" over the project's potential threat to privacy. The Kommersant newspaper reported last week that CCTV ..."
     publishedDateTime: 2020-10-02T07:41:00Z

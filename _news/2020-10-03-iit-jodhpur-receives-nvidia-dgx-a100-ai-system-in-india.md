@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/home/education/news/iit-jodhpur-receives-
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/amp_articleshow/78457955.cms"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://cache.careers360.mobi/media/article_images/2020/10/1/iijbekqg_iit-jodhpur-_625x300_13_January_20.jpg"
         width: 650
         height: 400
+        isCached: true
+  - title: "Arize AI Joins NVIDIA Inception Program"
+    excerpt: "Arize AI, today announced it has joined the NVIDIA Inception program, which is designed to nurture startups revolutionizing industries"
+    publishedDateTime: 2020-10-02T15:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/arize-ai-joins-nvidia-inception-program-301144741.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/1276605/Arize_AI_Logo.jpg?p=facebook"
+        width: 2696
+        height: 1414
         isCached: true
   - title: "Updated: IIT Jodhpur Receives NVIDIA DGX A100 AI System in India"
     excerpt: "Indian Institute of Technology Jodhpur (IITJ) today announced the installation of two NVIDIA DGX A100 systems at the Central Computing Facility for students from all departments, including the School of AI and Data Science,"

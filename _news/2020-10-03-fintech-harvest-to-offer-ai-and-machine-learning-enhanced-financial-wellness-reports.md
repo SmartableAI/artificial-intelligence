@@ -28,139 +28,22 @@ images:
     isCached: true
 
 related:
-  - title: "Giant Fech Firms Could Pose Dangers To Financial System Warns House Fintech Task Force Chair"
-    excerpt: "Without mentioning Apple, Google and the like by name, House Fintech Task Force Chair Stephen Lynch warned today giant tech firms could pose dangers to the financial system. “I see to-big-to-fail fintechs in the future in a big,"
-    publishedDateTime: 2020-09-29T18:28:00Z
-    webUrl: "https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/"
-    ampWebUrl: "https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/amp/"
+  - title: "Many Top AI Researchers Get Financial Backing From Big Tech"
+    excerpt: "Abdalla found that more than half of tenure-track AI faculty at four prominent universities who disclose their funding sources have received some sort of backing from Big Tech. Abdalla says he doesn’t believe any of those faculty are acting unethically ..."
+    publishedDateTime: 2020-10-04T07:00:00Z
+    webUrl: "https://www.wired.com/story/top-ai-researchers-financial-backing-big-tech/"
+    ampWebUrl: "https://www.wired.com/story/top-ai-researchers-financial-backing-big-tech/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/top-ai-researchers-financial-backing-big-tech/amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 78
+      name: Wired
+      domain: wired.com
+    quality: 87
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f737b36e2e867ffa50a6877%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D257%26cropY2%3D3071"
-        width: 1199
-        height: 675
+      - url: "https://media.wired.com/photos/5f73d8fe8f19c83a58c68524/master/pass/Big-Tech-Influence.jpg"
+        width: 2400
+        height: 1350
         isCached: true
-  - title: "Giant Tech Firms Could Pose Dangers To Financial System, Warns House Fintech Task Force Chair"
-    excerpt: "Without mentioning Apple, Google and the like by name, House Fintech Task Force Chair Stephen Lynch warned today giant tech firms could pose dangers to the financial system. “I see too-big-to-fail fintechs in the future in a big,"
-    publishedDateTime: 2020-09-29T20:02:00Z
-    webUrl: "https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/"
-    ampWebUrl: "https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 78
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f737b36e2e867ffa50a6877%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D257%26cropY2%3D3071"
-        width: 1199
-        height: 675
-        isCached: true
-  - title: "How to perfect your fintech story and close your next funding round"
-    excerpt: "The one thing I always do when I start working with a fintech startup is ask them what they are doing differently or better than their competitors."
-    publishedDateTime: 2020-10-02T09:22:00Z
-    webUrl: "https://thenextweb.com/growth-quarters/2020/10/02/how-to-perfect-your-fintech-story-and-close-your-next-funding-round/"
-    ampWebUrl: "https://thenextweb.com/growth-quarters/2020/10/02/how-to-perfect-your-fintech-story-and-close-your-next-funding-round/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/growth-quarters/2020/10/02/how-to-perfect-your-fintech-story-and-close-your-next-funding-round/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 74
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/conversation-pitch-story-storytelling-gq-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
-  - title: "How Covid-19 has injected new life into the fintech sector"
-    excerpt: "The coronavirus pandemic has forced the hands of many companies when it comes to their use of technology and, in doing so, it has reignited the fintech revolution."
-    publishedDateTime: 2020-10-01T08:30:00Z
-    webUrl: "https://www.itproportal.com/features/how-covid-19-has-injected-new-life-into-the-fintech-sector/"
-    ampWebUrl: "https://www.itproportal.com/amp/features/how-covid-19-has-injected-new-life-into-the-fintech-sector/"
-    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/how-covid-19-has-injected-new-life-into-the-fintech-sector/"
-    type: article
-    provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 44
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/HeCsiY6yjxpnUybtYHdeu9-1200-80.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "S.Korean FinTech Kakao Pay Preps For IPO"
-    excerpt: "Kakao Pay is set to be the first South Korean FinTech working with mobile payments to undertake an IPO. The company is likely to be valued at $8.5 billion."
-    publishedDateTime: 2020-10-01T03:18:00Z
-    webUrl: "https://www.pymnts.com/news/ipo/2020/south-korean-fintech-kakao-pay-preps-ipo/"
-    ampWebUrl: "https://www.pymnts.com/news/ipo/2020/south-korean-fintech-kakao-pay-preps-ipo/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2020/south-korean-fintech-kakao-pay-preps-ipo/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/09/IPO-2-457x297.jpg"
-        width: 457
-        height: 297
-        isCached: true
-  - title: "Top 5 technologies that will transform the Fintech sector"
-    excerpt: "Here are the top five technologies that will allow the Fintech industry to enhance productivity and efficiency in automating the solutions."
-    publishedDateTime: 2020-10-02T05:20:00Z
-    webUrl: "https://www.ciol.com/top-5-technologies-will-transform-fintech-sector/"
-    ampWebUrl: "https://www.ciol.com/top-5-technologies-will-transform-fintech-sector/amp/"
-    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/top-5-technologies-will-transform-fintech-sector/amp/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 44
-    images:
-      - url: "https://www.ciol.com/wp-content/uploads/2017/10/Fintech.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "3 Fintech Opportunities For Entrepreneurs Beyond 2020"
-    excerpt: "The financial service sector has not been an exception. Banks have closed, at least temporarily, and many other services that users have come to rely on have had hiccups or slowdowns of varying degrees."
-    publishedDateTime: 2020-09-30T12:15:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/3-Fintech-Opportunities-For-Entrepreneurs-Beyond-15606047.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 24
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/33/02/20033671/29/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Onfido teams up with FinTech Oval Money to boost digital customer verification"
-    excerpt: "Onfido announced a new partnership with FinTech Oval Money in a bid to accelerate and enhance the latter's digital customer verification and registration process."
-    publishedDateTime: 2020-09-30T10:20:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/onfido-teams-up-with-fintech-oval-money-to-boost-digital-customer-verification/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 20
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2020/07/Onfido-logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "How Fintech Companies Are Dealing with New Data Security Challenges"
-    excerpt: "Cybercrime is more sophisticated than ever and a new attack occurs every 39 seconds - unfortunately, fintech companies are some of hackers’ favorite targets. This shouldn’t come as a surprise - people are relying on digital money management more,"
-    publishedDateTime: 2020-09-30T16:44:00Z
-    webUrl: "https://www.finextra.com/blogposting/19380/how-fintech-companies-are-dealing-with-new-data-security-challenges"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "R3nB+oo0az2xHP40/1LzbQqmbPteSCRBLkLVqztXff248cdmMemcllvNGxoKHmICd31gfsemRiiLMRZ4jUsWwxWP8UJmhtf/2oEDtePdI7T5H/rnS5TbcQ2KmoplxKOhJ+s/Xi4SIZ+Q0TkOyzVrcQ/GuzCozUOc7K+kqRCKgh3vdQyTJ8UN3XP7xFFucP6dXTkGpeaGUtay2dLvzA+sNqSehOBS5ER+bxlzGRV198aQItM6rWPJ27xKNy+JNFcBjT3CC1ZokNGC1uiIc5HfQ+Iq7k/0gcwBlx4AW93Vc/4SSwIUznsF5YtbbTMNSihyCzH1gkwsBMRfV5cjfbaV9bx1Wprdbi5Z1GA8emNxHAs=;IkNvScU2Gliz2bFS59k3IA=="
 ---

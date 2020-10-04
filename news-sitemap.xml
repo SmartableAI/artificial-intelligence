@@ -7,6 +7,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.wired.com/story/top-ai-researchers-financial-backing-big-tech/</loc>
+    <lastmod>2020-10-04T00:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/lanceeliot/2020/10/03/tire-blowouts-could-cause-self-driving-cars-to-go-astray/</loc>
     <lastmod>2020-10-03T08:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -127,8 +133,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/article/five-australian-universities-launch-project-to-improve-voice-assistants-for-kids/</loc>
-    <lastmod>2020-10-01T21:33:00-07:00</lastmod>
+    <loc>https://calvinayre.com/2020/10/02/life/artificial-intelligence-can-detect-covid-19-faster-and-easier/</loc>
+    <lastmod>2020-10-02T00:46:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -349,6 +355,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.nextplatform.com/2020/09/30/vmware-embraces-nvidia-gpus-to-drive-enterprise-ai/</loc>
+    <lastmod>2020-09-30T14:14:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.wired.com/story/robots-use-ai-learn-clean-your-house/</loc>
     <lastmod>2020-09-30T13:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -483,6 +495,12 @@
   <url>
     <loc>https://www.vice.com/en_us/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle</loc>
     <lastmod>2020-09-29T14:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/</loc>
+    <lastmod>2020-09-29T13:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1627,7 +1645,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.businesswire.com/news/home/20200922005002/en/Jumio-to-Enable-Biometric-Based-Identity-Proofing-Services-for-Microsoft-Azure-Active-Directory</loc>
+    <loc>https://www.businesswire.com/news/home/20200922005002/en/</loc>
     <lastmod>2020-09-22T15:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

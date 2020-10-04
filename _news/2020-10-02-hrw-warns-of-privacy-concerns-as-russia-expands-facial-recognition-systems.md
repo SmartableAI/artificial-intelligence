@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "ExamSoft’s remote bar exam sparks privacy and facial recognition concerns"
-    excerpt: "To administer bar exams in 20 different states next week, ExamSoft is using facial recognition and collecting the biometric data of legal professionals."
-    publishedDateTime: 2020-09-29T17:07:00Z
-    webUrl: "https://venturebeat.com/2020/09/29/examsofts-remote-bar-exam-sparks-privacy-and-facial-recognition-concerns/"
-    ampWebUrl: "https://venturebeat.com/2020/09/29/examsofts-remote-bar-exam-sparks-privacy-and-facial-recognition-concerns/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/29/examsofts-remote-bar-exam-sparks-privacy-and-facial-recognition-concerns/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 88
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/09/kiana-caton.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Russia Expands Facial Recognition Despite Privacy Concerns"
     excerpt: "Russian authorities are planning to expand the use of CCTV cameras with facial recognition software, despite weighty concerns about the lack of regulation, oversight, and data protection, Human Rights Watch said today."
     publishedDateTime: 2020-10-02T04:30:00Z

@@ -3,14 +3,14 @@ category: news
 title: "Five Australian universities launch project to improve voice assistants for kids"
 excerpt: "A joint project between five Australian universities, called AusKidTalk, has been launched to improve the performance of voice recognition systems when being used by children. The universities involved in AusKidTalk are University of New South Wales,"
 publishedDateTime: 2020-10-02T04:33:00Z
-originalUrl: "https://www.zdnet.com/article/five-australian-universities-launch-project-to-improve-voice-assistants-for-kids/"
-webUrl: "https://www.zdnet.com/article/five-australian-universities-launch-project-to-improve-voice-assistants-for-kids/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/five-australian-universities-launch-project-to-improve-voice-assistants-for-kids/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/five-australian-universities-launch-project-to-improve-voice-assistants-for-kids/"
+originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/five-australian-universities-launch-project-to-improve-voice-assistants-for-kids/"
+webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/five-australian-universities-launch-project-to-improve-voice-assistants-for-kids/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/five-australian-universities-launch-project-to-improve-voice-assistants-for-kids/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/five-australian-universities-launch-project-to-improve-voice-assistants-for-kids/"
 type: article
-quality: 69
-heat: 79
-published: true
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: ZDNet
@@ -23,12 +23,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://zdnet2.cbsistatic.com/hub/i/2018/07/13/d22ee881-ab07-40cf-b387-011ff629b3bc/screen-shot-2018-07-13-at-15-16-25.jpg"
-    width: 1090
-    height: 696
-    isCached: true
 
 related:
   - title: "Minister defends design process for a Voice for Indigenous Australians"
@@ -43,6 +37,6 @@ related:
       domain: smh.com.au
     quality: 24
 
-secured: "aZS7A1ZiT31GQ3YvlMXvIEyRj4WqB3xpBM2cglS3vq+EIMh8JYB7Res3ktUTQPswkvjbBHXfnQODIHPyJo5XuUmfFOm7VoXQzAOgSlWJUyfdBDXzw0ZS0ZSLign6dSe7eastpI3gkotP/ZtomYIWblX7WK8grU/xZwiEcx1tnDMDJM9E8aCAl/XT2NTZVh0QfRy+rinvECASkXmLgd61JkBVBXvGb/PRp9nFvs2PsQNzL8jRzLWiT6rWPN0zJRvl+IF9z+fHAIOezufoiLOCSaNdCt+ALqMIJzM+OZNJZR5LQccNm/lfY8dMhAmVmq7l5t8Gd0n+bIBmUxXv4CA4S/Z5HoiX/ehIi+FJmYHe7oJGWu3071zZtFZXJR45VUsVqF/kdOOup0DhTP9qbE79LOqTnkPYtv2LLKvIcyMP7ODSsk/KRDL0+7YxMeADr8lubz0A1ODX4mqZLxwtk9AOJYmRWvNJgJZcksT+sMtHZ9trRjZzuGPtjzjvesb6XytkIOBn8v1oi+MU9iCz7j9f4g==;2YLhVL6Pnu7t0ZL2UzFsAQ=="
+secured: "41JhFdarOOFQIheZrIEp328beWyQzibuq/12c27AybDkIU/n7qtC3a9z+vw4JwCRsV03vG72qKGCpx9DXVAOhcdPS55GFxDIYOm6us55j6qB1j9y08jgjJ176fJhWOP5FYiyz1TetiRg45aoldcEFy3yPg9YhpkKatc3SAfV3oIAHEscDgMR7dcVmSsWDf2BtTGbQzuTuj+N8wm9bL5BApiRctNEgeFWSchwC3kF7+JOX6/vRKhD58KPytMVlQgrc/tmmazYOuxW91qDokrItrNSXAeH1pNsYh0kDXYcC768U43kdR5sML8zSTkV9U6gOtMJuU7Vtg4N5tvm//pqLBlb9/z5zcTy4vbdXDj3SmRxF60SS/jBzEXnlZ6edAuS4OR8ZS9thOuZPdvcjwH0sWV8LZ6X0YStx/Sxie3Rg/TurH6Dp25x+uilwFvxq/cUQWVHJnxI4v9h5uHNmrrzqHFTlvACw5xuARj/7uqn8+7CNjWkZ6k/mlRXu5q7iwiGB0kzXBkq0dcBQUeVMU1bEA==;ppZo/TXpiSM2fBk8+tGS9w=="
 ---
 
