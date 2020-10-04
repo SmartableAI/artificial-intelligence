@@ -19,6 +19,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - AI in Healthcare
 
 related:
   - title: "7 Artificial Intelligence Stocks to Buy for October"

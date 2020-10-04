@@ -1,25 +1,22 @@
 ---
 category: news
 title: "Capgemini Press Release// Growing number of businesses recognize need for ethical and trusted AI-powered systems but progress is still patchy"
-excerpt: "Good morning, Please find below the press release issued today. Best regards, Marishka MartinsGroup PR Consultant | Group Marketing & Communications Capgemini Group |"
-publishedDateTime: 2020-09-30T06:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/09/tr17710931/capgemini-press-release-growing-number-of-businesses-recognize-need-for-ethical-and-trusted-ai-po"
-webUrl: "https://www.benzinga.com/pressreleases/20/09/tr17710931/capgemini-press-release-growing-number-of-businesses-recognize-need-for-ethical-and-trusted-ai-po"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17710931"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17710931"
+excerpt: "Capgemini Group| India Tel.: +91 9930835325 Email: marishka.martins@capgemini.com _____________________________. Capgemini report finds that 70% of customers expect organizations to provide AI interactions that are transparent and fair."
+publishedDateTime: 2020-09-30T07:30:00Z
+originalUrl: "https://www.nasdaq.com/press-release/capgemini-press-release-growing-number-of-businesses-recognize-need-for-ethical-and"
+webUrl: "https://www.nasdaq.com/press-release/capgemini-press-release-growing-number-of-businesses-recognize-need-for-ethical-and"
 type: article
-quality: 19
-heat: 19
-published: false
+quality: 29
+heat: 29
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI Ethics
   - AI
 
-secured: "PAJiJWkOvZFdrxd3nDnmruiQ1nZOdf7gtZfjXbeKWUlISX7kvpndpWdPEKeg/VSfG23KvzJoe585p35YEiM+KuOL6Uua7ItAz9w9MoRlcB+L4n3+mXglWWDorL1/MXzP7GjPjs2mBJSYo/cK1j3IwrutA39fBRHv6eYNWpRcZJReDU2qXxnARYuzRQgpXhDpQao+HA5J1Bpm2DrlPFJ4PbqAuDaDBrhU7mmTpd08xITD4ZSSrWPaXckO5J1M3b7FWskWD/SECWygle7g/cvehh12O6hRwC5EfQRVeznY7jUK/iYKw4eJwXyvKaw1iE64CoYpTg4XMp2zOeITUbvs+bItIi4vChfY03I9sOH5auw=;yqQmOdnaIbCKQkiqNMNj9A=="
+secured: "TKnRsRe/+5kDk6C09NYxCocryLjzkmNE48xok1wIMCDjoizG8Ury9Cr9YDn1d9NTve/FC1HaOZpTz7MraB3kii/2AFEISQmU5hO8VVhPiceIMGX0MblZHvh1of7QoDtkd/B7RZHUtb1qecrTnpX/PAsH72oaS2L5nDPDsJox7c7GhhA39nowSldmmAKhvKR6oSdzVUQLgR3hDwlYXV7njiafxBRAQ4wFhI+h79M3tAIUjWurAw7M05CM8tv3N09TtmKMO9yQ059alZ389cq23iA5LN2FLXzH9ETRpUyKBVG3SMd0yw4PQWIW+rJtkGFpdJfyYtnResJ5vLQHY2tjsUIUQTe49M992dUjXu9Jg/0=;qNxVgzCGXS9+Z/6svYksHQ=="
 ---
 

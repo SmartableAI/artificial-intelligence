@@ -8,9 +8,6 @@ webUrl: "https://markets.businessinsider.com/news/stocks/superwise-ai-named-a-co
 ampWebUrl: "https://markets.businessinsider.com/amp/news/superwise-ai-named-a-cool-vendor-by-gartner-1029636628"
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/superwise-ai-named-a-cool-vendor-by-gartner-1029636628"
 type: article
-quality: 69
-heat: 69
-published: false
 
 provider:
   name: Business Insider
@@ -24,6 +21,6 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "6PVVdXApE/GATsNkdgYEB9WmCEjpwcq3a8UHl9IRhErXJebLcpBjudiycdMzS72w2AKHamr8O5HRyqdb7k7pFEWAFp6W7y4KmnrI/4qBUOSldN2gaptDlzPORKdP1dJE+8w8Bl8Ay8phmvp9iB3WavDwybdyHCfnam/5esmdXnVyLyJXLSWaNx16n8E/iCbN0WkmH29bch4R5Fs4jQvFdH+ZYUWpPD2jXQfAavSD/R/pgqCtLu2m1ZSiB3i8uaBtb30+aUeGB3ZzDlSmOw/XltMO01DGQUnOJSwiqz4lwkkHOFRzd6YlvDg+fvhbxdmGS+tPU7YETmDDXRlNSpmcD/R1GtTcrI7rMy6ogd2sauY=;s/tSJ3q9l29tQkrvoxXBTQ=="
+secured: "xkBFakl4MX81hiuPCS0cTKaiGag+suuNVyDHjrbG1m9xjN4x6oqcbJfqoCtzy9pxUyh0kdsxVIngloim7wLLbXHYwwBbkPtTI+qT4kVwBAQMcomq5BD7V383HhzUreFa9kiX3xjy+cUyG0c4sgrFF3eIwUq+NRli3Etl+OjKLoIVglE+Jz35TEDecRiVxZPQDSANLjFty1Ej3vrc0Fbhm+q7t05qNzJK8DUE0Cu2pcnRNuMFpyh0drCwQh8LXeiEYyfXu8F/dZJ3b2RDoxpejk0Ckv3JzXOy0PL0YfC5b1MP2Y6jOZAW+C9C4f6C3O/BfG0toiRmh/iGhi0ZyIFuKUhhEY5GRoCuAajAIHgp1Ec=;WJeYSuTxF03Bft8+CVbMDA=="
 ---
 

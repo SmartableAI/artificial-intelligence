@@ -1,29 +1,26 @@
 ---
 category: news
 title: "Worldwide Self-driving Taxi Industry to 2024 - Key Leading Countries"
-excerpt: "PRNewswire/ -- The 'Global Self-driving Taxi Market 2020-2024' report has been added to ResearchAndMarkets.com's"
-publishedDateTime: 2020-09-30T16:01:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/worldwide-self-driving-taxi-industry-to-2024-key-leading-countries-1029636271"
-webUrl: "https://markets.businessinsider.com/news/stocks/worldwide-self-driving-taxi-industry-to-2024-key-leading-countries-1029636271"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/worldwide-self-driving-taxi-industry-to-2024-key-leading-countries-1029636271"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/worldwide-self-driving-taxi-industry-to-2024-key-leading-countries-1029636271"
+excerpt: "PRNewswire/ -- The \"Global Self-driving Taxi Market 2020-2024\" report has been added to ResearchAndMarkets.com's offering. The self-driving taxi market"
+publishedDateTime: 2020-09-30T15:45:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/worldwide-self-driving-taxi-industry-to-2024---key-leading-countries-301142078.html"
+webUrl: "https://www.prnewswire.com/news-releases/worldwide-self-driving-taxi-industry-to-2024---key-leading-countries-301142078.html"
 type: article
-quality: 54
-heat: 54
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "sh6n51PWhXhOgF0SBYb0Ir8dz0CdBafZwNfPRa81bIQ7n0sWkxQ5vRwwhZkvcCvnHfxrbXZ7xsKot8UPVTZTllPJjIsatChA7zrjfkQ36tDbyFMxsqgC4bNSHGv2VPlbXYWC10wjTMJSb6bXMVuQGHnnld1wuwVml6BxOD/zN5SdC6O35JDXNCcdIvhGgTRZmkjwMvecx68F8s4iLC5vqvtGMM+h2eL+rPMjBtEKVMQfUMkvE5EHSBJGhEXmbG/z3LYcCNW/Iot3Wuvq3KJOUkUHFF0kFiBL5hyeGPdPVnpyhDW8ji64Z80Vgk/qHH9gu4QneMAYsHkFtGIY9N0OOcDBYaefbScb9znC/jleqGk=;gYb5dWFURjHBSqowB6QAdw=="
+images:
+  - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+    width: 800
+    height: 419
+    isCached: true
+
+secured: "RYpFKv3SRZFDoRVh2W2xoNqow20tMmkLnIrNJeG8b2MhWjGS7r3Nek/ZObdZdbLwi+3faZtFMr1xFUck2kSuz/ouWYaWKfBEmqpUatbfzbQPSFpM3ejTQxFU+l0Dkf48ISNBDtBI78EPC9aThjNv8pMtTe11ivJWDkxBx25N7eIdXBWV+Saj4AArJZZgk/fHgEMEyUZTWLjVqK2sW2jMF7Lc0mFWHAATxMc5CVw3YuLV1cy6am+3Rwsm00EA1jRbR+4vH+/33gVtph0ZorVvokYzTACa7CnN1gKMn/bTLvk8udreNqAGMMFiMknygrRatC4uaJ9r4mnLvj2sSrI6qE/XMO1AZnoXi3faZv9+6yk=;rFwlLjPPRTvEJiHVPfO7NQ=="
 ---
 
