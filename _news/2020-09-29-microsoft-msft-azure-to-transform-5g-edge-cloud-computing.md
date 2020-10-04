@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-azure-to-transform-5g
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-azure-to-transform-5g-edge-cloud-computing-2020-09-29?amp"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 144
+published: true
 
 provider:
   name: Nasdaq
@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft Azure for Operators is a cloud platform for telcos"
-    excerpt: "Microsoft’s push into the telecoms market continues with the launch of a dedicated suite of cloud services called ‘Azure for Operators’, hoping to capitalise on increased demand from telcos in the 5G era."
-    publishedDateTime: 2020-09-29T10:58:00Z
-    webUrl: "https://www.techradar.com/au/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos"
-    ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 104
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/kExEad3yNfdKVXRBuEsmfc-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft unveils Azure for Operators to unlock 5G potential"
     excerpt: "Microsoft has announced a new cloud platform called Azure for Operators that has been designed to help telecommunications operators unlock the full potential of 5G. The new offering will help communication service providers create new opportunities and provide core infrastructure,"
     publishedDateTime: 2020-09-30T11:08:00Z
@@ -94,48 +78,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Intelemark's New Microsoft Azure Cloud-Based AI Proprietary Software Fuels International Expansion"
-    excerpt: "Intelemark, a national leader in the lead generation/appointment setting industry for more than 20 years, is pleased to announce the successful implementation of our third generation cloud-based proprietary software."
-    publishedDateTime: 2020-09-30T13:00:00Z
-    webUrl: "https://www.finanzen.net/nachricht/aktien/intelemark-s-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion-9346878"
-    type: article
-    provider:
-      name: Finanzen
-      domain: finanzen.net
-    quality: 55
-    images:
-      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Azure for Operators launches as Microsoft faces global outage"
-    excerpt: "Microsoft it taking the rough with the smooth this week as it announced the launch of Azure for Operators, while tackling a major global outage."
-    publishedDateTime: 2020-09-29T10:47:00Z
-    webUrl: "https://www.capacitymedia.com/articles/3826485/azure-for-operators-launches-as-microsoft-faces-global-outage"
-    type: article
-    provider:
-      name: Capacity Media
-      domain: capacitymedia.com
-    quality: 54
-    images:
-      - url: "https://www.capacitymedia.com/Image/ServeImage?id=49446&w=780&h=442&cr=true"
-        width: 780
-        height: 442
-        isCached: true
-  - title: "Microsoft Obtains Exclusive License for GPT-3 AI Model"
-    excerpt: "Microsoft announced an agreement with OpenAI to license OpenAI's GPT-3 deep-learning model for natural-language processing (NLP). Although Microsoft's announcement says it has \"exclusively\" licensed the model,"
-    publishedDateTime: 2020-09-29T14:33:00Z
-    webUrl: "https://www.infoq.com/news/2020/09/microsoft-license-gpt-3/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 54
-    images:
-      - url: "https://res.infoq.com/news/2020/09/microsoft-license-gpt-3/en/headerimage/microsoft-license-gpt-3_header-1601145166901.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft Translator now supports Assamese too"
     excerpt: "Microsoft India said on Wednesday that it has added Assamese as the latest Indian language in Microsoft Translator, increasing the number of Indian languages it supports to 12. The Azure-based service will now provide real-time translation and transliteration support for the language."
     publishedDateTime: 2020-09-30T11:54:00Z
@@ -150,20 +92,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Scality Announces 1 Terabit Per Second Performance for Scale-Out File System in Microsoft Azure Public Cloud"
-    excerpt: "Scality, a leader in software solutions for distributed file and object storage, today announced the technical preview"
-    publishedDateTime: 2020-09-29T20:10:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/scality-announces-1-terabit-per-second-performance-for-scale-out-file-system-in-microsoft-azure-public-cloud/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 35
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/Advantage-System-2-405x228.jpeg"
-        width: 405
-        height: 228
-        isCached: true
   - title: "Microsoft Azure Cloud Ramps for 5G Telecom Service Provider Partners"
     excerpt: "Microsoft Azure for Operators helps partners & telecommunications service providers (TSPs) roll out 5G networks and deliver new cloud-based services, Microsoft says."
     publishedDateTime: 2020-09-29T17:21:00Z
@@ -173,15 +101,6 @@ related:
       name: ChannelE2E
       domain: channele2e.com
     quality: 34
-  - title: "Scality Announces 1 Terabit Per Second Performance for Scale-Out File System in Microsoft Azure Public Cloud"
-    excerpt: "data remains in native Azure format and fully accessible by any Azure service for use cases including data analytics, machine learning and more. Scality SOFS has been available as part of Scality's industry-leading on-premises storage solution, RING ..."
-    publishedDateTime: 2020-09-29T13:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/scality-announces-1-terabit-per-second-performance-for-scale-out-file-system-in-microsoft-azure/article_f685f50b-01a5-5b3c-b019-70e8299790d2.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 15
 
 secured: "ZEp1ldYPew2CgzQDJ3r9fVYnWtO19qu9FvumifyE1nOytZM5J+ozl+p47APHHNgCyYhkAJ+vNEXehGResXanlZwvsA0EZhKM0W6ELcSgQVOsq0ZEq8PQ7kyT07irprWuLG0WusVpqL82M4UUdKfAbba0US/Yr61z/0IRMvIU36qGJJEV21HNL6qnCEX5sdqXbaq0gEAq6Q/no4jY7dWaI3lugKUF/AMvLZmK88hTdW/jmrWAK6XiyvtembJcIEKa10drJqRwVFKLZ6sKcp8ROnxENBYx96vhLBZiZDuwoQ2AXJSBU3CzuYyC/3PjnojwxBP5bS2Uu+KsRm0OQWdXQQA1pl7aaq5LCH9qrgFVwBs=;28NwqX2bKHfTuPl4SZLnQA=="
 ---

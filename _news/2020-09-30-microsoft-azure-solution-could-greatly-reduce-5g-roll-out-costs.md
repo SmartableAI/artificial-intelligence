@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Azure for Operators is a cloud platform for telcos"
-    excerpt: "Microsoft’s push into the telecoms market continues with the launch of a dedicated suite of cloud services called ‘Azure for Operators’, hoping to capitalise on increased demand from telcos in the 5G era."
-    publishedDateTime: 2020-09-29T10:58:00Z
-    webUrl: "https://www.techradar.com/au/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos"
-    ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 104
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/kExEad3yNfdKVXRBuEsmfc-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft (MSFT) Azure to Transform 5G Edge Cloud Computing"
     excerpt: "Microsoft MSFT is focused on making the most of 5G networking capabilities to transform cloud and edge computing. The tech giant is working in collaboration with the telecommunications industry to develop a carrier-grade platform for edge and cloud –– Azure for Operators."
     publishedDateTime: 2020-09-29T14:38:00Z
@@ -95,48 +79,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Intelemark's New Microsoft Azure Cloud-Based AI Proprietary Software Fuels International Expansion"
-    excerpt: "Intelemark, a national leader in the lead generation/appointment setting industry for more than 20 years, is pleased to announce the successful implementation of our third generation cloud-based proprietary software."
-    publishedDateTime: 2020-09-30T13:00:00Z
-    webUrl: "https://www.finanzen.net/nachricht/aktien/intelemark-s-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion-9346878"
-    type: article
-    provider:
-      name: Finanzen
-      domain: finanzen.net
-    quality: 55
-    images:
-      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Azure for Operators launches as Microsoft faces global outage"
-    excerpt: "Microsoft it taking the rough with the smooth this week as it announced the launch of Azure for Operators, while tackling a major global outage."
-    publishedDateTime: 2020-09-29T10:47:00Z
-    webUrl: "https://www.capacitymedia.com/articles/3826485/azure-for-operators-launches-as-microsoft-faces-global-outage"
-    type: article
-    provider:
-      name: Capacity Media
-      domain: capacitymedia.com
-    quality: 54
-    images:
-      - url: "https://www.capacitymedia.com/Image/ServeImage?id=49446&w=780&h=442&cr=true"
-        width: 780
-        height: 442
-        isCached: true
-  - title: "Microsoft Obtains Exclusive License for GPT-3 AI Model"
-    excerpt: "Microsoft announced an agreement with OpenAI to license OpenAI's GPT-3 deep-learning model for natural-language processing (NLP). Although Microsoft's announcement says it has \"exclusively\" licensed the model,"
-    publishedDateTime: 2020-09-29T14:33:00Z
-    webUrl: "https://www.infoq.com/news/2020/09/microsoft-license-gpt-3/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 54
-    images:
-      - url: "https://res.infoq.com/news/2020/09/microsoft-license-gpt-3/en/headerimage/microsoft-license-gpt-3_header-1601145166901.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft Translator now supports Assamese too"
     excerpt: "Microsoft India said on Wednesday that it has added Assamese as the latest Indian language in Microsoft Translator, increasing the number of Indian languages it supports to 12. The Azure-based service will now provide real-time translation and transliteration support for the language."
     publishedDateTime: 2020-09-30T11:54:00Z
@@ -151,20 +93,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Scality Announces 1 Terabit Per Second Performance for Scale-Out File System in Microsoft Azure Public Cloud"
-    excerpt: "Scality, a leader in software solutions for distributed file and object storage, today announced the technical preview"
-    publishedDateTime: 2020-09-29T20:10:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/scality-announces-1-terabit-per-second-performance-for-scale-out-file-system-in-microsoft-azure-public-cloud/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 35
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/Advantage-System-2-405x228.jpeg"
-        width: 405
-        height: 228
-        isCached: true
   - title: "Microsoft Azure Cloud Ramps for 5G Telecom Service Provider Partners"
     excerpt: "Microsoft Azure for Operators helps partners & telecommunications service providers (TSPs) roll out 5G networks and deliver new cloud-based services, Microsoft says."
     publishedDateTime: 2020-09-29T17:21:00Z
@@ -174,15 +102,6 @@ related:
       name: ChannelE2E
       domain: channele2e.com
     quality: 34
-  - title: "Scality Announces 1 Terabit Per Second Performance for Scale-Out File System in Microsoft Azure Public Cloud"
-    excerpt: "data remains in native Azure format and fully accessible by any Azure service for use cases including data analytics, machine learning and more. Scality SOFS has been available as part of Scality's industry-leading on-premises storage solution, RING ..."
-    publishedDateTime: 2020-09-29T13:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/scality-announces-1-terabit-per-second-performance-for-scale-out-file-system-in-microsoft-azure/article_f685f50b-01a5-5b3c-b019-70e8299790d2.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 15
 
 secured: "r3R5JN69+CD3skZmHTOY1ZtOTNvZil7txojMonERgm/4PiLOFKBuzak+cfdR6ljUaz5ubIV/16dxAXdP1LN0/ph82vSL3GwFaaXPg1I51sfJcdiJK5Hwr1YUsmS6QNGBw20VqnThEVzSA7lLuYkNidH+geTFZIIyheS/PcVaLln+F5qd0H6xKAddBuNtqjxhprS3+NzxbJ2cfGH6tJzXdCfWpu1z5S7PlQc9rWg6CbdSrgzAWzAcOcqGS2MMas88nDM98HYjrFwCDYvciC26/F0PEFreFxpWqp6a8IoN2OcdScUs7isS+RI8lOuaXxn4C055yHM7O5jOYe6H9w+2Q6frNdooyvnKhrhHVyLIF+E7XiuO1zmZme1cf5gMmPtjjdvQbROiCuyqmX8htKZWD81iHMB4BferAFL1MrI6GYzU8GLSTwCd6dzx71Yf+X1lSKb5mAhwbPaaR0FlEFKt9dmtMcp0h49VHV9iSEVyy1eO6uyg94hZB6WAsU6keFslRxy+g1zLWLNtjtj11fM0Eg==;dfzxXY2AA+C6YorrKON0wA=="
 ---

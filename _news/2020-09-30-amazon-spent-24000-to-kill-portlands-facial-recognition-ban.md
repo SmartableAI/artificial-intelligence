@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en_us/article/g5p9z3/amazon-spent-dollar240
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Detroit City Council to vote to renew DPD's facial recognition contract"
-    excerpt: "The Detroit City Council is expected to vote Tuesday on the renewal of the controversial use of facial recognition technology in the city."
-    publishedDateTime: 2020-09-29T09:27:00Z
-    webUrl: "https://www.wxyz.com/news/detroit-city-council-to-vote-to-renew-dpds-facial-recognition-contract"
-    ampWebUrl: "https://www.wxyz.com/news/detroit-city-council-to-vote-to-renew-dpds-facial-recognition-contract?_amp=true"
-    cdnAmpWebUrl: "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/detroit-city-council-to-vote-to-renew-dpds-facial-recognition-contract?_amp=true"
-    type: article
-    provider:
-      name: WXYZ Detroit
-      domain: wxyz.com
-    quality: 59
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/b4258ae/2147483647/strip/true/crop/2777x1562+112+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F2b%2F27%2Fd6dcdccb4b9f9e78c5486cb85a7e%2Ffacial-recognition.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Detroit City Council Passes Facial Recognition Contract For DPD"
     excerpt: "A controversial topic was put before the Detroit City Council Tuesday. Members voted on a facial recognition contract that opponents call “flawed technology.” CW50’s Cryss Walker tells us what decision was made."
     publishedDateTime: 2020-09-30T03:24:00Z

@@ -1,47 +1,29 @@
 ---
 category: news
 title: "Worldwide Self-driving Taxi Industry to 2024 - Key Leading Countries"
-excerpt: "PRNewswire/ -- The 'Global Self-driving Taxi Market 2020-2024' report has been added to ResearchAndMarkets.com's"
-publishedDateTime: 2020-09-30T16:01:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/worldwide-self-driving-taxi-industry-to-2024-key-leading-countries-1029636271"
-webUrl: "https://markets.businessinsider.com/news/stocks/worldwide-self-driving-taxi-industry-to-2024-key-leading-countries-1029636271"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/worldwide-self-driving-taxi-industry-to-2024-key-leading-countries-1029636271"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/worldwide-self-driving-taxi-industry-to-2024-key-leading-countries-1029636271"
+excerpt: "PRNewswire/ -- The \"Global Self-driving Taxi Market 2020-2024\" report has been added to ResearchAndMarkets.com's offering. The self-driving taxi market"
+publishedDateTime: 2020-09-30T15:45:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/worldwide-self-driving-taxi-industry-to-2024---key-leading-countries-301142078.html"
+webUrl: "https://www.prnewswire.com/news-releases/worldwide-self-driving-taxi-industry-to-2024---key-leading-countries-301142078.html"
 type: article
-quality: 54
-heat: 64
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Autos
   - AI
 
-related:
-  - title: "Self-driving cars are still going to take a long time, people"
-    excerpt: "A few years ago, I visited a super promising company called Luminar, which makes LiDAR, or Light Detection and Ranging, technology that helps autonomous cars see the world around them. Now, Luminar is going public."
-    publishedDateTime: 2020-09-29T11:07:00Z
-    webUrl: "https://www.marketplace.org/shows/marketplace-tech/self-driving-cars-luminar-autonomous-driving-highways/"
-    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/self-driving-cars-luminar-autonomous-driving-highways?amp"
-    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/self-driving-cars-luminar-autonomous-driving-highways?amp"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 44
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2020/09/image-1.png?fit=740%2C416"
-        width: 740
-        height: 416
-        isCached: true
+images:
+  - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+    width: 800
+    height: 419
+    isCached: true
 
-secured: "TZY81xZosnJT5nDw1Z5eQEXgIqwKhw/EKFZ6jzZ6ubKbVAyL98medLbumhUulPXEzpR/36uFxVqjVToDVm8KaFH7s3jZbD9t9yEq3kLt7Nl5yoKVSgir4LuVPemjzA7BMaFxCRM7Kwkx/pq+9W1mejFKgXTlEdZ6E6uT17cLuyxcFFfp38s3uwzS/bqvViFOvMdxUH/p9P8c6WJRbzYTyurdLU7v4SXJOBRs2OT4LHkbFmz8ivVfGCAf+tOQrKEueImjELvhhdp1RCyc2+TSfvIC8G3sFM6rYmf4WLToFgkVZC4tSEBFiHIfskboh5UomQoNZERlB8M4B0/ko/U4V0nW9TMefsfkQuQuUkdo2fs=;2/Gu/Dawa75QhrfJO2plKg=="
+secured: "k2FkiP3ySrjhct37FphVuif9CcqbJHzm5vaw/2D5x3r2CMp2Z3Dmva7syg2yqJ+E6xKdub7Ug6sz2mQRiqkPMCYzxcaw80j+gJ56dL1qmaBFSik2xN5qLXlJoZ2jiCI/wvjlZ+Ek0BN+dzPqXeDAYMSWmQYtLJtmsK4Of2VLQZmKenWOiZ9MfxBOtmlws5kJlQgjz2Q72iZszIWma9xnWUHcKA3VEKjDtwTABT3P++hyVpH9GkiSJ48RdGnxtNP5/07FVtAuen/8xPwwi99XLiCn3qKrmgtxAkGeuNTPTzhM8Y+9xipaBcuTyjPRTp7JQHbYmahslSvjFUZ23RTLpKZe6uQ3Q99wGTxEDx+hH9U=;t63rJ/Y4DtkmEFUSaVcHgA=="
 ---
 

@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Machine Vision: A Boon for the Manufacturing Industry"
-    excerpt: "FREMONT, CA: Machine vision is one of the important additions to the manufacturing sector. It has provided automated"
-    publishedDateTime: 2020-09-29T10:56:00Z
-    webUrl: "https://www.cioreview.com/news/machine-vision-a-boon-for-the-manufacturing-industry-nid-32046-cid-34.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 24
-    images:
-      - url: "https://cioreview.com/Rank_subcat_images/spt9omaster.jpg"
-        width: 478
-        height: 556
-        isCached: true
 
 secured: "Er5mFk1q/UfIuK2S2S4ApxSUHjVOgK7rbA7pEe8h+8BfS99nrvHr/tqUzqglwMjlTyGEUHwL4pbdyzGpBFrITmA7EW+5MURMgqVtcczbzDJv/gNR7MVfnsWD7Xln7MbydAlmMz4gXXIPMEOE32o2F9dN52QzMCPitxrDfp1kUGKNs7E1XeDpaichDKOdhofA8lspvEG7Ak5Wm7StKjJiBZEiJ1rt/Z9j5YSz6VyWKQb7GxfH2fSlvPim3qMvkYnhRreOK6rR7NfY3QqI7Xr9XU2KkVchhSOqrsrZ/C56gABguhntvMdFMuJPCazoB2l777vGz5IyOGwBAxNADtNE+wYqYAMS6f47zsn4xpJPhrc=;HbsvhbfttSb4DlrtUJGm4w=="
 ---

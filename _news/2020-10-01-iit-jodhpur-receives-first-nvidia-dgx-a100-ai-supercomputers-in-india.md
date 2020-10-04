@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Vicor: Powering Nvidia's New A100 Tensor Core GPU"
-    excerpt: "Vicor Power is benefiting from a number of positive catalysts - from vehicle electrification to greater adoption of a 48V power distribution standard in data centers."
-    publishedDateTime: 2020-09-29T10:17:00Z
-    webUrl: "https://seekingalpha.com/article/4376768-vicor-powering-nvidias-new-a100-tensor-core-gpu"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 39
-    images:
-      - url: "https://static.seekingalpha.com/uploads/2020/9/26/173432-16011296460717528.png"
-        width: 640
-        height: 286
-        isCached: true
   - title: "Updated: IIT Jodhpur Receives NVIDIA DGX A100 AI System in India"
     excerpt: "Indian Institute of Technology Jodhpur (IITJ) today announced the installation of two NVIDIA DGX A100 systems at the Central Computing Facility for students from all departments, including the School of AI and Data Science,"
     publishedDateTime: 2020-10-01T14:20:00Z

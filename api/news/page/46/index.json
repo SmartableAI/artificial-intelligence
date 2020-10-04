@@ -2,6 +2,38 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2020-08-28-ais-role-in-digital-transformation-for-financial-services.md",
+      "title": "AI's Role in Digital Transformation for Financial Services",
+      "excerpt": "As we look to the future, and the possible shocks yet to come, what role does AI have to play in this mission, and what broader digital transformation is needed to ensure these organizations stay stable and continue their growth?",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ais-role-in-digital-transformation-for-financial-services-2020-08-28",
+      "originalUrl": "https://www.nasdaq.com/articles/ais-role-in-digital-transformation-for-financial-services-2020-08-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/ais-role-in-digital-transformation-for-financial-services-2020-08-28?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ais-role-in-digital-transformation-for-financial-services-2020-08-28?amp",
+      "publishedDateTime": "2020-08-28T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-28-google-offers-to-help-others-with-the-tricky-ethics-of-ai.md",
       "title": "Google Offers to Help Others With the Tricky Ethics of AI",
       "excerpt": "After learning its own ethics lessons the hard way, the tech giant will offer services like spotting racial bias or developing guidelines around AI projects.",

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jenniferhicks/2020/09/29/using-machine-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2020/09/29/using-machine-learning-to-reduce-carbon-emissions-in-the-trucking-industry/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Vision: A Boon for the Manufacturing Industry"
-    excerpt: "FREMONT, CA: Machine vision is one of the important additions to the manufacturing sector. It has provided automated"
-    publishedDateTime: 2020-09-29T10:56:00Z
-    webUrl: "https://www.cioreview.com/news/machine-vision-a-boon-for-the-manufacturing-industry-nid-32046-cid-34.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 24
-    images:
-      - url: "https://cioreview.com/Rank_subcat_images/spt9omaster.jpg"
-        width: 478
-        height: 556
-        isCached: true
   - title: "REMI - Reducing Emissions through Machine Intelligence"
     excerpt: "Ph. 2 – Commitments: Companies define, specify and scope a machine learning (ML) project; and mitigate the risk of introducing AI and ML projects into various operations, processes and business lines. Ph. 3 – GHG Reduction: Teams advance a selected ML ..."
     publishedDateTime: 2020-09-30T15:33:00Z

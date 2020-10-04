@@ -8,7 +8,7 @@ webUrl: "https://www.nasdaq.com/articles/7-artificial-intelligence-stocks-to-buy
 ampWebUrl: "https://www.nasdaq.com/articles/7-artificial-intelligence-stocks-to-buy-for-october-2020-10-02?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-artificial-intelligence-stocks-to-buy-for-october-2020-10-02?amp"
 type: article
-quality: 67
+quality: 71
 heat: -1
 published: false
 
@@ -18,6 +18,8 @@ provider:
 
 topics:
   - AI
+  - IBM AI
+  - AI in Healthcare
 
 related:
   - title: "Join AWS and NVIDIA at GTC, October 5–9"

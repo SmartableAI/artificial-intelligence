@@ -41,6 +41,34 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Intelemark's New Microsoft Azure Cloud-Based AI Proprietary Software Fuels International Expansion"
+    excerpt: "Intelemark, a national leader in the lead generation/appointment setting industry for more than 20 years, is pleased to announce the successful implementation of our third generation cloud-based proprietary software."
+    publishedDateTime: 2020-09-30T13:00:00Z
+    webUrl: "https://www.finanzen.net/nachricht/aktien/intelemark-s-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion-9346878"
+    type: article
+    provider:
+      name: Finanzen
+      domain: finanzen.net
+    quality: 55
+    images:
+      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Microsoft Obtains Exclusive License for GPT-3 AI Model"
+    excerpt: "Microsoft announced an agreement with OpenAI to license OpenAI's GPT-3 deep-learning model for natural-language processing (NLP). Although Microsoft's announcement says it has \"exclusively\" licensed the model,"
+    publishedDateTime: 2020-09-29T14:33:00Z
+    webUrl: "https://www.infoq.com/news/2020/09/microsoft-license-gpt-3/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 54
+    images:
+      - url: "https://res.infoq.com/news/2020/09/microsoft-license-gpt-3/en/headerimage/microsoft-license-gpt-3_header-1601145166901.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "qOftniNQFPNbyFskn4DxCxUD8q7YtFbwcgsGtHNYE9p5M4M9wzYgpWisyWS/Ly0mqp9l6LenU4hbgyUEVYjBH7EW5UAZtBBzwdNnBmIDpT4I0QAfMaJN6ZaLXJZqXy5mMASfnD47cehIccOOuhnC5l7zPCYMxpzbcxKDVGGVFhpYXiK8K0ukEqoFYZ8IpUo6wAtKaAYiC6z2wFYkv7Shv5uDS3wYhBxFGh3IfVMD5L75tzt+GLgiBWS4Sej3UHyutW5RkulhvA1Cbzb2gxFmZLWjOhVTWv3nQsKjQda19yLFmlfhkkRi96z0bLvHG9T5KQwfvplV7QF+lEuFUvejXTaBgdga3PCKi2/agVZ9NAM=;fHOSugV4x9S5rKZzB0YUwA=="
 ---

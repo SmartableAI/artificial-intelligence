@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/home/education/news/iit-jodhpur-receives-
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/amp_articleshow/78457955.cms"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Vicor: Powering Nvidia's New A100 Tensor Core GPU"
-    excerpt: "Vicor Power is benefiting from a number of positive catalysts - from vehicle electrification to greater adoption of a 48V power distribution standard in data centers."
-    publishedDateTime: 2020-09-29T10:17:00Z
-    webUrl: "https://seekingalpha.com/article/4376768-vicor-powering-nvidias-new-a100-tensor-core-gpu"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 39
-    images:
-      - url: "https://static.seekingalpha.com/uploads/2020/9/26/173432-16011296460717528.png"
-        width: 640
-        height: 286
-        isCached: true
   - title: "IIT Jodhpur Receives First 'NVIDIA DGX A100' AI Supercomputers In India"
     excerpt: "NVIDIA DGX A100 features the world’s most advanced accelerator, the NVIDIA A100 Tensor Core GPU, enabling enterprises to consolidate training, inference, and analytics into a unified, easy-to-deploy AI infrastructure that includes direct access to NVIDIA ..."
     publishedDateTime: 2020-10-01T11:57:00Z

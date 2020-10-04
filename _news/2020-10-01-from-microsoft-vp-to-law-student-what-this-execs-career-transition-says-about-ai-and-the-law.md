@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2020/microsoft-vp-law-student-execs-career-
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-vp-law-student-execs-career-transition-says-ai-law/amp/"
 type: article
 quality: 92
-heat: 102
+heat: 122
 published: true
 
 provider:
@@ -31,6 +31,34 @@ images:
     isCached: true
 
 related:
+  - title: "Intelemark's New Microsoft Azure Cloud-Based AI Proprietary Software Fuels International Expansion"
+    excerpt: "Intelemark, a national leader in the lead generation/appointment setting industry for more than 20 years, is pleased to announce the successful implementation of our third generation cloud-based proprietary software."
+    publishedDateTime: 2020-09-30T13:00:00Z
+    webUrl: "https://www.finanzen.net/nachricht/aktien/intelemark-s-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion-9346878"
+    type: article
+    provider:
+      name: Finanzen
+      domain: finanzen.net
+    quality: 55
+    images:
+      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Microsoft Obtains Exclusive License for GPT-3 AI Model"
+    excerpt: "Microsoft announced an agreement with OpenAI to license OpenAI's GPT-3 deep-learning model for natural-language processing (NLP). Although Microsoft's announcement says it has \"exclusively\" licensed the model,"
+    publishedDateTime: 2020-09-29T14:33:00Z
+    webUrl: "https://www.infoq.com/news/2020/09/microsoft-license-gpt-3/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 54
+    images:
+      - url: "https://res.infoq.com/news/2020/09/microsoft-license-gpt-3/en/headerimage/microsoft-license-gpt-3_header-1601145166901.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Andor Health Collaborates with Mentor to Deliver Next Generation, AI-Powered Virtual Experiences with Microsoft Technology"
     excerpt: "Andor Health and Mentor Worldwide LLC have formed a collaboration to provide the aesthetic physician community with the next-generation virtual health experiences to enhance the relationship between a surgeon and their patients."
     publishedDateTime: 2020-09-30T13:30:00Z

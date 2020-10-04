@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Chipsets Market Share – Industry Analysis, Size, Growth, Trends, Top Key Players and Regional Forecast 2020-2026"
-    excerpt: "Selbyville, Delaware, Global Artificial Intelligence (AI) Chipsets Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Artificial Intelligence (AI) Chipsets Market Report also covers top key players,"
-    publishedDateTime: 2020-09-29T09:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-industry-analysis-size-growth-trends-top-key-players-and-regional-forecast-2020-2026-2020-09-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI in Health Care: Leading through Change"
     excerpt: "Health care is evolving faster than we could have imagined. We are in the midst of a health care revolution, driven by artificial intelligence (AI). AI is creating a space for innovation and can enable physicians and nurses to work more efficiently and effectively in the face of unprecedented change."
     publishedDateTime: 2020-09-29T15:28:00Z

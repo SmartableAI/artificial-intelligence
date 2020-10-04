@@ -129,7 +129,7 @@ related:
   - title: "COVID-19 and Mining Social Media - Enabling Machine Learning Workloads with Big Data"
     excerpt: "In this article, author Adi Pollock discusses how to enable machine learning workloads with big data to query and analyze COVID-19 tweets to understand social sentiment towards COVID-19."
     publishedDateTime: 2020-10-02T15:51:00Z
-    webUrl: "https://www.infoq.com/articles/covid-social-media-machine-learning/?topicPageSponsorship=aa1a9092-c441-486c-8c69-4416fca4b422&itm_source=articles_about_architecture-design&itm_medium=link&itm_campaign=architecture-design"
+    webUrl: "https://www.infoq.com/articles/covid-social-media-machine-learning/?topicPageSponsorship=9ee9cabb-978d-4b65-9c62-dba6f9b389b3&itm_source=articles_about_architecture-design&itm_medium=link&itm_campaign=architecture-design"
     type: article
     provider:
       name: InfoQ
