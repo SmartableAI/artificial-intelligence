@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Arize AI Joins NVIDIA Inception Program"
-excerpt: "Arize AI, today announced it has joined the NVIDIA Inception program, which is designed to nurture startups revolutionizing industries"
-publishedDateTime: 2020-10-02T15:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/arize-ai-joins-nvidia-inception-program-301144741.html"
-webUrl: "https://www.prnewswire.com/news-releases/arize-ai-joins-nvidia-inception-program-301144741.html"
+title: "VMware Partnership, A Big Win For NVIDIA In AI Chip Market"
+excerpt: "This partnership is complete in line with NVIDIA’s recent efforts with AI, thus giving it a significant edge in the AI chip industry."
+publishedDateTime: 2020-10-02T00:00:00Z
+originalUrl: "https://analyticsindiamag.com/vmware-partnership-a-big-win-for-nvidia-in-ai-chip-market/"
+webUrl: "https://analyticsindiamag.com/vmware-partnership-a-big-win-for-nvidia-in-ai-chip-market/"
 type: article
-quality: 39
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Analytics India Magazine
+  domain: analyticsindiamag.com
 
 topics:
-  - Facebook AI
+  - AI Hardware
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1276605/Arize_AI_Logo.jpg?p=facebook"
-    width: 2696
-    height: 1414
+  - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/VMware-Partnership-A-Big-Win-For-NVIDIA-In-AI-Chips-Market.jpg"
+    width: 1389
+    height: 774
     isCached: true
 
 related:
@@ -101,19 +101,19 @@ related:
         width: 651
         height: 455
         isCached: true
-  - title: "VMware Partnership, A Big Win For NVIDIA In AI Chip Market"
-    excerpt: "This partnership is complete in line with NVIDIA’s recent efforts with AI, thus giving it a significant edge in the AI chip industry."
-    publishedDateTime: 2020-10-02T00:00:00Z
-    webUrl: "https://analyticsindiamag.com/vmware-partnership-a-big-win-for-nvidia-in-ai-chip-market/"
+  - title: "Arize AI Joins NVIDIA Inception Program"
+    excerpt: "Arize AI, today announced it has joined the NVIDIA Inception program, which is designed to nurture startups revolutionizing industries"
+    publishedDateTime: 2020-10-02T15:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/arize-ai-joins-nvidia-inception-program-301144741.html"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/VMware-Partnership-A-Big-Win-For-NVIDIA-In-AI-Chips-Market.jpg"
-        width: 1389
-        height: 774
+      - url: "https://mma.prnewswire.com/media/1276605/Arize_AI_Logo.jpg?p=facebook"
+        width: 2696
+        height: 1414
         isCached: true
   - title: "VMware, Nvidia forge partnership to make AI chips easier for business use"
     excerpt: "VMware Inc. (VMW) and Nvidia Corp. (NVDA) on Tuesday announced a partnership to make VMware's software for managing data centers work more smoothly with Nvidia's artificial intelligence chips ... there are a whole bunch of AI use-case scenarios,\" VMware ..."
@@ -125,6 +125,6 @@ related:
       domain: morningstar.com
     quality: 33
 
-secured: "nzPNZN0AGGVPLPaMCbaVuBiQ7T6juPXk4EHgDsKAzIiuFoS2DXl0O/oCWunauqHucODkeJOz+jhDB8Uytd8ktHlw2WDXPXeAGfS33cSB/X64ogTwk2Fe65CZefEIUacm/HDs0FpuGhEqHND1gGMWJrW9p4gDTeARaGWB/zo8SXwmn4V0D0hbzV0nFE6YrqBdAzlJLl/0cXbP19u29P+HNtZ6xMXHiLKVb2hB1SeVSjjRi/vWJNurykv9GFCtxfaLyjJ3Dq2UYFU2tgrGCW9m4hvQ+aaFQnsAPeBK2vGGDzc1Ipn4l/2j1bw+rUQGtqurVN4vmKa5E4+zX7M+rb3jnfUWUUj0AS8VSPewtCXBD5o=;3jExFRKI/StcVMHUNq8GTg=="
+secured: "lX1pZqfa3vmZ4JPM6BmA5tHcUnpHvVm9U36G16Rvc2X0/vUJab38O0YM25UZNz5CsEA3NmE9tPN8TxLdlo/kFFeDBo6N8qQxrlUVYyDWwnambDsf4oOV+cZ1V+mANQWyqTLA0Ir/r7HQqU4dNMDTH0M+alaUYb4opHLWnRhBNYKPkbFHuH+v33veMFG/EhElHRdVnz0oSzK5XVU0XlrA6oAd1u9Dud2/HH+DA5HV+VptTmLrPXei5a00Zyp5S8XmXwACxwX1AQdzGosCXOIO5hUbGPVLtCiuLTF15F/9juf1bcu1wKrgVlbb8lnOZQdueRjoT4KLVU4gX2NvvwBNrTjEx8QmWDDtO6d3tJ3m8ms=;y66yhfFvLGOhUuFOBe8o1g=="
 ---
 

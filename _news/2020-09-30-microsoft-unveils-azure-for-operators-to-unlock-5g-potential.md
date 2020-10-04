@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/mobile/5g/357287/microsoft-unveils-azure-f
 webUrl: "https://www.itpro.co.uk/mobile/5g/357287/microsoft-unveils-azure-for-operators-to-unlock-5g-potential"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Azure Solution Could Greatly Reduce 5G Roll-Out Costs"
-    excerpt: "Microsoft has revealed a new cloud solution, built on its Azure platform and meant to bolster 5G rollouts nationwide. That's according to recent reports"
-    publishedDateTime: 2020-09-29T21:51:00Z
-    webUrl: "https://www.androidheadlines.com/2020/09/microsoft-azure-5g-cloud-platform.html"
-    ampWebUrl: "https://www.androidheadlines.com/2020/09/microsoft-azure-5g-cloud-platform.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/09/microsoft-azure-5g-cloud-platform.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 74
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2020/09/Microsoft-Logo-DG-AH-2020.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Microsoft Translator now support Assamese language"
     excerpt: "The service is available on Microsoft Translator app, add-ins, Office 365, Bing Translator, and through the Azure Cognitive Services Translator API for businesses and developers. Users can translate Assamese text, supported by more than 70 languages ..."
     publishedDateTime: 2020-09-30T18:54:00Z

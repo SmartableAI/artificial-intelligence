@@ -2,35 +2,44 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-10-03-iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india.md",
-      "title": "IIT Jodhpur Receives NVIDIA DGX A100 AI System in India",
-      "excerpt": "Education News: DGX A100 -- the world's most advanced AI system -- will be accessible to all students at the campus and will facilitate advanced AI research and educa",
+      "path": "_news/2020-10-03-nvidias-gtc-event-will-shine-a-spotlight-on-200-ai-startups.md",
+      "title": "Nvidia’s GTC event will shine a spotlight on 200 AI startups",
+      "excerpt": "More than 200 new artificial intelligence startups will appear at Nvidia's GPU Technology Conference (GTC) in some form from Monday through Friday.",
       "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/articleshow/78457955.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/articleshow/78457955.cms",
+      "webUrl": "https://venturebeat.com/2020/10/03/nvidias-gtc-event-will-shine-a-spotlight-on-200-ai-startups/",
+      "originalUrl": "https://venturebeat.com/2020/10/03/nvidias-gtc-event-will-shine-a-spotlight-on-200-ai-startups/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 161,
       "tags": null,
       "images": [
         {
-          "url": "https://static.toiimg.com/photo/msid-78457905/78457905.jpg",
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/nvidia-Inception2.jpg?w=1200&#038;strip=all",
           "width": 1200,
-          "height": 900,
+          "height": 588,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/amp_articleshow/78457955.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/amp_articleshow/78457955.cms",
-      "publishedDateTime": "2020-10-02T22:10:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2020/10/03/nvidias-gtc-event-will-shine-a-spotlight-on-200-ai-startups/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/03/nvidias-gtc-event-will-shine-a-spotlight-on-200-ai-startups/amp/",
+      "publishedDateTime": "2020-10-03T09:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,7 +49,8 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -154,7 +164,7 @@
       "originalUrl": "https://www.nextplatform.com/2020/09/30/vmware-embraces-nvidia-gpus-to-drive-enterprise-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -323,6 +333,57 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-vmware-nvidia-partner-to-make-ai-chips-easier-for-businesses-to-use.md",
+      "title": "VMware, Nvidia partner to make AI chips easier for businesses to use",
+      "excerpt": "The Nvidia booth is shown at the E3 2017 Electronic Entertainment Expo in Los Angeles, California, U.S., June 13, 2017. REUTERS/ Mike Blake/File Photo",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/news/picture/vmware-nvidia-partner-to-make-ai-chips-e-idUSKBN26K249",
+      "originalUrl": "https://www.reuters.com/news/picture/vmware-nvidia-partner-to-make-ai-chips-e-idUSKBN26K249",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200929&t=2&i=1535352783&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG8S1DJ",
+          "width": 810,
+          "height": 539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-29T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1392,59 +1453,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-qualcomm-details-cloud-ai-100-chipset-announces-developer-kit.md",
-      "title": "Qualcomm details Cloud AI 100 chipset, announces developer kit",
-      "excerpt": "Qualcomm shared details about the Cloud AI 100 chipset it announced last year, along with the Cloud Edge AI Development Kit.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/16/qualcomm-details-cloud-ai-100-chipset-announces-developer-kit/",
-      "originalUrl": "https://venturebeat.com/2020/09/16/qualcomm-details-cloud-ai-100-chipset-announces-developer-kit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/ca4da21f-6d64-4878-8771-b3b8098ebd4e-e1600064374641.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/16/qualcomm-details-cloud-ai-100-chipset-announces-developer-kit/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/16/qualcomm-details-cloud-ai-100-chipset-announces-developer-kit/amp/",
-      "publishedDateTime": "2020-09-16T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Natural Language Processing",
-        "Google AI"
       ]
     }
   ],

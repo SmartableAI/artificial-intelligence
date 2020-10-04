@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "World-first testing system aims to end dangerous confusion around “self-driving” cars"
+    excerpt: "A new testing standard which ranks the assisted driving systems of new cars has been launched in an effort to reduce confusion around the current technology. A growing number of cars are being sold with systems - such as Tesla’s Autopilot and BMW’s Driving Assistant Professional - which claim to ease the strain on drivers by offering support to keep a car in its lane and maintain a safe distance to other vehicles even when moving through traffic jams."
+    publishedDateTime: 2020-10-01T06:32:00Z
+    webUrl: "https://www.sunderlandecho.com/lifestyle/cars/world-first-testing-system-aims-end-dangerous-confusion-around-self-driving-cars-2988937"
+    type: article
+    provider:
+      name: Sunderland Echo
+      domain: sunderlandecho.com
+    quality: 32
+    images:
+      - url: "https://www.sunderlandecho.com/images-i.jpimedia.uk/imagefetch/https://jpgreatcontent.co.uk/wp-content/uploads/2020/09/Audi-Q8_CCRs_straight-lane.jpg"
+        width: 1620
+        height: 1080
+        isCached: true
   - title: "The self-driving cars of the future aren’t inclusive. They’re trying to change that."
     excerpt: "By combining artificial intelligence with research that looks into the way people interact with machines and computers, researchers at Northeastern and the University of Maine want to help make self-driving cars even smarter and accessible for people who are visually impaired or blind."
     publishedDateTime: 2020-09-30T22:02:00Z

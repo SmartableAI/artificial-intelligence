@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-09-21-aws-vs-azure-vs-google-cloud-which-certification-is-best-for-professionals.md",
-      "title": "AWS vs Azure vs Google Cloud – Which certification is best for professionals??",
-      "excerpt": "In this post, we will pit AWS vs Azure vs Google Cloud, to explore which platform makes the most sense for professionals to learn depending on your skills, goals, and experience. A cloud platform is a collection of services,",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/aws-vs-azure-vs-google-cloud-1159412/",
-      "originalUrl": "https://www.androidauthority.com/aws-vs-azure-vs-google-cloud-1159412/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/03/Man-Laptop-Network-Server-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/aws-vs-azure-vs-google-cloud-1159412/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/aws-vs-azure-vs-google-cloud-1159412/amp/",
-      "publishedDateTime": "2020-09-20T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-19-how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed.md",
       "title": "How do we know AI is ready to be in the wild? Maybe a critic is needed",
       "excerpt": "Can the paradigm of adversarial AI make algorithms safer to send out into the world? Mischief can happen when AI is let loose in the world, just like any technology. The examples of AI gone wrong are numerous,",
@@ -1428,6 +1376,58 @@
       "topics": [
         "AWS AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-08-how-to-separate-the-wheat-from-the-chaff-in-a-sea-of-ventures-with-ai-use-cases.md",
+      "title": "How To Separate The Wheat From The Chaff In A Sea Of Ventures With AI Use Cases",
+      "excerpt": "Two criteria separate the leaders from the pack of AI ventures. What are they? And what are some of the most promising AI ventures at the moment?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/hannahmayer/2020/09/08/how-to-separate-the-wheat-from-the-chaff-in-a-sea-of-ventures-with-ai-use-cases/",
+      "originalUrl": "https://www.forbes.com/sites/hannahmayer/2020/09/08/how-to-separate-the-wheat-from-the-chaff-in-a-sea-of-ventures-with-ai-use-cases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f573662b42731bf605ee3e0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6144%26cropY1%3D455%26cropY2%3D3911",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/hannahmayer/2020/09/08/how-to-separate-the-wheat-from-the-chaff-in-a-sea-of-ventures-with-ai-use-cases/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hannahmayer/2020/09/08/how-to-separate-the-wheat-from-the-chaff-in-a-sea-of-ventures-with-ai-use-cases/amp/",
+      "publishedDateTime": "2020-09-08T01:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI in Autos"
       ]
     }
   ],

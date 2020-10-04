@@ -45,22 +45,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Detroit City Council votes to extend facial recognition contract, despite controversy"
-    excerpt: "Detroit first introduced facial recognition software in 2017. Critics say the software disproportionately misidentifies people of color."
-    publishedDateTime: 2020-09-29T21:25:00Z
-    webUrl: "https://www.freep.com/story/news/local/michigan/detroit/2020/09/29/facial-recognition-software-contract-extended/3578348001/"
-    ampWebUrl: "https://amp.freep.com/amp/3578348001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3578348001"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 52
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/08/07/PDTF/463c003b-4e3d-4aee-9c51-420a797749ea-school_security__080719_10.JPG?auto=webp&crop=3599,2025,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Facial recognition contract extension reopens rifts among Detroit police commissioners"
     excerpt: "Facial recognition technology, a contentious topic in Detroit that has drawn national headlines, continues to garner attention and spark debate. The Detroit City Council Tuesday voted 6-3 to extend a $220,000 contract with law enforcement technology ..."
     publishedDateTime: 2020-09-30T21:38:00Z
@@ -77,6 +61,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Detroit City Council Passes Facial Recognition Contract For DPD"
+    excerpt: "A controversial topic was put before the Detroit City Council Tuesday. Members voted on a facial recognition contract that opponents call “flawed technology.” CW50’s Cryss Walker tells us what decision was made."
+    publishedDateTime: 2020-09-30T03:24:00Z
+    webUrl: "https://detroit.cbslocal.com/2020/09/29/detroit-city-council-passes-facial-recognition-contract-for-dpd/"
+    ampWebUrl: "https://detroit.cbslocal.com/2020/09/29/detroit-city-council-passes-facial-recognition-contract-for-dpd/amp/"
+    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2020/09/29/detroit-city-council-passes-facial-recognition-contract-for-dpd/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 39
   - title: "Detroit Approves Police Use of Facial Recognition Software"
     excerpt: "The City Council approved a nearly $200,000 facial recognition contract that will run through September 2022 but many see the tech as racist, discriminating for the sake of efficiency and they question its accuracy."
     publishedDateTime: 2020-10-01T19:44:00Z
