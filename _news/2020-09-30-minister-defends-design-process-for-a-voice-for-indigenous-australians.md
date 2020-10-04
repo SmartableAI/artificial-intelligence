@@ -24,9 +24,9 @@ related:
   - title: "Five Australian universities launch project to improve voice assistants for kids"
     excerpt: "A joint project between five Australian universities, called AusKidTalk, has been launched to improve the performance of voice recognition systems when being used by children. The universities involved in AusKidTalk are University of New South Wales,"
     publishedDateTime: 2020-10-02T04:33:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/five-australian-universities-launch-project-to-improve-voice-assistants-for-kids/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/five-australian-universities-launch-project-to-improve-voice-assistants-for-kids/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/five-australian-universities-launch-project-to-improve-voice-assistants-for-kids/"
+    webUrl: "https://www.zdnet.com/article/five-australian-universities-launch-project-to-improve-voice-assistants-for-kids/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/five-australian-universities-launch-project-to-improve-voice-assistants-for-kids/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/five-australian-universities-launch-project-to-improve-voice-assistants-for-kids/"
     type: article
     provider:
       name: ZDNet

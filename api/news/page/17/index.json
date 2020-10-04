@@ -2,6 +2,57 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-09-18-quantum-and-classical-computers-handle-time-differently-what-does-that-mean-for-ai.md",
+      "title": "Quantum and classical computers handle time differently. What does that mean for AI?",
+      "excerpt": "As humans, we take time for granted. We’re born into an innate understanding of the passage of events because it’s essential to our survival. But AI suffers from no such congenital condition. Robots do not understand the concept of time.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/17/quantum-and-classical-computers-handle-time-differently-what-does-that-mean-for-ai/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/17/quantum-and-classical-computers-handle-time-differently-what-does-that-mean-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/06/quantum_vs-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/17/quantum-and-classical-computers-handle-time-differently-what-does-that-mean-for-ai/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/17/quantum-and-classical-computers-handle-time-differently-what-does-that-mean-for-ai/amp/",
+      "publishedDateTime": "2020-09-17T12:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-small-companies-face-up-to-big-financial-hurdles-in-the-covid-era.md",
       "title": "Small companies face up to big financial hurdles in the COVID era",
       "excerpt": "Two business operators in Northeast Ohio are part of this New York Times article about small companies — especially music clubs, gyms, restaurants, bars and others that were forced to close by the coronavirus pandemic — trying to figure out how to pay off debts they've accumulated during the pandemic.",
@@ -1125,57 +1176,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-ubers-self-driving-car-safety-driver-charged-in-fatal-2018-crash.md",
-      "title": "Uber's self-driving car 'safety driver' charged in fatal 2018 crash",
-      "excerpt": "The driver who was behind the wheel of the autonomous vehicle is arraigned on one count of negligent homicide.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/ubers-self-driving-car-safety-driver-charged-in-fatal-2018-crash/",
-      "originalUrl": "https://www.cnet.com/news/ubers-self-driving-car-safety-driver-charged-in-fatal-2018-crash/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 234,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/4RWp-CT8SdPs7I1-asH1y47N9IY=/1200x630/2018/12/19/ff7286c9-b975-4789-97fb-fd86b387cee6/aaa4508-pit.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ubers-self-driving-car-safety-driver-charged-in-fatal-2018-crash/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ubers-self-driving-car-safety-driver-charged-in-fatal-2018-crash/",
-      "publishedDateTime": "2020-09-16T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

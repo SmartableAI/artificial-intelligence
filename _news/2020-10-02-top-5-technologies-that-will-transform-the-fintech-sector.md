@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Giant Tech Firms Could Pose Dangers To Financial System, Warns House Fintech Task Force Chair"
-    excerpt: "Without mentioning Apple, Google and the like by name, House Fintech Task Force Chair Stephen Lynch warned today giant tech firms could pose dangers to the financial system. “I see too-big-to-fail fintechs in the future in a big,"
-    publishedDateTime: 2020-09-29T20:02:00Z
-    webUrl: "https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/"
-    ampWebUrl: "https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 78
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f737b36e2e867ffa50a6877%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D257%26cropY2%3D3071"
-        width: 1199
-        height: 675
-        isCached: true
   - title: "How to perfect your fintech story and close your next funding round"
     excerpt: "The one thing I always do when I start working with a fintech startup is ask them what they are doing differently or better than their competitors."
     publishedDateTime: 2020-10-02T09:22:00Z
@@ -91,22 +75,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "S.Korean FinTech Kakao Pay Preps For IPO"
-    excerpt: "Kakao Pay is set to be the first South Korean FinTech working with mobile payments to undertake an IPO. The company is likely to be valued at $8.5 billion."
-    publishedDateTime: 2020-10-01T03:18:00Z
-    webUrl: "https://www.pymnts.com/news/ipo/2020/south-korean-fintech-kakao-pay-preps-ipo/"
-    ampWebUrl: "https://www.pymnts.com/news/ipo/2020/south-korean-fintech-kakao-pay-preps-ipo/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2020/south-korean-fintech-kakao-pay-preps-ipo/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/09/IPO-2-457x297.jpg"
-        width: 457
-        height: 297
-        isCached: true
   - title: "3 Fintech Opportunities For Entrepreneurs Beyond 2020"
     excerpt: "The financial service sector has not been an exception. Banks have closed, at least temporarily, and many other services that users have come to rely on have had hiccups or slowdowns of varying degrees."
     publishedDateTime: 2020-09-30T12:15:00Z
@@ -121,31 +89,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Onfido teams up with FinTech Oval Money to boost digital customer verification"
-    excerpt: "Onfido announced a new partnership with FinTech Oval Money in a bid to accelerate and enhance the latter's digital customer verification and registration process."
-    publishedDateTime: 2020-09-30T10:20:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/onfido-teams-up-with-fintech-oval-money-to-boost-digital-customer-verification/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 20
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2020/07/Onfido-logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Juniper Research: Future Digital Award Winners Announced for Fintech & Payments 2020"
-    excerpt: "It is with great pleasure that Juniper Research announces the 2020 winners of the Future Digital Awards for Fintech & Payments. This category recognises the most"
-    publishedDateTime: 2020-10-01T06:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/10/b17730213/juniper-research-future-digital-award-winners-announced-for-fintech-payments-2020"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17730213"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17730213"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
   - title: "How Fintech Companies Are Dealing with New Data Security Challenges"
     excerpt: "Cybercrime is more sophisticated than ever and a new attack occurs every 39 seconds - unfortunately, fintech companies are some of hackers’ favorite targets. This shouldn’t come as a surprise - people are relying on digital money management more,"
     publishedDateTime: 2020-09-30T16:44:00Z

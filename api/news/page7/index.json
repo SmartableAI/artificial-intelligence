@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-09-28-neural-network-trained-to-control-anesthetic-doses-keep-patients-under-during-surgery.md",
+      "title": "Neural network trained to control anesthetic doses, keep patients under during surgery",
+      "excerpt": "Academics from the Massachusetts Institute of Technology (MIT) and Massachusetts General Hospital have demonstrated how neural networks can be trained to administer anesthetic during surgery. Over the past decade,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/neural-network-trained-to-control-anaesthetic-doses-keep-patients-under-during-surgery/",
+      "originalUrl": "https://www.zdnet.com/article/neural-network-trained-to-control-anaesthetic-doses-keep-patients-under-during-surgery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/08/26/819edb0f-11d4-4321-8447-982555f1c2db/thumbnail/1200x675/069dd34a53a6dec72536b86bb559cefe/20200826-daphne-karen-neural.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/neural-network-trained-to-control-anaesthetic-doses-keep-patients-under-during-surgery/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/neural-network-trained-to-control-anaesthetic-doses-keep-patients-under-during-surgery/",
+      "publishedDateTime": "2020-09-28T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-28-bear-robotics-and-softbank-robotics-group-announce-new-food-service-robot.md",
       "title": "Bear Robotics and SoftBank Robotics Group Announce New Food Service Robot",
       "excerpt": "Bear Robotics, a robotics and artificial intelligence company, and SoftBank Robotics Group, a leading robotics manufacturer and solutions provider, have collaborated to bring a new robot named Servi to the food service and hospitality field.",
@@ -1087,56 +1138,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-three-coming-shifts-in-ai.md",
-      "title": "Three Coming Shifts In AI",
-      "excerpt": "Beyond the announcements and the hype, is AI really evolving? In this article, I’d like to focus not on far-off, vague hopes and wishes about AI, but instead on a few concrete developments that lie in the not-so-distant future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/amirhusain/2020/09/25/three-coming-shifts-in-ai/",
-      "originalUrl": "https://www.forbes.com/sites/amirhusain/2020/09/25/three-coming-shifts-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6e0dde8f8678b1a065cccb%2F0x0.jpg%3FcropX1%3D639%26cropX2%3D1859%26cropY1%3D1084%26cropY2%3D1771",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/amirhusain/2020/09/25/three-coming-shifts-in-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amirhusain/2020/09/25/three-coming-shifts-in-ai/amp/",
-      "publishedDateTime": "2020-09-25T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

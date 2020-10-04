@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/mobile/5g/357287/microsoft-unveils-azure-f
 webUrl: "https://www.itpro.co.uk/mobile/5g/357287/microsoft-unveils-azure-for-operators-to-unlock-5g-potential"
 type: article
 quality: 84
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       - url: "https://menafn.com/updates/pr/2020-09/30/I_9ee6f788-9image_story.jpg"
         width: 400
         height: 300
-        isCached: true
-  - title: "Scality Announces 1 Terabit Per Second Performance for Scale-Out File System in Microsoft Azure Public Cloud"
-    excerpt: "Scality, a leader in software solutions for distributed file and object storage, today announced the technical preview"
-    publishedDateTime: 2020-09-29T20:10:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/scality-announces-1-terabit-per-second-performance-for-scale-out-file-system-in-microsoft-azure-public-cloud/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 35
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/Advantage-System-2-405x228.jpeg"
-        width: 405
-        height: 228
         isCached: true
 
 secured: "c32jX2aI1d+acmrBsBW1JEJbUKexKGKXKrZ0DiiT3b2lbTO/s0qO5hcYlYpO6YTs0ilSTUfHOlZQ0GfHaIYCq5w6eP+LfkzMm7ZveFsR97RvJCiorqrU9qljFOYnQMDP9u03NS8lKQHoA+G2+mGcluxXOwx8DdRKtLT5BFpdS06yARg7rucNfT1hRGUNx0UofY/V3+IkXp9qFdavXoQjW0tUrXLwDXXOedUhhCUDe+zMzXjv4b6HKg1yHB57gqKSf0MZZuZ6D/sFc0IhVn+zFZ159B0wZ4l2885+EzAAx8rCF15nzALHjbh42NYUDTKXHOjENNT8SZNuJvHKF1wYQJCTCiLmFxIdnmo6XiPTnAFuesZqmXEQwHWJqCTA+XPTjErEjITUhWP/3vgLybPCWc4cMXwPpfwfUxUH9vhMLED/INCJmPSIS4ohdSJa2pP5W1FsJ0oC5e9nNL7iXc0wvcE6j93V1XS9JG9ASTHNE8qrv8XqDBtYTcs4tYUzG3gasRulqBBzjwoh+e990e56fQ==;FZdSq4hQg81mHBiu86yoJA=="

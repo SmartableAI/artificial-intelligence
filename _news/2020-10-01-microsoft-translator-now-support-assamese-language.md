@@ -87,20 +87,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Scality Announces 1 Terabit Per Second Performance for Scale-Out File System in Microsoft Azure Public Cloud"
-    excerpt: "Scality, a leader in software solutions for distributed file and object storage, today announced the technical preview"
-    publishedDateTime: 2020-09-29T20:10:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/scality-announces-1-terabit-per-second-performance-for-scale-out-file-system-in-microsoft-azure-public-cloud/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 35
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/Advantage-System-2-405x228.jpeg"
-        width: 405
-        height: 228
-        isCached: true
 
 secured: "L4kGg17Lcm0S/WF3bZrKUj1LkUloNAb5EMMFtxqVcWjT/BolbeELY6QfPmD3FmvTxIv5owqT5avDAc7X1VOdBgxN98dzYMfrfN614X9VuN/++ip+i8SCPwDyGI823YMFvxKO9HxLXX6dDm+dAGDKce5PrDMMQWM5XzIh5jjzHzeflUiLRBogO+Q8HvXB6UQNwtdaLRLd60GpWYnMYl+pbWDVsIyMtxpy/SX7NqO0rihFWjOSGQjZalyUT9VqrcV1o0+yZLzGYZj1A91uev5/+vH8lFsiip2tPUnDGVBSRAaWlS/zVw0fLqC/SMWDtmZ/TQNrA1vSpDI7YG4hs8TKq1duJXJe9OKol4h9huaxHDM=;qFJcU3oXB5Z7Qgii+Xyt6w=="
 ---

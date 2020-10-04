@@ -71,20 +71,6 @@ related:
         width: 770
         height: 578
         isCached: true
-  - title: "Amazon Reveals New Palm Recognition Tech for Stores"
-    excerpt: "It’s a strange question born out of an even stranger premise from the e-tailer, which hopes to seed its new palm recognition technology at physical retail stores. On Tuesday, Amazon unveiled Amazon One,"
-    publishedDateTime: 2020-09-29T21:03:00Z
-    webUrl: "https://wwd.com/business-news/technology/amazon-one-palm-recognition-retail-stores-1234612528/"
-    type: article
-    provider:
-      name: Women's Wear Daily
-      domain: wwd.com
-    quality: 24
-    images:
-      - url: "https://pmcwwd.files.wordpress.com/2020/09/dior-extintion-rebellion-sf.jpg?w=394&h=263&crop=1"
-        width: 394
-        height: 263
-        isCached: true
 
 secured: "dHUCEfJFwu4NP4E/C22ZBajFLeKbTKBUJiYMbllTl9QExWvhPK5h54I9IHHmyA5G/PjO8CA3FMXxa1gV1U/vA1GvZ1TqpBMEVqDG22PXpstkMlZb05OgyvH342t/xvDD42/Folk8+6Bc78oBZ6rz3hPpNlV0ztJPcNMm59omRQXQnhmLfyyR+vd6jPOJWiSk5Wz3j4ZiKoN0t5hJZP81RAYP8rFD2SBRODZaC1pZHBsFKaFCj7vEAwBu6FcudZGvpOYvq65a/JJWQWD1Ojdp3PST5EYY0n38+aXS+IjqLRk01Yy7CBN34VC6Tx353tIcBVFy/aPzZFpaXd0Z6yMBnhTK0NPWHYSl8U5vXMVoyAk=;iMy9KUhkYiB/QbvNBWtM/g=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://www.wired.com/story/top-ai-researchers-financial-backing-big-te
 ampWebUrl: "https://www.wired.com/story/top-ai-researchers-financial-backing-big-tech/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/top-ai-researchers-financial-backing-big-tech/amp"
 type: article
-quality: 87
-heat: 97
+quality: 91
+heat: 101
 published: true
 
 provider:
@@ -22,6 +22,8 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
+  - AI Ethics
 
 images:
   - url: "https://media.wired.com/photos/5f73d8fe8f19c83a58c68524/master/pass/Big-Tech-Influence.jpg"
@@ -47,6 +49,6 @@ related:
         height: 450
         isCached: true
 
-secured: "dABDVAYtxQvI8E+irN7eNbrUbvfwvsAdEv2RFWAZftBoiT+q1E6fO0D+c5qVKCoAau5wxHsBJ8fQp7fuqEMu3uC1ILbYMFgr0JvydIsejQC6t38GZ138Yy3SZC/9SN+UcpO7fIyZntzY30DOatyn253UXezqXBgn+7JVruLcNc7y4ri0fEziKxJKA6yb1PEQjax1iJ/d+PdCI3cUNx2D1u676WGR0NiOjkALCobIzk0j/jKUyeD0WDO+y6y2+eG0fPy+X8Cv7lxSarI+za6cb+l+bOfKMx0/RZhgSyL+r1NhCur/kudPxZFN1aC9zEwtiSazlpL5ZSju1xwWQisU/fScJ1EXLpPa9hJrRY/mFWA=;0HW8Ew5h4PVPh4PABFjdTw=="
+secured: "iZXlSCacsRzpJQR+5twa0HgXPP4zL0GFU9uK0AQ7PQKMfefzamclCoYU2f7uvw9Vd+cRR35k9MoXjkfw1KfqOnSLj4klesEvYpa7ZDWck0lC4fS1pz6EWl5i95k0W0tJmp8U7cipaAbUGhmarHQURfQTaEIgxbjgM9KwtSgkdqatV3FXysDSAuBifEvqIKfmBtkD/AWsLNxsELiDuZMHKjAmdiDDG/Lg6gx5FACCckapkpjgMb7P/3bds2svqeqN+VJdh+mRff+wT9fnUHCU+qdxyPlZp77y5V6WnhWXY+HcAEc/tOoeqQP4oQrNMVSfRZISSNy4r+w2wHBz2S6TXTNiAG2kGIRYk2z14fM4dHZql/Kqc4nIqAVt6rNHM/HdxhcEWtGJvCSx0BWsDOOoxFAMSWM7Pw97n/q0oBst2Qi4eewhHS4jcpHX7Uhwub8nfpV2xpNI7gEP2CnGGFHYbbJk7ev2FG3HR13+HZH2aYfLfTDuvLLjltSuYYtpM69QHm9m3bKcMN+RCcd8Rrb9Zg==;SHWu8Q2GdWt40KO6puS4fA=="
 ---
 

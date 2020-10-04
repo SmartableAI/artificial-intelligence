@@ -38,7 +38,7 @@ related:
     provider:
       name: Wired
       domain: wired.com
-    quality: 87
+    quality: 91
     images:
       - url: "https://media.wired.com/photos/5f73d8fe8f19c83a58c68524/master/pass/Big-Tech-Influence.jpg"
         width: 2400

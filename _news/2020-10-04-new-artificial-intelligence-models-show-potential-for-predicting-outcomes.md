@@ -8,7 +8,7 @@ webUrl: "https://medicalxpress.com/news/2020-10-artificial-intelligence-potentia
 ampWebUrl: "https://medicalxpress.com/news/2020-10-artificial-intelligence-potential-outcomes.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-artificial-intelligence-potential-outcomes.amp"
 type: article
-quality: 56
+quality: 58
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/3-newartificia.jpg"
@@ -55,6 +56,6 @@ related:
         height: 756
         isCached: true
 
-secured: "hMVgVbgXkdJke25ZCsmKo5KMg+0kU3nQs0lltUaFCdnP9Pn5XjSpGwtalu0ziGhZQJ1I/5uA1wUIWmHVmvHFRjX2VWLSAJQVFl6Gf9ntBgMjeisasvQMyowoEPAbNmL8zWQdpI6teNvAm72FMLu/1ha3xtXV89qt0HzQcsU3E/kXVgtMI5LtrFVnq0v4yPcWH2pXYaGlCHsI5N/q6ZMaX9A6g6tLw0xPGQ5qrQ/NIGzFUegOMuYknNT4D6xdtWRbragQOftRgmeFYBei6hyG5KZ33rwakN32L4ByNWwiHL3sOCW1MjvzdPxcm/AIklQSUzyyj71RxDEBtFK/F3IL3rvrS+hIqag9Qk6yI1un3iw=;QAlgcf3CdtUQ5Ic334VxZQ=="
+secured: "LSZJT7fbIq6cXRpQW8Eew6zSTXbVBWEDcm+MJgaXI88TtjocfeSSy935UF2mRWX1mwrVzQPmUY/WvLuNIvnl56kOApvXZaCF8FA5ds7wzJT3V8WLgLQFpJJ0vUXVBSyg+ldzmOSABLzw1dtdpog0hi7qLZoBKFWeyV6hYWwXTaZw3h7Lpdgk/4shRUZeRYIORla62suklW6AJs7biYSiBF1drcx4BxECwAJKG1Dl9rBEDoDGEvgmLqd4O85D5UKI4J5raV+/9Hg1RL709tCmGwoEbIisBLjzphNerTHYVNLuo6vkXGmNjRHE/eOQ2EQx/UNysDNtHZMXA9B1ROsrw7sO9bGDcBfn/ExDJtPIbDrz7PRrrB9KY83nSTsF19OWQ/RCjnF2sfKHiHowCp3G70UAHtJCtm0Bxi+7H5uyYSpSXJ+I0PMa7C2xgMvT9eLYUKKwVpeIpnw82mNy6k+uidtqEj6WesBwNCpmQSbTSnx06hPhYOGv+RwyBBhV1YLK9ohkfkVAbwVt5CqFm19XHw==;Bat/ol5r1ydS2/w3mcij/w=="
 ---
 

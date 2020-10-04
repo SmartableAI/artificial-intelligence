@@ -1,30 +1,23 @@
 ---
 category: news
 title: "7 Artificial Intelligence Stocks to Buy for October"
-excerpt: "Here are the companies that are using machines to help us, from inventory management to finding that special someone."
-publishedDateTime: 2020-10-02T16:58:00Z
-originalUrl: "https://investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/"
-webUrl: "https://investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/"
-ampWebUrl: "https://investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/amp/"
-cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/amp/"
+excerpt: "But if there is one on Wall Street, it’s the rise of artificial intelligence stocks. Yes, there is the profitability angle from machine learning and other relevant technology facilitates. But this crisis has been a crash course in the sector’s viability."
+publishedDateTime: 2020-10-02T13:58:00Z
+originalUrl: "https://www.nasdaq.com/articles/7-artificial-intelligence-stocks-to-buy-for-october-2020-10-02"
+webUrl: "https://www.nasdaq.com/articles/7-artificial-intelligence-stocks-to-buy-for-october-2020-10-02"
+ampWebUrl: "https://www.nasdaq.com/articles/7-artificial-intelligence-stocks-to-buy-for-october-2020-10-02?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-artificial-intelligence-stocks-to-buy-for-october-2020-10-02?amp"
 type: article
-quality: 59
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: InvestorPlace
-  domain: investorplace.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - IBM AI
   - AI
-
-images:
-  - url: "https://investorplace.com/wp-content/uploads/2019/07/ai1600b.jpg"
-    width: 1600
-    height: 900
-    isCached: true
 
 related:
   - title: "Join AWS and NVIDIA at GTC, October 5–9"
@@ -41,7 +34,23 @@ related:
         width: 1260
         height: 630
         isCached: true
+  - title: "Nvidia’s GTC event will shine a spotlight on 200 AI startups"
+    excerpt: "More than 200 new artificial intelligence startups will appear at Nvidia's GPU Technology Conference (GTC) in some form from Monday through Friday."
+    publishedDateTime: 2020-10-03T16:45:00Z
+    webUrl: "https://venturebeat.com/2020/10/03/nvidias-gtc-event-will-shine-a-spotlight-on-200-ai-startups/"
+    ampWebUrl: "https://venturebeat.com/2020/10/03/nvidias-gtc-event-will-shine-a-spotlight-on-200-ai-startups/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/03/nvidias-gtc-event-will-shine-a-spotlight-on-200-ai-startups/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/10/nvidia-Inception2.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 588
+        isCached: true
 
-secured: "58z1L21ikbP0ZNaalAQgqHFrv7duNAOBwuoE5k5jmFjXNw2PV976VVhPya5b3GLj8ldFtQIFSSOHu/UtrvibMEhMZR8x/zK97CwZI/izb5UjRUBEadkccDN8yVN2c23hg9DDTJfvdfAQ+Efz/wXJCPMxsK9TBRq+G5JR37sZVE90qddYpWtiME7vB5f/CdIvPlSLFF6/+N4lvLTUbyS9HIWknyALECQ7GeR9pnB1IY2Tq/PD/Ad8hEnNQR5ZcmSAfxuikUgcPKkzNkjZtU+AffoEBPQAsdda68pEIveBv6X/SBDyqbj8blXkySZ+t9nm7PswNtaO+C3bnaeUyh4Zw60OxTBIdDXeYQQvcqRVqdI=;fklrwjsjf+JQj6RBAFRS2w=="
+secured: "W8+KudiXPxhjdiFhBm8cTRwXeQJakKyDK3I5ifQPmWkPJj7tGt/5eguRg1YvMjxv0hfkvQcUPAQKk75oMDUZB7PNv7s4YD+B/+xab8bbtYQjzk4T1UXhn+0f8AA94/CfIuVOU+rq7DewPz/CfxZlaqbeKSsnGg43MZjWxBlEUxE71srF6hHb9zDokS+NVBzIxVwE8mfn2Q/u3aykzW6mFOyo4PXUt50FsHZyb8VOT3ZreA4t//nMbwCHcKQLCH7JvMVJmDbZODBvFcvM0uyJw/dlEBf7carcQgCJfzExohujxR6peEQXfxrwNGG9Uh7xwnd71qkTQdIlcvBrOaaASTOjeSkkOadsuVcyenWsZ8M=;IeI+ZSQ+c+L0dezQkOORDA=="
 ---
 

@@ -2,6 +2,56 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-09-22-this-is-an-ai-whats-your-emergency.md",
+      "title": "This is an AI, what's your emergency?",
+      "excerpt": "Complex emergencies are getting far too complex for human dispatchers to coordinate, so AI/ML is the new norm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/this-is-an-ai-whats-your-emergency/",
+      "originalUrl": "https://www.zdnet.com/article/this-is-an-ai-whats-your-emergency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/09/20/19687817-bd0c-4d01-9a10-1e9f74f0621e/emergency-response.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-is-an-ai-whats-your-emergency/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-is-an-ai-whats-your-emergency/",
+      "publishedDateTime": "2020-09-22T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-ai-as-service-projected-to-witness-vigorous-expansion-by-2020-2025.md",
       "title": "AI as Service Projected to Witness Vigorous Expansion by 2020-2025",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Sep 22, 2020 (PRNews Times via COMTEX) -- The GlobalAI as Service Market will be analyzed on the basis of key market vendors, their product benchmarking, SWOT analysis, and ...",
@@ -1083,56 +1133,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-ais-helping-students-improve-their-scores-in-less-than-24-hours.md",
-      "title": "AI’s Helping Students Improve Their Scores In Less Than 24 Hours",
-      "excerpt": "AI-enabled online learning platforms are increasingly popular around the world for parents who want their children to gain an edge on standardized tests or attaining mastery of a particular subject matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/junwu1/2020/09/21/ais-helping-students-improve-their-scores-in-less-than-24-hours/",
-      "originalUrl": "https://www.forbes.com/sites/junwu1/2020/09/21/ais-helping-students-improve-their-scores-in-less-than-24-hours/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6893aca40707b669a5b764%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/junwu1/2020/09/21/ais-helping-students-improve-their-scores-in-less-than-24-hours/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/09/21/ais-helping-students-improve-their-scores-in-less-than-24-hours/amp/",
-      "publishedDateTime": "2020-09-21T04:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

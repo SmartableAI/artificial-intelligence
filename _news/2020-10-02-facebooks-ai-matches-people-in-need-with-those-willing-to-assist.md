@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/02/facebooks-ai-matches-people-in-ne
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/02/facebooks-ai-matches-people-in-need-with-those-willing-to-assist/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2020/09/aim_zuck-compressed.jpg"
         width: 800
         height: 533
-        isCached: true
-  - title: "Indian fact checking site NewsMobile with US varsity startup FakeNetAI Win IFCN-Facebook Global Innovation Challenge"
-    excerpt: "In today technology news, we covered about the Indian fact checking site NewsMobile with US varsity startup FakeNetAI Win IFCN-Facebook Global Innovation Challenge"
-    publishedDateTime: 2020-09-29T20:54:00Z
-    webUrl: "https://www.compsmag.com/news/technology/indian-fact-checking-site-newsmobile-with-us-varsity-startup-fakenetai-win-ifcn-facebook-global-innovation-challenge/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/indian-fact-checking-site-newsmobile-with-us-varsity-startup-fakenetai-win-ifcn-facebook-global-innovation-challenge/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/indian-fact-checking-site-newsmobile-with-us-varsity-startup-fakenetai-win-ifcn-facebook-global-innovation-challenge/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 36
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/09/Indian-fact-checking-site-NewsMobile-with-US-varsity-startup-FakeNetAI.jpg"
-        width: 920
-        height: 690
         isCached: true
 
 secured: "9805YIfO4ymr8kQ0SrwdXndKKsbDGdU1rgnPrDnnkNAIfpCoMYSYjDBqkL6ow/IUQfvBjRz+ID63WRr3UZ9HocMNWdRz63TuVbndXoIghXRP5J+N4XfHHi3arTuNvkEtSynnFQfcH+kQlzexQikWOnOnX5l65u0qwCkst1pR1mKwGJ7TdIlRoIvilNIUbynbgCBR3+UXj44lhjIUc+wBqfQYKVXYzG/sKlUMUCv9TyoBYRClscXUr7MkCHI/BylS5Zc6aN+xDeaLGV93zvjcDC4GWOIIeTsgzNkL+r3HThZnBXct4lw8tHqeLWKa1U7iR9B0Zv9ce2JAzWOClPoAogOKfW5MaPYxayLUVAILHu4BavlxIR+SlrLJW+9xH4Ff6xv7O5ZGIHRIT0ycUs2iB7+xhk06nCuWnD84PA1zSpOED9C28t93ET4Y31Cy4dhDg8WKy6Sc+WaHo86uOXWt0mX3LNWg4rAzNsV+ceSoFksiQMYk06ygooAuW4k2/nilXijNtklU2Z6Bk4pusBd60g==;XUdfDqC0oIkLrDoxuHvZzA=="

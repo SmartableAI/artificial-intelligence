@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/16671-2/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/16671-2/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -29,22 +29,33 @@ images:
     isCached: true
 
 related:
-  - title: "7 Artificial Intelligence Stocks to Buy for October"
-    excerpt: "Here are the companies that are using machines to help us, from inventory management to finding that special someone."
-    publishedDateTime: 2020-10-02T16:58:00Z
-    webUrl: "https://investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/"
-    ampWebUrl: "https://investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/amp/"
-    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/amp/"
+  - title: "Nvidia’s GTC event will shine a spotlight on 200 AI startups"
+    excerpt: "More than 200 new artificial intelligence startups will appear at Nvidia's GPU Technology Conference (GTC) in some form from Monday through Friday."
+    publishedDateTime: 2020-10-03T16:45:00Z
+    webUrl: "https://venturebeat.com/2020/10/03/nvidias-gtc-event-will-shine-a-spotlight-on-200-ai-startups/"
+    ampWebUrl: "https://venturebeat.com/2020/10/03/nvidias-gtc-event-will-shine-a-spotlight-on-200-ai-startups/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/03/nvidias-gtc-event-will-shine-a-spotlight-on-200-ai-startups/amp/"
     type: article
     provider:
-      name: InvestorPlace
-      domain: investorplace.com
-    quality: 59
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://investorplace.com/wp-content/uploads/2019/07/ai1600b.jpg"
-        width: 1600
-        height: 900
+      - url: "https://venturebeat.com/wp-content/uploads/2020/10/nvidia-Inception2.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 588
         isCached: true
+  - title: "7 Artificial Intelligence Stocks to Buy for October"
+    excerpt: "But if there is one on Wall Street, it’s the rise of artificial intelligence stocks. Yes, there is the profitability angle from machine learning and other relevant technology facilitates. But this crisis has been a crash course in the sector’s viability."
+    publishedDateTime: 2020-10-02T13:58:00Z
+    webUrl: "https://www.nasdaq.com/articles/7-artificial-intelligence-stocks-to-buy-for-october-2020-10-02"
+    ampWebUrl: "https://www.nasdaq.com/articles/7-artificial-intelligence-stocks-to-buy-for-october-2020-10-02?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-artificial-intelligence-stocks-to-buy-for-october-2020-10-02?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
 
 secured: "8KRTB5ZU2vrr4JY9p1n6h/cQpuOKf6bqZzDkqhQ293nBBC9HTWdbtiBec1gklYzMjr0b7D6VCKC59TGXT9hqK7oeKq+4IuBiX943agBNiOl5NhVXmECy5SjPaR4DEYYUAMppZo58jEbAM+KZ0nmMKGszr7+k7WOZ0B60AY6tBSMufg/I9Ai2X8rv1bllD8Gb+sst3iaT5AdAkHSsjxWetjyXw0rBxkwY6uh/9ChnEE9oBinF/pgLzNLa5v+j4yhJyf+sR+O7BbA+ecdClMK9EKPuSS7wcmsYrTzoqNsjPj1Y8iLXuhcg6J3qjvwX/+IwpjPgcdMyu+Hqf1vWs6NysJj9c/KBOVElrnAwBWVVmZY=;WQGO27BvQHdZ1zzh8EeP1w=="
 ---
