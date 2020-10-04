@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-09-24-6-growth-bound-artificial-intelligence-stocks-to-buy.md",
+      "title": "6 Growth-Bound Artificial Intelligence Stocks to Buy",
+      "excerpt": "Stock Market News, Stock Advice & Trading Tips Investors are keen to understand the confluence of artificial intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/6-growth-bound-artificial-intelligence-stocks-to-buy-1029620414",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/6-growth-bound-artificial-intelligence-stocks-to-buy-1029620414",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/6-growth-bound-artificial-intelligence-stocks-to-buy-1029620414",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/6-growth-bound-artificial-intelligence-stocks-to-buy-1029620414",
+      "publishedDateTime": "2020-09-24T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-facebooks-new-benchmarking-system-asks-humans-to-interrogate-ais.md",
       "title": "Facebook's new benchmarking system asks humans to interrogate AIs",
       "excerpt": "Facebook’s AI research (FAIR) lab has taken a new approach to benchmarking: it's putting humans in the loop to help train their natural language processing (NLP) AIs directly and dynamically.",
@@ -890,6 +933,40 @@
       ]
     },
     {
+      "path": "_news/2020-09-24-four-steps-to-accelerate-your-machine-learning-journey.md",
+      "title": "Four steps to accelerate your machine learning journey",
+      "excerpt": "Swami Sivasubramanian, vice president, Amazon Machine Learning, AWS, looks at strategies for fast tracking the machine learning journey for enterprises across the world",
+      "sourceUrl": null,
+      "webUrl": "https://www.commsmea.com/business/opinion/22450-four-steps-to-accelerate-your-machine-learning-journey",
+      "originalUrl": "https://www.commsmea.com/business/opinion/22450-four-steps-to-accelerate-your-machine-learning-journey",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-24T01:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CommsMEA",
+        "domain": "commsmea.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-tomorrow-socratesai-to-host-webinar-giving-your-company-a-single-voice.md",
       "title": "Tomorrow: Socrates.ai to Host Webinar \"Giving Your Company a Single Voice\"",
       "excerpt": "During this webinar, Socrates.ai will get to the heart of this problem, explaining how and why companies can speak with a single voice. Attendees will learn how artificial intelligence helps close the information gap to ensure employees get accurate answers to their questions and take away the insights needed to create a frictionless workforce experience.",
@@ -937,40 +1014,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-four-steps-to-accelerate-your-machine-learning-journey.md",
-      "title": "Four steps to accelerate your machine learning journey",
-      "excerpt": "Another approach used by Morningstar — a global financial services firm — used hands-on training for their employees with AWS DeepRacer to accelerate the application of machine learning across ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itp.net/news/93915-four-steps-to-accelerate-your-machine-learning-journey",
-      "originalUrl": "https://www.itp.net/news/93915-four-steps-to-accelerate-your-machine-learning-journey",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.itp.net/news/93915-four-steps-to-accelerate-your-machine-learning-journey?amp",
-      "cdnAmpWebUrl": "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/news/93915-four-steps-to-accelerate-your-machine-learning-journey?amp",
-      "publishedDateTime": "2020-09-24T00:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GDPR fines",
-        "domain": "itp.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -1164,48 +1207,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-mouser-electronics-new-intelligent-revolution-series-explores-cutting-edge-applications-in-artificial-intelligence.md",
-      "title": "Mouser Electronics’ New Intelligent Revolution Series Explores Cutting-Edge Applications in Artificial Intelligence",
-      "excerpt": "Mouser Electronics announces The Intelligent Revolution, a captivating new series in Mouser’s award-winning Empowering Innovation Together program.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200923005723/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20200923005723/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200923005723/en/824095/23/PRINT_EIT_IntelligentRevolution_eBook1.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-23T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

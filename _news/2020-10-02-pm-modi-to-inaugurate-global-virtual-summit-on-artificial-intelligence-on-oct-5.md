@@ -57,6 +57,20 @@ related:
         width: 500
         height: 344
         isCached: true
+  - title: "PM Modi to inaugurate mega virtual summit on Artificial Intelligence on Oct 5"
+    excerpt: "Prime Minister Narendra Modi will inaugurate RAISE 2020, a mega virtual summit on Artificial Intelligence (AI) on October 5."
+    publishedDateTime: 2020-10-04T01:31:00Z
+    webUrl: "https://www.sify.com/news/pm-modi-to-inaugurate-mega-virtual-summit-on-artificial-intelligence-on-oct-5-news-national-ukdraegjddejb.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 36
+    images:
+      - url: "https://aniportalimages.s3.amazonaws.com/media/details/ModiJISpeech2_oct3_Uu5UuhT.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "CKDo8bsXUDguHypBZZUgEELZLeLakh7pqzV55dMW88Tl/Kk4dQDAQXRv4JOyqTaqqyanECUOZfr4SzJdVsDDYkn90e14WadjS3DcGKn3VVidPpcgHbAWVpBA1p0sThOjIy2B45qknbd2h/mt8yU044g9gJOFD3mMNXO5s2P/KyxVnpBmjaXI+ZRC25wuLBiZDgVEbiep1spimND8VQoPjzrsptv+1kFZDI9CYOiJlLiL1q8pZ6245hmGbEEdBGe7wxktj8Y5Aaq2eFFSjyZciCC3Cs+lDKZ+Kk2hwU0e/XO75T4nQ1PV9JvN9gwwPopCPn3InWo1wRp4psibB1OeubB5Sb/HOOCYbvh4JrDCUlE=;XHB1OQQpDyxNrMb0Tsp7wg=="
 ---

@@ -36,7 +36,7 @@ related:
     provider:
       name: Robb Report
       domain: robbreport.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://robbreport.com/wp-content/uploads/2020/09/BIG-AI-CITY-01.jpg?w=1000"
         width: 1000

@@ -1,27 +1,27 @@
 ---
 category: news
-title: "PM to inaugurate Global Virtual Summit on Artificial Intelligence"
-excerpt: "Aiming to drive India's vision for social transformation through responsible AI, the Ministry of Electronics and Information Technology (MeitY) and NITI Aayog are organizing a Global Virtual Summit on Artificial Intelligence (AI),"
-publishedDateTime: 2020-10-03T11:05:00Z
-originalUrl: "https://knnindia.co.in/news/newsdetails/sectors/pm-to-inaugurate-global-virtual-summit-on-artificial-intelligence"
-webUrl: "https://knnindia.co.in/news/newsdetails/sectors/pm-to-inaugurate-global-virtual-summit-on-artificial-intelligence"
+title: "PM Modi to inaugurate mega virtual summit on Artificial Intelligence on Oct 5"
+excerpt: "Prime Minister Narendra Modi will inaugurate RAISE 2020, a mega virtual summit on Artificial Intelligence (AI) on October 5."
+publishedDateTime: 2020-10-04T01:31:00Z
+originalUrl: "https://www.sify.com/news/pm-modi-to-inaugurate-mega-virtual-summit-on-artificial-intelligence-on-oct-5-news-national-ukdraegjddejb.html"
+webUrl: "https://www.sify.com/news/pm-modi-to-inaugurate-mega-virtual-summit-on-artificial-intelligence-on-oct-5-news-national-ukdraegjddejb.html"
 type: article
-quality: 39
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: knnindia.co.in
-  domain: knnindia.co.in
+  name: Sify.com
+  domain: sify.com
 
 topics:
-  - AI in Healthcare
   - AI
+  - AI in Healthcare
 
 images:
-  - url: "https://knnindia.co.in/uploads/newsfiles/PM-Modi-AI-3-10-2020.jpg"
-    width: 500
-    height: 344
+  - url: "https://aniportalimages.s3.amazonaws.com/media/details/ModiJISpeech2_oct3_Uu5UuhT.jpg"
+    width: 600
+    height: 450
     isCached: true
 
 related:
@@ -57,21 +57,21 @@ related:
         width: 256
         height: 256
         isCached: true
-  - title: "PM Modi to inaugurate mega virtual summit on Artificial Intelligence on Oct 5"
-    excerpt: "Prime Minister Narendra Modi will inaugurate RAISE 2020, a mega virtual summit on Artificial Intelligence (AI) on October 5."
-    publishedDateTime: 2020-10-04T01:31:00Z
-    webUrl: "https://www.sify.com/news/pm-modi-to-inaugurate-mega-virtual-summit-on-artificial-intelligence-on-oct-5-news-national-ukdraegjddejb.html"
+  - title: "PM to inaugurate Global Virtual Summit on Artificial Intelligence"
+    excerpt: "Aiming to drive India's vision for social transformation through responsible AI, the Ministry of Electronics and Information Technology (MeitY) and NITI Aayog are organizing a Global Virtual Summit on Artificial Intelligence (AI),"
+    publishedDateTime: 2020-10-03T11:05:00Z
+    webUrl: "https://knnindia.co.in/news/newsdetails/sectors/pm-to-inaugurate-global-virtual-summit-on-artificial-intelligence"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 36
+      name: knnindia.co.in
+      domain: knnindia.co.in
+    quality: 39
     images:
-      - url: "https://aniportalimages.s3.amazonaws.com/media/details/ModiJISpeech2_oct3_Uu5UuhT.jpg"
-        width: 600
-        height: 450
+      - url: "https://knnindia.co.in/uploads/newsfiles/PM-Modi-AI-3-10-2020.jpg"
+        width: 500
+        height: 344
         isCached: true
 
-secured: "5PmuB4MuDogLRLtAS2eHqRINp7TLwRpOiRIVIOxAbgvgfA9CIH3Tc1f3wajb1CePdHrnaW7V6hgAZIq1GtK9q3o3dH/Xja0h0qJzK5DTaYpUXyJpj/jD5OyTWzCPLIqmbZ9Ok53NjI827qF4GEitGzwW92yDy775WCqTd6lYAoD1Ku48mSMjYxD3YiqJ0oGmwk2kA5bNIgkV43hup1ACkG+VRJ0LBo57PRV//5oQUjxT5WeCFEb+cQtuN9CahABNj+ASeJd7RaDn0W76CLUDxCknCUre8Efr0QK03QAG4QrKk4NXLpV3BIPSv7g1IIZzAV99D9nN7P2TnezuIw/Q5Qrv1V2Jp+F+K/M5Bg5OH3I=;QBMLxNhjYythQ3AgwhLw8Q=="
+secured: "tmBX3xr3TWYl7B7plv4nZTgpkca4At3BrGne1/7OJ2CwRmfpE2mrRgIh05XjrgylnbRbtdK77FDgbXCUTZvN7yygLAwPhe4Uq25oQTWttW4f7aAy9vmzD1eFTKzbTtScarydLhk9CwJ4SOs5LydyHEKFDxUkK6KPw5bMPL92GkY8VKL3/j8xSj7+BO8AieNep7tOt+fThabQzF1FlNLCQvfj3UChll8ZSzaQHNBOp9mN99/CUFUeWkA/dlxNiPBkjJMr/WhVI6FaejMfWQis/kvq2la92MqNt3or+a1ynq5o7g1nSUSe+jpO7cFBibKksaYELVzMoRhNMQhWgOqSZbW6PTjoPWG2f3aT0i18p5g=;IvDlDiKNUasyOZINJvnLpA=="
 ---
 

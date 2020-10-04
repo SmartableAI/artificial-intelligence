@@ -7,7 +7,7 @@ originalUrl: "https://ctovision.com/5-things-chros-should-know-about-artificial-
 webUrl: "https://ctovision.com/5-things-chros-should-know-about-artificial-intelligence/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 632
     height: 422
     isCached: true
-
-related:
-  - title: "5 Things CHROs Should Know About Artificial Intelligence"
-    excerpt: "By Sandesh Goel Artificial Intelligence is becoming sharper and its ability to analyze, predict, and diagnose is improving fast. AI is being adopted in most"
-    publishedDateTime: 2020-09-29T08:48:00Z
-    webUrl: "https://www.cxotoday.com/corner-office/5-things-chros-should-know-about-artificial-intelligence/"
-    type: article
-    provider:
-      name: CXO Today
-      domain: cxotoday.com
-    quality: 37
-    images:
-      - url: "https://www.cxotoday.com/wp-content/uploads/2020/09/chro-tech.jpg"
-        width: 602
-        height: 450
-        isCached: true
 
 secured: "LPYCcW2v1Rr1IP3R78NPI49BGU04fLocT1LnTbb7p9NjBLewIQmJTAhmsgR+L5MGIpPT29LUjQQrbAjlNiffq5ncCq3Icm/0aXDKBIJHSIZhcbGGIBGB1Bl2EWpLtpLLxgHBpHkK7amPBeXDRhrBTFaIiHAotq46UgtI9uS8dbKsYDnv41+T6jHz/+No22eOZNM1LODWCCj5Wi5L32NsaDHbofwxqshL/871kF8WbooJXZZ/XqX/LvatYQln8T1cbIk52AnhqoeJSqYDGQOcgcJ0ErtV24SwfjMKHeJTf0HbXTh52df06ap/s6hdMknndlc0kyKQMJyRlN29fygYKyUoUOfAmuG2/+JIh6VB32g=;4Rb6kE3+7SCWcH8TDj4Y3A=="
 ---

@@ -2,6 +2,48 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-09-18-driver-found-asleep-as-self-driving-tesla-car-breaks-speed-limit-cops.md",
+      "title": "Driver Found Asleep As Self-Driving Tesla Car Breaks Speed Limit: Cops",
+      "excerpt": "A driver who allegedly set his car to autopilot and then took a nap as it broke the speed limit on a rural Canadian highway has been charged with dangerous driving, police said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/world-news/teslas-self-driving-car-breaks-speed-limit-after-driver-falls-asleep-in-canada-police-2297487",
+      "originalUrl": "https://www.ndtv.com/world-news/teslas-self-driving-car-breaks-speed-limit-after-driver-falls-asleep-in-canada-police-2297487",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2020-09/sbsv48b8_canada-tesla_625x300_18_September_20.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/world-news/teslas-self-driving-car-breaks-speed-limit-after-driver-falls-asleep-in-canada-police-2297487?amp=1&akamai-rum=off",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/teslas-self-driving-car-breaks-speed-limit-after-driver-falls-asleep-in-canada-police-2297487?amp=1&akamai-rum=off",
+      "publishedDateTime": "2020-09-18T02:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-in-a-facial-recognition-bill-backed-by-microsoft-three-words-stand-between-citizens-and-their-civil-rights.md",
       "title": "In a facial recognition bill backed by Microsoft, three words stand between citizens and their civil rights",
       "excerpt": "In Washington, the first US state to pass a law regulating facial recognition, it’s legal for government agencies to use facial recognition to deny citizens access to basic rights and services ...",
@@ -1113,56 +1155,6 @@
       "ampWebUrl": "https://venturebeat.com/2020/09/17/rapidai-raises-25-million-to-analyze-medical-scans-with-ai-algorithms/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/17/rapidai-raises-25-million-to-analyze-medical-scans-with-ai-algorithms/amp/",
       "publishedDateTime": "2020-09-17T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-ai-powered-weight-training-startup-tonal-raises-110-million-amid-home-workout-boom.md",
-      "title": "AI-powered weight training startup Tonal raises $110 million amid home workout boom",
-      "excerpt": "Tonal, a startup developing an AI-powered home weight training system, raised $110 million to further its R&D and mass-production efforts.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/17/ai-powered-weight-training-startup-tonal-raises-110-million-amid-home-workout-boom/",
-      "originalUrl": "https://venturebeat.com/2020/09/17/ai-powered-weight-training-startup-tonal-raises-110-million-amid-home-workout-boom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/04/tonal_fitness_official-e1600102966312.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/17/ai-powered-weight-training-startup-tonal-raises-110-million-amid-home-workout-boom/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/17/ai-powered-weight-training-startup-tonal-raises-110-million-amid-home-workout-boom/amp/",
-      "publishedDateTime": "2020-09-17T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",

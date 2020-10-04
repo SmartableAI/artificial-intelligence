@@ -8,7 +8,7 @@ webUrl: "https://robbreport.com/shelter/art-collectibles/bjarke-ingels-group-des
 ampWebUrl: "https://robbreport.com/shelter/art-collectibles/bjarke-ingels-group-designs-ai-city-china-1234572192/amp/"
 cdnAmpWebUrl: "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/shelter/art-collectibles/bjarke-ingels-group-designs-ai-city-china-1234572192/amp/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://robbreport.com/wp-content/uploads/2020/09/BIG-AI-CITY-01.jpg?w=1000"
