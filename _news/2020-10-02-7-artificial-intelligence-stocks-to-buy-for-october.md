@@ -1,31 +1,29 @@
 ---
 category: news
 title: "7 Artificial Intelligence Stocks to Buy for October"
-excerpt: "Here are the companies that are using machines to help us, from inventory management to finding that special someone."
-publishedDateTime: 2020-10-02T16:58:00Z
-originalUrl: "https://investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/"
-webUrl: "https://investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/"
-ampWebUrl: "https://investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/amp/"
-cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/amp/"
+excerpt: "IBM offers the patient investor potentially significant upside. As you know, with its AI platform Watson, Big Blue has been helping multiple enterprises and industries maximize their efficiency."
+publishedDateTime: 2020-10-02T14:17:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/7-artificial-intelligence-stocks-to-buy-october-1029644435"
+webUrl: "https://markets.businessinsider.com/news/stocks/7-artificial-intelligence-stocks-to-buy-october-1029644435"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/7-artificial-intelligence-stocks-to-buy-october-1029644435"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/7-artificial-intelligence-stocks-to-buy-october-1029644435"
 type: article
-quality: 59
-heat: 59
+quality: 69
+heat: 69
 published: false
 
 provider:
-  name: InvestorPlace
-  domain: investorplace.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://investorplace.com/wp-content/uploads/2019/07/ai1600b.jpg"
-    width: 1600
-    height: 900
-    isCached: true
-
-secured: "bDSHB/WOX3+YdArebUWZeZHaGDMtQ1Qm3stDYClDCRlXAwLYF7FdWW1OO9iDzc+1qcKPY/5C9rwstYLXpGt5+40/GtO//y8TS8K65ugSE0lnLazYItFkPsKxoHc4KTsGDLQERiVFWv7dMR1Pf9yS/FZNB8QJ/Ndna3TLP7JEx37FeduAsCTb8DkLWsGGfxl9LbECtIMHtjwCweiQ/Zf3vHZzkWqgPJDuym3Zw8kvYfwV9U/cACqsPxbxV0WS7U3fCsXotsdmkIjgBf8UdC1ly5BTZ3Z3wI4H39gD+fAoR5nx17clShUYScfGUpgbcX0hDxc+Oyvxcj7Cj3rjz36ejqzgBxMaFHGgtwb9rvuJP4c=;5koUx5U/gJ7WQ0wnxlK4kg=="
+secured: "aOc+gGCTruaSq+hvlTm56Fbg5XMOMLk+oy+mx0AtBYEv/SIMVFc4t8t/uvUmgit/BH49TOb/cNUAnV6FW5+8ElYfCmwgPXAs1TetPb/RIaP8i4GXiG/fQb9WgUOV1ruma3mdu4AOd99xRtYiWV4Ri6m+BBuPzo8wxAzD15xVGKrPjhfUdDT1UaDCmrZZMsLzR35hp6+zDU8sApCbsnXedSTXQHdB1jmB52glR3z0p129741xuqM8hgD66c6KQdeRhBHznMo5slapd/vHkvJrRfW2TqcqLDVQsfe16BW4CIvOAuOe+aoIAZAco+wFWopkYU0BQfMwMYrS1Ft/g7vIeA/Gwn/hnu2Q7NARV78k8fs=;ip7i85f1EBbHx8Gazu9G+g=="
 ---
 

@@ -1,45 +1,26 @@
 ---
 category: news
 title: "Synopsys to Host Panel on AI for Chip Design at AI Hardware Summit 2020"
-excerpt: "PRNewswire/ --Synopsys, Inc. (Nasdaq: SNPS) today announced that Arun Venkatachar, VP of AI and Central Engineering, will participate in a panel discussion with participants from Intel and Google at the 2020 AI Hardware Summit on the topic of AI and whether it can revolutionize the way chips are designed today."
-publishedDateTime: 2020-09-28T13:28:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020-1029626943"
-webUrl: "https://markets.businessinsider.com/news/stocks/synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020-1029626943"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020-1029626943"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020-1029626943"
+excerpt: "PRNewswire/ --Synopsys, Inc. (Nasdaq: SNPS) today announced that Arun Venkatachar, VP of AI and Central Engineering, will participate in a panel"
+publishedDateTime: 2020-09-28T13:05:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020-301138755.html"
+webUrl: "https://www.prnewswire.com/news-releases/synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020-301138755.html"
 type: article
-quality: 84
-heat: 94
-published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI Hardware
   - AI
 
-related:
-  - title: "Synopsys to Host Panel on AI for Chip Design at AI Hardware Summit 2020"
-    excerpt: "MOUNTAIN VIEW, Calif., Sept. 28, 2020 /PRNewswire via COMTEX/ -- MOUNTAIN VIEW, Calif., Sept. 28, 2020 /PRNewswire/ --Synopsys, Inc. (Nasdaq: SNPS)"
-    publishedDateTime: 2020-09-29T02:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020-2020-09-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
-secured: "2GgQpmJfr3BqprsvXe3ytlstNP1vUGjPN6e2eKkcNHD1UPsBXINZWHs/iGn4EJ6ikpBnxeFKdtac5OLFh5DkH4DZU/qV2YOnTldUaI4zWf8OCiug3djGqtUzGMLSidjDeYMC1vH34FQ6G9f94rdNk7z1CHmnIR1mZBiKA0oKvF9S7LuHkm/LdEH6qzJaoUKaOMw7NmcOjprus+xk/fXBVRj+zCvcAuwkn/7PMPPDenL/vxyaRSkalN+3NUBZuEIOOqFplf5eJncH71Prn8B1aSeegyFsXHs//hRWABXGxxVWGXGoXOm44ary3mR0ZdjPgCC22raidbBV5OE9UBOS6aPPu6N+3jAUUNx0Haa0Fh8=;A/PYWDMjUZkorTWJfQ/RWA=="
+secured: "r5X32+RV1HGGFJqxpMMwPMU5+ZSHBBawEFpr47KwNf66fkCLOlg+b9yQWRz4hwfNiHoDcGhyY7UZKoIgwbXYPuB4FIKn1kHgJP3tVKBMmfMUvk87scDgdjtNFp8fMxqXoxWdztw6ePkqxFaiQn8NzZ6/UipBNgxwxol3Mn6l92TTIw+GIjbxkR+v0yvGZriX+cEdJIXQJwl/qGnKqC+FFqQdshQS7B8+S9aWUNZliAnDbgpF/Dz8tYyNSH/G8uS9GeHl2pd2EmQOICfQWXsyhzFYXi+JM901Sd+i2BfJiSHPrARFATEijb2OYXVaE2kkB3z57HAriKmSl7CMVuAHZofDP2Sb5I89H4PXoeeg1hg=;sxOjkfsiqy3QVxbu2zoIzA=="
 ---
 

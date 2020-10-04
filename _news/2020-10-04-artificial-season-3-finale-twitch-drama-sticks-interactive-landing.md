@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-04T14:35:00Z
 originalUrl: "https://bleedingcool.com/tv/artificial-season-3-finale-twitch-drama-sticks-interactive-landing/"
 webUrl: "https://bleedingcool.com/tv/artificial-season-3-finale-twitch-drama-sticks-interactive-landing/"
 type: article
-quality: 2
-heat: -1
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -16,6 +16,13 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
+
+images:
+  - url: "https://bleedingcool.com/wp-content/uploads/2020/10/304-Lilith-04-1200x628.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Artificial Season 3: Interactive Twitch Drama Finale Set for Tonight"
@@ -28,6 +35,6 @@ related:
       domain: bleedingcool.com
     quality: 4
 
-secured: "qvUDav4kNzMIQh1RKIDDxtvTJrhEGNw7KCBpjy72itXaJ0DWERtSaHH32sBWPz+zgOF4v2mRIZKKdYosi8yeZ2ZNfzBJ32e+2SAcJS4x2k10LjiozzU64p1PIYbq7X+THADUIwlEtzhqtck/BBhYP+CJCRTK82ZH5+9nekuEGo2nccLmTKPKUOh7p1oy4DQSIQtEa6Vdjg+C64bD+EbiReSfuG+aqFGlMHSKXZDz0atAOiOnUYpBcaoV4tQVP1i6/zTROUX8U0hdZMx/W0rwSp8BDTX+XWiBsDR2XqHU9GhOcE0mc1JrWq8ccfn770keg3sE3ct1EbWdKEguM1BBXjSh7PsQBdtfH9OKLJwBAWZuo/jOIaRkIoLqch8uB0Uwu4lmHvecbb9x44pIGrGFOR5aphOLUH37fA2TY2e16eO/HlFWo9cjn9ENE4qeDRpV92hG8VzrM7jholGeDOPG4PbwaaWOZnK8ckk6ObKWQll96+VBKnHifYFHOGaHVoQEGtY42NV3bUS5E5mixrxOOQ==;zXqgsRbDqZrmv+z9Mivj0w=="
+secured: "320qYhUyTeEbfrHgFkEQWo5b3YCUDlnAI4gh608OvVuTesHx6Pd8SriEj7twO9w1Oos1tr5ALCKfd6VCW/WeZiQBX0PcH+Mga+VqfuABn7ZiDvEdR76e4/qRK5Y8XjXUf9GLU8bXFkoXZFk/Et/y9PcO+Xr1us61q2PsiTNACyA5w5kBkZ/irjmO1wNUQ/L9x5y+ID0FPcrCLgZJUk5hOJpdmwlfSPY/qsP1G349t+0okllSa4mcRO8MaU5/xWzKahNU9NM71z3hqQ1FtDNZRZDtZJm9lPNA7TyPE2TC0qnFjcNKSBQAz3spCU33IuVA4cUJSB/NXSSaVBPiJDRvMDh2lhhRgaDUQLKIAzBUhnw=;taVugV7aqFLqDO412UUm1Q=="
 ---
 

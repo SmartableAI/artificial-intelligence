@@ -21,20 +21,6 @@ topics:
   - AI in Finance
 
 related:
-  - title: "Blockchain Startup Fluree Completes Seed Funding Round"
-    excerpt: "Startup Fluree, developer of a blockchain-secured “Web 3.0” data management platform, has secured additional financing that wraps up the company’s $6.5 million seed financing round. Fluree, based in Winston-Salem,"
-    publishedDateTime: 2020-09-29T23:31:00Z
-    webUrl: "https://www.crn.com/news/applications-os/blockchain-startup-fluree-completes-seed-funding-round"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 37
-    images:
-      - url: "https://www.crn.com/resources/025f-0fe59f166b14-9bacc3ac8eba-1000/1008861200.jpg"
-        width: 611
-        height: 429
-        isCached: true
   - title: "AYN InfoTech Strengthens Organizations Through Artificial Intelligence And Blockchain Enabled Enterprise Software Solutions"
     excerpt: "According to Martin Fowler, a British software developer, author, and international speaker on software development, “Enterprise applications are about the display, manipulation, and storage of large amounts of often complex data and the support or automation of business processes with that data."
     publishedDateTime: 2020-09-30T17:24:00Z

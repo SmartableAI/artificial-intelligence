@@ -73,20 +73,6 @@ related:
         width: 1061
         height: 525
         isCached: true
-  - title: "VMware and Nvidia team up to make AI chips easier to use"
-    excerpt: "VMware and Nvidia have announced an effort to make VMware's software for managing data centers work better with Nvidia's artificial intelligence (AI) chips."
-    publishedDateTime: 2020-09-29T23:50:00Z
-    webUrl: "https://www.arnnet.com.au/article/683359/vmware-nvidia-team-up-make-ai-chips-easier-use/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 54
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/vmware_1.jpg"
-        width: 651
-        height: 455
-        isCached: true
   - title: "VMware Partnership, A Big Win For NVIDIA In AI Chip Market"
     excerpt: "This partnership is complete in line with NVIDIA’s recent efforts with AI, thus giving it a significant edge in the AI chip industry."
     publishedDateTime: 2020-10-02T00:00:00Z

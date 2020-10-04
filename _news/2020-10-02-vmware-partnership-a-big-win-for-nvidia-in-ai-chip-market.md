@@ -87,20 +87,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "VMware and Nvidia team up to make AI chips easier to use"
-    excerpt: "VMware and Nvidia have announced an effort to make VMware's software for managing data centers work better with Nvidia's artificial intelligence (AI) chips."
-    publishedDateTime: 2020-09-29T23:50:00Z
-    webUrl: "https://www.arnnet.com.au/article/683359/vmware-nvidia-team-up-make-ai-chips-easier-use/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 54
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/vmware_1.jpg"
-        width: 651
-        height: 455
-        isCached: true
   - title: "Arize AI Joins NVIDIA Inception Program"
     excerpt: "Arize AI, today announced it has joined the NVIDIA Inception program, which is designed to nurture startups revolutionizing industries"
     publishedDateTime: 2020-10-02T15:00:00Z
@@ -125,6 +111,6 @@ related:
       domain: morningstar.com
     quality: 33
 
-secured: "lX1pZqfa3vmZ4JPM6BmA5tHcUnpHvVm9U36G16Rvc2X0/vUJab38O0YM25UZNz5CsEA3NmE9tPN8TxLdlo/kFFeDBo6N8qQxrlUVYyDWwnambDsf4oOV+cZ1V+mANQWyqTLA0Ir/r7HQqU4dNMDTH0M+alaUYb4opHLWnRhBNYKPkbFHuH+v33veMFG/EhElHRdVnz0oSzK5XVU0XlrA6oAd1u9Dud2/HH+DA5HV+VptTmLrPXei5a00Zyp5S8XmXwACxwX1AQdzGosCXOIO5hUbGPVLtCiuLTF15F/9juf1bcu1wKrgVlbb8lnOZQdueRjoT4KLVU4gX2NvvwBNrTjEx8QmWDDtO6d3tJ3m8ms=;y66yhfFvLGOhUuFOBe8o1g=="
+secured: "YVT5zs935v/hvvmqtM3TyZvQyrUQuKXOariIc+ypPH7WNQRLyrnYRGJXXfQ/jF42da0xip+RsTjTBWbbPSNMhU/f0Ega4+n2sSv08ErW8HCj+XMAfPmqjbuyfvVAHpY2iPXFpx6yOPpHDJSCQsLSinqbsZXKEOQIOBf0ha400wZ/xxBO7VUdC35vFlN1UOK6YAFPWN3BzJn1bKJtReZ5rHlam3nVuTfxMBmenuUoFn+ea3iNuUP1GQGqb7j89V7zApL0j8JwL6vFTnUZSxPEYETgri3GYpEvorb4Fc3PGPAR39VOq8LarBlzRoRgf53CiALf+Bc5sV4qeKN6inDh97wLWnFlc1zglIcOLBSPsR5pb09JbtIVNGlr9Eq8K8f/h/4RV/JAb6CnTpLjXlHBeJrVJdd9t3iwQNFNcvKfM0C0syS3XT+77noY0KTIkU8V6+ZbCVFnbzhYUl0wlUNlPNEzHZnrbn8w4oHP0efzreRJfxYqaT6/DkapKenANfJ48vKbzsZw+5eZhgkOpM73Zg==;BT/xiafY/rXrLxkeIxO/pw=="
 ---
 
