@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI chipmaker Hailo accelerates deep learning at the edge"
-    excerpt: "Artificial intelligence chip company Hailo Technologies Ltd. said today it’s launching two new acceleration modules that will boost the processing capabilities of edge devices that run its specialist hardware."
-    publishedDateTime: 2020-09-30T14:08:00Z
-    webUrl: "https://siliconangle.com/2020/09/30/ai-chipmaker-hailo-accelerates-deep-learning-edge/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 71
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/Hailo-8-chip-breakthrough-performance-for-deep-learning-applications-at-your-fingertip-800x534.jpg"
-        width: 800
-        height: 534
-        isCached: true
   - title: "AI Chipmaker Hailo Launches M.2 and Mini PCIe AI Modules for Edge Devices"
     excerpt: "AI chipmaker Hailo announced today the launch of its M.2 and Mini PCIe high-performance AI acceleration modules for empowering edge devices. Integrating the Hailo-8 processor, the modules can be plugged into a variety of edge devices for such use cases as smart cities,"
     publishedDateTime: 2020-09-30T21:14:00Z

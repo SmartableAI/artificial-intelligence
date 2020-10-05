@@ -40,20 +40,6 @@ related:
         width: 370
         height: 278
         isCached: true
-  - title: "Automation & Artificial Intelligence Revolutionize the Cannabis Industry"
-    excerpt: "To some, artificial intelligence (AI) may be categorized next to the likes of Bitcoin and blockchain: it’s just another techie buzz word. For others, artificial intelligence could conjure up images of sentient robots hellbent on world domination."
-    publishedDateTime: 2020-09-30T14:57:00Z
-    webUrl: "https://www.weedworthy.com/the-news/press-releases/automation-artificial-intelligence-revolutionize-the-cannabis-industry"
-    type: article
-    provider:
-      name: weedworthy.com
-      domain: weedworthy.com
-    quality: 38
-    images:
-      - url: "https://420intel.com/sites/default/files/field/image/newwwlumigrow-greenhouse.jpg"
-        width: 700
-        height: 442
-        isCached: true
 
 secured: "YFLH5yJp6h2GD3kOqO4Fh+GeBKWMsVdzTyD+IH/dQ5jm2q2t5vrvh4PK7W5q+w91aHHP6mOtHMQxmpNChwl1208wamJPtnkOJ39KDtaC3Iy+M4wEArDQ25ppH5IASBOyQQ+PhS3m8gmoMPY/w65u9ik3G10qMzkLHG1WL9uS0RKtQvruqjjgdgFVoDL7MXqp95wN6HIv/iaFvbMZt7KwUjnzXuBj4P43eGdsJkzociFbxjQNkawSTFm8wPDCsXqSwyXg4hGkNiL5AHoqBP4OA9tob/rnzXcrHUlKDhU3RU2qznvswe13I9QcwjsOWeaO3EIfOpSaNl0jf0gkNI10FKHdCRL+gttRe5egh4ZnrHCsRfGoNTr2udMZXLksrMDlbw+EvBAnUoBHVM3Bh12hS4uQfAVGG651eOaZ/CSgicCWQzRh1xI2cK00B71SA9Zk2bCCgPu8J40q6iL7Gy10tI5/XI1LfAYtq64ByrWAntyjVq1QgQwwrlZ2Ad81A5B1QOw4X+qhd1iQBMvIl1V3nA==;xXMHwCullZE8rgLt3ClrNg=="
 ---

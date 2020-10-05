@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2020/microsoft-vp-law-student-execs-career-
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-vp-law-student-execs-career-transition-says-ai-law/amp/"
 type: article
 quality: 92
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.chiefmarketer.com/wp-content/uploads/2020/10/istock-653137006-scaled.jpg"
         width: 1024
         height: 724
-        isCached: true
-  - title: "Andor Health Collaborates with Mentor to Deliver Next Generation, AI-Powered Virtual Experiences with Microsoft Technology"
-    excerpt: "Andor Health and Mentor Worldwide LLC have formed a collaboration to provide the aesthetic physician community with the next-generation virtual health experiences to enhance the relationship between a surgeon and their patients."
-    publishedDateTime: 2020-09-30T13:30:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-medical-technology-health-artificial-intelligence-computing-and-information-technology-7ebeb192b3437584eac7a740d6619523"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 28
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "b2BLhRncN8zTAMlU8P2ynaYZtxdMvotChMrWKeKZzCd7wktMVknTblhNMRDrywNzDYsrnlgAGaX0flUrSde1L72ErEMZTR5YEO7YAmg6RE5k22RsTmoOB0Mrt/s6/t9VhXzFGVtB02hVCxee4pcFvcPPTSpdAhm6qtDj+ZvwG374xTtoQspMonQ8x1kO+wpjiW+SmQYUKOweYGzc3qvgraQ62+Ofh2aVuSLELizKXQKsIptiPSClMPtllfGsFqHiT0GywFXwnu7P5MBcReENcVKFusqkoAVaCcFzetsh86A0Q0Z2BubeZWDUZh5g7kbrXMTo5NzjQLcqAh1VCM8ExXjIeGhQpCWGwfuFokCE+Ptg/owwDobgai3orIAO8C9QVqk2AZMgy3iBPsxi0DYNDtao2Eg+HvcZCLy29B/rO0ldBakTe6jkh1VTbpefkWvZ8NRHVU8nJ4nH92jT2nsRNZI9ZrSZ6Pzg03hGrThB3mY69bOpBtgoVpojjyrBcTFZQBoulL2M3sE6SlAqitM0MQ==;hQKgSTjQQy4GBzi1r+5jBg=="

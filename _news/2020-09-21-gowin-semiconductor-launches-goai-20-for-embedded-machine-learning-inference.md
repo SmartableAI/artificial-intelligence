@@ -1,27 +1,23 @@
 ---
 category: news
 title: "GOWIN Semiconductor Launches GoAI 2.0 for Embedded Machine Learning Inference"
-excerpt: "GOWIN Semiconductor Corp., the world’s fastest-growing programmable logic company, releases the latest version of their GoAI machine learning platform, providing an SDK and accelerator to perform machine learning for edge inference using convolutional neural networks on GOWIN FPGAs."
-publishedDateTime: 2020-09-21T07:00:00Z
-originalUrl: "https://apnews.com/globe-newswire/d1e2636d66efe74334839d6e7f1fded5"
-webUrl: "https://apnews.com/globe-newswire/d1e2636d66efe74334839d6e7f1fded5"
+excerpt: "GOWIN GoAI 2.0 offers direct integration into the TensorFlow and TensorFlow Lite Machine Learning Platforms, optimization for targeting GOWIN's GW1NSR4P µSoC FPGA, and an accelerator to offload ..."
+publishedDateTime: 2020-09-21T07:26:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/09/g17578534/gowin-semiconductor-launches-goai-2-0-for-embedded-machine-learning-inference"
+webUrl: "https://www.benzinga.com/pressreleases/20/09/g17578534/gowin-semiconductor-launches-goai-2-0-for-embedded-machine-learning-inference"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17578534"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17578534"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - Machine Learning
-  - AI
   - Google AI
+  - AI
+  - Machine Learning
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "sQsKry7bkJjUr6KOlOr/5WPGO5N4Mlj/KLJQI6uSuFOgNflYeO7z6Z8rX0fQW132osrV1+h5rvLhMYKM9TZ1bidARLbWpIt1SPZs+bejmlvnDwayWaU1IJJ4NOnJRpd5vSaqsXR4edBJlGgJgx0s2m9dwZ08vo63N1LjXuDf5nJw6VL0QvEs1kYq0uVh8blGv8ZRRi+SkS+kCoXnYy8N+JswYHTRqZuXjBYMPu73AE4NX5h77EmzM/JwKk9//nW/WCguhFGdeVpGyz3Dtqoasa+yk4HlJsbgbzLsZZL1Gt0VwiB5uAddfMTd0Z8tSeaO/GB5ImpKHFu9fVwJvrDxe/UqAcKYXJI/5Icbunb2O4s=;ht2f1bgox6gT6pM4Sw9FlQ=="
+secured: "gaimceRL5Jl2kL7z3pX7xCAS1bGZVw3JU6pydOHXuWnbbpPulP0yq4djDfeoKdqZ8lV6t9oa8DBmYCHAevXAemjeinCOfo7mhtIk7tcLJqOWaKjAUv4mmgX6esXsd8hPzd6k/p6yAc00DsY6I/FrUWi66x/n82wKAwkC02OWQYgOvmZh49li88acjFL/p1WxESnNRJYrqcJZRgKY9CStjNEt0rcUwDfgQXpH9MEQwudIl460r0bHZI4GDRULdsk6o3Fgux5Uzk3GNA9DGWCPQ5FO4JTYsO3YrrO+0rtKt4TG1uouAxiOjQv6nUBgX7bRYPe9p0lwo7fTllPlXrPjSAV3MArhOUb/yNhmIjTCgro=;IZhFvsXwMQhlpLjTpK19Nw=="
 ---
 

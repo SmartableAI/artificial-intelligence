@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/tigergraph-highlights-ne
 webUrl: "https://www.marketwatch.com/press-release/tigergraph-highlights-next-generation-graph-and-machine-learning-partnerships-at-graph-ai-world-2020-2020-09-30"
 type: article
 quality: 70
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "TigerGraph Highlights Next-Generation Graph and Machine Learning Partnerships at Graph + AI ..."
-    excerpt: "TigerGraph, the only scalable graph database for the enterprise, today announced that it will showcase multiple key partnerships that are democratizing the use of graph with AI and machine learning at Graph + AI World 2020."
-    publishedDateTime: 2020-09-30T15:00:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-software-artificial-intelligence-81c1e586ca815f19a0089c4cc29cdd48"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 44
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Ecosystem partners and new solutions for AI workloads highlight opening day of VMworld 2020"
     excerpt: "The epic partnership between VMware and AWS really has dominated the discussion the last few years in this ecosystem, and they’re expanding not only with Microsoft Azure, but with Oracle.”"
     publishedDateTime: 2020-09-30T19:00:00Z

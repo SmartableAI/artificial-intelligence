@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Modzy Presenting at NVIDIA GPU Technology Conference"
-    excerpt: "Modzy, the leading enterprise AI platform, today announced that it will be a Global Diamond sponsor of the upcoming NVIDIA GPU Technology Conference (GTC), with workshops and the conference scheduled for Oct."
-    publishedDateTime: 2020-10-02T18:00:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-science-artificial-intelligence-computing-and-information-technology-33bfb90961274c0e84c1c25b2a49fd9c"
+  - title: "Fujitsu accelerates advanced workloads with new NVIDIA GPU-powered Server PRIMERGY GX2460 M1"
+    excerpt: "PRIMERGY GX2460 M1 expands Fujitsu’s range of servers to power artificial intelligence and other GPU-accelerated workloads."
+    publishedDateTime: 2020-10-05T07:06:00Z
+    webUrl: "https://www.itweb.co.za/content/mQwkoq6Pzj673r9A"
+    ampWebUrl: "https://amp.itweb.co.za/content/mQwkoq6Pzj673r9A"
+    cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/mQwkoq6Pzj673r9A"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 48
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.itweb.co.za/static/pictures/2020/10/J8337-PRIMERGY-GX2460.jpg"
+        width: 816
+        height: 395
         isCached: true
 
 secured: "mePgo7da2bX04R652WZ/Gazji5sQYbgXi70P3H8twmL1aWKU5iDmXfyG2RrlY297j3BfiD4IeH3fiBJ/A0Ui+zOBJ9c13O0KC6GRC4qbuky775AB6ZHKWIfGAF8bohGuDaJcraB5blbBKU5TFxy21kenR647qhwWt3LnnXFEc7CrwNIdw/r2ygKLUjLT5urHybxRmuw8QJn6UOL44a07xHnR1r1tU771UsFl01lTFtIdh4FnPnCpxT6vIOALL4ErQZ66t+LoZVJEn2GB6zF3jNfz4UVKRS1fdawqdv0SizXVvHWPkDlql2ahSo3ip90ny7dD6iwnZjDnlI5L4rl/ierf2pNIuu30zblhR7V6/Yc=;qSKV4Yq5uuZusHE7Ufea6Q=="

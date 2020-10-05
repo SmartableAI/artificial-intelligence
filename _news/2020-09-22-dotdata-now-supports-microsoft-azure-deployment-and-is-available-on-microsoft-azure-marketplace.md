@@ -1,26 +1,26 @@
 ---
 category: news
 title: "dotData Now Supports Microsoft Azure Deployment and Is Available on Microsoft Azure Marketplace"
-excerpt: "In addition, dotData has added Microsoft SQL Server and Azure SQL Database connectors which allows users to quickly and easily develop AI/ML models based on data stored in their corporate databases. By choosing the \"Transact\" option on the dotData ..."
-publishedDateTime: 2020-09-22T12:09:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-301135412.html"
-webUrl: "https://www.prnewswire.com/news-releases/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-301135412.html"
+excerpt: "Integration of dotData's AutoML 2.0 platform with Microsoft's highly available, trusted and scalable Azure cloud platform provides increased speed and efficiency of data science and machine learning processes coupled with Azure's strong managed IaaS/PaaS ..."
+publishedDateTime: 2020-09-22T12:30:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace/article_f6c327bd-10d4-5df0-beed-77fd9ceef60a.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace/article_f6c327bd-10d4-5df0-beed-77fd9ceef60a.html"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
-secured: "sDU1Sn63PpNPUqInT5VnieqI2/cNdDHocMgOZudNk0hu6m6y2uRQkp9ZqVtUTj6v9wreRj90j4Znm9YLVis609ICGXkPPmRy86flu5bWtus3jizgk3Cxn3bt6KlgO3bc2xUF2uBtSFreEBfBy5RNnPdVkYjkqUv4CHJMVf2ow0T7jx4y8rKmVmEqT6XPtmCi/uUH6Nq9c+h9Z6/a0W4bALwXQ/Pu2QdlMb2Wh8f7RSR4UW8FyPVU8jb83gqLONdDZsCIi1mmGH40VcVIwCBeHTH2JK7JKSvEW0Kozew5cHgYSGSsL35dNdpkQwgZk8096AyLj+n3SsBTfVNeKrZ6O1vfuA8jiyrowMdFiriI1gw=;K5/aUx6Yo1s38lK+/wR2Rw=="
+secured: "qsu+4Ks7XuJ5QWFk93pPv4dxI0imB1hIQHqfQUl9zUR2GhFVIA66OE3UPPEVR4UCRHy7gbTyE5KkszHcANw657PmdgCMfXdGUcCYr3lH2GH4N3MLYDaf+DXeyzGg+D0gm8rCSTG5K7x5jahanwEp69EMv1uy+kEh3m05lY2ScgLmsJNtgga762R/TFXlA//RvnNReLlst6J+2R23i7ueZwQochEmK0nZ91k04luDrSgUfk8YUABpSl7vPIfB6Nvn/WPzets9JW05UKiKpkmPdylsDmSxzUzbGYWnd9EQ4n8UG7+79rVGLubAnzbeJl/KDHGkn22V2UhG3MyaiegRtg85zrtH4hyTSjL7M9D2jOU=;w1w140n8Ej3iduTeh/Dp/A=="
 ---
 

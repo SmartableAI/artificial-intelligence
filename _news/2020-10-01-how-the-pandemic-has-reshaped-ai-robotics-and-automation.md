@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/video/how-the-pandemic-has-reshaped-ai-robot
 webUrl: "https://www.zdnet.com/video/how-the-pandemic-has-reshaped-ai-robotics-and-automation/"
 type: article
 quality: 99
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2020/09/MIT_AppDCoverARTonly.png"
         width: 1500
         height: 1161
-        isCached: true
-  - title: "Automation & Artificial Intelligence Revolutionize the Cannabis Industry"
-    excerpt: "To some, artificial intelligence (AI) may be categorized next to the likes of Bitcoin and blockchain: it’s just another techie buzz word. For others, artificial intelligence could conjure up images of sentient robots hellbent on world domination."
-    publishedDateTime: 2020-09-30T14:57:00Z
-    webUrl: "https://www.weedworthy.com/the-news/press-releases/automation-artificial-intelligence-revolutionize-the-cannabis-industry"
-    type: article
-    provider:
-      name: weedworthy.com
-      domain: weedworthy.com
-    quality: 38
-    images:
-      - url: "https://420intel.com/sites/default/files/field/image/newwwlumigrow-greenhouse.jpg"
-        width: 700
-        height: 442
         isCached: true
 
 secured: "546RtE1ZGIgiR9PeKmCDfjOevN74dUNZ2vuVHNyxEEDRBzxez//Dcao3bjJSQYQm99EchRN5csAzVLpgvxQLWxMoNGtm2K0QX/TKhdbq8xxP9UjFHxh97n9k7vP7TjzxdS9TBV5sTix19WRsf4yVpJdFgDDsVshCYbCLP/8Nw01B8z02EST1LQd6faFtHs8jZrpmsMhERR56z6irbZ4oImENCjW8/gdkiDoNJPxXcbeGm1D0aFwI/rnqR0xkafuBIOlWS7gHFu17cB0PwNwSXmq+BE+qTTOx7w2sGuedSKTF0/jY8L4t89qf5pByi72JscUL435vHoSfB35gE3IFRgOh1NXhbB2V5mGLPX3jVCD4cD5DXH0B7CU25fVa8DO6ZCnRYKIbjboGTzDsJzOlfhGDEzI2YN4zVVNnKrCNEkA9ezLLe4jJ55plCZzBawlPokPzCna/0cRj0tXppX53jUOvDTNUZNqcHV8wxb31AN7fGVB3HNEhsvBXRASe1D5HUATRzs1kA2+Nsoc+LQ/rBg==;b7ozk7YzJ5jfqHZMjFrGWw=="

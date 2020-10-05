@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "TigerGraph Highlights Next-Generation Graph and Machine Learning Partnerships at Graph + AI ..."
-    excerpt: "TigerGraph, the only scalable graph database for the enterprise, today announced that it will showcase multiple key partnerships that are democratizing the use of graph with AI and machine learning at Graph + AI World 2020."
-    publishedDateTime: 2020-09-30T15:00:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-software-artificial-intelligence-81c1e586ca815f19a0089c4cc29cdd48"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 44
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "driQyGctBhg0m3ZZWZl5KnO4H5JsaQvYN+mpOVLSVpzorR/uW+IFehKxm01E29JS4Ya4mMUa0jsD2FzXJqdPZSrNZijGSr7hohpbsQooGDJEJPGvn61ki1/wAC13mNf5hZPiomjSpDDOhyvo8FXRhUPhtsL3H3d83MCKJJMPy45GjLyHAzYx5/1jbSmCL1ef4xGG3mwCF+KZsHOTOnnFGYeZIPNPNIJ+yrq23Qo+jNoP+wDFqpq/7jWs8r+d/uvujOu+MsaSZX0iOaoFcY0KUvuWboHV0pGdEXQdp/52otouoYT/7TxgnG8ceIcZfW4IyOiV3oT8OIs65zduHOMuX88fdKZIqhT/hSAWt5PuvjNRY6mhzB79D8Ic25SJTgB3jG3GoALPd0qSkO/IAwnV8A1m3HmeXi37pOybG3Nl5cCNa9k4kLEMTm1K/w4Ez4hhUu77reFNoUZlQu3OyfkdOhv5DbONnGjN87vfkPBin1ZeXeJ/oOI+EazIFxlcZibuaNzPMR0KDui44MCKHPwXFA==;1HLy+frBbWCr7Zy02dCAuA=="
 ---
