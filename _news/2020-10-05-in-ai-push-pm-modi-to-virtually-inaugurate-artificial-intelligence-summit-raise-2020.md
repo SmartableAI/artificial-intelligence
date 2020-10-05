@@ -1,32 +1,48 @@
 ---
 category: news
-title: "RAISE 2020: A mega virtual summit on Artificial Intelligence"
-excerpt: "RAISE 2020, a mega virtual summit on Artificial Intelligence will be inaugurated today by Prime Minister Narendra Modi at 7 pm."
-publishedDateTime: 2020-10-05T03:10:00Z
-originalUrl: "https://www.oneindia.com/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html"
-webUrl: "https://www.oneindia.com/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html"
-ampWebUrl: "https://www.oneindia.com/amphtml/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html"
-cdnAmpWebUrl: "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html"
+title: "In AI Push, PM Modi To Virtually Inaugurate Artificial Intelligence Summit 'RAISE 2020'"
+excerpt: "PM Modi will be inaugurating a global virtual summit on Artificial Intelligence named ‘RAISE 2020’ on October 5, which is being organised by the ministry of IT"
+publishedDateTime: 2020-10-05T03:28:00Z
+originalUrl: "https://www.republicworld.com/technology-news/science/raise-2020-pm-modi-inaugurate-virtual-artificial-intelligence-summit.html"
+webUrl: "https://www.republicworld.com/technology-news/science/raise-2020-pm-modi-inaugurate-virtual-artificial-intelligence-summit.html"
+ampWebUrl: "https://www.republicworld.com/amp/technology-news/science/raise-2020-pm-modi-inaugurate-virtual-artificial-intelligence-summit.html"
+cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/science/raise-2020-pm-modi-inaugurate-virtual-artificial-intelligence-summit.html"
 type: article
-quality: 74
-heat: 134
-published: true
+quality: 66
+heat: -1
+published: false
 
 provider:
-  name: Oneindia
-  domain: oneindia.com
+  name: RepublicWorld
+  domain: republicworld.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.oneindia.com/img/400x99/2020/10/raise-1601867009.jpg"
-    width: 400
-    height: 225
+  - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/y9zrndxgu5bjgvbp_1601863474.jpeg?tr=f-jpeg"
+    width: 1242
+    height: 707
     isCached: true
 
 related:
+  - title: "RAISE 2020: A mega virtual summit on Artificial Intelligence"
+    excerpt: "RAISE 2020, a mega virtual summit on Artificial Intelligence will be inaugurated today by Prime Minister Narendra Modi at 7 pm."
+    publishedDateTime: 2020-10-05T03:10:00Z
+    webUrl: "https://www.oneindia.com/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html"
+    ampWebUrl: "https://www.oneindia.com/amphtml/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html"
+    cdnAmpWebUrl: "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html"
+    type: article
+    provider:
+      name: Oneindia
+      domain: oneindia.com
+    quality: 74
+    images:
+      - url: "https://www.oneindia.com/img/400x99/2020/10/raise-1601867009.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "PM Narendra Modi to inaugurate artificial intelligence ‘RAISE’ summit on Oct 5"
     excerpt: "Prime Minister Narendra Modi will inaugurate RAISE 2020, a mega virtual summit on Artificial Intelligence (AI) on October 5."
     publishedDateTime: 2020-10-04T08:45:00Z
@@ -42,22 +58,6 @@ related:
       - url: "https://www.newsx.com/wp-content/uploads/2020/09/modif-703091-C05kaKE3.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "In AI Push, PM Modi To Virtually Inaugurate Artificial Intelligence Summit 'RAISE 2020'"
-    excerpt: "PM Modi will be inaugurating a global virtual summit on Artificial Intelligence named ‘RAISE 2020’ on October 5, which is being organised by the ministry of IT"
-    publishedDateTime: 2020-10-05T03:28:00Z
-    webUrl: "https://www.republicworld.com/technology-news/science/raise-2020-pm-modi-inaugurate-virtual-artificial-intelligence-summit.html"
-    ampWebUrl: "https://www.republicworld.com/amp/technology-news/science/raise-2020-pm-modi-inaugurate-virtual-artificial-intelligence-summit.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/science/raise-2020-pm-modi-inaugurate-virtual-artificial-intelligence-summit.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 66
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/y9zrndxgu5bjgvbp_1601863474.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 707
         isCached: true
   - title: "PM Modi to inaugurate global summit on artificial intelligence on Oct 5"
     excerpt: "New Delhi: Prime Minister Narendra Modi will inaugurate a global virtual summit on Artificial Intelligence (AI), RAISE 2020 - 'Responsible AI for Social Empowerment 2020' on October 5, according to the Ministry of Electronics and Information Technology."
@@ -115,6 +115,6 @@ related:
       domain: hindustantimes.com
     quality: 33
 
-secured: "hQGZEa12zS1xM+5L8LSAjagntQGT2qBpRUBBEy5AweaWb7GweatLalJhB+Mh6Bx2EewKsEjLgluf60JNXiDwnrHwcQ8RaXTwSzmGU6VeIYVy79e5gIWvDqQdTyzc+EwYkBQ2eWiKf/4n3THB7WEQ/TIn52FURTh3ZVN+tTDkIlR8ndgC+JZJwxUgMcn8ZroBRLZK3QyCfdWmRsLQBBXECzbvyw4GhSq/QuyiWurJ6hx6a7oxRZj2V+I1p8NOnIOeEx9gZMekfbOVcxEpF+DSoKle/ajxXH0rMy/A+vEUegXtJCJ1rCnUKH9qrKo56Ik0NiK0iTqDgi/TP52vgr5z7pn0Gn+AylZ3gARJ/3Gg1hP5TQU1wlTyWcvQVUjwYKIO7MrkQiRS61JqR8W4m5/LvOz4K9VbTqla6VQ1m4k+5d6v/75cZUn6N6cw+WHvjEY9Y9UVSMq7UwDJaFTi+ZPzcw0xodd5hu1qj/+vVAJw2PY0jApXBTEwSTZWah2XD+BkXyaNsnsqksMPEG+As9bs9w==;IcOk7+BVnMRoFpb65Ssoug=="
+secured: "OBF9oZxTIOOAGaRHCfZ3+TJzXoZJE7IGX6eEmU5W/F5UwRDGFQC2BtLdWRZSpleednh9xs6AcCK7hrCx24zdBf7Si1lbH+lrtDhz+vNX0RN1mNZGhIKxDClplNQPaSaqGWHjCp6nNUvSSYgqiPva34V1zXHLwgBQAzsrM7QWHJgxpOYdlXDGGwdY6HWjnVcihQ9mrKJIQ6sfk89xNqM9hA8oXRZWkGwfUVAdKuCd9nmI5rKGhQjdOErMTNZAL7M+t6AzTBY6ammfn/p5bjbPv5teXlGVTfJoSxmp++2ROhDxMJC5ozNKy2D+ANZ2nEeZFmsXeXQm0JYvMTXNz2VHkLRsDpSC+TnDM8snpEbZPOI=;4w5PgiueohaceWqut1MNUA=="
 ---
 

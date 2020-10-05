@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/7-artificial-intelligence-stocks-to-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-artificial-intelligence-stocks-to-buy-for-october-2020-10-02?amp"
 type: article
 quality: 71
-heat: 81
+heat: 82
 published: true
 
 provider:

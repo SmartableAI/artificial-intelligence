@@ -75,20 +75,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "3 Fintech Opportunities For Entrepreneurs Beyond 2020"
-    excerpt: "The financial service sector has not been an exception. Banks have closed, at least temporarily, and many other services that users have come to rely on have had hiccups or slowdowns of varying degrees."
-    publishedDateTime: 2020-09-30T12:15:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/3-Fintech-Opportunities-For-Entrepreneurs-Beyond-15606047.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 24
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/33/02/20033671/29/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "How Fintech Companies Are Dealing with New Data Security Challenges"
     excerpt: "Cybercrime is more sophisticated than ever and a new attack occurs every 39 seconds - unfortunately, fintech companies are some of hackers’ favorite targets. This shouldn’t come as a surprise - people are relying on digital money management more,"
     publishedDateTime: 2020-09-30T16:44:00Z

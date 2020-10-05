@@ -7,7 +7,7 @@ originalUrl: "https://www.straitstimes.com/tech/panel-debates-who-is-liable-when
 webUrl: "https://www.straitstimes.com/tech/panel-debates-who-is-liable-when-ai-robots-cause-accidents"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 799
     isCached: true
-
-related:
-  - title: "When artificial intelligence creates art"
-    excerpt: "Intelligent algorithms are used to create paintings, write poems, and compose music. According to a study by an international team of researchers from the Massachusetts Institute of Technology (MIT),"
-    publishedDateTime: 2020-09-30T12:59:00Z
-    webUrl: "https://www.mpg.de/15455301/0929-bild-134137-artificial-intelligence-in-art-a-simple-tool-or-creative-genius1"
-    type: article
-    provider:
-      name: Max Planck Society
-      domain: www.mpg.de
-    quality: 39
-    images:
-      - url: "https://www.mpg.de/15454976/original-1601457345.png"
-        width: 1019
-        height: 1023
-        isCached: true
 
 secured: "o89dId6oLSnnu7jzhe6dVGyw6Zei7hdRbZ87wMumhjzUrsdJ9t77o3ld2e8MGDIpXUUT104FfaEqvdUx43XtcXfJqewS30iwwy2TNnOa2TkDUl2xuexzOOOPgUPRc0YUGg+YIWs1yDjncotbht5AXHePT9rcj5iWNvXiIcBmFSQz6rLOHDTicq5Ydng6OHO3AlIzUfi6OpqmXixATPBfVPh+19DQGJ3sXV8Ln7PSjSMS4RsjAKuGdSYa6zt1rsIqNiK+kt2DBkiIvQtPKPArqaspXZMKKnT9EnSUPISvj2P16tXFdL8tVbFBtOxLhlqFG2k53s0XL0x/hZ4jyvfYTjd6F5jBbra9z+5H/kL8250=;nFP44qWTQ5fTD3GC18h1rw=="
 ---

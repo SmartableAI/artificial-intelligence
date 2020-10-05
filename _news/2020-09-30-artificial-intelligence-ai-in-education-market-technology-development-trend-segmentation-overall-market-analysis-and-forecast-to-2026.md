@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2147295/artificial-intelligence-ai-in-edu
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2147295/artificial-intelligence-ai-in-education-market-technology"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -27,20 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Market Insights on Fortified Dairy Products Market and Forecast Assumptions"
-    excerpt: "Particularly in healthcare, Artificial Intelligence (AI), is expected to bring revolutionary changes in terms of reduction in terms of healthcare cost reduction and quality treatment in the region. This report defines, describe, and forecast the overall ..."
-    publishedDateTime: 2020-09-30T11:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-insights-on-fortified-dairy-products-market-and-forecast-assumptions-2020-09-30"
+  - title: "Global Artificial Intelligence Software Market Analysis of Major Segments and Future Opportunity Assessment 2020-2025"
+    excerpt: "The contemporary development prediction report titled Global Artificial Intelligence Software Market 2020 by Company, Regions, Type and Application, Forecast to 2025 provides an all-inclusive research study that covers current facts and statistics about the production and application in the Artificial Intelligence Software market."
+    publishedDateTime: 2020-10-03T00:26:00Z
+    webUrl: "https://ipsnews.net/business/2020/09/30/global-artificial-intelligence-software-market-analysis-of-major-segments-and-future-opportunity-assessment-2020-2025/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 0
 
 secured: "nI7h7lH7pRRfvOHczLWiH7zbXq/v6XV6l/yAiXBUftsli/nvznOt+1uHUSh7VKU/mqjNzxy5UTBV6Zf1n5wsRmAEL7uob9QejlIfpcFkV6TAyAwPWwZM3jVJwy2cr1g3mkkTQs5j32CDGFUjBztq/KKPYdUbQmcWTn3nH8jOiPaP34cxYiJJmKKz6ZaHFaaLKVSPvOjnosRW3lpQ7ArO4dkjPhSb9fN1TDwQzoxVIq+LADCZVBgqDVroRPIayn814xwsyzGtEdTmbSr/u6vMR5PVxJ0RC2W8wEvOkRdvVYIKJurhyuKR4os9fuVRtLnFLarBfLLJ2IDWHhrOwN1y2EMZoK2ZZV6QGlY4hjLMW6c0aqDxdGQsXybfe+FuWPB437u1jpFki7uU/JNE3MUpDSDWhRpjWBqHkA6DcDL7rWL2bULyVValBCihNk8a5LeHYppJMwuuEeRFLpGozpllz7n7rqyfOWan9RH8/BycTeFbopP4YLASJbe1HfMPDTODvq0/ZY6kSKZ8AJ7mVrFS6Q==;+6UQ2DpMGi5CT1ecZCOQhw=="
 ---

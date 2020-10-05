@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.amp"
 type: article
 quality: 74
-heat: 95
+heat: 94
 published: true
 
 provider:

@@ -1,22 +1,27 @@
 ---
 category: news
-title: "Personalized Learning and Tech Equity Under COVID-19"
-excerpt: "For older students, COVID-19 opens the doors for deep learning that involves solving a complex problem that might encompass economic, health, and social justice challenges. This discussion will address the steps schools need to take to encourage and ..."
-publishedDateTime: 2020-09-30T18:45:00Z
-originalUrl: "https://www.edweek.org/ew/events/summits/personalized-learning-and-tech-equity-under-covid-19.html"
-webUrl: "https://www.edweek.org/ew/events/summits/personalized-learning-and-tech-equity-under-covid-19.html"
+title: "How This Food-Tech Startup Is Using AI & Cloud To Make Cafeterias COVID-Safe"
+excerpt: "Analytics India Magazine got in touch with the founders of the food-tech startup HungerBox to understand the tech behind it."
+publishedDateTime: 2020-10-05T04:32:00Z
+originalUrl: "https://analyticsindiamag.com/how-this-food-tech-startup-is-using-ai-cloud-to-make-cafeterias-covid-safe/"
+webUrl: "https://analyticsindiamag.com/how-this-food-tech-startup-is-using-ai-cloud-to-make-cafeterias-covid-safe/"
 type: article
-quality: 4
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Education Week
-  domain: edweek.org
+  name: Analytics India Magazine
+  domain: analyticsindiamag.com
 
 topics:
-  - Machine Learning
   - AI
+
+images:
+  - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/aim_hungerbx.jpg"
+    width: 1600
+    height: 901
+    isCached: true
 
 related:
   - title: "Artificial intelligence can detect COVID-19 faster and easier"
@@ -63,20 +68,6 @@ related:
         width: 940
         height: 788
         isCached: true
-  - title: "How This Food-Tech Startup Is Using AI & Cloud To Make Cafeterias COVID-Safe"
-    excerpt: "Analytics India Magazine got in touch with the founders of the food-tech startup HungerBox to understand the tech behind it."
-    publishedDateTime: 2020-10-05T04:32:00Z
-    webUrl: "https://analyticsindiamag.com/how-this-food-tech-startup-is-using-ai-cloud-to-make-cafeterias-covid-safe/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 34
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/aim_hungerbx.jpg"
-        width: 1600
-        height: 901
-        isCached: true
   - title: "Augmented Intelligence Market Forecast to 2027 - COVID-19 Impact and Global Analysis"
     excerpt: "The \"Augmented Intelligence Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Technology, Enterprise Size, End-User, and Geography\" report has been added to ResearchAndMarkets.com's offering."
     publishedDateTime: 2020-10-02T09:39:00Z
@@ -100,7 +91,16 @@ related:
         width: 790
         height: 496
         isCached: true
+  - title: "Personalized Learning and Tech Equity Under COVID-19"
+    excerpt: "For older students, COVID-19 opens the doors for deep learning that involves solving a complex problem that might encompass economic, health, and social justice challenges. This discussion will address the steps schools need to take to encourage and ..."
+    publishedDateTime: 2020-09-30T18:45:00Z
+    webUrl: "https://www.edweek.org/ew/events/summits/personalized-learning-and-tech-equity-under-covid-19.html"
+    type: article
+    provider:
+      name: Education Week
+      domain: edweek.org
+    quality: 4
 
-secured: "R3bWyHFmlXtKbXS/3Gr1e1vm7/3HrS9tEHGEloAajS2CFxZgQb+HSXtplrlZteuVYYBCsnvb0//2LK/VHlDYaaZbUZWlkywNVSljwcj4MkmL927wOGkIwVnprtlg+vbMdlfoB38KHmxq3V+Gw5IsDGofUlalqo6UFMziKcl2swTseORjYizFBgca7z0uzzBcWYNCkenvvAd2FSYM3dV29HNAlHFy28FS77Hn5jSKjoWoWcc9SdYOgHzNtLtm5jD/XjLnZTmpCWw14ld+b8NK+Qy6oF/aoZ6ACM1wuACTBTKZGRBp1EvtGAETNONRi4q3ECv5LIjSWcvrDCexU95uIKvAFTUUcEfwZ4rE39sY3zE=;qlpKOWG+i7e+95VYxkBgvA=="
+secured: "rFVIw9RmU8JczH/D7M/REHlkQNbpvPT+a36zpzwfHz8DoB1mzD3z5s6YU3iplCyUDisAYaTTSkl2+oDzi4+xd/M4sBFCVsBQCW9iKuQdKCg+upNRis0DUqOdXaxCkmNkSdc9+k5lLba9Z36Nh5MGFIu6gPRRLwc45ADsGvnQAuvZoXaY/WIoymnQBBdVDBY1OK4MTPEUhse3WHgo+CAO3S3Tl3ndbpS2bf3hyNAalYCFom3PKIp4sP6mN6WaetgYmoIcgleIk9T7f3i8D9aL7GNn1KrRjHV6YjCi1G6wzS8U7wH9VO+JP7Zb7V3zOk4jjB56TpMa8MJBfgfo8qlg/WlGlbczG3ZNORaidHeOp5o=;ulbgvBuQsZ2h/ah7zXf96Q=="
 ---
 

@@ -41,20 +41,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Intelemark's New Microsoft Azure Cloud-Based AI Proprietary Software Fuels International Expansion"
-    excerpt: "Intelemark, a national leader in the lead generation/appointment setting industry for more than 20 years, is pleased to announce the successful implementation of our third generation cloud-based proprietary software."
-    publishedDateTime: 2020-09-30T13:00:00Z
-    webUrl: "https://www.finanzen.net/nachricht/aktien/intelemark-s-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion-9346878"
-    type: article
-    provider:
-      name: Finanzen
-      domain: finanzen.net
-    quality: 55
-    images:
-      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Oracle and Microsoft Introduce Enhanced AI Capabilities for Customer Data Platforms"
     excerpt: "Oracle added machine learning capabilities to its CX Unity product and Microsoft announced a new engagement insights feature for its CDP."
     publishedDateTime: 2020-10-02T10:51:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digit.in/article/amp/apps/56681/microsoft-translator-now
 cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/apps/56681/microsoft-translator-now-support-assamese-language"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft unveils Azure for Operators to unlock 5G potential"
-    excerpt: "Microsoft has announced a new cloud platform called Azure for Operators that has been designed to help telecommunications operators unlock the full potential of 5G. The new offering will help communication service providers create new opportunities and provide core infrastructure,"
-    publishedDateTime: 2020-09-30T11:08:00Z
-    webUrl: "https://www.itpro.co.uk/mobile/5g/357287/microsoft-unveils-azure-for-operators-to-unlock-5g-potential"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 84
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/v1570816662/itpro/2018/08/5g_shutterstock_750428755.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Microsoft Translator adds Assamese, strengthens support for 12 Indian languages"
     excerpt: "Microsoft India has announced the addition of Assamese as the latest Indian language in Microsoft Translator. The Azure-based service will now provide real-time translation and"
     publishedDateTime: 2020-10-04T18:02:00Z
@@ -56,20 +42,6 @@ related:
       - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/04/microsoft.jpg?fit=463%2C260&ssl=1"
         width: 463
         height: 260
-        isCached: true
-  - title: "Microsoft Translator now supports Assamese too"
-    excerpt: "Microsoft India said on Wednesday that it has added Assamese as the latest Indian language in Microsoft Translator, increasing the number of Indian languages it supports to 12. The Azure-based service will now provide real-time translation and transliteration support for the language."
-    publishedDateTime: 2020-09-30T11:54:00Z
-    webUrl: "https://menafn.com/1100880896/Microsoft-Translator-now-supports-Assamese-too"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2020-09/30/I_9ee6f788-9image_story.jpg"
-        width: 400
-        height: 300
         isCached: true
 
 secured: "L4kGg17Lcm0S/WF3bZrKUj1LkUloNAb5EMMFtxqVcWjT/BolbeELY6QfPmD3FmvTxIv5owqT5avDAc7X1VOdBgxN98dzYMfrfN614X9VuN/++ip+i8SCPwDyGI823YMFvxKO9HxLXX6dDm+dAGDKce5PrDMMQWM5XzIh5jjzHzeflUiLRBogO+Q8HvXB6UQNwtdaLRLd60GpWYnMYl+pbWDVsIyMtxpy/SX7NqO0rihFWjOSGQjZalyUT9VqrcV1o0+yZLzGYZj1A91uev5/+vH8lFsiip2tPUnDGVBSRAaWlS/zVw0fLqC/SMWDtmZ/TQNrA1vSpDI7YG4hs8TKq1duJXJe9OKol4h9huaxHDM=;qFJcU3oXB5Z7Qgii+Xyt6w=="

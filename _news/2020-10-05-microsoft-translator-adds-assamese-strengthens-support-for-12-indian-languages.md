@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft unveils Azure for Operators to unlock 5G potential"
-    excerpt: "Microsoft has announced a new cloud platform called Azure for Operators that has been designed to help telecommunications operators unlock the full potential of 5G. The new offering will help communication service providers create new opportunities and provide core infrastructure,"
-    publishedDateTime: 2020-09-30T11:08:00Z
-    webUrl: "https://www.itpro.co.uk/mobile/5g/357287/microsoft-unveils-azure-for-operators-to-unlock-5g-potential"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 84
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/v1570816662/itpro/2018/08/5g_shutterstock_750428755.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Microsoft Translator now support Assamese language"
     excerpt: "The service is available on Microsoft Translator app, add-ins, Office 365, Bing Translator, and through the Azure Cognitive Services Translator API for businesses and developers. Users can translate Assamese text, supported by more than 70 languages ..."
     publishedDateTime: 2020-09-30T18:54:00Z
@@ -57,20 +43,6 @@ related:
       - url: "https://static.digit.in/default/223b47fd8c7f598a1e46c43038d9d58c33f10470.jpeg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Microsoft Translator now supports Assamese too"
-    excerpt: "Microsoft India said on Wednesday that it has added Assamese as the latest Indian language in Microsoft Translator, increasing the number of Indian languages it supports to 12. The Azure-based service will now provide real-time translation and transliteration support for the language."
-    publishedDateTime: 2020-09-30T11:54:00Z
-    webUrl: "https://menafn.com/1100880896/Microsoft-Translator-now-supports-Assamese-too"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2020-09/30/I_9ee6f788-9image_story.jpg"
-        width: 400
-        height: 300
         isCached: true
 
 secured: "kMJpjg58yDt+HIArxn8bhQAWVZpEp4UYjceJQKVrCHBI7g9OeLGc9vFj06I3K3Pq17ezs6u5kccb4POwxYJ+4X37Wg4N7+wRdikKl0cIjKOCaK/D1VKAQu0Ooo7wURXlTZDLzkZuV0FRmz80uh+G0FY4qTw3pecAXs2E+2mQWOSaCmwt8oUNG35AoD7n3mtE1OtRK3crF59Zbv1e9Xa6LUaM2YwD/SE5yh/fjSVUTCzn5J6ZHk6lOrnes8/V6/AqbmNU0B+yhczmay11aZoiauE4bFxGncQuLpatdANc4SUrompoQI4ICamhDC87ocb5fdao5hZJGsD8GXQCI6UtRNhhDrEzTMxm3V/vjocHkfF6aXsMWo+VzIWR5mMnu1nYjH1DqYoUBjNF73FX+dC4Vaum/lmuEbetLlfqxzafko40S8hrF/2VDkVgr/H8PAlh6eyj/jHyGnSlH32m0c0JuoCSf2kM8V8EHZj/uYll1g+WAWjnvy+wGkjCt6TqZGvb6L/eTmnCM16V4MLLLXQbcg==;K8nBo0zdZb9ZglJeAZ9DxA=="

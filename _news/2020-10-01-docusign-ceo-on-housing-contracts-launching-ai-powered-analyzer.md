@@ -7,8 +7,8 @@ originalUrl: "https://www.cnbc.com/video/2020/09/30/docusign-ceo-on-housing-cont
 webUrl: "https://www.cnbc.com/video/2020/09/30/docusign-ceo-on-housing-contracts-launching-ai-powered-analyzer.html"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: CNBC
@@ -26,19 +26,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "DocuSign Analyzer aims to save legal costs, labor with AI-aided contract negotiations"
-    excerpt: "DocuSign is launching DocuSign Analyzer, an artificial intelligence service, that aims to speed up contract negotiations, save billable legal hours and get better terms. The produ"
-    publishedDateTime: 2020-09-30T13:00:00Z
-    webUrl: "https://www.zdnet.com/article/docusign-analyzer-aims-to-save-legal-costs-labor-with-ai-aided-contract-negotiations/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/docusign-analyzer-aims-to-save-legal-costs-labor-with-ai-aided-contract-negotiations/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/docusign-analyzer-aims-to-save-legal-costs-labor-with-ai-aided-contract-negotiations/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 60
 
 secured: "cd943MtDsYaDxHEcnN/58tpt6OFqnhDzBEMtz/z9wbf3gc6XFImH9+Tx3bOR70IAUbf1k4Z83EJB6a8/a5Uk4Rc5pqfn1WMmYt5XAh/I7NmLdfds/yRbhkAtA8RdE4/OI7QY/2NcP/wg1u53Ue4bnUvz1q8KpywIUkB3+SMYWjiHCtwEenie/fA9eQf3S3Ud/RcI5aHxsmFmgf1SVj1u/6NibYk8sI8CDsXsk2nfwS730b5b3Db9cpiAdQAleXH8g9PQ/nrqnIVQyH7Pcei1pYgKsK2t6laC1vCX3tqNLwuw8UeeFclqKj3bTy+Q4xldE3CmrEYQ71/TObgVFcEGZsnHxXYHzX5jUBi8C/aQ4rz+KniVh55X++2qgh2IkqxyycrQnZLKEu0TyLEFG5XxUiatuSwCbusTUGtdsGCntGrmRAipq5WnJwVi2e5myZ1DvtpO6z9FvqCO3qSGKtSxW1Kh4VFreegRqGTEnVpEP+E1oWyk3hcL2gERIrdW39ycXeL/6bEhDTrq4+cB7DTrxQ==;8ud/XeJ/eGLnssIiqTGy0g=="
 ---

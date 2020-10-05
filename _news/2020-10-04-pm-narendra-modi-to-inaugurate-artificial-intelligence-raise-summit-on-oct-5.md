@@ -43,6 +43,22 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "In AI Push, PM Modi To Virtually Inaugurate Artificial Intelligence Summit 'RAISE 2020'"
+    excerpt: "PM Modi will be inaugurating a global virtual summit on Artificial Intelligence named ‘RAISE 2020’ on October 5, which is being organised by the ministry of IT"
+    publishedDateTime: 2020-10-05T03:28:00Z
+    webUrl: "https://www.republicworld.com/technology-news/science/raise-2020-pm-modi-inaugurate-virtual-artificial-intelligence-summit.html"
+    ampWebUrl: "https://www.republicworld.com/amp/technology-news/science/raise-2020-pm-modi-inaugurate-virtual-artificial-intelligence-summit.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/science/raise-2020-pm-modi-inaugurate-virtual-artificial-intelligence-summit.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 66
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/y9zrndxgu5bjgvbp_1601863474.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 707
+        isCached: true
   - title: "PM Modi to inaugurate global summit on artificial intelligence on Oct 5"
     excerpt: "New Delhi: Prime Minister Narendra Modi will inaugurate a global virtual summit on Artificial Intelligence (AI), RAISE 2020 - 'Responsible AI for Social Empowerment 2020' on October 5, according to the Ministry of Electronics and Information Technology."
     publishedDateTime: 2020-10-02T01:50:00Z

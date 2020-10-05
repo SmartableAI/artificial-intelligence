@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/03/nvidias-gtc-event-will-shine-a-sp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/03/nvidias-gtc-event-will-shine-a-spotlight-on-200-ai-startups/amp/"
 type: article
 quality: 91
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -106,15 +106,6 @@ related:
         width: 2696
         height: 1414
         isCached: true
-  - title: "VMware, Nvidia forge partnership to make AI chips easier for business use"
-    excerpt: "VMware Inc. (VMW) and Nvidia Corp. (NVDA) on Tuesday announced a partnership to make VMware's software for managing data centers work more smoothly with Nvidia's artificial intelligence chips ... there are a whole bunch of AI use-case scenarios,\" VMware ..."
-    publishedDateTime: 2020-09-30T12:29:00Z
-    webUrl: "https://www.morningstar.com/news/marketwatch/20200929584/vmware-nvidia-forge-partnership-to-make-ai-chips-easier-for-business-use"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 33
 
 secured: "IwoKifiHrPjjMTRcH1HIR9lOrsxA5OgXpR8C6eT+0g1Qca0E6ZL+IkSPaQQgTeaYyusSMI7HsDENxSuq8aFnZDAFKvO1hdC82TCJtSTX0yi1ySOR0/yGAQBq6zRg6OeOPnle1gYEnpVrtiT3g9IDy/l3mUtI18E856SKH/SL4B0rhO0u8WOajpdu5BbE5fyyEUg0JJmHrAhOORtPS9tA4y6Kx2hpqPO6rAjmoAFbDNOjIi9j5hpS01qjmF/xPFOGtOlBJkZ5tFXH0RnX6pjlCov862GevK1zg9QKrKMOMbepVi7TYay7Ga7I2NMx2H2Gy/Ie4KqmH9bx73iGFkZ8VogbaJqb0CLV0jmhzhbq8viu3TUiU18LOEEBfqbCReS6+YSrVEnkTbvnYaFnKEIdxDpF0D0AzS+yjZjuUkdCBvoXp8GTbXBbi6JzlOJXGrdKu/+tf2fGmQCg1sDV5RQw8Fsl/QYyIu+ywmWgcSCpehdCAPewo0bQXZ9To/KSUGvT5djjUqOygQzhSSgVxg/fgw==;19wdq1N60QR6QfGheokcHg=="
 ---

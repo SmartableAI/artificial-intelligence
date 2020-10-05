@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/02/facebooks-ai-matches-people-in-ne
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/02/facebooks-ai-matches-people-in-need-with-those-willing-to-assist/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Facebook Is Giving Away This Speech Recognition Model For Free"
-    excerpt: "Facebook AI recently introduced and open-sourced wav2vec framework for self-supervised learning of representations from raw audio data."
-    publishedDateTime: 2020-09-30T11:33:00Z
-    webUrl: "https://analyticsindiamag.com/facebook-is-giving-away-this-speech-recognition-model-for-free/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/09/aim_zuck-compressed.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "9805YIfO4ymr8kQ0SrwdXndKKsbDGdU1rgnPrDnnkNAIfpCoMYSYjDBqkL6ow/IUQfvBjRz+ID63WRr3UZ9HocMNWdRz63TuVbndXoIghXRP5J+N4XfHHi3arTuNvkEtSynnFQfcH+kQlzexQikWOnOnX5l65u0qwCkst1pR1mKwGJ7TdIlRoIvilNIUbynbgCBR3+UXj44lhjIUc+wBqfQYKVXYzG/sKlUMUCv9TyoBYRClscXUr7MkCHI/BylS5Zc6aN+xDeaLGV93zvjcDC4GWOIIeTsgzNkL+r3HThZnBXct4lw8tHqeLWKa1U7iR9B0Zv9ce2JAzWOClPoAogOKfW5MaPYxayLUVAILHu4BavlxIR+SlrLJW+9xH4Ff6xv7O5ZGIHRIT0ycUs2iB7+xhk06nCuWnD84PA1zSpOED9C28t93ET4Y31Cy4dhDg8WKy6Sc+WaHo86uOXWt0mX3LNWg4rAzNsV+ceSoFksiQMYk06ygooAuW4k2/nilXijNtklU2Z6Bk4pusBd60g==;XUdfDqC0oIkLrDoxuHvZzA=="
 ---
