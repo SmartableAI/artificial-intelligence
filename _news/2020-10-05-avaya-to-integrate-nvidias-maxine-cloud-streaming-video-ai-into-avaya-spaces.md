@@ -24,6 +24,22 @@ topics:
   - AI
 
 related:
+  - title: "GTC 2020 round-up: Nvidia announces virtual world for robots, AI video calls"
+    excerpt: "Nvidia's GPU Technology Conference, also known as GTC, is all about artificial intelligence. We'll give you a rundown of everything that was announced."
+    publishedDateTime: 2020-10-05T16:22:00Z
+    webUrl: "https://www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 103
+    images:
+      - url: "https://icdn4.digitaltrends.com/image/digitaltrends/nvidia-gtc-2020-jensen-huang-1200x630-c-ar1.91.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Nvidia’s GTC event will shine a spotlight on 200 AI startups"
     excerpt: "More than 200 new artificial intelligence startups will appear at Nvidia's GPU Technology Conference (GTC) in some form from Monday through Friday."
     publishedDateTime: 2020-10-03T16:45:00Z
@@ -70,22 +86,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "NVIDIA Launches The Most Affordable Developer Kit For The AI Community"
-    excerpt: "The Jetson Nano 2GB Developer Kit puts the power of AI in the hands of the masses. With an affordable price tag, it is expected to democratize AI."
-    publishedDateTime: 2020-10-05T13:02:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2020/10/05/nvidia-launches-the-most-affordable-developer-kit-for-the-ai-community/"
-    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/10/05/nvidia-launches-the-most-affordable-developer-kit-for-the-ai-community/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/10/05/nvidia-launches-the-most-affordable-developer-kit-for-the-ai-community/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7b1b0dda4cc8029da27488%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D782%26cropY1%3D58%26cropY2%3D499"
-        width: 782
-        height: 441
-        isCached: true
   - title: "Nvidia says its AI can fix some of the biggest problems in video calls"
     excerpt: "Nvidia has announced a new videoconferencing platform for developers named Nvidia Maxine that it claims can fix some of the most common problems in video calls. Maxine will process calls in the cloud using Nvidia’s GPUs and boost call quality in a number of ways with the help of artificial intelligence."
     publishedDateTime: 2020-10-05T13:03:00Z
@@ -102,84 +102,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "IIT Jodhpur Receives NVIDIA DGX A100 AI System in India"
-    excerpt: "Education News: DGX A100 -- the world's most advanced AI system -- will be accessible to all students at the campus and will facilitate advanced AI research and educa"
-    publishedDateTime: 2020-10-03T05:10:00Z
-    webUrl: "https://timesofindia.indiatimes.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/articleshow/78457955.cms"
-    ampWebUrl: "https://m.timesofindia.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/amp_articleshow/78457955.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/amp_articleshow/78457955.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/photo/msid-78457905/78457905.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Nvidia Partners With GlaxoSmithKline to Use AI for Drug Development"
-    excerpt: "Nvidia also is building what it says is the U.K.'s most powerful supercomputer to help research pressing medical challenges."
-    publishedDateTime: 2020-10-05T15:25:00Z
-    webUrl: "https://www.thestreet.com/investing/stocks/nvidia-nvda-glaxosmithkline-gsk-artifical-intelligence"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/stocks/nvidia-nvda-glaxosmithkline-gsk-artifical-intelligence"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/stocks/nvidia-nvda-glaxosmithkline-gsk-artifical-intelligence"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 59
-    images:
-      - url: "https://content.jwplatform.com/thumbs/jE9Wm8Nj-720.jpg"
-        width: 720
-        height: 406
-        isCached: true
-  - title: "Nvidia Will Help GSK Find New Drugs, With AI and Supercomputers"
-    excerpt: "GSK’s head of AI and machine learning said the Nvidia systems will allow his researchers to search for medicines by poring through vast databases of pathology images and genomic signals."
-    publishedDateTime: 2020-10-05T12:34:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-gsk-supercomputers-computational-drug-discovery-51601904692"
-    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-gsk-supercomputers-computational-drug-discovery-51601904692"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-gsk-supercomputers-computational-drug-discovery-51601904692"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
-    images:
-      - url: "https://images.barrons.com/im-240586/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "NVIDIA Maxine uses AI to improve video calls and conferencing"
-    excerpt: "NVIDIA announced the NVIDIA Maxine platform, which uses AI to improve video calls and streaming ... Developers can apply for early access to NVIDIA Maxine now to start working on integrating the platform with their services and apps."
-    publishedDateTime: 2020-10-05T15:55:00Z
-    webUrl: "https://www.windowscentral.com/nvidia-maxine-uses-ai-improve-video-calls-and-conferencing"
-    ampWebUrl: "https://www.windowscentral.com/nvidia-maxine-uses-ai-improve-video-calls-and-conferencing?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/nvidia-maxine-uses-ai-improve-video-calls-and-conferencing?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 57
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/10/nvidia-maxine.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "VMware Partnership, A Big Win For NVIDIA In AI Chip Market"
-    excerpt: "This partnership is complete in line with NVIDIA’s recent efforts with AI, thus giving it a significant edge in the AI chip industry."
-    publishedDateTime: 2020-10-02T00:00:00Z
-    webUrl: "https://analyticsindiamag.com/vmware-partnership-a-big-win-for-nvidia-in-ai-chip-market/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/VMware-Partnership-A-Big-Win-For-NVIDIA-In-AI-Chips-Market.jpg"
-        width: 1389
-        height: 774
-        isCached: true
   - title: "Arize AI Joins NVIDIA Inception Program"
     excerpt: "Arize AI, today announced it has joined the NVIDIA Inception program, which is designed to nurture startups revolutionizing industries"
     publishedDateTime: 2020-10-02T15:00:00Z
@@ -194,6 +116,38 @@ related:
         width: 2696
         height: 1414
         isCached: true
+  - title: "NVIDIA Announces Partnership with GSK’s AI-Powered Lab for Discovery of Medicines and Vaccines"
+    excerpt: "GSK has recently established a new London- based AI hub, one of the first of its kind, which will leverage GSK’ s significant genetic and genomic data to improve the process of designing and developing transformational medicines and vaccines."
+    publishedDateTime: 2020-10-05T14:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/nvidia-announces-partnership-with-gsks-ai-powered-lab-for-discovery-of-medicines-and"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 37
+  - title: "Nvidia makes advances in DPUs, edge AI, technical collaboration, videoconferencing and drug discovery"
+    excerpt: "Nvidia's GTC conference may be virtual this year, but that hasn't stopped the company making several real announcements. Data centre. Following last week's joint announcement with VMware about the use of DPUs in the data centre,"
+    publishedDateTime: 2020-10-05T14:00:00Z
+    webUrl: "https://www.itwire.com/enterprise-solutions/nvidia-makes-advances-in-dpus,-edge-ai,-technical-collaboration,-videoconferencing-and-drug-discovery.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 24
+    images:
+      - url: "https://www.itwire.com/media/k2/items/cache/ea0cf8fa7dbf9bcbcd95665a78286a58_M.jpg"
+        width: 375
+        height: 231
+        isCached: true
+  - title: "Nvidia launches AI platform to improve video conferencing; Avaya on as partner"
+    excerpt: "Nvidia (NASDAQ:NVDA) Maxine is a cloud-based, GPU-accelerated AI platform that improves video conferencing streaming quality with features that include super-resolution, noise cancellation, and face relighting."
+    publishedDateTime: 2020-10-05T16:08:00Z
+    webUrl: "https://seekingalpha.com/news/3619863-nvidia-launches-ai-platform-to-improve-video-conferencing-avaya-on-partner"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 15
 
 secured: "cOvhknv8Eia5/F4P+Fimno4fQN+CsG/5hEq6/gIQ1XA+fHUA4GmFfuowuGlr9DbTOedUfewmy/6yBWHa4w3ktv7e+V5SiFy175IK00HuzliHRvxzPj1oJ+QfvoY0jtP83YawS44Ibxuu1fKqWyi4n25ugshV4/NNuo3QrtssvWhLKUzWGJtaYBOi094qP54BcuitQZQfaFGEe/aPVmRDU/l9GiSAIJaQrJOI9V/8vEtkTITzBsji1yNPjHj+xLEciT7Y8wtsIC6yc/frTmNs0OrfjRwqMt2gk/Hh9J0qgYFPXH+ETcyGqs81sRhUeAa2VbbvybCziwi5t67ZVex17VT0+j/nASF1Vv3oEXAshBiPJ97AMgb0D/HCrEuXl14yUeM7Aqb/bTfo6IatYSeXowCbAUfVMWUt0SCY9HlkKsKBeopPDL8bEnLi545IKvnfnb+8tGMbsKjlQtS5rK0URjMP/fHKGgnfD4mQlkV/RUJWBg3cGt3VvmEFw2fcLAHEeGPPyrkZr0f4tBv03iEu0A==;qAiRWmwkxSATaBSfnTvwYQ=="
 ---

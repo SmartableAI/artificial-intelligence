@@ -53,7 +53,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 101
+    quality: 118
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/10/nvidia-DPU_BlueField-2X.jpg?w=1200&#038;strip=all"
         width: 1200
@@ -74,6 +74,22 @@ related:
       - url: "https://cdn57.androidauthority.net/wp-content/uploads/2020/10/NVIDIA-Jetson-Nano-2GB-Dev-Kit-920x470.jpg"
         width: 920
         height: 470
+        isCached: true
+  - title: "Nvidia uses AI to make video calls way better"
+    excerpt: "The cloud-native platform — named Nvidia Maxine — also offers AI effects including gaze correction, super-resolution, noise cancellation, and face relighting. The system slashes the bandwidth ..."
+    publishedDateTime: 2020-10-05T17:44:00Z
+    webUrl: "https://thenextweb.com/neural/2020/10/05/nvidia-uses-ai-to-make-video-calls-way-better/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/10/05/nvidia-uses-ai-to-make-video-calls-way-better/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/05/nvidia-uses-ai-to-make-video-calls-way-better/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-05T171624.602-796x417.png"
+        width: 796
+        height: 417
         isCached: true
   - title: "Nvidia unveils Jetson Nano 2GB for students and robot hobbyists"
     excerpt: "Nvidia has debuted the Jetson Nano 2GB, a new developer kit for students and hobbyists with an interest in robotics. The Jetson Nano 2GB is geared towards robotics enthusiasts, students, and educators that want to enter the field of artificial intelligence (AI) and robotics."
@@ -103,6 +119,6 @@ related:
         height: 544
         isCached: true
 
-secured: "HoBAncYrqHqauwgioygg8ma0V6GIErQngcbUGh7ReBlHqdNwQmB+C0hry3gVggLLm9MQsvaM1XRnqJJa9IlzlznyuSIh8zdwTsAOg2FW4PQm4n74oQwZv4eI7Su8xF64Ji5LvcG07UMSi2NogD3lbMVev6SwnC3NwpKPZNzxnSCeCIPXKWPzvaHXm0m+6Rse0sY4vc+yQctYbGv7ER3yzvaWELBf1uW3XbcKEm94QKAT4GgU4ROAkdLCpnD7ZP1+JRdGeh1wfnOBXl/HaO/JEmyx5fDfZywQKJS/bWi4HaaKPL+1pI75UyC6W2M9usou/mWj8y/ygeHboIjrC0ZjemW4k0+QyUTfd78H5UA840Y=;0OwN2F9zU0DG7T698zZQcw=="
+secured: "QRacniD7dYv9IV0xqRp/OUC1eyKLGXmxBoXY31hTaKLuccGBbSzd9zKEJ9ergxWe1sVJC+9IpLCjekNee9zDlW4mePVTeN/KiczZlelC11oY+DxyfQPnnmWeRr5cPzbVwEPyXdEWiTTEcX8uoMmshAj02u6ZvlXXboHSUWgcLGGblwNlPTVv5JwMd9Z4bL4600ohNp1AeL5NPzs+e1hPavoZfORxzknhSxFgOlXl0MntLVfK8hg8RdBOk4YdS1Jep6R88FW6no3fZNisk4g0Atd7t/L0BfcDcqt1D1z4l0DjHVnZ2PLmQJJ5Vff/g/t/mw/nE+lcqQWEdkd0L6nysI03/90/ek6EYIKUhDi3NtouCOnqAso3UQtOhz4CsMZX2OmrwK9Bh4keh5VU2DySLWs+2GCMUUeEe+oYtYd7fIKgUPvrFNzs6aA4iktdqOP26GTQaSAdWnHpFzcrTBVbBwjlpl6cxKme05o4GSc9tO4qYHYU6UNsaG4XvEw05T9gSW1Do6zoHMdQpFVP0M2zow==;nD0tFUeH8wCTDnkP6jtD+g=="
 ---
 

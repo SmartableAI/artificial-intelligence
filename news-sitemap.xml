@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.fool.com/investing/2020/10/05/nvidia-is-building-an-ai-supercomputer-for-healthc/</loc>
+    <lastmod>2020-10-05T10:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/</loc>
+    <lastmod>2020-10-05T09:22:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.livemint.com/news/india/want-india-to-become-global-hub-for-artificial-intelligence-pm-modi-11601912327145.html</loc>
+    <lastmod>2020-10-05T08:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.fool.com/investing/2020/10/05/3-top-artificial-intelligence-stocks-to-buy-in-oct/</loc>
     <lastmod>2020-10-05T08:10:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.newindianexpress.com/nation/2020/oct/05/must-protect-world-against-weaponisation-of-artificial-intelligence-pm-modi-2206174.html</loc>
+    <lastmod>2020-10-05T08:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -103,12 +127,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://venturebeat.com/2020/10/03/nvidias-gtc-event-will-shine-a-spotlight-on-200-ai-startups/</loc>
-    <lastmod>2020-10-03T09:45:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.forbes.com/sites/lanceeliot/2020/10/03/tire-blowouts-could-cause-self-driving-cars-to-go-astray/</loc>
     <lastmod>2020-10-03T08:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -123,6 +141,12 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-economic-perspective-and-forecast-to-2026-microsoft-aws-xero-intuit-sage-osp-uipath-koreai-2020-10-03?mod=mw_quote_news</loc>
     <lastmod>2020-10-03T00:24:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://timesofindia.indiatimes.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/articleshow/78457955.cms</loc>
+    <lastmod>2020-10-02T22:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -787,6 +811,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.morningstar.com/news/business-wire/20200929005358/artificial-intelligence-technology-solutions-partners-with-centralized-vision-to-expand-premium-service-offerings</loc>
+    <lastmod>2020-09-29T06:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://techcrunch.com/2020/09/29/irobot-cofounder-helen-greiner-named-ceo-of-robotic-gardening-startup-tertill/</loc>
     <lastmod>2020-09-29T05:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1027,8 +1057,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/09/g17674891/worldwide-voice-recognition-biometrics-market-is-forecast-to-grow-by-usd-2-60-billion-during-2020-</loc>
-    <lastmod>2020-09-28T04:23:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/worldwide-voice-recognition-biometrics-market-is-forecast-to-grow-by-usd-2-60-billion-during-2020-2024-progressing-at-a-cagr-of-19-1029626428</loc>
+    <lastmod>2020-09-28T04:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1495,14 +1525,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.commsmea.com/business/opinion/22450-four-steps-to-accelerate-your-machine-learning-journey</loc>
-    <lastmod>2020-09-24T01:10:00-07:00</lastmod>
+    <loc>https://www.marketwatch.com/press-release/tomorrow-socratesai-to-host-webinar-giving-your-company-a-single-voice-2020-09-21</loc>
+    <lastmod>2020-09-24T01:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/tomorrow-socratesai-to-host-webinar-giving-your-company-a-single-voice-2020-09-21</loc>
-    <lastmod>2020-09-24T01:02:00-07:00</lastmod>
+    <loc>https://www.itp.net/news/93915-four-steps-to-accelerate-your-machine-learning-journey</loc>
+    <lastmod>2020-09-24T00:44:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1891,8 +1921,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace/article_f6c327bd-10d4-5df0-beed-77fd9ceef60a.html</loc>
-    <lastmod>2020-09-22T05:30:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572</loc>
+    <lastmod>2020-09-22T05:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

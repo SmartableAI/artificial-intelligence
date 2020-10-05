@@ -49,7 +49,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 37
+    quality: 35
     images:
       - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
         width: 2698

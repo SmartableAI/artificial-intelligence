@@ -43,6 +43,15 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "India will soon become global hub for Artificial Intelligence, PM hopes"
+    excerpt: "Prime Minister Narendra Modi on Monday hoped that India will soon become a global hub for Artificial Intelligence and many more Indians will start working on this, in the times to come."
+    publishedDateTime: 2020-10-05T17:03:00Z
+    webUrl: "https://uniindia.com/news/india/pm-artificial-intelligence-summit/2189111.html"
+    type: article
+    provider:
+      name: United News of India
+      domain: uniindia.com
+    quality: 17
 
 secured: "CKDo8bsXUDguHypBZZUgEELZLeLakh7pqzV55dMW88Tl/Kk4dQDAQXRv4JOyqTaqqyanECUOZfr4SzJdVsDDYkn90e14WadjS3DcGKn3VVidPpcgHbAWVpBA1p0sThOjIy2B45qknbd2h/mt8yU044g9gJOFD3mMNXO5s2P/KyxVnpBmjaXI+ZRC25wuLBiZDgVEbiep1spimND8VQoPjzrsptv+1kFZDI9CYOiJlLiL1q8pZ6245hmGbEEdBGe7wxktj8Y5Aaq2eFFSjyZciCC3Cs+lDKZ+Kk2hwU0e/XO75T4nQ1PV9JvN9gwwPopCPn3InWo1wRp4psibB1OeubB5Sb/HOOCYbvh4JrDCUlE=;XHB1OQQpDyxNrMb0Tsp7wg=="
 ---

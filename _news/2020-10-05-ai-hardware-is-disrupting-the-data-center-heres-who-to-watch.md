@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-05T15:19:00Z
 originalUrl: "https://datacenterfrontier.com/ai-hardware-is-disrupting-the-data-center-heres-who-to-watch/"
 webUrl: "https://datacenterfrontier.com/ai-hardware-is-disrupting-the-data-center-heres-who-to-watch/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://datacenterfrontier.com/wp-content/uploads/2019/11/groq-tsp-chip-web.jpg"
@@ -24,6 +25,6 @@ images:
     height: 423
     isCached: true
 
-secured: "fLBsWFFMIKzupZUuneHGBrXwLDaK2A+lw1ujSoTFV88ST1qcfqYnN2OYuC69l+l6oeTwtUsPvYObQ6UVtf6mZ5HW6JG1B8vYiCXZngD5QR1Z8yvMMRLyTbL6hioAhbme4iAm08pXRbDdnxJKhNcewDDLvSXPsz4cGXD8uND2jOG4neBlQQoSC++zzFbuw8VtonnNY8ciHmxxXm4owuqbERM5eHJYIdRePrMYwaq0hCotiZ+39fcmtI9PLe+Jrvu+6+Tssm7Wo0RRbewYgCjEcEihIDWY7Mw6Qt8uSHZZ61vdw5B/poHIiNkPCyuFM9HvKhGECV+gu/BoiH9SWhUyN3JHrA+LtxFSGCFYe0OECsE=;yQI6ksVQjUq+cCn6QRbE9g=="
+secured: "UlDIaopCpw2CqaitcJ1MKVDiDnpOFppwUoDAKGokDCfGIlEHOJi3tO2CF7LeKJM9eN9HwWDVI5wZowmMcy3pTeM9fFeUrRjtHMShbS1iQslFIMPUcVyHR0VVeEvAAXeXQ5u9uEDEGXA5iDcizECekiYjky0B6czA9AfBCl0RqDaU+4068IQHfeu6cpRikuyLe1KtOD7546hqo2+MuiWTay+HSTZ6MshhSXl4hwo9tFWEOOpCy0hWV8q4/ZC8SiJDGYFoFQk8cxhwVqRvXFQgZHYWS7WQ9FUfrB9KwvdcddhDK97ZcNi7o7khbe71I8isGb6KpiSjUrJM3gd4XS3rEQuy1Dh7EY3sktKCTk/qa0fc6pIBt3LPqDuM3ulA3TeK2jhabrUjM8j36dMe/VGsolqDn+b3ZjW0XmlWFd2r6uVsXFDbGdlq2+QNaN2QFeUkJNVHqUp0MXGoKd8WyG0FK+/eEA3KIy50lNjfXLOVj405aVAmKew2LVweKHFO2rH43mPbQf/qBCX9d++t3jRBSw==;kkQ6b0UCxBINCI3WPLqcew=="
 ---
 

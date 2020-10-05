@@ -2,6 +2,216 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2020-09-04-nvidias-new-30-series-gpus-a-possible-headache-for-the-competition-analyst-says-buy.md",
+      "title": "Nvidia’s New 30-Series GPUs a Possible Headache for the Competition; Analyst Says ‘Buy’",
+      "excerpt": "Nvidia’s launched its new PC gaming GeForce graphics processing units, the 2 nd gen GeForce RTX 30 Series – the 3090, 3080 and 3070 GPUs— all based on the compan",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/nvidias-new-30-series-gpus-a-possible-headache-for-the-competition-analyst-says-buy-2020",
+      "originalUrl": "https://www.nasdaq.com/articles/nvidias-new-30-series-gpus-a-possible-headache-for-the-competition-analyst-says-buy-2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/nvidias-new-30-series-gpus-a-possible-headache-for-the-competition-analyst-says-buy-2020?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidias-new-30-series-gpus-a-possible-headache-for-the-competition-analyst-says-buy-2020?amp",
+      "publishedDateTime": "2020-09-03T17:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-04-nvidia-shares-more-details-on-geforce-rtx-30-series-gpus-rtxio-pcie-40-hdmi-21-more.md",
+      "title": "NVIDIA shares more details on GeForce RTX 30 series GPUs; RTXIO, PCIe 4.0, HDMI 2.1 & more",
+      "excerpt": "NVIDIA recently shed some more light on some of the features regarding its GeForce RTX 30 series graphics cards",
+      "sourceUrl": null,
+      "webUrl": "https://www.dsogaming.com/news/nvidia-geforce-rtx-30-series-rtxio-pcie-4-0-hdmi-2-1/",
+      "originalUrl": "https://www.dsogaming.com/news/nvidia-geforce-rtx-30-series-rtxio-pcie-4-0-hdmi-2-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dsogaming.com/wp-content/uploads/2020/09/NVIDIA-Ampere-GPU-general-header-2.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.dsogaming.com/news/nvidia-geforce-rtx-30-series-rtxio-pcie-4-0-hdmi-2-1/amp/",
+      "cdnAmpWebUrl": "https://www-dsogaming-com.cdn.ampproject.org/c/s/www.dsogaming.com/news/nvidia-geforce-rtx-30-series-rtxio-pcie-4-0-hdmi-2-1/amp/",
+      "publishedDateTime": "2020-09-03T17:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dark Side Of Gaming",
+        "domain": "dsogaming.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-04-3-start-ups-selected-for-innovation-challenge.md",
+      "title": "3 start-ups selected for Innovation Challenge",
+      "excerpt": "Three start-ups have been selected to develop proof-of-concept (PoC) systems in the RTX Innovation Challenge in Computer Vision that aerospace and defence company Raytheon Technologies had ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/news/cities/Hyderabad/3-start-ups-selected-for-innovation-challenge/article32518345.ece",
+      "originalUrl": "https://www.thehindu.com/news/cities/Hyderabad/3-start-ups-selected-for-innovation-challenge/article32518345.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th.thgim.com/static/theme/default/base/img/og-image.jpg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/news/cities/Hyderabad/3-start-ups-selected-for-innovation-challenge/article32518345.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Hyderabad/3-start-ups-selected-for-innovation-challenge/article32518345.ece/amp/",
+      "publishedDateTime": "2020-09-03T16:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-04-ndivision-inc-lane-sorgen-appointed-to-chief-revenue-officer.md",
+      "title": "nDivision Inc. Lane Sorgen Appointed to Chief Revenue Officer",
+      "excerpt": "DALLAS, TX / ACCESSWIRE / September 3, 2020 / nDivision Inc. (OTCQB:NDVN), the experts in using “digital labor” to reduce costs and increase service levels, today announced the appointment of Lane Sorgen to Chief Revenue Officer.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/8cadd96d703080b0c317174623ac1fcb",
+      "originalUrl": "https://apnews.com/8cadd96d703080b0c317174623ac1fcb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-03T15:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-04-were-entering-the-ai-twilight-zone-between-narrow-and-general-ai.md",
+      "title": "We’re entering the AI twilight zone between narrow and general AI",
+      "excerpt": "OpenAI's GPT-3 transcends the definition of narrow AI. It doesn't qualify as general AI, but it's the first clear sign that we've begun the shift.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/03/were-entering-the-ai-twilight-zone-between-narrow-and-general-ai/",
+      "originalUrl": "https://venturebeat.com/2020/09/03/were-entering-the-ai-twilight-zone-between-narrow-and-general-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/halfway.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/03/were-entering-the-ai-twilight-zone-between-narrow-and-general-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/03/were-entering-the-ai-twilight-zone-between-narrow-and-general-ai/amp/",
+      "publishedDateTime": "2020-09-03T14:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-04-israels-rafael-anyvision-to-form-face-recognition-jv-for-defence.md",
       "title": "Israel's Rafael, AnyVision to form face recognition JV for defence",
       "excerpt": "Israel's Rafael Advanced Defense Systems said on Thursday it planned to establish a joint venture with startup AnyVision to apply facial recognition technologies to military systems, while AnyVision raised $43 million in a private funding round.",
@@ -935,224 +1145,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-nitda-set-to-establish-centre-for-artificial-intelligence-robotics.md",
-      "title": "NITDA set to establish centre for Artificial Intelligence, robotics",
-      "excerpt": "In a bid to achieve a robust digital economy, the NITDA is set to establish a Centre for Artificial Intelligence and Robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vanguardngr.com/2020/09/nitda-set-to-establish-centre-for-artificial-intelligence-robotics/",
-      "originalUrl": "https://www.vanguardngr.com/2020/09/nitda-set-to-establish-centre-for-artificial-intelligence-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2020/09/EDoWmv9WwAAdlQf.jpg?fit=1024%2C683&ssl=1",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.vanguardngr.com/2020/09/nitda-set-to-establish-centre-for-artificial-intelligence-robotics/amp/",
-      "cdnAmpWebUrl": "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/09/nitda-set-to-establish-centre-for-artificial-intelligence-robotics/amp/",
-      "publishedDateTime": "2020-09-03T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vanguard",
-        "domain": "vanguardngr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-google-clouds-ai-is-being-used-by-the-us-government-to-improve-the-accuracy-of-cancer-diagnoses.md",
-      "title": "Google Cloud's AI is being used by the US government to improve the accuracy of cancer diagnoses",
-      "excerpt": "The US Department of Defense is using Google Cloud's AI tools to research if they can enhance the accuracy of cancer diagnoses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-cloud-nabs-government-deal-for-cancer-research-2020-9",
-      "originalUrl": "https://www.businessinsider.com/google-cloud-nabs-government-deal-for-cancer-research-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ee917341918243f207cec86?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-03T06:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-tech-stocks-5g-will-live-up-to-all-the-hype-heres-how-to-invest.md",
-      "title": "Tech stocks: 5G will live up to all the hype – here's how to invest",
-      "excerpt": "Taken together they are central to realising the potential from the key digital themes such as big data, artificial intelligence ... uses are discovered. For driverless vehicles, 5G is a big ...",
-      "sourceUrl": null,
-      "webUrl": "https://moneyweek.com/investments/stocks-and-shares/tech-stocks/601939/5g-will-live-up-to-the-hype-heres-how-to-invest",
-      "originalUrl": "https://moneyweek.com/investments/stocks-and-shares/tech-stocks/601939/5g-will-live-up-to-the-hype-heres-how-to-invest",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.moneyweek.com/image/private/s--ULKxhs4q--/v1599129501/1015_MW_P20_Cover-Story.jpg",
-          "width": 1408,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://moneyweek.com/investments/stocks-and-shares/tech-stocks/601939/5g-will-live-up-to-the-hype-heres-how-to-invest?amp",
-      "cdnAmpWebUrl": "https://moneyweek-com.cdn.ampproject.org/c/s/moneyweek.com/investments/stocks-and-shares/tech-stocks/601939/5g-will-live-up-to-the-hype-heres-how-to-invest?amp",
-      "publishedDateTime": "2020-09-03T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MoneyWeek",
-        "domain": "moneyweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-scalise-hit-with-ethics-complaint-over-doctored-barkan-video.md",
-      "title": "Scalise hit with ethics complaint over doctored Barkan video",
-      "excerpt": "The House Democratic campaign arm has filed a formal ethics complaint against Republican Whip Rep. Steve Scalise (La.), who shared a video doctored to alter the wording of a question posed by activist Ady Barkan to former Vice President Joe Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/latino/514923-scalise-hit-with-ethics-complaint-over-doctored-barkan-video",
-      "originalUrl": "https://thehill.com/latino/514923-scalise-hit-with-ethics-complaint-over-doctored-barkan-video",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/scalisesteve_08242020hilltv.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/latino/514923-scalise-hit-with-ethics-complaint-over-doctored-barkan-video?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/latino/514923-scalise-hit-with-ethics-complaint-over-doctored-barkan-video?amp",
-      "publishedDateTime": "2020-09-03T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-altigen-acquires-blue-pandas-coreinteract-platform.md",
-      "title": "Altigen Acquires Blue Panda’s CoreInteract Platform",
-      "excerpt": "Adds Microsoft Teams Digital Customer Engagement Applications to Altigen’s Cloud Solutions Portfolio MILPITAS, CA / ACCESSWIRE / September 3, 2020 / Altigen Communications, Inc. (OTCQB:ATGN), a Silicon Valley-based Microsoft ISV and Cloud Solutions provider,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/4dcb5edf5403fc47bdd3c3764f186ac8",
-      "originalUrl": "https://apnews.com/4dcb5edf5403fc47bdd3c3764f186ac8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-03T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

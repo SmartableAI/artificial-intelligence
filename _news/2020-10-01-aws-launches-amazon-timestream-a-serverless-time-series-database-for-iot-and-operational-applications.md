@@ -37,15 +37,6 @@ related:
       domain: zdnet.com
     quality: 69
   - title: "AWS Announces General Availability of Amazon Timestream"
-    excerpt: "Stockhouse.com use cookies on this site. By continuing to use our service, you agree to our use of cookies. Cookies are used to offer you a better browsing experience and to analyze our traffic. We also use them to share usage information with our"
-    publishedDateTime: 2020-09-30T23:43:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2020/09/30/aws-announces-general-availability-of-amazon-timestream"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 34
-  - title: "AWS Announces General Availability of Amazon Timestream"
     excerpt: "including services like AWS IoT Core (for IoT data collection), Amazon Kinesis and Amazon MSK (for streaming data), Amazon QuickSight (for serverless Business Intelligence), and Amazon SageMaker ..."
     publishedDateTime: 2020-10-01T17:29:00Z
     webUrl: "https://www.morningstar.com/news/business-wire/20200930006011/aws-announces-general-availability-of-amazon-timestream"

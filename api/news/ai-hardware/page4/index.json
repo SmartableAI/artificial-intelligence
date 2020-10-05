@@ -2,6 +2,99 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-02-mediatek-qualcomm-intro-ai-chips-for-gaming-smartphones.md",
+      "title": "MediaTek, Qualcomm intro AI chips for gaming smartphones",
+      "excerpt": "MediaTek and Qualcomm have introduced their new AI-capable mobile SoC chips designed specifically for gaming smartphones - the Helio G95 and Snapdragon 732G respectively.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20200902PD206.html",
+      "originalUrl": "https://www.digitimes.com/news/a20200902PD206.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitimes.com/newsshow/20200902PD206_files/1_b.jpg",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-01T21:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-global-edge-ai-chips-market-2020-industry-key-player-trend-and-segmented-data-demand-and-forecast-by-2025.md",
+      "title": "Global Edge AI Chips Market 2020 Industry Key Player, Trend and Segmented Data, Demand and Forecast by 2025",
+      "excerpt": "Global Edge AI Chips Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2025 includes an overview of the basic industry information, business development, market size, and share scenario.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-edge-ai-chips-market-2020-industry-key-player-trend-and-segmented-data-demand-and-forecast-by-2025-2020-09-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-edge-ai-chips-market-2020-industry-key-player-trend-and-segmented-data-demand-and-forecast-by-2025-2020-09-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-01T20:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-02-get-amplified-with-zotac-gaming-geforce-rtx-30-series.md",
       "title": "Get Amplified with ZOTAC GAMING GeForce RTX™ 30 Series",
       "excerpt": "The GeForce RTX 3090, 3080, and 3070 represent the greatest GPU generational leap in the history of NVIDIA. The Fastest GPU For Gaming The ZOTAC GAMING GeForce RTX 30 Series introduces a fresh ...",

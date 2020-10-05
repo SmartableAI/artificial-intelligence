@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "This month in AWS Machine Learning: September 2020 edition"
-    excerpt: "Every day there is something new going on in the world of AWS Machine Learning—from launches to new use cases to interactive trainings. We’re packaging some of the not-to-miss information from the ML Blog and beyond for easy perusing each month. Check back at the end of each month for the latest roundup."
-    publishedDateTime: 2020-09-30T23:14:37Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-machine-learning-september-2020-edition/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 106
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/30/202431_AWS_ML_Monthly_blog_post_visual_sept-01-1260x630.png"
-        width: 1260
-        height: 630
-        isCached: true
   - title: "The 18 Largest US Tech Startup Funding Rounds of September 2020"
     excerpt: "Everything you need to need to know about the largest US startup funding rounds of September 2020; broken down by industry, stage, investors, and"
     publishedDateTime: 2020-10-02T16:40:00Z
@@ -54,6 +40,31 @@ related:
         width: 1000
         height: 525
         isCached: true
+  - title: "These are the 15 Largest NYC Tech Startup Funding Rounds of Q3 2020"
+    excerpt: "Everything you need to need to know about the largest NYC startup funding rounds of Q3 2020; broken down by industry, stage, investors, and"
+    publishedDateTime: 2020-10-05T15:29:00Z
+    webUrl: "https://www.alleywatch.com/2020/10/nyc-startup-funding-top-largest-q3-2020-vc/16/"
+    ampWebUrl: "https://www.alleywatch.com/2020/10/nyc-startup-funding-top-largest-q3-2020-vc/amp/"
+    cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2020/10/nyc-startup-funding-top-largest-q3-2020-vc/amp/"
+    type: article
+    provider:
+      name: alleywatch.com
+      domain: alleywatch.com
+    quality: 42
+    images:
+      - url: "https://cdn.alleywatch.com/wp-content/uploads/2020/08/8_2_NYC-TECH-NEWS.002-768x412.jpeg"
+        width: 768
+        height: 412
+        isCached: true
+  - title: "On the move: The North Texas tech and startup hires and departures in September"
+    excerpt: "As the unemployment rate in North Texas continues to decline, the local tech and startup scene is reflecting that with a number of new hires last month. While September saw layoffs at a couple companies with local ties,"
+    publishedDateTime: 2020-10-03T12:34:00Z
+    webUrl: "https://www.bizjournals.com/dallas/inno/stories/roundups/2020/10/03/startup-tech-hiring-roundup-north-texas.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "pFW4ZRiqqF6sVXtKOKi/MZ4dDcA8PBFPmdQhIzdl1e1k/dptVfey99HcdRWGzLgncPNky6smFbBBapBdz8Uw9moVTIqVITMDuI+uD4B3t1cv2Uud9ZSAyt45nKRApEmSA7TzC2D5V5Ls6jTgHDuSKjn/aZrSr8Huiq0OZWkdnPaiYxtiFaitFW4xHIBod39j2a7dO5sqTDm59reUMjdnPv5Hd6b/5ZZqlbg5+BvnhR4Y4EwHxXnK0DUQaJHDvbk7iafWr+R2gLWSV8Fb0vuRJZ+7eFByDLws4K9BnTHK2w230jeZMcfY8eC7YP0e2FxpAkFcZLANOP3Ce3xkfuu/2Zjs3G97X3scckoLuGge7eiZ32vtww65ASxJNKTsewmD5S6VlfbgNXI6d1eeS+8UvqDMRrWSnE8o2F4hjvZJEvGzm1qjT6FKHAB7+R+CwzwiooutTePZVN7sj5ssAWyFenskCs+JSBqMJbC72WoijLKCIX2SPSLnIGiLPvNvwZW2e8O7llhtOMCy3W/ZeA/iew==;nF/XhsiG/3g1XcPwrelgoA=="
 ---

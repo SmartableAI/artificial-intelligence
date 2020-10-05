@@ -30,15 +30,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
-  - title: "AWS Announces General Availability of Amazon Timestream"
-    excerpt: "Stockhouse.com use cookies on this site. By continuing to use our service, you agree to our use of cookies. Cookies are used to offer you a better browsing experience and to analyze our traffic. We also use them to share usage information with our"
-    publishedDateTime: 2020-09-30T23:43:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2020/09/30/aws-announces-general-availability-of-amazon-timestream"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 34
   - title: "AWS launches Amazon Timestream, a serverless time series database for IoT and operational applications"
     excerpt: "AWS announced the general availability of Amazon Timestream, a new time series database for IoT and operational applications."
     publishedDateTime: 2020-10-01T08:25:00Z

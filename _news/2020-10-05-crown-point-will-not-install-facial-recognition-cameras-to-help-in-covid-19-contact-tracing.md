@@ -43,20 +43,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "IBM: Covid-19 pushes robots, contactless payment options"
-    excerpt: "Delivery robots, contactless payment, remote work, advanced supply chain operations and telehealth are among the top technology trends to watch in the wake of the coronavirus pandemic, says IBM Thailand."
-    publishedDateTime: 2020-10-01T02:45:00Z
-    webUrl: "https://www.bangkokpost.com/tech/1994727/ibm-covid-19-pushes-robots-contactless-payment-options"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 39
-    images:
-      - url: "https://static.bangkokpost.com/media/content/dcx/2020/10/01/3765583_700.jpg"
-        width: 700
-        height: 467
-        isCached: true
 
 secured: "RzXN7W1v/mjC+V/VJiUwPbD817609Wuuj/plwO4IttzKYnejmBmmUG3xwa8oP7w0kX0DP6LobDwvK7vjEXL+xDOm7//RCWrZGYCM7SGBA6P/1EIB208K/oI2+4z4ziyqqZiwt7pyv9Myw2l6osACWeg9HpIJqXVg7Auz66ygGBblYDJs38IWgUEtFWluZ2LaZzXu9WkPnDcMK5JSjmlMn0jB4C7PRxOkNZrm7VRBSup3WEXL058kv1qPPRuhg3NYD4hdjORh/2uf5PP5OZ+9nNY9v/lCYs/j0myD+XPr6gKz+3bNuOWRTu3AYDS4F04ETOgbmjTpCIYEpx/1S/yFsulqFtzDLLx6/BGTucMyeok=;AHKiaI/4Ji6Ei0M2zYBdsw=="
 ---

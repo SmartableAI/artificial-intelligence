@@ -3,13 +3,13 @@ category: news
 title: "Five Australian universities launch project to improve voice assistants for kids"
 excerpt: "A joint project between five Australian universities, called AusKidTalk, has been launched to improve the performance of voice recognition systems when being used by children. The universities involved in AusKidTalk are University of New South Wales,"
 publishedDateTime: 2020-10-02T04:33:00Z
-originalUrl: "https://www.zdnet.com/article/five-australian-universities-launch-project-to-improve-voice-assistants-for-kids/"
-webUrl: "https://www.zdnet.com/article/five-australian-universities-launch-project-to-improve-voice-assistants-for-kids/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/five-australian-universities-launch-project-to-improve-voice-assistants-for-kids/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/five-australian-universities-launch-project-to-improve-voice-assistants-for-kids/"
+originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/five-australian-universities-launch-project-to-improve-voice-assistants-for-kids/"
+webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/five-australian-universities-launch-project-to-improve-voice-assistants-for-kids/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/five-australian-universities-launch-project-to-improve-voice-assistants-for-kids/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/five-australian-universities-launch-project-to-improve-voice-assistants-for-kids/"
 type: article
-quality: 49
-heat: 49
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -24,6 +24,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "2jVUQpf1Gm9wdcliN+2GZwvT8GpzGHk+rLxgN7TP/dXZdReP42LSO8vcjWSNzchUlabRx93zokGQxgYV6V5tIBgE99quxEPEOsdCRE4fJI7VirtzFAe+cYBPuN0sX6WfaEbLWPNRUV6ADtbpeUqXai9KFGOESP26VV8qGND6lGR7mYnfNKrcfdDeeS19blvniIbvyfj6msm2XjC0TpLhvoyOQ7J5FCjVvX0XVL20WHQ3P2Hzu9cWKFSNJex22vu01XyCaEYUAISvFPLIH3TlLPExpsBOlhAqvElQiV6rBPExhj922zvYtsTz7zh+bT679fq7EjwOBIjY+byahx7K8kl/erwBaMqFqpgqDHXz/2HrMmMw49juapwL/RYiRLdDj6R4qHGbCDRUOiYD/WxYOemUS6e49r81q2hB9ouyR+RmjKBcUu+vi3S2HXDOdWbdji/apVSt5zsJHTVIgKSYQ3q7n+9CBQ6oeC8szh9/mioduBgFtOQpn8vBbdZFZ+sN5pvc+rrr4MjAHt7GoVbiLw==;8zod3lo2VVffuhZ1incamA=="
+images:
+  - url: "https://zdnet2.cbsistatic.com/hub/i/2018/07/13/d22ee881-ab07-40cf-b387-011ff629b3bc/screen-shot-2018-07-13-at-15-16-25.jpg"
+    width: 1090
+    height: 696
+    isCached: true
+
+secured: "9LKXnZsRSONxsh69h9GXRbwt2dRW0uCMhaRDVGICNbEL7dlvpD2HEzq9H/rHoHyo3tV83z8qlIOPfeqZj3HxudMFlmeUJXeXvq5c5fGPb7VebB+SwVCNQVCxWKrQx2gcTzGDqwQQm10H8ZDbrjxSO9yKB8Tq8u8315tQ9wPEnxcOHw2fob3Q7NlKrvN5tyYuHZ8O/Gzo1C49u5fj22DHFIQl7Rx0z1Q4dZs2KhfkPYktsQ1CoityzidWWn0AGT70gkVfC0kj4IBcvzorg2FEzie6T+B7g3yc1F+qSo3wMCPqlTT90cY1bStMlwKjX16O93qio1/yI6w6x4jeuIzDYbrZ9ldECwRGXxk47O8vqqk=;Zkdbm1RBxScuWqdJgbOAEw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.alleywatch.com/2020/10/nyc-startup-funding-top-largest-q
 cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2020/10/nyc-startup-funding-top-largest-q3-2020-vc/amp/"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,47 @@ images:
     height: 412
     isCached: true
 
-secured: "Hh+3f4iIdNPFAAJUS676S30YmpOHI/yO9s3wE6vBprNRSxbjoaWpeF3UY1WX1WjPNKIWmcvooo5zTZLp9kkwNTQmfZn8xyiWJnnG28I2TB/4+GtbtnDpdzLPL062X82W40gl6T5tAznSsjHdeAwrKkwaWdcffHOG1a/18rM7sZOD16fOCz9ZLDcj8N5XFDD2NEGOp8OE05SkumHDXJdewG7JG4+vJCIXyeFvq5nSJMwkBq6Xntkc5ekmaSlD4dN/DZEp7/A+hfpZ4IC/jjWNb8Eat1wo0dITjcBnvRKxhMI0DRqAGFjLs2QAqV85xAo6+buaXKghe32rTTLmVjMgVNFsWNMLt+0yftWy7Ljtbo0=;UGZJWNzCotF1hsrmif2EiQ=="
+related:
+  - title: "The 18 Largest US Tech Startup Funding Rounds of September 2020"
+    excerpt: "Everything you need to need to know about the largest US startup funding rounds of September 2020; broken down by industry, stage, investors, and"
+    publishedDateTime: 2020-10-02T16:40:00Z
+    webUrl: "https://www.alleywatch.com/2020/10/us-startup-funding-top-largest-september-2020-vc/8/"
+    ampWebUrl: "https://www.alleywatch.com/2020/10/us-startup-funding-top-largest-september-2020-vc/amp/"
+    cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2020/10/us-startup-funding-top-largest-september-2020-vc/amp/"
+    type: article
+    provider:
+      name: alleywatch.com
+      domain: alleywatch.com
+    quality: 42
+    images:
+      - url: "https://cdn.alleywatch.com/wp-content/uploads/2020/10/September-2020-us-top-startup-fundings.jpg"
+        width: 1000
+        height: 525
+        isCached: true
+  - title: "Startup Funding: September 2020"
+    excerpt: "Big investment in EV, batteries, and data center chips as 26 companies raise $2.6B; special look at computer vision funding."
+    publishedDateTime: 2020-10-01T07:04:00Z
+    webUrl: "https://semiengineering.com/startup-funding-september-2020/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 22
+    images:
+      - url: "https://i2.wp.com/semiengineering.com/wp-content/uploads/startup-funding-2020-09-Sep-table1.png?fit=841%2C808&#038;ssl=1"
+        width: 841
+        height: 808
+        isCached: true
+  - title: "On the move: The North Texas tech and startup hires and departures in September"
+    excerpt: "As the unemployment rate in North Texas continues to decline, the local tech and startup scene is reflecting that with a number of new hires last month. While September saw layoffs at a couple companies with local ties,"
+    publishedDateTime: 2020-10-03T12:34:00Z
+    webUrl: "https://www.bizjournals.com/dallas/inno/stories/roundups/2020/10/03/startup-tech-hiring-roundup-north-texas.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
+
+secured: "OB++5mf/5mm+/swEUnPF3TlJD4l5yb4n8QtKB5M3W2VFNJuh5uQ8KomD5s4AEoWYVKIQz0sARznbpPUKeus+ZJsid4zVNmViV5RXrr+bcUG3jiyCo4SdSoLhghMjesq3Vt7cydIP0416ozntsEhDeZCXpwWGSabNeaN+r+S099Ei3kAjauIutEQMZh5Cp500HkpMi232jgKbF6xebcVCmfGduBrbAUv4epbZ9aPFIE7S2BoUJl69KeNtZMeUaqoxeWzfC8EIliIzG2NvlagqiJjxIBiKqB+hRibbWRkmM7rqhByaiy0A99W3V9nulIyMgQXIp/J3954Ynhn1E02O36kHgI+vqL5iVUHc3XpiRQchETGE5/a5znr+dtYJUT4RXmzCMZnVyv17U89F9ANbBFKo4Mq+GQf/gM5inJrbzTe9Min4kOnhudTT+OWGh4QJj7svKrCVuDUgA3tF21DVk0+oeqVwqjwOlffi4O6wF9lEnINBoeBazbCHjemat9aGcpDmpQdOGr59xjRnhUfQPQ==;2x+8FfxiTutsWtWiOoMCcA=="
 ---
 

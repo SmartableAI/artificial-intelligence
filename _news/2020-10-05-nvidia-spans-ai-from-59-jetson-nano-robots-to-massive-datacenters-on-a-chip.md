@@ -8,7 +8,7 @@ webUrl: "https://venturebeat.com/2020/10/05/nvidia-spans-ai-from-59-jetson-nano-
 ampWebUrl: "https://venturebeat.com/2020/10/05/nvidia-spans-ai-from-59-jetson-nano-robots-to-massive-datacenters-on-a-chip/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/05/nvidia-spans-ai-from-59-jetson-nano-robots-to-massive-datacenters-on-a-chip/amp/"
 type: article
-quality: 101
+quality: 118
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/10/nvidia-DPU_BlueField-2X.jpg?w=1200&#038;strip=all"
@@ -62,6 +63,22 @@ related:
       - url: "https://cdn57.androidauthority.net/wp-content/uploads/2020/10/NVIDIA-Jetson-Nano-2GB-Dev-Kit-920x470.jpg"
         width: 920
         height: 470
+        isCached: true
+  - title: "Nvidia uses AI to make video calls way better"
+    excerpt: "The cloud-native platform — named Nvidia Maxine — also offers AI effects including gaze correction, super-resolution, noise cancellation, and face relighting. The system slashes the bandwidth ..."
+    publishedDateTime: 2020-10-05T17:44:00Z
+    webUrl: "https://thenextweb.com/neural/2020/10/05/nvidia-uses-ai-to-make-video-calls-way-better/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/10/05/nvidia-uses-ai-to-make-video-calls-way-better/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/05/nvidia-uses-ai-to-make-video-calls-way-better/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-05T171624.602-796x417.png"
+        width: 796
+        height: 417
         isCached: true
   - title: "Nvidia unveils Jetson Nano 2GB for students and robot hobbyists"
     excerpt: "Nvidia has debuted the Jetson Nano 2GB, a new developer kit for students and hobbyists with an interest in robotics. The Jetson Nano 2GB is geared towards robotics enthusiasts, students, and educators that want to enter the field of artificial intelligence (AI) and robotics."

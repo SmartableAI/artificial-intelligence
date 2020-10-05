@@ -19,38 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "IIT Jodhpur Receives First 'NVIDIA DGX A100' AI Supercomputers In India"
-    excerpt: "NVIDIA DGX A100 features the world’s most advanced accelerator, the NVIDIA A100 Tensor Core GPU, enabling enterprises to consolidate training, inference, and analytics into a unified, easy-to-deploy AI infrastructure that includes direct access to NVIDIA ..."
-    publishedDateTime: 2020-10-01T11:57:00Z
-    webUrl: "https://www.ndtv.com/education/iit-jodhpur-receives-first-nvidia-dgx-a100-ai-supercomputers-in-india"
+  - title: "IIT Jodhpur Receives NVIDIA DGX A100 AI System in India"
+    excerpt: "Education News: DGX A100 -- the world's most advanced AI system -- will be accessible to all students at the campus and will facilitate advanced AI research and educa"
+    publishedDateTime: 2020-10-03T05:10:00Z
+    webUrl: "https://timesofindia.indiatimes.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/articleshow/78457955.cms"
+    ampWebUrl: "https://m.timesofindia.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/amp_articleshow/78457955.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/amp_articleshow/78457955.cms"
     type: article
     provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 39
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://cache.careers360.mobi/media/article_images/2020/10/1/iijbekqg_iit-jodhpur-_625x300_13_January_20.jpg"
-        width: 650
-        height: 400
+      - url: "https://static.toiimg.com/photo/msid-78457905/78457905.jpg"
+        width: 1200
+        height: 900
         isCached: true
-  - title: "Nvidia Says It’s Building UK’s Most Powerful Supercomputer, Dedicated to AI Research in Healthcare"
-    excerpt: "Nvidia announced today at its GPU Technology Conference (GTC) it is building the United Kingdom’s most powerful supercomputer, which it will make available to U.K. healthcare researchers using AI to solve pressing medical challenges,"
-    publishedDateTime: 2020-10-05T14:11:00Z
-    webUrl: "https://insidehpc.com/2020/10/nvidia-says-its-building-uks-most-powerful-supercomputer-dedicated-to-ai-research-in-healthcare/"
+  - title: "AMAX Accelerates Next-Gen AI Computing With NVIDIA A100 GPUs"
+    excerpt: "AMAX's HPC and AI Solutions Group announced its series of next-generation NVIDIA A100 powered server systems that bring AI training, inference, and analytics"
+    publishedDateTime: 2020-10-05T14:34:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amax-accelerates-next-gen-ai-computing-with-nvidia-a100-gpus/article_c0d84a86-fb18-50b0-814c-e0e9d172523d.html"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 22
-  - title: "Nvidia Announces DGX SuperPODs for AI, Available in 20-Node Increments"
-    excerpt: "Nvidia today announced at its GPU Technology Conference (GTC) the Nvidia DGX SuperPOD Solution for Enterprise, the world’s first turnkey AI infrastructure, making it possible for organizations to install incredibly powerful AI supercomputers with extraordinary speed — in many cases in just a few weeks’ time."
-    publishedDateTime: 2020-10-05T14:01:00Z
-    webUrl: "https://insidehpc.com/2020/10/nvidia-announces-dgx-superpods-for-ai-available-in-20-node-increments/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 19
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 34
 
 secured: "HU662ZcVeZbvOeiE7tQMzq2rcXIvnb+fTypXfjsNMKVWig/XAY+a8a7zIF09NfLT1BTqdacGeRcaSQFa52saQmRnbYSC8uJwrz6IemOkfKmLk7WqYQzuu4xafPtu/fyg3F9NqYdYB4k9kiP3quCt+N1DuVq4hNQ4t11Z62Ig2XLkxz0+voZdDud+HvvfXrfKebcrkFYWvj0mN6RGkUcuSybcsH1QWLN1VZmV+c5qWwDVsV9GHNKutuTAc1Ff4uzZ1yM6DBgWpXZJmEq0gWbp5SVVjz0R80IAzdM/tRRNx66EbNsN+9SGVoCeTqx9JDGhm1SNIuoaxjvWBkcmg9s12Yf5oYUteVaVeJPewMOTHFs=;OtB3TD/4RgtI1ww8QJF5oA=="
 ---

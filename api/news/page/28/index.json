@@ -2,6 +2,232 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-09-11-how-google-maps-uses-deepminds-ai-tools-to-predict-your-arrival-time.md",
+      "title": "How Google Maps uses DeepMind’s AI tools to predict your arrival time",
+      "excerpt": "Google Maps is one of the company’s most widely-used products, and its ability to predict upcoming traffic jams makes it indispensable for many drivers. Each",
+      "sourceUrl": null,
+      "webUrl": "https://infosurhoy.com/technology/how-google-maps-uses-deepminds-ai-tools-to-predict-your-arrival-time/",
+      "originalUrl": "https://infosurhoy.com/technology/how-google-maps-uses-deepminds-ai-tools-to-predict-your-arrival-time/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://infosurhoy.com/technology/how-google-maps-uses-deepminds-ai-tools-to-predict-your-arrival-time/amp/",
+      "cdnAmpWebUrl": "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/technology/how-google-maps-uses-deepminds-ai-tools-to-predict-your-arrival-time/amp/",
+      "publishedDateTime": "2020-09-10T12:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoSur Hoy",
+        "domain": "infosurhoy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-new-machine-learning-assisted-method-rapidly-classifies-quantum-sources.md",
+      "title": "New machine learning-assisted method rapidly classifies quantum sources",
+      "excerpt": "Purdue University engineers created a new machine learning-assisted method that could make quantum photonic circuit development more efficient by rapidly preselecting these solid-state quantum emitters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-09/pu-nml091020.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-09/pu-nml091020.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/multimedia/pub/web/242677_web.jpg",
+          "width": 1440,
+          "height": 1094,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-10T12:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-toyota-launches-800m-fund-to-boost-mobility-and-ai-focused-companies.md",
+      "title": "Toyota Launches $800M Fund To Boost ‘Mobility’ And AI-Focused Companies",
+      "excerpt": "The carmaker expects to see a drop in vehicles sold this year, as Covid-19 keeps consumers out of dealerships.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/10/toyota-launches-800m-fund-to-boost-mobility-and-ai-focused-companies/",
+      "originalUrl": "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/10/toyota-launches-800m-fund-to-boost-mobility-and-ai-focused-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5a71f213cf9ccd68ba0d56%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4177%26cropY1%3D0%26cropY2%3D2785",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/10/toyota-launches-800m-fund-to-boost-mobility-and-ai-focused-companies/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenrobinsonjacobs/2020/09/10/toyota-launches-800m-fund-to-boost-mobility-and-ai-focused-companies/amp/",
+      "publishedDateTime": "2020-09-10T11:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-ai-to-take-on-human-pilots-in-real-world-fighter-aircraft-trials.md",
+      "title": "AI to take on human pilots in real-world fighter aircraft trials",
+      "excerpt": "The Pentagon will pit AI against human pilots in real fighter aircraft, Secretary of Defense Mark Esper revealed on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/10/ai-to-take-on-human-pilots-in-real-world-fighter-aircraft-trials/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/10/ai-to-take-on-human-pilots-in-real-world-fighter-aircraft-trials/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/33022138836_f3e61b0ecb_k-796x476.jpg",
+          "width": 796,
+          "height": 476,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/10/ai-to-take-on-human-pilots-in-real-world-fighter-aircraft-trials/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/10/ai-to-take-on-human-pilots-in-real-world-fighter-aircraft-trials/amp/",
+      "publishedDateTime": "2020-09-10T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-mediatek-to-announce-6nm-arm-chips-for-chromebooks-next-year.md",
+      "title": "MediaTek to announce 6nm Arm chips for Chromebooks next year",
+      "excerpt": "MediaTek has had a pretty impressive year in the mobile and TV market. A new report says it plans to launch a new processor for affordable Chromebooks that will be similar to Apple’s upcoming Arm-based processors for MacBooks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2020/09/10/mediatek-to-announce-6nm-arm-chips-for-chromebooks-next-year/",
+      "originalUrl": "https://www.gizmochina.com/2020/09/10/mediatek-to-announce-6nm-arm-chips-for-chromebooks-next-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2020/05/MediaTek-Chipset-White.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-10T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-11-cruises-ai-enables-driverless-vehicles-to-navigate-uncommon-scenarios.md",
       "title": "Cruise’s AI enables driverless vehicles to navigate uncommon scenarios",
       "excerpt": "GM-backed autonomous car startup Cruise uses a framework dubbed the Continous Learning Machine to train perception models on uncommon scenarios.",
@@ -931,235 +1157,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-orchard-raises-69-million-to-develop-machine-learning-for-buying-and-selling-homes.md",
-      "title": "Orchard raises $69 million to develop machine learning for buying and selling homes",
-      "excerpt": "Orchard raised $69 million to continue the development of its machine learning technology that aims to make buying a home less complicated.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/10/orchard-raises-69-million-to-develop-machine-learning-for-buying-and-selling-homes/",
-      "originalUrl": "https://venturebeat.com/2020/09/10/orchard-raises-69-million-to-develop-machine-learning-for-buying-and-selling-homes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/orchard_social-e1599736489458.jpeg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/10/orchard-raises-69-million-to-develop-machine-learning-for-buying-and-selling-homes/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/10/orchard-raises-69-million-to-develop-machine-learning-for-buying-and-selling-homes/amp/",
-      "publishedDateTime": "2020-09-10T04:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-microsoft-nasscoms-futureskills-to-launch-ai-skilling-initiative-in-india.md",
-      "title": "Microsoft, Nasscom’s FutureSkills to launch AI-skilling initiative in India",
-      "excerpt": "Microsoft in collaboration with Nasscom’s FutureSkills will launch a nation-wide initiative in India to skill students in Artificial Intelligence. The initiative aims to skill 1 million students by 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/info-tech/microsoft-nasscoms-futureskills-to-launch-ai-skilling-initiative-in-india/article32569376.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/info-tech/microsoft-nasscoms-futureskills-to-launch-ai-skilling-initiative-in-india/article32569376.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/info-tech/uofolo/article32569375.ece/ALTERNATES/LANDSCAPE_615/BL11AISKILL",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/microsoft-nasscoms-futureskills-to-launch-ai-skilling-initiative-in-india/article32569376.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-nasscoms-futureskills-to-launch-ai-skilling-initiative-in-india/article32569376.ece/amp/",
-      "publishedDateTime": "2020-09-10T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-artificial-intelligence-ai-market-size-growth-trends-and-global-segments-analysis-report.md",
-      "title": "Artificial Intelligence (AI) Market Size, Growth, Trends and Global Segments Analysis Report",
-      "excerpt": "Global Artificial Intelligence (AI) Market valued approximately USD 16 billion in 2016 is anticipated to grow with",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-size-growth-trends-and-global-segments-analysis-report-2020-09-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-size-growth-trends-and-global-segments-analysis-report-2020-09-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-10T03:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-ai-robot-develops-the-perfect-tiktok-song-and-its-very-unusual.md",
-      "title": "AI robot develops the 'perfect TikTok song' - and it's very unusual",
-      "excerpt": "Researchers from AI startup Musiio have used artificial intelligence to develop what they claim is the ‘perfect TikTok song’",
-      "sourceUrl": null,
-      "webUrl": "https://www.mirror.co.uk/tech/ai-robot-develops-perfect-tiktok-22659361",
-      "originalUrl": "https://www.mirror.co.uk/tech/ai-robot-develops-perfect-tiktok-22659361",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.mirror.co.uk/incoming/article19122987.ece/ALTERNATES/s615/0_Tik-Tok-media-App-Illustration.jpg",
-          "width": 615,
-          "height": 409,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.mirror.co.uk/tech/ai-robot-develops-perfect-tiktok-22659361.amp",
-      "cdnAmpWebUrl": "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/tech/ai-robot-develops-perfect-tiktok-22659361.amp",
-      "publishedDateTime": "2020-09-10T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Mirror",
-        "domain": "mirror.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-digital-twin-market-revenue-to-hit-usd-35-bn-by-2026-global-market-insights-inc.md",
-      "title": "Digital Twin Market Revenue to Hit USD 35 Bn by 2026: Global Market Insights, Inc.",
-      "excerpt": "Global Market Insights, Inc. has recently added a new report on the digital twin market which estimates the market valuation for digital",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/digital-twin-market-revenue-to-hit-usd-35-bn-by-2026-global-market-insights-inc-301126999.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/digital-twin-market-revenue-to-hit-usd-35-bn-by-2026-global-market-insights-inc-301126999.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1251273/Global_Market_Insights_Infographic.jpg?p=facebook",
-          "width": 2528,
-          "height": 1324,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-10T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

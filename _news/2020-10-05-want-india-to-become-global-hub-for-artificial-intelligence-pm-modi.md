@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/news/india/want-india-to-become-global-hub-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/want-india-to-become-global-hub-for-artificial-intelligence-pm-modi/amp-11601912327145.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Mint
@@ -43,7 +43,16 @@ related:
         width: 256
         height: 256
         isCached: true
+  - title: "India will soon become global hub for Artificial Intelligence, PM hopes"
+    excerpt: "Prime Minister Narendra Modi on Monday hoped that India will soon become a global hub for Artificial Intelligence and many more Indians will start working on this, in the times to come."
+    publishedDateTime: 2020-10-05T17:03:00Z
+    webUrl: "https://uniindia.com/news/india/pm-artificial-intelligence-summit/2189111.html"
+    type: article
+    provider:
+      name: United News of India
+      domain: uniindia.com
+    quality: 17
 
-secured: "qyE0KLE8+XYlhvJZgCYtU4mJ3o5BZ/imjlGkfEEW45VnWl4anXyLdQaqziRnTbJKrePfKzTF3WzGLyb9oyp7k1ejEVLRUD94rde1T9nKF6CkDiTSedQIYdd8xnoAMmvdXt9yso9H3P0T5hTpwsvjnT40QsS4qBrNhjQZ3vhyZopEkTV6xaVHETU/QHUJpDCs40YSY+K1PT3JMx/0Jwl2c4u731sq0257egaY5xoC4chUSgTSmcXH8ZzKv53/ZItCawwGAHJ02nw1qymi0Eis/gofKfYGnxCSx3K96wGg+0deQGxeGKb8E7OOE6qUNbicNQ3al34pKN3OBGH7Rm6sc8GognGyHAE5tazdmkkV2mk=;36kJkI5JZWR0iQDpfspGVg=="
+secured: "SIEMFyMeJMho0xCkAZ5ehFwNe0Y00tQKJ86Vv1WJ18xynIEFLVWxMb5qImSpHN4AWkndCLB1AQ6S3fl0LrYgqx+4FAmKKtKVpQYHjan/YXBauKfqeRkvlmbyADwrCnEd1NOgnnn1FhV+/h9KS4kPiS4yjLF4OfLFdD5OvpbAj7ZG4hBcQzTK9R5+ZGgSoMalUITUlnOq8c236chz0SDG+j6SjuqQF+RsXcXBjMINkNMW72gcxaeglxxyXjUl9RwN4gTG6yL4nE93czmAuw/gr3XG4wCyaWaun9PCsahT3pQJMvvhRk3LGc4Lqkg3uW13pOzMzIVaZGpJA1Kj+b7Gn/5icNq1qp5Y3+cLcIYOe2xKCRJEAd7vptk4EzH/PmU3RCR72AD1ccxuGJ87cWJSaEmFYGcLo5Vbcai0883oS9IkpG6LIR1/YxJBvjQ0p6ZyaEO2ngT0CKsof80SsXA8s26WweSeQRdUgrbsASyykJG5zT04ikW6KfSMXrbgScpyBqgZBjYVvxm9IFZPxB9qXQ==;fBACnMK2OUl7J26/LgvRJA=="
 ---
 

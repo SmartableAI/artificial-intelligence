@@ -25,37 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Crown Point looks to install facial recognition cameras to help in COVID-19 contact tracing"
-    excerpt: "A northwestern Indiana city wants to install a facial recognition video network camera system downtown that it hopes will help slow the spread of the coronavirus."
-    publishedDateTime: 2020-10-03T07:57:00Z
-    webUrl: "https://abc7chicago.com/crown-point-contact-tracing-indiana-covid-social-distancing/6727046/"
-    ampWebUrl: "https://abc7chicago.com/amp/crown-point-contact-tracing-indiana-covid-social-distancing/6727046/"
-    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/crown-point-contact-tracing-indiana-covid-social-distancing/6727046/"
+  - title: "In the age of Covid, these robots are giving surgeons peace of mind"
+    excerpt: "The NHS is using AI to help make operations faster, safer and more efficient. One state-of-the art robot has been a gamechanger"
+    publishedDateTime: 2020-10-05T16:41:00Z
+    webUrl: "https://www.telegraph.co.uk/health-fitness/body/age-covid-robots-giving-surgeons-peace-mind/"
+    ampWebUrl: "https://www.telegraph.co.uk/health-fitness/body/age-covid-robots-giving-surgeons-peace-mind/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/health-fitness/body/age-covid-robots-giving-surgeons-peace-mind/amp/"
     type: article
     provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
-    quality: 49
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 59
     images:
-      - url: "https://cdn.abcotvs.com/dip/images/6727254_AP_85217790912.png"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Crown Point will not install facial recognition cameras to help in COVID-19 contact tracing"
-    excerpt: "Crown Point, Indiana will not be installing a facial recognition network camera system to fight COVID-19, the city announced Sunday."
-    publishedDateTime: 2020-10-05T14:14:00Z
-    webUrl: "https://abc7chicago.com/society/crown-point-will-not-install-facial-recognition-cameras-to-help-in-contact-tracing/6787977/"
-    ampWebUrl: "https://abc7chicago.com/amp/crown-point-contact-tracing-indiana-covid-social-distancing/6787977/"
-    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/crown-point-contact-tracing-indiana-covid-social-distancing/6787977/"
-    type: article
-    provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
-    quality: 49
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/6727254_AP_85217790912.png"
-        width: 1280
-        height: 720
+      - url: "https://www.telegraph.co.uk/content/dam/health-fitness/2020/09/30/TELEMMGLPICT000226077656_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg"
+        width: 2501
+        height: 1563
         isCached: true
 
 secured: "7e2vYx6IMNvjg5LCV0mg8GlpZjcJ+TjLgmjBBp7n1IREMoWLfae1rvBmAB6lPLPQioffB8sTiK2EAp6IEO+8P4IiQaEBv0mc8ZIiW4ZTtb2h5o43+j9sf9n7kqy3J/0twtjVr9MullfEgvjyWfnt8hd/l8Z0C/cjVwyK0lFfUTxnqlL3IShrzC5rdztEjUzMPcHWCo2Qglxi9xPkNNMo9+1IiLmU3BbuBx56EBATfWeXvleSbl7WetP5RTVyI/E5U66V0P8JWMUGtdraIt7SDtFwluXYzQmX4Usv/a4kfK8WaJKtyYxDFl2r8ty6VOi4qBTVzsbaS3s+5LH0H7O+yEkDFheJWUvRrTiTDQgj0Rhvjy9/CDSpZ3ZryJwyomaSPgGV6UqZtO+ScstbneJSbcUDS1xnSGDL8T2HSyY+wPCCV1dvDKsXW++m8LD4S/gQsM3Rmh+XKcJESMy7j4ZcmL9RnUxnhayITqcLvREksu7udFb07GUpzdXiGFjZqu0gYP6Qon8R7V0yJY0PYB2t+w==;KXYvo5iP4Xpa6m1yoE/E7w=="

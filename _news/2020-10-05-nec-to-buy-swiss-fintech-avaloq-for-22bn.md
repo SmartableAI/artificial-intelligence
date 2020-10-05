@@ -39,6 +39,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "NEC buys Swiss firm Avaloq for $2.2bn in global fintech push"
+    excerpt: "More recently, Avaloq has been accelerating its fintech business by forming partnerships ... Bio-Idiom,' the company's AI technology brand, 'NEC the WISE,' and its innovative blockchain technologies.\""
+    publishedDateTime: 2020-10-05T17:29:00Z
+    webUrl: "https://asia.nikkei.com/Business/Electronics/NEC-buys-Swiss-firm-Avaloq-for-2.2bn-in-global-fintech-push"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F0%252F4%252F5%252F9%252F29749540-3-eng-GB%252FCropped-1601856840RTSQJYK.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "gA/R926V01U9p9vhqBNh24GjaIKbJfUzPFeF8UoTCpS8UlyybasNT+K7j0nIqUuhMm2PiSeR9F4WztIhKLJ4B8FXNf6fZDnIbsCfsBRmlNKbPavY2+CVmGdKdrcB0Zr95u7DqmQfQ5WqbqBaljZZwsRoNbwOkeWZ4WB0AQsIXh5zeptlRgHGdyXUpev6tk9YbioNbB9UwA+vfAWx9O2l3J1QqBbapgI5fPPbzJc+cpuV4HpYu0y3v9GpJ+j4ioZvX01yp26Cw6tdU4YmsClvmgOfJztpTdx5INGJdUY+Q12v7BKQzrWAyNpjqGDznvMYc1LeaJufHq/fPKbO6VpN/Evp+xJQhEOk3/tDcxPBMESGNJY5o2QMAILhd3XYMo8UiQCK6ybCgC1Ky35gNsKyopTQH5gNrrxVIupY974vbHFSCmu5KWLDvn3IvR9HHjif2gjOveggdNw8rLupHHATryKHewQb/yBi0TW7OXSAzGQvRHgGkMoWYB1TQgq1ujxKqZN88w5yHObUzZQ+hydFcA==;LCJrKWZfV+E1/UrrLhgGag=="
 ---
