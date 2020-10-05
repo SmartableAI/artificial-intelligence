@@ -17,6 +17,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Global Artificial Intelligence Software Market Analysis of Major Segments and Future Opportunity Assessment 2020-2025"
+    excerpt: "The contemporary development prediction report titled Global Artificial Intelligence Software Market 2020 by Company, Regions, Type and Application, Forecast to 2025 provides an all-inclusive research study that covers current facts and statistics about the production and application in the Artificial Intelligence Software market."
+    publishedDateTime: 2020-10-03T00:26:00Z
+    webUrl: "https://ipsnews.net/business/2020/09/30/global-artificial-intelligence-software-market-analysis-of-major-segments-and-future-opportunity-assessment-2020-2025/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 0
+
 secured: "x29oDVBwlv7BeGRVdDwumjtZ979r3vV+zKetgq8Q/v6+1l3G6auzpEo3GKKEUmfBvh3yhUe16YEHtTodOU3KTVG/pBEYFeMCNLW2vIMiu2zpB8Pbd4MQPblcuDzi5yUPOyO6afTZ2lwysQ2lvLFKm5L4asxsGXvfDEVdHNrNXsmVWFJ0WDt2vvLHAkWDC9r6/s56rgxXgh+2+X+iGwnn8RVU+jS/14QyHtrc3TXhi1ZV9g848/2BqAHxC8V66FpfzQ4cz87LKLaPTtEpGu8YAGMrbymZlFTFWBqHrsy9gun9O8tNSuEmvcekd54AwQo/IL8cxvo5hf4lpY2KVo/7aWXZnBhoLwx1lIEtUgRtM+0=;Muof2r+2tsOjXm57RIhbTQ=="
 ---
 

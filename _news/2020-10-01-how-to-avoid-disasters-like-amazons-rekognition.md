@@ -86,6 +86,20 @@ related:
         width: 630
         height: 358
         isCached: true
+  - title: "With ‘nutrition labels’ and an anthropologist’s eye, Duke pioneers a new approach to AI in medicine"
+    excerpt: "Duke is pioneering a uniquely inclusive approach to developing and deploying clinical AI tools, starting with asking its staff for ideas."
+    publishedDateTime: 2020-10-05T08:54:00Z
+    webUrl: "https://www.statnews.com/2020/10/05/duke-artificial-intelligence-hospital-medicine/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 23
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2020/09/Nutrition_Facts_02-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "mmFxIdsJwFuSLAfIKA6qoTrj0i3LeXHCnBPgFhhwgWk8cebBxqsz5EJ8MBKNBB9kL6QTEYPAUzu/AZ+kAXlzug7E+5AT+KbbEgMfpgpI7fVBIhHk3NgN4VhPfVqwMcU0fE49MGvp0n0KVm4HgTAUD668LJ2LcZEN1OucvwphfF1N/6RGZZ81GJBSpYYlHSKiiX58AJhWiUIgStkMXP8gRAJvyQwreS5Lfcyh01YmADlStSEM4ZXItZy4fx4SjWowaRYY0Sxej74To1hT4u+UEEBZskJYzTSZs2LrRNpAFhLVWb4q1LmPosrNVs03GeP3tHFqs1tdeD0wwNldqznucNUjD0M8ohPqVPldcu5RbUcThGWRlD0gv/RZ1YNdixH5NG5FpTKYYX9tYErAnPg8BVHzIPKs7gxCDRIcYrhQQDx4HqasjqtBBkyR8NORGOfS8sef3Av84ylLT5MDCpDRZaDZq5Zr9Nj/Y8Fr6VnzRvl+aT32bqfdCl+jdUXEco/+adPmetuO4mG3NC1ktFL+oA==;vy7stFs8YD5g0sM0h/ZZpQ=="
 ---

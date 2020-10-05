@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/using-amazon-rekogni
 webUrl: "https://aws.amazon.com/blogs/machine-learning/using-amazon-rekognition-custom-labels-and-amazon-a2i-for-detecting-pizza-slices-and-augmenting-predictions/"
 type: article
 quality: 88
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -85,6 +85,20 @@ related:
       - url: "https://micdn-13a1c.kxcdn.com/images/sg/content-images/amazon_123rf.jpg"
         width: 630
         height: 358
+        isCached: true
+  - title: "With ‘nutrition labels’ and an anthropologist’s eye, Duke pioneers a new approach to AI in medicine"
+    excerpt: "Duke is pioneering a uniquely inclusive approach to developing and deploying clinical AI tools, starting with asking its staff for ideas."
+    publishedDateTime: 2020-10-05T08:54:00Z
+    webUrl: "https://www.statnews.com/2020/10/05/duke-artificial-intelligence-hospital-medicine/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 23
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2020/09/Nutrition_Facts_02-1024x576.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "UlwbvjHlTWvwclGPHQqUpdlZjU6h1KD7Mxao7Ydn44wrAjIG8GEW8bd1r+DAO6BpAiCIQqNGfrKtQj3dUv7sE5KJ0m0CkAzbHqmesma3an1kdlfuZKecVbJ8V/OKNMqxU4SV2lU0V/CM/LGTzdOQJRZY9IZp1Fg233xbrp2rg3LCyS6uPus8zfQJwf/SB9oo700RuQ9Fzq8fWKG4MGB8UqyLvtZx8IT5eNxeuA6MB/AWYQlOpNxfl8kbvYoba+HpAdODDSC1VuIOnkEyeWzaKnnXBZSxKqBUra3Gbb3BqZtCqI1O0GU51UEckXADqqRIaOS6YjO4XP6+7euUPf2kOMu+U+TNnNTgbs9uZHA6hLg=;A7YEAxw/TEvSIAwlHrkG7A=="

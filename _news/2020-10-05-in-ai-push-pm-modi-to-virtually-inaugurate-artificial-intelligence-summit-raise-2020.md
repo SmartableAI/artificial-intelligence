@@ -43,6 +43,22 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "RAISE 2020: Responsible artificial intelligence for social empowerment"
+    excerpt: "India’s biggest AI summit RAISE 2020 seeks global collaboration for the development of an artificial intelligence ecosystem that is responsible for humanity and committed towards social empowerment."
+    publishedDateTime: 2020-10-05T09:42:00Z
+    webUrl: "https://yourstory.com/2020/10/responsible-ai-social-empowerment-raise-2020-ravi-shankar-prasad"
+    ampWebUrl: "https://yourstory.com/2020/10/responsible-ai-social-empowerment-raise-2020-ravi-shankar-prasad/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/10/responsible-ai-social-empowerment-raise-2020-ravi-shankar-prasad/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 74
+    images:
+      - url: "https://images.yourstory.com/cs/2/a182c7e0140711e987e2f7248b252f46/Imagerbzg-1601891856082.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
+        isCached: true
   - title: "PM Narendra Modi to inaugurate artificial intelligence ‘RAISE’ summit on Oct 5"
     excerpt: "Prime Minister Narendra Modi will inaugurate RAISE 2020, a mega virtual summit on Artificial Intelligence (AI) on October 5."
     publishedDateTime: 2020-10-04T08:45:00Z

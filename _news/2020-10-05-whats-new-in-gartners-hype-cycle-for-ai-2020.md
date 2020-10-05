@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/10/04/whats-new-in-g
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/10/04/whats-new-in-gartners-hype-cycle-for-ai-2020/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 98
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 56
-  - title: "Superwise.ai named a Cool Vendor by Gartner"
-    excerpt: "The solution integrates seamlessly, using API and SDKs, and is platform agnostic, supporting any ML platform, - i.e.: AWS SageMaker, Kubeflow, Azure ML, DataRobot, or custom implementations. Gartner subscribers can view the report here. Gartner does ..."
-    publishedDateTime: 2020-09-30T16:12:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/superwiseai-named-a-cool-vendor-by-gartner-301142125.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "bEeAT+pUIOz3a+lAdlrQzgaQkpUw6KPfBucge4zbWQFMBz7Hc/oZ7NYJFK/bo//HLcBQKtU2lFD/sAFjKTCTdHJLr6F/T3fQJFRs9opofidJ6KjI3C0mwFvLh6QvdryUXVp0H9UfssizNwcs5lEyySAisBM/2RPHc6VaXTyDmY6dI4DgWnaMSqXm586N63FNP342/Y3rZZmg5kTecEh3q9tjhPO9YsFEOscEP+XXdTnj7s4QmU7ZUHnATrwEyvLiscOpVvD35afPXwqsOmIjoIbhIeR3gMdMw8+vrHhOBt+MpEfFmEe7pdnQ5Bsha62up/k28PFSZ7lJ5rZOvwcZvpopYiWMWVsdBloD8iuswLvP6pJVtloTa3ZosmAIr7V58WYRGuAtdXj70DG7FJ1Zla4rW5iIAwKQwmC2pO3jtmb87RVteCqhTMXE8gYVT7blxCltulUOwZ+VzivUVXMinaYctSNV8Q+EhFsQYr5qlIaYQKEI6tJcB/GMjv9Hxmr2Z6PaJq3mSapqKZWtbqd1fw==;dDHxc3PiFy/yIWNP/76qOw=="
 ---

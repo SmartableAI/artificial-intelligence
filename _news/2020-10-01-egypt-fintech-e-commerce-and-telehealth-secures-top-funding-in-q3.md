@@ -75,15 +75,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "How Fintech Companies Are Dealing with New Data Security Challenges"
-    excerpt: "Cybercrime is more sophisticated than ever and a new attack occurs every 39 seconds - unfortunately, fintech companies are some of hackers’ favorite targets. This shouldn’t come as a surprise - people are relying on digital money management more,"
-    publishedDateTime: 2020-09-30T16:44:00Z
-    webUrl: "https://www.finextra.com/blogposting/19380/how-fintech-companies-are-dealing-with-new-data-security-challenges"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "CHjTJNhQqdkt1xQXF3b3bCeWBjlUAyR+skBf3PSnb8F0KshdSRLNuSZftFi8yIoqsgiH3jX45A1tSWG3SwdZXDSiyFCo/H7q0lqgN0oLJH7U7z/gNZU9M3LYbzvBg96S6VNNLNu5pGjdyorCK6e1+qPPZX9x6UCPG+m6lQPF9Zm/XDRmfXVRGFe2A2I2uFxcrdyAZQoHRpaE1Hz2ofvTKfpI0xszrnhmfomhPBsb2QnxPOAdUsox7aml3tLZXJAsUF+sYVQyOccHvL08jnnravHqGAvJpbot3Ww6EAbynsmJjsSEvrpU0l17WKwJQfEdSP2pcFiR13WMz/SEd5ynb4EqaWcGi+k0BAHrqqukkm8h+FZHghH/c04Sq/Ou0XM3XkfVgFuOQSd15rO9wbGW+2Cj6QmGHP8AXtZtQF49ufbpvu6L067UPtqCDdMwQdVN419DiKG4OulAieiN4yG806kP+BA5JkMF3nJLKTaDXtnWUrvFARRlR2UffoJn+IcIBg8ZDZIrgE0ybN5ZnCUc2Q==;49kiZKTynDguBgS8Lhu2iA=="
 ---

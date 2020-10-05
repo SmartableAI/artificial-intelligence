@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.freep.com/amp/5869731002"
 cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5869731002"
 type: article
 quality: 51
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: Detroit Free Press
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Detroit Extends Contract of Facial Recognition Program That Doesn’t Work"
-    excerpt: "The city’s own police chief admits the technology misidentifies 96 percent of time and yet the city voted to extend its use."
-    publishedDateTime: 2020-09-30T15:48:00Z
-    webUrl: "https://www.vice.com/en/article/n7wx8b/detroit-extends-contract-of-facial-recognition-program-that-doesnt-work"
-    ampWebUrl: "https://www.vice.com/amp/en_us/article/n7wx8b/detroit-extends-contract-of-facial-recognition-program-that-doesnt-work"
-    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/n7wx8b/detroit-extends-contract-of-facial-recognition-program-that-doesnt-work"
-    type: article
-    provider:
-      name: VICE
-      domain: vice.com
-    quality: 88
-    images:
-      - url: "https://video-images.vice.com//articles/5f749022ec3b770096060224/lede/1601475076793-gettyimages-75287401.jpeg?crop=1xw:0.8462888665997994xh;center,center"
-        width: 3000
-        height: 1687
-        isCached: true
   - title: "Detroit Approves Police Use of Facial Recognition Software"
     excerpt: "The City Council approved a nearly $200,000 facial recognition contract that will run through September 2022 but many see the tech as racist, discriminating for the sake of efficiency and they question its accuracy."
     publishedDateTime: 2020-10-01T19:44:00Z
@@ -68,15 +52,6 @@ related:
         width: 550
         height: 309
         isCached: true
-  - title: "Detroit OKs Controversial Facial Recognition Tech Contract"
-    excerpt: "The city council approved a contract that will upgrade controversial facial recognition software used by police despite calls to ban the technology, which its opponents have questioned as racist."
-    publishedDateTime: 2020-09-30T16:39:00Z
-    webUrl: "https://www.govtech.com/public-safety/Detroit-Oks-Controversial-Facial-Recognition-Tech-Contract.html"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 19
 
 secured: "qgRhUmA++ckhOPha6ouMjdl0GUhrsH9ZXiMQIckRQLpGVAVOHU2+0Jwq6+PvjAyLfLb1Ao7MtLXO9Q9uvZQ/1wssEujao6Pxn0C/ke/elOXJtK3qAd0S9vPThKc14DuCwjjO+Mb9FNc4fMhhmQVJJWxnkuBTtrEdgzOAWgzcXAfYhA7i6Fogffh48FwUUsuoLG3Q6OML08acJ/RXkhoSIbMYF+ozKr39t+dlogB31N7KRR/Ce0yayYcQj2TAsKTHXrgCVngAV8tGcrdGsBQxbp8bKDnhwYUrCF6AjazXfXZnrGLg3Bv5udOLhyyx9N9d+HPktyZctRF05/aV1svVgfjMAxtqDTGTg7Mh0AJpffz1bVMyoomcrBrxszkrtymoNQdd48dc6TBQ4wArKBcTwWzE65in9gWIGGNXKb18+AZ/dGuj2t9A38k+nUr3ZOk0SW7X8ZUk4MpM5kbDna1HchKtchBL4eh9YXC9fYbaaOJ/+0G8CtVT9CiH+NpkExCmRq5DQvm0Cf78I7knAZfKFg==;Flu0qxEae29Z8tpoxy7qBw=="
 ---

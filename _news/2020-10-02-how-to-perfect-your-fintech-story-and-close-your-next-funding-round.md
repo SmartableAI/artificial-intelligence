@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/growth-quarters/2020/10/02/how-to-perfect-you
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/growth-quarters/2020/10/02/how-to-perfect-your-fintech-story-and-close-your-next-funding-round/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -79,15 +79,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "How Fintech Companies Are Dealing with New Data Security Challenges"
-    excerpt: "Cybercrime is more sophisticated than ever and a new attack occurs every 39 seconds - unfortunately, fintech companies are some of hackers’ favorite targets. This shouldn’t come as a surprise - people are relying on digital money management more,"
-    publishedDateTime: 2020-09-30T16:44:00Z
-    webUrl: "https://www.finextra.com/blogposting/19380/how-fintech-companies-are-dealing-with-new-data-security-challenges"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "lDsJdUtHs1ibOMHE8faw96H92XubIVyoDtwNbCzNkiwa0mTUcyFJ0CfqyNRmI4efOT38FdYmNDNiLiyJS2OA5V9tp0S+Fpu7uDRbr7aDSE2uCB9baZY2D+GmXGV4MbBqVilwOaPsgv6lk5blb2IhKiLghlaBRJlD/QvOoCi/yIGVsZz6oi5CRCgrIpCgf5sjFBHyPIHi9tCUfp+07b3afbD0oKBrywbuOUx94fINRUC7qpz+rEGf6HYqdaMaJpSf6G3ULV1V7aFSOskhZKq7s0PzfR1EB33rFEy6iDLvg7rmS4WH6G2CkGw3vneiSLSQVzkmqZsDoDc4LLfB8xIiow5fUmthM2i8dIzw/nqC7sZIGkxAURekBX2wgzhzWAAUB27rBtbaemVl1xeOVZOKqgTmQEaETtEJxSIBCfW5o5tscStA6enie2ShrwGhAAQclQBvavw6NM3q7UsG8yPduy475uQ6k0p6vZZhh75dkGvp2cOMbIOu1uRxfesSDCztHT4mzU0NTzXuaIDl+2qE9g==;rj838FzIwI7KbZRTwpZJdg=="
 ---

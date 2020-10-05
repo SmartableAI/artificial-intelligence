@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200930/VA-Boston-and-BU-rese
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200930/VA-Boston-and-BU-researchers-use-machine-learning-to-streamline-the-diagnostic-tool-for-PTSD.aspx"
 type: article
 quality: 63
-heat: -1
-published: false
+heat: 73
+published: true
 
 provider:
   name: News Medical
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers streamline PTSD diagnosis with machine learning"
-    excerpt: "Post-traumatic stress disorder (PTSD) affects eight million adults in the US, including hundreds of thousands of veterans of the conflicts in Iraq and Afghanistan. And as the COVID crisis continues to take its toll on everyone's mental health,"
-    publishedDateTime: 2020-09-30T15:04:00Z
-    webUrl: "https://medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/combatveteran.jpg"
-        width: 1920
-        height: 1368
-        isCached: true
   - title: "Machine Learning Can Streamline PTSD Diagnosis in Veterans"
     excerpt: "Using machine learning, researchers were able to cut six of the 20 questions used to diagnose post-traumatic stress disorder (PTSD) while still maintaining accuracy in a veteran population, according to a study published in Assessment."
     publishedDateTime: 2020-10-01T13:33:00Z
