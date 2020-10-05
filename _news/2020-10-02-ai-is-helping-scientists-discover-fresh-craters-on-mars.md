@@ -42,6 +42,17 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "NASA taps AI to identify \"fresh craters\" on Mars"
+    excerpt: "NASA's Jet Propulsion Laboratory uses an AI tool on a supercomputer cluster to identify potential craters on the Red Planet."
+    publishedDateTime: 2020-10-05T20:15:00Z
+    webUrl: "https://www.techrepublic.com/article/nasa-taps-ai-to-identify-fresh-craters-on-mars/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/nasa-taps-ai-to-identify-fresh-craters-on-mars/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/nasa-taps-ai-to-identify-fresh-craters-on-mars/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
 
 secured: "hFztME0lfNSY/YRW/2Bw238xIMGVt/zs8BTafaJ0pjhpW8CctyWLpN+IeCO3hBAa1BS3TxsmE8jIldnPWA86dyBjc9mzSxrwxqSvPjKIhPXij3N4imdixJPUrljYktb7mMO/NOaO9ebJWwRepa2y32YsdUgQIUc23Ts3UQgkjOEZ00z15FdS8b+i7bC5HIfK2EALGEZSEP3wPRUa0aqWqErC1dGUT0x+ayEQM0Sox+qnzpkEe95mpKjPihaZqXyhsrBGlbgXE/2brKPAauOt0Ocjy1K7Mgrcd1a8UIzFArkShtlIbilux/x9S9yurixOKA7hfp5vQsqwxulPtGOnDtcgR9PCAYlclKH1cNchJEu4BukoKWxmFWVXk7QApyNfmn7bIx3vvcO/OjwUebV850K9kxi3Bg/+rIlflbxdespnIGf+IdbFn+eIzKjDAbT0T3rbsSbVNrEdcODiXl05r8u2c4VJuFlSq8IOSz2rLJHOcGNU6SQi0td1rShYJQBs2xI9jhYmlYW9ah0s0uQT/Q==;eYO40fPLcgfuUIQU9/d5Pg=="
 ---

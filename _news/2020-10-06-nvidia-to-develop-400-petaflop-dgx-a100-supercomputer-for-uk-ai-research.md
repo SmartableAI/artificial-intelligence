@@ -135,6 +135,20 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "With SuperPod, Nvidia makes supercomputing a bigger focus of its AI strategy"
+    excerpt: "Nvidia Corp. opened its virtual GPU Technology Conference today by introducing a host of new artificial intelligence technologies, including an infrastructure offering that will a"
+    publishedDateTime: 2020-10-05T21:29:00Z
+    webUrl: "https://siliconangle.com/2020/10/05/superpod-nvidia-makes-supercomputing-bigger-focus-ai-strategy/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/nvidia.png"
+        width: 800
+        height: 425
+        isCached: true
   - title: "Case Western Reserve University lab and partners using Artificial Intelligence to improve heart transplant outcomes"
     excerpt: "CLEVELAND — New Artificial Intelligence is being developed to increase success rates in heart transplant patients. And Cleveland is at the center of the research. Bioengineer and scientist Anant Madabhushi, along with a team of biomedical researchers out ..."
     publishedDateTime: 2020-10-05T19:45:00Z
@@ -175,6 +189,6 @@ related:
       domain: insidehpc.com
     quality: 22
 
-secured: "uhFFrV5tYTZkJBgXpeStc959NJH3doXicLEHXycAn2gdf/Qgh/RGmGCkcEvOCZfsZ7ycd9rK4Ts44y4F2pXqZBH2xro/+NjZWF/YI7QMNg8hbSj4Xes9hd8uKmCUe1pX9e4F3/YXIz2MWkexD88gq0356vS19k0dbsYDD2gp1oZCwbdaSkCoiQyqGd/dwwCodivEEmZj/75vp6IeI1z80iLQVvpdfMKDWS7PV+gXrZB1HwsxUqK/fnyRXypRYtBpMrylllVvE9GHa/tzYZMm4AZ04OMDjJuQLUKF/ZSpVlxwMSM44rhNulnCYJ5F2C/3YmV1T735DjQeEd6PBU5s3osulnpdEN+bAwJhMXaQZYY=;1+6QmoNOKdV5MphTqWKx0g=="
+secured: "0p2Il17J5dpaHIAhlUp9NZ04/l15ul9QT4n07dfisCZSZVeMMOPepkLbnhOAFSTUXjg0UiiXiOxUZd1iwFlE4FMz2tZlpcgCqE+Ycv15n9Oo1wHzTtww/V5SqKVQeVqEaefu/rHM+teUaX2eLuUhwoYLocpJsrEmCnzTa21VtPBPTAziMty9+xYKKw6T0Z6HTwaCt0Y4U+9Y/y4D2a8xXBuzfFYrT+0RjRWM+6clWKghpPj5XY/jpjMzY8w6EV/9E6vmanBaV7diKHhfaxfxXbhNOasGIPiWXw7IICNv4lZIyEuHjKWisupL6VQJw1rcFDMd3TcnGIX0W6/GLftK1+dw7PmZzL4BHLXNYbjh4DnGnq/htnFAo2fCqth3hz1vSKgiWSVYaZWkEpBFNHTlRqSkJENOQiviMChENaoUZkiY+DgyzAbmKiCXT7owk/+J8d3R+nRuAwXUKSiETjBDhnRtsaZ2Xt30hxPQQFYWv4ZSZcRU3UQfXfruuZsir0ySVvUdPNEqKANtNsuFMcET7g==;GAUQzFPiavoPLyob0bWFxQ=="
 ---
 

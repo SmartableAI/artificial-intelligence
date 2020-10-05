@@ -43,6 +43,22 @@ related:
         width: 600
         height: 390
         isCached: true
+  - title: "Must Protect World Against Weaponisation Of Artificial Intelligence: PM Modi"
+    excerpt: "Prime Minister Narendra Modi on Monday stressed on responsible use of artificial intelligence and protecting the world against weaponisation of AI by non-state actors."
+    publishedDateTime: 2020-10-05T20:15:00Z
+    webUrl: "https://www.ndtv.com/india-news/prime-minister-narendra-modi-must-protect-world-against-weaponisation-of-artificial-intelligence-2305623"
+    ampWebUrl: "https://www.ndtv.com/india-news/prime-minister-narendra-modi-must-protect-world-against-weaponisation-of-artificial-intelligence-2305623?amp=1&akamai-rum=off"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/prime-minister-narendra-modi-must-protect-world-against-weaponisation-of-artificial-intelligence-2305623?amp=1&akamai-rum=off"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 69
+    images:
+      - url: "https://c.ndtvimg.com/2020-09/s1b3rr1o_pm-modi_625x300_21_September_20.jpg"
+        width: 650
+        height: 400
+        isCached: true
 
 secured: "CrMGQHAeHoZ/PvdJJTLZ1mW2KOcDUvKjUedfxyzFcifi3L3NqzgfIdVgVWektUhDyNVsnJFPp1ATnlE8saUj523vYqkcfYo9C4DRHWMk3qesbPDhczNz7bh7qRZJXTWiYmVjxvHlhzxp3EzirBYQhrfwKwgWtagNSeLsKNqANNmmVl85v1g7HYr0mmxptaI2byBec5kvMoAoY6GT2isPuNiB993EtbpPMAQ1Za89QLGdCKXYxQEXCDq1Ad6zgj8smNtPLen5ST5DGQq2hOtUAgRTc+MEE6z1+koHj4isQmy49GQunU+UgZDFv1ahmi56mu5EBZUcm8BsjrLYHJWPG5KnMKF3UKbpuFy7jEG98UIe3vXsmIOgXR05U9mcLMdrnwzTb0BQH5KdRQLWs9vClRkxgZWVyD8XF0qortz3iTehTT+CQr7QQ5et7hDwvq3hEJ97Uv5x2NiCD7h9zG4k2SzHd5dlKwWh7zXVNlTqGmeaxvIU5Ab3mYiZ6J4L0XGYfjGSdXeEp1Ouhp52vZqw+g==;TjQUg3jICibB4vBME2Odkg=="
 ---

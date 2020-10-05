@@ -39,15 +39,6 @@ related:
         width: 664
         height: 664
         isCached: true
-  - title: "1960 Independence Day speech"
-    excerpt: "Today is Independence Day. The first of October 1960 is a date to which for two years every Nigerian has been eagerly looking forward."
-    publishedDateTime: 2020-10-01T03:59:00Z
-    webUrl: "https://guardian.ng/opinion/1960-independence-day-speech/"
-    type: article
-    provider:
-      name: The Guardian Nigeria
-      domain: guardian.ng
-    quality: 4
 
 secured: "9Wm+E5gWt1K9+fIzPW7DHLKHMTGHsZ0BiOqViZ9tyEi1S2mXLrqy0ZqwWsdFFAKdAo7TLbM79tMjDl9Fa0KR06e1JeR8fzdox2hr8Teaoq89gz3UexttajmGkqyJLL82+DprJ5c1uWsiTFk0Rk38zMq5wcumQ08c5CFjWd40YLKOt2pStv5THt9y9urdNLWbraKgwRJxvJFATrrTm6uiLK1UCtQJplaaGB+GvTPCpjqsHY5dliobc/+f/FvAtJ41g3BWsSgvEbRCc4eAWh6p1VGkAIDSR8Qbc48U50C2QFG4PuoudE87dwUHPvFjim93r6qPoxqpAnz/wF52b3x/gujJCZ8xQDql3YEhqxQa36U=;bvZ8+7BAKNSTBqG8uTT5TA=="
 ---

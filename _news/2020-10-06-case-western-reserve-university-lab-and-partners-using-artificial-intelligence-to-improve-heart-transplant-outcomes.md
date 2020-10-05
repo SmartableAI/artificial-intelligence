@@ -150,6 +150,20 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "With SuperPod, Nvidia makes supercomputing a bigger focus of its AI strategy"
+    excerpt: "Nvidia Corp. opened its virtual GPU Technology Conference today by introducing a host of new artificial intelligence technologies, including an infrastructure offering that will a"
+    publishedDateTime: 2020-10-05T21:29:00Z
+    webUrl: "https://siliconangle.com/2020/10/05/superpod-nvidia-makes-supercomputing-bigger-focus-ai-strategy/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/nvidia.png"
+        width: 800
+        height: 425
+        isCached: true
   - title: "Nvidia to build the UK’s fastest supercomputer for AI drug-hunters at GSK, AstraZeneca and more"
     excerpt: "Through a new partnership with GlaxoSmithKline, AstraZeneca and the U.K.’s National Health Service, the chip maker Nvidia plans to build Great Britain’s most powerful supercomputer—and dedicate it to artificial intelligence research in healthcare."
     publishedDateTime: 2020-10-05T15:40:00Z
@@ -174,6 +188,6 @@ related:
       domain: insidehpc.com
     quality: 22
 
-secured: "gTbvXbZ7BwKeOgU9sw2UG1QaEbGpKBOyxIv5sgwU1siN5m+Q/y8LSGzSj/ZlJJiXlTJmSWSrswNRNVn70aE3T9BaMP8mxg5EtVK+wtxZWWtxv71UV7gec3BpCXXin7+WSwINyWzGKhdsmKbGg3z6xezh0a1HMv1qaPbZeFVeBBik68i5F4Xhpoq/rn0xyYJTJY7ttS2TwS9wJVXfqVKSdIo5baQIMB8s97B5hGEHSOZE17XFKWIEaojPAPXEM++I0R19+eF9POqZrLwXLUq9/JKP5UnlQSxPXO4k5wTxQPTxnyjExh5Lp+J2cRvTU1uDJukSJxLt4/wbgTe83VPfnbKRYglSnSPzLGJgCbsL5Hk=;0Fg6BpE38efPCNbXZmHT7A=="
+secured: "UG8ePB/URkc5Ns3ZQZVVrB6x7tWenG2ttWMAMkgfJ+2GacjHqKogkBe4LCTdn8T0m5CRCv1mzcBszC1/cFO96lihP0dJwxi7lGVVZNGAwyACs1P0W8tbU7QRvZmKteiu5IBirlqi2dsH+Z6EbMwfRXS3vlsJAmjmHr1siA0S9g4pLDOsroPsGgAx9pBS6OfIDXpxGqbdv2Phf1GuLOzeiLSAuxlxluQiSmBvJ3ttGjL2eAJOeadAZKm4+DsJY4YcxQ4YYIez5RvGHxZQDMGvPr+p9MiLftit/OeiBqvGmJ6Lzm4GzdGAkyYZYjSVYy9MTyFIkdBl32Tillxv1q/TAAhmYpQVIQbV2/fvZcGpKAE59n3rVrdpqHDDSxQgnXGFgkgr9GAMKAEoATCONCa0ga3MuNdb/0wF23VZyy54O/leAYWlY/TgEvNRfTvJZmJYR01osT7JRaQz8zUGtAUnA50/k11+2xGsHT8J3UhVMIC9HLY1nDVt9eMkOBPUJe6jAAW190ddsH4eXWdlAgLKvQ==;gcDZY9btfWbrDeukCOcMsQ=="
 ---
 

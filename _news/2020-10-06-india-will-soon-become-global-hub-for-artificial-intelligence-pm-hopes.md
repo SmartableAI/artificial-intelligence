@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-05T17:03:00Z
 originalUrl: "https://uniindia.com/news/india/pm-artificial-intelligence-summit/2189111.html"
 webUrl: "https://uniindia.com/news/india/pm-artificial-intelligence-summit/2189111.html"
 type: article
-quality: 17
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,13 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+
+images:
+  - url: "http://www.uniindia.com/cms/gall_content/2020/10/2020_10$largeimg05_Oct_2020_223344020.jpg"
+    width: 595
+    height: 350
+    isCached: true
 
 related:
   - title: "Want India to become global hub for Artificial Intelligence: PM Modi"
@@ -51,6 +58,6 @@ related:
         height: 256
         isCached: true
 
-secured: "m+cbFGzG6h108xEJORG7UHP2pDsxlD88FDxQUkByXWpiiKX1QszEYIaJQy1woGF2CeuoMGJsw8NVfgphLkkO96aV/POKP8sgY8vWs3cHuNHfvUKT3mXjcg2h8P/juUbvBldSV4SrGSXlNwH2pvKIZMNAm5qDG+iO+kEM8q4gmvbJMLlwftysbVejr5kh5N7CaDwkqUve3RlwokUh946rAi3tWEHmQ6HBFv8umcdOssmCj3DgWzQ37fufql5iN/esDOFSY9enUUDo/JVolRpuYVyLlKZukEbt4nBx+Yl/yCNhFCaGgyHhjEw4c6c69ecIZvjgqPAJjZxSWBC3T/N2p/QP2jTXLP/72G2iPABdc8g1f8G9IvpwdpvDpy0d3czo6N4pd2IRHI80SNxucDbuctG0LjyKur6OLqkaF+oKY8eLHdWDf01z9YVBIFj0VPFMfZekHWGqzZanEflO064K7yAUqu8x0p6wIz2gLFy7wm9CS2RL7UieUGtgQyPTnpoS0KczAfe8J43HqrX/UYUJng==;0k5QEEdn/CwXwODVPqu+VA=="
+secured: "llQDGsz2sYv5HnFsJjfzLpg1JvEyYOVlAMS3hC1GGTPKx6xFH4JEdfxQpeoay4VMxL052sBBE8wa3kEagce43vJW9KZ2LYDmYWwNBmnyx7IYJ6gXLSDkewOVYhZYhF3rcw6bAY31r0dPk3LNc20KfcnH2WAVKrWf+9KuO6O4i1KHnhmJHNphmQhQe/zvY0r/Yiz/PJt6SVHHI3CSYe8CQPyCs+SqL9vee2YRU/PR73iyPB27T079cn8/92BzBowtXoo6wqj00Ie1K5LDHKrV/gP8qpsB16jy6wcG753Eb5kL4i/4qW7DgiLIDeV+bJn0VbnQmValG2S0ng0GRGFfGRa8Hoslhk+Fu1g/xO7RUZQ=;palghttMicr+2fyhH5CHog=="
 ---
 

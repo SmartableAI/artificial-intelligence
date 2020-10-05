@@ -3,8 +3,8 @@ category: news
 title: "Jumio to Enable Biometric-Based Identity Proofing Services for Microsoft Azure Active Directory"
 excerpt: "Jumio, a leading provider of AI-powered end-to-end identity verification and authentication solutions, today announced that its AI-powered identity ve"
 publishedDateTime: 2020-09-22T22:05:00Z
-originalUrl: "https://www.businesswire.com/news/home/20200922005002/en/"
-webUrl: "https://www.businesswire.com/news/home/20200922005002/en/"
+originalUrl: "https://www.businesswire.com/news/home/20200922005002/en/Jumio-to-Enable-Biometric-Based-Identity-Proofing-Services-for-Microsoft-Azure-Active-Directory"
+webUrl: "https://www.businesswire.com/news/home/20200922005002/en/Jumio-to-Enable-Biometric-Based-Identity-Proofing-Services-for-Microsoft-Azure-Active-Directory"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 627
     isCached: true
 
-secured: "6CuxfnxH+BoULWXRyzOUq1/NpdywTkqXGpeDPpI+ttWbMsXB9e4Xb7WGqU1NVzzgnuIIjRHPGVo1ji8Hq3KuCjrqIw5/ThfhESAQ9XXWWJ02+/5O1DooAhbOafCKYs/rthmSl7vqJjg5ShaDgM+i1LjxqXqfGYgT38QA2CmbnWlVxhyy773nv+L6XQybIwSl/nrOcXiHSxEXFDrGpX7A1JxwtG5e32ZzXS8QEG+gHKbvuxj/zdQ4f6CORh+cZofzjI775MWFfo42uX/LwP3H6N3vcozCKdMg/yF+KCdHiHGWd7CnQ32CtDHqJySb+NBCo4bw+7VHn+dE3kSNWTTNN3G2hp++P49TPNBMULgSf1E=;FQV3E8kx6IgkjCz3ou1sww=="
+secured: "GsjUfnlLaIvLXNt3rdqBaBaxqGsUOOFaF+jYJJJCwXPi8KXQtlP8AhJGh/rNO7BK6e3uUH0yYFp5vIijgSY3in81yNazRTjAdWfjJ3WWcoFfl0k5LfrOTJJ/ccFxlBjbjwt6VqO3P9Or5YHWBaI7XXSRcTsapIiYnxuLfM2eP6Uuiu/bItAR3Gr15ZeDrJeG+SvmaRjZOLxAaHII0rClAZyXI8ezXaAW09RxdCrgStBKp0rB7ZV7QtPtQGL9pt/xIk2QpzW2f+wTN8pvsr6t/FS7v0A40x37UUNBPqmRNz30dzlfDfZbiw4NF/pZMi11rgEivE5x+cZ64BZf3Qp+xc7OTXWNqWxlMo2TepXqHAs=;shsjkYgWQMPk5rVVSUbIUw=="
 ---
 

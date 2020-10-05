@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/video/how-the-pandemic-has-reshaped-ai-robot
 webUrl: "https://www.zdnet.com/video/how-the-pandemic-has-reshaped-ai-robotics-and-automation/"
 type: article
 quality: 99
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Edge computing, artificial intelligence power automation innovation"
+    excerpt: "Learning Objectives Industrial edge computing and artificial intelligence (AI) contribute to automation innovation and effectiveness. Aut"
+    publishedDateTime: 2020-10-04T05:03:00Z
+    webUrl: "https://www.controleng.com/articles/edge-computing-artificial-intelligence-power-automation-innovation/"
+    type: article
+    provider:
+      name: Control Engineering
+      domain: controleng.com
+    quality: 39
+    images:
+      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2020/10/CTLx-StoneShi-Slider.jpg"
+        width: 645
+        height: 350
+        isCached: true
   - title: "A Review of “The Reasonable Robot: Artificial Intelligence and the Law” and a Conversation with the Author"
     excerpt: "The Reasonable Robot” is a book written by Dr. Ryan Abbott who, when not thinking about the future of the future of artificial intelligence (AI) and the law, teaches law at the University of Surrey"
     publishedDateTime: 2020-10-05T13:07:00Z

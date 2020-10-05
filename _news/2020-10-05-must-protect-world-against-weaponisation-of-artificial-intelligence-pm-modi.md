@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newindianexpress.com/nation/2020/oct/05/must-protect-wor
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/nation/2020/oct/05/must-protect-world-against-weaponisation-of-artificial-intelligence-pm-modi-2206174.amp"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Must Protect World Against Weaponisation Of Artificial Intelligence: PM Modi"
+    excerpt: "Prime Minister Narendra Modi on Monday stressed on responsible use of artificial intelligence and protecting the world against weaponisation of AI by non-state actors."
+    publishedDateTime: 2020-10-05T20:15:00Z
+    webUrl: "https://www.ndtv.com/india-news/prime-minister-narendra-modi-must-protect-world-against-weaponisation-of-artificial-intelligence-2305623"
+    ampWebUrl: "https://www.ndtv.com/india-news/prime-minister-narendra-modi-must-protect-world-against-weaponisation-of-artificial-intelligence-2305623?amp=1&akamai-rum=off"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/prime-minister-narendra-modi-must-protect-world-against-weaponisation-of-artificial-intelligence-2305623?amp=1&akamai-rum=off"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 69
+    images:
+      - url: "https://c.ndtvimg.com/2020-09/s1b3rr1o_pm-modi_625x300_21_September_20.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "Artificial intelligence can bring opportunities, but protect it from interference in human intelligence: PM Modi"
     excerpt: "We must protect the world against the weaponisation of AI by non-State actors, says Modi at RAISE Summit 2020 While Artificial intelligence (AI) can bring a lot of opportunities in social transformation,"
     publishedDateTime: 2020-10-05T16:57:00Z

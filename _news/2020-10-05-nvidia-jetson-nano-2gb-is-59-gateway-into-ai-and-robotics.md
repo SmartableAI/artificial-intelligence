@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/nvidia-jetson-nano-2gb-is-59-gateway-into-
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidia-jetson-nano-2gb-is-59-gateway-into-ai-and-robotics-05641043/amp/"
 type: article
 quality: 121
-heat: 181
+heat: 191
 published: true
 
 provider:
@@ -106,6 +106,22 @@ related:
       - url: "https://247wallst.com/wp-content/uploads/2020/07/imageForEntry48-Txa.jpg?w=400"
         width: 400
         height: 225
+        isCached: true
+  - title: "NVIDIA takes on Raspberry Pi with $59 Jetson Nano machine learning computer"
+    excerpt: "Entering as a more affordable to tinker with machine learning, the new NVIDIA Jetson Nano 2GB debuts with a $59 price tag, USB-C, and more."
+    publishedDateTime: 2020-10-05T21:07:00Z
+    webUrl: "https://9to5toys.com/2020/10/05/nvidia-jetson-nano-2gb/"
+    ampWebUrl: "https://9to5toys.com/2020/10/05/nvidia-jetson-nano-2gb/amp/"
+    cdnAmpWebUrl: "https://9to5toys-com.cdn.ampproject.org/c/s/9to5toys.com/2020/10/05/nvidia-jetson-nano-2gb/amp/"
+    type: article
+    provider:
+      name: 9to5Toys
+      domain: 9to5toys.com
+    quality: 57
+    images:
+      - url: "https://9to5toys.com/wp-content/uploads/sites/5/2020/10/NVIDIA-Jetson-Nano.jpg?quality=82&strip=all"
+        width: 2000
+        height: 1000
         isCached: true
   - title: "NVIDIA's Jetson Nano 2GB AI Dev Kit Delivers Single Board Goodness For An Attractive Price"
     excerpt: "First introduced in 2014, NVIDIA's Jetson platform has been available to developers and tinkerers looking for cost-effective and powerful computing solutions for artificial intelligence and robotics applications."

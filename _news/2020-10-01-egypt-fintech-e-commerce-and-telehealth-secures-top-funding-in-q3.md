@@ -89,6 +89,20 @@ related:
         width: 1024
         height: 575
         isCached: true
+  - title: "Outcome-based investments and other fintech to watch"
+    excerpt: "For example, technologies such as IoT, cloud computing and DLT could help verify impact investments by creating and trading digital tokens linked to approved companies. Impact investing refers to investment in companies that have a direct and measurable effect on society and the environment."
+    publishedDateTime: 2020-10-05T20:25:00Z
+    webUrl: "https://www.advisor.ca/my-practice/technology/outcome-based-investments-and-other-fintech-to-watch/"
+    type: article
+    provider:
+      name: Advisor
+      domain: advisor.ca
+    quality: 24
+    images:
+      - url: "https://www.advisor.ca/wp-content/uploads/sites/5/2020/04/iStock-1091264044.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "CHjTJNhQqdkt1xQXF3b3bCeWBjlUAyR+skBf3PSnb8F0KshdSRLNuSZftFi8yIoqsgiH3jX45A1tSWG3SwdZXDSiyFCo/H7q0lqgN0oLJH7U7z/gNZU9M3LYbzvBg96S6VNNLNu5pGjdyorCK6e1+qPPZX9x6UCPG+m6lQPF9Zm/XDRmfXVRGFe2A2I2uFxcrdyAZQoHRpaE1Hz2ofvTKfpI0xszrnhmfomhPBsb2QnxPOAdUsox7aml3tLZXJAsUF+sYVQyOccHvL08jnnravHqGAvJpbot3Ww6EAbynsmJjsSEvrpU0l17WKwJQfEdSP2pcFiR13WMz/SEd5ynb4EqaWcGi+k0BAHrqqukkm8h+FZHghH/c04Sq/Ou0XM3XkfVgFuOQSd15rO9wbGW+2Cj6QmGHP8AXtZtQF49ufbpvu6L067UPtqCDdMwQdVN419DiKG4OulAieiN4yG806kP+BA5JkMF3nJLKTaDXtnWUrvFARRlR2UffoJn+IcIBg8ZDZIrgE0ybN5ZnCUc2Q==;49kiZKTynDguBgS8Lhu2iA=="
 ---

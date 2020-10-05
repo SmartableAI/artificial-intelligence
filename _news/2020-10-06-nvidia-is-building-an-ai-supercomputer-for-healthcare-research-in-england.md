@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/10/05/nvidia-is-building-an-
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/05/nvidia-is-building-an-ai-supercomputer-for-healthc/"
 type: article
 quality: 105
-heat: 205
+heat: 215
 published: true
 
 provider:
@@ -139,6 +139,20 @@ related:
       - url: "https://cache.careers360.mobi/media/article_images/2020/10/1/iijbekqg_iit-jodhpur-_625x300_13_January_20.jpg"
         width: 650
         height: 400
+        isCached: true
+  - title: "With SuperPod, Nvidia makes supercomputing a bigger focus of its AI strategy"
+    excerpt: "Nvidia Corp. opened its virtual GPU Technology Conference today by introducing a host of new artificial intelligence technologies, including an infrastructure offering that will a"
+    publishedDateTime: 2020-10-05T21:29:00Z
+    webUrl: "https://siliconangle.com/2020/10/05/superpod-nvidia-makes-supercomputing-bigger-focus-ai-strategy/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/nvidia.png"
+        width: 800
+        height: 425
         isCached: true
   - title: "Case Western Reserve University lab and partners using Artificial Intelligence to improve heart transplant outcomes"
     excerpt: "CLEVELAND — New Artificial Intelligence is being developed to increase success rates in heart transplant patients. And Cleveland is at the center of the research. Bioengineer and scientist Anant Madabhushi, along with a team of biomedical researchers out ..."

@@ -140,6 +140,20 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "With SuperPod, Nvidia makes supercomputing a bigger focus of its AI strategy"
+    excerpt: "Nvidia Corp. opened its virtual GPU Technology Conference today by introducing a host of new artificial intelligence technologies, including an infrastructure offering that will a"
+    publishedDateTime: 2020-10-05T21:29:00Z
+    webUrl: "https://siliconangle.com/2020/10/05/superpod-nvidia-makes-supercomputing-bigger-focus-ai-strategy/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/nvidia.png"
+        width: 800
+        height: 425
+        isCached: true
   - title: "Case Western Reserve University lab and partners using Artificial Intelligence to improve heart transplant outcomes"
     excerpt: "CLEVELAND — New Artificial Intelligence is being developed to increase success rates in heart transplant patients. And Cleveland is at the center of the research. Bioengineer and scientist Anant Madabhushi, along with a team of biomedical researchers out ..."
     publishedDateTime: 2020-10-05T19:45:00Z
@@ -180,6 +194,6 @@ related:
       domain: insidehpc.com
     quality: 22
 
-secured: "6Rfz3OLf8Kh4I85+2dYPKObq/PjJ3Yphdn+tWbQi90OAiRbY+MAMGzJPm8KFKX3Lp7eh97g+tuVutgmZJQp/DCZ83oVXn9Z3K78B0x/N6Zy+eewwqf+5m2/5A0zPCN+GPhytrWcb6VPnJG2hac/R7974g8AEQzV6NhfhzUBvA2U9Dpg/VimX+HzgZ1FDiP7n0k8P6w7I8EDwH+mqsrs9HylhCKUo4qhq52FZDLWoFPnTRCvPtQVWdzE35y5LHS5ff3vLDFoU5yQwGKwMembepaEjQtXHYMrxC7QZa9sd5ZHL61sTGKrewOqd3zh0u5gylf3n/2dTH3jwDLy+wP+TBCBAyUW9ge4PW6J42tI4S50=;hr51uptE+iC8UPHreZgt+w=="
+secured: "wEEKc0K9Td+BXxK5Cuvnv78P1T1lfTWTBHgQ3VJCWxbR/N2BIBg9b8FUccoSqGGJkk2byLt4xE/DiuQzrYpVigqzeeWUCpSkrs9jyAItMotvtytQwpxXMXpDS9QFctjCHxRLgTbeIEkmT799O/GcF3Zku0jihEyB41zfqsueLfRXJhNJJS+f1sfO1h+KlhpgjeREjMnSySTG0ISQ7I+9HnDenRrCpnUUbCRYuikDAJjtGB2UKpWBUHzWHbXamlzz6fz9f2hPAVdttbXDkI8v6JPilQmslZKEFXar/8aintwyDLakCX2cx/b089O1JmM242dmLt5GAWKV0KFAJz59RE1mlg0l73Qsdl16akHEQxQuPf50Fdu4B4g1+fuYvTkP34ISg+z5rrgSAGoXB1uVivYODPfpOrunrDZyTJEnj7MRr5l0thIauzjELLTCo17nt/xBqY9OMwxUsJzlRqwa034QdfxTjaXm/50eFLRj/E3eXDew1Ffvu0E4KMQM23SdAnCLMHFrRO0/YVHUkY1RvA==;q53S/9vFH6i/eWout/ikaA=="
 ---
 

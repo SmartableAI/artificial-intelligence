@@ -118,6 +118,22 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "NVIDIA takes on Raspberry Pi with $59 Jetson Nano machine learning computer"
+    excerpt: "Entering as a more affordable to tinker with machine learning, the new NVIDIA Jetson Nano 2GB debuts with a $59 price tag, USB-C, and more."
+    publishedDateTime: 2020-10-05T21:07:00Z
+    webUrl: "https://9to5toys.com/2020/10/05/nvidia-jetson-nano-2gb/"
+    ampWebUrl: "https://9to5toys.com/2020/10/05/nvidia-jetson-nano-2gb/amp/"
+    cdnAmpWebUrl: "https://9to5toys-com.cdn.ampproject.org/c/s/9to5toys.com/2020/10/05/nvidia-jetson-nano-2gb/amp/"
+    type: article
+    provider:
+      name: 9to5Toys
+      domain: 9to5toys.com
+    quality: 57
+    images:
+      - url: "https://9to5toys.com/wp-content/uploads/sites/5/2020/10/NVIDIA-Jetson-Nano.jpg?quality=82&strip=all"
+        width: 2000
+        height: 1000
+        isCached: true
 
 secured: "WavGlCdYLnhG1TP5HmHsoaDcHcrvZDDLYOcA3cnCsZpRvxESIqCCAhXuIfE8q8ZqzyjBTAfMei8h+3P3kf53ERlSTPEAKQC4a7P5kTLli24l5p+H/nufAA/gGRRuHIvTynQa5RPFoFVCRXArqZ+bnnIbkg7sYz0XWq+Q4AXfWXbg8X/eWmkgrxgu8svKNlgupnSpBo0bedWPnG2k8dAs19N14JrRTfXOnCbJfKh0+12pddpLEx/wJls0qEJ1XQYnYnUv1pFBqX3Tr4teolOF8ZTmQ6mRLQBXgqtX8NJRVh8grknsk3vxXqRCKVdFtWM5DEaG9g9Vd4vBvqzyIJOmerIX5KxO5PIxT5pObvatu3N2SZQ3lfohwZbl/OHdtDDDHhtiS+/112P0Pi2/7DSpe/O371RPswHDZMXs72Fz22OM0LDUMZyzoHfAluaXbkTJ8XmWIqcGsD67nbNJdKIOivWFQXiTJ6AzW91OFAXEGkYuR5EhSHIq+IJFrE1AQn9o5oOJEYfZTprfMrMxCmcdZQ==;RP60ykTrtZ4dLjKdDKHGxw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/10/05/nasa-releases-images-of-the
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/05/nasa-releases-images-of-the-first-craters-on-mars-discovered-by-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     isCached: true
 
 related:
+  - title: "NASA taps AI to identify \"fresh craters\" on Mars"
+    excerpt: "NASA's Jet Propulsion Laboratory uses an AI tool on a supercomputer cluster to identify potential craters on the Red Planet."
+    publishedDateTime: 2020-10-05T20:15:00Z
+    webUrl: "https://www.techrepublic.com/article/nasa-taps-ai-to-identify-fresh-craters-on-mars/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/nasa-taps-ai-to-identify-fresh-craters-on-mars/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/nasa-taps-ai-to-identify-fresh-craters-on-mars/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
   - title: "AI is helping scientists discover fresh craters on Mars"
     excerpt: "Sometime between March 2010 and May 2012, a meteor streaked across the Martian sky and broke into pieces, slamming into the planet's surface. The resulting craters were relatively small—just 13 feet (4 meters) in diameter."
     publishedDateTime: 2020-10-01T19:51:00Z

@@ -51,7 +51,12 @@ related:
     provider:
       name: United News of India
       domain: uniindia.com
-    quality: 17
+    quality: 39
+    images:
+      - url: "http://www.uniindia.com/cms/gall_content/2020/10/2020_10$largeimg05_Oct_2020_223344020.jpg"
+        width: 595
+        height: 350
+        isCached: true
 
 secured: "CKDo8bsXUDguHypBZZUgEELZLeLakh7pqzV55dMW88Tl/Kk4dQDAQXRv4JOyqTaqqyanECUOZfr4SzJdVsDDYkn90e14WadjS3DcGKn3VVidPpcgHbAWVpBA1p0sThOjIy2B45qknbd2h/mt8yU044g9gJOFD3mMNXO5s2P/KyxVnpBmjaXI+ZRC25wuLBiZDgVEbiep1spimND8VQoPjzrsptv+1kFZDI9CYOiJlLiL1q8pZ6245hmGbEEdBGe7wxktj8Y5Aaq2eFFSjyZciCC3Cs+lDKZ+Kk2hwU0e/XO75T4nQ1PV9JvN9gwwPopCPn3InWo1wRp4psibB1OeubB5Sb/HOOCYbvh4JrDCUlE=;XHB1OQQpDyxNrMb0Tsp7wg=="
 ---

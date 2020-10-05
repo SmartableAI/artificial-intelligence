@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-05T12:25:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-301145605.html"
 webUrl: "https://www.prnewswire.com/news-releases/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-301145605.html"
 type: article
-quality: 35
+quality: 33
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: prnewswire.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -56,6 +55,6 @@ related:
         height: 360
         isCached: true
 
-secured: "+bte1zskdq70o9lPQx0hTjjin/bQDLTHr7ht4mylp5eDRZwJ8adGSqjjMCCtcqVY/S0txrmpDjOaikq47kAfBOl/bB3p43Efz7MdHYaUyRmgZfZKI5EKgs/EIgmzy7slHymF+r/jpg6khHd4gjeDpbW2Td+krVlAYf+se78z05I+eCAjBRNWRiYmf6SVXUrJnLJVPSW9wDNpQWN3yizxH2LddqTFXn+Wk3ABphrcE1EOXqwKDkVtsll6vUdLNWDrSn2UdVzXom0AMjZfyqZREkWmRQejV5/ltcZ9saLgVg9VDAQ8aEe5fcSwuN4N4TF8wDmOTTd4CoIONBCit3F8yprol2AE7ILNYH/6AleSSwU=;q2UaTW4rA6c5REJmCV/zxw=="
+secured: "/mym1H4UqxumdcSGlar50RH6GzTkpy2J97GgzXcJYWHb/O67i5A2Qk3Ru6IWGLonAo/Z6UXqIzYUtT2EowHLK1NAxWojMu6xzGSj+WO36jQDJyBvbTCof2SX9g4J00gaVf0URVXG3s3Jc5kM9OW2QG4Kajac6PyKlwOIYrxa+ByLX5N6OEMVrtGJJqAtG5QXMZC2RVt6eHchq/JFTadCOxlvG1YE3yInqFGw47EUGLBdxqYOQZK+2GUKDcdAACP/49u59TIxO+3A8QcyKwDrHTIl5NjnEv9Unm3et651v91+Nh0trSRX8LA8CG303PZUfgemLKzXGk0+SzkuEuDv3LJR3phjcs3Q8njMLYwtWh0=;M/Ffo5fKuI8AsPUbMUtsYg=="
 ---
 

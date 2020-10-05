@@ -433,6 +433,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://apnews.com/press-release/marketers-media/technology-business-corporate-news-technology-issues-computer-and-data-security-6170fb08a59333afc9d0d5a88c330456</loc>
+    <lastmod>2020-09-30T19:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.news-medical.net/news/20200930/VA-Boston-and-BU-researchers-use-machine-learning-to-streamline-the-diagnostic-tool-for-PTSD.aspx</loc>
     <lastmod>2020-09-30T17:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1075,8 +1081,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/09/g17674891/worldwide-voice-recognition-biometrics-market-is-forecast-to-grow-by-usd-2-60-billion-during-2020-</loc>
-    <lastmod>2020-09-28T04:23:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/worldwide-voice-recognition-biometrics-market-is-forecast-to-grow-by-usd-2-60-billion-during-2020-2024-progressing-at-a-cagr-of-19-1029626428</loc>
+    <lastmod>2020-09-28T04:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1831,7 +1837,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.businesswire.com/news/home/20200922005002/en/</loc>
+    <loc>https://www.businesswire.com/news/home/20200922005002/en/Jumio-to-Enable-Biometric-Based-Identity-Proofing-Services-for-Microsoft-Azure-Active-Directory</loc>
     <lastmod>2020-09-22T15:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2997,6 +3003,12 @@
   <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/reducing-training-time-with-apache-mxnet-and-horovod-on-amazon-sagemaker/</loc>
     <lastmod>2020-09-15T14:16:08-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.in/tech/10-british-ai-startups-to-look-out-for-in-2016/slidelist/51167031.cms</loc>
+    <lastmod>2020-09-15T13:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
