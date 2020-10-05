@@ -52,6 +52,20 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "The Great Northern AI Summit is less than one week away"
+    excerpt: "AI Tech North's Great Northern AI Summit gets underway in one week and is set to explore the revolutionary world of AI and how it is a part of several areas of people's everyday lifes."
+    publishedDateTime: 2020-10-05T15:47:00Z
+    webUrl: "https://www.insidermedia.com/news/national/the-great-northern-ai-summit-is-less-than-one-week-away"
+    type: article
+    provider:
+      name: Insider
+      domain: insidermedia.com
+    quality: 39
+    images:
+      - url: "https://www.insidermedia.com/uploads/magazine/images/ybi_cover_oct_2020.jpg"
+        width: 350
+        height: 494
+        isCached: true
 
 secured: "nHHY8xJq7TPdFlaCPN8TTOGQ75VKQDnNWvnQyLjtLpWN7da4bgWRujKRdvWfao+K+mGAj/9uBLjLBPMi3SGijGwNbdIWdVGdu+nK9/2cCdJ0MI4nSlkxYdK/FgRYNQlLxa3EFgmP161gG9yNbuz+izgEuazY0QNWpOqoUHl7D9Mof0pAiYT6oqV0DgQkfnNnw507GxHRfXI6bQE1g5DvoUAvjM16l3PHVGInUvomNVaTLRn9xjdYAnqT4XBYN9eVFC3PqiKZ25o6n4NJLV8pkSUWAi2nmMWAv29sZWzXVlr3F9bSr8vB57OsvZZin8Z6L8qJTE7b70bw/cHS/HyUF9c65EnbJc9zjXSKY/kiVIo=;DclHjRfFNAdpKg6vKlSDNw=="
 ---

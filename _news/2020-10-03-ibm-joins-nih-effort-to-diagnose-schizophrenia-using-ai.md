@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/02/ibm-joins-nih-effort-to-diagnose-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/02/ibm-joins-nih-effort-to-diagnose-schizophrenia-using-ai/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "IBM Providing AI Solutions to Government"
-    excerpt: "including a deeper context of AI in health and human services, agency examples and outcomes achieved via IBM Watson, and IBM’s future plans. IBM Watson Health improves health and human services ..."
-    publishedDateTime: 2020-10-02T00:48:00Z
-    webUrl: "https://fcw.com/whitepapers/2020/10/ibm-watson-providing-ai-solutions-to-government-100120.aspx?tc=page0"
-    type: article
-    provider:
-      name: Federal Computer Week
-      domain: fcw.com
-    quality: 39
-    images:
-      - url: "https://fcw.com/~/media/GIG/FCW/FCWlogo.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "IBM Brings Artificial Intelligence At Scale To The Marketing And Media Industry"
     excerpt: "PRNewswire/ -- IBM (NYSE: IBM) today announced three new products to add to its growing suite of AI solutions for brand and publishers. The new"
     publishedDateTime: 2020-10-05T12:25:00Z
@@ -66,7 +52,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 35
+    quality: 37
     images:
       - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
         width: 2698

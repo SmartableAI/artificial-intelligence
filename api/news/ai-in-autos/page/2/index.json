@@ -2,6 +2,81 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-20-new-self-driving-truck-unveiled-in-china.md",
+      "title": "New self-driving truck unveiled in China",
+      "excerpt": "China's state-owned truck manufacturer First Automotive Works Jiefang Co. Ltd (FAW Jiefang) recently rolled out a self-driving heavy-duty truck J7.",
+      "sourceUrl": null,
+      "webUrl": "https://infosurhoy.com/economy/new-self-driving-truck-unveiled-in-china/",
+      "originalUrl": "https://infosurhoy.com/economy/new-self-driving-truck-unveiled-in-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://infosurhoy.com/economy/new-self-driving-truck-unveiled-in-china/amp/",
+      "cdnAmpWebUrl": "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/economy/new-self-driving-truck-unveiled-in-china/amp/",
+      "publishedDateTime": "2020-09-19T22:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoSur Hoy",
+        "domain": "infosurhoy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-computer-scientists-work-to-fix-easily-fooled-ai.md",
+      "title": "Computer Scientists Work To Fix Easily Fooled AI",
+      "excerpt": "DINA TEMPLE-RASTON, BYLINE: Artificial intelligence is all about showing ... TEMPLE-RASTON: It works so well that people who are developing driverless cars tapped the brakes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.npr.org/2019/09/18/762046356/u-s-military-researchers-work-to-fix-easily-fooled-ai",
+      "originalUrl": "https://www.npr.org/2019/09/18/762046356/u-s-military-researchers-work-to-fix-easily-fooled-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400",
+          "width": 1400,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-18T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NPR",
+        "domain": "npr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-driver-found-asleep-as-self-driving-tesla-car-breaks-speed-limit-cops.md",
       "title": "Driver Found Asleep As Self-Driving Tesla Car Breaks Speed Limit: Cops",
       "excerpt": "A driver who allegedly set his car to autopilot and then took a nap as it broke the speed limit on a rural Canadian highway has been charged with dangerous driving, police said.",
@@ -1282,108 +1357,6 @@
         "name": "The Hindu",
         "domain": "thehindu.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-baidu-opens-its-robotaxis-to-the-public-in-beijing-making-it-the-third-city-in-china-with-service.md",
-      "title": "Baidu opens its robotaxis to the public in Beijing, making it the third city in China with service",
-      "excerpt": "AutoX also opened its robotaxi ride-hailing service in Shanghai to the general public for the first time last month after running a pilot program with a limited group of users sin",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3101168/baidu-opens-its-robotaxis-public-beijing-making-it-third-city-china",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3101168/baidu-opens-its-robotaxis-public-beijing-making-it-third-city-china",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/09/11/b8a264c2-f3fc-11ea-8f3b-07283e3f3bd8_image_hires_160937.jpg?itok=_zKbtl1Z&v=1599811784",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3101168/baidu-opens-its-robotaxis-public-beijing-making-it-third-city-china",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3101168/baidu-opens-its-robotaxis-public-beijing-making-it-third-city-china",
-      "publishedDateTime": "2020-09-11T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-ai-will-change-the-way-events-are-planned-and-executed.md",
-      "title": "“AI will change the way events are planned and executed”",
-      "excerpt": "From driverless cars to virtual doctors, artificial intelligence (AI) is transforming the way we live, work, travel, and do business in the 21st century. PwC estimates that AI could add as much as ...",
-      "sourceUrl": null,
-      "webUrl": "https://medium.com/@naveengupta_88223/ai-will-change-the-way-events-are-planned-and-executed-db404bfb3308",
-      "originalUrl": "https://medium.com/@naveengupta_88223/ai-will-change-the-way-events-are-planned-and-executed-db404bfb3308",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*uR1V46w9647-E0aqntD3ZA.jpeg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-11T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

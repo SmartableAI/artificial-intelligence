@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/video/how-the-pandemic-has-reshaped-ai-robot
 webUrl: "https://www.zdnet.com/video/how-the-pandemic-has-reshaped-ai-robotics-and-automation/"
 type: article
 quality: 99
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AIOps uses AI, automation to boost security"
-    excerpt: "As security threats and attempted data breaches increase, more organizations are looking to the IT operations platform for AI-enabled cyber defense."
-    publishedDateTime: 2020-09-30T21:10:00Z
-    webUrl: "https://www.technologyreview.com/2020/09/30/1008689/aiops-uses-ai-automation-to-boost-security/"
-    ampWebUrl: "https://www.technologyreview.com/2020/09/30/1008689/aiops-uses-ai-automation-to-boost-security/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/09/30/1008689/aiops-uses-ai-automation-to-boost-security/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/09/MIT_AppDCoverARTonly.png"
-        width: 1500
-        height: 1161
-        isCached: true
   - title: "A Review of “The Reasonable Robot: Artificial Intelligence and the Law” and a Conversation with the Author"
     excerpt: "The Reasonable Robot” is a book written by Dr. Ryan Abbott who, when not thinking about the future of the future of artificial intelligence (AI) and the law, teaches law at the University of Surrey"
     publishedDateTime: 2020-10-05T13:07:00Z

@@ -2,6 +2,338 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-09-15-ai-robot-serves-customers-at-seoul-restaurant.md",
+      "title": "A.I. robot serves customers at Seoul restaurant",
+      "excerpt": "\"Aglio Kim\", a trolley-like robot which uses artificial intelligence (A.I.), is delivering food to customers at a restaurant in Seoul, in order to minimise human contact and help ensure social distancing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/health-coronavirus-southkorea-serving-ro-idUSL4N2GC0UK",
+      "originalUrl": "https://www.reuters.com/article/health-coronavirus-southkorea-serving-ro-idUSL4N2GC0UK",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200915&t=2&i=1533485848&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8E0SQ",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2661KB",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2661KB",
+      "publishedDateTime": "2020-09-15T03:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-what-are-deepfakes-ai-that-deceives.md",
+      "title": "What are deepfakes? AI that deceives",
+      "excerpt": "Deepfakes extend the idea of video compositing with deep learning to make someone appear to say or do something they didn’t really say or do",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3574949/what-are-deepfakes-ai-that-deceives.html",
+      "originalUrl": "https://www.infoworld.com/article/3574949/what-are-deepfakes-ai-that-deceives.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/10/cso_a_binary_mask_identity_artificial_intelligence_deepfakes_fraud_by_brownmantis_cc0_via_pixabay_1200x800-100812618-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3574949/what-are-deepfakes-ai-that-deceives.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3574949/what-are-deepfakes-ai-that-deceives.amp.html",
+      "publishedDateTime": "2020-09-15T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-deepminds-ai-is-helping-to-re-write-the-rules-of-chess.md",
+      "title": "DeepMind's AI is helping to re-write the rules of chess",
+      "excerpt": "In the game between chess and artificial intelligence, Google DeepMind's researchers have made yet another move, this time teaming up with ex-chess world champion Vladimir Kramnik to design and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2019/04/22/bb4eab38-d3e2-4df2-97b1-00c89187ee5d/thumbnail/1200x675/a215d738dcece5fd36b570b0e7ef01a3/thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/",
+      "publishedDateTime": "2020-09-15T02:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-computer-vision-in-healthcare-market-size-top-companies-growth-factors-market-status-and-future-forecasts-to-2027.md",
+      "title": "Computer Vision in Healthcare Market Size, Top Companies, Growth Factors, Market Status and Future Forecasts to 2027",
+      "excerpt": "Market Research Engine is a global market research and consulting organization. We provide market intelligence in emerging, niche technologies and markets. Our market analysis powered by rigorous ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-size-top-companies-growth-factors-market-status-and-future-forecasts-to-2027-2020-09-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-size-top-companies-growth-factors-market-status-and-future-forecasts-to-2027-2020-09-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-15T01:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders.md",
+      "title": "Dystech using artificial intelligence to help speed screening for learning disorders",
+      "excerpt": "French-born Hugo Richard was diagnosed with dyslexia and dysgraphia at the age of 12, but he didn't look into reading and writing disorders until he established Dystech. Dystech is an Australian startup that was co-founded by Richards,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders/",
+      "originalUrl": "https://www.zdnet.com/article/dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2014/04/24/51566025-9abe-4021-bf5c-7a32ef9c9320/reading-a-book-speed-read-flickr.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders/",
+      "publishedDateTime": "2020-09-15T00:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-how-artificial-intelligence-and-machine-learning-will-make-isr-faster.md",
+      "title": "How Artificial Intelligence And Machine Learning Will Make ISR Faster",
+      "excerpt": "Raytheon Intelligence and Space is integrating artificial intelligence and machine learning across ISR capabilities to help warfighters make decisions faster with reduced workload. (Raytheon Technologies photo illustration created by Grant Parsley) If a swarm of heavily armed fast boats barreled full speed at an aircraft carrier,",
+      "sourceUrl": null,
+      "webUrl": "https://breakingdefense.com/2020/09/how-artificial-intelligence-and-machine-learning-will-make-isr-faster/",
+      "originalUrl": "https://breakingdefense.com/2020/09/how-artificial-intelligence-and-machine-learning-will-make-isr-faster/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sites.breakingmedia.com/uploads/sites/3/2020/09/20RIS031_RTX_DecisionSuperiorityCampaign_SponsoredContent_640x500.jpg",
+          "width": 640,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://breakingdefense.com/2020/09/how-artificial-intelligence-and-machine-learning-will-make-isr-faster/amp/",
+      "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2020/09/how-artificial-intelligence-and-machine-learning-will-make-isr-faster/amp/",
+      "publishedDateTime": "2020-09-14T19:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Breaking Defense",
+        "domain": "breakingdefense.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-amazon-under-fire-for-new-facial-recognition-tool.md",
+      "title": "Amazon under fire for new facial recognition tool",
+      "excerpt": "Amazon Rekognition is a facial recognition tool that the company says can scan people in real time. Privacy advocates say the tech giant's newest offering goes too ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/video/partner/nbc/518886504/5b05ad3b7985d825d454ed47/",
+      "originalUrl": "https://www.aol.com/video/partner/nbc/518886504/5b05ad3b7985d825d454ed47/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-browser-based-models-with-tensorflowjs.md",
       "title": "Browser-based Models with TensorFlow.js",
       "excerpt": "The first thing you’ll need to do is add a script tag below the head and above the body of your HTML file to load the TensorFlow.js file. Below is the code to do that. Also, dotraining() should ...",
@@ -797,346 +1129,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-new-insights-into-dreams-and-what-they-say-about-us.md",
-      "title": "New Insights Into Dreams and What They Say About Us",
-      "excerpt": "They’re advancing artificial intelligence and digital databases into the realm of the unconscious, experimenting with new ways to identify those in mental distress and at the same time provoking ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/big-data-reveals-new-insights-into-what-our-dreams-say-about-us-11600098682",
-      "originalUrl": "https://www.wsj.com/articles/big-data-reveals-new-insights-into-what-our-dreams-say-about-us-11600098682",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-231790/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/big-data-reveals-new-insights-into-what-our-dreams-say-about-us-11600098682",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/big-data-reveals-new-insights-into-what-our-dreams-say-about-us-11600098682",
-      "publishedDateTime": "2020-09-14T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-ibm-to-leverage-watson-enhance-fantasy-football-experience.md",
-      "title": "IBM to Leverage Watson, Enhance Fantasy Football Experience",
-      "excerpt": "International Business Machines Corporation IBM will be leveraging the AI capabilities of Watson to enrich ESPN Fantasy Football experience for gamers. IBM unveiled a new feature called Trade Assistant (only for mobile iOS and Android) to help gamers make judicious decisions regarding adding and offloading players from the teams.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ibm-to-leverage-watson-enhance-fantasy-football-experience-2020-09-14",
-      "originalUrl": "https://www.nasdaq.com/articles/ibm-to-leverage-watson-enhance-fantasy-football-experience-2020-09-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ibm-to-leverage-watson-enhance-fantasy-football-experience-2020-09-14?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-to-leverage-watson-enhance-fantasy-football-experience-2020-09-14?amp",
-      "publishedDateTime": "2020-09-14T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-idriverplus-raises-over-146-million-for-autonomous-street-cleaners-and-cars.md",
-      "title": "Idriverplus raises over $14.6 million for autonomous street cleaners and cars",
-      "excerpt": "Beijing-based self-driving startup Idriverplus raised $14.6 million in funding to further develop its autonomous robot and vehicle platform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/14/idriverplus-raises-over-14-6-million-for-autonomous-street-cleaners-and-cars/",
-      "originalUrl": "https://venturebeat.com/2020/09/14/idriverplus-raises-over-14-6-million-for-autonomous-street-cleaners-and-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/1280-e1600097257631.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/14/idriverplus-raises-over-14-6-million-for-autonomous-street-cleaners-and-cars/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/14/idriverplus-raises-over-14-6-million-for-autonomous-street-cleaners-and-cars/amp/",
-      "publishedDateTime": "2020-09-14T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-artificial-neural-network-market-covid19-impact-size-share-trends-ann-technology-software-services-application-and-demand-by-2023.md",
-      "title": "Artificial Neural Network Market- Covid19 Impact, Size, Share, Trends, ANN Technology, Software & Services, Application and Demand by 2023",
-      "excerpt": "According to Market Research Future Reports (MRFR), the global artificial neural network market is expected to acquire a significant market value, thriving at a substantial CAGR during the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-network-market--covid19-impact-size-share-trends-ann-technology-software-services-application-and-demand-by-2023-2020-09-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-network-market--covid19-impact-size-share-trends-ann-technology-software-services-application-and-demand-by-2023-2020-09-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-14T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-when-wildfire-smoke-and-ash-fill-the-sky-heres-how-self-driving-cars-can-go-awry.md",
-      "title": "When Wildfire Smoke And Ash Fill The Sky, Here’s How Self-Driving Cars Can Go Awry",
-      "excerpt": "An especially eerie sight made the national and international news last week when the Bay Area and other surrounding locales became thick with smoke and ash, causing the skies to showcase a menacing red-orange glow and blotted out any semblance of a normal sky.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/14/when-wildfire-smoke-and-ash-fill-the-sky-heres-how-self-driving-cars-can-go-awry/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/14/when-wildfire-smoke-and-ash-fill-the-sky-heres-how-self-driving-cars-can-go-awry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5d987fd704a8411dbcd758%2F0x0.jpg%3FcropX1%3D979%26cropX2%3D5000%26cropY1%3D312%26cropY2%3D3097",
-          "width": 1200,
-          "height": 831,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/14/when-wildfire-smoke-and-ash-fill-the-sky-heres-how-self-driving-cars-can-go-awry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/14/when-wildfire-smoke-and-ash-fill-the-sky-heres-how-self-driving-cars-can-go-awry/amp/",
-      "publishedDateTime": "2020-09-14T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-boston-dynamics-ceo-talks-profitability-and-the-companys-next-robots.md",
-      "title": "Boston Dynamics CEO talks profitability and the company’s next robots",
-      "excerpt": "Boston Dynamics CEO Robert Playter discusses profitability; Spot, Pick, Handle, and Atlas; the company's broader roadmap, including which robots are next.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/14/boston-dynamics-ceo-profitability-roadmap-next-robots/",
-      "originalUrl": "https://venturebeat.com/2020/09/14/boston-dynamics-ceo-profitability-roadmap-next-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/robert-playter-headshot.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/14/boston-dynamics-ceo-profitability-roadmap-next-robots/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/14/boston-dynamics-ceo-profitability-roadmap-next-robots/amp/",
-      "publishedDateTime": "2020-09-14T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-nvidia-wants-its-gpus-in-your-arm-powered-smartphone.md",
-      "title": "Nvidia wants its GPUs in your Arm-powered smartphone",
-      "excerpt": "Nvidia chief executive Jensen Huang says he wants to use ARM's licensing model to license GPUs. That probably means that your ARM-powered smartphone will feature an Nvidia GPU, someday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/3575077/nvidia-wants-its-gpus-in-your-arm-powered-smartphone.html",
-      "originalUrl": "https://www.pcworld.com/article/3575077/nvidia-wants-its-gpus-in-your-arm-powered-smartphone.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/06/dsc06888-100759987-large.jpg",
-          "width": 1200,
-          "height": 797,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/3575077/nvidia-wants-its-gpus-in-your-arm-powered-smartphone.amp.html",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3575077/nvidia-wants-its-gpus-in-your-arm-powered-smartphone.amp.html",
-      "publishedDateTime": "2020-09-14T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

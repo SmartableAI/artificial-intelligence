@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/03/tire-blowouts-c
 webUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/03/tire-blowouts-could-cause-self-driving-cars-to-go-astray/"
 type: article
 quality: 54
-heat: 104
+heat: 84
 published: true
 
 provider:
@@ -73,29 +73,6 @@ related:
         width: 1920
         height: 1242
         isCached: true
-  - title: "Self-Driving Cars Are Still Years Away"
-    excerpt: "Even though automobile companies presented big promises to have fully autonomous cars by 2021, there are multiple planning and technological barriers that will need to be overcome before these vehicles become an everyday reality."
-    publishedDateTime: 2020-10-04T20:16:00Z
-    webUrl: "https://urbanmilwaukee.com/2020/10/04/urban-reads-self-driving-cars-are-still-years-away/"
-    type: article
-    provider:
-      name: Urban Milwaukee
-      domain: urbanmilwaukee.com
-    quality: 24
-    images:
-      - url: "https://urbanmilwaukee.com/wp-content/uploads/2017/04/autonomous-car-e1493403690497.jpg"
-        width: 1024
-        height: 680
-        isCached: true
-  - title: "The self-driving cars of the future aren’t inclusive. They’re trying to change that."
-    excerpt: "By combining artificial intelligence with research that looks into the way people interact with machines and computers, researchers at Northeastern and the University of Maine want to help make self-driving cars even smarter and accessible for people who are visually impaired or blind."
-    publishedDateTime: 2020-09-30T22:02:00Z
-    webUrl: "https://news.northeastern.edu/2020/09/30/the-self-driving-cars-of-the-future-arent-inclusive-theyre-trying-to-change-that/"
-    type: article
-    provider:
-      name: Northeastern University
-      domain: northeastern.edu
-    quality: 0
 
 secured: "hRlE8ESl6s/HtMIf52EKPi3zmU7yekKWr25iEvpJI1Sv5mhhkGUhGlSx0K9CZlLcvhTRYNY4pADUF3J1GimdLupySztArTk8CXJmL7Q5kt6+1QoNfRRJHQiAn14qZCt82nEkxhD1OQFnllqHcsZlddOilhCYgStrzOUgVkBfhkZCGEDxOHWk+WMGbZj8Vjv/sIUqrq7gA0GdijP8kNH36/u5XGWXW7eJGZH0XF1utbJ6rVBcc0cZysFoPTdbCuL9DwcZ869y/G87OtFZjqNd+HQZtJ17H2sap1nnAaRD+BGwmunZMrMXGIazDVoxKe74t+5ipgcB3RzQ2BXaOmsCS0zsCwuQcCRAHhGLEsAaUokKcsrrL004KVnf71+74BHOLW7YhoCfU2I2MfLc++VH8bVZ9taD0p7Kja+ZYR8jxtLhpHtxchaOHspaS3CiF4WFEY2GmzxDnRjsA3w5JwEryAKU8FTBvaS/SNu9+Ba1J9FNpUPf9UOX3yS+hY8y4tJrsP59em3WDnpYuU1wmvhy4w==;GnWbfGbwkrY/OyFujJI02Q=="
 ---

@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia Says It’s Building UK’s Most Powerful Supercomputer, Dedicated to AI Research in Healthcare"
+    excerpt: "Nvidia announced today at its GPU Technology Conference (GTC) it is building the United Kingdom’s most powerful supercomputer, which it will make available to U.K. healthcare researchers using AI to solve pressing medical challenges,"
+    publishedDateTime: 2020-10-05T14:11:00Z
+    webUrl: "https://insidehpc.com/2020/10/nvidia-says-its-building-uks-most-powerful-supercomputer-dedicated-to-ai-research-in-healthcare/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 22
   - title: "Updated: IIT Jodhpur Receives NVIDIA DGX A100 AI System in India"
     excerpt: "Indian Institute of Technology Jodhpur (IITJ) today announced the installation of two NVIDIA DGX A100 systems at the Central Computing Facility for students from all departments, including the School of AI and Data Science,"
     publishedDateTime: 2020-10-01T14:20:00Z
@@ -33,6 +42,15 @@ related:
     provider:
       name: Business Wire
       domain: businesswireindia.com
+    quality: 19
+  - title: "Nvidia Announces DGX SuperPODs for AI, Available in 20-Node Increments"
+    excerpt: "Nvidia today announced at its GPU Technology Conference (GTC) the Nvidia DGX SuperPOD Solution for Enterprise, the world’s first turnkey AI infrastructure, making it possible for organizations to install incredibly powerful AI supercomputers with extraordinary speed — in many cases in just a few weeks’ time."
+    publishedDateTime: 2020-10-05T14:01:00Z
+    webUrl: "https://insidehpc.com/2020/10/nvidia-announces-dgx-superpods-for-ai-available-in-20-node-increments/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
     quality: 19
 
 secured: "hCTIw8AzGZI4647PdJ3FrZtkk8Fih9/ANNX2EzVPH2UVdbtrxcXydn1MKYFgVeq1mRw/5LlH7dIoOt7b3nMRxNjJw1UdY3mU/OjjAXjoDlkg+OAYg8bgs1UgDmzQ/g7uTLsYjIW2eNl7bpbk8/1FBjojqP1gou9x8H8TCjG5bMf6Q02FT2EiclkK/nuFhfSaxb+j9pZPUJOUyEO/FM9v8xLAbmrMtKCTPD5BtpE/955CjsJCblxtMK5mC8SbGG0qmbn65vkSyVyBU3QfzENTOTAzmQCKEHF8rQZHr/OV9OVbFWMXqNuaxYR+Y4fYCCupfEvDI2cc8NedIV1/EHW+kgGez/5oZh1EQUJ2EYvXRFqdHzYtf1WBtHObPvFcclCOL2UYsOiCb5HpFt/O5BfVEMyiSYXdCDserMyw7pC8ER01gEZXCkKGDwme8dPM8Ooei+i9/tnKFDCupFfK20JpSNvhR2rscPwVPTJzh3IP9IqaPzUvOdb8xn1LWld4UVH3O7Fz886Bv689NxfxBn5CXg==;iuLfLO9Dv0xgzY6X2x54vg=="

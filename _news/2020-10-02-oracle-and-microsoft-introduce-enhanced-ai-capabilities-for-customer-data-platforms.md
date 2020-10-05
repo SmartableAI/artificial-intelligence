@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "From Microsoft VP to law student: What this exec’s career transition says about AI and the law"
-    excerpt: "Mike Angiulo worked at Microsoft for 25 years as an engineering manager and vice president for products including Windows PCs, Microsoft Outlook, Xbox, Surface, and cloud and artificial"
-    publishedDateTime: 2020-09-30T21:20:00Z
-    webUrl: "https://www.geekwire.com/2020/microsoft-vp-law-student-execs-career-transition-says-ai-law/"
-    ampWebUrl: "https://www.geekwire.com/2020/microsoft-vp-law-student-execs-career-transition-says-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-vp-law-student-execs-career-transition-says-ai-law/amp/"
+  - title: "Artificial Intelligence For Accounting Market Economic Perspective and Forecast To 2026 | Microsoft, AWS, Xero, Intuit, Sage, OSP, UiPath, Kore.ai"
+    excerpt: "Global Artificial Intelligence For Accounting Market Size, Status And Forecast 2020-2026 The report begins with"
+    publishedDateTime: 2020-10-03T07:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-economic-perspective-and-forecast-to-2026-microsoft-aws-xero-intuit-sage-osp-uipath-koreai-2020-10-03?mod=mw_quote_news"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 92
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 78
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/09/mike-angiulo-2-630x420.jpg"
-        width: 630
-        height: 420
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "7NrMUCttko3UNfnWZx6si9f9XBAvp3z4giI5lJiRZdFtnApFJhPkOPsA1vH9oejIJ7Z2+IKGuUYIevgl5YWeEcENuDo3gW2NPeDzZ0NVSy92HTvCxXz8Cw6vy/gSLqH66AganySkMs+mcL8yNyp4h7xxIKFzKP6LtMMLn8UDeMgkG1bX4cvX9sjiftst1V+oiTsC89T+E/czW13h2irdgv6Yv+ZupQVKUgqg9k2VQ+aEqoOhOtN1AixEw3lcwGZraSlZrHrXFqDxWAASJJLAKyBBQcDv2YxPfd0YPCB+W/U5MHauAGlx4bvZMtoLjgphN10Fg69kC/wH7ihrXzLgJrcUGHmuV9/4KYfb2+RaD0AA0SRdBhi/6pjZr+MBa6rxkt83+cf7HSOUeg3ZOcqqhs4FkXXT+vJNjKUrYHR8xgkpMvspYHFCqRdZU0m/jd2JA/5u4dHW71V6R6iKS3h+ILNwji6j4fY7q5Inrrb6RfgD8zVB+O/jj7Xt/31niO9nJumCP8lWdhGiQKHi34HxRg==;/LhG6S9QsFfZ7GqPc733OQ=="

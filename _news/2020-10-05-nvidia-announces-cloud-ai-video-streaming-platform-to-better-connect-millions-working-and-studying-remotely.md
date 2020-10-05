@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/nvidia-announces-c
 webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-announces-cloud-ai-video-streaming-platform-to-better-connect-millions-working-and-studying-remotely-1029648307"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -23,33 +23,19 @@ topics:
   - AI
 
 related:
-  - title: "Modzy Presenting at NVIDIA GPU Technology Conference"
-    excerpt: "Modzy, the leading enterprise AI platform, today announced that it will be a Global Diamond sponsor of the upcoming NVIDIA GPU Technology Conference (GTC), with workshops and the conference scheduled for Oct."
-    publishedDateTime: 2020-10-02T18:00:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-science-artificial-intelligence-computing-and-information-technology-33bfb90961274c0e84c1c25b2a49fd9c"
+  - title: "Nvidia makes advances in DPUs, edge AI, technical collaboration, videoconferencing and drug discovery"
+    excerpt: "Nvidia's GTC conference may be virtual this year, but that hasn't stopped the company making several real announcements. Data centre. Following last week's joint announcement with VMware about the use of DPUs in the data centre,"
+    publishedDateTime: 2020-10-05T14:00:00Z
+    webUrl: "https://www.itwire.com/enterprise-solutions/nvidia-makes-advances-in-dpus,-edge-ai,-technical-collaboration,-videoconferencing-and-drug-discovery.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
+      name: ITWire
+      domain: itwire.com
+    quality: 24
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "StradVision Unveils New Solution for Vehicle 360-degree Vision at NVIDIA's GPU Technology Conference 2020"
-    excerpt: "StradVision will reveal its new Advanced Driver-Assistance Systems (ADAS) solution for automotive surround view monitoring at NVIDIA's 11th"
-    publishedDateTime: 2020-10-05T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/stradvision-unveils-new-solution-for-vehicle-360-degree-vision-at-nvidias-gpu-technology-conference-2020-301145582.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 22
-    images:
-      - url: "https://mma.prnewswire.com/media/1003667/StradVision_Logo.jpg?p=facebook"
-        width: 1413
-        height: 740
+      - url: "https://www.itwire.com/media/k2/items/cache/ea0cf8fa7dbf9bcbcd95665a78286a58_M.jpg"
+        width: 375
+        height: 231
         isCached: true
 
 secured: "r9Df1o14H4uD7bq/zbqIDyoWQ0e8WtBUdJhkVU+y768udn1XVZH+fwpTNTN1eaHS3NZ3Sr2cD0Jgk9dQMSO5GMHmo//gUmXgUAiJVtbVF0zRFxX9hCThYLi8SsHKPMsdsXnR+cyueUclDEJrs91gyPrSuq2qiOOxkAdE/gaeOmNB6OnKjH5TeZ4lARpIAxr0yuGhAn3cZP5zxLMfWsmmReupVJo415HGkedYC8g0Q67yzYi6bHta+58tRX6vq0t9uAbz1Yguobs1lS/P3qrHmfWqA/xqhMso6sQsGOdBPo2WeUW8CeqkukobYr0jSvq6MPbW1Wm9Ubn4rfhu6VRSjsalGezm+c9tPm60MbIUpBE=;D45r/k1T2n3zIFzGCMHyVg=="

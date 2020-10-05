@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.fool.com/investing/2020/10/05/3-top-artificial-intelligence-stocks-to-buy-in-oct/</loc>
+    <lastmod>2020-10-05T08:10:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.neowin.net/news/nvidia-introduces-ampere-based-rtx-a6000-gpu-for-professionals</loc>
+    <lastmod>2020-10-05T07:42:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.bloomberg.com/news/articles/2020-10-05/voyage-ceo-oliver-cameron-on-robo-taxis-self-driving-cars-and-coronavirus</loc>
+    <lastmod>2020-10-05T07:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.geekwire.com/2020/madrona-leads-3-9m-seed-round-cybersecurity-compliance-startup-strike-graph/</loc>
+    <lastmod>2020-10-05T07:19:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.slashgear.com/nvidia-jetson-nano-2gb-is-59-gateway-into-ai-and-robotics-05641043/</loc>
     <lastmod>2020-10-05T06:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -33,6 +57,18 @@
   <url>
     <loc>https://www.forbes.com/sites/forbestechcouncil/2020/10/05/cloud-ai-can-help-you-survive-the-storm/</loc>
     <lastmod>2020-10-05T04:24:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://azure.microsoft.com/blog/deliver-ai-powered-application-search-with-azure-cognitive-search-and-ba-insight/</loc>
+    <lastmod>2020-10-05T01:30:01-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://azure.microsoft.com/blog/azure-machine-learning-helps-customers-stay-ahead-of-challenges/</loc>
+    <lastmod>2020-10-05T01:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -157,12 +193,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nasdaq.com/articles/7-artificial-intelligence-stocks-to-buy-for-october-2020-10-02</loc>
-    <lastmod>2020-10-02T06:58:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.businessinsider.com/3-best-practices-for-implementing-ai-in-banking-2020-10</loc>
     <lastmod>2020-10-02T06:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -201,6 +231,12 @@
   <url>
     <loc>https://mobile.twitter.com/BernardMarr?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor</loc>
     <lastmod>2020-10-01T21:25:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/building-an-end-to-end-intelligent-document-processing-solution-using-aws/</loc>
+    <lastmod>2020-10-01T18:25:41-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -255,6 +291,12 @@
   <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/halloween-themed-aws-deepcomposer-chartbusters-challenge-track-or-treat/</loc>
     <lastmod>2020-10-01T10:35:17-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.zdnet.com/video/how-to-avoid-disasters-like-amazons-rekognition/</loc>
+    <lastmod>2020-10-01T08:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1453,14 +1495,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/tomorrow-socratesai-to-host-webinar-giving-your-company-a-single-voice-2020-09-21</loc>
-    <lastmod>2020-09-24T01:02:00-07:00</lastmod>
+    <loc>https://www.commsmea.com/business/opinion/22450-four-steps-to-accelerate-your-machine-learning-journey</loc>
+    <lastmod>2020-09-24T01:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.itp.net/news/93915-four-steps-to-accelerate-your-machine-learning-journey</loc>
-    <lastmod>2020-09-24T00:44:00-07:00</lastmod>
+    <loc>https://www.marketwatch.com/press-release/tomorrow-socratesai-to-host-webinar-giving-your-company-a-single-voice-2020-09-21</loc>
+    <lastmod>2020-09-24T01:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1483,7 +1525,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.reuters.com/article/autos-self-driving-congress/congress-will-try-again-in-2021-on-self-driving-car-reform-idUSL2N2GK18L</loc>
+    <loc>https://www.reuters.com/article/us-autos-self-driving-congress-idINKCN26E2RA</loc>
     <lastmod>2020-09-23T13:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1639,12 +1681,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wsj.com/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460</loc>
-    <lastmod>2020-09-23T05:01:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.forbes.com/sites/forbesfinancecouncil/2020/09/23/how-artificial-intelligence-can-enable-ethically-driven-investments/</loc>
     <lastmod>2020-09-23T04:39:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1695,6 +1731,12 @@
   <url>
     <loc>https://english.madhyamam.com/technology/global-chipmaker-qualcomm-announces-snapdragon-750g-chip-with-5g-connectivity-574863</loc>
     <lastmod>2020-09-23T00:20:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wsj.com/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460?mod=hp_minor_pos13</loc>
+    <lastmod>2020-09-23T00:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1849,14 +1891,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.openpr.com/news/2139411/covid-19-impact-on-ai-medicine-software-market-outlook</loc>
-    <lastmod>2020-09-22T05:28:00-07:00</lastmod>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace/article_f6c327bd-10d4-5df0-beed-77fd9ceef60a.html</loc>
+    <lastmod>2020-09-22T05:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572</loc>
-    <lastmod>2020-09-22T05:17:00-07:00</lastmod>
+    <loc>https://www.openpr.com/news/2139411/covid-19-impact-on-ai-medicine-software-market-outlook</loc>
+    <lastmod>2020-09-22T05:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

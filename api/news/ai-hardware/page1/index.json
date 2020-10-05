@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-05-nvidia-introduces-ampere-based-rtx-a6000-gpu-for-professionals.md",
+      "title": "Nvidia introduces Ampere-based RTX A6000 GPU for professionals",
+      "excerpt": "Nvidia held its GPU Technology Conference, or GTC, and it unveiled a ton of new technologies and capabilities at the event, including a new Ampere-based professional GPU, the RTX A6000.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/nvidia-introduces-ampere-based-rtx-a6000-gpu-for-professionals",
+      "originalUrl": "https://www.neowin.net/news/nvidia-introduces-ampere-based-rtx-a6000-gpu-for-professionals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/10/1601908637_quadro-rtx-a6000_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/nvidia-introduces-ampere-based-rtx-a6000-gpu-for-professionals/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/nvidia-introduces-ampere-based-rtx-a6000-gpu-for-professionals/",
+      "publishedDateTime": "2020-10-05T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-nvidia-jetson-nano-2gb-is-59-gateway-into-ai-and-robotics.md",
       "title": "NVIDIA Jetson Nano 2GB is $59 gateway into AI and robotics",
       "excerpt": "That’s because it taps the same Jetson AI at the Edge platform as the rest of NVIDIA’s Jetson ... The Jetson Nano 2GB gets a 128-core NVIDIA Maxwell GPU and a 64-bit quad-core Arm A57 CPU running at 1.43 GHz. They’re combined with 2GB of LPDDR4 ...",
@@ -10,7 +61,7 @@
       "originalUrl": "https://www.slashgear.com/nvidia-jetson-nano-2gb-is-59-gateway-into-ai-and-robotics-05641043/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -113,7 +164,7 @@
       "originalUrl": "https://venturebeat.com/2020/10/03/nvidias-gtc-event-will-shine-a-spotlight-on-200-ai-startups/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 181,
+      "heat": 201,
       "tags": null,
       "images": [
         {
@@ -1402,48 +1453,6 @@
       "provider": {
         "name": "Bitcoin.com",
         "domain": "bitcoin.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-nvidia-rtx-3090-3080-3070-gpu-all-specs-prices-and-release-dates-detailed.md",
-      "title": "Nvidia RTX 3090, 3080, 3070 GPU: All Specs, Prices, And Release Dates Detailed",
-      "excerpt": "Nvidia revealed its new RTX 3000 line of Ampere-powered GPU earlier this month ... of the Turing-based RTX 20 series which first introduced real-time ray tracing and AI capabilities in graphics hardware. Those video cards feature multiple processing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gamespot.com/articles/nvidia-rtx-3090-3080-3070-gpu-all-specs-prices-and-release-dates-detailed/1100-6481673/",
-      "originalUrl": "https://www.gamespot.com/articles/nvidia-rtx-3090-3080-3070-gpu-all-specs-prices-and-release-dates-detailed/1100-6481673/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3728918-pcgaming_rtx30series_impressions_20200901_site.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/nvidia-rtx-3090-3080-3070-gpu-all-specs-prices-and-release-dates-detailed/1100-6481673/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/nvidia-rtx-3090-3080-3070-gpu-all-specs-prices-and-release-dates-detailed/1100-6481673/",
-      "publishedDateTime": "2020-09-17T19:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
         "images": null,
         "publishers": null,
         "authors": null

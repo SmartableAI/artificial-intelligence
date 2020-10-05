@@ -2,6 +2,300 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-03-ibm-joins-nih-effort-to-diagnose-schizophrenia-using-ai.md",
+      "title": "IBM joins NIH effort to diagnose schizophrenia using AI",
+      "excerpt": "IBM says it will join an U.S. National Institutes of Health effort to apply data analysis to identifying schizophrenia diagnostic techniques and treatments.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/02/ibm-joins-nih-effort-to-diagnose-schizophrenia-using-ai/",
+      "originalUrl": "https://venturebeat.com/2020/10/02/ibm-joins-nih-effort-to-diagnose-schizophrenia-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/02/ibm-joins-nih-effort-to-diagnose-schizophrenia-using-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/02/ibm-joins-nih-effort-to-diagnose-schizophrenia-using-ai/amp/",
+      "publishedDateTime": "2020-10-02T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-03-parkland-parents-create-artificial-intelligence-video-of-slain-son-to-spur-voters.md",
+      "title": "Parkland parents create artificial intelligence video of slain son to spur voters",
+      "excerpt": "Wearing his signature hoodie and beanie, an earbud casually hanging from one ear, passionate Parkland teen Joaquin Oliver urges his peers to vote for lawmakers who will end gun violence in a new video released Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/parkland-ai-video-son-voters",
+      "originalUrl": "https://www.foxnews.com/us/parkland-ai-video-son-voters",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/92a015b7-e5da-4532-a5e3-7990a14b4476/e83f5a0d-f2ad-49fe-81f0-6d88b306a6ed/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/parkland-ai-video-son-voters.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/parkland-ai-video-son-voters.amp",
+      "publishedDateTime": "2020-10-02T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-03-writer-pens-a-5m-seed-round-for-its-ai-style-guide-that-flags-bias-and-tone.md",
+      "title": "Writer pens a $5M seed round for its AI style guide that flags bias and tone",
+      "excerpt": "Anyone who writes online or in a word processor has likely gotten used to the inevitable squiggly line denoting a misspelled word or clumsy phrase. But what if you use a word that’s loaded, a phrase that’s too formal or not formal enough,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/02/writer-pens-a-5m-seed-round-for-its-ai-style-guide-that-flags-bias-and-tone/",
+      "originalUrl": "https://techcrunch.com/2020/10/02/writer-pens-a-5m-seed-round-for-its-ai-style-guide-that-flags-bias-and-tone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/writer-hed.jpg?w=1024",
+          "width": 1024,
+          "height": 780,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/02/writer-pens-a-5m-seed-round-for-its-ai-style-guide-that-flags-bias-and-tone/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/02/writer-pens-a-5m-seed-round-for-its-ai-style-guide-that-flags-bias-and-tone/amp/",
+      "publishedDateTime": "2020-10-02T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-03-the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.md",
+      "title": "The HP Spectre x360 14 gets a lush OLED display and a lot more AI smarts",
+      "excerpt": "The new HP Spectre x360 14 features OLED, while the Spectre x360 13 and Envy x360 upgrade to 11th-gen Tiger Lake processors",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/3584530/the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.html",
+      "originalUrl": "https://www.pcworld.com/article/3584530/the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/10/hp-spectre-x360-14-front-facing_natural-silver-100860561-large.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/3584530/the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.amp.html",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3584530/the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.amp.html",
+      "publishedDateTime": "2020-10-02T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-landmark-court-decision-says-robots-cant-be-inventors-but-the-fight-isnt-over.md",
+      "title": "Landmark court decision says robots can’t be inventors. But the fight isn’t over",
+      "excerpt": "The United Kingdom's highest court tossed out a case that would've established that machines can be creative and win patents for their inventions",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/features/court-decides-robots-machines-cant-be-inventors/",
+      "originalUrl": "https://www.digitaltrends.com/features/court-decides-robots-machines-cant-be-inventors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/imagecomposite_aibrain_200723-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/features/court-decides-robots-machines-cant-be-inventors/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/court-decides-robots-machines-cant-be-inventors/?amp",
+      "publishedDateTime": "2020-10-02T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-ai-and-ethics-one-third-of-executives-are-not-aware-of-potential-ai-bias.md",
+      "title": "AI and ethics: One-third of executives are not aware of potential AI bias",
+      "excerpt": "The majority of consumers expect companies to be accountable for their AI systems, yet about half of companies do not have a dedicated member overseeing ethical AI implementation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-and-ethics-one-third-of-executives-are-not-aware-of-potential-ai-bias/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-and-ethics-one-third-of-executives-are-not-aware-of-potential-ai-bias/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-and-ethics-one-third-of-executives-are-not-aware-of-potential-ai-bias/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-and-ethics-one-third-of-executives-are-not-aware-of-potential-ai-bias/",
+      "publishedDateTime": "2020-10-02T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-shares-up-13.md",
       "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) Shares Up 1.3%",
       "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) shot up 1.3% during trading on Thursday . The stock traded as high as $39.44 and last traded at $39.44. 11,825 shares were traded during mid-day trading,",
@@ -41,40 +335,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-7-artificial-intelligence-stocks-to-buy-for-october.md",
-      "title": "7 Artificial Intelligence Stocks to Buy for October",
-      "excerpt": "But if there is one on Wall Street, it’s the rise of artificial intelligence stocks. Yes, there is the profitability angle from machine learning and other relevant technology facilitates. But this crisis has been a crash course in the sector’s viability.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/7-artificial-intelligence-stocks-to-buy-for-october-2020-10-02",
-      "originalUrl": "https://www.nasdaq.com/articles/7-artificial-intelligence-stocks-to-buy-for-october-2020-10-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/7-artificial-intelligence-stocks-to-buy-for-october-2020-10-02?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-artificial-intelligence-stocks-to-buy-for-october-2020-10-02?amp",
-      "publishedDateTime": "2020-10-02T06:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {
@@ -136,7 +396,7 @@
       "originalUrl": "https://www.techrepublic.com/resource-library/whitepapers/mit-report-how-ai-changes-the-world/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": null,
       "type": "article",
@@ -403,6 +663,57 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-building-an-end-to-end-intelligent-document-processing-solution-using-aws.md",
+      "title": "Building an end-to-end intelligent document processing solution using AWS",
+      "excerpt": "As organizations grow larger in size, so does the need for having better document processing. In industries such as healthcare, legal, insurance, and banking, the continuous influx of paper-based or PDF documents (like invoices, health charts, and insurance claims) have pushed businesses to consider",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-an-end-to-end-intelligent-document-processing-solution-using-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/building-an-end-to-end-intelligent-document-processing-solution-using-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/22/1-DocumentAnalysisSolution.jpg",
+          "width": 900,
+          "height": 471,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-01T18:25:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -839,175 +1150,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-01-fast-tracking-ai-ethics-is-dicey-and-shortsighted-especially-for-self-driving-cars.md",
-      "title": "Fast-Tracking AI Ethics Is Dicey And Shortsighted, Especially For Self-Driving Cars",
-      "excerpt": "There seems to be quite a rush to get AI systems out-the-door these days. Unfortunately, there is a devilish price to be paid in such a rush to judgment and the associated misguided assumption that the soonest AI is the best kind of AI.",
+      "path": "_news/2020-10-01-how-to-avoid-disasters-like-amazons-rekognition.md",
+      "title": "How to avoid disasters like Amazon’s Rekognition",
+      "excerpt": "One way to avoid disastrous AI systems in the wild might be to build responsible operation into the programs from the start, professor Sergey Levine of U.C. Berkeley told ZDNet. He has a plan to ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/01/fast-tracking-ai-ethics-is-dicey-and-shortsighted-especially-for-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/01/fast-tracking-ai-ethics-is-dicey-and-shortsighted-especially-for-self-driving-cars/",
+      "webUrl": "https://www.zdnet.com/video/how-to-avoid-disasters-like-amazons-rekognition/",
+      "originalUrl": "https://www.zdnet.com/video/how-to-avoid-disasters-like-amazons-rekognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F488653868%2F0x0.jpg",
-          "width": 1200,
-          "height": 1107,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/01/fast-tracking-ai-ethics-is-dicey-and-shortsighted-especially-for-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/01/fast-tracking-ai-ethics-is-dicey-and-shortsighted-especially-for-self-driving-cars/amp/",
-      "publishedDateTime": "2020-10-01T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-what-if-you-could-turn-your-voice-into-any-instrument.md",
-      "title": "What if you could turn your voice into any instrument?",
-      "excerpt": "Imagine whistling your favorite song. You might not sound like the real deal, right? Now imagine your rendition using auto-tune software. Better, sure, but the result is still your voice. What if there was a way to turn your voice into something like a violin, or a saxophone, or a flute? Google Research’s",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/what-if-you-could-turn-your-voice-any-instrument/",
-      "originalUrl": "https://blog.google/technology/ai/what-if-you-could-turn-your-voice-any-instrument/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/tone_transfer_2.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/what-if-you-could-turn-your-voice-any-instrument/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/what-if-you-could-turn-your-voice-any-instrument/amp/",
-      "publishedDateTime": "2020-10-01T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-automating-data-collection-for-ai-at-morningstar.md",
-      "title": "Automating Data Collection For AI At Morningstar",
-      "excerpt": "We’re also skilling our Analysts on data exploration, data munging and AutoML to help them directly automate their workflows. This will help us scale our process over time where we can collect ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/10/01/automating-data-collection-for-ai-at-morningstar/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2020/10/01/automating-data-collection-for-ai-at-morningstar/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f75e6af8c6a419ba348ab4d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D482%26cropY1%3D82%26cropY2%3D353",
-          "width": 482,
-          "height": 271,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/10/01/automating-data-collection-for-ai-at-morningstar/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/10/01/automating-data-collection-for-ai-at-morningstar/amp/",
-      "publishedDateTime": "2020-10-01T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-how-the-pandemic-has-reshaped-ai-robotics-and-automation.md",
-      "title": "How the pandemic has reshaped AI, robotics, and automation",
-      "excerpt": "Tonya Hall talks with Dr. Kate Darling, research specialist at the MIT Media Lab, to learn more about how the future of AI, robotics, and automation was reshaped following the COVID-19 pandemic outbreak.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/video/how-the-pandemic-has-reshaped-ai-robotics-and-automation/",
-      "originalUrl": "https://www.zdnet.com/video/how-the-pandemic-has-reshaped-ai-robotics-and-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/10/01/46c45d69-b545-4832-8436-707c403c6393/thumbnail/370x278/f9e6564e767b3b87b7f3eb35bb3c3e1a/20201001-j2-google.jpg",
-          "width": 370,
-          "height": 278,
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/10/01/12df13b7-db78-4236-b526-0836a495301d/thumbnail/770x578/e48e8f2ba67ef4f816f263bed808b4ef/20200923-tiernan-karen-ai.jpg",
+          "width": 770,
+          "height": 578,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1016,7 +1173,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-01T06:20:00-07:00",
+      "publishedDateTime": "2020-10-01T08:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -1039,150 +1196,9 @@
         "news"
       ],
       "topics": [
+        "AWS AI",
         "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-ibm-open-sources-ai-for-optimizing-satellite-communications-and-predicting-space-debris-trajectories.md",
-      "title": "IBM open-sources AI for optimizing satellite communications and predicting space debris trajectories",
-      "excerpt": "IBM has open-sourced projects designed to help optimize small satellite communications and predict the trajectories of space junk.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/01/ibm-open-sources-ai-for-optimizing-satellite-communications-and-predicting-space-debris-trajectories/",
-      "originalUrl": "https://venturebeat.com/2020/10/01/ibm-open-sources-ai-for-optimizing-satellite-communications-and-predicting-space-debris-trajectories/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/nano-satellites-kineis-e1580987091588.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/01/ibm-open-sources-ai-for-optimizing-satellite-communications-and-predicting-space-debris-trajectories/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/01/ibm-open-sources-ai-for-optimizing-satellite-communications-and-predicting-space-debris-trajectories/amp/",
-      "publishedDateTime": "2020-10-01T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-combining-machine-learning-tools-for-medical-imaging-with-genetic-sequencing-nets-sophia-genetics-110m.md",
-      "title": "Combining machine learning tools for medical imaging with genetic sequencing nets Sophia Genetics $110M",
-      "excerpt": "SOPHiA GENETICS, the shoutily and poorly capitalized-named startup that’s combining machine learning tools for medical imaging and genetic sequencing to come up with a more holistic view of diseases for better patient care,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/01/combining-machine-learning-tools-for-medical-imaging-with-genetic-sequencing-nets-sophia-genetics-110m/",
-      "originalUrl": "https://techcrunch.com/2020/10/01/combining-machine-learning-tools-for-medical-imaging-with-genetic-sequencing-nets-sophia-genetics-110m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/08/GettyImages-552163301-mri.jpg?w=1024",
-          "width": 1024,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/01/combining-machine-learning-tools-for-medical-imaging-with-genetic-sequencing-nets-sophia-genetics-110m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/01/combining-machine-learning-tools-for-medical-imaging-with-genetic-sequencing-nets-sophia-genetics-110m/amp/",
-      "publishedDateTime": "2020-10-01T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-google-photos-gets-smarter-ai-powered-editor.md",
-      "title": "Google Photos gets smarter, AI-powered editor",
-      "excerpt": "Google rolled out a new version of the photo editor in the Google Photos app on Android. It uses machine learning to give you suggestions on how to fix a photo, which you can apply with one tap. Google says more suggestions are coming to Pixel devices in the coming months,",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/google-photos-editor/",
-      "originalUrl": "https://mashable.com/article/google-photos-editor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F10%252F01%252Fb8%252Fd762c63acc904b9298f8889e590f20a9.e68f3.png%252F1200x630.png?signature=fMk9DtgSsV3Qv23BxBAKCHnAVhc=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/google-photos-editor.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/google-photos-editor.amp",
-      "publishedDateTime": "2020-10-01T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
+        "Computer Vision"
       ]
     }
   ],

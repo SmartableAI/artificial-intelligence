@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-18-in-a-facial-recognition-bill-backed-by-microsoft-three-words-stand-between-citizens-and-their-civil-rights.md",
+      "title": "In a facial recognition bill backed by Microsoft, three words stand between citizens and their civil rights",
+      "excerpt": "In Washington, the first US state to pass a law regulating facial recognition, it’s legal for government agencies to use facial recognition to deny citizens access to basic rights and services ...",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/1905159/microsoft-is-shaping-facial-recognition-bills-across-the-us/",
+      "originalUrl": "https://qz.com/1905159/microsoft-is-shaping-facial-recognition-bills-across-the-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/09/2016-07-19T120000Z_795300523_TM3EC7J0UK701_RTRMADP_3_MICROSOFT-RESULTS-e1600378171367.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://qz.com/1905159/microsoft-is-shaping-facial-recognition-bills-across-the-us/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1905159/microsoft-is-shaping-facial-recognition-bills-across-the-us/amp/",
+      "publishedDateTime": "2020-09-18T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-17-computer-vision-company-chooch-ai-makes-breakthroughs-in-edge-ai-in-speed-accuracy-and-scale.md",
       "title": "Computer Vision Company Chooch AI Makes Breakthroughs in Edge AI in Speed, Accuracy and Scale",
       "excerpt": "Chooch AI, a horizontal computer vision AI platform, today published the latest video presentation of an expert panel with Convergint Technologies and NVIDIA. Chooch AI is a member of the NVIDIA Inception program.",
@@ -1336,48 +1387,6 @@
       "provider": {
         "name": "The Conversation",
         "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-05-black-detroit-man-wrongfully-arrested-after-facial-recognition-search.md",
-      "title": "Black Detroit man wrongfully arrested after facial recognition search",
-      "excerpt": "A Black man from Detroit is suing the city after he was falsely arrested because of a facial recognition match, according to a new report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailydot.com/debug/detroit-facial-recognition-wrongful-arrest/",
-      "originalUrl": "https://www.dailydot.com/debug/detroit-facial-recognition-wrongful-arrest/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailydot.com/wp-content/uploads/2020/09/Detroit-Facial-Recognition-scaled.jpg",
-          "width": 2560,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.dailydot.com/debug/detroit-facial-recognition-wrongful-arrest/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/detroit-facial-recognition-wrongful-arrest/?amp",
-      "publishedDateTime": "2020-09-04T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
         "images": null,
         "publishers": null,
         "authors": null

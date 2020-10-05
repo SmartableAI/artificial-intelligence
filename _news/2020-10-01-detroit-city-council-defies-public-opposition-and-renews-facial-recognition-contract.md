@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition contract extension reopens rifts among Detroit police commissioners"
-    excerpt: "Facial recognition technology, a contentious topic in Detroit that has drawn national headlines, continues to garner attention and spark debate. The Detroit City Council Tuesday voted 6-3 to extend a $220,000 contract with law enforcement technology ..."
-    publishedDateTime: 2020-09-30T21:38:00Z
-    webUrl: "https://www.freep.com/story/news/local/michigan/detroit/2020/09/30/facial-recognition-police-commissioners-rifts/5869731002/"
-    ampWebUrl: "https://amp.freep.com/amp/5869731002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5869731002"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 51
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/08/07/PDTF/b0927c9f-c34a-495a-ad67-ef97cdf59b70-school_security__080719_13.JPG?auto=webp&crop=3599,2025,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Detroit Approves Police Use of Facial Recognition Software"
     excerpt: "The City Council approved a nearly $200,000 facial recognition contract that will run through September 2022 but many see the tech as racist, discriminating for the sake of efficiency and they question its accuracy."
     publishedDateTime: 2020-10-01T19:44:00Z
@@ -53,6 +37,20 @@ related:
       name: Governing
       domain: governing.com
     quality: 39
+  - title: "LA Times Today: LAPD’s use of facial recognition under scrutiny"
+    excerpt: "The Los Angeles Police Commission, which sets policy for the LAPD, is reviewing the department’s controversial use of facial recognition software. The decision comes after an LA"
+    publishedDateTime: 2020-10-01T19:44:00Z
+    webUrl: "https://www.latimes.com/california/00000174-e584-de4f-ab75-ef9ed3ea0001-123"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 39
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/fa43c01/2147483647/strip/true/crop/913x479+0+15/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F8b%2Ff7%2F19b2742e4643bbd790fd03bbe5d0%2Ffacial-recognition-under-scrutiny-latt.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "cATUN8zFeFalXqDyXqS3dSWZPmJcbFO13WCVsrV9u+s4xX7vgUaIo+16Nh24Oro8eQBpO9RcmJOuU1pVNVaH9iL+NDdOmfcB1m3hlCbLRGr9UExs8ueAVSiYrwoYqqbszyFBEJu4/lSEUQNrCmR50wMq5cnpcRDj8fZuiuxnqANH1hYV/6teZ6ZxOzvYtKxFaKgRYjdR5EBkg4fr4axL6aJXtyE3Avof2Kojqi23i99sjz5E7TPOx9Gp9fpWlWisfUeVqERLQvoZf69UEyFdvrk1zRG+P3AWNx5TYjsEwn2X9mD0wVgLNgoSQFSOma1+Z0Ioeq9cdI8BcY87KUtn3ekN2oFSqWTDP0MDoWKh9xmm5eaYeh7dS7iGPpLYwFVGJd9F6LLMtmK2phJeUf3ia32F8HnJRiVsY7mggZRoqs1AO03xuBX5/qVpH1iK/RKTomLm3y/02m566t3lD3sQztjYe1xghsRKTnnfVUljITO0gj3ZaYDSsH8q4FI3ORwWNB2JUF61eYc319HweiTNsw==;QK/Ppi5pR94/zMfzW161og=="
 ---

@@ -2,6 +2,209 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-05-3-top-artificial-intelligence-stocks-to-buy-in-october.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy in October",
+      "excerpt": "Artificial intelligence (AI) is a fast-growing segment of technology. According to researcher IDC, global spending on AI (hardware, software, and services built on them) is expected to exceed $150 billion this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/10/05/3-top-artificial-intelligence-stocks-to-buy-in-oct/",
+      "originalUrl": "https://www.fool.com/investing/2020/10/05/3-top-artificial-intelligence-stocks-to-buy-in-oct/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F593834%2Fartificial-intelligence-getty-62817.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/05/3-top-artificial-intelligence-stocks-to-buy-in-oct/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/05/3-top-artificial-intelligence-stocks-to-buy-in-oct/",
+      "publishedDateTime": "2020-10-05T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-nvidia-introduces-ampere-based-rtx-a6000-gpu-for-professionals.md",
+      "title": "Nvidia introduces Ampere-based RTX A6000 GPU for professionals",
+      "excerpt": "Nvidia held its GPU Technology Conference, or GTC, and it unveiled a ton of new technologies and capabilities at the event, including a new Ampere-based professional GPU, the RTX A6000.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/nvidia-introduces-ampere-based-rtx-a6000-gpu-for-professionals",
+      "originalUrl": "https://www.neowin.net/news/nvidia-introduces-ampere-based-rtx-a6000-gpu-for-professionals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/10/1601908637_quadro-rtx-a6000_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/nvidia-introduces-ampere-based-rtx-a6000-gpu-for-professionals/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/nvidia-introduces-ampere-based-rtx-a6000-gpu-for-professionals/",
+      "publishedDateTime": "2020-10-05T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-self-driving-cars-could-be-operating-daily-in-1-2-yearsjust-not-in-big-cities.md",
+      "title": "Self-Driving Cars Could Be Operating Daily In 1-2 Years—Just Not in Big Cities",
+      "excerpt": "The engineering has been a bigger challenge than expected, Voyage CEO Oliver Cameron says, even for places like retirement communities. But not impossible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-05/voyage-ceo-oliver-cameron-on-robo-taxis-self-driving-cars-and-coronavirus",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-05/voyage-ceo-oliver-cameron-on-robo-taxis-self-driving-cars-and-coronavirus",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqUrgMbuoRU0/v0/360x-1.jpg",
+          "width": 360,
+          "height": 239,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-05/voyage-ceo-oliver-cameron-on-robo-taxis-self-driving-cars-and-coronavirus",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-05/voyage-ceo-oliver-cameron-on-robo-taxis-self-driving-cars-and-coronavirus",
+      "publishedDateTime": "2020-10-05T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-madrona-leads-39m-seed-round-for-cybersecurity-compliance-startup-strike-graph.md",
+      "title": "Madrona leads $3.9M seed round for cybersecurity compliance startup Strike Graph",
+      "excerpt": "Seattle startup Strike Graph raised a $3.9 million seed round led by Madrona Venture Group. The company, founded less than a year ago and spun out of Madrona Venture Labs, helps companies prepare",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/madrona-leads-3-9m-seed-round-cybersecurity-compliance-startup-strike-graph/",
+      "originalUrl": "https://www.geekwire.com/2020/madrona-leads-3-9m-seed-round-cybersecurity-compliance-startup-strike-graph/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/10/5f7289d48e1dc9851e9ae568_Wall_3426-p-1600-630x499.jpeg",
+          "width": 630,
+          "height": 499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/madrona-leads-3-9m-seed-round-cybersecurity-compliance-startup-strike-graph/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/madrona-leads-3-9m-seed-round-cybersecurity-compliance-startup-strike-graph/amp/",
+      "publishedDateTime": "2020-10-05T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-nvidia-jetson-nano-2gb-is-59-gateway-into-ai-and-robotics.md",
       "title": "NVIDIA Jetson Nano 2GB is $59 gateway into AI and robotics",
       "excerpt": "That’s because it taps the same Jetson AI at the Edge platform as the rest of NVIDIA’s Jetson ... The Jetson Nano 2GB gets a 128-core NVIDIA Maxwell GPU and a 64-bit quad-core Arm A57 CPU running at 1.43 GHz. They’re combined with 2GB of LPDDR4 ...",
@@ -10,7 +213,7 @@
       "originalUrl": "https://www.slashgear.com/nvidia-jetson-nano-2gb-is-59-gateway-into-ai-and-robotics-05641043/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -247,7 +450,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/05/cloud-ai-can-help-you-survive-the-storm/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -286,7 +489,111 @@
       ],
       "topics": [
         "AI",
+        "Microsoft AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-deliver-ai-powered-application-search-with-azure-cognitive-search-and-ba-insight.md",
+      "title": "Deliver AI-powered application search with Azure Cognitive Search and BA Insight",
+      "excerpt": "Data is growing exponentially, and over 80 percent of data is unstructured, creating a challenge for organizations to find and surface the right information to their customers. What organizations need is a solution that enables them to uncover latent insights from all their content by quickly identifying",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/deliver-ai-powered-application-search-with-azure-cognitive-search-and-ba-insight/",
+      "originalUrl": "https://azure.microsoft.com/blog/deliver-ai-powered-application-search-with-azure-cognitive-search-and-ba-insight/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/3825d129-7b61-4af7-9e9e-6ea06c242b9c.png",
+          "width": 1024,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-05T01:30:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-azure-machine-learning-helps-customers-stay-ahead-of-challenges.md",
+      "title": "Azure Machine Learning helps customers stay ahead of challenges",
+      "excerpt": "Organizations today are striving to build agility and resilience to the fast-changing environment we live in. AI and machine learning innovation can help tackle these emerging challenges and enable cost efficiencies.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/azure-machine-learning-helps-customers-stay-ahead-of-challenges/",
+      "originalUrl": "https://azure.microsoft.com/blog/azure-machine-learning-helps-customers-stay-ahead-of-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/54a5211d-b1cd-4904-bdc7-275db6482b0f.png",
+          "width": 727,
+          "height": 341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-05T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
       ]
     },
     {
@@ -544,7 +851,7 @@
       "originalUrl": "https://venturebeat.com/2020/10/03/nvidias-gtc-event-will-shine-a-spotlight-on-200-ai-startups/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 181,
+      "heat": 201,
       "tags": null,
       "images": [
         {
@@ -596,7 +903,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/03/tire-blowouts-could-cause-self-driving-cars-to-go-astray/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -689,7 +996,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-economic-perspective-and-forecast-to-2026-microsoft-aws-xero-intuit-sage-osp-uipath-koreai-2020-10-03?mod=mw_quote_news",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -932,300 +1239,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-ibm-joins-nih-effort-to-diagnose-schizophrenia-using-ai.md",
-      "title": "IBM joins NIH effort to diagnose schizophrenia using AI",
-      "excerpt": "IBM says it will join an U.S. National Institutes of Health effort to apply data analysis to identifying schizophrenia diagnostic techniques and treatments.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/02/ibm-joins-nih-effort-to-diagnose-schizophrenia-using-ai/",
-      "originalUrl": "https://venturebeat.com/2020/10/02/ibm-joins-nih-effort-to-diagnose-schizophrenia-using-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/02/ibm-joins-nih-effort-to-diagnose-schizophrenia-using-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/02/ibm-joins-nih-effort-to-diagnose-schizophrenia-using-ai/amp/",
-      "publishedDateTime": "2020-10-02T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-parkland-parents-create-artificial-intelligence-video-of-slain-son-to-spur-voters.md",
-      "title": "Parkland parents create artificial intelligence video of slain son to spur voters",
-      "excerpt": "Wearing his signature hoodie and beanie, an earbud casually hanging from one ear, passionate Parkland teen Joaquin Oliver urges his peers to vote for lawmakers who will end gun violence in a new video released Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/parkland-ai-video-son-voters",
-      "originalUrl": "https://www.foxnews.com/us/parkland-ai-video-son-voters",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/92a015b7-e5da-4532-a5e3-7990a14b4476/e83f5a0d-f2ad-49fe-81f0-6d88b306a6ed/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/parkland-ai-video-son-voters.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/parkland-ai-video-son-voters.amp",
-      "publishedDateTime": "2020-10-02T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-writer-pens-a-5m-seed-round-for-its-ai-style-guide-that-flags-bias-and-tone.md",
-      "title": "Writer pens a $5M seed round for its AI style guide that flags bias and tone",
-      "excerpt": "Anyone who writes online or in a word processor has likely gotten used to the inevitable squiggly line denoting a misspelled word or clumsy phrase. But what if you use a word that’s loaded, a phrase that’s too formal or not formal enough,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/02/writer-pens-a-5m-seed-round-for-its-ai-style-guide-that-flags-bias-and-tone/",
-      "originalUrl": "https://techcrunch.com/2020/10/02/writer-pens-a-5m-seed-round-for-its-ai-style-guide-that-flags-bias-and-tone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/writer-hed.jpg?w=1024",
-          "width": 1024,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/02/writer-pens-a-5m-seed-round-for-its-ai-style-guide-that-flags-bias-and-tone/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/02/writer-pens-a-5m-seed-round-for-its-ai-style-guide-that-flags-bias-and-tone/amp/",
-      "publishedDateTime": "2020-10-02T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.md",
-      "title": "The HP Spectre x360 14 gets a lush OLED display and a lot more AI smarts",
-      "excerpt": "The new HP Spectre x360 14 features OLED, while the Spectre x360 13 and Envy x360 upgrade to 11th-gen Tiger Lake processors",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/3584530/the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.html",
-      "originalUrl": "https://www.pcworld.com/article/3584530/the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/10/hp-spectre-x360-14-front-facing_natural-silver-100860561-large.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/3584530/the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.amp.html",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3584530/the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.amp.html",
-      "publishedDateTime": "2020-10-02T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-landmark-court-decision-says-robots-cant-be-inventors-but-the-fight-isnt-over.md",
-      "title": "Landmark court decision says robots can’t be inventors. But the fight isn’t over",
-      "excerpt": "The United Kingdom's highest court tossed out a case that would've established that machines can be creative and win patents for their inventions",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/features/court-decides-robots-machines-cant-be-inventors/",
-      "originalUrl": "https://www.digitaltrends.com/features/court-decides-robots-machines-cant-be-inventors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/imagecomposite_aibrain_200723-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/features/court-decides-robots-machines-cant-be-inventors/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/court-decides-robots-machines-cant-be-inventors/?amp",
-      "publishedDateTime": "2020-10-02T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-ai-and-ethics-one-third-of-executives-are-not-aware-of-potential-ai-bias.md",
-      "title": "AI and ethics: One-third of executives are not aware of potential AI bias",
-      "excerpt": "The majority of consumers expect companies to be accountable for their AI systems, yet about half of companies do not have a dedicated member overseeing ethical AI implementation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-and-ethics-one-third-of-executives-are-not-aware-of-potential-ai-bias/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-and-ethics-one-third-of-executives-are-not-aware-of-potential-ai-bias/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-and-ethics-one-third-of-executives-are-not-aware-of-potential-ai-bias/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-and-ethics-one-third-of-executives-are-not-aware-of-potential-ai-bias/",
-      "publishedDateTime": "2020-10-02T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

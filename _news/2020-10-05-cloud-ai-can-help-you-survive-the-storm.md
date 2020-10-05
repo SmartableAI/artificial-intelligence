@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-05T11:24:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/05/cloud-ai-can-help-you-survive-the-storm/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/05/cloud-ai-can-help-you-survive-the-storm/"
 type: article
-quality: 69
-heat: 79
+quality: 71
+heat: 81
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - AWS AI
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee37fafb8beb90007c3a81f%2F0x0.jpg"

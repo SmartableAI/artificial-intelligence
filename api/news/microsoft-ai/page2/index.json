@@ -2,6 +2,108 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-17-observeai-bags-54-mn-in-series-b-round-led-by-menlo-ventures.md",
+      "title": "Observe.AI Bags $54 Mn In Series B Round Led By Menlo Ventures",
+      "excerpt": "Observe.AI, a contact centre artificial intelligence (AI) startup, announced that it has raised a $54 million Series B round led by Menlo Ventures, with participation from Next47 Ventures and NGP Capital.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/356293",
+      "originalUrl": "https://www.entrepreneur.com/article/356293",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1600321073-20200109120531-FotoJet48.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/356293",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356293",
+      "publishedDateTime": "2020-09-16T22:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-snowflakes-ipo-is-a-bet-on-companies-using-ai-for-everything.md",
+      "title": "Snowflake’s IPO is a bet on companies using AI for everything",
+      "excerpt": "Snowflake's $70 billion valuation is based on its ability to analyze cloud data faster and cheaper than its competitors.",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/1904413/snowflakes-ipo-is-a-bet-on-companies-using-ai-for-everything/",
+      "originalUrl": "https://qz.com/1904413/snowflakes-ipo-is-a-bet-on-companies-using-ai-for-everything/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/09/2019-01-23T092808Z_1666479738_RC17FEB4AE50_RTRMADP_3_NEPAL-WEATHER-e1600289144541.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://qz.com/1904413/snowflakes-ipo-is-a-bet-on-companies-using-ai-for-everything/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1904413/snowflakes-ipo-is-a-bet-on-companies-using-ai-for-everything/amp/",
+      "publishedDateTime": "2020-09-16T14:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-16-nokia-simplifies-microsoft-azure-integration.md",
       "title": "Nokia simplifies Microsoft Azure integration",
       "excerpt": "The announcement comes almost a year after Nokia and Microsoft made their first joint solutions public. In November 2019, the two companies announced a strategic collaboration aim",
@@ -1279,100 +1381,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-ndivision-inc-lane-sorgen-appointed-to-chief-revenue-officer.md",
-      "title": "nDivision Inc. Lane Sorgen Appointed to Chief Revenue Officer",
-      "excerpt": "DALLAS, TX / ACCESSWIRE / September 3, 2020 / nDivision Inc. (OTCQB:NDVN), the experts in using “digital labor” to reduce costs and increase service levels, today announced the appointment of Lane Sorgen to Chief Revenue Officer.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/8cadd96d703080b0c317174623ac1fcb",
-      "originalUrl": "https://apnews.com/8cadd96d703080b0c317174623ac1fcb",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-03T15:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-ai-researchers-use-heartbeat-detection-to-identify-deepfake-videos.md",
-      "title": "AI researchers use heartbeat detection to identify deepfake videos",
-      "excerpt": "AI researchers are using heartbeat detection to identify deepfake videos and even to figure out what kind of generative model created a deepfake.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/03/ai-researchers-use-heartbeat-detection-to-identify-deepfake-videos/",
-      "originalUrl": "https://venturebeat.com/2020/09/03/ai-researchers-use-heartbeat-detection-to-identify-deepfake-videos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/ppg-cells.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/03/ai-researchers-use-heartbeat-detection-to-identify-deepfake-videos/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/03/ai-researchers-use-heartbeat-detection-to-identify-deepfake-videos/amp/",
-      "publishedDateTime": "2020-09-03T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

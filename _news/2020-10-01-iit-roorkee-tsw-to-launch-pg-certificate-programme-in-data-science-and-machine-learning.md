@@ -43,20 +43,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "USAF adds nine companies to Skyborg artificial intelligence development programme"
-    excerpt: "The awards are part of a second phase of the \"Skyborg Prototyping, Experimentation and Autonomy Development\" programme."
-    publishedDateTime: 2020-09-30T21:13:00Z
-    webUrl: "https://www.flightglobal.com/military-uavs/usaf-adds-nine-companies-to-skyborg-artificial-intelligence-development-programme/140406.article"
-    type: article
-    provider:
-      name: Flightglobal
-      domain: flightglobal.com
-    quality: 32
-    images:
-      - url: "https://d3lcr32v2pp4l1.cloudfront.net/Pictures/2000x2000fit/5/4/4/73544_skyborgconceptrendering_744676.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
 
 secured: "oqM4DvmWEsHfmzrqdo2itSbORiBagljZcQJ4FtT1Uy/fFrVPasgR6tYEzsNEciuo554Azo/ZAowxa86OVofJrY3NW85QeLbKsJwW8QVAk25ecXaHU6KAfVSPdp4vRlakyZX1mzxWWwncmat7GFGjYP5hF9wOlRUUpjoGWAuOEJRHtJypCcci8w9PxhRDrHKkMtz4qHGkKBX5cO/zHyAdL3uGuwhrj7xmQFtTlwAXd9kTa74kDmPgN4BMDt7N2ICd15DYyQ25ecfOCOo0jZjqs369IAF0sVfOZ+FRD1mya/cN5v/Dedq9CCZl6HP401zPoeusGGOffhhVN4jqtfQXXEhy7c7ZbRSV7baZjAJlMxo=;uvmv1T/Andb4+GLY40mYeg=="
 ---

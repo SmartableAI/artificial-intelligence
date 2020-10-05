@@ -2,40 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-10-02-7-artificial-intelligence-stocks-to-buy-for-october.md",
-      "title": "7 Artificial Intelligence Stocks to Buy for October",
-      "excerpt": "But if there is one on Wall Street, it’s the rise of artificial intelligence stocks. Yes, there is the profitability angle from machine learning and other relevant technology facilitates. But this crisis has been a crash course in the sector’s viability.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/7-artificial-intelligence-stocks-to-buy-for-october-2020-10-02",
-      "originalUrl": "https://www.nasdaq.com/articles/7-artificial-intelligence-stocks-to-buy-for-october-2020-10-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/7-artificial-intelligence-stocks-to-buy-for-october-2020-10-02?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-artificial-intelligence-stocks-to-buy-for-october-2020-10-02?amp",
-      "publishedDateTime": "2020-10-02T06:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2020-10-01-vmware-embraces-nvidia-gpus-dpus-to-drive-enterprise-ai.md",
       "title": "VMware Embraces Nvidia GPUs, DPUs To Drive Enterprise AI",
       "excerpt": "AI is too hard for most enterprises to adopt, just like HPC was and continues to be. The search for “easy AI” – solutions that will reduce the costs and",
@@ -1349,6 +1315,48 @@
       "topics": [
         "AI",
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-28-ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator-less-us-open.md",
+      "title": "IBM Creates New Fan Experiences using AI and Hybrid Cloud for First-Ever Spectator-less US Open",
+      "excerpt": "IBM's hybrid cloud architecture with Red Hat OpenShift provided the operational agility and flexibility necessary to quickly develop new experiences powered by IBM Watson's advanced NLP.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator-less/article_665140f8-90e5-5c1b-84be-52666b6820ae.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator-less/article_665140f8-90e5-5c1b-84be-52666b6820ae.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/c7/0c7d77e7-796c-5913-920d-0aa2dd75f7ba/5f491c9243677.image.jpg?resize=400%2C209",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-28T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     }
   ],

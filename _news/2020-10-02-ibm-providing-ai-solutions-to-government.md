@@ -25,49 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "IBM joins NIH effort to diagnose schizophrenia using AI"
-    excerpt: "IBM says it will join an U.S. National Institutes of Health effort to apply data analysis to identifying schizophrenia diagnostic techniques and treatments."
-    publishedDateTime: 2020-10-02T19:15:00Z
-    webUrl: "https://venturebeat.com/2020/10/02/ibm-joins-nih-effort-to-diagnose-schizophrenia-using-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/10/02/ibm-joins-nih-effort-to-diagnose-schizophrenia-using-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/02/ibm-joins-nih-effort-to-diagnose-schizophrenia-using-ai/amp/"
+  - title: "Building an end-to-end intelligent document processing solution using AWS"
+    excerpt: "As organizations grow larger in size, so does the need for having better document processing. In industries such as healthcare, legal, insurance, and banking, the continuous influx of paper-based or PDF documents (like invoices, health charts, and insurance claims) have pushed businesses to consider"
+    publishedDateTime: 2020-10-02T01:25:41Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/building-an-end-to-end-intelligent-document-processing-solution-using-aws/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: AWS
+      domain: aws.amazon.com
+    quality: 88
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&#038;strip=all"
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/22/1-DocumentAnalysisSolution.jpg"
+        width: 900
+        height: 471
+        isCached: true
+  - title: "Creating a multi-department enterprise search using custom attributes in Amazon Kendra"
+    excerpt: "An enterprise typically houses multiple departments such as engineering, finance, legal, and marketing, creating a growing number of documents and content that employees need to access. Creating a search experience that intuitively delivers the right information according to an employee’s role, and the"
+    publishedDateTime: 2020-10-01T23:07:17Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/creating-a-multi-department-enterprise-search-using-custom-attributes-in-amazon-kendra/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 66
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/29/1-Architecture-3-759x630.jpg"
+        width: 759
+        height: 630
+        isCached: true
+  - title: "How sensors, ambient intelligence could revolutionize healthcare"
+    excerpt: "Networks of radio-connected, intelligent sensors will propel the healthcare industry forward as increasing numbers of patients need care, researchers say. Two academic institutions recently shared details about how IoT-based technology might help mitigate clinical errors and improve caregiving in hospitals – an environment that's under increased strain due to coronavirus cases – as well as at home."
+    publishedDateTime: 2020-10-01T14:40:00Z
+    webUrl: "https://www.networkworld.com/article/3576035/how-sensors-ambient-intelligence-could-revolutionize-healthcare.html"
+    ampWebUrl: "https://www.networkworld.com/article/3576035/how-sensors-ambient-intelligence-could-revolutionize-healthcare.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3576035/how-sensors-ambient-intelligence-could-revolutionize-healthcare.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/03/healthcare_technology_medical_data_by_metamorworks_gettyimages-1127069581_2400x1600-100837041-large.jpg"
         width: 1200
-        height: 600
-        isCached: true
-  - title: "Faster cancer diagnoses using Artificial Intelligence"
-    excerpt: "The future is here: an e-commerce and gaming giant teamed up with an Artificial Intelligence (AI) startup in Japan to create an innovative, promising solution to diagnose – and fight – cancer using QIAGENs QIAseq Kits for next-generation sequencing."
-    publishedDateTime: 2020-10-02T04:13:00Z
-    webUrl: "https://www.qiagen.com/us/customer-stories/faster-cancer-diagnoses-using-artificial-intelligence"
-    type: article
-    provider:
-      name: QIAGEN
-      domain: qiagen.com
-    quality: 39
-    images:
-      - url: "http://www.qiagen.com/-/media/project/qiagen/qiagen-home/stories/faster-cancer-diagnoses-with-artificial-intelligence/qiaseq-hero-story-1.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "IBM Brings Artificial Intelligence At Scale To The Marketing And Media Industry"
-    excerpt: "PRNewswire/ -- IBM (NYSE: IBM) today announced three new products to add to its growing suite of AI solutions for brand and publishers. The new"
-    publishedDateTime: 2020-10-05T12:25:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-301145605.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 35
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-        width: 2698
-        height: 1414
+        height: 800
         isCached: true
 
 secured: "MM3BpUb2YmlzxiW2qAEv+1wSANNyNHhZZ/r07kNiq2sfcEUZzMdaDM23SZSKfuXpVvwciqkJQXjK8PoOwi24YJGk7keCqpyQaedW1FAtrGn7nU1Fbx7QT+vQap6YqOG442mrWA6p0MtVYqjY2qMVWDvVNsCZB/bdAlqcs3s8dJE92+KHhpfsNzJP+P3r/C9UHMWcPqizQureF2EDuEaXTlNANuvc+JFY2OG9iAC2rJMCyqTyFoZXTjbRf8NmZ8hAfOSrDa5bH7Di+tybh0OIdOc/KyGdQAD+zo4iTxaRdgbpQaDdom17IToZg67KMpw4lwuXLvBQjEM/RanstieIndkSXG+nXpgtFa9hPGahiLo=;4c8jC7C1MkYBVdogKjcKHw=="

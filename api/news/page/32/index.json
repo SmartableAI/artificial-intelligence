@@ -2,6 +2,345 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-09-09-sea-tac-airport-rolls-out-self-driving-floor-cleaners-restroom-stall-lights-and-more-pandemic-safety-tech.md",
+      "title": "Sea-Tac Airport rolls out self-driving floor cleaners, restroom stall lights and more pandemic safety tech",
+      "excerpt": "In addition to the thousands of gallons of hand sanitizer being dispensed around Seattle-Tacoma International Airport, the Port of Seattle is turning to a few new high-tech approaches to cleaning",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/sea-tac-airport-rolls-self-driving-floor-cleaners-restroom-stall-lights-pandemic-safety-tech/",
+      "originalUrl": "https://www.geekwire.com/2020/sea-tac-airport-rolls-self-driving-floor-cleaners-restroom-stall-lights-pandemic-safety-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/09/self-driving-floor-machine-630x353.jpg",
+          "width": 630,
+          "height": 353,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/sea-tac-airport-rolls-self-driving-floor-cleaners-restroom-stall-lights-pandemic-safety-tech/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/sea-tac-airport-rolls-self-driving-floor-cleaners-restroom-stall-lights-pandemic-safety-tech/amp/",
+      "publishedDateTime": "2020-09-08T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-redefining-intelligence-in-the-age-of-ai.md",
+      "title": "Redefining Intelligence In The Age Of AI",
+      "excerpt": "In today’s age, it is no longer enough that only software programmers and IT specialists understand emerging technologies such as Artificial Intelligence ... like gene therapy, genetic ...",
+      "sourceUrl": null,
+      "webUrl": "https://medium.com/@tjajal/redefining-intelligence-in-the-age-of-ai-c21a8aec41a2",
+      "originalUrl": "https://medium.com/@tjajal/redefining-intelligence-in-the-age-of-ai-c21a8aec41a2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/0*2hDZkP8iqYApD49f.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-08T11:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-meet-the-ai-entrepreneur-preparing-underserved-students-for-the-future-of-work.md",
+      "title": "Meet The AI Entrepreneur Preparing Underserved Students For The Future Of Work",
+      "excerpt": "Artificial intelligence is dramatically changing how we live and work. Ora D. Tanner is designing a tech-enabled AI curriculum for underserved high schoolers to help them succeed in our increasingly automated future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/fastforward/2020/09/08/this-entrepreneur-is-preparing-underserved-students-for-the-future-of-work/",
+      "originalUrl": "https://www.forbes.com/sites/fastforward/2020/09/08/this-entrepreneur-is-preparing-underserved-students-for-the-future-of-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x527/https://specials-images.forbesimg.com/imageserve/5f57ce749a8421d22ed10081/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 527,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/fastforward/2020/09/08/this-entrepreneur-is-preparing-underserved-students-for-the-future-of-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/fastforward/2020/09/08/this-entrepreneur-is-preparing-underserved-students-for-the-future-of-work/amp/",
+      "publishedDateTime": "2020-09-08T11:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-cbp-doesnt-consistently-notify-air-travelers-about-facial-recognition-tech-use-privacy-gao.md",
+      "title": "CBP doesn’t consistently notify air travelers about facial recognition tech use, privacy: GAO",
+      "excerpt": "Customs and Border Protection (CBP) is not consistently notifying travelers about its use of facial recognition technology or privacy options in US airports, according to the Government Accountability Office (GAO).",
+      "sourceUrl": null,
+      "webUrl": "https://sociable.co/technology/cbp-doesnt-consistently-notify-air-travelers-about-facial-recognition-tech-use-privacy-gao/",
+      "originalUrl": "https://sociable.co/technology/cbp-doesnt-consistently-notify-air-travelers-about-facial-recognition-tech-use-privacy-gao/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sociable.co/wp-content/uploads/2020/09/cbp.jpg",
+          "width": 640,
+          "height": 373,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://sociable.co/technology/cbp-doesnt-consistently-notify-air-travelers-about-facial-recognition-tech-use-privacy-gao/amp/",
+      "cdnAmpWebUrl": "https://sociable-co.cdn.ampproject.org/c/s/sociable.co/technology/cbp-doesnt-consistently-notify-air-travelers-about-facial-recognition-tech-use-privacy-gao/amp/",
+      "publishedDateTime": "2020-09-08T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sociable",
+        "domain": "sociable.co",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-crowdstrike-expands-support-for-aws-workloads-and-container-deployments.md",
+      "title": "CrowdStrike Expands Support for AWS Workloads and Container Deployments",
+      "excerpt": "CrowdStrike Inc. (Nasdaq: CRWD), a leader in cloud-delivered endpoint protection, today announced the expansion of support for Amazon Web Services (AWS)",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/crowdstrike-expands-support-for-aws-workloads-and-container-deployments-2020-09-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/crowdstrike-expands-support-for-aws-workloads-and-container-deployments-2020-09-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-08T10:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience.md",
+      "title": "Nutanix joins Microsoft Azure for seamless Hybrid Cloud experience",
+      "excerpt": "Enterprise Cloud computing firm Nutanix on Tuesday announced a partnership with Microsoft to deliver a Hybrid Cloud solution with seamless application, data and license mobility.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html",
+      "originalUrl": "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sify.com/uploads/nutanix_ujikoBjihaieg.jpeg",
+          "width": 800,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html",
+      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html",
+      "publishedDateTime": "2020-09-08T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sify.com",
+        "domain": "sify.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-tackling-one-of-the-biggest-single-sources-of-co2-emissions-with-machine-learning.md",
+      "title": "Tackling one of the biggest single sources of CO2 emissions with machine learning",
+      "excerpt": "The 6 million buildings in the U.S. produce 40% of the country’s emissions, mostly from day-to-day lighting, heating, cooling, and appliance operation.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/08/tackling-one-of-the-biggest-single-sources-of-co2-emissions-with-machine-learning/",
+      "originalUrl": "https://venturebeat.com/2020/09/08/tackling-one-of-the-biggest-single-sources-of-co2-emissions-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-579525105.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 642,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/08/tackling-one-of-the-biggest-single-sources-of-co2-emissions-with-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/08/tackling-one-of-the-biggest-single-sources-of-co2-emissions-with-machine-learning/amp/",
+      "publishedDateTime": "2020-09-08T10:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-09-08-aeva-partners-with-auto-supplier-zf-to-produce-key-self-driving-sensors.md",
       "title": "Aeva Partners With Auto Supplier ZF to Produce Key Self-Driving Sensors",
       "excerpt": "(Reuters) - Aeva Inc, a Silicon Valley start-up working on a crucial sensor for self-driving vehicles, and German automotive industry supplier ZF Friedrichshafen AG said on Tuesday they were partnering to put the sensors into production.",
@@ -836,326 +1175,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-how-to-separate-the-wheat-from-the-chaff-in-a-sea-of-ventures-with-ai-use-cases.md",
-      "title": "How To Separate The Wheat From The Chaff In A Sea Of Ventures With AI Use Cases",
-      "excerpt": "Two criteria separate the leaders from the pack of AI ventures. What are they? And what are some of the most promising AI ventures at the moment?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/hannahmayer/2020/09/08/how-to-separate-the-wheat-from-the-chaff-in-a-sea-of-ventures-with-ai-use-cases/",
-      "originalUrl": "https://www.forbes.com/sites/hannahmayer/2020/09/08/how-to-separate-the-wheat-from-the-chaff-in-a-sea-of-ventures-with-ai-use-cases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f573662b42731bf605ee3e0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6144%26cropY1%3D455%26cropY2%3D3911",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/hannahmayer/2020/09/08/how-to-separate-the-wheat-from-the-chaff-in-a-sea-of-ventures-with-ai-use-cases/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hannahmayer/2020/09/08/how-to-separate-the-wheat-from-the-chaff-in-a-sea-of-ventures-with-ai-use-cases/amp/",
-      "publishedDateTime": "2020-09-08T01:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-skin-analytics-raises-4m-series-a-to-use-ai-for-skin-cancer-screening.md",
-      "title": "Skin Analytics raises £4M Series A to use AI for skin cancer screening",
-      "excerpt": "Skin Analytics, a U.K.-based startup that has developed a skin cancer screening service that uses artificial intelligence, has raised £4 million in Series A funding. The round was led by Hoxton Ventures,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/08/skin-analytics-raises-4m-series-a-to-use-ai-for-skin-cancer-screening/",
-      "originalUrl": "https://techcrunch.com/2020/09/08/skin-analytics-raises-4m-series-a-to-use-ai-for-skin-cancer-screening/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/132880_Skin-Analytics-Teledermatology-Project_Clinical-Photography-5-r....jpg?w=1024",
-          "width": 1024,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/08/skin-analytics-raises-4m-series-a-to-use-ai-for-skin-cancer-screening/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/08/skin-analytics-raises-4m-series-a-to-use-ai-for-skin-cancer-screening/amp/",
-      "publishedDateTime": "2020-09-08T01:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-impact-analysis-of-covid-19.md",
-      "title": "Impact Analysis of Covid-19",
-      "excerpt": "The rising demand for improved customer services in the healthcare and life sciences sector is a major factor driving growth of the natural language processing in healthcare and life sciences market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medgadget.com/2020/09/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-to-find-better-growth-with-us-21347-million-by-2026-cagr-26-8-coherent-market-insights.html",
-      "originalUrl": "https://www.medgadget.com/2020/09/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-to-find-better-growth-with-us-21347-million-by-2026-cagr-26-8-coherent-market-insights.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-08T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medgadget",
-        "domain": "medgadget.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-facial-recognition-technology-for-pets-is-launched-in-atlanta.md",
-      "title": "Facial recognition technology for pets is launched in Atlanta",
-      "excerpt": "In addition to Finding Rover, LifeLine has implemented a \"Lost & Found\" matchmaking program where they check pets reported as lost against those in shelters daily. A new Lost2Foun",
-      "sourceUrl": null,
-      "webUrl": "https://findingrover.com/",
-      "originalUrl": "https://www.11alive.com/article/life/pets/facial-recognition-technology-for-pets-is-launched-in-atlanta/85-f8881f41-4023-4cb6-b52e-da69415475c3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 339,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-08T00:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "11Alive",
-        "domain": "11alive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-artificial-intelligence-in-retail-market-2020-2023-demand-analysis-type-statistics-regions-and-industry-key-manufacture.md",
-      "title": "Artificial Intelligence in Retail Market 2020-2023: Demand Analysis, Type, Statistics, Regions, and Industry Key Manufacture",
-      "excerpt": "Artificial Intelligence is anticipated to disrupt every business and enterprises across the world. One of the major factors that drive the growth of artificial intelligence market",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-2020-2023-demand-analysis-type-statistics-regions-and-industry-key-manufacture-2020-09-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-2020-2023-demand-analysis-type-statistics-regions-and-industry-key-manufacture-2020-09-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-08T00:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-ai-based-video-analytics-making-supply-chains-smarter.md",
-      "title": "AI-based Video Analytics Making Supply Chains Smarter",
-      "excerpt": "Supply chain management, which basically refers to the handling of various processes comprising the production flow, all till the end product is finally delivered to the customer, has become smarter using the next-gen video analytics technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/355869",
-      "originalUrl": "https://www.entrepreneur.com/article/355869",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1599547066-web-4869856.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/355869",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/355869",
-      "publishedDateTime": "2020-09-07T23:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-4-ways-tesla-self-driving-falls-short-in-consumer-reports-testing.md",
-      "title": "4 Ways Tesla Self-Driving ‘Falls Short’ In Consumer Reports Testing",
-      "excerpt": "Tesla has repeatedly rolled out crude beta features, some of which can put people’s safety at risk and shouldn’t be used anywhere but on a private test track or proving ground,” says William Wallace,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/08/4-ways-tesla-self-driving-falls-short-in-consumer-reports-testing/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/08/4-ways-tesla-self-driving-falls-short-in-consumer-reports-testing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f571cfcf3fd84099a0bd48f%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/08/4-ways-tesla-self-driving-falls-short-in-consumer-reports-testing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/09/08/4-ways-tesla-self-driving-falls-short-in-consumer-reports-testing/amp/",
-      "publishedDateTime": "2020-09-07T23:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

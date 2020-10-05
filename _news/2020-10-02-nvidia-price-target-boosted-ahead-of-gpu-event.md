@@ -19,21 +19,35 @@ topics:
   - AI
 
 related:
-  - title: "Fujitsu accelerates advanced workloads with new NVIDIA GPU-powered Server PRIMERGY GX2460 M1"
-    excerpt: "PRIMERGY GX2460 M1 expands Fujitsu’s range of servers to power artificial intelligence and other GPU-accelerated workloads."
-    publishedDateTime: 2020-10-05T07:06:00Z
-    webUrl: "https://www.itweb.co.za/content/mQwkoq6Pzj673r9A"
-    ampWebUrl: "https://amp.itweb.co.za/content/mQwkoq6Pzj673r9A"
-    cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/mQwkoq6Pzj673r9A"
+  - title: "Nvidia introduces Ampere-based RTX A6000 GPU for professionals"
+    excerpt: "Nvidia held its GPU Technology Conference, or GTC, and it unveiled a ton of new technologies and capabilities at the event, including a new Ampere-based professional GPU, the RTX A6000."
+    publishedDateTime: 2020-10-05T14:42:00Z
+    webUrl: "https://www.neowin.net/news/nvidia-introduces-ampere-based-rtx-a6000-gpu-for-professionals"
+    ampWebUrl: "https://www.neowin.net/amp/nvidia-introduces-ampere-based-rtx-a6000-gpu-for-professionals/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/nvidia-introduces-ampere-based-rtx-a6000-gpu-for-professionals/"
     type: article
     provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 48
+      name: Neowin
+      domain: neowin.net
+    quality: 89
     images:
-      - url: "https://www.itweb.co.za/static/pictures/2020/10/J8337-PRIMERGY-GX2460.jpg"
-        width: 816
-        height: 395
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/10/1601908637_quadro-rtx-a6000_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
+  - title: "Modzy Presenting at NVIDIA GPU Technology Conference"
+    excerpt: "Modzy, the leading enterprise AI platform, today announced that it will be a Global Diamond sponsor of the upcoming NVIDIA GPU Technology Conference (GTC), with workshops and the conference scheduled for Oct."
+    publishedDateTime: 2020-10-02T18:00:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-science-artificial-intelligence-computing-and-information-technology-33bfb90961274c0e84c1c25b2a49fd9c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "mePgo7da2bX04R652WZ/Gazji5sQYbgXi70P3H8twmL1aWKU5iDmXfyG2RrlY297j3BfiD4IeH3fiBJ/A0Ui+zOBJ9c13O0KC6GRC4qbuky775AB6ZHKWIfGAF8bohGuDaJcraB5blbBKU5TFxy21kenR647qhwWt3LnnXFEc7CrwNIdw/r2ygKLUjLT5urHybxRmuw8QJn6UOL44a07xHnR1r1tU771UsFl01lTFtIdh4FnPnCpxT6vIOALL4ErQZ66t+LoZVJEn2GB6zF3jNfz4UVKRS1fdawqdv0SizXVvHWPkDlql2ahSo3ip90ny7dD6iwnZjDnlI5L4rl/ierf2pNIuu30zblhR7V6/Yc=;qSKV4Yq5uuZusHE7Ufea6Q=="

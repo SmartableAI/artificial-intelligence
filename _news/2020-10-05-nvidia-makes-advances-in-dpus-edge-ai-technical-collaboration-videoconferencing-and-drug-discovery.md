@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "VMware Embraces Nvidia GPUs, DPUs To Drive Enterprise AI"
-    excerpt: "AI is too hard for most enterprises to adopt, just like HPC was and continues to be. The search for “easy AI” – solutions that will reduce the costs and"
-    publishedDateTime: 2020-09-30T21:14:00Z
-    webUrl: "https://www.nextplatform.com/2020/09/30/vmware-embraces-nvidia-gpus-to-drive-enterprise-ai/"
-    ampWebUrl: "https://www.nextplatform.com/2020/09/30/vmware-embraces-nvidia-gpus-to-drive-enterprise-ai/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/09/30/vmware-embraces-nvidia-gpus-to-drive-enterprise-ai/amp/"
+  - title: "NVIDIA Announces Cloud-AI Video-Streaming Platform to Better Connect Millions Working and Studying Remotely"
+    excerpt: "NVIDIA today announced the NVIDIA Maxine platform, which provides developers with a cloud-based suite of GPU-accelerated AI video conferencing software to enhance streaming video — the internet’s No."
+    publishedDateTime: 2020-10-05T13:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-announces-cloud-ai-video-streaming-platform-to-better-connect-millions-working-and-studying-remotely-1029648307"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 76
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/VMware-CEOs.png"
-        width: 1061
-        height: 525
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
 
 secured: "F6d51YMLIpUzt00I+BF8r4vxM2FA41AlzSu5gCBKuOMNLtjcAiMxdgOasGVxoTjhenDZ5r4rnfglwYosKYjQu3n+JTdsyLyB9cDCZRFiiXvfyTXyUvrlW8Vj3l6VqmmImGzSuzG75xc33DUv2NlfUbtCoI2wtbHjhXxrzS+C514MVOMhm7RfQ+IumjSxdDeb4fDwiiT3q8IP94ky0nsjof3JtMzqLcoBHckTT/+tYTPCBJKbo+I90fGQ52M7SO80qmyUxtY/ULxP1BNMURbZFZhYtKtjwldVJ3A4NNPOpzcXmwyIoSjWQkO1LIovmn5gQ3bjzRVKSJFFIAQyQKOPGcsV3ITQUdNEy44YUFr8hdE=;ww7QTkPbvqVtT7cuPY9xmQ=="
 ---

@@ -69,29 +69,6 @@ related:
         width: 1620
         height: 1080
         isCached: true
-  - title: "Self-Driving Cars Are Still Years Away"
-    excerpt: "Even though automobile companies presented big promises to have fully autonomous cars by 2021, there are multiple planning and technological barriers that will need to be overcome before these vehicles become an everyday reality."
-    publishedDateTime: 2020-10-04T20:16:00Z
-    webUrl: "https://urbanmilwaukee.com/2020/10/04/urban-reads-self-driving-cars-are-still-years-away/"
-    type: article
-    provider:
-      name: Urban Milwaukee
-      domain: urbanmilwaukee.com
-    quality: 24
-    images:
-      - url: "https://urbanmilwaukee.com/wp-content/uploads/2017/04/autonomous-car-e1493403690497.jpg"
-        width: 1024
-        height: 680
-        isCached: true
-  - title: "The self-driving cars of the future aren’t inclusive. They’re trying to change that."
-    excerpt: "By combining artificial intelligence with research that looks into the way people interact with machines and computers, researchers at Northeastern and the University of Maine want to help make self-driving cars even smarter and accessible for people who are visually impaired or blind."
-    publishedDateTime: 2020-09-30T22:02:00Z
-    webUrl: "https://news.northeastern.edu/2020/09/30/the-self-driving-cars-of-the-future-arent-inclusive-theyre-trying-to-change-that/"
-    type: article
-    provider:
-      name: Northeastern University
-      domain: northeastern.edu
-    quality: 0
 
 secured: "/HmwpLzof3OrZabrXKFw4rkJ7rHxeckzF/ehNXd6zebgjHeNKRtgoxQ39jSBeQzNyL+qmTC9ZOMv/h51jIQMvch+TehuYq1Kcp7Ys0PO7HblGaw+IolmazrfONJXE9E1nF0ZmfFkP7TClFbvcgEdsuHMI5k3BIdSYcjCeinjzxGIk8uE2h5mJC03inTgnGJgO9ro2Zoi34qG/rua9oPsvRJxWn8vz3GZNayRW2B9SoPsHSzAcIKGvYwMxPa56EE7EaQTdTEsJhKJQtOzldlGqXe7assi9evUcNap3ZKZ3ShgjEk80EyBc4hiRb8bG+X4xGW5ElB6wSDG9raNT0FnL2toR+08gv/GstRV5FKjssza2s372IuG052mOF4lGRFJ4euhSRqaG7k1iGcVtAiuxEg9YZgSyBdRGTBXi3CfsXlsK6XMDl/Wdmnye4fx5zD6G16ugrRrUXo2faHQ2nrRKeK8VM5s0i7iGt/mGHkT/G06ga2+Hd1AUaj+Gw7oiFMegUG+bqLas0E+3G8q+1/b1A==;wFnIwuW7P4e1DY8K4rQUNw=="
 ---

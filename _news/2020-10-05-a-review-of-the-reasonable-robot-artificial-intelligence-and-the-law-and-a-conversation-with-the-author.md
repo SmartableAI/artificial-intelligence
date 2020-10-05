@@ -39,23 +39,7 @@ related:
         width: 370
         height: 278
         isCached: true
-  - title: "AIOps uses AI, automation to boost security"
-    excerpt: "As security threats and attempted data breaches increase, more organizations are looking to the IT operations platform for AI-enabled cyber defense."
-    publishedDateTime: 2020-09-30T21:10:00Z
-    webUrl: "https://www.technologyreview.com/2020/09/30/1008689/aiops-uses-ai-automation-to-boost-security/"
-    ampWebUrl: "https://www.technologyreview.com/2020/09/30/1008689/aiops-uses-ai-automation-to-boost-security/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/09/30/1008689/aiops-uses-ai-automation-to-boost-security/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/09/MIT_AppDCoverARTonly.png"
-        width: 1500
-        height: 1161
-        isCached: true
 
-secured: "Bc/yLt/3ZrO+jJ4F6Yy0WdV/8qn3l0HUk8Z/8M61dt/unC++RGdBTThBM85MAhIDqZn6Gq0bBX/jWKogRAKX0zCH3+yndJtcOiHoIwcGiN3cfNXAF/EBHM2BsReAv4HIPe+Gx6oU+QaMxkFuWyj8AsgPUL5ZCM3dZMYv07jS0D1XtM95Y42Q9YjeSEdTtXutIoGYBeLeyZTkgTWrMzwH37SwxqrBvJ3LLuHNlYpPaYuN7yrRmpit5yv1T6pgFPK/B3gfzIz2o4Iy5id3JfXwgAQsp72oyB3EAw856ApG8GsVTCYKu+IzI/m35hv1NG3jZ+Kp0WaJQqrspDcNDFnePkZsRqobilLBmkNBqJ0g/xo=;WwjlV5ZQrkhdZ6LiWMJHzg=="
+secured: "xWYlvBtrGtJthKkUV5iG1Aa2e0HXHd2CNBMeWz0CXEhSia0AWTvj2NvcDNLNtXoI3q8Nx9LJnnMWFC4G9tMDYK9EVhWdyUKcIL326pkCKALjslYFUiuSwhI7B3YwiJQrV0QxSvSqQIqyz2IPtwwkHpYT3Rp57M8aA40VFPjl2BwkoRbFHILo3e65V/tBERGqoRvBKcnCxMraMrDUztNygzeZLEIBlxnw89f9gx8/d5RsE3C9ffY4TWzTfGEujkBUQ5LQfO+xTOKgj9iBRF1YSUYu9KSK1pC6tSEyvPWW4qaZs5FtU0IEEeA70sh/qXQzH2wp+wcpScdVslOY8gJ12qaOM6diewcIYif3zmcTXimTX1N2Wk70J067n+4dTxG6JqodIBxHRKh0cG/laxOpiVE4c/D0PW3S/PVYJ2hvaE9aKu/Qf8+Sqwrngl2nM2QNdDgfPqzTYsxqseKRLMWD6L/xJ4Ck56XJgY65JbcNqBEm2oTAZArUWKUM6rlCWKae1HDhPM0ZOa1fz2XcajPKMA==;pG7P1pS4buYlipYI0bLnvg=="
 ---
 

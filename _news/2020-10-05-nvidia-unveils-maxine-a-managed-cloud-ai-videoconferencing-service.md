@@ -120,6 +120,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Nvidia Partners With GlaxoSmithKline to Use AI for Drug Development"
+    excerpt: "Nvidia also is building what it says is the U.K.'s most powerful supercomputer to help research pressing medical challenges."
+    publishedDateTime: 2020-10-05T15:25:00Z
+    webUrl: "https://www.thestreet.com/investing/stocks/nvidia-nvda-glaxosmithkline-gsk-artifical-intelligence"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/stocks/nvidia-nvda-glaxosmithkline-gsk-artifical-intelligence"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/stocks/nvidia-nvda-glaxosmithkline-gsk-artifical-intelligence"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 59
+    images:
+      - url: "https://content.jwplatform.com/thumbs/jE9Wm8Nj-720.jpg"
+        width: 720
+        height: 406
+        isCached: true
   - title: "Nvidia Will Help GSK Find New Drugs, With AI and Supercomputers"
     excerpt: "GSK’s head of AI and machine learning said the Nvidia systems will allow his researchers to search for medicines by poring through vast databases of pathology images and genomic signals."
     publishedDateTime: 2020-10-05T12:34:00Z
@@ -135,6 +151,22 @@ related:
       - url: "https://images.barrons.com/im-240586/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "NVIDIA Maxine uses AI to improve video calls and conferencing"
+    excerpt: "NVIDIA announced the NVIDIA Maxine platform, which uses AI to improve video calls and streaming ... Developers can apply for early access to NVIDIA Maxine now to start working on integrating the platform with their services and apps."
+    publishedDateTime: 2020-10-05T15:55:00Z
+    webUrl: "https://www.windowscentral.com/nvidia-maxine-uses-ai-improve-video-calls-and-conferencing"
+    ampWebUrl: "https://www.windowscentral.com/nvidia-maxine-uses-ai-improve-video-calls-and-conferencing?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/nvidia-maxine-uses-ai-improve-video-calls-and-conferencing?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 57
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/10/nvidia-maxine.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "VMware Partnership, A Big Win For NVIDIA In AI Chip Market"
     excerpt: "This partnership is complete in line with NVIDIA’s recent efforts with AI, thus giving it a significant edge in the AI chip industry."
@@ -165,6 +197,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "R9uxtQwV1jX4YCg73Wl4dZh39PcfoFH2YKYvt6WcEn/0v15svMZp2ijtU4k5LKIsOsBQEP8JuVU0Piy21DEQtfcvHPUorzFVJ5w9ZPA11Xu7cSOV2fvinV4JQh5nzjXUx7YlejkS1GVTbpBiytoJ3edAJjHHfVCqEMoP0m9OqdGj2RDmsTuJikkPJ8X9DcYEBgZgxeNKC6lR2tMNs711yGycu0yZ1lzCqu0b+r5a9Mnkzfv0VE68jqnQcLrPO05D26Asgt5vaWDmq+GCHkqgor08fJwP6Vb13uUAnV1r2aCsPcmgVwmLpQdW/19fnDiOxchFaUBag7fg7l8DSdrfbocL/iTqVxTuQ8XTROReK/I=;Fdrkj1KFOzBGnZOByK8qqQ=="
+secured: "aty3Bv7pSOor0Lg3O92uTix8wSMdLJdAajldwxCklMBYrDOX0GRdDCLoP0n6B4dJAQ4Vy7ELPv/DMQcaLVN4zgjjMoB4tL/c8JaRwFqasyImJ/GskGU2e4tV6rV7ITor4T+QVpycPYJ9qe6i6+abKZ/URGDM37uHJnwM+PjSLMDnytpVwRy0EbySoXdOQi35DHkhS7w0qERj+undj+kF69EaUkDRXMRJz+fWI4m9AhtFoZdT0Czx2Qnq8MC6+q4dQ3K0NjyTrQVRJr9qiTr+xAqaq6FUSHraeSvOe8Oc490smN0Us6/deQrqT8SxybXjLx94in5/nqzI5BMsSw+aIogXLOD6QNoi4RqwLHfTQ98jRjB5EeBVB8dZtogpy57XDf2Ajgs9yRc/xVocL+Nctcic83ZMd6CMLL1LVe35qZ/9u8U3hBbm83GCmZHkhp66n3ptVoDfsVSzg2kaoCiv1MbI+xBeO+j5SWkZuQNTh/G2gMq6N5hlZDHfUD+U0jMtGHJ21EVC98xvx4NhDcma2A==;/2s1jgei9DrqtB/gxLbk3A=="
 ---
 

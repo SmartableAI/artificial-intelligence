@@ -9,7 +9,7 @@ ampWebUrl: "https://yourstory.com/2020/10/10-week-programme-help-founders-ml-sta
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/10/10-week-programme-help-founders-ml-startups-scale/amp"
 type: article
 quality: 75
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://www.thestatesman.com/wp-content/uploads/2020/10/QT-IIT-data-science.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "USAF adds nine companies to Skyborg artificial intelligence development programme"
-    excerpt: "The awards are part of a second phase of the \"Skyborg Prototyping, Experimentation and Autonomy Development\" programme."
-    publishedDateTime: 2020-09-30T21:13:00Z
-    webUrl: "https://www.flightglobal.com/military-uavs/usaf-adds-nine-companies-to-skyborg-artificial-intelligence-development-programme/140406.article"
-    type: article
-    provider:
-      name: Flightglobal
-      domain: flightglobal.com
-    quality: 32
-    images:
-      - url: "https://d3lcr32v2pp4l1.cloudfront.net/Pictures/2000x2000fit/5/4/4/73544_skyborgconceptrendering_744676.jpg"
-        width: 2000
-        height: 1125
         isCached: true
 
 secured: "TU9Ovx2C13799QUBV0h2ML16qzOuOkxK2RaIhNUpAiNDZ0U8dx+vdDbZIlaXjSvg4ILJO0LezTIorFvq8cfYFnuUGAI528T8hApll9uG1ZBxhvJ2Z7XqJJqWPPWkoEpifkPH3hdSq5JcfKfJO7SUieuTjZ3rW/02MAC0jka6xLXSckm/N38DpI5yVncPXAG3/BvIolSt2SINhM1kWCVaYHBs8ttVXTvSTZJeGTvJmMUAH6dT5MM2ZrkK+Nysqp4odYcWbTblhPjvQQu3n3teYWVuujjrJQ0KRiOFP8/hEnTbJa5vgV6a/fgSrGmKrblqDeViL1z8KR2tkPCGbOoEJ/HW9Br++ml0U1WOQslOHwk=;Jg5IweXZJ32uFi3w/EChCg=="

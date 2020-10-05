@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-01-how-to-avoid-disasters-like-amazons-rekognition.md",
+      "title": "How to avoid disasters like Amazon’s Rekognition",
+      "excerpt": "One way to avoid disastrous AI systems in the wild might be to build responsible operation into the programs from the start, professor Sergey Levine of U.C. Berkeley told ZDNet. He has a plan to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/how-to-avoid-disasters-like-amazons-rekognition/",
+      "originalUrl": "https://www.zdnet.com/video/how-to-avoid-disasters-like-amazons-rekognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/10/01/12df13b7-db78-4236-b526-0836a495301d/thumbnail/770x578/e48e8f2ba67ef4f816f263bed808b4ef/20200923-tiernan-karen-ai.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-01T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-10-01-at-2473-cagr-3d-sensor-market-size-to-surpass-usd-722175-million-by-2025.md",
       "title": "At 24.73% CAGR, 3D Sensor Market Size to Surpass USD 7221.75 Million by 2025",
       "excerpt": "Global 3D Sensor Market is valued at USD 1537.61 Million in 2018 and expected to reach USD 7221.75 Million by 2025 with",
@@ -1374,57 +1426,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-in-a-facial-recognition-bill-backed-by-microsoft-three-words-stand-between-citizens-and-their-civil-rights.md",
-      "title": "In a facial recognition bill backed by Microsoft, three words stand between citizens and their civil rights",
-      "excerpt": "In Washington, the first US state to pass a law regulating facial recognition, it’s legal for government agencies to use facial recognition to deny citizens access to basic rights and services ...",
-      "sourceUrl": null,
-      "webUrl": "https://qz.com/1905159/microsoft-is-shaping-facial-recognition-bills-across-the-us/",
-      "originalUrl": "https://qz.com/1905159/microsoft-is-shaping-facial-recognition-bills-across-the-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/09/2016-07-19T120000Z_795300523_TM3EC7J0UK701_RTRMADP_3_MICROSOFT-RESULTS-e1600378171367.jpg?quality=75&strip=all&w=1400",
-          "width": 1400,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://qz.com/1905159/microsoft-is-shaping-facial-recognition-bills-across-the-us/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1905159/microsoft-is-shaping-facial-recognition-bills-across-the-us/amp/",
-      "publishedDateTime": "2020-09-18T02:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/nvidia-jetson-nano-2gb-is-59-gateway-into-
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidia-jetson-nano-2gb-is-59-gateway-into-ai-and-robotics-05641043/amp/"
 type: article
 quality: 121
-heat: 151
+heat: 171
 published: true
 
 provider:
@@ -75,7 +75,39 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
+  - title: "How Nvidia Is Fighting Disease With AI"
+    excerpt: "Nvidia Corp. (NASDAQ: NVDA) shares jumped on Monday amid a flurry of updates from the semiconductor firm. Perhaps one of the most exciting updates was that Nvidia said it will be partnering with GlaxoSmithKline PLC (NYSE: GSK) to apply its artificial intelligence (AI) and supercomputers for the drug and vaccine discovery process."
+    publishedDateTime: 2020-10-05T15:12:00Z
+    webUrl: "https://247wallst.com/technology-3/2020/10/05/how-nvidia-is-fighting-disease-with-ai/"
+    ampWebUrl: "https://247wallst.com/technology-3/2020/10/05/how-nvidia-is-fighting-disease-with-ai/amp/"
+    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2020/10/05/how-nvidia-is-fighting-disease-with-ai/amp/"
+    type: article
+    provider:
+      name: 24/7 Wall St
+      domain: 247wallst.com
+    quality: 59
+    images:
+      - url: "https://247wallst.com/wp-content/uploads/2020/07/imageForEntry48-Txa.jpg?w=400"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "NVIDIA's Jetson Nano 2GB AI Dev Kit Delivers Single Board Goodness For An Attractive Price"
+    excerpt: "First introduced in 2014, NVIDIA's Jetson platform has been available to developers and tinkerers looking for cost-effective and powerful computing solutions for artificial intelligence and robotics applications."
+    publishedDateTime: 2020-10-05T14:02:00Z
+    webUrl: "https://hothardware.com/news/nvidia-new-jetson-nano-2gb-delivers-ai-dev-goodness-for-just-59"
+    ampWebUrl: "https://amp.hothardware.com/news/nvidia-new-jetson-nano-2gb-delivers-ai-dev-goodness-for-just-59"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-new-jetson-nano-2gb-delivers-ai-dev-goodness-for-just-59"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 49
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/53038/content/jetson_nano_2gb.jpg"
+        width: 708
+        height: 544
+        isCached: true
 
-secured: "Uqa/uhwCTUpGOSQwkVM0QqPfbllibVAgZpHtOfSvh5XKKlF4ScBzA8evY0aa+jLm3fFcyrr0DwXcMqvp18ig3fQxzzK8MVEKFcKlLtj+0OIdY+FMHwucQ31NRQu3ndDkd4gedZhk+QDqcVyzZgFW81eVv2ZXSP6SZq8Uo6M4A2nyLO5Oq1sMVmPy/cIX82fhMfDx+abJkidpfa2S/9hUxBLFjQBtLUzPpUEdSsnLBVx/dDbZ65v563f1OGE0r5IQjx2e7sl/Mx4hOlcZN5ibopeL70zhiJytWc/qW3nBrhNe90LxBZZKGlLt42mrAFkhzlqBIm6LIPhQlu5Tp9wBIUOGMqBBrJOZE/yS744bDZc=;graFUby6BEzEO+SJ8dn1CA=="
+secured: "DEFyWIGL/36ElX1vQVNrEJqbo4cuCnQt5H0wCRPijIzH7/E2xqO0I+mdZPdsuiK/NVbaLjzpNmzIvdZCWsxZMIeBQJtgvSjG1avhlS8GFtsHd8DiuwQ6Cj/eQ0lUH7CecTWaDnAwW2CENhIj+P3mHMYFBQxu4DmTqEm88fKAxiU6RfrGFm6AemXpsV9VylRlG4A2A8WPEpf+2ccFtc4/iW+cT1ymdA3gxpZzLCW1d8iZ/JO+qkzVgm+GrhD6mG0FtE5GOgJh62JK68laJ1jcxqN+La6GozGbXd/maWK2xzFkx0NtMiTQxpOggP7zZRAjwnOCFLbpE8hPK+6RNj/wcaa8oLc/n4GhMSWnWFcrERSIYGYmijnF+mh2tOVXXRFirVGB2iBXdDG3OKL7VQ5nDuN7wcXkHiaWdMOjcSdkKO2mlA3gJvQBDf0lfgLrLVub1SwzfGX3rq7EbluPAmcuJJ9p87hTwOFRegcKhvNUORvRMaa3ERrObiE6d3dvARvfHBB9gDe4NdWBDvD+eu0iLw==;uXxf2AXvpI0wfro3UmIAxQ=="
 ---
 

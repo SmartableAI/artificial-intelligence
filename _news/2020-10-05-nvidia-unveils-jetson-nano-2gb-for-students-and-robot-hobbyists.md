@@ -73,6 +73,38 @@ related:
         width: 920
         height: 470
         isCached: true
+  - title: "How Nvidia Is Fighting Disease With AI"
+    excerpt: "Nvidia Corp. (NASDAQ: NVDA) shares jumped on Monday amid a flurry of updates from the semiconductor firm. Perhaps one of the most exciting updates was that Nvidia said it will be partnering with GlaxoSmithKline PLC (NYSE: GSK) to apply its artificial intelligence (AI) and supercomputers for the drug and vaccine discovery process."
+    publishedDateTime: 2020-10-05T15:12:00Z
+    webUrl: "https://247wallst.com/technology-3/2020/10/05/how-nvidia-is-fighting-disease-with-ai/"
+    ampWebUrl: "https://247wallst.com/technology-3/2020/10/05/how-nvidia-is-fighting-disease-with-ai/amp/"
+    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2020/10/05/how-nvidia-is-fighting-disease-with-ai/amp/"
+    type: article
+    provider:
+      name: 24/7 Wall St
+      domain: 247wallst.com
+    quality: 59
+    images:
+      - url: "https://247wallst.com/wp-content/uploads/2020/07/imageForEntry48-Txa.jpg?w=400"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "NVIDIA's Jetson Nano 2GB AI Dev Kit Delivers Single Board Goodness For An Attractive Price"
+    excerpt: "First introduced in 2014, NVIDIA's Jetson platform has been available to developers and tinkerers looking for cost-effective and powerful computing solutions for artificial intelligence and robotics applications."
+    publishedDateTime: 2020-10-05T14:02:00Z
+    webUrl: "https://hothardware.com/news/nvidia-new-jetson-nano-2gb-delivers-ai-dev-goodness-for-just-59"
+    ampWebUrl: "https://amp.hothardware.com/news/nvidia-new-jetson-nano-2gb-delivers-ai-dev-goodness-for-just-59"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-new-jetson-nano-2gb-delivers-ai-dev-goodness-for-just-59"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 49
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/53038/content/jetson_nano_2gb.jpg"
+        width: 708
+        height: 544
+        isCached: true
 
 secured: "nlU545nOBFTWJdLXgxpwoUpe0uUc17STPpI7F1+Paf+R53z9ogLlEr6qRMFbiA6tBLsv6x88HLSobqec6gOblHxIwB1qLZ2JCERFESSZ0YZQvpw1ixoYjxDryy9MwCttyOhe3/xJjes+vQdo38dMtX81R1oAhCVWTMCS1KylLbfWXGPuXc+R8itKCxTNAw5Ay0vN8REPcRSw8WPKtOHQiJSdRuxIq7E2+SWdO/F21AVI/TYvauO6X/HM5osZzz0+y0JsIleXwMdJB2SbPsmwRRHQK6mYMh9UdYwJHTreaPm2rS1MvoDXmaoye75uwM2UFm4e1PuQRqnT2y4ZzjXoeOwRDfd7hiQ4C/fEk6+iMq93z0b5MWNOlc1HQ1yjyFEBVHeIsQ7j1PxOpGQoykes3m6h2YARZwvP9m4S71uTAhhTwiv3vNE/dXID1czWteMDxW8L6FIt7Tb2uZ9RMgRCi/oX0jfZxVFEvF8Ng4o9vI0JW9yk1dMPGobvTlfqp/w6nVzsRDwxVSPxltDFPh62mg==;JcSJqWvx36b8qCnkoHG4PA=="
 ---

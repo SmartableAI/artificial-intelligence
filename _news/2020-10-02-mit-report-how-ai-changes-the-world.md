@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/resource-library/whitepapers
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/mit-report-how-ai-changes-the-world/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -51,6 +51,20 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2020/10/GettyImages-523733977_web.jpg?w=3000"
         width: 3000
         height: 2000
+        isCached: true
+  - title: "The Great Northern AI Summit is less than one week away"
+    excerpt: "AI Tech North's Great Northern AI Summit gets underway in one week and is set to explore the revolutionary world of AI and how it is a part of several areas of people's everyday lifes."
+    publishedDateTime: 2020-10-05T15:47:00Z
+    webUrl: "https://www.insidermedia.com/news/national/the-great-northern-ai-summit-is-less-than-one-week-away"
+    type: article
+    provider:
+      name: Insider
+      domain: insidermedia.com
+    quality: 39
+    images:
+      - url: "https://www.insidermedia.com/uploads/magazine/images/ybi_cover_oct_2020.jpg"
+        width: 350
+        height: 494
         isCached: true
 
 secured: "aHXyRFzsamNwigS18fhfbF/sw52si3JQO4v+bcc1ASUSdxgjfi63tss6LkeEr6BvUp5+5Qtj8a6fJYNtBpbNH0kVNHlyDlTqcJHkJ8UOziO3a5GYRyhnn2Em/Egh8kqAUIg7kC9GGpa08dV4STht3UysyGoczV1a/67qz5zh1KP1c+pIRls+bNicfpxGv+9yKt74pLRs1WnToO3rUh5UuNDouEpkwtimCAp6Shf1o6UTWLhkiLrF7ezJwqLVgzZAg1datE+NyUBjSV9VlLDZL4JWSYKZnrwGZwgZSKXavIT6z03NFXMPin3q9Y+eKkkXNmO4EOgJOiy6byaIkclo2P8xYtrNaeJgmCzz1I+RRX8=;5U3pNvGgoSdmkpkza8GGmw=="

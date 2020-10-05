@@ -132,6 +132,38 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Nvidia Partners With GlaxoSmithKline to Use AI for Drug Development"
+    excerpt: "Nvidia also is building what it says is the U.K.'s most powerful supercomputer to help research pressing medical challenges."
+    publishedDateTime: 2020-10-05T15:25:00Z
+    webUrl: "https://www.thestreet.com/investing/stocks/nvidia-nvda-glaxosmithkline-gsk-artifical-intelligence"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/stocks/nvidia-nvda-glaxosmithkline-gsk-artifical-intelligence"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/stocks/nvidia-nvda-glaxosmithkline-gsk-artifical-intelligence"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 59
+    images:
+      - url: "https://content.jwplatform.com/thumbs/jE9Wm8Nj-720.jpg"
+        width: 720
+        height: 406
+        isCached: true
+  - title: "NVIDIA Maxine uses AI to improve video calls and conferencing"
+    excerpt: "NVIDIA announced the NVIDIA Maxine platform, which uses AI to improve video calls and streaming ... Developers can apply for early access to NVIDIA Maxine now to start working on integrating the platform with their services and apps."
+    publishedDateTime: 2020-10-05T15:55:00Z
+    webUrl: "https://www.windowscentral.com/nvidia-maxine-uses-ai-improve-video-calls-and-conferencing"
+    ampWebUrl: "https://www.windowscentral.com/nvidia-maxine-uses-ai-improve-video-calls-and-conferencing?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/nvidia-maxine-uses-ai-improve-video-calls-and-conferencing?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 57
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/10/nvidia-maxine.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "VMware Partnership, A Big Win For NVIDIA In AI Chip Market"
     excerpt: "This partnership is complete in line with NVIDIA’s recent efforts with AI, thus giving it a significant edge in the AI chip industry."
     publishedDateTime: 2020-10-02T00:00:00Z
@@ -161,6 +193,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "jqt9BWmZzl9YGJ4c5kWGRjfEWuTv7G1EhLooCQrECk7IhztZ6TmQBRjvjTRVPQttKnzcoY5U+N56/lKfqMwt/79jmj9u27Vs2zVzQX3dfJu0QcSJybTAMAhDW+bGj57TSt7L92ttVf9jruyJQNDr/4lXVPkq8SEQQa3/jDQ28C+n5Z5zDAWMLpXR15Q8jmCEkPG+MkBbfH6Lvm9G1a+8/sYs94soeBByoBnkn/zZYrkl/F/02oInftVUtka1of0lTRLHwmn/INSIKVz/v23oyzH3tA9QTPv9C1+t69nXplq88kN+Q17ns13ywXx9BrMV+0LAnoR/wgt5E7wl5q1F10nAnXon4Ra12qMqDgZ/KFY=;S5alPpvvsapbe6JQ5zMPLw=="
+secured: "vQz6XkESKAM4QLxipW8hBSneextVF4wG6Ws8kzB+TMLta/n+NLUXO8J6itlPqFq8GCYxMaLsqkNgmSGBLRsWjgsnvDvZAKBum33yixeyuxahBv8dZyTqqJE1ukRCLHp/IGYzigL3D65ApdUHqM7F47RkjrVgDz0tLFgKCnh4jNA/BhccTv4roYUeKFzCCwb2lxE8EqJpqDs/NkwPqwC4+oTTGzhyupTMrFfHemO7GZc4kxLY+E40WbokNK1k4rPHhD6PnKcbS3I3PzFsy481i1HSzZcPit81Q8FI27mTK2jsNaLJM2MxxRBdTkby1uqGwEoIBO9J922joYgJMKGQObZoltXV6qzfXruM50rpp4T6Ry8DNTuuMTGG9Uozf431yCXzMeWe/F29EVGjX+7unjy047yO2T7oCMBWNrmwLDKMgFw9gYCgsecP3rba2QQOyhBYsybenhILIBm9H4G056WR6OYIWaAB/nTwGXKddIuRdsmKlxwfhQ7bumIrOsQt9rK3XJiStBzHeM3XabtYtQ==;iJfLVlmj3E+7Ck/0Ez25dw=="
 ---
 

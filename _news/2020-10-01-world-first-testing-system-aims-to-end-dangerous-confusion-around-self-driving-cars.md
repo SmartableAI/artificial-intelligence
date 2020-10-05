@@ -69,29 +69,6 @@ related:
         width: 1920
         height: 1242
         isCached: true
-  - title: "Self-Driving Cars Are Still Years Away"
-    excerpt: "Even though automobile companies presented big promises to have fully autonomous cars by 2021, there are multiple planning and technological barriers that will need to be overcome before these vehicles become an everyday reality."
-    publishedDateTime: 2020-10-04T20:16:00Z
-    webUrl: "https://urbanmilwaukee.com/2020/10/04/urban-reads-self-driving-cars-are-still-years-away/"
-    type: article
-    provider:
-      name: Urban Milwaukee
-      domain: urbanmilwaukee.com
-    quality: 24
-    images:
-      - url: "https://urbanmilwaukee.com/wp-content/uploads/2017/04/autonomous-car-e1493403690497.jpg"
-        width: 1024
-        height: 680
-        isCached: true
-  - title: "The self-driving cars of the future aren’t inclusive. They’re trying to change that."
-    excerpt: "By combining artificial intelligence with research that looks into the way people interact with machines and computers, researchers at Northeastern and the University of Maine want to help make self-driving cars even smarter and accessible for people who are visually impaired or blind."
-    publishedDateTime: 2020-09-30T22:02:00Z
-    webUrl: "https://news.northeastern.edu/2020/09/30/the-self-driving-cars-of-the-future-arent-inclusive-theyre-trying-to-change-that/"
-    type: article
-    provider:
-      name: Northeastern University
-      domain: northeastern.edu
-    quality: 0
 
 secured: "rVaG8GmkTUJ5QMATJF8bdVlBl1ajq1JU8R/SMPyEHBgHVNwwLR8BLPdkFlN+rk9jBQWsWapvydmVGt9DrZ9HTIbMLDqSf3bx70qCTZJ3jHeA8+YnWdFZ8UxeFzjIS6Ym2prz+KBLBrBazer07wxhuGPxOaihwTsWpZc7LsctD/hG3PLFWD8ag36Odwa6tx0ABCd+uMOFi2g+7fvyxj8ozF3b7qWGyyapzddDz6JkYBheWJHDsZ4HZhLGcYfJI/P6Wybetvf7R7RqqN3ZWhC1ZoVi5hlOsWwlNVagB50zJvkuACRvttu0aE36WHFLWJ3CR+iBPav+mcXJ7OKZTjGvEgxFCpVsuQsBxFlvKaBktik=;C246HdL6ZtYfZHtSuX7kZg=="
 ---

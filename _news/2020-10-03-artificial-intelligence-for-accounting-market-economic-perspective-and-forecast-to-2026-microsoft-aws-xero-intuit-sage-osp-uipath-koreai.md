@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-economic-perspective-and-forecast-to-2026-microsoft-aws-xero-intuit-sage-osp-uipath-koreai-2020-10-03?mod=mw_quote_news"
 type: article
 quality: 78
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Oracle and Microsoft Introduce Enhanced AI Capabilities for Customer Data Platforms"
+    excerpt: "Oracle added machine learning capabilities to its CX Unity product and Microsoft announced a new engagement insights feature for its CDP."
+    publishedDateTime: 2020-10-02T10:51:00Z
+    webUrl: "https://www.chiefmarketer.com/oracle-and-microsoft-introduce-enhanced-ai-capabilities-for-customer-data-platforms/"
+    type: article
+    provider:
+      name: Chief Marketer
+      domain: chiefmarketer.com
+    quality: 48
+    images:
+      - url: "https://www.chiefmarketer.com/wp-content/uploads/2020/10/istock-653137006-scaled.jpg"
+        width: 1024
+        height: 724
+        isCached: true
 
 secured: "ZTxF8btGwGg35YSvNXPT2dMiJWit0afCXGrUH6Phxyu6hXF7mRhpTUmGoNr8cETiJgqWz2tQ6Db/MyTCvp9U8jNd5PSsUw3e8rwK3RvkGYlIqLpf/YH64LfmP3cMNnWslx5MW0Crci6hB6AQFaZ1tCfnaZao4VljsTU2iBoFWi9jYGHlectKR8t9a28Mp1OJ8wDlLdPVIm9u5j65ezv6qKemR0CfAyrjhS51pdooz57buKzDAW9Nm1pkAAWpLA3MJDcM11vZ0H8HUvrY2s4+bd+A3mHyjDQnfo3SwPDLeevt4vJJBl6Enm3EQNhEG7xDVhH5uhHY7Q2De3jgI6WwWNkQKc5CLE25aE6LbrT//eE=;nYlEFPG/UdLBC3qDGETA6g=="
 ---

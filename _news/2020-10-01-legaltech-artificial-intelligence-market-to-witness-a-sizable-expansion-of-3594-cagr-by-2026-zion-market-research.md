@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/marketersmedia/technology-busines
 webUrl: "https://apnews.com/press-release/marketersmedia/technology-business-corporate-news-technology-issues-computer-and-data-security-6170fb08a59333afc9d0d5a88c330456"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -22,38 +22,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "At 24.73% CAGR, 3D Sensor Market Size to Surpass USD 7221.75 Million by 2025"
-    excerpt: "Global 3D Sensor Market is valued at USD 1537.61 Million in 2018 and expected to reach USD 7221.75 Million by 2025 with"
-    publishedDateTime: 2020-09-30T21:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/at-2473-cagr-3d-sensor-market-size-to-surpass-usd-722175-million-by-2025-2020-09-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence In Military Market worth 18.82 Billion USD by 2025 | CAGR of 14.75%"
-    excerpt: "The report “Artificial Intelligence in Military Market by Offering (Software, Hardware, Services), Technology (Learning & Intelligence, Advanced Computing, AI Systems), Applicat"
-    publishedDateTime: 2020-10-01T21:55:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/10/ab17747491/artificial-intelligence-in-military-market-worth-18-82-billion-usd-by-2025-cagr-of-14-75"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17747491"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17747491"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 47
-    images:
-      - url: "https://www.marketsandmarkets.com/Images/artificial-intelligence-military-market2.jpg"
-        width: 519
-        height: 312
-        isCached: true
 
 secured: "/mbiMz64TekZC+4B9irwlPdxqPqtkITGbHWIfUJdpPRc5nyOqNwqirMly+XGNKjglBzJB0aFneuuBiwgyOHDJS569Re9Pn5MgNTtrhyM8yMgXrPbDZzYedmS3g78b1OZ7ZYIFzs4X4epe4xdFEPb9I4SoN9EmSFpLWVJTfq3g0VY0ak8Iz5q/PiGGF+Q6bAuEBZQtsvCUn3cx9NT5MPDnqisJ68sH1v92R3x1J/E96hm0rfgNf3kQN9Ws0+zBhrj+hFr0Q48bDrD9khfxzWy3LmuregANVTM0Wy/6hBgf3Jc4q/ezQT1U6mc5znZvhGq3OGH9ny5Fo9uYn4wcXOVa6ebY4Gml/7QfqiSkk1VmjM=;BjkNVM+Y7AtKghllxRDkuA=="
 ---
