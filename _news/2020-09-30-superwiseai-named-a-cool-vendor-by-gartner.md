@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Superwise.ai named a Cool Vendor by Gartner"
-excerpt: "Superwise.ai, a pioneer of AI assurance and monitoring solutions, today announced that it has been recognized in the Cool Vendors in Enterprise AI Governance by Gartner 1. The report includes the following recommendation: \"Build trust in AI solutions by applying an explainable AI (XAI) approach to holistically address aspects of AI models such as trust,"
-publishedDateTime: 2020-09-30T16:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/superwise-ai-named-a-cool-vendor-by-gartner-1029636628"
-webUrl: "https://markets.businessinsider.com/news/stocks/superwise-ai-named-a-cool-vendor-by-gartner-1029636628"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/superwise-ai-named-a-cool-vendor-by-gartner-1029636628"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/superwise-ai-named-a-cool-vendor-by-gartner-1029636628"
+excerpt: "TEL AVIV, Israel, Sept. 30, 2020 /PRNewswire/ -- Superwise.ai, a pioneer of AI assurance and monitoring solutions, today announced that it has been recognized in the Cool Vendors in Enterprise AI ..."
+publishedDateTime: 2020-09-30T16:12:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/superwiseai-named-a-cool-vendor-by-gartner-301142125.html"
+webUrl: "https://www.prnewswire.com/news-releases/superwiseai-named-a-cool-vendor-by-gartner-301142125.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - Microsoft AI
+  - AWS AI
   - AI
 
-secured: "zfsh0UnmTXJamb+qIVOs7gV2lTkche6jQMSRVTkZ6PBGI4ZM84bxMIRUciUfop7kzPRfaulFfP5bGhhqWOPuxwhThWP7VTcHcXi/vCiCFa09Hg7uzwiyNzxTdr7raL1cxFOM1hfLyZg3iUN4cnvOsXMly233GWdonEfyXBo5JXBVyLX4nmqmUWWODfK/+W71GEXqhmTVQSrmyE2PkFRo18UDF8TB2iElVfERR2ryZ/I4WeSCLKo/EFr2lZMEfdgT0OVdKGf/VtHubZqBCRX3EvObKpR319ALEhZrP//+gYTj3UQfDypqvnc4LdB+0LeyjEmEMgB/rE2CD7U2c80lexyLwDupe4BELtgpebDJT54=;gj0VoRzjwwQTv0poY9w8eQ=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "nHhivUANTRU93/KeoLF2OvgEdH+4C0QnMCFiQfOOHetRXjcWa5+LmiKbLgxHEgCkGoQmy57BvC63jUfQCW5cRUE1wPx6ZnvFkOOty45zQrnb4RdTymXH8Rjamid/u4T9cUQ5C8eUZIN48rikNx08O6svvCBbso+6K9h+qvwoDZfEou0mbRuFsLJhTn23XYZFn1bNXS2CNq1sERf0a6Sg8Vi51j64DAqWFRv6gMqfVTuxMNaC9VE8PgMKI2vdwA8LUHynIMdbOoA0a4UbrPkYFadDwi5eKgqXcRpU4+F2GiE50d+AZKQqnyKkc37WD01NPKnrHxoepXMsKynpr2cUh0H+MM+B36qmm8tZO4q/69o=;+oy+LIOVd8L9rDiCRl2O4A=="
 ---
 

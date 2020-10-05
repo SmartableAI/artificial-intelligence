@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/03/nvidias-gtc-event-will-shine-a-sp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/03/nvidias-gtc-event-will-shine-a-spotlight-on-200-ai-startups/amp/"
 type: article
 quality: 91
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
         width: 1260
         height: 630
-        isCached: true
-  - title: "VMware Embraces Nvidia GPUs To Drive Enterprise AI"
-    excerpt: "Adopting GPUs was a natural move. Organizations that run VMware software can now use those same processes to leverage GPUs for AI workloads. “We’ve always been a CPU-centric company and the GPU was always something over there. Maybe we virtualize ..."
-    publishedDateTime: 2020-09-30T18:29:00Z
-    webUrl: "https://www.nextplatform.com/2020/09/30/vmware-embraces-nvidia-gpus-to-drive-enterprise-ai/"
-    ampWebUrl: "https://www.nextplatform.com/2020/09/30/vmware-embraces-nvidia-gpus-to-drive-enterprise-ai/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/09/30/vmware-embraces-nvidia-gpus-to-drive-enterprise-ai/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 74
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/VMware-CEOs.png"
-        width: 1061
-        height: 525
         isCached: true
   - title: "IIT Jodhpur Receives NVIDIA DGX A100 AI System in India"
     excerpt: "Education News: DGX A100 -- the world's most advanced AI system -- will be accessible to all students at the campus and will facilitate advanced AI research and educa"

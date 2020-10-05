@@ -55,6 +55,20 @@ related:
         width: 2880
         height: 1511
         isCached: true
+  - title: "New intelligent revolution series explores cutting-edge applications in AI"
+    excerpt: "The Next Wave in Life Sciences', the first eBook from The Intelligent Revolution series. In the new eBook, experts from the company and the life science industry explore cutting-edge applications for AI in areas including flu prevention,"
+    publishedDateTime: 2020-10-05T10:46:00Z
+    webUrl: "https://www.electropages.com/2020/10/new-intelligent-revolution-series-explores-cutting-edge-applications-ai"
+    type: article
+    provider:
+      name: Electropages
+      domain: electropages.com
+    quality: 37
+    images:
+      - url: "https://www.electropages.com/storage/app/media//company-logos/company-logo-Mouser@2x.jpg"
+        width: 600
+        height: 600
+        isCached: true
 
 secured: "wIBJi+sFlILkdWNhHhmLOg0FvfZfI0I+oIygEoGmYyaFOWL5dOU87i6ya2zoJ45l4PgdvWcnJWuTTY8QR8mfwWrA4vivS68TEtPsujJYFhui/FUVNXmFqziM8zw2lniUg8nmF6fatTJALaMBpgMqdr+Ze6JBEa9f+2yYWHkKBrUX2ZPjyGKd9Bf87BDmiDkUAL8JSMmBwChbklkHFf60q4f33O48fRV4BRemGjEoKhoIpimOLZF2ugHb++Ba6CZf6dHY4+2A0YwtufKaaypZs1p25Y4VtjURb21E42pjdSubJXpuxCONcREpC3sgYPVCH/XxBmO43dFmiRD1lbxJ9k7QOqZmF4f0Hbzom70ODOfBPlm//WHfIutbU6IUYKZLgPhaw5Uq+YXeBi7rq4tLzFaQRyLeH4B9G4UQ3dbhDxLU29ffz2PzFrWKVTJoeN7hNzDA30NSpwbMtcG7Yczp4Rlt3KNgJkTSLhg7fdF1kB3w6kn5odULFC5Yzv5hA5X7quJ+MyUEuoCtVQVXUWOo1Q==;B4u8bjm77iszkfCwyv1r9A=="
 ---

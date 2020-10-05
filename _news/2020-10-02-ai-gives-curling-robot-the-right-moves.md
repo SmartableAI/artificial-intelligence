@@ -7,8 +7,8 @@ originalUrl: "https://www.manufacturing.net/technology/video/21196417/ai-gives-c
 webUrl: "https://www.manufacturing.net/technology/video/21196417/ai-gives-curling-robot-the-right-moves"
 type: article
 quality: 54
-heat: 84
-published: true
+heat: 64
+published: false
 
 provider:
   name: Manufacturing
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Curly the Curling Robot Can Beat the Pros at Their Own Game"
-    excerpt: "Save 84% off the newsstand price! The sport of curling requires such precision and strategy that it’s sometimes referred to as “chess on ice.” Players push 40-pound stones across frozen sheets, rotating stones just enough that they “curl,"
-    publishedDateTime: 2020-09-30T17:15:00Z
-    webUrl: "https://www.smithsonianmag.com/smart-news/curly-curling-robot-can-beat-pros-their-own-game-180975951/"
-    type: article
-    provider:
-      name: Smithsonian Magazine
-      domain: smithsonianmag.com
-    quality: 39
-    images:
-      - url: "https://thumbs-prod.si-cdn.com/CDnxWl8a_bNTKy4KaGOZfZJAPj4=/fit-in/1600x0/https://public-media.si-cdn.com/filer/8d/c5/8dc5d37b-086c-4655-b759-c64bc614224e/testing_out_in_2018.jpg"
-        width: 500
-        height: 333
-        isCached: true
   - title: "Watch Curly the Curling Robot Beat the Pros at Their Own Game"
     excerpt: "The sport of curling requires such precision and strategy that it’s sometimes referred to as “chess on ice.” Players push 40-pound stones across frozen sheets, rotating the stones just enough that they “curl,"
     publishedDateTime: 2020-10-01T02:26:00Z
@@ -53,15 +39,6 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "Curly, a Curling Robot, Can Beat the Pros At Their Own Game"
-    excerpt: "Save 84% off the newsstand price! The sport of curling requires such precision and strategy that it’s sometimes referred to as “chess on ice.” Players push 40-pound stones across frozen sheets, rotating stones just enough that they “curl,"
-    publishedDateTime: 2020-09-30T17:15:00Z
-    webUrl: "https://www.smithsonianmag.com/smart-news/curly-curling-robot-can-beat-pros-their-own-game-180975951/"
-    type: article
-    provider:
-      name: Smithsonian Magazine
-      domain: smithsonianmag.com
-    quality: 19
 
 secured: "qkbw7WA1eSaNzrmEMBGNCVWWAkI0QmcUadnI69CCJzaUsKT9SRt0W/8vzyiyu9J+itCiYxaGhn+Utl+d15kc4BMdYeXBMCbvv8VqLi8U4a841HWpK3LC7IR5NwAbagIhD/P0foVLMkuC9X4GiYt7tDyTO2jqEEr3jnoEARwQnxCIgwM/ZyONnNuXckUR+nvJOGJtHDhrCt9mlzR+4v9xLzfnWij+e6KDWS6iuNin6e3AmUX4Mh69xpVQG1eCBhEvbamYp3FzfIvXOrjsEh+kM0pNyoZPal48x79vVwU2uXlvlarvB3KmtpdS7UHfsTJjY9MxYTzU3eMieiUHE/MiL6FG5zjuG54NAABznfbSlog=;T36Y6H0L8ScWmu9GqpFSIw=="
 ---

@@ -105,6 +105,17 @@ related:
         width: 800
         height: 453
         isCached: true
+  - title: "PM Modi to virtually address ‘RAISE 2020’ global artificial intelligence summit today"
+    excerpt: "The Responsible AI for Social Empowerment (RAISE 2020) virtual summit will be a Global Artificial Intelligence summit organised by the Government of India in partnership with industry and academia."
+    publishedDateTime: 2020-10-05T09:20:00Z
+    webUrl: "https://www.hindustantimes.com/education/pm-modi-to-virtually-address-raise-2020-global-artificial-intelligence-summit-today/story-iWdfrN6SnSMyjcjAgZCCaK.html"
+    ampWebUrl: "https://m.hindustantimes.com/education/pm-modi-to-virtually-address-raise-2020-global-artificial-intelligence-summit-today/story-iWdfrN6SnSMyjcjAgZCCaK_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/education/pm-modi-to-virtually-address-raise-2020-global-artificial-intelligence-summit-today/story-iWdfrN6SnSMyjcjAgZCCaK_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 47
   - title: "PM Modi to inaugurate mega virtual summit on Artificial Intelligence on Oct 5"
     excerpt: "Prime Minister Narendra Modi will inaugurate RAISE 2020, a mega virtual summit on Artificial Intelligence (AI) on October 5."
     publishedDateTime: 2020-10-04T01:31:00Z

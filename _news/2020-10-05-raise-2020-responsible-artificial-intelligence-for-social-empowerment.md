@@ -91,6 +91,17 @@ related:
         width: 800
         height: 453
         isCached: true
+  - title: "PM Modi to virtually address ‘RAISE 2020’ global artificial intelligence summit today"
+    excerpt: "The Responsible AI for Social Empowerment (RAISE 2020) virtual summit will be a Global Artificial Intelligence summit organised by the Government of India in partnership with industry and academia."
+    publishedDateTime: 2020-10-05T09:20:00Z
+    webUrl: "https://www.hindustantimes.com/education/pm-modi-to-virtually-address-raise-2020-global-artificial-intelligence-summit-today/story-iWdfrN6SnSMyjcjAgZCCaK.html"
+    ampWebUrl: "https://m.hindustantimes.com/education/pm-modi-to-virtually-address-raise-2020-global-artificial-intelligence-summit-today/story-iWdfrN6SnSMyjcjAgZCCaK_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/education/pm-modi-to-virtually-address-raise-2020-global-artificial-intelligence-summit-today/story-iWdfrN6SnSMyjcjAgZCCaK_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 47
   - title: "PM to inaugurate Global Virtual Summit on Artificial Intelligence"
     excerpt: "Aiming to drive India's vision for social transformation through responsible AI, the Ministry of Electronics and Information Technology (MeitY) and NITI Aayog are organizing a Global Virtual Summit on Artificial Intelligence (AI),"
     publishedDateTime: 2020-10-03T11:05:00Z
@@ -131,6 +142,6 @@ related:
       domain: hindustantimes.com
     quality: 33
 
-secured: "CWwRIFcJ351ftWVu8/HJpEKPt/PYDJL4rjeJjYYbYYYfzFyuFzeJolvcbnRCcTJYd++acU/mX8x3ZzS4A8/ceXWRhZ9H2OQbT+jwhVrnZBND+y2cE3rtKoXWACRQqcJ5DLXMerVNaawQ2r0rBIlVFj03Qb1WaqcJHnpVrmX50Ml/fPVPHBnPwSCYWVwdHUwc6P/WjyRe4jNT46e+FI8+y2J+uNJWqOf5s23Rsgy6e8plg1ktc80QjDj1HXLSMRSl5ReZ0MmoEh86/1gqkvInsZ69Kr1/gedZi/IXssQ2dzcKxf6cdBsFK1jxiS9ULYLaSOpD/VSXKqP1PXnrR1W0ND8uALYaLk2sFmNlsi2UjJo=;wggmSzOLA5vBjnS4hYSFQQ=="
+secured: "eCkx3YZ60AmzjvZa/GNz3oiSc5aNiC6DAgCY9PkPoarVLQrHC2GLZJxFHWJ8B0zOM4veGQgrAar1KqsqUIrgzhZPjxKRwCTbOMcfTbU1QdRg8VywoqyNAgZYS0aBrCe1n+TWl1UtHDjwbY79iHYQfaG5sozXEwzmqmi2iHOley4jvc3d8y2sIZlyWoQva3eCFpmiRSm7Ph7UFePoRihGvUEfk3cNTPZY11NASxFSq+Loph+CdQWHImMxT1NRTknDKY8hueMFS/Xfay9c3wTI6OC9VhONbPfjU4zuFKmvRBkDwRT/WvLQAqvVkbsnAYu/KwfB0iZL9qCIB4TWb9C89Xz+OkXRB5K3ty+TIH/mYxo1pGrqdJF+YZGrrCViemCKV6KycLFJWRej3FN0ISnahsmMdy4UklTBclWtjdt1AIvtCSuK21oumybsyf/V81qxZM66o35qdGU9HW8jEFOfjQVnoPnlkSZuySxxk1e5iUJGsvEhZ+yNCYTyW0HxaQfKIsV//7Zptu5PgUkThIkH6Q==;ej1fDSg17reundp9z7xUTQ=="
 ---
 

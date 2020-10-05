@@ -92,15 +92,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 25
-  - title: "Personalized Learning and Tech Equity Under COVID-19"
-    excerpt: "For older students, COVID-19 opens the doors for deep learning that involves solving a complex problem that might encompass economic, health, and social justice challenges. This discussion will address the steps schools need to take to encourage and ..."
-    publishedDateTime: 2020-09-30T18:45:00Z
-    webUrl: "https://www.edweek.org/ew/events/summits/personalized-learning-and-tech-equity-under-covid-19.html"
-    type: article
-    provider:
-      name: Education Week
-      domain: edweek.org
-    quality: 4
 
 secured: "/BRtfeDLeWzp/vMv+QPyjbYRGoNYsdBtU1DBohKnRs/WCSa6rvnwljnvCA2Uhop0R3/5qZVyKRjOQAbb3zXf6rBz59PBT6/z12GNAWJ8zS9U39LMK/ckStILhRUzeRFrIHudb6qX7Q9HzWKwOkNxexeWzPoolI+OeTsmHI32seQH5rzCsvMyBaFpsrJPgqxlfN3QEj+Lr4GJ3RomJ/cg2eN2sIr8VeNGMLQZjaxic8NvLAOvi4s+JrxzNaHZBlPNvnNzeVrtW7FTnfR5GhE0yZoDdvDOeNNbg6Vsnl4QmMmNyBkNAc6rdBxsM82JPri2Pgmkscn+Cw1i+R2C+tT/CF8SwuqYTKmZEDgV6SQQNDXPuONT2Zh04Ve+8WIsIkP5UvyjgWrsZZcjKE+ehdPQFoedJOowDE91ht7WBH1yQfyHSdwhazvDRQr186DDd17m3USQGt1HBpCNK4LQwmjlgSFAnlad/RwgnN2GWSdFQUZqaaYdO+CmQxQGUs9bk/QubJyUsBHpxIEYd7DURrGq/Q==;gtqbkBamTrSBt0dWXN/Bsg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/bolstering-robotics-enterprise-po
 webUrl: "https://www.analyticsinsight.net/bolstering-robotics-enterprise-potential-using-ai-applications/"
 type: article
 quality: 69
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://www.eurekalert.org/multimedia/pub/web/244737_web.jpg"
         width: 1440
         height: 756
+        isCached: true
+  - title: "New intelligent revolution series explores cutting-edge applications in AI"
+    excerpt: "The Next Wave in Life Sciences', the first eBook from The Intelligent Revolution series. In the new eBook, experts from the company and the life science industry explore cutting-edge applications for AI in areas including flu prevention,"
+    publishedDateTime: 2020-10-05T10:46:00Z
+    webUrl: "https://www.electropages.com/2020/10/new-intelligent-revolution-series-explores-cutting-edge-applications-ai"
+    type: article
+    provider:
+      name: Electropages
+      domain: electropages.com
+    quality: 37
+    images:
+      - url: "https://www.electropages.com/storage/app/media//company-logos/company-logo-Mouser@2x.jpg"
+        width: 600
+        height: 600
         isCached: true
 
 secured: "Qj7E7yPHI5zJbMurqaGlOiEgDTCLwUW0yGs3HZtWy3PafKbtmssznF1j0tQjTyh+xGsbP03ya9OUzR7EHozScdwOZlBYM18lFixh8b6ai/vf6L1FVKAdxoxitwY3kiJxZNxLJf+SNDpXL5aVkWF5fDLZLVhwpPicRBp1LY5uQjI37DLFK68l3Jp52BPnqZneJivK5QsEm2X/eIHPRU0g2PQtMatDWpGiMmHqO7RoXBF/NWWKgXKM+oydcKvnsEpORg3B3NFQcvyGX4ltJTrn+2F1XxarYYG5cSk9ySsW7lI8GaX4p+W6UTMLD+IR/4EhKLk4S2yy14xGJMFaSycJRz0kuw4TAX+LR15zFE1JK4k=;aTJkrkUsHIliA3MQJQKLBw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://calvinayre.com/2020/10/02/life/artificial-intelligence-can-d
 cdnAmpWebUrl: "https://calvinayre-com.cdn.ampproject.org/c/s/calvinayre.com/2020/10/02/life/artificial-intelligence-can-detect-covid-19-faster-and-easier/amp/"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -92,15 +92,6 @@ related:
         width: 790
         height: 496
         isCached: true
-  - title: "Personalized Learning and Tech Equity Under COVID-19"
-    excerpt: "For older students, COVID-19 opens the doors for deep learning that involves solving a complex problem that might encompass economic, health, and social justice challenges. This discussion will address the steps schools need to take to encourage and ..."
-    publishedDateTime: 2020-09-30T18:45:00Z
-    webUrl: "https://www.edweek.org/ew/events/summits/personalized-learning-and-tech-equity-under-covid-19.html"
-    type: article
-    provider:
-      name: Education Week
-      domain: edweek.org
-    quality: 4
 
 secured: "BVGhw77huYRt4udWpjk6LD/MC/taPXiXMfVKqtLKDKzi6ru5J76yYHeDcbiUL6AyqQHkCjdL9TAs6TCZbyOMmjbNOHiS+pMpFYJitBgV//rT6plkWg/2xMM+fHQsBrdH7L35Mhu/1g6VjCW/35EOstN4yo207SchGBrMYUf+OPQALggd7AXLomU6yPvD57m3BZD9FN3/RgEwyAEmjG3pUcITaad6xx0SUOY8P6LxnZaQyudpTy/beXJZVKaWDiElqPk89s/CZd/IBgAjj+BWEEOSW1sn4czQkm8pqoyj2o8bT7kboe9ev1mK9oBedMzlnTP/1YV85R3TQ9Lq5McfLFAGjvwRr5LHSDErNOpo27gM14544yNr+h4uPaPrhNAgY1afDKdFplbyXGRKnR6mwXckRsv5tyappME0fyxY38Gn720yg0UxoOGcHJ7xNe6mCtJ4g4zbwtmrgCOFKKCvHqvppFfJvLPVu2JwB3023rX+et03Usc52De6anY1rYrrbHrk30X58veqzXu1gZ+CVw==;nCRleNnjZk9V2D9+Ttv1FA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/growth-quarters/2020/10/02/how-to-perfect-you
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/growth-quarters/2020/10/02/how-to-perfect-your-fintech-story-and-close-your-next-funding-round/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://www.ciol.com/wp-content/uploads/2017/10/Fintech.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "F|T: The FinTech Times – Pandemic plutocrats"
+    excerpt: "Welcome to the FinTech Times, a weekly newsletter covering the biggest FinTech news from around the globe. If you want to read F|T before anyone else, make sure to subscribe using the form at the bottom of this page."
+    publishedDateTime: 2020-10-05T10:02:00Z
+    webUrl: "https://betakit.com/ft-the-fintech-times-pandemic-plutocrats/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 24
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2019/05/fintechtimes-1-1-1-1-1024x575.png"
+        width: 1024
+        height: 575
         isCached: true
 
 secured: "lDsJdUtHs1ibOMHE8faw96H92XubIVyoDtwNbCzNkiwa0mTUcyFJ0CfqyNRmI4efOT38FdYmNDNiLiyJS2OA5V9tp0S+Fpu7uDRbr7aDSE2uCB9baZY2D+GmXGV4MbBqVilwOaPsgv6lk5blb2IhKiLghlaBRJlD/QvOoCi/yIGVsZz6oi5CRCgrIpCgf5sjFBHyPIHi9tCUfp+07b3afbD0oKBrywbuOUx94fINRUC7qpz+rEGf6HYqdaMaJpSf6G3ULV1V7aFSOskhZKq7s0PzfR1EB33rFEy6iDLvg7rmS4WH6G2CkGw3vneiSLSQVzkmqZsDoDc4LLfB8xIiow5fUmthM2i8dIzw/nqC7sZIGkxAURekBX2wgzhzWAAUB27rBtbaemVl1xeOVZOKqgTmQEaETtEJxSIBCfW5o5tscStA6enie2ShrwGhAAQclQBvavw6NM3q7UsG8yPduy475uQ6k0p6vZZhh75dkGvp2cOMbIOu1uRxfesSDCztHT4mzU0NTzXuaIDl+2qE9g==;rj838FzIwI7KbZRTwpZJdg=="

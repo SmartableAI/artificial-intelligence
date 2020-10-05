@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "7 Types of AI Marketing Tools That Drive Leads"
-    excerpt: "People in all kinds of industries are debating artificial intelligence (AI) pros and cons. AI pros and cons are"
-    publishedDateTime: 2020-10-03T16:44:00Z
-    webUrl: "https://www.business2community.com/marketing/7-types-of-ai-marketing-tools-that-drive-leads-02351260"
-    ampWebUrl: "https://www.business2community.com/marketing/7-types-of-ai-marketing-tools-that-drive-leads-02351260/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/marketing/7-types-of-ai-marketing-tools-that-drive-leads-02351260/amp"
+  - title: "The Importance Of Human-Machine AI Team-Building"
+    excerpt: "In the future, teams of human domain experts and their AI-bot sidekicks could make sure critical assets in the fuel retail industry are safe, always available, performing at their optimal state and protected from cybersecurity threats."
+    publishedDateTime: 2020-10-05T11:34:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/05/the-importance-of-human-machine-ai-team-building/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/05/the-importance-of-human-machine-ai-team-building/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/05/the-importance-of-human-machine-ai-team-building/amp/"
     type: article
     provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 57
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://cdn.business2community.com/wp-content/uploads/2020/09/Increasing-Conversions-814862-edited-912776-edited-153863-edited.png"
-        width: 600
-        height: 326
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda4c699cb83e0006e372f4%2F0x0.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "0qfLhAIOkhVOlClfO9GfgZn1fBOmLo25u0ZE1T9dZsJMBe77f0L6pgFqGthKeFpHp35WChHNsldkPHbsBAbpMQPaBPBe4cnPd0C/fkgt1N6DSBSFIDwjOoDSAYmIjxo4sIqscZMcs1xw92mQcZV+8/hRCCdhBRDoDpjh2PR4w/20Hjf027yETvRGlPZkV0IUz9gSQ7feY70sdeBm1KpXQk9U116XyRTXr2sEhoC/vKXAqdXeKCBKgpM/a/bZSJroNMTN6HQbC73RBffLXgpafcXgX6zqzA1AuO+W4Jm8nJlgdv4uE+7j3d5FTUpsEH6UFzN+URrAyjuAX3BRZkvCwpic48CLgpxE5UAOcxZYcRQ=;0K7M0R0SzQ7SmIt4h3XwUw=="

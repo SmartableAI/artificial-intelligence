@@ -75,6 +75,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "F|T: The FinTech Times – Pandemic plutocrats"
+    excerpt: "Welcome to the FinTech Times, a weekly newsletter covering the biggest FinTech news from around the globe. If you want to read F|T before anyone else, make sure to subscribe using the form at the bottom of this page."
+    publishedDateTime: 2020-10-05T10:02:00Z
+    webUrl: "https://betakit.com/ft-the-fintech-times-pandemic-plutocrats/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 24
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2019/05/fintechtimes-1-1-1-1-1024x575.png"
+        width: 1024
+        height: 575
+        isCached: true
 
 secured: "xVCkTRYCWfqnj423+TBGmV9+QrapXAk2298PQ9F4hTVHjghHYEz/GQD3M3Y2Qt+wvNu5PFn0t0WZqkly1Uk3Nh7+kNLVbaVWihRJbLIRDZd1BKGTG8LhPhGulADpI3P6mpCDEH1WNTTSCcjAItGPjuohjx9QSVAdw9C05U+VUlwogAnSKFTyhJU6LJxgloFr9IgneTzrWGMA5vA+ebVFPbXLNAzyjE3DEmHaS5+OaBLBibt/4FTD3rJOAx/mgrGYVv8+t8iQocGOTD8DhboPtIhQkwWCz4ykUjgYKNVbReEvYYaMf5sdA3SoAntoCWdDoQQyWqG8KZtbX7hcQOBNawy9mn1P9hWmcl5R21fRbGB7l5eNxUON7nnoiLLZ+8CpXpvRc/zLtCzj8p+UUnFTp8YTF8aUDEQhYlSnfEWPkAf3CVc8+iOhCIVAXDlw2VTxIrJH+JE0DPszNrP63tKLZi7L61TPhcntjCV0ZoUW8HxhjVULodedoVBq+2z7QEHWtCtwjr+Q7Z2DcqtidRrkxg==;H3FO/8cLQ6uaYIGAXEFwZw=="
 ---
