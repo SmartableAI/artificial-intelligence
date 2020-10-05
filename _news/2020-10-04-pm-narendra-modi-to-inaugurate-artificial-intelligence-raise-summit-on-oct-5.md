@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newsx.com/amp/national/pm-narendra-modi-to-inaugurate-ar
 cdnAmpWebUrl: "https://www-newsx-com.cdn.ampproject.org/c/s/www.newsx.com/amp/national/pm-narendra-modi-to-inaugurate-artificial-intelligence-raise-summit-on-oct-5.html"
 type: article
 quality: 70
-heat: 110
-published: true
+heat: -1
+published: false
 
 provider:
   name: NewsX
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "RAISE 2020: A mega virtual summit on Artificial Intelligence"
+    excerpt: "RAISE 2020, a mega virtual summit on Artificial Intelligence will be inaugurated today by Prime Minister Narendra Modi at 7 pm."
+    publishedDateTime: 2020-10-05T03:10:00Z
+    webUrl: "https://www.oneindia.com/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html"
+    ampWebUrl: "https://www.oneindia.com/amphtml/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html"
+    cdnAmpWebUrl: "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html"
+    type: article
+    provider:
+      name: Oneindia
+      domain: oneindia.com
+    quality: 74
+    images:
+      - url: "https://www.oneindia.com/img/400x99/2020/10/raise-1601867009.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "PM Modi to inaugurate global summit on artificial intelligence on Oct 5"
     excerpt: "New Delhi: Prime Minister Narendra Modi will inaugurate a global virtual summit on Artificial Intelligence (AI), RAISE 2020 - 'Responsible AI for Social Empowerment 2020' on October 5, according to the Ministry of Electronics and Information Technology."
     publishedDateTime: 2020-10-02T01:50:00Z
@@ -43,21 +59,19 @@ related:
         width: 800
         height: 453
         isCached: true
-  - title: "PM Modi to inaugurate global virtual summit on Artificial Intelligence on Oct 5"
-    excerpt: "The summit is being organised by the Ministry of Electronics and Information Technology (MeitY) and NITI Aayog."
-    publishedDateTime: 2020-10-02T03:17:00Z
-    webUrl: "https://www.newsr.in/n/India/1zlu60yal3/PM-Modi-to-inaugurate-global-virtual-summit-on.htm"
-    ampWebUrl: "https://www.newsr.in/n/India/1zlu60yal3/PM-Modi-to-inaugurate-global-virtual-summit-on.htm"
-    cdnAmpWebUrl: "https://www-newsr-in.cdn.ampproject.org/c/s/www.newsr.in/n/India/1zlu60yal3/PM-Modi-to-inaugurate-global-virtual-summit-on.htm"
+  - title: "PM to inaugurate Global Virtual Summit on Artificial Intelligence"
+    excerpt: "Aiming to drive India's vision for social transformation through responsible AI, the Ministry of Electronics and Information Technology (MeitY) and NITI Aayog are organizing a Global Virtual Summit on Artificial Intelligence (AI),"
+    publishedDateTime: 2020-10-03T11:05:00Z
+    webUrl: "https://knnindia.co.in/news/newsdetails/sectors/pm-to-inaugurate-global-virtual-summit-on-artificial-intelligence"
     type: article
     provider:
-      name: newsr.in
-      domain: newsr.in
-    quality: 55
+      name: knnindia.co.in
+      domain: knnindia.co.in
+    quality: 39
     images:
-      - url: "https://cdn.newsserve.net/newsR256.png"
-        width: 256
-        height: 256
+      - url: "https://knnindia.co.in/uploads/newsfiles/PM-Modi-AI-3-10-2020.jpg"
+        width: 500
+        height: 344
         isCached: true
   - title: "PM Modi to inaugurate mega virtual summit on Artificial Intelligence on Oct 5"
     excerpt: "Prime Minister Narendra Modi will inaugurate RAISE 2020, a mega virtual summit on Artificial Intelligence (AI) on October 5."

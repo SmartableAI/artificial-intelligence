@@ -71,6 +71,20 @@ related:
         width: 770
         height: 578
         isCached: true
+  - title: "Amazon on the hunt for advertising, marketing, PR and design roles"
+    excerpt: "Earlier in August, Amazon Web Services (AWS) tied up with financial services company DBS to launch DBS x AWS DeepRacer League in a bid to equip DBS' employees with fundamental skills in artificial intelligence (AI) and machine learning (ML) by the end of ..."
+    publishedDateTime: 2020-10-05T03:45:00Z
+    webUrl: "https://www.marketing-interactive.com/amazon-goes-on-hiring-spree-in-singapore-for-apac-roles"
+    type: article
+    provider:
+      name: Marketing Interactive
+      domain: marketing-interactive.com
+    quality: 24
+    images:
+      - url: "https://micdn-13a1c.kxcdn.com/images/sg/content-images/amazon_123rf.jpg"
+        width: 630
+        height: 358
+        isCached: true
 
 secured: "dHUCEfJFwu4NP4E/C22ZBajFLeKbTKBUJiYMbllTl9QExWvhPK5h54I9IHHmyA5G/PjO8CA3FMXxa1gV1U/vA1GvZ1TqpBMEVqDG22PXpstkMlZb05OgyvH342t/xvDD42/Folk8+6Bc78oBZ6rz3hPpNlV0ztJPcNMm59omRQXQnhmLfyyR+vd6jPOJWiSk5Wz3j4ZiKoN0t5hJZP81RAYP8rFD2SBRODZaC1pZHBsFKaFCj7vEAwBu6FcudZGvpOYvq65a/JJWQWD1Ojdp3PST5EYY0n38+aXS+IjqLRk01Yy7CBN34VC6Tx353tIcBVFy/aPzZFpaXd0Z6yMBnhTK0NPWHYSl8U5vXMVoyAk=;iMy9KUhkYiB/QbvNBWtM/g=="
 ---

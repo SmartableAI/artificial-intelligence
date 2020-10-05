@@ -2,34 +2,34 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-10-04-pm-narendra-modi-to-inaugurate-artificial-intelligence-raise-summit-on-oct-5.md",
-      "title": "PM Narendra Modi to inaugurate artificial intelligence ‘RAISE’ summit on Oct 5",
-      "excerpt": "Prime Minister Narendra Modi will inaugurate RAISE 2020, a mega virtual summit on Artificial Intelligence (AI) on October 5.",
+      "path": "_news/2020-10-05-raise-2020-a-mega-virtual-summit-on-artificial-intelligence.md",
+      "title": "RAISE 2020: A mega virtual summit on Artificial Intelligence",
+      "excerpt": "RAISE 2020, a mega virtual summit on Artificial Intelligence will be inaugurated today by Prime Minister Narendra Modi at 7 pm.",
       "sourceUrl": null,
-      "webUrl": "https://www.newsx.com/national/pm-narendra-modi-to-inaugurate-artificial-intelligence-raise-summit-on-oct-5.html",
-      "originalUrl": "https://www.newsx.com/national/pm-narendra-modi-to-inaugurate-artificial-intelligence-raise-summit-on-oct-5.html",
+      "webUrl": "https://www.oneindia.com/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html",
+      "originalUrl": "https://www.oneindia.com/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 124,
       "tags": null,
       "images": [
         {
-          "url": "https://www.newsx.com/wp-content/uploads/2020/09/modif-703091-C05kaKE3.jpg",
-          "width": 1200,
-          "height": 675,
+          "url": "https://www.oneindia.com/img/400x99/2020/10/raise-1601867009.jpg",
+          "width": 400,
+          "height": 225,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.newsx.com/amp/national/pm-narendra-modi-to-inaugurate-artificial-intelligence-raise-summit-on-oct-5.html",
-      "cdnAmpWebUrl": "https://www-newsx-com.cdn.ampproject.org/c/s/www.newsx.com/amp/national/pm-narendra-modi-to-inaugurate-artificial-intelligence-raise-summit-on-oct-5.html",
-      "publishedDateTime": "2020-10-04T01:45:00-07:00",
+      "ampWebUrl": "https://www.oneindia.com/amphtml/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html",
+      "cdnAmpWebUrl": "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html",
+      "publishedDateTime": "2020-10-04T20:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "NewsX",
-        "domain": "newsx.com",
+        "name": "Oneindia",
+        "domain": "oneindia.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -7,7 +7,7 @@ originalUrl: "https://nationalinterest.org/blog/reboot/russias-sixth-generation-
 webUrl: "https://nationalinterest.org/blog/reboot/russias-sixth-generation-stealth-fighter-could-use-artificial-intelligence-weapons"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -22,19 +22,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Russia works on hybrid power plant helicopter with artificial intelligence"
-    excerpt: "equipped with a hybrid power plant and artificial intelligence, the foundation's press-service has told TASS. Read also Engineering and development work for Ka-52M helicopter to be over in 2022 ..."
-    publishedDateTime: 2020-09-30T09:54:00Z
-    webUrl: "https://tass.com/defense/1206787"
-    ampWebUrl: "https://tass.com/defense/1206787/amp"
-    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/defense/1206787/amp"
-    type: article
-    provider:
-      name: TASS
-      domain: tass.com
-    quality: 35
 
 secured: "A3BfQ1iWkKKAgprLTTVvfNTVzTbl/jJLtm8/vvSTp5q62oCe++Ihuf03WD9BXx4jOaqW+5DvsLKMFfrywzZ/Rx+gmXqbw4C5VmK7yZUbdVlRi9NYq/uw+eaJvXaJyD/NBGSgR0aZEe/UoCwdBUKMQAMj7FGjz6LLrNYhmHi23dITdRusLVqB/KbIEgS2anv1K2wykliVz0qq2SW/CXkTUCFrV5r7TOVIeQNSADL5TCWUFF0INqoy8tDlXTPZOc2Cyk1RsvT4Bd11gLuBX9oN2bGplMRZVaDqB6HuMoPiqqVMPs1VajceZf01iJbpxkUfZlyU9B69fJEV/IpGCvWGrFloeg1nz3ZHYLr2ZAtKV1Q=;YS3fnHDTXxoqJ+JMswZuqQ=="
 ---

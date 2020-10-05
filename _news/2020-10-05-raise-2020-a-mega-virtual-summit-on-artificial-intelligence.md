@@ -1,46 +1,32 @@
 ---
 category: news
-title: "PM Modi to inaugurate mega virtual summit on Artificial Intelligence on Oct 5"
-excerpt: "Prime Minister Narendra Modi will inaugurate RAISE 2020, a mega virtual summit on Artificial Intelligence (AI) on October 5."
-publishedDateTime: 2020-10-04T01:31:00Z
-originalUrl: "https://www.sify.com/news/pm-modi-to-inaugurate-mega-virtual-summit-on-artificial-intelligence-on-oct-5-news-national-ukdraegjddejb.html"
-webUrl: "https://www.sify.com/news/pm-modi-to-inaugurate-mega-virtual-summit-on-artificial-intelligence-on-oct-5-news-national-ukdraegjddejb.html"
+title: "RAISE 2020: A mega virtual summit on Artificial Intelligence"
+excerpt: "RAISE 2020, a mega virtual summit on Artificial Intelligence will be inaugurated today by Prime Minister Narendra Modi at 7 pm."
+publishedDateTime: 2020-10-05T03:10:00Z
+originalUrl: "https://www.oneindia.com/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html"
+webUrl: "https://www.oneindia.com/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html"
+ampWebUrl: "https://www.oneindia.com/amphtml/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html"
+cdnAmpWebUrl: "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html"
 type: article
-quality: 36
-heat: -1
-published: false
+quality: 74
+heat: 124
+published: true
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Oneindia
+  domain: oneindia.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
-  - url: "https://aniportalimages.s3.amazonaws.com/media/details/ModiJISpeech2_oct3_Uu5UuhT.jpg"
-    width: 600
-    height: 450
+  - url: "https://www.oneindia.com/img/400x99/2020/10/raise-1601867009.jpg"
+    width: 400
+    height: 225
     isCached: true
 
 related:
-  - title: "RAISE 2020: A mega virtual summit on Artificial Intelligence"
-    excerpt: "RAISE 2020, a mega virtual summit on Artificial Intelligence will be inaugurated today by Prime Minister Narendra Modi at 7 pm."
-    publishedDateTime: 2020-10-05T03:10:00Z
-    webUrl: "https://www.oneindia.com/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html"
-    ampWebUrl: "https://www.oneindia.com/amphtml/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html"
-    cdnAmpWebUrl: "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html"
-    type: article
-    provider:
-      name: Oneindia
-      domain: oneindia.com
-    quality: 74
-    images:
-      - url: "https://www.oneindia.com/img/400x99/2020/10/raise-1601867009.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "PM Narendra Modi to inaugurate artificial intelligence ‘RAISE’ summit on Oct 5"
     excerpt: "Prime Minister Narendra Modi will inaugurate RAISE 2020, a mega virtual summit on Artificial Intelligence (AI) on October 5."
     publishedDateTime: 2020-10-04T08:45:00Z
@@ -87,6 +73,20 @@ related:
         width: 500
         height: 344
         isCached: true
+  - title: "PM Modi to inaugurate mega virtual summit on Artificial Intelligence on Oct 5"
+    excerpt: "Prime Minister Narendra Modi will inaugurate RAISE 2020, a mega virtual summit on Artificial Intelligence (AI) on October 5."
+    publishedDateTime: 2020-10-04T01:31:00Z
+    webUrl: "https://www.sify.com/news/pm-modi-to-inaugurate-mega-virtual-summit-on-artificial-intelligence-on-oct-5-news-national-ukdraegjddejb.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 36
+    images:
+      - url: "https://aniportalimages.s3.amazonaws.com/media/details/ModiJISpeech2_oct3_Uu5UuhT.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "PM Modi to inaugurate global AI summit RAISE 2020 today. What you need to know"
     excerpt: "Prime Minister Narendra Modi addresses the nation in New Delhi in this file photo. PM Modi will inaugurate a five-day global virtual summit on artificial intelligence (AI) - Responsible AI for Social Empowerment or RAISE 2020 on Monday. (ANI Photo ..."
     publishedDateTime: 2020-10-05T01:39:00Z
@@ -99,6 +99,6 @@ related:
       domain: hindustantimes.com
     quality: 33
 
-secured: "hSwnpg6dhVBaW7TWZc1gIpyob8owEV/VV1AZGESEJODG+8Rw9GelPgYdEWerH/S7X2cKwNp50/bhX3XYDLDG9ayzNo7zE8VZK8wyY0mDzWj43VdzmKcBBlk4o/apQ5W46/mAp6D2zZGsO8Dp0cOJJnypHtFD8VafYUqMwMSbUhZDy2bgxdeGaNOS3eBI2q1l6N3CHbJZhCiIs5gXJTDpV1/Gl8d7GQMDKxW1yUeMNvnCgURpYamG5RNp3yotfMXZjRwbDXvK+EkWKr3wu6tGPNbXj1aCE1eBlXOj4Yg7uu09qUAVWZP2t0g/h8i0RAGAy9+rvKcK2ZMZZFG+qmJBumxPgR8RZRE4nyxUujXP9i2zLPvY1VAjvrH7zojXOFIetps/EJMXfwWk8gxU7OdDZ2rTOc3sD/IFiiqs+hPgo85IKH+5dpEovI2294tiynluM8ew9xvJe4lN6rBPa2pHXjJddAzP5r9olDD/ugUhsJX/QRQo7gCh71Lo2RnS4Bu5LuqS1TwEhWfpKJX4WvkfLQ==;1cSO7ka6UI6aN13zG02XMA=="
+secured: "xsuCxsfnKWs5D4/VTkqGPopgrQuI0i2ov2YdMdXHGv0hBSKDcWQHVLZkvyEyy/gnn/sUuxg+v0BG4l1xkLuvxINEiCt1iRizvtOXcavCw7WpYM/GdlLL2EvbM8tgb2qJmrqW31r9db4x0kWLj3qjI8lLjVhakfFLiajF8k8iBZMWaBbwxu1pzX97uCB+IDSwTX+/pN1ZpYuA9BWV0eit5aZZU4yMMiXud8PmjCf9AKIz4W5gvISgZFeFs/q+81705NmSwatpy9FseKyiDUuzGKBCGsTKi6YMM0XlMzyIhKKyCBTEkrhIyEPDQTqFu+XiM/KPZ6Nv1aXjAtKq37ooNloFjSysIDSdL/+3LhK3x6w=;c9ED2FGiYQRBxFOhjvVYKg=="
 ---
 
