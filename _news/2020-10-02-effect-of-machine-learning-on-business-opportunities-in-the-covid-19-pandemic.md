@@ -55,20 +55,6 @@ related:
         width: 686
         height: 396
         isCached: true
-  - title: "Using artificial intelligence to predict Covid-19 patient outcomes"
-    excerpt: "Artificial intelligence can do more than recommend a song or suggest what to write in an email. It might even be able to predict outcomes in Covid-19 patients."
-    publishedDateTime: 2020-09-30T07:00:00Z
-    webUrl: "https://www.register-herald.com/health/using-artificial-intelligence-to-predict-covid-19-patient-outcomes/article_0e84e1b4-24c1-55c0-bcfb-8a110c9181f4.html"
-    type: article
-    provider:
-      name: The Register-Herald
-      domain: register-herald.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
-        width: 600
-        height: 600
-        isCached: true
   - title: "Augmented Intelligence Market Forecast to 2027 - COVID-19 Impact and Global Analysis"
     excerpt: "The \"Augmented Intelligence Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Technology, Enterprise Size, End-User, and Geography\" report has been added to ResearchAndMarkets.com's offering."
     publishedDateTime: 2020-10-02T09:39:00Z

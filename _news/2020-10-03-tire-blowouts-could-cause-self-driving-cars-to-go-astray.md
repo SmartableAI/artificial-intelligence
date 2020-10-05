@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/03/tire-blowouts-c
 webUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/03/tire-blowouts-could-cause-self-driving-cars-to-go-astray/"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://images.hgmsites.net/hug/sango-self-driving-car-from-nevss-pons-mobility-division_100763273_h.jpg"
         width: 1920
         height: 1242
+        isCached: true
+  - title: "Self-Driving Cars Are Still Years Away"
+    excerpt: "Even though automobile companies presented big promises to have fully autonomous cars by 2021, there are multiple planning and technological barriers that will need to be overcome before these vehicles become an everyday reality."
+    publishedDateTime: 2020-10-04T20:16:00Z
+    webUrl: "https://urbanmilwaukee.com/2020/10/04/urban-reads-self-driving-cars-are-still-years-away/"
+    type: article
+    provider:
+      name: Urban Milwaukee
+      domain: urbanmilwaukee.com
+    quality: 24
+    images:
+      - url: "https://urbanmilwaukee.com/wp-content/uploads/2017/04/autonomous-car-e1493403690497.jpg"
+        width: 1024
+        height: 680
         isCached: true
   - title: "The self-driving cars of the future aren’t inclusive. They’re trying to change that."
     excerpt: "By combining artificial intelligence with research that looks into the way people interact with machines and computers, researchers at Northeastern and the University of Maine want to help make self-driving cars even smarter and accessible for people who are visually impaired or blind."

@@ -61,6 +61,20 @@ related:
         width: 1920
         height: 1242
         isCached: true
+  - title: "Self-Driving Cars Are Still Years Away"
+    excerpt: "Even though automobile companies presented big promises to have fully autonomous cars by 2021, there are multiple planning and technological barriers that will need to be overcome before these vehicles become an everyday reality."
+    publishedDateTime: 2020-10-04T20:16:00Z
+    webUrl: "https://urbanmilwaukee.com/2020/10/04/urban-reads-self-driving-cars-are-still-years-away/"
+    type: article
+    provider:
+      name: Urban Milwaukee
+      domain: urbanmilwaukee.com
+    quality: 24
+    images:
+      - url: "https://urbanmilwaukee.com/wp-content/uploads/2017/04/autonomous-car-e1493403690497.jpg"
+        width: 1024
+        height: 680
+        isCached: true
 
 secured: "kphkAqeqz6c6BMmQxKzksQJA/wG1Twqk0eINpQJzYEL3u8aeEOLw49NuwOr/eU17zweP4p4OsdENUtqnQ7ICWlIgmFo5uFYBMxAiSw8ZOc+zjwMvuKpI1zgy0tiGU8avMEHpkTbS0/8CcpxKBDkGRsR0jQDFB+kR16zT6r4SbG3J6y7cfb52LhBmf6lVY5FF/IEe9uW0yOLYnFyrG1phvfDVFZj/c2FCTT1RWBJBXhN7C82Jn0flasEjh/AIm+8SxotfEFr3W3aqCDdnHaRpfYqS64edvdBOeHeSbYhLQMNLNmqzXZaFmhO5vzvrSEIiw365TuNTeAadGhpJGGHBT/KOzAJ+PuQkMOIbJ+f4CY2J5TPHlStJMoIJrz+TZG3eyxAJ5HX4JIIBnOsiNu5Eyd8F0VNjHxRU2PzI6+1wU/81BxUYq8rwAmSR5mz5Lg+OC1LinNCU2uckEmc2NyECovPKBXi5BMydTNqgn6ewSKQPqYNo4g2wLfpL9hD+bQTDMnceJ+1Ix4gIIqvamtfDkw==;FxeDqnxmjuAF04PEKiVZQg=="
 ---

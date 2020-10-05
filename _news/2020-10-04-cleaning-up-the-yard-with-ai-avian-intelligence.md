@@ -6,6 +6,9 @@ publishedDateTime: 2020-10-04T08:04:00Z
 originalUrl: "https://hackaday.com/2020/10/04/cleaning-up-the-yard-with-ai-avian-intelligence/"
 webUrl: "https://hackaday.com/2020/10/04/cleaning-up-the-yard-with-ai-avian-intelligence/"
 type: article
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Hackaday

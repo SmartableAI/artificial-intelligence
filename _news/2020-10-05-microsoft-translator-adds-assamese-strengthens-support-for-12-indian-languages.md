@@ -8,7 +8,7 @@ webUrl: "https://indiaeducationdiary.in/microsoft-translator-adds-assamese-stren
 ampWebUrl: "https://indiaeducationdiary.in/microsoft-translator-adds-assamese-strengthens-support-for-12-indian-languages/?amp"
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/microsoft-translator-adds-assamese-strengthens-support-for-12-indian-languages/?amp"
 type: article
-quality: 55
+quality: 57
 heat: -1
 published: false
 

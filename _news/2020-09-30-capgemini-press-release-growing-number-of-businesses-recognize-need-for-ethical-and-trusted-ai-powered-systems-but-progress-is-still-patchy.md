@@ -8,6 +8,7 @@ webUrl: "https://www.nasdaq.com/press-release/capgemini-press-release-growing-nu
 type: article
 quality: 29
 heat: 29
+published: false
 
 provider:
   name: Nasdaq
