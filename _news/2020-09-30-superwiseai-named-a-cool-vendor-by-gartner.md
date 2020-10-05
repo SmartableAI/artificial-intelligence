@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Superwise.ai named a Cool Vendor by Gartner"
-excerpt: "Superwise.ai, a pioneer of AI assurance and monitoring solutions, today announced that it has been recognized in the Cool Vendors in Enterprise AI Governance by Gartner 1. The report includes the following recommendation: \"Build trust in AI solutions by applying an explainable AI (XAI) approach to holistically address aspects of AI models such as trust,"
-publishedDateTime: 2020-09-30T16:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/superwise-ai-named-a-cool-vendor-by-gartner-1029636628"
-webUrl: "https://markets.businessinsider.com/news/stocks/superwise-ai-named-a-cool-vendor-by-gartner-1029636628"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/superwise-ai-named-a-cool-vendor-by-gartner-1029636628"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/superwise-ai-named-a-cool-vendor-by-gartner-1029636628"
+excerpt: "The solution integrates seamlessly, using API and SDKs, and is platform agnostic, supporting any ML platform, - i.e.: AWS SageMaker, Kubeflow, Azure ML, DataRobot, or custom implementations. Gartner subscribers can view the report here. Gartner does ..."
+publishedDateTime: 2020-09-30T16:12:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/superwiseai-named-a-cool-vendor-by-gartner-301142125.html"
+webUrl: "https://www.prnewswire.com/news-releases/superwiseai-named-a-cool-vendor-by-gartner-301142125.html"
 type: article
-quality: 69
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - Microsoft AI
+  - AWS AI
   - AI
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "What’s New In Gartner’s Hype Cycle For AI, 2020"
@@ -53,6 +53,6 @@ related:
       domain: techrepublic.com
     quality: 56
 
-secured: "SaBAGhFCvNd3IsdsEMgLihHT2h4YmRImQ/hMMWQoRyL/2K+QajjJR/eQ93Qdc9hHXjfk0B7m3iRehEB1t96s2vJ2Jgi0ZC6IdSPrvFl6gy7WNOtBTjgciKzQz7y9z5PBWICrYCw6NqoG8ApeuWv2J/KGy7oSUipUbZT5SMc7AcNJZi0G3xDaJnsxLvd4hulS9eSzIZjC/gW0iU1idMXJenV8ospUuprhNr6AdINtBEPcVY5UifGKFYmfUaeiNl1mpHMTVBRJGAfECGeqs7Go/lCLx4rXiNrmWyT6UK0526UxIIKzyCa2cdMhbaAZPcJCalBP+8hKnNVAD1sWOTpkXSrltyO7Kyu8RzObUKv4rUg=;pOgs3jnUEVj1YQHALIGtjg=="
+secured: "che3VdmkgDvdnAX2Bd/7LejXBrAPJSUcn+UrowTsCwNI5aBOOnnzhgkMczyz8ouVbP3AVfyrz1j2eej9iCs1iLPd1Pzts05IiZP5dFCDglWNIBSyBfPWaxXkZSjRMQCb5jYnGJribjc4eXyH68+OzgSutebCBghZL79RAuXVNi6HMFe2R5Cf1mpRshdTJzUjiNqCMkvRuvLCFSB7Qi0QF68uQYgCGnXgliUDKl4xeUwGcxUSQlAaRp6mCAR5bJlsWebBTyfDwVAMKMzh/mDuFCU1DYyFm4M2Qp/1H/tkl052uoWcpAoLHgkDVj3RQokqIhyiDYFmcshXqA/2bA/Ca2C5bBxkp/GYNmEIlg796fE=;JH+00BVYSXA6EXTIKQnDSw=="
 ---
 

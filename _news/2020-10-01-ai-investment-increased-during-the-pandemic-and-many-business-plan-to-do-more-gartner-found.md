@@ -41,16 +41,19 @@ related:
         height: 800
         isCached: true
   - title: "Superwise.ai named a Cool Vendor by Gartner"
-    excerpt: "Superwise.ai, a pioneer of AI assurance and monitoring solutions, today announced that it has been recognized in the Cool Vendors in Enterprise AI Governance by Gartner 1. The report includes the following recommendation: \"Build trust in AI solutions by applying an explainable AI (XAI) approach to holistically address aspects of AI models such as trust,"
-    publishedDateTime: 2020-09-30T16:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/superwise-ai-named-a-cool-vendor-by-gartner-1029636628"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/superwise-ai-named-a-cool-vendor-by-gartner-1029636628"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/superwise-ai-named-a-cool-vendor-by-gartner-1029636628"
+    excerpt: "The solution integrates seamlessly, using API and SDKs, and is platform agnostic, supporting any ML platform, - i.e.: AWS SageMaker, Kubeflow, Azure ML, DataRobot, or custom implementations. Gartner subscribers can view the report here. Gartner does ..."
+    publishedDateTime: 2020-09-30T16:12:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/superwiseai-named-a-cool-vendor-by-gartner-301142125.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "LPbL+MTDwLlpA2ZeCOjtRSlAod+tv1Uf8kFlpO5PnTIXLeIBYI9SFx67GN0I25TGbk8t2ka/JG5As2Ke3Pmd44tv7TpXzTnyVUqiYJABluONhnxLD792D+2LU0LJDWTT6zXzTB7BgVgkTMmhIK/f2xdS6yOqIQf+MqFZuV7kv1x4HH2GlgUa31S+LIVUl39eXj7GZmyhUi52+KouJONadrEBzjIct0yKJpLynhJO+XCL9tOjKmpBdbgzvORzWRP2BsfVPU//4kXAmdPCH1nJ2oPq4zX5Eb6Ozk7hqRH2g3JVWLdir+S+mg0mT/oNE7wwxge0SdiNOYSm5aLaFc0D356I5ZTP3Z2Yv+wHn3yqMTvrYdsXKmN8NEVpn0nlY/s7oc/muV8z9XaUUo8aMjmXJ5OBX2hSZI0eZnEMhgDg/86QaffHBTsydkLIFYLa7wP9nPNCMLWvV0N4zoFXNA6l4/hyl02NWg2mzWaXmH434KxapkLnrPBl7dB01fO0u5xLPWH/knYE1Db2XzyqkXVGPw==;Zco+Vr8V5lo1Hp97YonYVQ=="
 ---

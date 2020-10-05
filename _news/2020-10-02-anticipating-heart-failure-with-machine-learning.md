@@ -7,8 +7,8 @@ originalUrl: "https://news.mit.edu/2020/anticipating-heart-failure-machine-learn
 webUrl: "https://news.mit.edu/2020/anticipating-heart-failure-machine-learning-1001"
 type: article
 quality: 84
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: Massachusetts Institute of Technology
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Machine learning tool searches the lungs for signs of heart failure"
+    excerpt: "One of the ways physicians can gain some forewarning of impending heart failure is through the detection of excess fluid in the lungs, and MIT researchers have developed a new machine learning ..."
+    publishedDateTime: 2020-10-04T00:00:00Z
+    webUrl: "https://newatlas.com/medical/machine-learning-lungs-signs-heart-failure/"
+    ampWebUrl: "https://newatlas.com/medical/machine-learning-lungs-signs-heart-failure/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/medical/machine-learning-lungs-signs-heart-failure/?amp=true"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 104
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/0a90af4/2147483647/strip/true/crop/784x523+0+39/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fbe%2F14%2F618ef1134cf088b71d33c386abe0%2Fpulmedema.png"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Anticipating heart failure with machine learning"
     excerpt: "Every year, roughly one out of eight U.S. deaths is caused at least in part by heart failure. One of acute heart failure's most common warning signs is excess fluid in the lungs, a condition known as pulmonary edema."
     publishedDateTime: 2020-10-02T17:00:00Z

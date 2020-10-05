@@ -24,19 +24,6 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "Minister defends design process for a Voice for Indigenous Australians"
-    excerpt: "Indigenous Australians Minister Ken Wyatt says any Voice to government cannot be designed without the government's ultimate approval."
-    publishedDateTime: 2020-09-30T08:44:00Z
-    webUrl: "https://www.smh.com.au/politics/federal/minister-defends-design-process-for-a-voice-for-indigenous-australians-20200930-p560oi.html"
-    ampWebUrl: "https://amp.smh.com.au/politics/federal/minister-defends-design-process-for-a-voice-for-indigenous-australians-20200930-p560oi.html"
-    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/politics/federal/minister-defends-design-process-for-a-voice-for-indigenous-australians-20200930-p560oi.html"
-    type: article
-    provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 24
-
 secured: "1QO+E+Xwa74NW2X8BxMLtHt7aYNMq92g31r2F1rMclsEuuGHrAo4qwsrDF8ICwNl+ettt3VuZnpd0wjTbB8wFTc0Imqn49RS7XXSGF3UBU2iowusJxvDmzQSFy+dcxPQHTmR1pNBla9ZoNOHBo1K+gngojErlJF/kZ5e5NeCmYbu0ElCM2Gw0aZJllgfLKL6WiUfXK59PI7A4rT6FxBm9llT2uriQh7GrmaXMM/lDN/vDgkg4aqETEAC4deXD/hEwdox4bEFxoBHd85DyRgKdeQx4wBtYVJtJ6OWZxw3nrjffBLISInRcWWI2Mhz8rIDuAgnZJ9fnubA54PaoDis+8WiMpg1Cph3F7gXxJEG0h+Q+tywy46EqIIw8YHU/Q+X5JjPtwag9MlnsUv1RuIS7WXdEu0pLICxHReo7t5XZimB7vXTANEyhd5MZnKi0aamOAveha7o5vXXcc8B8I6pYmUoY0styPi/UzIvBo/rLu1fJPkWwUSus+q7w/dewVs24jVPxjnrgAUACgrJPGeIsg==;vo3SmegdM/x34dUCDsKjAQ=="
 ---
 

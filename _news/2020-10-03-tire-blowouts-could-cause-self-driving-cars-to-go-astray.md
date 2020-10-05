@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/03/tire-blowouts-c
 webUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/03/tire-blowouts-could-cause-self-driving-cars-to-go-astray/"
 type: article
 quality: 54
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla's Self-Driving Cars Can Now Accelerate Through Green Lights Without Driver Approval"
+    excerpt: "You better look twice before crossing an intersection (in a car or especially on foot), because Tesla's fleet of self-driving vehicles have a new capability—driving through green lights without driver confirmation."
+    publishedDateTime: 2020-10-02T17:30:00Z
+    webUrl: "https://hothardware.com/news/tesla-self-driving-cars-roll-through-green-lights"
+    ampWebUrl: "https://amp.hothardware.com/news/tesla-self-driving-cars-roll-through-green-lights"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/tesla-self-driving-cars-roll-through-green-lights"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 50
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/53023/content/Tesla_Model_S.jpg"
+        width: 708
+        height: 386
+        isCached: true
   - title: "World-first testing system aims to end dangerous confusion around “self-driving” cars"
     excerpt: "A new testing standard which ranks the assisted driving systems of new cars has been launched in an effort to reduce confusion around the current technology. A growing number of cars are being sold with systems - such as Tesla’s Autopilot and BMW’s Driving Assistant Professional - which claim to ease the strain on drivers by offering support to keep a car in its lane and maintain a safe distance to other vehicles even when moving through traffic jams."
     publishedDateTime: 2020-10-01T06:32:00Z

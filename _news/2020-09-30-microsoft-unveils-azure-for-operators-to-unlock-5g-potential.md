@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/mobile/5g/357287/microsoft-unveils-azure-f
 webUrl: "https://www.itpro.co.uk/mobile/5g/357287/microsoft-unveils-azure-for-operators-to-unlock-5g-potential"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
       - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/04/microsoft.jpg?fit=463%2C260&ssl=1"
         width: 463
         height: 260
-        isCached: true
-  - title: "Microsoft Translator adds Assamese, strengthens support for 12 Indian languages"
-    excerpt: "Microsoft India has announced the addition of Assamese as the latest Indian language in Microsoft Translator. The Azure-based service will now provide real-time"
-    publishedDateTime: 2020-09-30T08:09:00Z
-    webUrl: "https://technuter.com/operating-system/microsoft/microsoft-translator-adds-assamese-strengthens-support-for-12-indian-languages.html"
-    ampWebUrl: "https://technuter.com/operating-system/microsoft/microsoft-translator-adds-assamese-strengthens-support-for-12-indian-languages.html/amp"
-    cdnAmpWebUrl: "https://technuter-com.cdn.ampproject.org/c/s/technuter.com/operating-system/microsoft/microsoft-translator-adds-assamese-strengthens-support-for-12-indian-languages.html/amp"
-    type: article
-    provider:
-      name: technuter.com
-      domain: technuter.com
-    quality: 55
-    images:
-      - url: "https://technuter.com/wp-content/uploads/2020/01/Microsoft.jpg"
-        width: 418
-        height: 335
         isCached: true
   - title: "Microsoft Translator now supports Assamese too"
     excerpt: "Microsoft India said on Wednesday that it has added Assamese as the latest Indian language in Microsoft Translator, increasing the number of Indian languages it supports to 12. The Azure-based service will now provide real-time translation and transliteration support for the language."

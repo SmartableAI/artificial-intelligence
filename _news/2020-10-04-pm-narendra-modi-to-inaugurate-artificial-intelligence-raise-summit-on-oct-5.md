@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsx.com/amp/national/pm-narendra-modi-to-inaugurate-ar
 cdnAmpWebUrl: "https://www-newsx-com.cdn.ampproject.org/c/s/www.newsx.com/amp/national/pm-narendra-modi-to-inaugurate-artificial-intelligence-raise-summit-on-oct-5.html"
 type: article
 quality: 70
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -73,6 +73,17 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "PM Modi to inaugurate global AI summit RAISE 2020 today. What you need to know"
+    excerpt: "Prime Minister Narendra Modi addresses the nation in New Delhi in this file photo. PM Modi will inaugurate a five-day global virtual summit on artificial intelligence (AI) - Responsible AI for Social Empowerment or RAISE 2020 on Monday. (ANI Photo ..."
+    publishedDateTime: 2020-10-05T01:39:00Z
+    webUrl: "https://www.hindustantimes.com/india-news/pm-modi-to-inaugurate-global-ai-summit-raise-2020-today-what-you-need-to-know/story-2Jb9kVQYO4jNEa4yQsrA4M.html"
+    ampWebUrl: "https://m.hindustantimes.com/india-news/pm-modi-to-inaugurate-global-ai-summit-raise-2020-today-what-you-need-to-know/story-2Jb9kVQYO4jNEa4yQsrA4M_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/india-news/pm-modi-to-inaugurate-global-ai-summit-raise-2020-today-what-you-need-to-know/story-2Jb9kVQYO4jNEa4yQsrA4M_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 33
 
 secured: "TDpJJY4e+UFK2Kqtb4Ua4lDYzQWztj3v5a88/eo6wvF+i1U4h56rao4C52h+VY55oiEY1zTQOyM+sqbc6cNrpOEEESi3s1qdau6b3eey3yOcB2NLWf5D45bQBTWr3OEFR8KyXMlh4EpH2S9CYGlEPEAypJszei4/UZ4VEb/UPVH0Mx+qzdsmNNdQcY/ajnOwf2QhSwj1GFcndXvIJ6MZUTI+VFJlwhX9/8dSYtmdTThIVXTm8aLcCjaKN7zhCQMF2OTOlJtHqR+CwQ0owbz0txM10OVP3iKDpTTWJs2UP007qp0L5iqQ7ZkwLRNkfeEeo7yiu6bPP6uEvDSijbPOau+jq6Jq1B+FVEs1GROLBtYaphfI0M7ebUuU3v/QSJHLHu+m8d89iWCQipfaCns+gX1f0Bmma7EHSqJx/ME4dWWfqdEj3I8ZA/4XP7q+mjU+Z+4oyTB3+PydiEQgGWZzf1TdS9K8ilMa3w7U1KxHeiKQzYQt+9GyCkcW/mAaMM7qhi7ekmNb4pWCTMxovVF2wA==;KJd9x01W6Io+5G9qRPqJZA=="
 ---

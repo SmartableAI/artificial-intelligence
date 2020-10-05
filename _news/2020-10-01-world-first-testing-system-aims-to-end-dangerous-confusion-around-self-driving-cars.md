@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Tesla's Self-Driving Cars Can Now Accelerate Through Green Lights Without Driver Approval"
+    excerpt: "You better look twice before crossing an intersection (in a car or especially on foot), because Tesla's fleet of self-driving vehicles have a new capability—driving through green lights without driver confirmation."
+    publishedDateTime: 2020-10-02T17:30:00Z
+    webUrl: "https://hothardware.com/news/tesla-self-driving-cars-roll-through-green-lights"
+    ampWebUrl: "https://amp.hothardware.com/news/tesla-self-driving-cars-roll-through-green-lights"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/tesla-self-driving-cars-roll-through-green-lights"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 50
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/53023/content/Tesla_Model_S.jpg"
+        width: 708
+        height: 386
+        isCached: true
   - title: "Former Saab plant could be used to build NEVS self-driving cars"
     excerpt: "The former Saab plant in Trollhättan, Sweden, hasn't built a car since 2013, but it could be up and running again if current owner NEVS finds success with its new Sango self-driving car. The Sango is a six-seat shuttle that NEVS plans to operate on a trial basis in the Swedish capital Stockholm starting in late 2021."
     publishedDateTime: 2020-10-01T10:00:00Z

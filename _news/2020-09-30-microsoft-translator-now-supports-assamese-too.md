@@ -71,22 +71,6 @@ related:
         width: 463
         height: 260
         isCached: true
-  - title: "Microsoft Translator adds Assamese, strengthens support for 12 Indian languages"
-    excerpt: "Microsoft India has announced the addition of Assamese as the latest Indian language in Microsoft Translator. The Azure-based service will now provide real-time"
-    publishedDateTime: 2020-09-30T08:09:00Z
-    webUrl: "https://technuter.com/operating-system/microsoft/microsoft-translator-adds-assamese-strengthens-support-for-12-indian-languages.html"
-    ampWebUrl: "https://technuter.com/operating-system/microsoft/microsoft-translator-adds-assamese-strengthens-support-for-12-indian-languages.html/amp"
-    cdnAmpWebUrl: "https://technuter-com.cdn.ampproject.org/c/s/technuter.com/operating-system/microsoft/microsoft-translator-adds-assamese-strengthens-support-for-12-indian-languages.html/amp"
-    type: article
-    provider:
-      name: technuter.com
-      domain: technuter.com
-    quality: 55
-    images:
-      - url: "https://technuter.com/wp-content/uploads/2020/01/Microsoft.jpg"
-        width: 418
-        height: 335
-        isCached: true
 
 secured: "cJvhHW9r4e3RPY3CGPQ6RD/CUrFVp7zB9AL3KmueBYxqW3CaV+hX9a5kDMStOnmF8rXripBEtrZ7C9Tq1slW3c8v2GgoKjoR5UynhN9XjWxorrCMkaNFsQTISmtwlCEHBiGRLEfhFM9EOUHFBtlu5Xl3KIZmmXhCaMWzQLiCwWd/ym2xJv6pn/Lg/kG1nrL6T6ZRH5nVcr27bbn+VXkY2sekvdltqJedTSkVv2usbI3OR1bePM5VXglrRiWyU4quA6Udm+WNnHl289I9C4mjAsbNcECWcAguzDY1Z0ovYzWFbpwnQZqOeaA8AD0eSXQvcID48an2h/HBfQ+rtuzJqtxcE8ZzMOr57ku3CVEsXOA=;LaF/3XXz8aupriLZSCplwA=="
 ---

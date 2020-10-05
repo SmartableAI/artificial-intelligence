@@ -30,17 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Superwise.ai named a Cool Vendor by Gartner"
-    excerpt: "Superwise.ai, a pioneer of AI assurance and monitoring solutions, today announced that it has been recognized in the Cool Vendors in Enterprise AI Governance by Gartner 1. The report includes the following recommendation: \"Build trust in AI solutions by applying an explainable AI (XAI) approach to holistically address aspects of AI models such as trust,"
-    publishedDateTime: 2020-09-30T16:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/superwise-ai-named-a-cool-vendor-by-gartner-1029636628"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/superwise-ai-named-a-cool-vendor-by-gartner-1029636628"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/superwise-ai-named-a-cool-vendor-by-gartner-1029636628"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
   - title: "AI investment increased during the pandemic, and many business plan to do more, Gartner found"
     excerpt: "A quarter of IT professionals increased AI investment levels due to COVID-19, 42% kept it at the same level, but 75% plan to continue or begin new AI projects in the next 6-9 months."
     publishedDateTime: 2020-10-01T14:57:00Z
@@ -52,7 +41,21 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 56
+  - title: "Superwise.ai named a Cool Vendor by Gartner"
+    excerpt: "The solution integrates seamlessly, using API and SDKs, and is platform agnostic, supporting any ML platform, - i.e.: AWS SageMaker, Kubeflow, Azure ML, DataRobot, or custom implementations. Gartner subscribers can view the report here. Gartner does ..."
+    publishedDateTime: 2020-09-30T16:12:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/superwiseai-named-a-cool-vendor-by-gartner-301142125.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
-secured: "56P0DvjvQQXoYEy6k/oo+R6ZN14FQeqG3pa2AJmuLk6RM35UXUqUWqVC/ao/SH+r9d1rPwKZZilxHtXF6J/LULz4xZ7MpVYGKUDSaey3Nlrbi3cfCwYil9JVYT79ICs6tiZB9lShdn/sx59U3Q4aDEM/RXxP97R1t959dhkRs7S+0Jm5BtpDR/Mk62Ok7K6x7c8y5qqqipuKKR8ksEZF5i/UGJALEjxta990bsrm934NRVEt3uJs4eJXZ2qri8egb3PSMR0LZFXkQPlSS4vIkPMYFm1zQFIjVNMs9t0kob6WPbbG6NcDFgN/pq2ZXLzE86C1HsDC8C6tGKFGvHuLrGMOU/nX5Ss4MZE109hflEU=;SmLzmbvioS++IsMA1vqsdw=="
+secured: "bEeAT+pUIOz3a+lAdlrQzgaQkpUw6KPfBucge4zbWQFMBz7Hc/oZ7NYJFK/bo//HLcBQKtU2lFD/sAFjKTCTdHJLr6F/T3fQJFRs9opofidJ6KjI3C0mwFvLh6QvdryUXVp0H9UfssizNwcs5lEyySAisBM/2RPHc6VaXTyDmY6dI4DgWnaMSqXm586N63FNP342/Y3rZZmg5kTecEh3q9tjhPO9YsFEOscEP+XXdTnj7s4QmU7ZUHnATrwEyvLiscOpVvD35afPXwqsOmIjoIbhIeR3gMdMw8+vrHhOBt+MpEfFmEe7pdnQ5Bsha62up/k28PFSZ7lJ5rZOvwcZvpopYiWMWVsdBloD8iuswLvP6pJVtloTa3ZosmAIr7V58WYRGuAtdXj70DG7FJ1Zla4rW5iIAwKQwmC2pO3jtmb87RVteCqhTMXE8gYVT7blxCltulUOwZ+VzivUVXMinaYctSNV8Q+EhFsQYr5qlIaYQKEI6tJcB/GMjv9Hxmr2Z6PaJq3mSapqKZWtbqd1fw==;dDHxc3PiFy/yIWNP/76qOw=="
 ---
 
