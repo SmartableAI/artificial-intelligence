@@ -24,37 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "These Robots Use AI to Learn How to Clean Your House"
-    excerpt: "At Toyota, researchers are experimenting with prototypes that swoop from the ceiling to take care of chores with the help of machine learning."
-    publishedDateTime: 2020-09-30T20:13:00Z
-    webUrl: "https://www.wired.com/story/robots-use-ai-learn-clean-your-house/"
-    ampWebUrl: "https://www.wired.com/story/robots-use-ai-learn-clean-your-house/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/robots-use-ai-learn-clean-your-house/amp"
+  - title: "Cloud AI Can Help You Survive The Storm"
+    excerpt: "As you work to better understand and take action to improve user experiences and drive business outcomes, take care in your implementation and the use cases to which you apply AI."
+    publishedDateTime: 2020-10-05T11:24:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/05/cloud-ai-can-help-you-survive-the-storm/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 69
     images:
-      - url: "https://media.wired.com/photos/5f74c95e922b403d5b360f47/master/pass/business_toytota_gmk.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
-  - title: "Researchers use artificial intelligence to detect COVID-19 in hospital patients"
-    excerpt: "Researchers at the University of Minnesota and M Health Fairview are developing a new technology that uses artificial intelligence to help doctors detect COVID-19 in hospital patients."
-    publishedDateTime: 2020-10-02T01:26:00Z
-    webUrl: "https://www.fox9.com/news/researchers-use-artificial-intelligence-to-detect-covid-19-in-hospital-patients"
-    ampWebUrl: "https://www.fox9.com/news/researchers-use-artificial-intelligence-to-detect-covid-19-in-hospital-patients.amp"
-    cdnAmpWebUrl: "https://www-fox9-com.cdn.ampproject.org/c/s/www.fox9.com/news/researchers-use-artificial-intelligence-to-detect-covid-19-in-hospital-patients.amp"
-    type: article
-    provider:
-      name: Fox 9
-      domain: fox9.com
-    quality: 55
-    images:
-      - url: "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2020/10/932/470/chest-xray-ai-covid-detection.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee37fafb8beb90007c3a81f%2F0x0.jpg"
+        width: 1200
+        height: 900
         isCached: true
 
 secured: "R8yDAx4A3A76mT4LcAWGtJxxZ5yElxMEgNRFhuN6sxkteoYggiJ/ttbKHnAiKJrdcnNWFFG3EN64AxlaWruxARMACjnZDdrkMNj93W4Wysl7whOiLIG/6223TOg4eMKPduFTf3Tap/cPRqbSFaOMyN3gdq8ID0av+62WozAn+kZ4S2sVPYav2fVf2Mm2dyuAnlQYxuDSmJ3DIbFvOWE068yT7yWLWYtwnCBAHf9FxPnzwSXABYd4pis4Ag5rHbLuveAMULaFjgYOniTRfi7pUjYe9Alv2NSqLqdzpCKesw07l1SZe5RsOjeegFgvQ/tImzVj+78RQYOl+EjJMYDMt3AlsHGxUony4kuIQr0izHNbGVNhQAfGEs/p6WtqSWq11YbaUcfZ4D3Ptx+6t6SQtdsQ27/e34WyrCwUOiRma2rwSfm7Um8KXd063jO9oNdW2sFOyLXYh+Z1tQbWChGstMypOOt31Bdfk9lhE+N7DUCM2XevKzdW381tYP8ZUDsNxtf3Pc5vfYA3WlGXJAaXIQ==;AFoYmCfybq3P5vpkUViIVw=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/video/how-the-pandemic-has-reshaped-ai-robot
 webUrl: "https://www.zdnet.com/video/how-the-pandemic-has-reshaped-ai-robotics-and-automation/"
 type: article
 quality: 99
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2020/09/MIT_AppDCoverARTonly.png"
         width: 1500
         height: 1161
+        isCached: true
+  - title: "A Review of “The Reasonable Robot: Artificial Intelligence and the Law” and a Conversation with the Author"
+    excerpt: "The Reasonable Robot” is a book written by Dr. Ryan Abbott who, when not thinking about the future of the future of artificial intelligence (AI) and the law, teaches law at the University of Surrey"
+    publishedDateTime: 2020-10-05T13:07:00Z
+    webUrl: "https://www.jurist.org/commentary/2020/10/a-review-of-the-reasonable-robot/"
+    type: article
+    provider:
+      name: Jurist
+      domain: jurist.org
+    quality: 36
+    images:
+      - url: "https://www.jurist.org/commentary/wp-content/uploads/sites/3/2020/10/robot_1601901819.jpg"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "546RtE1ZGIgiR9PeKmCDfjOevN74dUNZ2vuVHNyxEEDRBzxez//Dcao3bjJSQYQm99EchRN5csAzVLpgvxQLWxMoNGtm2K0QX/TKhdbq8xxP9UjFHxh97n9k7vP7TjzxdS9TBV5sTix19WRsf4yVpJdFgDDsVshCYbCLP/8Nw01B8z02EST1LQd6faFtHs8jZrpmsMhERR56z6irbZ4oImENCjW8/gdkiDoNJPxXcbeGm1D0aFwI/rnqR0xkafuBIOlWS7gHFu17cB0PwNwSXmq+BE+qTTOx7w2sGuedSKTF0/jY8L4t89qf5pByi72JscUL435vHoSfB35gE3IFRgOh1NXhbB2V5mGLPX3jVCD4cD5DXH0B7CU25fVa8DO6ZCnRYKIbjboGTzDsJzOlfhGDEzI2YN4zVVNnKrCNEkA9ezLLe4jJ55plCZzBawlPokPzCna/0cRj0tXppX53jUOvDTNUZNqcHV8wxb31AN7fGVB3HNEhsvBXRASe1D5HUATRzs1kA2+Nsoc+LQ/rBg==;b7ozk7YzJ5jfqHZMjFrGWw=="

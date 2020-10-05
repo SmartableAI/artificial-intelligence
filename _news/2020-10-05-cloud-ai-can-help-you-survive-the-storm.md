@@ -6,9 +6,9 @@ publishedDateTime: 2020-10-05T11:24:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/05/cloud-ai-can-help-you-survive-the-storm/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/05/cloud-ai-can-help-you-survive-the-storm/"
 type: article
-quality: 67
-heat: 67
-published: false
+quality: 69
+heat: 79
+published: true
 
 provider:
   name: Forbes
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee37fafb8beb90007c3a81f%2F0x0.jpg"
@@ -27,6 +28,22 @@ images:
     height: 900
     isCached: true
 
-secured: "YGYcwYtOE8aq7yzQw7DQan4qSApjrDwNDeESXCIfjkfHTeT6FlxMUdPr4i59daw/jZufOXmOD/Uj756ZHyNZcfpe5qP5N0Zz1/qY41eP0YyN4HN+VFaKcQa2lM9RD3q8ZZujbNblNZS2f0KBAClv6klQIEYXPgnESEgOjBJ6xD3PW5cYRPxvryXtNIB+sG4ydp44zXFnygbDaY4rK2nN5ax0Vveg8q0McqvzEdErYTA9NxLbonP3UWZDaJ8f0j1caj249zh5yJCfitX6NCj4X9DoQ37qka+Kbj8/ijb1EAAgCFr49S8k6Vq6wPIb7W5CctXhdyMpIvX/OmBtlTA9QE/XOTR836FtTFV3A+8hV5s=;Ey5FBKwlzb1Ecbt2i+FX/w=="
+related:
+  - title: "How artificial intelligence can help your website"
+    excerpt: "Even though artificial intelligence is a huge topic to cover in one article, we shall try to find out how AI can enhance your business website."
+    publishedDateTime: 2020-10-01T13:11:00Z
+    webUrl: "https://techaeris.com/2020/10/01/how-artificial-intelligence-can-help-your-website/"
+    type: article
+    provider:
+      name: Techaeris
+      domain: techaeris.com
+    quality: 37
+    images:
+      - url: "https://techaeris.com/wp-content/uploads/2020/05/SEO-and-websites-1000x543.jpg"
+        width: 1000
+        height: 543
+        isCached: true
+
+secured: "JsPgIeDvvjNIlS/WyYjZmJanFrS4gNUKUdbnAYIJwda8l+6UjlMq7UFtdGjcN2B1bCD/6Sovcf4zC1qLYvnNmZ0xPN8bGLjtISYIZrEbfYuovUpzgyJTs+FiV+IBkVAeoHMuwbGXXmn9Q1HqWWSD+h/F5gmpgkuO0h4JWx757JsI1l06SdLvUSxBEpZ1T0WwJDO3onXe6WmWN+Yizpccfa0waCRBYwwDQ1+wOUmC0aN/c2jAnnhcmH8DQZn7N2NO3pbwebasF4KWJUJzBMuyyxRc2kntrU+k0VKjrztMBD/KS/jzfwQpRpsn9XRdM79UyLVF6/QOhRdMSNfIVkJ0z41X2tkxTZ6UOe/g0uXrDQY92C2T3dh6CePg/J7oB3Yvq3ciZVEiodeINVzwj1zMqvx+dlvEZTn5Q7KH4yyzVYRMOWsPtc7HrPYEywSyymNn4n6i0dpn80MdZ9JlLouMkigJToFnQ3MLV7rpaEWiZBm2v7zHHVqIrdOKlKt44+sRfGY5TTh6EuXp95fyH2X95A==;AoVzQ6W/iuUm37Io8LoqXw=="
 ---
 

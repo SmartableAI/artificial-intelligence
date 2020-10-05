@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "IBM Brings Artificial Intelligence At Scale To The Marketing And Media Industry"
+    excerpt: "PRNewswire/ -- IBM (NYSE: IBM) today announced three new products to add to its growing suite of AI solutions for brand and publishers. The new"
+    publishedDateTime: 2020-10-05T12:25:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-301145605.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 35
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+        width: 2698
+        height: 1414
+        isCached: true
 
 secured: "1W6HcXeqE9rU3yhyDA4u5o+b38baWDX/lae/xcx0xn44Y8EjWG7KwE0LKuMUn2TL25B0B1BBILYaIJ/Inh7cKA4DtXsAbO+wnE8wD0hsjlNiusvnNZCpw5HOutG6Pyh0cp6odvjnU/GJWhPRTltEyvndi50AlNq6oj7ALykC3/IxvJmUPoDFG7ZcaNv3Y+vOeXYc9/mEXF8bBJL7CSNaVfkQ4QdpBHMivf3diBV/fgr0WntQctwiMrd46hh2V80+tMLPQygTClJdmRFz5hBeSpwNQH1IjM5UdZGkEnysvfyqOhKUfeDD+1VZV0lvBKnLALXyacKty97R1uNNQs8utDpFui3SogCMRE6q19vYgZYY5g1QOnTfSRjx6/o2HCvPepqPmbLbaCAzGEo+ve5zvGxhLDy0cja4Le/1a1qZVI1f4pDdEzG/zc6iyYf796AYqG4x8zOxNiKaMGgcbjordNaLFyLXbRaGPjwaL3OJthRpLg5TRgxfja1gkslP9HywAS7fmmtZ2Zt7DcY3YxkIAg==;KwmzaxFzaMD/aGpV5+T5cQ=="
 ---

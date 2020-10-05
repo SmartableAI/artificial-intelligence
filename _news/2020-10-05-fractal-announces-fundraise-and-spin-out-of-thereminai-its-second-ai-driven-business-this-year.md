@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Fractal announces fundraise and spin-out of Theremin.ai, its second AI driven business this year"
-excerpt: "PRNewswire/ -- Fractal, (fractal.ai), a global leader in artificial intelligence and analytics, powering decisions in Fortune 500 companies, today"
+excerpt: "Fractal announced Series B fundraise for its AI health-tech startup, Qure.aiNEW YORK, Oct. 5, 2020 /PRNewswire/ -- Fractal,"
 publishedDateTime: 2020-10-05T06:39:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/fractal-announces-fundraise-and-spin-out-of-theremin-ai-its-second-ai-driven-business-this-year-866956158.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/fractal-announces-fundraise-and-spin-out-of-theremin-ai-its-second-ai-driven-business-this-year-866956158.html"
+originalUrl: "https://markets.businessinsider.com/news/stocks/fractal-announces-fundraise-and-spin-out-of-theremin-ai-its-second-ai-driven-business-this-year-1029646883"
+webUrl: "https://markets.businessinsider.com/news/stocks/fractal-announces-fundraise-and-spin-out-of-theremin-ai-its-second-ai-driven-business-this-year-1029646883"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/fractal-announces-fundraise-and-spin-out-of-theremin-ai-its-second-ai-driven-business-this-year-1029646883"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/fractal-announces-fundraise-and-spin-out-of-theremin-ai-its-second-ai-driven-business-this-year-1029646883"
 type: article
-quality: 24
-heat: 24
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "Uk+HknMDuvhfEY+KtZ1tzYMOtelSI5PxSQ/RBN1ND4ISRe7qmlshBj+f7XtrWdh8tVmQaFedXXUEyT8xRm9OyzfBNFpSKLymrF1j51wKyMtRQyIB/Qgt+vJOsMiISbrRNZxHuduoCGenSibPr53AlpHJMBpuzZyXHOYj5qhcI3PqiGvQ6HVr+KI927gaG26atDKRMYBWhdtMGpeW/BTd07e4mROzRWnm2VDecpcbBZXIMS2dh+HbbP3uW/gw82nPzJeRmgislLztdYvuxzI6TpScq8i9piuX3cxkBvWNB29+6abGl56YMKqAES4yDDYY4sqqKgWWQb/WWi9snlRO9fpe5Bn7HhSm4UorRpicIkU=;i5FAYTRx9VXs0491W2Uh8w=="
+secured: "Kg8koUrrwWrcf8UzTnz1tpTp+EwU6OlWRVQckt9g42MBJjczfygRcaLd0MrhWh7O7IWzCVsJTRkvXCfXJ5iVibUV+Troc5wlXkJaFTM89bTdaBEWzCdr6THKfGVCcJkPz19RFZvk/bqj3YSjOBnP3xS4oPqxc5HiYjm05uBtz8OeF3RkpfKmYyM0DGinoteTG9cGoNLsuYF1o/69zcSvWWbd3LeumUi0XT6Kc2TVvPCUUe4brnLBET95n0Pv1FqSk/7gXoYk1ZGGBbVCaxlGu2PA5pHq4TResERJyAk1UnkGUK/6UDKVM68AvZkKpmf9SV5C3y9fHQ7xP19cajzjD09ejGUpvyVp45v7rJ75uNE=;F8F6ZtK6h6YJMoJZ+9PLeA=="
 ---
 

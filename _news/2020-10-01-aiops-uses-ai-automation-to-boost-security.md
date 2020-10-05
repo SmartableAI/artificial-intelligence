@@ -40,6 +40,20 @@ related:
         width: 370
         height: 278
         isCached: true
+  - title: "A Review of “The Reasonable Robot: Artificial Intelligence and the Law” and a Conversation with the Author"
+    excerpt: "The Reasonable Robot” is a book written by Dr. Ryan Abbott who, when not thinking about the future of the future of artificial intelligence (AI) and the law, teaches law at the University of Surrey"
+    publishedDateTime: 2020-10-05T13:07:00Z
+    webUrl: "https://www.jurist.org/commentary/2020/10/a-review-of-the-reasonable-robot/"
+    type: article
+    provider:
+      name: Jurist
+      domain: jurist.org
+    quality: 36
+    images:
+      - url: "https://www.jurist.org/commentary/wp-content/uploads/sites/3/2020/10/robot_1601901819.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "YFLH5yJp6h2GD3kOqO4Fh+GeBKWMsVdzTyD+IH/dQ5jm2q2t5vrvh4PK7W5q+w91aHHP6mOtHMQxmpNChwl1208wamJPtnkOJ39KDtaC3Iy+M4wEArDQ25ppH5IASBOyQQ+PhS3m8gmoMPY/w65u9ik3G10qMzkLHG1WL9uS0RKtQvruqjjgdgFVoDL7MXqp95wN6HIv/iaFvbMZt7KwUjnzXuBj4P43eGdsJkzociFbxjQNkawSTFm8wPDCsXqSwyXg4hGkNiL5AHoqBP4OA9tob/rnzXcrHUlKDhU3RU2qznvswe13I9QcwjsOWeaO3EIfOpSaNl0jf0gkNI10FKHdCRL+gttRe5egh4ZnrHCsRfGoNTr2udMZXLksrMDlbw+EvBAnUoBHVM3Bh12hS4uQfAVGG651eOaZ/CSgicCWQzRh1xI2cK00B71SA9Zk2bCCgPu8J40q6iL7Gy10tI5/XI1LfAYtq64ByrWAntyjVq1QgQwwrlZ2Ad81A5B1QOw4X+qhd1iQBMvIl1V3nA==;xXMHwCullZE8rgLt3ClrNg=="
 ---
