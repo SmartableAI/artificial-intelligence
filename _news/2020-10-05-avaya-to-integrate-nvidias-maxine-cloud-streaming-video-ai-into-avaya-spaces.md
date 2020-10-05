@@ -34,7 +34,7 @@ related:
     provider:
       name: Digital Trends
       domain: digitaltrends.com
-    quality: 103
+    quality: 105
     images:
       - url: "https://icdn4.digitaltrends.com/image/digitaltrends/nvidia-gtc-2020-jensen-huang-1200x630-c-ar1.91.jpg"
         width: 1200
@@ -86,6 +86,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "NVIDIA Launches The Most Affordable Developer Kit For The AI Community"
+    excerpt: "The Jetson Nano 2GB Developer Kit puts the power of AI in the hands of the masses. With an affordable price tag, it is expected to democratize AI."
+    publishedDateTime: 2020-10-05T13:02:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2020/10/05/nvidia-launches-the-most-affordable-developer-kit-for-the-ai-community/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/10/05/nvidia-launches-the-most-affordable-developer-kit-for-the-ai-community/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/10/05/nvidia-launches-the-most-affordable-developer-kit-for-the-ai-community/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7b1b0dda4cc8029da27488%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D782%26cropY1%3D58%26cropY2%3D499"
+        width: 782
+        height: 441
+        isCached: true
   - title: "Nvidia says its AI can fix some of the biggest problems in video calls"
     excerpt: "Nvidia has announced a new videoconferencing platform for developers named Nvidia Maxine that it claims can fix some of the most common problems in video calls. Maxine will process calls in the cloud using Nvidia’s GPUs and boost call quality in a number of ways with the help of artificial intelligence."
     publishedDateTime: 2020-10-05T13:03:00Z
@@ -101,6 +117,22 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/XmsFkRnqD65KANKunZGjma2VfUU=/0x0:1653x1243/1400x933/filters:focal(695x490:959x754):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67582351/nvidia_maxine_features_3.0.jpg"
         width: 1400
         height: 933
+        isCached: true
+  - title: "NVIDIA Maxine uses AI to improve video calls and conferencing"
+    excerpt: "NVIDIA announced the NVIDIA Maxine platform, which uses AI to improve video calls and streaming ... Developers can apply for early access to NVIDIA Maxine now to start working on integrating the platform with their services and apps."
+    publishedDateTime: 2020-10-05T15:55:00Z
+    webUrl: "https://www.windowscentral.com/nvidia-maxine-uses-ai-improve-video-calls-and-conferencing"
+    ampWebUrl: "https://www.windowscentral.com/nvidia-maxine-uses-ai-improve-video-calls-and-conferencing?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/nvidia-maxine-uses-ai-improve-video-calls-and-conferencing?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 57
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/10/nvidia-maxine.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Arize AI Joins NVIDIA Inception Program"
     excerpt: "Arize AI, today announced it has joined the NVIDIA Inception program, which is designed to nurture startups revolutionizing industries"
@@ -125,6 +157,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 37
+  - title: "NVIDIA Announces Cloud-AI Video-Streaming Platform to Better Connect Millions Working and Studying Remotely"
+    excerpt: "NVIDIA today announced the NVIDIA Maxine platform, which provides developers with a cloud-based suite of GPU-accelerated AI video conferencing software to enhance streaming video— the internet’ s No."
+    publishedDateTime: 2020-10-05T14:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/nvidia-announces-cloud-ai-video-streaming-platform-to-better-connect-millions-working"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 31
   - title: "Nvidia makes advances in DPUs, edge AI, technical collaboration, videoconferencing and drug discovery"
     excerpt: "Nvidia's GTC conference may be virtual this year, but that hasn't stopped the company making several real announcements. Data centre. Following last week's joint announcement with VMware about the use of DPUs in the data centre,"
     publishedDateTime: 2020-10-05T14:00:00Z
@@ -139,6 +180,15 @@ related:
         width: 375
         height: 231
         isCached: true
+  - title: "Nvidia Announces DGX SuperPODs for AI, Available in 20-Node Increments"
+    excerpt: "Nvidia today announced at its GPU Technology Conference (GTC) the Nvidia DGX SuperPOD Solution for Enterprise, the world’s first turnkey AI infrastructure, making it possible for organizations to install incredibly powerful AI supercomputers with extraordinary speed — in many cases in just a few weeks’ time."
+    publishedDateTime: 2020-10-05T14:01:00Z
+    webUrl: "https://insidehpc.com/2020/10/nvidia-announces-dgx-superpods-for-ai-available-in-20-node-increments/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 19
   - title: "Nvidia launches AI platform to improve video conferencing; Avaya on as partner"
     excerpt: "Nvidia (NASDAQ:NVDA) Maxine is a cloud-based, GPU-accelerated AI platform that improves video conferencing streaming quality with features that include super-resolution, noise cancellation, and face relighting."
     publishedDateTime: 2020-10-05T16:08:00Z

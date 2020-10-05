@@ -30,6 +30,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
+  - title: "AWS Launches Amazon Timestream for IoT Applications"
+    excerpt: "Amazon Web Services (AWS) is releasing Amazon Timestream, a new time series database for IoT and operational applications that can scale to process trillions of time series events per day. According to AWS,"
+    publishedDateTime: 2020-10-05T18:18:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/AWS-Launches-Amazon-Timestream-for-IoT-Applications-143199.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 39
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AWS launches Amazon Timestream, a serverless time series database for IoT and operational applications"
     excerpt: "AWS announced the general availability of Amazon Timestream, a new time series database for IoT and operational applications."
     publishedDateTime: 2020-10-01T08:25:00Z

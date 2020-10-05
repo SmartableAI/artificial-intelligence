@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/pedia
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/pediatric-diabetes-covid-19-and-artificial-intelligence-ibm-watson-supports-families-during-pandemic-shutdown/article_87f23caf-5fca-5776-864e-ff75449d37b9.html"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     height: 330
     isCached: true
 
-secured: "xnx4hRjWDXv2rsuqBM6cdw1j2aiMlA/RtLLXmRDDR1LV6v+tJ4UnVieXmxG5Gt5Jvq7YfNjldF9zvKwDp4y7Pf8Q8Hx/x+3qOTsucl49VAZxMGBfjhtUzL/miJgovP7q9yP7LTHNAc/bGOdGDb9UzlLFCJBqdCkF3sJeAjcALr970omZGX45L8VmUNHCpxSG7YJLHg22es78n5z/vgpKcCBaJDzQZRDOTzm3FKLVSiIG76pNcMJWFxCLXZXD3X7+FSqM7mVfn+H9hDB00xkwPcTmgmHI8/IHMqplhFl9NfcRckNnFpmZSb+f2YajpZlWJgA6mUGhCA4Qk+fHtsQRXQC/+4yFuZyHl2hlSPKWkkU=;ejlGKAd2cBUrIW6LZ3TZcQ=="
+related:
+  - title: "Effect of Machine Learning on Business Opportunities in the COVID-19 Pandemic."
+    excerpt: "March 2020 saw the rise of COVID-19 and with this, people from all over the world became susceptible to this dangerous virus that has proven to be fatal in many countries. According to research and market analysis,"
+    publishedDateTime: 2020-10-01T17:11:00Z
+    webUrl: "https://www.politicmag.net/press-releases/effect-of-machine-learning-on-business-opportunities-in-the-covid-19-pandemic-13755-2020/"
+    type: article
+    provider:
+      name: politicmag.net
+      domain: politicmag.net
+    quality: 35
+    images:
+      - url: "https://www.politicmag.net/wp-content/uploads/2020/10/Effect-of-Machine-Learning-on-Business-Opportunities-in-the-COVID-19-Pandemic.png"
+        width: 940
+        height: 788
+        isCached: true
+
+secured: "3ir0KfZtctZstRuqOIHuhmc0bEoEdIp2cW79m6amIE65mGXqT3alfhpZyLzgBALEfSbR03LOsPkN+nRZ3/DvA1yqpBlS0on/hodm46Q6r5FH736w5ZoYMQVOg4oe9CYgPlrmXNEf0TskAYUliV0/sKyXeBa2LfT+/zjUWOduB9CfzMIEUP9nf4hsb1a/zkrBX2cmfhIDrLs1stmoFF0SMVhgD0+s/7zoUC9Bn7sKERtIl62mUtHCwGBUpingkO52lUY09gndjHabNPRnUTcYtSp4ovh604wf0qy/ZVetPUkHliB6g9E4+iiZ5TLOqz3LUYAvmx3J8IemovcJaKCwLKZHj+iL+COvGhl2MnCmde4=;0l46njUjkQ2tG0cL3/16Lg=="
 ---
 

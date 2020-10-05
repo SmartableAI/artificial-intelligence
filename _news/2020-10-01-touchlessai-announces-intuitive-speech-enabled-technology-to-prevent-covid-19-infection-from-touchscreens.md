@@ -7,7 +7,7 @@ originalUrl: "https://www.vendingmarketwatch.com/technology/news/21156710/touchl
 webUrl: "https://www.vendingmarketwatch.com/technology/news/21156710/touchlessai-announces-intuitive-speechenabled-technology-to-prevent-covid19-infection-from-touchscreens"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,38 @@ images:
     width: 1200
     height: 676
     isCached: true
+
+related:
+  - title: "Researchers develop artificial intelligence for early prediction of COVID-19 from standard blood tests"
+    excerpt: "A group of researchers have developed artificial intelligence (AI) that accurately predicts COVID-19 infection from standard blood tests. The AI solution has the potential to increase testing ..."
+    publishedDateTime: 2020-10-05T13:51:00Z
+    webUrl: "https://medicalxpress.com/news/2020-10-artificial-intelligence-early-covid-standard.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-10-artificial-intelligence-early-covid-standard.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-artificial-intelligence-early-covid-standard.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 41
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/11-covid.jpg"
+        width: 1920
+        height: 1025
+        isCached: true
+  - title: "How This Food-Tech Startup Is Using AI & Cloud To Make Cafeterias COVID-Safe"
+    excerpt: "Analytics India Magazine got in touch with the founders of the food-tech startup HungerBox to understand the tech behind it."
+    publishedDateTime: 2020-10-05T04:32:00Z
+    webUrl: "https://analyticsindiamag.com/how-this-food-tech-startup-is-using-ai-cloud-to-make-cafeterias-covid-safe/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 34
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/aim_hungerbx.jpg"
+        width: 1600
+        height: 901
+        isCached: true
 
 secured: "xo+eyxc2Q1sVvs5xz3WjqC/o8IjM+l/raOXd/y0oj5owmA18a8E9Z87mvKcXrLdIZqaLsHtykg+frOjU6LZFj2H9UtbU3VCq2jdgomvVTHY1Zm+xGyMuSpyIJ8arEc2KXIJ7i37vfF8NZwEDePFDrmHMiXNNnOPWMkjAWe0iIvhgIck3j5TXS/xzaQ8ndpiRjp6Ma8PeUf14Lk7M9YR0cN4PkMr6D02y1cvuHGTRuLJj9LY7srXulVqdWBf0G0AJ/Ve6r3Ig2BeAs5IKZ24Z0BsccvFviUk9S6qjxQoi/35tN4+kPYhV73//Ll3bB1/fz2jPYzrDepIaPTTZEwODJ2G2vBbYqWfNgaMSXTXeAiZUAReNutsRVCy5o5t1XWcXogp76zqj22mYo3jBCVpuJD+ckF4O3GyAJaNCLZ79Jp2NNUm7STH2IYMJSF85DiJu/PM36CVoXLQz9jk80HyB3dpdBPDrV664XUw2bhmRAdqlUlWV7j0NsUCa/3SAx7whcB2v5it8Rj8TSbL4/ovAJQ==;VGmRayioc8uOOku/woIkNQ=="
 ---

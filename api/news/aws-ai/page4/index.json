@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-29-probeat-amazon-halo-is-surveillance-capitalism-in-a-100-fitness-wearable.md",
+      "title": "ProBeat: Amazon Halo is surveillance capitalism in a $100 fitness wearable",
+      "excerpt": "Amazon Halo uses computer vision and machine learning for surveillance capitalism masquerading as a $100 fitness wearable.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/28/probeat-amazon-halo-surveillance-capitalism-fitness-wearable/",
+      "originalUrl": "https://venturebeat.com/2020/08/28/probeat-amazon-halo-surveillance-capitalism-fitness-wearable/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/amazon-halo-app-band.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/28/probeat-amazon-halo-surveillance-capitalism-fitness-wearable/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/28/probeat-amazon-halo-surveillance-capitalism-fitness-wearable/amp/",
+      "publishedDateTime": "2020-08-28T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-28-orlando-police-end-test-of-amazons-real-time-facial-rekognition-system.md",
       "title": "Orlando Police End Test Of Amazon's Real-Time Facial 'Rekognition' System",
       "excerpt": "The city of Orlando, Fla., says it has ended a pilot program in which its police force used Amazon's real-time facial recognition — a system called \"Rekognition\" that had triggered complaints from rights and privacy groups when its use was revealed ...",

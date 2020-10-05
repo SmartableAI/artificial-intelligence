@@ -1,27 +1,26 @@
 ---
 category: news
 title: "dotData Now Supports Microsoft Azure Deployment and Is Available on Microsoft Azure Marketplace"
-excerpt: "SAN MATEO, Calif., Sept. 22, 2020 /PRNewswire/ -- dotData, focused on delivering full-cycle data science automation and operationalization for"
-publishedDateTime: 2020-09-22T12:29:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572"
-webUrl: "https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572"
+excerpt: "In addition, dotData has added Microsoft SQL Server and Azure SQL Database connectors which allows users to quickly and easily develop AI/ML models based on data stored in their corporate databases. By choosing the \"Transact\" option on the dotData ..."
+publishedDateTime: 2020-09-22T12:09:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-301135412.html"
+webUrl: "https://www.prnewswire.com/news-releases/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-301135412.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - Machine Learning
-  - AI
   - Microsoft AI
+  - AI
 
-secured: "ss0X+iyLaqzG9cUXWQUS6RXly/YZMtjTW8Wvja+3bwOsDsaT8s5kDMpkRwLrpEv5g3n3GC3K85wL2BOlKv8r7I1E46/9IrXQUIPojtZ2AfGKwvC2PAnYuO4HfkgDVghKuuJReMnirIdNBlx3HN1tYxFqUYuNsjpkv6JL0ITX3beMx6CdQBLCbHy6O8/nPyHm+OznD35nfvjYAMEzaZrXtjb/qESexUv+lQWpAa90sobVku2ot8GRmAtdQILT+JrHN4es9yp5Mn1s6jOinQ/Ax4RSOKzMU+5aGcNn6cwo/UHGd/ZSPwO9FzTu5iSv7C6pVmyy31LkFyW8GQ1bMsLgGiwOmsnVl+hGilTLe8/R2mM=;vYCulo66wcIb5INkTBwHkQ=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "BmPtnzu92KLvMUNYUxEjmgXHEhmDTB27Q76vKfRnHyjvcTvjX7LgVXrzvt5QyTChygjJ6cIHxSk1LUj9SHHOWEQnP2SS09515OnHkY8MSdjY9SWDYBF8dVRCXymGMfa+XrWE3LEZZkFMndvbXpFL5lkN/cQ3Ylwl77tKByIyCKRSr4auugDPXaenAW8+lE1jC3zvPtOFT18s0Wu2Dlxjc4zUONJBF7WFl0/YnYOrpvNF7X5SmuHcIP84dofSnTAciTtEpUg4MqI7tI9iYJDNgVd691pj5bhek81aS8XHCLC0rNFpAidT9GBHauRPVbtdGEFCuquwmzNA6kwPkzlMNnDHZku/GQRTRdhEBr/tocc=;0Zxyo8TMtdY8qGrHp5ixCg=="
 ---
 

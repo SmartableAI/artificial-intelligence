@@ -7,7 +7,7 @@ originalUrl: "https://www.manufacturing.net/technology/video/21196417/ai-gives-c
 webUrl: "https://www.manufacturing.net/technology/video/21196417/ai-gives-curling-robot-the-right-moves"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Watch Curly the Curling Robot Beat the Pros at Their Own Game"
-    excerpt: "The sport of curling requires such precision and strategy that it’s sometimes referred to as “chess on ice.” Players push 40-pound stones across frozen sheets, rotating the stones just enough that they “curl,"
-    publishedDateTime: 2020-10-01T02:26:00Z
-    webUrl: "https://southfloridareporter.com/watch-curly-the-curling-robot-beat-the-pros-at-their-own-game/"
-    type: article
-    provider:
-      name: SouthFlorida Reporter
-      domain: southfloridareporter.com
-    quality: 39
-    images:
-      - url: "https://southfloridareporter.s3.amazonaws.com/wp-content/uploads/2020/09/30201518/20180316_113530894_34685.jpg"
-        width: 500
-        height: 333
-        isCached: true
 
 secured: "qkbw7WA1eSaNzrmEMBGNCVWWAkI0QmcUadnI69CCJzaUsKT9SRt0W/8vzyiyu9J+itCiYxaGhn+Utl+d15kc4BMdYeXBMCbvv8VqLi8U4a841HWpK3LC7IR5NwAbagIhD/P0foVLMkuC9X4GiYt7tDyTO2jqEEr3jnoEARwQnxCIgwM/ZyONnNuXckUR+nvJOGJtHDhrCt9mlzR+4v9xLzfnWij+e6KDWS6iuNin6e3AmUX4Mh69xpVQG1eCBhEvbamYp3FzfIvXOrjsEh+kM0pNyoZPal48x79vVwU2uXlvlarvB3KmtpdS7UHfsTJjY9MxYTzU3eMieiUHE/MiL6FG5zjuG54NAABznfbSlog=;T36Y6H0L8ScWmu9GqpFSIw=="
 ---

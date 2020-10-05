@@ -2,23 +2,21 @@
 category: news
 title: "Worldwide Voice Recognition Biometrics Market is Forecast to Grow by USD 2.60 Billion During 2020-2024, Progressing at a CAGR of 19%"
 excerpt: "The \"Global Voice Recognition Biometrics Market 2020-2024\" report has been added to ResearchAndMarkets.com's offering. The voice recognition biometrics market is poised to grow by USD 2.60 billion during 2020-2024 progressing at a CAGR of 19% during the forecast period."
-publishedDateTime: 2020-09-28T11:40:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/worldwide-voice-recognition-biometrics-market-is-forecast-to-grow-by-usd-2-60-billion-during-2020-2024-progressing-at-a-cagr-of-19-1029626428"
-webUrl: "https://markets.businessinsider.com/news/stocks/worldwide-voice-recognition-biometrics-market-is-forecast-to-grow-by-usd-2-60-billion-during-2020-2024-progressing-at-a-cagr-of-19-1029626428"
+publishedDateTime: 2020-09-28T11:23:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/09/g17674891/worldwide-voice-recognition-biometrics-market-is-forecast-to-grow-by-usd-2-60-billion-during-2020-"
+webUrl: "https://www.benzinga.com/pressreleases/20/09/g17674891/worldwide-voice-recognition-biometrics-market-is-forecast-to-grow-by-usd-2-60-billion-during-2020-"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17674891"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17674891"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "WHQlahvMRx/P2jfVBtt9NctmoV5HCsYYTfPGvwpDJ8qEg2t65KXVdZIfVMcmiZVGc9lSlb6lTfuopXZ6X+y1Aba269imchwCFZe03pgin35OppeIS2p4Lf90U3lA9boArAfd5MnKjL4XxTrDMNtCmxCyUDwn08lcK5pOc0bFIKDarAgqtDrZActv39Yt9JK8T4gzMy3Mv8jCGmKB4Wz/iM5XouosqqoG2ghbqcRCE9EgQOVDdy26njcwRXxea1euUv3/FQ/XqmX5pWEcg03CBZHwrjMa5/4JDlcVOxj3S83n4A9iZuFHml8OT8L8+b2pNOr6btcnS7DN7gyXt8UWWQlXPL9woT/pJEHQ2/7rRHA=;k/KNNfx15P7AnFG+IvkGTQ=="
+secured: "7kIP3p4h2zQzT56zfFZ9kloKj6JMEDHX90GRZ1dxTRz3H+IZPOYrwTe8gQ+yUQohoQrTAXjaSOiv08PELYM/vH5D1z1fyvlof7Jv3ngeK6vO9ePA6y7u7ckgTL9OFZYY8cuwcAyjjma86WtCPyu/me6k0bWEoKuotIBTdOJ+48wPO/9H0swm70Sh4i/JwpybJmucWa1WupwgHBedjkozS5B+dMExmZuLE9MqzPDUG8Rf2D2nFzVeZ0KQZj/5Z0u/wDge7lurD7qwZUPzVOrCOvhM2P6w/cd18iSEfoXoiDow9Za9t4jXfhirIY3Pm+0X9Ziaq4W049gqe7D4msDejyyWBY1lZ//nc9GO3jj10IY=;UJ9j7xSeMJ9bmEcACJOPEg=="
 ---
 

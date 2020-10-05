@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Evaluating an automatic speech recognition service"
+    excerpt: "Over the past few years, many automatic speech recognition (ASR) services have entered the market, offering a variety of different features. When deciding whether to use a service, you may want to evaluate its performance and compare it to another service. This evaluation process often analyzes a service"
+    publishedDateTime: 2020-10-05T19:06:26Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/evaluating-an-automatic-speech-recognition-service/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 91
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
+        width: 1260
+        height: 630
+        isCached: true
   - title: "Displaying items by tag: speech recognition systems"
     excerpt: "Engineers from the University of NSW are leading a research project aimed at closing the gap in speech recognition systems that they say have until now have performed badly in understanding young users of technology."
     publishedDateTime: 2020-10-02T00:07:00Z

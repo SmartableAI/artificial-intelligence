@@ -2,6 +2,150 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-09-09-conduent-teams-up-with-buoy-health-and-ibm-watson-health-to-help-its-clients-manage-covid-19-related-workplace-challenges.md",
+      "title": "Conduent Teams Up with Buoy Health and IBM Watson Health to Help its Clients Manage COVID-19 Related Workplace Challenges",
+      "excerpt": "Conduent Incorporated (Nasdaq: CNDT), a business process services and solutions company, today announced a collaboration with Buoy Health and IBM Watson Health to integrate both companies' cutting edge technologies and timely health care resources onto Conduent's Life@Work platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/conduent-teams-up-with-buoy-health-and-ibm-watson-health-to-help-its-clients-manage-covid-19-related-workplace-challenges-2020-09-09-81974627",
+      "originalUrl": "https://www.marketwatch.com/press-release/conduent-teams-up-with-buoy-health-and-ibm-watson-health-to-help-its-clients-manage-covid-19-related-workplace-challenges-2020-09-09-81974627",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-09T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-computer-vision-market-2020-2023size-share-top-companies-emerging-global-trends-development-future-growth-revenue-demand-forecast.md",
+      "title": "Computer Vision Market 2020-2023:Size, Share, Top Companies, Emerging Global Trends, Development, Future Growth, Revenue, Demand Forecast",
+      "excerpt": "The computer vision technology landscape continues to undergo relentless transformation, concurrently creating new application opportunities. In 2017, the global market for comput",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2020-2023size-share-top-companies-emerging-global-trends-development-future-growth-revenue-demand-forecast-2020-09-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2020-2023size-share-top-companies-emerging-global-trends-development-future-growth-revenue-demand-forecast-2020-09-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-09T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-aws-and-the-national-football-league-announce-new-next-gen-stats-powered-by-aws-for-the-2020-season.md",
+      "title": "AWS and the National Football League Announce New Next Gen Stats Powered by AWS for the 2020 Season",
+      "excerpt": "The NFL has used AWS compute technology for its Next Gen Stats platform since 2015, and began using AWS machine learning services to enhance Next Gen Stats in 2017. These stats help teams, players, broadcasters,",
+      "sourceUrl": null,
+      "webUrl": "https://www.americanpress.com/sports/aws-and-the-national-football-league-announce-new-next-gen-stats-powered-by-aws-for/article_9a5eae52-bafc-5816-9cdc-97cc46fb5622.html",
+      "originalUrl": "https://www.americanpress.com/sports/aws-and-the-national-football-league-announce-new-next-gen-stats-powered-by-aws-for/article_9a5eae52-bafc-5816-9cdc-97cc46fb5622.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/americanpress.com/content/tncms/custom/image/69cd1fbe-135c-11e8-9a25-570f3458ec8f.jpg",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-09T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "American Press",
+        "domain": "americanpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-09-federated-machine-learning-for-loan-risk-prediction.md",
       "title": "Federated Machine Learning for Loan Risk Prediction",
       "excerpt": "Federated learning can be used to pursue advanced machine learning models while ... Learn how to use federated learning in a financial services use cases like loan risk prediction.",
@@ -984,133 +1128,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-ai-image-recognition-market-global-outlook-2020-2025-google-ibm-intel-samsung-microsoft-amazon-web-services-qualcomm.md",
-      "title": "AI Image Recognition Market Global Outlook 2020-2025: Google, IBM, Intel, Samsung, Microsoft, Amazon Web Services, Qualcomm",
-      "excerpt": "March 2019 – Amazon Rekognition launched enhanced face analysis. This is the fifth model update overall since the service launched. Face analysis generates rich metadata about detected faces in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-image-recognition-market-global-outlook-2020-2025-google-ibm-intel-samsung-microsoft-amazon-web-services-qualcomm-2020-09-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-image-recognition-market-global-outlook-2020-2025-google-ibm-intel-samsung-microsoft-amazon-web-services-qualcomm-2020-09-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-08T20:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-speech-recognition-capability-provides-added-secure-payment-option-for-pci-pal-customers.md",
-      "title": "Speech Recognition capability provides added secure payment option for PCI Pal customers",
-      "excerpt": "PCI Pal announced the addition of Speech Recognition capability for both its Agent Assist and IVR Payment solutions. With this new feature, PCI Pal users now have the option of allowing callers to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.helpnetsecurity.com/2020/09/09/pci-pal-speech-recognition/",
-      "originalUrl": "https://www.helpnetsecurity.com/2020/09/09/pci-pal-speech-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.helpnetsecurity.com/wp-content/uploads/2020/08/31114057/insecure-66a.jpg",
-          "width": 304,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-08T17:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Help Net Security",
-        "domain": "helpnetsecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-artificial-intelligence-perception-vs-reality.md",
-      "title": "Artificial Intelligence: Perception vs. Reality",
-      "excerpt": "Xue: Oh, I think actually companies are using it. There are some well known example like Tesla self-driving and Google, Google search, Apple's Siri and all the other application, famous applications. Even just talk about those less famous examples like our ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.datamation.com/artificial-intelligence/artificial-intelligence-perception-vs.-reality.html",
-      "originalUrl": "https://www.datamation.com/artificial-intelligence/artificial-intelligence-perception-vs.-reality.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datamation",
-        "domain": "datamation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

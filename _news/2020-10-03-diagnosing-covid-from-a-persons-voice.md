@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Will We Go Back To Being Robots After Covid-19?"
+    excerpt: "When it comes to our professional lives, the best positive impact of the coronavirus is the way it has made business less robotic and more human. Will it stay that way?"
+    publishedDateTime: 2020-10-01T14:17:00Z
+    webUrl: "https://www.forbes.com/sites/williamarruda/2020/10/01/will-we-go-back-to-being-robots-after-covid-19/"
+    ampWebUrl: "https://www.forbes.com/sites/williamarruda/2020/10/01/will-we-go-back-to-being-robots-after-covid-19/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamarruda/2020/10/01/will-we-go-back-to-being-robots-after-covid-19/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f75e0aeba1c081f0b54b325%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Artificial intelligence can detect COVID-19 faster and easier"
     excerpt: "Multiple scientific studies have uncovered how to use artificial intelligence to detect, but not prevent, the latest coronavirus."
     publishedDateTime: 2020-10-02T07:46:00Z
@@ -40,6 +56,22 @@ related:
       - url: "https://calvinayre.com/wp-content/uploads/2020/10/artificial-intelligence-can-detect-covid-19-faster-and-easier.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "In the age of Covid, these robots are giving surgeons peace of mind"
+    excerpt: "The NHS is using AI to help make operations faster, safer and more efficient. One state-of-the art robot has been a gamechanger"
+    publishedDateTime: 2020-10-05T16:41:00Z
+    webUrl: "https://www.telegraph.co.uk/health-fitness/body/age-covid-robots-giving-surgeons-peace-mind/"
+    ampWebUrl: "https://www.telegraph.co.uk/health-fitness/body/age-covid-robots-giving-surgeons-peace-mind/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/health-fitness/body/age-covid-robots-giving-surgeons-peace-mind/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 59
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/health-fitness/2020/09/30/TELEMMGLPICT000226077656_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg"
+        width: 2501
+        height: 1563
         isCached: true
   - title: "Researchers use artificial intelligence to detect COVID-19 in hospital patients"
     excerpt: "Researchers at the University of Minnesota and M Health Fairview are developing a new technology that uses artificial intelligence to help doctors detect COVID-19 in hospital patients."
@@ -57,21 +89,21 @@ related:
         width: 932
         height: 470
         isCached: true
-  - title: "Researchers develop artificial intelligence for early prediction of COVID-19 from standard blood tests"
-    excerpt: "A group of researchers have developed artificial intelligence (AI) that accurately predicts COVID-19 infection from standard blood tests. The AI solution has the potential to increase testing ..."
-    publishedDateTime: 2020-10-05T13:51:00Z
-    webUrl: "https://medicalxpress.com/news/2020-10-artificial-intelligence-early-covid-standard.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-10-artificial-intelligence-early-covid-standard.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-artificial-intelligence-early-covid-standard.amp"
+  - title: "Crown Point will not install facial recognition cameras to help in COVID-19 contact tracing"
+    excerpt: "Crown Point, Indiana will not be installing a facial recognition network camera system to fight COVID-19, the city announced Sunday."
+    publishedDateTime: 2020-10-05T14:14:00Z
+    webUrl: "https://abc7chicago.com/society/crown-point-will-not-install-facial-recognition-cameras-to-help-in-contact-tracing/6787977/"
+    ampWebUrl: "https://abc7chicago.com/amp/crown-point-contact-tracing-indiana-covid-social-distancing/6787977/"
+    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/crown-point-contact-tracing-indiana-covid-social-distancing/6787977/"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 41
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
+    quality: 49
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/11-covid.jpg"
-        width: 1920
-        height: 1025
+      - url: "https://cdn.abcotvs.com/dip/images/6727254_AP_85217790912.png"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Artificial Intelligence Simplifies COVID-19 Testing, Workflows"
     excerpt: "Tufts Medical Center will leverage an artificial intelligence platform to accelerate the COVID-19 testing process."
@@ -87,43 +119,6 @@ related:
         width: 686
         height: 396
         isCached: true
-  - title: "Effect of Machine Learning on Business Opportunities in the COVID-19 Pandemic."
-    excerpt: "March 2020 saw the rise of COVID-19 and with this, people from all over the world became susceptible to this dangerous virus that has proven to be fatal in many countries. According to research and market analysis,"
-    publishedDateTime: 2020-10-01T17:11:00Z
-    webUrl: "https://www.politicmag.net/press-releases/effect-of-machine-learning-on-business-opportunities-in-the-covid-19-pandemic-13755-2020/"
-    type: article
-    provider:
-      name: politicmag.net
-      domain: politicmag.net
-    quality: 35
-    images:
-      - url: "https://www.politicmag.net/wp-content/uploads/2020/10/Effect-of-Machine-Learning-on-Business-Opportunities-in-the-COVID-19-Pandemic.png"
-        width: 940
-        height: 788
-        isCached: true
-  - title: "How This Food-Tech Startup Is Using AI & Cloud To Make Cafeterias COVID-Safe"
-    excerpt: "Analytics India Magazine got in touch with the founders of the food-tech startup HungerBox to understand the tech behind it."
-    publishedDateTime: 2020-10-05T04:32:00Z
-    webUrl: "https://analyticsindiamag.com/how-this-food-tech-startup-is-using-ai-cloud-to-make-cafeterias-covid-safe/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 34
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/aim_hungerbx.jpg"
-        width: 1600
-        height: 901
-        isCached: true
-  - title: "Augmented Intelligence Market Forecast to 2027 - COVID-19 Impact and Global Analysis"
-    excerpt: "The \"Augmented Intelligence Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Technology, Enterprise Size, End-User, and Geography\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2020-10-02T09:39:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/augmented-intelligence-market-forecast-to-2027-covid-19-impact-and-global-analysis-1029643338"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 25
 
 secured: "/BRtfeDLeWzp/vMv+QPyjbYRGoNYsdBtU1DBohKnRs/WCSa6rvnwljnvCA2Uhop0R3/5qZVyKRjOQAbb3zXf6rBz59PBT6/z12GNAWJ8zS9U39LMK/ckStILhRUzeRFrIHudb6qX7Q9HzWKwOkNxexeWzPoolI+OeTsmHI32seQH5rzCsvMyBaFpsrJPgqxlfN3QEj+Lr4GJ3RomJ/cg2eN2sIr8VeNGMLQZjaxic8NvLAOvi4s+JrxzNaHZBlPNvnNzeVrtW7FTnfR5GhE0yZoDdvDOeNNbg6Vsnl4QmMmNyBkNAc6rdBxsM82JPri2Pgmkscn+Cw1i+R2C+tT/CF8SwuqYTKmZEDgV6SQQNDXPuONT2Zh04Ve+8WIsIkP5UvyjgWrsZZcjKE+ehdPQFoedJOowDE91ht7WBH1yQfyHSdwhazvDRQr186DDd17m3USQGt1HBpCNK4LQwmjlgSFAnlad/RwgnN2GWSdFQUZqaaYdO+CmQxQGUs9bk/QubJyUsBHpxIEYd7DURrGq/Q==;gtqbkBamTrSBt0dWXN/Bsg=="
 ---

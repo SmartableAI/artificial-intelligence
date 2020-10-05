@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-timestream-database-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-timestream-database-is-now-generally-available/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -25,6 +25,20 @@ topics:
   - AI
 
 related:
+  - title: "AWS Launches Amazon Timestream for IoT Applications"
+    excerpt: "Amazon Web Services (AWS) is releasing Amazon Timestream, a new time series database for IoT and operational applications that can scale to process trillions of time series events per day. According to AWS,"
+    publishedDateTime: 2020-10-05T18:18:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/AWS-Launches-Amazon-Timestream-for-IoT-Applications-143199.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 39
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AWS Announces General Availability of Amazon Timestream"
     excerpt: "including services like AWS IoT Core (for IoT data collection), Amazon Kinesis and Amazon MSK (for streaming data), Amazon QuickSight (for serverless Business Intelligence), and Amazon SageMaker ..."
     publishedDateTime: 2020-10-01T17:29:00Z

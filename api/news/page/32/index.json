@@ -2,6 +2,133 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-09-09-ai-image-recognition-market-global-outlook-2020-2025-google-ibm-intel-samsung-microsoft-amazon-web-services-qualcomm.md",
+      "title": "AI Image Recognition Market Global Outlook 2020-2025: Google, IBM, Intel, Samsung, Microsoft, Amazon Web Services, Qualcomm",
+      "excerpt": "March 2019 – Amazon Rekognition launched enhanced face analysis. This is the fifth model update overall since the service launched. Face analysis generates rich metadata about detected faces in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-image-recognition-market-global-outlook-2020-2025-google-ibm-intel-samsung-microsoft-amazon-web-services-qualcomm-2020-09-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-image-recognition-market-global-outlook-2020-2025-google-ibm-intel-samsung-microsoft-amazon-web-services-qualcomm-2020-09-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-08T20:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-speech-recognition-capability-provides-added-secure-payment-option-for-pci-pal-customers.md",
+      "title": "Speech Recognition capability provides added secure payment option for PCI Pal customers",
+      "excerpt": "PCI Pal announced the addition of Speech Recognition capability for both its Agent Assist and IVR Payment solutions. With this new feature, PCI Pal users now have the option of allowing callers to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.helpnetsecurity.com/2020/09/09/pci-pal-speech-recognition/",
+      "originalUrl": "https://www.helpnetsecurity.com/2020/09/09/pci-pal-speech-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.helpnetsecurity.com/wp-content/uploads/2020/08/31114057/insecure-66a.jpg",
+          "width": 304,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-08T17:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Help Net Security",
+        "domain": "helpnetsecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-artificial-intelligence-perception-vs-reality.md",
+      "title": "Artificial Intelligence: Perception vs. Reality",
+      "excerpt": "Xue: Oh, I think actually companies are using it. There are some well known example like Tesla self-driving and Google, Google search, Apple's Siri and all the other application, famous applications. Even just talk about those less famous examples like our ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.datamation.com/artificial-intelligence/artificial-intelligence-perception-vs.-reality.html",
+      "originalUrl": "https://www.datamation.com/artificial-intelligence/artificial-intelligence-perception-vs.-reality.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datamation",
+        "domain": "datamation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-09-coders-software-engineers-find-work-with-right-skills.md",
       "title": "Coders, Software Engineers Find Work with Right Skills",
       "excerpt": "Experience with cloud-based infrastructures like MS-Azure, AWS, Google, Oracle ... general purpose programming language suitable for a variety of tasks in machine learning. Depending upon the specific machine learning application, the other suitable ...",
@@ -1039,151 +1166,6 @@
         "AI in Finance",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-tech-startup-uses-machine-learning-to-help-workers-learn-new-skills.md",
-      "title": "Tech startup uses machine learning to help workers learn new skills",
-      "excerpt": "The coronavirus crisis has accelerated the need for workers to reskill. EmPath is a skills intelligence startup that uses artificial intelligence to offer companies insights into their workforce to ease upskilling and redeployment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2020/09/08/tech-startup-uses-machine-learning-to-help-workers-learn-new-skills.html",
-      "originalUrl": "https://www.cnbc.com/video/2020/09/08/tech-startup-uses-machine-learning-to-help-workers-learn-new-skills.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106693674-image--46--png?v=1599568096",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-08T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-healthcare-natural-language-processing-market.md",
-      "title": "Healthcare Natural Language Processing Market",
-      "excerpt": "Healthcare Natural Language Processing Market research is an intelligence report with meticulous efforts undertaken to study the right and valuable information. It offers an overview of the market ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2130269/healthcare-natural-language-processing-market-2020-to-2026",
-      "originalUrl": "https://www.openpr.com/news/2130269/healthcare-natural-language-processing-market-2020-to-2026",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/9/T908710354_g.jpg",
-          "width": 562,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2130269/healthcare-natural-language-processing-market-2020-to-2026",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2130269/healthcare-natural-language-processing-market-2020-to-2026",
-      "publishedDateTime": "2020-09-08T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-facebook-is-working-on-ar-glasses-with-a-focus-on-audio-clarity.md",
-      "title": "Facebook is working on AR glasses with a focus on audio clarity",
-      "excerpt": "Facebook's Reality Labs Research wing is currently working on a number of projects designed to help us cut through noisy environments and zero in on folks we're trying to hold a conversation with, or enhance our daily lives when used with AR glasses.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/wearables/facebook-reality-labs-research-audio-enhancement-ar-glasses/",
-      "originalUrl": "https://newatlas.com/wearables/facebook-reality-labs-research-audio-enhancement-ar-glasses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/1fac25b/2147483647/strip/true/crop/2048x1365+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F41%2F1a%2F142f80554c73bf2b53bb42bb56e2%2Ffrl-research-audio-demo-2-2.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/wearables/facebook-reality-labs-research-audio-enhancement-ar-glasses/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/wearables/facebook-reality-labs-research-audio-enhancement-ar-glasses/?amp=true",
-      "publishedDateTime": "2020-09-08T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

@@ -53,6 +53,17 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "Parkland parents create AI video of slain son to spur voters | Charlotte Observer"
+    excerpt: "A teenager killed in the Parkland school massacre is urging his peers to vote in a newly released computer-generated video."
+    publishedDateTime: 2020-10-05T19:10:00Z
+    webUrl: "https://www.charlotteobserver.com/news/science-technology/article246174850.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/science-technology/article246174850.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/science-technology/article246174850.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 32
 
 secured: "twIXmbgDzk+kNpqer2UdvMlBRgwQLecubjUE1lVz4RJxFPkOfnkJh8/aoqJT4IMmoFzzQ1SLNiKjId7gdQyYejk+qDSPskKaTQXd7JskZR+eSV1yPAPb9tbo42dFPwFCAlJLGX5F+0JqFTtB3Q9KnutJhPx1MJRy+HbYef3PkJ9vwV/UfBdq4+YiX1ep/CF1zkIJOUZ/km6TtXe1i9UVfhtuhPeTcqkiqCDzto26QVhA9tVoAgGM8wm8pcZl1NLQwcFFBRpcfZfppQ7cnz0j/x5NHftX7mSt4pgIIGp1PzuNIEzlrMoj2YIbVXGewfQ4vyOCMtT1n5C6iDP7M9H+Lsu0b1JrgwUL3KoEjGyPXtrPqKy+NOsp9k2zT5Jd5oHzLx6HRCRZkMWNHvw5ZbnrpniFYdjWX5ZeM4bPkePtoS+/oBjYGQ0hF5J2V43jMtClWq8V9qCKAcz7qEw6PrxREb+j+p0PMROMblodL5sqF/fJ7vs3uf0viht32YG0DgknXKCtlLCR6KhKphPIWkA8IQ==;9QAVIy+BNK4KIjaBsYDu2A=="
 ---

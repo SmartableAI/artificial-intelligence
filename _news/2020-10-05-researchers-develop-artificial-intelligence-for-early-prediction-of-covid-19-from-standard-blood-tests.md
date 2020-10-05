@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2020-10-artificial-intelligence-early
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-artificial-intelligence-early-covid-standard.amp"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -26,66 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence can detect COVID-19 faster and easier"
-    excerpt: "Multiple scientific studies have uncovered how to use artificial intelligence to detect, but not prevent, the latest coronavirus."
-    publishedDateTime: 2020-10-02T07:46:00Z
-    webUrl: "https://calvinayre.com/2020/10/02/life/artificial-intelligence-can-detect-covid-19-faster-and-easier/"
-    ampWebUrl: "https://calvinayre.com/2020/10/02/life/artificial-intelligence-can-detect-covid-19-faster-and-easier/amp/"
-    cdnAmpWebUrl: "https://calvinayre-com.cdn.ampproject.org/c/s/calvinayre.com/2020/10/02/life/artificial-intelligence-can-detect-covid-19-faster-and-easier/amp/"
-    type: article
-    provider:
-      name: CalvinAyre
-      domain: calvinayre.com
-    quality: 59
-    images:
-      - url: "https://calvinayre.com/wp-content/uploads/2020/10/artificial-intelligence-can-detect-covid-19-faster-and-easier.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Researchers use artificial intelligence to detect COVID-19 in hospital patients"
-    excerpt: "Researchers at the University of Minnesota and M Health Fairview are developing a new technology that uses artificial intelligence to help doctors detect COVID-19 in hospital patients."
-    publishedDateTime: 2020-10-02T01:26:00Z
-    webUrl: "https://www.fox9.com/news/researchers-use-artificial-intelligence-to-detect-covid-19-in-hospital-patients"
-    ampWebUrl: "https://www.fox9.com/news/researchers-use-artificial-intelligence-to-detect-covid-19-in-hospital-patients.amp"
-    cdnAmpWebUrl: "https://www-fox9-com.cdn.ampproject.org/c/s/www.fox9.com/news/researchers-use-artificial-intelligence-to-detect-covid-19-in-hospital-patients.amp"
-    type: article
-    provider:
-      name: Fox 9
-      domain: fox9.com
-    quality: 55
-    images:
-      - url: "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2020/10/932/470/chest-xray-ai-covid-detection.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
-  - title: "Artificial Intelligence Simplifies COVID-19 Testing, Workflows"
-    excerpt: "Tufts Medical Center will leverage an artificial intelligence platform to accelerate the COVID-19 testing process."
-    publishedDateTime: 2020-10-01T17:05:00Z
-    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-simplifies-covid-19-testing-workflows"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2017-03-30_health_quality_improvements.jpg"
-        width: 686
-        height: 396
-        isCached: true
-  - title: "Effect of Machine Learning on Business Opportunities in the COVID-19 Pandemic."
-    excerpt: "March 2020 saw the rise of COVID-19 and with this, people from all over the world became susceptible to this dangerous virus that has proven to be fatal in many countries. According to research and market analysis,"
-    publishedDateTime: 2020-10-01T17:11:00Z
-    webUrl: "https://www.politicmag.net/press-releases/effect-of-machine-learning-on-business-opportunities-in-the-covid-19-pandemic-13755-2020/"
-    type: article
-    provider:
-      name: politicmag.net
-      domain: politicmag.net
-    quality: 35
-    images:
-      - url: "https://www.politicmag.net/wp-content/uploads/2020/10/Effect-of-Machine-Learning-on-Business-Opportunities-in-the-COVID-19-Pandemic.png"
-        width: 940
-        height: 788
-        isCached: true
   - title: "How This Food-Tech Startup Is Using AI & Cloud To Make Cafeterias COVID-Safe"
     excerpt: "Analytics India Magazine got in touch with the founders of the food-tech startup HungerBox to understand the tech behind it."
     publishedDateTime: 2020-10-05T04:32:00Z
@@ -100,28 +40,19 @@ related:
         width: 1600
         height: 901
         isCached: true
-  - title: "Augmented Intelligence Market Forecast to 2027 - COVID-19 Impact and Global Analysis"
-    excerpt: "The \"Augmented Intelligence Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Technology, Enterprise Size, End-User, and Geography\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2020-10-02T09:39:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/augmented-intelligence-market-forecast-to-2027-covid-19-impact-and-global-analysis-1029643338"
+  - title: "Touchless.ai Announces Intuitive Speech-Enabled Technology to Prevent COVID-19 Infection From Touchscreens"
+    excerpt: "We solved the problems of voice experience in commercial environments with an AI-driven interface that really works\" Israel’s Touchless.ai has started to deploy a voice solution that turns any interactive kiosk into a voice-activated touch-free interface."
+    publishedDateTime: 2020-10-01T15:43:00Z
+    webUrl: "https://www.vendingmarketwatch.com/technology/news/21156710/touchlessai-announces-intuitive-speechenabled-technology-to-prevent-covid19-infection-from-touchscreens"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 25
-  - title: "Diagnosing COVID From a Person’s Voice"
-    excerpt: "Researchers are exploring ways to use people’s vocalizations to diagnose coronavirus infections, dementia and depression"
-    publishedDateTime: 2020-10-03T14:12:00Z
-    webUrl: "https://www.scientificamerican.com/article/diagnosing-covid-from-a-persons-voice/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 24
+      name: VendingMarketWatch
+      domain: vendingmarketwatch.com
+    quality: 23
     images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/8C8D39AD-D5B6-4D5E-9EED7869DE114047.jpg"
-        width: 790
-        height: 496
+      - url: "https://img.vendingmarketwatch.com/files/base/cygnus/vmw/image/2020/10/16x9/Screen_Shot_2020_10_01_at_10.32.59_AM.5f75f8100e1fb.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 676
         isCached: true
 
 secured: "BkdfWZEs2bpuDmwg2KBDl0tiMzX9VI5lUi4WXo2ZuvJle3fyhU4PBRq4bYo6hNTD1UKHw/FL+anfBAl+4Fo2YvUe3V2rfJ3RtcD9k2OCarY5vyni0vuKYeqsRhHz26Z3/+IkeIxHhuWeYrwf55H/EassjUghWo/5wAp9ZPjgG95eljK0YtC1czSo6ITNFL9qu6ZLG03ywxGxUN1VBoavSFzusdv4QLXGdC/hljjEGZZ6izjGDrxQCaGatBg7MKvHqqYItwmuHK/ckmxASq/DKjmfW3EGcosyvewAM54PmXd4JxWx69wgjtosrdBo6Xm6MkZ3hQPrXVM3oLF4Q6S9fRJdRZVH6QVQ0UKvh2BtJ+S7DUHM0AJ8+4lPa5VMPfRupPx0Mf88FXaL0mxxyUY7qNVUTgJIYHASFU0V9/+YkaoWV+uexNeTcYjeFEZhqFB6LuknvdwR8R6PTIQhc4BmfDuq+f71AYNU3YXCqvEPj/wPbuKHwsouoOFBQKVeen3kS752uJmUpQKHvURnFpLanw==;+jKcf+jHFSUJR4ZUqWyvkQ=="

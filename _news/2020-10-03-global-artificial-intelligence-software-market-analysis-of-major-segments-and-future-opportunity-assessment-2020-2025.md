@@ -18,15 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Manufacturing Market Size, Future Scope, Growth Analysis and Forecast Report by 2027 with Top Companies"
-    excerpt: "Global Artificial Intelligence in Manufacturing Market was valued at USD 966.67 million in 2019 which is expected to reach USD 22880.45 million by 2027 at CAGR 50.32%. Latest published report on the Artificial Intelligence in Manufacturing market,"
-    publishedDateTime: 2020-10-01T02:21:00Z
-    webUrl: "https://ipsnews.net/business/2020/10/01/artificial-intelligence-in-manufacturing-market-size-future-scope-growth-analysis-and-forecast-report-by-2027-with-top-companies/"
+  - title: "Augmented Intelligence Market Forecast to 2027 - COVID-19 Impact and Global Analysis"
+    excerpt: "The \"Augmented Intelligence Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Technology, Enterprise Size, End-User, and Geography\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2020-10-02T09:39:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/augmented-intelligence-market-forecast-to-2027-covid-19-impact-and-global-analysis-1029643338"
     type: article
     provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 0
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 25
 
 secured: "597LF0Nf9T8ZSmCSGnLQhgsc6UkKXB6XHpjXKEiqy3j7r7HUIotO/vyEOuJkyaWO1aF3rIwe84r72K4FcM1XcnBiTBgsHiQxY5/saeODiMhyNlc5RXkzW9k+EvHAktByF0s+M+StBSiw/mFuajO2z0cWCcjiIpDfh4/5hF4xqlYenuKa6zdtjmMXDe5Kff5lZkXHYrMHSyzUsUsR2sBQREu5zxx7aEgPxx7DRYomyj7Fdl8sya858rkPni4agc1F8jMzJrIMcmxQsgDtGwvuCHRznOs6Y8KPk4adnXbN668rja9Gf4gStOXtLElWTapbU54tFYV5CpVqFwYl3TDDbV4UlUDRw6XzMxR6bDEFwEs=;+FR12g43dUvDIDsoNMxbdA=="
 ---

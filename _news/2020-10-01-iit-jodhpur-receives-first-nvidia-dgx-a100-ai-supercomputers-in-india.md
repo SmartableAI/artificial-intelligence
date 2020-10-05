@@ -41,21 +41,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "NVIDIA Launches The Most Affordable Developer Kit For The AI Community"
-    excerpt: "The Jetson Nano 2GB Developer Kit puts the power of AI in the hands of the masses. With an affordable price tag, it is expected to democratize AI."
-    publishedDateTime: 2020-10-05T13:02:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2020/10/05/nvidia-launches-the-most-affordable-developer-kit-for-the-ai-community/"
-    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/10/05/nvidia-launches-the-most-affordable-developer-kit-for-the-ai-community/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/10/05/nvidia-launches-the-most-affordable-developer-kit-for-the-ai-community/amp/"
+  - title: "Nvidia is building the UK’s fastest supercomputer to use for AI research in healthcare"
+    excerpt: "Nvidia says the Cambridge-1 will deliver 400 petaflops of AI performance, making it one of the world's most powerful supercomputers."
+    publishedDateTime: 2020-10-05T18:05:00Z
+    webUrl: "https://thenextweb.com/neural/2020/10/05/nvidia-is-building-the-uks-fastest-supercomputer-to-use-for-ai-research-in-healthcare/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/10/05/nvidia-is-building-the-uks-fastest-supercomputer-to-use-for-ai-research-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/05/nvidia-is-building-the-uks-fastest-supercomputer-to-use-for-ai-research-in-healthcare/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 98
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7b1b0dda4cc8029da27488%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D782%26cropY1%3D58%26cropY2%3D499"
-        width: 782
-        height: 441
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-05T160237.451-796x417.png"
+        width: 796
+        height: 417
         isCached: true
   - title: "Nvidia says it will build U.K.'s most powerful supercomputer intended for AI research in healthcare"
     excerpt: "Graphics chip maker Nvidia said Monday it plans to build Britain's fastest supercomputer that healthcare researchers can use to work on medical problems including COVID-19."
@@ -89,21 +89,21 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "NVIDIA Maxine uses AI to improve video calls and conferencing"
-    excerpt: "NVIDIA announced the NVIDIA Maxine platform, which uses AI to improve video calls and streaming ... Developers can apply for early access to NVIDIA Maxine now to start working on integrating the platform with their services and apps."
-    publishedDateTime: 2020-10-05T15:55:00Z
-    webUrl: "https://www.windowscentral.com/nvidia-maxine-uses-ai-improve-video-calls-and-conferencing"
-    ampWebUrl: "https://www.windowscentral.com/nvidia-maxine-uses-ai-improve-video-calls-and-conferencing?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/nvidia-maxine-uses-ai-improve-video-calls-and-conferencing?amp"
+  - title: "NVIDIA To Develop 400 Petaflop DGX A100 Supercomputer For UK AI Research"
+    excerpt: "The Cambridge-1 supercomputer will be an NVIDIA DGX SuperPOD supercomputer with over 400 petaflops of AI performance and eight petaflops of Linpack performance"
+    publishedDateTime: 2020-10-05T18:24:00Z
+    webUrl: "https://hothardware.com/news/nvidia-ai-supercomputer-cambridge-1"
+    ampWebUrl: "https://amp.hothardware.com/news/nvidia-ai-supercomputer-cambridge-1"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-ai-supercomputer-cambridge-1"
     type: article
     provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 57
+      name: HotHardware
+      domain: hothardware.com
+    quality: 58
     images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/10/nvidia-maxine.jpg"
-        width: 800
-        height: 600
+      - url: "https://images.hothardware.com/contentimages/newsitem/53044/content/nvidia-datacenter-hero.jpg"
+        width: 708
+        height: 398
         isCached: true
   - title: "US chip firm Nvidia building UK supercomputer to boost coronavirus research"
     excerpt: "US chip giant Nvidia said on Monday it is building Britain’s most powerful supercomputer, which will use artificial intelligence to help researchers solve pressing medical challenges, including those related to COVID-19."
@@ -135,15 +135,22 @@ related:
         width: 1389
         height: 774
         isCached: true
-  - title: "NVIDIA Announces Cloud-AI Video-Streaming Platform to Better Connect Millions Working and Studying Remotely"
-    excerpt: "NVIDIA today announced the NVIDIA Maxine platform, which provides developers with a cloud-based suite of GPU-accelerated AI video conferencing software to enhance streaming video— the internet’ s No."
-    publishedDateTime: 2020-10-05T14:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/nvidia-announces-cloud-ai-video-streaming-platform-to-better-connect-millions-working"
+  - title: "Case Western Reserve University lab and partners using Artificial Intelligence to improve heart transplant outcomes"
+    excerpt: "CLEVELAND — New Artificial Intelligence is being developed to increase success rates in heart transplant patients. And Cleveland is at the center of the research. Bioengineer and scientist Anant Madabhushi, along with a team of biomedical researchers out ..."
+    publishedDateTime: 2020-10-05T19:45:00Z
+    webUrl: "https://www.wkyc.com/article/news/local/cleveland/case-western-reserve-lab-and-partners-using-artificial-intelligence-to-improve-heart-transplant-outcomes/95-93cd5acf-49fa-4734-8849-9582c763d568"
+    ampWebUrl: "https://www.wkyc.com/amp/article/news/local/cleveland/case-western-reserve-lab-and-partners-using-artificial-intelligence-to-improve-heart-transplant-outcomes/95-93cd5acf-49fa-4734-8849-9582c763d568"
+    cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/local/cleveland/case-western-reserve-lab-and-partners-using-artificial-intelligence-to-improve-heart-transplant-outcomes/95-93cd5acf-49fa-4734-8849-9582c763d568"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 31
+      name: WKYC3
+      domain: wkyc.com
+    quality: 35
+    images:
+      - url: "https://media.wkyc.com/assets/WKYC/images/281b4c02-2bf3-4e06-9106-e0dc9bf762f2/281b4c02-2bf3-4e06-9106-e0dc9bf762f2_750x422.png"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Nvidia to build the UK’s fastest supercomputer for AI drug-hunters at GSK, AstraZeneca and more"
     excerpt: "Through a new partnership with GlaxoSmithKline, AstraZeneca and the U.K.’s National Health Service, the chip maker Nvidia plans to build Great Britain’s most powerful supercomputer—and dedicate it to artificial intelligence research in healthcare."
     publishedDateTime: 2020-10-05T15:40:00Z
@@ -167,15 +174,6 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 22
-  - title: "Nvidia Announces DGX SuperPODs for AI, Available in 20-Node Increments"
-    excerpt: "Nvidia today announced at its GPU Technology Conference (GTC) the Nvidia DGX SuperPOD Solution for Enterprise, the world’s first turnkey AI infrastructure, making it possible for organizations to install incredibly powerful AI supercomputers with extraordinary speed — in many cases in just a few weeks’ time."
-    publishedDateTime: 2020-10-05T14:01:00Z
-    webUrl: "https://insidehpc.com/2020/10/nvidia-announces-dgx-superpods-for-ai-available-in-20-node-increments/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 19
 
 secured: "hCTIw8AzGZI4647PdJ3FrZtkk8Fih9/ANNX2EzVPH2UVdbtrxcXydn1MKYFgVeq1mRw/5LlH7dIoOt7b3nMRxNjJw1UdY3mU/OjjAXjoDlkg+OAYg8bgs1UgDmzQ/g7uTLsYjIW2eNl7bpbk8/1FBjojqP1gou9x8H8TCjG5bMf6Q02FT2EiclkK/nuFhfSaxb+j9pZPUJOUyEO/FM9v8xLAbmrMtKCTPD5BtpE/955CjsJCblxtMK5mC8SbGG0qmbn65vkSyVyBU3QfzENTOTAzmQCKEHF8rQZHr/OV9OVbFWMXqNuaxYR+Y4fYCCupfEvDI2cc8NedIV1/EHW+kgGez/5oZh1EQUJ2EYvXRFqdHzYtf1WBtHObPvFcclCOL2UYsOiCb5HpFt/O5BfVEMyiSYXdCDserMyw7pC8ER01gEZXCkKGDwme8dPM8Ooei+i9/tnKFDCupFfK20JpSNvhR2rscPwVPTJzh3IP9IqaPzUvOdb8xn1LWld4UVH3O7Fz886Bv689NxfxBn5CXg==;iuLfLO9Dv0xgzY6X2x54vg=="
 ---

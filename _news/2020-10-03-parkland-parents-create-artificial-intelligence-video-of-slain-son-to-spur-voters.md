@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/us/parkland-ai-video-son-voters.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/parkland-ai-video-son-voters.amp"
 type: article
 quality: 97
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -46,6 +46,17 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "Parkland parents create AI video of slain son to spur voters | Charlotte Observer"
+    excerpt: "A teenager killed in the Parkland school massacre is urging his peers to vote in a newly released computer-generated video."
+    publishedDateTime: 2020-10-05T19:10:00Z
+    webUrl: "https://www.charlotteobserver.com/news/science-technology/article246174850.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/science-technology/article246174850.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/science-technology/article246174850.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 32
   - title: "Parkland shooting victim's parents reanimate son's image via AI urging viewers to vote for gun control - ‘because he can’t’"
     excerpt: "The parents of Parkland school shooting victim Joaquin Oliver have reanimated their son on video using AI to urge people to vote for pro-gun-control politicians, but many viewers have disputed the ethics behind such move."
     publishedDateTime: 2020-10-02T22:46:00Z
