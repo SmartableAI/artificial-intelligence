@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-04-many-top-ai-researchers-get-financial-backing-from-big-tech.md",
+      "title": "Many Top AI Researchers Get Financial Backing From Big Tech",
+      "excerpt": "Abdalla found that more than half of tenure-track AI faculty at four prominent universities who disclose their funding sources have received some sort of backing from Big Tech. Abdalla says he doesn’t believe any of those faculty are acting unethically ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/top-ai-researchers-financial-backing-big-tech/",
+      "originalUrl": "https://www.wired.com/story/top-ai-researchers-financial-backing-big-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f73d8fe8f19c83a58c68524/master/pass/Big-Tech-Influence.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/top-ai-researchers-financial-backing-big-tech/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/top-ai-researchers-financial-backing-big-tech/amp",
+      "publishedDateTime": "2020-10-04T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-10-04-machine-learning-tool-searches-the-lungs-for-signs-of-heart-failure.md",
       "title": "Machine learning tool searches the lungs for signs of heart failure",
       "excerpt": "One of the ways physicians can gain some forewarning of impending heart failure is through the detection of excess fluid in the lungs, and MIT researchers have developed a new machine learning ...",
@@ -144,48 +196,6 @@
         "AI",
         "AWS AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india.md",
-      "title": "IIT Jodhpur Receives NVIDIA DGX A100 AI System in India",
-      "excerpt": "Education News: DGX A100 -- the world's most advanced AI system -- will be accessible to all students at the campus and will facilitate advanced AI research and educa",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/articleshow/78457955.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/articleshow/78457955.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-78457905/78457905.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/amp_articleshow/78457955.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/amp_articleshow/78457955.cms",
-      "publishedDateTime": "2020-10-02T22:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {
@@ -972,6 +982,48 @@
       ]
     },
     {
+      "path": "_news/2020-10-02-artificial-intelligence-can-detect-covid-19-faster-and-easier.md",
+      "title": "Artificial intelligence can detect COVID-19 faster and easier",
+      "excerpt": "Multiple scientific studies have uncovered how to use artificial intelligence to detect, but not prevent, the latest coronavirus.",
+      "sourceUrl": null,
+      "webUrl": "https://calvinayre.com/2020/10/02/life/artificial-intelligence-can-detect-covid-19-faster-and-easier/",
+      "originalUrl": "https://calvinayre.com/2020/10/02/life/artificial-intelligence-can-detect-covid-19-faster-and-easier/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://calvinayre.com/wp-content/uploads/2020/10/artificial-intelligence-can-detect-covid-19-faster-and-easier.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://calvinayre.com/2020/10/02/life/artificial-intelligence-can-detect-covid-19-faster-and-easier/amp/",
+      "cdnAmpWebUrl": "https://calvinayre-com.cdn.ampproject.org/c/s/calvinayre.com/2020/10/02/life/artificial-intelligence-can-detect-covid-19-faster-and-easier/amp/",
+      "publishedDateTime": "2020-10-02T00:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CalvinAyre",
+        "domain": "calvinayre.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-how-is-artificial-intelligence-used-in-b2b-companies-here-are-powerful-examples.md",
       "title": "How Is Artificial Intelligence Used In B2B Companies: Here Are Powerful Examples",
       "excerpt": "Can B2B companies leverage AI just as well as B2C companies? Absolutely! Artificial intelligence is vitally important to helping B2B companies improve their products and services as well as operations and business processes,",
@@ -1022,7 +1074,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/building-an-end-to-end-intelligent-document-processing-solution-using-aws/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -1155,48 +1207,6 @@
         "AI",
         "Microsoft AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-machine-learning-maximizes-email-marketing-roi-with-list-segmentation.md",
-      "title": "Machine Learning Maximizes Email Marketing ROI With List Segmentation",
-      "excerpt": "Your email marketing ROI can improve with the help of the superior list segmentation mechanisms that machine learning can provide.",
-      "sourceUrl": null,
-      "webUrl": "https://www.smartdatacollective.com/machine-learning-maximizes-email-marketing-roi-with-list-segmentation/",
-      "originalUrl": "https://www.smartdatacollective.com/machine-learning-maximizes-email-marketing-roi-with-list-segmentation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.smartdatacollective.com/wp-content/uploads/2020/09/email-marketing-roi.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.smartdatacollective.com/machine-learning-maximizes-email-marketing-roi-with-list-segmentation/amp/",
-      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/machine-learning-maximizes-email-marketing-roi-with-list-segmentation/amp/",
-      "publishedDateTime": "2020-10-01T12:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SmartData Collective",
-        "domain": "smartdatacollective.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

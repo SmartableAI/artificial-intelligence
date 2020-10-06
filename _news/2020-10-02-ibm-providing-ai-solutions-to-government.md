@@ -53,22 +53,6 @@ related:
         width: 759
         height: 630
         isCached: true
-  - title: "How sensors, ambient intelligence could revolutionize healthcare"
-    excerpt: "Networks of radio-connected, intelligent sensors will propel the healthcare industry forward as increasing numbers of patients need care, researchers say. Two academic institutions recently shared details about how IoT-based technology might help mitigate clinical errors and improve caregiving in hospitals – an environment that's under increased strain due to coronavirus cases – as well as at home."
-    publishedDateTime: 2020-10-01T14:40:00Z
-    webUrl: "https://www.networkworld.com/article/3576035/how-sensors-ambient-intelligence-could-revolutionize-healthcare.html"
-    ampWebUrl: "https://www.networkworld.com/article/3576035/how-sensors-ambient-intelligence-could-revolutionize-healthcare.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3576035/how-sensors-ambient-intelligence-could-revolutionize-healthcare.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/03/healthcare_technology_medical_data_by_metamorworks_gettyimages-1127069581_2400x1600-100837041-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "MM3BpUb2YmlzxiW2qAEv+1wSANNyNHhZZ/r07kNiq2sfcEUZzMdaDM23SZSKfuXpVvwciqkJQXjK8PoOwi24YJGk7keCqpyQaedW1FAtrGn7nU1Fbx7QT+vQap6YqOG442mrWA6p0MtVYqjY2qMVWDvVNsCZB/bdAlqcs3s8dJE92+KHhpfsNzJP+P3r/C9UHMWcPqizQureF2EDuEaXTlNANuvc+JFY2OG9iAC2rJMCyqTyFoZXTjbRf8NmZ8hAfOSrDa5bH7Di+tybh0OIdOc/KyGdQAD+zo4iTxaRdgbpQaDdom17IToZg67KMpw4lwuXLvBQjEM/RanstieIndkSXG+nXpgtFa9hPGahiLo=;4c8jC7C1MkYBVdogKjcKHw=="
 ---

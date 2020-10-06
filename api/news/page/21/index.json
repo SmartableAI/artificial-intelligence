@@ -2,6 +2,48 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-09-16-tech-giant-launches-innovative-virtual-assistant-app.md",
+      "title": "Tech giant launches innovative virtual assistant app",
+      "excerpt": "During the 2022 Winter Olympics, 100 Baidu Apollo self-driving taxis will serve the Shougang Park. It has also launched DuerOS 6.0, the latest version of its conversational AI system, as well as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.globaltimes.cn/content/1201001.shtml",
+      "originalUrl": "https://www.globaltimes.cn/content/1201001.shtml",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-09-15/4d81a111-b52d-43fc-9c43-a430eb70a8bb.jpeg",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-15T14:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global Times",
+        "domain": "globaltimes.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-16-in-2020-warsaws-startup-ecosystem-is-a-place-to-observe-carefully.md",
       "title": "In 2020, Warsaw’s startup ecosystem is ‘a place to observe carefully’",
       "excerpt": "If you listed the trends that have captured the attention of 20 Warsaw-focused investors who replied to our recent surveys, automation/AI, enterprise SaaS, cleantech, health, remote work and the sharing economy would top the list.",
@@ -1127,48 +1169,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-snapdeal-deploys-robots-in-its-delivery-fleet.md",
-      "title": "Snapdeal Deploys Robots In Its Delivery Fleet",
-      "excerpt": "Ottonomy IO has developed delivery robots for autonomous last-mile and local deliveries which can actually run along sidewalks and local streets autonomously.",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/snapdeal-partners-with-ottonomy-io-for-contactless-delivery-via-robots/",
-      "originalUrl": "https://inc42.com/buzz/snapdeal-partners-with-ottonomy-io-for-contactless-delivery-via-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2020/09/31-1.jpg",
-          "width": 1360,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/snapdeal-partners-with-ottonomy-io-for-contactless-delivery-via-robots/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/snapdeal-partners-with-ottonomy-io-for-contactless-delivery-via-robots/amp/",
-      "publishedDateTime": "2020-09-15T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

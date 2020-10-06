@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/10/04/whats-new-in-g
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/10/04/whats-new-in-gartners-hype-cycle-for-ai-2020/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "AI investment increased during the pandemic, and many business plan to do more, Gartner found"
-    excerpt: "A quarter of IT professionals increased AI investment levels due to COVID-19, 42% kept it at the same level, but 75% plan to continue or begin new AI projects in the next 6-9 months."
-    publishedDateTime: 2020-10-01T14:57:00Z
-    webUrl: "https://www.techrepublic.com/article/ai-investment-increased-during-the-pandemic-and-many-business-plan-to-do-more-gartner-found/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-investment-increased-during-the-pandemic-and-many-business-plan-to-do-more-gartner-found/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-investment-increased-during-the-pandemic-and-many-business-plan-to-do-more-gartner-found/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 56
 
 secured: "bEeAT+pUIOz3a+lAdlrQzgaQkpUw6KPfBucge4zbWQFMBz7Hc/oZ7NYJFK/bo//HLcBQKtU2lFD/sAFjKTCTdHJLr6F/T3fQJFRs9opofidJ6KjI3C0mwFvLh6QvdryUXVp0H9UfssizNwcs5lEyySAisBM/2RPHc6VaXTyDmY6dI4DgWnaMSqXm586N63FNP342/Y3rZZmg5kTecEh3q9tjhPO9YsFEOscEP+XXdTnj7s4QmU7ZUHnATrwEyvLiscOpVvD35afPXwqsOmIjoIbhIeR3gMdMw8+vrHhOBt+MpEfFmEe7pdnQ5Bsha62up/k28PFSZ7lJ5rZOvwcZvpopYiWMWVsdBloD8iuswLvP6pJVtloTa3ZosmAIr7V58WYRGuAtdXj70DG7FJ1Zla4rW5iIAwKQwmC2pO3jtmb87RVteCqhTMXE8gYVT7blxCltulUOwZ+VzivUVXMinaYctSNV8Q+EhFsQYr5qlIaYQKEI6tJcB/GMjv9Hxmr2Z6PaJq3mSapqKZWtbqd1fw==;dDHxc3PiFy/yIWNP/76qOw=="
 ---

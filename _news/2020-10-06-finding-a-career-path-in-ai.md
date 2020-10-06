@@ -18,19 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "India's artificial intelligence spending grows at over 30%: IDC"
-    excerpt: "Indias Artificial Intelligence spending will grow from $300.7 million in 2019 to $880.5 million in 2023 at a compound annual growth rate (CAGR) of 30.8 per cent, said an International Data Corporation (IDC) report on Wednesday."
-    publishedDateTime: 2020-10-01T13:43:00Z
-    webUrl: "https://www.sify.com/news/indias-artificial-intelligence-spending-grows-at-over-30-idc-news-education-uj4mPCbjgbieg.html"
+  - title: "Banner Health using artificial intelligence to treat stroke patients"
+    excerpt: "When it comes to treating stroke patients, every second counts. And doctors at Banner Health are hoping that this new piece of technology can save both time and lives."
+    publishedDateTime: 2020-10-02T01:22:00Z
+    webUrl: "https://www.azfamily.com/news/banner-health-using-artificial-intelligence-to-treat-stroke-patients/article_c44fd146-0447-11eb-9821-f3825790b9b2.html"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 39
+      name: AZFamily
+      domain: azfamily.com
+    quality: 37
     images:
-      - url: "https://www.sify.com/uploads/artificial_intelligence_uiepq9gafiaif.jpeg"
-        width: 650
-        height: 366
+      - url: "https://bloximages.newyork1.vip.townnews.com/azfamily.com/content/tncms/assets/v3/editorial/1/c2/1c25d023-d547-547e-b568-2bcbc296f376/5f76752e4f2a1.image.png?resize=1119%2C630"
+        width: 1119
+        height: 630
         isCached: true
 
 secured: "TtBPc9kKhvR+cenAEYunVBaGcosLCvtR/sLuoo0zmaRhR5Plb9Lpdc7KMGIc1SByPfdjV7TlbkMo+bV0Mj740LJ37F2YLta43bElyl8vc+iHxA+Mw6hlORgbjkZXPxIaFvgAPWKP7rOGaScGM9mmY/PIVuyVdA7SpG6NvOxSCn/GnTiyMIV7vLlZjR/bH5FnDzEZ3Q9cWsIsKYFasmB4/VDJc+DIHYXOwJf9PE9n5f3BsWjuLoHqwktEJm3N4wwgPkjLlnH9JyUMXj6hcczQDIw5q+tHWEacdhje9YHntRU+a7xxohb2kmew99rYmaGawfXRSBNsMwkcf+97sU0WXXBbjRWnXwer29+W4QQIdB1kcMlDxhj7aX1d9RrkSlKXmHmZskHrKvcs5ped6fSxZ+yHCdVNeR6WRMi5mQJJyuWeFFfhGi6ifO2m0x8eqgaqzkhPse8G/i0cjoe4F/06IePMlHI+yi0i/XhZU6fsFe0LqoAykAb+h2SsMTuM+2Sbkj342EkPKDiOQZ+heUgqFw==;n78D0GEq8pXgBQhEfCkmkw=="

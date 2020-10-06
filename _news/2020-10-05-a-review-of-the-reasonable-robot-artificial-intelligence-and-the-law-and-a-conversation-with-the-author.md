@@ -7,7 +7,7 @@ originalUrl: "https://www.jurist.org/commentary/2020/10/a-review-of-the-reasonab
 webUrl: "https://www.jurist.org/commentary/2020/10/a-review-of-the-reasonable-robot/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     width: 1280
     height: 853
     isCached: true
-
-related:
-  - title: "How the pandemic has reshaped AI, robotics, and automation"
-    excerpt: "Tonya Hall talks with Dr. Kate Darling, research specialist at the MIT Media Lab, to learn more about how the future of AI, robotics, and automation was reshaped following the COVID-19 pandemic outbreak."
-    publishedDateTime: 2020-10-01T13:20:00Z
-    webUrl: "https://www.zdnet.com/video/how-the-pandemic-has-reshaped-ai-robotics-and-automation/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 99
-    images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/10/01/46c45d69-b545-4832-8436-707c403c6393/thumbnail/370x278/f9e6564e767b3b87b7f3eb35bb3c3e1a/20201001-j2-google.jpg"
-        width: 370
-        height: 278
-        isCached: true
-  - title: "Edge computing, artificial intelligence power automation innovation"
-    excerpt: "Learning Objectives Industrial edge computing and artificial intelligence (AI) contribute to automation innovation and effectiveness. Aut"
-    publishedDateTime: 2020-10-04T05:03:00Z
-    webUrl: "https://www.controleng.com/articles/edge-computing-artificial-intelligence-power-automation-innovation/"
-    type: article
-    provider:
-      name: Control Engineering
-      domain: controleng.com
-    quality: 39
-    images:
-      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2020/10/CTLx-StoneShi-Slider.jpg"
-        width: 645
-        height: 350
-        isCached: true
 
 secured: "xWYlvBtrGtJthKkUV5iG1Aa2e0HXHd2CNBMeWz0CXEhSia0AWTvj2NvcDNLNtXoI3q8Nx9LJnnMWFC4G9tMDYK9EVhWdyUKcIL326pkCKALjslYFUiuSwhI7B3YwiJQrV0QxSvSqQIqyz2IPtwwkHpYT3Rp57M8aA40VFPjl2BwkoRbFHILo3e65V/tBERGqoRvBKcnCxMraMrDUztNygzeZLEIBlxnw89f9gx8/d5RsE3C9ffY4TWzTfGEujkBUQ5LQfO+xTOKgj9iBRF1YSUYu9KSK1pC6tSEyvPWW4qaZs5FtU0IEEeA70sh/qXQzH2wp+wcpScdVslOY8gJ12qaOM6diewcIYif3zmcTXimTX1N2Wk70J067n+4dTxG6JqodIBxHRKh0cG/laxOpiVE4c/D0PW3S/PVYJ2hvaE9aKu/Qf8+Sqwrngl2nM2QNdDgfPqzTYsxqseKRLMWD6L/xJ4Ck56XJgY65JbcNqBEm2oTAZArUWKUM6rlCWKae1HDhPM0ZOa1fz2XcajPKMA==;pG7P1pS4buYlipYI0bLnvg=="
 ---

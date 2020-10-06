@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/10/05/nvidia-going-after-mor
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/05/nvidia-going-after-more-of-intels-data-center-busi/"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Nvidia outlines 'Age of AI', unveils next-gen data centre chips"
+    excerpt: "Heralding a new age of artificial intelligence (AI), graphics giant Nvidia has introduced next-gen chips for networking, storage and security, along with major announcements in data centres, edge AI,"
+    publishedDateTime: 2020-10-06T07:38:00Z
+    webUrl: "https://www.sify.com/news/nvidia-outlines-age-of-ai-unveils-next-gen-data-centre-chips-news-education-ukgflBgbhfjfg.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 54
+    images:
+      - url: "https://www.sify.com/uploads/nvidia_chip_bluefield2_uj4rUTiabbhch.jpeg"
+        width: 690
+        height: 460
+        isCached: true
 
 secured: "Qn2G49v8wOdkUpPnZsRHtENCtbz8gUBdoUVJ+udlQ1wEVQPZSi2iL7tGVLbU+s/riITejBDNyNjMhjXqdOC38El6GfMg1clCXjV/SBhzUFkD7h19JGNVcsEMggGEdbVqS7rxPfzglQLVhLWMXokwN85Ok56JsHtaKRdV3Yv0ienVG54vqLViNhGCiCAU56+6tavqZJMGu7uTxa/GMOVLTy6C4TZO8Sv1kbf5BQt4a64pIEpb0eTLLJjkm+5b1q/KoccCpx+vchODN5TWrki/va6qFKsb0NvwO4/IOAXpEPBDqEkXZGeEKP9Jn2y67iwxat0f1kP1dKylb6XIoqMBGhs/fjGCy2yP+SzMrTAhvb9AI5sBKiCkA5WvFpeSeE2rGg1vG8DFC9zG7k42HyX9gV2a2Urg7ybY8fWV4uW0gdXPu55fiWgcNhAXyWCEIu1XZB5/zXLPKe9XfxosLpRYLt+7lq7FvU1KPVK8dbZNZdlV2QoYFpIBmzpuyY8ZVpyWXD1c9urXt25SJBw6Rjv6CQ==;pwyuHZ4wKai1QqbXcBt38Q=="
 ---

@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Must Protect World Against Weaponisation Of Artificial Intelligence: PM Modi"
+title: "Must protect world against weaponisation of artificial intelligence: PM Modi"
 excerpt: "Prime Minister Narendra Modi on Monday stressed on responsible use of artificial intelligence and protecting the world against weaponisation of AI by non-state actors."
-publishedDateTime: 2020-10-05T20:15:00Z
-originalUrl: "https://www.ndtv.com/india-news/prime-minister-narendra-modi-must-protect-world-against-weaponisation-of-artificial-intelligence-2305623"
-webUrl: "https://www.ndtv.com/india-news/prime-minister-narendra-modi-must-protect-world-against-weaponisation-of-artificial-intelligence-2305623"
-ampWebUrl: "https://www.ndtv.com/india-news/prime-minister-narendra-modi-must-protect-world-against-weaponisation-of-artificial-intelligence-2305623?amp=1&akamai-rum=off"
-cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/prime-minister-narendra-modi-must-protect-world-against-weaponisation-of-artificial-intelligence-2305623?amp=1&akamai-rum=off"
+publishedDateTime: 2020-10-06T06:36:00Z
+originalUrl: "https://www.sahilonline.net/en/must-protect-world-against-weaponisation-of-artificial-intelligence-pm-modi"
+webUrl: "https://www.sahilonline.net/en/must-protect-world-against-weaponisation-of-artificial-intelligence-pm-modi"
 type: article
-quality: 69
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: NDTV
-  domain: ndtv.com
+  name: sahilonline.net
+  domain: sahilonline.net
 
 topics:
   - AI
 
 images:
-  - url: "https://c.ndtvimg.com/2020-09/s1b3rr1o_pm-modi_625x300_21_September_20.jpg"
-    width: 650
-    height: 400
+  - url: "https://www.sahilonline.net/uploads/2020/October-6/modi3_640x480.jpg"
+    width: 640
+    height: 480
     isCached: true
 
 related:
@@ -75,6 +73,6 @@ related:
         height: 384
         isCached: true
 
-secured: "r9ixpiVH52uJxBSpH25y25VHYZklcW6QDTxWEzCL3ZM/wAycFTsqhdEM9ygwRxKm5jSxgnd6WVLSkhBdrbkWLh4ooKJowJJJX1WsKCYoxBR1vXeBpzI0wa3+GfKg9j6tl7soozQxXbn5luJDrFzDWzO534DIol+yNU9GANVz3kmBfsIgbVu3ov0hq4pHX0+ZEdluyo+m5y2w+HR06Yt992qeQgu+84vsaFmOsiyGBjsYyCcNtxN/XHzgCDCiuFsUrpag04GwrR3jjFR/GZVUytxnPVewjs0qbyMz7DWyZGs9ShMUvOC8vJDxaesQTfP3k2u/2ecw44QqL0S0aRtSpyEDSgoesWF6O9cbcWZypss=;XEU+JL8TQmc8LBlyOPiESg=="
+secured: "fxsuHIulW7/9cdKZ+fLlrRRiJaAO4DrXUGigA0V2sn2Lj2l42rPM5ubKIoMi/ijrsETCcDm1sGGyvbEXLuzLw921Zg/dTwSru23dW9apARrMYTvTDxwYNnAWasLyzoDPYp/xOC4XxKBBdMV3ioeNalh8gizWlFK2xKDYt3RpLQb2BEfbYxf8r4I9Pe+/P5SnUPWlfmuqmILc5LXHu8txz+tjhvlSGUoGGcfYeQ7Z0gAZKigNMyOFiwCwaPn+1x8McCnIaBqe6d7I4ZTCbHn5M/QGy/3sHfeoVfiIgaw+Z5Z5BjgjdjhsQmPCZHrzFrJqbL7xS0XqthCqSx8OBJu9x2dxllkk8AsKQ5IydvEJpig=;XGFKb/HKQHJtX0zQnQ16GA=="
 ---
 

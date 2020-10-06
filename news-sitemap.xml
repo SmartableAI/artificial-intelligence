@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.dqindia.com/iit-roorkee-offers-online-course-machine-learning-deep-learning-details/</loc>
+    <lastmod>2020-10-06T00:56:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.dqindia.com/artificial-intelligence-empower-agriculture-healthcare-education-pm-raise-2020/</loc>
     <lastmod>2020-10-05T22:38:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -169,12 +175,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://timesofindia.indiatimes.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/articleshow/78457955.cms</loc>
-    <lastmod>2020-10-02T22:10:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/simplify-data-management-with-new-apis-in-amazon-personalize/</loc>
     <lastmod>2020-10-02T16:00:30-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -267,6 +267,12 @@
   <url>
     <loc>https://venturebeat.com/2020/10/02/facebooks-ai-matches-people-in-need-with-those-willing-to-assist/</loc>
     <lastmod>2020-10-02T01:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://calvinayre.com/2020/10/02/life/artificial-intelligence-can-detect-covid-19-faster-and-easier/</loc>
+    <lastmod>2020-10-02T00:46:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1945,14 +1951,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572</loc>
-    <lastmod>2020-09-22T05:29:00-07:00</lastmod>
+    <loc>https://www.openpr.com/news/2139411/covid-19-impact-on-ai-medicine-software-market-outlook</loc>
+    <lastmod>2020-09-22T05:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.openpr.com/news/2139411/covid-19-impact-on-ai-medicine-software-market-outlook</loc>
-    <lastmod>2020-09-22T05:28:00-07:00</lastmod>
+    <loc>https://www.prnewswire.com/news-releases/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-301135412.html</loc>
+    <lastmod>2020-09-22T05:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

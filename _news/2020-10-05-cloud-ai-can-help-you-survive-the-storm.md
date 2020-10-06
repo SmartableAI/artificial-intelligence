@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/05/cloud-ai
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/05/cloud-ai-can-help-you-survive-the-storm/"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 900
     isCached: true
-
-related:
-  - title: "How artificial intelligence can help your website"
-    excerpt: "Even though artificial intelligence is a huge topic to cover in one article, we shall try to find out how AI can enhance your business website."
-    publishedDateTime: 2020-10-01T13:11:00Z
-    webUrl: "https://techaeris.com/2020/10/01/how-artificial-intelligence-can-help-your-website/"
-    type: article
-    provider:
-      name: Techaeris
-      domain: techaeris.com
-    quality: 37
-    images:
-      - url: "https://techaeris.com/wp-content/uploads/2020/05/SEO-and-websites-1000x543.jpg"
-        width: 1000
-        height: 543
-        isCached: true
 
 secured: "rWAy7oEu80gmXFFeWnsaTVP+5NpERqUXcfGGlX1TiYLvLV5P3CHKcp2frUo+RaZLOYoDMdIBM1SIq/bmwGv9+Bn/SuUxpglb7LnUkP8LEiL1RVWyz6EbgZ7KSQf8GgRbU9emwjeuKiEuf0hsExZKlmdAOma9LwqVEZQ1d6X42qCCtHAo64z1Ewe6mKWAwg7uwk7hZJZVUXWM/MZZo8BRPI3TAJrceELYMfrUsPB6zUMHsNCUAFUkuUuzGFL0BLjbgF9f28uI5pf9J5Ru6fEJnfQghjXGjOOj+1ZSqkQvQMUBPGRy5unaCP35yyim0mMvEqseuLAX96ZXQitwEowD+PQjXHTARTNWFq/goIRx7oiOvRThlKehnOb9wNOR9XIxSTNm8DBKEAB42MPcPpu48Pi4D5hoDxe6lg+tK88UnnDkZZxZggh6EEnk3gFjb0rE7AICvaJp+caF+KALRIa4BTEnFDcOPoBadMl33uf1YgzJdQp2mdi07dk9nOPrrQYmRTXBF2k2mVD4LR7C3XkbSg==;j6OjQCpXBgOvWVjkxcJFiw=="
 ---
