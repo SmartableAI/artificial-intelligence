@@ -2,6 +2,98 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-05-raise-2020-a-mega-virtual-summit-on-artificial-intelligence.md",
+      "title": "RAISE 2020: A mega virtual summit on Artificial Intelligence",
+      "excerpt": "RAISE 2020, a mega virtual summit on Artificial Intelligence will be inaugurated today by Prime Minister Narendra Modi at 7 pm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.oneindia.com/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html",
+      "originalUrl": "https://www.oneindia.com/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.oneindia.com/img/400x99/2020/10/raise-1601867009.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.oneindia.com/amphtml/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html",
+      "cdnAmpWebUrl": "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html",
+      "publishedDateTime": "2020-10-04T20:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Oneindia",
+        "domain": "oneindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-whats-new-in-gartners-hype-cycle-for-ai-2020.md",
+      "title": "What’s New In Gartner’s Hype Cycle For AI, 2020",
+      "excerpt": "AI projects continue to accelerate this year in healthcare, bioscience, manufacturing, financial services and supply chain sectors despite greater economic & social uncertainty.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/10/04/whats-new-in-gartners-hype-cycle-for-ai-2020/",
+      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/10/04/whats-new-in-gartners-hype-cycle-for-ai-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7a419066a337b6c570968c%2F0x0.jpg%3FcropX1%3D618%26cropX2%3D5732%26cropY1%3D265%26cropY2%3D3675",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/10/04/whats-new-in-gartners-hype-cycle-for-ai-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/10/04/whats-new-in-gartners-hype-cycle-for-ai-2020/amp/",
+      "publishedDateTime": "2020-10-04T14:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-04-why-investors-should-focus-more-on-the-infrastructure-supporting-the-ai-revolution.md",
       "title": "Why Investors Should Focus More On The Infrastructure Supporting The AI Revolution",
       "excerpt": "AI has been heralded as the catalyst for a new industrial revolution. While the potential for massive impact is very real, venture investors looking to capitalize on growth ought to spend more time considering the enabling infrastructure.",
@@ -113,7 +205,7 @@
       "originalUrl": "https://newatlas.com/medical/machine-learning-lungs-signs-heart-failure/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -654,6 +746,57 @@
       ]
     },
     {
+      "path": "_news/2020-10-02-announcing-the-winner-of-the-aws-deepcomposer-chartbusters-the-sounds-of-science-challenge.md",
+      "title": "Announcing the winner of the AWS DeepComposer Chartbusters The Sounds of Science challenge",
+      "excerpt": "We’re excited to announce the top 10 compositions and the winner of the AWS DeepComposer Chartbusters The Sounds of Science challenge. AWS DeepComposer provides a creative and hands-on experience for learning generative AI and machine learning (ML). Chartbusters is a global monthly challenge where you",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-winner-of-the-aws-deepcomposer-chartbusters-the-sounds-of-science-challenge/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-winner-of-the-aws-deepcomposer-chartbusters-the-sounds-of-science-challenge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/01/1-Chart-2-836x630.jpg",
+          "width": 836,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-02T09:58:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-landmark-court-decision-says-robots-cant-be-inventors-but-the-fight-isnt-over.md",
       "title": "Landmark court decision says robots can’t be inventors. But the fight isn’t over",
       "excerpt": "The United Kingdom's highest court tossed out a case that would've established that machines can be creative and win patents for their inventions",
@@ -982,48 +1125,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-02-artificial-intelligence-can-detect-covid-19-faster-and-easier.md",
-      "title": "Artificial intelligence can detect COVID-19 faster and easier",
-      "excerpt": "Multiple scientific studies have uncovered how to use artificial intelligence to detect, but not prevent, the latest coronavirus.",
-      "sourceUrl": null,
-      "webUrl": "https://calvinayre.com/2020/10/02/life/artificial-intelligence-can-detect-covid-19-faster-and-easier/",
-      "originalUrl": "https://calvinayre.com/2020/10/02/life/artificial-intelligence-can-detect-covid-19-faster-and-easier/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://calvinayre.com/wp-content/uploads/2020/10/artificial-intelligence-can-detect-covid-19-faster-and-easier.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://calvinayre.com/2020/10/02/life/artificial-intelligence-can-detect-covid-19-faster-and-easier/amp/",
-      "cdnAmpWebUrl": "https://calvinayre-com.cdn.ampproject.org/c/s/calvinayre.com/2020/10/02/life/artificial-intelligence-can-detect-covid-19-faster-and-easier/amp/",
-      "publishedDateTime": "2020-10-02T00:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CalvinAyre",
-        "domain": "calvinayre.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-02-how-is-artificial-intelligence-used-in-b2b-companies-here-are-powerful-examples.md",
       "title": "How Is Artificial Intelligence Used In B2B Companies: Here Are Powerful Examples",
       "excerpt": "Can B2B companies leverage AI just as well as B2C companies? Absolutely! Artificial intelligence is vitally important to helping B2B companies improve their products and services as well as operations and business processes,",
@@ -1113,99 +1214,6 @@
       ],
       "topics": [
         "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-report-former-pelican-coach-alvin-gentry-serious-contender-to-join-doc-rivers-staff-in-philadelphia.md",
-      "title": "Report: Former Pelican coach Alvin Gentry 'serious contender' to join Doc Rivers staff in Philadelphia",
-      "excerpt": "After being fired from the New Orleans Pelicans this off-season, Alvin Gentry is likely to be apart of Doc Rivers’ staff in Philadelphia.",
-      "sourceUrl": null,
-      "webUrl": "https://inside-com.breezy.hr/",
-      "originalUrl": "https://lonzowire.usatoday.com/2020/10/01/pelicans-news-alvin-gentry-doc-rivers-head-coach/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://breezy-social-images.imgix.net/442d93c02549/social-portal.png?auto=format&h=600",
-          "width": 1143,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-01T17:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-alibaba-cloud-nears-profitability-as-customers-move-from-iaas-into-ai-data-analytics-workloads.md",
-      "title": "Alibaba Cloud nears profitability as customers move from IaaS into AI, data analytics workloads",
-      "excerpt": "Alibaba Cloud customers are moving into more demanding workloads and driving financial results. Even if Alibaba Cloud remains a mostly China cloud company it has a lot of revenue runway ahead.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/alibaba-cloud-nears-profitability-as-customers-move-from-iaas-into-ai-data-analytics-workloads/",
-      "originalUrl": "https://www.zdnet.com/article/alibaba-cloud-nears-profitability-as-customers-move-from-iaas-into-ai-data-analytics-workloads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/10/01/a2830110-7534-4682-ad13-fe18a31a80f6/alibaba-cloud-stack.png",
-          "width": 1163,
-          "height": 553,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/alibaba-cloud-nears-profitability-as-customers-move-from-iaas-into-ai-data-analytics-workloads/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alibaba-cloud-nears-profitability-as-customers-move-from-iaas-into-ai-data-analytics-workloads/",
-      "publishedDateTime": "2020-10-01T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
         "AWS AI"
       ]
     }

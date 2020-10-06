@@ -24,17 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "AWS Announces General Availability of Amazon Timestream"
-    excerpt: "including services like AWS IoT Core (for IoT data collection), Amazon Kinesis and Amazon MSK (for streaming data), Amazon QuickSight (for serverless Business Intelligence), and Amazon SageMaker ..."
-    publishedDateTime: 2020-10-01T17:29:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20200930006011/aws-announces-general-availability-of-amazon-timestream"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 34
-
 secured: "KjJ+JXrFixVpjxshU1X1iMCfha/SxsN/E256iZb4vCXGY4B0m1+SWe+6GLtbmA5LcKRU3YJqGsQYCC57dDZ76HWfUcs53xXwCKqC+tpNaGLL7lCB6ZU9gjNhDpzNspVE4vfOY7yaGit/IyIB/ysiwupJBF1ilKfPjiPL8x5GaSn+GCimjn08aklOArMniEJNCGCa+onPBRuHb11WytmQCFyRChzMi8Z9u1AF7yrRJ6h8eaZhqi/K070gi0YAHeZdcXKsEysP9i+KEB7k/xQo3PiQ7DWT3qa5X7XFaafFrPkXaaiHDncZh++Aflt3NEq0UfkxMzNFdghBALQtPqG7tFWxJrvPv8xEqF/XbEg+ByU=;tR4X0S0rKfhAINCy6ZkeOw=="
 ---
 

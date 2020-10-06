@@ -1,28 +1,29 @@
 ---
 category: news
 title: "IBM Brings Artificial Intelligence At Scale To The Marketing And Media Industry"
-excerpt: "PRNewswire/ -- IBM (NYSE: IBM) today announced three new products to add to its growing suite of AI solutions for brand"
-publishedDateTime: 2020-10-05T12:43:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-1029648095"
-webUrl: "https://markets.businessinsider.com/news/stocks/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-1029648095"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-1029648095"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-1029648095"
+excerpt: "PRNewswire/ -- IBM (NYSE: IBM) today announced three new products to add to its growing suite of AI solutions for brand and publishers. The new"
+publishedDateTime: 2020-10-05T12:25:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-301145605.html"
+webUrl: "https://www.prnewswire.com/news-releases/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-301145605.html"
 type: article
-quality: 65
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - IBM AI
   - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+    width: 2698
+    height: 1414
+    isCached: true
 
 related:
   - title: "IBM joins NIH effort to diagnose schizophrenia using AI"
@@ -56,6 +57,6 @@ related:
         height: 360
         isCached: true
 
-secured: "Y1rU8kw8lA6iLGNj3fxIQ1GudKyHguWMI6ncWsGJUb4TEcGeMcCBUCvHd2UQDA/5Sg39BeZ2vVygcqHaiNsSLn72/zuwl7+BOoTCMX/3rHzg1CyYP4MrVG88gXuKZfLaQGjxOW67Xrqes3tR+ci8FUrBXM6pdaUtkz2aYuBuQsZUytExwIualVZagiXoaZWHyRvWiCn9q7Q6rm/t9N8yYW1TRgnaq392gMlT76UgTvQdmYuN740BeETwKQP98IuPqFbPmDwpg+QNOPLLMR7S3bPO20UiTLkMcDCi4vzzSjb5Hlk/GxlwrqGHWcsdAS/U4bJB2/CTJBLDmf8t90K4e9cntTC/j24ESbOrf6qXK2Q=;HflkJr7bse12nl+lUy5UwA=="
+secured: "13ul50pR9z+szU3NqafduBJ8AtO0TkjSeTGGbtnCzTAQzOU8b1mKyQ84p0Y+acvpMMBtva6GyA7vhcVNmqP9PnerkgbqkwFscFQfIl8wdkxJV7EyR1nlTC9DSuBzPOvSbZ412W5tCc1YtXsS/OQyImVxQnO/Svd+XFH48LHd8w5fo6MDqjNnxaI3SYNnC4ohv0ccn8oPCiFMYSHuztITAAc0FDQ8mjc7t350P4CfZtu3l5QJuoe3bW2u4SmRu45k0XFUTYQJ8H0xGkg0MuaCrfljHQxVqk1QH1tNVVb9NxPfKUT0OEIef/FAlHCmlY8cHlELrmWUU9C46UWB8+2WgcAzbvBR7jbzHev09qGVC6M=;XuDkbdw+XMenOSBMTbR0mQ=="
 ---
 

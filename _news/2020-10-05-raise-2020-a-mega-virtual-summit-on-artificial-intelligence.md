@@ -9,7 +9,7 @@ ampWebUrl: "https://www.oneindia.com/amphtml/india/raise-2020-a-mega-virtual-sum
 cdnAmpWebUrl: "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html"
 type: article
 quality: 74
-heat: 165
+heat: 175
 published: true
 
 provider:
@@ -90,6 +90,22 @@ related:
       - url: "https://mc.webpcache.epapr.in/mcms.php?size=large&in=https://mcmscache.epapr.in/post_images/website_13/post_18468642/thumb.jfif"
         width: 800
         height: 453
+        isCached: true
+  - title: "RAISE 2020: AI to expand scope of financial services in the country, say experts"
+    excerpt: "Artificial intelligence (AI) is likely to become the key enabler for the financial services industry to expand its reach and strengthen the ties with the consumers. Artificial intelligence (AI) is ..."
+    publishedDateTime: 2020-10-06T11:09:00Z
+    webUrl: "https://yourstory.com/2020/10/raise-2020-ai-financial-service-fintech-startups"
+    ampWebUrl: "https://yourstory.com/2020/10/raise-2020-ai-financial-service-fintech-startups/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/10/raise-2020-ai-financial-service-fintech-startups/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 54
+    images:
+      - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/RAISE-ai-1601978412203.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
         isCached: true
   - title: "PM Modi to virtually address ‘RAISE 2020’ global artificial intelligence summit today"
     excerpt: "The Responsible AI for Social Empowerment (RAISE 2020) virtual summit will be a Global Artificial Intelligence summit organised by the Government of India in partnership with industry and academia."

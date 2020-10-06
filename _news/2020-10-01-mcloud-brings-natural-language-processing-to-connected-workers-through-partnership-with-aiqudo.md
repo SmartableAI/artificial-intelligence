@@ -1,29 +1,26 @@
 ---
 category: news
 title: "mCloud Brings Natural Language Processing to Connected Workers through Partnership with Aiqudo"
-excerpt: "By combining AssetCare with Aiqudo's powerful Voice to Action® platform, mobile field workers will be able to interact with AssetCare solutions through a custom digital assistant using natural language."
+excerpt: "CNW/ - mCloud Technologies Corp. (TSXV: MCLD) (OTCQB: MCLDF) (\"mCloud\" or the \"Company\"), a leading provider of asset management solutions combining"
 publishedDateTime: 2020-10-01T11:00:00Z
-originalUrl: "https://www.finanzen.net/nachricht/aktien/mcloud-brings-natural-language-processing-to-connected-workers-through-partnership-with-aiqudo-9351204"
-webUrl: "https://www.finanzen.net/nachricht/aktien/mcloud-brings-natural-language-processing-to-connected-workers-through-partnership-with-aiqudo-9351204"
+originalUrl: "https://www.newswire.ca/news-releases/mcloud-brings-natural-language-processing-to-connected-workers-through-partnership-with-aiqudo-894258930.html"
+webUrl: "https://www.newswire.ca/news-releases/mcloud-brings-natural-language-processing-to-connected-workers-through-partnership-with-aiqudo-894258930.html"
 type: article
-quality: 42
-heat: 42
-published: false
 
 provider:
-  name: Finanzen
-  domain: finanzen.net
+  name: Newswire
+  domain: newswire.ca
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+  - url: "https://www.newswire.ca/content/dam/newswire-ca/logos/cnw_en_facebook_sharing_logo.png"
     width: 600
     height: 315
     isCached: true
 
-secured: "32UOoin6xa6N1vm0iXrgHiJvBmy2rPr5QGMXbkJHy/+4irQpuvYZm4ncO4jrp4Y3YlOVGyp5+jQQYNfTxA2i+AAYJtb+PBiYktbGwt+dh4MtYL4ar8NywRHraRkibYkMdulNzrfTVs3qtJ4BeEKzX2FNUheggwncUo1fZM5icsJ38/fRqGTRPDNCDXIru8WgEXYNjYklOMlGd9Zmz9POCDaYAcR7dtr3wF/Bg7E+lcAY5f+TBm9qZuLyUxAkG5C3HDe2cQiAVSysAStZ0iJO1ltSsdrDCsKHAhVTNx4DjjkR2kVnIkF+KSe22ufarcqpEOinUijpBcCyruCEcLP/jDYQwPJZcq9/lTzKimN3H/0=;ZyqoFI0yHTclMhE1u17YDA=="
+secured: "KUsShTqMszg/KXszFdzsAB7JABG7c4+CKmGWVdAjZNrOQPM1PY/27saNMC+2ElTdEQU+8/XLm8+4HNJhM7ogIRQC0c44a4+C1BHtceK4IzB/PWy215b08qmYTnPYWsPj3f1rUqeomc7WWx+01Sz1qhfZAncOshU9EDKaSBRCx2RPrtr+05JHrrJBsMjROvNwQkPS++L4a0mY2EWbAxIRC60UTqB9xRFM2fKDrGBfUCp1hzBuVj+aTEReQMVewcSyxr2QVduC+OelrwT303syo3XVRnGVE+XFV8BsV0YY8QozSxYTe/+ZSE0iKdMZpkbCJs413AhApfrVBXga6UvgT586xWXWKdz8006CiFxX3F0=;akIM2kT+PFPXWUDJcwgung=="
 ---
 

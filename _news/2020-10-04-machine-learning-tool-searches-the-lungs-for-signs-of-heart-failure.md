@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/medical/machine-learning-lungs-signs-heart-fail
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/medical/machine-learning-lungs-signs-heart-failure/?amp=true"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Anticipating heart failure with machine learning"
-    excerpt: "A new algorithm developed at MIT CSAIL aims to distinguish between different pulmonary edema severity levels automatically by looking at a single X-ray image."
-    publishedDateTime: 2020-10-01T18:08:00Z
-    webUrl: "https://news.mit.edu/2020/anticipating-heart-failure-machine-learning-1001"
-    type: article
-    provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 84
-    images:
-      - url: "https://news.mit.edu/sites/default/files/images/202009/Pulmonary-Edema-xray.png"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Anticipating heart failure with machine learning"
     excerpt: "Every year, roughly one out of eight U.S. deaths is caused at least in part by heart failure. One of acute heart failure's most common warning signs is excess fluid in the lungs, a condition known as pulmonary edema."
     publishedDateTime: 2020-10-02T17:00:00Z

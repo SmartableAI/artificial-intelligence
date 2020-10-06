@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "This AI Startup Helps Hospitals Navigate Operational Troubles Of Covid-19 And Beyond"
+    excerpt: "M Health Fairview, one of the largest health systems in Minnesota, got an urgent message from one of its vendors: Mountain View, California-based artificial intelligence startup Qventus. The 13-hospital system had contracted the company to help streamline its operations,"
+    publishedDateTime: 2020-10-06T10:34:00Z
+    webUrl: "https://www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startup-helps-hospitals-navigate-operational-troubles-of-covid-19-and-beyond/"
+    ampWebUrl: "https://www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startup-helps-hospitals-navigate-operational-troubles-of-covid-19-and-beyond/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startup-helps-hospitals-navigate-operational-troubles-of-covid-19-and-beyond/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 80
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7b72922d03ae32323bd091%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3600%26cropY1%3D98%26cropY2%3D2123"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Artificial intelligence can detect COVID-19 faster and easier"
     excerpt: "Multiple scientific studies have uncovered how to use artificial intelligence to detect, but not prevent, the latest coronavirus."
     publishedDateTime: 2020-10-02T07:46:00Z
@@ -75,34 +91,6 @@ related:
         width: 1920
         height: 1025
         isCached: true
-  - title: "Artificial Intelligence Simplifies COVID-19 Testing, Workflows"
-    excerpt: "Tufts Medical Center will leverage an artificial intelligence platform to accelerate the COVID-19 testing process."
-    publishedDateTime: 2020-10-01T17:05:00Z
-    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-simplifies-covid-19-testing-workflows"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2017-03-30_health_quality_improvements.jpg"
-        width: 686
-        height: 396
-        isCached: true
-  - title: "Effect of Machine Learning on Business Opportunities in the COVID-19 Pandemic."
-    excerpt: "March 2020 saw the rise of COVID-19 and with this, people from all over the world became susceptible to this dangerous virus that has proven to be fatal in many countries. According to research and market analysis,"
-    publishedDateTime: 2020-10-01T17:11:00Z
-    webUrl: "https://www.politicmag.net/press-releases/effect-of-machine-learning-on-business-opportunities-in-the-covid-19-pandemic-13755-2020/"
-    type: article
-    provider:
-      name: politicmag.net
-      domain: politicmag.net
-    quality: 35
-    images:
-      - url: "https://www.politicmag.net/wp-content/uploads/2020/10/Effect-of-Machine-Learning-on-Business-Opportunities-in-the-COVID-19-Pandemic.png"
-        width: 940
-        height: 788
-        isCached: true
   - title: "How This Food-Tech Startup Is Using AI & Cloud To Make Cafeterias COVID-Safe"
     excerpt: "Analytics India Magazine got in touch with the founders of the food-tech startup HungerBox to understand the tech behind it."
     publishedDateTime: 2020-10-05T04:32:00Z
@@ -116,29 +104,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/aim_hungerbx.jpg"
         width: 1600
         height: 901
-        isCached: true
-  - title: "Augmented Intelligence Market Forecast to 2027 - COVID-19 Impact and Global Analysis"
-    excerpt: "The \"Augmented Intelligence Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Technology, Enterprise Size, End-User, and Geography\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2020-10-02T09:39:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/augmented-intelligence-market-forecast-to-2027-covid-19-impact-and-global-analysis-1029643338"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 25
-  - title: "Diagnosing COVID From a Person’s Voice"
-    excerpt: "Researchers are exploring ways to use people’s vocalizations to diagnose coronavirus infections, dementia and depression"
-    publishedDateTime: 2020-10-03T14:12:00Z
-    webUrl: "https://www.scientificamerican.com/article/diagnosing-covid-from-a-persons-voice/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 24
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/8C8D39AD-D5B6-4D5E-9EED7869DE114047.jpg"
-        width: 790
-        height: 496
         isCached: true
 
 secured: "XC6HLkImi2zGtde5+4MujzaNoL+0ajmY4zliqKyR8j3hArGxbAc6oXWbR24JNkaOVDaX/r5NaHSWPAgWYCzjSjSwYyD39hQM5xtoy+kQUHXTblKJIJJ5+TNDniy9siMGdZibIWyWRuAxRiGhN9kGy5KaAdgtjCgbQdFDs/WxeXNdIixlj6M97UFbaeJHrvjMmU1+L2i+rXjoDUqoNSUIVuAI1n8avUUd2RYrgPVZpSPhAPL7v//xEhQcIyTmECQqUqQDioSovrw8P6llzRKbb7MG2A59IRSTlh7qGyQtS3QHSrW3aKqCmmpA6qHRDzAnS/uspUwqUoCGH2vBMT8lTlecvaR66VBrjuIF+HjaWc+3m9we/SqjsRk5X8XOW6hXcJUqOZRez1IcXhx/HE0aWYojmEwxDAmXaSGVHlEThOOOhz7h+c/gmafjJKRMBaQdj548O377aKYLZ2kK/y10EXcZr2rpBu/ukhM8joVP7Bty1MqduhAX0EsAys6I54xRx3fT+dGMfSazF6sbFcJ0Mg==;gbYwKGXRMFO1bOj+peXE4A=="

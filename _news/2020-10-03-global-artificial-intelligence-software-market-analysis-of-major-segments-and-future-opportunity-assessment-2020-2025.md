@@ -27,6 +27,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 52
+  - title: "Augmented Intelligence Market Forecast to 2027 - COVID-19 Impact and Global Analysis"
+    excerpt: "The \"Augmented Intelligence Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Technology, Enterprise Size, End-User, and Geography\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2020-10-02T09:39:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/augmented-intelligence-market-forecast-to-2027-covid-19-impact-and-global-analysis-1029643338"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 25
 
 secured: "597LF0Nf9T8ZSmCSGnLQhgsc6UkKXB6XHpjXKEiqy3j7r7HUIotO/vyEOuJkyaWO1aF3rIwe84r72K4FcM1XcnBiTBgsHiQxY5/saeODiMhyNlc5RXkzW9k+EvHAktByF0s+M+StBSiw/mFuajO2z0cWCcjiIpDfh4/5hF4xqlYenuKa6zdtjmMXDe5Kff5lZkXHYrMHSyzUsUsR2sBQREu5zxx7aEgPxx7DRYomyj7Fdl8sya858rkPni4agc1F8jMzJrIMcmxQsgDtGwvuCHRznOs6Y8KPk4adnXbN668rja9Gf4gStOXtLElWTapbU54tFYV5CpVqFwYl3TDDbV4UlUDRw6XzMxR6bDEFwEs=;+FR12g43dUvDIDsoNMxbdA=="
 ---

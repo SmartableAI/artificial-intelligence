@@ -2,6 +2,182 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-09-14-nvidia-researchers-detail-ai-powered-clinical-speech-transcription-system.md",
+      "title": "Nvidia researchers detail AI-powered clinical speech transcription system",
+      "excerpt": "In a new paper, Nvidia researchers describe a system that automatically transcribes speech from clinical patients and maps it to a medical ontology.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/14/nvidia-researchers-detail-ai-powered-clinical-speech-transcription-system/",
+      "originalUrl": "https://venturebeat.com/2020/09/14/nvidia-researchers-detail-ai-powered-clinical-speech-transcription-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/14/nvidia-researchers-detail-ai-powered-clinical-speech-transcription-system/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/14/nvidia-researchers-detail-ai-powered-clinical-speech-transcription-system/amp/",
+      "publishedDateTime": "2020-09-14T07:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-deepminds-ai-is-helping-to-re-write-the-rules-of-chess.md",
+      "title": "DeepMind's AI is helping to re-write the rules of chess",
+      "excerpt": "In the game between chess and artificial intelligence, Google DeepMind's researchers have made yet another move, this time teaming up with ex-chess world champion Vladimir Kramnik to design and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/",
+      "originalUrl": "https://www.zdnet.com/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2019/04/22/bb4eab38-d3e2-4df2-97b1-00c89187ee5d/thumbnail/1200x675/a215d738dcece5fd36b570b0e7ef01a3/thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/",
+      "publishedDateTime": "2020-09-14T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess.md",
+      "title": "DeepMind's AI is helping to re-write the rules of the chess",
+      "excerpt": "In the game between chess and artificial intelligence, Google DeepMind's researchers have made yet another move, this time teaming up with ex-chess world champion Vladimir Kramnik to design and trial new AI-infused variants of the game.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/",
+      "publishedDateTime": "2020-09-14T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-rise-of-the-robots-the-nasdaq-cta-artificial-intelligence-robotics-index.md",
+      "title": "Rise of the Robots: The Nasdaq CTA Artificial Intelligence & Robotics Index",
+      "excerpt": "Mark Marex, CFA, discusses the Nasdaq CTA Artificial Intelligence & Robotics index (NQROBO) and its performance: The Nasdaq CTA Artificial Intelligence & Robotics index (NQROBO) is a modified equal-weight index created by Nasdaq in partnership with CTA.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/rise-of-the-robots%3A-the-nasdaq-cta-artificial-intelligence-robotics-index-2020-09-14",
+      "originalUrl": "https://www.nasdaq.com/articles/rise-of-the-robots%3A-the-nasdaq-cta-artificial-intelligence-robotics-index-2020-09-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/rise-of-the-robots%3A-the-nasdaq-cta-artificial-intelligence-robotics-index-2020-09-14?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/rise-of-the-robots%3A-the-nasdaq-cta-artificial-intelligence-robotics-index-2020-09-14?amp",
+      "publishedDateTime": "2020-09-14T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-how-amazon-is-using-machine-learning-to-eliminate-915000-tons-of-packaging.md",
       "title": "How Amazon is using machine learning to eliminate 915,000 tons of packaging",
       "excerpt": "ML has reduced Amazon's use of boxes from 69% to 42%, eliminating 915,000 tons of packaging material, and reducing carbon emissions significantly.",
@@ -978,192 +1154,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-arm-uk-based-chip-designer-sold-to-nvidia.md",
-      "title": "ARM: UK-based chip designer sold to Nvidia",
-      "excerpt": "But experts say one risk Nvidia faces is that the takeover could encourage ARM's wider client list to shift focus to a rival type of chip technology, which lags behind in terms of",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/technology-54142567?intlink_from_url=&link_location=live-reporting-story",
-      "originalUrl": "https://www.bbc.co.uk/news/technology-54142567?intlink_from_url=&link_location=live-reporting-story",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/13BD5/production/_113835808_armchip.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/amp/technology-54142567",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-54142567",
-      "publishedDateTime": "2020-09-13T18:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-ibm-pushes-for-us-to-limit-facial-recognition-system-exports.md",
-      "title": "IBM pushes for US to limit facial recognition system exports",
-      "excerpt": "In a letter [PDF] to the Commerce Department, IBM highlighted the need for tighter export controls for facial recognition technologies that employ for what it referred to as \"1-to-many\" matching. These suggested controls include controlling the export of both the high-resolution cameras used to collect data and the software algorithms used to analyse and match that data against a database of images,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/",
-      "originalUrl": "https://www.zdnet.com/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/",
-      "publishedDateTime": "2020-09-13T18:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-nvidia-to-officially-buy-arm-focus-on-ai-promises-neutrality.md",
-      "title": "NVIDIA to officially buy Arm, focus on AI, promises neutrality",
-      "excerpt": "Putting all speculation to rest, NVIDIA has finally announced that it is making an official bid to acquire Arm Limited from SoftBank. While the final say will be with regulators, this would mean",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/nvidia-to-officially-buy-arm-focus-on-ai-promises-neutrality-13637861/",
-      "originalUrl": "https://www.slashgear.com/nvidia-to-officially-buy-arm-focus-on-ai-promises-neutrality-13637861/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/09/nvidia-arm.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/nvidia-to-officially-buy-arm-focus-on-ai-promises-neutrality-13637861/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidia-to-officially-buy-arm-focus-on-ai-promises-neutrality-13637861/amp/",
-      "publishedDateTime": "2020-09-13T17:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-nvidia-to-acquire-arm-for-40-billion-creating-worlds-premier-computing-company-for-the-age-of-ai.md",
-      "title": "NVIDIA to Acquire Arm for $40 Billion, Creating World's Premier Computing Company for the Age of AI",
-      "excerpt": "Unites NVIDIA's leadership in artificial intelligence with Arm's vast computing ecosystem to drive innovation for all customers NVIDIA will expand Arm's",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/nvidia-to-acquire-arm-for-40-billion-creating-worlds-premier-computing-company-for-the-age-of-ai-2020-09-13-191842137",
-      "originalUrl": "https://www.marketwatch.com/press-release/nvidia-to-acquire-arm-for-40-billion-creating-worlds-premier-computing-company-for-the-age-of-ai-2020-09-13-191842137",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-13T17:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

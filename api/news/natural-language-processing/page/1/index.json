@@ -105,6 +105,48 @@
       ]
     },
     {
+      "path": "_news/2020-10-01-mcloud-brings-natural-language-processing-to-connected-workers-through-partnership-with-aiqudo.md",
+      "title": "mCloud Brings Natural Language Processing to Connected Workers through Partnership with Aiqudo",
+      "excerpt": "CNW/ - mCloud Technologies Corp. (TSXV: MCLD) (OTCQB: MCLDF) (\"mCloud\" or the \"Company\"), a leading provider of asset management solutions combining",
+      "sourceUrl": null,
+      "webUrl": "https://www.newswire.ca/news-releases/mcloud-brings-natural-language-processing-to-connected-workers-through-partnership-with-aiqudo-894258930.html",
+      "originalUrl": "https://www.newswire.ca/news-releases/mcloud-brings-natural-language-processing-to-connected-workers-through-partnership-with-aiqudo-894258930.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newswire.ca/content/dam/newswire-ca/logos/cnw_en_facebook_sharing_logo.png",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newswire",
+        "domain": "newswire.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-building-custom-language-models-to-supercharge-speech-to-text-performance-for-amazon-transcribe.md",
       "title": "Building custom language models to supercharge speech-to-text performance for Amazon Transcribe",
       "excerpt": "Amazon Transcribe is a fully-managed automatic speech recognition service (ASR) that makes it easy to add speech-to-text capabilities to voice-enabled applications. As our service grows, so does the diversity of our customer base, which now spans domains such as insurance, finance, law, real estate,",
@@ -1373,48 +1415,6 @@
       "provider": {
         "name": "Salisbury Post",
         "domain": "salisburypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-facebooks-universal-music-translator.md",
-      "title": "Facebook’s Universal Music Translator",
-      "excerpt": "Star Trek has its universal language translator and now researchers from ... was also used in the recently announced Google Duplex AI. The inspiration for it came from the human ability to ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/06/02/facebooks-universal-music-translator/",
-      "originalUrl": "https://hackaday.com/2018/06/02/facebooks-universal-music-translator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/05/universal_music_translation_fe1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,141 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-02-report-former-pelican-coach-alvin-gentry-serious-contender-to-join-doc-rivers-staff-in-philadelphia.md",
+      "title": "Report: Former Pelican coach Alvin Gentry 'serious contender' to join Doc Rivers staff in Philadelphia",
+      "excerpt": "After being fired from the New Orleans Pelicans this off-season, Alvin Gentry is likely to be apart of Doc Rivers’ staff in Philadelphia.",
+      "sourceUrl": null,
+      "webUrl": "https://inside-com.breezy.hr/",
+      "originalUrl": "https://lonzowire.usatoday.com/2020/10/01/pelicans-news-alvin-gentry-doc-rivers-head-coach/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://breezy-social-images.imgix.net/442d93c02549/social-portal.png?auto=format&h=600",
+          "width": 1143,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-01T17:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-machine-learning-can-predict-pediatric-ecmo-patients-at-risk-of-brain-injury.md",
+      "title": "Machine learning can predict pediatric ECMO patients at risk of brain injury",
+      "excerpt": "When newborn babies or children with heart or lung distress are struggling to survive, doctors often turn to a form of life support that uses artificial lungs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20201001/Machine-learning-can-predict-pediatric-ECMO-patients-at-risk-of-brain-injury.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20201001/Machine-learning-can-predict-pediatric-ECMO-patients-at-risk-of-brain-injury.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2016%2f3%2fArtificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20201001/Machine-learning-can-predict-pediatric-ECMO-patients-at-risk-of-brain-injury.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201001/Machine-learning-can-predict-pediatric-ECMO-patients-at-risk-of-brain-injury.aspx",
+      "publishedDateTime": "2020-10-01T16:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-alibaba-cloud-nears-profitability-as-customers-move-from-iaas-into-ai-data-analytics-workloads.md",
+      "title": "Alibaba Cloud nears profitability as customers move from IaaS into AI, data analytics workloads",
+      "excerpt": "Alibaba Cloud customers are moving into more demanding workloads and driving financial results. Even if Alibaba Cloud remains a mostly China cloud company it has a lot of revenue runway ahead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/alibaba-cloud-nears-profitability-as-customers-move-from-iaas-into-ai-data-analytics-workloads/",
+      "originalUrl": "https://www.zdnet.com/article/alibaba-cloud-nears-profitability-as-customers-move-from-iaas-into-ai-data-analytics-workloads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/10/01/a2830110-7534-4682-ad13-fe18a31a80f6/alibaba-cloud-stack.png",
+          "width": 1163,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/alibaba-cloud-nears-profitability-as-customers-move-from-iaas-into-ai-data-analytics-workloads/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alibaba-cloud-nears-profitability-as-customers-move-from-iaas-into-ai-data-analytics-workloads/",
+      "publishedDateTime": "2020-10-01T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-machine-learning-maximizes-email-marketing-roi-with-list-segmentation.md",
       "title": "Machine Learning Maximizes Email Marketing ROI With List Segmentation",
       "excerpt": "Your email marketing ROI can improve with the help of the superior list segmentation mechanisms that machine learning can provide.",
@@ -885,6 +1020,48 @@
       ]
     },
     {
+      "path": "_news/2020-10-01-mcloud-brings-natural-language-processing-to-connected-workers-through-partnership-with-aiqudo.md",
+      "title": "mCloud Brings Natural Language Processing to Connected Workers through Partnership with Aiqudo",
+      "excerpt": "CNW/ - mCloud Technologies Corp. (TSXV: MCLD) (OTCQB: MCLDF) (\"mCloud\" or the \"Company\"), a leading provider of asset management solutions combining",
+      "sourceUrl": null,
+      "webUrl": "https://www.newswire.ca/news-releases/mcloud-brings-natural-language-processing-to-connected-workers-through-partnership-with-aiqudo-894258930.html",
+      "originalUrl": "https://www.newswire.ca/news-releases/mcloud-brings-natural-language-processing-to-connected-workers-through-partnership-with-aiqudo-894258930.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newswire.ca/content/dam/newswire-ca/logos/cnw_en_facebook_sharing_logo.png",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newswire",
+        "domain": "newswire.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-01-this-10-week-programme-aims-to-help-founders-of-ml-startups-achieve-scale.md",
       "title": "This 10-week programme aims to help founders of ML startups achieve scale",
       "excerpt": "ML Elevate is an intensive, 10-week programme designed to enable early-stage core ML startup founders to build, grow and scale in a holistic manner by providing the right combination of tools, resources and insights from industry leaders across a host of verticals.",
@@ -1018,190 +1195,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-googles-new-machine-learning-tool-turns-your-awful-humming-into-a-beautiful-violin-solo.md",
-      "title": "Google’s new machine learning tool turns your awful humming into a beautiful violin solo",
-      "excerpt": "I often sit on my sofa and hum tunes that I made up in my head. While doing that, I also imagine that my automatically gets converted to a beautiful musical piece. Google‘s new machine learning algorithm experiment,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/10/01/googles-new-machine-learning-tool-turns-your-awful-humming-into-a-beautiful-violin-solo/",
-      "originalUrl": "https://thenextweb.com/neural/2020/10/01/googles-new-machine-learning-tool-turns-your-awful-humming-into-a-beautiful-violin-solo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Tone-transfer-796x418.jpg",
-          "width": 796,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/10/01/googles-new-machine-learning-tool-turns-your-awful-humming-into-a-beautiful-violin-solo/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/01/googles-new-machine-learning-tool-turns-your-awful-humming-into-a-beautiful-violin-solo/amp/",
-      "publishedDateTime": "2020-10-01T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-saas-based-startup-infilect-raises-15-mn-in-pre-series-a-round.md",
-      "title": "SaaS-Based Startup Infilect Raises $1.5 Mn In Pre-Series A Round",
-      "excerpt": "Bangalore-based software-as-a-service (SaaS) startup Infilect has raised USD 1.5 million in Pre-series A round. The investment round was led by Mela Ventures and 1Crowd along with participation from The Chennai Angles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/357009",
-      "originalUrl": "https://www.entrepreneur.com/article/357009",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1601530012-Infilect-Founders-Logo2.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/357009",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/357009",
-      "publishedDateTime": "2020-09-30T22:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-legaltech-artificial-intelligence-market-to-witness-a-sizable-expansion-of-3594-cagr-by-2026-zion-market-research.md",
-      "title": "LegalTech Artificial Intelligence Market To Witness A Sizable Expansion of 35.94% CAGR by 2026 – Zion Market Research",
-      "excerpt": "According to the report, the global legaltech artificial intelligence market was valued at approximately USD 3,245 million in 2018 and is expected to generate around USD 37,858 million by 2026, at a CAGR of around 35.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/marketersmedia/technology-business-corporate-news-technology-issues-computer-and-data-security-6170fb08a59333afc9d0d5a88c330456",
-      "originalUrl": "https://apnews.com/press-release/marketersmedia/technology-business-corporate-news-technology-issues-computer-and-data-security-6170fb08a59333afc9d0d5a88c330456",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T19:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-va-boston-and-bu-researchers-use-machine-learning-to-streamline-the-diagnostic-tool-for-ptsd.md",
-      "title": "VA Boston and BU researchers use machine learning to streamline the diagnostic tool for PTSD",
-      "excerpt": "Post-traumatic stress disorder (PTSD) affects eight million adults in the US, including hundreds of thousands of veterans of the conflicts in Iraq and Afghanistan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20200930/VA-Boston-and-BU-researchers-use-machine-learning-to-streamline-the-diagnostic-tool-for-PTSD.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20200930/VA-Boston-and-BU-researchers-use-machine-learning-to-streamline-the-diagnostic-tool-for-PTSD.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2016%2f3%2fAbstract_medicine_background-Hilch-1000_f0a8c263e6e04ed18dfcc5ef27c17907-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200930/VA-Boston-and-BU-researchers-use-machine-learning-to-streamline-the-diagnostic-tool-for-PTSD.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200930/VA-Boston-and-BU-researchers-use-machine-learning-to-streamline-the-diagnostic-tool-for-PTSD.aspx",
-      "publishedDateTime": "2020-09-30T17:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

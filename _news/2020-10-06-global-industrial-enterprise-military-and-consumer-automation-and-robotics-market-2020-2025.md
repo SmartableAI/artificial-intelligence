@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/global-industrial-
 webUrl: "https://markets.businessinsider.com/news/stocks/global-industrial-enterprise-military-and-consumer-automation-and-robotics-market-2020-2025-1029650836"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: Business Insider
@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "Augmented Intelligence Market Forecast to 2027 - COVID-19 Impact and Global Analysis"
+    excerpt: "The \"Augmented Intelligence Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Technology, Enterprise Size, End-User, and Geography\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2020-10-02T09:39:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/augmented-intelligence-market-forecast-to-2027-covid-19-impact-and-global-analysis-1029643338"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 25
   - title: "Global Artificial Intelligence Software Market Analysis of Major Segments and Future Opportunity Assessment 2020-2025"
     excerpt: "The contemporary development prediction report titled Global Artificial Intelligence Software Market 2020 by Company, Regions, Type and Application, Forecast to 2025 provides an all-inclusive research study that covers current facts and statistics about the production and application in the Artificial Intelligence Software market."
     publishedDateTime: 2020-10-03T00:26:00Z

@@ -25,121 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence can detect COVID-19 faster and easier"
-    excerpt: "Multiple scientific studies have uncovered how to use artificial intelligence to detect, but not prevent, the latest coronavirus."
-    publishedDateTime: 2020-10-02T07:46:00Z
-    webUrl: "https://calvinayre.com/2020/10/02/life/artificial-intelligence-can-detect-covid-19-faster-and-easier/"
-    ampWebUrl: "https://calvinayre.com/2020/10/02/life/artificial-intelligence-can-detect-covid-19-faster-and-easier/amp/"
-    cdnAmpWebUrl: "https://calvinayre-com.cdn.ampproject.org/c/s/calvinayre.com/2020/10/02/life/artificial-intelligence-can-detect-covid-19-faster-and-easier/amp/"
+  - title: "In the age of Covid, these robots are giving surgeons peace of mind"
+    excerpt: "The NHS is using AI to help make operations faster, safer and more efficient. One state-of-the art robot has been a gamechanger"
+    publishedDateTime: 2020-10-05T16:41:00Z
+    webUrl: "https://www.telegraph.co.uk/health-fitness/body/age-covid-robots-giving-surgeons-peace-mind/"
+    ampWebUrl: "https://www.telegraph.co.uk/health-fitness/body/age-covid-robots-giving-surgeons-peace-mind/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/health-fitness/body/age-covid-robots-giving-surgeons-peace-mind/amp/"
     type: article
     provider:
-      name: CalvinAyre
-      domain: calvinayre.com
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
     quality: 59
     images:
-      - url: "https://calvinayre.com/wp-content/uploads/2020/10/artificial-intelligence-can-detect-covid-19-faster-and-easier.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.telegraph.co.uk/content/dam/health-fitness/2020/09/30/TELEMMGLPICT000226077656_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg"
+        width: 2501
+        height: 1563
         isCached: true
-  - title: "Local startup is using AI to detect Covid-19"
-    excerpt: "Local startup DetectNow is using AI to detect Covid-19. The startup, registered with National Incubation Center(NIC), uses AI to detect the presence of coronavi"
-    publishedDateTime: 2020-10-05T22:56:00Z
-    webUrl: "https://tribune.com.pk/story/2267058/local-startup-is-using-ai-to-detect-covid-19"
-    ampWebUrl: "https://tribune.com.pk/story/2267058/local-startup-is-using-ai-to-detect-covid-19"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2267058/local-startup-is-using-ai-to-detect-covid-19"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 57
-    images:
-      - url: " https://i.tribune.com.pk/media/images/DNPK1601906236-0/DNPK1601906236-0.jpg  "
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Researchers use artificial intelligence to detect COVID-19 in hospital patients"
-    excerpt: "Researchers at the University of Minnesota and M Health Fairview are developing a new technology that uses artificial intelligence to help doctors detect COVID-19 in hospital patients."
-    publishedDateTime: 2020-10-02T01:26:00Z
-    webUrl: "https://www.fox9.com/news/researchers-use-artificial-intelligence-to-detect-covid-19-in-hospital-patients"
-    ampWebUrl: "https://www.fox9.com/news/researchers-use-artificial-intelligence-to-detect-covid-19-in-hospital-patients.amp"
-    cdnAmpWebUrl: "https://www-fox9-com.cdn.ampproject.org/c/s/www.fox9.com/news/researchers-use-artificial-intelligence-to-detect-covid-19-in-hospital-patients.amp"
-    type: article
-    provider:
-      name: Fox 9
-      domain: fox9.com
-    quality: 55
-    images:
-      - url: "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2020/10/932/470/chest-xray-ai-covid-detection.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
-  - title: "Researchers develop artificial intelligence for early prediction of COVID-19 from standard blood tests"
-    excerpt: "A group of researchers have developed artificial intelligence (AI) that accurately predicts COVID-19 infection from standard blood tests. The AI solution has the potential to increase testing ..."
-    publishedDateTime: 2020-10-05T13:51:00Z
-    webUrl: "https://medicalxpress.com/news/2020-10-artificial-intelligence-early-covid-standard.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-10-artificial-intelligence-early-covid-standard.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-artificial-intelligence-early-covid-standard.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 41
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/11-covid.jpg"
-        width: 1920
-        height: 1025
-        isCached: true
-  - title: "Artificial Intelligence Simplifies COVID-19 Testing, Workflows"
-    excerpt: "Tufts Medical Center will leverage an artificial intelligence platform to accelerate the COVID-19 testing process."
-    publishedDateTime: 2020-10-01T17:05:00Z
-    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-simplifies-covid-19-testing-workflows"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2017-03-30_health_quality_improvements.jpg"
-        width: 686
-        height: 396
-        isCached: true
-  - title: "Effect of Machine Learning on Business Opportunities in the COVID-19 Pandemic."
-    excerpt: "March 2020 saw the rise of COVID-19 and with this, people from all over the world became susceptible to this dangerous virus that has proven to be fatal in many countries. According to research and market analysis,"
-    publishedDateTime: 2020-10-01T17:11:00Z
-    webUrl: "https://www.politicmag.net/press-releases/effect-of-machine-learning-on-business-opportunities-in-the-covid-19-pandemic-13755-2020/"
-    type: article
-    provider:
-      name: politicmag.net
-      domain: politicmag.net
-    quality: 35
-    images:
-      - url: "https://www.politicmag.net/wp-content/uploads/2020/10/Effect-of-Machine-Learning-on-Business-Opportunities-in-the-COVID-19-Pandemic.png"
-        width: 940
-        height: 788
-        isCached: true
-  - title: "How This Food-Tech Startup Is Using AI & Cloud To Make Cafeterias COVID-Safe"
-    excerpt: "Analytics India Magazine got in touch with the founders of the food-tech startup HungerBox to understand the tech behind it."
-    publishedDateTime: 2020-10-05T04:32:00Z
-    webUrl: "https://analyticsindiamag.com/how-this-food-tech-startup-is-using-ai-cloud-to-make-cafeterias-covid-safe/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 34
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/aim_hungerbx.jpg"
-        width: 1600
-        height: 901
-        isCached: true
-  - title: "Augmented Intelligence Market Forecast to 2027 - COVID-19 Impact and Global Analysis"
-    excerpt: "The \"Augmented Intelligence Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Technology, Enterprise Size, End-User, and Geography\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2020-10-02T09:39:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/augmented-intelligence-market-forecast-to-2027-covid-19-impact-and-global-analysis-1029643338"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 25
 
 secured: "/BRtfeDLeWzp/vMv+QPyjbYRGoNYsdBtU1DBohKnRs/WCSa6rvnwljnvCA2Uhop0R3/5qZVyKRjOQAbb3zXf6rBz59PBT6/z12GNAWJ8zS9U39LMK/ckStILhRUzeRFrIHudb6qX7Q9HzWKwOkNxexeWzPoolI+OeTsmHI32seQH5rzCsvMyBaFpsrJPgqxlfN3QEj+Lr4GJ3RomJ/cg2eN2sIr8VeNGMLQZjaxic8NvLAOvi4s+JrxzNaHZBlPNvnNzeVrtW7FTnfR5GhE0yZoDdvDOeNNbg6Vsnl4QmMmNyBkNAc6rdBxsM82JPri2Pgmkscn+Cw1i+R2C+tT/CF8SwuqYTKmZEDgV6SQQNDXPuONT2Zh04Ve+8WIsIkP5UvyjgWrsZZcjKE+ehdPQFoedJOowDE91ht7WBH1yQfyHSdwhazvDRQr186DDd17m3USQGt1HBpCNK4LQwmjlgSFAnlad/RwgnN2GWSdFQUZqaaYdO+CmQxQGUs9bk/QubJyUsBHpxIEYd7DURrGq/Q==;gtqbkBamTrSBt0dWXN/Bsg=="
 ---

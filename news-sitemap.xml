@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startup-helps-hospitals-navigate-operational-troubles-of-covid-19-and-beyond/</loc>
+    <lastmod>2020-10-06T03:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startup-raised-15-million-to-help-patients-transcribe-doctor-appointments-and-decode-jargon/</loc>
     <lastmod>2020-10-06T02:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/global-industrial-enterprise-military-and-consumer-automation-and-robotics-market-2020-2025-1029650836</loc>
+    <lastmod>2020-10-06T01:22:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -229,6 +241,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/announcing-the-winner-of-the-aws-deepcomposer-chartbusters-the-sounds-of-science-challenge/</loc>
+    <lastmod>2020-10-02T09:58:30-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.digitaltrends.com/features/court-decides-robots-machines-cant-be-inventors/</loc>
     <lastmod>2020-10-02T09:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -271,12 +289,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://calvinayre.com/2020/10/02/life/artificial-intelligence-can-detect-covid-19-faster-and-easier/</loc>
-    <lastmod>2020-10-02T00:46:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://mobile.twitter.com/BernardMarr?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor</loc>
     <lastmod>2020-10-01T21:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -291,6 +303,12 @@
   <url>
     <loc>https://inside-com.breezy.hr/</loc>
     <lastmod>2020-10-01T17:11:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.news-medical.net/news/20201001/Machine-learning-can-predict-pediatric-ECMO-patients-at-risk-of-brain-injury.aspx</loc>
+    <lastmod>2020-10-01T16:44:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -405,6 +423,12 @@
   <url>
     <loc>https://www.zdnet.com/article/amazon-timestream-database-is-now-generally-available/</loc>
     <lastmod>2020-10-01T05:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.newswire.ca/news-releases/mcloud-brings-natural-language-processing-to-connected-workers-through-partnership-with-aiqudo-894258930.html</loc>
+    <lastmod>2020-10-01T04:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1951,14 +1975,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace/article_f6c327bd-10d4-5df0-beed-77fd9ceef60a.html</loc>
-    <lastmod>2020-09-22T05:30:00-07:00</lastmod>
+    <loc>https://www.openpr.com/news/2139411/covid-19-impact-on-ai-medicine-software-market-outlook</loc>
+    <lastmod>2020-09-22T05:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.openpr.com/news/2139411/covid-19-impact-on-ai-medicine-software-market-outlook</loc>
-    <lastmod>2020-09-22T05:28:00-07:00</lastmod>
+    <loc>https://www.prnewswire.com/news-releases/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-301135412.html</loc>
+    <lastmod>2020-09-22T05:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

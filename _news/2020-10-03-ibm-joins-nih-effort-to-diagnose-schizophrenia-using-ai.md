@@ -30,17 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Brings Artificial Intelligence At Scale To The Marketing And Media Industry"
-    excerpt: "PRNewswire/ -- IBM (NYSE: IBM) today announced three new products to add to its growing suite of AI solutions for brand"
-    publishedDateTime: 2020-10-05T12:43:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-1029648095"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-1029648095"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-1029648095"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
   - title: "Faster cancer diagnoses using Artificial Intelligence"
     excerpt: "The future is here: an e-commerce and gaming giant teamed up with an Artificial Intelligence (AI) startup in Japan to create an innovative, promising solution to diagnose – and fight – cancer using QIAGENs QIAseq Kits for next-generation sequencing."
     publishedDateTime: 2020-10-02T04:13:00Z
@@ -54,6 +43,20 @@ related:
       - url: "http://www.qiagen.com/-/media/project/qiagen/qiagen-home/stories/faster-cancer-diagnoses-with-artificial-intelligence/qiaseq-hero-story-1.jpg"
         width: 640
         height: 360
+        isCached: true
+  - title: "IBM Brings Artificial Intelligence At Scale To The Marketing And Media Industry"
+    excerpt: "PRNewswire/ -- IBM (NYSE: IBM) today announced three new products to add to its growing suite of AI solutions for brand and publishers. The new"
+    publishedDateTime: 2020-10-05T12:25:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-301145605.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+        width: 2698
+        height: 1414
         isCached: true
 
 secured: "D9w4qcxSs85MX9etgYIeF1n5VsWCY+n4VH8vSOHdRjq1aHWH8NdpGY5hYaB5ujEKyvsnocdDBiQ8svqs4G3SDiW5L9t6Qzx080QYT4ZFbpzreFK/P8sVcLzRZ7bB1cKm2WKqhkrH19lNXJPDICWuIaDO0Dvuy/3m9vqIcapTiB4pzkhhKYpnf5/ycoO3+W1Khq48LB/riAH0MTh4o9TQ3IpirUV4o+FqINGVDgVUBxKkhLx04MqIFJmsmn7bOH0cR5GzEFTzvmsOKfagx3sEuqTPrtj5Ofg8Uk/IzgIko6JEKtVa5jm6I9P/fmiFkKna0Yfrhehe1fzdG3YlFt3Chl2GfElM4dtOtRwchV9AWeq7PNdgAJTlViYZjUlS53R0NvIqKr8ramWnfNJwklc+jD0KqK+o92pKkKjTprNC37Y2Gnh3oePmRfTGsuDXvCmJxBDYyNLpjnS3N8tHTrKKCk5JHSDa+q/ZdAZQ8q2vGEIacivHxxlf/+VdvPmGDOG3m/VUbHVY7fnwELPJx95m1g==;c7tiZovG3dKnuPqglQtyXw=="

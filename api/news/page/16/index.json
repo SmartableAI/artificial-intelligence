@@ -2,6 +2,192 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-09-21-tag-aws-reinvent-2018.md",
+      "title": "Tag: AWS re:Invent 2018",
+      "excerpt": "Hypertext is one of South Africa’s leading technology news and reviews sites, catering for consumers, small and medium businesses and the technology channel. We publish original content daily ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.htxt.co.za/topics/aws-reinvent-2018/",
+      "originalUrl": "https://www.htxt.co.za/topics/aws-reinvent-2018/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-20T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Htxt.Africa",
+        "domain": "htxt.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-aws-vs-azure-vs-google-cloud-which-certification-is-best-for-professionals.md",
+      "title": "AWS vs Azure vs Google Cloud – Which certification is best for professionals??",
+      "excerpt": "In this post, we will pit AWS vs Azure vs Google Cloud, to explore which platform makes the most sense for professionals to learn depending on your skills, goals, and experience. A cloud platform is a collection of services,",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/aws-vs-azure-vs-google-cloud-1159412/",
+      "originalUrl": "https://www.androidauthority.com/aws-vs-azure-vs-google-cloud-1159412/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/03/Man-Laptop-Network-Server-920x470.jpg",
+          "width": 920,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.androidauthority.com/aws-vs-azure-vs-google-cloud-1159412/amp/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/aws-vs-azure-vs-google-cloud-1159412/amp/",
+      "publishedDateTime": "2020-09-20T14:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-global-natural-language-processing-nlp-market-2020-key-players-data-revenue-future-development-trend-and-competitive-landscape-analysis.md",
+      "title": "Global Natural Language Processing (NLP) Market 2020 Key Players Data, Revenue, Future Development, Trend and Competitive Landscape Analysis by 2025",
+      "excerpt": "We, MarketsandResearch.biz have introduced a new research study titled Global Natural Language Processing (NLP) Market 2020 by Company, Regions, Type and Application, Forecast to 2025 which contains a comprehensive database on future market estimation based on historical data analysis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2020-key-players-data-revenue-future-development-trend-and-competitive-landscape-analysis-by-2025-2020-09-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2020-key-players-data-revenue-future-development-trend-and-competitive-landscape-analysis-by-2025-2020-09-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-20T11:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-20-how-ai-platforms-are-improving-talent-management-in-2020.md",
+      "title": "How AI Platforms Are Improving Talent Management In 2020",
+      "excerpt": "It's encouraging to see how AI platforms evaluate candidates on their capabilities while anonymizing factors that might lead to hiring bias.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/20/how-ai-platforms-are-improving-talent-management-in-2020/",
+      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/20/how-ai-platforms-are-improving-talent-management-in-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F483424715%2F0x0.jpg%3FcropX1%3D967%26cropX2%3D5727%26cropY1%3D0%26cropY2%3D2234",
+          "width": 1200,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/20/how-ai-platforms-are-improving-talent-management-in-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/09/20/how-ai-platforms-are-improving-talent-management-in-2020/amp/",
+      "publishedDateTime": "2020-09-20T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-20-artificial-intelligence-expert-warns-of-potential-disaster-of-ai-bias.md",
       "title": "Artificial Intelligence: Expert warns of ‘potential disaster’ of AI bias",
       "excerpt": "ARTIFICIAL INTELLIGENCE (AI) systems face a fundamental threat due to the influence of inherent bias, an expert has warned.",
@@ -959,207 +1145,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-artificial-intelligence-market-growth-prospects-key-vendors-future-scenario-forecast-to-2026.md",
-      "title": "Artificial Intelligence Market Growth Prospects, Key Vendors, Future Scenario Forecast to 2026",
-      "excerpt": "Market Study Report, LLC's latest research report on 'Artificial Intelligence Market' delivers a comprehensive",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-growth-prospects-key-vendors-future-scenario-forecast-to-2026-2020-09-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-growth-prospects-key-vendors-future-scenario-forecast-to-2026-2020-09-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-18T10:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-this-300-ai-powered-toothbrush-left-me-with-that-post-dentist-just-got-robbed-kind-of-feeling.md",
-      "title": "This $300 AI-Powered Toothbrush Left Me With That Post-Dentist, Just-Got-Robbed Kind of Feeling",
-      "excerpt": "When I purchased my first electric toothbrush about a year and a half ago, a Quip, it felt like an outrageous indulgence. Fifty-five dollars seemed far too steep for something so silly, but I wanted to make a long-term investment in healthy teeth,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/this-300-ai-powered-toothbrush-left-me-with-that-post-1845057139",
-      "originalUrl": "https://gizmodo.com/this-300-ai-powered-toothbrush-left-me-with-that-post-1845057139",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/zo1zr178zh9y6rokclmx.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/this-300-ai-powered-toothbrush-left-me-with-that-post-1845057139/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-300-ai-powered-toothbrush-left-me-with-that-post-1845057139/amp",
-      "publishedDateTime": "2020-09-18T10:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-the-ai-landscape-is-shifting-from-data-to-knowledge-heres-why-that-matters.md",
-      "title": "The AI landscape is shifting from ‘data’ to ‘knowledge.’ Here’s why that matters",
-      "excerpt": "The Artificial Intelligence (AI) revolution was ignited more than half a century ago. In the last decade, AI has grown from an academic scientific field to start being a practical part of our everyday lives.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/09/18/the-ai-landscape-is-shifting-from-data-to-knowledge-heres-why-that-matters/",
-      "originalUrl": "https://thenextweb.com/neural/2020/09/18/the-ai-landscape-is-shifting-from-data-to-knowledge-heres-why-that-matters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/05/shutterstock_255260497-796x529.jpg",
-          "width": 796,
-          "height": 529,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/09/18/the-ai-landscape-is-shifting-from-data-to-knowledge-heres-why-that-matters/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/18/the-ai-landscape-is-shifting-from-data-to-knowledge-heres-why-that-matters/amp/",
-      "publishedDateTime": "2020-09-18T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-conversational-ai-startup-genietalk-bags-angel-investment-of-750k-at-10-mn-valuation.md",
-      "title": "Conversational AI Startup GenieTalk Bags Angel Investment of $750k At $10 Mn Valuation",
-      "excerpt": "The company will deploy the fresh funds for developing phase one of its SaaS-based platform that helps businesses build tailored and personalized AI-powered virtual assistants, referred to as chatbots",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/356409",
-      "originalUrl": "https://www.entrepreneur.com/article/356409",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1600454548-Genieteamedit.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/356409",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356409",
-      "publishedDateTime": "2020-09-18T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

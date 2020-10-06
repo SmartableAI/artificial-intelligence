@@ -2,6 +2,183 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-09-25-ai-machine-learning-breakthrough-is-a-twist-on-brain-replay.md",
+      "title": "AI Machine Learning Breakthrough Is a Twist on Brain Replay",
+      "excerpt": "From a neuroscience perspective, the concept of brain replay is analogous to a streaming service that activates repeat showings from its vast archives of stored pre-recorded content. The brain can replay memories by reactivating the neural activity patterns that represent prior experiences whether asleep or awake.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202009/ai-machine-learning-breakthrough-is-twist-brain-replay",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202009/ai-machine-learning-breakthrough-is-twist-brain-replay",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.psychologytoday.com/sites/default/files/styles/magazine_240x308/public/field_magazine_cover/2020-09.png?itok=8uWeigq4",
+          "width": 384,
+          "height": 504,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202009/ai-machine-learning-breakthrough-is-twist-brain-replay?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202009/ai-machine-learning-breakthrough-is-twist-brain-replay?amp",
+      "publishedDateTime": "2020-09-24T21:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-ai-system-detects-loneliness-in-natural-speech-patterns.md",
+      "title": "AI system detects loneliness in natural speech patterns",
+      "excerpt": "A new proof of concept study, led by researchers at University of California San Diego School of Medicine, has demonstrated how speech-analyzing artificial intelligence tools can effectively predict the level of loneliness in older adults.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/health-wellbeing/ai-loneliness-natural-speech-language/",
+      "originalUrl": "https://newatlas.com/health-wellbeing/ai-loneliness-natural-speech-language/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/78f4ee9/2147483647/strip/true/crop/2000x1333+0+4/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fc1%2F6c%2F6dec48c041d6aa9d714bfb5dfa8a%2Fdepositphotos-59728757-l-2015.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/health-wellbeing/ai-loneliness-natural-speech-language/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/health-wellbeing/ai-loneliness-natural-speech-language/?amp=true",
+      "publishedDateTime": "2020-09-24T19:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.md",
+      "title": "Microsoft Ignite showcases first Project Cortex AI tool for SharePoint",
+      "excerpt": "Civil engineering firm Mott McDonald has been testing SharePoint Syntex, the first product to come out of Microsoft’s Project Cortex proving ground for AI-based content management tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.html",
+      "originalUrl": "https://www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/09/multiple-exposure_profile_with_gears_overlaying_and_representing_the_brain_thought_intelligence_brainstorming_strategy_by_metamorworks_gettyimages-994767724_2400x1600-100858219-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.amp.html",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.amp.html",
+      "publishedDateTime": "2020-09-24T18:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-monash-university-researchers-speed-up-epilepsy-diagnosis-with-machine-learning.md",
+      "title": "Monash University researchers speed up epilepsy diagnosis with machine learning",
+      "excerpt": "A new study by Monash University, together with Alfred Health and The Royal Melbourne Hospital, has uncovered how machine learning technology could be used to automate epilepsy diagnosis. As part of the study,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/monash-university-researchers-speed-up-epilepsy-diagnosis-with-machine-learning/",
+      "originalUrl": "https://www.zdnet.com/article/monash-university-researchers-speed-up-epilepsy-diagnosis-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/monash-university-researchers-speed-up-epilepsy-diagnosis-with-machine-learning/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/monash-university-researchers-speed-up-epilepsy-diagnosis-with-machine-learning/",
+      "publishedDateTime": "2020-09-24T17:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-spectrum-labs-raises-10m-for-its-ai-based-platform-to-combat-online-toxicity.md",
       "title": "Spectrum Labs raises $10M for its AI-based platform to combat online toxicity",
       "excerpt": "With the U.S. presidential election now 40 days away, all eyes are focused on how online conversations, in conjunction with other hallmarks of online life like viral videos, news clips and misleading ads,",
@@ -1038,209 +1215,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-japan-looks-to-ai-as-coronavirus-challenges-go-and-see-quality-control-mantra.md",
-      "title": "Japan looks to AI as coronavirus challenges go-and-see quality control mantra",
-      "excerpt": "Improvements in artificial intelligence (AI) have come in tandem with increasingly ... Since the breakthrough, Poliakine’s startup SixAI and Musashi Seimitsu have established MusashiAI, a joint venture which develops and hires out quality control robots ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-japan-factory-rebo/japan-looks-to-ai-as-coronavirus-challenges-go-and-see-quality-control-mantra-idUSKCN26F2HB",
-      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-japan-factory-rebo/japan-looks-to-ai-as-coronavirus-challenges-go-and-see-quality-control-mantra-idUSKCN26F2HB",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200924&t=2&i=1535279049&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8N1CP",
-          "width": 745,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN26F2HB",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26F2HB",
-      "publishedDateTime": "2020-09-24T07:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-rephraseai-raises-15m-to-use-synthetic-media-for-personalized-sales-pitches.md",
-      "title": "Rephrase.ai raises $1.5M to use synthetic media for personalized sales pitches",
-      "excerpt": "Bangalore-based Rephrase.ai has an ambitious vision for reshaping how movies and videos are made. CEO Ashray Malhotra laid it out for me yesterday, saying that his co-founder Nisheeth Lahoti “came up with this concept — he wants to build an engine that can take any script as input and create",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/24/rephrase-ai-seed-funding/",
-      "originalUrl": "https://techcrunch.com/2020/09/24/rephrase-ai-seed-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-24-at-10.05.15-AM.jpg?w=1024",
-          "width": 1024,
-          "height": 577,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/24/rephrase-ai-seed-funding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/24/rephrase-ai-seed-funding/amp/",
-      "publishedDateTime": "2020-09-24T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women.md",
-      "title": "In facial recognition challenge, top-ranking algorithms show bias against Black women",
-      "excerpt": "The results from a recent facial recognition competition demonstrate that even the best algorithms are still prone to gender and racial bias.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/",
-      "originalUrl": "https://venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1199708189-e1600898324155.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/amp/",
-      "publishedDateTime": "2020-09-24T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-fortnite-challenge-how-to-make-a-stark-robot-dance.md",
-      "title": "‘Fortnite’ Challenge: How To Make A Stark Robot Dance",
-      "excerpt": "Fortnite has a new set of challenges that have just gone live this morning, including one very unique one that asks players to make a Stark Robot dance. How do you do this? It’s something I’ve never actually done before this challenge,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/paultassi/2020/09/24/fortnite-challenge-how-to-make-a-stark-robot-dance/",
-      "originalUrl": "https://www.forbes.com/sites/paultassi/2020/09/24/fortnite-challenge-how-to-make-a-stark-robot-dance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6c88d20885bdb2f9c85d00%2F0x0.jpg",
-          "width": 1199,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2020/09/24/fortnite-challenge-how-to-make-a-stark-robot-dance/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2020/09/24/fortnite-challenge-how-to-make-a-stark-robot-dance/amp/",
-      "publishedDateTime": "2020-09-24T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
