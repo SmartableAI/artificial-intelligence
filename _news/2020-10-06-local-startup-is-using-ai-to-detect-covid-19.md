@@ -1,29 +1,28 @@
 ---
 category: news
-title: "Researchers use artificial intelligence to detect COVID-19 in hospital patients"
-excerpt: "Researchers at the University of Minnesota and M Health Fairview are developing a new technology that uses artificial intelligence to help doctors detect COVID-19 in hospital patients."
-publishedDateTime: 2020-10-02T01:26:00Z
-originalUrl: "https://www.fox9.com/news/researchers-use-artificial-intelligence-to-detect-covid-19-in-hospital-patients"
-webUrl: "https://www.fox9.com/news/researchers-use-artificial-intelligence-to-detect-covid-19-in-hospital-patients"
-ampWebUrl: "https://www.fox9.com/news/researchers-use-artificial-intelligence-to-detect-covid-19-in-hospital-patients.amp"
-cdnAmpWebUrl: "https://www-fox9-com.cdn.ampproject.org/c/s/www.fox9.com/news/researchers-use-artificial-intelligence-to-detect-covid-19-in-hospital-patients.amp"
+title: "Local startup is using AI to detect Covid-19"
+excerpt: "Local startup DetectNow is using AI to detect Covid-19. The startup, registered with National Incubation Center(NIC), uses AI to detect the presence of coronavi"
+publishedDateTime: 2020-10-05T22:56:00Z
+originalUrl: "https://tribune.com.pk/story/2267058/local-startup-is-using-ai-to-detect-covid-19"
+webUrl: "https://tribune.com.pk/story/2267058/local-startup-is-using-ai-to-detect-covid-19"
+ampWebUrl: "https://tribune.com.pk/story/2267058/local-startup-is-using-ai-to-detect-covid-19"
+cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2267058/local-startup-is-using-ai-to-detect-covid-19"
 type: article
-quality: 55
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Fox 9
-  domain: fox9.com
+  name: The Express Tribune
+  domain: tribune.com.pk
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2020/10/932/470/chest-xray-ai-covid-detection.jpg?ve=1&tl=1"
-    width: 932
-    height: 470
+  - url: " https://i.tribune.com.pk/media/images/DNPK1601906236-0/DNPK1601906236-0.jpg  "
+    width: 900
+    height: 600
     isCached: true
 
 related:
@@ -75,21 +74,21 @@ related:
         width: 2501
         height: 1563
         isCached: true
-  - title: "Local startup is using AI to detect Covid-19"
-    excerpt: "Local startup DetectNow is using AI to detect Covid-19. The startup, registered with National Incubation Center(NIC), uses AI to detect the presence of coronavi"
-    publishedDateTime: 2020-10-05T22:56:00Z
-    webUrl: "https://tribune.com.pk/story/2267058/local-startup-is-using-ai-to-detect-covid-19"
-    ampWebUrl: "https://tribune.com.pk/story/2267058/local-startup-is-using-ai-to-detect-covid-19"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2267058/local-startup-is-using-ai-to-detect-covid-19"
+  - title: "Researchers use artificial intelligence to detect COVID-19 in hospital patients"
+    excerpt: "Researchers at the University of Minnesota and M Health Fairview are developing a new technology that uses artificial intelligence to help doctors detect COVID-19 in hospital patients."
+    publishedDateTime: 2020-10-02T01:26:00Z
+    webUrl: "https://www.fox9.com/news/researchers-use-artificial-intelligence-to-detect-covid-19-in-hospital-patients"
+    ampWebUrl: "https://www.fox9.com/news/researchers-use-artificial-intelligence-to-detect-covid-19-in-hospital-patients.amp"
+    cdnAmpWebUrl: "https://www-fox9-com.cdn.ampproject.org/c/s/www.fox9.com/news/researchers-use-artificial-intelligence-to-detect-covid-19-in-hospital-patients.amp"
     type: article
     provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 57
+      name: Fox 9
+      domain: fox9.com
+    quality: 55
     images:
-      - url: " https://i.tribune.com.pk/media/images/DNPK1601906236-0/DNPK1601906236-0.jpg  "
-        width: 900
-        height: 600
+      - url: "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2020/10/932/470/chest-xray-ai-covid-detection.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
         isCached: true
   - title: "Crown Point will not install facial recognition cameras to help in COVID-19 contact tracing"
     excerpt: "Crown Point, Indiana will not be installing a facial recognition network camera system to fight COVID-19, the city announced Sunday."
@@ -136,6 +135,6 @@ related:
         height: 496
         isCached: true
 
-secured: "XC6HLkImi2zGtde5+4MujzaNoL+0ajmY4zliqKyR8j3hArGxbAc6oXWbR24JNkaOVDaX/r5NaHSWPAgWYCzjSjSwYyD39hQM5xtoy+kQUHXTblKJIJJ5+TNDniy9siMGdZibIWyWRuAxRiGhN9kGy5KaAdgtjCgbQdFDs/WxeXNdIixlj6M97UFbaeJHrvjMmU1+L2i+rXjoDUqoNSUIVuAI1n8avUUd2RYrgPVZpSPhAPL7v//xEhQcIyTmECQqUqQDioSovrw8P6llzRKbb7MG2A59IRSTlh7qGyQtS3QHSrW3aKqCmmpA6qHRDzAnS/uspUwqUoCGH2vBMT8lTlecvaR66VBrjuIF+HjaWc+3m9we/SqjsRk5X8XOW6hXcJUqOZRez1IcXhx/HE0aWYojmEwxDAmXaSGVHlEThOOOhz7h+c/gmafjJKRMBaQdj548O377aKYLZ2kK/y10EXcZr2rpBu/ukhM8joVP7Bty1MqduhAX0EsAys6I54xRx3fT+dGMfSazF6sbFcJ0Mg==;gbYwKGXRMFO1bOj+peXE4A=="
+secured: "QuqskWWqQzi1K41aj3AjYAQZqIgYU8tgwpBGuYVoiY66vL789X7hpLnyKVV1ey/xsdmDraNKbVVTxHjmCj2UGUZ2tXwg1CintyBwAFFAUeVacyhhIITHQ1G88+lGUA61dDSm5jm1dWT6cYbYJA/E55SZVwdW2ti+QaHHVigs/1F4v5BDncbGf2d0Rnlxv32wrABCLmKjr6iHJhy2c6cWaXE4NeDtGKl4OJpKErmt51t946zta0i3N41m+BNylOGGPUvBtu2AwCYGfWH6W8MzCZOpRCsXEqas1XgX743Ax/wEtv8clz6Zxam40u29DH28BvY5uXdcD6CMUV2ukqSPfZ1XyiZ4Jrq1AproFzwADjA=;RBPNmeN7GACoZZPzUb5tRQ=="
 ---
 

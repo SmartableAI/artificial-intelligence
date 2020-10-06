@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/03/tire-blowouts-c
 webUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/03/tire-blowouts-could-cause-self-driving-cars-to-go-astray/"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/53023/content/Tesla_Model_S.jpg"
         width: 708
         height: 386
-        isCached: true
-  - title: "World-first testing system aims to end dangerous confusion around “self-driving” cars"
-    excerpt: "A new testing standard which ranks the assisted driving systems of new cars has been launched in an effort to reduce confusion around the current technology. A growing number of cars are being sold with systems - such as Tesla’s Autopilot and BMW’s Driving Assistant Professional - which claim to ease the strain on drivers by offering support to keep a car in its lane and maintain a safe distance to other vehicles even when moving through traffic jams."
-    publishedDateTime: 2020-10-01T06:32:00Z
-    webUrl: "https://www.sunderlandecho.com/lifestyle/cars/world-first-testing-system-aims-end-dangerous-confusion-around-self-driving-cars-2988937"
-    type: article
-    provider:
-      name: Sunderland Echo
-      domain: sunderlandecho.com
-    quality: 32
-    images:
-      - url: "https://www.sunderlandecho.com/images-i.jpimedia.uk/imagefetch/https://jpgreatcontent.co.uk/wp-content/uploads/2020/09/Audi-Q8_CCRs_straight-lane.jpg"
-        width: 1620
-        height: 1080
         isCached: true
   - title: "Former Saab plant could be used to build NEVS self-driving cars"
     excerpt: "The former Saab plant in Trollhättan, Sweden, hasn't built a car since 2013, but it could be up and running again if current owner NEVS finds success with its new Sango self-driving car. The Sango is a six-seat shuttle that NEVS plans to operate on a trial basis in the Swedish capital Stockholm starting in late 2021."

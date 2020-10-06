@@ -9,7 +9,7 @@ ampWebUrl: "https://www.azonano.com/amp/article.aspx?ArticleID=5561"
 cdnAmpWebUrl: "https://www-azonano-com.cdn.ampproject.org/c/s/www.azonano.com/amp/article.aspx?ArticleID=5561"
 type: article
 quality: 70
-heat: 70
+heat: 71
 published: true
 
 provider:

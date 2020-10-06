@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/bolstering-robotics-enterprise-po
 webUrl: "https://www.analyticsinsight.net/bolstering-robotics-enterprise-potential-using-ai-applications/"
 type: article
 quality: 69
-heat: 100
+heat: 99
 published: true
 
 provider:

@@ -1,22 +1,27 @@
 ---
 category: news
-title: "NVIDIA Announces Partnership with GSK’s AI-Powered Lab for Discovery of Medicines and Vaccines"
-excerpt: "GSK has recently established a new London- based AI hub, one of the first of its kind, which will leverage GSK’ s significant genetic and genomic data to improve the process of designing and developing transformational medicines and vaccines."
-publishedDateTime: 2020-10-05T14:00:00Z
-originalUrl: "https://www.nasdaq.com/press-release/nvidia-announces-partnership-with-gsks-ai-powered-lab-for-discovery-of-medicines-and"
-webUrl: "https://www.nasdaq.com/press-release/nvidia-announces-partnership-with-gsks-ai-powered-lab-for-discovery-of-medicines-and"
+title: "Nvidia Opens GTC with Plans for AI Supercomputer for Biomedical Research"
+excerpt: "Given the COVID-19 pandemic, Nvidia’s announcement of plans to build a new AI supercomputer – Cambridge-1 – dedicated to biomedical research and"
+publishedDateTime: 2020-10-05T22:04:00Z
+originalUrl: "https://www.hpcwire.com/2020/10/05/nvidia-opens-gtc-with-plans-for-ai-supercomputer-for-biomedical-research/"
+webUrl: "https://www.hpcwire.com/2020/10/05/nvidia-opens-gtc-with-plans-for-ai-supercomputer-for-biomedical-research/"
 type: article
-quality: 37
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: HPCwire
+  domain: hpcwire.com
 
 topics:
-  - AI Hardware
   - AI
+
+images:
+  - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/nvidia-dgx-superpod_630x.jpg"
+    width: 630
+    height: 307
+    isCached: true
 
 related:
   - title: "GTC 2020 round-up: Nvidia announces virtual world for robots, AI video calls"
@@ -170,20 +175,15 @@ related:
         width: 2696
         height: 1414
         isCached: true
-  - title: "Nvidia Opens GTC with Plans for AI Supercomputer for Biomedical Research"
-    excerpt: "Given the COVID-19 pandemic, Nvidia’s announcement of plans to build a new AI supercomputer – Cambridge-1 – dedicated to biomedical research and"
-    publishedDateTime: 2020-10-05T22:04:00Z
-    webUrl: "https://www.hpcwire.com/2020/10/05/nvidia-opens-gtc-with-plans-for-ai-supercomputer-for-biomedical-research/"
+  - title: "NVIDIA Announces Partnership with GSK’s AI-Powered Lab for Discovery of Medicines and Vaccines"
+    excerpt: "GSK has recently established a new London- based AI hub, one of the first of its kind, which will leverage GSK’ s significant genetic and genomic data to improve the process of designing and developing transformational medicines and vaccines."
+    publishedDateTime: 2020-10-05T14:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/nvidia-announces-partnership-with-gsks-ai-powered-lab-for-discovery-of-medicines-and"
     type: article
     provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 36
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/nvidia-dgx-superpod_630x.jpg"
-        width: 630
-        height: 307
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 37
   - title: "NVIDIA Announces Cloud-AI Video-Streaming Platform to Better Connect Millions Working and Studying Remotely"
     excerpt: "NVIDIA today announced the NVIDIA Maxine platform, which provides developers with a cloud-based suite of GPU-accelerated AI video conferencing software to enhance streaming video— the internet’ s No."
     publishedDateTime: 2020-10-05T14:00:00Z
@@ -226,6 +226,6 @@ related:
       domain: seekingalpha.com
     quality: 15
 
-secured: "hahKG1mekh0v6QDU8YpMAmCAJEkJ6elJkq7pYlzBjJ1TRZzZrY+nAEIdxUt9zivCAnIwJZC7Jp/a7pHJpViOQPS/ppl8MH29YW5O+2mslxW5Km0QqPG39yazwES6SpPmH91fF+Hgdi2OK/zWheoBLtj4G2pgVV6+GD0XKTWGE1KuSL4uFTLhw2fyZVpvefkS7oxnm/BMd8e/PPrWPCvaB2MbdUWAfFlEXkDKhSClb0AKVHCaRF8wJPRyYzb53cTGy/DMiRmMdpvjqaE5bPkRI1hDWWei8+C/QXiPz9hKeyn6PLjAb6MoiyuV/NDGBs30SQAQ7hFJYQR5nDj4odRDnDsZKn8DMjNTfFwUKAzcBS0=;s4g44Ryvbi8Fd1aLI3ak4w=="
+secured: "4uC2t2lnFXURxFyYor8hqoLaoQRUtFlUh3bQADrrHE7qiViBNWZSlhfNeH99icY2rhbc61jREp1k2TZkM8gKqKlDXeE/BiPQY31suNJ5yROaLS/0q2JYXiX6BUBCg1Y9/Imw7FK9Z0GiBKcG7b3BC5B2yURkJDp+UJ03NmzaV1dtM7EPYqm74O+IErbAezxVt6Kz5QZe5tR6dYg+bwmEVfe0gWDh4ZnOm88vD7DtSv8/JqxAXuVwrMjlT5n23nnJJYZ3wM0T02aBuQEBjig+xYXYAVo07JppjhhQD+NTUpryMsj9eNDQDmT52P4blMkSNRrryaRs+7pYP7fHze67yuNt544nYzjccEEFX4LPI4U=;qyrYhnPSm+HJ9jCPXN2YBA=="
 ---
 

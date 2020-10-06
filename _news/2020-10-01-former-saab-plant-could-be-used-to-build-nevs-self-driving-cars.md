@@ -55,20 +55,6 @@ related:
         width: 708
         height: 386
         isCached: true
-  - title: "World-first testing system aims to end dangerous confusion around “self-driving” cars"
-    excerpt: "A new testing standard which ranks the assisted driving systems of new cars has been launched in an effort to reduce confusion around the current technology. A growing number of cars are being sold with systems - such as Tesla’s Autopilot and BMW’s Driving Assistant Professional - which claim to ease the strain on drivers by offering support to keep a car in its lane and maintain a safe distance to other vehicles even when moving through traffic jams."
-    publishedDateTime: 2020-10-01T06:32:00Z
-    webUrl: "https://www.sunderlandecho.com/lifestyle/cars/world-first-testing-system-aims-end-dangerous-confusion-around-self-driving-cars-2988937"
-    type: article
-    provider:
-      name: Sunderland Echo
-      domain: sunderlandecho.com
-    quality: 32
-    images:
-      - url: "https://www.sunderlandecho.com/images-i.jpimedia.uk/imagefetch/https://jpgreatcontent.co.uk/wp-content/uploads/2020/09/Audi-Q8_CCRs_straight-lane.jpg"
-        width: 1620
-        height: 1080
-        isCached: true
 
 secured: "/HmwpLzof3OrZabrXKFw4rkJ7rHxeckzF/ehNXd6zebgjHeNKRtgoxQ39jSBeQzNyL+qmTC9ZOMv/h51jIQMvch+TehuYq1Kcp7Ys0PO7HblGaw+IolmazrfONJXE9E1nF0ZmfFkP7TClFbvcgEdsuHMI5k3BIdSYcjCeinjzxGIk8uE2h5mJC03inTgnGJgO9ro2Zoi34qG/rua9oPsvRJxWn8vz3GZNayRW2B9SoPsHSzAcIKGvYwMxPa56EE7EaQTdTEsJhKJQtOzldlGqXe7assi9evUcNap3ZKZ3ShgjEk80EyBc4hiRb8bG+X4xGW5ElB6wSDG9raNT0FnL2toR+08gv/GstRV5FKjssza2s372IuG052mOF4lGRFJ4euhSRqaG7k1iGcVtAiuxEg9YZgSyBdRGTBXi3CfsXlsK6XMDl/Wdmnye4fx5zD6G16ugrRrUXo2faHQ2nrRKeK8VM5s0i7iGt/mGHkT/G06ga2+Hd1AUaj+Gw7oiFMegUG+bqLas0E+3G8q+1/b1A==;wFnIwuW7P4e1DY8K4rQUNw=="
 ---

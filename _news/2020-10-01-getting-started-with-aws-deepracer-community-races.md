@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/getting-started-with
 webUrl: "https://aws.amazon.com/blogs/machine-learning/getting-started-with-aws-deepracer-community-races/"
 type: article
 quality: 121
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 758
     height: 630
     isCached: true
+
+related:
+  - title: "Collaborating with AI to create Bach-like compositions in AWS DeepComposer"
+    excerpt: "AWS DeepComposer provides a creative and hands-on experience for learning generative AI and machine learning (ML). We recently launched the Edit melody feature, which allows you to add, remove, or edit specific notes, giving you full control of the pitch, length, and timing for each note. In this post,"
+    publishedDateTime: 2020-10-05T22:27:35Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/collaborating-with-ai-to-create-bach-like-compositions-in-aws-deepcomposer/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 102
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/02/3-.jpg"
+        width: 900
+        height: 546
+        isCached: true
 
 secured: "0kk1CxRjPl5sctItw3k/18YljLt1uloUyNezMErNrZZxRerRQ4QiSwCSaJHTMZjkZmsyL6D/uBOSq/2GWtm88KxHxTQPFie785Ntw/tJc2O64bCeB6hS8rp/4zcs50o+DeL8xc7jzOQQWlxArnJ+53UCwi3DPzDWmJp2mgsLxuw60r1Nqt9Ydf8LxKqu5cFoSZC5XLQGXhNqcrZhStQkuqFlIJAJrBDbWg7OjnWH7oGCqemeRQv3LpkHfYaAjyxqGwVtGphCUPMHyXX9wbfbEKoECXPXVUAZw39KaO7QAd9jLLnLsdTsfPRyrGZGKNyqgoj5f1gW3FRXBez+WzJqC4A0B6G26irpzIV7aDPPfqk=;WWo9BwrFQ8Sfq61Dc8C1Xg=="
 ---

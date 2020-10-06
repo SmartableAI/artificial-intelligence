@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/williamarruda/2020/10/01/will-we-go-bac
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamarruda/2020/10/01/will-we-go-back-to-being-robots-after-covid-19/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.telegraph.co.uk/content/dam/health-fitness/2020/09/30/TELEMMGLPICT000226077656_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg"
         width: 2501
         height: 1563
+        isCached: true
+  - title: "Local startup is using AI to detect Covid-19"
+    excerpt: "Local startup DetectNow is using AI to detect Covid-19. The startup, registered with National Incubation Center(NIC), uses AI to detect the presence of coronavi"
+    publishedDateTime: 2020-10-05T22:56:00Z
+    webUrl: "https://tribune.com.pk/story/2267058/local-startup-is-using-ai-to-detect-covid-19"
+    ampWebUrl: "https://tribune.com.pk/story/2267058/local-startup-is-using-ai-to-detect-covid-19"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2267058/local-startup-is-using-ai-to-detect-covid-19"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 57
+    images:
+      - url: " https://i.tribune.com.pk/media/images/DNPK1601906236-0/DNPK1601906236-0.jpg  "
+        width: 900
+        height: 600
         isCached: true
   - title: "Researchers use artificial intelligence to detect COVID-19 in hospital patients"
     excerpt: "Researchers at the University of Minnesota and M Health Fairview are developing a new technology that uses artificial intelligence to help doctors detect COVID-19 in hospital patients."

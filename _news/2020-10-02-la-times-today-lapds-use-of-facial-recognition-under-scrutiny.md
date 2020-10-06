@@ -36,20 +36,6 @@ related:
       name: Governing
       domain: governing.com
     quality: 39
-  - title: "Detroit City Council defies public opposition and renews facial recognition contract"
-    excerpt: "A majority of the council of nine Democrats voted to approve a two-year, $220,000 upgrade and maintenance contract with South Carolina-based DataWorks Plus."
-    publishedDateTime: 2020-10-01T06:05:00Z
-    webUrl: "https://www.wsws.org/en/articles/2020/10/01/face-o01.html"
-    type: article
-    provider:
-      name: World Socialist Web Site
-      domain: wsws.org
-    quality: 34
-    images:
-      - url: "https://www.wsws.org/asset/7bc3d8bc-010b-4206-9b76-a0d92688751e/image.jpg"
-        width: 550
-        height: 309
-        isCached: true
 
 secured: "ozSYECLd/11tYfaGzhGjV3jiwyGbVG1HRt9yReqoZS5HvX2nFgSlvxFEgfQYmZR3mT/hnjJqQ157n8vxAxsnEKR5oE79/ba6Xnp0jQoDnpKf8qcp9bU+gJSz8L4voREwehDgG13sQXlLvfqfN3GA0tb1hlxapzSZDRuNmgLFjeCHeRclFrwXxKUPU7G0ZRQ/2gHIbl+LVfHEJWKC0oexEo9APq3bPXKrkHrV301m2lUf+KDZ3CBwx/HYSr7ydh5c0XkRjcJt/eMDXZoGFOokyhTETsgubc7yvVj0ch5J1AAHUGuR4fJqi4x1CKOqUKVAm++P0IhMnW+01EfmeLaF1/izl3GydMd7+0g5IxlDAJM=;Sr59qSJJO0fy5xLNntkIDQ=="
 ---

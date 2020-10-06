@@ -1,22 +1,30 @@
 ---
 category: news
-title: "NVIDIA Announces Partnership with GSK’s AI-Powered Lab for Discovery of Medicines and Vaccines"
-excerpt: "GSK has recently established a new London- based AI hub, one of the first of its kind, which will leverage GSK’ s significant genetic and genomic data to improve the process of designing and developing transformational medicines and vaccines."
-publishedDateTime: 2020-10-05T14:00:00Z
-originalUrl: "https://www.nasdaq.com/press-release/nvidia-announces-partnership-with-gsks-ai-powered-lab-for-discovery-of-medicines-and"
-webUrl: "https://www.nasdaq.com/press-release/nvidia-announces-partnership-with-gsks-ai-powered-lab-for-discovery-of-medicines-and"
+title: "VMware, Nvidia partner to boost AI, networking capabilities"
+excerpt: "If there was any doubt Nvidia has arrived as an enterprise player, its deal with VMware should erase all doubt. The GPU developer and VMware announced at the recent VMworld 2020 conference that they plan to integrate their respective core technologies through a series of development and networking partnerships."
+publishedDateTime: 2020-10-05T22:12:00Z
+originalUrl: "https://www.networkworld.com/article/3584403/vmware-nvidia-partner-to-boost-ai-networking-capabilities.html"
+webUrl: "https://www.networkworld.com/article/3584403/vmware-nvidia-partner-to-boost-ai-networking-capabilities.html"
+ampWebUrl: "https://www.networkworld.com/article/3584403/vmware-nvidia-partner-to-boost-ai-networking-capabilities.amp.html"
+cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3584403/vmware-nvidia-partner-to-boost-ai-networking-capabilities.amp.html"
 type: article
-quality: 37
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Network World
+  domain: networkworld.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://images.idgesg.net/images/article/2020/05/nvidia-a100-gpu-100842029-large.jpg"
+    width: 1200
+    height: 678
+    isCached: true
 
 related:
   - title: "GTC 2020 round-up: Nvidia announces virtual world for robots, AI video calls"
@@ -124,22 +132,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 64
-  - title: "VMware, Nvidia partner to boost AI, networking capabilities"
-    excerpt: "If there was any doubt Nvidia has arrived as an enterprise player, its deal with VMware should erase all doubt. The GPU developer and VMware announced at the recent VMworld 2020 conference that they plan to integrate their respective core technologies through a series of development and networking partnerships."
-    publishedDateTime: 2020-10-05T22:12:00Z
-    webUrl: "https://www.networkworld.com/article/3584403/vmware-nvidia-partner-to-boost-ai-networking-capabilities.html"
-    ampWebUrl: "https://www.networkworld.com/article/3584403/vmware-nvidia-partner-to-boost-ai-networking-capabilities.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3584403/vmware-nvidia-partner-to-boost-ai-networking-capabilities.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/05/nvidia-a100-gpu-100842029-large.jpg"
-        width: 1200
-        height: 678
-        isCached: true
   - title: "NVIDIA Maxine uses AI to improve video calls and conferencing"
     excerpt: "NVIDIA announced the NVIDIA Maxine platform, which uses AI to improve video calls and streaming ... Developers can apply for early access to NVIDIA Maxine now to start working on integrating the platform with their services and apps."
     publishedDateTime: 2020-10-05T15:55:00Z
@@ -170,6 +162,15 @@ related:
         width: 2696
         height: 1414
         isCached: true
+  - title: "NVIDIA Announces Partnership with GSK’s AI-Powered Lab for Discovery of Medicines and Vaccines"
+    excerpt: "GSK has recently established a new London- based AI hub, one of the first of its kind, which will leverage GSK’ s significant genetic and genomic data to improve the process of designing and developing transformational medicines and vaccines."
+    publishedDateTime: 2020-10-05T14:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/nvidia-announces-partnership-with-gsks-ai-powered-lab-for-discovery-of-medicines-and"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 37
   - title: "Nvidia Opens GTC with Plans for AI Supercomputer for Biomedical Research"
     excerpt: "Given the COVID-19 pandemic, Nvidia’s announcement of plans to build a new AI supercomputer – Cambridge-1 – dedicated to biomedical research and"
     publishedDateTime: 2020-10-05T22:04:00Z
@@ -226,6 +227,6 @@ related:
       domain: seekingalpha.com
     quality: 15
 
-secured: "hahKG1mekh0v6QDU8YpMAmCAJEkJ6elJkq7pYlzBjJ1TRZzZrY+nAEIdxUt9zivCAnIwJZC7Jp/a7pHJpViOQPS/ppl8MH29YW5O+2mslxW5Km0QqPG39yazwES6SpPmH91fF+Hgdi2OK/zWheoBLtj4G2pgVV6+GD0XKTWGE1KuSL4uFTLhw2fyZVpvefkS7oxnm/BMd8e/PPrWPCvaB2MbdUWAfFlEXkDKhSClb0AKVHCaRF8wJPRyYzb53cTGy/DMiRmMdpvjqaE5bPkRI1hDWWei8+C/QXiPz9hKeyn6PLjAb6MoiyuV/NDGBs30SQAQ7hFJYQR5nDj4odRDnDsZKn8DMjNTfFwUKAzcBS0=;s4g44Ryvbi8Fd1aLI3ak4w=="
+secured: "bLdrsYmFVVjfXzALe+7KNU5NtI5PUqk5B20ekRkWy8I0GSH37wAw8bOrE6TrWjWYxbWvGmjWwArI5mXMZE+RNTlKLNL1Y7v142pHps79PkqWRJu+CkjwDfl71xAG8IUwvVaZoawTtKsiwT1guneFqTrOYvyf3A/XUGtVvW4tSHgtxf0PKHKolTzGQfkSqw8nmsm+3QaZBrl+dtU0b82l+eJFWxHo/NhpfVwwyvJiF084rmSUN/JU/sv7MVjy9oKMnL0IMdchwX05zyWCwNzgMFZm2BEyjXGRdmwnuxQyVNmbL/fZj7isCOKZSy59SrJ3c1wnjwyJ1+pvX3bc2jRmyVURyB9E0WU/xK9XAMDx3Zo=;R7QucY/M6qFtj+KhGf7dZg=="
 ---
 

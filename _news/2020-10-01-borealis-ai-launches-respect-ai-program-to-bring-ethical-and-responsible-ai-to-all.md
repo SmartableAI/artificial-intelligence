@@ -24,6 +24,22 @@ images:
     height: 315
     isCached: true
 
+related:
+  - title: "Responsible Artificial Intelligence for Social Empowerment"
+    excerpt: "Ravi Shankar Prasad Success of Digital India has set a new global benchmark for leveraging digital technologies for inclusive growth, good governance and"
+    publishedDateTime: 2020-10-05T19:08:00Z
+    webUrl: "https://www.dailyexcelsior.com/responsible-artificial-intelligence-for-social-empowerment/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 39
+    images:
+      - url: "https://www.dailyexcelsior.com/wp-content/uploads/2018/08/dailyexcelsior.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "OkymQexc7SrhLpfyoZEContsTf/R72XKK6llTQeMqQwDO6L8SNfZUmNPh9K6dHyRyAfFXAdNta085ziupwFDn4dc/y64f4EslkRP6runJY+JSpNYCZgjSlYdhizRfhba4FCywsxE+Xk2HpZnw5/A9sqV/4BjkTlYX7MOG/GVCNSYEtesyQKWAbtQDxPL/V3iIYEdTGlEKldruTi6CTpwLqHCF856GMaX9PcBNtzLI34klF3ZKox2thokjA9yjIcgXPzl1m3FM3lMNivi9IO04ea0y/C9Ic5jCEnQIrmUw/AgN+JvEj5eKOCQHxH7pwZLFz2wJ9WzH4tJ84t8gjUpzMeTjBCAZcatBaOivpU6OAI=;t0gnVaHD+PW5rKhdT7Hezw=="
 ---
 
