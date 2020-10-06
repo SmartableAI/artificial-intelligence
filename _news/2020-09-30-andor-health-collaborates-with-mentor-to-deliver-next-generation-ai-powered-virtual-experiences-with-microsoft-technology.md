@@ -1,61 +1,20 @@
 ---
 category: news
 title: "Andor Health Collaborates with Mentor to Deliver Next Generation, AI-Powered Virtual Experiences with Microsoft Technology"
-excerpt: "Andor Health and Mentor Worldwide LLC have formed a collaboration to provide the aesthetic physician community with the next-generation virtual health experiences to enhance the relationship between a surgeon and their patients."
-publishedDateTime: 2020-09-30T13:30:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-medical-technology-health-artificial-intelligence-computing-and-information-technology-7ebeb192b3437584eac7a740d6619523"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-medical-technology-health-artificial-intelligence-computing-and-information-technology-7ebeb192b3437584eac7a740d6619523"
+excerpt: "Andor Health and Mentor Worldwide LLC have formed a collaboration to provide the aesthetic physician community with the next-generation virtual health experiences to"
+publishedDateTime: 2020-09-30T13:52:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/andor-health-collaborates-with-mentor-to-deliver-next-generation-ai-powered-virtual-experiences-with-microsoft/article_87104374-4495-5f9b-9707-4d6892880d0d.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/andor-health-collaborates-with-mentor-to-deliver-next-generation-ai-powered-virtual-experiences-with-microsoft/article_87104374-4495-5f9b-9707-4d6892880d0d.html"
 type: article
-quality: 28
-heat: -1
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-related:
-  - title: "From Microsoft VP to law student: What this exec’s career transition says about AI and the law"
-    excerpt: "Mike Angiulo worked at Microsoft for 25 years as an engineering manager and vice president for products including Windows PCs, Microsoft Outlook, Xbox, Surface, and cloud and artificial"
-    publishedDateTime: 2020-09-30T21:20:00Z
-    webUrl: "https://www.geekwire.com/2020/microsoft-vp-law-student-execs-career-transition-says-ai-law/"
-    ampWebUrl: "https://www.geekwire.com/2020/microsoft-vp-law-student-execs-career-transition-says-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-vp-law-student-execs-career-transition-says-ai-law/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 92
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/09/mike-angiulo-2-630x420.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "Oracle and Microsoft Introduce Enhanced AI Capabilities for Customer Data Platforms"
-    excerpt: "Oracle added machine learning capabilities to its CX Unity product and Microsoft announced a new engagement insights feature for its CDP."
-    publishedDateTime: 2020-10-02T10:51:00Z
-    webUrl: "https://www.chiefmarketer.com/oracle-and-microsoft-introduce-enhanced-ai-capabilities-for-customer-data-platforms/"
-    type: article
-    provider:
-      name: Chief Marketer
-      domain: chiefmarketer.com
-    quality: 48
-    images:
-      - url: "https://www.chiefmarketer.com/wp-content/uploads/2020/10/istock-653137006-scaled.jpg"
-        width: 1024
-        height: 724
-        isCached: true
-
-secured: "qOftniNQFPNbyFskn4DxCxUD8q7YtFbwcgsGtHNYE9p5M4M9wzYgpWisyWS/Ly0mqp9l6LenU4hbgyUEVYjBH7EW5UAZtBBzwdNnBmIDpT4I0QAfMaJN6ZaLXJZqXy5mMASfnD47cehIccOOuhnC5l7zPCYMxpzbcxKDVGGVFhpYXiK8K0ukEqoFYZ8IpUo6wAtKaAYiC6z2wFYkv7Shv5uDS3wYhBxFGh3IfVMD5L75tzt+GLgiBWS4Sej3UHyutW5RkulhvA1Cbzb2gxFmZLWjOhVTWv3nQsKjQda19yLFmlfhkkRi96z0bLvHG9T5KQwfvplV7QF+lEuFUvejXTaBgdga3PCKi2/agVZ9NAM=;fHOSugV4x9S5rKZzB0YUwA=="
+secured: "vS5r/AhtLtxAfbP/Ua2PX5PHKRXGXFCJ6THuCA2ultZcMgqCh8trMDDiW0RK3JTW/YLjoQ/J+kMmK6fnnMMIHfnOMUOBQcXTDbfatlBLQJdOcHNSJrSWvOIjJZKtvjp+Qdqo4es0uwGmn3z5qAWBfMfnpqNjvYebD+uSvVX2AK3b4bAl/QAmiJxny/7pZvAuD5MyvbJQn/i/L27LuN51hyyHEzfT42WNKEryDzpiyFUU7+7cS4FTezF2eDqlwcyY2qTqeLKMlT0r8lZBdZEQ5jSf+6iO03X+kT4gq/ULU6mR0NDdULAwJTURjBFepW77Kmz0uXiRhUPoQosU2ms+ukgyGG6y6/v0K0eD3BeS6mLREMOL5vbBGccdIpJNeekzRcaM8mP4oI9nsWWTHpnEFGgwq3AbL/lDHVAQxakLJsvRXE2D5YXY6YIM563/xFtAYaViMmluQ4BYBs6XQTmHI3TKooQHQ+SbMXjumo8julb91evuOTIPzpZ3bRkknwpAICQqlusT56u9IjJBb2jieQ==;ZJOZP8qIE1OzZgMm5aoLvQ=="
 ---
 

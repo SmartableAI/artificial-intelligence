@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/10/05/nvidia-pledges-to-build-britains
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/05/nvidia-pledges-to-build-britains-largest-supercomputer.html"
 type: article
 quality: 148
-heat: 198
+heat: 208
 published: true
 
 provider:
@@ -87,6 +87,20 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/nvidia-dgx-superpod_630x.jpg"
         width: 630
         height: 307
+        isCached: true
+  - title: "LiU to Build Sweden’s Largest Supercomputer for AI"
+    excerpt: "The Knut and Alice Wallenberg Foundation has donated SEK 300 million (USD ~33.6 million) to Linköping University and the National"
+    publishedDateTime: 2020-10-06T15:46:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/liu-to-build-swedens-largest-supercomputer-for-ai/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 37
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/black-hole-collision.fw_-405x228.png"
+        width: 405
+        height: 228
         isCached: true
   - title: "With SuperPod, Nvidia makes supercomputing a bigger focus of its AI strategy"
     excerpt: "Nvidia Corp. opened its virtual GPU Technology Conference today by introducing a host of new artificial intelligence technologies, including an infrastructure offering that will a"

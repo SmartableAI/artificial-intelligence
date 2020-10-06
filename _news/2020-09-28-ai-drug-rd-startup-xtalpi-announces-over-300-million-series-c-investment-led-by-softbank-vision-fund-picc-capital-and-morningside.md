@@ -1,25 +1,19 @@
 ---
 category: news
 title: "AI Drug R&D Startup XtalPi Announces Over 300 Million Series C Investment Led by SoftBank Vision Fund, PICC Capital, and Morningside"
-excerpt: "PRNewswire/ -- XtalPi, an Artificial Intelligence (AI) drug discovery and development technology company, today announces an oversubscribed Series C"
+excerpt: "CAMBRIDGE, Mass. and SHENZHEN, China, Sept. 28, 2020 /PRNewswire/ -- XtalPi, an Artificial Intelligence (AI) drug discovery and development technology company, today announces an oversubscribed Series C funding of $318."
 publishedDateTime: 2020-09-28T13:41:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/ai-drug-rd-startup-xtalpi-announces-over-300-million-series-c-investment-led-by-softbank-vision-fund-picc-capital-and-morningside-301139002.html"
-webUrl: "https://www.prnewswire.com/news-releases/ai-drug-rd-startup-xtalpi-announces-over-300-million-series-c-investment-led-by-softbank-vision-fund-picc-capital-and-morningside-301139002.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ai-drug-r-d-startup-xtalpi-announces-over-300-million-series-c-investment-led-by/article_a1fdd46a-63bc-50db-ae02-e4b6b3b97a7d.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ai-drug-r-d-startup-xtalpi-announces-over-300-million-series-c-investment-led-by/article_a1fdd46a-63bc-50db-ae02-e4b6b3b97a7d.html"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/632519/XtalPi_Logo.jpg?p=facebook"
-    width: 1000
-    height: 524
-    isCached: true
-
-secured: "YyIkj3H9jA85PCd/7MkW7GdgsslAZiJfQ+PovZZ730h1I1h/FRCrVzig0cVvtco2EYMeijsuaf4Ov+a6P7/Ukp/sDiHzwtneMg34Esdtpdjj2z8mZjAceSLRFG3OYJOZSDE934gY2d9iLwS4FtJNi6f0g9p9/A0Zo6PML7oVmJlZooWiGPaUp5fDuu1EzvnJ2GncITL/SVa8s5Kqpl1oTs4Xsu1T25Og/cBZx5+UZSNx/UNLlhJEgv774RBGJZYbWmBUx/iyBgI/Y/Ke9yHlcCTSiNI+5/aUCj1ZRoDb0O4ftmHgTdUp3eVO3f7Cr/WF8n7l6irMhQ5dV5dPpbiBjhtrxBn6gy4UZYl8SbIU7NM=;twjNV5Nu3zECdQa0ZlZT0Q=="
+secured: "tfeMp/JnY4YqCxmbnnHSEpXT0FZ240V/reNtZRK8oWwD5NH0o+y8DUgETus2cpWOqL1d7ua+qUXTYooxhUaw06B+GmVHJUWErWu4P+fZ4g6NRyMMJDh4AYHbmc4apOGzLIl3YnukmSbLwz7uyz4XM046C2Q7FR9RMydfZR6IRwkSQOjn9cHEf08ypEDRYTJlh2gdZEDTnojrdktsIgwOqAzn0NT/BT2p3AsyP60s+rzWZvsczri/06x33YIKF5EJJKVZNwN11QpXb3FNgcQs9g+k5gKQAY2Qx1mV13yGdXoTWfQXmeooag0u309PDnRxLgvlmpcoMuMb+gjnH+7HR+439PNnHHXj11dgFdYel7zFcsrm7HO56XXy7NvkBCtDLk5Rg1Na5DQHotSYutJoWs9QL5K6DqfRJz6eOwcgX3FtEZmf30lOUjqtEkO0Ei0Gmu9jhdjbq0OqXsNpSLkoBcrRV2/Nq9u/A/6Uf7zdt2Xl/1zLWENoA4CeM1u6MZB08nd9imfACBp4GlceclL7lQ==;+EjaoW2TMHxGhfp+NKNr4Q=="
 ---
 

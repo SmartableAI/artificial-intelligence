@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/nvidia-jetson-nano-2gb-is-59-gateway-into-
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidia-jetson-nano-2gb-is-59-gateway-into-ai-and-robotics-05641043/amp/"
 type: article
 quality: 121
-heat: 191
+heat: 201
 published: true
 
 provider:
@@ -106,6 +106,22 @@ related:
       - url: "https://247wallst.com/wp-content/uploads/2020/07/imageForEntry48-Txa.jpg?w=400"
         width: 400
         height: 225
+        isCached: true
+  - title: "NVIDIA flexes its edge, AI muscles"
+    excerpt: "NVIDIA is becoming more influentialUnveils broad range of new products and initiativesStrengthens its support for Arm, which it plans to buy for $40 billion"
+    publishedDateTime: 2020-10-06T15:36:00Z
+    webUrl: "https://www.telecomtv.com/content/digital-platforms-services/nvidia-flexes-its-edge-ai-muscles-39838/"
+    ampWebUrl: "https://www.telecomtv.com/content/digital-platforms-services/nvidia-flexes-its-edge-ai-muscles-39838/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/nvidia-flexes-its-edge-ai-muscles-39838/amp/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 59
+    images:
+      - url: "https://assets.telecomtv.com/assets/telecomtv/nvidia-ceo-10089.jpeg?w=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "NVIDIA takes on Raspberry Pi with $59 Jetson Nano machine learning computer"
     excerpt: "Entering as a more affordable to tinker with machine learning, the new NVIDIA Jetson Nano 2GB debuts with a $59 price tag, USB-C, and more."

@@ -51,6 +51,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 0
+  - title: "The top Austin tech and startup executive hires and layoffs (September 2020)"
+    excerpt: "Austin companies generate new technology jobs every day, even during a pandemic. And as local startups rise and companies continue to move their headquarters from out-of-state to join Austin’s tech ecosystem,"
+    publishedDateTime: 2020-10-06T14:48:00Z
+    webUrl: "https://www.bizjournals.com/austin/inno/stories/roundups/2020/10/06/austin-tech-and-startup-hires-of-september.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "K9xYvwQNYVNMHNhdrRRXKVis5QSnvXfNMryocugZ0LiH3QIZBgR3aKR12wkU6/j+kCGR87qJBBcMdx5u7UoytGSUG7MaeSiJG9Uf1hkpATDy+K6/lo6T47HF59zqMIK3Ig8ecwJPhH0ZlHtSnt623++3xYuPLK668eSRDRMcNpNwksZojOGcMD54SOxUK61Lp5TArmGjj9I0pVvXrhB+NaHv4ZoO9COrgyz9Aov1ePjNUMudFGf6Fy/alyV6WxJyGVo3Bdfec4+u3PrazlTTrv6Wr/cBYC6Ckvt1n3h9CXszj1ItvVVj4uDFdAmV8Tp57zooDc+CB5KWBWdzjSuZNhWSjki5y3n5VeOfPcBgbNm5k2qe3GJaAb+qF3DdaW7prfIkqy2vfBoTYPySOYkjnXAsAwGfmnAHlJ/R1AU60/UefRevOipRldeHT+YY8qGgHV0rO1gRGKcumQyreIZ6KygPm/Lv5xRtyotwSut7Y1Lqq5+H7HL19V2tbs/yV/QIVKQjgd6sY0hu2a169nCCrg==;uyBLxQsKNip9xARZlBbOXA=="
 ---

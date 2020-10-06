@@ -1,27 +1,23 @@
 ---
 category: news
-title: "Gowin Semiconductor Launches GOAI 2.0 For Embedded Machine Learning Inference"
-excerpt: "GOWIN GoAI 2.0 offers direct integration into the TensorFlow and TensorFlow Lite Machine Learning Platforms, optimization for targeting GOWIN’s GW1NSR4P µSoC FPGA, and an accelerator to offload compute-intensive functions from the microcontroller ..."
-publishedDateTime: 2020-09-21T07:49:00Z
-originalUrl: "https://www.design-reuse.com/news/48669/gowin-goai-2-0-embedded-machine-learning-inference.html"
-webUrl: "https://www.design-reuse.com/news/48669/gowin-goai-2-0-embedded-machine-learning-inference.html"
+title: "GOWIN Semiconductor Launches GoAI 2.0 for Embedded Machine Learning Inference"
+excerpt: "GOWIN GoAI 2.0 offers direct integration into the TensorFlow and TensorFlow Lite Machine Learning Platforms, optimization for targeting GOWIN's GW1NSR4P µSoC FPGA, and an accelerator to offload ..."
+publishedDateTime: 2020-09-21T07:26:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/09/g17578534/gowin-semiconductor-launches-goai-2-0-for-embedded-machine-learning-inference"
+webUrl: "https://www.benzinga.com/pressreleases/20/09/g17578534/gowin-semiconductor-launches-goai-2-0-for-embedded-machine-learning-inference"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17578534"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17578534"
 type: article
 
 provider:
-  name: Design-Reuse
-  domain: design-reuse.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Google AI
   - AI
   - Machine Learning
 
-images:
-  - url: "https://www.design-reuse.com/news_img2/homepage48669/20200921_1.jpg"
-    width: 485
-    height: 260
-    isCached: true
-
-secured: "awqHG4S8e0g5JTRC0eGIVXKCv9oVXQNrjFIwcpBoNzVry3nmUAqreEqqNsqpGiIXY5ZhY6NIPLAUe0y76wfduORFEFqlhfs9ZGwkzrs+kDkwf6AVGTINAMgNvcu0Ta6ALl7qFWhL3TfHyGbeyW42DW8kmRYsazEHVAYmcjaQCwh5GJTW8FnEtGu5BRPkTCkcoyS8c+vSAcztP0vXXRRsp3kktRcgWMNkKz55tLkdpmxdFY1XHNVbAASecaHBw/6KeOj+k31CKfoCJUrfsnAEdXoBHtGhHVXbRsBPMwjg6H6j6mDsmmdQftviAMFLHsvHYL2eTbVXWwXLfudjqMUrOxv3lIobrT3hbOvW5Lt2Ln8=;0QP+gfghH7RAaD1ZpsfXYw=="
+secured: "YCxwc6wCIBbU5p+khdyNAuW5IsGfXNTMaF44OUvCjlnjYS+ucUCBQ1CSJEwTpXKMCqLrRWCjdcBXjZN03chJD4GJIiKxa3GTlAzijDcv3nCaiwtivHt+CbqXVSdFJDVv5lwuzJV7J0LgI9WvPm6UpexENh5H4Eae+GXTD4IaI1eE7nK/OBRkTLg6Qu5i2QLO8QSjxAmPKniIU2qWlmvpVC4tsAPUDsKhjWAbHUGpj5nOAKp2GoaAcZfeumXr1EaFbApKy8TKC07j8us++nEbn280T/MhBBBUX5taU9H1uUSZ+FOBTX2JxFNp3faXsLSc54HxUFiHYRzULODOig8sP/bNKGRj5CoU+fXEs7BEbDs=;8ibkyFIWVLGWO78fN1gYLQ=="
 ---
 
