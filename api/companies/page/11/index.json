@@ -4,54 +4,55 @@
   "page": 11,
   "value": [
     {
-      "path": "_companies/preferred-networks.jp.md",
-      "title": "Preferred Networks",
-      "excerpt": "Preferred Networks, Inc. implements Deep Intelligence throughout the Internet to integrate data from the physical and digital worlds.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/preferred-networks.jp/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/preferred-networks.jp/",
+      "path": "_companies/kabbage.md",
+      "title": "Kabbage",
+      "excerpt": "Kabbage Inc., headquartered in Atlanta, has pioneered the first financial services data and technology platform to provide fully automated funding to small businesses in minutes. Kabbage leverages data generated through business activity such as accounting data, online sales, shipping and dozens of other sources to understand performance and deliver fast, flexible funding in real time. In just a few years, Kabbage has become the number one online provider of working capital to small businesses in the United States and UK.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/kabbage/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/kabbage/",
       "type": "profile",
-      "name": "Preferred Networks",
-      "overview": "Preferred Networks, Inc. implements Deep Intelligence throughout the Internet to integrate data from the physical and digital worlds.",
-      "website": "https://www.preferred-networks.jp/en/",
+      "name": "Kabbage",
+      "overview": "Kabbage Inc., headquartered in Atlanta, has pioneered the first financial services data and technology platform to provide fully automated funding to small businesses in minutes. Kabbage leverages data generated through business activity such as accounting data, online sales, shipping and dozens of other sources to understand performance and deliver fast, flexible funding in real time. In just a few years, Kabbage has become the number one online provider of working capital to small businesses in the United States and UK.",
+      "website": "https://www.kabbage.com",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/preferred-networks-inc-/",
-        "followers": 1435
+        "url": "https://www.linkedin.com/company/kabbage-inc/",
+        "followers": 31904
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/preferred-networks"
+        "url": "https://www.crunchbase.com/organization/kabbage"
       },
       "twitter": {
-        "username": "preferrednet",
-        "url": "https://twitter.com/preferrednet",
-        "followers": 5094
+        "username": "KabbageInc",
+        "url": "https://twitter.com/KabbageInc",
+        "followers": 27477
       },
-      "size": "11-50 employees",
-      "yearFounded": 2014,
+      "size": "501-1,000 employees",
+      "yearFounded": 2009,
       "locations": [
-        "Tokyo, Japan",
-        "Chiyoda-ku, Tokyo"
+        "Atlanta, Georgia"
       ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
       "topics": [
         "AI",
-        "AI in Robotics",
-        "AI in Autos"
+        "Machine Learning"
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=cldaGudHP3I"
+          "url": "https://www.youtube.com/watch?v=VnqoE8kOHkI"
         }
       ],
       "heat": 0,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1268713412269228032/XH38w5wu_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1146817867553366016/ZcHRRj3D_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Preferred Networks",
+          "title": "Kabbage",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQF6xvtdYzDy6w/company-logo_200_200/0?e=1594857600&v=beta&t=6UJK1UAPD3QqK4LzT-uxdcrjthGhoEt57uNx3ZAn26o",
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFwZD2IV-LlDQ/company-logo_200_200/0?e=1594857600&v=beta&t=1rPXmhIy30Kk2Wy80mIFDmRpjikbiIpAG9fq0T40LP4",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -60,54 +61,50 @@
       ]
     },
     {
-      "path": "_companies/rev.md",
-      "title": "Rev.com",
-      "excerpt": "Rev is a venture-backed internet startup in San Francisco whose mission is to give more people the freedom to work from home. We have created thousands of work-from-home jobs, and we aspire to create millions more. We have built platforms for transcription, video captioning, foreign subtitles and document translation.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/rev/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/rev/",
+      "path": "_companies/microsoft.md",
+      "title": "Microsoft",
+      "excerpt": "We’re on a mission to empower every person and every organization on the planet to achieve more.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/microsoft/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/microsoft/",
       "type": "profile",
-      "name": "Rev.com",
-      "overview": "Rev is a venture-backed internet startup in San Francisco whose mission is to give more people the freedom to work from home. We have created thousands of work-from-home jobs, and we aspire to create millions more. We have built platforms for transcription, video captioning, foreign subtitles and document translation.",
-      "website": "https://www.rev.com/",
+      "name": "Microsoft",
+      "otherNames": [
+        "Microsoft Corporation"
+      ],
+      "overview": "We’re on a mission to empower every person and every organization on the planet to achieve more.",
+      "website": "https://www.microsoft.com",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/rev-com",
-        "followers": 8675
+        "url": "https://www.linkedin.com/company/microsoft/",
+        "followers": 9940289
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/rev"
+        "url": "https://www.crunchbase.com/organization/microsoft"
       },
       "twitter": {
-        "username": "rev",
-        "url": "https://twitter.com/rev",
-        "followers": 7723
+        "username": "Microsoft",
+        "url": "https://twitter.com/Microsoft",
+        "followers": 9069487
       },
-      "size": "51-200 employees",
-      "yearFounded": 2010,
+      "size": "10,001+ employees",
+      "yearFounded": 1975,
       "locations": [
-        "Austin, TX",
-        "Austin, Texas"
+        "Redmond, WA"
       ],
       "funding": {
-        "status": "Early Stage Venture"
+        "status": "IPO"
       },
       "topics": [
-        "AI"
+        "AI",
+        "Microsoft AI"
       ],
       "heat": 0,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1235584215258927105/QNS-RAbx_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1268191541941559296/GOQb6uBi_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Rev.com",
+          "title": "Microsoft",
           "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFhUI4LfQ9Zvg/company-logo_200_200/0?e=1594857600&v=beta&t=3-UHcnQEY8zzp4MZqwo_5R5MSi4_pukcfnctD9s1Vm4",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ]
     }

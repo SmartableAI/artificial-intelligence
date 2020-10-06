@@ -2,7 +2,7 @@
 name: "Liulishuo"
 overview: "Founded by Yi Wang, Hui Lin and Ben Hu in 2012, Liulishuo is the world's leading \"AI + Education\"​ company. The Company has developed the world's first “AI English Teacher” based on deep learning, which provides a personalized and adaptive learning path for every learner. It is proven to triple the learning efficiency (reduce the required learning time to one third) compared to human teachers by CEFR (Common European Framework of Reference for Language) standards, according to a study using the TOEIC Bridge Test from ETS."
 type: "profile"
-heat: 58
+heat: 64
 
 website: https://www.liulishuo.com/
 
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=GF8KvuIJUvg"
 
-secured: "dku0U1MzmWoolaZ79n3wn7u1+0YZqAbfzaAVTgMfwPh5iXnVFXZ/3Uldje6FO9lCBCMdExtwDUgy21mKVI2fntKfdYNQf8byZbFcKkWfqfcecnANUH5rr9BhTGmedybc+RpDNBKJJL0HEHaDSdWJOd6/zO/AytkXKYQH4xCEO6GBg+oDJth5asEiMRZmG2eTvvljYH+ojFMnFI/DjwOC9pjsXAM2YVdz3KH2G/jj4UBhAFroPpelEQFBjE3M0WHz/BRsCNi69HibTb+gsuvuU0o2t50cyb0fgUHGo3uWrHOCFqQ6H3LadR737GdTcM77WrjdklubY3CryxYrnWox0ZM9XD2ATpnmPohjC3pdN5nfzoUQ8qGbQwqvFrGMs7WY+OGZQtW7IVnd790f+swBQw==;nQlIKi/v52D+6YLOrMxinA=="
+secured: "cVsfJAYimMzW3dHoWcRMp8p8tPjpKG6o5M4z+s7xABzKzqtMq16gYdJ7jDg1//B54GSFHEIXE1ANQLArzFRjR6GQaXHDoQsuJDWV8gNQ38MTj9PBehdSiiFF/U6+i2gdqYddw1ESSdVKrKQ8aW4Nhu7VQG3nHeR6xy/i65z6CuCOgK5CreB+2eRahE0fWBK3YI+BrMD3JN3EIKAJ4wQC2rF4b7DRhI1xbjrg6Ws5BubiIUPdl6kTqFywLq7oYkHCJJEVgGkrrPSyI52XcgVt3KWq3mpXMbi5aDwXvfLAFW7G/3gtWo96Ciuoxxp1DLf9pwtWTOWZZJQPjvW7yeWN6CVunrOL8IEeThOipizwf/MwHxsAVmgE5d54FGl072laYH2QH8G/hdPoUFBvkkVpdA==;AyCMnyoc/vEDQW4umo+hWQ=="
 ---
 
