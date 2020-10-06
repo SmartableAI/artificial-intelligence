@@ -92,6 +92,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "GTC 2020 roundup: Nvidia’s virtual world for robots, A.I. video calls"
+    excerpt: "Nvidia's GPU Technology Conference, also known as GTC, is all about artificial intelligence. We'll give you a rundown of everything that was announced."
+    publishedDateTime: 2020-10-06T02:21:00Z
+    webUrl: "https://www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 89
+    images:
+      - url: "https://icdn4.digitaltrends.com/image/digitaltrends/jensen-huang-rtx-1200x630-c-ar1.91-n.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Nvidia says its AI can fix some of the biggest problems in video calls"
     excerpt: "Nvidia has announced a new videoconferencing platform for developers named Nvidia Maxine that it claims can fix some of the most common problems in video calls. Maxine will process calls in the cloud using Nvidia’s GPUs and boost call quality in a number of ways with the help of artificial intelligence."
     publishedDateTime: 2020-10-05T13:03:00Z

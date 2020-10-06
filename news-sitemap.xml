@@ -145,12 +145,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.forbes.com/sites/lanceeliot/2020/10/03/tire-blowouts-could-cause-self-driving-cars-to-go-astray/</loc>
-    <lastmod>2020-10-03T08:35:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.analyticsinsight.net/bolstering-robotics-enterprise-potential-using-ai-applications/</loc>
     <lastmod>2020-10-03T04:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -393,12 +387,6 @@
   <url>
     <loc>https://www.zdnet.com/article/amazon-timestream-database-is-now-generally-available/</loc>
     <lastmod>2020-10-01T05:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://markets.businessinsider.com/news/stocks/robocorp-cloud-a-groundbreaking-solution-to-build-a-software-robot-workforce-1029639016</loc>
-    <lastmod>2020-10-01T04:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1945,14 +1933,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace/article_f6c327bd-10d4-5df0-beed-77fd9ceef60a.html</loc>
-    <lastmod>2020-09-22T05:30:00-07:00</lastmod>
+    <loc>https://www.openpr.com/news/2139411/covid-19-impact-on-ai-medicine-software-market-outlook</loc>
+    <lastmod>2020-09-22T05:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.openpr.com/news/2139411/covid-19-impact-on-ai-medicine-software-market-outlook</loc>
-    <lastmod>2020-09-22T05:28:00-07:00</lastmod>
+    <loc>https://www.prnewswire.com/news-releases/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-301135412.html</loc>
+    <lastmod>2020-09-22T05:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

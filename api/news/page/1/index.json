@@ -216,7 +216,7 @@
       "originalUrl": "https://www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 255,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -1185,21 +1185,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-03-tire-blowouts-could-cause-self-driving-cars-to-go-astray.md",
-      "title": "Tire Blowouts Could Cause Self-Driving Cars To Go Astray",
-      "excerpt": "Self-driving cars will need to contend with tire blowouts. getty. Have you ever had a tire go bad on you? Sometimes, a tire can seemingly obliterate and become a tangled mess of r",
+      "path": "_news/2020-10-03-bolstering-robotics-enterprise-potential-using-ai-applications.md",
+      "title": "Bolstering Robotics Enterprise Potential using AI Applications",
+      "excerpt": "Robots perform tasks like recognizing and grasping objects, automating its navigation and understanding human language with the unveiling of Artificial Intelligence (AI) applications in its system.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/03/tire-blowouts-could-cause-self-driving-cars-to-go-astray/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/03/tire-blowouts-could-cause-self-driving-cars-to-go-astray/",
+      "webUrl": "https://www.analyticsinsight.net/bolstering-robotics-enterprise-potential-using-ai-applications/",
+      "originalUrl": "https://www.analyticsinsight.net/bolstering-robotics-enterprise-potential-using-ai-applications/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f585ee53da66757735430a2%2F0x0.jpg%3FcropX1%3D401%26cropX2%3D4704%26cropY1%3D78%26cropY2%3D2946",
-          "width": 1200,
-          "height": 800,
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Robotics.jpeg",
+          "width": 2560,
+          "height": 1539,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1208,21 +1208,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-03T08:35:00-07:00",
+      "publishedDateTime": "2020-10-03T04:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1231,7 +1222,7 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI in Robotics",
         "AI"
       ]
     }

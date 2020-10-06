@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Arize AI Joins NVIDIA Inception Program"
-excerpt: "Arize AI, today announced it has joined the NVIDIA Inception program, which is designed to nurture startups revolutionizing industries"
-publishedDateTime: 2020-10-02T15:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/arize-ai-joins-nvidia-inception-program-301144741.html"
-webUrl: "https://www.prnewswire.com/news-releases/arize-ai-joins-nvidia-inception-program-301144741.html"
+title: "GTC 2020 roundup: Nvidia’s virtual world for robots, A.I. video calls"
+excerpt: "Nvidia's GPU Technology Conference, also known as GTC, is all about artificial intelligence. We'll give you a rundown of everything that was announced."
+publishedDateTime: 2020-10-06T02:21:00Z
+originalUrl: "https://www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/"
+webUrl: "https://www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/"
+ampWebUrl: "https://www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/?amp"
+cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/?amp"
 type: article
-quality: 39
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Digital Trends
+  domain: digitaltrends.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Facebook AI
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1276605/Arize_AI_Logo.jpg?p=facebook"
-    width: 2696
-    height: 1414
+  - url: "https://icdn4.digitaltrends.com/image/digitaltrends/jensen-huang-rtx-1200x630-c-ar1.91-n.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -86,22 +92,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/10/NVIDIA-Maxine-Streaming-Video-AI-Platform-GTC-e1601673784391.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "GTC 2020 roundup: Nvidia’s virtual world for robots, A.I. video calls"
-    excerpt: "Nvidia's GPU Technology Conference, also known as GTC, is all about artificial intelligence. We'll give you a rundown of everything that was announced."
-    publishedDateTime: 2020-10-06T02:21:00Z
-    webUrl: "https://www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/"
-    ampWebUrl: "https://www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 89
-    images:
-      - url: "https://icdn4.digitaltrends.com/image/digitaltrends/jensen-huang-rtx-1200x630-c-ar1.91-n.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "NVIDIA Launches The Most Affordable Developer Kit For The AI Community"
     excerpt: "The Jetson Nano 2GB Developer Kit puts the power of AI in the hands of the masses. With an affordable price tag, it is expected to democratize AI."
@@ -178,6 +168,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Arize AI Joins NVIDIA Inception Program"
+    excerpt: "Arize AI, today announced it has joined the NVIDIA Inception program, which is designed to nurture startups revolutionizing industries"
+    publishedDateTime: 2020-10-02T15:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/arize-ai-joins-nvidia-inception-program-301144741.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/1276605/Arize_AI_Logo.jpg?p=facebook"
+        width: 2696
+        height: 1414
+        isCached: true
   - title: "Nvidia Opens GTC with Plans for AI Supercomputer for Biomedical Research"
     excerpt: "Given the COVID-19 pandemic, Nvidia’s announcement of plans to build a new AI supercomputer – Cambridge-1 – dedicated to biomedical research and"
     publishedDateTime: 2020-10-05T22:04:00Z
@@ -243,6 +247,6 @@ related:
       domain: seekingalpha.com
     quality: 15
 
-secured: "nzPNZN0AGGVPLPaMCbaVuBiQ7T6juPXk4EHgDsKAzIiuFoS2DXl0O/oCWunauqHucODkeJOz+jhDB8Uytd8ktHlw2WDXPXeAGfS33cSB/X64ogTwk2Fe65CZefEIUacm/HDs0FpuGhEqHND1gGMWJrW9p4gDTeARaGWB/zo8SXwmn4V0D0hbzV0nFE6YrqBdAzlJLl/0cXbP19u29P+HNtZ6xMXHiLKVb2hB1SeVSjjRi/vWJNurykv9GFCtxfaLyjJ3Dq2UYFU2tgrGCW9m4hvQ+aaFQnsAPeBK2vGGDzc1Ipn4l/2j1bw+rUQGtqurVN4vmKa5E4+zX7M+rb3jnfUWUUj0AS8VSPewtCXBD5o=;3jExFRKI/StcVMHUNq8GTg=="
+secured: "zBsy+WWaSLrcHzRRolAejCUK+LV8+CSeOFNmtJ4+knsyapbdBhzo6ZW7+dUqkHCSR30Bhp3rcQz71SCdskz2gYwM1TILSa7BqkRdVzQX2sWrqA2d9I5ovVKeishxP3PqkAX56mrXbPMHeMD15a2eqz94PQXCk9fWSZjvpMrk+yEK9vabmXrWxGJPuvwSgAfqLwZjPjTd8tocOGFkW+8piGlHGDUErCi4swmOEKhf2uNANNhbIbtNTPK6xw114lq9n5QdH5gELKGAHEmaHFA6doIwY9oa21NRVAiUy/IY+027HS3ehbE/BefooIbO6lhhF+DiVwLHINduj5zDJlNkk9Mfl3E1adkGe1O1W0JI8Ss=;ivC4tY99JxPQwD5zzVpuPQ=="
 ---
 

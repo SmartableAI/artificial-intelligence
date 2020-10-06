@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/03/tire-blowouts-c
 webUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/03/tire-blowouts-could-cause-self-driving-cars-to-go-astray/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Forbes
@@ -44,20 +44,6 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/53023/content/Tesla_Model_S.jpg"
         width: 708
         height: 386
-        isCached: true
-  - title: "Former Saab plant could be used to build NEVS self-driving cars"
-    excerpt: "The former Saab plant in Trollhättan, Sweden, hasn't built a car since 2013, but it could be up and running again if current owner NEVS finds success with its new Sango self-driving car. The Sango is a six-seat shuttle that NEVS plans to operate on a trial basis in the Swedish capital Stockholm starting in late 2021."
-    publishedDateTime: 2020-10-01T10:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1129795_former-saab-plant-could-be-used-to-build-nevs-self-driving-cars"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/sango-self-driving-car-from-nevss-pons-mobility-division_100763273_h.jpg"
-        width: 1920
-        height: 1242
         isCached: true
 
 secured: "hRlE8ESl6s/HtMIf52EKPi3zmU7yekKWr25iEvpJI1Sv5mhhkGUhGlSx0K9CZlLcvhTRYNY4pADUF3J1GimdLupySztArTk8CXJmL7Q5kt6+1QoNfRRJHQiAn14qZCt82nEkxhD1OQFnllqHcsZlddOilhCYgStrzOUgVkBfhkZCGEDxOHWk+WMGbZj8Vjv/sIUqrq7gA0GdijP8kNH36/u5XGWXW7eJGZH0XF1utbJ6rVBcc0cZysFoPTdbCuL9DwcZ869y/G87OtFZjqNd+HQZtJ17H2sap1nnAaRD+BGwmunZMrMXGIazDVoxKe74t+5ipgcB3RzQ2BXaOmsCS0zsCwuQcCRAHhGLEsAaUokKcsrrL004KVnf71+74BHOLW7YhoCfU2I2MfLc++VH8bVZ9taD0p7Kja+ZYR8jxtLhpHtxchaOHspaS3CiF4WFEY2GmzxDnRjsA3w5JwEryAKU8FTBvaS/SNu9+Ba1J9FNpUPf9UOX3yS+hY8y4tJrsP59em3WDnpYuU1wmvhy4w==;GnWbfGbwkrY/OyFujJI02Q=="

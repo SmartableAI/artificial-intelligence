@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Former Saab plant could be used to build NEVS self-driving cars"
-    excerpt: "The former Saab plant in Trollhättan, Sweden, hasn't built a car since 2013, but it could be up and running again if current owner NEVS finds success with its new Sango self-driving car. The Sango is a six-seat shuttle that NEVS plans to operate on a trial basis in the Swedish capital Stockholm starting in late 2021."
-    publishedDateTime: 2020-10-01T10:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1129795_former-saab-plant-could-be-used-to-build-nevs-self-driving-cars"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/sango-self-driving-car-from-nevss-pons-mobility-division_100763273_h.jpg"
-        width: 1920
-        height: 1242
-        isCached: true
 
 secured: "7bmllXPhgOr5jWkntudnMltY/nRnsbGxwsUdpdTdVsXhHeFe18c9iQF6OnlPqfP0itVEQP2h2IAhq1tjbBkQgtPTh0tnHNFV2GZVwMlSjmoyZkkh/JQmlDc3vopttmgNopb1ne17p78w/u6IbAeFbR8V6WXodwVYqP0af32079P4nglDbR6659nTG7VwCkRZ+vqHyM1gv9etPTTUs3oZpcCNPTrlxH2NCQy/J2bk+ha8GKHqtch1nBuMM0BMk12jn4LKAj3WBPvq2/OPpEZtbPKUADVIh98AqWUsg2w1J4fyZ9WhjoIlrQw6T8aVqS+a5Fs5aMqjnK3CQ7hY04MiYOY8SI1y/Grh0tJdNGdcSuM06Ulm3x48pzmqBFGDo0L5teuWgDmJbENJLntVovQVJujV70XXxDLkRG0vpoPzG8ArFFaKxFdPXwDt64ZUst2s9b/mnT+vKec1aYrjN6ZBCZgiKXt3QtCmbn68l9Iegr7sKoOJiL6zzLjnAVeNXdN3GeEsHVtenklFcVDDPieywQ==;Fws6PQlfhSmRTvYLMQKuqg=="
 ---

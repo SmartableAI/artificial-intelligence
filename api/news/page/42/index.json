@@ -2,90 +2,6 @@
   "page": 42,
   "value": [
     {
-      "path": "_news/2020-09-02-nvidia-announces-rtx-30-ampere-gpus.md",
-      "title": "Nvidia announces RTX 30 Ampere GPUs",
-      "excerpt": "Nvidia (NVDA +3.0%) officially unveils its GeForce RTX 30 Series GPUs based on the Ampere architecture.The GeForce RTX 3090, 3080 and 3070 GPUs also utilize the second-gen Nvidia RTX PC gaming platform for real-time ray tracing and AI gaming.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3610560-nvidia-announces-rtx-30-ampere-gpus",
-      "originalUrl": "https://seekingalpha.com/news/3610560-nvidia-announces-rtx-30-ampere-gpus",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-01T15:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-aussie-researchers-leverage-compute-power-to-analyse-genomic-data-and-match-donors.md",
-      "title": "Aussie researchers leverage compute power to analyse genomic data and match donors",
-      "excerpt": "CSIRO has touted advances in processing data to pinpoint the location of specific disease-causing genes in the human genome, while PathWest is matching bone marrow donors with candidates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/aussie-researchers-leverage-compute-power-to-analyse-genomic-data-and-match-donors/",
-      "originalUrl": "https://www.zdnet.com/article/aussie-researchers-leverage-compute-power-to-analyse-genomic-data-and-match-donors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/09/01/8aa899a5-377f-4532-bffc-d12e943b8b0a/electronic-skin-2.jpg",
-          "width": 4032,
-          "height": 2268,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aussie-researchers-leverage-compute-power-to-analyse-genomic-data-and-match-donors/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aussie-researchers-leverage-compute-power-to-analyse-genomic-data-and-match-donors/",
-      "publishedDateTime": "2020-09-01T15:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-02-us-air-force-grapples-with-vexing-problem-of-ai-spoofing.md",
       "title": "US Air Force grapples with vexing problem of AI spoofing",
       "excerpt": "The US Department of Defense (DoD) is worried that artificial intelligence programs might have serious and unknown vulnerabilities that adversaries could exploit. In particular, the Pentagon is ...",
@@ -1137,6 +1053,109 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-01-3-top-artificial-intelligence-stocks-to-buy-in-september.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy in September",
+      "excerpt": "Artificial intelligence (AI) has the potential to influence almost every industry, and the overall economic impact of the tech will exceed what's spent on hardware, software, and services many times over.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/09/01/top-artificial-intelligence-stocks-buy-september/",
+      "originalUrl": "https://www.fool.com/investing/2020/09/01/top-artificial-intelligence-stocks-buy-september/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F589831%2Fgettyimages-896358708.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/09/01/top-artificial-intelligence-stocks-buy-september/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/01/top-artificial-intelligence-stocks-buy-september/",
+      "publishedDateTime": "2020-09-01T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-01-a-big-step-for-flood-forecasts-in-india-and-bangladesh.md",
+      "title": "A big step for flood forecasts in India and Bangladesh",
+      "excerpt": "For several years, the Google Flood Forecasting Initiative has been working with governments to develop systems that predict when and where flooding will occur—and keep people safe and informed. Much of this work is centered on India, where floods are a serious risk for hundreds of millions of people.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/flood-forecasts-india-bangladesh/",
+      "originalUrl": "https://blog.google/technology/ai/flood-forecasts-india-bangladesh/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screen_Shot_2020-08-31_at_6.57.16_PM.max-1300x1300.png",
+          "width": 1300,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/flood-forecasts-india-bangladesh/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/flood-forecasts-india-bangladesh/amp/",
+      "publishedDateTime": "2020-09-01T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
       ]
     }
   ],

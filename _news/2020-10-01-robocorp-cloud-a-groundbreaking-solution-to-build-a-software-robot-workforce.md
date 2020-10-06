@@ -9,8 +9,8 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/robocorp-cloud-a-ground
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/robocorp-cloud-a-groundbreaking-solution-to-build-a-software-robot-workforce-1029639016"
 type: article
 quality: 65
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: Business Insider
@@ -23,22 +23,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "Robocorp Cloud – New Groundbreaking Solution to Build a Software Robot Workforce"
-    excerpt: "Robocorp announces its latest release – Robocorp Cloud – which for the first time ever – allows IT developers and programmers to orchestrate and run robots straight from the cloud. This new technology significantly improves the way Robotic Process Automation (RPA) developers and their teammates operate and maintain their software robot workforce."
-    publishedDateTime: 2020-10-01T09:55:00Z
-    webUrl: "https://apnews.com/press-release/send2press/technology-business-corporate-news-products-and-services-cloud-computing-ab5dce08ad8fdbf5a83c64efd3d41bfd"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "w2UgSzkILhljTAEr2u71wqey7EmNEzwc+2AZkiBexaLeBzBNiJ/BLmr4P69iwBGffwCoKkdMdWdmBPDM92W9SEjCeIkRm2I9oyUwSCyHDL+v+RfGMn1Rcr1yoLxQhFqGWYkRqS9lCktSuKS051Mz0Otc0Z6KxN3F3084NyFWqk0S9ql6NEI2UyVGvmGI5FzN5O04zBV8ln9RehfWjIEm2ztUjPToc9UdufD4I2jwdR0SRTiIeCf5fqzEAKqZSLR3qhXhyuyrFNyzor9eGyLCUHrf1fIjgRXkaOOVIIgR8JaRldowlrkHOfgQ43eNvZdNpjMzibVDz+iOG2fMKL5bYioopxxp6LJLDEmo2pvZou0=;HJbchl1o7VxZniF2zp0yWQ=="
 ---

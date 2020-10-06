@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/news/cloud/microsoft-to-build-new-azure-cloud-
 webUrl: "https://www.crn.com/news/cloud/microsoft-to-build-new-azure-cloud-data-centers-in-greece"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 549
     height: 309
     isCached: true
+
+related:
+  - title: "Scality Announces 1 Terabit Per Second Performance for Scale-Out File System in Microsoft Azure Public Cloud"
+    excerpt: "Scality, a leader in software solutions for distributed file and object storage, today announced the technical preview of its high-performance scale-out file system (SOFS) in Microsoft Azure. Scality SOFS running in Azure delivers linear scaling performance for read- and write-intensive workloads."
+    publishedDateTime: 2020-10-06T02:26:00Z
+    webUrl: "https://www.totaltele.com/507362/Scality-Announces-1-Terabit-Per-Second-Performance-for-Scale-Out-File-System-in-Microsoft-Azure-Public-Cloud"
+    type: article
+    provider:
+      name: Total Telecom
+      domain: totaltele.com
+    quality: 35
+    images:
+      - url: "https://www.totaltele.com/res/image/articleimages/5g-icon-hpe.png"
+        width: 576
+        height: 583
+        isCached: true
 
 secured: "5KC1YVovUZTAWNCoTjvLhHWIwtl+ddV10rCfnnvvw+lKpEOsYyzNNEYdsqGQtHcAM4BIUszdWY/h5o8Qewf+fISRYo1Xzr8F/7qxaNDtkrWjjyGBYwHQDUKxf8J9CHZQOZHCBtUPoxIPx+wRDZwguLi20hWBx6I/0Z3AOgNfc4PXCuWZCKRMj4K1WThC8tFHr4/4hkKcZpPivtLA4HqR+twiG+1iy6S4rOVYNR7YE5nIPVGRLkLhJAwLk8d42Srx7XS69Tdg8W1yrZhrCSAFG6LN6EqB0Z770NRqT4sH3fcqqUSs2hOAsV1Anvy/g6NETMCMM+134r4T0DTMR1g4Ee5kok+pGMBN3VNSqDkFU9O3KAHLpvx2JGKZbMWr0RfqfEU2I1G54E7dosxzkK65wJJsmncqsU4J9CAC4IMFSn3GppWX1v9PVEt51PqoqbyCB8UGTywv2G54LGiwJbRytDI70psckJYkjejr0BuOV7sIKARRX4gegJ4xy4gGlltJmWwg3miqH0F0d0/fKGO5wA==;kl2GpeUL3nHssEGre3BC0Q=="
 ---

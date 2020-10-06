@@ -10,7 +10,7 @@
       "originalUrl": "https://www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 255,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -562,48 +562,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-robocorp-cloud-a-groundbreaking-solution-to-build-a-software-robot-workforce.md",
-      "title": "Robocorp Cloud - A Groundbreaking Solution to Build a Software Robot Workforce",
-      "excerpt": "Robocorp announces its latest release – Robocorp Cloud – which for the first time ever – allows IT developers and programmers to orchestrate and run robots straight from the cloud. This new technology significantly improves the way Robotic Process Automation (RPA) developers and their teammates operate and maintain their software robot workforce.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/robocorp-cloud-a-groundbreaking-solution-to-build-a-software-robot-workforce-1029639016",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/robocorp-cloud-a-groundbreaking-solution-to-build-a-software-robot-workforce-1029639016",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/robocorp-cloud-a-groundbreaking-solution-to-build-a-software-robot-workforce-1029639016",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/robocorp-cloud-a-groundbreaking-solution-to-build-a-software-robot-workforce-1029639016",
-      "publishedDateTime": "2020-10-01T04:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1418,6 +1376,48 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-south-korea-tech-giants-expanding-robotics-amid-covid-19.md",
+      "title": "South Korea tech giants expanding robotics amid COVID-19",
+      "excerpt": "South Korea's biggest tech companies are investing in robotics as a solution to the risks of human contact amid the coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/World-News/2020/09/23/South-Korea-tech-giants-expanding-robotics-amid-COVID-19/3121600883704/",
+      "originalUrl": "https://www.upi.com/Top_News/World-News/2020/09/23/South-Korea-tech-giants-expanding-robotics-amid-COVID-19/3121600883704/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/3121600883704/2020/1/f4b46952582fb33f29de4effbf354249/v1.5/South-Korea-tech-giants-expanding-robotics-amid-COVID-19.jpg",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2020/09/23/South-Korea-tech-giants-expanding-robotics-amid-COVID-19/3121600883704/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/09/23/South-Korea-tech-giants-expanding-robotics-amid-COVID-19/3121600883704/",
+      "publishedDateTime": "2020-09-23T11:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

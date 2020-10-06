@@ -2,98 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2020-09-29-inside-politics-tory-rebels-hope-for-deal-with-no-10-on-extra-scrutiny-powers.md",
-      "title": "Inside Politics: Tory rebels hope for deal with No 10 on extra scrutiny powers",
-      "excerpt": "Conservative backbenchers believe they’re in line for a bigger say on the coronavirus rules after a ‘cordial’ meeting with Jacob Rees-Mogg and the whips, writes Adam Forrest",
-      "sourceUrl": null,
-      "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
-      "originalUrl": "https://www.independent.co.uk/independentpremium/uk-news/boris-johnson-coronavirus-rules-tory-mps-compromise-eu-brexit-trade-deal-talks-b688535.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inside.com/assets/premium/Blue-email-icon-0994aadea0b5b10b19a148e2dd34a88c4a315b76ed51d7898fa49dc4ddc6d171.png",
-          "width": 414,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-28T23:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020.md",
-      "title": "Synopsys to Host Panel on AI for Chip Design at AI Hardware Summit 2020",
-      "excerpt": "MOUNTAIN VIEW, Calif., Sept. 28, 2020 /PRNewswire via COMTEX/ -- MOUNTAIN VIEW, Calif., Sept. 28, 2020 /PRNewswire/ --Synopsys, Inc. (Nasdaq: SNPS)",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020-2020-09-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020-2020-09-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-28T19:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-29-an-ai-paper-published-in-a-major-journal-dabbles-in-phrenology.md",
       "title": "An AI Paper Published in a Major Journal Dabbles in Phrenology",
       "excerpt": "On Friday, a trio of evolutionary psychology researchers published a research paper in Nature that sought to use machine learning to track historical changes in \"trustworthiness\" using facial expressions in portraits. The experiment was widely panned ...",
@@ -1196,6 +1104,99 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-our-goal-shouldnt-be-to-build-merely-trustworthy-ai.md",
+      "title": "Our goal shouldn’t be to build merely ‘trustworthy’ AI",
+      "excerpt": "Mariarosaria Taddeo, Deputy Director of the Oxford Internet Institute's Digital Ethics Lab, explains why AI ethics must be a continuous practice.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/28/our-goal-shouldnt-be-to-build-merely-trustworthy-ai/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/28/our-goal-shouldnt-be-to-build-merely-trustworthy-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Untitled-design-2020-09-28T104701.865-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/28/our-goal-shouldnt-be-to-build-merely-trustworthy-ai/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/28/our-goal-shouldnt-be-to-build-merely-trustworthy-ai/amp/",
+      "publishedDateTime": "2020-09-28T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-this-interactive-vr-film-lets-you-play-god-to-an-evolving-artificial-intelligence.md",
+      "title": "This interactive VR 'film' lets you play god to an evolving artificial intelligence",
+      "excerpt": "If you could play god to an emerging artificial intelligence, would you? Or better: Should you? That’s the moral dilemma at the heart of Agence, an interactive “dynamic film” that blends ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/agence-ai-vr-film/",
+      "originalUrl": "https://mashable.com/article/agence-ai-vr-film/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F09%252F28%252Ffd%252F5554a8fadfd8486f97c31cc8336ffa35.15cd6.jpg%252F1200x630.jpg?signature=1oiSYK9Cltjtd5iFuSmbIu1--2w=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/agence-ai-vr-film.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/agence-ai-vr-film.amp",
+      "publishedDateTime": "2020-09-28T06:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

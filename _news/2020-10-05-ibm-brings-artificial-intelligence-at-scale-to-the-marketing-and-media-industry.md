@@ -1,28 +1,27 @@
 ---
 category: news
 title: "IBM Brings Artificial Intelligence At Scale To The Marketing And Media Industry"
-excerpt: "PRNewswire/ -- IBM (NYSE: IBM) today announced three new products to add to its growing suite of AI solutions for brand"
-publishedDateTime: 2020-10-05T12:43:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-1029648095"
-webUrl: "https://markets.businessinsider.com/news/stocks/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-1029648095"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-1029648095"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-1029648095"
+excerpt: "PRNewswire/ -- IBM (NYSE: IBM) today announced three new products to add to its growing suite of AI solutions for brand and publishers. The new"
+publishedDateTime: 2020-10-05T12:25:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-301145605.html"
+webUrl: "https://www.prnewswire.com/news-releases/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-301145605.html"
 type: article
-quality: 65
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - IBM AI
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+    width: 2698
+    height: 1414
+    isCached: true
 
 related:
   - title: "IBM joins NIH effort to diagnose schizophrenia using AI"
@@ -56,6 +55,6 @@ related:
         height: 360
         isCached: true
 
-secured: "BJvy4d1an8D/ON002lZYt9ZjzyutaoqOk1dBFHIUJr/p2d9KFh9eOPXq3frdMRSR7svqlxBKgSLBlo3duYlhlq5nJKHPNtiCDqF0dPf4h1Idg2PKW3xARW/Lx2mBQfp7PmstP4p08/5fVb0f2znod5YHMXT5VK7cJ2m6RVB7Fqk/KrlZ9FVaFY5VFgv/0pUSEHuPkIivYpCE+tVt7xs5bAuSP6gS5UcHdcqqA/JwA0bXB7CK49Kx507WPds2LNUqmPsCzZ6/IyizbGdenJYzMtXBuvmAGRFrSWLqFRYzcVDBqTW9lTAvomjoDEHjeDRbHFsfIqWq1DC0cwmXM+wTJkKg9lfEG71pKkg1uHPYEVQ=;kL1onLKWiP4GnnQa54L2CQ=="
+secured: "uM4FvppgOVW4yMIV7GBiLZ7HzPJNneYn1z5H/Sjv/jyvwdlY4O9iIDS/2/aepoKj6OMNEo4D+BTbc2imZRtSuCieHDmpT+9O034nYDdNIkYQZ8I6HitAG6FaN/VAVuA34/NLzr+/HbwIxcUBMtJ82lufic474eOQsl90+dID23t0bNh9n1Nwz0bx0UYIlOXBIRBxmwIMBWIByzN6sD35EBUl+oy3A1+dhPDWmvSZwIMFf5HepzyiVByrxbRvhYavSs2dYh5Md+yH4LJjpHv15EzJfRbeuz2wVyYfhuYCjeFfPs0OVGQMqlk3iQr+9wpf66wSyBbcEGHcyAbsT+c22H4xGhXvPf5G18l9bUPAy1Q=;rMXIFxkZk8aX6hGkkVJS2w=="
 ---
 
