@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/home/education/news/iit-jodhpur-receives-
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/amp_articleshow/78457955.cms"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/53044/content/nvidia-datacenter-hero.jpg"
         width: 708
         height: 398
-        isCached: true
-  - title: "VMware Partnership, A Big Win For NVIDIA In AI Chip Market"
-    excerpt: "This partnership is complete in line with NVIDIA’s recent efforts with AI, thus giving it a significant edge in the AI chip industry."
-    publishedDateTime: 2020-10-02T00:00:00Z
-    webUrl: "https://analyticsindiamag.com/vmware-partnership-a-big-win-for-nvidia-in-ai-chip-market/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/VMware-Partnership-A-Big-Win-For-NVIDIA-In-AI-Chips-Market.jpg"
-        width: 1389
-        height: 774
         isCached: true
   - title: "AMAX Accelerates Next-Gen AI Computing With NVIDIA A100 GPUs"
     excerpt: "AMAX's HPC and AI Solutions Group announced its series of next-generation NVIDIA A100 powered server systems that bring AI training, inference, and analytics"

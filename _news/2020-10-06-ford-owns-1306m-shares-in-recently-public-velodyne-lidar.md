@@ -1,0 +1,36 @@
+---
+category: news
+title: "Ford Owns 13.06M Shares in Recently-Public Velodyne Lidar"
+excerpt: "Ford Motor Company F recently announced the holding of a 7.6% ownership stake in Velodyne Lidar Inc. post Monday’s trading session. This equates to holding 13.06 million shares of the new public entity."
+publishedDateTime: 2020-10-06T13:25:00Z
+originalUrl: "https://www.nasdaq.com/articles/ford-owns-13.06m-shares-in-recently-public-velodyne-lidar-2020-10-06"
+webUrl: "https://www.nasdaq.com/articles/ford-owns-13.06m-shares-in-recently-public-velodyne-lidar-2020-10-06"
+ampWebUrl: "https://www.nasdaq.com/articles/ford-owns-13.06m-shares-in-recently-public-velodyne-lidar-2020-10-06?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ford-owns-13.06m-shares-in-recently-public-velodyne-lidar-2020-10-06?amp"
+type: article
+quality: 54
+heat: 64
+published: false
+
+provider:
+  name: Nasdaq
+  domain: nasdaq.com
+
+topics:
+  - AI in Autos
+  - AI
+
+related:
+  - title: "Ford reports 7.6% stake in newly public self-driving auto company Velodyne Lidar"
+    excerpt: "Ford (NYSE:F) holds 13.06M shares in Velodyne Lidar (NASDAQ:VLDR), equating to 7.6% stake.Stake is calculated based on 172.8M common stock outstanding on Sept."
+    publishedDateTime: 2020-10-05T21:13:00Z
+    webUrl: "https://seekingalpha.com/news/3619947-ford-reports-7_6-stake-in-newly-public-self-driving-auto-company-velodyne-lidar"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 0
+
+secured: "2vb/LWmoBsHGNLtcAlgLQFLQiJiyXCSB1sEWnwQqKCT5SZhwcq2d1k/TjLszF17hMTMb82A8K/HrcqLZZqh0L1FmGrRENzEQt3f4fL9vCaSOTsVWRICjGOGogNhFqTWWiRUltHjRsQoDe3zRi0eIJ/0nc1M++iVICnRZc6g6uycli+v60lvc8BrWdMi03xXnpd9xrmOfpmHLVaJ/YU/YSPnpMShM4aVc97NQ7UtXchZvULls3d+NO15fuwocRYCOFN9Ebt3DjHKFL5CqQ5ZLnif0ffT3L28pWvwnGNm84dNxQTmjAVdrDcpdWdURyIULtblXTE1n866oozrGHsJ/BztOoDfw2hrvtgJ8X4jKze8=;4JQKdLHQLqU0AZj4NSJevw=="
+---
+

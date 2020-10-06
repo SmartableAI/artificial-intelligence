@@ -8,8 +8,8 @@ webUrl: "https://thenextweb.com/neural/2020/10/06/this-eu-funded-ai-rates-how-hi
 ampWebUrl: "https://thenextweb.com/neural/2020/10/06/this-eu-funded-ai-rates-how-hideous-your-face-is-for-societys-sake/amp/"
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/06/this-eu-funded-ai-rates-how-hideous-your-face-is-for-societys-sake/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Computer Vision
 
 images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-06T122203.810-796x417.png"
@@ -30,6 +31,6 @@ images:
     height: 417
     isCached: true
 
-secured: "pc9wOBCJE7EtL+exjZSEab/W2nGjJdMAi02zLr9NiGiGKM9rhMuCW9x3x8vsX7F1U1yDnf9P4njLztSF4KTwywvGHqn51QJGQaoWCkiV99RGyQskxIsRZQhhk5SzfqByxqeAgMAvU9S8ZPNmeULo1WCSb8suiNF4/xs6uiHGi6zZJGj/7WjHLg/KfYMJ+zWKZACM8b68qcDyyfgkV08A9Kda4hUJMDsJBcDphlfhwwOZHTnscdvZVrEGMpYBpFYsvbSak4uqYJwMGcE3MNeGX/TWa3wWCRd7fUP0pfcJhA0FZg11t542Zqb7Sea5/lg/MIEZj5u7pgW/ffPHEE3Zd3Xoa8MN6Xl0Req8mVPZYbk=;3HVx8TcNwWhImzdIoT6DjA=="
+secured: "iv221goYdm3u/nrNUUcVBAKXvxPGf4XEbf39Pxs3K70kasSz01U6dy8/DVGZBA/PVDq18bqBWip2swvu3VsEkXs/DZrIlH8YpTPaST8pc59Ln2DRTcM7GWZbPPoiJ0tNA+ckr3OuTpXB9oNN5icNpjuE1r4kEl5432PxOwKUZG90UmFBxn+MF/ABxbjT/eadIjrOsEbAt1IvYR6s1U8crbpteuGc9MoMNkHC7xpvjI6i6WVVMyVOzs9eXY4T+9aPyw4ync4ws/lDlP7v7aGO4p4Zf64hcaTUw8Kq8BRao7JZlL7taeXxzs401UQfPPd/7R1DkYFNEtiCKg27Ao/mpdizm4xUBC3/0WMRSk8EiDvDspXS7lQpMsJaveIfyQYL4ElWVYhKiz8EgdleQy7gxR4t0iIJ3S8F1pRgjJS00hOOFAHAre8qf9XXRd/3yJBT8xU9LDfCC4z5mVgEf9X5R7LYkNvhijxGrHHXjs8WeCD7TmH0ZDYUTKFaS2lTbGq1DjHDIX2SBGngUEyR0yzKVA==;MYIE+U59ofQiLAC5Cb/6VQ=="
 ---
 

@@ -39,6 +39,20 @@ related:
         width: 1024
         height: 380
         isCached: true
+  - title: "Welcome Initiative on Artificial Intelligence"
+    excerpt: "The first step is to enact robust data protection It is welcome that India is hosting a global summit on artificial intelligence (AI) and that the Prime Minister has addressed the gathering and expressed"
+    publishedDateTime: 2020-10-06T17:26:00Z
+    webUrl: "https://economictimes.indiatimes.com/blogs/et-editorials/welcome-initiative-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 37
+    images:
+      - url: "https://economictimes.indiatimes.com/blogs/wp-content/uploads/2020/10/5g-2.jpg"
+        width: 295
+        height: 307
+        isCached: true
 
 secured: "ipDEAg17o6UFOlHFyOaWK1OPsY29IL3VoAvMovgzdpyO7RPSeNnxOn14pv+JvW/45Svd6zYXMiLocZJx0m1g1jjitk+g347GCclTvaRs4Qxnh8HvBc/jrIDC2rJYT96ijDOPCmwPW/FgM9EIINVg0zzoo5jDTwAI3Sk8tLxnV8T4XnWaWStGbySoWf9Z+8qDuiniwwijpZ3ouZHhDa9ohxj40NgukoxYc6TNLYwIjk+KbpC4ZJnh6QpYuBzJbEQ0rD/C5SxbbID+myYp4MexkC8XRX7xRdvjX1hBFs1qjWGo13kmUcL82a7Isi/5v6lnYcHPlnz91DgMSggQu+WJLDBNnofAsgWw21lCfdmtNZbGtWjTXXAtVPO/PJYZiyx3uSJbKDnYs/jyLqa+FwWM/3tYGLphNLgjqh6/94TC7yaWoAV4ADASxpTxFxG4YP6oEyRx/Ii9PTSDxpn8GevbrWlB6wiEbmbUmznRKC3rXKlqA8frtVdMIE5IyvyFzdMoLaPeA67tKPLRoQsJAmixDw==;OribCxlJPPZZ78GLHQk9xQ=="
 ---

@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Andor Health Collaborates with Mentor to Deliver Next Generation, AI-Powered Virtual Experiences with Microsoft Technology"
-excerpt: "Andor Health and Mentor Worldwide LLC have formed a collaboration to provide the aesthetic physician community with the next-generation virtual health experiences to"
-publishedDateTime: 2020-09-30T13:52:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/andor-health-collaborates-with-mentor-to-deliver-next-generation-ai-powered-virtual-experiences-with-microsoft/article_87104374-4495-5f9b-9707-4d6892880d0d.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/andor-health-collaborates-with-mentor-to-deliver-next-generation-ai-powered-virtual-experiences-with-microsoft/article_87104374-4495-5f9b-9707-4d6892880d0d.html"
+excerpt: "Andor Health and Mentor Worldwide LLC have formed a collaboration to provide the aesthetic physician community with the next-generation virtual health experiences to enhance the relationship between a surgeon and their patients."
+publishedDateTime: 2020-09-30T13:30:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-medical-technology-health-artificial-intelligence-computing-and-information-technology-7ebeb192b3437584eac7a740d6619523"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-medical-technology-health-artificial-intelligence-computing-and-information-technology-7ebeb192b3437584eac7a740d6619523"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "vS5r/AhtLtxAfbP/Ua2PX5PHKRXGXFCJ6THuCA2ultZcMgqCh8trMDDiW0RK3JTW/YLjoQ/J+kMmK6fnnMMIHfnOMUOBQcXTDbfatlBLQJdOcHNSJrSWvOIjJZKtvjp+Qdqo4es0uwGmn3z5qAWBfMfnpqNjvYebD+uSvVX2AK3b4bAl/QAmiJxny/7pZvAuD5MyvbJQn/i/L27LuN51hyyHEzfT42WNKEryDzpiyFUU7+7cS4FTezF2eDqlwcyY2qTqeLKMlT0r8lZBdZEQ5jSf+6iO03X+kT4gq/ULU6mR0NDdULAwJTURjBFepW77Kmz0uXiRhUPoQosU2ms+ukgyGG6y6/v0K0eD3BeS6mLREMOL5vbBGccdIpJNeekzRcaM8mP4oI9nsWWTHpnEFGgwq3AbL/lDHVAQxakLJsvRXE2D5YXY6YIM563/xFtAYaViMmluQ4BYBs6XQTmHI3TKooQHQ+SbMXjumo8julb91evuOTIPzpZ3bRkknwpAICQqlusT56u9IjJBb2jieQ==;ZJOZP8qIE1OzZgMm5aoLvQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "3Db+cdgJWCBKZkdpus7hAIjwpDSLcByLfovAMkdGYZhfZC0UZBALMeW5shsAs2SOQ0vQhyf2qs9N8bAP7V6syTTpLNkh2fjFFb7WTM6rFZgpv0mFT7XpuKHlBk5uNtaBrRawbA9FoFZ7Xw8wcRUyMZqRwTB1iO9Nf1U9JGgFlgmoTmVXVCAPAsRfZ5o7PMNnVKkAHxpSwU1XCXscyEAiwwxRq+KzoE8TZHaG5kWPUsgiZlYN5arwyayC8hAeN2Dhh14K7y/nCdCUCGSXooMNHqavtFKDalmxtE6ohJebGci41IWJSPMbMAFF2wbOzZMQF7gjhnHcRGkYGD7jNwpdz5/e8EV4gy88PZeQ5FTvrts=;JZezepvD1nfNfLria2NvGg=="
 ---
 

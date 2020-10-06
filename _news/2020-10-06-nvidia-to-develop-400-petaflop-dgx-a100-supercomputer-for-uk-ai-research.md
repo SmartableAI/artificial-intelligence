@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "VMware Partnership, A Big Win For NVIDIA In AI Chip Market"
-    excerpt: "This partnership is complete in line with NVIDIA’s recent efforts with AI, thus giving it a significant edge in the AI chip industry."
-    publishedDateTime: 2020-10-02T00:00:00Z
-    webUrl: "https://analyticsindiamag.com/vmware-partnership-a-big-win-for-nvidia-in-ai-chip-market/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/VMware-Partnership-A-Big-Win-For-NVIDIA-In-AI-Chips-Market.jpg"
-        width: 1389
-        height: 774
-        isCached: true
   - title: "AMAX Accelerates Next-Gen AI Computing With NVIDIA A100 GPUs"
     excerpt: "AMAX's HPC and AI Solutions Group announced its series of next-generation NVIDIA A100 powered server systems that bring AI training, inference, and analytics"
     publishedDateTime: 2020-10-05T14:34:00Z

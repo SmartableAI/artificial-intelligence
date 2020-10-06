@@ -478,6 +478,48 @@
       ]
     },
     {
+      "path": "_news/2020-10-01-dascena-presents-poster-highlighting-machine-learning-algorithm-for-earlier-detection-of-acs-at-hfsa-virtual-annual-scientific-meeting.md",
+      "title": "Dascena Presents Poster Highlighting Machine Learning Algorithm for Earlier Detection of ACS at HFSA Virtual Annual Scientific Meeting",
+      "excerpt": "Dascena Presents Poster Highlighting Machine Learning Algorithm for Earlier Detection of ACS at HFSA Virtual Annual Scientific Meeting",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201001005692/en/Dascena-Presents-Poster-Highlighting-Machine-Learning-Algorithm-for-Earlier-Detection-of-ACS-at-HFSA-Virtual-Annual-Scientific-Meeting",
+      "originalUrl": "https://www.businesswire.com/news/home/20201001005692/en/Dascena-Presents-Poster-Highlighting-Machine-Learning-Algorithm-for-Earlier-Detection-of-ACS-at-HFSA-Virtual-Annual-Scientific-Meeting",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201001005692/en/788554/23/Screen_Shot_2020-04-29_at_5.58.53_PM.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-01T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-01-combining-machine-learning-tools-for-medical-imaging-with-genetic-sequencing-nets-sophia-genetics-110m.md",
       "title": "Combining machine learning tools for medical imaging with genetic sequencing nets Sophia Genetics $110M",
       "excerpt": "SOPHiA GENETICS, the shoutily and poorly capitalized-named startup that’s combining machine learning tools for medical imaging and genetic sequencing to come up with a more holistic view of diseases for better patient care,",
@@ -1391,58 +1433,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-deep-science-robot-perception-acoustic-monitoring-using-ml-to-detect-arthritis.md",
-      "title": "Deep Science: Robot perception, acoustic monitoring, using ML to detect arthritis",
-      "excerpt": "This column aims to collect the most relevant recent discoveries and papers — particularly in but not limited to artificial intelligence — and explain why they matter. The topics in this week ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/28/deep-science-robot-perception-acoustic-monitoring-using-ml-to-detect-arthritis/",
-      "originalUrl": "https://techcrunch.com/2020/09/28/deep-science-robot-perception-acoustic-monitoring-using-ml-to-detect-arthritis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-1136667866.jpg?w=1024",
-          "width": 1024,
-          "height": 716,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/28/deep-science-robot-perception-acoustic-monitoring-using-ml-to-detect-arthritis/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/28/deep-science-robot-perception-acoustic-monitoring-using-ml-to-detect-arthritis/amp/",
-      "publishedDateTime": "2020-09-28T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

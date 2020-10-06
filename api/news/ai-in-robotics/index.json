@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-06-how-is-artificial-intelligence-revolutionising-our-global-healthcare.md",
+      "title": "How Is Artificial Intelligence Revolutionising Our Global Healthcare?",
+      "excerpt": "Artificial intelligence is reinventing everything we once knew about healthcare. Find out how this technology could save millions of lives in the future. Artificial intelligence is one of the most promising technologies in the world.",
+      "sourceUrl": null,
+      "webUrl": "https://theislandnow.com/blog-112/how-is-artificial-intelligence-revolutionising-our-global-healthcare/",
+      "originalUrl": "https://theislandnow.com/blog-112/how-is-artificial-intelligence-revolutionising-our-global-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://301txf2j650kx3hvubmojefm-wpengine.netdna-ssl.com/wp-content/uploads/2016/07/placeholder-wp.jpg",
+          "width": 696,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://theislandnow.com/blog-112/how-is-artificial-intelligence-revolutionising-our-global-healthcare/amp/",
+      "cdnAmpWebUrl": "https://theislandnow-com.cdn.ampproject.org/c/s/theislandnow.com/blog-112/how-is-artificial-intelligence-revolutionising-our-global-healthcare/amp/",
+      "publishedDateTime": "2020-10-06T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Island Now",
+        "domain": "theislandnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-ai-researchers-challenge-a-robot-to-ride-a-skateboard-in-simulation.md",
       "title": "AI researchers challenge a robot to ride a skateboard in simulation",
       "excerpt": "Nvidia AI researchers say they created a more energy efficient and effective way to make four-legged robots walk.",
@@ -1357,57 +1400,6 @@
         "name": "Nasdaq",
         "domain": "nasdaq.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-japan-looks-to-ai-as-coronavirus-challenges-go-and-see-quality-control-mantra.md",
-      "title": "Japan looks to AI as coronavirus challenges go-and-see quality control mantra",
-      "excerpt": "Improvements in artificial intelligence (AI) have come in tandem with increasingly ... Since the breakthrough, Poliakine’s startup SixAI and Musashi Seimitsu have established MusashiAI, a joint venture which develops and hires out quality control robots ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-japan-factory-rebo/japan-looks-to-ai-as-coronavirus-challenges-go-and-see-quality-control-mantra-idUSKCN26F2HB",
-      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-japan-factory-rebo/japan-looks-to-ai-as-coronavirus-challenges-go-and-see-quality-control-mantra-idUSKCN26F2HB",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200924&t=2&i=1535279049&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8N1CP",
-          "width": 745,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN26F2HB",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26F2HB",
-      "publishedDateTime": "2020-09-24T07:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

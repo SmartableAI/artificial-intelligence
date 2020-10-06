@@ -41,34 +41,6 @@ related:
         width: 1260
         height: 630
         isCached: true
-  - title: "Displaying items by tag: speech recognition systems"
-    excerpt: "Engineers from the University of NSW are leading a research project aimed at closing the gap in speech recognition systems that they say have until now have performed badly in understanding young users of technology."
-    publishedDateTime: 2020-10-02T00:07:00Z
-    webUrl: "https://www.itwire.com/freelancer-sp-720/tag/speech recognition systems.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 39
-    images:
-      - url: "https://www.itwire.com/images/Dialog_Oct_300x250.jpg"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "UNSW leads research into speech recognition systems"
-    excerpt: "Engineers from the University of NSW are leading a research project aimed at closing a gap in speech recognition systems that they say have until now have performed badly in understanding young users of technology."
-    publishedDateTime: 2020-10-01T23:40:00Z
-    webUrl: "https://itwire.com/development/unsw-leads-research-into-speech-recognition-systems.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 39
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/0bf96682ac4626b53b4a2c9c434deffc_M.jpg"
-        width: 375
-        height: 238
-        isCached: true
 
 secured: "ROP2svoAZix50fxBB8IMccB95777IaP6Qdum2/Ia8KVY1OZPBKtifz3HVJ73rJiQHsWb6tr3jRnbxo8dhRHaC2hH2gh9OssP4KLXT5huycYkMVVhej6dlsIdokgSQY0zuLwstFkoDwKB8oRkOYGwRt63zuUfflC1LeUCBlD19T4KJZ1ENmSGfI9k7skXa0VNootkKuMDk3CzOF6cG2/MV/1WZgbI0HGLd4Wil/5T+ZSFUXkoGRTt8xTK/iV7vmvwTeUD7KAHl7eew4LPayVwThkjRQhXewcLX6SLoDCOcun9uLMwNcOadhDKIyEnWlM2kRjMZeyZK7Qo0DV0FeEwQmKE0t3J/z36wuAvsoPb2vg=;1MkOZT74WZ+ommhohQXz0A=="
 ---

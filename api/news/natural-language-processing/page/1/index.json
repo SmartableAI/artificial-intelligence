@@ -61,7 +61,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/evaluating-an-automatic-speech-recognition-service/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -107,17 +107,17 @@
     {
       "path": "_news/2020-10-01-mcloud-brings-natural-language-processing-to-connected-workers-through-partnership-with-aiqudo.md",
       "title": "mCloud Brings Natural Language Processing to Connected Workers through Partnership with Aiqudo",
-      "excerpt": "By combining AssetCare with Aiqudo's powerful Voice to Action® platform, mobile field workers will be able to interact with AssetCare solutions through a custom digital assistant using natural language.",
+      "excerpt": "CNW/ - mCloud Technologies Corp. (TSXV: MCLD) (OTCQB: MCLDF) (\"mCloud\" or the \"Company\"), a leading provider of asset management solutions combining",
       "sourceUrl": null,
-      "webUrl": "https://www.finanzen.net/nachricht/aktien/mcloud-brings-natural-language-processing-to-connected-workers-through-partnership-with-aiqudo-9351204",
-      "originalUrl": "https://www.finanzen.net/nachricht/aktien/mcloud-brings-natural-language-processing-to-connected-workers-through-partnership-with-aiqudo-9351204",
+      "webUrl": "https://www.newswire.ca/news-releases/mcloud-brings-natural-language-processing-to-connected-workers-through-partnership-with-aiqudo-894258930.html",
+      "originalUrl": "https://www.newswire.ca/news-releases/mcloud-brings-natural-language-processing-to-connected-workers-through-partnership-with-aiqudo-894258930.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
+          "url": "https://www.newswire.ca/content/dam/newswire-ca/logos/cnw_en_facebook_sharing_logo.png",
           "width": 600,
           "height": 315,
           "title": null,
@@ -131,8 +131,8 @@
       "publishedDateTime": "2020-10-01T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Finanzen",
-        "domain": "finanzen.net",
+        "name": "Newswire",
+        "domain": "newswire.ca",
         "images": null,
         "publishers": null,
         "authors": null
@@ -196,6 +196,48 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-unlocking-the-secrets-of-language-ai-with-inter-language-vector-space.md",
+      "title": "Unlocking the Secrets of Language AI With Inter-language Vector Space",
+      "excerpt": "Interview with XTM International’s Rafał Jaworski on how interlanguage vector space impacts cost, delivery time, accuracy for linguists, LSPs",
+      "sourceUrl": null,
+      "webUrl": "https://slator.com/sponsored-content/unlocking-secrets-language-ai-inter-language-vector-space/",
+      "originalUrl": "https://slator.com/sponsored-content/unlocking-secrets-language-ai-inter-language-vector-space/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://slator.com/assets/2020/09/ILVS-Slator-title-25-09-v2.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-28T23:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slator",
+        "domain": "slator.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1374,48 +1416,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-virginia-graves-receives-recognition-for-decades-of-public-service.md",
-      "title": "Virginia Graves receives recognition for decades of public service",
-      "excerpt": "Even after working as a nurse in the Korean War and caring for patients in the W.G. Bill “Hefner” VA Medical Center for decades, Virginia Graves wasn’t done serving people. That’s why she was excited to join the Nursing Home Advisory Committee,",
-      "sourceUrl": null,
-      "webUrl": "https://www.salisburypost.com/2020/09/13/virginia-graves-receives-recognition-for-decades-of-public-service/",
-      "originalUrl": "https://www.salisburypost.com/2020/09/13/virginia-graves-receives-recognition-for-decades-of-public-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.salisburypost.com/wp-content/uploads/sites/9/2020/09/0913-Graves1.jpg",
-          "width": 622,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-12T21:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Salisbury Post",
-        "domain": "salisburypost.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

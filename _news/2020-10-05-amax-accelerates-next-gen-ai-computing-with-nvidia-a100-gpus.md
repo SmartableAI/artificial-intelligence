@@ -51,20 +51,6 @@ related:
         width: 708
         height: 398
         isCached: true
-  - title: "VMware Partnership, A Big Win For NVIDIA In AI Chip Market"
-    excerpt: "This partnership is complete in line with NVIDIA’s recent efforts with AI, thus giving it a significant edge in the AI chip industry."
-    publishedDateTime: 2020-10-02T00:00:00Z
-    webUrl: "https://analyticsindiamag.com/vmware-partnership-a-big-win-for-nvidia-in-ai-chip-market/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/VMware-Partnership-A-Big-Win-For-NVIDIA-In-AI-Chips-Market.jpg"
-        width: 1389
-        height: 774
-        isCached: true
 
 secured: "O7NWdA5DDl5iYOqJWW+pCmrao2gKeHEsoAIgK5cHaRkq216qPQRsdeGgCOs3AV8SXhf6cUyVoQ637Up9p2WOWyYKsCM/xeXqDvX38ErLfuHNzCMgF6DHT3ZAUMS6ibza5U0bObtKk8ham+pTbm7Xfvvp28eE8IoCbPapAQCoCrjOoOxz+WIwMZBITWEzpDizNMzqPr4IfnOFGJv8qxiBe5YzCHiioLPGrcYCrymmxCbBPB1bz84HdHMqu7NnhI5zMVik4KYGDvFrwvX28RaehCh0BbOPTHXj8lvSlJK0tSZsu5oOja/eUngqv/mPpByhDJRG3pKsuCgavSjxKagn9Bx4Hvc/v9bHBGLy26kyLVk5v8qBThXM3ZHPIYP/kmDJNUBJRYRVVeHJg1rcuyE3MRx53l6WG2/Sk2Sfjd1tlxxMJA2pgHxTUezdYqfwgVJWPPYwWgQmVfRkkjG5sXAgOUEbwwzO/lJqHhS4o4mdtjr8qnz86gl082xgMG5bsq6DcRjwVtSbDFI9iKrRNahrGQ==;MlnQMUL26a3DFeJEEYBMGA=="
 ---

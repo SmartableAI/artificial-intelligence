@@ -2,6 +2,48 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-03-machine-learning-ai-chooses-henry-cavill-as-the-next-james-bond.md",
+      "title": "Machine Learning AI Chooses Henry Cavill As The Next James Bond",
+      "excerpt": "Elizabeth Olsen Deletes Instagram Due To Backlash For Not Po... Eternals Director Wants The Film To Be Bigger Than Avengers:... Grand Theft Auto 6 Is Reportedly Years Away From Being Annou ...",
+      "sourceUrl": null,
+      "webUrl": "https://wegotthiscovered.com/movies/ai-henry-cavill-james-bond/",
+      "originalUrl": "https://wegotthiscovered.com/movies/ai-henry-cavill-james-bond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wegotthiscovered.com/wp-content/uploads/2020/08/Henry-Cavill.jpg",
+          "width": 1155,
+          "height": 570,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://wegotthiscovered.com/movies/ai-henry-cavill-james-bond/amp/",
+      "cdnAmpWebUrl": "https://wegotthiscovered-com.cdn.ampproject.org/c/s/wegotthiscovered.com/movies/ai-henry-cavill-james-bond/amp/",
+      "publishedDateTime": "2020-09-02T17:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "We Got This Covered",
+        "domain": "wegotthiscovered.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-03-low-code-can-lower-the-barrier-to-entry-for-ai.md",
       "title": "Low-Code Can Lower the Barrier to Entry for AI",
       "excerpt": "Organizations that want to get started quickly with machine learning may be interested in investigating emerging low-code options for AI. While low-code",

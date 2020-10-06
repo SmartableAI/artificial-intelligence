@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/deliver-ai-powered-application-se
 webUrl: "https://azure.microsoft.com/blog/deliver-ai-powered-application-search-with-azure-cognitive-search-and-ba-insight/"
 type: article
 quality: 99
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.controleng.com/wp-content/uploads/sites/2/2020/10/CTLx-StoneShi-Slider.jpg"
         width: 645
         height: 350
+        isCached: true
+  - title: "Welcome Initiative on Artificial Intelligence"
+    excerpt: "The first step is to enact robust data protection It is welcome that India is hosting a global summit on artificial intelligence (AI) and that the Prime Minister has addressed the gathering and expressed"
+    publishedDateTime: 2020-10-06T17:26:00Z
+    webUrl: "https://economictimes.indiatimes.com/blogs/et-editorials/welcome-initiative-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 37
+    images:
+      - url: "https://economictimes.indiatimes.com/blogs/wp-content/uploads/2020/10/5g-2.jpg"
+        width: 295
+        height: 307
         isCached: true
 
 secured: "1NnpfFoI0AAzMLQKqhScBWuoT8fvcc1q//ry2FpUlsEN2+4yqq9TGK+T8o5pnKKcDtA856ua5fM20GghbN/CQf1V1Vm7ILnuVeqm5o4Bp0ffsqnaZkzhMk+QU6Kaszp4og/Q6CV/hm7PHkURutasu4Filq9iTeMkElg0m/U+3V6ni5nNOJpGzvYJMDpX5zDlD6lsmUr7Is2KG31KKICTAVZkjx1KB70oVUNVFmfo86etvUivWxxQVJbb2KN7fEOhpTKng99j7KvpVFj8cE3GB/b3gSGvCttUOuKHp7s1K0kUxUDi9pOX0+EGDf9MTsvT2iE/GwclKog47TuD9xK1F/lAJQMs9/ZPq4j5QZCJ5SM=;fjswg4fsAaj0Y7qBzXCvng=="

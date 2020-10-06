@@ -1,29 +1,22 @@
 ---
 category: news
 title: "Cresta's AI Coaching Software Integrates with Amazon Connect to Provide Real-Time Performance Optimization of Sales and Support Teams"
-excerpt: "PRNewswire/ -- Cresta, a real-time intelligence platform for customer conversations, today announced its integration with Amazon Connect, an"
-publishedDateTime: 2020-10-06T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/crestas-ai-coaching-software-integrates-with-amazon-connect-to-provide-real-time-performance-optimization-of-sales-and-support-teams-301146571.html"
-webUrl: "https://www.prnewswire.com/news-releases/crestas-ai-coaching-software-integrates-with-amazon-connect-to-provide-real-time-performance-optimization-of-sales-and-support-teams-301146571.html"
+excerpt: "PRNewswire/ -- Cresta, a real-time intelligence platform for customer conversations, today announced its integration with Amazon Connect, an easy-to-use omnichannel cloud contact center service from"
+publishedDateTime: 2020-10-06T14:47:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/crestas-ai-coaching-software-integrates-with-amazon-connect-to-provide-real-time-performance-optimization-of/article_5f91ad31-6205-51fe-b905-636bd3fd3dc3.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/crestas-ai-coaching-software-integrates-with-amazon-connect-to-provide-real-time-performance-optimization-of/article_5f91ad31-6205-51fe-b905-636bd3fd3dc3.html"
 type: article
-quality: 8
-heat: 8
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AWS AI
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1307745/CRESTA_Logo.jpg?p=facebook"
-    width: 665
-    height: 351
-    isCached: true
-
-secured: "JkktzH7HTSSikPQWHHtuTrUuKyG/7m7r2ukO70gxiaPbZr9GDNrtPQy7FNGhsj+L1rzjJ/3vaA86t+2YdcY0UvBFDb9/N/D4kTErMd4l6tsM8bXVmsLB6pqX/hMdiuDKGHtgOfLkdaVTuvBRJgglfsm/qjrqaLxZw+J17ovTvSqcwDhy9xSs4txoj5MeWzHQpGE0Xeb0TmXNYEppV3ZfGMdaqJIHUY4E5dSPAO1yZOfuakGjk8nU+0gP1ofzjFwPid1m2kkGmrJ6SxqJ9EZ+bd5W3Rte/01tfeUTqRdW4WJ7I3yOPeAbIiGJS0gI0HpayWC78H1zeC08TO3QdOJlfYW7WA5wBJfDPkja/9Geszk=;zwvt/J6VdmYyXts8re93+g=="
+secured: "fl5O551iwEQOPXRiRorUt2ExfoodJgtBrVCfp03gpZ/L6HgpvD29ijJT0mwfNztkNp+gFTVG8cmQuehNX7v8vCPoHHVH44UE2L4eYzEmc3UzydA7VqRvRmMS4PY8au55L3POnH5s28a/a8y8gA0PO1RBYLp6cgZAgRguqeUOy0L23FDuWOlZXpBSSakSe8QqX27tXHUsUulF2Rb4zjre/HWZ35MxXP+gwybg5IR2LhiBc+P7iKAydfZv+Z3KolhVCgoRR32Ru0XIIt7dimRtpttH765nIBHKpArrwqtLUXaDuCmaFdAyTnk/VbnLQ1L065bDwT3SwdDzN/wwDxJi/lMikRpnrpqpDDJtkovUUoc=;9Bm6LnCf45MKkFPyX9jw6g=="
 ---
 
