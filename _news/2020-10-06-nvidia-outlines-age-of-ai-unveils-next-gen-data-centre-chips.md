@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-06T07:38:00Z
 originalUrl: "https://www.sify.com/news/nvidia-outlines-age-of-ai-unveils-next-gen-data-centre-chips-news-education-ukgflBgbhfjfg.html"
 webUrl: "https://www.sify.com/news/nvidia-outlines-age-of-ai-unveils-next-gen-data-centre-chips-news-education-ukgflBgbhfjfg.html"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.sify.com/uploads/nvidia_chip_bluefield2_uj4rUTiabbhch.jpeg"
@@ -42,6 +43,6 @@ related:
         height: 675
         isCached: true
 
-secured: "tc4/H5SGciSiiS7plFDCejve2xZFUV1ADWSB2dhJn7f3cyiRI+gNnMsGwbQVnyl0hnIPSH5Xgb0ewh0q9XYIhQE3A+4DXJl9i4oKdZvHownEpf08yvNNaY84sNHVUJ6IRJ0h5c3speKvWMZwuNqzpV4JKZ5G7+m5ImsyYOyuuzfHlppRCoMQJdGE5AyHBsd5qzaN7PphJ8soo5OnRFBLJif7nZVqKMzSo+795ShnqbkAsvg5j1vqIR+nltr/GmRS1mR33ANNMaa4uwnGNgiz0Kf433efI5rORmjVTc//fTK7/PFgovXLvghslAG+QbdUgjulGKeuSZrUQ2391n9yUrlMbb9AXhHlcn1PVRNbrNc=;g1RU6YGPg7R1lzEwCosTNA=="
+secured: "hlYLxafJjLMu3Yi3dJKb05fg3RQQY6z1wrbHqQ6Q8Usb778+Lw2Q6N4qb94toZveXcxFWnnzZGIreyyE+G4Y88smEwM6d5GTeDw/PynldcD0ZyKertERt8woeepr62TiL3qMhWPbuUoxozbOaVhYiMqJC05CzS5rK5ADJXGf2gKlagYrXg4w7qTCtd3qbFyYoIsDomxT8QHQ3Yx+EF1eZMPaM0yyikiqvJk7F41avxQ7M2tF2baPdbBHyPWnvnysfDQO+O2W63GjiGsPoin3pKnNuM+DmsqhuSZSjaKzxDlzX6WHw1Up6JK40cpaR/zZow+vFwo77lJqYIwRh8ygQi3tG9KdlJvJpsh9xHZv2Lu22WHNKTF8YX5uzbJRZyhis0rCxORGgWnebJEETLdvOc6nbt6BPO3YpHkSqDNk/B5BPBooXcLvGECqMFPuKbHqOImpN6KlMzTBxCmdE+0P53aSDS4dPiYvatNur4RAJGmHDdcIRD1AfCBPLzIsQYj2H/qJp8t5bIrygn3qzT7+4A==;xlbLXEN+LHkIs1zNBkfeCg=="
 ---
 

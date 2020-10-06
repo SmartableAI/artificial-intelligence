@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-04-why-investors-should-focus-more-on-the-infrastructure-supporting-the-ai-revolution.md",
+      "title": "Why Investors Should Focus More On The Infrastructure Supporting The AI Revolution",
+      "excerpt": "AI has been heralded as the catalyst for a new industrial revolution. While the potential for massive impact is very real, venture investors looking to capitalize on growth ought to spend more time considering the enabling infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/columbiabusinessschool/2020/10/04/why-investors-should-focus-more-on-the-infrastructure-supporting-the-ai-revolution/",
+      "originalUrl": "https://www.forbes.com/sites/columbiabusinessschool/2020/10/04/why-investors-should-focus-more-on-the-infrastructure-supporting-the-ai-revolution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f78d185a61efd5ea2abacc9%2F0x0.jpg%3FcropX1%3D1438%26cropX2%3D6256%26cropY1%3D1321%26cropY2%3D4128",
+          "width": 1200,
+          "height": 699,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/columbiabusinessschool/2020/10/04/why-investors-should-focus-more-on-the-infrastructure-supporting-the-ai-revolution/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/columbiabusinessschool/2020/10/04/why-investors-should-focus-more-on-the-infrastructure-supporting-the-ai-revolution/amp/",
+      "publishedDateTime": "2020-10-04T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-10-04-many-top-ai-researchers-get-financial-backing-from-big-tech.md",
       "title": "Many Top AI Researchers Get Financial Backing From Big Tech",
       "excerpt": "Abdalla found that more than half of tenure-track AI faculty at four prominent universities who disclose their funding sources have received some sort of backing from Big Tech. Abdalla says he doesn’t believe any of those faculty are acting unethically ...",
@@ -827,57 +878,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-ai-can-help-patientsbut-only-if-doctors-understand-it.md",
-      "title": "AI Can Help Patients—but Only If Doctors Understand It",
-      "excerpt": "Algorithms can help diagnose a growing range of health problems, but humans need to be trained to listen. Nurse Dina Sarro didn’t know much about artificial intelligence when Duke University Hospital installed machine learning software to raise an alarm when a person was at risk of developing sepsis,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-help-patients-doctors-understand/",
-      "originalUrl": "https://www.wired.com/story/ai-help-patients-doctors-understand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f7675e3ff21dc4074d250d8/master/pass/business_nurse_1224894742.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ai-help-patients-doctors-understand/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-help-patients-doctors-understand/amp",
-      "publishedDateTime": "2020-10-02T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     },
     {

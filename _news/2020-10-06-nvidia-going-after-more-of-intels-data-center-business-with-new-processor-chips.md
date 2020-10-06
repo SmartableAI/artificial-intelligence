@@ -39,7 +39,7 @@ related:
     provider:
       name: Sify.com
       domain: sify.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://www.sify.com/uploads/nvidia_chip_bluefield2_uj4rUTiabbhch.jpeg"
         width: 690

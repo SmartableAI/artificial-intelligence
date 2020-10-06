@@ -3,10 +3,10 @@ category: news
 title: "Avaya to integrate Nvidia's Maxine cloud streaming video AI into Avaya Spaces"
 excerpt: "For Avaya, the partnership with Nvidia will enable it to add more visual and virtual experiences to its collaboration platform."
 publishedDateTime: 2020-10-05T13:00:00Z
-originalUrl: "https://www.zdnet.com/article/avaya-to-integrate-nvidias-maxine-cloud-streaming-video-ai-into-avaya-spaces/"
-webUrl: "https://www.zdnet.com/article/avaya-to-integrate-nvidias-maxine-cloud-streaming-video-ai-into-avaya-spaces/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/avaya-to-integrate-nvidias-maxine-cloud-streaming-video-ai-into-avaya-spaces/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/avaya-to-integrate-nvidias-maxine-cloud-streaming-video-ai-into-avaya-spaces/"
+originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/avaya-to-integrate-nvidias-maxine-cloud-streaming-video-ai-into-avaya-spaces/"
+webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/avaya-to-integrate-nvidias-maxine-cloud-streaming-video-ai-into-avaya-spaces/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/avaya-to-integrate-nvidias-maxine-cloud-streaming-video-ai-into-avaya-spaces/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/avaya-to-integrate-nvidias-maxine-cloud-streaming-video-ai-into-avaya-spaces/"
 type: article
 quality: 64
 heat: -1
@@ -245,6 +245,6 @@ related:
       domain: seekingalpha.com
     quality: 15
 
-secured: "cOvhknv8Eia5/F4P+Fimno4fQN+CsG/5hEq6/gIQ1XA+fHUA4GmFfuowuGlr9DbTOedUfewmy/6yBWHa4w3ktv7e+V5SiFy175IK00HuzliHRvxzPj1oJ+QfvoY0jtP83YawS44Ibxuu1fKqWyi4n25ugshV4/NNuo3QrtssvWhLKUzWGJtaYBOi094qP54BcuitQZQfaFGEe/aPVmRDU/l9GiSAIJaQrJOI9V/8vEtkTITzBsji1yNPjHj+xLEciT7Y8wtsIC6yc/frTmNs0OrfjRwqMt2gk/Hh9J0qgYFPXH+ETcyGqs81sRhUeAa2VbbvybCziwi5t67ZVex17VT0+j/nASF1Vv3oEXAshBiPJ97AMgb0D/HCrEuXl14yUeM7Aqb/bTfo6IatYSeXowCbAUfVMWUt0SCY9HlkKsKBeopPDL8bEnLi545IKvnfnb+8tGMbsKjlQtS5rK0URjMP/fHKGgnfD4mQlkV/RUJWBg3cGt3VvmEFw2fcLAHEeGPPyrkZr0f4tBv03iEu0A==;qAiRWmwkxSATaBSfnTvwYQ=="
+secured: "UEiEUeR4d82kZKnnYAhToAPxacIVEkMOikxSg8f+95XQhXZZ3RHXd7+adyAQr0DH3FaXwmryHkf6YAIHaLrHTLhhsNuEuRuibNTM2VEJ675fceWLVd046HFmrAhFpDgdkYC7UK28BHlsUheiH8SwrTXTDGbC3rpzg1b8qJNKo0Gj77bq9TCKM2U5Kym1a+bk2+GrHr4jgwV4/k3QYFUhcJNywIEc1+b7OPtMEbX+RGRvYtt3Bzr8rZ2aHVQCXx57cihu/Gi5SKCn4Y49N30a+zHgtlKLXdfF6x46g/UJkkLJFquLVRwKLeAyxMKKmxlQIJJp+5bUsxK00Y20+PH/2kP/mrvU5eXahIqferCoQfORAtEfFF8cvm62/1iyzk1ihhmUiqnMyhbKwI9YFP2H+gTnvyKDQ3TaGkz5nKACiOGWYw7+I900m1D875JB/yRdBGnp3aAwM1wC+FotQX7dM8xamY5kpYKA3wb80i1i+Pk0V3T0DPJ52lJPlGs1xYukNXz9vtVUz6Z7iA59WojCvg==;b0+QBovorpVjYBMA1d2xYw=="
 ---
 

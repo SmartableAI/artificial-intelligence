@@ -2,48 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-09-24-south-korea-tech-giants-expanding-robotics-amid-covid-19.md",
-      "title": "South Korea tech giants expanding robotics amid COVID-19",
-      "excerpt": "South Korea's biggest tech companies are investing in robotics as a solution to the risks of human contact amid the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/World-News/2020/09/23/South-Korea-tech-giants-expanding-robotics-amid-COVID-19/3121600883704/",
-      "originalUrl": "https://www.upi.com/Top_News/World-News/2020/09/23/South-Korea-tech-giants-expanding-robotics-amid-COVID-19/3121600883704/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/3121600883704/2020/1/f4b46952582fb33f29de4effbf354249/v1.5/South-Korea-tech-giants-expanding-robotics-amid-COVID-19.jpg",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2020/09/23/South-Korea-tech-giants-expanding-robotics-amid-COVID-19/3121600883704/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/09/23/South-Korea-tech-giants-expanding-robotics-amid-COVID-19/3121600883704/",
-      "publishedDateTime": "2020-09-23T11:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-23-regina-barzilay-wins-1m-association-for-the-advancement-of-artificial-intelligence-squirrel-ai-award.md",
       "title": "Regina Barzilay wins $1M Association for the Advancement of Artificial Intelligence Squirrel AI award",
       "excerpt": "... the Association for the Advancement of Artificial Intelligence (AAAI) — announced today the winner of their new Squirrel AI Award for Artificial Intelligence for the Benefit of Humanity, a $1 million award given to honor individuals whose work in ...",
@@ -1362,6 +1320,49 @@
         "AI Hardware",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-artificial-intelligence-and-the-future-of-food-industry.md",
+      "title": "Artificial Intelligence and the future of food industry",
+      "excerpt": "It uses Artificial Intelligence (AI) to help you with recipes that you can make with the ingredients you input. It’s an application that teamed with Bon Appetite, a recipe app, and can read up the chemical compositions of hundreds of ingredients and analyse 10,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/lifestyle/food/2020/sep/13/artificial-intelligence-and-the-future-of-food-industry-2195156.html",
+      "originalUrl": "https://www.newindianexpress.com/lifestyle/food/2020/sep/13/artificial-intelligence-and-the-future-of-food-industry-2195156.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/9/12/w600X390/Foodtech.jpg",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/lifestyle/food/2020/sep/13/artificial-intelligence-and-the-future-of-food-industry-2195156.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/lifestyle/food/2020/sep/13/artificial-intelligence-and-the-future-of-food-industry-2195156.amp",
+      "publishedDateTime": "2020-09-12T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "IBM AI"
       ]
     }
   ],

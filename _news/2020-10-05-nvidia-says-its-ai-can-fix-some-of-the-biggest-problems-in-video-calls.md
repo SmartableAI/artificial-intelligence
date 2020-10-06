@@ -127,9 +127,9 @@ related:
   - title: "Avaya to integrate Nvidia's Maxine cloud streaming video AI into Avaya Spaces"
     excerpt: "For Avaya, the partnership with Nvidia will enable it to add more visual and virtual experiences to its collaboration platform."
     publishedDateTime: 2020-10-05T13:00:00Z
-    webUrl: "https://www.zdnet.com/article/avaya-to-integrate-nvidias-maxine-cloud-streaming-video-ai-into-avaya-spaces/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/avaya-to-integrate-nvidias-maxine-cloud-streaming-video-ai-into-avaya-spaces/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/avaya-to-integrate-nvidias-maxine-cloud-streaming-video-ai-into-avaya-spaces/"
+    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/avaya-to-integrate-nvidias-maxine-cloud-streaming-video-ai-into-avaya-spaces/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/avaya-to-integrate-nvidias-maxine-cloud-streaming-video-ai-into-avaya-spaces/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/avaya-to-integrate-nvidias-maxine-cloud-streaming-video-ai-into-avaya-spaces/"
     type: article
     provider:
       name: ZDNet

@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startup-raised-15-million-to-help-patients-transcribe-doctor-appointments-and-decode-jargon/</loc>
+    <lastmod>2020-10-06T02:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.dqindia.com/iit-roorkee-offers-online-course-machine-learning-deep-learning-details/</loc>
     <lastmod>2020-10-06T00:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -249,12 +255,6 @@
   <url>
     <loc>https://www.techrepublic.com/resource-library/whitepapers/mit-report-how-ai-changes-the-world/</loc>
     <lastmod>2020-10-02T05:15:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.wired.com/story/ai-help-patients-doctors-understand/</loc>
-    <lastmod>2020-10-02T05:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1951,14 +1951,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.openpr.com/news/2139411/covid-19-impact-on-ai-medicine-software-market-outlook</loc>
-    <lastmod>2020-09-22T05:28:00-07:00</lastmod>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace/article_f6c327bd-10d4-5df0-beed-77fd9ceef60a.html</loc>
+    <lastmod>2020-09-22T05:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-301135412.html</loc>
-    <lastmod>2020-09-22T05:09:00-07:00</lastmod>
+    <loc>https://www.openpr.com/news/2139411/covid-19-impact-on-ai-medicine-software-market-outlook</loc>
+    <lastmod>2020-09-22T05:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

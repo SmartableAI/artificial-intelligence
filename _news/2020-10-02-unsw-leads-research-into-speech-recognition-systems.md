@@ -39,6 +39,22 @@ related:
         width: 1260
         height: 630
         isCached: true
+  - title: "R&D in the service of AI’s automatic speech understanding"
+    excerpt: "Zaion, winner of the Innov’up Leader PIA, is indeed opening its own laboratory to accelerate its research and development into AI technologies for automatic speech understanding. We met Gérard Chollet,"
+    publishedDateTime: 2020-10-06T08:53:00Z
+    webUrl: "https://galusaustralis.com/2020/10/1017705/rd-in-the-service-of-ais-automatic-speech-understanding/"
+    ampWebUrl: "https://galusaustralis.com/2020/10/1017705/rd-in-the-service-of-ais-automatic-speech-understanding/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/10/1017705/rd-in-the-service-of-ais-automatic-speech-understanding/amp/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 59
+    images:
+      - url: "https://galusaustralis.com/wp-content/uploads/2020/10/Zaion-Lab-IA-scaled-1024x538.jpg"
+        width: 1024
+        height: 538
+        isCached: true
   - title: "Displaying items by tag: speech recognition systems"
     excerpt: "Engineers from the University of NSW are leading a research project aimed at closing the gap in speech recognition systems that they say have until now have performed badly in understanding young users of technology."
     publishedDateTime: 2020-10-02T00:07:00Z
