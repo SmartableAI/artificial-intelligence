@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/news/india/want-india-to-become-global-hub-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/want-india-to-become-global-hub-for-artificial-intelligence-pm-modi/amp-11601912327145.html"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Mint
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "PM Modi to inaugurate global virtual summit on Artificial Intelligence on Oct 5"
-    excerpt: "The summit is being organised by the Ministry of Electronics and Information Technology (MeitY) and NITI Aayog."
-    publishedDateTime: 2020-10-02T03:17:00Z
-    webUrl: "https://www.newsr.in/n/India/1zlu60yal3/PM-Modi-to-inaugurate-global-virtual-summit-on.htm"
-    ampWebUrl: "https://www.newsr.in/n/India/1zlu60yal3/PM-Modi-to-inaugurate-global-virtual-summit-on.htm"
-    cdnAmpWebUrl: "https://www-newsr-in.cdn.ampproject.org/c/s/www.newsr.in/n/India/1zlu60yal3/PM-Modi-to-inaugurate-global-virtual-summit-on.htm"
-    type: article
-    provider:
-      name: newsr.in
-      domain: newsr.in
-    quality: 55
-    images:
-      - url: "https://cdn.newsserve.net/newsR256.png"
-        width: 256
-        height: 256
-        isCached: true
   - title: "India will soon become global hub for Artificial Intelligence, PM hopes"
     excerpt: "Prime Minister Narendra Modi on Monday hoped that India will soon become a global hub for Artificial Intelligence and many more Indians will start working on this, in the times to come."
     publishedDateTime: 2020-10-05T17:03:00Z

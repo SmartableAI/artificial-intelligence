@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Russia Expands Facial Recognition Despite Privacy Concerns"
-    excerpt: "Russian authorities are planning to expand the use of CCTV cameras with facial recognition software, despite weighty concerns about the lack of regulation, oversight, and data protection, Human Rights Watch said today."
-    publishedDateTime: 2020-10-02T04:30:00Z
-    webUrl: "https://www.hrw.org/news/2020/10/02/russia-expands-facial-recognition-despite-privacy-concerns"
-    type: article
-    provider:
-      name: Human Rights Watch
-      domain: hrw.org
-    quality: 39
-    images:
-      - url: "https://www.hrw.org/sites/default/files/media_2020/10/202010eca_russia_facerecognition.JPG"
-        width: 5385
-        height: 3400
-        isCached: true
   - title: "Russia's Sixth-Generation Stealth Fighter Could Use Artificial Intelligence Weapons"
     excerpt: "Even as Russia continues to overcome production issues with its Su-57 stealth fighter, Moscow reportedly has its eyes set on a sixth-generation fighter jet."
     publishedDateTime: 2020-10-03T16:16:00Z

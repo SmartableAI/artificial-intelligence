@@ -29,8 +29,8 @@ images:
 related:
   - title: "Walter Williams: The True Test of Supporting Free Speech"
     excerpt: "The violence, looting, and mayhem that this nation has seen over the last several months has much of its roots in academia, where leftist faculty teach immature young people all manner of nonsense that contradicts commonsense and the principles of liberty."
-    publishedDateTime: 2020-10-06T15:21:00Z
-    webUrl: "https://www.cnsnews.com/index.php/commentary/walter-e-williams/walter-williams-true-test-supporting-free-speech"
+    publishedDateTime: 2020-10-06T14:46:00Z
+    webUrl: "https://cnsnews.com/commentary/walter-e-williams/walter-williams-true-test-supporting-free-speech"
     type: article
     provider:
       name: CNSNews.com

@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.wsj.com/video/events/deepmind-demis-hassabis-on-ai-doing-better/B1E79F73-609F-4979-8318-D239B3F4BF35.html</loc>
+    <lastmod>2020-10-06T12:49:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/exein-to-showcase-world-changing-security-solution-at-global-ai-conference-1029654309</loc>
+    <lastmod>2020-10-06T12:27:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/alexknapp/2020/10/06/using-machine-learning-to-predict-disease-in-cattle-might-help-solve-a-billion-dollar-problem/</loc>
     <lastmod>2020-10-06T11:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -141,12 +153,6 @@
   <url>
     <loc>https://www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/</loc>
     <lastmod>2020-10-05T09:22:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.livemint.com/news/india/want-india-to-become-global-hub-for-artificial-intelligence-pm-modi-11601912327145.html</loc>
-    <lastmod>2020-10-05T08:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -721,8 +727,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_health/andor-health-collaborates-with-mentor-to-deliver-next-generation-ai-powered-virtual-experiences-with-microsoft/article_87104374-4495-5f9b-9707-4d6892880d0d.html</loc>
-    <lastmod>2020-09-30T06:52:00-07:00</lastmod>
+    <loc>https://apnews.com/press-release/pr-newswire/technology-medical-technology-health-artificial-intelligence-computing-and-information-technology-7ebeb192b3437584eac7a740d6619523</loc>
+    <lastmod>2020-09-30T06:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -913,6 +919,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-partners-with-centralized-vision-to-expand-premium-service-offerings-1029631126</loc>
+    <lastmod>2020-09-29T07:59:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.nasdaq.com/articles/microsoft-msft-azure-to-transform-5g-edge-cloud-computing-2020-09-29</loc>
     <lastmod>2020-09-29T07:38:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -985,12 +997,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.morningstar.com/news/business-wire/20200929005358/artificial-intelligence-technology-solutions-partners-with-centralized-vision-to-expand-premium-service-offerings</loc>
-    <lastmod>2020-09-29T06:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://techcrunch.com/2020/09/29/irobot-cofounder-helen-greiner-named-ceo-of-robotic-gardening-startup-tertill/</loc>
     <lastmod>2020-09-29T05:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1041,6 +1047,12 @@
   <url>
     <loc>https://inside-com.breezy.hr/</loc>
     <lastmod>2020-09-29T03:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.rapidtvnews.com/2020092959120/microsoft-launches-azure-for-operators-cloud-initiative.html</loc>
+    <lastmod>2020-09-29T02:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1519,7 +1531,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.businesswire.com/news/home/20200916005883/en/Lemonade-CFO-Tim-Bixby-to-Present-at-the-Barclays-Global-Financial-Services-Conference</loc>
+    <loc>https://www.businesswire.com/news/home/20200916005883/en/</loc>
     <lastmod>2020-09-24T15:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1891,12 +1903,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wsj.com/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460</loc>
-    <lastmod>2020-09-23T05:01:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.forbes.com/sites/forbesfinancecouncil/2020/09/23/how-artificial-intelligence-can-enable-ethically-driven-investments/</loc>
     <lastmod>2020-09-23T04:39:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1947,6 +1953,12 @@
   <url>
     <loc>https://english.madhyamam.com/technology/global-chipmaker-qualcomm-announces-snapdragon-750g-chip-with-5g-connectivity-574863</loc>
     <lastmod>2020-09-23T00:20:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wsj.com/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460?mod=hp_minor_pos13</loc>
+    <lastmod>2020-09-23T00:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
