@@ -42,20 +42,6 @@ related:
         width: 768
         height: 412
         isCached: true
-  - title: "Startup Funding: September 2020"
-    excerpt: "Big investment in EV, batteries, and data center chips as 26 companies raise $2.6B; special look at computer vision funding."
-    publishedDateTime: 2020-10-01T07:04:00Z
-    webUrl: "https://semiengineering.com/startup-funding-september-2020/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 22
-    images:
-      - url: "https://i2.wp.com/semiengineering.com/wp-content/uploads/startup-funding-2020-09-Sep-table1.png?fit=841%2C808&#038;ssl=1"
-        width: 841
-        height: 808
-        isCached: true
   - title: "On the move: The North Texas tech and startup hires and departures in September"
     excerpt: "As the unemployment rate in North Texas continues to decline, the local tech and startup scene is reflecting that with a number of new hires last month. While September saw layoffs at a couple companies with local ties,"
     publishedDateTime: 2020-10-03T12:34:00Z

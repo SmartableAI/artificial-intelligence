@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Voice AI Redefines The Future Of Patient Interactions"
-    excerpt: "With automated processes, Artificial Intelligence is paving the way for technologically advanced healthcare space."
-    publishedDateTime: 2020-10-01T07:53:00Z
-    webUrl: "https://analyticsindiamag.com/voice-ai-redefines-the-future-of-patient-interactions/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/Voice-AI-01.jpg"
-        width: 1750
-        height: 1021
-        isCached: true
 
 secured: "zMhERPyB876oQThfcNnshODHGIjIg41wkH8Qo6jFzVzKRvZWGCNsMZfkNG2iNtqpDdWrWIr6vKn/0ouJmiUjurbg+EiriqFIQqnCHbn5U6TGpmqLGzw20CEjifdf3enSi8Duoc7uEo9wNorUIjT0OqJBHdXlnYMz/PzpmL1k2TYOpnwX0qVr5wqZsrX3GMnlFapZ7bV3SXKtsw0gOJTiWj0bbfddkkbAlphavEKDK99q7tSxFbAD5K1cWt/4ZFYUy8U9vVHZc9ULXW3kGZ19N/ig9S8Vzd1I7EwgfKJLIyhyLMVltuEY4bwOdppPQYN9T6M+1yPTF1p77heIm5mn/0mtz1U2cqa6id2WzFFqDBmA0IygYplJbrRyTzVvHC0xH4WUNCUCrbZwxjHNQZvkjbHMNgMGOjsdz0Hx/bDWI4rXfaFqOvWjS/NgOU4weKlzwuJgrsNeVNsPcl9aaMXxl2riONWHNbJAtkInnH/9q7nANJDhO0Ru2uUTAI7kEfy7Y1/PmRcu9Lm//bQx4OOfGA==;uNkLbACyHzfP3QNWm/ifMw=="
 ---

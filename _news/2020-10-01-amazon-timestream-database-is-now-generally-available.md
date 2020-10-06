@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-timestream-database-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-timestream-database-is-now-generally-available/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -48,20 +48,6 @@ related:
       name: Morningstar%2c Inc.
       domain: morningstar.com
     quality: 34
-  - title: "AWS launches Amazon Timestream, a serverless time series database for IoT and operational applications"
-    excerpt: "AWS announced the general availability of Amazon Timestream, a new time series database for IoT and operational applications."
-    publishedDateTime: 2020-10-01T08:25:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/10/01/amazon-timestream/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 23
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/10/01082315/amazon_timestream-large.jpg"
-        width: 1000
-        height: 511
-        isCached: true
 
 secured: "PBu16W1lounKsL0mxSS1WMUe1+OVlFO7R/Eq14/KPVM7B6Pjb+PcWYR+lKWCs/XP2yJBhz9NP8FJlcVsmQVVz08KZpUexPdfS/moi9bfb43AJfzOuYlB+Jds/Fjx4Gui3uD3xtjWem2QQyCbGTCcxwieCG57jO3P9kW0LCSvtESIXKaUNdSXXsBBzl6KOHhBzLYFrz3BThLtPAHYrf94fQlEzuia1ctos2lmz7bqSB2oaDEe1gfV1/Hf313kgOR7uyQzpzuzEXssJCb2PqVzOnAJTqoo9t2PtmR6aIwXlPNITq8aQmbS6I9U3HHiT8zpsT3K0kE2uuLRAlBhH7+y7Z6CsRB0TAprcVeGUi0wq9pVxrPRU0lWv/kE1KRL1pYb7DI7bDlMybKQCaq6ZhLlUHrAQqjt6Dp8PHTvrvKqaKHK+YoihpRC5ThVrS8WsXnC+8iBxVMZS87vAdrvMyHdVMw5PXS4UKP4KrhZGB3mThvB+eX7msc4qKxTLIce+CQyC6wyeYj7bnNL1HuPBBFI6A==;TdPm3Z2k/ZLjgcyVh3g4qA=="
 ---

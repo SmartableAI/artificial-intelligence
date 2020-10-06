@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AWS launches Amazon Timestream, a serverless time series database for IoT and operational applications"
-    excerpt: "AWS announced the general availability of Amazon Timestream, a new time series database for IoT and operational applications."
-    publishedDateTime: 2020-10-01T08:25:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/10/01/amazon-timestream/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 23
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/10/01082315/amazon_timestream-large.jpg"
-        width: 1000
-        height: 511
-        isCached: true
 
 secured: "tBNSFS2W2rKXFZx8WHdNMJvTPjuRP8hd7lv3MLquuc+s8kWKQU0j9LE3Ya0+yS01BsTyL/w0jYe6kKLlU3Fwbd9/yIKmZkV9RmAG/eMGRF02RHZr4mdNZrfAfhzMAsCXYG2jazQ5jBYt9dH6R8dP/dxZwii5InvIAbkj3NtcsIM6Ok/Rt8C4mhc5vOpGAdZl16rzvBikXEhQ2kQHwzPbkNmpvPeisTPzAup9R8WN4i/cXhsngIR46YcJf/cmSzrWw9fULAmM0fzlANp66dCAcEK9uPK9K89MKxZeMwvKpXph5rs3pNZ33LxGYUtaj+8nivjf0njDn44RtFKuUVYpjX9FvoICgaU5zib1Isj50YU=;KO26zaThrzIj/ofo1aUaoA=="
 ---

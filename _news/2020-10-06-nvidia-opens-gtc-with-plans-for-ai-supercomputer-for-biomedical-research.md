@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-05T22:04:00Z
 originalUrl: "https://www.hpcwire.com/2020/10/05/nvidia-opens-gtc-with-plans-for-ai-supercomputer-for-biomedical-research/"
 webUrl: "https://www.hpcwire.com/2020/10/05/nvidia-opens-gtc-with-plans-for-ai-supercomputer-for-biomedical-research/"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/nvidia-dgx-superpod_630x.jpg"
@@ -226,6 +227,6 @@ related:
       domain: seekingalpha.com
     quality: 15
 
-secured: "4uC2t2lnFXURxFyYor8hqoLaoQRUtFlUh3bQADrrHE7qiViBNWZSlhfNeH99icY2rhbc61jREp1k2TZkM8gKqKlDXeE/BiPQY31suNJ5yROaLS/0q2JYXiX6BUBCg1Y9/Imw7FK9Z0GiBKcG7b3BC5B2yURkJDp+UJ03NmzaV1dtM7EPYqm74O+IErbAezxVt6Kz5QZe5tR6dYg+bwmEVfe0gWDh4ZnOm88vD7DtSv8/JqxAXuVwrMjlT5n23nnJJYZ3wM0T02aBuQEBjig+xYXYAVo07JppjhhQD+NTUpryMsj9eNDQDmT52P4blMkSNRrryaRs+7pYP7fHze67yuNt544nYzjccEEFX4LPI4U=;qyrYhnPSm+HJ9jCPXN2YBA=="
+secured: "65368e3p8BpVVgzigkZOgMDN7IwVf2h0PmVGmZtrHOBjOfdoN8cJxJJWOHGwXGPPT1KYYGVTAVnIBWLdTahQYfRpI0iEoSPyPb0WSTdk+X5eCMxZ1oXbAStntqFIPHhGmd2V/Qg7bOGZsC/xJjp43r5Gj/PgP4kapHGxcENRcDx3qIndUMzXmVqCJU2HIAuXRSho0K2Fq58+SV6OpQvPE3WEFgK8yLyMgsvtXF69L1V/Ap+dOpspYHZ20m9npuOPVPX0DgqbZAww/q6bKsL/VJtRrOsBDuq/RAnmbDWno1uaVMX4l9WLvDBzlPi5PPeJOtJVqW9CmTRbyY6duioKmbsR4h9Fqj2EmILr7zDEO0vJ1ja1ReYO2DUlkR9vdj71M/7cC6eJ6vtUqQYAnvskwdCuEQCDtLRZMclyTApozwRS4AZoOZ1zriBOAgcKuYhUT7XzZ/BN0q6asl4F+l3KUxVYWtTpNrmwk/TUzBmgLRlszUg+eQ4jypyayUW53iJCBMNZYAYWLPKX4lfMXnMlfA==;GDGze0/61twbOi9oxPZ0Lw=="
 ---
 

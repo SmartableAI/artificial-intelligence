@@ -45,20 +45,6 @@ related:
       name: Morningstar%2c Inc.
       domain: morningstar.com
     quality: 34
-  - title: "AWS launches Amazon Timestream, a serverless time series database for IoT and operational applications"
-    excerpt: "AWS announced the general availability of Amazon Timestream, a new time series database for IoT and operational applications."
-    publishedDateTime: 2020-10-01T08:25:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/10/01/amazon-timestream/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 23
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/10/01082315/amazon_timestream-large.jpg"
-        width: 1000
-        height: 511
-        isCached: true
 
 secured: "KjJ+JXrFixVpjxshU1X1iMCfha/SxsN/E256iZb4vCXGY4B0m1+SWe+6GLtbmA5LcKRU3YJqGsQYCC57dDZ76HWfUcs53xXwCKqC+tpNaGLL7lCB6ZU9gjNhDpzNspVE4vfOY7yaGit/IyIB/ysiwupJBF1ilKfPjiPL8x5GaSn+GCimjn08aklOArMniEJNCGCa+onPBRuHb11WytmQCFyRChzMi8Z9u1AF7yrRJ6h8eaZhqi/K070gi0YAHeZdcXKsEysP9i+KEB7k/xQo3PiQ7DWT3qa5X7XFaafFrPkXaaiHDncZh++Aflt3NEq0UfkxMzNFdghBALQtPqG7tFWxJrvPv8xEqF/XbEg+ByU=;tR4X0S0rKfhAINCy6ZkeOw=="
 ---

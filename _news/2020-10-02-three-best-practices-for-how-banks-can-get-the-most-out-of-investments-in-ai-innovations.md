@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/3-best-practices-for-implementing-
 webUrl: "https://www.businessinsider.com/3-best-practices-for-implementing-ai-in-banking-2020-10"
 type: article
 quality: 158
-heat: 188
+heat: 178
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://inc42.com/wp-content/uploads/2020/10/Untitled-design-2020-10-03T142535.041.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Voice AI Redefines The Future Of Patient Interactions"
-    excerpt: "With automated processes, Artificial Intelligence is paving the way for technologically advanced healthcare space."
-    publishedDateTime: 2020-10-01T07:53:00Z
-    webUrl: "https://analyticsindiamag.com/voice-ai-redefines-the-future-of-patient-interactions/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/Voice-AI-01.jpg"
-        width: 1750
-        height: 1021
         isCached: true
 
 secured: "7e78Z6YnwwaHqvE73r7ME3R17RJEjF8HKcMjZWcumALsKe28pmBCOPooLje7Tbtk+4eHf66F7Cm2k9dF7WD3ZNYO1JxrWIMDNFmAJIfhIE/BdqghaBC7px4b4k45+mABVSgfgY9wZAaVZ+46Orw2c68KpAyXcQNTbejDkfCX32BqBIgWj2rn9XPuKBed1zVFs3INMfeqVQINC1aqQM+ggFaZutg8xzALEh26PfHm9R6MgwHFgsLiFn93rZTP7n7PVBYtSmPn7hcMtdaIKYfmCEsGmOnJoybvYQNEaPF/9kat9yRSSOFRn2+QSLacrJZvVU6TX20RCy+BpvlUAGuu0N/EzHJQgPvf0lao43WC+YlcC/ysH/2M/Q/ecS5LHKXY;0RravuYVnC3jtCY6hut/pg=="
