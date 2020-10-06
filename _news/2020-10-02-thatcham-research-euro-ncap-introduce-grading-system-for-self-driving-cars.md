@@ -69,6 +69,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Seegrid acquires robotics startup to boost “situational awareness” for its self-driving vehicles"
+    excerpt: "Fresh off the news that it had closed a $52 million funding round last month, self-driving vehicle provider Seegrid is keeping its foot on the gas in its drive to position its vision guided vehicles (VGVs) in the material handling sector,"
+    publishedDateTime: 2020-10-06T19:38:00Z
+    webUrl: "https://www.dcvelocity.com/articles/47371-seegrid-acquires-robotics-startup-to-boost-situational-awareness-for-its-self-driving-vehicles"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 43
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/images/articles/2020/202010/Seegrid-MediaKit-Image2-1.jpg?height=635&t=1602009585&width=1200"
+        width: 4649
+        height: 2615
+        isCached: true
 
 secured: "oMFqnkoPBf0ptOVy7uKYG0U09xnrxXttJroLUKAqFYOkSXK8xoddmiMIJ9H8g0fZd5aYZmUsnwK7Av+J1ObVGGEahgKGf6fsPhxDrbLgv4CHahv06ZDjoewITz1WOmLpyLXsa1jVlyHDIIIhnPFt23a0FjF8QqvYRJ9My90YGkdL6z3SU4fcR+dV+XqI9IQx04ftSh6EZB/grFkW01rz45u+TEnFKkidlEUdic74B0CsyhVX2K9weyvSIHPS4FPvmAhWmOgCUtozZg7DutoDybnllQYr6pjmgfSreB5UYz+5b3oG3TZb6+lMSDcRi/HYhILjdqikvya14+8+ADibiGly+ncHJbZfHsv4pv15U7JyKREbapcpLkuqxEMvWwye+4BvJ6rOkt6F5/3J2rxw69QD1j7f/XuV1VbS3isYP3tp5WkHxoUXjjNLtEDNXDb0kI/SgytisW06+KpMffzfEw4MxKYYna+Wb9sZkFC+GK7nidOYTMXVtBlDk5xQEb377t1T+sM/mdmkGdu2UdLdkQ==;PpZoyJ0FIYdGN7lp55gmIw=="
 ---

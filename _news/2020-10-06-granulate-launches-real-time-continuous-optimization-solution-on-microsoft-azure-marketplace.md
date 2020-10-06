@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
-excerpt: "PRNewswire/ -- Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce"
-publishedDateTime: 2020-10-06T13:20:00Z
-originalUrl: "https://www.prnewswire.com/il/news-releases/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-301146545.html"
-webUrl: "https://www.prnewswire.com/il/news-releases/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-301146545.html"
+excerpt: "Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce its availability in the Microsoft"
+publishedDateTime: 2020-10-06T13:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace/article_190f285f-3d77-5572-818c-015780303762.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace/article_190f285f-3d77-5572-818c-015780303762.html"
 type: article
 quality: 43
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1307928/Granulate_Azure.jpg?p=facebook"
-    width: 1984
-    height: 1039
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/e1/ce1c5bc4-2af1-5b01-9b65-205e791e28d4/5f7c7229dcab8.image.jpg?resize=400%2C242"
+    width: 400
+    height: 242
     isCached: true
 
 related:
@@ -54,6 +54,6 @@ related:
         height: 583
         isCached: true
 
-secured: "/WP6NNh2rI/FANmGGZorpoAgkh2qOLGCRHvoYuHbDCv75frAPtzkYyTpCGN1Zz2YcgkeZqhBgUPEDGmzq6bwdUUt/EfI2BLqvghB5LHJT3xjqEQZmKux3fTUTLesPsKPiOU7GcufRnwxMw6EH3tMF4VURTinV2xtaBmuAcnm8jIhQQdo+eWaDcfhRaViDwu8epJcrzCUtK9nMhAK9PfPRIyXdSkEC3yY9d0Y4M6klH8Ar/me6lV9QuwEg34+oNaJ7lqqROXdJvF9xOlZtyerHThUc00+8ED1leaM6N8VpaKlPl0tgs1u5xuZwvhBEaZE9g36RifbasD7OOAzMag3UxelHjwObPOjA95lurDmfbQ=;mKlSJE8SgCtlSmVrVRekNA=="
+secured: "FOHO32ejmMVYGzlp3ZqgrkAniBE0kUrg6Dx5bOAfCgcBUnov5gUgI+tN9ELYur9Gff+mOvY9Lg0vibnk3YT+IG6XOSMjfJhdBubHqCSFrP6ZUL/VLB9Gr1bN24h3sS6Dcs9ekXqdQUe29G5cvndOLcf2orDPqFS41eRT/No9JcylaEdrwNgcJdXNiWb76anWeUQqmaaaVdmaGXylnpLrgqAC+Dyb7jIrRMzRf2OBH1fjDdegMetqNdMvhPfBvhaoNbNKptHYX84EUUegIBC0dA/q3rzhZ2bpEU1feEKSx86Zll7EIIcR8/O01LQw5QU3Cyqwr/zcL1wMI6An3NcvGu22CxepGno2sp2TlQ+Rfos=;MMDCw9ZQdClAzbl0DG+mIA=="
 ---
 

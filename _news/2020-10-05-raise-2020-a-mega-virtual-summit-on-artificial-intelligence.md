@@ -9,7 +9,7 @@ ampWebUrl: "https://www.oneindia.com/amphtml/india/raise-2020-a-mega-virtual-sum
 cdnAmpWebUrl: "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html"
 type: article
 quality: 74
-heat: 175
+heat: 165
 published: true
 
 provider:
@@ -74,22 +74,6 @@ related:
       - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/y9zrndxgu5bjgvbp_1601863474.jpeg?tr=f-jpeg"
         width: 1242
         height: 707
-        isCached: true
-  - title: "PM Modi to inaugurate global summit on artificial intelligence on Oct 5"
-    excerpt: "New Delhi: Prime Minister Narendra Modi will inaugurate a global virtual summit on Artificial Intelligence (AI), RAISE 2020 - 'Responsible AI for Social Empowerment 2020' on October 5, according to the Ministry of Electronics and Information Technology."
-    publishedDateTime: 2020-10-02T01:50:00Z
-    webUrl: "https://www.freepressjournal.in/india/pm-modi-to-inaugurate-global-summit-on-artificial-intelligence-on-oct-5"
-    ampWebUrl: "https://m.freepressjournal.in/article/india/pm-modi-to-inaugurate-global-summit-on-artificial-intelligence-on-oct-5/874fdda3-15a7-40ed-866a-b14d3946b9f2"
-    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/india/pm-modi-to-inaugurate-global-summit-on-artificial-intelligence-on-oct-5/874fdda3-15a7-40ed-866a-b14d3946b9f2"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 57
-    images:
-      - url: "https://mc.webpcache.epapr.in/mcms.php?size=large&in=https://mcmscache.epapr.in/post_images/website_13/post_18468642/thumb.jfif"
-        width: 800
-        height: 453
         isCached: true
   - title: "RAISE 2020: AI to expand scope of financial services in the country, say experts"
     excerpt: "Artificial intelligence (AI) is likely to become the key enabler for the financial services industry to expand its reach and strengthen the ties with the consumers. Artificial intelligence (AI) is ..."

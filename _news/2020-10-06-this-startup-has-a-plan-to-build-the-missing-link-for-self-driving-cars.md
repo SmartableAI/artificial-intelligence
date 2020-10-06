@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lianeyvkoff/2020/10/06/this-startup-has
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lianeyvkoff/2020/10/06/this-startup-has-a-plan-to-build-the-missing-link-for-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f585ee53da66757735430a2%2F0x0.jpg%3FcropX1%3D401%26cropX2%3D4704%26cropY1%3D78%26cropY2%3D2946"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Seegrid acquires robotics startup to boost “situational awareness” for its self-driving vehicles"
+    excerpt: "Fresh off the news that it had closed a $52 million funding round last month, self-driving vehicle provider Seegrid is keeping its foot on the gas in its drive to position its vision guided vehicles (VGVs) in the material handling sector,"
+    publishedDateTime: 2020-10-06T19:38:00Z
+    webUrl: "https://www.dcvelocity.com/articles/47371-seegrid-acquires-robotics-startup-to-boost-situational-awareness-for-its-self-driving-vehicles"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 43
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/images/articles/2020/202010/Seegrid-MediaKit-Image2-1.jpg?height=635&t=1602009585&width=1200"
+        width: 4649
+        height: 2615
         isCached: true
   - title: "Thatcham Research, Euro NCAP Introduce Grading System For Self-Driving Cars"
     excerpt: "Thatcham Research and Euro NCAP have launched what they’re touting as the world’s first grading system for self-driving vehicles “to give motorists the crucial insight they need to understand how to use today’s assisted-driving technology safely."

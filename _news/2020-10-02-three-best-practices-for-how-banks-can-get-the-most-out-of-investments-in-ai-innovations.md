@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/3-best-practices-for-implementing-
 webUrl: "https://www.businessinsider.com/3-best-practices-for-implementing-ai-in-banking-2020-10"
 type: article
 quality: 158
-heat: 178
+heat: 188
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://inc42.com/wp-content/uploads/2020/10/Untitled-design-2020-10-03T142535.041.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "AI IN BANKING: How forward-looking banks are using maturing AI solutions to design both customer- and employee-facing innovations"
+    excerpt: "This report identifies AI use cases transforming the way FIs operate, the business impact of those use cases, and real-world examples of each."
+    publishedDateTime: 2020-10-06T18:48:00Z
+    webUrl: "https://www.businessinsider.com/ai-in-banking-report-2020"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+    images:
+      - url: "https://i.insider.com/5e616b4dfee23d6e9e10f232?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "7e78Z6YnwwaHqvE73r7ME3R17RJEjF8HKcMjZWcumALsKe28pmBCOPooLje7Tbtk+4eHf66F7Cm2k9dF7WD3ZNYO1JxrWIMDNFmAJIfhIE/BdqghaBC7px4b4k45+mABVSgfgY9wZAaVZ+46Orw2c68KpAyXcQNTbejDkfCX32BqBIgWj2rn9XPuKBed1zVFs3INMfeqVQINC1aqQM+ggFaZutg8xzALEh26PfHm9R6MgwHFgsLiFn93rZTP7n7PVBYtSmPn7hcMtdaIKYfmCEsGmOnJoybvYQNEaPF/9kat9yRSSOFRn2+QSLacrJZvVU6TX20RCy+BpvlUAGuu0N/EzHJQgPvf0lao43WC+YlcC/ysH/2M/Q/ecS5LHKXY;0RravuYVnC3jtCY6hut/pg=="

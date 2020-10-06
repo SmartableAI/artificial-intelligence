@@ -38,7 +38,7 @@ related:
     provider:
       name: The Island Now
       domain: theislandnow.com
-    quality: 76
+    quality: 78
     images:
       - url: "https://301txf2j650kx3hvubmojefm-wpengine.netdna-ssl.com/wp-content/uploads/2016/07/placeholder-wp.jpg"
         width: 696

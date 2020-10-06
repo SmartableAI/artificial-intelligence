@@ -91,22 +91,6 @@ related:
         width: 1242
         height: 707
         isCached: true
-  - title: "PM Modi to inaugurate global summit on artificial intelligence on Oct 5"
-    excerpt: "New Delhi: Prime Minister Narendra Modi will inaugurate a global virtual summit on Artificial Intelligence (AI), RAISE 2020 - 'Responsible AI for Social Empowerment 2020' on October 5, according to the Ministry of Electronics and Information Technology."
-    publishedDateTime: 2020-10-02T01:50:00Z
-    webUrl: "https://www.freepressjournal.in/india/pm-modi-to-inaugurate-global-summit-on-artificial-intelligence-on-oct-5"
-    ampWebUrl: "https://m.freepressjournal.in/article/india/pm-modi-to-inaugurate-global-summit-on-artificial-intelligence-on-oct-5/874fdda3-15a7-40ed-866a-b14d3946b9f2"
-    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/india/pm-modi-to-inaugurate-global-summit-on-artificial-intelligence-on-oct-5/874fdda3-15a7-40ed-866a-b14d3946b9f2"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 57
-    images:
-      - url: "https://mc.webpcache.epapr.in/mcms.php?size=large&in=https://mcmscache.epapr.in/post_images/website_13/post_18468642/thumb.jfif"
-        width: 800
-        height: 453
-        isCached: true
   - title: "PM Modi to virtually address ‘RAISE 2020’ global artificial intelligence summit today"
     excerpt: "The Responsible AI for Social Empowerment (RAISE 2020) virtual summit will be a Global Artificial Intelligence summit organised by the Government of India in partnership with industry and academia."
     publishedDateTime: 2020-10-05T09:20:00Z

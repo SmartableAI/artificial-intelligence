@@ -8,8 +8,8 @@ webUrl: "https://theislandnow.com/blog-112/how-is-artificial-intelligence-revolu
 ampWebUrl: "https://theislandnow.com/blog-112/how-is-artificial-intelligence-revolutionising-our-global-healthcare/amp/"
 cdnAmpWebUrl: "https://theislandnow-com.cdn.ampproject.org/c/s/theislandnow.com/blog-112/how-is-artificial-intelligence-revolutionising-our-global-healthcare/amp/"
 type: article
-quality: 76
-heat: 86
+quality: 78
+heat: 88
 published: true
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI in Robotics
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://301txf2j650kx3hvubmojefm-wpengine.netdna-ssl.com/wp-content/uploads/2016/07/placeholder-wp.jpg"

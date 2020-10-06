@@ -54,7 +54,18 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "How IBM Is Using AI At Scale To Benefit The Media Industry"
+    excerpt: "IBM (NYSE: IBM) recently announced 3 new products to add to its growing suite of artificial intelligence solutions for brands and publishers. These are the details."
+    publishedDateTime: 2020-10-06T19:00:00Z
+    webUrl: "https://pulse2.com/how-ibm-is-using-ai-at-scale-to-benefit-the-media-industry/"
+    ampWebUrl: "https://pulse2.com/how-ibm-is-using-ai-at-scale-to-benefit-the-media-industry/amp/"
+    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/how-ibm-is-using-ai-at-scale-to-benefit-the-media-industry/amp/"
+    type: article
+    provider:
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 39
 
-secured: "JuEP4zKDMY5HrHT8LjFYO+6n6WdiKxe4NVJYeexTTz7JfDI0IPDRxejvjBSoQQXNaUZ5d2GKyG9z+TCxjW0LUjv0jHbD0mEtVLhp2nC6wuIC0KA32pVouY+UPm0X6otrtUUhrCE9xIOeXIpY2utsJGxau42Mi/rl6iQZj4oqOnT6M502GT7LiwsLb75a2XQVrB4FEoD45LljSEWTqYhuNqb92vywWdE3Dmv32l9yNXvLfCVHpi25NuFgL2dKMsesM1NE2neH/dryKkwixKyqAH+vKqf2hQ3altfhf7aTYoj0Ggb/3VmWAWmBlen5Svuji7i6GrOXrSaVailmPm2VTw0rbVIoqHSPWZlajNDR3o0=;gZ9SG6gRPp/W5nCeSMixDQ=="
+secured: "/a54pMs1VQw2qEYWUDcarXNctDGor0QodpsDhnIP7LTRxPbmzgD00WS38Bk78uSsRUuiApjVj6EjAxHkmqHuNZ1pHq2PMY+g1oyMvVKyduHXQCeDpMuqHdUklZ4Ke9vCLUO8Thnf9bYNqQ5VHmmPl9l6eOXEe7o63Rg6rdZNxlfGLZvcpNppH9b8UGUlpXqo+BuRm5+fJaT761lR4kdNgk3YkNbz7Mfv6FShustzHcYYvjT9s9x/ck4TGaBJSMo5MxBxna5EWSMTvj958X/cSOa0wE613JJ+GelNBPzcmbbGk5+FbQPXIBPErgt+Of0QXvLKK2Jg0Sj3E8HCAPoSI1vPmlkMS2cgkHkLARqvC+8=;+Mfd58RVoeSBHeuhaS1pGA=="
 ---
 

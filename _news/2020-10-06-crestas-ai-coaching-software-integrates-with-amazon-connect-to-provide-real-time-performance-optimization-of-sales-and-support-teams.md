@@ -1,22 +1,29 @@
 ---
 category: news
 title: "Cresta's AI Coaching Software Integrates with Amazon Connect to Provide Real-Time Performance Optimization of Sales and Support Teams"
-excerpt: "PRNewswire/ -- Cresta, a real-time intelligence platform for customer conversations, today announced its integration with Amazon Connect, an easy-to-use omnichannel cloud contact center service from"
-publishedDateTime: 2020-10-06T14:47:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/crestas-ai-coaching-software-integrates-with-amazon-connect-to-provide-real-time-performance-optimization-of/article_5f91ad31-6205-51fe-b905-636bd3fd3dc3.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/crestas-ai-coaching-software-integrates-with-amazon-connect-to-provide-real-time-performance-optimization-of/article_5f91ad31-6205-51fe-b905-636bd3fd3dc3.html"
+excerpt: "PRNewswire/ -- Cresta, a real-time intelligence platform for customer conversations, today announced its integration with Amazon Connect, an"
+publishedDateTime: 2020-10-06T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/crestas-ai-coaching-software-integrates-with-amazon-connect-to-provide-real-time-performance-optimization-of-sales-and-support-teams-301146571.html"
+webUrl: "https://www.prnewswire.com/news-releases/crestas-ai-coaching-software-integrates-with-amazon-connect-to-provide-real-time-performance-optimization-of-sales-and-support-teams-301146571.html"
 type: article
-quality: 0
-heat: 0
+quality: 8
+heat: 8
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
+  - AWS AI
   - AI
 
-secured: "fl5O551iwEQOPXRiRorUt2ExfoodJgtBrVCfp03gpZ/L6HgpvD29ijJT0mwfNztkNp+gFTVG8cmQuehNX7v8vCPoHHVH44UE2L4eYzEmc3UzydA7VqRvRmMS4PY8au55L3POnH5s28a/a8y8gA0PO1RBYLp6cgZAgRguqeUOy0L23FDuWOlZXpBSSakSe8QqX27tXHUsUulF2Rb4zjre/HWZ35MxXP+gwybg5IR2LhiBc+P7iKAydfZv+Z3KolhVCgoRR32Ru0XIIt7dimRtpttH765nIBHKpArrwqtLUXaDuCmaFdAyTnk/VbnLQ1L065bDwT3SwdDzN/wwDxJi/lMikRpnrpqpDDJtkovUUoc=;9Bm6LnCf45MKkFPyX9jw6g=="
+images:
+  - url: "https://mma.prnewswire.com/media/1307745/CRESTA_Logo.jpg?p=facebook"
+    width: 665
+    height: 351
+    isCached: true
+
+secured: "F2SEYubnvcU2nS5SFS4e9W7MUoNx4byXOH0VCt/D08XC7I/dcxcMWw8f/rxaGbSDc7qy8ePuu83zeJQ6cLqer/NJIFqzsQwIhKIuyKNNzk+o+xr0jB6aFHt7yUALdl3lxSFlVYlMUR1/t9T3uQKZw2tNVZR4pI1TyqKyJSthA3/H4WyxY6rycLd0tq3czFT+qWe8u6ZXjPnuVJvwZWK2AAuqQaA2N55j5cxOHwTFjYW992DpfAfinuE6gAhwD6LIcaosf5Tl+XGUCQLKGk5r3HTI98d3QLLWT4jJkmvWbB6of1Gm9aaJlJXwJsq3iW3n5zRgZYCB+f/4NhUmHptvlcdtDbdiX7jSgurTBrJ2KuI=;Id/cWiaaLgilXq5XrHdUzA=="
 ---
 
