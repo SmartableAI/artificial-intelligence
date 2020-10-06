@@ -42,6 +42,6 @@ related:
       domain: ipsnews.net
     quality: 0
 
-secured: "6TqPlimMMjQFTwtRZ4i2QoiUbzrjJdySSkkTTTc6A1uZqBV35LLJiR9pd+IcZOh0timlWQOFLQLJE6hsIOZ2Vwenw9p9LcLir35G8TA/lTz4LchZmZFQ5Ey+xn/fp7r00D5zrvOI4RMK02IOIZJJ71hqlIB8DorjNJPnJoLjLghRrVXtc37D7jc6xt+7v9d/zpdSCQ66R/4cJgn2hzMCPdixclTZmenBCrWT94a8Bt1wzoxQ6lsbIsQc4TYSp8GFh7VOHG9Z/6sY/Ig4MjDhnu3T/yf2zeUkAdEbWr6yZlm3eOokzmwllgeyfqFtksSzH4+POVlyGaBIQmlp07EwOR8h/UVgAbqeJVxxHEVDEuM=;6EpOP26R9KtmLF1Yuds4Jg=="
+secured: "Dtp448Lu2Vc//GO0GVB4JXFk/ToXSBzThUOYRnH5nt8HQehsbGfiE5N7Wx2Yt9GWV22tFmv+zdcGopWAC+wF3FE2wuMs9nhIwFcsn1lH6d+bhHCak4Fy2jEsRciU+IlHMlwVnBzPb+AnP5+roJL/D/OdES5csclzJBFQAt77B8w418PCvsiIuoczrZvOEllu3HWFu3bGbGVg9l+GTTnoZTVacz+o3wyruWBkkV5VkrlDzG9KGuXGndzoaAIWTdIeDmVC6Rtl8RZTomZoVlOnleG/oao6g6C7QNGSSFzYTu1K8bPXsJCuFPe9I+SnMaoUeFBBUIhurxfXxxsbR6k/wLNXsbIvVkbcnsd1DUV1Lv4=;svwNpwbwue4g+fG1hNqiog=="
 ---
 
