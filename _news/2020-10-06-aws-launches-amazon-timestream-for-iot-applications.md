@@ -7,7 +7,7 @@ originalUrl: "https://www.dbta.com/Editorial/News-Flashes/AWS-Launches-Amazon-Ti
 webUrl: "https://www.dbta.com/Editorial/News-Flashes/AWS-Launches-Amazon-Timestream-for-IoT-Applications-143199.aspx"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon Timestream database is now generally available"
-    excerpt: "The latest addition to the AWS database portfolio focuses on time series data – a segment where fit-for-purpose databases are emerging because use cases ranging from IoT to e-commerce are driving data volumes overwhelming general-purpose platforms."
-    publishedDateTime: 2020-10-01T12:00:00Z
-    webUrl: "https://www.zdnet.com/article/amazon-timestream-database-is-now-generally-available/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-timestream-database-is-now-generally-available/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-timestream-database-is-now-generally-available/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
   - title: "AWS Announces General Availability of Amazon Timestream"
     excerpt: "including services like AWS IoT Core (for IoT data collection), Amazon Kinesis and Amazon MSK (for streaming data), Amazon QuickSight (for serverless Business Intelligence), and Amazon SageMaker ..."
     publishedDateTime: 2020-10-01T17:29:00Z

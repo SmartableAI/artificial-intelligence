@@ -130,20 +130,6 @@ related:
         width: 1389
         height: 774
         isCached: true
-  - title: "IIT Jodhpur Receives First 'NVIDIA DGX A100' AI Supercomputers In India"
-    excerpt: "NVIDIA DGX A100 features the world’s most advanced accelerator, the NVIDIA A100 Tensor Core GPU, enabling enterprises to consolidate training, inference, and analytics into a unified, easy-to-deploy AI infrastructure that includes direct access to NVIDIA ..."
-    publishedDateTime: 2020-10-01T11:57:00Z
-    webUrl: "https://www.ndtv.com/education/iit-jodhpur-receives-first-nvidia-dgx-a100-ai-supercomputers-in-india"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 39
-    images:
-      - url: "https://cache.careers360.mobi/media/article_images/2020/10/1/iijbekqg_iit-jodhpur-_625x300_13_January_20.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "With SuperPod, Nvidia makes supercomputing a bigger focus of its AI strategy"
     excerpt: "Nvidia Corp. opened its virtual GPU Technology Conference today by introducing a host of new artificial intelligence technologies, including an infrastructure offering that will a"
     publishedDateTime: 2020-10-05T21:29:00Z

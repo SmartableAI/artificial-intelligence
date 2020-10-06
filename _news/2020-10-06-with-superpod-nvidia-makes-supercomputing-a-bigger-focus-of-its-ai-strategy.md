@@ -135,20 +135,6 @@ related:
         width: 1389
         height: 774
         isCached: true
-  - title: "IIT Jodhpur Receives First 'NVIDIA DGX A100' AI Supercomputers In India"
-    excerpt: "NVIDIA DGX A100 features the world’s most advanced accelerator, the NVIDIA A100 Tensor Core GPU, enabling enterprises to consolidate training, inference, and analytics into a unified, easy-to-deploy AI infrastructure that includes direct access to NVIDIA ..."
-    publishedDateTime: 2020-10-01T11:57:00Z
-    webUrl: "https://www.ndtv.com/education/iit-jodhpur-receives-first-nvidia-dgx-a100-ai-supercomputers-in-india"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 39
-    images:
-      - url: "https://cache.careers360.mobi/media/article_images/2020/10/1/iijbekqg_iit-jodhpur-_625x300_13_January_20.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Case Western Reserve University lab and partners using Artificial Intelligence to improve heart transplant outcomes"
     excerpt: "CLEVELAND — New Artificial Intelligence is being developed to increase success rates in heart transplant patients. And Cleveland is at the center of the research. Bioengineer and scientist Anant Madabhushi, along with a team of biomedical researchers out ..."
     publishedDateTime: 2020-10-05T19:45:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newindianexpress.com/nation/2020/oct/05/must-protect-wor
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/nation/2020/oct/05/must-protect-world-against-weaponisation-of-artificial-intelligence-pm-modi-2206174.amp"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
       - url: "https://c.ndtvimg.com/2020-09/s1b3rr1o_pm-modi_625x300_21_September_20.jpg"
         width: 650
         height: 400
+        isCached: true
+  - title: "Artificial intelligence should not become weapon of non-state actors: PM Modi at RAISE 2020"
+    excerpt: "Inaugurating a five-day global virtual summit on artificial intelligence (AI), Responsible AI for Social Empowerment or RAISE 2020, Prime Minister Narendra Modi highlighted how the use of AI will empower India and also warned against the pitfalls."
+    publishedDateTime: 2020-10-06T05:25:00Z
+    webUrl: "https://www.newsx.com/national/artificial-intelligence-should-not-become-weapon-of-non-state-actors-pm-modi-at-raise-2020.html"
+    ampWebUrl: "https://www.newsx.com/amp/national/artificial-intelligence-should-not-become-weapon-of-non-state-actors-pm-modi-at-raise-2020.html"
+    cdnAmpWebUrl: "https://www-newsx-com.cdn.ampproject.org/c/s/www.newsx.com/amp/national/artificial-intelligence-should-not-become-weapon-of-non-state-actors-pm-modi-at-raise-2020.html"
+    type: article
+    provider:
+      name: NewsX
+      domain: newsx.com
+    quality: 64
+    images:
+      - url: "https://www.newsx.com/wp-content/uploads/2020/09/narendra-modi-106034-k931Sjej.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Artificial intelligence can bring opportunities, but protect it from interference in human intelligence: PM Modi"
     excerpt: "We must protect the world against the weaponisation of AI by non-State actors, says Modi at RAISE Summit 2020 While Artificial intelligence (AI) can bring a lot of opportunities in social transformation,"

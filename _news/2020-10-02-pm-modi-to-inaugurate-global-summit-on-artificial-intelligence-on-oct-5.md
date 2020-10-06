@@ -90,22 +90,6 @@ related:
         width: 1242
         height: 707
         isCached: true
-  - title: "Artificial intelligence is a tribute to human intellectual power: PM Narendra Modi at AI Summit ‘RAISE 2020’"
-    excerpt: "Prime Minister Narendra Modi inaugurated 'RAISE 2020', a virtual summit on artificial intelligence on Monday. The Prime Minister said during his address, that artificial intelligence is a tribute to human intellectual power,"
-    publishedDateTime: 2020-10-05T16:32:00Z
-    webUrl: "https://timesofindia.indiatimes.com/videos/news/artificial-intelligence-is-a-tribute-to-human-intellectual-power-pm-narendra-modi-at-ai-summit-raise-2020/videoshow/78498766.cms"
-    ampWebUrl: "https://m.timesofindia.com/videos/news/artificial-intelligence-is-a-tribute-to-human-intellectual-power-pm-narendra-modi-at-ai-summit-raise-2020/amp_videoshow/78498766.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/videos/news/artificial-intelligence-is-a-tribute-to-human-intellectual-power-pm-narendra-modi-at-ai-summit-raise-2020/amp_videoshow/78498766.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 53
-    images:
-      - url: "https://static.toiimg.com/photo/msid-78498766/videos/news/artificial-intelligence-is-a-tribute-to-human-intellectual-power-pm-narendra-modi-at-ai-summit-raise-2020.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "PM Modi to virtually address ‘RAISE 2020’ global artificial intelligence summit today"
     excerpt: "The Responsible AI for Social Empowerment (RAISE 2020) virtual summit will be a Global Artificial Intelligence summit organised by the Government of India in partnership with industry and academia."
     publishedDateTime: 2020-10-05T09:20:00Z

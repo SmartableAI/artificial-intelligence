@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/business/mukesh-ambani-speech-time-is-ripe-to-m
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/mukesh-ambani-speech-time-is-ripe-to-make-india-a-world-leader-in-ai-says-mukesh-ambani-2305538?amp=1&akamai-rum=off"
 type: article
 quality: 52
-heat: 62
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "For Mukesh Ambani, AI is indispensable to India’s “digital destiny”"
+    excerpt: "Data is the raw material for artificial intelligence. Intelligent data is digital capital. It is a vital national resource."
+    publishedDateTime: 2020-10-06T04:57:00Z
+    webUrl: "https://qz.com/india/1913464/reliance-jios-ambani-supports-artificial-intelligence-for-india/"
+    ampWebUrl: "https://qz.com/india/1913464/reliance-jios-ambani-supports-artificial-intelligence-for-india/amp/"
+    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/india/1913464/reliance-jios-ambani-supports-artificial-intelligence-for-india/amp/"
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 87
+    images:
+      - url: "https://cms.qz.com/wp-content/uploads/2020/10/2018-01-23T120623Z_329216982_RC1B30939970_RTRMADP_3_DAVOS-MEETING-1-e1601950681816.jpg?quality=75&strip=all&w=1400"
+        width: 1400
+        height: 978
+        isCached: true
+  - title: "Artificial intelligence never can, never will replace human mind: Mukesh Ambani"
+    excerpt: "Mukesh Ambani said India has the unique advantage to harness its enormous Digital Capital for AI-driven development, which is bottom-up and inclusive"
+    publishedDateTime: 2020-10-06T04:43:00Z
+    webUrl: "https://www.mid-day.com/articles/artificial-intelligence-never-can-never-will-replace-human-mind-mukesh-ambani/23027234"
+    ampWebUrl: "https://m.mid-day.com/amp/articles/artificial-intelligence-never-can-never-will-replace-human-mind-mukesh-ambani/23027234"
+    cdnAmpWebUrl: "https://m-mid--day-com.cdn.ampproject.org/c/s/m.mid-day.com/amp/articles/artificial-intelligence-never-can-never-will-replace-human-mind-mukesh-ambani/23027234"
+    type: article
+    provider:
+      name: Mid Day
+      domain: mid-day.com
+    quality: 53
+    images:
+      - url: "https://images.mid-day.com/images/2020/oct/mukesh-ambani_d.jpg"
+        width: 670
+        height: 440
+        isCached: true
   - title: "Artificial intelligence indispensable to India’s tryst with digital destiny: Mukesh Ambani"
     excerpt: "The Reliance Industries Ltd (RIL) chairman said India will have an advantage over its peers in the future due to enormous digital capital"
     publishedDateTime: 2020-10-05T14:37:00Z
