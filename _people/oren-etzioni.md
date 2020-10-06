@@ -14,11 +14,11 @@ website: https://allenai.org/team/orene/
 twitter:
   username: etzioni
   url: https://twitter.com/etzioni
-  followers: 25020
+  followers: 25019
 
 googleScholar:
   url: https://scholar.google.com/citations?user=-hmxit8AAAAJ
-  citations: 39411
+  citations: 39440
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Oren_Etzioni
