@@ -7,7 +7,7 @@ originalUrl: "https://www.hrw.org/news/2020/10/02/russia-expands-facial-recognit
 webUrl: "https://www.hrw.org/news/2020/10/02/russia-expands-facial-recognition-despite-privacy-concerns"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "Russia, U.S. meet for arms treaty discussions ahead of New START expiration"
+    excerpt: "I wish further progress in agreeing on arms control.\" RELATED Task force: U.S. must prioritize AI in race to defend against Russia, China The landmark Strategic Arms Reduction Treaty, or START, was agreed to by the United States and Russia in 1991 ..."
+    publishedDateTime: 2020-10-05T19:42:00Z
+    webUrl: "https://www.upi.com/Defense-News/2020/10/05/Russia-US-meet-for-arms-treaty-discussions-ahead-of-New-START-expiration/8401601919432/"
+    ampWebUrl: "https://www.upi.com/amp/Defense-News/2020/10/05/Russia-US-meet-for-arms-treaty-discussions-ahead-of-New-START-expiration/8401601919432/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2020/10/05/Russia-US-meet-for-arms-treaty-discussions-ahead-of-New-START-expiration/8401601919432/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 40
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/i/8401601919432/2020/1/16019199104197/v1.5/Russia-US-meet-for-arms-treaty-discussions-ahead-of-New-START-expiration.jpg"
+        width: 545
+        height: 364
+        isCached: true
+  - title: "Russia's Sixth-Generation Stealth Fighter Could Use Artificial Intelligence Weapons"
+    excerpt: "Even as Russia continues to overcome production issues with its Su-57 stealth fighter, Moscow reportedly has its eyes set on a sixth-generation fighter jet."
+    publishedDateTime: 2020-10-03T16:16:00Z
+    webUrl: "https://nationalinterest.org/blog/reboot/russias-sixth-generation-stealth-fighter-could-use-artificial-intelligence-weapons"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 31
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/Sukhoi_Design_Bureau%2C_054%2C_Sukhoi_Su-57_%2849580577193%29.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "HRW Warns Of Privacy Concerns As Russia Expands Facial-Recognition Systems"
     excerpt: "Human Rights Watch (HRW) has criticized Russia's plans to expand the use of \"invasive\" facial-recognition systems because of the group's \"serious concern\" over the project's potential threat to privacy. The Kommersant newspaper reported last week that CCTV ..."
     publishedDateTime: 2020-10-02T07:41:00Z

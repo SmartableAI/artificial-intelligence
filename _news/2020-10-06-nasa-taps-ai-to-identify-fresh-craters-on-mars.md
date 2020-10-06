@@ -40,21 +40,21 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "AI is helping scientists discover fresh craters on Mars"
-    excerpt: "Sometime between March 2010 and May 2012, a meteor streaked across the Martian sky and broke into pieces, slamming into the planet's surface. The resulting craters were relatively small—just 13 feet (4 meters) in diameter."
-    publishedDateTime: 2020-10-01T19:51:00Z
-    webUrl: "https://phys.org/news/2020-10-ai-scientists-fresh-craters-mars.html"
-    ampWebUrl: "https://phys.org/news/2020-10-ai-scientists-fresh-craters-mars.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-ai-scientists-fresh-craters-mars.amp"
+  - title: "NASA scientists use Artificial Intelligence to discover fresh craters on Mars"
+    excerpt: "A team of scientists at NASA's Jet Propulsion Laboratory in California last week announced that they are using artificial intelligence to identify geologic features and markings on the surface of Mars."
+    publishedDateTime: 2020-10-06T12:07:00Z
+    webUrl: "https://english.jagran.com/trending/nasa-scientists-use-artificial-intelligence-to-discover-fresh-craters-on-mars-10017764"
+    ampWebUrl: "https://english.jagran.com/lite/trending/nasa-scientists-use-artificial-intelligence-to-discover-fresh-craters-on-mars-10017764"
+    cdnAmpWebUrl: "https://english-jagran-com.cdn.ampproject.org/c/s/english.jagran.com/lite/trending/nasa-scientists-use-artificial-intelligence-to-discover-fresh-craters-on-mars-10017764"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
+      name: Jagran
+      domain: jagran.com
+    quality: 54
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2020/aiishelpings.jpg"
-        width: 1233
-        height: 887
+      - url: "https://imgeng.jagran.com/images/2020/oct/nasa-091601985740405.jpg"
+        width: 650
+        height: 539
         isCached: true
 
 secured: "7yYFP0gdVH1K2O6AHZhqQB5cUuQvgwyJbEebEmp8Uef5DxF16gCLu5iuZ9hoBQanfnrHij9CQ6KDZsvu5b77ylrvyAxU6TUC2VoIj4DXyNrt8pHSnwk6aGqN5DFTiaaoicx2UBw8JR8anojV/Jsj6chlchS2hYk6tenGBNpVoLoRyD9xfMeSkw9YIseJ45cUVuDy4JDr4oXtl2tTCTG9ZxZ5gknjnOQp6otaLO5R1961bhifYebkFT2nneE/Uvry4mF7uO3VcbqqM31xz3+yRoUmUH989JTg2nIqzntO3kKz3nUiccoZFVIaIPOyF1YXJCfUudSZlFajPXGytD0Zx1oSisflRaOPfGeRIE12yqvRnbLImlkHmEJr91uIxqptX1TGWPsFETrtYRDJig8ZpihNL3UOg5TsC/g5sYjIZLg5UT1ILc+vprtxJimJHeHKgUymKps7eBilzT4KvS+okkDkui8/DQHkuI/rG7hHSiD3I7Lxq+1BiO7UQZzdvjidLGwp0AmNj/yw+VIPwMDFvA==;zBejG2iKKat1QA2uPjG6rg=="

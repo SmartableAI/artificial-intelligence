@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia pledges to build Britain’s largest supercomputer following $40 billion bid for Arm"
+    excerpt: "Nvidia has announced plans to build a £40 million ($52 million) supercomputer in Cambridge, England, weeks after saying it intends to buy British rival Arm for $40 billion."
+    publishedDateTime: 2020-10-05T13:01:09Z
+    webUrl: "https://www.cnbc.com/2020/10/05/nvidia-pledges-to-build-britains-largest-supercomputer.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/05/nvidia-pledges-to-build-britains-largest-supercomputer.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/05/nvidia-pledges-to-build-britains-largest-supercomputer.html"
+    type: article
+    provider:
+      name: com/2020/10/05/nvidia-pledges-to-build-britains-largest-supercomputer.html
+      domain: com/2020/10/05/nvidia-pledges-to-build-britains-largest-supercomputer.html
+    quality: 148
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106729864-1601898836598-Cambridge-1__002.jpg?v=1601898919"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "NVIDIA Is Building an AI Supercomputer for Healthcare Research in England"
     excerpt: "Dubbed Cambridge-1, the system will give healthcare researchers access to impressive artificial intelligence (AI) tools. The $52 million Cambridge-1 will be installed at the university it's named after, and is scheduled to come online by the end of 2020."
     publishedDateTime: 2020-10-05T17:52:00Z
@@ -64,67 +80,19 @@ related:
         width: 1280
         height: 883
         isCached: true
-  - title: "Nvidia Will Help GSK Find New Drugs, With AI and Supercomputers"
-    excerpt: "GSK’s head of AI and machine learning said the Nvidia systems will allow his researchers to search for medicines by poring through vast databases of pathology images and genomic signals."
-    publishedDateTime: 2020-10-05T12:34:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-gsk-supercomputers-computational-drug-discovery-51601904692"
-    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-gsk-supercomputers-computational-drug-discovery-51601904692"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-gsk-supercomputers-computational-drug-discovery-51601904692"
+  - title: "Nvidia Opens GTC with Plans for AI Supercomputer for Biomedical Research"
+    excerpt: "Given the COVID-19 pandemic, Nvidia’s announcement of plans to build a new AI supercomputer – Cambridge-1 – dedicated to biomedical research and"
+    publishedDateTime: 2020-10-05T22:04:00Z
+    webUrl: "https://www.hpcwire.com/2020/10/05/nvidia-opens-gtc-with-plans-for-ai-supercomputer-for-biomedical-research/"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 38
     images:
-      - url: "https://images.barrons.com/im-240586/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "NVIDIA To Develop 400 Petaflop DGX A100 Supercomputer For UK AI Research"
-    excerpt: "The Cambridge-1 supercomputer will be an NVIDIA DGX SuperPOD supercomputer with over 400 petaflops of AI performance and eight petaflops of Linpack performance"
-    publishedDateTime: 2020-10-05T18:24:00Z
-    webUrl: "https://hothardware.com/news/nvidia-ai-supercomputer-cambridge-1"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-ai-supercomputer-cambridge-1"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-ai-supercomputer-cambridge-1"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 58
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/53044/content/nvidia-datacenter-hero.jpg"
-        width: 708
-        height: 398
-        isCached: true
-  - title: "US chip firm Nvidia building UK supercomputer to boost coronavirus research"
-    excerpt: "US chip giant Nvidia said on Monday it is building Britain’s most powerful supercomputer, which will use artificial intelligence to help researchers solve pressing medical challenges, including those related to COVID-19."
-    publishedDateTime: 2020-10-05T16:50:00Z
-    webUrl: "https://english.alarabiya.net/en/coronavirus/2020/10/05/US-chip-firm-Nvidia-building-UK-supercomputer-to-boost-coronavirus-research"
-    ampWebUrl: "https://english.alarabiya.net/en/amp/coronavirus/2020/10/05/US-chip-firm-Nvidia-building-UK-supercomputer-to-boost-coronavirus-research"
-    cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/en/amp/coronavirus/2020/10/05/US-chip-firm-Nvidia-building-UK-supercomputer-to-boost-coronavirus-research"
-    type: article
-    provider:
-      name: العربية.نت
-      domain: alarabiya.net
-    quality: 57
-    images:
-      - url: "https://vid.alarabiya.net/images/2020/10/05/f0a9d48e-6383-4b91-9156-a398e0944323/f0a9d48e-6383-4b91-9156-a398e0944323_16x9_600x338.jpg?width=466"
-        width: 466
-        height: 262
-        isCached: true
-  - title: "VMware Partnership, A Big Win For NVIDIA In AI Chip Market"
-    excerpt: "This partnership is complete in line with NVIDIA’s recent efforts with AI, thus giving it a significant edge in the AI chip industry."
-    publishedDateTime: 2020-10-02T00:00:00Z
-    webUrl: "https://analyticsindiamag.com/vmware-partnership-a-big-win-for-nvidia-in-ai-chip-market/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/VMware-Partnership-A-Big-Win-For-NVIDIA-In-AI-Chips-Market.jpg"
-        width: 1389
-        height: 774
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/nvidia-dgx-superpod_630x.jpg"
+        width: 630
+        height: 307
         isCached: true
   - title: "With SuperPod, Nvidia makes supercomputing a bigger focus of its AI strategy"
     excerpt: "Nvidia Corp. opened its virtual GPU Technology Conference today by introducing a host of new artificial intelligence technologies, including an infrastructure offering that will a"
@@ -140,45 +108,6 @@ related:
         width: 800
         height: 425
         isCached: true
-  - title: "Case Western Reserve University lab and partners using Artificial Intelligence to improve heart transplant outcomes"
-    excerpt: "CLEVELAND — New Artificial Intelligence is being developed to increase success rates in heart transplant patients. And Cleveland is at the center of the research. Bioengineer and scientist Anant Madabhushi, along with a team of biomedical researchers out ..."
-    publishedDateTime: 2020-10-05T19:45:00Z
-    webUrl: "https://www.wkyc.com/article/news/local/cleveland/case-western-reserve-lab-and-partners-using-artificial-intelligence-to-improve-heart-transplant-outcomes/95-93cd5acf-49fa-4734-8849-9582c763d568"
-    ampWebUrl: "https://www.wkyc.com/amp/article/news/local/cleveland/case-western-reserve-lab-and-partners-using-artificial-intelligence-to-improve-heart-transplant-outcomes/95-93cd5acf-49fa-4734-8849-9582c763d568"
-    cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/local/cleveland/case-western-reserve-lab-and-partners-using-artificial-intelligence-to-improve-heart-transplant-outcomes/95-93cd5acf-49fa-4734-8849-9582c763d568"
-    type: article
-    provider:
-      name: WKYC3
-      domain: wkyc.com
-    quality: 35
-    images:
-      - url: "https://media.wkyc.com/assets/WKYC/images/281b4c02-2bf3-4e06-9106-e0dc9bf762f2/281b4c02-2bf3-4e06-9106-e0dc9bf762f2_750x422.png"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "Nvidia to build the UK’s fastest supercomputer for AI drug-hunters at GSK, AstraZeneca and more"
-    excerpt: "Through a new partnership with GlaxoSmithKline, AstraZeneca and the U.K.’s National Health Service, the chip maker Nvidia plans to build Great Britain’s most powerful supercomputer—and dedicate it to artificial intelligence research in healthcare."
-    publishedDateTime: 2020-10-05T15:40:00Z
-    webUrl: "https://www.fiercebiotech.com/medtech/nvidia-to-build-cambridge-1-uk-s-fastest-supercomputer-for-ai-drug-hunters-at-gsk"
-    type: article
-    provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 29
-    images:
-      - url: "https://qtxasset.com/fiercebiotech/1601908768/EMBEDDED_1.jpg/EMBEDDED_1.jpg?ux9x6vsZuUuGdOJ1he6qhKtRVmPzeKgr"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Nvidia Says It’s Building UK’s Most Powerful Supercomputer, Dedicated to AI Research in Healthcare"
-    excerpt: "Nvidia announced today at its GPU Technology Conference (GTC) it is building the United Kingdom’s most powerful supercomputer, which it will make available to U.K. healthcare researchers using AI to solve pressing medical challenges,"
-    publishedDateTime: 2020-10-05T14:11:00Z
-    webUrl: "https://insidehpc.com/2020/10/nvidia-says-its-building-uks-most-powerful-supercomputer-dedicated-to-ai-research-in-healthcare/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 22
 
 secured: "wEEKc0K9Td+BXxK5Cuvnv78P1T1lfTWTBHgQ3VJCWxbR/N2BIBg9b8FUccoSqGGJkk2byLt4xE/DiuQzrYpVigqzeeWUCpSkrs9jyAItMotvtytQwpxXMXpDS9QFctjCHxRLgTbeIEkmT799O/GcF3Zku0jihEyB41zfqsueLfRXJhNJJS+f1sfO1h+KlhpgjeREjMnSySTG0ISQ7I+9HnDenRrCpnUUbCRYuikDAJjtGB2UKpWBUHzWHbXamlzz6fz9f2hPAVdttbXDkI8v6JPilQmslZKEFXar/8aintwyDLakCX2cx/b089O1JmM242dmLt5GAWKV0KFAJz59RE1mlg0l73Qsdl16akHEQxQuPf50Fdu4B4g1+fuYvTkP34ISg+z5rrgSAGoXB1uVivYODPfpOrunrDZyTJEnj7MRr5l0thIauzjELLTCo17nt/xBqY9OMwxUsJzlRqwa034QdfxTjaXm/50eFLRj/E3eXDew1Ffvu0E4KMQM23SdAnCLMHFrRO0/YVHUkY1RvA==;q53S/9vFH6i/eWout/ikaA=="
 ---

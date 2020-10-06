@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/collaborating-with-a
 webUrl: "https://aws.amazon.com/blogs/machine-learning/collaborating-with-ai-to-create-bach-like-compositions-in-aws-deepcomposer/"
 type: article
 quality: 102
-heat: -1
-published: false
+heat: 112
+published: true
 
 provider:
   name: AWS
@@ -29,18 +29,18 @@ images:
     isCached: true
 
 related:
-  - title: "Getting started with AWS DeepRacer community races"
-    excerpt: "AWS DeepRacer allows you to get hands-on with machine learning (ML) through a fully autonomous 1/18th scale race car driven by reinforcement learning, a 3D racing simulator on the AWS DeepRacer console, a global racing league, and hundreds of customer-initiated community races. With AWS DeepRacer community"
-    publishedDateTime: 2020-10-01T19:19:54Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/getting-started-with-aws-deepracer-community-races/"
+  - title: "Announcing the winner of the AWS DeepComposer Chartbusters The Sounds of Science challenge"
+    excerpt: "We’re excited to announce the top 10 compositions and the winner of the AWS DeepComposer Chartbusters The Sounds of Science challenge. AWS DeepComposer provides a creative and hands-on experience for learning generative AI and machine learning (ML). Chartbusters is a global monthly challenge where you"
+    publishedDateTime: 2020-10-02T16:58:30Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-the-winner-of-the-aws-deepcomposer-chartbusters-the-sounds-of-science-challenge/"
     type: article
     provider:
       name: AWS
       domain: aws.amazon.com
-    quality: 121
+    quality: 79
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/01/1A-758x630.jpg"
-        width: 758
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/01/1-Chart-2-836x630.jpg"
+        width: 836
         height: 630
         isCached: true
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://m.timesofindia.com/home/education/news/iit-jodhpur-receives-
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/amp_articleshow/78457955.cms"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 89
+published: true
 
 provider:
   name: India Times
@@ -27,6 +27,36 @@ images:
     isCached: true
 
 related:
+  - title: "NVIDIA To Develop 400 Petaflop DGX A100 Supercomputer For UK AI Research"
+    excerpt: "The Cambridge-1 supercomputer will be an NVIDIA DGX SuperPOD supercomputer with over 400 petaflops of AI performance and eight petaflops of Linpack performance"
+    publishedDateTime: 2020-10-05T18:24:00Z
+    webUrl: "https://hothardware.com/news/nvidia-ai-supercomputer-cambridge-1"
+    ampWebUrl: "https://amp.hothardware.com/news/nvidia-ai-supercomputer-cambridge-1"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-ai-supercomputer-cambridge-1"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 58
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/53044/content/nvidia-datacenter-hero.jpg"
+        width: 708
+        height: 398
+        isCached: true
+  - title: "VMware Partnership, A Big Win For NVIDIA In AI Chip Market"
+    excerpt: "This partnership is complete in line with NVIDIA’s recent efforts with AI, thus giving it a significant edge in the AI chip industry."
+    publishedDateTime: 2020-10-02T00:00:00Z
+    webUrl: "https://analyticsindiamag.com/vmware-partnership-a-big-win-for-nvidia-in-ai-chip-market/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/VMware-Partnership-A-Big-Win-For-NVIDIA-In-AI-Chips-Market.jpg"
+        width: 1389
+        height: 774
+        isCached: true
   - title: "AMAX Accelerates Next-Gen AI Computing With NVIDIA A100 GPUs"
     excerpt: "AMAX's HPC and AI Solutions Group announced its series of next-generation NVIDIA A100 powered server systems that bring AI training, inference, and analytics"
     publishedDateTime: 2020-10-05T14:34:00Z

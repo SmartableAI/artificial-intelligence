@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.theverge.com/2020/10/6/21503892/miso-robotics-flippy-roar-robotic-fry-chef-on-sale-price</loc>
+    <lastmod>2020-10-06T06:33:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/forbestechcouncil/2020/10/06/how-ai-and-humans-can-work-together-to-make-better-recruiting-decisions/</loc>
+    <lastmod>2020-10-06T06:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/robertreiss/2020/10/06/healthcare-leaders-pioneer-a-new-collaboration-model-to-transform-the-future-of-drug-development/</loc>
+    <lastmod>2020-10-06T05:58:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/10/06/tipalti-raises-150-million-to-automate-payment-workflows-with-ai/</loc>
+    <lastmod>2020-10-06T05:16:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/10/06/xbox-series-xs-machine-learning-auto-hdr-renders-stunning-results/</loc>
+    <lastmod>2020-10-06T05:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startup-helps-hospitals-navigate-operational-troubles-of-covid-19-and-beyond/</loc>
     <lastmod>2020-10-06T03:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -37,6 +67,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/collaborating-with-ai-to-create-bach-like-compositions-in-aws-deepcomposer/</loc>
+    <lastmod>2020-10-05T15:27:35-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/evaluating-an-automatic-speech-recognition-service/</loc>
     <lastmod>2020-10-05T12:06:26-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -55,8 +91,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.fool.com/investing/2020/10/05/nvidia-is-building-an-ai-supercomputer-for-healthc/</loc>
-    <lastmod>2020-10-05T10:52:00-07:00</lastmod>
+    <loc>https://www.crn.com/news/cloud/microsoft-to-build-new-azure-cloud-data-centers-in-greece</loc>
+    <lastmod>2020-10-05T10:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -69,6 +105,12 @@
   <url>
     <loc>https://www.livemint.com/news/india/want-india-to-become-global-hub-for-artificial-intelligence-pm-modi-11601912327145.html</loc>
     <lastmod>2020-10-05T08:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.thestreet.com/investing/stocks/nvidia-nvda-glaxosmithkline-gsk-artifical-intelligence</loc>
+    <lastmod>2020-10-05T08:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -115,6 +157,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.cnbc.com/2020/10/05/nvidia-pledges-to-build-britains-largest-supercomputer.html</loc>
+    <lastmod>2020-10-05T06:01:09-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.azonano.com/article.aspx?ArticleID=5561</loc>
     <lastmod>2020-10-05T05:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -147,6 +195,12 @@
   <url>
     <loc>https://azure.microsoft.com/blog/azure-machine-learning-helps-customers-stay-ahead-of-challenges/</loc>
     <lastmod>2020-10-05T01:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://inside.com/premium?campaign_id=23010&amp;list_id=64&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
+    <lastmod>2020-10-04T23:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -189,6 +243,12 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-economic-perspective-and-forecast-to-2026-microsoft-aws-xero-intuit-sage-osp-uipath-koreai-2020-10-03?mod=mw_quote_news</loc>
     <lastmod>2020-10-03T00:24:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://timesofindia.indiatimes.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/articleshow/78457955.cms</loc>
+    <lastmod>2020-10-02T22:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -237,12 +297,6 @@
   <url>
     <loc>https://www.pcworld.com/article/3584530/the-hp-spectre-x360-14-gets-a-lush-oled-display-and-a-lot-more-ai-smarts.html</loc>
     <lastmod>2020-10-02T10:27:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://aws.amazon.com/blogs/machine-learning/announcing-the-winner-of-the-aws-deepcomposer-chartbusters-the-sounds-of-science-challenge/</loc>
-    <lastmod>2020-10-02T09:58:30-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -375,6 +429,12 @@
   <url>
     <loc>https://blog.google/technology/ai/what-if-you-could-turn-your-voice-any-instrument/</loc>
     <lastmod>2020-10-01T08:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://apnews.com/press-release/pr-newswire/technology-business-cloud-computing-it-conglomerates-information-technology-2c24e5e9c07ed40ce3b962089e8df224</loc>
+    <lastmod>2020-10-01T08:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -765,6 +825,12 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2025-2020-09-29</loc>
     <lastmod>2020-09-29T09:58:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.designboom.com/architecture/bjarke-ingels-group-ai-city-china-artificial-intelligence-terminus-group-09-29-2020/?fbclid=IwAR2-9FqvXxBpPJhkVy6N3IZKa4uxGk4pb_zSe-19cABYa1UDxRzTazehYs0</loc>
+    <lastmod>2020-09-29T09:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1879,6 +1945,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.paymentsjournal.com/experian-and-biocatch-provide-a-global-financial-services-provider-with-a-73-lift-in-fraud-detection/</loc>
+    <lastmod>2020-09-22T13:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://apnews.com/business-wire/17a08d01d2314154b83e6bfa51a8632b</loc>
     <lastmod>2020-09-22T12:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1951,7 +2023,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/image-recognition-market-coronavirus-pandemic-short-and-long-term-actions-taken-by-key-player-fortune-business-insights-2020-09-22?dist=bigcharts&amp;tesla=y</loc>
+    <loc>https://www.marketwatch.com/press-release/image-recognition-market-coronavirus-pandemic-short-and-long-term-actions-taken-by-key-player-fortune-business-insights-2020-09-22</loc>
     <lastmod>2020-09-22T06:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2221,8 +2293,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/09/g17578534/gowin-semiconductor-launches-goai-2-0-for-embedded-machine-learning-inference</loc>
-    <lastmod>2020-09-21T00:26:00-07:00</lastmod>
+    <loc>https://www.design-reuse.com/news/48669/gowin-goai-2-0-embedded-machine-learning-inference.html</loc>
+    <lastmod>2020-09-21T00:49:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

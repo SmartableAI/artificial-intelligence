@@ -7,7 +7,7 @@ originalUrl: "https://nationalinterest.org/blog/reboot/russias-sixth-generation-
 webUrl: "https://nationalinterest.org/blog/reboot/russias-sixth-generation-stealth-fighter-could-use-artificial-intelligence-weapons"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,49 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Russia, U.S. meet for arms treaty discussions ahead of New START expiration"
+    excerpt: "I wish further progress in agreeing on arms control.\" RELATED Task force: U.S. must prioritize AI in race to defend against Russia, China The landmark Strategic Arms Reduction Treaty, or START, was agreed to by the United States and Russia in 1991 ..."
+    publishedDateTime: 2020-10-05T19:42:00Z
+    webUrl: "https://www.upi.com/Defense-News/2020/10/05/Russia-US-meet-for-arms-treaty-discussions-ahead-of-New-START-expiration/8401601919432/"
+    ampWebUrl: "https://www.upi.com/amp/Defense-News/2020/10/05/Russia-US-meet-for-arms-treaty-discussions-ahead-of-New-START-expiration/8401601919432/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2020/10/05/Russia-US-meet-for-arms-treaty-discussions-ahead-of-New-START-expiration/8401601919432/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 40
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/i/8401601919432/2020/1/16019199104197/v1.5/Russia-US-meet-for-arms-treaty-discussions-ahead-of-New-START-expiration.jpg"
+        width: 545
+        height: 364
+        isCached: true
+  - title: "Russia Expands Facial Recognition Despite Privacy Concerns"
+    excerpt: "Russian authorities are planning to expand the use of CCTV cameras with facial recognition software, despite weighty concerns about the lack of regulation, oversight, and data protection, Human Rights Watch said today."
+    publishedDateTime: 2020-10-02T04:30:00Z
+    webUrl: "https://www.hrw.org/news/2020/10/02/russia-expands-facial-recognition-despite-privacy-concerns"
+    type: article
+    provider:
+      name: Human Rights Watch
+      domain: hrw.org
+    quality: 39
+    images:
+      - url: "https://www.hrw.org/sites/default/files/media_2020/10/202010eca_russia_facerecognition.JPG"
+        width: 5385
+        height: 3400
+        isCached: true
+  - title: "HRW Warns Of Privacy Concerns As Russia Expands Facial-Recognition Systems"
+    excerpt: "Human Rights Watch (HRW) has criticized Russia's plans to expand the use of \"invasive\" facial-recognition systems because of the group's \"serious concern\" over the project's potential threat to privacy. The Kommersant newspaper reported last week that CCTV ..."
+    publishedDateTime: 2020-10-02T07:41:00Z
+    webUrl: "https://www.rferl.org/a/hrw-warns-of-privacy-concerns-as-russia-expands-facial-recognition-systems/30869831.html"
+    ampWebUrl: "https://www.rferl.org/amp/hrw-warns-of-privacy-concerns-as-russia-expands-facial-recognition-systems/30869831.html"
+    cdnAmpWebUrl: "https://www-rferl-org.cdn.ampproject.org/c/s/www.rferl.org/amp/hrw-warns-of-privacy-concerns-as-russia-expands-facial-recognition-systems/30869831.html"
+    type: article
+    provider:
+      name: Radio Free Europe/Radio Liberty
+      domain: rferl.org
+    quality: 22
 
 secured: "A3BfQ1iWkKKAgprLTTVvfNTVzTbl/jJLtm8/vvSTp5q62oCe++Ihuf03WD9BXx4jOaqW+5DvsLKMFfrywzZ/Rx+gmXqbw4C5VmK7yZUbdVlRi9NYq/uw+eaJvXaJyD/NBGSgR0aZEe/UoCwdBUKMQAMj7FGjz6LLrNYhmHi23dITdRusLVqB/KbIEgS2anv1K2wykliVz0qq2SW/CXkTUCFrV5r7TOVIeQNSADL5TCWUFF0INqoy8tDlXTPZOc2Cyk1RsvT4Bd11gLuBX9oN2bGplMRZVaDqB6HuMoPiqqVMPs1VajceZf01iJbpxkUfZlyU9B69fJEV/IpGCvWGrFloeg1nz3ZHYLr2ZAtKV1Q=;YS3fnHDTXxoqJ+JMswZuqQ=="
 ---

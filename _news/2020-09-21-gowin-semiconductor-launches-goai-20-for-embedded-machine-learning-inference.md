@@ -1,23 +1,27 @@
 ---
 category: news
-title: "GOWIN Semiconductor Launches GoAI 2.0 for Embedded Machine Learning Inference"
-excerpt: "GOWIN GoAI 2.0 offers direct integration into the TensorFlow and TensorFlow Lite Machine Learning Platforms, optimization for targeting GOWIN's GW1NSR4P µSoC FPGA, and an accelerator to offload ..."
-publishedDateTime: 2020-09-21T07:26:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/09/g17578534/gowin-semiconductor-launches-goai-2-0-for-embedded-machine-learning-inference"
-webUrl: "https://www.benzinga.com/pressreleases/20/09/g17578534/gowin-semiconductor-launches-goai-2-0-for-embedded-machine-learning-inference"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17578534"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17578534"
+title: "Gowin Semiconductor Launches GOAI 2.0 For Embedded Machine Learning Inference"
+excerpt: "GOWIN GoAI 2.0 offers direct integration into the TensorFlow and TensorFlow Lite Machine Learning Platforms, optimization for targeting GOWIN’s GW1NSR4P µSoC FPGA, and an accelerator to offload compute-intensive functions from the microcontroller ..."
+publishedDateTime: 2020-09-21T07:49:00Z
+originalUrl: "https://www.design-reuse.com/news/48669/gowin-goai-2-0-embedded-machine-learning-inference.html"
+webUrl: "https://www.design-reuse.com/news/48669/gowin-goai-2-0-embedded-machine-learning-inference.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Design-Reuse
+  domain: design-reuse.com
 
 topics:
   - Google AI
   - AI
   - Machine Learning
 
-secured: "oNNE4D+m1wk1ZFt0MzqkRHWWuuffkOjBQcrYN3rgCgqtJZQStbDhPq4LP5hWrGnVqwVhqkC/+HTmHpwKy5vJsMm1OHo5QNKhVDuhdqec/t0ssYkqjs5beuiojLMkEJ7YR81GNvQ5C0xmoo7X4nPL8xuSVkVbeLl+5bptc8WSZFxAuC0D4tEUXUyyifx1MUETveGbgHC093TViaEA5acYrxHqBBJopjTtJ0GwKwM2EFj5P6zKuqwOs4Zp86q3baRp/cu8CZQgcgtvipQRR2A5jyTcjrXL/yzIuUteWyJ3+/9e0NwRx9TpzO9GfH1+jLHncwaGzdeh/PyTPqTxoWSex4rZFZYrq2XKUvGdlgjt16M=;xOdn616LGjnMZnWIKQCjug=="
+images:
+  - url: "https://www.design-reuse.com/news_img2/homepage48669/20200921_1.jpg"
+    width: 485
+    height: 260
+    isCached: true
+
+secured: "awqHG4S8e0g5JTRC0eGIVXKCv9oVXQNrjFIwcpBoNzVry3nmUAqreEqqNsqpGiIXY5ZhY6NIPLAUe0y76wfduORFEFqlhfs9ZGwkzrs+kDkwf6AVGTINAMgNvcu0Ta6ALl7qFWhL3TfHyGbeyW42DW8kmRYsazEHVAYmcjaQCwh5GJTW8FnEtGu5BRPkTCkcoyS8c+vSAcztP0vXXRRsp3kktRcgWMNkKz55tLkdpmxdFY1XHNVbAASecaHBw/6KeOj+k31CKfoCJUrfsnAEdXoBHtGhHVXbRsBPMwjg6H6j6mDsmmdQftviAMFLHsvHYL2eTbVXWwXLfudjqMUrOxv3lIobrT3hbOvW5Lt2Ln8=;0QP+gfghH7RAaD1ZpsfXYw=="
 ---
 

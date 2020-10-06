@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Image Recognition Market Coronavirus Pandemic: Short and long-term actions taken by Key Player? Fortune Business Insights"
-excerpt: "Facial Recognition, Object Recognition, Pattern Recognition), By Applications (Scanning and Imaging, Security and Surveillance, Image Search, Augmented Reality and others), By Deployment (On-Premises, Cloud), By End-User (BFSI, Media and Entertainment ..."
+excerpt: "Facial Recognition, Object Recognition, Pattern Recognition), By Applications (Scanning and Imaging, Security and Surveillance, Image Search, Augmented Reality and others), By Deployment (On ..."
 publishedDateTime: 2020-09-22T13:16:00Z
-originalUrl: "https://www.marketwatch.com/press-release/image-recognition-market-coronavirus-pandemic-short-and-long-term-actions-taken-by-key-player-fortune-business-insights-2020-09-22?dist=bigcharts&tesla=y"
-webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-coronavirus-pandemic-short-and-long-term-actions-taken-by-key-player-fortune-business-insights-2020-09-22?dist=bigcharts&tesla=y"
+originalUrl: "https://www.marketwatch.com/press-release/image-recognition-market-coronavirus-pandemic-short-and-long-term-actions-taken-by-key-player-fortune-business-insights-2020-09-22"
+webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-coronavirus-pandemic-short-and-long-term-actions-taken-by-key-player-fortune-business-insights-2020-09-22"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "hEAAih5Jgv6nNYsk3qRCOSHflGw/ldJm+bIs00MUsI+j/wVsHMZxUI/JZW+qwPOPoxN1EYgDAGZT2Hlo/X2Bkn1h8qoXyKFM32neDDm/p6ByApjB6XcqN/S1rzJ1Zx/XfCve8ipX13+/65BqGtbCBJqQ1ZA3ayIM1IN1MsmBO6aEetgt63A5n4gwyaXX86BoGik6C+ERlImTQZvWK5ZxwuxS1W6C0UiWBVQ1LeAzxDhzoQFm4OhBVE7cLlu/9M3kVixiV8sBxNGoUKhBsqaPdKX0el0t6pP9X7y7WYf5oWfoQwjiM0lr7wQvhj4ONNgwfOrt1tBIt81hdV+kJ80B/VKI/AWG5htjpI8HvaZrQ/I=;PQGAd8w+ArnH3MmPxcC5cw=="
+secured: "egHWkQZvTYgNHLCPZyMLwPbc0DiPEFdA9cZiQlG7pHFEqJ5ktoM9SV90Qf8/TX6pOHOzLftiilHIWtHPBvQtjLYgeLfEFWyYhJx+g4jHqo2B5VJadmtDZvcV/oEG2onQTiX1S2wVhWPUolkwz21or+jaI2ChpQqlGbi9VrPVZDFvgBySaLl4MokaQJtj4/WdHG+0H3PQSSKSXU4I8kyvc82pwiSSnJbya2dJZay2Mcjh7GGEhjx1ZiCq3/94XxeCcd/Z+mI08WO/0rsL+Vz7MRWXK/xNx9GnP4g4k4g8Eqec0RHt6PWTn0VDPxeCHL6Yp301lBaH4Zyx32t4uDm3tr1EUVLnyEZV5focdl/NxE8=;x1MUAcvuUfxmkYKn1J7MIA=="
 ---
 
