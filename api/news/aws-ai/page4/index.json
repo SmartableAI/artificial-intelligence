@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-30-theres-not-a-company-name-cute-enough-to-mask-the-dark-side-of-corporations.md",
+      "title": "There’s Not a Company Name Cute Enough to Mask the Dark Side of Corporations",
+      "excerpt": "Businesses today — with their fuzzy, friendly names — all seem to want to cozy up to you. But there are plenty of reasons to keep your distance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.phillymag.com/news/2020/08/29/cute-company-names/",
+      "originalUrl": "https://www.phillymag.com/news/2020/08/29/cute-company-names/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn10.phillymag.com/wp-content/uploads/sites/3/2020/08/company-names-fb.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.phillymag.com/news/2020/08/29/cute-company-names/?amp=1",
+      "cdnAmpWebUrl": "https://www-phillymag-com.cdn.ampproject.org/c/s/www.phillymag.com/news/2020/08/29/cute-company-names/?amp=1",
+      "publishedDateTime": "2020-08-29T21:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Philadelphia Mag",
+        "domain": "phillymag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-28-announcing-the-express-testing-capability-in-amazon-lex.md",
       "title": "Announcing the express testing capability in Amazon Lex",
       "excerpt": "Amazon Lex now provides the express testing capability on the AWS Management Console to expedite building your chatbot. You can start testing your bot soon after you initiate the build process without having to wait for the entire build to complete. You can use the new testing option to check the basic",

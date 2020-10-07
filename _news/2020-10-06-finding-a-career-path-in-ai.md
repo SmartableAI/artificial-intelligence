@@ -7,7 +7,7 @@ originalUrl: "https://www.datamation.com/artificial-intelligence/finding-a-caree
 webUrl: "https://www.datamation.com/artificial-intelligence/finding-a-career-path-in-ai.html"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Exploring how artificial intelligence could redefine health care"
-    excerpt: "Before Siri and Alexa, programmers created Eliza. Developed in 1964, Eliza was the first chatbot capable of recreating conversations between a psychotherapist and a patient. This chatbot pushed the boundaries of artificial intelligence (AI),"
-    publishedDateTime: 2020-10-06T10:21:00Z
-    webUrl: "https://www.mcgilltribune.com/sci-tech/exploring-how-artificial-intelligence-could-redefine-healthcare-10062020/"
-    type: article
-    provider:
-      name: McGill Tribune
-      domain: mcgilltribune.com
-    quality: 39
-    images:
-      - url: "https://www.mcgilltribune.com/wp-content/uploads/2020/04/favourite-memory-799x460.png"
-        width: 799
-        height: 460
-        isCached: true
 
 secured: "TtBPc9kKhvR+cenAEYunVBaGcosLCvtR/sLuoo0zmaRhR5Plb9Lpdc7KMGIc1SByPfdjV7TlbkMo+bV0Mj740LJ37F2YLta43bElyl8vc+iHxA+Mw6hlORgbjkZXPxIaFvgAPWKP7rOGaScGM9mmY/PIVuyVdA7SpG6NvOxSCn/GnTiyMIV7vLlZjR/bH5FnDzEZ3Q9cWsIsKYFasmB4/VDJc+DIHYXOwJf9PE9n5f3BsWjuLoHqwktEJm3N4wwgPkjLlnH9JyUMXj6hcczQDIw5q+tHWEacdhje9YHntRU+a7xxohb2kmew99rYmaGawfXRSBNsMwkcf+97sU0WXXBbjRWnXwer29+W4QQIdB1kcMlDxhj7aX1d9RrkSlKXmHmZskHrKvcs5ped6fSxZ+yHCdVNeR6WRMi5mQJJyuWeFFfhGi6ifO2m0x8eqgaqzkhPse8G/i0cjoe4F/06IePMlHI+yi0i/XhZU6fsFe0LqoAykAb+h2SsMTuM+2Sbkj342EkPKDiOQZ+heUgqFw==;n78D0GEq8pXgBQhEfCkmkw=="
 ---

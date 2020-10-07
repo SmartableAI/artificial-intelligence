@@ -9,8 +9,8 @@ ampWebUrl: "https://www.business2community.com/marketing/7-types-of-ai-marketing
 cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/marketing/7-types-of-ai-marketing-tools-that-drive-leads-02351260/amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Business 2 Community
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "IBM Brings Artificial Intelligence At Scale To The Marketing And Media Industry"
+    excerpt: "IBM today announced three new products to add to its growing suite of AI solutions for brand and publishers. IBM intends to work with industry leaders, including Xandr/AT&T, Magnite, Nielsen, MediaMath,"
+    publishedDateTime: 2020-10-05T13:25:00Z
+    webUrl: "https://www.nasdaq.com/press-release/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-2020"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 47
   - title: "The Growing Role of Artificial Intelligence in Digital Payments Market"
     excerpt: "Marius Galdikas, CEO at ConnectPay  AI-driven technology is gaining momentum in the digital payments market, both in backend operations and customer-facing payment systems. Marius Galdikas, CEO at ConnectPay,"
     publishedDateTime: 2020-10-05T18:01:00Z

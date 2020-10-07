@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cmswire.com/digital-workplace/microsofts-flywheel-kick-i
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-workplace/microsofts-flywheel-kick-into-gear-at-ignite-2020/amp/"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: CMS Wire
@@ -28,58 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
-    excerpt: "Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce its availability in the Microsoft Azure Marketplace. Granulate's solution helps companies optimize workload performance and enables businesses to cut computing costs while improving performance with no code changes to their application."
-    publishedDateTime: 2020-10-07T02:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-1029652622"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-1029652622"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-1029652622"
+  - title: "Microsoft Translator adds Assamese, strengthens support for 12 Indian languages"
+    excerpt: "Microsoft India has announced the addition of Assamese as the latest Indian language in Microsoft Translator. The Azure-based service will now provide real-time translation and"
+    publishedDateTime: 2020-10-04T18:02:00Z
+    webUrl: "https://indiaeducationdiary.in/microsoft-translator-adds-assamese-strengthens-support-for-12-indian-languages/"
+    ampWebUrl: "https://indiaeducationdiary.in/microsoft-translator-adds-assamese-strengthens-support-for-12-indian-languages/?amp"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/microsoft-translator-adds-assamese-strengthens-support-for-12-indian-languages/?amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 73
-  - title: "Microsoft To Build New Azure Cloud Data Centers In Greece"
-    excerpt: "Microsoft plans to spend up to $1 billion to build three data centers for its first Azure cloud region in Greece and provide digital technology training to up to 100,000 people there by 2025"
-    publishedDateTime: 2020-10-05T17:36:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-to-build-new-azure-cloud-data-centers-in-greece"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 57
     images:
-      - url: "https://www.crn.com/resources/0261-107e1bc258dd-899507ddf083-1000/shot_of_corridor_in_working_data_center_full_of_rack_servers_and_supercomputers_with_cloud_storage_advantages_icon_visualization..jpeg"
-        width: 549
-        height: 309
-        isCached: true
-  - title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
-    excerpt: "Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce its availability in the Microsoft"
-    publishedDateTime: 2020-10-06T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace/article_190f285f-3d77-5572-818c-015780303762.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 43
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/e1/ce1c5bc4-2af1-5b01-9b65-205e791e28d4/5f7c7229dcab8.image.jpg?resize=400%2C242"
-        width: 400
-        height: 242
-        isCached: true
-  - title: "Cresta's AI Coaching Software Integrates with Amazon Connect to Provide Real-Time Performance Optimization of Sales and Support Teams"
-    excerpt: "PRNewswire/ -- Cresta, a real-time intelligence platform for customer conversations, today announced its integration with Amazon Connect, an"
-    publishedDateTime: 2020-10-06T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/crestas-ai-coaching-software-integrates-with-amazon-connect-to-provide-real-time-performance-optimization-of-sales-and-support-teams-301146571.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 8
-    images:
-      - url: "https://mma.prnewswire.com/media/1307745/CRESTA_Logo.jpg?p=facebook"
-        width: 665
-        height: 351
+      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/04/microsoft.jpg?fit=463%2C260&ssl=1"
+        width: 463
+        height: 260
         isCached: true
 
 secured: "ncDRGLmRNYoy/A4idNn4vhxIfFfwlTZfPBJrjmxA+Sw3AXfJBP2Z5OrmiRH6Zq3HF2rEYHSCSrQ8xuZuXjTijsSgBE2YpmEwl8yy/SedR/kc5W6E+pIcuZbhgZNI41no+2SiuVrnTYTXf5f/khy6CfqzjpUhiNvdE6U6RqoNI6mNPkWZLULR3lCSMpMgb1hC7C0+j2O2mKX2mYl44jl4ko3/XVNf6xquacrOVki04kczmg06S8J3B8pVmRfc3BPYxd/Q5HAkKNKpq1ndK97YT/lv0gk0Gx3ia9Wep5elxJnDpCSW+Coy7IF3s3rVlZXwW22LTLYnWwsmLlbIFYNOlF8cAB1gXmQS1AsvDyjMqyaMrt9kxepjTOsuE5G08xovR2y2xhqWRbOouJZygCsCNuRN5Le8jxno7+22lJRdQW62sNOeMc05KDs+v8Zcg+f/wD0uytFxH0Py5F+GmLZYT8RX1FVqXRvWLyzL5quXDL3h4H8+g+1kZ7rlFR8XOWoaU3mP6s2rr+Hz5YXlPZ3Zhg==;Bte8orZVU7Mm/W8qJWJM6w=="

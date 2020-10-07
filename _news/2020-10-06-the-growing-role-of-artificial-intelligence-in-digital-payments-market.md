@@ -41,6 +41,15 @@ related:
         width: 600
         height: 326
         isCached: true
+  - title: "IBM Brings Artificial Intelligence At Scale To The Marketing And Media Industry"
+    excerpt: "IBM today announced three new products to add to its growing suite of AI solutions for brand and publishers. IBM intends to work with industry leaders, including Xandr/AT&T, Magnite, Nielsen, MediaMath,"
+    publishedDateTime: 2020-10-05T13:25:00Z
+    webUrl: "https://www.nasdaq.com/press-release/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-2020"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 47
 
 secured: "LvUMMqcJTok7A8mXwLi/Ao6CvVw+cdF0j28atPMhA3dzFeUASDijPKydTQJ/Mb6W1mxVgOCcXe6tNm42FD1RrNn5S83tn8uoXLEonfle+cPETzMdKVvqIHzvHMh7vswq1E3VMGiIND9HtkY3adYYOCT8NmjLFNs70uleKNjIxcycH5nTNYtC/FqfJDAjftx89CzQGqXNrrTISHr/+NZujm27qEUsMASU8QD2832ZdTTbovnUBqiJdBYDOcKwWLWK4gJkG86zgal5yj8yJSQ3FksYHnuaCHiDYsOBkIqXXlD1bFkGeHFIPxGfTc/zsnRfz2IlqS5G3My+zm6tj7RtUPTcUAKTtbbKnfX/yc4mBCMHauQ36E0xYewIk4bKk5pHHl1rcWZSAgjCRshDQPgoX3CxRgf4+aayMDM8uHxpMTRmtxcUndSyeqVCr3LIYT1/OCSJSKnRPZpjbDkZLqjQgP0eei/8gEE6EjJ6j+aAQiryRR9m9dQitx/vzbnkYY30FjxmmgfJLnRfnXMJW+7bqw==;9SislqnIvUocAzHeCvvxlA=="
 ---

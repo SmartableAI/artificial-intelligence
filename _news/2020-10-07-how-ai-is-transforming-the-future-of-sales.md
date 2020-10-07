@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/07/how-ai-is-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/07/how-ai-is-transforming-the-future-of-sales/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
         width: 1680
         height: 840
         isCached: true
+  - title: "The future of work: AI and mental health"
+    excerpt: "Workers face unprecedented mental health crises, driven by the COVID-19 pandemic and other emergencies—but AI can help restore the balance."
+    publishedDateTime: 2020-10-07T13:08:00Z
+    webUrl: "https://www.oracle.com/news/connect/how-ai-and-humans-working-together-can-help-employee-mental-health.html"
+    type: article
+    provider:
+      name: Oracle
+      domain: oracle.com
+    quality: 39
+    images:
+      - url: "https://www.oracle.com/a/tech/img/og-ai-work-facebook.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "4 Ways Artificial Intelligence Will Transform Food Businesses"
     excerpt: "For many people, the concept of Artificial Intelligence (AI) is something of fantasy novels and films where powerful machines take over the human race. It’s true, AI embodies limitless power and potential,"
     publishedDateTime: 2020-10-06T19:34:00Z
@@ -103,6 +117,6 @@ related:
         height: 800
         isCached: true
 
-secured: "0mWrhKc4BpYtSNPJOqNfqYNvkvrjBrdSsX0yEL2Xp7eh/uOvS6K7qjVJC2M1vPzTIC4tWY1EurXhOSduUB4cHnR2+mR6LwAjY1Ih226KI+DDW7P9Yclmo44j8LKGdobYyytaCt1lszXkIt6GNUg+7AEuHChwEG7sLrJCb/unNCrb+3hsVqFgSSKNWu/vcKXrqJh71NKCOVbBUw65x4ua5Gfs/NcdB17QTHwbb9MdmnHN4muvvnY05ViRAtrA5/KFleW6u9WPByyZyo/Kh2ff2h6ccvIatQ0FV9sd1vRtr/gvfpsm4xv2eJ/2ZadSCOYn8tttH0gdgpIAi3kwqxd/drny9TLVQWcHlxNBaraUq5k=;gZwU7NpWB3FLo03+EaVy8Q=="
+secured: "5g3wIWoZzgd6IK5cFncZohtzicJJHZn33CHzrYH27m0m+YCLEgdtLvP5lR1jANTAHzYFkEGmKUGzqwcVhhT8j80jPMJYi76IH7ZBc4UbYxlpDJdcunKimCIJKhAdlRzF9I3TK4elRY9U74w8VoDpEn0fnnt+AFuQdPJHAg8f1k3vp2X7K1J3dMeDKFJ9biGxy4f8tWR02O2gWJdFDkxXWaRmF4HZFiB+546On/IvCYAHhBasvTfElH5P06fcmPZxWa30lgnNf38E2vU+A7BM+AdqSSpPpDHTRetLAVeVu/gim0UEVqR2RQrPH+/c71ASDDX6yUFm0t8C6f+ecp9oT6qgvRhfs2tY1JnIg5lYGPu9LC0C9U8CbVi7sNSp+3ncNAIDMJOefszMBC+WkJa9KcKgAdjHpzlMlXxQr+5MAnjvPwxTXuGXuObpopNYsekn4YUsgcvAfa6UPV5jG03bDwLc6O8+2C1XrG767mM3lvqDOlz9YBpNsA76UduOhb72CW5c9d95cU0+0cmIvtKwRQ==;ipP6jjr6oiO0SaaNoSDDww=="
 ---
 

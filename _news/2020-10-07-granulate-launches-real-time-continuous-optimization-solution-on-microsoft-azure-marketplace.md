@@ -9,8 +9,8 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/granulate-launches-real
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-1029652622"
 type: article
 quality: 73
-heat: 113
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -25,21 +25,30 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft's Flywheel Kicks Into Gear at Ignite 2020"
-    excerpt: "While reflecting an important customer priority at the moment, it also highlights the investment Microsoft is making in driving integrations across its cloud businesses. The strengthening of the connective tissue between Microsoft’s array of products — across Teams,"
-    publishedDateTime: 2020-10-05T00:00:00Z
-    webUrl: "https://www.cmswire.com/digital-workplace/microsofts-flywheel-kick-into-gear-at-ignite-2020/"
-    ampWebUrl: "https://www.cmswire.com/digital-workplace/microsofts-flywheel-kick-into-gear-at-ignite-2020/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-workplace/microsofts-flywheel-kick-into-gear-at-ignite-2020/amp/"
+  - title: "Tamr Announces the Only Cloud-Native Data Mastering Solutions for Google Cloud Platform, AWS, and Microsoft Azure"
+    excerpt: "PRNewswire/ -- Tamr, Inc., a cloud-native data mastering platform used by some of the world's largest enterprises"
+    publishedDateTime: 2020-10-07T13:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406"
     type: article
     provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 61
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 80
+  - title: "Artificial Intelligence For Accounting Market Economic Perspective and Forecast To 2026 | Microsoft, AWS, Xero, Intuit, Sage, OSP, UiPath, Kore.ai"
+    excerpt: "Global Artificial Intelligence For Accounting Market Size, Status And Forecast 2020-2026 The report begins with"
+    publishedDateTime: 2020-10-03T07:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-economic-perspective-and-forecast-to-2026-microsoft-aws-xero-intuit-sage-osp-uipath-koreai-2020-10-03?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 78
     images:
-      - url: "https://www.cmswire.com/-/media/dd733cd63b584d758bbaf690a96113cd.ashx?mw=1024"
-        width: 640
-        height: 480
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Microsoft To Build New Azure Cloud Data Centers In Greece"
     excerpt: "Microsoft plans to spend up to $1 billion to build three data centers for its first Azure cloud region in Greece and provide digital technology training to up to 100,000 people there by 2025"
@@ -69,19 +78,33 @@ related:
         width: 400
         height: 242
         isCached: true
-  - title: "Cresta's AI Coaching Software Integrates with Amazon Connect to Provide Real-Time Performance Optimization of Sales and Support Teams"
-    excerpt: "PRNewswire/ -- Cresta, a real-time intelligence platform for customer conversations, today announced its integration with Amazon Connect, an"
-    publishedDateTime: 2020-10-06T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/crestas-ai-coaching-software-integrates-with-amazon-connect-to-provide-real-time-performance-optimization-of-sales-and-support-teams-301146571.html"
+  - title: "Scality Announces 1 Terabit Per Second Performance for Scale-Out File System in Microsoft Azure Public Cloud"
+    excerpt: "Scality, a leader in software solutions for distributed file and object storage, today announced the technical preview of its high-performance scale-out file system (SOFS) in Microsoft Azure. Scality SOFS running in Azure delivers linear scaling performance for read- and write-intensive workloads."
+    publishedDateTime: 2020-10-06T02:26:00Z
+    webUrl: "https://www.totaltele.com/507362/Scality-Announces-1-Terabit-Per-Second-Performance-for-Scale-Out-File-System-in-Microsoft-Azure-Public-Cloud"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 8
+      name: Total Telecom
+      domain: totaltele.com
+    quality: 35
     images:
-      - url: "https://mma.prnewswire.com/media/1307745/CRESTA_Logo.jpg?p=facebook"
-        width: 665
-        height: 351
+      - url: "https://www.totaltele.com/res/image/articleimages/5g-icon-hpe.png"
+        width: 576
+        height: 583
+        isCached: true
+  - title: "Dicom Systems Launches Enterprise Imaging Platform in the Microsoft Azure Marketplace, Deploys to a Leading National IDN"
+    excerpt: "Oct. 7, 2020 /PRNewswire/ -- Dicom Systems, a healthcare IT software company, today announced the availability of Unifier enterprise imaging platform for medical imaging workflow, archiving, cloud, and AI enablement, in the Microsoft Azure Marketplace ..."
+    publishedDateTime: 2020-10-07T13:51:00Z
+    webUrl: "https://www.finanzen.net/nachricht/aktien/dicom-systems-launches-enterprise-imaging-platform-in-the-microsoft-azure-marketplace-deploys-to-a-leading-national-idn-9369504"
+    type: article
+    provider:
+      name: Finanzen
+      domain: finanzen.net
+    quality: 29
+    images:
+      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "qqaaRjlWQaJhkr9GGf30vUFbFa2XiI+Lxebgbc9Re/apjvHsXuSN1UywDm13AhC2J+5ODjW+GBt4ft8P2qPM4Ab/6gofXjqir4qFXmrqd5yslP+OcD3wC1DnT1xdZxpmBxrPVBiuq7A3Bbc8SO2FNMxcaM277a9onamY/M2kBcw0pxhS215arrJGyrsA/t4MRGSpTPBkbQbwUew7GSuWCc8QY9h8FHzdIZuEvXL2rwAw/POFGoY80+Phq2AN4JBCFdWoxXbJlnp4RP+JtsTWhtMZ/PSgZvyjnI12VbsHU13eurRqvcm+DDt60+7P3u5lkGr0i470GvmD9zXeR+twbHjcCmRg6BVu0YmA214viIY=;sqi6SdW6UVQQ89MAA6Wdww=="

@@ -1,29 +1,31 @@
 ---
 category: news
-title: "Machine Learning Speeds Up Quantum Chemistry Calculations"
-excerpt: "Quantum chemistry, the study of chemical properties and processes at the quantum scale, has opened many paths to research and discovery in"
-publishedDateTime: 2020-10-06T19:44:00Z
-originalUrl: "https://www.miragenews.com/machine-learning-speeds-up-quantum-chemistry-calculations/"
-webUrl: "https://www.miragenews.com/machine-learning-speeds-up-quantum-chemistry-calculations/"
+title: "Machine learning speeds up quantum chemistry calculations"
+excerpt: "Quantum chemistry, the study of chemical properties and processes at the quantum scale, has opened many paths to research and discovery in modern chemistry. Without ever handling a beaker or a test tube,"
+publishedDateTime: 2020-10-07T13:03:00Z
+originalUrl: "https://phys.org/news/2020-10-machine-quantum-chemistry.html"
+webUrl: "https://phys.org/news/2020-10-machine-quantum-chemistry.html"
+ampWebUrl: "https://phys.org/news/2020-10-machine-quantum-chemistry.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-machine-quantum-chemistry.amp"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: Armed robbery in Revesby
-  domain: miragenews.com
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://caltech-prod.s3.amazonaws.com/main/images/OrbNetstill.2e16d0ba.fill-1600x810-c100.png"
-    width: 1260
-    height: 637
+  - url: "https://scx2.b-cdn.net/gfx/news/2020/machinelearn.gif"
+    width: 500
+    height: 433
     isCached: true
 
-secured: "9w1B2p0g64hBYFnZArcuDuty7eBQlO95sN+AeAXk9zkck7UmUXEjtk9xG+YQAxkPhOoD2DkS08nro4rxASavqFCP94rE6qxX4hMM8XitH87iVTZofF9lCjGQpifLLKsa13UHn1eIGVf68sPOZ/uajCZaYtmQXu03JxZ58ygUelkOMiy69Q4Q3yFuYmUj6ISBQg4skNhTeK4vBEJ9Tvca/QLT3eR3MHPwj/UgTMtVcHg9BY8O8NwA8uj72hGcPeN1MGSo4wDNz+6f4qvkfSXJraxbDozDGcNT6uaXGnxxCQjFNCsAP8ZuuVlV4xCBtZaGdGcX3nS7F1k9lCk+MSVjPte1BnB51o0WofCa8ZXfCWrDyrbPa4LZvM/aevwYtBeTNWp1dOtM7TOi9KLgq6C2OtFj160mC1rWkGDRv9cG9BoswyksI7eKtf3hPrBqmiIi/KO/BGnZdgbV0kIftRrgmRS4OAziXpSeHaWnzGq3a9uoIQRjSCYK36DrCEOO7SEJejcTudnvdZcBEG7DY84+6Q==;tdU0Ber1hYhKMTCFFGlfhw=="
+secured: "HJaI1RmR06E582YN3jYfDJQYUlDSRcV31mrdIX1svRbII9NVKSxNdLrOIG8ut9K8jtpm/wei5iaQbFL1nEUn15TJPCpG9pUtO8nFQEtCy2ZrUeH4SKcshjTEezbwJjpVRcPO3gUdu0l44hN+PmxhD+Q2hsnAR1FkKh+hy44vkaI7pSsDOgcutY5GkVKhk0qu4EyPiSPVF4UlL+hfPeNfVVIpzL/+db93LAKxGCsfQwg4gLrzCXV1xGcpqpSJFo6uTK0oqEyhJGi+Uw8TcSDMt8ngryeGesJ9TbK5zzLQNJ7AAFJqqzGP+R3JSdH1AuN25PNuA/f7Cp36NoKH9mfHrsdsCupA5YPU5IUMZUzoRvQ=;N7pb0wJOzh1nc8s+0iXWLA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/10/05/3-top-artificial-intel
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/05/3-top-artificial-intelligence-stocks-to-buy-in-oct/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "3 Top Artificial Intelligence Stocks to Buy Right Now"
+    excerpt: "Artificial intelligence (AI ... deploying AI brains into the Waymo self-driving car business, and applying these technologies to medical research and weather forecasting. But the company also invites the world at large to take advantage of the same ..."
+    publishedDateTime: 2020-10-07T13:39:00Z
+    webUrl: "https://www.fool.com/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 89
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F594319%2Fartificial-intelligence-digital-brain.jpg&w=1200&op=resize"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "3VnhqOtmZECOHQFIh6qPjve+gwXQE6EP6xOu5sSHECAs2bWcml2tq8GFDWwCMclSPJeoQj1PKUsv0XBRlgfTM9ferYsURv5C751nucFw2jo8xZSZ2hx8M4Eg+CvpqAmdjEXhvZYOdhTsSfOZSPAMkIefIjZkbrQbkkOfUDpLUFIR2JN5poxX7K+UEf2cCR3nuIDUs+XtlhInxMexkkyStXbvcVeJ1dbbj7ZC+uKHO7Bl3/IQ+dVdsMooGAxj/ehI996UdwpjW8S2hsU5hn+CWRKlmM48cz6NJnbOa+24m9fse2iCfUlRZZGtWRZr/RQDf3dyrfpJo6uHcPd8jcVj9rn96o/5yP63YDRvlq9oTvzHUWaNnxaZvM5vqGK4ojzZ+5LdS+e4tsawq8n9AAZtU+xxCP3A0fnq3eZ1gUFZOOzlN/buwXcce75SDiT4Sg3z4K66oB6xrUwXYpToTfqTwAJhO17uBHRZ2LHl9jTCv7uTLJdX0lRU/9/i1g/ed+7Ah85VfTaKwKOyT2IATa+w8Q==;iIfjNUJlOy5XfvMZHYb4sg=="
 ---

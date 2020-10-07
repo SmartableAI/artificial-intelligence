@@ -84,6 +84,20 @@ related:
         width: 1680
         height: 840
         isCached: true
+  - title: "The future of work: AI and mental health"
+    excerpt: "Workers face unprecedented mental health crises, driven by the COVID-19 pandemic and other emergencies—but AI can help restore the balance."
+    publishedDateTime: 2020-10-07T13:08:00Z
+    webUrl: "https://www.oracle.com/news/connect/how-ai-and-humans-working-together-can-help-employee-mental-health.html"
+    type: article
+    provider:
+      name: Oracle
+      domain: oracle.com
+    quality: 39
+    images:
+      - url: "https://www.oracle.com/a/tech/img/og-ai-work-facebook.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The future for AI and enterprise looks bright"
     excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
     publishedDateTime: 2020-10-07T04:32:00Z

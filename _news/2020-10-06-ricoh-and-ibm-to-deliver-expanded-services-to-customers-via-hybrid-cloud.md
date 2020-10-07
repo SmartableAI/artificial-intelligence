@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Ricoh and IBM to deliver expanded services to customers via hybrid cloud"
-excerpt: "Under the agreement, Ricoh will utilize IBM Services to design and implement a hybrid cloud environment that can empower customers to benefit from Ricoh expertise and advanced technologies, such as the AI-accelerated IBM Power Systems."
+excerpt: "Ricoh USA, Inc. and IBM today announced a significant expansion of their existing collaboration to help enable delivery of Ricoh's innovative information management"
 publishedDateTime: 2020-10-06T13:52:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ricoh-and-ibm-to-deliver-expanded-services-to-customers-via-hybrid-cloud-1029652834"
-webUrl: "https://markets.businessinsider.com/news/stocks/ricoh-and-ibm-to-deliver-expanded-services-to-customers-via-hybrid-cloud-1029652834"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/ricoh-and-ibm-to-deliver-expanded-services-to-customers-via-hybrid-cloud-1029652834"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ricoh-and-ibm-to-deliver-expanded-services-to-customers-via-hybrid-cloud-1029652834"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ricoh-and-ibm-to-deliver-expanded-services-to-customers-via-hybrid-cloud/article_73822d6d-e8a0-5fcc-8490-75983b444305.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ricoh-and-ibm-to-deliver-expanded-services-to-customers-via-hybrid-cloud/article_73822d6d-e8a0-5fcc-8490-75983b444305.html"
 type: article
-quality: 53
-heat: 53
+quality: 23
+heat: 23
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "YSCiK66wtmJK0+F3LiTsybETi8xFraSmi+SYO8K9eACPLRnFnIkJ6bv9Ua4JCwNxI/I04MIs5LL/GLPX/5iJVy7fE67cw/WVBBS4CAGVJO53m4HdGKQ6JfpD4bgZwy7vM9E/mSELQ4UUuziwhEdY7wPx2MwvsPBLNbEI5JEWsyXPKOlgspcBe8gHy/ysXPl31BYJbFJ3NlO/PWJcci9G6bHqc8t0YXCEkFCffUq7QCrqhq7/Xs/NmLsjB2zk6ne0979yBZQBfJp7XsQz4N+4q1C/zXPS5aSARZueLaB1pE4ICz0ILtVTZJGePyVszCVnFPxqoq1Xoz0v4SAF31+is1RYb50Dfh4ODrwNF/oSGmQ=;rXQsR8dLriymfmuWGr52AA=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "hwyrndm0xljeeUKa04GAocDMZnA6WwGzDopHmqBKFr9r9MaI+ou0Q78S/Nnx6OJ4Z9xaU8e7JNn4hj31KGihtvskROxtfuJ1tL7thrjsvy98tQh584/pCSv+Sk4cVQIqfBd8r1HpGVGixSG3xuCirtKSuMw3mFK49sYIKomDorG/qJDH1A+kPCSj2ZjO/j+T5YjC1GkEXBLBwAaLMrvoKnp1K8DYJ2pEsfnWIv4/H09UXeNIEfFuUp2cGCH/+JxSSMp7ZY5+dNs9Xu1iw7VXp2wczRP8zE2tLRqnxG3ZYiP4B8mVU8HJgCIb2Ep7K2usa/aUh5SS+mQkHx8chRgeUz8zswrlnuTqOmacOT7tGeQ=;D/CowtcfNEB20MSffD+Xeg=="
 ---
 
