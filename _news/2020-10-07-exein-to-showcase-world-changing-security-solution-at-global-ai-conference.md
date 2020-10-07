@@ -2,26 +2,27 @@
 category: news
 title: "Exein to Showcase World-changing Security Solution at Global AI Conference"
 excerpt: "GTC, taking place online, from October 5 to 9 2020, is the world's meeting place for the developers, researchers, scientists and engineers of the global AI community and provides a forum in which to exchange ideas and push the boundaries of the field."
-publishedDateTime: 2020-10-06T19:27:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/exein-to-showcase-world-changing-security-solution-at-global-ai-conference-1029654309"
-webUrl: "https://markets.businessinsider.com/news/stocks/exein-to-showcase-world-changing-security-solution-at-global-ai-conference-1029654309"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/exein-to-showcase-world-changing-security-solution-at-global-ai-conference-1029654309"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/exein-to-showcase-world-changing-security-solution-at-global-ai-conference-1029654309"
+publishedDateTime: 2020-10-06T18:59:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/exein-to-showcase-world-changing-security-solution-at-global-ai-conference-301147023.html"
+webUrl: "https://www.prnewswire.com/news-releases/exein-to-showcase-world-changing-security-solution-at-global-ai-conference-301147023.html"
 type: article
-quality: 65
-heat: 85
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
+  - AI Hardware
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1308268/Exein_Logo.jpg?p=facebook"
+    width: 1042
+    height: 546
+    isCached: true
 
 related:
   - title: "3rd World Conference on Robotics and Artificial Intelligence"
@@ -45,6 +46,6 @@ related:
       domain: gisuser.com
     quality: 37
 
-secured: "riYyBiY1JHutfOeQI4HeMd3uXVxX+pHou8v65hVHs7WL+1wLS6LLz9+/KCFcylK0KPLDfx+g+HfMPj7UScJdi9/w/CHHGfhuKgjd7W8JgJ/KMUq4RQOmHnFXiPj9euoj/65TuVCPptT9Z+f6J2NEpoPXx8EbWt1P99ISeokdrGcyI9fqlMvw1Mcr3+7DRfs2NNEk3dNdKpKF0j8yVY7ZlxxuQ1QhZZQdZDPP3x0q6wKqnbRsvbeN/yAcyePkHnfr2ElGIl1cQbtHxhlbIuBiUaFjezBHhmxp7VNjMQBHnc0pdWabe6/3Mi1+8GavN/Fcq/yLTwnjBa7ju5wZ6Yn7KlhFiM/fDCwynuu9z289Zw8=;3+Dao7zyycFxDP/s5v4wSw=="
+secured: "+OJZGleqCueyRi+Wc6KbyIrFD+N3USFa21wDPwukWQ2u5+yYntEoF1A6LjIU7zxIDaN3Zf1s1kO39opyUrhMVd36nBUjVtlCRtsnjncf9tx4vhr+WXG/sSMdnj1bK0vitjOWO8suYoJL9xJ6N+feJu3v05cWE3XkmJCw6lFerCDT+03MI5GN114CLLv/yiqTyWL/Lqrf7lqfGga/Ta8gZEZmMMkYzcgzqlJ6oncHy2xfcR4dF08a2QFoaa9IFh9o+KKm7VYnS9CDKV3rjOZcUAiWzeur6V2r8KpyGYeZCRONkPRUlqv4C+GAXt0GC4iDMiOyxEEwz0piGdvOAOI1U4SKAV3twgB9eVJOLt3xEG4=;TOPAIMcf71J+106Se1pS/A=="
 ---
 

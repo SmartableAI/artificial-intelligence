@@ -2,9 +2,9 @@
 category: news
 title: "Walter Williams: The True Test of Supporting Free Speech"
 excerpt: "The violence, looting, and mayhem that this nation has seen over the last several months has much of its roots in academia, where leftist faculty teach immature young people all manner of nonsense that contradicts commonsense and the principles of liberty."
-publishedDateTime: 2020-10-06T14:46:00Z
-originalUrl: "https://cnsnews.com/commentary/walter-e-williams/walter-williams-true-test-supporting-free-speech"
-webUrl: "https://cnsnews.com/commentary/walter-e-williams/walter-williams-true-test-supporting-free-speech"
+publishedDateTime: 2020-10-06T15:21:00Z
+originalUrl: "https://www.cnsnews.com/index.php/commentary/walter-e-williams/walter-williams-true-test-supporting-free-speech"
+webUrl: "https://www.cnsnews.com/index.php/commentary/walter-e-williams/walter-williams-true-test-supporting-free-speech"
 type: article
 quality: 4
 heat: -1
@@ -36,6 +36,6 @@ related:
         height: 750
         isCached: true
 
-secured: "QOKdt0O4/Xs22F013Fz2GdWQF5sRUCPQ2jR9gDAIpJUnVjlfQSLf9bu3yLri4aS7jMMZOhshVnuTByjZZf66g2gFw+9yyOEnnSf066xij1/VMLBRBVuXmdNV4a8FFIOzdxhKTb+isaE6r1qMJ11N7o8OgkOAmyksy1LbWGAqhkvym5hNBrqvADZtzw1FjYMcBuV8I8pcUxgpKNtj9Psd8mnrt6uLCJBMJGUULynX1OD4J6sURZdKVxBGVs6gWyBhsQ8IsLRnIFAs7v6JWdnbuZsrC1l8LNHYXNrWc16JDKdFY1NgGgddj1WyanWW6+Ftm+rb2SVHO6N2qW77ipPseMusrmnACuaR4hxYt1ZtucwLJyeSgdPpyQMOHGcA1Wv5oYg02sPabQJDR6s5O/VnHU4s4F9RB0erNZwcIaz9X+xkhgfSupsEZYjFnwMDXKbOyPva6B6ch2UvHaZKnMoYxAlVo0y/F7Ioi3a+neNxp+4VC6nbngQihCyqiK+1MAbTapwGb054M8j2GvaaGFKaBQ==;rOHfuAreqv8+JShII7sbgA=="
+secured: "hzcsZFNLg5xVHWcB21CcaUIrf3XtbayEPR4NU+kkhvmfqF66g9G4zAT5/6z6B1uBWJCZZkDF3bcc1DFsJ+P+9AN7XRepbDIhdm1SVdoTb830l7oMYwBEvlaujfdWJxSTpIU+Ni1Gyyorm+xa0EZBBeQxPCghJrnZJwx/tpO8eHy1y5ZnZr72DeK8ywWpGqaVIX0lkMfMuD/+JQLGZyZhcTnepX6FhCEY2nReq0ip27CvJAh7Gzi7xw62ljaObl8TNDT1gl1D8wFt+A85bZrYs5Rq1fyhNy55lOsFIBxUS2XZfZt88wvCLb1LIctstjr58u1iwSHN1oo3SmCadWO2DGzMWUYHJ5A/Xzsj5hAka0qkg/b3f/M1/uE1igqgix9qMWk1/tBS9B2xb46kBA57nqml4jw5D6oW2eFoRiGqmQLY4xV7syppUP77jfHE+Dp12X4ClVxu2yHpF0Ipvj8fkz0qhaBSxkJrg8paQgkzzi3RGw7ofyok4lnHrU9j++YY0l0dMb+XrWxUR9H376lObQ==;qbAaZs4ZrDOfy8n3vHIpdg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/10/05/nasa-releases-images-of-the
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/05/nasa-releases-images-of-the-first-craters-on-mars-discovered-by-ai/amp/"
 type: article
 quality: 87
-heat: 109
+heat: 107
 published: true
 
 provider:

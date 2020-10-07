@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/nvidia-introduces-ampere-based-rtx-a6000-
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/nvidia-introduces-ampere-based-rtx-a6000-gpu-for-professionals/"
 type: article
 quality: 89
-heat: 110
+heat: 109
 published: true
 
 provider:

@@ -1,21 +1,27 @@
 ---
 category: news
 title: "IBM Brings Artificial Intelligence At Scale To The Marketing And Media Industry"
-excerpt: "IBM today announced three new products to add to its growing suite of AI solutions for brand and publishers. IBM intends to work with industry leaders, including Xandr/AT&T, Magnite, Nielsen, MediaMath,"
-publishedDateTime: 2020-10-05T13:25:00Z
-originalUrl: "https://www.nasdaq.com/press-release/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-2020"
-webUrl: "https://www.nasdaq.com/press-release/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-2020"
+excerpt: "PRNewswire/ -- IBM (NYSE: IBM) today announced three new products to add to its growing suite of AI solutions for brand and publishers. The new"
+publishedDateTime: 2020-10-05T13:16:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry/article_49982e03-5ebc-599e-bd30-cddec2f3c1c3.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry/article_49982e03-5ebc-599e-bd30-cddec2f3c1c3.html"
 type: article
-quality: 43
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/da/dda7e99f-e470-54a0-afec-a29238bbefca/5f7b15a97fd81.image.jpg?resize=400%2C209"
+    width: 400
+    height: 209
+    isCached: true
 
 related:
   - title: "IBM joins NIH effort to diagnose schizophrenia using AI"
@@ -46,6 +52,6 @@ related:
       domain: pulse2.com
     quality: 39
 
-secured: "LY/5NJOyp/fUam2RtvfJ6bGWck0EQ6ptpBmvoOaCAiQGS/tGvXiM0TUGkj089v6G13AIExZGHTQrcL6O1TQnCZGTvxTRrhwBnyYIdgp5fHjslxTIJcrySad/VM/VfwX5UfBikM6DHijsdtVsrzhT7dRKttwmZVrQMlN68DTAmGbeqzRqmVQh7OUr48j9z1kFmQdIB/vePBDniiq7rRgsLgaU5m58AP7B69j9O++kKTf3WpmWjOgzDlHq+ZVRYcSQub3T8H/2IXSuX8IEHv5+eygD67i4tkPlfIGifYLgaeBv9mtK6eMasmA8z+KsApQSuf+1I+nu5G7SIlM1W7IY3XVSlQ1IaNh7vpICwrW6RUE=;IL1gH/mPm6jthiQ2Zhv0lg=="
+secured: "sHTExQKRjpIp9J7Apfv+o3ajmTMeN1QTZXhCaXc2sZ0Gz3ssbhfZcYnrr7mhvMd5huwFz1nltITyDnC+4sL+w8JMqnkR21yuxX5yTXYYrwaCNT3X2RvtN4QowDxWdX8/2Bsc8jJ3zWuXoZG5+YjHfyY8mfsxz5MOMhyhSop5sRd8xFKvx5IC/8LY4uLvhuRh7M9NCoc9Is6RYuPFtE0FYLmVzM4hLq/zQPjsotnhlsvcxhoq+PD8LqcNDt8zHE7UOw9Na7RbABlxRcEjBhWB4s2wOZmo5RXx+2sPtAnuEfMGRJ+Q8cH0OKyT17dfh5kwxRNNq5NmYtvGRA61BsiPyRN8ahFp/SIVbvBJwhvezbQ=;aywSqwhgAmCx3ZWOATFe/Q=="
 ---
 

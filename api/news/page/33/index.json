@@ -2,6 +2,48 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-09-09-the-8-best-ai-stocks-on-the-market-today.md",
+      "title": "The 8 Best AI Stocks on the Market Today",
+      "excerpt": "Today, as Facebook drives AI research and continues to integrate the technology throughout its platform, FB stock is worth close to $300. That continued investment and its ongoing payoff makes ...",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2020/09/best-ai-stocks-on-the-market-today/",
+      "originalUrl": "https://investorplace.com/2020/09/best-ai-stocks-on-the-market-today/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2019/10/artificial-intelligence.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/2020/09/best-ai-stocks-on-the-market-today/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/09/best-ai-stocks-on-the-market-today/amp/",
+      "publishedDateTime": "2020-09-09T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-09-how-the-trevor-project-is-using-ai-to-prevent-lgbtq-suicides.md",
       "title": "How the Trevor Project is using AI to prevent LGBTQ suicides",
       "excerpt": "Over the past three years, the nation’s largest suicide prevention organization for LGBTQ youth has undergone a major tech overhaul, most recently using machine learning to assess high-risk outreach.",
@@ -1085,58 +1127,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-tackling-one-of-the-biggest-single-sources-of-co2-emissions-with-machine-learning.md",
-      "title": "Tackling one of the biggest single sources of CO2 emissions with machine learning",
-      "excerpt": "The 6 million buildings in the U.S. produce 40% of the country’s emissions, mostly from day-to-day lighting, heating, cooling, and appliance operation.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/08/tackling-one-of-the-biggest-single-sources-of-co2-emissions-with-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2020/09/08/tackling-one-of-the-biggest-single-sources-of-co2-emissions-with-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-579525105.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 642,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/08/tackling-one-of-the-biggest-single-sources-of-co2-emissions-with-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/08/tackling-one-of-the-biggest-single-sources-of-co2-emissions-with-machine-learning/amp/",
-      "publishedDateTime": "2020-09-08T10:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -2,6 +2,56 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-09-24-rephraseai-raises-15m-to-use-synthetic-media-for-personalized-sales-pitches.md",
+      "title": "Rephrase.ai raises $1.5M to use synthetic media for personalized sales pitches",
+      "excerpt": "Bangalore-based Rephrase.ai has an ambitious vision for reshaping how movies and videos are made. CEO Ashray Malhotra laid it out for me yesterday, saying that his co-founder Nisheeth Lahoti “came up with this concept — he wants to build an engine that can take any script as input and create",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/24/rephrase-ai-seed-funding/",
+      "originalUrl": "https://techcrunch.com/2020/09/24/rephrase-ai-seed-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-24-at-10.05.15-AM.jpg?w=1024",
+          "width": 1024,
+          "height": 577,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/24/rephrase-ai-seed-funding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/24/rephrase-ai-seed-funding/amp/",
+      "publishedDateTime": "2020-09-24T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women.md",
       "title": "In facial recognition challenge, top-ranking algorithms show bias against Black women",
       "excerpt": "The results from a recent facial recognition competition demonstrate that even the best algorithms are still prone to gender and racial bias.",
@@ -1131,39 +1181,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-autonomous-shuttles-idtechex-report-reveals-the-future-of-last-mile-mobility.md",
-      "title": "Autonomous Shuttles: IDTechEx Report Reveals the Future of Last-mile Mobility",
-      "excerpt": "self-driving shuttle buses that transport small groups of people along defined and planned routes. Autonomous shuttles could be a key element that connects the public transportation systems to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2020-09/50779615-autonomous-shuttles-idtechex-report-reveals-the-future-of-last-mile-mobility-008.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2020-09/50779615-autonomous-shuttles-idtechex-report-reveals-the-future-of-last-mile-mobility-008.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-23T10:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
         "publishers": null,
         "authors": null
       },

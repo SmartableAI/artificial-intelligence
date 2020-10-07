@@ -9,7 +9,7 @@ ampWebUrl: "https://www.oneindia.com/amphtml/india/raise-2020-a-mega-virtual-sum
 cdnAmpWebUrl: "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html"
 type: article
 quality: 74
-heat: 165
+heat: 164
 published: true
 
 provider:

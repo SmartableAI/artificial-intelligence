@@ -1,28 +1,29 @@
 ---
 category: news
-title: "Seegrid acquires robotics startup to boost “situational awareness” for its self-driving vehicles"
-excerpt: "Fresh off the news that it had closed a $52 million funding round last month, self-driving vehicle provider Seegrid is keeping its foot on the gas in its drive to position its vision guided vehicles (VGVs) in the material handling sector,"
-publishedDateTime: 2020-10-06T19:38:00Z
-originalUrl: "https://www.dcvelocity.com/articles/47371-seegrid-acquires-robotics-startup-to-boost-situational-awareness-for-its-self-driving-vehicles"
-webUrl: "https://www.dcvelocity.com/articles/47371-seegrid-acquires-robotics-startup-to-boost-situational-awareness-for-its-self-driving-vehicles"
+title: "Elon Musk says Tesla’s Full Self-Driving suite is coming to Japan"
+excerpt: "Driving suite is among the most sophisticated and advanced driver assistance systems in the world. As self-driving and semi-autonomous software is relatively new, many features have yet to be approved in markets outside of the United States."
+publishedDateTime: 2020-10-06T23:29:00Z
+originalUrl: "https://www.teslarati.com/tesla-elon-musk-fsd-japan-coming-soon/"
+webUrl: "https://www.teslarati.com/tesla-elon-musk-fsd-japan-coming-soon/"
+ampWebUrl: "https://www.teslarati.com/tesla-elon-musk-fsd-japan-coming-soon/amp/"
+cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-elon-musk-fsd-japan-coming-soon/amp/"
 type: article
-quality: 43
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: DC Velocity
-  domain: dcvelocity.com
+  name: Tesla News
+  domain: teslarati.com
 
 topics:
   - AI in Autos
   - AI
-  - AI in Robotics
 
 images:
-  - url: "https://www.dcvelocity.com/ext/resources/images/articles/2020/202010/Seegrid-MediaKit-Image2-1.jpg?height=635&t=1602009585&width=1200"
-    width: 4649
-    height: 2615
+  - url: "https://www.teslarati.com/wp-content/uploads/2019/09/tesla-model-3-white-japan-1-1024x599.jpg"
+    width: 1024
+    height: 599
     isCached: true
 
 related:
@@ -56,22 +57,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Elon Musk says Tesla’s Full Self-Driving suite is coming to Japan"
-    excerpt: "Driving suite is among the most sophisticated and advanced driver assistance systems in the world. As self-driving and semi-autonomous software is relatively new, many features have yet to be approved in markets outside of the United States."
-    publishedDateTime: 2020-10-06T23:29:00Z
-    webUrl: "https://www.teslarati.com/tesla-elon-musk-fsd-japan-coming-soon/"
-    ampWebUrl: "https://www.teslarati.com/tesla-elon-musk-fsd-japan-coming-soon/amp/"
-    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-elon-musk-fsd-japan-coming-soon/amp/"
-    type: article
-    provider:
-      name: Tesla News
-      domain: teslarati.com
-    quality: 59
-    images:
-      - url: "https://www.teslarati.com/wp-content/uploads/2019/09/tesla-model-3-white-japan-1-1024x599.jpg"
-        width: 1024
-        height: 599
-        isCached: true
   - title: "Tire Blowouts Could Cause Self-Driving Cars To Go Astray"
     excerpt: "Self-driving cars will need to contend with tire blowouts. getty. Have you ever had a tire go bad on you? Sometimes, a tire can seemingly obliterate and become a tangled mess of r"
     publishedDateTime: 2020-10-03T15:35:00Z
@@ -85,6 +70,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f585ee53da66757735430a2%2F0x0.jpg%3FcropX1%3D401%26cropX2%3D4704%26cropY1%3D78%26cropY2%3D2946"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Seegrid acquires robotics startup to boost “situational awareness” for its self-driving vehicles"
+    excerpt: "Fresh off the news that it had closed a $52 million funding round last month, self-driving vehicle provider Seegrid is keeping its foot on the gas in its drive to position its vision guided vehicles (VGVs) in the material handling sector,"
+    publishedDateTime: 2020-10-06T19:38:00Z
+    webUrl: "https://www.dcvelocity.com/articles/47371-seegrid-acquires-robotics-startup-to-boost-situational-awareness-for-its-self-driving-vehicles"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 43
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/images/articles/2020/202010/Seegrid-MediaKit-Image2-1.jpg?height=635&t=1602009585&width=1200"
+        width: 4649
+        height: 2615
         isCached: true
   - title: "Thatcham Research, Euro NCAP Introduce Grading System For Self-Driving Cars"
     excerpt: "Thatcham Research and Euro NCAP have launched what they’re touting as the world’s first grading system for self-driving vehicles “to give motorists the crucial insight they need to understand how to use today’s assisted-driving technology safely."
@@ -101,6 +100,6 @@ related:
         height: 300
         isCached: true
 
-secured: "Len6blOGGczS9jRJ7Uv32RKXeULgcjaQxXnqGTFheupBLKRoWuM7181ss5tJNi6/jYzsGq+p/n2BmQHtKKW+rXO4Q3NdWuew3q262wO8HkJr0jL5PLzXcvcwRtyOetr38cElD1F4kVE9Jne7RwcQNGEdzi8RzehqnBwKT8ThXZcreT9+HWFCbVppMUSpOfP3VBgY2bhq464/QgJBM9YlSv/iWHJBJjDnQFFpnlHUQii6PtJ5/3ouOOOpMWK8w8XC3Ue3eSksofgtAcUfXTyt3NMwChAD0sr6VFSN9ce4ud5sh00ZqdmVfycFB9pDl91jl+zKa7TxGOpkmbuYsolOSvYcojOLQ24RJenpMpD0xGY=;nCY4mAyFk6/D32WJZYvyrw=="
+secured: "U+tvZF6xLVSd18HkiETmekiJ9OMEdlFxAzQk/tM8Y5Pxa94XupXGtVU4Go0a/vqk/rsejq3h7Wi9m2sKZNP3u+mpo+UjUjQo+l6oFRoEp+cN2DymvDYcw889FvFwZ2bsBggWVmGkPc4Js69fNNpYwQmLxwU6/aoSHnuVSv+kZAjM3T/Ji5uvFI7rQ0n09h8Q6Bnq+TqwRCL5euZjibeVs+JHQXkmbQCm2DK28a+WyKmmHsMz+FnnsgkLM5Ia5pSxO+8+SOWEQ3iIiPSZ+xcYQgrOrHc8EE8CmxBvk4cS1AxJjulPy/shc2dWlHRs2QXwrEFxkdqwSEEQiJz7JJ/41Zgd4cxPFjwKjcgQNk2xLh4=;Pz1nLc1VJlHLqHrqpF9T0A=="
 ---
 

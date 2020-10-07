@@ -41,22 +41,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Top 5 technologies that will transform the Fintech sector"
-    excerpt: "Here are the top five technologies that will allow the Fintech industry to enhance productivity and efficiency in automating the solutions."
-    publishedDateTime: 2020-10-02T05:20:00Z
-    webUrl: "https://www.ciol.com/top-5-technologies-will-transform-fintech-sector/"
-    ampWebUrl: "https://www.ciol.com/top-5-technologies-will-transform-fintech-sector/amp/"
-    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/top-5-technologies-will-transform-fintech-sector/amp/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 44
-    images:
-      - url: "https://www.ciol.com/wp-content/uploads/2017/10/Fintech.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "F|T: The FinTech Times – Pandemic plutocrats"
     excerpt: "Welcome to the FinTech Times, a weekly newsletter covering the biggest FinTech news from around the globe. If you want to read F|T before anyone else, make sure to subscribe using the form at the bottom of this page."
     publishedDateTime: 2020-10-05T10:02:00Z

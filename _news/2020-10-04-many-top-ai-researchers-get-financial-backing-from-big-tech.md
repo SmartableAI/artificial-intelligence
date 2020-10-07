@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/top-ai-researchers-financial-backing-big
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/top-ai-researchers-financial-backing-big-tech/amp"
 type: article
 quality: 91
-heat: 102
+heat: 101
 published: true
 
 provider:

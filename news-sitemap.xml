@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.wsj.com/video/events/deepmind-demis-hassabis-on-ai-doing-better/B1E79F73-609F-4979-8318-D239B3F4BF35.html</loc>
-    <lastmod>2020-10-06T12:49:00-07:00</lastmod>
+    <loc>https://aws.amazon.com/blogs/machine-learning/improving-performance-for-deep-learning-based-object-detection-with-an-aws-neuron-compiled-yolov4-model-on-aws-inferentia/</loc>
+    <lastmod>2020-10-06T15:20:29-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/exein-to-showcase-world-changing-security-solution-at-global-ai-conference-1029654309</loc>
-    <lastmod>2020-10-06T12:27:00-07:00</lastmod>
+    <loc>https://www.wsj.com/video/events/deepmind-demis-hassabis-on-ai-doing-better/B1E79F73-609F-4979-8318-D239B3F4BF35.html</loc>
+    <lastmod>2020-10-06T12:49:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -541,7 +541,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.newswire.ca/news-releases/mcloud-brings-natural-language-processing-to-connected-workers-through-partnership-with-aiqudo-894258930.html</loc>
+    <loc>https://www.finanzen.net/nachricht/aktien/mcloud-brings-natural-language-processing-to-connected-workers-through-partnership-with-aiqudo-9351204</loc>
     <lastmod>2020-10-01T04:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -727,8 +727,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://apnews.com/press-release/pr-newswire/technology-medical-technology-health-artificial-intelligence-computing-and-information-technology-7ebeb192b3437584eac7a740d6619523</loc>
-    <lastmod>2020-09-30T06:30:00-07:00</lastmod>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_health/andor-health-collaborates-with-mentor-to-deliver-next-generation-ai-powered-virtual-experiences-with-microsoft/article_87104374-4495-5f9b-9707-4d6892880d0d.html</loc>
+    <lastmod>2020-09-30T06:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -753,6 +753,12 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-analysis-growth-opportunities-2020-09-30</loc>
     <lastmod>2020-09-30T05:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_business/systran-partners-with-ted-to-create-specialized-translation-models-expanding-professional-applications-of-machine-translation/article_2876188d-59c2-5b5d-a412-76b6c422d0af.html</loc>
+    <lastmod>2020-09-30T05:22:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

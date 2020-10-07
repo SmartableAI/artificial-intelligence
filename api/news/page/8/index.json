@@ -2,6 +2,47 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-09-29-doc-rivers-ousted-from-clippers-social-media-reacts-to-shocking-decision.md",
+      "title": "Doc Rivers ousted from Clippers, social media reacts to shocking decision",
+      "excerpt": "Clippers reporter Mirjam Swanson confirmed the bombshell news on Monday that the Clippers have fired head coach Doc Rivers. The Clippers blew a 3-1 series lead in the second round of the Western Conference playoffs against the Denver Nuggets,",
+      "sourceUrl": null,
+      "webUrl": "https://inside-com.breezy.hr/",
+      "originalUrl": "https://www.mercurynews.com/2020/09/29/social-media-reaction-to-the-shocking-firing-of-clippers-coach-doc-rivers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://breezy-social-images.imgix.net/442d93c02549/social-portal.png?auto=format&h=600",
+          "width": 1143,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-29T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mercury News",
+        "domain": "mercurynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-microsoft-launches-azure-for-operators-cloud-initiative.md",
       "title": "Microsoft launches Azure for Operators cloud initiative",
       "excerpt": "Microsoft has announced the launch of Azure for Operators, an initiative aimed at network operators that it says will expand connectivity.",
@@ -1156,48 +1197,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-uk-and-us-marked-down-on-responsible-ai.md",
-      "title": "UK and US marked down on responsible AI",
-      "excerpt": "The UK and US have been rated as leaders in government use of artificial intelligence, but the Nordics and Baltics attained the highest scores for responsible AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252489721/UK-and-US-marked-down-on-responsible-AI",
-      "originalUrl": "https://www.computerweekly.com/news/252489721/UK-and-US-marked-down-on-responsible-AI",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ttgtmedia.com/visuals/German/article/artificial-intelligence-brain-2-adobe.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/252489721/UK-and-US-marked-down-on-responsible-AI?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252489721/UK-and-US-marked-down-on-responsible-AI?amp=1",
-      "publishedDateTime": "2020-09-28T07:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

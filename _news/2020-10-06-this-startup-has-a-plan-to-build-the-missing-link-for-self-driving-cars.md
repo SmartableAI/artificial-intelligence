@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lianeyvkoff/2020/10/06/this-startup-has
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lianeyvkoff/2020/10/06/this-startup-has-a-plan-to-build-the-missing-link-for-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://i.insider.com/5f775bf70ab50d00184addff?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Elon Musk says Tesla’s Full Self-Driving suite is coming to Japan"
+    excerpt: "Driving suite is among the most sophisticated and advanced driver assistance systems in the world. As self-driving and semi-autonomous software is relatively new, many features have yet to be approved in markets outside of the United States."
+    publishedDateTime: 2020-10-06T23:29:00Z
+    webUrl: "https://www.teslarati.com/tesla-elon-musk-fsd-japan-coming-soon/"
+    ampWebUrl: "https://www.teslarati.com/tesla-elon-musk-fsd-japan-coming-soon/amp/"
+    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-elon-musk-fsd-japan-coming-soon/amp/"
+    type: article
+    provider:
+      name: Tesla News
+      domain: teslarati.com
+    quality: 59
+    images:
+      - url: "https://www.teslarati.com/wp-content/uploads/2019/09/tesla-model-3-white-japan-1-1024x599.jpg"
+        width: 1024
+        height: 599
         isCached: true
   - title: "Tire Blowouts Could Cause Self-Driving Cars To Go Astray"
     excerpt: "Self-driving cars will need to contend with tire blowouts. getty. Have you ever had a tire go bad on you? Sometimes, a tire can seemingly obliterate and become a tangled mess of r"

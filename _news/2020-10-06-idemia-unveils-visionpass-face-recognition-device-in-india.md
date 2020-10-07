@@ -24,6 +24,17 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "IDEMIA unveils VisionPass face recognition device in India"
+    excerpt: "New Delhi, Oct 6 (IANS) France-based tech company IDEMIA on Tuesday announced to launch its advanced contact-less facial recognition access control device titled VisionPass for the India market."
+    publishedDateTime: 2020-10-06T17:32:00Z
+    webUrl: "https://www.sify.com/news/idemia-unveils-visionpass-face-recognition-device-in-india-news-education-ukgnPBbifbehe.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 19
+
 secured: "cBaxCGq+7N6gQJG83xF8yKUO6yjmH/5UnSkmfJLi/vGumYpjUgDnv7yabXomlkMGpHEa8IqNm79QbtPeIcH2WtaDSKsomdkiohtMJYbX4HqkkR8uCA/HeE5NX2FiPzwqkaP7zeYaqIdGygvTMK12WOm0g2gHcnwjBmCfkDExDgBxSEfKrJrdQofL+S8CFMkumiTLmf1M6wnLtHsFnlDFT9VxkuY26IYhYgwXGgyApjLr+ZI/zCYB55DZn/1TwrpNAPJqNr9JGHrOk3u3dWsvasYG1ZvQ9nPSp03U7Wr+yvWh+REiUhVt0HeD0squPWYFJ8b3qgfe9tPbqVqzfHUQE3k7FoeDcTNAgYKx07enX1U=;AEbrRPEe2+d4xM7gmNAp0w=="
 ---
 

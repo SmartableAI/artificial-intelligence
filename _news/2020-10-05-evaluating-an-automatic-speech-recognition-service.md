@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/evaluating-an-automa
 webUrl: "https://aws.amazon.com/blogs/machine-learning/evaluating-an-automatic-speech-recognition-service/"
 type: article
 quality: 91
-heat: 102
+heat: 101
 published: true
 
 provider:
