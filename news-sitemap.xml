@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.tweaktown.com/news/75521/ea-ceo-teases-new-machine-learning-and-ai-features-for-next-gen-games/index.html</loc>
+    <lastmod>2020-10-06T20:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-1029652622</loc>
+    <lastmod>2020-10-06T19:09:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/improving-performance-for-deep-learning-based-object-detection-with-an-aws-neuron-compiled-yolov4-model-on-aws-inferentia/</loc>
     <lastmod>2020-10-06T15:20:29-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -97,12 +109,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/global-industrial-enterprise-military-and-consumer-automation-and-robotics-market-2020-2025-1029650836</loc>
-    <lastmod>2020-10-06T01:22:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.dqindia.com/iit-roorkee-offers-online-course-machine-learning-deep-learning-details/</loc>
     <lastmod>2020-10-06T00:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -141,12 +147,6 @@
   <url>
     <loc>https://blog.google/products/atap/jacquard-samsonite-backpacks/</loc>
     <lastmod>2020-10-05T11:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.crn.com/news/cloud/microsoft-to-build-new-azure-cloud-data-centers-in-greece</loc>
-    <lastmod>2020-10-05T10:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -727,8 +727,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://apnews.com/press-release/pr-newswire/technology-medical-technology-health-artificial-intelligence-computing-and-information-technology-7ebeb192b3437584eac7a740d6619523</loc>
-    <lastmod>2020-09-30T06:30:00-07:00</lastmod>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_health/andor-health-collaborates-with-mentor-to-deliver-next-generation-ai-powered-virtual-experiences-with-microsoft/article_87104374-4495-5f9b-9707-4d6892880d0d.html</loc>
+    <lastmod>2020-09-30T06:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -740,6 +740,12 @@
   </url>
   <url>
     <loc>https://blog.google/outreach-initiatives/google-org/trevor-project-support-lgbtq-youth/</loc>
+    <lastmod>2020-09-30T06:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_business/intelemarks-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion/article_d763ca0c-5282-5ff7-81a8-f5688877c416.html</loc>
     <lastmod>2020-09-30T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1723,14 +1729,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/tomorrow-socratesai-to-host-webinar-giving-your-company-a-single-voice-2020-09-21</loc>
-    <lastmod>2020-09-24T01:02:00-07:00</lastmod>
+    <loc>https://www.commsmea.com/business/opinion/22450-four-steps-to-accelerate-your-machine-learning-journey</loc>
+    <lastmod>2020-09-24T01:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.itp.net/news/93915-four-steps-to-accelerate-your-machine-learning-journey</loc>
-    <lastmod>2020-09-24T00:44:00-07:00</lastmod>
+    <loc>https://www.marketwatch.com/press-release/tomorrow-socratesai-to-host-webinar-giving-your-company-a-single-voice-2020-09-21</loc>
+    <lastmod>2020-09-24T01:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

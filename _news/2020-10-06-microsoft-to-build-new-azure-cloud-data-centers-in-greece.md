@@ -7,8 +7,8 @@ originalUrl: "https://www.crn.com/news/cloud/microsoft-to-build-new-azure-cloud-
 webUrl: "https://www.crn.com/news/cloud/microsoft-to-build-new-azure-cloud-data-centers-in-greece"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: CRN
@@ -26,6 +26,33 @@ images:
 
 related:
   - title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
+    excerpt: "Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce its availability in the Microsoft Azure Marketplace. Granulate's solution helps companies optimize workload performance and enables businesses to cut computing costs while improving performance with no code changes to their application."
+    publishedDateTime: 2020-10-07T02:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-1029652622"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-1029652622"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-1029652622"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 73
+  - title: "Microsoft's Flywheel Kicks Into Gear at Ignite 2020"
+    excerpt: "While reflecting an important customer priority at the moment, it also highlights the investment Microsoft is making in driving integrations across its cloud businesses. The strengthening of the connective tissue between Microsoft’s array of products — across Teams,"
+    publishedDateTime: 2020-10-05T00:00:00Z
+    webUrl: "https://www.cmswire.com/digital-workplace/microsofts-flywheel-kick-into-gear-at-ignite-2020/"
+    ampWebUrl: "https://www.cmswire.com/digital-workplace/microsofts-flywheel-kick-into-gear-at-ignite-2020/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-workplace/microsofts-flywheel-kick-into-gear-at-ignite-2020/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 61
+    images:
+      - url: "https://www.cmswire.com/-/media/dd733cd63b584d758bbaf690a96113cd.ashx?mw=1024"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
     excerpt: "Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce its availability in the Microsoft"
     publishedDateTime: 2020-10-06T13:00:00Z
     webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace/article_190f285f-3d77-5572-818c-015780303762.html"
@@ -39,19 +66,19 @@ related:
         width: 400
         height: 242
         isCached: true
-  - title: "Scality Announces 1 Terabit Per Second Performance for Scale-Out File System in Microsoft Azure Public Cloud"
-    excerpt: "Scality, a leader in software solutions for distributed file and object storage, today announced the technical preview of its high-performance scale-out file system (SOFS) in Microsoft Azure. Scality SOFS running in Azure delivers linear scaling performance for read- and write-intensive workloads."
-    publishedDateTime: 2020-10-06T02:26:00Z
-    webUrl: "https://www.totaltele.com/507362/Scality-Announces-1-Terabit-Per-Second-Performance-for-Scale-Out-File-System-in-Microsoft-Azure-Public-Cloud"
+  - title: "Cresta's AI Coaching Software Integrates with Amazon Connect to Provide Real-Time Performance Optimization of Sales and Support Teams"
+    excerpt: "PRNewswire/ -- Cresta, a real-time intelligence platform for customer conversations, today announced its integration with Amazon Connect, an"
+    publishedDateTime: 2020-10-06T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/crestas-ai-coaching-software-integrates-with-amazon-connect-to-provide-real-time-performance-optimization-of-sales-and-support-teams-301146571.html"
     type: article
     provider:
-      name: Total Telecom
-      domain: totaltele.com
-    quality: 35
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 8
     images:
-      - url: "https://www.totaltele.com/res/image/articleimages/5g-icon-hpe.png"
-        width: 576
-        height: 583
+      - url: "https://mma.prnewswire.com/media/1307745/CRESTA_Logo.jpg?p=facebook"
+        width: 665
+        height: 351
         isCached: true
 
 secured: "5KC1YVovUZTAWNCoTjvLhHWIwtl+ddV10rCfnnvvw+lKpEOsYyzNNEYdsqGQtHcAM4BIUszdWY/h5o8Qewf+fISRYo1Xzr8F/7qxaNDtkrWjjyGBYwHQDUKxf8J9CHZQOZHCBtUPoxIPx+wRDZwguLi20hWBx6I/0Z3AOgNfc4PXCuWZCKRMj4K1WThC8tFHr4/4hkKcZpPivtLA4HqR+twiG+1iy6S4rOVYNR7YE5nIPVGRLkLhJAwLk8d42Srx7XS69Tdg8W1yrZhrCSAFG6LN6EqB0Z770NRqT4sH3fcqqUSs2hOAsV1Anvy/g6NETMCMM+134r4T0DTMR1g4Ee5kok+pGMBN3VNSqDkFU9O3KAHLpvx2JGKZbMWr0RfqfEU2I1G54E7dosxzkK65wJJsmncqsU4J9CAC4IMFSn3GppWX1v9PVEt51PqoqbyCB8UGTywv2G54LGiwJbRytDI70psckJYkjejr0BuOV7sIKARRX4gegJ4xy4gGlltJmWwg3miqH0F0d0/fKGO5wA==;kl2GpeUL3nHssEGre3BC0Q=="

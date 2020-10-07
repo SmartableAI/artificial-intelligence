@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How to perfect your fintech story and close your next funding round"
-    excerpt: "The one thing I always do when I start working with a fintech startup is ask them what they are doing differently or better than their competitors."
-    publishedDateTime: 2020-10-02T09:22:00Z
-    webUrl: "https://thenextweb.com/growth-quarters/2020/10/02/how-to-perfect-your-fintech-story-and-close-your-next-funding-round/"
-    ampWebUrl: "https://thenextweb.com/growth-quarters/2020/10/02/how-to-perfect-your-fintech-story-and-close-your-next-funding-round/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/growth-quarters/2020/10/02/how-to-perfect-your-fintech-story-and-close-your-next-funding-round/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 74
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/conversation-pitch-story-storytelling-gq-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
   - title: "F|T: The FinTech Times – Pandemic plutocrats"
     excerpt: "Welcome to the FinTech Times, a weekly newsletter covering the biggest FinTech news from around the globe. If you want to read F|T before anyone else, make sure to subscribe using the form at the bottom of this page."
     publishedDateTime: 2020-10-05T10:02:00Z

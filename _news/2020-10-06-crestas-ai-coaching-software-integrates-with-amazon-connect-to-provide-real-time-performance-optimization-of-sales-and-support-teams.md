@@ -1,22 +1,86 @@
 ---
 category: news
 title: "Cresta's AI Coaching Software Integrates with Amazon Connect to Provide Real-Time Performance Optimization of Sales and Support Teams"
-excerpt: "PRNewswire/ -- Cresta, a real-time intelligence platform for customer conversations, today announced its integration with Amazon Connect, an easy-to-use omnichannel cloud contact center service from"
-publishedDateTime: 2020-10-06T14:47:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/crestas-ai-coaching-software-integrates-with-amazon-connect-to-provide-real-time-performance-optimization-of/article_5f91ad31-6205-51fe-b905-636bd3fd3dc3.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/crestas-ai-coaching-software-integrates-with-amazon-connect-to-provide-real-time-performance-optimization-of/article_5f91ad31-6205-51fe-b905-636bd3fd3dc3.html"
+excerpt: "PRNewswire/ -- Cresta, a real-time intelligence platform for customer conversations, today announced its integration with Amazon Connect, an"
+publishedDateTime: 2020-10-06T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/crestas-ai-coaching-software-integrates-with-amazon-connect-to-provide-real-time-performance-optimization-of-sales-and-support-teams-301146571.html"
+webUrl: "https://www.prnewswire.com/news-releases/crestas-ai-coaching-software-integrates-with-amazon-connect-to-provide-real-time-performance-optimization-of-sales-and-support-teams-301146571.html"
 type: article
-quality: 0
-heat: 0
+quality: 8
+heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
+  - AWS AI
   - AI
 
-secured: "f2OhMxEHHseXwz08byjm37uIqWVCM0TEaIzinPfJNnkjHtjRf1XxUJK42QpndiR3NobRjX65VdY7deXMVxWJKzJFHlExqIXG26Cs92BwVL4YXm1axPFOpi9ee8I5XAjlDppBQ10ty6llo1pyTz9o7ekk+9EuYQSVdps7ODBoUuaNC/RvJCvze5DMCwUmecGjaf6ECn9FHjm3c4yU8L9tqerPE/V7ZOQb5DY0h4ZNC44/ls8pfFOBj1FMb5yFrbOqOYUppFjRUKa2aYvZfWfmIl8HSdiMe1n6uq1SzBRBGHSohRiYKkT9V4RTczYk5tn4ASyuZZz/OUwwRrTfwr6vwdHMqljYgWx3w0BMocQW4O8=;lMv2kZ3R6RNbR03XlQ68eQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/1307745/CRESTA_Logo.jpg?p=facebook"
+    width: 665
+    height: 351
+    isCached: true
+
+related:
+  - title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
+    excerpt: "Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce its availability in the Microsoft Azure Marketplace. Granulate's solution helps companies optimize workload performance and enables businesses to cut computing costs while improving performance with no code changes to their application."
+    publishedDateTime: 2020-10-07T02:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-1029652622"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-1029652622"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-1029652622"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 73
+  - title: "Microsoft's Flywheel Kicks Into Gear at Ignite 2020"
+    excerpt: "While reflecting an important customer priority at the moment, it also highlights the investment Microsoft is making in driving integrations across its cloud businesses. The strengthening of the connective tissue between Microsoft’s array of products — across Teams,"
+    publishedDateTime: 2020-10-05T00:00:00Z
+    webUrl: "https://www.cmswire.com/digital-workplace/microsofts-flywheel-kick-into-gear-at-ignite-2020/"
+    ampWebUrl: "https://www.cmswire.com/digital-workplace/microsofts-flywheel-kick-into-gear-at-ignite-2020/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-workplace/microsofts-flywheel-kick-into-gear-at-ignite-2020/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 61
+    images:
+      - url: "https://www.cmswire.com/-/media/dd733cd63b584d758bbaf690a96113cd.ashx?mw=1024"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Microsoft To Build New Azure Cloud Data Centers In Greece"
+    excerpt: "Microsoft plans to spend up to $1 billion to build three data centers for its first Azure cloud region in Greece and provide digital technology training to up to 100,000 people there by 2025"
+    publishedDateTime: 2020-10-05T17:36:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-to-build-new-azure-cloud-data-centers-in-greece"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/0261-107e1bc258dd-899507ddf083-1000/shot_of_corridor_in_working_data_center_full_of_rack_servers_and_supercomputers_with_cloud_storage_advantages_icon_visualization..jpeg"
+        width: 549
+        height: 309
+        isCached: true
+  - title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
+    excerpt: "Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce its availability in the Microsoft"
+    publishedDateTime: 2020-10-06T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace/article_190f285f-3d77-5572-818c-015780303762.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 43
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/e1/ce1c5bc4-2af1-5b01-9b65-205e791e28d4/5f7c7229dcab8.image.jpg?resize=400%2C242"
+        width: 400
+        height: 242
+        isCached: true
+
+secured: "j1wordS0oRmHErtuBXZ7s5RMaMcwiuo/OVcG0vNjycLrVR0ykLTfnJeJ2YvJqV7b1g0GS1IIygwQju5zPhoLuQXmdwhogiUFhh9aFLmEPcqVsk6rNOOQbun+uN8BRmzQ30aV4QiQa1uKnw/t3i0vxWcNeV43jcQXlZpFFzql9a6W/sUFJmxBTfuR1RdZspe4aQdnZSPR9fJTP/gb0voyqzl1ZeeGwn8RFTckNZyEYLHMthN/MIzDrWx1FcxOGYG51vBCRDJOnasZYCfyrMjLL3/uswJwo1624mLyEJYmq2zOuLMXOCH4z04VXxdY/+ApQ5OhQpn5M2KPmn1+ManuHdzDGATd03yQS1eQplCVNPs=;Px9sSf8JyuF9qz4DcmzG7w=="
 ---
 
