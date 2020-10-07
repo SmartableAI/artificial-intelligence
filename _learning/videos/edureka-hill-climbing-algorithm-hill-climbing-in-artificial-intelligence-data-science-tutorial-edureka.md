@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT17M33S
 publishedDateTime: 2019-12-31T04:37:45Z
-heat: 58
+heat: 57
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_ThdIOA9Lbk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: https://i.ytimg.com/vi/_ThdIOA9Lbk/maxresdefault.jpg
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "MaiqOp5GglbE5U2cTqty9YG0axhA7HQEAJ52RKs18rO2/CoKBaztkc8kBxZJWeRbVjZsLT0muqkCj7r5emB5WCBeQwjb8YObHoaNq4wUN+NkQP9ogflt+Gld3ImFgR1+hBKzWo+K+JIu4L6Py3jXdp3FXPYY3aIxvjhogy6G5jX7PB507weY5pZXnfdYDhN3X5EQN8fn1U2flufg44bkW3iQVPqxy5oF+HPmDF874avTEdBESZOgUFuU2rnBUHfVSDKNwQXsZkQTG+DM60dQjc+ir90yu8CIvN6G40TVEkVUaGyOCd0vwCunQoq7XDy+ylTgYnrzQZ2W6WN/APx7T++PMeMA0YAWqImdCx0BnQn7mfGfGArE2c3syE0X4w7BgYGFOORqPwgm8OuDejxzyA/osyQy7eWRNCrjvjC6dBU=;vVv41OPP63Ah+eOltIojrA=="
+secured: "lcG/7XwwRFyg+cm/c+amSkHaIZ16Q2RxosAbtE1fxcZpBfo9r8666xhBHwTRa61OH25eJCcDmn2LeILFWiC6qaBBBMPzQQSXktEsP6QMMHC90RPHjx03J5U53F7jw6zUYDOS+kDuPqYyy74zT1iIhOrR/mmHqkfC0HUJoSMHQ4uSjN74hHNRQdMUNTe4N6YrKHhfNpRLcXUQssxCmZqulwVwLYs3BUu7M0ys468Mlu1qBUOs5nYqyhjocANOW/9maF0XI5iAAut8eNgRSaEc0ui/j9cD/1SE2VA8MqSJhuJrPofYd4jGhBT5d8qcPYgyVQzx5WM1e+Z7Gr15aF/20otW/VJ9PnkTFKUhpHXPN0jBzzGBcjVj9l04VwGZNeg2IcmPOshTcMui/Qxs70RlW4AVk8C2f3fnt0iQjzqDxnE=;n6PeURD8LYIrC4wopvIhIg=="
 ---
 

@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/aws-transcribe-speech-text
 type: course
 price: $$
 length: 1h 29m
-heat: 50
+heat: 130
 
 provider:
   name: Pluralsight

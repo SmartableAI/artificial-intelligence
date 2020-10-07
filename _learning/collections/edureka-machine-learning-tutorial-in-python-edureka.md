@@ -2,7 +2,7 @@
 title: "Machine Learning Tutorial in Python | Edureka"
 excerpt: "This Edureka playlist on 'Machine Learning Tutorial in Python' helps you gain expertise in various types of machine learning algorithms like supervised, unsupervised and reinforcement algorithms. Through this playlist you will be learning the important Machine Learning concepts and its implementation in python programming language."
 type: collection
-heat: 74
+heat: 72
 
 provider:
   name: Edureka
@@ -63,6 +63,30 @@ items:
   - videos/edureka-jupyter-notebook-tutorial-introduction-to-jupyter-notebook-python-training-edureka
   - videos/edureka-how-to-become-a-python-developer-python-tutorial-python-certification-training-edureka
   - videos/edureka-machine-learning-basics-what-is-machine-learning-introduction-to-machine-learning-edureka
+  - videos/edureka-e-ict-academy-nit-warangal-partners-with-edureka-post-graduate-program-in-ai-machine-learning
+  - videos/edureka-what-is-artificial-intelligence-artificial-intelligence-ai-in-10-minutes-edureka
+  - videos/edureka-artificial-intelligence-tutorial-for-beginners-artificial-intelligence-explained-edureka
+  - videos/edureka-q-learning-explained-reinforcement-learning-using-python-q-learning-in-ai-edureka
+  - videos/edureka-data-science-and-machine-learning-for-non-programmers-data-science-for-beginners-edureka
+  - videos/edureka-top-machine-learning-tools-and-frameworks-for-beginners-machine-learning-tutorial-edureka
+  - videos/edureka-best-python-libraries-for-data-science-machine-learning-data-science-python-libraries-edureka
+  - videos/edureka-classification-in-machine-learning-machine-learning-tutorial-python-training-edureka
+  - videos/edureka-hill-climbing-algorithm-hill-climbing-in-artificial-intelligence-data-science-tutorial-edureka
+  - videos/edureka-find-s-algorithm-in-machine-learning-machine-learning-algorithms-edureka
+  - videos/edureka-cross-validation-in-machine-learning-ml-fundamentals-machine-learning-tutorial-edureka
+  - videos/edureka-em-algorithm-in-machine-learning-expectation-maximization-machine-learning-tutorial-edureka
+  - videos/edureka-mathematics-for-machine-learning-full-course-essential-math-for-machine-learning-edureka
+  - videos/edureka-bias-variance-in-machine-learning-bias-variance-trade-off-machine-learning-training-edureka
+  - videos/edureka-python-for-data-science-how-to-use-data-science-with-python-data-science-using-python-edureka
+  - videos/edureka-what-are-gans-generative-adversarial-networks-explained-deep-learning-with-python-edureka
+  - videos/edureka-whats-new-in-pandas-100-python-pandas-new-features-python-training-edureka
+  - videos/edureka-future-of-aiml-rise-of-artificial-intelligence-machine-learning-ai-and-ml-training-edureka
+  - videos/edureka-covid-19-outbreak-prediction-using-machine-learning-machine-learning-training-edureka
+  - videos/edureka-pubg-data-science-tutorial-part-2-pubg-data-analysis-data-science-training-edureka
+  - videos/edureka-pubg-data-science-tutorial-part-1-pubg-data-analysis-data-science-training-edureka
+  - videos/edureka-stock-prediction-using-machine-learning-and-python-machine-learning-training-edureka
+  - videos/edureka-how-to-select-the-correct-predictive-modeling-technique-machine-learning-training-edureka
+  - videos/edureka-top-10-machine-learning-trends-machine-learning-in-2020-machine-learning-training-edureka
 
 topics:
   - AI

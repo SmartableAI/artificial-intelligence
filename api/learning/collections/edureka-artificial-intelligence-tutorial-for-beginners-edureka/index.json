@@ -63,7 +63,7 @@
         ]
       },
       "publishedDateTime": "2019-06-02T01:22:52-07:00",
-      "heat": 167,
+      "heat": 173,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/JMUxmLyrhSk/maxresdefault.jpg",
@@ -263,7 +263,8 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -288,7 +289,7 @@
         ]
       },
       "publishedDateTime": "2019-06-11T22:44:51-07:00",
-      "heat": 57,
+      "heat": 56,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/DhdUlDIAG7Y/maxresdefault.jpg",
@@ -300,7 +301,8 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -325,7 +327,7 @@
         ]
       },
       "publishedDateTime": "2019-05-08T06:41:47-07:00",
-      "heat": 92,
+      "heat": 98,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/oV74Najm6Nc/maxresdefault.jpg",
@@ -363,7 +365,7 @@
         ]
       },
       "publishedDateTime": "2018-03-16T07:31:01-07:00",
-      "heat": 58,
+      "heat": 57,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Pj0neYUp9Tc/maxresdefault.jpg",
@@ -1016,7 +1018,7 @@
         ]
       },
       "publishedDateTime": "2019-12-30T20:37:45-08:00",
-      "heat": 58,
+      "heat": 57,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/_ThdIOA9Lbk/maxresdefault.jpg",
@@ -1028,7 +1030,8 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1201,7 +1204,7 @@
         ]
       },
       "publishedDateTime": "2020-03-17T06:53:12-07:00",
-      "heat": 53,
+      "heat": 54,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/JFB_751d2uc/maxresdefault.jpg",

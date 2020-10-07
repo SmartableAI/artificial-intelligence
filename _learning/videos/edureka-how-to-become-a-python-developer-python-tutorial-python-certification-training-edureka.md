@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT32M32S
 publishedDateTime: 2019-03-28T15:14:45Z
-heat: 54
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/A6UVS9lcJOY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "B4++evUQmbNtNmU6kgtf0Z0aoE2cpcmNM/KCwPBeNSuHkxXcjc2DS2JAoyhd0aZEgo6313v92WJbixExyGfiG/ym2taHudLc0fv2LwJ1Zrpg9SnPRMQoXtafQ4cLDTtsItaoWasDDJrSD8TEcODfEL0HQh1eo88UeTWbBUpKG9uanj++Ih4DLXPVzui0oQ9gLTdC+TvJJniGXz86pJWuSCSBQ3+AHAauOlEfUkL20fJItcxO1f0qeugpg0BtpvtIf4M40YKuwcK6dgvvxbUcW5k8D2p3HPgBUUoZ2WM3JeaGD40zUkD2IpSAgdrEwtViyrwyXoMa84rvWDXoZYSDV2HkGCCTNsz4AxnhXoLog9K8I8bcmduvbX8+qpGVTOz1uNVjGETUNhBdBcQRqdEETA79R/PSM+x/dRc5/Zt8ZEE=;8nwxOrkmPll8IgNg8ND7+w=="
+secured: "rchonays8jicuk1Fbf1pQecIStD88YR+2M6pGpngf9wyTLxO7AoPFYE+QugPSCKTEQUjBSMHpAGbKWSTwvjyIWWVRRyGZochzYQf3HD6wurO1EH1fc+sye7ls0AW1/bCIBMV3+2gPkDrgOPtOOtwNwcH9CJX0DZPFJ6wY6fpMkcqJzJZSovUp63thMrF5QVvnSFI1bRnPqy75PmPR1MA8ruOk9x8gL5GjLu5bx4T4A1AjFBESg2fO19HMSrzS2Mlz+latOWYsbiGH7s2tkvBQA66WZFpD0r21Qkj5XXLiKPYvLWMxIB1dbJy4Ji0rPCKGpU/edotETy3pgux9FyFXXdxJlB0LhrTO6kl5xm3XtxNRkFiqbYdum58qs+ytM/OLM0gGD9vE8H1ucmY72+IqVVf5WPRSWAX3RiusFYqEzw=;geKTHYVzJEVHP/6SBuAlQQ=="
 ---
 

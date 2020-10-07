@@ -4,7 +4,7 @@ excerpt: "Learn how to translate speech and convert it to text through real-time
 webUrl: https://docs.microsoft.com/en-us/learn/modules/convert-speech-to-text/
 type: course
 length: 0:42
-heat: 110
+heat: 50
 
 provider:
   name: Microsoft Learn
