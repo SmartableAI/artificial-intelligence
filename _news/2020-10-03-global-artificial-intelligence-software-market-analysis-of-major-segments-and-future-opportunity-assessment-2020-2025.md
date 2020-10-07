@@ -18,20 +18,17 @@ topics:
   - AI
 
 related:
-  - title: "The present and the future of supply chain is AI"
-    excerpt: "By Saroj Tripathi, Vice President, Bristlecone Inc.   Saroj is a supply chain thought leader with more than two decades of experience in partnering with global organizations in their journey to digital transformation and technology enablement."
-    publishedDateTime: 2020-10-07T04:27:00Z
-    webUrl: "https://techcrunch.com/sponsor/bristlecone/the-present-and-the-future-of-supply-chain-is-ai/"
+  - title: "Global Industrial, Enterprise, Military, and Consumer Automation and Robotics Market 2020-2025"
+    excerpt: "The \"Automation and Robotics Market in Industrial, Enterprise, Military, and Consumer Segments by Type, Components,"
+    publishedDateTime: 2020-10-06T07:49:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/10/g17794816/global-industrial-enterprise-military-and-consumer-automation-and-robotics-market-2020-2025"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17794816"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17794816"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 67
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/10/Headline-and-Native-Ad-Graphic.jpg?w=600"
-        width: 600
-        height: 400
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 42
 
 secured: "597LF0Nf9T8ZSmCSGnLQhgsc6UkKXB6XHpjXKEiqy3j7r7HUIotO/vyEOuJkyaWO1aF3rIwe84r72K4FcM1XcnBiTBgsHiQxY5/saeODiMhyNlc5RXkzW9k+EvHAktByF0s+M+StBSiw/mFuajO2z0cWCcjiIpDfh4/5hF4xqlYenuKa6zdtjmMXDe5Kff5lZkXHYrMHSyzUsUsR2sBQREu5zxx7aEgPxx7DRYomyj7Fdl8sya858rkPni4agc1F8jMzJrIMcmxQsgDtGwvuCHRznOs6Y8KPk4adnXbN668rja9Gf4gStOXtLElWTapbU54tFYV5CpVqFwYl3TDDbV4UlUDRw6XzMxR6bDEFwEs=;+FR12g43dUvDIDsoNMxbdA=="
 ---

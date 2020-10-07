@@ -7,7 +7,7 @@ originalUrl: "https://www.advisor.ca/my-practice/technology/outcome-based-invest
 webUrl: "https://www.advisor.ca/my-practice/technology/outcome-based-investments-and-other-fintech-to-watch/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 800
     height: 600
     isCached: true
-
-related:
-  - title: "F|T: The FinTech Times – Pandemic plutocrats"
-    excerpt: "Welcome to the FinTech Times, a weekly newsletter covering the biggest FinTech news from around the globe. If you want to read F|T before anyone else, make sure to subscribe using the form at the bottom of this page."
-    publishedDateTime: 2020-10-05T10:02:00Z
-    webUrl: "https://betakit.com/ft-the-fintech-times-pandemic-plutocrats/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 24
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2019/05/fintechtimes-1-1-1-1-1024x575.png"
-        width: 1024
-        height: 575
-        isCached: true
 
 secured: "RQ3F8DovMALJs/yrAO6RT/eM6FgtZSBJNBgnD9NXy4sXeQ5KV/ELDApTAUr02FsuLu9816CQeLGykMJu4NLwpfMfx05au2UzHr+BwYDJqbB6rbytKjWasxbno8cmJeAq++Vtd3IaUKmv0VQ8cEQqk852QQy3tV5SokYD9mALl5aSloq8zn69bdmTTrPTg7BGUt07StisWfVTcrBbkPrAQYnGOl0qd/af785TN9hgrBMFL/SzJWdbyHMQ3CexAAG7Krfm9GJK1zbwy74iY46LG59PHdENN5nXWoUHHi56JZhq610LTSyagtA6wleZ6Xz4v4j3X5KMXOA9aLPZGiSWEgewCSegtsAZpIyckKm5W+A=;hrdQC7AfuXWlpTu8YRbOaw=="
 ---

@@ -27,35 +27,75 @@ images:
     isCached: true
 
 related:
-  - title: "Why Investors Should Focus More On The Infrastructure Supporting The AI Revolution"
-    excerpt: "AI has been heralded as the catalyst for a new industrial revolution. While the potential for massive impact is very real, venture investors looking to capitalize on growth ought to spend more time considering the enabling infrastructure."
-    publishedDateTime: 2020-10-04T16:34:00Z
-    webUrl: "https://www.forbes.com/sites/columbiabusinessschool/2020/10/04/why-investors-should-focus-more-on-the-infrastructure-supporting-the-ai-revolution/"
-    ampWebUrl: "https://www.forbes.com/sites/columbiabusinessschool/2020/10/04/why-investors-should-focus-more-on-the-infrastructure-supporting-the-ai-revolution/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/columbiabusinessschool/2020/10/04/why-investors-should-focus-more-on-the-infrastructure-supporting-the-ai-revolution/amp/"
+  - title: "How AI Is Transforming The Future Of Sales"
+    excerpt: "Highly optimized sales processes backed by AI and machine learning technology aren't a wishful future; they are already here."
+    publishedDateTime: 2020-10-07T11:20:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/07/how-ai-is-transforming-the-future-of-sales/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/07/how-ai-is-transforming-the-future-of-sales/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/07/how-ai-is-transforming-the-future-of-sales/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 83
+    quality: 87
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f78d185a61efd5ea2abacc9%2F0x0.jpg%3FcropX1%3D1438%26cropX2%3D6256%26cropY1%3D1321%26cropY2%3D4128"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee8c0a4bcc30e0006c1d9f4%2F0x0.jpg"
         width: 1200
-        height: 699
+        height: 800
         isCached: true
-  - title: "How to become an early investor in AI robot revolutionizing the fast food industry"
-    excerpt: "Investing in an emerging company is not reserved for the stars of Shark Tank. No matter how intimidating it may seem at first glance, the truth is that anyone can"
-    publishedDateTime: 2020-10-03T13:15:00Z
-    webUrl: "https://nypost.com/2020/10/03/how-to-invest-early-in-the-ai-robot-revolutionizing-fast-food/"
-    ampWebUrl: "https://nypost.com/2020/10/03/how-to-invest-early-in-the-ai-robot-revolutionizing-fast-food/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/03/how-to-invest-early-in-the-ai-robot-revolutionizing-fast-food/amp/"
+  - title: "The present and the future of supply chain is AI"
+    excerpt: "By Saroj Tripathi, Vice President, Bristlecone Inc.   Saroj is a supply chain thought leader with more than two decades of experience in partnering with global organizations in their journey to digital transformation and technology enablement."
+    publishedDateTime: 2020-10-07T04:27:00Z
+    webUrl: "https://techcrunch.com/sponsor/bristlecone/the-present-and-the-future-of-supply-chain-is-ai/"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 68
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/Invest.png?w=1200"
+      - url: "https://techcrunch.com/wp-content/uploads/2020/10/Headline-and-Native-Ad-Graphic.jpg?w=600"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Imperial Academics Design a Map to Show the Future of AI in Society"
+    excerpt: "The map designed by Imperial Academics has plotted the roles that AI could play in the future society which connects reality to science fiction."
+    publishedDateTime: 2020-10-06T17:33:00Z
+    webUrl: "https://www.analyticsinsight.net/imperial-academics-design-a-map-to-show-the-future-of-ai-in-society/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Machine-learning-to-automated-daydreaming-academics-map-future-of-AI.jpg"
+        width: 1680
+        height: 840
+        isCached: true
+  - title: "4 Ways Artificial Intelligence Will Transform Food Businesses"
+    excerpt: "For many people, the concept of Artificial Intelligence (AI) is something of fantasy novels and films where powerful machines take over the human race. It’s true, AI embodies limitless power and potential,"
+    publishedDateTime: 2020-10-06T19:34:00Z
+    webUrl: "https://www.foodnavigator-usa.com/Product-innovations/4-Ways-Artificial-Intelligence-Will-Transform-Food-Businesses"
+    type: article
+    provider:
+      name: Food
+      domain: foodnavigator-usa.com
+    quality: 37
+    images:
+      - url: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator-usa.com/resources/health-and-nutritional-ingredients/4-ways-artificial-intelligence-will-transform-food-businesses/11828659-1-eng-GB/4-Ways-Artificial-Intelligence-Will-Transform-Food-Businesses.png"
+        width: 750
+        height: 422
+        isCached: true
+  - title: "The future for AI and enterprise looks bright"
+    excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
+    publishedDateTime: 2020-10-07T04:32:00Z
+    webUrl: "https://www.cio.com/article/3584831/the-future-for-ai-and-enterprise-looks-bright.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 37
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/05/ai-vendor-relationship-management_artificial-intelligence_hand-on-virtual-screen-100795246-large.jpg"
         width: 1200
         height: 800
         isCached: true

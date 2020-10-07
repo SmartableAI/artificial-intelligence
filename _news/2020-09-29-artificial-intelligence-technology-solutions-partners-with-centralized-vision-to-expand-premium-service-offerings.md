@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Artificial Intelligence Technology Solutions Partners With Centralized Vision to Expand Premium Service Offerings"
-excerpt: "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), is pleased to announce that its wholly-owned subsidiary Robotic Assistance"
-publishedDateTime: 2020-09-29T14:59:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-partners-with-centralized-vision-to-expand-premium-service-offerings-1029631126"
-webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-partners-with-centralized-vision-to-expand-premium-service-offerings-1029631126"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/artificial-intelligence-technology-solutions-partners-with-centralized-vision-to-expand-premium-service-offerings-1029631126"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-technology-solutions-partners-with-centralized-vision-to-expand-premium-service-offerings-1029631126"
+excerpt: "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), is pleased to announce that its wholly-owned subsidiary Robotic Assistance Devices (RAD) is now offering its customers an expanded suite of managed remote services through a partnership formed with third-party monitoring pioneer Centralized Vision."
+publishedDateTime: 2020-09-29T13:00:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20200929005358/artificial-intelligence-technology-solutions-partners-with-centralized-vision-to-expand-premium-service-offerings"
+webUrl: "https://www.morningstar.com/news/business-wire/20200929005358/artificial-intelligence-technology-solutions-partners-with-centralized-vision-to-expand-premium-service-offerings"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "sF4eZEYVyGRsI/RuJ8btOFaV1In14PN+30DST8eupDvRpHdAyN9VQGZx2QQy0R8H3b3NtPHZja46zcP9neYLMaqm+qg7rRnCBL4dIslnQgEnjvUjj97dQ6TdHgJaSrmXgpgh2cPcIg4pfGUvGI09egnWJxtli0pLW/6PN6k06AQRVhRCrq0qQcE5KxftNX2ppcpHbRQP/1LKzd7mhqneuoM++r8ocxuG+BS/4qK43gNy2Q3FLwoKITNXR0/MxPKnxOG+Ts+9iQmbm6RvkXgeBAY83sxRv/PLnmKmCLVK8lVfQAKHEKCcsQmD8VxkGwCG0GT6VkiBegnSLOM2fomRDipnxlp4fIm5P4hFUPVXupI=;+jnwXIRhFf6gricn8GAA/A=="
+secured: "mCDl7oTKv9NaGjjgegExbxsyJnBZQj8KIsE5bCyy2pRcoXtC2XtzJcMsxkRKbw1gFEV+iFci7LboYguuIuWVNl8TctbLGHCIWPPwe6nP2oEZdQMPLeYwRt8I3wlrnTS0nwGvxZKoQgNfiTQFrzwQoJ/AQYPALYncSChMMMxEgqTU1k6gB8TshdhnL3XHeJG/mbFXgLuWWyqgjBvcvARA3QeMn7f/Wx54syyanwI5Wme6iau1GYxfNfvGOdN2p23bSFpcABLbAgyMo4LItvXiKZVOWoWIZveS2arCeb2U340Ow2zKlnVlM7VSt4f4kuxSDEYZNG3Rj/ZBDLFLzqYzEcncTkCW1mnENXCq+4oWS48=;YtbQJ7xrFv3LQXA68cmT/w=="
 ---
 

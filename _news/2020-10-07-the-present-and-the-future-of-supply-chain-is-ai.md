@@ -7,8 +7,8 @@ originalUrl: "https://techcrunch.com/sponsor/bristlecone/the-present-and-the-fut
 webUrl: "https://techcrunch.com/sponsor/bristlecone/the-present-and-the-future-of-supply-chain-is-ai/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -28,15 +28,80 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence Software Market Analysis of Major Segments and Future Opportunity Assessment 2020-2025"
-    excerpt: "The contemporary development prediction report titled Global Artificial Intelligence Software Market 2020 by Company, Regions, Type and Application, Forecast to 2025 provides an all-inclusive research study that covers current facts and statistics about the production and application in the Artificial Intelligence Software market."
-    publishedDateTime: 2020-10-03T00:26:00Z
-    webUrl: "https://ipsnews.net/business/2020/09/30/global-artificial-intelligence-software-market-analysis-of-major-segments-and-future-opportunity-assessment-2020-2025/"
+  - title: "How AI Is Transforming The Future Of Sales"
+    excerpt: "Highly optimized sales processes backed by AI and machine learning technology aren't a wishful future; they are already here."
+    publishedDateTime: 2020-10-07T11:20:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/07/how-ai-is-transforming-the-future-of-sales/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/07/how-ai-is-transforming-the-future-of-sales/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/07/how-ai-is-transforming-the-future-of-sales/amp/"
     type: article
     provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 0
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee8c0a4bcc30e0006c1d9f4%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Voice AI Redefines The Future Of Patient Interactions"
+    excerpt: "In the past decade, the fundamental structure of healthcare management has changed radically. The industry has become more consumer-driven with a focus on providing personalized patient care. On the other hand,"
+    publishedDateTime: 2020-10-03T11:14:00Z
+    webUrl: "https://inc42.com/buzz/voice-ai-redefines-the-future-of-patient-interactions/"
+    ampWebUrl: "https://inc42.com/buzz/voice-ai-redefines-the-future-of-patient-interactions/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/voice-ai-redefines-the-future-of-patient-interactions/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 59
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2020/10/Untitled-design-2020-10-03T142535.041.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Imperial Academics Design a Map to Show the Future of AI in Society"
+    excerpt: "The map designed by Imperial Academics has plotted the roles that AI could play in the future society which connects reality to science fiction."
+    publishedDateTime: 2020-10-06T17:33:00Z
+    webUrl: "https://www.analyticsinsight.net/imperial-academics-design-a-map-to-show-the-future-of-ai-in-society/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Machine-learning-to-automated-daydreaming-academics-map-future-of-AI.jpg"
+        width: 1680
+        height: 840
+        isCached: true
+  - title: "4 Ways Artificial Intelligence Will Transform Food Businesses"
+    excerpt: "For many people, the concept of Artificial Intelligence (AI) is something of fantasy novels and films where powerful machines take over the human race. It’s true, AI embodies limitless power and potential,"
+    publishedDateTime: 2020-10-06T19:34:00Z
+    webUrl: "https://www.foodnavigator-usa.com/Product-innovations/4-Ways-Artificial-Intelligence-Will-Transform-Food-Businesses"
+    type: article
+    provider:
+      name: Food
+      domain: foodnavigator-usa.com
+    quality: 37
+    images:
+      - url: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator-usa.com/resources/health-and-nutritional-ingredients/4-ways-artificial-intelligence-will-transform-food-businesses/11828659-1-eng-GB/4-Ways-Artificial-Intelligence-Will-Transform-Food-Businesses.png"
+        width: 750
+        height: 422
+        isCached: true
+  - title: "The future for AI and enterprise looks bright"
+    excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
+    publishedDateTime: 2020-10-07T04:32:00Z
+    webUrl: "https://www.cio.com/article/3584831/the-future-for-ai-and-enterprise-looks-bright.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 37
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/05/ai-vendor-relationship-management_artificial-intelligence_hand-on-virtual-screen-100795246-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "O//x5Wnd0OfPgX7H1STOkTO9c+hMZHL5pdWNVYdNyCZ1LzaphwJyPZltslKeYlhp/1Pu9YSnFQU1JHGgGoZX2Sn9YgpksBqSIf0iWa8DX4eed+8U2rBJvAMxF+OAkxpADU4SZ6P76zP7HNMEUJyBK+8OF8Sq5WneqieOqROzxna1fQMhjXrLO08U0KQQhHL9DEJ9DLByPaEWdx4d+8BV5hg95mQS30gAtoAWt4Jaud3qfZrDhvNRT7cCe8/TwS57dDTj2D857BTTisSq9gr5Ra+QQAAo0cxHCzNws6l7p3dZgEjB80cR6BnLrABRYei2CPrRDaTo6Dx4Dupq4dyOsOjIyIf51TICKCvBjd0B+DMo5HEOOUK1VPwCe+6N+j/8W/6GvdKDb5aiatMUdvp9A686Mi9SWasuyE26JOHt058LuvIYGLpQ0weDVBqAe6CnJja2uVJUgQybUIURyoV/fM4FqzftWsKwy9PeqzqFR5COz+T02fyVFh8wbavpYpHH9BUtJPW/vncAFZy+HXyQJg==;VXqlpFpMnQ2OK1lv7KtO4g=="
 ---

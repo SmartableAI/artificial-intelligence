@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/columbiabusinessschool/2020/10/04/why-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/columbiabusinessschool/2020/10/04/why-investors-should-focus-more-on-the-infrastructure-supporting-the-ai-revolution/amp/"
 type: article
 quality: 83
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/Invest.png?w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Voice AI Redefines The Future Of Patient Interactions"
-    excerpt: "In the past decade, the fundamental structure of healthcare management has changed radically. The industry has become more consumer-driven with a focus on providing personalized patient care. On the other hand,"
-    publishedDateTime: 2020-10-03T11:14:00Z
-    webUrl: "https://inc42.com/buzz/voice-ai-redefines-the-future-of-patient-interactions/"
-    ampWebUrl: "https://inc42.com/buzz/voice-ai-redefines-the-future-of-patient-interactions/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/voice-ai-redefines-the-future-of-patient-interactions/amp/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 59
-    images:
-      - url: "https://inc42.com/wp-content/uploads/2020/10/Untitled-design-2020-10-03T142535.041.jpg"
-        width: 1200
-        height: 628
         isCached: true
 
 secured: "21GQg3UZro5LvxQN2ng3KfBnSpaVR7/dOnKqHhthaTlPDl2A5FRuZepNb3a3TMPfoUdxqeDTTS/SsXo94ZJHBj9mWav9rp/jUpjrUTBwmSuC1yvBQQfgDKilRtliyfZJODyc+UfX6liFuFwDKNbOLUNN5onrVn/yGaZ6lOCIU8rZ9rA2UXC4yxT6aq6FjMQnjNa6MUbDgBgGFxY3bOH4j5a8oSELB1RNoFJmPdsHZWMz4OEMayEkTppCEoF3i7B1BCxxH1b9BLrAfUjs00GKFvcKETnOQz7A1B2/AS60Tk4ESzkx1pBe62nL8zvro3jRg7uy2tN794TCCGojCaqgOREyJyOSTM0sYyBB2J9xy2LDLZ+wYT9NM7Oet9Q/HqgoU9/YZQkdH6aEbXCWuTpvl64clZFUon6X35OJGou1SqtcmERwXSuez+er7LjPzh8wPyH9LJfHL8wWWoCiLFWCL4mN0h8FMtXVCdEuI1c0hl6NZ5/yNr6SEaZxWsGwhW5diTkhcA8pOVPlST/wqBv30g==;+dxqQObflVC9MT7D6geJvQ=="

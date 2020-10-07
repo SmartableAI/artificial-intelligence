@@ -3,8 +3,8 @@ category: news
 title: "bjarke ingels group plans AI CITY in china to advance future of artificial intelligence"
 excerpt: "BIG AI CITY seeks to provide terminus, and the world’s leading tech companies, with a place to advance the future of artificial intelligence and robotics, and build the foundations of a new sustainable development."
 publishedDateTime: 2020-09-29T16:55:00Z
-originalUrl: "https://www.designboom.com/architecture/bjarke-ingels-group-ai-city-china-artificial-intelligence-terminus-group-09-29-2020/?fbclid=IwAR2-9FqvXxBpPJhkVy6N3IZKa4uxGk4pb_zSe-19cABYa1UDxRzTazehYs0"
-webUrl: "https://www.designboom.com/architecture/bjarke-ingels-group-ai-city-china-artificial-intelligence-terminus-group-09-29-2020/?fbclid=IwAR2-9FqvXxBpPJhkVy6N3IZKa4uxGk4pb_zSe-19cABYa1UDxRzTazehYs0"
+originalUrl: "https://www.designboom.com/architecture/bjarke-ingels-group-ai-city-china-artificial-intelligence-terminus-group-09-29-2020/"
+webUrl: "https://www.designboom.com/architecture/bjarke-ingels-group-ai-city-china-artificial-intelligence-terminus-group-09-29-2020/"
 type: article
 
 provider:
@@ -12,7 +12,7 @@ provider:
   domain: designboom.com
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
 
 images:
@@ -21,6 +21,6 @@ images:
     height: 526
     isCached: true
 
-secured: "vKQ5x2g3wxJp6z98xdtP1flOl4alQos9G+n4mikxJGS2QRUomNRn296UbpqQ360WFf5s7rJZ+J3cBRUUy8ofciSh+MbYlQSF/8e//JBB/UrNe5g2BbDkTVjPdeB/prWvnNnXNYxx8qeuz139p+MwvMJOtDf38pF/RtNf5PMywt4vaPR93R04PNL1qiS5SZQs88YjiCisOIgZic2ziQMqIRYtA260o+fz2AJhzTCXoo7THAfW5QunRxejmQAIUTHvpE7ZKVEfMB1Bk5josRdVRCrHsoihd7l5KYWzYeiUCZu7Y/yF5aPkMTl/rwr5j8/toHT/RHQ565mCHkHjcUj2leILuWqXxHkVn3X72TJrT9E=;1x/3hxqRJ9ymO6GOZJd67g=="
+secured: "1KiecLedL1fWUFY87Z90aRogUZwnQhwm2+DlXQiRmWMDM3CbnmHQQBB1R6COvgFGjzz/pcBikOVpRxGhGs+LvNvwmHr+6tSct0Q2DP4Zyv9kS1tfQeoQb/sC97z7+DGKbXzOOqdK290hvm22szwUh2A0ENqrZ+NYC6mqEzSLc4bgBns7I4QwkMeURPUVxsRkOWggMtb2arKEBU//o2rx0AbqR9COgj+G6cSMl+qXCLzMvLf2KYKrtEmWfsnSuD74irol8jeL9T3irFEHDi1r4fTp70DFJRUF+1M1vsNGNW3Gii+p1vvNruSJmc8YY++P3kKVsF+/gpfuCpaWEos45rnxDfhbhBVOcp6jzMYHMMg=;8SOIKKlj9fTLtPEVChFZcg=="
 ---
 

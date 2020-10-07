@@ -24,93 +24,79 @@ images:
     isCached: true
 
 related:
-  - title: "Bolstering Robotics Enterprise Potential using AI Applications"
-    excerpt: "Robots perform tasks like recognizing and grasping objects, automating its navigation and understanding human language with the unveiling of Artificial Intelligence (AI) applications in its system."
-    publishedDateTime: 2020-10-03T11:36:00Z
-    webUrl: "https://www.analyticsinsight.net/bolstering-robotics-enterprise-potential-using-ai-applications/"
+  - title: "How AI Is Transforming The Future Of Sales"
+    excerpt: "Highly optimized sales processes backed by AI and machine learning technology aren't a wishful future; they are already here."
+    publishedDateTime: 2020-10-07T11:20:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/07/how-ai-is-transforming-the-future-of-sales/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/07/how-ai-is-transforming-the-future-of-sales/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/07/how-ai-is-transforming-the-future-of-sales/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee8c0a4bcc30e0006c1d9f4%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "The present and the future of supply chain is AI"
+    excerpt: "By Saroj Tripathi, Vice President, Bristlecone Inc.   Saroj is a supply chain thought leader with more than two decades of experience in partnering with global organizations in their journey to digital transformation and technology enablement."
+    publishedDateTime: 2020-10-07T04:27:00Z
+    webUrl: "https://techcrunch.com/sponsor/bristlecone/the-present-and-the-future-of-supply-chain-is-ai/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/10/Headline-and-Native-Ad-Graphic.jpg?w=600"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Voice AI Redefines The Future Of Patient Interactions"
+    excerpt: "In the past decade, the fundamental structure of healthcare management has changed radically. The industry has become more consumer-driven with a focus on providing personalized patient care. On the other hand,"
+    publishedDateTime: 2020-10-03T11:14:00Z
+    webUrl: "https://inc42.com/buzz/voice-ai-redefines-the-future-of-patient-interactions/"
+    ampWebUrl: "https://inc42.com/buzz/voice-ai-redefines-the-future-of-patient-interactions/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/voice-ai-redefines-the-future-of-patient-interactions/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 59
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2020/10/Untitled-design-2020-10-03T142535.041.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Imperial Academics Design a Map to Show the Future of AI in Society"
+    excerpt: "The map designed by Imperial Academics has plotted the roles that AI could play in the future society which connects reality to science fiction."
+    publishedDateTime: 2020-10-06T17:33:00Z
+    webUrl: "https://www.analyticsinsight.net/imperial-academics-design-a-map-to-show-the-future-of-ai-in-society/"
     type: article
     provider:
       name: Analytics Insight
       domain: analyticsinsight.net
-    quality: 69
+    quality: 39
     images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Robotics.jpeg"
-        width: 2560
-        height: 1539
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Machine-learning-to-automated-daydreaming-academics-map-future-of-AI.jpg"
+        width: 1680
+        height: 840
         isCached: true
-  - title: "New artificial intelligence models show potential for predicting outcomes"
-    excerpt: "New applications of artificial intelligence (AI) in health care settings have shown early success in improving survival and outcomes in traffic accident victims transported by ambulance and in predicting survival after liver transplantation,"
-    publishedDateTime: 2020-10-04T11:35:00Z
-    webUrl: "https://medicalxpress.com/news/2020-10-artificial-intelligence-potential-outcomes.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-10-artificial-intelligence-potential-outcomes.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-artificial-intelligence-potential-outcomes.amp"
+  - title: "4 Ways Artificial Intelligence Will Transform Food Businesses"
+    excerpt: "For many people, the concept of Artificial Intelligence (AI) is something of fantasy novels and films where powerful machines take over the human race. It’s true, AI embodies limitless power and potential,"
+    publishedDateTime: 2020-10-06T19:34:00Z
+    webUrl: "https://www.foodnavigator-usa.com/Product-innovations/4-Ways-Artificial-Intelligence-Will-Transform-Food-Businesses"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 58
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/3-newartificia.jpg"
-        width: 2880
-        height: 1511
-        isCached: true
-  - title: "Applying artificial intelligence to science education"
-    excerpt: "A new review published in the Journal of Research in Science Teaching highlights the potential of machine learning—a subset of artificial intelligence—in science education. Although the ..."
-    publishedDateTime: 2020-10-07T07:24:00Z
-    webUrl: "https://phys.org/news/2020-10-artificial-intelligence-science.html"
-    ampWebUrl: "https://phys.org/news/2020-10-artificial-intelligence-science.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-artificial-intelligence-science.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/science.jpg"
-        width: 1920
-        height: 1264
-        isCached: true
-  - title: "New artificial intelligence models show potential for predicting outcomes"
-    excerpt: "New applications of artificial intelligence (AI) in health care settings have shown early success in improving survival and outcomes in traffic accident victims transported by ambulance and in predicting survival after liver transplantation."
-    publishedDateTime: 2020-10-03T14:05:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-10/acos-nai100120.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 38
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/244737_web.jpg"
-        width: 1440
-        height: 756
-        isCached: true
-  - title: "AI IN BANKING: How forward-looking banks are using maturing AI solutions to design both customer- and employee-facing innovations"
-    excerpt: "This report identifies AI use cases transforming the way FIs operate, the business impact of those use cases, and real-world examples of each."
-    publishedDateTime: 2020-10-06T18:48:00Z
-    webUrl: "https://www.businessinsider.com/ai-in-banking-report-2020"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
-    images:
-      - url: "https://i.insider.com/5e616b4dfee23d6e9e10f232?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "New intelligent revolution series explores cutting-edge applications in AI"
-    excerpt: "The Next Wave in Life Sciences', the first eBook from The Intelligent Revolution series. In the new eBook, experts from the company and the life science industry explore cutting-edge applications for AI in areas including flu prevention,"
-    publishedDateTime: 2020-10-05T10:46:00Z
-    webUrl: "https://www.electropages.com/2020/10/new-intelligent-revolution-series-explores-cutting-edge-applications-ai"
-    type: article
-    provider:
-      name: Electropages
-      domain: electropages.com
+      name: Food
+      domain: foodnavigator-usa.com
     quality: 37
     images:
-      - url: "https://www.electropages.com/storage/app/media//company-logos/company-logo-Mouser@2x.jpg"
-        width: 600
-        height: 600
+      - url: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator-usa.com/resources/health-and-nutritional-ingredients/4-ways-artificial-intelligence-will-transform-food-businesses/11828659-1-eng-GB/4-Ways-Artificial-Intelligence-Will-Transform-Food-Businesses.png"
+        width: 750
+        height: 422
         isCached: true
 
 secured: "4Ht26vITY5nZkprbDhVLQExY66U8F7F2OjU25HnnjXX/N9zP8A+aWS04mYupHJnz3CvdQSmyKorae/SJDPJJwncdaemPpIOlqYgGukj0i8lOZ8go6p7dO78f71i2gJaset9a8oY3RxON9GwTsi1HqodNUqDQYa2EYyKD128kiggpwpqAYZ5ydF20HxYG6ebolwKjAr6LPJNtLBR/GowdJstra/CAfIlr2JudyogEh+32gWXRUCFfuElSEUvrkLbSWcIJW8Zr7L6m7Nzf38Gvc9L2BqBefh3YlKbx6h8fnrasvtmGCGjhemRlGd2gvY7NKOfL+hR8fWT6OHUHhhPhztbTEYdK6BKuwBLK59+o0z2qKsbZYUEQ9choGIEP30KXWPDqCJTJRW4UDYJcWnz1HF0Cd1OUZ0/hBNcFJsFHkOxXWyfKxMZDteKdrTaRYvwkppfLmmmQr6Iznt2zPkHKpk1JhD6nc/WZqv1OzKMop5r/y86SD3nxdOfpvFSiso0GnzxOWG1wmaIuJY3v2skSFw==;58QaszBv1MqmvWKsGbVpXQ=="

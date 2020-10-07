@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tweaktown.com/news/75521/ea-ceo-teases-new-machine-learn
 cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/75521/ea-ceo-teases-new-machine-learning-and-ai-features-for-next-gen-games/amp.html"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

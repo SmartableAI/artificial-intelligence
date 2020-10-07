@@ -99,20 +99,6 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "The future for AI and enterprise looks bright"
-    excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
-    publishedDateTime: 2020-10-07T04:32:00Z
-    webUrl: "https://www.cio.com/article/3584831/the-future-for-ai-and-enterprise-looks-bright.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 37
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/05/ai-vendor-relationship-management_artificial-intelligence_hand-on-virtual-screen-100795246-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "LSZJT7fbIq6cXRpQW8Eew6zSTXbVBWEDcm+MJgaXI88TtjocfeSSy935UF2mRWX1mwrVzQPmUY/WvLuNIvnl56kOApvXZaCF8FA5ds7wzJT3V8WLgLQFpJJ0vUXVBSyg+ldzmOSABLzw1dtdpog0hi7qLZoBKFWeyV6hYWwXTaZw3h7Lpdgk/4shRUZeRYIORla62suklW6AJs7biYSiBF1drcx4BxECwAJKG1Dl9rBEDoDGEvgmLqd4O85D5UKI4J5raV+/9Hg1RL709tCmGwoEbIisBLjzphNerTHYVNLuo6vkXGmNjRHE/eOQ2EQx/UNysDNtHZMXA9B1ROsrw7sO9bGDcBfn/ExDJtPIbDrz7PRrrB9KY83nSTsF19OWQ/RCjnF2sfKHiHowCp3G70UAHtJCtm0Bxi+7H5uyYSpSXJ+I0PMa7C2xgMvT9eLYUKKwVpeIpnw82mNy6k+uidtqEj6WesBwNCpmQSbTSnx06hPhYOGv+RwyBBhV1YLK9ohkfkVAbwVt5CqFm19XHw==;Bat/ol5r1ydS2/w3mcij/w=="
 ---

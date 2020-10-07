@@ -1,27 +1,22 @@
 ---
 category: news
 title: "IBM Brings Artificial Intelligence At Scale To The Marketing And Media Industry"
-excerpt: "PRNewswire/ -- IBM (NYSE: IBM) today announced three new products to add to its growing suite of AI solutions for brand and publishers. The new"
-publishedDateTime: 2020-10-05T12:25:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-301145605.html"
-webUrl: "https://www.prnewswire.com/news-releases/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-301145605.html"
+excerpt: "IBM today announced three new products to add to its growing suite of AI solutions for brand and publishers. IBM intends to work with industry leaders, including Xandr/AT&T, Magnite, Nielsen, MediaMath,"
+publishedDateTime: 2020-10-05T13:25:00Z
+originalUrl: "https://www.nasdaq.com/press-release/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-2020"
+webUrl: "https://www.nasdaq.com/press-release/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-2020"
 type: article
-quality: 33
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
+  - AI in Healthcare
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-    width: 2698
-    height: 1414
-    isCached: true
 
 related:
   - title: "IBM joins NIH effort to diagnose schizophrenia using AI"
@@ -52,6 +47,6 @@ related:
       domain: pulse2.com
     quality: 39
 
-secured: "5LDQqJ4jO25B2o+rMtdkAzZJs6pr0vCJp9eagnUeKH/Jf4GEr0imDUslTBlVogP/CQkhEMN3XmesavT42nHyX57KlMDggmf7x4jKLGHzKKPfPcmsK88nLkgxfa6tr3D7Z74gOGaZ0EpZ2+619VuC3HnXnb5M3MTHvMBYXZxt/oY1EklCgHHUf/sp04rEFOUiRdFgpo+5KLk+QEdXPl6FAObSPFDgNQX3mW9rITwmY8HpyRF7Ll9PaDGjN3pTIrrYp2HWkcBvtwucuaNmEHCH5NUyXbnpV3WsF6ePJGtYJH+x93Hnm95TL5o9/UiE061Mu1wlEjPxL91kN3SiOy6HrgEJtTqBtVqwU/7/sOH7DdA=;heGM3nYV4vZOU//Y5Ig9pg=="
+secured: "+1zydtZHV88XtywPIbz40bVejDgKU+LMNrFxKuYzRKHpbm+p6r0M2Ib8jiUc1tZhpXntXwgLa9iYVmdHsr7z1fHnAZ7HO8r6gdOitPRn77dVF8aGNAVyF6/ERX484jqx3u4Dw5+5ds5dwrcmdIlAnFW6C0odLoJ7x9Ul+cLvBfgLynC4P6bfkQxsO+l0XokcKOX5D2PzyodLTrDz4TMtZ11LPHpCklpE4wApcxU6RRGK4kI0g/uMBAvfJXnfwRjV+FEOR5cLMMOh3W2Sskv2Nr/4Vzcr08hK94qUn49qSdA74JBX09nLMcwOYC6MrZ0fzRfUZ9MwcelmvPjEWmM+L9I6oe6/QscIF+dxK17Lv4c=;hVpre9KO/I0KbgpCECpPPg=="
 ---
 

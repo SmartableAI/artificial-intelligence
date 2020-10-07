@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.fool.com/investing/2020/10/07/these-are-the-3-biggest-bargains-in-biotech/</loc>
+    <lastmod>2020-10-07T04:29:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/forbestechcouncil/2020/10/07/how-ai-is-transforming-the-future-of-sales/</loc>
+    <lastmod>2020-10-07T04:20:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.vice.com/en/article/889zj3/facial-recognition-at-the-border-is-fueling-other-forms-of-surveillance-report-says</loc>
+    <lastmod>2020-10-07T03:41:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://calvinayre.com/2020/10/07/ventures/dexterous-robots-are-coming-to-the-us-air-force/</loc>
     <lastmod>2020-10-07T02:38:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -27,12 +45,6 @@
   <url>
     <loc>https://www.forbes.com/sites/tracybrower/2020/10/07/study-shows-people-prefer-robot-over-their-boss-6-ways-to-be-a-leader-people-prefer/</loc>
     <lastmod>2020-10-06T23:02:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://techcrunch.com/sponsor/bristlecone/the-present-and-the-future-of-supply-chain-is-ai/</loc>
-    <lastmod>2020-10-06T21:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -247,12 +259,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.geekwire.com/2020/madrona-leads-3-9m-seed-round-cybersecurity-compliance-startup-strike-graph/</loc>
-    <lastmod>2020-10-05T07:19:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.slashgear.com/nvidia-jetson-nano-2gb-is-59-gateway-into-ai-and-robotics-05641043/</loc>
     <lastmod>2020-10-05T06:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -411,6 +417,12 @@
   <url>
     <loc>https://www.digitaltrends.com/features/court-decides-robots-machines-cant-be-inventors/</loc>
     <lastmod>2020-10-02T09:21:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.infoq.com/articles/covid-social-media-machine-learning/?topicPageSponsorship=9ee9cabb-978d-4b65-9c62-dba6f9b389b3&amp;itm_source=articles_about_architecture-design&amp;itm_medium=link&amp;itm_campaign=architecture-design</loc>
+    <lastmod>2020-10-02T08:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -607,7 +619,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.finanzen.net/nachricht/aktien/mcloud-brings-natural-language-processing-to-connected-workers-through-partnership-with-aiqudo-9351204</loc>
+    <loc>https://www.newswire.ca/news-releases/mcloud-brings-natural-language-processing-to-connected-workers-through-partnership-with-aiqudo-894258930.html</loc>
     <lastmod>2020-10-01T04:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -721,6 +733,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://asia.nikkei.com/Business/China-tech/Baidu-fundraising-puts-3bn-value-on-smart-device-business</loc>
+    <lastmod>2020-09-30T13:50:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.wired.com/story/robots-use-ai-learn-clean-your-house/</loc>
     <lastmod>2020-09-30T13:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -793,8 +811,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_health/andor-health-collaborates-with-mentor-to-deliver-next-generation-ai-powered-virtual-experiences-with-microsoft/article_87104374-4495-5f9b-9707-4d6892880d0d.html</loc>
-    <lastmod>2020-09-30T06:52:00-07:00</lastmod>
+    <loc>https://apnews.com/press-release/pr-newswire/technology-medical-technology-health-artificial-intelligence-computing-and-information-technology-7ebeb192b3437584eac7a740d6619523</loc>
+    <lastmod>2020-09-30T06:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -967,7 +985,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.designboom.com/architecture/bjarke-ingels-group-ai-city-china-artificial-intelligence-terminus-group-09-29-2020/?fbclid=IwAR2-9FqvXxBpPJhkVy6N3IZKa4uxGk4pb_zSe-19cABYa1UDxRzTazehYs0</loc>
+    <loc>https://www.designboom.com/architecture/bjarke-ingels-group-ai-city-china-artificial-intelligence-terminus-group-09-29-2020/</loc>
     <lastmod>2020-09-29T09:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -993,12 +1011,6 @@
   <url>
     <loc>https://healthitanalytics.com/news/expanding-access-to-mental-healthcare-with-artificial-intelligence</loc>
     <lastmod>2020-09-29T08:03:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-partners-with-centralized-vision-to-expand-premium-service-offerings-1029631126</loc>
-    <lastmod>2020-09-29T07:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1071,6 +1083,12 @@
   <url>
     <loc>https://www.scmp.com/news/china/science/article/3103543/artificial-intelligence-expert-zhu-songchun-return-china-us</loc>
     <lastmod>2020-09-29T06:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.morningstar.com/news/business-wire/20200929005358/artificial-intelligence-technology-solutions-partners-with-centralized-vision-to-expand-premium-service-offerings</loc>
+    <lastmod>2020-09-29T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1801,14 +1819,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/tomorrow-socratesai-to-host-webinar-giving-your-company-a-single-voice-2020-09-21</loc>
-    <lastmod>2020-09-24T01:02:00-07:00</lastmod>
+    <loc>https://www.commsmea.com/business/opinion/22450-four-steps-to-accelerate-your-machine-learning-journey</loc>
+    <lastmod>2020-09-24T01:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.itp.net/news/93915-four-steps-to-accelerate-your-machine-learning-journey</loc>
-    <lastmod>2020-09-24T00:44:00-07:00</lastmod>
+    <loc>https://www.marketwatch.com/press-release/tomorrow-socratesai-to-host-webinar-giving-your-company-a-single-voice-2020-09-21</loc>
+    <lastmod>2020-09-24T01:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1983,6 +2001,12 @@
   <url>
     <loc>https://www.aaai.org/Awards/squirrel-ai-award-call.php</loc>
     <lastmod>2020-09-23T05:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businesswire.com/news/home/20200923005265/en/</loc>
+    <lastmod>2020-09-23T04:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2389,8 +2413,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.businesswire.com/news/home/20200921005134/en/</loc>
-    <lastmod>2020-09-21T06:17:00-07:00</lastmod>
+    <loc>https://www.businesswire.com/news/home/20200921005134/en/Experian-and-BioCatch-Provide-a-Global-Financial-Services-Provider-With-a-73-Lift-in-Fraud-Detection</loc>
+    <lastmod>2020-09-21T06:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

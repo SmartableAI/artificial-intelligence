@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/zennonkapron/2020/10/06/fintech-in-asia-is-about-to-look-a-lot-more-chinese-but-its-not-who-you-think/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -446,6 +446,40 @@
       ]
     },
     {
+      "path": "_news/2020-09-24-four-steps-to-accelerate-your-machine-learning-journey.md",
+      "title": "Four steps to accelerate your machine learning journey",
+      "excerpt": "Swami Sivasubramanian, vice president, Amazon Machine Learning, AWS, looks at strategies for fast tracking the machine learning journey for enterprises across the world",
+      "sourceUrl": null,
+      "webUrl": "https://www.commsmea.com/business/opinion/22450-four-steps-to-accelerate-your-machine-learning-journey",
+      "originalUrl": "https://www.commsmea.com/business/opinion/22450-four-steps-to-accelerate-your-machine-learning-journey",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-24T01:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CommsMEA",
+        "domain": "commsmea.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-mastercards-vp-of-ai-talks-bots-nlp-and-why-fintechs-need-ai-for-customer-service-vb-live.md",
       "title": "Mastercard’s VP of AI talks bots, NLP, and why fintechs need AI for customer service (VB Live)",
       "excerpt": "Join this VB Live event for insights on why AI is essential for fintech companies, plus how to implement it, how to make it perfom, and more. Register here for free. AI has been around for a long ...",
@@ -660,10 +694,10 @@
     {
       "path": "_news/2020-09-21-experian-and-biocatch-provide-a-global-financial-services-provider-with-a-73-lift-in-fraud-detection.md",
       "title": "Experian and BioCatch Provide a Global Financial Services Provider With a 73% Lift in Fraud Detection",
-      "excerpt": "Experian joined forces with behavioral biometrics provider and CrossCore® partner BioCatch to deliver a layered fraud detection approach.",
+      "excerpt": "In this challenging environment, a global financial services provider sought ... Combining consumer behavior insights, device attributes and machine learning provided optimal results, with a ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200921005134/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20200921005134/en/",
+      "webUrl": "https://www.businesswire.com/news/home/20200921005134/en/Experian-and-BioCatch-Provide-a-Global-Financial-Services-Provider-With-a-73-Lift-in-Fraud-Detection",
+      "originalUrl": "https://www.businesswire.com/news/home/20200921005134/en/Experian-and-BioCatch-Provide-a-Global-Financial-Services-Provider-With-a-73-Lift-in-Fraud-Detection",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -681,7 +715,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-21T06:17:00-07:00",
+      "publishedDateTime": "2020-09-21T06:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",
@@ -1338,57 +1372,6 @@
         "name": "PR Newswire",
         "domain": "prnewswire.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-covid-fallout-accelerating-financial-sector-tech-race.md",
-      "title": "COVID fallout accelerating financial sector tech race",
-      "excerpt": "The pandemic is accelerating the technology race in the financial sector as companies adapt to new operating parameters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/professional/blog/covid-fallout-accelerating-financial-sector-tech-race/",
-      "originalUrl": "https://www.bloomberg.com/professional/blog/covid-fallout-accelerating-financial-sector-tech-race/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://data.bloomberglp.com/professional/sites/10/327937308-e1599205209846.jpg",
-          "width": 1600,
-          "height": 1067,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-04T01:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/10/05/3-top-artificial-intel
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/05/3-top-artificial-intelligence-stocks-to-buy-in-oct/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "7 Artificial Intelligence Stocks to Buy for October"
-    excerpt: "IBM offers the patient investor potentially significant upside. As you know, with its AI platform Watson, Big Blue has been helping multiple enterprises and industries maximize their efficiency."
-    publishedDateTime: 2020-10-02T18:31:00Z
-    webUrl: "https://investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/"
-    ampWebUrl: "https://investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/amp/"
-    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/amp/"
-    type: article
-    provider:
-      name: InvestorPlace
-      domain: investorplace.com
-    quality: 59
-    images:
-      - url: "https://investorplace.com/wp-content/uploads/2019/07/ai1600b.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "3VnhqOtmZECOHQFIh6qPjve+gwXQE6EP6xOu5sSHECAs2bWcml2tq8GFDWwCMclSPJeoQj1PKUsv0XBRlgfTM9ferYsURv5C751nucFw2jo8xZSZ2hx8M4Eg+CvpqAmdjEXhvZYOdhTsSfOZSPAMkIefIjZkbrQbkkOfUDpLUFIR2JN5poxX7K+UEf2cCR3nuIDUs+XtlhInxMexkkyStXbvcVeJ1dbbj7ZC+uKHO7Bl3/IQ+dVdsMooGAxj/ehI996UdwpjW8S2hsU5hn+CWRKlmM48cz6NJnbOa+24m9fse2iCfUlRZZGtWRZr/RQDf3dyrfpJo6uHcPd8jcVj9rn96o/5yP63YDRvlq9oTvzHUWaNnxaZvM5vqGK4ojzZ+5LdS+e4tsawq8n9AAZtU+xxCP3A0fnq3eZ1gUFZOOzlN/buwXcce75SDiT4Sg3z4K66oB6xrUwXYpToTfqTwAJhO17uBHRZ2LHl9jTCv7uTLJdX0lRU/9/i1g/ed+7Ah85VfTaKwKOyT2IATa+w8Q==;iIfjNUJlOy5XfvMZHYb4sg=="
 ---
