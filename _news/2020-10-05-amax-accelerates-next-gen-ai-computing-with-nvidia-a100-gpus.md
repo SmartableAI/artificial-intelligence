@@ -51,6 +51,20 @@ related:
         width: 708
         height: 398
         isCached: true
+  - title: "IIT Jodhpur Launches New BTech Programme In Artificial Intelligence, Data Science"
+    excerpt: "The new UG programme in Artificial Intelligence and Data Science seeks to provide students with opportunities to explore areas including visual computing, socio-digital realities, language technologies and robotics."
+    publishedDateTime: 2020-10-07T18:16:00Z
+    webUrl: "https://www.ndtv.com/education/iit-jodhpur-launches-new-btech-programme-in-artificial-intelligence-data-science"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 34
+    images:
+      - url: "https://cache.careers360.mobi/media/article_images/2020/10/7/shutterstock_736790485_oHkfE82.jpg"
+        width: 860
+        height: 430
+        isCached: true
 
 secured: "9xhxUH6c4y/Sl1knx2k9Ece8wi/dE9kfcT6RTZduF8rK0wWxDb44uBUX6+FHoQHGrggqKjUkJlPl4WG72+UIikbr2cbLFQ4kcEgOJh2pF5niVpl5fmHKFqE7nU2/tMceQD2sY1y/48kX+XSg6boHRY7zcdki9YpyWCxyz8bwRrg+fSpYSsN9QVSgzdAipmUSBPGkxrXkWMoNPZDGFtRGy+zTDVqL+vl8PZvu4vkPYMdzIlB5tk1NfTfhc3Zw4qYlo/dPeyZhH9idcPUYQusFlK2sYVC04HJhqRzbM1+Bg1OKUdmVu/zFYtBYuwcnq1PHJQ95ASn7mDMdFrhKn3x8eeiui8KnLxAdO26XuiheaDekAMkmu7kPIkp6yDdqH1MCK20RLKNKxKl0BOQPNEjxwUoLbaCat7EoEUZkKl2lf/Tljgwh2TDajMs/pQ7Hsfx3daeu0s57v5bvIbWmWsva3poQiSbTY/ggaOt/mork4lMkRpCwVy7zxXTPY6XOkk2q6QgRnKZM5IWOIxyZTPz1rw==;OpSoCSPTr5SP0DokaWw/eg=="
 ---

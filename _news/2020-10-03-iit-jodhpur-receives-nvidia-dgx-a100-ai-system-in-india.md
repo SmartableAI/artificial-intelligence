@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/home/education/news/iit-jodhpur-receives-
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/amp_articleshow/78457955.cms"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 34
+  - title: "IIT Jodhpur Launches New BTech Programme In Artificial Intelligence, Data Science"
+    excerpt: "The new UG programme in Artificial Intelligence and Data Science seeks to provide students with opportunities to explore areas including visual computing, socio-digital realities, language technologies and robotics."
+    publishedDateTime: 2020-10-07T18:16:00Z
+    webUrl: "https://www.ndtv.com/education/iit-jodhpur-launches-new-btech-programme-in-artificial-intelligence-data-science"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 34
+    images:
+      - url: "https://cache.careers360.mobi/media/article_images/2020/10/7/shutterstock_736790485_oHkfE82.jpg"
+        width: 860
+        height: 430
+        isCached: true
 
 secured: "XnmjwiLoDnwhJON9dROxc6v784EBjeNQ+Zpn9l0A+oBJMRs0X0GFjIrU0NNlVh4Dtzcekx6vO7xa8aAWwhfW2erwvMblYwSJAX99qNlBruUngTrJLt6nBxHPvG5hUhNqPrQW9mxXqOsKkZrSeRzTxNApF8d2lRqbSS8aZ0/ws18DgLuXsXfKr5tPKIp/7nPpXlJWQyoCsbahuTqL0jNc0nu1e6wFOqYDUpd3FIik69myhvCdneNZSg+GPxh6NeKfMfhSu0fdV3nDNm3/XBDITiuOHbIvaR8Ls0OgBxuHFSO5iyQuZGEGGCE6A/cIPZHLOYpnCh+OdS7jUuCW2g5/qibjfW/zSwpKySIUnE0+47gGwJhTwfeVNEkUt90mtCLXXDuZ3ERW4w2MuM+Z6GvC33dZPyLOYUWJDnFclaPRhcaIDqBaPOfVQmf40pntfqra2zrofkv/+iarBop9x/jWWVlysmOT9uqTPcXl1h9AqG07X3on+4Pq/gJ30t3Z/XQ3JLqUclatdGeoc98BFmglFg==;HWl4cVPfr4OGjKNYJKob2w=="
 ---

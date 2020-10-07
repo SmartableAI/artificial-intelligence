@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Mobile Artificial Intelligence Market to reach USD 13.26 billion by 2024, Alphabet Inc. and Apple Inc. emerge as a Key"
-    excerpt: "O"
-    publishedDateTime: 2020-10-05T14:30:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2020-10-05/mobile-artificial-intelligence-market-to-reach-usd-13-26-billion-by-2024-alphabet-inc-and-apple-inc-emerge-as-a-key"
+  - title: "Service Robotics Market to Reach USD 41.49 billion by 2027; Rising Usage in Healthcare & Logistics Sectors to Aid Growth: Fortune Business Insights™"
+    excerpt: "The global service robotics market is set to gain traction from the increasing adoption of these robots in a wide range of sectors, such as agriculture, defense, logistics, and healthcare worldwide. This information is given by Fortune Business Insights™ in a new report,"
+    publishedDateTime: 2020-10-07T18:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/service-robotics-market-to-reach-usd-41-49-billion-by-2027-rising-usage-in-healthcare-logistics-sectors-to-aid-growth-fortune-business-insights-1029658648"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 43
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
   - title: "Warehouse Robotics Market Size is Projected to Reach USD 4926.2 Million by 2026 - Valuates Reports"
     excerpt: "According to the Latest Market Research Report \"Warehouse Robotics Market Breakdown Data by Type ( Mobile Robotics, Fixed Robotics)"
     publishedDateTime: 2020-10-06T00:00:00Z

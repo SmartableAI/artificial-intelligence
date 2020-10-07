@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/making-cycling-safer-with-aws-deeplens-and-amazon-sagemaker-object-detection/</loc>
+    <lastmod>2020-10-07T12:39:01-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/service-robotics-market-to-reach-usd-41-49-billion-by-2027-rising-usage-in-healthcare-logistics-sectors-to-aid-growth-fortune-business-insights-1029658648</loc>
+    <lastmod>2020-10-07T11:09:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/predicting-defender-trajectories-in-nfls-next-gen-stats/</loc>
     <lastmod>2020-10-07T10:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -15,12 +27,6 @@
   <url>
     <loc>https://phys.org/news/2020-10-biochip-combines-ai-nanoparticle-cancer.html</loc>
     <lastmod>2020-10-07T09:42:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-price-reductions-up-to-18-lower-prices-on-ml-p3-and-ml-p2-instances/</loc>
-    <lastmod>2020-10-07T09:34:18-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -339,6 +345,12 @@
   <url>
     <loc>https://www.bloomberg.com/news/articles/2020-10-05/voyage-ceo-oliver-cameron-on-robo-taxis-self-driving-cars-and-coronavirus</loc>
     <lastmod>2020-10-05T07:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.geekwire.com/2020/madrona-leads-3-9m-seed-round-cybersecurity-compliance-startup-strike-graph/</loc>
+    <lastmod>2020-10-05T07:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -969,6 +981,12 @@
   <url>
     <loc>https://arstechnica.com/gadgets/2020/09/intel-heidelberg-university-team-up-to-bring-radeon-gpu-support-to-ai/</loc>
     <lastmod>2020-09-30T03:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.thehansindia.com/technology/tech-news/microsoft-translator-now-supports-assamese-too-648777</loc>
+    <lastmod>2020-09-30T02:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1945,12 +1963,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.businesswire.com/news/home/20200923005723/en/</loc>
-    <lastmod>2020-09-23T13:01:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://venturebeat.com/2020/09/23/baidu-offers-quantum-computing-from-the-cloud/</loc>
     <lastmod>2020-09-23T12:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1989,6 +2001,12 @@
   <url>
     <loc>https://www.finanznachrichten.de/nachrichten-2020-09/50779615-autonomous-shuttles-idtechex-report-reveals-the-future-of-last-mile-mobility-008.htm</loc>
     <lastmod>2020-09-23T10:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.morningstar.com/news/business-wire/20200923005723/mouser-electronics-new-intelligent-revolution-series-explores-cutting-edge-applications-in-artificial-intelligence</loc>
+    <lastmod>2020-09-23T10:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

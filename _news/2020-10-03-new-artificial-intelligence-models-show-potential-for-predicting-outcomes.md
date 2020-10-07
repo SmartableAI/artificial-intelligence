@@ -55,6 +55,22 @@ related:
         width: 2880
         height: 1511
         isCached: true
+  - title: "Applying artificial intelligence to science education"
+    excerpt: "A new review published in the Journal of Research in Science Teaching highlights the potential of machine learning—a subset of artificial intelligence—in science education. Although the authors initiated their review before the COVID-19 outbreak,"
+    publishedDateTime: 2020-10-07T18:42:00Z
+    webUrl: "https://phys.org/news/2020-10-artificial-intelligence-science.html"
+    ampWebUrl: "https://phys.org/news/2020-10-artificial-intelligence-science.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-artificial-intelligence-science.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/science.jpg"
+        width: 1920
+        height: 1264
+        isCached: true
   - title: "AI IN BANKING: How forward-looking banks are using maturing AI solutions to design both customer- and employee-facing innovations"
     excerpt: "This report identifies AI use cases transforming the way FIs operate, the business impact of those use cases, and real-world examples of each."
     publishedDateTime: 2020-10-06T18:48:00Z

@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Maxim Integrated's Neural Network Accelerator Chip Enables IoT Artificial Intelligence in Battery-Powered Devices"
-excerpt: "The MAX78000 low-power neural network accelerated microcontroller from (NASDAQ: MXIM) moves artificial intelligence (AI) to the edge without"
-publishedDateTime: 2020-10-07T12:39:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/maxim-integrateds-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices/article_a214a812-c667-585b-bb63-5cbdbb3dfd6f.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/maxim-integrateds-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices/article_a214a812-c667-585b-bb63-5cbdbb3dfd6f.html"
+excerpt: "PRNewswire/ -- The MAX78000 low-power neural network accelerated microcontroller from Maxim Integrated Products, Inc. (NASDAQ: MXIM) moves"
+publishedDateTime: 2020-10-07T12:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/maxim-integrateds-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-301147039.html"
+webUrl: "https://www.prnewswire.com/news-releases/maxim-integrateds-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-301147039.html"
 type: article
 quality: 50
 heat: 60
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AI Hardware
-  - AI
   - Machine Learning
+  - AI
+  - AI Hardware
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/0f/50fee73b-83e6-528a-a08c-d4676132f118/5f7db1db7b70d.image.jpg?resize=400%2C225"
-    width: 400
-    height: 225
+  - url: "https://mma.prnewswire.com/media/1307840/Maxim__MAX78000.jpg?p=facebook"
+    width: 1920
+    height: 1005
     isCached: true
 
 related:
@@ -41,6 +41,6 @@ related:
         height: 291
         isCached: true
 
-secured: "EZNjyY7nYYJN6xUBCY7icMGAyFfahctE6gM3I6l52z1lNceAMCl6m7GqmllfhtV01c8GVihx4CdJBpyx7z/m5tlWyFK6vexoSkc8sgc/5GAlRFV8FTdo19bAILgE7bVc4vvVGNgksFQOK8Urs3HSu3g9/cq+d3a/zLZ84bzBQYDroszrIsNCu6lQ/cWeRzabBDJjfsaqCWEUDdPUIpPhnNHUiqfANdMm875N9GW8uh3ab9d2kFJigSm3dwmVEqqWC+cDVvHRQ9fW1L2Gt05/lOkp8uHEoK7pfeOxdwE+gMG9VcoEelNkIPEC6GUeTNDBPyCKk4+IvXV2XtmQvo6nd2ECobZEMdvziJNqQjZL4g0=;6Et1o4plPc7pmCyt5qhuSA=="
+secured: "HPed07bD3g9rbFog7lBysrESlbHhDBAGDJBo7Qmoj6xcXNyyUIrVjoGAPJdzDGXA6UKXZ+95pfifpsjnac6oIH7ZLMUBrP2Fm2IHEvz7AGrW7DsH6IFbcmstOip55mMH4ZLZeY5pBXkB7gd7DT7/0hyJCcI6g8y7yn6NFlUOW0P+hv/Mb3JmKlMZGU6DFYPucBnA5xN120G/x/wEXe0MNIHlJ6FjcMgRnsVc22qPf+95JSM0zHgwIjP01KgzwOlDKeyD052dhoocOWJjpkGAqtGZquj4ztSYOss+EhOvR64zNE/eWcWJIIy5RRSMPeIj/6r9xSMsBiqlPI7TCsOo+ZvBUdIfZmxHH00I31GkGkU=;cHzpAabOjqW8zoQTAHeylw=="
 ---
 

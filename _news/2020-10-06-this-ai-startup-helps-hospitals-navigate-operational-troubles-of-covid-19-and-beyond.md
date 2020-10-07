@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startup-helps-hospitals-navigate-operational-troubles-of-covid-19-and-beyond/amp/"
 type: article
 quality: 80
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/11-covid.jpg"
         width: 1920
         height: 1025
+        isCached: true
+  - title: "Will robots and AI take our jobs in covid-19’s socially distanced era?"
+    excerpt: "Coronavirus has put a rocket under plans for more automation, roboticisation and use of AI. Should we fear for our jobs – or will we just get better ones?"
+    publishedDateTime: 2020-10-07T19:07:00Z
+    webUrl: "https://www.newscientist.com/article/mg24833031-000-will-robots-and-ai-take-our-jobs-in-covid-19s-socially-distanced-era/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2020/10/07155320/covid-ai.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "How This Food-Tech Startup Is Using AI & Cloud To Make Cafeterias COVID-Safe"
     excerpt: "Analytics India Magazine got in touch with the founders of the food-tech startup HungerBox to understand the tech behind it."

@@ -1,77 +1,28 @@
 ---
 category: news
 title: "Microsoft Translator now supports Assamese too"
-excerpt: "Microsoft India said on Wednesday that it has added Assamese as the latest Indian language in Microsoft Translator, increasing the number of Indian languages it supports to 12. The Azure-based service will now provide real-time translation and transliteration support for the language."
-publishedDateTime: 2020-09-30T11:54:00Z
-originalUrl: "https://menafn.com/1100880896/Microsoft-Translator-now-supports-Assamese-too"
-webUrl: "https://menafn.com/1100880896/Microsoft-Translator-now-supports-Assamese-too"
+excerpt: "Microsoft India said on Wednesday that it has added Assamese as the latest Indian language in Microsoft Translator, increasing the number of Indian languages it supports to 12."
+publishedDateTime: 2020-09-30T09:21:00Z
+originalUrl: "https://www.thehansindia.com/technology/tech-news/microsoft-translator-now-supports-assamese-too-648777"
+webUrl: "https://www.thehansindia.com/technology/tech-news/microsoft-translator-now-supports-assamese-too-648777"
+ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/microsoft-translator-now-supports-assamese-too-648777"
+cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/microsoft-translator-now-supports-assamese-too-648777"
 type: article
-quality: 39
-heat: -1
-published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: The Hans India
+  domain: thehansindia.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2020-09/30/I_9ee6f788-9image_story.jpg"
-    width: 400
-    height: 300
+  - url: "https://assets.thehansindia.com/h-upload/2020/09/30/1002386-microsoft.jpg"
+    width: 1000
+    height: 600
     isCached: true
 
-related:
-  - title: "Microsoft unveils Azure for Operators to unlock 5G potential"
-    excerpt: "Microsoft has announced a new cloud platform called Azure for Operators that has been designed to help telecommunications operators unlock the full potential of 5G. The new offering will help communication service providers create new opportunities and provide core infrastructure,"
-    publishedDateTime: 2020-09-30T11:08:00Z
-    webUrl: "https://www.itpro.co.uk/mobile/5g/357287/microsoft-unveils-azure-for-operators-to-unlock-5g-potential"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 84
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/v1570816662/itpro/2018/08/5g_shutterstock_750428755.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Microsoft Translator now support Assamese language"
-    excerpt: "The service is available on Microsoft Translator app, add-ins, Office 365, Bing Translator, and through the Azure Cognitive Services Translator API for businesses and developers. Users can translate Assamese text, supported by more than 70 languages ..."
-    publishedDateTime: 2020-09-30T18:54:00Z
-    webUrl: "https://www.digit.in/press-release/apps/microsoft-translator-now-support-assamese-language-56681.html"
-    ampWebUrl: "https://www.digit.in/article/amp/apps/56681/microsoft-translator-now-support-assamese-language"
-    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/apps/56681/microsoft-translator-now-support-assamese-language"
-    type: article
-    provider:
-      name: Digit
-      domain: digit.in
-    quality: 59
-    images:
-      - url: "https://static.digit.in/default/223b47fd8c7f598a1e46c43038d9d58c33f10470.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Microsoft Translator adds Assamese, strengthens support for 12 Indian languages"
-    excerpt: "Microsoft India has announced the addition of Assamese as the latest Indian language in Microsoft Translator. The Azure-based service will now provide real-time translation and"
-    publishedDateTime: 2020-10-04T18:02:00Z
-    webUrl: "https://indiaeducationdiary.in/microsoft-translator-adds-assamese-strengthens-support-for-12-indian-languages/"
-    ampWebUrl: "https://indiaeducationdiary.in/microsoft-translator-adds-assamese-strengthens-support-for-12-indian-languages/?amp"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/microsoft-translator-adds-assamese-strengthens-support-for-12-indian-languages/?amp"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 57
-    images:
-      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/04/microsoft.jpg?fit=463%2C260&ssl=1"
-        width: 463
-        height: 260
-        isCached: true
-
-secured: "cJvhHW9r4e3RPY3CGPQ6RD/CUrFVp7zB9AL3KmueBYxqW3CaV+hX9a5kDMStOnmF8rXripBEtrZ7C9Tq1slW3c8v2GgoKjoR5UynhN9XjWxorrCMkaNFsQTISmtwlCEHBiGRLEfhFM9EOUHFBtlu5Xl3KIZmmXhCaMWzQLiCwWd/ym2xJv6pn/Lg/kG1nrL6T6ZRH5nVcr27bbn+VXkY2sekvdltqJedTSkVv2usbI3OR1bePM5VXglrRiWyU4quA6Udm+WNnHl289I9C4mjAsbNcECWcAguzDY1Z0ovYzWFbpwnQZqOeaA8AD0eSXQvcID48an2h/HBfQ+rtuzJqtxcE8ZzMOr57ku3CVEsXOA=;LaF/3XXz8aupriLZSCplwA=="
+secured: "5IMxWV44Nt7EIRuJWJPQuQR7fhiY2ISO/a66hE88BZiTitMjitdKlCJedr0TjfbCGVzCByXpBeHUa0b3yNimIM2DRR4d7MAbjtZY2o1Z2tij0xalE6qI6dKPh6o6t5RSakihTdzw8up6rhkKLtoRwIoQM7WGZVH8QvWtZqZdSIBUQ54/wYrMz8usg81qvz34nkGyR5+ReNJI0RDGdPSKx+uvpP5Y8ls5J9DPEBxgL7ePxe9vIAAQ6J6okT/iUwGQVLcI+ekUHpkK/UaYhJajRDlsWc2ONWE5ch/5lYEyozWOMo55PO11getHhqK7TkS3zSw4pcnfZvos2VeKPaXMW0u56tnbIWkQS+21dTOLFb0=;QIPLTgBQ08SL7Wt5Pulsjw=="
 ---
 

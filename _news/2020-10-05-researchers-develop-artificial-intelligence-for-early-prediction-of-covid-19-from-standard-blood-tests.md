@@ -58,6 +58,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Will robots and AI take our jobs in covid-19’s socially distanced era?"
+    excerpt: "Coronavirus has put a rocket under plans for more automation, roboticisation and use of AI. Should we fear for our jobs – or will we just get better ones?"
+    publishedDateTime: 2020-10-07T19:07:00Z
+    webUrl: "https://www.newscientist.com/article/mg24833031-000-will-robots-and-ai-take-our-jobs-in-covid-19s-socially-distanced-era/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2020/10/07155320/covid-ai.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How This Food-Tech Startup Is Using AI & Cloud To Make Cafeterias COVID-Safe"
     excerpt: "Analytics India Magazine got in touch with the founders of the food-tech startup HungerBox to understand the tech behind it."
     publishedDateTime: 2020-10-05T04:32:00Z

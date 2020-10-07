@@ -44,6 +44,20 @@ related:
         width: 2400
         height: 1350
         isCached: true
+  - title: "Penn researchers get $3.2 million grant to use artificial intelligence for improving heart transplants"
+    excerpt: "A team of researchers at Penn Medicine are turning to artificial intelligence as a diagnostic tool to improve outcomes for patients who receive heart transplants. Each year, more than 2,000 heart transplants are performed in the United States,"
+    publishedDateTime: 2020-10-07T18:46:00Z
+    webUrl: "https://www.phillyvoice.com/heart-transplant-artificial-intelligence-nih-grant-penn-medicine/"
+    type: article
+    provider:
+      name: PhillyVoice
+      domain: phillyvoice.com
+    quality: 21
+    images:
+      - url: "https://media.phillyvoice.com/media/images/Penn_Heart_Transplants.2e16d0ba.fill-1200x630-c0.jpg"
+        width: 735
+        height: 386
+        isCached: true
 
 secured: "R3nB+oo0az2xHP40/1LzbQqmbPteSCRBLkLVqztXff248cdmMemcllvNGxoKHmICd31gfsemRiiLMRZ4jUsWwxWP8UJmhtf/2oEDtePdI7T5H/rnS5TbcQ2KmoplxKOhJ+s/Xi4SIZ+Q0TkOyzVrcQ/GuzCozUOc7K+kqRCKgh3vdQyTJ8UN3XP7xFFucP6dXTkGpeaGUtay2dLvzA+sNqSehOBS5ER+bxlzGRV198aQItM6rWPJ27xKNy+JNFcBjT3CC1ZokNGC1uiIc5HfQ+Iq7k/0gcwBlx4AW93Vc/4SSwIUznsF5YtbbTMNSihyCzH1gkwsBMRfV5cjfbaV9bx1Wprdbi5Z1GA8emNxHAs=;IkNvScU2Gliz2bFS59k3IA=="
 ---

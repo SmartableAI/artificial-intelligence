@@ -72,6 +72,20 @@ related:
         width: 1920
         height: 1025
         isCached: true
+  - title: "Will robots and AI take our jobs in covid-19’s socially distanced era?"
+    excerpt: "Coronavirus has put a rocket under plans for more automation, roboticisation and use of AI. Should we fear for our jobs – or will we just get better ones?"
+    publishedDateTime: 2020-10-07T19:07:00Z
+    webUrl: "https://www.newscientist.com/article/mg24833031-000-will-robots-and-ai-take-our-jobs-in-covid-19s-socially-distanced-era/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2020/10/07155320/covid-ai.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "xcb7DEk6mftzFtTQy30Jc3/86SrlJKcAI1Af7KJLX3ckiuM+4ul+ppKSxQ+cZYin4s/mMSA2oI4ncsXHdMHlVlIhsF3Yy/TCY2gdwBx/XZ3IStHGDwX0DPXuIXoSIMc9pYXe8/fVbFQOstNrtEgUWvNGdxZWwkKR/a6rtAbyeJnty4VCSVm0PTonHqo6kuSnB4qM2ziwxkrRfzfQGazgVyWHtkv75jP/ii5/41AB6YmykzUjakwS4uTgIRJXdsaxRPw/43T9y/paqt3iyfBBBUoJFfN7qJuFUNkjK5BKwkdOlRX9RgrAdVs6OxHGUBuCydoo1PrWo8BOElXPp1w9zLGYOT78rY9iZmapkk1DGphSmzlbVqrgvG9tfM4xv6YUflXjoKN9muion8YL1ZslEBgS9DUZCDZyUXWmjwKIyLJZclC+Ew+5b04RRXPmQAUv6YtLlf5G3DFbG8hGv9IVN6gy1shJlSHS6ZZcz5rNG195NVM+RobPrHpbFKGaFECNOlfWHp6W2o9OINkkJ8Ln8Q==;UTg72R//8MHmGibbVfjHkg=="
 ---

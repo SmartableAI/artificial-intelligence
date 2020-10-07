@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/bolstering-robotics-enterprise-po
 webUrl: "https://www.analyticsinsight.net/bolstering-robotics-enterprise-potential-using-ai-applications/"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -40,6 +40,22 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/3-newartificia.jpg"
         width: 2880
         height: 1511
+        isCached: true
+  - title: "Applying artificial intelligence to science education"
+    excerpt: "A new review published in the Journal of Research in Science Teaching highlights the potential of machine learning—a subset of artificial intelligence—in science education. Although the authors initiated their review before the COVID-19 outbreak,"
+    publishedDateTime: 2020-10-07T18:42:00Z
+    webUrl: "https://phys.org/news/2020-10-artificial-intelligence-science.html"
+    ampWebUrl: "https://phys.org/news/2020-10-artificial-intelligence-science.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-artificial-intelligence-science.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/science.jpg"
+        width: 1920
+        height: 1264
         isCached: true
   - title: "New artificial intelligence models show potential for predicting outcomes"
     excerpt: "New applications of artificial intelligence (AI) in health care settings have shown early success in improving survival and outcomes in traffic accident victims transported by ambulance and in predicting survival after liver transplantation."
