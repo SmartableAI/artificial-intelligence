@@ -2,6 +2,108 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-06-nvidia-going-after-more-of-intels-data-center-business-with-new-processor-chips.md",
+      "title": "NVIDIA Going After More of Intel's Data Center Business With New Processor Chips",
+      "excerpt": "When announcing new artificial intelligence (AI) capabilities developed by his company earlier this year, NVIDIA (NASDAQ:NVDA) CEO Jensen Huang outlined a new type of processor that will become increasingly important in the years ahead: the data processing unit (DPU).",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/10/05/nvidia-going-after-more-of-intels-data-center-busi/",
+      "originalUrl": "https://www.fool.com/investing/2020/10/05/nvidia-going-after-more-of-intels-data-center-busi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F594099%2Fsemiconductor.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/05/nvidia-going-after-more-of-intels-data-center-busi/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/05/nvidia-going-after-more-of-intels-data-center-busi/",
+      "publishedDateTime": "2020-10-05T11:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-make-your-everyday-smarter-with-jacquard.md",
+      "title": "Make your everyday smarter with Jacquard",
+      "excerpt": "Technology is most helpful when it’s frictionless. That is why we believe that computing should power experiences through the everyday things around you—an idea we call “ambient computing.” That’s why we developed the Jacquard platform to deliver ambient computing in a familiar, natural way: By building",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/atap/jacquard-samsonite-backpacks/",
+      "originalUrl": "https://blog.google/products/atap/jacquard-samsonite-backpacks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2020-10-02_at_1.07.46_PM.max-1200x1200.png",
+          "width": 1200,
+          "height": 621,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/atap/jacquard-samsonite-backpacks/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/atap/jacquard-samsonite-backpacks/amp/",
+      "publishedDateTime": "2020-10-05T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-gtc-2020-round-up-nvidia-announces-virtual-world-for-robots-ai-video-calls.md",
       "title": "GTC 2020 round-up: Nvidia announces virtual world for robots, AI video calls",
       "excerpt": "Nvidia's GPU Technology Conference, also known as GTC, is all about artificial intelligence. We'll give you a rundown of everything that was announced.",
@@ -1069,7 +1171,7 @@
       "originalUrl": "https://www.analyticsinsight.net/bolstering-robotics-enterprise-potential-using-ai-applications/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1099,100 +1201,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-artificial-intelligence-for-accounting-market-economic-perspective-and-forecast-to-2026-microsoft-aws-xero-intuit-sage-osp-uipath-koreai.md",
-      "title": "Artificial Intelligence For Accounting Market Economic Perspective and Forecast To 2026 | Microsoft, AWS, Xero, Intuit, Sage, OSP, UiPath, Kore.ai",
-      "excerpt": "Global Artificial Intelligence For Accounting Market Size, Status And Forecast 2020-2026 The report begins with",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-economic-perspective-and-forecast-to-2026-microsoft-aws-xero-intuit-sage-osp-uipath-koreai-2020-10-03?mod=mw_quote_news",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-economic-perspective-and-forecast-to-2026-microsoft-aws-xero-intuit-sage-osp-uipath-koreai-2020-10-03?mod=mw_quote_news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-03T00:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india.md",
-      "title": "IIT Jodhpur Receives NVIDIA DGX A100 AI System in India",
-      "excerpt": "Education News: DGX A100 -- the world's most advanced AI system -- will be accessible to all students at the campus and will facilitate advanced AI research and educa",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/articleshow/78457955.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/articleshow/78457955.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-78457905/78457905.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/amp_articleshow/78457955.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/amp_articleshow/78457955.cms",
-      "publishedDateTime": "2020-10-02T22:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -345,7 +345,7 @@
       "originalUrl": "https://www.analyticsinsight.net/bolstering-robotics-enterprise-potential-using-ai-applications/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1372,44 +1372,35 @@
       ]
     },
     {
-      "path": "_news/2020-09-24-japan-looks-to-ai-as-coronavirus-challenges-go-and-see-quality-control-mantra.md",
-      "title": "Japan looks to AI as coronavirus challenges go-and-see quality control mantra",
-      "excerpt": "Improvements in artificial intelligence (AI) have come in tandem with increasingly ... Since the breakthrough, Poliakine’s startup SixAI and Musashi Seimitsu have established MusashiAI, a joint venture which develops and hires out quality control robots ...",
+      "path": "_news/2020-09-25-transforming-enterprises-through-robot-processing-automation.md",
+      "title": "Transforming Enterprises Through Robot Processing Automation",
+      "excerpt": "Robot Processing Automation (RPA) is the process of automating tasks which are repetitive and are performed by humans using software and hardware in a variety of applications. Unlike cognitive intelligence or deep learning,",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-japan-factory-rebo/japan-looks-to-ai-as-coronavirus-challenges-go-and-see-quality-control-mantra-idUSKCN26F2HB",
-      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-japan-factory-rebo/japan-looks-to-ai-as-coronavirus-challenges-go-and-see-quality-control-mantra-idUSKCN26F2HB",
+      "webUrl": "https://www.analyticsinsight.net/transforming-enterprises-through-robot-processing-automation/",
+      "originalUrl": "https://www.analyticsinsight.net/transforming-enterprises-through-robot-processing-automation/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200924&t=2&i=1535279049&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8N1CP",
-          "width": 745,
-          "height": 545,
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2020/09/RPA.jpg",
+          "width": 1024,
+          "height": 576,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN26F2HB",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26F2HB",
-      "publishedDateTime": "2020-09-24T07:36:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-24T11:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1418,8 +1409,9 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

@@ -2,6 +2,100 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-03-artificial-intelligence-for-accounting-market-economic-perspective-and-forecast-to-2026-microsoft-aws-xero-intuit-sage-osp-uipath-koreai.md",
+      "title": "Artificial Intelligence For Accounting Market Economic Perspective and Forecast To 2026 | Microsoft, AWS, Xero, Intuit, Sage, OSP, UiPath, Kore.ai",
+      "excerpt": "Global Artificial Intelligence For Accounting Market Size, Status And Forecast 2020-2026 The report begins with",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-economic-perspective-and-forecast-to-2026-microsoft-aws-xero-intuit-sage-osp-uipath-koreai-2020-10-03?mod=mw_quote_news",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-economic-perspective-and-forecast-to-2026-microsoft-aws-xero-intuit-sage-osp-uipath-koreai-2020-10-03?mod=mw_quote_news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-03T00:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-03-iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india.md",
+      "title": "IIT Jodhpur Receives NVIDIA DGX A100 AI System in India",
+      "excerpt": "Education News: DGX A100 -- the world's most advanced AI system -- will be accessible to all students at the campus and will facilitate advanced AI research and educa",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/articleshow/78457955.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/articleshow/78457955.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-78457905/78457905.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/amp_articleshow/78457955.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/amp_articleshow/78457955.cms",
+      "publishedDateTime": "2020-10-02T22:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-simplify-data-management-with-new-apis-in-amazon-personalize.md",
       "title": "Simplify data management with new APIs in Amazon Personalize",
       "excerpt": "Amazon Personalize now makes it easier to manage your growing item and user catalogs with new APIs to incrementally add items and users in your datasets to create personalized recommendations. With the new putItems and putUsers APIs, you can simplify the process of managing your datasets. You no longer",
@@ -1104,108 +1198,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-via-acquires-delivery-logistics-startup-fleetonomy-to-bolster-fulfillment-with-ai.md",
-      "title": "Via acquires delivery logistics startup Fleetonomy to bolster fulfillment with AI",
-      "excerpt": "Via acquired Fleetonomy, a startup that analyzes delivery data and delivers insights to maximize inventory and conduct proactive maintenance.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/01/via-acquires-delivery-logistics-startup-fleetonomy-to-bolster-fulfillment-with-ai/",
-      "originalUrl": "https://venturebeat.com/2020/10/01/via-acquires-delivery-logistics-startup-fleetonomy-to-bolster-fulfillment-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/232a9c02-eb55-4af8-be59-38fb161b1f93-e1601359046546.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/01/via-acquires-delivery-logistics-startup-fleetonomy-to-bolster-fulfillment-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/01/via-acquires-delivery-logistics-startup-fleetonomy-to-bolster-fulfillment-with-ai/amp/",
-      "publishedDateTime": "2020-10-01T11:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-air-street-capital-ai-industry-remains-strong-despite-academic-brain-drain-tech-nationalization.md",
-      "title": "Air Street Capital: AI industry remains strong despite academic brain drain, tech nationalization",
-      "excerpt": "Air Street Capital's annual State of AI report finds that despite challenges, the AI industry remains strong heading into 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/01/air-street-capital-ai-industry-remains-strong-despite-academic-brain-drain-tech-nationalization/",
-      "originalUrl": "https://venturebeat.com/2020/10/01/air-street-capital-ai-industry-remains-strong-despite-academic-brain-drain-tech-nationalization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/01/air-street-capital-ai-industry-remains-strong-despite-academic-brain-drain-tech-nationalization/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/01/air-street-capital-ai-industry-remains-strong-despite-academic-brain-drain-tech-nationalization/amp/",
-      "publishedDateTime": "2020-10-01T11:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

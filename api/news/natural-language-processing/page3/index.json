@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-03-latest-research-report-ai-translation-market-with-major-companies-like-ibm-corporation-microsoft-corporation-sdl-plc-lionbridge-technologies.md",
+      "title": "Latest Research Report AI Translation Market with Major Companies like IBM Corporation, Microsoft Corporation, SDL PLC, Lionbridge Technologies",
+      "excerpt": "AI translation is based on text-to text translation and speech recognition which converts words, phrase, as well as paragraph into another language. Get Sample Copy of this Report @ https ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/latest-research-report-ai-translation-market-with-major-companies-like-ibm-corporation-microsoft-corporation-sdl-plc-lionbridge-technologies-2020-09-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/latest-research-report-ai-translation-market-with-major-companies-like-ibm-corporation-microsoft-corporation-sdl-plc-lionbridge-technologies-2020-09-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-02T13:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-03-how-to-make-complicated-machine-learning-developer-problems-easier-to-solve.md",
       "title": "How to make complicated machine learning developer problems easier to solve",
       "excerpt": "AI/ML is more complicated than software development, but there are ways to make it more approachable. We sometimes assume the best software companies will yield the best artificial intelligence (AI) but,",

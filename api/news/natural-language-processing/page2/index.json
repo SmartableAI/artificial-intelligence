@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-14-ai-ethics-groups-are-repeating-one-of-societys-classic-mistakes.md",
+      "title": "AI ethics groups are repeating one of society’s classic mistakes",
+      "excerpt": "International organizations and corporations are racing to develop global guidelines for the ethical use of artificial intelligence. Declarations, manifestos, and recommendations are flooding the internet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2020/09/14/1008323/ai-ethics-representation-artificial-intelligence-opinion/",
+      "originalUrl": "https://www.technologyreview.com/2020/09/14/1008323/ai-ethics-representation-artificial-intelligence-opinion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/09/GettyImages-1153022933_web.jpg?w=3000",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2020/09/14/1008323/ai-ethics-representation-artificial-intelligence-opinion/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/09/14/1008323/ai-ethics-representation-artificial-intelligence-opinion/amp/",
+      "publishedDateTime": "2020-09-14T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Natural Language Processing",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-13-can-ai-solve-one-of-the-oldest-mysteries-of-linguistics.md",
       "title": "Can A.I. solve one of the oldest mysteries of linguistics?",
       "excerpt": "Lost languages like Linear A have confounded researchers for decades, but as artificial intelligence advances, could technology crack the case?",
@@ -1358,48 +1402,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-latest-research-report-ai-translation-market-with-major-companies-like-ibm-corporation-microsoft-corporation-sdl-plc-lionbridge-technologies.md",
-      "title": "Latest Research Report AI Translation Market with Major Companies like IBM Corporation, Microsoft Corporation, SDL PLC, Lionbridge Technologies",
-      "excerpt": "AI translation is based on text-to text translation and speech recognition which converts words, phrase, as well as paragraph into another language. Get Sample Copy of this Report @ https ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/latest-research-report-ai-translation-market-with-major-companies-like-ibm-corporation-microsoft-corporation-sdl-plc-lionbridge-technologies-2020-09-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/latest-research-report-ai-translation-market-with-major-companies-like-ibm-corporation-microsoft-corporation-sdl-plc-lionbridge-technologies-2020-09-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-02T13:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,25 +2,25 @@
 category: news
 title: "IBM Brings Artificial Intelligence At Scale To The Marketing And Media Industry"
 excerpt: "PRNewswire/ -- IBM (NYSE: IBM) today announced three new products to add to its growing suite of AI solutions for brand and publishers. The new"
-publishedDateTime: 2020-10-05T13:16:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry/article_49982e03-5ebc-599e-bd30-cddec2f3c1c3.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry/article_49982e03-5ebc-599e-bd30-cddec2f3c1c3.html"
+publishedDateTime: 2020-10-05T12:25:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-301145605.html"
+webUrl: "https://www.prnewswire.com/news-releases/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-301145605.html"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/da/dda7e99f-e470-54a0-afec-a29238bbefca/5f7b15a97fd81.image.jpg?resize=400%2C209"
-    width: 400
-    height: 209
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+    width: 2698
+    height: 1414
     isCached: true
 
 related:
@@ -52,6 +52,6 @@ related:
       domain: pulse2.com
     quality: 39
 
-secured: "SzPIZLXK0/TWIzPGtl3spXHwF94z0/cVtN0Icc1FayBtUUX0AJk67zFqpafj49UUD9PCp7cHTZWAa/ovcbyyx6P4QLzqAB3QwBgURl5e0v9gqUUUsqFmC6GF6dSimjJo2JKrNBJHDSv+eB7kzgy1bcNh92LVMRxR6lRgcm0cXUTBW+tlNh/78VkWuK3GSzLWnMeIE2SZfnwybtjSI1YszDtrI0oqEiYRDXAaAl/s78vcAlDmJlXUBM9sBRIcEqJxXbYJ2wTZWbvXuFKLDrDO4jcSG4RMvSYx8LvezbZ2n0YiwL28tK3+rT2uMNaBeEO6gSk1k7kBHq61p2pUpOH8rE7YTncXjg9bfBViaZ5/hNU=;FCr/euVK7mr/Synn4yQr/A=="
+secured: "SYGR2UwCk9p3LB+5S1JikPtf3LDnKFoQjeK2QklL3OQMgsnykyh0Xjvd7gisxHCejK+5WZG/JF3wRVjNgYBM3oeiFGhiqDBMnh41qTBvLI7jNNN14DygifMtCH/A/OlqK+RjY8mvi7vdqgZyMlnm4SV6WjtFtOV+85ndSOr5TQ2unQQNGT24+Tgs2djRZ6uEhzqILkLYNJxPaMQugAwizN6XUOGAeyJnn5wNrlfv6r0nJ7H+LQZytqDZxRU0twZ3pLahhaVsvfTOvGpvlEJ9hA4UheL/uCCK/Agnm8EmdBepvOkDc3XN9uDuX/bllmqGTRqu6XgVtEtazXyyYl8DLjQAVVG9PkGl9444f+VAJcM=;QzMWM9lb22ex4CM7ODo7iA=="
 ---
 

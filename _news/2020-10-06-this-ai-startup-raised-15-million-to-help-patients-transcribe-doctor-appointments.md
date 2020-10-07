@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startup-raised-15-million-to-help-patients-transcribe-doctor-appointments-and-decode-jargon/amp/"
 type: article
 quality: 98
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "AI Can Help Patients—but Only If Doctors Understand It"
-    excerpt: "Algorithms can help diagnose a growing range of health problems, but humans need to be trained to listen. Nurse Dina Sarro didn’t know much about artificial intelligence when Duke University Hospital installed machine learning software to raise an alarm when a person was at risk of developing sepsis,"
-    publishedDateTime: 2020-10-02T12:00:00Z
-    webUrl: "https://www.wired.com/story/ai-help-patients-doctors-understand/"
-    ampWebUrl: "https://www.wired.com/story/ai-help-patients-doctors-understand/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-help-patients-doctors-understand/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
-    images:
-      - url: "https://media.wired.com/photos/5f7675e3ff21dc4074d250d8/master/pass/business_nurse_1224894742.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
 
 secured: "1KqkGEPP3ubh6G1tZvhhVhEaTS7s6kPnsTuWolPNemeIHe5QOfzjXuWNBMYiACz9f+9+6BLlPepaE4o0szmXtqwguUiHLl6NClfToUsDGTpmVx1xef9MDuNj/wv9dJC9vNz0gkLY7fup6XF+N8EOeuEB0zFlJ3YotPo9PhJ+mUwqql1RhXjyawQDcECs4P/fsFOCloDLIV9r7OR6Xy1lICslZyxJRDVX1utyPbAz5ytWN2WIeU4Dx1wdgWz7gdT0HqJEt9fg68vjS5E5SwI06n0Fd/TZYKex9jI1HxSo1OVSW8Xzph46zTbzVgSbZNFuC0KlhnRDcAMfRFOtNe67718fA6bOjg0pvm2MoSz32BfZzvfRNzXSvUw/0ICnIXubKPiNX3tB83YbAeoM9umjZ/3SPuAzV9DilLrZ76V4GH0xGL/R2WSgo47bhPkq/GM3+tygLO7xHWGF7voqJhfLdwBNqNF58fDmt2GZ1FGbF3WmXJa/Dx2riA6KVnsXRSOytgk2yUivN1q6GfMcV7l0Bw==;5F0+UexxTiCVYw/r6aA8vg=="
 ---

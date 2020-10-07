@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Fight for free speech as vital now as in history"
+    excerpt: "The violence, looting and mayhem that this nation has seen over the last several months has much of its roots in academia, where leftist faculty teach immature young people all"
+    publishedDateTime: 2020-10-07T04:15:00Z
+    webUrl: "https://www.reflector.com/opinion/editorial_columnists/fight-for-free-speech-as-vital-now-as-in-history/article_a201061d-c3d1-5d46-b389-2b2817c6815d.html"
+    type: article
+    provider:
+      name: The Daily Reflector
+      domain: reflector.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/reflector.com/content/tncms/custom/image/f426e788-8153-11e9-b03d-3b24a7f39457.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Walter Williams: The True Test of Supporting Free Speech"
     excerpt: "The violence, looting, and mayhem that this nation has seen over the last several months has much of its roots in academia, where leftist faculty teach immature young people all manner of nonsense that contradicts commonsense and the principles of liberty."
     publishedDateTime: 2020-10-06T14:46:00Z

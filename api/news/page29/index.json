@@ -2,6 +2,132 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-09-11-baidu-rolls-out-self-driving-taxi-service-in-beijing.md",
+      "title": "Baidu rolls out self-driving taxi service in Beijing",
+      "excerpt": "BEIJING -- Chinese Internet giant Baidu recently rolled out its self-driving taxi service \"Apollo Go\" in Beijing, with 40 autonomous cabs put into trial operation initially. Passengers can hail ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202009/11/WS5f5b0ee1a310f55b25a82027.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202009/11/WS5f5b0ee1a310f55b25a82027.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img2.chinadaily.com.cn/images/202009/11/5f5b0ee1a310f55b18dacf20.jpeg",
+          "width": 513,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-10T23:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "China Daily",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-4-simple-ways-businesses-can-use-natural-language-processing.md",
+      "title": "4 Simple Ways Businesses Can Use Natural Language Processing",
+      "excerpt": "Natural language processing (or NLP for short) refers to technology that allows computers to understand human language. NLP is what helps computers read, edit and summarize text – as well as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/09/11/4-simple-ways-businesses-can-use-natural-language-processing/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2020/09/11/4-simple-ways-businesses-can-use-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5afcbb8de14d399113ebc7%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/09/11/4-simple-ways-businesses-can-use-natural-language-processing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/09/11/4-simple-ways-businesses-can-use-natural-language-processing/amp/",
+      "publishedDateTime": "2020-09-10T21:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-delivering-ai-to-warfighters-is-strategic-imperative.md",
+      "title": "Delivering AI to Warfighters Is Strategic Imperative",
+      "excerpt": "Delivering AI to Warfighters Is Strategic Imperative. The Defense Department is in an important transformational pe",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalsecurity.org/military/library/news/2020/09/mil-200910-dodnews03.htm",
+      "originalUrl": "https://www.globalsecurity.org/military/library/news/2020/09/mil-200910-dodnews03.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-10T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobalSecurity.org",
+        "domain": "globalsecurity.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-11-congress-probes-how-ai-will-impact-us-economic-recovery.md",
       "title": "Congress probes how AI will impact U.S. economic recovery",
       "excerpt": "Congress heard testimony today about how the U.S. government should fund and regulate tech like AI that can eliminate jobs in the midst of a recession.",
@@ -1018,141 +1144,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-defense-department-official-says-victory-garden-approach-could-aid-ai-effort.md",
-      "title": "Defense Department Official Says 'Victory Garden' Approach Could Aid AI Effort",
-      "excerpt": "The Defense Department can use the same methods that were used to bolster the war effort during World War II to advance artificial intelligence today, DOD officials say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.defense.gov/Explore/News/Article/Article/2342401/defense-department-official-says-victory-garden-approach-could-aid-ai-effort/",
-      "originalUrl": "https://www.defense.gov/Explore/News/Article/Article/2342401/defense-department-official-says-victory-garden-approach-could-aid-ai-effort/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.defense.gov/2020/Sep/10/2002494573/1280/1280/0/170506-M-XO599-133A.JPG",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-10T09:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "US Department of Defense",
-        "domain": "defense.gov",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-duckienet-lets-developers-test-autonomous-vehicle-systems-using-toy-cars.md",
-      "title": "DuckieNet lets developers test autonomous vehicle systems using toy cars",
-      "excerpt": "DuckieNet is an open source platform for developing, testing, and evaluating autonomous navigation and perception algorithms with miniature car models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/10/duckienet-lets-developers-test-autonomous-vehicle-systems-using-toy-cars/",
-      "originalUrl": "https://venturebeat.com/2020/09/10/duckienet-lets-developers-test-autonomous-vehicle-systems-using-toy-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/e07586e7-ad6b-42c4-8d7c-eac746decddd-e1599752755921.png?w=1200&#038;strip=all",
-          "width": 1198,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/10/duckienet-lets-developers-test-autonomous-vehicle-systems-using-toy-cars/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/10/duckienet-lets-developers-test-autonomous-vehicle-systems-using-toy-cars/amp/",
-      "publishedDateTime": "2020-09-10T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-startup-raises-45-million-to-predict-faults-in-chips-before-they-fail.md",
-      "title": "Startup Raises $45 Million to Predict Faults in Chips Before They Fail",
-      "excerpt": "Tecs sells tools to identify areas for improvement in new chips and anticipate potential failures in the field. The company said it serves \"some of the largest\" electronics vendors in the data center,",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21141254/startup-raises-45-million-to-predict-faults-in-chips-before-they-fail",
-      "originalUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21141254/startup-raises-45-million-to-predict-faults-in-chips-before-they-fail",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://base.imgix.net/files/base/ebm/electronicdesign/image/2020/09/28436328267_c1fd36f23d_o.5f5a433841886.png?auto=format&fit=max&w=1200",
-          "width": 1200,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-10T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronic Design",
-        "domain": "electronicdesign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

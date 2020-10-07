@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-01-will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning.md",
+      "title": "Will AI cross the proverbial chasm? Algorithmia resolves the practical pitfalls of machine learning",
+      "excerpt": "Also: AI startup Abacus goes live with commercial deep learning service, takes $13M Series A financing To Daniel, the gulf that he observed in academia between pure research and software engineering is the thing that has always shot down AI in past.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/09/29/8d457003-6fff-4124-8566-6fa533c43731/kenny-daniel-algorithmia-2020.png",
+          "width": 2053,
+          "height": 1118,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning/",
+      "publishedDateTime": "2020-09-30T16:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-this-month-in-aws-machine-learning-september-2020-edition.md",
+      "title": "This month in AWS Machine Learning: September 2020 edition",
+      "excerpt": "Every day there is something new going on in the world of AWS Machine Learning—from launches to new use cases to interactive trainings. We’re packaging some of the not-to-miss information from the ML Blog and beyond for easy perusing each month. Check back at the end of each month for the latest roundup.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-machine-learning-september-2020-edition/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-machine-learning-september-2020-edition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/30/202431_AWS_ML_Monthly_blog_post_visual_sept-01-1260x630.png",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-30T16:14:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-10-01-executives-say-artificial-intelligence-will-boost-productivity-but-their-employees-arent-so-sure.md",
       "title": "Executives Say Artificial Intelligence Will Boost Productivity; But Their Employees Aren’t So Sure",
       "excerpt": "For example, while 82 percent of executives see their companies bringing in robot and SI trainers over the next 15 years, compared to only 44 percent of employees. Business leaders see artificial intelligence as taking a prominent role within their organizations.",
@@ -1025,23 +1129,32 @@
     {
       "path": "_news/2020-09-30-andor-health-collaborates-with-mentor-to-deliver-next-generation-ai-powered-virtual-experiences-with-microsoft-technology.md",
       "title": "Andor Health Collaborates with Mentor to Deliver Next Generation, AI-Powered Virtual Experiences with Microsoft Technology",
-      "excerpt": "Andor Health and Mentor Worldwide LLC have formed a collaboration to provide the aesthetic physician community with the next-generation virtual health experiences to",
+      "excerpt": "Andor Health and Mentor Worldwide LLC have formed a collaboration to provide the aesthetic physician community with the next-generation virtual health experiences to enhance the relationship between a surgeon and their patients.",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/andor-health-collaborates-with-mentor-to-deliver-next-generation-ai-powered-virtual-experiences-with-microsoft/article_87104374-4495-5f9b-9707-4d6892880d0d.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/andor-health-collaborates-with-mentor-to-deliver-next-generation-ai-powered-virtual-experiences-with-microsoft/article_87104374-4495-5f9b-9707-4d6892880d0d.html",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-medical-technology-health-artificial-intelligence-computing-and-information-technology-7ebeb192b3437584eac7a740d6619523",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-medical-technology-health-artificial-intelligence-computing-and-information-technology-7ebeb192b3437584eac7a740d6619523",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T06:52:00-07:00",
+      "publishedDateTime": "2020-09-30T06:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1102,99 +1215,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-how-the-trevor-project-continues-to-support-lgbtq-youth.md",
-      "title": "How The Trevor Project continues to support LGBTQ youth",
-      "excerpt": "This September, National Suicide Prevention Awareness Month feels different. Over the past nine months, LGBTQ youth have experienced unique challenges in relation to COVID-19.The pandemic has amplified existing mental health disparities and created new problems that have impacted the daily lives of many",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/outreach-initiatives/google-org/trevor-project-support-lgbtq-youth/",
-      "originalUrl": "https://blog.google/outreach-initiatives/google-org/trevor-project-support-lgbtq-youth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3O5A3023_LUKnAQ7.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 866,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://blog.google/outreach-initiatives/google-org/trevor-project-support-lgbtq-youth/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-org/trevor-project-support-lgbtq-youth/amp/",
-      "publishedDateTime": "2020-09-30T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-intelemarks-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion.md",
-      "title": "Intelemark's New Microsoft Azure Cloud-Based AI Proprietary Software Fuels International Expansion",
-      "excerpt": "Intelemark, a national leader in the lead generation/appointment setting industry for more than 20 years, is pleased to announce the successful implementation of our",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/intelemarks-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion/article_d763ca0c-5282-5ff7-81a8-f5688877c416.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/intelemarks-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion/article_d763ca0c-5282-5ff7-81a8-f5688877c416.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

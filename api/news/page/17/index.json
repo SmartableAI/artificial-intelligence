@@ -2,6 +2,140 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-09-21-gowin-semiconductor-launches-goai-20-for-embedded-machine-learning-inference.md",
+      "title": "Gowin Semiconductor Launches GOAI 2.0 For Embedded Machine Learning Inference",
+      "excerpt": "GOWIN GoAI 2.0 offers direct integration into the TensorFlow and TensorFlow Lite Machine Learning Platforms, optimization for targeting GOWIN’s GW1NSR4P µSoC FPGA, and an accelerator to offload compute-intensive functions from the microcontroller ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.design-reuse.com/news/48669/gowin-goai-2-0-embedded-machine-learning-inference.html",
+      "originalUrl": "https://www.design-reuse.com/news/48669/gowin-goai-2-0-embedded-machine-learning-inference.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.design-reuse.com/news_img2/homepage48669/20200921_1.jpg",
+          "width": 485,
+          "height": 260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-21T00:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design-Reuse",
+        "domain": "design-reuse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-inside-politics-government-threatens-lockdown-if-rules-arent-followed.md",
+      "title": "Inside Politics: Government threatens lockdown if rules aren’t followed",
+      "excerpt": "As Boris Johnson considers national coronavirus restrictions, Matt Hancock has made it clear the public will be to blame for any second lockdown, writes Adam Forrest",
+      "sourceUrl": null,
+      "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
+      "originalUrl": "https://www.independent.co.uk/independentpremium/uk-news/boris-johnson-new-coronavirus-rules-fine-hancock-national-lockdown-threat-b511237.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inside.com/assets/premium/Blue-email-icon-0994aadea0b5b10b19a148e2dd34a88c4a315b76ed51d7898fa49dc4ddc6d171.png",
+          "width": 414,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-20T23:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-artificial-intelligence-chipsets-market-share-current-and-future-industry-trends-2020-2026.md",
+      "title": "Artificial Intelligence Chipsets Market Share Current and Future Industry Trends, 2020-2026",
+      "excerpt": "Increasing acceptance of cloud-based services in education, integration of AI inferencing hardware in the data centers, and rising product developments by manufacturers along with investment in startups are driving the growth of global artificial intelligence chipsets market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-share-current-and-future-industry-trends-2020-2026-2020-09-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-share-current-and-future-industry-trends-2020-2026-2020-09-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-20T23:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-21-the-4-top-artificial-intelligence-trends-for-2021.md",
       "title": "The 4 Top Artificial Intelligence Trends For 2021",
       "excerpt": "Artificial Intelligence (AI) has been a mega-trend in 2020. The current pandemic has only accelerated the relevance and adoption of AI and machine learning. Here we look at some of the top AI trends for 2021.",
@@ -1001,158 +1135,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped.md",
-      "title": "People’s notions about AI are terrible, an MIT study asks whether they can be helped",
-      "excerpt": "Mistaken notions of AI agency could be helped by hands-on learning, argues MIT scholar Ziv Epstein.  One of the most striking PR moments of the AI age was the sale by Christie's auction house in October,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/",
-      "originalUrl": "https://www.zdnet.com/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/09/18/546f7a0b-e18b-497b-a4eb-b54889807168/epstein-2020-two-versions-of-a-story.png",
-          "width": 1516,
-          "height": 1714,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/",
-      "publishedDateTime": "2020-09-18T16:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed.md",
-      "title": "How do we know AI is ready to be in the wild? Maybe a critic is needed",
-      "excerpt": "Can the paradigm of adversarial AI make algorithms safer to send out into the world? Mischief can happen when AI is let loose in the world, just like any technology. The examples of AI gone wrong are numerous,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/",
-      "originalUrl": "https://www.zdnet.com/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/09/18/357e38bc-229d-41eb-b4dd-97f4f31e32f0/sergey-levine-headshot.jpg",
-          "width": 4324,
-          "height": 3684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/",
-      "publishedDateTime": "2020-09-18T13:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-a-beginners-guide-to-the-ai-apocalypse-killer-robots.md",
-      "title": "A beginner’s guide to the AI apocalypse: Killer robots",
-      "excerpt": "Welcome to the fifth article in TNW’s guide to the AI apocalypse. In this series we examine some of the most popular doomsday scenarios prognosticated by modern AI experts. Previous articles in this series include: Misaligned Objectives,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/09/18/a-beginners-guide-to-the-ai-apocalypse-killer-robots/",
-      "originalUrl": "https://thenextweb.com/neural/2020/09/18/a-beginners-guide-to-the-ai-apocalypse-killer-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/04/robots_wall-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/09/18/a-beginners-guide-to-the-ai-apocalypse-killer-robots/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/18/a-beginners-guide-to-the-ai-apocalypse-killer-robots/amp/",
-      "publishedDateTime": "2020-09-18T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -69,6 +69,34 @@ related:
         width: 1440
         height: 756
         isCached: true
+  - title: "Applying artificial intelligence to science education"
+    excerpt: "A new review published in the Journal of Research in Science Teaching highlights the potential of machine learning--a subset of artificial intelligence--in science education."
+    publishedDateTime: 2020-10-07T04:06:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-10/w-aai100520.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 37
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The future for AI and enterprise looks bright"
+    excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
+    publishedDateTime: 2020-10-07T04:32:00Z
+    webUrl: "https://www.cio.com/article/3584831/the-future-for-ai-and-enterprise-looks-bright.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 37
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/05/ai-vendor-relationship-management_artificial-intelligence_hand-on-virtual-screen-100795246-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "m3UWeW5TVq9eEWmpxU3CXmqPXBamRxzMd8DYGRmkLA2fJrx3ySZJXT/1R+Mp2HUZY+0FwX0DBtPe1T4WgFmhPVyhTame8q9LxU+oVoWH2k2G0ulnNEK3FEh+fcWSNn97+ws/rbIEWm+lZjik2+ghIPzzniKbuB9DFL+WBm55KwtCCEY0JUx/rXdvJD+pyJLidb2aj73U14C8qOvpAq5X9HS74nNK+8e94+qbbjDkb3P5nkqau/Lfmz18QmN3cGKCHvNFIdlhV7oBEpjROm8OKCodYbNGC/DtKDNWzu2JAdOsVU7AfKyqT8fQzZwrlM4Dj4r2ANv3E0B8R7ahwxrcGVZ3A+a6mmlxuaATCEtjS7+QIupUIx49uI8EHohh4IVwCqu+/SEykJO+iPMT9HTwO4Z6UzGRF7kpg+VgACuOfHpBzPfSDeCCNN/v3G0nwTALvT5HWrA6wVseJSzf6yaWupJquElwJocHesYjBzTMgxnuz+r6Q2TK+6EclyoUmFRNHQH+6N1+uELUq1q/5doxtg==;heQiTq9J2MI/IM8V9Wx8GQ=="
 ---

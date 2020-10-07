@@ -1,22 +1,18 @@
 ---
 category: news
 title: "OSS Presents AI on the Fly® and Data Center in the Sky™ Solutions at NVIDIA’s GPU Technology Conference This Week"
-excerpt: "(Nasdaq: OSS), a leader in specialized high-performance edge computing, presented its AI on the Fly ® and Data Center in the Sky™ products and solutions at this week’s GPU Technology Conference, a digital event hosted by NVIDIA,"
-publishedDateTime: 2020-10-06T12:39:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/oss-presents-ai-on-the-fly-and-data-center-in-the-sky-solutions-at-nvidia-s-gpu-technology-conference-this-week-1029652206"
-webUrl: "https://markets.businessinsider.com/news/stocks/oss-presents-ai-on-the-fly-and-data-center-in-the-sky-solutions-at-nvidia-s-gpu-technology-conference-this-week-1029652206"
+excerpt: "One Stop Systems, Inc., a leader in specialized high-performance edge computing, presented its AI on the Fly ® and Data Center in the Sky™ products and solutions at this week’ s GPU Technology Conference,"
+publishedDateTime: 2020-10-06T13:31:00Z
+originalUrl: "https://www.nasdaq.com/press-release/oss-presents-ai-on-the-flyr-and-data-center-in-the-skytm-solutions-at-nvidias-gpu"
+webUrl: "https://www.nasdaq.com/press-release/oss-presents-ai-on-the-flyr-and-data-center-in-the-skytm-solutions-at-nvidias-gpu"
 type: article
 quality: 43
 heat: 43
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI Hardware
@@ -70,6 +66,6 @@ related:
       domain: stockhouse.com
     quality: 11
 
-secured: "8GgpaVOaoLZJfhqCOtYwMjWtM9o8i406ku7f5KGqC3Gb6cV5AoSqlQfa5po2JF/93LtAC1TIz+bUDGseVOyHb3MZJvn1Tj9B+oPXYheswbqqquuzUi+5lYSkxdQpAFBSFrPAqZVRX5fpFWC6UIzMLfL5bpfJiaJpOe5mHlI2be+0xlH1FIplsrxDOjYvDS1/r3ujV91CpCgMJLiBXLqqdlhHnSvZRr74jt2geKo4rf/JOAPcTL3gtjixeRYOkkWs3M1oZ4KMRgTs8ctF65+F1ilm2HPey4xh4Z2onLBaoH+dZXgR4Ga7pt+FvE/Ceaqs1EbEDTYS6P54BuL2GWMdpS86djGZVbM93S2mli+eG7A=;pGxglqGQe0gLz3r8l5XhrQ=="
+secured: "5XPKgHGb4fVbuq1MIdl55Tiu97ELCdPZ9Gsuo11pJv5AmGaDBjAgnMuaKB0W2mk6IaJtldB6E8M5kEHEBpZk8qWHmyrLnoL691DOufuJ/9g9uRH6wmRH9NHsBK/ixWeUpCfVv+cQrNHKj/35GrZt5f+s4SM6JhSdRSJr/vyFD5LIp1bN4LbeWFjwnaruEeJTcSXE1lI2QGkU99XfIUf2u0lLnd1KsqxB9Gq9NMiTXoIV5U6IAt8GPkxc641bVplDy2NPqkOkXLUqUZntNdluJ2PwFoCGjO+y3Db2qtYsA4YqriwgI4ANJxl0gtDsAGGIPM4ZZxnNPfMS3+6sdKNfebgjEjEzRSKs5yA4Vp3L2ZI=;m+JWZJxSz1azZ233jp6vbw=="
 ---
 

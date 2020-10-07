@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/evaluating-an-automa
 webUrl: "https://aws.amazon.com/blogs/machine-learning/evaluating-an-automatic-speech-recognition-service/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://galusaustralis.com/wp-content/uploads/2020/10/Zaion-Lab-IA-scaled-1024x538.jpg"
         width: 1024
         height: 538
+        isCached: true
+  - title: "From AI to facial recognition: how China is setting the rules in new tech"
+    excerpt: "In its bid to rival the US, Beijing wants to establish the industrial standards that will shape future industries"
+    publishedDateTime: 2020-10-07T04:00:00Z
+    webUrl: "https://www.ft.com/content/188d86df-6e82-47eb-a134-2e1e45c777b6"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 53
+    images:
+      - url: "https://www.ft.com/assets/product/dynamic-barriers/global-trade.jpg"
+        width: 619
+        height: 377
         isCached: true
 
 secured: "M9BZJObI7oaRAbsSjrkydqHhQnaKahpW/EGXAR/OehMvdu6p6cpHI7aSOuP7ev9YEwRIIac4HzAZLx10c7QpVOvRDUxNFvL4PHVybjMGqDhnGyr4DjDUZJGNWRKvL4xCXNKtWx8J5J0ETxd4bJIBlizrSCUWGBlxumts8HF0bdJ8S9aHEvo61kKR1Ik2sdv7per3H50730smEkkxYDlaUt4RVmrPfCHaZHlR+G6oISEUbiGM6tOxAdFlvvdd2DteD4s+Qt95Ub+5HgZGfZdWJbv37NnaUSyP/khb2/UpKffC9GBorQTbC6AkWEW43p4X41FMVnAxQzVSR99b9jMXCmDU8JTJEsTcJLUtb/LxDoU=;sKg+khVvFx58BcU5C7imJg=="

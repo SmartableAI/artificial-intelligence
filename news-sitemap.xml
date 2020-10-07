@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://techcrunch.com/sponsor/bristlecone/the-present-and-the-future-of-supply-chain-is-ai/</loc>
+    <lastmod>2020-10-06T21:27:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/bernardmarr/2020/10/07/smartphone-tracking-data-and-artificial-intelligence-turn-peoples-movements-into-detailed-insights-and-profits/</loc>
+    <lastmod>2020-10-06T21:22:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.tweaktown.com/news/75521/ea-ceo-teases-new-machine-learning-and-ai-features-for-next-gen-games/index.html</loc>
     <lastmod>2020-10-06T20:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -727,8 +739,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_health/andor-health-collaborates-with-mentor-to-deliver-next-generation-ai-powered-virtual-experiences-with-microsoft/article_87104374-4495-5f9b-9707-4d6892880d0d.html</loc>
-    <lastmod>2020-09-30T06:52:00-07:00</lastmod>
+    <loc>https://apnews.com/press-release/pr-newswire/technology-medical-technology-health-artificial-intelligence-computing-and-information-technology-7ebeb192b3437584eac7a740d6619523</loc>
+    <lastmod>2020-09-30T06:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -763,13 +775,13 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_business/systran-partners-with-ted-to-create-specialized-translation-models-expanding-professional-applications-of-machine-translation/article_2876188d-59c2-5b5d-a412-76b6c422d0af.html</loc>
-    <lastmod>2020-09-30T05:22:00-07:00</lastmod>
+    <loc>https://apnews.com/article/virus-outbreak-lung-disease-technology-health-diseases-and-conditions-147f362dbb3541c28e8918e74773bcc3</loc>
+    <lastmod>2020-09-30T05:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://apnews.com/article/virus-outbreak-lung-disease-technology-health-diseases-and-conditions-147f362dbb3541c28e8918e74773bcc3</loc>
+    <loc>https://www.prnewswire.com/news-releases/systran-partners-with-ted-to-create-specialized-translation-models-expanding-professional-applications-of-machine-translation-301141876.html</loc>
     <lastmod>2020-09-30T05:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1591,6 +1603,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.analyticsinsight.net/transforming-enterprises-through-robot-processing-automation/</loc>
+    <lastmod>2020-09-24T11:22:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/tomdavenport/2020/09/24/return-on-ai-the-cdao-perspective/</loc>
     <lastmod>2020-09-24T11:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1729,14 +1747,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.commsmea.com/business/opinion/22450-four-steps-to-accelerate-your-machine-learning-journey</loc>
-    <lastmod>2020-09-24T01:10:00-07:00</lastmod>
+    <loc>https://www.marketwatch.com/press-release/tomorrow-socratesai-to-host-webinar-giving-your-company-a-single-voice-2020-09-21</loc>
+    <lastmod>2020-09-24T01:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/tomorrow-socratesai-to-host-webinar-giving-your-company-a-single-voice-2020-09-21</loc>
-    <lastmod>2020-09-24T01:02:00-07:00</lastmod>
+    <loc>https://www.itp.net/news/93915-four-steps-to-accelerate-your-machine-learning-journey</loc>
+    <lastmod>2020-09-24T00:44:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

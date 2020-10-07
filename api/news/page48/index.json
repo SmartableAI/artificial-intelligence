@@ -2,6 +2,158 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2020-08-29-how-to-tell-if-computer-vision-can-transform-your-business.md",
+      "title": "How to tell if computer vision can transform your business",
+      "excerpt": "As computer vision proliferate across new sectors, business leaders should be assessing how it could impact the trajectory of their organization.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/29/how-to-tell-if-computer-vision-can-transform-your-business/",
+      "originalUrl": "https://venturebeat.com/2020/08/29/how-to-tell-if-computer-vision-can-transform-your-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/06/computer-vision.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/29/how-to-tell-if-computer-vision-can-transform-your-business/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/29/how-to-tell-if-computer-vision-can-transform-your-business/amp/",
+      "publishedDateTime": "2020-08-29T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-29-google-cloud-updates-anthos-with-bare-metal-and-hybrid-ai.md",
+      "title": "Google Cloud Updates Anthos With Bare Metal And Hybrid AI",
+      "excerpt": "Google updates Anthos for bare metal, which lets Anthos run on-prem and at edge locations without a hypervisor, and brings Speech-to-Text On-Prem to Anthos.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/08/29/google-cloud-updates-anthoswith-bare-metal-and-hybrid-ai/",
+      "originalUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/08/29/google-cloud-updates-anthoswith-bare-metal-and-hybrid-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f207f7e16412747cf53f32f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5315%26cropY1%3D269%26cropY2%3D3260",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/08/29/google-cloud-updates-anthoswith-bare-metal-and-hybrid-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2020/08/29/google-cloud-updates-anthoswith-bare-metal-and-hybrid-ai/amp/",
+      "publishedDateTime": "2020-08-29T06:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-29-google-offers-to-help-others-with-the-tricky-ethics-of-ai.md",
+      "title": "Google offers to help others with the tricky ethics of AI",
+      "excerpt": "The company plans to launch new AI ethics services before the end of the year. Initially, Google will offer others advice on tasks such as spotting racial bias in computer vision systems or developing ethical guidelines that govern AI projects.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/tech-policy/2020/08/google-offers-to-help-others-with-the-tricky-ethics-of-ai/",
+      "originalUrl": "https://arstechnica.com/tech-policy/2020/08/google-offers-to-help-others-with-the-tricky-ethics-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2020/08/ai-artificial-intelligence-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-29T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-29-artificial-intelligence-is-the-next-top-gun.md",
       "title": "Artificial Intelligence Is the Next Top Gun",
       "excerpt": "We were both skeptical that the artificial intelligence program that would be piloting one of the virtual aircraft would be able to outfight the human pilot, call sign “Banger,” from the Air Force's equivalent of the Navy’s legendary TOPGUN fighter-tactics instruction program.",
@@ -1020,159 +1172,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-deepfake-reality-check-ai-avatars-set-to-transform-business-and-education-outreach.md",
-      "title": "Deepfake reality check: AI avatars set to transform business and education outreach",
-      "excerpt": "AI avatars and synthetic video production could provide organizations with entirely new capabilities for training and multilingual global communication in the years ahead.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/deepfake-reality-check-ai-avatars-set-to-transform-business-and-education-outreach/",
-      "originalUrl": "https://www.techrepublic.com/article/deepfake-reality-check-ai-avatars-set-to-transform-business-and-education-outreach/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/08/28/fda2e537-1cb3-4540-a59c-f222694c0371/resize/1200x/0cda1f628ff0e21a26e6d3cb6b7405bc/synthesia-3.jpg",
-          "width": 1200,
-          "height": 759,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/deepfake-reality-check-ai-avatars-set-to-transform-business-and-education-outreach/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/deepfake-reality-check-ai-avatars-set-to-transform-business-and-education-outreach/",
-      "publishedDateTime": "2020-08-28T07:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-how-kabbage-processed-7-billion-in-paycheck-protection-program-loans-with-machine-learning-vb-live.md",
-      "title": "How Kabbage processed $7 billion in Paycheck Protection Program loans with machine learning (VB Live)",
-      "excerpt": "Using ML, Kabbage processed almost 300,000 PPP loans by the time the program ended, making it the second largest issuer of PPP loans in the country.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/28/how-kabbage-processed-7-billion-in-paycheck-protection-program-loans-with-machine-learning-vb-live/",
-      "originalUrl": "https://venturebeat.com/2020/08/28/how-kabbage-processed-7-billion-in-paycheck-protection-program-loans-with-machine-learning-vb-live/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1258025082.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 702,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/28/how-kabbage-processed-7-billion-in-paycheck-protection-program-loans-with-machine-learning-vb-live/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/28/how-kabbage-processed-7-billion-in-paycheck-protection-program-loans-with-machine-learning-vb-live/amp/",
-      "publishedDateTime": "2020-08-28T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-apple-launches-aiml-residency-program-to-attract-niche-experts.md",
-      "title": "Apple launches AI/ML residency program to attract niche experts",
-      "excerpt": "The company behind Siri is looking for U.S. and European residents with programming and niche science backgrounds to immerse in the world of AI and ML.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/28/apple-launches-ai-ml-residency-program-to-attract-niche-experts/",
-      "originalUrl": "https://venturebeat.com/2020/08/28/apple-launches-ai-ml-residency-program-to-attract-niche-experts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/06/apple-siri.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/28/apple-launches-ai-ml-residency-program-to-attract-niche-experts/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/28/apple-launches-ai-ml-residency-program-to-attract-niche-experts/amp/",
-      "publishedDateTime": "2020-08-28T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -26,13 +26,13 @@ images:
 
 related:
   - title: "OSS Presents AI on the Fly® and Data Center in the Sky™ Solutions at NVIDIA’s GPU Technology Conference This Week"
-    excerpt: "(Nasdaq: OSS), a leader in specialized high-performance edge computing, presented its AI on the Fly ® and Data Center in the Sky™ products and solutions at this week’s GPU Technology Conference, a digital event hosted by NVIDIA,"
-    publishedDateTime: 2020-10-06T12:39:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/oss-presents-ai-on-the-fly-and-data-center-in-the-sky-solutions-at-nvidia-s-gpu-technology-conference-this-week-1029652206"
+    excerpt: "One Stop Systems, Inc., a leader in specialized high-performance edge computing, presented its AI on the Fly ® and Data Center in the Sky™ products and solutions at this week’ s GPU Technology Conference,"
+    publishedDateTime: 2020-10-06T13:31:00Z
+    webUrl: "https://www.nasdaq.com/press-release/oss-presents-ai-on-the-flyr-and-data-center-in-the-skytm-solutions-at-nvidias-gpu"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 43
   - title: "OSS Presents AI on the Fly® and Data Center in the Sky™ Solutions at NVIDIA’s GPU Technology ..."
     excerpt: "(Nasdaq: OSS), a leader in specialized high-performance edge computing, presented its AI on the Fly® and Data Center in the Sky™ products and solutions at this week’s GPU Technology Conference, a digital event hosted by NVIDIA,"
