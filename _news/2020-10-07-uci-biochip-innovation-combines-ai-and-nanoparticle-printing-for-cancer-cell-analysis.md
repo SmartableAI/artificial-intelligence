@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/pub_releases/2020-10/uoc--ubi100720.php
 webUrl: "https://www.eurekalert.org/pub_releases/2020-10/uoc--ubi100720.php"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Biochip innovation combines AI and nanoparticle printing for cancer cell analysis"
+    excerpt: "Electrical engineers, computer scientists and biomedical engineers at the University of California, Irvine have created a new lab-on-a-chip that can help study tumor heterogeneity to reduce resistance to cancer therapies."
+    publishedDateTime: 2020-10-07T16:42:00Z
+    webUrl: "https://phys.org/news/2020-10-biochip-combines-ai-nanoparticle-cancer.html"
+    ampWebUrl: "https://phys.org/news/2020-10-biochip-combines-ai-nanoparticle-cancer.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-biochip-combines-ai-nanoparticle-cancer.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 69
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2018/5c18fceef3bbb.jpg"
+        width: 2500
+        height: 1917
+        isCached: true
 
 secured: "XPSBZFcF9IDu5yUGEkt8qA7jfTqv32D60+kR6DQEihL5jS9Vq7o2wJYsy6oDG0rLrKxt0bDXo6xnnWBrpvCQ+GidCohPim9/euZOIOE+9Rz5c28zhPvsXYNQjaDaiY8iESwuinhUhYBOY8v6apCa/YvxdmOJPed/NKZGIiyEFyvtXECN+56R7BtCbOEBBtlzQEBhr9/kiM/U5HzWahEFIRO/iO6NfY6Q+PDr2CQfm2wXhlPcoejJPwq7S/VTnwcgIQyA9asoyjSuy1JMvj7YoHO47IrJ4Z9aQZv/BngsB5GuCW92UYZsH9M8Y9Z8jz49JZl7aC+yhS3Su7AA+9lu2fvEoB8Yht89Z8/1RTMVNQI=;tq2KMHD2azyHHk5FbE6HjA=="
 ---

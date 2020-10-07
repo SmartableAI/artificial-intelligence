@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Applying artificial intelligence to science education"
-excerpt: "A new review published in the Journal of Research in Science Teaching highlights the potential of machine learning—a subset of artificial intelligence—in science education. Although the ..."
-publishedDateTime: 2020-10-07T07:24:00Z
-originalUrl: "https://phys.org/news/2020-10-artificial-intelligence-science.html"
-webUrl: "https://phys.org/news/2020-10-artificial-intelligence-science.html"
-ampWebUrl: "https://phys.org/news/2020-10-artificial-intelligence-science.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-artificial-intelligence-science.amp"
+excerpt: "A new review published in the Journal of Research in Science Teaching highlights the potential of machine learning--a subset of artificial intelligence--in science education."
+publishedDateTime: 2020-10-07T04:06:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-10/w-aai100520.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-10/w-aai100520.php"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/science.jpg"
-    width: 1920
-    height: 1264
+  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -99,6 +97,6 @@ related:
         height: 600
         isCached: true
 
-secured: "VbgWxxu1Wadut2lXdLFlVeeHrwzUc2Ao3CLb85ZnHo1ekS05Czedas/HpomM+VaHpfvHQTiHwZiDTRgpI6bLTrn/VMwNVlMCU5oc23KpQNyCwOkZO9Uu2S3EhTAahOhrOhxPzO2SdkZ9g8Q4NHw4Ft5SvRKsSMJpuMq2qgX90MFkaZcKVHaEk1782zwTyUAbSvFDPfsStWlguZYUOb1sQmQNuizHN4ilgOaBzOQpfrwjjeqNrQfMYvIB+eR10j62kipv1lq3tdVRlX4PYWzCqC+NZXhuCw69yTPDyzbYAYK/lvRUjKijpLuWKgxWOoY5H+/3Rw1ZILq6YG59vKsGce0NWvxkC5eXSMByBjqNmNY=;uaM70MlMzZpUsP0kDsvx1Q=="
+secured: "qIHkbnBi2N7B7LzT7Iamp5pBnjMt+4qfo8VGCR3KHbuMgdkHYEvMicmbmoLPjbKfbV3E69qq5RpwtY3Hu270L2Uhsg1sTPTrUSXNM3fURFzujZ0QZJAlyDGyuy+IuR2RCgYoUw0/1zeJhZEzw2jec1dcajxySBse9QBCRORe6LvPK5bF+HHosEJ9bwOvi5ha/idHk+Jki0xohoscRtOEA7MJf2VSXRXufT09c+gM0LnoX9P/RvSnUWe/IaOi/zNgC1MVOiuadx/aMz0/q7ajDnWZMVoHpNjtQkZ9T18hPM5eDya5VuHw1Pf9yS0xmoMOiz+vKGPDQAuD+CV0dkm2P0NZy5HVd4BKe350iZkPQWo=;QoqQmy5nncRa+SHyob8ZQA=="
 ---
 

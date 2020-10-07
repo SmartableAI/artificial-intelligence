@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-07T14:15:00Z
 originalUrl: "https://www.hpcwire.com/off-the-wire/deep-ai-launches-industry-first-integrated-ai-training-and-inference-solution-for-the-edge/"
 webUrl: "https://www.hpcwire.com/off-the-wire/deep-ai-launches-industry-first-integrated-ai-training-and-inference-solution-for-the-edge/"
 type: article
-quality: 29
+quality: 31
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI Hardware
 
 images:
   - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/Segars-Haas-Huang-Oct2020-405x228.png"
@@ -58,6 +59,6 @@ related:
         height: 800
         isCached: true
 
-secured: "bFOnbHvVI35caz743bNy8+x1wBUnZaL0kwIiKVg9PWzx5V3yHQsfnjpzwbXIWS3AVo4zlNJgSAuy2X8uG/f9C14Rz6XwD47Ec9xigJrPF+/a3me3V1cNNLzZG1h2e6+6OjTTBY+Nmwccktzl8x0CeQEiF07Qi7tFfu8RFmdFsZa99l4OroYzAVXg4Hy5KQcqQfRseBFydMH2Y4G0S05+ZVaVVjp+mQzTgLbhQBCYJDqNOZ5Cr+RIXNxrhhDwA9Wp4HSFylMtLtb9U1UEVPSSPBAwpFynIi0+V+8UkfMq6RC01obSXi7ao9B6YWnkTxOrRlAcq0JZYX33ZUxWqMj2s8u0W54A1Xq29yycnWT7VQI=;F3HbZ4EnXbLStojrj54Pbw=="
+secured: "X6YaRrxeJ2WrBjigDnR0yNFy+XV0cp6+nDF56QW55OsAmOWVXinfV90Pm0oEBGrwnFlHOhiAwft7aV1/h6cLrDNUGl+Mggq8nA66WQYnrTsLe8NgmxGmQ5v8iYgLFJaOinN0rQ+B8gja2EjpPzUdVKPD4fUGEXkJXXOtk0SrKIenls3TkJJefmUr3YqHBuZWQ9l9V7anH/iYzvVvUJqCd9dAAnGlhBao/NWytEdtCwnFAgaEz5Xa7Cn0gpHbUAveL4N+Q7L8GT7kX6MRlKskHBosTsr6Wcc2m8MD3NrFcuvC3immSCIVqqWg3exGNcR09G3JCp9PiIacDo3JCBP6u3ILMIPOdrusdW8PhbDLCXaS2OA6z41dI9hw4TUbVe6oe7ysY4LEei2C8KCekuu1EnMXmLhhGo9EeljrscMdqZwBNGBpuqHsJa7VbtuxObzAYJfMV0nLYCSEWje0IXaU67GYBhQe2/S4sf/1TDky9Ig68xSOkyKbDDo/Uqj3h4ONUbjfMoz3CJGHgjF6VN4Aow==;Xq6sS7dbrxQWrfRTrPQfdg=="
 ---
 

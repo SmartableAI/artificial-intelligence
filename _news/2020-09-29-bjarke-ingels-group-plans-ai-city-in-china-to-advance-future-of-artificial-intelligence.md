@@ -3,8 +3,8 @@ category: news
 title: "bjarke ingels group plans AI CITY in china to advance future of artificial intelligence"
 excerpt: "BIG AI CITY seeks to provide terminus, and the world’s leading tech companies, with a place to advance the future of artificial intelligence and robotics, and build the foundations of a new sustainable development."
 publishedDateTime: 2020-09-29T16:55:00Z
-originalUrl: "https://www.designboom.com/architecture/bjarke-ingels-group-ai-city-china-artificial-intelligence-terminus-group-09-29-2020/"
-webUrl: "https://www.designboom.com/architecture/bjarke-ingels-group-ai-city-china-artificial-intelligence-terminus-group-09-29-2020/"
+originalUrl: "https://www.designboom.com/architecture/bjarke-ingels-group-ai-city-china-artificial-intelligence-terminus-group-09-29-2020/?fbclid=IwAR2-9FqvXxBpPJhkVy6N3IZKa4uxGk4pb_zSe-19cABYa1UDxRzTazehYs0"
+webUrl: "https://www.designboom.com/architecture/bjarke-ingels-group-ai-city-china-artificial-intelligence-terminus-group-09-29-2020/?fbclid=IwAR2-9FqvXxBpPJhkVy6N3IZKa4uxGk4pb_zSe-19cABYa1UDxRzTazehYs0"
 type: article
 
 provider:
@@ -12,7 +12,7 @@ provider:
   domain: designboom.com
 
 topics:
-  - AI in Autos
+  - AI in Robotics
   - AI
 
 images:
@@ -21,6 +21,6 @@ images:
     height: 526
     isCached: true
 
-secured: "7WlIpEKQbvzjPe/LvD4WrCHOm5ai1K0Oy6iUwTcHda0tkblQQMm77MYXvzFfMHj0ueRzxP+s/EHv+SXc6JWzYjORr6X/WC4sPJG571qcoWhlWahwqYN5++/mzXtPRm1H4Udk73K38rxIZBirvuAMFGRBciJZJODyHHBJ+Ntsk+EYcGiZkPWZsYbsRAOXAeA5YSaDQJExw8b/bJDuPgFp2CYolGEm5bqqraSIAuvWAc2kVH070q1n6Bcq2xLUjEfGxZO4MVhC+CJgH/cZ/siC8TYKGIvy3q7PiA2Dqq612JHT/mBf4De1iqQLVnl99OD687S2cyM6NVQ4xwH0D64spLT+wmNTGMsqe2Sa0dSOGtA=;HpF6t4m0QpToH5aZ0Tzjxw=="
+secured: "5QeaLViX4cuLH2c49nmtJGDTd9aFTTuzm9Tly32Q4eQdlVu09fTGYSnZZIUTV6+WYF/WAx2E12PS/jKk0VZoW+84Qam82uAvwQkcKOaEgnuKD2het7gYA6fuXml9ZU65SklvcUiNGN7hCEMgah82qghoBpfE72dtH5MoXOV2e8nfvcxgv0StaGyShdwJbeumCUp/4TSIyIzq05t4I8TASItEqlEoHvUdWpOlzoJHbkk54h+s9GB8bPPgyAzSDRH4I3AFQad3TONhVONBtdVF2iYv5tZmT6IhGKjh+2yBmKdnDkzxlyv/N3mqqAQkPpeGWPNfrhOLkfTaVbW6o/JeOqviqt/+/fkOeuOBlpGHc5Q=;zlkA7Xr5Z1vuawdHnOvnCA=="
 ---
 

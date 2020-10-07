@@ -1,0 +1,50 @@
+---
+category: news
+title: "Amazon SageMaker price reductions: Up to 18% lower prices on ml.p3 and ml.p2 instances"
+excerpt: "Effective October 1st, 2020, we’re reducing the prices for ml.p3 and ml.p2 instances in Amazon SageMaker by up to 18% so you can maximize your machine learning (ML) budgets and innovate with deep learning using these accelerated compute instances. The new price reductions apply to ml.p3 and ml.p2 instances"
+publishedDateTime: 2020-10-07T16:34:18Z
+originalUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-price-reductions-up-to-18-lower-prices-on-ml-p3-and-ml-p2-instances/"
+webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-price-reductions-up-to-18-lower-prices-on-ml-p3-and-ml-p2-instances/"
+type: article
+quality: 98
+heat: 108
+published: true
+
+provider:
+  name: AWS
+  domain: aws.amazon.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+  - AWS AI
+  - Machine Learning
+
+images:
+  - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
+    width: 1260
+    height: 630
+    isCached: true
+
+related:
+  - title: "Amazon cuts the cost of AWS SageMaker instances by up to 18%"
+    excerpt: "Amazon Web Services Inc. said today it’s making its popular Amazon SageMaker artificial intelligence service ... applications that run in the AWS cloud. The service eliminates much of the ..."
+    publishedDateTime: 2020-10-07T16:13:00Z
+    webUrl: "https://siliconangle.com/2020/10/07/amazon-cuts-cost-aws-sagemaker-instances-18/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/109116640_3079370392100305_7323083359618987076_o.png"
+        width: 1200
+        height: 628
+        isCached: true
+
+secured: "ZOh+qFVuoXHJU1rRD7JbKLcP/ghnVxBNAWUQh794I0CCKU05gP3hjqwdsKmQpSjdRy8L4DmxjIQ21aZXydScfqWs/TcsFjdOjTGYs1XqBSxpsfXVsiweD4CbcJY6JAJCoSfgrnaVEafmzOEczLcdNvyoWN95IBbeYmpOHxwdJYHLGxbQvPJ8pQdvKL1PW1sWXNAJoeR/ww8JTg9VwGyxcStIgvOB3yJjLw4L/mO8VwB4BFHWgkiDPE3nfFB6WlcYvuVRfTeehJn/B4Ue2CG5cdGV78zQsCoLQz9kqYybdRyH8BXb681tKot+O30Eku2GOY3fA/nIV3tTbXDb4qbWn8FcimDQNw+hoD6Ifd/KqfY=;Ivvrud1CgXBX7P9K/1Fepg=="
+---
+

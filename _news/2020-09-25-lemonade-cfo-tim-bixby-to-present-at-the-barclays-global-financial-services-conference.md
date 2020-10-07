@@ -3,8 +3,8 @@ category: news
 title: "Lemonade CFO Tim Bixby to Present at the Barclays Global Financial Services Conference"
 excerpt: "Tim Bixby, Chief Financial Officer of Lemonade (LMND), will present at the Barclays Global Financial Services Conference on Wednesday, September 16, 2"
 publishedDateTime: 2020-09-24T22:19:00Z
-originalUrl: "https://www.businesswire.com/news/home/20200916005883/en/"
-webUrl: "https://www.businesswire.com/news/home/20200916005883/en/"
+originalUrl: "https://www.businesswire.com/news/home/20200916005883/en/Lemonade-CFO-Tim-Bixby-to-Present-at-the-Barclays-Global-Financial-Services-Conference"
+webUrl: "https://www.businesswire.com/news/home/20200916005883/en/Lemonade-CFO-Tim-Bixby-to-Present-at-the-Barclays-Global-Financial-Services-Conference"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 627
     isCached: true
 
-secured: "xoWsAZa0k2sMwAcQwlqbRWlf0rxQftKXiGwk7oraoiYpjRR0WYLiojMpG9idGa/KwInfSrdPOBp601qSN0bBg7dUjwK6Y69rFJVWVGgsVtB7gDgvjojLGUEAexwkoyANq6qdssgX6EIN0dHQetykxBP0/apVCk+3hBNxPvlT3nyz5ufYQMhTGSeFlqoG+KNaT+/eqdixYR4l6rg1ljshya+WXQ0iQ6Dk73MItdtmUlWE5lSY5nzrYH7l3UpxST+MUu3ejy1+CmjEIzdoGP3xdAAqi1pmcH93+Tegzhf7BY78XsDpIBtAoFpBYiHUIpf6i5J4pYQpQmKu/biHbiMMGD5tERH/1HugXqdUaIzSyrf6aDajCKhD+7tC6MXMwjdSaZyWq6sP3sHDlp6iyM7pjXCX6OvHIaQT5Ss00L0m5DAub/3unjlY+vObDjF7Kx4f06MjRH7IjhAhrTetuBaFP0KD7yPpBck8v+e2xZKC5Kgu3iwsdl+44eHjcdAxnuHmkNAR/MIut1t4Uv1LJgZAww==;d2gvnFC877KeEeapZdKSKg=="
+secured: "3t3pt6E8jCEF0IduLYDoWoTQWZ795nU6UCDNtKCvrX7huyiOGZneNpUuJFUs1zBD+LqWcUBvfCkg9zXtSUJ5a5MHtpJmTNVT4UrGZ1rzeLecxwGLaQjn7/WmfamiYInCOotFwcb0xIQ32HZK9xaGJOVTCSnEWEwXWimeSHRMRw+OEM5G6h4BhF/OdFOAJpKUTRUTYok5H+yXa8XXRgTqEMMiD6dljsTPGB2kF2YohweMNu6Vrfww8mk0AZekieULusg1/jCd4/r9FMC/QXECe/FPtv8+tETv0qBogyMw5JjG0HkHerGm2CE+9IDUUbD5aUAPZ/qnCt17nVZMynmjtAAc0OEuLRVoWgB1u9fp/D8=;pYsmT8rknJ2Vv4zV25rNVQ=="
 ---
 

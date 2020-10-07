@@ -55,7 +55,7 @@ related:
     provider:
       name: HPCwire
       domain: hpcwire.com
-    quality: 29
+    quality: 31
     images:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/Segars-Haas-Huang-Oct2020-405x228.png"
         width: 405

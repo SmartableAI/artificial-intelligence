@@ -3,8 +3,8 @@ category: news
 title: "Dicom Systems Launches Enterprise Imaging Platform in the Microsoft Azure Marketplace, Deploys to a Leading National IDN"
 excerpt: "Dicom Systems, a healthcare IT software company, today announced the availability of Unifier enterprise imaging platform for medical imaging workflow, archiving, cloud, and"
 publishedDateTime: 2020-10-07T14:15:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/dicom-systems-launches-enterprise-imaging-platform-in-the-microsoft-azure-marketplace-deploys-to-a-leading/article_dcf4caba-5bac-5aa8-942c-3e8e9c466f58.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/dicom-systems-launches-enterprise-imaging-platform-in-the-microsoft-azure-marketplace-deploys-to-a-leading/article_dcf4caba-5bac-5aa8-942c-3e8e9c466f58.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dicom-systems-launches-enterprise-imaging-platform-in-the-microsoft-azure-marketplace-deploys-to-a-leading/article_dcf4caba-5bac-5aa8-942c-3e8e9c466f58.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dicom-systems-launches-enterprise-imaging-platform-in-the-microsoft-azure-marketplace-deploys-to-a-leading/article_dcf4caba-5bac-5aa8-942c-3e8e9c466f58.html"
 type: article
 quality: 29
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/46/b4600382-2522-5315-b4e7-af4fc0fc8fd7/5f7dca1e9cfaa.image.jpg"
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/6/23/62336a11-eb80-54ab-be04-d9531f8f95d7/5f7dca1e645b2.image.jpg?resize=400%2C327"
     width: 400
-    height: 225
+    height: 327
     isCached: true
 
 related:
@@ -75,6 +75,20 @@ related:
         width: 549
         height: 309
         isCached: true
+  - title: "Webinar: Transforming Business Models with System Soft Technologies and Microsoft Azure"
+    excerpt: "(GLOBE NEWSWIRE) -- System Soft Technologies (SSTech), a leader in enterprise IT services, solutions and products, today announced the company is making available its recent webinar about how organizations are using Microsoft Azure Cloud Services to enhance their business operations and spur growth during these uncertain economic times."
+    publishedDateTime: 2020-10-07T16:00:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-north-america-products-and-services-abd7775219a08f49fc7dd2b81b837978"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 46
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
     excerpt: "Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce its availability in the Microsoft"
     publishedDateTime: 2020-10-06T13:00:00Z
@@ -104,6 +118,6 @@ related:
         height: 583
         isCached: true
 
-secured: "biedpL5m+rV8x3dlYvWjmSENveznse6/cCyOPsLPL5ATwWEWQNqQw8stYAnChrv92MwDjlOJNlSHSC/7R4fbO6Wco6TD4m9/vfSQDk7IwCm0guVzqfWfuE70YxPgdryZuq+2x5swcymp1pyDP5LkuFv8gw5LuHkDuqhBcJCSAlFzxDPAGPrGBSBcg/Js6oUAvC9jdnBd1weh/0zH2nBxBlwUcELPbWuPMN8sDDmdAWO0OcDsp9GrfVFWUinbPSO9hJbvEHQJzqshccnQe11THouHIgCYMd3o7GCma+98ReDB7j4Cjh3zlAQ44QQjKdpZW1R3zgrUYGoa7Hy89jTaTLjSQpY6gmmvgj9ZTnaIxKs=;uQQNBtSvOFpg2C2BJlgbXQ=="
+secured: "CXoJwPonaTsw/UdxRyjV6znbG07C0LyuvQ2oqvNR5ezwWrFYnIJrWpuGRCa/y/7uqY8sQWYC/AieHVjyC+wheG9j3X7Cf3nc3xsLFwQbXithrUQSw0tKCJfyBpSWfGf1qgcq54darMKkMPSVXd3EfrlZL2Gy+p+SDynIFiwTOyp/czI51OadJzonRWBn97gzxzfPhEDOVl3RUDKJIziNwgkQ5SGS2EYrXOS2V0ObmiJ3YRccSSu3dCADNeQeWKFJPLdnefxc8V5dkyxCZaFKsH7UgY/HyWb1m4ygGlE4f2drXF1lCUhdphoolaaArv4uVUrVhAcdMFraZYt62NZ2rVLaV4iryDijaDSxidYJHNA=;+fjx8THVYgwD9/UeFWfDwA=="
 ---
 

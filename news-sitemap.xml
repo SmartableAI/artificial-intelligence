@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/predicting-defender-trajectories-in-nfls-next-gen-stats/</loc>
+    <lastmod>2020-10-07T10:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/10/07/cbp-expands-facial-recognition-program-to-international-travelers-at-san-francisco-and-san-jose-airports/</loc>
+    <lastmod>2020-10-07T09:56:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://phys.org/news/2020-10-biochip-combines-ai-nanoparticle-cancer.html</loc>
+    <lastmod>2020-10-07T09:42:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-price-reductions-up-to-18-lower-prices-on-ml-p3-and-ml-p2-instances/</loc>
+    <lastmod>2020-10-07T09:34:18-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/johnkoetsier/2020/10/07/synthetic-faces-this-ai-falsifies-reality-in-the-name-of-privacy/</loc>
+    <lastmod>2020-10-07T09:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.entrepreneur.com/article/357378</loc>
+    <lastmod>2020-10-07T09:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://blog.google/inside-google/googlers/fernanda-viegas-ai/</loc>
+    <lastmod>2020-10-07T09:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/konstantinebuhler/2020/10/07/if-steve-jobs-built-an-ai-company/</loc>
     <lastmod>2020-10-07T08:46:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -19,14 +61,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techrepublic.com/article/82-of-people-believe-robots-can-support-their-mental-health-better-than-humans/</loc>
-    <lastmod>2020-10-07T07:13:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406</loc>
+    <lastmod>2020-10-07T06:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406</loc>
-    <lastmod>2020-10-07T06:35:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/sailthru-announces-new-machine-learning-testing-infrastructure-1029657213</loc>
+    <lastmod>2020-10-07T06:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -81,12 +123,6 @@
   <url>
     <loc>https://www.neowin.net/news/researchers-probe-into-rna-using-deep-learning-to-develop-sensors-for-a-covid-19-diagnostic</loc>
     <lastmod>2020-10-07T02:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.voicendata.com/compelled-anand-mahindra-personally-invest-robotics-startup/</loc>
-    <lastmod>2020-10-07T00:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -865,8 +901,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://apnews.com/press-release/pr-newswire/technology-medical-technology-health-artificial-intelligence-computing-and-information-technology-7ebeb192b3437584eac7a740d6619523</loc>
-    <lastmod>2020-09-30T06:30:00-07:00</lastmod>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_health/andor-health-collaborates-with-mentor-to-deliver-next-generation-ai-powered-virtual-experiences-with-microsoft/article_87104374-4495-5f9b-9707-4d6892880d0d.html</loc>
+    <lastmod>2020-09-30T06:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -901,13 +937,13 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://apnews.com/article/virus-outbreak-lung-disease-technology-health-diseases-and-conditions-147f362dbb3541c28e8918e74773bcc3</loc>
-    <lastmod>2020-09-30T05:00:00-07:00</lastmod>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_business/systran-partners-with-ted-to-create-specialized-translation-models-expanding-professional-applications-of-machine-translation/article_2876188d-59c2-5b5d-a412-76b6c422d0af.html</loc>
+    <lastmod>2020-09-30T05:22:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/systran-partners-with-ted-to-create-specialized-translation-models-expanding-professional-applications-of-machine-translation-301141876.html</loc>
+    <loc>https://apnews.com/article/virus-outbreak-lung-disease-technology-health-diseases-and-conditions-147f362dbb3541c28e8918e74773bcc3</loc>
     <lastmod>2020-09-30T05:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1039,7 +1075,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.designboom.com/architecture/bjarke-ingels-group-ai-city-china-artificial-intelligence-terminus-group-09-29-2020/</loc>
+    <loc>https://www.designboom.com/architecture/bjarke-ingels-group-ai-city-china-artificial-intelligence-terminus-group-09-29-2020/?fbclid=IwAR2-9FqvXxBpPJhkVy6N3IZKa4uxGk4pb_zSe-19cABYa1UDxRzTazehYs0</loc>
     <lastmod>2020-09-29T09:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1579,7 +1615,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://variety.com/2020/film/festivals/san-sebastian-zinemaldia-startup-challenge-filmchain-1234783626/#!</loc>
+    <loc>https://variety.com/2020/film/festivals/san-sebastian-zinemaldia-startup-challenge-filmchain-1234783626/</loc>
     <lastmod>2020-09-25T07:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1681,7 +1717,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.businesswire.com/news/home/20200916005883/en/</loc>
+    <loc>https://www.businesswire.com/news/home/20200916005883/en/Lemonade-CFO-Tim-Bixby-to-Present-at-the-Barclays-Global-Financial-Services-Conference</loc>
     <lastmod>2020-09-24T15:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2985,6 +3021,12 @@
   <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/activity-detection-on-a-live-video-stream-with-amazon-sagemaker/</loc>
     <lastmod>2020-09-17T08:59:56-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.fleetowner.com/equipment/article/21140213/waymo-autonomous-trucks-begin-texas-testing</loc>
+    <lastmod>2020-09-17T08:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

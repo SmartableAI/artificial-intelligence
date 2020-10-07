@@ -41,22 +41,6 @@ related:
         width: 2880
         height: 1511
         isCached: true
-  - title: "Applying artificial intelligence to science education"
-    excerpt: "A new review published in the Journal of Research in Science Teaching highlights the potential of machine learning—a subset of artificial intelligence—in science education. Although the ..."
-    publishedDateTime: 2020-10-07T07:24:00Z
-    webUrl: "https://phys.org/news/2020-10-artificial-intelligence-science.html"
-    ampWebUrl: "https://phys.org/news/2020-10-artificial-intelligence-science.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-artificial-intelligence-science.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/science.jpg"
-        width: 1920
-        height: 1264
-        isCached: true
   - title: "New artificial intelligence models show potential for predicting outcomes"
     excerpt: "New applications of artificial intelligence (AI) in health care settings have shown early success in improving survival and outcomes in traffic accident victims transported by ambulance and in predicting survival after liver transplantation."
     publishedDateTime: 2020-10-03T14:05:00Z
@@ -98,6 +82,20 @@ related:
       - url: "https://www.electropages.com/storage/app/media//company-logos/company-logo-Mouser@2x.jpg"
         width: 600
         height: 600
+        isCached: true
+  - title: "Applying artificial intelligence to science education"
+    excerpt: "A new review published in the Journal of Research in Science Teaching highlights the potential of machine learning--a subset of artificial intelligence--in science education."
+    publishedDateTime: 2020-10-07T04:06:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-10/w-aai100520.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 37
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "Qj7E7yPHI5zJbMurqaGlOiEgDTCLwUW0yGs3HZtWy3PafKbtmssznF1j0tQjTyh+xGsbP03ya9OUzR7EHozScdwOZlBYM18lFixh8b6ai/vf6L1FVKAdxoxitwY3kiJxZNxLJf+SNDpXL5aVkWF5fDLZLVhwpPicRBp1LY5uQjI37DLFK68l3Jp52BPnqZneJivK5QsEm2X/eIHPRU0g2PQtMatDWpGiMmHqO7RoXBF/NWWKgXKM+oydcKvnsEpORg3B3NFQcvyGX4ltJTrn+2F1XxarYYG5cSk9ySsW7lI8GaX4p+W6UTMLD+IR/4EhKLk4S2yy14xGJMFaSycJRz0kuw4TAX+LR15zFE1JK4k=;aTJkrkUsHIliA3MQJQKLBw=="
