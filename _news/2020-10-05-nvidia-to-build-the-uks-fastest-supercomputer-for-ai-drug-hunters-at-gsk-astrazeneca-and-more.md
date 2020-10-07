@@ -26,21 +26,53 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia Partners With GlaxoSmithKline to Use AI for Drug Development"
-    excerpt: "Nvidia also is building what it says is the U.K.'s most powerful supercomputer to help research pressing medical challenges."
-    publishedDateTime: 2020-10-05T15:25:00Z
-    webUrl: "https://www.thestreet.com/investing/stocks/nvidia-nvda-glaxosmithkline-gsk-artifical-intelligence"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/stocks/nvidia-nvda-glaxosmithkline-gsk-artifical-intelligence"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/stocks/nvidia-nvda-glaxosmithkline-gsk-artifical-intelligence"
+  - title: "Nvidia Promises The Pervasiveness Of AI And A New Data Center Architecture"
+    excerpt: "Nvidia has developed a new SoC dubbed the Data Processing Unit (DPU) to offload the data management and security functions, which have increasingly become software functions, from the main server CPU to an intelligent Network Interface Card (NIC)."
+    publishedDateTime: 2020-10-07T21:45:00Z
+    webUrl: "https://www.forbes.com/sites/tiriasresearch/2020/10/07/nvidia-promises-the-pervasiveness-of-ai-and-a-new-data-center-architecture/"
+    ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2020/10/07/nvidia-promises-the-pervasiveness-of-ai-and-a-new-data-center-architecture/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/10/07/nvidia-promises-the-pervasiveness-of-ai-and-a-new-data-center-architecture/amp/"
     type: article
     provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://content.jwplatform.com/thumbs/jE9Wm8Nj-720.jpg"
-        width: 720
-        height: 406
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7e2aeb0c6bb2981900699b%2F0x0.jpg"
+        width: 1061
+        height: 739
+        isCached: true
+  - title: "NVIDIA Going After More of Intel's Data Center Business With New Processor Chips"
+    excerpt: "When announcing new artificial intelligence (AI) capabilities developed by his company earlier this year, NVIDIA (NASDAQ:NVDA) CEO Jensen Huang outlined a new type of processor that will become increasingly important in the years ahead: the data processing unit (DPU)."
+    publishedDateTime: 2020-10-05T18:41:00Z
+    webUrl: "https://www.fool.com/investing/2020/10/05/nvidia-going-after-more-of-intels-data-center-busi/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/10/05/nvidia-going-after-more-of-intels-data-center-busi/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/05/nvidia-going-after-more-of-intels-data-center-busi/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 84
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F594099%2Fsemiconductor.jpg&w=1200&op=resize"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Arm CEO Simon Segars discusses AI, data centers, getting acquired by Nvidia and more"
+    excerpt: "Nvidia is in the process of acquiring chip designer Arm for $40 billion. Coincidentally, both companies are also holding their respective developer conferences this week. After he finished his keynote at the Arm DevSummit,"
+    publishedDateTime: 2020-10-06T23:39:00Z
+    webUrl: "https://techcrunch.com/2020/10/06/arm-ceo-simon-segars-discusses-ai-data-centers-getting-acquired-by-nvidia-and-more/"
+    ampWebUrl: "https://techcrunch.com/2020/10/06/arm-ceo-simon-segars-discusses-ai-data-centers-getting-acquired-by-nvidia-and-more/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/06/arm-ceo-simon-segars-discusses-ai-data-centers-getting-acquired-by-nvidia-and-more/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 82
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-924830546.jpg?w=1024"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Nvidia Will Help GSK Find New Drugs, With AI and Supercomputers"
     excerpt: "GSK’s head of AI and machine learning said the Nvidia systems will allow his researchers to search for medicines by poring through vast databases of pathology images and genomic signals."
@@ -58,15 +90,66 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Nvidia Says It’s Building UK’s Most Powerful Supercomputer, Dedicated to AI Research in Healthcare"
-    excerpt: "Nvidia announced today at its GPU Technology Conference (GTC) it is building the United Kingdom’s most powerful supercomputer, which it will make available to U.K. healthcare researchers using AI to solve pressing medical challenges,"
-    publishedDateTime: 2020-10-05T14:11:00Z
-    webUrl: "https://insidehpc.com/2020/10/nvidia-says-its-building-uks-most-powerful-supercomputer-dedicated-to-ai-research-in-healthcare/"
+  - title: "Nvidia outlines 'Age of AI', unveils next-gen data centre chips"
+    excerpt: "Heralding a new age of artificial intelligence (AI), graphics giant Nvidia has introduced next-gen chips for networking, storage and security, along with major announcements in data centres, edge AI,"
+    publishedDateTime: 2020-10-06T07:38:00Z
+    webUrl: "https://www.sify.com/news/nvidia-outlines-age-of-ai-unveils-next-gen-data-centre-chips-news-education-ukgflBgbhfjfg.html"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 22
+      name: Sify.com
+      domain: sify.com
+    quality: 56
+    images:
+      - url: "https://www.sify.com/uploads/nvidia_chip_bluefield2_uj4rUTiabbhch.jpeg"
+        width: 690
+        height: 460
+        isCached: true
+  - title: "NVIDIA Rethinks AI: Next Gen Data Centers, Supercomputers For Healthcare & More at GTC Day 1"
+    excerpt: "NVIDIA is launching Jetson Nano 2GB, the latest addition to the Jetson family. Jetson is an Arm-based System on Chip"
+    publishedDateTime: 2020-10-06T13:38:00Z
+    webUrl: "https://analyticsindiamag.com/nvidia-gtc-2020-top-announcements/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 45
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/gtc-oct-5.jpg"
+        width: 1601
+        height: 1201
+        isCached: true
+  - title: "OSS Presents AI on the Fly® and Data Center in the Sky™ Solutions at NVIDIA’s GPU Technology Conference This Week"
+    excerpt: "One Stop Systems, Inc., a leader in specialized high-performance edge computing, presented its AI on the Fly ® and Data Center in the Sky™ products and solutions at this week’ s GPU Technology Conference,"
+    publishedDateTime: 2020-10-06T13:31:00Z
+    webUrl: "https://www.nasdaq.com/press-release/oss-presents-ai-on-the-flyr-and-data-center-in-the-skytm-solutions-at-nvidias-gpu"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 43
+  - title: "OSS Presents AI on the Fly® and Data Center in the Sky™ Solutions at NVIDIA’s GPU Technology ..."
+    excerpt: "(Nasdaq: OSS), a leader in specialized high-performance edge computing, presented its AI on the Fly® and Data Center in the Sky™ products and solutions at this week’s GPU Technology Conference, a digital event hosted by NVIDIA,"
+    publishedDateTime: 2020-10-06T12:31:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-automobile-parts-manufacturing-f63b0e97cfdbbc2bbef4a46b6f4ebd0b"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 41
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "OSS Presents AI on the Fly® and Data Center in the Sky(TM) Solutions at NVIDIA's GPU Technology Conference This Week"
+    excerpt: "(Nasdaq: OSS), a leader in specialized high-performance edge computing, presented its AI on the Fly ® and Data Center in the Sky™ products and solutions at this week’s GPU Technology Conference, a digital event hosted by NVIDIA,"
+    publishedDateTime: 2020-10-06T12:54:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2020/10/06/oss-presents-ai-on-the-fly-xae-and-data-center-in-the-sky-tm-solutions-at"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 11
 
 secured: "rK1LV4H/Wv0XIqzF3/KQS9ccwGzLQHm0oLZYUe6KoSr4lKHGsinvTzspsY+5NwqCbwbZtv1XhYtZoZGo7RS+lwsKP7GiEKIkGJPa58DguS5GEskuIkP3uTRzlDHJwWnNPL1pABd0hILMCwO+bkSdt2JvUQ6Q3nFcb6OkZXrvfENuoA2rvvO03lkD44W36fw0RnovSzkySLhnmWAZR3mpVeSvOR39IbCDxvi74zk+AxEGCwspsqlt3bTC4fzySvCdvxNULjCmeq8Sev8mB4G/lMlfcObMxKDiVJfrn2JUdrFh5dpxF9Id9OrTVCganhzWx4OuV7bmxYvX9aF3ctZpIA4N1/VKgxzmQ2GNXxVEe2CcikZYNuhOKgcXpL3q5mAGIfoYSPCXDA36NNr9Jj8m7MNybEoQm0lEg9q4t1aK/TWQr/Kjx1a1Ma1kcAMGxZVbfmVp5zHcZMl32pLWng6WVEmEULOVYS05kO0w7H3Km8Bmpg4NedNT+ZDXIziRzKpK9VdmFZJFNrbOVEAlD+Wjyg==;w4wuFjKPsECSRLLdhh1R/A=="
 ---

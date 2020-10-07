@@ -41,6 +41,15 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Dhananjay Mungale joins Singapore-based Atlantis FinTech's advisory board"
+    excerpt: "Bengaluru (Karnataka) [India] (ANI/NewsVoir): Singapore-headquartered financial technology company Atlantis today announced Dhananjay Mungale has joined its advisory board. Mungale sits on the boards of select public and private limited companies including Mahindra and Mahindra Financial Services,"
+    publishedDateTime: 2020-10-07T07:41:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20201007/3637949.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 3
 
 secured: "2MEiqNLk7ZQL0oK8LP/sZmAKJ7UiEB6zP81i17WB6gTppxNSpbuHO1WlHqp513opWGYkaW7I5w/E4ucAWCn5+pZNs1WKNdh54HaohIrIB82qOVixa9usg/Y2E89VbN99PPviHCabv5C77Gt0FXLCsdK9VL55VIoehzlwzhTBj3G0vroRxo0Tpam5iYFj+W+YdI/06Thw+NBwKbh6WWOHOejmA/+LtQiodC3Y8XdVq0shoElhMAj50ks2wCH85rUmj6GLHP2MguysqcGJfbATbrP/QSWpupLuIhbtp1wBiDdoyiIfTvArCZIt4zJJasbRbAHQX2/w9ybOEtaNEwA1rDcCgWO5FD2LtV0Cv/eNOLireI9lu1T+dQr5dSnbciQIoMgnTNIjdLxRstMaSvjMhf4t9Od7fz5sTvBUnjmtUhdrwimdHFpA/C0IEDnm+YWkwHYQmMemqpz1YDCXhQETckW/we4BddcExgKcG7jUsdsnekBu/eVtrpCMeIu97KwOGK7QTZ8T4xPMDmz8anMO5Q==;Cl+nf1rtxylfK0+2BN2hAQ=="
 ---

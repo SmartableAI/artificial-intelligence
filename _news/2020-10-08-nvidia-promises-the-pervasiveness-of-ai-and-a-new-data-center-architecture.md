@@ -1,48 +1,36 @@
 ---
 category: news
-title: "Nvidia Will Help GSK Find New Drugs, With AI and Supercomputers"
-excerpt: "GSK’s head of AI and machine learning said the Nvidia systems will allow his researchers to search for medicines by poring through vast databases of pathology images and genomic signals."
-publishedDateTime: 2020-10-05T12:34:00Z
-originalUrl: "https://www.barrons.com/articles/nvidia-gsk-supercomputers-computational-drug-discovery-51601904692"
-webUrl: "https://www.barrons.com/articles/nvidia-gsk-supercomputers-computational-drug-discovery-51601904692"
-ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-gsk-supercomputers-computational-drug-discovery-51601904692"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-gsk-supercomputers-computational-drug-discovery-51601904692"
+title: "Nvidia Promises The Pervasiveness Of AI And A New Data Center Architecture"
+excerpt: "Nvidia has developed a new SoC dubbed the Data Processing Unit (DPU) to offload the data management and security functions, which have increasingly become software functions, from the main server CPU to an intelligent Network Interface Card (NIC)."
+publishedDateTime: 2020-10-07T21:45:00Z
+originalUrl: "https://www.forbes.com/sites/tiriasresearch/2020/10/07/nvidia-promises-the-pervasiveness-of-ai-and-a-new-data-center-architecture/"
+webUrl: "https://www.forbes.com/sites/tiriasresearch/2020/10/07/nvidia-promises-the-pervasiveness-of-ai-and-a-new-data-center-architecture/"
+ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2020/10/07/nvidia-promises-the-pervasiveness-of-ai-and-a-new-data-center-architecture/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/10/07/nvidia-promises-the-pervasiveness-of-ai-and-a-new-data-center-architecture/amp/"
 type: article
-quality: 59
-heat: -1
-published: false
+quality: 87
+heat: 177
+published: true
 
 provider:
-  name: Barron's
-  domain: barrons.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Hardware
+  - Microsoft AI
   - AI
 
 images:
-  - url: "https://images.barrons.com/im-240586/social"
-    width: 1280
-    height: 640
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7e2aeb0c6bb2981900699b%2F0x0.jpg"
+    width: 1061
+    height: 739
     isCached: true
 
 related:
-  - title: "Nvidia Promises The Pervasiveness Of AI And A New Data Center Architecture"
-    excerpt: "Nvidia has developed a new SoC dubbed the Data Processing Unit (DPU) to offload the data management and security functions, which have increasingly become software functions, from the main server CPU to an intelligent Network Interface Card (NIC)."
-    publishedDateTime: 2020-10-07T21:45:00Z
-    webUrl: "https://www.forbes.com/sites/tiriasresearch/2020/10/07/nvidia-promises-the-pervasiveness-of-ai-and-a-new-data-center-architecture/"
-    ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2020/10/07/nvidia-promises-the-pervasiveness-of-ai-and-a-new-data-center-architecture/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/10/07/nvidia-promises-the-pervasiveness-of-ai-and-a-new-data-center-architecture/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7e2aeb0c6bb2981900699b%2F0x0.jpg"
-        width: 1061
-        height: 739
-        isCached: true
   - title: "NVIDIA Going After More of Intel's Data Center Business With New Processor Chips"
     excerpt: "When announcing new artificial intelligence (AI) capabilities developed by his company earlier this year, NVIDIA (NASDAQ:NVDA) CEO Jensen Huang outlined a new type of processor that will become increasingly important in the years ahead: the data processing unit (DPU)."
     publishedDateTime: 2020-10-05T18:41:00Z
@@ -74,6 +62,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-924830546.jpg?w=1024"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Nvidia Will Help GSK Find New Drugs, With AI and Supercomputers"
+    excerpt: "GSK’s head of AI and machine learning said the Nvidia systems will allow his researchers to search for medicines by poring through vast databases of pathology images and genomic signals."
+    publishedDateTime: 2020-10-05T12:34:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-gsk-supercomputers-computational-drug-discovery-51601904692"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-gsk-supercomputers-computational-drug-discovery-51601904692"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-gsk-supercomputers-computational-drug-discovery-51601904692"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 59
+    images:
+      - url: "https://images.barrons.com/im-240586/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Nvidia outlines 'Age of AI', unveils next-gen data centre chips"
     excerpt: "Heralding a new age of artificial intelligence (AI), graphics giant Nvidia has introduced next-gen chips for networking, storage and security, along with major announcements in data centres, edge AI,"
@@ -150,6 +154,6 @@ related:
       domain: stockhouse.com
     quality: 11
 
-secured: "vQz6XkESKAM4QLxipW8hBSneextVF4wG6Ws8kzB+TMLta/n+NLUXO8J6itlPqFq8GCYxMaLsqkNgmSGBLRsWjgsnvDvZAKBum33yixeyuxahBv8dZyTqqJE1ukRCLHp/IGYzigL3D65ApdUHqM7F47RkjrVgDz0tLFgKCnh4jNA/BhccTv4roYUeKFzCCwb2lxE8EqJpqDs/NkwPqwC4+oTTGzhyupTMrFfHemO7GZc4kxLY+E40WbokNK1k4rPHhD6PnKcbS3I3PzFsy481i1HSzZcPit81Q8FI27mTK2jsNaLJM2MxxRBdTkby1uqGwEoIBO9J922joYgJMKGQObZoltXV6qzfXruM50rpp4T6Ry8DNTuuMTGG9Uozf431yCXzMeWe/F29EVGjX+7unjy047yO2T7oCMBWNrmwLDKMgFw9gYCgsecP3rba2QQOyhBYsybenhILIBm9H4G056WR6OYIWaAB/nTwGXKddIuRdsmKlxwfhQ7bumIrOsQt9rK3XJiStBzHeM3XabtYtQ==;iJfLVlmj3E+7Ck/0Ez25dw=="
+secured: "JZuk13MXlob7RL+hT7QZqbB/y5wO0gf0oS8AW4hW6Z0PkUxu6sq/nR1zdseXM1r55WssB3GSd2zpZiBsaBIPRiYr/uIsbUavpPBnpVozWl9ALKcNEnAdQ/nrTAVbGwBBAIY7QqzkiXm1DhLxcR0yFQwD2U3HpjTlV0OF2TNRpp+KLehmhnsaKodDr+5q1Qz4TRE0FLXDrWyHU38nY4nt7rz/WnoO7Z6GUWH9aQn6JC8usL3qDq3fxQQQ/1gG0V97DLNeB14ylyrx5bDEIq6q6K83q8vYSosWjrls6ODsubGiR9AhA88KwN825GRABH2krJF+WgVXJQjfDKITRBMqDHufjBGIvtATrVcIu5Sf/1g=;edZg1/7g1KGo8DjKoi0aSQ=="
 ---
 

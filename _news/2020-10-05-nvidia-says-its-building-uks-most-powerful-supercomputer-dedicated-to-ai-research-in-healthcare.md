@@ -36,36 +36,6 @@ related:
         width: 720
         height: 406
         isCached: true
-  - title: "Nvidia Will Help GSK Find New Drugs, With AI and Supercomputers"
-    excerpt: "GSK’s head of AI and machine learning said the Nvidia systems will allow his researchers to search for medicines by poring through vast databases of pathology images and genomic signals."
-    publishedDateTime: 2020-10-05T12:34:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-gsk-supercomputers-computational-drug-discovery-51601904692"
-    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-gsk-supercomputers-computational-drug-discovery-51601904692"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-gsk-supercomputers-computational-drug-discovery-51601904692"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
-    images:
-      - url: "https://images.barrons.com/im-240586/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Nvidia to build the UK’s fastest supercomputer for AI drug-hunters at GSK, AstraZeneca and more"
-    excerpt: "Through a new partnership with GlaxoSmithKline, AstraZeneca and the U.K.’s National Health Service, the chip maker Nvidia plans to build Great Britain’s most powerful supercomputer—and dedicate it to artificial intelligence research in healthcare."
-    publishedDateTime: 2020-10-05T15:40:00Z
-    webUrl: "https://www.fiercebiotech.com/medtech/nvidia-to-build-cambridge-1-uk-s-fastest-supercomputer-for-ai-drug-hunters-at-gsk"
-    type: article
-    provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 29
-    images:
-      - url: "https://qtxasset.com/fiercebiotech/1601908768/EMBEDDED_1.jpg/EMBEDDED_1.jpg?ux9x6vsZuUuGdOJ1he6qhKtRVmPzeKgr"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "QhalrNZaQgPQ3DFh9DWU0yOofKQ2DBxc6X2Z3eqTnkhRAcfAE7TNXEMOB+YiPygXhhCJdguHUJZ/GV92nTOH7vqQ9NsmeZfjHONu/V1OurJG5NyP4u7lp0AuntHHawHcOthCz2izd6fBsudl2Bcp2rkaY7T3aW+d0YJ4bbEem9lyb1MZHFqxeael8HTyJdwBbrAvX0pAwlb/+4QNJBQxMMdzCCP3FD1sDvlZpp/kBbhRmtCkHoOlSgabO5TzW1m+qIMjx12yvGRcfE4TMSBAwUSajd/zE9Rxopy4SPlj+cD3YxlwejaR07b1mjzUPLSpJg16PPM1oGRbnP1Cs+aWPsmBIQxK6utb1fMRrFS9OiY=;rAOnbXUMpafX+d40LO2FKg=="
 ---

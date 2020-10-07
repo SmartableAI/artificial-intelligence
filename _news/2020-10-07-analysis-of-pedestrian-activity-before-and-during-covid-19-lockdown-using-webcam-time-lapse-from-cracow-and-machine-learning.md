@@ -3,8 +3,8 @@ category: news
 title: "Analysis of pedestrian activity before and during COVID-19 lockdown, using webcam time-lapse from Cracow and machine learning"
 excerpt: "To increase transparency, PeerJ operates a system of 'optional signed reviews and history'. This takes two forms: (1) peer reviewers are encouraged, but not required, to provide their names (if they do so, then their profile page records the articles they ..."
 publishedDateTime: 2020-10-06T17:36:00Z
-originalUrl: "https://peerj.com/articles/10132v0.1/reviews/2/"
-webUrl: "https://peerj.com/articles/10132v0.1/reviews/2/"
+originalUrl: "https://peerj.com/articles/10132v0.2/reviews/1/"
+webUrl: "https://peerj.com/articles/10132v0.2/reviews/1/"
 type: article
 quality: 0
 heat: 0
@@ -18,6 +18,6 @@ topics:
   - Machine Learning
   - AI
 
-secured: "L//9zzFSBYD4FbLz2G7Kii6nC8ngeptBUIUoig40wsCh6LayOqulOiP99boy8KFthssvIJccy3r6m/AZw5lgiy4Gfmmtx4uhesSdbtAyHgHEzRq/Mi1IyjbvPiqERAGcTPyW2jrWvErEDgoGJ9cPONSxHhuoKLVdpUH3KtgIofQ6RjBrC+Qj08M/JrzpdTTSsHJPAWM2JKRxHPBKDSa00dsOc3v8sCHmH7/RlQE+JCV5OYCUFv9isoH1CEdRVxT8NrNryeiC/YQORJkPhl7RHphbuP7SUqML/fn8ownvhC30OnXG7PTRAxKKiuI0f0EGMh3Cgkb3U6ma9fDz+4qoSegjdJCRS4PCh0t2HV1V61s=;B6gl9LBNi2NwU9npCJgwCA=="
+secured: "v6iDGNv3vcKwNuaW+wQE2+yDjHxJGg6T+v8Vi4U7tFG11wsfLZKAZEt8iuWQtv3J66R0h9R843cUKM+4sIzWHwgvxoVbFqGJz1MfpAPYYvMyhl/bfRYH82AR8uSljNk7a+eb+APnEwZhXVmRmHTq2OzfcbzblMG0q0yApKnOuv7qYGTRpp7OFN0CSuZJsVBWNHYu87UnYmwKW0gL7MYux8mZed5LMLF9OdLX69FhQaVn4FgDwOHeAdWn4h5m6vufKB70ee16AqLPBr1svgSmw1b1tgZuqInexfjIP4aFGt10cMg017FUQeGGFlaH3W9Z8ex20SR0r4mUa07ZK2tzLQoftuIKcGWemq9HDaxWWsY=;t6DdBM9KP74DRSaZITR42Q=="
 ---
 
