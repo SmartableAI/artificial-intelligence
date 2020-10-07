@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/nvidia-introduces-ampere-based-rtx-a6000-
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/nvidia-introduces-ampere-based-rtx-a6000-gpu-for-professionals/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Nvidia price target boosted ahead of GPU event"
-    excerpt: "GPU conference kicks off on October 5, and Wedbush analyst Matt Bryson raises the company's price target from $525 to $600 ahead of the positive catalyst.Bryson expects \"an unabashedly positive presentation\" that highlights \"strong demand (rather than any supply constraints) as the primary factor in ongoing shortages of new consumer GPUs."
-    publishedDateTime: 2020-10-02T13:17:00Z
-    webUrl: "https://seekingalpha.com/news/3619385-nvidia-price-target-boosted-ahead-of-gpu-event"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
 
 secured: "Uw7uS2gWykzPckliXIvQyH/lBmKV2dekKXzaGxSniPkOVWIlrasbYKe7gbG1OYvzSsKT6DxCA9pOF27Q6q70bmSLCLPNBMMiZYMdVO4UIWa2VGiR3Xo+WvzQwvkVN0w9Xh4lQN523oe43U+dHwrOS29hilK6GOyRdFZPi8uANGlGY4UWP+VgqOiuZhcVk6M2QjiEj7ftngjuigL6+/Jcjy9dfWJ8z1sXl9w5VByO0cDEkoc0ftZzcoJK5K8B3wNMtexLciQKLbdB2N9ftUkasptpKB/P4Zl+10SWiGG5BRAdqBcwI1Z8G5ICYrflzgQ4GVW8/InauKgjuaS2L9Me5a7r8QyiZKh2WrEW8oeW9/Vij1FgIK/vnR54HD99d8Xq0whGvmLbqvRtvp3zyDf8eMFIwTS5L2VYiglqkQ1wo4ocC31xqpOY01EqD/+2Qj7YEY0CPzXGlX15fR2gZym2NdGXm7Yc5Ce2d9NoNVbyQ8pqHtdAA2yYUCXClKJgO1i60y03qspKK+1dq4TPxW555Q==;9CGUETs3QkFTn0D5tKcSKg=="
 ---

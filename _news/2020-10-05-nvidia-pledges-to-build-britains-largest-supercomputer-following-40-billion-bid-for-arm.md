@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/10/05/nvidia-pledges-to-build-britains
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/05/nvidia-pledges-to-build-britains-largest-supercomputer.html"
 type: article
 quality: 148
-heat: 208
+heat: 218
 published: true
 
 provider:
@@ -87,6 +87,20 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/nvidia-dgx-superpod_630x.jpg"
         width: 630
         height: 307
+        isCached: true
+  - title: "Nvidia building AI supercomputer for Medical research after acquiring ARM"
+    excerpt: "Nvidia announced recently that it was building the most powerful supercomputer in the UK’s history which will be dedicated for research in health."
+    publishedDateTime: 2020-10-07T07:46:00Z
+    webUrl: "https://www.techjuice.pk/nvidia-building-ai-supercomputer-for-medical-research-after-acquiring-arm/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 38
+    images:
+      - url: "https://cdn.techjuice.pk/wp-content/uploads/2020/10/nvidiaarm.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "LiU to Build Sweden’s Largest Supercomputer for AI"
     excerpt: "The Knut and Alice Wallenberg Foundation has donated SEK 300 million (USD ~33.6 million) to Linköping University and the National"

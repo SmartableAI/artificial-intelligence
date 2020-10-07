@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lianeyvkoff/2020/10/06/this-startup-has
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lianeyvkoff/2020/10/06/this-startup-has-a-plan-to-build-the-missing-link-for-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -88,20 +88,6 @@ related:
       - url: "https://www.dcvelocity.com/ext/resources/images/articles/2020/202010/Seegrid-MediaKit-Image2-1.jpg?height=635&t=1602009585&width=1200"
         width: 4649
         height: 2615
-        isCached: true
-  - title: "Thatcham Research, Euro NCAP Introduce Grading System For Self-Driving Cars"
-    excerpt: "Thatcham Research and Euro NCAP have launched what they’re touting as the world’s first grading system for self-driving vehicles “to give motorists the crucial insight they need to understand how to use today’s assisted-driving technology safely."
-    publishedDateTime: 2020-10-02T13:23:00Z
-    webUrl: "https://www.aftermarketnews.com/thatcham-research-euro-ncap-introduce-grading-system-for-self-driving-cars/"
-    type: article
-    provider:
-      name: After Market News
-      domain: aftermarketnews.com
-    quality: 22
-    images:
-      - url: "https://s19538.pcdn.co/wp-content/uploads/2020/10/Mercedes-Self-Driving.jpg"
-        width: 600
-        height: 300
         isCached: true
 
 secured: "BcgctUe8H6XklJzHkNiClsST1gEJ9KSuGuPu7C9NlxmSrhZv7P3HVTE5ooJN0UJ5IIJpCmuse9h5csT2kJc1QBCgYo4LQNtS+qcWBAZ4j/VwlD15NlHtIwDHft4943kRvCbXHDgnOS1lnx7UKx3MKk/uApotHcDXPcqNw1hhQhAW8DFBO72KQEGypHxAwizX+xYx2ra+QXweSRcmWQylERac0y/MLV+Gf/eerO2IU/nJyCvGUbH7s4jpMOdqqGxk4X0Q91cYAaKvRfvKQ9Nt0otQp3V11fcaGSmQFUI1VcKpf7imOItFf+mjA0nnQT11tEADMjEFzi5Tg6lgxNdFN8rBxbfajNcGSUl/aLCEZM9p8hZWaDRyE+5pvlM0UM3yk9RuXZ5l99+HzHxHgSibnsubJtxo+ZBaXZ5/lIHI5RMZMXbGAe44+3EYjRWIF3fs/Xwo1cEqbdVlNra7Vs7Q46kLmKEVidPZn+x33FU7D08GGMM7n2+O0QrU1nFRmMf43ShkSEo0Gjzt8swAEJ+Uqg==;GVwHVp98U5x62p8ZZQqp9g=="

@@ -55,6 +55,22 @@ related:
         width: 2880
         height: 1511
         isCached: true
+  - title: "Applying artificial intelligence to science education"
+    excerpt: "A new review published in the Journal of Research in Science Teaching highlights the potential of machine learning—a subset of artificial intelligence—in science education. Although the ..."
+    publishedDateTime: 2020-10-07T07:24:00Z
+    webUrl: "https://phys.org/news/2020-10-artificial-intelligence-science.html"
+    ampWebUrl: "https://phys.org/news/2020-10-artificial-intelligence-science.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-artificial-intelligence-science.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/science.jpg"
+        width: 1920
+        height: 1264
+        isCached: true
   - title: "New artificial intelligence models show potential for predicting outcomes"
     excerpt: "New applications of artificial intelligence (AI) in health care settings have shown early success in improving survival and outcomes in traffic accident victims transported by ambulance and in predicting survival after liver transplantation."
     publishedDateTime: 2020-10-03T14:05:00Z
@@ -69,19 +85,19 @@ related:
         width: 1440
         height: 756
         isCached: true
-  - title: "Applying artificial intelligence to science education"
-    excerpt: "A new review published in the Journal of Research in Science Teaching highlights the potential of machine learning--a subset of artificial intelligence--in science education."
-    publishedDateTime: 2020-10-07T04:06:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-10/w-aai100520.php"
+  - title: "AI IN BANKING: How forward-looking banks are using maturing AI solutions to design both customer- and employee-facing innovations"
+    excerpt: "This report identifies AI use cases transforming the way FIs operate, the business impact of those use cases, and real-world examples of each."
+    publishedDateTime: 2020-10-06T18:48:00Z
+    webUrl: "https://www.businessinsider.com/ai-in-banking-report-2020"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
     images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+      - url: "https://i.insider.com/5e616b4dfee23d6e9e10f232?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
   - title: "The future for AI and enterprise looks bright"
     excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."

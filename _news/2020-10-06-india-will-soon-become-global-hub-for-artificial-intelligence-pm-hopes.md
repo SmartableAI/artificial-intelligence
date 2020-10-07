@@ -41,6 +41,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Industry leaders’ opinion on PM Modi’s call to make India a hub for artificial intelligence"
+    excerpt: "PM Minister Narendra Modi said at the RAISE 2020 event that he saw tremendous opportunity for artificial intelligence in the country"
+    publishedDateTime: 2020-10-07T06:54:00Z
+    webUrl: "https://www.dqindia.com/industry-leaders-opinion-pm-modis-call-make-india-hub-artificial-intelligence/"
+    ampWebUrl: "https://www.dqindia.com/industry-leaders-opinion-pm-modis-call-make-india-hub-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/industry-leaders-opinion-pm-modis-call-make-india-hub-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 49
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2019/07/artificial-intelligence.jpg"
+        width: 566
+        height: 400
+        isCached: true
 
 secured: "llQDGsz2sYv5HnFsJjfzLpg1JvEyYOVlAMS3hC1GGTPKx6xFH4JEdfxQpeoay4VMxL052sBBE8wa3kEagce43vJW9KZ2LYDmYWwNBmnyx7IYJ6gXLSDkewOVYhZYhF3rcw6bAY31r0dPk3LNc20KfcnH2WAVKrWf+9KuO6O4i1KHnhmJHNphmQhQe/zvY0r/Yiz/PJt6SVHHI3CSYe8CQPyCs+SqL9vee2YRU/PR73iyPB27T079cn8/92BzBowtXoo6wqj00Ie1K5LDHKrV/gP8qpsB16jy6wcG753Eb5kL4i/4qW7DgiLIDeV+bJn0VbnQmValG2S0ng0GRGFfGRa8Hoslhk+Fu1g/xO7RUZQ=;palghttMicr+2fyhH5CHog=="
 ---

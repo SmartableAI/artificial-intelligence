@@ -35,6 +35,22 @@ related:
         width: 1000
         height: 750
         isCached: true
+  - title: "The Fight for Free Speech"
+    excerpt: "Once leftists have gained power via free speech, as they have in most of our colleges and universities, free speech becomes a liability."
+    publishedDateTime: 2020-10-07T07:04:00Z
+    webUrl: "https://www.dailysignal.com/2020/10/07/the-fight-for-free-speech/"
+    ampWebUrl: "https://www.dailysignal.com/2020/10/07/the-fight-for-free-speech/amp/"
+    cdnAmpWebUrl: "https://www-dailysignal-com.cdn.ampproject.org/c/s/www.dailysignal.com/2020/10/07/the-fight-for-free-speech/amp/"
+    type: article
+    provider:
+      name: The Daily Signal
+      domain: dailysignal.com
+    quality: 44
+    images:
+      - url: "https://www.dailysignal.com/wp-content/uploads/GettyImages-1138138146-scaled.jpg"
+        width: 2560
+        height: 1331
+        isCached: true
   - title: "Fight for free speech as vital now as in history"
     excerpt: "The violence, looting and mayhem that this nation has seen over the last several months has much of its roots in academia, where leftist faculty teach immature young people all"
     publishedDateTime: 2020-10-07T04:15:00Z

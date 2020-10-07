@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/news/india/want-india-to-become-global-hub-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/want-india-to-become-global-hub-for-artificial-intelligence-pm-modi/amp-11601912327145.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Mint
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Industry leaders’ opinion on PM Modi’s call to make India a hub for artificial intelligence"
+    excerpt: "PM Minister Narendra Modi said at the RAISE 2020 event that he saw tremendous opportunity for artificial intelligence in the country"
+    publishedDateTime: 2020-10-07T06:54:00Z
+    webUrl: "https://www.dqindia.com/industry-leaders-opinion-pm-modis-call-make-india-hub-artificial-intelligence/"
+    ampWebUrl: "https://www.dqindia.com/industry-leaders-opinion-pm-modis-call-make-india-hub-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/industry-leaders-opinion-pm-modis-call-make-india-hub-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 49
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2019/07/artificial-intelligence.jpg"
+        width: 566
+        height: 400
+        isCached: true
   - title: "India will soon become global hub for Artificial Intelligence, PM hopes"
     excerpt: "Prime Minister Narendra Modi on Monday hoped that India will soon become a global hub for Artificial Intelligence and many more Indians will start working on this, in the times to come."
     publishedDateTime: 2020-10-05T17:03:00Z

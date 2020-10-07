@@ -172,20 +172,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Arize AI Joins NVIDIA Inception Program"
-    excerpt: "Arize AI, today announced it has joined the NVIDIA Inception program, which is designed to nurture startups revolutionizing industries"
-    publishedDateTime: 2020-10-02T15:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/arize-ai-joins-nvidia-inception-program-301144741.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1276605/Arize_AI_Logo.jpg?p=facebook"
-        width: 2696
-        height: 1414
-        isCached: true
   - title: "NVIDIA Announces Cloud-AI Video-Streaming Platform to Better Connect Millions Working and Studying Remotely"
     excerpt: "NVIDIA today announced the NVIDIA Maxine platform, which provides developers with a cloud-based suite of GPU-accelerated AI video conferencing software to enhance streaming video— the internet’ s No."
     publishedDateTime: 2020-10-05T14:00:00Z

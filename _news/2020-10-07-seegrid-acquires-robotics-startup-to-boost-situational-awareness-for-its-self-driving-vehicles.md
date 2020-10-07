@@ -86,20 +86,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Thatcham Research, Euro NCAP Introduce Grading System For Self-Driving Cars"
-    excerpt: "Thatcham Research and Euro NCAP have launched what they’re touting as the world’s first grading system for self-driving vehicles “to give motorists the crucial insight they need to understand how to use today’s assisted-driving technology safely."
-    publishedDateTime: 2020-10-02T13:23:00Z
-    webUrl: "https://www.aftermarketnews.com/thatcham-research-euro-ncap-introduce-grading-system-for-self-driving-cars/"
-    type: article
-    provider:
-      name: After Market News
-      domain: aftermarketnews.com
-    quality: 22
-    images:
-      - url: "https://s19538.pcdn.co/wp-content/uploads/2020/10/Mercedes-Self-Driving.jpg"
-        width: 600
-        height: 300
-        isCached: true
 
 secured: "Len6blOGGczS9jRJ7Uv32RKXeULgcjaQxXnqGTFheupBLKRoWuM7181ss5tJNi6/jYzsGq+p/n2BmQHtKKW+rXO4Q3NdWuew3q262wO8HkJr0jL5PLzXcvcwRtyOetr38cElD1F4kVE9Jne7RwcQNGEdzi8RzehqnBwKT8ThXZcreT9+HWFCbVppMUSpOfP3VBgY2bhq464/QgJBM9YlSv/iWHJBJjDnQFFpnlHUQii6PtJ5/3ouOOOpMWK8w8XC3Ue3eSksofgtAcUfXTyt3NMwChAD0sr6VFSN9ce4ud5sh00ZqdmVfycFB9pDl91jl+zKa7TxGOpkmbuYsolOSvYcojOLQ24RJenpMpD0xGY=;nCY4mAyFk6/D32WJZYvyrw=="
 ---

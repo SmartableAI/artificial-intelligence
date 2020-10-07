@@ -1,14 +1,11 @@
 ---
 category: news
 title: "Lilt to provide connectors to popular translation management systems"
-excerpt: "Lilt, an AI-powered language service provider, announced that it now natively integrates with popular translation management systems (TMS) including SDL TMS, SDL Worldserver, XTM Cloud, and Smartling."
-publishedDateTime: 2020-10-02T14:30:00Z
-originalUrl: "https://www.kmworld.com/Articles/News/News/Lilt-to-provide-connectors-to-popular-translation-management-systems-143169.aspx"
-webUrl: "https://www.kmworld.com/Articles/News/News/Lilt-to-provide-connectors-to-popular-translation-management-systems-143169.aspx"
+excerpt: "Lilt, an AI-powered language service provider, announced that it now natively integrates with popular translation management systems (TMS) including SDL TMS, SDL Worldserver, XTM Cloud, and Smartling. These new connectors allow customers to streamline the ..."
+publishedDateTime: 2020-10-02T14:16:00Z
+originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=143169"
+webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=143169"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
   name: KMWorld Magazine
@@ -24,6 +21,6 @@ images:
     height: 594
     isCached: true
 
-secured: "X9b2WybmhPA++ba6bYSUeoOc2ysVGPIi0UKLp7R4jdzRERRl7IZXsqxg8a3KARSUPyKF5pObEP1m0AtyTZIqEeZaqSk8op9IMfT9HbZeErzoCePTegrvHVti+bTTIvW6URswOUCP3t1BIlZC/ELEIbvtaxN80MEz0cDog9SaW7dIX63gvHU3lTm0KbM/8xW/4xyMJQKiRS45O+poVV4Z+4qdqKHLQctT+zHwZWiS9LgkcuA0lS26gZk/vNI0ENvaZBBEdxz8ijt7YU9f+qANzDodJjIgczu5UTX+LbWq0y40mHH+2q4P2dPCi6EX9iWNFM/0/alaLhwSwxmbFGqXGMcP2CqWtFGoezWaKEjvbdA=;PCGQDvp3OFT5+Ykpkv6fNg=="
+secured: "A+GzRibPLbfW/7O+uAgnvxWf1l6/cwP5UEJouhBXNyz+ELeSnpx0tmQGrhb16UuMuinHg2F2QSu4Am63QseINrIQ74U2XUkb03XM7Gs8iHvVswndhbK218d97Gba2Omb/zt4YUk9SpzOTp5kgXYGm0rKlKjoRUfYKh7PXqaaUfbQkk0+j5+Ste/dTKnrWfL8m452RaECVkMfei8B3wXfINCcFCT31rXk/iOypcNltgKv2LKnILL87z1jEYOEAt11ohSPei9aYBiDMaeKsF5LUFF+xFexQFzGHX103l3XRhrx4pRKXzfVoRXLQI1AVA8onxiZ11JMhwpzc2KufnraYMChh5FP7vuvYYAjQlWAtsw=;C+3eEWb2uJ212e0XM7jXkA=="
 ---
 

@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Applying artificial intelligence to science education"
-excerpt: "A new review published in the Journal of Research in Science Teaching highlights the potential of machine learning--a subset of artificial intelligence--in science education."
-publishedDateTime: 2020-10-07T04:06:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-10/w-aai100520.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-10/w-aai100520.php"
+excerpt: "A new review published in the Journal of Research in Science Teaching highlights the potential of machine learning—a subset of artificial intelligence—in science education. Although the ..."
+publishedDateTime: 2020-10-07T07:24:00Z
+originalUrl: "https://phys.org/news/2020-10-artificial-intelligence-science.html"
+webUrl: "https://phys.org/news/2020-10-artificial-intelligence-science.html"
+ampWebUrl: "https://phys.org/news/2020-10-artificial-intelligence-science.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-artificial-intelligence-science.amp"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/science.jpg"
+    width: 1920
+    height: 1264
     isCached: true
 
 related:
@@ -68,6 +70,20 @@ related:
         width: 1440
         height: 756
         isCached: true
+  - title: "AI IN BANKING: How forward-looking banks are using maturing AI solutions to design both customer- and employee-facing innovations"
+    excerpt: "This report identifies AI use cases transforming the way FIs operate, the business impact of those use cases, and real-world examples of each."
+    publishedDateTime: 2020-10-06T18:48:00Z
+    webUrl: "https://www.businessinsider.com/ai-in-banking-report-2020"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+    images:
+      - url: "https://i.insider.com/5e616b4dfee23d6e9e10f232?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "New intelligent revolution series explores cutting-edge applications in AI"
     excerpt: "The Next Wave in Life Sciences', the first eBook from The Intelligent Revolution series. In the new eBook, experts from the company and the life science industry explore cutting-edge applications for AI in areas including flu prevention,"
     publishedDateTime: 2020-10-05T10:46:00Z
@@ -97,6 +113,6 @@ related:
         height: 800
         isCached: true
 
-secured: "n++QrwUdQD/EJkJmiwUxf6Cur+CDBuDT44XkXTztV3oyDUGpBFxP+Vz2fmH1Zml7uKZDHqkLSUUd6hzYHeymwMM7uH8eCTzwP3LLZ7iiKKctWoeU+RgJni366M2mZ3wVflVSUsETHYqOgJGPKQxEO36FNXNngsUwUKZIhk+GAHWoW7/y35tI0m/e0u8kLBouu2B4vvGR2Zf3BLthbGhxbwGUMV9Jnwzt0PY+Ids44Dg3mfoAOYuaLgmbdVZrN18AY1XB1Yl8I1VflMbJGRjiz3Q2MwQfdBa54lwB0wCoDOWU5HI/xUKL3PmaqNLaKR5IdlQyX+Sls7qYuFxcW1m6g7StjJAif2XcxwCQS01PB5c=;BOrBd69sPJsNudEqJ3HkWw=="
+secured: "VbgWxxu1Wadut2lXdLFlVeeHrwzUc2Ao3CLb85ZnHo1ekS05Czedas/HpomM+VaHpfvHQTiHwZiDTRgpI6bLTrn/VMwNVlMCU5oc23KpQNyCwOkZO9Uu2S3EhTAahOhrOhxPzO2SdkZ9g8Q4NHw4Ft5SvRKsSMJpuMq2qgX90MFkaZcKVHaEk1782zwTyUAbSvFDPfsStWlguZYUOb1sQmQNuizHN4ilgOaBzOQpfrwjjeqNrQfMYvIB+eR10j62kipv1lq3tdVRlX4PYWzCqC+NZXhuCw69yTPDyzbYAYK/lvRUjKijpLuWKgxWOoY5H+/3Rw1ZILq6YG59vKsGce0NWvxkC5eXSMByBjqNmNY=;uaM70MlMzZpUsP0kDsvx1Q=="
 ---
 

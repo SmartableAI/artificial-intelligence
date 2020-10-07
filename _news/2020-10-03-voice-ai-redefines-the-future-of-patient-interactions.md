@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Three best practices for how banks can get the most out of investments in AI innovations"
-    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since AI in banking is entering the mainstream as financial institutions start incorporating AI solutions into their businesses: A majority of financial services ..."
-    publishedDateTime: 2020-10-02T13:48:00Z
-    webUrl: "https://www.businessinsider.com/3-best-practices-for-implementing-ai-in-banking-2020-10"
+  - title: "Why Investors Should Focus More On The Infrastructure Supporting The AI Revolution"
+    excerpt: "AI has been heralded as the catalyst for a new industrial revolution. While the potential for massive impact is very real, venture investors looking to capitalize on growth ought to spend more time considering the enabling infrastructure."
+    publishedDateTime: 2020-10-04T16:34:00Z
+    webUrl: "https://www.forbes.com/sites/columbiabusinessschool/2020/10/04/why-investors-should-focus-more-on-the-infrastructure-supporting-the-ai-revolution/"
+    ampWebUrl: "https://www.forbes.com/sites/columbiabusinessschool/2020/10/04/why-investors-should-focus-more-on-the-infrastructure-supporting-the-ai-revolution/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/columbiabusinessschool/2020/10/04/why-investors-should-focus-more-on-the-infrastructure-supporting-the-ai-revolution/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 158
+      name: Forbes
+      domain: forbes.com
+    quality: 83
     images:
-      - url: "https://i.insider.com/5e62c54afee23d19745f9109?width=1200&format=jpeg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f78d185a61efd5ea2abacc9%2F0x0.jpg%3FcropX1%3D1438%26cropX2%3D6256%26cropY1%3D1321%26cropY2%3D4128"
         width: 1200
-        height: 600
+        height: 699
         isCached: true
   - title: "How to become an early investor in AI robot revolutionizing the fast food industry"
     excerpt: "Investing in an emerging company is not reserved for the stars of Shark Tank. No matter how intimidating it may seem at first glance, the truth is that anyone can"
@@ -56,20 +58,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/Invest.png?w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "AI IN BANKING: How forward-looking banks are using maturing AI solutions to design both customer- and employee-facing innovations"
-    excerpt: "This report identifies AI use cases transforming the way FIs operate, the business impact of those use cases, and real-world examples of each."
-    publishedDateTime: 2020-10-06T18:48:00Z
-    webUrl: "https://www.businessinsider.com/ai-in-banking-report-2020"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
-    images:
-      - url: "https://i.insider.com/5e616b4dfee23d6e9e10f232?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "zMhERPyB876oQThfcNnshODHGIjIg41wkH8Qo6jFzVzKRvZWGCNsMZfkNG2iNtqpDdWrWIr6vKn/0ouJmiUjurbg+EiriqFIQqnCHbn5U6TGpmqLGzw20CEjifdf3enSi8Duoc7uEo9wNorUIjT0OqJBHdXlnYMz/PzpmL1k2TYOpnwX0qVr5wqZsrX3GMnlFapZ7bV3SXKtsw0gOJTiWj0bbfddkkbAlphavEKDK99q7tSxFbAD5K1cWt/4ZFYUy8U9vVHZc9ULXW3kGZ19N/ig9S8Vzd1I7EwgfKJLIyhyLMVltuEY4bwOdppPQYN9T6M+1yPTF1p77heIm5mn/0mtz1U2cqa6id2WzFFqDBmA0IygYplJbrRyTzVvHC0xH4WUNCUCrbZwxjHNQZvkjbHMNgMGOjsdz0Hx/bDWI4rXfaFqOvWjS/NgOU4weKlzwuJgrsNeVNsPcl9aaMXxl2riONWHNbJAtkInnH/9q7nANJDhO0Ru2uUTAI7kEfy7Y1/PmRcu9Lm//bQx4OOfGA==;uNkLbACyHzfP3QNWm/ifMw=="

@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.voicendata.com/compelled-anand-mahindra-personally-invest-robotics-startup/</loc>
+    <lastmod>2020-10-07T00:48:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/tracybrower/2020/10/07/study-shows-people-prefer-robot-over-their-boss-6-ways-to-be-a-leader-people-prefer/</loc>
+    <lastmod>2020-10-06T23:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://techcrunch.com/sponsor/bristlecone/the-present-and-the-future-of-supply-chain-is-ai/</loc>
     <lastmod>2020-10-06T21:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -139,6 +151,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://techcrunch.com/2020/10/06/helsinki-rides-the-slush-wave-toward-a-booming-startup-future/</loc>
+    <lastmod>2020-10-05T17:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/collaborating-with-ai-to-create-bach-like-compositions-in-aws-deepcomposer/</loc>
     <lastmod>2020-10-05T15:27:35-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -165,6 +183,12 @@
   <url>
     <loc>https://www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/</loc>
     <lastmod>2020-10-05T09:22:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.livemint.com/news/india/want-india-to-become-global-hub-for-artificial-intelligence-pm-modi-11601912327145.html</loc>
+    <lastmod>2020-10-05T08:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -369,6 +393,12 @@
   <url>
     <loc>https://www.techrepublic.com/article/ai-and-ethics-one-third-of-executives-are-not-aware-of-potential-ai-bias/</loc>
     <lastmod>2020-10-02T08:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=143169</loc>
+    <lastmod>2020-10-02T07:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -739,8 +769,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://apnews.com/press-release/pr-newswire/technology-medical-technology-health-artificial-intelligence-computing-and-information-technology-7ebeb192b3437584eac7a740d6619523</loc>
-    <lastmod>2020-09-30T06:30:00-07:00</lastmod>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_health/andor-health-collaborates-with-mentor-to-deliver-next-generation-ai-powered-virtual-experiences-with-microsoft/article_87104374-4495-5f9b-9707-4d6892880d0d.html</loc>
+    <lastmod>2020-09-30T06:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1777,7 +1807,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.reuters.com/article/us-autos-self-driving-congress-idUSKCN26E2RA</loc>
+    <loc>https://www.reuters.com/article/us-autos-self-driving-congress-idINKCN26E2RA</loc>
     <lastmod>2020-09-23T13:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

@@ -43,17 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "7 Artificial Intelligence Stocks to Buy for October"
-    excerpt: "But if there is one on Wall Street, it’s the rise of artificial intelligence stocks. Yes, there is the profitability angle from machine learning and other relevant technology facilitates. But this crisis has been a crash course in the sector’s viability."
-    publishedDateTime: 2020-10-02T13:58:00Z
-    webUrl: "https://www.nasdaq.com/articles/7-artificial-intelligence-stocks-to-buy-for-october-2020-10-02"
-    ampWebUrl: "https://www.nasdaq.com/articles/7-artificial-intelligence-stocks-to-buy-for-october-2020-10-02?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-artificial-intelligence-stocks-to-buy-for-october-2020-10-02?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 71
 
 secured: "K3YFSIsjGvnF+3sE3U25K/ja2kctX+m6yLLrBEg8tehBFqHEAxmTdbQ0keUp0sTIfAmqCvfQdQlLlYdG9GddQU5ZrUrv2s9dAfTY60ND6u26oQ3fpkrJN5gpX/8Wd/K/nw49HXzZmCx5gbm5yW3xiULpMu7mHPrEdssCJoz6goV5lK5Hyu8bq1sF/zCC0w/m4gxWXahGkvDPKJ04es3PU7vF/WZ5Ehv11b95jXIXW4wnPJm66nqMoU3Arpbizd7J+9hLBsIlDj7skV219zpTP6t8y1KQgeMetgKZxF+YC+gd+dkzeu7jnOsyzs7uS5eTPf1L7F73AoT+g6tNZSdFcW0waytx75ZJbm/GC6vO4MA=;06VUAHNgK7xhDfmlLFsPXA=="
 ---

@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Three best practices for how banks can get the most out of investments in AI innovations"
-    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since AI in banking is entering the mainstream as financial institutions start incorporating AI solutions into their businesses: A majority of financial services ..."
-    publishedDateTime: 2020-10-02T13:48:00Z
-    webUrl: "https://www.businessinsider.com/3-best-practices-for-implementing-ai-in-banking-2020-10"
+  - title: "Why Investors Should Focus More On The Infrastructure Supporting The AI Revolution"
+    excerpt: "AI has been heralded as the catalyst for a new industrial revolution. While the potential for massive impact is very real, venture investors looking to capitalize on growth ought to spend more time considering the enabling infrastructure."
+    publishedDateTime: 2020-10-04T16:34:00Z
+    webUrl: "https://www.forbes.com/sites/columbiabusinessschool/2020/10/04/why-investors-should-focus-more-on-the-infrastructure-supporting-the-ai-revolution/"
+    ampWebUrl: "https://www.forbes.com/sites/columbiabusinessschool/2020/10/04/why-investors-should-focus-more-on-the-infrastructure-supporting-the-ai-revolution/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/columbiabusinessschool/2020/10/04/why-investors-should-focus-more-on-the-infrastructure-supporting-the-ai-revolution/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 158
+      name: Forbes
+      domain: forbes.com
+    quality: 83
     images:
-      - url: "https://i.insider.com/5e62c54afee23d19745f9109?width=1200&format=jpeg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f78d185a61efd5ea2abacc9%2F0x0.jpg%3FcropX1%3D1438%26cropX2%3D6256%26cropY1%3D1321%26cropY2%3D4128"
         width: 1200
-        height: 600
+        height: 699
         isCached: true
   - title: "Voice AI Redefines The Future Of Patient Interactions"
     excerpt: "In the past decade, the fundamental structure of healthcare management has changed radically. The industry has become more consumer-driven with a focus on providing personalized patient care. On the other hand,"
@@ -56,20 +58,6 @@ related:
       - url: "https://inc42.com/wp-content/uploads/2020/10/Untitled-design-2020-10-03T142535.041.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "AI IN BANKING: How forward-looking banks are using maturing AI solutions to design both customer- and employee-facing innovations"
-    excerpt: "This report identifies AI use cases transforming the way FIs operate, the business impact of those use cases, and real-world examples of each."
-    publishedDateTime: 2020-10-06T18:48:00Z
-    webUrl: "https://www.businessinsider.com/ai-in-banking-report-2020"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
-    images:
-      - url: "https://i.insider.com/5e616b4dfee23d6e9e10f232?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "NkoO6mzyZ6yk9zwTopho0sYI7kD6dFmxG+QkomgvcMN6rmG8TP3m5KlY6Kb3iNgmlKPLeTrzgkfMEvFJ6HcnCsb4/hhSnYsDlaxKgTYtryYXb5BHassJ5U4Vr+RUsDbKK5BUlB+V4WkGRfi37ade0ijae4JyOc3zFhwwEe9z1GyTO+KI4uVi88FI1ejKeYR1inUQfxx7Qb002NUC3GpHglg/240rb+3EPXZQtaZOQDrLoz6OU+PP37ZqU77+o/IQdAEEeDUD2JCfNlLdvoyXLEArZIT4ijnDF2o31JsYSvT477d0BhWNwh76fAqaU2X8jEbngBmaZbbU4+ocMb3f37GDa9x2IMsGTHxnZI4BG1VgSl/ADZXEdW6jHD9leeEKsYA+gzUrYTE+qrA449uYpuWjXtsnAZSf9wZ1dfDAr3HzbfmK5JbU428m1pcoLn7t7yS4oT9NkP6Aj0rosXWZTx+wnVUebypubdEBLNNUZTAvOntgk81hNUIt78QS4s5Q98isbQBY8DN0UCP80SQFOQ==;zGHwGcth+PzqW61NSH73Bw=="

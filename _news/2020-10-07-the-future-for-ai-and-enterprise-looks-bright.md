@@ -54,6 +54,22 @@ related:
         width: 2880
         height: 1511
         isCached: true
+  - title: "Applying artificial intelligence to science education"
+    excerpt: "A new review published in the Journal of Research in Science Teaching highlights the potential of machine learning—a subset of artificial intelligence—in science education. Although the ..."
+    publishedDateTime: 2020-10-07T07:24:00Z
+    webUrl: "https://phys.org/news/2020-10-artificial-intelligence-science.html"
+    ampWebUrl: "https://phys.org/news/2020-10-artificial-intelligence-science.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-artificial-intelligence-science.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/science.jpg"
+        width: 1920
+        height: 1264
+        isCached: true
   - title: "New artificial intelligence models show potential for predicting outcomes"
     excerpt: "New applications of artificial intelligence (AI) in health care settings have shown early success in improving survival and outcomes in traffic accident victims transported by ambulance and in predicting survival after liver transplantation."
     publishedDateTime: 2020-10-03T14:05:00Z
@@ -67,6 +83,20 @@ related:
       - url: "https://www.eurekalert.org/multimedia/pub/web/244737_web.jpg"
         width: 1440
         height: 756
+        isCached: true
+  - title: "AI IN BANKING: How forward-looking banks are using maturing AI solutions to design both customer- and employee-facing innovations"
+    excerpt: "This report identifies AI use cases transforming the way FIs operate, the business impact of those use cases, and real-world examples of each."
+    publishedDateTime: 2020-10-06T18:48:00Z
+    webUrl: "https://www.businessinsider.com/ai-in-banking-report-2020"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+    images:
+      - url: "https://i.insider.com/5e616b4dfee23d6e9e10f232?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "New intelligent revolution series explores cutting-edge applications in AI"
     excerpt: "The Next Wave in Life Sciences', the first eBook from The Intelligent Revolution series. In the new eBook, experts from the company and the life science industry explore cutting-edge applications for AI in areas including flu prevention,"
@@ -82,21 +112,7 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "Applying artificial intelligence to science education"
-    excerpt: "A new review published in the Journal of Research in Science Teaching highlights the potential of machine learning--a subset of artificial intelligence--in science education."
-    publishedDateTime: 2020-10-07T04:06:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-10/w-aai100520.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
-secured: "w7ML2iO3+lv3S4cKfX8N7CcjbThNi3aWVQDzq648EzMYOludsJrCl6ioBRC15aXsMLshmwAG1Tf/KJKBALJ/9oz8MDjdcmh3dsn16km3Uxc0q3A92ah2XQYl/b4GWBNBAVNphcKKv1uN91qYe9cGOZQgS/WlrqFuh/Dr75yq7u+v6a0FmBzJVWug6gEW2H4HaqpNJJcMuTadBI3aW63o3x6ZeNeWUPgUDy0Qar+XnyUZOy2/RYfNd5LoYQk9fNYjQIHncr4WkkzmezqIhjDWT/hcW8Jzw95i315/jEcd29pyuQqppGIOVPakdCE5gLbYewklPJsjGG+BGPqW4j54Kf9T0BwCYQRou4z7XWfu3QU=;OkDuQ/K8yuv8QSWNjcF9kw=="
+secured: "4Ht26vITY5nZkprbDhVLQExY66U8F7F2OjU25HnnjXX/N9zP8A+aWS04mYupHJnz3CvdQSmyKorae/SJDPJJwncdaemPpIOlqYgGukj0i8lOZ8go6p7dO78f71i2gJaset9a8oY3RxON9GwTsi1HqodNUqDQYa2EYyKD128kiggpwpqAYZ5ydF20HxYG6ebolwKjAr6LPJNtLBR/GowdJstra/CAfIlr2JudyogEh+32gWXRUCFfuElSEUvrkLbSWcIJW8Zr7L6m7Nzf38Gvc9L2BqBefh3YlKbx6h8fnrasvtmGCGjhemRlGd2gvY7NKOfL+hR8fWT6OHUHhhPhztbTEYdK6BKuwBLK59+o0z2qKsbZYUEQ9choGIEP30KXWPDqCJTJRW4UDYJcWnz1HF0Cd1OUZ0/hBNcFJsFHkOxXWyfKxMZDteKdrTaRYvwkppfLmmmQr6Iznt2zPkHKpk1JhD6nc/WZqv1OzKMop5r/y86SD3nxdOfpvFSiso0GnzxOWG1wmaIuJY3v2skSFw==;58QaszBv1MqmvWKsGbVpXQ=="
 ---
 
