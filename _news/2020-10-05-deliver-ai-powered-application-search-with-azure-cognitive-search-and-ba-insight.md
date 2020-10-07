@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/deliver-ai-powered-application-se
 webUrl: "https://azure.microsoft.com/blog/deliver-ai-powered-application-search-with-azure-cognitive-search-and-ba-insight/"
 type: article
 quality: 99
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Deep learning enables identification and optimization of RNA-based tools for myriad applications"
+    excerpt: "The first hurdle they faced was that there was no dataset of toehold switch sequences large enough for deep learning techniques to analyze effectively. The authors took it upon themselves to ..."
+    publishedDateTime: 2020-10-07T09:12:00Z
+    webUrl: "https://phys.org/news/2020-10-deep-enables-identification-optimization-rna-based.html"
+    ampWebUrl: "https://phys.org/news/2020-10-deep-enables-identification-optimization-rna-based.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-deep-enables-identification-optimization-rna-based.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 46
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/5f7d862e5fc4a.jpg"
+        width: 2880
+        height: 1920
+        isCached: true
   - title: "Edge computing, artificial intelligence power automation innovation"
     excerpt: "Learning Objectives Industrial edge computing and artificial intelligence (AI) contribute to automation innovation and effectiveness. Aut"
     publishedDateTime: 2020-10-04T05:03:00Z

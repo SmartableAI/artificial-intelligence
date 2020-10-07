@@ -44,19 +44,14 @@ related:
         height: 900
         isCached: true
   - title: "AMAX Accelerates Next-Gen AI Computing With NVIDIA A100 GPUs"
-    excerpt: "AMAX ’s HPC and AI Solutions Group announced its series of next-generation NVIDIA A100 powered server systems that bring AI training, inference, and analytics into a consolidated yet scalable platform."
-    publishedDateTime: 2020-10-05T14:00:00Z
-    webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-data-storage-632bbf18484df59dfd37de9ff976da95"
+    excerpt: "AMAX's HPC and AI Solutions Group announced its series of next-generation NVIDIA A100 powered server systems that bring AI training, inference, and analytics"
+    publishedDateTime: 2020-10-05T14:34:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amax-accelerates-next-gen-ai-computing-with-nvidia-a100-gpus/article_c0d84a86-fb18-50b0-814c-e0e9d172523d.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 34
 
 secured: "0p2Il17J5dpaHIAhlUp9NZ04/l15ul9QT4n07dfisCZSZVeMMOPepkLbnhOAFSTUXjg0UiiXiOxUZd1iwFlE4FMz2tZlpcgCqE+Ycv15n9Oo1wHzTtww/V5SqKVQeVqEaefu/rHM+teUaX2eLuUhwoYLocpJsrEmCnzTa21VtPBPTAziMty9+xYKKw6T0Z6HTwaCt0Y4U+9Y/y4D2a8xXBuzfFYrT+0RjRWM+6clWKghpPj5XY/jpjMzY8w6EV/9E6vmanBaV7diKHhfaxfxXbhNOasGIPiWXw7IICNv4lZIyEuHjKWisupL6VQJw1rcFDMd3TcnGIX0W6/GLftK1+dw7PmZzL4BHLXNYbjh4DnGnq/htnFAo2fCqth3hz1vSKgiWSVYaZWkEpBFNHTlRqSkJENOQiviMChENaoUZkiY+DgyzAbmKiCXT7owk/+J8d3R+nRuAwXUKSiETjBDhnRtsaZ2Xt30hxPQQFYWv4ZSZcRU3UQfXfruuZsir0ySVvUdPNEqKANtNsuFMcET7g==;GAUQzFPiavoPLyob0bWFxQ=="
 ---

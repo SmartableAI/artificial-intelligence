@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/medical/machine-learning-lungs-signs-heart-fail
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/medical/machine-learning-lungs-signs-heart-failure/?amp=true"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Anticipating heart failure with machine learning"
-    excerpt: "Every year, roughly one out of eight U.S. deaths is caused at least in part by heart failure. One of acute heart failure's most common warning signs is excess fluid in the lungs, a condition known as pulmonary edema."
-    publishedDateTime: 2020-10-02T17:00:00Z
-    webUrl: "https://medicalxpress.com/news/2020-10-heart-failure-machine.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 54
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2020/1-anticipating.jpg"
-        width: 784
-        height: 600
-        isCached: true
 
 secured: "smNzAOXWM8zhBBCt3KASQ7Dyz6nZvYXxHUy0zZFUppqwIAkkOQ/45eS4GD0dclp9hjEKdpuo/eq7/9TBPPCjGQgfCiUzhShalot3mbipV8ULpz78c7SjOiZ24IxeRDEOYrZ5H3OFrrrbp1SnoKwfisexTYI6drLjYbURKdO7x1rfF1tf8xtn9HILdMj2JoR0Ydq82yLx0wNj51bTRTgI1QplE67L2rq6z9dEMvz0ywbU/8yYDeaLpUkb9ciLho/uCT98ROEMYUc6kwp2/07za3xJ2WCCEiVcTrdSV9Z/RUHRz462L6u4jMBRg5cYN4Q4Lqy0xmYmf3zUaznYjD2ymyBj4N2b0KlYzckdORbRB2WWNhFzVHzOEYE5nNOa8IdZUD2ETMH6tKC6yXIq03CgKNNG+RrRC8dAUn/L2D0Rz78MnJAJbQ4XZAqy5U9EzjRudKhyYPvy4ccSx4rg31P7dMF11Lwd6AZANmWdUux1IAHnUk658acRFPI1xKco2A2XoNwdklAeC/YJ0ebb+LHjBg==;KsntzHT7L4fQ0SeSF8NTjw=="
 ---

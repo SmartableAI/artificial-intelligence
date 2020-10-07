@@ -1,28 +1,22 @@
 ---
 category: news
 title: "AMAX Accelerates Next-Gen AI Computing With NVIDIA A100 GPUs"
-excerpt: "AMAX ’s HPC and AI Solutions Group announced its series of next-generation NVIDIA A100 powered server systems that bring AI training, inference, and analytics into a consolidated yet scalable platform."
-publishedDateTime: 2020-10-05T14:00:00Z
-originalUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-data-storage-632bbf18484df59dfd37de9ff976da95"
-webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-data-storage-632bbf18484df59dfd37de9ff976da95"
+excerpt: "AMAX's HPC and AI Solutions Group announced its series of next-generation NVIDIA A100 powered server systems that bring AI training, inference, and analytics"
+publishedDateTime: 2020-10-05T14:34:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amax-accelerates-next-gen-ai-computing-with-nvidia-a100-gpus/article_c0d84a86-fb18-50b0-814c-e0e9d172523d.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amax-accelerates-next-gen-ai-computing-with-nvidia-a100-gpus/article_c0d84a86-fb18-50b0-814c-e0e9d172523d.html"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "IIT Jodhpur Receives NVIDIA DGX A100 AI System in India"
@@ -58,6 +52,6 @@ related:
         height: 398
         isCached: true
 
-secured: "6puwlUzMsGvhJRUmCD396iP/uu3OhPFLuVenkAdk3R14AYSmIp4CuUVduqDwgYbIOOMOWPpk8ybhfdpql7zJjExuYiwrQWCs21RpBm8DUErzzsFwU2Cskg7n2WXWuQTsR0+FQHvnC+HFc4oybiDdOUtcauoqhg/Du7yv18oMjz5VKZSXaPfb9Iyi+YRG0guVqXU3S94aqx2G8WcvuaSlPsuaCBws/ZhKBzfFaSFO3HOfgAkGvwHDErc+/CnBT9Qbent0oX9XIcIeUqMfVPmiw7DlqkGWQZq1RKiHH7HhFGusD2pdenjcdfAuHTFuLIVAry7jhKP05YnghsgX9zE3IDBS5fE3uausT6YGHQLEtrQ=;ShIwgZ5cXZKuWWFjUEYiZg=="
+secured: "9xhxUH6c4y/Sl1knx2k9Ece8wi/dE9kfcT6RTZduF8rK0wWxDb44uBUX6+FHoQHGrggqKjUkJlPl4WG72+UIikbr2cbLFQ4kcEgOJh2pF5niVpl5fmHKFqE7nU2/tMceQD2sY1y/48kX+XSg6boHRY7zcdki9YpyWCxyz8bwRrg+fSpYSsN9QVSgzdAipmUSBPGkxrXkWMoNPZDGFtRGy+zTDVqL+vl8PZvu4vkPYMdzIlB5tk1NfTfhc3Zw4qYlo/dPeyZhH9idcPUYQusFlK2sYVC04HJhqRzbM1+Bg1OKUdmVu/zFYtBYuwcnq1PHJQ95ASn7mDMdFrhKn3x8eeiui8KnLxAdO26XuiheaDekAMkmu7kPIkp6yDdqH1MCK20RLKNKxKl0BOQPNEjxwUoLbaCat7EoEUZkKl2lf/Tljgwh2TDajMs/pQ7Hsfx3daeu0s57v5bvIbWmWsva3poQiSbTY/ggaOt/mork4lMkRpCwVy7zxXTPY6XOkk2q6QgRnKZM5IWOIxyZTPz1rw==;OpSoCSPTr5SP0DokaWw/eg=="
 ---
 

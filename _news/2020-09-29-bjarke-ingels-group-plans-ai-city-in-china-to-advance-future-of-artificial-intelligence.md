@@ -12,9 +12,8 @@ provider:
   domain: designboom.com
 
 topics:
-  - AI in Autos
-  - AI
   - AI in Robotics
+  - AI
 
 images:
   - url: "https://www.designboom.com/wp-content/uploads/2020/09/bjarke-ingels-group-BIG-AI-city-terminus-group-chongqing-china-designboom-Fb.jpg"
@@ -22,6 +21,6 @@ images:
     height: 526
     isCached: true
 
-secured: "VzB0bL49V5RARiFrT1Rn3yoIGeBCqi/7zjxoy9Svnj0YSO4c5+EMcie4eTygJdp9dnBJfY1snixjxrCeHeLxjoL39OixEbIOPtxuewt7BJ69GP+AS0Se1ToX/nA/6FWYFPCX5gy0/IEbvgmCrzOvCH6baZAgVzhvFxM46H2pG7B/rpMuhucasYZAoyT/EDUhv7R1m4ormsIeQ2MX7vSvJ5Ccn+R3CeeJOiGxwROETpRZq7hZUAFnDp5UHjMDqKg1n655CG6WGWODNXkfCsI5QvCHAzflARHoxqrAOK+6o241xgO/m4pp3q+auIQvK2/PBZkuc9ZpZ3Zn3WIVod+TnEVWFMcnkAk1A7e6UQH6F63TzLWHuNQZGkdiF9N3g/kNX8N9ExviJ0wZXofqF6RWtHwLfXARutkoGhZtfRIDhXZFKteg2B8t5SZ8uAEuKnA0mbqB7Apk59IBZ+zozM/QvpSi+H8C77lvNDzCmqlPwUXazPqzr5zBAJVGqMtOSroIrMm8p+21SO0turEQnm/GMg==;qMuTg0ilMntc7UuhaaSEtg=="
+secured: "vKQ5x2g3wxJp6z98xdtP1flOl4alQos9G+n4mikxJGS2QRUomNRn296UbpqQ360WFf5s7rJZ+J3cBRUUy8ofciSh+MbYlQSF/8e//JBB/UrNe5g2BbDkTVjPdeB/prWvnNnXNYxx8qeuz139p+MwvMJOtDf38pF/RtNf5PMywt4vaPR93R04PNL1qiS5SZQs88YjiCisOIgZic2ziQMqIRYtA260o+fz2AJhzTCXoo7THAfW5QunRxejmQAIUTHvpE7ZKVEfMB1Bk5josRdVRCrHsoihd7l5KYWzYeiUCZu7Y/yF5aPkMTl/rwr5j8/toHT/RHQ565mCHkHjcUj2leILuWqXxHkVn3X72TJrT9E=;1x/3hxqRJ9ymO6GOZJd67g=="
 ---
 

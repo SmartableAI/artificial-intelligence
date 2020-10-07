@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Dascena Presents Poster Highlighting Machine Learning Algorithm for Earlier Detection of ACS at HFSA Virtual Annual Scientific Meeting"
-excerpt: "Dascena Presents Poster Highlighting Machine Learning Algorithm for Earlier Detection of ACS at HFSA Virtual Annual Scientific Meeting"
+excerpt: "Dascena, Inc., a machine learning diagnostic algorithm company that is targeting early disease intervention to improve patient care outcomes, today announced that a poster highlighting the ability of a Dascena machine learning algorithm to provide earlier identification of acute coronary syndrome (ACS) is being presented during the Heart Failure Society of American (HFSA) Virtual Annual Scientific Meeting 2020."
 publishedDateTime: 2020-10-01T13:15:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201001005692/en/Dascena-Presents-Poster-Highlighting-Machine-Learning-Algorithm-for-Earlier-Detection-of-ACS-at-HFSA-Virtual-Annual-Scientific-Meeting"
-webUrl: "https://www.businesswire.com/news/home/20201001005692/en/Dascena-Presents-Poster-Highlighting-Machine-Learning-Algorithm-for-Earlier-Detection-of-ACS-at-HFSA-Virtual-Annual-Scientific-Meeting"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-18da0831a4f14a069d5ddcde145cd914"
+webUrl: "https://apnews.com/press-release/business-wire/technology-18da0831a4f14a069d5ddcde145cd914"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20201001005692/en/788554/23/Screen_Shot_2020-04-29_at_5.58.53_PM.jpg"
-    width: 1200
-    height: 627
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "jBwKOMjmJtRJrPglqFvq0Ghh1l7Mr01VSVwuD/V2r2wjdM4UO0f87oMeZKpyWsGJ4UM+F957vRvTOnxTHgRdE/bXlmO4hfWlplyixw2sTcAbwFBu5ewEk1hCbrG+SKOICX84nB0rG7QUnayR9pBMVvL/DUSQGTF/GIxdcEU6xJ/8h/VL9r5jSmSaFLD53alDGSbHbX6EMdsRcRw9DPl/pdKBtJysSPg+dBbcdSLj/1+3HFr9AusiDBXm06K8XvNIm1p43HaDVmQjZyBf+PqRLJ0lbbNg/0al5synBSKg43EHEvdtbQ//fEZuYnoUn+VFKIHfoVMxpoqLjSGwT9iF9YLb9we8ykT8BeY4EpAjgjA=;HmzGxyFl9OHHne2ogXb6pA=="
+secured: "9zMBfPDAt3GtutJCSQ5pMPh2mSDYm1QXdDGnOwy72/MeQAWKHQLbN7vtKxwBDk27OOGE+7C+nvGujcSQtI0GHI4EYDIYOe631CaNxLJUDu7EwXlSaX6ETknV1blvs2LTHKVT0osXkukkW594fxJqagx8iZRokIEJYELxMvqjyvcNcjhBsN4oYSucIeNIbSIZ3vf6RedLxkWIcidS7CgELVZ2TvDvC1n8z+/hUpbt+mIWSpyf6f9don3C2N6bOh0Pi1/z/5l+9Ii029IKn6qDwLkZV9Xw7puj/keVPkPSaV7o0q05BDFxHzXRiF0vokaBu4szgUq1x2bK7GxmcWCnpKr2DOKfYDC6fneZXMyQwf4=;ZWABjzxF3I+lCpZBhGMIlA=="
 ---
 

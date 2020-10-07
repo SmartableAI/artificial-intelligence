@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 588
         isCached: true
-  - title: "Join AWS and NVIDIA at GTC, October 5–9"
-    excerpt: "Starting Monday, October 5, 2020, the NVIDIA GPU Technology Conference (GTC) is offering online sessions for you to learn AWS best practices to accomplish your machine learning (ML), virtual workstations, high performance computing (HPC), and internet of things (IoT) goals faster and more easily. Amazon"
-    publishedDateTime: 2020-10-02T16:40:52Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/16671-2/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
-        width: 1260
-        height: 630
-        isCached: true
   - title: "Nvidia unveils Maxine, a managed cloud AI videoconferencing service"
     excerpt: "Nvidia today launched Nvidia Maxine, a platform that provides developers with a suite of GPU-accelerated AI conferencing software to enhance video quality. The company describes Maxine as a “cloud-native” solution that makes it possible for service providers to bring AI effects — including gaze correction,"
     publishedDateTime: 2020-10-05T13:09:00Z

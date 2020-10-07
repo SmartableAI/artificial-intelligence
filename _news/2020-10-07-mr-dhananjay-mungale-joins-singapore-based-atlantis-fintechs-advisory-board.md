@@ -26,6 +26,22 @@ images:
     height: 650
     isCached: true
 
-secured: "S4jjfkmpRhpgZvutg/y+cWSlSzUWvjRzmRIBzCL/HkYlbJToc+YvPrkpvy7dK5dJWpjPvPcI559odgDYlCxaX960sK4pDwarHCdJGksz2O7qs6I4Kv4MBL3fJiC6opUrycJ0u0n8lvsERKnTVWbecfOKDxdVTKBc1AhMT8aUK7RPipdyICrmXUEDKK/+L45SDB+EVb4WjfCtgbak1WnxAtSCMGlU6jki5O9qB+oW7BkoecGEC8ehUF7/a7dzAi5/SuI/pAozyIH6JiKDeFwWIE1/gEd7MZACudNGfxtHQzKxQCnUv0VfdYjnUTD05rUgok6EXldyPcqRePGTfzCU/o3OR7tDu4h5qTlII0EKZW8=;vJJGbRQOd7qDSieKNcrrTg=="
+related:
+  - title: "Dhananjay Mungale joins Singapore-based Atlantis FinTech"
+    excerpt: "Singapore-headquartered financial technology company Atlantis today announced Dhananjay Mungale has joined its advisory board"
+    publishedDateTime: 2020-10-07T07:49:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/266619763/dhananjay-mungale-joins-singapore-based-atlantis-fintech"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
+        isCached: true
+
+secured: "2MEiqNLk7ZQL0oK8LP/sZmAKJ7UiEB6zP81i17WB6gTppxNSpbuHO1WlHqp513opWGYkaW7I5w/E4ucAWCn5+pZNs1WKNdh54HaohIrIB82qOVixa9usg/Y2E89VbN99PPviHCabv5C77Gt0FXLCsdK9VL55VIoehzlwzhTBj3G0vroRxo0Tpam5iYFj+W+YdI/06Thw+NBwKbh6WWOHOejmA/+LtQiodC3Y8XdVq0shoElhMAj50ks2wCH85rUmj6GLHP2MguysqcGJfbATbrP/QSWpupLuIhbtp1wBiDdoyiIfTvArCZIt4zJJasbRbAHQX2/w9ybOEtaNEwA1rDcCgWO5FD2LtV0Cv/eNOLireI9lu1T+dQr5dSnbciQIoMgnTNIjdLxRstMaSvjMhf4t9Od7fz5sTvBUnjmtUhdrwimdHFpA/C0IEDnm+YWkwHYQmMemqpz1YDCXhQETckW/we4BddcExgKcG7jUsdsnekBu/eVtrpCMeIu97KwOGK7QTZ8T4xPMDmz8anMO5Q==;Cl+nf1rtxylfK0+2BN2hAQ=="
 ---
 

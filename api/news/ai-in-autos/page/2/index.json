@@ -2,39 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-09-22-baidu-unveils-upgraded-products-based-on-ai-technologies.md",
-      "title": "Baidu Unveils Upgraded Products Based on AI Technologies",
-      "excerpt": "BIDU recently unveiled new products and services based on artificial intelligence (AI) technologies at the annual Baidu World Conference in Beijing. In regard to this, the company revealed a few upgrades in the self-driving space.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/baidu-unveils-upgraded-products-based-on-ai-technologies-2020-09-22",
-      "originalUrl": "https://www.nasdaq.com/articles/baidu-unveils-upgraded-products-based-on-ai-technologies-2020-09-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/baidu-unveils-upgraded-products-based-on-ai-technologies-2020-09-22?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-unveils-upgraded-products-based-on-ai-technologies-2020-09-22?amp",
-      "publishedDateTime": "2020-09-22T05:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-21-german-space-agencys-modular-self-driving-truck-is-just-a-life-size-childrens-toy-from-the-70s.md",
       "title": "German space agency’s modular self-driving truck is just a life-size children’s toy from the ’70s",
       "excerpt": "Swiss Army Knives are brilliant. Why have one knife when you can have six in one handy, pocket-sized package? They are the epitome of multi-purpose, functional fashion. Sadly, for the motoring ...",
@@ -1341,6 +1308,57 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-latin-america-self-driving-car-market-2023-strategic-assessment-by-top-players.md",
+      "title": "Latin America Self-driving Car Market 2023| Strategic Assessment By Top Players",
+      "excerpt": "Sep 13, 2020 (AmericaNewsHour) -- Latin America self-driving car market A self-driving car, also known as the driverless car or an autonomous car or",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/latin-america-self-driving-car-market-2023-strategic-assessment-by-top-players-2020-09-13?mod=mw_quote_news",
+      "originalUrl": "https://www.marketwatch.com/press-release/latin-america-self-driving-car-market-2023-strategic-assessment-by-top-players-2020-09-13?mod=mw_quote_news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-12T22:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

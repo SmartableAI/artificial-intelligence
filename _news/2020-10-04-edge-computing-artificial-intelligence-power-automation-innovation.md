@@ -39,6 +39,22 @@ related:
         width: 1024
         height: 380
         isCached: true
+  - title: "Deep learning enables identification and optimization of RNA-based tools for myriad applications"
+    excerpt: "The first hurdle they faced was that there was no dataset of toehold switch sequences large enough for deep learning techniques to analyze effectively. The authors took it upon themselves to ..."
+    publishedDateTime: 2020-10-07T09:12:00Z
+    webUrl: "https://phys.org/news/2020-10-deep-enables-identification-optimization-rna-based.html"
+    ampWebUrl: "https://phys.org/news/2020-10-deep-enables-identification-optimization-rna-based.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-deep-enables-identification-optimization-rna-based.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 46
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/5f7d862e5fc4a.jpg"
+        width: 2880
+        height: 1920
+        isCached: true
   - title: "Welcome Initiative on Artificial Intelligence"
     excerpt: "The first step is to enact robust data protection It is welcome that India is hosting a global summit on artificial intelligence (AI) and that the Prime Minister has addressed the gathering and expressed"
     publishedDateTime: 2020-10-06T17:26:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/collaborating-with-a
 webUrl: "https://aws.amazon.com/blogs/machine-learning/collaborating-with-ai-to-create-bach-like-compositions-in-aws-deepcomposer/"
 type: article
 quality: 102
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 900
     height: 546
     isCached: true
-
-related:
-  - title: "Announcing the winner of the AWS DeepComposer Chartbusters The Sounds of Science challenge"
-    excerpt: "We’re excited to announce the top 10 compositions and the winner of the AWS DeepComposer Chartbusters The Sounds of Science challenge. AWS DeepComposer provides a creative and hands-on experience for learning generative AI and machine learning (ML). Chartbusters is a global monthly challenge where you"
-    publishedDateTime: 2020-10-02T16:58:30Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-the-winner-of-the-aws-deepcomposer-chartbusters-the-sounds-of-science-challenge/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 79
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/01/1-Chart-2-836x630.jpg"
-        width: 836
-        height: 630
-        isCached: true
 
 secured: "lyHGaN7RBIQbJ68p8kHBNEZyY/Kyz6jgsihRRsB2/eJJkMHNQEDDiX37zrFhGuXXtWV78ANyK4WgVKuSNki1hpoJg6ASzKJvUeTLbEBuN//BjuGGUuED8sMVpTlLWxR8sDSZBmGkXVq8QPcqgBzw+RlDLGB+aeTNFl7ycLjUb7JrkIfDHBIBgtKVKwuEgy3KGLdJGR+pFUsjd7c6V7SWeA5Cwdkv8aYCDpNziMpwnD4GDsL6Zz+SFPvrt//KDq/SZ1yAzIy9CuxO6CtfNouPlvxYRScc1cLUCluYiQ7AeziIjWnbbkCNSBwMG7eLkb1UdB2000nV57TlJzlrBbYSJ4OxWki5CmOgP8qvWKWKT7A=;fP2p5LggUc7n9kpIsBwYVQ=="
 ---

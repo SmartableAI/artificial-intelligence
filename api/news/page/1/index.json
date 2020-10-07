@@ -2,6 +2,149 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-07-dexterous-robots-are-coming-to-the-us-air-force.md",
+      "title": "Dexterous robots are coming to the US Air Force",
+      "excerpt": "The military branch has awarded a contract to a robotics firm to develop artificial intelligence-based dexterous robots.",
+      "sourceUrl": null,
+      "webUrl": "https://calvinayre.com/2020/10/07/ventures/dexterous-robots-are-coming-to-the-us-air-force/",
+      "originalUrl": "https://calvinayre.com/2020/10/07/ventures/dexterous-robots-are-coming-to-the-us-air-force/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://calvinayre.com/wp-content/uploads/2020/10/dexterous-robots-are-coming-to-the-us-air-force.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://calvinayre.com/2020/10/07/ventures/dexterous-robots-are-coming-to-the-us-air-force/amp/",
+      "cdnAmpWebUrl": "https://calvinayre-com.cdn.ampproject.org/c/s/calvinayre.com/2020/10/07/ventures/dexterous-robots-are-coming-to-the-us-air-force/amp/",
+      "publishedDateTime": "2020-10-07T02:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CalvinAyre",
+        "domain": "calvinayre.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-edtech-startup-winuall-raises-inr-147-cr-from-prime-venture-partners-and-beenext.md",
+      "title": "Edtech Startup Winuall Raises INR 14.7 Cr From Prime Venture Partners and BEENEXT",
+      "excerpt": "The company said it will use the fresh capital to enhance product capabilities and hire across technology, product, AI and business development teams",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/357349",
+      "originalUrl": "https://www.entrepreneur.com/article/357349",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1602061319-online1.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/357349",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/357349",
+      "publishedDateTime": "2020-10-07T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-researchers-probe-into-rna-using-deep-learning-to-develop-sensors-for-a-covid-19-diagnostic.md",
+      "title": "Researchers probe into RNA using deep learning to develop sensors for a COVID-19 diagnostic",
+      "excerpt": "Two teams at the Wyss Institute have demonstrated the use of NLP and CV techniques to optimize RNA sequences to develop improved sensors for the SARS-CoV-2 genome that is responsible for COVID-19.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/researchers-probe-into-rna-using-deep-learning-to-develop-sensors-for-a-covid-19-diagnostic",
+      "originalUrl": "https://www.neowin.net/news/researchers-probe-into-rna-using-deep-learning-to-develop-sensors-for-a-covid-19-diagnostic",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/10/1602006122_ribocomputing_story.jpg",
+          "width": 760,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/researchers-probe-into-rna-using-deep-learning-to-develop-sensors-for-a-covid-19-diagnostic/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/researchers-probe-into-rna-using-deep-learning-to-develop-sensors-for-a-covid-19-diagnostic/",
+      "publishedDateTime": "2020-10-07T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-what-compelled-anand-mahindra-to-personally-invest-in-this-robotics-startup.md",
       "title": "What compelled Anand Mahindra to personally invest in this robotics startup?",
       "excerpt": "The Young startup professionals at Genrobotic got a shot in the arm when one of India’s biggest industrialist Anand Mahindra, praised their innovation",
@@ -52,7 +195,7 @@
       "originalUrl": "https://www.forbes.com/sites/tracybrower/2020/10/07/study-shows-people-prefer-robot-over-their-boss-6-ways-to-be-a-leader-people-prefer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -783,6 +926,56 @@
       ]
     },
     {
+      "path": "_news/2020-10-06-epic-teamed-up-with-uminnesota-to-develop-an-ai-algorithm-that-identifies-covid-19.md",
+      "title": "Epic teamed up with UMinnesota to develop an AI algorithm that identifies COVID-19",
+      "excerpt": "Epic teamed up with researchers from the University of Minnesota to develop an AI algorithm that identifies COVID-19 from chest X-Rays.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/epic-uminnesota-teamed-up-on-ai-tool-to-detect-covid19-2020-10",
+      "originalUrl": "https://www.businessinsider.com/epic-uminnesota-teamed-up-on-ai-tool-to-detect-covid19-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f7c65a994fce90018f7b45c?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-06T06:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-how-ai-and-humans-can-work-together-to-make-better-recruiting-decisions.md",
       "title": "How AI And Humans Can Work Together To Make Better Recruiting Decisions",
       "excerpt": "As the co-founder of an AI-powered recruiting organization, I expect that AI won’t displace recruiting jobs. In fact, I anticipate that AI will become an indispensable tool for recruiters. Ask any recruiter: What’s the most tedious aspect of your job?",
@@ -1016,191 +1209,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-this-ai-startup-raised-15-million-to-help-patients-transcribe-doctor-appointments.md",
-      "title": "This AI Startup Raised $15 Million To Help Patients Transcribe Doctor Appointments",
-      "excerpt": "Technology has this potential to help so many more people than I could ever see in my weekly clinic,” says Abridge cofounder and CEO Dr. Shiv Rao, 41, a cardiologist who still occasionally sees patients.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startup-raised-15-million-to-help-patients-transcribe-doctor-appointments-and-decode-jargon/",
-      "originalUrl": "https://www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startup-raised-15-million-to-help-patients-transcribe-doctor-appointments-and-decode-jargon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7bcba8530f376e46cc2c1b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2500%26cropY1%3D114%26cropY2%3D1520",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startup-raised-15-million-to-help-patients-transcribe-doctor-appointments-and-decode-jargon/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startup-raised-15-million-to-help-patients-transcribe-doctor-appointments-and-decode-jargon/amp/",
-      "publishedDateTime": "2020-10-06T02:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-iit-roorkee-offers-online-course-on-machine-learning-and-deep-learning-here-are-the-details.md",
-      "title": "IIT Roorkee Offers Online Course on Machine Learning and Deep Learning: Here Are the Details",
-      "excerpt": "IIT Roorkee is offering a certificate online course on Machine Learning and Deep Learning to anybody who is interested in specializing in the subject IIT Roorkee, through its Electronics and ICT Academy program sponsored by the Ministry of Electronics and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/iit-roorkee-offers-online-course-machine-learning-deep-learning-details/",
-      "originalUrl": "https://www.dqindia.com/iit-roorkee-offers-online-course-machine-learning-deep-learning-details/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2020/03/futuristic-3862179_1280.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/iit-roorkee-offers-online-course-machine-learning-deep-learning-details/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-roorkee-offers-online-course-machine-learning-deep-learning-details/amp/",
-      "publishedDateTime": "2020-10-06T00:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-artificial-intelligence-to-empower-agriculture-healthcare-and-education-pm-at-raise-2020.md",
-      "title": "Artificial intelligence to empower agriculture, healthcare and education: PM at RAISE 2020",
-      "excerpt": "Prime Minister Narendra Modi inaugurated RAISE 2020, a mega virtual summit on artificial intelligence, and spoke about how technology can empower sectors",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/artificial-intelligence-empower-agriculture-healthcare-education-pm-raise-2020/",
-      "originalUrl": "https://www.dqindia.com/artificial-intelligence-empower-agriculture-healthcare-education-pm-raise-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2020/04/artificial-intelligence-4625878_640-1.jpg",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/artificial-intelligence-empower-agriculture-healthcare-education-pm-raise-2020/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/artificial-intelligence-empower-agriculture-healthcare-education-pm-raise-2020/amp/",
-      "publishedDateTime": "2020-10-05T22:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-for-mukesh-ambani-ai-is-indispensable-to-indias-digital-destiny.md",
-      "title": "For Mukesh Ambani, AI is indispensable to India’s “digital destiny”",
-      "excerpt": "Data is the raw material for artificial intelligence. Intelligent data is digital capital. It is a vital national resource.",
-      "sourceUrl": null,
-      "webUrl": "https://qz.com/india/1913464/reliance-jios-ambani-supports-artificial-intelligence-for-india/",
-      "originalUrl": "https://qz.com/india/1913464/reliance-jios-ambani-supports-artificial-intelligence-for-india/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/10/2018-01-23T120623Z_329216982_RC1B30939970_RTRMADP_3_DAVOS-MEETING-1-e1601950681816.jpg?quality=75&strip=all&w=1400",
-          "width": 1400,
-          "height": 978,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://qz.com/india/1913464/reliance-jios-ambani-supports-artificial-intelligence-for-india/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/india/1913464/reliance-jios-ambani-supports-artificial-intelligence-for-india/amp/",
-      "publishedDateTime": "2020-10-05T21:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

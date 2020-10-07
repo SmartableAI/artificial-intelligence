@@ -2,6 +2,183 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-09-20-carrefour-deploys-machine-learning-software-in-belgium.md",
+      "title": "Carrefour deploys machine learning software in Belgium",
+      "excerpt": "French supermarket Carrefour is enhancing its ecommerce offering with a new distribution centre and capabilities enabled by advanced data",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/carrefour-deploys-machine-learning-software-in-belgium-9300750",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/carrefour-deploys-machine-learning-software-in-belgium-9300750",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/carrefour-deploys-machine-learning-software-in-belgium-9300750",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/carrefour-deploys-machine-learning-software-in-belgium-9300750",
+      "publishedDateTime": "2020-09-19T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-this-new-ai-technology-could-prevent-ships-from-colliding-with-whales.md",
+      "title": "This New AI Technology Could Prevent Ships From Colliding With Whales",
+      "excerpt": "This has led the National Oceanic and Atmospheric Administration (NOAA) to establish speed reduction programs along both coasts to protect endangered right whales in the Atlantic Ocean (via “ Right Whale Slow Zones ”) and humpback,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/priyashukla/2020/09/19/this-new-ai-technology-could-prevent-ships-from-colliding-with-whales/",
+      "originalUrl": "https://www.forbes.com/sites/priyashukla/2020/09/19/this-new-ai-technology-could-prevent-ships-from-colliding-with-whales/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5d72e832580d4befbb9b50%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4181%26cropY1%3D0%26cropY2%3D2352",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/priyashukla/2020/09/19/this-new-ai-technology-could-prevent-ships-from-colliding-with-whales/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/priyashukla/2020/09/19/this-new-ai-technology-could-prevent-ships-from-colliding-with-whales/amp/",
+      "publishedDateTime": "2020-09-19T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-huangs-law-is-the-new-moores-law-and-explains-why-nvidia-wants-arm.md",
+      "title": "Huang’s Law is the new Moore’s law, and explains why Nvidia wants Arm",
+      "excerpt": "voice and object recognition in our personal gadgets. Between November 2012 and this May, performance of Nvidia’s chips increased 317 times for an important class of AI calculations, says Bill ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/technology/tech-news/huang-s-law-is-the-new-moore-s-law-and-explains-why-nvidia-wants-arm-11600530134203.html",
+      "originalUrl": "https://www.livemint.com/technology/tech-news/huang-s-law-is-the-new-moore-s-law-and-explains-why-nvidia-wants-arm-11600530134203.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2020/09/19/600x338/a35a2ae482ad4a97ab798de3396e67e6-a35a2ae482ad4a97ab798de3396e67e6-1_1600530200000_1600530213133.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/technology/tech-news/huang-s-law-is-the-new-moore-s-law-and-explains-why-nvidia-wants-arm/amp-11600530134203.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/huang-s-law-is-the-new-moore-s-law-and-explains-why-nvidia-wants-arm/amp-11600530134203.html",
+      "publishedDateTime": "2020-09-19T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-sensiml-integrates-googles-tensorflow-lite-for-microcontrollers.md",
+      "title": "SensiML Integrates Google's TensorFlow Lite for Microcontrollers",
+      "excerpt": "AI tools for building intelligent IoT endpoints, today announced that its SensiML Analytics Toolkit now seamlessly integrates with Google's TensorFlow Lite for Microcontrollers. Developers working with Google's TensorFlow Lite for Microcontrollers open source neural network inference engine now have the option to leverage SensiML's powerful automated data labeling and preprocessing capabilities to reduce dataset errors,",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2020/09/16/sensiml-integrates-google-s-tensorflow-lite-for-microcontrollers",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2020/09/16/sensiml-integrates-google-s-tensorflow-lite-for-microcontrollers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/891804/SensiML_Logo.jpg",
+          "width": 400,
+          "height": 208,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-19T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-how-artificial-intelligence-is-helping-companies-identify-and-nail-new-product-opportunities.md",
       "title": "How Artificial Intelligence Is Helping Companies Identify And Nail New Product Opportunities",
       "excerpt": "The best and most cutting edge examples of how firms are using AI in the new product & service development process to identify and optimize new business ideas.",
@@ -998,191 +1175,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-artificial-intelligence-technology-solutions-announces-new-subsidiary-focused-on-mobile-robotic-solutions.md",
-      "title": "Artificial Intelligence Technology Solutions Announces New Subsidiary Focused on Mobile Robotic Solutions",
-      "excerpt": "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), is pleased to announce that it has created a new, wholly-owned subsidiary,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-announces-new-subsidiary-focused-on-mobile-robotic-solutions-1029602722",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-announces-new-subsidiary-focused-on-mobile-robotic-solutions-1029602722",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/artificial-intelligence-technology-solutions-announces-new-subsidiary-focused-on-mobile-robotic-solutions-1029602722",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-technology-solutions-announces-new-subsidiary-focused-on-mobile-robotic-solutions-1029602722",
-      "publishedDateTime": "2020-09-18T06:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-realnetworks-strengthens-safrs-leadership-team-with-appointment-of-brad-donaldson-as-vice-president-computer-vision.md",
-      "title": "RealNetworks Strengthens SAFR's Leadership Team with Appointment of Brad Donaldson as Vice President, Computer Vision",
-      "excerpt": "PRNewswire/ -- RealNetworks, Inc. (Nasdaq: RNWK) today announced the appointment of Brad Donaldson as Vice President, Computer Vision to lead the",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/realnetworks-strengthens-safrs-leadership-team-with-appointment-of-brad-donaldson-as-vice-president-computer-vision-301133673.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/realnetworks-strengthens-safrs-leadership-team-with-appointment-of-brad-donaldson-as-vice-president-computer-vision-301133673.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1276673/Brad_Blue.jpg?p=facebook",
-          "width": 1800,
-          "height": 942,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-18T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-artificial-intelligence-chip-market-2020-industry-trendsgrowth-trends-and-forecast-2028.md",
-      "title": "Artificial Intelligence Chip Market 2020: Industry Trends,Growth, Trends, and Forecast 2028",
-      "excerpt": "The total information and communication technology goods (including computers, peripheral devices, communication",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-2020-industry-trendsgrowth-trends-and-forecast-2028-2020-09-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-2020-industry-trendsgrowth-trends-and-forecast-2028-2020-09-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 284,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-18T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-conversational-ai-a-boon-for-business-but-choosing-the-best-fit-requires-care.md",
-      "title": "Conversational AI: A Boon For Business, But Choosing The Best Fit Requires Care",
-      "excerpt": "An increasing number of businesses are trialing cognitive artificial intelligence, but that doesn't mean they should jump on board the AI bandwagon with reckless abandon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/18/conversational-ai-a-boon-for-business-but-choosing-the-best-fit-requires-care/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/18/conversational-ai-a-boon-for-business-but-choosing-the-best-fit-requires-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f63a3454d741880d2c57eaf%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/18/conversational-ai-a-boon-for-business-but-choosing-the-best-fit-requires-care/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/18/conversational-ai-a-boon-for-business-but-choosing-the-best-fit-requires-care/amp/",
-      "publishedDateTime": "2020-09-18T05:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

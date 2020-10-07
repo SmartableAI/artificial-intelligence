@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-15-adp-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award.md",
+      "title": "ADP® DataCloud Wins 2020 Artificial Intelligence (AI) Breakthrough Award",
+      "excerpt": "Recognized as a leading company in the global AI market today, ADP was selected as a winner in the 2020 AI Breakthrough Awards for",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/adp-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award-301130634.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/adp-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award-301130634.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1273754/AI_Breakthrough_Awards_2020_ADP.jpg?p=facebook",
+          "width": 1004,
+          "height": 526,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-15T05:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-indian-ecommerce-player-snapdeal-uses-robots-for-last-mile-delivery.md",
       "title": "Indian eCommerce player Snapdeal uses robots for last-mile delivery",
       "excerpt": "The Covid-19 led lockdown and its impact on eCommerce resulted in the federal government approving drone-based deliveries in India in June. Though nothing more was heard on this front since, online marketplace Snapdeal has now announced that it had conducted last-mile delivery using robots.",
@@ -1326,57 +1368,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-how-diffblue-uses-ai-to-automate-unit-testing-for-java-applications.md",
-      "title": "How Diffblue uses AI to automate unit testing for Java applications",
-      "excerpt": "On Tuesday Diffblue announced general availability of its flagship Diffblue Cover and Diffblue Cover: Community Edition, a free version created for developers using IntelliJ, the most popular IDE for enterprise Java.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-diffblue-uses-ai-to-automate-unit-testing-for-java-applications/",
-      "originalUrl": "https://www.techrepublic.com/article/how-diffblue-uses-ai-to-automate-unit-testing-for-java-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2017/06/15/ddccb0d6-7eee-4b5b-b55e-7195ed76fe03/resize/1200x/aef4190f2e6a01d273c61a78be51e83f/aijobs.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-diffblue-uses-ai-to-automate-unit-testing-for-java-applications/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-diffblue-uses-ai-to-automate-unit-testing-for-java-applications/",
-      "publishedDateTime": "2020-09-08T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "AI in Robotics"
       ]

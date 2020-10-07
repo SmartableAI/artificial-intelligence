@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tracybrower/2020/10/07/study-shows-peop
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tracybrower/2020/10/07/study-shows-people-prefer-robot-over-their-boss-6-ways-to-be-a-leader-people-prefer/amp/"
 type: article
 quality: 82
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     height: 648
     isCached: true
 
-secured: "BMAlqssPUtqgWh3s1Etu+gmF//gowre5gmttbHkGuC/w+nkL7q1JEsmc4evqEnB1ZupthEacc3twPdJm4qFuunSQS2kzDY/Q6OGWFHO0QsP1yNUoAMo5t6gSeTHNM/sCojPXbAb0Qn7S7wHQ+0UZKOYH83o4UzP15Cfq07rhA0lu5LL1sEeDwLszkuwKjZ5mJZcJMYBAYUmbUv2wqSFWzF/gwK9Z0Ds2/QXqPdumIx66mObM/mQ2Kw+x3ymzj4v7V5pvqFFsyylZDfMSmMBzahcamPL/k536HO3fQZwaFwnhFYL43nWRDXaieqOeSjJLk3HA3bbS3X9IN7NS9xab8X5fxAxDIEqQhM6flbbUE5k=;/ftJjL4KcITvuMtxiQMDdQ=="
+related:
+  - title: "Global Study: 82% of People Believe Robots Can Support Their Mental Health Better Than Humans"
+    excerpt: "PRNewswire/ -- 2020 has been the most stressful year in history for the global workforce and people want robots to help, according to a new study by Oracle and Workplace Intelligence, an HR research and advisory firm."
+    publishedDateTime: 2020-10-07T06:00:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/virus-outbreak-business-technology-lifestyle-mental-health-1667885ea22fb0794be0af5f1791fab4"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
+secured: "dCo1qDFG5O3IYi+eNuFLOKNiGSR12SUgR+AVbjv3YkjexvSMGP72V5D1o0vABYNztorGoXvVfTH1psgcHBsYtsloK35gZRRpW5dVArTQaCmZ3X6EjCxhWbEq8/DjU19TqgRyGewWD0ApcXjW3rPeS1vbNdfQlLvugUb1/LS0fBMgct/0+oGSRfxlwCdX8FQ+kQvfuiNzFdidaBk7l5lXRkIllzuFDWdCuoqm8qVFlS2+AJ7iqXGrxWi2+HSkYzKvbYf47/316lqcOPbnBWQ3AUKK3Ca5TpIOius8mgFdYtczbEgeR1XfyKpukppk/7fPRNJSJxgQmfJaTXvYSfeYa3ZcYDvu3xIEWdIilVLppZjsYwKOYHzOHwzbFEEmNfYjPod3o8/dVhj4ULXqsZ5snuA4mIZBiyE403NKggJIkdyNg3yybPj6JB6VhKGFBjz2TTTwDnyuTtXSs9tkYgdWzzsAIZLZetzSaodngJJdzq6ohgx7cDT8I05uqKcSKrMYgGE3B+1TwGiVkJrCf9Mfsg==;hQvaqCvtdEW5JiqAOPTP8w=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/dallas/inno/stories/roundups/2020/10/0
 webUrl: "https://www.bizjournals.com/dallas/inno/stories/roundups/2020/10/03/startup-tech-hiring-roundup-north-texas.html"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -18,38 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "The 18 Largest US Tech Startup Funding Rounds of September 2020"
-    excerpt: "Everything you need to need to know about the largest US startup funding rounds of September 2020; broken down by industry, stage, investors, and"
-    publishedDateTime: 2020-10-02T16:40:00Z
-    webUrl: "https://www.alleywatch.com/2020/10/us-startup-funding-top-largest-september-2020-vc/8/"
-    ampWebUrl: "https://www.alleywatch.com/2020/10/us-startup-funding-top-largest-september-2020-vc/amp/"
-    cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2020/10/us-startup-funding-top-largest-september-2020-vc/amp/"
-    type: article
-    provider:
-      name: alleywatch.com
-      domain: alleywatch.com
-    quality: 42
-    images:
-      - url: "https://cdn.alleywatch.com/wp-content/uploads/2020/10/September-2020-us-top-startup-fundings.jpg"
-        width: 1000
-        height: 525
-        isCached: true
-  - title: "These are the 15 Largest NYC Tech Startup Funding Rounds of Q3 2020"
-    excerpt: "Everything you need to need to know about the largest NYC startup funding rounds of Q3 2020; broken down by industry, stage, investors, and"
-    publishedDateTime: 2020-10-05T15:29:00Z
-    webUrl: "https://www.alleywatch.com/2020/10/nyc-startup-funding-top-largest-q3-2020-vc/16/"
-    ampWebUrl: "https://www.alleywatch.com/2020/10/nyc-startup-funding-top-largest-q3-2020-vc/amp/"
-    cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2020/10/nyc-startup-funding-top-largest-q3-2020-vc/amp/"
-    type: article
-    provider:
-      name: alleywatch.com
-      domain: alleywatch.com
-    quality: 42
-    images:
-      - url: "https://cdn.alleywatch.com/wp-content/uploads/2020/08/8_2_NYC-TECH-NEWS.002-768x412.jpeg"
-        width: 768
-        height: 412
-        isCached: true
   - title: "The top Austin tech and startup executive hires and layoffs (September 2020)"
     excerpt: "Austin companies generate new technology jobs every day, even during a pandemic. And as local startups rise and companies continue to move their headquarters from out-of-state to join Austin’s tech ecosystem,"
     publishedDateTime: 2020-10-06T14:48:00Z

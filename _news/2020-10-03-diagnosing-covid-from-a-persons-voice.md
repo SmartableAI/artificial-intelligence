@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "In the age of Covid, these robots are giving surgeons peace of mind"
-    excerpt: "The NHS is using AI to help make operations faster, safer and more efficient. One state-of-the art robot has been a gamechanger"
-    publishedDateTime: 2020-10-05T16:41:00Z
-    webUrl: "https://www.telegraph.co.uk/health-fitness/body/age-covid-robots-giving-surgeons-peace-mind/"
-    ampWebUrl: "https://www.telegraph.co.uk/health-fitness/body/age-covid-robots-giving-surgeons-peace-mind/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/health-fitness/body/age-covid-robots-giving-surgeons-peace-mind/amp/"
+  - title: "Researchers probe into RNA using deep learning to develop sensors for a COVID-19 diagnostic"
+    excerpt: "Two teams at the Wyss Institute have demonstrated the use of NLP and CV techniques to optimize RNA sequences to develop improved sensors for the SARS-CoV-2 genome that is responsible for COVID-19."
+    publishedDateTime: 2020-10-07T09:00:00Z
+    webUrl: "https://www.neowin.net/news/researchers-probe-into-rna-using-deep-learning-to-develop-sensors-for-a-covid-19-diagnostic"
+    ampWebUrl: "https://www.neowin.net/amp/researchers-probe-into-rna-using-deep-learning-to-develop-sensors-for-a-covid-19-diagnostic/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/researchers-probe-into-rna-using-deep-learning-to-develop-sensors-for-a-covid-19-diagnostic/"
     type: article
     provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 59
+      name: Neowin
+      domain: neowin.net
+    quality: 79
     images:
-      - url: "https://www.telegraph.co.uk/content/dam/health-fitness/2020/09/30/TELEMMGLPICT000226077656_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg"
-        width: 2501
-        height: 1563
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/10/1602006122_ribocomputing_story.jpg"
+        width: 760
+        height: 506
         isCached: true
 
 secured: "/BRtfeDLeWzp/vMv+QPyjbYRGoNYsdBtU1DBohKnRs/WCSa6rvnwljnvCA2Uhop0R3/5qZVyKRjOQAbb3zXf6rBz59PBT6/z12GNAWJ8zS9U39LMK/ckStILhRUzeRFrIHudb6qX7Q9HzWKwOkNxexeWzPoolI+OeTsmHI32seQH5rzCsvMyBaFpsrJPgqxlfN3QEj+Lr4GJ3RomJ/cg2eN2sIr8VeNGMLQZjaxic8NvLAOvi4s+JrxzNaHZBlPNvnNzeVrtW7FTnfR5GhE0yZoDdvDOeNNbg6Vsnl4QmMmNyBkNAc6rdBxsM82JPri2Pgmkscn+Cw1i+R2C+tT/CF8SwuqYTKmZEDgV6SQQNDXPuONT2Zh04Ve+8WIsIkP5UvyjgWrsZZcjKE+ehdPQFoedJOowDE91ht7WBH1yQfyHSdwhazvDRQr186DDd17m3USQGt1HBpCNK4LQwmjlgSFAnlad/RwgnN2GWSdFQUZqaaYdO+CmQxQGUs9bk/QubJyUsBHpxIEYd7DURrGq/Q==;gtqbkBamTrSBt0dWXN/Bsg=="

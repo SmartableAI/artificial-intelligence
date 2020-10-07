@@ -52,7 +52,7 @@
       "originalUrl": "https://www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -157,7 +157,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/deliver-ai-powered-application-search-with-azure-cognitive-search-and-ba-insight/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -358,19 +358,19 @@
     {
       "path": "_news/2020-10-01-sycomp-launches-an-unmatched-cloud-data-experience-with-sycomp-storage-fueled-by-ibm-spectrum-scale-on-azure.md",
       "title": "Sycomp launches an unmatched cloud data experience with Sycomp Storage Fueled by IBM Spectrum Scale on Azure",
-      "excerpt": "Sycomp today introduces the first IBM Spectrum Scale solution on Azure. Sycomp Storage Fueled by IBM Spectrum Scale, a new cloud",
+      "excerpt": "Sycomp today introduces the first IBM Spectrum Scale solution on Azure. Sycomp Storage Fueled by IBM Spectrum Scale, a new cloud storage",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/sycomp-launches-an-unmatched-cloud-data-experience-with-sycomp-storage-fueled-by-ibm-spectrum-scale-on-azure-301143863.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/sycomp-launches-an-unmatched-cloud-data-experience-with-sycomp-storage-fueled-by-ibm-spectrum-scale-on-azure-301143863.html",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/sycomp-launches-an-unmatched-cloud-data-experience-with-sycomp-storage-fueled-by-ibm-spectrum-scale/article_d6d52ced-9668-5c43-825d-e0bcaf90702a.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/sycomp-launches-an-unmatched-cloud-data-experience-with-sycomp-storage-fueled-by-ibm-spectrum-scale/article_d6d52ced-9668-5c43-825d-e0bcaf90702a.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1305548/cloud_computing_network.jpg?p=facebook",
-          "width": 2700,
-          "height": 1413,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/79/279ff7f9-501f-5469-ae1c-7e43ac3af324/5f75f6281233c.image.jpg?resize=400%2C302",
+          "width": 400,
+          "height": 302,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -379,11 +379,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-01T08:00:00-07:00",
+      "publishedDateTime": "2020-10-01T08:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -589,19 +589,19 @@
     {
       "path": "_news/2020-09-30-intelemarks-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion.md",
       "title": "Intelemark's New Microsoft Azure Cloud-Based AI Proprietary Software Fuels International Expansion",
-      "excerpt": "Intelemark, a national leader in the lead generation/appointment setting industry for more than 20 years, is pleased to announce the successful implementation of our",
+      "excerpt": "Intelemark, a national leader in the lead generation/appointment setting industry for more than 20 years, is pleased to announce the successful implementation of our third generation cloud-based proprietary software.",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/intelemarks-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion/article_d763ca0c-5282-5ff7-81a8-f5688877c416.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/intelemarks-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion/article_d763ca0c-5282-5ff7-81a8-f5688877c416.html",
+      "webUrl": "https://www.finanzen.net/nachricht/aktien/intelemark-s-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion-9346878",
+      "originalUrl": "https://www.finanzen.net/nachricht/aktien/intelemark-s-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion-9346878",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
+          "width": 600,
+          "height": 315,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -613,8 +613,8 @@
       "publishedDateTime": "2020-09-30T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "Finanzen",
+        "domain": "finanzen.net",
         "images": null,
         "publishers": null,
         "authors": null

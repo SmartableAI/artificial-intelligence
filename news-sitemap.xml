@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://calvinayre.com/2020/10/07/ventures/dexterous-robots-are-coming-to-the-us-air-force/</loc>
+    <lastmod>2020-10-07T02:38:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.entrepreneur.com/article/357349</loc>
+    <lastmod>2020-10-07T02:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.neowin.net/news/researchers-probe-into-rna-using-deep-learning-to-develop-sensors-for-a-covid-19-diagnostic</loc>
+    <lastmod>2020-10-07T02:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.voicendata.com/compelled-anand-mahindra-personally-invest-robotics-startup/</loc>
     <lastmod>2020-10-07T00:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -93,6 +111,12 @@
   <url>
     <loc>https://www.theverge.com/2020/10/6/21503892/miso-robotics-flippy-roar-robotic-fry-chef-on-sale-price</loc>
     <lastmod>2020-10-06T06:33:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/epic-uminnesota-teamed-up-on-ai-tool-to-detect-covid19-2020-10</loc>
+    <lastmod>2020-10-06T06:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -523,8 +547,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/sycomp-launches-an-unmatched-cloud-data-experience-with-sycomp-storage-fueled-by-ibm-spectrum-scale-on-azure-301143863.html</loc>
-    <lastmod>2020-10-01T08:00:00-07:00</lastmod>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_business/sycomp-launches-an-unmatched-cloud-data-experience-with-sycomp-storage-fueled-by-ibm-spectrum-scale/article_d6d52ced-9668-5c43-825d-e0bcaf90702a.html</loc>
+    <lastmod>2020-10-01T08:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -547,7 +571,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.businesswire.com/news/home/20201001005692/en/Dascena-Presents-Poster-Highlighting-Machine-Learning-Algorithm-for-Earlier-Detection-of-ACS-at-HFSA-Virtual-Annual-Scientific-Meeting</loc>
+    <loc>https://apnews.com/press-release/business-wire/technology-18da0831a4f14a069d5ddcde145cd914</loc>
     <lastmod>2020-10-01T06:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -787,7 +811,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_business/intelemarks-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion/article_d763ca0c-5282-5ff7-81a8-f5688877c416.html</loc>
+    <loc>https://www.finanzen.net/nachricht/aktien/intelemark-s-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion-9346878</loc>
     <lastmod>2020-09-30T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
