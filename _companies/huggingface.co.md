@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "huggingface"
   url: "https://twitter.com/huggingface"
-  followers: 30199
+  followers: 30210
 
 size: 11-50 employees
 yearFounded: 2016
@@ -40,6 +40,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=e9dLt_TUXAc"
 
-secured: "56y72oak4Gn7w2IL6ccKG3zHnK7miREmtkwyp3nb5PWMUlSM7kyZY0PeIiOTqaWv0ACfodaoPXAkDISd3HH996fQ4G96MzcAa2QhH66bYTS4E1CDLH/e3CuBjfsU0seUNiEkJJOdZEKDOZHYhKXDdLqk9FihSAUQzCD8h7LZLJeGhtbHqIvUUsJy1z5OodmCNviWjAbIJLvfd2pWCvySh++tpgOHjnUlMfkAG6MNF1sroLSLrZoG4hLk3nNiE2lSkI1wu9PocrlZO48+UPOovamP269vplf58KMqGXnBln2sjie0JBSzarThwvy8qo00liLkPy52wPUCFYtjZELfwJnp08dWGfkH4jxWOnGNzBQJqp9+s1BeDdAsEdyuNwWe6O7Mt23LV38qOdxW5saGaAYM2ME/5N+/WIPbiFSNX9I=;CAenErPfVXSZ26fdpxS3DQ=="
+secured: "B1FchbSdws2FCkxgqIwdyhjpnUPJtBjDt9dqJUXi/agDOpFIL4iYG6GxRVJjYNs/hL3CgfULIThR7Lgy3t3jTKJgvjGPsBZYd6+3WrTI1e95u9UM4atCF75ZM9kND1TXbWcaLrEswR9qUfKHv9CKrobqXiXqrQ41RhGyv965gD5A/grKXSVNSQvTz1TVWYIrqFopQHZBkr2VCcoI/LHw2PLdp7LXFs1zBCMoYfYhmGcqBlObVERcP3LQ4gG6MAoNumi6fMbyqIgXr+Oz1V1phR3QQ3fxewv8s/0J1Pq1f7ugBhxigSPoJ+jl+otduwWheiocJRq+bNibTT4iFbJnAmjD3uUMEvtu2i9p7l6AkmEk6fzwWD58vTZHdRcn56IrHZWRNwu2CYkVDsGtjDPRVPbEVVa39wGHilmQ0+hJMos=;0LwtzY0eL2RwQdTqQgfcdg=="
 ---
 

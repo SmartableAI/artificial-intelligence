@@ -2,7 +2,7 @@
 name: "Flatiron Health"
 overview: "Flatiron Health’s mission is to improve lives by learning from the experience of every cancer patient. Please visit our website for our open positions."
 type: "profile"
-heat: 92
+heat: 72
 
 website: https://flatiron.com
 
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=AishSTITOq4"
 
-secured: "V+Hs4hEAAojvI4ykG7ZWjHBqcwZfN4f+B0RJmxU0XaQi9hYAF4+wsMJIkH6CP2qmagnnR93wE4P08qEF7fdUFMEd89gLffi50stJH5g8hu3o7r5DfUndKSsxbDsKhsqm1z7bxJHFFYjh3YDAKy/zheKvx5YkEnVf13qjYEEpgtFWmZQ5/mNgpBzgRzemSROtFBoILgskTe+KBVGuME7Gb2qpQWkbi8sJA1Rm4Z0HhfWDcszwVwZdiCtJnQGfAunLjaisBTYUqUCXhtbyipChMiUFEsIJJJlQ+/AVVCF6Xilf4Y8LwYoKaqW/HaGcpXsBm/RZYCyYwi4ebp+5Rp6iLVDDq77s8WdDtr9RneAnk7HlUFlmmnfFMkkMLcb9tCHC1dIc0cQDZ/w2xWtPVNXiGBSDlV3fVd6EtREPud9N3sU=;c7lCfE8ssz4so4iqTOxotw=="
+secured: "+sK0QfVUzkak2cxTP+tGn6SrIkqSBY8kGXWYU7c54WQgU8s/aAF6fPaSSRIf0WojPZCIoqdk37plLNA7tR6xfOqptPa/6+Hiu4/CNLFdsAyk8x9O4mwpbMayGlX9v1QbISUQWLOQiEnWtgDMatUyBYxqG79nWOmjxCALrOewif/1phw+Ckd21KbklqnzBmYlBJ8Gk+DIbEsqv0OwCRNBki+lJsJE3EupL1vjc+YdnKs4s8aM4TMCSryLxesa2ymAAaDCuSUtWr9SQr5fCSYs9ySOrdzDCx0B9bYgwaCiatYSPtqur9zlbCqk9LOZAWK18z+qr12pXWcN7jGJFxAtwXiyuGPeqQJSCnYFAgWhVMwNWbcACdqQhqqBZ1mFvV3YlXucU5pTLZZ72YmhtnTdBTOuXURYeO+fkzGa0LHXOag=;JOIrbzmgcVy459SPFnX2Hg=="
 ---
 
