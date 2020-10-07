@@ -94,18 +94,18 @@ related:
         height: 583
         isCached: true
   - title: "Dicom Systems Launches Enterprise Imaging Platform in the Microsoft Azure Marketplace, Deploys to a Leading National IDN"
-    excerpt: "Oct. 7, 2020 /PRNewswire/ -- Dicom Systems, a healthcare IT software company, today announced the availability of Unifier enterprise imaging platform for medical imaging workflow, archiving, cloud, and AI enablement, in the Microsoft Azure Marketplace ..."
-    publishedDateTime: 2020-10-07T13:51:00Z
-    webUrl: "https://www.finanzen.net/nachricht/aktien/dicom-systems-launches-enterprise-imaging-platform-in-the-microsoft-azure-marketplace-deploys-to-a-leading-national-idn-9369504"
+    excerpt: "Dicom Systems, a healthcare IT software company, today announced the availability of Unifier enterprise imaging platform for medical imaging workflow, archiving, cloud, and"
+    publishedDateTime: 2020-10-07T14:15:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/dicom-systems-launches-enterprise-imaging-platform-in-the-microsoft-azure-marketplace-deploys-to-a-leading/article_dcf4caba-5bac-5aa8-942c-3e8e9c466f58.html"
     type: article
     provider:
-      name: Finanzen
-      domain: finanzen.net
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 29
     images:
-      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-        width: 600
-        height: 315
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/46/b4600382-2522-5315-b4e7-af4fc0fc8fd7/5f7dca1e9cfaa.image.jpg"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "3kakHOPS81FjoDfrac5kycZVC/GuSRhhTVDoTV4BFolXvcy4oR8Ohgbbq6Q/HJDDaXECDh3N7sYApG5PlDxUc3DmYG4VdtM/atVnzBu6cl/bACLRH7/jL2jjVE2WGjqP7FdjESJ+5Twm5X3ZPqLH9kDntmq7eDUtwCLEjKbfsRT/2KcpjGHmKDqwZAdqkV432yT/bLCFWFP195xN6AjBmd9zPlgdmPjw3j+mA6UQlIHoxgOJOTUAiGPr6rsjdargw5P2YefXva00aQDS9Nk1BPID9fBVd2trVSG5AbuAypt40XaVpdg6aLDXdbAQ6ANlLe92tWcfV882uhmiiEwn/m440hGEIGDrfEwxzy1jA5I=;jeDvfFiHysaMR/OS8Jq3MQ=="

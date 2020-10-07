@@ -65,6 +65,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "WILLIAMS: The fight for free speech"
+    excerpt: "The violence, looting and mayhem that this nation has seen over the last several months has much of its roots in academia, where leftist faculty teach immature young people all manner of nonsense that contradicts commonsense and the principles of liberty."
+    publishedDateTime: 2020-10-07T14:03:00Z
+    webUrl: "https://nsjonline.com/article/2020/10/williams-the-fight-for-free-speech/"
+    type: article
+    provider:
+      name: North State Journal
+      domain: nsjonline.com
+    quality: 24
+    images:
+      - url: "https://nsjonline.com/wp-content/uploads/2017/08/ws-326x245.jpg"
+        width: 326
+        height: 245
+        isCached: true
 
 secured: "h0Ovqxm3QA34zXssKooiWrivLoOqCEwLCW40KqzEDmuYnVCuq5XcfNMcRD1FGiYFhEyVsgUFeVQvErCr/wmxnlkUnw2gNIOY5R+QXFeOIu91OiD7m3gP5OoYzkVcfpqBNRZ6nvJaSf/Afgy1TPAzq+VkCXlTBakWVgBV7E+ZiXTfQ7VvtTKet4VJt27yLzqdYZP7kol/fZm3Qc56SIPtrznxCTuE3Psej8GVXMW+jlNUASKtosIjxjNA74umR9D7anPKTxp9YY4LpAu06soEbHcwx68EkM7LpMZK6CZONOOMmt56gvWt+OyIZqXEF/a9YV8a+SaP67HJUHn6qXMozq8FpkwEOTUGUal5lnKtc8JebWUmmNh2HEm9DaJUL1JTF9UdHFcEigcifgQgO5psU3cygfsnwmoclzTPr/K+kQ2XTOFfeEDxRhStoqeFF8BhxuXKXk1zdIM06oebu3M8Ohy+oLaodQUPPlPl+bmBXH8jpUdSwwD494+h8t+Voa8v0f0ZexBwQzE8H/u6uwbkTA==;T7l4nQFclOo7UJ3rDgMPYA=="
 ---

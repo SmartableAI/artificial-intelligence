@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2020/10/07/bespoken-spirits-raises-2-6m-in-seed-
 ampWebUrl: "https://techcrunch.com/2020/10/07/bespoken-spirits-raises-2-6m-in-seed-funding-to-combine-machine-learning-and-accelerated-whiskey-aging/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/07/bespoken-spirits-raises-2-6m-in-seed-funding-to-combine-machine-learning-and-accelerated-whiskey-aging/amp/"
 type: article
-quality: 88
-heat: 88
+quality: 90
+heat: 90
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/10/Bespoken-Product-Shot-3.jpg?w=1024"
@@ -30,6 +31,6 @@ images:
     height: 683
     isCached: true
 
-secured: "Tr2e1+euOW/nIxq+9V/7M2IXP4pTcHU7FLSBFgS1eZWNhmUpdEhOXipZWCC43dPB0GYokx9YarCcDunfdrSrsW0uMYMlhmbm8yAJupqoFfbdcyQZmyjCaNcuu78KAGhZrj+XLJ15foymOiuavga8YjPqTNm1aq6pxSHOFYyWAUWcZUxWYn8pVBI4+ZSWTQY6uI24idZs0NS9oEAmH0tLQff855ctQ8LfUAEFz2sT9/LLX7fBW2JE1nkCO0Cq9orALp9ZSYiuGHaFRgrsL+YGcjp61C7njpGWy4+zBEpgdOGNareeUIstJGccgaLEHeoyDKCtXrfvtXvt+KXN0TU3DwjX/aGKiocjT9qE39Z+vVc=;XWRgz9pElKP1qJDQVvk0nA=="
+secured: "vMunhL2cl/1FJUqEX45//dcgZegX4GAWVDanFKeAKvkaSdJU42LB/WjrP2MqQioP7rPSyenVv2knuGEpEHVHyFlyHktHv2AKgDm5oQQq2EOPdUf8KCDJo4eJLgTcE+SlKXmvbNcWOwZbCW7apH4/pg/vDbNVliZ5vq98EYPUu5j6MvVEt7wovbqIVNbE8leU0W2pcCVq08S3oZNkPvXQk4B4mipzVmRzAZ2GX/XlkytMEa625/iibaI/r/qmuNPDg/jkJnZa5dcjjGKkZP2qzpqmR3s1Qt6gpNJEbnVyGHTsm6gEaeH5x+F/qAlqTIwD9URQk5VQl9OB6qFhv6UkKm5vZyhC++G0a31jZOBfvVgD9kpj7ycRxoOAyh74JE21dGax4h9y/ipX1CFsNzTujglUkmD6mB3ISLi2sOd7y+Vp3h11I9QnVu7VGik/PVUjjIgyvTO3yBrbzwA8AbG9BG6fRwyXoBgUGtMbgXN2zAZut76tQ3lZpbU0w6O8Gji7tiXRRtpRtUKE/d4lNX/X9w==;//9nsvWcI9HDzBWJh1DsFg=="
 ---
 

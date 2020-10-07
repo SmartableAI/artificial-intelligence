@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "WILLIAMS: The fight for free speech"
+    excerpt: "The violence, looting and mayhem that this nation has seen over the last several months has much of its roots in academia, where leftist faculty teach immature young people all manner of nonsense that contradicts commonsense and the principles of liberty."
+    publishedDateTime: 2020-10-07T14:03:00Z
+    webUrl: "https://nsjonline.com/article/2020/10/williams-the-fight-for-free-speech/"
+    type: article
+    provider:
+      name: North State Journal
+      domain: nsjonline.com
+    quality: 24
+    images:
+      - url: "https://nsjonline.com/wp-content/uploads/2017/08/ws-326x245.jpg"
+        width: 326
+        height: 245
+        isCached: true
   - title: "Walter Williams: The True Test of Supporting Free Speech"
     excerpt: "The violence, looting, and mayhem that this nation has seen over the last several months has much of its roots in academia, where leftist faculty teach immature young people all manner of nonsense that contradicts commonsense and the principles of liberty."
     publishedDateTime: 2020-10-06T14:46:00Z

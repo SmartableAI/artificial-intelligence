@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Dicom Systems Launches Enterprise Imaging Platform in the Microsoft Azure Marketplace, Deploys to a Leading National IDN"
-excerpt: "Oct. 7, 2020 /PRNewswire/ -- Dicom Systems, a healthcare IT software company, today announced the availability of Unifier enterprise imaging platform for medical imaging workflow, archiving, cloud, and AI enablement, in the Microsoft Azure Marketplace ..."
-publishedDateTime: 2020-10-07T13:51:00Z
-originalUrl: "https://www.finanzen.net/nachricht/aktien/dicom-systems-launches-enterprise-imaging-platform-in-the-microsoft-azure-marketplace-deploys-to-a-leading-national-idn-9369504"
-webUrl: "https://www.finanzen.net/nachricht/aktien/dicom-systems-launches-enterprise-imaging-platform-in-the-microsoft-azure-marketplace-deploys-to-a-leading-national-idn-9369504"
+excerpt: "Dicom Systems, a healthcare IT software company, today announced the availability of Unifier enterprise imaging platform for medical imaging workflow, archiving, cloud, and"
+publishedDateTime: 2020-10-07T14:15:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/dicom-systems-launches-enterprise-imaging-platform-in-the-microsoft-azure-marketplace-deploys-to-a-leading/article_dcf4caba-5bac-5aa8-942c-3e8e9c466f58.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/dicom-systems-launches-enterprise-imaging-platform-in-the-microsoft-azure-marketplace-deploys-to-a-leading/article_dcf4caba-5bac-5aa8-942c-3e8e9c466f58.html"
 type: article
 quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Finanzen
-  domain: finanzen.net
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-    width: 600
-    height: 315
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/46/b4600382-2522-5315-b4e7-af4fc0fc8fd7/5f7dca1e9cfaa.image.jpg"
+    width: 400
+    height: 225
     isCached: true
 
 related:
@@ -104,6 +104,6 @@ related:
         height: 583
         isCached: true
 
-secured: "SVgi2vYJX0wyO1y5tq6JmOeo8TjTpwyyYg4atRJd3TKfzqKAUtGaNQHmWyLN6MBbAVtyINBp0ToJfSkObDpQbYeD3cIpl78u3dMymYj83zpESq0hDNyyR8mO7BRTWPx5EnoM6kSaVXzNWw4+/Br3TsJa8AmskX6T7EmGnY4P6ZQKs4pfOrvKut5gt/6C0X1JZF5PUOv2FollS2dm3FG1Md5Xaz1REZF0/NKzQ4xC9QJE1wGruxpFHiBii24lZRm07xa5LoFDlCrA9bCpai7sNXNKaql38G+J6OSaN8MLbo850fYLHTWaeZ2PlqLqrDMzZPBO5Mwhxh1E5fdkcoHAagEIzBDAkLGMFDU/OaIYwDg=;oiIlZFrj00hSli08I5bYLQ=="
+secured: "biedpL5m+rV8x3dlYvWjmSENveznse6/cCyOPsLPL5ATwWEWQNqQw8stYAnChrv92MwDjlOJNlSHSC/7R4fbO6Wco6TD4m9/vfSQDk7IwCm0guVzqfWfuE70YxPgdryZuq+2x5swcymp1pyDP5LkuFv8gw5LuHkDuqhBcJCSAlFzxDPAGPrGBSBcg/Js6oUAvC9jdnBd1weh/0zH2nBxBlwUcELPbWuPMN8sDDmdAWO0OcDsp9GrfVFWUinbPSO9hJbvEHQJzqshccnQe11THouHIgCYMd3o7GCma+98ReDB7j4Cjh3zlAQ44QQjKdpZW1R3zgrUYGoa7Hy89jTaTLjSQpY6gmmvgj9ZTnaIxKs=;uQQNBtSvOFpg2C2BJlgbXQ=="
 ---
 

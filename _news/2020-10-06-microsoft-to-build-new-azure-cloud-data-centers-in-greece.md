@@ -90,18 +90,18 @@ related:
         height: 583
         isCached: true
   - title: "Dicom Systems Launches Enterprise Imaging Platform in the Microsoft Azure Marketplace, Deploys to a Leading National IDN"
-    excerpt: "Oct. 7, 2020 /PRNewswire/ -- Dicom Systems, a healthcare IT software company, today announced the availability of Unifier enterprise imaging platform for medical imaging workflow, archiving, cloud, and AI enablement, in the Microsoft Azure Marketplace ..."
-    publishedDateTime: 2020-10-07T13:51:00Z
-    webUrl: "https://www.finanzen.net/nachricht/aktien/dicom-systems-launches-enterprise-imaging-platform-in-the-microsoft-azure-marketplace-deploys-to-a-leading-national-idn-9369504"
+    excerpt: "Dicom Systems, a healthcare IT software company, today announced the availability of Unifier enterprise imaging platform for medical imaging workflow, archiving, cloud, and"
+    publishedDateTime: 2020-10-07T14:15:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/dicom-systems-launches-enterprise-imaging-platform-in-the-microsoft-azure-marketplace-deploys-to-a-leading/article_dcf4caba-5bac-5aa8-942c-3e8e9c466f58.html"
     type: article
     provider:
-      name: Finanzen
-      domain: finanzen.net
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 29
     images:
-      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-        width: 600
-        height: 315
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/46/b4600382-2522-5315-b4e7-af4fc0fc8fd7/5f7dca1e9cfaa.image.jpg"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "5KC1YVovUZTAWNCoTjvLhHWIwtl+ddV10rCfnnvvw+lKpEOsYyzNNEYdsqGQtHcAM4BIUszdWY/h5o8Qewf+fISRYo1Xzr8F/7qxaNDtkrWjjyGBYwHQDUKxf8J9CHZQOZHCBtUPoxIPx+wRDZwguLi20hWBx6I/0Z3AOgNfc4PXCuWZCKRMj4K1WThC8tFHr4/4hkKcZpPivtLA4HqR+twiG+1iy6S4rOVYNR7YE5nIPVGRLkLhJAwLk8d42Srx7XS69Tdg8W1yrZhrCSAFG6LN6EqB0Z770NRqT4sH3fcqqUSs2hOAsV1Anvy/g6NETMCMM+134r4T0DTMR1g4Ee5kok+pGMBN3VNSqDkFU9O3KAHLpvx2JGKZbMWr0RfqfEU2I1G54E7dosxzkK65wJJsmncqsU4J9CAC4IMFSn3GppWX1v9PVEt51PqoqbyCB8UGTywv2G54LGiwJbRytDI70psckJYkjejr0BuOV7sIKARRX4gegJ4xy4gGlltJmWwg3miqH0F0d0/fKGO5wA==;kl2GpeUL3nHssEGre3BC0Q=="

@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Brings Artificial Intelligence At Scale To The Marketing And Media Industry"
-    excerpt: "IBM today announced three new products to add to its growing suite of AI solutions for brand and publishers. IBM intends to work with industry leaders, including Xandr/AT&T, Magnite, Nielsen, MediaMath,"
-    publishedDateTime: 2020-10-05T13:25:00Z
-    webUrl: "https://www.nasdaq.com/press-release/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-2020"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 47
   - title: "The Growing Role of Artificial Intelligence in Digital Payments Market"
     excerpt: "Marius Galdikas, CEO at ConnectPay  AI-driven technology is gaining momentum in the digital payments market, both in backend operations and customer-facing payment systems. Marius Galdikas, CEO at ConnectPay,"
     publishedDateTime: 2020-10-05T18:01:00Z
@@ -48,6 +39,20 @@ related:
       - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/10/Untitled-design-2020-10-05T231907.081.jpg"
         width: 750
         height: 422
+        isCached: true
+  - title: "IBM Brings Artificial Intelligence At Scale To The Marketing And Media Industry"
+    excerpt: "Our work will be a step forward in our evolution to meet the advertising industry's upheaval, and we are proud to help the advertising industry advance with the value of AI.\" The IBM Watson ..."
+    publishedDateTime: 2020-10-05T12:28:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-301145605.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 35
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+        width: 2698
+        height: 1414
         isCached: true
 
 secured: "7rr61Qasq0Vvnz0EIvXYcPJWmzi24RicCLJPDDPNQcuIAMCyx2BnXLi2MSnGOsnjB+C14p5aj6Q2tKw7vdXcdJaT8TfrJJIgqi6fTu9pcd4VJguzuO12+KLwxzSlGXSx/kMQ8e7OxzNu91E0cO7/LBFMYbjqdomTYxk9mZnXLDZa/KyRZTWW59kduOqSJVJZYvz8RJKXLypVLyNsEYVk8m+3H0L1bi/0UicNnZm7mLDcRxhgQZsl6ogANK1hx/bZI2ciGOIFZTrQ8Tpt+2Fb+zjnoYQRQ8Gag1ySTBfmPwtWqkD8PaKFSFqpoNd9Y6F20+v/+Z3NTJ0lWTS3vNo+Zf+P9LLj7clmvjPgCRObJGP68FBbL1UUwxZzvxw/BtsJy99Rx8Qn/8eu6PSQepLfvHtAJNYQfxyp481s187nVvvXHfFPiDc3xfqtCbM0j/dpVwRBbPmgDW9s0NfdDzdXuZQWDmRwf+/UtiPA9cdK9nnpinIFt6SQplrI0joxdq+6OdZ1a5xlBxLi6cLQADkWvQ==;vjuc5Vb/sxNePb3LE/rKFA=="

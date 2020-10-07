@@ -1,23 +1,28 @@
 ---
 category: news
 title: "IBM Brings Artificial Intelligence At Scale To The Marketing And Media Industry"
-excerpt: "IBM today announced three new products to add to its growing suite of AI solutions for brand and publishers. IBM intends to work with industry leaders, including Xandr/AT&T, Magnite, Nielsen, MediaMath,"
-publishedDateTime: 2020-10-05T13:25:00Z
-originalUrl: "https://www.nasdaq.com/press-release/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-2020"
-webUrl: "https://www.nasdaq.com/press-release/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-2020"
+excerpt: "Our work will be a step forward in our evolution to meet the advertising industry's upheaval, and we are proud to help the advertising industry advance with the value of AI.\" The IBM Watson ..."
+publishedDateTime: 2020-10-05T12:28:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-301145605.html"
+webUrl: "https://www.prnewswire.com/news-releases/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-301145605.html"
 type: article
-quality: 47
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AI in Healthcare
-  - AI
   - IBM AI
+  - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+    width: 2698
+    height: 1414
+    isCached: true
 
 related:
   - title: "7 Types of AI Marketing Tools That Drive Leads"
@@ -51,6 +56,6 @@ related:
         height: 422
         isCached: true
 
-secured: "+1zydtZHV88XtywPIbz40bVejDgKU+LMNrFxKuYzRKHpbm+p6r0M2Ib8jiUc1tZhpXntXwgLa9iYVmdHsr7z1fHnAZ7HO8r6gdOitPRn77dVF8aGNAVyF6/ERX484jqx3u4Dw5+5ds5dwrcmdIlAnFW6C0odLoJ7x9Ul+cLvBfgLynC4P6bfkQxsO+l0XokcKOX5D2PzyodLTrDz4TMtZ11LPHpCklpE4wApcxU6RRGK4kI0g/uMBAvfJXnfwRjV+FEOR5cLMMOh3W2Sskv2Nr/4Vzcr08hK94qUn49qSdA74JBX09nLMcwOYC6MrZ0fzRfUZ9MwcelmvPjEWmM+L9I6oe6/QscIF+dxK17Lv4c=;hVpre9KO/I0KbgpCECpPPg=="
+secured: "8BXQxOs4fpdjZsURR68e1exvyothV1R0Szc/0V0OXUG00VZWHVCruGtr1gxP8cbq1w9tcvNDX3fN7krKyl0PqxNERXUI849Efjz7o0rVmJdQNbcWrTFbAc8G3PtqhDHBXHNjbkQUNEUT3ymKS/cUy9Ty5Zokqs01lHonlcuGPSMpKuctSRELkVK1qzSYSX3vLo2LDUmtOEGAwpAb02vPgqnlkv2oAKGbKWgvkGqABN0bmnWg0Z6ajyRKNzl8M/Y3JvIu+Xs5x+E3udY5WY75aEeN0cG3KYvQVaMQllpHjw15p4eJh1xzfYslWM0jcHZYp9q3PSa8uREjLomMqhiYRQtAZPn4HjgLwf9+MVJGSJY=;nX46Mn5GshHXSY4BvVNXtw=="
 ---
 

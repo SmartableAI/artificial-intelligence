@@ -95,18 +95,18 @@ related:
         height: 583
         isCached: true
   - title: "Dicom Systems Launches Enterprise Imaging Platform in the Microsoft Azure Marketplace, Deploys to a Leading National IDN"
-    excerpt: "Oct. 7, 2020 /PRNewswire/ -- Dicom Systems, a healthcare IT software company, today announced the availability of Unifier enterprise imaging platform for medical imaging workflow, archiving, cloud, and AI enablement, in the Microsoft Azure Marketplace ..."
-    publishedDateTime: 2020-10-07T13:51:00Z
-    webUrl: "https://www.finanzen.net/nachricht/aktien/dicom-systems-launches-enterprise-imaging-platform-in-the-microsoft-azure-marketplace-deploys-to-a-leading-national-idn-9369504"
+    excerpt: "Dicom Systems, a healthcare IT software company, today announced the availability of Unifier enterprise imaging platform for medical imaging workflow, archiving, cloud, and"
+    publishedDateTime: 2020-10-07T14:15:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/dicom-systems-launches-enterprise-imaging-platform-in-the-microsoft-azure-marketplace-deploys-to-a-leading/article_dcf4caba-5bac-5aa8-942c-3e8e9c466f58.html"
     type: article
     provider:
-      name: Finanzen
-      domain: finanzen.net
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 29
     images:
-      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-        width: 600
-        height: 315
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/46/b4600382-2522-5315-b4e7-af4fc0fc8fd7/5f7dca1e9cfaa.image.jpg"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "ZTxF8btGwGg35YSvNXPT2dMiJWit0afCXGrUH6Phxyu6hXF7mRhpTUmGoNr8cETiJgqWz2tQ6Db/MyTCvp9U8jNd5PSsUw3e8rwK3RvkGYlIqLpf/YH64LfmP3cMNnWslx5MW0Crci6hB6AQFaZ1tCfnaZao4VljsTU2iBoFWi9jYGHlectKR8t9a28Mp1OJ8wDlLdPVIm9u5j65ezv6qKemR0CfAyrjhS51pdooz57buKzDAW9Nm1pkAAWpLA3MJDcM11vZ0H8HUvrY2s4+bd+A3mHyjDQnfo3SwPDLeevt4vJJBl6Enm3EQNhEG7xDVhH5uhHY7Q2De3jgI6WwWNkQKc5CLE25aE6LbrT//eE=;nYlEFPG/UdLBC3qDGETA6g=="

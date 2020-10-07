@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 699
         isCached: true
+  - title: "Deep-AI Launches Industry-First Integrated AI Training and Inference Solution for the Edge"
+    excerpt: "AI Technologies is emerging from stealth and launching the industry’s first integrated training and inference solution for deep learning at the edge. With Deep-AI, every inference node at the edge also becomes a training node,"
+    publishedDateTime: 2020-10-07T14:15:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/deep-ai-launches-industry-first-integrated-ai-training-and-inference-solution-for-the-edge/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 29
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/Segars-Haas-Huang-Oct2020-405x228.png"
+        width: 405
+        height: 228
+        isCached: true
 
 secured: "NkoO6mzyZ6yk9zwTopho0sYI7kD6dFmxG+QkomgvcMN6rmG8TP3m5KlY6Kb3iNgmlKPLeTrzgkfMEvFJ6HcnCsb4/hhSnYsDlaxKgTYtryYXb5BHassJ5U4Vr+RUsDbKK5BUlB+V4WkGRfi37ade0ijae4JyOc3zFhwwEe9z1GyTO+KI4uVi88FI1ejKeYR1inUQfxx7Qb002NUC3GpHglg/240rb+3EPXZQtaZOQDrLoz6OU+PP37ZqU77+o/IQdAEEeDUD2JCfNlLdvoyXLEArZIT4ijnDF2o31JsYSvT477d0BhWNwh76fAqaU2X8jEbngBmaZbbU4+ocMb3f37GDa9x2IMsGTHxnZI4BG1VgSl/ADZXEdW6jHD9leeEKsYA+gzUrYTE+qrA449uYpuWjXtsnAZSf9wZ1dfDAr3HzbfmK5JbU428m1pcoLn7t7yS4oT9NkP6Aj0rosXWZTx+wnVUebypubdEBLNNUZTAvOntgk81hNUIt78QS4s5Q98isbQBY8DN0UCP80SQFOQ==;zGHwGcth+PzqW61NSH73Bw=="
 ---
