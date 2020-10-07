@@ -2,6 +2,47 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-06-these-are-the-best-deals-from-ebays-fall-refresh-sale.md",
+      "title": "These are the best deals from eBay's Fall Refresh sale",
+      "excerpt": "Save an extra 15% on things like AirPods, the DJI Mavic Mini, DeWalt tools and more. Plus: Up to 90% off classic PC games.",
+      "sourceUrl": null,
+      "webUrl": "https://spectrum.ieee.org/tech-talk/artificial-intelligence/machine-learning/yoshua-bengio-revered-architect-of-ai-has-some-ideas-about-what-to-build-next",
+      "originalUrl": "https://www.cnet.com/news/these-are-the-best-deals-from-ebays-fall-refresh-sale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-05T11:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-make-your-everyday-smarter-with-jacquard.md",
       "title": "Make your everyday smarter with Jacquard",
       "excerpt": "Technology is most helpful when it’s frictionless. That is why we believe that computing should power experiences through the everyday things around you—an idea we call “ambient computing.” That’s why we developed the Jacquard platform to deliver ambient computing in a familiar, natural way: By building",
@@ -1143,57 +1184,6 @@
         "AI",
         "Facebook AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-04-machine-learning-tool-searches-the-lungs-for-signs-of-heart-failure.md",
-      "title": "Machine learning tool searches the lungs for signs of heart failure",
-      "excerpt": "One of the ways physicians can gain some forewarning of impending heart failure is through the detection of excess fluid in the lungs, and MIT researchers have developed a new machine learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/medical/machine-learning-lungs-signs-heart-failure/",
-      "originalUrl": "https://newatlas.com/medical/machine-learning-lungs-signs-heart-failure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/0a90af4/2147483647/strip/true/crop/784x523+0+39/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fbe%2F14%2F618ef1134cf088b71d33c386abe0%2Fpulmedema.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/medical/machine-learning-lungs-signs-heart-failure/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/medical/machine-learning-lungs-signs-heart-failure/?amp=true",
-      "publishedDateTime": "2020-10-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

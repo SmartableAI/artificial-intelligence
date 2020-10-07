@@ -15,8 +15,8 @@ provider:
   domain: prnewswire.com
 
 topics:
-  - Machine Learning
   - AI
+  - Machine Learning
   - AI Hardware
 
 images:
@@ -41,6 +41,6 @@ related:
         height: 291
         isCached: true
 
-secured: "HPed07bD3g9rbFog7lBysrESlbHhDBAGDJBo7Qmoj6xcXNyyUIrVjoGAPJdzDGXA6UKXZ+95pfifpsjnac6oIH7ZLMUBrP2Fm2IHEvz7AGrW7DsH6IFbcmstOip55mMH4ZLZeY5pBXkB7gd7DT7/0hyJCcI6g8y7yn6NFlUOW0P+hv/Mb3JmKlMZGU6DFYPucBnA5xN120G/x/wEXe0MNIHlJ6FjcMgRnsVc22qPf+95JSM0zHgwIjP01KgzwOlDKeyD052dhoocOWJjpkGAqtGZquj4ztSYOss+EhOvR64zNE/eWcWJIIy5RRSMPeIj/6r9xSMsBiqlPI7TCsOo+ZvBUdIfZmxHH00I31GkGkU=;cHzpAabOjqW8zoQTAHeylw=="
+secured: "TdANNAY2SWFo9TLCCUt1zDzgaJNv8DZPOnZMurecN+FpHC9kh4GGNTnTr14oZjgypyH3OeLSpiLcDfjAD2qWtGc/37lP3+0HAk979sNj3kI754IQkYjUw2mb7ccGR3WQxoPdC473RAjE5pc8I0AmEsxXvbXUVAnMYlsGo28r/UyxPut8qn4+fcoPcetdgZmm/68VnLRipZ0E7un0UGF2QkO21GMuyOpI7wGDo4dFY4S0YgUpj8GrkeHoKpF0kkwO/ON9aoLOM9cGyxsbmPFUMONPyJP+qYUaEOCDUPy6eAtP67Ap8HVw0wAWsZIlOvV2veLqq+mEtBVQTltJP48ZGh0CB28AJOofPglhdeGFLXc=;RL4q17Ikip4ztbZBbqITpA=="
 ---
 

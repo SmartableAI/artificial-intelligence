@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/researchers-probe-into-rna-using-deep-lea
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/researchers-probe-into-rna-using-deep-learning-to-develop-sensors-for-a-covid-19-diagnostic/"
 type: article
 quality: 79
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI tool can help doctors prioritize care, make discharging plans for COVID-19 patients"
+    excerpt: "An artificial intelligence tool can help doctors when deciding which COVID-19 patients can be sent home, according to a study that started in May. Researchers at New York University used the AI tool to analyze thousands of COVID-19 cases."
+    publishedDateTime: 2020-10-07T20:46:00Z
+    webUrl: "https://www.wxyz.com/news/national/coronavirus/ai-tool-can-help-doctors-prioritize-care-make-discharging-plans-for-covid-19-patients"
+    ampWebUrl: "https://www.wxyz.com/news/national/coronavirus/ai-tool-can-help-doctors-prioritize-care-make-discharging-plans-for-covid-19-patients?_amp=true"
+    cdnAmpWebUrl: "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/national/coronavirus/ai-tool-can-help-doctors-prioritize-care-make-discharging-plans-for-covid-19-patients?_amp=true"
+    type: article
+    provider:
+      name: WXYZ Detroit
+      domain: wxyz.com
+    quality: 49
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/7edc30c/2147483647/strip/true/crop/5402x3039+0+281/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F55%2F12%2F2e70d270412a84fd17fd3a89179e%2Fap-20280514929484.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Diagnosing COVID From a Person’s Voice"
     excerpt: "Researchers are exploring ways to use people’s vocalizations to diagnose coronavirus infections, dementia and depression"
     publishedDateTime: 2020-10-03T14:12:00Z

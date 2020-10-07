@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-02-alibaba-cloud-nears-profitability-as-customers-move-from-iaas-into-ai-data-analytics-workloads.md",
+      "title": "Alibaba Cloud nears profitability as customers move from IaaS into AI, data analytics workloads",
+      "excerpt": "Alibaba Cloud customers are moving into more demanding workloads and driving financial results. Even if Alibaba Cloud remains a mostly China cloud company it has a lot of revenue runway ahead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/alibaba-cloud-nears-profitability-as-customers-move-from-iaas-into-ai-data-analytics-workloads/",
+      "originalUrl": "https://www.zdnet.com/article/alibaba-cloud-nears-profitability-as-customers-move-from-iaas-into-ai-data-analytics-workloads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/10/01/a2830110-7534-4682-ad13-fe18a31a80f6/alibaba-cloud-stack.png",
+          "width": 1163,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/alibaba-cloud-nears-profitability-as-customers-move-from-iaas-into-ai-data-analytics-workloads/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alibaba-cloud-nears-profitability-as-customers-move-from-iaas-into-ai-data-analytics-workloads/",
+      "publishedDateTime": "2020-10-01T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-machine-learning-maximizes-email-marketing-roi-with-list-segmentation.md",
       "title": "Machine Learning Maximizes Email Marketing ROI With List Segmentation",
       "excerpt": "Your email marketing ROI can improve with the help of the superior list segmentation mechanisms that machine learning can provide.",
@@ -1144,57 +1196,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-googles-new-machine-learning-tool-turns-your-awful-humming-into-a-beautiful-violin-solo.md",
-      "title": "Google’s new machine learning tool turns your awful humming into a beautiful violin solo",
-      "excerpt": "I often sit on my sofa and hum tunes that I made up in my head. While doing that, I also imagine that my automatically gets converted to a beautiful musical piece. Google‘s new machine learning algorithm experiment,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/10/01/googles-new-machine-learning-tool-turns-your-awful-humming-into-a-beautiful-violin-solo/",
-      "originalUrl": "https://thenextweb.com/neural/2020/10/01/googles-new-machine-learning-tool-turns-your-awful-humming-into-a-beautiful-violin-solo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Tone-transfer-796x418.jpg",
-          "width": 796,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/10/01/googles-new-machine-learning-tool-turns-your-awful-humming-into-a-beautiful-violin-solo/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/01/googles-new-machine-learning-tool-turns-your-awful-humming-into-a-beautiful-violin-solo/amp/",
-      "publishedDateTime": "2020-10-01T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

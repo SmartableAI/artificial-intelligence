@@ -31,14 +31,19 @@ related:
       domain: gisuser.com
     quality: 37
   - title: "Exein to Showcase World-changing Security Solution at Global AI Conference"
-    excerpt: "NVIDIA GTC Digital-- Exein CEO Gianni Cuozzo offers the first public demonstration of edge security development company's ground-breaking open-source security framework for"
-    publishedDateTime: 2020-10-06T20:40:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/exein-to-showcase-world-changing-security-solution-at-global-ai-conference/article_a4da7554-2273-5502-9250-b90979d7f4d9.html"
+    excerpt: "GTC, taking place online, from October 5 to 9 2020, is the world's meeting place for the developers, researchers, scientists and engineers of the global AI community and provides a forum in which to exchange ideas and push the boundaries of the field."
+    publishedDateTime: 2020-10-06T18:59:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/exein-to-showcase-world-changing-security-solution-at-global-ai-conference-301147023.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 17
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1308268/Exein_Logo.jpg?p=facebook"
+        width: 1042
+        height: 546
+        isCached: true
 
 secured: "J3tkUoDtJj6Yxt/Ea1KfcrYRTpWrmd4gjKUL9oAqOk7HJUFsJlZ8cpoAKGteKg2lbmNEriDTJz9rKFl8iCJwByRUfDfiBuTPehP+vj25EV31DIjaZunOa7iyksFbg0Ryd4F3UP6Iw71HIGelR36Y0UqE2IXTGLsxkrvxrgS5jUbtrhjBk7fcriDdZOubGazEKEuq32TMzG9RAtfg0XvipapPC/cNo3Uk5DPVKnMsaCIkN/EY+sEzntKsa0M0vYgYz5PZ8GtFs4KOrpSXFYSQNYr0SgJJk9eRwC2+8+u+1Mcch9d6jaReB3VHfs9iQpDc3DLahK0LR7XLg0j5Qo3PWOPXfdTTIXY3r4Hwh4/mg7A=;R3gXj1hF3eEQvwnf9fy4Og=="
 ---

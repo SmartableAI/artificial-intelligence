@@ -537,6 +537,48 @@
       ]
     },
     {
+      "path": "_news/2020-10-07-82-of-people-believe-robots-can-support-their-mental-health-better-than-humans.md",
+      "title": "82% of people believe robots can support their mental health better than humans",
+      "excerpt": "The COVID-19 pandemic has negatively affected the mental health of 78% of the global workforce, a report by Oracle and Workplace Intelligence finds.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/82-of-people-believe-robots-can-support-their-mental-health-better-than-humans/",
+      "originalUrl": "https://www.techrepublic.com/article/82-of-people-believe-robots-can-support-their-mental-health-better-than-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/82-of-people-believe-robots-can-support-their-mental-health-better-than-humans/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/82-of-people-believe-robots-can-support-their-mental-health-better-than-humans/",
+      "publishedDateTime": "2020-10-07T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure.md",
       "title": "Tamr Announces the Only Cloud-Native Data Mastering Solutions for Google Cloud Platform, AWS, and Microsoft Azure",
       "excerpt": "PRNewswire/ -- Tamr, Inc., a cloud-native data mastering platform used by some of the world's largest enterprises",
@@ -1018,7 +1060,7 @@
       "originalUrl": "https://www.neowin.net/news/researchers-probe-into-rna-using-deep-learning-to-develop-sensors-for-a-covid-19-diagnostic",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1069,7 +1111,7 @@
       "originalUrl": "https://www.forbes.com/sites/tracybrower/2020/10/07/study-shows-people-prefer-robot-over-their-boss-6-ways-to-be-a-leader-people-prefer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -1159,48 +1201,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-ea-ceo-teases-new-machine-learning-and-ai-features-for-next-gen-games.md",
-      "title": "EA CEO teases new machine learning and AI features for next-gen games",
-      "excerpt": "EA's new experimental technologies like AI/machine learning will start manifesting in next-gen PlayStation 5, Xbox Series X games.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/75521/ea-ceo-teases-new-machine-learning-and-ai-features-for-next-gen-games/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/75521/ea-ceo-teases-new-machine-learning-and-ai-features-for-next-gen-games/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tweaktown.com/images/news/7/5/75521_6_ea-ceo-teases-new-machine-learning-and-ai-features-for-next-gen-games_full.png",
-          "width": 1200,
-          "height": 722,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.tweaktown.com/news/75521/ea-ceo-teases-new-machine-learning-and-ai-features-for-next-gen-games/amp.html",
-      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/75521/ea-ceo-teases-new-machine-learning-and-ai-features-for-next-gen-games/amp.html",
-      "publishedDateTime": "2020-10-06T20:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],
