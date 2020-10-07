@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Artificial intelligence can detect COVID-19 faster and easier"
-    excerpt: "Multiple scientific studies have uncovered how to use artificial intelligence to detect, but not prevent, the latest coronavirus."
-    publishedDateTime: 2020-10-02T07:46:00Z
-    webUrl: "https://calvinayre.com/2020/10/02/life/artificial-intelligence-can-detect-covid-19-faster-and-easier/"
-    ampWebUrl: "https://calvinayre.com/2020/10/02/life/artificial-intelligence-can-detect-covid-19-faster-and-easier/amp/"
-    cdnAmpWebUrl: "https://calvinayre-com.cdn.ampproject.org/c/s/calvinayre.com/2020/10/02/life/artificial-intelligence-can-detect-covid-19-faster-and-easier/amp/"
-    type: article
-    provider:
-      name: CalvinAyre
-      domain: calvinayre.com
-    quality: 59
-    images:
-      - url: "https://calvinayre.com/wp-content/uploads/2020/10/artificial-intelligence-can-detect-covid-19-faster-and-easier.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Researchers develop artificial intelligence for early prediction of COVID-19 from standard blood tests"
     excerpt: "A group of researchers have developed artificial intelligence (AI) that accurately predicts COVID-19 infection from standard blood tests. The AI solution has the potential to increase testing ..."
     publishedDateTime: 2020-10-05T13:51:00Z

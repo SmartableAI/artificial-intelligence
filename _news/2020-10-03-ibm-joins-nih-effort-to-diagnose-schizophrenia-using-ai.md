@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "IBM Brings Artificial Intelligence At Scale To The Marketing And Media Industry"
+    excerpt: "IBM today announced three new products to add to its growing suite of AI solutions for brand and publishers. IBM intends to work with industry leaders, including Xandr/AT&T, Magnite, Nielsen, MediaMath,"
+    publishedDateTime: 2020-10-05T13:25:00Z
+    webUrl: "https://www.nasdaq.com/press-release/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-2020"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 45
   - title: "How IBM Is Using AI At Scale To Benefit The Media Industry"
     excerpt: "IBM (NYSE: IBM) recently announced 3 new products to add to its growing suite of artificial intelligence solutions for brands and publishers. These are the details."
     publishedDateTime: 2020-10-06T19:00:00Z
@@ -41,20 +50,6 @@ related:
       name: Pulse 2.0
       domain: pulse2.com
     quality: 39
-  - title: "IBM Brings Artificial Intelligence At Scale To The Marketing And Media Industry"
-    excerpt: "PRNewswire/ -- IBM (NYSE: IBM) today announced three new products to add to its growing suite of AI solutions for brand and publishers. The new"
-    publishedDateTime: 2020-10-05T13:16:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry/article_49982e03-5ebc-599e-bd30-cddec2f3c1c3.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 33
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/da/dda7e99f-e470-54a0-afec-a29238bbefca/5f7b15a97fd81.image.jpg?resize=400%2C209"
-        width: 400
-        height: 209
-        isCached: true
 
 secured: "D9w4qcxSs85MX9etgYIeF1n5VsWCY+n4VH8vSOHdRjq1aHWH8NdpGY5hYaB5ujEKyvsnocdDBiQ8svqs4G3SDiW5L9t6Qzx080QYT4ZFbpzreFK/P8sVcLzRZ7bB1cKm2WKqhkrH19lNXJPDICWuIaDO0Dvuy/3m9vqIcapTiB4pzkhhKYpnf5/ycoO3+W1Khq48LB/riAH0MTh4o9TQ3IpirUV4o+FqINGVDgVUBxKkhLx04MqIFJmsmn7bOH0cR5GzEFTzvmsOKfagx3sEuqTPrtj5Ofg8Uk/IzgIko6JEKtVa5jm6I9P/fmiFkKna0Yfrhehe1fzdG3YlFt3Chl2GfElM4dtOtRwchV9AWeq7PNdgAJTlViYZjUlS53R0NvIqKr8ramWnfNJwklc+jD0KqK+o92pKkKjTprNC37Y2Gnh3oePmRfTGsuDXvCmJxBDYyNLpjnS3N8tHTrKKCk5JHSDa+q/ZdAZQ8q2vGEIacivHxxlf/+VdvPmGDOG3m/VUbHVY7fnwELPJx95m1g==;c7tiZovG3dKnuPqglQtyXw=="
 ---

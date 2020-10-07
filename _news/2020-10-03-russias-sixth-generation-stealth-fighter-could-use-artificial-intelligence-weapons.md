@@ -40,17 +40,6 @@ related:
         width: 545
         height: 364
         isCached: true
-  - title: "HRW Warns Of Privacy Concerns As Russia Expands Facial-Recognition Systems"
-    excerpt: "Human Rights Watch (HRW) has criticized Russia's plans to expand the use of \"invasive\" facial-recognition systems because of the group's \"serious concern\" over the project's potential threat to privacy. The Kommersant newspaper reported last week that CCTV ..."
-    publishedDateTime: 2020-10-02T07:41:00Z
-    webUrl: "https://www.rferl.org/a/hrw-warns-of-privacy-concerns-as-russia-expands-facial-recognition-systems/30869831.html"
-    ampWebUrl: "https://www.rferl.org/amp/hrw-warns-of-privacy-concerns-as-russia-expands-facial-recognition-systems/30869831.html"
-    cdnAmpWebUrl: "https://www-rferl-org.cdn.ampproject.org/c/s/www.rferl.org/amp/hrw-warns-of-privacy-concerns-as-russia-expands-facial-recognition-systems/30869831.html"
-    type: article
-    provider:
-      name: Radio Free Europe/Radio Liberty
-      domain: rferl.org
-    quality: 22
 
 secured: "A3BfQ1iWkKKAgprLTTVvfNTVzTbl/jJLtm8/vvSTp5q62oCe++Ihuf03WD9BXx4jOaqW+5DvsLKMFfrywzZ/Rx+gmXqbw4C5VmK7yZUbdVlRi9NYq/uw+eaJvXaJyD/NBGSgR0aZEe/UoCwdBUKMQAMj7FGjz6LLrNYhmHi23dITdRusLVqB/KbIEgS2anv1K2wykliVz0qq2SW/CXkTUCFrV5r7TOVIeQNSADL5TCWUFF0INqoy8tDlXTPZOc2Cyk1RsvT4Bd11gLuBX9oN2bGplMRZVaDqB6HuMoPiqqVMPs1VajceZf01iJbpxkUfZlyU9B69fJEV/IpGCvWGrFloeg1nz3ZHYLr2ZAtKV1Q=;YS3fnHDTXxoqJ+JMswZuqQ=="
 ---

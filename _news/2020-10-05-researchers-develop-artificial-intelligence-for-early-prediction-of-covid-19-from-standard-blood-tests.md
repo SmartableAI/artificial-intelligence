@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Artificial intelligence can detect COVID-19 faster and easier"
-    excerpt: "Multiple scientific studies have uncovered how to use artificial intelligence to detect, but not prevent, the latest coronavirus."
-    publishedDateTime: 2020-10-02T07:46:00Z
-    webUrl: "https://calvinayre.com/2020/10/02/life/artificial-intelligence-can-detect-covid-19-faster-and-easier/"
-    ampWebUrl: "https://calvinayre.com/2020/10/02/life/artificial-intelligence-can-detect-covid-19-faster-and-easier/amp/"
-    cdnAmpWebUrl: "https://calvinayre-com.cdn.ampproject.org/c/s/calvinayre.com/2020/10/02/life/artificial-intelligence-can-detect-covid-19-faster-and-easier/amp/"
-    type: article
-    provider:
-      name: CalvinAyre
-      domain: calvinayre.com
-    quality: 59
-    images:
-      - url: "https://calvinayre.com/wp-content/uploads/2020/10/artificial-intelligence-can-detect-covid-19-faster-and-easier.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Local startup is using AI to detect Covid-19"
     excerpt: "Local startup DetectNow is using AI to detect Covid-19. The startup, registered with National Incubation Center(NIC), uses AI to detect the presence of coronavi"
     publishedDateTime: 2020-10-05T22:56:00Z
