@@ -4,6 +4,56 @@
   "page": 9,
   "value": [
     {
+      "path": "_companies/wrappup.ai.md",
+      "title": "Wrappup",
+      "excerpt": "Wrappup directs productive meetings by using smart voice recording to create minutes from hours. Re-inventing the office meeting! https://t.co/weee4bWAbe",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/wrappup.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/wrappup.ai/",
+      "type": "profile",
+      "name": "Wrappup",
+      "overview": "Wrappup directs productive meetings by using smart voice recording to create minutes from hours. Re-inventing the office meeting! https://t.co/weee4bWAbe",
+      "website": "http://www.wrappup.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/wrappup",
+        "followers": 271
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/wrappup"
+      },
+      "twitter": {
+        "username": "justwrappup",
+        "url": "https://twitter.com/justwrappup",
+        "followers": 464
+      },
+      "size": "2-10 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "United States"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=wovsuTYqnC8"
+        }
+      ],
+      "heat": 50,
+      "tags": [
+        "Speech Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/646582005182803969/XdyDLY2T_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Wrappup",
+          "isCached": true
+        }
+      ]
+    },
+    {
       "path": "_companies/xnor.ai.md",
       "title": "Xnor.ai",
       "excerpt": "Xnor.ai brings highly efficient, super powerful AI to edge devices such as cameras, cars, drones, wearables and IoT devices.",
@@ -185,7 +235,7 @@
       "twitter": {
         "username": "benevolent_ai",
         "url": "https://twitter.com/benevolent_ai",
-        "followers": 6149
+        "followers": 6150
       },
       "size": "51-200 employees",
       "yearFounded": 2013,
@@ -270,61 +320,6 @@
           "height": 400,
           "title": "Blue Canoe Learning",
           "isCached": true
-        }
-      ]
-    },
-    {
-      "path": "_companies/bluehexagon.ai.md",
-      "title": "Blue Hexagon",
-      "excerpt": "Blue Hexagon is a deep learning innovator focused on protecting organizations from cyberthreats. We've built the industry's first real-time deep learning platform for network threat protection. We have a world class team of deep learning and security experts innovating and setting a new standard for cyber defense. We are headquartered in Sunnyvale, CA.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/bluehexagon.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/bluehexagon.ai/",
-      "type": "profile",
-      "name": "Blue Hexagon",
-      "overview": "Blue Hexagon is a deep learning innovator focused on protecting organizations from cyberthreats. We've built the industry's first real-time deep learning platform for network threat protection. We have a world class team of deep learning and security experts innovating and setting a new standard for cyber defense. We are headquartered in Sunnyvale, CA.",
-      "website": "https://bluehexagon.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/blue-hexagon-inc/",
-        "followers": 3669
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/blue-hexagon"
-      },
-      "twitter": {
-        "username": "bluehexagonai",
-        "url": "https://twitter.com/bluehexagonai",
-        "followers": 341
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "Sunnyvale, CA"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 41,
-      "tags": [
-        "Security"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1061031032105779200/HFuyqQ7L_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Blue Hexagon",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEreDMnmV-z6w/company-logo_200_200/0?e=1594857600&v=beta&t=wEesu17QpHr1GYg57sKuCfRsPlE6KDIRoEw86J4VU5s",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ]
     },
@@ -504,7 +499,7 @@
       "twitter": {
         "username": "dataminr",
         "url": "https://twitter.com/dataminr",
-        "followers": 14613
+        "followers": 14614
       },
       "size": "201-500 employees",
       "yearFounded": 2009,
@@ -556,7 +551,7 @@
       "twitter": {
         "username": "dominodatalab",
         "url": "https://twitter.com/dominodatalab",
-        "followers": 8469
+        "followers": 8471
       },
       "size": "51-200 employees",
       "yearFounded": 2013,
@@ -661,7 +656,7 @@
       "twitter": {
         "username": "gatik_ai",
         "url": "https://twitter.com/gatik_ai",
-        "followers": 281
+        "followers": 282
       },
       "size": "11-50 employees",
       "yearFounded": 2017,
@@ -1031,7 +1026,7 @@
       "twitter": {
         "username": "OrCam",
         "url": "https://twitter.com/OrCam",
-        "followers": 10463
+        "followers": 10464
       },
       "size": "51-200 employees",
       "yearFounded": 2010,
@@ -1456,7 +1451,7 @@
       "twitter": {
         "username": "anki",
         "url": "https://twitter.com/anki",
-        "followers": 26931
+        "followers": 26936
       },
       "size": "51-200 employees",
       "yearFounded": 2010,

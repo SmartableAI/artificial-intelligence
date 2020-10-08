@@ -4,6 +4,54 @@
   "page": 7,
   "value": [
     {
+      "path": "_companies/embodied.me.md",
+      "title": "Embodied",
+      "excerpt": "Paolo Pirjanian the former CTO of iRobot and founder &amp; CEO of Evolution Robotics (acquired by iRobot) founded Embodied with a mission to create the next big thing in robotics.  Embodied draws on more than 15 years of robotics commercialization experience, combined with our team's expertise in computational neuroscience, psychology, and storytelling and leverages the confluence of technologies including machine vision, speech, and machine learning to create robots that will revolutionize care and wellness for humans.  We are hiring!  See our web site and join us in creating robots that improve human wellness and quality of life.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/embodied.me/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/embodied.me/",
+      "type": "profile",
+      "name": "Embodied",
+      "otherNames": [
+        "Embodied, Inc."
+      ],
+      "overview": "Paolo Pirjanian the former CTO of iRobot and founder &amp; CEO of Evolution Robotics (acquired by iRobot) founded Embodied with a mission to create the next big thing in robotics.  Embodied draws on more than 15 years of robotics commercialization experience, combined with our team's expertise in computational neuroscience, psychology, and storytelling and leverages the confluence of technologies including machine vision, speech, and machine learning to create robots that will revolutionize care and wellness for humans.  We are hiring!  See our web site and join us in creating robots that improve human wellness and quality of life.",
+      "website": "http://www.embodied.me/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/embodied-inc./",
+        "followers": 2827
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/embodied-inc"
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2016,
+      "locations": [
+        "Pasadena, CA"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=TOj9VNZqki8"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQF2x1uqjVFKGA/company-logo_200_200/0?e=1594857600&v=beta&t=7avpbYKmEG7uCjYS0_jdqWd7-HmfSyM1SoyqaYQW9o0",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ]
+    },
+    {
       "path": "_companies/eyediagnosis.net.md",
       "title": "IDx",
       "excerpt": "IDx is a leading AI diagnostics company on a mission to transform the quality, accessibility, and affordability of healthcare. Founded in 2010 by a team of world-renowned clinician scientists, the company is focused on developing clinically-aligned autonomous algorithms that detect disease in medical images. By enabling diagnostic assessment in primary care settings, IDx aims to increase patient access to high-quality, affordable disease detection.",
@@ -364,7 +412,7 @@
       "twitter": {
         "username": "healx",
         "url": "https://twitter.com/healx",
-        "followers": 2061
+        "followers": 2062
       },
       "size": "11-50 employees",
       "yearFounded": 2014,
@@ -870,7 +918,7 @@
       "twitter": {
         "username": "lexmachina",
         "url": "https://twitter.com/lexmachina",
-        "followers": 5374
+        "followers": 5375
       },
       "size": "51-200 employees",
       "yearFounded": 2010,
@@ -1181,7 +1229,7 @@
       "twitter": {
         "username": "mighty_ai",
         "url": "https://twitter.com/mighty_ai",
-        "followers": 1795
+        "followers": 1796
       },
       "size": "51-200 employees",
       "yearFounded": 2014,
@@ -1421,61 +1469,6 @@
           "height": 400,
           "title": "Mythic",
           "isCached": true
-        }
-      ]
-    },
-    {
-      "path": "_companies/netguardians.ch.md",
-      "title": "NetGuardians",
-      "excerpt": "NetGuardians is an award winning Swiss FinTech. Established in 2007, we help over 50 Tier 1 to Tier 3 banks worldwide to fight financial crime. NetGuardians developed the first augmented intelligence solution made for banks to proactively prevent fraud. We empower our clients by providing machine learning technology together with contextual information and great user experience. Banks using NetGuardians’ solution achieved 83% reduction in false positives, saved 93% of the time lost in fraud investigation, and prevented new fraud cases. We were recognized as Gartner Cool Vendor in 2015 and Chartis RiskTech 100 Vendor in 2018.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/netguardians.ch/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/netguardians.ch/",
-      "type": "profile",
-      "name": "NetGuardians",
-      "overview": "NetGuardians is an award winning Swiss FinTech. Established in 2007, we help over 50 Tier 1 to Tier 3 banks worldwide to fight financial crime. NetGuardians developed the first augmented intelligence solution made for banks to proactively prevent fraud. We empower our clients by providing machine learning technology together with contextual information and great user experience. Banks using NetGuardians’ solution achieved 83% reduction in false positives, saved 93% of the time lost in fraud investigation, and prevented new fraud cases. We were recognized as Gartner Cool Vendor in 2015 and Chartis RiskTech 100 Vendor in 2018.",
-      "website": "https://netguardians.ch/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/netguardians/",
-        "followers": 3764
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/netguardians"
-      },
-      "twitter": {
-        "username": "netguardians",
-        "url": "https://twitter.com/netguardians",
-        "followers": 1498
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2007,
-      "locations": [
-        "Yverdon, Vaud"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ],
-      "heat": 50,
-      "tags": [
-        "FinTech"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/998935117614608385/FWOiFezQ_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "NetGuardians",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFqlh02WuY6yw/company-logo_200_200/0?e=1594857600&v=beta&t=Rbmg26H88Yy5LTjE_R-GDY2tykYTwtwUGZILkdLpwVA",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ]
     }
