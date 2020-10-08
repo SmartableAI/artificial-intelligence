@@ -2,6 +2,377 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2020-09-06-how-we-use-automl-multi-task-learning-and-multi-tower-models-for-pinterest-ads.md",
+      "title": "How we use AutoML, Multi-task learning and Multi-tower models for Pinterest Ads",
+      "excerpt": "People come to Pinterest in an exploration mindset, often engaging with ads the same way they do with organic Pins. Within ads our mission is to help Pinners go from inspiration to action by introducing them to the compelling products and services that advertisers have to offer.",
+      "sourceUrl": null,
+      "webUrl": "https://medium.com/pinterest-engineering/how-we-use-automl-multi-task-learning-and-multi-tower-models-for-pinterest-ads-db966c3dc99e",
+      "originalUrl": "https://medium.com/pinterest-engineering/how-we-use-automl-multi-task-learning-and-multi-tower-models-for-pinterest-ads-db966c3dc99e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/0*SjXTL5HxYIoa7pPP",
+          "width": 1200,
+          "height": 1433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-06T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-06-this-deep-learning-and-data-analysis-training-is-on-sale-for-just-40.md",
+      "title": "This deep learning and data analysis training is on sale for just $40",
+      "excerpt": "TL;DR: Add to your business skills with the Deep Learning and Data Analysis Certification bundle for $39.99, a 97% savings as of Sept. 6. The world isn't getting any bigger, but what we ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/shopping/sept-6-data-analysis-course-bundle/",
+      "originalUrl": "https://mashable.com/shopping/sept-6-data-analysis-course-bundle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F09%252F06%252Fb5%252F4274b365dc38489fb132f09b33c4f5dc.4df0a.jpg%252F1200x630.jpg?signature=fpeOU7XjXlNPpx4m-UdzxM_r1vI=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/shopping/sept-6-data-analysis-course-bundle.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/shopping/sept-6-data-analysis-course-bundle.amp",
+      "publishedDateTime": "2020-09-06T02:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-06-are-hydrogen-cars-still-happening.md",
+      "title": "Are Hydrogen Cars Still Happening?",
+      "excerpt": "With that said, there are still many edge cases where humble hydrogen may yet find its place in the market. Battery EVs are great for urban commuters who travel only short distances each day.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2018/10/9/17950502/robot-farm-future-iron-ox-agriculture-automation",
+      "originalUrl": "https://hackaday.com/2019/09/04/are-hydrogen-cars-still-happening/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/NguBio2Jay-urtprWRs86MSN3Oc=/0x0:8688x5792/1400x933/filters:focal(3649x2201:5039x3591):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/61702509/Mover_front.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2018/10/9/17950502/robot-farm-future-iron-ox-agriculture-automation",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2018/10/9/17950502/robot-farm-future-iron-ox-agriculture-automation",
+      "publishedDateTime": "2020-09-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-06-google-launches-ai-platform-that-looks-remarkably-like-a-raspberry-pi.md",
+      "title": "Google Launches AI Platform That Looks Remarkably Like A Raspberry Pi",
+      "excerpt": "Here is the link to the board that looks like a Raspberry Pi. This new hardware was launched ahead of the TensorFlow Dev Summit, revolving around machine learning and ‘AI’ in embedded ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2019/03/05/google-launches-ai-platform-that-looks-remarkably-like-a-raspberry-pi/",
+      "originalUrl": "https://hackaday.com/2019/03/05/google-launches-ai-platform-that-looks-remarkably-like-a-raspberry-pi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2019/03/googletpu.png",
+          "width": 800,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-05-glaxos-biology-research-with-novel-cerebras-machine-shows-hardware-may-change-how-ai-is-done.md",
+      "title": "Glaxo’s biology research with novel Cerebras machine shows hardware may change how AI is done",
+      "excerpt": "A novel computer system built by Cerebras Systems of Los Altos, California, is already leading to changes in the way drug giant Glaxo builds large neural nets for drug development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/glaxos-biology-research-with-novel-cerebras-machine-shows-hardware-may-change-how-ai-is-done/",
+      "originalUrl": "https://www.zdnet.com/article/glaxos-biology-research-with-novel-cerebras-machine-shows-hardware-may-change-how-ai-is-done/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/09/05/85444d14-f9ca-4917-966b-19ce28b3cfe1/cerebras-wse.jpg",
+          "width": 1030,
+          "height": 1036,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/glaxos-biology-research-with-novel-cerebras-machine-shows-hardware-may-change-how-ai-is-done/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/glaxos-biology-research-with-novel-cerebras-machine-shows-hardware-may-change-how-ai-is-done/",
+      "publishedDateTime": "2020-09-05T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-09-05-how-adobe-is-using-an-ai-chatbot-to-support-its-22000-remote-workers.md",
+      "title": "How Adobe is using an AI chatbot to support its 22,000 remote workers",
+      "excerpt": "When the COVID-19 shutdown began in March, my team at Adobe realized we had to completely rethink our support infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/05/how-adobe-is-using-an-ai-chatbot-to-support-its-22000-remote-workers/",
+      "originalUrl": "https://venturebeat.com/2020/09/05/how-adobe-is-using-an-ai-chatbot-to-support-its-22000-remote-workers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/chatbot.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/05/how-adobe-is-using-an-ai-chatbot-to-support-its-22000-remote-workers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/05/how-adobe-is-using-an-ai-chatbot-to-support-its-22000-remote-workers/amp/",
+      "publishedDateTime": "2020-09-05T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-05-google-is-creating-a-microscope-with-ai-and-ar-to-help-detect-cancer.md",
+      "title": "Google is creating a microscope with AI and AR to help detect cancer",
+      "excerpt": "Google plans to train an AI using the open-source platform TensorFlow to detect cancerous cells in photos taken from a microscope. They’ve already started developing the neural networks by using the Google Cloud Healthcare API to de-identify and segment",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/86645-google-creating-microscope-ai-ar-help-detect-cancer.html",
+      "originalUrl": "https://www.techspot.com/news/86645-google-creating-microscope-ai-ar-help-detect-cancer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/09/2020-09-05-image-3.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/86645-google-creating-microscope-ai-ar-help-detect-cancer.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/86645-google-creating-microscope-ai-ar-help-detect-cancer.html",
+      "publishedDateTime": "2020-09-05T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-05-can-big-data-analytics-and-machine-learning-help-contain-wildfire-next-time.md",
+      "title": "Can Big Data Analytics and Machine Learning Help Contain Wildfire Next Time?",
+      "excerpt": "Researchers are developing tools to predict wildfire leveraging technology, real-time data to prevent devastation",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.sg/can-big-data-analytics-machine-learning-help-contain-wildfire-next-time-51201",
+      "originalUrl": "https://www.ibtimes.sg/can-big-data-analytics-machine-learning-help-contain-wildfire-next-time-51201",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://data.ibtimes.sg/en/full/41411/california-fire.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.ibtimes.sg/can-big-data-analytics-machine-learning-help-contain-wildfire-next-time-51201",
+      "cdnAmpWebUrl": "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/can-big-data-analytics-machine-learning-help-contain-wildfire-next-time-51201",
+      "publishedDateTime": "2020-09-05T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ellen",
+        "domain": "ibtimes.sg",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-05-nvidias-dlss-ai-upscaling-sdk-now-supports-vr.md",
       "title": "Nvidia’s DLSS AI-upscaling SDK now supports VR",
       "excerpt": "Nvidia's DLSS neural upscaling technology now works with virtual reality titles. This could enable some VR games to make a visual leap.",
@@ -779,359 +1150,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-tenet-is-a-palindrome-and-maybe-self-driving-cars-ought-to-be-reversible-too.md",
-      "title": "TENET Is A Palindrome And Maybe Self-Driving Cars Ought To Be Reversible Too",
-      "excerpt": "TENET and the reversibility of palindromes and self-driving cars. getty. The new sci-fi thriller Tenet has brought palindromes to the forefront of our minds, along with jolting us",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/04/tenet-is-a-palindrome-and-maybe-self-driving-cars-ought-to-be-reversible-too/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/04/tenet-is-a-palindrome-and-maybe-self-driving-cars-ought-to-be-reversible-too/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4d8f8244d95c174212a597%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5472%26cropY1%3D277%26cropY2%3D3355",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/04/tenet-is-a-palindrome-and-maybe-self-driving-cars-ought-to-be-reversible-too/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/04/tenet-is-a-palindrome-and-maybe-self-driving-cars-ought-to-be-reversible-too/amp/",
-      "publishedDateTime": "2020-09-04T08:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-viewpoint-peachtree-corners-ahead-of-its-time-with-technology.md",
-      "title": "Viewpoint: Peachtree Corners ahead of its time with technology",
-      "excerpt": "Enter Peachtree Corners. The city is serving as a leader for how government entities and the private sector best work together to build out true smart city ecosystems across the country. Peachtree Corners is uniquely governed and positioned to test,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/atlanta/news/2020/09/04/peachtree-corners-viewpoint.html",
-      "originalUrl": "https://www.bizjournals.com/atlanta/news/2020/09/04/peachtree-corners-viewpoint.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.bizjournals.com/atlanta/news/2020/09/04/peachtree-corners-viewpoint.amp.html",
-      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/atlanta/news/2020/09/04/peachtree-corners-viewpoint.amp.html",
-      "publishedDateTime": "2020-09-04T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-tsa-is-testing-facial-recognition-at-security-checkpoints.md",
-      "title": "TSA is testing facial recognition at security checkpoints",
-      "excerpt": "To increase security and promote social distancing, the TSA is testing touchless facial recognition technology to get you to your gate. “We want to do what we can to have fewer touchpoints for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kwqc.com/2020/09/04/tsa-is-testing-facial-recognition-at-security-checkpoints/",
-      "originalUrl": "https://www.kwqc.com/2020/09/04/tsa-is-testing-facial-recognition-at-security-checkpoints/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-04T07:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KWQC",
-        "domain": "kwqc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-mustard-raises-17m-to-improve-athletic-mechanics-with-ai.md",
-      "title": "Mustard raises $1.7M to improve athletic mechanics with AI",
-      "excerpt": "Athletic coaching is a massive, multi-billion-dollar industry. No surprise, really, given the massive revenue some top athletes are able to generate. Mustard is working to supplant — or at least augment — some of that pricey coaching with the launch of a new mobile app designed to analyze an",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/04/mustard-raises-1-7m-to-improve-athletic-mechanics-with-ai/",
-      "originalUrl": "https://techcrunch.com/2020/09/04/mustard-raises-1-7m-to-improve-athletic-mechanics-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-03-at-3.17.28-PM.jpg?w=1024",
-          "width": 1024,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/04/mustard-raises-1-7m-to-improve-athletic-mechanics-with-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/04/mustard-raises-1-7m-to-improve-athletic-mechanics-with-ai/amp/",
-      "publishedDateTime": "2020-09-04T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-faulty-facial-recognition-led-to-his-arrestnow-hes-suing.md",
-      "title": "Faulty Facial Recognition Led to His Arrest—Now He’s Suing",
-      "excerpt": "Michael Oliver is the second Black man found to be wrongfully arrested by Detroit police because of the technology—and his lawyers suspect there are many more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en_us/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing",
-      "originalUrl": "https://www.vice.com/en_us/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com//articles/5f4fefdd972acd00959db0e6/lede/1599158657813-img1508.jpeg?crop=1xw:0.8743135838150289xh;center,center",
-          "width": 2689,
-          "height": 1512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en_us/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing",
-      "publishedDateTime": "2020-09-04T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-nigeria-to-establish-centre-for-artificial-intelligence-robotics.md",
-      "title": "Nigeria to establish centre for artificial intelligence, robotics",
-      "excerpt": "The National Information Technology Development Agency (NITDA) has said it is set to establish a Centre for Artificial Intelligence and Robotics in Nigeria.",
-      "sourceUrl": null,
-      "webUrl": "https://www.today.ng/technology/nigeria-establish-centre-artificial-intelligence-robotics-316386",
-      "originalUrl": "https://www.today.ng/technology/nigeria-establish-centre-artificial-intelligence-robotics-316386",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.today.ng/wp-content/uploads/2020/09/04135016.jpg",
-          "width": 699,
-          "height": 499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.today.ng/technology/nigeria-establish-centre-artificial-intelligence-robotics-316386/amp",
-      "cdnAmpWebUrl": "https://www-today-ng.cdn.ampproject.org/c/s/www.today.ng/technology/nigeria-establish-centre-artificial-intelligence-robotics-316386/amp",
-      "publishedDateTime": "2020-09-04T06:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TODAY",
-        "domain": "today.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-machine-learning-as-a-service-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030.md",
-      "title": "Machine Learning As A Service Market Size, Growth, Trends, Company Analysis and Forecast 2020 to 2030",
-      "excerpt": "The global Machine Learning As A Service Market stood at US$ 1,071.6 Mn in 2016. The study projects the global",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-09-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-09-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-04T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-phoenixville-public-library-continues-to-offer-online-programs.md",
-      "title": "Phoenixville Public Library continues to offer online programs",
-      "excerpt": "Here's a roundup of upcoming online programs offered by the Phoenixvlle Public Library: Phoenixville Public Library will host a free online presentation — “The Red Cross and YOU!” — on Tuesday, September 8 at 7:00 PM.",
-      "sourceUrl": null,
-      "webUrl": "https://www.phoenixvillenews.com/lifestyle/phoenixville-public-library-continues-to-offer-online-programs/article_6739c1fa-eca6-11ea-a71e-2f099e37b615.html",
-      "originalUrl": "https://www.phoenixvillenews.com/lifestyle/phoenixville-public-library-continues-to-offer-online-programs/article_6739c1fa-eca6-11ea-a71e-2f099e37b615.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/phoenixvillenews.com/content/tncms/custom/image/eeba0d98-53a0-11e8-bdb2-2bcaaf51ad2e.jpg?resize=600%2C600",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-04T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phoenixville News",
-        "domain": "phoenixvillenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

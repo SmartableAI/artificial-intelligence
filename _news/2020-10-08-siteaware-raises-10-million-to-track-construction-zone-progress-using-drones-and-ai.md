@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Tipalti raises $150 million to automate payment workflows with AI"
-    excerpt: "Payments automation company Tipalti has raised $150 million at a $2 billion valuation to further expand its global workforce."
-    publishedDateTime: 2020-10-06T12:16:00Z
-    webUrl: "https://venturebeat.com/2020/10/06/tipalti-raises-150-million-to-automate-payment-workflows-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/10/06/tipalti-raises-150-million-to-automate-payment-workflows-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/06/tipalti-raises-150-million-to-automate-payment-workflows-with-ai/amp/"
+  - title: "Exer Labs raises $2 million and launches computer vision app for Peloton-style coached workouts"
+    excerpt: "Exer Labs has raised $2 million in funding and it has unveiled its AI-based Exer Studio app for the Mac that captures your movements for coaching advice."
+    publishedDateTime: 2020-10-08T12:03:00Z
+    webUrl: "https://venturebeat.com/2020/10/08/exer-labs-raises-2-million-and-launches-computer-vision-app-for-peloton-style-coached-workouts/"
+    ampWebUrl: "https://venturebeat.com/2020/10/08/exer-labs-raises-2-million-and-launches-computer-vision-app-for-peloton-style-coached-workouts/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/08/exer-labs-raises-2-million-and-launches-computer-vision-app-for-peloton-style-coached-workouts/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 92
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/04/rendered.jpg?w=1200&#038;strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/10/exer-4.jpg?w=1200&#038;strip=all"
         width: 1200
-        height: 850
+        height: 621
         isCached: true
 
 secured: "Q98VFi++IklQn2g2fHvjYzlbWSyUy6qFg/06jd98Py9OUlR03JnxIra4qC6h2m5lnukBBlcCs6lh2gehaEVqTz46NoJkuOBtaoZbQI1KOP3IaFFKNYRBbRzK8gnqVsWiBGdS9B0q7zuC6F3eck5GfY3F0ne7FPMyOlvBNd8msX/9KI8t7Cx85zCJg4IN1gpLCxQNzUWXIb+jOOGr0p9OUdOn0YnUE1d5BzQl3ncjPqrnfH+SH0gDsNcPBlO5d4t7Rq1Rs0MxO996JlCfWycP1B0sKc+MXfoA+Czlf/PSyTNu2a3jeO9ohDDZVT0FLOjzJa2IYC4XUdXl+oKuoL2s2TgfjxpotT1qzw0FkiJcfBk=;rUUxKBP6xfOd1CuT+llhHQ=="

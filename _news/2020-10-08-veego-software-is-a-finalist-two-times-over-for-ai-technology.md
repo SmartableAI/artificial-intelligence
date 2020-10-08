@@ -7,7 +7,7 @@ originalUrl: "https://www.pr.com/press-release/822752"
 webUrl: "https://www.pr.com/press-release/822752"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,24 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "AI Softwares to Look For In 2021"
-    excerpt: "In the last few years, technological progress has reached a new high. AI or artificial intelligence is no longer an obscure buzzword used by the geeks! Real-world AI applications can be seen in many sectors, and you can spot AI-enabled devices and ..."
-    publishedDateTime: 2020-10-07T17:30:00Z
-    webUrl: "https://www.jpost.com/special-content/ai-softwares-to-look-for-in-2021-644926"
-    ampWebUrl: "https://m.jpost.com/special-content/ai-softwares-to-look-for-in-2021-644926/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/special-content/ai-softwares-to-look-for-in-2021-644926/amp"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 61
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/464693"
-        width: 640
-        height: 428
-        isCached: true
 
 secured: "tG1/ZFpcU2NCb7+fKPeFXdq66j23sa9I7QD/qbcZxIb2GRW3Fzm8w+m3hspvC38+hd9HO8E5RIGX0PkSif2+38LJ2VnSMikoe9s+933VCG1iv7sy9C5vPhF//eu0EDGIE6dQNDa5hqNJDG6pZAGRrsLF/RHRnp/oYC/04ZXYnkrPakNuWFu81T/09yGGv+kz31I65FEHpLGBKJJLUWmgKtaKPqQwJLgoUX8ruWE90DZjsBrV9uaG18FEcKtxBxezqL3UKqxZNLvxDveReB/vpgshhw3pjy7kSFgSW037qeUBoX2g4bRhkoq457tC7SpXwdFGLpxZ5FZrjEfevynwzbOcZuhVgs5Sdeu5nFqLjT+PvPVfLyd2SrXJLld58gp8dbNp0gahWvukOWnDHg+Tbpo1EkVOY6UaJl3bDHl6T3hXHcIyT9k646y8Yib7WHOHGUBGhBlHLPIfOcXfAAOYp93PnEXD+ilIEwvMPAx+gRzlM3aKKakbMQrs4+eqnBUx24VhK0b2XB/bZX67qClm7Q==;O0tKMcZSmQS7HTiEz6rIcQ=="
 ---

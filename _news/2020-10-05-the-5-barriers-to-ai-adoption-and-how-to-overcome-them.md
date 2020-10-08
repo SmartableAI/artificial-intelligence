@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/video/the-5-barriers-to-ai-adoption-and-how-
 webUrl: "https://www.zdnet.com/video/the-5-barriers-to-ai-adoption-and-how-to-overcome-them/"
 type: article
 quality: 67
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     width: 370
     height: 278
     isCached: true
+
+related:
+  - title: "Nine Big Hurdles Of Adopting Artificial Intelligence (And How To Overcome Them)"
+    excerpt: "Artificial intelligence is an extremely valuable tool that can save your business time, energy and money. However, implementing AI can be a big challenge for any company. From choosing the right AI-powered tool to setting up the right data inputs and ..."
+    publishedDateTime: 2020-10-08T12:18:00Z
+    webUrl: "https://www.forbes.com/sites/theyec/2020/10/08/nine-big-hurdles-of-adopting-artificial-intelligence-and-how-to-overcome-them/"
+    ampWebUrl: "https://www.forbes.com/sites/theyec/2020/10/08/nine-big-hurdles-of-adopting-artificial-intelligence-and-how-to-overcome-them/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2020/10/08/nine-big-hurdles-of-adopting-artificial-intelligence-and-how-to-overcome-them/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 83
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7dce40f79d0a361086b5fe%2F0x0.jpg"
+        width: 1200
+        height: 579
+        isCached: true
 
 secured: "YR/M3eC91ugJsSMscV78k0mZ7vP79aiqW0pwdzsOvxTwvOiw8yT41rAGLgbWwCM+jM+IBkeycS/95Vre0c+UJut5ycuVrVbhvbCsr+mMxTWciWFI/Et1crcFqTDRtigZORM+n1qHX1dqj65tRTSe9j/JD8y8ct14JIePaiIs5ecpmG32NhP92OxgylpKz7i8E62/ZVvQqP6Mm6fqHggGgDmmT0ggbVqNxWVgC3TZQp6JSSvE1+/Pm1zuJa8xP4AjzHrc6/qwmvRwqxyMDaGl66CWjlNnOlvp02Sf488o5E/DOgmMusCiM9HgVcmcaidw6sa66xmWJhBtbUbgoOrlMN6e21ORHYsRMsn31L62wWY=;ZuYRNWTVWOrDvloD0l1/1A=="
 ---

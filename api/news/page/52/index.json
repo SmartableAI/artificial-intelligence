@@ -2,156 +2,21 @@
   "page": 52,
   "value": [
     {
-      "path": "_news/2020-08-25-baidu-creates-worlds-largest-chinese-natural-language-processing-database.md",
-      "title": "Baidu creates ‘world’s largest’ Chinese natural language processing database",
-      "excerpt": "Baidu launched Qian Yan, which it says is the largest Chinese database for natural language processing, among other AI-related products on Tuesday.",
+      "path": "_news/2020-08-28-orlando-police-end-test-of-amazons-real-time-facial-rekognition-system.md",
+      "title": "Orlando Police End Test Of Amazon's Real-Time Facial 'Rekognition' System",
+      "excerpt": "The city of Orlando, Fla., says it has ended a pilot program in which its police force used Amazon's real-time facial recognition — a system called \"Rekognition\" that had triggered complaints from rights and privacy groups when its use was revealed ...",
       "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/article/3098785/baidu-creates-worlds-largest-chinese-natural-language-processing-database",
-      "originalUrl": "https://www.scmp.com/tech/article/3098785/baidu-creates-worlds-largest-chinese-natural-language-processing-database",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/08/25/369bdc3e-e6b8-11ea-8600-abe4f45458c9_image_hires_181012.jpg?itok=uBMsQDjL&v=1598350221",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/article/3098785/baidu-creates-worlds-largest-chinese-natural-language-processing-database",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3098785/baidu-creates-worlds-largest-chinese-natural-language-processing-database",
-      "publishedDateTime": "2020-08-25T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-5-life-saving-applications-of-artificial-intelligence.md",
-      "title": "5 Life-Saving Applications Of Artificial Intelligence",
-      "excerpt": "It’s one thing for a chatbot to help resolve an e-commerce order—it’s quite another to detect a heart attack in progress. Here are five ways AI is saving lives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/serenitygibbons/2020/08/25/5-life-saving-applications-of-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/serenitygibbons/2020/08/25/5-life-saving-applications-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f43c2e03588e8c7ad96f810%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/serenitygibbons/2020/08/25/5-life-saving-applications-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/serenitygibbons/2020/08/25/5-life-saving-applications-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-08-25T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-artificial-intelligence-in-radiation-oncology.md",
-      "title": "Artificial intelligence in radiation oncology",
-      "excerpt": "Artificial intelligence (AI) has the potential to fundamentally ... efficiency and overall quality of radiation therapy for patients with cancer. In this Perspective, we first provide a general ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/s41571-020-0417-8",
-      "originalUrl": "https://www.nature.com/articles/s41571-020-0417-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-25T02:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service.md",
-      "title": "Microsoft introduces Hindi, Indian English to Neural Text-to- Speech service",
-      "excerpt": "Microsoft India has announced the addition of English (India) and Hindi to its Neural Text to Speech (Neural TTS) service language set, featuring the two languages among the 15 new dialects added to the service enabled with state-of-the-art AI audio quality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailypioneer.com/2020/technology/microsoft-introduces-hindi--indian-english-to-neural-text-to--speech-service.html",
-      "originalUrl": "https://www.dailypioneer.com/2020/technology/microsoft-introduces-hindi--indian-english-to-neural-text-to--speech-service.html",
+      "webUrl": "https://www.wgbh.org/news/national-news/2018/06/26/orlando-police-end-test-of-amazons-real-time-facial-rekognition-system",
+      "originalUrl": "https://www.wgbh.org/news/national-news/2018/06/26/orlando-police-end-test-of-amazons-real-time-facial-rekognition-system",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.dailypioneer.com/uploads/2020/story/images/big/microsoft-introduces-hindi--indian-english-to-neural-text-to--speech-service-2020-08-25.jpg",
-          "width": 1000,
-          "height": 800,
+          "url": "https://wgbh.brightspotcdn.com/dims4/default/22686fc/2147483647/strip/true/crop/1289x725+0+0/resize/1289x725!/quality/70/?url=https%3A%2F%2Fwgbh.brightspotcdn.com%2F31%2F05%2Ff38c541872ecbe4555d2826173f0%2Forlando-traffic-cam-wide-4d242769fd25bb799656278a22eeccd635957ace.jpg",
+          "width": 1289,
+          "height": 725,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -160,405 +25,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-25T02:16:00-07:00",
+      "publishedDateTime": "2020-08-27T15:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Pioneer",
-        "domain": "dailypioneer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-mobile-speech-recognition-software-market-to-grow-in-future-by-size-developments-trends-by-2027.md",
-      "title": "Mobile Speech Recognition Software market to grow in future by size, developments, trends by 2027",
-      "excerpt": "The most advanced study released by AMR on the Mobile Speech Recognition Software market comprising key market segments such as Type Application Sales Growth Comprises details of companies manufacturing field production volume capacities value chain product specifications raw material sourcing",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2120587/mobile-speech-recognition-software-market-to-grow-in-future",
-      "originalUrl": "https://www.openpr.com/news/2120587/mobile-speech-recognition-software-market-to-grow-in-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/8/T825932661_g.jpg",
-          "width": 650,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2120587/mobile-speech-recognition-software-market-to-grow-in-future",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2120587/mobile-speech-recognition-software-market-to-grow-in-future",
-      "publishedDateTime": "2020-08-25T02:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-hyderabad-mp-asaduddin-owaisi-seeks-ban-on-facial-recognition.md",
-      "title": "Hyderabad MP Asaduddin Owaisi seeks ban on facial recognition",
-      "excerpt": "HYDERABAD: Calling the technology inaccurate, AIMIM leader and Hyderabad MP Asaduddin Owaisi on Monday said he will move a private members bill banning the use of facial recognition and remote ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/hyderabad/hyderabad-mp-asaduddin-owaisi-seeks-ban-on-facial-recognition/articleshow/77738866.cms",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-77738878/77738878.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/hyderabad/hyderabad-mp-asaduddin-owaisi-seeks-ban-on-facial-recognition/amp_articleshow/77738866.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/hyderabad-mp-asaduddin-owaisi-seeks-ban-on-facial-recognition/amp_articleshow/77738866.cms",
-      "publishedDateTime": "2020-08-25T01:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-increases-by-294.md",
-      "title": "Short Interest in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Increases By 29.4%",
-      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) saw a large increase in short interest during the month of July. As of July 31st, there was short interest totalling 4,400 shares,",
-      "sourceUrl": null,
-      "webUrl": "https://theenterpriseleader.com/2020/08/23/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-increases-by-29-4.html",
-      "originalUrl": "https://theenterpriseleader.com/2020/08/23/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-increases-by-29-4.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://theenterpriseleader.com/2020/08/23/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-increases-by-29-4.html/amp",
-      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2020/08/23/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-increases-by-29-4.html/amp",
-      "publishedDateTime": "2020-08-25T00:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theenterpriseleader.com",
-        "domain": "theenterpriseleader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-irobot-is-giving-its-vacuum-cleaners-a-new-ai-powered-brain.md",
-      "title": "iRobot is giving its vacuum cleaners a new AI-powered brain",
-      "excerpt": "Robot is announcing what it’s calling the biggest software upgrade to its robot vacuum cleaners since the company’s inception 30 years ago: a new AI-powered platform known as iRobot Genius Home Intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/8/25/21377585/irobot-ai-software-update-home-intelligence-genius-app",
-      "originalUrl": "https://www.theverge.com/2020/8/25/21377585/irobot-ai-software-update-home-intelligence-genius-app",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/XIY_c2Aah5GOK_o3Y4409CdRH7I=/27x36:2048x1479/1400x933/filters:focal(879x354:1205x680):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67290083/s9_Photo_In_situ_Precision_Clean_Zone_Alexa.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/8/25/21377585/irobot-ai-software-update-home-intelligence-genius-app",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/8/25/21377585/irobot-ai-software-update-home-intelligence-genius-app",
-      "publishedDateTime": "2020-08-24T21:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-08-24-why-indonesia-is-poised-to-become-the-next-ai-start-up-hub.md",
-      "title": "Why Indonesia is poised to become the next AI start-up hub",
-      "excerpt": "The Indonesian edtech market has grown immensely in recent history, with the World Bank counting over a hundred start-ups in the past few years alone.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/article/3098596/why-indonesia-poised-become-next-ai-start-hub",
-      "originalUrl": "https://www.scmp.com/tech/article/3098596/why-indonesia-poised-become-next-ai-start-hub",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/methode/2020/08/25/280f6304-e5da-11ea-8600-abe4f45458c9_image_hires_063556.jpg?itok=yOG-ieI3&v=1598308565",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/article/3098596/why-indonesia-poised-become-next-ai-start-hub",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3098596/why-indonesia-poised-become-next-ai-start-hub",
-      "publishedDateTime": "2020-08-24T14:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-24-mit-is-developing-an-ai-cancer-diagnosis-system.md",
-      "title": "MIT Is Developing an AI Cancer Diagnosis System",
-      "excerpt": "Diagnosing cancer is a depressingly common activity in hospitals—but spotting subtle variations in tumor types can require sifting through hundreds of previous cases. At MIT, though, researchers are developing a system that uses Artificial Intelligence to speed up that process.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/mit-is-developing-an-ai-cancer-diagnosis-system-1699916919",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/mijxpgk5vtiwiubd04dj.jpg",
-          "width": 800,
-          "height": 362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/mit-is-developing-an-ai-cancer-diagnosis-system-1699916919/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/mit-is-developing-an-ai-cancer-diagnosis-system-1699916919/amp",
-      "publishedDateTime": "2020-08-24T14:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-stradvision-to-collaborate-with-leading-custom-soc-supplier-socionext-to-provide-efficient-adas-solutions.md",
-      "title": "StradVision to collaborate with leading custom SoC supplier Socionext to provide efficient ADAS solutions",
-      "excerpt": "SAN JOSE, Calif., Aug. 24, 2020 /PRNewswire/ -- StradVision has announced a collaboration with Socionext Inc., a leading supplier of System-on-Chip (SoC) solutions, to bring StradVision's deep ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/08/n17218459/stradvision-to-collaborate-with-leading-custom-soc-supplier-socionext-to-provide-efficient-adas-so",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/08/n17218459/stradvision-to-collaborate-with-leading-custom-soc-supplier-socionext-to-provide-efficient-adas-so",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17218459",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17218459",
-      "publishedDateTime": "2020-08-24T14:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-24-stradvision-to-collaborate-with-leading-custom-soc-supplier-socionext-to-provide-efficient-adas-solutions.md",
-      "title": "StradVision to collaborate with leading custom SoC supplier Socionext to provide efficient ADAS solutions",
-      "excerpt": "StradVision has announced a collaboration with Socionext Inc., a leading supplier of System-on-Chip (SoC) solutions, to bring",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/stradvision-to-collaborate-with-leading-custom-soc-supplier-socionext-to-provide-efficient-adas-solutions-301117303.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/stradvision-to-collaborate-with-leading-custom-soc-supplier-socionext-to-provide-efficient-adas-solutions-301117303.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1003667/StradVision_Logo.jpg?p=facebook",
-          "width": 1413,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-24T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program.md",
-      "title": "HSG Digital joins Amazon Web Services Contact Center Intelligence solutions partner program",
-      "excerpt": "HGS Digital LLC, a subsidiary of Hinduja Global Solutions, announced its participation as an Amazon Web Services (AWS) Contact Center Intelligence (CCI) solutions Partner program. This unique designation recognizes that HGS Digital is an AWS Partner Network (APN) Partner that specializes in helping customers add intelligence to their existing contact center solution,",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiainfoline.com/article/companies-announcements-bse/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082500273_1.html",
-      "originalUrl": "https://www.indiainfoline.com/article/companies-announcements-bse/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082500273_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg",
-          "width": 350,
-          "height": 233,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.indiainfoline.com/article-amp/companies-announcements-bse/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082500273_1.html",
-      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/companies-announcements-bse/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082500273_1.html",
-      "publishedDateTime": "2020-08-24T13:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Infoline",
-        "domain": "indiainfoline.com",
+        "name": "WGBH",
+        "domain": "wgbh.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -573,54 +44,12 @@
       ]
     },
     {
-      "path": "_news/2020-08-24-hgs-digital-joins-aws-contact-center-intelligence-solutions-partner-program.md",
-      "title": "HGS DIGITAL Joins AWS Contact Center Intelligence Solutions Partner Program",
-      "excerpt": "services such as Amazon SageMaker, Amazon Comprehend, Amazon Transcribe, and Amazon Lex, to gain greater efficiencies and deliver increasingly tailored customer experiences. With 61 delivery ...",
+      "path": "_news/2020-08-28-frost-sullivan-recognizes-linkshadow-as-innovation-leader-in-user-and-entity-behavior-analytics-based-on-machine-learning.md",
+      "title": "Frost & Sullivan Recognizes LinkShadow as Innovation Leader in User and Entity Behavior Analytics Based on Machine Learning",
+      "excerpt": "Frost & Sullivan has named LinkShadow as a top industry innovator in the Frost Radar™: User and Entity Behavior Analytics Based on",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/hgs-digital-joins-aws-contact-center-intelligence-solutions-partner-program/article_10eb404c-d0a4-5495-8ee2-2a647b273f7a.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/hgs-digital-joins-aws-contact-center-intelligence-solutions-partner-program/article_10eb404c-d0a4-5495-8ee2-2a647b273f7a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-24T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-hgs-digital-joins-aws-contact-center-intelligence-solutions-partner-program.md",
-      "title": "HGS DIGITAL Joins AWS Contact Center Intelligence Solutions Partner Program",
-      "excerpt": "HGS Digital LLC, a subsidiary of Hinduja Global Solutions Ltd (listed in BSE & NSE), today announced its participation as an Amazon",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/hgs-digital-joins-aws-contact-center-intelligence-solutions-partner-program-301117280.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/hgs-digital-joins-aws-contact-center-intelligence-solutions-partner-program-301117280.html",
+      "webUrl": "https://www.prnewswire.com/in/news-releases/frost-amp-sullivan-recognizes-linkshadow-as-innovation-leader-in-user-and-entity-behavior-analytics-based-on-machine-learning-832126362.html",
+      "originalUrl": "https://www.prnewswire.com/in/news-releases/frost-amp-sullivan-recognizes-linkshadow-as-innovation-leader-in-user-and-entity-behavior-analytics-based-on-machine-learning-832126362.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -638,7 +67,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-24T12:06:00-07:00",
+      "publishedDateTime": "2020-08-27T14:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PR Newswire",
@@ -652,78 +81,26 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "Machine Learning",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-08-24-the-impact-of-ai-on-journalism.md",
-      "title": "The Impact of AI on Journalism",
-      "excerpt": "AIs write hundreds of thousands of the articles that are published by mainstream media outlets every week. What next?",
+      "path": "_news/2020-08-28-solidus-strike-gold-with-100m-contract-and-partnership-with-microsoft.md",
+      "title": "Solidus strike gold with €100m contract and partnership with Microsoft",
+      "excerpt": "The World as we know it is forever and progressively evolving, and thus has become more reliant on technology for our day to day",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/calumchace/2020/08/24/the-impact-of-ai-on-journalism/",
-      "originalUrl": "https://www.forbes.com/sites/calumchace/2020/08/24/the-impact-of-ai-on-journalism/",
+      "webUrl": "https://www.prnewswire.com/news-releases/solidus-strike-gold-with-100m-contract-and-partnership-with-microsoft-301120002.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/solidus-strike-gold-with-100m-contract-and-partnership-with-microsoft-301120002.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f44057db9b4ab89d27f81ce%2F0x0.jpg",
-          "width": 1200,
-          "height": 718,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2020/08/24/the-impact-of-ai-on-journalism/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2020/08/24/the-impact-of-ai-on-journalism/amp/",
-      "publishedDateTime": "2020-08-24T11:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-24-building-a-customized-recommender-system-in-amazon-sagemaker.md",
-      "title": "Building a customized recommender system in Amazon SageMaker",
-      "excerpt": "Recommender systems help you tailor customer experiences on online platforms. Amazon Personalize is an artificial intelligence and machine learning service that specializes in developing recommender system solutions. It automatically examines the data, performs feature and algorithm selection, optimizes",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-customized-recommender-system-in-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-customized-recommender-system-in-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/20/customized-recommender-sagemaker-1.jpg",
-          "width": 800,
-          "height": 487,
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -732,21 +109,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-24T11:30:09-07:00",
+      "publishedDateTime": "2020-08-27T12:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -755,141 +123,40 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-24-african-manufacturing-ai-firm-dataprophet-raises-6m.md",
-      "title": "African Manufacturing AI Firm DataProphet Raises $6m",
-      "excerpt": "DataProphet, an award-winning AI for manufacturing company based in South Africa, has raised a $6m funding round for international expansion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tobyshapshak/2020/08/24/african-manufacturing-ai-firm-dataprophet-raises-6m/",
-      "originalUrl": "https://www.forbes.com/sites/tobyshapshak/2020/08/24/african-manufacturing-ai-firm-dataprophet-raises-6m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f43fd4f709d5fe8c76b6c73%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tobyshapshak/2020/08/24/african-manufacturing-ai-firm-dataprophet-raises-6m/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tobyshapshak/2020/08/24/african-manufacturing-ai-firm-dataprophet-raises-6m/amp/",
-      "publishedDateTime": "2020-08-24T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-08-24-ever-once-accused-of-building-facial-recognition-tech-using-customer-data-shuts-down-consumer-app.md",
-      "title": "Ever, once accused of building facial recognition tech using customer data, shuts down consumer app",
-      "excerpt": "Cloud photo storage app Ever is shutting down, citing increased competition with the default services offered by Apple and Google as the cause. The company, however, had other issues beyond the plight of a small startup trying to compete with tech giants.",
+      "path": "_news/2020-08-28-qualcomm-backed-firm-releases-processor-as-ai-chip-race-heats-up.md",
+      "title": "Qualcomm-backed firm releases processor as AI chip race heats up",
+      "excerpt": "Kneron Inc, a semiconductor startup backed by venture capital arms of Qualcomm Inc and Alibaba Group Holding Ltd, on Thursday announced a new chip aimed at handling artificial intelligence functions on battery-powered devices.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/24/ever-once-accused-of-building-facial-recognition-tech-using-customer-data-shuts-down-consumer-app/",
-      "originalUrl": "https://techcrunch.com/2020/08/24/ever-once-accused-of-building-facial-recognition-tech-using-customer-data-shuts-down-consumer-app/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2016/09/everalbum.png?w=1024",
-          "width": 1024,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/24/ever-once-accused-of-building-facial-recognition-tech-using-customer-data-shuts-down-consumer-app/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/24/ever-once-accused-of-building-facial-recognition-tech-using-customer-data-shuts-down-consumer-app/amp/",
-      "publishedDateTime": "2020-08-24T11:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-sintrones-edge-ai-gpu-computing-solution-enabling-flexibility-ebox-7000.md",
-      "title": "SINTRONES Edge AI GPU Computing Solution enabling flexibility: EBOX-7000",
-      "excerpt": "It is expandable with Nvidia Tesla Card, Nvidia GPU card, Nvme card, image capture card and I/O card. Furthermore, EBOX-7000 can be used in edge AI enhancements, intelligent video analytics AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/sintrones-edge-ai-gpu-computing-solution-enabling-flexibility-ebox-7000-0",
-      "originalUrl": "https://www.asiaone.com/business/sintrones-edge-ai-gpu-computing-solution-enabling-flexibility-ebox-7000-0",
+      "webUrl": "https://www.reuters.com/article/us-kneron-tech-idUSKBN25N23K",
+      "originalUrl": "https://www.reuters.com/article/us-kneron-tech-idUSKBN25N23K",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/themes/asiaone_amp/logo.png",
-          "width": 299,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/sintrones-edge-ai-gpu-computing-solution-enabling-flexibility-ebox-7000-0?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/sintrones-edge-ai-gpu-computing-solution-enabling-flexibility-ebox-7000-0?amp",
-      "publishedDateTime": "2020-08-24T11:24:00-07:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN25N23K",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN25N23K",
+      "publishedDateTime": "2020-08-27T12:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -901,234 +168,7 @@
         "AI Hardware",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2020-08-25-how-microsofts-analytics-strategy-might-evolve-with-a-tiktok-buy.md",
-      "title": "How Microsoft’s Analytics Strategy Might Evolve With a TikTok Buy",
-      "excerpt": "And while Windows is still around, Google's runaway success with its Google Analytics platform, combined with its domination in online search, made Bing a far distant second place choice for consumers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-experience/how-microsofts-analytics-strategy-might-evolve-with-a-tiktok-buy/",
-      "originalUrl": "https://www.cmswire.com/digital-experience/how-microsofts-analytics-strategy-might-evolve-with-a-tiktok-buy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/6d55894afd3d41d6a3b931e6380855f6.ashx",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-24T10:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-24-idtechex-research-details-opportunities-and-challenges-of-artificial-intelligence-in-robotic-surgery.md",
-      "title": "IDTechEx Research Details Opportunities and Challenges of Artificial Intelligence in Robotic Surgery",
-      "excerpt": "The rapid progress of artificial intelligence (AI) technologies in the last 5-10 years has led many to associate it with robotic surgery systems. Currently, however, few robotic surgery systems are equipped with AI-driven human-robot interaction capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/idtechex-research-details-opportunities-and-challenges-of-artificial-intelligence-in-robotic-surgery-1029528471",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/idtechex-research-details-opportunities-and-challenges-of-artificial-intelligence-in-robotic-surgery-1029528471",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/idtechex-research-details-opportunities-and-challenges-of-artificial-intelligence-in-robotic-surgery-1029528471",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/idtechex-research-details-opportunities-and-challenges-of-artificial-intelligence-in-robotic-surgery-1029528471",
-      "publishedDateTime": "2020-08-24T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-24-microsofts-ai-for-health-supports-covid-19-vaccine-development.md",
-      "title": "Microsoft's AI for Health supports COVID-19 vaccine development",
-      "excerpt": "Given the global urgency of the COVID-19 pandemic, Microsoft's AI for Health program has stepped in to support the development and potential deployment of Vaxine's COVAX-19 vaccine with a philanthropic grant.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-08-microsoft-ai-health-covid-vaccine.html",
-      "originalUrl": "https://medicalxpress.com/news/2020-08-microsoft-ai-health-covid-vaccine.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/2-microsoftsai.jpg",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-08-microsoft-ai-health-covid-vaccine.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-08-microsoft-ai-health-covid-vaccine.amp",
-      "publishedDateTime": "2020-08-24T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-24-cloud-natural-language-processing-market-research-key-players-industry-overview-supply-chain-and-analysis-to-2024.md",
-      "title": "Cloud Natural Language Processing Market Research Key Players, Industry Overview, Supply Chain and Analysis to 2024",
-      "excerpt": "Selbyville, Delaware Global Cloud Natural Language Processing Market Report added at Market Study Report LLC provides industry size, share, growth, trends and forecast analysis up to period. Cloud Natural Language Processing Market Report also covers top key players,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-research-key-players-industry-overview-supply-chain-and-analysis-to-2024-2020-08-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-research-key-players-industry-overview-supply-chain-and-analysis-to-2024-2020-08-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-24T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-24-this-philosopher-ai-has-its-own-existential-questions-to-answer.md",
-      "title": "This Philosopher AI has its own existential questions to answer",
-      "excerpt": "A new text-generating system called the Philosopher AI will answer your questions about the meaning of life -- unless they're too contentious.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/08/24/this-philosopher-ai-has-its-own-existential-questions-to-answer/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-24T160614.887-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/08/24/this-philosopher-ai-has-its-own-existential-questions-to-answer/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/24/this-philosopher-ai-has-its-own-existential-questions-to-answer/amp/",
-      "publishedDateTime": "2020-08-24T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
     }
   ],
-  "nextPage": 53
+  "nextPage": null
 }

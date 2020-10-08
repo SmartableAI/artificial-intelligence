@@ -37,6 +37,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 80
+  - title: "More on: Maxim’s AI chip for battery-powered products also adds Risc-V"
+    excerpt: "Maxim announced an AI processing chip for battery-powered devices needing convolutional neural networks (CNNs). What the company has done, i"
+    publishedDateTime: 2020-10-08T13:25:00Z
+    webUrl: "https://www.electronicsweekly.com/news/products/micros/maxims-ai-chip-battery-powered-products-also-adds-risc-v-2020-10/"
+    type: article
+    provider:
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 54
+    images:
+      - url: "https://static.electronicsweekly.com/wp-content/uploads/2020/10/08140909/MAX78000-block-1169.jpg"
+        width: 1160
+        height: 481
+        isCached: true
   - title: "Maxim Integrated Releases a New NN Accelerator Chip for Low-Power Processing at the Edge"
     excerpt: "Maxim Integrated released its newest product, a low-power NN accelerator chip, with the hopes of bringing AI to the edge. We interviewed Kris Ardis, executive director of Micros, Security, and Software Business Unit at Maxim Integrated to get the details."
     publishedDateTime: 2020-10-07T17:19:00Z

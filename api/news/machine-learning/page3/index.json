@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-23-facebook-removes-chinese-network-of-fake-accounts-that-used-ai-generated-faces.md",
+      "title": "Facebook removes Chinese network of fake accounts that used AI-generated faces",
+      "excerpt": "The operation reportedly used AI-generated Facebook profile photos to spread government propaganda about Beijing's interests in the South China Sea.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/23/facebook-removes-chinese-network-of-fake-accounts-that-used-ai-generated-faces/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/23/facebook-removes-chinese-network-of-fake-accounts-that-used-ai-generated-faces/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-92-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/23/facebook-removes-chinese-network-of-fake-accounts-that-used-ai-generated-faces/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/23/facebook-removes-chinese-network-of-fake-accounts-that-used-ai-generated-faces/amp/",
+      "publishedDateTime": "2020-09-23T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-14-open-source-tools-to-make-the-most-of-machine-learning.md",
       "title": "14 open source tools to make the most of machine learning",
       "excerpt": "Apache Mahout provides a way to build environments for hosting machine learning applications that can be scaled quickly and efficiently to meet demand. Mahout works mainly with another well-known Apache project, Spark, and was originally devised to work ...",
@@ -1277,57 +1329,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-get-this-deep-learning-data-analysis-certification-bundle-for-only-3999.md",
-      "title": "Get this Deep Learning & Data Analysis Certification Bundle for only $39.99",
-      "excerpt": "Deep Learning Statistics & Machine Learning For Regression Modeling With R Learn Hands-On Regression Analysis for Practical Statistical Modeling & Machine Learning in R Master PyTorch For ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/get-this-deep-learning--data-analysis-certification-bundle-for-only-3999",
-      "originalUrl": "https://www.neowin.net/news/get-this-deep-learning--data-analysis-certification-bundle-for-only-3999",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2016/11/1478080627_deep_learning_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/get-this-deep-learning--data-analysis-certification-bundle-for-only-3999/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/get-this-deep-learning--data-analysis-certification-bundle-for-only-3999/",
-      "publishedDateTime": "2020-09-15T13:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

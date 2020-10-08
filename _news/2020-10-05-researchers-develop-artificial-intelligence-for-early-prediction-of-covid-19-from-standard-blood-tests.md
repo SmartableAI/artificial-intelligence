@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Local startup is using AI to detect Covid-19"
-    excerpt: "Local startup DetectNow is using AI to detect Covid-19. The startup, registered with National Incubation Center(NIC), uses AI to detect the presence of coronavi"
-    publishedDateTime: 2020-10-05T22:56:00Z
-    webUrl: "https://tribune.com.pk/story/2267058/local-startup-is-using-ai-to-detect-covid-19"
-    ampWebUrl: "https://tribune.com.pk/story/2267058/local-startup-is-using-ai-to-detect-covid-19"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2267058/local-startup-is-using-ai-to-detect-covid-19"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 57
-    images:
-      - url: " https://i.tribune.com.pk/media/images/DNPK1601906236-0/DNPK1601906236-0.jpg  "
-        width: 900
-        height: 600
-        isCached: true
   - title: "Will robots and AI take our jobs in covid-19’s socially distanced era?"
     excerpt: "Coronavirus has put a rocket under plans for more automation, roboticisation and use of AI. Should we fear for our jobs – or will we just get better ones?"
     publishedDateTime: 2020-10-07T19:07:00Z

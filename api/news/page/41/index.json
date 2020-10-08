@@ -2,6 +2,361 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2020-09-04-3-start-ups-selected-for-innovation-challenge.md",
+      "title": "3 start-ups selected for Innovation Challenge",
+      "excerpt": "Three start-ups have been selected to develop proof-of-concept (PoC) systems in the RTX Innovation Challenge in Computer Vision that aerospace and defence company Raytheon Technologies had ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/news/cities/Hyderabad/3-start-ups-selected-for-innovation-challenge/article32518345.ece",
+      "originalUrl": "https://www.thehindu.com/news/cities/Hyderabad/3-start-ups-selected-for-innovation-challenge/article32518345.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th.thgim.com/static/theme/default/base/img/og-image.jpg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/news/cities/Hyderabad/3-start-ups-selected-for-innovation-challenge/article32518345.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Hyderabad/3-start-ups-selected-for-innovation-challenge/article32518345.ece/amp/",
+      "publishedDateTime": "2020-09-03T16:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-04-ndivision-inc-lane-sorgen-appointed-to-chief-revenue-officer.md",
+      "title": "nDivision Inc. Lane Sorgen Appointed to Chief Revenue Officer",
+      "excerpt": "DALLAS, TX / ACCESSWIRE / September 3, 2020 / nDivision Inc. (OTCQB:NDVN), the experts in using “digital labor” to reduce costs and increase service levels, today announced the appointment of Lane Sorgen to Chief Revenue Officer.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/8cadd96d703080b0c317174623ac1fcb",
+      "originalUrl": "https://apnews.com/8cadd96d703080b0c317174623ac1fcb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-03T15:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-04-were-entering-the-ai-twilight-zone-between-narrow-and-general-ai.md",
+      "title": "We’re entering the AI twilight zone between narrow and general AI",
+      "excerpt": "OpenAI's GPT-3 transcends the definition of narrow AI. It doesn't qualify as general AI, but it's the first clear sign that we've begun the shift.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/03/were-entering-the-ai-twilight-zone-between-narrow-and-general-ai/",
+      "originalUrl": "https://venturebeat.com/2020/09/03/were-entering-the-ai-twilight-zone-between-narrow-and-general-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/halfway.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/03/were-entering-the-ai-twilight-zone-between-narrow-and-general-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/03/were-entering-the-ai-twilight-zone-between-narrow-and-general-ai/amp/",
+      "publishedDateTime": "2020-09-03T14:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-04-israels-rafael-anyvision-to-form-face-recognition-jv-for-defence.md",
+      "title": "Israel's Rafael, AnyVision to form face recognition JV for defence",
+      "excerpt": "Israel's Rafael Advanced Defense Systems said on Thursday it planned to establish a joint venture with startup AnyVision to apply facial recognition technologies to military systems, while AnyVision raised $43 million in a private funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/israels-rafael-anyvision-to-form-face-recognition-jv-for-defence-2020-09-03",
+      "originalUrl": "https://www.nasdaq.com/articles/israels-rafael-anyvision-to-form-face-recognition-jv-for-defence-2020-09-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/israels-rafael-anyvision-to-form-face-recognition-jv-for-defence-2020-09-03?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/israels-rafael-anyvision-to-form-face-recognition-jv-for-defence-2020-09-03?amp",
+      "publishedDateTime": "2020-09-03T12:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-04-gao-audit-finds-pervasive-problems-with-us-airport-facial-recognition-program.md",
+      "title": "GAO audit finds pervasive problems with U.S. airport facial recognition program",
+      "excerpt": "According to the U.S. Government Accountability Office, a facial recognition verification program at U.S. airports has been plagued with problems.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/03/gao-audit-finds-pervasive-problems-with-u-s-airport-facial-recognition-program/",
+      "originalUrl": "https://venturebeat.com/2020/09/03/gao-audit-finds-pervasive-problems-with-u-s-airport-facial-recognition-program/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 270,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/block_image-e1597092687237.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/03/gao-audit-finds-pervasive-problems-with-u-s-airport-facial-recognition-program/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/03/gao-audit-finds-pervasive-problems-with-u-s-airport-facial-recognition-program/amp/",
+      "publishedDateTime": "2020-09-03T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-04-space-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off.md",
+      "title": "Space the place for Irish AI chip as PhiSat-1 satellite blasts off",
+      "excerpt": "An artificial intelligence (AI) processing chip developed in Ireland has been included on board a satellite that blasted off into space from French Guiana early this morning. The PhiSat-1 is the first European satellite carrying out an experiment to demonstrate how on-board deep-learning technology can speed up the rate at which observation data is processed and transmitted to Earth.",
+      "sourceUrl": null,
+      "webUrl": "https://www.irishtimes.com/business/innovation/space-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722",
+      "originalUrl": "https://www.irishtimes.com/business/innovation/space-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.irishtimes.com/image-creator/?id=1.4345721&origw=1440",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.irishtimes.com/business/innovation/space-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722",
+      "cdnAmpWebUrl": "https://www-irishtimes-com.cdn.ampproject.org/c/s/www.irishtimes.com/business/innovation/space-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722",
+      "publishedDateTime": "2020-09-03T11:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Irish Times",
+        "domain": "irishtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-09-04-global-deep-learning-industry.md",
+      "title": "Global Deep Learning Industry",
+      "excerpt": "© 2020 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/global-deep-learning-industry-1029561357",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/global-deep-learning-industry-1029561357",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-03T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-04-qualcomms-second-gen-laptop-chip-isnt-doing-enough-to-compete-with-apple.md",
+      "title": "Qualcomm's Second-Gen Laptop Chip Isn't Doing Enough to Compete With Apple",
+      "excerpt": "Qualcomm made a big push into the notebook market with its first purpose-built laptop chip—the Snapdragon 8cx. And for 2020, Qualcomm is announcing the Snapdragon 8cx Gen 2 which offers new 5G connectivity along with improved AI and security,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/qualcomms-second-gen-laptop-chip-isnt-doing-enough-to-c-1844937226",
+      "originalUrl": "https://gizmodo.com/qualcomms-second-gen-laptop-chip-isnt-doing-enough-to-c-1844937226",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/dwulkkajtogaajypksan.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/qualcomms-second-gen-laptop-chip-isnt-doing-enough-to-c-1844937226/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/qualcomms-second-gen-laptop-chip-isnt-doing-enough-to-c-1844937226/amp",
+      "publishedDateTime": "2020-09-03T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-03-amazon-polly-ntts-voices-now-available-in-singapore-tokyo-frankfurt-and-london-regions.md",
       "title": "Amazon Polly NTTS voices now available in Singapore, Tokyo, Frankfurt, and London Regions",
       "excerpt": "Amazon Polly turns text into lifelike speech, allowing you to create voice-enabled applications. We’re excited to announce the general availability of all Neural Text-to-Speech (NTTS) voices in Asia Pacific (Singapore), Asian Pacific (Tokyo), EU (Frankfurt), and EU (London) Regions. You can now synthesize",
@@ -807,342 +1162,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-tech-stocks-5g-will-live-up-to-all-the-hype-heres-how-to-invest.md",
-      "title": "Tech stocks: 5G will live up to all the hype – here's how to invest",
-      "excerpt": "Taken together they are central to realising the potential from the key digital themes such as big data, artificial intelligence ... uses are discovered. For driverless vehicles, 5G is a big ...",
-      "sourceUrl": null,
-      "webUrl": "https://moneyweek.com/investments/stocks-and-shares/tech-stocks/601939/5g-will-live-up-to-the-hype-heres-how-to-invest",
-      "originalUrl": "https://moneyweek.com/investments/stocks-and-shares/tech-stocks/601939/5g-will-live-up-to-the-hype-heres-how-to-invest",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.moneyweek.com/image/private/s--ULKxhs4q--/v1599129501/1015_MW_P20_Cover-Story.jpg",
-          "width": 1408,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://moneyweek.com/investments/stocks-and-shares/tech-stocks/601939/5g-will-live-up-to-the-hype-heres-how-to-invest?amp",
-      "cdnAmpWebUrl": "https://moneyweek-com.cdn.ampproject.org/c/s/moneyweek.com/investments/stocks-and-shares/tech-stocks/601939/5g-will-live-up-to-the-hype-heres-how-to-invest?amp",
-      "publishedDateTime": "2020-09-03T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MoneyWeek",
-        "domain": "moneyweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-scalise-hit-with-ethics-complaint-over-doctored-barkan-video.md",
-      "title": "Scalise hit with ethics complaint over doctored Barkan video",
-      "excerpt": "The House Democratic campaign arm has filed a formal ethics complaint against Republican Whip Rep. Steve Scalise (La.), who shared a video doctored to alter the wording of a question posed by activist Ady Barkan to former Vice President Joe Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/latino/514923-scalise-hit-with-ethics-complaint-over-doctored-barkan-video",
-      "originalUrl": "https://thehill.com/latino/514923-scalise-hit-with-ethics-complaint-over-doctored-barkan-video",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/scalisesteve_08242020hilltv.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/latino/514923-scalise-hit-with-ethics-complaint-over-doctored-barkan-video?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/latino/514923-scalise-hit-with-ethics-complaint-over-doctored-barkan-video?amp",
-      "publishedDateTime": "2020-09-03T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-altigen-acquires-blue-pandas-coreinteract-platform.md",
-      "title": "Altigen Acquires Blue Panda’s CoreInteract Platform",
-      "excerpt": "Adds Microsoft Teams Digital Customer Engagement Applications to Altigen’s Cloud Solutions Portfolio MILPITAS, CA / ACCESSWIRE / September 3, 2020 / Altigen Communications, Inc. (OTCQB:ATGN), a Silicon Valley-based Microsoft ISV and Cloud Solutions provider,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/4dcb5edf5403fc47bdd3c3764f186ac8",
-      "originalUrl": "https://apnews.com/4dcb5edf5403fc47bdd3c3764f186ac8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-03T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-doing-the-hard-things-ai-space-and-climate-science.md",
-      "title": "Doing The Hard Things: AI, Space, and Climate Science",
-      "excerpt": "The closing quarter of the twentieth century was peak tech innovation in the United States. AT&T’s Bell Labs invented the information age with the transistor and data networking, and many ...",
-      "sourceUrl": null,
-      "webUrl": "https://mobile.twitter.com/zoubinghahrama1?lang=en",
-      "originalUrl": "https://www.forbes.com/sites/alexanderlavin/2020/09/03/doing-the-hard-things-ai-space-and-climate-science/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-03T05:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-space-is-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off.md",
-      "title": "Space is the place for Irish AI chip as PhiSat-1 satellite blasts off",
-      "excerpt": "The PhiSat-1 is the first European satellite carrying out an experiment to demonstrate how onboard deep learning technology can speed up the rate at which observation data is proessed and transmitted back to Earth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.irishtimes.com/business/innovation/space-is-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722",
-      "originalUrl": "https://www.irishtimes.com/business/innovation/space-is-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.irishtimes.com/image-creator/?id=1.4345721&origw=1440",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.irishtimes.com/business/innovation/space-is-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722",
-      "cdnAmpWebUrl": "https://www-irishtimes-com.cdn.ampproject.org/c/s/www.irishtimes.com/business/innovation/space-is-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722",
-      "publishedDateTime": "2020-09-03T05:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Irish Times",
-        "domain": "irishtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-invest-in-miso-robotics-now-for-the-kitchen-of-the-future.md",
-      "title": "Invest in Miso Robotics Now for the Kitchen of the Future",
-      "excerpt": "Miso Robotics is focused on two red-hot areas of technology: artificial intelligence (AI) and yes, robotics. This helps explain why the startup has been so successful with its equity crowdfunding campaign.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/invest-in-miso-robotics-now-for-the-kitchen-of-the-future-2020-09-03",
-      "originalUrl": "https://www.nasdaq.com/articles/invest-in-miso-robotics-now-for-the-kitchen-of-the-future-2020-09-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/invest-in-miso-robotics-now-for-the-kitchen-of-the-future-2020-09-03?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/invest-in-miso-robotics-now-for-the-kitchen-of-the-future-2020-09-03?amp",
-      "publishedDateTime": "2020-09-03T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-what-coronavirus-means-for-the-future-of-self-driving-cars.md",
-      "title": "What coronavirus means for the future of self-driving cars",
-      "excerpt": "It's 2025 and driverless cars still aren't zooming around everywhere. Where are the chilled out passengers on their phones, or napping, as an invisible \"driver\" navigates a crowded intersection? They're still mostly stuck in the backseat as a human driver shuttles them around.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/autonomous-vehicles-2025/",
-      "originalUrl": "https://mashable.com/article/autonomous-vehicles-2025/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F09%252F03%252F6f%252Fa6d4e4206f524273a456c835e927fc6a.f164f.jpg%252F1200x630.jpg?signature=Gkxu5UScrquIxeAET3ZxIXak-BE=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/autonomous-vehicles-2025.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/autonomous-vehicles-2025.amp",
-      "publishedDateTime": "2020-09-03T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-facial-recognition-market-size-to-witness-huge-growth-by-2026.md",
-      "title": "Facial Recognition Market Size to Witness Huge Growth by 2026",
-      "excerpt": "Selbyville, Delaware According to the recent study titled 'Facial Recognition Market Size By Component, By Application, By End-Use, Industry Analysis Report, Regional Outlook, Growth Potential, Competitive Market Share & Forecast,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-to-witness-huge-growth-by-2026-2020-09-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-to-witness-huge-growth-by-2026-2020-09-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-03T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -2,6 +2,258 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-06-epic-teamed-up-with-uminnesota-to-develop-an-ai-algorithm-that-identifies-covid-19.md",
+      "title": "Epic teamed up with UMinnesota to develop an AI algorithm that identifies COVID-19",
+      "excerpt": "Epic teamed up with researchers from the University of Minnesota to develop an AI algorithm that identifies COVID-19 from chest X-Rays.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/epic-uminnesota-teamed-up-on-ai-tool-to-detect-covid19-2020-10",
+      "originalUrl": "https://www.businessinsider.com/epic-uminnesota-teamed-up-on-ai-tool-to-detect-covid19-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f7c65a994fce90018f7b45c?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-06T06:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-how-ai-and-humans-can-work-together-to-make-better-recruiting-decisions.md",
+      "title": "How AI And Humans Can Work Together To Make Better Recruiting Decisions",
+      "excerpt": "As the co-founder of an AI-powered recruiting organization, I expect that AI won’t displace recruiting jobs. In fact, I anticipate that AI will become an indispensable tool for recruiters. Ask any recruiter: What’s the most tedious aspect of your job?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/06/how-ai-and-humans-can-work-together-to-make-better-recruiting-decisions/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/06/how-ai-and-humans-can-work-together-to-make-better-recruiting-decisions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee3c90cac807a0006b5add4%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/06/how-ai-and-humans-can-work-together-to-make-better-recruiting-decisions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/06/how-ai-and-humans-can-work-together-to-make-better-recruiting-decisions/amp/",
+      "publishedDateTime": "2020-10-06T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-healthcare-leaders-pioneer-a-new-collaboration-model-to-transform-the-future-of-drug-development.md",
+      "title": "Healthcare Leaders Pioneer A New Collaboration Model To Transform The Future Of Drug Development",
+      "excerpt": "The reinvention of drug development through partnership was the the theme of this breakthrough discussion of leaders. Through collaboration and use of AI in drug development new barriers can be broken",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robertreiss/2020/10/06/healthcare-leaders-pioneer-a-new-collaboration-model-to-transform-the-future-of-drug-development/",
+      "originalUrl": "https://www.forbes.com/sites/robertreiss/2020/10/06/healthcare-leaders-pioneer-a-new-collaboration-model-to-transform-the-future-of-drug-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7c684c02408a41404d0e10%2F0x0.jpg",
+          "width": 1097,
+          "height": 730,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robertreiss/2020/10/06/healthcare-leaders-pioneer-a-new-collaboration-model-to-transform-the-future-of-drug-development/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertreiss/2020/10/06/healthcare-leaders-pioneer-a-new-collaboration-model-to-transform-the-future-of-drug-development/amp/",
+      "publishedDateTime": "2020-10-06T05:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-tipalti-raises-150-million-to-automate-payment-workflows-with-ai.md",
+      "title": "Tipalti raises $150 million to automate payment workflows with AI",
+      "excerpt": "Payments automation company Tipalti has raised $150 million at a $2 billion valuation to further expand its global workforce.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/06/tipalti-raises-150-million-to-automate-payment-workflows-with-ai/",
+      "originalUrl": "https://venturebeat.com/2020/10/06/tipalti-raises-150-million-to-automate-payment-workflows-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/04/rendered.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/06/tipalti-raises-150-million-to-automate-payment-workflows-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/06/tipalti-raises-150-million-to-automate-payment-workflows-with-ai/amp/",
+      "publishedDateTime": "2020-10-06T05:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-xbox-series-xs-machine-learning-auto-hdr-renders-stunning-results.md",
+      "title": "Xbox Series X’s machine-learning auto-HDR renders stunning results",
+      "excerpt": "Xbox Series X and S can apply this effect to games that launched before television HDR was even invented. I’ve tested auto-HDR in a number of backward compatible games on a preview version of the Xbox Series X hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/06/xbox-series-xs-machine-learning-auto-hdr-renders-stunning-results/",
+      "originalUrl": "https://venturebeat.com/2020/10/06/xbox-series-xs-machine-learning-auto-hdr-renders-stunning-results/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/Yakuza-HDR.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/06/xbox-series-xs-machine-learning-auto-hdr-renders-stunning-results/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/06/xbox-series-xs-machine-learning-auto-hdr-renders-stunning-results/amp/",
+      "publishedDateTime": "2020-10-06T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-this-ai-startup-helps-hospitals-navigate-operational-troubles-of-covid-19-and-beyond.md",
       "title": "This AI Startup Helps Hospitals Navigate Operational Troubles Of Covid-19 And Beyond",
       "excerpt": "M Health Fairview, one of the largest health systems in Minnesota, got an urgent message from one of its vendors: Mountain View, California-based artificial intelligence startup Qventus. The 13-hospital system had contracted the company to help streamline its operations,",
@@ -10,7 +262,7 @@
       "originalUrl": "https://www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startup-helps-hospitals-navigate-operational-troubles-of-covid-19-and-beyond/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -962,234 +1214,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-nvidia-pledges-to-build-britains-largest-supercomputer-following-40-billion-bid-for-arm.md",
-      "title": "Nvidia pledges to build Britain’s largest supercomputer following $40 billion bid for Arm",
-      "excerpt": "Nvidia has announced plans to build a £40 million ($52 million) supercomputer in Cambridge, England, weeks after saying it intends to buy British rival Arm for $40 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/10/05/nvidia-pledges-to-build-britains-largest-supercomputer.html",
-      "originalUrl": "https://www.msn.com/en-us/money/companies/nvidia-pledges-to-build-britain-s-largest-supercomputer-following-40-billion-bid-for-arm/ar-BB19IxkS",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 228,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106729864-1601898836598-Cambridge-1__002.jpg?v=1601898919",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/10/05/nvidia-pledges-to-build-britains-largest-supercomputer.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/05/nvidia-pledges-to-build-britains-largest-supercomputer.html",
-      "publishedDateTime": "2020-10-05T06:01:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "com/2020/10/05/nvidia-pledges-to-build-britains-largest-supercomputer.html",
-        "domain": "com/2020/10/05/nvidia-pledges-to-build-britains-largest-supercomputer.html",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-combining-ai-and-nanotechnology-to-create-robot-assisted-molecular-manipulation.md",
-      "title": "Combining AI and Nanotechnology to Create Robot-Assisted Molecular Manipulation",
-      "excerpt": "A team of scientists from Forschungszentrum Jülich and TU Berlin is working on a project to create an autonomous artificial intelligence system with the ability to pick up and move individual molecules.",
-      "sourceUrl": null,
-      "webUrl": "https://www.azonano.com/article.aspx?ArticleID=5561",
-      "originalUrl": "https://www.azonano.com/article.aspx?ArticleID=5561",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.azonano.com/images/Article_Images/ImageForArticle_5561_16018955172079789.png",
-          "width": 950,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.azonano.com/amp/article.aspx?ArticleID=5561",
-      "cdnAmpWebUrl": "https://www-azonano-com.cdn.ampproject.org/c/s/www.azonano.com/amp/article.aspx?ArticleID=5561",
-      "publishedDateTime": "2020-10-05T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AZoNano",
-        "domain": "azonano.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-gitai-aims-to-bring-autonomous-robot-workers-to-space.md",
-      "title": "GITAI Aims to Bring Autonomous Robot Workers to Space",
-      "excerpt": "Since its start, GITAI has focused its efforts on various robots ... since with the current technology level of AI, what a robot can do autonomously is very limited. However, in an environment where the latency becomes noticeable, it would become more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20740/GITAI-Aims-to-Bring-Autonomous-Robot-Workers-to-Space.aspx",
-      "originalUrl": "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20740/GITAI-Aims-to-Bring-Autonomous-Robot-Workers-to-Space.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.engineering.com/portals/0/BlogFiles/60_ima1.png",
-          "width": 640,
-          "height": 358,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.engineering.com/amp/20740.html",
-      "cdnAmpWebUrl": "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20740.html",
-      "publishedDateTime": "2020-10-05T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engineering",
-        "domain": "engineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-the-importance-of-human-machine-ai-team-building.md",
-      "title": "The Importance Of Human-Machine AI Team-Building",
-      "excerpt": "In the future, teams of human domain experts and their AI-bot sidekicks could make sure critical assets in the fuel retail industry are safe, always available, performing at their optimal state and protected from cybersecurity threats.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/05/the-importance-of-human-machine-ai-team-building/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/05/the-importance-of-human-machine-ai-team-building/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda4c699cb83e0006e372f4%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/05/the-importance-of-human-machine-ai-team-building/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/05/the-importance-of-human-machine-ai-team-building/amp/",
-      "publishedDateTime": "2020-10-05T04:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-cloud-ai-can-help-you-survive-the-storm.md",
-      "title": "Cloud AI Can Help You Survive The Storm",
-      "excerpt": "As you work to better understand and take action to improve user experiences and drive business outcomes, take care in your implementation and the use cases to which you apply AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/05/cloud-ai-can-help-you-survive-the-storm/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/05/cloud-ai-can-help-you-survive-the-storm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee37fafb8beb90007c3a81f%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-05T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AWS AI"
       ]
     }
   ],

@@ -1143,6 +1143,58 @@
       ]
     },
     {
+      "path": "_news/2020-09-24-14-smart-ways-to-leverage-machine-learning-for-small-businesses.md",
+      "title": "14 Smart Ways To Leverage Machine Learning For Small Businesses",
+      "excerpt": "Financial companies use reinforcement learning for stock trading, for example. - Vaclav Vincalek, Future Infinitive 4. Facilitate Data-Driven Decision-Making Machine learning can facilitate data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/24/14-smart-ways-to-leverage-machine-learning-for-small-businesses/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/24/14-smart-ways-to-leverage-machine-learning-for-small-businesses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f68cadbfefa5865ffba6df5%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/24/14-smart-ways-to-leverage-machine-learning-for-small-businesses/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/24/14-smart-ways-to-leverage-machine-learning-for-small-businesses/amp/",
+      "publishedDateTime": "2020-09-24T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-adobes-liquid-mode-uses-machine-learning-to-make-pdfs-more-readable-on-mobile-devices.md",
       "title": "Adobe's Liquid Mode uses machine learning to make PDFs more readable on mobile devices",
       "excerpt": "Adobe today announced an update for Acrobat Reader that's supposed to solve the perennial problem of PDFs in a mobile-first world -- the poor reading experience",
@@ -1362,58 +1414,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-facebook-removes-chinese-network-of-fake-accounts-that-used-ai-generated-faces.md",
-      "title": "Facebook removes Chinese network of fake accounts that used AI-generated faces",
-      "excerpt": "The operation reportedly used AI-generated Facebook profile photos to spread government propaganda about Beijing's interests in the South China Sea.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/09/23/facebook-removes-chinese-network-of-fake-accounts-that-used-ai-generated-faces/",
-      "originalUrl": "https://thenextweb.com/neural/2020/09/23/facebook-removes-chinese-network-of-fake-accounts-that-used-ai-generated-faces/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-92-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/09/23/facebook-removes-chinese-network-of-fake-accounts-that-used-ai-generated-faces/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/23/facebook-removes-chinese-network-of-fake-accounts-that-used-ai-generated-faces/amp/",
-      "publishedDateTime": "2020-09-23T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

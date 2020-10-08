@@ -2,6 +2,354 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-09-22-global-startup-parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning.md",
+      "title": "Global startup Parcel Perform collaborates with Amazon Web Services (AWS) to improve e-commerce delivery experience with machine learning",
+      "excerpt": "Parcel Perform and Amazon Machine Learning Solutions Lab collaborated to build a flexible, scalable solution, combining AWS' expertise in ML and ML services like Amazon SageMaker, with the specific requirements of the logistics domain to build this unique ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/global-startup-parcel-perform-collaborates-amazon-web-services-aws-improve-e-commerce",
+      "originalUrl": "https://www.asiaone.com/business/global-startup-parcel-perform-collaborates-amazon-web-services-aws-improve-e-commerce",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Sep2020/pr-newswire_500_4_1272.jpg?itok=_nKPo1GS",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/global-startup-parcel-perform-collaborates-amazon-web-services-aws-improve-e-commerce?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/global-startup-parcel-perform-collaborates-amazon-web-services-aws-improve-e-commerce?amp",
+      "publishedDateTime": "2020-09-21T21:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-differentiable-argmax-for-tensorflow.md",
+      "title": "Differentiable Argmax for Tensorflow",
+      "excerpt": "I like to tinker with experimental neural network architectures. During an attempt at (somewhat) interpretable machine learning I needed an argmax function. As you probably know, functions must ...",
+      "sourceUrl": null,
+      "webUrl": "https://medium.com/@szabogergo2020/differentiable-argmax-for-tensorflow-2da6ca5d8ae7",
+      "originalUrl": "https://medium.com/@szabogergo2020/differentiable-argmax-for-tensorflow-2da6ca5d8ae7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*3CpqZjkPCs5NaJFYBUVWhA.jpeg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-21T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-fincen-files-show-banks-use-of-ai-and-machine-learning-effective-in-kycaml.md",
+      "title": "FinCEN Files Show Banks’ Use Of AI And Machine Learning Effective In KYC/AML",
+      "excerpt": "Documents submitted to FinCEN show that several of the largest global banks moved money on behalf of those involved in criminal financial activity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/security-and-risk/2020/fincen-files-banks-battle-kyc-aml/",
+      "originalUrl": "https://www.pymnts.com/news/security-and-risk/2020/fincen-files-banks-battle-kyc-aml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2019/05/FinCEN-guidance-virtual-currencies-cryptocurrency-457x319.jpg",
+          "width": 457,
+          "height": 319,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/security-and-risk/2020/fincen-files-banks-battle-kyc-aml/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/security-and-risk/2020/fincen-files-banks-battle-kyc-aml/amp/",
+      "publishedDateTime": "2020-09-21T20:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning.md",
+      "title": "Parcel Perform collaborates with Amazon Web Services (AWS) to improve e-commerce delivery experience with machine learning",
+      "excerpt": "Parcel Perform and Amazon Machine Learning Solutions Lab collaborated closely to build a flexible, scalable solution, combining AWS' expertise in ML and ML services like Amazon SageMaker ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-1029608850",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-1029608850",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-1029608850",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-1029608850",
+      "publishedDateTime": "2020-09-21T17:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-deep-learning-helps-explore-the-structural-and-strategic-bases-of-autism.md",
+      "title": "Deep learning helps explore the structural and strategic bases of autism?",
+      "excerpt": "But what if artificial intelligence (AI) could help? Deep learning, a type of AI, deploys artificial neural networks based on the human brain to recognize patterns in a way that is akin to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-09/tkai-dlh092220.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-09/tkai-dlh092220.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://eurekalert.org/multimedia/pub/web/243770_web.jpg",
+          "width": 600,
+          "height": 378,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-fast-food-restaurant-manager-sent-to-prison-for-stealing-30000-from-company.md",
+      "title": "Fast-food restaurant manager sent to prison for stealing $30,000 from company",
+      "excerpt": "Robert Giardina stole $30,075 from the owner of three fast-food restaurants that he managed, according to the U.S. Attorney's Office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/45c91224-bd92-473d-ae15-63fb90c93a3e",
+      "originalUrl": "https://omaha.com/news/local/crime-and-courts/fast-food-restaurant-manager-sent-to-prison-for-stealing-30-000-from-company/article_5ade38e7-7035-52f0-8678-04d567101b22.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1941b469-3443-402c-b48d-d6c5b91a055e.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/45c91224-bd92-473d-ae15-63fb90c93a3e",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/45c91224-bd92-473d-ae15-63fb90c93a3e",
+      "publishedDateTime": "2020-09-21T16:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Omaha.com",
+        "domain": "omaha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-unm-scientist-artificial-intelligence-can-aid-covid-19-research.md",
+      "title": "UNM scientist: Artificial intelligence can aid COVID-19 research",
+      "excerpt": "As a result of the pandemic, hundreds of medical papers related to COVID-19 are being published every week. A University of New Mexico scientist believes there’s a",
+      "sourceUrl": null,
+      "webUrl": "https://www.krqe.com/health/coronavirus-new-mexico/unm-scientist-artificial-intelligence-can-aid-covid-19-research/",
+      "originalUrl": "https://www.krqe.com/health/coronavirus-new-mexico/unm-scientist-artificial-intelligence-can-aid-covid-19-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.krqe.com/wp-content/uploads/sites/12/2020/09/unm-AI-.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.krqe.com/health/coronavirus-new-mexico/unm-scientist-artificial-intelligence-can-aid-covid-19-research/amp/",
+      "cdnAmpWebUrl": "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/health/coronavirus-new-mexico/unm-scientist-artificial-intelligence-can-aid-covid-19-research/amp/",
+      "publishedDateTime": "2020-09-21T16:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KRQE",
+        "domain": "krqe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-lapd-used-facial-recognition-software-tied-to-wrongful-arrests.md",
+      "title": "LAPD used facial recognition software tied to wrongful arrests",
+      "excerpt": "When you want the public to trust your use of controversial facial recognition technology linked to two prominent wrongful arrests of Black men, it's perhaps best not to claim you aren't using it ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/lapd-facial-recognition-technology/",
+      "originalUrl": "https://mashable.com/article/lapd-facial-recognition-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F09%252F21%252F95%252F676cb23f7c434b32afdfb487fa4d02c3.8545e.jpg%252F1200x630.jpg?signature=zGiAG5ij_hJInk_LGgOb8TM6j2U=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/lapd-facial-recognition-technology.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/lapd-facial-recognition-technology.amp",
+      "publishedDateTime": "2020-09-21T15:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-50-less-fraud-how-amex-uses-ai-to-automate-8-billion-risk-decisions.md",
       "title": "50% Less Fraud? How Amex Uses AI To Automate 8 Billion Risk Decisions",
       "excerpt": "We believe at American Express that we have the world’s largest and most advanced machine learning system in the financial services industry,” American Express’ VP of risk management Anjali Dewan told me recently on the TechFirst podcast.",
@@ -797,368 +1145,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-safeguard-your-eyes-against-computer-vision-syndrome.md",
-      "title": "Safeguard your eyes against computer vision syndrome",
-      "excerpt": "Technology has simplified life in so many ways. Thanks to their tablets and smartphones, many people now have a wealth of information at their disposal 24 hours a day, seven days week. Computers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonherald.com/2020/09/21/safeguard-your-eyes-against-computer-vision-syndrome/",
-      "originalUrl": "https://www.bostonherald.com/2020/09/21/safeguard-your-eyes-against-computer-vision-syndrome/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bostonherald.com/wp-content/uploads/2018/11/Herald_BridgePhoto.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bostonherald.com/2020/09/21/safeguard-your-eyes-against-computer-vision-syndrome/amp/",
-      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/09/21/safeguard-your-eyes-against-computer-vision-syndrome/amp/",
-      "publishedDateTime": "2020-09-21T02:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Boston Herald",
-        "domain": "bostonherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-bodet-launches-facial-recognition-to-complement-kelio-time-attendance-solutions.md",
-      "title": "Bodet Launches Facial Recognition to Complement Kelio Time & Attendance Solutions",
-      "excerpt": "FaceStation 2 is the latest biometric clocking-in user interface to be incorporated into Bodet’s innovative Time and Attendance Systems. Working in conjunction with Bodet’s Kelio Visio X7 interactive clocking terminal,",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2138082/bodet-launches-facial-recognition-to-complement-kelio-time",
-      "originalUrl": "https://www.openpr.com/news/2138082/bodet-launches-facial-recognition-to-complement-kelio-time",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/9/T921401134_g.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2138082/bodet-launches-facial-recognition-to-complement-kelio-time",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2138082/bodet-launches-facial-recognition-to-complement-kelio-time",
-      "publishedDateTime": "2020-09-21T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-samsung-galaxy-s30-might-include-iphone-rivaling-facial-recognition.md",
-      "title": "Samsung Galaxy S30 might include iPhone-rivaling facial recognition",
-      "excerpt": "While the Samsung Galaxy S20 line has the iPhone 11 range matched or beaten in a lot of ways, one thing it can’t match is Apple’s Face ID system for facial recognition. Indeed, Apple’s facial recognition is more secure than just about any Android version,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/uk/news/samsung-galaxy-s30-might-include-iphone-rivaling-facial-recognition",
-      "originalUrl": "https://www.techradar.com/uk/news/samsung-galaxy-s30-might-include-iphone-rivaling-facial-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/ECEgY8jasz3nbtrpwrPdK-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/uk/amp/news/samsung-galaxy-s30-might-include-iphone-rivaling-facial-recognition",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/samsung-galaxy-s30-might-include-iphone-rivaling-facial-recognition",
-      "publishedDateTime": "2020-09-21T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-gowin-semiconductor-launches-goai-20-for-embedded-machine-learning-inference.md",
-      "title": "Gowin Semiconductor Launches GOAI 2.0 For Embedded Machine Learning Inference",
-      "excerpt": "GOWIN GoAI 2.0 offers direct integration into the TensorFlow and TensorFlow Lite Machine Learning Platforms, optimization for targeting GOWIN’s GW1NSR4P µSoC FPGA, and an accelerator to offload compute-intensive functions from the microcontroller ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/news/48669/gowin-goai-2-0-embedded-machine-learning-inference.html",
-      "originalUrl": "https://www.design-reuse.com/news/48669/gowin-goai-2-0-embedded-machine-learning-inference.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.design-reuse.com/news_img2/homepage48669/20200921_1.jpg",
-          "width": 485,
-          "height": 260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-21T00:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-inside-politics-government-threatens-lockdown-if-rules-arent-followed.md",
-      "title": "Inside Politics: Government threatens lockdown if rules aren’t followed",
-      "excerpt": "As Boris Johnson considers national coronavirus restrictions, Matt Hancock has made it clear the public will be to blame for any second lockdown, writes Adam Forrest",
-      "sourceUrl": null,
-      "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
-      "originalUrl": "https://www.independent.co.uk/independentpremium/uk-news/boris-johnson-new-coronavirus-rules-fine-hancock-national-lockdown-threat-b511237.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inside.com/assets/premium/Blue-email-icon-0994aadea0b5b10b19a148e2dd34a88c4a315b76ed51d7898fa49dc4ddc6d171.png",
-          "width": 414,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-20T23:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-artificial-intelligence-chipsets-market-share-current-and-future-industry-trends-2020-2026.md",
-      "title": "Artificial Intelligence Chipsets Market Share Current and Future Industry Trends, 2020-2026",
-      "excerpt": "Increasing acceptance of cloud-based services in education, integration of AI inferencing hardware in the data centers, and rising product developments by manufacturers along with investment in startups are driving the growth of global artificial intelligence chipsets market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-share-current-and-future-industry-trends-2020-2026-2020-09-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-share-current-and-future-industry-trends-2020-2026-2020-09-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-20T23:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-the-4-top-artificial-intelligence-trends-for-2021.md",
-      "title": "The 4 Top Artificial Intelligence Trends For 2021",
-      "excerpt": "Artificial Intelligence (AI) has been a mega-trend in 2020. The current pandemic has only accelerated the relevance and adoption of AI and machine learning. Here we look at some of the top AI trends for 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/09/21/the-4-top-artificial-intelligence-trends-for-2021/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2020/09/21/the-4-top-artificial-intelligence-trends-for-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f67d6b8af733458404e97bf%2F0x0.jpg",
-          "width": 1199,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/09/21/the-4-top-artificial-intelligence-trends-for-2021/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/09/21/the-4-top-artificial-intelligence-trends-for-2021/amp/",
-      "publishedDateTime": "2020-09-20T21:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-danforth-center-to-play-role-in-new-20m-federal-artificial-intelligence-institute.md",
-      "title": "Danforth Center to play role in new $20M federal artificial intelligence institute",
-      "excerpt": "The Danforth Center’s Todd Mockler will co-lead a team of researchers involved in a new artificial intelligence research institute",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmynews2.com/article/news/local/business-journal/danforth-center-federal-artificial-intelligence-institute/63-e0a2f815-6829-4494-adf3-19d4a673c0d0",
-      "originalUrl": "https://www.wfmynews2.com/article/news/local/business-journal/danforth-center-federal-artificial-intelligence-institute/63-e0a2f815-6829-4494-adf3-19d4a673c0d0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wfmynews2.com/assets/KSDK/images/e2a0510b-f6e3-41e6-85cb-149cd541767f/e2a0510b-f6e3-41e6-85cb-149cd541767f_750x422.jpg",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wfmynews2.com/amp/article/news/local/business-journal/danforth-center-federal-artificial-intelligence-institute/63-e0a2f815-6829-4494-adf3-19d4a673c0d0",
-      "cdnAmpWebUrl": "https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/news/local/business-journal/danforth-center-federal-artificial-intelligence-institute/63-e0a2f815-6829-4494-adf3-19d4a673c0d0",
-      "publishedDateTime": "2020-09-20T17:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMY News2",
-        "domain": "wfmynews2.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
