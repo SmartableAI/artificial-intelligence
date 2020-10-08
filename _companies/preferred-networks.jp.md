@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "preferrednet"
   url: "https://twitter.com/preferrednet"
-  followers: 5104
+  followers: 5105
 
 size: 11-50 employees
 yearFounded: 2014
