@@ -3,18 +3,18 @@ category: news
 title: "AI tool can help doctors prioritize care, make discharging plans for COVID-19 patients"
 excerpt: "An artificial intelligence tool can help doctors when deciding which COVID-19 patients can be sent home, according to a study that started in May. Researchers at New York University used the AI tool to analyze thousands of COVID-19 cases."
 publishedDateTime: 2020-10-07T20:46:00Z
-originalUrl: "https://www.wxyz.com/news/national/coronavirus/ai-tool-can-help-doctors-prioritize-care-make-discharging-plans-for-covid-19-patients"
-webUrl: "https://www.wxyz.com/news/national/coronavirus/ai-tool-can-help-doctors-prioritize-care-make-discharging-plans-for-covid-19-patients"
-ampWebUrl: "https://www.wxyz.com/news/national/coronavirus/ai-tool-can-help-doctors-prioritize-care-make-discharging-plans-for-covid-19-patients?_amp=true"
-cdnAmpWebUrl: "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/national/coronavirus/ai-tool-can-help-doctors-prioritize-care-make-discharging-plans-for-covid-19-patients?_amp=true"
+originalUrl: "https://www.abc15.com/news/national/coronavirus/ai-tool-can-help-doctors-prioritize-care-make-discharging-plans-for-covid-19-patients"
+webUrl: "https://www.abc15.com/news/national/coronavirus/ai-tool-can-help-doctors-prioritize-care-make-discharging-plans-for-covid-19-patients"
+ampWebUrl: "https://www.abc15.com/news/national/coronavirus/ai-tool-can-help-doctors-prioritize-care-make-discharging-plans-for-covid-19-patients?_amp=true"
+cdnAmpWebUrl: "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/national/coronavirus/ai-tool-can-help-doctors-prioritize-care-make-discharging-plans-for-covid-19-patients?_amp=true"
 type: article
 quality: 49
 heat: -1
 published: false
 
 provider:
-  name: WXYZ Detroit
-  domain: wxyz.com
+  name: ABC15 Arizona
+  domain: abc15.com
 
 topics:
   - AI
@@ -57,6 +57,6 @@ related:
         height: 496
         isCached: true
 
-secured: "oI+c1/ki4hH+zzlsNaiOyY3sPP0eQ/Saopup9ivG3295lH4vkPzDdhMW+uJ6GojEO8MGurRDCrOWHiVeluShctC8euGijcCsDE+rYTG8YbujggjA3Vt8ZesB1eMjw4gVQbqRvuHOt2CF7TEkY817PfOjl+OB3GbbblekYsyYoNr0ABYZZnqEWX8uqyAw+/tLojr37vdNbOxR64+Rych+iBWyEy+rC4/5pSDBxWV0Cv0Q7fPsfIfJXxiP2R4mwyNis0ZUpL53BQIggzQvPsimrPulJ448rLYJg4YmbVngqoTZ8H2LCr/wbgS/FxwQxta39M9+xMjrioIaKhO5g859gYesEukGnileuoXwwOvQuAmiUbKkEmTTkkQgeqVVhoP6voeicpRxzUXORzPwd7CcXL5yAmuSXOKX3n99rQLSNw6f6tx5pvYNNhe3bQvV98VPwkc90ncIaUticDlzHJTFO00mZzlQXN/72/e1v6StXnM+ex8bsZOxetQLtx5bPv9vdLnfkpsQDVWlOS6gqdb7Zg==;Wokd43tS6XgUoypVY7wEBw=="
+secured: "UomAGUopky7bSKgl+lE7t5BAbMRXGV9k2cvDlL+D+cPBcLoB8TzTX+QnAWQCBtuGlev2ZHxeLmCvffPb3PdAj6GtUz3S+ZUitFjLOjVNuj9gmneXyIhH2HlxUwnloRHs7YTvsjkAQ75uhRj6TTyu25PlxD/dTC963a0nJDLThp3Og5AlrBPjBOffaoa50LpnG3VZJsnucbqGVdCU4KICLFlc1pueSLDx/ClX4epZEOH09hOsX+YaFT06YFZWAEy12a2ca9pYXR2SHoSXfk3g2suNwcvvyZqwO92NC0u4T2xS2YvcwA3i5texytoaXcZEe9ZIqUvR8qMtMQrgGZ/ch0k/JFrs4+leShjAsiJIZV4=;f9vHYOs9Ud3brW3Rm0YYAw=="
 ---
 

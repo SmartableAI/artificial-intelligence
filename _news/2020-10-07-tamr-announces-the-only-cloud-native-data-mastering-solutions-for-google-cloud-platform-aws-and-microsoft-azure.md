@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/tamr-announces-the-only
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406"
 type: article
 quality: 80
-heat: 150
+heat: 140
 published: true
 
 provider:
@@ -26,20 +26,6 @@ topics:
   - AWS AI
 
 related:
-  - title: "Artificial Intelligence For Accounting Market Economic Perspective and Forecast To 2026 | Microsoft, AWS, Xero, Intuit, Sage, OSP, UiPath, Kore.ai"
-    excerpt: "Global Artificial Intelligence For Accounting Market Size, Status And Forecast 2020-2026 The report begins with"
-    publishedDateTime: 2020-10-03T07:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-economic-perspective-and-forecast-to-2026-microsoft-aws-xero-intuit-sage-osp-uipath-koreai-2020-10-03?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 78
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
     excerpt: "Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce its availability in the Microsoft Azure Marketplace. Granulate's solution helps companies optimize workload performance and enables businesses to cut computing costs while improving performance with no code changes to their application."
     publishedDateTime: 2020-10-07T02:09:00Z

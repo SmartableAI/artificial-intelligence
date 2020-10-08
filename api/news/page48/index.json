@@ -2,48 +2,6 @@
   "page": 48,
   "value": [
     {
-      "path": "_news/2020-08-31-transperfect-wins-ai-breakthrough-award-for-globallink-machine-translation-solution.md",
-      "title": "TransPerfect Wins AI Breakthrough Award for GlobalLink Machine Translation Solution",
-      "excerpt": "TransPerfect, the world's largest provider of language and technology solutions for global business, today announced that its GlobalLink AI technology has been named the winner of the 2020 AI Breakthrough Award as \"Best Machine Translation Solution.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/transperfect-wins-ai-breakthrough-award-for-globallink-machine-translation-solution-1029549034",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/transperfect-wins-ai-breakthrough-award-for-globallink-machine-translation-solution-1029549034",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/transperfect-wins-ai-breakthrough-award-for-globallink-machine-translation-solution-1029549034",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/transperfect-wins-ai-breakthrough-award-for-globallink-machine-translation-solution-1029549034",
-      "publishedDateTime": "2020-08-31T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-31-the-impact-of-artificial-intelligence-on-workspaces.md",
       "title": "The Impact of Artificial Intelligence on Workspaces",
       "excerpt": "It is a truth universally acknowledged that artificial intelligence will change everything. In the next few decades, the world will become intelligible, and in many ways, intelligent. But insiders suggest that the world of big office real estate will get there more slowly - at least in the world’s major cities.",
@@ -1169,6 +1127,57 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-31-nvidias-top-gpu-has-a-formidable-new-ai-rival-and-its-not-who-you-think-it-is.md",
+      "title": "Nvidia's top GPU has a formidable new AI rival and it's not who you think it is",
+      "excerpt": "Tachyum, the company that plans to kill the CPU and GPU with its universal Prodigy processor, this week shared additional details regarding its upcoming chip.   As it turns out, the new processor will support industry-standard open-source development frameworks for AI applications,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/sg/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
+      "originalUrl": "https://www.techradar.com/sg/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/YCeRLZApvjKfDm8VpVZCkC-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/sg/amp/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
+      "publishedDateTime": "2020-08-30T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

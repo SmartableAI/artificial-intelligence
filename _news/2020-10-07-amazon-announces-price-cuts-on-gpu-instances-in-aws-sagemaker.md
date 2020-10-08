@@ -3,10 +3,10 @@ category: news
 title: "Amazon announces price cuts on GPU instances in AWS Sagemaker"
 excerpt: "AWS also announced Wednesday that it's launching an interactive cloud training series for the first time ever on its Twitch streaming platform."
 publishedDateTime: 2020-10-07T16:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
-webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
+originalUrl: "https://www.zdnet.com/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
+webUrl: "https://www.zdnet.com/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
 type: article
 quality: 101
 heat: -1
@@ -69,6 +69,6 @@ related:
         height: 628
         isCached: true
 
-secured: "8JQsFkN82X8sGVskI7gZd4efGEu6ukf8cFiJdWZj13nedCyQPpyk7XbmiMeUgm1ssT43gXqcnN9g0iqK6vJg0Ze3MQNMLW4TXx/3mrkvB/05axr1Na1canVphyLNxVfO3yHVupUbcIaqkbpwJYivPdWiyxJIFU9crlywkzAPuJhY2Ty2JcDydvhsuX/hFcmQukmQ2HzuiDMKzuivUNdjXEOsbyDtRkEz4x67wP0zwF/PkylWQxPM3f0niY85XTl8AuVS/FPI5DIiEQEn8wO9pUcLXmsfzvW+QhefGntMtmf8L6UdBsKT+Z/sJMIqVY1RQuZxYDikv5EcFRcQfDnKIaZ4co2TdIH5YuM1TZEoINzViByVTEf6CxEgrJzgZD8jf10qqLpYpdtIViM0sXAcDzJJb3rBNabzGgyvI1ht7jX4dOvqKSMDqayeNZq71R3ihwm/Hu5aU5wdI95aD4bkDnnr5ssauQEE1RUgldjd64Frp7J2VXSDAvp+bJcO1faszEFw0SLDQCsW4OXPLQ3xyw==;Pbkjh//LzlmoQ+kSUz8D2Q=="
+secured: "/gE39IkDi2Jnx+Qs0rLWtxHIZzARyIiFcgead8MiMIP4Ak5oUEU00HPEj6q0+sT5x9EFI8nzClj0d5k6Y5DN/VFfvhAU/r9HRBGtav3OzCLmGik/Nd/BtGVTuhWe8+1F6o9Os9SmzAXCTil/FK15DJ2TnKqn2eBLeIMu66YxbiqsYA07wFwfy0CbsBy8c0nCpx4kffj4z5e7UW49AHt0i/yaU24QGQCvp0t5RnT0zdSQ0iwKWorWqV+80NN7NtTsRggDcfeq5D0WofJKTcXYanzNlcvT/dt6Gbh2NeHMRZH8CUsx0Ba27onrrE3nfBfkyhUR/aw683SO2sL1IXZC2BOEBYjvPOgAn7tC9udnIMV9H6PRv59lU/29XdIRL24cRo6fxzWgBfV8pJ/dKFvF3lXIKSdRv306Gh7ffhtmJCGtUbRnU3V7ISom8QAdJ4x+tlrpWJEN0rW4NwCkLA8OXxrsWPTANdS5taSxQh/ZPtxaaS6v1WVMlruJUSvy8ulGBFNe+Cb67HGIvkqvZeNZSQ==;BKuY5viSHsekTgZkTUUt4g=="
 ---
 

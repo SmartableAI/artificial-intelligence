@@ -36,20 +36,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 80
-  - title: "Artificial Intelligence For Accounting Market Economic Perspective and Forecast To 2026 | Microsoft, AWS, Xero, Intuit, Sage, OSP, UiPath, Kore.ai"
-    excerpt: "Global Artificial Intelligence For Accounting Market Size, Status And Forecast 2020-2026 The report begins with"
-    publishedDateTime: 2020-10-03T07:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-economic-perspective-and-forecast-to-2026-microsoft-aws-xero-intuit-sage-osp-uipath-koreai-2020-10-03?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 78
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft To Build New Azure Cloud Data Centers In Greece"
     excerpt: "Microsoft plans to spend up to $1 billion to build three data centers for its first Azure cloud region in Greece and provide digital technology training to up to 100,000 people there by 2025"
     publishedDateTime: 2020-10-05T17:36:00Z

@@ -148,48 +148,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-07-82-of-people-believe-robots-can-support-their-mental-health-better-than-humans.md",
-      "title": "82% of people believe robots can support their mental health better than humans",
-      "excerpt": "The COVID-19 pandemic has negatively affected the mental health of 78% of the global workforce, a report by Oracle and Workplace Intelligence finds.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/82-of-people-believe-robots-can-support-their-mental-health-better-than-humans/",
-      "originalUrl": "https://www.techrepublic.com/article/82-of-people-believe-robots-can-support-their-mental-health-better-than-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/82-of-people-believe-robots-can-support-their-mental-health-better-than-humans/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/82-of-people-believe-robots-can-support-their-mental-health-better-than-humans/",
-      "publishedDateTime": "2020-10-07T07:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-07-robot-reapers-and-ai-just-another-day-on-the-farm.md",
       "title": "Robot reapers and AI: Just another day on the farm",
       "excerpt": "Technology is now enabling farmers to manage each section of the farm based on its unique conditions and needs. A good example of this in action is the spraying of herbicides, which had traditionally been done at the same rate across the whole field.",
@@ -282,7 +240,7 @@
       "originalUrl": "https://www.forbes.com/sites/tracybrower/2020/10/07/study-shows-people-prefer-robot-over-their-boss-6-ways-to-be-a-leader-people-prefer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -1410,6 +1368,48 @@
       "provider": {
         "name": "modernreaders.com",
         "domain": "modernreaders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-bear-robotics-and-softbank-robotics-group-announce-new-food-service-robot.md",
+      "title": "Bear Robotics and SoftBank Robotics Group Announce New Food Service Robot",
+      "excerpt": "Bear Robotics, a robotics and artificial intelligence company, and SoftBank Robotics Group, a leading robotics manufacturer and solutions provider, have collaborated to bring a new robot named Servi to the food service and hospitality field.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/corporate-news-artificial-intelligence-technology-business-north-america-144b7c6660a14e33ac09029d04417d88",
+      "originalUrl": "https://apnews.com/press-release/business-wire/corporate-news-artificial-intelligence-technology-business-north-america-144b7c6660a14e33ac09029d04417d88",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-28T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
