@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Microsoft announces Azure Communication Services"
-excerpt: "In an effort to help customers connect better with businesses in the remote working times, Microsoft has announced Azure Communication Services which is the first fully managed communication platform offering from a major Cloud provider."
-publishedDateTime: 2020-09-24T10:38:00Z
-originalUrl: "https://news.webindia123.com/news/articles/Science/20200924/3631241.html"
-webUrl: "https://news.webindia123.com/news/articles/Science/20200924/3631241.html"
+excerpt: "It also enables developers to easily tap into other Azure services, such as Azure Cognitive Services for ... and GDPR (in the EU),\" Microsoft said in a statement on Wednesday."
+publishedDateTime: 2020-09-24T10:32:00Z
+originalUrl: "https://www.sify.com/finance/microsoft-announces-azure-communication-services-news-topnews-ujyeO9fgegihh.html"
+webUrl: "https://www.sify.com/finance/microsoft-announces-azure-communication-services-news-topnews-ujyeO9fgegihh.html"
 type: article
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "gFdmFj97/pwDXV9dW3cMj1QxHsgBcDNpUJYRBuz6ZpnHfhhs9z3h7Mxmv9lzqwtKslnNa/1iLskFnr1bfOCnC08UJ9hHiRN9JdBIK6hzlEt3o+45plo6HLqVs14n6a7GPJ1SHSz4VgoM00ItaZoR9+LYn415TMiEAmQjqqAUgk5F9H2Q3zNX2z7lgZ9OOXa3gVVfjc9Y8qZfWxkCEed22nnkPNthmRTBySp6qT7651TISIxXk7TUnKEoHFzWu3LFXYqjYZWSZlE3Afs07YjNbuvm8v8NYmKTyzC0K0Xk29WdDVW73CoIAU0OJQLstqxDoqKfSVaTGd5hH2ZAzwahQXbHGFTxrHCJLtzJ9QFwgLI=;brlHKFl1JhV346ftYWq3Zg=="
+images:
+  - url: "https://www.sify.com/uploads/microsoft_ap_uitr0fihdhehb.jpeg"
+    width: 950
+    height: 633
+    isCached: true
+
+secured: "GmV/5ElTq2wfqDmzMbryQx0Lhtn/+BYyeA2hXhvysYqFb80SvRZsjM3gi8UZwBLY7Vjr/r6CLepV/nILAuUzX+H0Nv4h+vaymG0tbujfbRrIoIBUH4T67XxjR0f+9FN5p+up4BRDd32I7CSEfbonhAgK3iy1PNWS+IMtsTP4ytmJ2Iuso4awhpBHA1uZMxUqTQrS+EanA0UFT1oq87ecwYj/in5t7YpVHbuCmPd8Y20jQ26fINQbWRazxs3G7Ndgt70UfL7I/tCMs/VnUcdAM0O1UxBy5UJiRAnNYOLZvUqQirLFmZVstBOM5SWGYg1FBFpwA/TT/DJb1D6oDnQBsMTFP/SZmXLpg0nNFZZuz1w=;/VTnvdzB9CMs0WZrCSmmKw=="
 ---
 

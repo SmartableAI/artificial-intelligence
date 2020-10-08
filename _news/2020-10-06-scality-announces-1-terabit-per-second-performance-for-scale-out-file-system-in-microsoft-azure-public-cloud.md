@@ -89,6 +89,15 @@ related:
         width: 400
         height: 242
         isCached: true
+  - title: "ZEISS joins Microsoft for data-driven healthcare"
+    excerpt: "ZEISS, a German manufacturer of optical systems and optoelectronics, and Microsoft has inked a multi-year strategic partnership for better patient care through data-driven healthcare and enhance quality and efficiency in manufacturing by embracing a cloud-first approach."
+    publishedDateTime: 2020-10-08T17:32:00Z
+    webUrl: "https://www.sify.com/movies/zeiss-joins-microsoft-for-data-driven-healthcare-news-bollywood-ukigPvegbiagc.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 36
   - title: "Dicom Systems Launches Enterprise Imaging Platform in the Microsoft Azure Marketplace, Deploys to a Leading National IDN"
     excerpt: "Dicom Systems, a healthcare IT software company, today announced the availability of Unifier enterprise imaging platform for medical imaging workflow, archiving, cloud, and"
     publishedDateTime: 2020-10-07T14:15:00Z

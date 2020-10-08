@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-08T14:34:00Z
 originalUrl: "https://www.euractiv.com/section/digital/news/eu-nations-call-for-soft-law-solutions-in-future-artificial-intelligence-regulation/"
 webUrl: "https://www.euractiv.com/section/digital/news/eu-nations-call-for-soft-law-solutions-in-future-artificial-intelligence-regulation/"
 type: article
-quality: 30
-heat: 30
+quality: 32
+heat: 32
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2020/10/shutterstock_1343083016-800x450.jpg"
@@ -23,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "wYKIqlgy/6D3VbWqFzUh+w5mL5k1YQx87dcxGb+01HONTmaip6ANHCh0kUSIW0qggcVQbi2hN0FPor8l9peUzDHoom1kPeD50PcdK8GFsv5t3577qEFkrF3gIWoLy7yux98OR3I2u3FdkUbtx1aeCm28WSOxRgn0lOHjbKOdK62hfsP+Le9GbBeH7mPWUYeU006MOzsG9uy+XyoHL3/YZUK93/sxLljMfUa4pFpqa5m5znPCDrNdmBo+J/27B/wA6AuNbWLQXlmau5jqDZ645RerL7GxMqlDE1/JcFKYCpEQSW+6E71n60oKuMxpfpJa2sb1YFWtPRIqsSXsO7PLOyEZ9yUOVlbSALXBHqRJygk=;5cySzNxrHydOD6OC6EIUgQ=="
+secured: "Pg8Tnqhzp0YLOasaB93n7KnNOZ3XwJL7G6QTs3xFlDCf4QoiHYqadwspuF5IjNg1HYXOgs1ZpCF8Zy+XcBQ6TOAJt2/kxH9VS56IQ9Js15zoeEtPK8K4XR/qnbT5weXghI9c5i3Ciz2VZA0kPhYQnmCMjNrsQiqQYbXcn+vFVs2s0TtleiHPFhC8zoqhKgjCXdr7/DIEarsmf+YuzZbUsANjnig/xE6xkBwIs2iNs4+PX2oiGKgl6mhRQTbYTtq5TbJY1Hiz5gmxP/6WJnPl8qVAsj8EmnVg2c1GBowreSOMREKWpc/KOPegiPQ9A/Wqw5F+SSdpjakOKCTylsjhiylGCAG5/OK1ACczAMOHUbiupNcyM3vZPVZw4zsqJjANf5sFGNuiKrF5rUt3DqI/RcLKSpEfoD08/hHHxKbP4uq/xPRWFZUsKDHGcik8RrOg4Hbu1tu0c/91WOeRq0IgLskt2/3dA/hlIh+PZhtZbOQmW1zmaBB4Zi3qFzpy/5ZUHfP6mt0uwQWH3maP6+J80w==;cjKn9rSufs0Xs6M3lPT9BA=="
 ---
 

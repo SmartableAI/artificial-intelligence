@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How man and machine can work together in the age of AI"
+    excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Jens Martin Skibsted, Partner, Manyone A/S In reskilling"
+    publishedDateTime: 2020-10-08T17:34:00Z
+    webUrl: "https://europeansting.com/2020/10/08/how-man-and-machine-can-work-together-in-the-age-of-ai/"
+    ampWebUrl: "https://europeansting.com/2020/10/08/how-man-and-machine-can-work-together-in-the-age-of-ai/amp/"
+    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2020/10/08/how-man-and-machine-can-work-together-in-the-age-of-ai/amp/"
+    type: article
+    provider:
+      name: europeansting.com
+      domain: europeansting.com
+    quality: 59
+    images:
+      - url: "https://europeansting.files.wordpress.com/2020/10/robots-2020_.jpeg?w=1200"
+        width: 1200
+        height: 864
+        isCached: true
 
 secured: "0qfLhAIOkhVOlClfO9GfgZn1fBOmLo25u0ZE1T9dZsJMBe77f0L6pgFqGthKeFpHp35WChHNsldkPHbsBAbpMQPaBPBe4cnPd0C/fkgt1N6DSBSFIDwjOoDSAYmIjxo4sIqscZMcs1xw92mQcZV+8/hRCCdhBRDoDpjh2PR4w/20Hjf027yETvRGlPZkV0IUz9gSQ7feY70sdeBm1KpXQk9U116XyRTXr2sEhoC/vKXAqdXeKCBKgpM/a/bZSJroNMTN6HQbC73RBffLXgpafcXgX6zqzA1AuO+W4Jm8nJlgdv4uE+7j3d5FTUpsEH6UFzN+URrAyjuAX3BRZkvCwpic48CLgpxE5UAOcxZYcRQ=;0K7M0R0SzQ7SmIt4h3XwUw=="
 ---

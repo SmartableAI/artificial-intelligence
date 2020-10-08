@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-10-05/voyage-ceo-ol
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-05/voyage-ceo-oliver-cameron-on-robo-taxis-self-driving-cars-and-coronavirus"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "This Self-Driving Drone Truck Could Be on the Road by Next Year"
+    excerpt: "Driverless cars are nudging their way to reality, but one startup wants to take things a step further with driverless trucks. And its efforts could change freight hauling on the road for good."
+    publishedDateTime: 2020-10-08T16:17:00Z
+    webUrl: "https://robbreport.com/motors/cars/einride-autonomous-freight-trucks-1234573778/"
+    ampWebUrl: "https://robbreport.com/motors/cars/einride-autonomous-freight-trucks-1234573778/amp/"
+    cdnAmpWebUrl: "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/einride-autonomous-freight-trucks-1234573778/amp/"
+    type: article
+    provider:
+      name: Robb Report
+      domain: robbreport.com
+    quality: 44
+    images:
+      - url: "https://robbreport.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-08-at-9.jpg?w=1000"
+        width: 1000
+        height: 562
+        isCached: true
   - title: "Self-Driving Cars Are Still Years Away"
     excerpt: "Even though automobile companies presented big promises to have fully autonomous cars by 2021, there are multiple planning and technological barriers that will need to be overcome before these vehicles become an everyday reality."
     publishedDateTime: 2020-10-04T20:16:00Z

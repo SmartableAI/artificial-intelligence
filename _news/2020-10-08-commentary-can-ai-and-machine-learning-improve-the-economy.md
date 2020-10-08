@@ -8,8 +8,8 @@ webUrl: "https://www.freightwaves.com/news/commentary-can-ai-and-machine-learnin
 ampWebUrl: "https://www.freightwaves.com/news/commentary-can-ai-and-machine-learning-improve-the-economy/amp"
 cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/commentary-can-ai-and-machine-learning-improve-the-economy/amp"
 type: article
-quality: 74
-heat: 74
+quality: 76
+heat: 76
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://s29755.pcdn.co/wp-content/uploads/2020/10/Aoaeh_commentary_100620_1.jpg"
@@ -26,6 +27,6 @@ images:
     height: 675
     isCached: true
 
-secured: "M/tdujou4LEk+cZqWfaKIYQGadKV31Qpaaj3tgJmre14V8uYM0AGk/+MMsAPH9cl/wlnMobCYyVWKMivxDvo+92hJ6CKeaf0KVbt3CR/KorFXtvVvgI++sjqj21GK05GvePA74KWdGs1fGqAib+/7Hkcuei79UkU6K2yAn85AasRm9TvregoAs/y7SckKY7T5o/Vnm+/JVYo+0LorpU5baPv2Chha1qGnfCOs8f6hMSBhSc9A6Jxd/2alY802myqkEd0b2INqLsVhrEYp/GoEVaZgnYDWO3BucMAJa8OsFSC3dI0MIEPrKd5GUgrMhnvdJ5IOAQZL68DBPInyakMta3lysUtFNDWhM31qSLwTI4=;g4aetPRVPp1UoFt1pXtjIg=="
+secured: "2tvgp6OIDv/kqkvB6veehvjLFCgZA4BdIR5Vnpla+jW3szyR5NKB7e5N8Xwy4GnQO4WLGTzD5Zf+wqhALEejaSvh9uODJ5uqJ+XYTG+Heg5uUZUTNaSsXy0OByQJ6y3mhhMlb1TG6fiCgcs9lkSIV51tLuYDrMpZ1LS/ELONmTGStooRaPQCP8zlhTMC5oolE4PoBvbsv7K6xKlYDEbGdwBpvZf/z0Al/A2FOosOIeMGVYhNilm7IH1CZGlByVz0Gkd1Tkho6HGoXM0I0E/LkkdXS13wslFC/KoI6fG9bQkshiM6Vdb3w5rf33xtLWePBKf64AlGbLKCrgXZDdzlh0BHvyscEafN+InQsDOxpa/BMHikwCpc+QPf5AAYashjKCzNvwRmeSiI8viMt193m5UEJdpcFX6rPpUCDib6S1KGuaqvfz85kqqhEQZc5CCApPjz/kx3MEi1T9xawvoAMY4lRMG7ZZmtojHDS7VASeHjPqQKOFjYYJiM6tP+sPGsZmuG2UJcLC54r3N2qXt/xg==;mQc2poB9h03OhYkpUd++gA=="
 ---
 

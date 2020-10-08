@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-22-image-recognition-market-coronavirus-pandemic-short-and-long-term-actions-taken-by-key-player-fortune-business-insights.md",
+      "title": "Image Recognition Market Coronavirus Pandemic: Short and long-term actions taken by Key Player? Fortune Business Insights",
+      "excerpt": "Facial Recognition, Object Recognition, Pattern Recognition), By Applications (Scanning and Imaging, Security and Surveillance, Image Search, Augmented Reality and others), By Deployment (On ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-market-coronavirus-pandemic-short-and-long-term-actions-taken-by-key-player-fortune-business-insights-2020-09-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-market-coronavirus-pandemic-short-and-long-term-actions-taken-by-key-player-fortune-business-insights-2020-09-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T06:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-best-facial-recognition-home-security-cameras-to-buy-this-year.md",
       "title": "Best facial recognition home security cameras to buy this year",
       "excerpt": "Select home security cameras have facial recognition, a feature that lets you make a profile of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your list of known faces.",
@@ -1336,48 +1387,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-portlands-facial-recognition-ban-is-a-major-win-especially-against-amazon.md",
-      "title": "Portland's facial recognition ban is a major win, especially against Amazon",
-      "excerpt": "\"The dangers and inequities in the current technology are present and clear,\" explained Portland Mayor Ted Wheeler.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/portland-bans-facial-recognition-technology/",
-      "originalUrl": "https://mashable.com/article/portland-bans-facial-recognition-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 422,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F09%252F10%252Fa0%252F625cc075eb3d4b72acffa2daaa3fb2de.17453.jpg%252F1200x630.jpg?signature=YwVn_DbOwjdC5xvuZXDlAGIu194=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/portland-bans-facial-recognition-technology.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/portland-bans-facial-recognition-technology.amp",
-      "publishedDateTime": "2020-09-09T18:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
