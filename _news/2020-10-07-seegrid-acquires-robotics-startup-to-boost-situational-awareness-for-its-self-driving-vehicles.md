@@ -58,20 +58,6 @@ related:
         width: 1024
         height: 599
         isCached: true
-  - title: "Tire Blowouts Could Cause Self-Driving Cars To Go Astray"
-    excerpt: "Self-driving cars will need to contend with tire blowouts. getty. Have you ever had a tire go bad on you? Sometimes, a tire can seemingly obliterate and become a tangled mess of r"
-    publishedDateTime: 2020-10-03T15:35:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/03/tire-blowouts-could-cause-self-driving-cars-to-go-astray/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 54
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f585ee53da66757735430a2%2F0x0.jpg%3FcropX1%3D401%26cropX2%3D4704%26cropY1%3D78%26cropY2%3D2946"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "Len6blOGGczS9jRJ7Uv32RKXeULgcjaQxXnqGTFheupBLKRoWuM7181ss5tJNi6/jYzsGq+p/n2BmQHtKKW+rXO4Q3NdWuew3q262wO8HkJr0jL5PLzXcvcwRtyOetr38cElD1F4kVE9Jne7RwcQNGEdzi8RzehqnBwKT8ThXZcreT9+HWFCbVppMUSpOfP3VBgY2bhq464/QgJBM9YlSv/iWHJBJjDnQFFpnlHUQii6PtJ5/3ouOOOpMWK8w8XC3Ue3eSksofgtAcUfXTyt3NMwChAD0sr6VFSN9ce4ud5sh00ZqdmVfycFB9pDl91jl+zKa7TxGOpkmbuYsolOSvYcojOLQ24RJenpMpD0xGY=;nCY4mAyFk6/D32WJZYvyrw=="
 ---

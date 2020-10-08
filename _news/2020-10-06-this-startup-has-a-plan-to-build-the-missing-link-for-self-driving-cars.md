@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lianeyvkoff/2020/10/06/this-startup-has
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lianeyvkoff/2020/10/06/this-startup-has-a-plan-to-build-the-missing-link-for-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://www.teslarati.com/wp-content/uploads/2019/09/tesla-model-3-white-japan-1-1024x599.jpg"
         width: 1024
         height: 599
-        isCached: true
-  - title: "Tire Blowouts Could Cause Self-Driving Cars To Go Astray"
-    excerpt: "Self-driving cars will need to contend with tire blowouts. getty. Have you ever had a tire go bad on you? Sometimes, a tire can seemingly obliterate and become a tangled mess of r"
-    publishedDateTime: 2020-10-03T15:35:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/03/tire-blowouts-could-cause-self-driving-cars-to-go-astray/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 54
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f585ee53da66757735430a2%2F0x0.jpg%3FcropX1%3D401%26cropX2%3D4704%26cropY1%3D78%26cropY2%3D2946"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Seegrid acquires robotics startup to boost “situational awareness” for its self-driving vehicles"
     excerpt: "Fresh off the news that it had closed a $52 million funding round last month, self-driving vehicle provider Seegrid is keeping its foot on the gas in its drive to position its vision guided vehicles (VGVs) in the material handling sector,"

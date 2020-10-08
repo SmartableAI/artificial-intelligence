@@ -25,37 +25,27 @@ images:
     isCached: true
 
 related:
-  - title: "7 Types of AI Marketing Tools That Drive Leads"
-    excerpt: "People in all kinds of industries are debating artificial intelligence (AI) pros and cons. AI pros and cons are"
-    publishedDateTime: 2020-10-03T16:44:00Z
-    webUrl: "https://www.business2community.com/marketing/7-types-of-ai-marketing-tools-that-drive-leads-02351260"
-    ampWebUrl: "https://www.business2community.com/marketing/7-types-of-ai-marketing-tools-that-drive-leads-02351260/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/marketing/7-types-of-ai-marketing-tools-that-drive-leads-02351260/amp"
+  - title: "How IBM Is Using AI At Scale To Benefit The Media Industry"
+    excerpt: "IBM (NYSE: IBM) recently announced 3 new products to add to its growing suite of artificial intelligence solutions for brands and publishers. These are the details."
+    publishedDateTime: 2020-10-06T19:00:00Z
+    webUrl: "https://pulse2.com/how-ibm-is-using-ai-at-scale-to-benefit-the-media-industry/"
+    ampWebUrl: "https://pulse2.com/how-ibm-is-using-ai-at-scale-to-benefit-the-media-industry/amp/"
+    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/how-ibm-is-using-ai-at-scale-to-benefit-the-media-industry/amp/"
     type: article
     provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 57
-    images:
-      - url: "https://cdn.business2community.com/wp-content/uploads/2020/09/Increasing-Conversions-814862-edited-912776-edited-153863-edited.png"
-        width: 600
-        height: 326
-        isCached: true
-  - title: "The Growing Role of Artificial Intelligence in Digital Payments Market"
-    excerpt: "Marius Galdikas, CEO at ConnectPay  AI-driven technology is gaining momentum in the digital payments market, both in backend operations and customer-facing payment systems. Marius Galdikas, CEO at ConnectPay,"
-    publishedDateTime: 2020-10-05T18:01:00Z
-    webUrl: "https://www.globalbankingandfinance.com/the-growing-role-of-artificial-intelligence-in-digital-payments-market/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
+      name: Pulse 2.0
+      domain: pulse2.com
     quality: 39
-    images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/10/Untitled-design-2020-10-05T231907.081.jpg"
-        width: 750
-        height: 422
-        isCached: true
+  - title: "IBM brings AI at scale to the media industry"
+    excerpt: "IBM has announced three new products to add to its growing suite of AI solutions for brand and publishers. The new capabilities are privacy-forward and designed"
+    publishedDateTime: 2020-10-07T12:28:00Z
+    webUrl: "https://advanced-television.com/2020/10/07/ibm-brings-ai-at-scale-to-the-media-industry/"
+    type: article
+    provider:
+      name: Advanced Television
+      domain: advanced-television.com
+    quality: 19
 
-secured: "zp+9/FZCNwwhU9FLllo5O661dufdmdoLW641JvoKhYQxIUTSlj34XvV9mB6kllWLP4KWR8lacFuLqQZEiIA+GeWebr1gt73WiQQS0XiQ30BffmQ0L+ZDvRixF+As6iz0tYhO3wynfdNqn3VjjLmJX4oNdfqvvzlC+J4AEMuNsSoB+HqG6rxFO44WyMRFS6ECEMrL1VY71LsRC2gHR+VUCGrBbh27NZZ4mjAvwv/0h4F3suoQYU4PFTX3TT6IGvK31cHdiDvxgwFt7YnZ7LXvbgVb9FYFMN8XtX7NpEsvVH3HKabITJljavdD9fNxXN9rhuS9leCyzYx2HdpHU10OIzWNM7QuEzqZDwl19dZc3qM=;8vTkPIEWP4/ks97hhRMI0Q=="
+secured: "zQNytGHWZjj02JayFH7/QrBD05XsYF2LQI6v6EhMYLHFHbh598WhEr9v6llGTe6MO+h8Zt2yoLyMe0p8mL/HVtbcscjzCAS2BCxOrtY85s/lITNyPwlD7LO/WCkGy5a6mT5E5wJgoXdTMvrcJPOoD+qXYcn22qAo5Tyma6MGBko0aUCnAeL6gO6d1qURB4p8tAPG3x3ANReloV8feaLAk7fM4N1ynQQqdpxMTijsoih9dDzr5WvXkAtZcmfqBBjvqH1aJ3izCYdsHjqIPGbeurwxxwUigRi2PKu2lccP1LUoEI6lQP4tIJIwkNC4gZNEO1juya8Emu59zBlzDWvkAmPyW1548hdNYAcWSpbxul8=;kHtGhwxM7ke2cWpehkwK4w=="
 ---
 

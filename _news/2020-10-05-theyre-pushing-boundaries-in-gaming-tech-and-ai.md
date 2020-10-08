@@ -35,6 +35,20 @@ related:
       name: Prokerala
       domain: prokerala.com
     quality: 38
+  - title: "In Message To China, India And Japan Seal Agreements For Cooperation In 5G Tech And Artificial Intelligence"
+    excerpt: "India and Japan have reached the consensus on an ambitious agreement of cooperation in 5G technology, artificial intelligence and several other crucial fields. The agreement on various crucial subjects holds significance as it comes when both the countries are dealing with Chinese hostilities at various fronts."
+    publishedDateTime: 2020-10-08T09:44:00Z
+    webUrl: "https://swarajyamag.com/insta/in-message-to-china-india-and-japan-seal-agreements-for-cooperation-in-5g-tech-and-artificial-intelligence"
+    type: article
+    provider:
+      name: Swarajya
+      domain: swarajyamag.com
+    quality: 19
+    images:
+      - url: "https://images.assettype.com/swarajya%2F2020-10%2Fcec0603f-33cc-451f-88a6-5b9e32cc4ffc%2FEjtEIa5U8AEBRo6.jpeg?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 652
+        isCached: true
 
 secured: "kVpFFlf1ALwCf9DPYSRiLTRzZiQcjCbX3XlskS9/nQn4xtH/7a1y0qPz0b3ZVcTMCyFrFhJf1ExO4PVY5rGg8hoocOUSG8H/tK3tqEHYicVVkeQBxPbkK5aHy+Ij0emmerPc7isosTf9oSLfYhQc2/PnJ3LK2dmuXyQMzfekvy/fhQCwXBNhYGMIWcltliihSfNmgxwAMYN0nIY/EwqvcX5PBif0hHiHBrlC9KmFrgVKH65UPoYE3zy1Z4M6bBACa1/gbFU4kAA1bYt9t51cLUbI7rE15jfWjTliL+5GrBfRbMMNExDVM+1Fn3oUgbE0/sjKCyedumROprir0VCfsxLB26FD1sBCzKa2Tdl7LOE=;zBm1P5UDcaPJF9P2xKNbJA=="
 ---

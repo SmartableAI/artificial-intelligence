@@ -2,6 +2,98 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2020-09-03-autonomous-robot-plays-with-nanolego.md",
+      "title": "Autonomous robot plays with NanoLEGO",
+      "excerpt": "Scientists have now developed an artificial intelligence system that autonomously learns how to grip and move individual molecules using a scanning tunneling microscope. Molecules are the building ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2020/09/200903105557.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2020/09/200903105557.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-03T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-x-ray-vision-in-the-warehouse-thruwave-raises-64m-to-help-online-retailers-see-through-packages.md",
+      "title": "X-ray vision in the warehouse: ThruWave raises $6.4M to help online retailers see through packages",
+      "excerpt": "Seattle startup ThruWave just raised a $6.4 million round for its futuristic technology that uses millimeter waves to see through packaging. Fortune 100 customers in retail and e-commerce",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/x-ray-vision-warehouse-thruwave-raises-6-4m-help-retail-companies-see-packages/",
+      "originalUrl": "https://www.geekwire.com/2020/x-ray-vision-warehouse-thruwave-raises-6-4m-help-retail-companies-see-packages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/09/ThruWave-Founders-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/x-ray-vision-warehouse-thruwave-raises-6-4m-help-retail-companies-see-packages/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/x-ray-vision-warehouse-thruwave-raises-6-4m-help-retail-companies-see-packages/amp/",
+      "publishedDateTime": "2020-09-03T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-03-ai-researchers-use-heartbeat-detection-to-identify-deepfake-videos.md",
       "title": "AI researchers use heartbeat detection to identify deepfake videos",
       "excerpt": "AI researchers are using heartbeat detection to identify deepfake videos and even to figure out what kind of generative model created a deepfake.",
@@ -1051,99 +1143,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-nasas-impressive-new-ai-can-predict-when-a-hurricane-intensifies.md",
-      "title": "NASA’s impressive new AI can predict when a hurricane intensifies",
-      "excerpt": "NASA has developed a machine learning model that, in tests, predicted when a hurricane will intensify more accurately than an existing operational model.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/09/03/nasas-impressive-new-ai-can-predict-when-a-hurricane-intensifies/",
-      "originalUrl": "https://thenextweb.com/neural/2020/09/03/nasas-impressive-new-ai-can-predict-when-a-hurricane-intensifies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Untitled-design-2020-09-03T103620.842-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/09/03/nasas-impressive-new-ai-can-predict-when-a-hurricane-intensifies/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/03/nasas-impressive-new-ai-can-predict-when-a-hurricane-intensifies/amp/",
-      "publishedDateTime": "2020-09-03T03:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-nitda-plans-centre-for-artificial-intelligence-robotics.md",
-      "title": "NITDA plans centre for artificial intelligence, robotics",
-      "excerpt": "In an effort to achieve a robust digital economy, the National Information Technology Development Agency, (NITDA) is set to establish a Centre for Artificial Intelligence and Robotics in Nigeria (CFAIR).",
-      "sourceUrl": null,
-      "webUrl": "https://www.today.ng/technology/nitda-plans-centre-artificial-intelligence-robotics-316206",
-      "originalUrl": "https://www.today.ng/technology/nitda-plans-centre-artificial-intelligence-robotics-316206",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.today.ng/wp-content/uploads/2017/08/NITDA.jpg",
-          "width": 700,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.today.ng/technology/nitda-plans-centre-artificial-intelligence-robotics-316206/amp",
-      "cdnAmpWebUrl": "https://www-today-ng.cdn.ampproject.org/c/s/www.today.ng/technology/nitda-plans-centre-artificial-intelligence-robotics-316206/amp",
-      "publishedDateTime": "2020-09-03T03:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TODAY",
-        "domain": "today.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

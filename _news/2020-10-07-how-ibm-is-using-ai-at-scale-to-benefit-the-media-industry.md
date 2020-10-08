@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "IBM Brings Artificial Intelligence At Scale To The Marketing And Media Industry"
+    excerpt: "Our work will be a step forward in our evolution to meet the advertising industry's upheaval, and we are proud to help the advertising industry advance with the value of AI.\" The IBM Watson ..."
+    publishedDateTime: 2020-10-05T12:28:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-301145605.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 35
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+        width: 2698
+        height: 1414
+        isCached: true
   - title: "IBM brings AI at scale to the media industry"
     excerpt: "IBM has announced three new products to add to its growing suite of AI solutions for brand and publishers. The new capabilities are privacy-forward and designed"
     publishedDateTime: 2020-10-07T12:28:00Z

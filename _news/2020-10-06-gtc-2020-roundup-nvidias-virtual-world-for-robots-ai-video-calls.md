@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Nvidia’s GTC event will shine a spotlight on 200 AI startups"
-    excerpt: "More than 200 new artificial intelligence startups will appear at Nvidia's GPU Technology Conference (GTC) in some form from Monday through Friday."
-    publishedDateTime: 2020-10-03T16:45:00Z
-    webUrl: "https://venturebeat.com/2020/10/03/nvidias-gtc-event-will-shine-a-spotlight-on-200-ai-startups/"
-    ampWebUrl: "https://venturebeat.com/2020/10/03/nvidias-gtc-event-will-shine-a-spotlight-on-200-ai-startups/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/03/nvidias-gtc-event-will-shine-a-spotlight-on-200-ai-startups/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/10/nvidia-Inception2.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 588
-        isCached: true
   - title: "Nvidia unveils Maxine, a managed cloud AI videoconferencing service"
     excerpt: "Nvidia today launched Nvidia Maxine, a platform that provides developers with a suite of GPU-accelerated AI conferencing software to enhance video quality. The company describes Maxine as a “cloud-native” solution that makes it possible for service providers to bring AI effects — including gaze correction,"
     publishedDateTime: 2020-10-05T13:09:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://yourstory.com/2020/10/govt-ai-pilot-projects-union-territori
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/10/govt-ai-pilot-projects-union-territories-raise-2020/amp"
 type: article
 quality: 53
-heat: 53
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 800
     height: 400
     isCached: true
+
+related:
+  - title: "Govt running artificial intelligence-based pilot projects in six UTs: IT secretary"
+    excerpt: "In today technology news, we covered about the Govt running artificial intelligence-based pilot projects in six UTs: IT secretary"
+    publishedDateTime: 2020-10-06T16:54:00Z
+    webUrl: "https://www.compsmag.com/news/technology/govt-running-artificial-intelligence-based-pilot-projects-in-six-uts-it-secretary/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/govt-running-artificial-intelligence-based-pilot-projects-in-six-uts-it-secretary/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/govt-running-artificial-intelligence-based-pilot-projects-in-six-uts-it-secretary/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 53
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/09/Turkey-prepares-second-indictment-of-six-Khashoggi-murder-suspects-–-1024x579.png"
+        width: 1024
+        height: 579
+        isCached: true
 
 secured: "AVO3Z8+4KAQNrnnzTv/hcGIe4fr1UrhQ/dLicLffw3j9m6pC3RbQulyw5NLWXboe8/hAVrW1jlxmqQTU42HCO0AenQhHFf0tm6MJ0mMj9JlxlslpGu0jv7chpGsT3ftJ2WyHQumgE3W+kNHCNB6jsLYFhmuWJSYeDfaQo4uW/dUPLgMn0ygyZsoiD7TtJZ1d7IYqtbkCd+koqMW7Sq5rQNJtVIBshni7jdkXe7iPOotkchibNWFsp5jUPuUcQZkEeXEf6DDxSVKwwHwv0xQT30TwfTEr4cEG79cDs8klEjrHce9QaXQbaHYDfL/06i9qsf5AtIvCyKssPIhSr7XIzONSVvdIPSU4AvPU2s5qI9dp5pi8hqAMbpOu/nI6BxV8QELNbhhPg3lXgW3ZJRZj4nfk+sc1BnWUqBAw/TrudaI19wFaf/+B9gUIfmyT8f8Ui8cikbLvLWHMon8BJXMt5QhGHZdxwExMvK8zO36r2Yt7NZ8HNO2FOzvB3cKsiC8RKNVoV9L98AHxqava4QKsJw==;977bFUK1FDsvwGnp50iEAA=="
 ---

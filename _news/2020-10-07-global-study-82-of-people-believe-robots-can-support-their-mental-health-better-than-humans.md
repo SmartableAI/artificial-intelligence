@@ -1,42 +1,47 @@
 ---
 category: news
 title: "Global Study: 82% of People Believe Robots Can Support Their Mental Health Better Than Humans"
-excerpt: "People want more from technology than collaboration tools and instead want technology to support their mental health."
-publishedDateTime: 2020-10-07T05:58:00Z
-originalUrl: "https://www.oracle.com/news/announcement/ai-at-work-100720.html"
-webUrl: "https://www.oracle.com/news/announcement/ai-at-work-100720.html"
+excerpt: "PRNewswire/ -- 2020 has been the most stressful year in history for the global workforce and people want robots to help, according to a new study by Oracle and Workplace Intelligence, an HR research and advisory firm."
+publishedDateTime: 2020-10-07T06:00:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/virus-outbreak-business-technology-lifestyle-mental-health-1667885ea22fb0794be0af5f1791fab4"
+webUrl: "https://apnews.com/press-release/pr-newswire/virus-outbreak-business-technology-lifestyle-mental-health-1667885ea22fb0794be0af5f1791fab4"
 type: article
 quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Oracle
-  domain: oracle.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.oracle.com/oce/press/assets/CONT36F075D856F748299E9ABBE242D58A26/native/og-social-ai-at-work.jpg"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
-  - title: "82% of people believe robots can support their mental health better than humans"
-    excerpt: "The COVID-19 pandemic has negatively affected the mental health of 78% of the global workforce, a report by Oracle and Workplace Intelligence finds."
-    publishedDateTime: 2020-10-07T14:13:00Z
-    webUrl: "https://www.techrepublic.com/article/82-of-people-believe-robots-can-support-their-mental-health-better-than-humans/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/82-of-people-believe-robots-can-support-their-mental-health-better-than-humans/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/82-of-people-believe-robots-can-support-their-mental-health-better-than-humans/"
+  - title: "Study Shows People Prefer Robot Over Their Boss: 6 Ways To Be A Leader People Prefer"
+    excerpt: "These are stressful times—among the most stressful in history—and people need help. Often, they turn to their employers and specifically their leaders. But they don’t always get what they need. A new global study reports people actually prefer robots to humans for help with mental health issues."
+    publishedDateTime: 2020-10-07T06:02:00Z
+    webUrl: "https://www.forbes.com/sites/tracybrower/2020/10/07/study-shows-people-prefer-robot-over-their-boss-6-ways-to-be-a-leader-people-prefer/"
+    ampWebUrl: "https://www.forbes.com/sites/tracybrower/2020/10/07/study-shows-people-prefer-robot-over-their-boss-6-ways-to-be-a-leader-people-prefer/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tracybrower/2020/10/07/study-shows-people-prefer-robot-over-their-boss-6-ways-to-be-a-leader-people-prefer/amp/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 65
+      name: Forbes
+      domain: forbes.com
+    quality: 82
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7d1aa51a223b41447ae3d1%2F0x0.jpg"
+        width: 1200
+        height: 648
+        isCached: true
 
-secured: "WAtSuLNc2s1pb3WmMJPMmN0i8fwS89Ez+Ou4xFEA38quxE5ICTquHuypPki6MxR0/NkHjSLLUKKOCL1XEM1Zc7qEVBcNohVGhgijj6NS6X552HLU9GFr3Ql0RzivbKxKhOHKaxb9ucORFVNEElxr38p7UD7rJmsCVfc3+/xp9fh9Y6SCgbqc1GXq9NGG1CVbdbBfLJcmSdPKo0OxurjLa95F3epPG/HXGpGFHyIJErr8NnqpgOh0Ey4R3MC3rM78u6K2gIaK2yNYh8M/yvqLPy+PbuMW5nCn29QLLbMM9wUbvxnPywMxDnuhp7WI4RRVcdjwMlW3hcLfnksZGMHfgCI7hF6Cbt0eN+kfQNsnQTY=;x8xbTNy9hLJxBF/xx2vSGQ=="
+secured: "W8Zh4OD9TUhosV2uzgdm+/xk9iqx5kIwY30lylfV0QwtNIi5H49+iQWnss0GhhPmnr7zvLY43SStzenThsqLJKSgJlqh7ZXpzHs/Ao2HAsLCMabKVgfOM4o805oeYXe9QC6KCB6fyk21HoRltmphg2iQJdXznAKQ1Ri/fYit+rxxAFteKbntMfSVoJtAKjD2E5ro+xdqeNw1Xjvfzf3T70wTjZLeQIv+0xLWJfUTU5nXqPnyg2BBH63Fdb0kXgWZZlFs9bf6uNcoXnkyJHLstnevqsJI1a3iqqc8WLyv9f8XYvY5JvRdEou1Xo79/MeKpAF4Rza9X28Xb728cUv1ypX7FxWRv0Pil1wrcHPBffQ=;KYqDcjIdUkYm0dhD3+b59g=="
 ---
 
