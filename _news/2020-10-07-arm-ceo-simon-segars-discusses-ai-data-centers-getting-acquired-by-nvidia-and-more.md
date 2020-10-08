@@ -41,7 +41,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 91
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7e2aeb0c6bb2981900699b%2F0x0.jpg"
         width: 1061
@@ -62,6 +62,22 @@ related:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F594099%2Fsemiconductor.jpg&w=1200&op=resize"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Voice AI Redefines The Future Of Patient Interactions"
+    excerpt: "In the past decade, the fundamental structure of healthcare management has changed radically. The industry has become more consumer-driven with a focus on providing personalized patient care. On the other hand,"
+    publishedDateTime: 2020-10-03T11:14:00Z
+    webUrl: "https://inc42.com/buzz/voice-ai-redefines-the-future-of-patient-interactions/"
+    ampWebUrl: "https://inc42.com/buzz/voice-ai-redefines-the-future-of-patient-interactions/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/voice-ai-redefines-the-future-of-patient-interactions/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 59
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2020/10/Untitled-design-2020-10-03T142535.041.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Nvidia Will Help GSK Find New Drugs, With AI and Supercomputers"
     excerpt: "GSK’s head of AI and machine learning said the Nvidia systems will allow his researchers to search for medicines by poring through vast databases of pathology images and genomic signals."

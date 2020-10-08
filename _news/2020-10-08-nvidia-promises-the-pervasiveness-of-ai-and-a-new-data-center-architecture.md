@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/tiriasresearch/2020/10/07/nvidia-promises-
 ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2020/10/07/nvidia-promises-the-pervasiveness-of-ai-and-a-new-data-center-architecture/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/10/07/nvidia-promises-the-pervasiveness-of-ai-and-a-new-data-center-architecture/amp/"
 type: article
-quality: 87
-heat: 177
+quality: 91
+heat: 191
 published: true
 
 provider:
@@ -23,6 +23,8 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Natural Language Processing
+  - AI Hardware
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7e2aeb0c6bb2981900699b%2F0x0.jpg"
@@ -62,6 +64,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-924830546.jpg?w=1024"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Voice AI Redefines The Future Of Patient Interactions"
+    excerpt: "In the past decade, the fundamental structure of healthcare management has changed radically. The industry has become more consumer-driven with a focus on providing personalized patient care. On the other hand,"
+    publishedDateTime: 2020-10-03T11:14:00Z
+    webUrl: "https://inc42.com/buzz/voice-ai-redefines-the-future-of-patient-interactions/"
+    ampWebUrl: "https://inc42.com/buzz/voice-ai-redefines-the-future-of-patient-interactions/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/voice-ai-redefines-the-future-of-patient-interactions/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 59
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2020/10/Untitled-design-2020-10-03T142535.041.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Nvidia Will Help GSK Find New Drugs, With AI and Supercomputers"
     excerpt: "GSK’s head of AI and machine learning said the Nvidia systems will allow his researchers to search for medicines by poring through vast databases of pathology images and genomic signals."
@@ -154,6 +172,6 @@ related:
       domain: stockhouse.com
     quality: 11
 
-secured: "skEUJ4e8GPRKa48NC+EbFdfS4qR+ryM3oxlM9oz5LkkXeZCJ/aKi4rz3kfOLQGTAGfLlANposrUJKqGCSi1bd/UVQW1SSaOVRiJkttZAzuzJtr9R9N8xeWJp+OCGQqdI9ZatnIZGoknmWuu6X6JJMsRDjzDTvlBFePfBOBqqv/+taq4Y40cugnlGvOBWwrWQHEa/dDH0su+vOU/eJa84XBI4wzHyvqQqKHvqm+JHEKAFw11i6y0Tk7KhC5epRG5ZTmZZfE0QnK1EeWZLWi08vOU3mEvpOUe0ivTf4uT2/6U88bWNLbxCXCuZZIfNwhoRcEliltJznfWwYXTXCu8dVi3RDnsakps2pqzHhyHfZL0=;AGJrPB2KqAVo73rJ6todLQ=="
+secured: "1bwkQ92LNTCxLoYnSLEYoWYB3BFW0je4DyhBRqjcejGElZkOpVz+9nteDHofUK4tGubkAQs7qMLwl+OoP0E/Du2ZaSP7dHl1RpWueBU/eWtKF0HqtnkzY3ugjg41Kvq3+QNfn8otigqRJ3dzU6Kdvz3S3H3MSyxWyfJVtKig7zAW8+LUzQrldOJTXls349IvxE2YNHz+9itbe4YqPJZ21yD+AFPkm3GiXEWhFCc5Nooi7XUQLhOKHrlrZp0+NJcFmkogELOv8ZV1qElg/7vymBfTDDCBBtse7Tkf3MD9NtJnFZGn9LjDkCl9pkW0nsWNviDr9zQRovlrE0gipQ5eeiiS4soUv8RJYk+fughZIfmTsTpKUxxV+E8+2n/h8+VT/4x6ifWHKbzvohatDC1oiHSyOgDu0xTgfvLOgommBeeP4gX92R3Ot5fdc+rlKSCiYLB6CxCSieQHpRffvhk1iDLZjKyfZHEU274JOKlV4hXnOGHIrjvdhdPtWM7j/1xks7ZVyuRoT9Br8Q8gkB24lQ==;oXupt0vSXvmNVW9iixyUow=="
 ---
 

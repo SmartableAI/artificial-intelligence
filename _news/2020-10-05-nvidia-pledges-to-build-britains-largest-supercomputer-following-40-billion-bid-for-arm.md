@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/10/05/nvidia-pledges-to-build-britains
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/05/nvidia-pledges-to-build-britains-largest-supercomputer.html"
 type: article
 quality: 148
-heat: 218
+heat: 228
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
       - url: "https://beta.ctvnews.ca/national/sci-tech/2020/10/5/1_5133290/_jcr_content/root/responsivegrid/image.coreimg.jpg"
         width: 1280
         height: 883
+        isCached: true
+  - title: "Nvidia Says It’s Building UK’s Most Powerful Supercomputer, Targeting AI Research in Healthcare"
+    excerpt: "Today at Nvidia’s virtual GTC event, the company announced what it said will be the United Kingdom’s most powerful supercomputer, to be made available by the end of this year to UK healthcare researchers using AI to solve medical challenges,"
+    publishedDateTime: 2020-10-07T22:16:00Z
+    webUrl: "https://insidehpc.com/2020/10/nvidia-says-its-building-uks-most-powerful-supercomputer-dedicated-to-ai-research-in-healthcare/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 44
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2017/12/NVIDIA.jpg"
+        width: 300
+        height: 300
         isCached: true
   - title: "Nvidia Opens GTC with Plans for AI Supercomputer for Biomedical Research"
     excerpt: "Given the COVID-19 pandemic, Nvidia’s announcement of plans to build a new AI supercomputer – Cambridge-1 – dedicated to biomedical research and"

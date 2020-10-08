@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "IIT Jodhpur Receives NVIDIA DGX A100 AI System in India"
-    excerpt: "Education News: DGX A100 -- the world's most advanced AI system -- will be accessible to all students at the campus and will facilitate advanced AI research and educa"
-    publishedDateTime: 2020-10-03T05:10:00Z
-    webUrl: "https://timesofindia.indiatimes.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/articleshow/78457955.cms"
-    ampWebUrl: "https://m.timesofindia.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/amp_articleshow/78457955.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/amp_articleshow/78457955.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/photo/msid-78457905/78457905.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "NVIDIA To Develop 400 Petaflop DGX A100 Supercomputer For UK AI Research"
     excerpt: "The Cambridge-1 supercomputer will be an NVIDIA DGX SuperPOD supercomputer with over 400 petaflops of AI performance and eight petaflops of Linpack performance"
     publishedDateTime: 2020-10-05T18:24:00Z
@@ -51,19 +35,21 @@ related:
         width: 708
         height: 398
         isCached: true
-  - title: "IIT Jodhpur Launches New BTech Programme In Artificial Intelligence, Data Science"
-    excerpt: "The new UG programme in Artificial Intelligence and Data Science seeks to provide students with opportunities to explore areas including visual computing, socio-digital realities, language technologies and robotics."
-    publishedDateTime: 2020-10-07T18:16:00Z
-    webUrl: "https://www.ndtv.com/education/iit-jodhpur-launches-new-btech-programme-in-artificial-intelligence-data-science"
+  - title: "US chip firm Nvidia building UK supercomputer to boost coronavirus research"
+    excerpt: "US chip giant Nvidia said on Monday it is building Britain’s most powerful supercomputer, which will use artificial intelligence to help researchers solve pressing medical challenges, including those related to COVID-19."
+    publishedDateTime: 2020-10-05T16:50:00Z
+    webUrl: "https://english.alarabiya.net/en/coronavirus/2020/10/05/US-chip-firm-Nvidia-building-UK-supercomputer-to-boost-coronavirus-research"
+    ampWebUrl: "https://english.alarabiya.net/en/amp/coronavirus/2020/10/05/US-chip-firm-Nvidia-building-UK-supercomputer-to-boost-coronavirus-research"
+    cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/en/amp/coronavirus/2020/10/05/US-chip-firm-Nvidia-building-UK-supercomputer-to-boost-coronavirus-research"
     type: article
     provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 34
+      name: العربية.نت
+      domain: alarabiya.net
+    quality: 57
     images:
-      - url: "https://cache.careers360.mobi/media/article_images/2020/10/7/shutterstock_736790485_oHkfE82.jpg"
-        width: 860
-        height: 430
+      - url: "https://vid.alarabiya.net/images/2020/10/05/f0a9d48e-6383-4b91-9156-a398e0944323/f0a9d48e-6383-4b91-9156-a398e0944323_16x9_600x338.jpg?width=466"
+        width: 466
+        height: 262
         isCached: true
 
 secured: "9xhxUH6c4y/Sl1knx2k9Ece8wi/dE9kfcT6RTZduF8rK0wWxDb44uBUX6+FHoQHGrggqKjUkJlPl4WG72+UIikbr2cbLFQ4kcEgOJh2pF5niVpl5fmHKFqE7nU2/tMceQD2sY1y/48kX+XSg6boHRY7zcdki9YpyWCxyz8bwRrg+fSpYSsN9QVSgzdAipmUSBPGkxrXkWMoNPZDGFtRGy+zTDVqL+vl8PZvu4vkPYMdzIlB5tk1NfTfhc3Zw4qYlo/dPeyZhH9idcPUYQusFlK2sYVC04HJhqRzbM1+Bg1OKUdmVu/zFYtBYuwcnq1PHJQ95ASn7mDMdFrhKn3x8eeiui8KnLxAdO26XuiheaDekAMkmu7kPIkp6yDdqH1MCK20RLKNKxKl0BOQPNEjxwUoLbaCat7EoEUZkKl2lf/Tljgwh2TDajMs/pQ7Hsfx3daeu0s57v5bvIbWmWsva3poQiSbTY/ggaOt/mork4lMkRpCwVy7zxXTPY6XOkk2q6QgRnKZM5IWOIxyZTPz1rw==;OpSoCSPTr5SP0DokaWw/eg=="
