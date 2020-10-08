@@ -1,34 +1,25 @@
 ---
 category: news
 title: "3 Top Artificial Intelligence Stocks to Buy Right Now"
-excerpt: "Artificial intelligence (AI ... deploying AI brains into the Waymo self-driving car business, and applying these technologies to medical research and weather forecasting. But the company also invites the world at large to take advantage of the same ..."
-publishedDateTime: 2020-10-07T13:39:00Z
-originalUrl: "https://www.fool.com/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/"
-webUrl: "https://www.fool.com/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/"
-ampWebUrl: "https://www.fool.com/amp/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/"
-cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/"
+excerpt: "Artificial intelligence (AI) involves using computers for tasks that normally require intelligent human behavior. AI systems can easily beat human grandmasters in chess, they have started to drive cars,"
+publishedDateTime: 2020-10-07T14:37:00Z
+originalUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-10-07?time=1602083216"
+webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-10-07?time=1602083216"
+ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-10-07?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-10-07?amp"
 type: article
-quality: 89
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - AI in Autos
+  - AI in Healthcare
   - AI
-
-images:
-  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F594319%2Fartificial-intelligence-digital-brain.jpg&w=1200&op=resize"
-    width: 1200
-    height: 800
-    isCached: true
+  - IBM AI
 
 related:
   - title: "3 Top Artificial Intelligence Stocks to Buy in October"
@@ -48,6 +39,6 @@ related:
         height: 800
         isCached: true
 
-secured: "LLUW1wZqZ/eRdV0ju8RqeLWhEcUQl/rv0ywGemMogx1r6i/D8uYZ2lSbr8kxYMojjr1532n7pzkro3C9ny/e2nMy/3gfiClkS7cSEhisYfuMVUzgi+w1Lf2IY5E9OKfm+He2ySTZps/rJ8HM4K2E573DcqxAJ2Yah/lwSoxy15lW2hLY5tnStIZ9KrHchkfHU9ifVfRZpdEH5bdOLvwHuTLmp2I6HuMU2YZo4Jll9CAT/3yhPAv/A7LoxlZvxFT+M5YzU8JI2mvBqsJpCpVqb3XQW5xp0C8eELzq2EImSDXzTKg1jt4B1khNkqoAMHbs99U1FZ3CoRCteYKL0TmFmY+XjR0feZlteAAQitvp0Cc=;lOjXxKywAatkAehCXYt5fA=="
+secured: "JypqBDwbg0bLym9gbOUZXpg00xKuBHEVDbkz38dU+JyYRHHOx1ICXuKHOZfdf42qrMXvnBNZcgOe/MvKJw8Y5Ogo20hqp3HrvyWaARFKa0xQnquHb1T75eS2z48d9trwflD2SQ3DJkJe5JyZk6ppHG/k97imzRC4FMgBDYWy257ksDgcjiFzH7O8pI8CYt4+QSiDrEgeh2x7pjeyIGHBSFtIL4Kv9xoIksBpC0L987oYZ65dJjWb/pXWFSsFhDu8nHpoeP/050i47jmJ/MHKraqGxvPSjB6KbhhqiDpLfyPt094/O/xrSStOo4nNEK1vpfgxhupnfvJrz3os9tN6Hb2crqAH/GYhtWI+P1f3wGU=;qeJjEqgS4zxq03xSpruyeQ=="
 ---
 

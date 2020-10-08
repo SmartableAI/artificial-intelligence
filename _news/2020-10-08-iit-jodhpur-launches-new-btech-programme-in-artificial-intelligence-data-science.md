@@ -1,30 +1,41 @@
 ---
 category: news
-title: "IIT Jodhpur Launches New BTech Programme In Artificial Intelligence, Data Science"
-excerpt: "The new UG programme in Artificial Intelligence and Data Science seeks to provide students with opportunities to explore areas including visual computing, socio-digital realities, language technologies and robotics."
-publishedDateTime: 2020-10-07T18:16:00Z
-originalUrl: "https://www.ndtv.com/education/iit-jodhpur-launches-new-btech-programme-in-artificial-intelligence-data-science"
-webUrl: "https://www.ndtv.com/education/iit-jodhpur-launches-new-btech-programme-in-artificial-intelligence-data-science"
+title: "IIT Jodhpur launches new BTech programme in Artificial Intelligence, Data Science"
+excerpt: "The Indian Institute of Technology Jodhpur (IIT Jodhpur) has announced the launch of a new BTech programme in Artificial Intelligence (AI) and Data Science from the 2020-21 academic session. The new undergraduate programme seeks to provide students with opportunities to explore areas including visual computing,"
+publishedDateTime: 2020-10-08T11:28:00Z
+originalUrl: "https://www.sakshieducation.com/StoryA.aspx?cid=0&sid=0&chid=0&tid=0&nid=277139"
+webUrl: "https://www.sakshieducation.com/StoryA.aspx?cid=0&sid=0&chid=0&tid=0&nid=277139"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
-  name: NDTV
-  domain: ndtv.com
+  name: Sakshi Education
+  domain: sakshieducation.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://cache.careers360.mobi/media/article_images/2020/10/7/shutterstock_736790485_oHkfE82.jpg"
-    width: 860
-    height: 430
+  - url: "https://www.sakshieducation.com/images/logo.png"
+    width: 510
+    height: 300
     isCached: true
 
 related:
+  - title: "BHU Proposes to Launch New Postgrduate Programme In Artificial Intelligence"
+    excerpt: "The Benaras Hindu University, Uttar Pradesh is planning to launch a new Masters programme in Artificial Intelligence. The decision has been taken by the varsity considering the importance and utilisation of Artificial Intelligence in different areas,"
+    publishedDateTime: 2020-10-08T11:27:00Z
+    webUrl: "https://www.jagranjosh.com/news/bhu-propose-to-launch-new-postgrduate-programme-in-artificial-intelligence-156058"
+    ampWebUrl: "https://m.jagranjosh.com/news/amp/bhu-propose-to-launch-new-postgrduate-programme-in-artificial-intelligence-156058"
+    cdnAmpWebUrl: "https://m-jagranjosh-com.cdn.ampproject.org/c/s/m.jagranjosh.com/news/amp/bhu-propose-to-launch-new-postgrduate-programme-in-artificial-intelligence-156058"
+    type: article
+    provider:
+      name: Rojgar Samachar
+      domain: jagranjosh.com
+    quality: 35
   - title: "Banaras Hindu University Plans To Launch New PG Programme In Artificial Intelligence"
     excerpt: "Considering the importance of Artificial Intelligence in different areas, including Cyber Security, Banaras Hindu University, Varanasi, Uttar Pradesh, has planned to launch a new postgraduate programme in Artificial Intelligence -- MSc in AI."
     publishedDateTime: 2020-10-08T09:38:00Z
@@ -40,6 +51,6 @@ related:
         height: 430
         isCached: true
 
-secured: "xwlOkuquLqAttCe78qIdMXxwYAbtZnmKzJurvCSbzSWqERMFf9wIusTLHdy4LRGj4QKAgp0+Sx9765vwlKN0VherZ319tmfSqPFgClGBFBWO7vuNhyPCizy3IkPcUbJrBSiVLs1VrnFB6COgNAdxaxkPJHu3+XV7fe+/M3ltQpNHo0TsB3Lgnij3/9s26ck4qyu8f2wVoh+6rsAs8dn6t09/H5l79K4dlY8dIguTN0yECcTSklUb592c4GRbXnPm1oZuKMky6y9C3POdGEjaTG4gAkFrpGqq4Zb6iN7JxU6Hf+eRf0DTQOYGCwhUt/YKmtaMe/TQs3FGbZqTiR9WiFvI50x4IJdB+Z2q+wNfy/k=;eJQ432jhwBTjS8uo1QkGwQ=="
+secured: "j3Q22Vbu6koR5hd87KcjlbM55zvXaezpreEo5pYrG6UUW6hefr1MV3C4xEm1xHQnvL+D8HbJkR7sFjG0zS4hq55I75FDDhgaun/9UWWhv4+KcF1gDINLXPvb1XScD3HPCGH1acJaQT6YAjZV9g4Cf6e8JbjcSxn+Oa+4/k+SgocWxAQPrWwVwna3FrGkfTFv1uORs+t1OGaN3eMzdBHKx9CF73eLPWDaDaXnaL6pBxGtaOjsfqtc0Sl1CiDc6voYiSwhPjrVVUksGTa5iIwfD9x5v0fF06bcCGhlxa4gak4GYhe770e+JOyuZf1A14dnRCEWf0RpvlX5jvpAMf/1q2F3ZNqdZAITqVnTrr1JQss=;6jqpd+gPoXrDgjmXy10MXw=="
 ---
 

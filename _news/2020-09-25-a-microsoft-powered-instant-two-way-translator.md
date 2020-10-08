@@ -23,6 +23,13 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Microsoft AI
+
+images:
+  - url: "https://zdnet4.cbsistatic.com/hub/i/2020/09/23/6d5d3cd6-a84e-4052-a894-69f1da9ef91f/cheetah-translator.gif"
+    width: 1700
+    height: 1133
+    isCached: true
 
 related:
   - title: "5 Microsoft Teams Upgrades That Take It Deeper Into the Workplace"
@@ -247,6 +254,6 @@ related:
       domain: channele2e.com
     quality: 34
 
-secured: "FaOoFZN/EgcclJzKPrdHZ1wYkls7bmTWx4xvLvFShx3VOv09xFZYwXXXIH5qAOC4/lu6/nuiZ0ek/uvz+c58edWf33LOqz/B1UOYxnuk13EjLXmCOla9QQ/3byIprvwSmBz8FdEqRrrUHjkocicdD1QAGGPSIl0sSZvJDC6ES4EH7Qq4ws1ir5yTdHw2ICw66BRRNUPlkJDoF9o1pA1lGgX2ha74rUrP/bi/dkrl54WWBxoXGfiBMK2Sqx2wXe259EKfOR58kfK9OY6KG4Rb35pwgs7VvM+l+5J053K42RteqDy3K1KyGg0xjUgKze7MLinu2Jg7oKSyZv3GFUi4kIgzgqVOwPt1UMVYpvASAC3vF12FlS1pQqsoVHoLnxnY7r8cNrMmfcShhKLupNp3a3b5hYP1+z5V0CtLBz81V2M9/Gbz64VfwXox+yc1D44EBZuAL/y5WwUtLcsZolK+l555Jw70HyEzwD8otw1aerSmm6dXLHjO+uk6JbzdZ2UI10Ta4sJfNHy47nPTJAUmog==;K9dKLHrFp4OI6RwKW4/vtQ=="
+secured: "BJxzkTreY31jF1TFQJj7oVPEYXKs9sBxxNB3iWyO1RiXNhJCJUD1yBjTNN7MxmHtMPDZSTJeAoiHOqQrja9S9zzoP+6hi3SMDzh4GusR0NWOqUPrf2LPLzZslOisz6/xfHyiAC3qXjMJRdobTmwTfYMCp45TNat9rl0cMP6zP2c3BkMA9NTGBaVFSfdeYaILYm6tEg476heXHBTob7L4/GBXVG8LlPASzHWh2qSL0uWIQ3SdjXdsnF8nTdmd9WjR1ButRXRT0IHQt/ySunjljEOKoo2VRxxW11vV3JxSPVIWzq75fmL7Xo5rS6uZKF47+6msCa5QNRR67Oci6GNS6kS5Yiz68MaZl1Ejy8T7YwA=;K54angpIWD+0jeaxM3imCA=="
 ---
 

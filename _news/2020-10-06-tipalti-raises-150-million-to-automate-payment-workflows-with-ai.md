@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/06/tipalti-raises-150-million-to-aut
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/06/tipalti-raises-150-million-to-automate-payment-workflows-with-ai/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 850
     isCached: true
+
+related:
+  - title: "SiteAware raises $10 million to track construction zone progress using drones and AI"
+    excerpt: "SiteAware, a startup adopting a 'digital twin' approach to construction validation, has raised $10 million in series A funding to expand its operations."
+    publishedDateTime: 2020-10-08T11:01:00Z
+    webUrl: "https://venturebeat.com/2020/10/08/siteaware-raises-10-million-to-track-construction-zone-progress-using-drones-and-ai/"
+    ampWebUrl: "https://venturebeat.com/2020/10/08/siteaware-raises-10-million-to-track-construction-zone-progress-using-drones-and-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/08/siteaware-raises-10-million-to-track-construction-zone-progress-using-drones-and-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 82
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/10/bd9992f9-859d-40b9-865f-667f1e393879-e1601582456284.png?fit=800%2C450&strip=all"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "8gzdTWjRXTVsA3ODS1EPqJPR5yAgJUcrvZkee64fYxMmLjuS8HqDf9m+7iq7BeXuT+A6AUkl1fpVwqs46dnjvkKQ5UHOLk2BT65X+kK4NOhrNmR6rG0FZa69vr94dPgFYLE4wzP1g9klNkB9kgLfczCR43r+K0gGa8OcYev5pWgcj0EWS6Pso4uJMUnvMhA4ohSN1qeCk5HtDnRba/JXRc3kHzlOmGEYSv5ePIF/0+LHnzhJYoCE4Jzn6BnZ7DZW0XGpUXRvHw1yoFpbByzZYNX4RbkjgTK16nbB0gZvA2iLs/TmbdLytDVARvdiTpVwFX5PsyAEdH+0FkzqXnm/+pjZv7N+GYeIXVD9hkW9z+Y6DA06DnSAQRk8dYj5CvzaRgOpFgjvn5aHtYtQ6xz9FWfLox6Lu/dYRpcC6F3TxF1drSKmy2yc9mGb1LasC6kmIaDbYdh39MExkdq9Izh88E+O787BNgnQFLbnqF338LOjThC7pWEUEIxEaWfsFbG6NYbleFqc2r3r73F55raztg==;m/ePY1auFR1lgc7enz5xCQ=="
 ---

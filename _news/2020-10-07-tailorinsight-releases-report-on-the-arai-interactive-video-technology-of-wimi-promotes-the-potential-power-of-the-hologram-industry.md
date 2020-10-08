@@ -22,6 +22,19 @@ topics:
   - AI in Finance
   - AI
 
+related:
+  - title: "TailorInsight Releases Report on 'The AR+AI Interactive Video Technology of WIMI Promotes the Potential Power of the Hologram Industry'"
+    excerpt: "TailorInsight, the fintech market research organization, recently released a research report ‘The AR+AI Interactive Video Technology of WIMI Promotes"
+    publishedDateTime: 2020-10-08T01:56:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/10/ab17829131/tailorinsight-releases-report-on-the-ar-ai-interactive-video-technology-of-wimi-promotes-the-pote"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17829131"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17829131"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 7
+
 secured: "GusOiGs9CAW29qNoeuE9axy1BySAmNjLE0hF2+6eo/M9jpQ+53s7aTwQVL/kvW7JY/9ecem40ZUjwjYT04lpez+nKz8zSZkWd1/LxyPhJIQXFhGvOxX7MM3tQ8IqOSzSvE3Pt5moo+xKQF/zjmW5AlWmXVId5yq8ni6+pVVDaxO1ZCjxJN2RLtpMtqoyAhQPxIbyBFJTBbcDemL1dT0fMaBV9E5+xQ6/3uxxz3eXWviF3IZO5xOXK+EXc+r/mVnt8crPXGiFs6P5odkYGGjHzzUxszNVirWIDfFwx/FLgkLeRLbHVyh3YkLet/hpv7g6hYzQSNuxGVfHe5CojnippqbvWZJPz/lQ5jq+kWSXQLA=;cUc90u9ZpT9cui9CLmuRBQ=="
 ---
 

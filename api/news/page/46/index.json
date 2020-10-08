@@ -2,6 +2,98 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2020-09-02-acer-announces-support-for-the-new-nvidia-geforce-rtx-30-series-gpus-across-its-predator-orion-desktop-portfolio.md",
+      "title": "Acer Announces Support for the New NVIDIA GeForce RTX 30 Series GPUs Across Its Predator Orion Desktop Portfolio",
+      "excerpt": "The GeForce RTX 3090, 3080, and 3070 represent the greatest GPU generational leap in the history ... ray-traced graphics and cutting-edge AI features, and provide gamers with incredible gaming ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/acer-announces-support-for-the-new-nvidia-geforce-rtx-30-series-gpus-across-its-predator-orion-desktop-portfolio-301122037.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/acer-announces-support-for-the-new-nvidia-geforce-rtx-30-series-gpus-across-its-predator-orion-desktop-portfolio-301122037.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1177667/Acer_logo_Logo.jpg?p=facebook",
+          "width": 2698,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-01T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-googles-ai-powered-flood-alerts-now-cover-all-of-india-and-parts-of-bangladesh.md",
+      "title": "Google’s AI-powered flood alerts now cover all of India and parts of Bangladesh",
+      "excerpt": "India, the world’s second most populated nation, sees more than 20% of the global flood-related fatalities each year as overrun riverbanks sweep tens of thousands of homes with them. Two years ago, Google volunteered to help.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/01/googles-ai-powered-flood-alerts-now-cover-all-of-india-and-parts-of-bangladesh/",
+      "originalUrl": "https://techcrunch.com/2020/09/01/googles-ai-powered-flood-alerts-now-cover-all-of-india-and-parts-of-bangladesh/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1228244500.jpg?w=1024",
+          "width": 1024,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/01/googles-ai-powered-flood-alerts-now-cover-all-of-india-and-parts-of-bangladesh/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/01/googles-ai-powered-flood-alerts-now-cover-all-of-india-and-parts-of-bangladesh/amp/",
+      "publishedDateTime": "2020-09-01T10:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-02-artificial-intelligence-robots-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2025.md",
       "title": "Artificial Intelligence Robots Market Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020 - 2025",
       "excerpt": "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Soft Bank,",
@@ -1054,100 +1146,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-google-debuts-custom-voices-in-contact-center-ai-and-model-management-tools.md",
-      "title": "Google debuts custom voices in Contact Center AI and model management tools",
-      "excerpt": "AI is opening up a new world of possibilities in areas like customer experience, user engagement, and access to content,” Google head of conversational AI Antony Passemard wrote in a blog post. “In Cloud AI,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/01/google-debuts-custom-voices-in-contact-center-ai-and-model-management-tools/",
-      "originalUrl": "https://venturebeat.com/2020/09/01/google-debuts-custom-voices-in-contact-center-ai-and-model-management-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/01/google-debuts-custom-voices-in-contact-center-ai-and-model-management-tools/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/01/google-debuts-custom-voices-in-contact-center-ai-and-model-management-tools/amp/",
-      "publishedDateTime": "2020-09-01T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-hate-symbols-on-amazon-nike-salutes-williams-sisters-tuesdays-first-things-first.md",
-      "title": "Hate Symbols on Amazon; Nike Salutes Williams Sisters: Tuesday’s First Things First",
-      "excerpt": "Welcome to First Things First, Adweek’s daily resource for marketers. We’ll be publishing the content to First Things First on Adweek.com each morning (like this post), but if you prefer that it come straight to your inbox,",
-      "sourceUrl": null,
-      "webUrl": "https://www.adweek.com/brand-marketing/hate-symbols-on-amazon-nike-salutes-williams-sisters-tuesdays-first-things-first/",
-      "originalUrl": "https://www.adweek.com/brand-marketing/hate-symbols-on-amazon-nike-salutes-williams-sisters-tuesdays-first-things-first/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.adweek.com/wp-content/uploads/2020/08/nike-venus-serena-williams-PAGE-2020-640x360.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.adweek.com/brand-marketing/hate-symbols-on-amazon-nike-salutes-williams-sisters-tuesdays-first-things-first/amp/",
-      "cdnAmpWebUrl": "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/brand-marketing/hate-symbols-on-amazon-nike-salutes-williams-sisters-tuesdays-first-things-first/amp/",
-      "publishedDateTime": "2020-09-01T04:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Adweek",
-        "domain": "adweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }
