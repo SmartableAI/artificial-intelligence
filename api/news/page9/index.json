@@ -2,6 +2,99 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-09-29-another-strange-shift-for-the-ai-chip-startup-segment.md",
+      "title": "Another Strange Shift for the AI Chip Startup Segment",
+      "excerpt": "Few of the AI hardware startups that have made it through the first round of reality (roughly 2016 until the present) have managed to navigate the choppy",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2020/09/29/another-strange-shift-for-the-ai-chip-startup-segment/",
+      "originalUrl": "https://www.nextplatform.com/2020/09/29/another-strange-shift-for-the-ai-chip-startup-segment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/shutterstock_613029992.jpg",
+          "width": 1300,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2020/09/29/another-strange-shift-for-the-ai-chip-startup-segment/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/09/29/another-strange-shift-for-the-ai-chip-startup-segment/amp/",
+      "publishedDateTime": "2020-09-29T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-artificial-intelligence-expert-zhu-songchun-to-return-to-china-from-us.md",
+      "title": "Artificial intelligence expert Zhu Songchun to return to China from US",
+      "excerpt": "UCLA professor’s switch to Peking University comes as Beijing seeks to make country a global leader in the field.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/china/science/article/3103543/artificial-intelligence-expert-zhu-songchun-return-china-us",
+      "originalUrl": "https://www.scmp.com/news/china/science/article/3103543/artificial-intelligence-expert-zhu-songchun-return-china-us",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/09/29/ec5744a6-022d-11eb-88c7-25dcd0ae6080_image_hires_211700.jpg?itok=RIqvM68m&v=1601385430",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/china/science/article/3103543/artificial-intelligence-expert-zhu-songchun-return-china-us",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3103543/artificial-intelligence-expert-zhu-songchun-return-china-us",
+      "publishedDateTime": "2020-09-29T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-artificial-intelligence-technology-solutions-partners-with-centralized-vision-to-expand-premium-service-offerings.md",
       "title": "Artificial Intelligence Technology Solutions Partners With Centralized Vision to Expand Premium Service Offerings",
       "excerpt": "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), is pleased to announce that its wholly-owned subsidiary Robotic Assistance Devices (RAD) is now offering its customers an expanded suite of managed remote services through a partnership formed with third-party monitoring pioneer Centralized Vision.",
@@ -1068,109 +1161,6 @@
         "AI Hardware",
         "AI",
         "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-take-a-look-at-this-new-drone-on-demand-mobile-app.md",
-      "title": "Take A Look At This New Drone On Demand Mobile App",
-      "excerpt": "Aquiline Drones is bringing a “Drone-on-Demand” (DoD) mobile app to the market. The DoD app will be accessible through all mobile devices, including smartphones and tablets. According to the company,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2020/09/28/take-a-look-at-this-new-drone-on-demand-mobile-app/",
-      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2020/09/28/take-a-look-at-this-new-drone-on-demand-mobile-app/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f722a94103c005007144241%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2020/09/28/take-a-look-at-this-new-drone-on-demand-mobile-app/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2020/09/28/take-a-look-at-this-new-drone-on-demand-mobile-app/amp/",
-      "publishedDateTime": "2020-09-28T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-deep-science-robot-perception-acoustic-monitoring-using-ml-to-detect-arthritis.md",
-      "title": "Deep Science: Robot perception, acoustic monitoring, using ML to detect arthritis",
-      "excerpt": "This column aims to collect the most relevant recent discoveries and papers — particularly in but not limited to artificial intelligence — and explain why they matter. The topics in this week ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/28/deep-science-robot-perception-acoustic-monitoring-using-ml-to-detect-arthritis/",
-      "originalUrl": "https://techcrunch.com/2020/09/28/deep-science-robot-perception-acoustic-monitoring-using-ml-to-detect-arthritis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-1136667866.jpg?w=1024",
-          "width": 1024,
-          "height": 716,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/28/deep-science-robot-perception-acoustic-monitoring-using-ml-to-detect-arthritis/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/28/deep-science-robot-perception-acoustic-monitoring-using-ml-to-detect-arthritis/amp/",
-      "publishedDateTime": "2020-09-28T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

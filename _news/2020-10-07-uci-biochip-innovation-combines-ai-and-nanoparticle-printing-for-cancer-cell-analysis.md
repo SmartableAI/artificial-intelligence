@@ -41,6 +41,20 @@ related:
         width: 2500
         height: 1917
         isCached: true
+  - title: "AI, Microfluidics, Nanoparticle Printing Combined to Analyze Cancer Cells"
+    excerpt: "A team of electrical engineers, computer scientists, and biomedical engineers at the University of California-Irvine report that they have created a new lab-on-a-chip that can help study tumor heterogeneity to reduce resistance to cancer therapies."
+    publishedDateTime: 2020-10-07T21:00:00Z
+    webUrl: "https://www.genengnews.com/news/ai-microfluidics-nanoparticle-printing-combined-to-analyze-cancer-cells/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 38
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2020/10/Nov4_2019_Getty_1153658163_ComputerNodes-scaled-e1602099299662.jpg"
+        width: 1400
+        height: 938
+        isCached: true
 
 secured: "XPSBZFcF9IDu5yUGEkt8qA7jfTqv32D60+kR6DQEihL5jS9Vq7o2wJYsy6oDG0rLrKxt0bDXo6xnnWBrpvCQ+GidCohPim9/euZOIOE+9Rz5c28zhPvsXYNQjaDaiY8iESwuinhUhYBOY8v6apCa/YvxdmOJPed/NKZGIiyEFyvtXECN+56R7BtCbOEBBtlzQEBhr9/kiM/U5HzWahEFIRO/iO6NfY6Q+PDr2CQfm2wXhlPcoejJPwq7S/VTnwcgIQyA9asoyjSuy1JMvj7YoHO47IrJ4Z9aQZv/BngsB5GuCW92UYZsH9M8Y9Z8jz49JZl7aC+yhS3Su7AA+9lu2fvEoB8Yht89Z8/1RTMVNQI=;tq2KMHD2azyHHk5FbE6HjA=="
 ---

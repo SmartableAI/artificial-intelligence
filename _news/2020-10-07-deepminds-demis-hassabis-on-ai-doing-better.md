@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/video/events/deepmind-demis-hassabis-on-ai-doi
 webUrl: "https://www.wsj.com/video/events/deepmind-demis-hassabis-on-ai-doing-better/B1E79F73-609F-4979-8318-D239B3F4BF35.html"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "The 21 smartest AI scientists working at Google DeepMind"
-    excerpt: "Background: Prior to joining DeepMind just nine months ago, Martin Riedmiller worked on robotics and autonomous learning systems at the University of Freiberg in Germany. Background: Shane Legg ..."
-    publishedDateTime: 2020-10-03T10:21:00Z
-    webUrl: "https://www.businessinsider.in/tech/the-21-smartest-ai-scientists-working-at-google-deepmind/slidelist/51381299.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 54
-    images:
-      - url: "https://www.businessinsider.in/thumb/msid-51381300,width-640,resizemode-4,imgsize-46648/21-charles-blundell.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "t76p5FDWUbKuMPYIDCzYQoCLCplYQMTegHcVkGVNWL+l/DGW+vBrG+EQPkzZYjNCxadDNrF2fX+ARG2VOG63xNCpBIVe3BXdo7DkOhg1r7Ww3YueBd0Gpiacomy4YDgGVYIOmaMLK5u5Un1peaqgSHKWWCEL/P2ULIyLMWWMS4htm0w1bkVcXqUy9Uy7j1HUAQcNE5w9CDyA+Adt9rD4/1KzlWpPhm7uq5Z3Nau9M9OrMtoBFAWOalCsztRWIQ3OhG2u7UhyXTH7AL3WdOHHz5wjXzdfvCS6JRSwgkeI8Tp4IXxZLYvc5X7vPPABQfc7+QVi/d7tp5vqq2ABJyivIa20bO57X97eHa3+QWXtbn9lBOqSkaJAFUJxSBhB1e/odj7I+v+Hnn//S/f2bvfJ58I0bbea05RGV6CTVBRUbKufhq2VSKbN7/KCkKr+z/fy9Pg/dgEVOEHbV+Wi1zONUit0xpxW8tdHdmxtPLS1w+DrbKbveAnT/M0IZCV+TQmVs3gXJrOeAjp1hFzH+Hz9RQ==;tpnMwJkNY9kEWCvjF8c11g=="
 ---

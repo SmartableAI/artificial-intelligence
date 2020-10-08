@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 482
         isCached: true
-  - title: "10 self-driving startups poised to become the next Waymo, according to VCs"
-    excerpt: "Aurora, TuSimple, and Gatik are among the autonomous-vehicle startups venture capitalists are most excited about."
-    publishedDateTime: 2020-10-03T10:54:00Z
-    webUrl: "https://www.businessinsider.com/self-driving-car-startups-next-waymo-2020-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://i.insider.com/5f775bf70ab50d00184addff?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Tire Blowouts Could Cause Self-Driving Cars To Go Astray"
     excerpt: "Self-driving cars will need to contend with tire blowouts. getty. Have you ever had a tire go bad on you? Sometimes, a tire can seemingly obliterate and become a tangled mess of r"
     publishedDateTime: 2020-10-03T15:35:00Z

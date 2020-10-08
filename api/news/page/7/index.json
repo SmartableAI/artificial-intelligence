@@ -2,6 +2,98 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-09-30-this-ai-advised-me-to-read-the-hunger-games-to-survive-this-cruel-world.md",
+      "title": "This AI advised me to read The Hunger Games to survive this ‘cruel world’",
+      "excerpt": "If you’re unimpressed by the book recommendations provided by your tasteless friends, a new AI tool called GPT-3 Books could help revive your joy of reading. The system is the brainchild of Anurag Ramdasan and Richard Reis.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/30/this-ai-advised-me-to-read-the-hunger-games-to-survive-this-cruel-world/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/30/this-ai-advised-me-to-read-the-hunger-games-to-survive-this-cruel-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Untitled-design-2020-09-30T145811.614-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/30/this-ai-advised-me-to-read-the-hunger-games-to-survive-this-cruel-world/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/30/this-ai-advised-me-to-read-the-hunger-games-to-survive-this-cruel-world/amp/",
+      "publishedDateTime": "2020-09-30T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-researchers-streamline-ptsd-diagnosis-with-machine-learning.md",
+      "title": "Researchers streamline PTSD diagnosis with machine learning",
+      "excerpt": "Post-traumatic stress disorder (PTSD) affects eight million adults in the US, including hundreds of thousands of veterans of the conflicts in Iraq and Afghanistan. And as the COVID crisis continues to take its toll on everyone's mental health,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.html",
+      "originalUrl": "https://medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/combatveteran.jpg",
+          "width": 1920,
+          "height": 1368,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.amp",
+      "publishedDateTime": "2020-09-30T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-using-machine-learning-to-tackle-some-of-the-worlds-biggest-problems-infographic.md",
       "title": "Using machine learning to tackle some of the world’s biggest problems (Infographic)",
       "excerpt": "A look at some of the promising applications of machine learning to benefit society from understanding climate change to finding homes for the homeless.",
@@ -140,32 +232,23 @@
     {
       "path": "_news/2020-09-30-andor-health-collaborates-with-mentor-to-deliver-next-generation-ai-powered-virtual-experiences-with-microsoft-technology.md",
       "title": "Andor Health Collaborates with Mentor to Deliver Next Generation, AI-Powered Virtual Experiences with Microsoft Technology",
-      "excerpt": "Andor Health and Mentor Worldwide LLC have formed a collaboration to provide the aesthetic physician community with the next-generation virtual health experiences to enhance the relationship between a surgeon and their patients.",
+      "excerpt": "Andor Health and Mentor Worldwide LLC have formed a collaboration to provide the aesthetic physician community with the next-generation virtual health experiences to",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-medical-technology-health-artificial-intelligence-computing-and-information-technology-7ebeb192b3437584eac7a740d6619523",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-medical-technology-health-artificial-intelligence-computing-and-information-technology-7ebeb192b3437584eac7a740d6619523",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/andor-health-collaborates-with-mentor-to-deliver-next-generation-ai-powered-virtual-experiences-with-microsoft/article_87104374-4495-5f9b-9707-4d6892880d0d.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/andor-health-collaborates-with-mentor-to-deliver-next-generation-ai-powered-virtual-experiences-with-microsoft/article_87104374-4495-5f9b-9707-4d6892880d0d.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T06:30:00-07:00",
+      "publishedDateTime": "2020-09-30T06:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1081,108 +1164,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-nvidia-and-vmware-partner-to-bring-ai-into-the-mainstream.md",
-      "title": "NVIDIA and VMWare Partner to Bring AI Into the Mainstream",
-      "excerpt": "Follow @dannyvena At its annual VMworld cloud computing conference, VMware (NYSE:VMW) today announced a partnership with NVIDIA (NASDAQ:NVDA) that has an ambitious goal: to make artificial intelligence (AI) available to every enterprise,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/09/29/nvidia-and-vmware-partner-to-bring-ai-into-the-mai/",
-      "originalUrl": "https://www.fool.com/investing/2020/09/29/nvidia-and-vmware-partner-to-bring-ai-into-the-mai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 259,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F593354%2Fnvidia-dgx-systems-the-worlds-first-portfolio-of-purpose-built-ai-supercomputers.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/09/29/nvidia-and-vmware-partner-to-bring-ai-into-the-mai/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/29/nvidia-and-vmware-partner-to-bring-ai-into-the-mai/",
-      "publishedDateTime": "2020-09-29T11:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair.md",
-      "title": "Giant Fech Firms Could Pose Dangers To Financial System Warns House Fintech Task Force Chair",
-      "excerpt": "Without mentioning Apple, Google and the like by name, House Fintech Task Force Chair Stephen Lynch warned today giant tech firms could pose dangers to the financial system. “I see to-big-to-fail fintechs in the future in a big,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/",
-      "originalUrl": "https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f737b36e2e867ffa50a6877%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D257%26cropY2%3D3071",
-          "width": 1199,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/amp/",
-      "publishedDateTime": "2020-09-29T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://abc7chicago.com/amp/crown-point-contact-tracing-indiana-covi
 cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/crown-point-contact-tracing-indiana-covid-social-distancing/6787977/"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Facial recognition data leaks is rampant across China as Covid-19 pushes wider use of the technology"
+    excerpt: "Incorrectly configured databases remains a widespread security problem in China even as citizens increasingly express concerns."
+    publishedDateTime: 2020-10-08T03:47:00Z
+    webUrl: "https://www.scmp.com/abacus/tech/article/3104512/facial-recognition-data-leaks-rampant-across-china-covid-19-pushes"
+    ampWebUrl: "https://amp.scmp.com/abacus/tech/article/3104512/facial-recognition-data-leaks-rampant-across-china-covid-19-pushes"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/abacus/tech/article/3104512/facial-recognition-data-leaks-rampant-across-china-covid-19-pushes"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 74
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/10/08/2e658938-077f-11eb-afc8-92e0da0ef1c3_image_hires_105537.jpg?itok=FA7tyBxR&v=1602125752"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "RzXN7W1v/mjC+V/VJiUwPbD817609Wuuj/plwO4IttzKYnejmBmmUG3xwa8oP7w0kX0DP6LobDwvK7vjEXL+xDOm7//RCWrZGYCM7SGBA6P/1EIB208K/oI2+4z4ziyqqZiwt7pyv9Myw2l6osACWeg9HpIJqXVg7Auz66ygGBblYDJs38IWgUEtFWluZ2LaZzXu9WkPnDcMK5JSjmlMn0jB4C7PRxOkNZrm7VRBSup3WEXL058kv1qPPRuhg3NYD4hdjORh/2uf5PP5OZ+9nNY9v/lCYs/j0myD+XPr6gKz+3bNuOWRTu3AYDS4F04ETOgbmjTpCIYEpx/1S/yFsulqFtzDLLx6/BGTucMyeok=;AHKiaI/4Ji6Ei0M2zYBdsw=="
 ---

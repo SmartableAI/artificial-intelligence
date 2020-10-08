@@ -2,6 +2,108 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-07-researchers-probe-into-rna-using-deep-learning-to-develop-sensors-for-a-covid-19-diagnostic.md",
+      "title": "Researchers probe into RNA using deep learning to develop sensors for a COVID-19 diagnostic",
+      "excerpt": "Two teams at the Wyss Institute have demonstrated the use of NLP and CV techniques to optimize RNA sequences to develop improved sensors for the SARS-CoV-2 genome that is responsible for COVID-19.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/researchers-probe-into-rna-using-deep-learning-to-develop-sensors-for-a-covid-19-diagnostic",
+      "originalUrl": "https://www.neowin.net/news/researchers-probe-into-rna-using-deep-learning-to-develop-sensors-for-a-covid-19-diagnostic",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/10/1602006122_ribocomputing_story.jpg",
+          "width": 760,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/researchers-probe-into-rna-using-deep-learning-to-develop-sensors-for-a-covid-19-diagnostic/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/researchers-probe-into-rna-using-deep-learning-to-develop-sensors-for-a-covid-19-diagnostic/",
+      "publishedDateTime": "2020-10-07T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-study-shows-people-prefer-robot-over-their-boss-6-ways-to-be-a-leader-people-prefer.md",
+      "title": "Study Shows People Prefer Robot Over Their Boss: 6 Ways To Be A Leader People Prefer",
+      "excerpt": "These are stressful times—among the most stressful in history—and people need help. Often, they turn to their employers and specifically their leaders. But they don’t always get what they need. A new global study reports people actually prefer robots to humans for help with mental health issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tracybrower/2020/10/07/study-shows-people-prefer-robot-over-their-boss-6-ways-to-be-a-leader-people-prefer/",
+      "originalUrl": "https://www.forbes.com/sites/tracybrower/2020/10/07/study-shows-people-prefer-robot-over-their-boss-6-ways-to-be-a-leader-people-prefer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7d1aa51a223b41447ae3d1%2F0x0.jpg",
+          "width": 1200,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tracybrower/2020/10/07/study-shows-people-prefer-robot-over-their-boss-6-ways-to-be-a-leader-people-prefer/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tracybrower/2020/10/07/study-shows-people-prefer-robot-over-their-boss-6-ways-to-be-a-leader-people-prefer/amp/",
+      "publishedDateTime": "2020-10-06T23:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-smartphone-tracking-data-and-artificial-intelligence-turn-peoples-movements-into-detailed-insights-and-profits.md",
       "title": "Smartphone Tracking Data And Artificial Intelligence Turn People’s Movements Into Detailed Insights And Profits",
       "excerpt": "Cosmose AI, a company that uses machine learning to predict who will go shopping as well as when and where, plus measures the effectiveness of online ads to online and in-person store visits, expanded during the pandemic.",
@@ -154,7 +256,7 @@
       "originalUrl": "https://www.wsj.com/video/events/deepmind-demis-hassabis-on-ai-doing-better/B1E79F73-609F-4979-8318-D239B3F4BF35.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -350,7 +452,7 @@
       "originalUrl": "https://www.forbes.com/sites/lianeyvkoff/2020/10/06/this-startup-has-a-plan-to-build-the-missing-link-for-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1132,109 +1234,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-collaborating-with-ai-to-create-bach-like-compositions-in-aws-deepcomposer.md",
-      "title": "Collaborating with AI to create Bach-like compositions in AWS DeepComposer",
-      "excerpt": "AWS DeepComposer provides a creative and hands-on experience for learning generative AI and machine learning (ML). We recently launched the Edit melody feature, which allows you to add, remove, or edit specific notes, giving you full control of the pitch, length, and timing for each note. In this post,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/collaborating-with-ai-to-create-bach-like-compositions-in-aws-deepcomposer/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/collaborating-with-ai-to-create-bach-like-compositions-in-aws-deepcomposer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/02/3-.jpg",
-          "width": 900,
-          "height": 546,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-05T15:27:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-evaluating-an-automatic-speech-recognition-service.md",
-      "title": "Evaluating an automatic speech recognition service",
-      "excerpt": "Over the past few years, many automatic speech recognition (ASR) services have entered the market, offering a variety of different features. When deciding whether to use a service, you may want to evaluate its performance and compare it to another service. This evaluation process often analyzes a service",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/evaluating-an-automatic-speech-recognition-service/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/evaluating-an-automatic-speech-recognition-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-05T12:06:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

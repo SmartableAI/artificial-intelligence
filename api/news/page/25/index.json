@@ -2,6 +2,90 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-09-15-snapdeal-deploys-robots-in-its-delivery-fleet.md",
+      "title": "Snapdeal Deploys Robots In Its Delivery Fleet",
+      "excerpt": "Ottonomy IO has developed delivery robots for autonomous last-mile and local deliveries which can actually run along sidewalks and local streets autonomously.",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/snapdeal-partners-with-ottonomy-io-for-contactless-delivery-via-robots/",
+      "originalUrl": "https://inc42.com/buzz/snapdeal-partners-with-ottonomy-io-for-contactless-delivery-via-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inc42.com/wp-content/uploads/2020/09/31-1.jpg",
+          "width": 1360,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/snapdeal-partners-with-ottonomy-io-for-contactless-delivery-via-robots/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/snapdeal-partners-with-ottonomy-io-for-contactless-delivery-via-robots/amp/",
+      "publishedDateTime": "2020-09-15T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-researchers-say-artificial-intelligence-and-machine-learning-could-enhance-scientific-peer-review.md",
+      "title": "Researchers say artificial intelligence and machine learning could enhance scientific peer review",
+      "excerpt": "As the COVID-19 pandemic has swept the world, researchers have published hundreds of papers each week reporting their findings—many of which have not undergone a thorough peer review process to gauge their reliability.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2020-09-artificial-intelligence-machine-scientific-peer.html",
+      "originalUrl": "https://medicalxpress.com/news/2020-09-artificial-intelligence-machine-scientific-peer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/aimingforacc.jpg",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-09-artificial-intelligence-machine-scientific-peer.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-09-artificial-intelligence-machine-scientific-peer.amp",
+      "publishedDateTime": "2020-09-15T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-nvidia-arm-deal-revs-up-chip-industry-4-stocks-in-focus.md",
       "title": "NVIDIA-Arm Deal Revs Up Chip Industry: 4 Stocks in Focus",
       "excerpt": "NVIDIA is now well poised to upscale its inference technology, robust drivers, and accelerators by utilizing Arm’s robust architecture and chip designs. Arm acquisition is expected to aid NVIDIA in offering end-to-end ecosystem of technology across the data center,",
@@ -1061,90 +1145,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-4-interesting-things-nvidia-just-shared-about-its-plans-for-arm.md",
-      "title": "4 Interesting Things Nvidia Just Shared About its Plans for ARM",
-      "excerpt": "1. Bringing Nvidia’s GPU and AI IP to ARM-Powered Chips Is a Top Priority On multiple occasions, Huang emphasized that Nvidia sees a large opportunity to license its GPU, AI co-processor and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/investing/4-key-things-nvidia-just-shared-about-its-plans-for-arm",
-      "originalUrl": "https://www.thestreet.com/investing/4-key-things-nvidia-just-shared-about-its-plans-for-arm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.jwplatform.com/thumbs/Y8KEr7xO-720.jpg",
-          "width": 720,
-          "height": 406,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/investing/4-key-things-nvidia-just-shared-about-its-plans-for-arm",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/4-key-things-nvidia-just-shared-about-its-plans-for-arm",
-      "publishedDateTime": "2020-09-14T14:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars.md",
-      "title": "Researchers claim to develop concept to ensure ‘legal safety’ of driverless cars",
-      "excerpt": "The algorithm attempts to verify that a driverless car will maintain ... Professor Noel Sharkey, emeritus professor of artificial intelligence and robotics at the University of Sheffield ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kentonline.co.uk/news/national/researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars-12060/",
-      "originalUrl": "https://www.kentonline.co.uk/news/national/researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars-12060/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kentonline.co.uk/_media/img/WR1PZL59B7EQJJXED9N1.jpg",
-          "width": 1620,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.kentonline.co.uk/news/national/amp/researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars-12060/",
-      "cdnAmpWebUrl": "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/news/national/amp/researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars-12060/",
-      "publishedDateTime": "2020-09-14T13:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kent Online",
-        "domain": "kentonline.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

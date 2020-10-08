@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 482
         isCached: true
-  - title: "10 self-driving startups poised to become the next Waymo, according to VCs"
-    excerpt: "Aurora, TuSimple, and Gatik are among the autonomous-vehicle startups venture capitalists are most excited about."
-    publishedDateTime: 2020-10-03T10:54:00Z
-    webUrl: "https://www.businessinsider.com/self-driving-car-startups-next-waymo-2020-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://i.insider.com/5f775bf70ab50d00184addff?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Elon Musk says Tesla’s Full Self-Driving suite is coming to Japan"
     excerpt: "Driving suite is among the most sophisticated and advanced driver assistance systems in the world. As self-driving and semi-autonomous software is relatively new, many features have yet to be approved in markets outside of the United States."
     publishedDateTime: 2020-10-06T23:29:00Z
