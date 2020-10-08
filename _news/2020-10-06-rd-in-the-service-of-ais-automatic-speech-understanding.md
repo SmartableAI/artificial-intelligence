@@ -44,7 +44,7 @@ related:
   - title: "From AI to facial recognition: how China is setting the rules in new tech"
     excerpt: "In its bid to rival the US, Beijing wants to establish the industrial standards that will shape future industries"
     publishedDateTime: 2020-10-07T04:00:00Z
-    webUrl: "https://www.ft.com/content/188d86df-6e82-47eb-a134-2e1e45c777b6?shareType=nongift"
+    webUrl: "https://www.ft.com/content/188d86df-6e82-47eb-a134-2e1e45c777b6"
     type: article
     provider:
       name: The Financial Times

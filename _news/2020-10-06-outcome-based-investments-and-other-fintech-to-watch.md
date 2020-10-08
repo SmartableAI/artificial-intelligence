@@ -24,22 +24,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "CIG Capital's Charles D. Carey on the lending-based revolution of project finance || FinTech Magazine"
-    excerpt: "The financial services landscape is changing rapidly, and, in these turbulent times, investment companies can be inclined to focus solely"
-    publishedDateTime: 2020-10-07T11:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/cig-capitals-charles-d-carey-on-the-lending-based-revolution-of-project-finance--fintech-magazine-301146927.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-
 secured: "RQ3F8DovMALJs/yrAO6RT/eM6FgtZSBJNBgnD9NXy4sXeQ5KV/ELDApTAUr02FsuLu9816CQeLGykMJu4NLwpfMfx05au2UzHr+BwYDJqbB6rbytKjWasxbno8cmJeAq++Vtd3IaUKmv0VQ8cEQqk852QQy3tV5SokYD9mALl5aSloq8zn69bdmTTrPTg7BGUt07StisWfVTcrBbkPrAQYnGOl0qd/af785TN9hgrBMFL/SzJWdbyHMQ3CexAAG7Krfm9GJK1zbwy74iY46LG59PHdENN5nXWoUHHi56JZhq610LTSyagtA6wleZ6Xz4v4j3X5KMXOA9aLPZGiSWEgewCSegtsAZpIyckKm5W+A=;hrdQC7AfuXWlpTu8YRbOaw=="
 ---
 

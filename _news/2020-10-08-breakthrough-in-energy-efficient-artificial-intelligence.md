@@ -7,7 +7,7 @@ originalUrl: "https://www.cwi.nl/news/2020/scientific-breakthrough-in-energy-eff
 webUrl: "https://www.cwi.nl/news/2020/scientific-breakthrough-in-energy-efficient-ai"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "CWI and Holst make a breakthrough in energy-efficient AI"
+    excerpt: "This makes it possible to put much more elaborate AI in chips, enabling applications to run on a smartphone or smartwatch where before this was done in the cloud. Because a network connection is no longer necessary,"
+    publishedDateTime: 2020-10-08T15:32:00Z
+    webUrl: "https://bits-chips.nl/artikel/cwi-and-holst-make-a-breakthrough-in-energy-efficient-ai/"
+    type: article
+    provider:
+      name: Bits&Chips
+      domain: bits-chips.nl
+    quality: 39
+    images:
+      - url: "https://bits-chips.nl/wp-content/uploads/2020/10/CWI-Sander-Bohte.jpg"
+        width: 300
+        height: 450
+        isCached: true
 
 secured: "8liar6Jf43REtorZshZiRrHQPbiJnyGTx0vpTKelx98M5aQS0BuSKt6Ekms5jQHwMKEB6TzrLhRzTUhc4+9UQ6DDK1gQqfaH8BK5+2x8zv9zoKsSru55JstY8ly2cnr/LXZ9CdhGf7CcFFYiKGrr/H+mzPRdyKPex5AOYKXwBknoLO0nkOpInBXiVRVeXBiLGet96WjbE4K2KUcFyu7vnzvmpDtIMLzT5lsWCGnubhCPPlYV8xs24HS2cansLgZEP2unNnyaAlDfSYSa6bKjkiytsm7fiV/aCeKDCfYWT5qru34Y0tWoVQ9SiYjPtQ+upK7Sl9Tv+VP6RrvCbdrzZkqOWQAkKa5S9TkL2bEnPi0=;3XRAvq+WOBY6YcvluPCfxg=="
 ---

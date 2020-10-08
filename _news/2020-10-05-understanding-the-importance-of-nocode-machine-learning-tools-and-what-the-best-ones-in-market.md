@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Impact of AI on Surgery"
+    excerpt: "AI-enabled remote surgery can help overcome the global shortage of doctors, and it can improve training, raise standards, and drive innovation within the medical profession."
+    publishedDateTime: 2020-10-08T15:06:00Z
+    webUrl: "https://www.forbes.com/sites/calumchace/2020/10/08/the-impact-of-ai-on-surgery/"
+    ampWebUrl: "https://www.forbes.com/sites/calumchace/2020/10/08/the-impact-of-ai-on-surgery/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2020/10/08/the-impact-of-ai-on-surgery/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7f278b79657261d13693d3%2F0x0.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "0qfLhAIOkhVOlClfO9GfgZn1fBOmLo25u0ZE1T9dZsJMBe77f0L6pgFqGthKeFpHp35WChHNsldkPHbsBAbpMQPaBPBe4cnPd0C/fkgt1N6DSBSFIDwjOoDSAYmIjxo4sIqscZMcs1xw92mQcZV+8/hRCCdhBRDoDpjh2PR4w/20Hjf027yETvRGlPZkV0IUz9gSQ7feY70sdeBm1KpXQk9U116XyRTXr2sEhoC/vKXAqdXeKCBKgpM/a/bZSJroNMTN6HQbC73RBffLXgpafcXgX6zqzA1AuO+W4Jm8nJlgdv4uE+7j3d5FTUpsEH6UFzN+URrAyjuAX3BRZkvCwpic48CLgpxE5UAOcxZYcRQ=;0K7M0R0SzQ7SmIt4h3XwUw=="
 ---
