@@ -3,12 +3,12 @@ category: news
 title: "Avaya to integrate Nvidia's Maxine cloud streaming video AI into Avaya Spaces"
 excerpt: "For Avaya, the partnership with Nvidia will enable it to add more visual and virtual experiences to its collaboration platform."
 publishedDateTime: 2020-10-05T13:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/avaya-to-integrate-nvidias-maxine-cloud-streaming-video-ai-into-avaya-spaces/"
-webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/avaya-to-integrate-nvidias-maxine-cloud-streaming-video-ai-into-avaya-spaces/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/avaya-to-integrate-nvidias-maxine-cloud-streaming-video-ai-into-avaya-spaces/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/avaya-to-integrate-nvidias-maxine-cloud-streaming-video-ai-into-avaya-spaces/"
+originalUrl: "https://www.zdnet.com/article/avaya-to-integrate-nvidias-maxine-cloud-streaming-video-ai-into-avaya-spaces/"
+webUrl: "https://www.zdnet.com/article/avaya-to-integrate-nvidias-maxine-cloud-streaming-video-ai-into-avaya-spaces/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/avaya-to-integrate-nvidias-maxine-cloud-streaming-video-ai-into-avaya-spaces/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/avaya-to-integrate-nvidias-maxine-cloud-streaming-video-ai-into-avaya-spaces/"
 type: article
-quality: 64
+quality: 84
 heat: -1
 published: false
 
@@ -22,6 +22,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/08/11/aba79b5a-a9c8-4698-8d8b-8dd70e29bf21/thumbnail/1200x675/ed7c4de69d6167032d33a11221c7bf7e/thumb.jpg"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "GTC 2020 round-up: Nvidia announces virtual world for robots, AI video calls"
@@ -203,6 +209,6 @@ related:
       domain: seekingalpha.com
     quality: 15
 
-secured: "UEiEUeR4d82kZKnnYAhToAPxacIVEkMOikxSg8f+95XQhXZZ3RHXd7+adyAQr0DH3FaXwmryHkf6YAIHaLrHTLhhsNuEuRuibNTM2VEJ675fceWLVd046HFmrAhFpDgdkYC7UK28BHlsUheiH8SwrTXTDGbC3rpzg1b8qJNKo0Gj77bq9TCKM2U5Kym1a+bk2+GrHr4jgwV4/k3QYFUhcJNywIEc1+b7OPtMEbX+RGRvYtt3Bzr8rZ2aHVQCXx57cihu/Gi5SKCn4Y49N30a+zHgtlKLXdfF6x46g/UJkkLJFquLVRwKLeAyxMKKmxlQIJJp+5bUsxK00Y20+PH/2kP/mrvU5eXahIqferCoQfORAtEfFF8cvm62/1iyzk1ihhmUiqnMyhbKwI9YFP2H+gTnvyKDQ3TaGkz5nKACiOGWYw7+I900m1D875JB/yRdBGnp3aAwM1wC+FotQX7dM8xamY5kpYKA3wb80i1i+Pk0V3T0DPJ52lJPlGs1xYukNXz9vtVUz6Z7iA59WojCvg==;b0+QBovorpVjYBMA1d2xYw=="
+secured: "JrwHzhb+C/cHQUBYcJTnYa00m19wwBpTnnjoqX6HLgv9J1qzkujaqKb3JIVDE4TWFnwIlFS2QRAUpiHDjRWAvEyzmPUOs5N5VIUAPNZ8nS+remwKDotTPIYGkurGN6KYQkhgOxt8kt19mWByZ+n5QahjRBznqwUba5BfVUxuNyxFaz2z5VHXI13PmDxw/guGv9kudmvJzHX7HzrIMdmJ4vJSp1qoccjKfuVhzwtMR6YYJ1IjmRqZ9g4pMJ7ScGtu3LbbVRsIZopuUuD2VXZNIjOqjurp1AZ2BKOsbeiSNsonKYnMlaJsyGrieDbCTsAyznrwmwwjgpi7N0Fw7F3S5SMHNlhXc1v597XnC5KTVj0=;eUbIPUnBJou2KWSN7gaDTQ=="
 ---
 

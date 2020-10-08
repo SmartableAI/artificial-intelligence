@@ -102,6 +102,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
+  - title: "Nvidia claims its Jetson Nano is the ‘ultimate AI and robotics starter kit’"
+    excerpt: "Chipmaking giant Nvidia has expanded its Jetson AI at the Edge platform with an entry-level developer kit priced at $59, opening the potential of AI and robotics to a new generation of students,"
+    publishedDateTime: 2020-10-08T07:44:00Z
+    webUrl: "https://roboticsandautomationnews.com/2020/10/08/nvidia-claims-its-jetson-nano-is-the-ultimate-ai-and-robotics-starter-kit\u2028/37101/"
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 67
+    images:
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/10/nvidia-Jetson-Nano-2GB.jpg"
+        width: 750
+        height: 750
+        isCached: true
   - title: "How Nvidia Is Fighting Disease With AI"
     excerpt: "Nvidia Corp. (NASDAQ: NVDA) shares jumped on Monday amid a flurry of updates from the semiconductor firm. Perhaps one of the most exciting updates was that Nvidia said it will be partnering with GlaxoSmithKline PLC (NYSE: GSK) to apply its artificial intelligence (AI) and supercomputers for the drug and vaccine discovery process."
     publishedDateTime: 2020-10-05T15:12:00Z

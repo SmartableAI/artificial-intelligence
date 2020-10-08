@@ -3,8 +3,8 @@ category: news
 title: "From AI to facial recognition: how China is setting the rules in new tech"
 excerpt: "In its bid to rival the US, Beijing wants to establish the industrial standards that will shape future industries"
 publishedDateTime: 2020-10-07T04:00:00Z
-originalUrl: "https://www.ft.com/content/188d86df-6e82-47eb-a134-2e1e45c777b6?shareType=nongift"
-webUrl: "https://www.ft.com/content/188d86df-6e82-47eb-a134-2e1e45c777b6?shareType=nongift"
+originalUrl: "https://www.ft.com/content/188d86df-6e82-47eb-a134-2e1e45c777b6"
+webUrl: "https://www.ft.com/content/188d86df-6e82-47eb-a134-2e1e45c777b6"
 type: article
 quality: 53
 heat: -1
@@ -56,6 +56,6 @@ related:
         height: 538
         isCached: true
 
-secured: "mIxvhHKgyfsXMF7gHyKHyqbzjRoJYls5lOiuHpqUSC0PJQSyjg8rQSCSDHafU3UTiucoW7ElU0+1Lw0rZc3nAYLPcisBQCl7a5MORvxqAywVTlin0c4AjSfC2S/j3fttDZDC7wYkaq8S29pD/Fq0orJQY+hVDl3gFCECbV8RFqCD4q0/rg1aTJFdeRfxnuN9JmClf7S3EyzYcAZuPJ4FyanFh0/3uO89oSkBHtlCeJJIPRh4WSAORvZW8Lhvv7JdsIPAza1G5pNF+IAam1MKFbdn5LIQle/jjRFbAiDIgJnJvdW502lTTvYWiCgeS0fVQ35/Yk2Op03Jc2vsjNO1XHRv9GmiBYlj6DyokCwhu74=;JLhTf/Q3xT4y414w133d5Q=="
+secured: "XEsOOVYep4X9x5HMlXqFNyCz+BQMa8SBl2XaK1TXXBNJgRMkyNFOsYhYKzaXCP0hpuQLtQlSXC4xKMe/X7lep/WTEL4FjCmiORWQ2pLzGBiA2276+SMsM6bsp6cKHgBJTeOYAs3sCpX68no3+qlFiA3+cdLhAWbDQSX2u9tTOayWSw2vlIasotFzxw1nQYkrpAHWbzLuFQmIrsyqM13F7BuXhZzJcShizba9X5GJxp3R9H5raY/ARHkRMbclX5FKcauKI4/NEyclPUz+IcEHKa1CceuXLTJ7CkOEV2jgE+LaNOaFHZLsMItzc//uZdT6S3woFrA24B6ACawOCKBrsOTDiNqqPmPChHo8CN+yvrE=;okfsN/ZRDB+H1JMFDqwQpA=="
 ---
 

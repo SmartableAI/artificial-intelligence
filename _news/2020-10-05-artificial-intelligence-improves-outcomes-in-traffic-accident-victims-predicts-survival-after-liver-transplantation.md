@@ -43,20 +43,6 @@ related:
         width: 2880
         height: 1511
         isCached: true
-  - title: "New artificial intelligence models show potential for predicting outcomes"
-    excerpt: "New applications of artificial intelligence (AI) in health care settings have shown early success in improving survival and outcomes in traffic accident victims transported by ambulance and in predicting survival after liver transplantation."
-    publishedDateTime: 2020-10-03T14:05:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-10/acos-nai100120.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 38
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/244737_web.jpg"
-        width: 1440
-        height: 756
-        isCached: true
 
 secured: "kUjOStaV5SMXfn6lQLVZwYNTNdb7yOn5tuqdobsdHO01r2XM02L9Xtk0/46QfGJsKgF68r9UWc2hdZKEqFARVIxqT5OeCZ7KKmPE941H8IFNiZ9jwTaAFvrGuoFOXM0oiHdYhMswlqL/4iJnbU8HebqhBqOYrO7miQ6B7Rp7eeGXhL30EOcFLOr1kgv08TGAj6OR6vVob8GO38lKqJNQRIcW8krDoqS7T7u68hvFsJwRXJuJ7HfchPWJeNyW2ySVsEEOxwgTwaxSSSa9AxwyclPQ/IsD/Il78Xh1rpBqgrO2sWMOUGXT4qtxtwEFue4uwIJWE4d9qtmozEVavnht6wxZPdwyQyhyKtxfo2F5nzQ=;ittHTG4Os3edBKqrwSrI1g=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.thenational.ae/business/technology/how-ai-can-help-emplo
 cdnAmpWebUrl: "https://amp-thenational-ae.cdn.ampproject.org/c/s/amp.thenational.ae/business/technology/how-ai-can-help-employees-improve-mental-health-and-wellbeing-1.1089943"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The National Blogs
@@ -40,6 +40,20 @@ related:
       - url: "https://www.mcgilltribune.com/wp-content/uploads/2020/04/favourite-memory-799x460.png"
         width: 799
         height: 460
+        isCached: true
+  - title: "How AI Can Help Employees Deal with Stress and Enhance Mental Health"
+    excerpt: "The terms “AI” or “bot” often conjure thoughts of cold, impersonal technology, basically the opposite of what is human. But more often than you might think, properly applied AI can help employees open up about some of their most private concerns,"
+    publishedDateTime: 2020-10-07T00:00:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-ai-can-help-employees-deal-stress-enhance-mental-health-emily-he/?trackingId=I0ludMBETeu%2B6KiWgyfcKA%3D%3D"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGZYJnyNQH1Ww/article-cover_image-shrink_600_2000/0?e=1607558400&v=beta&t=Sx6Zci2mwA86KrFq2i9TSfdGI_ZVk4fsksBvQO55nu0"
+        width: 700
+        height: 315
         isCached: true
 
 secured: "/t3gP0BX74pVkIl9aVEWXUiUogx///lGd6hkyTJNVNWSyLuQWk7gshKedz03m4cZ6Zjt2TtvFLogDIs297NDhPCDLRfeezkTD4JHje2wjVWWFTvqT9KPhPp2uAytVLOgcPwM6JxQRuQudy0OxRHEHvh5nDONR6vjw+V15sG49awuRzm9ScX1Nd+WNTypZBN3VUJy7xPQJxGyUyhXO0EWT1jk3uVwab42UzIAwXUtJKo6uDQeNAXUlb0xnDuiPPu701OGMaz+AMjDxLI+SFTH1k1UeuwjkFQfIRtIZElT2KL7yebbt2BOdYEPrWQ3WFuLfM3V0rDIrtfdV2owi0vd2x8gPzlB1zXSl5y/tV7rYja8pOES7YymH1z2BetW0FGy/W4kweOsEtWuMwk61tMd9ntVq5V+lOmvUC6ypXf0KBg0FfUagznHclYqOYsY0RKWmMixVvOVnggkAdyCmsPmXIZ7zZHKU7yjI/dqwAIkIz6/pSvMcInAKqg0Ex6gJ0CsUbBy89if3gSLF1t3u9/9xg==;DTxQ6p/6mGT09R8aOKCpXQ=="

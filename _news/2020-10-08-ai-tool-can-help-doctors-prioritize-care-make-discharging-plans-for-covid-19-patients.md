@@ -42,20 +42,6 @@ related:
         width: 760
         height: 506
         isCached: true
-  - title: "Diagnosing COVID From a Person’s Voice"
-    excerpt: "Researchers are exploring ways to use people’s vocalizations to diagnose coronavirus infections, dementia and depression"
-    publishedDateTime: 2020-10-03T14:12:00Z
-    webUrl: "https://www.scientificamerican.com/article/diagnosing-covid-from-a-persons-voice/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 24
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/8C8D39AD-D5B6-4D5E-9EED7869DE114047.jpg"
-        width: 790
-        height: 496
-        isCached: true
 
 secured: "Xtutc9qLXOqGD2HRMBqMq744filxHHwi/a7a1HK9Mt+zTHo8nO+43xY83D2GopaL8xXP6DfTVNhVUmwJFxuy4RGm3NggNp/V3wyPgPhfjEY6z47q12cmgUgQaAlUHh+k466ReLlmSh5wl4xWIM6vaotISPWuscg/IXXxyUygybJdQfk5R/q5E2X28aJuIWGIOkpyYYAvlqN9eMcGiLn/G987rMI17AujwFQ0jwcaCLuBoVxyKC7Q0ONfI2rckKQ+YI3gxpXwnLcOkjacvZ6BcZSTLKKbs3bBLoNckpAx/uNT+RDSCrMjRqgOIuFRbxjWtETerNtuqZRwLGWCrJ/MywnrIHUWVAgol1fX5fliAlO9r8NpayjpB2PZHXByb5uxg/zpIcYiEQ+8Fi8PRdmcw1VfCKgFknEbrPT8kRypulP8wp+CjWmKpZt8rgW7Or5QYtdF9G5jlDRb3vfyyGMlpbnR1b8qzv35qUy58w4+s8v0MZbZ/Me3IoKXnhZLEAQZi5bpSWdQ6402flWncpOVXA==;scZPrADy2VwsynryP/fTUg=="
 ---

@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How AI Can Help Employees Deal with Stress and Enhance Mental Health"
+    excerpt: "The terms “AI” or “bot” often conjure thoughts of cold, impersonal technology, basically the opposite of what is human. But more often than you might think, properly applied AI can help employees open up about some of their most private concerns,"
+    publishedDateTime: 2020-10-07T00:00:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-ai-can-help-employees-deal-stress-enhance-mental-health-emily-he/?trackingId=I0ludMBETeu%2B6KiWgyfcKA%3D%3D"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGZYJnyNQH1Ww/article-cover_image-shrink_600_2000/0?e=1607558400&v=beta&t=Sx6Zci2mwA86KrFq2i9TSfdGI_ZVk4fsksBvQO55nu0"
+        width: 700
+        height: 315
+        isCached: true
 
 secured: "GxC/TccXjZhDZxN3kYswqtrrCMb9O5MHw5nSCEdiyNHXCBr1+IplAf/fYbzqz4kEqnSexxtp+9KfmQB8E3pY8oYNMQ5SS45ws0LzYs7uwPEVGrKSmWLP7wcsDCKlDJfmOqzCdzE2gdof65aBTiEb5Onr5tDYwZOEDuK6ItEAfUTe7/7bCRAJxAKXR3zLTIS0vs7/r4f6X2JLWAsubs90gjHkOz1LNiSm6oxsw6Air06U8+WOVFZYsmxK/1RotyC7PFPePAdGW8IrN1TTeAih6Qiyifkezn68adO30Asu1hJmisj0Gtu3LigaS9UeDLBUIKP/hn4caa0r1EZaRjlGg2aC0DJZ0HYEdjUlACTHDF+gHvyf1nbtRlMVZ9vCMoQvk3aLQMtzDzlPtFkiHNvMzwftFbj3s/YX+0/9+BltGXnvITOe+yio/KzgcILME15JyBveq4cuOy+ZZVR5ZN4iKLvTeAPwZSOiO/hBWc/VBgfLx2hsEsKy9u/ATldXyvnkt9zjEZxhLX3wYT+lDiy++w==;K1F6tSqaTKTs1UkxoB33sA=="
 ---

@@ -1,29 +1,25 @@
 ---
 category: news
 title: "Driverless Tech Is Here with the Gores Metropoulos SPAC"
-excerpt: "Stock Market News, Stock Advice & Trading Tips By now, I’m sure at least some of you are getting quite tired hearing"
-publishedDateTime: 2020-10-07T00:54:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/driverless-tech-here-with-gmhi-stock-1029654461"
-webUrl: "https://markets.businessinsider.com/news/stocks/driverless-tech-here-with-gmhi-stock-1029654461"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/driverless-tech-here-with-gmhi-stock-1029654461"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/driverless-tech-here-with-gmhi-stock-1029654461"
+excerpt: "Nevertheless, Gores Metropoulos (NASDAQ: GMHI) stock has attracted much attention and for good reason. By buying GMHI stock, you’re getting a stake in Luminar Technologies (once the transaction is complete),"
+publishedDateTime: 2020-10-06T19:19:00Z
+originalUrl: "https://www.nasdaq.com/articles/driverless-tech-is-here-with-the-gores-metropoulos-spac-2020-10-06"
+webUrl: "https://www.nasdaq.com/articles/driverless-tech-is-here-with-the-gores-metropoulos-spac-2020-10-06"
+ampWebUrl: "https://www.nasdaq.com/articles/driverless-tech-is-here-with-the-gores-metropoulos-spac-2020-10-06?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/driverless-tech-is-here-with-the-gores-metropoulos-spac-2020-10-06?amp"
 type: article
 quality: 69
 heat: 69
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "ZygsUTjnzsBOS0vIJfzHdrJlMUpq7xupAbbakK6PtgKdlcTxzAdkx5SZOKQQlOiEl2nVSE28VAHAx0QifhBhbywRG8D9G6FXY7HUAe1lPVUc45Hw7OHNdYpIkzErxcNGk7Z7rstgPTKQI20OGfYH+BkZc5/jAxROymlq87lmLmC/VwSIFNoZAVjmqBLxM7hIM3T7B+lpmphDRW1MiJzI1Wf7Jyj47NgwUWy5YscwcGEdGgTlIAwSnHkypTW8LhLlKK0ofkVmkHBqtytq6OnbLzhjs57uk+luxzdGuf8H00RNHdozxruIGrmjm4qc1yP3Lt7p/duTVx7rpe94S4yGMzgfWhmXabur1cwSCba670Y=;OW8nERy6XVUYWpdHc4cMRg=="
+secured: "RA3kUOcf6R51SlO5AXDXES3gG+EAvEEbSNJJO/a4rXC3z2rakjqyCLbTjkk6J/UkrrZD7kV7fwKv2O5/AI5MQDe2UyddZhALqITnU2sQXLKCkCDM6SNPE1l/eFYNozL2GUgo7FMpmxa23pp6vBySrtw7xTRCprgHd7XeRGU0quUOU7umLS6McMFpkcCh3m1+Pl/YqsYOSd82CkznM0GmlauMA3pCH1faOl52BFLPDCZ1fylIe7D44XSxvFV1HTuChC2mL2tx82zClExZ1tmL6sV4eywFqA8fqnl6VklAJz9MDsdSsmexOImradZQL7cL775sSHIfwUk/XGewK9NzjU0Xq1+k4OXLdy6X3lz4Ejc=;55svjYqtL2TSoaqkjaDu9w=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2020-10-artificial-intelligence-poten
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-artificial-intelligence-potential-outcomes.amp"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: Medical Xpress
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "New artificial intelligence models show potential for predicting outcomes"
-    excerpt: "New applications of artificial intelligence (AI) in health care settings have shown early success in improving survival and outcomes in traffic accident victims transported by ambulance and in predicting survival after liver transplantation."
-    publishedDateTime: 2020-10-03T14:05:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-10/acos-nai100120.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 38
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/244737_web.jpg"
-        width: 1440
-        height: 756
-        isCached: true
   - title: "Artificial intelligence improves outcomes in traffic accident victims, predicts survival after liver transplantation"
     excerpt: "New applications of artificial intelligence (AI) in health care settings have shown early success in improving survival and outcomes in traffic accident victims transported by ambulance and in predicting survival after liver transplantation,"
     publishedDateTime: 2020-10-05T04:52:00Z
