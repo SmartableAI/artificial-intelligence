@@ -9,7 +9,7 @@ ampWebUrl: "https://www.oneindia.com/amphtml/india/raise-2020-a-mega-virtual-sum
 cdnAmpWebUrl: "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html"
 type: article
 quality: 74
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -115,20 +115,6 @@ related:
       - url: "https://www.indiablooms.com/news_pic/2020/a1b08b0ac648b9feb4c8b943f64bca38.jpg"
         width: 770
         height: 413
-        isCached: true
-  - title: "PM to inaugurate Global Virtual Summit on Artificial Intelligence"
-    excerpt: "Aiming to drive India's vision for social transformation through responsible AI, the Ministry of Electronics and Information Technology (MeitY) and NITI Aayog are organizing a Global Virtual Summit on Artificial Intelligence (AI),"
-    publishedDateTime: 2020-10-03T11:05:00Z
-    webUrl: "https://knnindia.co.in/news/newsdetails/sectors/pm-to-inaugurate-global-virtual-summit-on-artificial-intelligence"
-    type: article
-    provider:
-      name: knnindia.co.in
-      domain: knnindia.co.in
-    quality: 39
-    images:
-      - url: "https://knnindia.co.in/uploads/newsfiles/PM-Modi-AI-3-10-2020.jpg"
-        width: 500
-        height: 344
         isCached: true
   - title: "PM Modi to inaugurate mega virtual summit on Artificial Intelligence on Oct 5"
     excerpt: "Prime Minister Narendra Modi will inaugurate RAISE 2020, a mega virtual summit on Artificial Intelligence (AI) on October 5."

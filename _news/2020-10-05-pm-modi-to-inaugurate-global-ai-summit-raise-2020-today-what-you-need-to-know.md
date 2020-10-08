@@ -125,20 +125,6 @@ related:
         width: 770
         height: 413
         isCached: true
-  - title: "PM to inaugurate Global Virtual Summit on Artificial Intelligence"
-    excerpt: "Aiming to drive India's vision for social transformation through responsible AI, the Ministry of Electronics and Information Technology (MeitY) and NITI Aayog are organizing a Global Virtual Summit on Artificial Intelligence (AI),"
-    publishedDateTime: 2020-10-03T11:05:00Z
-    webUrl: "https://knnindia.co.in/news/newsdetails/sectors/pm-to-inaugurate-global-virtual-summit-on-artificial-intelligence"
-    type: article
-    provider:
-      name: knnindia.co.in
-      domain: knnindia.co.in
-    quality: 39
-    images:
-      - url: "https://knnindia.co.in/uploads/newsfiles/PM-Modi-AI-3-10-2020.jpg"
-        width: 500
-        height: 344
-        isCached: true
   - title: "PM Modi to inaugurate mega virtual summit on Artificial Intelligence on Oct 5"
     excerpt: "Prime Minister Narendra Modi will inaugurate RAISE 2020, a mega virtual summit on Artificial Intelligence (AI) on October 5."
     publishedDateTime: 2020-10-04T01:31:00Z

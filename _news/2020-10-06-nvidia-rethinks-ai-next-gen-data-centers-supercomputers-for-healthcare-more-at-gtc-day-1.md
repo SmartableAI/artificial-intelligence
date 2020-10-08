@@ -74,22 +74,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Voice AI Redefines The Future Of Patient Interactions"
-    excerpt: "In the past decade, the fundamental structure of healthcare management has changed radically. The industry has become more consumer-driven with a focus on providing personalized patient care. On the other hand,"
-    publishedDateTime: 2020-10-03T11:14:00Z
-    webUrl: "https://inc42.com/buzz/voice-ai-redefines-the-future-of-patient-interactions/"
-    ampWebUrl: "https://inc42.com/buzz/voice-ai-redefines-the-future-of-patient-interactions/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/voice-ai-redefines-the-future-of-patient-interactions/amp/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 59
-    images:
-      - url: "https://inc42.com/wp-content/uploads/2020/10/Untitled-design-2020-10-03T142535.041.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Nvidia Will Help GSK Find New Drugs, With AI and Supercomputers"
     excerpt: "GSK’s head of AI and machine learning said the Nvidia systems will allow his researchers to search for medicines by poring through vast databases of pathology images and genomic signals."
     publishedDateTime: 2020-10-05T12:34:00Z

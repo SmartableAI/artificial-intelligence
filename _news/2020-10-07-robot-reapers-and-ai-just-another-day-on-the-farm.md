@@ -3,10 +3,10 @@ category: news
 title: "Robot reapers and AI: Just another day on the farm"
 excerpt: "Technology is now enabling farmers to manage each section of the farm based on its unique conditions and needs. A good example of this in action is the spraying of herbicides, which had traditionally been done at the same rate across the whole field."
 publishedDateTime: 2020-10-07T12:00:00Z
-originalUrl: "https://www.zdnet.com/article/robot-reapers-and-ai-just-another-day-on-the-farm/"
-webUrl: "https://www.zdnet.com/article/robot-reapers-and-ai-just-another-day-on-the-farm/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/robot-reapers-and-ai-just-another-day-on-the-farm/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robot-reapers-and-ai-just-another-day-on-the-farm/"
+originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/robot-reapers-and-ai-just-another-day-on-the-farm/"
+webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/robot-reapers-and-ai-just-another-day-on-the-farm/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/robot-reapers-and-ai-just-another-day-on-the-farm/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/robot-reapers-and-ai-just-another-day-on-the-farm/"
 type: article
 quality: 84
 heat: 94
@@ -40,6 +40,6 @@ related:
         height: 776
         isCached: true
 
-secured: "xoSFWUc5xo/6QK1TfAVM3meHD/4yN+bgbvj7O0n5PTkP6xyXMx+C52tvgLjR38EiMUqEFQvVzOkRJOmzE4b5Q1DCJkjhi74tBqb4rRNhaQWL+LOmhAtw6qFVOQFRx+G3N0pxzaUk+j8XFh0CJDYW/3xSJjU2J9KEauyFy+6IMgKh8HxY9YrTLPnNnAnjANQLz0cq5S1ZT6LDe3B1cPkKWIIMNDZ5B5gm5ozKul57Kb5ncpG7Fjm2RRbnRzJjXJhBZBOH262dP1QI7S/nJ3pxgBXNFWwPOrylowuhNRhlCw4pSqto0fv9wSYL5Aos48t/CTf3bB1tdrqYKlwnEed3I8l5ilGa2F51PdK13fLs4Kn521PPrKYvuOWQ3A1cVrIsTjswS5031RKlQHfEUMuwzMdhJkPMLSkz1annF1sP9SAnAxH0ZU8L2TK3S1xfoeqwnkkub3BLyuC1ptIUnsUZt6V5K89QmEUyk473yvzBWF8ze6vfhELtHEccEV9/V0A9HJJlzlRu8t6Q7MT/8Su3uA==;5zz2spAyVFxud2peXyo3yw=="
+secured: "lgEJ45BC/ggX/pvnfUYo9fCyjfbUFXVPovEHFvE2Oxv8r860jsc0JycKfYav8Q2DjgvFP4x/auaU0/9irupUo7HPelK9rSKgbB7n0pDfWCIqPOXj0da8Dpo+/Iy9GDODo9i+mx1yyrg8g13zWB1ELusKIAOk0ut1L1Rq65xFRvIYelAt5y4KHp2PoXrvYA2F++O5KPCTd6B7ipzrp3PhPUNQWLrmAgXHWy6p2SzxwK8hzJui+KVHQ0EKyc2N8wYXaYt8aX6L/3BHhCNcEVPzXLrBY5ZhqH03ypPRhdnecMvXfVXw7mCE6dJ7DttJVL5aDTibhXPmujzjTquoxCWRswVaZSeR/oyca/BSDX06DMlkydPcptnbddXKB7I+lS/l+qb1S4XiMbjLr1CGmUUmtB/pz8e6fN+V0LFnDOoqLJrGIZGEsxDCCoXKMd9/Rcp+5TM4algE9jGRj0gdSGvwRnXVBPENv5hT7BaI2/9KonOsM0Y01bK3n/OQDQSECB4IETNv+GhqTd3zTGn/EGZNhQ==;j3RSSp9AYyl3EypI56ng7Q=="
 ---
 

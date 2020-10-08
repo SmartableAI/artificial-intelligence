@@ -40,22 +40,6 @@ related:
         width: 2400
         height: 1350
         isCached: true
-  - title: "Fintech Harvest to Offer AI and Machine Learning enhanced Financial Wellness Reports"
-    excerpt: "US-based Fintech firm Harvest is reportedly planning to transform the existing credit scoring systems. Like many other Fintechs, Harvest will be using artificial intelligence (AI) and machine learning (ML) algorithms to offer clients a dynamic view of ..."
-    publishedDateTime: 2020-10-03T11:46:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/10/167534-fintech-harvest-to-offer-ai-and-machine-learning-enhanced-financial-wellness-reports/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/10/167534-fintech-harvest-to-offer-ai-and-machine-learning-enhanced-financial-wellness-reports/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/167534-fintech-harvest-to-offer-ai-and-machine-learning-enhanced-financial-wellness-reports/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 69
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/09/Harvest-Mow-Farm-600x450.jpeg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "ZHXWqqjXncoN4nzZ6xJDOZkDGO8S+I5Crv415lXinD3jtitzFET+vJCsn+JBSwdw2kHLdcVmeyEnQTEakNKRyrdlQ9WTa/f3IcJA605nQfVXgoRUKmz91yHXQobZ1KeFO0f5Q0aCbMgWfo/lRR+C3bsqt0SzMUmKEW2xoGUZMcHlr+3O/dvt5n2dCIMqpCLeVpT8+0LIuVsnMJ/B+jNBCk62sJbtRvCghBhIEM1o5hrOohudThZMbihqsHOZUmJnClyL9hC6llcgQwAC6b9ozVuH1Vd2cFIiWumtNDlkVxtBlJc5uubI/QNUeyaM3ToUADMohDcDDS6pwR8rcds78Y3L587K+PL5Iaf6e45wBYcxgzlVV5TrzSCoa/ag0c4KxywEyLcoZCSaL6sgUby9wJBNFz6AIyJEgMS6dJa8oNfK7jgSIChnwVjBiLiGrL3RwxM6mGXso6y3PTNyMzUDF2iZ+rWXJByRZmhoWfTlF/a1+ALAewS3yLgVeBfZRYjghjfGqrIjbSymf4tZdfo56A==;rLF867FL1dR5Uq6iCt3Wfg=="
 ---

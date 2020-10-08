@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Bolstering Robotics Enterprise Potential using AI Applications"
-    excerpt: "Robots perform tasks like recognizing and grasping objects, automating its navigation and understanding human language with the unveiling of Artificial Intelligence (AI) applications in its system."
-    publishedDateTime: 2020-10-03T11:36:00Z
-    webUrl: "https://www.analyticsinsight.net/bolstering-robotics-enterprise-potential-using-ai-applications/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 69
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Robotics.jpeg"
-        width: 2560
-        height: 1539
-        isCached: true
   - title: "New artificial intelligence models show potential for predicting outcomes"
     excerpt: "New applications of artificial intelligence (AI) in health care settings have shown early success in improving survival and outcomes in traffic accident victims transported by ambulance and in predicting survival after liver transplantation,"
     publishedDateTime: 2020-10-04T11:35:00Z
@@ -55,63 +41,21 @@ related:
         width: 2880
         height: 1511
         isCached: true
-  - title: "Applying artificial intelligence to science education"
-    excerpt: "A new review published in the Journal of Research in Science Teaching highlights the potential of machine learning—a subset of artificial intelligence—in science education. Although the authors initiated their review before the COVID-19 outbreak,"
-    publishedDateTime: 2020-10-07T18:42:00Z
-    webUrl: "https://phys.org/news/2020-10-artificial-intelligence-science.html"
-    ampWebUrl: "https://phys.org/news/2020-10-artificial-intelligence-science.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-artificial-intelligence-science.amp"
+  - title: "Artificial intelligence improves outcomes in traffic accident victims, predicts survival after liver transplantation"
+    excerpt: "New applications of artificial intelligence (AI) in health care settings have shown early success in improving survival and outcomes in traffic accident victims transported by ambulance and in predicting survival after liver transplantation,"
+    publishedDateTime: 2020-10-05T04:52:00Z
+    webUrl: "https://www.news-medical.net/news/20201005/Artificial-intelligence-improves-outcomes-in-traffic-accident-victims-predicts-survival-after-liver-transplantation.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20201005/Artificial-intelligence-improves-outcomes-in-traffic-accident-victims-predicts-survival-after-liver-transplantation.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201005/Artificial-intelligence-improves-outcomes-in-traffic-accident-victims-predicts-survival-after-liver-transplantation.aspx"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
+      name: News Medical
+      domain: news-medical.net
+    quality: 36
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/science.jpg"
-        width: 1920
-        height: 1264
-        isCached: true
-  - title: "AI IN BANKING: How forward-looking banks are using maturing AI solutions to design both customer- and employee-facing innovations"
-    excerpt: "This report identifies AI use cases transforming the way FIs operate, the business impact of those use cases, and real-world examples of each."
-    publishedDateTime: 2020-10-06T18:48:00Z
-    webUrl: "https://www.businessinsider.com/ai-in-banking-report-2020"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
-    images:
-      - url: "https://i.insider.com/5e616b4dfee23d6e9e10f232?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "New intelligent revolution series explores cutting-edge applications in AI"
-    excerpt: "The Next Wave in Life Sciences', the first eBook from The Intelligent Revolution series. In the new eBook, experts from the company and the life science industry explore cutting-edge applications for AI in areas including flu prevention,"
-    publishedDateTime: 2020-10-05T10:46:00Z
-    webUrl: "https://www.electropages.com/2020/10/new-intelligent-revolution-series-explores-cutting-edge-applications-ai"
-    type: article
-    provider:
-      name: Electropages
-      domain: electropages.com
-    quality: 37
-    images:
-      - url: "https://www.electropages.com/storage/app/media//company-logos/company-logo-Mouser@2x.jpg"
-        width: 600
-        height: 600
-        isCached: true
-  - title: "Applying artificial intelligence to science education"
-    excerpt: "A new review published in the Journal of Research in Science Teaching highlights the potential of machine learning--a subset of artificial intelligence--in science education."
-    publishedDateTime: 2020-10-07T04:06:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-10/w-aai100520.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
 
 secured: "wIBJi+sFlILkdWNhHhmLOg0FvfZfI0I+oIygEoGmYyaFOWL5dOU87i6ya2zoJ45l4PgdvWcnJWuTTY8QR8mfwWrA4vivS68TEtPsujJYFhui/FUVNXmFqziM8zw2lniUg8nmF6fatTJALaMBpgMqdr+Ze6JBEa9f+2yYWHkKBrUX2ZPjyGKd9Bf87BDmiDkUAL8JSMmBwChbklkHFf60q4f33O48fRV4BRemGjEoKhoIpimOLZF2ugHb++Ba6CZf6dHY4+2A0YwtufKaaypZs1p25Y4VtjURb21E42pjdSubJXpuxCONcREpC3sgYPVCH/XxBmO43dFmiRD1lbxJ9k7QOqZmF4f0Hbzom70ODOfBPlm//WHfIutbU6IUYKZLgPhaw5Uq+YXeBi7rq4tLzFaQRyLeH4B9G4UQ3dbhDxLU29ffz2PzFrWKVTJoeN7hNzDA30NSpwbMtcG7Yczp4Rlt3KNgJkTSLhg7fdF1kB3w6kn5odULFC5Yzv5hA5X7quJ+MyUEuoCtVQVXUWOo1Q==;B4u8bjm77iszkfCwyv1r9A=="
