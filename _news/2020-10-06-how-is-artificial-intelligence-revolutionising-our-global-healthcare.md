@@ -9,7 +9,7 @@ ampWebUrl: "https://theislandnow.com/blog-112/how-is-artificial-intelligence-rev
 cdnAmpWebUrl: "https://theislandnow-com.cdn.ampproject.org/c/s/theislandnow.com/blog-112/how-is-artificial-intelligence-revolutionising-our-global-healthcare/amp/"
 type: article
 quality: 78
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://cdn.ttgtmedia.com/visuals/German/article/natural-language-processing-translation-3-adobe.png"
         width: 1200
         height: 400
+        isCached: true
+  - title: "AI is revolutionising video codecs. Here's an impressive demonstration how"
+    excerpt: "NVIDIA has released a demo of how it is using AI to revolutionise video conferencing. This is the future of video codecs."
+    publishedDateTime: 2020-10-09T14:07:00Z
+    webUrl: "https://www.redsharknews.com/ai-is-revolutionising-video-codecs.-heres-an-impressive-demonstration-how"
+    ampWebUrl: "https://www.redsharknews.com/ai-is-revolutionising-video-codecs.-heres-an-impressive-demonstration-how?hs_amp=true"
+    cdnAmpWebUrl: "https://www-redsharknews-com.cdn.ampproject.org/c/s/www.redsharknews.com/ai-is-revolutionising-video-codecs.-heres-an-impressive-demonstration-how?hs_amp=true"
+    type: article
+    provider:
+      name: redsharknews.com
+      domain: redsharknews.com
+    quality: 57
+    images:
+      - url: "https://www.redsharknews.com/hubfs/NVIDIA%20is%20revolutionising%20video%20codecs-jpg.jpeg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "LfbxGRP23DXgbpVi/3+nCNOS+3ovgoFWzUfY/xzO2uqCZ9RKCIySzMvJ3ldQWTzCNB8G2se6A9AG8XKG2VQtkYiV9uxMp+3o/ma/CFj9ZEKFOdfbFcTrFlhrJEgOPbbQ05Nze9krZQg/ZH6TQj8Z4WvRIOXsaTlOW4SVDxB9j2Wz+EOqDRS1T717SfdCqB/8laP9403q9pRRwNcnL+3bKX4kQV80DdGw07TNmEKeU1fvllLTuARQl28EQKJie+bNAqEtaTJn9/ihBD9Kt8A0ExpJwsQ7YddfCLl2Wrp8PDMI0ZFfZt2WlfPewyO6h8VgtA3GZz9TBQLiPX55u4EKthikEjegLiZfkQKyy/+DeZA=;h59Q6WDFyLSireLWcmbGWg=="

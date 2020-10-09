@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Study Explores the Use of Robots, AI to Ease COVID-19 Pressures on Hospitals"
+    excerpt: "Hospitals across the globe could raise their productivity and efficiency as well as increase safety and quality while limiting and decreasing charges."
+    publishedDateTime: 2020-10-09T15:05:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=11686"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=11686"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11686"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 71
+    images:
+      - url: "https://www.azorobotics.com/images/news/ImageForNews_11686_16022476570691643.png"
+        width: 950
+        height: 907
+        isCached: true
   - title: "Will robots and AI take our jobs in covid-19’s socially distanced era?"
     excerpt: "Coronavirus has put a rocket under plans for more automation, roboticisation and use of AI. Should we fear for our jobs – or will we just get better ones?"
     publishedDateTime: 2020-10-07T19:07:00Z

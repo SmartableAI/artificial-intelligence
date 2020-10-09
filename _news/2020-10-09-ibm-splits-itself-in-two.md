@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "IBM To Split Into Two Companies In Order To Focus On Cloud Computing, AI Businesses"
+    excerpt: "In recent years IBM has seen a slowdown in sales of software and only seasonal demand for its mainframe servers – hence the heavy push into cloud computing and AI. “To drive growth, our strategy must be rooted in the reality of the world we live in and ..."
+    publishedDateTime: 2020-10-09T13:50:00Z
+    webUrl: "https://www.ibtimes.com/ibm-split-two-companies-order-focus-cloud-computing-ai-businesses-3059598"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 31
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/08/ibms-reorganization-will-allow-the-technology-giant-to.jpg"
+        width: 1024
+        height: 570
+        isCached: true
 
 secured: "8hWSfPHveaACCmEPQz5d4AbARQIBnLf3BuLhyXk/rU5YDhraxvEk56tBjT9Vgq658zEUaaBJgA0ITlygCycX/7rNsEfLIdFj3iMtHgk1CLlhD1UlT+YT+empwdNiCvS8PxQDUDPm/osPgsPi8FFnuC5GEJWsULpggkhb3dnbesTeOBrizt47U87AWpeZyIrbrNdOG6JJK9fXT737mHFqhofSdJXk28AV9NIv/UOgVYNypGo05uCY3+LOeMNi3l6yOHoCYuopyTl67WUra57dQ9q0yhZZuaGjVmbSfjIpajuKVSYDa5l1sAJm0ipEs5Kl3vYx5cxKwivgI7zsBYQv0ZRUXst0HnYz4tZMpljUOUuj0Pnd7/j4h3HU2n4ldc7CTqfrlJlYvjFO25w+8Xi0ZrsKdBkoPZDZ3F5Gkgxsf9zZ8ya0Hek6npIPTtIebwX2llagDOt5ssl0KgPXSzxDsIm4LMMsVtDZOYXx9ZwoIr5tu/lwtDc2sUz+o1iXbJT988MutbtnQnCfy9hqx0eLHQ==;oupdY6OBPdpE/64y2ryukg=="
 ---

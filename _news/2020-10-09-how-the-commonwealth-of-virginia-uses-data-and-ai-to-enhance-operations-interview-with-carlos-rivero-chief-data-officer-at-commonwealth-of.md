@@ -39,13 +39,13 @@ related:
     provider:
       name: InfoQ
       domain: infoq.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://res.infoq.com/articles/build-deploy-ai-assistants/en/headerimage/croppted-build-deploy-ai-assistants-1602098758941.jpeg"
         width: 1200
         height: 630
         isCached: true
 
-secured: "RceSg7PZIezbmPNSFKbu4FWdDg+Kp0M4xfacIMx4vKlQLGi3FZudY4/0s5DKo9Nyx1aFHIAGWgD/8dfTTFES1PbiC5vzQKjsVLu663YOQ1nSxlW+TZ6koOgn5xTRXAuelKJNlK6Degn+rNaFitNX7ej0+HEQ5EQwBSNzHgNx2DZh5WA8U1kKE/CIcNk8iEBdOlhDBHlhJs0ihj/UhQpkKctQW8jz4qd6H3i7q9ojYMdrBaMF1GGL0Z4Botepf8IrYlO834/65MgJhOxtfxuVwXv3ploA7P9xOH5daCP6N+qWdeHVo0hVQKWbVvMJRzKHBStYP5Asi5c2b7dkRK9+1L9X8YPuubpkmoMn03nlXPw=;ZBu4vMq4omoK/IxLt3WlKg=="
+secured: "w7wkZ9/D6gK1dzzPe9EeDGWVEKAowB9n4P8xa8OhiYqPTCXnB8/iujRCoI/tsDQguGSjhZm6oLHulDT3wh3UovvX1GQVWlgqtPEsGH0M9W1CwZML1LdIdXCv5ky51j/IsJYRkD5J90HK8y/yuNzPu8px8ySDE4UaVeEZlRrZzoCrUt1urwEvhChR95pgz6Czk5OFxrKkNFtyAB1ZWJ3upPHE7kFy8LjfRlle0qkWeBfZSgRPEsQrPQ4LlVnL4QmxaAXbJN/oMp2Te7vH7WxWIrh1jRAr2hSCodIF5LTWuXnY9TSfH7zfqTYEWRtNMwTcsy7o//Ov7YRZ1ebkkMykxtbqpyieTnVIWx5GXf/5Ogciwer8orbZiDb1uiBQc8qxfruXeg0ofxnraqfUi3infZzSGApuKMKIuUaRBsRXRY6FzfFamEb7+p4UvjS4LULixWw+pBUo4bBkl7CRuXqrKBkxPdpO+RErpXUy5TS4XwzaIf+VPR4Dw4z53aP4zzbwE83FeGfwr0N4jSAmHWjNnA==;ZdQgNRH684vX6RRfHaeEMQ=="
 ---
 

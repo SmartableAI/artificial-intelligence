@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startup-helps-hospitals-navigate-operational-troubles-of-covid-19-and-beyond/amp/"
 type: article
 quality: 80
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Study Explores the Use of Robots, AI to Ease COVID-19 Pressures on Hospitals"
+    excerpt: "Hospitals across the globe could raise their productivity and efficiency as well as increase safety and quality while limiting and decreasing charges."
+    publishedDateTime: 2020-10-09T15:05:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=11686"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=11686"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11686"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 71
+    images:
+      - url: "https://www.azorobotics.com/images/news/ImageForNews_11686_16022476570691643.png"
+        width: 950
+        height: 907
+        isCached: true
   - title: "Researchers develop artificial intelligence for early prediction of COVID-19 from standard blood tests"
     excerpt: "A group of researchers have developed artificial intelligence (AI) that accurately predicts COVID-19 infection from standard blood tests. The AI solution has the potential to increase testing ..."
     publishedDateTime: 2020-10-05T13:51:00Z

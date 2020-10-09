@@ -1,31 +1,47 @@
 ---
 category: news
 title: "Face recognition tool reunites UP boy with parents after 5 years"
-excerpt: "Hyderabad, Oct 9 : Telangana State police's face recognition tool 'Darpan' has helped reunite a missing boy from Uttar Pradesh with his parents after five years. Som Soni, a resident of Handia in Allahabad, missing since 2015, was traced at a child home in ..."
-publishedDateTime: 2020-10-09T12:27:00Z
-originalUrl: "https://www.prokerala.com/news/articles/a1090466.html"
-webUrl: "https://www.prokerala.com/news/articles/a1090466.html"
-ampWebUrl: "https://www.prokerala.com/news/articles/a1090466.html?amp=1"
-cdnAmpWebUrl: "https://www-prokerala-com.cdn.ampproject.org/c/s/www.prokerala.com/news/articles/a1090466.html?amp=1"
+excerpt: "The missing boy was found by Goalpara police on July 23, 2015 and was sent to the Child Welfare Centre Telangana State police's face recognition tool 'Darpan' has helped reunite a missing boy from Uttar Pradesh with his parents after five years."
+publishedDateTime: 2020-10-09T12:07:00Z
+originalUrl: "https://www.tribuneindia.com/news/nation/face-recognition-tool-reunites-up-boy-with-parents-after-5-years-153319"
+webUrl: "https://www.tribuneindia.com/news/nation/face-recognition-tool-reunites-up-boy-with-parents-after-5-years-153319"
 type: article
-quality: 59
-heat: 59
+quality: 39
+heat: -1
 published: false
 
 provider:
-  name: Prokerala
-  domain: prokerala.com
+  name: The Tribune
+  domain: tribuneindia.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.prokerala.com/news/photos/imgs/800/face-recognition-tool-reunites-up-boy-with-parents-after-5-years-1078525.jpg"
-    width: 599
-    height: 799
+  - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/10/2020_10$largeimg_1014741573.jpg"
+    width: 660
+    height: 440
     isCached: true
 
-secured: "sbNZfafRHkPaTFW8b8kEG9j1CuM9Oa8i4FLValLFL+ipdypMbhd98GKJRxJ41KVKJwty+VHkGlV1A2tUppwxftA5zRUoZGJBFeGS89AGgdOwclzHT3shHztfLLA5h9R/LLQUjL4wjyyg7sgSnRwas9yCs9cohX6+uFDVl4NqFzjTTDPZ6kWFABMVhFO48X3vaIyum2C2YB0fMRQIr6a5OGaLiluHdW0Lqn3EEZAKCfXL87eMSZ/eMIGYmEiN8HvnhBU0y25Y4dJTklS90ZZzmUzxMlEVzQQfDdgpSApWwER5/lEOViHB1oN6NVgSa3oQpvW51NEORLMNzj5f3qKalkxHDVfdF+siUXen7Xn0FHI=;+hSgJSttFH6o4n7Oo2En+g=="
+related:
+  - title: "Face recognition tool reunites Uttar Pradesh boy with parents after 5 years"
+    excerpt: "Hyderabad: Telangana State police's face recognition tool 'Darpan' has helped reunite a missing boy from Uttar Pradesh with his parents after five years. Som Soni, a resident of Handia in ..."
+    publishedDateTime: 2020-10-09T14:24:00Z
+    webUrl: "https://gulfnews.com/technology/face-recognition-tool-reunites-uttar-pradesh-boy-with-parents-after-5-years-1.1602246616056"
+    ampWebUrl: "https://gulfnews.com/amp/technology/face-recognition-tool-reunites-uttar-pradesh-boy-with-parents-after-5-years-1.1602246616056"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/face-recognition-tool-reunites-uttar-pradesh-boy-with-parents-after-5-years-1.1602246616056"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 57
+    images:
+      - url: "https://imagevars.gulfnews.com/2020/10/09/20201009-darpan_1750d5c11df_large.jpg"
+        width: 750
+        height: 563
+        isCached: true
+
+secured: "HMRnjILml+ek5R+1koBCJj1jvYtNFTRcA0/V8y8H6xno0c6qy/Bqhz/y4OHKRgUmIk/HUG/vg2dwi2vL/Yunmgz9BF8Jz35YkP+VgFnu3ruxH54s6P6ah7esBJOBedoC/UILpq+D5ygyNcBmzQnh7Y5MeWpiL4EdFkPC8ExAxQOJiHGm4BCsa3Y2SlnRbchKTaNhPlV5K+sd08IfOAq5jxmRrksLZiYMxshTaR5XufN8v1zgnnVf6WmBigMN5SkNMUzMoqzSGf1SHWFsb1dFGIVsRJDiqOOQbUWwfLqF/wUtbmgmlY69kJtPlOpw8EmA2ZN0RIgF10prM5B+f4DxkW7RCDhUHUmMfeQR3UxpHTQ=;/oqQ8MJObSfMictUSOasbw=="
 ---
 

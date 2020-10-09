@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Solutions for curtailing gerrymandering could include artificial intelligence"
+    excerpt: "There are other ideas emerging, too: like using artificial intelligence to make the maps. “It takes an enormous computer capacity, which was not there 30 years ago, and writing the programming to make that all happen is also not a trivial matter,” said ..."
+    publishedDateTime: 2020-10-09T15:43:00Z
+    webUrl: "https://www.thedenverchannel.com/news/national-politics/the-race-2020/solutions-for-curtailing-gerrymandering-could-include-artificial-intelligence"
+    type: article
+    provider:
+      name: 7News and TheDenverChannel.com
+      domain: thedenverchannel.com
+    quality: 49
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/7654b54/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fec%2F1a%2Ff327fb504c2f9e89239ec830173e%2Fframe-1038.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI IN BANKING: How forward-looking banks are using maturing AI solutions to design both customer- and employee-facing innovations"
     excerpt: "This report identifies AI use cases transforming the way FIs operate, the business impact of those use cases, and real-world examples of each."
     publishedDateTime: 2020-10-06T18:48:00Z
@@ -52,6 +66,17 @@ related:
         width: 991
         height: 557
         isCached: true
+  - title: "In a battle of AI versus AI, researchers are preparing for the coming wave of deepfake propaganda"
+    excerpt: "Fake videos generated with sophisticated AI tools are a looming threat. Researchers are racing to build tools that can detect them, tools that are crucial for journalists to counter disinformation."
+    publishedDateTime: 2020-10-09T12:28:00Z
+    webUrl: "https://theconversation.com/in-a-battle-of-ai-versus-ai-researchers-are-preparing-for-the-coming-wave-of-deepfake-propaganda-146536"
+    ampWebUrl: "https://theconversation.com/amp/in-a-battle-of-ai-versus-ai-researchers-are-preparing-for-the-coming-wave-of-deepfake-propaganda-146536"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/in-a-battle-of-ai-versus-ai-researchers-are-preparing-for-the-coming-wave-of-deepfake-propaganda-146536"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 26
 
 secured: "gQjt7oTUnKkoleCtwmhOCXuk96Os/Nc7iId341hW67osygT2oUjAztd8sG1zpLUmVbNmGU2mkweARbrKi7jjUll+7NWxivB2KK1BldnFNPznrgmteIi4bjyVDdDNAhmfDrlk5ppNrgsytF9Lb1eqTH5fiT4fsMPunQZ9h8NWafutu47+EnRXFCItv6WQ/FhXQz1ZigxjESiXXbqBhJ1YaJyHdnzTQ+BBE0LBXja6qsdIbawlVwCuuz1lGCm5FpNzAaGQ64EBPqwLGedf2mTZv2iSUdRlLpIZ3v3R0tdMliEPjT8a0mzPswzWI2MTtJegII8BcKmmZPhmP2/zfeU9/LD4ZUtKEOikmHk6MUfTxEuzDp8ZiYauk8P8/aVASSXLQ0u8UVU3uZWOKuQWp2DYqP1gIkd1iMYgKKOiJjqXGbCB6htZYJ4GSeYdduObo7uzazRObg2GRMIaQmCPwCwtj9RQSwcFHOxY8SotPsDdmbDcklgbk1C5QI22M9J76w1PaHHugvkSdrJ0DVmIKEyt7Q==;8T/XhxpVUSceHuFMw2QK0Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/10/08/ibm-shares-surge-on-plans-to-spi
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/08/ibm-shares-surge-on-plans-to-spin-off-unit-into-separate-publicly-traded-company-.html"
 type: article
 quality: 160
-heat: 180
+heat: 190
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/10/09/5bd7ae50-09d2-11eb-afc8-92e0da0ef1c3_image_hires_095827.jpg?itok=DVVdPC5n&v=1602208714"
         width: 1200
         height: 630
+        isCached: true
+  - title: "IBM To Split Into Two Companies In Order To Focus On Cloud Computing, AI Businesses"
+    excerpt: "In recent years IBM has seen a slowdown in sales of software and only seasonal demand for its mainframe servers – hence the heavy push into cloud computing and AI. “To drive growth, our strategy must be rooted in the reality of the world we live in and ..."
+    publishedDateTime: 2020-10-09T13:50:00Z
+    webUrl: "https://www.ibtimes.com/ibm-split-two-companies-order-focus-cloud-computing-ai-businesses-3059598"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 31
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/08/ibms-reorganization-will-allow-the-technology-giant-to.jpg"
+        width: 1024
+        height: 570
         isCached: true
   - title: "IBM Splits Itself in Two"
     excerpt: "Big Blue is splitting its operations as part of an ongoing effort to become the world's top hybrid cloud and artificial intelligence (AI) provider."

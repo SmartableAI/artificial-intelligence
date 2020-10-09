@@ -1,27 +1,27 @@
 ---
 category: news
 title: "IBM Enters Esports Arena with Activision Blizzard in New Multi-Year Deal as the Presenting Partner of the Overwatch League Grand Finals"
-excerpt: "IBM and the Overwatch League™, the world's first global esports league with 20 city-based teams, announced its"
+excerpt: "IBM to help power interactive and analytical content for the Overwatch League, engaging fans and players through cloud, IBM’s Watson artificial intelligence, and machine learning ARMONK, N.Y. and IRVINE,"
 publishedDateTime: 2020-10-09T04:01:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-301149158.html"
-webUrl: "https://www.prnewswire.com/news-releases/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-301149158.html"
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-sports-technology-lifestyle-products-and-services-09560d68e8ed6386c546a08c0df19c1e"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-sports-technology-lifestyle-products-and-services-09560d68e8ed6386c546a08c0df19c1e"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1309782/IBM_and_the_Overwatch_League.jpg?p=facebook"
-    width: 2700
-    height: 1414
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -60,14 +60,30 @@ related:
   - title: "IBM enters the esports fray with Overwatch League partnership"
     excerpt: "IBM has announced its debut into the esports arena through a multi-year deal inked with the Overwatch League.  Esports is roughly described as competitive videogaming, team-based play, and digital tournaments."
     publishedDateTime: 2020-10-09T11:56:00Z
-    webUrl: "https://www.zdnet.com/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/"
+    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
     quality: 54
+  - title: "IBM Makes Esports Debut With Multi-Year Overwatch Deal"
+    excerpt: "Starting from 2021, IBM would deploy its technological expertise to improve Overwatch’s league ranking systems. Reports also suggest the use of Watson AI, developed by IBM research, for predictive analysis. Why Does It Matter: IBM has contributed to ..."
+    publishedDateTime: 2020-10-09T09:31:00Z
+    webUrl: "https://www.benzinga.com/news/20/10/17847437/ibm-makes-esports-debut-with-multi-year-overwatch-deal"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17847437"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17847437"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/2212158644_cdfdb7f997_o.jpg"
+        width: 1070
+        height: 1600
+        isCached: true
   - title: "IBM teams up with Activision Blizzard to manage tech for the Overwatch League – Jaweb"
     excerpt: "IBM will manage the technology for Activision Blizzard’s Overwatch League in a sign that esports is starting to demand the most sophisticated cloud and AI technologies. The idea is to put esports on the road to being a mainstream phenomenon alongside traditional sports."
     publishedDateTime: 2020-10-09T05:42:00Z
@@ -113,6 +129,6 @@ related:
         height: 347
         isCached: true
 
-secured: "7Lwd4W74paZFCI02ibb3e05iBRHDKhJA/vHXrC5C27mwpXWZ4FNbD3XgxzV+/9icbzMoSD63O6AQV7gIeWz3aFRem4pxI2/pC4I1EXEd7BgUt7iGzQHwqrl6NYfdxP25XoiNc5ppAYVLB/cqdIuNRcxYe7HWdXi1HIQ5Nh368JD1o4guPpOME+x4rI9u+SpV+lKgE2TZd5aVcX+AiT+bl7ScgagSr1fkUyLmkCQXGscuA8UgK2WPprZmjIMBEdJmDyYPoOiP3q7j3tMgnehag8l7fCW2+X36SvS6c2YqPw3E5vrfeTAZGGahphXKga66POZCZXLZUVg4DhBIhHKkfmunjqI6YEw9kBCanzPPGTg=;wNuNd7jMldu2OdbEscZy9g=="
+secured: "oyVTm0FuzBSjP6Ednz3GU8h1uZXNd/S4lEx8tR8YSzLxCmO3vZffw1zJcLoYppKwV0135joHPBZSLd50IXFZ0dbJPPbTqwKg5dmqH2fWi7qZrRSGwjMMbQUiI5yN7Rigj8AtjgYXv6/X+hOJigNda+bMBzJzynqOHIvmVrE65ezjr+mu4RvdN2/RPUhp3+BJgvj6g6gxLSsD7k7EDbfoCFvzal/+rGcpli1JdtlUQh6fnb6+Qn58+Ee4Z6CfRpcqXhUPMtcf1gkKkE9FpQQZd/sNLB5x5vDDcWMyALUhbM6PJyBhDxFzU5Xdeom+k6Um1QOo8eUDoAqTQISRuWrtxYyKmnYTPnq+59dC8cVMFo0=;eEk40ek8NuH9clzKnhe0ow=="
 ---
 

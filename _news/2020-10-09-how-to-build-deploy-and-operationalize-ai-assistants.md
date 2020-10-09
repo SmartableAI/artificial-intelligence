@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-09T12:15:00Z
 originalUrl: "https://www.infoq.com/articles/build-deploy-ai-assistants/"
 webUrl: "https://www.infoq.com/articles/build-deploy-ai-assistants/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://res.infoq.com/articles/build-deploy-ai-assistants/en/headerimage/croppted-build-deploy-ai-assistants-1602098758941.jpeg"
@@ -42,6 +43,6 @@ related:
         height: 647
         isCached: true
 
-secured: "XE2J4q0ecVdIKn7wrmcqTkIJydDOjSmBWeFKE52Q1HwswslocrZiC1zQrIUWMyUeAJEprqa4ItUOsTwJAdvzFiekV0e32o7dIEX0ozMaDZWkQxfksqoCBONfFS4/tblm7rWCypjyuOsKVptfa8EcLyJ68FEhoYnLfqg0ldiu+Ncnj9vijL1dzK+09CmQ2hkRhR7/NcT88HTJgJgQgYG0nyMlL3KnGbrpoOHqk/K0D6qyDteMRUq973dq0XsquqhDXklbE6hMMh2LNqHyoXdEEIyyKvltDwu6DXabinsVP3uRSEwpIZKdHqEex5jBNLPBGfeWZd5gf1A0juX1/RtqqUMmgqnGNuRwcn7dwAWeLZU=;WhIUTbsKke1C8pNC6qJNig=="
+secured: "UBiJtD67NBxt5AOE4ct4kZ6n8gRN0+ZkKygycxBRVEH9Z6mORFN5qkh9SWBsqDJX0h4fbqjcTF3btw0Up2n+lgUJXNvPNvQIVkyvzWxGXEZNwruBAtuwQ76S7Z9FSs03PUKlCEo7gUCANmgnjjrHeCJWYQeCET+oWKSLuHZxJFYEttf5W2ePWDxcZfB0Oi+Y231oPwz4xqw7yHn8k3TbrlTncvM0Gnbt5JgjiJ4xpgCpC3T+vNUsV4e45Th0nWFVK+kPDeL13axkP6EIcIXliIdlcpbkSZIaPTFPBJ6iX5KLFI4QVrSgckdeyS80RnzguGNjWrq9kI6EwCtX8fD/jebFmtJm0ZpltEw00agSDaKx5xRQi+sP8nBLbXHaOgmTQcVR3mnivGDwNqXhdFSofSRNYdJaBdzBElZ83Z2+CV4uo2dBb6N9cd5juN7gvLrjKuwRd+U9U9gesdkhA7vg3PXzFN9KzsoWpQ5EQbvQboBas/NUSDiSjt96Ym5eI8G/c0l6vFJh2VaGrKGQ7pqOlg==;sWkgr5ccqnC0sDWwZX7Etg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/07/cbp-expands-facial-recognition-pr
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/07/cbp-expands-facial-recognition-program-to-international-travelers-at-san-francisco-and-san-jose-airports/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Cincinnati startup picked for San Francisco virtual accelerator"
+    excerpt: "A San Francisco-based equity-free accelerator has selected six startups to participate in its latest cohort, and a company from Cincinnati made the list. Cloverleaf, a firm that uses data to help companies put together stronger teams,"
+    publishedDateTime: 2020-10-09T15:02:00Z
+    webUrl: "https://www.bizjournals.com/cincinnati/inno/stories/news/2020/10/09/cloverleaf-picked-for-san-francisco-accelerator.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 2
 
 secured: "Wzy+7WmagB4RwP55TUGx4TQAcFxU6/AXbjaKcu0t3muwEUJuJ038vXBuX2in0eOGRZQnEtfLfAo2WTsthWOWXhfvtDo3zUrByHtkapuRqb1j976UpMvNbrn57CsJ646jMNRnxIJrwRd2spihvYoGh6xMtDRonGXcgRg82WcKdGmFjhZVi9oMjb3fc2y1v4bkTq6pAzf+zjZLn9aALl/bTuWhlGF78aXdL5abSu7wwArgQO+73nmwoHVuu3fDTkyQqnWIiT1j5iQ7t3AdCa7ZGQetBsRewbObVEUGIhC1+ds9Jec7hBA2nx1XDoBCN2nDBuad0KGkW6TSWFn1hCTsCA0ybstdHc34EOWQ9lcV7dhCw+Bc09kjtmVGZJ1viZPtWjVozqu+s17aHwHJHpPuxyRruH8SWrmveu6za7KwAhgwpaxUAV4sPhPRaq6B3TlAVcWtW+kyCnkz+KLZVIEEU/lxf5uqT0MB7Ojb2QSIUx9846Zw9tH549Z/c4XHfNBtz1h2RhJT9TheTc0jlx1FcQ==;rVa2Dyiu6DD0xMOnROM7AQ=="
 ---

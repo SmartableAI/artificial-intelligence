@@ -44,6 +44,22 @@ related:
         width: 696
         height: 464
         isCached: true
+  - title: "AI is revolutionising video codecs. Here's an impressive demonstration how"
+    excerpt: "NVIDIA has released a demo of how it is using AI to revolutionise video conferencing. This is the future of video codecs."
+    publishedDateTime: 2020-10-09T14:07:00Z
+    webUrl: "https://www.redsharknews.com/ai-is-revolutionising-video-codecs.-heres-an-impressive-demonstration-how"
+    ampWebUrl: "https://www.redsharknews.com/ai-is-revolutionising-video-codecs.-heres-an-impressive-demonstration-how?hs_amp=true"
+    cdnAmpWebUrl: "https://www-redsharknews-com.cdn.ampproject.org/c/s/www.redsharknews.com/ai-is-revolutionising-video-codecs.-heres-an-impressive-demonstration-how?hs_amp=true"
+    type: article
+    provider:
+      name: redsharknews.com
+      domain: redsharknews.com
+    quality: 57
+    images:
+      - url: "https://www.redsharknews.com/hubfs/NVIDIA%20is%20revolutionising%20video%20codecs-jpg.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "i1va8n1F2f82pwUJrOBlYrwEPZ2XK3+z5f2vS7Tslpr2lgoKz9YJx2OKaLzBlVHeY1fPFLwjlWTlxxzFvYW0ZPNs3plPAuMFSjp3X2XL3xH9cvnb4fY+sINAkQACv4n2/Zjhax95JxpHxfyQ+n3iwqyOUrW9FU3rpdxqEYJat/ORNOvJdB2zIZt47ASlk2MhO4M2+vmfKSyxcVPfMLQQ2LPWmpATTtcWa29bDZjMwe9HYQw6Ohb4zuxvjxNYCl4JqMHPdd1FnBDA8u6q3M/m6Nhh5W9DJyzEZ9Yb/ZNusH3F1/Dx2Ydrxvito5O3iyeO8PtIpAXqTBzVUQ8PlZW5r1cZL9WD/IBVXe3u1C7h+YcM8Dexa17kiTND+b4PL+vgx8yljgUHlD4HGdk0vMGSgJ6O69bIwIBUagOLTSiIE2TVhe4hGetwgxFKA8po+wh1ScCPo/DBAY9UphEHAQZGt2XDliHEx5HG8Z8ZTY5bgFdGP1n17WVH+M9ZSfOUnVxJSWlvrTbDNn2YO+XJfFM6kA==;ZyhPKO9IbiySpaWrXEYWHw=="
 ---

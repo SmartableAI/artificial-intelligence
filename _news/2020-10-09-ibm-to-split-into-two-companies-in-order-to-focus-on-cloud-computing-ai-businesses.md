@@ -1,0 +1,76 @@
+---
+category: news
+title: "IBM To Split Into Two Companies In Order To Focus On Cloud Computing, AI Businesses"
+excerpt: "In recent years IBM has seen a slowdown in sales of software and only seasonal demand for its mainframe servers – hence the heavy push into cloud computing and AI. “To drive growth, our strategy must be rooted in the reality of the world we live in and ..."
+publishedDateTime: 2020-10-09T13:50:00Z
+originalUrl: "https://www.ibtimes.com/ibm-split-two-companies-order-focus-cloud-computing-ai-businesses-3059598"
+webUrl: "https://www.ibtimes.com/ibm-split-two-companies-order-focus-cloud-computing-ai-businesses-3059598"
+type: article
+quality: 31
+heat: -1
+published: false
+
+provider:
+  name: International Business Times
+  domain: ibtimes.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/08/ibms-reorganization-will-allow-the-technology-giant-to.jpg"
+    width: 1024
+    height: 570
+    isCached: true
+
+related:
+  - title: "IBM shares rise on plans to spin off its IT infrastructure unit and focus on the cloud business"
+    excerpt: "IBM said on Thursday it would spin off its IT infrastructure unit to focus more on cloud computing, a high-margin business that has seen a boost as companies increasingly ramp up their digital shift."
+    publishedDateTime: 2020-10-08T14:20:00Z
+    webUrl: "https://www.cnbc.com/2020/10/08/ibm-shares-surge-on-plans-to-spin-off-unit-into-separate-publicly-traded-company-.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/08/ibm-shares-surge-on-plans-to-spin-off-unit-into-separate-publicly-traded-company-.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/08/ibm-shares-surge-on-plans-to-spin-off-unit-into-separate-publicly-traded-company-.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 160
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106365286-1580420465213preview-2.jpg?v=1595268430"
+        width: 3915
+        height: 2534
+        isCached: true
+  - title: "IBM spinning off legacy IT business to step up cloud competition with Amazon, Microsoft"
+    excerpt: "In IBM chief executive officer Arvind Krishna’s first big move, he is spinning off a slower-growth business that manages corporate computer systems so the tech giant can focus on the boom in demand for cloud services and step up competition with Amazon and Microsoft."
+    publishedDateTime: 2020-10-09T06:44:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3104787/ibm-spin-legacy-it-business-step-cloud-competition-amazon-microsoft"
+    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3104787/ibm-spin-legacy-it-business-step-cloud-competition-amazon-microsoft"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3104787/ibm-spin-legacy-it-business-step-cloud-competition-amazon-microsoft"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 83
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/10/09/5bd7ae50-09d2-11eb-afc8-92e0da0ef1c3_image_hires_095827.jpg?itok=DVVdPC5n&v=1602208714"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "IBM Splits Itself in Two"
+    excerpt: "Big Blue is splitting its operations as part of an ongoing effort to become the world's top hybrid cloud and artificial intelligence (AI) provider."
+    publishedDateTime: 2020-10-08T21:36:00Z
+    webUrl: "https://rcpmag.com/articles/2020/10/08/ibm-splits-itself-in-two.aspx"
+    type: article
+    provider:
+      name: Redmond Channel Partner
+      domain: rcpmag.com
+    quality: 24
+    images:
+      - url: "https://rcpmag.com/-/media/ECG/visualstudiomagazine/Images/introimages/130724VSMWardSplit_v2.jpg"
+        width: 647
+        height: 450
+        isCached: true
+
+secured: "QZyeJZ7h92uZhwJ18qq66baV5N5Arx93q3wxW5EOWMQ8lMSHAeAIVWa3pKl1VVmBr5rtlgHq3RklPWj4HuY5UDGQL/E17yok0fVFj2SmwbQee5+SzcLfb7dPtk7FRlmOX8z8hE3Jxek3OcNfaU2s+axvT9n93GFEb34MNSKqDSW6iyxb1ipoWNwuIsN2WJcFPl6fTuvGQlUFt2I0yaAgUHivJav20ax/AxnF2uMiH1Wq7pVZbRBswGjEt1sJ4lTZidj9k6wAZ0cshrDAjM4Mo4DDsz4A3TVsGXcJrARkqviu00jpvxD35NXDU4GjoCQHEFlD2vTW6Rp5oeSAaVa/qWJKuNIyZ9bSfZ2STc9QnVg=;pjnIw+gucoStNCUVIn7MUw=="
+---
+

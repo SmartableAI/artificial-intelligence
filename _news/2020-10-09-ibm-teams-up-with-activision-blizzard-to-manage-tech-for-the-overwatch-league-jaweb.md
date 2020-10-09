@@ -62,14 +62,30 @@ related:
   - title: "IBM enters the esports fray with Overwatch League partnership"
     excerpt: "IBM has announced its debut into the esports arena through a multi-year deal inked with the Overwatch League.  Esports is roughly described as competitive videogaming, team-based play, and digital tournaments."
     publishedDateTime: 2020-10-09T11:56:00Z
-    webUrl: "https://www.zdnet.com/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/"
+    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
     quality: 54
+  - title: "IBM Makes Esports Debut With Multi-Year Overwatch Deal"
+    excerpt: "Starting from 2021, IBM would deploy its technological expertise to improve Overwatch’s league ranking systems. Reports also suggest the use of Watson AI, developed by IBM research, for predictive analysis. Why Does It Matter: IBM has contributed to ..."
+    publishedDateTime: 2020-10-09T09:31:00Z
+    webUrl: "https://www.benzinga.com/news/20/10/17847437/ibm-makes-esports-debut-with-multi-year-overwatch-deal"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17847437"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17847437"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/2212158644_cdfdb7f997_o.jpg"
+        width: 1070
+        height: 1600
+        isCached: true
   - title: "IBM Enters Esports With Overwatch League Sponsorship"
     excerpt: "... year deal to become the official AI, cloud and analytics sponsor of the Overwatch League. The deal, which runs through the 2022 OWL season, marks the first time IBM has partnered with an esports league. IBM Watson’s AI capabilities will be used to ..."
     publishedDateTime: 2020-10-09T07:03:00Z
@@ -99,18 +115,18 @@ related:
         height: 347
         isCached: true
   - title: "IBM Enters Esports Arena with Activision Blizzard in New Multi-Year Deal as the Presenting Partner of the Overwatch League Grand Finals"
-    excerpt: "IBM and the Overwatch League™, the world's first global esports league with 20 city-based teams, announced its"
+    excerpt: "IBM to help power interactive and analytical content for the Overwatch League, engaging fans and players through cloud, IBM’s Watson artificial intelligence, and machine learning ARMONK, N.Y. and IRVINE,"
     publishedDateTime: 2020-10-09T04:01:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-301149158.html"
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-sports-technology-lifestyle-products-and-services-09560d68e8ed6386c546a08c0df19c1e"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 0
     images:
-      - url: "https://mma.prnewswire.com/media/1309782/IBM_and_the_Overwatch_League.jpg?p=facebook"
-        width: 2700
-        height: 1414
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "Gk3zLkxjVeVBlC8bTeKygaxPQDdH7bamiiUbGJXGp/KtJiHDsPl1xHLRWDRitnkZh03FhEzBFatvuuiVS4/Hw0U/Nk5Zp5y4jlKZrd/DzNZ3hpjcz7coIeNOBj24Wt/T9bjEbbAwIU8tp9G0MHRZNnKE46fOof9LJahen6J7570JjwBO84gIhAyPCLS1Bai5Ryz7FF+bSp4PlSutU4P5uJao7GmofgmWg0dw2S+1G3U+Ns6V8a+4cX3Mn03qsJ7mAKeq1099HvDtqanDK9aAw/VUPSRCV19LDsAzODDDrBxe2onnhoQv73J28iMxKHq42dcC2L58AsrEZoSKvXrMeCkhzEg+ywtveLOsy2x2PX133WSRKb15i3ImCekuve5OEY+1wXksoDkaaZfOjkx2SQ5xJI9jG+ag4z6CuvTutv2uIn1ZqNcwnx3fFKLu1aJEDEKZEmLJUIoG6srZLXtUQlEG3hAZAlY5eUs5ZYpwT2zWxusvLdwxKt/UufhSjewNAz1QOaIW4+s6C6C9QK1stg==;VZagaWRQvAMSRkGnOrzjyw=="

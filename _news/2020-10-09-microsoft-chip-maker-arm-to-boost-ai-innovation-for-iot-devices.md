@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Microsoft, chip maker Arm to boost AI innovation for IoT devices"
-excerpt: "devices to Azure Cloud. The partnership will enable developers to easily target a broad range of Arm-based devices like intelligent computer-vision-enabled cameras, connected vehicles, AI gateways and intelligent appliances. With over 30 billion active IoT ..."
-publishedDateTime: 2020-10-09T08:45:00Z
-originalUrl: "https://www.siliconindia.com/news/general/Microsoft-chip-maker-Arm-to-boost-AI-innovation-for-IoT-devices-nid-214287-cid-1.html"
-webUrl: "https://www.siliconindia.com/news/general/Microsoft-chip-maker-Arm-to-boost-AI-innovation-for-IoT-devices-nid-214287-cid-1.html"
+excerpt: "SoftBank-owned UK chip maker Arm has partnered with Microsoft to create Azure-based tools to enable developers transfer data from Arm-based Internet of Things (IoT) devices to Azure Cloud. The partner"
+publishedDateTime: 2020-10-09T07:20:00Z
+originalUrl: "https://www.dailypioneer.com/2020/technology/microsoft--chip-maker-arm-to-boost-ai-innovation-for-iot-devices.html"
+webUrl: "https://www.dailypioneer.com/2020/technology/microsoft--chip-maker-arm-to-boost-ai-innovation-for-iot-devices.html"
 type: article
 quality: 71
 heat: -1
 published: false
 
 provider:
-  name: SiliconIndia
-  domain: siliconindia.com
+  name: The Pioneer
+  domain: dailypioneer.com
 
 topics:
   - Microsoft AI
@@ -20,9 +20,9 @@ topics:
   - AI Hardware
 
 images:
-  - url: "https://www.siliconindia.com/news/newsimages/0wl6F15f.jpg"
-    width: 570
-    height: 367
+  - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/microsoft--chip-maker-arm-to-boost-ai-innovation-for-iot-devices-2020-10-09.jpg"
+    width: 1000
+    height: 800
     isCached: true
 
 related:
@@ -119,6 +119,6 @@ related:
         height: 1206
         isCached: true
 
-secured: "jaxTKeVxj20ILOyXfWW9L+gs1hqMWyazlT57VjIPjO7Dt3pRzyLOonV4biLT/nZQCEWv/MI9R5x5umYwlJn3iwFKqrhDh87op+MhfDnx+VVVJvsfJmNSfJnGHVzYoKg7ZFX5BEfiF26GwiY3JqlZbZDaWxtv7wV+5irtuRHjq0OmAGwkLYdaMdCUcxPS5S4xpiXUqQzisxZzw9YQEYWow2O2Ef5QZzuhy2H+BTZq3XPdSK/oU1c/ejYy12nQ4rw4CfW0sC50AnTQzCaxIya80JQBbK006tG95LqffPckNlpvxnWqkY9ip/FH2c3ceUdOCUCPRRWkA/isrc/YsA5x0jGkN73WasAHPqKyTTczEsg=;YWUh9UM/5c+aMRiaAuVdaQ=="
+secured: "5oJKVj/MloUIjyLcHM3ESu9YGOCBvvX2TZ+LPDJiSdsxycMi7Zmn1hSq11NH8F+/Q7RszrwJMLvm/Dmn/l3lgZDYNU3hHzLoZ3DiWNvIwPg69Q4wYn82e2GqcK69otJKSdvKEQ6O0qXAXQWB/2ItejjYlFWODFKnFBoYcYAH1tfFiTLxPl+pU5ny00TsUKWRH/JWGwh3ezb4JGv8O/GnlfScVXgwIEHJQ9B2uQJbKdWFKgF0gFnFyTcJgi5v3HGL55v1+dNUdnmvwwLMvDCrPYWYiXnyWo/085UkQSovvXXdpA4CqFPyqDafPQT4EecV7kScQiQ0VUBpb+z0Fn1yJbhUtPMepmu72kGG4BKKy4w=;vaWQ0LcEiT8638dL3qJr2w=="
 ---
 

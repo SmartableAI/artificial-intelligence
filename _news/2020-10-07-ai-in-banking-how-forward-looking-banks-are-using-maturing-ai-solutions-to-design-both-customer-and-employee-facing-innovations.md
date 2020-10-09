@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/ai-in-banking-report-2020"
 webUrl: "https://www.businessinsider.com/ai-in-banking-report-2020"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Solutions for curtailing gerrymandering could include artificial intelligence"
+    excerpt: "There are other ideas emerging, too: like using artificial intelligence to make the maps. “It takes an enormous computer capacity, which was not there 30 years ago, and writing the programming to make that all happen is also not a trivial matter,” said ..."
+    publishedDateTime: 2020-10-09T15:43:00Z
+    webUrl: "https://www.thedenverchannel.com/news/national-politics/the-race-2020/solutions-for-curtailing-gerrymandering-could-include-artificial-intelligence"
+    type: article
+    provider:
+      name: 7News and TheDenverChannel.com
+      domain: thedenverchannel.com
+    quality: 49
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/7654b54/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fec%2F1a%2Ff327fb504c2f9e89239ec830173e%2Fframe-1038.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "They're pushing boundaries in gaming tech and AI"
     excerpt: "From bridging the gap between e-commerce and traditional retail to using acoustic pattern recognition AI technology and designing games, these women are at the forefront of the tech revolution. This service is not intended for persons residing in the EU."
     publishedDateTime: 2020-10-04T23:31:00Z
@@ -56,6 +70,17 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "In a battle of AI versus AI, researchers are preparing for the coming wave of deepfake propaganda"
+    excerpt: "Fake videos generated with sophisticated AI tools are a looming threat. Researchers are racing to build tools that can detect them, tools that are crucial for journalists to counter disinformation."
+    publishedDateTime: 2020-10-09T12:28:00Z
+    webUrl: "https://theconversation.com/in-a-battle-of-ai-versus-ai-researchers-are-preparing-for-the-coming-wave-of-deepfake-propaganda-146536"
+    ampWebUrl: "https://theconversation.com/amp/in-a-battle-of-ai-versus-ai-researchers-are-preparing-for-the-coming-wave-of-deepfake-propaganda-146536"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/in-a-battle-of-ai-versus-ai-researchers-are-preparing-for-the-coming-wave-of-deepfake-propaganda-146536"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 26
 
 secured: "XixXfb2osLZKe3nQVH0Ii8V5mzBTAnJwuuftDW+i1wOpyijmWgY0R2EDoLL8+9pYfMTgX4AEshHyCrnocIWRmUq+Gr0V/iqKU3qo5mnL/uY9J9WSG+oNg8pvyVUniPF3I/VWa/XkQZZ3cL1FvhwM1tMZMHjY1cpCubZVRTHEGFNExRu/qxV2680OtimJxG6K95fhS1wMGzcq9HQXgDA5j7Rnf8sEi4cZ/yrhamx57cMm75pWsl4yKXrx+xTnjDgP+PbeiMCbMD06+sej82j5oYlxZoNlMk1XlkCd/ceQ4uyVrG0E6NAQN1eEk+1AbvXtfcHfgrB88Qt9F6nHpA3QImLCSve/d1xgM1kfOct5pFycAe/U3osXYrZ+1OWCc5RQSK8yfYVVUCyCDcnXTqlTVGdjZqlDhZyMEP4usYygmDGt4eKKBuNAj0HosNel1juc3bwoEX1DzKhO/7EO8ZLJLNb1omwPEyDugDhW24M4Nk5xFeKCGFeImsQKvxWof26cnwKartdSvMSbSmWLGUTy9g==;X0khHTtyvkeXZ/uhPpHygw=="
 ---
