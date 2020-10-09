@@ -2,58 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-10-09-ibm-spinning-off-legacy-it-business-to-step-up-cloud-competition-with-amazon-microsoft.md",
-      "title": "IBM spinning off legacy IT business to step up cloud competition with Amazon, Microsoft",
-      "excerpt": "In IBM chief executive officer Arvind Krishna’s first big move, he is spinning off a slower-growth business that manages corporate computer systems so the tech giant can focus on the boom in demand for cloud services and step up competition with Amazon and Microsoft.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3104787/ibm-spin-legacy-it-business-step-cloud-competition-amazon-microsoft",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3104787/ibm-spin-legacy-it-business-step-cloud-competition-amazon-microsoft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/10/09/5bd7ae50-09d2-11eb-afc8-92e0da0ef1c3_image_hires_095827.jpg?itok=DVVdPC5n&v=1602208714",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3104787/ibm-spin-legacy-it-business-step-cloud-competition-amazon-microsoft",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3104787/ibm-spin-legacy-it-business-step-cloud-competition-amazon-microsoft",
-      "publishedDateTime": "2020-10-08T23:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-09-microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices.md",
       "title": "Microsoft parteners chip maker Arm to boost AI innovation for IoT devices",
       "excerpt": "SoftBank-owned UK chip maker Arm has partnered with Microsoft to create Azure-based tools to enable developers transfer data from Arm-based Internet of Things (IoT) devices to Azure Cloud",
@@ -190,6 +138,49 @@
         "AI",
         "Natural Language Processing",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure.md",
+      "title": "Tamr Announces the Only Cloud-Native Data Mastering Solutions for Google Cloud Platform, AWS, and Microsoft Azure",
+      "excerpt": "PRNewswire/ -- Tamr, Inc., a cloud-native data mastering platform used by some of the world's largest enterprises",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406",
+      "publishedDateTime": "2020-10-07T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
       ]
     },
     {

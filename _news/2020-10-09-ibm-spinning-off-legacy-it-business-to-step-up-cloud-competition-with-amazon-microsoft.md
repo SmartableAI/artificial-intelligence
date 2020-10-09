@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3104787/ibm-spin-legacy-i
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3104787/ibm-spin-legacy-it-business-step-cloud-competition-amazon-microsoft"
 type: article
 quality: 83
-heat: 153
-published: true
+heat: -1
+published: false
 
 provider:
   name: South China Morning Post
@@ -32,92 +32,35 @@ images:
     isCached: true
 
 related:
-  - title: "Tamr Announces the Only Cloud-Native Data Mastering Solutions for Google Cloud Platform, AWS, and Microsoft Azure"
-    excerpt: "PRNewswire/ -- Tamr, Inc., a cloud-native data mastering platform used by some of the world's largest enterprises"
-    publishedDateTime: 2020-10-07T13:35:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406"
+  - title: "IBM shares rise on plans to spin off its IT infrastructure unit and focus on the cloud business"
+    excerpt: "IBM said on Thursday it would spin off its IT infrastructure unit to focus more on cloud computing, a high-margin business that has seen a boost as companies increasingly ramp up their digital shift."
+    publishedDateTime: 2020-10-08T14:20:00Z
+    webUrl: "https://www.cnbc.com/2020/10/08/ibm-shares-surge-on-plans-to-spin-off-unit-into-separate-publicly-traded-company-.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/08/ibm-shares-surge-on-plans-to-spin-off-unit-into-separate-publicly-traded-company-.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/08/ibm-shares-surge-on-plans-to-spin-off-unit-into-separate-publicly-traded-company-.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 80
-  - title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
-    excerpt: "Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce its availability in the Microsoft Azure Marketplace. Granulate's solution helps companies optimize workload performance and enables businesses to cut computing costs while improving performance with no code changes to their application."
-    publishedDateTime: 2020-10-07T02:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-1029652622"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-1029652622"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-1029652622"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 73
-  - title: "Microsoft To Build New Azure Cloud Data Centers In Greece"
-    excerpt: "Microsoft plans to spend up to $1 billion to build three data centers for its first Azure cloud region in Greece and provide digital technology training to up to 100,000 people there by 2025"
-    publishedDateTime: 2020-10-05T17:36:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-to-build-new-azure-cloud-data-centers-in-greece"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
+      name: CNBC
+      domain: cnbc.com
+    quality: 160
     images:
-      - url: "https://www.crn.com/resources/0261-107e1bc258dd-899507ddf083-1000/shot_of_corridor_in_working_data_center_full_of_rack_servers_and_supercomputers_with_cloud_storage_advantages_icon_visualization..jpeg"
-        width: 549
-        height: 309
+      - url: "https://image.cnbcfm.com/api/v1/image/106365286-1580420465213preview-2.jpg?v=1595268430"
+        width: 3915
+        height: 2534
         isCached: true
-  - title: "Webinar: Transforming Business Models with System Soft Technologies and Microsoft Azure"
-    excerpt: "(GLOBE NEWSWIRE) -- System Soft Technologies (SSTech), a leader in enterprise IT services, solutions and products, today announced the company is making available its recent webinar about how organizations are using Microsoft Azure Cloud Services to enhance their business operations and spur growth during these uncertain economic times."
-    publishedDateTime: 2020-10-07T16:00:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-north-america-products-and-services-abd7775219a08f49fc7dd2b81b837978"
+  - title: "IBM Splits Itself in Two"
+    excerpt: "Big Blue is splitting its operations as part of an ongoing effort to become the world's top hybrid cloud and artificial intelligence (AI) provider."
+    publishedDateTime: 2020-10-08T21:36:00Z
+    webUrl: "https://rcpmag.com/articles/2020/10/08/ibm-splits-itself-in-two.aspx"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 46
+      name: Redmond Channel Partner
+      domain: rcpmag.com
+    quality: 24
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
+      - url: "https://rcpmag.com/-/media/ECG/visualstudiomagazine/Images/introimages/130724VSMWardSplit_v2.jpg"
+        width: 647
         height: 450
-        isCached: true
-  - title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
-    excerpt: "Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce its availability in the Microsoft"
-    publishedDateTime: 2020-10-06T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace/article_190f285f-3d77-5572-818c-015780303762.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 43
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/e1/ce1c5bc4-2af1-5b01-9b65-205e791e28d4/5f7c7229dcab8.image.jpg?resize=400%2C242"
-        width: 400
-        height: 242
-        isCached: true
-  - title: "ZEISS joins Microsoft for data-driven healthcare"
-    excerpt: "ZEISS, a German manufacturer of optical systems and optoelectronics, and Microsoft has inked a multi-year strategic partnership for better patient care through data-driven healthcare and enhance quality and efficiency in manufacturing by embracing a cloud-first approach."
-    publishedDateTime: 2020-10-08T17:32:00Z
-    webUrl: "https://www.sify.com/movies/zeiss-joins-microsoft-for-data-driven-healthcare-news-bollywood-ukigPvegbiagc.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 36
-  - title: "Dicom Systems Launches Enterprise Imaging Platform in the Microsoft Azure Marketplace, Deploys to a Leading National IDN"
-    excerpt: "Dicom Systems, a healthcare IT software company, today announced the availability of Unifier enterprise imaging platform for medical imaging workflow, archiving, cloud, and"
-    publishedDateTime: 2020-10-07T14:15:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dicom-systems-launches-enterprise-imaging-platform-in-the-microsoft-azure-marketplace-deploys-to-a-leading/article_dcf4caba-5bac-5aa8-942c-3e8e9c466f58.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 29
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/6/23/62336a11-eb80-54ab-be04-d9531f8f95d7/5f7dca1e645b2.image.jpg?resize=400%2C327"
-        width: 400
-        height: 327
         isCached: true
 
 secured: "bZ/rMfC31P5fB0IEsMcJLQJMgl/7ySWS6G6yW5ayx/wxSvd9KGpYOPgb3KojE4rQD3ou5HQ3bXvDs8nYqDpxSmbCZAw3Vs3fBSJIZ5c5jBrP5et3+lKLeKlC4t9UP2MPhdd0tTKcNPKyvBkcR6dMpmx9x8PsndSiOiAfdZ61w4d7zAeXSGzoJUPWeaCiH+GAcyCVa45hgnq0PTYHXejx0eW8ASi/lySjy1thfqG8E0/PZQvLZGZcbClipK4I905pgjg7pyYjjOuNI/3BuXRTFZVtYMPb2IY394fPxAnKUrdYXwwqf9Rsvq+H0E7SoI0gYi6YQKmveQYkmh+NHgeXc6pbJX5D8GdfeYOH67c3/M/3u2Bh2JE/apZNHS2tqdx+tiOnAgvSS9jdBrBWsvy80WQLX3dbhPHnqCC3NerO8lJt7DcOp5pvVrdXiitJe3Z/9qkxm0QwaD3gNX1fWNPC7xyu06f9aXw9o6XauPrTvZHGu3ck6Z3C2HhmAp7Dz1B6M70Y/DXi5z5gjv2e+6DFuQ==;mFq1D/IWnsiblPc3b99hug=="

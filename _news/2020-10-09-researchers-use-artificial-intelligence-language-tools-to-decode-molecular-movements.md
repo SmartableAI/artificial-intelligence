@@ -52,7 +52,7 @@ related:
     provider:
       name: Tunisie Soir
       domain: tunisiesoir.com
-    quality: 46
+    quality: 48
     images:
       - url: "https://www.tunisiesoir.com/wp-content/uploads/2020/10/Biology-UMD-researchers-use-artificial-intelligence-language-tools-to-decode.jpg"
         width: 707

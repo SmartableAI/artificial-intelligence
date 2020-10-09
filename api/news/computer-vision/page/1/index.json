@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-09-buenos-aires-is-using-facial-recognition-system-that-tracks-child-suspects-rights-group-says.md",
+      "title": "Buenos Aires is using facial recognition system that tracks child suspects, rights group says",
+      "excerpt": "The country has made public the warrants of children wanted for alleged crimes, in violation of international law, according to Human Rights Watch.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/world/2020/10/09/argentina-facial-recognition-juvenile-suspects/",
+      "originalUrl": "https://www.washingtonpost.com/world/2020/10/09/argentina-facial-recognition-juvenile-suspects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PFIWNYXZEQI6VBPXLFARRCUYZU.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/world/2020/10/09/argentina-facial-recognition-juvenile-suspects/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/2020/10/09/argentina-facial-recognition-juvenile-suspects/?outputType=amp",
+      "publishedDateTime": "2020-10-09T06:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-09-imposter-idd-with-facial-recognition-technology-at-local-airport.md",
       "title": "Imposter ID'd With Facial Recognition Technology At Local Airport",
       "excerpt": "With the help of the Simplified Arrival process, customs officials detected a traveler's mismatched documents at Washington Dulles Airport.",
@@ -1394,48 +1436,6 @@
       "provider": {
         "name": "Business Wire",
         "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-ai-is-reshaping-the-way-we-buy-sell-and-value-homes.md",
-      "title": "AI is reshaping the way we buy, sell and value homes",
-      "excerpt": "Algorithms and computer vision can help people narrow choices when looking to buy a home. The housing market continues to defy gravity. Sales of existing homes rose more than 10% last month ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketplace.org/shows/marketplace-tech/artificial-intelligence-housing-market-computer-vision-real-estate/",
-      "originalUrl": "https://www.marketplace.org/shows/marketplace-tech/artificial-intelligence-housing-market-computer-vision-real-estate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketplace.org/wp-content/uploads/2019/05/MP_show-1.png?w=300",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.marketplace.org/shows/marketplace-tech/artificial-intelligence-housing-market-computer-vision-real-estate?amp",
-      "cdnAmpWebUrl": "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/artificial-intelligence-housing-market-computer-vision-real-estate?amp",
-      "publishedDateTime": "2020-09-23T03:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marketplace",
-        "domain": "marketplace.org",
         "images": null,
         "publishers": null,
         "authors": null

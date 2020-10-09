@@ -7,7 +7,7 @@ originalUrl: "https://www.bioworld.com/articles/498579-ai-machine-learning-could
 webUrl: "https://www.bioworld.com/articles/498579-ai-machine-learning-could-help-tailor-opioid-treatment-reduce-addiction-risk"
 type: article
 quality: 51
-heat: 61
+heat: 51
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     width: 847
     height: 635
     isCached: true
-
-related:
-  - title: "AI predicts patients at highest risk for severe pain, increased opioid use post-surgery"
-    excerpt: "Artificial intelligence (AI) used in machine learning models can predict which patients are at highest risk for severe pain after surgery, and help determine who would most benefit from personalized pain management plans that use non-opioid alternatives,"
-    publishedDateTime: 2020-10-04T19:24:00Z
-    webUrl: "https://medicalxpress.com/news/2020-10-ai-patients-highest-severe-pain.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-10-ai-patients-highest-severe-pain.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-ai-patients-highest-severe-pain.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 29
 
 secured: "Hhx9j25rCfZJ+ZVr28gVsDbq/YKE+Lj06/fsFOT8c2YM9Zi9DzuTSXJDWyO3yCi0jikVYtWc+hqDyuVDDCultuDczoRq/UjvHeglQeoBUzt+/WoUuVKsyRItZqOiQ6jDK9EqU9WdbjF+N9t355W5prI4vfj2HjhoMfZUFQeJHOgdQcshj7lhuR0BKNGU9byqxgvv1tCsek7LCvlZBNxsEdp8CRCDspHqYGCcA/JZ7m0xC41oe0yQJ6gL5FhJvKIPIUl0is3tRrYK259EzeAiK6djGhSwn4bgW9u4wqhmYlZW7pnMYeJFvdWwN9fk0kp4DDdIkD+NO1KqH45pyV0pGghdC+n1EzA+/AhBtV2mrS8kHqQwiMQMpbPwtmBdmuFAk1MCb+iD+PVy7OPkUrYj9zBdZGQbk1RotMEyD5ZEtd0iyZtJlgJsLfadpQXPeELOkzSiodbiDJ7qc1OFvGNDHz3NJ73zddU8XT7iA92xvcBObGumHBydkqvTeF4LPjh+0bYmGgPnd6SP9OVltgTlPg==;DL8AiLiFOPfQ9gsamT3Rqg=="
 ---

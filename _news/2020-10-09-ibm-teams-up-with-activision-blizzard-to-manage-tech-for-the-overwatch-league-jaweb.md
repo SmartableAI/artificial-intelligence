@@ -59,6 +59,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "IBM enters the esports fray with Overwatch League partnership"
+    excerpt: "IBM has announced its debut into the esports arena through a multi-year deal inked with the Overwatch League.  Esports is roughly described as competitive videogaming, team-based play, and digital tournaments."
+    publishedDateTime: 2020-10-09T11:56:00Z
+    webUrl: "https://www.zdnet.com/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 54
   - title: "IBM Enters Esports With Overwatch League Sponsorship"
     excerpt: "... year deal to become the official AI, cloud and analytics sponsor of the Overwatch League. The deal, which runs through the 2022 OWL season, marks the first time IBM has partnered with an esports league. IBM Watson’s AI capabilities will be used to ..."
     publishedDateTime: 2020-10-09T07:03:00Z

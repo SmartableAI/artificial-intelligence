@@ -57,6 +57,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "IBM enters the esports fray with Overwatch League partnership"
+    excerpt: "IBM has announced its debut into the esports arena through a multi-year deal inked with the Overwatch League.  Esports is roughly described as competitive videogaming, team-based play, and digital tournaments."
+    publishedDateTime: 2020-10-09T11:56:00Z
+    webUrl: "https://www.zdnet.com/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 54
   - title: "IBM teams up with Activision Blizzard to manage tech for the Overwatch League – Jaweb"
     excerpt: "IBM will manage the technology for Activision Blizzard’s Overwatch League in a sign that esports is starting to demand the most sophisticated cloud and AI technologies. The idea is to put esports on the road to being a mainstream phenomenon alongside traditional sports."
     publishedDateTime: 2020-10-09T05:42:00Z
@@ -102,6 +113,6 @@ related:
         height: 347
         isCached: true
 
-secured: "bwj7AvN5vIeo4XefbrFbwIVx4NBOOYCReGzH5V2BAg59LlQzFOXuOZ4JMhfGcLWMRp1B6wGpqYSkamm12XblXO7yEFFuuOXs2FDY1wmND9DXrMFL4hmfoYI1k/G8yyVFqBVF7u2LC8wyeQuTYjey5BwfNu/fzoYbeuvCpyyKhzggBYC7wkoXq/Ha1LpsFsKjuHiWSC6OhboB4fK3h3b2xviCUe0+o3faX1B0QGmhaDB8Xn6Mx6tGV4aBqg0Cu+6QodeS0UYzuOLRlyYN2OfQnaYfmpuQL9WP9gkiopnh7HfbZMyTdxit0+b93IXBLRktp9H9iOyg1WhxFDBieWK9/8bhAyDXnZE+IA/0YlEQ3bI=;S9e2fL96/ZR5gd8WUoFg5A=="
+secured: "7Lwd4W74paZFCI02ibb3e05iBRHDKhJA/vHXrC5C27mwpXWZ4FNbD3XgxzV+/9icbzMoSD63O6AQV7gIeWz3aFRem4pxI2/pC4I1EXEd7BgUt7iGzQHwqrl6NYfdxP25XoiNc5ppAYVLB/cqdIuNRcxYe7HWdXi1HIQ5Nh368JD1o4guPpOME+x4rI9u+SpV+lKgE2TZd5aVcX+AiT+bl7ScgagSr1fkUyLmkCQXGscuA8UgK2WPprZmjIMBEdJmDyYPoOiP3q7j3tMgnehag8l7fCW2+X36SvS6c2YqPw3E5vrfeTAZGGahphXKga66POZCZXLZUVg4DhBIhHKkfmunjqI6YEw9kBCanzPPGTg=;wNuNd7jMldu2OdbEscZy9g=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/tamr-announces-the-only
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406"
 type: article
 quality: 80
-heat: -1
-published: false
+heat: 150
+published: true
 
 provider:
   name: Business Insider
@@ -26,22 +26,6 @@ topics:
   - AWS AI
 
 related:
-  - title: "IBM spinning off legacy IT business to step up cloud competition with Amazon, Microsoft"
-    excerpt: "In IBM chief executive officer Arvind Krishna’s first big move, he is spinning off a slower-growth business that manages corporate computer systems so the tech giant can focus on the boom in demand for cloud services and step up competition with Amazon and Microsoft."
-    publishedDateTime: 2020-10-09T06:44:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3104787/ibm-spin-legacy-it-business-step-cloud-competition-amazon-microsoft"
-    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3104787/ibm-spin-legacy-it-business-step-cloud-competition-amazon-microsoft"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3104787/ibm-spin-legacy-it-business-step-cloud-competition-amazon-microsoft"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 83
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/10/09/5bd7ae50-09d2-11eb-afc8-92e0da0ef1c3_image_hires_095827.jpg?itok=DVVdPC5n&v=1602208714"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
     excerpt: "Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce its availability in the Microsoft Azure Marketplace. Granulate's solution helps companies optimize workload performance and enables businesses to cut computing costs while improving performance with no code changes to their application."
     publishedDateTime: 2020-10-07T02:09:00Z
@@ -104,6 +88,20 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 36
+  - title: "Scality Announces 1 Terabit Per Second Performance for Scale-Out File System in Microsoft Azure Public Cloud"
+    excerpt: "Scality, a leader in software solutions for distributed file and object storage, today announced the technical preview of its high-performance scale-out file system (SOFS) in Microsoft Azure. Scality SOFS running in Azure delivers linear scaling performance for read- and write-intensive workloads."
+    publishedDateTime: 2020-10-06T02:26:00Z
+    webUrl: "https://www.totaltele.com/507362/Scality-Announces-1-Terabit-Per-Second-Performance-for-Scale-Out-File-System-in-Microsoft-Azure-Public-Cloud"
+    type: article
+    provider:
+      name: Total Telecom
+      domain: totaltele.com
+    quality: 35
+    images:
+      - url: "https://www.totaltele.com/res/image/articleimages/5g-icon-hpe.png"
+        width: 576
+        height: 583
+        isCached: true
   - title: "Dicom Systems Launches Enterprise Imaging Platform in the Microsoft Azure Marketplace, Deploys to a Leading National IDN"
     excerpt: "Dicom Systems, a healthcare IT software company, today announced the availability of Unifier enterprise imaging platform for medical imaging workflow, archiving, cloud, and"
     publishedDateTime: 2020-10-07T14:15:00Z

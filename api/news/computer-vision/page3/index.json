@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-11-pardon-the-intrusion-26-facial-recognition-thats-a-no-from-me-dog.md",
+      "title": "Pardon the Intrusion #26: Facial recognition? That’s a no from me, dog",
+      "excerpt": "Portland, Oregon has become the first US city to ban the use of facial recognition tech by both public and private businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/newsletter/2020/09/11/pardon-the-intrusion-26-facial-recognition-thats-a-no-from-me-dog/",
+      "originalUrl": "https://thenextweb.com/newsletter/2020/09/11/pardon-the-intrusion-26-facial-recognition-thats-a-no-from-me-dog/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 239,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/09/ptl-newsletter-hed-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/newsletter/2020/09/11/pardon-the-intrusion-26-facial-recognition-thats-a-no-from-me-dog/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/newsletter/2020/09/11/pardon-the-intrusion-26-facial-recognition-thats-a-no-from-me-dog/amp/",
+      "publishedDateTime": "2020-09-10T19:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-11-skin-like-sensors-and-ai-offer-surprisingly-accurate-hand-gesture-recognition.md",
       "title": "Skin-Like Sensors and AI Offer (Surprisingly) Accurate Hand Gesture Recognition",
       "excerpt": "Scientists in Singapore have developed an AI system that recognizes hand gestures by combining wearable skin-like sensors with computer vision. Human hand gesture recognition systems have come a long way over the last decade. Today, the technology lends ...",
@@ -1308,57 +1359,6 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-cbp-does-not-make-it-clear-americans-can-opt-out-of-airport-face-scanning-watchdog-says.md",
-      "title": "CBP does not make it clear Americans can opt-out of airport face scanning, watchdog says",
-      "excerpt": "But the Government Accountability Office (GAO) said in a new report out Wednesday that CBP did “not consistently” provide notices that informed Americans that they would be scanned as they depart the United States.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/02/customs-border-protection-airport-border-face-data/",
-      "originalUrl": "https://techcrunch.com/2020/09/02/customs-border-protection-airport-border-face-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1027974140.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/02/customs-border-protection-airport-border-face-data/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/02/customs-border-protection-airport-border-face-data/amp/",
-      "publishedDateTime": "2020-09-02T12:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

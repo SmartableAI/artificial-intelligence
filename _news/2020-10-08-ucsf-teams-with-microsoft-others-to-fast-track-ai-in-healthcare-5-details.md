@@ -75,18 +75,18 @@ related:
         height: 674
         isCached: true
   - title: "Microsoft, chip maker Arm to boost AI innovation for IoT devices"
-    excerpt: "SoftBank-owned UK chip maker Arm has partnered with Microsoft to create Azure-based tools to enable developers transfer data from Arm-based Internet of Things (IoT) devices to Azure Cloud. The partner"
-    publishedDateTime: 2020-10-09T07:20:00Z
-    webUrl: "https://www.dailypioneer.com/2020/technology/microsoft--chip-maker-arm-to-boost-ai-innovation-for-iot-devices.html"
+    excerpt: "devices to Azure Cloud. The partnership will enable developers to easily target a broad range of Arm-based devices like intelligent computer-vision-enabled cameras, connected vehicles, AI gateways and intelligent appliances. With over 30 billion active IoT ..."
+    publishedDateTime: 2020-10-09T08:45:00Z
+    webUrl: "https://www.siliconindia.com/news/general/Microsoft-chip-maker-Arm-to-boost-AI-innovation-for-IoT-devices-nid-214287-cid-1.html"
     type: article
     provider:
-      name: The Pioneer
-      domain: dailypioneer.com
+      name: SiliconIndia
+      domain: siliconindia.com
     quality: 71
     images:
-      - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/microsoft--chip-maker-arm-to-boost-ai-innovation-for-iot-devices-2020-10-09.jpg"
-        width: 1000
-        height: 800
+      - url: "https://www.siliconindia.com/news/newsimages/0wl6F15f.jpg"
+        width: 570
+        height: 367
         isCached: true
   - title: "Microsoft's Flywheel Kicks Into Gear at Ignite 2020"
     excerpt: "While reflecting an important customer priority at the moment, it also highlights the investment Microsoft is making in driving integrations across its cloud businesses. The strengthening of the connective tissue between Microsoft’s array of products — across Teams,"

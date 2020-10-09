@@ -62,6 +62,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "15 Important Factors In Building A More Human-Centric AI Application"
+    excerpt: "As the technology behind artificial intelligence evolves, developers must continue to consider one of the primary goals of AI development: to make it more “human” than “artificial.”"
+    publishedDateTime: 2020-10-09T12:14:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/09/15-important-factors-in-building-a-more-human-centric-ai-application/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/09/15-important-factors-in-building-a-more-human-centric-ai-application/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/09/15-important-factors-in-building-a-more-human-centric-ai-application/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7f37ac272eb96e41c134f6%2F0x0.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How man and machine can work together in the age of AI"
     excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Jens Martin Skibsted, Partner, Manyone A/S In reskilling"
     publishedDateTime: 2020-10-08T17:34:00Z
