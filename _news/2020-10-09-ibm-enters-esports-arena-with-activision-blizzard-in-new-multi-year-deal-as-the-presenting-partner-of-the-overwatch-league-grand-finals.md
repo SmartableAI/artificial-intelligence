@@ -73,7 +73,21 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "IBM Enters Esports With Overwatch League Sponsorship"
+    excerpt: "... year deal to become the official AI, cloud and analytics sponsor of the Overwatch League. The deal, which runs through the 2022 OWL season, marks the first time IBM has partnered with an esports league. IBM Watson’s AI capabilities will be used to ..."
+    publishedDateTime: 2020-10-09T07:03:00Z
+    webUrl: "https://www.sporttechie.com/ibm-enters-esports-with-overwatch-league-sponsorship"
+    type: article
+    provider:
+      name: SportTechie
+      domain: sporttechie.com
+    quality: 24
+    images:
+      - url: "https://sporttechie-dev.s3.amazonaws.com/Important%20Data/sporttechie-image.png"
+        width: 1200
+        height: 675
+        isCached: true
 
-secured: "I53benwV5RymyQuGBIrx10/Z0/W4p+iTRyKlCINomr2VIrDnoYd2a9ofzC0ycaNfshPbb5aJpMlZG6Q3ppuGHsOgKF+mrRlec6gg40OPXp6emjersFWpe12JQcfs6Yr9v6RRpRCyRiH+jt6c5X4YF3nwt3HMA7ZqaGEUpn+8uOZl4DIX/EiJnXatntzJwJJWqgHqhnQ1enlx9NnslEpDikvz3/jJe87xpSRF3327LZYMBeyaqAAiMcll9qvM1RJae+aNqyDhBjZYCWR2til4vEb7xaCXCLqCWv+yhFM9hZvthXzsd2c/4q9j7I2D8aruIAQqCKrqHlK4E8qRguTqiYhbsRIiDTWibeQLF1V46Z8=;ERZIqBLzb+GVPie4pJ8ayw=="
+secured: "S7oSw7Byr9U9GNXIWRVQ/XhJ0nseS3aywwOLWZa57VM9xvtRToUhcIOAbafjaoCaapNQPPJSxKT09rdV6yJC+M5sa6bNaAOhcFQYvxvy2vfzgP1HNE0R50NY6Pk6GT1V5VifBGppTB4I8TjrD/LCNH5jF7RF6mY69BM8EWg3tYKWMVd+t1sT3+j1TyxsH1WEIt3Ble/OCC4T34rMIyMkETNw5MZFblg3zUg4qpr+8JZbogm6DIUid3DWSyV1ZUJ/jhXgfzi5FPCvFV6i9VPtIxR0YmnSYSWesalT0Z9O+lY7YDUD6ud0fgha/l9a2sJUAJnpUx3BvV6K+mERHHgBPFyGsK6PxrgG7ghta/9HrrQ=;/+ccM9/eeHQTCeTwCcwPqw=="
 ---
 

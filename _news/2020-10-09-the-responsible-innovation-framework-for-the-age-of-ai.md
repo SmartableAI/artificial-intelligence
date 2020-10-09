@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innov
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How Do We Accelerate Endpoint AI Innovation? Put Developers First"
+    excerpt: "Dipti Vachani reveals how together with Microsoft, Arm is optimizing the developer experience with streamlined, scalable tools that put creativity first"
+    publishedDateTime: 2020-10-08T15:58:00Z
+    webUrl: "https://www.arm.com/blogs/blueprint/arm-microsoft-ai"
+    type: article
+    provider:
+      name: ARM architecture
+      domain: arm.com
+    quality: 39
+    images:
+      - url: "https://www.arm.com/blogs/blueprint/wp-content/uploads/2020/10/dipti_topimg.jpg"
+        width: 1940
+        height: 980
+        isCached: true
   - title: "A framework for automation in financial services"
     excerpt: "Global Industry Leads at Appian The financial services (FS) sector is currently experiencing one of the most challenging periods in history. The ongoing Covid-19 pandemic, fierce competition amongst fintech challengers and the encroachment of large technology platforms have made it necessary for banks and insurers to react in order"
     publishedDateTime: 2020-10-05T10:49:00Z
@@ -76,6 +90,6 @@ related:
         height: 422
         isCached: true
 
-secured: "y9tMpLuI7nr4ki/IMbnFso1m0Qk+ZhiitHJ630c2qUv1RVL92G2IzOc1SB71F2ANDy+l1ThliwOU5cIpw+MV4FEzaUeFZML2n+G/4jswepXUFiMOEz0g0GnxzWpOf5zsdfgNTE/bdFvVgEQu1mgfi/jrFwFFoveor+5JCqC/K+WxwKYbaD7ETyHLEuQWE9Bp7e2tYiwd8x5EsYhtY+N208Z58lc8jDgixhk26gsVs51bt4m/H3h4mZOyWrKhj28tnPPqXTXQQqcHQEV3pr2SgNIzFgvss+SktAjFNoJOTg91XJrPBeB/kjzlPcGX04XrRnA0p1t6b/sJQUzv0JVWt6WoRNayQMzKkvA4fOd8xf0=;H00itm7hSrzzCvms/n2Ewg=="
+secured: "JZFy1jgKhHgwWmbIztHKFUaHk5pyWdDKXJgbgJ+ju4dhMLu5t6N8Qn2F36YazpR1QKLiGRQe8+topKnqcp15FsWPlxtck6e3rfB5y+Na0h5Y6S5tBl6LJv2fJyGgTDV8WaKy0wIVpF/GVpe2+F+vGI1Q7AjRIYL/gYknBkiKmtSRZyo4CgZAS6+cXIcxS9hpNQu9D6wfbOmCZCa+zG2ZcF60u2ESPrhcvXrlwWkU1Yt7VBEneiIP6Pg0S7gbECwgedVvIAcUw1syqX/ZjEpgDOudDDCru8XCfUMHaANnBNmYkVsEvsRMEvXWbRzWaQHoJ2S3jrJf5de1sHkyTsE5dN+OlhI87VWsqNR4plKkyKbGspbLAu60rW8VsR4fkx+/ZMYk6+zaP6L2D+4y5XBtYf/Hl9Dd0kUXHzsWPV/2+BprTPNqlLdsqBhF/AtMX5HHBv1pspol7CWDNb64ZdX2B0UOuL91jqQCiOi5XzOlPfPWZS4QrrVvDsnytyATjcY+EQ57KtdGFMefeYYDOURe6Q==;kORaZGpcURLLRWwYnH61SQ=="
 ---
 

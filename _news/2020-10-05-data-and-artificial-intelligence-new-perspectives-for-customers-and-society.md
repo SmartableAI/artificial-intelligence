@@ -27,9 +27,9 @@ related:
   - title: "Robot reapers and AI: Just another day on the farm"
     excerpt: "Technology is now enabling farmers to manage each section of the farm based on its unique conditions and needs. A good example of this in action is the spraying of herbicides, which had traditionally been done at the same rate across the whole field."
     publishedDateTime: 2020-10-07T12:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/robot-reapers-and-ai-just-another-day-on-the-farm/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/robot-reapers-and-ai-just-another-day-on-the-farm/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/robot-reapers-and-ai-just-another-day-on-the-farm/"
+    webUrl: "https://www.zdnet.com/article/robot-reapers-and-ai-just-another-day-on-the-farm/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/robot-reapers-and-ai-just-another-day-on-the-farm/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robot-reapers-and-ai-just-another-day-on-the-farm/"
     type: article
     provider:
       name: ZDNet

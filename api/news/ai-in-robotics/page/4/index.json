@@ -2,90 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-09-10-centre-for-artificial-intelligence-and-robotics.md",
-      "title": "Centre for Artificial Intelligence and Robotics",
-      "excerpt": "Read all the latest news, breaking stories, top headlines, opinion, pictures and videos about Centre for Artificial Intelligence and Robotics from Nigeria and the world on today.ng",
-      "sourceUrl": null,
-      "webUrl": "https://www.today.ng/topic/centre-for-artificial-intelligence-and-robotics",
-      "originalUrl": "https://www.today.ng/topic/centre-for-artificial-intelligence-and-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.today.ng/wp-content/uploads/2019/08/14053638.png",
-          "width": 700,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.today.ng/topic/centre-for-artificial-intelligence-and-robotics/amp",
-      "cdnAmpWebUrl": "https://www-today-ng.cdn.ampproject.org/c/s/www.today.ng/topic/centre-for-artificial-intelligence-and-robotics/amp",
-      "publishedDateTime": "2020-09-10T01:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TODAY",
-        "domain": "today.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-covid-19-impact-recovery-analysis-global-artificial-intelligence-market-in-agriculture-industry-2020-2024-evolving-opportunities-with-ag.md",
-      "title": "COVID-19 Impact & Recovery Analysis | Global Artificial Intelligence Market in Agriculture Industry 2020-2024 | Evolving Opportunities With Ag Leader Technology and aWhere Inc ...",
-      "excerpt": "The global artificial intelligence market in agriculture industry is expected to grow by USD 205.87 million as per Technavio. This marks a significant market growth compared to the 2019 growth estimates due to the impact of the COVID-19 pandemic in the first half of 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200909005696/en/COVID-19-Impact-Recovery-Analysis-Global-Artificial-Intelligence-Market-in-Agriculture-Industry-2020-2024-Evolving-Opportunities-With-Ag-Leader-Technology-and-aWhere-Inc.-Technavio",
-      "originalUrl": "https://www.businesswire.com/news/home/20200909005696/en/COVID-19-Impact-Recovery-Analysis-Global-Artificial-Intelligence-Market-in-Agriculture-Industry-2020-2024-Evolving-Opportunities-With-Ag-Leader-Technology-and-aWhere-Inc.-Technavio",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200909005696/en/819671/23/IRTNTR43307.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-09T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-10-i-have-no-desire-to-wipe-out-humans-robot-writes-in-ominous-op-ed.md",
       "title": "‘I have no desire to wipe out humans,’ robot writes in ominous op-ed",
       "excerpt": "OpenAI’s powerful new language generator, saying exactly what a robot intending to destroy humans might say. In an op-ed for The Guardian — yes, robots write op-eds now — GPT-3 was told to write an essay convincing readers that the machines come in peace.",
@@ -1347,6 +1263,91 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-amazons-top-robotics-engineer-joins-ai-startup-scale.md",
+      "title": "Amazon’s Top Robotics Engineer Joins AI Startup Scale",
+      "excerpt": "Brad Porter, who recently defended working conditions at Amazon warehouses, leaves to run Scale’s tech division.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bnnbloomberg.ca/amazon-s-top-robotics-engineer-joins-ai-startup-scale-1.1487380",
+      "originalUrl": "https://www.bnnbloomberg.ca/amazon-s-top-robotics-engineer-joins-ai-startup-scale-1.1487380",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.bnnbloomberg.ca/polopoly_fs/1.1487381!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/brad-porter-vice-president-of-robotics-for-amazon-com-inc-speaks-during-a-prime-air-delivery-drone-reveal-event-in-las-vegas-nevada-u-s-on-wednesday-june-5-2019-amazon-com-inc-has-unveiled-a-revolutionary-new-drone-part-helicopter-and-part-science-fiction-aircraft-that-the-company-expects-to-use-for-test-deliveries-of-toothpaste-and-other-household-goods-starting-within-months.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bnnbloomberg.ca/amazon-s-top-robotics-engineer-joins-ai-startup-scale-1.1487380.amp.html",
+      "cdnAmpWebUrl": "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/amazon-s-top-robotics-engineer-joins-ai-startup-scale-1.1487380.amp.html",
+      "publishedDateTime": "2020-09-01T19:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bnnbloomberg",
+        "domain": "bnnbloomberg.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-meet-misty-ii-the-robot-as-a-platform-not-a-tool.md",
+      "title": "Meet Misty II: The Robot As a Platform, Not a Tool",
+      "excerpt": "At its core, Misty II is driven by a deep learning processor capable of a variety of machine learning tasks, such as facial and object recognition, distance detection, spatial mapping, and sound and touch sensing. Developers can also 3D print (or even ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/meet-misty-ii-robot-platform-not-tool",
+      "originalUrl": "https://www.designnews.com/electronics-test/meet-misty-ii-robot-platform-not-tool",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Misty%202_%20DevDeskMistyOnly.jpg",
+          "width": 6586,
+          "height": 4391,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

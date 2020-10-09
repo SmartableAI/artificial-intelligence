@@ -7,7 +7,7 @@ originalUrl: "https://www.advisor.ca/my-practice/technology/outcome-based-invest
 webUrl: "https://www.advisor.ca/my-practice/technology/outcome-based-investments-and-other-fintech-to-watch/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "CIG Capital's Charles D. Carey on the lending-based revolution of project finance || FinTech Magazine"
-    excerpt: "The financial services landscape is changing rapidly, and, in these turbulent times, investment companies can be inclined to focus solely"
-    publishedDateTime: 2020-10-07T11:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/cig-capitals-charles-d-carey-on-the-lending-based-revolution-of-project-finance--fintech-magazine-301146927.html"
+  - title: "AI in Fintech Market 2020 Status and Outlook Growth"
+    excerpt: "AI in Fintech Market Size 2020 Analysis Trends Top Manufacturers Growth Statistics Porters Five Forces and SWOT Analysis Opportunities and Forecast California The qualitative research study by Data Bridge Market Research titled AI in Fintech market size is expected to"
+    publishedDateTime: 2020-10-09T07:33:00Z
+    webUrl: "https://www.openpr.com/news/2153314/ai-in-fintech-market-2020-status-and-outlook-growth-challenges"
+    ampWebUrl: "https://www.openpr.com/amp/2153314/ai-in-fintech-market-2020-status-and-outlook-growth-challenges"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2153314/ai-in-fintech-market-2020-status-and-outlook-growth-challenges"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
+    images:
+      - url: "https://cdn.openpr.com/T/a/Ta09134345_g.jpg"
+        width: 800
+        height: 480
+        isCached: true
+  - title: "F|T: The FinTech Times – Pandemic plutocrats"
+    excerpt: "Welcome to the FinTech Times, a weekly newsletter covering the biggest FinTech news from around the globe. If you want to read F|T before anyone else, make sure to subscribe using the form at the bottom of this page."
+    publishedDateTime: 2020-10-05T10:02:00Z
+    webUrl: "https://betakit.com/ft-the-fintech-times-pandemic-plutocrats/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
     quality: 24
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://cdn.betakit.com/wp-content/uploads/2019/05/fintechtimes-1-1-1-1-1024x575.png"
+        width: 1024
+        height: 575
+        isCached: true
+  - title: "The limitless innovation in the fintech environment"
+    excerpt: "By Stefan Pajkovic, CEO at TradeCore Innovation is no barrier for tech companies. Large organisations are known for pushing the boundaries, especially when it comes to developing new products or services to disrupt the market."
+    publishedDateTime: 2020-10-07T09:28:00Z
+    webUrl: "https://www.globalbankingandfinance.com/the-limitless-innovation-in-the-fintech-environment/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 24
+    images:
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/10/Untitled-design-2020-10-07T143803.769.jpg"
+        width: 750
+        height: 422
         isCached: true
 
 secured: "RQ3F8DovMALJs/yrAO6RT/eM6FgtZSBJNBgnD9NXy4sXeQ5KV/ELDApTAUr02FsuLu9816CQeLGykMJu4NLwpfMfx05au2UzHr+BwYDJqbB6rbytKjWasxbno8cmJeAq++Vtd3IaUKmv0VQ8cEQqk852QQy3tV5SokYD9mALl5aSloq8zn69bdmTTrPTg7BGUt07StisWfVTcrBbkPrAQYnGOl0qd/af785TN9hgrBMFL/SzJWdbyHMQ3CexAAG7Krfm9GJK1zbwy74iY46LG59PHdENN5nXWoUHHi56JZhq610LTSyagtA6wleZ6Xz4v4j3X5KMXOA9aLPZGiSWEgewCSegtsAZpIyckKm5W+A=;hrdQC7AfuXWlpTu8YRbOaw=="

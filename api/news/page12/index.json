@@ -2,6 +2,81 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-09-28-ai-artificial-intelligence-chip-market.md",
+      "title": "AI (Artificial Intelligence) Chip Market",
+      "excerpt": "The latest study on the AI Artificial Intelligence Chip market published by the Reports and Data offers a deep understanding of the various market dynamics such as the challenges drivers trends and opportunities The report further elaborates on the micro",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2144662/ai-artificial-intelligence-chip-market-scope-and-growing",
+      "originalUrl": "https://www.openpr.com/news/2144662/ai-artificial-intelligence-chip-market-scope-and-growing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/9/T928328884_g.jpg",
+          "width": 650,
+          "height": 303,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2144662/ai-artificial-intelligence-chip-market-scope-and-growing",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2144662/ai-artificial-intelligence-chip-market-scope-and-growing",
+      "publishedDateTime": "2020-09-28T05:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-worldwide-voice-recognition-biometrics-market-is-forecast-to-grow-by-usd-260-billion-during-2020-2024-progressing-at-a-cagr-of-19.md",
+      "title": "Worldwide Voice Recognition Biometrics Market is Forecast to Grow by USD 2.60 Billion During 2020-2024, Progressing at a CAGR of 19%",
+      "excerpt": "The \"Global Voice Recognition Biometrics Market 2020-2024\" report has been added to ResearchAndMarkets.com's offering. The voice recognition biometrics market is poised to grow by USD 2.60 billion during 2020-2024 progressing at a CAGR of 19% during the forecast period.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/09/g17674891/worldwide-voice-recognition-biometrics-market-is-forecast-to-grow-by-usd-2-60-billion-during-2020-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/09/g17674891/worldwide-voice-recognition-biometrics-market-is-forecast-to-grow-by-usd-2-60-billion-during-2020-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17674891",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17674891",
+      "publishedDateTime": "2020-09-28T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-28-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-shares-purchased-by-stifel-financial-corp.md",
       "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Shares Purchased by Stifel Financial Corp",
       "excerpt": "Stifel Financial Corp increased its stake in shares of First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) by 18.9% in the 2nd quarter, according to its most recent 13F filing with the Securities and Exchange Commission (SEC).",
@@ -1054,99 +1129,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-ibm-smart-lineup-decisions-for-nfl-week-3.md",
-      "title": "IBM Smart Lineup Decisions for NFL Week 3",
-      "excerpt": "That's where IBM Insights comes in, as it uses Watson AI to break down all of the content you're consuming and then some. And by \"some,\" I mean every inch of the interwebs. Below are the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.espn.co.uk/fantasy/football/story/_/page/smartlineup200925/ibm-smart-lineup-decisions-nfl-week-2",
-      "originalUrl": "https://www.espn.co.uk/fantasy/football/story/_/page/smartlineup200925/ibm-smart-lineup-decisions-nfl-week-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0925%2Fr750975_1296x729_16%2D9.jpg",
-          "width": 1296,
-          "height": 729,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.espn.co.uk/fantasy/football/story/_/page/smartlineup200925/ibm-smart-lineup-decisions-nfl-week-2?platform=amp",
-      "cdnAmpWebUrl": "https://www-espn-co-uk.cdn.ampproject.org/c/s/www.espn.co.uk/fantasy/football/story/_/page/smartlineup200925/ibm-smart-lineup-decisions-nfl-week-2?platform=amp",
-      "publishedDateTime": "2020-09-25T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ESPN",
-        "domain": "espn.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-follow-the-leader-a-shortcut-to-autonomous-trucking.md",
-      "title": "Follow-the-leader: A shortcut to autonomous trucking",
-      "excerpt": "The order will equip 1,120 trucks with Locomation's convoy technology, which enables driverless trucks ... group of specialists in robotics and artificial intelligence along with trucking industry ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/follow-the-leader-a-shortcut-to-autonomous-trucking/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/follow-the-leader-a-shortcut-to-autonomous-trucking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/10/02/e94a8b84-1a90-4769-9cf5-e4ca9eada4a6/thumbnail/1200x675/c709c06b21f8abf2c522b622f5bdb8d9/after-successful-trial-autonomous-trucks-5f734947156d30063519746a-1-oct-02-2020-17-33-40-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/follow-the-leader-a-shortcut-to-autonomous-trucking/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/follow-the-leader-a-shortcut-to-autonomous-trucking/",
-      "publishedDateTime": "2020-09-25T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

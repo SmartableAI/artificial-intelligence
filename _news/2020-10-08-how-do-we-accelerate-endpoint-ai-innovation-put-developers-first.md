@@ -25,196 +25,66 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft, chip maker Arm to boost AI innovation for IoT devices"
-    excerpt: "New Delhi, Oct 9 (IANS) SoftBank-owned UK chip maker Arm has partnered with Microsoft to create Azure-based tools to enable developers transfer data from Arm-based Internet of Things (IoT) devices to Azure Cloud."
-    publishedDateTime: 2020-10-09T04:54:00Z
-    webUrl: "https://newsd.in/microsoft-chip-maker-arm-to-boost-ai-innovation-for-iot-devices/"
-    ampWebUrl: "https://newsd.in/microsoft-chip-maker-arm-to-boost-ai-innovation-for-iot-devices/amp/"
-    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/microsoft-chip-maker-arm-to-boost-ai-innovation-for-iot-devices/amp/"
+  - title: "The Responsible Innovation Framework For The Age Of AI"
+    excerpt: "This year, with facial recognition, privacy, and ethics gaining more attention in the marketplace, technology leaders are increasingly thinking about AI’s impact on people’s lives."
+    publishedDateTime: 2020-10-08T23:36:00Z
+    webUrl: "https://www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/amp/"
     type: article
     provider:
-      name: Newsd
-      domain: newsd.in
-    quality: 91
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://newsd.in/wp-content/uploads/2020/09/newsd-amp.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7f9c645440271868a67e29%2F0x0.jpg"
         width: 1200
-        height: 900
+        height: 986
         isCached: true
-  - title: "Microsoft parteners chip maker Arm to boost AI innovation for IoT devices"
-    excerpt: "SoftBank-owned UK chip maker Arm has partnered with Microsoft to create Azure-based tools to enable developers transfer data from Arm-based Internet of Things (IoT) devices to Azure Cloud"
-    publishedDateTime: 2020-10-09T05:56:00Z
-    webUrl: "https://www.business-standard.com/article/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html"
+  - title: "RAISE 2020: Responsible artificial intelligence for social empowerment"
+    excerpt: "India’s biggest AI summit RAISE 2020 seeks global collaboration for the development of an artificial intelligence ecosystem that is responsible for humanity and committed towards social empowerment."
+    publishedDateTime: 2020-10-05T09:42:00Z
+    webUrl: "https://yourstory.com/2020/10/responsible-ai-social-empowerment-raise-2020-ravi-shankar-prasad"
+    ampWebUrl: "https://yourstory.com/2020/10/responsible-ai-social-empowerment-raise-2020-ravi-shankar-prasad/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/10/responsible-ai-social-empowerment-raise-2020-ravi-shankar-prasad/amp"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 90
+      name: Your Story
+      domain: yourstory.com
+    quality: 74
     images:
-      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-09/29/full/1601348370-9773.jpg&width=1200"
+      - url: "https://images.yourstory.com/cs/2/a182c7e0140711e987e2f7248b252f46/Imagerbzg-1601891856082.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Responsible Artificial Intelligence for Social Empowerment"
+    excerpt: "Ravi Shankar Prasad Success of Digital India has set a new global benchmark for leveraging digital technologies for inclusive growth, good governance and"
+    publishedDateTime: 2020-10-05T19:08:00Z
+    webUrl: "https://www.dailyexcelsior.com/responsible-artificial-intelligence-for-social-empowerment/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 39
+    images:
+      - url: "https://www.dailyexcelsior.com/wp-content/uploads/2018/08/dailyexcelsior.jpg"
         width: 1200
-        height: 900
+        height: 630
         isCached: true
-  - title: "Tamr Announces the Only Cloud-Native Data Mastering Solutions for Google Cloud Platform, AWS, and Microsoft Azure"
-    excerpt: "PRNewswire/ -- Tamr, Inc., a cloud-native data mastering platform used by some of the world's largest enterprises"
-    publishedDateTime: 2020-10-07T13:35:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406"
+  - title: "A framework for automation in financial services"
+    excerpt: "Global Industry Leads at Appian The financial services (FS) sector is currently experiencing one of the most challenging periods in history. The ongoing Covid-19 pandemic, fierce competition amongst fintech challengers and the encroachment of large technology platforms have made it necessary for banks and insurers to react in order"
+    publishedDateTime: 2020-10-05T10:49:00Z
+    webUrl: "https://www.globalbankingandfinance.com/a-framework-for-automation-in-financial-services/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 80
-  - title: "Maxim Integrated's Neural Network Accelerator Chip Enables IoT Artificial Intelligence in Battery-Powered Devices"
-    excerpt: "PRNewswire/ -- The MAX78000 low-power neural network accelerated microcontroller from Maxim Integrated Products, Inc. (NASDAQ: MXIM) moves artificial intelligence (AI) to the edge without performance compromises in battery-powered internet of things (IoT) devices."
-    publishedDateTime: 2020-10-08T08:33:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/maxim-integrated-s-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-1029656759"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/maxim-integrated-s-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-1029656759"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/maxim-integrated-s-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-1029656759"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 80
-  - title: "Microsoft 365 to get big Nvidia AI-editing boost"
-    excerpt: "Nvidia talked up plans to work with Microsoft to add its AI to Microsoft 365. For this columnist, that would be most welcome news."
-    publishedDateTime: 2020-10-08T22:48:00Z
-    webUrl: "https://www.computerworld.com/article/3584779/microsoft-365-to-get-big-nvidia-ai-editing-boost.html"
-    ampWebUrl: "https://www.computerworld.com/article/3584779/microsoft-365-to-get-big-nvidia-ai-editing-boost.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3584779/microsoft-365-to-get-big-nvidia-ai-editing-boost.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 80
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 26
     images:
-      - url: "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_robot_touch_human_hand_by_kentoh_gettyimages_1060703206-100817766-large.jpg"
-        width: 1200
-        height: 800
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/10/Untitled-design-2020-10-05T155750.550.jpg"
+        width: 750
+        height: 422
         isCached: true
-  - title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
-    excerpt: "Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce its availability in the Microsoft Azure Marketplace. Granulate's solution helps companies optimize workload performance and enables businesses to cut computing costs while improving performance with no code changes to their application."
-    publishedDateTime: 2020-10-07T02:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-1029652622"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-1029652622"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-1029652622"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 73
-  - title: "UCSF teams with Microsoft, others to fast-track AI in healthcare: 5 details"
-    excerpt: "University of California San Francisco teamed Microsoft Azure, Intel and Fortanix to establish a confidential computing platform that will accelerate the development and validation of clinical algorithms."
-    publishedDateTime: 2020-10-08T14:28:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/ucsf-teams-with-microsoft-others-to-fast-track-ai-in-healthcare-5-details.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 69
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
-        width: 400
-        height: 300
-        isCached: true
-  - title: "Microsoft's Flywheel Kicks Into Gear at Ignite 2020"
-    excerpt: "While reflecting an important customer priority at the moment, it also highlights the investment Microsoft is making in driving integrations across its cloud businesses. The strengthening of the connective tissue between Microsoft’s array of products — across Teams,"
-    publishedDateTime: 2020-10-05T00:00:00Z
-    webUrl: "https://www.cmswire.com/digital-workplace/microsofts-flywheel-kick-into-gear-at-ignite-2020/"
-    ampWebUrl: "https://www.cmswire.com/digital-workplace/microsofts-flywheel-kick-into-gear-at-ignite-2020/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-workplace/microsofts-flywheel-kick-into-gear-at-ignite-2020/amp/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 61
-    images:
-      - url: "https://www.cmswire.com/-/media/dd733cd63b584d758bbaf690a96113cd.ashx?mw=1024"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "UCSF, Fortanix, Intel, and Microsoft Azure Utilize Privacy-Preserving Analytics to Accelerate AI"
-    excerpt: "Fortanix, Intel, and Microsoft Azure have formed a collaboration to establish a confidential computing platform with privacy-preserving analytics to accelerate the development and validation of clinical algorithms."
-    publishedDateTime: 2020-10-08T22:35:00Z
-    webUrl: "https://www.miragenews.com/ucsf-fortanix-intel-and-microsoft-azure-utilize-privacy-preserving-analytics-to-accelerate-ai/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 56
-    images:
-      - url: "https://www.ucsf.edu/sites/default/files/field/image/news/laptop-computer-hands.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "Microsoft To Build New Azure Cloud Data Centers In Greece"
-    excerpt: "Microsoft plans to spend up to $1 billion to build three data centers for its first Azure cloud region in Greece and provide digital technology training to up to 100,000 people there by 2025"
-    publishedDateTime: 2020-10-05T17:36:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-to-build-new-azure-cloud-data-centers-in-greece"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/0261-107e1bc258dd-899507ddf083-1000/shot_of_corridor_in_working_data_center_full_of_rack_servers_and_supercomputers_with_cloud_storage_advantages_icon_visualization..jpeg"
-        width: 549
-        height: 309
-        isCached: true
-  - title: "Maxim Integrated's Neural Network Accelerator Chip Enables IoT Artificial Intelligence in Battery-Powered Devices"
-    excerpt: "PRNewswire/ -- The MAX78000 low-power neural network accelerated microcontroller from Maxim Integrated Products, Inc. (NASDAQ: MXIM) moves"
-    publishedDateTime: 2020-10-07T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/maxim-integrateds-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-301147039.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 50
-    images:
-      - url: "https://mma.prnewswire.com/media/1307840/Maxim__MAX78000.jpg?p=facebook"
-        width: 1920
-        height: 1005
-        isCached: true
-  - title: "Webinar: Transforming Business Models with System Soft Technologies and Microsoft Azure"
-    excerpt: "(GLOBE NEWSWIRE) -- System Soft Technologies (SSTech), a leader in enterprise IT services, solutions and products, today announced the company is making available its recent webinar about how organizations are using Microsoft Azure Cloud Services to enhance their business operations and spur growth during these uncertain economic times."
-    publishedDateTime: 2020-10-07T16:00:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-north-america-products-and-services-abd7775219a08f49fc7dd2b81b837978"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 46
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
-    excerpt: "Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce its availability in the Microsoft"
-    publishedDateTime: 2020-10-06T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace/article_190f285f-3d77-5572-818c-015780303762.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 43
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/e1/ce1c5bc4-2af1-5b01-9b65-205e791e28d4/5f7c7229dcab8.image.jpg?resize=400%2C242"
-        width: 400
-        height: 242
-        isCached: true
-  - title: "ZEISS joins Microsoft for data-driven healthcare"
-    excerpt: "ZEISS, a German manufacturer of optical systems and optoelectronics, and Microsoft has inked a multi-year strategic partnership for better patient care through data-driven healthcare and enhance quality and efficiency in manufacturing by embracing a cloud-first approach."
-    publishedDateTime: 2020-10-08T17:32:00Z
-    webUrl: "https://www.sify.com/movies/zeiss-joins-microsoft-for-data-driven-healthcare-news-bollywood-ukigPvegbiagc.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 36
 
 secured: "glN3M3h4vcNujjywrlwAteg11puisA7r3GHYAt/0UFrzFdst8Syle1n4PIL2EC/nqHXUVGcO2zAx9AO/cESvYzT6YPPjY+uEEv1AHaKRO1krRezFHVpKiBrRbSjtw7XSTinaB/E4qbuEAuQaGJxuxfiIwF9BRBu//97XxXHtNAa5/ta69WoSQiUWFAWXcr2gg8jl5FPM7lAMTM9RqVAelStLE6MilrMNpzaOPj9bEs54D13A8NKra3PCEBso2qZ/F25iH4nobAnCYLxMkKOcDmBoZTY2W/HwbcBcBbQCRGIu6g4Es2Q1PQAc5wKy9a5a3GUHpPiOAqp6Fb/qIIW2tJqalajKx29W0nSjFEqxcVk=;7ccCZ/McvgZyg1xTVw39GQ=="
 ---

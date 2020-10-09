@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/krisholt/2020/10/09/ibm-inks-its-first-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/krisholt/2020/10/09/ibm-inks-its-first-ever-esports-deal-with-the-overwatch-league/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "IBM Enters Esports With Overwatch League Sponsorship"
+    excerpt: "... year deal to become the official AI, cloud and analytics sponsor of the Overwatch League. The deal, which runs through the 2022 OWL season, marks the first time IBM has partnered with an esports league. IBM Watson’s AI capabilities will be used to ..."
+    publishedDateTime: 2020-10-09T07:03:00Z
+    webUrl: "https://www.sporttechie.com/ibm-enters-esports-with-overwatch-league-sponsorship"
+    type: article
+    provider:
+      name: SportTechie
+      domain: sporttechie.com
+    quality: 24
+    images:
+      - url: "https://sporttechie-dev.s3.amazonaws.com/Important%20Data/sporttechie-image.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "IBM Enters Esports Arena with Activision Blizzard in New Multi-Year Deal as the Presenting Partner of the Overwatch League Grand Finals"
     excerpt: "IBM and the Overwatch League™, the world's first global esports league with 20 city-based teams, announced its"
     publishedDateTime: 2020-10-09T04:01:00Z
@@ -78,6 +92,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "PWXSuHrbfGPzMMqGaAao0+IU6+mJEY/bc7RSMeVmmHYJoMXPTSqcBmmtzEukzIpS1GmP+vSL2+Wsxt4RmD9GZVEXQY4F/1AzvEDzxnQHSmn4IP/KccxIgj4roIUc30smAU69LJ/dgkuy8pbn9o5eJtgQnxYXVVDF6+9FJMQCA17znXArkLIPpVHltdZi/lH3AFnFINPpd2RUar3rUL6cy+peX3lFX+yoAT3yw5GR4yYTYlBOkR9/6wHnVFsKtvppIqa5SzIK+ldxRu5+5NSK4JOr9B4n7P98gex29wHoxWqAXId4oCuWg92yZfymwK0FrABO3rb3sbXokSfNJpbv7yC9Jd0TeZrmxZJgh7f9nHs=;wpVLsGHGRAK5GgEk2Xe8Ug=="
+secured: "yMyDZeRk/xOjVQE6mDjZ4UplzNqmmgcYmTcr4DLrH7c4uk3VZfw6ZR5UXHwN9bBocTOvfjaBpRzL+8Se/ShAnrBBfyg7TW6iXNdDARhkGcGs0anOJ938RlzI9971am22AZ6wQ6DS1Nq0Ka93pzn4SQUDcm56TDn+pgOqhAFBYrPsIBgx2x1E5ddLCk40P4DfIWvD0LLAaz9rIX6IRufeuzIIlvD7fISTHGc+BzPLsWagpz0Li9LZH4BNuR9P9ScqYn0QQj7J+SRdhKT6f1wG2Ad3k4Jvxir1SrGk2CdyyyYSHpcP/dyRoGGcVqztEN512QSCVJ3+vzZHZqOfUVhrprnh3T0ctvvRTSkQUMWAkIf0RTePWzuNNscpUKojcCg7S2G8AxqDlVCw6puHzj6zneb8WXBjtFHAPhtwMO6Kb8zu7bqPEc9+jUsrn8OTPweANSeC+EZ3XHxiVhlNc1MLzoojkUkKG2qNEfU780ioVJPaMHfrRoyvARGTitzBiel2AzNu6H+DdbI2t8oOLARfEA==;pb7f2JERWOaYP6xqt1Xw7w=="
 ---
 

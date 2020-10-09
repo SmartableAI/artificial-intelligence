@@ -1,35 +1,29 @@
 ---
 category: news
-title: "PlayStation Inventor Starts New Career Making Robots for No Pay"
-excerpt: "Ken Kutaragi, the legendary inventor of the PlayStation gaming console, is taking on one of the hardest jobs in robotics. And he’s getting paid nothing to do it."
-publishedDateTime: 2020-10-08T21:00:00Z
-originalUrl: "https://www.bloomberg.com/news/articles/2020-10-08/playstation-inventor-starts-new-career-making-robots-for-no-pay"
-webUrl: "https://www.bloomberg.com/news/articles/2020-10-08/playstation-inventor-starts-new-career-making-robots-for-no-pay"
-ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-10-08/playstation-inventor-starts-new-career-making-robots-for-no-pay"
-cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-08/playstation-inventor-starts-new-career-making-robots-for-no-pay"
+title: "PlayStation inventor starts new career making robots for no pay"
+excerpt: "Ken Kutaragi, 70, wants to make affordable robots that can safely move around and do physical work alongside humans in factories and logistics centers."
+publishedDateTime: 2020-10-09T05:08:00Z
+originalUrl: "https://www.japantimes.co.jp/news/2020/10/09/business/corporate-business/playstation-inventor-ken-kutaragi-robots/"
+webUrl: "https://www.japantimes.co.jp/news/2020/10/09/business/corporate-business/playstation-inventor-ken-kutaragi-robots/"
 type: article
-quality: 89
-heat: 89
-published: true
+quality: 39
+heat: 39
+published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Japan Times
+  domain: japantimes.co.jp
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/istV08PYj0w0/v0/360x-1.jpg"
-    width: 360
-    height: 240
+  - url: "https://cdn.japantimes.2xx.jp/wp-content/uploads/2020/10/np_file_43360-870x580.jpeg"
+    width: 870
+    height: 580
     isCached: true
 
-secured: "5BAnF0XWuCntf+vPREI1DtoO2kliEE9H/QN4MFo7wmUXQ2GbC/GX92kj7SlRwlmhw+3AJyQq2s6qR1Cj3mBiO9qXht/uc38dVX+qD8Ppnu3Lso8nVPdaIjYsIkXHAPbszabdSJbQKPIxKOPkbOdK99gWx9E9bvlxgrZd9ZcKArbA+F+A8I8Ff0hiAACD0jBnnLEYDjmtqYtk6ZjtUqITMeRuPW5rKaixnm+Wlc0HWe4Xj7ATEunk/BEiFtWJt64D1rHxcf01wt4fafc6Kec18SEsbI27NbfXtWKK7N5+1nE2H2JpBxgg5rzja2jj4slsmO88IOP8V9gKhES7BnZet3R+3hG5ENdYECNKBhoG5PU=;FOW4af8XhmACoxClGxU8pw=="
+secured: "M5UCGFRl4iGiDAbisuAN6KkhlA8+LVxZjlzgS1vT1HQa16Y0xQhuYZf+mq4lVc04DI4cErpNrj8MEwAs2A5RWeURFhGxKJHHqjd5ZOsdM/0kwP/3eB1ym68pB08WX6L0xnedPdNmz0xk/aNco47n0uco2Mr1H/szePq3y+OScwnLX0eT3FA9zPn5x4jkkfz4smjoM+aqS802CdOiJc7v8VbPZGwTtR6gJLy/g2q9dM4bL2+qeCtsMyorMxnIQ77Ee7W1dtvVpkhqfB0T6T53IwIysGLbij17ErS1j3+D2W62jW0fJM0fnXcJu9z7re4uc2oq4Vbzn4dMgdUqtaqg/4wmiRkfB5lps7oQtY7E/vw=;4/UEtaDhcMANise0yMHSvA=="
 ---
 
