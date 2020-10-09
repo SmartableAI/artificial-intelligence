@@ -8,7 +8,7 @@ webUrl: "https://www.dailymail.co.uk/sciencetech/article-8820183/Waymo-removing-
 ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8820183/amp/Waymo-removing-backup-drivers-autonomous-vehicles.html"
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8820183/amp/Waymo-removing-backup-drivers-autonomous-vehicles.html"
 type: article
-quality: 49
+quality: 69
 heat: -1
 published: false
 
@@ -19,6 +19,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://i.dailymail.co.uk/1s/2020/10/08/20/34164124-0-image-a-4_1602187103476.jpg"
+    width: 636
+    height: 382
+    isCached: true
 
 related:
   - title: "Daily Crunch: Waymo opens up driverless ride-hailing"
@@ -70,6 +76,6 @@ related:
         height: 1042
         isCached: true
 
-secured: "nf9TIsaCwhLFm8eTAmddqTHIjMwm95L6Cfzv2Ls7N7v2I1h2I0sMKbPnmxNAI65CnT6aPlUnu71ybXeFyVO331DdbKnCk81xPnN/wu7EoAciiFkhg5BduD1tVpiYoL5yvgPQ7NY2LOvKnThS7pq6NEblHYNvYP8YZn6nzozXXQDfTjiED5ADUFeEbTCyuURmwwjnx7ebsP24dCDJDRFaCtItMh65Y7+jQAlUfy7G8UoAEEc6Q54p0SfKoDdxzEgQok8KcXIByVDoYEGrF9PgZbgsauqaMrAqQ1nNvziYNeUBfrDTXmyTRIwP3xtHb1vFfwBG02+BrvH/1bW66sFAnnxgAJoYpLDcdYY/Bp1MJzRwrsOLi5KitP3KASxfbvg3bMrkoGvk3rhmS0FVfLetDxcrg8mCod4N4ZYvBUyiK5jhHiCiTkidSA7zwJNZt7moIxyh55mw0MsPHwne8dtT9Bu+BLvucfkJtdjp+/IyCKSCPuIk8xlsCsFVM5pxf/H8Z13urAs6wDuvkH6WBJzxJA==;eCX2jE8NkY2ItY8FUr/MVw=="
+secured: "JC7WmehdeHMrVgfO9FNTkLL1EYb17pjWxExroXxrK3/u3S9XpevohPrhy5J8IqBlsY5A6oBqL7UweFeRm74G9scin1/Lxig7R1dL4NatZlc6j9SJJkOKl9xEoA45nHw3It0mc3TIjBp7H24MON2tW/KMLAwwXYyW8d5s37Zl1j4A26Q5dcv+XDaUNimpU8GLWM8sEhEwc3hZAEEsf/zKEmYqBnLzZjdv3J7OP4mDt/WHKklzBokFDsWLYFzAP+AGeO91ALAEUZfluFIMCPctLan0JJQcvu7b1s3I05axVWfLY5jYZL3iXclNOagx3SG22XuKNdDeu/rlgaBV2lJwVEkLXCNuMyOxMGVWUEklJwk=;stknv6oqQ140Tbazq9yyKw=="
 ---
 

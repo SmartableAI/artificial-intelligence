@@ -8,9 +8,9 @@ webUrl: "https://newsd.in/microsoft-chip-maker-arm-to-boost-ai-innovation-for-io
 ampWebUrl: "https://newsd.in/microsoft-chip-maker-arm-to-boost-ai-innovation-for-iot-devices/amp/"
 cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/microsoft-chip-maker-arm-to-boost-ai-innovation-for-iot-devices/amp/"
 type: article
-quality: 71
-heat: -1
-published: false
+quality: 91
+heat: 221
+published: true
 
 provider:
   name: Newsd
@@ -20,6 +20,12 @@ topics:
   - AI Hardware
   - AI
   - Microsoft AI
+
+images:
+  - url: "https://newsd.in/wp-content/uploads/2020/09/newsd-amp.jpg"
+    width: 1200
+    height: 900
+    isCached: true
 
 related:
   - title: "Tamr Announces the Only Cloud-Native Data Mastering Solutions for Google Cloud Platform, AWS, and Microsoft Azure"
@@ -33,6 +39,33 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 80
+  - title: "Maxim Integrated's Neural Network Accelerator Chip Enables IoT Artificial Intelligence in Battery-Powered Devices"
+    excerpt: "PRNewswire/ -- The MAX78000 low-power neural network accelerated microcontroller from Maxim Integrated Products, Inc. (NASDAQ: MXIM) moves artificial intelligence (AI) to the edge without performance compromises in battery-powered internet of things (IoT) devices."
+    publishedDateTime: 2020-10-08T08:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/maxim-integrated-s-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-1029656759"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/maxim-integrated-s-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-1029656759"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/maxim-integrated-s-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-1029656759"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 80
+  - title: "Microsoft 365 to get big Nvidia AI-editing boost"
+    excerpt: "Nvidia talked up plans to work with Microsoft to add its AI to Microsoft 365. For this columnist, that would be most welcome news."
+    publishedDateTime: 2020-10-08T22:48:00Z
+    webUrl: "https://www.computerworld.com/article/3584779/microsoft-365-to-get-big-nvidia-ai-editing-boost.html"
+    ampWebUrl: "https://www.computerworld.com/article/3584779/microsoft-365-to-get-big-nvidia-ai-editing-boost.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3584779/microsoft-365-to-get-big-nvidia-ai-editing-boost.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 78
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_robot_touch_human_hand_by_kentoh_gettyimages_1060703206-100817766-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
     excerpt: "Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce its availability in the Microsoft Azure Marketplace. Granulate's solution helps companies optimize workload performance and enables businesses to cut computing costs while improving performance with no code changes to their application."
     publishedDateTime: 2020-10-07T02:09:00Z
@@ -44,6 +77,50 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 73
+  - title: "UCSF teams with Microsoft, others to fast-track AI in healthcare: 5 details"
+    excerpt: "University of California San Francisco teamed Microsoft Azure, Intel and Fortanix to establish a confidential computing platform that will accelerate the development and validation of clinical algorithms."
+    publishedDateTime: 2020-10-08T14:28:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/ucsf-teams-with-microsoft-others-to-fast-track-ai-in-healthcare-5-details.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 69
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
+        width: 400
+        height: 300
+        isCached: true
+  - title: "Microsoft's Flywheel Kicks Into Gear at Ignite 2020"
+    excerpt: "While reflecting an important customer priority at the moment, it also highlights the investment Microsoft is making in driving integrations across its cloud businesses. The strengthening of the connective tissue between Microsoft’s array of products — across Teams,"
+    publishedDateTime: 2020-10-05T00:00:00Z
+    webUrl: "https://www.cmswire.com/digital-workplace/microsofts-flywheel-kick-into-gear-at-ignite-2020/"
+    ampWebUrl: "https://www.cmswire.com/digital-workplace/microsofts-flywheel-kick-into-gear-at-ignite-2020/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-workplace/microsofts-flywheel-kick-into-gear-at-ignite-2020/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 61
+    images:
+      - url: "https://www.cmswire.com/-/media/dd733cd63b584d758bbaf690a96113cd.ashx?mw=1024"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "UCSF, Fortanix, Intel, and Microsoft Azure Utilize Privacy-Preserving Analytics to Accelerate AI"
+    excerpt: "Fortanix, Intel, and Microsoft Azure have formed a collaboration to establish a confidential computing platform with privacy-preserving analytics to accelerate the development and validation of clinical algorithms."
+    publishedDateTime: 2020-10-08T22:35:00Z
+    webUrl: "https://www.miragenews.com/ucsf-fortanix-intel-and-microsoft-azure-utilize-privacy-preserving-analytics-to-accelerate-ai/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 56
+    images:
+      - url: "https://www.ucsf.edu/sites/default/files/field/image/news/laptop-computer-hands.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Microsoft To Build New Azure Cloud Data Centers In Greece"
     excerpt: "Microsoft plans to spend up to $1 billion to build three data centers for its first Azure cloud region in Greece and provide digital technology training to up to 100,000 people there by 2025"
     publishedDateTime: 2020-10-05T17:36:00Z
@@ -57,6 +134,20 @@ related:
       - url: "https://www.crn.com/resources/0261-107e1bc258dd-899507ddf083-1000/shot_of_corridor_in_working_data_center_full_of_rack_servers_and_supercomputers_with_cloud_storage_advantages_icon_visualization..jpeg"
         width: 549
         height: 309
+        isCached: true
+  - title: "Maxim Integrated's Neural Network Accelerator Chip Enables IoT Artificial Intelligence in Battery-Powered Devices"
+    excerpt: "PRNewswire/ -- The MAX78000 low-power neural network accelerated microcontroller from Maxim Integrated Products, Inc. (NASDAQ: MXIM) moves"
+    publishedDateTime: 2020-10-07T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/maxim-integrateds-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-301147039.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 50
+    images:
+      - url: "https://mma.prnewswire.com/media/1307840/Maxim__MAX78000.jpg?p=facebook"
+        width: 1920
+        height: 1005
         isCached: true
   - title: "Webinar: Transforming Business Models with System Soft Technologies and Microsoft Azure"
     excerpt: "(GLOBE NEWSWIRE) -- System Soft Technologies (SSTech), a leader in enterprise IT services, solutions and products, today announced the company is making available its recent webinar about how organizations are using Microsoft Azure Cloud Services to enhance their business operations and spur growth during these uncertain economic times."
@@ -86,6 +177,20 @@ related:
         width: 400
         height: 242
         isCached: true
+  - title: "How Do We Accelerate Endpoint AI Innovation? Put Developers First"
+    excerpt: "Dipti Vachani reveals how together with Microsoft, Arm is optimizing the developer experience with streamlined, scalable tools that put creativity first"
+    publishedDateTime: 2020-10-08T15:58:00Z
+    webUrl: "https://www.arm.com/blogs/blueprint/arm-microsoft-ai"
+    type: article
+    provider:
+      name: ARM architecture
+      domain: arm.com
+    quality: 39
+    images:
+      - url: "https://www.arm.com/blogs/blueprint/wp-content/uploads/2020/10/dipti_topimg.jpg"
+        width: 1940
+        height: 980
+        isCached: true
   - title: "ZEISS joins Microsoft for data-driven healthcare"
     excerpt: "ZEISS, a German manufacturer of optical systems and optoelectronics, and Microsoft has inked a multi-year strategic partnership for better patient care through data-driven healthcare and enhance quality and efficiency in manufacturing by embracing a cloud-first approach."
     publishedDateTime: 2020-10-08T17:32:00Z
@@ -95,34 +200,6 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 36
-  - title: "Scality Announces 1 Terabit Per Second Performance for Scale-Out File System in Microsoft Azure Public Cloud"
-    excerpt: "Scality, a leader in software solutions for distributed file and object storage, today announced the technical preview of its high-performance scale-out file system (SOFS) in Microsoft Azure. Scality SOFS running in Azure delivers linear scaling performance for read- and write-intensive workloads."
-    publishedDateTime: 2020-10-06T02:26:00Z
-    webUrl: "https://www.totaltele.com/507362/Scality-Announces-1-Terabit-Per-Second-Performance-for-Scale-Out-File-System-in-Microsoft-Azure-Public-Cloud"
-    type: article
-    provider:
-      name: Total Telecom
-      domain: totaltele.com
-    quality: 35
-    images:
-      - url: "https://www.totaltele.com/res/image/articleimages/5g-icon-hpe.png"
-        width: 576
-        height: 583
-        isCached: true
-  - title: "Dicom Systems Launches Enterprise Imaging Platform in the Microsoft Azure Marketplace, Deploys to a Leading National IDN"
-    excerpt: "Dicom Systems, a healthcare IT software company, today announced the availability of Unifier enterprise imaging platform for medical imaging workflow, archiving, cloud, and"
-    publishedDateTime: 2020-10-07T14:15:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dicom-systems-launches-enterprise-imaging-platform-in-the-microsoft-azure-marketplace-deploys-to-a-leading/article_dcf4caba-5bac-5aa8-942c-3e8e9c466f58.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 29
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/6/23/62336a11-eb80-54ab-be04-d9531f8f95d7/5f7dca1e645b2.image.jpg?resize=400%2C327"
-        width: 400
-        height: 327
-        isCached: true
 
 secured: "jOA9p6eptev1gpwQrWKrNxx9LILOiXWb2w7VfjM1iMKAl4YgLnt2vKf1A/AmexXbJAieCeILj9/ASK0n2eox9Ah431mof7FTIGw4CopipnXw1W5QIBtwxkUMp1BmPJhWVlyOghD6OSfgHzoJgjzy9q6WFyjdhosRXu6LZTxp3oo0FuIGEGYhh3pAkBRKRA9bvQo88rtxGP6aicwP3L7+41VTHRfXvAnJBt9EpJ1bxs7BYxobzsYGJIP57g7bIntL9l655Apr6oC3svMJQVjEokXUgWWjy87ABUU7/s7Dqjz8YJQs3oBjVYc3eNq1dsb1ugu9Wt3iR9cgvflHCx2bwZmMcvGRKpO+wmQgWBfDR9Y=;ziF+Rd95sm1b2rFbpWks7w=="
 ---

@@ -35,20 +35,27 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 69
-  - title: "How Do We Accelerate Endpoint AI Innovation? Put Developers First"
-    excerpt: "Dipti Vachani reveals how together with Microsoft, Arm is optimizing the developer experience with streamlined, scalable tools that put creativity first"
-    publishedDateTime: 2020-10-08T15:58:00Z
-    webUrl: "https://www.arm.com/blogs/blueprint/arm-microsoft-ai"
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7f9c645440271868a67e29%2F0x0.jpg"
+        width: 1200
+        height: 986
+        isCached: true
+  - title: "RAISE 2020: Responsible artificial intelligence for social empowerment"
+    excerpt: "India’s biggest AI summit RAISE 2020 seeks global collaboration for the development of an artificial intelligence ecosystem that is responsible for humanity and committed towards social empowerment."
+    publishedDateTime: 2020-10-05T09:42:00Z
+    webUrl: "https://yourstory.com/2020/10/responsible-ai-social-empowerment-raise-2020-ravi-shankar-prasad"
+    ampWebUrl: "https://yourstory.com/2020/10/responsible-ai-social-empowerment-raise-2020-ravi-shankar-prasad/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/10/responsible-ai-social-empowerment-raise-2020-ravi-shankar-prasad/amp"
     type: article
     provider:
-      name: ARM architecture
-      domain: arm.com
-    quality: 39
+      name: Your Story
+      domain: yourstory.com
+    quality: 74
     images:
-      - url: "https://www.arm.com/blogs/blueprint/wp-content/uploads/2020/10/dipti_topimg.jpg"
-        width: 1940
-        height: 980
+      - url: "https://images.yourstory.com/cs/2/a182c7e0140711e987e2f7248b252f46/Imagerbzg-1601891856082.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
         isCached: true
   - title: "A framework for automation in financial services"
     excerpt: "Global Industry Leads at Appian The financial services (FS) sector is currently experiencing one of the most challenging periods in history. The ongoing Covid-19 pandemic, fierce competition amongst fintech challengers and the encroachment of large technology platforms have made it necessary for banks and insurers to react in order"

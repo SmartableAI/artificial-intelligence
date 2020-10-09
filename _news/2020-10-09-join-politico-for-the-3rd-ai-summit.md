@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-08T22:12:00Z
 originalUrl: "https://www.politico.com/newsletters/politico-ai-summit-an-ai-powered-world/2020/10/08/join-politico-for-the-3rd-ai-summit-490558"
 webUrl: "https://www.politico.com/newsletters/politico-ai-summit-an-ai-powered-world/2020/10/08/join-politico-for-the-3rd-ai-summit-490558"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+images:
+  - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+    width: 1120
+    height: 629
+    isCached: true
 
 related:
   - title: "The Great Northern AI Summit is less than one week away"

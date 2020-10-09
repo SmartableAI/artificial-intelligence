@@ -43,22 +43,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "RAISE 2020: Responsible artificial intelligence for social empowerment"
-    excerpt: "India’s biggest AI summit RAISE 2020 seeks global collaboration for the development of an artificial intelligence ecosystem that is responsible for humanity and committed towards social empowerment."
-    publishedDateTime: 2020-10-05T09:42:00Z
-    webUrl: "https://yourstory.com/2020/10/responsible-ai-social-empowerment-raise-2020-ravi-shankar-prasad"
-    ampWebUrl: "https://yourstory.com/2020/10/responsible-ai-social-empowerment-raise-2020-ravi-shankar-prasad/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/10/responsible-ai-social-empowerment-raise-2020-ravi-shankar-prasad/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 74
-    images:
-      - url: "https://images.yourstory.com/cs/2/a182c7e0140711e987e2f7248b252f46/Imagerbzg-1601891856082.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
-        isCached: true
   - title: "RAISE 2020: AI to expand scope of financial services in the country, say experts"
     excerpt: "Artificial intelligence (AI) is likely to become the key enabler for the financial services industry to expand its reach and strengthen the ties with the consumers. Artificial intelligence (AI) is ..."
     publishedDateTime: 2020-10-06T11:09:00Z
@@ -100,6 +84,20 @@ related:
         width: 770
         height: 413
         isCached: true
+  - title: "POLITICO AI Summit: An AI-Powered World"
+    excerpt: "The POLITICO AI Summit will bring together policymakers, federal officials, technologists, private-sector executives, scientists and advocates to explore the future of artificial intelligence."
+    publishedDateTime: 2020-10-08T22:14:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-ai-summit-an-ai-powered-world"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 39
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "PM Modi to inaugurate global AI summit RAISE 2020 today. What you need to know"
     excerpt: "Prime Minister Narendra Modi addresses the nation in New Delhi in this file photo. PM Modi will inaugurate a five-day global virtual summit on artificial intelligence (AI) - Responsible AI for Social Empowerment or RAISE 2020 on Monday. (ANI Photo ..."
     publishedDateTime: 2020-10-05T01:39:00Z
@@ -111,15 +109,6 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 33
-  - title: "POLITICO AI Summit: An AI-Powered World"
-    excerpt: "The POLITICO AI Summit will bring together policymakers, federal officials, technologists, private-sector executives, scientists and advocates to explore the future of artificial intelligence."
-    publishedDateTime: 2020-10-08T22:14:00Z
-    webUrl: "https://www.politico.com/newsletters/politico-ai-summit-an-ai-powered-world"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 19
 
 secured: "OBF9oZxTIOOAGaRHCfZ3+TJzXoZJE7IGX6eEmU5W/F5UwRDGFQC2BtLdWRZSpleednh9xs6AcCK7hrCx24zdBf7Si1lbH+lrtDhz+vNX0RN1mNZGhIKxDClplNQPaSaqGWHjCp6nNUvSSYgqiPva34V1zXHLwgBQAzsrM7QWHJgxpOYdlXDGGwdY6HWjnVcihQ9mrKJIQ6sfk89xNqM9hA8oXRZWkGwfUVAdKuCd9nmI5rKGhQjdOErMTNZAL7M+t6AzTBY6ammfn/p5bjbPv5teXlGVTfJoSxmp++2ROhDxMJC5ozNKy2D+ANZ2nEeZFmsXeXQm0JYvMTXNz2VHkLRsDpSC+TnDM8snpEbZPOI=;4w5PgiueohaceWqut1MNUA=="
 ---

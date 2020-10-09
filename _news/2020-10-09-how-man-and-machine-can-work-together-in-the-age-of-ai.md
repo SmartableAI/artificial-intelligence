@@ -69,7 +69,12 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 67
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7f278b79657261d13693d3%2F0x0.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Understanding the importance of NoCode Machine learning tools and what the best ones in market?"
     excerpt: "A no-code machine learning platforms can help company employees develop applications without the knowledge of coding. E.g. Create AI, Obviously AI, Teachable Machine, Accelrite Shareinsights, Google C"
     publishedDateTime: 2020-10-05T08:07:00Z

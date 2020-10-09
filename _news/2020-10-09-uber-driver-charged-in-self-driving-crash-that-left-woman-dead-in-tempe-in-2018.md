@@ -8,8 +8,8 @@ webUrl: "https://www.fox43.com/article/news/local/valley/uber-driver-charged-sel
 ampWebUrl: "https://www.fox43.com/amp/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
 cdnAmpWebUrl: "https://www-fox43-com.cdn.ampproject.org/c/s/www.fox43.com/amp/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
 type: article
-quality: 20
-heat: 20
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -20,6 +20,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "n+0WPe9nuEc1244wxsRAjOGXN1uM8CQqyOaExYphm3bU5583QPmNbopCqEBkoIV92C5UkQwxOR8gVdg3muv/4YHkg8SP5+WXAQSHftP1EAREfoae3S+EhA9I0aCPwJ/tzJgGb/no+ZDMpVfVZLCXz8bN9w/K/Noh+30HoyFsM/b383Eqs/9luAxVyi1bH7ieCoi+bFK3OKf6/GEsxH66AmRiy2ShidIMogICWtZLwOs43ORYf1UTKV1j+eSC9b91eMBvQA5qmDcI+P5UtYvPWctkyP9NjCsK3U6xcc59eTUXGMcT5Qy4k4TLP5aNah03gHhLtNkistLaAaiXl1hTScIuDFweCx+Nqv6wQh3kG1/rVLgQ0/p6RbrCT+97Xiu1pWbFjWPUZCmCiSrBgTR01ManvyaweWaQq53iGvmzWkRs+ikSqC397ynEfHLjw+oevmIqLUM9APy/A7PdzpaRTHgYnDDvGkKiDS5BKjJQ52KjvWAa0SwmWaO5DAKzA5m4deIaIU7UU1pX/ZHrXlwlcw==;oLEgBXLQzrTxmyVmKW0VGg=="
+images:
+  - url: "https://media.tegna-media.com/assets/KPNX/images/d6207e33-c9f2-4d33-8e46-9e474695673a/d6207e33-c9f2-4d33-8e46-9e474695673a_750x422.jpg"
+    width: 750
+    height: 422
+    isCached: true
+
+secured: "Ot4EAY+AYnl0kiHJikNTleSy9TnVTysOh4lzomO35fGKJHs6fQvs1QxhetayIJEqUwNEV9MTobW+r1CMDdoZXCIRDYaNlBmDPHTfImGHnv2ZnvrfcWFMW2WB9mDdZQVB+QLB59YiJOGR4pmPqaBzGTpiQsu3hxD4yri7QLnbULi1m+zavg2yWaZwC1/iamViiE9rm2wzXB5qP8CQeWNowTSGRGKwZgNErpVyYmzf0TeimPoqSVAi48InKqj77DYYp9P81N0+AZhOEf/lJG7u3j/AAznGri2bt6A2y938Vl5+9kkEmMStuMTh0LGec7VAwHm3wLgS6dtJsnu6bY4961zoC7MKCcaN/p51uigW7No=;EP2MkLyeNnprAQ0WWgg/cA=="
 ---
 

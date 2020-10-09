@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/krisholt/2020/10/09/ibm-inks-its-first-eve
 ampWebUrl: "https://www.forbes.com/sites/krisholt/2020/10/09/ibm-inks-its-first-ever-esports-deal-with-the-overwatch-league/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/krisholt/2020/10/09/ibm-inks-its-first-ever-esports-deal-with-the-overwatch-league/amp/"
 type: article
-quality: 54
-heat: 84
+quality: 74
+heat: 104
 published: true
 
 provider:
@@ -24,6 +24,12 @@ topics:
   - IBM AI
   - AI
 
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7fda7f41d095658868aa45%2F0x0.jpg"
+    width: 1200
+    height: 800
+    isCached: true
+
 related:
   - title: "IBM teams up with Activision Blizzard to manage tech for the Overwatch League"
     excerpt: "IBM will provide cloud, Watson AI, and machine learning for the Overwatch League and become a presenting partner of the Overwatch League Grand Finals. IBM will power interactive and analytical ..."
@@ -35,7 +41,12 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 51
+    quality: 71
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/10/overwatch.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "IBM teams up with Activision Blizzard to manage tech for the Overwatch League – Jaweb"
     excerpt: "IBM will manage the technology for Activision Blizzard’s Overwatch League in a sign that esports is starting to demand the most sophisticated cloud and AI technologies. The idea is to put esports on the road to being a mainstream phenomenon alongside traditional sports."
     publishedDateTime: 2020-10-09T05:42:00Z
@@ -53,20 +64,20 @@ related:
         height: 675
         isCached: true
   - title: "IBM Enters Esports Arena with Activision Blizzard in New Multi-Year Deal as the Presenting Partner of the Overwatch League Grand Finals"
-    excerpt: "IBM to help power interactive and analytical content for the Overwatch League, engaging fans and players through cloud, IBM's Watson artificial intelligence, and machine learning"
+    excerpt: "IBM and the Overwatch League™, the world's first global esports league with 20 city-based teams, announced its"
     publishedDateTime: 2020-10-09T04:01:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting/article_e5d1c22b-cc99-5de0-accc-251c39e035e0.html"
+    webUrl: "https://www.prnewswire.com/news-releases/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-301149158.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 0
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
+      - url: "https://mma.prnewswire.com/media/1309782/IBM_and_the_Overwatch_League.jpg?p=facebook"
+        width: 2700
+        height: 1414
         isCached: true
 
-secured: "LSKN0z0k9mAXVBhfWdABDLHzrORM7/lr2TsWF2XOrgQqDkTD+Q5FQ2EUgpwEfHcELbSpspjdPbtuUBiCdFzHgkZzwD91VrdfT2nevR4IfJBeMB3qcDosn06HS4TkoXsVqtST38NbJbF1xJVoAP9nPOHlJyqxKi//XP39wTFWO5SoDWPzypddv35jGD5BQT8RXjHUhN7EwePZrk5CqTJDLjFa3VutOUXmPoV5ljl9/izszd4t2ZeJ0YUgDr6YSLR4LLmcsUVSg+HDgWbg65SnDf40Jc5X4uRcMXV4ppnukqWIL2e3vvrQ4RTwim6J2dR6Vz92HJ83Ymubm6HVd2tYusiy+UUlM7ez8RnTZGnE0t+wJ1ywFv5pdxlT7vqyP+Zos9VeEfD30OUYByhSgMOc5LZYY5qQtKyZrpSAxMLV7il/OU/lQ72ELZrbt4Icl93vGX2za++At7ebzS2a4ExtIt0ZpbkrUYk5wmOOnK+hgz0Fb9mIFesJ9h/NrhzymenvH1UDQTDaePS9TYeS3RE6Gg==;7zCEfXwgPE1tIYSsUvFAwA=="
+secured: "dcz/SH/J8WbDzr480M6roN8il21jcSYYlJXMbP82l7eu5TPCDWOXlea7QaHqGatimZR77YjMs6TKXf0pjxrNT5fck+RjWs/WN7fsirDQvwwVo1fs8RdW8DynVjNTyEIGzKNGkKymzOYdjOX+EznEvDWNUeCS60CCHpTKD/1vqj+ijCG0MM2dUbDOsPjdN5tFWUaDXpedfVlTllxK5CkmdL9NMymewjeycfE0P/shu5rXRX3PqDYsB6Plxh43g20K6p7sq/smyCQiDwVGlLExOvKcak7fyJAYVB4oMumdrNQ4eDYdAplkKNG/ZvXniYDImPI8rxShGjk6tx1EY4dum8D/iMeXpOLE4w/ngWk7oKQ=;WKXhdOcuRGAsdjWtn+XTBg=="
 ---
 

@@ -27,99 +27,50 @@ images:
     isCached: true
 
 related:
-  - title: "RAISE 2020: A mega virtual summit on Artificial Intelligence"
-    excerpt: "RAISE 2020, a mega virtual summit on Artificial Intelligence will be inaugurated today by Prime Minister Narendra Modi at 7 pm."
-    publishedDateTime: 2020-10-05T03:10:00Z
-    webUrl: "https://www.oneindia.com/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html"
-    ampWebUrl: "https://www.oneindia.com/amphtml/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html"
-    cdnAmpWebUrl: "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html"
+  - title: "The Responsible Innovation Framework For The Age Of AI"
+    excerpt: "This year, with facial recognition, privacy, and ethics gaining more attention in the marketplace, technology leaders are increasingly thinking about AI’s impact on people’s lives."
+    publishedDateTime: 2020-10-08T23:36:00Z
+    webUrl: "https://www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/amp/"
     type: article
     provider:
-      name: Oneindia
-      domain: oneindia.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://www.oneindia.com/img/400x99/2020/10/raise-1601867009.jpg"
-        width: 400
-        height: 225
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7f9c645440271868a67e29%2F0x0.jpg"
+        width: 1200
+        height: 986
         isCached: true
-  - title: "In AI Push, PM Modi To Virtually Inaugurate Artificial Intelligence Summit 'RAISE 2020'"
-    excerpt: "PM Modi will be inaugurating a global virtual summit on Artificial Intelligence named ‘RAISE 2020’ on October 5, which is being organised by the ministry of IT"
-    publishedDateTime: 2020-10-05T03:28:00Z
-    webUrl: "https://www.republicworld.com/technology-news/science/raise-2020-pm-modi-inaugurate-virtual-artificial-intelligence-summit.html"
-    ampWebUrl: "https://www.republicworld.com/amp/technology-news/science/raise-2020-pm-modi-inaugurate-virtual-artificial-intelligence-summit.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/science/raise-2020-pm-modi-inaugurate-virtual-artificial-intelligence-summit.html"
+  - title: "Responsible Artificial Intelligence for Social Empowerment"
+    excerpt: "Ravi Shankar Prasad Success of Digital India has set a new global benchmark for leveraging digital technologies for inclusive growth, good governance and"
+    publishedDateTime: 2020-10-05T19:08:00Z
+    webUrl: "https://www.dailyexcelsior.com/responsible-artificial-intelligence-for-social-empowerment/"
     type: article
     provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 66
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 39
     images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/y9zrndxgu5bjgvbp_1601863474.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 707
+      - url: "https://www.dailyexcelsior.com/wp-content/uploads/2018/08/dailyexcelsior.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "RAISE 2020: AI to expand scope of financial services in the country, say experts"
-    excerpt: "Artificial intelligence (AI) is likely to become the key enabler for the financial services industry to expand its reach and strengthen the ties with the consumers. Artificial intelligence (AI) is ..."
-    publishedDateTime: 2020-10-06T11:09:00Z
-    webUrl: "https://yourstory.com/2020/10/raise-2020-ai-financial-service-fintech-startups"
-    ampWebUrl: "https://yourstory.com/2020/10/raise-2020-ai-financial-service-fintech-startups/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/10/raise-2020-ai-financial-service-fintech-startups/amp"
+  - title: "A framework for automation in financial services"
+    excerpt: "Global Industry Leads at Appian The financial services (FS) sector is currently experiencing one of the most challenging periods in history. The ongoing Covid-19 pandemic, fierce competition amongst fintech challengers and the encroachment of large technology platforms have made it necessary for banks and insurers to react in order"
+    publishedDateTime: 2020-10-05T10:49:00Z
+    webUrl: "https://www.globalbankingandfinance.com/a-framework-for-automation-in-financial-services/"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 54
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 26
     images:
-      - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/RAISE-ai-1601978412203.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/10/Untitled-design-2020-10-05T155750.550.jpg"
+        width: 750
+        height: 422
         isCached: true
-  - title: "PM Modi to virtually address ‘RAISE 2020’ global artificial intelligence summit today"
-    excerpt: "The Responsible AI for Social Empowerment (RAISE 2020) virtual summit will be a Global Artificial Intelligence summit organised by the Government of India in partnership with industry and academia."
-    publishedDateTime: 2020-10-05T09:20:00Z
-    webUrl: "https://www.hindustantimes.com/education/pm-modi-to-virtually-address-raise-2020-global-artificial-intelligence-summit-today/story-iWdfrN6SnSMyjcjAgZCCaK.html"
-    ampWebUrl: "https://m.hindustantimes.com/education/pm-modi-to-virtually-address-raise-2020-global-artificial-intelligence-summit-today/story-iWdfrN6SnSMyjcjAgZCCaK_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/education/pm-modi-to-virtually-address-raise-2020-global-artificial-intelligence-summit-today/story-iWdfrN6SnSMyjcjAgZCCaK_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 47
-  - title: "India to become global hub for Artificial Intelligence: PM Modi at RAISE 2020 virtual summit"
-    excerpt: "Prime Minister Narendra Modi inaugurated RAISE 2020, a Mega Virtual Summit on Artificial Intelligence (AI) on Monday."
-    publishedDateTime: 2020-10-05T17:56:00Z
-    webUrl: "https://www.indiablooms.com/news-details/N/65549/india-to-become-global-hub-for-artificial-intelligence-pm-modi-at-raise-2020-virtual-summit.html"
-    type: article
-    provider:
-      name: India Blooms
-      domain: indiablooms.com
-    quality: 43
-    images:
-      - url: "https://www.indiablooms.com/news_pic/2020/a1b08b0ac648b9feb4c8b943f64bca38.jpg"
-        width: 770
-        height: 413
-        isCached: true
-  - title: "PM Modi to inaugurate global AI summit RAISE 2020 today. What you need to know"
-    excerpt: "Prime Minister Narendra Modi addresses the nation in New Delhi in this file photo. PM Modi will inaugurate a five-day global virtual summit on artificial intelligence (AI) - Responsible AI for Social Empowerment or RAISE 2020 on Monday. (ANI Photo ..."
-    publishedDateTime: 2020-10-05T01:39:00Z
-    webUrl: "https://www.hindustantimes.com/india-news/pm-modi-to-inaugurate-global-ai-summit-raise-2020-today-what-you-need-to-know/story-2Jb9kVQYO4jNEa4yQsrA4M.html"
-    ampWebUrl: "https://m.hindustantimes.com/india-news/pm-modi-to-inaugurate-global-ai-summit-raise-2020-today-what-you-need-to-know/story-2Jb9kVQYO4jNEa4yQsrA4M_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/india-news/pm-modi-to-inaugurate-global-ai-summit-raise-2020-today-what-you-need-to-know/story-2Jb9kVQYO4jNEa4yQsrA4M_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 33
-  - title: "POLITICO AI Summit: An AI-Powered World"
-    excerpt: "The POLITICO AI Summit will bring together policymakers, federal officials, technologists, private-sector executives, scientists and advocates to explore the future of artificial intelligence."
-    publishedDateTime: 2020-10-08T22:14:00Z
-    webUrl: "https://www.politico.com/newsletters/politico-ai-summit-an-ai-powered-world"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 19
 
 secured: "eCkx3YZ60AmzjvZa/GNz3oiSc5aNiC6DAgCY9PkPoarVLQrHC2GLZJxFHWJ8B0zOM4veGQgrAar1KqsqUIrgzhZPjxKRwCTbOMcfTbU1QdRg8VywoqyNAgZYS0aBrCe1n+TWl1UtHDjwbY79iHYQfaG5sozXEwzmqmi2iHOley4jvc3d8y2sIZlyWoQva3eCFpmiRSm7Ph7UFePoRihGvUEfk3cNTPZY11NASxFSq+Loph+CdQWHImMxT1NRTknDKY8hueMFS/Xfay9c3wTI6OC9VhONbPfjU4zuFKmvRBkDwRT/WvLQAqvVkbsnAYu/KwfB0iZL9qCIB4TWb9C89Xz+OkXRB5K3ty+TIH/mYxo1pGrqdJF+YZGrrCViemCKV6KycLFJWRej3FN0ISnahsmMdy4UklTBclWtjdt1AIvtCSuK21oumybsyf/V81qxZM66o35qdGU9HW8jEFOfjQVnoPnlkSZuySxxk1e5iUJGsvEhZ+yNCYTyW0HxaQfKIsV//7Zptu5PgUkThIkH6Q==;ej1fDSg17reundp9z7xUTQ=="
 ---

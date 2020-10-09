@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovati
 ampWebUrl: "https://www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/amp/"
 type: article
-quality: 69
-heat: 99
+quality: 89
+heat: 119
 published: true
 
 provider:
@@ -24,7 +24,29 @@ topics:
   - AI Ethics
   - AI
 
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7f9c645440271868a67e29%2F0x0.jpg"
+    width: 1200
+    height: 986
+    isCached: true
+
 related:
+  - title: "RAISE 2020: Responsible artificial intelligence for social empowerment"
+    excerpt: "India’s biggest AI summit RAISE 2020 seeks global collaboration for the development of an artificial intelligence ecosystem that is responsible for humanity and committed towards social empowerment."
+    publishedDateTime: 2020-10-05T09:42:00Z
+    webUrl: "https://yourstory.com/2020/10/responsible-ai-social-empowerment-raise-2020-ravi-shankar-prasad"
+    ampWebUrl: "https://yourstory.com/2020/10/responsible-ai-social-empowerment-raise-2020-ravi-shankar-prasad/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/10/responsible-ai-social-empowerment-raise-2020-ravi-shankar-prasad/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 74
+    images:
+      - url: "https://images.yourstory.com/cs/2/a182c7e0140711e987e2f7248b252f46/Imagerbzg-1601891856082.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Responsible Artificial Intelligence for Social Empowerment"
     excerpt: "Ravi Shankar Prasad Success of Digital India has set a new global benchmark for leveraging digital technologies for inclusive growth, good governance and"
     publishedDateTime: 2020-10-05T19:08:00Z
@@ -38,20 +60,6 @@ related:
       - url: "https://www.dailyexcelsior.com/wp-content/uploads/2018/08/dailyexcelsior.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "How Do We Accelerate Endpoint AI Innovation? Put Developers First"
-    excerpt: "Dipti Vachani reveals how together with Microsoft, Arm is optimizing the developer experience with streamlined, scalable tools that put creativity first"
-    publishedDateTime: 2020-10-08T15:58:00Z
-    webUrl: "https://www.arm.com/blogs/blueprint/arm-microsoft-ai"
-    type: article
-    provider:
-      name: ARM architecture
-      domain: arm.com
-    quality: 39
-    images:
-      - url: "https://www.arm.com/blogs/blueprint/wp-content/uploads/2020/10/dipti_topimg.jpg"
-        width: 1940
-        height: 980
         isCached: true
   - title: "A framework for automation in financial services"
     excerpt: "Global Industry Leads at Appian The financial services (FS) sector is currently experiencing one of the most challenging periods in history. The ongoing Covid-19 pandemic, fierce competition amongst fintech challengers and the encroachment of large technology platforms have made it necessary for banks and insurers to react in order"
@@ -68,6 +76,6 @@ related:
         height: 422
         isCached: true
 
-secured: "NLqnYtFuPMuNBeAU86zVJOtc5nOn23F0wAierukJsyCYnWNznf7PYpZzcI6l4Yef90TeJLl+UY4ZrVAo0lrg75KU4aGm3GJ/fuSzlDjQUkNjiTa/wu8n9YPwm+kkkRFB7E9z/ZXVoUPAS9U5b35MPKjAQ70bFh9DAWqzZm2ELs253JyQWp+4ws6B+1d9vdH4e9mgo8iazv6f3eCU/kX4Hts9blLcjnqvh2/0dJEWMbj2O9aS8SdjAmG5sSLiNL1u26zx1Wo8GVxyYU/O0qaFU9izlLVBr7tZp2ssOq3UTpsUYdjqYC6iz4PaGrAnsoCy5PRqmXqYMU1p9S0BGKLfH9cb8o74BxU7te9MPZJ04Y+kUM5Sq2XkN/sb6yU8GGNKi0k2q8gHRoVpCiSi8L03ICDbPOq/RL7QYO/miM34wT9Kz9cpbVZTlEoh+DeXIXWn6rnS8i3hTL7Rz3tN4cWHEE9vxzu1xz1eH/J6Gw3OmOXsM3AwCRLk3uYy0/j4bQhGEVIjUlDlym1PzR2oLLL0MQ==;6C4+k6mVqTfMxW1YngI9fg=="
+secured: "xRfCuPrbI9nKNwOaBGDQglgutRH0y9ao+pu/Y+lsPsjP7BULAlBmp92Y3Hj733njlT7bdJLyag/0MXcbIljIQ/ZJH4AVcvis3oYepv9AeJhkljPoU6E5kBtTCGVOsu9AEMMQiOM+Sq+/joDVpZetEcT6lAtA4licGVlvLW7S+Mb4DZ2cLRqIlNAgZKGC3HPxwDOOQM+49ZfUU/9x12mcEjcd8WmLu9Cn0TiBohNsaICVZ675gNx59iurDA5NJKIgSF4CXs4hcLz2K67vhC6+DBWPLuvjS0ws4EA2EpPimwrlu8O2rmLtxVXu86dk8G5fYEA6COVLmUaSvnNJ7Caf+Jsxdmk8iao02upFwlqlIeI=;9TjPRuL4CeRvJAVzSpGq6A=="
 ---
 

@@ -2,6 +2,99 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-09-12-gary-marcus-covid-19-should-be-a-wake-up-call-for-ai.md",
+      "title": "Gary Marcus: COVID-19 should be a wake-up call for AI",
+      "excerpt": "COVID-19 may be a \"wake-up call\" for the environment and global equality, but Gary Marcus thinks it should serve as a wake-up call for AI too.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/11/gary-marcus-covid-19-should-be-a-wake-up-call-for-ai/",
+      "originalUrl": "https://venturebeat.com/2020/09/11/gary-marcus-covid-19-should-be-a-wake-up-call-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/Gary-Marcus.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/11/gary-marcus-covid-19-should-be-a-wake-up-call-for-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/11/gary-marcus-covid-19-should-be-a-wake-up-call-for-ai/amp/",
+      "publishedDateTime": "2020-09-11T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-09-12-voltas-to-invest-in-smart-products-led-by-ai-robotics.md",
+      "title": "Voltas to invest in smart products led by AI, robotics",
+      "excerpt": "From smart products and smart factories to devising digitally-enabled preventive maintenance mechanisms, Tata Group's consumer durable arm Voltas has embarked upon an aggressive digital strategy. Voltas MD and CEO Pradeep Bakshi says that the company's upcoming launches would include a number of artificial intelligence-enabled products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesstoday.in/current/corporate/voltas-to-invest-in-smart-products-led-by-ai-robotics/story/415834.html",
+      "originalUrl": "https://www.businesstoday.in/current/corporate/voltas-to-invest-in-smart-products-led-by-ai-robotics/story/415834.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/voltas_505_110920102338.jpg?size=1200:675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://m.businesstoday.in/lite/story/voltas-to-invest-in-smart-products-led-by-ai-robotics/1/415834.html",
+      "cdnAmpWebUrl": "https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/voltas-to-invest-in-smart-products-led-by-ai-robotics/1/415834.html",
+      "publishedDateTime": "2020-09-11T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Today",
+        "domain": "businesstoday.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-12-datacast-episode-42-privacy-preserving-natural-language-processing-with-patricia-thaine.md",
       "title": "Datacast Episode 42: Privacy-Preserving Natural Language Processing with Patricia Thaine",
       "excerpt": "During the initial interview with a professor who later became my advisor, he talked about the different projects that I could be involved with, including lost language decipherment and the analysis of ancient languages.",
@@ -1061,90 +1154,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-4-simple-ways-businesses-can-use-natural-language-processing.md",
-      "title": "4 Simple Ways Businesses Can Use Natural Language Processing",
-      "excerpt": "Natural language processing (or NLP for short) refers to technology that allows computers to understand human language. NLP is what helps computers read, edit and summarize text – as well as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/09/11/4-simple-ways-businesses-can-use-natural-language-processing/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2020/09/11/4-simple-ways-businesses-can-use-natural-language-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5afcbb8de14d399113ebc7%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/09/11/4-simple-ways-businesses-can-use-natural-language-processing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/09/11/4-simple-ways-businesses-can-use-natural-language-processing/amp/",
-      "publishedDateTime": "2020-09-10T21:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-delivering-ai-to-warfighters-is-strategic-imperative.md",
-      "title": "Delivering AI to Warfighters Is Strategic Imperative",
-      "excerpt": "Delivering AI to Warfighters Is Strategic Imperative. The Defense Department is in an important transformational pe",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalsecurity.org/military/library/news/2020/09/mil-200910-dodnews03.htm",
-      "originalUrl": "https://www.globalsecurity.org/military/library/news/2020/09/mil-200910-dodnews03.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-10T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GlobalSecurity.org",
-        "domain": "globalsecurity.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

@@ -37,7 +37,12 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 54
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7fda7f41d095658868aa45%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "IBM teams up with Activision Blizzard to manage tech for the Overwatch League"
     excerpt: "IBM will provide cloud, Watson AI, and machine learning for the Overwatch League and become a presenting partner of the Overwatch League Grand Finals. IBM will power interactive and analytical ..."
     publishedDateTime: 2020-10-09T05:16:00Z
@@ -48,20 +53,25 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 51
+    quality: 71
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/10/overwatch.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "IBM Enters Esports Arena with Activision Blizzard in New Multi-Year Deal as the Presenting Partner of the Overwatch League Grand Finals"
-    excerpt: "IBM to help power interactive and analytical content for the Overwatch League, engaging fans and players through cloud, IBM's Watson artificial intelligence, and machine learning"
+    excerpt: "IBM and the Overwatch League™, the world's first global esports league with 20 city-based teams, announced its"
     publishedDateTime: 2020-10-09T04:01:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting/article_e5d1c22b-cc99-5de0-accc-251c39e035e0.html"
+    webUrl: "https://www.prnewswire.com/news-releases/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-301149158.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 0
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
+      - url: "https://mma.prnewswire.com/media/1309782/IBM_and_the_Overwatch_League.jpg?p=facebook"
+        width: 2700
+        height: 1414
         isCached: true
 
 secured: "ORm3oImrgwZV8tVawmcF/G66E37RpGxL5X1SAqdGnvM1DvNQTUDTNWXa3+G6G7wA0lGRpFfI6KwqUH8vhw59ODxItglA3PtuALArfK+CqCJkW/sLOoov42dKPn/W2HAjL72kN06V+6kE8drnwRLxRZ8qLQpSwXn3aJF7BEBprsM6jj14ZCSWxHQ0IbFkvHksPbR8p0E883x7WKRdFLPLqdCsE7PyagabyuRavizUC3rMiB6Vpsi7qQmB0V0s+Uc3FAsXaYnVtxEnuWYmanAAgYV4Bt0nyirIiAjYzo7a8hJk5mV6WuBswn0NVHYaAW2XnEU/D7+haR+EIxE+Wlw/jflcI237Q8ri7LWrCZahWmI=;IjJwaXjEoMhrnZMRQX89/w=="

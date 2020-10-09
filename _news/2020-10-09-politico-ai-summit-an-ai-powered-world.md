@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-08T22:14:00Z
 originalUrl: "https://www.politico.com/newsletters/politico-ai-summit-an-ai-powered-world"
 webUrl: "https://www.politico.com/newsletters/politico-ai-summit-an-ai-powered-world"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+images:
+  - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+    width: 1120
+    height: 629
+    isCached: true
 
 related:
   - title: "RAISE 2020: A mega virtual summit on Artificial Intelligence"
@@ -34,22 +40,6 @@ related:
       - url: "https://www.oneindia.com/img/400x99/2020/10/raise-1601867009.jpg"
         width: 400
         height: 225
-        isCached: true
-  - title: "RAISE 2020: Responsible artificial intelligence for social empowerment"
-    excerpt: "India’s biggest AI summit RAISE 2020 seeks global collaboration for the development of an artificial intelligence ecosystem that is responsible for humanity and committed towards social empowerment."
-    publishedDateTime: 2020-10-05T09:42:00Z
-    webUrl: "https://yourstory.com/2020/10/responsible-ai-social-empowerment-raise-2020-ravi-shankar-prasad"
-    ampWebUrl: "https://yourstory.com/2020/10/responsible-ai-social-empowerment-raise-2020-ravi-shankar-prasad/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/10/responsible-ai-social-empowerment-raise-2020-ravi-shankar-prasad/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 74
-    images:
-      - url: "https://images.yourstory.com/cs/2/a182c7e0140711e987e2f7248b252f46/Imagerbzg-1601891856082.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
         isCached: true
   - title: "In AI Push, PM Modi To Virtually Inaugurate Artificial Intelligence Summit 'RAISE 2020'"
     excerpt: "PM Modi will be inaugurating a global virtual summit on Artificial Intelligence named ‘RAISE 2020’ on October 5, which is being organised by the ministry of IT"

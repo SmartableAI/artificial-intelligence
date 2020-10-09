@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-08T18:11:00Z
 originalUrl: "https://seekingalpha.com/article/4378207-microvision-lidar-is-worth-2-billion-according-to-valuation-of-velodyne-and-luminar-lidar"
 webUrl: "https://seekingalpha.com/article/4378207-microvision-lidar-is-worth-2-billion-according-to-valuation-of-velodyne-and-luminar-lidar"
 type: article
-quality: 0
+quality: 14
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://static2.seekingalpha.com/uploads/2020/9/47545695_16002887225093_rId157.png"
+    width: 640
+    height: 383
+    isCached: true
 
 related:
   - title: "Ford Owns 13.06M Shares in Recently-Public Velodyne Lidar"
@@ -40,6 +46,6 @@ related:
       domain: seekingalpha.com
     quality: 0
 
-secured: "yuSQccM6dOTrqF05bzoU089EnQxCbElguijFWIP9kH/MA0+UXkpUsFL0gnceToYZxxo4vWBE6a2sWJFgjG5EaiqMPNb9OdLu9a8jbSrPEhJSRPaTuciZ9hIAn2hmyA+5WN6yl5fdrQw502zrCABwvDN1W1rGFGtdibaYG477ptuwzN6e5vYBZLsAA3VXUAe4JNFH77DbPw3cvqqmdvPcjriV98+cCGdmPQKcIggVT6dFLsdveoHsdwvD5IFgLTL2hFfKGAquLTeqZ+/g8U7DZKK1R+Mh5BFIOCGo+/mSdElyZZJg2jzg3INlofioaboQ9g3v2/LdWBDpCQSzXkleLpKjUlPJMcEVULO0FB3ziTWsgG7UiyF/l/oL2zg4VGA8bbEVDFI11gY6ZHv4dn4A3xJOaXoMnst+kOOOmV/yT5p8yMp2AKEf9PqeDq8lMSD9SPwa4ILoC6X1RDI3bhzA7/L6eNifw9b1BO5Dn6Khsg50PzonEkeQ97pFKSmVpCOCxwoZFRPmqlrM+XDl/IXdVw==;tbtuweboB9G46nOZ/2N1GQ=="
+secured: "DVAcFEzARj5H103ZpVkymyHOiD7yiUVPe1rUhP5LCJ3SpzoNZULFJK0KRQCFI3QK0Ax57OmC45tblkzh9mINIV7cLJcYRS0+t9G4SvxE9VggT5Nnpl+nGxWjJaMSqtN9oCJmsvUgIlyWWMIBqPE5YN8qlM/i9HqMAUySW/gVKRQ5y4XJ4mmUVjRMzYSRAmW8nrDV4OFyzI9/HKTNR4GCWwegADyhkz4RzOpzz11RPLAXSIgbDfXMh9J3AfUa72m+kAVXPnnQ6msGZJucyaTvHYBQEH6o7yLKwApxVJ5ojAw9B1N+ObtI0ZQKoTQAEcyNvO1MByp5oTYXjzzOUAvIQ9KCbVxmHmd+FfBNqHvh3VQ=;soSoo88/x4f6i7HfLRIe/w=="
 ---
 

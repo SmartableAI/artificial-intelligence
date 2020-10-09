@@ -33,7 +33,12 @@ related:
     provider:
       name: Politico
       domain: politico.com
-    quality: 19
+    quality: 39
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "DIx3IOwzi9CztZFzTi/aiifh7WsF8t8424rXEfZ/oN2Q2nmxmdlhYP7as1nKINYfYfby/gHWjx+7FJPbFBKdT71IK5ojOF+0RzXvxibfmXfY6LIbfh2AoFQ47F3lWTbMRIUufu7rLOxaqWu/PHVYp+zfeLRNOe9gIWo4Lo9sWRs23ps2tk1D4DspO8430lrJEMVl1HoFLUUOroGxMg0Em/RnDfBOjHa/MkQ6tQCnR1J3dn3cQ8J3mpyYst6MzIeDT/b131KptGc8Du09yWWHRnPth9Vdz/n58tid/G0TbSuP+6bB9rPzA7JGSYknTRGq8pg5UHnPWehcl4y9LKbb51OETJxMSFgrTqFr9QFu6zw=;NcPMA3wZRhvcO99/dj2fAQ=="
 ---

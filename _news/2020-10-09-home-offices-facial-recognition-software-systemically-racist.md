@@ -8,8 +8,8 @@ webUrl: "https://www.dailymail.co.uk/news/article-8821801/Home-Offices-facial-re
 ampWebUrl: "https://www.dailymail.co.uk/news/article-8821801/amp/Home-Offices-facial-recognition-software-systemically-racist.html"
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8821801/amp/Home-Offices-facial-recognition-software-systemically-racist.html"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -20,6 +20,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "VvOq8aMjJXZKPDGyut/hZUM1pUyKlKCYsyn7fTrVSHcaQ4bTBnt6g0EOSvoG3K55etViF4eBBBxfgoSr4nr1Fv8rQvPikfKyb7gcUh/+wc3LMI2HH4DET/spwGb27Gkh2dgRq57au9Qt6cQiqIJuZoYb7Ia6JoAdC2nIakV5q3XZK1N+IBw2grcp8r68v4f2OTOEVa8pc2Z3as9ApvCx8vLJjCUen1DcuM7AG0eR7YN6+nHIOapc/TAH36g9qRogqpUBtepbSfZgQEwsS1YIcq8fw+B1qJgxQ3DVnCsLNTjY+Q05/vG1qLllQIYceWnHefpCVVUBTb4c1JjGrP2Ry0+PdWeLXjOvRWy1Spcundue4e2yXBcymEBx1LtfhZXgsWlPBSwrcDTXf/RBRgM67sAG0+OA/nzyhoG4VJcqebDBv6VURTWasBGhaHRE08l+G5GoFgFxfSiYdSP8hd2/eWprTjOn55mSW63JYnfXkbspIQZ82TDoD7TCy0WJoSyeh1YbTwLK5Ay2l4dmEDqwoA==;CWk2gnzC//8hVB/WbLV15Q=="
+images:
+  - url: "https://i.dailymail.co.uk/1s/2020/10/09/01/34174796-0-image-a-117_1602205033570.jpg"
+    width: 636
+    height: 382
+    isCached: true
+
+secured: "2i34a5l+lwJIJZuEvn+K7EzV+hn0cIKud61LGYfKiEBxKdEgBATt/1dI0zKBfNAg6VBdXNIDi8GXhT3xqmKmbG84z2LYKkjwuAZq1ApLJ+CL7lqClXFP/zze0i68ONZfasnP3SKMRDC9pJJ11kVk2y390CZf2Zok3UFGuF2XAV60+eo6QDQdPBkRKzGw0FC/A/MOwwx82i6cPA++snOFGBz18Zp6ANLjL5QWjV4EgIv1vvTB0zdpnamHqqST7bFxNn7xUDMkN8ij+Yov9Wx2yxLwKc1CFayTCk9P95Wy+2M//7hc42D8TyC14kkZIFPqEzm449GBS4qzNWAfr0aRIw2yhWgCLF2ZJ/C4hffaOLg=;1bnszqvp3CXOjrJf4hKYZQ=="
 ---
 

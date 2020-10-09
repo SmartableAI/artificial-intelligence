@@ -101,7 +101,12 @@ related:
     provider:
       name: Anniston Star
       domain: annistonstar.com
-    quality: 4
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/annistonstar.com/content/tncms/assets/v3/editorial/4/74/47436cd8-fb52-11e5-a7e1-d36fba67df42/5703f3478401e.image.jpg"
+        width: 398
+        height: 330
+        isCached: true
 
 secured: "vohdJbga1qV5GlwBiQfeFhEPQdmjtTugANYVoM9T0Qqrzd9eQmsVJBpn5lvTLuvfTxWoB/xo++GJUstews0fWqGmDg5reCxTeEViSEWiei3b7COj2hetyN0CkdzpiTDYUUe43xESa+aGJ8VkUa8ChZ4asVlyPrsb5HvNxtQHMau2xjoJHHOdcxpoSH+sgkdQhJtx2L3/NWsB0bOZK8E/eFIHmQj9bCZFwIEL6tCuDw3rogmzAJmsyOMh1X1Wq0IQ1URsQZ4Qs6fiL5xjhAkK4ZmRLIeppzXWn5RFVx8OPFMhhnuiUeApnlGTB0AEpCUOofeUHfaPxRkLvzre79Zc+8qxAgkSd0vHA9MRONbBr5/AcGNyAL4QWBSx1kjg2LqQSM6FNy3W74BxF2rwbsS9W/tx7E7zeb1zij0kEZ+pBkwuQ/uX5FwWjEXRt9Dh9TbRLY/5fNL5wJOC5sv7BMXscBz4ALkM2rAto1woPMFBYdkHODVHkLRN/HIDcMOD2Pw5rK2AKz004YnByZD32SHe2w==;kW97OLQCFKGfWUtKzYMmQQ=="
 ---

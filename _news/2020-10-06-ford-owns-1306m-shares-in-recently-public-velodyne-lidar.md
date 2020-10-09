@@ -21,19 +21,24 @@ topics:
   - AI
 
 related:
-  - title: "Ford reports 7.6% stake in newly public self-driving auto company Velodyne Lidar"
-    excerpt: "Ford (NYSE:F) holds 13.06M shares in Velodyne Lidar (NASDAQ:VLDR), equating to 7.6% stake.Stake is calculated based on 172.8M common stock outstanding on Sept."
-    publishedDateTime: 2020-10-05T21:13:00Z
-    webUrl: "https://seekingalpha.com/news/3619947-ford-reports-7_6-stake-in-newly-public-self-driving-auto-company-velodyne-lidar"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 0
   - title: "MicroVision LiDAR Is Worth $2 Billion According To Valuation Of Velodyne And Luminar LiDAR By Ford, Baidu, Hyundai, Volvo"
     excerpt: "Velodyne and Luminar are currently (still) the market leaders in automotive LiDAR. Since 2016, Velodyne LiDAR has been valued at at least $1.8 billion in several financing rounds by Ford, Hyundai and Baidu,"
     publishedDateTime: 2020-10-08T18:11:00Z
     webUrl: "https://seekingalpha.com/article/4378207-microvision-lidar-is-worth-2-billion-according-to-valuation-of-velodyne-and-luminar-lidar"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 14
+    images:
+      - url: "https://static2.seekingalpha.com/uploads/2020/9/47545695_16002887225093_rId157.png"
+        width: 640
+        height: 383
+        isCached: true
+  - title: "Ford reports 7.6% stake in newly public self-driving auto company Velodyne Lidar"
+    excerpt: "Ford (NYSE:F) holds 13.06M shares in Velodyne Lidar (NASDAQ:VLDR), equating to 7.6% stake.Stake is calculated based on 172.8M common stock outstanding on Sept."
+    publishedDateTime: 2020-10-05T21:13:00Z
+    webUrl: "https://seekingalpha.com/news/3619947-ford-reports-7_6-stake-in-newly-public-self-driving-auto-company-velodyne-lidar"
     type: article
     provider:
       name: Seeking Alpha

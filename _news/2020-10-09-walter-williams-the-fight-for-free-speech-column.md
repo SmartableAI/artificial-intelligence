@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-08T18:16:00Z
 originalUrl: "https://www.annistonstar.com/the_daily_home/free/walter-williams-the-fight-for-free-speech-column/article_6453e9d0-0992-11eb-8ff8-0b2a3e72f26b.html"
 webUrl: "https://www.annistonstar.com/the_daily_home/free/walter-williams-the-fight-for-free-speech-column/article_6453e9d0-0992-11eb-8ff8-0b2a3e72f26b.html"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/annistonstar.com/content/tncms/assets/v3/editorial/4/74/47436cd8-fb52-11e5-a7e1-d36fba67df42/5703f3478401e.image.jpg"
+    width: 398
+    height: 330
+    isCached: true
 
 related:
   - title: "WILLIAMS: The fight for free speech"
@@ -103,6 +109,6 @@ related:
       domain: cnsnews.com
     quality: 4
 
-secured: "t5wXHir3+78F3GDccnG0jZVlJmNDxFU/gO/h5G50IkVCvGQ/Ajob9CDQxoQOLgeXq3vSR9OCPOL567TeQlnAJtep6rEieYSjIrLqhT7DHNFXruXdCdwaMiFMhWxaAtryxwRRNEAM1PY+7s7aunHfPd0xzrpksdrDmXtCRUQiOGSd9a8U4SIjiV3hz/jI7xIq+OpdTCuy4muJbbYW0wXmkN03Whv3DTBPeB4p0WVROEznocAS8QdgtVARC1ytiR77DdLbirhxSnzRF1T+DlNS78uzT2dPTGlKl6RoLeL+xlXpjjh7XX8fdPbbypZh1CGFMulITO/D6aUCgVu71oalpv8f0SbfFObmPeY0iAJIx7Cz2CWB8nSw8LkLyssZvgaMpZNAEU3Z945afidKAcMFZ58EuR2/cEgnDGsOI4JkT3xXcO2beCdWLKatD8pYdcnLhIDj0ujQ1Yjks42fYtPuw9/sXcQQr2AOWffRTyyygPk+cCl4rVfMXdc+OOFNLiecHPuHKWEXAG4c68IGSNENJA==;n0bnSer8CoGimf/MNs2gOA=="
+secured: "6XS9GCIVQ8FeyofYXUsZ5iwf5fR1jtoX3v1WZylEfrvJGg1ndKQysUMPwIbpPY7QEggZiQWz39h1hA5bOqaPXMt0g/6dRnS0MnNI4DyD4G8479R/OCEdZt34YB7AmUx8lj05bHNSAm63YvGz2MqgIGE5g4qG5savg2g7QQt4fyyEebnX90lxWR8F+12DJX2PaVNakjCJhQ2Fn39GKu8kZaVy10Gsz/M53EJxp0PmXFRM1b8EV/woZbnBMkCEopKVUXij0WN7qDxq6E49joMH2v/llJsw4kXJl95BAUWea9t4ahyM4oAOKjsBmPTmAPIMZvbt9pFcEwuu29+N4AYfzp82oIcrOSvhmBd2Ok2zKXI=;MQSRw6SS9G7mYCN+TNiCjg=="
 ---
 

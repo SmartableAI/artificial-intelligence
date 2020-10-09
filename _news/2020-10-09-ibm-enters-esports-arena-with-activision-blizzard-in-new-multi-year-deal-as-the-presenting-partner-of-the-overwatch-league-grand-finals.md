@@ -1,27 +1,27 @@
 ---
 category: news
 title: "IBM Enters Esports Arena with Activision Blizzard in New Multi-Year Deal as the Presenting Partner of the Overwatch League Grand Finals"
-excerpt: "IBM to help power interactive and analytical content for the Overwatch League, engaging fans and players through cloud, IBM's Watson artificial intelligence, and machine learning"
+excerpt: "IBM and the Overwatch League™, the world's first global esports league with 20 city-based teams, announced its"
 publishedDateTime: 2020-10-09T04:01:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting/article_e5d1c22b-cc99-5de0-accc-251c39e035e0.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting/article_e5d1c22b-cc99-5de0-accc-251c39e035e0.html"
+originalUrl: "https://www.prnewswire.com/news-releases/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-301149158.html"
+webUrl: "https://www.prnewswire.com/news-releases/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-301149158.html"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - Natural Language Processing
+  - IBM AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://mma.prnewswire.com/media/1309782/IBM_and_the_Overwatch_League.jpg?p=facebook"
+    width: 2700
+    height: 1414
     isCached: true
 
 related:
@@ -35,7 +35,12 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 54
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7fda7f41d095658868aa45%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "IBM teams up with Activision Blizzard to manage tech for the Overwatch League"
     excerpt: "IBM will provide cloud, Watson AI, and machine learning for the Overwatch League and become a presenting partner of the Overwatch League Grand Finals. IBM will power interactive and analytical ..."
     publishedDateTime: 2020-10-09T05:16:00Z
@@ -46,7 +51,12 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 51
+    quality: 71
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/10/overwatch.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "IBM teams up with Activision Blizzard to manage tech for the Overwatch League – Jaweb"
     excerpt: "IBM will manage the technology for Activision Blizzard’s Overwatch League in a sign that esports is starting to demand the most sophisticated cloud and AI technologies. The idea is to put esports on the road to being a mainstream phenomenon alongside traditional sports."
     publishedDateTime: 2020-10-09T05:42:00Z
@@ -64,6 +74,6 @@ related:
         height: 675
         isCached: true
 
-secured: "2PXO31heysr1c3xAhVSgZbxgaqKqNAHnzcoE1tiwcaFVaSVl55wwPZAP973ArSIw/qIpJeLP5ZBfJ56MTR026Tc3v3Z64zizvNkoTeXO+cdjhPJQBVEHZZU/ChS6l7KIFQFXYv9tztZrOwmm7dWHrIgHgm0rdVJhmNqnQT+zkDpb7kMmOQmzOlzTgo6+2k8UULJdem94fqY6zUX0B5iK1n66k6G87G0dHuZh0uBoAxxHJQ3NJUh5bpVEXnLE81PJeHeC63whHPcW/gMaoJxhRMcRNqfJ/NF3mr2xHQUXltOnnwA+Z78p32+wnwn+CtQ2epaa00fCTRzVY2tjwRWAIFpf62xeOTMEFU2bVqSOp3o=;D8S+ezDYna52tGP1bL/CLA=="
+secured: "uyXfIDZLWWxlIPSb0JGzmGUpJae+Aw/qtCMKHB52c+TIx7FStk9LHflCMHvaPpzw17/VfvspD0x8q6OQV7dBxO+0ngjdGXV0PAVXqpeunSMqGwQFHGEo4HZFOEFyGGmLppFqOabvM/HpwKZwSNWChdyxhXfmO5DujfbTWtKgyD9El4zKs7n+q9to/7oej01tfCcPenqt7TSK2eUcx8gLpUrVGrgtF/mWhbIh1G67ZrQ2e3rcF6L8y98xmQ+95Mglyo3O4BFdSSZBKTm23UlWil23IZzL+/2bkrtcAwpFQS/32NXXqAhe5rOa7v4vM9om2aVFp0k2mEKKKQ+DvEEPHx5rrbJGSk1HeaO3M1GrtjE=;nppKwiO/NuM6KG9Z0zwOJw=="
 ---
 

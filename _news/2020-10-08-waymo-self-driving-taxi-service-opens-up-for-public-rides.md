@@ -73,7 +73,12 @@ related:
     provider:
       name: Daily Mail
       domain: dailymail.co.uk
-    quality: 49
+    quality: 69
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/10/08/20/34164124-0-image-a-4_1602187103476.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "c0TBHZlSiqWGiAhKngx2jXzwuz5JqWkKKzh180XMoYqgSGNKlKA2PZAAUqjKZMk/I2eu4dfEatNNNOOiA8LXfUT4R2s3G5szpeTp1yLh+aahbul4jVpK4ab/AOIw3P1pElZsa48NA8ZuIv2LDRYJykuU8J/knITC9LREfW+SNq7y1qVbI2Qe/M1vWjPZAk0ti6xp3Pi07zzJ127M9oosBEIbhJBF26+U0bB2pFbUgI7rAWd+omzNXli929M6BUs3liBFsaYmq2LTtIcVc0WzCus47Zioyp++GVLRW+H7Czkq+0SvL9WeuahDSkKcAZ43riIJFTqeTMwGOpYC1y2q5y+Yegr6VFwDr0kWKfCsyfH+kRcTVJ3pc3R0QFatVV1UeKt5/5U4wfTR3Pr8HcXBdl97gau/ynf+fGXIEdJDL9tz8ZCJV1jMT5e9F9Vsg1uKFGRJ6M7hYLiRKnpTVNIQxgHBV+UjyoRaG6pgq+rt5Wu+KLnsSP8Q0a3eXg5tzIF7SF2hcRG/cODvq+UGGKY0Vw==;OIZ6BkPYa2UnWcMDAq8tiw=="
 ---

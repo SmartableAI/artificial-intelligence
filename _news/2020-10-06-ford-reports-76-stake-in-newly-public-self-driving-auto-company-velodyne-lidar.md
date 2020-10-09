@@ -38,7 +38,12 @@ related:
     provider:
       name: Seeking Alpha
       domain: seekingalpha.com
-    quality: 0
+    quality: 14
+    images:
+      - url: "https://static2.seekingalpha.com/uploads/2020/9/47545695_16002887225093_rId157.png"
+        width: 640
+        height: 383
+        isCached: true
 
 secured: "UR+2PFhKfsw8vIrAb64iiXYg6D9OXLgfdj5EuijbHuyl/V93MgV7RMutJ/KyafXOwXx7CA4kfKD5SmLgXjuZNzYelLrQxTkchXXI2cSU5NlFeW05bGKGPgxqJ27NJSn4MUE3JrJxltOtgWfhLsaDScgDU9g4guPt3loQLVel8etL5ARRl0SnM7qgOepUUd+EdSFsf4LSDpE6eB2EM4YaID1ZSLWZbttD2LeNhzczrEJIKk3Tho+35HbokJFh5QX5d6p3FA+l9gUFccERZjm/He3OQ5wRF7qNGsWvZsxQnYJgdHJD67hO2RpLhCJ4tx0hyLjua6bQVUTaTDffmNzN2YVbeo75SY2CU0dbJaMhtCg=;sasiHpjISo1Ct+U99sLarg=="
 ---

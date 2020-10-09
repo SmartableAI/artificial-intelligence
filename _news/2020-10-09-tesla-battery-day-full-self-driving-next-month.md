@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-09T00:30:00Z
 originalUrl: "https://seekingalpha.com/article/4378222-tesla-battery-day-full-self-driving-next-month"
 webUrl: "https://seekingalpha.com/article/4378222-tesla-battery-day-full-self-driving-next-month"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "eX4Wt3W00SMHFOYzd71w+d3woEFrRz14Fc5AVDGOEQ0ljGc3Y/UNJxbCp3aJg2NjVmruPfOrOI1STUYx3da4dft6+P/53ZchuSOi1ULPlsm/l48/sirHC68hrA5bgUJ7G4OS637mCxga8ED8dQPAd0uKMqVgrcUwEaShpmtTvzXMRYhgDlnm3uDwp7wZNrxqz4xBqPYdVlnipC5X1fyreSJiiXZHZX8eR+7rf9oR4MS0vusjJEnzPF21Z4PUcISEBV7RbzX8bRfGwo51RgpiKchL9wWqrsKnHILpLI/HYev01X8EcMP9yL9ATepQfD08oNRzAY+d/TifpUpL0VfOD4RnrkG3WB/G4awe8k0nj/+Pk4e/w23TygPk1CpBJGJRXFKkzgLIGFe0+1YAFv9+np+yRm9eiMRkDtxgOd/8A0LksGVg4uVO9poKEMqpHaPGW28mdqbtRTd+gG9G4YT3NlQpndJcZGSkpH1zLFd2x+t8T+j6+NU+lIzsDAyBXGCoeZ6b+mPJ3AY+ZXID6jVHyA==;IId5Q/J8gaJC5lbULN1VKQ=="
+images:
+  - url: "https://static2.seekingalpha.com/uploads/2020/9/23/saupload_tesla-battery-day-drew-baglino-elon-musk-cost-reduction-improvement_thumb1.png"
+    width: 1280
+    height: 716
+    isCached: true
+
+secured: "wJNJjJ/abC/yMFr3adVNr1ffM7MorzhMdd0zHUocslKhxxaPNPDCZ5MyWOD43sprcSMjR9zhmJ85FsOdAHE0DWNcA/RrhjxXBuc18L+7yJNnqobj+TjUa/jJpURLjN3Nb+jf/axR1w0ZOvkGR+Ia5q4IjcmJZpW5tZQ37kqQO/fAhU1s4pBtqeMIzuVrzLmCkds9dHfJrDJLCCNT7RMIC682xZEdJ01IECgFL9nMcfo60QQEqZrnOMnqNtluDscPIQjZ9CBC4F6zFPugCy7CdozyT2rrQzSH8g9g77EDXEtSoqa/2Aq+RVyU4vPd7q3uTMddmM3g9azumjk9idsxHWlbPjnLOTMA7FkGHat42t0=;UPwN7fO3VdfvuMLzr6illA=="
 ---
 

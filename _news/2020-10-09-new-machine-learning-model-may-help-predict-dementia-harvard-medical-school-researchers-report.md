@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-09T03:50:00Z
 originalUrl: "https://www.thecrimson.com/article/2020/10/9/dementia-prediction-tool/"
 webUrl: "https://www.thecrimson.com/article/2020/10/9/dementia-prediction-tool/"
 type: article
-quality: 7
-heat: 7
+quality: 27
+heat: 27
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "kJcIS6XfqamVh3Ke5fR3kQ2bH2jo9SQXIZRg0pZMIW8QRfYnml9ZhRcoX4q4ZKrnO3HIkFt4djfjgINa6gd50iF/SvXn3YFftTwSL3yENAkcaCyvKObpN6kj+D0/eveEB/Wuxwd/bRJBNOX62Jrm14x2rGdRspOamcoRV0BINOzE6Mxz2HJGI7ddGsJqNaEAgNRtWJ4YpFnc9ir1mxGQxYXPvx0dxGaWuXjp0w/8VWBaVDzRtZQVH6P1/QKqyZfICQOpa/8NQ4e/D73Geg0ULQhAUDcbNVGeWKj4NwP14/1Ybqk9Wr/CwW26b0fgcfsdkEqJ4N2jtOjHljjbrXPtzonVkPfpKo45FGzQR7um+wuKqvPM4DXANVuWt+9Tc1+NBD/rHYoc8vLeO+N1N9vunUqlCjxTr9kLXsqWxtB44uNlklExUYnRxa/7h6nU4f8ZbvxsAkI3GAbdW17tmNYDNTnXmtf75+Kd4vL0x8FZgTzTXiwEREV5u+j/s+JKyTEBjSmVFkLifZz2I1ZYTOMTAA==;s6NN0KngiRJUCx+S4aXvCw=="
+images:
+  - url: "https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2020/10/06/200052_1346014.jpg.2000x1333_q95_crop-smart_upscale.jpg"
+    width: 2000
+    height: 1333
+    isCached: true
+
+secured: "eEYITkxchavYUUhJmIL3mkF0G4bTjsBdkewpmbp5qEGEAP0cA5TA7rH8xTZbEW5fyAzabT5lx7brrEdr5gCodBS40BdRjZ4po+6TjYdnNlkeffhHS2WFJ6S+UtM80xrmi1US30uGaRL1JjKkGrMskvOrrUn2+OTzmFgFMzgA5AbTQP9LquCfM1+OrEe+/VhO0FxvUoXtydquClTHv5qywF5NceLTGq1AydMnRdCOpEwvLCyp8ljp377TrK7tc+7avxkXUSwJVcobbbQvbDDHdhasQ9Qek2Utru2KgURY1PF0GDjw8woYcWMGBhNxjAXW0pRN5WZSLIM379ewcQlnmF6LRzUSS8fCFCGK9C9hqfQ=;AzvWBEbp03WPEfUi5IEMZw=="
 ---
 

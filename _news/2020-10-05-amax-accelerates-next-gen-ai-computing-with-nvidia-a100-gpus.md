@@ -19,61 +19,38 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft 365 to get big Nvidia AI-editing boost"
-    excerpt: "Nvidia talked up plans to work with Microsoft to add its AI to Microsoft 365. For this columnist, that would be most welcome news."
-    publishedDateTime: 2020-10-08T22:48:00Z
-    webUrl: "https://www.computerworld.com/article/3584779/microsoft-365-to-get-big-nvidia-ai-editing-boost.html"
-    ampWebUrl: "https://www.computerworld.com/article/3584779/microsoft-365-to-get-big-nvidia-ai-editing-boost.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3584779/microsoft-365-to-get-big-nvidia-ai-editing-boost.amp.html"
+  - title: "NVIDIA To Develop 400 Petaflop DGX A100 Supercomputer For UK AI Research"
+    excerpt: "The Cambridge-1 supercomputer will be an NVIDIA DGX SuperPOD supercomputer with over 400 petaflops of AI performance and eight petaflops of Linpack performance"
+    publishedDateTime: 2020-10-05T18:24:00Z
+    webUrl: "https://hothardware.com/news/nvidia-ai-supercomputer-cambridge-1"
+    ampWebUrl: "https://amp.hothardware.com/news/nvidia-ai-supercomputer-cambridge-1"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-ai-supercomputer-cambridge-1"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 80
+      name: HotHardware
+      domain: hothardware.com
+    quality: 58
     images:
-      - url: "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_robot_touch_human_hand_by_kentoh_gettyimages_1060703206-100817766-large.jpg"
-        width: 1200
-        height: 800
+      - url: "https://images.hothardware.com/contentimages/newsitem/53044/content/nvidia-datacenter-hero.jpg"
+        width: 708
+        height: 398
         isCached: true
-  - title: "UCSF teams with Microsoft, others to fast-track AI in healthcare: 5 details"
-    excerpt: "University of California San Francisco teamed Microsoft Azure, Intel and Fortanix to establish a confidential computing platform that will accelerate the development and validation of clinical algorithms."
-    publishedDateTime: 2020-10-08T14:28:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/ucsf-teams-with-microsoft-others-to-fast-track-ai-in-healthcare-5-details.html"
+  - title: "US chip firm Nvidia building UK supercomputer to boost coronavirus research"
+    excerpt: "US chip giant Nvidia said on Monday it is building Britain’s most powerful supercomputer, which will use artificial intelligence to help researchers solve pressing medical challenges, including those related to COVID-19."
+    publishedDateTime: 2020-10-05T16:50:00Z
+    webUrl: "https://english.alarabiya.net/en/coronavirus/2020/10/05/US-chip-firm-Nvidia-building-UK-supercomputer-to-boost-coronavirus-research"
+    ampWebUrl: "https://english.alarabiya.net/en/amp/coronavirus/2020/10/05/US-chip-firm-Nvidia-building-UK-supercomputer-to-boost-coronavirus-research"
+    cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/en/amp/coronavirus/2020/10/05/US-chip-firm-Nvidia-building-UK-supercomputer-to-boost-coronavirus-research"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 69
+      name: العربية.نت
+      domain: alarabiya.net
+    quality: 57
     images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
-        width: 400
-        height: 300
+      - url: "https://vid.alarabiya.net/images/2020/10/05/f0a9d48e-6383-4b91-9156-a398e0944323/f0a9d48e-6383-4b91-9156-a398e0944323_16x9_600x338.jpg?width=466"
+        width: 466
+        height: 262
         isCached: true
-  - title: "Microsoft's Flywheel Kicks Into Gear at Ignite 2020"
-    excerpt: "While reflecting an important customer priority at the moment, it also highlights the investment Microsoft is making in driving integrations across its cloud businesses. The strengthening of the connective tissue between Microsoft’s array of products — across Teams,"
-    publishedDateTime: 2020-10-05T00:00:00Z
-    webUrl: "https://www.cmswire.com/digital-workplace/microsofts-flywheel-kick-into-gear-at-ignite-2020/"
-    ampWebUrl: "https://www.cmswire.com/digital-workplace/microsofts-flywheel-kick-into-gear-at-ignite-2020/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-workplace/microsofts-flywheel-kick-into-gear-at-ignite-2020/amp/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 61
-    images:
-      - url: "https://www.cmswire.com/-/media/dd733cd63b584d758bbaf690a96113cd.ashx?mw=1024"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Nvidia Says It’s Building UK’s Most Powerful Supercomputer, Dedicated to AI Research in Healthcare"
-    excerpt: "Nvidia announced today at its GPU Technology Conference (GTC) it is building the United Kingdom’s most powerful supercomputer, which it will make available to U.K. healthcare researchers using AI to solve pressing medical challenges,"
-    publishedDateTime: 2020-10-05T14:11:00Z
-    webUrl: "https://insidehpc.com/2020/10/nvidia-says-its-building-uks-most-powerful-supercomputer-dedicated-to-ai-research-in-healthcare/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 22
 
 secured: "9xhxUH6c4y/Sl1knx2k9Ece8wi/dE9kfcT6RTZduF8rK0wWxDb44uBUX6+FHoQHGrggqKjUkJlPl4WG72+UIikbr2cbLFQ4kcEgOJh2pF5niVpl5fmHKFqE7nU2/tMceQD2sY1y/48kX+XSg6boHRY7zcdki9YpyWCxyz8bwRrg+fSpYSsN9QVSgzdAipmUSBPGkxrXkWMoNPZDGFtRGy+zTDVqL+vl8PZvu4vkPYMdzIlB5tk1NfTfhc3Zw4qYlo/dPeyZhH9idcPUYQusFlK2sYVC04HJhqRzbM1+Bg1OKUdmVu/zFYtBYuwcnq1PHJQ95ASn7mDMdFrhKn3x8eeiui8KnLxAdO26XuiheaDekAMkmu7kPIkp6yDdqH1MCK20RLKNKxKl0BOQPNEjxwUoLbaCat7EoEUZkKl2lf/Tljgwh2TDajMs/pQ7Hsfx3daeu0s57v5bvIbWmWsva3poQiSbTY/ggaOt/mork4lMkRpCwVy7zxXTPY6XOkk2q6QgRnKZM5IWOIxyZTPz1rw==;OpSoCSPTr5SP0DokaWw/eg=="
 ---

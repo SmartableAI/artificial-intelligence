@@ -56,7 +56,12 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 67
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7f278b79657261d13693d3%2F0x0.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How man and machine can work together in the age of AI"
     excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Jens Martin Skibsted, Partner, Manyone A/S In reskilling"
     publishedDateTime: 2020-10-08T17:34:00Z

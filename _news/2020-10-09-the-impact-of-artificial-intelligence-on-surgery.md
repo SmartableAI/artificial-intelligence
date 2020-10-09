@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/calumchace/2020/10/08/the-impact-of-ai-on-
 ampWebUrl: "https://www.forbes.com/sites/calumchace/2020/10/08/the-impact-of-ai-on-surgery/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2020/10/08/the-impact-of-ai-on-surgery/amp/"
 type: article
-quality: 67
+quality: 87
 heat: -1
 published: false
 
@@ -22,6 +22,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7f278b79657261d13693d3%2F0x0.jpg"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "The Importance Of Human-Machine AI Team-Building"
@@ -87,6 +93,6 @@ related:
         height: 601
         isCached: true
 
-secured: "Q6rAoTSH8Sc5YI2OPXaxcPFFbPKEZQLLHG5uzcg5tggSuGgQB1TiB5yT26LdXAQj9DydKo4aD1zNdQmhGqHH3au0aRS09z1J1CSwjzHjl6SUMjwYDFbu4wdlHWaEPg4KY5b/SFYGHl/rMZ/7PliGmi5mmYWnlmFJtCSb5V3sxCtVD+y0/oSO0lJ+e8ZGes43CAwJsWIeiV/YVV9A3xTPuGQ21W0Ih74eLgHF3oZpIe8cDFhq5cU58sQICJh53Go78Rv5Ib6emeE7/Cuh7M1qslFR5MReyh3x9+TE5OzgHoAWehmW0CzGb/t+6Wapus5rGNq9p/6VnsXTMTbQH1cKApCkpv99hNF9lcIeO9zls7+FRPH9w1L2h9UGso5b1w1zaP5pFdFzxvlJ1D3fipQY6dHXn6FOmeYMSxD3TRDYL79Q5F/No9BACHxakATjbAweFZ99Xbmu390i+cQM0ndL00uT3j19+KSf3A1dGZ5C1PG/6iJjLDCEH78uKt5Qy6gf56KvZ9Qv58ea+KolsrTp7A==;OpEWdWokYcKBakB55t8+HQ=="
+secured: "rq/RNEiLrmiWa3AX0iNPHZcX5ZaBk9Tx0XM3hBNzjBhEhdDMV19XZ0f9XCwSpJTXyPwkKrQYFPEcYOiZyyf6ZSrUL+Z1KcniSIeIcaUlLNMWeXZ7iCCU2EiICyhC2RdPVDsu5Y+mv2jaOmjE6RbhJF4DOzhFkt0c1f67RZxhlLfkEqx9gDTrAiP48NU2bbnQ/KziJDKxhrTuLSXtRD5B90r9tq3uMlC/c3FbL/sj1UQCo+yeKTvwmBBudpoXerA90osmMRUjUZpadBcKJMSMvPMRmJT0GIOHoIO2BpNNfReHdId1xB+sT6xkoFR0WsZew5QXFm11+zmi1dNEcBJQ+o/HXGVWhTh+z/ZgWi8bj/Y=;sR6zm6XAoDNkOMyj2BScXg=="
 ---
 

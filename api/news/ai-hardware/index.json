@@ -2,34 +2,34 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-10-09-microsoft-365-to-get-big-nvidia-ai-editing-boost.md",
-      "title": "Microsoft 365 to get big Nvidia AI-editing boost",
-      "excerpt": "Nvidia talked up plans to work with Microsoft to add its AI to Microsoft 365. For this columnist, that would be most welcome news.",
+      "path": "_news/2020-10-09-microsoft-chip-maker-arm-to-boost-ai-innovation-for-iot-devices.md",
+      "title": "Microsoft, chip maker Arm to boost AI innovation for IoT devices",
+      "excerpt": "New Delhi, Oct 9 (IANS) SoftBank-owned UK chip maker Arm has partnered with Microsoft to create Azure-based tools to enable developers transfer data from Arm-based Internet of Things (IoT) devices to Azure Cloud.",
       "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3584779/microsoft-365-to-get-big-nvidia-ai-editing-boost.html",
-      "originalUrl": "https://www.computerworld.com/article/3584779/microsoft-365-to-get-big-nvidia-ai-editing-boost.html",
+      "webUrl": "https://newsd.in/microsoft-chip-maker-arm-to-boost-ai-innovation-for-iot-devices/",
+      "originalUrl": "https://newsd.in/microsoft-chip-maker-arm-to-boost-ai-innovation-for-iot-devices/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 221,
       "tags": null,
       "images": [
         {
-          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_robot_touch_human_hand_by_kentoh_gettyimages_1060703206-100817766-large.jpg",
+          "url": "https://newsd.in/wp-content/uploads/2020/09/newsd-amp.jpg",
           "width": 1200,
-          "height": 800,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3584779/microsoft-365-to-get-big-nvidia-ai-editing-boost.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3584779/microsoft-365-to-get-big-nvidia-ai-editing-boost.amp.html",
-      "publishedDateTime": "2020-10-08T15:48:00-07:00",
+      "ampWebUrl": "https://newsd.in/microsoft-chip-maker-arm-to-boost-ai-innovation-for-iot-devices/amp/",
+      "cdnAmpWebUrl": "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/microsoft-chip-maker-arm-to-boost-ai-innovation-for-iot-devices/amp/",
+      "publishedDateTime": "2020-10-08T21:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
+        "name": "Newsd",
+        "domain": "newsd.in",
         "images": null,
         "publishers": null,
         "authors": null
@@ -39,11 +39,9 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "AI Hardware",
         "AI",
-        "Microsoft AI",
-        "IBM AI",
-        "AI Hardware"
+        "Microsoft AI"
       ]
     },
     {
@@ -93,49 +91,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-maxim-integrateds-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices.md",
-      "title": "Maxim Integrated's Neural Network Accelerator Chip Enables IoT Artificial Intelligence in Battery-Powered Devices",
-      "excerpt": "PRNewswire/ -- The MAX78000 low-power neural network accelerated microcontroller from Maxim Integrated Products, Inc. (NASDAQ: MXIM) moves artificial intelligence (AI) to the edge without performance compromises in battery-powered internet of things (IoT) devices.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/maxim-integrated-s-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-1029656759",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/maxim-integrated-s-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-1029656759",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/maxim-integrated-s-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-1029656759",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/maxim-integrated-s-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-1029656759",
-      "publishedDateTime": "2020-10-08T01:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI",
         "AI Hardware"
       ]
@@ -1434,6 +1389,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-global-chipmaker-qualcomm-announces-snapdragon-750g-chip-with-5g-connectivity.md",
+      "title": "Global Chipmaker Qualcomm announces Snapdragon 750G chip with 5G connectivity",
+      "excerpt": "Global chipmaker Qualcomm has announced Snapdragon 750G 5G Mobile Platform that enables global 5G connectivity with HDR gaming and on-device AI.Snapdragon 750G offers",
+      "sourceUrl": null,
+      "webUrl": "https://english.madhyamam.com/technology/global-chipmaker-qualcomm-announces-snapdragon-750g-chip-with-5g-connectivity-574863",
+      "originalUrl": "https://english.madhyamam.com/technology/global-chipmaker-qualcomm-announces-snapdragon-750g-chip-with-5g-connectivity-574863",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://english.madhyamam.com/h-upload/2020/09/23/698411-qualcomm-hq-5-web.jpg",
+          "width": 1798,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://english.madhyamam.com/amp/technology/global-chipmaker-qualcomm-announces-snapdragon-750g-chip-with-5g-connectivity-574863",
+      "cdnAmpWebUrl": "https://english-madhyamam-com.cdn.ampproject.org/c/s/english.madhyamam.com/amp/technology/global-chipmaker-qualcomm-announces-snapdragon-750g-chip-with-5g-connectivity-574863",
+      "publishedDateTime": "2020-09-23T00:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Madhyamam",
+        "domain": "madhyamam.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

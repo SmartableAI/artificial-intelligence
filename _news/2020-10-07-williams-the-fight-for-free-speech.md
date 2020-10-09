@@ -85,15 +85,6 @@ related:
         width: 340
         height: 246
         isCached: true
-  - title: "Walter Williams: The True Test of Supporting Free Speech"
-    excerpt: "The violence, looting, and mayhem that this nation has seen over the last several months has much of its roots in academia, where leftist faculty teach immature young people all manner of nonsense that contradicts commonsense and the principles of liberty."
-    publishedDateTime: 2020-10-06T15:21:00Z
-    webUrl: "https://www.cnsnews.com/index.php/commentary/walter-e-williams/walter-williams-true-test-supporting-free-speech"
-    type: article
-    provider:
-      name: CNSNews.com
-      domain: cnsnews.com
-    quality: 4
   - title: "WALTER WILLIAMS: The fight for free speech (column)"
     excerpt: "It is a tragic state of affairs when free speech and inquiry require protection at institutions of higher learning."
     publishedDateTime: 2020-10-08T18:16:00Z
@@ -102,6 +93,20 @@ related:
     provider:
       name: Anniston Star
       domain: annistonstar.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/annistonstar.com/content/tncms/assets/v3/editorial/4/74/47436cd8-fb52-11e5-a7e1-d36fba67df42/5703f3478401e.image.jpg"
+        width: 398
+        height: 330
+        isCached: true
+  - title: "Walter Williams: The True Test of Supporting Free Speech"
+    excerpt: "The violence, looting, and mayhem that this nation has seen over the last several months has much of its roots in academia, where leftist faculty teach immature young people all manner of nonsense that contradicts commonsense and the principles of liberty."
+    publishedDateTime: 2020-10-06T15:21:00Z
+    webUrl: "https://www.cnsnews.com/index.php/commentary/walter-e-williams/walter-williams-true-test-supporting-free-speech"
+    type: article
+    provider:
+      name: CNSNews.com
+      domain: cnsnews.com
     quality: 4
 
 secured: "clal/yipK+Euyev8RdWWzbs8DTYHuVu0/vLrw1m9t3jmq3j74Ar+QCS6KxVbVrm04UE735oocyMRMvuVTWK9K01aL8p+69PD0qoODvuWyHd9CWYFMFiytTgol1ZI1rewu+AQpxpbKMrkNRZDGu0gFCaJMEVvlluqaWf6+y5xxytuMvielGQ4MyLQo/f4t4yZ/5kYrZdxa00lX9joHzYc4M7f2Ya+UOhJJOrSxPW2WKwxIuaRHXyw+MCyEX6JakSid8uVnTkb6OA36nXcm+rpiSk3aiwjcsPRMsWD7iHm250C3Hfyb54M33wi00+X0fTFGelGvTW9DGqpTemdsvHkKFJJBOL4Bg57kInGmEJWukG+pZY970NNlAl1xXUqz//vF0+4c3kojRQxWFnGlW+HlaaNQ96Xpf6DSKcl78mPREe/xp85tyZLLBPN2ZSihXii42rqExd+XBEtWPkYd4QB+KylmUhPbskGlT7J69A1X8v/YDs1bcDS3nDKGn+FvbofcWWkHDOWeHVqY372oyBf4w==;1iJCiYQw/+Xyhm29K8N5fw=="
