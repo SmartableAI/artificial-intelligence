@@ -70,6 +70,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Bengaluru’s Narayana Hospitals employs artificial intelligence to fight Covid-19"
+    excerpt: "has broken away from the traditional doctor consultations to leverage artificial intelligence to reduce the risk of virus transmission. Provision of patients’ vitals in real-time on doctors’ mobile phones, robots that transport blood samples ..."
+    publishedDateTime: 2020-10-09T06:41:00Z
+    webUrl: "https://www.hindustantimes.com/india-news/bengaluru-s-narayana-hospitals-employs-artificial-intelligence-to-fight-covid-19/story-CDml4Fr0kNraNJGSPNOR4O.html"
+    ampWebUrl: "https://m.hindustantimes.com/india-news/bengaluru-s-narayana-hospitals-employs-artificial-intelligence-to-fight-covid-19/story-CDml4Fr0kNraNJGSPNOR4O_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/india-news/bengaluru-s-narayana-hospitals-employs-artificial-intelligence-to-fight-covid-19/story-CDml4Fr0kNraNJGSPNOR4O_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 34
 
 secured: "xcb7DEk6mftzFtTQy30Jc3/86SrlJKcAI1Af7KJLX3ckiuM+4ul+ppKSxQ+cZYin4s/mMSA2oI4ncsXHdMHlVlIhsF3Yy/TCY2gdwBx/XZ3IStHGDwX0DPXuIXoSIMc9pYXe8/fVbFQOstNrtEgUWvNGdxZWwkKR/a6rtAbyeJnty4VCSVm0PTonHqo6kuSnB4qM2ziwxkrRfzfQGazgVyWHtkv75jP/ii5/41AB6YmykzUjakwS4uTgIRJXdsaxRPw/43T9y/paqt3iyfBBBUoJFfN7qJuFUNkjK5BKwkdOlRX9RgrAdVs6OxHGUBuCydoo1PrWo8BOElXPp1w9zLGYOT78rY9iZmapkk1DGphSmzlbVqrgvG9tfM4xv6YUflXjoKN9muion8YL1ZslEBgS9DUZCDZyUXWmjwKIyLJZclC+Ew+5b04RRXPmQAUv6YtLlf5G3DFbG8hGv9IVN6gy1shJlSHS6ZZcz5rNG195NVM+RobPrHpbFKGaFECNOlfWHp6W2o9OINkkJ8Ln8Q==;UTg72R//8MHmGibbVfjHkg=="
 ---

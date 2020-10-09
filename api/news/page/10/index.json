@@ -2,6 +2,48 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-09-29-cannabis-data-lacking-but-machine-learning-could-help-fill-the-gap.md",
+      "title": "Cannabis data lacking, but machine learning could help fill the gap",
+      "excerpt": "Anyone who has used, sold, studied or even read much about marijuana likely recognizes these acronyms as active ingredients in the plant.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2020-09-cannabis-lacking-machine-gap.html",
+      "originalUrl": "https://phys.org/news/2020-09-cannabis-lacking-machine-gap.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/cannabisdata.jpg",
+          "width": 750,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2020-09-cannabis-lacking-machine-gap.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-09-cannabis-lacking-machine-gap.amp",
+      "publishedDateTime": "2020-09-29T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-data-science-to-accelerate-drug-discovery-with-artificial-intelligence-and-machine-learning-says-frost-sullivan.md",
       "title": "Data Science to Accelerate Drug Discovery with Artificial Intelligence and Machine Learning, Says Frost & Sullivan",
       "excerpt": "Pharmaceutical companies and hospitals are adopting data science rapidly, and its application is going to be established in all branches of",
@@ -1119,48 +1161,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-microsoft-now-supports-12-indian-languages-including-assamese.md",
-      "title": "Microsoft now supports 12 Indian languages including Assamese",
-      "excerpt": "Microsoft Translator, a cloud-based free translation and transcription service from Microsoft, has added support for Assamese, the official language of Assam spoken by more than 14 million people in the Northeast.",
-      "sourceUrl": null,
-      "webUrl": "https://www.compsmag.com/news/technology/microsoft-now-supports-12-indian-languages-including-assamese/",
-      "originalUrl": "https://www.compsmag.com/news/technology/microsoft-now-supports-12-indian-languages-including-assamese/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/09/Microsoft-now-supports-12-Indian-languages-including-Assamese.png",
-          "width": 920,
-          "height": 485,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.compsmag.com/news/technology/microsoft-now-supports-12-indian-languages-including-assamese/amp/",
-      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/microsoft-now-supports-12-indian-languages-including-assamese/amp/",
-      "publishedDateTime": "2020-09-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "compsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

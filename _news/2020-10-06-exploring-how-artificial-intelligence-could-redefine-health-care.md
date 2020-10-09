@@ -25,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "How AI and Machine Learning can help accountants stay competitive"
+    excerpt: "Artificial intelligence (AI) and automation have brought the accounting profession to a point of pivotal change, and it’s about to revolutionise the way that accountants work."
+    publishedDateTime: 2020-10-09T09:14:00Z
+    webUrl: "https://mybroadband.co.za/news/industrynews/370783-how-ai-and-machine-learning-can-help-accountants-stay-competitive.html"
+    ampWebUrl: "https://mybroadband.co.za/news/industrynews/370783-how-ai-and-machine-learning-can-help-accountants-stay-competitive.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/370783-how-ai-and-machine-learning-can-help-accountants-stay-competitive.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 74
+    images:
+      - url: "https://businesstech.co.za/news/wp-content/uploads/2020/10/Sage-1-1024x507.jpg"
+        width: 1024
+        height: 507
+        isCached: true
+  - title: "Cloud AI Can Help You Survive The Storm"
+    excerpt: "As you work to better understand and take action to improve user experiences and drive business outcomes, take care in your implementation and the use cases to which you apply AI."
+    publishedDateTime: 2020-10-05T11:24:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/05/cloud-ai-can-help-you-survive-the-storm/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 71
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee37fafb8beb90007c3a81f%2F0x0.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "How AI can help employees improve mental health and wellbeing"
     excerpt: "The UAE, a hub for start-ups and venture capital in ... Nearly 60 per cent of local respondents said AI has improved job satisfaction and overall well-being, compared to 54 per cent globally. Robot security guards are on patrol at Abu Dhabi's largest ..."
     publishedDateTime: 2020-10-07T12:52:00Z
@@ -40,20 +70,6 @@ related:
       - url: "https://www.thenational.ae/image/policy:1.1089940:1602076707/image.jpg?f=16x9&q=0.6&w=1200&$p$f$q$w=70c86c9"
         width: 1200
         height: 675
-        isCached: true
-  - title: "How AI Can Help Employees Deal with Stress and Enhance Mental Health"
-    excerpt: "The terms “AI” or “bot” often conjure thoughts of cold, impersonal technology, basically the opposite of what is human. But more often than you might think, properly applied AI can help employees open up about some of their most private concerns,"
-    publishedDateTime: 2020-10-07T00:00:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-ai-can-help-employees-deal-stress-enhance-mental-health-emily-he/?trackingId=I0ludMBETeu%2B6KiWgyfcKA%3D%3D"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGZYJnyNQH1Ww/article-cover_image-shrink_600_2000/0?e=1607558400&v=beta&t=Sx6Zci2mwA86KrFq2i9TSfdGI_ZVk4fsksBvQO55nu0"
-        width: 700
-        height: 315
         isCached: true
 
 secured: "GxC/TccXjZhDZxN3kYswqtrrCMb9O5MHw5nSCEdiyNHXCBr1+IplAf/fYbzqz4kEqnSexxtp+9KfmQB8E3pY8oYNMQ5SS45ws0LzYs7uwPEVGrKSmWLP7wcsDCKlDJfmOqzCdzE2gdof65aBTiEb5Onr5tDYwZOEDuK6ItEAfUTe7/7bCRAJxAKXR3zLTIS0vs7/r4f6X2JLWAsubs90gjHkOz1LNiSm6oxsw6Air06U8+WOVFZYsmxK/1RotyC7PFPePAdGW8IrN1TTeAih6Qiyifkezn68adO30Asu1hJmisj0Gtu3LigaS9UeDLBUIKP/hn4caa0r1EZaRjlGg2aC0DJZ0HYEdjUlACTHDF+gHvyf1nbtRlMVZ9vCMoQvk3aLQMtzDzlPtFkiHNvMzwftFbj3s/YX+0/9+BltGXnvITOe+yio/KzgcILME15JyBveq4cuOy+ZZVR5ZN4iKLvTeAPwZSOiO/hBWc/VBgfLx2hsEsKy9u/ATldXyvnkt9zjEZxhLX3wYT+lDiy++w==;K1F6tSqaTKTs1UkxoB33sA=="

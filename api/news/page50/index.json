@@ -2,6 +2,39 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2020-08-31-dresner-advisory-services-publishes-2020-data-science-and-machine-learning-market-study.md",
+      "title": "Dresner Advisory Services Publishes 2020 Data Science and Machine Learning Market Study",
+      "excerpt": "NASHUA, N.H., Aug. 31, 2020 (GLOBE NEWSWIRE) -- Dresner Advisory Services today published the 2020 Data Science and Machine Learning Market Study, part of its Wisdom of Crowds® series of research.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/08/g17307001/dresner-advisory-services-publishes-2020-data-science-and-machine-learning-market-study",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/08/g17307001/dresner-advisory-services-publishes-2020-data-science-and-machine-learning-market-study",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17307001",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17307001",
+      "publishedDateTime": "2020-08-31T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-31-facial-recognition-and-bathtime-bookings-how-chinas-universities-are-reopening.md",
       "title": "Facial recognition and bathtime bookings: How China's universities are reopening",
       "excerpt": "As COVID-19 cases in China sink to new lows, the world's largest population of university students is heading back to campus in a migration defined by lockdowns, patriotic education and cutting-edge surveillance equipment.",
@@ -1125,56 +1158,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-29-ai-startup-what-you-need-for-your-investor-pitch-deck.md",
-      "title": "AI Startup: What You Need For Your Investor Pitch Deck",
-      "excerpt": "The funding environment for AI startups remains robust—and some of the rounds have been substantial. Just recently Dataiku, which operates a machine learning platform, announced a $100 million Series D investment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/08/29/ai-startup-what-you-need-for-your-investor-pitch-deck/",
-      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2020/08/29/ai-startup-what-you-need-for-your-investor-pitch-deck/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4a87023f7672338024f9e6%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5760%26cropY1%3D292%26cropY2%3D3532",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/08/29/ai-startup-what-you-need-for-your-investor-pitch-deck/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/08/29/ai-startup-what-you-need-for-your-investor-pitch-deck/amp/",
-      "publishedDateTime": "2020-08-29T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

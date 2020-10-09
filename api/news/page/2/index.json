@@ -2,6 +2,158 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-08-exer-labs-raises-2-million-and-launches-computer-vision-app-for-peloton-style-coached-workouts.md",
+      "title": "Exer Labs raises $2 million and launches computer vision app for Peloton-style coached workouts",
+      "excerpt": "Exer Labs has raised $2 million in funding and it has unveiled its AI-based Exer Studio app for the Mac that captures your movements for coaching advice.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/08/exer-labs-raises-2-million-and-launches-computer-vision-app-for-peloton-style-coached-workouts/",
+      "originalUrl": "https://venturebeat.com/2020/10/08/exer-labs-raises-2-million-and-launches-computer-vision-app-for-peloton-style-coached-workouts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/exer-4.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 621,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/08/exer-labs-raises-2-million-and-launches-computer-vision-app-for-peloton-style-coached-workouts/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/08/exer-labs-raises-2-million-and-launches-computer-vision-app-for-peloton-style-coached-workouts/amp/",
+      "publishedDateTime": "2020-10-08T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-grid-ai-raises-186m-series-a-to-help-ai-researchers-and-engineers-bring-their-models-to-production.md",
+      "title": "Grid AI raises $18.6M Series A to help AI researchers and engineers bring their models to production",
+      "excerpt": "Grid AI, a startup founded by the inventor of the popular open-source PyTorch Lightning project, William Falcon, that aims to help machine learning engineers more efficiently, today announced that it has raised an $18.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/08/grid-ai-raises-18-6m-series-a-to-help-ai-researchers-and-engineers-bring-their-models-to-production/",
+      "originalUrl": "https://techcrunch.com/2020/10/08/grid-ai-raises-18-6m-series-a-to-help-ai-researchers-and-engineers-bring-their-models-to-production/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1124444076.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/08/grid-ai-raises-18-6m-series-a-to-help-ai-researchers-and-engineers-bring-their-models-to-production/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/08/grid-ai-raises-18-6m-series-a-to-help-ai-researchers-and-engineers-bring-their-models-to-production/amp/",
+      "publishedDateTime": "2020-10-08T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-ex-aston-martin-ceo-palmer-joins-silicon-valley-slovakian-ai-battery-group.md",
+      "title": "Ex-Aston Martin CEO Palmer Joins Silicon Valley - Slovakian AI Battery Group",
+      "excerpt": "Discarded Aston Martin CEO Dr Andy Palmer has bounced back, joining a project to create a world-first artificial intelligence (AI) battery production center.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michaeltaylor/2020/10/08/ex-aston-martin-ceo-palmer-joins-silicon-valleyslovakian-ai-battery-group/",
+      "originalUrl": "https://www.forbes.com/sites/michaeltaylor/2020/10/08/ex-aston-martin-ceo-palmer-joins-silicon-valleyslovakian-ai-battery-group/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7ee032632d6eec4c53409c%2F0x0.jpg",
+          "width": 1200,
+          "height": 1808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michaeltaylor/2020/10/08/ex-aston-martin-ceo-palmer-joins-silicon-valleyslovakian-ai-battery-group/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeltaylor/2020/10/08/ex-aston-martin-ceo-palmer-joins-silicon-valleyslovakian-ai-battery-group/amp/",
+      "publishedDateTime": "2020-10-08T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-maxim-integrateds-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices.md",
       "title": "Maxim Integrated's Neural Network Accelerator Chip Enables IoT Artificial Intelligence in Battery-Powered Devices",
       "excerpt": "PRNewswire/ -- The MAX78000 low-power neural network accelerated microcontroller from Maxim Integrated Products, Inc. (NASDAQ: MXIM) moves artificial intelligence (AI) to the edge without performance compromises in battery-powered internet of things (IoT) devices.",
@@ -955,48 +1107,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-07-how-ai-can-help-employees-improve-mental-health-and-wellbeing.md",
-      "title": "How AI can help employees improve mental health and wellbeing",
-      "excerpt": "The UAE, a hub for start-ups and venture capital in ... Nearly 60 per cent of local respondents said AI has improved job satisfaction and overall well-being, compared to 54 per cent globally. Robot security guards are on patrol at Abu Dhabi's largest ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thenational.ae/business/technology/how-ai-can-help-employees-improve-mental-health-and-wellbeing-1.1089943",
-      "originalUrl": "https://www.thenational.ae/business/technology/how-ai-can-help-employees-improve-mental-health-and-wellbeing-1.1089943",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thenational.ae/image/policy:1.1089940:1602076707/image.jpg?f=16x9&q=0.6&w=1200&$p$f$q$w=70c86c9",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.thenational.ae/business/technology/how-ai-can-help-employees-improve-mental-health-and-wellbeing-1.1089943",
-      "cdnAmpWebUrl": "https://amp-thenational-ae.cdn.ampproject.org/c/s/amp.thenational.ae/business/technology/how-ai-can-help-employees-improve-mental-health-and-wellbeing-1.1089943",
-      "publishedDateTime": "2020-10-07T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Blogs",
-        "domain": "thenational.ae",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-07-master-data-eats-ai-for-breakfast.md",
       "title": "Master Data Eats AI For Breakfast",
       "excerpt": "Not addressing master data issues ahead of any heavy investments in AI/ML can result in the significant rewiring of data in the ML training sets later and render any previous insights useless.",
@@ -1051,16 +1161,16 @@
       "title": "Robot reapers and AI: Just another day on the farm",
       "excerpt": "Technology is now enabling farmers to manage each section of the farm based on its unique conditions and needs. A good example of this in action is the spraying of herbicides, which had traditionally been done at the same rate across the whole field.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/robot-reapers-and-ai-just-another-day-on-the-farm/",
-      "originalUrl": "https://www.zdnet.com/article/robot-reapers-and-ai-just-another-day-on-the-farm/",
+      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/robot-reapers-and-ai-just-another-day-on-the-farm/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/robot-reapers-and-ai-just-another-day-on-the-farm/",
       "featuredContent": null,
       "highlight": null,
       "heat": 94,
       "tags": null,
       "images": null,
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robot-reapers-and-ai-just-another-day-on-the-farm/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robot-reapers-and-ai-just-another-day-on-the-farm/",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/robot-reapers-and-ai-just-another-day-on-the-farm/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/robot-reapers-and-ai-just-another-day-on-the-farm/",
       "publishedDateTime": "2020-10-07T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1086,107 +1196,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-these-are-the-3-biggest-bargains-in-biotech.md",
-      "title": "These Are the 3 Biggest Bargains in Biotech",
-      "excerpt": "Since the March 23 low, investors have taken a particular liking to the technology sector, with cloud computing, cybersecurity, and artificial intelligence stocks rocketing ... as a monotherapy or combination therapy. Even a handful of these clinical ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/10/07/these-are-the-3-biggest-bargains-in-biotech/",
-      "originalUrl": "https://www.fool.com/investing/2020/10/07/these-are-the-3-biggest-bargains-in-biotech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F594012%2Fstethoscope-over-money-healthcare-costs-obamacare-getty.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 803,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/07/these-are-the-3-biggest-bargains-in-biotech/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/07/these-are-the-3-biggest-bargains-in-biotech/",
-      "publishedDateTime": "2020-10-07T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-how-ai-is-transforming-the-future-of-sales.md",
-      "title": "How AI Is Transforming The Future Of Sales",
-      "excerpt": "Highly optimized sales processes backed by AI and machine learning technology aren't a wishful future; they are already here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/07/how-ai-is-transforming-the-future-of-sales/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/07/how-ai-is-transforming-the-future-of-sales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee8c0a4bcc30e0006c1d9f4%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/07/how-ai-is-transforming-the-future-of-sales/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/07/how-ai-is-transforming-the-future-of-sales/amp/",
-      "publishedDateTime": "2020-10-07T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

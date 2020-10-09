@@ -77,18 +77,18 @@ related:
         height: 674
         isCached: true
   - title: "Microsoft, chip maker Arm to boost AI innovation for IoT devices"
-    excerpt: "SoftBank-owned UK chip maker Arm has partnered with Microsoft to create Azure-based tools to enable developers transfer data from Arm-based Internet of Things (IoT) devices to Azure Cloud. The partner"
-    publishedDateTime: 2020-10-09T07:20:00Z
-    webUrl: "https://www.dailypioneer.com/2020/technology/microsoft--chip-maker-arm-to-boost-ai-innovation-for-iot-devices.html"
+    excerpt: "SoftBank-owned UK chip maker Arm has partnered with Microsoft to create Azure ... based devices like intelligent computer-vision-enabled cameras, connected vehicles, AI gateways and intelligent appliances. With over 30 billion active IoT devices in the ..."
+    publishedDateTime: 2020-10-09T08:45:00Z
+    webUrl: "https://www.siliconindia.com/news/general/Microsoft-chip-maker-Arm-to-boost-AI-innovation-for-IoT-devices-nid-214287-cid-1.html"
     type: article
     provider:
-      name: The Pioneer
-      domain: dailypioneer.com
+      name: SiliconIndia
+      domain: siliconindia.com
     quality: 71
     images:
-      - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/microsoft--chip-maker-arm-to-boost-ai-innovation-for-iot-devices-2020-10-09.jpg"
-        width: 1000
-        height: 800
+      - url: "https://www.siliconindia.com/news/newsimages/0wl6F15f.jpg"
+        width: 570
+        height: 367
         isCached: true
   - title: "UCSF teams with Microsoft, others to fast-track AI in healthcare: 5 details"
     excerpt: "University of California San Francisco teamed Microsoft Azure, Intel and Fortanix to establish a confidential computing platform that will accelerate the development and validation of clinical algorithms."

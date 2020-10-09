@@ -2,57 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-09-24-selecting-the-right-metadata-to-build-high-performing-recommendation-models-with-amazon-personalize.md",
-      "title": "Selecting the right metadata to build high-performing recommendation models with Amazon Personalize",
-      "excerpt": "In this post, we show you how to select the right metadata for your use case when building a recommendation engine using Amazon Personalize. The aim is to help you optimize your models to generate more user-relevant recommendations. We look at which metadata is most relevant to include for different",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/selecting-the-right-metadata-to-build-high-performing-recommendation-models-with-amazon-personalize/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/selecting-the-right-metadata-to-build-high-performing-recommendation-models-with-amazon-personalize/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-24T13:21:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-24-expanding-amazon-lex-conversational-experiences-with-us-spanish-and-british-english.md",
       "title": "Expanding Amazon Lex conversational experiences with US Spanish and British English",
       "excerpt": "Amazon Lex provides the power of automatic speech recognition (ASR) for converting speech to text, along with natural language understanding (NLU) for recognizing user intents. This combination allows you to develop sophisticated conversational interfaces using both voice and text for chatbots, IVR bots,",
@@ -1406,6 +1355,57 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-duckienet-lets-developers-test-autonomous-vehicle-systems-using-toy-cars.md",
+      "title": "DuckieNet lets developers test autonomous vehicle systems using toy cars",
+      "excerpt": "DuckieNet is an open source platform for developing, testing, and evaluating autonomous navigation and perception algorithms with miniature car models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/10/duckienet-lets-developers-test-autonomous-vehicle-systems-using-toy-cars/",
+      "originalUrl": "https://venturebeat.com/2020/09/10/duckienet-lets-developers-test-autonomous-vehicle-systems-using-toy-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/e07586e7-ad6b-42c4-8d7c-eac746decddd-e1599752755921.png?w=1200&#038;strip=all",
+          "width": 1198,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/10/duckienet-lets-developers-test-autonomous-vehicle-systems-using-toy-cars/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/10/duckienet-lets-developers-test-autonomous-vehicle-systems-using-toy-cars/amp/",
+      "publishedDateTime": "2020-09-10T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     }
   ],

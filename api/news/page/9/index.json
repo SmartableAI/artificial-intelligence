@@ -2,6 +2,48 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-09-30-congress-will-try-again-in-2021-on-self-driving-car-reform.md",
+      "title": "Congress will try again in 2021 on self-driving car reform",
+      "excerpt": "The U.S. Congress will try again in 2021 to try to approve long-stalled reforms to speed the adoption of self-driving cars, a key Democratic lawmaker said Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/congress-will-try-again-in-2021-on-self-driving-car-reform-2020-9",
+      "originalUrl": "https://www.businessinsider.com/congress-will-try-again-in-2021-on-self-driving-car-reform-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/congress-will-try-again-in-2021-on-self-driving-car-reform-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/congress-will-try-again-in-2021-on-self-driving-car-reform-2020-9?amp",
+      "publishedDateTime": "2020-09-30T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-amazon-spent-24000-to-kill-portlands-facial-recognition-ban.md",
       "title": "Amazon Spent $24,000 To Kill Portland's Facial Recognition Ban",
       "excerpt": "On Wednesday, Portland lawmakers will vote on what could be the strongest facial recognition ban in the United States. In November 2019, city officials revealed they were crafting legislation that would ban the use of facial recognition technology by both ...",
@@ -732,8 +774,8 @@
       "title": "bjarke ingels group plans AI CITY in china to advance future of artificial intelligence",
       "excerpt": "BIG AI CITY seeks to provide terminus, and the world’s leading tech companies, with a place to advance the future of artificial intelligence and robotics, and build the foundations of a new sustainable development.",
       "sourceUrl": null,
-      "webUrl": "https://www.designboom.com/architecture/bjarke-ingels-group-ai-city-china-artificial-intelligence-terminus-group-09-29-2020/",
-      "originalUrl": "https://www.designboom.com/architecture/bjarke-ingels-group-ai-city-china-artificial-intelligence-terminus-group-09-29-2020/",
+      "webUrl": "https://www.designboom.com/architecture/bjarke-ingels-group-ai-city-china-artificial-intelligence-terminus-group-09-29-2020/?fbclid=IwAR2-9FqvXxBpPJhkVy6N3IZKa4uxGk4pb_zSe-19cABYa1UDxRzTazehYs0",
+      "originalUrl": "https://www.designboom.com/architecture/bjarke-ingels-group-ai-city-china-artificial-intelligence-terminus-group-09-29-2020/?fbclid=IwAR2-9FqvXxBpPJhkVy6N3IZKa4uxGk4pb_zSe-19cABYa1UDxRzTazehYs0",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -765,7 +807,7 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1120,48 +1162,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-cannabis-data-lacking-but-machine-learning-could-help-fill-the-gap.md",
-      "title": "Cannabis data lacking, but machine learning could help fill the gap",
-      "excerpt": "Anyone who has used, sold, studied or even read much about marijuana likely recognizes these acronyms as active ingredients in the plant.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2020-09-cannabis-lacking-machine-gap.html",
-      "originalUrl": "https://phys.org/news/2020-09-cannabis-lacking-machine-gap.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/cannabisdata.jpg",
-          "width": 750,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2020-09-cannabis-lacking-machine-gap.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-09-cannabis-lacking-machine-gap.amp",
-      "publishedDateTime": "2020-09-29T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

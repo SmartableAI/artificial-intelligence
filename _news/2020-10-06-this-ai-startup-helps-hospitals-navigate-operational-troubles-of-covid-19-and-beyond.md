@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startup-helps-hospitals-navigate-operational-troubles-of-covid-19-and-beyond/amp/"
 type: article
 quality: 80
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -74,6 +74,17 @@ related:
         width: 1600
         height: 901
         isCached: true
+  - title: "Bengaluru’s Narayana Hospitals employs artificial intelligence to fight Covid-19"
+    excerpt: "has broken away from the traditional doctor consultations to leverage artificial intelligence to reduce the risk of virus transmission. Provision of patients’ vitals in real-time on doctors’ mobile phones, robots that transport blood samples ..."
+    publishedDateTime: 2020-10-09T06:41:00Z
+    webUrl: "https://www.hindustantimes.com/india-news/bengaluru-s-narayana-hospitals-employs-artificial-intelligence-to-fight-covid-19/story-CDml4Fr0kNraNJGSPNOR4O.html"
+    ampWebUrl: "https://m.hindustantimes.com/india-news/bengaluru-s-narayana-hospitals-employs-artificial-intelligence-to-fight-covid-19/story-CDml4Fr0kNraNJGSPNOR4O_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/india-news/bengaluru-s-narayana-hospitals-employs-artificial-intelligence-to-fight-covid-19/story-CDml4Fr0kNraNJGSPNOR4O_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 34
 
 secured: "VgBU726IQnxE2ibswwx9ZcSJbNurWPep1U1CnDrS7tBHOhd/jhWqj3uAFdrNxMFtR2Nd8WNcW0GrQH/XV68i/BqH6u8nMYNJJrqfzR8uzT6dd5nkqPvtKJWT5YeuV9ZYIJP/0HWzONmVVzm1eISFLEfw3fnN5epyxAIrd7SctduVXcUvwIEfwIjm+61Wr8dZ7WnDkBqO3TSemeOH/UvJ39YyjilrwjebNLl9B+jO0dNLZM80a4oz6vumkTbS6CthyAxYDDvxfQiBT8FucHLtrfDI9XrBkLTFXPnriFAiZIoxr2c5W/4bjB0/DG5D9fukaKtR2r9VF8yDD7s/2sC9Wh1g52uTorAH1c6diJiFd1IToLyc/H/6AWGGLUGbN5QoWBoKfc4fNuG5+8E6AIQjyJX/WLWxXL9vLuMJLuQ878fF2hS//keQuneGhPR1RZMUIB79Zl/7Vt5t7DkFzj65VQZ6wuUi6wi4vzIaAyto0I89SbOrVpFmbQzN5ADKyrCoKHTQLkTYiFogynqMEdC/Sg==;6fvX0unuXW9A7QOJWwJN6g=="
 ---

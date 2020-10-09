@@ -2,6 +2,47 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2020-08-28-memers-are-making-deepfakes-and-things-are-getting-weird.md",
+      "title": "Memers are making deepfakes, and things are getting weird",
+      "excerpt": "Grace Windheim had heard of deepfakes before. But she had never considered how to make one. It was a viral meme using the technology that led her to research the possibility—and discover that it was super easy and completely free.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2020/08/28/1007746/ai-deepfakes-memes/",
+      "originalUrl": "https://www.technologyreview.com/2020/08/28/1007746/ai-deepfakes-memes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/08/deepfakememes.jpg?w=1920",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2020/08/28/1007746/ai-deepfakes-memes/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/08/28/1007746/ai-deepfakes-memes/amp/",
+      "publishedDateTime": "2020-08-28T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-28-ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator-less-us-open.md",
       "title": "IBM Creates New Fan Experiences using AI and Hybrid Cloud for First-Ever Spectator-less US Open",
       "excerpt": "IBM's hybrid cloud architecture with Red Hat OpenShift provided the operational agility and flexibility necessary to quickly develop new experiences powered by IBM Watson's advanced NLP.",
@@ -1116,49 +1157,7 @@
         "Microsoft AI",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2020-08-28-qualcomm-backed-firm-releases-processor-as-ai-chip-race-heats-up.md",
-      "title": "Qualcomm-backed firm releases processor as AI chip race heats up",
-      "excerpt": "Kneron Inc, a semiconductor startup backed by venture capital arms of Qualcomm Inc and Alibaba Group Holding Ltd, on Thursday announced a new chip aimed at handling artificial intelligence functions on battery-powered devices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-kneron-tech-idUSKBN25N23K",
-      "originalUrl": "https://www.reuters.com/article/us-kneron-tech-idUSKBN25N23K",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN25N23K",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN25N23K",
-      "publishedDateTime": "2020-08-27T12:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 53
 }

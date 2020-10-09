@@ -2,6 +2,98 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-09-should-you-invest-in-state-street-stock-ask-the-ai-engine.md",
+      "title": "Should You Invest In State Street Stock? Ask The AI Engine",
+      "excerpt": "The stock market has seen some volatility since the start of September, and after a larger sell-off in the Stock market – State Street Stock has moved up 11% over the last two weeks (10 trading days) to $63 now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greatspeculations/2020/10/09/should-you-invest-in-state-street-stock-ask-the-ai-engine/",
+      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2020/10/09/should-you-invest-in-state-street-stock-ask-the-ai-engine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f718e7747378e05e93f2fdc%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2020/10/09/should-you-invest-in-state-street-stock-ask-the-ai-engine/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2020/10/09/should-you-invest-in-state-street-stock-ask-the-ai-engine/amp/",
+      "publishedDateTime": "2020-10-09T02:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-how-ai-and-machine-learning-can-help-accountants-stay-competitive.md",
+      "title": "How AI and Machine Learning can help accountants stay competitive",
+      "excerpt": "Artificial intelligence (AI) and automation have brought the accounting profession to a point of pivotal change, and it’s about to revolutionise the way that accountants work.",
+      "sourceUrl": null,
+      "webUrl": "https://mybroadband.co.za/news/industrynews/370783-how-ai-and-machine-learning-can-help-accountants-stay-competitive.html",
+      "originalUrl": "https://mybroadband.co.za/news/industrynews/370783-how-ai-and-machine-learning-can-help-accountants-stay-competitive.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://businesstech.co.za/news/wp-content/uploads/2020/10/Sage-1-1024x507.jpg",
+          "width": 1024,
+          "height": 507,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mybroadband.co.za/news/industrynews/370783-how-ai-and-machine-learning-can-help-accountants-stay-competitive.html/amp",
+      "cdnAmpWebUrl": "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/370783-how-ai-and-machine-learning-can-help-accountants-stay-competitive.html/amp",
+      "publishedDateTime": "2020-10-09T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyBroadband",
+        "domain": "mybroadband.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-09-ai-in-fintech-market-2020-status-and-outlook-growth.md",
       "title": "AI in Fintech Market 2020 Status and Outlook Growth",
       "excerpt": "AI in Fintech Market Size 2020 Analysis Trends Top Manufacturers Growth Statistics Porters Five Forces and SWOT Analysis Opportunities and Forecast California The qualitative research study by Data Bridge Market Research titled AI in Fintech market size is expected to",
@@ -381,6 +473,57 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-playstation-inventor-starts-new-career-making-robots-for-no-pay.md",
+      "title": "PlayStation Inventor Starts New Career Making Robots for No Pay",
+      "excerpt": "Ken Kutaragi, the legendary inventor of the PlayStation gaming console, is taking on one of the hardest jobs in robotics. And he’s getting paid nothing to do it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-08/playstation-inventor-starts-new-career-making-robots-for-no-pay",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-08/playstation-inventor-starts-new-career-making-robots-for-no-pay",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/istV08PYj0w0/v0/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-08/playstation-inventor-starts-new-career-making-robots-for-no-pay",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-08/playstation-inventor-starts-new-career-making-robots-for-no-pay",
+      "publishedDateTime": "2020-10-08T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1012,158 +1155,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-exer-labs-raises-2-million-and-launches-computer-vision-app-for-peloton-style-coached-workouts.md",
-      "title": "Exer Labs raises $2 million and launches computer vision app for Peloton-style coached workouts",
-      "excerpt": "Exer Labs has raised $2 million in funding and it has unveiled its AI-based Exer Studio app for the Mac that captures your movements for coaching advice.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/08/exer-labs-raises-2-million-and-launches-computer-vision-app-for-peloton-style-coached-workouts/",
-      "originalUrl": "https://venturebeat.com/2020/10/08/exer-labs-raises-2-million-and-launches-computer-vision-app-for-peloton-style-coached-workouts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/exer-4.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 621,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/08/exer-labs-raises-2-million-and-launches-computer-vision-app-for-peloton-style-coached-workouts/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/08/exer-labs-raises-2-million-and-launches-computer-vision-app-for-peloton-style-coached-workouts/amp/",
-      "publishedDateTime": "2020-10-08T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-grid-ai-raises-186m-series-a-to-help-ai-researchers-and-engineers-bring-their-models-to-production.md",
-      "title": "Grid AI raises $18.6M Series A to help AI researchers and engineers bring their models to production",
-      "excerpt": "Grid AI, a startup founded by the inventor of the popular open-source PyTorch Lightning project, William Falcon, that aims to help machine learning engineers more efficiently, today announced that it has raised an $18.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/08/grid-ai-raises-18-6m-series-a-to-help-ai-researchers-and-engineers-bring-their-models-to-production/",
-      "originalUrl": "https://techcrunch.com/2020/10/08/grid-ai-raises-18-6m-series-a-to-help-ai-researchers-and-engineers-bring-their-models-to-production/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1124444076.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/08/grid-ai-raises-18-6m-series-a-to-help-ai-researchers-and-engineers-bring-their-models-to-production/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/08/grid-ai-raises-18-6m-series-a-to-help-ai-researchers-and-engineers-bring-their-models-to-production/amp/",
-      "publishedDateTime": "2020-10-08T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-ex-aston-martin-ceo-palmer-joins-silicon-valley-slovakian-ai-battery-group.md",
-      "title": "Ex-Aston Martin CEO Palmer Joins Silicon Valley - Slovakian AI Battery Group",
-      "excerpt": "Discarded Aston Martin CEO Dr Andy Palmer has bounced back, joining a project to create a world-first artificial intelligence (AI) battery production center.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michaeltaylor/2020/10/08/ex-aston-martin-ceo-palmer-joins-silicon-valleyslovakian-ai-battery-group/",
-      "originalUrl": "https://www.forbes.com/sites/michaeltaylor/2020/10/08/ex-aston-martin-ceo-palmer-joins-silicon-valleyslovakian-ai-battery-group/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7ee032632d6eec4c53409c%2F0x0.jpg",
-          "width": 1200,
-          "height": 1808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michaeltaylor/2020/10/08/ex-aston-martin-ceo-palmer-joins-silicon-valleyslovakian-ai-battery-group/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeltaylor/2020/10/08/ex-aston-martin-ceo-palmer-joins-silicon-valleyslovakian-ai-battery-group/amp/",
-      "publishedDateTime": "2020-10-08T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

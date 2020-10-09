@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.thenational.ae/business/technology/how-ai-can-help-emplo
 cdnAmpWebUrl: "https://amp-thenational-ae.cdn.ampproject.org/c/s/amp.thenational.ae/business/technology/how-ai-can-help-employees-improve-mental-health-and-wellbeing-1.1089943"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: The National Blogs
@@ -27,6 +27,36 @@ images:
     isCached: true
 
 related:
+  - title: "How AI and Machine Learning can help accountants stay competitive"
+    excerpt: "Artificial intelligence (AI) and automation have brought the accounting profession to a point of pivotal change, and it’s about to revolutionise the way that accountants work."
+    publishedDateTime: 2020-10-09T09:14:00Z
+    webUrl: "https://mybroadband.co.za/news/industrynews/370783-how-ai-and-machine-learning-can-help-accountants-stay-competitive.html"
+    ampWebUrl: "https://mybroadband.co.za/news/industrynews/370783-how-ai-and-machine-learning-can-help-accountants-stay-competitive.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/370783-how-ai-and-machine-learning-can-help-accountants-stay-competitive.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 74
+    images:
+      - url: "https://businesstech.co.za/news/wp-content/uploads/2020/10/Sage-1-1024x507.jpg"
+        width: 1024
+        height: 507
+        isCached: true
+  - title: "Cloud AI Can Help You Survive The Storm"
+    excerpt: "As you work to better understand and take action to improve user experiences and drive business outcomes, take care in your implementation and the use cases to which you apply AI."
+    publishedDateTime: 2020-10-05T11:24:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/05/cloud-ai-can-help-you-survive-the-storm/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 71
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee37fafb8beb90007c3a81f%2F0x0.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Exploring how artificial intelligence could redefine health care"
     excerpt: "Before Siri and Alexa, programmers created Eliza. Developed in 1964, Eliza was the first chatbot capable of recreating conversations between a psychotherapist and a patient. This chatbot pushed the boundaries of artificial intelligence (AI),"
     publishedDateTime: 2020-10-06T10:21:00Z
@@ -40,20 +70,6 @@ related:
       - url: "https://www.mcgilltribune.com/wp-content/uploads/2020/04/favourite-memory-799x460.png"
         width: 799
         height: 460
-        isCached: true
-  - title: "How AI Can Help Employees Deal with Stress and Enhance Mental Health"
-    excerpt: "The terms “AI” or “bot” often conjure thoughts of cold, impersonal technology, basically the opposite of what is human. But more often than you might think, properly applied AI can help employees open up about some of their most private concerns,"
-    publishedDateTime: 2020-10-07T00:00:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-ai-can-help-employees-deal-stress-enhance-mental-health-emily-he/?trackingId=I0ludMBETeu%2B6KiWgyfcKA%3D%3D"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGZYJnyNQH1Ww/article-cover_image-shrink_600_2000/0?e=1607558400&v=beta&t=Sx6Zci2mwA86KrFq2i9TSfdGI_ZVk4fsksBvQO55nu0"
-        width: 700
-        height: 315
         isCached: true
 
 secured: "/t3gP0BX74pVkIl9aVEWXUiUogx///lGd6hkyTJNVNWSyLuQWk7gshKedz03m4cZ6Zjt2TtvFLogDIs297NDhPCDLRfeezkTD4JHje2wjVWWFTvqT9KPhPp2uAytVLOgcPwM6JxQRuQudy0OxRHEHvh5nDONR6vjw+V15sG49awuRzm9ScX1Nd+WNTypZBN3VUJy7xPQJxGyUyhXO0EWT1jk3uVwab42UzIAwXUtJKo6uDQeNAXUlb0xnDuiPPu701OGMaz+AMjDxLI+SFTH1k1UeuwjkFQfIRtIZElT2KL7yebbt2BOdYEPrWQ3WFuLfM3V0rDIrtfdV2owi0vd2x8gPzlB1zXSl5y/tV7rYja8pOES7YymH1z2BetW0FGy/W4kweOsEtWuMwk61tMd9ntVq5V+lOmvUC6ypXf0KBg0FfUagznHclYqOYsY0RKWmMixVvOVnggkAdyCmsPmXIZ7zZHKU7yjI/dqwAIkIz6/pSvMcInAKqg0Ex6gJ0CsUbBy89if3gSLF1t3u9/9xg==;DTxQ6p/6mGT09R8aOKCpXQ=="

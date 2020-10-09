@@ -2,6 +2,107 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-07-these-are-the-3-biggest-bargains-in-biotech.md",
+      "title": "These Are the 3 Biggest Bargains in Biotech",
+      "excerpt": "Since the March 23 low, investors have taken a particular liking to the technology sector, with cloud computing, cybersecurity, and artificial intelligence stocks rocketing ... as a monotherapy or combination therapy. Even a handful of these clinical ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/10/07/these-are-the-3-biggest-bargains-in-biotech/",
+      "originalUrl": "https://www.fool.com/investing/2020/10/07/these-are-the-3-biggest-bargains-in-biotech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F594012%2Fstethoscope-over-money-healthcare-costs-obamacare-getty.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 803,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/07/these-are-the-3-biggest-bargains-in-biotech/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/07/these-are-the-3-biggest-bargains-in-biotech/",
+      "publishedDateTime": "2020-10-07T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-how-ai-is-transforming-the-future-of-sales.md",
+      "title": "How AI Is Transforming The Future Of Sales",
+      "excerpt": "Highly optimized sales processes backed by AI and machine learning technology aren't a wishful future; they are already here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/07/how-ai-is-transforming-the-future-of-sales/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/07/how-ai-is-transforming-the-future-of-sales/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee8c0a4bcc30e0006c1d9f4%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/07/how-ai-is-transforming-the-future-of-sales/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/07/how-ai-is-transforming-the-future-of-sales/amp/",
+      "publishedDateTime": "2020-10-07T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-facial-recognition-at-the-border-is-fueling-other-forms-of-surveillance-report-says.md",
       "title": "Facial Recognition at the Border Is Fueling Other Forms of Surveillance, Report Says",
       "excerpt": "Facial recognition images taken at border crossings can be repurposed by government agencies and private companies, threatening human rights, the report warns.",
@@ -1125,107 +1226,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-this-ai-startup-helps-hospitals-navigate-operational-troubles-of-covid-19-and-beyond.md",
-      "title": "This AI Startup Helps Hospitals Navigate Operational Troubles Of Covid-19 And Beyond",
-      "excerpt": "M Health Fairview, one of the largest health systems in Minnesota, got an urgent message from one of its vendors: Mountain View, California-based artificial intelligence startup Qventus. The 13-hospital system had contracted the company to help streamline its operations,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startup-helps-hospitals-navigate-operational-troubles-of-covid-19-and-beyond/",
-      "originalUrl": "https://www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startup-helps-hospitals-navigate-operational-troubles-of-covid-19-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7b72922d03ae32323bd091%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3600%26cropY1%3D98%26cropY2%3D2123",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startup-helps-hospitals-navigate-operational-troubles-of-covid-19-and-beyond/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startup-helps-hospitals-navigate-operational-troubles-of-covid-19-and-beyond/amp/",
-      "publishedDateTime": "2020-10-06T03:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-this-ai-startup-raised-15-million-to-help-patients-transcribe-doctor-appointments.md",
-      "title": "This AI Startup Raised $15 Million To Help Patients Transcribe Doctor Appointments",
-      "excerpt": "Technology has this potential to help so many more people than I could ever see in my weekly clinic,” says Abridge cofounder and CEO Dr. Shiv Rao, 41, a cardiologist who still occasionally sees patients.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startup-raised-15-million-to-help-patients-transcribe-doctor-appointments-and-decode-jargon/",
-      "originalUrl": "https://www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startup-raised-15-million-to-help-patients-transcribe-doctor-appointments-and-decode-jargon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7bcba8530f376e46cc2c1b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2500%26cropY1%3D114%26cropY2%3D1520",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startup-raised-15-million-to-help-patients-transcribe-doctor-appointments-and-decode-jargon/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startup-raised-15-million-to-help-patients-transcribe-doctor-appointments-and-decode-jargon/amp/",
-      "publishedDateTime": "2020-10-06T02:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "In-house: AI patenting is becoming more challenging"
+    excerpt: "“For AI, we start thinking of providing a framework for the computer to make decisions and draw conclusions without providing specific instructions. It becomes like a black box where we don’t actually know how the computer is coming up with decisions ..."
+    publishedDateTime: 2020-10-09T08:02:00Z
+    webUrl: "https://www.managingip.com/article/b1nqhkjgslk5t8/in-house-ai-patenting-is-becoming-more-challenging"
+    type: article
+    provider:
+      name: Managingip.com
+      domain: managingip.com
+    quality: 37
+    images:
+      - url: "https://www.managingip.com/v-d253a52ef452d5ac4593cb26fe20e3f3/Media/images/managing-ip/2020/october/AI.JPG"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "kVpFFlf1ALwCf9DPYSRiLTRzZiQcjCbX3XlskS9/nQn4xtH/7a1y0qPz0b3ZVcTMCyFrFhJf1ExO4PVY5rGg8hoocOUSG8H/tK3tqEHYicVVkeQBxPbkK5aHy+Ij0emmerPc7isosTf9oSLfYhQc2/PnJ3LK2dmuXyQMzfekvy/fhQCwXBNhYGMIWcltliihSfNmgxwAMYN0nIY/EwqvcX5PBif0hHiHBrlC9KmFrgVKH65UPoYE3zy1Z4M6bBACa1/gbFU4kAA1bYt9t51cLUbI7rE15jfWjTliL+5GrBfRbMMNExDVM+1Fn3oUgbE0/sjKCyedumROprir0VCfsxLB26FD1sBCzKa2Tdl7LOE=;zBm1P5UDcaPJF9P2xKNbJA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.azonano.com/amp/article.aspx?ArticleID=5561"
 cdnAmpWebUrl: "https://www-azonano-com.cdn.ampproject.org/c/s/www.azonano.com/amp/article.aspx?ArticleID=5561"
 type: article
 quality: 70
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 950
     height: 551
     isCached: true
+
+related:
+  - title: "Researchers use artificial intelligence language tools to decode molecular movements"
+    excerpt: "By applying natural language processing tools to the movements of protein molecules, University of Maryland scientists created an abstract language that describes the multiple shapes a protein molecule can take and how and when it transitions from one shape to another."
+    publishedDateTime: 2020-10-09T09:03:00Z
+    webUrl: "https://phys.org/news/2020-10-artificial-intelligence-language-tools-decode.html"
+    ampWebUrl: "https://phys.org/news/2020-10-artificial-intelligence-language-tools-decode.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-artificial-intelligence-language-tools-decode.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 50
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/5-umdresearche.jpg"
+        width: 668
+        height: 1008
+        isCached: true
 
 secured: "RH0X9EpGViVfFh7LQmxU21auehit5x3pxz977DzlcMDqsoiPtcCANB5Z2grpPaOuyuOYBPtfCmrXSx2H8bTgHNZdysRAIRR58bv8fWywEQG9MAR0Cunb7OeeDYM5eBjObk3LQsBvPaF83B4rs2GWt66KRuLrOggDn54YzXU8jgNsgualKmIcYh98mtFyrzSR669vyW9qDkoC4s6JthH2nvGH2u7jI4s9B4skOA/5VOF8E+OBNqh5x3IOXkW2b6NC131lhpDIYnUv76d+bWv7lUhwDkwAnHtFrbAWZ8CytS+nerIYS5E0PUqGnPMpHue7HUmtTf0Ql1ulJ7OpQ8WAAPxNACdPCxlnp5ByT2kJxx8=;v50bKgU5Fmq/R3K3Hxu37A=="
 ---

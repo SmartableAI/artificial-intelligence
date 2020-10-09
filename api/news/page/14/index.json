@@ -2,6 +2,56 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-09-25-spectrum-labs-raises-10m-for-its-ai-based-platform-to-combat-online-toxicity.md",
+      "title": "Spectrum Labs raises $10M for its AI-based platform to combat online toxicity",
+      "excerpt": "With the U.S. presidential election now 40 days away, all eyes are focused on how online conversations, in conjunction with other hallmarks of online life like viral videos, news clips and misleading ads,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/24/spectrum-labs-raises-10m-for-its-ai-based-platform-to-combat-online-toxicity/",
+      "originalUrl": "https://techcrunch.com/2020/09/24/spectrum-labs-raises-10m-for-its-ai-based-platform-to-combat-online-toxicity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1050765184.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/24/spectrum-labs-raises-10m-for-its-ai-based-platform-to-combat-online-toxicity/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/24/spectrum-labs-raises-10m-for-its-ai-based-platform-to-combat-online-toxicity/amp/",
+      "publishedDateTime": "2020-09-24T17:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-improved-ocr-and-structured-data-extraction-with-amazon-textract.md",
       "title": "Improved OCR and structured data extraction with Amazon Textract",
       "excerpt": "Optical character recognition (OCR) technology, which enables extracting text from an image, has been around since the mid-20th century, and continues to be a research topic today. OCR and document understanding are still vibrant areas of research because they’re both valuable and hard problems to solve.",
@@ -1183,57 +1233,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-fortnite-challenge-how-to-make-a-stark-robot-dance.md",
-      "title": "‘Fortnite’ Challenge: How To Make A Stark Robot Dance",
-      "excerpt": "Fortnite has a new set of challenges that have just gone live this morning, including one very unique one that asks players to make a Stark Robot dance. How do you do this? It’s something I’ve never actually done before this challenge,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/paultassi/2020/09/24/fortnite-challenge-how-to-make-a-stark-robot-dance/",
-      "originalUrl": "https://www.forbes.com/sites/paultassi/2020/09/24/fortnite-challenge-how-to-make-a-stark-robot-dance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6c88d20885bdb2f9c85d00%2F0x0.jpg",
-          "width": 1199,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2020/09/24/fortnite-challenge-how-to-make-a-stark-robot-dance/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2020/09/24/fortnite-challenge-how-to-make-a-stark-robot-dance/amp/",
-      "publishedDateTime": "2020-09-24T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

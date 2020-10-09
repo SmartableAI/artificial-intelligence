@@ -2,39 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-09-24-autonomous-shuttles-idtechex-report-reveals-the-future-of-last-mile-mobility.md",
-      "title": "Autonomous Shuttles: IDTechEx Report Reveals the Future of Last-mile Mobility",
-      "excerpt": "self-driving shuttle buses that transport small groups of people along defined and planned routes. Autonomous shuttles could be a key element that connects the public transportation systems to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2020-09/50779615-autonomous-shuttles-idtechex-report-reveals-the-future-of-last-mile-mobility-008.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2020-09/50779615-autonomous-shuttles-idtechex-report-reveals-the-future-of-last-mile-mobility-008.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-23T10:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-23-hawaii-gives-self-driving-car-testing-the-green-light.md",
       "title": "Hawaii gives self-driving car testing the green light",
       "excerpt": "Hawaii's legislation will require a human driver behind the wheel, but automakers will likely appreciate not having to worry about crossing state borders there.",
@@ -1329,6 +1296,39 @@
       "provider": {
         "name": "Kent Online",
         "domain": "kentonline.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-how-safe-are-driverless-cars.md",
+      "title": "How Safe Are Driverless Cars?",
+      "excerpt": "Science-fiction author Isaac Asimov, imagining a future of artificial intelligence ... on trying to figure out how we can program our driverless cars to make the right moral decisions in these ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/talking-apes/202009/how-safe-are-driverless-cars",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/talking-apes/202009/how-safe-are-driverless-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/talking-apes/202009/how-safe-are-driverless-cars?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/talking-apes/202009/how-safe-are-driverless-cars?amp",
+      "publishedDateTime": "2020-09-14T09:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
         "images": null,
         "publishers": null,
         "authors": null
