@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Creative Behavior Is Set To Harness AI For Catering To Growing Business Needs"
+    excerpt: "CHARLOTTE, NC / ACCESSWIRE / October 9, 2020 / Creative Behavior LLC is transforming the marketing approach for its clients by harnessing the power of AI into digital marketing. The technology will help their existing clientele to understand their users changing needs and preferences."
+    publishedDateTime: 2020-10-09T19:45:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-charlotte-north-america-north-carolina-artificial-intelligence-2a793da858d236dec1ffaf9342ab53d1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 34
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "In a battle of AI versus AI, researchers are preparing for the coming wave of deepfake propaganda"
     excerpt: "Fake videos generated with sophisticated AI tools are a looming threat. Researchers are racing to build tools that can detect them, tools that are crucial for journalists to counter disinformation."
     publishedDateTime: 2020-10-09T12:28:00Z

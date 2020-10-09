@@ -2,6 +2,193 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-09-future-trends-in-robotics-should-translate-to-more-upside-for-ubot.md",
+      "title": "Future Trends in Robotics Should Translate to More Upside for “UBOT”",
+      "excerpt": "The robotics industry has proven its mettle amid the Covid-19 pandemic with machines taking the place of humans in order to stave off further infections from the virus. That said, a recent Robotics & Automation News article identified additional trends that can only further the expansion of the robotics industry--good news for ETFs like the Robotics & AI Bull 3X ETF  (NYSEArca: UBOT).",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/future-trends-in-robotics-should-translate-to-more-upside-for-ubot-2020-10-08",
+      "originalUrl": "https://www.nasdaq.com/articles/future-trends-in-robotics-should-translate-to-more-upside-for-ubot-2020-10-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/future-trends-in-robotics-should-translate-to-more-upside-for-ubot-2020-10-08?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/future-trends-in-robotics-should-translate-to-more-upside-for-ubot-2020-10-08?amp",
+      "publishedDateTime": "2020-10-08T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-enhanced-computer-vision-sensors-raise-manufacturing-stakes-for-robots-as-a-service.md",
+      "title": "Enhanced computer vision, sensors raise manufacturing stakes for robots as a service",
+      "excerpt": "Firms developing computer vision technology for standard robots, developments in 3D vision and so-called “Robots as a Service” are defining the next wave of automation.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/08/enhanced-computer-vision-sensors-raise-manufacturing-stakes-for-robots-as-a-service/",
+      "originalUrl": "https://techcrunch.com/2020/10/08/enhanced-computer-vision-sensors-raise-manufacturing-stakes-for-robots-as-a-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1220591821.jpg?w=1000",
+          "width": 1000,
+          "height": 538,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/08/enhanced-computer-vision-sensors-raise-manufacturing-stakes-for-robots-as-a-service/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/08/enhanced-computer-vision-sensors-raise-manufacturing-stakes-for-robots-as-a-service/amp/",
+      "publishedDateTime": "2020-10-08T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-these-ai-generated-resumes-will-make-your-job-search-even-more-painful.md",
+      "title": "These AI-generated resumes will make your job search even more painful",
+      "excerpt": "The result is Almost Real Resume, a website that spits out an endless stream of fake career highlights for tech job candidates. It gives you a new name, contact details, personal statement, work experience,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/10/08/these-ai-generated-resumes-will-make-your-job-search-even-more-painful/",
+      "originalUrl": "https://thenextweb.com/neural/2020/10/08/these-ai-generated-resumes-will-make-your-job-search-even-more-painful/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-08T162316.764-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/10/08/these-ai-generated-resumes-will-make-your-job-search-even-more-painful/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/08/these-ai-generated-resumes-will-make-your-job-search-even-more-painful/amp/",
+      "publishedDateTime": "2020-10-08T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-from-the-data-and-ai-expert-labs-start-with-outcomes.md",
+      "title": "From the Data and AI Expert Labs: Start with outcomes",
+      "excerpt": "IBM’s Data and AI Expert Labs help guide organizations on their AI journeys. Expert Labs consultants represent years of data and AI expertise and offer best practices and business strategies to meet each organization’s unique needs. In From the Data and AI Expert Labs, I’ll take the expert learnings",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/10/from-the-data-and-ai-expert-labs/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/10/from-the-data-and-ai-expert-labs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/10/2020_08_28_Blog_DataAndAIExpertLabs_Leadspace_V1.jpg",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-08T09:09:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-instagram-uses-artificial-intelligence-ai-to-hide-abusive-comments.md",
       "title": "Instagram Uses Artificial Intelligence (AI) to Hide Abusive Comments",
       "excerpt": "As Instagram turns 10, it has decided to roll out many new features including the use of AI to block abusive comments on the social media platform. Instagram said that it'll detect the comments",
@@ -854,7 +1041,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/making-cycling-safer-with-aws-deeplens-and-amazon-sagemaker-object-detection/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 173,
+      "heat": 183,
       "tags": null,
       "images": [
         {
@@ -979,200 +1166,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-predicting-defender-trajectories-in-nfls-next-gen-stats.md",
-      "title": "Predicting Defender Trajectories in NFL’s Next Gen Stats",
-      "excerpt": "NFL’s Next Gen Stats (NGS) powered by AWS accurately captures player and ball data in real time for every play and every NFL game—over 300 million data points per season—through the extensive use of sensors in players’ pads and the ball. With this rich set of tracking data, NGS uses AWS machine learning",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/predicting-defender-trajectories-in-nfls-next-gen-stats/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/predicting-defender-trajectories-in-nfls-next-gen-stats/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/06/1-Diagram_Update-544x630.jpg",
-          "width": 544,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T10:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-cbp-expands-facial-recognition-program-to-international-travelers-at-san-francisco-and-san-jose-airports.md",
-      "title": "CBP expands facial recognition program to international travelers at San Francisco and San Jose airports",
-      "excerpt": "U.S. Customs and Border Protection is expanding a controversial facial recognition program to airports in San Jose and San Francisco.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/07/cbp-expands-facial-recognition-program-to-international-travelers-at-san-francisco-and-san-jose-airports/",
-      "originalUrl": "https://venturebeat.com/2020/10/07/cbp-expands-facial-recognition-program-to-international-travelers-at-san-francisco-and-san-jose-airports/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1199708189-e1600898324155.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/07/cbp-expands-facial-recognition-program-to-international-travelers-at-san-francisco-and-san-jose-airports/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/07/cbp-expands-facial-recognition-program-to-international-travelers-at-san-francisco-and-san-jose-airports/amp/",
-      "publishedDateTime": "2020-10-07T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-biochip-innovation-combines-ai-and-nanoparticle-printing-for-cancer-cell-analysis.md",
-      "title": "Biochip innovation combines AI and nanoparticle printing for cancer cell analysis",
-      "excerpt": "Electrical engineers, computer scientists and biomedical engineers at the University of California, Irvine have created a new lab-on-a-chip that can help study tumor heterogeneity to reduce resistance to cancer therapies.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2020-10-biochip-combines-ai-nanoparticle-cancer.html",
-      "originalUrl": "https://phys.org/news/2020-10-biochip-combines-ai-nanoparticle-cancer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2018/5c18fceef3bbb.jpg",
-          "width": 2500,
-          "height": 1917,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2020-10-biochip-combines-ai-nanoparticle-cancer.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-biochip-combines-ai-nanoparticle-cancer.amp",
-      "publishedDateTime": "2020-10-07T09:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-synthetic-faces-this-ai-falsifies-reality-in-the-name-of-privacy.md",
-      "title": "Synthetic Faces: This AI Falsifies Reality In The Name Of Privacy",
-      "excerpt": "The deepfake technology I’m taking about is from a Berlin-based startup called Brighter AI, which provides privacy solutions for an increasingly surveilled world: license plate blurring and face blurring so companies with cameras can comply with European privacy laws,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/10/07/synthetic-faces-this-ai-falsifies-reality-in-the-name-of-privacy/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2020/10/07/synthetic-faces-this-ai-falsifies-reality-in-the-name-of-privacy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7de968419bf5f836413c4d%2F0x0.jpg",
-          "width": 1000,
-          "height": 693,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/10/07/synthetic-faces-this-ai-falsifies-reality-in-the-name-of-privacy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/10/07/synthetic-faces-this-ai-falsifies-reality-in-the-name-of-privacy/amp/",
-      "publishedDateTime": "2020-10-07T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

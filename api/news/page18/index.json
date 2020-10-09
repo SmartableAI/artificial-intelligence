@@ -2,6 +2,376 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-09-23-global-chipmaker-qualcomm-announces-snapdragon-750g-chip-with-5g-connectivity.md",
+      "title": "Global Chipmaker Qualcomm announces Snapdragon 750G chip with 5G connectivity",
+      "excerpt": "Global chipmaker Qualcomm has announced Snapdragon 750G 5G Mobile Platform that enables global 5G connectivity with HDR gaming and on-device AI.Snapdragon 750G offers",
+      "sourceUrl": null,
+      "webUrl": "https://english.madhyamam.com/technology/global-chipmaker-qualcomm-announces-snapdragon-750g-chip-with-5g-connectivity-574863",
+      "originalUrl": "https://english.madhyamam.com/technology/global-chipmaker-qualcomm-announces-snapdragon-750g-chip-with-5g-connectivity-574863",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://english.madhyamam.com/h-upload/2020/09/23/698411-qualcomm-hq-5-web.jpg",
+          "width": 1798,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://english.madhyamam.com/amp/technology/global-chipmaker-qualcomm-announces-snapdragon-750g-chip-with-5g-connectivity-574863",
+      "cdnAmpWebUrl": "https://english-madhyamam-com.cdn.ampproject.org/c/s/english.madhyamam.com/amp/technology/global-chipmaker-qualcomm-announces-snapdragon-750g-chip-with-5g-connectivity-574863",
+      "publishedDateTime": "2020-09-23T00:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Madhyamam",
+        "domain": "madhyamam.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple.md",
+      "title": "Volkswagen Trucking Business Invests in Self-Driving Truck Developer TuSimple",
+      "excerpt": "Volkswagen unit Traton Group will work with TuSimple to develop self-driving trucks and take a stake in the technology company as part of their agreement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460?mod=hp_minor_pos13",
+      "originalUrl": "https://www.wsj.com/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460?mod=hp_minor_pos13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-235133/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460",
+      "publishedDateTime": "2020-09-23T00:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-volkswagens-truck-unit-ties-up-with-tusimple-on-robot-big-rigs.md",
+      "title": "Volkswagen’s Truck Unit Ties Up With TuSimple On Robot Big Rigs",
+      "excerpt": "TuSimple, a startup that’s developing self-driving technology for heavy ... (TuSimple is also a standout member of Forbes’ 2020 AI 50 list of companies to watch.)",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alanohnsman/2020/09/23/volkswagens-truck-unit-ties-up-with-tusimple-on-robot-big-rigs/",
+      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2020/09/23/volkswagens-truck-unit-ties-up-with-tusimple-on-robot-big-rigs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a44a97566ec33224ea8ed%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2020/09/23/volkswagens-truck-unit-ties-up-with-tusimple-on-robot-big-rigs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/09/23/volkswagens-truck-unit-ties-up-with-tusimple-on-robot-big-rigs/amp/",
+      "publishedDateTime": "2020-09-23T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-deep-learning-on-steroids-koch-disruptive-technologies-gets-in-on-deepcubes-7m-series-a.md",
+      "title": "Deep Learning on steroids: Koch Disruptive Technologies gets in on DeepCube's $7M Series A",
+      "excerpt": "“The main issue with Deep-Learning models these days is their enormous memory size, which usually means that day-to-day operations become pretty costly. As a result, end-user installation almost doesn’t exist, and costs are extremely high for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geektime.com/deepcube-raises-7m/",
+      "originalUrl": "https://www.geektime.com/deepcube-raises-7m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geektime.com/content/images/2020/09/deep-1600768954-1536x849.png",
+          "width": 1536,
+          "height": 849,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geektime.com/deepcube-raises-7m/amp/",
+      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/deepcube-raises-7m/amp/",
+      "publishedDateTime": "2020-09-22T21:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geektime",
+        "domain": "geektime.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-microsoft-lands-exclusive-license-for-openais-astonishing-gpt-3-model.md",
+      "title": "Microsoft Lands Exclusive License for OpenAI's Astonishing GPT-3 Model",
+      "excerpt": "Microsoft is having a hell of a week. On Monday, the company announced a $7.5 billion deal to acquire Zenimax and all of its big video game properties. In one move, the Xbox platform’s future suddenly looked a lot brighter.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/microsoft-lands-exclusive-license-for-openais-astonishi-1845146568",
+      "originalUrl": "https://gizmodo.com/microsoft-lands-exclusive-license-for-openais-astonishi-1845146568",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/iigrcaogdqbygada6mxc.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/microsoft-lands-exclusive-license-for-openais-astonishi-1845146568/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/microsoft-lands-exclusive-license-for-openais-astonishi-1845146568/amp",
+      "publishedDateTime": "2020-09-22T20:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-twitters-ai-revealed-to-have-racial-bias-after-a-viral-photo-experiment.md",
+      "title": "Twitter’s AI Revealed to Have Racial Bias After a Viral Photo Experiment",
+      "excerpt": "On Saturday, a user tested out racial discrimination existing in Twitter’s AI photo tools using two strips of photos. Twitter crops pictures attached to a tweet, only showing the entire picture after a user clicks on it,",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en_asia/article/93547v/twitter-ai-algorithm-has-racial-bias",
+      "originalUrl": "https://www.vice.com/en_asia/article/93547v/twitter-ai-algorithm-has-racial-bias",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com//articles/5f69d748e154ad009ce2ccf3/lede/1600774181209-marten-bjork-fvtg38cjck-unsplash.jpeg?crop=1xw:0.3746xh;0xw,0.3438xh",
+          "width": 3506,
+          "height": 1970,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en_asia/article/93547v/twitter-ai-algorithm-has-racial-bias",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_asia/article/93547v/twitter-ai-algorithm-has-racial-bias",
+      "publishedDateTime": "2020-09-22T19:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-elon-musk-says-teslas-full-self-driving-autopilot-is-coming-soon-and-its-clearly-going-to-work.md",
+      "title": "Elon Musk says Tesla's full self-driving Autopilot is coming soon and it's 'clearly going to work'",
+      "excerpt": "The next step in the self-driving revolution is coming in 'a month or so, says Tesla CEO Elon Musk, teasing the company's full self-driving Autopilot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/money/cars/2020/09/22/tesla-elon-musk-full-self-driving-autopilot-software/3498264001/",
+      "originalUrl": "https://www.usatoday.com/story/money/cars/2020/09/22/tesla-elon-musk-full-self-driving-autopilot-software/3498264001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T18:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-chinese-propaganda-network-on-facebook-used-ai-generated-faces.md",
+      "title": "Chinese propaganda network on Facebook used AI-generated faces",
+      "excerpt": "Facebook removed two networks of fake accounts spreading government propaganda on the platform Tuesday, one originating in China and one in the Philippines. In its latest report on this kind of coordinated campaign,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/22/facebook-gans-takes-down-networks-of-fake-accounts-originating-in-china-and-the-philippines/",
+      "originalUrl": "https://techcrunch.com/2020/09/22/facebook-gans-takes-down-networks-of-fake-accounts-originating-in-china-and-the-philippines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/gans-graphika.jpeg?w=680",
+          "width": 680,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/22/facebook-gans-takes-down-networks-of-fake-accounts-originating-in-china-and-the-philippines/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/facebook-gans-takes-down-networks-of-fake-accounts-originating-in-china-and-the-philippines/amp/",
+      "publishedDateTime": "2020-09-22T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-beyond-limits-raises-133m-in-series-c-funding.md",
       "title": "Beyond Limits Raises $133M in Series C Funding",
       "excerpt": "Beyond Limits, a Los Angeles, CA-based industrial and enterprise-grade AI technology company built for the most demanding sectors, including energy, utilities and healthcare, raised a $113m Series C f",
@@ -792,380 +1162,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-qualcomms-new-snapdragon-750g-has-5g-faster-speeds-and-improved-ai-performance.md",
-      "title": "Qualcomm’s new Snapdragon 750G has 5G, faster speeds, and improved AI performance",
-      "excerpt": "The 750G also features other improvements that have trickled down from Qualcomm’s higher-performance and newer chips, like the company’s fifth-generation AI engine, which Qualcomm says offers a 20 percent increase in AI performance for things like AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/9/22/21449747/qualcomm-snapdragon-750g-5g-faster-cpu-gpu-ai-engine-smartphone-processor",
-      "originalUrl": "https://www.theverge.com/2020/9/22/21449747/qualcomm-snapdragon-750g-5g-faster-cpu-gpu-ai-engine-smartphone-processor",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/EcS4q-86rZKgAIpccBnhdeReSGA=/0x0:6000x4000/1400x933/filters:focal(2520x1520:3480x2480):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67448284/Snapdragon_750G_5G_QRD___In_Hand.0.png",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/9/22/21449747/qualcomm-snapdragon-750g-5g-faster-cpu-gpu-ai-engine-smartphone-processor",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/9/22/21449747/qualcomm-snapdragon-750g-5g-faster-cpu-gpu-ai-engine-smartphone-processor",
-      "publishedDateTime": "2020-09-22T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-image-recognition-market-coronavirus-pandemic-short-and-long-term-actions-taken-by-key-player-fortune-business-insights.md",
-      "title": "Image Recognition Market Coronavirus Pandemic: Short and long-term actions taken by Key Player? Fortune Business Insights",
-      "excerpt": "Facial Recognition, Object Recognition, Pattern Recognition), By Applications (Scanning and Imaging, Security and Surveillance, Image Search, Augmented Reality and others), By Deployment (On ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-market-coronavirus-pandemic-short-and-long-term-actions-taken-by-key-player-fortune-business-insights-2020-09-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-market-coronavirus-pandemic-short-and-long-term-actions-taken-by-key-player-fortune-business-insights-2020-09-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T06:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-deepcubes-software-based-solution-accelerates-ai-on-existing-hardware.md",
-      "title": "DeepCube’s software-based solution accelerates AI on existing hardware",
-      "excerpt": "DeepCube, a startup developing a platform that reduces the computational requirements of AI algorithms on existing hardware, today raised $7 million. A spokesperson told VentureBeat the funds will ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/22/deepcubes-software-based-solution-accelerates-ai-on-existing-hardware/",
-      "originalUrl": "https://venturebeat.com/2020/09/22/deepcubes-software-based-solution-accelerates-ai-on-existing-hardware/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/22/deepcubes-software-based-solution-accelerates-ai-on-existing-hardware/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/22/deepcubes-software-based-solution-accelerates-ai-on-existing-hardware/amp/",
-      "publishedDateTime": "2020-09-22T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-to-clean-up-comments-let-ai-tell-users-their-words-are-trash.md",
-      "title": "To Clean Up Comments, Let AI Tell Users Their Words Are Trash",
-      "excerpt": "It won’t solve everything, but a new study suggests real-time automated feedback could help make the internet a less toxic place.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/comments-section-clean-up-let-ai-tell-users-words-trash/",
-      "originalUrl": "https://www.wired.com/story/comments-section-clean-up-let-ai-tell-users-words-trash/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f655cfeaf1c7b1f76a6a8b4/master/pass/toxic-comments.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/comments-section-clean-up-let-ai-tell-users-words-trash/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/comments-section-clean-up-let-ai-tell-users-words-trash/amp",
-      "publishedDateTime": "2020-09-22T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-baidu-unveils-upgraded-products-based-on-ai-technologies.md",
-      "title": "Baidu Unveils Upgraded Products Based on AI Technologies",
-      "excerpt": "BIDU recently unveiled new products and services based on artificial intelligence (AI) technologies at the annual Baidu World Conference in Beijing. In regard to this, the company revealed a few upgrades in the self-driving space.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/baidu-unveils-upgraded-products-based-on-ai-technologies-2020-09-22",
-      "originalUrl": "https://www.nasdaq.com/articles/baidu-unveils-upgraded-products-based-on-ai-technologies-2020-09-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/baidu-unveils-upgraded-products-based-on-ai-technologies-2020-09-22?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-unveils-upgraded-products-based-on-ai-technologies-2020-09-22?amp",
-      "publishedDateTime": "2020-09-22T05:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-ai-medicine-software-market.md",
-      "title": "AI Medicine Software Market",
-      "excerpt": "Get a Sample Copy @ https://bit.ly/3kFgrzC The major players covered in AI Medicine Software for Covid-19 Market: Enlitic, Atomwise, DeepMind, Babylon Health, Flatiron Health, Tempus Labs, Sophia Genetics, Recursion Pharmaceuticals, Synyi, Freenome ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2139411/covid-19-impact-on-ai-medicine-software-market-outlook",
-      "originalUrl": "https://www.openpr.com/news/2139411/covid-19-impact-on-ai-medicine-software-market-outlook",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/9/T922220379_g.jpg",
-          "width": 577,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2139411/covid-19-impact-on-ai-medicine-software-market-outlook",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2139411/covid-19-impact-on-ai-medicine-software-market-outlook",
-      "publishedDateTime": "2020-09-22T05:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace.md",
-      "title": "dotData Now Supports Microsoft Azure Deployment and Is Available on Microsoft Azure Marketplace",
-      "excerpt": "Integration of dotData's AutoML 2.0 platform with Microsoft's highly available, trusted and scalable Azure cloud platform provides increased speed and efficiency of data science and machine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-301135412.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-301135412.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-to-make-fairer-ai-physicists-peer-inside-its-black-box.md",
-      "title": "To Make Fairer AI, Physicists Peer Inside Its Black Box",
-      "excerpt": "After repurposing facial recognition and deepfake tech to study galaxies and the Higgs boson, physicists think they can help shape the responsible use of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/to-make-fairer-ai-physicists-peer-inside-its-black-box/",
-      "originalUrl": "https://www.wired.com/story/to-make-fairer-ai-physicists-peer-inside-its-black-box/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f68ee3340c3a6fb18426ae0/master/pass/Science_CMS_D810_NEF_3483.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/to-make-fairer-ai-physicists-peer-inside-its-black-box/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/to-make-fairer-ai-physicists-peer-inside-its-black-box/amp",
-      "publishedDateTime": "2020-09-22T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "AI Ethics"
       ]
     }
   ],

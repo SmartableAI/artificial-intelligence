@@ -2,6 +2,235 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-06-nvidia-to-develop-400-petaflop-dgx-a100-supercomputer-for-uk-ai-research.md",
+      "title": "NVIDIA To Develop 400 Petaflop DGX A100 Supercomputer For UK AI Research",
+      "excerpt": "The Cambridge-1 supercomputer will be an NVIDIA DGX SuperPOD supercomputer with over 400 petaflops of AI performance and eight petaflops of Linpack performance",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/nvidia-ai-supercomputer-cambridge-1",
+      "originalUrl": "https://hothardware.com/news/nvidia-ai-supercomputer-cambridge-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/53044/content/nvidia-datacenter-hero.jpg",
+          "width": 708,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/nvidia-ai-supercomputer-cambridge-1",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-ai-supercomputer-cambridge-1",
+      "publishedDateTime": "2020-10-05T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-these-are-the-best-deals-from-ebays-fall-refresh-sale.md",
+      "title": "These are the best deals from eBay's Fall Refresh sale",
+      "excerpt": "Save an extra 15% on things like AirPods, the DJI Mavic Mini, DeWalt tools and more. Plus: Up to 90% off classic PC games.",
+      "sourceUrl": null,
+      "webUrl": "https://spectrum.ieee.org/tech-talk/artificial-intelligence/machine-learning/yoshua-bengio-revered-architect-of-ai-has-some-ideas-about-what-to-build-next",
+      "originalUrl": "https://www.cnet.com/news/these-are-the-best-deals-from-ebays-fall-refresh-sale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-05T11:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-make-your-everyday-smarter-with-jacquard.md",
+      "title": "Make your everyday smarter with Jacquard",
+      "excerpt": "Technology is most helpful when it’s frictionless. That is why we believe that computing should power experiences through the everyday things around you—an idea we call “ambient computing.” That’s why we developed the Jacquard platform to deliver ambient computing in a familiar, natural way: By building",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/atap/jacquard-samsonite-backpacks/",
+      "originalUrl": "https://blog.google/products/atap/jacquard-samsonite-backpacks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2020-10-02_at_1.07.46_PM.max-1200x1200.png",
+          "width": 1200,
+          "height": 621,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/atap/jacquard-samsonite-backpacks/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/atap/jacquard-samsonite-backpacks/amp/",
+      "publishedDateTime": "2020-10-05T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-gtc-2020-round-up-nvidia-announces-virtual-world-for-robots-ai-video-calls.md",
+      "title": "GTC 2020 round-up: Nvidia announces virtual world for robots, AI video calls",
+      "excerpt": "Nvidia's GPU Technology Conference, also known as GTC, is all about artificial intelligence. We'll give you a rundown of everything that was announced.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/",
+      "originalUrl": "https://www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/nvidia-gtc-2020-jensen-huang-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/?amp",
+      "publishedDateTime": "2020-10-05T09:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-want-india-to-become-global-hub-for-artificial-intelligence-pm-modi.md",
+      "title": "Want India to become global hub for Artificial Intelligence: PM Modi",
+      "excerpt": "Prime Minister Narendra Modi on Monday said that artificial intelligence (AI ... Similarly, it can play a crucial role in healthcare and education. The RAISE summit will also give opportunity to top 15 startups will be given an opportunity to showcase ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/news/india/want-india-to-become-global-hub-for-artificial-intelligence-pm-modi-11601912327145.html",
+      "originalUrl": "https://www.livemint.com/news/india/want-india-to-become-global-hub-for-artificial-intelligence-pm-modi-11601912327145.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2020/10/05/600x338/PTI05-10-2020_000245B_1601912413370_1601912427169.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/news/india/want-india-to-become-global-hub-for-artificial-intelligence-pm-modi/amp-11601912327145.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/want-india-to-become-global-hub-for-artificial-intelligence-pm-modi/amp-11601912327145.html",
+      "publishedDateTime": "2020-10-05T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-3-top-artificial-intelligence-stocks-to-buy-in-october.md",
       "title": "3 Top Artificial Intelligence Stocks to Buy in October",
       "excerpt": "Artificial intelligence (AI) is a fast-growing segment of technology. According to researcher IDC, global spending on AI (hardware, software, and services built on them) is expected to exceed $150 billion this year.",
@@ -532,7 +761,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/deliver-ai-powered-application-search-with-azure-cognitive-search-and-ba-insight/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -705,6 +934,48 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-ibm-fenergo-to-transform-new-customer-onboarding-for-financial-institutions.md",
+      "title": "IBM, Fenergo to Transform New Customer Onboarding for Financial Institutions",
+      "excerpt": "The offering is designed to incorporate artificial intelligence (AI) from IBM Watson and analytics on the IBM Cloud to help financial institutions drive efficiencies in customer onboarding through ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.troyrecord.com/news/national/ibm-fenergo-to-transform-new-customer-onboarding-for-financial-institutions/article_1ff8cadf-b470-517b-8d2d-5d23e35113b3.html",
+      "originalUrl": "https://www.troyrecord.com/news/national/ibm-fenergo-to-transform-new-customer-onboarding-for-financial-institutions/article_1ff8cadf-b470-517b-8d2d-5d23e35113b3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/troyrecord.com/content/tncms/assets/v3/editorial/c/0b/c0bf523f-6302-5997-8d2a-9688cdf3e28f/5f3a04aacb9b4.image.jpg?resize=400%2C209",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-04T21:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Troy Record",
+        "domain": "troyrecord.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI"
       ]
     },
@@ -901,283 +1172,6 @@
         "AI",
         "Facebook AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-04-machine-learning-tool-searches-the-lungs-for-signs-of-heart-failure.md",
-      "title": "Machine learning tool searches the lungs for signs of heart failure",
-      "excerpt": "One of the ways physicians can gain some forewarning of impending heart failure is through the detection of excess fluid in the lungs, and MIT researchers have developed a new machine learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/medical/machine-learning-lungs-signs-heart-failure/",
-      "originalUrl": "https://newatlas.com/medical/machine-learning-lungs-signs-heart-failure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/0a90af4/2147483647/strip/true/crop/784x523+0+39/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fbe%2F14%2F618ef1134cf088b71d33c386abe0%2Fpulmedema.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/medical/machine-learning-lungs-signs-heart-failure/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/medical/machine-learning-lungs-signs-heart-failure/?amp=true",
-      "publishedDateTime": "2020-10-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-7-types-of-ai-marketing-tools-that-drive-leads.md",
-      "title": "7 Types of AI Marketing Tools That Drive Leads",
-      "excerpt": "People in all kinds of industries are debating artificial intelligence (AI) pros and cons. AI pros and cons are",
-      "sourceUrl": null,
-      "webUrl": "https://www.business2community.com/marketing/7-types-of-ai-marketing-tools-that-drive-leads-02351260",
-      "originalUrl": "https://www.business2community.com/marketing/7-types-of-ai-marketing-tools-that-drive-leads-02351260",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.business2community.com/wp-content/uploads/2020/09/Increasing-Conversions-814862-edited-912776-edited-153863-edited.png",
-          "width": 600,
-          "height": 326,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.business2community.com/marketing/7-types-of-ai-marketing-tools-that-drive-leads-02351260/amp",
-      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/marketing/7-types-of-ai-marketing-tools-that-drive-leads-02351260/amp",
-      "publishedDateTime": "2020-10-03T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business 2 Community",
-        "domain": "business2community.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-bolstering-robotics-enterprise-potential-using-ai-applications.md",
-      "title": "Bolstering Robotics Enterprise Potential using AI Applications",
-      "excerpt": "Robots perform tasks like recognizing and grasping objects, automating its navigation and understanding human language with the unveiling of Artificial Intelligence (AI) applications in its system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/bolstering-robotics-enterprise-potential-using-ai-applications/",
-      "originalUrl": "https://www.analyticsinsight.net/bolstering-robotics-enterprise-potential-using-ai-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Robotics.jpeg",
-          "width": 2560,
-          "height": 1539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-03T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india.md",
-      "title": "IIT Jodhpur Receives NVIDIA DGX A100 AI System in India",
-      "excerpt": "Education News: DGX A100 -- the world's most advanced AI system -- will be accessible to all students at the campus and will facilitate advanced AI research and educa",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/articleshow/78457955.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/articleshow/78457955.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-78457905/78457905.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/amp_articleshow/78457955.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/amp_articleshow/78457955.cms",
-      "publishedDateTime": "2020-10-02T22:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-simplify-data-management-with-new-apis-in-amazon-personalize.md",
-      "title": "Simplify data management with new APIs in Amazon Personalize",
-      "excerpt": "Amazon Personalize now makes it easier to manage your growing item and user catalogs with new APIs to incrementally add items and users in your datasets to create personalized recommendations. With the new putItems and putUsers APIs, you can simplify the process of managing your datasets. You no longer",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/simplify-data-management-with-new-apis-in-amazon-personalize/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/simplify-data-management-with-new-apis-in-amazon-personalize/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-02T16:00:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-there-is-already-a-beer-created-by-artificial-intelligence.md",
-      "title": "There is already a beer created by Artificial Intelligence",
-      "excerpt": "To carry out this project, the creators chose the Indian Pale Ale type of beer. Technology has become a large part of our lives and with it Artificial Intelligence (AI) has intruded into our daily lives, so much so that with the help of it we have been ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/357127",
-      "originalUrl": "https://www.entrepreneur.com/article/357127",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1601668159-Depositphotos-57033799-l-2015.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/357127",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/357127",
-      "publishedDateTime": "2020-10-02T12:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

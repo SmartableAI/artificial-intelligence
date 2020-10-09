@@ -2,6 +2,369 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2020-09-02-ai-eye-indeed-selects-aws-nasdaqgs-amzn-as-preferred-cloud-and-leading-lens-manufacturer-to-utilize-ai-powered-celebros-from-bridgeline.md",
+      "title": "AI Eye: Indeed Selects AWS (NasdaqGS: $AMZN) As Preferred Cloud And Leading Lens Manufacturer To Utilize AI-Powered Celebros From Bridgeline Digital (NasdaqCM: $BLIN) For eCommerce",
+      "excerpt": "deal tracker and advancements in artificial intelligence Stocks discussed: (NasdaqGS:AMZN) (NasdaqCM:BLIN) The world’s leading job site Indeed has selected Amazon Web Services (AWS), a ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/instablog/776842-investorideas-com/5492243-ai-eye-indeed-selects-aws-nasdaqgs-amzn-preferred-cloud-and-leading-lens-manufacturer-to",
+      "originalUrl": "https://seekingalpha.com/instablog/776842-investorideas-com/5492243-ai-eye-indeed-selects-aws-nasdaqgs-amzn-preferred-cloud-and-leading-lens-manufacturer-to",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static2.seekingalpha.com/uploads/2020/9/1/776842-1598985456764054.jpg",
+          "width": 387,
+          "height": 365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-01T11:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-future-cars-may-live-a-lot-longer-analysts-believe.md",
+      "title": "Future cars may live a lot longer, analysts believe",
+      "excerpt": "Vehicle lifecycles are typically about five years with updates sprinkled in, but the lifespan could double to 10 years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/future-cars-vehicle-lifecycle-updates/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/future-cars-vehicle-lifecycle-updates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/I-FdpHll_2IA0qHIZu-4T82tWYU=/2020/02/03/77404ad3-e112-43aa-b8be-6d451870ba75/ep3gwiew4ayb6cd.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/future-cars-vehicle-lifecycle-updates/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/future-cars-vehicle-lifecycle-updates/",
+      "publishedDateTime": "2020-09-01T11:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-acer-announces-support-for-the-new-nvidia-geforce-rtx-30-series-gpus-across-its-predator-orion-desktop-portfolio.md",
+      "title": "Acer Announces Support for the New NVIDIA GeForce RTX 30 Series GPUs Across Its Predator Orion Desktop Portfolio",
+      "excerpt": "The GeForce RTX 3090, 3080, and 3070 represent the greatest GPU generational leap in the history ... ray-traced graphics and cutting-edge AI features, and provide gamers with incredible gaming ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/acer-announces-support-for-the-new-nvidia-geforce-rtx-30-series-gpus-across-its-predator-orion-desktop-portfolio-301122037.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/acer-announces-support-for-the-new-nvidia-geforce-rtx-30-series-gpus-across-its-predator-orion-desktop-portfolio-301122037.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1177667/Acer_logo_Logo.jpg?p=facebook",
+          "width": 2698,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-01T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-googles-ai-powered-flood-alerts-now-cover-all-of-india-and-parts-of-bangladesh.md",
+      "title": "Google’s AI-powered flood alerts now cover all of India and parts of Bangladesh",
+      "excerpt": "India, the world’s second most populated nation, sees more than 20% of the global flood-related fatalities each year as overrun riverbanks sweep tens of thousands of homes with them. Two years ago, Google volunteered to help.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/01/googles-ai-powered-flood-alerts-now-cover-all-of-india-and-parts-of-bangladesh/",
+      "originalUrl": "https://techcrunch.com/2020/09/01/googles-ai-powered-flood-alerts-now-cover-all-of-india-and-parts-of-bangladesh/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1228244500.jpg?w=1024",
+          "width": 1024,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/01/googles-ai-powered-flood-alerts-now-cover-all-of-india-and-parts-of-bangladesh/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/01/googles-ai-powered-flood-alerts-now-cover-all-of-india-and-parts-of-bangladesh/amp/",
+      "publishedDateTime": "2020-09-01T10:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-artificial-intelligence-robots-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2025.md",
+      "title": "Artificial Intelligence Robots Market Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020 - 2025",
+      "excerpt": "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Soft Bank,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020---2025-2020-09-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020---2025-2020-09-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-01T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-indeed-selects-aws-as-its-preferred-cloud-to-drive-efficiencies-across-its-global-operations.md",
+      "title": "Indeed Selects AWS as Its Preferred Cloud to Drive Efficiencies across its Global Operations",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced that Indeed, the world’s leading job site, has selected AWS as",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20200901005230/en/Selects-AWS-Preferred-Cloud-Drive-Efficiencies-Global",
+      "originalUrl": "https://www.businesswire.com/news/home/20200901005230/en/Selects-AWS-Preferred-Cloud-Drive-Efficiencies-Global",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200901005230/en/817187/23/AWS_logo_RGB.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-01T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-nvidia-announces-rtx-30-series-gpus-based-on-ampere-architecture-for-next-gen-gaming.md",
+      "title": "NVIDIA announces RTX 30 series GPUs based on Ampere architecture for next-gen gaming",
+      "excerpt": "NVIDIA has just launched its RTX 30 series GPUs based on the new Ampere architecture, which succeeds the Turing architecture on which the RTX 20 series was based. The company has introduced three new graphics cards – the beastly RTX 3090 for 8K gaming,",
+      "sourceUrl": null,
+      "webUrl": "https://pocketnow.com/nvidia-announces-rtx-30-series-gpus-based-on-ampere-architecture-for-next-gen-gaming",
+      "originalUrl": "https://pocketnow.com/nvidia-announces-rtx-30-series-gpus-based-on-ampere-architecture-for-next-gen-gaming",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pocketnow.com/wp/../files/2020/09/nvidia-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-01T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pocketnow.com",
+        "domain": "pocketnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-ai-and-machine-learning-algorithms-are-increasingly-being-used-to-identify-fraudulent-transactions-cybersecurity-professional-explains.md",
+      "title": "AI and Machine Learning Algorithms are Increasingly being Used to Identify Fraudulent Transactions, Cybersecurity Professional Explains",
+      "excerpt": "AI and ML algorithms are increasingly being used to identify potentially fraudulent transactions, cybersecurity professional explains.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2020/09/166016-ai-and-machine-learning-algorithms-are-increasingly-being-used-to-identify-fraudulent-transactions-cybersecurity-professional-explains/",
+      "originalUrl": "https://www.crowdfundinsider.com/2020/09/166016-ai-and-machine-learning-algorithms-are-increasingly-being-used-to-identify-fraudulent-transactions-cybersecurity-professional-explains/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/50-Euros-Europe-Inspect-Review-Look-600x800.jpeg",
+          "width": 600,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2020/09/166016-ai-and-machine-learning-algorithms-are-increasingly-being-used-to-identify-fraudulent-transactions-cybersecurity-professional-explains/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/09/166016-ai-and-machine-learning-algorithms-are-increasingly-being-used-to-identify-fraudulent-transactions-cybersecurity-professional-explains/amp/",
+      "publishedDateTime": "2020-09-01T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-02-nvidias-monster-rtx-30-series-gpus-are-listed-with-twice-the-rumoured-core-count.md",
       "title": "Nvidia's monster RTX 30-series GPUs are listed with twice the rumoured core count",
       "excerpt": "Hsun Huang threw down the news we’ve all been waiting for—the official specs for the new 30-series Nvidia Ampere graphics cards. Nvidia has pulled up with the next step in the RTX revolution, promising AI powered acceleration with almost twice the performance-per-Watt of the Turing predecessors.",
@@ -775,404 +1138,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-salesforce-beefing-up-field-service-offering-with-ai.md",
-      "title": "Salesforce beefing up field service offering with AI",
-      "excerpt": "Salesforce has been adding artificial intelligence to all parts of its platform for several years now. It calls the underlying artificial intelligence layer on the Salesforce platform Einstein. Today the company announced some enhancements to its field service offerings that take advantage of this",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/01/salesforce-beefing-up-field-service-offering-with-ai/",
-      "originalUrl": "https://techcrunch.com/2020/09/01/salesforce-beefing-up-field-service-offering-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1135334309.jpg?w=1024",
-          "width": 1024,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/01/salesforce-beefing-up-field-service-offering-with-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/01/salesforce-beefing-up-field-service-offering-with-ai/amp/",
-      "publishedDateTime": "2020-09-01T05:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-ai-enhanced-displays-are-coming-to-more-affordable-smartphones.md",
-      "title": "AI-enhanced displays are coming to more affordable smartphones",
-      "excerpt": "Pixelworks' i6 display processor boasts AI scene detection to enhance picture quality for more affordable phones.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/pixelworks-i6-display-processor-1151116/",
-      "originalUrl": "https://www.androidauthority.com/pixelworks-i6-display-processor-1151116/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/04/OnePlus-8-screen-1-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/pixelworks-i6-display-processor-1151116/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/pixelworks-i6-display-processor-1151116/amp/",
-      "publishedDateTime": "2020-09-01T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-google-debuts-custom-voices-in-contact-center-ai-and-model-management-tools.md",
-      "title": "Google debuts custom voices in Contact Center AI and model management tools",
-      "excerpt": "AI is opening up a new world of possibilities in areas like customer experience, user engagement, and access to content,” Google head of conversational AI Antony Passemard wrote in a blog post. “In Cloud AI,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/01/google-debuts-custom-voices-in-contact-center-ai-and-model-management-tools/",
-      "originalUrl": "https://venturebeat.com/2020/09/01/google-debuts-custom-voices-in-contact-center-ai-and-model-management-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/01/google-debuts-custom-voices-in-contact-center-ai-and-model-management-tools/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/01/google-debuts-custom-voices-in-contact-center-ai-and-model-management-tools/amp/",
-      "publishedDateTime": "2020-09-01T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-hate-symbols-on-amazon-nike-salutes-williams-sisters-tuesdays-first-things-first.md",
-      "title": "Hate Symbols on Amazon; Nike Salutes Williams Sisters: Tuesday’s First Things First",
-      "excerpt": "Welcome to First Things First, Adweek’s daily resource for marketers. We’ll be publishing the content to First Things First on Adweek.com each morning (like this post), but if you prefer that it come straight to your inbox,",
-      "sourceUrl": null,
-      "webUrl": "https://www.adweek.com/brand-marketing/hate-symbols-on-amazon-nike-salutes-williams-sisters-tuesdays-first-things-first/",
-      "originalUrl": "https://www.adweek.com/brand-marketing/hate-symbols-on-amazon-nike-salutes-williams-sisters-tuesdays-first-things-first/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.adweek.com/wp-content/uploads/2020/08/nike-venus-serena-williams-PAGE-2020-640x360.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.adweek.com/brand-marketing/hate-symbols-on-amazon-nike-salutes-williams-sisters-tuesdays-first-things-first/amp/",
-      "cdnAmpWebUrl": "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/brand-marketing/hate-symbols-on-amazon-nike-salutes-williams-sisters-tuesdays-first-things-first/amp/",
-      "publishedDateTime": "2020-09-01T04:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Adweek",
-        "domain": "adweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-past-the-ai-hype-when-is-ai-actually-profitable.md",
-      "title": "Past The AI Hype: When Is AI Actually Profitable?",
-      "excerpt": "One of the most important value drivers of machine learning and artificial intelligence technology isn't the technology itself. It's where a company deploys it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/09/01/past-the-ai-hype-when-is-ai-actually-profitable/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/09/01/past-the-ai-hype-when-is-ai-actually-profitable/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f404fde7a59af5a9e083a3b%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/09/01/past-the-ai-hype-when-is-ai-actually-profitable/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/09/01/past-the-ai-hype-when-is-ai-actually-profitable/amp/",
-      "publishedDateTime": "2020-09-01T04:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-the-new-era-of-saas-is-here-and-ai-is-leading-the-charge.md",
-      "title": "The New Era Of SaaS Is Here, And AI Is Leading The Charge",
-      "excerpt": "In an industry that evolves and adapts at warp speed, SaaS companies that want to crash shores before competitors must spare a seat for AI and machine learning in their tech stack.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/01/the-new-era-of-saas-is-here-and-ai-is-leading-the-charge/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/01/the-new-era-of-saas-is-here-and-ai-is-leading-the-charge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4cfbc6819db54761d8eea3%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/01/the-new-era-of-saas-is-here-and-ai-is-leading-the-charge/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/01/the-new-era-of-saas-is-here-and-ai-is-leading-the-charge/amp/",
-      "publishedDateTime": "2020-09-01T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-symbolism-versus-connectionism-in-ai-is-there-a-third-way.md",
-      "title": "Symbolism Versus Connectionism In AI: Is There A Third Way?",
-      "excerpt": "The debate between two divergent schools of thought in the underlying architecture of AI systems is starting to ask a new question: Why not both?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/01/symbolism-versus-connectionism-in-ai-is-there-a-third-way/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/01/symbolism-versus-connectionism-in-ai-is-there-a-third-way/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4cfa1d1eff46907fd8eea1%2F0x0.jpg",
-          "width": 1200,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/01/symbolism-versus-connectionism-in-ai-is-there-a-third-way/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/01/symbolism-versus-connectionism-in-ai-is-there-a-third-way/amp/",
-      "publishedDateTime": "2020-09-01T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-a-notorious-gpt-3-generated-blog-shows-ai-still-cant-imitate-human-writing.md",
-      "title": "A notorious GPT-3-generated blog shows AI still can’t imitate human writing",
-      "excerpt": "So you’re interested in AI? Then join our online event, TNW2020, where you’ll hear how artificial intelligence is transforming industries and businesses. Last week, many tech publications broke news about a blog generated by artificial intelligence that fooled thousands of users and landed on top of the Hacker News forum.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/09/01/a-notorious-gpt-3-generated-blog-shows-ai-still-cant-imitate-human-writing-syndication/",
-      "originalUrl": "https://thenextweb.com/neural/2020/09/01/a-notorious-gpt-3-generated-blog-shows-ai-still-cant-imitate-human-writing-syndication/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/image-1-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/09/01/a-notorious-gpt-3-generated-blog-shows-ai-still-cant-imitate-human-writing-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/01/a-notorious-gpt-3-generated-blog-shows-ai-still-cant-imitate-human-writing-syndication/amp/",
-      "publishedDateTime": "2020-09-01T03:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

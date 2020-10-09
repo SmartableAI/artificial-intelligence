@@ -72,20 +72,6 @@ related:
         width: 1920
         height: 1025
         isCached: true
-  - title: "How This Food-Tech Startup Is Using AI & Cloud To Make Cafeterias COVID-Safe"
-    excerpt: "Analytics India Magazine got in touch with the founders of the food-tech startup HungerBox to understand the tech behind it."
-    publishedDateTime: 2020-10-05T04:32:00Z
-    webUrl: "https://analyticsindiamag.com/how-this-food-tech-startup-is-using-ai-cloud-to-make-cafeterias-covid-safe/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 34
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/aim_hungerbx.jpg"
-        width: 1600
-        height: 901
-        isCached: true
   - title: "Bengaluru’s Narayana Hospitals employs artificial intelligence to fight Covid-19"
     excerpt: "has broken away from the traditional doctor consultations to leverage artificial intelligence to reduce the risk of virus transmission. Provision of patients’ vitals in real-time on doctors’ mobile phones, robots that transport blood samples ..."
     publishedDateTime: 2020-10-09T06:41:00Z

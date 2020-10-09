@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-23-facebook-illinois-settlement-how-to-get-a-payout-in-650-million-facial-recognition-class-action.md",
+      "title": "Facebook Illinois Settlement: How to Get a Payout in $650 Million Facial Recognition Class Action",
+      "excerpt": "When the tag feature is enabled, the social network uses face recognition technology to analyze photos and videos it believes a user is in and creates a template. The template is then used to recognize users as they appear in other photos or videos.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/facebook-illinois-face-recognition-settlement-submit-claim-payout-1533779",
+      "originalUrl": "https://www.newsweek.com/facebook-illinois-face-recognition-settlement-submit-claim-payout-1533779",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1641098/facebook-logo.jpg",
+          "width": 2500,
+          "height": 1627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/facebook-illinois-face-recognition-settlement-submit-claim-payout-1533779?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/facebook-illinois-face-recognition-settlement-submit-claim-payout-1533779?amp=1",
+      "publishedDateTime": "2020-09-23T05:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-sigmasense-closes-22m-series-a-funding-round-with-groundbreaking-invention-enabling-touchless-touch-screens.md",
       "title": "SigmaSense Closes $22M Series A Funding Round with Groundbreaking Invention Enabling Touchless Touch Screens",
       "excerpt": "object recognition, digital pens and high hover for touchless gestures on LCD, OLED, EPD and Mini-LED screens AUSTIN, Texas--(BUSINESS WIRE)--SigmaSense, the global leader in touch screen ...",
@@ -1346,39 +1397,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-12-portland-bans-facial-recognition-technology.md",
-      "title": "Portland Bans Facial-Recognition Technology",
-      "excerpt": "Come January, private companies in Portland, Oregon will no longer be allowed to use facial-recognition technology in stores, parks, and other places of public accommodation, under an ordinance passed unanimously by city lawmakers this week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediapost.com/publications/article/355607/portland-bans-facial-recognition-technology.html",
-      "originalUrl": "https://www.mediapost.com/publications/article/355607/portland-bans-facial-recognition-technology.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-11T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaPost",
-        "domain": "mediapost.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

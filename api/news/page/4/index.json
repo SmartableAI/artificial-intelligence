@@ -2,6 +2,203 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-07-deepminds-demis-hassabis-on-ai-doing-better.md",
+      "title": "DeepMind's Demis Hassabis on AI Doing Better",
+      "excerpt": "The global pandemic has focused attention on the importance of science and technology. What role can AI play in solving the big scientific questions of the coming decades? And how should we respond to the challenges this new technology brings?",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/video/events/deepmind-demis-hassabis-on-ai-doing-better/B1E79F73-609F-4979-8318-D239B3F4BF35.html",
+      "originalUrl": "https://www.wsj.com/video/events/deepmind-demis-hassabis-on-ai-doing-better/B1E79F73-609F-4979-8318-D239B3F4BF35.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://m.wsj.net/video/20201006/100620ceo8/100620ceo8_1280x720.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-06T12:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-using-machine-learning-to-predict-disease-in-cattle-might-help-solve-a-billion-dollar-problem.md",
+      "title": "Using Machine Learning To Predict Disease In Cattle Might Help Solve A Billion-Dollar Problem",
+      "excerpt": "This contagious infection is responsible for nearly half of all feedlot deaths for cattle every year in North America.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alexknapp/2020/10/06/using-machine-learning-to-predict-disease-in-cattle-might-help-solve-a-billion-dollar-problem/",
+      "originalUrl": "https://www.forbes.com/sites/alexknapp/2020/10/06/using-machine-learning-to-predict-disease-in-cattle-might-help-solve-a-billion-dollar-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7c9e6eeb3697316b2e1c9a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1920%26cropY1%3D0%26cropY2%3D1080",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alexknapp/2020/10/06/using-machine-learning-to-predict-disease-in-cattle-might-help-solve-a-billion-dollar-problem/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexknapp/2020/10/06/using-machine-learning-to-predict-disease-in-cattle-might-help-solve-a-billion-dollar-problem/amp/",
+      "publishedDateTime": "2020-10-06T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-getting-inside-the-head-of-a-machine-learning-scientist.md",
+      "title": "Getting inside the head of a machine learning scientist",
+      "excerpt": "More recently a variety of AutoML tools have launched, promising end-to-end capabilities, where data is input, parameters are adjusted, and a fully-trained, deployable ML model is generated.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/06/getting-inside-the-head-of-a-machine-learning-scientist/",
+      "originalUrl": "https://venturebeat.com/2020/10/06/getting-inside-the-head-of-a-machine-learning-scientist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-1256603051.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/06/getting-inside-the-head-of-a-machine-learning-scientist/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/06/getting-inside-the-head-of-a-machine-learning-scientist/amp/",
+      "publishedDateTime": "2020-10-06T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-how-is-artificial-intelligence-revolutionising-our-global-healthcare.md",
+      "title": "How Is Artificial Intelligence Revolutionising Our Global Healthcare?",
+      "excerpt": "Artificial intelligence is reinventing everything we once knew about healthcare. Find out how this technology could save millions of lives in the future. Artificial intelligence is one of the most promising technologies in the world.",
+      "sourceUrl": null,
+      "webUrl": "https://theislandnow.com/blog-112/how-is-artificial-intelligence-revolutionising-our-global-healthcare/",
+      "originalUrl": "https://theislandnow.com/blog-112/how-is-artificial-intelligence-revolutionising-our-global-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://301txf2j650kx3hvubmojefm-wpengine.netdna-ssl.com/wp-content/uploads/2016/07/placeholder-wp.jpg",
+          "width": 696,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://theislandnow.com/blog-112/how-is-artificial-intelligence-revolutionising-our-global-healthcare/amp/",
+      "cdnAmpWebUrl": "https://theislandnow-com.cdn.ampproject.org/c/s/theislandnow.com/blog-112/how-is-artificial-intelligence-revolutionising-our-global-healthcare/amp/",
+      "publishedDateTime": "2020-10-06T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Island Now",
+        "domain": "theislandnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-this-ai-tool-for-diagnosing-autism-could-hit-the-market-in-the-second-half-of-2021.md",
       "title": "This AI Tool For Diagnosing Autism Could Hit The Market ‘In The Second Half Of 2021’",
       "excerpt": "Cognoa, which has raised $60 million, is part of a growing market as insurers are increasingly required to cover autism products and services.",
@@ -441,6 +638,47 @@
       ]
     },
     {
+      "path": "_news/2020-10-06-where-artificial-intelligence-meets-urban-planning.md",
+      "title": "Where Artificial Intelligence Meets Urban Planning",
+      "excerpt": "First-year doctoral student is disseminating an AI program capable of changing the world of urban planning. Before you ever step into a new coffee shop, years of urban planning have gone into building that brick-and-mortar building in your neighborhood.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ucf.edu/news/where-artificial-intelligence-meets-urban-planning/",
+      "originalUrl": "https://www.ucf.edu/news/where-artificial-intelligence-meets-urban-planning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ucf.edu/news/files/2020/10/AI.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.ucf.edu/news/where-artificial-intelligence-meets-urban-planning/?amp",
+      "cdnAmpWebUrl": "https://www-ucf-edu.cdn.ampproject.org/c/s/www.ucf.edu/news/where-artificial-intelligence-meets-urban-planning/?amp",
+      "publishedDateTime": "2020-10-06T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UCF Today",
+        "domain": "ucf.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-healthcare-leaders-pioneer-a-new-collaboration-model-to-transform-the-future-of-drug-development.md",
       "title": "Healthcare Leaders Pioneer A New Collaboration Model To Transform The Future Of Drug Development",
       "excerpt": "The reinvention of drug development through partnership was the the theme of this breakthrough discussion of leaders. Through collaboration and use of AI in drug development new barriers can be broken",
@@ -601,7 +839,7 @@
       "originalUrl": "https://www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startup-helps-hospitals-navigate-operational-troubles-of-covid-19-and-beyond/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -978,235 +1216,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-nvidia-to-develop-400-petaflop-dgx-a100-supercomputer-for-uk-ai-research.md",
-      "title": "NVIDIA To Develop 400 Petaflop DGX A100 Supercomputer For UK AI Research",
-      "excerpt": "The Cambridge-1 supercomputer will be an NVIDIA DGX SuperPOD supercomputer with over 400 petaflops of AI performance and eight petaflops of Linpack performance",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/nvidia-ai-supercomputer-cambridge-1",
-      "originalUrl": "https://hothardware.com/news/nvidia-ai-supercomputer-cambridge-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/53044/content/nvidia-datacenter-hero.jpg",
-          "width": 708,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/nvidia-ai-supercomputer-cambridge-1",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-ai-supercomputer-cambridge-1",
-      "publishedDateTime": "2020-10-05T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-these-are-the-best-deals-from-ebays-fall-refresh-sale.md",
-      "title": "These are the best deals from eBay's Fall Refresh sale",
-      "excerpt": "Save an extra 15% on things like AirPods, the DJI Mavic Mini, DeWalt tools and more. Plus: Up to 90% off classic PC games.",
-      "sourceUrl": null,
-      "webUrl": "https://spectrum.ieee.org/tech-talk/artificial-intelligence/machine-learning/yoshua-bengio-revered-architect-of-ai-has-some-ideas-about-what-to-build-next",
-      "originalUrl": "https://www.cnet.com/news/these-are-the-best-deals-from-ebays-fall-refresh-sale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-05T11:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-make-your-everyday-smarter-with-jacquard.md",
-      "title": "Make your everyday smarter with Jacquard",
-      "excerpt": "Technology is most helpful when it’s frictionless. That is why we believe that computing should power experiences through the everyday things around you—an idea we call “ambient computing.” That’s why we developed the Jacquard platform to deliver ambient computing in a familiar, natural way: By building",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/atap/jacquard-samsonite-backpacks/",
-      "originalUrl": "https://blog.google/products/atap/jacquard-samsonite-backpacks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2020-10-02_at_1.07.46_PM.max-1200x1200.png",
-          "width": 1200,
-          "height": 621,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/atap/jacquard-samsonite-backpacks/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/atap/jacquard-samsonite-backpacks/amp/",
-      "publishedDateTime": "2020-10-05T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-gtc-2020-round-up-nvidia-announces-virtual-world-for-robots-ai-video-calls.md",
-      "title": "GTC 2020 round-up: Nvidia announces virtual world for robots, AI video calls",
-      "excerpt": "Nvidia's GPU Technology Conference, also known as GTC, is all about artificial intelligence. We'll give you a rundown of everything that was announced.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/",
-      "originalUrl": "https://www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/nvidia-gtc-2020-jensen-huang-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/?amp",
-      "publishedDateTime": "2020-10-05T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-want-india-to-become-global-hub-for-artificial-intelligence-pm-modi.md",
-      "title": "Want India to become global hub for Artificial Intelligence: PM Modi",
-      "excerpt": "Prime Minister Narendra Modi on Monday said that artificial intelligence (AI ... Similarly, it can play a crucial role in healthcare and education. The RAISE summit will also give opportunity to top 15 startups will be given an opportunity to showcase ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/india/want-india-to-become-global-hub-for-artificial-intelligence-pm-modi-11601912327145.html",
-      "originalUrl": "https://www.livemint.com/news/india/want-india-to-become-global-hub-for-artificial-intelligence-pm-modi-11601912327145.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2020/10/05/600x338/PTI05-10-2020_000245B_1601912413370_1601912427169.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/india/want-india-to-become-global-hub-for-artificial-intelligence-pm-modi/amp-11601912327145.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/want-india-to-become-global-hub-for-artificial-intelligence-pm-modi/amp-11601912327145.html",
-      "publishedDateTime": "2020-10-05T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

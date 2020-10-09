@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 380
         isCached: true
+  - title: "Bringing The Power Of Embedded Analytics To Your Apps And Services With Amazon QuickSight"
+    excerpt: "The constant evolution of the platform has been impressive: ML-powered anomaly detection, Amazon SageMaker integration, embedding, theming, and cross-visual filtering. Our users consume insights ..."
+    publishedDateTime: 2020-10-07T16:37:00Z
+    webUrl: "https://www.forbes.com/sites/amazonwebservices/2020/10/07/bringing-the-power-of-embedded-analytics-to-your-apps-and-services-with-amazon-quicksight/"
+    ampWebUrl: "https://www.forbes.com/sites/amazonwebservices/2020/10/07/bringing-the-power-of-embedded-analytics-to-your-apps-and-services-with-amazon-quicksight/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amazonwebservices/2020/10/07/bringing-the-power-of-embedded-analytics-to-your-apps-and-services-with-amazon-quicksight/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 65
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f68f4061bbfe5de2085c4de%2F0x0.jpg"
+        width: 600
+        height: 316
+        isCached: true
   - title: "Welcome Initiative on Artificial Intelligence"
     excerpt: "The first step is to enact robust data protection It is welcome that India is hosting a global summit on artificial intelligence (AI) and that the Prime Minister has addressed the gathering and expressed"
     publishedDateTime: 2020-10-06T17:26:00Z

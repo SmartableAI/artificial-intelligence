@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startup-helps-hospitals-navigate-operational-troubles-of-covid-19-and-beyond/amp/"
 type: article
 quality: 80
-heat: 130
+heat: 120
 published: true
 
 provider:
@@ -75,20 +75,6 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2020/10/07155320/covid-ai.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "How This Food-Tech Startup Is Using AI & Cloud To Make Cafeterias COVID-Safe"
-    excerpt: "Analytics India Magazine got in touch with the founders of the food-tech startup HungerBox to understand the tech behind it."
-    publishedDateTime: 2020-10-05T04:32:00Z
-    webUrl: "https://analyticsindiamag.com/how-this-food-tech-startup-is-using-ai-cloud-to-make-cafeterias-covid-safe/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 34
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/aim_hungerbx.jpg"
-        width: 1600
-        height: 901
         isCached: true
   - title: "Bengaluru’s Narayana Hospitals employs artificial intelligence to fight Covid-19"
     excerpt: "has broken away from the traditional doctor consultations to leverage artificial intelligence to reduce the risk of virus transmission. Provision of patients’ vitals in real-time on doctors’ mobile phones, robots that transport blood samples ..."

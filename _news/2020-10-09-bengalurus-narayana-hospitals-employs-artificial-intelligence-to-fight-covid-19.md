@@ -83,20 +83,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How This Food-Tech Startup Is Using AI & Cloud To Make Cafeterias COVID-Safe"
-    excerpt: "Analytics India Magazine got in touch with the founders of the food-tech startup HungerBox to understand the tech behind it."
-    publishedDateTime: 2020-10-05T04:32:00Z
-    webUrl: "https://analyticsindiamag.com/how-this-food-tech-startup-is-using-ai-cloud-to-make-cafeterias-covid-safe/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 34
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/aim_hungerbx.jpg"
-        width: 1600
-        height: 901
-        isCached: true
 
 secured: "jhkPLu3JRAnRpmG2jy44MwZDAvEH69pKT4QsflLhT2AcqJ6u+xUiCITHR5mVIh9so90mBi6fK7FXpCqqgPIi7B30bp/JyQy6eJqzP+OslX3CfdD75WVaP15VNXKXiZ5nj7GFAlq3M34w0P9mdRn7TtXvKYriwN59LkkrBgM776edLuOjkcGf3yaEhsnU5glBi7UbjeIM8LykiSBRRFmFY2b5lWjHsfPrk04YCZHTs8w8UA55BFIQxCTKctnj1i7SmLRV/K29tzIi+WMNVs/zjFcJSPhMBNEr6FhdiHysrcCFO0r9LhY95Tl1F4MjhiIj8Iiw5T5RrxoD5bN1ZWuyAPzUW63XOw4vqfEsraxUsvicnKgBs5r5l9tpUiiS5MhprZyww01AtSSL8jpUcPTmbS1dBt+DjT6K1YuKXRIi17DsUL5zC4jv2rm2HO2iJhF3d4vtfxZ+PtN4T1Mh7+jbkRWWwJxyHV3P18+ikrGze05ji9vyRkG53zNFO5KcUVlDfEyhr45p431tlC1WWVTThw==;OEExhHWELTL9lUQMLLGbWg=="
 ---

@@ -2,6 +2,326 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-09-30-this-ai-advised-me-to-read-the-hunger-games-to-survive-this-cruel-world.md",
+      "title": "This AI advised me to read The Hunger Games to survive this ‘cruel world’",
+      "excerpt": "If you’re unimpressed by the book recommendations provided by your tasteless friends, a new AI tool called GPT-3 Books could help revive your joy of reading. The system is the brainchild of Anurag Ramdasan and Richard Reis.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/30/this-ai-advised-me-to-read-the-hunger-games-to-survive-this-cruel-world/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/30/this-ai-advised-me-to-read-the-hunger-games-to-survive-this-cruel-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Untitled-design-2020-09-30T145811.614-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/30/this-ai-advised-me-to-read-the-hunger-games-to-survive-this-cruel-world/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/30/this-ai-advised-me-to-read-the-hunger-games-to-survive-this-cruel-world/amp/",
+      "publishedDateTime": "2020-09-30T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-researchers-streamline-ptsd-diagnosis-with-machine-learning.md",
+      "title": "Researchers streamline PTSD diagnosis with machine learning",
+      "excerpt": "Post-traumatic stress disorder (PTSD) affects eight million adults in the US, including hundreds of thousands of veterans of the conflicts in Iraq and Afghanistan. And as the COVID crisis continues to take its toll on everyone's mental health,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.html",
+      "originalUrl": "https://medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/combatveteran.jpg",
+          "width": 1920,
+          "height": 1368,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-09-ptsd-diagnosis-machine.amp",
+      "publishedDateTime": "2020-09-30T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-using-machine-learning-to-tackle-some-of-the-worlds-biggest-problems-infographic.md",
+      "title": "Using machine learning to tackle some of the world’s biggest problems (Infographic)",
+      "excerpt": "A look at some of the promising applications of machine learning to benefit society from understanding climate change to finding homes for the homeless.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/30/using-machine-learning-to-tackle-some-of-the-worlds-biggest-problems-infographic/",
+      "originalUrl": "https://venturebeat.com/2020/09/30/using-machine-learning-to-tackle-some-of-the-worlds-biggest-problems-infographic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/aws_VB-feature-image-01.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/30/using-machine-learning-to-tackle-some-of-the-worlds-biggest-problems-infographic/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/30/using-machine-learning-to-tackle-some-of-the-worlds-biggest-problems-infographic/amp/",
+      "publishedDateTime": "2020-09-30T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-ai-chipmaker-hailo-accelerates-deep-learning-at-the-edge.md",
+      "title": "AI chipmaker Hailo accelerates deep learning at the edge",
+      "excerpt": "Artificial intelligence chip company Hailo Technologies Ltd. said today it’s launching two new acceleration modules that will boost the processing capabilities of edge devices that run its specialist hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2020/09/30/ai-chipmaker-hailo-accelerates-deep-learning-edge/",
+      "originalUrl": "https://siliconangle.com/2020/09/30/ai-chipmaker-hailo-accelerates-deep-learning-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/Hailo-8-chip-breakthrough-performance-for-deep-learning-applications-at-your-fingertip-800x534.jpg",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-30T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-neuromaker-stem-announces-partnership-with-vinci-robotics-academy.md",
+      "title": "NeuroMaker STEM Announces Partnership with Vinci Robotics Academy",
+      "excerpt": "NeuroMaker, the STEM education arm of Somerville based company BrainCo announces their partnership with Vinci Robotics Academy, a 501(c)(3) non-profit organization that operates STEAM educational programs in the greater Boston area.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/neuromaker-stem-announces-partnership-with-vinci-robotics-academy-1029635620",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/neuromaker-stem-announces-partnership-with-vinci-robotics-academy-1029635620",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/neuromaker-stem-announces-partnership-with-vinci-robotics-academy-1029635620",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/neuromaker-stem-announces-partnership-with-vinci-robotics-academy-1029635620",
+      "publishedDateTime": "2020-09-30T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-andor-health-collaborates-with-mentor-to-deliver-next-generation-ai-powered-virtual-experiences-with-microsoft-technology.md",
+      "title": "Andor Health Collaborates with Mentor to Deliver Next Generation, AI-Powered Virtual Experiences with Microsoft Technology",
+      "excerpt": "Andor Health and Mentor Worldwide LLC have formed a collaboration to provide the aesthetic physician community with the next-generation virtual health experiences to enhance the relationship between a surgeon and their patients.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-medical-technology-health-artificial-intelligence-computing-and-information-technology-7ebeb192b3437584eac7a740d6619523",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-medical-technology-health-artificial-intelligence-computing-and-information-technology-7ebeb192b3437584eac7a740d6619523",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-30T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-coralogix-raises-25-million-to-parse-software-logs-with-ai.md",
+      "title": "Coralogix raises $25 million to parse software logs with AI",
+      "excerpt": "Coralogix, which leverages AI and machine learning to parse software development logs, raised $25 million in venture capital financing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/30/coralogix-raises-25-million-to-parse-software-logs-with-ai/",
+      "originalUrl": "https://venturebeat.com/2020/09/30/coralogix-raises-25-million-to-parse-software-logs-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/Coralogicx.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 586,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/30/coralogix-raises-25-million-to-parse-software-logs-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/30/coralogix-raises-25-million-to-parse-software-logs-with-ai/amp/",
+      "publishedDateTime": "2020-09-30T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-how-the-trevor-project-continues-to-support-lgbtq-youth.md",
       "title": "How The Trevor Project continues to support LGBTQ youth",
       "excerpt": "This September, National Suicide Prevention Awareness Month feels different. Over the past nine months, LGBTQ youth have experienced unique challenges in relation to COVID-19.The pandemic has amplified existing mental health disparities and created new problems that have impacted the daily lives of many",
@@ -853,334 +1173,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-nvidia-and-vmware-partner-to-bring-ai-into-the-mainstream.md",
-      "title": "NVIDIA and VMWare Partner to Bring AI Into the Mainstream",
-      "excerpt": "Follow @dannyvena At its annual VMworld cloud computing conference, VMware (NYSE:VMW) today announced a partnership with NVIDIA (NASDAQ:NVDA) that has an ambitious goal: to make artificial intelligence (AI) available to every enterprise,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/09/29/nvidia-and-vmware-partner-to-bring-ai-into-the-mai/",
-      "originalUrl": "https://www.fool.com/investing/2020/09/29/nvidia-and-vmware-partner-to-bring-ai-into-the-mai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 259,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F593354%2Fnvidia-dgx-systems-the-worlds-first-portfolio-of-purpose-built-ai-supercomputers.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/09/29/nvidia-and-vmware-partner-to-bring-ai-into-the-mai/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/29/nvidia-and-vmware-partner-to-bring-ai-into-the-mai/",
-      "publishedDateTime": "2020-09-29T11:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair.md",
-      "title": "Giant Fech Firms Could Pose Dangers To Financial System Warns House Fintech Task Force Chair",
-      "excerpt": "Without mentioning Apple, Google and the like by name, House Fintech Task Force Chair Stephen Lynch warned today giant tech firms could pose dangers to the financial system. “I see to-big-to-fail fintechs in the future in a big,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/",
-      "originalUrl": "https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f737b36e2e867ffa50a6877%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D257%26cropY2%3D3071",
-          "width": 1199,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedknutson/2020/09/29/giant-fech-firms-could-pose-dangers-to-financial-system-warns-house-fintech-task-force-chair/amp/",
-      "publishedDateTime": "2020-09-29T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-robots-in-nigeria-fg-to-boost-artificial-intelligence.md",
-      "title": "Robots in Nigeria: FG to boost Artificial Intelligence",
-      "excerpt": "The federal government on Tuesday announced that it has developed initiatives for the adoption of Artificial Intelligence technology in Nigeria. The",
-      "sourceUrl": null,
-      "webUrl": "https://dailypost.ng/2020/09/29/robots-in-nigeria-fg-to-boost-artificial-intelligence/",
-      "originalUrl": "https://dailypost.ng/2020/09/29/robots-in-nigeria-fg-to-boost-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dailypost.ng/wp-content/uploads/2020/08/qSpQo4Ww.jpeg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://dailypost.ng/2020/09/29/robots-in-nigeria-fg-to-boost-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://dailypost-ng.cdn.ampproject.org/c/s/dailypost.ng/2020/09/29/robots-in-nigeria-fg-to-boost-artificial-intelligence/",
-      "publishedDateTime": "2020-09-29T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Post Nigeria",
-        "domain": "dailypost.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-how-this-company-is-boosting-ecommerce-revenue-by-using-ai.md",
-      "title": "How This Company Is Boosting Ecommerce Revenue by Using AI",
-      "excerpt": "Omri Katz says a common problem when it comes to ecommerce is converting a user into a customer. When someone visits an online store, “98% of online users will leave the online store without completing a purchase,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/video/356766",
-      "originalUrl": "https://www.entrepreneur.com/video/356766",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/356766",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356766",
-      "publishedDateTime": "2020-09-29T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-olives-ai-workforce-to-revolutionize-covid-19-testing-at-tufts-medical-center.md",
-      "title": "Olive's AI Workforce to Revolutionize COVID-19 Testing at Tufts Medical Center",
-      "excerpt": "Olive announced today that it has entered into an agreement to leverage its AI workforce technology to streamline COVID-19 testing operations at Tufts Medical Center in Boston, Mass. Olive will begin its enterprise-wide AI workforce deployment at the Medical Center by automating high-volume,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/olive-s-ai-workforce-to-revolutionize-covid-19-testing-at-tufts-medical-center-1029631076",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/olive-s-ai-workforce-to-revolutionize-covid-19-testing-at-tufts-medical-center-1029631076",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/olive-s-ai-workforce-to-revolutionize-covid-19-testing-at-tufts-medical-center-1029631076",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/olive-s-ai-workforce-to-revolutionize-covid-19-testing-at-tufts-medical-center-1029631076",
-      "publishedDateTime": "2020-09-29T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-best-facial-recognition-security-cameras-to-buy-in-2020.md",
-      "title": "Best facial recognition security cameras to buy in 2020",
-      "excerpt": "Select home security cameras have facial recognition, an option that lets you make a profile of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your list of known faces.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/best-facial-recognition-home-security-cameras-to-buy-in-2020/",
-      "originalUrl": "https://www.cnet.com/news/best-facial-recognition-home-security-cameras-to-buy-in-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-to-buy-in-2020/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-to-buy-in-2020/",
-      "publishedDateTime": "2020-09-29T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-examsofts-remote-bar-exam-sparks-privacy-and-facial-recognition-concerns.md",
-      "title": "ExamSoft’s remote bar exam sparks privacy and facial recognition concerns",
-      "excerpt": "To administer bar exams in 20 different states next week, ExamSoft is using facial recognition and collecting the biometric data of legal professionals.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/29/examsofts-remote-bar-exam-sparks-privacy-and-facial-recognition-concerns/",
-      "originalUrl": "https://venturebeat.com/2020/09/29/examsofts-remote-bar-exam-sparks-privacy-and-facial-recognition-concerns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/kiana-caton.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/29/examsofts-remote-bar-exam-sparks-privacy-and-facial-recognition-concerns/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/29/examsofts-remote-bar-exam-sparks-privacy-and-facial-recognition-concerns/amp/",
-      "publishedDateTime": "2020-09-29T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

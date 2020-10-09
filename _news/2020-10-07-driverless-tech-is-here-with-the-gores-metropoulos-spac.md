@@ -2,28 +2,30 @@
 category: news
 title: "Driverless Tech Is Here with the Gores Metropoulos SPAC"
 excerpt: "Clearly, if a driverless vehicle couldn’t perform ... Thanks to profound artificial intelligence technologies, machines can learn from the collection of real-world data, finetuning their ..."
-publishedDateTime: 2020-10-06T20:48:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/driverless-tech-here-with-gmhi-stock-1029654461"
-webUrl: "https://markets.businessinsider.com/news/stocks/driverless-tech-here-with-gmhi-stock-1029654461"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/driverless-tech-here-with-gmhi-stock-1029654461"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/driverless-tech-here-with-gmhi-stock-1029654461"
+publishedDateTime: 2020-10-06T22:10:00Z
+originalUrl: "https://investorplace.com/2020/10/driverless-tech-here-with-gmhi-stock/"
+webUrl: "https://investorplace.com/2020/10/driverless-tech-here-with-gmhi-stock/"
+ampWebUrl: "https://investorplace.com/2020/10/driverless-tech-here-with-gmhi-stock/amp/"
+cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/10/driverless-tech-here-with-gmhi-stock/amp/"
 type: article
-quality: 69
-heat: 69
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: InvestorPlace
+  domain: investorplace.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "SDfCgCJbXWMeRXUQP+qCKIwoBjVjjZgNzaR6b78CFfIp24iGRROUKZ2a0eCrFr10AXbEthwnOlvDPp703RCEiQFilunIEqoiyPYqLE4Shi7v6z+Zg6V80A7gkkYlinv3puHn5zIVLVlI4CKo8LEdAoZFWZZ+z+RKtnUEnDGvAayrVODiDf3OTRGefwDcbKMt1KRo0qbrGB4+i54kHvi0TI8E+gylOysZiZvO5Mn/A9Mr88oX6ojUux0joW0RSmRDqs7JQu4pX9F5Ac9VObR1B4buGRF6BMc+N9oki73oc8DW0umP2bxgvOchE3yUlTlHbJO5QXuX9P7WvAhV43xJky943N5Hkaen3AzkaAw5szU=;erM6HE4YNODrA8iP77+SAw=="
+images:
+  - url: "https://investorplace.com/wp-content/uploads/2020/10/autonomous-driving-self-driving-av-stocks-1600.jpg"
+    width: 1600
+    height: 900
+    isCached: true
+
+secured: "D0MzxDcygw31yHGS/75HWIgXApDqNo6aJS8fUhKMbT/MdR5cbYNCKbvEOXrV3llyuYOQdd/zJlNtN5ZwvYMkxiQs2jV1JO+WxIagR20UV+ClCK4O/ZM2RXWiSg93Ka+p8y0jK7VxMWbm+N+KaENdNUEHMVh59gurm0KbQvyzAkSXNqRmvLnBA6Th/QrozyT6Etd7mGRVZjFXegYEkAmBEZXmcYx8jmndymDdyD91OYXx+V5ggFQW26q47GWsYVErZcbGysWG374vGhooRs4lmCQHejZ+EFXqnYRqPjetxs63pLOFWLhQoU31naukgfSsGbW3UZTOauEOS7rh0FZyT4BcPE+fSa2wvop6QBsm684=;SqoqrLviPok2IQ8jtLEVQA=="
 ---
 

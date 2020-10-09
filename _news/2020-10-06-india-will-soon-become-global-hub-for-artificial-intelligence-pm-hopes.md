@@ -57,6 +57,20 @@ related:
         width: 566
         height: 400
         isCached: true
+  - title: "India to become global hub for Artificial Intelligence: PM Modi at RAISE 2020 virtual summit"
+    excerpt: "Prime Minister Narendra Modi inaugurated RAISE 2020, a Mega Virtual Summit on Artificial Intelligence (AI) on Monday."
+    publishedDateTime: 2020-10-05T17:56:00Z
+    webUrl: "https://www.indiablooms.com/news-details/N/65549/india-to-become-global-hub-for-artificial-intelligence-pm-modi-at-raise-2020-virtual-summit.html"
+    type: article
+    provider:
+      name: India Blooms
+      domain: indiablooms.com
+    quality: 43
+    images:
+      - url: "https://www.indiablooms.com/news_pic/2020/a1b08b0ac648b9feb4c8b943f64bca38.jpg"
+        width: 770
+        height: 413
+        isCached: true
 
 secured: "llQDGsz2sYv5HnFsJjfzLpg1JvEyYOVlAMS3hC1GGTPKx6xFH4JEdfxQpeoay4VMxL052sBBE8wa3kEagce43vJW9KZ2LYDmYWwNBmnyx7IYJ6gXLSDkewOVYhZYhF3rcw6bAY31r0dPk3LNc20KfcnH2WAVKrWf+9KuO6O4i1KHnhmJHNphmQhQe/zvY0r/Yiz/PJt6SVHHI3CSYe8CQPyCs+SqL9vee2YRU/PR73iyPB27T079cn8/92BzBowtXoo6wqj00Ie1K5LDHKrV/gP8qpsB16jy6wcG753Eb5kL4i/4qW7DgiLIDeV+bJn0VbnQmValG2S0ng0GRGFfGRa8Hoslhk+Fu1g/xO7RUZQ=;palghttMicr+2fyhH5CHog=="
 ---

@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-03-lattice-expands-crosslink-nx-fpga-family-of-best-in-class-low-power-fpgas-for-smart-and-embedded-vision-systems.md",
+      "title": "Lattice Expands CrossLink-NX FPGA Family of Best-in-Class Low Power FPGAs for Smart and Embedded Vision Systems",
+      "excerpt": "Lattice Semiconductor Corporation (NASDAQ: LSCC), the low power programmable leader, today announced the CrossLink™-NX-17 FPGA is now available. CrossLink-NX FPGAs deliver the best-in-class low power consumption,",
+      "sourceUrl": null,
+      "webUrl": "https://www.oaoa.com/news/business/lattice-expands-crosslink-nx-fpga-family-of-best-in-class-low-power-fpgas-for-smart/article_0727305f-420b-590d-ae6b-3415106b55ca.html",
+      "originalUrl": "https://www.oaoa.com/news/business/lattice-expands-crosslink-nx-fpga-family-of-best-in-class-low-power-fpgas-for-smart/article_0727305f-420b-590d-ae6b-3415106b55ca.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png",
+          "width": 576,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-02T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Odessa American",
+        "domain": "oaoa.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-03-anyvisions-fair-face-recognition-challenge-shows-ethnic-bias-can-be-eliminated.md",
       "title": "AnyVision's Fair Face Recognition Challenge Shows Ethnic Bias Can Be Eliminated",
       "excerpt": "AnyVision is the world's leading developer of face, body and object recognition platforms. Our solutions are built to function on any sensor, with any resolution and are proven to operate in real ...",

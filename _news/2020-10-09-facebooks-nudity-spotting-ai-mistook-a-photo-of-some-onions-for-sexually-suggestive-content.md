@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/facebook-mistakes-onions-for-sexuali
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-mistakes-onions-for-sexualised-content-2020-10?amp"
 type: article
 quality: 77
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Facebook's AI Flags Onion Photo as 'Overtly Sexual'"
+    excerpt: "A Canadian seed company that posted a photo featuring a pile of onions was notified by Facebook that 'listings may not position products or services in a sexually suggestive manner.'"
+    publishedDateTime: 2020-10-09T21:33:00Z
+    webUrl: "https://www.pcmag.com/news/facebooks-ai-flags-onion-photo-as-overtly-sexual"
+    ampWebUrl: "https://www.pcmag.com/news/facebooks-ai-flags-onion-photo-as-overtly-sexual?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/facebooks-ai-flags-onion-photo-as-overtly-sexual?amp=true"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 87
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/030jVR79RwEptik80LTAPr9-1.1602278178.fit_lim.size_1200x630.jpg"
+        width: 1121
+        height: 630
+        isCached: true
 
 secured: "JYF2NqPKqNs8JOIKuTpJHVXBM8JaBXspnQmuWYChwi0YCi2i7EoKADBnWW55nCwFEWGk2WAMFMDUO6fMuXBZeRTBtuFXvNyXeCv3VGnqiARJJKpyEff5gnY9DI0Zcqe3YntMMQQDoqoPla8/JRr1WKCa3KQ/+1zxCWrBKj9Iqb4TTZ6dtxNT3mwkWT77PG/AmsiKLJiNvNPfl0vCpR68KQySkWhp8WeyEp51oIpr+qv3jg8L0qV5B+at8dYCqWGYNAgArPFdXIishMstplfuORn7WzykKnpHTXAGdfcbUV8S+uKuIj8qSNb5bqQDjqfJ8/W6Jopw6oOyTd+Qygc/M3hwvGtFGawHgjt+qIr0/3w=;Rxx4V7FM0l6UCOyP4e3o9w=="
 ---

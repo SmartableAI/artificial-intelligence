@@ -114,6 +114,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "IBM signs first esports deal with Activision Blizzard’s Overwatch League"
+    excerpt: "IBM's Watson artificial intelligence and machine learning. The sponsorship deal kicks off at this year's 2020 Overwatch League Grand Finals, which started Oct. 8 and run through Oct. 10. The deal covers the 2020 Grand Finals and the entirety of the 2021 ..."
+    publishedDateTime: 2020-10-09T21:43:00Z
+    webUrl: "https://www.bizjournals.com/losangeles/news/2020/10/09/ibm-signs-esports-deal-activision-blizzard-overwat.html"
+    ampWebUrl: "https://www.bizjournals.com/losangeles/news/2020/10/09/ibm-signs-esports-deal-activision-blizzard-overwat.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/losangeles/news/2020/10/09/ibm-signs-esports-deal-activision-blizzard-overwat.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 23
   - title: "AI Eye Episode 450: IBM (NYSE: $IBM) Brings AI and Cloud Computing to Esports with Overwatch (NasdaqGS: $ATVI) League Deal"
     excerpt: "IBM (NYSE:IBM) and the Overwatch League, a global esports league created by Blizzard Entertainment - a division of Activision Blizzard (NasdaqGS:ATVI) - have announced a multi-year deal to bring IBM's cloud computing and artificial intelligence (AI) technology to esports."
     publishedDateTime: 2020-10-09T17:03:00Z

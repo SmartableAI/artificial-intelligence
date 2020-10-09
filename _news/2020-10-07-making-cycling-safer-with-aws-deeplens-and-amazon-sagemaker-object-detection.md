@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/making-cycling-safer
 webUrl: "https://aws.amazon.com/blogs/machine-learning/making-cycling-safer-with-aws-deeplens-and-amazon-sagemaker-object-detection/"
 type: article
 quality: 133
-heat: 173
+heat: 183
 published: true
 
 provider:
@@ -36,6 +36,17 @@ related:
     webUrl: "https://www.zdnet.com/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
     ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
     cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 101
+  - title: "Amazon announces price cuts on GPU instances in AWS Sagemaker"
+    excerpt: "Amazon Web Services is cutting the price of GPU instances on Sagemaker, its fully managed machine learning service. AWS said customers will see up to 18% in price reductions on all ml.p2 and ml.p3 ..."
+    publishedDateTime: 2020-10-07T22:22:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
     type: article
     provider:
       name: ZDNet

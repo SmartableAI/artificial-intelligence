@@ -2,6 +2,149 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-10-facebooks-ai-flags-onion-photo-as-overtly-sexual.md",
+      "title": "Facebook's AI Flags Onion Photo as 'Overtly Sexual'",
+      "excerpt": "A Canadian seed company that posted a photo featuring a pile of onions was notified by Facebook that 'listings may not position products or services in a sexually suggestive manner.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/facebooks-ai-flags-onion-photo-as-overtly-sexual",
+      "originalUrl": "https://www.pcmag.com/news/facebooks-ai-flags-onion-photo-as-overtly-sexual",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/030jVR79RwEptik80LTAPr9-1.1602278178.fit_lim.size_1200x630.jpg",
+          "width": 1121,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/facebooks-ai-flags-onion-photo-as-overtly-sexual?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/facebooks-ai-flags-onion-photo-as-overtly-sexual?amp=true",
+      "publishedDateTime": "2020-10-09T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-10-scientists-used-ai-to-create-a-hyper-detailed-3d-map-of-stars-galaxies-and-quasars.md",
+      "title": "Scientists Used AI to Create a Hyper Detailed 3D Map of Stars, Galaxies, and Quasars",
+      "excerpt": "A team of astronomers from the University of Hawaiʻi at Mānoa’s Institute for Astronomy (IfA) has produced the most comprehensive astronomical imaging catalog of stars, galaxies, and quasars ever created with help from an artificially intelligent neural network.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/scientists-used-ai-to-create-a-hyper-detailed-3d-map-of-1845326322",
+      "originalUrl": "https://gizmodo.com/scientists-used-ai-to-create-a-hyper-detailed-3d-map-of-1845326322",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/blaqcfxlva3dzvpinzgg.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/scientists-used-ai-to-create-a-hyper-detailed-3d-map-of-1845326322/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/scientists-used-ai-to-create-a-hyper-detailed-3d-map-of-1845326322/amp",
+      "publishedDateTime": "2020-10-09T13:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-10-7-ai-stocks-with-more-hype-than-bite.md",
+      "title": "7 AI Stocks With More Hype Than Bite",
+      "excerpt": "Stock Market News, Stock Advice & Trading Tips Artificial intelligence is set to be a massive trend in the coming decades. As",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/7-ai-stocks-with-more-hype-than-bite-1029666913",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/7-ai-stocks-with-more-hype-than-bite-1029666913",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/7-ai-stocks-with-more-hype-than-bite-1029666913",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/7-ai-stocks-with-more-hype-than-bite-1029666913",
+      "publishedDateTime": "2020-10-09T13:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-10-adorable-red-self-driving-robot-delivering-mail-in-japan-during-pandemic.md",
       "title": "Adorable red self-driving robot delivering mail in Japan during pandemic",
       "excerpt": "A Japan Post mail delivery robot debuts in Tokyo, and is being tested to keep human interaction to a minimum during the coronavirus crisis.",
@@ -54,6 +197,56 @@
       ]
     },
     {
+      "path": "_news/2020-10-10-this-ai-lyrics-generator-strings-your-random-words-into-songs.md",
+      "title": "This AI lyrics generator strings your random words into songs",
+      "excerpt": "And if none of that works, they could try out a new AI lyrics generator called keyword2lyrics. The system was created by Mathi Gatthi, a data scientist from Argentina, who told TNW he got the idea from his own songwriting struggles: Sometimes I have a few ideas that I want to turn into a song,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/10/09/this-ai-lyrics-generator-strings-your-random-words-into-songs/",
+      "originalUrl": "https://thenextweb.com/neural/2020/10/09/this-ai-lyrics-generator-strings-your-random-words-into-songs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-09T172112.299-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/10/09/this-ai-lyrics-generator-strings-your-random-words-into-songs/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/09/this-ai-lyrics-generator-strings-your-random-words-into-songs/amp/",
+      "publishedDateTime": "2020-10-09T11:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-10-nine-common-mistakes-businesses-make-when-using-chatbots.md",
       "title": "Nine Common Mistakes Businesses Make When Using Chatbots",
       "excerpt": "Without proper insight into how AI-powered chatbots can achieve their goals, it's unlikely that businesses will employ them adequately.",
@@ -92,6 +285,47 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-taught-by-ai-these-drones-can-perform-incredible-aerial-acrobatics.md",
+      "title": "Taught by AI, these drones can perform incredible aerial acrobatics",
+      "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/video/drones-ai-acrobatics/",
+      "originalUrl": "https://mashable.com/video/drones-ai-acrobatics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F10%252F09%252F14%252Ffb5066ec3bbf42fd9e04464cf84e4044.072ce.jpg%252F1200x630.jpg?signature=38gJR6xTZKIdNAONhPFavOs_Rtw=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/video/drones-ai-acrobatics.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/drones-ai-acrobatics.amp",
+      "publishedDateTime": "2020-10-09T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -425,57 +659,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-09-facebooks-nudity-spotting-ai-mistook-a-photo-of-some-onions-for-sexually-suggestive-content.md",
-      "title": "Facebook's nudity-spotting AI mistook a photo of some onions for 'sexually suggestive' content",
-      "excerpt": "Facebook said the onion-seed ad had been removed for breaking its rules on \"products with overtly sexual positioning.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/facebook-mistakes-onions-for-sexualised-content-2020-10",
-      "originalUrl": "https://www.businessinsider.com/facebook-mistakes-onions-for-sexualised-content-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f80352d4c3b2e0019bba0d4?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/facebook-mistakes-onions-for-sexualised-content-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-mistakes-onions-for-sexualised-content-2020-10?amp",
-      "publishedDateTime": "2020-10-09T03:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-09-should-you-invest-in-state-street-stock-ask-the-ai-engine.md",
       "title": "Should You Invest In State Street Stock? Ask The AI Engine",
       "excerpt": "The stock market has seen some volatility since the start of September, and after a larger sell-off in the Stock market – State Street Stock has moved up 11% over the last two weeks (10 trading days) to $63 now.",
@@ -662,7 +845,7 @@
       "originalUrl": "https://www.forbes.com/sites/krisholt/2020/10/09/ibm-inks-its-first-ever-esports-deal-with-the-overwatch-league/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -990,193 +1173,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-future-trends-in-robotics-should-translate-to-more-upside-for-ubot.md",
-      "title": "Future Trends in Robotics Should Translate to More Upside for “UBOT”",
-      "excerpt": "The robotics industry has proven its mettle amid the Covid-19 pandemic with machines taking the place of humans in order to stave off further infections from the virus. That said, a recent Robotics & Automation News article identified additional trends that can only further the expansion of the robotics industry--good news for ETFs like the Robotics & AI Bull 3X ETF  (NYSEArca: UBOT).",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/future-trends-in-robotics-should-translate-to-more-upside-for-ubot-2020-10-08",
-      "originalUrl": "https://www.nasdaq.com/articles/future-trends-in-robotics-should-translate-to-more-upside-for-ubot-2020-10-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/future-trends-in-robotics-should-translate-to-more-upside-for-ubot-2020-10-08?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/future-trends-in-robotics-should-translate-to-more-upside-for-ubot-2020-10-08?amp",
-      "publishedDateTime": "2020-10-08T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-enhanced-computer-vision-sensors-raise-manufacturing-stakes-for-robots-as-a-service.md",
-      "title": "Enhanced computer vision, sensors raise manufacturing stakes for robots as a service",
-      "excerpt": "Firms developing computer vision technology for standard robots, developments in 3D vision and so-called “Robots as a Service” are defining the next wave of automation.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/08/enhanced-computer-vision-sensors-raise-manufacturing-stakes-for-robots-as-a-service/",
-      "originalUrl": "https://techcrunch.com/2020/10/08/enhanced-computer-vision-sensors-raise-manufacturing-stakes-for-robots-as-a-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1220591821.jpg?w=1000",
-          "width": 1000,
-          "height": 538,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/08/enhanced-computer-vision-sensors-raise-manufacturing-stakes-for-robots-as-a-service/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/08/enhanced-computer-vision-sensors-raise-manufacturing-stakes-for-robots-as-a-service/amp/",
-      "publishedDateTime": "2020-10-08T10:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-these-ai-generated-resumes-will-make-your-job-search-even-more-painful.md",
-      "title": "These AI-generated resumes will make your job search even more painful",
-      "excerpt": "The result is Almost Real Resume, a website that spits out an endless stream of fake career highlights for tech job candidates. It gives you a new name, contact details, personal statement, work experience,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/10/08/these-ai-generated-resumes-will-make-your-job-search-even-more-painful/",
-      "originalUrl": "https://thenextweb.com/neural/2020/10/08/these-ai-generated-resumes-will-make-your-job-search-even-more-painful/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-08T162316.764-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/10/08/these-ai-generated-resumes-will-make-your-job-search-even-more-painful/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/08/these-ai-generated-resumes-will-make-your-job-search-even-more-painful/amp/",
-      "publishedDateTime": "2020-10-08T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-from-the-data-and-ai-expert-labs-start-with-outcomes.md",
-      "title": "From the Data and AI Expert Labs: Start with outcomes",
-      "excerpt": "IBM’s Data and AI Expert Labs help guide organizations on their AI journeys. Expert Labs consultants represent years of data and AI expertise and offer best practices and business strategies to meet each organization’s unique needs. In From the Data and AI Expert Labs, I’ll take the expert learnings",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/10/from-the-data-and-ai-expert-labs/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/10/from-the-data-and-ai-expert-labs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/10/2020_08_28_Blog_DataAndAIExpertLabs_Leadspace_V1.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-08T09:09:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

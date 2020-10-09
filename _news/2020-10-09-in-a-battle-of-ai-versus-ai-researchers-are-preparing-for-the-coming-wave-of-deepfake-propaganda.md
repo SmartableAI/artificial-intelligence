@@ -63,6 +63,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Creative Behavior Is Set To Harness AI For Catering To Growing Business Needs"
+    excerpt: "CHARLOTTE, NC / ACCESSWIRE / October 9, 2020 / Creative Behavior LLC is transforming the marketing approach for its clients by harnessing the power of AI into digital marketing. The technology will help their existing clientele to understand their users changing needs and preferences."
+    publishedDateTime: 2020-10-09T19:45:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-charlotte-north-america-north-carolina-artificial-intelligence-2a793da858d236dec1ffaf9342ab53d1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 34
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "sPkF4Z8JRI9HQwRqLm57lHcyFvuqL7zKsbH90Waf6w946u7Bf1ip4vA3fvN3EXPaD+b3vsFEidvnms6dnCeJAdU6IPSKNpa7lGxNdyIk/hoCQkoaTVpYDcfW0CLO99gX3hlY6ATeiypp1HGdbrkKJV3YdcmL8sBOzEiuKccUJOcPPJH1vGAeAhgbxkygSxatMntOW9QdGt3mlxDcm51ffZdtPyzXCw/QM54GsIvX1HZ/SnTr3US/EEsscKGGa2iDlMKhiC76YqmHtyxuA38ZGtJqAi6KpZ5kVfGkYPlx7gKjjZD5xtl6rjpIIP5Sxm/oiKjI+Xqozy7Nmh/SL06uS2CpEnjSFS+xd5nk9Tt/cu7llFezouXgFlsK+P6JhHPIkGgygveKc0quDpyTzivBlc4iu9wL0E9uD7pfRw3Wg9F5FOwRawR0giTfRFY1GxdeyUiYHFiSVAp0Afc0vSTJaS7m9g4nfFXaBDUXLiC4aHW2Nvno1HNl4t5BWQpkbbSPCzia37zwbC2DETcgs1q9kA==;tFGDe3Zl5VeKFxWCDfG5VA=="
 ---

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-10-7-ai-stocks-with-more-hype-than-bite.md",
+      "title": "7 AI Stocks With More Hype Than Bite",
+      "excerpt": "Stock Market News, Stock Advice & Trading Tips Artificial intelligence is set to be a massive trend in the coming decades. As",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/7-ai-stocks-with-more-hype-than-bite-1029666913",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/7-ai-stocks-with-more-hype-than-bite-1029666913",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/7-ai-stocks-with-more-hype-than-bite-1029666913",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/7-ai-stocks-with-more-hype-than-bite-1029666913",
+      "publishedDateTime": "2020-10-09T13:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-09-ibm-inks-its-first-ever-esports-deal-with-the-overwatch-league.md",
       "title": "IBM Inks Its First-Ever Esports Deal With The Overwatch League",
       "excerpt": "Blizzard will tap into IBM’s cloud, Watson AI and machine-learning knowhow to 'power interactive and analytical content.'",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.forbes.com/sites/krisholt/2020/10/09/ibm-inks-its-first-ever-esports-deal-with-the-overwatch-league/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -144,6 +187,48 @@
         "Microsoft AI",
         "AI",
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-ibm-fenergo-to-transform-new-customer-onboarding-for-financial-institutions.md",
+      "title": "IBM, Fenergo to Transform New Customer Onboarding for Financial Institutions",
+      "excerpt": "The offering is designed to incorporate artificial intelligence (AI) from IBM Watson and analytics on the IBM Cloud to help financial institutions drive efficiencies in customer onboarding through ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.troyrecord.com/news/national/ibm-fenergo-to-transform-new-customer-onboarding-for-financial-institutions/article_1ff8cadf-b470-517b-8d2d-5d23e35113b3.html",
+      "originalUrl": "https://www.troyrecord.com/news/national/ibm-fenergo-to-transform-new-customer-onboarding-for-financial-institutions/article_1ff8cadf-b470-517b-8d2d-5d23e35113b3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/troyrecord.com/content/tncms/assets/v3/editorial/c/0b/c0bf523f-6302-5997-8d2a-9688cdf3e28f/5f3a04aacb9b4.image.jpg?resize=400%2C209",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-04T21:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Troy Record",
+        "domain": "troyrecord.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     },
     {
@@ -1273,91 +1358,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-ibms-watson-is-helping-tennis-fans-argue-with-each-other.md",
-      "title": "IBM’s Watson is helping tennis fans argue with each other",
-      "excerpt": "Fans can discuss topics like the most influential players in history, and their arguments will be analyzed by IBM’s Watson technology (using the same AI tool that helped a computer take on a top ...",
-      "sourceUrl": null,
-      "webUrl": "https://localnews8.com/money/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/",
-      "originalUrl": "https://localnews8.com/money/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://localnews8.b-cdn.net/2019/11/Money-logo-new.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-01T02:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Local News 8",
-        "domain": "localnews8.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-more-businesses-are-using-ai-to-drive-user-experiences.md",
-      "title": "More Businesses Are Using AI to Drive User Experiences",
-      "excerpt": "Companies like TransUnion and Buffalo Jeans get improved sales, smarter marketing, improved IT uptime and more.",
-      "sourceUrl": null,
-      "webUrl": "https://biztechmagazine.com/article/2020/08/more-businesses-are-using-ai-drive-user-experiences",
-      "originalUrl": "https://biztechmagazine.com/article/2020/08/more-businesses-are-using-ai-drive-user-experiences",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202008/BT_Q320-Feat-Wong-AI-HERO.jpg?itok=MC6JSjke",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://biztechmagazine.com/article/2020/08/more-businesses-are-using-ai-drive-user-experiences?amp",
-      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/08/more-businesses-are-using-ai-drive-user-experiences?amp",
-      "publishedDateTime": "2020-08-31T15:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BizTech",
-        "domain": "biztechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

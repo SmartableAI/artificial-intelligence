@@ -40,6 +40,17 @@ related:
         width: 900
         height: 395
         isCached: true
+  - title: "Amazon announces price cuts on GPU instances in AWS Sagemaker"
+    excerpt: "Amazon Web Services is cutting the price of GPU instances on Sagemaker, its fully managed machine learning service. AWS said customers will see up to 18% in price reductions on all ml.p2 and ml.p3 ..."
+    publishedDateTime: 2020-10-07T22:22:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 101
   - title: "Amazon SageMaker price reductions: Up to 18% lower prices on ml.p3 and ml.p2 instances"
     excerpt: "Effective October 1st, 2020, we’re reducing the prices for ml.p3 and ml.p2 instances in Amazon SageMaker by up to 18% so you can maximize your machine learning (ML) budgets and innovate with deep learning using these accelerated compute instances. The new price reductions apply to ml.p3 and ml.p2 instances"
     publishedDateTime: 2020-10-07T16:34:18Z

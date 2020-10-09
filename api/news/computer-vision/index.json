@@ -342,7 +342,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/making-cycling-safer-with-aws-deeplens-and-amazon-sagemaker-object-detection/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 173,
+      "heat": 183,
       "tags": null,
       "images": [
         {
@@ -580,6 +580,48 @@
         "AI Ethics",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-10-03-hrw-warns-of-privacy-concerns-as-russia-expands-facial-recognition-systems.md",
+      "title": "HRW warns of privacy concerns as Russia expands facial-recognition systems",
+      "excerpt": "This article was originally published by Radio Free Europe/Radio Liberty and is reprinted with permission. Human Rights Watch (HRW) has criticized Russia's plans to expand the use of \"invasi",
+      "sourceUrl": null,
+      "webUrl": "https://americanmilitarynews.com/2020/10/hrw-warns-of-privacy-concerns-as-russia-expands-facial-recognition-systems/amp/",
+      "originalUrl": "https://americanmilitarynews.com/2020/10/hrw-warns-of-privacy-concerns-as-russia-expands-facial-recognition-systems/amp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://americanmilitarynews.com/wp-content/uploads/1024px-Soviet_Motorised_CCTV_camera_-_panoramio-1024x680.jpg",
+          "width": 1024,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://americanmilitarynews.com/2020/10/hrw-warns-of-privacy-concerns-as-russia-expands-facial-recognition-systems/amp/",
+      "cdnAmpWebUrl": "https://americanmilitarynews-com.cdn.ampproject.org/c/s/americanmilitarynews.com/2020/10/hrw-warns-of-privacy-concerns-as-russia-expands-facial-recognition-systems/amp/",
+      "publishedDateTime": "2020-10-03T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "American Military News",
+        "domain": "americanmilitarynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1386,57 +1428,6 @@
         "name": "Just Auto",
         "domain": "just-auto.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-facebook-illinois-settlement-how-to-get-a-payout-in-650-million-facial-recognition-class-action.md",
-      "title": "Facebook Illinois Settlement: How to Get a Payout in $650 Million Facial Recognition Class Action",
-      "excerpt": "When the tag feature is enabled, the social network uses face recognition technology to analyze photos and videos it believes a user is in and creates a template. The template is then used to recognize users as they appear in other photos or videos.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/facebook-illinois-face-recognition-settlement-submit-claim-payout-1533779",
-      "originalUrl": "https://www.newsweek.com/facebook-illinois-face-recognition-settlement-submit-claim-payout-1533779",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1641098/facebook-logo.jpg",
-          "width": 2500,
-          "height": 1627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/facebook-illinois-face-recognition-settlement-submit-claim-payout-1533779?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/facebook-illinois-face-recognition-settlement-submit-claim-payout-1533779?amp=1",
-      "publishedDateTime": "2020-09-23T05:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
