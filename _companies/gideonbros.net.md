@@ -2,7 +2,7 @@
 name: "Gideon Brothers"
 overview: "We are building a robot autonomy that layers deep learning on top of camera-based perception to create a new type of robot vision that is reliable and (unlike LIDAR) data-rich."
 type: "profile"
-heat: 58
+heat: 57
 
 website: https://www.gideonbros.net/
 
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=Dud1F65jkjY"
 
-secured: "Ter+ChCEZHf/0o6QNPI3vy9buuQtngAU2ZhyfCcx0sJUo9wWK/MXGlMjuZ0c5G0TvmD1tFhXzKccGC3yk19HJ7KQJQ8+ehb3AWKydcfDuOeCC8SUxb5iXEkk+rNQwICuFRAWDDJ/f0ln+h7lQA6grqlF+tcW1BCq0CJdqF2gkTYJGjgJ5/gLb8BRE4hI3/4Q0eOoG/Zd5bqlxXkfgVrVr9xoxCGPoHPp7sSySo7Vz4xQx+6mOmJuh75p8tup1ckncugV/TpINUN09XT7HUJ7QKG45a4egKPQRLq0Hh95o+4Z7u6vg6aPVcJYwa4ap0W5+NYSo6siC+EvRBv4NhnTXPWXuPfZl+RId+dFSdLRX/XbMwPNbx6ckbwFQAbk+ecNfGIenS0rai3G09Ay8VV4OQ==;IczKvX2jM2teK9t8br5f/Q=="
+secured: "VryF/K44NocSo1sgPE86G/HWS5u+bwec2bzc5/rsvX/+9oIHMBhKXtLMqQErvZz4d0/uBg6Cmm5SAZK+vme/mgoE0eQNwVEoRjvbGQ3OqjU/X/cz33whba6p236tmOgra96MkwWOYJbTwt5RtQ6/emjdyril6+Ugz8QB1pFwV9TYxFE6MU8aGSRJpcBfwqfmrMSKhkbi6GrSeJyZaXn8AoMc9ZjI8qvaR+eBb31soA7MgowNip4sNEms6LEvdMD9lOwzKeRJt4QL+jBUlSw6qrQCBIAgqg4SETF3kdgEfuQK8VnGR3DVOEuiPAP0y3yPZn2fQezr7Vwdbz0pzy6pg3qf1PHz3uxyV+H39PkFucblgJq7yI6c5Gu5o/ziFAbDmki28NSDUeQnDpSq9B+Qqg==;1EaOl5tQ/IYYU8V/ZU/YYg=="
 ---
 

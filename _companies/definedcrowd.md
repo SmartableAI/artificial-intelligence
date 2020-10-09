@@ -2,7 +2,7 @@
 name: "DefinedCrowd"
 overview: "DefinedCrowd Corporation is a company based in Seattle, WA, USA, with R&amp;D centers in Lisbon and Porto, Portugal, and Tokyo, Japan.  We offer efficient data workflows that enable data scientists to collect, synthesize, enrich and structure training data. We do this by combining human-in-the-loop, automatic tools, and machine learning capabilities to accelerate enterprise machine learning and Artificial Intelligence initiatives training and modeling. Our value proposition is 95-98% quality, speed (5-10x faster than competition) and scale (70 languages and dialects covered).  With strong expertise in speech and natural language processing technologies, the company has been serving top AI companies and Fortune 500 companies since day one."
 type: "profile"
-heat: 106
+heat: 87
 
 website: https://www.definedcrowd.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "definedcrowd"
   url: "https://www.twitter.com/definedcrowd"
-  followers: 1380
+  followers: 1381
 
 size: 51-200 employees
 yearFounded: 2015
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "1CLFlN0Lw4sVm4tGJQdtURaLFVIvIctAh29cWCm3AZu+YpW7rNaw7hMD5LLy08wXH1SAJtKan2SO5N5ZD9VOR0wMV2z8tFGyZoKQJKxzKsVt2FTX2iBKTOaOiU3IX4GrwjI/N18/c/csTbNNFcEBSahhyUO4DYmOJtAKrAjmCaoLZ0xtRu7Q2oyTy4kJ+B33JxSW97HarPjJ2vIMFsWMqVO2UShQyPTTAeq9wRn9NVoHm9IAvaYl/7RNf+ZNQ07kLTbnPiv9yA74nxyXcg/PVOlxHntN8Z/4UfhIaKJztlxwkZJURHXY0Fp78ARKdKP4ILJDti2AcH41NxAJxFmuC6ksFl/vD5QWCvoeEyGpEiov0WUXEovMg7nuPOI99EH/S/vw00fo7wL5joySN32XDL7Ouxo5oTRtC4OWKl3vUFE=;K3kuvlFkuag8BTCmdBF09g=="
+secured: "G5myfYRt++2mYb5tswcg/mWsvQUkzH+vb2CIU3W4uBwjMGWHoQ1WLhVSjCcXi7b97Y/c0/bLmq4g3MFiZrOg0wQC94S1sHdFD/fRrwynkimUnli06LQhD7ql3M/24U/b9KCkufwgew/vW/JyEyOzV5xezP9XB50rj73QvFK+sJ28SG8Oe6n7hr/UNTDf+RhtfdeKp9kaV757a0Up5BFD7iI4WbviRp5VNysnCck9doKnCy6YoP3KRuii84ARmhvVOD2tcyGmy+AzdYvV9gduTt4saWGNzyLkvMit2kC7amkyLtzHHR7Sipcy1J6EPBmdfLrP0vV+A1PytnPwinchiLwyTXoMqO21rSm0jrftgHTW5BxAInX2xOWrCA8EZq8A0W81+KNOy4iFWJev4Z3JXJHRYSIZmjRgIrT+gGLkU3o=;P7c/i71YaBxVZFBslyTOZQ=="
 ---
 
