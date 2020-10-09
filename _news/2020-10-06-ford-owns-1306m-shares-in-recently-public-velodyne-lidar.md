@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/ford-owns-13.06m-shares-in-recently-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ford-owns-13.06m-shares-in-recently-public-velodyne-lidar-2020-10-06?amp"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Nasdaq
@@ -25,6 +25,15 @@ related:
     excerpt: "Ford (NYSE:F) holds 13.06M shares in Velodyne Lidar (NASDAQ:VLDR), equating to 7.6% stake.Stake is calculated based on 172.8M common stock outstanding on Sept."
     publishedDateTime: 2020-10-05T21:13:00Z
     webUrl: "https://seekingalpha.com/news/3619947-ford-reports-7_6-stake-in-newly-public-self-driving-auto-company-velodyne-lidar"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 0
+  - title: "MicroVision LiDAR Is Worth $2 Billion According To Valuation Of Velodyne And Luminar LiDAR By Ford, Baidu, Hyundai, Volvo"
+    excerpt: "Velodyne and Luminar are currently (still) the market leaders in automotive LiDAR. Since 2016, Velodyne LiDAR has been valued at at least $1.8 billion in several financing rounds by Ford, Hyundai and Baidu,"
+    publishedDateTime: 2020-10-08T18:11:00Z
+    webUrl: "https://seekingalpha.com/article/4378207-microvision-lidar-is-worth-2-billion-according-to-valuation-of-velodyne-and-luminar-lidar"
     type: article
     provider:
       name: Seeking Alpha

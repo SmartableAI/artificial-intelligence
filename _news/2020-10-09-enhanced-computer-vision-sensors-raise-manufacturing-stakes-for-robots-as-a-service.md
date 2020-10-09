@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/10/08/enhanced-computer-vision-sensors-r
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/08/enhanced-computer-vision-sensors-raise-manufacturing-stakes-for-robots-as-a-service/amp/"
 type: article
 quality: 114
-heat: 114
+heat: 115
 published: true
 
 provider:
@@ -31,6 +31,6 @@ images:
     height: 538
     isCached: true
 
-secured: "L4PBcll0Yw4BjpJ+wpfNdrS5IkT1CWT0KPd8Yx0ou1ONv/Yz7h6Bt13w5OK86tui6E86Ao8VyRErzsXfGwSfsk+gZuGDRPdoaU4uK+NXhNi4nfitkYHE7lKhIZ+BBqUNt0ie9dDxoq9K8Ys1ERmPzLjprBIN8DvvvQsUD3jsja5wD72zImnWoRLgxo06URHTYGSuThy44anwv7MiVWkww0+/QQTgNcq3CoU9f2e2+WfQ3XWRynb+Retpr5YhlNz2WTIPdmXoaq99lFXsOcHpTJhPq5XCjEqNY1hmJVqmlbO2BrQbOhP48IOxpUCamzxIY1zhdDQPU6ZT5Cc+wDkoRQYSpNdSNP4sMFcu8dS7RA0=;IzNVVDxl7l3iTYg1zb3oIQ=="
+secured: "bFTOehQhyQvbwfI/mrbt9j0SM48tFOPUrySsmh9qnwcIIqxmpcjac/XkG2C1QyOIqgic2nRqht0bpH6/p4xIZj/VG1GMkXD48HJfYbTUExCOxT3ocMYNf2Xnmu/+0wg77zslZiUXKN2k9KvPCUL6kLB+kqdYNE/BWYrM4paOjl6aiB6N4EXM4nCWLN570vlI8z6ZLbc2GgbF8nmYfbZefPFeJa2Er71+KkXZ4E8vXEseSRinc8l2fk4lz812N4Q6WTgQR+4NXHgG9o5lpdWkyRIFedHwusl9dB2xkb+WN1evlhuw1/pbi2LZzVA/mkIp3UHeCJGrMyjwHRTqKIBUa8GEf7ntGuh1064SlPP/oX9+GiXBPAa0Gv19X3mt6c66JL6IfApL9GDqqSBKTRAfhigMNG11vvF12j0zDIee/XEYioAsjn/KnsrPkvjOV0KYvWanWbsqx2a5qbwC77OvoT9+qgsXi0fu7aKlI+Ds/EcqxqC9OTH7MHEI4ckftzYUedPPQSWlXBwHKBrbJQtdeA==;HSVDadLlIVdtSFLsh6IdVQ=="
 ---
 

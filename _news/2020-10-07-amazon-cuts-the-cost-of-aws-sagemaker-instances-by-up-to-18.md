@@ -42,9 +42,9 @@ related:
   - title: "Amazon announces price cuts on GPU instances in AWS Sagemaker"
     excerpt: "AWS also announced Wednesday that it's launching an interactive cloud training series for the first time ever on its Twitch streaming platform."
     publishedDateTime: 2020-10-07T16:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
+    webUrl: "https://www.zdnet.com/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
     type: article
     provider:
       name: ZDNet
@@ -63,6 +63,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
         width: 1260
         height: 630
+        isCached: true
+  - title: "AWS Cuts Prices for SageMaker GPU Instances"
+    excerpt: "Amazon Web Services is cutting prices on its SageMaker managed service for machine learning and deep learning as it attracts more financial services,"
+    publishedDateTime: 2020-10-07T21:41:00Z
+    webUrl: "https://www.datanami.com/2020/10/07/aws-cuts-prices-for-sagemaker-gpu-instances/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 71
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/cloud_money_shutterstock_chanpipat.jpg"
+        width: 934
+        height: 482
         isCached: true
 
 secured: "/EQRx7MXuSBTDGiFThpz3q9zWKahS+HlYvFxsw5YcMRbwSBKRLrtgIEgagkNUIJAnshky0XElcOjjKm9wJm2YhbJBnzt2FnxQvHZ02jXxlqk7R0/A0VnJVzWs68urdQYQbQsh3PxvZBI92BMS4WKq+cPn91deolNJ1cII5PegpTlYOrEOn197jKNfR0gwaZas4fLX7nhkel5v76J4rWOtcVDd+OSnntFNPaO57avTnK95QSFupBd48fChYm/NgGQs7GntaxY/BulfSlWgZ4gcK8ErAQiKb0Fg0J5bDRLHtEPcMJvSrTCxLnahinUClsybamu/hOda9Qx7K6lO3QscQzLevlEt8gd4QBhiWpgqZQuwoT/guWlzJHgCuCilskxEmbHf84x1Pg1k9cwSdiHV2bwoGeDSgdJYlqNnCm2zthHZqsAc02w7IbaeLHZ22E1ajU40NOSGqnhqx8jjYcnMqBWn3SuOE6p+7iEbTBhRD6CNg6sOeeKQtwUFBZbTFjifKlVvG3M6x2H005spBQhjA==;AKWTkDznIbfSLTtkYUoLbA=="

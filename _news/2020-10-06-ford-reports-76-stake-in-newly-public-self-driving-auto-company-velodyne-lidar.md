@@ -30,6 +30,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "MicroVision LiDAR Is Worth $2 Billion According To Valuation Of Velodyne And Luminar LiDAR By Ford, Baidu, Hyundai, Volvo"
+    excerpt: "Velodyne and Luminar are currently (still) the market leaders in automotive LiDAR. Since 2016, Velodyne LiDAR has been valued at at least $1.8 billion in several financing rounds by Ford, Hyundai and Baidu,"
+    publishedDateTime: 2020-10-08T18:11:00Z
+    webUrl: "https://seekingalpha.com/article/4378207-microvision-lidar-is-worth-2-billion-according-to-valuation-of-velodyne-and-luminar-lidar"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 0
 
 secured: "UR+2PFhKfsw8vIrAb64iiXYg6D9OXLgfdj5EuijbHuyl/V93MgV7RMutJ/KyafXOwXx7CA4kfKD5SmLgXjuZNzYelLrQxTkchXXI2cSU5NlFeW05bGKGPgxqJ27NJSn4MUE3JrJxltOtgWfhLsaDScgDU9g4guPt3loQLVel8etL5ARRl0SnM7qgOepUUd+EdSFsf4LSDpE6eB2EM4YaID1ZSLWZbttD2LeNhzczrEJIKk3Tho+35HbokJFh5QX5d6p3FA+l9gUFccERZjm/He3OQ5wRF7qNGsWvZsxQnYJgdHJD67hO2RpLhCJ4tx0hyLjua6bQVUTaTDffmNzN2YVbeo75SY2CU0dbJaMhtCg=;sasiHpjISo1Ct+U99sLarg=="
 ---

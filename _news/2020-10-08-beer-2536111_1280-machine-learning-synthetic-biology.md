@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "Deep learning takes on synthetic biology"
-    excerpt: "Machine learning is helping biologists solve hard problems, including designing effective synthetic biology tools. Two teams from the Wyss Institute and MIT have created a set of algorithms that can effectively predict the efficacy of thousands of RNA-based sensors called toehold switches,"
-    publishedDateTime: 2020-10-07T04:00:00Z
-    webUrl: "https://eurekalert.org/e/JJ2h"
+    excerpt: "Two teams of scientists from the Wyss Institute at Harvard University and the Massachusetts Institute of Technology have devised pathways around this roadblock by going beyond human brains; they developed a set of machine learning algorithms that can analyze reams of RNA-based “toehold” sequences and predict which ones will be most effective at sensing and responding to a desired target sequence."
+    publishedDateTime: 2020-10-07T09:00:00Z
+    webUrl: "https://news.harvard.edu/gazette/story/2020/10/analyzing-toehold-sequences-for-synthetic-biology/"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
+      name: Harvard Medical School
+      domain: harvard.edu
     quality: 39
     images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
+      - url: "https://news.harvard.edu/wp-content/uploads/2020/10/ribocomputing_H_2500-945x630.jpg"
+        width: 945
+        height: 630
         isCached: true
 
 secured: "/6u+YaaiexzkIK9/lUiWE6cnj4078ceknvKmCYATTl4vr5KRuRr8dwJsS/eoOsWh/v2qC9MhAMHEZHCyJcPcibrdV1KMV0nYcLpYA6z/BiXrUsH1VZgHkEBPDM800SJQuA0/jicvyCN5VOFbObPluTGuXnDR6RRhW4oe0YrcA/s9a2J5ah+HJ/KRaubU6yal+M3ngsm1Gg0Z3dqTCBAAVdqjW9ltCLvvatKszc9QiUvJu21kwtwQgVQtbosa/4Y0Uk8J3yyqdIgUgg7e1InGzaaHnB3Q/UURY6iMUtZpRZIIZkwNkHOsLjgGl5dCRnn0qsVAvCFfWBltDlykMGiPzH+qwBPTOJONDm+PF4gCd4WIGyED+d0z5RsnS3CNDscD02714VLDYyTdJlmFuIr+UO45GZHUfAGwTOjCMgNy0iEGKTYzmGfZvWA+Fzj47MLsfWx8JwP1oJnzMFfkc0NYy4TktDnJUxxiLOObngkRC52NllDvi7kI6vB/FtYwk0R8+/lJh2qz6t0bosobg6Palg==;yRj6MO1ij8tgdFqw1mS3lw=="

@@ -3,10 +3,10 @@ category: news
 title: "Amazon announces price cuts on GPU instances in AWS Sagemaker"
 excerpt: "AWS also announced Wednesday that it's launching an interactive cloud training series for the first time ever on its Twitch streaming platform."
 publishedDateTime: 2020-10-07T16:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
-webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
+originalUrl: "https://www.zdnet.com/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
+webUrl: "https://www.zdnet.com/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
 type: article
 quality: 101
 heat: -1
@@ -54,6 +54,20 @@ related:
         width: 1260
         height: 630
         isCached: true
+  - title: "AWS Cuts Prices for SageMaker GPU Instances"
+    excerpt: "Amazon Web Services is cutting prices on its SageMaker managed service for machine learning and deep learning as it attracts more financial services,"
+    publishedDateTime: 2020-10-07T21:41:00Z
+    webUrl: "https://www.datanami.com/2020/10/07/aws-cuts-prices-for-sagemaker-gpu-instances/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 71
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/cloud_money_shutterstock_chanpipat.jpg"
+        width: 934
+        height: 482
+        isCached: true
   - title: "Amazon cuts the cost of AWS SageMaker instances by up to 18%"
     excerpt: "Amazon Web Services Inc. said today it’s making its popular Amazon SageMaker artificial intelligence service ... applications that run in the AWS cloud. The service eliminates much of the ..."
     publishedDateTime: 2020-10-07T16:13:00Z
@@ -69,6 +83,6 @@ related:
         height: 628
         isCached: true
 
-secured: "owXiHGvvuL7BS+yQdSaT5NIJafjddf/mjObzMYa9dOJQh9FwTemXCiCi9zkDYqEf9rV+Mp+rKRegMw5cnH1jqKmYjb+uXLvGXAV97hu49eTVbY17u1NdueZzcS2uF4JQCuTPy+7czvZijjJ8uOiowg6ji1xroiBdFjuRAukafGM3CuxerJwuVZ2phKuW4yeLVysaO5h7Z/kp2SOafo83M4l+h+Zpdqlq/bqwsMVOfI5P7jwfTyc3Elf74jPhNAtGbWwtq/cnSAqboooBxTC4dqn99aFRnpf822sU0lVrN6I+96YD/cMcgGNfZ8fZLBC2vRXxglEeNsXzlsCY/LO7Bp6blpnNYlkpBDssLTC4z4a7VTvDPDZ/q4ArTO1gMX5wNhiF05rC531YSPfOUh3toS/ioBOeJCEr7ea5A+zAhRGk0hindJZQaqHVwfO0+4kDSEH0+yoEggB+JNWplRD1rB/k+ChX0AO6n0V+iPMd7xgiW0C7aTHw3k8bJP3rxK0Iv85m0PI69VLBNzqpAsPCwA==;TK4pUi4X8JAaqoS6S2/T0g=="
+secured: "gmznubIsP4mxqNhGnm0bGxnrsmYiF4RT2bEjwxy+m7d5b8fMf0AFVz0uPZmV8VnDBZZRRK0Tgof4/5Yl4I+/tT320DcsJYxuTqfMxB7K1Ff/AEeZlKguglmCn+EIAfbk81BdwuLYCCjSlG3Rd33GHF9oeDiIU5cbOJ1kwZ/+qbdcTRmzFc1mIIYHk8CgHi1oAPULYM9EbBCK0ZE2RYIrvfZ/Vj3NXSnzeL2pJIgRnfuvLFMqqMPSvxsjG9KPljrQPoZXCIjfqzXHITGjhZuCEBWVUTH6fCLY8CUpTqJ/Wc/tC2xtkbxd4EYEbo1U/fyImpx5sK4ljs6EO7oerGqv5yfaQ37KrKgDzrD0x9+cKs3FGADE0276d1eiog8Q7XNGge6DI6W+kIT02cMRo+bF9THFN80BjHxrHpMB5+VGjAsXzblFoam4yqKBEDUpRH4ABntt3iN9c49185n6vlPkai9sVnX2WY++9UaUw+dOsIBUMGu5zkger0wcHRiyUUn8sS2pOxAVq9c4dXctKJDvwA==;83h/lOGaiGI4Jo8qXXlC4Q=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/8/21507814/waymo-drive
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/8/21507814/waymo-driverless-cars-allow-more-customers-phoenix"
 type: article
 quality: 99
-heat: 129
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Verge
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Daily Crunch: Waymo opens up driverless ride-hailing"
+    excerpt: "Alphabet’s self-driving technology company hits a major milestone, Apple TV+ extends its free subscription period and Affirm files to go public. This is your Daily Crunch for. The big story: Waymo opens up driverless ride-hailing Waymo hit a major milestone today: It’s"
+    publishedDateTime: 2020-10-08T22:12:00Z
+    webUrl: "https://techcrunch.com/2020/10/08/daily-crunch-waymo-opens-up-driverless-ride-hailing/"
+    ampWebUrl: "https://techcrunch.com/2020/10/08/daily-crunch-waymo-opens-up-driverless-ride-hailing/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/08/daily-crunch-waymo-opens-up-driverless-ride-hailing/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 119
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2018/07/waymo.jpeg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Waymo self-driving taxi service opens up for public rides"
     excerpt: "Waymo’s driverless taxi service is opening up to the public, exiting beta in Phoenix, AZ and allowing Waymo One members to book the autonomous minivans. The Waymo Driver, as the Alphabet"
     publishedDateTime: 2020-10-08T16:15:00Z
@@ -47,35 +63,18 @@ related:
         width: 1680
         height: 1042
         isCached: true
-  - title: "A World Reimagined: 2030 is Full of Robots, Drones and Driverless Cars"
-    excerpt: "Work has been reshaped by 4IR technologies including artificial intelligence (AI), machine learning (ML), Internet of Things (IoT) and robotics all working in concert. Office workers are no longer subject to boring tasks like data entry and document ..."
-    publishedDateTime: 2020-10-08T17:29:00Z
-    webUrl: "https://www.cio.com/article/3585134/a-world-reimagined-2030-is-full-of-robots-drones-and-driverless-cars.html"
+  - title: "Waymo rolls out driverless autonomous vehicles WITHOUT a backup driver in Phoenix"
+    excerpt: "But he cautioned that 'given the secrecy about every company´s autonomous technology, people in Phoenix can only hope that the driverless cars turn out ... of clips which are processed using artificial intelligence to accurately identify people, signs ..."
+    publishedDateTime: 2020-10-08T20:00:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8820183/Waymo-removing-backup-drivers-autonomous-vehicles.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8820183/amp/Waymo-removing-backup-drivers-autonomous-vehicles.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8820183/amp/Waymo-removing-backup-drivers-autonomous-vehicles.html"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 56
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/10/istock-1156032395_post23-100861448-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "einride unveils cabinless, electric, self-driving pods and makes them available worldwide"
-    excerpt: "swedish company, einride, has launched the next generation of its groundbreaking self-driving electric pod, with new functionality and pricing, making it commercially available on"
-    publishedDateTime: 2020-10-08T15:48:00Z
-    webUrl: "https://www.designboom.com/technology/einride-pods-self-driving-trucks-10-08-2020/"
-    type: article
-    provider:
-      name: Designboom
-      domain: designboom.com
-    quality: 30
-    images:
-      - url: "https://www.designboom.com/wp-content/uploads/2020/10/einride-next-gen-pod-self-driving-truck-designboom-fb.jpg"
-        width: 1200
-        height: 628
-        isCached: true
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 49
 
-secured: "VPwDPyAZNvY8XcTCWHfy2ZwrxhBBhHZ76CleUAUBd+IDNxECm2m5hn/GOo886aIpP1FZ875cwKN8jRz/UUBlAglZzp/FcMTLTNQQzOI/tIi6dRmK3TwKg3xihmz2I7atRseZSgBKx7D5RoB4mUT8YSJ9LVR/e6BEdre9wXEa+iOA0LaU7g1LqaPViUfehd13FchmBCHZY/v8/7KqiUNOCVZLzd8rYqJ0s3UVAZeJKx31/GEloJQdoJrxp8TLV+SG0bBcEOeh3ZaslsRCC04yIZSqI9o2lczL7Y5z7Vl5pbQ6sRTeQy7M0lsggtsR2m3Mi2zOqVqm4vpD97yuOXIKKDJh8jm5O4516y6ZrsknSZ0=;o7Y/v/gnTt5hrEP5wRMwqQ=="
+secured: "gPBevjBZ78+Gl5B+XhTzx8Z8s2pPrruATjDcBGOc5cbEOubYo+LNCi2R2YG7V/yOJddlLOCGgGx3URcd2K2pJW+G20iaA2kTuh/02HKnN+3mlfUjBrHdcQM2X4wRqoFCeDZ0IJ0VDJTScSfas7Ia5EYiU7IjgPlxvGfmRrb+qGyakln5Dqejk01RSL/z99zKzdBU7OcGn3NVrkxFYRJFLMX3RWfJEhMIrHHHLhxVPKWFc6kaXY/f4sSPsZtQDgX1BcJO25EWKy4cp4QuTqezPopBcIfQeqzquwuFCxvi9CgwJy9bhQFm5JVAKOeQHGweoxXKJYopuFTWXYEn47lhwREUmW5VEtpAqx7IaI3NQP5qCOrFy8CLUWc+mrROkGHTKFOkoKFThtEKm+dZ+RWc9Ihy2fwY7+LUx+3WZIRg9F8QRC1LEdYk4bPHV4YWAwoU+vxXfegD9DfKriEtAE5XL+eaOXVACs5jYZFTmAOUUShXUdkrhOPuunx7fWyWEhB7z1UWj08EFXrIuhiGKsEo5A==;iwyhdlvVAOgnBQWwSsvH7g=="
 ---
 

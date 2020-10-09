@@ -7,7 +7,7 @@ originalUrl: "https://www.dailyexcelsior.com/responsible-artificial-intelligence
 webUrl: "https://www.dailyexcelsior.com/responsible-artificial-intelligence-for-social-empowerment/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,47 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "The Responsible Innovation Framework For The Age Of AI"
+    excerpt: "This year, with facial recognition, privacy, and ethics gaining more attention in the marketplace, technology leaders are increasingly thinking about AI’s impact on people’s lives."
+    publishedDateTime: 2020-10-08T23:36:00Z
+    webUrl: "https://www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+  - title: "How Do We Accelerate Endpoint AI Innovation? Put Developers First"
+    excerpt: "Dipti Vachani reveals how together with Microsoft, Arm is optimizing the developer experience with streamlined, scalable tools that put creativity first"
+    publishedDateTime: 2020-10-08T15:58:00Z
+    webUrl: "https://www.arm.com/blogs/blueprint/arm-microsoft-ai"
+    type: article
+    provider:
+      name: ARM architecture
+      domain: arm.com
+    quality: 39
+    images:
+      - url: "https://www.arm.com/blogs/blueprint/wp-content/uploads/2020/10/dipti_topimg.jpg"
+        width: 1940
+        height: 980
+        isCached: true
+  - title: "A framework for automation in financial services"
+    excerpt: "Global Industry Leads at Appian The financial services (FS) sector is currently experiencing one of the most challenging periods in history. The ongoing Covid-19 pandemic, fierce competition amongst fintech challengers and the encroachment of large technology platforms have made it necessary for banks and insurers to react in order"
+    publishedDateTime: 2020-10-05T10:49:00Z
+    webUrl: "https://www.globalbankingandfinance.com/a-framework-for-automation-in-financial-services/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 26
+    images:
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/10/Untitled-design-2020-10-05T155750.550.jpg"
+        width: 750
+        height: 422
+        isCached: true
 
 secured: "7qlVnK0/3G2PBY98b23ump//LsgDLV6n0s4gF4Lhufajm7hR9/qcZMxx5+vewsaPUZjyg46qzcMNN52J8d3dX8oQmJC1R9u0vhatZAIqjhAubKoZIyxXM48MOYOzN+ILllUfyaKxknF0eae61P3hz4BgOsUqvT2p+iV14oTM7889I7KH37Ea7Yvvv0ljgS3kPI4nlSN3MCiAdx6qjIPWFaEaK7CUGJg56KJQwxb9qZIWWMRPFt8dMYFwhNtmAHu38w+T8W+W53R+aAezRDp4L4i3M0NDyriw5TGWxGTwLCck0u1hHJIA6FC4oVxaELDlJ1NXLdwCDVVhVdQmpe2DOSEmHnkBp7B9OGTItnj4RNo=;vUy/kk3SgsPvq49X2GA0hw=="
 ---

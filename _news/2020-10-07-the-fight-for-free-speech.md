@@ -87,12 +87,21 @@ related:
         isCached: true
   - title: "Walter Williams: The True Test of Supporting Free Speech"
     excerpt: "The violence, looting, and mayhem that this nation has seen over the last several months has much of its roots in academia, where leftist faculty teach immature young people all manner of nonsense that contradicts commonsense and the principles of liberty."
-    publishedDateTime: 2020-10-06T14:46:00Z
-    webUrl: "https://www.cnsnews.com/commentary/walter-e-williams/walter-williams-true-test-supporting-free-speech"
+    publishedDateTime: 2020-10-06T15:21:00Z
+    webUrl: "https://www.cnsnews.com/index.php/commentary/walter-e-williams/walter-williams-true-test-supporting-free-speech"
     type: article
     provider:
       name: CNSNews.com
       domain: cnsnews.com
+    quality: 4
+  - title: "WALTER WILLIAMS: The fight for free speech (column)"
+    excerpt: "It is a tragic state of affairs when free speech and inquiry require protection at institutions of higher learning."
+    publishedDateTime: 2020-10-08T18:16:00Z
+    webUrl: "https://www.annistonstar.com/the_daily_home/free/walter-williams-the-fight-for-free-speech-column/article_6453e9d0-0992-11eb-8ff8-0b2a3e72f26b.html"
+    type: article
+    provider:
+      name: Anniston Star
+      domain: annistonstar.com
     quality: 4
 
 secured: "MLtcJPVZIqiJPU4YmTryma115Cu6tKE0GqvPePQDxwy7kWagOO7PZY+TuHLySJl68bJ34vYJaUHAiWzmli1xJNVMKUlwqsEZJIUc2dW1lay+MM1IanmwtPfK1c5KDF+lmD6onAkHsILQ4f5a/EqgjtRzh6BBmikB6Ux3vLD+5IMn3LJqyFKC+jS1jiQoLk9D2zWTI+PtMJ3t3TZnlW7kUlOyTud4FGEc6rdQ5i5Bu/2a9pWB69QOifDbFS8kaEuplJuwakfteN27+GBhiOsQZ52ZMo1WGjEkROh2GsRs/ZMLKNG6C2ztnuBeGGyF/i2qutoYLPubnt0O1tgREfk3VcpOIkWAMUvgwZ32+n9jiBxvTRySfmZ0g3ohHxynRyFQkWb0PG0xL0/5z1wyouLVrJ2eZS4jm4kw83f5cCMvk8SXtvJO3+QNC/y86OASBs+HboQUr9XbKuMTvhhQ7vlhEqJBYnQDwoch5ffzKbCOpAj5NdSWib9jstIQ+aoPwa7ruLhFDHdsgXt3ptt9P7Tl9g==;khFAT+vgfVzqZ2T4Pv3YKg=="

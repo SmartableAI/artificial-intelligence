@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "Marquis Software Deploys the Highest Level of Biometric Security by Using Aware's Knomi® for Face + Voice Authentication"
-    excerpt: "PRNewswire/ -- Aware, Inc. (NASDAQ: AWRE), a leading global provider of biometrics software products, solutions and services, today announced that"
+    excerpt: "PRNewswire/ -- Aware, Inc. (NASDAQ: AWRE), a leading global provider of biometrics software products, solutions and services, today announced that Marquis Software is leveraging Aware's"
     publishedDateTime: 2020-10-06T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/marquis-software-deploys-the-highest-level-of-biometric-security-by-using-awares-knomi-for-face--voice-authentication-301146607.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/marquis-software-deploys-the-highest-level-of-biometric-security-by-using-awares-knomi-for-face/article_b2f07913-d238-5d5c-8784-2efb2285e4e8.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 0
     images:
-      - url: "https://mma.prnewswire.com/media/1283061/Aware_Logo.jpg?p=facebook"
-        width: 1060
-        height: 555
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/67/a6718b10-331c-5d20-b28b-40e4526893ab/5f7c721f2c356.image.jpg?resize=400%2C311"
+        width: 400
+        height: 311
         isCached: true
 
 secured: "7ch/zklhFvDUaWYN0wZunBk9rCgUQzXfJxTYtQaZFlPJjRcq7kPcVRk5ESYuW94jv+PIAZXPgyFWPm2M5JWtyDqd5VG7qZ4Xxq/PmXvJS22V5/oRP3TAWf1NgGkOwmN0uR7eLCYKOrlyonYAs2FDcDB7BIOyADKZJV/yB5sAHWzBkNh5bRzCJZmTuMx5VfSTupY3gzbxhXQK+DWYpSFX6PSS5TqvkVIGnZFEFuPjRB7wCidf64freRtrmLtXQxZAIechnNwLBmBO6H4DhYFylczk/GwxrhcaQJnw1M+wZGKTHA57RHFeaAyN7rtMQh8nIfr5ec7jpa3u75paUIwGtfYDivXu70ziefjwEuIEQ+dr2tKe8WY9REzTrYFv3u1E4oUNj+dmBsZneUB0hRQ8ZxoLV+YS2jzpCCAI1gDoWaY8vOtEZX+w0ASd+dO63lLqYW+rWiUotR3ahbNEjwEkWVjuz5oxi9EYy3OFukbndRxRT83g07LURPT1Hykcrrk6VLlCP923m3+cAU2T5cYobQ==;XKCCxrXI145VKLhg6BAr1Q=="

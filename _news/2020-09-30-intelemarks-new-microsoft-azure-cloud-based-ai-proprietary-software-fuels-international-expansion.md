@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Intelemark's New Microsoft Azure Cloud-Based AI Proprietary Software Fuels International Expansion"
-excerpt: "Intelemark, a national leader in the lead generation/appointment setting industry for more than 20 years, is pleased to announce the successful implementation of our"
+excerpt: "Intelemark, a national leader in the lead generation/appointment setting industry for more than 20 years, is pleased to announce the successful implementation of our third generation cloud-based proprietary software."
 publishedDateTime: 2020-09-30T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/intelemarks-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion/article_d763ca0c-5282-5ff7-81a8-f5688877c416.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/intelemarks-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion/article_d763ca0c-5282-5ff7-81a8-f5688877c416.html"
+originalUrl: "https://www.finanzen.net/nachricht/aktien/intelemark-s-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion-9346878"
+webUrl: "https://www.finanzen.net/nachricht/aktien/intelemark-s-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion-9346878"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Finanzen
+  domain: finanzen.net
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+    width: 600
+    height: 315
     isCached: true
 
-secured: "t4EW0q2JX9Oazt7VssFc0dVVI7TzSLkXOslFp8FJ0dUl++vqJ6S54y2Ji5OvwvZypSSA5QzDyeNRh7zeZOoTYqvBRTmpzX+g06SrO0A4UeS66bVShCT0RupQbnuBjn3hU/H+hh5cjD/c75XkPa9wWKIHGmEuA7tNNGDQVz/WkbN6VdPuVyI0UPjzwF3wSg+LiHTEeni2Cb5IKr8kNA/Y+VJKLA8UE2/aAEjSqqnthtHBVXFY105crtcZn29+ekRrcCavVJm4yube8hiMZjCbDj5HyH5GDm02ZOYAxHcjXd5+2s/P9Lpj3x2XmYdmcpqb39C1MgYslK+kN8yIe6b/DC80VC+9Dqo8wyXc7NnA2Aw=;uSN9c9Z2L+IgQmNDGPkbjw=="
+secured: "amrw4ofSkQ16ECKtStYGZkaOkkpo1NLlXZ6ZwXzfKaBUGZlqWq1A5/TcAwLUba6UU39jNwPh2vUjSa5zgSEqHO3P73PFAEl+mOhB5Wl0xlZaJc6oi3DI2MoH6Ujw7rI6CExZE7LZKNl2TV9ikFq5w6SZvazuVhVau8ljf4yjyC7JLH2oWN29clYIE6uu+oh9cHn9BBgINShkElMmZOmfm/GR8AoFeoW106UilN3vvTvYpWTJvL4qiRjytqLwDfT/N7/UrnaTTXU+vulRcl5l6nn7IAbBkx8vBJHfmN7BlFzx5GDx5KOW3D8x5mVVLVbXXymSR8kiMBI6+NPcVm56woUl5jT0Ev6wAPFIu9uoXlY=;kkfZMJUVVN6VCXpsd1891g=="
 ---
 

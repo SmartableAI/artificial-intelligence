@@ -97,6 +97,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Artificial intelligence is for the birds"
+    excerpt: "Department of Computer Science and Engineering professor Shawn Newsam and Electrical Engineering and Computer Science graduate student Shrishail “Shree” Baligar are using artificial intelligence (AI) to detect bird calls in the recordings."
+    publishedDateTime: 2020-10-08T00:00:00Z
+    webUrl: "https://www.universityofcalifornia.edu/news/artificial-intelligence-birds"
+    type: article
+    provider:
+      name: University of California
+      domain: universityofcalifornia.edu
+    quality: 37
+    images:
+      - url: "https://www.universityofcalifornia.edu/sites/default/files/uc-merced-ai-birds.jpg"
+        width: 686
+        height: 355
+        isCached: true
 
 secured: "29B2qXlF99do+UXNazshGmKYw/SUnxAYLzro6HOmivtXW7MUOqMRrzSJSNxHq/zGrXjiCWncF327PU6beLeWzWDuYVxwBEze2qg7LsfKLHWakqdydmdv3z01taFPXTbHL+QjInVaivnwmFyOvbHrz7QpwWNlBugF1ma+d8b2o2JlswuZq96jf6GNw2P6XwMCNLyjOKFhbDOMXJx9+NJy7HV9SWYKPu/rw6A8O4vgq6az2yZLreYEbOKFQ+UxuSLN8SlHhkOUjyD1q24Tu0spEDj4SMkkKgokMTOwpxiouBiL7f2P58KOQBOsjlYRjupAF3Z+rIA0sm2xe/5l7Mcv6MS1OMK6yhcfAF4ISltzt4TSUiQNlf+tGqpzH7+RI+dDTENORpq82lSvCTmu4iV7J3Sv43A0GN7olsPgK/aLUoe8lAvJtYYs9wkULJzsjQ2cXDAwPoxAfV8xCR2hMDqYoeuvXoWSp38YDgiRTM8UcTA9mWaYNd9bTyGCzCMokpp4cyaN7RNxhQocUC+9ZtFEyA==;UagnLvny0WeNh2yt4Ohm5A=="
 ---

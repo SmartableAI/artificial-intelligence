@@ -59,6 +59,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Impact of Artificial Intelligence on Surgery"
+    excerpt: "AI-enabled remote surgery can help overcome the global shortage of doctors, and it can improve training, raise standards, and drive innovation within the medical profession."
+    publishedDateTime: 2020-10-09T00:28:00Z
+    webUrl: "https://www.forbes.com/sites/calumchace/2020/10/08/the-impact-of-ai-on-surgery/"
+    ampWebUrl: "https://www.forbes.com/sites/calumchace/2020/10/08/the-impact-of-ai-on-surgery/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2020/10/08/the-impact-of-ai-on-surgery/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
   - title: "Understanding the importance of NoCode Machine learning tools and what the best ones in market?"
     excerpt: "A no-code machine learning platforms can help company employees develop applications without the knowledge of coding. E.g. Create AI, Obviously AI, Teachable Machine, Accelrite Shareinsights, Google C"
     publishedDateTime: 2020-10-05T08:07:00Z

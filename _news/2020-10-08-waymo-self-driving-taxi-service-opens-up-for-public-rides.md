@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Daily Crunch: Waymo opens up driverless ride-hailing"
+    excerpt: "Alphabet’s self-driving technology company hits a major milestone, Apple TV+ extends its free subscription period and Affirm files to go public. This is your Daily Crunch for. The big story: Waymo opens up driverless ride-hailing Waymo hit a major milestone today: It’s"
+    publishedDateTime: 2020-10-08T22:12:00Z
+    webUrl: "https://techcrunch.com/2020/10/08/daily-crunch-waymo-opens-up-driverless-ride-hailing/"
+    ampWebUrl: "https://techcrunch.com/2020/10/08/daily-crunch-waymo-opens-up-driverless-ride-hailing/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/08/daily-crunch-waymo-opens-up-driverless-ride-hailing/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 119
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2018/07/waymo.jpeg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Waymo will allow more people to ride in its fully driverless vehicles in Phoenix"
     excerpt: "Waymo, the self-driving unit of Alphabet, announced it will be opening up its fully driverless vehicles to all customers of its ride-hailing service in Phoenix, Arizona. Previously, the company only allowed a select few people."
     publishedDateTime: 2020-10-08T17:00:00Z
@@ -47,35 +63,18 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "A World Reimagined: 2030 is Full of Robots, Drones and Driverless Cars"
-    excerpt: "Work has been reshaped by 4IR technologies including artificial intelligence (AI), machine learning (ML), Internet of Things (IoT) and robotics all working in concert. Office workers are no longer subject to boring tasks like data entry and document ..."
-    publishedDateTime: 2020-10-08T17:29:00Z
-    webUrl: "https://www.cio.com/article/3585134/a-world-reimagined-2030-is-full-of-robots-drones-and-driverless-cars.html"
+  - title: "Waymo rolls out driverless autonomous vehicles WITHOUT a backup driver in Phoenix"
+    excerpt: "But he cautioned that 'given the secrecy about every company´s autonomous technology, people in Phoenix can only hope that the driverless cars turn out ... of clips which are processed using artificial intelligence to accurately identify people, signs ..."
+    publishedDateTime: 2020-10-08T20:00:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8820183/Waymo-removing-backup-drivers-autonomous-vehicles.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8820183/amp/Waymo-removing-backup-drivers-autonomous-vehicles.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8820183/amp/Waymo-removing-backup-drivers-autonomous-vehicles.html"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 56
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/10/istock-1156032395_post23-100861448-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "einride unveils cabinless, electric, self-driving pods and makes them available worldwide"
-    excerpt: "swedish company, einride, has launched the next generation of its groundbreaking self-driving electric pod, with new functionality and pricing, making it commercially available on"
-    publishedDateTime: 2020-10-08T15:48:00Z
-    webUrl: "https://www.designboom.com/technology/einride-pods-self-driving-trucks-10-08-2020/"
-    type: article
-    provider:
-      name: Designboom
-      domain: designboom.com
-    quality: 30
-    images:
-      - url: "https://www.designboom.com/wp-content/uploads/2020/10/einride-next-gen-pod-self-driving-truck-designboom-fb.jpg"
-        width: 1200
-        height: 628
-        isCached: true
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 49
 
-secured: "IZp3OjW5lxY7JwiSlD2P3J6aPIN9ZjMw15SfIs/b4V7mE2sx26oHPlqrERSsNq507HQxlAsWFo7NYAvvJ3myhwQ9iRnjLYfenAzMutWHKcysSlLNoYI3NwGEe8kUkRMH+1bdQ2F0WMyrAPTGJgzHifeoMANb+FFY6JOrabXTpusM/nxazQMQeehMyfHHvDNgpEqHEPeU6yKhGju3uA4jKrLORbD1G7vacKMT2bQn2V9eGhGSIUO7HsOUz/7Z0k0aRYwKZH1kQ836R8Q7inbGvUM9rHKgdJZFXG5JLEKhNqX1keibC6lGWtH/BzdXlxaLijMyN+qUfg85MXJ31CC9s/JSBmoAxeSaBKnOksjxrIM=;3dXlJqCFPKYLKX42hheDAA=="
+secured: "c0TBHZlSiqWGiAhKngx2jXzwuz5JqWkKKzh180XMoYqgSGNKlKA2PZAAUqjKZMk/I2eu4dfEatNNNOOiA8LXfUT4R2s3G5szpeTp1yLh+aahbul4jVpK4ab/AOIw3P1pElZsa48NA8ZuIv2LDRYJykuU8J/knITC9LREfW+SNq7y1qVbI2Qe/M1vWjPZAk0ti6xp3Pi07zzJ127M9oosBEIbhJBF26+U0bB2pFbUgI7rAWd+omzNXli929M6BUs3liBFsaYmq2LTtIcVc0WzCus47Zioyp++GVLRW+H7Czkq+0SvL9WeuahDSkKcAZ43riIJFTqeTMwGOpYC1y2q5y+Yegr6VFwDr0kWKfCsyfH+kRcTVJ3pc3R0QFatVV1UeKt5/5U4wfTR3Pr8HcXBdl97gau/ynf+fGXIEdJDL9tz8ZCJV1jMT5e9F9Vsg1uKFGRJ6M7hYLiRKnpTVNIQxgHBV+UjyoRaG6pgq+rt5Wu+KLnsSP8Q0a3eXg5tzIF7SF2hcRG/cODvq+UGGKY0Vw==;OIZ6BkPYa2UnWcMDAq8tiw=="
 ---
 

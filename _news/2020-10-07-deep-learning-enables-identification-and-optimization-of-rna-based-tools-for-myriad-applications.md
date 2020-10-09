@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 380
         isCached: true
-  - title: "Edge computing, artificial intelligence power automation innovation"
-    excerpt: "Learning Objectives Industrial edge computing and artificial intelligence (AI) contribute to automation innovation and effectiveness. Aut"
-    publishedDateTime: 2020-10-04T05:03:00Z
-    webUrl: "https://www.controleng.com/articles/edge-computing-artificial-intelligence-power-automation-innovation/"
-    type: article
-    provider:
-      name: Control Engineering
-      domain: controleng.com
-    quality: 39
-    images:
-      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2020/10/CTLx-StoneShi-Slider.jpg"
-        width: 645
-        height: 350
-        isCached: true
   - title: "Welcome Initiative on Artificial Intelligence"
     excerpt: "The first step is to enact robust data protection It is welcome that India is hosting a global summit on artificial intelligence (AI) and that the Prime Minister has addressed the gathering and expressed"
     publishedDateTime: 2020-10-06T17:26:00Z

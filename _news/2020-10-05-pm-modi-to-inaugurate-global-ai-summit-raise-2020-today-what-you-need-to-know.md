@@ -52,22 +52,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "PM Narendra Modi to inaugurate artificial intelligence ‘RAISE’ summit on Oct 5"
-    excerpt: "Prime Minister Narendra Modi will inaugurate RAISE 2020, a mega virtual summit on Artificial Intelligence (AI) on October 5."
-    publishedDateTime: 2020-10-04T08:45:00Z
-    webUrl: "https://www.newsx.com/national/pm-narendra-modi-to-inaugurate-artificial-intelligence-raise-summit-on-oct-5.html"
-    ampWebUrl: "https://www.newsx.com/amp/national/pm-narendra-modi-to-inaugurate-artificial-intelligence-raise-summit-on-oct-5.html"
-    cdnAmpWebUrl: "https://www-newsx-com.cdn.ampproject.org/c/s/www.newsx.com/amp/national/pm-narendra-modi-to-inaugurate-artificial-intelligence-raise-summit-on-oct-5.html"
-    type: article
-    provider:
-      name: NewsX
-      domain: newsx.com
-    quality: 70
-    images:
-      - url: "https://www.newsx.com/wp-content/uploads/2020/09/modif-703091-C05kaKE3.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "In AI Push, PM Modi To Virtually Inaugurate Artificial Intelligence Summit 'RAISE 2020'"
     excerpt: "PM Modi will be inaugurating a global virtual summit on Artificial Intelligence named ‘RAISE 2020’ on October 5, which is being organised by the ministry of IT"
     publishedDateTime: 2020-10-05T03:28:00Z
@@ -125,20 +109,15 @@ related:
         width: 770
         height: 413
         isCached: true
-  - title: "PM Modi to inaugurate mega virtual summit on Artificial Intelligence on Oct 5"
-    excerpt: "Prime Minister Narendra Modi will inaugurate RAISE 2020, a mega virtual summit on Artificial Intelligence (AI) on October 5."
-    publishedDateTime: 2020-10-04T01:31:00Z
-    webUrl: "https://www.sify.com/news/pm-modi-to-inaugurate-mega-virtual-summit-on-artificial-intelligence-on-oct-5-news-national-ukdraegjddejb.html"
+  - title: "POLITICO AI Summit: An AI-Powered World"
+    excerpt: "The POLITICO AI Summit will bring together policymakers, federal officials, technologists, private-sector executives, scientists and advocates to explore the future of artificial intelligence."
+    publishedDateTime: 2020-10-08T22:14:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-ai-summit-an-ai-powered-world"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 36
-    images:
-      - url: "https://aniportalimages.s3.amazonaws.com/media/details/ModiJISpeech2_oct3_Uu5UuhT.jpg"
-        width: 600
-        height: 450
-        isCached: true
+      name: Politico
+      domain: politico.com
+    quality: 19
 
 secured: "Knu8YyBiOaGv01NvlKrccyxlvZHdkHQbDjQ7526GYMss93MSZApM3XqdV2eVauJdmiQ2MWs7/lrd3ReN5MtQuLu3RrY8eJeuyqwwNp9j2qyFG5lEtrf/veKEMqiaQLikKPqtzQP72bGvxCHooLbpQbQCTBsymHOtZC4lhmuxA/Rr7dN6a9kZqi237IN7keF6plTtC6AjFoGQk8q1kJAobx8ztESupqxXWxcmDD+eIYX1YWTm/WpmbKMbe+e/rblBOcVHjiYvc/ATv5TWszNZ5RJqAUJFbjHKBNr3jPI9ymQHsCToMYc24wzrLCSWRxEGXyzahxChjKoVKjZlAwMsl1V8hD/YS4QiGho7g4faDss=;tRdLceTlCbjRz7ivrMTzBw=="
 ---

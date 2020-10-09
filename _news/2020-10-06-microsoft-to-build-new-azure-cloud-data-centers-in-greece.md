@@ -47,6 +47,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 73
+  - title: "Microsoft, chip maker Arm to boost AI innovation for IoT devices"
+    excerpt: "New Delhi, Oct 9 (IANS) SoftBank-owned UK chip maker Arm has partnered with Microsoft to create Azure-based tools to enable developers transfer data from Arm-based Internet of Things (IoT) devices to Azure Cloud."
+    publishedDateTime: 2020-10-09T04:54:00Z
+    webUrl: "https://newsd.in/microsoft-chip-maker-arm-to-boost-ai-innovation-for-iot-devices/"
+    ampWebUrl: "https://newsd.in/microsoft-chip-maker-arm-to-boost-ai-innovation-for-iot-devices/amp/"
+    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/microsoft-chip-maker-arm-to-boost-ai-innovation-for-iot-devices/amp/"
+    type: article
+    provider:
+      name: Newsd
+      domain: newsd.in
+    quality: 71
   - title: "Webinar: Transforming Business Models with System Soft Technologies and Microsoft Azure"
     excerpt: "(GLOBE NEWSWIRE) -- System Soft Technologies (SSTech), a leader in enterprise IT services, solutions and products, today announced the company is making available its recent webinar about how organizations are using Microsoft Azure Cloud Services to enhance their business operations and spur growth during these uncertain economic times."
     publishedDateTime: 2020-10-07T16:00:00Z

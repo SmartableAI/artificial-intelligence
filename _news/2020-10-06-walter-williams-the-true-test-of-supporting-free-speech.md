@@ -2,9 +2,9 @@
 category: news
 title: "Walter Williams: The True Test of Supporting Free Speech"
 excerpt: "The violence, looting, and mayhem that this nation has seen over the last several months has much of its roots in academia, where leftist faculty teach immature young people all manner of nonsense that contradicts commonsense and the principles of liberty."
-publishedDateTime: 2020-10-06T14:46:00Z
-originalUrl: "https://www.cnsnews.com/commentary/walter-e-williams/walter-williams-true-test-supporting-free-speech"
-webUrl: "https://www.cnsnews.com/commentary/walter-e-williams/walter-williams-true-test-supporting-free-speech"
+publishedDateTime: 2020-10-06T15:21:00Z
+originalUrl: "https://www.cnsnews.com/index.php/commentary/walter-e-williams/walter-williams-true-test-supporting-free-speech"
+webUrl: "https://www.cnsnews.com/index.php/commentary/walter-e-williams/walter-williams-true-test-supporting-free-speech"
 type: article
 quality: 4
 heat: -1
@@ -93,7 +93,16 @@ related:
         width: 340
         height: 246
         isCached: true
+  - title: "WALTER WILLIAMS: The fight for free speech (column)"
+    excerpt: "It is a tragic state of affairs when free speech and inquiry require protection at institutions of higher learning."
+    publishedDateTime: 2020-10-08T18:16:00Z
+    webUrl: "https://www.annistonstar.com/the_daily_home/free/walter-williams-the-fight-for-free-speech-column/article_6453e9d0-0992-11eb-8ff8-0b2a3e72f26b.html"
+    type: article
+    provider:
+      name: Anniston Star
+      domain: annistonstar.com
+    quality: 4
 
-secured: "Es3U071sLAjLRMQTMwyxK0iCyp5cTh5KG0ag6iPFC7ZNQL5wsTdD1jjTctePe0egSU01pZ+lA/xwDN1t5L1n2g63NueZvy1jqvP7zfivbeWGMufd+F1Awyym9smh1ZPlJWRiRYCabXd7HyldJYbhYme9l2FbUkNwP0z2l+iCVV9g9BGEANkWHB/HI/jpo3konRNoLvAjbrtHqXR+HiTWjRqEjPyNCJRYGHltrq2XIXHuNgnUerbABIvApZIbq3h+GXBB6EuMaMfFj3l8LRLNcbr90HQcHXsIa6VHbexbOIsEVEvV4G/h7CFeI2J6HMh4ojRDCdGLkDqXru2xHo0KwVQ3E4Vzhfoa1ZLt3lAQyJSki7pVP8Qx3pGLeJxMhCfx2FEY0ZsiYLDR+xbhzNKj0hB/5kAqPgZpvZXkS8QxMBAbdUu3tUq4MMtfU5jKsqCQ1q+RjLUGsyZ8wH0OqFnZZGFYZ75zdbwiu4x2osYfAEvbdq2SGmRrVib9aJBhw/qp8JOmddjOPUF1K0DyGLzQ+w==;DfW5tPO7nVnmbLuABo1BPA=="
+secured: "vohdJbga1qV5GlwBiQfeFhEPQdmjtTugANYVoM9T0Qqrzd9eQmsVJBpn5lvTLuvfTxWoB/xo++GJUstews0fWqGmDg5reCxTeEViSEWiei3b7COj2hetyN0CkdzpiTDYUUe43xESa+aGJ8VkUa8ChZ4asVlyPrsb5HvNxtQHMau2xjoJHHOdcxpoSH+sgkdQhJtx2L3/NWsB0bOZK8E/eFIHmQj9bCZFwIEL6tCuDw3rogmzAJmsyOMh1X1Wq0IQ1URsQZ4Qs6fiL5xjhAkK4ZmRLIeppzXWn5RFVx8OPFMhhnuiUeApnlGTB0AEpCUOofeUHfaPxRkLvzre79Zc+8qxAgkSd0vHA9MRONbBr5/AcGNyAL4QWBSx1kjg2LqQSM6FNy3W74BxF2rwbsS9W/tx7E7zeb1zij0kEZ+pBkwuQ/uX5FwWjEXRt9Dh9TbRLY/5fNL5wJOC5sv7BMXscBz4ALkM2rAto1woPMFBYdkHODVHkLRN/HIDcMOD2Pw5rK2AKz004YnByZD32SHe2w==;kW97OLQCFKGfWUtKzYMmQQ=="
 ---
 

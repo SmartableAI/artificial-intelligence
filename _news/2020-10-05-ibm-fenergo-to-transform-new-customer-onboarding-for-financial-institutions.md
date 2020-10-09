@@ -2,27 +2,27 @@
 category: news
 title: "IBM, Fenergo to Transform New Customer Onboarding for Financial Institutions"
 excerpt: "The offering is designed to incorporate artificial intelligence (AI) from IBM Watson and analytics on the IBM Cloud to help financial institutions drive efficiencies in customer onboarding through ..."
-publishedDateTime: 2020-10-05T04:09:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-fenergo-to-transform-new-customer-onboarding-for-financial-institutions-1029646585"
-webUrl: "https://markets.businessinsider.com/news/stocks/ibm-fenergo-to-transform-new-customer-onboarding-for-financial-institutions-1029646585"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-fenergo-to-transform-new-customer-onboarding-for-financial-institutions-1029646585"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-fenergo-to-transform-new-customer-onboarding-for-financial-institutions-1029646585"
+publishedDateTime: 2020-10-05T04:50:00Z
+originalUrl: "https://www.troyrecord.com/news/national/ibm-fenergo-to-transform-new-customer-onboarding-for-financial-institutions/article_1ff8cadf-b470-517b-8d2d-5d23e35113b3.html"
+webUrl: "https://www.troyrecord.com/news/national/ibm-fenergo-to-transform-new-customer-onboarding-for-financial-institutions/article_1ff8cadf-b470-517b-8d2d-5d23e35113b3.html"
 type: article
-quality: 51
-heat: 61
+quality: 21
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Troy Record
+  domain: troyrecord.com
 
 topics:
   - IBM AI
   - AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/troyrecord.com/content/tncms/assets/v3/editorial/c/0b/c0bf523f-6302-5997-8d2a-9688cdf3e28f/5f3a04aacb9b4.image.jpg?resize=400%2C209"
+    width: 400
+    height: 209
+    isCached: true
 
 related:
   - title: "IBM and Fenergo join forces to speed customer onboarding"
@@ -40,6 +40,6 @@ related:
         height: 270
         isCached: true
 
-secured: "WyKuDvwR7QyQz71c/+1evIns2PEzCHp7lhEQWs+UABOSLnFtGYMBk1qnIBK0UpEsRlTsZnF+X2FlAzQG1ypFE3+G8Zc+UuriIsvqr/f8gS8lO5Ef/B+UF3+S75b/5g6w/enF+sB6y42D70wj7Kba2AvTHvbu5I3x1uFhdIQgf4YfIqF4tLhfrU5jSfNvQ6e9N3TB0IHsV401Dc99ZUSHoZ7yXYc+kzPX8awGjumwVBh4Ph3oZEhozWkioggCTycLRukVfR9uuLHuDRbn8pzh/XllLfIPaz4zJte6oHWHCMFZffdmvSeTrlSHR9XXyZ5u1kmpckfn2JYa1LHbEiJdp33oJIfLeSNH8J9QZOzGrBE=;urVF+USYkAiKndV9wAsrIw=="
+secured: "IhRdLGjS7IdDIhUrWAaH0UnBjW+3kXaC5qx5k/H2DMjfAGLONlbXHMhBT2NDDYhshADlvJFnvD7oEpk54ZUfCIdsWMgW7d+uAsscQrQrvrrnQ52x2b7VYGu73NPZwk+4KnpqLIIBW+A3GvnrBnhFHL6kU+xkpk6ENu/gxbOK0tAd5pkh3dN+7h6cmGrWFiDkg/6OVzjC4Qr+uwIC4DAaTQ0HV0vreTWCLGRpd9UDt9UHI3USeDy+6eF8J/u1kTyRYRfWBWt4hXDQHRMz+8MaH2P+aYyOyv4HgQt3u+jR7llyu1mqn1/YrXNMWyID4sVKlvpRZ/FZ7rdifDxVTFM+CMDdXpDzIDyRsu3S0XXgaRc=;eveXODUPjmnZZFOBYPV0tw=="
 ---
 

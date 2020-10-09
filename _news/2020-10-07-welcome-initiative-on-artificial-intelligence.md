@@ -54,20 +54,6 @@ related:
         width: 2880
         height: 1920
         isCached: true
-  - title: "Edge computing, artificial intelligence power automation innovation"
-    excerpt: "Learning Objectives Industrial edge computing and artificial intelligence (AI) contribute to automation innovation and effectiveness. Aut"
-    publishedDateTime: 2020-10-04T05:03:00Z
-    webUrl: "https://www.controleng.com/articles/edge-computing-artificial-intelligence-power-automation-innovation/"
-    type: article
-    provider:
-      name: Control Engineering
-      domain: controleng.com
-    quality: 39
-    images:
-      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2020/10/CTLx-StoneShi-Slider.jpg"
-        width: 645
-        height: 350
-        isCached: true
 
 secured: "tYVVJC6aRtVI6dV2ThR5N+40pK86CEbQaFSDjmqp5cJXNjuKOlZeVb9uHWEnHLZa1OfYwejGnkCCDxMc4v4qLCdVyOFGUv18ef3vAhuKVPoALMQMc3XOhXxxrTW/mkzScQiWhkVsBsL8/LBDsXVaXClUfHDEhHAtiS5jBjc62xddZ+t6GJXnglu+6e3jYYAP6HCxKB5BTotVyo8c9pOabt2xE3Vs1zESUBxIX82LLqYqa6AqDz9aGGLG4O/UNKoJT6maXRjz8ZDznsyXGXWUnt04alprzsekNtf2Yhk6T5U07kquzYV2P9eoS3GZEkarUeDK4BscNjCcUM4BYpqccwWltTpy1qWlkbGK1V2cXKw=;NIBUjZShQMho4FGFK2d6jA=="
 ---

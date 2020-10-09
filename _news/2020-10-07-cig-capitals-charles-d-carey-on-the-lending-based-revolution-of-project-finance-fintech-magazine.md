@@ -1,29 +1,45 @@
 ---
 category: news
 title: "CIG Capital's Charles D. Carey on the lending-based revolution of project finance || FinTech Magazine"
-excerpt: "However, in our lead story, Charles D. Carey, serial entrepreneur and Managing Partner of CIG Capital, reminds us that investment is about more than just money and describes why funding desperately needs to modernise."
-publishedDateTime: 2020-10-07T11:46:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/cig-capital-s-charles-d-carey-on-the-lending-based-revolution-of-project-finance-fintech-magazine-1029656466"
-webUrl: "https://markets.businessinsider.com/news/stocks/cig-capital-s-charles-d-carey-on-the-lending-based-revolution-of-project-finance-fintech-magazine-1029656466"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/cig-capital-s-charles-d-carey-on-the-lending-based-revolution-of-project-finance-fintech-magazine-1029656466"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cig-capital-s-charles-d-carey-on-the-lending-based-revolution-of-project-finance-fintech-magazine-1029656466"
+excerpt: "The financial services landscape is changing rapidly, and, in these turbulent times, investment companies can be inclined to focus solely"
+publishedDateTime: 2020-10-07T11:30:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/cig-capitals-charles-d-carey-on-the-lending-based-revolution-of-project-finance--fintech-magazine-301146927.html"
+webUrl: "https://www.prnewswire.com/news-releases/cig-capitals-charles-d-carey-on-the-lending-based-revolution-of-project-finance--fintech-magazine-301146927.html"
 type: article
-quality: 54
-heat: 54
+quality: 24
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "Fo8f1rlC45lgqTjouHPlq8UTtyQG11iwT7TzcEqut7kDgAmfi2xB+Bjq8VRWjRgEVBXidWw7plBOlmVohqHlSZ+WeLuDSnvX0WdohiqdzNGyhjPbsOVP0Yo+iZw8/YCqTkObpic6aVSpX8+A6l9Ux0SgF2z7x9FxV1S/1RRKbYIIVUyrzkiwKHR33XFaBOcLy41IiWKkOO9GgaPcUzZ/GmJKurLXbT6a5xtGrh0PE+VUtE6KqyknDxVVnRkpGs9hGGvUMR6kfgntrTRItwaTFwHu9Xk5S035ciSQldLNRq908KFxB21i1SAeV3j0N6ZBWXgAN7DAb/e5geXmuCrC+7OgBcrWxorx82/DVPpb/ek=;aSBPTQPaXMqo25Ik17Agcg=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
+
+related:
+  - title: "Outcome-based investments and other fintech to watch"
+    excerpt: "For example, technologies such as IoT, cloud computing and DLT could help verify impact investments by creating and trading digital tokens linked to approved companies. Impact investing refers to investment in companies that have a direct and measurable effect on society and the environment."
+    publishedDateTime: 2020-10-05T20:25:00Z
+    webUrl: "https://www.advisor.ca/my-practice/technology/outcome-based-investments-and-other-fintech-to-watch/"
+    type: article
+    provider:
+      name: Advisor
+      domain: advisor.ca
+    quality: 24
+    images:
+      - url: "https://www.advisor.ca/wp-content/uploads/sites/5/2020/04/iStock-1091264044.jpg"
+        width: 800
+        height: 600
+        isCached: true
+
+secured: "ZVpVtUZBFuZvoVqTft/iAVR74pACzOmi2Hpbq4VbPszL487HejMgOx/gOSr4qAvL+ck5Vh9cgyLDYIivIP+MzMV0hmnWROic2H/4+DFOy7BTFz3w/DpOXtZ99/CmaS5eAtMTBKhveVZCo3KzaUxG0/OKIuwbnUgg4hJAlLVc+gBorPQzbT4ohOyUAA8a/a2vlrfXAs6edXcKsrq/u942Gnbl64H2BIKIkzEgYyb/LheS3/hn/v0Hwxpfz6LX/L5yssynuMLd/Fx77Mepp15dWROCrT5ZWDiX1t/grnLuhM4gbL/tZ1eheWSn15PApq6KDXl8BiPzi/uwLlNnS1uZAG5Q3IhRrT8ASJSrImZ8L4w=;lSnl78MhcWdGHLjwTFHxpQ=="
 ---
 

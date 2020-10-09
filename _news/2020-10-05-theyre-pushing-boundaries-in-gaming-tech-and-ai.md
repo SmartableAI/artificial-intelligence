@@ -24,30 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Universities and Colleges offering B.Tech. Artificial Intelligence and Machine Learning course in India"
-    excerpt: "List of all universities and colleges in India offering B.Tech. Artificial Intelligence and Machine Learning course. To find universities/colleges in a particular state use the drop down box below."
-    publishedDateTime: 2020-10-04T03:42:00Z
-    webUrl: "https://www.prokerala.com/education/colleges-offering-b-tech-artificial-intelligence-and-machine-learning.html"
-    ampWebUrl: "https://www.prokerala.com/education/colleges-offering-b-tech-artificial-intelligence-and-machine-learning.html?amp=1"
-    cdnAmpWebUrl: "https://www-prokerala-com.cdn.ampproject.org/c/s/www.prokerala.com/education/colleges-offering-b-tech-artificial-intelligence-and-machine-learning.html?amp=1"
+  - title: "AI IN BANKING: How forward-looking banks are using maturing AI solutions to design both customer- and employee-facing innovations"
+    excerpt: "This report identifies AI use cases transforming the way FIs operate, the business impact of those use cases, and real-world examples of each."
+    publishedDateTime: 2020-10-06T18:48:00Z
+    webUrl: "https://www.businessinsider.com/ai-in-banking-report-2020"
     type: article
     provider:
-      name: Prokerala
-      domain: prokerala.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 38
-  - title: "In Message To China, India And Japan Seal Agreements For Cooperation In 5G Tech And Artificial Intelligence"
-    excerpt: "India and Japan have reached the consensus on an ambitious agreement of cooperation in 5G technology, artificial intelligence and several other crucial fields. The agreement on various crucial subjects holds significance as it comes when both the countries are dealing with Chinese hostilities at various fronts."
-    publishedDateTime: 2020-10-08T09:44:00Z
-    webUrl: "https://swarajyamag.com/insta/in-message-to-china-india-and-japan-seal-agreements-for-cooperation-in-5g-tech-and-artificial-intelligence"
-    type: article
-    provider:
-      name: Swarajya
-      domain: swarajyamag.com
-    quality: 19
     images:
-      - url: "https://images.assettype.com/swarajya%2F2020-10%2Fcec0603f-33cc-451f-88a6-5b9e32cc4ffc%2FEjtEIa5U8AEBRo6.jpeg?w=1200&auto=format%2Ccompress&ogImage=true"
+      - url: "https://i.insider.com/5e616b4dfee23d6e9e10f232?width=1200&format=jpeg"
         width: 1200
-        height: 652
+        height: 600
         isCached: true
 
 secured: "kVpFFlf1ALwCf9DPYSRiLTRzZiQcjCbX3XlskS9/nQn4xtH/7a1y0qPz0b3ZVcTMCyFrFhJf1ExO4PVY5rGg8hoocOUSG8H/tK3tqEHYicVVkeQBxPbkK5aHy+Ij0emmerPc7isosTf9oSLfYhQc2/PnJ3LK2dmuXyQMzfekvy/fhQCwXBNhYGMIWcltliihSfNmgxwAMYN0nIY/EwqvcX5PBif0hHiHBrlC9KmFrgVKH65UPoYE3zy1Z4M6bBACa1/gbFU4kAA1bYt9t51cLUbI7rE15jfWjTliL+5GrBfRbMMNExDVM+1Fn3oUgbE0/sjKCyedumROprir0VCfsxLB26FD1sBCzKa2Tdl7LOE=;zBm1P5UDcaPJF9P2xKNbJA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/07/how-ai-is-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/07/how-ai-is-transforming-the-future-of-sales/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -99,6 +99,20 @@ related:
       - url: "https://images.idgesg.net/images/article/2019/05/ai-vendor-relationship-management_artificial-intelligence_hand-on-virtual-screen-100795246-large.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Artificial intelligence is for the birds"
+    excerpt: "Department of Computer Science and Engineering professor Shawn Newsam and Electrical Engineering and Computer Science graduate student Shrishail “Shree” Baligar are using artificial intelligence (AI) to detect bird calls in the recordings."
+    publishedDateTime: 2020-10-08T00:00:00Z
+    webUrl: "https://www.universityofcalifornia.edu/news/artificial-intelligence-birds"
+    type: article
+    provider:
+      name: University of California
+      domain: universityofcalifornia.edu
+    quality: 37
+    images:
+      - url: "https://www.universityofcalifornia.edu/sites/default/files/uc-merced-ai-birds.jpg"
+        width: 686
+        height: 355
         isCached: true
 
 secured: "5g3wIWoZzgd6IK5cFncZohtzicJJHZn33CHzrYH27m0m+YCLEgdtLvP5lR1jANTAHzYFkEGmKUGzqwcVhhT8j80jPMJYi76IH7ZBc4UbYxlpDJdcunKimCIJKhAdlRzF9I3TK4elRY9U74w8VoDpEn0fnnt+AFuQdPJHAg8f1k3vp2X7K1J3dMeDKFJ9biGxy4f8tWR02O2gWJdFDkxXWaRmF4HZFiB+546On/IvCYAHhBasvTfElH5P06fcmPZxWa30lgnNf38E2vU+A7BM+AdqSSpPpDHTRetLAVeVu/gim0UEVqR2RQrPH+/c71ASDDX6yUFm0t8C6f+ecp9oT6qgvRhfs2tY1JnIg5lYGPu9LC0C9U8CbVi7sNSp+3ncNAIDMJOefszMBC+WkJa9KcKgAdjHpzlMlXxQr+5MAnjvPwxTXuGXuObpopNYsekn4YUsgcvAfa6UPV5jG03bDwLc6O8+2C1XrG767mM3lvqDOlz9YBpNsA76UduOhb72CW5c9d95cU0+0cmIvtKwRQ==;ipP6jjr6oiO0SaaNoSDDww=="

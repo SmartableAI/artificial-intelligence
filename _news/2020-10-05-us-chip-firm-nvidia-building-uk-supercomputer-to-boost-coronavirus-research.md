@@ -43,15 +43,6 @@ related:
         width: 708
         height: 398
         isCached: true
-  - title: "AMAX Accelerates Next-Gen AI Computing With NVIDIA A100 GPUs"
-    excerpt: "AMAX's HPC and AI Solutions Group announced its series of next-generation NVIDIA A100 powered server systems that bring AI training, inference, and analytics"
-    publishedDateTime: 2020-10-05T14:34:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amax-accelerates-next-gen-ai-computing-with-nvidia-a100-gpus/article_c0d84a86-fb18-50b0-814c-e0e9d172523d.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 34
 
 secured: "d3aYwLIRQIXuMWcETAUnmx6wKHmLMuVUx6dRXjSsIJWqa7KvdtOQFY+0TWWeglTSTOqrpj9mVk21cqNJcM8iljUwVQt6nQNWPVUBKuU2NOlRSOApBIEKnnG/kFWa6Yx8TRmLVACNq92sNm9HCbBtV1VqOHhm7uAzgmIKSe8HGmG6LpYq3POh3UHLP8nFMorr6j5eIdZda38fyib2G19x/IkYy0evs/FMIpLcNGD7zt5ze1te647h+30FTRAUw4lEHKeuW8jwxeJYAWs+g2+c+MhRb+Cc5MSuXhyHXt6UAX32UbcOGzuZpRsmdGDX+xKxZY7kOqo+l1e5/m97rGaLhu0/su/yQqPJPz5bYUJPpas=;6IaOfhsO5ySvpQ5E6ivoAw=="
 ---
