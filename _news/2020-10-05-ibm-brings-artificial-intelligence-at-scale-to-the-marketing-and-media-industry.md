@@ -2,27 +2,27 @@
 category: news
 title: "IBM Brings Artificial Intelligence At Scale To The Marketing And Media Industry"
 excerpt: "Our work will be a step forward in our evolution to meet the advertising industry's upheaval, and we are proud to help the advertising industry advance with the value of AI.\" The IBM Watson ..."
-publishedDateTime: 2020-10-05T12:28:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-301145605.html"
-webUrl: "https://www.prnewswire.com/news-releases/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-301145605.html"
+publishedDateTime: 2020-10-05T12:32:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-1029648095"
+webUrl: "https://markets.businessinsider.com/news/stocks/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-1029648095"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-1029648095"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-1029648095"
 type: article
-quality: 35
-heat: -1
-published: false
+quality: 65
+heat: 85
+published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-    width: 2698
-    height: 1414
-    isCached: true
 
 related:
   - title: "How IBM Is Using AI At Scale To Benefit The Media Industry"
@@ -46,6 +46,6 @@ related:
       domain: advanced-television.com
     quality: 19
 
-secured: "bIdJIHAZCe+ivez09dNzdH5y/uAtgQRZs+rOWtzr8bHprzJQ6KCx4axQwbNJk/sTRgbKC6zB5P1EzpwZtLjppe5LcnmOUj7YODIWyc8FC4t1lnlphfEDOSLJN8S2nYpe9sOj3XRtaFgJjuXvJ33v7vaRX12oOk0H63gOvvFv4Dn7Owx6sQHCtdPQdl+FEA36iVgN5/ulf248A2/6K9HAJb95Uk3VcFkz69gyPQsmDESTJ4pN626e/SUq8tPTZyLqoYDt4PfSKURTB/Jgw+mXOqImYSRpVPXNENTsyKbZUdDpCzhn8W8zXjpA3kohYxn9WGdqqfvtXSvLVmRm5AbmejNEMin5jk+lJu6iWuu9jKw=;0asMuVuHbYm4vBC+L2iWUg=="
+secured: "GUL6vnOmZAAzef/dLygZ20wvW7jMivvVv/7h3uYwj0ZT37DkjBRXT3JRRx5CnQ/asDlkzmIl+MloeIAigThfENpH4PN4G/MHydqCPFrEpZmOSOqa76bCRiYZEJBLpipdmRtspqLb8WGg8hE0tjMPS1CadCGDAhj6gc72nSuPoEM3rzeKUW+pQmyBR8J5WTNZWUmZdmqXGS7g6pHN5D5yIGczbg2SbziHIkwQPwV/7vqRjYLHBmor/l51rg3RiZwS3vpkffM587i4tGUrBmq88ru+Dy8M2/OYEq9O2ZHDbFWjZ6KM6UzTF32ppYr8lSY8KKL6GXxqHkZCp5D5ndmbEOdpyKaIjr9+Q4mHRs+KZxo=;zIeioT/E4FLYyxg7dEYVrg=="
 ---
 

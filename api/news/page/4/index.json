@@ -2,6 +2,107 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-06-tipalti-raises-150-million-to-automate-payment-workflows-with-ai.md",
+      "title": "Tipalti raises $150 million to automate payment workflows with AI",
+      "excerpt": "Payments automation company Tipalti has raised $150 million at a $2 billion valuation to further expand its global workforce.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/06/tipalti-raises-150-million-to-automate-payment-workflows-with-ai/",
+      "originalUrl": "https://venturebeat.com/2020/10/06/tipalti-raises-150-million-to-automate-payment-workflows-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/04/rendered.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/06/tipalti-raises-150-million-to-automate-payment-workflows-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/06/tipalti-raises-150-million-to-automate-payment-workflows-with-ai/amp/",
+      "publishedDateTime": "2020-10-06T05:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-xbox-series-xs-machine-learning-auto-hdr-renders-stunning-results.md",
+      "title": "Xbox Series X’s machine-learning auto-HDR renders stunning results",
+      "excerpt": "Xbox Series X and S can apply this effect to games that launched before television HDR was even invented. I’ve tested auto-HDR in a number of backward compatible games on a preview version of the Xbox Series X hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/06/xbox-series-xs-machine-learning-auto-hdr-renders-stunning-results/",
+      "originalUrl": "https://venturebeat.com/2020/10/06/xbox-series-xs-machine-learning-auto-hdr-renders-stunning-results/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/Yakuza-HDR.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/06/xbox-series-xs-machine-learning-auto-hdr-renders-stunning-results/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/06/xbox-series-xs-machine-learning-auto-hdr-renders-stunning-results/amp/",
+      "publishedDateTime": "2020-10-06T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-this-ai-startup-helps-hospitals-navigate-operational-troubles-of-covid-19-and-beyond.md",
       "title": "This AI Startup Helps Hospitals Navigate Operational Troubles Of Covid-19 And Beyond",
       "excerpt": "M Health Fairview, one of the largest health systems in Minnesota, got an urgent message from one of its vendors: Mountain View, California-based artificial intelligence startup Qventus. The 13-hospital system had contracted the company to help streamline its operations,",
@@ -1006,6 +1107,48 @@
       ]
     },
     {
+      "path": "_news/2020-10-05-ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry.md",
+      "title": "IBM Brings Artificial Intelligence At Scale To The Marketing And Media Industry",
+      "excerpt": "Our work will be a step forward in our evolution to meet the advertising industry's upheaval, and we are proud to help the advertising industry advance with the value of AI.\" The IBM Watson ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-1029648095",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-1029648095",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-1029648095",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-1029648095",
+      "publishedDateTime": "2020-10-05T05:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-combining-ai-and-nanotechnology-to-create-robot-assisted-molecular-manipulation.md",
       "title": "Combining AI and Nanotechnology to Create Robot-Assisted Molecular Manipulation",
       "excerpt": "A team of scientists from Forschungszentrum Jülich and TU Berlin is working on a project to create an autonomous artificial intelligence system with the ability to pick up and move individual molecules.",
@@ -1014,7 +1157,7 @@
       "originalUrl": "https://www.azonano.com/article.aspx?ArticleID=5561",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -1045,150 +1188,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-gitai-aims-to-bring-autonomous-robot-workers-to-space.md",
-      "title": "GITAI Aims to Bring Autonomous Robot Workers to Space",
-      "excerpt": "Since its start, GITAI has focused its efforts on various robots ... since with the current technology level of AI, what a robot can do autonomously is very limited. However, in an environment where the latency becomes noticeable, it would become more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20740/GITAI-Aims-to-Bring-Autonomous-Robot-Workers-to-Space.aspx",
-      "originalUrl": "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20740/GITAI-Aims-to-Bring-Autonomous-Robot-Workers-to-Space.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.engineering.com/portals/0/BlogFiles/60_ima1.png",
-          "width": 640,
-          "height": 358,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.engineering.com/amp/20740.html",
-      "cdnAmpWebUrl": "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20740.html",
-      "publishedDateTime": "2020-10-05T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engineering",
-        "domain": "engineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-the-importance-of-human-machine-ai-team-building.md",
-      "title": "The Importance Of Human-Machine AI Team-Building",
-      "excerpt": "In the future, teams of human domain experts and their AI-bot sidekicks could make sure critical assets in the fuel retail industry are safe, always available, performing at their optimal state and protected from cybersecurity threats.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/05/the-importance-of-human-machine-ai-team-building/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/05/the-importance-of-human-machine-ai-team-building/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda4c699cb83e0006e372f4%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/05/the-importance-of-human-machine-ai-team-building/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/05/the-importance-of-human-machine-ai-team-building/amp/",
-      "publishedDateTime": "2020-10-05T04:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-deliver-ai-powered-application-search-with-azure-cognitive-search-and-ba-insight.md",
-      "title": "Deliver AI-powered application search with Azure Cognitive Search and BA Insight",
-      "excerpt": "Data is growing exponentially, and over 80 percent of data is unstructured, creating a challenge for organizations to find and surface the right information to their customers. What organizations need is a solution that enables them to uncover latent insights from all their content by quickly identifying",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/deliver-ai-powered-application-search-with-azure-cognitive-search-and-ba-insight/",
-      "originalUrl": "https://azure.microsoft.com/blog/deliver-ai-powered-application-search-with-azure-cognitive-search-and-ba-insight/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/3825d129-7b61-4af7-9e9e-6ea06c242b9c.png",
-          "width": 1024,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-05T01:30:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

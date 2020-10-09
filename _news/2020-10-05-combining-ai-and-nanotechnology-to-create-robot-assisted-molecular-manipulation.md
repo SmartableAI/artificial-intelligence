@@ -9,7 +9,7 @@ ampWebUrl: "https://www.azonano.com/amp/article.aspx?ArticleID=5561"
 cdnAmpWebUrl: "https://www-azonano-com.cdn.ampproject.org/c/s/www.azonano.com/amp/article.aspx?ArticleID=5561"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/5-umdresearche.jpg"
         width: 668
         height: 1008
+        isCached: true
+  - title: "Biology: UMD scientists use artificial intelligence language tools to decode molecular movements"
+    excerpt: "University of Maryland researchers used an artificial intelligence system to create an abstract language from the constant motion of biological molecules, such as the lysozyme molecule shown here. This"
+    publishedDateTime: 2020-10-09T10:21:00Z
+    webUrl: "https://www.tunisiesoir.com/science/biology-umd-researchers-use-artificial-intelligence-language-tools-to-decode-molecular-movements-24743-2020/"
+    ampWebUrl: "https://www.tunisiesoir.com/science/biology-umd-researchers-use-artificial-intelligence-language-tools-to-decode-molecular-movements-24743-2020/?amp"
+    cdnAmpWebUrl: "https://www-tunisiesoir-com.cdn.ampproject.org/c/s/www.tunisiesoir.com/science/biology-umd-researchers-use-artificial-intelligence-language-tools-to-decode-molecular-movements-24743-2020/?amp"
+    type: article
+    provider:
+      name: Tunisie Soir
+      domain: tunisiesoir.com
+    quality: 46
+    images:
+      - url: "https://www.tunisiesoir.com/wp-content/uploads/2020/10/Biology-UMD-researchers-use-artificial-intelligence-language-tools-to-decode.jpg"
+        width: 707
+        height: 723
         isCached: true
 
 secured: "RH0X9EpGViVfFh7LQmxU21auehit5x3pxz977DzlcMDqsoiPtcCANB5Z2grpPaOuyuOYBPtfCmrXSx2H8bTgHNZdysRAIRR58bv8fWywEQG9MAR0Cunb7OeeDYM5eBjObk3LQsBvPaF83B4rs2GWt66KRuLrOggDn54YzXU8jgNsgualKmIcYh98mtFyrzSR669vyW9qDkoC4s6JthH2nvGH2u7jI4s9B4skOA/5VOF8E+OBNqh5x3IOXkW2b6NC131lhpDIYnUv76d+bWv7lUhwDkwAnHtFrbAWZ8CytS+nerIYS5E0PUqGnPMpHue7HUmtTf0Ql1ulJ7OpQ8WAAPxNACdPCxlnp5ByT2kJxx8=;v50bKgU5Fmq/R3K3Hxu37A=="

@@ -37,7 +37,7 @@ related:
     provider:
       name: MyBroadband
       domain: mybroadband.co.za
-    quality: 74
+    quality: 76
     images:
       - url: "https://businesstech.co.za/news/wp-content/uploads/2020/10/Sage-1-1024x507.jpg"
         width: 1024

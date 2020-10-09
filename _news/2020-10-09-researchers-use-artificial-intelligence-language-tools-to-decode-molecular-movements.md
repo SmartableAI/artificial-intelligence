@@ -42,7 +42,23 @@ related:
         width: 950
         height: 551
         isCached: true
+  - title: "Biology: UMD scientists use artificial intelligence language tools to decode molecular movements"
+    excerpt: "University of Maryland researchers used an artificial intelligence system to create an abstract language from the constant motion of biological molecules, such as the lysozyme molecule shown here. This"
+    publishedDateTime: 2020-10-09T10:21:00Z
+    webUrl: "https://www.tunisiesoir.com/science/biology-umd-researchers-use-artificial-intelligence-language-tools-to-decode-molecular-movements-24743-2020/"
+    ampWebUrl: "https://www.tunisiesoir.com/science/biology-umd-researchers-use-artificial-intelligence-language-tools-to-decode-molecular-movements-24743-2020/?amp"
+    cdnAmpWebUrl: "https://www-tunisiesoir-com.cdn.ampproject.org/c/s/www.tunisiesoir.com/science/biology-umd-researchers-use-artificial-intelligence-language-tools-to-decode-molecular-movements-24743-2020/?amp"
+    type: article
+    provider:
+      name: Tunisie Soir
+      domain: tunisiesoir.com
+    quality: 46
+    images:
+      - url: "https://www.tunisiesoir.com/wp-content/uploads/2020/10/Biology-UMD-researchers-use-artificial-intelligence-language-tools-to-decode.jpg"
+        width: 707
+        height: 723
+        isCached: true
 
-secured: "MnqjgOyO27PmsHa+jIdsCGfVASEp3+A/+Y0IgyDo1xZ/hzlp8k8ClAMBggCliY62c1CVPkw8RwW5koq5mwbC/+DRfQ3tdvCp/HjZITZb532NDwln5i1txOVP62jhgtp99M4emejGeL/G7z1vO+m8kgq+Mvw+L5dptfB9W/O7JB7/ha5QOkWIEc5fIVymDiA0+XC0L8fa+N+HO/wxjmq/FqbxqxAIImEGR/sfwumRi143u+dWmyvhaaZv7KfJbtLJs/lYRXLtguOFU8AQ+gNGLr7yF98hyU9C5vT/Urvt0ODeiYQcEtLzTdymiTxxZs/AKd6B4RGYX0eUtB32jN9FZyC0wDtzr/4cPsElsJv40EA=;R4J5U2Q8rLuUwRZW+F1cgg=="
+secured: "H+nJkO12iBvIWXToEkOxbOjMQ8cHGE4rj5/0PdD62quz10twsJup6YVBjgty07aOFkNiwpBZSggBr/djqm9l6WHfRNivu9eUxUmTKwodd1qVDaJZjjRhmTZGWBuX9O18XyYHpmV9BVL/OLsRkrqJMaERx/H11vBiQwNXZVRTZHsIwIFNO/YVfCU+RqKKVwTgRojYSnvez9H4HTzHVGQ8h4zNdvMvfeLKDbwFFsois7AN/EW3GWGAe7uWwgUvPPBc6OFDtdYcxYC9P68fGcrMJid/4lDHV+2kL+JEVnHHPdCeLRB8o7iYKnqxhpUdy1DipzT3IJGhZlCQZjvXxWeNPKgCGHURyMUtReVEV3GCgL7Uu2yhl5JkJbkw5rHdgelf58ic6R04yQ5trO0gJfsIJpLDywW4T0ZKQ+0Lb6EItkdG4vdFkXNlwc0WbXJ5pPy+2hDUd/Kq9IYXaTrnO6IO+WquJHnImPHGXhDaTUY1U6kVxh4tw5wtJDM0E1C6SG+mHb3z9pDGdalsypaV/bhYGg==;GExI8qOaZ2fn9n9924BnUw=="
 ---
 

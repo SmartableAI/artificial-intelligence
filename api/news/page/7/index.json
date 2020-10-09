@@ -2,6 +2,149 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-10-01-dascena-presents-poster-highlighting-machine-learning-algorithm-for-earlier-detection-of-acs-at-hfsa-virtual-annual-scientific-meeting.md",
+      "title": "Dascena Presents Poster Highlighting Machine Learning Algorithm for Earlier Detection of ACS at HFSA Virtual Annual Scientific Meeting",
+      "excerpt": "Dascena, Inc., a machine learning diagnostic algorithm company that is targeting early disease intervention to improve patient care outcomes, today announced that a poster highlighting the ability of a Dascena machine learning algorithm to provide earlier identification of acute coronary syndrome (ACS) is being presented during the Heart Failure Society of American (HFSA) Virtual Annual Scientific Meeting 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-18da0831a4f14a069d5ddcde145cd914",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-18da0831a4f14a069d5ddcde145cd914",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-01T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-ibm-open-sources-ai-for-optimizing-satellite-communications-and-predicting-space-debris-trajectories.md",
+      "title": "IBM open-sources AI for optimizing satellite communications and predicting space debris trajectories",
+      "excerpt": "IBM has open-sourced projects designed to help optimize small satellite communications and predict the trajectories of space junk.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/01/ibm-open-sources-ai-for-optimizing-satellite-communications-and-predicting-space-debris-trajectories/",
+      "originalUrl": "https://venturebeat.com/2020/10/01/ibm-open-sources-ai-for-optimizing-satellite-communications-and-predicting-space-debris-trajectories/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/nano-satellites-kineis-e1580987091588.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/01/ibm-open-sources-ai-for-optimizing-satellite-communications-and-predicting-space-debris-trajectories/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/01/ibm-open-sources-ai-for-optimizing-satellite-communications-and-predicting-space-debris-trajectories/amp/",
+      "publishedDateTime": "2020-10-01T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-combining-machine-learning-tools-for-medical-imaging-with-genetic-sequencing-nets-sophia-genetics-110m.md",
+      "title": "Combining machine learning tools for medical imaging with genetic sequencing nets Sophia Genetics $110M",
+      "excerpt": "SOPHiA GENETICS, the shoutily and poorly capitalized-named startup that’s combining machine learning tools for medical imaging and genetic sequencing to come up with a more holistic view of diseases for better patient care,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/01/combining-machine-learning-tools-for-medical-imaging-with-genetic-sequencing-nets-sophia-genetics-110m/",
+      "originalUrl": "https://techcrunch.com/2020/10/01/combining-machine-learning-tools-for-medical-imaging-with-genetic-sequencing-nets-sophia-genetics-110m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/08/GettyImages-552163301-mri.jpg?w=1024",
+          "width": 1024,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/01/combining-machine-learning-tools-for-medical-imaging-with-genetic-sequencing-nets-sophia-genetics-110m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/01/combining-machine-learning-tools-for-medical-imaging-with-genetic-sequencing-nets-sophia-genetics-110m/amp/",
+      "publishedDateTime": "2020-10-01T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-01-google-photos-gets-smarter-ai-powered-editor.md",
       "title": "Google Photos gets smarter, AI-powered editor",
       "excerpt": "Google rolled out a new version of the photo editor in the Google Photos app on Android. It uses machine learning to give you suggestions on how to fix a photo, which you can apply with one tap. Google says more suggestions are coming to Pixel devices in the coming months,",
@@ -1041,149 +1184,6 @@
         "IBM AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-baidu-fundraising-puts-3bn-value-on-smart-device-business.md",
-      "title": "Baidu fundraising puts $3bn value on smart device business",
-      "excerpt": "HONG KONG -- Chinese web search leader Baidu has brought in outside investors for its voice assistant and smart device business, setting the stage for a potential spinoff while valuing the ...",
-      "sourceUrl": null,
-      "webUrl": "https://asia.nikkei.com/Business/China-tech/Baidu-fundraising-puts-3bn-value-on-smart-device-business",
-      "originalUrl": "https://asia.nikkei.com/Business/China-tech/Baidu-fundraising-puts-3bn-value-on-smart-device-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F0%252F8%252F9%252F2%252F29672980-3-eng-GB%252FCropped-1601453378RTX7JFB8.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NIKKEI",
-        "domain": "nikkei.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-these-robots-use-ai-to-learn-how-to-clean-your-house.md",
-      "title": "These Robots Use AI to Learn How to Clean Your House",
-      "excerpt": "At Toyota, researchers are experimenting with prototypes that swoop from the ceiling to take care of chores with the help of machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/robots-use-ai-learn-clean-your-house/",
-      "originalUrl": "https://www.wired.com/story/robots-use-ai-learn-clean-your-house/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f74c95e922b403d5b360f47/master/pass/business_toytota_gmk.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/robots-use-ai-learn-clean-your-house/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/robots-use-ai-learn-clean-your-house/amp",
-      "publishedDateTime": "2020-09-30T13:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-say-goodbye-to-hold-music.md",
-      "title": "Say goodbye to hold music",
-      "excerpt": "Sometimes, a phone call is the best way to get something done. We call retailers to locate missing packages, utilities to adjust our internet speeds, airlines to change our travel itineraries...the list goes on. But more often than not, we need to wait on hold during these calls—listening closely to",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/pixel/hold-for-me/",
-      "originalUrl": "https://blog.google/products/pixel/hold-for-me/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HFM-hero2x.max-1300x1300.png",
-          "width": 1300,
-          "height": 557,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/pixel/hold-for-me/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/pixel/hold-for-me/amp/",
-      "publishedDateTime": "2020-09-30T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

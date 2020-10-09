@@ -2,6 +2,131 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2020-09-03-siri-shortcuts-and-google-assistant-shortcuts-reveal-the-future-and-danger-of-smart-ai-assistants.md",
+      "title": "Siri Shortcuts And Google Assistant Shortcuts Reveal The Future (And Danger) Of Smart AI Assistants",
+      "excerpt": "In iOS 12, Apple started rolling out Siri Shortcuts. In iOS 14, they’re getting much smarter and more pervasive. Now Google is rolling out shortcuts for Google Assistant. In doing so, they’re both showing us the near future power of AI-driven smart assistants.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/02/siri-shortcuts-and-google-assistant-shortcuts-reveal-the-future-and-danger-of-smart-ai-assistants/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/02/siri-shortcuts-and-google-assistant-shortcuts-reveal-the-future-and-danger-of-smart-ai-assistants/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f50365db3264b95aba4c6aa%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/02/siri-shortcuts-and-google-assistant-shortcuts-reveal-the-future-and-danger-of-smart-ai-assistants/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/09/02/siri-shortcuts-and-google-assistant-shortcuts-reveal-the-future-and-danger-of-smart-ai-assistants/amp/",
+      "publishedDateTime": "2020-09-02T17:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-machine-learning-ai-chooses-henry-cavill-as-the-next-james-bond.md",
+      "title": "Machine Learning AI Chooses Henry Cavill As The Next James Bond",
+      "excerpt": "Elizabeth Olsen Deletes Instagram Due To Backlash For Not Po... Eternals Director Wants The Film To Be Bigger Than Avengers:... Grand Theft Auto 6 Is Reportedly Years Away From Being Annou ...",
+      "sourceUrl": null,
+      "webUrl": "https://wegotthiscovered.com/movies/ai-henry-cavill-james-bond/",
+      "originalUrl": "https://wegotthiscovered.com/movies/ai-henry-cavill-james-bond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wegotthiscovered.com/wp-content/uploads/2020/08/Henry-Cavill.jpg",
+          "width": 1155,
+          "height": 570,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://wegotthiscovered.com/movies/ai-henry-cavill-james-bond/amp/",
+      "cdnAmpWebUrl": "https://wegotthiscovered-com.cdn.ampproject.org/c/s/wegotthiscovered.com/movies/ai-henry-cavill-james-bond/amp/",
+      "publishedDateTime": "2020-09-02T17:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "We Got This Covered",
+        "domain": "wegotthiscovered.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-altigen-buys-blue-pandas-coreinteract-platform.md",
+      "title": "Altigen buys Blue Panda's CoreInteract platform",
+      "excerpt": "and using Microsoft Cognitive Services. CoreInteract will become generally available in the fourth quarter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.telecompaper.com/news/altigen-buys-blue-pandas-coreinteract-platform--1352473",
+      "originalUrl": "https://www.telecompaper.com/news/altigen-buys-blue-pandas-coreinteract-platform--1352473",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telecompaper",
+        "domain": "telecompaper.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-03-telix-pharmaceuticals-enters-strategic-collaboration-with-varian-medical-systems-for-advanced-prostate-imaging.md",
       "title": "Telix Pharmaceuticals Enters Strategic Collaboration with Varian Medical Systems for Advanced Prostate Imaging",
       "excerpt": "(GLOBE NEWSWIRE) -- Telix Pharmaceuticals Limited (ASX: TLX, ‘Telix’, the ‘Company’) today announced it has entered into a strategic collaboration agreement with Palo Alto-based Varian Medical Systems,",
@@ -1006,149 +1131,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-tiktok-deal-talks-are-snarled-over-fate-of-apps-algorithms.md",
-      "title": "TikTok Deal Talks Are Snarled Over Fate of App’s Algorithms",
-      "excerpt": "Deal talks for TikTok’s U.S. operations have been complicated by the key question of whether the app’s core algorithms can be included as part of a deal, according to people familiar with the matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/tiktok-deal-talks-are-snarled-over-fate-of-apps-algorithms-11598995674?mod=hp_lead_pos1",
-      "originalUrl": "https://www.wsj.com/articles/tiktok-deal-talks-are-snarled-over-fate-of-apps-algorithms-11598995674",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-227247/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/tiktok-deal-talks-are-snarled-over-fate-of-apps-algorithms-11598995674",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tiktok-deal-talks-are-snarled-over-fate-of-apps-algorithms-11598995674",
-      "publishedDateTime": "2020-09-02T09:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-rolls-royce-announces-breakthroughs-in-artificial-intelligence-ethics-and-trustworthiness.md",
-      "title": "Rolls-Royce announces breakthroughs in Artificial Intelligence ethics and trustworthiness",
-      "excerpt": "Royce has announced two breakthroughs in artificial intelligence ethics, which could help gain society’s trust of the technology and accelerate the next generation of",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/rolls-royce-announces-breakthroughs-in-artificial-intelligence-ethics-and-trustworthiness/",
-      "originalUrl": "https://indiaeducationdiary.in/rolls-royce-announces-breakthroughs-in-artificial-intelligence-ethics-and-trustworthiness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Rolls-Royce.jpg?fit=400%2C400&ssl=1",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/rolls-royce-announces-breakthroughs-in-artificial-intelligence-ethics-and-trustworthiness/?amp",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/rolls-royce-announces-breakthroughs-in-artificial-intelligence-ethics-and-trustworthiness/?amp",
-      "publishedDateTime": "2020-09-02T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-intel-10nm-tiger-lake-cpus-will-be-in-50-new-laptops-coming-this-fall.md",
-      "title": "Intel: 10nm Tiger Lake CPUs will be in 50 new laptops coming this fall",
-      "excerpt": "Intel took the wraps off its not-so-secret central processing units (CPUs) codenamed Tiger Lake, built with a 10-nanometer manufacturing process. It may as well have been called Tiger Leak.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/02/intel-10-nanometer-tiger-lake-cpus-will-be-in-50-new-laptops-coming-this-fall/",
-      "originalUrl": "https://venturebeat.com/2020/09/02/intel-10-nanometer-tiger-lake-cpus-will-be-in-50-new-laptops-coming-this-fall/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/intel-raja.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 642,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/02/intel-10-nanometer-tiger-lake-cpus-will-be-in-50-new-laptops-coming-this-fall/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/02/intel-10-nanometer-tiger-lake-cpus-will-be-in-50-new-laptops-coming-this-fall/amp/",
-      "publishedDateTime": "2020-09-02T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

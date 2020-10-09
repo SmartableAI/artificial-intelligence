@@ -8,8 +8,8 @@ webUrl: "https://mybroadband.co.za/news/industrynews/370783-how-ai-and-machine-l
 ampWebUrl: "https://mybroadband.co.za/news/industrynews/370783-how-ai-and-machine-learning-can-help-accountants-stay-competitive.html/amp"
 cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/370783-how-ai-and-machine-learning-can-help-accountants-stay-competitive.html/amp"
 type: article
-quality: 74
-heat: 104
+quality: 76
+heat: 106
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://businesstech.co.za/news/wp-content/uploads/2020/10/Sage-1-1024x507.jpg"
@@ -72,6 +73,6 @@ related:
         height: 460
         isCached: true
 
-secured: "RnzeEN2dLp5SWDl2wQDQNYyMLL1apA9JUvAtBaYo7LviVQrarOFycpeH/RFw203td9wcf1R1GOsFFoCmYfcRVMV1wfmy73k0IOwCs/vrono99KMTvUk1r0/6qVTeFHgRuEhGT2jShtVNOEACoyHzCC6qPv3XUNAVwFhewqBuPfJ7j7ws5WKavjLvBoE8l7PgvwK1Ggy4Uvi9aD0KXf1GIP94Dfqi065mXiAcpUTZ+w3SMK6EmWkBRgn3m9CKyrdqN+NVzSpoyLtWeNoXBgUKhu067OFq1epqUP/9Jr4gzZlAaheu250WL7NXdwkAFry4ZMdBU4YpezXj1sHrHT/ybNkH2FTSyFbaCXl0JoBOu2M=;yfxN1JWliiSHz32C+BrrfQ=="
+secured: "kvSB6tAtCzLEbyFxr453mCxmsUdi6zD1pOh2lAZqvd55VFLacA2cJUEH2DRe41j+O/KmmFBCu0XNmoXH4QjyOadTHJR6RR4dxLuilsGUmsFG5Xo4mcDSYGGgThV/SYicMRs4RHrnrw5Nvmdgg9b2DPVpMH1XkC+7sFWvI/LkTfOnlx3Q6OtmScvclb+x4x6mBXhTZslreyAzT/HvCBcuLK+ukXMBZu0w0M3wSv0A9bzwv9JNwpHlxiR59Eht72CTLcx+muSCgdoZou/vHx55+Ow4n7c/WPUsCN9qKFuPrkQDlb3hwsESSc1KyHOQsOmZfNH9vV9k39/Ry9cUrOf88tetc/V/1GDGIiSbELupNAg4p/ca2AsjGgHzVWoSGnRZjBPzUvPONlk+Y/9wdFv2hxYVFelRGmAKVGnvQodMWQwDJ9nMEd3X+pPyaP187+a1jwwQnqV/pYk5+oapwDq3BropVWExNCSyrl2cg/4ztBYLQwDRtEcvYo/KA6UCjjFWQdsrH3eu/fBAjPfeLuDuaQ==;qdo2AdcHnnDD1b8mOSJ8zA=="
 ---
 

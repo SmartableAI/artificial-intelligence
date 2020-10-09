@@ -2,6 +2,99 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-08-9-ai-softwares-to-keep-an-eye-on-in-2021.md",
+      "title": "9 AI Softwares to Keep An Eye On In 2021",
+      "excerpt": "In the last few years, technological progress has reached a new high. AI or artificial intelligence is no longer an obscure buzzword used by the geeks!",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/business/9-ai-softwares-keep-eye-2021-1385415",
+      "originalUrl": "https://www.albawaba.com/business/9-ai-softwares-keep-eye-2021-1385415",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/rimshami/AIsoftware-shutterstock-8Oct20.jpg?itok=IPJHo11K",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/business/9-ai-softwares-keep-eye-2021-1385415",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/9-ai-softwares-keep-eye-2021-1385415",
+      "publishedDateTime": "2020-10-08T05:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-nine-big-hurdles-of-adopting-artificial-intelligence-and-how-to-overcome-them.md",
+      "title": "Nine Big Hurdles Of Adopting Artificial Intelligence (And How To Overcome Them)",
+      "excerpt": "Artificial intelligence is an extremely valuable tool that can save your business time, energy and money. However, implementing AI can be a big challenge for any company. From choosing the right AI-powered tool to setting up the right data inputs and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theyec/2020/10/08/nine-big-hurdles-of-adopting-artificial-intelligence-and-how-to-overcome-them/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2020/10/08/nine-big-hurdles-of-adopting-artificial-intelligence-and-how-to-overcome-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7dce40f79d0a361086b5fe%2F0x0.jpg",
+          "width": 1200,
+          "height": 579,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2020/10/08/nine-big-hurdles-of-adopting-artificial-intelligence-and-how-to-overcome-them/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2020/10/08/nine-big-hurdles-of-adopting-artificial-intelligence-and-how-to-overcome-them/amp/",
+      "publishedDateTime": "2020-10-08T05:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-exer-labs-raises-2-million-and-launches-computer-vision-app-for-peloton-style-coached-workouts.md",
       "title": "Exer Labs raises $2 million and launches computer vision app for Peloton-style coached workouts",
       "excerpt": "Exer Labs has raised $2 million in funding and it has unveiled its AI-based Exer Studio app for the Mac that captures your movements for coaching advice.",
@@ -162,7 +255,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/maxim-integrated-s-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-1029656759",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 130,
       "tags": null,
       "images": null,
       "type": "article",
@@ -1104,98 +1197,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-master-data-eats-ai-for-breakfast.md",
-      "title": "Master Data Eats AI For Breakfast",
-      "excerpt": "Not addressing master data issues ahead of any heavy investments in AI/ML can result in the significant rewiring of data in the ML training sets later and render any previous insights useless.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/07/master-data-eats-ai-for-breakfast/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/07/master-data-eats-ai-for-breakfast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f19b802c21b7f5ce847fa59%2F0x0.jpg",
-          "width": 1200,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/07/master-data-eats-ai-for-breakfast/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/07/master-data-eats-ai-for-breakfast/amp/",
-      "publishedDateTime": "2020-10-07T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-robot-reapers-and-ai-just-another-day-on-the-farm.md",
-      "title": "Robot reapers and AI: Just another day on the farm",
-      "excerpt": "Technology is now enabling farmers to manage each section of the farm based on its unique conditions and needs. A good example of this in action is the spraying of herbicides, which had traditionally been done at the same rate across the whole field.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/robot-reapers-and-ai-just-another-day-on-the-farm/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/robot-reapers-and-ai-just-another-day-on-the-farm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/robot-reapers-and-ai-just-another-day-on-the-farm/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/robot-reapers-and-ai-just-another-day-on-the-farm/",
-      "publishedDateTime": "2020-10-07T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

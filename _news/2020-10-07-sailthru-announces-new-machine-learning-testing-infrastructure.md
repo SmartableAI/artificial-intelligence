@@ -26,7 +26,7 @@ related:
   - title: "Sailthru Launches Machine Learning Testing Infrastructure"
     excerpt: "Sailthru's Machine Learning Testing Infrastructure lets marketers create scaled, automated tests for copy and design assets."
     publishedDateTime: 2020-10-07T17:05:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Sailthru-Launches-Machine-Learning-Testing-Infrastructure -143253.aspx"
+    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=143253"
     type: article
     provider:
       name: Destination CRM

@@ -87,7 +87,21 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "IBM makes esports entry with multi-year Overwatch League deal"
+    excerpt: "US technology company IBM has made its first foray into the world of esports by signing a multi-year deal with Activision Blizzard’s Overwatch League (OWL). The agreement, which covers this year’s Grand Finals and the 2021 and 2022 seasons,"
+    publishedDateTime: 2020-10-09T10:56:00Z
+    webUrl: "https://www.sportspromedia.com/news/overwatch-league-ibm-esports-sponsorship-ai-cloud-analytics"
+    type: article
+    provider:
+      name: SportsPro
+      domain: sportspromedia.com
+    quality: 24
+    images:
+      - url: "http://cdn.sportspromedia.com/images/made/images/uploads/news/owlibm_600_347.jpg"
+        width: 600
+        height: 347
+        isCached: true
 
-secured: "SJ+/gdCL/RRxJLYOjWjdIV6S0186Pe0L8WyTNxif0xMJC4CWzdAlQR9WZ+r/HkdsuIkNLAjtKLEn5yGG5AiLqgiecAOcDsVZSjJA+7SunqxNZulR3kYXGUgIYJJ37SfP1uzGkiOzlGBedmo18ueI5IYr+ryeKue5E2Qwej/146LeuUGTefZN1ZidcnoaBSAVYLQCXuxjlbWRxuZI20amD458eskdm+nDfum6ONsbTHyi24z0pJGhUUpE/CqUndoDaLpJvQBICvAQ9zPa4v5BPebOhY7bf6E0F9qJwhJ+KMO0QS/OHa2KzR9ePtmpoZwdg3EsGy0k6BM/c0uY8YyGXyXBWO7J81LeBphaZfWq1gc=;PL1nfVp1zDe5piWeq81atA=="
+secured: "bwj7AvN5vIeo4XefbrFbwIVx4NBOOYCReGzH5V2BAg59LlQzFOXuOZ4JMhfGcLWMRp1B6wGpqYSkamm12XblXO7yEFFuuOXs2FDY1wmND9DXrMFL4hmfoYI1k/G8yyVFqBVF7u2LC8wyeQuTYjey5BwfNu/fzoYbeuvCpyyKhzggBYC7wkoXq/Ha1LpsFsKjuHiWSC6OhboB4fK3h3b2xviCUe0+o3faX1B0QGmhaDB8Xn6Mx6tGV4aBqg0Cu+6QodeS0UYzuOLRlyYN2OfQnaYfmpuQL9WP9gkiopnh7HfbZMyTdxit0+b93IXBLRktp9H9iOyg1WhxFDBieWK9/8bhAyDXnZE+IA/0YlEQ3bI=;S9e2fL96/ZR5gd8WUoFg5A=="
 ---
 

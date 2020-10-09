@@ -2,6 +2,141 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-09-28-our-goal-shouldnt-be-to-build-merely-trustworthy-ai.md",
+      "title": "Our goal shouldn’t be to build merely ‘trustworthy’ AI",
+      "excerpt": "Mariarosaria Taddeo, Deputy Director of the Oxford Internet Institute's Digital Ethics Lab, explains why AI ethics must be a continuous practice.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/28/our-goal-shouldnt-be-to-build-merely-trustworthy-ai/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/28/our-goal-shouldnt-be-to-build-merely-trustworthy-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Untitled-design-2020-09-28T104701.865-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/28/our-goal-shouldnt-be-to-build-merely-trustworthy-ai/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/28/our-goal-shouldnt-be-to-build-merely-trustworthy-ai/amp/",
+      "publishedDateTime": "2020-09-28T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-this-interactive-vr-film-lets-you-play-god-to-an-evolving-artificial-intelligence.md",
+      "title": "This interactive VR 'film' lets you play god to an evolving artificial intelligence",
+      "excerpt": "If you could play god to an emerging artificial intelligence, would you? Or better: Should you? That’s the moral dilemma at the heart of Agence, an interactive “dynamic film” that blends ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/agence-ai-vr-film/",
+      "originalUrl": "https://mashable.com/article/agence-ai-vr-film/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F09%252F28%252Ffd%252F5554a8fadfd8486f97c31cc8336ffa35.15cd6.jpg%252F1200x630.jpg?signature=1oiSYK9Cltjtd5iFuSmbIu1--2w=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/agence-ai-vr-film.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/agence-ai-vr-film.amp",
+      "publishedDateTime": "2020-09-28T06:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020.md",
+      "title": "Synopsys to Host Panel on AI for Chip Design at AI Hardware Summit 2020",
+      "excerpt": "PRNewswire/ --Synopsys, Inc. (Nasdaq: SNPS) today announced that Arun Venkatachar, VP of AI and Central Engineering, will participate in a panel",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020-301138755.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/synopsys-to-host-panel-on-ai-for-chip-design-at-ai-hardware-summit-2020-301138755.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-28T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-28-dissident-ai-weiwei-protests-possible-extradition-of-assange.md",
       "title": "Dissident Ai Weiwei protests possible extradition of Assange",
       "excerpt": "The dissident Chinese contemporary artist Ai Weiwei staged a silent protest outside London's Old Bailey court on Monday against the possible extradition of WikiLeaks founder Julian Assange to the United States,",
@@ -975,159 +1110,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-active-learning-workflow-for-amazon-comprehend-custom-classification-models-part-1.md",
-      "title": "Active learning workflow for Amazon Comprehend custom classification models – Part 1",
-      "excerpt": "Amazon Comprehend&nbsp;&nbsp;Custom Classification API enables you to easily build custom text classification models using your business-specific labels without learning ML. For example, your customer support organization can use Custom Classification to automatically categorize inbound requests by problem",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/active-learning-workflow-for-amazon-comprehend-custom-classification-models-part-1/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/active-learning-workflow-for-amazon-comprehend-custom-classification-models-part-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/23/FEEDBACKLOOPS-HUMANCLASSIFICATION15-877x630.png",
-          "width": 877,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-25T15:27:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-4-things-to-remember-when-adapting-aiml-learning-models-during-a-pandemic.md",
-      "title": "4 things to remember when adapting AI/ML learning models during a pandemic",
-      "excerpt": "The progress seen in AI/machine learning leading up to and during the pandemic cannot be ignored, but this crisis brings with it a unique opportunity for updates and innovation in modeling.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/25/4-things-to-remember-when-adapting-ai-ml-learning-models-during-a-pandemic/",
-      "originalUrl": "https://techcrunch.com/2020/09/25/4-things-to-remember-when-adapting-ai-ml-learning-models-during-a-pandemic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1250179225.jpg?w=1024",
-          "width": 1024,
-          "height": 696,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/25/4-things-to-remember-when-adapting-ai-ml-learning-models-during-a-pandemic/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/25/4-things-to-remember-when-adapting-ai-ml-learning-models-during-a-pandemic/amp/",
-      "publishedDateTime": "2020-09-25T13:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-using-artificial-intelligence-to-tame-the-most-volatile-asset-class-in-history.md",
-      "title": "Using Artificial Intelligence To Tame The Most Volatile Asset Class In History",
-      "excerpt": "The digital asset space, also known as cryptocurrencies, has seen a precipitous rise in popularity this year in spite of being highly volatile as these digital assets have also recorded the most successful gains in all of the recorded history of money markets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2020/09/25/using-artificial-intelligence-to-tame-the-most-volatile-asset-class-in-history/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2020/09/25/using-artificial-intelligence-to-tame-the-most-volatile-asset-class-in-history/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6e46911dd414185365cccd%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D625%26cropY2%3D4000",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2020/09/25/using-artificial-intelligence-to-tame-the-most-volatile-asset-class-in-history/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2020/09/25/using-artificial-intelligence-to-tame-the-most-volatile-asset-class-in-history/amp/",
-      "publishedDateTime": "2020-09-25T12:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -3,8 +3,8 @@ category: news
 title: "WALTER WILLIAMS: The fight for free speech"
 excerpt: "The violence, looting and mayhem this nation has seen over the last several months has much of its roots in academia, where leftist faculty teach immature young people all manner of nonsense that contradicts common sense and the principles of liberty."
 publishedDateTime: 2020-10-08T08:13:00Z
-originalUrl: "https://www.arkansasonline.com/news/2020/oct/08/walter-williams-the-fight-for-free-speech/?opinion"
-webUrl: "https://www.arkansasonline.com/news/2020/oct/08/walter-williams-the-fight-for-free-speech/?opinion"
+originalUrl: "https://www.arkansasonline.com/news/2020/oct/08/walter-williams-the-fight-for-free-speech/"
+webUrl: "https://www.arkansasonline.com/news/2020/oct/08/walter-williams-the-fight-for-free-speech/"
 type: article
 quality: 24
 heat: -1
@@ -109,6 +109,6 @@ related:
       domain: cnsnews.com
     quality: 4
 
-secured: "QEB1db1Kk5Owdeh9p6b2KP4q6zHgU6ztaEvGgx9S3Z7dlv2MrT/LPZdh6emkVhjIs/reLOCsADhRiGZ8muC4/CMrkfUHLeT1/TwkHD15utGkBLTi9CZv+xCY5io4Yt/4xH/aN4ZQdvgb0GxNf63qQ9VUJvBiDJBta+EQQZsXDxoaWwGCjPKtKhOUCDi2yQgkPLkg0AORvRE51Tvyj3/kICglpQDHhpDEud9qIUjuinFsBU6r5DGUIA5k3/AMI3A85cr5DBHzlR3STUkgWErE5exu+Fvaf1Pjxl/PqMamkMDPw/Py3c7fHDjQpft/lP+B2demI2NJC1KF3xaTKESGMN8vM64OPbNqMvNjfMyBbgs=;3r/UeT//dShuW/pgt3Oj7Q=="
+secured: "crptzXcWMVuET0ycUl4meA47d6NpvZ87tElzbyzuTRH56t3NtgA0TNaobSUU64Ob7bH6Uu8bLR5v11beRKXmVub9ABaIbctthYQdqI6LnZIbDBySGBDnH8mH3BdkiMw7OiTsjstqmba+R/fmE+FMPipxaJBwNUfwbt2bdVEHXGuqdTEX9gon3KXcumyuvinSp3BpzHy5Q/PWko0MEnmobg6HPZxkEbelKqwfjthObJjjSjcFcSr3qOmZmImnLAWwbGNyA6KrrIq7WEyH3ysKr/uv/IDlnOJz/wasBMZleNq2zV3L8xlRKxcR4t5wPJxnks8+v5ElOMc7uZCeX/WLX3SO2c7+cHUH1ny0lNInLUw=;zqiP5ARh1dukCUQ+eAeJGw=="
 ---
 

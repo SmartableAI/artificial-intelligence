@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-09-facebooks-nudity-spotting-ai-mistook-a-photo-of-some-onions-for-sexually-suggestive-content.md",
+      "title": "Facebook's nudity-spotting AI mistook a photo of some onions for 'sexually suggestive' content",
+      "excerpt": "Facebook said the onion-seed ad had been removed for breaking its rules on \"products with overtly sexual positioning.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/facebook-mistakes-onions-for-sexualised-content-2020-10",
+      "originalUrl": "https://www.businessinsider.com/facebook-mistakes-onions-for-sexualised-content-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f80352d4c3b2e0019bba0d4?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/facebook-mistakes-onions-for-sexualised-content-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-mistakes-onions-for-sexualised-content-2020-10?amp",
+      "publishedDateTime": "2020-10-09T03:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-04-many-top-ai-researchers-get-financial-backing-from-big-tech.md",
       "title": "Many Top AI Researchers Get Financial Backing From Big Tech",
       "excerpt": "Abdalla found that more than half of tenure-track AI faculty at four prominent universities who disclose their funding sources have received some sort of backing from Big Tech. Abdalla says he doesn’t believe any of those faculty are acting unethically ...",
@@ -1377,57 +1428,6 @@
         "AI in Healthcare",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-ai-language-tool-reveals-most-stressed-politicians-and-business-leaders.md",
-      "title": "AI Language Tool Reveals Most Stressed Politicians And Business Leaders",
-      "excerpt": "An automated language analysis system has measured the stress levels of US politicians and business leaders, finding that Bernie Sanders is the most stressed American politician and Bill Gates the most stressed business figure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/simonchandler/2020/09/01/ai-language-tool-reveals-most-stressed-politicians-and-business-leaders/",
-      "originalUrl": "https://www.forbes.com/sites/simonchandler/2020/09/01/ai-language-tool-reveals-most-stressed-politicians-and-business-leaders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4e0d0e1a85851f93b167b8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5472%26cropY1%3D256%26cropY2%3D3334",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/simonchandler/2020/09/01/ai-language-tool-reveals-most-stressed-politicians-and-business-leaders/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonchandler/2020/09/01/ai-language-tool-reveals-most-stressed-politicians-and-business-leaders/amp/",
-      "publishedDateTime": "2020-09-01T02:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

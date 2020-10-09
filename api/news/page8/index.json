@@ -2,6 +2,149 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-01-baidu-fundraising-puts-3bn-value-on-smart-device-business.md",
+      "title": "Baidu fundraising puts $3bn value on smart device business",
+      "excerpt": "HONG KONG -- Chinese web search leader Baidu has brought in outside investors for its voice assistant and smart device business, setting the stage for a potential spinoff while valuing the ...",
+      "sourceUrl": null,
+      "webUrl": "https://asia.nikkei.com/Business/China-tech/Baidu-fundraising-puts-3bn-value-on-smart-device-business",
+      "originalUrl": "https://asia.nikkei.com/Business/China-tech/Baidu-fundraising-puts-3bn-value-on-smart-device-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F0%252F8%252F9%252F2%252F29672980-3-eng-GB%252FCropped-1601453378RTX7JFB8.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-30T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NIKKEI",
+        "domain": "nikkei.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-these-robots-use-ai-to-learn-how-to-clean-your-house.md",
+      "title": "These Robots Use AI to Learn How to Clean Your House",
+      "excerpt": "At Toyota, researchers are experimenting with prototypes that swoop from the ceiling to take care of chores with the help of machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/robots-use-ai-learn-clean-your-house/",
+      "originalUrl": "https://www.wired.com/story/robots-use-ai-learn-clean-your-house/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f74c95e922b403d5b360f47/master/pass/business_toytota_gmk.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/robots-use-ai-learn-clean-your-house/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/robots-use-ai-learn-clean-your-house/amp",
+      "publishedDateTime": "2020-09-30T13:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-say-goodbye-to-hold-music.md",
+      "title": "Say goodbye to hold music",
+      "excerpt": "Sometimes, a phone call is the best way to get something done. We call retailers to locate missing packages, utilities to adjust our internet speeds, airlines to change our travel itineraries...the list goes on. But more often than not, we need to wait on hold during these calls—listening closely to",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/pixel/hold-for-me/",
+      "originalUrl": "https://blog.google/products/pixel/hold-for-me/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HFM-hero2x.max-1300x1300.png",
+          "width": 1300,
+          "height": 557,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/pixel/hold-for-me/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/pixel/hold-for-me/amp/",
+      "publishedDateTime": "2020-09-30T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-building-custom-language-models-to-supercharge-speech-to-text-performance-for-amazon-transcribe.md",
       "title": "Building custom language models to supercharge speech-to-text performance for Amazon Transcribe",
       "excerpt": "Amazon Transcribe is a fully-managed automatic speech recognition service (ASR) that makes it easy to add speech-to-text capabilities to voice-enabled applications. As our service grows, so does the diversity of our customer base, which now spans domains such as insurance, finance, law, real estate,",
@@ -1032,150 +1175,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-hailo-challenges-intel-and-google-with-its-new-ai-modules-for-edge-devices.md",
-      "title": "Hailo challenges Intel and Google with its new AI modules for edge devices",
-      "excerpt": "Hailo, a Tel Aviv-based startup best known for its high-performance AI chips, today announced the launch of its M.2 and Mini PCIe high-AI acceleration modules. Based around its Hailo-8 chip, these new models are meant to be used in edge devices for anything from smart city and smart home solutions",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/30/hailo-challenges-intel-and-google-with-its-new-ai-modules-for-edge-devices/",
-      "originalUrl": "https://techcrunch.com/2020/09/30/hailo-challenges-intel-and-google-with-its-new-ai-modules-for-edge-devices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/05/Hailo-8-chip-breakthrough-performance-for-deep-learning-applications-at-your-fingertip.jpg?w=1024",
-          "width": 1024,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/30/hailo-challenges-intel-and-google-with-its-new-ai-modules-for-edge-devices/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/30/hailo-challenges-intel-and-google-with-its-new-ai-modules-for-edge-devices/amp/",
-      "publishedDateTime": "2020-09-30T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-intel-heidelberg-university-team-up-to-bring-radeon-gpu-support-to-ai.md",
-      "title": "Intel, Heidelberg University team up to bring Radeon GPU support to AI",
-      "excerpt": "We've been following Intel's oneAPI—an artificial intelligence development platform designed to abstract hardware away from the task of developing AI code—with great interest since its launch last November.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2020/09/intel-heidelberg-university-team-up-to-bring-radeon-gpu-support-to-ai/",
-      "originalUrl": "https://arstechnica.com/gadgets/2020/09/intel-heidelberg-university-team-up-to-bring-radeon-gpu-support-to-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2020/09/pexels-alex-knight-2599244-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-deepfake-videos-featuring-kim-jong-un-putin-go-viral-before-us-local-networks-ban-them.md",
-      "title": "Deepfake Videos Featuring Kim Jong Un, Putin Go Viral Before US Local Networks Ban Them",
-      "excerpt": "The ads were supposed to warn Americans of the fragile nature of democracy and to take actions and vote during the U.S. Presidential elections 2020",
-      "sourceUrl": null,
-      "webUrl": "https://www.youtube.com/watch?v=ERQlaJ_czHU&feature=youtu.be",
-      "originalUrl": "https://www.ibtimes.sg/deepfake-videos-featuring-kim-jong-un-putin-go-viral-before-us-local-networks-ban-them-52062",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ERQlaJ_czHU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T01:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ellen",
-        "domain": "ibtimes.sg",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
