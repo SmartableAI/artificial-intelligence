@@ -3,8 +3,8 @@ category: news
 title: "Sailthru Launches Machine Learning Testing Infrastructure"
 excerpt: "Sailthru's Machine Learning Testing Infrastructure lets marketers create scaled, automated tests for copy and design assets."
 publishedDateTime: 2020-10-07T17:05:00Z
-originalUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=143253"
-webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=143253"
+originalUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Sailthru-Launches-Machine-Learning-Testing-Infrastructure -143253.aspx"
+webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Sailthru-Launches-Machine-Learning-Testing-Infrastructure -143253.aspx"
 type: article
 quality: 54
 heat: -1
@@ -35,6 +35,6 @@ related:
       domain: businessinsider.com
     quality: 64
 
-secured: "hiQshwa14L55rq5ZbOSgxM5d81W/g83a/13NoCjI3HNfcOHpHtgDVMkxouFVst4zCsWN94wuhvy5pkUkHNfBNtBR68S4oEOyDsbCGJHe2Spz2NGaEJ0OjQALdmVdb+FFQEUn7DdMFVn+6hZs0hVDNUz09VH/09rL3fpUkekyEbO2ll8mf5W+ftNSjfZxJA+j2h2SNr1jPhqknya0T0HMc58FxqvTvyuFkMvRh7r0L0zGXFVIhsbsBitG50PJ0BYbvz4MezXPwP/Dmz5z/gz07WYKgXkwBYBjqpJ+xeJ4GhvfOSRSaOPHTsiXFJSId+NEqmuPiCimRsbnc/op9RpV9VWSoepWqftL/miXzaNltUA=;iQ2zLnguIXa+lA4WgHsfmA=="
+secured: "UtUiLC1WDxnTNU3cHzSK/jBz32pBu4VrPhIzcXTYaQuA9UfIVokX1NtIX8C1hJk6LfZ77GpUzd1tbEu2w4pWaBlZ1o1klFhub2hEt/R7hxOoSu1iiXRk7r+JdvR5PwcCHAdlfBzehwUPsDanpK4VHkdeuxyrrznxQAHJsK9fOvTcBsWsU3AW9PEEnEy/z9Bo2LGqkipBUkHTcSZQ9btjkoFXPY/yRQV6bmTf++K8bmg2TKFpaEhnWgtFVaitMgwkwfHSmc/gjWWshosPHZOrsw1XQn88NJuJ1jvXfiJl7/xIfU8TEHl9OrTdC/AgkNvRykKGxj3bCBVs4jHWKjGNlFKVuQnebW0YxEoUCKo7d1A=;+aJcY69+nH1OirdNBkCl8A=="
 ---
 

@@ -110,6 +110,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Nvidia's new video conferencing platform matches Google and Microsoft on AI"
+    excerpt: "Nvidia's new video conferencing platform will help smaller competitors match the AI functionality of Microsoft Teams and Google Meet."
+    publishedDateTime: 2020-10-07T07:04:00Z
+    webUrl: "https://www.businessinsider.com/nvidia-video-conferencing-platform-matches-google-microsoft-on-ai-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
+    images:
+      - url: "https://i.insider.com/5f7c775b282c500018c78c79?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "NVIDIA GTC Presentation On Trends For 2021 Showed They See More Business Artificial Intelligence Moving To Production"
     excerpt: "While the message of the technical folks might still be a bit too focused on training, this presentation mentioned runtime more than I’ve previously heard. The industry application of AI is still relatively new,"
     publishedDateTime: 2020-10-08T15:05:00Z

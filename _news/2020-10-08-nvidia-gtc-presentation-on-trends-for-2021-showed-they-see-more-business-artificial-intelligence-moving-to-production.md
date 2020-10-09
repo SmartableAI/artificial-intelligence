@@ -126,6 +126,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Nvidia's new video conferencing platform matches Google and Microsoft on AI"
+    excerpt: "Nvidia's new video conferencing platform will help smaller competitors match the AI functionality of Microsoft Teams and Google Meet."
+    publishedDateTime: 2020-10-07T07:04:00Z
+    webUrl: "https://www.businessinsider.com/nvidia-video-conferencing-platform-matches-google-microsoft-on-ai-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
+    images:
+      - url: "https://i.insider.com/5f7c775b282c500018c78c79?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "VMware, Nvidia partner to boost AI, networking capabilities"
     excerpt: "If there was any doubt Nvidia has arrived as an enterprise player, its deal with VMware should erase all doubt. The GPU developer and VMware announced at the recent VMworld 2020 conference that they plan to integrate their respective core technologies through a series of development and networking partnerships."
     publishedDateTime: 2020-10-05T22:12:00Z

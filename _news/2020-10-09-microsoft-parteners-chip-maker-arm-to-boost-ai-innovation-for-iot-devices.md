@@ -1,27 +1,30 @@
 ---
 category: news
-title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
-excerpt: "Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce its availability in the Microsoft"
-publishedDateTime: 2020-10-06T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace/article_190f285f-3d77-5572-818c-015780303762.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace/article_190f285f-3d77-5572-818c-015780303762.html"
+title: "Microsoft parteners chip maker Arm to boost AI innovation for IoT devices"
+excerpt: "SoftBank-owned UK chip maker Arm has partnered with Microsoft to create Azure-based tools to enable developers transfer data from Arm-based Internet of Things (IoT) devices to Azure Cloud"
+publishedDateTime: 2020-10-09T05:56:00Z
+originalUrl: "https://www.business-standard.com/article/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html"
+webUrl: "https://www.business-standard.com/article/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html"
+ampWebUrl: "https://wap.business-standard.com/article-amp/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html"
+cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html"
 type: article
-quality: 43
+quality: 90
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
-  - Microsoft AI
+  - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/e1/ce1c5bc4-2af1-5b01-9b65-205e791e28d4/5f7c7229dcab8.image.jpg?resize=400%2C242"
-    width: 400
-    height: 242
+  - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-09/29/full/1601348370-9773.jpg&width=1200"
+    width: 1200
+    height: 900
     isCached: true
 
 related:
@@ -38,22 +41,6 @@ related:
     quality: 91
     images:
       - url: "https://newsd.in/wp-content/uploads/2020/09/newsd-amp.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Microsoft parteners chip maker Arm to boost AI innovation for IoT devices"
-    excerpt: "SoftBank-owned UK chip maker Arm has partnered with Microsoft to create Azure-based tools to enable developers transfer data from Arm-based Internet of Things (IoT) devices to Azure Cloud"
-    publishedDateTime: 2020-10-09T05:56:00Z
-    webUrl: "https://www.business-standard.com/article/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 90
-    images:
-      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-09/29/full/1601348370-9773.jpg&width=1200"
         width: 1200
         height: 900
         isCached: true
@@ -192,6 +179,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
+    excerpt: "Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce its availability in the Microsoft"
+    publishedDateTime: 2020-10-06T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace/article_190f285f-3d77-5572-818c-015780303762.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 43
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/e1/ce1c5bc4-2af1-5b01-9b65-205e791e28d4/5f7c7229dcab8.image.jpg?resize=400%2C242"
+        width: 400
+        height: 242
+        isCached: true
   - title: "How Do We Accelerate Endpoint AI Innovation? Put Developers First"
     excerpt: "Dipti Vachani reveals how together with Microsoft, Arm is optimizing the developer experience with streamlined, scalable tools that put creativity first"
     publishedDateTime: 2020-10-08T15:58:00Z
@@ -216,6 +217,6 @@ related:
       domain: sify.com
     quality: 36
 
-secured: "cRa1/oAOTX7fHOeXtUij550+ubSh7slPIiOQgtetFL96E4iO6G2KVn+DasCgIcLZmD2HKKzoG10h1qrDN+hALheMaAUtFJrmwGqkeHTS0QHJv6h4KdcID2JqH/hq1tWsmsuuXIkitGZi+hYlFdib3k2gbp2i+Pd6SyGo0vFTMWwrClvA5rzBzflpnhGh+qjvK8fGbUuTjXgjOsg3ARd4FEhjw1lnyxMBD4HPbkfWbCgmWB3X2z+erVgBFZYR4AtBaOerhqCv2bhja38ee65jq9Ilui4rT7yg0EJzkOztRtpYNbP9mkHK+oyol5UMmcvmcthS4FVYJII3q4seQTL5UhMMnpfuH4iadZ5eACa/RYBWdlQkCqYpDzw4Zeffl6AUzCoH55FaILJmq9KIRiYGR0kN8TdsxT+TWSPx0qYfiEWEm+g8IO3P7P5ksEgc3OU2HY/bSnH8O0ly9amg41vIblX2grRLmeAJcyMrQ86syDtO9X4OIUXPNYT/xrIQw9MvncyMbu5iPodCTrGWpSyBuw==;ryr2AqDNQmV34sG0kseQDw=="
+secured: "c07oWJ/MTdefQsPveSWnl5r850p5bD6TbJgGW3q+nvURF0jWhGCySrB4WiLAh87I0bVOtoM6elJE7qp6rNNoMvHjtKg/Tnol11V//w+duuc2eOVptDnBKw61Hv/+RlzEwJkMEZ9sRDP5aRtnhfHs4YSffeJEgt1Q/6eo7HS11SI7veQjRJZdLzEzOaTSLiTX+U/iBc87rovl1sOcoP7cHjBHlaafFFB6NEVIVaq3r4R6YlmystoxJwFia8E+SGaLUYpu6pCJWPFIZOohyCN9f0LL3VSu0KURqylBfrcw2fFMaCN7NAGxvtZaHOsX/AK+0s1dp075QESxQGQz5D9raHmd0lsAdeChf8ZDjfDft+Y=;O3pbzsTjjZeMiDjhkVH0qA=="
 ---
 

@@ -1,22 +1,33 @@
 ---
 category: news
-title: "Nvidia Announces DGX SuperPODs for AI, Available in 20-Node Increments"
-excerpt: "Nvidia today announced at its GPU Technology Conference (GTC) the Nvidia DGX SuperPOD Solution for Enterprise, the world’s first turnkey AI infrastructure, making it possible for organizations to install incredibly powerful AI supercomputers with extraordinary speed — in many cases in just a few weeks’ time."
-publishedDateTime: 2020-10-05T14:01:00Z
-originalUrl: "https://insidehpc.com/2020/10/nvidia-announces-dgx-superpods-for-ai-available-in-20-node-increments/"
-webUrl: "https://insidehpc.com/2020/10/nvidia-announces-dgx-superpods-for-ai-available-in-20-node-increments/"
+title: "Nvidia's new video conferencing platform matches Google and Microsoft on AI"
+excerpt: "Nvidia's new video conferencing platform will help smaller competitors match the AI functionality of Microsoft Teams and Google Meet."
+publishedDateTime: 2020-10-07T07:04:00Z
+originalUrl: "https://www.businessinsider.com/nvidia-video-conferencing-platform-matches-google-microsoft-on-ai-2020-10"
+webUrl: "https://www.businessinsider.com/nvidia-video-conferencing-platform-matches-google-microsoft-on-ai-2020-10"
 type: article
-quality: 19
+quality: 84
 heat: -1
 published: false
 
 provider:
-  name: insideHPC
-  domain: insidehpc.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
+
+images:
+  - url: "https://i.insider.com/5f7c775b282c500018c78c79?width=1200&format=jpeg"
+    width: 1200
+    height: 600
+    isCached: true
 
 related:
   - title: "GTC 2020 round-up: Nvidia announces virtual world for robots, AI video calls"
@@ -115,20 +126,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Nvidia's new video conferencing platform matches Google and Microsoft on AI"
-    excerpt: "Nvidia's new video conferencing platform will help smaller competitors match the AI functionality of Microsoft Teams and Google Meet."
-    publishedDateTime: 2020-10-07T07:04:00Z
-    webUrl: "https://www.businessinsider.com/nvidia-video-conferencing-platform-matches-google-microsoft-on-ai-2020-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
-    images:
-      - url: "https://i.insider.com/5f7c775b282c500018c78c79?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "NVIDIA GTC Presentation On Trends For 2021 Showed They See More Business Artificial Intelligence Moving To Production"
     excerpt: "While the message of the technical folks might still be a bit too focused on training, this presentation mentioned runtime more than I’ve previously heard. The industry application of AI is still relatively new,"
     publishedDateTime: 2020-10-08T15:05:00Z
@@ -209,6 +206,15 @@ related:
         width: 375
         height: 231
         isCached: true
+  - title: "Nvidia Announces DGX SuperPODs for AI, Available in 20-Node Increments"
+    excerpt: "Nvidia today announced at its GPU Technology Conference (GTC) the Nvidia DGX SuperPOD Solution for Enterprise, the world’s first turnkey AI infrastructure, making it possible for organizations to install incredibly powerful AI supercomputers with extraordinary speed — in many cases in just a few weeks’ time."
+    publishedDateTime: 2020-10-05T14:01:00Z
+    webUrl: "https://insidehpc.com/2020/10/nvidia-announces-dgx-superpods-for-ai-available-in-20-node-increments/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 19
   - title: "Nvidia launches AI platform to improve video conferencing; Avaya on as partner"
     excerpt: "Nvidia (NASDAQ:NVDA) Maxine is a cloud-based, GPU-accelerated AI platform that improves video conferencing streaming quality with features that include super-resolution, noise cancellation, and face relighting."
     publishedDateTime: 2020-10-05T16:08:00Z
@@ -219,6 +225,6 @@ related:
       domain: seekingalpha.com
     quality: 15
 
-secured: "ihQ+kf9Ak04VXP4GhjLdGnhtE30BvAH/teokMEMn0irGjZ52SLRct37Uyg62faDMI5EbNgDCS0q540nNzgI5AjdsqcL1rver/4H0vy/18yKLu2Q22tbVjRE/mF4bbppRWBGnTGLXu9EU32ZEEA+fJk3nlGa1VpQe4wPXQ6V4jmDlZWq6G8zJMs+IEqz4HIze18DkmQRjvMKCJItVh9wweUwIjkxK1e1p4xvxOwQwoRqe0gKaG2sBgcITwu1bVR8gjLa74ZORQsn9Pd6TVNcBcWNNIpehvDdhmB4gtqIRCpNvVlX0CS0ajpLW6CndALkJxPI9D0cCoCPWsVPOo1va/7Yh6AjP9LddBH10K06x3+o=;bRTxk4XMPVKBYCOHevyjHw=="
+secured: "ogn3KG99Oj71K960T7U3h2euiEhGBJNVyapRB6hCtKppk/o3d0w0J/uOb4Q3+ga9lGwofq8PezmVQWZfZQP9yASmgPvRccWgKMhlUn62jIJnWpR6PNYG+/kmtFsrssohbg5U2NHeCE3hSdVlC9LDSTbpTGQaSckPkBdnTUhjK13Yv0ReXkWR6ld9OmwTV6G3G+5W9MUm2N8iSWx3WF0lEUoY6fdmXTAfdoxPv3Md5YyyH1/PItJD13tWM8zbajfpWkvNLROpTAGDM7Od3j+fJQXnnLUANMg5Uko2m/CvHyiQuzBXL/UdTzTVIsWhqTX1no5otpyDvcnLsL4nu/sk2b53dj+oPObaqWaXjL5Wuhs=;yzHojE2THHTVg4GMNscLbA=="
 ---
 

@@ -8,7 +8,7 @@ webUrl: "https://www.computerworld.com/article/3584779/microsoft-365-to-get-big-
 ampWebUrl: "https://www.computerworld.com/article/3584779/microsoft-365-to-get-big-nvidia-ai-editing-boost.amp.html"
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3584779/microsoft-365-to-get-big-nvidia-ai-editing-boost.amp.html"
 type: article
-quality: 78
+quality: 80
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ topics:
   - AI
   - Microsoft AI
   - IBM AI
+  - AI Hardware
 
 images:
   - url: "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_robot_touch_human_hand_by_kentoh_gettyimages_1060703206-100817766-large.jpg"
@@ -42,6 +43,22 @@ related:
     quality: 91
     images:
       - url: "https://newsd.in/wp-content/uploads/2020/09/newsd-amp.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Microsoft parteners chip maker Arm to boost AI innovation for IoT devices"
+    excerpt: "SoftBank-owned UK chip maker Arm has partnered with Microsoft to create Azure-based tools to enable developers transfer data from Arm-based Internet of Things (IoT) devices to Azure Cloud"
+    publishedDateTime: 2020-10-09T05:56:00Z
+    webUrl: "https://www.business-standard.com/article/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 90
+    images:
+      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-09/29/full/1601348370-9773.jpg&width=1200"
         width: 1200
         height: 900
         isCached: true

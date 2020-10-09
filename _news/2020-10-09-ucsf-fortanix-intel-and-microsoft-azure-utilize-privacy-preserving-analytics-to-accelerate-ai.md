@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Microsoft parteners chip maker Arm to boost AI innovation for IoT devices"
+    excerpt: "SoftBank-owned UK chip maker Arm has partnered with Microsoft to create Azure-based tools to enable developers transfer data from Arm-based Internet of Things (IoT) devices to Azure Cloud"
+    publishedDateTime: 2020-10-09T05:56:00Z
+    webUrl: "https://www.business-standard.com/article/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 90
+    images:
+      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-09/29/full/1601348370-9773.jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Tamr Announces the Only Cloud-Native Data Mastering Solutions for Google Cloud Platform, AWS, and Microsoft Azure"
     excerpt: "PRNewswire/ -- Tamr, Inc., a cloud-native data mastering platform used by some of the world's largest enterprises"
     publishedDateTime: 2020-10-07T13:35:00Z
@@ -73,7 +89,7 @@ related:
     provider:
       name: Computerworld
       domain: computerworld.com
-    quality: 78
+    quality: 80
     images:
       - url: "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_robot_touch_human_hand_by_kentoh_gettyimages_1060703206-100817766-large.jpg"
         width: 1200
@@ -200,6 +216,6 @@ related:
       domain: sify.com
     quality: 36
 
-secured: "cUnP0cGAXx3ZqaV40rnLze2oIfA9+Qz2arQM3pp1e7ZR0VO63D6F1gQSwECT0DPpFqEbRj/zTXcMT+Maycr82Rcy7fM4ocsUZZ46hOkB2pBljyuVl/DFK+k8aEdkPNywWBxBzYrGp43VYu7EI2yeY2HVaroLiUI3d+aECRqTARN3RMri05OLSSyU47D5RTzOgrOSNMpFHAR3h1nbjuVl+eQI7IxqPINKwoVXTI/tnLF744y0AYtR+c7qzDsNSF8l0qeD6weV5dPFpz31b88p5Xzo45xCzw9XzuZ9lSPNqSPnFmGBRyot4/T0jcWZV1F/rBoB5JGbxFp94KAQMvjxocXypzDSlDM6LCvPSENJUEE=;cXDHybiEgMOZ41j6eU2PVg=="
+secured: "ihiLaOdK4Pg/0uyPV/AlnOxtp0rNflQM/9WKAFA6VVEnOo77IPeEoEQa/xnvsBVuFNpLYYyTe6IBbyAc9cpBfvZPllhg+4Z3pAU1lTR20lC7ApRNm41PaHyrbCeqTHkRqv9wkEmhfRemsQuR67d5ElOrcfA3Jiv0hF447Mun35uOuv4CzbDoR1uoWP3pwca+Wrd+hpFanXv3Y6ouL0iRL4ZvI2SmAczEbAGDHhIhWKqfrLxz6K4p2VRKHJmBTZ6k0g0bQubte/XQiGQVdgsr6ZF4eSV8DMcNksx01z1eHVyDjUMM2LxwElyMm+G3cQbngrr5l9T/PGMMhxfT/PxFv9WQsPt+0iM4FrQXHMLrKrZbwSJpRII6bJ2Ugzf9+WI3wRGdP/2oZ0KroqYlB9bm8MwqOHOp/CdP5v20mji2e2on/FFhdwEQxE3FGTh1rLh9eO9Fqamts0Psjc+rzy/DbW5m8YFGSAwqQ1q5qkwCluoGpwiJNPDTYTu3TsiiChB5uOYrtZI1PSMhxbjq6AHuXg==;lP6kRcQYv3Gxpougv9QaGw=="
 ---
 
