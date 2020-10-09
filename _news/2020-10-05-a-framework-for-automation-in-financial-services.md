@@ -58,6 +58,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "The State of AI in Higher Education"
+    excerpt: "Both industry and higher ed experts see opportunities and risk, hype and reality with AI for teaching and learning."
+    publishedDateTime: 2020-10-09T16:34:00Z
+    webUrl: "https://campustechnology.com/articles/2020/10/09/the-state-of-ai-in-higher-education.aspx"
+    type: article
+    provider:
+      name: Campus Technology
+      domain: campustechnology.com
+    quality: 41
+    images:
+      - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/2020-images/20201009ai.jpg"
+        width: 644
+        height: 300
+        isCached: true
   - title: "Responsible Artificial Intelligence for Social Empowerment"
     excerpt: "Ravi Shankar Prasad Success of Digital India has set a new global benchmark for leveraging digital technologies for inclusive growth, good governance and"
     publishedDateTime: 2020-10-05T19:08:00Z
@@ -85,20 +99,6 @@ related:
       - url: "https://www.arm.com/blogs/blueprint/wp-content/uploads/2020/10/dipti_topimg.jpg"
         width: 1940
         height: 980
-        isCached: true
-  - title: "The State of AI in Higher Education"
-    excerpt: "Both industry and higher ed experts see opportunities and risk, hype and reality with AI for teaching and learning."
-    publishedDateTime: 2020-10-09T16:34:00Z
-    webUrl: "https://campustechnology.com/articles/2020/10/09/the-state-of-ai-in-higher-education.aspx"
-    type: article
-    provider:
-      name: Campus Technology
-      domain: campustechnology.com
-    quality: 39
-    images:
-      - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/2020-images/20201009ai.jpg"
-        width: 644
-        height: 300
         isCached: true
   - title: "India startups leading movement on AI innovations to create solutions for the world"
     excerpt: "ResponsibleAI for Social Empowerment 2020’summit witnessed discussion on themes like leveraging AI for pandemic preparedness, role of AI in fostering"

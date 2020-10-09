@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-10-05/voyage-ceo-ol
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-05/voyage-ceo-oliver-cameron-on-robo-taxis-self-driving-cars-and-coronavirus"
 type: article
 quality: 85
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://robbreport.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-08-at-9.jpg?w=1000"
         width: 1000
         height: 562
-        isCached: true
-  - title: "Raining on the parade of self-driving cars"
-    excerpt: "Developing sensors that enable autonomous vehicles to cope with tough weather conditions is tricky – and the economics may be more challenging still"
-    publishedDateTime: 2020-10-09T16:39:00Z
-    webUrl: "https://physicsworld.com/a/raining-on-the-parade-of-self-driving-cars/"
-    type: article
-    provider:
-      name: Physics World
-      domain: physicsworld.com
-    quality: 39
-    images:
-      - url: "https://physicsworld.com/wp-content/uploads/2020/10/bad-weather-caution-497639283-iStock_trendobjects.jpg"
-        width: 1200
-        height: 797
         isCached: true
 
 secured: "C4KfTFw+DlZbR3EHwIB+1IbegbW+Zt13apQ0NgFAiNfgl0ZanD11A9bdRQe0JDgc3mHOJyK5h7rwAA1nQy90W2sFGOZYvI8NZK/fVZu4BOghZx4qgbD4hpLKYBLmGmVJErpSIZ7sgFMSlt/SdvFM8R2i5velp/OxtR/BfvAUYRNiBwyc4BtCa1FKG91b2PSYpXpnoq8vSEf2zH06aL3jGXdmDv+r9R7tG3QgpvnILQbyE/ZjWKYXmPyYKYIltS2G9jGL+1D7jpjYBzAdcbf1eHO+R3Rjug4uFRnwOGRMFMHTyH+tiAHVxjl3eG2f89faXSZvrIhd7Rhazy9U0JSg/ACIS3rKfwCXIsSfdz9FcGhutZV3f+5LtMKJb9JMMupQZTyLMUgGbir0fSpWeE9AZELIk+oA8UNp5S7c7jtmDzZTRnS0EbWuVHH6JDhqpXb6CIGqMgIbQwEeduSJo4CfniI+vkKvbQrt3CZZ8QsLe9Rhwmu3DS1jpkeog++oSZStjqD2UqyVEwsp6bB4UWZcMA==;C+3a1d/1v1lZAH0eSiQeqQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lianeyvkoff/2020/10/06/this-startup-has
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lianeyvkoff/2020/10/06/this-startup-has-a-plan-to-build-the-missing-link-for-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk says Tesla’s Full Self-Driving suite is coming to Japan"
-    excerpt: "Driving suite is among the most sophisticated and advanced driver assistance systems in the world. As self-driving and semi-autonomous software is relatively new, many features have yet to be approved in markets outside of the United States."
-    publishedDateTime: 2020-10-06T23:29:00Z
-    webUrl: "https://www.teslarati.com/tesla-elon-musk-fsd-japan-coming-soon/"
-    ampWebUrl: "https://www.teslarati.com/tesla-elon-musk-fsd-japan-coming-soon/amp/"
-    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-elon-musk-fsd-japan-coming-soon/amp/"
-    type: article
-    provider:
-      name: Tesla News
-      domain: teslarati.com
-    quality: 59
-    images:
-      - url: "https://www.teslarati.com/wp-content/uploads/2019/09/tesla-model-3-white-japan-1-1024x599.jpg"
-        width: 1024
-        height: 599
-        isCached: true
   - title: "Seegrid acquires robotics startup to boost “situational awareness” for its self-driving vehicles"
     excerpt: "Fresh off the news that it had closed a $52 million funding round last month, self-driving vehicle provider Seegrid is keeping its foot on the gas in its drive to position its vision guided vehicles (VGVs) in the material handling sector,"
     publishedDateTime: 2020-10-06T19:38:00Z

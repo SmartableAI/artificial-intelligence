@@ -43,20 +43,6 @@ related:
         width: 360
         height: 239
         isCached: true
-  - title: "Raining on the parade of self-driving cars"
-    excerpt: "Developing sensors that enable autonomous vehicles to cope with tough weather conditions is tricky – and the economics may be more challenging still"
-    publishedDateTime: 2020-10-09T16:39:00Z
-    webUrl: "https://physicsworld.com/a/raining-on-the-parade-of-self-driving-cars/"
-    type: article
-    provider:
-      name: Physics World
-      domain: physicsworld.com
-    quality: 39
-    images:
-      - url: "https://physicsworld.com/wp-content/uploads/2020/10/bad-weather-caution-497639283-iStock_trendobjects.jpg"
-        width: 1200
-        height: 797
-        isCached: true
 
 secured: "5o4ouWSEf5HqbtD0iSrXOyqjg2TwRq0l0mvT9UZLI94C8Cfvd/WXPtc2BSr5xtIBsi3JBbH80+EJzWsR3hdXl1YFjchv5aZrhykn0qyyqXLfZZlK77tzmoJFclGIWWS6jO5opKU5pCJXFKIW3QandxJ2trUjjw8nWjJl4aEf+WhdmKRWzLtRw0f1i0HofaB5louBQRuDRMigwFjjn5q6+FL+U6ExttXNxkzdtm3aloI/QcQm3t3L82fpa2Ob0V6OJ98mcLRhI9jIQHxNPrmE4DkQ4jwG11+8naOsJWcqeKjO79kkArh9ZJlRl2n3HlBezGzSP0zTKEFPlWswJTrHKR671Qrw1EgF758ToqczC6Wm+iy3N8meQweg1trID6H8l25z/SqC2Iz7LJm6E6TrMl61iDfCsBe8ma4y6i301eEEi8X/CIDKOhwojWTp4BOJq4p/uDRjKdfzR4lfOWdum9WT4xs7msdqUotTu57dncPqg040dQCtmy1bAsSW6CLo5ouArxzh7Pr/sj1JhWA3VQ==;cTu6tt1GRUonOD21Z+DeMA=="
 ---

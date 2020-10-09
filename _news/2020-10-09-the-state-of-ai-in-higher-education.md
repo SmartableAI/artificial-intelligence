@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-09T16:34:00Z
 originalUrl: "https://campustechnology.com/articles/2020/10/09/the-state-of-ai-in-higher-education.aspx"
 webUrl: "https://campustechnology.com/articles/2020/10/09/the-state-of-ai-in-higher-education.aspx"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI Ethics
 
 images:
   - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/2020-images/20201009ai.jpg"
@@ -111,6 +112,6 @@ related:
         height: 422
         isCached: true
 
-secured: "ec0DGpBS45tHUqgKXbS4uNL1R0PhcXnTi7klo6NYYWkSod0x91Q5D899yuLtWmXlFFw0GGc3Yighr6fqEmYa2r8FvqSIDuD0nosP+CLSkrvaaFz6R3uCWcVngTFUjaZr2vMSCkEWTTGZeBj6Otk3gmv9LwBW2UATkJY5qFmYdt5yegGCFsR4KoDnOnO3toffCSTe8wqZzzh0aHuclDw1juKykFO3KfsUC2FU1CYgjFGc+1wIYUfJ4Ffi2v+hEz8IcMwx30IJtzpB5xqT6NrFwaR/lqgv9bcz+J6WF85+GMxOVoiDbS5dwGNn+L31Cu5SaxcccoIogVCjk360/P79xeiMyRsgDFtKCODNUpWeJsw=;mY9bnW9LFvDb574Q5nJIBQ=="
+secured: "X4p8ljri61p3BuaOqYZjaTWlzP7CaoGH45mhpPqkWVoYEduiFIOpZXmEarWsiNXRQBHV4Z0/ZvuFsLiMPkzfW+OVSIAYQRCaEPcN23YXvBiOCnS5J42+/gGVKMBMMrvroWgcbXpRdc6wY15FUYWNgVpCav0+9EsJh17dSr0KhD1xe01PyGHq8fZt3KvZCrqERA8sJHyUMLMsuAfrlf/DDFezXv5hWnCFPONDou/ixMhVpkpH7h9GMOwE1rOCTpE2LrodT4r+cdvFpnsh1gkRFL6eGjcZT8RfHWmZMjTh71g6Jk33sJ8sdKC1jo0jA5UbvJzq1OhmY+wTH9GP0eR2GKAXFsnu86606g0XWXNDcab8ADGq+dZzDLv+WhY9kgTdSAlx3cLqurz48M6ElzqXc9Xo6/L1tEfblowIvTaMtkuolG/6bu1N0pnnuVNMwxQnHcHRBVo2ndqgcqjJnznMXBs2D7ACc9pvQRU0qWE+/8xQNmXFZtlJJtgAzgBuPbr+gCA+07csDm7qp0bCjT6JWw==;LEGzWVmqgi5tgHkJhXQcnQ=="
 ---
 

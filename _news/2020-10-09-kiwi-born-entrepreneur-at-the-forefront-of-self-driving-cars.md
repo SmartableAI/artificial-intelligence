@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 482
         isCached: true
-  - title: "Elon Musk says Tesla’s Full Self-Driving suite is coming to Japan"
-    excerpt: "Driving suite is among the most sophisticated and advanced driver assistance systems in the world. As self-driving and semi-autonomous software is relatively new, many features have yet to be approved in markets outside of the United States."
-    publishedDateTime: 2020-10-06T23:29:00Z
-    webUrl: "https://www.teslarati.com/tesla-elon-musk-fsd-japan-coming-soon/"
-    ampWebUrl: "https://www.teslarati.com/tesla-elon-musk-fsd-japan-coming-soon/amp/"
-    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-elon-musk-fsd-japan-coming-soon/amp/"
-    type: article
-    provider:
-      name: Tesla News
-      domain: teslarati.com
-    quality: 59
-    images:
-      - url: "https://www.teslarati.com/wp-content/uploads/2019/09/tesla-model-3-white-japan-1-1024x599.jpg"
-        width: 1024
-        height: 599
-        isCached: true
   - title: "Seegrid acquires robotics startup to boost “situational awareness” for its self-driving vehicles"
     excerpt: "Fresh off the news that it had closed a $52 million funding round last month, self-driving vehicle provider Seegrid is keeping its foot on the gas in its drive to position its vision guided vehicles (VGVs) in the material handling sector,"
     publishedDateTime: 2020-10-06T19:38:00Z
@@ -72,6 +56,6 @@ related:
         height: 2615
         isCached: true
 
-secured: "0mXqWqE8kNhrhueEZHVRKpLeEAnt+/SYwAXojXJ1eeErBYFvFOGHTT5So1Vc73NhXKgdIigTa219271bS6YqYbQHPkz58Q1CIRqWfIva86x3CajUQh0Bk9hU/PTj11W2ftmoXKyC+XeAPLI646v/qh4gAi69t1vdK2Jh+CW1jps7UkIPPejGxCo5nCPMEusP2BRSX0wYo9o6JhMy3DtrpH1/q04RLXIS+5XSGmnBuFXeYrEdqPHkSYC3wTf3jtTWNaW4QjL/1RDUlcxWmkE0eacCYdd99LPo+OPW7snwBJtZsZzQbjUCHFge1fHWYMicRgW724e9ciSeSFdBxe6TlhcpJ8VBpAn1flYAX9TrXIM=;eDOmpn16+p8TnUtInd4nrA=="
+secured: "6t6t8XJV+TeP9ZFQhyDBsOw3oM1p8rWcwKJVQ0Ta5HSAlFD2BxGcAWqIDBdXa4zYvuGRn/b0A2L4Xmvbmotq1IfqMakU7a2x1cQLy+oqXS9dIfoqpT7yQDOLklqXzsK16l3I6TzrztbPWGlutj0fflb9CVBVhRF1wPAG2LzMomaZtnRdbFyzJU88DowDT/YqXCVLeuV09MJ3g3lkiAzgN9lcPFMOqGofNlfr2lIfi0uFgxP7i1/3y+K+fXDjFtEnP31hC5+PFZ5vbre3hYMfCJcZYAClKCEi2wSi7JaXsk9wvSJnjzxmfET5h1r1naWzC/HQrRTXCzEwAJ2SzSHUl9GhSXFBaXGru+8OSfs/0u9cfEH15tuG7VOFxjejXBlkKI4z53TIJ7I6kNvsCt2FA2hK6TU38cjegL06pW+xUU0xM1ogcZj+UnwWbvzGfrw7yyYzoACBksBA0r4cHdh9tY19IoHGEaHzuGZpEdwljEAwkTJYkFDXeLGRSWtjCNYwQXNCIbuQVlQ4RJGt9kmS/A==;Z6izrs5qKaxMFaQIpVKXuw=="
 ---
 

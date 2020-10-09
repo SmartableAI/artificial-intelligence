@@ -27,49 +27,67 @@ images:
     isCached: true
 
 related:
-  - title: "This Startup Has A Plan To Build The Missing Link For Self-Driving Cars"
-    excerpt: "These robust, solid-state sensors are one of many essential components auto manufacturers need before they unleash self-driving vehicles on the market. While they’re not the only variable of the autonomous vehicle equation that needs to be solved,"
-    publishedDateTime: 2020-10-06T15:17:00Z
-    webUrl: "https://www.forbes.com/sites/lianeyvkoff/2020/10/06/this-startup-has-a-plan-to-build-the-missing-link-for-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lianeyvkoff/2020/10/06/this-startup-has-a-plan-to-build-the-missing-link-for-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lianeyvkoff/2020/10/06/this-startup-has-a-plan-to-build-the-missing-link-for-self-driving-cars/amp/"
+  - title: "Adorable red self-driving robot delivering mail in Japan during pandemic"
+    excerpt: "A Japan Post mail delivery robot debuts in Tokyo, and is being tested to keep human interaction to a minimum during the coronavirus crisis."
+    publishedDateTime: 2020-10-09T19:25:00Z
+    webUrl: "https://www.cnet.com/news/adorable-red-self-driving-robot-delivering-mail-in-japan-during-pandemic/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/adorable-red-self-driving-robot-delivering-mail-in-japan-during-pandemic/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/adorable-red-self-driving-robot-delivering-mail-in-japan-during-pandemic/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: CNET
+      domain: cnet.com
+    quality: 105
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f56f7ca3aeac44f89cd6817%2F0x0.jpg"
+      - url: "https://cnet4.cbsistatic.com/img/2ZG9ZsmU2Kgz845wDeGvuVSdlDA=/2020/10/09/650978af-dde5-4803-8185-35f85a7ef12c/japanpostrobot1.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Delivery During Coronavirus: Japan Post Goes Extra Mile, Tests Robots for Last-Mile Shipment"
+    excerpt: "Following the footsteps of other countries, Japan Post testing DeliRo robots that can carry weights up to 30 kilograms and deliver packages within a kilometer radius"
+    publishedDateTime: 2020-10-07T13:11:00Z
+    webUrl: "https://www.ibtimes.sg/delivery-during-coronavirus-japan-post-goes-extra-mile-tests-robots-last-mile-shipment-52288"
+    ampWebUrl: "https://amp.ibtimes.sg/delivery-during-coronavirus-japan-post-goes-extra-mile-tests-robots-last-mile-shipment-52288"
+    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/delivery-during-coronavirus-japan-post-goes-extra-mile-tests-robots-last-mile-shipment-52288"
+    type: article
+    provider:
+      name: Ellen
+      domain: ibtimes.sg
+    quality: 48
+    images:
+      - url: "https://data.ibtimes.sg/en/full/43136/deliro.jpg"
         width: 1200
-        height: 482
+        height: 898
         isCached: true
-  - title: "Seegrid acquires robotics startup to boost “situational awareness” for its self-driving vehicles"
-    excerpt: "Fresh off the news that it had closed a $52 million funding round last month, self-driving vehicle provider Seegrid is keeping its foot on the gas in its drive to position its vision guided vehicles (VGVs) in the material handling sector,"
-    publishedDateTime: 2020-10-06T19:38:00Z
-    webUrl: "https://www.dcvelocity.com/articles/47371-seegrid-acquires-robotics-startup-to-boost-situational-awareness-for-its-self-driving-vehicles"
+  - title: "Raining on the parade of self-driving cars"
+    excerpt: "Developing sensors that enable autonomous vehicles to cope with tough weather conditions is tricky – and the economics may be more challenging still"
+    publishedDateTime: 2020-10-09T16:39:00Z
+    webUrl: "https://physicsworld.com/a/raining-on-the-parade-of-self-driving-cars/"
     type: article
     provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 43
+      name: Physics World
+      domain: physicsworld.com
+    quality: 39
     images:
-      - url: "https://www.dcvelocity.com/ext/resources/images/articles/2020/202010/Seegrid-MediaKit-Image2-1.jpg?height=635&t=1602009585&width=1200"
-        width: 4649
-        height: 2615
+      - url: "https://physicsworld.com/wp-content/uploads/2020/10/bad-weather-caution-497639283-iStock_trendobjects.jpg"
+        width: 1200
+        height: 797
         isCached: true
-  - title: "Kiwi-born entrepreneur at the forefront of self-driving cars"
-    excerpt: "From Otago University, to IBM, to algorithms for the Mars rovers, Dave Ferguson has spent many years stopping robots running into walls."
-    publishedDateTime: 2020-10-09T16:07:00Z
-    webUrl: "https://www.stuff.co.nz/technology/122919128/kiwiborn-entrepreneur-at-the-forefront-of-selfdriving-cars"
+  - title: "For third year running, U of T Engineering team wins international self-driving car challenge"
+    excerpt: "A team of students from the University of Toronto has placed first in an intercollegiate challenge to transform an electric car into a self-driving one – the team’s third consecutive win in the"
+    publishedDateTime: 2020-10-06T04:13:00Z
+    webUrl: "https://indiaeducationdiary.in/for-third-year-running-u-of-t-engineering-team-wins-international-self-driving-car-challenge/"
+    ampWebUrl: "https://indiaeducationdiary.in/for-third-year-running-u-of-t-engineering-team-wins-international-self-driving-car-challenge/?amp"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/for-third-year-running-u-of-t-engineering-team-wins-international-self-driving-car-challenge/?amp"
     type: article
     provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 24
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 33
     images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/o/p/x/2/image.related.StuffLandscapeSixteenByNine.1420x800.216l08.png/1602116585589.jpg"
-        width: 1420
-        height: 798
+      - url: "https://www.utoronto.ca/sites/default/files/48133558181_a093a44397_o.jpg"
+        width: 1140
+        height: 760
         isCached: true
 
 secured: "zUhkr7rB++XaIM0xwmEVDtPqtM8/YQ8AYue5UCfGcvayPtUrktokVAxjc0cfNwNC5PLCWWDm91cdIPz1zWYxws4h1ilkpczK89FOQBUCeQ2Ys6TsJInQVdoBv6aRhSQKR7pXZtHnY+FZw8kqyTMlO1oPW1ZHLDZMJy0XAozarsA+BTzuehiToTmNLN/6U7eI2FzMaCl8gZ/HaHXNGAQgBZKcDMGtUmsbK1nJWSQmlhQg8ZFFNV1cFW3lBhisrDARutD4fnMH1erELmIOXR2E8D1Ti1IIVcxSDkXvy07hzbI6wF0o1fLcJuMIHaSjENlS5+N1UZ71YJeQkUGz2T9dr/ByoW9qTBvY+kCCiG/qk0NYdFqxE8jKt//Dooogd80eg3SXS2HmylDjOG+iVHQkj2bCSPde3FnU+ly1CB0g7YCuFE0myf9Y7sHqZWTsnT+18lDU52MWGq/ksbnWaS34aYk84YFrwge50SAZBWpFNIbl1l5oFtPiP9R5EF5eM7b3yIgPpITgLq/c6z4lYDYm1Q==;VFcqDvluazdRo8IdpGoKVA=="

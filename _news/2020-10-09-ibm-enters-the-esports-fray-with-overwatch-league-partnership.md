@@ -3,10 +3,10 @@ category: news
 title: "IBM enters the esports fray with Overwatch League partnership"
 excerpt: "IBM has announced its debut into the esports arena through a multi-year deal inked with the Overwatch League.  Esports is roughly described as competitive videogaming, team-based play, and digital tournaments."
 publishedDateTime: 2020-10-09T11:56:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/"
-webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/"
+originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/"
+webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/"
 type: article
 quality: 54
 heat: -1
@@ -141,6 +141,6 @@ related:
       domain: nasdaq.com
     quality: 2
 
-secured: "nPfr4p9iA6ohOdhgz2inM5Bi4GR2NLBYk3SLDsR6l0tnpo0H9TvwEuBVJxqx/hd843TkqYQ219BQXDs2oSSPR84LCeUIuZaX5JS04WBh41md24JvnelMvP4yTz+nG+EC8ixWx9LiKhTbxU/P78PgBUCiI8T6ninEeo8IhG33pg50R/ywc+RFryCogXsZuBgN1+sC9XBx/GL4RAGuHSmd7H8WIdS6i7RLLiaDDACqZkcGU9n/2bC4pKy9XkUXGB0ubyBgKvT5nqrZJr7pq5yVmPYbaxgm190DYx0lhxRp/4xjHFEkYTaTKjMPvA7NZX504hJIKetuqYYVDHPNQ9SRdklq1ikRAwgC/PyyfMxsTIwlCWashknkYitI4UPRQ/9v8yKE1EDPzbWbNCiM2hfa7wTuBV0ZrZNQoS3sMre8jrqjgasqXl7k2uYVnja2RnRC3fqzWOvG1UK/muCBsPL1zZkpPiPIT11ANIlY2/7LT8VryZUSF+mX8QA+I3W+cECLNdQcxyUbKUV9PmMyummQbg==;Fqes1Qw/ofrM3XgimZ7gxQ=="
+secured: "Ccyp7hjd1eb6XWcPia11AmX+VGjm0varm9FO5iFo13yh823RJ1JlUFLN4BZRD88Mq4RJbu7Lg08Yp7KuJ2u9xnBnJ3JbJFBlU653bIdDMEdIxBAZ6tnJ5mh4bLjVNT1QnuSIkad09hPrCQ+KFroNUGRG8J/f7QkSC+ZhPKubCTTafSSIYE2v2dmJcoK744ybi3POL6szP5N6J/6LPBg+5FOaPwMXRzjeUS6nee2+5U7NUhXXP7vTD8vQBnkUjdlZmlCXwA+dYgkwAh2wB6Vbc+U2EX0TRBbKoJYDrJ76bkMQwor50g2jyXKlpEclYovBudTcG7h6VjdcwWQze9YTztmerz7ozz+1++g7iYaytv17FSanUDyy4fm8XTWqa+PnGNT6Spuq0Lv2Qdfl2UD7ID+qUIpKFELjlOWwM3I8fVGb10k2VFK4fKAmqHXWZNocxzdv6U5Odr9ZH8OmSlAw4zgO2HCli89A+H7nH8Xok+I6P3k4XwVtBv+r36M6a53AsiatEF1UwSl/KJmt4u0TGg==;2Vv0xJQt/Zjh0AKU1SfFqg=="
 ---
 

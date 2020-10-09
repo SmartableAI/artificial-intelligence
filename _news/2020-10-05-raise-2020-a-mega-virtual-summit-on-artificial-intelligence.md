@@ -9,7 +9,7 @@ ampWebUrl: "https://www.oneindia.com/amphtml/india/raise-2020-a-mega-virtual-sum
 cdnAmpWebUrl: "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -98,17 +98,6 @@ related:
         width: 1120
         height: 629
         isCached: true
-  - title: "PM Modi to inaugurate global AI summit RAISE 2020 today. What you need to know"
-    excerpt: "Prime Minister Narendra Modi addresses the nation in New Delhi in this file photo. PM Modi will inaugurate a five-day global virtual summit on artificial intelligence (AI) - Responsible AI for Social Empowerment or RAISE 2020 on Monday. (ANI Photo ..."
-    publishedDateTime: 2020-10-05T01:39:00Z
-    webUrl: "https://www.hindustantimes.com/india-news/pm-modi-to-inaugurate-global-ai-summit-raise-2020-today-what-you-need-to-know/story-2Jb9kVQYO4jNEa4yQsrA4M.html"
-    ampWebUrl: "https://m.hindustantimes.com/india-news/pm-modi-to-inaugurate-global-ai-summit-raise-2020-today-what-you-need-to-know/story-2Jb9kVQYO4jNEa4yQsrA4M_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/india-news/pm-modi-to-inaugurate-global-ai-summit-raise-2020-today-what-you-need-to-know/story-2Jb9kVQYO4jNEa4yQsrA4M_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 33
 
 secured: "hQGZEa12zS1xM+5L8LSAjagntQGT2qBpRUBBEy5AweaWb7GweatLalJhB+Mh6Bx2EewKsEjLgluf60JNXiDwnrHwcQ8RaXTwSzmGU6VeIYVy79e5gIWvDqQdTyzc+EwYkBQ2eWiKf/4n3THB7WEQ/TIn52FURTh3ZVN+tTDkIlR8ndgC+JZJwxUgMcn8ZroBRLZK3QyCfdWmRsLQBBXECzbvyw4GhSq/QuyiWurJ6hx6a7oxRZj2V+I1p8NOnIOeEx9gZMekfbOVcxEpF+DSoKle/ajxXH0rMy/A+vEUegXtJCJ1rCnUKH9qrKo56Ik0NiK0iTqDgi/TP52vgr5z7pn0Gn+AylZ3gARJ/3Gg1hP5TQU1wlTyWcvQVUjwYKIO7MrkQiRS61JqR8W4m5/LvOz4K9VbTqla6VQ1m4k+5d6v/75cZUn6N6cw+WHvjEY9Y9UVSMq7UwDJaFTi+ZPzcw0xodd5hu1qj/+vVAJw2PY0jApXBTEwSTZWah2XD+BkXyaNsnsqksMPEG+As9bs9w==;IcOk7+BVnMRoFpb65Ssoug=="
 ---

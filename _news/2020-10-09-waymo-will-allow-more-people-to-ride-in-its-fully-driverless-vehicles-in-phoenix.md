@@ -79,6 +79,22 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Waymo Ditches Human Safety Drivers in Its Self-Driving Taxis"
+    excerpt: "Waymo One, the self-driving taxi service operated by Google parent company Alphabet’s autonomous vehicle offshoot, is back after a pandemic hiatus, and it’s opening its doors to the public. As it does,"
+    publishedDateTime: 2020-10-09T18:20:00Z
+    webUrl: "https://futurism.com/waymo-ditches-safety-drivers-self-driving-taxis"
+    ampWebUrl: "https://futurism.com/waymo-ditches-safety-drivers-self-driving-taxis/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/waymo-ditches-safety-drivers-self-driving-taxis/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 59
+    images:
+      - url: "https://wp-assets.futurism.com/2020/10/waymo-opening-autonomous-taxi-service-public-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "gPBevjBZ78+Gl5B+XhTzx8Z8s2pPrruATjDcBGOc5cbEOubYo+LNCi2R2YG7V/yOJddlLOCGgGx3URcd2K2pJW+G20iaA2kTuh/02HKnN+3mlfUjBrHdcQM2X4wRqoFCeDZ0IJ0VDJTScSfas7Ia5EYiU7IjgPlxvGfmRrb+qGyakln5Dqejk01RSL/z99zKzdBU7OcGn3NVrkxFYRJFLMX3RWfJEhMIrHHHLhxVPKWFc6kaXY/f4sSPsZtQDgX1BcJO25EWKy4cp4QuTqezPopBcIfQeqzquwuFCxvi9CgwJy9bhQFm5JVAKOeQHGweoxXKJYopuFTWXYEn47lhwREUmW5VEtpAqx7IaI3NQP5qCOrFy8CLUWc+mrROkGHTKFOkoKFThtEKm+dZ+RWc9Ihy2fwY7+LUx+3WZIRg9F8QRC1LEdYk4bPHV4YWAwoU+vxXfegD9DfKriEtAE5XL+eaOXVACs5jYZFTmAOUUShXUdkrhOPuunx7fWyWEhB7z1UWj08EFXrIuhiGKsEo5A==;iwyhdlvVAOgnBQWwSsvH7g=="
 ---

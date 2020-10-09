@@ -7,7 +7,7 @@ originalUrl: "https://www.brusselstimes.com/news/eu-affairs/135068/ai-eu-coronav
 webUrl: "https://www.brusselstimes.com/news/eu-affairs/135068/ai-eu-coronavirus-european-union-artificial-intelligence-ku-leuven-covid-19-solutions/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Delivery During Coronavirus: Japan Post Goes Extra Mile, Tests Robots for Last-Mile Shipment"
-    excerpt: "Following the footsteps of other countries, Japan Post testing DeliRo robots that can carry weights up to 30 kilograms and deliver packages within a kilometer radius"
-    publishedDateTime: 2020-10-07T13:11:00Z
-    webUrl: "https://www.ibtimes.sg/delivery-during-coronavirus-japan-post-goes-extra-mile-tests-robots-last-mile-shipment-52288"
-    ampWebUrl: "https://amp.ibtimes.sg/delivery-during-coronavirus-japan-post-goes-extra-mile-tests-robots-last-mile-shipment-52288"
-    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/delivery-during-coronavirus-japan-post-goes-extra-mile-tests-robots-last-mile-shipment-52288"
+  - title: "Artificial intelligence Vivacity cameras to monitor coronavirus social distancing 'in pipeline' for Kent prompting privacy fears"
+    excerpt: "Artificial intelligence cameras that can monitor social distancing are \"in the pipeline\" for Kent's town centres prompting privacy fears."
+    publishedDateTime: 2020-10-06T16:54:00Z
+    webUrl: "https://www.kentonline.co.uk/kent/news/cameras-to-monitor-social-distancing-in-pipeline-for-kents-town-centres-235059/"
+    ampWebUrl: "https://www.kentonline.co.uk/kent/news/amp/cameras-to-monitor-social-distancing-in-pipeline-for-kents-town-centres-235059/"
+    cdnAmpWebUrl: "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/kent/news/amp/cameras-to-monitor-social-distancing-in-pipeline-for-kents-town-centres-235059/"
     type: article
     provider:
-      name: Ellen
-      domain: ibtimes.sg
-    quality: 48
+      name: Kent Online
+      domain: kentonline.co.uk
+    quality: 28
     images:
-      - url: "https://data.ibtimes.sg/en/full/43136/deliro.jpg"
-        width: 1200
-        height: 898
+      - url: "https://www.kentonline.co.uk/_media/img/H5WQPTMGPTVQC1BI7VF5.jpg"
+        width: 715
+        height: 492
         isCached: true
 
 secured: "kY/5Klf48FsL0kk0m91y9OJIA32L5J0ON3T+SsenBg4ppnPRxuNkV3t57JRpgmYaGcm7QY3ZcFpW+Kayd448Ne+H0KG0cifhy+XEHnGll9iiKSgHjc/E93+VzknX6qstropmUz6YvyWMrOVJJyA0tNVT5IWjfIuRnmVsl4UClYtgH1L5XFrna14t+lE56ZaqTLpRZC4HSzc9iUibDJ4MQQjldbKARuySA6JyjOyYGCY7C57HkxMu2brCS9G8Vk2axeeZdNzBC/6zhAiogdndetXQgG74RN9Be4cTn35fmG65LkvBiKfgx7xhXLsjPOvC21oqjNxh1PpatrcLuE6ZMkgZgHN0s97OGCIRGntL+4A=;/VisuCrGs5W09E1fWHIViw=="

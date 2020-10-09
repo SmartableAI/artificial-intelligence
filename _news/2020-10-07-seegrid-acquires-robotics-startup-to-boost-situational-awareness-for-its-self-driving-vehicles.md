@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 482
         isCached: true
-  - title: "Elon Musk says Tesla’s Full Self-Driving suite is coming to Japan"
-    excerpt: "Driving suite is among the most sophisticated and advanced driver assistance systems in the world. As self-driving and semi-autonomous software is relatively new, many features have yet to be approved in markets outside of the United States."
-    publishedDateTime: 2020-10-06T23:29:00Z
-    webUrl: "https://www.teslarati.com/tesla-elon-musk-fsd-japan-coming-soon/"
-    ampWebUrl: "https://www.teslarati.com/tesla-elon-musk-fsd-japan-coming-soon/amp/"
-    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-elon-musk-fsd-japan-coming-soon/amp/"
-    type: article
-    provider:
-      name: Tesla News
-      domain: teslarati.com
-    quality: 59
-    images:
-      - url: "https://www.teslarati.com/wp-content/uploads/2019/09/tesla-model-3-white-japan-1-1024x599.jpg"
-        width: 1024
-        height: 599
-        isCached: true
   - title: "Kiwi-born entrepreneur at the forefront of self-driving cars"
     excerpt: "From Otago University, to IBM, to algorithms for the Mars rovers, Dave Ferguson has spent many years stopping robots running into walls."
     publishedDateTime: 2020-10-09T16:07:00Z

@@ -98,17 +98,6 @@ related:
         width: 1120
         height: 629
         isCached: true
-  - title: "PM Modi to inaugurate global AI summit RAISE 2020 today. What you need to know"
-    excerpt: "Prime Minister Narendra Modi addresses the nation in New Delhi in this file photo. PM Modi will inaugurate a five-day global virtual summit on artificial intelligence (AI) - Responsible AI for Social Empowerment or RAISE 2020 on Monday. (ANI Photo ..."
-    publishedDateTime: 2020-10-05T01:39:00Z
-    webUrl: "https://www.hindustantimes.com/india-news/pm-modi-to-inaugurate-global-ai-summit-raise-2020-today-what-you-need-to-know/story-2Jb9kVQYO4jNEa4yQsrA4M.html"
-    ampWebUrl: "https://m.hindustantimes.com/india-news/pm-modi-to-inaugurate-global-ai-summit-raise-2020-today-what-you-need-to-know/story-2Jb9kVQYO4jNEa4yQsrA4M_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/india-news/pm-modi-to-inaugurate-global-ai-summit-raise-2020-today-what-you-need-to-know/story-2Jb9kVQYO4jNEa4yQsrA4M_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 33
 
 secured: "OBF9oZxTIOOAGaRHCfZ3+TJzXoZJE7IGX6eEmU5W/F5UwRDGFQC2BtLdWRZSpleednh9xs6AcCK7hrCx24zdBf7Si1lbH+lrtDhz+vNX0RN1mNZGhIKxDClplNQPaSaqGWHjCp6nNUvSSYgqiPva34V1zXHLwgBQAzsrM7QWHJgxpOYdlXDGGwdY6HWjnVcihQ9mrKJIQ6sfk89xNqM9hA8oXRZWkGwfUVAdKuCd9nmI5rKGhQjdOErMTNZAL7M+t6AzTBY6ammfn/p5bjbPv5teXlGVTfJoSxmp++2ROhDxMJC5ozNKy2D+ANZ2nEeZFmsXeXQm0JYvMTXNz2VHkLRsDpSC+TnDM8snpEbZPOI=;4w5PgiueohaceWqut1MNUA=="
 ---

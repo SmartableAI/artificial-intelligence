@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ibtimes.sg/delivery-during-coronavirus-japan-post-goes-e
 cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/delivery-during-coronavirus-japan-post-goes-extra-mile-tests-robots-last-mile-shipment-52288"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -27,19 +27,67 @@ images:
     isCached: true
 
 related:
-  - title: "EU looks to AI to fight coronavirus pandemic"
-    excerpt: "The EU employs AI in its fight against the coronavirus pandemic, with solutions ranging from robots in medical treatments to vaccine development."
-    publishedDateTime: 2020-10-09T17:23:00Z
-    webUrl: "https://www.brusselstimes.com/news/eu-affairs/135068/ai-eu-coronavirus-european-union-artificial-intelligence-ku-leuven-covid-19-solutions/"
+  - title: "Adorable red self-driving robot delivering mail in Japan during pandemic"
+    excerpt: "A Japan Post mail delivery robot debuts in Tokyo, and is being tested to keep human interaction to a minimum during the coronavirus crisis."
+    publishedDateTime: 2020-10-09T19:25:00Z
+    webUrl: "https://www.cnet.com/news/adorable-red-self-driving-robot-delivering-mail-in-japan-during-pandemic/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/adorable-red-self-driving-robot-delivering-mail-in-japan-during-pandemic/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/adorable-red-self-driving-robot-delivering-mail-in-japan-during-pandemic/"
     type: article
     provider:
-      name: The Brussels Times
-      domain: brusselstimes.com
+      name: CNET
+      domain: cnet.com
+    quality: 105
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/2ZG9ZsmU2Kgz845wDeGvuVSdlDA=/2020/10/09/650978af-dde5-4803-8185-35f85a7ef12c/japanpostrobot1.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Elon Musk says Tesla’s Full Self-Driving suite is coming to Japan"
+    excerpt: "Driving suite is among the most sophisticated and advanced driver assistance systems in the world. As self-driving and semi-autonomous software is relatively new, many features have yet to be approved in markets outside of the United States."
+    publishedDateTime: 2020-10-06T23:29:00Z
+    webUrl: "https://www.teslarati.com/tesla-elon-musk-fsd-japan-coming-soon/"
+    ampWebUrl: "https://www.teslarati.com/tesla-elon-musk-fsd-japan-coming-soon/amp/"
+    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-elon-musk-fsd-japan-coming-soon/amp/"
+    type: article
+    provider:
+      name: Tesla News
+      domain: teslarati.com
+    quality: 59
+    images:
+      - url: "https://www.teslarati.com/wp-content/uploads/2019/09/tesla-model-3-white-japan-1-1024x599.jpg"
+        width: 1024
+        height: 599
+        isCached: true
+  - title: "Raining on the parade of self-driving cars"
+    excerpt: "Developing sensors that enable autonomous vehicles to cope with tough weather conditions is tricky – and the economics may be more challenging still"
+    publishedDateTime: 2020-10-09T16:39:00Z
+    webUrl: "https://physicsworld.com/a/raining-on-the-parade-of-self-driving-cars/"
+    type: article
+    provider:
+      name: Physics World
+      domain: physicsworld.com
     quality: 39
     images:
-      - url: "https://www.brusselstimes.com/wp-content/uploads/2020/10/robot-tbt.jpg"
-        width: 910
-        height: 607
+      - url: "https://physicsworld.com/wp-content/uploads/2020/10/bad-weather-caution-497639283-iStock_trendobjects.jpg"
+        width: 1200
+        height: 797
+        isCached: true
+  - title: "For third year running, U of T Engineering team wins international self-driving car challenge"
+    excerpt: "A team of students from the University of Toronto has placed first in an intercollegiate challenge to transform an electric car into a self-driving one – the team’s third consecutive win in the"
+    publishedDateTime: 2020-10-06T04:13:00Z
+    webUrl: "https://indiaeducationdiary.in/for-third-year-running-u-of-t-engineering-team-wins-international-self-driving-car-challenge/"
+    ampWebUrl: "https://indiaeducationdiary.in/for-third-year-running-u-of-t-engineering-team-wins-international-self-driving-car-challenge/?amp"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/for-third-year-running-u-of-t-engineering-team-wins-international-self-driving-car-challenge/?amp"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 33
+    images:
+      - url: "https://www.utoronto.ca/sites/default/files/48133558181_a093a44397_o.jpg"
+        width: 1140
+        height: 760
         isCached: true
 
 secured: "vQj97qhHoqLui2JbQIqq1VxxraOevDpG3o1X8t1lWzosrvk83pnVgAyP4Z5i6BkUkfrwKgb6S+MkdSBywAMSkmYDMFRBdQXEdGkNVVzpVOen+JN7lYUCpvu3L8HC9JKKEi3UG1TmKB0QaC457GlgT+jOlSAJBy4s912g56NAeLki64y7eHmnK/OQdGDZ9x1gjZIOA4ghsaNVZlrDq6ZnAURZhO+GznU+uSK8b55W1Ydx338lQs2scMuxoKO3I+qE8OxdY7IVz+usxzwhtUIkKk2D/cGequG0ZUahuPZnYAV2qEDJy4BdIT79DNWrjIIaRaIvxVKdZzvboFRaOaZD4pdiCwp9TFum+LRecIv2ubs=;TOxNuYLQ7xCzTIWET0OlpA=="
