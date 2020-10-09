@@ -59,7 +59,21 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "6 recent studies exploring AI in healthcare"
+    excerpt: "In the past decade or so, researchers have piloted more and more studies exploring artificial intelligence's potential to transform healthcare for the better, including reducing workflow inefficiencies,"
+    publishedDateTime: 2020-10-09T16:03:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/6-recent-studies-exploring-ai-in-healthcare.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/4.jpg"
+        width: 400
+        height: 300
+        isCached: true
 
-secured: "mXUoHYRQj8psBU088ZrAyAg7delaIEiQpZv8C5doAIwBKCmH5m9498XSJlXdmIzhWIwLD0s2qyYA4h4vxtA7fe3yhXGz9NtjA8QdrCBZpbH1hdQ/RdTIWqHW5Daim+CoW5z8phCU5ODrLTVw5d+4rKrf8C2g7Bi2SPj333BiIq74JSmhZgr+6uIXzpF98Ptc6kuLmwt1zrvOo3pqaCMysM40kPSVtFOFKpVGmVA0GY3N8gtvDda/A5CIqye9MD2ibtRzU7nC4aM+d+tAZRglpFBKO4fIfa2FnN0/ZHtJQvfaxCmi9By8N8xUdrsgw8OllDUfr0cZ6y4eJfxV56Huv4Wv+cDKyastMyicSwqgIII=;GEe9yvVJK+9LWqzmDzy9/A=="
+secured: "c3N+wVPzqLIMUarKG2kgSMZu9VYy0J3IO1tam9Xw4xxu1RkzlwtjqFR6u1QjJavSqrpLLt6X0dX3V3V8/tJ4EsVaCSYMr83mgrV13dOPmXnJOUPAeOFA1FNNbIXncOEr2mj6Pf+y5I67qmuibgaCL6S5CsC7UCH78s5ikOiqHYi7FDXMRmUXQmLa8lFMCUzuOj4OjS1w3ZDrR7iQFUN4sfvjFBvMwQY8Ypjj7mva9BWCKe4mkr7GjdpOiAg1cxGtdWlzsZhNHotFTSx2bbTpPRH+pJILxInVzrh9g/kth+JOzvvFEFmfEwQBMXYMm+kj5tmtydYTGIRic/gCS9EY0VMe/endv7gfHOPwlMsnujtF4q6//Ph7x+7jJapXNySECiuqD8pC1kJF1isr6rV32apY3iu3Nnlg0RJO6Mi0Pxq2Y/A/svPdeH+MPIuj4nFgLWadB78nPgVS2rQvRIOqcy1ARsOuZ+DREgrqYAsfieq5sj6jwTQUFD41ySC9ioFrWPfBr7fL+AmkIbfEo/sY4A==;U2Ni6bYpz6hKq237h5ESZQ=="
 ---
 

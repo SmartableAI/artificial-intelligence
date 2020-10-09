@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2153314/ai-in-fintech-market-2020-status-
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2153314/ai-in-fintech-market-2020-status-and-outlook-growth-challenges"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/10/Untitled-design-2020-10-07T143803.769.jpg"
         width: 750
         height: 422
+        isCached: true
+  - title: "Georgia State to Offer Graduate Certificates in AI Business Innovation, Disruptive Innovation and Entrepreneurship, and Fintech Innovation"
+    excerpt: "Georgia State University’s Robinson College of Business will admit new students to three stand-alone graduate certificate programs that address current and emerging market demand for innovation."
+    publishedDateTime: 2020-10-09T17:20:00Z
+    webUrl: "https://news.gsu.edu/2020/10/09/georgia-state-to-offer-graduate-certificates-in-ai-business-innovation-disruptive-innovation-and-entrepreneurship-and-fintech-innovation/"
+    type: article
+    provider:
+      name: Georgia State University
+      domain: gsu.edu
+    quality: 5
+    images:
+      - url: "https://news.gsu.edu/files/2014/09/disruptive-innovation-photo-1661x1125.jpg"
+        width: 1661
+        height: 1125
         isCached: true
 
 secured: "kXnmkybOvtB1YYelL0DQUO3mft2Kv8DjxcbqizOKcn+rJxip364vmT6urWZbcTR/5GZyOj1yvxJWqo8SZnFuCEPV4Y2Fwu6RSwS2mTMUdrOkJWxnp+iC8f4swGx42PWOefipGyT39LD0qAcZdXyrrBxvXFbW9qiHLtdQpWjhZlCJciBV2KANC6ZjrxpO0kaeMvHSxOJyEL5TWeNL9Ezdtv30BljUpURY3UsMEIDlU57lwz0MU9/7/1cMriYGc4T+V3f0d9dBR0cpjEkXRoUh2y+JGB9G+l8Sglh49EHu0ul2iltAd99PpQJwGJ+COEB7UXQPIICkhmX31qMBI6iZnWHhaq9jNysHH/5vgVa3DeYtbIEd2dFA7Xkdc+T6D3lFjB74bDf4OMdb0Ex6x4HjmeYF1GuBOdaEvHuB2mCHBuqJNyLzOz5jyMKKv9vEFCn2Y+qL+VT247D6CxviVjvMqkobVZo0n2HPTN3DWSDb069Nd+VohEEO7RSLbXD/mXX3XyM11fr4rQzAxL38fUhz7Q==;9Q0aztFmXNJ2LVopdjGZmA=="

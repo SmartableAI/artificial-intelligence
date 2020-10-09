@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft partners with ARM to improve AI innovation for IoT products"
+    excerpt: "Microsoft partners with ARM to improve AI innovation for IoT products.The partnership will allow developers to target a large range of ARM-based devices."
+    publishedDateTime: 2020-10-09T15:53:00Z
+    webUrl: "https://www.theindianwire.com/ai/microsoft-partners-with-arm-to-improve-ai-innovation-for-iot-products-294431/"
+    ampWebUrl: "https://www.theindianwire.com/ai/microsoft-partners-with-arm-to-improve-ai-innovation-for-iot-products-294431/?amp"
+    cdnAmpWebUrl: "https://www-theindianwire-com.cdn.ampproject.org/c/s/www.theindianwire.com/ai/microsoft-partners-with-arm-to-improve-ai-innovation-for-iot-products-294431/?amp"
+    type: article
+    provider:
+      name: The Indian Wire
+      domain: theindianwire.com
+    quality: 74
+    images:
+      - url: "https://www.theindianwire.com/wp-content/uploads/2020/10/1601348370-9773.jpg"
+        width: 620
+        height: 464
+        isCached: true
   - title: "Microsoft, ARM partner to improve AI innovation for IoT products: Know how"
     excerpt: "devices to Azure Cloud. The partnership will enable developers to easily target a broad range of Arm-based devices like intelligent computer-vision-enabled cameras, connected vehicles, AI gateways and intelligent appliances. With over 30 billion active IoT ..."
     publishedDateTime: 2020-10-09T06:33:00Z
@@ -100,22 +116,6 @@ related:
       - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
         width: 400
         height: 300
-        isCached: true
-  - title: "Microsoft's Flywheel Kicks Into Gear at Ignite 2020"
-    excerpt: "While reflecting an important customer priority at the moment, it also highlights the investment Microsoft is making in driving integrations across its cloud businesses. The strengthening of the connective tissue between Microsoft’s array of products — across Teams,"
-    publishedDateTime: 2020-10-05T00:00:00Z
-    webUrl: "https://www.cmswire.com/digital-workplace/microsofts-flywheel-kick-into-gear-at-ignite-2020/"
-    ampWebUrl: "https://www.cmswire.com/digital-workplace/microsofts-flywheel-kick-into-gear-at-ignite-2020/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-workplace/microsofts-flywheel-kick-into-gear-at-ignite-2020/amp/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 61
-    images:
-      - url: "https://www.cmswire.com/-/media/dd733cd63b584d758bbaf690a96113cd.ashx?mw=1024"
-        width: 640
-        height: 480
         isCached: true
 
 secured: "SRB1cvRTMsKV4q9zS9cVFY+YNatYafG24Ej2N5KXOmXTPalpPyleZeTD0KV5yenKozhjurEn9nffv8UaPTRrJA/SxVrbPCzmXMP7padocFcOtLgs47IYPW1dRoQ0bMPnNAbcwj25t4h3Mo0c7guJ8amP3zee9nN3JFCFphjVfyV8g6JdpfW9YR61x/Si7mL1CaxBrMtgPMcSpQMwoWZo+z45wbBSaUl7WUu6IPk/uCZ2/3AYa3T7NvwIHjzbB+OtKfHvEZKZHDJHU+mEbduAgKnaTOoJ86Vi9YkamdX3kXW57F+nu+otLduIADCBC7YZbO03nQJGtn4fB50jiUeNOOgJzx+ruVyAV49LPA2wtjk=;0ULhYI5L6uTWEMqNLmycEw=="

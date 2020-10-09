@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-09-facial-recognition-software-helps-identify-missing-teen.md",
+      "title": "Facial recognition software helps identify missing teen",
+      "excerpt": "A 13-year-old autistic boy who went missing from Uttar Pradesh five years ago was traced at a child home in Assam with the help of facial recognition tool of Telangana police ‘Darpan’. He was reunited with his parents on Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/news/national/telangana/facial-recognition-software-helps-identify-missing-teen/article32816177.ece",
+      "originalUrl": "https://www.thehindu.com/news/national/telangana/facial-recognition-software-helps-identify-missing-teen/article32816177.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th.thgim.com/static/theme/default/base/img/og-image.jpg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/news/national/telangana/facial-recognition-software-helps-identify-missing-teen/article32816177.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/facial-recognition-software-helps-identify-missing-teen/article32816177.ece/amp/",
+      "publishedDateTime": "2020-10-09T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-09-buenos-aires-is-using-facial-recognition-system-that-tracks-child-suspects-rights-group-says.md",
       "title": "Buenos Aires is using facial recognition system that tracks child suspects, rights group says",
       "excerpt": "The country has made public the warrants of children wanted for alleged crimes, in violation of international law, according to Human Rights Watch.",
@@ -197,7 +239,7 @@
       "originalUrl": "https://www.scmp.com/abacus/tech/article/3104512/facial-recognition-data-leaks-rampant-across-china-covid-19-pushes",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1395,48 +1437,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-sigmasense-closes-22m-series-a-funding-round-with-groundbreaking-invention-enabling-touchless-touch-screens.md",
-      "title": "SigmaSense Closes $22M Series A Funding Round with Groundbreaking Invention Enabling Touchless Touch Screens",
-      "excerpt": "object recognition, digital pens and high hover for touchless gestures on LCD, OLED, EPD and Mini-LED screens AUSTIN, Texas--(BUSINESS WIRE)--SigmaSense, the global leader in touch screen ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200923005265/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20200923005265/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200923005265/en/823840/23/SigmaSense_Logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-23T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -58,6 +58,20 @@ related:
         width: 1024
         height: 599
         isCached: true
+  - title: "Kiwi-born entrepreneur at the forefront of self-driving cars"
+    excerpt: "From Otago University, to IBM, to algorithms for the Mars rovers, Dave Ferguson has spent many years stopping robots running into walls."
+    publishedDateTime: 2020-10-09T16:07:00Z
+    webUrl: "https://www.stuff.co.nz/technology/122919128/kiwiborn-entrepreneur-at-the-forefront-of-selfdriving-cars"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 24
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/o/p/x/2/image.related.StuffLandscapeSixteenByNine.1420x800.216l08.png/1602116585589.jpg"
+        width: 1420
+        height: 798
+        isCached: true
 
 secured: "Len6blOGGczS9jRJ7Uv32RKXeULgcjaQxXnqGTFheupBLKRoWuM7181ss5tJNi6/jYzsGq+p/n2BmQHtKKW+rXO4Q3NdWuew3q262wO8HkJr0jL5PLzXcvcwRtyOetr38cElD1F4kVE9Jne7RwcQNGEdzi8RzehqnBwKT8ThXZcreT9+HWFCbVppMUSpOfP3VBgY2bhq464/QgJBM9YlSv/iWHJBJjDnQFFpnlHUQii6PtJ5/3ouOOOpMWK8w8XC3Ue3eSksofgtAcUfXTyt3NMwChAD0sr6VFSN9ce4ud5sh00ZqdmVfycFB9pDl91jl+zKa7TxGOpkmbuYsolOSvYcojOLQ24RJenpMpD0xGY=;nCY4mAyFk6/D32WJZYvyrw=="
 ---

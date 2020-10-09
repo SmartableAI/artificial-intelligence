@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft partners with ARM to improve AI innovation for IoT products"
+    excerpt: "Microsoft partners with ARM to improve AI innovation for IoT products.The partnership will allow developers to target a large range of ARM-based devices."
+    publishedDateTime: 2020-10-09T15:53:00Z
+    webUrl: "https://www.theindianwire.com/ai/microsoft-partners-with-arm-to-improve-ai-innovation-for-iot-products-294431/"
+    ampWebUrl: "https://www.theindianwire.com/ai/microsoft-partners-with-arm-to-improve-ai-innovation-for-iot-products-294431/?amp"
+    cdnAmpWebUrl: "https://www-theindianwire-com.cdn.ampproject.org/c/s/www.theindianwire.com/ai/microsoft-partners-with-arm-to-improve-ai-innovation-for-iot-products-294431/?amp"
+    type: article
+    provider:
+      name: The Indian Wire
+      domain: theindianwire.com
+    quality: 74
+    images:
+      - url: "https://www.theindianwire.com/wp-content/uploads/2020/10/1601348370-9773.jpg"
+        width: 620
+        height: 464
+        isCached: true
   - title: "Microsoft, chip maker Arm to boost AI innovation for IoT devices"
     excerpt: "SoftBank-owned UK chip maker Arm has partnered with Microsoft to create Azure-based tools to enable developers transfer data from Arm-based Internet of Things (IoT) devices to Azure Cloud. The partner"
     publishedDateTime: 2020-10-09T07:20:00Z
@@ -86,22 +102,6 @@ related:
       - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
         width: 400
         height: 300
-        isCached: true
-  - title: "Microsoft's Flywheel Kicks Into Gear at Ignite 2020"
-    excerpt: "While reflecting an important customer priority at the moment, it also highlights the investment Microsoft is making in driving integrations across its cloud businesses. The strengthening of the connective tissue between Microsoft’s array of products — across Teams,"
-    publishedDateTime: 2020-10-05T00:00:00Z
-    webUrl: "https://www.cmswire.com/digital-workplace/microsofts-flywheel-kick-into-gear-at-ignite-2020/"
-    ampWebUrl: "https://www.cmswire.com/digital-workplace/microsofts-flywheel-kick-into-gear-at-ignite-2020/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-workplace/microsofts-flywheel-kick-into-gear-at-ignite-2020/amp/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 61
-    images:
-      - url: "https://www.cmswire.com/-/media/dd733cd63b584d758bbaf690a96113cd.ashx?mw=1024"
-        width: 640
-        height: 480
         isCached: true
   - title: "AI Eye Episode 448: ZEISS Partners with Microsoft (NasdaqGS: $MSFT) for Digital Cloud Transformation"
     excerpt: "Optics and optoelectronics manufacturer ZEISS Group (OTC:CZMWF) has entered a multi-year strategic partnership with Microsoft (NasdaqGS:MSFT) to accelerate its transformation into a digital services provider with a cloud first approach."

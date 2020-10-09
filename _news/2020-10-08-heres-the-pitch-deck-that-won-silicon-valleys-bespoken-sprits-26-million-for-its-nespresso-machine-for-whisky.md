@@ -45,6 +45,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Grid AI Raises $18.6M in Series A Funding"
+    excerpt: "Grid AI, a NYC-based company that enables companies of all sizes to train state-of-the-art AI models on hundreds of cloud GPUs and TPUs, raised $18.6m in Series A funding"
+    publishedDateTime: 2020-10-09T15:47:00Z
+    webUrl: "https://www.finsmes.com/2020/10/grid-ai-raises-18-6m-in-series-a-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2020/10/grid.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "T/3ZExi+DJCpWTzq07LHC4QI71AKTzm8sjIqNlNJVkVDnX+Um300VQXJX7LTk7Qsfil0IYvTrkm2FxCXgHr0k1aBGMNiPgVmtrpTN9DTS9A+c0Pib4PmvHZfU7dy93/efy0LH5vch7jPWMcoMCddNwhxv5ls7lQ1/xDgWvqkvZJNZdN75DuuP6cTyuOWcACRJ0gXnm5CaIPQiefC/R1G3B0KbSQF9VkiAkelfUHLycIo10cyCYiMPjhcFKIJZwZDHlIgVA8nMEkMz+TQLY4+orS5p4sbCkCVr9DeOXE2LteeXT+/ooOGU1qjkSWN5xn0o+1FBhg4/Pq1REfj3rnVn1nrIV41h6C2MQTMflwho4s=;B4u3N6BLt16gU4cwaSFB+Q=="
 ---

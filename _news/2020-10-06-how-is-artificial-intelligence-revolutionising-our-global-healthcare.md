@@ -9,7 +9,7 @@ ampWebUrl: "https://theislandnow.com/blog-112/how-is-artificial-intelligence-rev
 cdnAmpWebUrl: "https://theislandnow-com.cdn.ampproject.org/c/s/theislandnow.com/blog-112/how-is-artificial-intelligence-revolutionising-our-global-healthcare/amp/"
 type: article
 quality: 78
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://www.redsharknews.com/hubfs/NVIDIA%20is%20revolutionising%20video%20codecs-jpg.jpeg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "6 recent studies exploring AI in healthcare"
+    excerpt: "In the past decade or so, researchers have piloted more and more studies exploring artificial intelligence's potential to transform healthcare for the better, including reducing workflow inefficiencies,"
+    publishedDateTime: 2020-10-09T16:03:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/6-recent-studies-exploring-ai-in-healthcare.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/4.jpg"
+        width: 400
+        height: 300
         isCached: true
 
 secured: "LfbxGRP23DXgbpVi/3+nCNOS+3ovgoFWzUfY/xzO2uqCZ9RKCIySzMvJ3ldQWTzCNB8G2se6A9AG8XKG2VQtkYiV9uxMp+3o/ma/CFj9ZEKFOdfbFcTrFlhrJEgOPbbQ05Nze9krZQg/ZH6TQj8Z4WvRIOXsaTlOW4SVDxB9j2Wz+EOqDRS1T717SfdCqB/8laP9403q9pRRwNcnL+3bKX4kQV80DdGw07TNmEKeU1fvllLTuARQl28EQKJie+bNAqEtaTJn9/ihBD9Kt8A0ExpJwsQ7YddfCLl2Wrp8PDMI0ZFfZt2WlfPewyO6h8VgtA3GZz9TBQLiPX55u4EKthikEjegLiZfkQKyy/+DeZA=;h59Q6WDFyLSireLWcmbGWg=="

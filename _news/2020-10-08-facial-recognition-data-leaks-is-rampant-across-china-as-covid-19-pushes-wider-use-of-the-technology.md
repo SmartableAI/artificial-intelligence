@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/abacus/tech/article/3104512/facial-recognition-
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/abacus/tech/article/3104512/facial-recognition-data-leaks-rampant-across-china-covid-19-pushes"
 type: article
 quality: 74
-heat: 84
+heat: 104
 published: true
 
 provider:
@@ -46,6 +46,36 @@ related:
       - url: "https://cdn.abcotvs.com/dip/images/6727254_AP_85217790912.png"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Crown Point will not install facial recognition cameras to help in COVID-19 contact tracing"
+    excerpt: "Crown Point, Indiana will not be installing a facial recognition network camera system to fight COVID-19, the city announced Sunday."
+    publishedDateTime: 2020-10-05T19:50:00Z
+    webUrl: "https://abc7chicago.com/crown-point-contact-tracing-indiana-covid-social-distancing/6787977/"
+    ampWebUrl: "https://abc7chicago.com/amp/crown-point-contact-tracing-indiana-covid-social-distancing/6787977/"
+    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/crown-point-contact-tracing-indiana-covid-social-distancing/6787977/"
+    type: article
+    provider:
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
+    quality: 49
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/6727254_AP_85217790912.png"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Facial recognition technology isn't ready for police use"
+    excerpt: "I discussed how some nightmares of tech-noir films are becoming reality. As an advocate for artificial intelligence (AI), my last intention is to stoke unreasonable fear over new technologies. Unfortunately,"
+    publishedDateTime: 2020-10-08T17:36:00Z
+    webUrl: "https://www.jhunewsletter.com/article/2020/10/facial-recognition-technology-isnt-ready-for-police-use"
+    type: article
+    provider:
+      name: Johns Hopkins Newsletter
+      domain: jhunewsletter.com
+    quality: 39
+    images:
+      - url: "https://snworksceo.imgix.net/jhn/6ffb2208-cb6b-4bc4-9e76-33b4fa2b56a1.sized-1000x1000.png?w=800&h=600"
+        width: 720
+        height: 600
         isCached: true
 
 secured: "RMtM32XPFdES8r7Dd5C8TfylG6KhmJwUYyStQF2NmIog+2zo56MhVV/18y+a0D/gUpq537zMZZmcisTIgnDUYRhXV5ExQ0V9kQzgkGTwAX7V3Ml82dSe2OC370kQiKJDtOGoxosSxUuuskjmfZdHgsABKGW+gjNt61oHlh+tC/TtIToZONDYrzYmH87q8A1ROIrKYHDHbNuQLuJl2I+w0bOoksb+8+jhp6/LCvuNdSRkjPv2UldGQ0p5icsVQzMEkfMl0pXd56ic1V9+T60dEwOoA5FHgN2Paswx0upAJFeBZyOLTJV9PJ0BhP6UY51YzKv2MSzDfy0N+QAiR9JdB6che/1N5WmCb8h+m0oHsryVuoyV1lmpoIQQNdcjIeBQNlbaE5e3OVzly3rl1REtkNT7ordh2fs8JtRXWsCHdapsI8OayjnGvX+T6NpGvrr0EZil37Z8LlGCHnue5qiEb2nB992iKH7L9w9nUVjYRp1luKVVL7PNCvEAfJmj/MjVvlkMhRTCXGLCxwMica919w==;pGxqeSKcpXfruLW63N+kwA=="

@@ -2,27 +2,27 @@
 category: news
 title: "IBM Brings Artificial Intelligence At Scale To The Marketing And Media Industry"
 excerpt: "Our work will be a step forward in our evolution to meet the advertising industry's upheaval, and we are proud to help the advertising industry advance with the value of AI.\" The IBM Watson ..."
-publishedDateTime: 2020-10-05T12:32:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-1029648095"
-webUrl: "https://markets.businessinsider.com/news/stocks/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-1029648095"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-1029648095"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-1029648095"
+publishedDateTime: 2020-10-05T14:25:00Z
+originalUrl: "https://www.finanzen.net/nachricht/aktien/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-9360315"
+webUrl: "https://www.finanzen.net/nachricht/aktien/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-9360315"
 type: article
-quality: 65
-heat: 85
-published: true
+quality: 35
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Finanzen
+  domain: finanzen.net
 
 topics:
   - IBM AI
   - AI
+
+images:
+  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "How IBM Is Using AI At Scale To Benefit The Media Industry"
@@ -46,6 +46,6 @@ related:
       domain: advanced-television.com
     quality: 19
 
-secured: "oB6zmMswYjsi305+YTaDyVrkdmIBLJb2ovBY7sqEL0ytzVyjsnhFUjwD6yg0pTG7DsGkaHSV69A7KVBjV1icX0tjRlyhxv/b89r8Ruo6uRTdejvwiVekfJ5V/sc5JtSBDbVj1yyelWtzruyk2wH8R75ROSSmaqaNZh/e7F3i8iOrEoEnIV3S+og0NhNpGDiT5Q1MNJHYb2d1YERI7gxA71yjQc6XZM6JRX8RaYnJh4RApihZjOpBOQqE1QlbGtxKpXrLjGM2nt10x076i7MwO3XFYnzgbUi8otv94T9SXDlENjFmzu8dkBXdYA2SzBnphwF3/KEYpnwtc/gjlPFw3Fx81WDuTn4YfoUJO2RN1uA=;8fmVYsfmuIHpOlm8B4rJNg=="
+secured: "irtnapQvoibIUEjNAfeeedQ9ERASkIERSIFruYVSpC85JTNOKso2gj9v3fi84fojo5BdsGAI1DGnnjW4w6DwoqP1yS/tY4BAta/d78HY7oL2m6573nim1PUnJmnt1CYwvpmXR5tEmaRUwcm7fFDP3+bKDsZfsmANj+RcbJdXSMMG0OBn8eghNAl5zuELEbDBN60O6uHsWkGU7JMMAYIvMxHYdsSr9sMqNNzkPUcZv85j/Wq5CVwdKNOu0pn33rpQ0w8eq6aYQTH7M5CV/z6PHrcYYsodGI0916D/u7zbKRiB/jJTKiJzUhubSx2aWAHq8WOIUnlXDD6UB19o5VhyzM+L8mbhdzB4w4lObeBvtpU=;s2C6k65VPeU/TEL0kNW7ow=="
 ---
 

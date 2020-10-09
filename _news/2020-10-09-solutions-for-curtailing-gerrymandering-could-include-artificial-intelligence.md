@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "They're pushing boundaries in gaming tech and AI"
-    excerpt: "From bridging the gap between e-commerce and traditional retail to using acoustic pattern recognition AI technology and designing games, these women are at the forefront of the tech revolution. This service is not intended for persons residing in the EU."
-    publishedDateTime: 2020-10-04T23:31:00Z
-    webUrl: "https://www.channelnewsasia.com/news/brandstudio/they-re-pushing-boundaries-in-gaming-tech-and-ai-13166680"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 37
-    images:
-      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13166686/16x9/991/557/140d582df401052039091b983021a874/XT/sg100wit-article04---technologists-video.jpg"
-        width: 991
-        height: 557
-        isCached: true
   - title: "In-house: AI patenting is becoming more challenging"
     excerpt: "“For AI, we start thinking of providing a framework for the computer to make decisions and draw conclusions without providing specific instructions. It becomes like a black box where we don’t actually know how the computer is coming up with decisions ..."
     publishedDateTime: 2020-10-09T08:02:00Z
@@ -78,6 +64,6 @@ related:
       domain: theconversation.com
     quality: 26
 
-secured: "3a46wdXs0YcCqN/5IwiMXQLA2HYA7pviUKlttEBAoywiz1VfcFbrOjmIWANYebU/BdwsCtkp51T2N3xljCENBSVk7aEn4/7/Fmj7l52Q2tN7bg9chKImiIvBvk6xpHFkiQHNlG4E86WDJnWvv2SAESFtZgg18z+TZ6T33q+6VRr1MGGdrWcFgcfHqt0tOxAY58DqxiClim6rItmHK2euyuT28tv2jKzxSoGW0Bt1SxyU/S8hN60zECpAu+Y4VZrQqz8vV0dGob4P7h1Z0m6ZClMh9RskRpMgc/VbFXEPtggE0l7YVD0hNw4J2ryO+8W++k4+6fpS5DNMRXCCv8f1ghNpRJM/XzWEOPqLcuD/e0c=;0opk7EKHS4dKUOzkPdP0CA=="
+secured: "Ik6aVQSbPysMdkFDYXIAIUV+p5AYfb/6mRAN2Womd6zpjjhaGQKwicfQNamoCGQE/xjOGet4xYldORHRkCmpmo21+UtsJ4thbtVy+OovKY9HGtY8933m+/BZQKJeS5BQ8KUdd8b5TPUgK9bHYVRulgW0AqybdTiM9udadnNP74MIo7RS0G7vwQbjPgfndXbXerzmnZcG1MM/cGM4ABLabruIm94R94j8FmVnmY09VRHQI2y8dGsXkjiaQxSgNssJYEZ1/XutPHp8mMvImhqAJdwwIv/F9LREzELlTPZq40s818bNQPw3jMNq72TOwUXyWbFhB0E9y9UNnSqMDCMaJPxErowN3iGBwINMNuqdqKc2wiTTlRMu88uSrr17H6KJXj8B3vTPy/GWYZ03zlN9Pw938AZYLDgtlTNbAsW2kowMOf9BZqp2OOdQMSBA9ajebw76PFcf90QB4lU1n1ZCBZNE6MDZkPTnEJvv3AQ65axjP9rl7jZe4PV3Mut9uQqOtjM7OdJd64SgXTszC0hXEg==;n4HdtKY1j9YKf77ljIMSfw=="
 ---
 

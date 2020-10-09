@@ -9,7 +9,7 @@ ampWebUrl: "https://pulse2.com/how-ibm-is-using-ai-at-scale-to-benefit-the-media
 cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/how-ibm-is-using-ai-at-scale-to-benefit-the-media-industry/amp/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,15 +23,18 @@ topics:
 related:
   - title: "IBM Brings Artificial Intelligence At Scale To The Marketing And Media Industry"
     excerpt: "Our work will be a step forward in our evolution to meet the advertising industry's upheaval, and we are proud to help the advertising industry advance with the value of AI.\" The IBM Watson ..."
-    publishedDateTime: 2020-10-05T12:32:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-1029648095"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-1029648095"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-1029648095"
+    publishedDateTime: 2020-10-05T14:25:00Z
+    webUrl: "https://www.finanzen.net/nachricht/aktien/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-9360315"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
+      name: Finanzen
+      domain: finanzen.net
+    quality: 35
+    images:
+      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "IBM brings AI at scale to the media industry"
     excerpt: "IBM has announced three new products to add to its growing suite of AI solutions for brand and publishers. The new capabilities are privacy-forward and designed"
     publishedDateTime: 2020-10-07T12:28:00Z

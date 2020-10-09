@@ -86,6 +86,31 @@ related:
         width: 1940
         height: 980
         isCached: true
+  - title: "The State of AI in Higher Education"
+    excerpt: "Both industry and higher ed experts see opportunities and risk, hype and reality with AI for teaching and learning."
+    publishedDateTime: 2020-10-09T16:34:00Z
+    webUrl: "https://campustechnology.com/articles/2020/10/09/the-state-of-ai-in-higher-education.aspx"
+    type: article
+    provider:
+      name: Campus Technology
+      domain: campustechnology.com
+    quality: 39
+    images:
+      - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/2020-images/20201009ai.jpg"
+        width: 644
+        height: 300
+        isCached: true
+  - title: "India startups leading movement on AI innovations to create solutions for the world"
+    excerpt: "ResponsibleAI for Social Empowerment 2020’summit witnessed discussion on themes like leveraging AI for pandemic preparedness, role of AI in fostering"
+    publishedDateTime: 2020-10-09T17:42:00Z
+    webUrl: "https://indiaeducationdiary.in/india-startups-leading-movement-on-ai-innovations-to-create-solutions-for-the-world/"
+    ampWebUrl: "https://indiaeducationdiary.in/india-startups-leading-movement-on-ai-innovations-to-create-solutions-for-the-world/?amp"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/india-startups-leading-movement-on-ai-innovations-to-create-solutions-for-the-world/?amp"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 31
 
 secured: "0YM85zSNA53B2tTtDyqPO7z3P6huAcBcEkv3hZHafF5jqDAFKgAvmU6R+ifxdrM0ye1yFCVEv8nEpvWROmCMjTpsDSBeSwPhaisgZ95s5BcMlYhjG5lciP3prd/GDRnt7PLpG3yxhM5l2oyCDw8AgpPs1nErRuYYFQ96i/4J5X68GySFI4QMwFvS/UyUymAdeCAQu1AkSQORKUfn8+MJLw+nwsjylQ4cCd6TNIR2+xbtq2mn52MD5YURiwlz3k4K7lvHqdNSD3J3PQisOLh5U+KDFtpv9e3KlvIzgdQmWp7T2P4hVbw6uiZwI0fzU3nTF0A8RYIw/NiNuKzCyycrCCDPdLnXztXdSpLmbhgcql0NZJ65dF0+NVozBqq0yKi7llAGhLj1ihH02hY2Q1fDNKtt2CQqRWXjk56iwa2+IeRBh0EppoPeXErow0W5223poBIlRp8dN04Bs42VyGTi+mGfnfm/Km9WhD3o/udOJbv5pz8wVTb3BLozP8/+LrC4tmzyqBhPXTCyaheVD0/ewg==;SjbEO2hR4+Sb10dtu2K94g=="
 ---

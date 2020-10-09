@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "They're pushing boundaries in gaming tech and AI"
-    excerpt: "From bridging the gap between e-commerce and traditional retail to using acoustic pattern recognition AI technology and designing games, these women are at the forefront of the tech revolution. This service is not intended for persons residing in the EU."
-    publishedDateTime: 2020-10-04T23:31:00Z
-    webUrl: "https://www.channelnewsasia.com/news/brandstudio/they-re-pushing-boundaries-in-gaming-tech-and-ai-13166680"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 37
-    images:
-      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13166686/16x9/991/557/140d582df401052039091b983021a874/XT/sg100wit-article04---technologists-video.jpg"
-        width: 991
-        height: 557
-        isCached: true
   - title: "In-house: AI patenting is becoming more challenging"
     excerpt: "“For AI, we start thinking of providing a framework for the computer to make decisions and draw conclusions without providing specific instructions. It becomes like a black box where we don’t actually know how the computer is coming up with decisions ..."
     publishedDateTime: 2020-10-09T08:02:00Z

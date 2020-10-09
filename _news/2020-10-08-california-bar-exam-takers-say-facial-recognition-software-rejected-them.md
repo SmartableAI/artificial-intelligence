@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sfchronicle.com/business/amp/California-bar-exam-takers-
 cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/business/amp/California-bar-exam-takers-say-facial-recognition-15629617.php"
 type: article
 quality: 58
-heat: 58
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,86 @@ images:
     width: 375
     height: 249
     isCached: true
+
+related:
+  - title: "Facial recognition software helps identify missing teen"
+    excerpt: "A 13-year-old autistic boy who went missing from Uttar Pradesh five years ago was traced at a child home in Assam with the help of facial recognition tool of Telangana police ‘Darpan’. He was reunited with his parents on Friday."
+    publishedDateTime: 2020-10-09T16:36:00Z
+    webUrl: "https://www.thehindu.com/news/national/telangana/facial-recognition-software-helps-identify-missing-teen/article32816177.ece"
+    ampWebUrl: "https://www.thehindu.com/news/national/telangana/facial-recognition-software-helps-identify-missing-teen/article32816177.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/facial-recognition-software-helps-identify-missing-teen/article32816177.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Home Office's facial recognition software 'systemically racist'"
+    excerpt: "An investigation into facial recognition software used to check passport photos found it was more than twice as likely to reject pictures of black women than white men."
+    publishedDateTime: 2020-10-09T01:01:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-8821801/Home-Offices-facial-recognition-software-systemically-racist.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-8821801/amp/Home-Offices-facial-recognition-software-systemically-racist.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8821801/amp/Home-Offices-facial-recognition-software-systemically-racist.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 59
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/10/09/01/34174796-0-image-a-117_1602205033570.jpg"
+        width: 636
+        height: 382
+        isCached: true
+  - title: "Face recognition tool reunites Uttar Pradesh boy with parents after 5 years"
+    excerpt: "Hyderabad: Telangana State police's face recognition tool 'Darpan' has helped reunite a missing boy from Uttar Pradesh with his parents after five years. Som Soni, a resident of Handia in ..."
+    publishedDateTime: 2020-10-09T14:24:00Z
+    webUrl: "https://gulfnews.com/technology/face-recognition-tool-reunites-uttar-pradesh-boy-with-parents-after-5-years-1.1602246616056"
+    ampWebUrl: "https://gulfnews.com/amp/technology/face-recognition-tool-reunites-uttar-pradesh-boy-with-parents-after-5-years-1.1602246616056"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/face-recognition-tool-reunites-uttar-pradesh-boy-with-parents-after-5-years-1.1602246616056"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 57
+    images:
+      - url: "https://imagevars.gulfnews.com/2020/10/09/20201009-darpan_1750d5c11df_large.jpg"
+        width: 750
+        height: 563
+        isCached: true
+  - title: "Boy missing from UP found in Assam after 5 years with help of Telangana Police's facial recognition software"
+    excerpt: "The Golapara Police of Assam spotted Sam, and admitted him to the local child welfare centre Naveen S GarewalTribune News ServiceHyderabad, October 9"
+    publishedDateTime: 2020-10-09T15:05:00Z
+    webUrl: "https://www.tribuneindia.com/news/schools/boy-missing-from-up-found-in-assam-after-5-years-with-help-of-telangana-polices-facial-recognition-software-153319"
+    ampWebUrl: "https://www.tribuneindia.com/news/schools/boy-missing-from-up-found-in-assam-after-5-years-with-help-of-telangana-polices-facial-recognition-software-153319"
+    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/schools/boy-missing-from-up-found-in-assam-after-5-years-with-help-of-telangana-polices-facial-recognition-software-153319"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 40
+    images:
+      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/10/2020_10$largeimg_1014741573.jpg"
+        width: 660
+        height: 440
+        isCached: true
+  - title: "Face recognition tool reunites UP boy with parents after 5 years"
+    excerpt: "The missing boy was found by Goalpara police on July 23, 2015 and was sent to the Child Welfare Centre Telangana State police's face recognition tool 'Darpan' has helped reunite a missing boy from Uttar Pradesh with his parents after five years."
+    publishedDateTime: 2020-10-09T12:07:00Z
+    webUrl: "https://www.tribuneindia.com/news/nation/face-recognition-tool-reunites-up-boy-with-parents-after-5-years-153319"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 39
+    images:
+      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/10/2020_10$largeimg_1014741573.jpg"
+        width: 660
+        height: 440
+        isCached: true
 
 secured: "YX8zazHOJAxLAWPjdM3aKQCoJsXmoFzvTnQk5FpHIdWkG6iA+iRNcIOE00QzgdU7hXYqB9clsHPQY1Phi2OLI3Pv1a1dSDpKzDs0f99SOgDHNETzAyAI+Bdm4qKb/DTVAS8SVVL/vr1tosbQAWu+hsGJlgQSj9cu1raYh00bR0o7/CQHarq+Je7BvNjvEnyDZniAuQ7Rs/aVnwrCOB+pDhd68vmFt1zKwGQRyKJFs3kUGe2qw5LDR1ddVTBYYVLiTUMSBAEyLk0GRiO5rbNk1APkZadrDQQyE087e0o3AEL0v11/SiPbiUAt6MXMpH+W2rn2YxL7ZZMaCFYV1OY3RbzkwWbBUI31BxznW8zE2w0=;S6lcnBqOQH2V3HTP95xwKQ=="
 ---

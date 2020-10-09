@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/10/07/bespoken-spirits-raises-2-6m-in-se
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/07/bespoken-spirits-raises-2-6m-in-seed-funding-to-combine-machine-learning-and-accelerated-whiskey-aging/amp/"
 type: article
 quality: 90
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Grid AI Raises $18.6M in Series A Funding"
+    excerpt: "Grid AI, a NYC-based company that enables companies of all sizes to train state-of-the-art AI models on hundreds of cloud GPUs and TPUs, raised $18.6m in Series A funding"
+    publishedDateTime: 2020-10-09T15:47:00Z
+    webUrl: "https://www.finsmes.com/2020/10/grid-ai-raises-18-6m-in-series-a-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2020/10/grid.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Here's the pitch deck that won Silicon Valley's Bespoken Sprits $2.6 million for its 'Nespresso machine' for whisky"
     excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since DOW S&P 500 NASDAQ 100 Bespoken Spirits, the drinks startup using machine learning to age whisky faster, has raised $2.6 million in seed funding."
     publishedDateTime: 2020-10-08T11:44:00Z

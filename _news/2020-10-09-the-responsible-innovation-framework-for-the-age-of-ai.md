@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innov
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 149
 published: true
 
 provider:
@@ -75,6 +75,31 @@ related:
         width: 1940
         height: 980
         isCached: true
+  - title: "The State of AI in Higher Education"
+    excerpt: "Both industry and higher ed experts see opportunities and risk, hype and reality with AI for teaching and learning."
+    publishedDateTime: 2020-10-09T16:34:00Z
+    webUrl: "https://campustechnology.com/articles/2020/10/09/the-state-of-ai-in-higher-education.aspx"
+    type: article
+    provider:
+      name: Campus Technology
+      domain: campustechnology.com
+    quality: 39
+    images:
+      - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/2020-images/20201009ai.jpg"
+        width: 644
+        height: 300
+        isCached: true
+  - title: "India startups leading movement on AI innovations to create solutions for the world"
+    excerpt: "ResponsibleAI for Social Empowerment 2020’summit witnessed discussion on themes like leveraging AI for pandemic preparedness, role of AI in fostering"
+    publishedDateTime: 2020-10-09T17:42:00Z
+    webUrl: "https://indiaeducationdiary.in/india-startups-leading-movement-on-ai-innovations-to-create-solutions-for-the-world/"
+    ampWebUrl: "https://indiaeducationdiary.in/india-startups-leading-movement-on-ai-innovations-to-create-solutions-for-the-world/?amp"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/india-startups-leading-movement-on-ai-innovations-to-create-solutions-for-the-world/?amp"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 31
   - title: "A framework for automation in financial services"
     excerpt: "Global Industry Leads at Appian The financial services (FS) sector is currently experiencing one of the most challenging periods in history. The ongoing Covid-19 pandemic, fierce competition amongst fintech challengers and the encroachment of large technology platforms have made it necessary for banks and insurers to react in order"
     publishedDateTime: 2020-10-05T10:49:00Z

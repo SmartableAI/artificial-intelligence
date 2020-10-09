@@ -1,28 +1,22 @@
 ---
 category: news
 title: "IBM Enters Esports Arena with Activision Blizzard in New Multi-Year Deal as the Presenting Partner of the Overwatch League Grand Finals"
-excerpt: "IBM to help power interactive and analytical content for the Overwatch League, engaging fans and players through cloud, IBM’s Watson artificial intelligence, and machine learning ARMONK, N.Y. and IRVINE,"
-publishedDateTime: 2020-10-09T04:01:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/business-sports-technology-lifestyle-products-and-services-09560d68e8ed6386c546a08c0df19c1e"
-webUrl: "https://apnews.com/press-release/pr-newswire/business-sports-technology-lifestyle-products-and-services-09560d68e8ed6386c546a08c0df19c1e"
+excerpt: "Today, IBM and the Overwatch League™, the world's first global esports league with 20 city-based teams, announced its first-of-a-kind multi-year deal to bring IBM's cloud computing and artificial intelligence technology to esports."
+publishedDateTime: 2020-10-09T05:01:00Z
+originalUrl: "https://www.nasdaq.com/press-release/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the"
+webUrl: "https://www.nasdaq.com/press-release/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the"
 type: article
-quality: 0
+quality: 2
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - IBM AI
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "IBM Inks Its First-Ever Esports Deal With The Overwatch League"
@@ -128,7 +122,21 @@ related:
         width: 600
         height: 347
         isCached: true
+  - title: "AI Eye Episode 450: IBM (NYSE: $IBM) Brings AI and Cloud Computing to Esports with Overwatch (NasdaqGS: $ATVI) League Deal"
+    excerpt: "IBM (NYSE:IBM) and the Overwatch League, a global esports league created by Blizzard Entertainment - a division of Activision Blizzard (NasdaqGS:ATVI) - have announced a multi-year deal to bring IBM's cloud computing and artificial intelligence (AI) technology to esports."
+    publishedDateTime: 2020-10-09T17:03:00Z
+    webUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/10091AIEye-IBM-ATVI.asp"
+    type: article
+    provider:
+      name: Investor ideas
+      domain: investorideas.com
+    quality: 15
+    images:
+      - url: "https://www.investorideas.com/images/AI-Eye.jpg"
+        width: 1280
+        height: 1206
+        isCached: true
 
-secured: "oyVTm0FuzBSjP6Ednz3GU8h1uZXNd/S4lEx8tR8YSzLxCmO3vZffw1zJcLoYppKwV0135joHPBZSLd50IXFZ0dbJPPbTqwKg5dmqH2fWi7qZrRSGwjMMbQUiI5yN7Rigj8AtjgYXv6/X+hOJigNda+bMBzJzynqOHIvmVrE65ezjr+mu4RvdN2/RPUhp3+BJgvj6g6gxLSsD7k7EDbfoCFvzal/+rGcpli1JdtlUQh6fnb6+Qn58+Ee4Z6CfRpcqXhUPMtcf1gkKkE9FpQQZd/sNLB5x5vDDcWMyALUhbM6PJyBhDxFzU5Xdeom+k6Um1QOo8eUDoAqTQISRuWrtxYyKmnYTPnq+59dC8cVMFo0=;eEk40ek8NuH9clzKnhe0ow=="
+secured: "pBnnTxdpL/Nw4x5IFA28sDUIVIfwsvELtbMWD7oQW5SeXKcbSoy8CkQnrlluOdpcexT1Q6Wbyw5MLp0QvIA+c4tCq+zHTbQD/iFCwpWMzcV2KnnaIGJ1Bz0Wu7+MZJxFBxi4dhCme63+5vbOGlXo5hAF4JtkzU47kiFyIrLqBH8DTE2sAzH2wWyUW/UMHps3z9Aj2ouBK3l4DuhnVhwDUQz2Tfi3ChUG6LK1nzVB63qeoMp0QZtnXleZXWO6Nzh5/YcbXxKYYajZGKfCvnvlte3HnD9NJGIh7j6Y0ngVv4bGvOoyzYp56vAeBeL8rnI4OznKYrbOOaBA7lpc4eG2+9Rb5KpKvmxU6NQtt3ir5hs=;BuWBimE5tj61p4Nu4PTl2w=="
 ---
 

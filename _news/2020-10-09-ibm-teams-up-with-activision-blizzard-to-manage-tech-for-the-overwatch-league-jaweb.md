@@ -114,20 +114,29 @@ related:
         width: 600
         height: 347
         isCached: true
-  - title: "IBM Enters Esports Arena with Activision Blizzard in New Multi-Year Deal as the Presenting Partner of the Overwatch League Grand Finals"
-    excerpt: "IBM to help power interactive and analytical content for the Overwatch League, engaging fans and players through cloud, IBM’s Watson artificial intelligence, and machine learning ARMONK, N.Y. and IRVINE,"
-    publishedDateTime: 2020-10-09T04:01:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-sports-technology-lifestyle-products-and-services-09560d68e8ed6386c546a08c0df19c1e"
+  - title: "AI Eye Episode 450: IBM (NYSE: $IBM) Brings AI and Cloud Computing to Esports with Overwatch (NasdaqGS: $ATVI) League Deal"
+    excerpt: "IBM (NYSE:IBM) and the Overwatch League, a global esports league created by Blizzard Entertainment - a division of Activision Blizzard (NasdaqGS:ATVI) - have announced a multi-year deal to bring IBM's cloud computing and artificial intelligence (AI) technology to esports."
+    publishedDateTime: 2020-10-09T17:03:00Z
+    webUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/10091AIEye-IBM-ATVI.asp"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
+      name: Investor ideas
+      domain: investorideas.com
+    quality: 15
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.investorideas.com/images/AI-Eye.jpg"
+        width: 1280
+        height: 1206
         isCached: true
+  - title: "IBM Enters Esports Arena with Activision Blizzard in New Multi-Year Deal as the Presenting Partner of the Overwatch League Grand Finals"
+    excerpt: "Today, IBM and the Overwatch League™, the world's first global esports league with 20 city-based teams, announced its first-of-a-kind multi-year deal to bring IBM's cloud computing and artificial intelligence technology to esports."
+    publishedDateTime: 2020-10-09T05:01:00Z
+    webUrl: "https://www.nasdaq.com/press-release/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 2
 
 secured: "Gk3zLkxjVeVBlC8bTeKygaxPQDdH7bamiiUbGJXGp/KtJiHDsPl1xHLRWDRitnkZh03FhEzBFatvuuiVS4/Hw0U/Nk5Zp5y4jlKZrd/DzNZ3hpjcz7coIeNOBj24Wt/T9bjEbbAwIU8tp9G0MHRZNnKE46fOof9LJahen6J7570JjwBO84gIhAyPCLS1Bai5Ryz7FF+bSp4PlSutU4P5uJao7GmofgmWg0dw2S+1G3U+Ns6V8a+4cX3Mn03qsJ7mAKeq1099HvDtqanDK9aAw/VUPSRCV19LDsAzODDDrBxe2onnhoQv73J28iMxKHq42dcC2L58AsrEZoSKvXrMeCkhzEg+ywtveLOsy2x2PX133WSRKb15i3ImCekuve5OEY+1wXksoDkaaZfOjkx2SQ5xJI9jG+ag4z6CuvTutv2uIn1ZqNcwnx3fFKLu1aJEDEKZEmLJUIoG6srZLXtUQlEG3hAZAlY5eUs5ZYpwT2zWxusvLdwxKt/UufhSjewNAz1QOaIW4+s6C6C9QK1stg==;VZagaWRQvAMSRkGnOrzjyw=="
 ---

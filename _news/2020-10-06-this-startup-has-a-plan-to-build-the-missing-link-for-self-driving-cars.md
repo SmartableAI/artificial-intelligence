@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lianeyvkoff/2020/10/06/this-startup-has
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lianeyvkoff/2020/10/06/this-startup-has-a-plan-to-build-the-missing-link-for-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://www.dcvelocity.com/ext/resources/images/articles/2020/202010/Seegrid-MediaKit-Image2-1.jpg?height=635&t=1602009585&width=1200"
         width: 4649
         height: 2615
+        isCached: true
+  - title: "Kiwi-born entrepreneur at the forefront of self-driving cars"
+    excerpt: "From Otago University, to IBM, to algorithms for the Mars rovers, Dave Ferguson has spent many years stopping robots running into walls."
+    publishedDateTime: 2020-10-09T16:07:00Z
+    webUrl: "https://www.stuff.co.nz/technology/122919128/kiwiborn-entrepreneur-at-the-forefront-of-selfdriving-cars"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 24
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/o/p/x/2/image.related.StuffLandscapeSixteenByNine.1420x800.216l08.png/1602116585589.jpg"
+        width: 1420
+        height: 798
         isCached: true
 
 secured: "BcgctUe8H6XklJzHkNiClsST1gEJ9KSuGuPu7C9NlxmSrhZv7P3HVTE5ooJN0UJ5IIJpCmuse9h5csT2kJc1QBCgYo4LQNtS+qcWBAZ4j/VwlD15NlHtIwDHft4943kRvCbXHDgnOS1lnx7UKx3MKk/uApotHcDXPcqNw1hhQhAW8DFBO72KQEGypHxAwizX+xYx2ra+QXweSRcmWQylERac0y/MLV+Gf/eerO2IU/nJyCvGUbH7s4jpMOdqqGxk4X0Q91cYAaKvRfvKQ9Nt0otQp3V11fcaGSmQFUI1VcKpf7imOItFf+mjA0nnQT11tEADMjEFzi5Tg6lgxNdFN8rBxbfajNcGSUl/aLCEZM9p8hZWaDRyE+5pvlM0UM3yk9RuXZ5l99+HzHxHgSibnsubJtxo+ZBaXZ5/lIHI5RMZMXbGAe44+3EYjRWIF3fs/Xwo1cEqbdVlNra7Vs7Q46kLmKEVidPZn+x33FU7D08GGMM7n2+O0QrU1nFRmMf43ShkSEo0Gjzt8swAEJ+Uqg==;GVwHVp98U5x62p8ZZQqp9g=="
