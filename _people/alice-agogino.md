@@ -10,7 +10,7 @@ website: https://me.berkeley.edu/people/alice-m-agogino/
 twitter:
   username: agogino
   url: https://twitter.com/agogino
-  followers: 1436
+  followers: 1437
 
 topics:
   - AI
@@ -23,6 +23,6 @@ images:
     isCached: true
     title: "Alice M. Agogino"
 
-secured: "DHG+FddlzR45ZFKYIG5FaUeY82p1xfEJm4rI7OAWypM1hyAMIaxlikNrYiLqPyYxB+m2RvSEpp5AvMto0y7ORm30SHLjE52rrxFbkEczax+1f5+8Ns7tP6qvyCNbic8zMZhfc+jqCtaBCLuyUvB2c6cjb2cr0RdBhOztgrPQGl4m2zHjCZxwN0xMDqGH1ecuFCaahnek1BW8xaAfaYrCHYzMpD4QvwMDmKwNB4SJGkuT9RdqrOrv4K6iWFnudRtmJyxwYdrq6c0rCBGnWItRMpRnlvOJsYmZBrRwHfpAmR1cfJkPsqZt9j1IUHGmRWkB8nnn+iaWfq0NSF6TP21S99whs7g2x5ldDDa6gASuO+LjAQ/ogE7LgF5ZwU6PKdIavD6qRRkVJu0Yd70cQaqGx/ldzh6SY3MQ87eDf1UPQKk=;2/Z9K4o9yCJ9fG7lG4SacQ=="
+secured: "iM075R/tj9JDRv++tRm9HB+LER5OAoVCbakUOigwL+SW6FOitd4JbGe2JiTJcq7C92/iYWGutcS7gZ6PAP7r5DfSc9Hb0XaYlpIV31drBwyWy0/jbXWx2HSUu07zdoN8XPN/Vhl0iDLQQMbviaczjMAFcjRWgbj5GMBkMVJnertkh45ox2Z28/Z3oSNE/8ZNKNNdXXsT8FKjhABdCxPx3BnyqivFeLCHPata9Oyq+qkeWjJlECxFjsSclx/odSILdMwoOKhrIE5AZJLXQhHSBRcQSpyGwhZRq2IL9x9DfxXyGTvpS+7MDHkodKNgX+bpcUVFnKFNA+Bax0VOf4FEQdaCdQINF1AZJTCOY/WjXFEkuAdCthzfufcQlebIwYR/+ZHXyf2pk2pQilfZx2IS09nkSYo5ku/e4Nch0h0IMss=;tpYLy+YtYL9JLi8bvF7aQw=="
 ---
 
