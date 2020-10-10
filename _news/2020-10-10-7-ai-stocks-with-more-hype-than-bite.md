@@ -8,8 +8,8 @@ webUrl: "https://markets.businessinsider.com/news/stocks/7-ai-stocks-with-more-h
 ampWebUrl: "https://markets.businessinsider.com/amp/news/7-ai-stocks-with-more-hype-than-bite-1029666913"
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/7-ai-stocks-with-more-hype-than-bite-1029666913"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -21,8 +21,9 @@ provider:
       height: 50
 
 topics:
+  - IBM AI
   - AI
 
-secured: "5/VJrl2p2ykqsBHaaICIEXN43zAK3rpMK3UEUUOQ37gOi70zbLi9uvJeIWpQdFoz1l7UShwqeqw9jmhUMTz1G+8znmDBu34nFxx5Ze/ZCTmJwYfq6fKNmoaTI6hQrDnBIj1TD7QjPAblxidOQ4dTl6eYRjxGkOy0y/6uWZBbde9sr/2zb+X9Qi7jRnGmyow94Cpg6N5Uq6jw09yijqc/KVMkma1jtCUEtNtbjwxMZSrLGxQ2leblfNPB2eyhQqCX/Jf/qYruMHJXCW9A6MFnGKUcjMTruU+WenmjywQmrdd0u/Rvh5RwQwKkzJ/ZkBZ21ohedV5wV1a+Z3C2NQmDeAQKLSs+IfKDj+LBFAh8pkQ=;6Q7TPBiRnSoaiRT+oF1X6w=="
+secured: "YJ/IW5jfyMZUz1cL5keCCkq/n0cG/f2LMdDb6cFGFYZoOnDKAOYkeac1xoPVT1Ld09YplCxGW985rXjLYKImQ8gbUDTH7JVDQWb0vQUqOMDFYibKtUiBIEwKjnuUBkfw7HkJ+/wgcHNilGU25hyHOPy7w/Y6H5rn1+9PvLinN1zvzol2LOU0csMQaaN5CmUX6doP0WpUFtA0xe2dMQ4Yi0kQ4n1iRSjmX2LcJBZS8S7EzOuzYC7ghh7zfbGjByZSdfT0HkNrCdTfx2WHyGc/8Dd/ulmkyC6OKG26mfQhw8pUYuf1fK3XBq3iZgkAkTqVftgX8jKKKJpbLlt0sov/nEWtIFStHft6zofzK4PelDE=;dfj1Illa3ODPr9NfYUqbzw=="
 ---
 

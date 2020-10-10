@@ -8,7 +8,7 @@ webUrl: "https://www.wlns.com/news/michigan/big-data-and-artificial-intelligence
 ampWebUrl: "https://www.wlns.com/news/michigan/big-data-and-artificial-intelligence-advance-breast-cancer-research/amp/"
 cdnAmpWebUrl: "https://www-wlns-com.cdn.ampproject.org/c/s/www.wlns.com/news/michigan/big-data-and-artificial-intelligence-advance-breast-cancer-research/amp/"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.wlns.com/wp-content/uploads/sites/50/2020/10/breast-cancer.jpg?w=1280"
@@ -43,6 +44,6 @@ related:
         height: 768
         isCached: true
 
-secured: "HHThTcFfNZC3r+KCwIPPLNI9TGBjvn4jRG3hyoJbLf8ihWwgMdli9aSI4aDWgyZbE2KaivpSnHHjRfCc0pKRSpPNsN26XUNGeEN+pYiOHOUsI485/crJjTFGlFUlHL015myLqjAThD6C5biejORoqczQmXeUT3nvlbEX/6QIZnBr4UUnPT44jS+UMZH6HgWeRgJT8IIUB28rvg/u9itzDD85kGsdyZ2szdRqZXHHIjVfWi5hg6LUWeUTm+FEyWwrrIo8PbMmU9mH01QwjyjzZh4izHqnoPVbAhuUB5HUoyuZn9GdGpj74yY4kcHjzsL9orI3UzmideZsQx4+hGU4Ys6VixUckJ+Dw676v4/YCLI=;NuCtMFEPAcwkGUSMfaf3mQ=="
+secured: "NnVIDLo4T4JnXFoda4DpIlX5A4VtW0sSCrDDd0KjVu0kqe9ME+/Y0NmkJkI6JmtPDiMU2dJxF3yg8mbi8IYgkNhIl/RykDAtUoAIEasapk4bB/JhMxmB6q3MQQYqqYGQFU/8UhtzPSp2Jv9SszVRw0MchAceirAFJKCHpHsZV7XnfqIqVtYHtCSARVcLf6vlJi8VJIbQqUIGojYyR8Z4Rj9ry4xEx3oVAbSvzKjbl7/QyxojhYwp+/hvfkWGxLaBBxP7IaHsfmzbUPMaP6oISGB/KndeazlEiXkWiImQh1iqBvfZK32ey+K4+gUsH04SwR85Qr0WSpE7iyZrIpXFIRtChKGt8eyelkxlLhoyvUq6un+IaikL1mPAGfb5dXk/LMVpaLe8gkNtUufYdbY9f2I53AcbTfQFxmGPJPIPSt/YhxOr833bnzbzTLQctqqprrU73vB+Nh7JmnDVnvFciVgawCxp9gVswJiY73NR3X+9YKUl9HHM/l9zYDxbuJ+gTVphnO2dSd4WM+TkIii5bg==;l5p6r5pI87r0B2s6CZubjQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/05/the-import
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/05/the-importance-of-human-machine-ai-team-building/amp/"
 type: article
 quality: 89
-heat: 140
+heat: 130
 published: true
 
 provider:
@@ -94,20 +94,6 @@ related:
       - url: "https://europeansting.files.wordpress.com/2020/10/robots-2020_.jpeg?w=1200"
         width: 1200
         height: 864
-        isCached: true
-  - title: "Understanding the importance of NoCode Machine learning tools and what the best ones in market?"
-    excerpt: "A no-code machine learning platforms can help company employees develop applications without the knowledge of coding. E.g. Create AI, Obviously AI, Teachable Machine, Accelrite Shareinsights, Google C"
-    publishedDateTime: 2020-10-05T08:07:00Z
-    webUrl: "https://www.analyticsinsight.net/top-nocode-machine-learning-platforms-october/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 27
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Data-Science-2.jpg"
-        width: 900
-        height: 601
         isCached: true
 
 secured: "xbfi6uKiuvz7D26SfjlSh2TtPxfAs37mNuLCVIEFlxxqGJ3bGgQUy3Ip2PV/GjeXaZbvszYiLsrkGsM3yaizrCqqyhkCIH74OLtywACGi0Q1I6CrhrAlZxmwpJQnAzmfZfDiestkuLU6zo/DUGy5GHppxwR4f9B1o85C+tuO1Mq7Lmh9tRW7RX23u9JgkwfgTLDjRpc6VwexcLoPf4Szo1J9NjuutVtf5ScZksZiuQmWZo9fD62cjRes50YbkJ6cmWUmU6x553NAzhxLmAbGU1WU/CKexZWDzJp/wgZZ17Txlb6IWtdzXEURMvLOgLKSL+rQHmPT+xOxaq04YUL/sbPp3xKjVLKKuuAcr1rucX0=;fz3E2GoXurjzN5WP/TMKcQ=="

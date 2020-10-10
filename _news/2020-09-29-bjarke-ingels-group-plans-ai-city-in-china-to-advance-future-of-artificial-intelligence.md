@@ -3,8 +3,8 @@ category: news
 title: "bjarke ingels group plans AI CITY in china to advance future of artificial intelligence"
 excerpt: "BIG AI CITY seeks to provide terminus, and the world’s leading tech companies, with a place to advance the future of artificial intelligence and robotics, and build the foundations of a new sustainable development."
 publishedDateTime: 2020-09-29T16:55:00Z
-originalUrl: "https://www.designboom.com/architecture/bjarke-ingels-group-ai-city-china-artificial-intelligence-terminus-group-09-29-2020/"
-webUrl: "https://www.designboom.com/architecture/bjarke-ingels-group-ai-city-china-artificial-intelligence-terminus-group-09-29-2020/"
+originalUrl: "https://www.designboom.com/architecture/bjarke-ingels-group-ai-city-china-artificial-intelligence-terminus-group-09-29-2020/?fbclid=IwAR2-9FqvXxBpPJhkVy6N3IZKa4uxGk4pb_zSe-19cABYa1UDxRzTazehYs0"
+webUrl: "https://www.designboom.com/architecture/bjarke-ingels-group-ai-city-china-artificial-intelligence-terminus-group-09-29-2020/?fbclid=IwAR2-9FqvXxBpPJhkVy6N3IZKa4uxGk4pb_zSe-19cABYa1UDxRzTazehYs0"
 type: article
 
 provider:
@@ -12,7 +12,7 @@ provider:
   domain: designboom.com
 
 topics:
-  - AI in Autos
+  - AI in Robotics
   - AI
 
 images:
@@ -21,6 +21,6 @@ images:
     height: 526
     isCached: true
 
-secured: "Eif3oKY5YqTPaAkDLavfTsgjUUlrehF1LSBfqzIgg3goYXpKg4u5y1uKsuoY0BBB0Sdx3RLHvq0+4MTbNCG+Bq5JYO3e9HKauv+uR5ARvjCcyh06X78xo/QKAAG4qtwj4vBXJ4e8p+HPd30MD4sdQjhvmShXQXTaYzOcRFDUeBVAQv/Bbzf0xW8WywMVH8aS4qsRADiWeD+FfLsjpv3PKuCgaYrw34xsttNBvkg2Mf3iqn+RJNj7W3Gz4y2QXTu4pUrGSFAbGN6ZAXPrms73mvhzPlrbQCtHCEnHD/CBzSkz/ySEaprPMC7SnLCnxDwvTK/wxeGMwqI7M4WrkV4lmeKnCQCKHfNpMwChtFNNfKK6kYbmxBRS8Df9BD11qR8MnFIJVlPuc0feMo1WSnY8bO5JQm80TgQjSVQpHA1aZloAY8k7YA0tobvnG4RpIoG54wStQbpwW4Wj6M20InOavJ9+OyYRvrGEOivLN6D6m06FPzxv8IpHDi52sp0+CNmL8UrmEGnZBimfKcy5r+UiRw==;O4YlMaGYoRyNpmA1VOIdBg=="
+secured: "MHNkTPJR5oHm/Ag8gAlTAbEO/9/BKjRrWwRc9VpmGXAKTHsdj4GOe3Bx/gvN2zE4X/yJGUdDABBc3FEsxUJ6JV+Dn7dbE+QHCddoeGTuakKJHG54nj5RoHarz1CmSLov6FHJdciYeIuQx0ZHhBq35yDgXxi4W2TQL/OVuenLWAJJSPKNt4CO3bklDXn688gvqFjmE+d76V4hhnXTsHoC6a2e2CkjdSs7nYRvAvdwX6N6NzAs9p7wcS5VIRXo+kJrKAD2Fopqv6lNnNkhlC5o9iX6hiE+dOHWir3Bo9oLMakAx4MG1CLAXkLvugz+TnhK1Awt6B7cegN28h5dGDEnjOhgnceQR6ibrh7jlaSG2Nk=;OM7b6sZceFYHYqbGYpFs7A=="
 ---
 
