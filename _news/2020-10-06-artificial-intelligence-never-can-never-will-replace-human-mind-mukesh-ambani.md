@@ -42,22 +42,6 @@ related:
         width: 1400
         height: 978
         isCached: true
-  - title: "\"Time Is Ripe To Make India A World Leader In Artificial Intelligence\": Mukesh Ambani"
-    excerpt: "\"In the coming decades, the total non-biological intelligence will exceed the rational intelligence of the entire human population,\" Reliance Industries chairman Mukesh Ambani said. Billionaire Mukesh Ambani said on Monday that \"time is ripe, and the tools ..."
-    publishedDateTime: 2020-10-05T15:47:00Z
-    webUrl: "https://www.ndtv.com/business/mukesh-ambani-speech-time-is-ripe-to-make-india-a-world-leader-in-ai-says-mukesh-ambani-2305538"
-    ampWebUrl: "https://www.ndtv.com/business/mukesh-ambani-speech-time-is-ripe-to-make-india-a-world-leader-in-ai-says-mukesh-ambani-2305538?amp=1&akamai-rum=off"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/mukesh-ambani-speech-time-is-ripe-to-make-india-a-world-leader-in-ai-says-mukesh-ambani-2305538?amp=1&akamai-rum=off"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 52
-    images:
-      - url: "https://c.ndtvimg.com/2020-07/aq6q2q7g_mukesh-ambani-43rd-agm-july-2020_625x300_15_July_20.jpg"
-        width: 650
-        height: 400
-        isCached: true
 
 secured: "JsHMJC2KjNV3hmFaOLZMRp2nfY9jbXhtTiai24WkQNIql50BqAlyD6zU336nfUbdBmPRjazCy6NdrymtTsan4pqb8nNQ91QXAuYMDOn3TLvfTzHJwq0e0t87OqYNWTPeDmKVZ7Bl8fQyakxtXXAK0bk0mzemdsOYzCoYuSOxKNClUqws3QjssFGZN+1ez1QChpWYgfkwp6PWZWSuvse1Y9KUOUcrEMrqvxDqGkqfK9GztHfmipMYYSo/pEXGyQQVbEv4sPmKhsrl2VEDiJo358vomm4HCmGZv52qJtiuFBQvmjXLAVTG/ixhOOXva1uP3IXmeEplnVXQzZ/NgR+pJEF0PIMo/9QMvYuiTT65dW4=;tGS855RSm0/ZujQATfD4xA=="
 ---

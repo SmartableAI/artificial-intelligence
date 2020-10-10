@@ -111,6 +111,20 @@ related:
         width: 686
         height: 355
         isCached: true
+  - title: "How technology is shaping the future of health care"
+    excerpt: "In this latest eBook, we’ve curated a selection of recent STAT stories covering CRISPR: the businesses being built on them, and their potential impact on all our lives. Learn more."
+    publishedDateTime: 2020-10-10T08:49:00Z
+    webUrl: "https://www.statnews.com/technology-future-health-care/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 24
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2020/10/ebook-lp-image-1024x576.jpeg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "uV16XXVy+TTR/Jadfx+nO1Tl7MbZoYRygtjkoIfnPjdHK+ffAEcr1AVUDu/61b+iNSjLH86E2tioE9choRKKLQNWR2JUNXtLQbCTDv7JY8iG8njStBHHDNgojmsRMo/16WVeidElO8YVer9YFM8yiAvmPo+HLrqO/nh3XMvtqrbMEn7K5DTUm9GsML08e1CCVilDOUzmq71R6xUSdwY1hKjELsbKQvFC4i+aoYcgrCzMplduDvNXM6AFu7+Tdl1G8d1dPL9Fk7cvcLoFyjFt06mGbSSskMIhOn+QQGvcu+iAZc924JmEXoVpNRVOTnHKHK5muE3oXf6bHqGghGZSlKfUK30J9txq2jeFBP3kNvDPJTZwKWSA0DhLdaYmpDHG0uP90vLdkt82hMy5rnWiRwBr2N1Fx6V4psNjYyONW8gw4D+ZV8dhiP5Is7o2uc6fQQFxde5LP0sXqI99O6N/TjHyyz8sriH+4QB1q6JtP0lJJyDqXjv2mLhwJs/VOTFB6Kvn2VZIWYwaPn3fTj/xSA==;QvJjHWSkbLmnJyEYSLmmmw=="
 ---

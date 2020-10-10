@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/industry-leaders-opinion-pm-modis-call-make-
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/industry-leaders-opinion-pm-modis-call-make-india-hub-artificial-intelligence/amp/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -25,52 +25,6 @@ images:
     width: 566
     height: 400
     isCached: true
-
-related:
-  - title: "Want India to become global hub for Artificial Intelligence: PM Modi"
-    excerpt: "Prime Minister Narendra Modi on Monday said that artificial intelligence (AI ... Similarly, it can play a crucial role in healthcare and education. The RAISE summit will also give opportunity to top 15 startups will be given an opportunity to showcase ..."
-    publishedDateTime: 2020-10-05T15:47:00Z
-    webUrl: "https://www.livemint.com/news/india/want-india-to-become-global-hub-for-artificial-intelligence-pm-modi-11601912327145.html"
-    ampWebUrl: "https://www.livemint.com/news/india/want-india-to-become-global-hub-for-artificial-intelligence-pm-modi/amp-11601912327145.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/want-india-to-become-global-hub-for-artificial-intelligence-pm-modi/amp-11601912327145.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://images.livemint.com/img/2020/10/05/600x338/PTI05-10-2020_000245B_1601912413370_1601912427169.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "India to become global hub for Artificial Intelligence: PM Modi at RAISE 2020 virtual summit"
-    excerpt: "Prime Minister Narendra Modi inaugurated RAISE 2020, a Mega Virtual Summit on Artificial Intelligence (AI) on Monday."
-    publishedDateTime: 2020-10-05T17:56:00Z
-    webUrl: "https://www.indiablooms.com/news-details/N/65549/india-to-become-global-hub-for-artificial-intelligence-pm-modi-at-raise-2020-virtual-summit.html"
-    type: article
-    provider:
-      name: India Blooms
-      domain: indiablooms.com
-    quality: 43
-    images:
-      - url: "https://www.indiablooms.com/news_pic/2020/a1b08b0ac648b9feb4c8b943f64bca38.jpg"
-        width: 770
-        height: 413
-        isCached: true
-  - title: "India will soon become global hub for Artificial Intelligence, PM hopes"
-    excerpt: "Prime Minister Narendra Modi on Monday hoped that India will soon become a global hub for Artificial Intelligence and many more Indians will start working on this, in the times to come."
-    publishedDateTime: 2020-10-05T17:03:00Z
-    webUrl: "https://uniindia.com/news/india/pm-artificial-intelligence-summit/2189111.html"
-    type: article
-    provider:
-      name: United News of India
-      domain: uniindia.com
-    quality: 39
-    images:
-      - url: "http://www.uniindia.com/cms/gall_content/2020/10/2020_10$largeimg05_Oct_2020_223344020.jpg"
-        width: 595
-        height: 350
-        isCached: true
 
 secured: "pOY/+vdggYk0mLagJ98VuKH3yddYmzdATT1TXE3sSJVgN7VFoY2SHXwRHbIrNrMo/+i+Hs2s6/NLBpBrqy3XxTxPaOJI58x4UkGIfND8yspLruF/n9dakaBS3AXVJfRoGTlu/sc27TN2ArP73Qi74memEP8jGExMMOtfbFlGIfOqeKH6B9XTAKT41B5GMsaHDeQupJ3GU0LlwSEng+gzRpkHJUmz6pUxyCiil+OoLeZRp2OnzUKcvzzXPzDmaEXd8jJBsElvlrEoltNFwi3p60N2gzQ+Cm1IIt0Af7jBnDc2zeoRaIJ4VP2MQStqvBsZPxSVXDWjNNBYtR9JCBCmKlLkHMZPOwuNzob/mgoIpno=;lI1mNKHIZOcVIu4CvJgtZg=="
 ---

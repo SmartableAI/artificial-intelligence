@@ -62,9 +62,9 @@ related:
   - title: "IBM enters the esports fray with Overwatch League partnership"
     excerpt: "IBM has announced its debut into the esports arena through a multi-year deal inked with the Overwatch League.  Esports is roughly described as competitive videogaming, team-based play, and digital tournaments."
     publishedDateTime: 2020-10-09T11:56:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/"
+    webUrl: "https://www.zdnet.com/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/"
     type: article
     provider:
       name: ZDNet
@@ -140,14 +140,19 @@ related:
         height: 1206
         isCached: true
   - title: "IBM Enters Esports Arena with Activision Blizzard in New Multi-Year Deal as the Presenting Partner of the Overwatch League Grand Finals"
-    excerpt: "Today, IBM and the Overwatch League™, the world's first global esports league with 20 city-based teams, announced its first-of-a-kind multi-year deal to bring IBM's cloud computing and artificial intelligence technology to esports."
-    publishedDateTime: 2020-10-09T05:01:00Z
-    webUrl: "https://www.nasdaq.com/press-release/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the"
+    excerpt: "IBM's Watson artificial intelligence, and machine learning Through the course of the deal, IBM and the Overwatch League plan to leverage IBM's suite of advanced cloud and AI products. Starting in ..."
+    publishedDateTime: 2020-10-09T04:36:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting/article_e5d1c22b-cc99-5de0-accc-251c39e035e0.html"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 2
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "Gk3zLkxjVeVBlC8bTeKygaxPQDdH7bamiiUbGJXGp/KtJiHDsPl1xHLRWDRitnkZh03FhEzBFatvuuiVS4/Hw0U/Nk5Zp5y4jlKZrd/DzNZ3hpjcz7coIeNOBj24Wt/T9bjEbbAwIU8tp9G0MHRZNnKE46fOof9LJahen6J7570JjwBO84gIhAyPCLS1Bai5Ryz7FF+bSp4PlSutU4P5uJao7GmofgmWg0dw2S+1G3U+Ns6V8a+4cX3Mn03qsJ7mAKeq1099HvDtqanDK9aAw/VUPSRCV19LDsAzODDDrBxe2onnhoQv73J28iMxKHq42dcC2L58AsrEZoSKvXrMeCkhzEg+ywtveLOsy2x2PX133WSRKb15i3ImCekuve5OEY+1wXksoDkaaZfOjkx2SQ5xJI9jG+ag4z6CuvTutv2uIn1ZqNcwnx3fFKLu1aJEDEKZEmLJUIoG6srZLXtUQlEG3hAZAlY5eUs5ZYpwT2zWxusvLdwxKt/UufhSjewNAz1QOaIW4+s6C6C9QK1stg==;VZagaWRQvAMSRkGnOrzjyw=="
 ---

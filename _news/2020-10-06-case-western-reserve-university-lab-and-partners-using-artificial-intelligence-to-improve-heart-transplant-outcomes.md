@@ -74,21 +74,53 @@ related:
         width: 1061
         height: 739
         isCached: true
-  - title: "Nvidia says it will build U.K.'s most powerful supercomputer intended for AI research in healthcare"
-    excerpt: "Graphics chip maker Nvidia said Monday it plans to build Britain's fastest supercomputer that healthcare researchers can use to work on medical problems including COVID-19."
-    publishedDateTime: 2020-10-05T16:38:00Z
-    webUrl: "https://www.ctvnews.ca/sci-tech/nvidia-says-it-will-build-u-k-s-most-powerful-supercomputer-intended-for-ai-research-in-healthcare-1.5133290"
-    ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2020/10/5/1_5133290.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2020/10/5/1_5133290.html"
+  - title: "Nvidia uses AI to make video calls way better"
+    excerpt: "The cloud-native platform — named Nvidia Maxine — also offers AI effects including gaze correction, super-resolution, noise cancellation, and face relighting. The system slashes the bandwidth ..."
+    publishedDateTime: 2020-10-05T17:44:00Z
+    webUrl: "https://thenextweb.com/neural/2020/10/05/nvidia-uses-ai-to-make-video-calls-way-better/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/10/05/nvidia-uses-ai-to-make-video-calls-way-better/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/05/nvidia-uses-ai-to-make-video-calls-way-better/amp/"
     type: article
     provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 62
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
     images:
-      - url: "https://beta.ctvnews.ca/national/sci-tech/2020/10/5/1_5133290/_jcr_content/root/responsivegrid/image.coreimg.jpg"
-        width: 1280
-        height: 883
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-05T171624.602-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
+  - title: "NVIDIA flexes its edge, AI muscles"
+    excerpt: "NVIDIA is becoming more influentialUnveils broad range of new products and initiativesStrengthens its support for Arm, which it plans to buy for $40 billion"
+    publishedDateTime: 2020-10-06T15:36:00Z
+    webUrl: "https://www.telecomtv.com/content/digital-platforms-services/nvidia-flexes-its-edge-ai-muscles-39838/"
+    ampWebUrl: "https://www.telecomtv.com/content/digital-platforms-services/nvidia-flexes-its-edge-ai-muscles-39838/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/nvidia-flexes-its-edge-ai-muscles-39838/amp/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 59
+    images:
+      - url: "https://assets.telecomtv.com/assets/telecomtv/nvidia-ceo-10089.jpeg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "VMware, Nvidia partner to boost AI, networking capabilities"
+    excerpt: "If there was any doubt Nvidia has arrived as an enterprise player, its deal with VMware should erase all doubt. The GPU developer and VMware announced at the recent VMworld 2020 conference that they plan to integrate their respective core technologies through a series of development and networking partnerships."
+    publishedDateTime: 2020-10-05T22:12:00Z
+    webUrl: "https://www.networkworld.com/article/3584403/vmware-nvidia-partner-to-boost-ai-networking-capabilities.html"
+    ampWebUrl: "https://www.networkworld.com/article/3584403/vmware-nvidia-partner-to-boost-ai-networking-capabilities.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3584403/vmware-nvidia-partner-to-boost-ai-networking-capabilities.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/05/nvidia-a100-gpu-100842029-large.jpg"
+        width: 1200
+        height: 678
         isCached: true
   - title: "NVIDIA To Develop 400 Petaflop DGX A100 Supercomputer For UK AI Research"
     excerpt: "The Cambridge-1 supercomputer will be an NVIDIA DGX SuperPOD supercomputer with over 400 petaflops of AI performance and eight petaflops of Linpack performance"
@@ -106,21 +138,21 @@ related:
         width: 708
         height: 398
         isCached: true
-  - title: "US chip firm Nvidia building UK supercomputer to boost coronavirus research"
-    excerpt: "US chip giant Nvidia said on Monday it is building Britain’s most powerful supercomputer, which will use artificial intelligence to help researchers solve pressing medical challenges, including those related to COVID-19."
-    publishedDateTime: 2020-10-05T16:50:00Z
-    webUrl: "https://english.alarabiya.net/en/coronavirus/2020/10/05/US-chip-firm-Nvidia-building-UK-supercomputer-to-boost-coronavirus-research"
-    ampWebUrl: "https://english.alarabiya.net/en/amp/coronavirus/2020/10/05/US-chip-firm-Nvidia-building-UK-supercomputer-to-boost-coronavirus-research"
-    cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/en/amp/coronavirus/2020/10/05/US-chip-firm-Nvidia-building-UK-supercomputer-to-boost-coronavirus-research"
+  - title: "NVIDIA’s AI-Based Video Compression Reduces Bandwidth to One-Tenth of H.264"
+    excerpt: "NVIDIA Maxine provides cloud-based suite of GPU-accelerated AI video conferencing software to enhance streaming video."
+    publishedDateTime: 2020-10-08T13:42:00Z
+    webUrl: "https://www.tvtechnology.com/equipment/nvidias-new-ai-based-video-compression-tech-reduces-bandwidth-to-one-tenth-of-h264"
+    ampWebUrl: "https://www.tvtechnology.com/amp/equipment/nvidias-new-ai-based-video-compression-tech-reduces-bandwidth-to-one-tenth-of-h264"
+    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/equipment/nvidias-new-ai-based-video-compression-tech-reduces-bandwidth-to-one-tenth-of-h264"
     type: article
     provider:
-      name: العربية.نت
-      domain: alarabiya.net
+      name: TV Technology
+      domain: tvtechnology.com
     quality: 57
     images:
-      - url: "https://vid.alarabiya.net/images/2020/10/05/f0a9d48e-6383-4b91-9156-a398e0944323/f0a9d48e-6383-4b91-9156-a398e0944323_16x9_600x338.jpg?width=466"
-        width: 466
-        height: 262
+      - url: "https://cdn.mos.cms.futurecdn.net/oAt9y535FRR44FCx6eWzkn-1200-80.jpg"
+        width: 725
+        height: 408
         isCached: true
   - title: "NVIDIA Rethinks AI: Next Gen Data Centers, Supercomputers For Healthcare & More at GTC Day 1"
     excerpt: "NVIDIA is launching Jetson Nano 2GB, the latest addition to the Jetson family. Jetson is an Arm-based System on Chip"
@@ -164,6 +196,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Nvidia Opens GTC with Plans for AI Supercomputer for Biomedical Research"
+    excerpt: "Given the COVID-19 pandemic, Nvidia’s announcement of plans to build a new AI supercomputer – Cambridge-1 – dedicated to biomedical research and"
+    publishedDateTime: 2020-10-05T22:04:00Z
+    webUrl: "https://www.hpcwire.com/2020/10/05/nvidia-opens-gtc-with-plans-for-ai-supercomputer-for-biomedical-research/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 38
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/nvidia-dgx-superpod_630x.jpg"
+        width: 630
+        height: 307
+        isCached: true
   - title: "Nvidia building AI supercomputer for Medical research after acquiring ARM"
     excerpt: "Nvidia announced recently that it was building the most powerful supercomputer in the UK’s history which will be dedicated for research in health."
     publishedDateTime: 2020-10-07T07:46:00Z
@@ -191,20 +237,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/nvidia.png"
         width: 800
         height: 425
-        isCached: true
-  - title: "Nvidia to build the UK’s fastest supercomputer for AI drug-hunters at GSK, AstraZeneca and more"
-    excerpt: "Through a new partnership with GlaxoSmithKline, AstraZeneca and the U.K.’s National Health Service, the chip maker Nvidia plans to build Great Britain’s most powerful supercomputer—and dedicate it to artificial intelligence research in healthcare."
-    publishedDateTime: 2020-10-05T15:40:00Z
-    webUrl: "https://www.fiercebiotech.com/medtech/nvidia-to-build-cambridge-1-uk-s-fastest-supercomputer-for-ai-drug-hunters-at-gsk"
-    type: article
-    provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 29
-    images:
-      - url: "https://qtxasset.com/fiercebiotech/1601908768/EMBEDDED_1.jpg/EMBEDDED_1.jpg?ux9x6vsZuUuGdOJ1he6qhKtRVmPzeKgr"
-        width: 800
-        height: 533
         isCached: true
 
 secured: "UG8ePB/URkc5Ns3ZQZVVrB6x7tWenG2ttWMAMkgfJ+2GacjHqKogkBe4LCTdn8T0m5CRCv1mzcBszC1/cFO96lihP0dJwxi7lGVVZNGAwyACs1P0W8tbU7QRvZmKteiu5IBirlqi2dsH+Z6EbMwfRXS3vlsJAmjmHr1siA0S9g4pLDOsroPsGgAx9pBS6OfIDXpxGqbdv2Phf1GuLOzeiLSAuxlxluQiSmBvJ3ttGjL2eAJOeadAZKm4+DsJY4YcxQ4YYIez5RvGHxZQDMGvPr+p9MiLftit/OeiBqvGmJ6Lzm4GzdGAkyYZYjSVYy9MTyFIkdBl32Tillxv1q/TAAhmYpQVIQbV2/fvZcGpKAE59n3rVrdpqHDDSxQgnXGFgkgr9GAMKAEoATCONCa0ga3MuNdb/0wF23VZyy54O/leAYWlY/TgEvNRfTvJZmJYR01osT7JRaQz8zUGtAUnA50/k11+2xGsHT8J3UhVMIC9HLY1nDVt9eMkOBPUJe6jAAW190ddsH4eXWdlAgLKvQ==;gcDZY9btfWbrDeukCOcMsQ=="

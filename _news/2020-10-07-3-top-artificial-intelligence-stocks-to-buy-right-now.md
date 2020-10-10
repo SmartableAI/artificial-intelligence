@@ -9,8 +9,8 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/10/07/3-top-artificial-intel
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: The Motley Fool
@@ -31,23 +31,32 @@ images:
     isCached: true
 
 related:
-  - title: "3 Top Artificial Intelligence Stocks to Buy in October"
-    excerpt: "Artificial intelligence (AI) is a fast-growing segment of technology. According to researcher IDC, global spending on AI (hardware, software, and services built on them) is expected to exceed $150 billion this year."
-    publishedDateTime: 2020-10-05T15:10:00Z
-    webUrl: "https://www.fool.com/investing/2020/10/05/3-top-artificial-intelligence-stocks-to-buy-in-oct/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/10/05/3-top-artificial-intelligence-stocks-to-buy-in-oct/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/05/3-top-artificial-intelligence-stocks-to-buy-in-oct/"
+  - title: "7 AI Stocks With More Hype Than Bite"
+    excerpt: "Many investors are looking for the best AI stocks to buy right now . But these seven names don't quite make the cut."
+    publishedDateTime: 2020-10-09T18:55:00Z
+    webUrl: "https://investorplace.com/2020/10/7-ai-stocks-with-more-hype-than-bite/"
+    ampWebUrl: "https://investorplace.com/2020/10/7-ai-stocks-with-more-hype-than-bite/amp/"
+    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/10/7-ai-stocks-with-more-hype-than-bite/amp/"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 89
+      name: InvestorPlace
+      domain: investorplace.com
+    quality: 63
     images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F593834%2Fartificial-intelligence-getty-62817.jpg&w=1200&op=resize"
-        width: 1200
-        height: 800
+      - url: "https://investorplace.com/wp-content/uploads/2020/10/robotics-stocks-ai-1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
+  - title: "How to Build an AI Business Strategy"
+    excerpt: "Combining these elements – the technology, and the commercial operations to which it is applied – play a big part in the development of a strategy that can be termed AI-first. Sometimes it’s as simple as knowing where to start. There is a lot of ..."
+    publishedDateTime: 2020-10-07T15:53:00Z
+    webUrl: "https://www.channele2e.com/business/digital-transformation/how-to-build-an-ai-business-strategy/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 17
 
-secured: "DzZ7tjwZR9khnXowHch9o/R6d8oMEOQOPGQsE6V9HLn7Ai1iKrlzIWpx0WzhceEDiA4aPPFVyKLAsNQzpjOYc8fCigBMTsGQzQqCBEeW/XhKf1sVHFG91cb8WC7TvM92oWlGdcCVheMsQlmPabD+EYbqELT63LMKL3hl29CAByIBNHT5AHn1od8VicXEzDR8/jqV3K9nFu6vZFGwOXyEDDs2YeQkIzlnNLS8EHle7nrorrU66j9mHwTHD/ptks9uBMkyyxxk6qATaXLvFVmQvoeVJPETfHaGSZsxmtFK6RBhxjcrNmvHnjO8QjNPr0WDLhwL2e5TD/S3LRA7h9/fAQdaT/NpubtrXR4kn3/Ar8c=;Lz7iWzWhYa4/rbUqF9ZIoA=="
+secured: "q46SqX7ixUvGRyn6O3TbbwGCceKuhYtQfiFJGdHs5hYfflIabRtQvcS46HI4EE53F7NBfVYHj/TuKu9hvfVk2F2gFEsJT/nmZ4xEnTjBiPDSgbtjGlgiCvxsh3OJFM5oklrGTba492RMGiD2iGEFvgWGv+Ah1Nz8PEugVNz6UH+xH2hzbV+u18bma6cfPgaELycxzUO8IPmexKeUxK4R9hPxg9aRbHFyQUVNQR3MNfgMHci7twup/gKI1j8aIfUsVeJLihiBVvIo5OHGoqTEuq+8LM519RtE+mYtqTM21ifElyK9qlncAhkGpB4CgtIT1tgB9j62rseJDrO/mLqK7MCD9yBYYY5hcpzLsX9rjbc=;lBOIKkjA6h30REJKlUdP9Q=="
 ---
 

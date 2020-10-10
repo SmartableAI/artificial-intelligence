@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/07/how-ai-is-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/07/how-ai-is-transforming-the-future-of-sales/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -113,6 +113,20 @@ related:
       - url: "https://www.universityofcalifornia.edu/sites/default/files/uc-merced-ai-birds.jpg"
         width: 686
         height: 355
+        isCached: true
+  - title: "How technology is shaping the future of health care"
+    excerpt: "In this latest eBook, we’ve curated a selection of recent STAT stories covering CRISPR: the businesses being built on them, and their potential impact on all our lives. Learn more."
+    publishedDateTime: 2020-10-10T08:49:00Z
+    webUrl: "https://www.statnews.com/technology-future-health-care/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 24
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2020/10/ebook-lp-image-1024x576.jpeg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "5g3wIWoZzgd6IK5cFncZohtzicJJHZn33CHzrYH27m0m+YCLEgdtLvP5lR1jANTAHzYFkEGmKUGzqwcVhhT8j80jPMJYi76IH7ZBc4UbYxlpDJdcunKimCIJKhAdlRzF9I3TK4elRY9U74w8VoDpEn0fnnt+AFuQdPJHAg8f1k3vp2X7K1J3dMeDKFJ9biGxy4f8tWR02O2gWJdFDkxXWaRmF4HZFiB+546On/IvCYAHhBasvTfElH5P06fcmPZxWa30lgnNf38E2vU+A7BM+AdqSSpPpDHTRetLAVeVu/gim0UEVqR2RQrPH+/c71ASDDX6yUFm0t8C6f+ecp9oT6qgvRhfs2tY1JnIg5lYGPu9LC0C9U8CbVi7sNSp+3ncNAIDMJOefszMBC+WkJa9KcKgAdjHpzlMlXxQr+5MAnjvPwxTXuGXuObpopNYsekn4YUsgcvAfa6UPV5jG03bDwLc6O8+2C1XrG767mM3lvqDOlz9YBpNsA76UduOhb72CW5c9d95cU0+0cmIvtKwRQ==;ipP6jjr6oiO0SaaNoSDDww=="

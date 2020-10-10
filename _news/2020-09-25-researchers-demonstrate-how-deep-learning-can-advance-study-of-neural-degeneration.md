@@ -1,63 +1,26 @@
 ---
 category: news
 title: "Researchers demonstrate how deep learning can advance study of neural degeneration"
-excerpt: "Researchers from North Carolina State University have demonstrated the utility of artificial intelligence (AI) in identifying and categorizing neural degeneration in the model organism C. elegans. The tool uses deep learning,"
-publishedDateTime: 2020-09-24T20:14:00Z
-originalUrl: "https://phys.org/news/2020-09-deep-advance-neural-degeneration.html"
-webUrl: "https://phys.org/news/2020-09-deep-advance-neural-degeneration.html"
-ampWebUrl: "https://phys.org/news/2020-09-deep-advance-neural-degeneration.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-09-deep-advance-neural-degeneration.amp"
+excerpt: "elegans. The tool uses deep learning, a form of AI, and should facilitate and expedite research into neural degeneration. \"Researchers want to study the mechanisms that drive neural degeneration ..."
+publishedDateTime: 2020-09-24T18:05:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-09/ncsu-rdh092420.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-09/ncsu-rdh092420.php"
 type: article
-quality: 53
-heat: -1
-published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/232-researchersd.jpg"
-    width: 1440
-    height: 810
+  - url: "https://www.eurekalert.org/multimedia/pub/web/243999_web.jpg"
+    width: 706
+    height: 652
     isCached: true
 
-related:
-  - title: "Researchers demonstrate the utility of AI in identifying neural degeneration"
-    excerpt: "Researchers from North Carolina State University have demonstrated the utility of artificial intelligence (AI) in identifying and categorizing neural degeneration in the model organism C. elegans. The tool uses deep learning,"
-    publishedDateTime: 2020-09-25T01:54:00Z
-    webUrl: "https://www.news-medical.net/news/20200924/Researchers-demonstrate-the-utility-of-AI-in-identifying-neural-degeneration.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20200924/Researchers-demonstrate-the-utility-of-AI-in-identifying-neural-degeneration.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200924/Researchers-demonstrate-the-utility-of-AI-in-identifying-neural-degeneration.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 56
-    images:
-      - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
-  - title: "How AI Scratches More Than Just the Surface in Neurodegeneration"
-    excerpt: "The researchers have used Artificial intelligence to identify and categorize neural degeneration in the model organism C. elegans."
-    publishedDateTime: 2020-09-25T12:00:00Z
-    webUrl: "https://www.genengnews.com/news/how-ai-scratches-more-than-just-the-surface-in-neurodegeneration/"
-    type: article
-    provider:
-      name: GEN
-      domain: genengnews.com
-    quality: 39
-    images:
-      - url: "https://www.genengnews.com/wp-content/uploads/2020/09/Sept24_2020_AdrianaSanMiguel_C.elegansneuron.jpg"
-        width: 1440
-        height: 810
-        isCached: true
-
-secured: "KRpwrlUwv42NWTNw0uWOEc6v0QJD+kNdPClesLVRb6zXSUpjU01R0gakO39nmKuZ/i9E2uLpqn/0Zp5Mi2MuP82MfARot7XzwS7leg3kJOzfmhI6H9RrtXkx4IFjoBUl7Q/zZ6SaEP7XQIvCX5F2Gy6fyWd0wSbUkwBiq9gp4CEs19mPC9iNd6Dcl9JJL8c60Ziu3HEFhc/p2Rs7kpdBIBtMgDo3ZlOo0a+L+2lyC57oOMQNewUOg3lUAemOv9xfUEOU9q6LtzykGC6XOCDsW33r2XJ7Y/OWsWjSpLGV9CzqAYEIK/94gGBKzi0Z4+1uFevXclYm34+1maGc0XQtq2RFbeK7NPsvJqqnkAFjMrRe2cdTyDglHP0Cj3hL5jkx96zcp/mdR9FNEnXXXvQtK8ZRLa7phBUHXKzRelCpFAfjZC1Q2C9m/7e+3Zdyc1h6izcM/zBjl97RfTLEZVTnworBZ7/2ybq4AdL5LvOzTDs94WqEeEiUdNIHjc3MtuAdyuZnCBsb6QF5x5+KouedUw==;5Q+oJi9znDBQ8WR9IZAvYw=="
+secured: "wTKrJvHEZwQMpPOUGCokdZ7pe4cpYA85Hj5dMrzL0q7yZIjFyTRIYy2DDX+iZOoRg+oCcfJhXegOIo2SbVYyS5n3PI4JOP/GWpajbYGZ65oFmXqoBbJC0lF+FWR8KDCx08IRx7eB/V7YFCZbo5sZ2cbhctpufu08HCPZPetl/pgvr7oFxJNtMTLv7G+LJx+0/l9CLDNgSpLCrlGk6iarMuoOSQTIWR4QtdqUcQ5CpJHWJJM3BpHNcyOB2SDI2dk2plrpDcMgjhVborixRWkoZYBkqSO1t6tiv54gE92l4YkruiXwdIAoE7ofOoScLLbOSdxr4/Vs78WFC6NX9Iq9hh8dOFgIfO3T6Lglhwh1qvA=;zxpuX0Kz1c0PJG7eXRXbTw=="
 ---
 
