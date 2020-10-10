@@ -2,6 +2,99 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-25-monash-university-researchers-speed-up-epilepsy-diagnosis-with-machine-learning.md",
+      "title": "Monash University researchers speed up epilepsy diagnosis with machine learning",
+      "excerpt": "A new study by Monash University, together with Alfred Health and The Royal Melbourne Hospital, has uncovered how machine learning technology could be used to automate epilepsy diagnosis. As part of the study,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/monash-university-researchers-speed-up-epilepsy-diagnosis-with-machine-learning/",
+      "originalUrl": "https://www.zdnet.com/article/monash-university-researchers-speed-up-epilepsy-diagnosis-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/monash-university-researchers-speed-up-epilepsy-diagnosis-with-machine-learning/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/monash-university-researchers-speed-up-epilepsy-diagnosis-with-machine-learning/",
+      "publishedDateTime": "2020-09-24T17:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-amazon-redesigns-the-echo-with-a-new-spherical-design-and-a-custom-machine-learning-processor.md",
+      "title": "Amazon redesigns the Echo with a new spherical design and a custom machine learning processor",
+      "excerpt": "Amazon has announced the fourth-generation version of its main Echo smart speaker, bringing a new spherical design and better sound performance. But the biggest change is a new, on-device speech recognition module that will locally process your audio on the Echo,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2020/9/24/21452347/amazon-echo-4th-generation-features-price-release-date-alexa",
+      "originalUrl": "https://www.theverge.com/2020/9/24/21452347/amazon-echo-4th-generation-features-price-release-date-alexa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/tEU5cAXnuXGjzhmDHRI_SkJtjws=/0x0:1920x1080/1400x933/filters:focal(807x387:1113x693):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67463013/msedge_X9RFhS71eu.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/9/24/21452347/amazon-echo-4th-generation-features-price-release-date-alexa",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/9/24/21452347/amazon-echo-4th-generation-features-price-release-date-alexa",
+      "publishedDateTime": "2020-09-24T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-researchers-demonstrate-how-deep-learning-can-advance-study-of-neural-degeneration.md",
       "title": "Researchers demonstrate how deep learning can advance study of neural degeneration",
       "excerpt": "elegans. The tool uses deep learning, a form of AI, and should facilitate and expedite research into neural degeneration. \"Researchers want to study the mechanisms that drive neural degeneration ...",
@@ -1098,24 +1191,33 @@
     {
       "path": "_news/2020-09-21-gowin-semiconductor-launches-goai-20-for-embedded-machine-learning-inference.md",
       "title": "GOWIN Semiconductor Launches GoAI 2.0 for Embedded Machine Learning Inference",
-      "excerpt": "GOWIN GoAI 2.0 offers direct integration into the TensorFlow and TensorFlow Lite Machine Learning Platforms, optimization for targeting GOWIN's GW1NSR4P µSoC FPGA, and an accelerator to offload ...",
+      "excerpt": "GOWIN GoAI 2.0 offers direct integration into the TensorFlow and TensorFlow Lite Machine Learning Platforms, optimization for targeting GOWIN’s GW1NSR4P µSoC FPGA, and an accelerator to offload ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/09/g17578534/gowin-semiconductor-launches-goai-2-0-for-embedded-machine-learning-inference",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/09/g17578534/gowin-semiconductor-launches-goai-2-0-for-embedded-machine-learning-inference",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/gowin-semiconductor-launches-goai-2-0-for-embedded-machine-learning-inference-1029605673",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/gowin-semiconductor-launches-goai-2-0-for-embedded-machine-learning-inference-1029605673",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17578534",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17578534",
-      "publishedDateTime": "2020-09-21T00:26:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-21T01:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1262,83 +1364,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-mphasis-is-a-leading-machine-learning-ml-solutions-partner-in-aws-marketplace.md",
-      "title": "Mphasis is a leading Machine Learning (ML) solutions partner in AWS Marketplace",
-      "excerpt": "PRNewswire/ -- Mphasis (BSE: 526299; NSE: MPHASIS), an Information Technology (IT) solutions provider specializing in cloud and cognitive services,",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/mphasis-is-a-leading-machine-learning-ml-solutions-partner-in-aws-marketplace-301133749.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/mphasis-is-a-leading-machine-learning-ml-solutions-partner-in-aws-marketplace-301133749.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/690233/Mphasis_Logo.jpg?p=facebook",
-          "width": 2700,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-18T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-artificial-intelligence-and-machine-learning-market-may-see-a-big-move-aibrain-amazon-anki-cloudminds-deepmind.md",
-      "title": "Artificial Intelligence And Machine Learning Market MAY SEE A BIG MOVE | AIBrain, Amazon, Anki, CloudMinds, Deepmind",
-      "excerpt": "Browse Premium Research Report with Tables and Figures at @ https://www.reportocean.com/industry-verticals/sample-request?report_id=4233 Thanks for reading this ...",
-      "sourceUrl": null,
-      "webUrl": "https://ipsnews.net/business/2020/09/18/artificial-intelligence-and-machine-learning-market-may-see-a-big-move-aibrain-amazon-anki-cloudminds-deepmind/",
-      "originalUrl": "https://ipsnews.net/business/2020/09/18/artificial-intelligence-and-machine-learning-market-may-see-a-big-move-aibrain-amazon-anki-cloudminds-deepmind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-18T02:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inter Press Service",
-        "domain": "ipsnews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

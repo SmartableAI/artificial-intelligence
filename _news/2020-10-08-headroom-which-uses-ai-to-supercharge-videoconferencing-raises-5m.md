@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/10/08/headroom-which-uses-ai-to-supercha
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/08/headroom-which-uses-ai-to-supercharge-videoconferencing-raises-5m/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1024
     height: 975
     isCached: true
-
-related:
-  - title: "AI Applied To Video Conferencing Kicks It Up Several Notches"
-    excerpt: "Video conference has become the new business travel, thanks to Covid-19, and we’re going to do more of it even after the virus."
-    publishedDateTime: 2020-10-05T21:40:00Z
-    webUrl: "https://www.forbes.com/sites/bradtempleton/2020/10/05/ai-applied-to-video-conferencing-kicks-it-up-several-notches/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7b914aaf2d1d7b69327ca4%2F0x0.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "cNxNl7YlJVbtuVL9FbHpkniO9iHuJ1/oorAD/+3t02s1dzk8oq/hQCryh68S1GDexNiOX/Kr1yr++TSZ6SIT3GCIx636E/R0Pw4N/AcQjAkxvdZO+mjOZ0PlE0z3na1twEiTcRiLvjlkkPveyBYY9bkehErYmTPMX1L30dmrIRGMDrMnK3r5d4OEH7QZW4F39Czx150T5MSBGdL5XheJbV2OSy9VxezNqIeWFC5v7xckNUl4dmyDTMvIJYCABehnKvfXbARTfi0Xy3GfXo1Ef+x8q+6GJU6lUpehZ42H0UcNJDoPT5ub4mtsBSE6COHdq2XAotdTy66Q/hegiIHyEq+CMaCnm79+mtwg8s5L5qrLOeB6J9tzBnb0FANjPyXD9aeFGih6gA6cGMBKPzI4v2P0/RH7ojWDAKtZmYHQ5r1C+UFvBuXvTSELNJbjd/1Xcymlf93UR/i5h4BUux6WCHN/o71oml0bWNqrHw1sh3akyKCCL3mxz56Gsubdy7P1LSt5XiQFBl9TIpRXSjvnwA==;Fp28FP60Z9xraUqLhvp2ug=="
 ---

@@ -2,48 +2,6 @@
   "page": 42,
   "value": [
     {
-      "path": "_news/2020-09-05-daimler-trucks-tests-self-driving-vehicles-on-public-roads-in-new-mexico.md",
-      "title": "Daimler Trucks tests self-driving vehicles on public roads in New Mexico",
-      "excerpt": "SANTA FE — Daimler Trucks and allied vehicle software company Torc Robotics announced Thursday the expansion of testing for self-driving trucks to public roads in New Mexico along major long ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.lcsun-news.com/story/news/local/new-mexico/2020/09/03/daimler-trucks-torc-robotics-test-self-driving-vehicles-new-mexico/5709369002/",
-      "originalUrl": "https://www.lcsun-news.com/story/news/local/new-mexico/2020/09/03/daimler-trucks-torc-robotics-test-self-driving-vehicles-new-mexico/5709369002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/03/PNM2/5219012c-f7d7-4ece-b613-65135b314c79-AP20121435862361.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.lcsun-news.com/amp/5709369002",
-      "cdnAmpWebUrl": "https://amp-lcsun--news-com.cdn.ampproject.org/c/s/amp.lcsun-news.com/amp/5709369002",
-      "publishedDateTime": "2020-09-04T20:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Las Cruces Sun-News",
-        "domain": "lcsun-news.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-05-lean-sensing-a-critical-enabler-for-autonomous-vehicles.md",
       "title": "Lean Sensing - A Critical Enabler For Autonomous Vehicles",
       "excerpt": "The Autonomous Vehicle revolution has driven a sensor data overload, creating barriers for practical deployment. Lean sensing needs to happen if AVs are to become a reality.",
@@ -1126,6 +1084,48 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-04-microsoft-launches-deepfake-detector-to-spot-ai-altered-fake-news.md",
+      "title": "Microsoft Launches ‘deepfake’ Detector to Spot AI Altered Fake News",
+      "excerpt": "The tech giant Microsoft has launched new software that can assist in spotting 'deepfake' content that are altered by AI to look authentic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.phoneworld.com.pk/microsoft-launches-deepfake-detector-to-spot-ai-altered-fake-news/",
+      "originalUrl": "https://www.phoneworld.com.pk/microsoft-launches-deepfake-detector-to-spot-ai-altered-fake-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.phoneworld.com.pk/wp-content/uploads/2020/09/Microsoft-logo_rgb_c-gray-1.png",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.phoneworld.com.pk/microsoft-launches-deepfake-detector-to-spot-ai-altered-fake-news/amp/",
+      "cdnAmpWebUrl": "https://www-phoneworld-com-pk.cdn.ampproject.org/c/s/www.phoneworld.com.pk/microsoft-launches-deepfake-detector-to-spot-ai-altered-fake-news/amp/",
+      "publishedDateTime": "2020-09-04T02:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "phoneworld.com.pk",
+        "domain": "phoneworld.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Solutions for curtailing gerrymandering could include artificial intelligence"
-excerpt: "There are other ideas emerging, too: like using artificial intelligence to make the maps. “It takes an enormous computer capacity, which was not there 30 years ago, and writing the programming to make that all happen is also not a trivial matter,” said ..."
-publishedDateTime: 2020-10-09T15:43:00Z
-originalUrl: "https://www.thedenverchannel.com/news/national-politics/the-race-2020/solutions-for-curtailing-gerrymandering-could-include-artificial-intelligence"
-webUrl: "https://www.thedenverchannel.com/news/national-politics/the-race-2020/solutions-for-curtailing-gerrymandering-could-include-artificial-intelligence"
+excerpt: "It’s one of the most controversial aspects of politics: gerrymandering. That’s the process of mapping out districts for political representation in Congress and state legislatures. It’s highly politicized,"
+publishedDateTime: 2020-10-09T14:32:00Z
+originalUrl: "https://www.wcpo.com/news/national-politics/the-race-2020/solutions-for-curtailing-gerrymandering-could-include-artificial-intelligence"
+webUrl: "https://www.wcpo.com/news/national-politics/the-race-2020/solutions-for-curtailing-gerrymandering-could-include-artificial-intelligence"
 type: article
 quality: 49
 heat: 49
 published: false
 
 provider:
-  name: 7News and TheDenverChannel.com
-  domain: thedenverchannel.com
+  name: WCPO Cincinnati
+  domain: wcpo.com
 
 topics:
   - AI
@@ -38,46 +38,7 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "In-house: AI patenting is becoming more challenging"
-    excerpt: "“For AI, we start thinking of providing a framework for the computer to make decisions and draw conclusions without providing specific instructions. It becomes like a black box where we don’t actually know how the computer is coming up with decisions ..."
-    publishedDateTime: 2020-10-09T08:02:00Z
-    webUrl: "https://www.managingip.com/article/b1nqhkjgslk5t8/in-house-ai-patenting-is-becoming-more-challenging"
-    type: article
-    provider:
-      name: Managingip.com
-      domain: managingip.com
-    quality: 37
-    images:
-      - url: "https://www.managingip.com/v-d253a52ef452d5ac4593cb26fe20e3f3/Media/images/managing-ip/2020/october/AI.JPG"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Creative Behavior Is Set To Harness AI For Catering To Growing Business Needs"
-    excerpt: "CHARLOTTE, NC / ACCESSWIRE / October 9, 2020 / Creative Behavior LLC is transforming the marketing approach for its clients by harnessing the power of AI into digital marketing. The technology will help their existing clientele to understand their users changing needs and preferences."
-    publishedDateTime: 2020-10-09T19:45:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/technology-charlotte-north-america-north-carolina-artificial-intelligence-2a793da858d236dec1ffaf9342ab53d1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "In a battle of AI versus AI, researchers are preparing for the coming wave of deepfake propaganda"
-    excerpt: "Fake videos generated with sophisticated AI tools are a looming threat. Researchers are racing to build tools that can detect them, tools that are crucial for journalists to counter disinformation."
-    publishedDateTime: 2020-10-09T12:28:00Z
-    webUrl: "https://theconversation.com/in-a-battle-of-ai-versus-ai-researchers-are-preparing-for-the-coming-wave-of-deepfake-propaganda-146536"
-    ampWebUrl: "https://theconversation.com/amp/in-a-battle-of-ai-versus-ai-researchers-are-preparing-for-the-coming-wave-of-deepfake-propaganda-146536"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/in-a-battle-of-ai-versus-ai-researchers-are-preparing-for-the-coming-wave-of-deepfake-propaganda-146536"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 26
 
-secured: "Ik6aVQSbPysMdkFDYXIAIUV+p5AYfb/6mRAN2Womd6zpjjhaGQKwicfQNamoCGQE/xjOGet4xYldORHRkCmpmo21+UtsJ4thbtVy+OovKY9HGtY8933m+/BZQKJeS5BQ8KUdd8b5TPUgK9bHYVRulgW0AqybdTiM9udadnNP74MIo7RS0G7vwQbjPgfndXbXerzmnZcG1MM/cGM4ABLabruIm94R94j8FmVnmY09VRHQI2y8dGsXkjiaQxSgNssJYEZ1/XutPHp8mMvImhqAJdwwIv/F9LREzELlTPZq40s818bNQPw3jMNq72TOwUXyWbFhB0E9y9UNnSqMDCMaJPxErowN3iGBwINMNuqdqKc2wiTTlRMu88uSrr17H6KJXj8B3vTPy/GWYZ03zlN9Pw938AZYLDgtlTNbAsW2kowMOf9BZqp2OOdQMSBA9ajebw76PFcf90QB4lU1n1ZCBZNE6MDZkPTnEJvv3AQ65axjP9rl7jZe4PV3Mut9uQqOtjM7OdJd64SgXTszC0hXEg==;n4HdtKY1j9YKf77ljIMSfw=="
+secured: "dsFyG2sw6JlphSaDUS5DPB3azog4wqv24hcetQzwyO1Rwxrb69duNZd26hl+NJiNwobBuH3qANqzgiAjvwcy86Fu/ZwQQSCkGVXXsZGtLGrwRId7n+qP8MCleipbdaeTghWragmenK18zD/Z+B+XEG6ISVcoBfOTsjV9OgIIlpzpiy//QE+Q8uIImA3T34bKCe7W4OmhZkh5wmDrYueW1oyePkBUYsR0gnjxDoC/R5quWw7l4OHNe/r9IsymuxD0wKHZZNmc75d68sCUuhhJz+TvdpRBUYEUvgHWN8bOHbkxTm7XNAldu+OBgk4XADD5kqlmT17g9AFGcTf/VqVHclMwZLU8xtcICnOx8qzg6UA=;6EBdIy+EHHpDkMxsUoxrUA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://theconversation.com/amp/in-a-battle-of-ai-versus-ai-research
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/in-a-battle-of-ai-versus-ai-researchers-are-preparing-for-the-coming-wave-of-deepfake-propaganda-146536"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -19,64 +19,6 @@ provider:
 topics:
   - AI Ethics
   - AI
-
-related:
-  - title: "Solutions for curtailing gerrymandering could include artificial intelligence"
-    excerpt: "There are other ideas emerging, too: like using artificial intelligence to make the maps. “It takes an enormous computer capacity, which was not there 30 years ago, and writing the programming to make that all happen is also not a trivial matter,” said ..."
-    publishedDateTime: 2020-10-09T15:43:00Z
-    webUrl: "https://www.thedenverchannel.com/news/national-politics/the-race-2020/solutions-for-curtailing-gerrymandering-could-include-artificial-intelligence"
-    type: article
-    provider:
-      name: 7News and TheDenverChannel.com
-      domain: thedenverchannel.com
-    quality: 49
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/7654b54/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fec%2F1a%2Ff327fb504c2f9e89239ec830173e%2Fframe-1038.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI IN BANKING: How forward-looking banks are using maturing AI solutions to design both customer- and employee-facing innovations"
-    excerpt: "This report identifies AI use cases transforming the way FIs operate, the business impact of those use cases, and real-world examples of each."
-    publishedDateTime: 2020-10-06T18:48:00Z
-    webUrl: "https://www.businessinsider.com/ai-in-banking-report-2020"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
-    images:
-      - url: "https://i.insider.com/5e616b4dfee23d6e9e10f232?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "In-house: AI patenting is becoming more challenging"
-    excerpt: "“For AI, we start thinking of providing a framework for the computer to make decisions and draw conclusions without providing specific instructions. It becomes like a black box where we don’t actually know how the computer is coming up with decisions ..."
-    publishedDateTime: 2020-10-09T08:02:00Z
-    webUrl: "https://www.managingip.com/article/b1nqhkjgslk5t8/in-house-ai-patenting-is-becoming-more-challenging"
-    type: article
-    provider:
-      name: Managingip.com
-      domain: managingip.com
-    quality: 37
-    images:
-      - url: "https://www.managingip.com/v-d253a52ef452d5ac4593cb26fe20e3f3/Media/images/managing-ip/2020/october/AI.JPG"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Creative Behavior Is Set To Harness AI For Catering To Growing Business Needs"
-    excerpt: "CHARLOTTE, NC / ACCESSWIRE / October 9, 2020 / Creative Behavior LLC is transforming the marketing approach for its clients by harnessing the power of AI into digital marketing. The technology will help their existing clientele to understand their users changing needs and preferences."
-    publishedDateTime: 2020-10-09T19:45:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/technology-charlotte-north-america-north-carolina-artificial-intelligence-2a793da858d236dec1ffaf9342ab53d1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "sPkF4Z8JRI9HQwRqLm57lHcyFvuqL7zKsbH90Waf6w946u7Bf1ip4vA3fvN3EXPaD+b3vsFEidvnms6dnCeJAdU6IPSKNpa7lGxNdyIk/hoCQkoaTVpYDcfW0CLO99gX3hlY6ATeiypp1HGdbrkKJV3YdcmL8sBOzEiuKccUJOcPPJH1vGAeAhgbxkygSxatMntOW9QdGt3mlxDcm51ffZdtPyzXCw/QM54GsIvX1HZ/SnTr3US/EEsscKGGa2iDlMKhiC76YqmHtyxuA38ZGtJqAi6KpZ5kVfGkYPlx7gKjjZD5xtl6rjpIIP5Sxm/oiKjI+Xqozy7Nmh/SL06uS2CpEnjSFS+xd5nk9Tt/cu7llFezouXgFlsK+P6JhHPIkGgygveKc0quDpyTzivBlc4iu9wL0E9uD7pfRw3Wg9F5FOwRawR0giTfRFY1GxdeyUiYHFiSVAp0Afc0vSTJaS7m9g4nfFXaBDUXLiC4aHW2Nvno1HNl4t5BWQpkbbSPCzia37zwbC2DETcgs1q9kA==;tFGDe3Zl5VeKFxWCDfG5VA=="
 ---

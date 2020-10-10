@@ -36,15 +36,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "Ford reports 7.6% stake in newly public self-driving auto company Velodyne Lidar"
-    excerpt: "Ford (NYSE:F) holds 13.06M shares in Velodyne Lidar (NASDAQ:VLDR), equating to 7.6% stake.Stake is calculated based on 172.8M common stock outstanding on Sept."
-    publishedDateTime: 2020-10-05T21:13:00Z
-    webUrl: "https://seekingalpha.com/news/3619947-ford-reports-7_6-stake-in-newly-public-self-driving-auto-company-velodyne-lidar"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 0
 
 secured: "3KV0WsLSkbmTjX3oDrpCavfrU0MBtEtTQHjJu58ZTvi57YXwaUPOGYcSJPdvpSQ73zONieRkpf+2C4hlUGRZtSDErq3Y2BLup56a5Qr0hrwdaRVtndcJy9iMJ24HZc4GDShQvXcUZUJ42hDZY7pzGqHGL72lQLFXDFUS8Y3g92JW9WjUHyhDf2HRFO1J9+mFCwGN9VlPumt/tTKN+bQzYiwKNyiAq0aeNQWRxLijeB7JWVjDrbqoMy2/zZOXymGFRuJgVhYbFDcnBftHjjOUcSZkbxRUQBmoR376jCMl0VVZbRiTOk65TaV7DZ5jPriE+fblOV9BnxQTnZhUI5KQTpyhwC07+a24POxZghOtfd/5+yEQs90P3EG6DAEn1A5fbAtIO16h4rsNICYP6429CU40xBFuZbitJb6gSI4bM13B/tanZ5BpndnnMSTz0jq2nm+eL/1HXv2bgHAZtBHyV1v1NnDy8QOvHV1bQoJJlthukwBGcaiBm8tC8UQpy337tGyQzLs2fZMa6tDpnRQmCA==;AtEpHvf8JluR3PcywB7JKA=="
 ---

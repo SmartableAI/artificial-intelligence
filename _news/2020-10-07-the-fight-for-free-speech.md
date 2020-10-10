@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailysignal.com/2020/10/07/the-fight-for-free-speech/amp
 cdnAmpWebUrl: "https://www-dailysignal-com.cdn.ampproject.org/c/s/www.dailysignal.com/2020/10/07/the-fight-for-free-speech/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "WILLIAMS: The fight for free speech"
-    excerpt: "Chief among their lessons is a need to attack free speech in the form of prohibitions against so-called hate speech and microaggressions. We apologize, but this video has failed to load. Try refreshing your browser,"
-    publishedDateTime: 2020-10-05T22:18:00Z
-    webUrl: "https://torontosun.com/opinion/columnists/williams-the-fight-for-free-speech"
-    ampWebUrl: "https://torontosun.com/opinion/columnists/williams-the-fight-for-free-speech/wcm/83c2724d-7f63-419e-a651-853c42973568/amp/"
-    cdnAmpWebUrl: "https://torontosun-com.cdn.ampproject.org/c/s/torontosun.com/opinion/columnists/williams-the-fight-for-free-speech/wcm/83c2724d-7f63-419e-a651-853c42973568/amp/"
-    type: article
-    provider:
-      name: Toronto Sun
-      domain: torontosun.com
-    quality: 44
-    images:
-      - url: "https://smartcdn.prod.postmedia.digital/torontosun/wp-content/uploads/2020/10/CLASSROOM-2020-10-06.jpg?quality=100&strip=all"
-        width: 1000
-        height: 750
-        isCached: true
   - title: "Fight for free speech as vital now as in history"
     excerpt: "The violence, looting and mayhem that this nation has seen over the last several months has much of its roots in academia, where leftist faculty teach immature young people all"
     publishedDateTime: 2020-10-07T04:15:00Z
@@ -127,15 +111,6 @@ related:
         width: 340
         height: 246
         isCached: true
-  - title: "Walter Williams: The True Test of Supporting Free Speech"
-    excerpt: "The violence, looting, and mayhem that this nation has seen over the last several months has much of its roots in academia, where leftist faculty teach immature young people all manner of nonsense that contradicts commonsense and the principles of liberty."
-    publishedDateTime: 2020-10-06T15:21:00Z
-    webUrl: "https://www.cnsnews.com/index.php/commentary/walter-e-williams/walter-williams-true-test-supporting-free-speech"
-    type: article
-    provider:
-      name: CNSNews.com
-      domain: cnsnews.com
-    quality: 4
 
 secured: "MLtcJPVZIqiJPU4YmTryma115Cu6tKE0GqvPePQDxwy7kWagOO7PZY+TuHLySJl68bJ34vYJaUHAiWzmli1xJNVMKUlwqsEZJIUc2dW1lay+MM1IanmwtPfK1c5KDF+lmD6onAkHsILQ4f5a/EqgjtRzh6BBmikB6Ux3vLD+5IMn3LJqyFKC+jS1jiQoLk9D2zWTI+PtMJ3t3TZnlW7kUlOyTud4FGEc6rdQ5i5Bu/2a9pWB69QOifDbFS8kaEuplJuwakfteN27+GBhiOsQZ52ZMo1WGjEkROh2GsRs/ZMLKNG6C2ztnuBeGGyF/i2qutoYLPubnt0O1tgREfk3VcpOIkWAMUvgwZ32+n9jiBxvTRySfmZ0g3ohHxynRyFQkWb0PG0xL0/5z1wyouLVrJ2eZS4jm4kw83f5cCMvk8SXtvJO3+QNC/y86OASBs+HboQUr9XbKuMTvhhQ7vlhEqJBYnQDwoch5ffzKbCOpAj5NdSWib9jstIQ+aoPwa7ruLhFDHdsgXt3ptt9P7Tl9g==;khFAT+vgfVzqZ2T4Pv3YKg=="
 ---

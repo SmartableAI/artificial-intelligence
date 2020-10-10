@@ -97,22 +97,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "VMware, Nvidia partner to boost AI, networking capabilities"
-    excerpt: "If there was any doubt Nvidia has arrived as an enterprise player, its deal with VMware should erase all doubt. The GPU developer and VMware announced at the recent VMworld 2020 conference that they plan to integrate their respective core technologies through a series of development and networking partnerships."
-    publishedDateTime: 2020-10-05T22:12:00Z
-    webUrl: "https://www.networkworld.com/article/3584403/vmware-nvidia-partner-to-boost-ai-networking-capabilities.html"
-    ampWebUrl: "https://www.networkworld.com/article/3584403/vmware-nvidia-partner-to-boost-ai-networking-capabilities.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3584403/vmware-nvidia-partner-to-boost-ai-networking-capabilities.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/05/nvidia-a100-gpu-100842029-large.jpg"
-        width: 1200
-        height: 678
-        isCached: true
   - title: "NVIDIA’s AI-Based Video Compression Reduces Bandwidth to One-Tenth of H.264"
     excerpt: "NVIDIA Maxine provides cloud-based suite of GPU-accelerated AI video conferencing software to enhance streaming video."
     publishedDateTime: 2020-10-08T13:42:00Z
@@ -179,20 +163,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Nvidia Opens GTC with Plans for AI Supercomputer for Biomedical Research"
-    excerpt: "Given the COVID-19 pandemic, Nvidia’s announcement of plans to build a new AI supercomputer – Cambridge-1 – dedicated to biomedical research and"
-    publishedDateTime: 2020-10-05T22:04:00Z
-    webUrl: "https://www.hpcwire.com/2020/10/05/nvidia-opens-gtc-with-plans-for-ai-supercomputer-for-biomedical-research/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 38
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/nvidia-dgx-superpod_630x.jpg"
-        width: 630
-        height: 307
         isCached: true
   - title: "Nvidia building AI supercomputer for Medical research after acquiring ARM"
     excerpt: "Nvidia announced recently that it was building the most powerful supercomputer in the UK’s history which will be dedicated for research in health."

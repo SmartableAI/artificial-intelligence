@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "WILLIAMS: The fight for free speech"
-    excerpt: "Chief among their lessons is a need to attack free speech in the form of prohibitions against so-called hate speech and microaggressions. We apologize, but this video has failed to load. Try refreshing your browser,"
-    publishedDateTime: 2020-10-05T22:18:00Z
-    webUrl: "https://torontosun.com/opinion/columnists/williams-the-fight-for-free-speech"
-    ampWebUrl: "https://torontosun.com/opinion/columnists/williams-the-fight-for-free-speech/wcm/83c2724d-7f63-419e-a651-853c42973568/amp/"
-    cdnAmpWebUrl: "https://torontosun-com.cdn.ampproject.org/c/s/torontosun.com/opinion/columnists/williams-the-fight-for-free-speech/wcm/83c2724d-7f63-419e-a651-853c42973568/amp/"
-    type: article
-    provider:
-      name: Toronto Sun
-      domain: torontosun.com
-    quality: 44
-    images:
-      - url: "https://smartcdn.prod.postmedia.digital/torontosun/wp-content/uploads/2020/10/CLASSROOM-2020-10-06.jpg?quality=100&strip=all"
-        width: 1000
-        height: 750
-        isCached: true
   - title: "The Fight for Free Speech"
     excerpt: "Once leftists have gained power via free speech, as they have in most of our colleges and universities, free speech becomes a liability."
     publishedDateTime: 2020-10-07T07:04:00Z
@@ -127,15 +111,6 @@ related:
         width: 340
         height: 246
         isCached: true
-  - title: "Walter Williams: The True Test of Supporting Free Speech"
-    excerpt: "The violence, looting, and mayhem that this nation has seen over the last several months has much of its roots in academia, where leftist faculty teach immature young people all manner of nonsense that contradicts commonsense and the principles of liberty."
-    publishedDateTime: 2020-10-06T15:21:00Z
-    webUrl: "https://www.cnsnews.com/index.php/commentary/walter-e-williams/walter-williams-true-test-supporting-free-speech"
-    type: article
-    provider:
-      name: CNSNews.com
-      domain: cnsnews.com
-    quality: 4
 
 secured: "DRSz056zGQbsZ/btqysK4KoUJ01HbDF8DEbBoOK5N3oqhyep7nMpUdIKVGGnEKUFQWObywO+Pja7n9z0BXQ0AZWSc+oMtHmB0kyDmoxg5LUusrhpC2M2o0ZEaJB7TlqYvL++Qwwc9HfncUPiKZoUOHk0Zr5MMwn0gITetNGVnkY1dolblfwK5gxUZCpFztUuwt0cOggG5f5f6XXLGDyxhBvNQQ2QgAPwwgOPy1OrwnY3NQ5VlbGFW3NfJs9kZBvogHtwDtqZPf/HBZiK1A5IXGoY4R1vbS4AHe4aAvfflsy6mhB6vHCnpmLhs2+qSxoItWi/RmRCEkUrq7LSzVCRlTJFd66Wb3V3ZkJb52PeC84=;TPJrcNEGeWBvJx7H05+GRw=="
 ---
