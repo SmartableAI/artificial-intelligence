@@ -25,20 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon aims to improve biometric features and privacy with new edge AI chip in Echo devices"
-    excerpt: "A new processor in Amazon’s latest generation of Echo devices are giving the Alexa assistant intriguing capabilities that the company say offer consumers a more natural experience of speech-based"
-    publishedDateTime: 2020-10-05T20:06:00Z
-    webUrl: "https://www.biometricupdate.com/202010/amazon-aims-to-improve-biometric-features-and-privacy-with-new-edge-ai-chip-in-echo-devices"
+  - title: "Walgreens Hit With Biometric Suit Over Face Scan Cameras"
+    excerpt: "Walgreens has been hit with a proposed class lawsuit in Illinois state court claiming the pharmacy retailer has violated customers' biometric privacy rights by using cameras that scan their facial geometry without first obtaining their informed consent."
+    publishedDateTime: 2020-10-07T00:30:00Z
+    webUrl: "https://www.law360.com/articles/1316828/walgreens-hit-with-biometric-suit-over-face-scan-cameras"
+    ampWebUrl: "https://www.law360.com/amp/articles/1316828"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1316828"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 44
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/06/11110622/amazon-biometric-facial-recognition.jpg"
-        width: 810
-        height: 405
-        isCached: true
+      name: Law360
+      domain: law360.com
+    quality: 24
 
 secured: "maqFxGWeqwL4taZdcD/8u00PAl7WruFFz3ju/LxE0Zo8slqslRgVwZqCpLmCzmWdVHqapQQCk9GBWPjioVQpqcXgh1X3tLGm7O38RahnaA3AlPWtIxhszVB9NS2iUrAkdiq/LdmIw7xjLd4rQbYdgUREdSf6O7gQlh4in2LmBj7UOSWMn6Xn3YUzYjjxB3ZVWj1z9ApZaNVTu/0OsfB+5C7nuumAmNIQfsYirtQAQmQOSDa5IK2UazjY9YZAi2ameSIiR266qaWy9GuTiu++x3Uv0ZWcFcYJHu/HCDXpUgfcflv8bQ5wq+5gzatHys8igKyJud3wXkdZ8ykFuZbAywweIL0YfdykP5xRsZk5vR4fkkcTVGuuA3K6cTMOlgFaLt6xvQglRRTyWEP4fRPuZWEWervqqvmAFk3uH5AMv3iZHjJS89tnxYk27+A8DKdZvJ1AKdabzl2YAT6icguwmLU0A4mf9FQJcIihPUI/61/ak79hXuNsyHLrE5MKjPorWaXTVZB3iKWimZhgLx4Jdg==;k/Hd9WVmASBzDC+qMl/4Lg=="
 ---

@@ -8,7 +8,7 @@ webUrl: "https://investorplace.com/2020/10/7-ai-stocks-with-more-hype-than-bite/
 ampWebUrl: "https://investorplace.com/2020/10/7-ai-stocks-with-more-hype-than-bite/amp/"
 cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/10/7-ai-stocks-with-more-hype-than-bite/amp/"
 type: article
-quality: 63
+quality: 59
 heat: -1
 published: false
 
@@ -17,10 +17,8 @@ provider:
   domain: investorplace.com
 
 topics:
-  - AI Hardware
-  - AI
   - IBM AI
-  - Microsoft AI
+  - AI
 
 images:
   - url: "https://investorplace.com/wp-content/uploads/2020/10/robotics-stocks-ai-1600.jpg"
@@ -55,6 +53,6 @@ related:
       domain: channele2e.com
     quality: 17
 
-secured: "55SvCKBxTmc8c4IAlWiAKpTf66vBAciA1AChk8jIHEB/zv2WET007CNFaQldyTaN6s2npVVCQSYh8tcOviVHjEpyupHkfp3/ULLdu8yMbr10xgIz7N6PyyYDaZ1Mfmkilig2Kmwg+hlwom/LP3dQUCD6wIm/Gv7LmVl9uzTG0q8CZyLuNY++0byG0HmdkftpGOKavLi4XRG2FV51/vqU3V0ygTLTCMR88QlkrLP0ysgS4AwHhWbJQKxoBnrosOn1WHXD44jIYQWulFgz2fVUwQ+TP88rSXVcaXttcR9uiFOBIi7WmvQLYo3Igk9lGnqlDMExdRbuQHcP0ysKH4ifv8rj8lW/XXVvHw375Yy5QSmS7E/TKC0m5W1VR2mSMwZlMzqpfSOg/fKRESAVWBVbFhksiqSNabbN+v+Y9BEgC7HvPsfB7YDig5mAp7tfz/0BZa321Q5k8zasGF/oF/hoLeOkXHT0aYlSsVUBN/rjMWCJv6G5TEUt18zig/p2heKfiIewf5TfqQ4A9rghqSXSBw==;ekTzd1/nIFUXPDLouJBtCQ=="
+secured: "Ly/wrJTor/GMSYrtG2T3uiLl80XPv5pjXrWqn/cn9552ogc/1lzQ4r7g+ZPEWHEEdtIaE/2py7TH8MDKsOruQeHK6GQpIkdtebLXkpNszhc/fimkqqFlJblsxPaVoRDfJT+ZdtTEFm+ZAwZNDN/nD3vsc/Lt4Tch/5e1gIeIzrwE2aWK31uNJu/rmdx+9aGqh4lv7x7os1tzhGfCPDma2r9ryjyBUyMMvdVCYUl0D1ftLrKKQDkVnR5Maf2ptCsKi2wvyuXhP7/QdX9TZV2AHRy7ec2xhQDe7S4G8vOpk2N5fHPMxc5iHWkwkU1rxzKrF3LA4KEFO7EEAFPKKaIlnFnhn/NOuoBWyZgciMHqhAw=;S8gQ8I6y8hxGxvL9dcRg2A=="
 ---
 

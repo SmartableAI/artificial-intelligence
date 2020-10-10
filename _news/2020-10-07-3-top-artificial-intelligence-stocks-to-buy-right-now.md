@@ -41,7 +41,7 @@ related:
     provider:
       name: InvestorPlace
       domain: investorplace.com
-    quality: 63
+    quality: 59
     images:
       - url: "https://investorplace.com/wp-content/uploads/2020/10/robotics-stocks-ai-1600.jpg"
         width: 1600
@@ -57,6 +57,6 @@ related:
       domain: channele2e.com
     quality: 17
 
-secured: "9mdPgn9x5mLbNh7QuZCrpoHvZBn8qMYxj/qvfYzVUnLdN1vy1WqpRgwCb78ZGjsNYLh/UXQRNf0wUbe06QeAcj2s1Q7ZNDtCTzxZpqUVhWX4Dbt1v/ALi/wmsZiKZt5ZuAu2jqs79O9PwBQ/yV1CP6oxJUBWGt6Kw1HccwtGpJmqHPoFu3g4t1blXTX/G8wrocN3P/5SaxDfF9qmvp8SSdoq+glB9EW+J4XLNXCXQnN6b7XBEoEJpdKwVAbM+NDqzbXf7PCZmADYpt68+Vpv/CjLl0a3wFlFJjdv90sKKcRCloa1y3C+redfgB/nU2ykt2WsYUDqnNTMJKp75KvLeXBnxtTWJS3v46hIRoIG6HY=;oaLKs5AX6QLI20LvTcD70w=="
+secured: "6Ytc2PAKi2NF4OBP3+cJL9yoSivPZmepnkAIpHeBJ5q60vNNHVGITJBhAUv6o3r1nDCsQxUfV40RD3VHnuAVIdwaPXUDq7tycwySeF6bvPkyOOpE0QQiKbQJk+KKexT+iNw467W1MbaroxzbtIX7oG13hCz5Zq2cSx5kISf3/FMYJF7GOL2KF/dWIaF4XcRkIo31DfcrPJwCOF20zJ1IOC7RITXpzw24yrsySnlf6nXPOcj9TF+TSskO/AqPzr9lhTULTbNq40JBPaJwIp7oDL8k+SU2l/KDOGZjCFZzra0g2S/FX1Sv9sOHxyUqIzZA0cSnzOAK3eoj0c7UnEHmHyf2HhpKVNOx+DKKdiYFQPs=;wGbu2ysU8mBIuTSuwH9T3Q=="
 ---
 

@@ -44,7 +44,7 @@ related:
     provider:
       name: InvestorPlace
       domain: investorplace.com
-    quality: 63
+    quality: 59
     images:
       - url: "https://investorplace.com/wp-content/uploads/2020/10/robotics-stocks-ai-1600.jpg"
         width: 1600

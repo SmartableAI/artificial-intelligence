@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en_us/article/889zj3/facial-recognition-at-
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/889zj3/facial-recognition-at-the-border-is-fueling-other-forms-of-surveillance-report-says"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "From AI to facial recognition: how China is setting the rules in new tech"
+    excerpt: "In its bid to rival the US, Beijing wants to establish the industrial standards that will shape future industries"
+    publishedDateTime: 2020-10-07T04:00:00Z
+    webUrl: "https://www.ft.com/content/188d86df-6e82-47eb-a134-2e1e45c777b6"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 53
+    images:
+      - url: "https://www.ft.com/assets/product/dynamic-barriers/global-trade.jpg"
+        width: 619
+        height: 377
+        isCached: true
   - title: "Canada should stop using facial recognition at border crossings, says legal clinic"
     excerpt: "Researchers call current facial recognition inaccurate and biased, Ottawa says it uses 'facial comparison' technology"
     publishedDateTime: 2020-10-07T23:42:00Z

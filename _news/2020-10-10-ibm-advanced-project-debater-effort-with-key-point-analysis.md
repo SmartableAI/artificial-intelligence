@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/ibm-advanced-project-debater-effort-with-
 ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-advanced-project-debater-effort-with-key-point-analysis/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-advanced-project-debater-effort-with-key-point-analysis/"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Natural Language Processing
 
 secured: "YL/cqwvVymoPwKNbuUNz82JxsW3uivG3xWZXoENnQ7509kEOrajugd3+x5Xhj/wBjEez5yXJUPPvNOFtDBwSp9pG8GN0mpcEFvs7H+R9En57lNw+NyDtFy5YvyZW3zo3HIknPRVrGbIH6JbAAomARc5ilMp58k3Yc9uln+weCPo56CCcMesgTWkIK46OxLyU8h48RDDufBqYVELd7D6aG2xVNNhoiVSBHMhFxqEtAoW/9YMDJ0MAYPdYcy4+vPDEqNhQseEdI02ukYAH7Y5EHCbyYnpnHu2jDW9aCKyyLGgxXIAnkc9+fQtMrGmN8aLymPtUb4iRhSVzwMpfHiRT2NjvgNFRL0tUqXYul2vXo20qcQZfhUG8z7OjztYELU6jSv/TCvu7xX1FKeSqUqnMQCiAYoZOlCuucyqLH7fjuyqW55YzgBDtvTDqhn2prB2bW+ye85EO3Y+X/92IXc8adzHszT4sNg9o6V2gVhSH6kZkYT1rAdYqEZc3rgLjdR+BgI5bj+vSVVgPAxgdBuZAeg==;XHUDwlginAGAUy6Nooi4KQ=="
 ---

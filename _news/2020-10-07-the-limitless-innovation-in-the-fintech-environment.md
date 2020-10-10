@@ -41,20 +41,6 @@ related:
         width: 800
         height: 480
         isCached: true
-  - title: "Outcome-based investments and other fintech to watch"
-    excerpt: "For example, technologies such as IoT, cloud computing and DLT could help verify impact investments by creating and trading digital tokens linked to approved companies. Impact investing refers to investment in companies that have a direct and measurable effect on society and the environment."
-    publishedDateTime: 2020-10-05T20:25:00Z
-    webUrl: "https://www.advisor.ca/my-practice/technology/outcome-based-investments-and-other-fintech-to-watch/"
-    type: article
-    provider:
-      name: Advisor
-      domain: advisor.ca
-    quality: 24
-    images:
-      - url: "https://www.advisor.ca/wp-content/uploads/sites/5/2020/04/iStock-1091264044.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Georgia State to Offer Graduate Certificates in AI Business Innovation, Disruptive Innovation and Entrepreneurship, and Fintech Innovation"
     excerpt: "Georgia State University’s Robinson College of Business will admit new students to three stand-alone graduate certificate programs that address current and emerging market demand for innovation."
     publishedDateTime: 2020-10-09T17:20:00Z

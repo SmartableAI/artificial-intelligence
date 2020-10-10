@@ -9,7 +9,7 @@ ampWebUrl: "https://galusaustralis.com/2020/10/1017705/rd-in-the-service-of-ais-
 cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/10/1017705/rd-in-the-service-of-ais-automatic-speech-understanding/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,36 +25,6 @@ images:
     width: 1024
     height: 538
     isCached: true
-
-related:
-  - title: "Evaluating an automatic speech recognition service"
-    excerpt: "Over the past few years, many automatic speech recognition (ASR) services have entered the market, offering a variety of different features. When deciding whether to use a service, you may want to evaluate its performance and compare it to another service. This evaluation process often analyzes a service"
-    publishedDateTime: 2020-10-05T19:06:26Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/evaluating-an-automatic-speech-recognition-service/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 91
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
-        width: 1260
-        height: 630
-        isCached: true
-  - title: "From AI to facial recognition: how China is setting the rules in new tech"
-    excerpt: "In its bid to rival the US, Beijing wants to establish the industrial standards that will shape future industries"
-    publishedDateTime: 2020-10-07T04:00:00Z
-    webUrl: "https://www.ft.com/content/188d86df-6e82-47eb-a134-2e1e45c777b6"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 53
-    images:
-      - url: "https://www.ft.com/assets/product/dynamic-barriers/global-trade.jpg"
-        width: 619
-        height: 377
-        isCached: true
 
 secured: "ROP2svoAZix50fxBB8IMccB95777IaP6Qdum2/Ia8KVY1OZPBKtifz3HVJ73rJiQHsWb6tr3jRnbxo8dhRHaC2hH2gh9OssP4KLXT5huycYkMVVhej6dlsIdokgSQY0zuLwstFkoDwKB8oRkOYGwRt63zuUfflC1LeUCBlD19T4KJZ1ENmSGfI9k7skXa0VNootkKuMDk3CzOF6cG2/MV/1WZgbI0HGLd4Wil/5T+ZSFUXkoGRTt8xTK/iV7vmvwTeUD7KAHl7eew4LPayVwThkjRQhXewcLX6SLoDCOcun9uLMwNcOadhDKIyEnWlM2kRjMZeyZK7Qo0DV0FeEwQmKE0t3J/z36wuAvsoPb2vg=;1MkOZT74WZ+ommhohQXz0A=="
 ---

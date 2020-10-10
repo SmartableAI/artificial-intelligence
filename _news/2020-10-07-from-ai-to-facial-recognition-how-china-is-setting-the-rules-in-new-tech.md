@@ -25,35 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Evaluating an automatic speech recognition service"
-    excerpt: "Over the past few years, many automatic speech recognition (ASR) services have entered the market, offering a variety of different features. When deciding whether to use a service, you may want to evaluate its performance and compare it to another service. This evaluation process often analyzes a service"
-    publishedDateTime: 2020-10-05T19:06:26Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/evaluating-an-automatic-speech-recognition-service/"
+  - title: "Facial Recognition at the Border Is Fueling Other Forms of Surveillance, Report Says"
+    excerpt: "Facial recognition images taken at border crossings can be repurposed by government agencies and private companies, threatening human rights, the report warns."
+    publishedDateTime: 2020-10-07T10:41:00Z
+    webUrl: "https://www.vice.com/en/article/889zj3/facial-recognition-at-the-border-is-fueling-other-forms-of-surveillance-report-says"
+    ampWebUrl: "https://www.vice.com/amp/en_us/article/889zj3/facial-recognition-at-the-border-is-fueling-other-forms-of-surveillance-report-says"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/889zj3/facial-recognition-at-the-border-is-fueling-other-forms-of-surveillance-report-says"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 91
+      name: VICE
+      domain: vice.com
+    quality: 82
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
-        width: 1260
-        height: 630
+      - url: "https://video-images.vice.com//articles/5f7ccce51afc9200936c4579/lede/1602014744178-gettyimages-925054772.jpeg?crop=1xw:0.818xh;0xw,0.0296xh"
+        width: 3000
+        height: 1685
         isCached: true
-  - title: "R&D in the service of AI’s automatic speech understanding"
-    excerpt: "Zaion, winner of the Innov’up Leader PIA, is indeed opening its own laboratory to accelerate its research and development into AI technologies for automatic speech understanding. We met Gérard Chollet,"
-    publishedDateTime: 2020-10-06T08:53:00Z
-    webUrl: "https://galusaustralis.com/2020/10/1017705/rd-in-the-service-of-ais-automatic-speech-understanding/"
-    ampWebUrl: "https://galusaustralis.com/2020/10/1017705/rd-in-the-service-of-ais-automatic-speech-understanding/amp/"
-    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/10/1017705/rd-in-the-service-of-ais-automatic-speech-understanding/amp/"
+  - title: "Canada should stop using facial recognition at border crossings, says legal clinic"
+    excerpt: "Researchers call current facial recognition inaccurate and biased, Ottawa says it uses 'facial comparison' technology"
+    publishedDateTime: 2020-10-07T23:42:00Z
+    webUrl: "https://www.itworldcanada.com/article/canada-should-stop-using-facial-recognition-at-border-crossings-says-legal-clinic/436891"
+    ampWebUrl: "https://www.itworldcanada.com/article/canada-should-stop-using-facial-recognition-at-border-crossings-says-legal-clinic/436891?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/canada-should-stop-using-facial-recognition-at-border-crossings-says-legal-clinic/436891?amp=1"
     type: article
     provider:
-      name: galusaustralis.com
-      domain: galusaustralis.com
-    quality: 59
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 53
     images:
-      - url: "https://galusaustralis.com/wp-content/uploads/2020/10/Zaion-Lab-IA-scaled-1024x538.jpg"
-        width: 1024
-        height: 538
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2019/05/FEATURE-Facial-recognition-via-GettyImages-credit-to-Metamorworks--620x250.jpg"
+        width: 620
+        height: 250
         isCached: true
 
 secured: "DoZMkoUvi8juay3/DbWi4FmBtutWfjqotmdtN2SSwe/regASUPn5wKelBT6T5Id42ZitA4C3l/eq85S+mqnQZpyDDek3lJYDTKe3pUfbNxUm5qHSwn/wWBWjyzDLFLSjFIQbAi7M3plIIly5KF8s+ch4boR8JRUfXtkDsdH0vXVN7JDy+ExXSEnr+YTmFE8d7lhkdZHAmfVlG4dM3PsUZXT0vlgg484XwL2ElmJ9yfUk0ikO3mgBFuLBZ1rIVpKPloyouS3QESHGMCpj2fYM8thrFnB56KNlol/dRUv9DE5QK2DGNJ81ETFYiLDVlF1BeCB0OhnDgT6BQQC28tM0vQAPjlHM5W7IOYDbhYkzHIIyKjXGLfCE4lgOSEXmrAKb5WICouzF/P0H3GgaB+316WKU6nM5rwkogR0FJaCxvkTulSpAcvuLTRxFWGU9y5JK2znPRoMZ6zByBNUvwqnY6gKgp0tCcxy/8Y/tKcTKyTcPuJ+ZBUH6EWmkwqZeXdUVwcEWmDEREnK3k+0wWxkowA==;ZNyeHTtcCaOjzTC/QF9Opw=="

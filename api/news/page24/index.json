@@ -2,6 +2,48 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-09-18-national-artificial-intelligence-and-robotics-hub.md",
+      "title": "National Artificial Intelligence and Robotics Hub",
+      "excerpt": "Read all the latest news, breaking stories, top headlines, opinion, pictures and videos about National Artificial Intelligence and Robotics Hub from Nigeria and the world on today.ng",
+      "sourceUrl": null,
+      "webUrl": "https://www.today.ng/topic/national-artificial-intelligence-and-robotics-hub",
+      "originalUrl": "https://www.today.ng/topic/national-artificial-intelligence-and-robotics-hub",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.today.ng/wp-content/uploads/2019/08/14053638.png",
+          "width": 700,
+          "height": 466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.today.ng/topic/national-artificial-intelligence-and-robotics-hub/amp",
+      "cdnAmpWebUrl": "https://www-today-ng.cdn.ampproject.org/c/s/www.today.ng/topic/national-artificial-intelligence-and-robotics-hub/amp",
+      "publishedDateTime": "2020-09-17T15:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TODAY",
+        "domain": "today.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-engineering-students-to-design-the-perfect-self-driving-indy-race-car.md",
       "title": "Engineering students to design the perfect self-driving Indy race car",
       "excerpt": "A new competition pits engineering squads in the task of designing the ultimate high-speed controls architecture.",
@@ -1152,48 +1194,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-ubers-self-driving-operator-charged-over-fatal-crash.md",
-      "title": "Uber's self-driving operator charged over fatal crash",
-      "excerpt": "Image caption The self-driving Volvo hit a pedestrian at 39mph ... Only today it is being reported that the Chinese tech giant Baidu is pushing back the full rollout of its robo-taxis until ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/amp/technology-54175359",
-      "originalUrl": "https://www.bbc.co.uk/news/amp/technology-54175359",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/15157/production/_114395368_hi063348894.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/amp/technology-54175359",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-54175359",
-      "publishedDateTime": "2020-09-17T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

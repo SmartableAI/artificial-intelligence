@@ -24,17 +24,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Finding a Career Path in AI"
-    excerpt: "The most common jobs in AI are data scientist and AI expert, though these titles shed little light on what skills are required to excel. Over the past decade, artificial intelligence (AI) has captured the imaginations of consumers and enterprises."
-    publishedDateTime: 2020-10-05T20:18:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/finding-a-career-path-in-ai.html"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 17
-
 secured: "b5n1TWBtn7swt2icRuKnf9764vR1OqZxwyfWMOBpEwgVlhmqmyQDHX2f92kXpVcVJLFNzlVgAl9Z3RQkARg9/Y5j3CdMS9qGQpUK9gH5H55kRMMDQioypSjxxUcMRhzQTh9oZO2YdZZ2P6TDPJ9qBwmx6XFpanMCw+TvkozNCN1TBiLoHGSPFbrI8RALs21HyyCB7UMQtOO7VA2l33pLa2O7NLjC/YLDALt1aD1MKIwy/RNAh/7MBXbjPxOzS+tKs8+GYkLKPVXAWZXAEuZz78fxZQ09LyMB86EUUh22GAMNOXJWL/s+ahAlA0RYDbRyzotrMQDMNE3KaljoN54H3bDOl0qOmi9A8PuxPl96i2s9K9TbN/Q104d88k1S34ZWaQrFz8B9s5PL1I3RqDF0L4LSHsZLJX/S7WmANzJ5LxuFhjtTjIeDyyOMen/SUcgHndsx/UibudWlGdyvnbP014A7mw67dH3FAjWDdmJ3gWExZMBGImhnDdM8naB0YLuIqzEG0pscy1y8o6Pb5UOqlg==;wY6h8EMcTs7YrsGo0kJu5g=="
 ---
 

@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Crown Point will not install facial recognition cameras to help in COVID-19 contact tracing"
-    excerpt: "Crown Point, Indiana will not be installing a facial recognition network camera system to fight COVID-19, the city announced Sunday."
-    publishedDateTime: 2020-10-05T19:50:00Z
-    webUrl: "https://abc7chicago.com/crown-point-contact-tracing-indiana-covid-social-distancing/6787977/"
-    ampWebUrl: "https://abc7chicago.com/amp/crown-point-contact-tracing-indiana-covid-social-distancing/6787977/"
-    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/crown-point-contact-tracing-indiana-covid-social-distancing/6787977/"
-    type: article
-    provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
-    quality: 49
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/6727254_AP_85217790912.png"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "pvTTTDeIePYVlyuSBNqERek/ulFcati1QGj7QoRI6YDMDHSJCXHLMKjflpw/JAfb0wUmq/K1reYcnCec060csT0m+o4F/L3adzHpDYGwqnJFGwlghyy3hAeWuC+/WyFlePKU4Q0wTA9qsZFnExC3gO80d84jqxql5TuDyQYgWc08b5UhpxSx4FVADYibmHhXq7OJzeYQYIUR6wEzWOdSFVX+YgYMFP32qLICyTOVTbAwl5JLul0hopoA2SuelPSoLViL2dRs8O7SWV+TVLn25src+EuuEAXrl1Y0WhaX+gfpJ4PzSwWm2q1jdbujI9QZHOo4zprKMeD9lSO3LWeBu0LPnbPhna2OqhcDsUKlPMrBa6xMKt5NFJR4btgOS4vj40EQmU6E2pOQtY63+q2loYnuc9iJmTvbVfdxe1+9ywz3JYYXzvxuVuhj2G+DIayc8SADXp69Ud+6rBSYetg7zry7Ii3zWUGthFPS7UvTNHPDrTNt2M9tkwjVHKirso6nrxsPoWHjocQ+D6+9qZXvyw==;EEJIz1dhHtxxRAkGfGABzQ=="
 ---
