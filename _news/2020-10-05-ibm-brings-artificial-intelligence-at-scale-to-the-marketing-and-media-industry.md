@@ -1,27 +1,27 @@
 ---
 category: news
 title: "IBM Brings Artificial Intelligence At Scale To The Marketing And Media Industry"
-excerpt: "PRNewswire/ -- IBM (NYSE: IBM ) today announced three new products to add to its growing suite of AI solutions for brand and publishers. The new capabilities are privacy-forward and designed to allow brands to reach consumers while considering user privacy."
-publishedDateTime: 2020-10-05T12:25:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-media-corporate-news-products-and-services-254490ca5afba0f32767555ae8f3ed47"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-media-corporate-news-products-and-services-254490ca5afba0f32767555ae8f3ed47"
+excerpt: "Our work will be a step forward in our evolution to meet the advertising industry's upheaval, and we are proud to help the advertising industry advance with the value of AI.\" The IBM Watson ..."
+publishedDateTime: 2020-10-05T14:25:00Z
+originalUrl: "https://www.finanzen.net/nachricht/aktien/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-9360315"
+webUrl: "https://www.finanzen.net/nachricht/aktien/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-9360315"
 type: article
 quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Finanzen
+  domain: finanzen.net
 
 topics:
-  - AI in Healthcare
+  - IBM AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -46,6 +46,6 @@ related:
       domain: advanced-television.com
     quality: 19
 
-secured: "FTL2CqsvfCi0VnsSy/B2x4Ve4o9TK1ToT9ta/zkRFJ1t6nnwR5F7BXB8vc/nghQz2XzQmkRONnkKdAzAGL98jgZzWJ7Tl3qzeqIcgple8VWvKiZfpAxQFcv1gDvofW2yzW3HGrDi9Oz2pGrkNoMYgSD0QzfWuREmgsvpowEGr5A8rQfCM+/ZEoV9myOmEgdi6sdb7DH/abAAKoIfLdw5Q1HnajV06kSsx5rcpgsMeJIdUEwSdDu4JRowGEQ+nEDIzvLY+kTHBRni12fPHwXSnUgy3y2ExzuldSuKnEXMVQoVzO1wFqYP2w5JoG6qq8L3FV1vMdVIuus5fK2Pnz+5ISDkwTQfXW6crgRv5BAqGSI=;qEXdWRQxyvtxLqHoVxFFOA=="
+secured: "O3vUmS8cOCq+8YgkzNqrx948UJZykwFJcNDOSGN5zSFphxiEI6+PmdjxFEPbo2pau0SatKrAFDL+bg+WL3oaM1DzfR1vOox5TDZAJTKu9mtK4I6jjNXrqfUaso0mmZYIZnWs/Gd03ELoegqGT3ZK43CCY6nVXtj8iVlKAG6XjI7eKvi9HOtZlXPqU3Dw2mv0ggrexJeKVESyS8atDwI3OQuaQRhJv/78X2jsy69AvsWORaB8T4F08x1SJ5UqFnvJ92+RqdtrgDmDs+f/xnXIdbbXfRjE+2BDnbVOc82SBYHiH8bPSVpzLusfYR3LIiXEr1z7oLYdMqXxQa2SSNK4l8KFGVdCtfc6GAly8KytEP4=;j7754jDTCOdr6WoE1rcN1g=="
 ---
 

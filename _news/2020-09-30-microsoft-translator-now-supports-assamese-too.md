@@ -14,6 +14,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://menafn.com/updates/pr/2020-09/30/I_9ee6f788-9image_story.jpg"

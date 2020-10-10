@@ -2,6 +2,106 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-09-23-new-tech-chief-of-startup-hypergiant-envisions-closer-human-ai-collaboration.md",
+      "title": "New Tech Chief of Startup Hypergiant Envisions Closer Human-AI Collaboration",
+      "excerpt": "Hypergiant Industries tapped a former IBM official as its first chief technology officer, the artificial intelligence startup said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/new-tech-chief-of-startup-hypergiant-envisions-closer-human-ai-collaboration-11600853401",
+      "originalUrl": "https://www.wsj.com/articles/new-tech-chief-of-startup-hypergiant-envisions-closer-human-ai-collaboration-11600853401",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-235264/social",
+          "width": 1230,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/new-tech-chief-of-startup-hypergiant-envisions-closer-human-ai-collaboration-11600853401",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/new-tech-chief-of-startup-hypergiant-envisions-closer-human-ai-collaboration-11600853401",
+      "publishedDateTime": "2020-09-23T02:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-influencer-marketing-startup-clanconnectai-raises-inr-5-cr-led-by-venture-catalysts.md",
+      "title": "Influencer Marketing Startup ClanConnect.ai Raises INR 5 Cr Led by Venture Catalysts",
+      "excerpt": "The seed funding round also saw participation from a cohort of angel investors, including MD of Forest Essentials Samrath Bedi,  Sandeep Aggarwal of Droom.in, Haptik's co-founder Aakrit Vaish and Redc",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/356601",
+      "originalUrl": "https://www.entrepreneur.com/article/356601",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1600852866-clanconnect.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/356601",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356601",
+      "publishedDateTime": "2020-09-23T02:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-ai-powered-fitness-app-freeletics-scores-25m-series-b.md",
       "title": "‘AI-powered’ fitness app Freeletics scores $25M Series B",
       "excerpt": "Freeletics, the “AI-powered” fitness coaching app, has closed $25 million in Series B funding. Leading the round is U.S.-based JAZZ Venture Partners and Causeway Media Partners, with support from KKCG.",
@@ -1075,109 +1175,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning.md",
-      "title": "Microsoft unveils updates across Azure Cognitive Services and Azure Machine Learning",
-      "excerpt": "During its Ignite 2020 conference, which kicked off virtually this morning, Microsoft announced updates to Azure Cognitive Services and Azure Machine Learning aimed at streamlining business ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 579,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/amp/",
-      "publishedDateTime": "2020-09-22T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-low-code-updates-in-power-platform-for-github-and-azure-are-now-in-preview.md",
-      "title": "Low-code updates in Power Platform for GitHub and Azure are now in preview",
-      "excerpt": "In September last year, the tech giant revealed how the Power Platform was benefiting from Azure AI services. In July, meanwhile, the Power BI Snowflake connector introduced a capability to enable single sign-on (SSO) based on Azure Active Directory (AAD ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/low-code-updates-in-power-platform-for-github-and-azure-are-now-in-preview",
-      "originalUrl": "https://www.neowin.net/news/low-code-updates-in-power-platform-for-github-and-azure-are-now-in-preview",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/09/1600610864_powerplatform-ignite2020_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/low-code-updates-in-power-platform-for-github-and-azure-are-now-in-preview/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/low-code-updates-in-power-platform-for-github-and-azure-are-now-in-preview/",
-      "publishedDateTime": "2020-09-22T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

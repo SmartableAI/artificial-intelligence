@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "StradVision Unveils New Solution for Vehicle 360-degree Vision at NVIDIA's GPU Technology Conference 2020"
-    excerpt: "StradVision will reveal its new Advanced Driver-Assistance Systems (ADAS) solution for automotive surround view monitoring at NVIDIA's 11th"
-    publishedDateTime: 2020-10-05T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/stradvision-unveils-new-solution-for-vehicle-360-degree-vision-at-nvidias-gpu-technology-conference-2020-301145582.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 22
-    images:
-      - url: "https://mma.prnewswire.com/media/1003667/StradVision_Logo.jpg?p=facebook"
-        width: 1413
-        height: 740
-        isCached: true
   - title: "IDEMIA unveils VisionPass face recognition device in India"
     excerpt: "New Delhi, Oct 6 (IANS) France-based tech company IDEMIA on Tuesday announced to launch its advanced contact-less facial recognition access control device titled VisionPass for the India market."
     publishedDateTime: 2020-10-06T17:32:00Z

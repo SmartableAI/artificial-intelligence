@@ -9,7 +9,7 @@ ampWebUrl: "https://mybroadband.co.za/news/industrynews/370783-how-ai-and-machin
 cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/370783-how-ai-and-machine-learning-can-help-accountants-stay-competitive.html/amp"
 type: article
 quality: 76
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cloud AI Can Help You Survive The Storm"
-    excerpt: "As you work to better understand and take action to improve user experiences and drive business outcomes, take care in your implementation and the use cases to which you apply AI."
-    publishedDateTime: 2020-10-05T11:24:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/05/cloud-ai-can-help-you-survive-the-storm/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 71
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee37fafb8beb90007c3a81f%2F0x0.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "How AI can help employees improve mental health and wellbeing"
     excerpt: "The UAE, a hub for start-ups and venture capital in ... Nearly 60 per cent of local respondents said AI has improved job satisfaction and overall well-being, compared to 54 per cent globally. Robot security guards are on patrol at Abu Dhabi's largest ..."
     publishedDateTime: 2020-10-07T12:52:00Z

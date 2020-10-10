@@ -1,25 +1,26 @@
 ---
 category: news
 title: "Juniper Research: Future Digital Award Winners Announced for Fintech & Payments 2020"
-excerpt: "It is with great pleasure that Juniper Research announces the 2020 winners of the Future Digital Awards for Fintech & Payments. This category recognises the most"
+excerpt: "It is with great pleasure that Juniper Research announces the 2020 winners of the Future Digital Awards for Fintech & Payments. This category recognises the most impactful financial products and services operating across numerous areas,"
 publishedDateTime: 2020-10-01T06:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/10/b17730213/juniper-research-future-digital-award-winners-announced-for-fintech-payments-2020"
-webUrl: "https://www.benzinga.com/pressreleases/20/10/b17730213/juniper-research-future-digital-award-winners-announced-for-fintech-payments-2020"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17730213"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17730213"
+originalUrl: "https://www.businesswire.com/news/home/20200930005729/en/Juniper-Research-Future-Digital-Award-Winners-Announced-for-Fintech-Payments-2020"
+webUrl: "https://www.businesswire.com/news/home/20200930005729/en/Juniper-Research-Future-Digital-Award-Winners-Announced-for-Fintech-Payments-2020"
 type: article
-quality: 17
-heat: 17
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "a0PVug3kGn9f/j8+NW7BljpEhgtS1S/Y0nqKO7JhjFMTUwR8/0zSZRibdq3HKf7hJU1ZuBcwO7Vpsv4PWel7ovBv+Rah/Q/NgNC8elgXujpOLPrNTbDWtv4adR5RhsiOcYna0GQvYCJnax075hee0fU/pKan5VsuhKXJc5Axc8/iR3uhuYC7gIj3ynwR9sNx6jO6CoWmAOjPi/VnoeDdlCty6U00mfQcs3TTuh8b0RjmosblSro7LwdwZopUQf2nWmkgJdo6Lv/KwqL9GViC08FnecwPZnmdmbr7TpsO/kePSqnhNzovlLbl1BkJpRcjD7Od3Alw1SduBhhBulbD5hkDmW2iCTbGAGJz7CCQ+6w=;9lo/ZOwiU4X+lWDvUTNahw=="
+images:
+  - url: "https://mms.businesswire.com/media/20200930005729/en/601531/23/JR_Logo_Final_RGB_300px.jpg"
+    width: 1200
+    height: 627
+    isCached: true
+
+secured: "AJMyVCAbgxY75ez5rqq9xsrKFoEN2ipdI+d41pIxm4zeC4nFyEM5W/GibEXUr/H0jG/Cc9xTM/x/J0Ii7xcbzeiG+621GTG42wieVWDBHpIOJF/ofLBYcyrPwWQlTsCYcYEoYPkguxUxDj4Y40b0/RpxYSDi4RCzkhceW4HtEq7/9Mtpkbpk8/gOsSDRELCY7I2BsWG+0lq+s26xyt3SQMoKDZfS/Ct0klxSFPspUDocRVk9nwbf2eUgqwzTBtxCeriUI1bhLZHpnl+nz5xZcnfalwyJ1o3+R6huGh+a5tpHQvHn5ZKVC7Q3rSMCVkwSDBZmQ7qwq3PetOqcqxxJzPwiBteXh9U5IX2by7xG4Qo=;64Qu/HlvyopLN91WO/KHIQ=="
 ---
 

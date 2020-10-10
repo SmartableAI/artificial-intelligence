@@ -6,9 +6,6 @@ publishedDateTime: 2020-10-05T11:59:00Z
 originalUrl: "https://www.finanzen.net/nachricht/aktien/pediatric-diabetes-covid-19-and-artificial-intelligence-ibm-watson-supports-families-during-pandemic-shutdown-9359717"
 webUrl: "https://www.finanzen.net/nachricht/aktien/pediatric-diabetes-covid-19-and-artificial-intelligence-ibm-watson-supports-families-during-pandemic-shutdown-9359717"
 type: article
-quality: 34
-heat: 34
-published: false
 
 provider:
   name: Finanzen
@@ -24,6 +21,6 @@ images:
     height: 315
     isCached: true
 
-secured: "Gooh+bBfVCMrYr1wX0jumTTwt5Oy9zxbXDN1Jh/uNVnWT3mwZZPAnLiu6wuon+InYatLk/EIwPawkTeSIXWrzdC3OUVUHOCkHZdtBMDfVK3EXLHshgfNIeW8TIDfXrhvP+7BAjVbDOKbG9Fd1eMAf95keEuHx/9UpADnscMsLSI5yxDR7nfH9CS7rtWLLzjf6W6aMNR0rn+scdm8Ljb8wYCj3T76zOR3fBEmIkeytx/JKYPwPqD8r1AhghVLmBs0JctAkWipXo/wOV0MjTonDkbN/r0rJ/JrUVyOXYdovGbFcAeMdN3EShHMgBgHpraobsOcfmiN12wigWuhXjOE2B10IiQNUcmEjP1Yndlu3SY=;f2AAo2UA0GrshnbC51WhPA=="
+secured: "JRqkqJqluN/pyejeJ8B1mReHRjN5/BkBzedHr7QAA8t6Wr29zEFb/KJJS+c+2wULjXa2mmZyZbDU4r2rYVbNCijvwbDFV6DP51AoaqpBu7k94udobfk0gsyktyKTkCYntrJ0mKMsoPMlYRY6EX+CpMKbkGcpihw7ZOl87/EXJVzQ93kYJ1EylH1T/TlnbBweW+xz60kkcyu0F43sI1FVvYCBJA8IvDgz1M4ZwAQvPUmHhkvTkrONExT86ga7EZOTD3qDIt6FhoPtHOjNx/9IkXvUdU3N3C/KOvzEXv91TU/bbyESq2cW5Udc7FQmXKrd3PCr3hBYEOg7i+AFltMgSlEwa13n3EqiVEaDM92BlFs=;z40Go+yneKjOtZ/t2Hfxyg=="
 ---
 
