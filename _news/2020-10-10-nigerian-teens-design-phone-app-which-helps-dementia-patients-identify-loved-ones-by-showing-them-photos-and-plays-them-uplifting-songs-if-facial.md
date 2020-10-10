@@ -1,29 +1,30 @@
 ---
 category: news
-title: "California bar exam takers say facial recognition software rejected them"
-excerpt: "Questions of fairness algorithms dogged California’s first remote bar exam as test takers of color reported problems with facial recognition software. The company that made the software denied discriminatory intent."
-publishedDateTime: 2020-10-08T11:40:00Z
-originalUrl: "https://www.sfchronicle.com/business/article/California-bar-exam-takers-say-facial-recognition-15629617.php"
-webUrl: "https://www.sfchronicle.com/business/article/California-bar-exam-takers-say-facial-recognition-15629617.php"
-ampWebUrl: "https://www.sfchronicle.com/business/amp/California-bar-exam-takers-say-facial-recognition-15629617.php"
-cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/business/amp/California-bar-exam-takers-say-facial-recognition-15629617.php"
+title: "Nigerian teens design phone app which helps dementia patients identify loved ones by showing them photos and plays them uplifting songs if facial recognition senses a change in ..."
+excerpt: "Irish girls took first place in the the Technovation World Summit with an app that helps dementia patients and caretakers. Memory Haven includes memory games and photo albums."
+publishedDateTime: 2020-10-09T21:28:00Z
+originalUrl: "https://www.dailymail.co.uk/sciencetech/article-8824059/Nigerian-Irish-teens-win-international-prize-app-helps-people-dementia.html"
+webUrl: "https://www.dailymail.co.uk/sciencetech/article-8824059/Nigerian-Irish-teens-win-international-prize-app-helps-people-dementia.html"
+ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8824059/amp/Nigerian-Irish-teens-win-international-prize-app-helps-people-dementia.html"
+cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8824059/amp/Nigerian-Irish-teens-win-international-prize-app-helps-people-dementia.html"
 type: article
-quality: 58
+quality: 6
 heat: -1
 published: false
 
 provider:
-  name: San Francisco Chronicle
-  domain: sfchronicle.com
+  name: Daily Mail
+  domain: dailymail.co.uk
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
-  - url: "https://s.hdnux.com/photos/01/14/45/23/20075758/5/375x250.jpg"
-    width: 375
-    height: 249
+  - url: "https://i.dailymail.co.uk/1s/2020/10/09/21/34208010-0-image-a-26_1602274978382.jpg"
+    width: 636
+    height: 382
     isCached: true
 
 related:
@@ -75,6 +76,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "California bar exam takers say facial recognition software rejected them"
+    excerpt: "Questions of fairness algorithms dogged California’s first remote bar exam as test takers of color reported problems with facial recognition software. The company that made the software denied discriminatory intent."
+    publishedDateTime: 2020-10-08T11:40:00Z
+    webUrl: "https://www.sfchronicle.com/business/article/California-bar-exam-takers-say-facial-recognition-15629617.php"
+    ampWebUrl: "https://www.sfchronicle.com/business/amp/California-bar-exam-takers-say-facial-recognition-15629617.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/business/amp/California-bar-exam-takers-say-facial-recognition-15629617.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 58
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/45/23/20075758/5/375x250.jpg"
+        width: 375
+        height: 249
+        isCached: true
   - title: "Face recognition tool reunites Uttar Pradesh boy with parents after 5 years"
     excerpt: "Hyderabad: Telangana State police's face recognition tool 'Darpan' has helped reunite a missing boy from Uttar Pradesh with his parents after five years. Som Soni, a resident of Handia in ..."
     publishedDateTime: 2020-10-09T14:24:00Z
@@ -121,23 +138,7 @@ related:
         width: 660
         height: 440
         isCached: true
-  - title: "Nigerian teens design phone app which helps dementia patients identify loved ones by showing them photos and plays them uplifting songs if facial recognition senses a change in ..."
-    excerpt: "Irish girls took first place in the the Technovation World Summit with an app that helps dementia patients and caretakers. Memory Haven includes memory games and photo albums."
-    publishedDateTime: 2020-10-09T21:28:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8824059/Nigerian-Irish-teens-win-international-prize-app-helps-people-dementia.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8824059/amp/Nigerian-Irish-teens-win-international-prize-app-helps-people-dementia.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8824059/amp/Nigerian-Irish-teens-win-international-prize-app-helps-people-dementia.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 6
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/10/09/21/34208010-0-image-a-26_1602274978382.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
-secured: "YX8zazHOJAxLAWPjdM3aKQCoJsXmoFzvTnQk5FpHIdWkG6iA+iRNcIOE00QzgdU7hXYqB9clsHPQY1Phi2OLI3Pv1a1dSDpKzDs0f99SOgDHNETzAyAI+Bdm4qKb/DTVAS8SVVL/vr1tosbQAWu+hsGJlgQSj9cu1raYh00bR0o7/CQHarq+Je7BvNjvEnyDZniAuQ7Rs/aVnwrCOB+pDhd68vmFt1zKwGQRyKJFs3kUGe2qw5LDR1ddVTBYYVLiTUMSBAEyLk0GRiO5rbNk1APkZadrDQQyE087e0o3AEL0v11/SiPbiUAt6MXMpH+W2rn2YxL7ZZMaCFYV1OY3RbzkwWbBUI31BxznW8zE2w0=;S6lcnBqOQH2V3HTP95xwKQ=="
+secured: "SGrGSd5Sfo6gs1sSmqbQgDAeMQtv0SbPyZl8nNuOhrN5TTHsxG5hPvMIs6iMlV/BGuzfBb7Ic7a4jYT1XqsjBGqxkEwYXMvdRLVFkcjF8Bwa050m1C9lvsii4hA5wgzTrnIGH8RBCl26vdMJKOdvEWlQGVNjY9tGiX7A/HzGW9JeDN1GqxvHapT5c9xIFJy6C6rUtjq5WguiLyytkqsAmcaBh0kD70OKtGwrntkU7vju3TLcRrvB5e8hHO22w06ggXtIb6zTgLCRPXVVJqaPnT2GXQDnB/B9w8s0GSXQAVrCOlkBBL6QRRCGJiwfMOXXChgsxaIC6Rg2D8DXkQ1RQQPvO6gLUdfovf1o97n85I4=;fea3z9ylZ3MzqHaSv5uUSg=="
 ---
 

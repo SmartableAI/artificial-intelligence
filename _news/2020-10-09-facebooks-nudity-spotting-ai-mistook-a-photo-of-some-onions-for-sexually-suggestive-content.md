@@ -47,6 +47,22 @@ related:
         width: 1121
         height: 630
         isCached: true
+  - title: "Study reveals the simple way people get around Facebook's fact-checking AI"
+    excerpt: "Facebook Pages that spread misinformation are finding their way around one of the platform’s most important tools for fighting fake news: its AI system. When Facebook’s fact-checkers debunk a ..."
+    publishedDateTime: 2020-10-09T22:27:00Z
+    webUrl: "https://mashable.com/article/facebook-avaaz-study/"
+    ampWebUrl: "https://mashable.com/article/facebook-avaaz-study.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facebook-avaaz-study.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 85
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F10%252F09%252F1a%252F3ed24ba1a52d43ab89e60a7b7214f207.b4fb3.jpg%252F1200x630.jpg?signature=t51jPMwvDM2dkWg9XqM-7of1HfM="
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "JYF2NqPKqNs8JOIKuTpJHVXBM8JaBXspnQmuWYChwi0YCi2i7EoKADBnWW55nCwFEWGk2WAMFMDUO6fMuXBZeRTBtuFXvNyXeCv3VGnqiARJJKpyEff5gnY9DI0Zcqe3YntMMQQDoqoPla8/JRr1WKCa3KQ/+1zxCWrBKj9Iqb4TTZ6dtxNT3mwkWT77PG/AmsiKLJiNvNPfl0vCpR68KQySkWhp8WeyEp51oIpr+qv3jg8L0qV5B+at8dYCqWGYNAgArPFdXIishMstplfuORn7WzykKnpHTXAGdfcbUV8S+uKuIj8qSNb5bqQDjqfJ8/W6Jopw6oOyTd+Qygc/M3hwvGtFGawHgjt+qIr0/3w=;Rxx4V7FM0l6UCOyP4e3o9w=="
 ---

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Marquis Software Deploys the Highest Level of Biometric Security by Using Aware's Knomi® for Face + Voice Authentication"
-excerpt: "PRNewswire/ -- Aware, Inc. (NASDAQ: AWRE), a leading global provider of biometrics software products, solutions and services, today announced that Marquis Software is leveraging Aware's"
+excerpt: "PRNewswire/ -- Aware, Inc. (NASDAQ: AWRE), a leading global provider of biometrics software products, solutions and services, today announced that"
 publishedDateTime: 2020-10-06T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/marquis-software-deploys-the-highest-level-of-biometric-security-by-using-awares-knomi-for-face/article_b2f07913-d238-5d5c-8784-2efb2285e4e8.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/marquis-software-deploys-the-highest-level-of-biometric-security-by-using-awares-knomi-for-face/article_b2f07913-d238-5d5c-8784-2efb2285e4e8.html"
+originalUrl: "https://www.prnewswire.com/news-releases/marquis-software-deploys-the-highest-level-of-biometric-security-by-using-awares-knomi-for-face--voice-authentication-301146607.html"
+webUrl: "https://www.prnewswire.com/news-releases/marquis-software-deploys-the-highest-level-of-biometric-security-by-using-awares-knomi-for-face--voice-authentication-301146607.html"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/67/a6718b10-331c-5d20-b28b-40e4526893ab/5f7c721f2c356.image.jpg?resize=400%2C311"
-    width: 400
-    height: 311
+  - url: "https://mma.prnewswire.com/media/1283061/Aware_Logo.jpg?p=facebook"
+    width: 1060
+    height: 555
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "bcjuQXV4jFtEAX3zzLUE7es59VBjgPeYtgPrn6nlj04/VOkYvQrOzJG6dsNPvq7CVQUC20PYWjtBYiMPygWKUnDJkGhaaK3fN18QhW0yK0jQXr+VaMB9Jl92tbma1uqZUoxQ3yonenPTFeQfYBPXa0X9ZjagRIQpz3U5CDHcHmtsxj3U6DYw5VoXOV3MBrEm5N67RRDX2q3tl+KxnYk1CE8DvoeBRW2dYZ8cxXy4f0uypWiHuaDJZQ8W9f3YAhZASNA+XQeZomvGBFL3reS46tm4bMbhEJDdwX4WpG33+kuw+IomYzJX3R6h79zYdJ/XcjmaGrBeCxt0ucvpxt5yZyB8V8HzriBGJR6uv+LOn8Y=;Ok5Kj3y8iUN9E1Nsk53g4w=="
+secured: "xpOtQOesZprv2FdQD/ObV3OTUOstjGMuscTKhlRzj4jmZC4Qr4rA5LoP6xbnTZkwAj5VfKbRfT6JAsEwWmbY5A25jrmPFWM1+4SQwekIjiCb+fgAJFXFLN2AHUPdYpUhgPYpsA6/Qrqv55K1Pm1IPMDQjyCt8x7l9h0q/ufljw7i0tCMuOEAbYHRj6Lf/HT9sykmVlH2EaPU9fFV7/Sb4jj5KrpwyWLvzgxpO0w4ytlfpPzU2mKy7O+m6tqs/pYpcldVJ0yu6C7+8xqHMfCGslAS1N4947cEC/M4wZMyGwRDFVZYkkDAX4ti3JiIYZenvpttNwDqBCfq+NgFu5rMXQ2a8Aod9WCWhpRVrXMLgvk=;y6gUrRNeb/6gmjmeMREpUA=="
 ---
 

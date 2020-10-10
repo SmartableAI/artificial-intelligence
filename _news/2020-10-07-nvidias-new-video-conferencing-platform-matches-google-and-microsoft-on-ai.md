@@ -110,6 +110,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "AI Weekly: Nvidia’s Maxine opens the door to deepfakes and bias in video calls"
+    excerpt: "Will AI power video chats of the future? That’s what Nvidia implied this week with the unveiling of Maxine, a platform that provides developers with a suite of GPU-accelerated AI conferencing ..."
+    publishedDateTime: 2020-10-09T19:51:00Z
+    webUrl: "https://venturebeat.com/2020/10/09/ai-weekly-nvidias-maxine-opens-the-door-to-deepfakes-and-bias-in-video-calls/"
+    ampWebUrl: "https://venturebeat.com/2020/10/09/ai-weekly-nvidias-maxine-opens-the-door-to-deepfakes-and-bias-in-video-calls/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/09/ai-weekly-nvidias-maxine-opens-the-door-to-deepfakes-and-bias-in-video-calls/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/10/NVIDIA-Maxine-Streaming-Video-AI-Platform-GTC-e1601673784391.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Avaya to integrate Nvidia's Maxine cloud streaming video AI into Avaya Spaces"
     excerpt: "For Avaya, the partnership with Nvidia will enable it to add more visual and virtual experiences to its collaboration platform."
     publishedDateTime: 2020-10-05T13:00:00Z
@@ -125,22 +141,6 @@ related:
       - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/08/11/aba79b5a-a9c8-4698-8d8b-8dd70e29bf21/thumbnail/1200x675/ed7c4de69d6167032d33a11221c7bf7e/thumb.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "AI Weekly: Nvidia’s Maxine opens the door to deepfakes and bias in video calls"
-    excerpt: "Will AI power video chats of the future? That’s what Nvidia implied this week with the unveiling of Maxine, a platform that provides developers with a suite of GPU-accelerated AI conferencing ..."
-    publishedDateTime: 2020-10-09T19:51:00Z
-    webUrl: "https://venturebeat.com/2020/10/09/ai-weekly-nvidias-maxine-opens-the-door-to-deepfakes-and-bias-in-video-calls/"
-    ampWebUrl: "https://venturebeat.com/2020/10/09/ai-weekly-nvidias-maxine-opens-the-door-to-deepfakes-and-bias-in-video-calls/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/09/ai-weekly-nvidias-maxine-opens-the-door-to-deepfakes-and-bias-in-video-calls/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/10/NVIDIA-Maxine-Streaming-Video-AI-Platform-GTC-e1601673784391.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
         isCached: true
   - title: "NVIDIA GTC Presentation On Trends For 2021 Showed They See More Business Artificial Intelligence Moving To Production"
     excerpt: "While the message of the technical folks might still be a bit too focused on training, this presentation mentioned runtime more than I’ve previously heard. The industry application of AI is still relatively new,"

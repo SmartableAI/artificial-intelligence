@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Pediatric Diabetes, COVID-19 and Artificial Intelligence: IBM Watson supports families during pandemic shutdown"
-excerpt: "IBM Canada ProBono volunteer program delivers a virtual agent using Watson Assistant for Quebec's Diabetic Children Foundation"
-publishedDateTime: 2020-10-05T10:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/pediatric-diabetes-covid-19-and-artificial-intelligence-ibm-watson-supports-families-during-pandemic-shutdown/article_87f23caf-5fca-5776-864e-ff75449d37b9.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/pediatric-diabetes-covid-19-and-artificial-intelligence-ibm-watson-supports-families-during-pandemic-shutdown/article_87f23caf-5fca-5776-864e-ff75449d37b9.html"
+excerpt: "Delivered by nine volunteers through IBM's ProBono initiative, the AI-powered virtual assistant ... Fred has been engaged more than 5000 times through Watson Assistant. The IBM ProBono volunteer ..."
+publishedDateTime: 2020-10-05T11:59:00Z
+originalUrl: "https://www.finanzen.net/nachricht/aktien/pediatric-diabetes-covid-19-and-artificial-intelligence-ibm-watson-supports-families-during-pandemic-shutdown-9359717"
+webUrl: "https://www.finanzen.net/nachricht/aktien/pediatric-diabetes-covid-19-and-artificial-intelligence-ibm-watson-supports-families-during-pandemic-shutdown-9359717"
 type: article
 quality: 34
 heat: 34
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Finanzen
+  domain: finanzen.net
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/15/7152379e-0499-588a-a243-564e01ec897c/5f7af61ad3d78.image.jpg?resize=400%2C330"
-    width: 400
-    height: 330
+  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+    width: 600
+    height: 315
     isCached: true
 
-secured: "9fXs3OM8MnoeAj4waQA2mIFdx7v9MQtmaZ8ggLzY11AkVS0Rkf7hhbgGHVsKwCUi2vQGSsEzqirw/kwfVOc4P8jM1pBNglNbodQP9eS7i2IAmH6dW+3A4+pG/4QbILZQkPrYCY3mH3p6/mQPlCXkhZB8iqIdw8acE8JvI4UPiAwltCNFFoaZJwzGw6em7+/1DfVwlzNslyC6hc5v+UuegOBK0fQrwDOnKvKpETmiqkQACO+Pqo++JX3faelwPxlBl4bwjFyj6HgVJ4CifBJVS6Ubtb6yHTylbK89UhJcanPMeU4yJGluywI8vkoXEifELihCsIFKcqehUZLOPKRd7ofw/eI18uqKqdR81a9+N06CYl12TCY1P9kfoEsarq07u8BUp+uF6+y5s9Wtl+N6TGWZrb6wAKW/wo5TVFOsbHyQ1j/K8QR23t1PNvWPiUKjWE4vWI6qchAYW/azLrFmfRVkEImW2XjuH3Y4xGBrRhsdx8xnMNTiLMmy1S1Hsb4HRv26Vc4jizrOyu17V2+Cdw==;jZ4yZXIq+gjj6QpFcOpLYw=="
+secured: "5OSSl9CZjsYTMQG9GfphqndUfRdml1a9v29PG83LQcfDU6WiIdBnteolcaif/h5/fxSg4EPBs6tEFH6EK3dYpFkjED8/9SR/dW1YZHXX+QhyfDgt3NcbHOidfc70nx1KMdU0hmS7cQnDGRZOPc7O09erXUbGyHW4soY/GYK6Ky76krUo+3QuPjkxrGfdzna3XRYNoMuvV9z7R1I8ROrQ15S0Oea33LFWLu/oXlO+3M5fP6kH0SxxLx9JhStdPzzvBXUNBLG3ikMQ29xGR3yyRcElnzz3Bqi1IZJIna5gKuFoIet3C+cuQaR6yL7lJBZM/saaIGlJt+uFUkChAnu9azPzVMErSMP0fTn3cHcAS9M=;oCbQk5PkfKtQW5G5WeD4dw=="
 ---
 

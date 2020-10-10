@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/world/2020/10/09/argentina-facial-rec
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/2020/10/09/argentina-facial-recognition-juvenile-suspects/?outputType=amp"
 type: article
 quality: 63
-heat: 83
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -27,22 +27,17 @@ images:
     isCached: true
 
 related:
-  - title: "Live facial recognition is tracking kids suspected of being criminals"
-    excerpt: "In Buenos Aires, the first known system of its kind is hunting down minors who appear in a national database of alleged offenders. In a national database in Argentina, tens of thousands of entries detail the names, birthdays, and national IDs of people ..."
-    publishedDateTime: 2020-10-09T15:24:00Z
-    webUrl: "https://www.technologyreview.com/2020/10/09/1009992/live-facial-recognition-is-tracking-kids-suspected-of-crime/"
-    ampWebUrl: "https://www.technologyreview.com/2020/10/09/1009992/live-facial-recognition-is-tracking-kids-suspected-of-crime/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/10/09/1009992/live-facial-recognition-is-tracking-kids-suspected-of-crime/amp/"
+  - title: "Rights group criticizes Buenos Aires for using face recognition tech on kids"
+    excerpt: "Human Rights Watch wants the city of Buenos Aires to stop using live facial recognition to identify children accused of committing crimes, the rights group said on Friday. New York-based Human Rights Watch ( HRW) said Buenos Aires started using the technology in April 2019,"
+    publishedDateTime: 2020-10-09T22:47:00Z
+    webUrl: "https://www.nasdaq.com/articles/rights-group-criticizes-buenos-aires-for-using-face-recognition-tech-on-kids-2020-10-09"
+    ampWebUrl: "https://www.nasdaq.com/articles/rights-group-criticizes-buenos-aires-for-using-face-recognition-tech-on-kids-2020-10-09?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/rights-group-criticizes-buenos-aires-for-using-face-recognition-tech-on-kids-2020-10-09?amp"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/10/KidID-988704018-web_01.jpg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 81
   - title: "Letter to Buenos Aires Mayor Horacio Rodríguez Larreta re: facial recognition system and children’s rights"
     excerpt: "I am writing on behalf of Human Rights Watch to share our concern regarding the loading of images and personal information of children into a facial recognition system deployed in some subway stations of the city of Buenos Aires. Our research shows that ..."
     publishedDateTime: 2020-10-09T04:59:00Z

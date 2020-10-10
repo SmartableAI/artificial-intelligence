@@ -40,6 +40,22 @@ related:
         width: 3915
         height: 2534
         isCached: true
+  - title: "IBM will spin off legacy business to focus on cloud and AI services"
+    excerpt: "IBM is splitting into two public companies, with a spin-off handling the firm’s legacy IT infrastructure work, allowing IBM to focus on new high-margin businesses, particularly cloud services and AI."
+    publishedDateTime: 2020-10-09T12:23:00Z
+    webUrl: "https://www.theverge.com/2020/10/9/21508974/ibm-split-into-two-companies-newco-hybrid-cloud-legacy-it"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/9/21508974/ibm-split-into-two-companies-newco-hybrid-cloud-legacy-it"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/9/21508974/ibm-split-into-two-companies-newco-hybrid-cloud-legacy-it"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 87
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/s4gTyMyBAGGwQuwzwSW1Oxl82NQ=/0x0:6711x3239/1400x933/filters:focal(2820x1084:3892x2156):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67606093/1254279163.jpg.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "IBM spinning off legacy IT business to step up cloud competition with Amazon, Microsoft"
     excerpt: "In IBM chief executive officer Arvind Krishna’s first big move, he is spinning off a slower-growth business that manages corporate computer systems so the tech giant can focus on the boom in demand for cloud services and step up competition with Amazon and Microsoft."
     publishedDateTime: 2020-10-09T06:44:00Z

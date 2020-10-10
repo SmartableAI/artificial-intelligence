@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcmag.com/news/facebooks-ai-flags-onion-photo-as-overtly
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/facebooks-ai-flags-onion-photo-as-overtly-sexual?amp=true"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Study reveals the simple way people get around Facebook's fact-checking AI"
+    excerpt: "Facebook Pages that spread misinformation are finding their way around one of the platform’s most important tools for fighting fake news: its AI system. When Facebook’s fact-checkers debunk a ..."
+    publishedDateTime: 2020-10-09T22:27:00Z
+    webUrl: "https://mashable.com/article/facebook-avaaz-study/"
+    ampWebUrl: "https://mashable.com/article/facebook-avaaz-study.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facebook-avaaz-study.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 85
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F10%252F09%252F1a%252F3ed24ba1a52d43ab89e60a7b7214f207.b4fb3.jpg%252F1200x630.jpg?signature=t51jPMwvDM2dkWg9XqM-7of1HfM="
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facebook's nudity-spotting AI mistook a photo of some onions for 'sexually suggestive' content"
     excerpt: "Facebook said the onion-seed ad had been removed for breaking its rules on \"products with overtly sexual positioning.\""
     publishedDateTime: 2020-10-09T10:14:00Z
@@ -47,6 +63,6 @@ related:
         height: 600
         isCached: true
 
-secured: "j6Xg77syuFIDLTDbwDqRYjrMZRrQXjLg9cm6m6xS2wkX9PDKDyWCBOUNDq3OUsihXhgpv6UN4FAW/QHlkLUB1dToqi7MLrDH8+g3b41MrDp4OZO4TYBKgE9OndPU8zUpUHP/ngZ5E2DEu51tJLECQLxI00QZtBkxaFNcMj22i6NZ6HhBrzBi0OFNBQZT6Z4vRwHLTLh6guDvV55YkLIjt/2yfitOCFLT3ayiCY2hmkclhXavOjtAlFnO0PYkEraiqkaLT2JPfwFuCG+h1D185mlQ/pG+uPKzjlofdeuFa9ipfB0U9rgkR8RhF7b4L5GMOXogS60O9Q+bZl4CjHqZ4pkb8AS2Fe0KEJR9txt+i3I=;Wah4uBKf294GMGM5fJO+VQ=="
+secured: "1wWXPp+lA0/omZPBcKjXst7R9lXE+CpjMqNxxVe8cW0uQfGlEWfa6zc6r/PiRBlifSAmOCtl4OkilPAU7IiArWrdh2eBFVDMrF3qRFr32VSoNwvcLWDMFsWGSN+h6CJdQs+2CxZgjoFrZ+xxo8pk7QQP+zygxWghsigmSXhiljDFFqiTrOG9u0vMbjgS9pq8KiwK+bDQug40a9b7bsptGbPK62/MYn2W3jE2TI8m68xj7mHFVQVHtEUOOm8gAkaIvGRFOSqv+4S3UJrK1SGbs3ChMxnI+rslwh9vbeQ3EFOKc2D88SXb7n90mQLd4mX+1zYDc7kToedKpH6SJ4biw823QJhBBtGTZzp04QW3XH7EdB6HvB18QFs5kNAhTnhNqxCUtXorZ1/gTaI+Y4q7dGCNK/8CMa5YrzN+nMt+/KtULEqJzW01/K0gj0yiSYqXCLMb2ah2H3z4lfpIcWEysTrHHqQf9farCh3+jBrwFEZv4/p6/QALUFdEfF+iySmJTwBi16tvvmDb7cH0470ShA==;Q0P+pKmTfvHYDleseZiqUA=="
 ---
 

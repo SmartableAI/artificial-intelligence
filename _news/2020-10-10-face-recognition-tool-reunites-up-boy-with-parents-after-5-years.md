@@ -1,29 +1,29 @@
 ---
 category: news
-title: "California bar exam takers say facial recognition software rejected them"
-excerpt: "Questions of fairness algorithms dogged California’s first remote bar exam as test takers of color reported problems with facial recognition software. The company that made the software denied discriminatory intent."
-publishedDateTime: 2020-10-08T11:40:00Z
-originalUrl: "https://www.sfchronicle.com/business/article/California-bar-exam-takers-say-facial-recognition-15629617.php"
-webUrl: "https://www.sfchronicle.com/business/article/California-bar-exam-takers-say-facial-recognition-15629617.php"
-ampWebUrl: "https://www.sfchronicle.com/business/amp/California-bar-exam-takers-say-facial-recognition-15629617.php"
-cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/business/amp/California-bar-exam-takers-say-facial-recognition-15629617.php"
+title: "Face recognition tool reunites UP boy with parents after 5 years"
+excerpt: "Hyderabad: A 13-year-old autistic boy who went missing from near his house in Uttar Pradesh five years ago was traced to a Child Welfare Home in Assam."
+publishedDateTime: 2020-10-09T22:44:00Z
+originalUrl: "https://timesofindia.indiatimes.com/city/hyderabad/face-recognition-tool-reunites-up-boy-with-parents-after-5-years/articleshow/78582144.cms"
+webUrl: "https://timesofindia.indiatimes.com/city/hyderabad/face-recognition-tool-reunites-up-boy-with-parents-after-5-years/articleshow/78582144.cms"
+ampWebUrl: "https://m.timesofindia.com/city/hyderabad/face-recognition-tool-reunites-up-boy-with-parents-after-5-years/amp_articleshow/78582144.cms"
+cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/face-recognition-tool-reunites-up-boy-with-parents-after-5-years/amp_articleshow/78582144.cms"
 type: article
-quality: 58
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: San Francisco Chronicle
-  domain: sfchronicle.com
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/14/45/23/20075758/5/375x250.jpg"
-    width: 375
-    height: 249
+  - url: "https://static.toiimg.com/photo/msid-47529300/47529300.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -59,21 +59,21 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Face recognition tool reunites UP boy with parents after 5 years"
-    excerpt: "Hyderabad: A 13-year-old autistic boy who went missing from near his house in Uttar Pradesh five years ago was traced to a Child Welfare Home in Assam."
-    publishedDateTime: 2020-10-09T22:44:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/hyderabad/face-recognition-tool-reunites-up-boy-with-parents-after-5-years/articleshow/78582144.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/hyderabad/face-recognition-tool-reunites-up-boy-with-parents-after-5-years/amp_articleshow/78582144.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/face-recognition-tool-reunites-up-boy-with-parents-after-5-years/amp_articleshow/78582144.cms"
+  - title: "California bar exam takers say facial recognition software rejected them"
+    excerpt: "Questions of fairness algorithms dogged California’s first remote bar exam as test takers of color reported problems with facial recognition software. The company that made the software denied discriminatory intent."
+    publishedDateTime: 2020-10-08T11:40:00Z
+    webUrl: "https://www.sfchronicle.com/business/article/California-bar-exam-takers-say-facial-recognition-15629617.php"
+    ampWebUrl: "https://www.sfchronicle.com/business/amp/California-bar-exam-takers-say-facial-recognition-15629617.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/business/amp/California-bar-exam-takers-say-facial-recognition-15629617.php"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 58
     images:
-      - url: "https://static.toiimg.com/photo/msid-47529300/47529300.jpg"
-        width: 1200
-        height: 630
+      - url: "https://s.hdnux.com/photos/01/14/45/23/20075758/5/375x250.jpg"
+        width: 375
+        height: 249
         isCached: true
   - title: "Face recognition tool reunites Uttar Pradesh boy with parents after 5 years"
     excerpt: "Hyderabad: Telangana State police's face recognition tool 'Darpan' has helped reunite a missing boy from Uttar Pradesh with his parents after five years. Som Soni, a resident of Handia in ..."
@@ -138,6 +138,6 @@ related:
         height: 382
         isCached: true
 
-secured: "YX8zazHOJAxLAWPjdM3aKQCoJsXmoFzvTnQk5FpHIdWkG6iA+iRNcIOE00QzgdU7hXYqB9clsHPQY1Phi2OLI3Pv1a1dSDpKzDs0f99SOgDHNETzAyAI+Bdm4qKb/DTVAS8SVVL/vr1tosbQAWu+hsGJlgQSj9cu1raYh00bR0o7/CQHarq+Je7BvNjvEnyDZniAuQ7Rs/aVnwrCOB+pDhd68vmFt1zKwGQRyKJFs3kUGe2qw5LDR1ddVTBYYVLiTUMSBAEyLk0GRiO5rbNk1APkZadrDQQyE087e0o3AEL0v11/SiPbiUAt6MXMpH+W2rn2YxL7ZZMaCFYV1OY3RbzkwWbBUI31BxznW8zE2w0=;S6lcnBqOQH2V3HTP95xwKQ=="
+secured: "LRulSnL01llPBi+IDbhSbQ3zdqDSCNvHMbSa0qvqs7Qe+uYzpnSyLAAx0MlyAvzxTxqIgUsRQFn+ov3NxtYtfnYD1ikUwF6iMiBFqLDiGvGIdLPGWtKw/vkYQIhcr4nSF5ztvWplcHHkqEc5720W0trRqEBsChpYLbQkFE9p1HrfKHqOAazB/4on+R8eo0AM3V0Klyh76G/fLSgrzXwzxas/kAuOSQTfFr9zA2BUISU/1ES0xNa3L1j4TupeDCOv9OD7L8Q68z/ueMcw8aLT+tJ9f7lKEkFW9TeKnmyUW7x+4e9yX5g7uljQ90RrPAMHpAwqqG8/9snPtPSDJ+D0Thrml0Nw8kvRo4Pa4Yn5hdQ=;dI1eBbjK0LinpHlRMAv/tA=="
 ---
 

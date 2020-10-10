@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/news/national/telangana/facial-recognition-
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/facial-recognition-software-helps-identify-missing-teen/article32816177.ece/amp/"
 type: article
 quality: 59
-heat: 109
+heat: 129
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/10/09/01/34174796-0-image-a-117_1602205033570.jpg"
         width: 636
         height: 382
+        isCached: true
+  - title: "Face recognition tool reunites UP boy with parents after 5 years"
+    excerpt: "Hyderabad: A 13-year-old autistic boy who went missing from near his house in Uttar Pradesh five years ago was traced to a Child Welfare Home in Assam."
+    publishedDateTime: 2020-10-09T22:44:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/hyderabad/face-recognition-tool-reunites-up-boy-with-parents-after-5-years/articleshow/78582144.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/hyderabad/face-recognition-tool-reunites-up-boy-with-parents-after-5-years/amp_articleshow/78582144.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/face-recognition-tool-reunites-up-boy-with-parents-after-5-years/amp_articleshow/78582144.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/photo/msid-47529300/47529300.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "California bar exam takers say facial recognition software rejected them"
     excerpt: "Questions of fairness algorithms dogged California’s first remote bar exam as test takers of color reported problems with facial recognition software. The company that made the software denied discriminatory intent."
@@ -104,6 +120,22 @@ related:
       - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/10/2020_10$largeimg_1014741573.jpg"
         width: 660
         height: 440
+        isCached: true
+  - title: "Nigerian teens design phone app which helps dementia patients identify loved ones by showing them photos and plays them uplifting songs if facial recognition senses a change in ..."
+    excerpt: "Irish girls took first place in the the Technovation World Summit with an app that helps dementia patients and caretakers. Memory Haven includes memory games and photo albums."
+    publishedDateTime: 2020-10-09T21:28:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8824059/Nigerian-Irish-teens-win-international-prize-app-helps-people-dementia.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8824059/amp/Nigerian-Irish-teens-win-international-prize-app-helps-people-dementia.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8824059/amp/Nigerian-Irish-teens-win-international-prize-app-helps-people-dementia.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 6
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/10/09/21/34208010-0-image-a-26_1602274978382.jpg"
+        width: 636
+        height: 382
         isCached: true
 
 secured: "ZqkYPcuOIxX6bW6dasv6oVh0wNcw5RZOq70YwqymHaTZEOlPfEL+tLC2Sy2atbeu8EzhKqilFPf17H5NSz/kMhhguw3I7TdAMHCTzXgNo0UmKiFGUvTJYmWyYTDQc/S0gk7WurZs/b6tEUw/KIPHq4w3Jy4gX/k7neNhEz7JjJk+J4TMrm5VsPzXVai61Xf/nT8fPtsUhqTP2Agqxuh/3IT7HHTRKUK57qxfL3HG83Dwi+VpsxbfMwDy+rPTPIMFeYAM6ZsSNXw49UOBHcUNFb8z3rirgodzlB4wH0xTDexnd2wugrA3Pei7am6Tksre5ltmPXNucX1sWQhGVy22o2rsOQCYbYR3026bXZxq1HU=;7oSmzwy/DPo5YNN+6iGmaQ=="
