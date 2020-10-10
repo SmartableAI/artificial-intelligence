@@ -84,20 +84,6 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 36
-  - title: "Scality Announces 1 Terabit Per Second Performance for Scale-Out File System in Microsoft Azure Public Cloud"
-    excerpt: "Scality, a leader in software solutions for distributed file and object storage, today announced the technical preview of its high-performance scale-out file system (SOFS) in Microsoft Azure. Scality SOFS running in Azure delivers linear scaling performance for read- and write-intensive workloads."
-    publishedDateTime: 2020-10-06T02:26:00Z
-    webUrl: "https://www.totaltele.com/507362/Scality-Announces-1-Terabit-Per-Second-Performance-for-Scale-Out-File-System-in-Microsoft-Azure-Public-Cloud"
-    type: article
-    provider:
-      name: Total Telecom
-      domain: totaltele.com
-    quality: 35
-    images:
-      - url: "https://www.totaltele.com/res/image/articleimages/5g-icon-hpe.png"
-        width: 576
-        height: 583
-        isCached: true
 
 secured: "3TlzjznzZV5bexpE/jB5tW7sLGJlXC0bd9kfDgMqrFsAjQ3i1xxyHoaN3CKaflu3FQsZPdSWt7cylIpChr1WNPuVLhvP93jxOyjlRyd7Bms8cCkYN8v5DXnvF69WiR6bog+MN4ChReHXAteXiMhdSB2xlHwqYGZW45LOjaF4q7/qzdJ98b33eZsI4/tVavfDc4gecjpKZE/jknSkCVc+TQMeAWXTBkuMJ6gvBk5ISpdQBERKp1mkB7VZ5bvzDZq7tuRE4n7pHSgSP/ewKZJu00Xmex32olN/HQkMiOWArjnWS/6V0CUqlB8Mgo4h6yLPMD7ffiMNNL3RB6f49iFefwmT27Pj3EuObWcnW4+XF4zyj9GfdeIHZG6hww/2YtoQxAe6OIE8u++zjoPkBxEOJGDFb2tdO3a0vCLySxRkTM54AZ67GYQhwd2kKMMw+0Fwshmwn91tQ6vjmBezxQhDwVNuEmTMepSn8+mL9jkz601xfbP9Rv9OVa0XwwDlL5F1nQSZp5NTGXH9sCJeRj8jjA==;iK9SRVnjeTB88wonL+1h7A=="
 ---

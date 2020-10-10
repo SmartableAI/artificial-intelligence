@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2153314/ai-in-fintech-market-2020-status-
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2153314/ai-in-fintech-market-2020-status-and-outlook-growth-challenges"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "FinTech, Automotive AI, and More in This Week’s Top Mobile ID Stories"
+    excerpt: "It's been another rich and varied week in Mobile ID World news, and that's reflected in this week's roundup of our most popular stories."
+    publishedDateTime: 2020-10-10T18:50:00Z
+    webUrl: "https://mobileidworld.com/fintech-automotive-ai-and-more-in-this-weeks-top-mobile-id-stories-110101/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 39
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/61668108_thumbnail-1024x1024.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
   - title: "The limitless innovation in the fintech environment"
     excerpt: "By Stefan Pajkovic, CEO at TradeCore Innovation is no barrier for tech companies. Large organisations are known for pushing the boundaries, especially when it comes to developing new products or services to disrupt the market."
     publishedDateTime: 2020-10-07T09:28:00Z

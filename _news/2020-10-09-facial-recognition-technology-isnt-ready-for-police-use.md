@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Technology Can prove a Curse"
+    excerpt: "Divyanshu Dembi Facial recognition technology as a concept, is not new. Charles Darwin, in his book Expressions of Emotions argued that human facial"
+    publishedDateTime: 2020-10-10T18:34:00Z
+    webUrl: "https://www.dailyexcelsior.com/facial-recognition-technology-can-prove-a-curse/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 39
+    images:
+      - url: "https://www.dailyexcelsior.com/wp-content/uploads/2020/10/11-11.jpg"
+        width: 1000
+        height: 668
+        isCached: true
 
 secured: "pvTTTDeIePYVlyuSBNqERek/ulFcati1QGj7QoRI6YDMDHSJCXHLMKjflpw/JAfb0wUmq/K1reYcnCec060csT0m+o4F/L3adzHpDYGwqnJFGwlghyy3hAeWuC+/WyFlePKU4Q0wTA9qsZFnExC3gO80d84jqxql5TuDyQYgWc08b5UhpxSx4FVADYibmHhXq7OJzeYQYIUR6wEzWOdSFVX+YgYMFP32qLICyTOVTbAwl5JLul0hopoA2SuelPSoLViL2dRs8O7SWV+TVLn25src+EuuEAXrl1Y0WhaX+gfpJ4PzSwWm2q1jdbujI9QZHOo4zprKMeD9lSO3LWeBu0LPnbPhna2OqhcDsUKlPMrBa6xMKt5NFJR4btgOS4vj40EQmU6E2pOQtY63+q2loYnuc9iJmTvbVfdxe1+9ywz3JYYXzvxuVuhj2G+DIayc8SADXp69Ud+6rBSYetg7zry7Ii3zWUGthFPS7UvTNHPDrTNt2M9tkwjVHKirso6nrxsPoWHjocQ+D6+9qZXvyw==;EEJIz1dhHtxxRAkGfGABzQ=="
 ---

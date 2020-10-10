@@ -1,27 +1,27 @@
 ---
 category: news
-title: "The limitless innovation in the fintech environment"
-excerpt: "By Stefan Pajkovic, CEO at TradeCore Innovation is no barrier for tech companies. Large organisations are known for pushing the boundaries, especially when it comes to developing new products or services to disrupt the market."
-publishedDateTime: 2020-10-07T09:28:00Z
-originalUrl: "https://www.globalbankingandfinance.com/the-limitless-innovation-in-the-fintech-environment/"
-webUrl: "https://www.globalbankingandfinance.com/the-limitless-innovation-in-the-fintech-environment/"
+title: "FinTech, Automotive AI, and More in This Week’s Top Mobile ID Stories"
+excerpt: "It's been another rich and varied week in Mobile ID World news, and that's reflected in this week's roundup of our most popular stories."
+publishedDateTime: 2020-10-10T18:50:00Z
+originalUrl: "https://mobileidworld.com/fintech-automotive-ai-and-more-in-this-weeks-top-mobile-id-stories-110101/"
+webUrl: "https://mobileidworld.com/fintech-automotive-ai-and-more-in-this-weeks-top-mobile-id-stories-110101/"
 type: article
-quality: 24
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: List of Banks in Belarus
-  domain: globalbankingandfinance.com
+  name: Mobile ID News
+  domain: mobileidworld.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/10/Untitled-design-2020-10-07T143803.769.jpg"
-    width: 750
-    height: 422
+  - url: "https://mobileidworld.com/wp-content/uploads/61668108_thumbnail-1024x1024.jpg"
+    width: 1024
+    height: 1024
     isCached: true
 
 related:
@@ -41,19 +41,19 @@ related:
         width: 800
         height: 480
         isCached: true
-  - title: "FinTech, Automotive AI, and More in This Week’s Top Mobile ID Stories"
-    excerpt: "It's been another rich and varied week in Mobile ID World news, and that's reflected in this week's roundup of our most popular stories."
-    publishedDateTime: 2020-10-10T18:50:00Z
-    webUrl: "https://mobileidworld.com/fintech-automotive-ai-and-more-in-this-weeks-top-mobile-id-stories-110101/"
+  - title: "The limitless innovation in the fintech environment"
+    excerpt: "By Stefan Pajkovic, CEO at TradeCore Innovation is no barrier for tech companies. Large organisations are known for pushing the boundaries, especially when it comes to developing new products or services to disrupt the market."
+    publishedDateTime: 2020-10-07T09:28:00Z
+    webUrl: "https://www.globalbankingandfinance.com/the-limitless-innovation-in-the-fintech-environment/"
     type: article
     provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 39
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 24
     images:
-      - url: "https://mobileidworld.com/wp-content/uploads/61668108_thumbnail-1024x1024.jpg"
-        width: 1024
-        height: 1024
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/10/Untitled-design-2020-10-07T143803.769.jpg"
+        width: 750
+        height: 422
         isCached: true
   - title: "Georgia State to Offer Graduate Certificates in AI Business Innovation, Disruptive Innovation and Entrepreneurship, and Fintech Innovation"
     excerpt: "Georgia State University’s Robinson College of Business will admit new students to three stand-alone graduate certificate programs that address current and emerging market demand for innovation."
@@ -70,6 +70,6 @@ related:
         height: 1125
         isCached: true
 
-secured: "La4nbCn5cgMQPK+yqCF9XSWLSlfsuH3Eycve+vXjitG0MBoWOFdji3VbgrVpmmdTiEA64gEoT727zffcDDER26RETEY8wJri8bvg3BHpQ2ZS9KU03U97+RhxxFP6gFJdORCZKll7PmRhkOrrkQnO+ll0JMw0QY6DS2XGwUt3EDE/CZCFee38GFBwT0+P0LpbcMaiasZWvr0FJO/s9QmJZaj+4N5xnI/5USE4HNP3MYl7djSUaPIFsKsKwerzbAEgILFgWL/9CK0gwNt18/leF1zQBldaU+hpov3t1kAV4Uam7sXQ37nVR6oArN6jA++FZh8a3/XLb+5ETpsD6ZogTW5dS39AkmuU47DzpexkZ9gfnkHnStUbpeAozpIlS7XDs6ONj8QFwN1FTuE68B+ZIaBL1Eck+MiGtf1mGcj9W/Xem19LUTmp8HaXYgkZ4X8KRla0BBFh+YglCmQ8a4jUnBdqAjMzb76/sd04CZs9NLzvxhub9eGfD34G0YfEwRx8fNEx1nucK5NrsKyZaCDPDQ==;HTM9lzykDaa8fsbcTmbCLw=="
+secured: "S2xMynKNx6yJxxqnLNQ/JrVGJLzVPZEmKMl+t4IlbraKkW+piqC1AdQeabuNQQgEgZbciklSB+1se/yBEWWdtE3o5tne6jDNPtG3HmBUBH+vfH2D69onyUGq2U6QaJ5T45n/MKL0V9KgoU1Wtj+0mW35BmSpKkwgufGVWg3nlFPAibpw0RENUhoy/nj+NUVIWFuX8ZS30n5Unxv9b2MzPQmYyYOP/GYup4Du5wK3PmCD90sfjRah+VTn+Hp0Sp9/HRih6O5seGsSCOxfeMC1UX+1gKsgPHU/Q9OrrONdm2aP3x6iSOgfEPUAONsYRe2AfStG/TbM673JCD30oqj5gaRO2V39YCX8N9av0F9y0JU=;GX7anvUDR6BHPKDHFpYF5w=="
 ---
 

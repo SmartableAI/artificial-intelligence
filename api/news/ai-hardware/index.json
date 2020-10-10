@@ -147,6 +147,48 @@
       ]
     },
     {
+      "path": "_news/2020-10-08-mediatek-launches-ai-enabled-chip-to-power-premium-smart-tvs.md",
+      "title": "MediaTek launches AI-enabled chip to power premium smart TVs",
+      "excerpt": "Taiwan-based fabless semiconductor company MediaTek on Thursday unveiled the high-performance Smart TV chip with comprehensive features for modern 4K HDR displays.",
+      "sourceUrl": null,
+      "webUrl": "https://www.iol.co.za/technology/gadgets/mediatek-launches-ai-enabled-chip-to-power-premium-smart-tvs-4e0a91c6-b861-4d1e-a218-8f8526433c0b",
+      "originalUrl": "https://www.iol.co.za/technology/gadgets/mediatek-launches-ai-enabled-chip-to-power-premium-smart-tvs-4e0a91c6-b861-4d1e-a218-8f8526433c0b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image-prod.iol.co.za/resize/3400x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/5dc99b13-b345-5dcf-8b4f-829ee0e7770c&operation=CROP&offset=0x153&resize=3400x1913",
+          "width": 650,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.iol.co.za/amp/technology/gadgets/mediatek-launches-ai-enabled-chip-to-power-premium-smart-tvs-4e0a91c6-b861-4d1e-a218-8f8526433c0b",
+      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/gadgets/mediatek-launches-ai-enabled-chip-to-power-premium-smart-tvs-4e0a91c6-b861-4d1e-a218-8f8526433c0b",
+      "publishedDateTime": "2020-10-08T03:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IOL News",
+        "domain": "iol.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-maxim-integrateds-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices.md",
       "title": "Maxim Integrated's Neural Network Accelerator Chip Enables IoT Artificial Intelligence in Battery-Powered Devices",
       "excerpt": "PRNewswire/ -- The MAX78000 low-power neural network accelerated microcontroller from Maxim Integrated Products, Inc. (NASDAQ: MXIM) moves artificial intelligence (AI) to the edge without performance compromises in battery-powered internet of things (IoT) devices.",
@@ -187,48 +229,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-mediatek-launches-ai-enabled-mt9602-chip-to-power-premium-smart-tvs.md",
-      "title": "MediaTek Launches AI-Enabled MT9602 Chip to Power Premium Smart TVs",
-      "excerpt": "MediaTek officially unveiled the high performance Smart TV SoC MT9602 with comprehensive features enabling modern 4K HDR displays. The new SoC is designed to de",
-      "sourceUrl": null,
-      "webUrl": "https://technuter.com/consumer-electronics/mediatek-launches-ai-enabled-mt9602-chip-to-power-premium-smart-tvs.html",
-      "originalUrl": "https://technuter.com/consumer-electronics/mediatek-launches-ai-enabled-mt9602-chip-to-power-premium-smart-tvs.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://technuter.com/wp-content/uploads/2020/04/MediaTek.jpg",
-          "width": 351,
-          "height": 286,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://technuter.com/consumer-electronics/mediatek-launches-ai-enabled-mt9602-chip-to-power-premium-smart-tvs.html/amp",
-      "cdnAmpWebUrl": "https://technuter-com.cdn.ampproject.org/c/s/technuter.com/consumer-electronics/mediatek-launches-ai-enabled-mt9602-chip-to-power-premium-smart-tvs.html/amp",
-      "publishedDateTime": "2020-10-08T00:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technuter.com",
-        "domain": "technuter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {

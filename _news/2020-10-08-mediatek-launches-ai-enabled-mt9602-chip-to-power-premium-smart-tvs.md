@@ -9,8 +9,8 @@ ampWebUrl: "https://technuter.com/consumer-electronics/mediatek-launches-ai-enab
 cdnAmpWebUrl: "https://technuter-com.cdn.ampproject.org/c/s/technuter.com/consumer-electronics/mediatek-launches-ai-enabled-mt9602-chip-to-power-premium-smart-tvs.html/amp"
 type: article
 quality: 74
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: technuter.com
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "MediaTek launches AI-enabled chip to power premium smart TVs"
+    excerpt: "Taiwan-based fabless semiconductor company MediaTek on Thursday unveiled the high-performance Smart TV chip with comprehensive features for modern 4K HDR displays."
+    publishedDateTime: 2020-10-08T10:16:00Z
+    webUrl: "https://www.iol.co.za/technology/gadgets/mediatek-launches-ai-enabled-chip-to-power-premium-smart-tvs-4e0a91c6-b861-4d1e-a218-8f8526433c0b"
+    ampWebUrl: "https://www.iol.co.za/amp/technology/gadgets/mediatek-launches-ai-enabled-chip-to-power-premium-smart-tvs-4e0a91c6-b861-4d1e-a218-8f8526433c0b"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/gadgets/mediatek-launches-ai-enabled-chip-to-power-premium-smart-tvs-4e0a91c6-b861-4d1e-a218-8f8526433c0b"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 74
+    images:
+      - url: "https://image-prod.iol.co.za/resize/3400x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/5dc99b13-b345-5dcf-8b4f-829ee0e7770c&operation=CROP&offset=0x153&resize=3400x1913"
+        width: 650
+        height: 366
+        isCached: true
   - title: "MediaTek launches AI-Enabled MT9602 Smart TV SoC, to come with upcoming Motorola TVs"
     excerpt: "MediaTek has announced the launch of AI-enabled MT9602 Smart TV SoC with comprehensive features enabling modern 4K HDR displays. The new SoC is designed to deliver real-time video optimization with improved picture and audio quality,"
     publishedDateTime: 2020-10-08T11:08:00Z
@@ -43,15 +59,6 @@ related:
         width: 735
         height: 425
         isCached: true
-  - title: "MediaTek launches AI-enabled chip to power premium smart TVs"
-    excerpt: "New Delhi, Oct 8 (IANS) Taiwan-based fabless semiconductor company MediaTek on Thursday unveiled the high-performance Smart TV chip with comprehensive features for modern 4K HDR displays."
-    publishedDateTime: 2020-10-08T15:07:00Z
-    webUrl: "https://www.sify.com/news/mediatek-launches-ai-enabled-chip-to-power-premium-smart-tvs-news-education-ukim5Bbjbhdeb.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 34
 
 secured: "N1v78woHXp73sHGCrUWgfPP0VyctnfI86fD+FYwf+NqxecLeBStP68+B0ogdKi18L7kbeOJjgv5n5ZmDK/MKvJ5YVFjXkpMlKFm6VsiU2WQymzFTPRbT3RVaCzL820jn6AWpF8q4ntxNfDx0kiu1PK0FatinIY8MvC7RZbSy3ZCjHHBsB4vioEVZ0hB/dVA0gHSFZygmQCmUQ+tTt4wgTdWBuAW76aEW1OYHBaGJKCw0LFLI8QvaP02dJm0SjBekTK+XF4yfZxhxZ7rcR6Zs94VbesRMSPHX+P/AgZmEXWMjotvUW1FsBlm7ayb7nSJI34g3E2jzHrSMiS+PACDsf8QAwcKjAjcE6lS+SlYF17P12GlswinTI5TGH17lEeuGYv4UnN7yrqRcKtHReKv4SaBs/cZ71Mgq77fsovwS4drH20RisFpAE2uPrtixBJzkPGbdSmcYAip1eKydkGlPT4PkHKCFLRMZE+zbgj7Z+zjEyzN93rbfoVyOZfG9DA/qlx5pqUcCsa6SYJ8bN6JAyg==;zKkdB9nTPurb1MzdmaG17A=="
 ---

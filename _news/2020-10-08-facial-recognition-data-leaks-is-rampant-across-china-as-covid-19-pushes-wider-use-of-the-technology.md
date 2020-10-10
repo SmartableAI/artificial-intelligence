@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/abacus/tech/article/3104512/facial-recognition-
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/abacus/tech/article/3104512/facial-recognition-data-leaks-rampant-across-china-covid-19-pushes"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://snworksceo.imgix.net/jhn/6ffb2208-cb6b-4bc4-9e76-33b4fa2b56a1.sized-1000x1000.png?w=800&h=600"
         width: 720
         height: 600
+        isCached: true
+  - title: "Facial Recognition Technology Can prove a Curse"
+    excerpt: "Divyanshu Dembi Facial recognition technology as a concept, is not new. Charles Darwin, in his book Expressions of Emotions argued that human facial"
+    publishedDateTime: 2020-10-10T18:34:00Z
+    webUrl: "https://www.dailyexcelsior.com/facial-recognition-technology-can-prove-a-curse/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 39
+    images:
+      - url: "https://www.dailyexcelsior.com/wp-content/uploads/2020/10/11-11.jpg"
+        width: 1000
+        height: 668
         isCached: true
 
 secured: "RMtM32XPFdES8r7Dd5C8TfylG6KhmJwUYyStQF2NmIog+2zo56MhVV/18y+a0D/gUpq537zMZZmcisTIgnDUYRhXV5ExQ0V9kQzgkGTwAX7V3Ml82dSe2OC370kQiKJDtOGoxosSxUuuskjmfZdHgsABKGW+gjNt61oHlh+tC/TtIToZONDYrzYmH87q8A1ROIrKYHDHbNuQLuJl2I+w0bOoksb+8+jhp6/LCvuNdSRkjPv2UldGQ0p5icsVQzMEkfMl0pXd56ic1V9+T60dEwOoA5FHgN2Paswx0upAJFeBZyOLTJV9PJ0BhP6UY51YzKv2MSzDfy0N+QAiR9JdB6che/1N5WmCb8h+m0oHsryVuoyV1lmpoIQQNdcjIeBQNlbaE5e3OVzly3rl1REtkNT7ordh2fs8JtRXWsCHdapsI8OayjnGvX+T6NpGvrr0EZil37Z8LlGCHnue5qiEb2nB992iKH7L9w9nUVjYRp1luKVVL7PNCvEAfJmj/MjVvlkMhRTCXGLCxwMica919w==;pGxqeSKcpXfruLW63N+kwA=="
