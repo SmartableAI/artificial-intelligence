@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-09T16:30:00Z
 originalUrl: "https://www.electronicdesign.com/technologies/iot/article/21144340/building-an-ai-camera-with-a-raspberry-pi"
 webUrl: "https://www.electronicdesign.com/technologies/iot/article/21144340/building-an-ai-camera-with-a-raspberry-pi"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2020/10/PROMO_vizy_award_all.5f808c8180cc1.png?auto=format&fit=max&w=1200"

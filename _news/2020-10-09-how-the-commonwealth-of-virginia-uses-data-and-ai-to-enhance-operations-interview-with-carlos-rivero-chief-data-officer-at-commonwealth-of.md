@@ -39,7 +39,7 @@ related:
     provider:
       name: InfoQ
       domain: infoq.com
-    quality: 41
+    quality: 43
     images:
       - url: "https://res.infoq.com/articles/build-deploy-ai-assistants/en/headerimage/croppted-build-deploy-ai-assistants-1602098758941.jpeg"
         width: 1200

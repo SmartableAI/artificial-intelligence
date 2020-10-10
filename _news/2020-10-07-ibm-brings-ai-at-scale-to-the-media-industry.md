@@ -31,18 +31,18 @@ related:
       domain: pulse2.com
     quality: 39
   - title: "IBM Brings Artificial Intelligence At Scale To The Marketing And Media Industry"
-    excerpt: "Our work will be a step forward in our evolution to meet the advertising industry's upheaval, and we are proud to help the advertising industry advance with the value of AI.\" The IBM Watson ..."
-    publishedDateTime: 2020-10-05T14:25:00Z
-    webUrl: "https://www.finanzen.net/nachricht/aktien/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-9360315"
+    excerpt: "PRNewswire/ -- IBM (NYSE: IBM ) today announced three new products to add to its growing suite of AI solutions for brand and publishers. The new capabilities are privacy-forward and designed to allow brands to reach consumers while considering user privacy."
+    publishedDateTime: 2020-10-05T12:25:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-media-corporate-news-products-and-services-254490ca5afba0f32767555ae8f3ed47"
     type: article
     provider:
-      name: Finanzen
-      domain: finanzen.net
+      name: Associated Press
+      domain: apnews.com
     quality: 35
     images:
-      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-        width: 600
-        height: 315
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "9+jjs3k73wWL3wvasD4YqZy+23F14ueSR/cPqg2VgMMW/Z9PUDRgNiIb1yaHBSDWlcfLUS5DDXcOtM4wiF8Ak72QzSynjPHYeLkIvDIa9z1pWa79Z49anA7n1CJ0Y6orRZADrz3iq/Jr30Cvkhe6bONGzJnq2y0Cqlb6gvJYaiUcNJ9FIvrxTXOYZdGNxGzqox64Xl7cZrYjBvacLrdD4UXPiWKHBVbxtIU8JadkivxjnsP58qV8UM+GjxA+UD0nV/U93RCPbvfkgLzZo8Ho8Mkonx06+HjCY/SsWXUWQ519UUTXARJKgdqGXSDVJT1x2Owd8hQ+PGePsTNAOcGC9ivRbimvPLDzliGwFpyc2p8=;cpstAB0LkmYor0F7jXQlZA=="

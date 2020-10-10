@@ -1,25 +1,23 @@
 ---
 category: news
 title: "GOWIN Semiconductor Launches GoAI 2.0 for Embedded Machine Learning Inference"
-excerpt: "GOWIN GoAI 2.0 offers direct integration into the TensorFlow and TensorFlow Lite Machine Learning Platforms, optimization for targeting GOWIN’s GW1NSR4P µSoC FPGA, and an accelerator to offload ..."
-publishedDateTime: 2020-09-21T08:10:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/gowin-semiconductor-launches-goai-2-0-for-embedded-machine-learning-inference-1029605673"
-webUrl: "https://markets.businessinsider.com/news/stocks/gowin-semiconductor-launches-goai-2-0-for-embedded-machine-learning-inference-1029605673"
+excerpt: "GOWIN GoAI 2.0 offers direct integration into the TensorFlow and TensorFlow Lite Machine Learning Platforms, optimization for targeting GOWIN's GW1NSR4P µSoC FPGA, and an accelerator to offload ..."
+publishedDateTime: 2020-09-21T07:26:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/09/g17578534/gowin-semiconductor-launches-goai-2-0-for-embedded-machine-learning-inference"
+webUrl: "https://www.benzinga.com/pressreleases/20/09/g17578534/gowin-semiconductor-launches-goai-2-0-for-embedded-machine-learning-inference"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17578534"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17578534"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Google AI
   - AI
   - Machine Learning
 
-secured: "fJtvPK2zdTPKdTNLGlVb6EFIHi2Jfe4rErrhAv2QPXXPRl+phQ9uiF6SKH9MIvhzuXHUZbKFgK72FE5Yhk2WduSx7DyAYxTl59Gav4bvf6jQ7RmKT9GWcLri0Qx5kFiIQIktwbRJeVBhLuic0Yk08IDnUzgr0KODirCodoo5jS70KfwrJkLQ1dPvEEyEsaYP5r7dfxYfyaik/U+87yOShD1v/0RC0PfSXc7Hkl9msvNv+LDOrdpXeCZxgho9gQ4zHOb8laM1gzKuKtvocIuAcrjwjQyOgP07NOFl6eznphMDrYsY5vgFlhbeuSDaMtu4NfB50YHje19Zo6xZK49v9cyqeWn0c7IZ3daYa8WLL/Y=;PMIbThjealKCeQeKadr2HA=="
+secured: "GL0adiAaiRiaD5Hc1e1Q+Cr4jXKJTiyGGk+bCq58kUEBGGt7Ark5g+zRXsw4aMKHtpCLYs03KzTTrP5/f0Vs/DZsYbTQREeGihoUiSIXbqK3lSfWUbnqGMJQ74QOO9GYJn6cJrowAONWzki1lrXJwOGHqL+VddphjonIw4nZKQqUPP57wwMJY7ouyvPmphP4pN52PCborHCU1vaQKniyEfUYsNyrEYawpqoVMJeMiReBYz1AA/Rl56GTUv9J5MWoPDmYRZMeKSaPNAiMTF/xFLKx7F1V/uqxxGWbRT14hOrdXDIy02eINepjk6yEU/Lv7dmrDS2yzT303tFl0XGtYVIkMH1NMM1K8bJNhkGhb/w=;C7CUnUGRYjksQUvu7Wj82Q=="
 ---
 

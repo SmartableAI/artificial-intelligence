@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/technology/microsoft-p
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html"
 type: article
 quality: 90
-heat: 150
+heat: 160
 published: true
 
 provider:
@@ -103,6 +103,20 @@ related:
       - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
         width: 400
         height: 300
+        isCached: true
+  - title: "Microsoft Touts Arm Partnership on Edge Devices and Azure Tools"
+    excerpt: "Microsoft and Arm are collaborating on Azure developer tools for 'intelligent edge devices' that use artificial intelligence, per a Thursday announcement."
+    publishedDateTime: 2020-10-09T22:36:00Z
+    webUrl: "https://rcpmag.com/articles/2020/10/09/microsoft-and-arm-edge-device-partnership.aspx"
+    type: article
+    provider:
+      name: Redmond Channel Partner
+      domain: rcpmag.com
+    quality: 54
+    images:
+      - url: "https://rcpmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2016/1216vrm_CrankyAdmin_Image1.jpg"
+        width: 647
+        height: 450
         isCached: true
   - title: "AI Eye Episode 448: ZEISS Partners with Microsoft (NasdaqGS: $MSFT) for Digital Cloud Transformation"
     excerpt: "Optics and optoelectronics manufacturer ZEISS Group (OTC:CZMWF) has entered a multi-year strategic partnership with Microsoft (NasdaqGS:MSFT) to accelerate its transformation into a digital services provider with a cloud first approach."

@@ -17,6 +17,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "USPTO releases report on artificial intelligence and intellectual property policy"
+    excerpt: "WASHINGTON — The United States Patent and Trademark Office (USPTO) today released a report titled “Public Views on Artificial Intelligence and Intellectual Property Policy.” It"
+    publishedDateTime: 2020-10-06T16:22:00Z
+    webUrl: "https://www.uspto.gov/about-us/news-updates/uspto-releases-report-artificial-intelligence-and-intellectual-property"
+    type: article
+    provider:
+      name: United States Patent and Trademark Office
+      domain: uspto.gov
+    quality: 12
+
 secured: "dBj1gfmrMWvcd7+YYxnTPteQUCBwHaQWFt63XnsBrgO0vM7shHj/1XKda84LkS5NtyYe3HGv5DZVjJb+5fCRtVzjvYvIYslwn5yQPVsgdn3cLyh2JTxD2RpDu7gDPEKh3FEh4F6pe2QwrQr2ZQaZ+m8UOOxsArkGOgexdKkGLYgYHiGu53viEidFk6OSgQbecz3O2qshPCTZOlY+VGml9sgLcdNs5kgiJ1HpwLabUYK8fT5JMq9PqGgVJzZ+A5qxpAJb7rAr0du14ZAeEoPrrrJiv7NajmZm0vVvKgnHcUcw4VTgFJNcrmt9PVgW2d+1FFoE5viP/hH3qMhq8LNcZRKhHnXWCtq04V6yq9nc5MA=;VykrbRfbOPmOPqMDWG8W3g=="
 ---
 

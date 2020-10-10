@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-09T12:15:00Z
 originalUrl: "https://www.infoq.com/articles/build-deploy-ai-assistants/"
 webUrl: "https://www.infoq.com/articles/build-deploy-ai-assistants/"
 type: article
-quality: 41
+quality: 43
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Natural Language Processing
   - AI
   - Microsoft AI
+  - AI Ethics
 
 images:
   - url: "https://res.infoq.com/articles/build-deploy-ai-assistants/en/headerimage/croppted-build-deploy-ai-assistants-1602098758941.jpeg"

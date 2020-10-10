@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2153314/ai-in-fintech-market-2020-status-
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2153314/ai-in-fintech-market-2020-status-and-outlook-growth-challenges"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "F|T: The FinTech Times – Pandemic plutocrats"
-    excerpt: "Welcome to the FinTech Times, a weekly newsletter covering the biggest FinTech news from around the globe. If you want to read F|T before anyone else, make sure to subscribe using the form at the bottom of this page."
-    publishedDateTime: 2020-10-05T10:02:00Z
-    webUrl: "https://betakit.com/ft-the-fintech-times-pandemic-plutocrats/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 24
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2019/05/fintechtimes-1-1-1-1-1024x575.png"
-        width: 1024
-        height: 575
-        isCached: true
   - title: "Outcome-based investments and other fintech to watch"
     excerpt: "For example, technologies such as IoT, cloud computing and DLT could help verify impact investments by creating and trading digital tokens linked to approved companies. Impact investing refers to investment in companies that have a direct and measurable effect on society and the environment."
     publishedDateTime: 2020-10-05T20:25:00Z

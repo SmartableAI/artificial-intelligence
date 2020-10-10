@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2020-10-artificial-intelligence-science.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-artificial-intelligence-science.amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Phys.org
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "New intelligent revolution series explores cutting-edge applications in AI"
-    excerpt: "The Next Wave in Life Sciences', the first eBook from The Intelligent Revolution series. In the new eBook, experts from the company and the life science industry explore cutting-edge applications for AI in areas including flu prevention,"
-    publishedDateTime: 2020-10-05T10:46:00Z
-    webUrl: "https://www.electropages.com/2020/10/new-intelligent-revolution-series-explores-cutting-edge-applications-ai"
-    type: article
-    provider:
-      name: Electropages
-      domain: electropages.com
-    quality: 37
-    images:
-      - url: "https://www.electropages.com/storage/app/media//company-logos/company-logo-Mouser@2x.jpg"
-        width: 600
-        height: 600
-        isCached: true
   - title: "Applying artificial intelligence to science education"
     excerpt: "A new review published in the Journal of Research in Science Teaching highlights the potential of machine learning--a subset of artificial intelligence--in science education."
     publishedDateTime: 2020-10-07T04:06:00Z

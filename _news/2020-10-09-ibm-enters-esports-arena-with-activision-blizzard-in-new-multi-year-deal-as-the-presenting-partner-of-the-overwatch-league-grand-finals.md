@@ -54,9 +54,9 @@ related:
   - title: "IBM enters the esports fray with Overwatch League partnership"
     excerpt: "IBM has announced its debut into the esports arena through a multi-year deal inked with the Overwatch League.  Esports is roughly described as competitive videogaming, team-based play, and digital tournaments."
     publishedDateTime: 2020-10-09T11:56:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/"
+    webUrl: "https://www.zdnet.com/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/"
     type: article
     provider:
       name: ZDNet

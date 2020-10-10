@@ -196,7 +196,7 @@
       "originalUrl": "https://www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 255,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -992,19 +992,19 @@
     {
       "path": "_news/2020-10-05-ibm-fenergo-to-transform-new-customer-onboarding-for-financial-institutions.md",
       "title": "IBM, Fenergo to Transform New Customer Onboarding for Financial Institutions",
-      "excerpt": "The offering is designed to incorporate artificial intelligence (AI) from IBM Watson and analytics on the IBM Cloud to help financial institutions drive efficiencies in customer onboarding through ...",
+      "excerpt": "PRNewswire/ -- SIBOS: IBM (NYSE: IBM) and Fenergo, a leading provider of client lifecycle management (CLM) solutions for financial institutions,",
       "sourceUrl": null,
-      "webUrl": "https://www.troyrecord.com/news/national/ibm-fenergo-to-transform-new-customer-onboarding-for-financial-institutions/article_1ff8cadf-b470-517b-8d2d-5d23e35113b3.html",
-      "originalUrl": "https://www.troyrecord.com/news/national/ibm-fenergo-to-transform-new-customer-onboarding-for-financial-institutions/article_1ff8cadf-b470-517b-8d2d-5d23e35113b3.html",
+      "webUrl": "https://www.prnewswire.com/news-releases/ibm-fenergo-to-transform-new-customer-onboarding-for-financial-institutions-301145261.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/ibm-fenergo-to-transform-new-customer-onboarding-for-financial-institutions-301145261.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/troyrecord.com/content/tncms/assets/v3/editorial/c/0b/c0bf523f-6302-5997-8d2a-9688cdf3e28f/5f3a04aacb9b4.image.jpg?resize=400%2C209",
-          "width": 400,
-          "height": 209,
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook",
+          "width": 2698,
+          "height": 1414,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1013,11 +1013,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-04T21:50:00-07:00",
+      "publishedDateTime": "2020-10-04T21:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Troy Record",
-        "domain": "troyrecord.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null

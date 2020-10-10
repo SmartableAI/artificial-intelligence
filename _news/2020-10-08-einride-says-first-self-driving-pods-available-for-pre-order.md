@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Q&A: Einride powers a self-driving truck future"
+    excerpt: "Einride pod operates at SAE Level 4 autonomy and will continue to do so as it rolls out commercially on a global scale in the coming years. Source: Einride Swedish automotive startup Einride has been working on pilot projects for its autonomous and electric logistics platform but now the company is going global with its second-generation self-driving logistics platform."
+    publishedDateTime: 2020-10-09T00:00:00Z
+    webUrl: "https://insights.globalspec.com/article/15175/q-a-einride-powers-a-self-driving-truck-future"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "o/s04LRqmzZh3P6BtzC/fTFUOpbiS1uQrTLUerweIjTcmSClkOUAFiPRpRi1d2FL6BaZvJ5GSbUGwNcR1+vSfcCx/YjI+6YGKgR8S/5m5GPYxQEpXQndQzuPTgPiRvA4QoYvuj4PAGPOkc5uBazSI/1uLe5n6wHYYdjPgSld6y8CgCdg1j6DE1k4Box/biJX0eCIATPmmfjlB+pllf/Xd8evciaXSCPY2tJshcMcNx4YHEe8gedYMwBNdU+fkHhG8N20Cqr3ezguDM6fudziTcmtqkWzENHVdmTxa3FU+vjlbY0t7weE3sQEwlEY03kWzmQCeRKJ0M9aMhFRfWRVGn8x0EsBCusM+yy/TqmpQ0hBk192UUsosj+Sew8fpPPANMWmL4gl/9eyXZnl6QSTRyevPHPaZOX9RgFQ/zASiBtCKWTyXsr24igccJJzx2E+fD2+6YSYPG92JR43xgNViQgAyLXeXQ9GQRwXkM/LpCrSVV7iCdPo31ggCYyKTtZMC4K+p77da/AmMQt1j3pD5g==;tNRB6CZ0x0J8En0FM3kNig=="
 ---

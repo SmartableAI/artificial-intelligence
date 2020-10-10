@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-10-08/playstation-i
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-08/playstation-inventor-starts-new-career-making-robots-for-no-pay"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://www.taipeitimes.com/images/2020/10/10/P10-201010-314.jpg"
         width: 800
         height: 706
+        isCached: true
+  - title: "PlayStation inventor starts new career making robots"
+    excerpt: "Ken Kutaragi, the legendary inventor of the PlayStation gaming console, is taking on one of the hardest jobs in robotics. And he’s getting paid nothing to do it. The founder of Sony’s gaming business is the new chief executive officer of Ascent Robotics Inc."
+    publishedDateTime: 2020-10-09T22:50:00Z
+    webUrl: "https://www.moneyweb.co.za/news/tech/playstation-inventor-starts-new-career-making-robots-for-no-pay/"
+    type: article
+    provider:
+      name: Moneyweb
+      domain: moneyweb.co.za
+    quality: 39
+    images:
+      - url: "https://www.moneyweb.co.za/wp-content/uploads/2020/10/365165821-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "4+uW0DBsRCVVh5lX7kkQzJD+Apd5qHQ7enwtmlkSZsOIlliC2lNVqyAv0qhfSFDo12DL5A9XNYg/bAliHifV5wKDXnCvetatqCLJtMScoao0gxnzB4EC3DWzt4klQRt4IV4y0/u8De7f0XRsHUoKPvCPrng8tVJ2twvZe4pwLQRF7tj2pepm9mChYlLplhXIpMMe+hkf7ctqeBdIgt8JU9vmDx1IMVm2x/XLY87MCrNWx/3vBwOulzrjQmjDzhgl0v7DJlPTBGRPZ8Iw9qg929BiJgpvWfnpg/dhXETCJYtIlnQptbzubUrFO9ciq5QyWcVTpoiwS++LAcquN+jtOeAFpGlpXCzHC+h6T4lC9fA=;b4FkSkam6ixujPXullYW8A=="

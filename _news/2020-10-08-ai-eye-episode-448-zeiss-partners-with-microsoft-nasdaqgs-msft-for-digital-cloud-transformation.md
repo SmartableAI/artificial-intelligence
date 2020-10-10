@@ -117,6 +117,20 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Microsoft Touts Arm Partnership on Edge Devices and Azure Tools"
+    excerpt: "Microsoft and Arm are collaborating on Azure developer tools for 'intelligent edge devices' that use artificial intelligence, per a Thursday announcement."
+    publishedDateTime: 2020-10-09T22:36:00Z
+    webUrl: "https://rcpmag.com/articles/2020/10/09/microsoft-and-arm-edge-device-partnership.aspx"
+    type: article
+    provider:
+      name: Redmond Channel Partner
+      domain: rcpmag.com
+    quality: 54
+    images:
+      - url: "https://rcpmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2016/1216vrm_CrankyAdmin_Image1.jpg"
+        width: 647
+        height: 450
+        isCached: true
 
 secured: "SRB1cvRTMsKV4q9zS9cVFY+YNatYafG24Ej2N5KXOmXTPalpPyleZeTD0KV5yenKozhjurEn9nffv8UaPTRrJA/SxVrbPCzmXMP7padocFcOtLgs47IYPW1dRoQ0bMPnNAbcwj25t4h3Mo0c7guJ8amP3zee9nN3JFCFphjVfyV8g6JdpfW9YR61x/Si7mL1CaxBrMtgPMcSpQMwoWZo+z45wbBSaUl7WUu6IPk/uCZ2/3AYa3T7NvwIHjzbB+OtKfHvEZKZHDJHU+mEbduAgKnaTOoJ86Vi9YkamdX3kXW57F+nu+otLduIADCBC7YZbO03nQJGtn4fB50jiUeNOOgJzx+ruVyAV49LPA2wtjk=;0ULhYI5L6uTWEMqNLmycEw=="
 ---
