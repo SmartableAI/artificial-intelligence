@@ -1,27 +1,27 @@
 ---
 category: news
-title: "OPINION | WALTER WILLIAMS: The fight for free speech"
-excerpt: "The violence, looting and mayhem this nation has seen over the last several months has much of its roots in academia, where leftist faculty teach immature young people all manner of nonsense that contradicts common sense and the principles of liberty."
-publishedDateTime: 2020-10-10T02:09:00Z
-originalUrl: "https://www.arkansasonline.com/news/2020/oct/08/walter-williams-the-fight-for-free-speech/"
-webUrl: "https://www.arkansasonline.com/news/2020/oct/08/walter-williams-the-fight-for-free-speech/"
+title: "Syndicated column: The fight for free speech"
+excerpt: "The violence, looting and mayhem that this nation has seen over the last several months has much of its roots in academia, where leftist faculty teach immature young people all"
+publishedDateTime: 2020-10-10T20:00:00Z
+originalUrl: "https://www.victoriaadvocate.com/opinion/syndicated-column-the-fight-for-free-speech/article_ccf9ce20-09ae-11eb-ad49-d79bc4f11557.html"
+webUrl: "https://www.victoriaadvocate.com/opinion/syndicated-column-the-fight-for-free-speech/article_ccf9ce20-09ae-11eb-ad49-d79bc4f11557.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Arkansas Democrat-Gazette
-  domain: arkansasonline.com
+  name: The Victoria Advocate
+  domain: victoriaadvocate.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://media.arkansasonline.com/static/ao_redesign/graphics/adgog.jpg"
-    width: 340
-    height: 246
+  - url: "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/c/cf/ccf9ce20-09ae-11eb-ad49-d79bc4f11557/5aa69fbb7d1d0.preview.jpg?crop=502%2C501%2C24%2C23&resize=502%2C501&order=crop%2Cresize"
+    width: 502
+    height: 501
     isCached: true
 
 related:
@@ -111,21 +111,21 @@ related:
         width: 398
         height: 330
         isCached: true
-  - title: "Syndicated column: The fight for free speech"
-    excerpt: "The violence, looting and mayhem that this nation has seen over the last several months has much of its roots in academia, where leftist faculty teach immature young people all"
-    publishedDateTime: 2020-10-10T20:00:00Z
-    webUrl: "https://www.victoriaadvocate.com/opinion/syndicated-column-the-fight-for-free-speech/article_ccf9ce20-09ae-11eb-ad49-d79bc4f11557.html"
+  - title: "OPINION | WALTER WILLIAMS: The fight for free speech"
+    excerpt: "The violence, looting and mayhem this nation has seen over the last several months has much of its roots in academia, where leftist faculty teach immature young people all manner of nonsense that contradicts common sense and the principles of liberty."
+    publishedDateTime: 2020-10-10T02:09:00Z
+    webUrl: "https://www.arkansasonline.com/news/2020/oct/08/walter-williams-the-fight-for-free-speech/"
     type: article
     provider:
-      name: The Victoria Advocate
-      domain: victoriaadvocate.com
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
     quality: 24
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/c/cf/ccf9ce20-09ae-11eb-ad49-d79bc4f11557/5aa69fbb7d1d0.preview.jpg?crop=502%2C501%2C24%2C23&resize=502%2C501&order=crop%2Cresize"
-        width: 502
-        height: 501
+      - url: "https://media.arkansasonline.com/static/ao_redesign/graphics/adgog.jpg"
+        width: 340
+        height: 246
         isCached: true
 
-secured: "xO3OBM3byE6bckWTbNTq6NV6UeOSFTR4k/qR6qStQyEQuEYXGGpNEcWbPZKPdUNa3ncMP2CfsINEcBdRhELSeaMwA6WLLARHAYW09tLrxmhLoa7uJpAtoCrTz3d5maZN4cB+X8R/yBPNS52bn2JHnyP1BRahC7FALxOT2halLhWzXesQ+VVZ4vOHw7cxizHdxyqu8kO/taDA+alMmS4pJdsOkkoawCUGSQ8hUdQW6P90AYiQgT4uIDILVSWLUHagCFCVK6pfQavDCAS3XRqvBwR2Vbm6sC6y2266x3aNAaWgw+X/idh8v0oZrH9JZyf77rwNMDJ6tbU121geuiOzzGXtJNda9afNgmXqm3zjeS0=;CG8eUAPNwROw3b+E5dki0A=="
+secured: "obOX2sCDVHiiGYbfP9aMkHej9LjkTL6StgOZ3nK7SV1imlpN1XtPQ7GvM0Fr86uxcP644Zyuyfkce02fVvtd5gfnQVglOBvIKCRmHvrZmdtyJrtsTlf6G1nrQWOnFe23erWKyb9j72igz+jYcxXbnVBg+//EXZ/V8c65N+6/863ULZ3hwkawJY4cfu6MQ3W51cbQaX7SFCxWjkv5XHwxIblJRCmNIQMmRPzWOzz6ivz0d4qjDKrpOpxnAElbWNCEEJQSq/0aE8kd9lDBmC0WvSuBnflCk6vyMKcQN/XQTrTVSHbCgIgMJtsKR6mKc4nzS6Y75JbtcLvOWhVKFwgyXi1GrSm6zGQaQVK8I3+NoAk=;WkXMLEc3XcYYpaHHlTYWxQ=="
 ---
 

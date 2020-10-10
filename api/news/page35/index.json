@@ -2,6 +2,56 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-09-10-replicant-raises-27-million-to-propel-its-voice-ai-for-customer-service-phone-calls.md",
+      "title": "Replicant Raises $27 Million To Propel Its Voice AI For Customer Service Phone Calls",
+      "excerpt": "Replicant wants to take talking bots like Siri and Alexa to the next level: the highly conversational field of customer service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kenrickcai/2020/09/10/replicant-series-a-call-center-voice-ai/",
+      "originalUrl": "https://www.forbes.com/sites/kenrickcai/2020/09/10/replicant-series-a-call-center-voice-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f59af3806cd33cc970dc30b%2F0x0.jpg%3FcropX1%3D293%26cropX2%3D2845%26cropY1%3D0%26cropY2%3D1701",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kenrickcai/2020/09/10/replicant-series-a-call-center-voice-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kenrickcai/2020/09/10/replicant-series-a-call-center-voice-ai/amp/",
+      "publishedDateTime": "2020-09-10T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-10-why-cloud-gaming-is-the-future-of-xbox.md",
       "title": "Why cloud gaming is the future of Xbox",
       "excerpt": "Standard gaming consoles cost a few hundred bucks, and while some graphics cards are so powerful they can run full artificial intelligence systems, they are also more expensive than a lot of computers.",
@@ -1122,48 +1172,6 @@
         "Facebook AI",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-portlands-facial-recognition-ban-is-a-major-win-especially-against-amazon.md",
-      "title": "Portland's facial recognition ban is a major win, especially against Amazon",
-      "excerpt": "\"The dangers and inequities in the current technology are present and clear,\" explained Portland Mayor Ted Wheeler.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/portland-bans-facial-recognition-technology/",
-      "originalUrl": "https://mashable.com/article/portland-bans-facial-recognition-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 422,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F09%252F10%252Fa0%252F625cc075eb3d4b72acffa2daaa3fb2de.17453.jpg%252F1200x630.jpg?signature=YwVn_DbOwjdC5xvuZXDlAGIu194=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/portland-bans-facial-recognition-technology.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/portland-bans-facial-recognition-technology.amp",
-      "publishedDateTime": "2020-09-09T18:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

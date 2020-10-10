@@ -2,6 +2,48 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-06-artificial-intelligence-to-empower-agriculture-healthcare-and-education-pm-at-raise-2020.md",
+      "title": "Artificial intelligence to empower agriculture, healthcare and education: PM at RAISE 2020",
+      "excerpt": "Prime Minister Narendra Modi inaugurated RAISE 2020, a mega virtual summit on artificial intelligence, and spoke about how technology can empower sectors",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/artificial-intelligence-empower-agriculture-healthcare-education-pm-raise-2020/",
+      "originalUrl": "https://www.dqindia.com/artificial-intelligence-empower-agriculture-healthcare-education-pm-raise-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2020/04/artificial-intelligence-4625878_640-1.jpg",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/artificial-intelligence-empower-agriculture-healthcare-education-pm-raise-2020/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/artificial-intelligence-empower-agriculture-healthcare-education-pm-raise-2020/amp/",
+      "publishedDateTime": "2020-10-05T22:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-artificial-intelligence-should-not-become-weapon-of-non-state-actors-pm-modi-at-raise-2020.md",
       "title": "Artificial intelligence should not become weapon of non-state actors: PM Modi at RAISE 2020",
       "excerpt": "Inaugurating a five-day global virtual summit on artificial intelligence (AI), Responsible AI for Social Empowerment or RAISE 2020, Prime Minister Narendra Modi highlighted how the use of AI will empower India and also warned against the pitfalls.",
@@ -1121,48 +1163,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-gitai-aims-to-bring-autonomous-robot-workers-to-space.md",
-      "title": "GITAI Aims to Bring Autonomous Robot Workers to Space",
-      "excerpt": "Since its start, GITAI has focused its efforts on various robots ... since with the current technology level of AI, what a robot can do autonomously is very limited. However, in an environment where the latency becomes noticeable, it would become more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20740/GITAI-Aims-to-Bring-Autonomous-Robot-Workers-to-Space.aspx",
-      "originalUrl": "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20740/GITAI-Aims-to-Bring-Autonomous-Robot-Workers-to-Space.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.engineering.com/portals/0/BlogFiles/60_ima1.png",
-          "width": 640,
-          "height": 358,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.engineering.com/amp/20740.html",
-      "cdnAmpWebUrl": "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20740.html",
-      "publishedDateTime": "2020-10-05T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engineering",
-        "domain": "engineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

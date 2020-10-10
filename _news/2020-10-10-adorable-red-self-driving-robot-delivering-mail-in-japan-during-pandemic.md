@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/adorable-red-self-driving-robot
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/adorable-red-self-driving-robot-delivering-mail-in-japan-during-pandemic/"
 type: article
 quality: 105
-heat: 145
+heat: 135
 published: true
 
 provider:
@@ -77,22 +77,6 @@ related:
       - url: "https://physicsworld.com/wp-content/uploads/2020/10/bad-weather-caution-497639283-iStock_trendobjects.jpg"
         width: 1200
         height: 797
-        isCached: true
-  - title: "For third year running, U of T Engineering team wins international self-driving car challenge"
-    excerpt: "A team of students from the University of Toronto has placed first in an intercollegiate challenge to transform an electric car into a self-driving one – the team’s third consecutive win in the"
-    publishedDateTime: 2020-10-06T04:13:00Z
-    webUrl: "https://indiaeducationdiary.in/for-third-year-running-u-of-t-engineering-team-wins-international-self-driving-car-challenge/"
-    ampWebUrl: "https://indiaeducationdiary.in/for-third-year-running-u-of-t-engineering-team-wins-international-self-driving-car-challenge/?amp"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/for-third-year-running-u-of-t-engineering-team-wins-international-self-driving-car-challenge/?amp"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 33
-    images:
-      - url: "https://www.utoronto.ca/sites/default/files/48133558181_a093a44397_o.jpg"
-        width: 1140
-        height: 760
         isCached: true
 
 secured: "HOyghhM6TiXIjzqcLCoui734vCgSQc8o+cGnq1Gld+nk91sDOYpfepkP1eKzh6H/8wbe31q2jcXH5AbGVZ8sl+/rd7BykIskcQeK4A07zrzSLzJ0FYOAQ8oS60QsuEBKavy0B5gdKyzKCoq/urRpvYY65XAftdMFoN6bBEm3IMZw887MnLjVXOMSYbvePq6z2bXOwlhSYNTImoxG5jfPm+xWOlnNNtaV0naZVUcyoRAF23brUXRSbSOuUOit4ZreLC1UGUt4zmofBvivfeCfGrNqAqF4rggwA7imWEjrGtkL7KAlkGw1M7kflQEeOQIFXsPFmal2+c9YS+SeTcwgD3/L+HEplBE2jwDq01qz4h/jr/FbHFs/PXJJSv5wOaTQeoOzspM/lfBn/Nt4aOaK7UG2nzIzT2rUcMMjAT/4RSqT7/l1vCXhxwxESBFePnQpmz0/FRGC06gg9asZJ/B757SobuZCf7uV2bv236/qmxQNarvfs3W1zQlUfeerrq2To2e2joegjPjV6BngoJGMGg==;6/ZArpCysAzO/gwaJyixjQ=="

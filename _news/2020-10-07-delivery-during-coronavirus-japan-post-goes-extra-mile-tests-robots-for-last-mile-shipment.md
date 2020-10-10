@@ -73,22 +73,6 @@ related:
         width: 1200
         height: 797
         isCached: true
-  - title: "For third year running, U of T Engineering team wins international self-driving car challenge"
-    excerpt: "A team of students from the University of Toronto has placed first in an intercollegiate challenge to transform an electric car into a self-driving one – the team’s third consecutive win in the"
-    publishedDateTime: 2020-10-06T04:13:00Z
-    webUrl: "https://indiaeducationdiary.in/for-third-year-running-u-of-t-engineering-team-wins-international-self-driving-car-challenge/"
-    ampWebUrl: "https://indiaeducationdiary.in/for-third-year-running-u-of-t-engineering-team-wins-international-self-driving-car-challenge/?amp"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/for-third-year-running-u-of-t-engineering-team-wins-international-self-driving-car-challenge/?amp"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 33
-    images:
-      - url: "https://www.utoronto.ca/sites/default/files/48133558181_a093a44397_o.jpg"
-        width: 1140
-        height: 760
-        isCached: true
 
 secured: "vQj97qhHoqLui2JbQIqq1VxxraOevDpG3o1X8t1lWzosrvk83pnVgAyP4Z5i6BkUkfrwKgb6S+MkdSBywAMSkmYDMFRBdQXEdGkNVVzpVOen+JN7lYUCpvu3L8HC9JKKEi3UG1TmKB0QaC457GlgT+jOlSAJBy4s912g56NAeLki64y7eHmnK/OQdGDZ9x1gjZIOA4ghsaNVZlrDq6ZnAURZhO+GznU+uSK8b55W1Ydx338lQs2scMuxoKO3I+qE8OxdY7IVz+usxzwhtUIkKk2D/cGequG0ZUahuPZnYAV2qEDJy4BdIT79DNWrjIIaRaIvxVKdZzvboFRaOaZD4pdiCwp9TFum+LRecIv2ubs=;TOxNuYLQ7xCzTIWET0OlpA=="
 ---

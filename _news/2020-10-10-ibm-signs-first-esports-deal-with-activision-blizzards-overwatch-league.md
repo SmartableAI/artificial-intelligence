@@ -124,17 +124,6 @@ related:
         width: 600
         height: 347
         isCached: true
-  - title: "IBM Enters Esports Arena with Activision Blizzard in New Multi-Year Deal as the Presenting Partner of the Overwatch League Grand Finals"
-    excerpt: "Those solutions, which are currently under development, will leverage IBM's suite of analytics tools to process in-match data, adding Watson's AI capabilities through the use of Watson Machine ..."
-    publishedDateTime: 2020-10-09T04:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-1029664318"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-1029664318"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-1029664318"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 22
   - title: "AI Eye Episode 450: IBM (NYSE: $IBM) Brings AI and Cloud Computing to Esports with Overwatch (NasdaqGS: $ATVI) League Deal"
     excerpt: "IBM (NYSE:IBM) and the Overwatch League, a global esports league created by Blizzard Entertainment - a division of Activision Blizzard (NasdaqGS:ATVI) - have announced a multi-year deal to bring IBM's cloud computing and artificial intelligence (AI) technology to esports."
     publishedDateTime: 2020-10-09T17:03:00Z
@@ -148,6 +137,20 @@ related:
       - url: "https://www.investorideas.com/images/AI-Eye.jpg"
         width: 1280
         height: 1206
+        isCached: true
+  - title: "IBM Enters Esports Arena with Activision Blizzard in New Multi-Year Deal as the Presenting Partner of the Overwatch League Grand Finals"
+    excerpt: "IBM's Watson artificial intelligence, and machine learning Through the course of the deal, IBM and the Overwatch League plan to leverage IBM's suite of advanced cloud and AI products. Starting in ..."
+    publishedDateTime: 2020-10-09T04:36:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting/article_e5d1c22b-cc99-5de0-accc-251c39e035e0.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "K0NVCUlmg2NQtwwMMT1mqFjT6JyLqdmDR50SB9VkW7v8iegqc9w9ydEhpD04VNQWq9YFrgcdD+7P1AOvqPeypEh6XJTfbrGWcEC9gIys2TqUMWv/kIXDZlkPLPXlS18kId8HQ53j3XpX98GACaHymX3Sf1GBRCopcxjiLwjhswfkFujQfeoy60P4c8pJjuot2X5qsZO+VpFn1M9c/3LgRfTMB2vLfqIbfzWem3wFT/oi+UYREr5f0vkuX3xtNLljSo8hjg/MlxTccso8p8TgFTG8O8mI46kXLKkMYquq9gNiECocSrRX7shAxtfW/CQ3mNa6PoA9hbClmHu+4ER2SKJFwGM8BCyKS0Y/WNOfbPI=;HVUSGOBAF/f78nQO3bqxUA=="

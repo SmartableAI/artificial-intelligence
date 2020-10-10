@@ -111,6 +111,20 @@ related:
         width: 340
         height: 246
         isCached: true
+  - title: "Syndicated column: The fight for free speech"
+    excerpt: "The violence, looting and mayhem that this nation has seen over the last several months has much of its roots in academia, where leftist faculty teach immature young people all"
+    publishedDateTime: 2020-10-10T20:00:00Z
+    webUrl: "https://www.victoriaadvocate.com/opinion/syndicated-column-the-fight-for-free-speech/article_ccf9ce20-09ae-11eb-ad49-d79bc4f11557.html"
+    type: article
+    provider:
+      name: The Victoria Advocate
+      domain: victoriaadvocate.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/c/cf/ccf9ce20-09ae-11eb-ad49-d79bc4f11557/5aa69fbb7d1d0.preview.jpg?crop=502%2C501%2C24%2C23&resize=502%2C501&order=crop%2Cresize"
+        width: 502
+        height: 501
+        isCached: true
 
 secured: "Zy8JaLI76Q03zod7PyWCY6ZbmMgkj6DcvueqO6Q5XkihSjfu5VY5LEvPStDhTdR0Ub19sL23KwqaXDcxsfJZZtse3obOpNkIncgpHVJ+ctbuG3aYw0SJx2LqRIWHYkyttA0AGdc5vqaGpcSHnztN+mYBBEsFxGyGvu4hq1H2yB81JuYx29JhuFA8HWqnK24UQFksi5YE2lk+wArkFY22B+HmYQgBLbX6smW1vauIopxPZHlhfW0lbHXxq2kt7aCC0J6EwdzD1MpmuUBA8nkhR0dJhLH7si5/mJt0NnGH/lMosBIjerOhKP046yPENWZU+Ikg0RvrDDTFhWbc4ZvZt3Rv/dHCGhP5Hs+tZNCn/lkGT13WiG8cPtPYzpipyZUDKwn8h+M2snpHDxpNAKbJ5I1hN6yXHSV4VDlICcUj9Gj0Uyw0laraVAm2MSGT8xvX2L1j1gaFNdX/CMJZCH1CoW953EAxvwIpkThNdPjb8ZWf5DWSfNBFyux/z6MQDKdtfySg3o8GyzrUVa9AxCzrLA==;5hqlbiASm/VXnDpCU2dFAA=="
 ---
