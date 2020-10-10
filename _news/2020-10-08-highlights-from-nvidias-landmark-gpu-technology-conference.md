@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/innovation/highlights-from-nvidia-s-landmark
 webUrl: "https://www.eweek.com/innovation/highlights-from-nvidia-s-landmark-gpu-technology-conference"
 type: article
 quality: 69
-heat: 109
+heat: 89
 published: true
 
 provider:
@@ -29,28 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "OSS Presents AI on the Fly® and Data Center in the Sky™ Solutions at NVIDIA’s GPU Technology Conference This Week"
-    excerpt: "One Stop Systems, Inc., a leader in specialized high-performance edge computing, presented its AI on the Fly ® and Data Center in the Sky™ products and solutions at this week’ s GPU Technology Conference,"
-    publishedDateTime: 2020-10-06T13:31:00Z
-    webUrl: "https://www.nasdaq.com/press-release/oss-presents-ai-on-the-flyr-and-data-center-in-the-skytm-solutions-at-nvidias-gpu"
+  - title: "Aitech’s C530 Meets Growing Market Demand for NVIDIA GPU-accelerated Compute in AI Applications"
+    excerpt: "C530 Technical Highlights NVIDIA Turing with RTX 3000 or T1000 GPU options Rugged, SWaP-optimized 3U VPX GPGPU 16 lanes of high-throughput Gen 3 PCIe; four independent video outputs Exceptional"
+    publishedDateTime: 2020-10-08T16:23:00Z
+    webUrl: "https://www.eejournal.com/industry_news/aitechs-c530-meets-growing-market-demand-for-nvidia-gpu-accelerated-compute-in-ai-applications/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 43
-  - title: "OSS Presents AI on the Fly® and Data Center in the Sky™ Solutions at NVIDIA’s GPU Technology ..."
-    excerpt: "(Nasdaq: OSS), a leader in specialized high-performance edge computing, presented its AI on the Fly® and Data Center in the Sky™ products and solutions at this week’s GPU Technology Conference, a digital event hosted by NVIDIA,"
-    publishedDateTime: 2020-10-06T12:31:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-automobile-parts-manufacturing-f63b0e97cfdbbc2bbef4a46b6f4ebd0b"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 41
+      name: Electronic Engineering Journal
+      domain: eejournal.com
+    quality: 42
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png"
+        width: 512
+        height: 512
         isCached: true
   - title: "Nvidia GPU Tech Conference wrap: What the sell side has to say"
     excerpt: "The pace of innovation at Nvidia (NASDAQ:NVDA) is accelerating and \"execution is going into overdrive,\" says BMO Capital, hiking its price target on Nvidia to $650 from $565, suggesting about another 20% upside in the shares."
@@ -61,15 +52,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 19
-  - title: "OSS Presents AI on the Fly® and Data Center in the Sky(TM) Solutions at NVIDIA's GPU Technology Conference This Week"
-    excerpt: "(Nasdaq: OSS), a leader in specialized high-performance edge computing, presented its AI on the Fly ® and Data Center in the Sky™ products and solutions at this week’s GPU Technology Conference, a digital event hosted by NVIDIA,"
-    publishedDateTime: 2020-10-06T12:54:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2020/10/06/oss-presents-ai-on-the-fly-xae-and-data-center-in-the-sky-tm-solutions-at"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 11
 
 secured: "k7pF2kNP582TQ5EySvSrSHTDRoyCOMGhAROicftodgIOE2/eEp8fYGhoqyz98zwWtvFCS9olkK7pylok9RMKkcEHok42owX/JsWoCeof0y9A0ZBZwLQctcAcGfqmrQ3qqis4DG2PJqRZAnji9qVlNxO2mf6IoHzC3BGw0Mmks/RjgVG6w/gwT7J8xdsu7QxOlhbW3CDYfZB6D05pc66BsDPzLk1DyX8+LDFTclfLlmhacUkM3THSEp0/cQFxVTDryI6pk0OCFiLjsrBqAQ4J/nem4T2yIhUzN3FnKqDTtXIaZXMvQf6NoKJFGnVfRKxWJakDzzsDJ/kr2UWsRARrj9pd3N3Gxs46UA4vUVsWaH+UnWLqWhDOsS1AMFJ2Pl1++mtWI6wM/mhuRMDwCMv/JC7mDjG6DXzZQo52apsorK6CKDgT1gyUB5K1Phrz81cmMRNtjhqIghMztL9tP0wu6S121lrlQwdpMHlriWTFNTxrJzxYx7uG5yvHFY4L5HARArmI/pNcZRtqaxSL30pb1A==;teKdfcOf4Lw3t3IVok5P2Q=="
 ---

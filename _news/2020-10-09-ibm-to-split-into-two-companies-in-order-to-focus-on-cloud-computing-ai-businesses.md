@@ -56,6 +56,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "IBM is breaking up into two companies, renewed focus on AI and the cloud"
+    excerpt: "IBM has announced that it will be splitting the company into two in order to increase its revenue margins. According to a statement issued by CEO"
+    publishedDateTime: 2020-10-10T11:31:00Z
+    webUrl: "https://www.techspot.com/news/87053-ibm-set-launch-new-cloud-computing-company-end.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/87053-ibm-set-launch-new-cloud-computing-company-end.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87053-ibm-set-launch-new-cloud-computing-company-end.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 86
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/10/2020-10-09-image-29.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "IBM spinning off legacy IT business to step up cloud competition with Amazon, Microsoft"
     excerpt: "In IBM chief executive officer Arvind Krishna’s first big move, he is spinning off a slower-growth business that manages corporate computer systems so the tech giant can focus on the boom in demand for cloud services and step up competition with Amazon and Microsoft."
     publishedDateTime: 2020-10-09T06:44:00Z

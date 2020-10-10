@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsx.com/amp/national/artificial-intelligence-should-no
 cdnAmpWebUrl: "https://www-newsx-com.cdn.ampproject.org/c/s/www.newsx.com/amp/national/artificial-intelligence-should-not-become-weapon-of-non-state-actors-pm-modi-at-raise-2020.html"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://www.sahilonline.net/uploads/2020/October-6/modi3_640x480.jpg"
         width: 640
         height: 480
-        isCached: true
-  - title: "India to become global hub for Artificial Intelligence: PM Modi at RAISE 2020 virtual summit"
-    excerpt: "Prime Minister Narendra Modi inaugurated RAISE 2020, a Mega Virtual Summit on Artificial Intelligence (AI) on Monday."
-    publishedDateTime: 2020-10-05T17:56:00Z
-    webUrl: "https://www.indiablooms.com/news-details/N/65549/india-to-become-global-hub-for-artificial-intelligence-pm-modi-at-raise-2020-virtual-summit.html"
-    type: article
-    provider:
-      name: India Blooms
-      domain: indiablooms.com
-    quality: 43
-    images:
-      - url: "https://www.indiablooms.com/news_pic/2020/a1b08b0ac648b9feb4c8b943f64bca38.jpg"
-        width: 770
-        height: 413
         isCached: true
 
 secured: "rjzEbeMGfnRxd8f1KmuKgVq3rqdbcjzHYekXLG3FEK6hMRSwC/fMFwc75Yvx0v4qRII3C0/gwxG2QmLTM+9V3L9rDq5Mwd4UkZE5lY4QlHq6ZdZMBXNFPuanQUFoJJdNqDA/4ULJdQnN5RVhNLOtj9jYer84zgZgbo6LqfEqOHTTaCBfZtYJhCJD8vXkaIvDP8M6ZbVNXjwjmyZXb1B/yXAuD7LNFBX4HP3elnTVTmedQB1XE977EsPung4h6q8N7HvxFmxVNhJgrIoI0h/dQHyLf50XntuBvTRNLelXwlIMkxQrzIumDmlUkSwJZEyFxyDdu2edT59ZOsYacWAIZKTn52Z+dypWK/JU3cV+qEJTOeUL/sGvcns3V/DaMax22i56jMcPWs6nLUAauIIzV90lKhIeJ5Os/K93B8l84GWb7Mihi1LPJj0VzowEPqWS8n5oGGUYhVWPzKH60qlGJp5Si9jYkS9mISPgqDde/ybu2H4+xSLHxCpmtehMzvv8jpd9hEr7jcawk+0gVe4DMg==;XBMj9W76zwAPBsuQhQdSQw=="

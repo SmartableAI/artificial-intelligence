@@ -7,7 +7,7 @@ originalUrl: "https://www.dcvelocity.com/articles/47362-seeq-expands-aws-cloud-s
 webUrl: "https://www.dcvelocity.com/articles/47362-seeq-expands-aws-cloud-services-support-to-encompass-amazon-timestream"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 600
     height: 298
     isCached: true
-
-related:
-  - title: "AWS Launches Amazon Timestream for IoT Applications"
-    excerpt: "Amazon Web Services (AWS) is releasing Amazon Timestream, a new time series database for IoT and operational applications that can scale to process trillions of time series events per day. According to AWS,"
-    publishedDateTime: 2020-10-05T18:18:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/AWS-Launches-Amazon-Timestream-for-IoT-Applications-143199.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 39
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "/U7xT+unKgzzw6cL6TgPSIB0fp9zRCuX6Vt7BgalVWVJvGI9mqIfrSL6eD+taHwvv9GGSJ8mbhijF70Cg0j40BxmNu+AtXasX2Je8PzXqiYGBkt5gUre63ZM6V7zkxgFHwE27vtDkz8ZgvtXk0SOkHA9exroZsmhS63o45w11bJtOo6zgwE0WPAFtqUg93HK1c37lMcubCJEcMM8v9CVvL/mWVEIKlY3ZJaaiIKMRFw7RMGg8Le9MB+kHLjJf3YnrbxrQkqKsSFmBE8b4btSr/K50Po/OgyKBsKFcvrqhmKFt1HYvTKMuAxAtxRfB1/bTYYBiVZDb0TrXwxF38w/kvdcWoncozKQGDteOG0d+Hk=;7XWj7vsPaS55Utr/CUv7aQ=="
 ---

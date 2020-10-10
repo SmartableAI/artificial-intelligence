@@ -27,17 +27,17 @@ images:
 related:
   - title: "Facebook can’t catch misinformation it’s already identified as false, activist group says"
     excerpt: "With less than four weeks to go before a pivotal US election, Facebook has sought to reassure the public it has learned from its 2016 mistakes. On Wednesday, the company rolled out a new policy against voter intimidation and announced it will temporarily suspend political ads after polls close on Election Day."
-    publishedDateTime: 2020-10-09T10:36:00Z
-    webUrl: "https://keyt.com/news/money-and-business/2020/10/09/facebook-cant-catch-misinformation-its-already-identified-as-false-activist-group-says/"
+    publishedDateTime: 2020-10-09T16:21:00Z
+    webUrl: "https://krdo.com/money/2020/10/09/facebook-cant-catch-misinformation-its-already-identified-as-false-activist-group-says/"
     type: article
     provider:
-      name: KEYT
-      domain: keyt.com
+      name: KRDO
+      domain: krdo.com
     quality: 15
     images:
-      - url: "https://keyt.b-cdn.net/2020/03/keyt-biz-and-tech.png"
-        width: 1024
-        height: 576
+      - url: "https://krdo.b-cdn.net/2020/10/hypatia-h_e7760f18a55c47e96f3cf28dd733f1dd-h_d607d081f29fc54810d6e2ecf3a4c1f2_preview.jpg"
+        width: 500
+        height: 333
         isCached: true
 
 secured: "DuOFCayNb60Eh+5RCCifYXFvT3BCLU37Y/nu51qDxLb2YD6vexURRLexk/kFViij/d3RjbP+jh7QOpLrT4CrlzDS97cA/lYH4kzlMgFPNZU7Z7WFRtkzhiUm9hR+wQyW4qhHpoIRd8aZhCXIDTcR8SSCqITWBb6aw5SFis+SPWGoDyXp2dDUXbp/xWbQNdD3GBjLlRfQB0jRwYJflQoFAWsEgR7ZFhVqwkVrG5YaT2UDE8zIbPA1gtxB0KKOZAQ84u0NFEGjF9GFZ2oyLPg5kjOT8Nwhr+v9TdvXA/D84ILAwbtGiBdtzr0xYEsR4KtB+JhRaGNNFf9xOh8MirC6HD0+rMZ1N2+kOo0IL4qZ0X82TgXzMMh7gHYqJdWoF4wIoeIcAmYWqWdZBAlryvd/sjsqjFvE3r0SKDAZxfSRfdV3mKCKxqzRN1zktUIv/6Lg0U3dkEdm/pGrxi3VKf01bvHAxAufO0Hw3eF2ZDtGe9nkiCo8/2BQhifIIDOFirH+ebHm2w366Czv3hLBQDcwFg==;AsIPRwhLhdZ6DTZ78dR7pA=="

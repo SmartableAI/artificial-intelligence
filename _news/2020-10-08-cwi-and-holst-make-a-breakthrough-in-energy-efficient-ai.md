@@ -24,17 +24,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "Breakthrough in energy efficient artificial intelligence"
-    excerpt: "Thanks to a mathematical breakthrough, AI applications can become a hundred to a thousand times more energy efficient. This will make it possible to put much more elaborate AI in chips, enabling applications to run on a smartphone or smartwatch where before this was done in the cloud."
-    publishedDateTime: 2020-10-08T06:34:00Z
-    webUrl: "https://www.cwi.nl/news/2020/scientific-breakthrough-in-energy-efficient-ai"
-    type: article
-    provider:
-      name: CWI
-      domain: www.cwi.nl
-    quality: 19
-
 secured: "zTkdlIARclLvlPyBnZu4Umq6P15eW5C7snkt0+/0qwkIF49MGmGllhT5mV0YawE9Pc9ujJzrRRXRzZ0fzKwRIS7FlYKC94XcdeWIytq8qbDIeJhgK4FDOmYSnBl8B5CzSF+J8BvVF03CiH7qLRmK1l9u8xCPN5cNx3Y/RmD6AZqLXXplN3Wksd1lDquhtNdbjcAklKZLYjPabTFO2Pv+etKbwAD7bsfTcxiCEIjeTDDtYgZuapiHffq6OoYwYDxVUHMuB2kICuInDRLQuPNkT0gRB10NieZKV57XL/TAW66jqhJfd6Pxmd0CEkGDUXnOik1Y0/4QGebW4I6s99YeyCeQQRe8h5YQZGBdjFIbUQc=;Xwdt0IdgJAWiZo3YEl9vCw=="
 ---
 

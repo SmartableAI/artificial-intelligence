@@ -7,7 +7,7 @@ originalUrl: "https://www.devex.com/news/inside-germany-s-drive-to-democratize-a
 webUrl: "https://www.devex.com/news/inside-germany-s-drive-to-democratize-ai-98254"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 800
     height: 450
     isCached: true
-
-related:
-  - title: "Most German companies want artificial intelligence regulated: study"
-    excerpt: "Ninety percent of German companies want artificial intelligence (AI) regulated to clarify questions of liability, according to a study published by the German Association of Technical Inspection Agencies (VdTUEV) on Monday."
-    publishedDateTime: 2020-10-05T18:00:00Z
-    webUrl: "https://www.thestar.com.my/news/world/2020/10/05/most-german-companies-want-artificial-intelligence-regulated-study"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "RSFG1rvaBPF5sWPnkBVKgcvR80RauoRmHEZWeSk1CXqfsz/vr5uEMXnq1L65AG9VJYol3W6mK0Wmgpofz2fDBvYd/epNqkDNLSPcQaveKKLnMyt9vjhAOlYEnCeyw9UxRROOlOb6bq13cY7AsdWsljbrk80uTMFVkt0d2uU9PWcz4F4ahO3nHlSTp4cEVS8TAInWdqIcJFq+g4KJT+BhYBxzAm+7fRs+JgCqLTJDAQ51+BX8HiTobzNBlRfR2Ey9HI36xy0yYj9veFuVTHNOX8a4GbiXgzSOZVaT+0aEzhie2eOJp/Qbm8+I4/8ELXgedaQyayh/SOgUUV1Defl8wUk/8QzXxoGJ0kqxXWoe9xU=;XaevW7PHLyO+7KVylZP+yQ=="
 ---

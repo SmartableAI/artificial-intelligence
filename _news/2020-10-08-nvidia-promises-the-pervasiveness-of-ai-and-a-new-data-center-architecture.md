@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2020/10/07/nvidia-promis
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/10/07/nvidia-promises-the-pervasiveness-of-ai-and-a-new-data-center-architecture/amp/"
 type: article
 quality: 91
-heat: -1
-published: false
+heat: 221
+published: true
 
 provider:
   name: Forbes
@@ -33,53 +33,51 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA Is Building an AI Supercomputer for Healthcare Research in England"
-    excerpt: "Dubbed Cambridge-1, the system will give healthcare researchers access to impressive artificial intelligence (AI) tools. The $52 million Cambridge-1 will be installed at the university it's named after, and is scheduled to come online by the end of 2020."
-    publishedDateTime: 2020-10-05T17:52:00Z
-    webUrl: "https://www.fool.com/investing/2020/10/05/nvidia-is-building-an-ai-supercomputer-for-healthc/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/10/05/nvidia-is-building-an-ai-supercomputer-for-healthc/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/05/nvidia-is-building-an-ai-supercomputer-for-healthc/"
+  - title: "Nvidia's new video conferencing platform matches Google and Microsoft on AI"
+    excerpt: "Nvidia's new video conferencing platform will help smaller competitors match the AI functionality of Microsoft Teams and Google Meet."
+    publishedDateTime: 2020-10-07T07:04:00Z
+    webUrl: "https://www.businessinsider.com/nvidia-video-conferencing-platform-matches-google-microsoft-on-ai-2020-10"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 105
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
     images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F594100%2Fmedicine-ai-hands.jpg&w=1200&op=resize"
+      - url: "https://i.insider.com/5f7c775b282c500018c78c79?width=1200&format=jpeg"
         width: 1200
-        height: 800
+        height: 600
         isCached: true
-  - title: "Nvidia is building the UK’s fastest supercomputer to use for AI research in healthcare"
-    excerpt: "Nvidia says the Cambridge-1 will deliver 400 petaflops of AI performance, making it one of the world's most powerful supercomputers."
-    publishedDateTime: 2020-10-05T18:05:00Z
-    webUrl: "https://thenextweb.com/neural/2020/10/05/nvidia-is-building-the-uks-fastest-supercomputer-to-use-for-ai-research-in-healthcare/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/10/05/nvidia-is-building-the-uks-fastest-supercomputer-to-use-for-ai-research-in-healthcare/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/05/nvidia-is-building-the-uks-fastest-supercomputer-to-use-for-ai-research-in-healthcare/amp/"
+  - title: "Arm CEO Simon Segars discusses AI, data centers, getting acquired by Nvidia and more"
+    excerpt: "Nvidia is in the process of acquiring chip designer Arm for $40 billion. Coincidentally, both companies are also holding their respective developer conferences this week. After he finished his keynote at the Arm DevSummit,"
+    publishedDateTime: 2020-10-06T23:39:00Z
+    webUrl: "https://techcrunch.com/2020/10/06/arm-ceo-simon-segars-discusses-ai-data-centers-getting-acquired-by-nvidia-and-more/"
+    ampWebUrl: "https://techcrunch.com/2020/10/06/arm-ceo-simon-segars-discusses-ai-data-centers-getting-acquired-by-nvidia-and-more/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/06/arm-ceo-simon-segars-discusses-ai-data-centers-getting-acquired-by-nvidia-and-more/amp/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 98
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 82
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-05T160237.451-796x417.png"
-        width: 796
-        height: 417
+      - url: "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-924830546.jpg?w=1024"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Nvidia uses AI to make video calls way better"
-    excerpt: "The cloud-native platform — named Nvidia Maxine — also offers AI effects including gaze correction, super-resolution, noise cancellation, and face relighting. The system slashes the bandwidth ..."
-    publishedDateTime: 2020-10-05T17:44:00Z
-    webUrl: "https://thenextweb.com/neural/2020/10/05/nvidia-uses-ai-to-make-video-calls-way-better/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/10/05/nvidia-uses-ai-to-make-video-calls-way-better/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/05/nvidia-uses-ai-to-make-video-calls-way-better/amp/"
+  - title: "NVIDIA GTC Presentation On Trends For 2021 Showed They See More Business Artificial Intelligence Moving To Production"
+    excerpt: "While the message of the technical folks might still be a bit too focused on training, this presentation mentioned runtime more than I’ve previously heard. The industry application of AI is still relatively new,"
+    publishedDateTime: 2020-10-08T15:05:00Z
+    webUrl: "https://www.forbes.com/sites/davidteich/2020/10/08/nvidia-gtc-presentation-on-trends-for-2021-showed-they-see-more-business-artificial-intelligence-moving-to-production/"
+    ampWebUrl: "https://www.forbes.com/sites/davidteich/2020/10/08/nvidia-gtc-presentation-on-trends-for-2021-showed-they-see-more-business-artificial-intelligence-moving-to-production/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/10/08/nvidia-gtc-presentation-on-trends-for-2021-showed-they-see-more-business-artificial-intelligence-moving-to-production/amp/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 64
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-05T171624.602-796x417.png"
-        width: 796
-        height: 417
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg"
+        width: 876
+        height: 548
         isCached: true
   - title: "NVIDIA flexes its edge, AI muscles"
     excerpt: "NVIDIA is becoming more influentialUnveils broad range of new products and initiativesStrengthens its support for Arm, which it plans to buy for $40 billion"
@@ -113,22 +111,6 @@ related:
         width: 1200
         height: 678
         isCached: true
-  - title: "NVIDIA To Develop 400 Petaflop DGX A100 Supercomputer For UK AI Research"
-    excerpt: "The Cambridge-1 supercomputer will be an NVIDIA DGX SuperPOD supercomputer with over 400 petaflops of AI performance and eight petaflops of Linpack performance"
-    publishedDateTime: 2020-10-05T18:24:00Z
-    webUrl: "https://hothardware.com/news/nvidia-ai-supercomputer-cambridge-1"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-ai-supercomputer-cambridge-1"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-ai-supercomputer-cambridge-1"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 58
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/53044/content/nvidia-datacenter-hero.jpg"
-        width: 708
-        height: 398
-        isCached: true
   - title: "NVIDIA’s AI-Based Video Compression Reduces Bandwidth to One-Tenth of H.264"
     excerpt: "NVIDIA Maxine provides cloud-based suite of GPU-accelerated AI video conferencing software to enhance streaming video."
     publishedDateTime: 2020-10-08T13:42:00Z
@@ -145,6 +127,20 @@ related:
         width: 725
         height: 408
         isCached: true
+  - title: "Nvidia outlines 'Age of AI', unveils next-gen data centre chips"
+    excerpt: "Heralding a new age of artificial intelligence (AI), graphics giant Nvidia has introduced next-gen chips for networking, storage and security, along with major announcements in data centres, edge AI,"
+    publishedDateTime: 2020-10-06T07:38:00Z
+    webUrl: "https://www.sify.com/news/nvidia-outlines-age-of-ai-unveils-next-gen-data-centre-chips-news-education-ukgflBgbhfjfg.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 56
+    images:
+      - url: "https://www.sify.com/uploads/nvidia_chip_bluefield2_uj4rUTiabbhch.jpeg"
+        width: 690
+        height: 460
+        isCached: true
   - title: "NVIDIA Rethinks AI: Next Gen Data Centers, Supercomputers For Healthcare & More at GTC Day 1"
     excerpt: "NVIDIA is launching Jetson Nano 2GB, the latest addition to the Jetson family. Jetson is an Arm-based System on Chip"
     publishedDateTime: 2020-10-06T13:38:00Z
@@ -159,33 +155,28 @@ related:
         width: 1601
         height: 1201
         isCached: true
-  - title: "Nvidia Says It’s Building UK’s Most Powerful Supercomputer, Targeting AI Research in Healthcare"
-    excerpt: "Today at Nvidia’s virtual GTC event, the company announced what it said will be the United Kingdom’s most powerful supercomputer, to be made available by the end of this year to UK healthcare researchers using AI to solve medical challenges,"
-    publishedDateTime: 2020-10-07T22:16:00Z
-    webUrl: "https://insidehpc.com/2020/10/nvidia-says-its-building-uks-most-powerful-supercomputer-dedicated-to-ai-research-in-healthcare/"
+  - title: "OSS Presents AI on the Fly® and Data Center in the Sky™ Solutions at NVIDIA’s GPU Technology Conference This Week"
+    excerpt: "One Stop Systems, Inc., a leader in specialized high-performance edge computing, presented its AI on the Fly ® and Data Center in the Sky™ products and solutions at this week’ s GPU Technology Conference,"
+    publishedDateTime: 2020-10-06T13:31:00Z
+    webUrl: "https://www.nasdaq.com/press-release/oss-presents-ai-on-the-flyr-and-data-center-in-the-skytm-solutions-at-nvidias-gpu"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 44
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2017/12/NVIDIA.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Aitech’s C530 Meets Growing Market Demand for NVIDIA GPU-accelerated Compute in AI Applications"
-    excerpt: "C530 Technical Highlights NVIDIA Turing with RTX 3000 or T1000 GPU options Rugged, SWaP-optimized 3U VPX GPGPU 16 lanes of high-throughput Gen 3 PCIe; four independent video outputs Exceptional"
-    publishedDateTime: 2020-10-08T16:23:00Z
-    webUrl: "https://www.eejournal.com/industry_news/aitechs-c530-meets-growing-market-demand-for-nvidia-gpu-accelerated-compute-in-ai-applications/"
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 43
+  - title: "OSS Presents AI on the Fly® and Data Center in the Sky™ Solutions at NVIDIA’s GPU Technology ..."
+    excerpt: "(Nasdaq: OSS), a leader in specialized high-performance edge computing, presented its AI on the Fly® and Data Center in the Sky™ products and solutions at this week’s GPU Technology Conference, a digital event hosted by NVIDIA,"
+    publishedDateTime: 2020-10-06T12:31:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-automobile-parts-manufacturing-f63b0e97cfdbbc2bbef4a46b6f4ebd0b"
     type: article
     provider:
-      name: Electronic Engineering Journal
-      domain: eejournal.com
-    quality: 42
+      name: Associated Press
+      domain: apnews.com
+    quality: 41
     images:
-      - url: "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png"
-        width: 512
-        height: 512
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Nvidia Opens GTC with Plans for AI Supercomputer for Biomedical Research"
     excerpt: "Given the COVID-19 pandemic, Nvidia’s announcement of plans to build a new AI supercomputer – Cambridge-1 – dedicated to biomedical research and"
@@ -215,36 +206,15 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "With SuperPod, Nvidia makes supercomputing a bigger focus of its AI strategy"
-    excerpt: "Nvidia Corp. opened its virtual GPU Technology Conference today by introducing a host of new artificial intelligence technologies, including an infrastructure offering that will a"
-    publishedDateTime: 2020-10-05T21:29:00Z
-    webUrl: "https://siliconangle.com/2020/10/05/superpod-nvidia-makes-supercomputing-bigger-focus-ai-strategy/"
+  - title: "OSS Presents AI on the Fly® and Data Center in the Sky(TM) Solutions at NVIDIA's GPU Technology Conference This Week"
+    excerpt: "(Nasdaq: OSS), a leader in specialized high-performance edge computing, presented its AI on the Fly ® and Data Center in the Sky™ products and solutions at this week’s GPU Technology Conference, a digital event hosted by NVIDIA,"
+    publishedDateTime: 2020-10-06T12:54:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2020/10/06/oss-presents-ai-on-the-fly-xae-and-data-center-in-the-sky-tm-solutions-at"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/nvidia.png"
-        width: 800
-        height: 425
-        isCached: true
-  - title: "Case Western Reserve University lab and partners using Artificial Intelligence to improve heart transplant outcomes"
-    excerpt: "CLEVELAND — New Artificial Intelligence is being developed to increase success rates in heart transplant patients. And Cleveland is at the center of the research. Bioengineer and scientist Anant Madabhushi, along with a team of biomedical researchers out ..."
-    publishedDateTime: 2020-10-05T19:45:00Z
-    webUrl: "https://www.wkyc.com/article/news/local/cleveland/case-western-reserve-lab-and-partners-using-artificial-intelligence-to-improve-heart-transplant-outcomes/95-93cd5acf-49fa-4734-8849-9582c763d568"
-    ampWebUrl: "https://www.wkyc.com/amp/article/news/local/cleveland/case-western-reserve-lab-and-partners-using-artificial-intelligence-to-improve-heart-transplant-outcomes/95-93cd5acf-49fa-4734-8849-9582c763d568"
-    cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/local/cleveland/case-western-reserve-lab-and-partners-using-artificial-intelligence-to-improve-heart-transplant-outcomes/95-93cd5acf-49fa-4734-8849-9582c763d568"
-    type: article
-    provider:
-      name: WKYC3
-      domain: wkyc.com
-    quality: 35
-    images:
-      - url: "https://media.wkyc.com/assets/WKYC/images/281b4c02-2bf3-4e06-9106-e0dc9bf762f2/281b4c02-2bf3-4e06-9106-e0dc9bf762f2_750x422.png"
-        width: 750
-        height: 422
-        isCached: true
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 11
 
 secured: "1bwkQ92LNTCxLoYnSLEYoWYB3BFW0je4DyhBRqjcejGElZkOpVz+9nteDHofUK4tGubkAQs7qMLwl+OoP0E/Du2ZaSP7dHl1RpWueBU/eWtKF0HqtnkzY3ugjg41Kvq3+QNfn8otigqRJ3dzU6Kdvz3S3H3MSyxWyfJVtKig7zAW8+LUzQrldOJTXls349IvxE2YNHz+9itbe4YqPJZ21yD+AFPkm3GiXEWhFCc5Nooi7XUQLhOKHrlrZp0+NJcFmkogELOv8ZV1qElg/7vymBfTDDCBBtse7Tkf3MD9NtJnFZGn9LjDkCl9pkW0nsWNviDr9zQRovlrE0gipQ5eeiiS4soUv8RJYk+fughZIfmTsTpKUxxV+E8+2n/h8+VT/4x6ifWHKbzvohatDC1oiHSyOgDu0xTgfvLOgommBeeP4gX92R3Ot5fdc+rlKSCiYLB6CxCSieQHpRffvhk1iDLZjKyfZHEU274JOKlV4hXnOGHIrjvdhdPtWM7j/1xks7ZVyuRoT9Br8Q8gkB24lQ==;oXupt0vSXvmNVW9iixyUow=="
 ---

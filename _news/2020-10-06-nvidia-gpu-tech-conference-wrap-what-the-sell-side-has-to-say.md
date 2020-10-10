@@ -33,38 +33,20 @@ related:
         width: 560
         height: 300
         isCached: true
-  - title: "OSS Presents AI on the Fly® and Data Center in the Sky™ Solutions at NVIDIA’s GPU Technology Conference This Week"
-    excerpt: "One Stop Systems, Inc., a leader in specialized high-performance edge computing, presented its AI on the Fly ® and Data Center in the Sky™ products and solutions at this week’ s GPU Technology Conference,"
-    publishedDateTime: 2020-10-06T13:31:00Z
-    webUrl: "https://www.nasdaq.com/press-release/oss-presents-ai-on-the-flyr-and-data-center-in-the-skytm-solutions-at-nvidias-gpu"
+  - title: "Aitech’s C530 Meets Growing Market Demand for NVIDIA GPU-accelerated Compute in AI Applications"
+    excerpt: "C530 Technical Highlights NVIDIA Turing with RTX 3000 or T1000 GPU options Rugged, SWaP-optimized 3U VPX GPGPU 16 lanes of high-throughput Gen 3 PCIe; four independent video outputs Exceptional"
+    publishedDateTime: 2020-10-08T16:23:00Z
+    webUrl: "https://www.eejournal.com/industry_news/aitechs-c530-meets-growing-market-demand-for-nvidia-gpu-accelerated-compute-in-ai-applications/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 43
-  - title: "OSS Presents AI on the Fly® and Data Center in the Sky™ Solutions at NVIDIA’s GPU Technology ..."
-    excerpt: "(Nasdaq: OSS), a leader in specialized high-performance edge computing, presented its AI on the Fly® and Data Center in the Sky™ products and solutions at this week’s GPU Technology Conference, a digital event hosted by NVIDIA,"
-    publishedDateTime: 2020-10-06T12:31:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-automobile-parts-manufacturing-f63b0e97cfdbbc2bbef4a46b6f4ebd0b"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 41
+      name: Electronic Engineering Journal
+      domain: eejournal.com
+    quality: 42
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png"
+        width: 512
+        height: 512
         isCached: true
-  - title: "OSS Presents AI on the Fly® and Data Center in the Sky(TM) Solutions at NVIDIA's GPU Technology Conference This Week"
-    excerpt: "(Nasdaq: OSS), a leader in specialized high-performance edge computing, presented its AI on the Fly ® and Data Center in the Sky™ products and solutions at this week’s GPU Technology Conference, a digital event hosted by NVIDIA,"
-    publishedDateTime: 2020-10-06T12:54:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2020/10/06/oss-presents-ai-on-the-fly-xae-and-data-center-in-the-sky-tm-solutions-at"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 11
 
 secured: "OQl9u4FuI/J83A4obXpRzV+IH+O+y8Yy25e+/0BwKmhiIAI7e0Jl2mFeM4+bBR/4RqgogX2P3blFPJOdZLlFFAS7spMb7NBuvVf7C5L2b7CqFZ8curiao1F8UrKLmsnpkT+B9vfZWZJhsZiFmU5p91iCMWUieWFe39ppCNNPcYR6zykCVzRqHSowm4o3YDXitKTx2VHqNhIuovziqsUAHXHzQAdnkNm3hLJtJwc+JJy3Msa1yRSwFbZdUoE+Mx9BUY25FF1gNJ5UHhVsZNfAduCQliPZGwITVP2lRU6uR5HrQ1bEoUCxz7J9JernBPgaeUT+jA7avv+9GZxOrACPWTEBzolwzdOpgCEzYQd1bMc=;h0v4dgnclnMYwNAPz6abgQ=="
 ---
