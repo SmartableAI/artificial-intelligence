@@ -2,6 +2,107 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-06-helsinki-rides-the-slush-wave-toward-a-booming-startup-future.md",
+      "title": "Helsinki rides the Slush wave toward a booming startup future",
+      "excerpt": "Helsinki’s City Council approved plans for an expansion of the existing “Maria 01 Campus,” a former downtown hospital complex. Even before it starts spreading its acreage, the facility is already home to 120 startups and 12 venture capital funds.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/06/helsinki-rides-the-slush-wave-toward-a-booming-startup-future/",
+      "originalUrl": "https://techcrunch.com/2020/10/06/helsinki-rides-the-slush-wave-toward-a-booming-startup-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-841887872.jpg?w=1000",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/06/helsinki-rides-the-slush-wave-toward-a-booming-startup-future/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/06/helsinki-rides-the-slush-wave-toward-a-booming-startup-future/amp/",
+      "publishedDateTime": "2020-10-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-collaborating-with-ai-to-create-bach-like-compositions-in-aws-deepcomposer.md",
+      "title": "Collaborating with AI to create Bach-like compositions in AWS DeepComposer",
+      "excerpt": "AWS DeepComposer provides a creative and hands-on experience for learning generative AI and machine learning (ML). We recently launched the Edit melody feature, which allows you to add, remove, or edit specific notes, giving you full control of the pitch, length, and timing for each note. In this post,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/collaborating-with-ai-to-create-bach-like-compositions-in-aws-deepcomposer/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/collaborating-with-ai-to-create-bach-like-compositions-in-aws-deepcomposer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/02/3-.jpg",
+          "width": 900,
+          "height": 546,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-05T15:27:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-evaluating-an-automatic-speech-recognition-service.md",
       "title": "Evaluating an automatic speech recognition service",
       "excerpt": "Over the past few years, many automatic speech recognition (ASR) services have entered the market, offering a variety of different features. When deciding whether to use a service, you may want to evaluate its performance and compare it to another service. This evaluation process often analyzes a service",
@@ -205,7 +306,7 @@
       "originalUrl": "https://www.fool.com/investing/2020/10/05/nvidia-is-building-an-ai-supercomputer-for-healthc/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 235,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -257,7 +358,7 @@
       "originalUrl": "https://www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -538,6 +639,48 @@
       ]
     },
     {
+      "path": "_news/2020-10-05-ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry.md",
+      "title": "IBM Brings Artificial Intelligence At Scale To The Marketing And Media Industry",
+      "excerpt": "Our work will be a step forward in our evolution to meet the advertising industry's upheaval, and we are proud to help the advertising industry advance with the value of AI.\" The IBM Watson ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanzen.net/nachricht/aktien/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-9360315",
+      "originalUrl": "https://www.finanzen.net/nachricht/aktien/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-9360315",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-05T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanzen",
+        "domain": "finanzen.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-madrona-leads-39m-seed-round-for-cybersecurity-compliance-startup-strike-graph.md",
       "title": "Madrona leads $3.9M seed round for cybersecurity compliance startup Strike Graph",
       "excerpt": "Seattle startup Strike Graph raised a $3.9 million seed round led by Madrona Venture Group. The company, founded less than a year ago and spun out of Madrona Venture Labs, helps companies prepare",
@@ -773,6 +916,48 @@
       ]
     },
     {
+      "path": "_news/2020-10-05-pediatric-diabetes-covid-19-and-artificial-intelligence-ibm-watson-supports-families-during-pandemic-shutdown.md",
+      "title": "Pediatric Diabetes, COVID-19 and Artificial Intelligence: IBM Watson supports families during pandemic shutdown",
+      "excerpt": "Delivered by nine volunteers through IBM's ProBono initiative, the AI-powered virtual assistant ... Fred has been engaged more than 5000 times through Watson Assistant. The IBM ProBono volunteer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanzen.net/nachricht/aktien/pediatric-diabetes-covid-19-and-artificial-intelligence-ibm-watson-supports-families-during-pandemic-shutdown-9359717",
+      "originalUrl": "https://www.finanzen.net/nachricht/aktien/pediatric-diabetes-covid-19-and-artificial-intelligence-ibm-watson-supports-families-during-pandemic-shutdown-9359717",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-05T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanzen",
+        "domain": "finanzen.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-gitai-aims-to-bring-autonomous-robot-workers-to-space.md",
       "title": "GITAI Aims to Bring Autonomous Robot Workers to Space",
       "excerpt": "Since its start, GITAI has focused its efforts on various robots ... since with the current technology level of AI, what a robot can do autonomously is very limited. However, in an environment where the latency becomes noticeable, it would become more ...",
@@ -862,48 +1047,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-pediatric-diabetes-covid-19-and-artificial-intelligence-ibm-watson-supports-families-during-pandemic-shutdown.md",
-      "title": "Pediatric Diabetes, COVID-19 and Artificial Intelligence: IBM Watson supports families during pandemic shutdown",
-      "excerpt": "IBM Canada ProBono volunteer program delivers a virtual agent using Watson Assistant for Quebec's Diabetic Children Foundation",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/pediatric-diabetes-covid-19-and-artificial-intelligence-ibm-watson-supports-families-during-pandemic-shutdown/article_87f23caf-5fca-5776-864e-ff75449d37b9.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/pediatric-diabetes-covid-19-and-artificial-intelligence-ibm-watson-supports-families-during-pandemic-shutdown/article_87f23caf-5fca-5776-864e-ff75449d37b9.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/15/7152379e-0499-588a-a243-564e01ec897c/5f7af61ad3d78.image.jpg?resize=400%2C330",
-          "width": 400,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-05T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     },
@@ -1049,131 +1192,6 @@
         "AI",
         "Microsoft AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-inside-politics-rishi-sunak-clashes-with-boris-johnson-over-eat-out-to-help-out.md",
-      "title": "Inside Politics: Rishi Sunak clashes with Boris Johnson over Eat Out to Help Out",
-      "excerpt": "In a pre-conference speech interview, the chancellor has hit back at the PM’s suggestion that the scheme may have caused the virus to spread, writes Adam Forrest",
-      "sourceUrl": null,
-      "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
-      "originalUrl": "https://www.independent.co.uk/independentpremium/uk-news/boris-johnson-sunak-eat-out-help-out-scheme-tory-conference-brexit-talks-b801042.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inside.com/assets/premium/Blue-email-icon-0994aadea0b5b10b19a148e2dd34a88c4a315b76ed51d7898fa49dc4ddc6d171.png",
-          "width": 414,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-04T23:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-ibm-fenergo-to-transform-new-customer-onboarding-for-financial-institutions.md",
-      "title": "IBM, Fenergo to Transform New Customer Onboarding for Financial Institutions",
-      "excerpt": "PRNewswire/ -- SIBOS: IBM (NYSE: IBM) and Fenergo, a leading provider of client lifecycle management (CLM) solutions for financial institutions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/ibm-fenergo-to-transform-new-customer-onboarding-for-financial-institutions-301145261.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/ibm-fenergo-to-transform-new-customer-onboarding-for-financial-institutions-301145261.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook",
-          "width": 2698,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-04T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-raise-2020-a-mega-virtual-summit-on-artificial-intelligence.md",
-      "title": "RAISE 2020: A mega virtual summit on Artificial Intelligence",
-      "excerpt": "RAISE 2020, a mega virtual summit on Artificial Intelligence will be inaugurated today by Prime Minister Narendra Modi at 7 pm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.oneindia.com/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html",
-      "originalUrl": "https://www.oneindia.com/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.oneindia.com/img/400x99/2020/10/raise-1601867009.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.oneindia.com/amphtml/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html",
-      "cdnAmpWebUrl": "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html",
-      "publishedDateTime": "2020-10-04T20:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Oneindia",
-        "domain": "oneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

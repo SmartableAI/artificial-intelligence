@@ -2,6 +2,140 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-09-16-challenges-of-dods-ethical-principles-for-ai.md",
+      "title": "Challenges of DoD’s Ethical Principles for AI",
+      "excerpt": "The development and publication of the DoD principles and actions it has taken since demonstrate that DoD is taking this seriously.",
+      "sourceUrl": null,
+      "webUrl": "https://federalnewsnetwork.com/commentary/2020/09/ethical-challenges-of-dods-ethical-principles-for-ai/",
+      "originalUrl": "https://federalnewsnetwork.com/commentary/2020/09/ethical-challenges-of-dods-ethical-principles-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://federalnewsnetwork.com/wp-content/uploads/2020/04/AI-featured-gif.png",
+          "width": 435,
+          "height": 290,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://federalnewsnetwork.com/commentary/2020/09/ethical-challenges-of-dods-ethical-principles-for-ai/amp/",
+      "cdnAmpWebUrl": "https://federalnewsnetwork-com.cdn.ampproject.org/c/s/federalnewsnetwork.com/commentary/2020/09/ethical-challenges-of-dods-ethical-principles-for-ai/amp/",
+      "publishedDateTime": "2020-09-15T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "federalnewsnetwork.com",
+        "domain": "federalnewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-16-harvard-researchers-developed-an-ai-to-determine-how-medical-treatments-affect-life-spans.md",
+      "title": "Harvard researchers developed an AI to determine how medical treatments affect life spans",
+      "excerpt": "It was created by researchers from Harvard Medical School’s Sinclair Lab, who say it’s the first study to track a mouse’s frailty for the duration of its life. They plan to use the predictions to quickly test interventions intended to extend the mice’s lives and move towards doing the same in humans.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/15/harvard-researchers-developed-an-ai-to-determine-how-medical-treatments-affect-life-spans/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/15/harvard-researchers-developed-an-ai-to-determine-how-medical-treatments-affect-life-spans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Untitled-design-2020-09-15T163117.825-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/15/harvard-researchers-developed-an-ai-to-determine-how-medical-treatments-affect-life-spans/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/15/harvard-researchers-developed-an-ai-to-determine-how-medical-treatments-affect-life-spans/amp/",
+      "publishedDateTime": "2020-09-15T12:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-16-ottonomy-io-and-snapdeal-conduct-last-mile-deliveries-using-autonomous-robotic-vehicles.md",
+      "title": "Ottonomy IO and Snapdeal conduct last-mile deliveries using autonomous robotic vehicles",
+      "excerpt": "Developed by Ottonomy IO for last-mile and local shipments, the delivery robots can run along sidewalks and local streets autonomously.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatoday.in/auto/latest-auto-news/story/ottonomy-io-and-snapdeal-test-last-mile-deliveries-using-robots-1722177-2020-09-15",
+      "originalUrl": "https://www.indiatoday.in/auto/latest-auto-news/story/ottonomy-io-and-snapdeal-test-last-mile-deliveries-using-robots-1722177-2020-09-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202009/Snapdeal_Ottonomy_1-647x363.jpeg?N8ZyGJDkFdGpML9aacdA3tvg1tTyQHvK",
+          "width": 647,
+          "height": 363,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.indiatoday.in/amp/auto/latest-auto-news/story/ottonomy-io-and-snapdeal-test-last-mile-deliveries-using-robots-1722177-2020-09-15",
+      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/auto/latest-auto-news/story/ottonomy-io-and-snapdeal-test-last-mile-deliveries-using-robots-1722177-2020-09-15",
+      "publishedDateTime": "2020-09-15T11:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Today",
+        "domain": "indiatoday.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-16-latent-ai-makes-edge-ai-workloads-more-efficient.md",
       "title": "Latent AI makes edge AI workloads more efficient",
       "excerpt": "Latent AI, a startup that was spun out of SRI International, makes it easier to run AI workloads at the edge by dynamically managing workloads as necessary. Using its proprietary compression and compilation process,",
@@ -1008,149 +1142,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-adp-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award.md",
-      "title": "ADP® DataCloud Wins 2020 Artificial Intelligence (AI) Breakthrough Award",
-      "excerpt": "Recognized as a leading company in the global AI market today, ADP was selected as a winner in the 2020 AI Breakthrough Awards for",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/adp-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award-301130634.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/adp-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award-301130634.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1273754/AI_Breakthrough_Awards_2020_ADP.jpg?p=facebook",
-          "width": 1004,
-          "height": 526,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-15T05:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-jpmorgan-and-blackrock-tap-ai-startup-to-automate-opening-custody-accounts.md",
-      "title": "JPMorgan and BlackRock tap AI startup to automate opening custody accounts",
-      "excerpt": "JPMorgan Chase & Co and BlackRock Inc have teamed up with artificial intelligence (AI) technology startup Saphyre to automate the opening of custody accounts, the companies said on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/jpmorgan-blackrock-saphyre/jpmorgan-and-blackrock-tap-ai-startup-to-automate-opening-custody-accounts-idUSL1N2GC083",
-      "originalUrl": "https://www.reuters.com/article/jpmorgan-blackrock-saphyre/jpmorgan-and-blackrock-tap-ai-startup-to-automate-opening-custody-accounts-idUSL1N2GC083",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-15T05:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-machine-learning-in-retail-market-2020-structure-research-methodology-forecast-to-2024.md",
-      "title": "Machine Learning in Retail Market 2020 Structure, Research Methodology Forecast to 2024",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Sep 15, 2020 (The Expresswire) -- Global “Machine Learning in Retail Market” 2024 Research Report provide in-depth study of the present state of the Industry. Initially ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-retail-market-2020-structure-research-methodology-forecast-to-2024-2020-09-15?mod=mw_quote_news",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-retail-market-2020-structure-research-methodology-forecast-to-2024-2020-09-15?mod=mw_quote_news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 196,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-15T04:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

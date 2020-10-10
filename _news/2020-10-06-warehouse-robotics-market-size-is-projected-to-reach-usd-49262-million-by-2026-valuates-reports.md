@@ -34,20 +34,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 57
-  - title: "Warehouse Robotics Market Size is Projected to Reach USD 4926.2 Million by 2026 - Valuates Reports"
-    excerpt: "According to the Latest Market Research Report \"Warehouse Robotics Market Breakdown Data by Type ( Mobile Robotics, Fixed Robotics)"
-    publishedDateTime: 2020-10-05T14:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/warehouse-robotics-market-size-is-projected-to-reach-usd-4926-2-million-by-2026---valuates-reports-301145618.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 40
-    images:
-      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
-        width: 920
-        height: 482
-        isCached: true
 
 secured: "xV81sj8L8CalUaBKC+6p28pzRcHUpNszlOnSvLQvtFEIpsVYyMJzYe7LN6XIr0vJ3GCOm5xnHdhu/Jyfx2T++v+FaQROMPioTT3RH/yeuyIRq00g0GxhXpfMG1IuduioCyUws3PYPKIzfDWQ73BmzmwmOKFYbM2sx50ybqH6YTZXg/O/MANilVytXoZbn7/5iG0dx1CHHEzvP4CKfJAg2r9FrbL6brcmPcjh/VrG/m5HcoIldGANgL9DQSS2ZyPF48B2VsYJa6EaqF6Zyd1xc3+Qkh5qIrlmdKb/2TeVylKeOJ6+5Zx7KjMfaR0YROW/GsDPuxv9bklNs0icoQNh8mnP9NgiIf2nyAJP/ybLjRE=;orExwHk5VdDIHxs2YhaMPw=="
 ---

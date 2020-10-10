@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startup-helps-hospitals-navigate-operational-troubles-of-covid-19-and-beyond/amp/"
 type: article
 quality: 80
-heat: 120
+heat: 110
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://www.azorobotics.com/images/news/ImageForNews_11686_16022476570691643.png"
         width: 950
         height: 907
-        isCached: true
-  - title: "Researchers develop artificial intelligence for early prediction of COVID-19 from standard blood tests"
-    excerpt: "A group of researchers have developed artificial intelligence (AI) that accurately predicts COVID-19 infection from standard blood tests. The AI solution has the potential to increase testing ..."
-    publishedDateTime: 2020-10-05T13:51:00Z
-    webUrl: "https://medicalxpress.com/news/2020-10-artificial-intelligence-early-covid-standard.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-10-artificial-intelligence-early-covid-standard.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-artificial-intelligence-early-covid-standard.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 41
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/11-covid.jpg"
-        width: 1920
-        height: 1025
         isCached: true
   - title: "Will robots and AI take our jobs in covid-19’s socially distanced era?"
     excerpt: "Coronavirus has put a rocket under plans for more automation, roboticisation and use of AI. Should we fear for our jobs – or will we just get better ones?"

@@ -2,6 +2,140 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-01-google-photos-gets-smarter-ai-powered-editor.md",
+      "title": "Google Photos gets smarter, AI-powered editor",
+      "excerpt": "Google rolled out a new version of the photo editor in the Google Photos app on Android. It uses machine learning to give you suggestions on how to fix a photo, which you can apply with one tap. Google says more suggestions are coming to Pixel devices in the coming months,",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/google-photos-editor/",
+      "originalUrl": "https://mashable.com/article/google-photos-editor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F10%252F01%252Fb8%252Fd762c63acc904b9298f8889e590f20a9.e68f3.png%252F1200x630.png?signature=fMk9DtgSsV3Qv23BxBAKCHnAVhc=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/google-photos-editor.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/google-photos-editor.amp",
+      "publishedDateTime": "2020-10-01T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-deckrobot-raises-15-million-to-generate-powerpoint-slides-using-ai.md",
+      "title": "DeckRobot Raises $1.5 Million To Generate PowerPoint Slides Using AI",
+      "excerpt": "Making professional, company-approved Powerpoint slides is difficult for the average employee. DeckRobot is an artificial intelligence add-on to Microsoft Office’s PowerPoint to all a user to create approvable slide decks in one click.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/frederickdaso/2020/10/01/deckrobot-raises-15-million-to-generate-powerpoint-slides-using-ai/",
+      "originalUrl": "https://www.forbes.com/sites/frederickdaso/2020/10/01/deckrobot-raises-15-million-to-generate-powerpoint-slides-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f709683ae01957e6150d240%2F0x0.jpg",
+          "width": 1199,
+          "height": 775,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/frederickdaso/2020/10/01/deckrobot-raises-15-million-to-generate-powerpoint-slides-using-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2020/10/01/deckrobot-raises-15-million-to-generate-powerpoint-slides-using-ai/amp/",
+      "publishedDateTime": "2020-10-01T05:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-amazon-timestream-database-is-now-generally-available.md",
+      "title": "Amazon Timestream database is now generally available",
+      "excerpt": "The latest addition to the AWS database portfolio focuses on time series data – a segment where fit-for-purpose databases are emerging because use cases ranging from IoT to e-commerce are driving data volumes overwhelming general-purpose platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/amazon-timestream-database-is-now-generally-available/",
+      "originalUrl": "https://www.zdnet.com/article/amazon-timestream-database-is-now-generally-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-timestream-database-is-now-generally-available/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-timestream-database-is-now-generally-available/",
+      "publishedDateTime": "2020-10-01T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-01-mcloud-brings-natural-language-processing-to-connected-workers-through-partnership-with-aiqudo.md",
       "title": "mCloud Brings Natural Language Processing to Connected Workers through Partnership with Aiqudo",
       "excerpt": "By combining AssetCare with Aiqudo's powerful Voice to Action® platform, mobile field workers will be able to interact with AssetCare solutions through a custom digital assistant using natural language.",
@@ -1041,161 +1175,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-say-goodbye-to-hold-music.md",
-      "title": "Say goodbye to hold music",
-      "excerpt": "Sometimes, a phone call is the best way to get something done. We call retailers to locate missing packages, utilities to adjust our internet speeds, airlines to change our travel itineraries...the list goes on. But more often than not, we need to wait on hold during these calls—listening closely to",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/pixel/hold-for-me/",
-      "originalUrl": "https://blog.google/products/pixel/hold-for-me/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HFM-hero2x.max-1300x1300.png",
-          "width": 1300,
-          "height": 557,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/pixel/hold-for-me/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/pixel/hold-for-me/amp/",
-      "publishedDateTime": "2020-09-30T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-building-custom-language-models-to-supercharge-speech-to-text-performance-for-amazon-transcribe.md",
-      "title": "Building custom language models to supercharge speech-to-text performance for Amazon Transcribe",
-      "excerpt": "Amazon Transcribe is a fully-managed automatic speech recognition service (ASR) that makes it easy to add speech-to-text capabilities to voice-enabled applications. As our service grows, so does the diversity of our customer base, which now spans domains such as insurance, finance, law, real estate,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-custom-language-models-to-supercharge-speech-to-text-performance-for-amazon-transcribe/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/building-custom-language-models-to-supercharge-speech-to-text-performance-for-amazon-transcribe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T11:12:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-tigergraph-highlights-next-generation-graph-and-machine-learning-partnerships-at-graph-ai-world-2020.md",
-      "title": "TigerGraph Highlights Next-Generation Graph and Machine Learning Partnerships at Graph + AI World 2020",
-      "excerpt": "REDWOOD CITY, Calif., Sept. 30, 2020 (GLOBE NEWSWIRE) -- TigerGraph, the only scalable graph database for the enterprise, today announced that it will showcase multiple key partnerships that are democratizing the use of graph with AI and machine learning at Graph + AI World 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/tigergraph-highlights-next-generation-graph-and-machine-learning-partnerships-at-graph-ai-world-2020-2020-09-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/tigergraph-highlights-next-generation-graph-and-machine-learning-partnerships-at-graph-ai-world-2020-2020-09-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

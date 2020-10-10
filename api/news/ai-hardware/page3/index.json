@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-14-nvidia-acquires-chip-design-giant-arm-limited-in-40-billion-usd-deal.md",
+      "title": "NVIDIA Acquires Chip Design Giant Arm Limited in $40 Billion USD Deal",
+      "excerpt": "Shortly unveiling its highly-anticipated “Ampere” RTX 3000 series of graphics cards just earlier this month, NVIDIA has now announced that it intends to acquire chip design firm Arm Limited ...",
+      "sourceUrl": null,
+      "webUrl": "https://hypebeast.com/2020/9/nvidia-arm-limited-40-billion-usd-acquisition",
+      "originalUrl": "https://hypebeast.com/2020/9/nvidia-arm-limited-40-billion-usd-acquisition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F09%2Fnvidia-arm-limited-40-billion-usd-acquisition-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max",
+          "width": 1170,
+          "height": 780,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://hypebeast.com/2020/9/nvidia-arm-limited-40-billion-usd-acquisition?amp=1",
+      "cdnAmpWebUrl": "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/9/nvidia-arm-limited-40-billion-usd-acquisition?amp=1",
+      "publishedDateTime": "2020-09-14T02:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hypebeast",
+        "domain": "hypebeast.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-nvidia-acquires-arm-to-shake-up-chip-industry.md",
       "title": "NVIDIA Acquires ARM to Shake Up Chip Industry",
       "excerpt": "NVIDIA’s massive purchase of ARM for $40 billion-plus will have some profound implications on AI and its rival, Intel.",
@@ -1360,57 +1402,6 @@
         "AI Hardware",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-qualcomm-promises-better-ai-for-its-next-snapdragon-pc-chip.md",
-      "title": "Qualcomm promises better AI for its next Snapdragon PC chip",
-      "excerpt": "The Snapdragon 8cx Gen 2 follows up 2018’s Snapdragon 8cx, and back then the company said the “x” in the name stood for “extreme” power. While the actual performance promises of the Snapdragon 8cx Gen 2 don’t seem like a great leap forward,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/qualcomm-snapdragon-8cx-gen-2-073041304.html",
-      "originalUrl": "https://www.engadget.com/qualcomm-snapdragon-8cx-gen-2-073041304.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F69ee12e0-ed53-11ea-affb-7e404ac7d914&client=amp-blogside-v2&signature=713ef55e102c617daf5c8b3162330b9def48aa09",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/qualcomm-snapdragon-8cx-gen-2-073041304.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/qualcomm-snapdragon-8cx-gen-2-073041304.html",
-      "publishedDateTime": "2020-09-03T02:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://qz.com/india/1913464/reliance-jios-ambani-supports-artificia
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/india/1913464/reliance-jios-ambani-supports-artificial-intelligence-for-india/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -61,22 +61,6 @@ related:
       - url: "https://c.ndtvimg.com/2020-07/aq6q2q7g_mukesh-ambani-43rd-agm-july-2020_625x300_15_July_20.jpg"
         width: 650
         height: 400
-        isCached: true
-  - title: "Artificial intelligence indispensable to India’s tryst with digital destiny: Mukesh Ambani"
-    excerpt: "The Reliance Industries Ltd (RIL) chairman said India will have an advantage over its peers in the future due to enormous digital capital"
-    publishedDateTime: 2020-10-05T14:37:00Z
-    webUrl: "https://www.livemint.com/news/india/artificial-intelligence-indispensable-to-india-s-tryst-with-digital-destiny-mukesh-ambani-11601907367162.html"
-    ampWebUrl: "https://www.livemint.com/news/india/artificial-intelligence-indispensable-to-india-s-tryst-with-digital-destiny-mukesh-ambani/amp-11601907367162.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/artificial-intelligence-indispensable-to-india-s-tryst-with-digital-destiny-mukesh-ambani/amp-11601907367162.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 49
-    images:
-      - url: "https://images.livemint.com/img/2020/10/05/600x338/2020-10-01T135458Z_1_LYNXMPEG904CN_RTROPTP_3_RELIANCE-INVESTMENT-RETAIL_1601907481435_1601907504589.JPG"
-        width: 600
-        height: 338
         isCached: true
 
 secured: "cPqKrx1pVhGKLGz18aYdxH0xwOefqzkSQ7b0uPsyVdyjAgCNxNk3GTEZOPJnZK7de9BpNinEHR9kZyZEV7qN3YW3zlS+Lq28orEoyZdMruLrtUn5nubFPkh/e2/J8/GHoP94wEAxMGcKotz34nanr48TAk//ks3KOAgFacuimgXjvVC4MgNHv9pOjGtWr9LXbW2Phx/q+AYkrqJokn5PUXwSOdFH/9jWuXWMsQXCRfHkAHI6FEDi7zQk5bkAbqkedIJMbTHuljZL2IhbRzd4DkkIUFGjAuO+cVPGNypwHXUOE28ZM/hvI7AnN9MNOLrxQfIESoR5cN6V23TJxtJJcGfvHQUQEh8lRvs32L9xYcv5YsAfNKlqQO7WKu0SJ4D4+jm7zc8nSZHcKko+QL7P6Ps2ClfcWtlF59oDX6Awu5adzSekdnrHrVb8tlvB75VvNopmM+u8E4keWvcIp5qeWhzTiLNEdU+zil+1K3XAc+x4DQLbRZlxk3/U108ech1QQVCX1lQKf+QfYRkoZnf3BA==;K78Nod4nDDt+jtsHkFyCBA=="

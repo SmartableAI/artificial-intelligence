@@ -56,22 +56,6 @@ related:
         width: 950
         height: 907
         isCached: true
-  - title: "Researchers develop artificial intelligence for early prediction of COVID-19 from standard blood tests"
-    excerpt: "A group of researchers have developed artificial intelligence (AI) that accurately predicts COVID-19 infection from standard blood tests. The AI solution has the potential to increase testing ..."
-    publishedDateTime: 2020-10-05T13:51:00Z
-    webUrl: "https://medicalxpress.com/news/2020-10-artificial-intelligence-early-covid-standard.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-10-artificial-intelligence-early-covid-standard.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-artificial-intelligence-early-covid-standard.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 41
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/11-covid.jpg"
-        width: 1920
-        height: 1025
-        isCached: true
   - title: "Bengaluru’s Narayana Hospitals employs artificial intelligence to fight Covid-19"
     excerpt: "has broken away from the traditional doctor consultations to leverage artificial intelligence to reduce the risk of virus transmission. Provision of patients’ vitals in real-time on doctors’ mobile phones, robots that transport blood samples ..."
     publishedDateTime: 2020-10-09T06:41:00Z

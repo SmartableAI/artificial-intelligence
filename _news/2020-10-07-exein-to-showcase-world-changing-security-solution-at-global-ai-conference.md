@@ -34,17 +34,6 @@ related:
       name: Robotics Tomorrow
       domain: roboticstomorrow.com
     quality: 49
-  - title: "EXEIN TO SHOWCASE WORLD-CHANGING SECURITY SOLUTION AT GLOBAL AI CONFERENCE"
-    excerpt: "Developer to demonstrate first open source firmware security framework for IoT at NVIDIA GTC 2020. SANTA CLARA, Calif.— OCTOBER 5, 2020—NVIDIA GTC Digital— Exein CEO Gianni"
-    publishedDateTime: 2020-10-05T14:44:00Z
-    webUrl: "https://gisuser.com/2020/10/exein-to-showcase-world-changing-security-solution-at-global-ai-conference/"
-    ampWebUrl: "https://gisuser.com/2020/10/exein-to-showcase-world-changing-security-solution-at-global-ai-conference/amp/"
-    cdnAmpWebUrl: "https://gisuser-com.cdn.ampproject.org/c/s/gisuser.com/2020/10/exein-to-showcase-world-changing-security-solution-at-global-ai-conference/amp/"
-    type: article
-    provider:
-      name: gisuser.com
-      domain: gisuser.com
-    quality: 37
 
 secured: "ijUtcb+YQyiTPCxLm5Zx3zeO0W0xGb307FsaL0hGRi6PFAl+LMtZksIx79rPpd4v4nGO5Ei2fi6p6ly5hUD8HHPLnA85IhkNe+lUk0T4zLrVNAZ2vLiYrIV+J/GglKLFwk2vrh3hfAPxPnaGNv/A6lFTCMNMNPVRvkwELhR9BXgIwkluDxuOU5EbMvG77IBH5etWzRETr/VIMOcBhasvcC6Q+aRKi3mQ4MZLxWq5SV+6F1wDe2UST24zbXiybeldN9JkJokWkZrnlYaIIoK6atddh0qs1kHXaex3RoEuzQatS4togeX8vzXBNYOxgq55xoRNTz/SRpHOhEPA2KLsisdxOsnmqAzTpmiv37ZASMQ=;Tn/ocBJVA86fBhn3t6YHoQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/10/05/nvidia-is-building-an-
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/05/nvidia-is-building-an-ai-supercomputer-for-healthc/"
 type: article
 quality: 105
-heat: 235
+heat: 225
 published: true
 
 provider:
@@ -212,15 +212,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Nvidia Says It’s Building UK’s Most Powerful Supercomputer, Dedicated to AI Research in Healthcare"
-    excerpt: "Nvidia announced today at its GPU Technology Conference (GTC) it is building the United Kingdom’s most powerful supercomputer, which it will make available to U.K. healthcare researchers using AI to solve pressing medical challenges,"
-    publishedDateTime: 2020-10-05T14:11:00Z
-    webUrl: "https://insidehpc.com/2020/10/nvidia-says-its-building-uks-most-powerful-supercomputer-dedicated-to-ai-research-in-healthcare/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 22
 
 secured: "7MguWWi9F9QGRXOIGGNLE4WdsH/wa3ZYQ2RHbgoJf9X5NE3XWjzEDgZE/gbfOXpfFNHLzz9vPfsmszA+adezcqvwPh7NdrGVfLzLh/LdigNzDOF0WpdYGr8Ey1oUc+9+uO1ayI9fNXxd5+HsS7ArcGZOxn/X9KrHN2ee4lqfwlqkpeHqXrTAC0jnWR6XoHXdp8G5K0pFoF8IRgDflUg4+b5uP9WsZR15T7g/87KFxn/wzBd1btAms3LKa7eJBU1gkc4JkktnW5JGn650B6j5h/bGpa8esrOu9VGVbT3HWcLgXoUzspguyMc6uwBxNtAe5VTAFUpD66V+3DF4njN+oXHSPNmiF/RCv5c8tMkhlY6rUpkfWYoLF7icsayFkylAn2866cN0jdYB/dqFul+yD1OldkIWcqtdlHp+2bu951A/BFHeCCpvjYbkYfGNJW4CkO6YpUQsDbFLw1WD1op3UMkmscfDipY248vqITQKsw4hoK0YSkD6LIQ6D4pN6jfmrJvHbNQ/Q2sDl1FtDiv5lg==;YQoWFvLJzpAN8Fe/H4RgWg=="
 ---

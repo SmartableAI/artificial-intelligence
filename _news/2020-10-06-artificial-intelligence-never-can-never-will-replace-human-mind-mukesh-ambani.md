@@ -58,22 +58,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Artificial intelligence indispensable to India’s tryst with digital destiny: Mukesh Ambani"
-    excerpt: "The Reliance Industries Ltd (RIL) chairman said India will have an advantage over its peers in the future due to enormous digital capital"
-    publishedDateTime: 2020-10-05T14:37:00Z
-    webUrl: "https://www.livemint.com/news/india/artificial-intelligence-indispensable-to-india-s-tryst-with-digital-destiny-mukesh-ambani-11601907367162.html"
-    ampWebUrl: "https://www.livemint.com/news/india/artificial-intelligence-indispensable-to-india-s-tryst-with-digital-destiny-mukesh-ambani/amp-11601907367162.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/artificial-intelligence-indispensable-to-india-s-tryst-with-digital-destiny-mukesh-ambani/amp-11601907367162.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 49
-    images:
-      - url: "https://images.livemint.com/img/2020/10/05/600x338/2020-10-01T135458Z_1_LYNXMPEG904CN_RTROPTP_3_RELIANCE-INVESTMENT-RETAIL_1601907481435_1601907504589.JPG"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "JsHMJC2KjNV3hmFaOLZMRp2nfY9jbXhtTiai24WkQNIql50BqAlyD6zU336nfUbdBmPRjazCy6NdrymtTsan4pqb8nNQ91QXAuYMDOn3TLvfTzHJwq0e0t87OqYNWTPeDmKVZ7Bl8fQyakxtXXAK0bk0mzemdsOYzCoYuSOxKNClUqws3QjssFGZN+1ez1QChpWYgfkwp6PWZWSuvse1Y9KUOUcrEMrqvxDqGkqfK9GztHfmipMYYSo/pEXGyQQVbEv4sPmKhsrl2VEDiJo358vomm4HCmGZv52qJtiuFBQvmjXLAVTG/ixhOOXva1uP3IXmeEplnVXQzZ/NgR+pJEF0PIMo/9QMvYuiTT65dW4=;tGS855RSm0/ZujQATfD4xA=="
 ---

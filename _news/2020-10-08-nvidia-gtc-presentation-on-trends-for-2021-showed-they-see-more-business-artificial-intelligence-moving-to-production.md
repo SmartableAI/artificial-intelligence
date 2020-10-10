@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Nvidia unveils Maxine, a managed cloud AI videoconferencing service"
-    excerpt: "Nvidia today launched Nvidia Maxine, a platform that provides developers with a suite of GPU-accelerated AI conferencing software to enhance video quality. The company describes Maxine as a “cloud-native” solution that makes it possible for service providers to bring AI effects — including gaze correction,"
-    publishedDateTime: 2020-10-05T13:09:00Z
-    webUrl: "https://venturebeat.com/2020/10/05/nvidia-unveils-maxine-a-managed-cloud-ai-videoconferencing-service/"
-    ampWebUrl: "https://venturebeat.com/2020/10/05/nvidia-unveils-maxine-a-managed-cloud-ai-videoconferencing-service/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/05/nvidia-unveils-maxine-a-managed-cloud-ai-videoconferencing-service/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/10/NVIDIA-Maxine-Streaming-Video-AI-Platform-GTC-e1601673784391.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "GTC 2020 roundup: Nvidia’s virtual world for robots, A.I. video calls"
     excerpt: "Nvidia's GPU Technology Conference, also known as GTC, is all about artificial intelligence. We'll give you a rundown of everything that was announced."
     publishedDateTime: 2020-10-06T02:21:00Z
@@ -78,37 +62,21 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "NVIDIA Launches The Most Affordable Developer Kit For The AI Community"
-    excerpt: "The Jetson Nano 2GB Developer Kit puts the power of AI in the hands of the masses. With an affordable price tag, it is expected to democratize AI."
-    publishedDateTime: 2020-10-05T13:02:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2020/10/05/nvidia-launches-the-most-affordable-developer-kit-for-the-ai-community/"
-    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/10/05/nvidia-launches-the-most-affordable-developer-kit-for-the-ai-community/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/10/05/nvidia-launches-the-most-affordable-developer-kit-for-the-ai-community/amp/"
+  - title: "Nvidia uses AI to make video calls way better"
+    excerpt: "The cloud-native platform — named Nvidia Maxine — also offers AI effects including gaze correction, super-resolution, noise cancellation, and face relighting. The system slashes the bandwidth ..."
+    publishedDateTime: 2020-10-05T17:44:00Z
+    webUrl: "https://thenextweb.com/neural/2020/10/05/nvidia-uses-ai-to-make-video-calls-way-better/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/10/05/nvidia-uses-ai-to-make-video-calls-way-better/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/05/nvidia-uses-ai-to-make-video-calls-way-better/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: The Next Web
+      domain: thenextweb.com
     quality: 87
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7b1b0dda4cc8029da27488%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D782%26cropY1%3D58%26cropY2%3D499"
-        width: 782
-        height: 441
-        isCached: true
-  - title: "Nvidia says its AI can fix some of the biggest problems in video calls"
-    excerpt: "Nvidia has announced a new videoconferencing platform for developers named Nvidia Maxine that it claims can fix some of the most common problems in video calls. Maxine will process calls in the cloud using Nvidia’s GPUs and boost call quality in a number of ways with the help of artificial intelligence."
-    publishedDateTime: 2020-10-05T13:03:00Z
-    webUrl: "https://www.theverge.com/2020/10/5/21502003/nvidia-ai-videoconferencing-maxine-platform-face-gaze-alignment-gans-compression-resolution"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/5/21502003/nvidia-ai-videoconferencing-maxine-platform-face-gaze-alignment-gans-compression-resolution"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/5/21502003/nvidia-ai-videoconferencing-maxine-platform-face-gaze-alignment-gans-compression-resolution"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 87
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/XmsFkRnqD65KANKunZGjma2VfUU=/0x0:1653x1243/1400x933/filters:focal(695x490:959x754):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67582351/nvidia_maxine_features_3.0.jpg"
-        width: 1400
-        height: 933
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-05T171624.602-796x417.png"
+        width: 796
+        height: 417
         isCached: true
   - title: "AI Weekly: Nvidia’s Maxine opens the door to deepfakes and bias in video calls"
     excerpt: "Will AI power video chats of the future? That’s what Nvidia implied this week with the unveiling of Maxine, a platform that provides developers with a suite of GPU-accelerated AI conferencing ..."
@@ -139,6 +107,38 @@ related:
       - url: "https://i.insider.com/5f7c775b282c500018c78c79?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "How Nvidia Is Fighting Disease With AI"
+    excerpt: "Nvidia Corp. (NASDAQ: NVDA) shares jumped on Monday amid a flurry of updates from the semiconductor firm. Perhaps one of the most exciting updates was that Nvidia said it will be partnering with GlaxoSmithKline PLC (NYSE: GSK) to apply its artificial intelligence (AI) and supercomputers for the drug and vaccine discovery process."
+    publishedDateTime: 2020-10-05T15:12:00Z
+    webUrl: "https://247wallst.com/technology-3/2020/10/05/how-nvidia-is-fighting-disease-with-ai/"
+    ampWebUrl: "https://247wallst.com/technology-3/2020/10/05/how-nvidia-is-fighting-disease-with-ai/amp/"
+    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2020/10/05/how-nvidia-is-fighting-disease-with-ai/amp/"
+    type: article
+    provider:
+      name: 24/7 Wall St
+      domain: 247wallst.com
+    quality: 59
+    images:
+      - url: "https://247wallst.com/wp-content/uploads/2020/07/imageForEntry48-Txa.jpg?w=400"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "NVIDIA flexes its edge, AI muscles"
+    excerpt: "NVIDIA is becoming more influentialUnveils broad range of new products and initiativesStrengthens its support for Arm, which it plans to buy for $40 billion"
+    publishedDateTime: 2020-10-06T15:36:00Z
+    webUrl: "https://www.telecomtv.com/content/digital-platforms-services/nvidia-flexes-its-edge-ai-muscles-39838/"
+    ampWebUrl: "https://www.telecomtv.com/content/digital-platforms-services/nvidia-flexes-its-edge-ai-muscles-39838/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/nvidia-flexes-its-edge-ai-muscles-39838/amp/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 59
+    images:
+      - url: "https://assets.telecomtv.com/assets/telecomtv/nvidia-ceo-10089.jpeg?w=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "VMware, Nvidia partner to boost AI, networking capabilities"
     excerpt: "If there was any doubt Nvidia has arrived as an enterprise player, its deal with VMware should erase all doubt. The GPU developer and VMware announced at the recent VMworld 2020 conference that they plan to integrate their respective core technologies through a series of development and networking partnerships."
@@ -202,47 +202,6 @@ related:
         width: 630
         height: 307
         isCached: true
-  - title: "NVIDIA Announces Partnership with GSK’s AI-Powered Lab for Discovery of Medicines and Vaccines"
-    excerpt: "GSK has recently established a new London- based AI hub, one of the first of its kind, which will leverage GSK’ s significant genetic and genomic data to improve the process of designing and developing transformational medicines and vaccines."
-    publishedDateTime: 2020-10-05T14:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/nvidia-announces-partnership-with-gsks-ai-powered-lab-for-discovery-of-medicines-and"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 37
-  - title: "NVIDIA Announces Cloud-AI Video-Streaming Platform to Better Connect Millions Working and Studying Remotely"
-    excerpt: "NVIDIA today announced the NVIDIA Maxine platform, which provides developers with a cloud-based suite of GPU-accelerated AI video conferencing software to enhance streaming video— the internet’ s No."
-    publishedDateTime: 2020-10-05T14:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/nvidia-announces-cloud-ai-video-streaming-platform-to-better-connect-millions-working"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 31
-  - title: "Nvidia makes advances in DPUs, edge AI, technical collaboration, videoconferencing and drug discovery"
-    excerpt: "Nvidia's GTC conference may be virtual this year, but that hasn't stopped the company making several real announcements. Data centre. Following last week's joint announcement with VMware about the use of DPUs in the data centre,"
-    publishedDateTime: 2020-10-05T14:00:00Z
-    webUrl: "https://www.itwire.com/enterprise-solutions/nvidia-makes-advances-in-dpus,-edge-ai,-technical-collaboration,-videoconferencing-and-drug-discovery.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 24
-    images:
-      - url: "https://www.itwire.com/media/k2/items/cache/ea0cf8fa7dbf9bcbcd95665a78286a58_M.jpg"
-        width: 375
-        height: 231
-        isCached: true
-  - title: "Nvidia Announces DGX SuperPODs for AI, Available in 20-Node Increments"
-    excerpt: "Nvidia today announced at its GPU Technology Conference (GTC) the Nvidia DGX SuperPOD Solution for Enterprise, the world’s first turnkey AI infrastructure, making it possible for organizations to install incredibly powerful AI supercomputers with extraordinary speed — in many cases in just a few weeks’ time."
-    publishedDateTime: 2020-10-05T14:01:00Z
-    webUrl: "https://insidehpc.com/2020/10/nvidia-announces-dgx-superpods-for-ai-available-in-20-node-increments/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 19
   - title: "Nvidia launches AI platform to improve video conferencing; Avaya on as partner"
     excerpt: "Nvidia (NASDAQ:NVDA) Maxine is a cloud-based, GPU-accelerated AI platform that improves video conferencing streaming quality with features that include super-resolution, noise cancellation, and face relighting."
     publishedDateTime: 2020-10-05T16:08:00Z

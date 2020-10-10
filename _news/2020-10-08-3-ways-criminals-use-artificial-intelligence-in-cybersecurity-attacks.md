@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/3-ways-criminals-use
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/3-ways-criminals-use-artificial-intelligence-in-cybersecurity-attacks/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: TechRepublic
@@ -24,21 +24,19 @@ topics:
   - AI
 
 related:
-  - title: "Madrona leads $3.9M seed round for cybersecurity compliance startup Strike Graph"
-    excerpt: "Seattle startup Strike Graph raised a $3.9 million seed round led by Madrona Venture Group. The company, founded less than a year ago and spun out of Madrona Venture Labs, helps companies prepare"
-    publishedDateTime: 2020-10-05T14:19:00Z
-    webUrl: "https://www.geekwire.com/2020/madrona-leads-3-9m-seed-round-cybersecurity-compliance-startup-strike-graph/"
-    ampWebUrl: "https://www.geekwire.com/2020/madrona-leads-3-9m-seed-round-cybersecurity-compliance-startup-strike-graph/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/madrona-leads-3-9m-seed-round-cybersecurity-compliance-startup-strike-graph/amp/"
+  - title: "Experts Urge Vigilance Over AI Data Security"
+    excerpt: "The expanded use of artificial intelligence in nearly all areas of business means companies must pay more attention to the integrity and security of the data used to train algorithms, a panel of security and AI experts said earlier this week."
+    publishedDateTime: 2020-10-09T22:31:00Z
+    webUrl: "https://www.wsj.com/articles/experts-urge-vigilance-over-ai-data-security-11602272062"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 67
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/10/5f7289d48e1dc9851e9ae568_Wall_3426-p-1600-630x499.jpeg"
-        width: 630
-        height: 499
+      - url: "https://images.wsj.net/im-242976/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "rj1/hPqtPD5kxb/0e8MGGfTmS1tXNf2B14J3+MUPUq3E9MTLBe9cc9+dpMCDcHwtgzapXjsqay+tJz7eEHP2cLljrNMbcag6YoskmH50tnBZKl7dNdbfVCXA8lGLmPc1GIHbHtRM23dH1s6awLM8j84qHfdLttMjpBQAnSjvDTUGZ+EHW4uqjiKBejPDI+sFSi5gEW+aEAwPU4+p/KOAGVSdDNWiBDPqYMoGk9lDfSku6XkX0kG/Vp8ClBPNKz8BVtb8z05CGl3Frz9Wv/qVHKGHE8vvV4Ocj/FEUZChOoWq0kBjl3CrKRl2/lU239v0SPEAKFNipVeE3F/smy9r+PNBCD0jg2c8GlEBeKCEGyPJdbX8oPz88sU/68lmfleu5r5O0v0yK3HnlRROiu7VOLbHm32qwDjXwWxDd5D+/9GrLbHf9oOKwapbwZdss0sHnKzhm3Mr9xkJO7Y2QZuMB9fcLDHlwMyJZcpQrz3ITYAkGk88Z39U1zU+0HbI3GITGOJDKzKqXKqFIuC4u+DlFg==;bf4W5y02Wo6L8x8YCun7Sg=="

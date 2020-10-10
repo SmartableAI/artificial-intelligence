@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 482
         isCached: true
+  - title: "This Self-Driving Drone Truck Could Be on the Road by Next Year"
+    excerpt: "Driverless cars are nudging their way to reality, but one startup wants to take things a step further with driverless trucks. And its efforts could change freight hauling on the road for good."
+    publishedDateTime: 2020-10-08T16:17:00Z
+    webUrl: "https://robbreport.com/motors/cars/einride-autonomous-freight-trucks-1234573778/"
+    ampWebUrl: "https://robbreport.com/motors/cars/einride-autonomous-freight-trucks-1234573778/amp/"
+    cdnAmpWebUrl: "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/einride-autonomous-freight-trucks-1234573778/amp/"
+    type: article
+    provider:
+      name: Robb Report
+      domain: robbreport.com
+    quality: 44
+    images:
+      - url: "https://robbreport.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-08-at-9.jpg?w=1000"
+        width: 1000
+        height: 562
+        isCached: true
   - title: "Kiwi-born entrepreneur at the forefront of self-driving cars"
     excerpt: "From Otago University, to IBM, to algorithms for the Mars rovers, Dave Ferguson has spent many years stopping robots running into walls."
     publishedDateTime: 2020-10-09T16:07:00Z

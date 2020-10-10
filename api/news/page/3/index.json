@@ -2,6 +2,99 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-07-making-cycling-safer-with-aws-deeplens-and-amazon-sagemaker-object-detection.md",
+      "title": "Making cycling safer with AWS DeepLens and Amazon SageMaker object detection",
+      "excerpt": "According to the 2018 National Highway Traffic Safety Administration (NHTSA) Traffic Safety Facts, in 2018, there were 857 fatal bicycle and motor vehicle crashes and an additional estimated 47,000 cycling injuries in the US . While motorists often accuse cyclists of being the cause of bike-car accidents,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/making-cycling-safer-with-aws-deeplens-and-amazon-sagemaker-object-detection/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/making-cycling-safer-with-aws-deeplens-and-amazon-sagemaker-object-detection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/29/9-Architecture.jpg",
+          "width": 900,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-07T12:39:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-3-ways-criminals-use-artificial-intelligence-in-cybersecurity-attacks.md",
+      "title": "3 ways criminals use artificial intelligence in cybersecurity attacks",
+      "excerpt": "Bad actors use machine learning to break passwords more quickly and build malware that knows how to hide, experts warn.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/3-ways-criminals-use-artificial-intelligence-in-cybersecurity-attacks/",
+      "originalUrl": "https://www.techrepublic.com/article/3-ways-criminals-use-artificial-intelligence-in-cybersecurity-attacks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/3-ways-criminals-use-artificial-intelligence-in-cybersecurity-attacks/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/3-ways-criminals-use-artificial-intelligence-in-cybersecurity-attacks/",
+      "publishedDateTime": "2020-10-07T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-predicting-defender-trajectories-in-nfls-next-gen-stats.md",
       "title": "Predicting Defender Trajectories in NFL’s Next Gen Stats",
       "excerpt": "NFL’s Next Gen Stats (NGS) powered by AWS accurately captures player and ball data in real time for every play and every NFL game—over 300 million data points per season—through the extensive use of sensors in players’ pads and the ball. With this rich set of tracking data, NGS uses AWS machine learning",
@@ -1107,98 +1200,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-smartphone-tracking-data-and-artificial-intelligence-turn-peoples-movements-into-detailed-insights-and-profits.md",
-      "title": "Smartphone Tracking Data And Artificial Intelligence Turn People’s Movements Into Detailed Insights And Profits",
-      "excerpt": "Cosmose AI, a company that uses machine learning to predict who will go shopping as well as when and where, plus measures the effectiveness of online ads to online and in-person store visits, expanded during the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/10/07/smartphone-tracking-data-and-artificial-intelligence-turn-peoples-movements-into-detailed-insights-and-profits/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2020/10/07/smartphone-tracking-data-and-artificial-intelligence-turn-peoples-movements-into-detailed-insights-and-profits/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7d4156567f8cbd8ccb2fea%2F0x0.jpg",
-          "width": 1199,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/10/07/smartphone-tracking-data-and-artificial-intelligence-turn-peoples-movements-into-detailed-insights-and-profits/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/10/07/smartphone-tracking-data-and-artificial-intelligence-turn-peoples-movements-into-detailed-insights-and-profits/amp/",
-      "publishedDateTime": "2020-10-06T21:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-ea-ceo-teases-new-machine-learning-and-ai-features-for-next-gen-games.md",
-      "title": "EA CEO teases new machine learning and AI features for next-gen games",
-      "excerpt": "EA's new experimental technologies like AI/machine learning will start manifesting in next-gen PlayStation 5, Xbox Series X games.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/75521/ea-ceo-teases-new-machine-learning-and-ai-features-for-next-gen-games/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/75521/ea-ceo-teases-new-machine-learning-and-ai-features-for-next-gen-games/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tweaktown.com/images/news/7/5/75521_6_ea-ceo-teases-new-machine-learning-and-ai-features-for-next-gen-games_full.png",
-          "width": 1200,
-          "height": 722,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.tweaktown.com/news/75521/ea-ceo-teases-new-machine-learning-and-ai-features-for-next-gen-games/amp.html",
-      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/75521/ea-ceo-teases-new-machine-learning-and-ai-features-for-next-gen-games/amp.html",
-      "publishedDateTime": "2020-10-06T20:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

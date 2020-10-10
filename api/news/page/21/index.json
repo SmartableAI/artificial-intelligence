@@ -2,6 +2,131 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-09-21-ft-the-fintech-times-losing-a-generation-of-women-in-finance.md",
+      "title": "F|T: The FinTech Times – Losing a generation of women in finance",
+      "excerpt": "Klarna says it is now the highest-valued private FinTech company in Europe following the funding round. Montréal-based Nuvei has officially set the price of its much-anticipated initial public offering on the Toronto Stock Exchange at $26 USD per share.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/75aea61b-e2d9-4d8a-adad-868b9c76511d",
+      "originalUrl": "https://betakit.com/ft-the-fintech-times-losing-a-generation-of-women-in-finance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd82958c7-8a85-407b-a8ec-b3307c14313a.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/75aea61b-e2d9-4d8a-adad-868b9c76511d",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/75aea61b-e2d9-4d8a-adad-868b9c76511d",
+      "publishedDateTime": "2020-09-21T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BetaKit",
+        "domain": "betakit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-safeguard-your-eyes-against-computer-vision-syndrome.md",
+      "title": "Safeguard your eyes against computer vision syndrome",
+      "excerpt": "Technology has simplified life in so many ways. Thanks to their tablets and smartphones, many people now have a wealth of information at their disposal 24 hours a day, seven days week. Computers,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonherald.com/2020/09/21/safeguard-your-eyes-against-computer-vision-syndrome/",
+      "originalUrl": "https://www.bostonherald.com/2020/09/21/safeguard-your-eyes-against-computer-vision-syndrome/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bostonherald.com/wp-content/uploads/2018/11/Herald_BridgePhoto.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bostonherald.com/2020/09/21/safeguard-your-eyes-against-computer-vision-syndrome/amp/",
+      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/09/21/safeguard-your-eyes-against-computer-vision-syndrome/amp/",
+      "publishedDateTime": "2020-09-21T02:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Boston Herald",
+        "domain": "bostonherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-bodet-launches-facial-recognition-to-complement-kelio-time-attendance-solutions.md",
+      "title": "Bodet Launches Facial Recognition to Complement Kelio Time & Attendance Solutions",
+      "excerpt": "FaceStation 2 is the latest biometric clocking-in user interface to be incorporated into Bodet’s innovative Time and Attendance Systems. Working in conjunction with Bodet’s Kelio Visio X7 interactive clocking terminal,",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2138082/bodet-launches-facial-recognition-to-complement-kelio-time",
+      "originalUrl": "https://www.openpr.com/news/2138082/bodet-launches-facial-recognition-to-complement-kelio-time",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/9/T921401134_g.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2138082/bodet-launches-facial-recognition-to-complement-kelio-time",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2138082/bodet-launches-facial-recognition-to-complement-kelio-time",
+      "publishedDateTime": "2020-09-21T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-21-samsung-galaxy-s30-might-include-iphone-rivaling-facial-recognition.md",
       "title": "Samsung Galaxy S30 might include iPhone-rivaling facial recognition",
       "excerpt": "While the Samsung Galaxy S20 line has the iPhone 11 range matched or beaten in a lot of ways, one thing it can’t match is Apple’s Face ID system for facial recognition. Indeed, Apple’s facial recognition is more secure than just about any Android version,",
@@ -1010,140 +1135,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-stephen-curry-enters-fitness-wars-with-investment-in-tonal-ai-home-gyms-110-million-round.md",
-      "title": "Stephen Curry Enters Fitness Wars With Investment In Tonal AI Home Gym’s $110 Million Round",
-      "excerpt": "The home fitness craze is winning the attention of professional athletes like Steph Curry, Klay Thompson and Serena Williams as they invest along with Amazon Alexa in Tonal AI home gym. Founder and CEO Aly Orady explains why the future of fitness is intelligent in this exclusive interview.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martineparis/2020/09/18/stephen-curry-enters-fitness-wars-with-investment-in-tonal-ai-home-gyms-110-million-round/",
-      "originalUrl": "https://www.forbes.com/sites/martineparis/2020/09/18/stephen-curry-enters-fitness-wars-with-investment-in-tonal-ai-home-gyms-110-million-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f64d6c25280e44e52d7ab87%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2020/09/18/stephen-curry-enters-fitness-wars-with-investment-in-tonal-ai-home-gyms-110-million-round/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2020/09/18/stephen-curry-enters-fitness-wars-with-investment-in-tonal-ai-home-gyms-110-million-round/amp/",
-      "publishedDateTime": "2020-09-18T18:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-adp-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award.md",
-      "title": "ADP® DataCloud Wins 2020 Artificial Intelligence (AI) Breakthrough Award",
-      "excerpt": "Recognized as a leading company in the global AI market today, ADP was selected as a winner in the 2020 AI Breakthrough Awards for its innovative workforce analytics solution, ADP® DataCloud. Named as winner for the \"Best AI-based Solution for Data Sciences\" category,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/adp-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award-1029590053",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/adp-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award-1029590053",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/adp-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award-1029590053",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/adp-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award-1029590053",
-      "publishedDateTime": "2020-09-18T17:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-miso-robotics-how-ai-can-transform-an-industry.md",
-      "title": "Miso Robotics: How AI Can Transform An Industry",
-      "excerpt": "Stock Market News, Stock Advice & Trading Tips Over the past decade, the advances in robotics have been breathtaking, as",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-how-ai-can-transform-an-industry-1029604082",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-how-ai-can-transform-an-industry-1029604082",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/miso-robotics-how-ai-can-transform-an-industry-1029604082",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/miso-robotics-how-ai-can-transform-an-industry-1029604082",
-      "publishedDateTime": "2020-09-18T17:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

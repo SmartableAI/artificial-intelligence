@@ -2,6 +2,98 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-07-smartphone-tracking-data-and-artificial-intelligence-turn-peoples-movements-into-detailed-insights-and-profits.md",
+      "title": "Smartphone Tracking Data And Artificial Intelligence Turn People’s Movements Into Detailed Insights And Profits",
+      "excerpt": "Cosmose AI, a company that uses machine learning to predict who will go shopping as well as when and where, plus measures the effectiveness of online ads to online and in-person store visits, expanded during the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/10/07/smartphone-tracking-data-and-artificial-intelligence-turn-peoples-movements-into-detailed-insights-and-profits/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2020/10/07/smartphone-tracking-data-and-artificial-intelligence-turn-peoples-movements-into-detailed-insights-and-profits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7d4156567f8cbd8ccb2fea%2F0x0.jpg",
+          "width": 1199,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/10/07/smartphone-tracking-data-and-artificial-intelligence-turn-peoples-movements-into-detailed-insights-and-profits/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/10/07/smartphone-tracking-data-and-artificial-intelligence-turn-peoples-movements-into-detailed-insights-and-profits/amp/",
+      "publishedDateTime": "2020-10-06T21:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-ea-ceo-teases-new-machine-learning-and-ai-features-for-next-gen-games.md",
+      "title": "EA CEO teases new machine learning and AI features for next-gen games",
+      "excerpt": "EA's new experimental technologies like AI/machine learning will start manifesting in next-gen PlayStation 5, Xbox Series X games.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/75521/ea-ceo-teases-new-machine-learning-and-ai-features-for-next-gen-games/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/75521/ea-ceo-teases-new-machine-learning-and-ai-features-for-next-gen-games/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tweaktown.com/images/news/7/5/75521_6_ea-ceo-teases-new-machine-learning-and-ai-features-for-next-gen-games_full.png",
+          "width": 1200,
+          "height": 722,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.tweaktown.com/news/75521/ea-ceo-teases-new-machine-learning-and-ai-features-for-next-gen-games/amp.html",
+      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/75521/ea-ceo-teases-new-machine-learning-and-ai-features-for-next-gen-games/amp.html",
+      "publishedDateTime": "2020-10-06T20:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-achieving-185x-higher-performance-for-deep-learning-based-object-detection-with-an-aws-neuron-compiled-yolov4-model-on-aws-inferentia.md",
       "title": "Achieving 1.85x higher performance for deep learning based object detection with an AWS Neuron compiled YOLOv4 model on AWS Inferentia",
       "excerpt": "In this post, we show you how to deploy a TensorFlow based YOLOv4 model, using Keras optimized for inference on AWS Inferentia based Amazon EC2 Inf1 instances. You will set up a benchmarking environment to evaluate throughput and precision, comparing Inf1 with comparable Amazon EC2 G4 GPU-based instances.",
@@ -309,7 +401,7 @@
       "originalUrl": "https://www.forbes.com/sites/lianeyvkoff/2020/10/06/this-startup-has-a-plan-to-build-the-missing-link-for-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -891,7 +983,7 @@
       "originalUrl": "https://www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startup-helps-hospitals-navigate-operational-troubles-of-covid-19-and-beyond/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -1076,7 +1168,7 @@
       "originalUrl": "https://qz.com/india/1913464/reliance-jios-ambani-supports-artificial-intelligence-for-india/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1115,107 +1207,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-helsinki-rides-the-slush-wave-toward-a-booming-startup-future.md",
-      "title": "Helsinki rides the Slush wave toward a booming startup future",
-      "excerpt": "Helsinki’s City Council approved plans for an expansion of the existing “Maria 01 Campus,” a former downtown hospital complex. Even before it starts spreading its acreage, the facility is already home to 120 startups and 12 venture capital funds.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/06/helsinki-rides-the-slush-wave-toward-a-booming-startup-future/",
-      "originalUrl": "https://techcrunch.com/2020/10/06/helsinki-rides-the-slush-wave-toward-a-booming-startup-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-841887872.jpg?w=1000",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/06/helsinki-rides-the-slush-wave-toward-a-booming-startup-future/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/06/helsinki-rides-the-slush-wave-toward-a-booming-startup-future/amp/",
-      "publishedDateTime": "2020-10-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-collaborating-with-ai-to-create-bach-like-compositions-in-aws-deepcomposer.md",
-      "title": "Collaborating with AI to create Bach-like compositions in AWS DeepComposer",
-      "excerpt": "AWS DeepComposer provides a creative and hands-on experience for learning generative AI and machine learning (ML). We recently launched the Edit melody feature, which allows you to add, remove, or edit specific notes, giving you full control of the pitch, length, and timing for each note. In this post,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/collaborating-with-ai-to-create-bach-like-compositions-in-aws-deepcomposer/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/collaborating-with-ai-to-create-bach-like-compositions-in-aws-deepcomposer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/02/3-.jpg",
-          "width": 900,
-          "height": 546,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-05T15:27:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

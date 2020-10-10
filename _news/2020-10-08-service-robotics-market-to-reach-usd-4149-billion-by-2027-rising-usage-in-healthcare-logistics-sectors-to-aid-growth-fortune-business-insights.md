@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/service-robotics-m
 webUrl: "https://markets.businessinsider.com/news/stocks/service-robotics-market-to-reach-usd-41-49-billion-by-2027-rising-usage-in-healthcare-logistics-sectors-to-aid-growth-fortune-business-insights-1029658648"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Business Insider
@@ -24,20 +24,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Warehouse Robotics Market Size is Projected to Reach USD 4926.2 Million by 2026 - Valuates Reports"
-    excerpt: "According to the Latest Market Research Report \"Warehouse Robotics Market Breakdown Data by Type ( Mobile Robotics, Fixed Robotics)"
-    publishedDateTime: 2020-10-05T14:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/warehouse-robotics-market-size-is-projected-to-reach-usd-4926-2-million-by-2026---valuates-reports-301145618.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 40
-    images:
-      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
-        width: 920
-        height: 482
-        isCached: true
   - title: "Warehouse Robotics Market Size is Projected to Reach USD 4926.2 Million by 2026 - Valuates Reports"
     excerpt: "According to the Latest Market Research Report \"Warehouse Robotics Market Breakdown Data by Type ( Mobile Robotics, Fixed Robotics)"
     publishedDateTime: 2020-10-06T00:00:00Z

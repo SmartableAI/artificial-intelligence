@@ -207,15 +207,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Nvidia Says It’s Building UK’s Most Powerful Supercomputer, Dedicated to AI Research in Healthcare"
-    excerpt: "Nvidia announced today at its GPU Technology Conference (GTC) it is building the United Kingdom’s most powerful supercomputer, which it will make available to U.K. healthcare researchers using AI to solve pressing medical challenges,"
-    publishedDateTime: 2020-10-05T14:11:00Z
-    webUrl: "https://insidehpc.com/2020/10/nvidia-says-its-building-uks-most-powerful-supercomputer-dedicated-to-ai-research-in-healthcare/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 22
 
 secured: "d3aYwLIRQIXuMWcETAUnmx6wKHmLMuVUx6dRXjSsIJWqa7KvdtOQFY+0TWWeglTSTOqrpj9mVk21cqNJcM8iljUwVQt6nQNWPVUBKuU2NOlRSOApBIEKnnG/kFWa6Yx8TRmLVACNq92sNm9HCbBtV1VqOHhm7uAzgmIKSe8HGmG6LpYq3POh3UHLP8nFMorr6j5eIdZda38fyib2G19x/IkYy0evs/FMIpLcNGD7zt5ze1te647h+30FTRAUw4lEHKeuW8jwxeJYAWs+g2+c+MhRb+Cc5MSuXhyHXt6UAX32UbcOGzuZpRsmdGDX+xKxZY7kOqo+l1e5/m97rGaLhu0/su/yQqPJPz5bYUJPpas=;6IaOfhsO5ySvpQ5E6ivoAw=="
 ---

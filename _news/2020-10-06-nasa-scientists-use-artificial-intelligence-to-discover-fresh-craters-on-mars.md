@@ -26,33 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "NASA releases images of the first craters on Mars discovered by AI"
-    excerpt: "The AI tool spotted a cluster of craters that were created when a meteor shattered over Mars earlier this decade."
-    publishedDateTime: 2020-10-05T13:40:00Z
-    webUrl: "https://thenextweb.com/neural/2020/10/05/nasa-releases-images-of-the-first-craters-on-mars-discovered-by-ai/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/10/05/nasa-releases-images-of-the-first-craters-on-mars-discovered-by-ai/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/05/nasa-releases-images-of-the-first-craters-on-mars-discovered-by-ai/amp/"
+  - title: "Scientists Used AI to Create a Hyper Detailed 3D Map of Stars, Galaxies, and Quasars"
+    excerpt: "A team of astronomers from the University of Hawaiʻi at Mānoa’s Institute for Astronomy (IfA) has produced the most comprehensive astronomical imaging catalog of stars, galaxies, and quasars ever created with help from an artificially intelligent neural network."
+    publishedDateTime: 2020-10-09T20:43:00Z
+    webUrl: "https://gizmodo.com/scientists-used-ai-to-create-a-hyper-detailed-3d-map-of-1845326322"
+    ampWebUrl: "https://gizmodo.com/scientists-used-ai-to-create-a-hyper-detailed-3d-map-of-1845326322/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/scientists-used-ai-to-create-a-hyper-detailed-3d-map-of-1845326322/amp"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 80
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-05T121503.426-796x417.png"
-        width: 796
-        height: 417
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/blaqcfxlva3dzvpinzgg.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "NASA taps AI to identify \"fresh craters\" on Mars"
-    excerpt: "NASA's Jet Propulsion Laboratory uses an AI tool on a supercomputer cluster to identify potential craters on the Red Planet."
-    publishedDateTime: 2020-10-05T20:15:00Z
-    webUrl: "https://www.techrepublic.com/article/nasa-taps-ai-to-identify-fresh-craters-on-mars/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/nasa-taps-ai-to-identify-fresh-craters-on-mars/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/nasa-taps-ai-to-identify-fresh-craters-on-mars/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
 
 secured: "bM5kjG0p+HKaTmK7G2C9i8vsq/EeOz9KvlxndOPkhDNBX1/t5Ygk/ZTqOWTvcwuYCm7WpgAasGoXXzTBXBl7Fmg5ubSoOQ+92JIRLNGBMa6U7pvuNVxJKaXW4ROUoUpmcE4CpzVgOlfyfWaK1qTDVgW7Yrfw4tonBqc0zHNL9Lv1jMQI1zSORwUaTqNONWHn+EQmPBonwaE64bUBVLgH3emgAn9dblh2n04RQkbMNAKBxXYuZQ1rUEFrSs6+sCLF3bW/xNsUKuEnR9XsocY1KCrARXIA0VrfDSZCT/brLPGOY5JpcJe/+MQFzVm1P6Xty7UYvyyuik+mW1OKEw+7mkZbV2EXy5IJNlakx/FFI/Q=;nEn2zk2AP3XgQA7AvG5fDw=="
 ---

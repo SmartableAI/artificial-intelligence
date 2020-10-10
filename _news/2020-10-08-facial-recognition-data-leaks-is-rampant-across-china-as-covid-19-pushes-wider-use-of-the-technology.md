@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/abacus/tech/article/3104512/facial-recognition-
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/abacus/tech/article/3104512/facial-recognition-data-leaks-rampant-across-china-covid-19-pushes"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Crown Point will not install facial recognition cameras to help in COVID-19 contact tracing"
-    excerpt: "Crown Point, Indiana will not be installing a facial recognition network camera system to fight COVID-19, the city announced Sunday."
-    publishedDateTime: 2020-10-05T14:14:00Z
-    webUrl: "https://abc7chicago.com/society/crown-point-will-not-install-facial-recognition-cameras-to-help-in-contact-tracing/6787977/"
-    ampWebUrl: "https://abc7chicago.com/amp/crown-point-contact-tracing-indiana-covid-social-distancing/6787977/"
-    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/crown-point-contact-tracing-indiana-covid-social-distancing/6787977/"
-    type: article
-    provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
-    quality: 49
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/6727254_AP_85217790912.png"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Crown Point will not install facial recognition cameras to help in COVID-19 contact tracing"
     excerpt: "Crown Point, Indiana will not be installing a facial recognition network camera system to fight COVID-19, the city announced Sunday."
     publishedDateTime: 2020-10-05T19:50:00Z

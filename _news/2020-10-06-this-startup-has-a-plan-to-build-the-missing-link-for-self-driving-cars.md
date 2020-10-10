@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lianeyvkoff/2020/10/06/this-startup-has
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lianeyvkoff/2020/10/06/this-startup-has-a-plan-to-build-the-missing-link-for-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "This Self-Driving Drone Truck Could Be on the Road by Next Year"
+    excerpt: "Driverless cars are nudging their way to reality, but one startup wants to take things a step further with driverless trucks. And its efforts could change freight hauling on the road for good."
+    publishedDateTime: 2020-10-08T16:17:00Z
+    webUrl: "https://robbreport.com/motors/cars/einride-autonomous-freight-trucks-1234573778/"
+    ampWebUrl: "https://robbreport.com/motors/cars/einride-autonomous-freight-trucks-1234573778/amp/"
+    cdnAmpWebUrl: "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/einride-autonomous-freight-trucks-1234573778/amp/"
+    type: article
+    provider:
+      name: Robb Report
+      domain: robbreport.com
+    quality: 44
+    images:
+      - url: "https://robbreport.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-08-at-9.jpg?w=1000"
+        width: 1000
+        height: 562
+        isCached: true
   - title: "Seegrid acquires robotics startup to boost “situational awareness” for its self-driving vehicles"
     excerpt: "Fresh off the news that it had closed a $52 million funding round last month, self-driving vehicle provider Seegrid is keeping its foot on the gas in its drive to position its vision guided vehicles (VGVs) in the material handling sector,"
     publishedDateTime: 2020-10-06T19:38:00Z

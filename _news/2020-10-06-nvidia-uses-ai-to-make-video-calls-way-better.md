@@ -30,67 +30,83 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA Jetson Nano 2GB is $59 gateway into AI and robotics"
-    excerpt: "That’s because it taps the same Jetson AI at the Edge platform as the rest of NVIDIA’s Jetson ... The Jetson Nano 2GB gets a 128-core NVIDIA Maxwell GPU and a 64-bit quad-core Arm A57 CPU running at 1.43 GHz. They’re combined with 2GB of LPDDR4 ..."
-    publishedDateTime: 2020-10-05T13:47:00Z
-    webUrl: "https://www.slashgear.com/nvidia-jetson-nano-2gb-is-59-gateway-into-ai-and-robotics-05641043/"
-    ampWebUrl: "https://www.slashgear.com/nvidia-jetson-nano-2gb-is-59-gateway-into-ai-and-robotics-05641043/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidia-jetson-nano-2gb-is-59-gateway-into-ai-and-robotics-05641043/amp/"
+  - title: "GTC 2020 round-up: Nvidia announces virtual world for robots, AI video calls"
+    excerpt: "Nvidia's GPU Technology Conference, also known as GTC, is all about artificial intelligence. We'll give you a rundown of everything that was announced."
+    publishedDateTime: 2020-10-05T16:22:00Z
+    webUrl: "https://www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/?amp"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 121
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 105
     images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/10/nvidia-jetso-nano-2gb.jpg"
-        width: 1559
-        height: 975
+      - url: "https://icdn4.digitaltrends.com/image/digitaltrends/nvidia-gtc-2020-jensen-huang-1200x630-c-ar1.91.jpg"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Nvidia spans AI from $59 Jetson Nano robots to massive datacenters on a chip"
-    excerpt: "Nvidia CEO Jensen Huang announced products ranging from a $59 Jetson Nano robot brain to massive data processing units for the enterprise."
-    publishedDateTime: 2020-10-05T13:07:00Z
-    webUrl: "https://venturebeat.com/2020/10/05/nvidia-spans-ai-from-59-jetson-nano-robots-to-massive-datacenters-on-a-chip/"
-    ampWebUrl: "https://venturebeat.com/2020/10/05/nvidia-spans-ai-from-59-jetson-nano-robots-to-massive-datacenters-on-a-chip/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/05/nvidia-spans-ai-from-59-jetson-nano-robots-to-massive-datacenters-on-a-chip/amp/"
+  - title: "GTC 2020 roundup: Nvidia’s virtual world for robots, A.I. video calls"
+    excerpt: "Nvidia's GPU Technology Conference, also known as GTC, is all about artificial intelligence. We'll give you a rundown of everything that was announced."
+    publishedDateTime: 2020-10-06T02:21:00Z
+    webUrl: "https://www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 89
+    images:
+      - url: "https://icdn4.digitaltrends.com/image/digitaltrends/jensen-huang-rtx-1200x630-c-ar1.91-n.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "AI Weekly: Nvidia’s Maxine opens the door to deepfakes and bias in video calls"
+    excerpt: "Will AI power video chats of the future? That’s what Nvidia implied this week with the unveiling of Maxine, a platform that provides developers with a suite of GPU-accelerated AI conferencing ..."
+    publishedDateTime: 2020-10-09T19:51:00Z
+    webUrl: "https://venturebeat.com/2020/10/09/ai-weekly-nvidias-maxine-opens-the-door-to-deepfakes-and-bias-in-video-calls/"
+    ampWebUrl: "https://venturebeat.com/2020/10/09/ai-weekly-nvidias-maxine-opens-the-door-to-deepfakes-and-bias-in-video-calls/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/09/ai-weekly-nvidias-maxine-opens-the-door-to-deepfakes-and-bias-in-video-calls/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 118
+    quality: 85
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/10/nvidia-DPU_BlueField-2X.jpg?w=1200&#038;strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/10/NVIDIA-Maxine-Streaming-Video-AI-Platform-GTC-e1601673784391.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 600
         isCached: true
-  - title: "The $59 Jetson Nano 2GB is proof Nvidia is serious about AI for everyone"
-    excerpt: "Nvidia's new $59 Jetson Nano 2GB proves that it is serious about machine learning for everyone, hobbyists included."
-    publishedDateTime: 2020-10-05T13:08:00Z
-    webUrl: "https://www.androidauthority.com/jetson-nano-2gb-1164788/"
-    ampWebUrl: "https://www.androidauthority.com/jetson-nano-2gb-1164788/amp/"
-    cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/jetson-nano-2gb-1164788/amp/"
+  - title: "Nvidia's new video conferencing platform matches Google and Microsoft on AI"
+    excerpt: "Nvidia's new video conferencing platform will help smaller competitors match the AI functionality of Microsoft Teams and Google Meet."
+    publishedDateTime: 2020-10-07T07:04:00Z
+    webUrl: "https://www.businessinsider.com/nvidia-video-conferencing-platform-matches-google-microsoft-on-ai-2020-10"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 88
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
     images:
-      - url: "https://cdn57.androidauthority.net/wp-content/uploads/2020/10/NVIDIA-Jetson-Nano-2GB-Dev-Kit-920x470.jpg"
-        width: 920
-        height: 470
+      - url: "https://i.insider.com/5f7c775b282c500018c78c79?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Nvidia claims its Jetson Nano is the ‘ultimate AI and robotics starter kit’"
-    excerpt: "Chipmaking giant Nvidia has expanded its Jetson AI at the Edge platform with an entry-level developer kit priced at $59, opening the potential of AI and robotics to a new generation of students,"
-    publishedDateTime: 2020-10-08T07:44:00Z
-    webUrl: "https://roboticsandautomationnews.com/2020/10/08/nvidia-claims-its-jetson-nano-is-the-ultimate-ai-and-robotics-starter-kit\u2028/37101/"
+  - title: "NVIDIA GTC Presentation On Trends For 2021 Showed They See More Business Artificial Intelligence Moving To Production"
+    excerpt: "While the message of the technical folks might still be a bit too focused on training, this presentation mentioned runtime more than I’ve previously heard. The industry application of AI is still relatively new,"
+    publishedDateTime: 2020-10-08T15:05:00Z
+    webUrl: "https://www.forbes.com/sites/davidteich/2020/10/08/nvidia-gtc-presentation-on-trends-for-2021-showed-they-see-more-business-artificial-intelligence-moving-to-production/"
+    ampWebUrl: "https://www.forbes.com/sites/davidteich/2020/10/08/nvidia-gtc-presentation-on-trends-for-2021-showed-they-see-more-business-artificial-intelligence-moving-to-production/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/10/08/nvidia-gtc-presentation-on-trends-for-2021-showed-they-see-more-business-artificial-intelligence-moving-to-production/amp/"
     type: article
     provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 64
     images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/10/nvidia-Jetson-Nano-2GB.jpg"
-        width: 750
-        height: 750
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg"
+        width: 876
+        height: 548
         isCached: true
   - title: "How Nvidia Is Fighting Disease With AI"
     excerpt: "Nvidia Corp. (NASDAQ: NVDA) shares jumped on Monday amid a flurry of updates from the semiconductor firm. Perhaps one of the most exciting updates was that Nvidia said it will be partnering with GlaxoSmithKline PLC (NYSE: GSK) to apply its artificial intelligence (AI) and supercomputers for the drug and vaccine discovery process."
@@ -124,38 +140,77 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "NVIDIA takes on Raspberry Pi with $59 Jetson Nano machine learning computer"
-    excerpt: "Entering as a more affordable to tinker with machine learning, the new NVIDIA Jetson Nano 2GB debuts with a $59 price tag, USB-C, and more."
-    publishedDateTime: 2020-10-05T21:07:00Z
-    webUrl: "https://9to5toys.com/2020/10/05/nvidia-jetson-nano-2gb/"
-    ampWebUrl: "https://9to5toys.com/2020/10/05/nvidia-jetson-nano-2gb/amp/"
-    cdnAmpWebUrl: "https://9to5toys-com.cdn.ampproject.org/c/s/9to5toys.com/2020/10/05/nvidia-jetson-nano-2gb/amp/"
+  - title: "VMware, Nvidia partner to boost AI, networking capabilities"
+    excerpt: "If there was any doubt Nvidia has arrived as an enterprise player, its deal with VMware should erase all doubt. The GPU developer and VMware announced at the recent VMworld 2020 conference that they plan to integrate their respective core technologies through a series of development and networking partnerships."
+    publishedDateTime: 2020-10-05T22:12:00Z
+    webUrl: "https://www.networkworld.com/article/3584403/vmware-nvidia-partner-to-boost-ai-networking-capabilities.html"
+    ampWebUrl: "https://www.networkworld.com/article/3584403/vmware-nvidia-partner-to-boost-ai-networking-capabilities.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3584403/vmware-nvidia-partner-to-boost-ai-networking-capabilities.amp.html"
     type: article
     provider:
-      name: 9to5Toys
-      domain: 9to5toys.com
+      name: Network World
+      domain: networkworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/05/nvidia-a100-gpu-100842029-large.jpg"
+        width: 1200
+        height: 678
+        isCached: true
+  - title: "NVIDIA Maxine uses AI to improve video calls and conferencing"
+    excerpt: "NVIDIA announced the NVIDIA Maxine platform, which uses AI to improve video calls and streaming ... Developers can apply for early access to NVIDIA Maxine now to start working on integrating the platform with their services and apps."
+    publishedDateTime: 2020-10-05T15:55:00Z
+    webUrl: "https://www.windowscentral.com/nvidia-maxine-uses-ai-improve-video-calls-and-conferencing"
+    ampWebUrl: "https://www.windowscentral.com/nvidia-maxine-uses-ai-improve-video-calls-and-conferencing?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/nvidia-maxine-uses-ai-improve-video-calls-and-conferencing?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
     quality: 57
     images:
-      - url: "https://9to5toys.com/wp-content/uploads/sites/5/2020/10/NVIDIA-Jetson-Nano.jpg?quality=82&strip=all"
-        width: 2000
-        height: 1000
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/10/nvidia-maxine.jpg"
+        width: 800
+        height: 600
         isCached: true
-  - title: "NVIDIA's Jetson Nano 2GB AI Dev Kit Delivers Single Board Goodness For An Attractive Price"
-    excerpt: "First introduced in 2014, NVIDIA's Jetson platform has been available to developers and tinkerers looking for cost-effective and powerful computing solutions for artificial intelligence and robotics applications."
-    publishedDateTime: 2020-10-05T14:02:00Z
-    webUrl: "https://hothardware.com/news/nvidia-new-jetson-nano-2gb-delivers-ai-dev-goodness-for-just-59"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-new-jetson-nano-2gb-delivers-ai-dev-goodness-for-just-59"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-new-jetson-nano-2gb-delivers-ai-dev-goodness-for-just-59"
+  - title: "NVIDIA’s AI-Based Video Compression Reduces Bandwidth to One-Tenth of H.264"
+    excerpt: "NVIDIA Maxine provides cloud-based suite of GPU-accelerated AI video conferencing software to enhance streaming video."
+    publishedDateTime: 2020-10-08T13:42:00Z
+    webUrl: "https://www.tvtechnology.com/equipment/nvidias-new-ai-based-video-compression-tech-reduces-bandwidth-to-one-tenth-of-h264"
+    ampWebUrl: "https://www.tvtechnology.com/amp/equipment/nvidias-new-ai-based-video-compression-tech-reduces-bandwidth-to-one-tenth-of-h264"
+    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/equipment/nvidias-new-ai-based-video-compression-tech-reduces-bandwidth-to-one-tenth-of-h264"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 49
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 57
     images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/53038/content/jetson_nano_2gb.jpg"
-        width: 708
-        height: 544
+      - url: "https://cdn.mos.cms.futurecdn.net/oAt9y535FRR44FCx6eWzkn-1200-80.jpg"
+        width: 725
+        height: 408
         isCached: true
+  - title: "Nvidia Opens GTC with Plans for AI Supercomputer for Biomedical Research"
+    excerpt: "Given the COVID-19 pandemic, Nvidia’s announcement of plans to build a new AI supercomputer – Cambridge-1 – dedicated to biomedical research and"
+    publishedDateTime: 2020-10-05T22:04:00Z
+    webUrl: "https://www.hpcwire.com/2020/10/05/nvidia-opens-gtc-with-plans-for-ai-supercomputer-for-biomedical-research/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 38
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/nvidia-dgx-superpod_630x.jpg"
+        width: 630
+        height: 307
+        isCached: true
+  - title: "Nvidia launches AI platform to improve video conferencing; Avaya on as partner"
+    excerpt: "Nvidia (NASDAQ:NVDA) Maxine is a cloud-based, GPU-accelerated AI platform that improves video conferencing streaming quality with features that include super-resolution, noise cancellation, and face relighting."
+    publishedDateTime: 2020-10-05T16:08:00Z
+    webUrl: "https://seekingalpha.com/news/3619863-nvidia-launches-ai-platform-to-improve-video-conferencing-avaya-on-partner"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 15
 
 secured: "j7iTOkclFxUPJUvXaDWSlR5T9Cn/K60AMy9YC8HWomW0qdaxPyeVP9xP+LaLlgBgpaoGJPlRDXzWTb/sE4YIHH3NAuQi1BlLr9OR88zsQbwIdltmYg1djjanpSQLpzFRMvB3EQa1ZybI+leQjCxJDluWCCt2Tx6pPiLnTB5WpORgIgYypxIqcAU8S0QWA38y4HLp6yPCsVTetxjW2ogDOlHylwoL/FE80/v873TAQCpccuaFrF7y6K1w6qzYmjItX1nz1/bp3grJLNW44Wd8g1ia1R9t0GDLW+dSFl9ulCfISjoWlWrCOvNzpxT2RArdvlAgisGFcGl4y8/txLhCELIJHG7khoGEzOqiOeSZXS0xECMC0L+ldRVR3KPFpr0s/5cXbBkY1TcirrMsd+qI0ui0oda7ReUCAzmqhcWq1NUtrYkCJZcd2uX5jmI054gRHOhyHoB5ZjIuU446qeTrbYoZdGzO/NPjOM9UBYbdhyrU/SljCo8Yfbt0os0WfG2foY+0UEMyfpifu2tYb6CaGw==;vbnJqCMPKidbwuHBv3FGHg=="
 ---

@@ -19,17 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "EXEIN TO SHOWCASE WORLD-CHANGING SECURITY SOLUTION AT GLOBAL AI CONFERENCE"
-    excerpt: "Developer to demonstrate first open source firmware security framework for IoT at NVIDIA GTC 2020. SANTA CLARA, Calif.— OCTOBER 5, 2020—NVIDIA GTC Digital— Exein CEO Gianni"
-    publishedDateTime: 2020-10-05T14:44:00Z
-    webUrl: "https://gisuser.com/2020/10/exein-to-showcase-world-changing-security-solution-at-global-ai-conference/"
-    ampWebUrl: "https://gisuser.com/2020/10/exein-to-showcase-world-changing-security-solution-at-global-ai-conference/amp/"
-    cdnAmpWebUrl: "https://gisuser-com.cdn.ampproject.org/c/s/gisuser.com/2020/10/exein-to-showcase-world-changing-security-solution-at-global-ai-conference/amp/"
-    type: article
-    provider:
-      name: gisuser.com
-      domain: gisuser.com
-    quality: 37
   - title: "Exein to Showcase World-changing Security Solution at Global AI Conference"
     excerpt: "GTC, taking place online, from October 5 to 9 2020, is the world's meeting place for the developers, researchers, scientists and engineers of the global AI community and provides a forum in which to exchange ideas and push the boundaries of the field."
     publishedDateTime: 2020-10-06T18:59:00Z
