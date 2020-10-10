@@ -2,6 +2,56 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-09-22-this-ai-powered-app-lets-you-say-goodbye-to-background-noise-during-video-calls-once-and-for-all.md",
+      "title": "This AI-Powered App Lets You Say Goodbye to Background Noise During Video Calls Once and for All",
+      "excerpt": "Disclosure: Our goal is to feature products and services that we think you'll find interesting and useful. If you purchase them, Entrepreneur may get a small share of the revenue from the sale from our commerce partners. With so many people working from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/356406",
+      "originalUrl": "https://www.entrepreneur.com/article/356406",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1600451525-krispimage4featuredimage.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/356406",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356406",
+      "publishedDateTime": "2020-09-22T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning.md",
       "title": "Microsoft unveils updates across Azure Cognitive Services and Azure Machine Learning",
       "excerpt": "During its Ignite 2020 conference, which kicked off virtually this morning, Microsoft announced updates to Azure Cognitive Services and Azure Machine Learning aimed at streamlining business ...",
@@ -1133,49 +1183,6 @@
         "TensorFlow",
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-fincen-files-show-banks-use-of-ai-and-machine-learning-effective-in-kycaml.md",
-      "title": "FinCEN Files Show Banks’ Use Of AI And Machine Learning Effective In KYC/AML",
-      "excerpt": "Documents submitted to FinCEN show that several of the largest global banks moved money on behalf of those involved in criminal financial activity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/security-and-risk/2020/fincen-files-banks-battle-kyc-aml/",
-      "originalUrl": "https://www.pymnts.com/news/security-and-risk/2020/fincen-files-banks-battle-kyc-aml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2019/05/FinCEN-guidance-virtual-currencies-cryptocurrency-457x319.jpg",
-          "width": 457,
-          "height": 319,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/security-and-risk/2020/fincen-files-banks-battle-kyc-aml/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/security-and-risk/2020/fincen-files-banks-battle-kyc-aml/amp/",
-      "publishedDateTime": "2020-09-21T20:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

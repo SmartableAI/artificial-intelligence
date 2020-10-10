@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2020-10-artificial-intelligence-language-tools
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-artificial-intelligence-language-tools-decode.amp"
 type: article
 quality: 50
-heat: -1
-published: false
+heat: 70
+published: true
 
 provider:
   name: Phys.org
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Combining AI and Nanotechnology to Create Robot-Assisted Molecular Manipulation"
-    excerpt: "A team of scientists from Forschungszentrum Jülich and TU Berlin is working on a project to create an autonomous artificial intelligence system with the ability to pick up and move individual molecules."
-    publishedDateTime: 2020-10-05T12:15:00Z
-    webUrl: "https://www.azonano.com/article.aspx?ArticleID=5561"
-    ampWebUrl: "https://www.azonano.com/amp/article.aspx?ArticleID=5561"
-    cdnAmpWebUrl: "https://www-azonano-com.cdn.ampproject.org/c/s/www.azonano.com/amp/article.aspx?ArticleID=5561"
-    type: article
-    provider:
-      name: AZoNano
-      domain: azonano.com
-    quality: 70
-    images:
-      - url: "https://www.azonano.com/images/Article_Images/ImageForArticle_5561_16018955172079789.png"
-        width: 950
-        height: 551
-        isCached: true
   - title: "Biology: UMD scientists use artificial intelligence language tools to decode molecular movements"
     excerpt: "University of Maryland researchers used an artificial intelligence system to create an abstract language from the constant motion of biological molecules, such as the lysozyme molecule shown here. This"
     publishedDateTime: 2020-10-09T10:21:00Z
@@ -57,6 +41,20 @@ related:
       - url: "https://www.tunisiesoir.com/wp-content/uploads/2020/10/Biology-UMD-researchers-use-artificial-intelligence-language-tools-to-decode.jpg"
         width: 707
         height: 723
+        isCached: true
+  - title: "UMD researchers use artificial intelligence language tools to decode molecular movements"
+    excerpt: "This is the first time a machine learning algorithm has been applied to biomolecular dynamics in this way, and the method's success provides insights that can also help advance artificial intelligence (AI). A research paper on this work was published on ..."
+    publishedDateTime: 2020-10-09T09:02:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-10/uom-uru100720.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 28
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/245268_web.jpg"
+        width: 668
+        height: 1008
         isCached: true
 
 secured: "H+nJkO12iBvIWXToEkOxbOjMQ8cHGE4rj5/0PdD62quz10twsJup6YVBjgty07aOFkNiwpBZSggBr/djqm9l6WHfRNivu9eUxUmTKwodd1qVDaJZjjRhmTZGWBuX9O18XyYHpmV9BVL/OLsRkrqJMaERx/H11vBiQwNXZVRTZHsIwIFNO/YVfCU+RqKKVwTgRojYSnvez9H4HTzHVGQ8h4zNdvMvfeLKDbwFFsois7AN/EW3GWGAe7uWwgUvPPBc6OFDtdYcxYC9P68fGcrMJid/4lDHV+2kL+JEVnHHPdCeLRB8o7iYKnqxhpUdy1DipzT3IJGhZlCQZjvXxWeNPKgCGHURyMUtReVEV3GCgL7Uu2yhl5JkJbkw5rHdgelf58ic6R04yQ5trO0gJfsIJpLDywW4T0ZKQ+0Lb6EItkdG4vdFkXNlwc0WbXJ5pPy+2hDUd/Kq9IYXaTrnO6IO+WquJHnImPHGXhDaTUY1U6kVxh4tw5wtJDM0E1C6SG+mHb3z9pDGdalsypaV/bhYGg==;GExI8qOaZ2fn9n9924BnUw=="

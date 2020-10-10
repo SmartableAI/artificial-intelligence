@@ -2,6 +2,48 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-09-29-deep-learning-model-provides-rapid-detection-of-stroke-causing-blockages.md",
+      "title": "Deep learning model provides rapid detection of stroke-causing blockages",
+      "excerpt": "A sophisticated type of artificial intelligence (AI) called deep learning can help rapidly detect blockages in the arteries that supply blood to the head, potentially speeding the onset of life-saving treatment,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-09/rson-dlm092220.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-09/rson-dlm092220.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.eurekalert.org/multimedia_prod/pub/web/243690_web.jpg",
+          "width": 1440,
+          "height": 1259,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-29T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-snowflake-looks-like-a-risky-bet-at-a-60-billion-plus-valuation.md",
       "title": "Snowflake Looks Like A Risky Bet At A $60 Billion Plus Valuation",
       "excerpt": "Snowflake, the cloud-based data warehousing company that went public recently, is valued at about $60 billion, or about $220 per share. The company trades at a whopping 230x trailing Revenues - well above many other high-growth SaaS names.",
@@ -1118,48 +1160,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-microsoft-now-supports-12-indian-languages-including-assamese.md",
-      "title": "Microsoft now supports 12 Indian languages including Assamese",
-      "excerpt": "Microsoft Translator, a cloud-based free translation and transcription service from Microsoft, has added support for Assamese, the official language of Assam spoken by more than 14 million people in the Northeast.",
-      "sourceUrl": null,
-      "webUrl": "https://www.compsmag.com/news/technology/microsoft-now-supports-12-indian-languages-including-assamese/",
-      "originalUrl": "https://www.compsmag.com/news/technology/microsoft-now-supports-12-indian-languages-including-assamese/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/09/Microsoft-now-supports-12-Indian-languages-including-Assamese.png",
-          "width": 920,
-          "height": 485,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.compsmag.com/news/technology/microsoft-now-supports-12-indian-languages-including-assamese/amp/",
-      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/microsoft-now-supports-12-indian-languages-including-assamese/amp/",
-      "publishedDateTime": "2020-09-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "compsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

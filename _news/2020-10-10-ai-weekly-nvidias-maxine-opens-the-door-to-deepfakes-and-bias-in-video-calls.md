@@ -111,22 +111,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Avaya to integrate Nvidia's Maxine cloud streaming video AI into Avaya Spaces"
-    excerpt: "For Avaya, the partnership with Nvidia will enable it to add more visual and virtual experiences to its collaboration platform."
-    publishedDateTime: 2020-10-05T13:00:00Z
-    webUrl: "https://www.zdnet.com/article/avaya-to-integrate-nvidias-maxine-cloud-streaming-video-ai-into-avaya-spaces/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/avaya-to-integrate-nvidias-maxine-cloud-streaming-video-ai-into-avaya-spaces/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/avaya-to-integrate-nvidias-maxine-cloud-streaming-video-ai-into-avaya-spaces/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
-    images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/08/11/aba79b5a-a9c8-4698-8d8b-8dd70e29bf21/thumbnail/1200x675/ed7c4de69d6167032d33a11221c7bf7e/thumb.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Nvidia's new video conferencing platform matches Google and Microsoft on AI"
     excerpt: "Nvidia's new video conferencing platform will help smaller competitors match the AI functionality of Microsoft Teams and Google Meet."
     publishedDateTime: 2020-10-07T07:04:00Z
@@ -204,6 +188,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/oAt9y535FRR44FCx6eWzkn-1200-80.jpg"
         width: 725
         height: 408
+        isCached: true
+  - title: "Nvidia Opens GTC with Plans for AI Supercomputer for Biomedical Research"
+    excerpt: "Given the COVID-19 pandemic, Nvidia’s announcement of plans to build a new AI supercomputer – Cambridge-1 – dedicated to biomedical research and"
+    publishedDateTime: 2020-10-05T22:04:00Z
+    webUrl: "https://www.hpcwire.com/2020/10/05/nvidia-opens-gtc-with-plans-for-ai-supercomputer-for-biomedical-research/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 38
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/nvidia-dgx-superpod_630x.jpg"
+        width: 630
+        height: 307
         isCached: true
   - title: "NVIDIA Announces Partnership with GSK’s AI-Powered Lab for Discovery of Medicines and Vaccines"
     excerpt: "GSK has recently established a new London- based AI hub, one of the first of its kind, which will leverage GSK’ s significant genetic and genomic data to improve the process of designing and developing transformational medicines and vaccines."

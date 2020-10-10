@@ -89,17 +89,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Nvidia unveils Jetson Nano 2GB for students and robot hobbyists"
-    excerpt: "Nvidia has debuted the Jetson Nano 2GB, a new developer kit for students and hobbyists with an interest in robotics. The Jetson Nano 2GB is geared towards robotics enthusiasts, students, and educators that want to enter the field of artificial intelligence (AI) and robotics."
-    publishedDateTime: 2020-10-05T13:00:00Z
-    webUrl: "https://www.zdnet.com/article/nvidia-unveils-jetson-nano-2gb-for-students-and-robot-hobbyists/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-unveils-jetson-nano-2gb-for-students-and-robot-hobbyists/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-unveils-jetson-nano-2gb-for-students-and-robot-hobbyists/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
   - title: "How Nvidia Is Fighting Disease With AI"
     excerpt: "Nvidia Corp. (NASDAQ: NVDA) shares jumped on Monday amid a flurry of updates from the semiconductor firm. Perhaps one of the most exciting updates was that Nvidia said it will be partnering with GlaxoSmithKline PLC (NYSE: GSK) to apply its artificial intelligence (AI) and supercomputers for the drug and vaccine discovery process."
     publishedDateTime: 2020-10-05T15:12:00Z

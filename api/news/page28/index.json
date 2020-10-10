@@ -2,6 +2,57 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-09-15-indian-ecommerce-player-snapdeal-uses-robots-for-last-mile-delivery.md",
+      "title": "Indian eCommerce player Snapdeal uses robots for last-mile delivery",
+      "excerpt": "The Covid-19 led lockdown and its impact on eCommerce resulted in the federal government approving drone-based deliveries in India in June. Though nothing more was heard on this front since, online marketplace Snapdeal has now announced that it had conducted last-mile delivery using robots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/in/news/indian-ecommerce-player-snapdeal-uses-robots-for-last-mile-delivery",
+      "originalUrl": "https://www.techradar.com/in/news/indian-ecommerce-player-snapdeal-uses-robots-for-last-mile-delivery",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/sYHeZM7HacnN6bsm9mivtY-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/in/amp/news/indian-ecommerce-player-snapdeal-uses-robots-for-last-mile-delivery",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/indian-ecommerce-player-snapdeal-uses-robots-for-last-mile-delivery",
+      "publishedDateTime": "2020-09-15T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-this-biotech-startup-just-raised-47-million-to-make-drugs-from-fungi.md",
       "title": "This Biotech Startup Just Raised $47 Million To Make Drugs From Fungi",
       "excerpt": "In order to find the next penicillin, Menlo Park-based startup Hexagon Bio uses an AI platform to sequence the genomes of fungi.",
@@ -1079,56 +1130,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-ibm-watson-powers-aipex-the-first-fully-ai-driven-index.md",
-      "title": "IBM Watson powers AiPEX, the first fully AI-driven index",
-      "excerpt": "With financial markets making historic gains and losses week after week, stability and risk mitigation are critical factors for success in equity investing. Historically, quantitative criteria for indexes offered through financial products and index annuities have relied exclusively on structured historical",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/09/ibm-watson-powers-aipex-the-first-fully-ai-driven-index/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/09/ibm-watson-powers-aipex-the-first-fully-ai-driven-index/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/09/1156_Watson_Blog_EquBot-HSBC_Leadspace_Final-990x498.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-14T09:02:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

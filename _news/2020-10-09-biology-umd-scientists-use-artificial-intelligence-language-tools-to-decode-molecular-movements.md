@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Combining AI and Nanotechnology to Create Robot-Assisted Molecular Manipulation"
-    excerpt: "A team of scientists from Forschungszentrum Jülich and TU Berlin is working on a project to create an autonomous artificial intelligence system with the ability to pick up and move individual molecules."
-    publishedDateTime: 2020-10-05T12:15:00Z
-    webUrl: "https://www.azonano.com/article.aspx?ArticleID=5561"
-    ampWebUrl: "https://www.azonano.com/amp/article.aspx?ArticleID=5561"
-    cdnAmpWebUrl: "https://www-azonano-com.cdn.ampproject.org/c/s/www.azonano.com/amp/article.aspx?ArticleID=5561"
-    type: article
-    provider:
-      name: AZoNano
-      domain: azonano.com
-    quality: 70
-    images:
-      - url: "https://www.azonano.com/images/Article_Images/ImageForArticle_5561_16018955172079789.png"
-        width: 950
-        height: 551
-        isCached: true
   - title: "Researchers use artificial intelligence language tools to decode molecular movements"
     excerpt: "By applying natural language processing tools to the movements of protein molecules, University of Maryland scientists created an abstract language that describes the multiple shapes a protein molecule can take and how and when it transitions from one shape to another."
     publishedDateTime: 2020-10-09T09:03:00Z
@@ -57,6 +41,20 @@ related:
     quality: 50
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/5-umdresearche.jpg"
+        width: 668
+        height: 1008
+        isCached: true
+  - title: "UMD researchers use artificial intelligence language tools to decode molecular movements"
+    excerpt: "This is the first time a machine learning algorithm has been applied to biomolecular dynamics in this way, and the method's success provides insights that can also help advance artificial intelligence (AI). A research paper on this work was published on ..."
+    publishedDateTime: 2020-10-09T09:02:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-10/uom-uru100720.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 28
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/245268_web.jpg"
         width: 668
         height: 1008
         isCached: true

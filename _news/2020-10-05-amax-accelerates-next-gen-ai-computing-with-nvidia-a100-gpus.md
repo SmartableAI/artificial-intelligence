@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amax-
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amax-accelerates-next-gen-ai-computing-with-nvidia-a100-gpus/article_c0d84a86-fb18-50b0-814c-e0e9d172523d.html"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -19,38 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "NVIDIA To Develop 400 Petaflop DGX A100 Supercomputer For UK AI Research"
-    excerpt: "The Cambridge-1 supercomputer will be an NVIDIA DGX SuperPOD supercomputer with over 400 petaflops of AI performance and eight petaflops of Linpack performance"
-    publishedDateTime: 2020-10-05T18:24:00Z
-    webUrl: "https://hothardware.com/news/nvidia-ai-supercomputer-cambridge-1"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-ai-supercomputer-cambridge-1"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-ai-supercomputer-cambridge-1"
+  - title: "Fujitsu Accelerates Advanced Workloads with New NVIDIA GPU-powered Server PRIMERGY GX2460 M1"
+    excerpt: "MUNICH, October 05, 2020 – Fujitsu is fuelling global data-driven transformation by making NVIDIA GPU-accelerated computing for advanced AI workloads accessible to mainstream customers. The expansion of its NVIDIA GPU-driven PRIMERGY GX server ..."
+    publishedDateTime: 2020-10-07T21:08:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/fujitsu-accelerates-advanced-workloads-with-new-nvidia-gpu-powered-server-primergy-gx2460-m1/"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 58
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 28
     images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/53044/content/nvidia-datacenter-hero.jpg"
-        width: 708
-        height: 398
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/Quantum_50423339286_b4b5d3c8b7_o-405x228.jpg"
+        width: 405
+        height: 228
         isCached: true
-  - title: "US chip firm Nvidia building UK supercomputer to boost coronavirus research"
-    excerpt: "US chip giant Nvidia said on Monday it is building Britain’s most powerful supercomputer, which will use artificial intelligence to help researchers solve pressing medical challenges, including those related to COVID-19."
-    publishedDateTime: 2020-10-05T16:50:00Z
-    webUrl: "https://english.alarabiya.net/en/coronavirus/2020/10/05/US-chip-firm-Nvidia-building-UK-supercomputer-to-boost-coronavirus-research"
-    ampWebUrl: "https://english.alarabiya.net/en/amp/coronavirus/2020/10/05/US-chip-firm-Nvidia-building-UK-supercomputer-to-boost-coronavirus-research"
-    cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/en/amp/coronavirus/2020/10/05/US-chip-firm-Nvidia-building-UK-supercomputer-to-boost-coronavirus-research"
+  - title: "AMAX Announces StorMax® 200Gb/s Storage Systems for Deploying Integrated AI Computing at Scale"
+    excerpt: "AMAX's HPC and AI Solutions Group announced the launch of its updated ultra-high-performance storage solution series,"
+    publishedDateTime: 2020-10-06T17:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/10/n17805761/amax-announces-stormax-200gbs-storage-systems-for-deploying-integrated-ai-computing-at-scale"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17805761"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17805761"
     type: article
     provider:
-      name: العربية.نت
-      domain: alarabiya.net
-    quality: 57
-    images:
-      - url: "https://vid.alarabiya.net/images/2020/10/05/f0a9d48e-6383-4b91-9156-a398e0944323/f0a9d48e-6383-4b91-9156-a398e0944323_16x9_600x338.jpg?width=466"
-        width: 466
-        height: 262
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 27
 
 secured: "9xhxUH6c4y/Sl1knx2k9Ece8wi/dE9kfcT6RTZduF8rK0wWxDb44uBUX6+FHoQHGrggqKjUkJlPl4WG72+UIikbr2cbLFQ4kcEgOJh2pF5niVpl5fmHKFqE7nU2/tMceQD2sY1y/48kX+XSg6boHRY7zcdki9YpyWCxyz8bwRrg+fSpYSsN9QVSgzdAipmUSBPGkxrXkWMoNPZDGFtRGy+zTDVqL+vl8PZvu4vkPYMdzIlB5tk1NfTfhc3Zw4qYlo/dPeyZhH9idcPUYQusFlK2sYVC04HJhqRzbM1+Bg1OKUdmVu/zFYtBYuwcnq1PHJQ95ASn7mDMdFrhKn3x8eeiui8KnLxAdO26XuiheaDekAMkmu7kPIkp6yDdqH1MCK20RLKNKxKl0BOQPNEjxwUoLbaCat7EoEUZkKl2lf/Tljgwh2TDajMs/pQ7Hsfx3daeu0s57v5bvIbWmWsva3poQiSbTY/ggaOt/mork4lMkRpCwVy7zxXTPY6XOkk2q6QgRnKZM5IWOIxyZTPz1rw==;OpSoCSPTr5SP0DokaWw/eg=="
 ---

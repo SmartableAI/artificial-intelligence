@@ -39,20 +39,6 @@ related:
         width: 1000
         height: 560
         isCached: true
-  - title: "Supermicro Expands its Portfolio Bringing Highest Density 4U Server with NVIDIA HGX A100s 8-GPU and 8U SuperBlade® Supporting 20 A100 PCI-E GPUs"
-    excerpt: "Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking solutions and green computing technology, today announced the doubling of GPU capabilities with a new 4U server supporting eight NVIDIA® HGX A100™ GPUs."
-    publishedDateTime: 2020-10-05T13:00:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-cloud-computing-computer-servers-computer-components-computing-and-information-technology-5c27741a8f075537b6955558f83ea1e6"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 2
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "IHcBmWz4TvB/NcwAV23D3TJg8R5SOl0I6D6Ysjgx2qjOyXsQNkCNpaaw4A4aMpbDmseH9mYSwrCK3KDRFcl6nbH63iT3UkVEiAcmWuFRVIzLRqOR/aqUjHqeV2+MWd8DNWzhRLgjq/i8w4b+e+CGBMfG04vY5Xht37OEVVp/N3sMA7uD6tSxXKR1vA7snOnoAjHZaBPbOQtKPiF/C+E6PwQ/e1YbgVE2Hp8sOHLOC1WFuUZfjauU9chBI9cDXJzLkYuS6nwV7DRg1Oass2tbNvA9Lfb+YOP4wTvtMBTlN5E9ZtcsUNTF0LeSEnm0oFEWpVHZOPFnIMiZEPhIfqyLGB2DqODd3wI9ojo8gYxL0nU=;aeEyGDNA1OtIP3TWPdqulg=="
 ---

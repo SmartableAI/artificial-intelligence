@@ -181,59 +181,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-08-nvidia-promises-the-pervasiveness-of-ai-and-a-new-data-center-architecture.md",
-      "title": "Nvidia Promises The Pervasiveness Of AI And A New Data Center Architecture",
-      "excerpt": "Nvidia has developed a new SoC dubbed the Data Processing Unit (DPU) to offload the data management and security functions, which have increasingly become software functions, from the main server CPU to an intelligent Network Interface Card (NIC).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2020/10/07/nvidia-promises-the-pervasiveness-of-ai-and-a-new-data-center-architecture/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2020/10/07/nvidia-promises-the-pervasiveness-of-ai-and-a-new-data-center-architecture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7e2aeb0c6bb2981900699b%2F0x0.jpg",
-          "width": 1061,
-          "height": 739,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2020/10/07/nvidia-promises-the-pervasiveness-of-ai-and-a-new-data-center-architecture/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/10/07/nvidia-promises-the-pervasiveness-of-ai-and-a-new-data-center-architecture/amp/",
-      "publishedDateTime": "2020-10-07T14:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2020-10-07-biochip-innovation-combines-ai-and-nanoparticle-printing-for-cancer-cell-analysis.md",
       "title": "Biochip innovation combines AI and nanoparticle printing for cancer cell analysis",
       "excerpt": "Electrical engineers, computer scientists and biomedical engineers at the University of California, Irvine have created a new lab-on-a-chip that can help study tumor heterogeneity to reduce resistance to cancer therapies.",
@@ -273,6 +220,109 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-nvidia-going-after-more-of-intels-data-center-business-with-new-processor-chips.md",
+      "title": "NVIDIA Going After More of Intel's Data Center Business With New Processor Chips",
+      "excerpt": "When announcing new artificial intelligence (AI) capabilities developed by his company earlier this year, NVIDIA (NASDAQ:NVDA) CEO Jensen Huang outlined a new type of processor that will become increasingly important in the years ahead: the data processing unit (DPU).",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/10/05/nvidia-going-after-more-of-intels-data-center-busi/",
+      "originalUrl": "https://www.fool.com/investing/2020/10/05/nvidia-going-after-more-of-intels-data-center-busi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F594099%2Fsemiconductor.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/05/nvidia-going-after-more-of-intels-data-center-busi/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/05/nvidia-going-after-more-of-intels-data-center-busi/",
+      "publishedDateTime": "2020-10-05T11:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-nvidia-is-building-an-ai-supercomputer-for-healthcare-research-in-england.md",
+      "title": "NVIDIA Is Building an AI Supercomputer for Healthcare Research in England",
+      "excerpt": "Dubbed Cambridge-1, the system will give healthcare researchers access to impressive artificial intelligence (AI) tools. The $52 million Cambridge-1 will be installed at the university it's named after, and is scheduled to come online by the end of 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/10/05/nvidia-is-building-an-ai-supercomputer-for-healthc/",
+      "originalUrl": "https://www.fool.com/investing/2020/10/05/nvidia-is-building-an-ai-supercomputer-for-healthc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F594100%2Fmedicine-ai-hands.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/05/nvidia-is-building-an-ai-supercomputer-for-healthc/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/05/nvidia-is-building-an-ai-supercomputer-for-healthc/",
+      "publishedDateTime": "2020-10-05T10:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -388,7 +438,7 @@
       "originalUrl": "https://www.slashgear.com/nvidia-jetson-nano-2gb-is-59-gateway-into-ai-and-robotics-05641043/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 211,
+      "heat": 201,
       "tags": null,
       "images": [
         {
@@ -1374,57 +1424,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-intel-details-chips-designed-for-iot-and-edge-workloads.md",
-      "title": "Intel details chips designed for IoT and edge workloads",
-      "excerpt": "Intel is targeting the IoT and edge computing market with new processor products, including the Atom x6000E Series, Pentium, Celeron N, and J Series.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/23/intel-details-chips-designed-for-iot-and-edge-workloads/",
-      "originalUrl": "https://venturebeat.com/2020/09/23/intel-details-chips-designed-for-iot-and-edge-workloads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/intel-raja.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 642,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/23/intel-details-chips-designed-for-iot-and-edge-workloads/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/23/intel-details-chips-designed-for-iot-and-edge-workloads/amp/",
-      "publishedDateTime": "2020-09-23T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

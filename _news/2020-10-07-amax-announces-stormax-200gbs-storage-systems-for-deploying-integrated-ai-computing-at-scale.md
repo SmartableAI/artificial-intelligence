@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/17805761"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17805761"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,31 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "AMAX Accelerates Next-Gen AI Computing With NVIDIA A100 GPUs"
+    excerpt: "AMAX's HPC and AI Solutions Group announced its series of next-generation NVIDIA A100 powered server systems that bring AI training, inference, and analytics"
+    publishedDateTime: 2020-10-05T14:34:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amax-accelerates-next-gen-ai-computing-with-nvidia-a100-gpus/article_c0d84a86-fb18-50b0-814c-e0e9d172523d.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 34
+  - title: "Fujitsu Accelerates Advanced Workloads with New NVIDIA GPU-powered Server PRIMERGY GX2460 M1"
+    excerpt: "MUNICH, October 05, 2020 – Fujitsu is fuelling global data-driven transformation by making NVIDIA GPU-accelerated computing for advanced AI workloads accessible to mainstream customers. The expansion of its NVIDIA GPU-driven PRIMERGY GX server ..."
+    publishedDateTime: 2020-10-07T21:08:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/fujitsu-accelerates-advanced-workloads-with-new-nvidia-gpu-powered-server-primergy-gx2460-m1/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 28
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/Quantum_50423339286_b4b5d3c8b7_o-405x228.jpg"
+        width: 405
+        height: 228
+        isCached: true
 
 secured: "EZbmx5pWHmCd1QvrBcGDiDG68uKxa/lfRIi4fUJms8Ng50BT+rfg137SIu8WkbwwksVyZG9qp1L2syq6CrKsFRfNkzzWzmxp/6Ch3vpTk2kiVcUQY/ECYr0NlDpPfBkLUx+//DZOTPVqO8oL9qoDjeSjrHYc7JqebPX1/HstQJUdL1utgLcDikxFby8zey70VZ5qmlOhBq7EMb/7squd73CRtu5urQy/FPLeD4q4PQ4qRUgIvIOB3Rqjn9Xuod/07EGV9EOIHpWHRKDizpqozye1KmF+uIubamLMNSoM82pEUbaZzjPV0eqYzx/qrzEJn9wPVQgOZstWku7nSrT74Ya86ZF+CSo09HaqL3X5IRo=;3Qb0GqH52XdYEJyJddehtw=="
 ---

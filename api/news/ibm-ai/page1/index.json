@@ -149,19 +149,19 @@
     {
       "path": "_news/2020-10-05-pediatric-diabetes-covid-19-and-artificial-intelligence-ibm-watson-supports-families-during-pandemic-shutdown.md",
       "title": "Pediatric Diabetes, COVID-19 and Artificial Intelligence: IBM Watson supports families during pandemic shutdown",
-      "excerpt": "Delivered by nine volunteers through IBM's ProBono initiative, the AI-powered virtual assistant ... Fred has been engaged more than 5000 times through Watson Assistant. The IBM ProBono volunteer ...",
+      "excerpt": "IBM Canada ProBono volunteer program delivers a virtual agent using Watson Assistant for Quebec's Diabetic Children Foundation",
       "sourceUrl": null,
-      "webUrl": "https://www.finanzen.net/nachricht/aktien/pediatric-diabetes-covid-19-and-artificial-intelligence-ibm-watson-supports-families-during-pandemic-shutdown-9359717",
-      "originalUrl": "https://www.finanzen.net/nachricht/aktien/pediatric-diabetes-covid-19-and-artificial-intelligence-ibm-watson-supports-families-during-pandemic-shutdown-9359717",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/pediatric-diabetes-covid-19-and-artificial-intelligence-ibm-watson-supports-families-during-pandemic-shutdown/article_87f23caf-5fca-5776-864e-ff75449d37b9.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/pediatric-diabetes-covid-19-and-artificial-intelligence-ibm-watson-supports-families-during-pandemic-shutdown/article_87f23caf-5fca-5776-864e-ff75449d37b9.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
-          "width": 600,
-          "height": 315,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/15/7152379e-0499-588a-a243-564e01ec897c/5f7af61ad3d78.image.jpg?resize=400%2C330",
+          "width": 400,
+          "height": 330,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -170,11 +170,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-05T04:59:00-07:00",
+      "publishedDateTime": "2020-10-05T03:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Finanzen",
-        "domain": "finanzen.net",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,48 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2020-09-02-rolls-royce-announces-breakthroughs-in-artificial-intelligence-ethics-and-trustworthiness.md",
+      "title": "Rolls-Royce announces breakthroughs in Artificial Intelligence ethics and trustworthiness",
+      "excerpt": "Royce has announced two breakthroughs in artificial intelligence ethics, which could help gain society’s trust of the technology and accelerate the next generation of",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/rolls-royce-announces-breakthroughs-in-artificial-intelligence-ethics-and-trustworthiness/",
+      "originalUrl": "https://indiaeducationdiary.in/rolls-royce-announces-breakthroughs-in-artificial-intelligence-ethics-and-trustworthiness/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Rolls-Royce.jpg?fit=400%2C400&ssl=1",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/rolls-royce-announces-breakthroughs-in-artificial-intelligence-ethics-and-trustworthiness/?amp",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/rolls-royce-announces-breakthroughs-in-artificial-intelligence-ethics-and-trustworthiness/?amp",
+      "publishedDateTime": "2020-09-02T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-02-intel-10nm-tiger-lake-cpus-will-be-in-50-new-laptops-coming-this-fall.md",
       "title": "Intel: 10nm Tiger Lake CPUs will be in 50 new laptops coming this fall",
       "excerpt": "Intel took the wraps off its not-so-secret central processing units (CPUs) codenamed Tiger Lake, built with a 10-nanometer manufacturing process. It may as well have been called Tiger Leak.",
@@ -1119,48 +1161,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-iit-delhi-establishes-school-of-artificial-intelligence.md",
-      "title": "IIT Delhi establishes School of Artificial Intelligence",
-      "excerpt": "Delhi has established an independent “School of Artificial Intelligence (ScAI)” on its campus. The institute is already a leader in the country and",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/iit-delhi-establishes-school-of-artificial-intelligence/",
-      "originalUrl": "https://indiaeducationdiary.in/iit-delhi-establishes-school-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2019/03/IIT-Delhi2.jpg?fit=600%2C314&ssl=1",
-          "width": 600,
-          "height": 314,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/iit-delhi-establishes-school-of-artificial-intelligence/?amp",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/iit-delhi-establishes-school-of-artificial-intelligence/?amp",
-      "publishedDateTime": "2020-09-02T02:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }
