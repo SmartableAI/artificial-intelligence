@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "MediaTek launches AI-enabled chip to power premium smart TVs"
-    excerpt: "Taiwan-based fabless semiconductor company MediaTek on Thursday unveiled the high-performance Smart TV chip with comprehensive features for modern 4K HDR displays."
-    publishedDateTime: 2020-10-08T10:16:00Z
-    webUrl: "https://www.iol.co.za/technology/gadgets/mediatek-launches-ai-enabled-chip-to-power-premium-smart-tvs-4e0a91c6-b861-4d1e-a218-8f8526433c0b"
-    ampWebUrl: "https://www.iol.co.za/amp/technology/gadgets/mediatek-launches-ai-enabled-chip-to-power-premium-smart-tvs-4e0a91c6-b861-4d1e-a218-8f8526433c0b"
-    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/gadgets/mediatek-launches-ai-enabled-chip-to-power-premium-smart-tvs-4e0a91c6-b861-4d1e-a218-8f8526433c0b"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 74
-    images:
-      - url: "https://image-prod.iol.co.za/resize/3400x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/5dc99b13-b345-5dcf-8b4f-829ee0e7770c&operation=CROP&offset=0x153&resize=3400x1913"
-        width: 650
-        height: 366
-        isCached: true
   - title: "MediaTek Launches AI-Enabled MT9602 Chip to Power Premium Smart TVs"
     excerpt: "MediaTek officially unveiled the high performance Smart TV SoC MT9602 with comprehensive features enabling modern 4K HDR displays. The new SoC is designed to de"
     publishedDateTime: 2020-10-08T07:31:00Z
@@ -59,6 +43,15 @@ related:
         width: 351
         height: 286
         isCached: true
+  - title: "MediaTek launches AI-enabled chip to power premium smart TVs"
+    excerpt: "New Delhi, Oct 8 (IANS) Taiwan-based fabless semiconductor company MediaTek on Thursday unveiled the high-performance Smart TV chip with comprehensive features for modern 4K HDR displays."
+    publishedDateTime: 2020-10-08T15:07:00Z
+    webUrl: "https://www.sify.com/news/mediatek-launches-ai-enabled-chip-to-power-premium-smart-tvs-news-education-ukim5Bbjbhdeb.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 34
 
 secured: "G2USgYKjaZ+rQEpp3uHgg9TMpxsvZg+ACk5OykLaZig284Cw3wB4OtD8daiFlgFrwCUuTuDYev6SlVmMjwgHF1/D1tSrItirbGPKHP3VautZiYl0rE2cPdnChC1ydmASjU/elvWIHO7CruuG6YfeKDHYQZdITGppEkKCRYkyJAedEyir0grlRc+WMCb5EYqLVhs1ulvY1REntPp5RvT4OT8uqbWkZLhBXeE/50DrXystqgOdOul2RRYDrlEJiLUymkJX51+El9d9MQKyK17PmpMbWjT8hmC9QMyV67fKt7uRUsaYEOTLoUjgPNViRPH+PkQzy9SP5macSC7LjVyg4Faw5S1rmZ62jzVu6wwicHU=;erXmbpmfv+utZoumDmUxVw=="
 ---

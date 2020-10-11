@@ -31,11 +31,11 @@ related:
   - title: "Solutions for curtailing gerrymandering could include artificial intelligence"
     excerpt: "It’s one of the most controversial aspects of politics: gerrymandering. That’s the process of mapping out districts for political representation in Congress and state legislatures. It’s highly politicized,"
     publishedDateTime: 2020-10-09T14:32:00Z
-    webUrl: "https://www.wcpo.com/news/national-politics/the-race-2020/solutions-for-curtailing-gerrymandering-could-include-artificial-intelligence"
+    webUrl: "https://www.thedenverchannel.com/news/national-politics/the-race-2020/solutions-for-curtailing-gerrymandering-could-include-artificial-intelligence"
     type: article
     provider:
-      name: WCPO Cincinnati
-      domain: wcpo.com
+      name: 7News and TheDenverChannel.com
+      domain: thedenverchannel.com
     quality: 49
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/7654b54/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fec%2F1a%2Ff327fb504c2f9e89239ec830173e%2Fframe-1038.jpg"

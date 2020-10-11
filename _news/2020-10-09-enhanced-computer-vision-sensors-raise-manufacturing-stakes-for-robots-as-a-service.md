@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/10/08/enhanced-computer-vision-sensors-r
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/08/enhanced-computer-vision-sensors-raise-manufacturing-stakes-for-robots-as-a-service/amp/"
 type: article
 quality: 114
-heat: 115
+heat: 114
 published: true
 
 provider:

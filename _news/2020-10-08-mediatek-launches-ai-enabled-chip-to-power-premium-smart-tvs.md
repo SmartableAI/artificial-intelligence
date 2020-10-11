@@ -1,30 +1,22 @@
 ---
 category: news
 title: "MediaTek launches AI-enabled chip to power premium smart TVs"
-excerpt: "Taiwan-based fabless semiconductor company MediaTek on Thursday unveiled the high-performance Smart TV chip with comprehensive features for modern 4K HDR displays."
-publishedDateTime: 2020-10-08T10:16:00Z
-originalUrl: "https://www.iol.co.za/technology/gadgets/mediatek-launches-ai-enabled-chip-to-power-premium-smart-tvs-4e0a91c6-b861-4d1e-a218-8f8526433c0b"
-webUrl: "https://www.iol.co.za/technology/gadgets/mediatek-launches-ai-enabled-chip-to-power-premium-smart-tvs-4e0a91c6-b861-4d1e-a218-8f8526433c0b"
-ampWebUrl: "https://www.iol.co.za/amp/technology/gadgets/mediatek-launches-ai-enabled-chip-to-power-premium-smart-tvs-4e0a91c6-b861-4d1e-a218-8f8526433c0b"
-cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/gadgets/mediatek-launches-ai-enabled-chip-to-power-premium-smart-tvs-4e0a91c6-b861-4d1e-a218-8f8526433c0b"
+excerpt: "New Delhi, Oct 8 (IANS) Taiwan-based fabless semiconductor company MediaTek on Thursday unveiled the high-performance Smart TV chip with comprehensive features for modern 4K HDR displays."
+publishedDateTime: 2020-10-08T15:07:00Z
+originalUrl: "https://www.sify.com/news/mediatek-launches-ai-enabled-chip-to-power-premium-smart-tvs-news-education-ukim5Bbjbhdeb.html"
+webUrl: "https://www.sify.com/news/mediatek-launches-ai-enabled-chip-to-power-premium-smart-tvs-news-education-ukim5Bbjbhdeb.html"
 type: article
-quality: 74
-heat: 94
-published: true
+quality: 34
+heat: -1
+published: false
 
 provider:
-  name: IOL News
-  domain: iol.co.za
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://image-prod.iol.co.za/resize/3400x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/5dc99b13-b345-5dcf-8b4f-829ee0e7770c&operation=CROP&offset=0x153&resize=3400x1913"
-    width: 650
-    height: 366
-    isCached: true
 
 related:
   - title: "MediaTek Launches AI-Enabled MT9602 Chip to Power Premium Smart TVs"
@@ -60,6 +52,6 @@ related:
         height: 425
         isCached: true
 
-secured: "6K3Bt48IRAIxPufsM6YYWn5DLj1C7p6FVoUUhrajUbqHFCfeT68gjc/Qp9nFOenB2Rm5mHfG+sHzjtRYoQ/qr4D2ZZ26r0TKCPIamj6vHCbn1z401jTid/vF1+ReKBg7xTXuuhhpI60gXkJql6h9ouPFcIfnMGRSNrZ10ZthvXjeW7gS+0GuwcT8bFHlbQ/sJxhERNXgAlE7i031BWPdlv1N3y+3rZqdoHWjSpPoyNdJxI+cX83SZd1WU1bBKxWuO6nBPOv122Czb2oJIFkUEBRqtdkWlqqce3M/8OhKcqTKaKdduAIKd47CF9f1PerEuspqtVtmk+/nprPZT+8mYA2izUYchxE5umKpcLu/dmPqXgvMDKqMOqvU4B+ZlhCZBRYYAZBFxynCYVdSKoJKNYhBy0frwLGyczY39gHK81nCkHL3cWaQ94mPoBYPn0YZdY/Npn9X4lD7lpVyFEuvhvqy8KLcMxBK7Sia2qOaYXtZbEljaNcnUrDjcDJmZHnz+iJuBIvLHwgycfes5w/yww==;SRvsBKEYlbn0ntbm2SRw/g=="
+secured: "JtZOHUocMUCTpTAqY17c2A5pgncHYJwKUCtxbQHonLZgdrDxrU9Ob5M7coZmI+DY0kR/ttLB//C7dg6UuWYOwT1B4WPqz6LAHrMdLLGUY5Nvb7S6XT4saSpbSh4iFDrX2+o1LTuMRjZ6YNcJn4o80sAcoDXBkVxHB2Aqzt7NxHhi/ep8dyIk8cE3ifxkdiwWj5XZnzDYgn6EI3+FLngySUW2K7K/7IpOZ3WhpETtdxltDtQsWBkFTOV4DlEa6mZYnn2wlFhDnVoRUQ2k+4EV+A+Mk0BzQepDHibdT/h0NtPu1IKYWedFVZWGkROc6nRz/yX45d9DFMLOKTxPJw+xHW51wT0QWs34swhW+6DySpk=;2+pByzhhqek85Ub0QUOIEg=="
 ---
 

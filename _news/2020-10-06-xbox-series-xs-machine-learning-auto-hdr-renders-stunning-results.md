@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/06/xbox-series-xs-machine-learning-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/06/xbox-series-xs-machine-learning-auto-hdr-renders-stunning-results/amp/"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:
