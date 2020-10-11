@@ -120,20 +120,6 @@ related:
         width: 725
         height: 408
         isCached: true
-  - title: "Nvidia outlines 'Age of AI', unveils next-gen data centre chips"
-    excerpt: "Heralding a new age of artificial intelligence (AI), graphics giant Nvidia has introduced next-gen chips for networking, storage and security, along with major announcements in data centres, edge AI,"
-    publishedDateTime: 2020-10-06T07:38:00Z
-    webUrl: "https://www.sify.com/news/nvidia-outlines-age-of-ai-unveils-next-gen-data-centre-chips-news-education-ukgflBgbhfjfg.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 56
-    images:
-      - url: "https://www.sify.com/uploads/nvidia_chip_bluefield2_uj4rUTiabbhch.jpeg"
-        width: 690
-        height: 460
-        isCached: true
   - title: "OSS Presents AI on the Fly® and Data Center in the Sky™ Solutions at NVIDIA’s GPU Technology Conference This Week"
     excerpt: "One Stop Systems, Inc., a leader in specialized high-performance edge computing, presented its AI on the Fly ® and Data Center in the Sky™ products and solutions at this week’ s GPU Technology Conference,"
     publishedDateTime: 2020-10-06T13:31:00Z

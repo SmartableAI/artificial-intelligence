@@ -7,7 +7,7 @@ originalUrl: "https://www.channele2e.com/investors/mergers-acquisitions/midis-si
 webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/midis-si-group-buys-rpa-consulting-firm-magnoos/"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -17,19 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "Midis acquires tech firm Magnoos Information Systems"
-    excerpt: "It will also increase its vertical focus by creating a strong digital ecosystem and increase our offerings in the AI/ML, AutoML space including ML Ops and help us explore VR/AR and MR Solutions."
-    publishedDateTime: 2020-10-06T08:01:00Z
-    webUrl: "https://www.itp.net/business/94074-midis-acquires-tech-firm-magnoos-information-systems"
-    ampWebUrl: "https://www.itp.net/business/94074-midis-acquires-tech-firm-magnoos-information-systems?amp"
-    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/business/94074-midis-acquires-tech-firm-magnoos-information-systems?amp"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 24
 
 secured: "dzRR6J2rt1nmSGNDBGBXSZKpAVumamFNzoOj40oazOghS4ayv2uOV6NogZV3pVN7DxQKaeF+ziaZYzWCu4BTTbDpBa39pu8uXvffupbDYEnG7yAHZkuk6e47Lio7WMHbEcATVhH8Hw4zn4kKm0azFIWTAnQMo9Y3oXvZsj7E8fT2umR5WJXXTO9vHMLbpmS/X9koOfvY/pwBjMVyciC7iHs5FfBOiGJxcxEwodU8moZGCW5crYFORCDWfhYwgOkDe67PJF3PW8QXBoTbt1rx0ea/9VNISUoTeOqEU3gJ+psbY3pr2lIumxupxBq0ES5igVpMTeqZuj7DoToy6a6EGZEK9jXHJ+3C9XGdTGzLges=;oa0iT1SIdxNXTfwbx7cSsQ=="
 ---

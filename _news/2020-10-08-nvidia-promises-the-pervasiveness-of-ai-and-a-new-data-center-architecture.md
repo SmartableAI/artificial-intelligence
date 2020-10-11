@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2020/10/07/nvidia-promis
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/10/07/nvidia-promises-the-pervasiveness-of-ai-and-a-new-data-center-architecture/amp/"
 type: article
 quality: 91
-heat: 201
+heat: 191
 published: true
 
 provider:
@@ -110,20 +110,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/oAt9y535FRR44FCx6eWzkn-1200-80.jpg"
         width: 725
         height: 408
-        isCached: true
-  - title: "Nvidia outlines 'Age of AI', unveils next-gen data centre chips"
-    excerpt: "Heralding a new age of artificial intelligence (AI), graphics giant Nvidia has introduced next-gen chips for networking, storage and security, along with major announcements in data centres, edge AI,"
-    publishedDateTime: 2020-10-06T07:38:00Z
-    webUrl: "https://www.sify.com/news/nvidia-outlines-age-of-ai-unveils-next-gen-data-centre-chips-news-education-ukgflBgbhfjfg.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 56
-    images:
-      - url: "https://www.sify.com/uploads/nvidia_chip_bluefield2_uj4rUTiabbhch.jpeg"
-        width: 690
-        height: 460
         isCached: true
   - title: "NVIDIA Rethinks AI: Next Gen Data Centers, Supercomputers For Healthcare & More at GTC Day 1"
     excerpt: "NVIDIA is launching Jetson Nano 2GB, the latest addition to the Jetson family. Jetson is an Arm-based System on Chip"

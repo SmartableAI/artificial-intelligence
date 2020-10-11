@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/global-augmented-intell
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-augmented-intelligence-market-2020-to-2027-by-technology-enterprise-size-end-user-and-geography-1029659165"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -22,19 +22,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Global Industrial, Enterprise, Military, and Consumer Automation and Robotics Market 2020-2025"
-    excerpt: "The \"Automation and Robotics Market in Industrial, Enterprise, Military, and Consumer Segments by Type, Components,"
-    publishedDateTime: 2020-10-06T07:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/10/g17794816/global-industrial-enterprise-military-and-consumer-automation-and-robotics-market-2020-2025"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17794816"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17794816"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 42
 
 secured: "/NE6py2u9f8XfUjtMm7sIUOTow9bxmFKXTxEAUBD/+QQfLlrSJd6x/8PHfB/5pZf+BAOdjV4+U7CvNRiK01DZzcnnVnWKF+mL7mZT7L3/SOSu7IhzDhuVOz9fhiZtqYwFbLgR6q9p1W2BdvfQlYnf2ckWHjZwMpOVsGORPz4PkX82buZtiTxA2fu2DuAdKbTlASO4n6vo6MvVKOUrCfAqZnztzZ0EC6RoFZ0z4mYjtYMcBrGcV3mNRCUyYTfZ4wquVbsv6D60cQEzUV1yFCwDIsaIMIH+tpeADTh4ZTyNYqQUc2qMJtuXtI3vsxTVnovMflWnWlgNSFQzXWLix3Sns3Z3K9EJVRkdo3iWgrPcT0=;zwJB1XH0hGeUITT/BK/t/Q=="
 ---

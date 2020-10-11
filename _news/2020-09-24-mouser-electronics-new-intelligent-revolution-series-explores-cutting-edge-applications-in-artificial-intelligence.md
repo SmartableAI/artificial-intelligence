@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Mouser Electronics’ New Intelligent Revolution Series Explores Cutting-Edge Applications in Artificial Intelligence"
-excerpt: "Mouser Electronics announces The Intelligent Revolution, a captivating new series in Mouser’s award-winning Empowering Innovation Together program."
-publishedDateTime: 2020-09-23T20:01:00Z
-originalUrl: "https://www.businesswire.com/news/home/20200923005723/en/"
-webUrl: "https://www.businesswire.com/news/home/20200923005723/en/"
+excerpt: "Artificial intelligence has revolutionized many high ... and identifying patterns in brain scans to predict the outcomes of speech therapy. As a global authorized distributor, Mouser offers ..."
+publishedDateTime: 2020-09-23T17:28:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20200923005723/mouser-electronics-new-intelligent-revolution-series-explores-cutting-edge-applications-in-artificial-intelligence"
+webUrl: "https://www.morningstar.com/news/business-wire/20200923005723/mouser-electronics-new-intelligent-revolution-series-explores-cutting-edge-applications-in-artificial-intelligence"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200923005723/en/824095/23/PRINT_EIT_IntelligentRevolution_eBook1.jpg"
-    width: 1200
-    height: 627
+  - url: "https://mms.businesswire.com/media/20200923005723/en/824095/4/PRINT_EIT_IntelligentRevolution_eBook1.jpg"
+    width: 480
+    height: 320
     isCached: true
 
-secured: "F22/V4nrms6T6poXLy12jUYtl08K/ZgNN7q8XWhZjXFwqwCO/mO5lHtqX4CL01IBmBR9sBNl2c99QPbOZGsVIKJSoz3ECx1ijuuu7Q1aoIUDtSxjI6qjLag86mzqDHQaafOWtA3PT8pv+NsARPtdfwjjojJcExlhl1qsvDOK90Yej+YN/vnI6G2d7WjoYfGjojpj1zNBQ2R4myGKaoAZuc0yLL2a+QbBbYoyFuvjTDPNHY3pCt+3Vc14vWzHu6vIm384/PplrZWKvV2QFw1Kk0byMQWs8aD8iAvgXhMBY0nRBMnPWgFLM5KeCLMPD2ARMc7Zn5vtXJmHRZ/HIB/pV0mCRjYphO/NuO90Ur9tOxLgG9MrB8VGUfVaUPxMTRz8LP/7KbOV3uypIEiQAJUgSrZVoI5F61tj5qVTHq/oogMsfhOdW2dbVQ9UeOCJLafyJjWX4nQURF3KFjqqe1M9Mw8DuL8o4XsiWFu0Ye4oNelk4/aHrD0H3NBjtWgoWMxc7i/md1xPS6IPHz7oAL3BbA==;y+UAwTYn0z2jWJcOzBoVgg=="
+secured: "yhKGYxw2DhoA5ywhInEEBO9TzIvgQq4KvLKkOx/GqAqTz9hhVwBheBQpIxP+l/WlW10BJiHz3GvC01rqeCAPdi//aLyU31PkKpgWU1tYSgBvbvu3ryRvavNXa2HrkSxKsVd9jy/eNEq3p5ynAzXXIi0gbvAB4LSbUQSsTfFb0piRF2Wx+U22NkPHeWw4asdU8Gg6XODpqbc9YCioqM6OSbUeHZ3ppgoA1fMapiAmNtabgsn4sSuH01XOzQpfzzL0lw2A6ff6oMgLykz1BjKK8a3SaTD/yfaHS/Ou4IV0sAcmsiJkUJOipPDAG2XVPbzn0bS5uEh+K+dWLhiFi+/Xa6aNReQhr1zTvkwjhN6yQgI=;8z0OtQDerk1ygGJhWPDk0Q=="
 ---
 

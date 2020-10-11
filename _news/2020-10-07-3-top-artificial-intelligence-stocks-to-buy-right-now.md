@@ -1,34 +1,24 @@
 ---
 category: news
 title: "3 Top Artificial Intelligence Stocks to Buy Right Now"
-excerpt: "Artificial intelligence (AI) involves using computers ... deploying AI brains into the Waymo self-driving car business, and applying these technologies to medical research and weather forecasting."
-publishedDateTime: 2020-10-07T13:48:00Z
-originalUrl: "https://www.fool.com/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/"
-webUrl: "https://www.fool.com/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/"
-ampWebUrl: "https://www.fool.com/amp/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/"
-cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/"
+excerpt: "Artificial intelligence (AI) involves using computers for tasks that normally require intelligent human behavior. AI systems can easily beat human grandmasters in chess, they have started to drive cars,"
+publishedDateTime: 2020-10-07T14:37:00Z
+originalUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-10-07?time=1602083216"
+webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-10-07?time=1602083216"
+ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-10-07?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-10-07?amp"
 type: article
-quality: 89
-heat: 109
+quality: 69
+heat: 79
 published: true
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - AI in Autos
+  - AI in Healthcare
   - AI
-
-images:
-  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F594319%2Fartificial-intelligence-digital-brain.jpg&w=1200&op=resize"
-    width: 1200
-    height: 800
-    isCached: true
 
 related:
   - title: "7 AI Stocks With More Hype Than Bite"
@@ -47,16 +37,7 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "How to Build an AI Business Strategy"
-    excerpt: "Combining these elements – the technology, and the commercial operations to which it is applied – play a big part in the development of a strategy that can be termed AI-first. Sometimes it’s as simple as knowing where to start. There is a lot of ..."
-    publishedDateTime: 2020-10-07T15:53:00Z
-    webUrl: "https://www.channele2e.com/business/digital-transformation/how-to-build-an-ai-business-strategy/"
-    type: article
-    provider:
-      name: ChannelE2E
-      domain: channele2e.com
-    quality: 17
 
-secured: "VpUtW1q53K0yIAQbG2XkR4TU8UbI+oL4lC+kG99YSlDYhLvv2MwdeUlIzodjVtA5dMHKnFNaLvzEXa/FnPAePgo8kGGR4nwfsxZJDBWuqfbADyZ2lW5xc/UWQsCXMZP+vxUxsbkGuU6F+8DdLr698QoTBBTzWAh2SaY90e+F8Zr48oItofVqthWoeXJLi8uvrvWyoNl+eQokB4AuYe9v2oz4Kmg7XWJfeNlLCSlkxSFWwRt3voMJX9hh8bXzRDRYTHiRwR2Dur6Hx707b9TxvmlvI3etHa+tXaka4OzjoYPeIq2haJ/0oRBg19iMMhHr9MvtHZD9eVelOciZIDcJnBIx2GxfqjI5n7oV6IX5M1M=;i0rG7npHuR3sVNapPn+bNQ=="
+secured: "vRnEzG4oVkaezF8i2ilAZgiwyiUwAUpXRVhDr5nB4hbNCkT5Z4h+RrBcuUV9BK5X3G6ewOx5717aC73215TRmeYsWpB7B0rH1aXH07nouoMT+21IK+gTWSuB01Gm/suFtT5X6emsiuUp+Jy6GEhHZ5ugAnZEOjCYuYFMlhldAuxYjSB946+1G9uVQTGB1iiXo0oKFAri72xllndDQLPGTNUyyG0QpDAHHMBNVr9yjprqXyn41ZElyiEqVO0ulna5Wr+7JhQMCid+Mx5FrjCRBKHhHHJt7uvkGswd8qb69daXTa2z865JLD+PVsJuRR5qPzV6I10f6ls4aK3LFSVf5j4ciDmX0nrWTJPqFwfqF1k=;jVfcRDs0RSfDWJa9DVs4tQ=="
 ---
 
