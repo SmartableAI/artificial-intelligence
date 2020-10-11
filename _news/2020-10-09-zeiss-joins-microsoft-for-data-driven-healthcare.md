@@ -56,20 +56,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
-    excerpt: "Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce its availability in the Microsoft"
-    publishedDateTime: 2020-10-06T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace/article_190f285f-3d77-5572-818c-015780303762.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 43
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/e1/ce1c5bc4-2af1-5b01-9b65-205e791e28d4/5f7c7229dcab8.image.jpg?resize=400%2C242"
-        width: 400
-        height: 242
-        isCached: true
   - title: "Dicom Systems Launches Enterprise Imaging Platform in the Microsoft Azure Marketplace, Deploys to a Leading National IDN"
     excerpt: "Dicom Systems, a healthcare IT software company, today announced the availability of Unifier enterprise imaging platform for medical imaging workflow, archiving, cloud, and"
     publishedDateTime: 2020-10-07T14:15:00Z

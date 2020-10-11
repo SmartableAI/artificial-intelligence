@@ -24,22 +24,6 @@ images:
     height: 533
     isCached: true
 
-related:
-  - title: "Imbio Partners with Genentech to Develop Imaging Diagnostics for Lung Diseases"
-    excerpt: "Imbio, a leading provider of artificial intelligence (AI) solutions for medical imaging analysis, has partnered with Genentech, a member of"
-    publishedDateTime: 2020-10-06T11:05:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/imbio-partners-with-genentech-to-develop-imaging-diagnostics-for-lung-diseases-301145739.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 20
-    images:
-      - url: "https://mma.prnewswire.com/media/345767/Imbio_Logo.jpg?p=facebook"
-        width: 1958
-        height: 1024
-        isCached: true
-
 secured: "EQD8QnbBRRCO9kAXAg+Hm9LEGm+mCjiHWf9w6UgnrDkJk/Qd1Mc20+57GIKhpjdvSYMjFVBI1JPgk+7AA79+QKIhtectC2L1kXAbS3WQkV5vquJ6MKsgCUFoejBkOeiLf0xFthfzxzhduZqDdbJTJyG0V2FMi6/uu1K0tOGmyOwDFcZleCLWJ6wrLC2fuUYmMVrJSXDDVr9t9zYdSiyNXSu2+FJVK3zx4z2BOSBaYnMdftHmuBdVO6UaPYT9UBxXqRaLq7GhxpjbEkKo3aH30iFMaKQWDFsfTl8LcoNrQoUZrKLTni8GuL3/qJIlgMyjDbHg72paigCbZoltr1ad1eT5hVCKCohk3gLHUTHXGGF0xufX46RiPGepE84gvB2cjMdDcKOC75pKHio310HjC93608xKcGyWvC2ijx3QIarNS5fcM3qn87BtPstzXcKhn5adECV73FUb5eCLxnJG+4W9M/7JqJVMToYk2hY+hN6wLpGyodaD88JW1oNb4kgIhNECjertXOvaw4V2nyq7Pw==;AxwUgw8dVySboBeXQT8Qeg=="
 ---
 

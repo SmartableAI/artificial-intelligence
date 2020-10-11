@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/innovation/highlights-from-nvidia-s-landmark
 webUrl: "https://www.eweek.com/innovation/highlights-from-nvidia-s-landmark-gpu-technology-conference"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Nvidia GPU Tech Conference wrap: What the sell side has to say"
-    excerpt: "The pace of innovation at Nvidia (NASDAQ:NVDA) is accelerating and \"execution is going into overdrive,\" says BMO Capital, hiking its price target on Nvidia to $650 from $565, suggesting about another 20% upside in the shares."
-    publishedDateTime: 2020-10-06T11:34:00Z
-    webUrl: "https://seekingalpha.com/news/3620042-nvidia-gpu-tech-conference-wrap-what-sell-side-to-say"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
 
 secured: "k7pF2kNP582TQ5EySvSrSHTDRoyCOMGhAROicftodgIOE2/eEp8fYGhoqyz98zwWtvFCS9olkK7pylok9RMKkcEHok42owX/JsWoCeof0y9A0ZBZwLQctcAcGfqmrQ3qqis4DG2PJqRZAnji9qVlNxO2mf6IoHzC3BGw0Mmks/RjgVG6w/gwT7J8xdsu7QxOlhbW3CDYfZB6D05pc66BsDPzLk1DyX8+LDFTclfLlmhacUkM3THSEp0/cQFxVTDryI6pk0OCFiLjsrBqAQ4J/nem4T2yIhUzN3FnKqDTtXIaZXMvQf6NoKJFGnVfRKxWJakDzzsDJ/kr2UWsRARrj9pd3N3Gxs46UA4vUVsWaH+UnWLqWhDOsS1AMFJ2Pl1++mtWI6wM/mhuRMDwCMv/JC7mDjG6DXzZQo52apsorK6CKDgT1gyUB5K1Phrz81cmMRNtjhqIghMztL9tP0wu6S121lrlQwdpMHlriWTFNTxrJzxYx7uG5yvHFY4L5HARArmI/pNcZRtqaxSL30pb1A==;teKdfcOf4Lw3t3IVok5P2Q=="
 ---

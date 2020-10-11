@@ -189,23 +189,32 @@
     {
       "path": "_news/2020-09-28-ai-drug-rd-startup-xtalpi-announces-over-300-million-series-c-investment-led-by-softbank-vision-fund-picc-capital-and-morningside.md",
       "title": "AI Drug R&D Startup XtalPi Announces Over 300 Million Series C Investment Led by SoftBank Vision Fund, PICC Capital, and Morningside",
-      "excerpt": "CAMBRIDGE, Mass. and SHENZHEN, China, Sept. 28, 2020 /PRNewswire/ -- XtalPi, an Artificial Intelligence (AI) drug discovery and development technology company, today announces an oversubscribed Series C funding of $318.",
+      "excerpt": "PRNewswire/ -- XtalPi, an Artificial Intelligence (AI) drug discovery and development technology company, today announces an oversubscribed Series C",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ai-drug-r-d-startup-xtalpi-announces-over-300-million-series-c-investment-led-by/article_a1fdd46a-63bc-50db-ae02-e4b6b3b97a7d.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ai-drug-r-d-startup-xtalpi-announces-over-300-million-series-c-investment-led-by/article_a1fdd46a-63bc-50db-ae02-e4b6b3b97a7d.html",
+      "webUrl": "https://www.prnewswire.com/news-releases/ai-drug-rd-startup-xtalpi-announces-over-300-million-series-c-investment-led-by-softbank-vision-fund-picc-capital-and-morningside-301139002.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/ai-drug-rd-startup-xtalpi-announces-over-300-million-series-c-investment-led-by-softbank-vision-fund-picc-capital-and-morningside-301139002.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/632519/XtalPi_Logo.jpg?p=facebook",
+          "width": 1000,
+          "height": 524,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-09-28T06:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null

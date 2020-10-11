@@ -9,7 +9,7 @@ ampWebUrl: "https://scienceblog.com/518900/where-artificial-intelligence-meets-u
 cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/518900/where-artificial-intelligence-meets-urban-planning/amp/"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Where Artificial Intelligence Meets Urban Planning"
-    excerpt: "First-year doctoral student is disseminating an AI program capable of changing the world of urban planning. Before you ever step into a new coffee shop, years of urban planning have gone into building that brick-and-mortar building in your neighborhood."
-    publishedDateTime: 2020-10-06T12:59:00Z
-    webUrl: "https://www.ucf.edu/news/where-artificial-intelligence-meets-urban-planning/"
-    ampWebUrl: "https://www.ucf.edu/news/where-artificial-intelligence-meets-urban-planning/?amp"
-    cdnAmpWebUrl: "https://www-ucf-edu.cdn.ampproject.org/c/s/www.ucf.edu/news/where-artificial-intelligence-meets-urban-planning/?amp"
-    type: article
-    provider:
-      name: UCF Today
-      domain: ucf.edu
-    quality: 57
-    images:
-      - url: "https://www.ucf.edu/news/files/2020/10/AI.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "POLITICO AI Summit: An AI-Powered World"
     excerpt: "The POLITICO AI Summit will bring together policymakers, federal officials, technologists, private-sector executives, scientists and advocates to explore the future of artificial intelligence."
     publishedDateTime: 2020-10-08T22:14:00Z

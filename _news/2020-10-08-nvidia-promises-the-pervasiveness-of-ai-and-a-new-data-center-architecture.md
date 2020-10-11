@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2020/10/07/nvidia-promis
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/10/07/nvidia-promises-the-pervasiveness-of-ai-and-a-new-data-center-architecture/amp/"
 type: article
 quality: 91
-heat: 191
+heat: 171
 published: true
 
 provider:
@@ -134,20 +134,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 43
-  - title: "OSS Presents AI on the Fly® and Data Center in the Sky™ Solutions at NVIDIA’s GPU Technology ..."
-    excerpt: "(Nasdaq: OSS), a leader in specialized high-performance edge computing, presented its AI on the Fly® and Data Center in the Sky™ products and solutions at this week’s GPU Technology Conference, a digital event hosted by NVIDIA,"
-    publishedDateTime: 2020-10-06T12:31:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-automobile-parts-manufacturing-f63b0e97cfdbbc2bbef4a46b6f4ebd0b"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 41
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Nvidia building AI supercomputer for Medical research after acquiring ARM"
     excerpt: "Nvidia announced recently that it was building the most powerful supercomputer in the UK’s history which will be dedicated for research in health."
     publishedDateTime: 2020-10-07T07:46:00Z
@@ -162,15 +148,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "OSS Presents AI on the Fly® and Data Center in the Sky(TM) Solutions at NVIDIA's GPU Technology Conference This Week"
-    excerpt: "(Nasdaq: OSS), a leader in specialized high-performance edge computing, presented its AI on the Fly ® and Data Center in the Sky™ products and solutions at this week’s GPU Technology Conference, a digital event hosted by NVIDIA,"
-    publishedDateTime: 2020-10-06T12:54:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2020/10/06/oss-presents-ai-on-the-fly-xae-and-data-center-in-the-sky-tm-solutions-at"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 11
 
 secured: "1bwkQ92LNTCxLoYnSLEYoWYB3BFW0je4DyhBRqjcejGElZkOpVz+9nteDHofUK4tGubkAQs7qMLwl+OoP0E/Du2ZaSP7dHl1RpWueBU/eWtKF0HqtnkzY3ugjg41Kvq3+QNfn8otigqRJ3dzU6Kdvz3S3H3MSyxWyfJVtKig7zAW8+LUzQrldOJTXls349IvxE2YNHz+9itbe4YqPJZ21yD+AFPkm3GiXEWhFCc5Nooi7XUQLhOKHrlrZp0+NJcFmkogELOv8ZV1qElg/7vymBfTDDCBBtse7Tkf3MD9NtJnFZGn9LjDkCl9pkW0nsWNviDr9zQRovlrE0gipQ5eeiiS4soUv8RJYk+fughZIfmTsTpKUxxV+E8+2n/h8+VT/4x6ifWHKbzvohatDC1oiHSyOgDu0xTgfvLOgommBeeP4gX92R3Ot5fdc+rlKSCiYLB6CxCSieQHpRffvhk1iDLZjKyfZHEU274JOKlV4hXnOGHIrjvdhdPtWM7j/1xks7ZVyuRoT9Br8Q8gkB24lQ==;oXupt0vSXvmNVW9iixyUow=="
 ---

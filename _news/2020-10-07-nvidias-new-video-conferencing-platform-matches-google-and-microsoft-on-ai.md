@@ -133,20 +133,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 43
-  - title: "OSS Presents AI on the Fly® and Data Center in the Sky™ Solutions at NVIDIA’s GPU Technology ..."
-    excerpt: "(Nasdaq: OSS), a leader in specialized high-performance edge computing, presented its AI on the Fly® and Data Center in the Sky™ products and solutions at this week’s GPU Technology Conference, a digital event hosted by NVIDIA,"
-    publishedDateTime: 2020-10-06T12:31:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-automobile-parts-manufacturing-f63b0e97cfdbbc2bbef4a46b6f4ebd0b"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 41
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Nvidia building AI supercomputer for Medical research after acquiring ARM"
     excerpt: "Nvidia announced recently that it was building the most powerful supercomputer in the UK’s history which will be dedicated for research in health."
     publishedDateTime: 2020-10-07T07:46:00Z
@@ -161,15 +147,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "OSS Presents AI on the Fly® and Data Center in the Sky(TM) Solutions at NVIDIA's GPU Technology Conference This Week"
-    excerpt: "(Nasdaq: OSS), a leader in specialized high-performance edge computing, presented its AI on the Fly ® and Data Center in the Sky™ products and solutions at this week’s GPU Technology Conference, a digital event hosted by NVIDIA,"
-    publishedDateTime: 2020-10-06T12:54:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2020/10/06/oss-presents-ai-on-the-fly-xae-and-data-center-in-the-sky-tm-solutions-at"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 11
 
 secured: "ogn3KG99Oj71K960T7U3h2euiEhGBJNVyapRB6hCtKppk/o3d0w0J/uOb4Q3+ga9lGwofq8PezmVQWZfZQP9yASmgPvRccWgKMhlUn62jIJnWpR6PNYG+/kmtFsrssohbg5U2NHeCE3hSdVlC9LDSTbpTGQaSckPkBdnTUhjK13Yv0ReXkWR6ld9OmwTV6G3G+5W9MUm2N8iSWx3WF0lEUoY6fdmXTAfdoxPv3Md5YyyH1/PItJD13tWM8zbajfpWkvNLROpTAGDM7Od3j+fJQXnnLUANMg5Uko2m/CvHyiQuzBXL/UdTzTVIsWhqTX1no5otpyDvcnLsL4nu/sk2b53dj+oPObaqWaXjL5Wuhs=;yzHojE2THHTVg4GMNscLbA=="
 ---

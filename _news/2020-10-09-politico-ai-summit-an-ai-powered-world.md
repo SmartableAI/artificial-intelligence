@@ -26,22 +26,6 @@ images:
 
 related:
   - title: "Where Artificial Intelligence Meets Urban Planning"
-    excerpt: "First-year doctoral student is disseminating an AI program capable of changing the world of urban planning. Before you ever step into a new coffee shop, years of urban planning have gone into building that brick-and-mortar building in your neighborhood."
-    publishedDateTime: 2020-10-06T12:59:00Z
-    webUrl: "https://www.ucf.edu/news/where-artificial-intelligence-meets-urban-planning/"
-    ampWebUrl: "https://www.ucf.edu/news/where-artificial-intelligence-meets-urban-planning/?amp"
-    cdnAmpWebUrl: "https://www-ucf-edu.cdn.ampproject.org/c/s/www.ucf.edu/news/where-artificial-intelligence-meets-urban-planning/?amp"
-    type: article
-    provider:
-      name: UCF Today
-      domain: ucf.edu
-    quality: 57
-    images:
-      - url: "https://www.ucf.edu/news/files/2020/10/AI.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Where Artificial Intelligence Meets Urban Planning"
     excerpt: "Before you ever step into a new coffee shop, years of urban planning have gone into building that brick-and-mortar building in your neighborhood. Urban"
     publishedDateTime: 2020-10-07T20:06:00Z
     webUrl: "https://scienceblog.com/518900/where-artificial-intelligence-meets-urban-planning/"

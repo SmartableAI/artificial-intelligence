@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Dogs' brains work differently than ours do in terms of facial cues, but they still love you"
-excerpt: "\"In dogs, for kin recognition and mate selection, facial cues are not more important than non-facial bodily cues, acoustic or chemical signals,\" Andics said.The full study, described by researchers as the first one of its kind, was published in the Journal ..."
-publishedDateTime: 2020-10-11T03:55:00Z
-originalUrl: "https://www.wbaltv.com/article/dogs-brains-work-differently-than-ours-do-in-terms-of-facial-cues-but-they-still-love-you/34337056"
-webUrl: "https://www.wbaltv.com/article/dogs-brains-work-differently-than-ours-do-in-terms-of-facial-cues-but-they-still-love-you/34337056"
-ampWebUrl: "https://www.wbaltv.com/amp/article/dogs-brains-work-differently-than-ours-do-in-terms-of-facial-cues-but-they-still-love-you/34337056"
-cdnAmpWebUrl: "https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/dogs-brains-work-differently-than-ours-do-in-terms-of-facial-cues-but-they-still-love-you/34337056"
+excerpt: "While faces are hugely important for visual communication in humans, the same can't be said for our canine companions."
+publishedDateTime: 2020-10-11T03:51:00Z
+originalUrl: "https://www.wesh.com/article/dogs-brains-work-differently-than-ours-do-in-terms-of-facial-cues-but-they-still-love-you/34337056"
+webUrl: "https://www.wesh.com/article/dogs-brains-work-differently-than-ours-do-in-terms-of-facial-cues-but-they-still-love-you/34337056"
+ampWebUrl: "https://www.wesh.com/amp/article/dogs-brains-work-differently-than-ours-do-in-terms-of-facial-cues-but-they-still-love-you/34337056"
+cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/dogs-brains-work-differently-than-ours-do-in-terms-of-facial-cues-but-they-still-love-you/34337056"
 type: article
 quality: 49
 heat: 49
 published: false
 
 provider:
-  name: WBALTV11
-  domain: wbaltv.com
+  name: WESH
+  domain: wesh.com
 
 topics:
   - Computer Vision
@@ -26,6 +26,6 @@ images:
     height: 406
     isCached: true
 
-secured: "BrSyJd6uL9rarhOoLzb3+vnfCo6vvCfEr0q0I1HgoYKKNmL9RsZtI3pAOl4d4z18RALH8pCcafTJKvnXAR9HXLUYWz6qs9gQJLE4msOGbrRfXNpSBVnkmIblVtfbcz89ymWjlGZz/kBsUTfbvPlMqgSEqHw3MFbuyiKUioXCFFLq/h3JKuqKQM9oOREKRmDwacX11EhWDb6sE1RcAwj6ffqnUNOW9pnoq1vAyKrOAIE9mjuHsZPVXXNvVTEKKxqbFVs7i1pTH0TTv6Zoi7VxMSNdK3SxOeWrB5w45W570ok18ZjuMviYJA+si8qpl1eC6Aev5wtXsdNBCTtnHKze3UpsQ1cyPoWMv1mEnPus1lE=;5idJJyPFNviN36pFXrVZYw=="
+secured: "J91uZ05/ESlXfeFDEb3MZlhg9pjUby6+mftAnyMPpxAFAsbtnO3Svl1tdm47qu5h7TLIZctdoTbBZAr4TBIYR0gtCwElcRNZlWrK5ygqLy6eUQONKuIw87qab0MMwO/FuYk5222NbACp7VqKkKzgCOxPDoXHe8o9pjJBu/sfwGnQZExbjpnl7tTa0wLVk2UEDzhHI+RHEpHu5kSPec2e51F74mKrrlXjM9xiCD75m5X4wZxygNaj8+0mNzsTsLB7vyyhYKduRe17UjLS9/JrDh6h07jaJLldI+3m9CLbbUNK6bw7Gg09eoSasE/miJpwTSsp5mTPa/a50HiIEUXvLtyq3ziFn9pixpJycEJ4pp8=;R40FnruiFVgloqa4h5YKJw=="
 ---
 

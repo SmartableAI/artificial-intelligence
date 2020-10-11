@@ -1,20 +1,26 @@
 ---
 category: news
 title: "IBM Brings Artificial Intelligence At Scale To The Marketing And Media Industry"
-excerpt: "IBM today announced three new products to add to its growing suite of AI solutions for brand and publishers. IBM intends to work with industry leaders, including Xandr/AT&T, Magnite, Nielsen, MediaMath,"
-publishedDateTime: 2020-10-05T13:25:00Z
-originalUrl: "https://www.nasdaq.com/press-release/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-2020"
-webUrl: "https://www.nasdaq.com/press-release/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-2020"
+excerpt: "PRNewswire/ -- IBM (NYSE: IBM ) today announced three new products to add to its growing suite of AI solutions for brand and publishers. The new capabilities are privacy-forward and designed to allow brands to reach consumers while considering user privacy."
+publishedDateTime: 2020-10-05T12:25:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-media-corporate-news-products-and-services-254490ca5afba0f32767555ae8f3ed47"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-media-corporate-news-products-and-services-254490ca5afba0f32767555ae8f3ed47"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - IBM AI
+  - AI in Healthcare
   - AI
 
-secured: "RMUHqiS8zdbgwT7WD6pq4f4Ei2gn8NOi9AnDM/mWQPouBuULf/X+jxDpZZOPFK0o878mP8FzETDLGxdUB45uHPWV7iO0/AXp3W2jZKniiUued43pAw2iJcCb1noalKcQ0HeZw5FkRnw+16nc07c9bMXRkxQYf25hl2iy+25gjpfQhInsDRYWNxfv/GLtNAKxucMQZvmJKku3TiZlRDVA4U6W8T1MXlz9j0qGwY65zaMEhxRdwEMFi7Mh9VuHUe/ve5ivYix0+uG2K2yghzNCI52neVH7RfPXGCusGea5a6pP7MrASlxgtj+VDZM6lkydcHNa11d4WN4ihz4GeIvL2D2lQAJ+xUohFrGbOdffTss=;lw02fnTCFARbprqSw2AqKA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "fqelEMVj6UzYX25Et4eaih1nBV7vxrKqb4jSsKXWzBaNivoQjJXT3nXqNrBPI8M4x9u4gikhBjnbNXT5ai8o98FGtXaKICjx/kp9C7uckK5DzqaNJ1/2BcyejIIYWTQ+JxUR09uNE7IB/dbTFb+7zt/BZ4o3wHCETk3uaOrvWpSsOHWV6kEeunKmOXl3wVt7kCcVG+17M1daLN7e+vxNFnlVxoMBNaF4+mDPICN5IVNapt/bS2HxzHN1s5Z48O+uICWgtF/18e59bowYqgplIzj3XX1CM1dy2UA9DYA0rm7t2ockt59mWhIUq23io8U/67hBPYjtYsYRCEmqw/zGO+Zzq7SwR0055DCHEnFIDJ8=;uEWGL65ifip/Otw7ZpyqiA=="
 ---
 

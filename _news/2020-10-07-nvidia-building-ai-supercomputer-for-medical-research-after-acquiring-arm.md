@@ -142,29 +142,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 43
-  - title: "OSS Presents AI on the Fly® and Data Center in the Sky™ Solutions at NVIDIA’s GPU Technology ..."
-    excerpt: "(Nasdaq: OSS), a leader in specialized high-performance edge computing, presented its AI on the Fly® and Data Center in the Sky™ products and solutions at this week’s GPU Technology Conference, a digital event hosted by NVIDIA,"
-    publishedDateTime: 2020-10-06T12:31:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-automobile-parts-manufacturing-f63b0e97cfdbbc2bbef4a46b6f4ebd0b"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 41
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "OSS Presents AI on the Fly® and Data Center in the Sky(TM) Solutions at NVIDIA's GPU Technology Conference This Week"
-    excerpt: "(Nasdaq: OSS), a leader in specialized high-performance edge computing, presented its AI on the Fly ® and Data Center in the Sky™ products and solutions at this week’s GPU Technology Conference, a digital event hosted by NVIDIA,"
-    publishedDateTime: 2020-10-06T12:54:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2020/10/06/oss-presents-ai-on-the-fly-xae-and-data-center-in-the-sky-tm-solutions-at"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 11
 
 secured: "MgJECCiuqeA3NOju1pHtYeQj9BrjF6G4t4UOWB333Az9JksQKQPt+IpioaGdrGpko06tPeUii5khfbT49HJ8Rygv8CBIIdVgPHrR/WuycXPEMyx4BCSJJZ9sOeaOIjUoyliXjPDhns+WbgLy9cqz3fC25wKqfQ2BvAjbkyom9Q76RQP4jerxRsAz/0qd4KqV5FQfyDtMczgIaa1W+kFpCUOBbvQnLPDXG9zLzAXWWSpKRrCbLED1QWdtHEcBLCfLXtcccxZIds5RfgjuuaiaKPqYuamaK+NJRMa6tCWI16vR2Kn1rQ66HzuAtBfhkFFVQ9I4kDQreYSTChZiIsTuacHgmq1j7nMz677WcLzwVe4=;5HrhOnK/Xbm9XyfJ0NTYQQ=="
 ---

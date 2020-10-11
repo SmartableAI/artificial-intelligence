@@ -1146,21 +1146,21 @@
       ]
     },
     {
-      "path": "_news/2020-09-30-systran-partners-with-ted-to-create-specialized-translation-models-expanding-professional-applications-of-machine-translation.md",
-      "title": "SYSTRAN Partners with TED to Create Specialized Translation Models Expanding Professional Applications of Machine Translation",
-      "excerpt": "PRNewswire/ -- SYSTRAN, the leader in AI-based translation technology, announces its new partnership with TED, a nonprofit organization devoted to Ideas Worth Spreading, to build",
+      "path": "_news/2020-09-30-how-artificial-intelligence-and-other-strategies-are-succeeding-in-the-fight-against-physician-burnout.md",
+      "title": "How artificial intelligence and other strategies are succeeding in the fight against physician burnout",
+      "excerpt": "A virtual roundtable featuring experts on physician burnout will be held October 28, 2020. Anyone may register to attend. Janae Sharp, founder of Sharp Index, will serve as modera",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/systran-partners-with-ted-to-create-specialized-translation-models-expanding-professional-applications-of-machine-translation/article_2876188d-59c2-5b5d-a412-76b6c422d0af.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/systran-partners-with-ted-to-create-specialized-translation-models-expanding-professional-applications-of-machine-translation/article_2876188d-59c2-5b5d-a412-76b6c422d0af.html",
+      "webUrl": "https://apnews.com/article/virus-outbreak-lung-disease-technology-health-diseases-and-conditions-147f362dbb3541c28e8918e74773bcc3",
+      "originalUrl": "https://apnews.com/article/virus-outbreak-lung-disease-technology-health-diseases-and-conditions-147f362dbb3541c28e8918e74773bcc3",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/bd/5bdf5785-9e57-5d52-a934-b7dbdfecc3fd/5f747897330a8.image.jpg?resize=400%2C347",
-          "width": 400,
-          "height": 347,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1169,11 +1169,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T05:22:00-07:00",
+      "publishedDateTime": "2020-09-30T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1183,7 +1183,7 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "AI in Healthcare",
         "AI"
       ]
     }
