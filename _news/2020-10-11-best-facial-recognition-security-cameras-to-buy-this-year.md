@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-securit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-to-buy-this-year/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://c.ndtvimg.com/2020-10/o20s9tco_darpan-som-soni_625x300_10_October_20.jpg"
         width: 650
         height: 400
+        isCached: true
+  - title: "Government 's facial recognition deal throws access to it wide open"
+    excerpt: "The government has done a deal over facial recognition technology that throws access to it wide open. The Department of Internal Affairs has signed a master agreement with a leading global biometrics tech supplier that just about any organisation,"
+    publishedDateTime: 2020-10-11T19:37:00Z
+    webUrl: "https://www.tvnz.co.nz/one-news/new-zealand/government-s-facial-recognition-deal-throws-access-wide-open"
+    ampWebUrl: "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMTAlMkYxMiUyRmdvdmVybm1lbnQtc2lnbnMtZmFjaWFsLXJlY29nbml0aW9uLWRlYWwtd2lkZS1hY2Nlc3M="
+    cdnAmpWebUrl: "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMTAlMkYxMiUyRmdvdmVybm1lbnQtc2lnbnMtZmFjaWFsLXJlY29nbml0aW9uLWRlYWwtd2lkZS1hY2Nlc3M="
+    type: article
+    provider:
+      name: TVNZ 1
+      domain: tvnz.co.nz
+    quality: 59
+    images:
+      - url: "https://news-image-prod-imgix.tech.tvnz.co.nz/content/dam/images/news/2020/08/19/iStock-1188510725.jpg?w=700&h=393.75&fit=crop&auto=format"
+        width: 700
+        height: 394
         isCached: true
   - title: "From AI to facial recognition: how China is setting the rules in new tech"
     excerpt: "In its bid to rival the US, Beijing wants to establish the industrial standards that will shape future industries"

@@ -57,6 +57,22 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Government 's facial recognition deal throws access to it wide open"
+    excerpt: "The government has done a deal over facial recognition technology that throws access to it wide open. The Department of Internal Affairs has signed a master agreement with a leading global biometrics tech supplier that just about any organisation,"
+    publishedDateTime: 2020-10-11T19:37:00Z
+    webUrl: "https://www.tvnz.co.nz/one-news/new-zealand/government-s-facial-recognition-deal-throws-access-wide-open"
+    ampWebUrl: "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMTAlMkYxMiUyRmdvdmVybm1lbnQtc2lnbnMtZmFjaWFsLXJlY29nbml0aW9uLWRlYWwtd2lkZS1hY2Nlc3M="
+    cdnAmpWebUrl: "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMTAlMkYxMiUyRmdvdmVybm1lbnQtc2lnbnMtZmFjaWFsLXJlY29nbml0aW9uLWRlYWwtd2lkZS1hY2Nlc3M="
+    type: article
+    provider:
+      name: TVNZ 1
+      domain: tvnz.co.nz
+    quality: 59
+    images:
+      - url: "https://news-image-prod-imgix.tech.tvnz.co.nz/content/dam/images/news/2020/08/19/iStock-1188510725.jpg?w=700&h=393.75&fit=crop&auto=format"
+        width: 700
+        height: 394
+        isCached: true
   - title: "Best facial recognition security cameras to buy this year - CNET"
     excerpt: "As President Trump’s National Security Advisor, John Bolton spent many of his 453 days in the room where it happened, and the facts speak for themselves. The result is a White House memoir that is the most comprehensive and substantial account of the Trump Administration,"
     publishedDateTime: 2020-10-11T08:35:00Z

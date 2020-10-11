@@ -121,6 +121,20 @@ related:
         width: 660
         height: 440
         isCached: true
+  - title: "Government facial recognition tech deal offers wide access"
+    excerpt: "The Department of Internal Affairs has signed an agreement with a global biometrics tech supplier that just about any organisation can join."
+    publishedDateTime: 2020-10-11T18:42:00Z
+    webUrl: "https://www.stuff.co.nz/national/crime/300130018/government-facial-recognition-tech-deal-offers-wide-access"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 39
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/o/m/q/d/image.related.StuffLandscapeSixteenByNine.1420x800.4yotsy.png/1602441234083.jpg"
+        width: 1420
+        height: 797
+        isCached: true
   - title: "Nigerian teens design phone app which helps dementia patients identify loved ones by showing them photos and plays them uplifting songs if facial recognition senses a change in ..."
     excerpt: "Irish girls took first place in the the Technovation World Summit with an app that helps dementia patients and caretakers. Memory Haven includes memory games and photo albums."
     publishedDateTime: 2020-10-09T21:28:00Z

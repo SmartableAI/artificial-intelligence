@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2020/10/07/smartphone-track
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/10/07/smartphone-tracking-data-and-artificial-intelligence-turn-peoples-movements-into-detailed-insights-and-profits/amp/"
 type: article
 quality: 82
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     width: 1199
     height: 500
     isCached: true
-
-related:
-  - title: "IBM Rolls Out New AI Products for Enhancing Advertising Reach"
-    excerpt: "At Advertising Week 2020, International Business Machines Corporation IBM announced the addition of three new AI-enabled offerings that will help advertising businesses to expand business reach while maintaining data privacy of the consumers."
-    publishedDateTime: 2020-10-07T00:29:00Z
-    webUrl: "https://www.nasdaq.com/articles/ibm-rolls-out-new-ai-products-for-enhancing-advertising-reach-2020-10-06"
-    ampWebUrl: "https://www.nasdaq.com/articles/ibm-rolls-out-new-ai-products-for-enhancing-advertising-reach-2020-10-06?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-rolls-out-new-ai-products-for-enhancing-advertising-reach-2020-10-06?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
 
 secured: "mCPDCrHqT6BAeA7Q/rg3KTq5RUEKC10kZFT6oZ97pvRAh1WLbLWWXZct0PMj3JlEhlTlLPlE8dnMwoWHLP/aB8oAbs5f8IMwxIBAstaFl3WT7baNQesQuzHSswMNMEoDYoeYN32Bu8D4XN0BLFgjuj2c80okZqDHuLykGvbM7vgJDNxSGiZNFnN1YuRiPGy+yXICM1e1zuTzjV7RVtbVbKmTEfEr8zWyLtA3Zx+dW4cPdnqfM+tPi45Mowpfcl+XktwuljiqF2ZbxDA0DhCv1jh+7VQU+7Ywmr4KFQZyMM9NxOaRPTkXvn3+W/YdzpKBrDi5ZGsMEmgMgmLCQvnnHAD8zdBjeT/ACPcOOtbIlOAKT/XvltxjrXoQtyGz4nSxXgSOCdNGKuXwetLaWlUIwm8twA+ihhSBgJFOuAHBHkxYrlyWwPv5UdwNCL1hlhqrDKcQ6YJ/9ulw2t04tbBPx7OStyXKdvdkHw99g73pRoPTyQYa+ul7pECNdfFIe5zyfwayrz4mOCExMdC5yCqsyw==;TkWWjU4Ebl/KoMaQDLJDCA=="
 ---

@@ -2,6 +2,57 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-09-29-azure-databricks-previews-parallelized-photon-query-engine.md",
+      "title": "Azure Databricks previews parallelized Photon query engine",
+      "excerpt": "The combination of these technologies boosts big data use cases including data engineering, machine learning, data science, and data analytics. Azure Databricks is intended to allow users to quickly set up optimized Apache Spark environments. It offers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3583657/azure-databricks-previews-parallelized-photon-query-engine.html",
+      "originalUrl": "https://www.infoworld.com/article/3583657/azure-databricks-previews-parallelized-photon-query-engine.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/01/spark-on-the-globe-shutterstock_7869750551-100827145-large.jpg",
+          "width": 1200,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3583657/azure-databricks-previews-parallelized-photon-query-engine.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3583657/azure-databricks-previews-parallelized-photon-query-engine.amp.html",
+      "publishedDateTime": "2020-09-28T11:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-new-army-accelerated-multi-node-attack-enabled-by-ai-at-project-convergence-2020.md",
       "title": "New Army ‘Accelerated Multi-Node Attack’ enabled by AI at Project Convergence 2020",
       "excerpt": "Gray Eagle drones were armed with HELLFIRE missiles and GBU-69 glide bombs, 155mm artillery weapons fired rounds 60km (37.3 miles) to destroy SA-22 enemy air defenses and armored ground combat vehicles directly hit multiple T-72 tanks during the Army’s Project Convergence 2020 at Yuma Proving Grounds,",
@@ -1100,48 +1151,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-how-analytics-and-ai-driven-processes-will-revolutionize-the-industrial-sector.md",
-      "title": "How Analytics and AI-driven Processes Will Revolutionize the Industrial Sector",
-      "excerpt": "Artificial Intelligence and analytics fall into four categories reflecting the type of insight delivered; these categories are predictive, performance, prescriptive and prognostic insights–the Four P’s of industrial AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/september-2020/analytics-ai-processes-revolutionize-industrial?listname=Automation & Control News & Articles",
-      "originalUrl": "https://www.automation.com/en-us/articles/september-2020/analytics-ai-processes-revolutionize-industrial?listname=Automation & Control News & Articles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/4e040a94-7b96-4132-94d9-6c07174cfd84/Jim-Chappell-sept-2020-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

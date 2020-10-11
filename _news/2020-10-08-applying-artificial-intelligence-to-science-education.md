@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2020-10-artificial-intelligence-science.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-artificial-intelligence-science.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Phys.org
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Signal, Noise and the Coming Era of AI Curation"
+    excerpt: "A look at how \"AI curation\" is being used to figure out what's useful information in the world of crypto and what's just fluff."
+    publishedDateTime: 2020-10-11T19:00:00Z
+    webUrl: "https://www.coindesk.com/ai-curation-speaking-of-bitcoin-podcast"
+    ampWebUrl: "https://www.coindesk.com/ai-curation-speaking-of-bitcoin-podcast?amp=1"
+    cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/ai-curation-speaking-of-bitcoin-podcast?amp=1"
+    type: article
+    provider:
+      name: CoinDesk
+      domain: coindesk.com
+    quality: 57
+    images:
+      - url: "https://static.coindesk.com/wp-content/uploads/2020/10/SOB-AI-Curation-From-Page-1200x628.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Applying artificial intelligence to science education"
     excerpt: "A new review published in the Journal of Research in Science Teaching highlights the potential of machine learning--a subset of artificial intelligence--in science education."
     publishedDateTime: 2020-10-07T04:06:00Z

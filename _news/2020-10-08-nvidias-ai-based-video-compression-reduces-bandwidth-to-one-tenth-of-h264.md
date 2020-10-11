@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Arm CEO Simon Segars discusses AI, data centers, getting acquired by Nvidia and more"
-    excerpt: "Nvidia is in the process of acquiring chip designer Arm for $40 billion. Coincidentally, both companies are also holding their respective developer conferences this week. After he finished his keynote at the Arm DevSummit,"
-    publishedDateTime: 2020-10-06T23:39:00Z
-    webUrl: "https://techcrunch.com/2020/10/06/arm-ceo-simon-segars-discusses-ai-data-centers-getting-acquired-by-nvidia-and-more/"
-    ampWebUrl: "https://techcrunch.com/2020/10/06/arm-ceo-simon-segars-discusses-ai-data-centers-getting-acquired-by-nvidia-and-more/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/06/arm-ceo-simon-segars-discusses-ai-data-centers-getting-acquired-by-nvidia-and-more/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 82
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-924830546.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "NVIDIA GTC Presentation On Trends For 2021 Showed They See More Business Artificial Intelligence Moving To Production"
     excerpt: "While the message of the technical folks might still be a bit too focused on training, this presentation mentioned runtime more than I’ve previously heard. The industry application of AI is still relatively new,"
     publishedDateTime: 2020-10-08T15:05:00Z

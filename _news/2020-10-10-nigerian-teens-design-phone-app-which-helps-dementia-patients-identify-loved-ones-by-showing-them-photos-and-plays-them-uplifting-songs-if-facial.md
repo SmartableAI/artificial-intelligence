@@ -138,6 +138,20 @@ related:
         width: 660
         height: 440
         isCached: true
+  - title: "Government facial recognition tech deal offers wide access"
+    excerpt: "The Department of Internal Affairs has signed an agreement with a global biometrics tech supplier that just about any organisation can join."
+    publishedDateTime: 2020-10-11T18:42:00Z
+    webUrl: "https://www.stuff.co.nz/national/crime/300130018/government-facial-recognition-tech-deal-offers-wide-access"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 39
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/o/m/q/d/image.related.StuffLandscapeSixteenByNine.1420x800.4yotsy.png/1602441234083.jpg"
+        width: 1420
+        height: 797
+        isCached: true
 
 secured: "SGrGSd5Sfo6gs1sSmqbQgDAeMQtv0SbPyZl8nNuOhrN5TTHsxG5hPvMIs6iMlV/BGuzfBb7Ic7a4jYT1XqsjBGqxkEwYXMvdRLVFkcjF8Bwa050m1C9lvsii4hA5wgzTrnIGH8RBCl26vdMJKOdvEWlQGVNjY9tGiX7A/HzGW9JeDN1GqxvHapT5c9xIFJy6C6rUtjq5WguiLyytkqsAmcaBh0kD70OKtGwrntkU7vju3TLcRrvB5e8hHO22w06ggXtIb6zTgLCRPXVVJqaPnT2GXQDnB/B9w8s0GSXQAVrCOlkBBL6QRRCGJiwfMOXXChgsxaIC6Rg2D8DXkQ1RQQPvO6gLUdfovf1o97n85I4=;fea3z9ylZ3MzqHaSv5uUSg=="
 ---

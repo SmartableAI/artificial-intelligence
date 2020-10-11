@@ -36,17 +36,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 80
-  - title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
-    excerpt: "Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce its availability in the Microsoft Azure Marketplace. Granulate's solution helps companies optimize workload performance and enables businesses to cut computing costs while improving performance with no code changes to their application."
-    publishedDateTime: 2020-10-07T02:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-1029652622"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-1029652622"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-1029652622"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 73
   - title: "ZEISS joins Microsoft for data-driven healthcare"
     excerpt: "ZEISS, a German manufacturer of optical systems and optoelectronics, and Microsoft has inked a multi-year strategic partnership for better patient care through data-driven healthcare and enhance quality and efficiency in manufacturing by embracing a cloud-first approach."
     publishedDateTime: 2020-10-08T17:32:00Z
