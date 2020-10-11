@@ -43,20 +43,6 @@ related:
         width: 3000
         height: 1685
         isCached: true
-  - title: "From AI to facial recognition: how China is setting the rules in new tech"
-    excerpt: "In its bid to rival the US, Beijing wants to establish the industrial standards that will shape future industries"
-    publishedDateTime: 2020-10-07T04:00:00Z
-    webUrl: "https://www.ft.com/content/188d86df-6e82-47eb-a134-2e1e45c777b6"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 53
-    images:
-      - url: "https://www.ft.com/assets/product/dynamic-barriers/global-trade.jpg"
-        width: 619
-        height: 377
-        isCached: true
 
 secured: "EEB8hjbGKWLCt3org/q9bq75kJXO6KeZyW1gjPKDZ3YzddiYNTvKxPm2vbAKfmt/B5IbRfU3hRWWlp+tYy3twMNRZM/orYd3n+1xvcldROwnHO2Acah9UTHIsZy8Sa9sHyUcXqhO9nopRKjA2dICuo/ToS3mnDK98mGj/jcZAvAK6OP75tGU9HI4fl7jZ4svKXHXB91EQw0UtgquoS1RZLk/0tbCbMAeIX6imLoa8MpQy7c4Q39aGbGeqODez1JthiBdkbia2izNQSLuC0RcWhOatjKhWLgpUgsG5QHRaf4BY+RUpb+B+Mbk6jUdcQWLVExa1CMf3MySDlvANoaZBQMzvoJ+dZ6noGnnWNhZLXtLuLoySQRLSPbNEHh4/UHSpyZUZL3VFZPL18LaSBXPaxsNES9giWR1ZxZRpWAwgCbRNzIcVycjW7p0W72t/mzLOR1bp8pjVHE9d3SMxz0st4UMUTs8v54YpmwGOXEHgWC6GEEXyGIGNqzn1fvar4QPAi8t0q1slKrgDVcNi1h4AA==;9GPfLwNbzlejmoawc+KtHA=="
 ---

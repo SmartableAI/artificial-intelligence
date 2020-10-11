@@ -1,93 +1,25 @@
 ---
 category: news
 title: "Microsoft Translator adds Assamese, strengthens support for 12 Indian languages"
-excerpt: "Microsoft India has announced the addition of Assamese as the latest Indian language in Microsoft Translator. The Azure-based service will now provide real-time"
-publishedDateTime: 2020-09-30T08:09:00Z
-originalUrl: "https://technuter.com/operating-system/microsoft/microsoft-translator-adds-assamese-strengthens-support-for-12-indian-languages.html"
-webUrl: "https://technuter.com/operating-system/microsoft/microsoft-translator-adds-assamese-strengthens-support-for-12-indian-languages.html"
-ampWebUrl: "https://technuter.com/operating-system/microsoft/microsoft-translator-adds-assamese-strengthens-support-for-12-indian-languages.html/amp"
-cdnAmpWebUrl: "https://technuter-com.cdn.ampproject.org/c/s/technuter.com/operating-system/microsoft/microsoft-translator-adds-assamese-strengthens-support-for-12-indian-languages.html/amp"
+excerpt: "Sundar Srinivasan – General Manager – AI & Search – Microsoft India ... Businesses can also avail multi-language support such as translation for e-content, e-commerce product catalogues, product documentation and internal communication, among ..."
+publishedDateTime: 2020-09-30T05:16:00Z
+originalUrl: "https://news.microsoft.com/en-in/microsoft-translator-adds-assamese-strengthens-support-for-12-indian-languages/"
+webUrl: "https://news.microsoft.com/en-in/microsoft-translator-adds-assamese-strengthens-support-for-12-indian-languages/"
 type: article
-quality: 55
-heat: -1
-published: false
 
 provider:
-  name: technuter.com
-  domain: technuter.com
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Microsoft AI
+  - Natural Language Processing
   - AI
+  - Microsoft AI
 
-images:
-  - url: "https://technuter.com/wp-content/uploads/2020/01/Microsoft.jpg"
-    width: 418
-    height: 335
-    isCached: true
-
-related:
-  - title: "Microsoft unveils Azure for Operators to unlock 5G potential"
-    excerpt: "Microsoft has announced a new cloud platform called Azure for Operators that has been designed to help telecommunications operators unlock the full potential of 5G. The new offering will help communication service providers create new opportunities and provide core infrastructure,"
-    publishedDateTime: 2020-09-30T11:08:00Z
-    webUrl: "https://www.itpro.co.uk/mobile/5g/357287/microsoft-unveils-azure-for-operators-to-unlock-5g-potential"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 84
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/v1570816662/itpro/2018/08/5g_shutterstock_750428755.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Microsoft Translator now support Assamese language"
-    excerpt: "The service is available on Microsoft Translator app, add-ins, Office 365, Bing Translator, and through the Azure Cognitive Services Translator API for businesses and developers. Users can translate Assamese text, supported by more than 70 languages ..."
-    publishedDateTime: 2020-09-30T18:54:00Z
-    webUrl: "https://www.digit.in/press-release/apps/microsoft-translator-now-support-assamese-language-56681.html"
-    ampWebUrl: "https://www.digit.in/article/amp/apps/56681/microsoft-translator-now-support-assamese-language"
-    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/apps/56681/microsoft-translator-now-support-assamese-language"
-    type: article
-    provider:
-      name: Digit
-      domain: digit.in
-    quality: 59
-    images:
-      - url: "https://static.digit.in/default/223b47fd8c7f598a1e46c43038d9d58c33f10470.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Microsoft Translator adds Assamese, strengthens support for 12 Indian languages"
-    excerpt: "Microsoft India has announced the addition of Assamese as the latest Indian language in Microsoft Translator. The Azure-based service will now provide real-time translation and"
-    publishedDateTime: 2020-10-04T18:02:00Z
-    webUrl: "https://indiaeducationdiary.in/microsoft-translator-adds-assamese-strengthens-support-for-12-indian-languages/"
-    ampWebUrl: "https://indiaeducationdiary.in/microsoft-translator-adds-assamese-strengthens-support-for-12-indian-languages/?amp"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/microsoft-translator-adds-assamese-strengthens-support-for-12-indian-languages/?amp"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 57
-    images:
-      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/04/microsoft.jpg?fit=463%2C260&ssl=1"
-        width: 463
-        height: 260
-        isCached: true
-  - title: "Microsoft Translator now supports Assamese too"
-    excerpt: "Microsoft India said on Wednesday that it has added Assamese as the latest Indian language in Microsoft Translator, increasing the number of Indian languages it supports to 12. The Azure-based service will now provide real-time translation and transliteration support for the language."
-    publishedDateTime: 2020-09-30T11:54:00Z
-    webUrl: "https://menafn.com/1100880896/Microsoft-Translator-now-supports-Assamese-too"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2020-09/30/I_9ee6f788-9image_story.jpg"
-        width: 400
-        height: 300
-        isCached: true
-
-secured: "yzx3kxHYwymf6IyVzp4YZp2anlvfodQvkP/A6KCXlFMbWxxJoEiRPk3KrXhYZoGvqNsRiQx2qR8j2VMbglYisxSpAHQOj+7/roYCtzqj6A6T5CX6Mbg3WrkbRuNbh44CM8Tc8KT0Fit/rsQmwXH+xieLSREfHa9AuLDp7/JbYol+H1I/SCHzoksL6lxmM9dNJ26tjXhzRZRWKZhJIGV3deTPhG1kWXdSysJ/bBjopflq+dNHjATqDoqVGF6LAn2TBW9474l5u0zoWzCil1OdXJojxv/R7lS1ImiJjuWjQLiC0Y/aWQa198MY2VcqWhn5uwHWBb92DwGtto2tcOXtvm9umtzmvcaVVIm5lxbieLM=;unPLb+2DCDHI3hh6To7H0A=="
+secured: "zgDQjXTiYlmYq7SkawUKx9G4ATk/HWEWYjTQ/LchOc6f9yKpWpguY2o+w9zlaD3SHpQbjhi5MNz5+vyAzQB0OmxxVX5NFFUbb9+sZleZ73zo4oZzPGFeIWK7OguShvMwnIVqWfWGKQEhtTM8pdozBOp+Dq72uFbCwyfhkQ20WZ8Z8E6tm0k83kv9xIBWjdugc+GQZPuxy1aRp4CLaX+WMD9oRsnVfHf+lKCW5MdZXdgaSRrw2pQ8ocb/mEy2bDFomsfRfR9GcnMyNc7NDz6rTICIqYXra/urlEgC0oF6FHpsRbvbDESyZCbsD39ZAbi1dggKMPlOhJGMba+QgXAKW/FbLpROkQJu5EbwKKgIuS4=;0zeNX+2+D8rK15NfnDLuRg=="
 ---
 

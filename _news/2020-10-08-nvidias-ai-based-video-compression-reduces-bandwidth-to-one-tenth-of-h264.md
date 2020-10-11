@@ -89,22 +89,6 @@ related:
         width: 876
         height: 548
         isCached: true
-  - title: "NVIDIA flexes its edge, AI muscles"
-    excerpt: "NVIDIA is becoming more influentialUnveils broad range of new products and initiativesStrengthens its support for Arm, which it plans to buy for $40 billion"
-    publishedDateTime: 2020-10-06T15:36:00Z
-    webUrl: "https://www.telecomtv.com/content/digital-platforms-services/nvidia-flexes-its-edge-ai-muscles-39838/"
-    ampWebUrl: "https://www.telecomtv.com/content/digital-platforms-services/nvidia-flexes-its-edge-ai-muscles-39838/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/nvidia-flexes-its-edge-ai-muscles-39838/amp/"
-    type: article
-    provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 59
-    images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/nvidia-ceo-10089.jpeg?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Nvidia building AI supercomputer for Medical research after acquiring ARM"
     excerpt: "Nvidia announced recently that it was building the most powerful supercomputer in the UK’s history which will be dedicated for research in health."
     publishedDateTime: 2020-10-07T07:46:00Z

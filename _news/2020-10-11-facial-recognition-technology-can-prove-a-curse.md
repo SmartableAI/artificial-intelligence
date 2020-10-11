@@ -25,35 +25,65 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition data leaks is rampant across China as Covid-19 pushes wider use of the technology"
-    excerpt: "Incorrectly configured databases remains a widespread security problem in China even as citizens increasingly express concerns."
-    publishedDateTime: 2020-10-08T03:47:00Z
-    webUrl: "https://www.scmp.com/abacus/tech/article/3104512/facial-recognition-data-leaks-rampant-across-china-covid-19-pushes"
-    ampWebUrl: "https://amp.scmp.com/abacus/tech/article/3104512/facial-recognition-data-leaks-rampant-across-china-covid-19-pushes"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/abacus/tech/article/3104512/facial-recognition-data-leaks-rampant-across-china-covid-19-pushes"
+  - title: "Best facial recognition security cameras to buy this year"
+    excerpt: "Select home security cameras have facial recognition, an advanced option that lets you make a profile of friends and family members who regularly come to your house. Then, when the camera sees a face,"
+    publishedDateTime: 2020-10-11T08:42:00Z
+    webUrl: "https://www.cnet.com/news/best-facial-recognition-security-cameras-to-buy-this-year/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-to-buy-this-year/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-to-buy-this-year/"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 74
+      name: CNET
+      domain: cnet.com
+    quality: 89
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/10/08/2e658938-077f-11eb-afc8-92e0da0ef1c3_image_hires_105537.jpg?itok=FA7tyBxR&v=1602125752"
+      - url: "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial recognition technology isn't ready for police use"
-    excerpt: "I discussed how some nightmares of tech-noir films are becoming reality. As an advocate for artificial intelligence (AI), my last intention is to stoke unreasonable fear over new technologies. Unfortunately,"
-    publishedDateTime: 2020-10-08T17:36:00Z
-    webUrl: "https://www.jhunewsletter.com/article/2020/10/facial-recognition-technology-isnt-ready-for-police-use"
+  - title: "Facial Recognition Software Helps Reunite Boy With Family After 5 Years"
+    excerpt: "A boy from Uttar Pradesh, who went missing five years ago, was traced to a child welfare home in Assam and reunited with his family, thanks to Telangana Police's facial recognition tool, DARPAN."
+    publishedDateTime: 2020-10-10T04:12:00Z
+    webUrl: "https://www.ndtv.com/india-news/facial-recognition-software-darpan-helps-reunite-autistic-boy-with-family-2307958"
+    ampWebUrl: "https://www.ndtv.com/india-news/facial-recognition-software-darpan-helps-reunite-autistic-boy-with-family-2307958?amp=1&akamai-rum=off"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/facial-recognition-software-darpan-helps-reunite-autistic-boy-with-family-2307958?amp=1&akamai-rum=off"
     type: article
     provider:
-      name: Johns Hopkins Newsletter
-      domain: jhunewsletter.com
-    quality: 39
+      name: NDTV
+      domain: ndtv.com
+    quality: 59
     images:
-      - url: "https://snworksceo.imgix.net/jhn/6ffb2208-cb6b-4bc4-9e76-33b4fa2b56a1.sized-1000x1000.png?w=800&h=600"
-        width: 720
-        height: 600
+      - url: "https://c.ndtvimg.com/2020-10/o20s9tco_darpan-som-soni_625x300_10_October_20.jpg"
+        width: 650
+        height: 400
+        isCached: true
+  - title: "From AI to facial recognition: how China is setting the rules in new tech"
+    excerpt: "In its bid to rival the US, Beijing wants to establish the industrial standards that will shape future industries"
+    publishedDateTime: 2020-10-07T04:00:00Z
+    webUrl: "https://www.ft.com/content/188d86df-6e82-47eb-a134-2e1e45c777b6"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 53
+    images:
+      - url: "https://www.ft.com/assets/product/dynamic-barriers/global-trade.jpg"
+        width: 619
+        height: 377
+        isCached: true
+  - title: "Facial recognition tested for Aadhaar authentication to financial services"
+    excerpt: "Pilots of face biometrics for Aadhaar authentication to financial services are being carried out by the Unique Identification Authority of India (UIDAI), Medianama reports. The pilot, being"
+    publishedDateTime: 2020-10-07T22:15:00Z
+    webUrl: "https://www.biometricupdate.com/202010/facial-recognition-tested-for-aadhaar-authentication-to-financial-services"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
         isCached: true
 
 secured: "sjn/z1cUG0xDkqLhPsEQ6zFBtyuuQXAtR3WrN7wgHCRiuXQLmDZDnjNswf/ikoIxfW1gqLrqElOB+6YkYimZrmgkx8tTCL0wr2x8TYyVi+OoN0T53XFpvLT7mxLd0KJUUG0Kbe62HRqk5fIhVlrFocjyZ5uaGl+X7BGSYd1trd1WfQJXX8vXWnxXyxPTa19qEHfaHcW9reqOwubyckl2ZhRSEgikTsMTzE109sleMm497O01mv/O2yNOEXSDHWT+WfGMRCPVqWnmpHe4iua4mhz3A35Gr92CJp4QjlFqVZwxCZC3A5xl6UDNhH2kJdiE+K97O34BWV8sIeiqSXbTVt7IM9Eabyw7fqHWMk3gsG+PnUwPGyjSc2D7OXB5w5NAQ0CCwzzbqVr2Mj5NF0HYZYsqMK04zttBUSycMXzlNjIqXW+j7Jt5ImMde3O6eO/a3lNznwUunrLcWk0TmMsj7zJ/4sAUwggy1X1iy5IN7OdmOJKR6GrtNVNJCEIX4Dwqu18A6E/+om0DSA5NLeFs9Q==;i+7UD6pR3VwLsNjlQvK2xw=="

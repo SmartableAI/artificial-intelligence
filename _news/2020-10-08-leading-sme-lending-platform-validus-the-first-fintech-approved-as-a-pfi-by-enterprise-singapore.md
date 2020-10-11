@@ -51,20 +51,6 @@ related:
         width: 800
         height: 480
         isCached: true
-  - title: "Lessons learnt by fintech firm Kabbage on their AI&ML journey"
-    excerpt: "Founder & President, Kabbage, gives her View From Sibos on the power and possibilities AI&ML can offer institutions. We learn about her own experiences building and implementing a machine learning solution to benefit small businesses that qualified for the Paycheck Protection Program,"
-    publishedDateTime: 2020-10-06T16:20:00Z
-    webUrl: "https://www.finextra.com/videoarticle/2392/lessons-learnt-by-fintech-firm-kabbage-on-their-aiml-journey"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 56
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/kathryn-aws.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "FinTech, Automotive AI, and More in This Week’s Top Mobile ID Stories"
     excerpt: "It's been another rich and varied week in Mobile ID World news, and that's reflected in this week's roundup of our most popular stories."
     publishedDateTime: 2020-10-10T18:50:00Z

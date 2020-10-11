@@ -7,7 +7,7 @@ originalUrl: "https://www.euractiv.com/section/digital/news/eu-nations-call-for-
 webUrl: "https://www.euractiv.com/section/digital/news/eu-nations-call-for-soft-law-solutions-in-future-artificial-intelligence-regulation/"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 800
     height: 450
     isCached: true
+
+related:
+  - title: "AI is revolutionising video codecs. Here's an impressive demonstration how"
+    excerpt: "NVIDIA has released a demo of how it is using AI to revolutionise video conferencing. This is the future of video codecs."
+    publishedDateTime: 2020-10-09T14:07:00Z
+    webUrl: "https://www.redsharknews.com/ai-is-revolutionising-video-codecs.-heres-an-impressive-demonstration-how"
+    ampWebUrl: "https://www.redsharknews.com/ai-is-revolutionising-video-codecs.-heres-an-impressive-demonstration-how?hs_amp=true"
+    cdnAmpWebUrl: "https://www-redsharknews-com.cdn.ampproject.org/c/s/www.redsharknews.com/ai-is-revolutionising-video-codecs.-heres-an-impressive-demonstration-how?hs_amp=true"
+    type: article
+    provider:
+      name: redsharknews.com
+      domain: redsharknews.com
+    quality: 57
+    images:
+      - url: "https://www.redsharknews.com/hubfs/NVIDIA%20is%20revolutionising%20video%20codecs-jpg.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "AI IN BANKING: How forward-looking banks are using maturing AI solutions to design both customer- and employee-facing innovations"
+    excerpt: "This report identifies AI use cases transforming the way FIs operate, the business impact of those use cases, and real-world examples of each."
+    publishedDateTime: 2020-10-06T18:48:00Z
+    webUrl: "https://www.businessinsider.com/ai-in-banking-report-2020"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+    images:
+      - url: "https://i.insider.com/5e616b4dfee23d6e9e10f232?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "Pg8Tnqhzp0YLOasaB93n7KnNOZ3XwJL7G6QTs3xFlDCf4QoiHYqadwspuF5IjNg1HYXOgs1ZpCF8Zy+XcBQ6TOAJt2/kxH9VS56IQ9Js15zoeEtPK8K4XR/qnbT5weXghI9c5i3Ciz2VZA0kPhYQnmCMjNrsQiqQYbXcn+vFVs2s0TtleiHPFhC8zoqhKgjCXdr7/DIEarsmf+YuzZbUsANjnig/xE6xkBwIs2iNs4+PX2oiGKgl6mhRQTbYTtq5TbJY1Hiz5gmxP/6WJnPl8qVAsj8EmnVg2c1GBowreSOMREKWpc/KOPegiPQ9A/Wqw5F+SSdpjakOKCTylsjhiylGCAG5/OK1ACczAMOHUbiupNcyM3vZPVZw4zsqJjANf5sFGNuiKrF5rUt3DqI/RcLKSpEfoD08/hHHxKbP4uq/xPRWFZUsKDHGcik8RrOg4Hbu1tu0c/91WOeRq0IgLskt2/3dA/hlIh+PZhtZbOQmW1zmaBB4Zi3qFzpy/5ZUHfP6mt0uwQWH3maP6+J80w==;cjKn9rSufs0Xs6M3lPT9BA=="
 ---

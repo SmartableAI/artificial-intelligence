@@ -28,19 +28,35 @@ images:
     isCached: true
 
 related:
-  - title: "Solutions for curtailing gerrymandering could include artificial intelligence"
-    excerpt: "It’s one of the most controversial aspects of politics: gerrymandering. That’s the process of mapping out districts for political representation in Congress and state legislatures. It’s highly politicized,"
-    publishedDateTime: 2020-10-09T14:32:00Z
-    webUrl: "https://www.thedenverchannel.com/news/national-politics/the-race-2020/solutions-for-curtailing-gerrymandering-could-include-artificial-intelligence"
+  - title: "AI is revolutionising video codecs. Here's an impressive demonstration how"
+    excerpt: "NVIDIA has released a demo of how it is using AI to revolutionise video conferencing. This is the future of video codecs."
+    publishedDateTime: 2020-10-09T14:07:00Z
+    webUrl: "https://www.redsharknews.com/ai-is-revolutionising-video-codecs.-heres-an-impressive-demonstration-how"
+    ampWebUrl: "https://www.redsharknews.com/ai-is-revolutionising-video-codecs.-heres-an-impressive-demonstration-how?hs_amp=true"
+    cdnAmpWebUrl: "https://www-redsharknews-com.cdn.ampproject.org/c/s/www.redsharknews.com/ai-is-revolutionising-video-codecs.-heres-an-impressive-demonstration-how?hs_amp=true"
     type: article
     provider:
-      name: 7News and TheDenverChannel.com
-      domain: thedenverchannel.com
-    quality: 49
+      name: redsharknews.com
+      domain: redsharknews.com
+    quality: 57
     images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/7654b54/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fec%2F1a%2Ff327fb504c2f9e89239ec830173e%2Fframe-1038.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.redsharknews.com/hubfs/NVIDIA%20is%20revolutionising%20video%20codecs-jpg.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "EU nations call for ‘soft law solutions’ in future Artificial Intelligence regulation"
+    excerpt: "Fourteen EU countries have set out their position on the future regulation of Artificial Intelligence, urging the European Commission to adopt a \"soft law approach\"."
+    publishedDateTime: 2020-10-08T14:34:00Z
+    webUrl: "https://www.euractiv.com/section/digital/news/eu-nations-call-for-soft-law-solutions-in-future-artificial-intelligence-regulation/"
+    type: article
+    provider:
+      name: EURACTIV
+      domain: euractiv.com
+    quality: 32
+    images:
+      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2020/10/shutterstock_1343083016-800x450.jpg"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "XixXfb2osLZKe3nQVH0Ii8V5mzBTAnJwuuftDW+i1wOpyijmWgY0R2EDoLL8+9pYfMTgX4AEshHyCrnocIWRmUq+Gr0V/iqKU3qo5mnL/uY9J9WSG+oNg8pvyVUniPF3I/VWa/XkQZZ3cL1FvhwM1tMZMHjY1cpCubZVRTHEGFNExRu/qxV2680OtimJxG6K95fhS1wMGzcq9HQXgDA5j7Rnf8sEi4cZ/yrhamx57cMm75pWsl4yKXrx+xTnjDgP+PbeiMCbMD06+sej82j5oYlxZoNlMk1XlkCd/ceQ4uyVrG0E6NAQN1eEk+1AbvXtfcHfgrB88Qt9F6nHpA3QImLCSve/d1xgM1kfOct5pFycAe/U3osXYrZ+1OWCc5RQSK8yfYVVUCyCDcnXTqlTVGdjZqlDhZyMEP4usYygmDGt4eKKBuNAj0HosNel1juc3bwoEX1DzKhO/7EO8ZLJLNb1omwPEyDugDhW24M4Nk5xFeKCGFeImsQKvxWof26cnwKartdSvMSbSmWLGUTy9g==;X0khHTtyvkeXZ/uhPpHygw=="

@@ -3,10 +3,10 @@ category: news
 title: "IBM Enters Esports Arena with Activision Blizzard in New Multi-Year Deal as the Presenting Partner of the Overwatch League Grand Finals"
 excerpt: "Those solutions, which are currently under development, will leverage IBM's suite of analytics tools to process in-match data, adding Watson's AI capabilities through the use of Watson Machine ..."
 publishedDateTime: 2020-10-09T04:11:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-1029664318"
-webUrl: "https://markets.businessinsider.com/news/stocks/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-1029664318"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-1029664318"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-1029664318"
+originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-1029664315"
+webUrl: "https://markets.businessinsider.com/news/stocks/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-1029664315"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-1029664315"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-1029664315"
 type: article
 quality: 22
 heat: -1
@@ -154,6 +154,6 @@ related:
         height: 1206
         isCached: true
 
-secured: "LuIsM7mK4CKt8+g5umy33DtzBKtYoeaE/kAsxPEOQhdtu+i+YTCEUCucJjo49jiTABLujKBrGMp8Q/mEM/NyZYmGfztE2zfdG9qjb7YNkY/lz+/WxXDfONUbz4cbyBl1oNpx0vbL9zagkYVKX756Ky/gu6AL+NzDX1X5DEaMuwj07a9FU4ql2ytTQiGYmMJy1O65YbhQZHLnKSGsXY4ttwGH6eQqr0mFrxgcJ2EyioNAisuHplsOhsyQ6C7O6iHAgXVfv6uGolWqxSnFxGNMgoLESUYoHbLlzvk863o1ADXw9LYPYUZAHy9cEgcqa/c6hVvVf5OAW1NHrDiUKt7zLAnWR8gQmjQiCl1VvK0mKqo=;Ldk1gpjD1tcUoM8eWrYYEQ=="
+secured: "FS2TiGeaNahZ/KOX2LqwWxIseefYpw8iodrzEjM5/Ne7N9701BxmZSXq0K/Zz1KFLYu2hU9U1+VmgYvHmrxYWNFxacUppDuL66Sen6OZhB16hyftxmdbaxyp5xB/JVYF29fgp+nfOnPjwo8UVaqwNX91swI+OA43oS7pQ/aFpjGKmd1YclWShviDdjVNK6FCiJ39FQYZyqeEoI4PRbDJHhh9RyIsQNXhwJbJFc3GQkVJ7CsBX+wL6tI34beYdFM/LB6+NZroLi1/uuI6NwyT/L3BpaaRSsvPUBd+72R5PP0qQht8NmjL2kMNWeoMe/o1sQ/FRtLhU7hSWBLfWB8Kbn+L6ka44IHHgyjAZLKPanw=;TV12mK5cmhZCHPureDqYkA=="
 ---
 

@@ -77,22 +77,6 @@ related:
         width: 876
         height: 548
         isCached: true
-  - title: "NVIDIA flexes its edge, AI muscles"
-    excerpt: "NVIDIA is becoming more influentialUnveils broad range of new products and initiativesStrengthens its support for Arm, which it plans to buy for $40 billion"
-    publishedDateTime: 2020-10-06T15:36:00Z
-    webUrl: "https://www.telecomtv.com/content/digital-platforms-services/nvidia-flexes-its-edge-ai-muscles-39838/"
-    ampWebUrl: "https://www.telecomtv.com/content/digital-platforms-services/nvidia-flexes-its-edge-ai-muscles-39838/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/nvidia-flexes-its-edge-ai-muscles-39838/amp/"
-    type: article
-    provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 59
-    images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/nvidia-ceo-10089.jpeg?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "NVIDIA’s AI-Based Video Compression Reduces Bandwidth to One-Tenth of H.264"
     excerpt: "NVIDIA Maxine provides cloud-based suite of GPU-accelerated AI video conferencing software to enhance streaming video."
     publishedDateTime: 2020-10-08T13:42:00Z

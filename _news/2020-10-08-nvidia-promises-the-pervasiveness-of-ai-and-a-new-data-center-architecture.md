@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2020/10/07/nvidia-promis
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/10/07/nvidia-promises-the-pervasiveness-of-ai-and-a-new-data-center-architecture/amp/"
 type: article
 quality: 91
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg"
         width: 876
         height: 548
-        isCached: true
-  - title: "NVIDIA flexes its edge, AI muscles"
-    excerpt: "NVIDIA is becoming more influentialUnveils broad range of new products and initiativesStrengthens its support for Arm, which it plans to buy for $40 billion"
-    publishedDateTime: 2020-10-06T15:36:00Z
-    webUrl: "https://www.telecomtv.com/content/digital-platforms-services/nvidia-flexes-its-edge-ai-muscles-39838/"
-    ampWebUrl: "https://www.telecomtv.com/content/digital-platforms-services/nvidia-flexes-its-edge-ai-muscles-39838/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/nvidia-flexes-its-edge-ai-muscles-39838/amp/"
-    type: article
-    provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 59
-    images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/nvidia-ceo-10089.jpeg?w=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "NVIDIA’s AI-Based Video Compression Reduces Bandwidth to One-Tenth of H.264"
     excerpt: "NVIDIA Maxine provides cloud-based suite of GPU-accelerated AI video conferencing software to enhance streaming video."

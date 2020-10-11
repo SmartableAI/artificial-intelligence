@@ -23,22 +23,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "AI IN BANKING: How forward-looking banks are using maturing AI solutions to design both customer- and employee-facing innovations"
-    excerpt: "This report identifies AI use cases transforming the way FIs operate, the business impact of those use cases, and real-world examples of each."
-    publishedDateTime: 2020-10-06T18:48:00Z
-    webUrl: "https://www.businessinsider.com/ai-in-banking-report-2020"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
-    images:
-      - url: "https://i.insider.com/5e616b4dfee23d6e9e10f232?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-
-secured: "6dEMdltoIS5XhUIGn5H/xQqR2z0KO7wnHSE85nZH9lELtbC71qu/I2eHApV/TbzPUeJRoaBgS5y6XtOZ3MpFYmQU2Uo9S2rQQF7eLt8VL70SsF493lQioViWmThQq9wyte2YXDS6WbZo9j6AhzxtnWghDY3Ip+gPCEkombZ1T1FgNhuJJqS1Fkf7F7iHg4UA4ttaNYxS66dUg5z9ccX0StV9UagF/XzfIbV5o6c/la4qyAO6ufkqd2ZHuWHaXxwmFsbdmBUA49UgSCe0a0FVn7nE7dOj9x3UR+4LJnV41Mu4dTduJ5G/6jjYL1sDR5Udzp1nUPwDrsIOXCZjl127A2rUAyXpWigRgxq3IMShZR4=;En/PXUo0KYWoJ5zqha/KrQ=="
+secured: "lhyNm/5gPPRiYg+rxoHJvquU/j3krfKo/l7GDseIGdqOlHXYf+2/O/yf8GhWG1LMJIxp6zU5Dra4QRcLxsuJ8ihAHwiQP0DgjPBvu+N+M1LhBA7IJgwT2kCyV7GwuoF0yZDUPfwxgknvVJhpu/zp0ZnTMzj5EEAYJYHIBjgPpqY+XKQxuQ4fyhFumtxP5KGgtpZcx956B16T8UTofWfM3JNg6RuY6Vdymgyw5nxMmg3CZXvlxoEaHTOEJBnUMgFyxBQ5I0Z9Kpv/e+u4lFBkMfDzBgOs4A9bEYKRexHQBGS+DfoHyCJ4o+ex//2PskwYn6j2+1izh74MKePzmD0QKvv/FjK2WUweckj1b3uWa6d882naGjMpeCoT3HO/nlZkwKyMrl6Ni03Vprz3p03LvwubBxSolVCiPyr8i6aBqLTBOl8bKOqs+bhT/+m+BUkkKySugE2YiUAgo5pwbJ7P9sZ5/+eDe/76HEKX45FiZAB1LhsFs/PK+1Fljn+M7IB2ICPYc0LUnN2CN0rDekBfbQ==;EtQv1V06QG2RCpM+IAshWw=="
 ---
 

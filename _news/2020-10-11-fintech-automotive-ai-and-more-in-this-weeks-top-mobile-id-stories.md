@@ -57,20 +57,6 @@ related:
         width: 800
         height: 480
         isCached: true
-  - title: "Lessons learnt by fintech firm Kabbage on their AI&ML journey"
-    excerpt: "Founder & President, Kabbage, gives her View From Sibos on the power and possibilities AI&ML can offer institutions. We learn about her own experiences building and implementing a machine learning solution to benefit small businesses that qualified for the Paycheck Protection Program,"
-    publishedDateTime: 2020-10-06T16:20:00Z
-    webUrl: "https://www.finextra.com/videoarticle/2392/lessons-learnt-by-fintech-firm-kabbage-on-their-aiml-journey"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 56
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/kathryn-aws.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "The limitless innovation in the fintech environment"
     excerpt: "By Stefan Pajkovic, CEO at TradeCore Innovation is no barrier for tech companies. Large organisations are known for pushing the boundaries, especially when it comes to developing new products or services to disrupt the market."
     publishedDateTime: 2020-10-07T09:28:00Z
