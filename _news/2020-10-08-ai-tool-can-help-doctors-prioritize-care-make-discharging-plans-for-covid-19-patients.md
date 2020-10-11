@@ -58,6 +58,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "NEC OncoImmunity AS and Oslo University Hospital Team Up to Develop a Diagnostic for COVID-19 Using Artificial Intelligence"
+    excerpt: "NEC OncoI"
+    publishedDateTime: 2020-10-08T07:00:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-10-08/nec-oncoimmunity-as-and-oslo-university-hospital-team-up-to-develop-a-diagnostic-for-covid-19-using-artificial-intelligence"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 41
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Xtutc9qLXOqGD2HRMBqMq744filxHHwi/a7a1HK9Mt+zTHo8nO+43xY83D2GopaL8xXP6DfTVNhVUmwJFxuy4RGm3NggNp/V3wyPgPhfjEY6z47q12cmgUgQaAlUHh+k466ReLlmSh5wl4xWIM6vaotISPWuscg/IXXxyUygybJdQfk5R/q5E2X28aJuIWGIOkpyYYAvlqN9eMcGiLn/G987rMI17AujwFQ0jwcaCLuBoVxyKC7Q0ONfI2rckKQ+YI3gxpXwnLcOkjacvZ6BcZSTLKKbs3bBLoNckpAx/uNT+RDSCrMjRqgOIuFRbxjWtETerNtuqZRwLGWCrJ/MywnrIHUWVAgol1fX5fliAlO9r8NpayjpB2PZHXByb5uxg/zpIcYiEQ+8Fi8PRdmcw1VfCKgFknEbrPT8kRypulP8wp+CjWmKpZt8rgW7Or5QYtdF9G5jlDRb3vfyyGMlpbnR1b8qzv35qUy58w4+s8v0MZbZ/Me3IoKXnhZLEAQZi5bpSWdQ6402flWncpOVXA==;scZPrADy2VwsynryP/fTUg=="
 ---

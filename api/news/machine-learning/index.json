@@ -412,6 +412,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-07-artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry.md",
+      "title": "Artificial intelligence and machine learning: A new blueprint for the fintech industry",
+      "excerpt": "There is no doubt that artificial intelligence (AI) and machine learning (ML) is becoming a hot topic within the fintech industry. At almost every seminar and conference, we are hearing about the rise of these emerging technologies and the potential they have to disrupt businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itproportal.com/features/artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry/",
+      "originalUrl": "https://www.itproportal.com/features/artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ADy2QfDipAoaDjWjQ4zRq-1200-80.jpg",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.itproportal.com/amp/features/artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry/",
+      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry/",
+      "publishedDateTime": "2020-10-07T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro Portal",
+        "domain": "itproportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-researchers-probe-into-rna-using-deep-learning-to-develop-sensors-for-a-covid-19-diagnostic.md",
       "title": "Researchers probe into RNA using deep learning to develop sensors for a COVID-19 diagnostic",
       "excerpt": "Two teams at the Wyss Institute have demonstrated the use of NLP and CV techniques to optimize RNA sequences to develop improved sensors for the SARS-CoV-2 genome that is responsible for COVID-19.",
@@ -420,7 +463,7 @@
       "originalUrl": "https://www.neowin.net/news/researchers-probe-into-rna-using-deep-learning-to-develop-sensors-for-a-covid-19-diagnostic",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1353,48 +1396,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-enea-claims-15-increase-in-ran-capacity-through-machine-learning.md",
-      "title": "Enea claims 15% increase in RAN capacity through machine learning",
-      "excerpt": "Covid-19 pandemic renewing operator focuses on extracting maximum capacity from 4G networks and machine learning, seen as providing a significant boost to capacity and cost-effectiveness.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252489915/Enea-claims-15-increase-in-RAN-capacity-through-machine-learning",
-      "originalUrl": "https://www.computerweekly.com/news/252489915/Enea-claims-15-increase-in-RAN-capacity-through-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ttgtmedia.com/visuals/German/article/network-technician-4-adobe.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/252489915/Enea-claims-15-increase-in-RAN-capacity-through-machine-learning?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252489915/Enea-claims-15-increase-in-RAN-capacity-through-machine-learning?amp=1",
-      "publishedDateTime": "2020-10-01T02:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

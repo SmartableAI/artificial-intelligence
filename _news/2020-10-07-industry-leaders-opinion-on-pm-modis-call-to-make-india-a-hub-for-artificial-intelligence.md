@@ -26,6 +26,22 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "Startups That Won India’s AI Solution Challenge At RAISE 2020"
+    excerpt: "The AI Start-up Pitch Fest announced 21 AI startups with 15 winners and six special mentions based on the work that they are performing."
+    publishedDateTime: 2020-10-09T00:00:00Z
+    webUrl: "https://analyticsindiamag.com/startups-that-won-indias-ai-solution-challenge-at-raise-2020/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/10/Startups-That-Won-Indias-AI-Solution-Challenge-At-RAISE-2020.jpg"
+        width: 1601
+        height: 901
+        isCached: true
+
 secured: "pOY/+vdggYk0mLagJ98VuKH3yddYmzdATT1TXE3sSJVgN7VFoY2SHXwRHbIrNrMo/+i+Hs2s6/NLBpBrqy3XxTxPaOJI58x4UkGIfND8yspLruF/n9dakaBS3AXVJfRoGTlu/sc27TN2ArP73Qi74memEP8jGExMMOtfbFlGIfOqeKH6B9XTAKT41B5GMsaHDeQupJ3GU0LlwSEng+gzRpkHJUmz6pUxyCiil+OoLeZRp2OnzUKcvzzXPzDmaEXd8jJBsElvlrEoltNFwi3p60N2gzQ+Cm1IIt0Af7jBnDc2zeoRaIJ4VP2MQStqvBsZPxSVXDWjNNBYtR9JCBCmKlLkHMZPOwuNzob/mgoIpno=;lI1mNKHIZOcVIu4CvJgtZg=="
 ---
 

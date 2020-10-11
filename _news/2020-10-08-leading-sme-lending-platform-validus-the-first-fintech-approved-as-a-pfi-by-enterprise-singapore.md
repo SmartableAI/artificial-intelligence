@@ -19,45 +19,80 @@ topics:
   - AI
 
 related:
-  - title: "Mr. Dhananjay Mungale Joins Singapore-based Atlantis FinTech's Advisory Board"
-    excerpt: "Mr. Mungale currently serves on the Boards of Mahindra and Mahindra Financial Services, DSP Asset Management Company, and select other large public and"
-    publishedDateTime: 2020-10-07T05:58:00Z
-    webUrl: "https://www.newsr.in/n/Press+Releases/1zlu610ymy/Mr-Dhananjay-Mungale-Joins-Singapore-based-Atlantis-FinTech.htm"
-    ampWebUrl: "https://www.newsr.in/n/Press+Releases/1zlu610ymy/Mr-Dhananjay-Mungale-Joins-Singapore-based-Atlantis-FinTech.htm"
-    cdnAmpWebUrl: "https://www-newsr-in.cdn.ampproject.org/c/s/www.newsr.in/n/Press+Releases/1zlu610ymy/Mr-Dhananjay-Mungale-Joins-Singapore-based-Atlantis-FinTech.htm"
+  - title: "Artificial intelligence and machine learning: A new blueprint for the fintech industry"
+    excerpt: "There is no doubt that artificial intelligence (AI) and machine learning (ML) is becoming a hot topic within the fintech industry. At almost every seminar and conference, we are hearing about the rise of these emerging technologies and the potential they have to disrupt businesses."
+    publishedDateTime: 2020-10-07T11:00:00Z
+    webUrl: "https://www.itproportal.com/features/artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry/"
+    ampWebUrl: "https://www.itproportal.com/amp/features/artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry/"
+    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry/"
     type: article
     provider:
-      name: newsr.in
-      domain: newsr.in
-    quality: 41
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 68
     images:
-      - url: "https://cdn.newsserve.net/700/i/20201007/3677-Mr-Dhananjay-Mungale-Joins-Singapore-based-Atlantis-FinTech.jpg"
-        width: 700
-        height: 650
+      - url: "https://cdn.mos.cms.futurecdn.net/ADy2QfDipAoaDjWjQ4zRq-1200-80.jpg"
+        width: 800
+        height: 500
         isCached: true
-  - title: "Dhananjay Mungale joins Singapore-based Atlantis FinTech"
-    excerpt: "Singapore-headquartered financial technology company Atlantis today announced Dhananjay Mungale has joined its advisory board"
-    publishedDateTime: 2020-10-07T07:49:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/266619763/dhananjay-mungale-joins-singapore-based-atlantis-fintech"
+  - title: "AI in Fintech Market 2020 Status and Outlook Growth"
+    excerpt: "AI in Fintech Market Size 2020 Analysis Trends Top Manufacturers Growth Statistics Porters Five Forces and SWOT Analysis Opportunities and Forecast California The qualitative research study by Data Bridge Market Research titled AI in Fintech market size is expected to"
+    publishedDateTime: 2020-10-09T07:33:00Z
+    webUrl: "https://www.openpr.com/news/2153314/ai-in-fintech-market-2020-status-and-outlook-growth-challenges"
+    ampWebUrl: "https://www.openpr.com/amp/2153314/ai-in-fintech-market-2020-status-and-outlook-growth-challenges"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2153314/ai-in-fintech-market-2020-status-and-outlook-growth-challenges"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
+    images:
+      - url: "https://cdn.openpr.com/T/a/Ta09134345_g.jpg"
+        width: 800
+        height: 480
+        isCached: true
+  - title: "Lessons learnt by fintech firm Kabbage on their AI&ML journey"
+    excerpt: "Founder & President, Kabbage, gives her View From Sibos on the power and possibilities AI&ML can offer institutions. We learn about her own experiences building and implementing a machine learning solution to benefit small businesses that qualified for the Paycheck Protection Program,"
+    publishedDateTime: 2020-10-06T16:20:00Z
+    webUrl: "https://www.finextra.com/videoarticle/2392/lessons-learnt-by-fintech-firm-kabbage-on-their-aiml-journey"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 56
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/kathryn-aws.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "FinTech, Automotive AI, and More in This Week’s Top Mobile ID Stories"
+    excerpt: "It's been another rich and varied week in Mobile ID World news, and that's reflected in this week's roundup of our most popular stories."
+    publishedDateTime: 2020-10-10T18:50:00Z
+    webUrl: "https://mobileidworld.com/fintech-automotive-ai-and-more-in-this-weeks-top-mobile-id-stories-110101/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 39
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/61668108_thumbnail-1024x1024.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
+  - title: "The limitless innovation in the fintech environment"
+    excerpt: "By Stefan Pajkovic, CEO at TradeCore Innovation is no barrier for tech companies. Large organisations are known for pushing the boundaries, especially when it comes to developing new products or services to disrupt the market."
+    publishedDateTime: 2020-10-07T09:28:00Z
+    webUrl: "https://www.globalbankingandfinance.com/the-limitless-innovation-in-the-fintech-environment/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
     quality: 24
     images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/10/Untitled-design-2020-10-07T143803.769.jpg"
+        width: 750
+        height: 422
         isCached: true
-  - title: "Dhananjay Mungale joins Singapore-based Atlantis FinTech's advisory board"
-    excerpt: "Bengaluru (Karnataka) [India] (ANI/NewsVoir): Singapore-headquartered financial technology company Atlantis today announced Dhananjay Mungale has joined its advisory board. Mungale sits on the boards of select public and private limited companies including Mahindra and Mahindra Financial Services,"
-    publishedDateTime: 2020-10-07T07:41:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20201007/3637949.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 3
 
 secured: "o/klT8L7iSD9qAOaK2EJrLGNX38eF5oG0aXpQGfUSJpDHIvnZNw9jwdDNjh8ueqRcYALQ/Z1bDxy5bpLLdXuxZOFRaLdWK3IPjdCuxkcBwQVDIhJdl5ZMkTuDgJ56I0wksnRPbZzn9cIc0Jp3A8bJl2Jyd2brQyduBr/2ltqeg61TkCQX2Zc+pT2PRGCzdYCrMegEokJJalw1mAj6VOXAs7VdjgkaYOnBcl68VAwUrs+0CAP+x3inieBMl6EsN2Mo7ZnjolraN/wocaX/21sFJLkahQpXIFU0YBNlveJuwbor1adtX3XTltroNPhyusKZFQTRZ+SyJysa0KKUu42DGsBuLgEL88GBSgageR+zBU=;Tcayq3rBR52YOcPenrKPFw=="
 ---

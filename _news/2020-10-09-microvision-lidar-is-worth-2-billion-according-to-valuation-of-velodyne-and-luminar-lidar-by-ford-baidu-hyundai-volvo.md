@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/article/4378207-microvision-lidar-is-wort
 webUrl: "https://seekingalpha.com/article/4378207-microvision-lidar-is-worth-2-billion-according-to-valuation-of-velodyne-and-luminar-lidar"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     width: 640
     height: 383
     isCached: true
-
-related:
-  - title: "Ford Owns 13.06M Shares in Recently-Public Velodyne Lidar"
-    excerpt: "Ford Motor Company F recently announced the holding of a 7.6% ownership stake in Velodyne Lidar Inc. post Monday’s trading session. This equates to holding 13.06 million shares of the new public entity."
-    publishedDateTime: 2020-10-06T13:25:00Z
-    webUrl: "https://www.nasdaq.com/articles/ford-owns-13.06m-shares-in-recently-public-velodyne-lidar-2020-10-06"
-    ampWebUrl: "https://www.nasdaq.com/articles/ford-owns-13.06m-shares-in-recently-public-velodyne-lidar-2020-10-06?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ford-owns-13.06m-shares-in-recently-public-velodyne-lidar-2020-10-06?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
 
 secured: "3KV0WsLSkbmTjX3oDrpCavfrU0MBtEtTQHjJu58ZTvi57YXwaUPOGYcSJPdvpSQ73zONieRkpf+2C4hlUGRZtSDErq3Y2BLup56a5Qr0hrwdaRVtndcJy9iMJ24HZc4GDShQvXcUZUJ42hDZY7pzGqHGL72lQLFXDFUS8Y3g92JW9WjUHyhDf2HRFO1J9+mFCwGN9VlPumt/tTKN+bQzYiwKNyiAq0aeNQWRxLijeB7JWVjDrbqoMy2/zZOXymGFRuJgVhYbFDcnBftHjjOUcSZkbxRUQBmoR376jCMl0VVZbRiTOk65TaV7DZ5jPriE+fblOV9BnxQTnZhUI5KQTpyhwC07+a24POxZghOtfd/5+yEQs90P3EG6DAEn1A5fbAtIO16h4rsNICYP6429CU40xBFuZbitJb6gSI4bM13B/tanZ5BpndnnMSTz0jq2nm+eL/1HXv2bgHAZtBHyV1v1NnDy8QOvHV1bQoJJlthukwBGcaiBm8tC8UQpy337tGyQzLs2fZMa6tDpnRQmCA==;AtEpHvf8JluR3PcywB7JKA=="
 ---

@@ -57,6 +57,6 @@ related:
       domain: channele2e.com
     quality: 17
 
-secured: "7sxuE15nmJQ98oMHwLVo+P49YZSh6iTKGV5yXsRkgvuF/jDsdoq6vqXqffG/fQ3+BiKd84IAI5x6hHiUPBUPjPYA9J8u+7P0tNLq/jCEKsedA7poyHiM/cUSS1QBJZfNUafKYVrKDGKGspwf5hoKjDxF+QjWxaY17Y9YmDiq4RsnM+MmA45f1/xeKmegPOJ1HZI+Q2yxTTWLgE9Mjf+k+xTrR++sfQjpIYduNE9htoc7SRBix0LVm7p0E16Ax1VAwmQpcZR6cYQLrm5fr1n3d8nqYSY5pYarXTdcySQTk1n6Ny6ELTUGrsvdpZv4YL+5NKgFUu6LrGUCbj7jo6SXaqfZtr1T5J2d9VEIdoy9Yeg=;UXXDbrAz81rI64Z5GiWIuQ=="
+secured: "x2FAcUIZg6lHL1ivg+X78vVaqT8/CkJagw992zofKCwDcj+eDc04Wp+bwpU9nXsOkt+bMfYxm3vlOHoSrTRTH8LfRhBZjcJK0j/0cfAcjayXt5wOizWN+b4vx3AGYMNf/Gu8Zdds5uVQHsmzAN00iGXLc7rPeFE+Liu/rvVtZt4z8sCjofCHvobiPtNNW8mcUe04WTE6WUJOxUDcgNYnKkw43LKsv+VfaoSjMs9mXflerK78lQ1tlJtvKgK+UCueWxyY/IxR4ZWNUFv3kx+b7yTifvPZAXIbBcBVNJGuiij7Xk6bXmXrgtudVukQmse5ldLhdclnkDLI+4SzKbY4B3mMgm0rtuPSxSkzq1V2Lc8=;DpNRGz3ggNKJhq765G08+Q=="
 ---
 

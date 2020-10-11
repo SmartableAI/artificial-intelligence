@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence and machine learning: A new blueprint for the fintech industry"
+    excerpt: "There is no doubt that artificial intelligence (AI) and machine learning (ML) is becoming a hot topic within the fintech industry. At almost every seminar and conference, we are hearing about the rise of these emerging technologies and the potential they have to disrupt businesses."
+    publishedDateTime: 2020-10-07T11:00:00Z
+    webUrl: "https://www.itproportal.com/features/artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry/"
+    ampWebUrl: "https://www.itproportal.com/amp/features/artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry/"
+    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry/"
+    type: article
+    provider:
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 68
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/ADy2QfDipAoaDjWjQ4zRq-1200-80.jpg"
+        width: 800
+        height: 500
+        isCached: true
   - title: "AI in Fintech Market 2020 Status and Outlook Growth"
     excerpt: "AI in Fintech Market Size 2020 Analysis Trends Top Manufacturers Growth Statistics Porters Five Forces and SWOT Analysis Opportunities and Forecast California The qualitative research study by Data Bridge Market Research titled AI in Fintech market size is expected to"
     publishedDateTime: 2020-10-09T07:33:00Z
@@ -41,6 +57,20 @@ related:
         width: 800
         height: 480
         isCached: true
+  - title: "Lessons learnt by fintech firm Kabbage on their AI&ML journey"
+    excerpt: "Founder & President, Kabbage, gives her View From Sibos on the power and possibilities AI&ML can offer institutions. We learn about her own experiences building and implementing a machine learning solution to benefit small businesses that qualified for the Paycheck Protection Program,"
+    publishedDateTime: 2020-10-06T16:20:00Z
+    webUrl: "https://www.finextra.com/videoarticle/2392/lessons-learnt-by-fintech-firm-kabbage-on-their-aiml-journey"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 56
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/kathryn-aws.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "FinTech, Automotive AI, and More in This Week’s Top Mobile ID Stories"
     excerpt: "It's been another rich and varied week in Mobile ID World news, and that's reflected in this week's roundup of our most popular stories."
     publishedDateTime: 2020-10-10T18:50:00Z
@@ -55,20 +85,15 @@ related:
         width: 1024
         height: 1024
         isCached: true
-  - title: "Georgia State to Offer Graduate Certificates in AI Business Innovation, Disruptive Innovation and Entrepreneurship, and Fintech Innovation"
-    excerpt: "Georgia State University’s Robinson College of Business will admit new students to three stand-alone graduate certificate programs that address current and emerging market demand for innovation."
-    publishedDateTime: 2020-10-09T17:20:00Z
-    webUrl: "https://news.gsu.edu/2020/10/09/georgia-state-to-offer-graduate-certificates-in-ai-business-innovation-disruptive-innovation-and-entrepreneurship-and-fintech-innovation/"
+  - title: "Leading SME lending platform Validus the first fintech approved as a PFI by Enterprise Singapore"
+    excerpt: "Southeast Asia's leading SME lending platform Validus Capital (Validus) is Singapore's first fintech to be approved as a Participating Financial Institution (PFI) under Enterprise Singapore's Enterprise Financing Scheme."
+    publishedDateTime: 2020-10-08T10:00:00Z
+    webUrl: "https://www.ryt9.com/en/anpi/244735"
     type: article
     provider:
-      name: Georgia State University
-      domain: gsu.edu
-    quality: 5
-    images:
-      - url: "https://news.gsu.edu/files/2014/09/disruptive-innovation-photo-1661x1125.jpg"
-        width: 1661
-        height: 1125
-        isCached: true
+      name: RYT9
+      domain: ryt9.com
+    quality: 0
 
 secured: "La4nbCn5cgMQPK+yqCF9XSWLSlfsuH3Eycve+vXjitG0MBoWOFdji3VbgrVpmmdTiEA64gEoT727zffcDDER26RETEY8wJri8bvg3BHpQ2ZS9KU03U97+RhxxFP6gFJdORCZKll7PmRhkOrrkQnO+ll0JMw0QY6DS2XGwUt3EDE/CZCFee38GFBwT0+P0LpbcMaiasZWvr0FJO/s9QmJZaj+4N5xnI/5USE4HNP3MYl7djSUaPIFsKsKwerzbAEgILFgWL/9CK0gwNt18/leF1zQBldaU+hpov3t1kAV4Uam7sXQ37nVR6oArN6jA++FZh8a3/XLb+5ETpsD6ZogTW5dS39AkmuU47DzpexkZ9gfnkHnStUbpeAozpIlS7XDs6ONj8QFwN1FTuE68B+ZIaBL1Eck+MiGtf1mGcj9W/Xem19LUTmp8HaXYgkZ4X8KRla0BBFh+YglCmQ8a4jUnBdqAjMzb76/sd04CZs9NLzvxhub9eGfD34G0YfEwRx8fNEx1nucK5NrsKyZaCDPDQ==;HTM9lzykDaa8fsbcTmbCLw=="
 ---

@@ -1,28 +1,30 @@
 ---
 category: news
-title: "AI tool can help doctors prioritize care, make discharging plans for COVID-19 patients"
-excerpt: "An artificial intelligence tool can help doctors when deciding which COVID-19 patients can be sent home, according to a study that started in May. Researchers at New York University used the AI tool to analyze thousands of COVID-19 cases."
-publishedDateTime: 2020-10-08T19:47:00Z
-originalUrl: "https://www.pix11.com/news/national/coronavirus/ai-tool-can-help-doctors-prioritize-care-make-discharging-plans-for-covid-19-patients"
-webUrl: "https://www.pix11.com/news/national/coronavirus/ai-tool-can-help-doctors-prioritize-care-make-discharging-plans-for-covid-19-patients"
-ampWebUrl: "https://www.pix11.com/news/national/coronavirus/ai-tool-can-help-doctors-prioritize-care-make-discharging-plans-for-covid-19-patients?_amp=true"
-cdnAmpWebUrl: "https://www-pix11-com.cdn.ampproject.org/c/s/www.pix11.com/news/national/coronavirus/ai-tool-can-help-doctors-prioritize-care-make-discharging-plans-for-covid-19-patients?_amp=true"
+title: "NEC OncoImmunity AS and Oslo University Hospital Team Up to Develop a Diagnostic for COVID-19 Using Artificial Intelligence"
+excerpt: "NEC OncoI"
+publishedDateTime: 2020-10-08T07:00:00Z
+originalUrl: "https://www.bloomberg.com/press-releases/2020-10-08/nec-oncoimmunity-as-and-oslo-university-hospital-team-up-to-develop-a-diagnostic-for-covid-19-using-artificial-intelligence"
+webUrl: "https://www.bloomberg.com/press-releases/2020-10-08/nec-oncoimmunity-as-and-oslo-university-hospital-team-up-to-develop-a-diagnostic-for-covid-19-using-artificial-intelligence"
 type: article
-quality: 49
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: WPIX
-  domain: pix11.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://ewscripps.brightspotcdn.com/dims4/default/7edc30c/2147483647/strip/true/crop/5402x3039+0+281/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F55%2F12%2F2e70d270412a84fd17fd3a89179e%2Fap-20280514929484.jpg"
-    width: 1280
-    height: 720
+  - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -58,21 +60,23 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "NEC OncoImmunity AS and Oslo University Hospital Team Up to Develop a Diagnostic for COVID-19 Using Artificial Intelligence"
-    excerpt: "NEC OncoI"
-    publishedDateTime: 2020-10-08T07:00:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2020-10-08/nec-oncoimmunity-as-and-oslo-university-hospital-team-up-to-develop-a-diagnostic-for-covid-19-using-artificial-intelligence"
+  - title: "AI tool can help doctors prioritize care, make discharging plans for COVID-19 patients"
+    excerpt: "An artificial intelligence tool can help doctors when deciding which COVID-19 patients can be sent home, according to a study that started in May. Researchers at New York University used the AI tool to analyze thousands of COVID-19 cases."
+    publishedDateTime: 2020-10-08T19:47:00Z
+    webUrl: "https://www.pix11.com/news/national/coronavirus/ai-tool-can-help-doctors-prioritize-care-make-discharging-plans-for-covid-19-patients"
+    ampWebUrl: "https://www.pix11.com/news/national/coronavirus/ai-tool-can-help-doctors-prioritize-care-make-discharging-plans-for-covid-19-patients?_amp=true"
+    cdnAmpWebUrl: "https://www-pix11-com.cdn.ampproject.org/c/s/www.pix11.com/news/national/coronavirus/ai-tool-can-help-doctors-prioritize-care-make-discharging-plans-for-covid-19-patients?_amp=true"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 41
+      name: WPIX
+      domain: pix11.com
+    quality: 49
     images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/7edc30c/2147483647/strip/true/crop/5402x3039+0+281/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F55%2F12%2F2e70d270412a84fd17fd3a89179e%2Fap-20280514929484.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
-secured: "yt/8bT23t7/QqpHS3exI//NpcJS1UuugASNWJ885aX2wloOatdCx3ebRQ8qs9mIvGZAHMDXaxe9JNXbzpbR6nt4r9ZZvzX0EbcKM70A9LN87mbqU8mOhQVqQYQWWlm2acmG2eDSl4NnuX6sGjGc4H9fuXL5+IYjq9vphsd/g6HpmSnqy1lcbKMLXgcEiNWj6mXfADjQcwaf3zTOLHjv0i5pFvdRn3fN8V+rkxwExHLRMAz/fsMHpUIkuMiTXUzM+k12+tntLVM4sRj2IcSq4CXr5Wv5ok7Hd6zX6r65yCdJJkr3gr17TpsmVCMYHY16tBjk+TPM55O4WmWSFfOWVwVpgcUwwm7m2zJZ43EDJhMg=;WpmJTGqlq276UWUu3aUcFw=="
+secured: "3QFO+9TCy6njilTOmogALreWEv+d3Vdbopea5H2GNU0YfvNOkokSoi376+GWhoW+g+uG8oarRnJEhcjHVEEsn3WtL0rHQqhnPz3Gz/4nZx6WXZbeE5FBxv65irnIM5g1+cp7GqBmfK3HUUCuatmoMy/xkzjQi8ueZ0gmvFhc/axrczK+xg6b7XR36SGc6zhu5CfF+medS2xgQ9AES9v3XXuUzCAwFrhNAzhXguexXKsZheO5RFGz4zmlOgo64t9eL4+BbABF76iezUavnzMV1zI2S4Fv9k/5aKJ92ndhW4XvM7abX1VsI40R6mYKYn0xM2acX4UgQnaVs6fMvok3xqil72HnFp8m7QLDrsVAhx8=;57/ojJPX8cKLR3G+Kpzk+g=="
 ---
 

@@ -119,29 +119,6 @@ related:
         width: 725
         height: 408
         isCached: true
-  - title: "NVIDIA Rethinks AI: Next Gen Data Centers, Supercomputers For Healthcare & More at GTC Day 1"
-    excerpt: "NVIDIA is launching Jetson Nano 2GB, the latest addition to the Jetson family. Jetson is an Arm-based System on Chip"
-    publishedDateTime: 2020-10-06T13:38:00Z
-    webUrl: "https://analyticsindiamag.com/nvidia-gtc-2020-top-announcements/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 45
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/10/gtc-oct-5.jpg"
-        width: 1601
-        height: 1201
-        isCached: true
-  - title: "OSS Presents AI on the Fly® and Data Center in the Sky™ Solutions at NVIDIA’s GPU Technology Conference This Week"
-    excerpt: "One Stop Systems, Inc., a leader in specialized high-performance edge computing, presented its AI on the Fly ® and Data Center in the Sky™ products and solutions at this week’ s GPU Technology Conference,"
-    publishedDateTime: 2020-10-06T13:31:00Z
-    webUrl: "https://www.nasdaq.com/press-release/oss-presents-ai-on-the-flyr-and-data-center-in-the-skytm-solutions-at-nvidias-gpu"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 43
 
 secured: "MgJECCiuqeA3NOju1pHtYeQj9BrjF6G4t4UOWB333Az9JksQKQPt+IpioaGdrGpko06tPeUii5khfbT49HJ8Rygv8CBIIdVgPHrR/WuycXPEMyx4BCSJJZ9sOeaOIjUoyliXjPDhns+WbgLy9cqz3fC25wKqfQ2BvAjbkyom9Q76RQP4jerxRsAz/0qd4KqV5FQfyDtMczgIaa1W+kFpCUOBbvQnLPDXG9zLzAXWWSpKRrCbLED1QWdtHEcBLCfLXtcccxZIds5RfgjuuaiaKPqYuamaK+NJRMa6tCWI16vR2Kn1rQ66HzuAtBfhkFFVQ9I4kDQreYSTChZiIsTuacHgmq1j7nMz677WcLzwVe4=;5HrhOnK/Xbm9XyfJ0NTYQQ=="
 ---
