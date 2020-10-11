@@ -1,27 +1,29 @@
 ---
 category: news
-title: "FinTech, Automotive AI, and More in This Week’s Top Mobile ID Stories"
-excerpt: "It's been another rich and varied week in Mobile ID World news, and that's reflected in this week's roundup of our most popular stories."
-publishedDateTime: 2020-10-10T18:50:00Z
-originalUrl: "https://mobileidworld.com/fintech-automotive-ai-and-more-in-this-weeks-top-mobile-id-stories-110101/"
-webUrl: "https://mobileidworld.com/fintech-automotive-ai-and-more-in-this-weeks-top-mobile-id-stories-110101/"
+title: "Fintech’s Key Ingredient as the Pandemic Rages On? Empathy."
+excerpt: "Global financial crisis and personal financial hardship have marked 2020, and fintechs are in the trenches with their users."
+publishedDateTime: 2020-10-08T10:36:00Z
+originalUrl: "https://www.financemagnates.com/fintech/news/fintechs-key-ingredient-as-the-pandemic-rages-on-empathy/"
+webUrl: "https://www.financemagnates.com/fintech/news/fintechs-key-ingredient-as-the-pandemic-rages-on-empathy/"
+ampWebUrl: "https://www.financemagnates.com/fintech/news/fintechs-key-ingredient-as-the-pandemic-rages-on-empathy/amp/"
+cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/fintechs-key-ingredient-as-the-pandemic-rages-on-empathy/amp/"
 type: article
-quality: 39
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Mobile ID News
-  domain: mobileidworld.com
+  name: Finance Magnates
+  domain: financemagnates.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://mobileidworld.com/wp-content/uploads/61668108_thumbnail-1024x1024.jpg"
-    width: 1024
-    height: 1024
+  - url: "https://www.financemagnates.com/wp-content/uploads/2018/05/Fintech-880x400.jpg"
+    width: 880
+    height: 400
     isCached: true
 
 related:
@@ -57,21 +59,19 @@ related:
         width: 800
         height: 480
         isCached: true
-  - title: "Fintech’s Key Ingredient as the Pandemic Rages On? Empathy."
-    excerpt: "Global financial crisis and personal financial hardship have marked 2020, and fintechs are in the trenches with their users."
-    publishedDateTime: 2020-10-08T10:36:00Z
-    webUrl: "https://www.financemagnates.com/fintech/news/fintechs-key-ingredient-as-the-pandemic-rages-on-empathy/"
-    ampWebUrl: "https://www.financemagnates.com/fintech/news/fintechs-key-ingredient-as-the-pandemic-rages-on-empathy/amp/"
-    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/fintechs-key-ingredient-as-the-pandemic-rages-on-empathy/amp/"
+  - title: "FinTech, Automotive AI, and More in This Week’s Top Mobile ID Stories"
+    excerpt: "It's been another rich and varied week in Mobile ID World news, and that's reflected in this week's roundup of our most popular stories."
+    publishedDateTime: 2020-10-10T18:50:00Z
+    webUrl: "https://mobileidworld.com/fintech-automotive-ai-and-more-in-this-weeks-top-mobile-id-stories-110101/"
     type: article
     provider:
-      name: Finance Magnates
-      domain: financemagnates.com
-    quality: 44
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 39
     images:
-      - url: "https://www.financemagnates.com/wp-content/uploads/2018/05/Fintech-880x400.jpg"
-        width: 880
-        height: 400
+      - url: "https://mobileidworld.com/wp-content/uploads/61668108_thumbnail-1024x1024.jpg"
+        width: 1024
+        height: 1024
         isCached: true
   - title: "The limitless innovation in the fintech environment"
     excerpt: "By Stefan Pajkovic, CEO at TradeCore Innovation is no barrier for tech companies. Large organisations are known for pushing the boundaries, especially when it comes to developing new products or services to disrupt the market."
@@ -97,6 +97,6 @@ related:
       domain: ryt9.com
     quality: 0
 
-secured: "I54RXvI2i6G3sLHWNpI1jmxAiTzSU/Hzkff92vi5Iaf2j0I6gdIuzSFIefcRbWci1EYGAlu/3iTfD6u+Nv9gtUE2TOSXk28TRsOsy0clYHvyQ5TdLVWCQ4yZhZzfAWpsULm4EIL13hi3QBKqxdX/LONhQkGNv8IXOX6eXSYn6bZuzn7mCs02+DnlMjabi2DvHOmonzN65RHbB3oLb5sSQWTpyTBlfoXQhAl7JXXF/2D1STXv+x/zu8QZVgZvRc2Y1hhLMdBpw7ujg4wxKs/c/M/hLGJMSMQfxSa18/QNOSq0J1r6mVsJ8bhEss+F2o8NpCILsZL57UGYEfyh0AB5dvRBSnUZGrfX22cyuRR4Tur+zlFafUYnGLFWu3RPOpSj5NNzABcIR4vRhjiyKHNm/CnOuW6f/rxWAI25xHjwXelOTr0ZAbvb+jZAW3kCHq6eG9dpFEpT/7tWcLH/albC1cLF6G5BOcbZbwHLF1Yx2iOG9x15jrqJr2UBfKxC/bo1VTnfvDOqj7znCvw9lt2NWA==;EzDBRmAewi6hqh8Ow1f9BQ=="
+secured: "WAygB+o5oVDpvZbNHfYNHi/AeQi+LOFw+s12a3tJH59g5VDV6t32kfL8uU0u7iHh/P2He9xSmhm+6wlO9Ebf0iaRnj2KVruziyGtmYZjSP2xoG91MEKNDcoieKKH87nKVx0RB3boCgrfnIZ9NrOPrNJqPdF6Myjp5nPgKuL9Wvl6Gt4X0I+8i6qMWfHySVVYIt3BXncroATs3mfpVDCq7h8YOCn1JepeiDzm9+xTjgOW4JFafkG3/jAVsuHguW3797KQw6hM65M8VN91h+Og2fIgSWNRgTTGJb2bbaCH8cGRxYjfJ/+EJh81POrv+0it2czANk7laNN6Jg8n+edyONd/K6c8VNasme6Cc2lCCDY=;1jmoiDRvlH/UHtdo/J8jQQ=="
 ---
 

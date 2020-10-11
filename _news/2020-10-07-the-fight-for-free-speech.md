@@ -1,27 +1,29 @@
 ---
 category: news
 title: "The Fight for Free Speech"
-excerpt: "Leftist faculty teach immature young people all manner of nonsense that contradicts commonsense and the principles of liberty. Chief among their lessons is a need to attack free speech in the form of prohibitions against so-called hate speech and microaggressions."
-publishedDateTime: 2020-10-07T14:30:00Z
-originalUrl: "https://thenewamerican.com/the-fight-for-free-speech/"
-webUrl: "https://thenewamerican.com/the-fight-for-free-speech/"
+excerpt: "Once leftists have gained power via free speech, as they have in most of our colleges and universities, free speech becomes a liability."
+publishedDateTime: 2020-10-07T07:04:00Z
+originalUrl: "https://www.dailysignal.com/2020/10/07/the-fight-for-free-speech/"
+webUrl: "https://www.dailysignal.com/2020/10/07/the-fight-for-free-speech/"
+ampWebUrl: "https://www.dailysignal.com/2020/10/07/the-fight-for-free-speech/amp/"
+cdnAmpWebUrl: "https://www-dailysignal-com.cdn.ampproject.org/c/s/www.dailysignal.com/2020/10/07/the-fight-for-free-speech/amp/"
 type: article
-quality: 24
-heat: -1
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: The New American
-  domain: thenewamerican.com
+  name: The Daily Signal
+  domain: dailysignal.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://thenewamerican.com/assets/sites/2/media/k2/items/src/e686115d8bae0aa58bf88143240c00cb.jpg"
-    width: 947
-    height: 500
+  - url: "https://www.dailysignal.com/wp-content/uploads/GettyImages-1138138146-scaled.jpg"
+    width: 2560
+    height: 1331
     isCached: true
 
 related:
@@ -81,6 +83,20 @@ related:
         width: 340
         height: 246
         isCached: true
+  - title: "WALTER WILLIAMS: The fight for free speech (column)"
+    excerpt: "It is a tragic state of affairs when free speech and inquiry require protection at institutions of higher learning."
+    publishedDateTime: 2020-10-08T18:16:00Z
+    webUrl: "https://www.annistonstar.com/the_daily_home/free/walter-williams-the-fight-for-free-speech-column/article_6453e9d0-0992-11eb-8ff8-0b2a3e72f26b.html"
+    type: article
+    provider:
+      name: Anniston Star
+      domain: annistonstar.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/annistonstar.com/content/tncms/assets/v3/editorial/4/74/47436cd8-fb52-11e5-a7e1-d36fba67df42/5703f3478401e.image.jpg"
+        width: 398
+        height: 330
+        isCached: true
   - title: "OPINION | WALTER WILLIAMS: The fight for free speech"
     excerpt: "The violence, looting and mayhem this nation has seen over the last several months has much of its roots in academia, where leftist faculty teach immature young people all manner of nonsense that contradicts common sense and the principles of liberty."
     publishedDateTime: 2020-10-10T02:09:00Z
@@ -124,6 +140,6 @@ related:
         height: 207
         isCached: true
 
-secured: "hMHS1vpjeV6NZ7SXgbOirX/A7yQlWBj65a//nf7oenO8r/MakXEaAh5fKBeeHQxntwOh/Wl15aNNYUh5IMqZerockSmuYvp8EJvh/+QZKypJ1/2Z+49bdWZ9OCyMg/3Julrk+iASu3fhoXiODdqUiiqMrQjjRUkeporS+rcqPcjURoEWOPh0gsRZpw523BzkCJTo2sarTkoi8zy/USD436JiG138zQPDkIlkFIDXOXONi08KBUDuqW/NPiHU0BMndsJY5ep88U7ttQHl9WeSzGfT+QgV2rmxPESH/ZP6S9tFh38bwlAiTbcVN/yxoZqVkCp1rGCcFnIm7GSrhVAuaG/TUq0vRl++R5XS4sFtRx8=;enSRJ7/2LDnc+5znn/P5SQ=="
+secured: "1LASOkHlGX4HlLY5o1vHWQFkTWDitTQNu9LDs9Nlzxtm4xDC8S4Lr5yPfIISh7yfn5vcdEiFxG3zFUjSzQgrrDpNOMSLwsgUvdjkCLQoauajmt0f38k4+DltWuvULP1Rw0mAbBp5DAWIjLl/0ZQ9hujDon61J7np+q8mLlyOJDJ9NZy5xWTZSkcsak3CeMNkotlesp/bKR2+4Q56aXYB3FEkfSZdTcYw584B6h16djwUdJdRsG0yqgVeCUL6BYzaI29ubTDpWS2LB2tEiP1OiptLvwkQn/XBtW29YC+ggQq5QVhtQsCygBnQcmwJizIDJsG2TFq/I8Ty2b1yNZAdBfpG86cYHN9SrU63tgIdR4g=;CZAI1MfPyNt7cMpoaSJ1Kw=="
 ---
 

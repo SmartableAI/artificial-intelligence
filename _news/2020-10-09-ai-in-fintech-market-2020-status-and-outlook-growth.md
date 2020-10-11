@@ -43,6 +43,22 @@ related:
         width: 800
         height: 500
         isCached: true
+  - title: "Fintech’s Key Ingredient as the Pandemic Rages On? Empathy."
+    excerpt: "Global financial crisis and personal financial hardship have marked 2020, and fintechs are in the trenches with their users."
+    publishedDateTime: 2020-10-08T10:36:00Z
+    webUrl: "https://www.financemagnates.com/fintech/news/fintechs-key-ingredient-as-the-pandemic-rages-on-empathy/"
+    ampWebUrl: "https://www.financemagnates.com/fintech/news/fintechs-key-ingredient-as-the-pandemic-rages-on-empathy/amp/"
+    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/fintechs-key-ingredient-as-the-pandemic-rages-on-empathy/amp/"
+    type: article
+    provider:
+      name: Finance Magnates
+      domain: financemagnates.com
+    quality: 44
+    images:
+      - url: "https://www.financemagnates.com/wp-content/uploads/2018/05/Fintech-880x400.jpg"
+        width: 880
+        height: 400
+        isCached: true
   - title: "FinTech, Automotive AI, and More in This Week’s Top Mobile ID Stories"
     excerpt: "It's been another rich and varied week in Mobile ID World news, and that's reflected in this week's roundup of our most popular stories."
     publishedDateTime: 2020-10-10T18:50:00Z

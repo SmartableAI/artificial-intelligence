@@ -51,18 +51,18 @@ related:
         height: 481
         isCached: true
   - title: "Maxim Integrated's Neural Network Accelerator Chip Enables IoT Artificial Intelligence in Battery-Powered Devices"
-    excerpt: "For details about Maxim Integrated's Artificial Intelligence solutions, visit http://bit.ly/Maxim_AI To order MAX78000 or learn more, visit http://bit.ly/MAX78000 ..."
-    publishedDateTime: 2020-10-07T14:00:00Z
-    webUrl: "https://www.finanzen.net/nachricht/aktien/maxim-integrated-s-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-9368772"
+    excerpt: "PRNewswire/ -- The MAX78000 low-power neural network accelerated microcontroller from Maxim Integrated Products, Inc. (NASDAQ: MXIM) moves"
+    publishedDateTime: 2020-10-07T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/maxim-integrateds-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-301147039.html"
     type: article
     provider:
-      name: Finanzen
-      domain: finanzen.net
-    quality: 52
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 50
     images:
-      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-        width: 600
-        height: 315
+      - url: "https://mma.prnewswire.com/media/1307840/Maxim__MAX78000.jpg?p=facebook"
+        width: 1920
+        height: 1005
         isCached: true
   - title: "Maxim Integrated Releases a New NN Accelerator Chip for Low-Power Processing at the Edge"
     excerpt: "Maxim Integrated released its newest product, a low-power NN accelerator chip, with the hopes of bringing AI to the edge. We interviewed Kris Ardis, executive director of Micros, Security, and Software Business Unit at Maxim Integrated to get the details."

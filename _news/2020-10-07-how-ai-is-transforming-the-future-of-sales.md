@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/07/how-ai-is-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/07/how-ai-is-transforming-the-future-of-sales/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://www.oracle.com/a/tech/img/og-ai-work-facebook.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "4 Ways Artificial Intelligence Will Transform Food Businesses"
-    excerpt: "For many people, the concept of Artificial Intelligence (AI) is something of fantasy novels and films where powerful machines take over the human race. It’s true, AI embodies limitless power and potential,"
-    publishedDateTime: 2020-10-06T19:34:00Z
-    webUrl: "https://www.foodnavigator-usa.com/Product-innovations/4-Ways-Artificial-Intelligence-Will-Transform-Food-Businesses"
-    type: article
-    provider:
-      name: Food
-      domain: foodnavigator-usa.com
-    quality: 37
-    images:
-      - url: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator-usa.com/resources/health-and-nutritional-ingredients/4-ways-artificial-intelligence-will-transform-food-businesses/11828659-1-eng-GB/4-Ways-Artificial-Intelligence-Will-Transform-Food-Businesses.png"
-        width: 750
-        height: 422
         isCached: true
   - title: "The future for AI and enterprise looks bright"
     excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."

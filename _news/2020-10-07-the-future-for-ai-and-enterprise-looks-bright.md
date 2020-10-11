@@ -68,20 +68,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "4 Ways Artificial Intelligence Will Transform Food Businesses"
-    excerpt: "For many people, the concept of Artificial Intelligence (AI) is something of fantasy novels and films where powerful machines take over the human race. It’s true, AI embodies limitless power and potential,"
-    publishedDateTime: 2020-10-06T19:34:00Z
-    webUrl: "https://www.foodnavigator-usa.com/Product-innovations/4-Ways-Artificial-Intelligence-Will-Transform-Food-Businesses"
-    type: article
-    provider:
-      name: Food
-      domain: foodnavigator-usa.com
-    quality: 37
-    images:
-      - url: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator-usa.com/resources/health-and-nutritional-ingredients/4-ways-artificial-intelligence-will-transform-food-businesses/11828659-1-eng-GB/4-Ways-Artificial-Intelligence-Will-Transform-Food-Businesses.png"
-        width: 750
-        height: 422
-        isCached: true
   - title: "Artificial intelligence is for the birds"
     excerpt: "Department of Computer Science and Engineering professor Shawn Newsam and Electrical Engineering and Computer Science graduate student Shrishail “Shree” Baligar are using artificial intelligence (AI) to detect bird calls in the recordings."
     publishedDateTime: 2020-10-08T00:00:00Z
