@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-11T13:42:00Z
 originalUrl: "https://www.analyticsinsight.net/top-artificial-intelligence-investments-and-funding-in-october-2020/"
 webUrl: "https://www.analyticsinsight.net/top-artificial-intelligence-investments-and-funding-in-october-2020/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Webp.net-resizeimage-1-1.jpg"
@@ -23,6 +24,6 @@ images:
     height: 653
     isCached: true
 
-secured: "e9Io8NFoTn5HIs12Gq3ilkRfqgLB9S+GVQ7N9SrEjqBFc2LOyOwtNpYuGBpJaS4odADMSZLSXXz1krx/4/IXoJ3+ZzAbucpe52v6OCGacM8ftiG2d6+REvnUTqVBVxLQtmJyO08ETaqxxaum5CSdHvagDVRsYjYJjmky0hyiDRpktFqSaB1yI1BJAgnD92l3X5ATAp4y60HKZSiE6h5HpWZiLjq/rar5mT/fFcmIouO1E3iXj8IEVHL8I7hLn4Hq8AFdwiA84/RVD9zmwU4dKZzFUOTaqNSKeVU1fkDdDhOPBTA2qLbH1BBmMg2CnafUCqEBWAuUQMn4XRLvc/45uw8ln4sv709J46xs62CiHfk=;eOvkd+5fjeFiAh97dvNqXg=="
+secured: "VN4aaCEofLMHTvXcwF9NCtS8LvSG2yy7f6s7/xt1YZ3KURFr9BBurbqTkqrlmdpKnv3ODRqgCOhe7Ptp4V4z/d+CcsCnVX6WQUELdMnAQ/3qBy2OC7Bw0jRvoElRFVhmbOd2A1FJ/tNYxcfYn6ZSRdD701rTWt9zCDY5ILAaSIiqEIXoTwE4e0AU9w2Ek0ADU3TmVvow2iVdr1u5hNpGhEexHjf4NCjyXMNVu8xrtDJPAzgNl+lbUJ6X2zB2lPI6cmqYjaNqeGl81TNngW665MXE9wBlkyQBF8M2hCWNxkgsltJrK689ohZ0HxdFbRUofa/cnZ7NYTT46GtqTD2aDAzqxtWkgK/mU4X7t2KrkYJTmyjSPYBUNxW5NK2TVJk0v1K8hWxxe4jPC5ix1NCBc9R65+mynlmPcSYo3Zk1zodfPlS8tNIQFWKMSyEc4VMU1kjxRdlYGLpmrDAuc6MyOnBNxmDG7iOq3JnXo1eptI+h/G8mZpYW09dTkICcq1IVFIAcDtHLJ2SuXlnmr+prpw==;x5WdriI3ARCAN+HiOL7b6w=="
 ---
 

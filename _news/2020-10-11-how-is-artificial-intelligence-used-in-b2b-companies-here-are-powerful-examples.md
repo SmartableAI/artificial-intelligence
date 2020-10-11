@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-11T13:36:00Z
 originalUrl: "https://www.linkedin.com/pulse/how-artificial-intelligence-used-b2b-companies-here-powerful-marr"
 webUrl: "https://www.linkedin.com/pulse/how-artificial-intelligence-used-b2b-companies-here-powerful-marr"
 type: article
-quality: 32
-heat: 32
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C5612AQGQWfYANMb3rw/article-cover_image-shrink_720_1280/0?e=1608163200&v=beta&t=r0-X7ooUKQ0yxEnWb7s7etVufEzuJ1JRIhISgQ2E98s"
@@ -27,6 +28,6 @@ images:
     height: 692
     isCached: true
 
-secured: "UzniIFPgF336zA26bxS8bYci1nqi2xqNBnpgyFaPaGoVF6adANvQF/FwTPja810HakGmOo9fOTlK2GVGQYvAXLmaFdJS4HczczyPO9sbiXbOvQiybNEjLh4yZp5oDBYJdMQXY4XAO8WNUorsXFeam6A2biI/98elW81ZxjY+Btr0FcuWyFQD+fGM0x8j/dBQgj3cfUzAraq3T0t8hNFgXgAwoWe3L592pcWd4f4+zfdj575t5uWtMvCRxBxYi8R1AJWByeip1asx/04AdUmChjaToIXF1gEiUzD1ODUGBF0qlHBwZMZl2B8aYVS0bzBJu6INksG8thalJQJQjO/jEFiqznwkagTvJyvK6wmFbNo=;doQpqBbQ6Yl/U3Wyjn/plQ=="
+secured: "9AIqnShJvMss7SsUMmdyrjkqfQSwrQTkNQoSKNq8ICc6OkExyBWub7+4l/uHli1AIZJwIogo8sLYJLtTwuVEoelBr7K16YuT9J3SgYKGGdX5/0I4bJz998T1ZEy+/Qur4F58Yv9H3zkQ1YEyWJyrwJd+oe/pnGEV+E6a8Nrz9utD6qnQMvRRp4VlKTH6baBLIel81weghSuqP0dVR735QyGyN1ZrDa544wScHmCPsWnYrs93mcsugMWSNfxeTMSUVswcayJAgnc7ek8OfKggrtd++eCLZatSeAiwWbNTMweqsrxZdU2uhyouQEuoV3jgmlgJfwV4gd1RZNTZodpKBRzs+T+VI9DzEzb+yxtW7MuNcA8WMBPZOHWYUO+SZXrJJo56Y2BPCW01UhQy+Di7f5CEtzJI+nORKQQ6MeXd5jB2thIUCmwVpO5TVkC6R4iHmdyP6sKDhNzc0Mf4H6JAMseX2mbqroE1oAKwAkI46nqowAKD2BlMckpN+9Ln9M/+ryULilGBVySqVJ+LLAxdQA==;QPIQ0JSSP69MoTU5ebbgwQ=="
 ---
 
