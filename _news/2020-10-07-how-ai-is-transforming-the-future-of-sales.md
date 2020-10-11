@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/07/how-ai-is-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/07/how-ai-is-transforming-the-future-of-sales/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 117
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "The present and the future of supply chain is AI"
-    excerpt: "By Saroj Tripathi, Vice President, Bristlecone Inc.   Saroj is a supply chain thought leader with more than two decades of experience in partnering with global organizations in their journey to digital transformation and technology enablement."
-    publishedDateTime: 2020-10-07T04:27:00Z
-    webUrl: "https://techcrunch.com/sponsor/bristlecone/the-present-and-the-future-of-supply-chain-is-ai/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 67
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/10/Headline-and-Native-Ad-Graphic.jpg?w=600"
-        width: 600
-        height: 400
-        isCached: true
   - title: "The future of work: AI and mental health"
     excerpt: "Workers face unprecedented mental health crises, driven by the COVID-19 pandemic and other emergencies—but AI can help restore the balance."
     publishedDateTime: 2020-10-07T13:08:00Z
@@ -57,20 +43,6 @@ related:
       - url: "https://www.oracle.com/a/tech/img/og-ai-work-facebook.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "The future for AI and enterprise looks bright"
-    excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
-    publishedDateTime: 2020-10-07T04:32:00Z
-    webUrl: "https://www.cio.com/article/3584831/the-future-for-ai-and-enterprise-looks-bright.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 37
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/05/ai-vendor-relationship-management_artificial-intelligence_hand-on-virtual-screen-100795246-large.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Artificial intelligence is for the birds"
     excerpt: "Department of Computer Science and Engineering professor Shawn Newsam and Electrical Engineering and Computer Science graduate student Shrishail “Shree” Baligar are using artificial intelligence (AI) to detect bird calls in the recordings."

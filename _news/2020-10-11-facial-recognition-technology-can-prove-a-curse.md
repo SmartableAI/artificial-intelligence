@@ -73,20 +73,6 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "From AI to facial recognition: how China is setting the rules in new tech"
-    excerpt: "In its bid to rival the US, Beijing wants to establish the industrial standards that will shape future industries"
-    publishedDateTime: 2020-10-07T04:00:00Z
-    webUrl: "https://www.ft.com/content/188d86df-6e82-47eb-a134-2e1e45c777b6"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 53
-    images:
-      - url: "https://www.ft.com/assets/product/dynamic-barriers/global-trade.jpg"
-        width: 619
-        height: 377
-        isCached: true
   - title: "Best facial recognition security cameras to buy this year - CNET"
     excerpt: "As President Trump’s National Security Advisor, John Bolton spent many of his 453 days in the room where it happened, and the facts speak for themselves. The result is a White House memoir that is the most comprehensive and substantial account of the Trump Administration,"
     publishedDateTime: 2020-10-11T08:35:00Z

@@ -59,20 +59,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "From AI to facial recognition: how China is setting the rules in new tech"
-    excerpt: "In its bid to rival the US, Beijing wants to establish the industrial standards that will shape future industries"
-    publishedDateTime: 2020-10-07T04:00:00Z
-    webUrl: "https://www.ft.com/content/188d86df-6e82-47eb-a134-2e1e45c777b6"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 53
-    images:
-      - url: "https://www.ft.com/assets/product/dynamic-barriers/global-trade.jpg"
-        width: 619
-        height: 377
-        isCached: true
   - title: "Best facial recognition security cameras to buy this year - CNET"
     excerpt: "As President Trump’s National Security Advisor, John Bolton spent many of his 453 days in the room where it happened, and the facts speak for themselves. The result is a White House memoir that is the most comprehensive and substantial account of the Trump Administration,"
     publishedDateTime: 2020-10-11T08:35:00Z
@@ -116,6 +102,6 @@ related:
         height: 1035
         isCached: true
 
-secured: "VCd8fFK2tfX99OiESFUihLAOY1MK1SNQKxxjFpAi4xj8ASiyONbzys9CPjYDdMU0clXtoy6hfBchs2IluvelohHm1TUdC+5ze1k6RD2JCO0XBrEsZ3Tk8RuJiKEWC02yckHm4m8BZmdcowySRJBiI2kFuXYHQJ/EYrPUf///nvdMi2NlgwOWSvdG2M9lFP3jz5gtiL0InlDowUo2cvSHXByl4f4vipxKGaEzberaVBuIa/mAE1NMWYugHkvMxvWtAs+QjqEzG/5WIYF4SXHl9MgqxtLqukTTFOfoFWqz4lO+h+KQAmETr4CX+/z7p+zWudStKwZipoQUTErHg8DVIyZhmOp4QUsiFM10Vq86Ahg=;N70GDFuWJxekSUsX4Nm8Ug=="
+secured: "SWaMCfdH8XuRmp08ppBhNn2LFeEzRYijYrO7odQuuZTHXK+nYcEcijlwAR1gKaw8qU8Fiej7DBdEWNkgMavTet/DDpOcGpD0MAroWCvIriWB0PAzVBtiVeC+Gan3fBetCB6WYtQ4z9j46mgTVTLaaHibteAzbWc+fWHCqXqH/182/aYgZJVif07LfPiZm36A+2OWnl1DhN0ppHz6VkIc1IvleTIzjpnLJR21haTuEt+iCiCdLw4SDXzkjRXfOyeIRY+b+lCi6yYjw9FxhMSO2+BjZvDx7WwYzmYWAtpEebciDjq3oFk22gPuu8dTZc9GkbBs43JGteD2XXZYiPMzqPdqbqBV7/qsUXVaZitht9tQF62KG8kI0jFwM77lOsV+P28UgABU7KL3+bZZHzQf4ZfQCg5bMHazeio/lgXP8veslo6VDFGB+kfch2kI2ccMJJvnA3eq6bGvTdkCxo80jwsr6ou/fy+JXB7T1/+m00yOSuknAG/hXRXqvqYP/x1XMZ1ouyrbaRUx3GYFNL8DQg==;ydou7l4z4vEQxsW/fUUDiQ=="
 ---
 

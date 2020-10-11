@@ -42,21 +42,7 @@ related:
         width: 1920
         height: 1264
         isCached: true
-  - title: "Applying artificial intelligence to science education"
-    excerpt: "A new review published in the Journal of Research in Science Teaching highlights the potential of machine learning--a subset of artificial intelligence--in science education."
-    publishedDateTime: 2020-10-07T04:06:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-10/w-aai100520.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
-secured: "rJqiF3C2Kp+E/vFWc4QAp/rqjU+Uj1BR8r/1bbsX5OQ/MF3WzdevXQXqhzWgoSCpqkyAvnBxtN8VSlWqCl0aauyjmaq2eIIh3dNtaOM4UYT/xjWljE6mI11OM9+JJONMjxATx2LL4OUi72t+jsfb18gMar0TEiCWRxj9xAeLmoJgmNzQLkW8SFW2Bc39Wgce3yXjpVK4ECTOpUQYhvfvNzzjxnNid9tbnqmTbZ32HFZ5aMZED2h+ZNcf2wrbegsxGTLTtimE7pQsm7b3/KDYBYp2qNU9g25zzCPt/8hwDT7Ngf7NHSosksIez7B/Z3YwCWlX/BFTM9tAfcbaXkVavNtvg4FPZebjRv/WSUTjV1o=;jPzkri9ab68p4pbFDzANDQ=="
+secured: "2OeIZuwo2ZN8e+Ebuu1Oki4L4EeL2qloTmY6N5m4jC1N85OT/mhl2IaH4lT5bHFLTFNfWPDXM6i8J2dDlKHD15MRp/BTLiTU6vkHAg8MCg2fYlVfz3fHD25OIOGrg4bpIm4TB5mHvdDzAQJ51PraLTWsqvXifq15KpY8/Pu+MUcVc5XZjgk1my/PkMDJdarxr2ofzfZ/aMUuoAt5XGrTx966W/ebZKkme3F+Ofd6GX3B9E63aTCL7wzWXueiSWMiepvuIbMHjbY9YM0udNZCUXTuIadqhx/5ODN7awQdBuim3pYglW/5Z/klWs9+S8Zi9PDGWb4IKTtzpyz0mZtuWCJvFosbe2Ue1MCrRujAg9eoI47QQzIRR5yk7oawVuNqUcQ8gf74zjGuIAZZTGB3rHstW6IyxrVI07wBwIpk3LDBIbSjGQm53ofKg0VY2xCskzjmwxdElaiURDoj2GsKSXVGaJzc4AyxE3/GMu/xC/fidyGGXdWKMbKnOdEBRkYMSrhi29szlXS7EeFpV6jauQ==;RmeFybQGX83eB/HgW+9M6A=="
 ---
 

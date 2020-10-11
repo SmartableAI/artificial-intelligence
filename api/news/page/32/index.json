@@ -2,48 +2,6 @@
   "page": 32,
   "value": [
     {
-      "path": "_news/2020-09-13-how-to-teach-artificial-intelligence-some-common-sense.md",
-      "title": "How to Teach Artificial Intelligence Some Common Sense",
-      "excerpt": "FIVE YEARS AGO, the coders at DeepMind, a London-based artificial intelligence company ... It controls Alexa’s discourse acknowledgment, Waymo’s self-driving vehicles, and Google’s on ...",
-      "sourceUrl": null,
-      "webUrl": "https://medium.com/@mattrahro.b.e.l.h.9.6/how-to-teach-artificial-intelligence-some-common-sense-aa78b28c0562",
-      "originalUrl": "https://medium.com/@mattrahro.b.e.l.h.9.6/how-to-teach-artificial-intelligence-some-common-sense-aa78b28c0562",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-13T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-13-how-proquo-ai-turns-marketing-art-into-science-to-power-challenger-brands-to-success.md",
       "title": "How proquo ai Turns Marketing Art Into Science To Power Challenger Brands To Success",
       "excerpt": "In a commoditised marketplace, it's your business's brand that will determine your success, believes proquo ai founder Nadim Sadek",
@@ -1174,6 +1132,57 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-12-gary-marcus-covid-19-should-be-a-wake-up-call-for-ai.md",
+      "title": "Gary Marcus: COVID-19 should be a wake-up call for AI",
+      "excerpt": "COVID-19 may be a \"wake-up call\" for the environment and global equality, but Gary Marcus thinks it should serve as a wake-up call for AI too.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/11/gary-marcus-covid-19-should-be-a-wake-up-call-for-ai/",
+      "originalUrl": "https://venturebeat.com/2020/09/11/gary-marcus-covid-19-should-be-a-wake-up-call-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/Gary-Marcus.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/11/gary-marcus-covid-19-should-be-a-wake-up-call-for-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/11/gary-marcus-covid-19-should-be-a-wake-up-call-for-ai/amp/",
+      "publishedDateTime": "2020-09-11T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

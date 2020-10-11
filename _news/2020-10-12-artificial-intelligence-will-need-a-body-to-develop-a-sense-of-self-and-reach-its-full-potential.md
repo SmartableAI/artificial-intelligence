@@ -8,8 +8,8 @@ webUrl: "https://scroll.in/article/975101/artificial-intelligence-will-need-a-bo
 ampWebUrl: "https://amp.scroll.in/article/975101/artificial-intelligence-will-need-a-body-to-develop-a-sense-of-self-and-reach-its-full-potential"
 cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/975101/artificial-intelligence-will-need-a-body-to-develop-a-sense-of-self-and-reach-its-full-potential"
 type: article
-quality: 46
-heat: 46
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/72220-ayyvbkougz-1598280813.jpg"
@@ -26,6 +27,6 @@ images:
     height: 315
     isCached: true
 
-secured: "Z8svbgLzVf7M4iFazQz2E0ARU5QOyPeJJqQC0M9j3EZ1qjlqblwq2sjxWjUsBolXNEBx6MEtiQnou1Oqxvae+nIJ3X0pMfXPn625eE7l3NzGufxHjyMgCugIkHO5zHbkX5YN0cis0O8QLDIFbQmzAy2/EHPg6ucI5/M+hr/4ca3vxVh9FJRsH+iOtgUhdPdDk3uBUaGd/FIKIuimPknbB2xm5SVkvhPrBQw0VraiYtNgP8899AkEoswtPQTO/vc1n3r8W6gD1DHAAxA8KZrPM4RsnQX0lZmM8pVmFf1dmIZa5pb607S3Keo3P1ycS+vJFmSaABPxJOAMjmCsFc7gWP9jojWHP1IBFlgTKa6fDGc=;RadDUq4ufV2m/GigSHPRdg=="
+secured: "DH7TETK8fpgYttfWJb8J+fAUNdV7fFbp+HpZ/PBAZuTjP12E4VJ8+kzx+q7EmqNUa+CXDPe/Gwujhda7RWRXhC7cwEH6PZT+wbrZaNymjJxNGtJCcPKUiFSFX/EjsYHngkJy/o8Kfh6FtTrsPfTMrlalnW7yPOT4uRu1m91EA0Z0vevaboUgInKFKtJ9cCfdgUA5rH5PU346FXdKQ1LV2KMAsXlDdCRA26Igb3BK5CRt9wnJQYCO44WeR+LctjBKIf6vJTzTkxJupglB7Yi/SmU9F5JHpIBvNqbLbzFJbqcvZlvR5nqXpIzPUkvjG2SyD620o20aajYeatKtH7IlZn7bICAgCYz8/T1Ygv4NkUL2+jY7/YMuZibjeWtpWS2RyddShXoJA+KXUioOy7wMgWpxS+iynd6SYrZ0XQdQcKqFirzEbtUfB8uljUc54GB5+c0p5PXhH1JltD+iMQgwzjHrojP0k2mszGU+BWLRnXH+rE5tuGBiMWZ8tfsTzQYhN4+PvX2+oPj/XDo4KCbSIw==;RVQ9ZiPcljLKr+0z1Sn0Yw=="
 ---
 

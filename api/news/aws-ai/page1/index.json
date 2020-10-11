@@ -113,7 +113,7 @@
       "originalUrl": "https://www.forbes.com/sites/amazonwebservices/2020/10/07/bringing-the-power-of-embedded-analytics-to-your-apps-and-services-with-amazon-quicksight/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -1242,30 +1242,30 @@
       "title": "Amazon wants you to pay with a wave of your hand",
       "excerpt": "Amazon said in June that it would temporarily stop selling its Rekognition software to police. When it comes to Amazon One data, Kumar said the company isn't storing any information locally on ...",
       "sourceUrl": null,
-      "webUrl": "https://www.cnnphilippines.com/business/2020/9/29/Amazon-pay-with-wave-of-hand-.html",
-      "originalUrl": "https://www.cnnphilippines.com/business/2020/9/29/Amazon-pay-with-wave-of-hand-.html",
+      "webUrl": "https://www.kmov.com/news/amazon-wants-you-to-pay-with-a-wave-of-your-hand/article_8acc5ef8-50a7-5636-a159-2079fa9c8aee.html",
+      "originalUrl": "https://www.kmov.com/news/amazon-wants-you-to-pay-with-a-wave-of-your-hand/article_8acc5ef8-50a7-5636-a159-2079fa9c8aee.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "http://cnnphilippines.com/.imaging/mte/demo-cnn-new/750x450/dam/cnn/2020/9/29/Amazon-One_CNNPH.jpg/jcr:content/Amazon-One_CNNPH.jpg",
-          "width": 750,
-          "height": 450,
+          "url": "https://bloximages.newyork1.vip.townnews.com/kmov.com/content/tncms/assets/v3/editorial/2/a7/2a7bbfc4-f8c8-5f6c-a400-d8f34c2a85a2/5f732094a5824.image.jpg?resize=1024%2C576",
+          "width": 1024,
+          "height": 576,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-29T02:41:00-07:00",
+      "ampWebUrl": "https://www.kmov.com/news/amazon-wants-you-to-pay-with-a-wave-of-your-hand/article_8acc5ef8-50a7-5636-a159-2079fa9c8aee.amp.html",
+      "cdnAmpWebUrl": "https://www-kmov-com.cdn.ampproject.org/c/s/www.kmov.com/news/amazon-wants-you-to-pay-with-a-wave-of-your-hand/article_8acc5ef8-50a7-5636-a159-2079fa9c8aee.amp.html",
+      "publishedDateTime": "2020-09-29T05:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN Philippines",
-        "domain": "cnnphilippines.com",
+        "name": "KMOV",
+        "domain": "kmov.com",
         "images": null,
         "publishers": null,
         "authors": null

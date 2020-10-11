@@ -73,20 +73,6 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "From AI to facial recognition: how China is setting the rules in new tech"
-    excerpt: "In its bid to rival the US, Beijing wants to establish the industrial standards that will shape future industries"
-    publishedDateTime: 2020-10-07T04:00:00Z
-    webUrl: "https://www.ft.com/content/188d86df-6e82-47eb-a134-2e1e45c777b6"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 53
-    images:
-      - url: "https://www.ft.com/assets/product/dynamic-barriers/global-trade.jpg"
-        width: 619
-        height: 377
-        isCached: true
   - title: "Facial Recognition Technology Can prove a Curse"
     excerpt: "Divyanshu Dembi Facial recognition technology as a concept, is not new. Charles Darwin, in his book Expressions of Emotions argued that human facial"
     publishedDateTime: 2020-10-10T18:34:00Z

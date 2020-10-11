@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-securit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-to-buy-this-year/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://news-image-prod-imgix.tech.tvnz.co.nz/content/dam/images/news/2020/08/19/iStock-1188510725.jpg?w=700&h=393.75&fit=crop&auto=format"
         width: 700
         height: 394
-        isCached: true
-  - title: "From AI to facial recognition: how China is setting the rules in new tech"
-    excerpt: "In its bid to rival the US, Beijing wants to establish the industrial standards that will shape future industries"
-    publishedDateTime: 2020-10-07T04:00:00Z
-    webUrl: "https://www.ft.com/content/188d86df-6e82-47eb-a134-2e1e45c777b6"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 53
-    images:
-      - url: "https://www.ft.com/assets/product/dynamic-barriers/global-trade.jpg"
-        width: 619
-        height: 377
         isCached: true
   - title: "Best facial recognition security cameras to buy this year - CNET"
     excerpt: "As President Trump’s National Security Advisor, John Bolton spent many of his 453 days in the room where it happened, and the facts speak for themselves. The result is a White House memoir that is the most comprehensive and substantial account of the Trump Administration,"

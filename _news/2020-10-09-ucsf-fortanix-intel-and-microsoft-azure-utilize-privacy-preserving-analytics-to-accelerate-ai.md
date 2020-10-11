@@ -41,20 +41,6 @@ related:
         width: 600
         height: 316
         isCached: true
-  - title: "New Alation release deepens machine learning and analytics to enable better data insights"
-    excerpt: "Enabling enterprises to “find the signal in the noise” is how big data company Alation Inc. is growing its business. Today the company announced a new release of its flagship data intelligence platform."
-    publishedDateTime: 2020-10-07T03:08:00Z
-    webUrl: "https://siliconangle.com/2020/10/06/new-alation-release-deepens-machine-learning-analytics-enable-better-data-insights-cubeconversations/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 30
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/Satyen-Sangani-CC-2020.jpg"
-        width: 666
-        height: 374
-        isCached: true
 
 secured: "ihiLaOdK4Pg/0uyPV/AlnOxtp0rNflQM/9WKAFA6VVEnOo77IPeEoEQa/xnvsBVuFNpLYYyTe6IBbyAc9cpBfvZPllhg+4Z3pAU1lTR20lC7ApRNm41PaHyrbCeqTHkRqv9wkEmhfRemsQuR67d5ElOrcfA3Jiv0hF447Mun35uOuv4CzbDoR1uoWP3pwca+Wrd+hpFanXv3Y6ouL0iRL4ZvI2SmAczEbAGDHhIhWKqfrLxz6K4p2VRKHJmBTZ6k0g0bQubte/XQiGQVdgsr6ZF4eSV8DMcNksx01z1eHVyDjUMM2LxwElyMm+G3cQbngrr5l9T/PGMMhxfT/PxFv9WQsPt+0iM4FrQXHMLrKrZbwSJpRII6bJ2Ugzf9+WI3wRGdP/2oZ0KroqYlB9bm8MwqOHOp/CdP5v20mji2e2on/FFhdwEQxE3FGTh1rLh9eO9Fqamts0Psjc+rzy/DbW5m8YFGSAwqQ1q5qkwCluoGpwiJNPDTYTu3TsiiChB5uOYrtZI1PSMhxbjq6AHuXg==;lP6kRcQYv3Gxpougv9QaGw=="
 ---

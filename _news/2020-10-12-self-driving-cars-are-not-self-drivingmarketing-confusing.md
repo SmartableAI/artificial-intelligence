@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Raining on the parade of self-driving cars"
-excerpt: "Developing sensors that enable autonomous vehicles to cope with tough weather conditions is tricky – and the economics may be more challenging still"
-publishedDateTime: 2020-10-09T16:39:00Z
-originalUrl: "https://physicsworld.com/a/raining-on-the-parade-of-self-driving-cars/"
-webUrl: "https://physicsworld.com/a/raining-on-the-parade-of-self-driving-cars/"
+title: "Self-Driving Cars Are Not Self-Driving–Marketing Confusing."
+excerpt: "Motorists using active driving assistance systems, which combine vehicle acceleration with braking and steering, tend to overlook safety limitations when the branding and marketing used to sell it"
+publishedDateTime: 2020-10-11T20:18:00Z
+originalUrl: "https://www.autoconnectedcar.com/2020/10/self-driving-cars-are-not-self-driving-marketing-confusing/"
+webUrl: "https://www.autoconnectedcar.com/2020/10/self-driving-cars-are-not-self-driving-marketing-confusing/"
 type: article
-quality: 39
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Physics World
-  domain: physicsworld.com
+  name: autoconnectedcar.com
+  domain: autoconnectedcar.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://physicsworld.com/wp-content/uploads/2020/10/bad-weather-caution-497639283-iStock_trendobjects.jpg"
-    width: 1200
-    height: 797
+  - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2018/05/teslacrassh.jpg"
+    width: 789
+    height: 502
     isCached: true
 
 related:
@@ -57,21 +57,21 @@ related:
         width: 1200
         height: 898
         isCached: true
-  - title: "Self-Driving Cars Are Not Self-Driving–Marketing Confusing."
-    excerpt: "Motorists using active driving assistance systems, which combine vehicle acceleration with braking and steering, tend to overlook safety limitations when the branding and marketing used to sell it"
-    publishedDateTime: 2020-10-11T20:18:00Z
-    webUrl: "https://www.autoconnectedcar.com/2020/10/self-driving-cars-are-not-self-driving-marketing-confusing/"
+  - title: "Raining on the parade of self-driving cars"
+    excerpt: "Developing sensors that enable autonomous vehicles to cope with tough weather conditions is tricky – and the economics may be more challenging still"
+    publishedDateTime: 2020-10-09T16:39:00Z
+    webUrl: "https://physicsworld.com/a/raining-on-the-parade-of-self-driving-cars/"
     type: article
     provider:
-      name: autoconnectedcar.com
-      domain: autoconnectedcar.com
-    quality: 24
+      name: Physics World
+      domain: physicsworld.com
+    quality: 39
     images:
-      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2018/05/teslacrassh.jpg"
-        width: 789
-        height: 502
+      - url: "https://physicsworld.com/wp-content/uploads/2020/10/bad-weather-caution-497639283-iStock_trendobjects.jpg"
+        width: 1200
+        height: 797
         isCached: true
 
-secured: "TM2ynZA+z0SdLud1GFn3OFZzFP01Yp7RLi+bO6WC4Kpj819/COL071E5y3MUUqGi2HV0cYWuLW/4jE2lz1c5xT82c+o6sQ8d9hNFkC81Zeei5xO1C01psWR/Hcon13CtX6JEzQTHQriB23mLvRlA+9q3m1PUJVtbqJtezp1Z4WpddQUGQKsor+cnK6XmESy/PDKSzj4Jmm2FqLJgsiu+czeXXWubEJXGwixgWyyZiDmqOfQCSOUn3v3OYfFS+iLsBdhZr6qtzbDdinMaJd6fsDv0UUdTHsdawNsNLiKrs+se7kM/utkiKHSiqh1OutpOzRpDI+/2qF57F6ceprFnDMhj8H3VIvZwPKZM+zRfu2d0YnBeNjGw+UkrFT4Le2+OnA/n7pGzvrQTiUPTw+sJUCSZ3IZjySPQ0/8ZCXqviMdPqwJa6CzVOU57MsTIFET7AcxNjGc9aavchO7g+Wjzw2+WUNPZw2TZ3jsNo+Cxgwi5UR0o5fEBdX1M9sUVmwBk4RcwTR4yZgQer5GajHxUfA==;7fVmcoHn7Kk1jfCZGwtmiA=="
+secured: "NuSmSmTRnoKZM5Tw+B7Hg+98A4KKOuG/+N+QgSY1aYyDYW6gpm5Z/c4ZLXY1Pkff23nLrD3WizQ/omgcFkWjesLDiMFgx9PZwRIYM6ZRHeFgxnv7w+LN4dTbGDOiPlA5wx27KK8oMSCeEnFRH8jwJzQdWhhHPow9e2bAAEeDFdKfuPBDJk3D4yKt70sCDoejmzkJT70mBestDICr+m3qP+XycqxcxhBkSOs9msgnqBv4NDCXnSIbUC0YAtW/Sf8I/tcfrkEjMYFuYiabagEvUPSD3uIxyMJKGmgdjWRB04c8SryKKpfL4ie/tXaxHO/LRT5NdQChI55TS2dPvbKFy7y6y4cPwmI6TJDzOXNa738=;Ta8yC4ipUQtWS7LRNuc8mA=="
 ---
 
