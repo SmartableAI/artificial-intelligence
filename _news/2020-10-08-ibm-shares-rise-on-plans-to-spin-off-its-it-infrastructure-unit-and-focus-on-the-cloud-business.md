@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/10/08/ibm-shares-surge-on-plans-to-spi
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/08/ibm-shares-surge-on-plans-to-spin-off-unit-into-separate-publicly-traded-company-.html"
 type: article
 quality: 160
-heat: 210
+heat: 220
 published: true
 
 provider:
@@ -106,6 +106,17 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "IBM to spin off managed infrastructure; call it NewCo"
+    excerpt: "The new IBM will concentrate on cloud computing and artificial intelligence. It will help its customers modernize tech infrastructure such as private data centres. “Now is the right time to ..."
+    publishedDateTime: 2020-10-09T12:37:00Z
+    webUrl: "https://www.ciol.com/ibm-spin-off-managed-infrastructure-newco/"
+    ampWebUrl: "https://www.ciol.com/ibm-spin-off-managed-infrastructure-newco/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/ibm-spin-off-managed-infrastructure-newco/amp/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 24
 
 secured: "2YtPGIxbLE2qzkoisex99SkCXEzBe8eynIEL+Wzb9ohXmMZ9ffO71vTP1r6zJbtgy8Fwn5RAa2umujy/g/XrwCW0oYvmCqGaP8wp6f5bYbEiPgR1h6db3ghmfX/BGjb+nG2sT7YHWhWYqeMh152TO59pb5m0wPbs02aRLpDd7QFuSXkxklE+Upf//e09nYSLtF9FG6ZzM1Wo71LiWOn0hyArJ2/k+hJM5ykJuMDSWIUcdIUECXGbiCZqa1YbX5nsnnPFT/xOkYTxVvKeKhwmws5MdRaJh6K2pFGKi70QHv3USt4Ufh7yceW1CtdtSeTIPdM/t1+yKaXn8jLuhv3ZWfNjQhiByqZwBIoWdF+peQA=;FGo/w4Tw2yIAo6r+DOEJew=="
 ---

@@ -57,22 +57,6 @@ related:
         width: 2000
         height: 1334
         isCached: true
-  - title: "Staunton City Schools earns statewide recognition for innovation"
-    excerpt: "STAUNTON - Staunton City Schools (SCS) was recently designated a \"School Division of Innovation\" by the Virginia Board of Education. The school division was one of just 15 school divisions in the state to earn the honor,"
-    publishedDateTime: 2020-10-06T18:08:00Z
-    webUrl: "https://www.newsleader.com/story/news/2020/10/06/staunton-city-schools-earns-statewide-recognition-innovation/5896541002/"
-    ampWebUrl: "https://amp.newsleader.com/amp/5896541002"
-    cdnAmpWebUrl: "https://amp-newsleader-com.cdn.ampproject.org/c/s/amp.newsleader.com/amp/5896541002"
-    type: article
-    provider:
-      name: Staunton News Leader
-      domain: newsleader.com
-    quality: 44
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2018/10/12/PSTA/3059e9b9-5422-49ee-99b5-82cb6b9caa70-FinalWorkCS3Staunton-Logo-4CReverse.JPG?auto=webp&crop=587,327,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 668
-        isCached: true
   - title: "PlayStation inventor starts new career making robots"
     excerpt: "Ken Kutaragi, the legendary inventor of the PlayStation gaming console, is taking on one of the hardest jobs in robotics. And he’s getting paid nothing to do it. The founder of Sony’s gaming business is the new chief executive officer of Ascent Robotics Inc."
     publishedDateTime: 2020-10-09T22:50:00Z

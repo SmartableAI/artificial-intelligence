@@ -10,7 +10,7 @@
       "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-to-buy-this-year/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -264,7 +264,7 @@
       "originalUrl": "https://venturebeat.com/2020/10/09/ai-weekly-nvidias-maxine-opens-the-door-to-deepfakes-and-bias-in-video-calls/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -678,34 +678,34 @@
       ]
     },
     {
-      "path": "_news/2020-10-09-ai-is-revolutionising-video-codecs-heres-an-impressive-demonstration-how.md",
-      "title": "AI is revolutionising video codecs. Here's an impressive demonstration how",
-      "excerpt": "NVIDIA has released a demo of how it is using AI to revolutionise video conferencing. This is the future of video codecs.",
+      "path": "_news/2020-10-09-otologic-technologies-hopes-bring-artificial-intelligence-into-the-exam-room.md",
+      "title": "Otologic Technologies hopes bring artificial intelligence into the exam room",
+      "excerpt": "Otologic Technologies wants to use recordings during ear exams to enhance images inside the ear and compare them to a database of known ear abnormalities to make the",
       "sourceUrl": null,
-      "webUrl": "https://www.redsharknews.com/ai-is-revolutionising-video-codecs.-heres-an-impressive-demonstration-how",
-      "originalUrl": "https://www.redsharknews.com/ai-is-revolutionising-video-codecs.-heres-an-impressive-demonstration-how",
+      "webUrl": "https://madison.com/wsj/business/otologic-technologies-hopes-bring-artificial-intelligence-into-the-exam-room/article_507777b3-1f7d-5b4a-a45c-1268c0e5ec63.html",
+      "originalUrl": "https://madison.com/wsj/business/otologic-technologies-hopes-bring-artificial-intelligence-into-the-exam-room/article_507777b3-1f7d-5b4a-a45c-1268c0e5ec63.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 76,
       "tags": null,
       "images": [
         {
-          "url": "https://www.redsharknews.com/hubfs/NVIDIA%20is%20revolutionising%20video%20codecs-jpg.jpeg",
-          "width": 1920,
-          "height": 1080,
+          "url": "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/7/bb/7bb55d7f-31b4-5631-ba37-8813676011e7/5f6e23b91f0d3.preview.png?crop=366%2C232%2C1%2C58",
+          "width": 366,
+          "height": 232,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.redsharknews.com/ai-is-revolutionising-video-codecs.-heres-an-impressive-demonstration-how?hs_amp=true",
-      "cdnAmpWebUrl": "https://www-redsharknews-com.cdn.ampproject.org/c/s/www.redsharknews.com/ai-is-revolutionising-video-codecs.-heres-an-impressive-demonstration-how?hs_amp=true",
-      "publishedDateTime": "2020-10-09T07:07:00-07:00",
+      "ampWebUrl": "https://madison.com/business/otologic-technologies-hopes-bring-artificial-intelligence-into-the-exam-room/article_507777b3-1f7d-5b4a-a45c-1268c0e5ec63.amp.html",
+      "cdnAmpWebUrl": "https://madison-com.cdn.ampproject.org/c/s/madison.com/business/otologic-technologies-hopes-bring-artificial-intelligence-into-the-exam-room/article_507777b3-1f7d-5b4a-a45c-1268c0e5ec63.amp.html",
+      "publishedDateTime": "2020-10-09T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "redsharknews.com",
-        "domain": "redsharknews.com",
+        "name": "Madison.com",
+        "domain": "madison.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -715,7 +715,7 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "AI in Healthcare",
         "AI"
       ]
     },

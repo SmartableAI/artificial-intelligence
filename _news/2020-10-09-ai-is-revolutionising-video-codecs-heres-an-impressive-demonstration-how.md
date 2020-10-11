@@ -9,8 +9,8 @@ ampWebUrl: "https://www.redsharknews.com/ai-is-revolutionising-video-codecs.-her
 cdnAmpWebUrl: "https://www-redsharknews-com.cdn.ampproject.org/c/s/www.redsharknews.com/ai-is-revolutionising-video-codecs.-heres-an-impressive-demonstration-how?hs_amp=true"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: redsharknews.com
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI IN BANKING: How forward-looking banks are using maturing AI solutions to design both customer- and employee-facing innovations"
-    excerpt: "This report identifies AI use cases transforming the way FIs operate, the business impact of those use cases, and real-world examples of each."
-    publishedDateTime: 2020-10-06T18:48:00Z
-    webUrl: "https://www.businessinsider.com/ai-in-banking-report-2020"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
-    images:
-      - url: "https://i.insider.com/5e616b4dfee23d6e9e10f232?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "EU nations call for ‘soft law solutions’ in future Artificial Intelligence regulation"
     excerpt: "Fourteen EU countries have set out their position on the future regulation of Artificial Intelligence, urging the European Commission to adopt a \"soft law approach\"."
     publishedDateTime: 2020-10-08T14:34:00Z

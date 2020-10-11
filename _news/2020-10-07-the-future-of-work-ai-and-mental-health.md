@@ -55,20 +55,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Imperial Academics Design a Map to Show the Future of AI in Society"
-    excerpt: "The map designed by Imperial Academics has plotted the roles that AI could play in the future society which connects reality to science fiction."
-    publishedDateTime: 2020-10-06T17:33:00Z
-    webUrl: "https://www.analyticsinsight.net/imperial-academics-design-a-map-to-show-the-future-of-ai-in-society/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Machine-learning-to-automated-daydreaming-academics-map-future-of-AI.jpg"
-        width: 1680
-        height: 840
-        isCached: true
   - title: "4 Ways Artificial Intelligence Will Transform Food Businesses"
     excerpt: "For many people, the concept of Artificial Intelligence (AI) is something of fantasy novels and films where powerful machines take over the human race. It’s true, AI embodies limitless power and potential,"
     publishedDateTime: 2020-10-06T19:34:00Z

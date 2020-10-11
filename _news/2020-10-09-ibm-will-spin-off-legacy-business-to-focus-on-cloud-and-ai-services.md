@@ -106,6 +106,17 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "IBM to spin off managed infrastructure; call it NewCo"
+    excerpt: "The new IBM will concentrate on cloud computing and artificial intelligence. It will help its customers modernize tech infrastructure such as private data centres. “Now is the right time to ..."
+    publishedDateTime: 2020-10-09T12:37:00Z
+    webUrl: "https://www.ciol.com/ibm-spin-off-managed-infrastructure-newco/"
+    ampWebUrl: "https://www.ciol.com/ibm-spin-off-managed-infrastructure-newco/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/ibm-spin-off-managed-infrastructure-newco/amp/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 24
 
 secured: "dh29Pk53wPn/+js6gPUzUIQdzgBkWDBENVVAKYdKRHaP2QM0V0tOzzIKecEngteXVIpcmuw/biEB3lAUB6zdIhnIqB3wyx5AmfSoeheLLzH57OV1moeiJI4ywNLR3q5tQrdEC28FcJft1UIgqMrBqQsrELlwIwMrIAc/G8LlvvHty8wfIRdkh2hI3OiCEFC2IZCEGeYafElDybwleAMbUf2pXmdELF4gvXeuJDmW51pDV+ItWj/Rhouzx1ooId2eVG3FTtFx3frHZ2uEqLf72hQSdpEXKq3THV29vz41T5ivcn1oVTtgM4yAPWHl4TCHC8k2Rq1LakrDuJag7hS2JxjDImef5U+tx2hjpeSQ47CgcUhPGw5xpjlNmJgNqMU8WHEmNm86jsL4zFf7D4yvh54b5uY0+TrYv+8H3yvzd3oJVBqPzmznJ3aZTO9I6hDy0H+b46R5EfWBxlbpmMJ4c8f1aw1lnFFJbvXJETj7pbIClbxp5cxFOkt5j66MSSHpVy7sxK23jY08An7QsT21Ow==;q+nogGfPifTkh1zrNQOvbg=="
 ---

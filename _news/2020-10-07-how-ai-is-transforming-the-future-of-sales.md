@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/07/how-ai-is-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/07/how-ai-is-transforming-the-future-of-sales/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/10/Headline-and-Native-Ad-Graphic.jpg?w=600"
         width: 600
         height: 400
-        isCached: true
-  - title: "Imperial Academics Design a Map to Show the Future of AI in Society"
-    excerpt: "The map designed by Imperial Academics has plotted the roles that AI could play in the future society which connects reality to science fiction."
-    publishedDateTime: 2020-10-06T17:33:00Z
-    webUrl: "https://www.analyticsinsight.net/imperial-academics-design-a-map-to-show-the-future-of-ai-in-society/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Machine-learning-to-automated-daydreaming-academics-map-future-of-AI.jpg"
-        width: 1680
-        height: 840
         isCached: true
   - title: "The future of work: AI and mental health"
     excerpt: "Workers face unprecedented mental health crises, driven by the COVID-19 pandemic and other emergencies—but AI can help restore the balance."

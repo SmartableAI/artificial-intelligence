@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-securit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-to-buy-this-year/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
         width: 619
         height: 377
         isCached: true
+  - title: "Best facial recognition security cameras to buy this year - CNET"
+    excerpt: "As President Trump’s National Security Advisor, John Bolton spent many of his 453 days in the room where it happened, and the facts speak for themselves. The result is a White House memoir that is the most comprehensive and substantial account of the Trump Administration,"
+    publishedDateTime: 2020-10-11T08:35:00Z
+    webUrl: "https://www.newsoneplace.com/33252581911/cnet-best-facial"
+    type: article
+    provider:
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 39
+    images:
+      - url: "https://images.weserv.nl/?url=https://cnet2.cbsistatic.com/img/u6hR0A8J2nLaSvXpk9Bfy9ieJLg=/300x0/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg&h=250"
+        width: 444
+        height: 250
+        isCached: true
   - title: "Facial Recognition Technology Can prove a Curse"
     excerpt: "Divyanshu Dembi Facial recognition technology as a concept, is not new. Charles Darwin, in his book Expressions of Emotions argued that human facial"
     publishedDateTime: 2020-10-10T18:34:00Z
@@ -90,6 +104,6 @@ related:
         height: 1035
         isCached: true
 
-secured: "eM/xRPx9d8mgucbDRhL7OcDkil9MMRkByUo5pGXduBYCWkO89CtnoNqBgc2kmiA+ZEkgWhmdFQBXpDqZ3t3nC0xteZkwx8EL7S5UMJ09z/s2elsABl5SZAr/aAIAk4JqZcy1l0ZKLthGZCVvm0+6ESK/jeXZcNsGJPrrij2yDwJz3N8dmHmZ4Z2NzG9fiqkHXmBwb3Cr83kMx6S6XSf74wcWfkVLLerC6hUN8q08+cyrg42RrpRXdAwpX8u1NfMl6mPvWnq5ueiJuZxSAiO/8OxUaw4bOicwGXQtWInRzaH7aZ8Mh39dbElczkdLlmMAVu3YB0HOgdiZd4fPY2ueo4ujBYZLWQOZqLl8PzCryXQ=;EOC7OUB0cekrqYiY0nnSgw=="
+secured: "pPWplSwkTyRn4akUDTw2TeJMryl7tilwptnH2zDZQm72s1rSOXRJov5FCC1NPXLuk0zo3K9CgzwN+isP6OoErCO3p8p5icg9lAMxDAyTJgVbK2JULFm+5D7t4pxfYoU6pByTFYAOAtq0L0MpzWMiA6c8Tk/8ZsGddxzsqe14RUJzrseQd8i8If665Ddn5uYZE+c+5trQjNxETDhjfn5TfEVUM6xpyq+FYPSyOAkr52lqVOTdlNlDZ+fgKchk2KPSzI898OW2hKNjl/jLs/ueSqvONkLWmbzJEmuiD+QjSKoZjYGtyXP967b5+W9QbX6Uj5EO+j6c1gIhxAoRc6DfLK3gpBpz69bPZPhNh5HqKauz3DdmgrC5zORbTN09Sa0rW5T7+NT4by9wgzAHAeHlnRAkdsYkzR1TO9pCkURn7eQHeXyM9omb4b3vLOZliaiWDDqEvSkbRzNZrOzeo032t3tfwo/JEvO9rnFfqRBMyovmKsP+fWG6JP35vdVumq/5zvPHD4WX5QlMTGALi0EAwQ==;pVL2nCcn6TTBAdcnyzlT8w=="
 ---
 

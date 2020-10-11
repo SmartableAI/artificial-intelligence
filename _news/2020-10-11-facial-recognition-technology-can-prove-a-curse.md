@@ -71,6 +71,20 @@ related:
         width: 619
         height: 377
         isCached: true
+  - title: "Best facial recognition security cameras to buy this year - CNET"
+    excerpt: "As President Trump’s National Security Advisor, John Bolton spent many of his 453 days in the room where it happened, and the facts speak for themselves. The result is a White House memoir that is the most comprehensive and substantial account of the Trump Administration,"
+    publishedDateTime: 2020-10-11T08:35:00Z
+    webUrl: "https://www.newsoneplace.com/33252581911/cnet-best-facial"
+    type: article
+    provider:
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 39
+    images:
+      - url: "https://images.weserv.nl/?url=https://cnet2.cbsistatic.com/img/u6hR0A8J2nLaSvXpk9Bfy9ieJLg=/300x0/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg&h=250"
+        width: 444
+        height: 250
+        isCached: true
   - title: "Facial recognition tested for Aadhaar authentication to financial services"
     excerpt: "Pilots of face biometrics for Aadhaar authentication to financial services are being carried out by the Unique Identification Authority of India (UIDAI), Medianama reports. The pilot, being"
     publishedDateTime: 2020-10-07T22:15:00Z
