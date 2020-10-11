@@ -2,24 +2,24 @@
 category: news
 title: "How AI and Machine Learning can help accountants stay competitive"
 excerpt: "Artificial intelligence (AI) and automation have brought the accounting profession to a point of pivotal change, and it’s about to revolutionise the way that accountants work."
-publishedDateTime: 2020-10-09T09:14:00Z
-originalUrl: "https://mybroadband.co.za/news/industrynews/370783-how-ai-and-machine-learning-can-help-accountants-stay-competitive.html"
-webUrl: "https://mybroadband.co.za/news/industrynews/370783-how-ai-and-machine-learning-can-help-accountants-stay-competitive.html"
-ampWebUrl: "https://mybroadband.co.za/news/industrynews/370783-how-ai-and-machine-learning-can-help-accountants-stay-competitive.html/amp"
-cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/370783-how-ai-and-machine-learning-can-help-accountants-stay-competitive.html/amp"
+publishedDateTime: 2020-10-09T08:54:00Z
+originalUrl: "https://businesstech.co.za/news/industry-news/439441/how-ai-and-machine-learning-can-help-accountants-stay-competitive/"
+webUrl: "https://businesstech.co.za/news/industry-news/439441/how-ai-and-machine-learning-can-help-accountants-stay-competitive/"
+ampWebUrl: "https://businesstech.co.za/news/industry-news/439441/how-ai-and-machine-learning-can-help-accountants-stay-competitive/amp/"
+cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/industry-news/439441/how-ai-and-machine-learning-can-help-accountants-stay-competitive/amp/"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
-  name: MyBroadband
-  domain: mybroadband.co.za
+  name: businesstech.co.za
+  domain: businesstech.co.za
 
 topics:
-  - Machine Learning
-  - AI
   - AI in Finance
+  - AI
+  - Machine Learning
 
 images:
   - url: "https://businesstech.co.za/news/wp-content/uploads/2020/10/Sage-1-1024x507.jpg"
@@ -44,21 +44,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Exploring how artificial intelligence could redefine health care"
-    excerpt: "Before Siri and Alexa, programmers created Eliza. Developed in 1964, Eliza was the first chatbot capable of recreating conversations between a psychotherapist and a patient. This chatbot pushed the boundaries of artificial intelligence (AI),"
-    publishedDateTime: 2020-10-06T10:21:00Z
-    webUrl: "https://www.mcgilltribune.com/sci-tech/exploring-how-artificial-intelligence-could-redefine-healthcare-10062020/"
-    type: article
-    provider:
-      name: McGill Tribune
-      domain: mcgilltribune.com
-    quality: 39
-    images:
-      - url: "https://www.mcgilltribune.com/wp-content/uploads/2020/04/favourite-memory-799x460.png"
-        width: 799
-        height: 460
-        isCached: true
 
-secured: "kvSB6tAtCzLEbyFxr453mCxmsUdi6zD1pOh2lAZqvd55VFLacA2cJUEH2DRe41j+O/KmmFBCu0XNmoXH4QjyOadTHJR6RR4dxLuilsGUmsFG5Xo4mcDSYGGgThV/SYicMRs4RHrnrw5Nvmdgg9b2DPVpMH1XkC+7sFWvI/LkTfOnlx3Q6OtmScvclb+x4x6mBXhTZslreyAzT/HvCBcuLK+ukXMBZu0w0M3wSv0A9bzwv9JNwpHlxiR59Eht72CTLcx+muSCgdoZou/vHx55+Ow4n7c/WPUsCN9qKFuPrkQDlb3hwsESSc1KyHOQsOmZfNH9vV9k39/Ry9cUrOf88tetc/V/1GDGIiSbELupNAg4p/ca2AsjGgHzVWoSGnRZjBPzUvPONlk+Y/9wdFv2hxYVFelRGmAKVGnvQodMWQwDJ9nMEd3X+pPyaP187+a1jwwQnqV/pYk5+oapwDq3BropVWExNCSyrl2cg/4ztBYLQwDRtEcvYo/KA6UCjjFWQdsrH3eu/fBAjPfeLuDuaQ==;qdo2AdcHnnDD1b8mOSJ8zA=="
+secured: "iSRab4v9Cc+l9YvKEeYQv36BthpSU7Vno2g8ygTTAqMTvZ9YgaKRNizANE+Om8dnml2HSi/hYO9ywbMfOR7XQ2LaU6QHwElik29ntiIXIp5dl+l4ZACK4GcEoFyQyN65d6w+uD0DoMgCWPRl8frV45Cne3cHyiAdn7/hvwhiXfSKRXohAGgyuq8O2dButrtFVdAV9187PSPEKQz3BPo8zIIEVo/7BPWYq7UE998AhFSWRF6MyZsFE7YNnAlYHdBVh6G6aMp6tXii3/2DRb2ELpvTQqIDDWzIAws49sGViqzb7IT9oT2vTbJ6qEnNOcHQGPhprRpDeCqXUKuoPtRdS9QIK/AhpngtKo2Z5Asl80M=;sJy2+Nu4Xv8D/d4npy8teg=="
 ---
 

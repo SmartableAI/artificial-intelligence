@@ -9,7 +9,7 @@ ampWebUrl: "https://theislandnow.com/blog-112/how-is-artificial-intelligence-rev
 cdnAmpWebUrl: "https://theislandnow-com.cdn.ampproject.org/c/s/theislandnow.com/blog-112/how-is-artificial-intelligence-revolutionising-our-global-healthcare/amp/"
 type: article
 quality: 78
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "GPT3 could revolutionise how business can use AI"
-    excerpt: "OpenAI’s language prediction model that produced an essay could be used to deploy cloud resources and improve the quality of chatbots, among other business use cases."
-    publishedDateTime: 2020-10-06T10:53:00Z
-    webUrl: "https://www.computerweekly.com/feature/GPT3-could-revolutionise-how-business-can-use-AI"
-    ampWebUrl: "https://www.computerweekly.com/feature/GPT3-could-revolutionise-how-business-can-use-AI?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/GPT3-could-revolutionise-how-business-can-use-AI?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 61
-    images:
-      - url: "https://cdn.ttgtmedia.com/visuals/German/article/natural-language-processing-translation-3-adobe.png"
-        width: 1200
-        height: 400
-        isCached: true
   - title: "AI is revolutionising video codecs. Here's an impressive demonstration how"
     excerpt: "NVIDIA has released a demo of how it is using AI to revolutionise video conferencing. This is the future of video codecs."
     publishedDateTime: 2020-10-09T14:07:00Z

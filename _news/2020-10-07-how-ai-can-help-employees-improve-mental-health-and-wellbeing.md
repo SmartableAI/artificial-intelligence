@@ -29,33 +29,19 @@ images:
 related:
   - title: "How AI and Machine Learning can help accountants stay competitive"
     excerpt: "Artificial intelligence (AI) and automation have brought the accounting profession to a point of pivotal change, and it’s about to revolutionise the way that accountants work."
-    publishedDateTime: 2020-10-09T09:14:00Z
-    webUrl: "https://mybroadband.co.za/news/industrynews/370783-how-ai-and-machine-learning-can-help-accountants-stay-competitive.html"
-    ampWebUrl: "https://mybroadband.co.za/news/industrynews/370783-how-ai-and-machine-learning-can-help-accountants-stay-competitive.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/370783-how-ai-and-machine-learning-can-help-accountants-stay-competitive.html/amp"
+    publishedDateTime: 2020-10-09T08:54:00Z
+    webUrl: "https://businesstech.co.za/news/industry-news/439441/how-ai-and-machine-learning-can-help-accountants-stay-competitive/"
+    ampWebUrl: "https://businesstech.co.za/news/industry-news/439441/how-ai-and-machine-learning-can-help-accountants-stay-competitive/amp/"
+    cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/industry-news/439441/how-ai-and-machine-learning-can-help-accountants-stay-competitive/amp/"
     type: article
     provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
+      name: businesstech.co.za
+      domain: businesstech.co.za
     quality: 76
     images:
       - url: "https://businesstech.co.za/news/wp-content/uploads/2020/10/Sage-1-1024x507.jpg"
         width: 1024
         height: 507
-        isCached: true
-  - title: "Exploring how artificial intelligence could redefine health care"
-    excerpt: "Before Siri and Alexa, programmers created Eliza. Developed in 1964, Eliza was the first chatbot capable of recreating conversations between a psychotherapist and a patient. This chatbot pushed the boundaries of artificial intelligence (AI),"
-    publishedDateTime: 2020-10-06T10:21:00Z
-    webUrl: "https://www.mcgilltribune.com/sci-tech/exploring-how-artificial-intelligence-could-redefine-healthcare-10062020/"
-    type: article
-    provider:
-      name: McGill Tribune
-      domain: mcgilltribune.com
-    quality: 39
-    images:
-      - url: "https://www.mcgilltribune.com/wp-content/uploads/2020/04/favourite-memory-799x460.png"
-        width: 799
-        height: 460
         isCached: true
 
 secured: "/t3gP0BX74pVkIl9aVEWXUiUogx///lGd6hkyTJNVNWSyLuQWk7gshKedz03m4cZ6Zjt2TtvFLogDIs297NDhPCDLRfeezkTD4JHje2wjVWWFTvqT9KPhPp2uAytVLOgcPwM6JxQRuQudy0OxRHEHvh5nDONR6vjw+V15sG49awuRzm9ScX1Nd+WNTypZBN3VUJy7xPQJxGyUyhXO0EWT1jk3uVwab42UzIAwXUtJKo6uDQeNAXUlb0xnDuiPPu701OGMaz+AMjDxLI+SFTH1k1UeuwjkFQfIRtIZElT2KL7yebbt2BOdYEPrWQ3WFuLfM3V0rDIrtfdV2owi0vd2x8gPzlB1zXSl5y/tV7rYja8pOES7YymH1z2BetW0FGy/W4kweOsEtWuMwk61tMd9ntVq5V+lOmvUC6ypXf0KBg0FfUagznHclYqOYsY0RKWmMixVvOVnggkAdyCmsPmXIZ7zZHKU7yjI/dqwAIkIz6/pSvMcInAKqg0Ex6gJ0CsUbBy89if3gSLF1t3u9/9xg==;DTxQ6p/6mGT09R8aOKCpXQ=="

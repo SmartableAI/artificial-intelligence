@@ -9,8 +9,8 @@ ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=11686"
 cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11686"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 111
+published: true
 
 provider:
   name: Azorobotics
@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "This AI Startup Helps Hospitals Navigate Operational Troubles Of Covid-19 And Beyond"
-    excerpt: "M Health Fairview, one of the largest health systems in Minnesota, got an urgent message from one of its vendors: Mountain View, California-based artificial intelligence startup Qventus. The 13-hospital system had contracted the company to help streamline its operations,"
-    publishedDateTime: 2020-10-06T10:34:00Z
-    webUrl: "https://www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startup-helps-hospitals-navigate-operational-troubles-of-covid-19-and-beyond/"
-    ampWebUrl: "https://www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startup-helps-hospitals-navigate-operational-troubles-of-covid-19-and-beyond/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startup-helps-hospitals-navigate-operational-troubles-of-covid-19-and-beyond/amp/"
+  - title: "Warwick researcher to explore the use of robots and artificial intelligence in hospital settings"
+    excerpt: "Hospitals all over the world must increase their efficiency and productivity and boost quality and safety, while containing and reducing costs."
+    publishedDateTime: 2020-10-08T14:29:00Z
+    webUrl: "https://www.news-medical.net/news/20201008/Warwick-researcher-to-explore-the-use-of-robots-and-artificial-intelligence-in-hospital-settings.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20201008/Warwick-researcher-to-explore-the-use-of-robots-and-artificial-intelligence-in-hospital-settings.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201008/Warwick-researcher-to-explore-the-use-of-robots-and-artificial-intelligence-in-hospital-settings.aspx"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 80
+      name: News Medical
+      domain: news-medical.net
+    quality: 63
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7b72922d03ae32323bd091%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3600%26cropY1%3D98%26cropY2%3D2123"
-        width: 1200
-        height: 675
+      - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fHospital-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
   - title: "Will robots and AI take our jobs in covid-19’s socially distanced era?"
     excerpt: "Coronavirus has put a rocket under plans for more automation, roboticisation and use of AI. Should we fear for our jobs – or will we just get better ones?"
@@ -68,6 +68,20 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 34
+  - title: "New Artificial Intelligence Algorithm Uses Routine Clinical Laboratory Tests to Identify Patients Likely Infected with COVID-19"
+    excerpt: "Frustrated by shortages of essential COVID-19 tests and supplies—as well by lengthy coronavirus test turn-around times—researchers at Weill Cornell Medicine have created an Artificial Intelligence (AI) algorithm that can use routine clinical laboratory test data to determine if a patient is infected with SARS-CoV-2,"
+    publishedDateTime: 2020-10-07T09:37:00Z
+    webUrl: "https://www.darkdaily.com/new-artificial-intelligence-algorithm-uses-routine-clinical-laboratory-tests-to-identify-patients-likely-infected-with-covid-19/"
+    type: article
+    provider:
+      name: Ranking
+      domain: darkdaily.com
+    quality: 11
+    images:
+      - url: "https://www.darkdaily.com/wp-content/uploads/Sarina-Yang-PhD-Weill-Cornell-400w@72ppi.jpg"
+        width: 400
+        height: 513
+        isCached: true
 
 secured: "TEZW+cdxPbDivCRAE8Py10+BXbOnOtNbGTromewbKkQwbBulHVZEAcjx6iEqDA3N7nS4KDL30Au4CYeAW0pRzsB9N1QFcPgvtBWTYWDzBq5Qm0ZPrG0Rj+Z+ZvNs3L4MlrX9PVKwCMiNXiMOpFe6Eo3xmskj0IKI+gzZ3zWJEefxznZllw2P/5jF8K8zp8vMHIIw4LzcEKvfwcvHwrF/1Wh+htNVEsDCHA0aESkt9On1qhp6K2ASigVY2yb4PgW66IfkbBm37e//Hmud3bDCiCGq6o+rVfzZ9wCdwHhzJ9aqonxZrjDdlbPehUMwze5YfJB+VJwmYkDornD7UDW+287aRnKhWdExCUFjKhaXm7A=;5gx7tUG1MUyTO27vgqshpQ=="
 ---

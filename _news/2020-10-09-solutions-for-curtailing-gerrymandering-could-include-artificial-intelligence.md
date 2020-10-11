@@ -3,16 +3,16 @@ category: news
 title: "Solutions for curtailing gerrymandering could include artificial intelligence"
 excerpt: "It’s one of the most controversial aspects of politics: gerrymandering. That’s the process of mapping out districts for political representation in Congress and state legislatures. It’s highly politicized,"
 publishedDateTime: 2020-10-09T14:32:00Z
-originalUrl: "https://www.thedenverchannel.com/news/national-politics/the-race-2020/solutions-for-curtailing-gerrymandering-could-include-artificial-intelligence"
-webUrl: "https://www.thedenverchannel.com/news/national-politics/the-race-2020/solutions-for-curtailing-gerrymandering-could-include-artificial-intelligence"
+originalUrl: "https://www.wcpo.com/news/national-politics/the-race-2020/solutions-for-curtailing-gerrymandering-could-include-artificial-intelligence"
+webUrl: "https://www.wcpo.com/news/national-politics/the-race-2020/solutions-for-curtailing-gerrymandering-could-include-artificial-intelligence"
 type: article
 quality: 49
 heat: 49
 published: false
 
 provider:
-  name: 7News and TheDenverChannel.com
-  domain: thedenverchannel.com
+  name: WCPO Cincinnati
+  domain: wcpo.com
 
 topics:
   - AI
@@ -39,6 +39,6 @@ related:
         height: 600
         isCached: true
 
-secured: "XjgPB8V8Tds1PiTpVN0FtrAW/Mm/e7fV4Q+xuFjXrOQQakQN/xQFSVb3IuvoKI9Nw/UNJM8pL7JCgSgbjTbAzILRWbXMFcPGKN0RLo+0Q2MLnHR5dFTqlbDV8bQb0BWkSx0CaLbrt6TfLYX5z/sYEUs7OVGV7qxsX8VC6stQ2JAVgiQyeK19t2eSeMoTsb7NuzOL9QNBGMlfzKltu3W+SGCMPSgNSbSJlc4ojm1P65pv49wgLSXI+L2+p/agmvpUnQnexCA9uAF2gvwTdGeth61gurI4iqfV8Lr81DlYeGZc7XZ9oqItFT4mewaP1x7izPDuXEJt2g8hP2FPYHbrD5pACBYT/5hyJ9WcjJ2nBtLThzd4JH4NuhhB5qC8WndBin1Y0hlhe/DFchhIETidTlmDqoW3ccL65XQY/O+gUzmjIn3j0c4/43NTZHMC8JAYkqiXXZXEo5xFyp1+Niqrb8/uGmjMh6N5gjLUcbsb5TSB3IrOgLKC6MlwrmuYSuAQderJ72RZdR04UPZcb9qaSg==;w2/R5ZTfbg8t/KHCjyJKfg=="
+secured: "3PqJD06pdHFNVc9XjmQ54ITsHU7BwbHlHVy4Fc/Djz9DCgxxeGW6E0tsdrQtXE4+7rpF2bsr5sq4JJlSyA8TH342Z6NDwtj4v8fxXqf2kVTLds54M8sA168aC2MvMlPOWbTP0H2fHru2fbyI5SjA4uLrp8X1AWqnJ4/uxL88mBYrk3qTXugY148CA73OO0UXOroiA9YN6eSdKoF5ecmbp/3H9iPlL4X49EAtqbh9Z0vqj0d2QYdfBuRoLH3kXkT+3URnW24Bgi3aaeMxXuXVDIunoiBR666mn+Tk0DmrJerDBlDSWXFwm6ATYJa4hUeJnsXEzBeThS0ZTjIlgXqj5PSikut6NCO8na/+YsNDV50=;N7GSrX7hldnaXyLr9mE5MA=="
 ---
 

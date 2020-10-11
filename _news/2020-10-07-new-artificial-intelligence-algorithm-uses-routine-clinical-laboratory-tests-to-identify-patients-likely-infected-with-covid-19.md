@@ -25,20 +25,63 @@ images:
     isCached: true
 
 related:
-  - title: "Epic teamed up with UMinnesota to develop an AI algorithm that identifies COVID-19"
-    excerpt: "Epic teamed up with researchers from the University of Minnesota to develop an AI algorithm that identifies COVID-19 from chest X-Rays."
-    publishedDateTime: 2020-10-06T13:16:00Z
-    webUrl: "https://www.businessinsider.com/epic-uminnesota-teamed-up-on-ai-tool-to-detect-covid19-2020-10"
+  - title: "Study Explores the Use of Robots, AI to Ease COVID-19 Pressures on Hospitals"
+    excerpt: "Hospitals across the globe could raise their productivity and efficiency as well as increase safety and quality while limiting and decreasing charges."
+    publishedDateTime: 2020-10-09T15:05:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=11686"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=11686"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11686"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 61
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 71
     images:
-      - url: "https://i.insider.com/5f7c65a994fce90018f7b45c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.azorobotics.com/images/news/ImageForNews_11686_16022476570691643.png"
+        width: 950
+        height: 907
         isCached: true
+  - title: "Warwick researcher to explore the use of robots and artificial intelligence in hospital settings"
+    excerpt: "Hospitals all over the world must increase their efficiency and productivity and boost quality and safety, while containing and reducing costs."
+    publishedDateTime: 2020-10-08T14:29:00Z
+    webUrl: "https://www.news-medical.net/news/20201008/Warwick-researcher-to-explore-the-use-of-robots-and-artificial-intelligence-in-hospital-settings.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20201008/Warwick-researcher-to-explore-the-use-of-robots-and-artificial-intelligence-in-hospital-settings.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201008/Warwick-researcher-to-explore-the-use-of-robots-and-artificial-intelligence-in-hospital-settings.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 63
+    images:
+      - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fHospital-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+  - title: "Will robots and AI take our jobs in covid-19’s socially distanced era?"
+    excerpt: "Coronavirus has put a rocket under plans for more automation, roboticisation and use of AI. Should we fear for our jobs – or will we just get better ones?"
+    publishedDateTime: 2020-10-07T19:07:00Z
+    webUrl: "https://www.newscientist.com/article/mg24833031-000-will-robots-and-ai-take-our-jobs-in-covid-19s-socially-distanced-era/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2020/10/07155320/covid-ai.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Bengaluru’s Narayana Hospitals employs artificial intelligence to fight Covid-19"
+    excerpt: "has broken away from the traditional doctor consultations to leverage artificial intelligence to reduce the risk of virus transmission. Provision of patients’ vitals in real-time on doctors’ mobile phones, robots that transport blood samples ..."
+    publishedDateTime: 2020-10-09T06:41:00Z
+    webUrl: "https://www.hindustantimes.com/india-news/bengaluru-s-narayana-hospitals-employs-artificial-intelligence-to-fight-covid-19/story-CDml4Fr0kNraNJGSPNOR4O.html"
+    ampWebUrl: "https://m.hindustantimes.com/india-news/bengaluru-s-narayana-hospitals-employs-artificial-intelligence-to-fight-covid-19/story-CDml4Fr0kNraNJGSPNOR4O_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/india-news/bengaluru-s-narayana-hospitals-employs-artificial-intelligence-to-fight-covid-19/story-CDml4Fr0kNraNJGSPNOR4O_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 34
 
 secured: "IslQVFuYrFzPJLQj2S70SGKPXy2ottYAljSPzNZ8e9lG5AfcPATPOvQ8X72tBP2/A1jCY30+IwKdctLH0UoQoNOzt46w/ixiyPFlNAZ8Z8Mv0yIgNYBkNR85rH8ofYOewjQ7Cp4DrLF1nLD/6dBOWDdrgph+d4M+2eg8CKTGiC5KMHvfl8fwUbyqqw0CBEePzOnDcRl1UvV6XJI3bIDZSnq1TKUDWk5Bntddinlb7oXtzmjnH+pz/blGLdJNlDlpM4C0LielWUKYEZemQuoUf5dzwu/q8GVlNIEKcjo3OdMLBYoVJV3uXydydH0tSFc2l9L5MjW1DinL8qoVNWdyMxqBJ9e1kfkMIaRN7cEoT+7KtgUu3n2+NoPqYpgOwjilnVxvb6WiSDubN0WCC+MR/SUspvYM8NlKpfemyHnfeXTRh4C8HM8rjNiTK9Aqv78cEhoaY0l78Z1roar1PdWnmEPeM7teKrJFhghwgSBayZVUYI+sPz8o/o2fwGCop6zhTYaLD6smnCd1IQDvwKuynA==;73TQKYnWqongGdlLNx9G0Q=="
 ---
