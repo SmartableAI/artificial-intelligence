@@ -123,6 +123,20 @@ related:
         width: 502
         height: 501
         isCached: true
+  - title: "The fight for free speech"
+    excerpt: "The violence, looting and mayhem that this nation has seen over the last several months has much of its roots in academia, where leftist faculty teach immature young people all"
+    publishedDateTime: 2020-10-11T11:00:00Z
+    webUrl: "https://www.avpress.com/opinion/the-fight-for-free-speech/article_b9de26dc-0b67-11eb-9ca1-eb5dd62cc38b.html"
+    type: article
+    provider:
+      name: Antelope Valley Press
+      domain: avpress.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/avpress.com/content/tncms/assets/v3/editorial/f/9b/f9bc5016-55fb-11ea-ab48-97fc893c78fe/5e520b6680ef9.image.jpg?resize=311%2C229"
+        width: 311
+        height: 229
+        isCached: true
 
 secured: "bt9GplJ2coavQhcRSZub7EK/D1BiS2Mrx3y3z7xn8RZrct4Ma8ng2dH/y15RcYsrnsAcQ1UmH2HRAdSbfpnehMvnD8mpuqD06c7isLk4iQaIUmnTN3+S/gR3iGYHmNbIyw2+hCT5zL7RUrds9hsBTKmozQ7OQM7zaokpawpU9+3r97JTCoCV/26ycOoLCgclczdfdNw91MbsK28iPbBkbsorrqOiHNj9fvVg4/pgWVIIWCBTqHJZ//1SS7ow18J5NUccfj5Y1rdZUHF2xmFnesBog4lOTnTPA+1pQjey46yYWsmqDgbuCOpvZKlI+OfaoVOgPsmL9YD6BzycIdXj8evFzhoUOLG5dDSXOCvOh40lsXDyDqWtJTkQ6QHnR/I5V4iAeCaixo4U7iilW9FBWBQZ9UFZIIiFRajIjuQMrgm6Bav2BxfqGGLT858srd6WiddHc5yO4vUG08MU8sXAb8bxFygJLCrbCAmtkW+PSfhEcMUns8YV0UKUjrBxdzeoUkAb+4SqTCu5GbulSLL3Hw==;CK/p0efoBhuFLqAoM/hCNQ=="
 ---

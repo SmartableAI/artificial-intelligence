@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcmag.com/news/facebooks-ai-flags-onion-photo-as-overtly
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/facebooks-ai-flags-onion-photo-as-overtly-sexual?amp=true"
 type: article
 quality: 87
-heat: 109
+heat: 107
 published: true
 
 provider:

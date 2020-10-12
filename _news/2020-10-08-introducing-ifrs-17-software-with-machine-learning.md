@@ -1,28 +1,27 @@
 ---
 category: news
 title: "Introducing IFRS 17 Software With Machine Learning"
-excerpt: "Data is universally indicated as the key challenge in IFRS 17 implementations. \"We designed our IFRS 17 solution from start to finish with"
+excerpt: "Data is universally indicated as the key challenge in IFRS 17 implementations. “We designed our IFRS 17 solution from start to finish with data quality in mind. 3Blocks has differentiated itself in this regard by adding machine learning to the arsenal of data checks and validation."
 publishedDateTime: 2020-10-08T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/introducing-ifrs-17-software-with-machine-learning-301148539.html"
-webUrl: "https://www.prnewswire.com/news-releases/introducing-ifrs-17-software-with-machine-learning-301148539.html"
+originalUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-insurance-industry-f0f117d194bcc2baea97d009428a6fbb"
+webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-insurance-industry-f0f117d194bcc2baea97d009428a6fbb"
 type: article
-quality: 41
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1308815/3Blocks_software.jpg?p=facebook"
-    width: 900
-    height: 471
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -38,6 +37,6 @@ related:
       domain: businessinsider.com
     quality: 69
 
-secured: "oUnT4V5IIZcCqCWH75puG4Hzrep4c0OCLOC0DkT2TinS3Xrhs+uGwm7MfpNdV2HQJCasH4vytey7JChdEiWRWDFOV821VAjSdQmbJ2ktBDStqB+7rt/u99JwhH46Ug4Bj85dw45FavDKLTaSmcLVNxhpMFSI7eH/nNzuM8HHWj+BzBHKwtG5kIwE0qVJCbg+sAipC0/uI6chNSEnXZuNx/MlpukMwefcO4vG7trQtTp9pqSj1QGLrHv1ct3r5aNO+cxNE3zHt3UCcHIKS6P3WIwNB7wbCzFB4lbu6x0QRCGpBrEpp3/oTVYo+Br+A5X/4k+HmA8DmM3GSkpv0dLZaByeIszKW+xrN7FIHwXn/e0=;72d2QTDIth7m//FR9puD5w=="
+secured: "65QR9E0wGJI/JiydWuZITIlCPVcH/hSGjCroVvv/z5+5dpSdr36fAr/gMQdT97UN/4glgcvNOzYZNUqcHNAMHt6fHinrWQWRVnSS4NM3R7/qFR3pUiX5jRUmBIBnpTo/3slS5e8ictbGuVFNoO8JBTIl8nGdB47ILX1MpGlODz9b8aZVuZg7AKIVHh122TKCdTAmkKMfdzAJd4BzE8XwQOseQ/MfXiYpEh85D1omz9bnOi+kPam/9I9nIzzmPgxx2RJWcdRfViyeNPwfdq8+jPDBTqG2KDUhLi4AmCpyV8fDxKFuR3KJDHzi5P5qzu/4ZZDE6g/H9yUVJDtLoXMr+SPVDkz0awP3fkBskL71IyM=;nTBWQGFNp5qnh4PQbKhXrA=="
 ---
 

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Data Science to Accelerate Drug Discovery with Artificial Intelligence and Machine Learning, Says Frost & Sullivan"
-excerpt: "Pharmaceutical companies and hospitals are adopting data science rapidly, and its application is going to be established in all branches of"
-publishedDateTime: 2020-09-29T14:08:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/data-science-to-accelerate-drug-discovery-with-artificial-intelligence-and-machine-learning-says-frost-sullivan-1029631511"
-webUrl: "https://markets.businessinsider.com/news/stocks/data-science-to-accelerate-drug-discovery-with-artificial-intelligence-and-machine-learning-says-frost-sullivan-1029631511"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/data-science-to-accelerate-drug-discovery-with-artificial-intelligence-and-machine-learning-says-frost-sullivan-1029631511"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/data-science-to-accelerate-drug-discovery-with-artificial-intelligence-and-machine-learning-says-frost-sullivan-1029631511"
+excerpt: "When combined with other emerging tech areas, artificial intelligence (AI) technologies move to the next phase of advancements. Hence, they are expected to witness adoption by pharma and biotech ..."
+publishedDateTime: 2020-09-29T15:56:00Z
+originalUrl: "https://www.finanzen.net/nachricht/aktien/data-science-to-accelerate-drug-discovery-with-artificial-intelligence-and-machine-learning-says-frost-sullivan-9342599"
+webUrl: "https://www.finanzen.net/nachricht/aktien/data-science-to-accelerate-drug-discovery-with-artificial-intelligence-and-machine-learning-says-frost-sullivan-9342599"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Finanzen
+  domain: finanzen.net
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
   - Machine Learning
 
-secured: "b1NIPPp/snSpvClMticPUj/7Wuvx0q6ZLsAlc0cDkrffR1RH7ZQ6k5gFvYdcgb+5WJjrO+FuMgd5pbnmWuDMon4BZdjAPL2xZgoW28TzvVXQ7IP344N1Lj98PQnxAgmnvA6d0W+1o8MyU+6O0mHUIkiKQv659q0VZduxOdezq+JgnMs4PcbeRYI1/t0pTZTNYTK9C63c9RYxwiJ6yuhG20125BCSZz8n6Ix4gItiV7NC5P+zTP4tgHTfpkZEsoyIlDHY76hp6zBM6yjd6f/TCFzw8HrDvyxl9NU5BNXnP458j/igPR7P5aS62WN5+R0O8uRVCKZ5W3e7gQl4nxSE/g9FmIZl7LBeEeUfCEPd2+g=;LMc7d23gOz+xeucXIgurdQ=="
+images:
+  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "8fuuzgC/ND6WbEc1SbywkWppfJsKmaCJZ5GLIAwLHWaZ+jGX926YlN9inMi8K96Y6W2L23SHoS19xAjdLKYJifzd7n1Mj9umqkiad0CsL5c3leZ30MRral/MXGhmQzWIkYmZKbdtTYc8V7Y9i/3b/Ii7jNveExk58DQ0IQiea+XZLxNQVb5Z93r5ype2QrhoY85+bxSY5RVNAnCA7iqmbL1+FIYjLt3wGN5ba+g3xtY6pUogVoXUc+qL1Z2KP8TNkM5CGJoucB+zvP6E/j73s7uKPBm3e5XSW4r2ZklmnsjBhTjWptqlK0Mfj0bLRA55vvbWwwNmUSvvtxLckEx/kXf4Q+b3VPNKBlcTV++CoPE=;Cn0IXFWaK/bo6i8KS4yM3g=="
 ---
 

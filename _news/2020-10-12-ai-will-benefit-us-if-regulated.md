@@ -8,8 +8,8 @@ webUrl: "https://www.khaleejtimes.com/editorials-columns/ai-will-benefit-us-if-r
 ampWebUrl: "https://www.khaleejtimes.com/editorials-columns/ai-will-benefit-us-if-regulated"
 cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/editorials-columns/ai-will-benefit-us-if-regulated"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://images.khaleejtimes.com/storyimage/KT/20201012/ARTICLE/201019776/AR/0/AR-201019776.jpg&NCS_modified=20201011224321&exif=.jpg"

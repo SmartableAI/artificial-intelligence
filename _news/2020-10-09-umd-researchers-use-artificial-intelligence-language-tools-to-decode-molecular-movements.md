@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-09T09:02:00Z
 originalUrl: "https://www.eurekalert.org/pub_releases/2020-10/uom-uru100720.php"
 webUrl: "https://www.eurekalert.org/pub_releases/2020-10/uom-uru100720.php"
 type: article
-quality: 28
+quality: 30
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.eurekalert.org/multimedia/pub/web/245268_web.jpg"
