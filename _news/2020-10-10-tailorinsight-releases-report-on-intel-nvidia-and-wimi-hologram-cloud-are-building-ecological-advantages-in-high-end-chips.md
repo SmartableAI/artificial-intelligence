@@ -30,17 +30,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 37
-  - title: "TailorInsight Releases Report on 'The AR+AI Interactive Video Technology of WIMI Promotes the Potential Power of the Hologram Industry'"
-    excerpt: "TailorInsight, the fintech market research organization, recently released a research report ‘The AR+AI Interactive Video Technology of WIMI Promotes"
-    publishedDateTime: 2020-10-08T01:56:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/10/ab17829131/tailorinsight-releases-report-on-the-ar-ai-interactive-video-technology-of-wimi-promotes-the-pote"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17829131"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17829131"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 7
 
 secured: "SKly6p70v7l9aprC/y6RlvuGqUzAt28W3+5reCGyEFZnW2Xm2XV6/ePuOZ1PXkzmPPs9Y2PNlP1DlsfTFhi55lxVKFQDyyD+MVn6VbPa5wlRJ5dQh9juO7OE9MRJlnEo8TXTY8SoVGIr8dXwZYRGcuNg47xW6Lq28tjNkof0/NkFaF1yiVEJ6zN/vV4ltCtG1T1um1+a4g98R4oorfI7VICD7V8l331H8MI5WcuK2vgPUiJZJJvk2HTVtC0ua3mpnqfYZ6OLNdr/FPuKOFb+Kb0mN+N6A1UkOClFMzmgQAXcqGohT3DoflZzJaDt1X6T8P9VQPFOTjj/9/Jm2afH4VGra3m6drdCMZrmrieP77o=;XXxbGWqRj6A5rpGy4Csekg=="
 ---

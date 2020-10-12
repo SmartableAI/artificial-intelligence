@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 797
         isCached: true
+  - title: "Something Something Self Driving Boat"
+    excerpt: "As the philosopher Dr. Steve Brule once said, the most important thing to know about going on a boat is \"stay on the boat.\" (Or \"broat.\") This rule escaped a trio of guys doing a photo shoot on the water in Florida;"
+    publishedDateTime: 2020-10-12T12:03:00Z
+    webUrl: "https://www.allaccess.com/talk-topics/q/id/56232"
+    type: article
+    provider:
+      name: AllAccess
+      domain: allaccess.com
+    quality: 39
+    images:
+      - url: "https://a3.allaccess.com/assets/ads/300x250/company/Dr_Dave_Ferguson_VO.gif?1575484729"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "JvUmI0dwX+nismADIuRVAu4HYgnF83JB/k1sE+xh183I1MGCaMnm0DIiN2wchUbnRVCze9OQltDSICHTcdQE3jyYJ2h5uedzpgyGW3MvGS3+0PhvG86O4RUsqlFAHxComcC5cGFQTEiD8qf/qXlgLrVFMHkoRDvrQLJlVf1ZMzi48hmrUlDm98Hqe4+U3Q6xbwpm/gfq1yZYd2HfdoSufVaZcpzUWC69oPvTNWAPDVAfD+wXNhRLyuMOXXD2Ty4MxBocDpqU1xXgb94GCGRnuw9wHSy/cqkZuaXwwD7tQorCLf85BrpXeoxbKLWLzgnl9BqhOroWFIMD0j16ygeQO873rMAcinJ8TfI16fzx3Q9oxcrM+B2jz4xj3K1NhMxhf1OqRf13GqJNeJemgFcx1F/Er/TYQ/xaPvqKQN7xqP87LfW+Mvy0+7re+Ym1EJOk/Vj1xijlPj2hX9JV92+6jkIPFxoqjp7Ep9gAGOiMBMj3+3ZEMs1aZ7pZ186hgklWNzR+PbiWBGT1ZELJye8RxA==;SL7aGEAnb3NgpnAv3l/+nw=="
 ---

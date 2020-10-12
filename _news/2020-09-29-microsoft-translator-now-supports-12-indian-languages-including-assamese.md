@@ -19,6 +19,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/09/Microsoft-Translator-now-supports-12-Indian-languages-including-Assamese.jpg"

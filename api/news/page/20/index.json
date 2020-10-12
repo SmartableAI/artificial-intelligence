@@ -2,6 +2,149 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-09-23-ai-is-reshaping-the-way-we-buy-sell-and-value-homes.md",
+      "title": "AI is reshaping the way we buy, sell and value homes",
+      "excerpt": "Algorithms and computer vision can help people narrow choices when looking to buy a home. The housing market continues to defy gravity. Sales of existing homes rose more than 10% last month ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketplace.org/shows/marketplace-tech/artificial-intelligence-housing-market-computer-vision-real-estate/",
+      "originalUrl": "https://www.marketplace.org/shows/marketplace-tech/artificial-intelligence-housing-market-computer-vision-real-estate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketplace.org/wp-content/uploads/2019/05/MP_show-1.png?w=300",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.marketplace.org/shows/marketplace-tech/artificial-intelligence-housing-market-computer-vision-real-estate?amp",
+      "cdnAmpWebUrl": "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/artificial-intelligence-housing-market-computer-vision-real-estate?amp",
+      "publishedDateTime": "2020-09-23T03:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Marketplace",
+        "domain": "marketplace.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-youtubes-ai-can-automatically-age-restrict-inappropriate-videos.md",
+      "title": "YouTube's AI can automatically age-restrict inappropriate videos",
+      "excerpt": "YouTube already uses machine learning to flag inappropriate content for its Trust and Safety team to review, but moving forward, the company plans to expand the use of the technology. Starting later this year,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/youtube-machine-learning-age-restrictions-212253144.html",
+      "originalUrl": "https://www.engadget.com/youtube-machine-learning-age-restrictions-212253144.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-11%2F877972b0-017b-11ea-add6-088504b9b34b&client=amp-blogside-v2&signature=eae3d42cb0d567481cda43e04db5848af943d41e",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/youtube-machine-learning-age-restrictions-212253144.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/youtube-machine-learning-age-restrictions-212253144.html",
+      "publishedDateTime": "2020-09-23T03:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-14-open-source-tools-to-make-the-most-of-machine-learning.md",
+      "title": "14 open source tools to make the most of machine learning",
+      "excerpt": "Apache Mahout provides a way to build environments for hosting machine learning applications that can be scaled quickly and efficiently to meet demand. Mahout works mainly with another well-known Apache project, Spark, and was originally devised to work ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3575420/14-open-source-tools-to-make-the-most-of-machine-learning.html",
+      "originalUrl": "https://www.infoworld.com/article/3575420/14-open-source-tools-to-make-the-most-of-machine-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2016/08/machine-learning-cloud-ai-artifical-intelligence-3-100678132-large.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3575420/14-open-source-tools-to-make-the-most-of-machine-learning.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3575420/14-open-source-tools-to-make-the-most-of-machine-learning.amp.html",
+      "publishedDateTime": "2020-09-23T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-new-tech-chief-of-startup-hypergiant-envisions-closer-human-ai-collaboration.md",
       "title": "New Tech Chief of Startup Hypergiant Envisions Closer Human-AI Collaboration",
       "excerpt": "Hypergiant Industries tapped a former IBM official as its first chief technology officer, the artificial intelligence startup said.",
@@ -1014,151 +1157,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-brainframe-smart-vision-ai-developers-kit-is-accelerating-computer-vision-applications.md",
-      "title": "BrainFrame: Smart Vision AI Developers Kit Is Accelerating Computer Vision Applications",
-      "excerpt": "Imagine being able to embark on a real-time computer vision project in a few hours, with no code to build a traffic control system, a warehouse monitoring system, or an in-store point of sale optimization system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/junwu1/2020/09/22/brainframe-smart-vision-ai-developers-kit-is-accelerating-computer-vision-applications/",
-      "originalUrl": "https://www.forbes.com/sites/junwu1/2020/09/22/brainframe-smart-vision-ai-developers-kit-is-accelerating-computer-vision-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a29457ce62549d45493de%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/junwu1/2020/09/22/brainframe-smart-vision-ai-developers-kit-is-accelerating-computer-vision-applications/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/09/22/brainframe-smart-vision-ai-developers-kit-is-accelerating-computer-vision-applications/amp/",
-      "publishedDateTime": "2020-09-22T10:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-global-regenerative-medicine-market-report-2020-2024-with-impact-analysis-of-covid-19-artificial-intelligence-to-advance-regenerative-medicine.md",
-      "title": "Global Regenerative Medicine Market Report 2020-2024 with Impact Analysis of COVID-19 - Artificial Intelligence to Advance Regenerative Medicine",
-      "excerpt": "Whereas, the market growth would be further supported by various market trends like three dimensional bioprinting , artificial intelligence ... by Products (Cell Therapy, Tissue Engineering ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/global-regenerative-medicine-market-report-2020-2024-with-impact-analysis-of-covid-19-artificial-intelligence-to-advance-regenerative-medicine-1029612109",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/global-regenerative-medicine-market-report-2020-2024-with-impact-analysis-of-covid-19-artificial-intelligence-to-advance-regenerative-medicine-1029612109",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/global-regenerative-medicine-market-report-2020-2024-with-impact-analysis-of-covid-19-artificial-intelligence-to-advance-regenerative-medicine-1029612109",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-regenerative-medicine-market-report-2020-2024-with-impact-analysis-of-covid-19-artificial-intelligence-to-advance-regenerative-medicine-1029612109",
-      "publishedDateTime": "2020-09-22T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-self-driving-cars-versus-the-most-dangerous-driving-month-of-the-year.md",
-      "title": "Self-Driving Cars Versus The Most Dangerous Driving Month Of The Year",
-      "excerpt": "Bottom-line is to please be extra careful when driving during September. One future aspect to consider involves the gradual advent of AI-based true self-driving cars. This raises an intriguing question: Will the emergence of AI-based true self-driving cars ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/22/self-driving-cars-versus-the-most-dangerous-driving-month-of-the-year/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/22/self-driving-cars-versus-the-most-dangerous-driving-month-of-the-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f692b8b1cc60d7a2b67c0ac%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5295%26cropY1%3D857%26cropY2%3D3339",
-          "width": 1199,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/22/self-driving-cars-versus-the-most-dangerous-driving-month-of-the-year/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/22/self-driving-cars-versus-the-most-dangerous-driving-month-of-the-year/amp/",
-      "publishedDateTime": "2020-09-22T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,72 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-10-cautions-about-artificial-intelligence-and-response.md",
+      "title": "Cautions About Artificial Intelligence - And Response",
+      "excerpt": "Artificial Intelligence ... road rage, or texting. Self driving cars don’t get tired, they don’t get distracted, and they don’t speed. The point is, these machines have potential to be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.chattanoogan.com/2017/12/15/360222/Cautions-About-Artificial-Intelligence.aspx",
+      "originalUrl": "https://www.chattanoogan.com/2017/12/15/360222/Cautions-About-Artificial-Intelligence.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-09T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chattanoogan.com",
+        "domain": "chattanoogan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-captive-audience-how-well-be-the-ones-who-pay-for-autonomous-mobility.md",
+      "title": "Captive Audience: How We’ll Be the Ones Who Pay for Autonomous Mobility",
+      "excerpt": "Those rewards will come in part from licensing the software that powers self-driving cars, both to owners and to corporate customers. But an even larger, longer-tailed source of revenue in self ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.automobilemag.com/news/self-driving-cars-captive-audience-ads/",
+      "originalUrl": "https://www.automobilemag.com/news/self-driving-cars-captive-audience-ads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-09T11:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automobile",
+        "domain": "automobilemag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-10-7-ways-to-apply-artificial-intelligence-to-your-website.md",
       "title": "7 Ways To Apply Artificial Intelligence To Your Website",
       "excerpt": "In recent years we are seeing a great boom in artificial intelligence. Due to the boom in deep learning, we now have more robust and more general predictive models, being […]",
@@ -1220,99 +1286,6 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-nvidia-plans-to-be-a-force-behind-level-5-autonomous-vehicles.md",
-      "title": "Nvidia Plans to Be a Force Behind Level 5 Autonomous Vehicles",
-      "excerpt": "The company calls Pegasus, “The world's first artificial intelligence computer designed to drive fully ... essentially functioning as a mobile office or living room.\" Driverless cars will enable new ride- and car-sharing services,” Huang said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/nvidia-plans-be-force-behind-level-5-autonomous-vehicles",
-      "originalUrl": "https://www.designnews.com/electronics-test/nvidia-plans-be-force-behind-level-5-autonomous-vehicles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Nvidia%20Drive%20PX%20Pegasus.jpg",
-          "width": 1024,
-          "height": 614,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-future-cars-may-live-a-lot-longer-analysts-believe.md",
-      "title": "Future cars may live a lot longer, analysts believe",
-      "excerpt": "Vehicle lifecycles are typically about five years with updates sprinkled in, but the lifespan could double to 10 years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/future-cars-vehicle-lifecycle-updates/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/future-cars-vehicle-lifecycle-updates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/I-FdpHll_2IA0qHIZu-4T82tWYU=/2020/02/03/77404ad3-e112-43aa-b8be-6d451870ba75/ep3gwiew4ayb6cd.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/future-cars-vehicle-lifecycle-updates/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/future-cars-vehicle-lifecycle-updates/",
-      "publishedDateTime": "2020-09-01T11:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

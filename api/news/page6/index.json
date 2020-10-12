@@ -2,6 +2,141 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-06-this-ai-startup-raised-15-million-to-help-patients-transcribe-doctor-appointments.md",
+      "title": "This AI Startup Raised $15 Million To Help Patients Transcribe Doctor Appointments",
+      "excerpt": "Technology has this potential to help so many more people than I could ever see in my weekly clinic,” says Abridge cofounder and CEO Dr. Shiv Rao, 41, a cardiologist who still occasionally sees patients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startup-raised-15-million-to-help-patients-transcribe-doctor-appointments-and-decode-jargon/",
+      "originalUrl": "https://www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startup-raised-15-million-to-help-patients-transcribe-doctor-appointments-and-decode-jargon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7bcba8530f376e46cc2c1b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2500%26cropY1%3D114%26cropY2%3D1520",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startup-raised-15-million-to-help-patients-transcribe-doctor-appointments-and-decode-jargon/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startup-raised-15-million-to-help-patients-transcribe-doctor-appointments-and-decode-jargon/amp/",
+      "publishedDateTime": "2020-10-06T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-iit-roorkee-offers-online-course-on-machine-learning-and-deep-learning-here-are-the-details.md",
+      "title": "IIT Roorkee Offers Online Course on Machine Learning and Deep Learning: Here Are the Details",
+      "excerpt": "IIT Roorkee is offering a certificate online course on Machine Learning and Deep Learning to anybody who is interested in specializing in the subject IIT Roorkee, through its Electronics and ICT Academy program sponsored by the Ministry of Electronics and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/iit-roorkee-offers-online-course-machine-learning-deep-learning-details/",
+      "originalUrl": "https://www.dqindia.com/iit-roorkee-offers-online-course-machine-learning-deep-learning-details/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2020/03/futuristic-3862179_1280.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/iit-roorkee-offers-online-course-machine-learning-deep-learning-details/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-roorkee-offers-online-course-machine-learning-deep-learning-details/amp/",
+      "publishedDateTime": "2020-10-06T00:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-artificial-intelligence-to-empower-agriculture-healthcare-and-education-pm-at-raise-2020.md",
+      "title": "Artificial intelligence to empower agriculture, healthcare and education: PM at RAISE 2020",
+      "excerpt": "Prime Minister Narendra Modi inaugurated RAISE 2020, a mega virtual summit on artificial intelligence, and spoke about how technology can empower sectors",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/artificial-intelligence-empower-agriculture-healthcare-education-pm-raise-2020/",
+      "originalUrl": "https://www.dqindia.com/artificial-intelligence-empower-agriculture-healthcare-education-pm-raise-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2020/04/artificial-intelligence-4625878_640-1.jpg",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/artificial-intelligence-empower-agriculture-healthcare-education-pm-raise-2020/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/artificial-intelligence-empower-agriculture-healthcare-education-pm-raise-2020/amp/",
+      "publishedDateTime": "2020-10-05T22:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-artificial-intelligence-should-not-become-weapon-of-non-state-actors-pm-modi-at-raise-2020.md",
       "title": "Artificial intelligence should not become weapon of non-state actors: PM Modi at RAISE 2020",
       "excerpt": "Inaugurating a five-day global virtual summit on artificial intelligence (AI), Responsible AI for Social Empowerment or RAISE 2020, Prime Minister Narendra Modi highlighted how the use of AI will empower India and also warned against the pitfalls.",
@@ -1028,131 +1163,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-nvidia-pledges-to-build-britains-largest-supercomputer-following-40-billion-bid-for-arm.md",
-      "title": "Nvidia pledges to build Britain’s largest supercomputer following $40 billion bid for Arm",
-      "excerpt": "Nvidia has announced plans to build a £40 million ($52 million) supercomputer in Cambridge, England, weeks after saying it intends to buy British rival Arm for $40 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/10/05/nvidia-pledges-to-build-britains-largest-supercomputer.html",
-      "originalUrl": "https://www.msn.com/en-us/money/companies/nvidia-pledges-to-build-britain-s-largest-supercomputer-following-40-billion-bid-for-arm/ar-BB19IxkS",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 228,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106729864-1601898836598-Cambridge-1__002.jpg?v=1601898919",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/10/05/nvidia-pledges-to-build-britains-largest-supercomputer.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/05/nvidia-pledges-to-build-britains-largest-supercomputer.html",
-      "publishedDateTime": "2020-10-05T06:01:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "com/2020/10/05/nvidia-pledges-to-build-britains-largest-supercomputer.html",
-        "domain": "com/2020/10/05/nvidia-pledges-to-build-britains-largest-supercomputer.html",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-combining-ai-and-nanotechnology-to-create-robot-assisted-molecular-manipulation.md",
-      "title": "Combining AI and Nanotechnology to Create Robot-Assisted Molecular Manipulation",
-      "excerpt": "A team of scientists from Forschungszentrum Jülich and TU Berlin is working on a project to create an autonomous artificial intelligence system with the ability to pick up and move individual molecules.",
-      "sourceUrl": null,
-      "webUrl": "https://www.azonano.com/article.aspx?ArticleID=5561",
-      "originalUrl": "https://www.azonano.com/article.aspx?ArticleID=5561",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.azonano.com/images/Article_Images/ImageForArticle_5561_16018955172079789.png",
-          "width": 950,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.azonano.com/amp/article.aspx?ArticleID=5561",
-      "cdnAmpWebUrl": "https://www-azonano-com.cdn.ampproject.org/c/s/www.azonano.com/amp/article.aspx?ArticleID=5561",
-      "publishedDateTime": "2020-10-05T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AZoNano",
-        "domain": "azonano.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-gitai-aims-to-bring-autonomous-robot-workers-to-space.md",
-      "title": "GITAI Aims to Bring Autonomous Robot Workers to Space",
-      "excerpt": "Since its start, GITAI has focused its efforts on various robots ... since with the current technology level of AI, what a robot can do autonomously is very limited. However, in an environment where the latency becomes noticeable, it would become more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20740/GITAI-Aims-to-Bring-Autonomous-Robot-Workers-to-Space.aspx",
-      "originalUrl": "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20740/GITAI-Aims-to-Bring-Autonomous-Robot-Workers-to-Space.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.engineering.com/portals/0/BlogFiles/60_ima1.png",
-          "width": 640,
-          "height": 358,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.engineering.com/amp/20740.html",
-      "cdnAmpWebUrl": "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20740.html",
-      "publishedDateTime": "2020-10-05T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engineering",
-        "domain": "engineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

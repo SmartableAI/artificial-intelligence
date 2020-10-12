@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-04-gao-audit-finds-pervasive-problems-with-us-airport-facial-recognition-program.md",
+      "title": "GAO audit finds pervasive problems with U.S. airport facial recognition program",
+      "excerpt": "According to the U.S. Government Accountability Office, a facial recognition verification program at U.S. airports has been plagued with problems.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/03/gao-audit-finds-pervasive-problems-with-u-s-airport-facial-recognition-program/",
+      "originalUrl": "https://venturebeat.com/2020/09/03/gao-audit-finds-pervasive-problems-with-u-s-airport-facial-recognition-program/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 270,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/block_image-e1597092687237.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/03/gao-audit-finds-pervasive-problems-with-u-s-airport-facial-recognition-program/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/03/gao-audit-finds-pervasive-problems-with-u-s-airport-facial-recognition-program/amp/",
+      "publishedDateTime": "2020-09-03T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-03-x-ray-vision-in-the-warehouse-thruwave-raises-64m-to-help-online-retailers-see-through-packages.md",
       "title": "X-ray vision in the warehouse: ThruWave raises $6.4M to help online retailers see through packages",
       "excerpt": "Seattle startup ThruWave just raised a $6.4 million round for its futuristic technology that uses millimeter waves to see through packaging. Fortune 100 customers in retail and e-commerce",

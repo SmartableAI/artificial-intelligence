@@ -58,6 +58,15 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "Adobe adds AI features to its digital marketing software"
+    excerpt: "Adobe's (NASDAQ:ADBE) digital marketing software now comes with integrated AI tools to help campaigns better target ads based on previously viewed or currently viewing content.The type of AI tech isn't new,"
+    publishedDateTime: 2020-10-12T18:29:00Z
+    webUrl: "https://seekingalpha.com/news/3621498-adobe-adds-ai-features-to-digital-marketing-software"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 17
 
 secured: "fCj/26JU53Eg8YHTJ/dg0UtfAHSN/CB0Tn+Ep9l/f0zdu2EFlyZpZK0/YB1y+TX9MfTsbZ/d6IREDoF6oIBjIOM8xQ0hcvXmSpImdGsTdKeAx/DshWWp5ElxWoMUdpvQCbWjUdiWP1f20yW+J19cMNzuuqb4XY3ny/SRZdYxPMaleV14pOOer1aMbI9TZsVVa77apfmX7Q1fxU0nN6rG6cNqW8JkFIKKKeNuNmMWtJdPX7idh5eJKjty9MafyKVjMQYST2gknnSR2JPcSDOi2OFnzLA2REpCjLFC0sjnSHbDHZfC4y2erGw0KavMqMGxQSbOKmsUgqW3j47uD6YBHlewX9rPGg8CdBto+B09a/hvC1T0HHzUcRZGLuZ0pevHDweZhLAi8myuh+JFJZpDd60NcSOzzaAcf6gI9at+ZeufiVvFbwBj9QqtzVkQKZfKvO2OQFmT7v3uYl5LEAWraKAybm6AWCYQ1gcG+n68BPFJQ2r9Ai3jxvTjLRI3NHoVbeEYtsO3Vi9wqJtxyK5J+Q==;2yqOEtvgceQy/D2sfX2jlA=="
 ---

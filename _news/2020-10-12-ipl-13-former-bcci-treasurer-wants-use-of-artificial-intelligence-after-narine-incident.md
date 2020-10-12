@@ -7,7 +7,7 @@ originalUrl: "https://news.webindia123.com/news/Articles/Sports/20201012/3640569
 webUrl: "https://news.webindia123.com/news/Articles/Sports/20201012/3640569.html"
 type: article
 quality: 8
-heat: 8
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,24 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "IPL 2020, KXIP vs KKR: Former BCCI Official Wants Use Of Artificial Intelligence After Sunil Narine Incident"
+    excerpt: "Kolkata Knight Riders spinner Sunil Narine being reported for suspect action by umpires in Saturday's game against Kings XI Punjab in the 13th edition of the Indian Premier League has once again kickstarted the debate on whether such issues need immediate on-field action."
+    publishedDateTime: 2020-10-12T19:40:00Z
+    webUrl: "https://sports.ndtv.com/ipl-2020/ipl-2020-kxip-vs-kkr-former-bcci-official-wants-use-of-artificial-intelligence-after-sunil-narine-incident-during-kings-xi-punjab-vs-kolkata-knight-ri-2308899"
+    ampWebUrl: "https://sports.ndtv.com/ipl-2020/ipl-2020-kxip-vs-kkr-former-bcci-official-wants-use-of-artificial-intelligence-after-sunil-narine-incident-during-kings-xi-punjab-vs-kolkata-knight-ri-2308899?amp=1&akamai-rum=off"
+    cdnAmpWebUrl: "https://sports-ndtv-com.cdn.ampproject.org/c/s/sports.ndtv.com/ipl-2020/ipl-2020-kxip-vs-kkr-former-bcci-official-wants-use-of-artificial-intelligence-after-sunil-narine-incident-during-kings-xi-punjab-vs-kolkata-knight-ri-2308899?amp=1&akamai-rum=off"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 38
+    images:
+      - url: "https://c.ndtvimg.com/2020-10/9hkg726_narine-bcci-ipl_625x300_12_October_20.jpg"
+        width: 806
+        height: 605
+        isCached: true
 
 secured: "L1OH2ESDFZGJqgx3tA8G4PeM55WWioFM46FpWZMbe6dC+FXG3m7faeMqMSj7AzHilCJJRWjMlIZiOXPPzX/GLs1tjcjK3g3iOYfYgFvsXytbsW5urHmYbL1F0pwuG+AVn6Ao/6pY5CdS6lUyJBZkvJAlwEcIWY/T37bEVQ0wMkVLvGiXiIBbEd69iy0LW4Wozk+y7uN4Tsfc3sl7OVHeYW03xFBA3Gyj1quy16oKhFXWXBvhVR6zTsTF8lFC2RNXzcC41BQamljTBLHIVyf/HFHSASyWe7MmhY3g0kXsR3fMGGYQ54ai8MGCInngMzwKHbWNoFdWUmcFx6M1SAlUaIP6us01VyzqqOtl8QeDYVA=;GcFLC6sxPFjZjGVpxypCZw=="
 ---

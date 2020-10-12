@@ -2,6 +2,161 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-10-01-halloween-themed-aws-deepcomposer-chartbusters-challenge-track-or-treat.md",
+      "title": "Halloween-themed AWS DeepComposer Chartbusters Challenge: Track or Treat",
+      "excerpt": "We are back with a spooktacular AWS DeepComposer Chartbusters challenge, Track or Treat! In this challenge, you can interactively collaborate with the ghost in the machine (learning) and compose spooky music! Chartbusters is a global monthly challenge where you can use AWS DeepComposer to create original",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/halloween-themed-aws-deepcomposer-chartbusters-challenge-track-or-treat/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/halloween-themed-aws-deepcomposer-chartbusters-challenge-track-or-treat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/01/3-.jpg",
+          "width": 900,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-01T10:35:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-how-to-avoid-disasters-like-amazons-rekognition.md",
+      "title": "How to avoid disasters like Amazon’s Rekognition",
+      "excerpt": "One way to avoid disastrous AI systems in the wild might be to build responsible operation into the programs from the start, professor Sergey Levine of U.C. Berkeley told ZDNet. He has a plan to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/how-to-avoid-disasters-like-amazons-rekognition/",
+      "originalUrl": "https://www.zdnet.com/video/how-to-avoid-disasters-like-amazons-rekognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/10/01/12df13b7-db78-4236-b526-0836a495301d/thumbnail/770x578/e48e8f2ba67ef4f816f263bed808b4ef/20200923-tiernan-karen-ai.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-01T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-fast-tracking-ai-ethics-is-dicey-and-shortsighted-especially-for-self-driving-cars.md",
+      "title": "Fast-Tracking AI Ethics Is Dicey And Shortsighted, Especially For Self-Driving Cars",
+      "excerpt": "There seems to be quite a rush to get AI systems out-the-door these days. Unfortunately, there is a devilish price to be paid in such a rush to judgment and the associated misguided assumption that the soonest AI is the best kind of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/01/fast-tracking-ai-ethics-is-dicey-and-shortsighted-especially-for-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/01/fast-tracking-ai-ethics-is-dicey-and-shortsighted-especially-for-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F488653868%2F0x0.jpg",
+          "width": 1200,
+          "height": 1107,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/01/fast-tracking-ai-ethics-is-dicey-and-shortsighted-especially-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/01/fast-tracking-ai-ethics-is-dicey-and-shortsighted-especially-for-self-driving-cars/amp/",
+      "publishedDateTime": "2020-10-01T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-10-01-what-if-you-could-turn-your-voice-into-any-instrument.md",
       "title": "What if you could turn your voice into any instrument?",
       "excerpt": "Imagine whistling your favorite song. You might not sound like the real deal, right? Now imagine your rendition using auto-tune software. Better, sure, but the result is still your voice. What if there was a way to turn your voice into something like a violin, or a saxophone, or a flute? Google Research’s",
@@ -1010,152 +1165,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-va-boston-and-bu-researchers-use-machine-learning-to-streamline-the-diagnostic-tool-for-ptsd.md",
-      "title": "VA Boston and BU researchers use machine learning to streamline the diagnostic tool for PTSD",
-      "excerpt": "Post-traumatic stress disorder (PTSD) affects eight million adults in the US, including hundreds of thousands of veterans of the conflicts in Iraq and Afghanistan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20200930/VA-Boston-and-BU-researchers-use-machine-learning-to-streamline-the-diagnostic-tool-for-PTSD.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20200930/VA-Boston-and-BU-researchers-use-machine-learning-to-streamline-the-diagnostic-tool-for-PTSD.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2016%2f3%2fAbstract_medicine_background-Hilch-1000_f0a8c263e6e04ed18dfcc5ef27c17907-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200930/VA-Boston-and-BU-researchers-use-machine-learning-to-streamline-the-diagnostic-tool-for-PTSD.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200930/VA-Boston-and-BU-researchers-use-machine-learning-to-streamline-the-diagnostic-tool-for-PTSD.aspx",
-      "publishedDateTime": "2020-09-30T17:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning.md",
-      "title": "Will AI cross the proverbial chasm? Algorithmia resolves the practical pitfalls of machine learning",
-      "excerpt": "Also: AI startup Abacus goes live with commercial deep learning service, takes $13M Series A financing To Daniel, the gulf that he observed in academia between pure research and software engineering is the thing that has always shot down AI in past.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/09/29/8d457003-6fff-4124-8566-6fa533c43731/kenny-daniel-algorithmia-2020.png",
-          "width": 2053,
-          "height": 1118,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning/",
-      "publishedDateTime": "2020-09-30T16:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-this-month-in-aws-machine-learning-september-2020-edition.md",
-      "title": "This month in AWS Machine Learning: September 2020 edition",
-      "excerpt": "Every day there is something new going on in the world of AWS Machine Learning—from launches to new use cases to interactive trainings. We’re packaging some of the not-to-miss information from the ML Blog and beyond for easy perusing each month. Check back at the end of each month for the latest roundup.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-machine-learning-september-2020-edition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-machine-learning-september-2020-edition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/30/202431_AWS_ML_Monthly_blog_post_visual_sept-01-1260x630.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T16:14:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

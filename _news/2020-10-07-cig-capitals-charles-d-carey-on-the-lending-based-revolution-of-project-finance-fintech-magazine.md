@@ -1,29 +1,26 @@
 ---
 category: news
 title: "CIG Capital's Charles D. Carey on the lending-based revolution of project finance || FinTech Magazine"
-excerpt: "The financial services landscape is changing rapidly, and, in these turbulent times, investment companies can be inclined to focus solely"
-publishedDateTime: 2020-10-07T11:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/cig-capitals-charles-d-carey-on-the-lending-based-revolution-of-project-finance--fintech-magazine-301146927.html"
-webUrl: "https://www.prnewswire.com/news-releases/cig-capitals-charles-d-carey-on-the-lending-based-revolution-of-project-finance--fintech-magazine-301146927.html"
+excerpt: "However, in our lead story, Charles D. Carey, serial entrepreneur and Managing Partner of CIG Capital, reminds us that investment is about more than just money and describes why funding desperately needs to modernise."
+publishedDateTime: 2020-10-07T11:46:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/cig-capital-s-charles-d-carey-on-the-lending-based-revolution-of-project-finance-fintech-magazine-1029656466"
+webUrl: "https://markets.businessinsider.com/news/stocks/cig-capital-s-charles-d-carey-on-the-lending-based-revolution-of-project-finance-fintech-magazine-1029656466"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/cig-capital-s-charles-d-carey-on-the-lending-based-revolution-of-project-finance-fintech-magazine-1029656466"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cig-capital-s-charles-d-carey-on-the-lending-based-revolution-of-project-finance-fintech-magazine-1029656466"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "/bObVSjM8yB+4gICFnogmleNMJWiFtZVlZ27aCdF0CgYu429CnnznqD3rzUbtkU6UtUx8vuFTFpm+wu0JtjBatOnt+UH6Ln1KUFmbQAjSWxw6/FJzlgxJI5+tMxSqyqKLdTizZm73MRI57kSEJ69CLvRUGEQ9p5GqtFm5CbtUL8jQtKeGWwGYzaOyorLQ6sKalGvlk4sThHC9HvOojWSapspIdeEOpgfWHgmSg7ZSWq6w66LJ3/u400lxq4FOHfXhuALJHAuW7YaAK1Z3vJB5xZSnJv9U/2Gyu3lS93gkYhGtIEJfWHCc9PlDGALL2h8eDiPADWwIY0QoWvy2ViBwhD0cIi2ms1BB+9C0eQYPu8=;ZfKBbZXmppjz1zRJFzsaHg=="
+secured: "JEDoRkv5eS03tWq7bR38Vw32PM+bPS2TH/msx6F4WYcxCcY1W1ZH3syY/Kp3LauWki9HkECUQvtruMtDyacENaMahwXwDru21uS+XxjvOJ8EvbJjxm14o/qUc/jvgnHagSNT02CAGamTuZnR2PiaJ8WGh8wioiOLMYvQzfKsPJ1lXlo0wKqhrFQAupkenmX7JPVTLVLADkIWbiEMWC6c2LS9YQJg7qEmNcSSGI7UYLTKpGrX1mkGLbpmmmwObSNykOwv8Zv2MJqNku65I9pvI/li6y9eQZ2d/XUQz879kPhJIPNInjS3I7/33iZSzAApoEasms57RNzI2HgBQeJZ0yfoKuJtxQzJ41+YDAon57c=;tEjQ0WDYz25fQtfiC1aJ9g=="
 ---
 

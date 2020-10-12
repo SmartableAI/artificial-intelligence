@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-12-how-cogability-and-the-university-of-florida-are-using-watson-to-build-the-future-of-education.md",
+      "title": "How CogAbility and the University of Florida are using Watson to build the future of education",
+      "excerpt": "As they do every fall, 55,000 students descended on the University of Florida this year. But with mask and physical distancing guidelines, alterations to policies on campus gatherings, and new behavioral expectations, operating and attending a university during a pandemic is anything but business as",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/10/how-cogability-and-the-university-of-florida-are-using-watson-to-build-the-future-of-education/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/10/how-cogability-and-the-university-of-florida-are-using-watson-to-build-the-future-of-education/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/10/Watson_UF_ChatBot_Blog_Leadspace_Final_1-2-990x498.jpg",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-12T12:28:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-09-ibm-inks-its-first-ever-esports-deal-with-the-overwatch-league.md",
       "title": "IBM Inks Its First-Ever Esports Deal With The Overwatch League",
       "excerpt": "Blizzard will tap into IBM’s cloud, Watson AI and machine-learning knowhow to 'power interactive and analytical content.'",
@@ -226,19 +276,19 @@
     {
       "path": "_news/2020-10-05-ibm-fenergo-to-transform-new-customer-onboarding-for-financial-institutions.md",
       "title": "IBM, Fenergo to Transform New Customer Onboarding for Financial Institutions",
-      "excerpt": "The offering is designed to incorporate artificial intelligence (AI) from IBM Watson and analytics on the IBM Cloud to help financial institutions drive efficiencies in customer onboarding through ...",
+      "excerpt": "PRNewswire/ -- SIBOS: IBM (NYSE: IBM ) and Fenergo, a leading provider of client lifecycle management (CLM) solutions for financial institutions, today",
       "sourceUrl": null,
-      "webUrl": "https://www.troyrecord.com/news/national/ibm-fenergo-to-transform-new-customer-onboarding-for-financial-institutions/article_1ff8cadf-b470-517b-8d2d-5d23e35113b3.html",
-      "originalUrl": "https://www.troyrecord.com/news/national/ibm-fenergo-to-transform-new-customer-onboarding-for-financial-institutions/article_1ff8cadf-b470-517b-8d2d-5d23e35113b3.html",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-software-industry-information-technology-banking-and-credit-ec2663f8aa896523ece76079d1634583",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-software-industry-information-technology-banking-and-credit-ec2663f8aa896523ece76079d1634583",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/troyrecord.com/content/tncms/assets/v3/editorial/c/0b/c0bf523f-6302-5997-8d2a-9688cdf3e28f/5f3a04aacb9b4.image.jpg?resize=400%2C209",
-          "width": 400,
-          "height": 209,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -247,11 +297,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-04T21:50:00-07:00",
+      "publishedDateTime": "2020-10-04T21:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Troy Record",
-        "domain": "troyrecord.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1308,48 +1358,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-beyond-the-court-how-ibm-is-powering-first-ever-spectator-less-us-open.md",
-      "title": "Beyond the court: How IBM is powering first-ever spectator-less US Open",
-      "excerpt": "AI Sounds: IBM leveraged its AI Highlights technology ... In past years, AI Highlights used Watson to digest video footage and rank the excitement level of each clip to compile a highlight reel ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/industry/technology/beyond-the-court-how-ibm-is-powering-first-ever-spectator-less-us-open/2071803/",
-      "originalUrl": "https://www.financialexpress.com/industry/technology/beyond-the-court-how-ibm-is-powering-first-ever-spectator-less-us-open/2071803/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.financialexpress.com/2020/09/1-17.jpg",
-          "width": 660,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/industry/technology/beyond-the-court-how-ibm-is-powering-first-ever-spectator-less-us-open/2071803/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/beyond-the-court-how-ibm-is-powering-first-ever-spectator-less-us-open/2071803/lite/",
-      "publishedDateTime": "2020-09-02T00:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

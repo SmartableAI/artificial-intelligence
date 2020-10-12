@@ -1,26 +1,26 @@
 ---
 category: news
 title: "IBM, Fenergo to Transform New Customer Onboarding for Financial Institutions"
-excerpt: "The offering is designed to incorporate artificial intelligence (AI) from IBM Watson and analytics on the IBM Cloud to help financial institutions drive efficiencies in customer onboarding through ..."
-publishedDateTime: 2020-10-05T04:50:00Z
-originalUrl: "https://www.troyrecord.com/news/national/ibm-fenergo-to-transform-new-customer-onboarding-for-financial-institutions/article_1ff8cadf-b470-517b-8d2d-5d23e35113b3.html"
-webUrl: "https://www.troyrecord.com/news/national/ibm-fenergo-to-transform-new-customer-onboarding-for-financial-institutions/article_1ff8cadf-b470-517b-8d2d-5d23e35113b3.html"
+excerpt: "PRNewswire/ -- SIBOS: IBM (NYSE: IBM ) and Fenergo, a leading provider of client lifecycle management (CLM) solutions for financial institutions, today"
+publishedDateTime: 2020-10-05T04:01:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-industry-information-technology-banking-and-credit-ec2663f8aa896523ece76079d1634583"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-industry-information-technology-banking-and-credit-ec2663f8aa896523ece76079d1634583"
 type: article
 
 provider:
-  name: Troy Record
-  domain: troyrecord.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/troyrecord.com/content/tncms/assets/v3/editorial/c/0b/c0bf523f-6302-5997-8d2a-9688cdf3e28f/5f3a04aacb9b4.image.jpg?resize=400%2C209"
-    width: 400
-    height: 209
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "8z+gQEMSEEld7NJZRW0fe8XWA+YqsqPvJR0ccXep/9FbYoM9F4G3ANjqpTyZMrtazcSpVlI6xm+fYiOXQeBCaBmsLKqpAEO2jTSr+0Xzi7brzENG0Kpgl+p/hB/NL7HYzr11ZsIRbL0OCpjRmS3lbLlRTbu2+xF/ig6PK3wGv/ob2WmKA3MM4yx8Z8UHvww7AsUYkJKRT8CKh7MRXK5PK+JF/Gefnw36LqwFrE685eoz48TuGPacTWumoDvElz6mb23PwNjr4lihppQSvKtQB6KQpgQ0+RkS5jejLa3Tc+SmyESS24WYeptyuJUI2KQ32e5CfQEbpeFyvVsK7P5dv06iJnO6oFbFUsMri0EL3Sc=;SuBNV5YaFeClcyU1CE0fhA=="
+secured: "FWHRCCYdIrOVR7y5hQRvzJD7XK3Nqu2WR/Er9rX1bnwNd1U67xoIfGDg3LgdDpHItsZ+fOnwxG9DcFbFoic2RypdYv+H0Bu75GDvpMziq/Hq8F/ScjkEpmasygX1hVgh7tdmf4+BX9DUNFTewgRzgieOzuQ+AUHew/y92uo8QfJU2uigWDSZOJDeuDKXfMcWwtOF4C4ezOJ8ZBOK02zHhB6ceMOqdlIehcT/GRFm7nUtVIsbOz2yMKXqkKwu8nhAKV3Kuxvp4EYjD4cLQAqx2s4lW9PFCpHZwqZcoadk3foAyM/3AYtPvH0LnhrTLO8EeWMd1oKJnbYZIF/P7ZJA60de+mAXLY8YYp4sW5uOdqU=;7cfuhL9Kyux48CUZF/R+yA=="
 ---
 

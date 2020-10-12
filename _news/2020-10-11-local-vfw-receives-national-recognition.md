@@ -7,7 +7,7 @@ originalUrl: "https://www.stardem.com/news/local_news/local-vfw-receives-nationa
 webUrl: "https://www.stardem.com/news/local_news/local-vfw-receives-national-recognition/article_fe650966-551f-59b4-8c0d-6b98b3db663b.html"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,36 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Amazon Rekognition adds support for six new content moderation categories"
+    excerpt: "Amazon Rekognition content moderation is a deep learning-based service that can detect inappropriate, unwanted, or offensive images and videos, making it easier to find and remove such content at scale. Amazon Rekognition provides a detailed taxonomy of moderation categories, such as Explicit Nudity,"
+    publishedDateTime: 2020-10-12T19:03:00Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-adds-support-for-six-new-content-moderation-categories/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 105
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
+        width: 1260
+        height: 630
+        isCached: true
+  - title: "SparkCognition Advances the Science of Artificial Intelligence with 85 Patents"
+    excerpt: "Since SparkCognition’s inception, we have placed a major emphasis on advancing the science of AI through research – making advancement through innovation a core company value,” said Amir Husain, founder and CEO of SparkCognition,"
+    publishedDateTime: 2020-10-12T13:00:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-north-america-united-states-ffad0ac1e935de99d32281f36be06ba4"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 33
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "z/YbfXNy1lPqY+d/Rw3NIDskJ7ys+V44yCU2ICtlX0Z5ZfZRncKO4Y21k+d6A3H4rtVk03/KwPkByO1LwU9f207O1C1LNTivSDw4vw9VsEYkbKzPf/ZCGbNM6a2YABlQ7csL4AE5c0qPnHppzpZY31zx00wsUINPI32q0MaQT+26dAwAOaUck46mi2RQ/HRWUyn0mUIVgk1ZlCrRfemoooB0T6hEXVlyh3yzQIJMS7mLHwgiOMGE7T8iNJu50LJx6TREK3FqQ1GHa4MlU3fTDtNJPWfkXo9GBVKNTk7bU4Qiwl5niIJT8ou3fnbR/6ADa5LVtYIAV4vxaSv89Dc/qs0RzsoLtWZG2Gb5DEtPT7bsWoBn79GxR495JEGg8vNVeiYoDQr7cKqc31cOzk7YaRJ3+zdjc1KMGrmk3ZAWz+0IOBTfpujIK7jR+WB1h71S00pzvsAlX5TJtbnREFzi8oKDZNfMlsc7+nuxnv8PlLAVa3iJRFHa5kYC9w0qM5aprFHJmrnEacTMZzWYNPqxQg==;ZOp0tZZGfjjN90Ch6Cgm1g=="
 ---

@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "When AI hurts people, who is held responsible?"
+    excerpt: "How to determine whether a human was at fault when AI plays a role in a person’s injury or death is no easy task. If AI is in control and something goes wrong, when is it the human’s fault and ..."
+    publishedDateTime: 2020-10-12T18:50:00Z
+    webUrl: "https://venturebeat.com/2020/10/12/when-ai-hurts-people-who-is-held-responsible/"
+    ampWebUrl: "https://venturebeat.com/2020/10/12/when-ai-hurts-people-who-is-held-responsible/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/12/when-ai-hurts-people-who-is-held-responsible/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2016/12/uber-self-driving-car-transportation.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How Do We Accelerate Endpoint AI Innovation? Put Developers First"
     excerpt: "Dipti Vachani reveals how together with Microsoft, Arm is optimizing the developer experience with streamlined, scalable tools that put creativity first"
     publishedDateTime: 2020-10-08T15:58:00Z

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-09-tackling-one-of-the-biggest-single-sources-of-co2-emissions-with-machine-learning.md",
+      "title": "Tackling one of the biggest single sources of CO2 emissions with machine learning",
+      "excerpt": "The 6 million buildings in the U.S. produce 40% of the country’s emissions, mostly from day-to-day lighting, heating, cooling, and appliance operation.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/08/tackling-one-of-the-biggest-single-sources-of-co2-emissions-with-machine-learning/",
+      "originalUrl": "https://venturebeat.com/2020/09/08/tackling-one-of-the-biggest-single-sources-of-co2-emissions-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-579525105.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 642,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/08/tackling-one-of-the-biggest-single-sources-of-co2-emissions-with-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/08/tackling-one-of-the-biggest-single-sources-of-co2-emissions-with-machine-learning/amp/",
+      "publishedDateTime": "2020-09-08T10:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-09-08-transforming-accounting-with-artificial-intelligence-an-interview-with-eli-fathi-ceo-mindbridgeai.md",
       "title": "Transforming Accounting With Artificial Intelligence: An Interview With Eli Fathi, CEO Mindbridge.ai",
       "excerpt": "This blog discusses why the accounting profession is undergoing major changes as a result of AI technologies. An example of a World Economic Forum Winner in the Top 100 2020, Mindbridge.ai is profiled due to their leadership in enabling auditors to to improve forensic accounting practices.",

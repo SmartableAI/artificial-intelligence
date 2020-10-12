@@ -2,6 +2,140 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-09-29-artificial-intelligence-technology-solutions-partners-with-centralized-vision-to-expand-premium-service-offerings.md",
+      "title": "Artificial Intelligence Technology Solutions Partners With Centralized Vision to Expand Premium Service Offerings",
+      "excerpt": "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), is pleased to announce that its wholly-owned subsidiary Robotic Assistance Devices (RAD) is now offering its customers an expanded suite of managed remote services through a partnership formed with third-party monitoring pioneer Centralized Vision.",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20200929005358/artificial-intelligence-technology-solutions-partners-with-centralized-vision-to-expand-premium-service-offerings",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20200929005358/artificial-intelligence-technology-solutions-partners-with-centralized-vision-to-expand-premium-service-offerings",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-29T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-irobot-cofounder-helen-greiner-named-ceo-of-robotic-gardening-startup-tertill.md",
+      "title": "iRobot cofounder Helen Greiner named CEO of robotic gardening startup, Tertill",
+      "excerpt": "Boston-based robotic gardening startup Tertill this morning announced that it has appointed Helen Greiner as CEO and Chairman. The executive is best known for cofounding iRobot in 1990 along with fellow MIT Artificial Intelligence Lab members Rodney Brooks and Colin Angle (the company’s longtime",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/29/irobot-cofounder-helen-greiner-named-ceo-of-robotic-gardening-startup-tertill/",
+      "originalUrl": "https://techcrunch.com/2020/09/29/irobot-cofounder-helen-greiner-named-ceo-of-robotic-gardening-startup-tertill/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/p1010009.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/29/irobot-cofounder-helen-greiner-named-ceo-of-robotic-gardening-startup-tertill/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/29/irobot-cofounder-helen-greiner-named-ceo-of-robotic-gardening-startup-tertill/amp/",
+      "publishedDateTime": "2020-09-29T05:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-the-promise-of-voice-ai-lies-at-work-not-at-home.md",
+      "title": "The promise of voice AI lies at work, not at home",
+      "excerpt": "The next frontier for voice AI lies beyond your doorstep. From education to workforce automation to retail, the scope for new applications is opening up.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/29/the-promise-of-voice-ai-lies-at-work-not-at-home/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/29/the-promise-of-voice-ai-lies-at-work-not-at-home/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Voice-AI-hed-796x419.png",
+          "width": 796,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/29/the-promise-of-voice-ai-lies-at-work-not-at-home/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/29/the-promise-of-voice-ai-lies-at-work-not-at-home/amp/",
+      "publishedDateTime": "2020-09-29T05:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-using-machine-learning-to-reduce-carbon-emissions-in-the-trucking-industry.md",
       "title": "Using Machine Learning To Reduce Carbon Emissions In The Trucking Industry",
       "excerpt": "By using advanced technology, data science and machine learning, this company says it's making the sharable truckload model work and cutting carbon emissions.",
@@ -1018,152 +1152,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-pure-vector-engines-get-gpu-math-help-for-next-earth-simulator.md",
-      "title": "Pure Vector Engines Get GPU Math Help for Next Earth Simulator",
-      "excerpt": "For those who have followed the evolution of supercomputing over the years, the Earth Simulator series of systems has represented the state of the art in",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2020/09/28/pure-vector-engines-get-gpu-math-help-for-next-earth-simulator/",
-      "originalUrl": "https://www.nextplatform.com/2020/09/28/pure-vector-engines-get-gpu-math-help-for-next-earth-simulator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/shutterstock_787937605-scaled.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2020/09/28/pure-vector-engines-get-gpu-math-help-for-next-earth-simulator/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/09/28/pure-vector-engines-get-gpu-math-help-for-next-earth-simulator/amp/",
-      "publishedDateTime": "2020-09-28T13:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-take-a-look-at-this-new-drone-on-demand-mobile-app.md",
-      "title": "Take A Look At This New Drone On Demand Mobile App",
-      "excerpt": "Aquiline Drones is bringing a “Drone-on-Demand” (DoD) mobile app to the market. The DoD app will be accessible through all mobile devices, including smartphones and tablets. According to the company,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2020/09/28/take-a-look-at-this-new-drone-on-demand-mobile-app/",
-      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2020/09/28/take-a-look-at-this-new-drone-on-demand-mobile-app/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f722a94103c005007144241%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2020/09/28/take-a-look-at-this-new-drone-on-demand-mobile-app/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2020/09/28/take-a-look-at-this-new-drone-on-demand-mobile-app/amp/",
-      "publishedDateTime": "2020-09-28T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-deep-science-robot-perception-acoustic-monitoring-using-ml-to-detect-arthritis.md",
-      "title": "Deep Science: Robot perception, acoustic monitoring, using ML to detect arthritis",
-      "excerpt": "This column aims to collect the most relevant recent discoveries and papers — particularly in but not limited to artificial intelligence — and explain why they matter. The topics in this week ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/28/deep-science-robot-perception-acoustic-monitoring-using-ml-to-detect-arthritis/",
-      "originalUrl": "https://techcrunch.com/2020/09/28/deep-science-robot-perception-acoustic-monitoring-using-ml-to-detect-arthritis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-1136667866.jpg?w=1024",
-          "width": 1024,
-          "height": 716,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/28/deep-science-robot-perception-acoustic-monitoring-using-ml-to-detect-arthritis/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/28/deep-science-robot-perception-acoustic-monitoring-using-ml-to-detect-arthritis/amp/",
-      "publishedDateTime": "2020-09-28T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

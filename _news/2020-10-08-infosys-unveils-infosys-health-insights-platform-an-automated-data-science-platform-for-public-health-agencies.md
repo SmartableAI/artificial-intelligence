@@ -26,6 +26,17 @@ images:
     height: 233
     isCached: true
 
+related:
+  - title: "Infosys Announces Automated Data Platform to Support Public Health Agencies"
+    excerpt: "Developed in collaboration with AWS, Couchbase & Knowi, the platform from Infosys’ Cobalt portfolio will enable agencies to deliver AI-driven insights"
+    publishedDateTime: 2020-10-09T00:00:00Z
+    webUrl: "https://www.techwire.net/sponsored/Infosys_Announces_Automated_Data_Platform_to_Support_Public_Health_Agencies.html"
+    type: article
+    provider:
+      name: California Techwire
+      domain: techwire.net
+    quality: 2
+
 secured: "Ln2D35fhzYqhvpeXXKYMTG2j+4f7/8KHHgps4VVwqUIvL3SqRoBvTM+XUDGEeIjjpfsurntyyoTpsvSi4fmxjGJOS7Ctz5t8vm9fyPJj9ETWUxF1FddvT86OYxjbYo2mCTCcabtUfHSfOgRhnlUjexOssc7WLjKKlqVt5nieNeWHAxJdfVlECwVPfi6XjbB5Rx5A8mLll+hL1rSz3/wuBMPgzpxD3srcYaBjCshbHubF365TtrkTeblZ+Pp+qoz6X1SjpFHhchhfTSFaubuv5Fdyk9WrmIxkwmzeHv/X+K5+RTmezFhR35FrNHG8gINUJplugJKegT2NTT7iTaSRdeFPi065e+IVwMU+3TBapJw=;g46LT6jB3dMv9D8wq1UYYg=="
 ---
 

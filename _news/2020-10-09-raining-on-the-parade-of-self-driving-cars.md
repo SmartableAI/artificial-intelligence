@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Something Something Self Driving Boat"
+    excerpt: "As the philosopher Dr. Steve Brule once said, the most important thing to know about going on a boat is \"stay on the boat.\" (Or \"broat.\") This rule escaped a trio of guys doing a photo shoot on the water in Florida;"
+    publishedDateTime: 2020-10-12T12:03:00Z
+    webUrl: "https://www.allaccess.com/talk-topics/q/id/56232"
+    type: article
+    provider:
+      name: AllAccess
+      domain: allaccess.com
+    quality: 39
+    images:
+      - url: "https://a3.allaccess.com/assets/ads/300x250/company/Dr_Dave_Ferguson_VO.gif?1575484729"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Self-Driving Cars Are Not Self-Driving–Marketing Confusing."
     excerpt: "Motorists using active driving assistance systems, which combine vehicle acceleration with braking and steering, tend to overlook safety limitations when the branding and marketing used to sell it"
     publishedDateTime: 2020-10-11T20:18:00Z

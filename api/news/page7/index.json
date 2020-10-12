@@ -2,6 +2,131 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-10-05-nvidia-pledges-to-build-britains-largest-supercomputer-following-40-billion-bid-for-arm.md",
+      "title": "Nvidia pledges to build Britain’s largest supercomputer following $40 billion bid for Arm",
+      "excerpt": "Nvidia has announced plans to build a £40 million ($52 million) supercomputer in Cambridge, England, weeks after saying it intends to buy British rival Arm for $40 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/10/05/nvidia-pledges-to-build-britains-largest-supercomputer.html",
+      "originalUrl": "https://www.msn.com/en-us/money/companies/nvidia-pledges-to-build-britain-s-largest-supercomputer-following-40-billion-bid-for-arm/ar-BB19IxkS",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 228,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106729864-1601898836598-Cambridge-1__002.jpg?v=1601898919",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/10/05/nvidia-pledges-to-build-britains-largest-supercomputer.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/05/nvidia-pledges-to-build-britains-largest-supercomputer.html",
+      "publishedDateTime": "2020-10-05T06:01:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "com/2020/10/05/nvidia-pledges-to-build-britains-largest-supercomputer.html",
+        "domain": "com/2020/10/05/nvidia-pledges-to-build-britains-largest-supercomputer.html",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-combining-ai-and-nanotechnology-to-create-robot-assisted-molecular-manipulation.md",
+      "title": "Combining AI and Nanotechnology to Create Robot-Assisted Molecular Manipulation",
+      "excerpt": "A team of scientists from Forschungszentrum Jülich and TU Berlin is working on a project to create an autonomous artificial intelligence system with the ability to pick up and move individual molecules.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azonano.com/article.aspx?ArticleID=5561",
+      "originalUrl": "https://www.azonano.com/article.aspx?ArticleID=5561",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.azonano.com/images/Article_Images/ImageForArticle_5561_16018955172079789.png",
+          "width": 950,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.azonano.com/amp/article.aspx?ArticleID=5561",
+      "cdnAmpWebUrl": "https://www-azonano-com.cdn.ampproject.org/c/s/www.azonano.com/amp/article.aspx?ArticleID=5561",
+      "publishedDateTime": "2020-10-05T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AZoNano",
+        "domain": "azonano.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-gitai-aims-to-bring-autonomous-robot-workers-to-space.md",
+      "title": "GITAI Aims to Bring Autonomous Robot Workers to Space",
+      "excerpt": "Since its start, GITAI has focused its efforts on various robots ... since with the current technology level of AI, what a robot can do autonomously is very limited. However, in an environment where the latency becomes noticeable, it would become more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20740/GITAI-Aims-to-Bring-Autonomous-Robot-Workers-to-Space.aspx",
+      "originalUrl": "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20740/GITAI-Aims-to-Bring-Autonomous-Robot-Workers-to-Space.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.engineering.com/portals/0/BlogFiles/60_ima1.png",
+          "width": 640,
+          "height": 358,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.engineering.com/amp/20740.html",
+      "cdnAmpWebUrl": "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20740.html",
+      "publishedDateTime": "2020-10-05T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engineering",
+        "domain": "engineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-the-importance-of-human-machine-ai-team-building.md",
       "title": "The Importance Of Human-Machine AI Team-Building",
       "excerpt": "In the future, teams of human domain experts and their AI-bot sidekicks could make sure critical assets in the fuel retail industry are safe, always available, performing at their optimal state and protected from cybersecurity threats.",
@@ -324,19 +449,19 @@
     {
       "path": "_news/2020-10-05-ibm-fenergo-to-transform-new-customer-onboarding-for-financial-institutions.md",
       "title": "IBM, Fenergo to Transform New Customer Onboarding for Financial Institutions",
-      "excerpt": "The offering is designed to incorporate artificial intelligence (AI) from IBM Watson and analytics on the IBM Cloud to help financial institutions drive efficiencies in customer onboarding through ...",
+      "excerpt": "PRNewswire/ -- SIBOS: IBM (NYSE: IBM ) and Fenergo, a leading provider of client lifecycle management (CLM) solutions for financial institutions, today",
       "sourceUrl": null,
-      "webUrl": "https://www.troyrecord.com/news/national/ibm-fenergo-to-transform-new-customer-onboarding-for-financial-institutions/article_1ff8cadf-b470-517b-8d2d-5d23e35113b3.html",
-      "originalUrl": "https://www.troyrecord.com/news/national/ibm-fenergo-to-transform-new-customer-onboarding-for-financial-institutions/article_1ff8cadf-b470-517b-8d2d-5d23e35113b3.html",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-software-industry-information-technology-banking-and-credit-ec2663f8aa896523ece76079d1634583",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-software-industry-information-technology-banking-and-credit-ec2663f8aa896523ece76079d1634583",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/troyrecord.com/content/tncms/assets/v3/editorial/c/0b/c0bf523f-6302-5997-8d2a-9688cdf3e28f/5f3a04aacb9b4.image.jpg?resize=400%2C209",
-          "width": 400,
-          "height": 209,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -345,11 +470,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-04T21:50:00-07:00",
+      "publishedDateTime": "2020-10-04T21:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Troy Record",
-        "domain": "troyrecord.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -832,21 +957,21 @@
       "title": "Parkland parents create AI video of slain son to spur voters",
       "excerpt": "This computer-generated image, taken from video created through artificial intelligence, released by Change The Ref/McCann Health, shows a depiction of Joaquin Oliver, a teenager killed in the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.macon.com/news/business/technology/article246174850.html",
-      "originalUrl": "https://www.macon.com/news/business/technology/article246174850.html",
+      "webUrl": "https://www.kentucky.com/news/business/technology/article246174850.html",
+      "originalUrl": "https://www.kentucky.com/news/business/technology/article246174850.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
       "type": "article",
-      "ampWebUrl": "https://amp.macon.com/news/business/technology/article246174850.html",
-      "cdnAmpWebUrl": "https://amp-macon-com.cdn.ampproject.org/c/s/amp.macon.com/news/business/technology/article246174850.html",
+      "ampWebUrl": "https://amp.kentucky.com/news/business/technology/article246174850.html",
+      "cdnAmpWebUrl": "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/business/technology/article246174850.html",
       "publishedDateTime": "2020-10-02T12:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Telegraph",
-        "domain": "macon.com",
+        "name": "Lexington Herald Leader",
+        "domain": "kentucky.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -994,156 +1119,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-ibm-joins-nih-effort-to-diagnose-schizophrenia-using-ai.md",
-      "title": "IBM joins NIH effort to diagnose schizophrenia using AI",
-      "excerpt": "IBM says it will join an U.S. National Institutes of Health effort to apply data analysis to identifying schizophrenia diagnostic techniques and treatments.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/02/ibm-joins-nih-effort-to-diagnose-schizophrenia-using-ai/",
-      "originalUrl": "https://venturebeat.com/2020/10/02/ibm-joins-nih-effort-to-diagnose-schizophrenia-using-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/02/ibm-joins-nih-effort-to-diagnose-schizophrenia-using-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/02/ibm-joins-nih-effort-to-diagnose-schizophrenia-using-ai/amp/",
-      "publishedDateTime": "2020-10-02T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-parkland-parents-create-artificial-intelligence-video-of-slain-son-to-spur-voters.md",
-      "title": "Parkland parents create artificial intelligence video of slain son to spur voters",
-      "excerpt": "Wearing his signature hoodie and beanie, an earbud casually hanging from one ear, passionate Parkland teen Joaquin Oliver urges his peers to vote for lawmakers who will end gun violence in a new video released Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/parkland-ai-video-son-voters",
-      "originalUrl": "https://www.foxnews.com/us/parkland-ai-video-son-voters",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/92a015b7-e5da-4532-a5e3-7990a14b4476/e83f5a0d-f2ad-49fe-81f0-6d88b306a6ed/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/parkland-ai-video-son-voters.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/parkland-ai-video-son-voters.amp",
-      "publishedDateTime": "2020-10-02T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-writer-pens-a-5m-seed-round-for-its-ai-style-guide-that-flags-bias-and-tone.md",
-      "title": "Writer pens a $5M seed round for its AI style guide that flags bias and tone",
-      "excerpt": "Anyone who writes online or in a word processor has likely gotten used to the inevitable squiggly line denoting a misspelled word or clumsy phrase. But what if you use a word that’s loaded, a phrase that’s too formal or not formal enough,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/02/writer-pens-a-5m-seed-round-for-its-ai-style-guide-that-flags-bias-and-tone/",
-      "originalUrl": "https://techcrunch.com/2020/10/02/writer-pens-a-5m-seed-round-for-its-ai-style-guide-that-flags-bias-and-tone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/writer-hed.jpg?w=1024",
-          "width": 1024,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/02/writer-pens-a-5m-seed-round-for-its-ai-style-guide-that-flags-bias-and-tone/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/02/writer-pens-a-5m-seed-round-for-its-ai-style-guide-that-flags-bias-and-tone/amp/",
-      "publishedDateTime": "2020-10-02T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

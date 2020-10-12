@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en_us/article/qj4g3m/robot-ai-tech-mental-h
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/qj4g3m/robot-ai-tech-mental-health-therapist-psychiatry-anxiety-depression-treatment"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7b6abcdd10f3a9923bd091%2F0x0.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "DIGITAL HEALTH STARTUPS TO WATCH: An inside look at the top US startups transforming healthcare through AI, telehealth, and medical devices"
+    excerpt: "Insider Intelligence examines the top five US startups in the areas of digital health with the most number of deals in the first half of 2020."
+    publishedDateTime: 2020-10-12T18:40:00Z
+    webUrl: "https://www.businessinsider.com/digital-health-startups-to-watch-report"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
+    images:
+      - url: "https://i.insider.com/5f80d5f4bab422001979a90b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "PY7aNayEqZ/eItwJ43l6zc4gcfuUsMXGkE+5SboZb0kJNURjM0Or/GAdR94XVifNj238Cw/zJWt0bg6r+kGxm6HUN6QNEukqKh2L0UVlsa9zXp/zeP4XGNqlJKmkvkyQ/GCUusnP5klz3zt3qnMQZNdrtzRVkUWlVd6zfvOrCJNOgYONz/C3ui45FE/+FaOBuX3lPQ9j7YJs6guucm4o0u9SqkLSUwW2ohG3f2sUEWwUvmkf94/3PBqxf70baVKHZN3S3xUrOtzamNPepRdY0258zW+t9Eg/KoAUT/PcKdaj0vElg0TUzrkfp6LIg30neoDqsg6XzJ38CHJKL67fxePlf7hryk3mUk0IfzFFQKMsGATCpQvv1548K07/ULqXBFhUAyhMiWdr7PdadAkfILRPa3ZC0OgJNe29k0yf1g1YRMlcxDtIAtSqGTvrW3cDn0MkmjuPeRhOcSlDy5LDlMovgqSgLs/I+DIcw1oeD+/AXXKyhbZU8JzzNFr6kTA2FJoQ8qxV7y/uC5G9c9HboA==;RXDt0trw5ryuGEszRWX1Uw=="

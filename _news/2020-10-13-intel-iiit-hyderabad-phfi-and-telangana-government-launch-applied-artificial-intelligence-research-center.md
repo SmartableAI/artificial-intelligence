@@ -8,7 +8,7 @@ webUrl: "https://indiaeducationdiary.in/intel-iiit-hyderabad-phfi-and-telangana-
 ampWebUrl: "https://indiaeducationdiary.in/intel-iiit-hyderabad-phfi-and-telangana-government-launch-applied-artificial-intelligence-research-center/?amp"
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/intel-iiit-hyderabad-phfi-and-telangana-government-launch-applied-artificial-intelligence-research-center/?amp"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Intel’s Hyderabad AI centre to focus on road safety, health"

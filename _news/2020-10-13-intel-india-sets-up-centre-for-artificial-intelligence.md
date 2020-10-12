@@ -83,7 +83,7 @@ related:
     provider:
       name: India Education Diary
       domain: indiaeducationdiary.in
-    quality: 19
+    quality: 21
   - title: "Intel's Hyderabad AI centre to focus on road safety, health"
     excerpt: "Chip-making giant Intel on Monday said its newly launched applied Artificial Intelligence (AI) research centre in Hyderabad will focus on identifying and solving challenges in the healthcare and smart mobility segments through strong ecosystem collaboration."
     publishedDateTime: 2020-10-12T17:29:00Z
@@ -94,6 +94,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "GMxsTCqs+65liQUENe0uN+AlfCz8Ktx7yJlsQlPHgRkJDI61pC+jaAeMq10C/AfHVHvaDk/NT9mnsIlkOUPe17W20OTWCb3Wt7QVJ5kiSHyscP5Eh0F99mPXX1t3K4XgzDRUY1kyJej0nGx3rc1x0tBoK4GcATd+Ai3saDPG9ahwHKzecgjThNUpWst2B3lnY5zZVI4biJC7fXGLVRLYZOkC7Bw3JupAAmmKYOS++4FxhfVn1S4wwiAYxNv1dVClgkRRNBrD/waXUNEApiKOJKyEQgWmrCB6VRr2Ye73uivT58NSftTo52qiwd4ia+IEIQRgeFvqqpJM7dRyVYPMuN5ejhGoGIpxvNetLfrVZ/s=;G/qUh0geJZhdYg5OwD2bjw=="
+secured: "qGzNhuN+SwESHLT8d4l0TF/NKXcnSgn6L92P2hkRhr+l6DAd1fJKzzBrbBnntBV3MF1MWehSY7NpONy1OsngY8epshtw1ZdXUHpmSt3Ne1WVR29Dt0mCnfMatIZ1PvUEMDhgKQ8O7t4ZSOTEwIzONqeX7F/U6ITtdA3Sti3jN5zEOo109TBCwt+4yTgHV+gXOcHOz8N4mCNydSo9HP/LPuSDf2B8WijyMXX1EZm/Hl2QfrqbnCPEUBKaxXQvZrLQZ3CPyl/2aXbWAWx2CNa3IT2xUwzyhTx50rNvcu6gSqYZgIFHQK0SIaHSCRy5Xkqv1Whlj+3eGwg7SdbjNDoWy4L0bGTlUNel/R1Ht7RxrFMj4x9jjCfpPVV2NfKcWEZgnucAY6AVeV4Mru42BCZv2kmF0RUPB3DVFGY6YovknQegehQSNYUfRpMTZD52e4Z/XH4g74dXBVAmUauHlbYOziU0hSlBGu20YxNqnZvNQ+ntWFi01Cpe8auzWol32kP4sufrw3puYr61kmwyl0e7Vw==;9rQyHOSRdNDgfOgjwEAMNA=="
 ---
 

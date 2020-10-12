@@ -47,6 +47,20 @@ related:
         width: 4468
         height: 2510
         isCached: true
+  - title: "DIGITAL HEALTH STARTUPS TO WATCH: An inside look at the top US startups transforming healthcare through AI, telehealth, and medical devices"
+    excerpt: "Insider Intelligence examines the top five US startups in the areas of digital health with the most number of deals in the first half of 2020."
+    publishedDateTime: 2020-10-12T18:40:00Z
+    webUrl: "https://www.businessinsider.com/digital-health-startups-to-watch-report"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
+    images:
+      - url: "https://i.insider.com/5f80d5f4bab422001979a90b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "t0S5maaU4IaxcAdBHGFod8LBg3bKomIO/4Ngc6a7nDXXruCr1xWiUdSWQ49AsN4BphRwX0RsL/iw18CjzNchfu7EOLxsK2Y4Mb+OVMXC+OhRn7j5K/mwPlzm7KMdbb4K5oWnQeTpFP1pjvGg3CmwSVFN3noPjYRkYNa/S0xSAcCFMjBV7XPMqHvK67Uo0adlHT4TxI+GMThk9PlHqo1lfEtcCNcwfeF2mO9XSul3+9+OGO+u2KJcWoVHkWiSd2I3GiHn0znQab+gixpF3vR7WwanPYZWbO8Ck/q6DK7H4vocPIJkvUhfFyWgNxewyGYV2y5gnRBwYSVB2Z0u8HEjT9+GtHbSjd9Kd/nZdd09WHwMQ28dBuAJHDtXWCDCPWzKSngkDs2dFHZQHHAqnzwYdzepNzqDDppudVPHOnDkpgIEfH8q6uXEh+nfyqHmCU9Wlu84/c8HIcLXgDADplooaDZnv5kvUB59uRa4GLR8eGSTmONbMq4AJ07bVFrKSUO2VCAoeR9AsUfaWrRLM2gY7w==;eG3Gnt+cF/lItPTPH/HMxg=="
 ---

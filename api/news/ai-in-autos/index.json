@@ -10,7 +10,7 @@
       "originalUrl": "https://english.madhyamam.com/technology/south-korea-targets-to-develop-50-artificial-intelligence-chips-by-2030-584315",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -146,7 +146,7 @@
       "originalUrl": "https://www.cnet.com/news/adorable-red-self-driving-robot-delivering-mail-in-japan-during-pandemic/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -429,6 +429,57 @@
       ]
     },
     {
+      "path": "_news/2020-10-07-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "Artificial intelligence (AI) involves using computers ... deploying AI brains into the Waymo self-driving car business, and applying these technologies to medical research and weather forecasting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "originalUrl": "https://www.fool.com/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F594319%2Fartificial-intelligence-digital-brain.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "publishedDateTime": "2020-10-07T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-how-is-artificial-intelligence-revolutionising-our-global-healthcare.md",
       "title": "How Is Artificial Intelligence Revolutionising Our Global Healthcare?",
       "excerpt": "Artificial intelligence is reinventing everything we once knew about healthcare. Find out how this technology could save millions of lives in the future. Artificial intelligence is one of the most promising technologies in the world.",
@@ -612,21 +663,21 @@
       "title": "Parkland parents create AI video of slain son to spur voters",
       "excerpt": "This computer-generated image, taken from video created through artificial intelligence, released by Change The Ref/McCann Health, shows a depiction of Joaquin Oliver, a teenager killed in the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.macon.com/news/business/technology/article246174850.html",
-      "originalUrl": "https://www.macon.com/news/business/technology/article246174850.html",
+      "webUrl": "https://www.kentucky.com/news/business/technology/article246174850.html",
+      "originalUrl": "https://www.kentucky.com/news/business/technology/article246174850.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
       "type": "article",
-      "ampWebUrl": "https://amp.macon.com/news/business/technology/article246174850.html",
-      "cdnAmpWebUrl": "https://amp-macon-com.cdn.ampproject.org/c/s/amp.macon.com/news/business/technology/article246174850.html",
+      "ampWebUrl": "https://amp.kentucky.com/news/business/technology/article246174850.html",
+      "cdnAmpWebUrl": "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/business/technology/article246174850.html",
       "publishedDateTime": "2020-10-02T12:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Telegraph",
-        "domain": "macon.com",
+        "name": "Lexington Herald Leader",
+        "domain": "kentucky.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1151,6 +1202,49 @@
       ]
     },
     {
+      "path": "_news/2020-09-29-data-science-to-accelerate-drug-discovery-with-artificial-intelligence-and-machine-learning-says-frost-sullivan.md",
+      "title": "Data Science to Accelerate Drug Discovery with Artificial Intelligence and Machine Learning, Says Frost & Sullivan",
+      "excerpt": "When combined with other emerging tech areas, artificial intelligence (AI) technologies move to the next phase of advancements. Hence, they are expected to witness adoption by pharma and biotech ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanzen.net/nachricht/aktien/data-science-to-accelerate-drug-discovery-with-artificial-intelligence-and-machine-learning-says-frost-sullivan-9342599",
+      "originalUrl": "https://www.finanzen.net/nachricht/aktien/data-science-to-accelerate-drug-discovery-with-artificial-intelligence-and-machine-learning-says-frost-sullivan-9342599",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-29T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanzen",
+        "domain": "finanzen.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-startup-circle-how-is-superproai-an-ai-driven-knowledge-hub.md",
       "title": "Startup Circle: How is Superpro.ai an AI-driven knowledge hub?",
       "excerpt": "A life-long learner, he has filed more than 30 patents in Europe and the US around Artificial Intelligence and has raised multi-million dollar investments. Excerpts of the interview: Superpro.ai ...",
@@ -1264,99 +1358,6 @@
         "name": "Raconteur",
         "domain": "raconteur.net",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-how-analytics-and-ai-driven-processes-will-revolutionize-the-industrial-sector.md",
-      "title": "How Analytics and AI-driven Processes Will Revolutionize the Industrial Sector",
-      "excerpt": "Artificial Intelligence and analytics fall into four categories reflecting the type of insight delivered; these categories are predictive, performance, prescriptive and prognostic insights–the Four P’s of industrial AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/september-2020/analytics-ai-processes-revolutionize-industrial?listname=Automation & Control News & Articles",
-      "originalUrl": "https://www.automation.com/en-us/articles/september-2020/analytics-ai-processes-revolutionize-industrial?listname=Automation & Control News & Articles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/4e040a94-7b96-4132-94d9-6c07174cfd84/Jim-Chappell-sept-2020-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-follow-the-leader-a-shortcut-to-autonomous-trucking.md",
-      "title": "Follow-the-leader: A shortcut to autonomous trucking",
-      "excerpt": "The order will equip 1,120 trucks with Locomation's convoy technology, which enables driverless trucks ... group of specialists in robotics and artificial intelligence along with trucking industry ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/follow-the-leader-a-shortcut-to-autonomous-trucking/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/follow-the-leader-a-shortcut-to-autonomous-trucking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/10/02/e94a8b84-1a90-4769-9cf5-e4ca9eada4a6/thumbnail/1200x675/c709c06b21f8abf2c522b622f5bdb8d9/after-successful-trial-autonomous-trucks-5f734947156d30063519746a-1-oct-02-2020-17-33-40-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/follow-the-leader-a-shortcut-to-autonomous-trucking/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/follow-the-leader-a-shortcut-to-autonomous-trucking/",
-      "publishedDateTime": "2020-09-25T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

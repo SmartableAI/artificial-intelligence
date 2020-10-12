@@ -139,6 +139,48 @@
       ]
     },
     {
+      "path": "_news/2020-10-07-cig-capitals-charles-d-carey-on-the-lending-based-revolution-of-project-finance-fintech-magazine.md",
+      "title": "CIG Capital's Charles D. Carey on the lending-based revolution of project finance || FinTech Magazine",
+      "excerpt": "However, in our lead story, Charles D. Carey, serial entrepreneur and Managing Partner of CIG Capital, reminds us that investment is about more than just money and describes why funding desperately needs to modernise.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/cig-capital-s-charles-d-carey-on-the-lending-based-revolution-of-project-finance-fintech-magazine-1029656466",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/cig-capital-s-charles-d-carey-on-the-lending-based-revolution-of-project-finance-fintech-magazine-1029656466",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/cig-capital-s-charles-d-carey-on-the-lending-based-revolution-of-project-finance-fintech-magazine-1029656466",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cig-capital-s-charles-d-carey-on-the-lending-based-revolution-of-project-finance-fintech-magazine-1029656466",
+      "publishedDateTime": "2020-10-07T04:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry.md",
       "title": "Artificial intelligence and machine learning: A new blueprint for the fintech industry",
       "excerpt": "There is no doubt that artificial intelligence (AI) and machine learning (ML) is becoming a hot topic within the fintech industry. At almost every seminar and conference, we are hearing about the rise of these emerging technologies and the potential they have to disrupt businesses.",
@@ -1330,58 +1372,6 @@
         "AI in Finance",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-tackling-one-of-the-biggest-single-sources-of-co2-emissions-with-machine-learning.md",
-      "title": "Tackling one of the biggest single sources of CO2 emissions with machine learning",
-      "excerpt": "The 6 million buildings in the U.S. produce 40% of the country’s emissions, mostly from day-to-day lighting, heating, cooling, and appliance operation.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/08/tackling-one-of-the-biggest-single-sources-of-co2-emissions-with-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2020/09/08/tackling-one-of-the-biggest-single-sources-of-co2-emissions-with-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-579525105.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 642,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/08/tackling-one-of-the-biggest-single-sources-of-co2-emissions-with-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/08/tackling-one-of-the-biggest-single-sources-of-co2-emissions-with-machine-learning/amp/",
-      "publishedDateTime": "2020-09-08T10:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -2,6 +2,108 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-12-how-cogability-and-the-university-of-florida-are-using-watson-to-build-the-future-of-education.md",
+      "title": "How CogAbility and the University of Florida are using Watson to build the future of education",
+      "excerpt": "As they do every fall, 55,000 students descended on the University of Florida this year. But with mask and physical distancing guidelines, alterations to policies on campus gatherings, and new behavioral expectations, operating and attending a university during a pandemic is anything but business as",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/10/how-cogability-and-the-university-of-florida-are-using-watson-to-build-the-future-of-education/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/10/how-cogability-and-the-university-of-florida-are-using-watson-to-build-the-future-of-education/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/10/Watson_UF_ChatBot_Blog_Leadspace_Final_1-2-990x498.jpg",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-12T12:28:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-12-amazon-rekognition-adds-support-for-six-new-content-moderation-categories.md",
+      "title": "Amazon Rekognition adds support for six new content moderation categories",
+      "excerpt": "Amazon Rekognition content moderation is a deep learning-based service that can detect inappropriate, unwanted, or offensive images and videos, making it easier to find and remove such content at scale. Amazon Rekognition provides a detailed taxonomy of moderation categories, such as Explicit Nudity,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-adds-support-for-six-new-content-moderation-categories/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-adds-support-for-six-new-content-moderation-categories/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-12T12:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-android-studio-41-simplifies-using-tensorflow-lite-models-and-android-emulator.md",
       "title": "Android Studio 4.1 simplifies using TensorFlow Lite models and Android Emulator",
       "excerpt": "Version 4.1 includes easier implementation of on-device TensorFlow Lite models, the ability to run Android Emulator directly in the IDE, and support for foldable form factors. There’s also a new ...",
@@ -112,7 +214,7 @@
       "originalUrl": "https://www.reuters.com/article/us-adobe-ai-idUSKBN26X24O",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -162,7 +264,7 @@
       "originalUrl": "https://english.madhyamam.com/technology/south-korea-targets-to-develop-50-artificial-intelligence-chips-by-2030-584315",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -358,7 +460,7 @@
       "originalUrl": "https://www.zdnet.com/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -399,7 +501,8 @@
         "AI Hardware",
         "AI",
         "AI Ethics",
-        "AI in Healthcare"
+        "AI in Healthcare",
+        "Machine Learning"
       ]
     },
     {
@@ -783,7 +886,7 @@
       "originalUrl": "https://www.vice.com/en/article/qj4g3m/robot-ai-tech-mental-health-therapist-psychiatry-anxiety-depression-treatment",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1113,107 +1216,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-rights-group-criticizes-buenos-aires-for-using-face-recognition-tech-on-kids.md",
-      "title": "Rights group criticizes Buenos Aires for using face recognition tech on kids",
-      "excerpt": "Human Rights Watch wants the city of Buenos Aires to stop using live facial recognition to identify children accused of committing crimes, the rights group said on Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/uk-argentina-rights/rights-group-blasts-argentina-for-using-face-recognition-tech-on-kids-idUKKBN26U208",
-      "originalUrl": "https://www.reuters.com/article/uk-argentina-rights/rights-group-blasts-argentina-for-using-face-recognition-tech-on-kids-idUKKBN26U208",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201009&t=2&i=1536893280&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG98188",
-          "width": 814,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN26U23Z",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26U23Z",
-      "publishedDateTime": "2020-10-09T20:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-experts-urge-vigilance-over-ai-data-security.md",
-      "title": "Experts Urge Vigilance Over AI Data Security",
-      "excerpt": "The expanded use of artificial intelligence in nearly all areas of business means companies must pay more attention to the integrity and security of the data used to train algorithms, a panel of security and AI experts said earlier this week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/experts-urge-vigilance-over-ai-data-security-11602272062",
-      "originalUrl": "https://www.wsj.com/articles/experts-urge-vigilance-over-ai-data-security-11602272062",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-242976/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-09T15:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

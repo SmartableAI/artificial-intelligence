@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innov
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7f278b79657261d13693d3%2F0x0.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "When AI hurts people, who is held responsible?"
+    excerpt: "How to determine whether a human was at fault when AI plays a role in a person’s injury or death is no easy task. If AI is in control and something goes wrong, when is it the human’s fault and ..."
+    publishedDateTime: 2020-10-12T18:50:00Z
+    webUrl: "https://venturebeat.com/2020/10/12/when-ai-hurts-people-who-is-held-responsible/"
+    ampWebUrl: "https://venturebeat.com/2020/10/12/when-ai-hurts-people-who-is-held-responsible/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/12/when-ai-hurts-people-who-is-held-responsible/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2016/12/uber-self-driving-car-transportation.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 800
         isCached: true
   - title: "How man and machine can work together in the age of AI"
     excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Jens Martin Skibsted, Partner, Manyone A/S In reskilling"

@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "When AI hurts people, who is held responsible?"
+    excerpt: "How to determine whether a human was at fault when AI plays a role in a person’s injury or death is no easy task. If AI is in control and something goes wrong, when is it the human’s fault and ..."
+    publishedDateTime: 2020-10-12T18:50:00Z
+    webUrl: "https://venturebeat.com/2020/10/12/when-ai-hurts-people-who-is-held-responsible/"
+    ampWebUrl: "https://venturebeat.com/2020/10/12/when-ai-hurts-people-who-is-held-responsible/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/12/when-ai-hurts-people-who-is-held-responsible/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2016/12/uber-self-driving-car-transportation.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How man and machine can work together in the age of AI"
     excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Jens Martin Skibsted, Partner, Manyone A/S In reskilling"
     publishedDateTime: 2020-10-08T17:34:00Z

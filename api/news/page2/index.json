@@ -2,6 +2,107 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-10-rights-group-criticizes-buenos-aires-for-using-face-recognition-tech-on-kids.md",
+      "title": "Rights group criticizes Buenos Aires for using face recognition tech on kids",
+      "excerpt": "Human Rights Watch wants the city of Buenos Aires to stop using live facial recognition to identify children accused of committing crimes, the rights group said on Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-argentina-rights/rights-group-blasts-argentina-for-using-face-recognition-tech-on-kids-idUKKBN26U208",
+      "originalUrl": "https://www.reuters.com/article/uk-argentina-rights/rights-group-blasts-argentina-for-using-face-recognition-tech-on-kids-idUKKBN26U208",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201009&t=2&i=1536893280&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG98188",
+          "width": 814,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN26U23Z",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26U23Z",
+      "publishedDateTime": "2020-10-09T20:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-10-experts-urge-vigilance-over-ai-data-security.md",
+      "title": "Experts Urge Vigilance Over AI Data Security",
+      "excerpt": "The expanded use of artificial intelligence in nearly all areas of business means companies must pay more attention to the integrity and security of the data used to train algorithms, a panel of security and AI experts said earlier this week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/experts-urge-vigilance-over-ai-data-security-11602272062",
+      "originalUrl": "https://www.wsj.com/articles/experts-urge-vigilance-over-ai-data-security-11602272062",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-242976/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-09T15:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-10-facebooks-ai-flags-onion-photo-as-overtly-sexual.md",
       "title": "Facebook's AI Flags Onion Photo as 'Overtly Sexual'",
       "excerpt": "A Canadian seed company that posted a photo featuring a pile of onions was notified by Facebook that 'listings may not position products or services in a sexually suggestive manner.'",
@@ -60,7 +161,7 @@
       "originalUrl": "https://www.cnet.com/news/adorable-red-self-driving-robot-delivering-mail-in-japan-during-pandemic/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -884,7 +985,7 @@
       "originalUrl": "https://www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -1071,99 +1172,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-playstation-inventor-starts-new-career-making-robots-for-no-pay.md",
-      "title": "PlayStation Inventor Starts New Career Making Robots for No Pay",
-      "excerpt": "Ken Kutaragi, the legendary inventor of the PlayStation gaming console, is taking on one of the hardest jobs in robotics. And he’s getting paid nothing to do it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-08/playstation-inventor-starts-new-career-making-robots-for-no-pay",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-08/playstation-inventor-starts-new-career-making-robots-for-no-pay",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/istV08PYj0w0/v0/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-08/playstation-inventor-starts-new-career-making-robots-for-no-pay",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-08/playstation-inventor-starts-new-career-making-robots-for-no-pay",
-      "publishedDateTime": "2020-10-08T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-waymo-and-tusimple-autonomous-trucking-leaders-on-the-difficulty-of-building-a-highway-safe-ai.md",
-      "title": "Waymo and TuSimple autonomous trucking leaders on the difficulty of building a highway-safe AI",
-      "excerpt": "TuSimple and Waymo are in the lead in the emerging sector of autonomous trucking; TuSimple founder Xiaodi Hou and Waymo trucking head Boris Sofman had an in-depth discussion of their industry and the tech they’re building at TC Mobility 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/08/waymo-and-tusimple-autonomous-trucking-leaders-on-the-difficulty-of-building-a-highway-safe-ai/",
-      "originalUrl": "https://techcrunch.com/2020/10/08/waymo-and-tusimple-autonomous-trucking-leaders-on-the-difficulty-of-building-a-highway-safe-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/08/waymo-and-tusimple-autonomous-trucking-leaders-on-the-difficulty-of-building-a-highway-safe-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/08/waymo-and-tusimple-autonomous-trucking-leaders-on-the-difficulty-of-building-a-highway-safe-ai/amp/",
-      "publishedDateTime": "2020-10-08T11:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

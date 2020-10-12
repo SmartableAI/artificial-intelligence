@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26X24O"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X24O"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -60,7 +60,16 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "Adobe adds AI features to its digital marketing software"
+    excerpt: "Adobe's (NASDAQ:ADBE) digital marketing software now comes with integrated AI tools to help campaigns better target ads based on previously viewed or currently viewing content.The type of AI tech isn't new,"
+    publishedDateTime: 2020-10-12T18:29:00Z
+    webUrl: "https://seekingalpha.com/news/3621498-adobe-adds-ai-features-to-digital-marketing-software"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 17
 
-secured: "Mp4Hl9JEHUDU5bVAKITbiYrVN6LD6e6gzMqeXDBwFIWj9QBSam3fF9h3BvLBTb44g+o1/4O1sTD4JHe05fPFWbf+C8cdiN/eIxKpg24xmGytibd1q0BHXAQkwpoNlUz1BhWvL3NtU7JWECOjbCLf49W4TXzyEymRXOiwf75+PMraQchtmLt+7LFrBnRr/UaouuNpZVd+E8QexuQqaY2oj1YNHvAYo1Yh65kizjPFFVaowlE1us2Z0NuqYU81EOqMs0UBmskUGZ+Jd30ahE6TWm8e0u16TNZTIgdXRoDAcn/BH7/v4U2waDUGWq4ZIQGTy0DBawG379S6baVGsrnTupvo9tvyqn1gFuWL+djHmUE=;jJu0krNU2/VLa/9I0rjr8A=="
+secured: "5Vcbgi0tD5qIpI+140F8SADz4zez3fKLIadHUniLQcToFiIrL/AK6n4lJQG5KH5bzqImHBkGuKNGCtcMCbLCL+4aitrH/7+slP/93kca3qFCC9uRMpsfA5lNbIkmmt1a45zIbmnc8gIAuVbp/6hNa2DrlV1L6SXAA+VbG57iT3MJNtZuI37Yh5+hZ4rKY61X+93BIRMA9CIKOKRX65qfWBQ1jY9YHx8zS0f47vZz0g2gcwkzNxrHKLfw8MUqE4HS0NSLPvD0mMgsh9OyZiUg0Y75fclrTK+/NXimPZmUiFx5lrdntnvQQcaHG++KttuUhbtI6edshSQ56ZT0A2dv6o/rQib01YtZs6V5bvDJQgmVrbofPApOGd0Ag/iKV18/SLZ5K3JSONfZFaJlXWjawSUSqHm4yFHLotg2zIv/+AGIaXsUfqjRjZ2/a1WZ2BnDo4jLpCJbNvbyLe4UAWgKe2mmlLHhdmYFexpYKOQ3D/n8Ptu/Z8Xq3wh3vy1E1Z8kmD1JFlWTxUZ9Nfk7JR30Yg==;iiveQ9jP1dcYHZG80szBhQ=="
 ---
 

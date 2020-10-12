@@ -83,7 +83,7 @@ related:
     provider:
       name: India Education Diary
       domain: indiaeducationdiary.in
-    quality: 19
+    quality: 21
   - title: "Intel's Hyderabad AI centre to focus on road safety, health"
     excerpt: "Chip-making giant Intel on Monday said its newly launched applied Artificial Intelligence (AI) research centre in Hyderabad will focus on identifying and solving challenges in the healthcare and smart mobility segments through strong ecosystem collaboration."
     publishedDateTime: 2020-10-12T17:29:00Z
