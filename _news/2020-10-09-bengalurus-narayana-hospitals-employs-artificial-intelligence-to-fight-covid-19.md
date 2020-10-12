@@ -55,22 +55,6 @@ related:
         isCached: true
   - title: "AI tool can help doctors prioritize care, make discharging plans for COVID-19 patients"
     excerpt: "An artificial intelligence tool can help doctors when deciding which COVID-19 patients can be sent home, according to a study that started in May. Researchers at New York University used the AI tool to analyze thousands of COVID-19 cases."
-    publishedDateTime: 2020-10-07T20:46:00Z
-    webUrl: "https://www.wxyz.com/news/national/coronavirus/ai-tool-can-help-doctors-prioritize-care-make-discharging-plans-for-covid-19-patients"
-    ampWebUrl: "https://www.wxyz.com/news/national/coronavirus/ai-tool-can-help-doctors-prioritize-care-make-discharging-plans-for-covid-19-patients?_amp=true"
-    cdnAmpWebUrl: "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/national/coronavirus/ai-tool-can-help-doctors-prioritize-care-make-discharging-plans-for-covid-19-patients?_amp=true"
-    type: article
-    provider:
-      name: WXYZ Detroit
-      domain: wxyz.com
-    quality: 49
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/7edc30c/2147483647/strip/true/crop/5402x3039+0+281/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F55%2F12%2F2e70d270412a84fd17fd3a89179e%2Fap-20280514929484.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "AI tool can help doctors prioritize care, make discharging plans for COVID-19 patients"
-    excerpt: "An artificial intelligence tool can help doctors when deciding which COVID-19 patients can be sent home, according to a study that started in May. Researchers at New York University used the AI tool to analyze thousands of COVID-19 cases."
     publishedDateTime: 2020-10-08T19:47:00Z
     webUrl: "https://www.pix11.com/news/national/coronavirus/ai-tool-can-help-doctors-prioritize-care-make-discharging-plans-for-covid-19-patients"
     ampWebUrl: "https://www.pix11.com/news/national/coronavirus/ai-tool-can-help-doctors-prioritize-care-make-discharging-plans-for-covid-19-patients?_amp=true"
@@ -84,20 +68,6 @@ related:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/7edc30c/2147483647/strip/true/crop/5402x3039+0+281/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F55%2F12%2F2e70d270412a84fd17fd3a89179e%2Fap-20280514929484.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Will robots and AI take our jobs in covid-19’s socially distanced era?"
-    excerpt: "Coronavirus has put a rocket under plans for more automation, roboticisation and use of AI. Should we fear for our jobs – or will we just get better ones?"
-    publishedDateTime: 2020-10-07T19:07:00Z
-    webUrl: "https://www.newscientist.com/article/mg24833031-000-will-robots-and-ai-take-our-jobs-in-covid-19s-socially-distanced-era/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2020/10/07155320/covid-ai.jpg"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "jhkPLu3JRAnRpmG2jy44MwZDAvEH69pKT4QsflLhT2AcqJ6u+xUiCITHR5mVIh9so90mBi6fK7FXpCqqgPIi7B30bp/JyQy6eJqzP+OslX3CfdD75WVaP15VNXKXiZ5nj7GFAlq3M34w0P9mdRn7TtXvKYriwN59LkkrBgM776edLuOjkcGf3yaEhsnU5glBi7UbjeIM8LykiSBRRFmFY2b5lWjHsfPrk04YCZHTs8w8UA55BFIQxCTKctnj1i7SmLRV/K29tzIi+WMNVs/zjFcJSPhMBNEr6FhdiHysrcCFO0r9LhY95Tl1F4MjhiIj8Iiw5T5RrxoD5bN1ZWuyAPzUW63XOw4vqfEsraxUsvicnKgBs5r5l9tpUiiS5MhprZyww01AtSSL8jpUcPTmbS1dBt+DjT6K1YuKXRIi17DsUL5zC4jv2rm2HO2iJhF3d4vtfxZ+PtN4T1Mh7+jbkRWWwJxyHV3P18+ikrGze05ji9vyRkG53zNFO5KcUVlDfEyhr45p431tlC1WWVTThw==;OEExhHWELTL9lUQMLLGbWg=="

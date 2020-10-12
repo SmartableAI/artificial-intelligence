@@ -136,20 +136,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "AI Eye Episode 448: ZEISS Partners with Microsoft (NasdaqGS: $MSFT) for Digital Cloud Transformation"
-    excerpt: "Optics and optoelectronics manufacturer ZEISS Group (OTC:CZMWF) has entered a multi-year strategic partnership with Microsoft (NasdaqGS:MSFT) to accelerate its transformation into a digital services provider with a cloud first approach."
-    publishedDateTime: 2020-10-07T19:09:00Z
-    webUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/10071AIEye-ZEISS-MSFT-NVDA-GSK.asp"
-    type: article
-    provider:
-      name: Investor ideas
-      domain: investorideas.com
-    quality: 39
-    images:
-      - url: "https://www.investorideas.com/images/AI-Eye.jpg"
-        width: 1280
-        height: 1206
-        isCached: true
 
 secured: "rg1r8JUodQ7sZ4+o6SqkjsOjmZQKtFjOCuk0plN9n48KhZ3KqBsNNNX94nr8hVwHjVBsqSEwKYAYzbMDsEe4hKGgi35/5fuvIMu2tPbLz1eWCYdiC/ljTuX2CIdX4jhfU5cWoUhEKjivIdhb4PjqiKnCYrG+BJbph06md2pxdL8GhXmJ54dsgQWmodkHuMMCMvN1K8Tt5FeoBv2wJsKdJbERZmhfXIK0g0+AMagZFfrPgaiM3jwLZxr08Svf3udGUV1ATKdUTs02cTtWhCioQgLpCrfI3c+X5EAeqNWm4wFy2hiEn4T862c/tL5TtRu3ZWj5/wA1GUaER1DkzxrWkIsIw3eMMa4ypl/aMer8L+U=;5CO29ZLKkNLwcd1IPpPKxQ=="
 ---

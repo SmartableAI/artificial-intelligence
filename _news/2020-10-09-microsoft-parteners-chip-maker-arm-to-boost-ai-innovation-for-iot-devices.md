@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/technology/microsoft-p
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html"
 type: article
 quality: 90
-heat: 170
+heat: 160
 published: true
 
 provider:
@@ -133,20 +133,6 @@ related:
       - url: "https://rcpmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2016/1216vrm_CrankyAdmin_Image1.jpg"
         width: 647
         height: 450
-        isCached: true
-  - title: "AI Eye Episode 448: ZEISS Partners with Microsoft (NasdaqGS: $MSFT) for Digital Cloud Transformation"
-    excerpt: "Optics and optoelectronics manufacturer ZEISS Group (OTC:CZMWF) has entered a multi-year strategic partnership with Microsoft (NasdaqGS:MSFT) to accelerate its transformation into a digital services provider with a cloud first approach."
-    publishedDateTime: 2020-10-07T19:09:00Z
-    webUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/10071AIEye-ZEISS-MSFT-NVDA-GSK.asp"
-    type: article
-    provider:
-      name: Investor ideas
-      domain: investorideas.com
-    quality: 39
-    images:
-      - url: "https://www.investorideas.com/images/AI-Eye.jpg"
-        width: 1280
-        height: 1206
         isCached: true
 
 secured: "s/Soip+Cv76WSeiaynDrxsy+y5slFRAXr6v9F0b36OhWNQjlMD9Gi7w3JPnaEl5h56PceJn8zdE6/pzNTh+7f2rB6/Oqa744n5CjPc/GGItk4iJRFFonqsVxzqzBx0Rz5ogxi6CpH7LVTysl+ig+0hQ140E3gTpApQu7cpY6349rQFzs+6yGBfwDgqQuq7Ui89pYGhv9z7qf2TiTymj00ArrtuUz6RqTjA0cZWPjUvdYWYj34vWf6fNsfB6DUVUZQq76lOnFvDLbxqIVRPEWMBmclxLKQr5zf5cl4tfOlApj1VO47pOavliZmv0uOTfkJfFRYxB4no8EAILyzJYK2B0/L5KYoSXeh3/lvJDnUKI=;EHD0CwKWWtyjfco9HdQP+g=="

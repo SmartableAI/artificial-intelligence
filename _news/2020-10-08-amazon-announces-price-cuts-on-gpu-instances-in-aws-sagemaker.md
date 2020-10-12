@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
 type: article
 quality: 101
-heat: -1
-published: false
+heat: 111
+published: true
 
 provider:
   name: ZDNet
@@ -26,20 +26,6 @@ topics:
   - AI Hardware
 
 related:
-  - title: "Making cycling safer with AWS DeepLens and Amazon SageMaker object detection"
-    excerpt: "According to the 2018 National Highway Traffic Safety Administration (NHTSA) Traffic Safety Facts, in 2018, there were 857 fatal bicycle and motor vehicle crashes and an additional estimated 47,000 cycling injuries in the US . While motorists often accuse cyclists of being the cause of bike-car accidents,"
-    publishedDateTime: 2020-10-07T19:39:01Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/making-cycling-safer-with-aws-deeplens-and-amazon-sagemaker-object-detection/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 133
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/29/9-Architecture.jpg"
-        width: 900
-        height: 395
-        isCached: true
   - title: "AWS Cuts Prices for SageMaker GPU Instances"
     excerpt: "Amazon Web Services is cutting prices on its SageMaker managed service for machine learning and deep learning as it attracts more financial services,"
     publishedDateTime: 2020-10-07T21:41:00Z

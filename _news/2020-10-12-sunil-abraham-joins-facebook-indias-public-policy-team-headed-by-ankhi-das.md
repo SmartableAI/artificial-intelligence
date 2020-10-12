@@ -41,6 +41,38 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Facebook India appoints Sunil Abraham as public policy director for data, emerging tech"
+    excerpt: "Sunil Abraham will report to Facebook India public policy director Ankhi Das, and will be responsible for building partnerships and engagements with key stakeholders in the public policy area of data privacy,"
+    publishedDateTime: 2020-10-12T13:34:00Z
+    webUrl: "https://www.livemint.com/industry/media/facebook-india-appoints-sunil-abraham-as-public-policy-director-for-data-emerging-tech-11602509033508.html"
+    ampWebUrl: "https://www.livemint.com/industry/media/facebook-india-appoints-sunil-abraham-as-public-policy-director-for-data-emerging-tech/amp-11602509033508.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/media/facebook-india-appoints-sunil-abraham-as-public-policy-director-for-data-emerging-tech/amp-11602509033508.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 36
+    images:
+      - url: "https://images.livemint.com/img/2020/10/12/600x338/2020-09-15T013700Z_1_LYNXMPEG8E01M_RTROPTP_3_INDIA-FACEBOOK_1600301500660_1600301509198_1602509231236.JPG"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Facebook India appoints Sunil Abraham as Public Policy Director for Data and Emerging Tech"
+    excerpt: "As part of the public policy leadership team, Abraham will contribute to important policy development initiatives and proceedings in India and the South Asia region on data protection, privacy, new and emerging tech and represent Facebook's position in these multi-stakeholder processes,"
+    publishedDateTime: 2020-10-12T12:55:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/internet/facebook-india-appoints-sunil-abraham-as-public-policy-director-for-data-and-emerging-tech/articleshow/78621556.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/internet/facebook-india-appoints-sunil-abraham-as-public-policy-director-for-data-and-emerging-tech/amp_articleshow/78621556.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/internet/facebook-india-appoints-sunil-abraham-as-public-policy-director-for-data-and-emerging-tech/amp_articleshow/78621556.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 34
+    images:
+      - url: "https://economictimes.indiatimes.com/thumb/width-412,height-255,imgsize-118042,msid-78359264/you-might-soon-have-to-pay-to-use-google-meet.jpg"
+        width: 412
+        height: 255
+        isCached: true
 
 secured: "LaQM6A+frGuFt9xSQeJ7nKDsvfEU5q9LmZ7ATB8wX5bjnNMk5l5LqJJ0voc7tmBg9kfSPvItI3UqojLgA/kjkWHntbYux4ZypZhqjPkz1XYLF5BPOvd3tpwEseQOOhj3bVe601mik19I7XI3dB8iWhSydM8C/OzHl15walicbRXPdRNrajoAXpk7kMesVi6CiT+ofU34gYhj9dIddDegcnLTculDR3TpUKmdimvTH2ISNFfin2mqoDQta5wr3vO0/4WuCj+ZhM3lYZc/xBvyOJLG4NCqu9QsXsQ2Csh12V7Agdxnu54aplllMASmgtrX9ARV3CsQ6gvqCf2hDQmXUThYf5C9H3a0petyOi9A4U0=;qjcOAbBSxdzjurAXZ8RbBQ=="
 ---

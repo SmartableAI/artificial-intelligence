@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innov
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -118,6 +118,20 @@ related:
       name: India Education Diary
       domain: indiaeducationdiary.in
     quality: 31
+  - title: "A policy framework for the technology can accelerate development in India’s AI sector"
+    excerpt: "Tata Sons Chairman N Chandrasekaran addressed the key aspects of AI in education, healthcare and data governance that India should take in order to become the global AI capital."
+    publishedDateTime: 2020-10-12T13:43:00Z
+    webUrl: "https://www.analyticsinsight.net/india-can-ai-capital-needed-improvements-existing-programs/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 30
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Artificial-Intelligence-13.jpg"
+        width: 1680
+        height: 840
+        isCached: true
 
 secured: "JZFy1jgKhHgwWmbIztHKFUaHk5pyWdDKXJgbgJ+ju4dhMLu5t6N8Qn2F36YazpR1QKLiGRQe8+topKnqcp15FsWPlxtck6e3rfB5y+Na0h5Y6S5tBl6LJv2fJyGgTDV8WaKy0wIVpF/GVpe2+F+vGI1Q7AjRIYL/gYknBkiKmtSRZyo4CgZAS6+cXIcxS9hpNQu9D6wfbOmCZCa+zG2ZcF60u2ESPrhcvXrlwWkU1Yt7VBEneiIP6Pg0S7gbECwgedVvIAcUw1syqX/ZjEpgDOudDDCru8XCfUMHaANnBNmYkVsEvsRMEvXWbRzWaQHoJ2S3jrJf5de1sHkyTsE5dN+OlhI87VWsqNR4plKkyKbGspbLAu60rW8VsR4fkx+/ZMYk6+zaP6L2D+4y5XBtYf/Hl9Dd0kUXHzsWPV/2+BprTPNqlLdsqBhF/AtMX5HHBv1pspol7CWDNb64ZdX2B0UOuL91jqQCiOi5XzOlPfPWZS4QrrVvDsnytyATjcY+EQ57KtdGFMefeYYDOURe6Q==;kORaZGpcURLLRWwYnH61SQ=="
 ---

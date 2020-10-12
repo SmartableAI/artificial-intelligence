@@ -114,6 +114,20 @@ related:
       name: India Education Diary
       domain: indiaeducationdiary.in
     quality: 31
+  - title: "A policy framework for the technology can accelerate development in India’s AI sector"
+    excerpt: "Tata Sons Chairman N Chandrasekaran addressed the key aspects of AI in education, healthcare and data governance that India should take in order to become the global AI capital."
+    publishedDateTime: 2020-10-12T13:43:00Z
+    webUrl: "https://www.analyticsinsight.net/india-can-ai-capital-needed-improvements-existing-programs/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 30
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Artificial-Intelligence-13.jpg"
+        width: 1680
+        height: 840
+        isCached: true
 
 secured: "0jEGPNXEvkv/9eq+3kQ770GAi55Vri85s7MP4yw7YtRwSg+u6bBfHzk+3G8coOu1hbzsNEatkjufUOx/hbXkX49IXhFrNJTCCend/NFemuWAbW1+W+dZl7BlUDhM0+AGlFcMB446hxOVjeFv+Z3jpLPHFL7ChNF97+v5dMv2LcLtKbKsXblAdANwOLG93GSm4gSXCVB8eR/5gfUHdJvE9As7g6FnUqlSqoUilcCBwH2/akrG+VDGFWD44H5khBL0M1WzHhWP4klcN6hDChqoTwXp9MS0gKBcd1tWZBEuTSVQrGxzF1lkTwIvrZ0Ca/yVfdzhVj9EgZ6CS7C3FAoZYNjCmx82uwzeH/3GGqGit3Q=;JQ6tAtoFeXUJdlg7MqJXkQ=="
 ---

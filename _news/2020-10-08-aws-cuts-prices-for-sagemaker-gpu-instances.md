@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Making cycling safer with AWS DeepLens and Amazon SageMaker object detection"
-    excerpt: "According to the 2018 National Highway Traffic Safety Administration (NHTSA) Traffic Safety Facts, in 2018, there were 857 fatal bicycle and motor vehicle crashes and an additional estimated 47,000 cycling injuries in the US . While motorists often accuse cyclists of being the cause of bike-car accidents,"
-    publishedDateTime: 2020-10-07T19:39:01Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/making-cycling-safer-with-aws-deeplens-and-amazon-sagemaker-object-detection/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 133
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/29/9-Architecture.jpg"
-        width: 900
-        height: 395
-        isCached: true
   - title: "Amazon announces price cuts on GPU instances in AWS Sagemaker"
     excerpt: "Amazon Web Services is cutting the price of GPU instances on Sagemaker, its fully managed machine learning service. AWS said customers will see up to 18% in price reductions on all ml.p2 and ml.p3 ..."
     publishedDateTime: 2020-10-07T22:22:00Z
