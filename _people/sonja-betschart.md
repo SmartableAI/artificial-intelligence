@@ -8,7 +8,7 @@ heat: 71
 twitter:
   username: sobetschart
   url: https://twitter.com/sobetschart
-  followers: 389
+  followers: 388
 
 linkedin:
   url: https://www.linkedin.com/in/sonjabetschart/
