@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Highlights from NVIDIA’s Landmark GPU Technology Conference - eWEEK"
+    excerpt: "CEO described the combination of GPUs and the abundance of data as the “big bang” of modern AI. It’s arrived. Are you ready?"
+    publishedDateTime: 2020-10-08T00:00:00Z
+    webUrl: "https://www.eweek.com/web/index.php/innovation/highlights-from-nvidia-s-landmark-gpu-technology-conference"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 69
+    images:
+      - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2020/06/NVIDIA.logo.black.green.JPG?alias=social_image"
+        width: 560
+        height: 300
+        isCached: true
   - title: "Highlights from NVIDIA’s Landmark GPU Technology Conference"
     excerpt: "CEO described the combination of GPUs and the abundance of data as the “big bang” of modern AI. It’s arrived. Are you ready?"
     publishedDateTime: 2020-10-08T00:00:00Z

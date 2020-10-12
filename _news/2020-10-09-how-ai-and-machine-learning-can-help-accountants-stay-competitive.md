@@ -28,21 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "How AI can help employees improve mental health and wellbeing"
-    excerpt: "The UAE, a hub for start-ups and venture capital in ... Nearly 60 per cent of local respondents said AI has improved job satisfaction and overall well-being, compared to 54 per cent globally. Robot security guards are on patrol at Abu Dhabi's largest ..."
-    publishedDateTime: 2020-10-07T12:52:00Z
-    webUrl: "https://www.thenational.ae/business/technology/how-ai-can-help-employees-improve-mental-health-and-wellbeing-1.1089943"
-    ampWebUrl: "https://amp.thenational.ae/business/technology/how-ai-can-help-employees-improve-mental-health-and-wellbeing-1.1089943"
-    cdnAmpWebUrl: "https://amp-thenational-ae.cdn.ampproject.org/c/s/amp.thenational.ae/business/technology/how-ai-can-help-employees-improve-mental-health-and-wellbeing-1.1089943"
+  - title: "Will Artificial Intelligence replace accountants?"
+    excerpt: "ARTIFCIAL Intelligence or AI extends the capabilities of computing to a whole new level. It lets systems make predictions and make changes"
+    publishedDateTime: 2020-10-12T04:52:00Z
+    webUrl: "https://www.thesundaily.my/business/will-artificial-intelligence-replace-accountants-BE4556056"
     type: article
     provider:
-      name: The National Blogs
-      domain: thenational.ae
-    quality: 59
+      name: The Sun
+      domain: thesundaily.my
+    quality: 37
     images:
-      - url: "https://www.thenational.ae/image/policy:1.1089940:1602076707/image.jpg?f=16x9&q=0.6&w=1200&$p$f$q$w=70c86c9"
-        width: 1200
-        height: 675
+      - url: "https://www.thesundaily.my/binrepository/480x321/0c36/480d250/none/11808/SLCB/p13-ai-n_1664696_20201011225905.jpg"
+        width: 480
+        height: 250
         isCached: true
 
 secured: "pIJEze8bqyY4S5/f7+spFjna5WtPVk3742vTES8gd0saiUFvXITSTcNbo3tzjfLnpy02QhAVVf+BzsU5LnDOCTxDVvu8n9GnUpy55wYyiqEyL+Ha9DbBCwFckmbUTX0GMc9RjD+yP7b43sIfoN+LqAmy9GYua36zPJH2peyWKVrBk46WSe4b99vjKaIjLYh9UXxbRXo1c5m0+sgyocjgCv3z9to/wgU7MTeE60e1lvZOdRv2Bv4jcB/PM4QwkMcbQQyhPrFONuVGd4Gd2hB3z5fpbEFkh0RjzCaKZ81MBbX0PyVBbwp3+dfr6wwhBIdU+r/LZ+J3/Rfbvf4/6eMV3hSX2o9QQjRrZ/loCdjcGF0VEmC0JHRu22A0JVwOz3IsekdIo8c4N0/hRVzgfT6UuWx5Wro7Ts50lJVPJRHueAZZOEZae3wuec/bCpeogiE+PgzpzLGRVePglHb0dfR58lJkXePsOokt7oqXc3KRgYgKzM2X5FjocYgdlicqGn30izeepUn89IY8WeMvigJ5eg==;5NMavQ7Yw1T46UYsb/yChg=="

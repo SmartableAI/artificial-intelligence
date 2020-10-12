@@ -50,20 +50,6 @@ related:
         width: 1160
         height: 481
         isCached: true
-  - title: "Maxim Integrated's Neural Network Accelerator Chip Enables IoT Artificial Intelligence in Battery-Powered Devices"
-    excerpt: "For details about Maxim Integrated's Artificial Intelligence solutions, visit http://bit.ly/Maxim_AI To order MAX78000 or learn more, visit http://bit.ly/MAX78000 ..."
-    publishedDateTime: 2020-10-07T14:00:00Z
-    webUrl: "https://www.finanzen.net/nachricht/aktien/maxim-integrated-s-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-9368772"
-    type: article
-    provider:
-      name: Finanzen
-      domain: finanzen.net
-    quality: 52
-    images:
-      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Maxim Integrated Releases a New NN Accelerator Chip for Low-Power Processing at the Edge"
     excerpt: "Maxim Integrated released its newest product, a low-power NN accelerator chip, with the hopes of bringing AI to the edge. We interviewed Kris Ardis, executive director of Micros, Security, and Software Business Unit at Maxim Integrated to get the details."
     publishedDateTime: 2020-10-07T17:19:00Z

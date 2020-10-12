@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "WALTER WILLIAMS: The fight for free speech"
+    excerpt: "The violence, looting and mayhem that this nation has seen over the last several months has much of its roots in academia, where leftist faculty teach immature young people all"
+    publishedDateTime: 2020-10-11T11:00:00Z
+    webUrl: "https://www.nwitimes.com/opinion/columnists/guest-commentary/walter-williams-the-fight-for-free-speech/article_4ec7a493-ebe9-547a-b70c-213659e6e188.html"
+    ampWebUrl: "https://www.nwitimes.com/opinion/columnists/guest-commentary/walter-williams-the-fight-for-free-speech/article_4ec7a493-ebe9-547a-b70c-213659e6e188.amp.html"
+    cdnAmpWebUrl: "https://www-nwitimes-com.cdn.ampproject.org/c/s/www.nwitimes.com/opinion/columnists/guest-commentary/walter-williams-the-fight-for-free-speech/article_4ec7a493-ebe9-547a-b70c-213659e6e188.amp.html"
+    type: article
+    provider:
+      name: Northwest Indiana Times
+      domain: nwitimes.com
+    quality: 44
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/f/09/f0993cf9-caa7-5431-9f1d-87149123ba8c/5a74c4ad30573.image.jpg"
+        width: 442
+        height: 619
+        isCached: true
   - title: "The Fight for Free Speech"
     excerpt: "Leftist faculty teach immature young people all manner of nonsense that contradicts commonsense and the principles of liberty. Chief among their lessons is a need to attack free speech in the form of prohibitions against so-called hate speech and microaggressions."
     publishedDateTime: 2020-10-07T14:30:00Z

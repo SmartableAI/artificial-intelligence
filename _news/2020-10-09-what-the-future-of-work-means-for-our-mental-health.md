@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ashleystahl/2020/10/09/what-the-future-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ashleystahl/2020/10/09/what-the-future-of-work-means-for-our-mental-health/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 104
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "The future of work: AI and mental health"
+    excerpt: "Workers face unprecedented mental health crises, driven by the COVID-19 pandemic and other emergencies—but AI can help restore the balance."
+    publishedDateTime: 2020-10-07T13:08:00Z
+    webUrl: "https://www.oracle.com/news/connect/how-ai-and-humans-working-together-can-help-employee-mental-health.html"
+    type: article
+    provider:
+      name: Oracle
+      domain: oracle.com
+    quality: 39
+    images:
+      - url: "https://www.oracle.com/a/tech/img/og-ai-work-facebook.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence and What It Means for Future Tech Development"
     excerpt: "Artificial intelligence is a major development that will change our lives for the better. Let’s take a look at what we can expect from it in the future."
     publishedDateTime: 2020-10-08T08:28:00Z
@@ -44,6 +58,20 @@ related:
       - url: "https://europeansting.files.wordpress.com/2020/10/macbook-pixabay-1.png?w=1200"
         width: 1200
         height: 787
+        isCached: true
+  - title: "How technology is shaping the future of health care"
+    excerpt: "In this latest eBook, we’ve curated a selection of recent STAT stories covering CRISPR: the businesses being built on them, and their potential impact on all our lives. Learn more."
+    publishedDateTime: 2020-10-10T08:49:00Z
+    webUrl: "https://www.statnews.com/technology-future-health-care/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 24
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2020/10/ebook-lp-image-1024x576.jpeg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "t0S5maaU4IaxcAdBHGFod8LBg3bKomIO/4Ngc6a7nDXXruCr1xWiUdSWQ49AsN4BphRwX0RsL/iw18CjzNchfu7EOLxsK2Y4Mb+OVMXC+OhRn7j5K/mwPlzm7KMdbb4K5oWnQeTpFP1pjvGg3CmwSVFN3noPjYRkYNa/S0xSAcCFMjBV7XPMqHvK67Uo0adlHT4TxI+GMThk9PlHqo1lfEtcCNcwfeF2mO9XSul3+9+OGO+u2KJcWoVHkWiSd2I3GiHn0znQab+gixpF3vR7WwanPYZWbO8Ck/q6DK7H4vocPIJkvUhfFyWgNxewyGYV2y5gnRBwYSVB2Z0u8HEjT9+GtHbSjd9Kd/nZdd09WHwMQ28dBuAJHDtXWCDCPWzKSngkDs2dFHZQHHAqnzwYdzepNzqDDppudVPHOnDkpgIEfH8q6uXEh+nfyqHmCU9Wlu84/c8HIcLXgDADplooaDZnv5kvUB59uRa4GLR8eGSTmONbMq4AJ07bVFrKSUO2VCAoeR9AsUfaWrRLM2gY7w==;eG3Gnt+cF/lItPTPH/HMxg=="

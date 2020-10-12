@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/maxim-integrated-s-neur
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/maxim-integrated-s-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-1029656759"
 type: article
 quality: 80
-heat: 130
+heat: 120
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://static.electronicsweekly.com/wp-content/uploads/2020/10/08140909/MAX78000-block-1169.jpg"
         width: 1160
         height: 481
-        isCached: true
-  - title: "Maxim Integrated's Neural Network Accelerator Chip Enables IoT Artificial Intelligence in Battery-Powered Devices"
-    excerpt: "For details about Maxim Integrated's Artificial Intelligence solutions, visit http://bit.ly/Maxim_AI To order MAX78000 or learn more, visit http://bit.ly/MAX78000 ..."
-    publishedDateTime: 2020-10-07T14:00:00Z
-    webUrl: "https://www.finanzen.net/nachricht/aktien/maxim-integrated-s-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-9368772"
-    type: article
-    provider:
-      name: Finanzen
-      domain: finanzen.net
-    quality: 52
-    images:
-      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-        width: 600
-        height: 315
         isCached: true
   - title: "Updated: More on: Maxim’s AI chip for battery-powered products also adds Risc-V"
     excerpt: "Maxim announced an AI processing chip for battery-powered devices needing convolutional neural networks (CNNs). What the company has done, i"

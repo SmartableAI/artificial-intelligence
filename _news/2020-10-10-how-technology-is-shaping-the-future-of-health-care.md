@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Is Transforming The Future Of Sales"
-    excerpt: "Highly optimized sales processes backed by AI and machine learning technology aren't a wishful future; they are already here."
-    publishedDateTime: 2020-10-07T11:20:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/07/how-ai-is-transforming-the-future-of-sales/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/07/how-ai-is-transforming-the-future-of-sales/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/07/how-ai-is-transforming-the-future-of-sales/amp/"
+  - title: "What The Future Of Work Means For Our Mental Health"
+    excerpt: "Are you struggling with your wellness? Here are three ways the future of work will directly impact mental health."
+    publishedDateTime: 2020-10-09T14:16:00Z
+    webUrl: "https://www.forbes.com/sites/ashleystahl/2020/10/09/what-the-future-of-work-means-for-our-mental-health/"
+    ampWebUrl: "https://www.forbes.com/sites/ashleystahl/2020/10/09/what-the-future-of-work-means-for-our-mental-health/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ashleystahl/2020/10/09/what-the-future-of-work-means-for-our-mental-health/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 74
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee8c0a4bcc30e0006c1d9f4%2F0x0.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7b6abcdd10f3a9923bd091%2F0x0.jpg"
         width: 1200
         height: 800
         isCached: true
@@ -55,19 +55,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial intelligence is for the birds"
-    excerpt: "Department of Computer Science and Engineering professor Shawn Newsam and Electrical Engineering and Computer Science graduate student Shrishail “Shree” Baligar are using artificial intelligence (AI) to detect bird calls in the recordings."
-    publishedDateTime: 2020-10-08T00:00:00Z
-    webUrl: "https://www.universityofcalifornia.edu/news/artificial-intelligence-birds"
+  - title: "Artificial Intelligence and What It Means for Future Tech Development"
+    excerpt: "Artificial intelligence is a major development that will change our lives for the better. Let’s take a look at what we can expect from it in the future."
+    publishedDateTime: 2020-10-08T08:28:00Z
+    webUrl: "https://europeansting.com/artificial-intelligence-and-what-it-means-for-future-tech-development/"
     type: article
     provider:
-      name: University of California
-      domain: universityofcalifornia.edu
+      name: europeansting.com
+      domain: europeansting.com
     quality: 37
     images:
-      - url: "https://www.universityofcalifornia.edu/sites/default/files/uc-merced-ai-birds.jpg"
-        width: 686
-        height: 355
+      - url: "https://europeansting.files.wordpress.com/2020/10/macbook-pixabay-1.png?w=1200"
+        width: 1200
+        height: 787
         isCached: true
 
 secured: "QjNNEO+Z4ZvaaatE6tX0t/w41I4VgjeatPYiCXKCJVjXcf4p8Bba8Rwl/3iMYmmiY9zdK5CQXgs1eXwf5qVKkODI3esbt+htE/urlpI2btSvyJj6aQCSi6uHbxHSjjDw1OhN0gXUTiQScYqu5p9+N9FPrVpZ8D0mB5vy+OX/mwzIubJMYaRfY7y1BDok9z5rw3bsMRf0X1mKI87CTi1wwp0byKa49RNgWCJ7c844HFkiv9wYcwAIASYh5yaDWCdCwmdJcAcvP9kgItJeb16FTjzXPSJUEJDKlrcNdvq/NuF1MsDdIQUABIb3msP5dt7X5cYG1GvnXu04Wh1uMC4e5YFFv8SKj0DudArlq+Jq9sVexJsrr1G8aiwpYkJw7wSUIxpK9OhB5zxW72kbc5g+gI293dOsSZ4iLTNZqw0sVaKsaV2HvY9ImDEKwJno0DY0jTSkHOlOWD061wQIE3Z5InZTH7opOHULWsqCisQIxflmSUgYcakk6+3zak1i5qlosmHHB8pTh3FLCQYqnQc53Q==;5Pd8xO2mfEjF++o+BymlLw=="
