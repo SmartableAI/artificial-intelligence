@@ -1,29 +1,28 @@
 ---
 category: news
 title: "Maxim Integrated's Neural Network Accelerator Chip Enables IoT Artificial Intelligence in Battery-Powered Devices"
-excerpt: "For details about Maxim Integrated's Artificial Intelligence solutions, visit http://bit.ly/Maxim_AI To order MAX78000 or learn more, visit http://bit.ly/MAX78000 ..."
-publishedDateTime: 2020-10-07T14:00:00Z
-originalUrl: "https://www.finanzen.net/nachricht/aktien/maxim-integrated-s-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-9368772"
-webUrl: "https://www.finanzen.net/nachricht/aktien/maxim-integrated-s-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-9368772"
+excerpt: "PRNewswire/ -- The MAX78000 low-power neural network accelerated microcontroller from Maxim Integrated Products, Inc. (NASDAQ: MXIM) moves"
+publishedDateTime: 2020-10-07T12:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/maxim-integrateds-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-301147039.html"
+webUrl: "https://www.prnewswire.com/news-releases/maxim-integrateds-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-301147039.html"
 type: article
-quality: 52
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: Finanzen
-  domain: finanzen.net
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AI in Autos
-  - AI
   - Machine Learning
+  - AI
   - AI Hardware
 
 images:
-  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-    width: 600
-    height: 315
+  - url: "https://mma.prnewswire.com/media/1307840/Maxim__MAX78000.jpg?p=facebook"
+    width: 1920
+    height: 1005
     isCached: true
 
 related:
@@ -95,6 +94,6 @@ related:
         height: 291
         isCached: true
 
-secured: "/YCXYvUAH/D0no1radIc+7nJKKMvXMXDrtlfH17s1V0ZzUX3kVtW00NQIfJTTUOWrDLfoixcp6DFo32/s54N8UYkQivpy9/mGm46OUrNYiIeKdWqoPxvciefnaiSO3Fwpy0LUtwlxLafId0I4D7cmO8+e2rHla2qgCAG/lBfshXZ6hAxjxQpTJOrnDpa2pz6KL8sxefF+iiqhEbOweRkkUYqDJJK2/1mTCqbrtf/ys0uQdj8Lwf7jI96+mR0DR7aEdf8Yqw0IAS07ZAsVkTUdbdBnhcrQxb8VMRQT1eXAbj2Dhscspm1Bj97YdO2pGhsITKM3R137jvoMuA2Bz/Q8e26JSPLpMRzmHzOfCQbv3w=;xvcCAm1xzbRI9Em6db1HOA=="
+secured: "XlGnNP8qDhRPs2BkP21bV6Z2tXHpW9DIe+LUv09OAUW9EGye/hc1Mxp717uCj6IvFKsmbp8ZH0n8MZyJ9r0vGNdSlqpUyxSkuHVkK+QcV7km6bWtQdxAiesCx3Z5BrRTbDKNAUSE3zeZiCNHes2tTzMwLJ+4ZLRvxYWiw2CkPBisT9qgUZ1MkCv6JyRfH2A/dHQwobKMklu/bgMOKTaLLP7l99mhDz6K2PsHnLF+79IzS1lFp6LY3XKfgEyPN8D37m0ftK50EQyhbc/zTfQFssPZsXQJjWLg8DKeXT27U5wJq0QE/v3a6iTNBGgbgB9qXk1E2275DOqkUOQ4S80PsS+5BAnrwO+8qTwjFayWAws=;9C8r4gJF8A6e4mVNO0VYWg=="
 ---
 

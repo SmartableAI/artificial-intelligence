@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2020/10/07/nvidia-promis
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/10/07/nvidia-promises-the-pervasiveness-of-ai-and-a-new-data-center-architecture/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 111
 published: true
 
 provider:
@@ -33,20 +33,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia's new video conferencing platform matches Google and Microsoft on AI"
-    excerpt: "Nvidia's new video conferencing platform will help smaller competitors match the AI functionality of Microsoft Teams and Google Meet."
-    publishedDateTime: 2020-10-07T07:04:00Z
-    webUrl: "https://www.businessinsider.com/nvidia-video-conferencing-platform-matches-google-microsoft-on-ai-2020-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
-    images:
-      - url: "https://i.insider.com/5f7c775b282c500018c78c79?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "NVIDIA GTC Presentation On Trends For 2021 Showed They See More Business Artificial Intelligence Moving To Production"
     excerpt: "While the message of the technical folks might still be a bit too focused on training, this presentation mentioned runtime more than I’ve previously heard. The industry application of AI is still relatively new,"
     publishedDateTime: 2020-10-08T15:05:00Z
@@ -78,20 +64,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/oAt9y535FRR44FCx6eWzkn-1200-80.jpg"
         width: 725
         height: 408
-        isCached: true
-  - title: "Nvidia building AI supercomputer for Medical research after acquiring ARM"
-    excerpt: "Nvidia announced recently that it was building the most powerful supercomputer in the UK’s history which will be dedicated for research in health."
-    publishedDateTime: 2020-10-07T07:46:00Z
-    webUrl: "https://www.techjuice.pk/nvidia-building-ai-supercomputer-for-medical-research-after-acquiring-arm/"
-    type: article
-    provider:
-      name: techjuice.pk
-      domain: techjuice.pk
-    quality: 38
-    images:
-      - url: "https://cdn.techjuice.pk/wp-content/uploads/2020/10/nvidiaarm.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "1bwkQ92LNTCxLoYnSLEYoWYB3BFW0je4DyhBRqjcejGElZkOpVz+9nteDHofUK4tGubkAQs7qMLwl+OoP0E/Du2ZaSP7dHl1RpWueBU/eWtKF0HqtnkzY3ugjg41Kvq3+QNfn8otigqRJ3dzU6Kdvz3S3H3MSyxWyfJVtKig7zAW8+LUzQrldOJTXls349IvxE2YNHz+9itbe4YqPJZ21yD+AFPkm3GiXEWhFCc5Nooi7XUQLhOKHrlrZp0+NJcFmkogELOv8ZV1qElg/7vymBfTDDCBBtse7Tkf3MD9NtJnFZGn9LjDkCl9pkW0nsWNviDr9zQRovlrE0gipQ5eeiiS4soUv8RJYk+fughZIfmTsTpKUxxV+E8+2n/h8+VT/4x6ifWHKbzvohatDC1oiHSyOgDu0xTgfvLOgommBeeP4gX92R3Ot5fdc+rlKSCiYLB6CxCSieQHpRffvhk1iDLZjKyfZHEU274JOKlV4hXnOGHIrjvdhdPtWM7j/1xks7ZVyuRoT9Br8Q8gkB24lQ==;oXupt0vSXvmNVW9iixyUow=="

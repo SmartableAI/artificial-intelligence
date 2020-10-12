@@ -46,20 +46,6 @@ related:
         width: 1061
         height: 739
         isCached: true
-  - title: "Nvidia's new video conferencing platform matches Google and Microsoft on AI"
-    excerpt: "Nvidia's new video conferencing platform will help smaller competitors match the AI functionality of Microsoft Teams and Google Meet."
-    publishedDateTime: 2020-10-07T07:04:00Z
-    webUrl: "https://www.businessinsider.com/nvidia-video-conferencing-platform-matches-google-microsoft-on-ai-2020-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
-    images:
-      - url: "https://i.insider.com/5f7c775b282c500018c78c79?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "NVIDIA’s AI-Based Video Compression Reduces Bandwidth to One-Tenth of H.264"
     excerpt: "NVIDIA Maxine provides cloud-based suite of GPU-accelerated AI video conferencing software to enhance streaming video."
     publishedDateTime: 2020-10-08T13:42:00Z
@@ -75,20 +61,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/oAt9y535FRR44FCx6eWzkn-1200-80.jpg"
         width: 725
         height: 408
-        isCached: true
-  - title: "Nvidia building AI supercomputer for Medical research after acquiring ARM"
-    excerpt: "Nvidia announced recently that it was building the most powerful supercomputer in the UK’s history which will be dedicated for research in health."
-    publishedDateTime: 2020-10-07T07:46:00Z
-    webUrl: "https://www.techjuice.pk/nvidia-building-ai-supercomputer-for-medical-research-after-acquiring-arm/"
-    type: article
-    provider:
-      name: techjuice.pk
-      domain: techjuice.pk
-    quality: 38
-    images:
-      - url: "https://cdn.techjuice.pk/wp-content/uploads/2020/10/nvidiaarm.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "wvmKebYuGAdOxZ6IqIFCBDCi2TfGUGhXOLf/ys7yeZRMQ1AqRgK6xBkzgMa1PDF5aNjSx/8a/b68KnWdBz3BRoay1Jf1LedQV4Rzjoz/xnD2rrRRqNurq1gBAE13ykwY1hZb++VedGVVib5UTIZZASE0NO1aeD46p7httbL/HJ5jHdtgqkUrt1zGapuYNK6qUwWez5DtaqFKV5TDFod8+v9HjZ31sdtEUtKMx6/5CV9NzBbS5yEA3pauJPUFoOTNB/1YVQUJgpWeOBSK19CDONSqKVoPkukYsE9EMQUfxWoDbJyTEx5O+uRWhkC4sZe30LdYjuznEjGvVn5gmOXD/sIOFXM5LtnrpHU2Hf/vq0ZPvA5mjyK4bPdjmSyWbhx1sLmvLn+yasqwz3Rs+2s+nBgHEnK0ufrKdsWPTPbpGAe1Gyl6HsPq8JijZT/2HnoT6sGkCh1uDUvANyp9IsrZ1J0GskrCZ2ih++0RTL1VwwK7To78gTcRbOY1dhQ+ioqTFwZcm9BQ7qYrI/lywqkc3Q==;wfnMzRTb3CVOwbRL48niPA=="

@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-22-artificial-intelligence-in-healthcare-diagnosis-market-latest-report-with-forecast-to-2027.md",
+      "title": "Artificial Intelligence in Healthcare Diagnosis Market - Latest Report with Forecast to 2027",
+      "excerpt": "The artificial intelligence (AI) in healthcare diagnosis market was valued at US$ 3,639.02million in 2019 and is projected to reach US$ 66,811.97 million by 2027; it is expected to grow at a CAGR of 44.0% during 2020-2027. The growth of the market is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2138656/artificial-intelligence-in-healthcare-diagnosis-market",
+      "originalUrl": "https://www.openpr.com/news/2138656/artificial-intelligence-in-healthcare-diagnosis-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/9/T921776010_g.jpg",
+          "width": 574,
+          "height": 519,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2138656/artificial-intelligence-in-healthcare-diagnosis-market",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2138656/artificial-intelligence-in-healthcare-diagnosis-market",
+      "publishedDateTime": "2020-09-21T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-long-island-artificial-intelligence-startup-can-write-your-emails.md",
       "title": "Long Island artificial intelligence startup can write your emails",
       "excerpt": "The time you spend writing emails could be cut drastically. A college student has launched a Long Island artificial intelligence startup that writes emails automatically from a few fragmentary notes.",
@@ -1309,57 +1351,6 @@
         "name": "openpr.com",
         "domain": "openpr.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-07-this-us-based-healthcare-startup-is-saving-healthcare-cost-by-unifying-patient-records.md",
-      "title": "This US-Based Healthcare Startup Is Saving Healthcare Cost By Unifying Patient Records",
-      "excerpt": "Till date, Innovaccer has saved over $600 million in healthcare cost and has unified records for over 24 million lives",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/355840",
-      "originalUrl": "https://www.entrepreneur.com/article/355840",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1599492386-MyPost32.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/355840",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/355840",
-      "publishedDateTime": "2020-09-07T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

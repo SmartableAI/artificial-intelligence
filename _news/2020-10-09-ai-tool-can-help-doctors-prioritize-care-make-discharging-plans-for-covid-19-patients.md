@@ -26,21 +26,37 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers probe into RNA using deep learning to develop sensors for a COVID-19 diagnostic"
-    excerpt: "Two teams at the Wyss Institute have demonstrated the use of NLP and CV techniques to optimize RNA sequences to develop improved sensors for the SARS-CoV-2 genome that is responsible for COVID-19."
-    publishedDateTime: 2020-10-07T09:00:00Z
-    webUrl: "https://www.neowin.net/news/researchers-probe-into-rna-using-deep-learning-to-develop-sensors-for-a-covid-19-diagnostic"
-    ampWebUrl: "https://www.neowin.net/amp/researchers-probe-into-rna-using-deep-learning-to-develop-sensors-for-a-covid-19-diagnostic/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/researchers-probe-into-rna-using-deep-learning-to-develop-sensors-for-a-covid-19-diagnostic/"
+  - title: "Study Explores the Use of Robots, AI to Ease COVID-19 Pressures on Hospitals"
+    excerpt: "Hospitals across the globe could raise their productivity and efficiency as well as increase safety and quality while limiting and decreasing charges."
+    publishedDateTime: 2020-10-09T15:05:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=11686"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=11686"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11686"
     type: article
     provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 79
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 71
     images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2020/10/1602006122_ribocomputing_story.jpg"
-        width: 760
-        height: 506
+      - url: "https://www.azorobotics.com/images/news/ImageForNews_11686_16022476570691643.png"
+        width: 950
+        height: 907
+        isCached: true
+  - title: "Warwick researcher to explore the use of robots and artificial intelligence in hospital settings"
+    excerpt: "Hospitals all over the world must increase their efficiency and productivity and boost quality and safety, while containing and reducing costs."
+    publishedDateTime: 2020-10-08T14:29:00Z
+    webUrl: "https://www.news-medical.net/news/20201008/Warwick-researcher-to-explore-the-use-of-robots-and-artificial-intelligence-in-hospital-settings.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20201008/Warwick-researcher-to-explore-the-use-of-robots-and-artificial-intelligence-in-hospital-settings.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201008/Warwick-researcher-to-explore-the-use-of-robots-and-artificial-intelligence-in-hospital-settings.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 63
+    images:
+      - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fHospital-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
   - title: "AI tool can help doctors prioritize care, make discharging plans for COVID-19 patients"
     excerpt: "An artificial intelligence tool can help doctors when deciding which COVID-19 patients can be sent home, according to a study that started in May. Researchers at New York University used the AI tool to analyze thousands of COVID-19 cases."
@@ -58,19 +74,44 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "NEC OncoImmunity AS and Oslo University Hospital Team Up to Develop a Diagnostic for COVID-19 Using Artificial Intelligence"
-    excerpt: "NEC OncoI"
-    publishedDateTime: 2020-10-08T07:00:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2020-10-08/nec-oncoimmunity-as-and-oslo-university-hospital-team-up-to-develop-a-diagnostic-for-covid-19-using-artificial-intelligence"
+  - title: "Will robots and AI take our jobs in covid-19’s socially distanced era?"
+    excerpt: "Coronavirus has put a rocket under plans for more automation, roboticisation and use of AI. Should we fear for our jobs – or will we just get better ones?"
+    publishedDateTime: 2020-10-07T19:07:00Z
+    webUrl: "https://www.newscientist.com/article/mg24833031-000-will-robots-and-ai-take-our-jobs-in-covid-19s-socially-distanced-era/"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 41
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
     images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+      - url: "https://images.newscientist.com/wp-content/uploads/2020/10/07155320/covid-ai.jpg"
         width: 1200
-        height: 630
+        height: 800
+        isCached: true
+  - title: "Bengaluru’s Narayana Hospitals employs artificial intelligence to fight Covid-19"
+    excerpt: "has broken away from the traditional doctor consultations to leverage artificial intelligence to reduce the risk of virus transmission. Provision of patients’ vitals in real-time on doctors’ mobile phones, robots that transport blood samples ..."
+    publishedDateTime: 2020-10-09T06:41:00Z
+    webUrl: "https://www.hindustantimes.com/india-news/bengaluru-s-narayana-hospitals-employs-artificial-intelligence-to-fight-covid-19/story-CDml4Fr0kNraNJGSPNOR4O.html"
+    ampWebUrl: "https://m.hindustantimes.com/india-news/bengaluru-s-narayana-hospitals-employs-artificial-intelligence-to-fight-covid-19/story-CDml4Fr0kNraNJGSPNOR4O_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/india-news/bengaluru-s-narayana-hospitals-employs-artificial-intelligence-to-fight-covid-19/story-CDml4Fr0kNraNJGSPNOR4O_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 34
+  - title: "New Artificial Intelligence Algorithm Uses Routine Clinical Laboratory Tests to Identify Patients Likely Infected with COVID-19"
+    excerpt: "Frustrated by shortages of essential COVID-19 tests and supplies—as well by lengthy coronavirus test turn-around times—researchers at Weill Cornell Medicine have created an Artificial Intelligence (AI) algorithm that can use routine clinical laboratory test data to determine if a patient is infected with SARS-CoV-2,"
+    publishedDateTime: 2020-10-07T09:37:00Z
+    webUrl: "https://www.darkdaily.com/new-artificial-intelligence-algorithm-uses-routine-clinical-laboratory-tests-to-identify-patients-likely-infected-with-covid-19/"
+    type: article
+    provider:
+      name: Ranking
+      domain: darkdaily.com
+    quality: 11
+    images:
+      - url: "https://www.darkdaily.com/wp-content/uploads/Sarina-Yang-PhD-Weill-Cornell-400w@72ppi.jpg"
+        width: 400
+        height: 513
         isCached: true
 
 secured: "yt/8bT23t7/QqpHS3exI//NpcJS1UuugASNWJ885aX2wloOatdCx3ebRQ8qs9mIvGZAHMDXaxe9JNXbzpbR6nt4r9ZZvzX0EbcKM70A9LN87mbqU8mOhQVqQYQWWlm2acmG2eDSl4NnuX6sGjGc4H9fuXL5+IYjq9vphsd/g6HpmSnqy1lcbKMLXgcEiNWj6mXfADjQcwaf3zTOLHjv0i5pFvdRn3fN8V+rkxwExHLRMAz/fsMHpUIkuMiTXUzM+k12+tntLVM4sRj2IcSq4CXr5Wv5ok7Hd6zX6r65yCdJJkr3gr17TpsmVCMYHY16tBjk+TPM55O4WmWSFfOWVwVpgcUwwm7m2zJZ43EDJhMg=;WpmJTGqlq276UWUu3aUcFw=="
