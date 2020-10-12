@@ -41,7 +41,7 @@ related:
     provider:
       name: VICE
       domain: vice.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://video-images.vice.com//articles/5f83e97aaac519009b0749a8/lede/1602481457528-photos-hobby-jibmsms4ka-unsplash.jpeg?crop=1xw:0.7805xh;0xw,0.1098xh"
         width: 4468

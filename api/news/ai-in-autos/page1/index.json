@@ -293,57 +293,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-07-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
-      "excerpt": "Artificial intelligence (AI) involves using computers ... deploying AI brains into the Waymo self-driving car business, and applying these technologies to medical research and weather forecasting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "originalUrl": "https://www.fool.com/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F594319%2Fartificial-intelligence-digital-brain.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "publishedDateTime": "2020-10-07T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-06-how-is-artificial-intelligence-revolutionising-our-global-healthcare.md",
       "title": "How Is Artificial Intelligence Revolutionising Our Global Healthcare?",
       "excerpt": "Artificial intelligence is reinventing everything we once knew about healthcare. Find out how this technology could save millions of lives in the future. Artificial intelligence is one of the most promising technologies in the world.",
@@ -973,21 +922,21 @@
       ]
     },
     {
-      "path": "_news/2020-09-29-data-science-to-accelerate-drug-discovery-with-artificial-intelligence-and-machine-learning-says-frost-sullivan.md",
-      "title": "Data Science to Accelerate Drug Discovery with Artificial Intelligence and Machine Learning, Says Frost & Sullivan",
-      "excerpt": "When combined with other emerging tech areas, artificial intelligence (AI) technologies move to the next phase of advancements. Hence, they are expected to witness adoption by pharma and biotech ...",
+      "path": "_news/2020-09-29-bjarke-ingels-group-plans-ai-city-in-china-to-advance-future-of-artificial-intelligence.md",
+      "title": "bjarke ingels group plans AI CITY in china to advance future of artificial intelligence",
+      "excerpt": "BIG AI CITY seeks to provide terminus, and the world’s leading tech companies, with a place to advance the future of artificial intelligence and robotics, and build the foundations of a new sustainable development.",
       "sourceUrl": null,
-      "webUrl": "https://www.finanzen.net/nachricht/aktien/data-science-to-accelerate-drug-discovery-with-artificial-intelligence-and-machine-learning-says-frost-sullivan-9342599",
-      "originalUrl": "https://www.finanzen.net/nachricht/aktien/data-science-to-accelerate-drug-discovery-with-artificial-intelligence-and-machine-learning-says-frost-sullivan-9342599",
+      "webUrl": "https://www.designboom.com/architecture/bjarke-ingels-group-ai-city-china-artificial-intelligence-terminus-group-09-29-2020/",
+      "originalUrl": "https://www.designboom.com/architecture/bjarke-ingels-group-ai-city-china-artificial-intelligence-terminus-group-09-29-2020/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
-          "width": 600,
-          "height": 315,
+          "url": "https://www.designboom.com/wp-content/uploads/2020/09/bjarke-ingels-group-BIG-AI-city-terminus-group-chongqing-china-designboom-Fb.jpg",
+          "width": 1000,
+          "height": 526,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -996,11 +945,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-29T08:56:00-07:00",
+      "publishedDateTime": "2020-09-29T09:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Finanzen",
-        "domain": "finanzen.net",
+        "name": "Designboom",
+        "domain": "designboom.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1011,8 +960,7 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI",
-        "Machine Learning"
+        "AI"
       ]
     },
     {
@@ -1377,6 +1325,57 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-swedens-ericsson-telia-present-self-driving-bus-ahead-of-5g-spectrum-auction.md",
+      "title": "Sweden's Ericsson, Telia present self-driving bus ahead of 5G spectrum auction",
+      "excerpt": "STOCKHOLM (Reuters) - Telecoms gear maker Ericsson ERICb.ST and mobile operator Telia TELIA.ST on Thursday showcased a self-driving, electric bus in Stockholm as the companies look at new business ...",
+      "sourceUrl": null,
+      "webUrl": "https://uk.reuters.com/article/uk-ericsson-autonomous-idUKKCN26F2WN",
+      "originalUrl": "https://uk.reuters.com/article/uk-ericsson-autonomous-idUKKCN26F2WN",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200924&t=2&i=1534799334&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8N1NF",
+          "width": 726,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://uk.mobile.reuters.com/article/amp/idUKKCN26F2WN",
+      "cdnAmpWebUrl": "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKCN26F2WN",
+      "publishedDateTime": "2020-09-24T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

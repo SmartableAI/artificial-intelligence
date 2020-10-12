@@ -2,6 +2,151 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-12-intels-hyderabad-ai-centre-to-focus-on-road-safety-health.md",
+      "title": "Intel’s Hyderabad AI centre to focus on road safety, health",
+      "excerpt": "Hyderabad, Oct 12 (IANS) Chip-making giant Intel on Monday said its newly launched applied Artificial Intelligence (AI) research centre in Hyderabad will focus on identifying and solving challenges in the healthcare and smart mobility segments through strong ecosystem collaboration.",
+      "sourceUrl": null,
+      "webUrl": "https://newsd.in/intel-s-hyderabad-ai-centre-to-focus-on-road-safety-health/",
+      "originalUrl": "https://newsd.in/intel-s-hyderabad-ai-centre-to-focus-on-road-safety-health/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://newsd.in/wp-content/uploads/2020/10/7d5acabd43d2a9d0db88a1ae63b5211f.jpg",
+          "width": 400,
+          "height": 255,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://newsd.in/intel-s-hyderabad-ai-centre-to-focus-on-road-safety-health/amp/",
+      "cdnAmpWebUrl": "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/intel-s-hyderabad-ai-centre-to-focus-on-road-safety-health/amp/",
+      "publishedDateTime": "2020-10-12T04:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsd",
+        "domain": "newsd.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-12-ai-and-machine-learning-provide-challenges-and-opportunities-for-data-center-architects.md",
+      "title": "AI And Machine Learning Provide Challenges And Opportunities For Data Center Architects",
+      "excerpt": "The ability to share high-speed NVMe flash storage resources can no longer match the performance required to effectively calculate that data in real time for AI+ML operations. Graphics processing (GPU) resources that can calculate data three-dimensionally ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/12/ai-and-machine-learning-provide-challenges-and-opportunities-for-data-center-architects/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/12/ai-and-machine-learning-provide-challenges-and-opportunities-for-data-center-architects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee37d1bb8beb90007c3a7d4%2F0x0.jpg",
+          "width": 1200,
+          "height": 833,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/12/ai-and-machine-learning-provide-challenges-and-opportunities-for-data-center-architects/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/12/ai-and-machine-learning-provide-challenges-and-opportunities-for-data-center-architects/amp/",
+      "publishedDateTime": "2020-10-12T04:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-10-12-robotic-interviews-machine-learning-and-the-future-of-workforce-recruitment.md",
+      "title": "Robotic Interviews, Machine Learning And the Future Of Workforce Recruitment",
+      "excerpt": "These would affect all aspects of HR functions such as the way HR professionals on-board and hire people, and the way they train them",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/357593",
+      "originalUrl": "https://www.entrepreneur.com/article/357593",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1602496955-artificial-intelligence-2167835.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/357593",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/357593",
+      "publishedDateTime": "2020-10-12T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-12-robotics-startup-miko-raises-inr-23-cr-from-stride-ventures-angel-investors.md",
       "title": "Robotics Startup Miko raises INR 23 Cr From Stride Ventures, Angel Investors",
       "excerpt": "This infusion comes after the startup had raised INR 15.98 Cr from investors such as WNS group CEO and NASSCOM’s chairman Keshav Rurugesh, Inderjit Kaur Arora, Suresh Subramani, Giridhar Sanjeevi and a few others last year.",
@@ -52,7 +197,7 @@
       "originalUrl": "https://www.vice.com/en/article/qj4g3m/robot-ai-tech-mental-health-therapist-psychiatry-anxiety-depression-treatment",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -91,7 +236,8 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -135,6 +281,47 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-10-12-signal-noise-and-the-coming-era-of-ai-curation.md",
+      "title": "Signal, Noise and the Coming Era of AI Curation",
+      "excerpt": "A look at how \"AI curation\" is being used to figure out what's useful information in the world of crypto and what's just fluff.",
+      "sourceUrl": null,
+      "webUrl": "https://www.coindesk.com/ai-curation-speaking-of-bitcoin-podcast",
+      "originalUrl": "https://www.coindesk.com/ai-curation-speaking-of-bitcoin-podcast",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.coindesk.com/wp-content/uploads/2020/10/SOB-AI-Curation-From-Page-1200x628.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.coindesk.com/ai-curation-speaking-of-bitcoin-podcast?amp=1",
+      "cdnAmpWebUrl": "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/ai-curation-speaking-of-bitcoin-podcast?amp=1",
+      "publishedDateTime": "2020-10-11T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinDesk",
+        "domain": "coindesk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -288,6 +475,56 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-10-experts-urge-vigilance-over-ai-data-security.md",
+      "title": "Experts Urge Vigilance Over AI Data Security",
+      "excerpt": "The expanded use of artificial intelligence in nearly all areas of business means companies must pay more attention to the integrity and security of the data used to train algorithms, a panel of security and AI experts said earlier this week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/experts-urge-vigilance-over-ai-data-security-11602272062",
+      "originalUrl": "https://www.wsj.com/articles/experts-urge-vigilance-over-ai-data-security-11602272062",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-242976/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-09T15:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -812,7 +1049,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/09/15-important-factors-in-building-a-more-human-centric-ai-application/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -944,225 +1181,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-should-you-invest-in-state-street-stock-ask-the-ai-engine.md",
-      "title": "Should You Invest In State Street Stock? Ask The AI Engine",
-      "excerpt": "The stock market has seen some volatility since the start of September, and after a larger sell-off in the Stock market – State Street Stock has moved up 11% over the last two weeks (10 trading days) to $63 now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2020/10/09/should-you-invest-in-state-street-stock-ask-the-ai-engine/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2020/10/09/should-you-invest-in-state-street-stock-ask-the-ai-engine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f718e7747378e05e93f2fdc%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2020/10/09/should-you-invest-in-state-street-stock-ask-the-ai-engine/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2020/10/09/should-you-invest-in-state-street-stock-ask-the-ai-engine/amp/",
-      "publishedDateTime": "2020-10-09T02:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-researchers-use-artificial-intelligence-language-tools-to-decode-molecular-movements.md",
-      "title": "Researchers use artificial intelligence language tools to decode molecular movements",
-      "excerpt": "By applying natural language processing tools to the movements of protein molecules, University of Maryland scientists created an abstract language that describes the multiple shapes a protein molecule can take and how and when it transitions from one shape to another.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2020-10-artificial-intelligence-language-tools-decode.html",
-      "originalUrl": "https://phys.org/news/2020-10-artificial-intelligence-language-tools-decode.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/5-umdresearche.jpg",
-          "width": 668,
-          "height": 1008,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2020-10-artificial-intelligence-language-tools-decode.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-artificial-intelligence-language-tools-decode.amp",
-      "publishedDateTime": "2020-10-09T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-how-ai-and-machine-learning-can-help-accountants-stay-competitive.md",
-      "title": "How AI and Machine Learning can help accountants stay competitive",
-      "excerpt": "Artificial intelligence (AI) and automation have brought the accounting profession to a point of pivotal change, and it’s about to revolutionise the way that accountants work.",
-      "sourceUrl": null,
-      "webUrl": "https://businesstech.co.za/news/industry-news/439441/how-ai-and-machine-learning-can-help-accountants-stay-competitive/",
-      "originalUrl": "https://businesstech.co.za/news/industry-news/439441/how-ai-and-machine-learning-can-help-accountants-stay-competitive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://businesstech.co.za/news/wp-content/uploads/2020/10/Sage-1-1024x507.jpg",
-          "width": 1024,
-          "height": 507,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://businesstech.co.za/news/industry-news/439441/how-ai-and-machine-learning-can-help-accountants-stay-competitive/amp/",
-      "cdnAmpWebUrl": "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/industry-news/439441/how-ai-and-machine-learning-can-help-accountants-stay-competitive/amp/",
-      "publishedDateTime": "2020-10-09T01:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businesstech.co.za",
-        "domain": "businesstech.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-ai-in-fintech-market-2020-status-and-outlook-growth.md",
-      "title": "AI in Fintech Market 2020 Status and Outlook Growth",
-      "excerpt": "AI in Fintech Market Size 2020 Analysis Trends Top Manufacturers Growth Statistics Porters Five Forces and SWOT Analysis Opportunities and Forecast California The qualitative research study by Data Bridge Market Research titled AI in Fintech market size is expected to",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2153314/ai-in-fintech-market-2020-status-and-outlook-growth-challenges",
-      "originalUrl": "https://www.openpr.com/news/2153314/ai-in-fintech-market-2020-status-and-outlook-growth-challenges",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/a/Ta09134345_g.jpg",
-          "width": 800,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2153314/ai-in-fintech-market-2020-status-and-outlook-growth-challenges",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2153314/ai-in-fintech-market-2020-status-and-outlook-growth-challenges",
-      "publishedDateTime": "2020-10-09T00:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices.md",
-      "title": "Microsoft parteners chip maker Arm to boost AI innovation for IoT devices",
-      "excerpt": "SoftBank-owned UK chip maker Arm has partnered with Microsoft to create Azure-based tools to enable developers transfer data from Arm-based Internet of Things (IoT) devices to Azure Cloud",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html",
-      "originalUrl": "https://www.business-standard.com/article/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-09/29/full/1601348370-9773.jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html",
-      "publishedDateTime": "2020-10-08T22:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

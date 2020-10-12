@@ -2,6 +2,190 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-09-05-ai-drawn-voting-districts-could-help-stamp-out-gerrymandering.md",
+      "title": "AI-drawn voting districts could help stamp out gerrymandering",
+      "excerpt": "Gerrymandering is one of the most insidious methods out there of influencing our political process. By legally changing the way votes are collected and counted, the outcomes can be influenced — even fixed in advance for years.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/04/ai-drawn-voting-districts-could-help-stamp-out-gerrymandering/",
+      "originalUrl": "https://techcrunch.com/2020/09/04/ai-drawn-voting-districts-could-help-stamp-out-gerrymandering/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-usa-map-inverted.jpg?w=1024",
+          "width": 1024,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/04/ai-drawn-voting-districts-could-help-stamp-out-gerrymandering/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/04/ai-drawn-voting-districts-could-help-stamp-out-gerrymandering/amp/",
+      "publishedDateTime": "2020-09-04T14:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-05-daimler-trucks-tests-self-driving-vehicles-in-us-southwest.md",
+      "title": "Daimler Trucks tests self-driving vehicles in US Southwest",
+      "excerpt": "SANTA FE, N.M. (AP) — Daimler Trucks and allied vehicle software company Torc Robotics announced Thursday the expansion of testing for self-driving trucks to public roads in New Mexico along ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sfgate.com/news/article/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php",
+      "originalUrl": "https://www.sfgate.com/news/article/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png",
+          "width": 375,
+          "height": 211,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.sfgate.com/news/amp/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php",
+      "cdnAmpWebUrl": "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php",
+      "publishedDateTime": "2020-09-04T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SFGate",
+        "domain": "sfgate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-05-how-the-pandemic-could-accelerate-ai-powered-professional-sports.md",
+      "title": "How The Pandemic Could Accelerate AI-Powered Professional Sports",
+      "excerpt": "At first, the “new normal” of stadium sports and sports broadcasting seemed abnormal at best. But the potential is vast. Here's why.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/04/how-the-pandemic-could-accelerate-ai-powered-professional-sports/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/04/how-the-pandemic-could-accelerate-ai-powered-professional-sports/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f52797ed60df366c191ef01%2F0x0.jpg",
+          "width": 1199,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/04/how-the-pandemic-could-accelerate-ai-powered-professional-sports/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/04/how-the-pandemic-could-accelerate-ai-powered-professional-sports/amp/",
+      "publishedDateTime": "2020-09-04T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-05-pentagon-reaffirms-award-of-jedi-cloud-to-microsoft.md",
+      "title": "Pentagon reaffirms award of JEDI cloud to Microsoft",
+      "excerpt": "The reaffirmation of the Joint Enterprise Defense Infrastructure cloud contract to Microsoft comes after the DoD asked a federal judge in March for several months to reconsider a specific data storage evaluation of its award to the tech giant after Amazon Web Services alleged the department made six technical evaluation errors during the source-selection process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.c4isrnet.com/newsletters/daily-news-roundup/2020/09/04/pentagon-reaffirms-award-of-jedi-cloud-to-microsoft/",
+      "originalUrl": "https://www.c4isrnet.com/newsletters/daily-news-roundup/2020/09/04/pentagon-reaffirms-award-of-jedi-cloud-to-microsoft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.armytimes.com/resizer/HyLP9wcax_xFq5CjDNkqq361irI=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/3C3TZKWYQBDOBBQL537ZWIEBRU.net635951117343721156",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-04T11:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "C4ISRNET",
+        "domain": "c4isrnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-05-microsoft-flight-simulator-2020-finally-realizes-the-true-next-generation-potential-of-azure-cloud-computing-in-pc-gaming.md",
       "title": "Microsoft Flight Simulator 2020 finally realizes the true next-generation potential of Azure cloud computing in PC gaming",
       "excerpt": "The core of Flight Simulator lies within Azure. From its hyper realistic flight handling to gorgeous visuals,’s cloud computing elevates the game into a technical marvel. In order to “somewhat accurately” create every inch of the entire globe with incredible detail,",
@@ -951,190 +1135,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts.md",
-      "title": "Yandex Self Driving Group To Be Directly Owned By Yandex, Uber - Quick Facts",
-      "excerpt": "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net (RTTNews) - Yandex N.V. (YNDX) and Uber (UBER) have entered into agreements to spin off the self-driving vehicles business ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts-1029562717",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts-1029562717",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Yandex-Self-Driving-Group-To-Be-Directly-Owned-By-Yandex-Uber-Quick-Facts-1029562717",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Yandex-Self-Driving-Group-To-Be-Directly-Owned-By-Yandex-Uber-Quick-Facts-1029562717",
-      "publishedDateTime": "2020-09-04T01:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-ai-start-ups-are-tackling-one-of-minings-oldest-problems.md",
-      "title": "AI Start-Ups Are Tackling One of Mining’s Oldest Problems",
-      "excerpt": "In a small town near Lake Balkhash, a Kazakh gold miner is relying on artificial intelligence to predict when an ore mill is about to overload.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-09-04/ai-start-ups-are-tackling-one-of-mining-s-oldest-problems",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-09-04/ai-start-ups-are-tackling-one-of-mining-s-oldest-problems",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJz10sie50Zg/v0/360x-1.jpg",
-          "width": 360,
-          "height": 249,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-09-04/ai-start-ups-are-tackling-one-of-mining-s-oldest-problems",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-09-04/ai-start-ups-are-tackling-one-of-mining-s-oldest-problems",
-      "publishedDateTime": "2020-09-03T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-3-predictions-for-the-role-of-artificial-intelligence-in-art-and-design.md",
-      "title": "3 Predictions For The Role Of Artificial Intelligence In Art And Design",
-      "excerpt": "Artificial Intelligence (AI) is transforming many aspects of our lives and businesses, and art and design are no different. In this post we look at the role AI will play in art and design and explore its role in enhancing human creativity as well as autonomous machine creativity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/09/04/3-predictions-for-the-role-of-artificial-intelligence-in-art-and-design/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2020/09/04/3-predictions-for-the-role-of-artificial-intelligence-in-art-and-design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f51c38ba72e09805e578c53%2F0x0.jpg",
-          "width": 1199,
-          "height": 872,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/09/04/3-predictions-for-the-role-of-artificial-intelligence-in-art-and-design/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/09/04/3-predictions-for-the-role-of-artificial-intelligence-in-art-and-design/amp/",
-      "publishedDateTime": "2020-09-03T21:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-commentary-happy-labor-day-while-there-are-still-jobs-for-folks-to-do.md",
-      "title": "Commentary: Happy Labor Day, while there are still jobs for folks to do",
-      "excerpt": "Robotics and computerized services are just business' most recent tools for reducing labor and overhead costs to increase productivity and profit. It's no surprise that the recessions of 1991, 2001 and 2008 were accompanied by spurts in the introduction of labor saving artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesunion.com/opinion/article/Happy-Labor-Day-while-there-are-still-jobs-for-15542073.php",
-      "originalUrl": "https://www.timesunion.com/opinion/article/Happy-Labor-Day-while-there-are-still-jobs-for-15542073.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png",
-          "width": 375,
-          "height": 211,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.timesunion.com/opinion/amp/Happy-Labor-Day-while-there-are-still-jobs-for-15542073.php",
-      "cdnAmpWebUrl": "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/opinion/amp/Happy-Labor-Day-while-there-are-still-jobs-for-15542073.php",
-      "publishedDateTime": "2020-09-03T20:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times Union",
-        "domain": "timesunion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

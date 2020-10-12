@@ -2,6 +2,99 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-26-ai-machine-learning-breakthrough-is-a-twist-on-brain-replay.md",
+      "title": "AI Machine Learning Breakthrough Is a Twist on Brain Replay",
+      "excerpt": "From a neuroscience perspective, the concept of brain replay is analogous to a streaming service that activates repeat showings from its vast archives of stored pre-recorded content. The brain can replay memories by reactivating the neural activity patterns that represent prior experiences whether asleep or awake.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202009/ai-machine-learning-breakthrough-is-twist-brain-replay",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202009/ai-machine-learning-breakthrough-is-twist-brain-replay",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2020-09/pic2095.jpg?itok=zJTSRPRc",
+          "width": 320,
+          "height": 228,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202009/ai-machine-learning-breakthrough-is-twist-brain-replay?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202009/ai-machine-learning-breakthrough-is-twist-brain-replay?amp",
+      "publishedDateTime": "2020-09-25T11:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-mit-prof-wins-1m-award-for-machine-learning-based-cancer-detection.md",
+      "title": "MIT Prof Wins $1M Award for Machine Learning-Based Cancer Detection",
+      "excerpt": "Professor Regina Barzilay of MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) pioneered new advances in breast cancer detection using machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/mit-prof-wins-1m-award-for-machine-learning-based-cancer-detection",
+      "originalUrl": "https://www.pcmag.com/news/mit-prof-wins-1m-award-for-machine-learning-based-cancer-detection",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/030rLSKD8S7Pi7pPiiqgCuw-1.1601045739.fit_lim.size_1200x630.jpg",
+          "width": 805,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/mit-prof-wins-1m-award-for-machine-learning-based-cancer-detection?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/mit-prof-wins-1m-award-for-machine-learning-based-cancer-detection?amp=true",
+      "publishedDateTime": "2020-09-25T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-aiera-ceo-on-companys-machine-learning-platform-benefits-of-ai-investing.md",
       "title": "Aiera CEO on company's machine learning platform, benefits of AI investing",
       "excerpt": "Ken Sena, cofounder and CEO at Aiera, on the benefits of AI investing, highlighting the company's machine learning platform.",
@@ -1261,111 +1354,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-leveraging-artificial-intelligence-ai-to-scale-ai-transformations.md",
-      "title": "Leveraging Artificial Intelligence (AI) To Scale AI Transformations",
-      "excerpt": "According to a recent McKinsey survey, just under a third of organizations use artificial intelligence for multiple business functions. Scaling AI transformations appears to be the most important challenge in this arena,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/21/leveraging-artificial-intelligence-ai-to-scale-ai-transformations/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/21/leveraging-artificial-intelligence-ai-to-scale-ai-transformations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0db1df72fadb0007edeed4%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/21/leveraging-artificial-intelligence-ai-to-scale-ai-transformations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/21/leveraging-artificial-intelligence-ai-to-scale-ai-transformations/amp/",
-      "publishedDateTime": "2020-09-21T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-10-mlops-platforms-to-manage-the-machine-learning-lifecycle.md",
-      "title": "10 MLops platforms to manage the machine learning lifecycle",
-      "excerpt": "Machine learning lifecycle management systems rank and track your experiments over time, and sometimes integrate with deployment and monitoring",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3572442/10-mlops-platforms-to-manage-the-machine-learning-lifecycle.html",
-      "originalUrl": "https://www.infoworld.com/article/3572442/10-mlops-platforms-to-manage-the-machine-learning-lifecycle.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_man_graphic_interface_data_by_art24hr_gettyimages_1157378096-100817765-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3572442/10-mlops-platforms-to-manage-the-machine-learning-lifecycle.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3572442/10-mlops-platforms-to-manage-the-machine-learning-lifecycle.amp.html",
-      "publishedDateTime": "2020-09-21T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AWS AI",
-        "Google AI"
       ]
     }
   ],

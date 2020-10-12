@@ -2,6 +2,200 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-06-fintech-in-asia-is-about-to-look-a-lot-more-chinese-but-its-not-who-you-think.md",
+      "title": "Fintech In Asia Is About To Look A Lot More Chinese, But It’s Not Who You Think",
+      "excerpt": "Nowhere in the world has fintech had more of an impact than in mainland China. From making a payment on a phone to borrowing money, hundreds of millions of Chinese individuals and businesses have turned to digital apps to handle their day to day finances.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/zennonkapron/2020/10/06/fintech-in-asia-is-about-to-look-a-lot-more-chinese-but-its-not-who-you-think/",
+      "originalUrl": "https://www.forbes.com/sites/zennonkapron/2020/10/06/fintech-in-asia-is-about-to-look-a-lot-more-chinese-but-its-not-who-you-think/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7c7d273c98dee7a40a3b21%2F0x0.jpg",
+          "width": 1199,
+          "height": 821,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/zennonkapron/2020/10/06/fintech-in-asia-is-about-to-look-a-lot-more-chinese-but-its-not-who-you-think/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zennonkapron/2020/10/06/fintech-in-asia-is-about-to-look-a-lot-more-chinese-but-its-not-who-you-think/amp/",
+      "publishedDateTime": "2020-10-06T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-this-robot-fry-chef-on-rails-can-be-yours-for-30000.md",
+      "title": "This robot fry chef on rails can be yours for $30,000",
+      "excerpt": "The robot uses machine learning to identify foodstuff and a camera array (which includes a 3D depth-sensing cam from Intel and a thermal camera) to navigate its environment. A robotic arm then wields a spatula and grabs baskets full of food to fry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2020/10/6/21503892/miso-robotics-flippy-roar-robotic-fry-chef-on-sale-price",
+      "originalUrl": "https://www.theverge.com/2020/10/6/21503892/miso-robotics-flippy-roar-robotic-fry-chef-on-sale-price",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/7TlofFBOdE7uaQI8TjRq9jR9zKY=/0x0:700x433/1400x933/filters:focal(294x161:406x273):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67588185/flippy_roar.0.gif",
+          "width": 700,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/10/6/21503892/miso-robotics-flippy-roar-robotic-fry-chef-on-sale-price",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/6/21503892/miso-robotics-flippy-roar-robotic-fry-chef-on-sale-price",
+      "publishedDateTime": "2020-10-06T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-how-ai-and-humans-can-work-together-to-make-better-recruiting-decisions.md",
+      "title": "How AI And Humans Can Work Together To Make Better Recruiting Decisions",
+      "excerpt": "As the co-founder of an AI-powered recruiting organization, I expect that AI won’t displace recruiting jobs. In fact, I anticipate that AI will become an indispensable tool for recruiters. Ask any recruiter: What’s the most tedious aspect of your job?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/06/how-ai-and-humans-can-work-together-to-make-better-recruiting-decisions/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/06/how-ai-and-humans-can-work-together-to-make-better-recruiting-decisions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee3c90cac807a0006b5add4%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/06/how-ai-and-humans-can-work-together-to-make-better-recruiting-decisions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/06/how-ai-and-humans-can-work-together-to-make-better-recruiting-decisions/amp/",
+      "publishedDateTime": "2020-10-06T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-marquis-software-deploys-the-highest-level-of-biometric-security-by-using-awares-knomi-for-face-voice-authentication.md",
+      "title": "Marquis Software Deploys the Highest Level of Biometric Security by Using Aware's Knomi® for Face + Voice Authentication",
+      "excerpt": "PRNewswire/ -- Aware, Inc. (NASDAQ: AWRE), a leading global provider of biometrics software products, solutions and services, today announced that",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/marquis-software-deploys-the-highest-level-of-biometric-security-by-using-awares-knomi-for-face--voice-authentication-301146607.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/marquis-software-deploys-the-highest-level-of-biometric-security-by-using-awares-knomi-for-face--voice-authentication-301146607.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1283061/Aware_Logo.jpg?p=facebook",
+          "width": 1060,
+          "height": 555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-06T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-where-artificial-intelligence-meets-urban-planning.md",
       "title": "Where Artificial Intelligence Meets Urban Planning",
       "excerpt": "First-year doctoral student is disseminating an AI program capable of changing the world of urban planning. Before you ever step into a new coffee shop, years of urban planning have gone into building that brick-and-mortar building in your neighborhood.",
@@ -873,19 +1067,19 @@
     {
       "path": "_news/2020-10-06-explainable-ai-artificial-intelligence-xai-image-recognition-startup-won-us-air-force-space-challenge-competition-as-a-finalist.md",
       "title": "Explainable-AI (Artificial Intelligence - XAI) Image Recognition Startup Won US Air Force Space Challenge Competition, as a Finalist",
-      "excerpt": "PRNewswire/ -- Z Advanced Computing, Inc. (ZAC), a software startup, has won the prestigious \"Engage-Space Challenge\" competition by the US Air Force",
+      "excerpt": "Space Challenge” competition by the US Air Force (managed by AFWERX, for the space industry), as one of the 26 finalists, out of the original 800 teams (i.e., among about the top 4%). The teams included multi-billion dollar companies,",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/explainable-ai-artificial-intelligence---xai-image-recognition-startup-won-us-air-force-space-challenge-competition-as-a-finalist-301145180.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/explainable-ai-artificial-intelligence---xai-image-recognition-startup-won-us-air-force-space-challenge-competition-as-a-finalist-301145180.html",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-science-military-intelligence-artificial-intelligence-government-and-politics-81edd1787508e5af8e71c27b3f723f98",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-science-military-intelligence-artificial-intelligence-government-and-politics-81edd1787508e5af8e71c27b3f723f98",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1306837/ZAC_fig_for_PR_5Oct2020.jpg?p=facebook",
-          "width": 2339,
-          "height": 1226,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -897,8 +1091,8 @@
       "publishedDateTime": "2020-10-05T10:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1004,182 +1198,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-3-top-artificial-intelligence-stocks-to-buy-in-october.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy in October",
-      "excerpt": "Artificial intelligence (AI) is a fast-growing segment ... from quantum computing to start-ups like self-driving car outfit Waymo. This research racks up substantial losses right now, with the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-october-2020-10-05",
-      "originalUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-october-2020-10-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-october-2020-10-05?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-october-2020-10-05?amp",
-      "publishedDateTime": "2020-10-05T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-must-protect-world-against-weaponisation-of-artificial-intelligence-pm-modi.md",
-      "title": "Must protect world against weaponisation of artificial intelligence: PM Modi",
-      "excerpt": "Speaking at the Raise 2020 conference, he said AI has a big role to play in sectors like agriculture, creating next generation urban infrastructure and making disaster management systems stronger.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/nation/2020/oct/05/must-protect-world-against-weaponisation-of-artificial-intelligence-pm-modi-2206174.html",
-      "originalUrl": "https://www.newindianexpress.com/nation/2020/oct/05/must-protect-world-against-weaponisation-of-artificial-intelligence-pm-modi-2206174.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/9/25/w600X390/PTI25-03-2020_00022.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/nation/2020/oct/05/must-protect-world-against-weaponisation-of-artificial-intelligence-pm-modi-2206174.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/nation/2020/oct/05/must-protect-world-against-weaponisation-of-artificial-intelligence-pm-modi-2206174.amp",
-      "publishedDateTime": "2020-10-05T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-nvidia-introduces-ampere-based-rtx-a6000-gpu-for-professionals.md",
-      "title": "Nvidia introduces Ampere-based RTX A6000 GPU for professionals",
-      "excerpt": "Nvidia held its GPU Technology Conference, or GTC, and it unveiled a ton of new technologies and capabilities at the event, including a new Ampere-based professional GPU, the RTX A6000.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/nvidia-introduces-ampere-based-rtx-a6000-gpu-for-professionals",
-      "originalUrl": "https://www.neowin.net/news/nvidia-introduces-ampere-based-rtx-a6000-gpu-for-professionals",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/10/1601908637_quadro-rtx-a6000_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/nvidia-introduces-ampere-based-rtx-a6000-gpu-for-professionals/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/nvidia-introduces-ampere-based-rtx-a6000-gpu-for-professionals/",
-      "publishedDateTime": "2020-10-05T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-self-driving-cars-could-be-operating-daily-in-1-2-yearsjust-not-in-big-cities.md",
-      "title": "Self-Driving Cars Could Be Operating Daily In 1-2 Years—Just Not in Big Cities",
-      "excerpt": "The engineering has been a bigger challenge than expected, Voyage CEO Oliver Cameron says, even for places like retirement communities. But not impossible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-05/voyage-ceo-oliver-cameron-on-robo-taxis-self-driving-cars-and-coronavirus",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-05/voyage-ceo-oliver-cameron-on-robo-taxis-self-driving-cars-and-coronavirus",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqUrgMbuoRU0/v0/360x-1.jpg",
-          "width": 360,
-          "height": 239,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-05/voyage-ceo-oliver-cameron-on-robo-taxis-self-driving-cars-and-coronavirus",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-05/voyage-ceo-oliver-cameron-on-robo-taxis-self-driving-cars-and-coronavirus",
-      "publishedDateTime": "2020-10-05T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

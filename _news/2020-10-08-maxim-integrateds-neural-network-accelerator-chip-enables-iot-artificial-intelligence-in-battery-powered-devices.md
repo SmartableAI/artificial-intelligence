@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/maxim-integrated-s-neur
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/maxim-integrated-s-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-1029656759"
 type: article
 quality: 80
-heat: 120
+heat: 110
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       - url: "https://static.electronicsweekly.com/wp-content/uploads/2020/10/08131822/MAX78000-photo.jpg"
         width: 640
         height: 360
-        isCached: true
-  - title: "Maxim Integrated Releases a New NN Accelerator Chip for Low-Power Processing at the Edge"
-    excerpt: "Maxim Integrated released its newest product, a low-power NN accelerator chip, with the hopes of bringing AI to the edge. We interviewed Kris Ardis, executive director of Micros, Security, and Software Business Unit at Maxim Integrated to get the details."
-    publishedDateTime: 2020-10-07T17:19:00Z
-    webUrl: "https://www.allaboutcircuits.com/news/maxim-integrated-releases-new-neural-network-accelerator-chip-low-power-processing-edge/"
-    type: article
-    provider:
-      name: All About Circuits
-      domain: allaboutcircuits.com
-    quality: 30
-    images:
-      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/Depiction_of_the_new_NN_accelerator.jpg"
-        width: 700
-        height: 291
         isCached: true
   - title: "Maxim Hopes Low-Power NN Accelerator Chip for Edge Devices Will Lead an “Embedded Revolution”"
     excerpt: "Maxim Integrated released its newest product, a low-power NN accelerator chip, with the hopes of bringing AI to the edge. We interviewed Kris Ardis, executive director of Micros, Security, and Software Business Unit at Maxim Integrated,"

@@ -45,102 +45,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-08-9-ai-softwares-to-keep-an-eye-on-in-2021.md",
-      "title": "9 AI Softwares to Keep An Eye On In 2021",
-      "excerpt": "In the last few years, technological progress has reached a new high. AI or artificial intelligence is no longer an obscure buzzword used by the geeks!",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/9-ai-softwares-keep-eye-2021-1385415",
-      "originalUrl": "https://www.albawaba.com/business/9-ai-softwares-keep-eye-2021-1385415",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/rimshami/AIsoftware-shutterstock-8Oct20.jpg?itok=IPJHo11K",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/9-ai-softwares-keep-eye-2021-1385415",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/9-ai-softwares-keep-eye-2021-1385415",
-      "publishedDateTime": "2020-10-08T05:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-nvidia-promises-the-pervasiveness-of-ai-and-a-new-data-center-architecture.md",
-      "title": "Nvidia Promises The Pervasiveness Of AI And A New Data Center Architecture",
-      "excerpt": "Nvidia has developed a new SoC dubbed the Data Processing Unit (DPU) to offload the data management and security functions, which have increasingly become software functions, from the main server CPU to an intelligent Network Interface Card (NIC).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2020/10/07/nvidia-promises-the-pervasiveness-of-ai-and-a-new-data-center-architecture/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2020/10/07/nvidia-promises-the-pervasiveness-of-ai-and-a-new-data-center-architecture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7e2aeb0c6bb2981900699b%2F0x0.jpg",
-          "width": 1061,
-          "height": 739,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2020/10/07/nvidia-promises-the-pervasiveness-of-ai-and-a-new-data-center-architecture/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/10/07/nvidia-promises-the-pervasiveness-of-ai-and-a-new-data-center-architecture/amp/",
-      "publishedDateTime": "2020-10-07T14:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2020-10-07-tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure.md",
       "title": "Tamr Announces the Only Cloud-Native Data Mastering Solutions for Google Cloud Platform, AWS, and Microsoft Azure",
       "excerpt": "PRNewswire/ -- Tamr, Inc., a cloud-native data mastering platform used by some of the world's largest enterprises",
@@ -1382,6 +1286,90 @@
       "provider": {
         "name": "CIO",
         "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-microsoft-announces-azure-communication-services.md",
+      "title": "Microsoft announces Azure Communication Services",
+      "excerpt": "It also enables developers to easily tap into other Azure services, such as Azure Cognitive Services for ... and GDPR (in the EU),\" Microsoft said in a statement on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sify.com/finance/microsoft-announces-azure-communication-services-news-topnews-ujyeO9fgegihh.html",
+      "originalUrl": "https://www.sify.com/finance/microsoft-announces-azure-communication-services-news-topnews-ujyeO9fgegihh.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sify.com/uploads/microsoft_ap_uitr0fihdhehb.jpeg",
+          "width": 950,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-24T03:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sify.com",
+        "domain": "sify.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure.md",
+      "title": "Jumio Unveils Identity Verification With Biometrics For Microsoft Azure",
+      "excerpt": "California-based Jumio said its artificial intelligence (AI)-fueled identity verification offerings are now available to Microsoft Azure Active Directory External Identities for business-to-consumer (B2C) clients. The technology allows for a biometric and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/",
+      "originalUrl": "https://www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2020/09/identity-verification-artifical-intelligence-457x305.jpg",
+          "width": 457,
+          "height": 305,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/amp/",
+      "publishedDateTime": "2020-09-23T12:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
         "images": null,
         "publishers": null,
         "authors": null

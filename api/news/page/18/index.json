@@ -2,6 +2,193 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-09-24-immervision-introduces-joyce-the-first-humanoid-robot-with-intelligent-vision-developed-by-the-computer-vision-community.md",
+      "title": "Immervision Introduces JOYCE, the First Humanoid Robot with Intelligent Vision Developed by the Computer Vision Community",
+      "excerpt": "MONTREAL–(BUSINESS WIRE)–Immervision, the Montreal-based leader in wide-angle intelligent vision, introduces JOYCE, the first humanoid robot developed by the computer vision community to help machines gain human-like perception and beyond. Watch the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eejournal.com/industry_news/immervision-introduces-joyce-the-first-humanoid-robot-with-intelligent-vision-developed-by-the-computer-vision-community/",
+      "originalUrl": "https://www.eejournal.com/industry_news/immervision-introduces-joyce-the-first-humanoid-robot-with-intelligent-vision-developed-by-the-computer-vision-community/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-23T14:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronic Engineering Journal",
+        "domain": "eejournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-congress-will-try-again-in-2021-on-self-driving-car-reform.md",
+      "title": "Congress will try again in 2021 on self-driving car reform",
+      "excerpt": "The U.S. Congress will try again in 2021 to try to approve long-stalled reforms to speed the adoption of self-driving cars, a key Democratic lawmaker said Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-autos-self-driving-congress-idINKCN26E2RA",
+      "originalUrl": "https://www.reuters.com/article/us-autos-self-driving-congress-idINKCN26E2RA",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20200923&t=2&i=1534629164&r=LYNXNPEG8M1P8&w=800",
+          "width": 800,
+          "height": 511,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-23T13:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-mouser-electronics-new-intelligent-revolution-series-explores-cutting-edge-applications-in-artificial-intelligence.md",
+      "title": "Mouser Electronics’ New Intelligent Revolution Series Explores Cutting-Edge Applications in Artificial Intelligence",
+      "excerpt": "Mouser Electronics announces The Intelligent Revolution, a captivating new series in Mouser’s award-winning Empowering Innovation Together program.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20200923005723/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20200923005723/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200923005723/en/824095/23/PRINT_EIT_IntelligentRevolution_eBook1.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-23T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-baidu-offers-quantum-computing-from-the-cloud.md",
+      "title": "Baidu offers quantum computing from the cloud",
+      "excerpt": "Following its developer conference last week, Baidu today detailed Quantum Leaf, a new cloud quantum computing platform designed for programming, simulating, and executing quantum workloads. It’s aimed at providing a programming environment for quantum infrastructure as a service setups,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/23/baidu-offers-quantum-computing-from-the-cloud/",
+      "originalUrl": "https://venturebeat.com/2020/09/23/baidu-offers-quantum-computing-from-the-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/9e8a9be4-add4-432a-b207-b64b6ad60760-e1590588506627.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/23/baidu-offers-quantum-computing-from-the-cloud/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/23/baidu-offers-quantum-computing-from-the-cloud/amp/",
+      "publishedDateTime": "2020-09-23T12:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure.md",
       "title": "Jumio Unveils Identity Verification With Biometrics For Microsoft Azure",
       "excerpt": "California-based Jumio said its artificial intelligence (AI)-fueled identity verification offerings are now available to Microsoft Azure Active Directory External Identities for business-to-consumer (B2C) clients. The technology allows for a biometric and ...",
@@ -987,192 +1174,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-israels-mobileye-dubais-habtoor-partner-on-self-driving-cars.md",
-      "title": "Israel's Mobileye, Dubai's Habtoor Partner on Self-Driving Cars",
-      "excerpt": "Israel's Mobileye and United Arab Emirate's Al Habtoor Group launched a partnership on Wednesday to create a fleet of self-driving \"robotaxis\" that could take to the streets of Dubai by the end of 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars?context=amp",
-      "publishedDateTime": "2020-09-23T05:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-regina-barzilay-wins-1m-association-for-the-advancement-of-artificial-intelligence-squirrel-ai-award.md",
-      "title": "Regina Barzilay wins $1M Association for the Advancement of Artificial Intelligence Squirrel AI award",
-      "excerpt": "... the Association for the Advancement of Artificial Intelligence (AAAI) — announced today the winner of their new Squirrel AI Award for Artificial Intelligence for the Benefit of Humanity, a $1 million award given to honor individuals whose work in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aaai.org/Awards/squirrel-ai-award-call.php",
-      "originalUrl": "https://news.mit.edu/2020/regina-barzilay-wins-aaai-squirrel-ai-award-artificial-intelligence-0923",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aaai.org/Awards/AAAI-Squirrel-AI-Award-for-Artificial-Intelligence-for-the-Benefit-of-Humanity.jpg",
-          "width": 1300,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-23T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-sigmasense-closes-22m-series-a-funding-round-with-groundbreaking-invention-enabling-touchless-touch-screens.md",
-      "title": "SigmaSense Closes $22M Series A Funding Round with Groundbreaking Invention Enabling Touchless Touch Screens",
-      "excerpt": "object recognition, digital pens and high hover for touchless gestures on LCD, OLED, EPD and Mini-LED screens AUSTIN, Texas--(BUSINESS WIRE)--SigmaSense, the global leader in touch screen ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200923005265/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20200923005265/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200923005265/en/823840/23/SigmaSense_Logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-23T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-how-artificial-intelligence-can-enable-ethically-driven-investments.md",
-      "title": "How Artificial Intelligence Can Enable Ethically Driven Investments",
-      "excerpt": "Individuals and investment firms are increasingly interested in more than a balance sheet when making investment decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/09/23/how-artificial-intelligence-can-enable-ethically-driven-investments/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/09/23/how-artificial-intelligence-can-enable-ethically-driven-investments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a42c7eeeca94f314ea8ef%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/09/23/how-artificial-intelligence-can-enable-ethically-driven-investments/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/09/23/how-artificial-intelligence-can-enable-ethically-driven-investments/amp/",
-      "publishedDateTime": "2020-09-23T04:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

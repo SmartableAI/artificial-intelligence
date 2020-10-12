@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2020/10/07/nvidia-promis
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/10/07/nvidia-promises-the-pervasiveness-of-ai-and-a-new-data-center-architecture/amp/"
 type: article
 quality: 91
-heat: 111
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -33,37 +33,21 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA GTC Presentation On Trends For 2021 Showed They See More Business Artificial Intelligence Moving To Production"
-    excerpt: "While the message of the technical folks might still be a bit too focused on training, this presentation mentioned runtime more than I’ve previously heard. The industry application of AI is still relatively new,"
-    publishedDateTime: 2020-10-08T15:05:00Z
-    webUrl: "https://www.forbes.com/sites/davidteich/2020/10/08/nvidia-gtc-presentation-on-trends-for-2021-showed-they-see-more-business-artificial-intelligence-moving-to-production/"
-    ampWebUrl: "https://www.forbes.com/sites/davidteich/2020/10/08/nvidia-gtc-presentation-on-trends-for-2021-showed-they-see-more-business-artificial-intelligence-moving-to-production/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/10/08/nvidia-gtc-presentation-on-trends-for-2021-showed-they-see-more-business-artificial-intelligence-moving-to-production/amp/"
+  - title: "AI And Machine Learning Provide Challenges And Opportunities For Data Center Architects"
+    excerpt: "The ability to share high-speed NVMe flash storage resources can no longer match the performance required to effectively calculate that data in real time for AI+ML operations. Graphics processing (GPU) resources that can calculate data three-dimensionally ..."
+    publishedDateTime: 2020-10-12T11:12:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/12/ai-and-machine-learning-provide-challenges-and-opportunities-for-data-center-architects/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/10/12/ai-and-machine-learning-provide-challenges-and-opportunities-for-data-center-architects/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/12/ai-and-machine-learning-provide-challenges-and-opportunities-for-data-center-architects/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 64
+    quality: 98
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg"
-        width: 876
-        height: 548
-        isCached: true
-  - title: "NVIDIA’s AI-Based Video Compression Reduces Bandwidth to One-Tenth of H.264"
-    excerpt: "NVIDIA Maxine provides cloud-based suite of GPU-accelerated AI video conferencing software to enhance streaming video."
-    publishedDateTime: 2020-10-08T13:42:00Z
-    webUrl: "https://www.tvtechnology.com/equipment/nvidias-new-ai-based-video-compression-tech-reduces-bandwidth-to-one-tenth-of-h264"
-    ampWebUrl: "https://www.tvtechnology.com/amp/equipment/nvidias-new-ai-based-video-compression-tech-reduces-bandwidth-to-one-tenth-of-h264"
-    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/equipment/nvidias-new-ai-based-video-compression-tech-reduces-bandwidth-to-one-tenth-of-h264"
-    type: article
-    provider:
-      name: TV Technology
-      domain: tvtechnology.com
-    quality: 57
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/oAt9y535FRR44FCx6eWzkn-1200-80.jpg"
-        width: 725
-        height: 408
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee37d1bb8beb90007c3a7d4%2F0x0.jpg"
+        width: 1200
+        height: 833
         isCached: true
 
 secured: "1bwkQ92LNTCxLoYnSLEYoWYB3BFW0je4DyhBRqjcejGElZkOpVz+9nteDHofUK4tGubkAQs7qMLwl+OoP0E/Du2ZaSP7dHl1RpWueBU/eWtKF0HqtnkzY3ugjg41Kvq3+QNfn8otigqRJ3dzU6Kdvz3S3H3MSyxWyfJVtKig7zAW8+LUzQrldOJTXls349IvxE2YNHz+9itbe4YqPJZ21yD+AFPkm3GiXEWhFCc5Nooi7XUQLhOKHrlrZp0+NJcFmkogELOv8ZV1qElg/7vymBfTDDCBBtse7Tkf3MD9NtJnFZGn9LjDkCl9pkW0nsWNviDr9zQRovlrE0gipQ5eeiiS4soUv8RJYk+fughZIfmTsTpKUxxV+E8+2n/h8+VT/4x6ifWHKbzvohatDC1oiHSyOgDu0xTgfvLOgommBeeP4gX92R3Ot5fdc+rlKSCiYLB6CxCSieQHpRffvhk1iDLZjKyfZHEU274JOKlV4hXnOGHIrjvdhdPtWM7j/1xks7ZVyuRoT9Br8Q8gkB24lQ==;oXupt0vSXvmNVW9iixyUow=="

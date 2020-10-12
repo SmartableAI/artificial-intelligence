@@ -2,6 +2,225 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-09-should-you-invest-in-state-street-stock-ask-the-ai-engine.md",
+      "title": "Should You Invest In State Street Stock? Ask The AI Engine",
+      "excerpt": "The stock market has seen some volatility since the start of September, and after a larger sell-off in the Stock market – State Street Stock has moved up 11% over the last two weeks (10 trading days) to $63 now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greatspeculations/2020/10/09/should-you-invest-in-state-street-stock-ask-the-ai-engine/",
+      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2020/10/09/should-you-invest-in-state-street-stock-ask-the-ai-engine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f718e7747378e05e93f2fdc%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2020/10/09/should-you-invest-in-state-street-stock-ask-the-ai-engine/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2020/10/09/should-you-invest-in-state-street-stock-ask-the-ai-engine/amp/",
+      "publishedDateTime": "2020-10-09T02:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-researchers-use-artificial-intelligence-language-tools-to-decode-molecular-movements.md",
+      "title": "Researchers use artificial intelligence language tools to decode molecular movements",
+      "excerpt": "By applying natural language processing tools to the movements of protein molecules, University of Maryland scientists created an abstract language that describes the multiple shapes a protein molecule can take and how and when it transitions from one shape to another.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2020-10-artificial-intelligence-language-tools-decode.html",
+      "originalUrl": "https://phys.org/news/2020-10-artificial-intelligence-language-tools-decode.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/5-umdresearche.jpg",
+          "width": 668,
+          "height": 1008,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2020-10-artificial-intelligence-language-tools-decode.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-artificial-intelligence-language-tools-decode.amp",
+      "publishedDateTime": "2020-10-09T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-how-ai-and-machine-learning-can-help-accountants-stay-competitive.md",
+      "title": "How AI and Machine Learning can help accountants stay competitive",
+      "excerpt": "Artificial intelligence (AI) and automation have brought the accounting profession to a point of pivotal change, and it’s about to revolutionise the way that accountants work.",
+      "sourceUrl": null,
+      "webUrl": "https://businesstech.co.za/news/industry-news/439441/how-ai-and-machine-learning-can-help-accountants-stay-competitive/",
+      "originalUrl": "https://businesstech.co.za/news/industry-news/439441/how-ai-and-machine-learning-can-help-accountants-stay-competitive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://businesstech.co.za/news/wp-content/uploads/2020/10/Sage-1-1024x507.jpg",
+          "width": 1024,
+          "height": 507,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://businesstech.co.za/news/industry-news/439441/how-ai-and-machine-learning-can-help-accountants-stay-competitive/amp/",
+      "cdnAmpWebUrl": "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/industry-news/439441/how-ai-and-machine-learning-can-help-accountants-stay-competitive/amp/",
+      "publishedDateTime": "2020-10-09T01:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businesstech.co.za",
+        "domain": "businesstech.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-ai-in-fintech-market-2020-status-and-outlook-growth.md",
+      "title": "AI in Fintech Market 2020 Status and Outlook Growth",
+      "excerpt": "AI in Fintech Market Size 2020 Analysis Trends Top Manufacturers Growth Statistics Porters Five Forces and SWOT Analysis Opportunities and Forecast California The qualitative research study by Data Bridge Market Research titled AI in Fintech market size is expected to",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2153314/ai-in-fintech-market-2020-status-and-outlook-growth-challenges",
+      "originalUrl": "https://www.openpr.com/news/2153314/ai-in-fintech-market-2020-status-and-outlook-growth-challenges",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/a/Ta09134345_g.jpg",
+          "width": 800,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2153314/ai-in-fintech-market-2020-status-and-outlook-growth-challenges",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2153314/ai-in-fintech-market-2020-status-and-outlook-growth-challenges",
+      "publishedDateTime": "2020-10-09T00:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices.md",
+      "title": "Microsoft parteners chip maker Arm to boost AI innovation for IoT devices",
+      "excerpt": "SoftBank-owned UK chip maker Arm has partnered with Microsoft to create Azure-based tools to enable developers transfer data from Arm-based Internet of Things (IoT) devices to Azure Cloud",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html",
+      "originalUrl": "https://www.business-standard.com/article/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-09/29/full/1601348370-9773.jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html",
+      "publishedDateTime": "2020-10-08T22:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-09-ibm-inks-its-first-ever-esports-deal-with-the-overwatch-league.md",
       "title": "IBM Inks Its First-Ever Esports Deal With The Overwatch League",
       "excerpt": "Blizzard will tap into IBM’s cloud, Watson AI and machine-learning knowhow to 'power interactive and analytical content.'",
@@ -719,6 +938,56 @@
       ]
     },
     {
+      "path": "_news/2020-10-08-nvidia-gtc-presentation-on-trends-for-2021-showed-they-see-more-business-artificial-intelligence-moving-to-production.md",
+      "title": "NVIDIA GTC Presentation On Trends For 2021 Showed They See More Business Artificial Intelligence Moving To Production",
+      "excerpt": "While the message of the technical folks might still be a bit too focused on training, this presentation mentioned runtime more than I’ve previously heard. The industry application of AI is still relatively new,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2020/10/08/nvidia-gtc-presentation-on-trends-for-2021-showed-they-see-more-business-artificial-intelligence-moving-to-production/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2020/10/08/nvidia-gtc-presentation-on-trends-for-2021-showed-they-see-more-business-artificial-intelligence-moving-to-production/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/10/08/nvidia-gtc-presentation-on-trends-for-2021-showed-they-see-more-business-artificial-intelligence-moving-to-production/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/10/08/nvidia-gtc-presentation-on-trends-for-2021-showed-they-see-more-business-artificial-intelligence-moving-to-production/amp/",
+      "publishedDateTime": "2020-10-08T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-ibm-shares-rise-on-plans-to-spin-off-its-it-infrastructure-unit-and-focus-on-the-cloud-business.md",
       "title": "IBM shares rise on plans to spin off its IT infrastructure unit and focus on the cloud business",
       "excerpt": "IBM said on Thursday it would spin off its IT infrastructure unit to focus more on cloud computing, a high-margin business that has seen a boost as companies increasingly ramp up their digital shift.",
@@ -882,303 +1151,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-neocis-raises-72-million-for-its-dental-surgery-robot.md",
-      "title": "Neocis raises $72 million for its dental surgery robot",
-      "excerpt": "Dental robotics startup Neocis today closed a $70 million ... “The Yomi planning software … leverages AI techniques to guide the surgeon in planning the case safely, for example providing ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/08/neocis-raises-72-million-for-its-dental-surgery-robot/",
-      "originalUrl": "https://venturebeat.com/2020/10/08/neocis-raises-72-million-for-its-dental-surgery-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/5691c254-4278-461b-a205-a055fd5ccdc2-e1601933697251.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/08/neocis-raises-72-million-for-its-dental-surgery-robot/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/08/neocis-raises-72-million-for-its-dental-surgery-robot/amp/",
-      "publishedDateTime": "2020-10-08T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-9-ai-softwares-to-keep-an-eye-on-in-2021.md",
-      "title": "9 AI Softwares to Keep An Eye On In 2021",
-      "excerpt": "In the last few years, technological progress has reached a new high. AI or artificial intelligence is no longer an obscure buzzword used by the geeks!",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/9-ai-softwares-keep-eye-2021-1385415",
-      "originalUrl": "https://www.albawaba.com/business/9-ai-softwares-keep-eye-2021-1385415",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/rimshami/AIsoftware-shutterstock-8Oct20.jpg?itok=IPJHo11K",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/9-ai-softwares-keep-eye-2021-1385415",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/9-ai-softwares-keep-eye-2021-1385415",
-      "publishedDateTime": "2020-10-08T05:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-nine-big-hurdles-of-adopting-artificial-intelligence-and-how-to-overcome-them.md",
-      "title": "Nine Big Hurdles Of Adopting Artificial Intelligence (And How To Overcome Them)",
-      "excerpt": "Artificial intelligence is an extremely valuable tool that can save your business time, energy and money. However, implementing AI can be a big challenge for any company. From choosing the right AI-powered tool to setting up the right data inputs and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2020/10/08/nine-big-hurdles-of-adopting-artificial-intelligence-and-how-to-overcome-them/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2020/10/08/nine-big-hurdles-of-adopting-artificial-intelligence-and-how-to-overcome-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7dce40f79d0a361086b5fe%2F0x0.jpg",
-          "width": 1200,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2020/10/08/nine-big-hurdles-of-adopting-artificial-intelligence-and-how-to-overcome-them/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2020/10/08/nine-big-hurdles-of-adopting-artificial-intelligence-and-how-to-overcome-them/amp/",
-      "publishedDateTime": "2020-10-08T05:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-exer-labs-raises-2-million-and-launches-computer-vision-app-for-peloton-style-coached-workouts.md",
-      "title": "Exer Labs raises $2 million and launches computer vision app for Peloton-style coached workouts",
-      "excerpt": "Exer Labs has raised $2 million in funding and it has unveiled its AI-based Exer Studio app for the Mac that captures your movements for coaching advice.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/08/exer-labs-raises-2-million-and-launches-computer-vision-app-for-peloton-style-coached-workouts/",
-      "originalUrl": "https://venturebeat.com/2020/10/08/exer-labs-raises-2-million-and-launches-computer-vision-app-for-peloton-style-coached-workouts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/exer-4.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 621,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/08/exer-labs-raises-2-million-and-launches-computer-vision-app-for-peloton-style-coached-workouts/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/08/exer-labs-raises-2-million-and-launches-computer-vision-app-for-peloton-style-coached-workouts/amp/",
-      "publishedDateTime": "2020-10-08T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-grid-ai-raises-186m-series-a-to-help-ai-researchers-and-engineers-bring-their-models-to-production.md",
-      "title": "Grid AI raises $18.6M Series A to help AI researchers and engineers bring their models to production",
-      "excerpt": "Grid AI, a startup founded by the inventor of the popular open-source PyTorch Lightning project, William Falcon, that aims to help machine learning engineers more efficiently, today announced that it has raised an $18.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/08/grid-ai-raises-18-6m-series-a-to-help-ai-researchers-and-engineers-bring-their-models-to-production/",
-      "originalUrl": "https://techcrunch.com/2020/10/08/grid-ai-raises-18-6m-series-a-to-help-ai-researchers-and-engineers-bring-their-models-to-production/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1124444076.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/08/grid-ai-raises-18-6m-series-a-to-help-ai-researchers-and-engineers-bring-their-models-to-production/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/08/grid-ai-raises-18-6m-series-a-to-help-ai-researchers-and-engineers-bring-their-models-to-production/amp/",
-      "publishedDateTime": "2020-10-08T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-ex-aston-martin-ceo-palmer-joins-silicon-valley-slovakian-ai-battery-group.md",
-      "title": "Ex-Aston Martin CEO Palmer Joins Silicon Valley - Slovakian AI Battery Group",
-      "excerpt": "Discarded Aston Martin CEO Dr Andy Palmer has bounced back, joining a project to create a world-first artificial intelligence (AI) battery production center.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michaeltaylor/2020/10/08/ex-aston-martin-ceo-palmer-joins-silicon-valleyslovakian-ai-battery-group/",
-      "originalUrl": "https://www.forbes.com/sites/michaeltaylor/2020/10/08/ex-aston-martin-ceo-palmer-joins-silicon-valleyslovakian-ai-battery-group/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7ee032632d6eec4c53409c%2F0x0.jpg",
-          "width": 1200,
-          "height": 1808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michaeltaylor/2020/10/08/ex-aston-martin-ceo-palmer-joins-silicon-valleyslovakian-ai-battery-group/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeltaylor/2020/10/08/ex-aston-martin-ceo-palmer-joins-silicon-valleyslovakian-ai-battery-group/amp/",
-      "publishedDateTime": "2020-10-08T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "AI in Autos"
       ]
     }
   ],

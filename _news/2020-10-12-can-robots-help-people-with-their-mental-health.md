@@ -8,8 +8,8 @@ webUrl: "https://www.vice.com/en/article/qj4g3m/robot-ai-tech-mental-health-ther
 ampWebUrl: "https://www.vice.com/amp/en_us/article/qj4g3m/robot-ai-tech-mental-health-therapist-psychiatry-anxiety-depression-treatment"
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/qj4g3m/robot-ai-tech-mental-health-therapist-psychiatry-anxiety-depression-treatment"
 type: article
-quality: 89
-heat: 99
+quality: 91
+heat: 101
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://video-images.vice.com//articles/5f83e97aaac519009b0749a8/lede/1602481457528-photos-hobby-jibmsms4ka-unsplash.jpeg?crop=1xw:0.7805xh;0xw,0.1098xh"
@@ -48,6 +49,6 @@ related:
         height: 800
         isCached: true
 
-secured: "+V0K4aSLJ14USJUPPj9UsfN2B4zEWfviy0mQEbujNzHpc+OqZ7OhcKEyuc0pJv/wNgV2pLERibOzh6HoS4VS5lJeJqIfVIn06V3bqzQcOTcNtlN63wj6xxCGtWr/bc5ER9u0/q2p9vH+2Kj3JIhEVkhbW9KbCbzYO45CX3iLxvx5Pe22z9LuD1QphJstV0dSLzXBn6W4FyNCNM6cBJrlFZI8lFit6DORWRcD9WMMrU/SjfOj7A3k7nDuOQBSMyuDtuBpw4arzhIcyAbV9GhO69zRW43qBGe08W0PvbZ2pyGQ6+RFviZpeYGrGVeNP1JWgUWTiNEpxeTMe7PW7pB8IqZdComUUtDC8zM0QCAgQsY=;WEO4RKT156V4Ezyt/rYVDg=="
+secured: "6P7Trgl49IhwT3WH4w8JuRKm5M0Dd4UsFiJ1DlZ2N69WHTddnrskzk59tnCXNJO9h8IYruWRQP3uNFbDLpB3wpNB0y8a6lILWWgGSDA8DM11z9/b8IZMt2n72CMY5ZJt2hW+lF3nqHSyhrVwTAywqmvVYAXnj3GP0chLUT5zzfJpnXR3CXbtPqmtBsLBUuQ8VkX2FMz5+BYZetFITu5blxleVEQIHO5LLqBW2GqnRYZNTwVXSpA006JNhFJnw40hHiOV53aQ8PMsF4prnq47kvPmqYDfpR66DLJ+OFVkMM2Jqa8ZW2qx+NAPRAcJe7buMdYxf+iPb4HXVsbZ/DUNiTaulhZgFrzWQHWkBxZWQM0vLG88FKOLHA2lTMx+p2GKQ3B5Eazp6EqMu7XFDm/mdnuk1Cq6dMkfVurDkyQoqRHhomv2wFGr/xAQTmvmELlO0zoh00iFm10dnnewelCPbPHgdHqT9ZFpeTSIKQRMKX+s8pu9PGnwN6b4R2USw/+rGggt2mwcmfqmpLp79mJAlQ==;dmOCsdelUSa/718O9Td2JQ=="
 ---
 

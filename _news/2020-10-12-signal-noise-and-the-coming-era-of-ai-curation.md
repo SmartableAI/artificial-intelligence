@@ -9,8 +9,8 @@ ampWebUrl: "https://www.coindesk.com/ai-curation-speaking-of-bitcoin-podcast?amp
 cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/ai-curation-speaking-of-bitcoin-podcast?amp=1"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: CoinDesk
@@ -26,21 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "Applying artificial intelligence to science education"
-    excerpt: "A new review published in the Journal of Research in Science Teaching highlights the potential of machine learning—a subset of artificial intelligence—in science education. Although the authors initiated their review before the COVID-19 outbreak,"
-    publishedDateTime: 2020-10-07T18:42:00Z
-    webUrl: "https://phys.org/news/2020-10-artificial-intelligence-science.html"
-    ampWebUrl: "https://phys.org/news/2020-10-artificial-intelligence-science.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-artificial-intelligence-science.amp"
+  - title: "How to Build, Deploy, and Operationalize AI Assistants"
+    excerpt: "While chatbot PoCs are simple, building production-grade conversational software is challenging. Enterprises experience challenges in production systems that have large user bases, security mandates,"
+    publishedDateTime: 2020-10-09T12:15:00Z
+    webUrl: "https://www.infoq.com/articles/build-deploy-ai-assistants/"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
+      name: InfoQ
+      domain: infoq.com
+    quality: 43
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/science.jpg"
-        width: 1920
-        height: 1264
+      - url: "https://res.infoq.com/articles/build-deploy-ai-assistants/en/headerimage/croppted-build-deploy-ai-assistants-1602098758941.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "National Security AI Commission at Odds Over U.S. Response to Malign AI"
+    excerpt: "The National Security Commission on Artificial Intelligence voted on quarter three recommendations in what was likely its last public meeting for 2020"
+    publishedDateTime: 2020-10-09T17:16:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2020/10/national-security-ai-commission-odds-over-us-response-malign-ai/169152/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 37
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2020/10/09/shutterstock_766717948/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "2OeIZuwo2ZN8e+Ebuu1Oki4L4EeL2qloTmY6N5m4jC1N85OT/mhl2IaH4lT5bHFLTFNfWPDXM6i8J2dDlKHD15MRp/BTLiTU6vkHAg8MCg2fYlVfz3fHD25OIOGrg4bpIm4TB5mHvdDzAQJ51PraLTWsqvXifq15KpY8/Pu+MUcVc5XZjgk1my/PkMDJdarxr2ofzfZ/aMUuoAt5XGrTx966W/ebZKkme3F+Ofd6GX3B9E63aTCL7wzWXueiSWMiepvuIbMHjbY9YM0udNZCUXTuIadqhx/5ODN7awQdBuim3pYglW/5Z/klWs9+S8Zi9PDGWb4IKTtzpyz0mZtuWCJvFosbe2Ue1MCrRujAg9eoI47QQzIRR5yk7oawVuNqUcQ8gf74zjGuIAZZTGB3rHstW6IyxrVI07wBwIpk3LDBIbSjGQm53ofKg0VY2xCskzjmwxdElaiURDoj2GsKSXVGaJzc4AyxE3/GMu/xC/fidyGGXdWKMbKnOdEBRkYMSrhi29szlXS7EeFpV6jauQ==;RmeFybQGX83eB/HgW+9M6A=="

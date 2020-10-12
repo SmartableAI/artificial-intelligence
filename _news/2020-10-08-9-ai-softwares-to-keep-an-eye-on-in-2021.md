@@ -9,8 +9,8 @@ ampWebUrl: "https://www.albawaba.com/amp/business/9-ai-softwares-keep-eye-2021-1
 cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/9-ai-softwares-keep-eye-2021-1385415"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: Al Bawaba News
@@ -26,24 +26,6 @@ images:
     width: 1000
     height: 563
     isCached: true
-
-related:
-  - title: "AI Softwares to Look For In 2021"
-    excerpt: "In the last few years, technological progress has reached a new high. AI or artificial intelligence is no longer an obscure buzzword used by the geeks! Real-world AI applications can be seen in many sectors, and you can spot AI-enabled devices and ..."
-    publishedDateTime: 2020-10-07T17:30:00Z
-    webUrl: "https://www.jpost.com/special-content/ai-softwares-to-look-for-in-2021-644926"
-    ampWebUrl: "https://m.jpost.com/special-content/ai-softwares-to-look-for-in-2021-644926/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/special-content/ai-softwares-to-look-for-in-2021-644926/amp"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 61
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/464693"
-        width: 640
-        height: 428
-        isCached: true
 
 secured: "fCj/26JU53Eg8YHTJ/dg0UtfAHSN/CB0Tn+Ep9l/f0zdu2EFlyZpZK0/YB1y+TX9MfTsbZ/d6IREDoF6oIBjIOM8xQ0hcvXmSpImdGsTdKeAx/DshWWp5ElxWoMUdpvQCbWjUdiWP1f20yW+J19cMNzuuqb4XY3ny/SRZdYxPMaleV14pOOer1aMbI9TZsVVa77apfmX7Q1fxU0nN6rG6cNqW8JkFIKKKeNuNmMWtJdPX7idh5eJKjty9MafyKVjMQYST2gknnSR2JPcSDOi2OFnzLA2REpCjLFC0sjnSHbDHZfC4y2erGw0KavMqMGxQSbOKmsUgqW3j47uD6YBHlewX9rPGg8CdBto+B09a/hvC1T0HHzUcRZGLuZ0pevHDweZhLAi8myuh+JFJZpDd60NcSOzzaAcf6gI9at+ZeufiVvFbwBj9QqtzVkQKZfKvO2OQFmT7v3uYl5LEAWraKAybm6AWCYQ1gcG+n68BPFJQ2r9Ai3jxvTjLRI3NHoVbeEYtsO3Vi9wqJtxyK5J+Q==;2yqOEtvgceQy/D2sfX2jlA=="
 ---

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-12-can-robots-help-people-with-their-mental-health.md",
+      "title": "Can Robots Help People With Their Mental Health?",
+      "excerpt": "A study found that most think robots can support their mental health better than people, but experts say there are crucial human qualities technology can’t replicate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/qj4g3m/robot-ai-tech-mental-health-therapist-psychiatry-anxiety-depression-treatment",
+      "originalUrl": "https://www.vice.com/en/article/qj4g3m/robot-ai-tech-mental-health-therapist-psychiatry-anxiety-depression-treatment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com//articles/5f83e97aaac519009b0749a8/lede/1602481457528-photos-hobby-jibmsms4ka-unsplash.jpeg?crop=1xw:0.7805xh;0xw,0.1098xh",
+          "width": 4468,
+          "height": 2510,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en_us/article/qj4g3m/robot-ai-tech-mental-health-therapist-psychiatry-anxiety-depression-treatment",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/qj4g3m/robot-ai-tech-mental-health-therapist-psychiatry-anxiety-depression-treatment",
+      "publishedDateTime": "2020-10-12T01:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-10-11-ai-artificial-intelligence-governance-how-to-get-it-right.md",
       "title": "AI (Artificial Intelligence) Governance: How To Get It Right",
       "excerpt": "AI (Artificial Intelligence) concept. Deep learning. GUI (Graphical User Interface). getty. AI (Artificial Intelligence) governance is about evaluating and monitoring algorithms f",
@@ -82,6 +134,39 @@
       "provider": {
         "name": "Madison.com",
         "domain": "madison.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "Artificial intelligence (AI) involves using computers for tasks that normally require intelligent human behavior. AI systems can easily beat human grandmasters in chess, they have started to drive cars,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-10-07?time=1602083216",
+      "originalUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-10-07?time=1602083216",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-10-07?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-10-07?amp",
+      "publishedDateTime": "2020-10-07T07:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -776,6 +861,49 @@
       ]
     },
     {
+      "path": "_news/2020-09-29-data-science-to-accelerate-drug-discovery-with-artificial-intelligence-and-machine-learning-says-frost-sullivan.md",
+      "title": "Data Science to Accelerate Drug Discovery with Artificial Intelligence and Machine Learning, Says Frost & Sullivan",
+      "excerpt": "Pharmaceutical companies and hospitals are adopting data science rapidly, and its application is going to be established in all branches of",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/data-science-to-accelerate-drug-discovery-with-artificial-intelligence-and-machine-learning-says-frost-sullivan-1029631511",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/data-science-to-accelerate-drug-discovery-with-artificial-intelligence-and-machine-learning-says-frost-sullivan-1029631511",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/data-science-to-accelerate-drug-discovery-with-artificial-intelligence-and-machine-learning-says-frost-sullivan-1029631511",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/data-science-to-accelerate-drug-discovery-with-artificial-intelligence-and-machine-learning-says-frost-sullivan-1029631511",
+      "publishedDateTime": "2020-09-29T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-inside-google-healths-struggle-to-refocus-regain-trust-navigate-healthcare-and-make-money.md",
       "title": "Inside Google Health's struggle to refocus, regain trust, navigate healthcare, and make money",
       "excerpt": "The young team is up against trust issues, Alphabet's messy layout, and an industry it can't fix with the click of a button.",
@@ -1211,142 +1339,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-regina-barzilay-wins-1m-association-for-the-advancement-of-artificial-intelligence-squirrel-ai-award.md",
-      "title": "Regina Barzilay wins $1M Association for the Advancement of Artificial Intelligence Squirrel AI award",
-      "excerpt": "... the Association for the Advancement of Artificial Intelligence (AAAI) — announced today the winner of their new Squirrel AI Award for Artificial Intelligence for the Benefit of Humanity, a $1 million award given to honor individuals whose work in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aaai.org/Awards/squirrel-ai-award-call.php",
-      "originalUrl": "https://news.mit.edu/2020/regina-barzilay-wins-aaai-squirrel-ai-award-artificial-intelligence-0923",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aaai.org/Awards/AAAI-Squirrel-AI-Award-for-Artificial-Intelligence-for-the-Benefit-of-Humanity.jpg",
-          "width": 1300,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-23T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-global-regenerative-medicine-market-report-2020-2024-with-impact-analysis-of-covid-19-artificial-intelligence-to-advance-regenerative-medicine.md",
-      "title": "Global Regenerative Medicine Market Report 2020-2024 with Impact Analysis of COVID-19 - Artificial Intelligence to Advance Regenerative Medicine",
-      "excerpt": "Whereas, the market growth would be further supported by various market trends like three dimensional bioprinting , artificial intelligence ... by Products (Cell Therapy, Tissue Engineering ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/global-regenerative-medicine-market-report-2020-2024-with-impact-analysis-of-covid-19-artificial-intelligence-to-advance-regenerative-medicine-1029612109",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/global-regenerative-medicine-market-report-2020-2024-with-impact-analysis-of-covid-19-artificial-intelligence-to-advance-regenerative-medicine-1029612109",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/global-regenerative-medicine-market-report-2020-2024-with-impact-analysis-of-covid-19-artificial-intelligence-to-advance-regenerative-medicine-1029612109",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-regenerative-medicine-market-report-2020-2024-with-impact-analysis-of-covid-19-artificial-intelligence-to-advance-regenerative-medicine-1029612109",
-      "publishedDateTime": "2020-09-22T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-artificial-intelligence-in-healthcare-diagnosis-market-latest-report-with-forecast-to-2027.md",
-      "title": "Artificial Intelligence in Healthcare Diagnosis Market - Latest Report with Forecast to 2027",
-      "excerpt": "The artificial intelligence (AI) in healthcare diagnosis market was valued at US$ 3,639.02million in 2019 and is projected to reach US$ 66,811.97 million by 2027; it is expected to grow at a CAGR of 44.0% during 2020-2027. The growth of the market is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2138656/artificial-intelligence-in-healthcare-diagnosis-market",
-      "originalUrl": "https://www.openpr.com/news/2138656/artificial-intelligence-in-healthcare-diagnosis-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/9/T921776010_g.jpg",
-          "width": 574,
-          "height": 519,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2138656/artificial-intelligence-in-healthcare-diagnosis-market",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2138656/artificial-intelligence-in-healthcare-diagnosis-market",
-      "publishedDateTime": "2020-09-21T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
         "images": null,
         "publishers": null,
         "authors": null

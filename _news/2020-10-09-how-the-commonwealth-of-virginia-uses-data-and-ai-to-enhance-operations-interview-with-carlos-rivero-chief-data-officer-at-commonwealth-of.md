@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/10/09/how-the-commo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/10/09/how-the-commonwealth-of-virginia-uses-data-and-ai-to-enhance-operations-interview-with-carlos-rivero-chief-data-officer-at-commonwealth-of-virginia/amp/"
 type: article
 quality: 50
-heat: 60
+heat: 50
 published: false
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 500
     height: 647
     isCached: true
-
-related:
-  - title: "How to Build, Deploy, and Operationalize AI Assistants"
-    excerpt: "While chatbot PoCs are simple, building production-grade conversational software is challenging. Enterprises experience challenges in production systems that have large user bases, security mandates,"
-    publishedDateTime: 2020-10-09T12:15:00Z
-    webUrl: "https://www.infoq.com/articles/build-deploy-ai-assistants/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 43
-    images:
-      - url: "https://res.infoq.com/articles/build-deploy-ai-assistants/en/headerimage/croppted-build-deploy-ai-assistants-1602098758941.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "w7wkZ9/D6gK1dzzPe9EeDGWVEKAowB9n4P8xa8OhiYqPTCXnB8/iujRCoI/tsDQguGSjhZm6oLHulDT3wh3UovvX1GQVWlgqtPEsGH0M9W1CwZML1LdIdXCv5ky51j/IsJYRkD5J90HK8y/yuNzPu8px8ySDE4UaVeEZlRrZzoCrUt1urwEvhChR95pgz6Czk5OFxrKkNFtyAB1ZWJ3upPHE7kFy8LjfRlle0qkWeBfZSgRPEsQrPQ4LlVnL4QmxaAXbJN/oMp2Te7vH7WxWIrh1jRAr2hSCodIF5LTWuXnY9TSfH7zfqTYEWRtNMwTcsy7o//Ov7YRZ1ebkkMykxtbqpyieTnVIWx5GXf/5Ogciwer8orbZiDb1uiBQc8qxfruXeg0ofxnraqfUi3infZzSGApuKMKIuUaRBsRXRY6FzfFamEb7+p4UvjS4LULixWw+pBUo4bBkl7CRuXqrKBkxPdpO+RErpXUy5TS4XwzaIf+VPR4Dw4z53aP4zzbwE83FeGfwr0N4jSAmHWjNnA==;ZdQgNRH684vX6RRfHaeEMQ=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/articles/experts-urge-vigilance-over-ai-data-s
 webUrl: "https://www.wsj.com/articles/experts-urge-vigilance-over-ai-data-security-11602272062"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Wall Street Journal
@@ -28,17 +28,22 @@ images:
     isCached: true
 
 related:
-  - title: "3 ways criminals use artificial intelligence in cybersecurity attacks"
-    excerpt: "Bad actors use machine learning to break passwords more quickly and build malware that knows how to hide, experts warn."
-    publishedDateTime: 2020-10-07T18:07:00Z
-    webUrl: "https://www.techrepublic.com/article/3-ways-criminals-use-artificial-intelligence-in-cybersecurity-attacks/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/3-ways-criminals-use-artificial-intelligence-in-cybersecurity-attacks/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/3-ways-criminals-use-artificial-intelligence-in-cybersecurity-attacks/"
+  - title: "Big data and artificial intelligence advance breast cancer research"
+    excerpt: "How are different technologies enhancing research and treatment about breast cancer here in Michigan? WLNS-TV 6’s Melissa Brennan has more. According to the"
+    publishedDateTime: 2020-10-09T22:41:00Z
+    webUrl: "https://www.wlns.com/news/michigan/big-data-and-artificial-intelligence-advance-breast-cancer-research/"
+    ampWebUrl: "https://www.wlns.com/news/michigan/big-data-and-artificial-intelligence-advance-breast-cancer-research/amp/"
+    cdnAmpWebUrl: "https://www-wlns-com.cdn.ampproject.org/c/s/www.wlns.com/news/michigan/big-data-and-artificial-intelligence-advance-breast-cancer-research/amp/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
+      name: WLNS.com
+      domain: wlns.com
+    quality: 59
+    images:
+      - url: "https://www.wlns.com/wp-content/uploads/sites/50/2020/10/breast-cancer.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "Xcf5uT7QCKuNk0V/m1Brpyg8dyQzo+elY/6Gj+K8WsR0BAxJKQO8xp+OdRI8EIYxFXerFqaTKt4LJ0T0mfsRQi6lcnIXz3EH23ZwtT/LNp3DxGLXtvb9vHU+91zDfz4iBWF/PhiQdMWmiGMcZfMpRZEAKggJiD6GMhC4rDRYCk0zUQ1jVl2Y2dKmuh73GBbqAilqGisSxfceE9b5Henqnarv04QiPQXg4Dw7dLHl9QumI3Sp1WuiqGDPytVY6uU1ec+EFj0SCW4pHaEYPmzOBhHaKWy4C4CEmzIV/rM5/asTov5oGPjo7s26W8MfshqyJgnwWsm0QltvlGOx8G7U6nYZ4AggJXba6TQMAgtvIX3LBX3dHmp1fhTAxfIVi/oAoqsrD5zaAQPF8SROC5HKrPAv6gETye/3YUVj3rRSewM37FVVn8pkus/cNpkvxxdjU4tUtPYJD7C4Tg/KbX4ZPIf8rpJQErutXKxFRsITX8zzNl3ZQzwkAbY2l+Wpxt8sslfopoqgQJvefk/nObW+lg==;dlkjNPfDheMPKadm+g7P6w=="
 ---

@@ -104,49 +104,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-08-9-ai-softwares-to-keep-an-eye-on-in-2021.md",
-      "title": "9 AI Softwares to Keep An Eye On In 2021",
-      "excerpt": "In the last few years, technological progress has reached a new high. AI or artificial intelligence is no longer an obscure buzzword used by the geeks!",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/9-ai-softwares-keep-eye-2021-1385415",
-      "originalUrl": "https://www.albawaba.com/business/9-ai-softwares-keep-eye-2021-1385415",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/rimshami/AIsoftware-shutterstock-8Oct20.jpg?itok=IPJHo11K",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/9-ai-softwares-keep-eye-2021-1385415",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/9-ai-softwares-keep-eye-2021-1385415",
-      "publishedDateTime": "2020-10-08T05:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-05-ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry.md",
       "title": "IBM Brings Artificial Intelligence At Scale To The Marketing And Media Industry",
       "excerpt": "IBM today announced three new products to add to its growing suite of AI solutions for brand and publishers. IBM intends to work with industry leaders, including Xandr/AT&T, Magnite, Nielsen, MediaMath,",
@@ -1337,6 +1294,48 @@
       "provider": {
         "name": "The Financial Express",
         "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-ibm-collaborated-with-the-city-of-seoul-south-korea-to-develop-an-ai-based-virtual-assistant-for-its-citizens-using-ibm-watson.md",
+      "title": "IBM Collaborated with the City of Seoul, South Korea to Develop an AI-based Virtual Assistant for its Citizens using IBM Watson",
+      "excerpt": "PRNewswire/ -- IBM (NYSE: IBM) and the city of Seoul, South Korea, have launched an AI-based virtual assistant for Seoul citizens using IBM Watson Assistant. The virtual assistant is part of the city's \"I Care You\" project,",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20200820ny98850/ibm-collaborated-with-the-city-of-seoul-south-korea-to-develop-an-ai-based-virtual-assistant-for-its-citizens-using-ibm-watson",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20200820ny98850/ibm-collaborated-with-the-city-of-seoul-south-korea-to-develop-an-ai-based-virtual-assistant-for-its-citizens-using-ibm-watson",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-01T12:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null

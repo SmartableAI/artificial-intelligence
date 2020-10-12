@@ -2,57 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-09-23-microsoft-lands-exclusive-license-for-openais-astonishing-gpt-3-model.md",
-      "title": "Microsoft Lands Exclusive License for OpenAI's Astonishing GPT-3 Model",
-      "excerpt": "Microsoft is having a hell of a week. On Monday, the company announced a $7.5 billion deal to acquire Zenimax and all of its big video game properties. In one move, the Xbox platform’s future suddenly looked a lot brighter.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/microsoft-lands-exclusive-license-for-openais-astonishi-1845146568",
-      "originalUrl": "https://gizmodo.com/microsoft-lands-exclusive-license-for-openais-astonishi-1845146568",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/iigrcaogdqbygada6mxc.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/microsoft-lands-exclusive-license-for-openais-astonishi-1845146568/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/microsoft-lands-exclusive-license-for-openais-astonishi-1845146568/amp",
-      "publishedDateTime": "2020-09-22T20:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-23-studies-in-natural-language-processing.md",
       "title": "Studies in Natural Language Processing",
       "excerpt": "Volumes in the Studies in Natural Language Processing series provide comprehensive surveys of current research topics and applications in the field of natural language processing (NLP) that shed light on language technology, language cognition, language ...",
@@ -1413,6 +1362,58 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-how-ai-is-impacting-customer-experience-in-fintech-vb-live.md",
+      "title": "How AI is impacting customer experience in fintech (VB Live)",
+      "excerpt": "Learn how companies like MasterCard are implementing AI and NLP strategies that transform how fintech customer experience is done.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/09/how-ai-is-impacting-customer-experience-in-fintech-vb-live/",
+      "originalUrl": "https://venturebeat.com/2020/09/09/how-ai-is-impacting-customer-experience-in-fintech-vb-live/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/NLP.GettyImages-1199031078.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/09/how-ai-is-impacting-customer-experience-in-fintech-vb-live/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/09/how-ai-is-impacting-customer-experience-in-fintech-vb-live/amp/",
+      "publishedDateTime": "2020-09-09T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Natural Language Processing"
       ]
     }
   ],

@@ -2,6 +2,260 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-08-neocis-raises-72-million-for-its-dental-surgery-robot.md",
+      "title": "Neocis raises $72 million for its dental surgery robot",
+      "excerpt": "Dental robotics startup Neocis today closed a $70 million ... “The Yomi planning software … leverages AI techniques to guide the surgeon in planning the case safely, for example providing ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/08/neocis-raises-72-million-for-its-dental-surgery-robot/",
+      "originalUrl": "https://venturebeat.com/2020/10/08/neocis-raises-72-million-for-its-dental-surgery-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/5691c254-4278-461b-a205-a055fd5ccdc2-e1601933697251.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/08/neocis-raises-72-million-for-its-dental-surgery-robot/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/08/neocis-raises-72-million-for-its-dental-surgery-robot/amp/",
+      "publishedDateTime": "2020-10-08T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-nine-big-hurdles-of-adopting-artificial-intelligence-and-how-to-overcome-them.md",
+      "title": "Nine Big Hurdles Of Adopting Artificial Intelligence (And How To Overcome Them)",
+      "excerpt": "Artificial intelligence is an extremely valuable tool that can save your business time, energy and money. However, implementing AI can be a big challenge for any company. From choosing the right AI-powered tool to setting up the right data inputs and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theyec/2020/10/08/nine-big-hurdles-of-adopting-artificial-intelligence-and-how-to-overcome-them/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2020/10/08/nine-big-hurdles-of-adopting-artificial-intelligence-and-how-to-overcome-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7dce40f79d0a361086b5fe%2F0x0.jpg",
+          "width": 1200,
+          "height": 579,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2020/10/08/nine-big-hurdles-of-adopting-artificial-intelligence-and-how-to-overcome-them/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2020/10/08/nine-big-hurdles-of-adopting-artificial-intelligence-and-how-to-overcome-them/amp/",
+      "publishedDateTime": "2020-10-08T05:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-exer-labs-raises-2-million-and-launches-computer-vision-app-for-peloton-style-coached-workouts.md",
+      "title": "Exer Labs raises $2 million and launches computer vision app for Peloton-style coached workouts",
+      "excerpt": "Exer Labs has raised $2 million in funding and it has unveiled its AI-based Exer Studio app for the Mac that captures your movements for coaching advice.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/08/exer-labs-raises-2-million-and-launches-computer-vision-app-for-peloton-style-coached-workouts/",
+      "originalUrl": "https://venturebeat.com/2020/10/08/exer-labs-raises-2-million-and-launches-computer-vision-app-for-peloton-style-coached-workouts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/exer-4.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 621,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/08/exer-labs-raises-2-million-and-launches-computer-vision-app-for-peloton-style-coached-workouts/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/08/exer-labs-raises-2-million-and-launches-computer-vision-app-for-peloton-style-coached-workouts/amp/",
+      "publishedDateTime": "2020-10-08T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-grid-ai-raises-186m-series-a-to-help-ai-researchers-and-engineers-bring-their-models-to-production.md",
+      "title": "Grid AI raises $18.6M Series A to help AI researchers and engineers bring their models to production",
+      "excerpt": "Grid AI, a startup founded by the inventor of the popular open-source PyTorch Lightning project, William Falcon, that aims to help machine learning engineers more efficiently, today announced that it has raised an $18.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/08/grid-ai-raises-18-6m-series-a-to-help-ai-researchers-and-engineers-bring-their-models-to-production/",
+      "originalUrl": "https://techcrunch.com/2020/10/08/grid-ai-raises-18-6m-series-a-to-help-ai-researchers-and-engineers-bring-their-models-to-production/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1124444076.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/08/grid-ai-raises-18-6m-series-a-to-help-ai-researchers-and-engineers-bring-their-models-to-production/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/08/grid-ai-raises-18-6m-series-a-to-help-ai-researchers-and-engineers-bring-their-models-to-production/amp/",
+      "publishedDateTime": "2020-10-08T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-ex-aston-martin-ceo-palmer-joins-silicon-valley-slovakian-ai-battery-group.md",
+      "title": "Ex-Aston Martin CEO Palmer Joins Silicon Valley - Slovakian AI Battery Group",
+      "excerpt": "Discarded Aston Martin CEO Dr Andy Palmer has bounced back, joining a project to create a world-first artificial intelligence (AI) battery production center.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michaeltaylor/2020/10/08/ex-aston-martin-ceo-palmer-joins-silicon-valleyslovakian-ai-battery-group/",
+      "originalUrl": "https://www.forbes.com/sites/michaeltaylor/2020/10/08/ex-aston-martin-ceo-palmer-joins-silicon-valleyslovakian-ai-battery-group/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7ee032632d6eec4c53409c%2F0x0.jpg",
+          "width": 1200,
+          "height": 1808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michaeltaylor/2020/10/08/ex-aston-martin-ceo-palmer-joins-silicon-valleyslovakian-ai-battery-group/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeltaylor/2020/10/08/ex-aston-martin-ceo-palmer-joins-silicon-valleyslovakian-ai-battery-group/amp/",
+      "publishedDateTime": "2020-10-08T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-transparent-truths-about-ai-ethics-assessing-a-seven-point-set-of-principles-from-capgemini.md",
       "title": "Transparent truths about AI ethics - assessing a seven point set of principles from Capgemini",
       "excerpt": "Transparency isn't the silver bullet that's going to address every ethical concern around AI deployment, but it's an essential bedrock on which to build. (via Pixabay) With debate raging about bias and lack of diversity in teams and data sources and the growing risk of AI automating social problems or giving them a veneer of digital neutrality,",
@@ -102,7 +356,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/maxim-integrated-s-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-1029656759",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 110,
       "tags": null,
       "images": null,
       "type": "article",
@@ -278,59 +532,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-nvidia-promises-the-pervasiveness-of-ai-and-a-new-data-center-architecture.md",
-      "title": "Nvidia Promises The Pervasiveness Of AI And A New Data Center Architecture",
-      "excerpt": "Nvidia has developed a new SoC dubbed the Data Processing Unit (DPU) to offload the data management and security functions, which have increasingly become software functions, from the main server CPU to an intelligent Network Interface Card (NIC).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2020/10/07/nvidia-promises-the-pervasiveness-of-ai-and-a-new-data-center-architecture/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2020/10/07/nvidia-promises-the-pervasiveness-of-ai-and-a-new-data-center-architecture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7e2aeb0c6bb2981900699b%2F0x0.jpg",
-          "width": 1061,
-          "height": 739,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2020/10/07/nvidia-promises-the-pervasiveness-of-ai-and-a-new-data-center-architecture/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/10/07/nvidia-promises-the-pervasiveness-of-ai-and-a-new-data-center-architecture/amp/",
-      "publishedDateTime": "2020-10-07T14:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing",
-        "AI Hardware"
       ]
     },
     {
@@ -972,84 +1173,24 @@
     {
       "path": "_news/2020-10-07-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
       "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
-      "excerpt": "Artificial intelligence (AI) involves using computers ... deploying AI brains into the Waymo self-driving car business, and applying these technologies to medical research and weather forecasting.",
+      "excerpt": "Artificial intelligence (AI) involves using computers for tasks that normally require intelligent human behavior. AI systems can easily beat human grandmasters in chess, they have started to drive cars,",
       "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "originalUrl": "https://www.fool.com/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "webUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-10-07?time=1602083216",
+      "originalUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-10-07?time=1602083216",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F594319%2Fartificial-intelligence-digital-brain.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "publishedDateTime": "2020-10-07T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure.md",
-      "title": "Tamr Announces the Only Cloud-Native Data Mastering Solutions for Google Cloud Platform, AWS, and Microsoft Azure",
-      "excerpt": "PRNewswire/ -- Tamr, Inc., a cloud-native data mastering platform used by some of the world's largest enterprises",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
       "images": null,
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406",
-      "publishedDateTime": "2020-10-07T06:35:00-07:00",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-10-07?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-10-07?amp",
+      "publishedDateTime": "2020-10-07T07:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1058,152 +1199,7 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-sailthru-announces-new-machine-learning-testing-infrastructure.md",
-      "title": "Sailthru Announces New Machine Learning Testing Infrastructure",
-      "excerpt": "Stock quotes by finanzen.net NEW YORK, Oct. 07, 2020 (GLOBE NEWSWIRE) -- Sailthru, the leading personalized marketing automation technology provider for retailers and publishers, today announced a new investment in wide-scale testing infrastructure to make it easier for marketers to test copy and design assets that drive engagement and conversion.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sailthru-announces-new-machine-learning-testing-infrastructure-1029657213",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sailthru-announces-new-machine-learning-testing-infrastructure-1029657213",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-bespoken-spirits-raises-26m-in-seed-funding-to-combine-machine-learning-and-accelerated-whiskey-aging.md",
-      "title": "Bespoken Spirits raises $2.6M in seed funding to combine machine learning and accelerated whiskey aging",
-      "excerpt": "Bespoken Spirits, a Silicon Valley spirits company that has developed a new data-driven process to accelerate the aging of whiskey and create specific flavors, today announced that it has raised a $2.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/07/bespoken-spirits-raises-2-6m-in-seed-funding-to-combine-machine-learning-and-accelerated-whiskey-aging/",
-      "originalUrl": "https://techcrunch.com/2020/10/07/bespoken-spirits-raises-2-6m-in-seed-funding-to-combine-machine-learning-and-accelerated-whiskey-aging/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/Bespoken-Product-Shot-3.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/07/bespoken-spirits-raises-2-6m-in-seed-funding-to-combine-machine-learning-and-accelerated-whiskey-aging/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/07/bespoken-spirits-raises-2-6m-in-seed-funding-to-combine-machine-learning-and-accelerated-whiskey-aging/amp/",
-      "publishedDateTime": "2020-10-07T06:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-master-data-eats-ai-for-breakfast.md",
-      "title": "Master Data Eats AI For Breakfast",
-      "excerpt": "Not addressing master data issues ahead of any heavy investments in AI/ML can result in the significant rewiring of data in the ML training sets later and render any previous insights useless.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/07/master-data-eats-ai-for-breakfast/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/07/master-data-eats-ai-for-breakfast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f19b802c21b7f5ce847fa59%2F0x0.jpg",
-          "width": 1200,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/07/master-data-eats-ai-for-breakfast/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/07/master-data-eats-ai-for-breakfast/amp/",
-      "publishedDateTime": "2020-10-07T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     }

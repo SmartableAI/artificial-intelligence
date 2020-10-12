@@ -2,6 +2,174 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-10-03-bolstering-robotics-enterprise-potential-using-ai-applications.md",
+      "title": "Bolstering Robotics Enterprise Potential using AI Applications",
+      "excerpt": "Robots perform tasks like recognizing and grasping objects, automating its navigation and understanding human language with the unveiling of Artificial Intelligence (AI) applications in its system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/bolstering-robotics-enterprise-potential-using-ai-applications/",
+      "originalUrl": "https://www.analyticsinsight.net/bolstering-robotics-enterprise-potential-using-ai-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Robotics.jpeg",
+          "width": 2560,
+          "height": 1539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-03T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-03-iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india.md",
+      "title": "IIT Jodhpur Receives NVIDIA DGX A100 AI System in India",
+      "excerpt": "Education News: DGX A100 -- the world's most advanced AI system -- will be accessible to all students at the campus and will facilitate advanced AI research and educa",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/articleshow/78457955.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/articleshow/78457955.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-78457905/78457905.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/amp_articleshow/78457955.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/amp_articleshow/78457955.cms",
+      "publishedDateTime": "2020-10-02T22:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-simplify-data-management-with-new-apis-in-amazon-personalize.md",
+      "title": "Simplify data management with new APIs in Amazon Personalize",
+      "excerpt": "Amazon Personalize now makes it easier to manage your growing item and user catalogs with new APIs to incrementally add items and users in your datasets to create personalized recommendations. With the new putItems and putUsers APIs, you can simplify the process of managing your datasets. You no longer",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/simplify-data-management-with-new-apis-in-amazon-personalize/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/simplify-data-management-with-new-apis-in-amazon-personalize/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-02T16:00:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-03-parkland-parents-create-ai-video-of-slain-son-to-spur-voters.md",
+      "title": "Parkland parents create AI video of slain son to spur voters",
+      "excerpt": "This computer-generated image, taken from video created through artificial intelligence, released by Change The Ref/McCann Health, shows a depiction of Joaquin Oliver, a teenager killed in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.macon.com/news/business/technology/article246174850.html",
+      "originalUrl": "https://www.macon.com/news/business/technology/article246174850.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.macon.com/news/business/technology/article246174850.html",
+      "cdnAmpWebUrl": "https://amp-macon-com.cdn.ampproject.org/c/s/amp.macon.com/news/business/technology/article246174850.html",
+      "publishedDateTime": "2020-10-02T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Telegraph",
+        "domain": "macon.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-03-there-is-already-a-beer-created-by-artificial-intelligence.md",
       "title": "There is already a beer created by Artificial Intelligence",
       "excerpt": "To carry out this project, the creators chose the Indian Pale Ale type of beer. Technology has become a large part of our lives and with it Artificial Intelligence (AI) has intruded into our daily lives, so much so that with the help of it we have been ...",
@@ -983,203 +1151,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-alibaba-cloud-nears-profitability-as-customers-move-from-iaas-into-ai-data-analytics-workloads.md",
-      "title": "Alibaba Cloud nears profitability as customers move from IaaS into AI, data analytics workloads",
-      "excerpt": "Alibaba Cloud customers are moving into more demanding workloads and driving financial results. Even if Alibaba Cloud remains a mostly China cloud company it has a lot of revenue runway ahead.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/alibaba-cloud-nears-profitability-as-customers-move-from-iaas-into-ai-data-analytics-workloads/",
-      "originalUrl": "https://www.zdnet.com/article/alibaba-cloud-nears-profitability-as-customers-move-from-iaas-into-ai-data-analytics-workloads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/10/01/a2830110-7534-4682-ad13-fe18a31a80f6/alibaba-cloud-stack.png",
-          "width": 1163,
-          "height": 553,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/alibaba-cloud-nears-profitability-as-customers-move-from-iaas-into-ai-data-analytics-workloads/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alibaba-cloud-nears-profitability-as-customers-move-from-iaas-into-ai-data-analytics-workloads/",
-      "publishedDateTime": "2020-10-01T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-machine-learning-maximizes-email-marketing-roi-with-list-segmentation.md",
-      "title": "Machine Learning Maximizes Email Marketing ROI With List Segmentation",
-      "excerpt": "Your email marketing ROI can improve with the help of the superior list segmentation mechanisms that machine learning can provide.",
-      "sourceUrl": null,
-      "webUrl": "https://www.smartdatacollective.com/machine-learning-maximizes-email-marketing-roi-with-list-segmentation/",
-      "originalUrl": "https://www.smartdatacollective.com/machine-learning-maximizes-email-marketing-roi-with-list-segmentation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.smartdatacollective.com/wp-content/uploads/2020/09/email-marketing-roi.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.smartdatacollective.com/machine-learning-maximizes-email-marketing-roi-with-list-segmentation/amp/",
-      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/machine-learning-maximizes-email-marketing-roi-with-list-segmentation/amp/",
-      "publishedDateTime": "2020-10-01T12:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SmartData Collective",
-        "domain": "smartdatacollective.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-getting-started-with-aws-deepracer-community-races.md",
-      "title": "Getting started with AWS DeepRacer community races",
-      "excerpt": "AWS DeepRacer allows you to get hands-on with machine learning (ML) through a fully autonomous 1/18th scale race car driven by reinforcement learning, a 3D racing simulator on the AWS DeepRacer console, a global racing league, and hundreds of customer-initiated community races. With AWS DeepRacer community",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-aws-deepracer-community-races/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-aws-deepracer-community-races/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/01/1A-758x630.jpg",
-          "width": 758,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-01T12:19:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-onboarding-amazon-sagemaker-studio-with-aws-sso-and-okta-universal-directory.md",
-      "title": "Onboarding Amazon SageMaker Studio with AWS SSO and Okta Universal Directory",
-      "excerpt": "In 2019, AWS announced Amazon SageMaker Studio, a unified integrated development environment (IDE) for machine learning (ML) development. You can write code, track experiments, visualize data, and perform debugging and monitoring within a single, integrated visual interface. Amazon SageMaker Studio supports",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/onboarding-amazon-sagemaker-studio-with-aws-sso-and-okta-universal-directory/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/onboarding-amazon-sagemaker-studio-with-aws-sso-and-okta-universal-directory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/01/FeatureImage.jpg",
-          "width": 900,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-01T11:57:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

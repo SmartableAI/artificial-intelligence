@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-12-ai-and-machine-learning-provide-challenges-and-opportunities-for-data-center-architects.md",
+      "title": "AI And Machine Learning Provide Challenges And Opportunities For Data Center Architects",
+      "excerpt": "The ability to share high-speed NVMe flash storage resources can no longer match the performance required to effectively calculate that data in real time for AI+ML operations. Graphics processing (GPU) resources that can calculate data three-dimensionally ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/12/ai-and-machine-learning-provide-challenges-and-opportunities-for-data-center-architects/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/12/ai-and-machine-learning-provide-challenges-and-opportunities-for-data-center-architects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee37d1bb8beb90007c3a7d4%2F0x0.jpg",
+          "width": 1200,
+          "height": 833,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/12/ai-and-machine-learning-provide-challenges-and-opportunities-for-data-center-architects/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/12/ai-and-machine-learning-provide-challenges-and-opportunities-for-data-center-architects/amp/",
+      "publishedDateTime": "2020-10-12T04:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-10-12-robotic-interviews-machine-learning-and-the-future-of-workforce-recruitment.md",
+      "title": "Robotic Interviews, Machine Learning And the Future Of Workforce Recruitment",
+      "excerpt": "These would affect all aspects of HR functions such as the way HR professionals on-board and hire people, and the way they train them",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/357593",
+      "originalUrl": "https://www.entrepreneur.com/article/357593",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1602496955-artificial-intelligence-2167835.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/357593",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/357593",
+      "publishedDateTime": "2020-10-12T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-09-how-machine-learning-will-boost-5g-network-performance.md",
       "title": "How Machine Learning Will Boost 5G Network Performance",
       "excerpt": "Such a complex network requires a simplified solution, and deploying artificial intelligence (AI) and machine learning (ML) to solve these problems could be the solution carriers need to ensure they remain in control of their networks. AI/ML solutions ...",
@@ -240,7 +343,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/maxim-integrated-s-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-1029656759",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 110,
       "tags": null,
       "images": null,
       "type": "article",
@@ -840,19 +943,19 @@
     {
       "path": "_news/2020-10-06-explainable-ai-artificial-intelligence-xai-image-recognition-startup-won-us-air-force-space-challenge-competition-as-a-finalist.md",
       "title": "Explainable-AI (Artificial Intelligence - XAI) Image Recognition Startup Won US Air Force Space Challenge Competition, as a Finalist",
-      "excerpt": "PRNewswire/ -- Z Advanced Computing, Inc. (ZAC), a software startup, has won the prestigious \"Engage-Space Challenge\" competition by the US Air Force",
+      "excerpt": "Space Challenge” competition by the US Air Force (managed by AFWERX, for the space industry), as one of the 26 finalists, out of the original 800 teams (i.e., among about the top 4%). The teams included multi-billion dollar companies,",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/explainable-ai-artificial-intelligence---xai-image-recognition-startup-won-us-air-force-space-challenge-competition-as-a-finalist-301145180.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/explainable-ai-artificial-intelligence---xai-image-recognition-startup-won-us-air-force-space-challenge-competition-as-a-finalist-301145180.html",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-science-military-intelligence-artificial-intelligence-government-and-politics-81edd1787508e5af8e71c27b3f723f98",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-science-military-intelligence-artificial-intelligence-government-and-politics-81edd1787508e5af8e71c27b3f723f98",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1306837/ZAC_fig_for_PR_5Oct2020.jpg?p=facebook",
-          "width": 2339,
-          "height": 1226,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -864,8 +967,8 @@
       "publishedDateTime": "2020-10-05T10:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1286,99 +1389,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-dascena-presents-poster-highlighting-machine-learning-algorithm-for-earlier-detection-of-acs-at-hfsa-virtual-annual-scientific-meeting.md",
-      "title": "Dascena Presents Poster Highlighting Machine Learning Algorithm for Earlier Detection of ACS at HFSA Virtual Annual Scientific Meeting",
-      "excerpt": "Dascena, Inc., a machine learning diagnostic algorithm company that is targeting early disease intervention to improve patient care outcomes, today announced that a poster highlighting the ability of a Dascena machine learning algorithm to provide earlier identification of acute coronary syndrome (ACS) is being presented during the Heart Failure Society of American (HFSA) Virtual Annual Scientific Meeting 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-18da0831a4f14a069d5ddcde145cd914",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-18da0831a4f14a069d5ddcde145cd914",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-01T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-combining-machine-learning-tools-for-medical-imaging-with-genetic-sequencing-nets-sophia-genetics-110m.md",
-      "title": "Combining machine learning tools for medical imaging with genetic sequencing nets Sophia Genetics $110M",
-      "excerpt": "SOPHiA GENETICS, the shoutily and poorly capitalized-named startup that’s combining machine learning tools for medical imaging and genetic sequencing to come up with a more holistic view of diseases for better patient care,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/01/combining-machine-learning-tools-for-medical-imaging-with-genetic-sequencing-nets-sophia-genetics-110m/",
-      "originalUrl": "https://techcrunch.com/2020/10/01/combining-machine-learning-tools-for-medical-imaging-with-genetic-sequencing-nets-sophia-genetics-110m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/08/GettyImages-552163301-mri.jpg?w=1024",
-          "width": 1024,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/01/combining-machine-learning-tools-for-medical-imaging-with-genetic-sequencing-nets-sophia-genetics-110m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/01/combining-machine-learning-tools-for-medical-imaging-with-genetic-sequencing-nets-sophia-genetics-110m/amp/",
-      "publishedDateTime": "2020-10-01T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
