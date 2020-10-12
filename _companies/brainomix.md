@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "brainomix"
   url: "https://www.twitter.com/brainomix"
-  followers: 828
+  followers: 827
 
 size: 11-50 employees
 yearFounded: 2010
@@ -29,7 +29,7 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1229789886275825666/KO4RTVpi_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1315593233292984320/KUX4eIkB_400x400.jpg"
     width: 400
     height: 400
     isCached: true
