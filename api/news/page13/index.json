@@ -2,6 +2,224 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-09-29-british-billionaire-jim-mellon-plans-to-take-his-life-extension-start-up-public-in-six-to-12-months.md",
+      "title": "British billionaire Jim Mellon plans to take his life extension start-up public in six to 12 months",
+      "excerpt": "British billionaire Jim Mellon is planning to take his life extension company coupublic in the next six to 12 months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/09/29/billionaire-jim-mellon-plans-to-take-life-extension-start-up-public.html",
+      "originalUrl": "https://www.cnbc.com/2020/09/29/billionaire-jim-mellon-plans-to-take-life-extension-start-up-public.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104911349-GettyImages-872029500.jpg?v=1532563709",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/09/29/billionaire-jim-mellon-plans-to-take-life-extension-start-up-public.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/29/billionaire-jim-mellon-plans-to-take-life-extension-start-up-public.html",
+      "publishedDateTime": "2020-09-29T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-doc-rivers-ousted-from-clippers-social-media-reacts-to-shocking-decision.md",
+      "title": "Doc Rivers ousted from Clippers, social media reacts to shocking decision",
+      "excerpt": "Clippers reporter Mirjam Swanson confirmed the bombshell news on Monday that the Clippers have fired head coach Doc Rivers. The Clippers blew a 3-1 series lead in the second round of the Western Conference playoffs against the Denver Nuggets,",
+      "sourceUrl": null,
+      "webUrl": "https://inside-com.breezy.hr/",
+      "originalUrl": "https://www.mercurynews.com/2020/09/29/social-media-reaction-to-the-shocking-firing-of-clippers-coach-doc-rivers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://breezy-social-images.imgix.net/442d93c02549/social-portal.png?auto=format&h=600",
+          "width": 1143,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-29T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mercury News",
+        "domain": "mercurynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-amazon-wants-you-to-pay-with-a-wave-of-your-hand.md",
+      "title": "Amazon wants you to pay with a wave of your hand",
+      "excerpt": "Amazon said in June that it would temporarily stop selling its Rekognition software to police. When it comes to Amazon One data, Kumar said the company isn't storing any information locally on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnnphilippines.com/business/2020/9/29/Amazon-pay-with-wave-of-hand-.html",
+      "originalUrl": "https://www.cnnphilippines.com/business/2020/9/29/Amazon-pay-with-wave-of-hand-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://cnnphilippines.com/.imaging/mte/demo-cnn-new/750x450/dam/cnn/2020/9/29/Amazon-One_CNNPH.jpg/jcr:content/Amazon-One_CNNPH.jpg",
+          "width": 750,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-29T02:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN Philippines",
+        "domain": "cnnphilippines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-microsoft-launches-azure-for-operators-cloud-initiative.md",
+      "title": "Microsoft launches Azure for Operators cloud initiative",
+      "excerpt": "Microsoft has announced the launch of Azure for Operators, an initiative aimed at network operators that it says will expand connectivity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rapidtvnews.com/2020092959120/microsoft-launches-azure-for-operators-cloud-initiative.html",
+      "originalUrl": "https://www.rapidtvnews.com/2020092959120/microsoft-launches-azure-for-operators-cloud-initiative.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.rapidtvnews.com/2020092959120/microsoft-launches-azure-for-operators-cloud-initiative.amp.html",
+      "cdnAmpWebUrl": "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2020092959120/microsoft-launches-azure-for-operators-cloud-initiative.amp.html",
+      "publishedDateTime": "2020-09-29T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rapid TV",
+        "domain": "rapidtvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-deep-neural-networks-market-booming-worldwide-with-leading-players-google-oracle-microsoft-ibm.md",
+      "title": "Deep Neural Networks Market Booming Worldwide with leading Players Google, Oracle, Microsoft, IBM",
+      "excerpt": "Global Deep Neural Networks Market The global Deep Neural Networks Market size was valued at USD 1.26 Billion in 2019 and is anticipated to reach USD 5.98 Billion by 2027 at a CAGR of 21.4%. The global neural networks market is growing predominantly as the demand for implementing the deep neural network in healthcare and BFSI sectors are flourishing extensively.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-neural-networks-market-booming-worldwide-with-leading-players-google-oracle-microsoft-ibm-2020-09-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-neural-networks-market-booming-worldwide-with-leading-players-google-oracle-microsoft-ibm-2020-09-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-29T01:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-future-demand-market-analysis-outlook-for-2027.md",
       "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market: Future Demand, Market Analysis & Outlook for 2027",
       "excerpt": "Industry Analysis of the Natural Language Processing NLP in Healthcare and Life Sciences Market Report 2020 2027 Global Natural Language Processing NLP in Healthcare and Life Sciences market has been leaning towards the growth curve and contributing to the global",
@@ -954,250 +1172,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-study-indicates-neither-algorithmic-differences-nor-diverse-data-sets-solve-facial-recognition-bias.md",
-      "title": "Study indicates neither algorithmic differences nor diverse data sets solve facial recognition bias",
-      "excerpt": "Facial recognition models fail to recognize Black, Middle Eastern, and Latino people more often than those with lighter skin. That’s according to a study by researchers at Witchita State ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/28/study-indicates-neither-algorithmic-differences-nor-diverse-data-sets-solve-facial-recognition-bias/",
-      "originalUrl": "https://venturebeat.com/2020/09/28/study-indicates-neither-algorithmic-differences-nor-diverse-data-sets-solve-facial-recognition-bias/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/biometrics-e1601309807874.jpg?w=1200&#038;strip=all",
-          "width": 1198,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/28/study-indicates-neither-algorithmic-differences-nor-diverse-data-sets-solve-facial-recognition-bias/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/28/study-indicates-neither-algorithmic-differences-nor-diverse-data-sets-solve-facial-recognition-bias/amp/",
-      "publishedDateTime": "2020-09-28T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-cogniac-raises-10-million-for-ai-that-spots-visual-changes-for-industrial-and-government-uses.md",
-      "title": "Cogniac raises $10 million for AI that spots visual changes for industrial and government uses",
-      "excerpt": "Cogniac, a startup developing technology for visual task ... per day. Cogniac’s AI platform has customers connect machine vision cameras, security cameras, drones, smartphones, and other sources ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/28/cogniac-raises-10-million-for-ai-that-spots-visual-changes-for-industrial-and-government-uses/",
-      "originalUrl": "https://venturebeat.com/2020/09/28/cogniac-raises-10-million-for-ai-that-spots-visual-changes-for-industrial-and-government-uses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/cogniac-feedback2-c61ea7568402df6e15d7bf52a568b012-e1601052079248.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/28/cogniac-raises-10-million-for-ai-that-spots-visual-changes-for-industrial-and-government-uses/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/28/cogniac-raises-10-million-for-ai-that-spots-visual-changes-for-industrial-and-government-uses/amp/",
-      "publishedDateTime": "2020-09-28T09:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-azure-databricks-previews-parallelized-proton-query-engine.md",
-      "title": "Azure Databricks previews parallelized Proton query engine",
-      "excerpt": "Microsoft has unveiled a preview of a C++-based vectorized query engine for the Azure Databricks cloud analytics and AI service based on Apache Spark. Azure Databricks, which is delivered in partnership with Databricks, introduced the Photon-powered ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3583657/azure-databricks-previews-parallelized-proton-query-engine.html",
-      "originalUrl": "https://www.infoworld.com/article/3583657/azure-databricks-previews-parallelized-proton-query-engine.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/01/spark-on-the-globe-shutterstock_7869750551-100827145-large.jpg",
-          "width": 1200,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3583657/azure-databricks-previews-parallelized-proton-query-engine.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3583657/azure-databricks-previews-parallelized-proton-query-engine.amp.html",
-      "publishedDateTime": "2020-09-28T09:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-mental-health-startup-equoo-will-be-distributed-by-unilever-in-new-global-youth-campaign.md",
-      "title": "Mental health startup eQuoo will be distributed by Unilever in new global youth campaign",
-      "excerpt": "Last December (yes, in the before-times) UK-based mental health startup eQuoo had a round of announcements, becoming the NHS approved mental health game, as well as signing Barmer, the largest insurance company in Germany,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/28/mental-health-startup-equoo-will-be-distributed-by-unilever-in-new-global-youth-campaign/",
-      "originalUrl": "https://techcrunch.com/2020/09/28/mental-health-startup-equoo-will-be-distributed-by-unilever-in-new-global-youth-campaign/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/HandPhone04.jpg?w=661",
-          "width": 661,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/28/mental-health-startup-equoo-will-be-distributed-by-unilever-in-new-global-youth-campaign/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/28/mental-health-startup-equoo-will-be-distributed-by-unilever-in-new-global-youth-campaign/amp/",
-      "publishedDateTime": "2020-09-28T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-uk-and-us-marked-down-on-responsible-ai.md",
-      "title": "UK and US marked down on responsible AI",
-      "excerpt": "The UK and US have been rated as leaders in government use of artificial intelligence, but the Nordics and Baltics attained the highest scores for responsible AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252489721/UK-and-US-marked-down-on-responsible-AI",
-      "originalUrl": "https://www.computerweekly.com/news/252489721/UK-and-US-marked-down-on-responsible-AI",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ttgtmedia.com/visuals/German/article/artificial-intelligence-brain-2-adobe.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/252489721/UK-and-US-marked-down-on-responsible-AI?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252489721/UK-and-US-marked-down-on-responsible-AI?amp=1",
-      "publishedDateTime": "2020-09-28T07:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

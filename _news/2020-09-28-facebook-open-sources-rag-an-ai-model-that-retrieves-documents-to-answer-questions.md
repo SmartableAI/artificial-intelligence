@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - Facebook AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/06/moderator-e1591354274848.jpeg?w=1200&#038;strip=all"

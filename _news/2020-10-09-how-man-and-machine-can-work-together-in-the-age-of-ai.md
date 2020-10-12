@@ -75,20 +75,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The State of AI in Higher Education"
-    excerpt: "Both industry and higher ed experts see opportunities and risk, hype and reality with AI for teaching and learning."
-    publishedDateTime: 2020-10-09T16:34:00Z
-    webUrl: "https://campustechnology.com/articles/2020/10/09/the-state-of-ai-in-higher-education.aspx"
-    type: article
-    provider:
-      name: Campus Technology
-      domain: campustechnology.com
-    quality: 41
-    images:
-      - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/2020-images/20201009ai.jpg"
-        width: 644
-        height: 300
-        isCached: true
   - title: "How Do We Accelerate Endpoint AI Innovation? Put Developers First"
     excerpt: "Dipti Vachani reveals how together with Microsoft, Arm is optimizing the developer experience with streamlined, scalable tools that put creativity first"
     publishedDateTime: 2020-10-08T15:58:00Z

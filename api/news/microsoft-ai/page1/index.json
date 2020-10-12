@@ -2,34 +2,188 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-10-09-microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices.md",
-      "title": "Microsoft parteners chip maker Arm to boost AI innovation for IoT devices",
-      "excerpt": "SoftBank-owned UK chip maker Arm has partnered with Microsoft to create Azure-based tools to enable developers transfer data from Arm-based Internet of Things (IoT) devices to Azure Cloud",
+      "path": "_news/2020-10-12-microsoft-partners-with-team-gleason-to-build-a-computer-vision-dataset-for-als.md",
+      "title": "Microsoft partners with Team Gleason to build a computer vision dataset for ALS",
+      "excerpt": "The organizations hope to foster innovation in computer vision and broaden the potential for connectivity and communication for people with accessibility challenges. Microsoft and Team Gleason ...",
       "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html",
-      "originalUrl": "https://www.business-standard.com/article/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html",
+      "webUrl": "https://venturebeat.com/2020/10/12/microsoft-partners-with-team-gleason-to-build-a-computer-vision-dataset-for-als/",
+      "originalUrl": "https://venturebeat.com/2020/10/12/microsoft-partners-with-team-gleason-to-build-a-computer-vision-dataset-for-als/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 160,
+      "heat": 172,
       "tags": null,
       "images": [
         {
-          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-09/29/full/1601348370-9773.jpg&width=1200",
+          "url": "https://venturebeat.com/wp-content/uploads/2018/07/microsoft-logo.jpg?w=1200&#038;strip=all",
           "width": 1200,
-          "height": 900,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html",
-      "publishedDateTime": "2020-10-08T22:56:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2020/10/12/microsoft-partners-with-team-gleason-to-build-a-computer-vision-dataset-for-als/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/12/microsoft-partners-with-team-gleason-to-build-a-computer-vision-dataset-for-als/amp/",
+      "publishedDateTime": "2020-10-12T08:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-12-shrinking-the-data-desert-inside-efforts-to-make-ai-systems-more-inclusive-of-people-with-disabilities.md",
+      "title": "Shrinking the ‘data desert’: Inside efforts to make AI systems more inclusive of people with disabilities",
+      "excerpt": "The post Shrinking the ‘data desert’: Inside efforts to make AI systems more inclusive of people with disabilities appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://blogs.microsoft.com/ai/shrinking-the-data-desert/",
+      "originalUrl": "https://blogs.microsoft.com/ai/shrinking-the-data-desert/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/10/VizWiz_val_00002306-2-1920x1080-1-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-12T07:45:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-10-microsofts-cecily-morrison-awarded-mbe-for-services-to-inclusive-design.md",
+      "title": "Microsoft’s Cecily Morrison awarded MBE for services to inclusive design",
+      "excerpt": "The post Microsoft’s Cecily Morrison awarded MBE for services to inclusive design appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://news.microsoft.com/en-gb/2020/10/10/microsofts-cecily-morrison-awarded-mbe-for-services-to-inclusive-design/",
+      "originalUrl": "https://news.microsoft.com/en-gb/2020/10/10/microsofts-cecily-morrison-awarded-mbe-for-services-to-inclusive-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/10/Cecily1-scaled.jpg",
+          "width": 1961,
+          "height": 2560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-10T08:36:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-microsoft-365-to-get-big-nvidia-ai-editing-boost.md",
+      "title": "Microsoft 365 to get big Nvidia AI-editing boost",
+      "excerpt": "Nvidia talked up plans to work with Microsoft to add its AI to Microsoft 365. For this columnist, that would be most welcome news.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3584779/microsoft-365-to-get-big-nvidia-ai-editing-boost.html",
+      "originalUrl": "https://www.computerworld.com/article/3584779/microsoft-365-to-get-big-nvidia-ai-editing-boost.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_robot_touch_human_hand_by_kentoh_gettyimages_1060703206-100817766-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3584779/microsoft-365-to-get-big-nvidia-ai-editing-boost.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3584779/microsoft-365-to-get-big-nvidia-ai-editing-boost.amp.html",
+      "publishedDateTime": "2020-10-08T15:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -39,9 +193,11 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "AI in Robotics",
         "AI",
-        "Microsoft AI"
+        "Microsoft AI",
+        "IBM AI",
+        "AI Hardware"
       ]
     },
     {
@@ -1255,132 +1411,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.md",
-      "title": "Microsoft Ignite showcases first Project Cortex AI tool for SharePoint",
-      "excerpt": "Civil engineering firm Mott McDonald has been testing SharePoint Syntex, the first product to come out of Microsoft’s Project Cortex proving ground for AI-based content management tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.html",
-      "originalUrl": "https://www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/09/multiple-exposure_profile_with_gears_overlaying_and_representing_the_brain_thought_intelligence_brainstorming_strategy_by_metamorworks_gettyimages-994767724_2400x1600-100858219-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.amp.html",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.amp.html",
-      "publishedDateTime": "2020-09-24T18:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-microsoft-announces-azure-communication-services.md",
-      "title": "Microsoft announces Azure Communication Services",
-      "excerpt": "It also enables developers to easily tap into other Azure services, such as Azure Cognitive Services for ... and GDPR (in the EU),\" Microsoft said in a statement on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sify.com/finance/microsoft-announces-azure-communication-services-news-topnews-ujyeO9fgegihh.html",
-      "originalUrl": "https://www.sify.com/finance/microsoft-announces-azure-communication-services-news-topnews-ujyeO9fgegihh.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sify.com/uploads/microsoft_ap_uitr0fihdhehb.jpeg",
-          "width": 950,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-24T03:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure.md",
-      "title": "Jumio Unveils Identity Verification With Biometrics For Microsoft Azure",
-      "excerpt": "California-based Jumio said its artificial intelligence (AI)-fueled identity verification offerings are now available to Microsoft Azure Active Directory External Identities for business-to-consumer (B2C) clients. The technology allows for a biometric and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/",
-      "originalUrl": "https://www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2020/09/identity-verification-artifical-intelligence-457x305.jpg",
-          "width": 457,
-          "height": 305,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/amp/",
-      "publishedDateTime": "2020-09-23T12:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

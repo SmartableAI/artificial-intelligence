@@ -2,6 +2,144 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-01-tech-moves-former-amazon-vp-brad-porter-joins-scale-ai-as-cto-uw-names-new-communication-leadership-director-and-more.md",
+      "title": "Tech Moves: Former Amazon VP Brad Porter joins Scale AI as CTO; UW names new Communication Leadership director; and more",
+      "excerpt": "Brad Porter, the longtime Amazon robotics leader, has surfaced as the first chief technology officer of Scale AI, a San Francisco-based company seeking to accelerate the development of",
+      "sourceUrl": null,
+      "webUrl": "https://mobile.twitter.com/bradporter_?lang=en",
+      "originalUrl": "https://www.geekwire.com/2020/tech-moves-former-amazon-vp-brad-porter-joins-scale-ai-cto-uw-names-new-communication-leadership-director/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-31T13:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-01-facebook-open-sources-opacus-a-pytorch-library-for-differential-privacy.md",
+      "title": "Facebook open-sources Opacus, a PyTorch library for differential privacy",
+      "excerpt": "Facebook's Opacus is a library for training PyTorch models with differential privacy that’s ostensibly more scalable than existing state-of-the-art methods.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/31/facebook-open-sources-opacus-a-pytorch-library-for-differential-privacy/",
+      "originalUrl": "https://venturebeat.com/2020/08/31/facebook-open-sources-opacus-a-pytorch-library-for-differential-privacy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/moderator-e1591354274848.jpeg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/31/facebook-open-sources-opacus-a-pytorch-library-for-differential-privacy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/31/facebook-open-sources-opacus-a-pytorch-library-for-differential-privacy/amp/",
+      "publishedDateTime": "2020-08-31T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Google AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-31-infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event.md",
+      "title": "Infoworks DataFoundry to be Featured at Databricks Microsoft Azure Event",
+      "excerpt": "Unifying Data Pipelines, Business Analytics and Machine Learning with Apache Spark ... production environments from Hadoop to Microsoft Azure Databricks. “AMN has realized significant ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.oaoa.com/news/business/infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event/article_17bbac33-e0ae-5641-a446-99481cb5d234.html",
+      "originalUrl": "https://www.oaoa.com/news/business/infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event/article_17bbac33-e0ae-5641-a446-99481cb5d234.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png",
+          "width": 576,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-31T09:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Odessa American",
+        "domain": "oaoa.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-31-microsoft-azure-now-available-at-swisscom-cloud-portfolio-for-smes.md",
       "title": "Microsoft Azure now available at Swisscom cloud portfolio for SMEs",
       "excerpt": "(PRESS RELEASE) BERN, 31-Aug-2020 — /EuropaWire/ — Swisscom (SWX: SCMN), a major telecommunications provider in Switzerland majority owned by the Swiss Go",

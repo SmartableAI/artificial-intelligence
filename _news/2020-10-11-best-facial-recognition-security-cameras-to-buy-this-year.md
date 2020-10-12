@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-securit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-to-buy-this-year/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       - url: "https://www.dailyexcelsior.com/wp-content/uploads/2020/10/11-11.jpg"
         width: 1000
         height: 668
-        isCached: true
-  - title: "Facial recognition tested for Aadhaar authentication to financial services"
-    excerpt: "Pilots of face biometrics for Aadhaar authentication to financial services are being carried out by the Unique Identification Authority of India (UIDAI), Medianama reports. The pilot, being"
-    publishedDateTime: 2020-10-07T22:15:00Z
-    webUrl: "https://www.biometricupdate.com/202010/facial-recognition-tested-for-aadhaar-authentication-to-financial-services"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 37
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-        width: 1600
-        height: 1035
         isCached: true
 
 secured: "pPWplSwkTyRn4akUDTw2TeJMryl7tilwptnH2zDZQm72s1rSOXRJov5FCC1NPXLuk0zo3K9CgzwN+isP6OoErCO3p8p5icg9lAMxDAyTJgVbK2JULFm+5D7t4pxfYoU6pByTFYAOAtq0L0MpzWMiA6c8Tk/8ZsGddxzsqe14RUJzrseQd8i8If665Ddn5uYZE+c+5trQjNxETDhjfn5TfEVUM6xpyq+FYPSyOAkr52lqVOTdlNlDZ+fgKchk2KPSzI898OW2hKNjl/jLs/ueSqvONkLWmbzJEmuiD+QjSKoZjYGtyXP967b5+W9QbX6Uj5EO+j6c1gIhxAoRc6DfLK3gpBpz69bPZPhNh5HqKauz3DdmgrC5zORbTN09Sa0rW5T7+NT4by9wgzAHAeHlnRAkdsYkzR1TO9pCkURn7eQHeXyM9omb4b3vLOZliaiWDDqEvSkbRzNZrOzeo032t3tfwo/JEvO9rnFfqRBMyovmKsP+fWG6JP35vdVumq/5zvPHD4WX5QlMTGALi0EAwQ==;pVL2nCcn6TTBAdcnyzlT8w=="

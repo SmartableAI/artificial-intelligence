@@ -1,25 +1,26 @@
 ---
 category: news
 title: "Explainable-AI (Artificial Intelligence - XAI) Image Recognition Startup Won US Air Force Space Challenge Competition, as a Finalist"
-excerpt: "PRNewswire/ -- Z Advanced Computing, Inc. (ZAC), a software startup, has won the prestigious \"Engage-Space Challenge\" competition by the US Air Force"
+excerpt: "Space Challenge” competition by the US Air Force (managed by AFWERX, for the space industry), as one of the 26 finalists, out of the original 800 teams (i.e., among about the top 4%). The teams included multi-billion dollar companies,"
 publishedDateTime: 2020-10-05T17:12:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/explainable-ai-artificial-intelligence---xai-image-recognition-startup-won-us-air-force-space-challenge-competition-as-a-finalist-301145180.html"
-webUrl: "https://www.prnewswire.com/news-releases/explainable-ai-artificial-intelligence---xai-image-recognition-startup-won-us-air-force-space-challenge-competition-as-a-finalist-301145180.html"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-military-intelligence-artificial-intelligence-government-and-politics-81edd1787508e5af8e71c27b3f723f98"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-military-intelligence-artificial-intelligence-government-and-politics-81edd1787508e5af8e71c27b3f723f98"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1306837/ZAC_fig_for_PR_5Oct2020.jpg?p=facebook"
-    width: 2339
-    height: 1226
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "xbex/V7X5gous2/qqf8w/By26pbLIc+g1LF+eiFqxrn+ErH6Rf7bfOrf/uvYdCFd7Qr+z5Ac1sRqRwRM3jD8ZGUZ+VfBySracmRRzjj2AoamULmIKe+LMQIjraTCQtZr0kfPINEzlys4AzjNGGMxMcC+v4x/XB+NzB9po0TqpRaBtG9nEP3Qsjt88ttWCKPU5hWV5Za0/oGJ99kBAgzkMdGvQSP5uQb2mOLsbwLZczsCnyhArftGNFyEZs6Vvb+CGnwWrXWcQ8cLKnNs4xDjgOOHd9Y2wVbj5Cwt/eC+TMx1YVAO6b9QAZn1Kof2NAs8PxFkfh/meBtn1EwWVaTJhl8QjPOKia5iBZEpKhHCuys=;tlk+qwy/0B/uxZZn347IUg=="
+secured: "9JfgQX7RM4KNeUFMOSVhkimFmPjD/mbGB4kYtRWjdZk2wA33D8Q0+afYgzOFxQiIbv4nCBhVAjcXQP4pMFiwHItkM3vI9hk277ytsfcksyUPxgnuIy5ghigE4i0b368UmT4ldw1/9cVyHR9Q+Yc+VfG12ezM+Vu9xrxeaFJKv0hKa3Pf5o+n31i7XHlyzIIJqmHpT14yVTBBTjczDOWb+kv9GQCdoX+QQhiQSgCPfv00wZVxik7zcNUGJ0yROxj1Kw60DA5DtqvN55DDhRHEDMaEFV6j3cHlKPZCC/YLYTxvsGpWXJ0zm1VT/BIK4PiqM52cpp7E0a6OYIPNif6wDfeNz/pUg/cCHlc6IJXXJQI=;SIT5+SlmBYjX1Bef9K80nA=="
 ---
 

@@ -2,6 +2,251 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-10-01-ford-cfo-tim-stone-to-leave-company.md",
+      "title": "Ford CFO Tim Stone to Leave Company",
+      "excerpt": "Mr. Stone, 53 years old, will join ASAPP Inc., an artificial-intelligence software company ... who most recently has been leading Ford’s driverless-car efforts. Mr. Stone’s departure for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ford-cfo-tim-stone-to-leave-company-11601554355",
+      "originalUrl": "https://www.wsj.com/articles/ford-cfo-tim-stone-to-leave-company-11601554355",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-239160/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ford-cfo-tim-stone-to-leave-company-11601554355",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ford-cfo-tim-stone-to-leave-company-11601554355",
+      "publishedDateTime": "2020-10-01T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-how-the-pandemic-has-reshaped-ai-robotics-and-automation.md",
+      "title": "How the pandemic has reshaped AI, robotics, and automation",
+      "excerpt": "Tonya Hall talks with Dr. Kate Darling, research specialist at the MIT Media Lab, to learn more about how the future of AI, robotics, and automation was reshaped following the COVID-19 pandemic outbreak.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/how-the-pandemic-has-reshaped-ai-robotics-and-automation/",
+      "originalUrl": "https://www.zdnet.com/video/how-the-pandemic-has-reshaped-ai-robotics-and-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/10/01/46c45d69-b545-4832-8436-707c403c6393/thumbnail/370x278/f9e6564e767b3b87b7f3eb35bb3c3e1a/20201001-j2-google.jpg",
+          "width": 370,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-01T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-dascena-presents-poster-highlighting-machine-learning-algorithm-for-earlier-detection-of-acs-at-hfsa-virtual-annual-scientific-meeting.md",
+      "title": "Dascena Presents Poster Highlighting Machine Learning Algorithm for Earlier Detection of ACS at HFSA Virtual Annual Scientific Meeting",
+      "excerpt": "Dascena, Inc., a machine learning diagnostic algorithm company that is targeting early disease intervention to improve patient care outcomes, today announced that a poster highlighting the ability of a Dascena machine learning algorithm to provide earlier identification of acute coronary syndrome (ACS) is being presented during the Heart Failure Society of American (HFSA) Virtual Annual Scientific Meeting 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-18da0831a4f14a069d5ddcde145cd914",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-18da0831a4f14a069d5ddcde145cd914",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-01T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-ibm-open-sources-ai-for-optimizing-satellite-communications-and-predicting-space-debris-trajectories.md",
+      "title": "IBM open-sources AI for optimizing satellite communications and predicting space debris trajectories",
+      "excerpt": "IBM has open-sourced projects designed to help optimize small satellite communications and predict the trajectories of space junk.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/01/ibm-open-sources-ai-for-optimizing-satellite-communications-and-predicting-space-debris-trajectories/",
+      "originalUrl": "https://venturebeat.com/2020/10/01/ibm-open-sources-ai-for-optimizing-satellite-communications-and-predicting-space-debris-trajectories/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/nano-satellites-kineis-e1580987091588.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/01/ibm-open-sources-ai-for-optimizing-satellite-communications-and-predicting-space-debris-trajectories/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/01/ibm-open-sources-ai-for-optimizing-satellite-communications-and-predicting-space-debris-trajectories/amp/",
+      "publishedDateTime": "2020-10-01T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-combining-machine-learning-tools-for-medical-imaging-with-genetic-sequencing-nets-sophia-genetics-110m.md",
+      "title": "Combining machine learning tools for medical imaging with genetic sequencing nets Sophia Genetics $110M",
+      "excerpt": "SOPHiA GENETICS, the shoutily and poorly capitalized-named startup that’s combining machine learning tools for medical imaging and genetic sequencing to come up with a more holistic view of diseases for better patient care,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/01/combining-machine-learning-tools-for-medical-imaging-with-genetic-sequencing-nets-sophia-genetics-110m/",
+      "originalUrl": "https://techcrunch.com/2020/10/01/combining-machine-learning-tools-for-medical-imaging-with-genetic-sequencing-nets-sophia-genetics-110m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/08/GettyImages-552163301-mri.jpg?w=1024",
+          "width": 1024,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/01/combining-machine-learning-tools-for-medical-imaging-with-genetic-sequencing-nets-sophia-genetics-110m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/01/combining-machine-learning-tools-for-medical-imaging-with-genetic-sequencing-nets-sophia-genetics-110m/amp/",
+      "publishedDateTime": "2020-10-01T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-01-google-photos-gets-smarter-ai-powered-editor.md",
       "title": "Google Photos gets smarter, AI-powered editor",
       "excerpt": "Google rolled out a new version of the photo editor in the Google Photos app on Android. It uses machine learning to give you suggestions on how to fix a photo, which you can apply with one tap. Google says more suggestions are coming to Pixel devices in the coming months,",
@@ -929,243 +1174,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-pixel-5-fails-to-live-up-to-googles-ai-showcase-device.md",
-      "title": "Pixel 5 fails to live up to Google’s AI showcase device",
-      "excerpt": "During its Launch Night In event, Google took the wraps off of two new midrange smartphones: the Pixel 5 and Pixel 4a (5G).",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/30/pixel-5-fails-to-live-up-to-googles-ai-showcase-device/",
-      "originalUrl": "https://venturebeat.com/2020/09/30/pixel-5-fails-to-live-up-to-googles-ai-showcase-device/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/7c13bc17-bc3c-4b4e-89e9-316e4bce3df1-e1601487811424.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/30/pixel-5-fails-to-live-up-to-googles-ai-showcase-device/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/30/pixel-5-fails-to-live-up-to-googles-ai-showcase-device/amp/",
-      "publishedDateTime": "2020-09-30T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-as-ai-chips-improve-is-tops-the-best-way-to-measure-their-power.md",
-      "title": "As AI chips improve, is TOPS the best way to measure their power?",
-      "excerpt": "There's more to understanding the performance of AI-capable chips than just a single summary number, even if that's what chipmakers are marketing to users.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/30/as-ai-chips-improve-is-tops-the-best-way-to-measure-their-power/",
-      "originalUrl": "https://venturebeat.com/2020/09/30/as-ai-chips-improve-is-tops-the-best-way-to-measure-their-power/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/5thgenaiengine-e1601490960504.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/30/as-ai-chips-improve-is-tops-the-best-way-to-measure-their-power/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/30/as-ai-chips-improve-is-tops-the-best-way-to-measure-their-power/amp/",
-      "publishedDateTime": "2020-09-30T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-from-microsoft-vp-to-law-student-what-this-execs-career-transition-says-about-ai-and-the-law.md",
-      "title": "From Microsoft VP to law student: What this exec’s career transition says about AI and the law",
-      "excerpt": "Mike Angiulo worked at Microsoft for 25 years as an engineering manager and vice president for products including Windows PCs, Microsoft Outlook, Xbox, Surface, and cloud and artificial",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/microsoft-vp-law-student-execs-career-transition-says-ai-law/",
-      "originalUrl": "https://www.geekwire.com/2020/microsoft-vp-law-student-execs-career-transition-says-ai-law/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/09/mike-angiulo-2-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-vp-law-student-execs-career-transition-says-ai-law/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-vp-law-student-execs-career-transition-says-ai-law/amp/",
-      "publishedDateTime": "2020-09-30T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-vmware-embraces-nvidia-gpus-dpus-to-drive-enterprise-ai.md",
-      "title": "VMware Embraces Nvidia GPUs, DPUs To Drive Enterprise AI",
-      "excerpt": "AI is too hard for most enterprises to adopt, just like HPC was and continues to be. The search for “easy AI” – solutions that will reduce the costs and",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2020/09/30/vmware-embraces-nvidia-gpus-to-drive-enterprise-ai/",
-      "originalUrl": "https://www.nextplatform.com/2020/09/30/vmware-embraces-nvidia-gpus-to-drive-enterprise-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/VMware-CEOs.png",
-          "width": 1061,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2020/09/30/vmware-embraces-nvidia-gpus-to-drive-enterprise-ai/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/09/30/vmware-embraces-nvidia-gpus-to-drive-enterprise-ai/amp/",
-      "publishedDateTime": "2020-09-30T14:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-baidu-fundraising-puts-3bn-value-on-smart-device-business.md",
-      "title": "Baidu fundraising puts $3bn value on smart device business",
-      "excerpt": "HONG KONG -- Chinese web search leader Baidu has brought in outside investors for its voice assistant and smart device business, setting the stage for a potential spinoff while valuing the ...",
-      "sourceUrl": null,
-      "webUrl": "https://asia.nikkei.com/Business/China-tech/Baidu-fundraising-puts-3bn-value-on-smart-device-business",
-      "originalUrl": "https://asia.nikkei.com/Business/China-tech/Baidu-fundraising-puts-3bn-value-on-smart-device-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F0%252F8%252F9%252F2%252F29672980-3-eng-GB%252FCropped-1601453378RTX7JFB8.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NIKKEI",
-        "domain": "nikkei.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

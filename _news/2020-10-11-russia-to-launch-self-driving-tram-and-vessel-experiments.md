@@ -57,6 +57,22 @@ related:
         width: 1820
         height: 834
         isCached: true
+  - title: "Tesla will release 'Full Self-Driving' beta next week, Musk says"
+    excerpt: "At Tesla's Battery Day event, the automaker promised that an early version of its long-awaited \"Full Self-Driving\" system would be available in \"a month or so.\" Now that a month or so has passed, a tweet from CEO Elon Musk makes it sound like everything's ..."
+    publishedDateTime: 2020-10-12T14:59:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-next-week-tweet/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-next-week-tweet/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-next-week-tweet/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://cnet2.cbsistatic.com/img/AVtNDbflfjRE8PTezweZ2ehMrBE=/2019/12/20/5d1f0f70-a427-4959-bc2c-7714bcc0c954/ogi-autopilot.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tesla Will Release Full Self-Driving Beta To Some Drivers Next Week"
     excerpt: "The time has finally come. We can only hope the FSD rewrite is as profound as Elon Musk claims."
     publishedDateTime: 2020-10-12T13:46:00Z
@@ -117,6 +133,17 @@ related:
         width: 1280
         height: 716
         isCached: true
+  - title: "Tesla Autopilot’s Flaw Found! Instant Apparitions, Phantom Objects Can Cause Full Self-Driving to Malfunction and Harm Passengers"
+    excerpt: "Tesla's Autopilot was fool-proof and promising, as advertised by the company; still, Israel-based researchers found its ultimate flaw and weakness using"
+    publishedDateTime: 2020-10-12T15:27:00Z
+    webUrl: "https://infosurhoy.com/technology/tesla-autopilots-flaw-found-instant-apparitions-phantom-objects-can-cause-full-self-driving-to-malfunction-and-harm-passengers/"
+    ampWebUrl: "https://infosurhoy.com/technology/tesla-autopilots-flaw-found-instant-apparitions-phantom-objects-can-cause-full-self-driving-to-malfunction-and-harm-passengers/amp/"
+    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/technology/tesla-autopilots-flaw-found-instant-apparitions-phantom-objects-can-cause-full-self-driving-to-malfunction-and-harm-passengers/amp/"
+    type: article
+    provider:
+      name: InfoSur Hoy
+      domain: infosurhoy.com
+    quality: 10
 
 secured: "xmg0TQb69yZowdnQvNrbv3KyIWCcD8FW7r4UkiioXo4LBwxN5QBY6t3+v9DMGOzZDFjPybDhE59N/aKWBkS/vcY5FVU6q0vjioXZy52+zlLyEa/nc+LAazLOZx3XS9FZbhTujSuurxhYog7b279hNUmM8Z88Pgb1HPjncgQiFRKOkmhc0dfBgUa6n4ZVmckQQVDuLleWXN3fSI2ZVl6BNvsXKN4rcXezmXXfhwr1WmiyauDOVBrMHP2rPkcKNeWkILToG/m6JGz8A5QLUSSK763eqQevl2p2jJNryWtXY7j1vY56zjyJwL4tk/HB7p/k6bIc/2BJFfeYsU580ssuOWXnCN0b8OAHnZEsYKa8qfvabJsst/4bFg3U8dK9s/yEvRJghsoMyAE7/o7CkkY9HhMhybLgeodtD2ByCjCHRaw5fWoJls6aJi5+WqZOfRJrX7HpSWRkEDoYAIBcSs2VlAqccnpEX1TWrVtLKWne6KlLINw7tvE+9OKlpHVqsywQDTuyW0weA8RgYGiE9Zt97Q==;Xv4CdrSVL1qQfwqCXQUkTA=="
 ---

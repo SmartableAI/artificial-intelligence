@@ -9,7 +9,7 @@ ampWebUrl: "https://www.coindesk.com/ai-curation-speaking-of-bitcoin-podcast?amp
 cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/ai-curation-speaking-of-bitcoin-podcast?amp=1"
 type: article
 quality: 57
-heat: 77
+heat: 78
 published: true
 
 provider:

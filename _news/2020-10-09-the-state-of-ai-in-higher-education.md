@@ -26,108 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "The Responsible Innovation Framework For The Age Of AI"
-    excerpt: "This year, with facial recognition, privacy, and ethics gaining more attention in the marketplace, technology leaders are increasingly thinking about AI’s impact on people’s lives."
-    publishedDateTime: 2020-10-08T23:36:00Z
-    webUrl: "https://www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/amp/"
+  - title: "The state of AI in 2020: Biology and healthcare's AI moment, ethics, predictions, and graph neural networks"
+    excerpt: "Research and industry breakthroughs, ethics, and predictions. This is what AI looks like today, and what it's likely to look like tomorrow."
+    publishedDateTime: 2020-10-12T14:46:00Z
+    webUrl: "https://www.zdnet.com/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: ZDNet
+      domain: zdnet.com
+    quality: 120
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7f9c645440271868a67e29%2F0x0.jpg"
-        width: 1200
-        height: 986
-        isCached: true
-  - title: "The Impact of AI on Surgery"
-    excerpt: "AI-enabled remote surgery can help overcome the global shortage of doctors, and it can improve training, raise standards, and drive innovation within the medical profession."
-    publishedDateTime: 2020-10-08T15:06:00Z
-    webUrl: "https://www.forbes.com/sites/calumchace/2020/10/08/the-impact-of-ai-on-surgery/"
-    ampWebUrl: "https://www.forbes.com/sites/calumchace/2020/10/08/the-impact-of-ai-on-surgery/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2020/10/08/the-impact-of-ai-on-surgery/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7f278b79657261d13693d3%2F0x0.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The Impact of Artificial Intelligence on Surgery"
-    excerpt: "AI-enabled remote surgery can help overcome the global shortage of doctors, and it can improve training, raise standards, and drive innovation within the medical profession."
-    publishedDateTime: 2020-10-09T00:28:00Z
-    webUrl: "https://www.forbes.com/sites/calumchace/2020/10/08/the-impact-of-ai-on-surgery/"
-    ampWebUrl: "https://www.forbes.com/sites/calumchace/2020/10/08/the-impact-of-ai-on-surgery/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2020/10/08/the-impact-of-ai-on-surgery/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7f278b79657261d13693d3%2F0x0.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How man and machine can work together in the age of AI"
-    excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Jens Martin Skibsted, Partner, Manyone A/S In reskilling"
-    publishedDateTime: 2020-10-08T17:34:00Z
-    webUrl: "https://europeansting.com/2020/10/08/how-man-and-machine-can-work-together-in-the-age-of-ai/"
-    ampWebUrl: "https://europeansting.com/2020/10/08/how-man-and-machine-can-work-together-in-the-age-of-ai/amp/"
-    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2020/10/08/how-man-and-machine-can-work-together-in-the-age-of-ai/amp/"
-    type: article
-    provider:
-      name: europeansting.com
-      domain: europeansting.com
-    quality: 59
-    images:
-      - url: "https://europeansting.files.wordpress.com/2020/10/robots-2020_.jpeg?w=1200"
-        width: 1200
-        height: 864
-        isCached: true
-  - title: "How Do We Accelerate Endpoint AI Innovation? Put Developers First"
-    excerpt: "Dipti Vachani reveals how together with Microsoft, Arm is optimizing the developer experience with streamlined, scalable tools that put creativity first"
-    publishedDateTime: 2020-10-08T15:58:00Z
-    webUrl: "https://www.arm.com/blogs/blueprint/arm-microsoft-ai"
-    type: article
-    provider:
-      name: ARM architecture
-      domain: arm.com
-    quality: 39
-    images:
-      - url: "https://www.arm.com/blogs/blueprint/wp-content/uploads/2020/10/dipti_topimg.jpg"
-        width: 1940
-        height: 980
-        isCached: true
-  - title: "India startups leading movement on AI innovations to create solutions for the world"
-    excerpt: "ResponsibleAI for Social Empowerment 2020’summit witnessed discussion on themes like leveraging AI for pandemic preparedness, role of AI in fostering"
-    publishedDateTime: 2020-10-09T17:42:00Z
-    webUrl: "https://indiaeducationdiary.in/india-startups-leading-movement-on-ai-innovations-to-create-solutions-for-the-world/"
-    ampWebUrl: "https://indiaeducationdiary.in/india-startups-leading-movement-on-ai-innovations-to-create-solutions-for-the-world/?amp"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/india-startups-leading-movement-on-ai-innovations-to-create-solutions-for-the-world/?amp"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 31
-  - title: "A policy framework for the technology can accelerate development in India’s AI sector"
-    excerpt: "Tata Sons Chairman N Chandrasekaran addressed the key aspects of AI in education, healthcare and data governance that India should take in order to become the global AI capital."
-    publishedDateTime: 2020-10-12T13:43:00Z
-    webUrl: "https://www.analyticsinsight.net/india-can-ai-capital-needed-improvements-existing-programs/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 30
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Artificial-Intelligence-13.jpg"
-        width: 1680
-        height: 840
+      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/10/12/fff374f0-59d9-4c75-8931-70212d1b7506/fda-ml.png"
+        width: 860
+        height: 396
         isCached: true
 
 secured: "X4p8ljri61p3BuaOqYZjaTWlzP7CaoGH45mhpPqkWVoYEduiFIOpZXmEarWsiNXRQBHV4Z0/ZvuFsLiMPkzfW+OVSIAYQRCaEPcN23YXvBiOCnS5J42+/gGVKMBMMrvroWgcbXpRdc6wY15FUYWNgVpCav0+9EsJh17dSr0KhD1xe01PyGHq8fZt3KvZCrqERA8sJHyUMLMsuAfrlf/DDFezXv5hWnCFPONDou/ixMhVpkpH7h9GMOwE1rOCTpE2LrodT4r+cdvFpnsh1gkRFL6eGjcZT8RfHWmZMjTh71g6Jk33sJ8sdKC1jo0jA5UbvJzq1OhmY+wTH9GP0eR2GKAXFsnu86606g0XWXNDcab8ADGq+dZzDLv+WhY9kgTdSAlx3cLqurz48M6ElzqXc9Xo6/L1tEfblowIvTaMtkuolG/6bu1N0pnnuVNMwxQnHcHRBVo2ndqgcqjJnznMXBs2D7ACc9pvQRU0qWE+/8xQNmXFZtlJJtgAzgBuPbr+gCA+07csDm7qp0bCjT6JWw==;LEGzWVmqgi5tgHkJhXQcnQ=="

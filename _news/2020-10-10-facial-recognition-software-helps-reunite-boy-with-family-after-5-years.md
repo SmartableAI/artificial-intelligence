@@ -87,20 +87,6 @@ related:
         width: 1000
         height: 668
         isCached: true
-  - title: "Facial recognition tested for Aadhaar authentication to financial services"
-    excerpt: "Pilots of face biometrics for Aadhaar authentication to financial services are being carried out by the Unique Identification Authority of India (UIDAI), Medianama reports. The pilot, being"
-    publishedDateTime: 2020-10-07T22:15:00Z
-    webUrl: "https://www.biometricupdate.com/202010/facial-recognition-tested-for-aadhaar-authentication-to-financial-services"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 37
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-        width: 1600
-        height: 1035
-        isCached: true
 
 secured: "WfD81iEyouCQSXiNSc1kFHXHh9FMK6ORVNAQ8xtRBILxk4X6E/qWGN+5LAAGBOUS2WfMIqgSeFCCW1G2j4GW+lDG7sT9Xeu6H6DW5eFxo5c/Z2RExLnhL2sBY4+e0qda5ngSigGgo+Fg0e1wWa1dQoMSAOEaybsjbCxQtCgh7rCrNBYDCM5c/4N7UqURd5dEtufxVWw3PDga27MYYiFWd2DtF18hZ6QLg0GHMBSTLdhfFbax70PGGg7KfvHtY7PzDhEWQD9zL9HkGcK6Ta7maEV5aoiex9MoqS3YxrWCNQXdazyyHzkGbkrmjRE1LuhEyv3KLW+cWNOlBZNT6KDPjSVvc1i+Jx2ZNmD8Wy4D5w403n5cTw/8zStUd+DZ2HetTe5KVXhCQuy10iggJ0CRhEqpBhYmzORHqh6HpEmmCRvQ0zRD347M/QLiOuM8ugdzUD4qDlwZseQP6OXqohZ6iay8p5wHeYbkrlghYKH60rqMUwKP9fdQe7POGbkUt6ZQ5SHFcSR2N9gsoSiUHbr9cg==;MeeihQbAY64b0PpREGpQIA=="
 ---

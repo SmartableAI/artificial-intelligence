@@ -44,20 +44,20 @@ related:
         height: 384
         isCached: true
   - title: "Facebook India appoints Sunil Abraham as Public Policy Director for Data and Emerging Tech"
-    excerpt: "As part of the public policy leadership team, Abraham will contribute to important policy development initiatives and proceedings in India and the South Asia region on data protection, privacy, new and emerging tech and represent Facebook's position in these multi-stakeholder processes,"
-    publishedDateTime: 2020-10-12T12:55:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/internet/facebook-india-appoints-sunil-abraham-as-public-policy-director-for-data-and-emerging-tech/articleshow/78621556.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/internet/facebook-india-appoints-sunil-abraham-as-public-policy-director-for-data-and-emerging-tech/amp_articleshow/78621556.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/internet/facebook-india-appoints-sunil-abraham-as-public-policy-director-for-data-and-emerging-tech/amp_articleshow/78621556.cms"
+    excerpt: "Abraham had co-founded Mahiti Infotech, an open technology service provider for non-profit sector, in 1998, while in 2008, he co-founded the Centre for Internet and Society, a policy and academic research organisation."
+    publishedDateTime: 2020-10-12T14:31:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/facebook-india-appoints-sunil-abraham-as-public-policy-director-for-data-and-emerging-tech-5954841.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/facebook-india-appoints-sunil-abraham-as-public-policy-director-for-data-and-emerging-tech-5954841.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/facebook-india-appoints-sunil-abraham-as-public-policy-director-for-data-and-emerging-tech-5954841.html/amp"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
+      name: moneycontrol.com
+      domain: moneycontrol.com
     quality: 34
     images:
-      - url: "https://economictimes.indiatimes.com/thumb/width-412,height-255,imgsize-118042,msid-78359264/you-might-soon-have-to-pay-to-use-google-meet.jpg"
-        width: 412
-        height: 255
+      - url: "https://images.moneycontrol.com/static-mcnews/2019/01/Facebook-770x433.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
         isCached: true
   - title: "Sunil Abraham joins Facebook India's public policy team, headed by Ankhi Das"
     excerpt: "Sunil Abraham has joined Facebook India's public policy team, headed by Aknhi Das, as director for data and emerging technology."
@@ -74,6 +74,6 @@ related:
         height: 600
         isCached: true
 
-secured: "siO0XLqvnAbueq/ZRLmspzjZydlj9MLAyZYIyy2nG+JikEGSS4++LhRedYa3r6jkvcKkDW7gzz/WazmfpxdzJDQjPthLTsr1qo5RRwBRiJngK+olXQJi3QgFo59e5IJdWn4wp9gL17DMNYPfngqGFCElCcEK+hJ79WPb/MqEGum2Qvp2w17lzhugJLPF6q4bXdeu8h6FMMh9FpHu+qFSxsEU4TUVnEe5lThy9mudRdZjLXkS+ZZ7jKW8UxntBprsS6RqsiY2E8i1lXgk9/5eBfeLdu0Y65bbFTuvXK4BrOGFvj+MGuv0SXITmtdJqA34L0zpLtI2tptopmJXlpArddkJ0lOhTuws7J2y3GnIN8E=;KLwOt0Z79wiCgUca+T3UGA=="
+secured: "OhgwVS7gn+kuLpTfktu50WTR0W+3+JW3h0X+NTmqqEqcMfFxwrRVXrK0+uKvs0nrk0dnx5xrCy7QlzLtRz/q+NjuFV4Mw0SKuIte03CNVsAd4RV2066cvSsovtesdcdCKcNAl+1rCakqa6mqZtwYKkIj+FaAs0mZIpUO9GlAmxm1UGfxVyxXUSlhsLOXMkHnVppCYwHMVqIn/YcGx/A7ER1RfEZx66MeYdjqOS7Nnh14eVrfCv62CzMtb3H4ad2cUya1BWty+t7aqv7LdM7zm7FOMwowuVW/M4GFnha0UfAuiLVC7AmnP+3ReBFMdSyUmuaRSOkGaClqd2TCY2t6XZ8ck/rQZF7kUwtlxmY0vvY0/34hp3riKXoDmksEW4fXldTNl1/V8DNNBfd0QoyCef98G/akrG0qkAZCzjLQMNCEekIysIY6h+pE7zFL7OszDtSjJIFyca9SIE+2MepTYqaApA9qXikT2NDI1hps7C6EtYLLSy11XardA8b63SRSmQrclZ0dX90Az49FeSfpIw==;vBZLac5e/2Ks7Z1eVcjYHQ=="
 ---
 

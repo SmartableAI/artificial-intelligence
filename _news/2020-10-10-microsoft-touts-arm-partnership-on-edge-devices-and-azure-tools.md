@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft partners with Team Gleason to build a computer vision dataset for ALS"
+    excerpt: "The organizations hope to foster innovation in computer vision and broaden the potential for connectivity and communication for people with accessibility challenges. Microsoft and Team Gleason ..."
+    publishedDateTime: 2020-10-12T15:01:00Z
+    webUrl: "https://venturebeat.com/2020/10/12/microsoft-partners-with-team-gleason-to-build-a-computer-vision-dataset-for-als/"
+    ampWebUrl: "https://venturebeat.com/2020/10/12/microsoft-partners-with-team-gleason-to-build-a-computer-vision-dataset-for-als/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/12/microsoft-partners-with-team-gleason-to-build-a-computer-vision-dataset-for-als/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 102
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/07/microsoft-logo.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Microsoft parteners chip maker Arm to boost AI innovation for IoT devices"
     excerpt: "SoftBank-owned UK chip maker Arm has partnered with Microsoft to create Azure-based tools to enable developers transfer data from Arm-based Internet of Things (IoT) devices to Azure Cloud"
     publishedDateTime: 2020-10-09T05:56:00Z
@@ -56,22 +72,6 @@ related:
       - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-09/29/full/1601348370-9773.jpg&width=1200"
         width: 1200
         height: 900
-        isCached: true
-  - title: "Microsoft 365 to get big Nvidia AI-editing boost"
-    excerpt: "Nvidia talked up plans to work with Microsoft to add its AI to Microsoft 365. For this columnist, that would be most welcome news."
-    publishedDateTime: 2020-10-08T22:48:00Z
-    webUrl: "https://www.computerworld.com/article/3584779/microsoft-365-to-get-big-nvidia-ai-editing-boost.html"
-    ampWebUrl: "https://www.computerworld.com/article/3584779/microsoft-365-to-get-big-nvidia-ai-editing-boost.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3584779/microsoft-365-to-get-big-nvidia-ai-editing-boost.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 80
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_robot_touch_human_hand_by_kentoh_gettyimages_1060703206-100817766-large.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Microsoft partners with ARM to improve AI innovation for IoT products"
     excerpt: "Microsoft partners with ARM to improve AI innovation for IoT products.The partnership will allow developers to target a large range of ARM-based devices."
@@ -119,20 +119,15 @@ related:
         width: 1000
         height: 800
         isCached: true
-  - title: "UCSF teams with Microsoft, others to fast-track AI in healthcare: 5 details"
-    excerpt: "University of California San Francisco teamed Microsoft Azure, Intel and Fortanix to establish a confidential computing platform that will accelerate the development and validation of clinical algorithms."
-    publishedDateTime: 2020-10-08T14:28:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/ucsf-teams-with-microsoft-others-to-fast-track-ai-in-healthcare-5-details.html"
+  - title: "ZEISS joins Microsoft for data-driven healthcare"
+    excerpt: "ZEISS, a German manufacturer of optical systems and optoelectronics, and Microsoft has inked a multi-year strategic partnership for better patient care through data-driven healthcare and enhance quality and efficiency in manufacturing by embracing a cloud-first approach."
+    publishedDateTime: 2020-10-08T17:32:00Z
+    webUrl: "https://www.sify.com/movies/zeiss-joins-microsoft-for-data-driven-healthcare-news-bollywood-ukigPvegbiagc.html"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 69
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
-        width: 400
-        height: 300
-        isCached: true
+      name: Sify.com
+      domain: sify.com
+    quality: 36
 
 secured: "hx+MzWvgzcmxyrFalgb9STq7Q455zunCUKEQsthtBzuiHb5Qwkgu5QH3/cYjzpcg7KiUUugOjLMg/FpnwfxwLz8QnEb1qMakC+yvpTi4nedaSIy+zz0vDG7QAxiNxB5MFaDQOGqaOMR3jC4dO+5wogSCgYy+1jPWvqcA9xkE5eDRzci+Rn8R7vzZVJtG4u1E3yCNlYpyHVny8xeFzFwgGEq1v/evG7FLXlmhSi5ExETIMe8TXfnTj/Ng4Oo00SDYnafsMuOnCChFdXWfhUO/Pf7Br8OlptRSiwW+F2bqFgitMUMbwUWNdiezHlusS7TwiRA4oAIV8oBTJ7NVVF7hGlBkHbuFIa96jSXHTx2Od8bdHnlUYT5M/suFuqjIhKqoralr74qGmoZhTsZMtl5nF0JG5KJ3jSjriP/LqMaV8bggJDwtF+baVutIdF+Tkpjn8uILUdG5l3Q6sMWA77ZvKL1hT8nOtv2ZL7fytHyXo/iiAmz9vXM5WJxAI/F56Y3RyxxFwE7SQlDNWgXxCrJn9A==;ZILDt4VZzMgG8pLrddKFJw=="
 ---

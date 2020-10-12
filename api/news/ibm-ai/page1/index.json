@@ -53,6 +53,51 @@
       ]
     },
     {
+      "path": "_news/2020-10-09-microsoft-365-to-get-big-nvidia-ai-editing-boost.md",
+      "title": "Microsoft 365 to get big Nvidia AI-editing boost",
+      "excerpt": "Nvidia talked up plans to work with Microsoft to add its AI to Microsoft 365. For this columnist, that would be most welcome news.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3584779/microsoft-365-to-get-big-nvidia-ai-editing-boost.html",
+      "originalUrl": "https://www.computerworld.com/article/3584779/microsoft-365-to-get-big-nvidia-ai-editing-boost.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_robot_touch_human_hand_by_kentoh_gettyimages_1060703206-100817766-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3584779/microsoft-365-to-get-big-nvidia-ai-editing-boost.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3584779/microsoft-365-to-get-big-nvidia-ai-editing-boost.amp.html",
+      "publishedDateTime": "2020-10-08T15:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI",
+        "IBM AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-from-the-data-and-ai-expert-labs-start-with-outcomes.md",
       "title": "From the Data and AI Expert Labs: Start with outcomes",
       "excerpt": "IBM’s Data and AI Expert Labs help guide organizations on their AI journeys. Expert Labs consultants represent years of data and AI expertise and offer best practices and business strategies to meet each organization’s unique needs. In From the Data and AI Expert Labs, I’ll take the expert learnings",
@@ -1294,48 +1339,6 @@
       "provider": {
         "name": "The Financial Express",
         "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-ibm-collaborated-with-the-city-of-seoul-south-korea-to-develop-an-ai-based-virtual-assistant-for-its-citizens-using-ibm-watson.md",
-      "title": "IBM Collaborated with the City of Seoul, South Korea to Develop an AI-based Virtual Assistant for its Citizens using IBM Watson",
-      "excerpt": "PRNewswire/ -- IBM (NYSE: IBM) and the city of Seoul, South Korea, have launched an AI-based virtual assistant for Seoul citizens using IBM Watson Assistant. The virtual assistant is part of the city's \"I Care You\" project,",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20200820ny98850/ibm-collaborated-with-the-city-of-seoul-south-korea-to-develop-an-ai-based-virtual-assistant-for-its-citizens-using-ibm-watson",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20200820ny98850/ibm-collaborated-with-the-city-of-seoul-south-korea-to-develop-an-ai-based-virtual-assistant-for-its-citizens-using-ibm-watson",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-01T12:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null

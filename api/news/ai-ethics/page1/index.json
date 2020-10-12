@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-12-the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks.md",
+      "title": "The state of AI in 2020: Biology and healthcare's AI moment, ethics, predictions, and graph neural networks",
+      "excerpt": "Research and industry breakthroughs, ethics, and predictions. This is what AI looks like today, and what it's likely to look like tomorrow.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/",
+      "originalUrl": "https://www.zdnet.com/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/10/12/fff374f0-59d9-4c75-8931-70212d1b7506/fda-ml.png",
+          "width": 860,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/",
+      "publishedDateTime": "2020-10-12T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Ethics",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-10-11-ai-artificial-intelligence-governance-how-to-get-it-right.md",
       "title": "AI (Artificial Intelligence) Governance: How To Get It Right",
       "excerpt": "AI (Artificial Intelligence) concept. Deep learning. GUI (Graphical User Interface). getty. AI (Artificial Intelligence) governance is about evaluating and monitoring algorithms f",
@@ -62,7 +115,7 @@
       "originalUrl": "https://www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -1326,48 +1379,6 @@
         "AI Ethics",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-09-07-why-eliminating-bias-in-ai-is-key-to-its-success.md",
-      "title": "Why eliminating bias in AI is key to its success",
-      "excerpt": "And it is AI that we must look closely at, which many experts tout as one of the most transformational technologies of our time, in terms of sheer impact on humanity. Global use of AI has ballooned by 270 per cent over the past five years,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itproportal.com/features/why-eliminating-bias-in-ai-is-key-to-its-success/",
-      "originalUrl": "https://www.itproportal.com/features/why-eliminating-bias-in-ai-is-key-to-its-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/4snuDkrnSAYqFHVuLu5h8k-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.itproportal.com/amp/features/why-eliminating-bias-in-ai-is-key-to-its-success/",
-      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/why-eliminating-bias-in-ai-is-key-to-its-success/",
-      "publishedDateTime": "2020-09-07T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro Portal",
-        "domain": "itproportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

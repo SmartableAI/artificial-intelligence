@@ -26,38 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft parteners chip maker Arm to boost AI innovation for IoT devices"
-    excerpt: "SoftBank-owned UK chip maker Arm has partnered with Microsoft to create Azure-based tools to enable developers transfer data from Arm-based Internet of Things (IoT) devices to Azure Cloud"
-    publishedDateTime: 2020-10-09T05:56:00Z
-    webUrl: "https://www.business-standard.com/article/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 90
-    images:
-      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-09/29/full/1601348370-9773.jpg&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Microsoft partners chip maker Arm to boost AI innovation for IoT devices"
-    excerpt: "SoftBank-owned UK chip maker Arm has partnered with Microsoft to create Azure-based tools to enable developers transfer data from Arm-based Internet of Things (IoT) devices to Azure Cloud"
-    publishedDateTime: 2020-10-12T04:17:00Z
-    webUrl: "https://www.business-standard.com/article/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 90
-    images:
-      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-09/29/full/1601348370-9773.jpg&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Microsoft 365 to get big Nvidia AI-editing boost"
     excerpt: "Nvidia talked up plans to work with Microsoft to add its AI to Microsoft 365. For this columnist, that would be most welcome news."
     publishedDateTime: 2020-10-08T22:48:00Z
@@ -74,65 +42,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft partners with ARM to improve AI innovation for IoT products"
-    excerpt: "Microsoft partners with ARM to improve AI innovation for IoT products.The partnership will allow developers to target a large range of ARM-based devices."
-    publishedDateTime: 2020-10-09T15:53:00Z
-    webUrl: "https://www.theindianwire.com/ai/microsoft-partners-with-arm-to-improve-ai-innovation-for-iot-products-294431/"
-    ampWebUrl: "https://www.theindianwire.com/ai/microsoft-partners-with-arm-to-improve-ai-innovation-for-iot-products-294431/?amp"
-    cdnAmpWebUrl: "https://www-theindianwire-com.cdn.ampproject.org/c/s/www.theindianwire.com/ai/microsoft-partners-with-arm-to-improve-ai-innovation-for-iot-products-294431/?amp"
+  - title: "NVIDIA’s AI-Based Video Compression Reduces Bandwidth to One-Tenth of H.264"
+    excerpt: "NVIDIA Maxine provides cloud-based suite of GPU-accelerated AI video conferencing software to enhance streaming video."
+    publishedDateTime: 2020-10-08T13:42:00Z
+    webUrl: "https://www.tvtechnology.com/equipment/nvidias-new-ai-based-video-compression-tech-reduces-bandwidth-to-one-tenth-of-h264"
+    ampWebUrl: "https://www.tvtechnology.com/amp/equipment/nvidias-new-ai-based-video-compression-tech-reduces-bandwidth-to-one-tenth-of-h264"
+    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/equipment/nvidias-new-ai-based-video-compression-tech-reduces-bandwidth-to-one-tenth-of-h264"
     type: article
     provider:
-      name: The Indian Wire
-      domain: theindianwire.com
-    quality: 74
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 57
     images:
-      - url: "https://www.theindianwire.com/wp-content/uploads/2020/10/1601348370-9773.jpg"
-        width: 620
-        height: 464
-        isCached: true
-  - title: "Microsoft, ARM partner to improve AI innovation for IoT products: Know how"
-    excerpt: "devices to Azure Cloud. The partnership will enable developers to easily target a broad range of Arm-based devices like intelligent computer-vision-enabled cameras, connected vehicles, AI gateways and intelligent appliances. With over 30 billion active IoT ..."
-    publishedDateTime: 2020-10-09T06:33:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news-microsoft-arm-collaborate-for-improved-ai-in-iot-devices-655568"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-microsoft-arm-collaborate-for-improved-ai-in-iot-devices-655568"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-microsoft-arm-collaborate-for-improved-ai-in-iot-devices-655568"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 72
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/09/microsoft-1601391325.jpg"
-        width: 1199
-        height: 674
-        isCached: true
-  - title: "Microsoft, chip maker Arm to boost AI innovation for IoT devices"
-    excerpt: "SoftBank-owned UK chip maker Arm has partnered with Microsoft to create Azure-based tools to enable developers transfer data from Arm-based Internet of Things (IoT) devices to Azure Cloud. The partner"
-    publishedDateTime: 2020-10-09T07:20:00Z
-    webUrl: "https://www.dailypioneer.com/2020/technology/microsoft--chip-maker-arm-to-boost-ai-innovation-for-iot-devices.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 71
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/microsoft--chip-maker-arm-to-boost-ai-innovation-for-iot-devices-2020-10-09.jpg"
-        width: 1000
-        height: 800
-        isCached: true
-  - title: "Microsoft Touts Arm Partnership on Edge Devices and Azure Tools"
-    excerpt: "Microsoft and Arm are collaborating on Azure developer tools for 'intelligent edge devices' that use artificial intelligence, per a Thursday announcement."
-    publishedDateTime: 2020-10-09T22:36:00Z
-    webUrl: "https://rcpmag.com/articles/2020/10/09/microsoft-and-arm-edge-device-partnership.aspx"
-    type: article
-    provider:
-      name: Redmond Channel Partner
-      domain: rcpmag.com
-    quality: 54
-    images:
-      - url: "https://rcpmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2016/1216vrm_CrankyAdmin_Image1.jpg"
-        width: 647
-        height: 450
+      - url: "https://cdn.mos.cms.futurecdn.net/oAt9y535FRR44FCx6eWzkn-1200-80.jpg"
+        width: 725
+        height: 408
         isCached: true
 
 secured: "tJfifZy5Mu3Z8oil4Wr3+jdmPgb5nvVnRSJWNUTCTzFMF/6yPnRNiBYuVVUapz/8dh+mRM4az5ibJ/R/rfJ2+u2gMSSe5ebdxu3pL5Le+UP5eDikkdI6RQKPuRa2kiP0d0Us6ZElFgXXzTDEbi3B2osv6wbEqS8xbZeLP53cGBrxgqs9sI/kmIM4uC1R9X094ptpNs0FJeDpAdiiXqrk5NzLPMCJwBasbStuob4xShG8i+NtM0Bomhb4UENuU58KBo7yop43TJeUkji+qxk12EuMvEvaCUTABo1bxckz4r6tie0OS1p2mCFpnbndOtCE5QKqVDe1FYvUbZ46OeZpGFt7om3TxAYjO9aVq1qCTVI=;lmzI/NzBNPUMoIXlXjORnA=="

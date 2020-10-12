@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-15-amazon-under-fire-for-new-facial-recognition-tool.md",
+      "title": "Amazon under fire for new facial recognition tool",
+      "excerpt": "Amazon Rekognition is a facial recognition tool that the company says can scan people in real time. Privacy advocates say the tech giant's newest offering goes too ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/video/partner/nbc/518886504/5b05ad3b7985d825d454ed47/",
+      "originalUrl": "https://www.aol.com/video/partner/nbc/518886504/5b05ad3b7985d825d454ed47/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-how-mcafee-researchers-successfully-bypassed-facial-recognition-verification-technology-with-ai.md",
       "title": "How McAfee Researchers Successfully Bypassed Facial Recognition Verification Technology with AI",
       "excerpt": "Facial recognition has become a common technology. It can be found in action every day, as millions of people unlock their personal devices with just a glance and social networks identify users in photos before they are tagged. But the many uses of facial ...",
@@ -1308,48 +1342,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-apple-may-add-infrared-thermal-imaging-to-the-iphone-to-help-ar-accuracy.md",
-      "title": "Apple may add infrared thermal imaging to the iPhone to help AR accuracy",
-      "excerpt": "Future iPhones could use thermal or infrared imaging to supplement regular vision cameras, making it easier to use Apple AR in dark or busy environments.",
-      "sourceUrl": null,
-      "webUrl": "https://appleinsider.com/articles/20/09/03/apple-may-add-infrared-thermal-imaging-to-the-iphone-to-help-ar-accuracy",
-      "originalUrl": "https://appleinsider.com/articles/20/09/03/apple-may-add-infrared-thermal-imaging-to-the-iphone-to-help-ar-accuracy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://photos5.appleinsider.com/gallery/37477-70376-000-lead-Apple-AR-xl.jpg",
-          "width": 870,
-          "height": 485,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://appleinsider.com/articles/20/09/03/apple-may-add-infrared-thermal-imaging-to-the-iphone-to-help-ar-accuracy/amp/",
-      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/09/03/apple-may-add-infrared-thermal-imaging-to-the-iphone-to-help-ar-accuracy/amp/",
-      "publishedDateTime": "2020-09-03T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AppleInsider",
-        "domain": "appleinsider.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft partners with Team Gleason to build a computer vision dataset for ALS"
+    excerpt: "The organizations hope to foster innovation in computer vision and broaden the potential for connectivity and communication for people with accessibility challenges. Microsoft and Team Gleason ..."
+    publishedDateTime: 2020-10-12T15:01:00Z
+    webUrl: "https://venturebeat.com/2020/10/12/microsoft-partners-with-team-gleason-to-build-a-computer-vision-dataset-for-als/"
+    ampWebUrl: "https://venturebeat.com/2020/10/12/microsoft-partners-with-team-gleason-to-build-a-computer-vision-dataset-for-als/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/12/microsoft-partners-with-team-gleason-to-build-a-computer-vision-dataset-for-als/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 102
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/07/microsoft-logo.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Microsoft parteners chip maker Arm to boost AI innovation for IoT devices"
     excerpt: "SoftBank-owned UK chip maker Arm has partnered with Microsoft to create Azure-based tools to enable developers transfer data from Arm-based Internet of Things (IoT) devices to Azure Cloud"
     publishedDateTime: 2020-10-09T05:56:00Z
@@ -59,22 +75,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Microsoft 365 to get big Nvidia AI-editing boost"
-    excerpt: "Nvidia talked up plans to work with Microsoft to add its AI to Microsoft 365. For this columnist, that would be most welcome news."
-    publishedDateTime: 2020-10-08T22:48:00Z
-    webUrl: "https://www.computerworld.com/article/3584779/microsoft-365-to-get-big-nvidia-ai-editing-boost.html"
-    ampWebUrl: "https://www.computerworld.com/article/3584779/microsoft-365-to-get-big-nvidia-ai-editing-boost.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3584779/microsoft-365-to-get-big-nvidia-ai-editing-boost.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 80
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_robot_touch_human_hand_by_kentoh_gettyimages_1060703206-100817766-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft partners with ARM to improve AI innovation for IoT products"
     excerpt: "Microsoft partners with ARM to improve AI innovation for IoT products.The partnership will allow developers to target a large range of ARM-based devices."
     publishedDateTime: 2020-10-09T15:53:00Z
@@ -105,20 +105,6 @@ related:
         width: 1000
         height: 800
         isCached: true
-  - title: "UCSF teams with Microsoft, others to fast-track AI in healthcare: 5 details"
-    excerpt: "University of California San Francisco teamed Microsoft Azure, Intel and Fortanix to establish a confidential computing platform that will accelerate the development and validation of clinical algorithms."
-    publishedDateTime: 2020-10-08T14:28:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/ucsf-teams-with-microsoft-others-to-fast-track-ai-in-healthcare-5-details.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 69
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Microsoft Touts Arm Partnership on Edge Devices and Azure Tools"
     excerpt: "Microsoft and Arm are collaborating on Azure developer tools for 'intelligent edge devices' that use artificial intelligence, per a Thursday announcement."
     publishedDateTime: 2020-10-09T22:36:00Z
@@ -133,6 +119,15 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "ZEISS joins Microsoft for data-driven healthcare"
+    excerpt: "ZEISS, a German manufacturer of optical systems and optoelectronics, and Microsoft has inked a multi-year strategic partnership for better patient care through data-driven healthcare and enhance quality and efficiency in manufacturing by embracing a cloud-first approach."
+    publishedDateTime: 2020-10-08T17:32:00Z
+    webUrl: "https://www.sify.com/movies/zeiss-joins-microsoft-for-data-driven-healthcare-news-bollywood-ukigPvegbiagc.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 36
 
 secured: "ojo+KDjaVFtv4KWzo94d4kRRHyoTH4m3e7VArXuWgfTUrPkbaX3h91nXptBUXQv8raFwhjeAGEZfsOG8Zedqpqt32sqbwYGGw76BEknxTPet4azz0RMFuWOT4GsjeTkwfSzJfzKykoQkvCtVWc/3uZPexAA+ooyGicsQKkwcXrJu/kkCdhykgUu29HuWAFJySm2TViBeP5XDoNk1hJ/LMyJ/O5xkiQpN4lXMVkWVnvudKHcuFUbrr/1ViNqCwNC0wuUdPCOE9ePDvUOrG7LDiqx8iPas1vEjJOGgEJ5unLHf1sydarIMLpGbbA7KOooiKFrMxaWXZj3e6G7WnVz+cXxnjfByU3Q5G1zDN7x59CQe67TrwipwvlBnV98Kq3XLy2AAaNJpBiwO0cKWG2Vx7Tnqeqb166uGuFM+BxehCTgM8g8Lqrm89XH9OiYuoEBRhaUFmwPzB933Q0OaQIG4wig6QdeNDrnva9lLxGv0TGQmorSH7sb0yrJdEzYFQCMQQRIk7mByAl+vhXHAdAkE9w==;mI0RGoy5Gr52rh5/oHI1lg=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "GE Healthcare Receives FDA Clearance for Vivid Ultra Edition, AI-Powered Cardiovascular Ultrasound System Designed to Shorten Diagnostic Exam Time and Improve Measurement ..."
 excerpt: "GE Healthcare today announced U.S. FDA 510k clearance for its Ultra Edition package on Vivid cardiovascular ultrasound systems."
 publishedDateTime: 2020-10-12T12:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201012005097/en/GE-Healthcare-Receives-FDA-Clearance-for-Vivid-Ultra-Edition-AI-Powered-Cardiovascular-Ultrasound-System-Designed-to-Shorten-Diagnostic-Exam-Time-and-Improve-Measurement-Consistency"
-webUrl: "https://www.businesswire.com/news/home/20201012005097/en/GE-Healthcare-Receives-FDA-Clearance-for-Vivid-Ultra-Edition-AI-Powered-Cardiovascular-Ultrasound-System-Designed-to-Shorten-Diagnostic-Exam-Time-and-Improve-Measurement-Consistency"
+originalUrl: "https://www.businesswire.com/news/home/20201012005097/en/"
+webUrl: "https://www.businesswire.com/news/home/20201012005097/en/"
 type: article
 quality: 2
 heat: -1
@@ -15,8 +15,8 @@ provider:
   domain: businesswire.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
   - url: "https://mms.businesswire.com/media/20201012005097/en/51143/23/GE_Imagination_at_Work_Logo.jpeg"
@@ -34,7 +34,23 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 29
+  - title: "MedTech Startup See-Mode Technologies Receives FDA Clearance for AI Software That Automatically Analyses and Reports Vascular Ultrasound Scans"
+    excerpt: "Mode Technologies, a MedTech startup based in Singapore and Australia that seeks to empower clinicians to better predict stroke, today announced that it has received 510(k) clearance from the"
+    publishedDateTime: 2020-10-12T13:00:00Z
+    webUrl: "https://www.asiaone.com/business/medtech-startup-see-mode-technologies-receives-fda-clearance-ai-software-automatically"
+    ampWebUrl: "https://www.asiaone.com/business/medtech-startup-see-mode-technologies-receives-fda-clearance-ai-software-automatically?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/medtech-startup-see-mode-technologies-receives-fda-clearance-ai-software-automatically?amp"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 21
+    images:
+      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Oct2020/LOGO_0.jpg?itok=EnrZtCRh"
+        width: 763
+        height: 509
+        isCached: true
 
-secured: "tGILLOdZGCNzd/rKnJO6ejqxNcEY3grHcGj2HV2jpDuYWeIcHdGMbmRsggciWoOQJUMw0nseXz5DITxfJea8L/y8rXUlyFN2akVn6AnEUIsoJodj32QVCze5V1CXHT/UBxuSMo/P0kRU4RvjtzVUq4FC1mxH8AgkZcDrLHTgsYttuoq/sb1Q0p0ddOU5KK5w3K4gTff3+mRXwX5IK7wApj6ob1T7G67IhK+KWESFQDCwlKLCAwSG6Wv08dMc2JI1bJHi/cfow0LlN62zhe4+i5ipNjYIxbNX2BUBE8fZ7xqlT5i9Kxr+Km0zw8+Hj1jhqq5Vu8Z4MDtR9w5vUT9j8mbAEJtwwd+1IDkJzu61yL0=;cCf3olk2Ra9WKLiTK8HVjw=="
+secured: "Bm8UjOTUeKrjJSr82KlA1pTOimTbcxt3QL3ykUtOYHD3Uejo0l9GfKx/0IwXTW9XmGgq17l71TOVkArb7195bsb4PfHi49ATD7Xd8pjxMNZ1MFKc1+nPeaw70GzxgxEy4tOsFJZImUkbmrD1eZX0dpoyVcHP0LKQs9/jAEHJq/dS4rM4IISyDXVa547SrLN0n4810KhlZtASKD9hGRQYMqQrkFLPtG/I0J9OTZ5aA92aOJ+ugMt3VMNqq9GvW9VMR6M60Lwx0HApyMUrvU/AX/dVw2y8nf9BQ8YnY4UaaCbKYgAvFnQRvE6HJAapUnmnCepYoUw7n256kKHE0hR0dQFE3mKp6ouv3glPB6Bl3EM=;Ilkww/19b2J4oGKFobNgXg=="
 ---
 
