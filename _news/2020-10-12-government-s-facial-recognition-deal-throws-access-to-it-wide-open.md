@@ -59,6 +59,15 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Voters to Decide on Strengthening Facial Recognition Ban"
+    excerpt: "On Nov. 3, Portland voters will decide if an ordinance that would allow citizens to sue the city for illegal surveillance and require the city to suppress illegally obtained evidence, the Portland Press Herald reported. In addition, violations of the ..."
+    publishedDateTime: 2020-10-12T21:56:00Z
+    webUrl: "https://www.usnews.com/news/best-states/maine/articles/2020-10-12/voters-to-decide-on-strengthening-facial-recognition-ban"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "Best facial recognition security cameras to buy this year - CNET"
     excerpt: "As President Trump’s National Security Advisor, John Bolton spent many of his 453 days in the room where it happened, and the facts speak for themselves. The result is a White House memoir that is the most comprehensive and substantial account of the Trump Administration,"
     publishedDateTime: 2020-10-11T08:35:00Z

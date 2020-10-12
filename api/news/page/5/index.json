@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-07-artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry.md",
+      "title": "Artificial intelligence and machine learning: A new blueprint for the fintech industry",
+      "excerpt": "There is no doubt that artificial intelligence (AI) and machine learning (ML) is becoming a hot topic within the fintech industry. At almost every seminar and conference, we are hearing about the rise of these emerging technologies and the potential they have to disrupt businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itproportal.com/features/artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry/",
+      "originalUrl": "https://www.itproportal.com/features/artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ADy2QfDipAoaDjWjQ4zRq-1200-80.jpg",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.itproportal.com/amp/features/artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry/",
+      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry/",
+      "publishedDateTime": "2020-10-07T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro Portal",
+        "domain": "itproportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-facial-recognition-at-the-border-is-fueling-other-forms-of-surveillance-report-says.md",
       "title": "Facial Recognition at the Border Is Fueling Other Forms of Surveillance, Report Says",
       "excerpt": "Facial recognition images taken at border crossings can be repurposed by government agencies and private companies, threatening human rights, the report warns.",
@@ -1175,56 +1218,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-this-ai-startup-helps-hospitals-navigate-operational-troubles-of-covid-19-and-beyond.md",
-      "title": "This AI Startup Helps Hospitals Navigate Operational Troubles Of Covid-19 And Beyond",
-      "excerpt": "M Health Fairview, one of the largest health systems in Minnesota, got an urgent message from one of its vendors: Mountain View, California-based artificial intelligence startup Qventus. The 13-hospital system had contracted the company to help streamline its operations,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startup-helps-hospitals-navigate-operational-troubles-of-covid-19-and-beyond/",
-      "originalUrl": "https://www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startup-helps-hospitals-navigate-operational-troubles-of-covid-19-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7b72922d03ae32323bd091%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3600%26cropY1%3D98%26cropY2%3D2123",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startup-helps-hospitals-navigate-operational-troubles-of-covid-19-and-beyond/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2020/10/06/this-ai-startup-helps-hospitals-navigate-operational-troubles-of-covid-19-and-beyond/amp/",
-      "publishedDateTime": "2020-10-06T03:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

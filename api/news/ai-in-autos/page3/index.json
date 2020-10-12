@@ -2,39 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-09-17-7-self-driving-car-companies-racing-to-gains.md",
-      "title": "7 Self-Driving Car Companies Racing to Gains",
-      "excerpt": "Editor’s Note: This article was updated on Sept. 18, 2020, to correct the road fatality statistic. Self-driving car companies hit a major pothole earlier this year. Long a favorite of tech ...",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2020/09/7-self-driving-car-companies-autonomous-vehicle-stocks/",
-      "originalUrl": "https://investorplace.com/2020/09/7-self-driving-car-companies-autonomous-vehicle-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-16T11:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-16-elon-musk-says-self-driving-electric-cars-in-tunnels-under-cities-will-feel-like-warp-drive.md",
       "title": "Elon Musk Says Self-Driving Electric Cars in Tunnels Under Cities Will 'Feel Like Warp Drive'",
       "excerpt": "The Tesla and SpaceX boss announced on Twitter this week that The Boring Company's first operational tunnel in Las Vegas is \"almost done.\"",
@@ -1375,6 +1342,39 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-cautions-about-artificial-intelligence-and-response.md",
+      "title": "Cautions About Artificial Intelligence - And Response",
+      "excerpt": "Artificial Intelligence ... road rage, or texting. Self driving cars don’t get tired, they don’t get distracted, and they don’t speed. The point is, these machines have potential to be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.chattanoogan.com/2017/12/15/360222/Cautions-About-Artificial-Intelligence.aspx",
+      "originalUrl": "https://www.chattanoogan.com/2017/12/15/360222/Cautions-About-Artificial-Intelligence.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-09T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chattanoogan.com",
+        "domain": "chattanoogan.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

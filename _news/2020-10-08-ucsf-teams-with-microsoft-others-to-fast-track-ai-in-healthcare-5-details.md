@@ -26,6 +26,36 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft wants AI to be more helpful for people who are blind or use wheelchairs"
+    excerpt: "Transparency and Ethics (FATE) in AI group, said in the blog post. SEE: Natural language processing: A cheat sheet (TechRepublic) Topic areas range from personalized image recognition for blind or low-vision people to improved facial recognition for people ..."
+    publishedDateTime: 2020-10-12T20:03:00Z
+    webUrl: "https://www.techrepublic.com/article/microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 101
+    images:
+      - url: "https://tr3.cbsistatic.com/hub/i/r/2018/06/28/1491d2a1-5b91-4521-a753-791b9f03ed42/resize/1200x/0a58b39878159fc665d3cd9d948840c6/istock-873015278.jpg"
+        width: 1200
+        height: 801
+        isCached: true
+  - title: "Microsoft’s Cecily Morrison awarded MBE for services to inclusive design"
+    excerpt: "The post Microsoft’s Cecily Morrison awarded MBE for services to inclusive design appeared first on The AI Blog.\n"
+    publishedDateTime: 2020-10-10T15:36:31Z
+    webUrl: "https://news.microsoft.com/en-gb/2020/10/10/microsofts-cecily-morrison-awarded-mbe-for-services-to-inclusive-design/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 88
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/10/Cecily1-scaled.jpg"
+        width: 1961
+        height: 2560
+        isCached: true
   - title: "Microsoft 365 to get big Nvidia AI-editing boost"
     excerpt: "Nvidia talked up plans to work with Microsoft to add its AI to Microsoft 365. For this columnist, that would be most welcome news."
     publishedDateTime: 2020-10-08T22:48:00Z
@@ -41,22 +71,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_robot_touch_human_hand_by_kentoh_gettyimages_1060703206-100817766-large.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "NVIDIA’s AI-Based Video Compression Reduces Bandwidth to One-Tenth of H.264"
-    excerpt: "NVIDIA Maxine provides cloud-based suite of GPU-accelerated AI video conferencing software to enhance streaming video."
-    publishedDateTime: 2020-10-08T13:42:00Z
-    webUrl: "https://www.tvtechnology.com/equipment/nvidias-new-ai-based-video-compression-tech-reduces-bandwidth-to-one-tenth-of-h264"
-    ampWebUrl: "https://www.tvtechnology.com/amp/equipment/nvidias-new-ai-based-video-compression-tech-reduces-bandwidth-to-one-tenth-of-h264"
-    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/equipment/nvidias-new-ai-based-video-compression-tech-reduces-bandwidth-to-one-tenth-of-h264"
-    type: article
-    provider:
-      name: TV Technology
-      domain: tvtechnology.com
-    quality: 57
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/oAt9y535FRR44FCx6eWzkn-1200-80.jpg"
-        width: 725
-        height: 408
         isCached: true
 
 secured: "tJfifZy5Mu3Z8oil4Wr3+jdmPgb5nvVnRSJWNUTCTzFMF/6yPnRNiBYuVVUapz/8dh+mRM4az5ibJ/R/rfJ2+u2gMSSe5ebdxu3pL5Le+UP5eDikkdI6RQKPuRa2kiP0d0Us6ZElFgXXzTDEbi3B2osv6wbEqS8xbZeLP53cGBrxgqs9sI/kmIM4uC1R9X094ptpNs0FJeDpAdiiXqrk5NzLPMCJwBasbStuob4xShG8i+NtM0Bomhb4UENuU58KBo7yop43TJeUkji+qxk12EuMvEvaCUTABo1bxckz4r6tie0OS1p2mCFpnbndOtCE5QKqVDe1FYvUbZ46OeZpGFt7om3TxAYjO9aVq1qCTVI=;lmzI/NzBNPUMoIXlXjORnA=="

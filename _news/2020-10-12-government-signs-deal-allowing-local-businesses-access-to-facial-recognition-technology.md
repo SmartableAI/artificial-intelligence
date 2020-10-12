@@ -43,6 +43,34 @@ related:
         width: 984
         height: 738
         isCached: true
+  - title: "Facial recognition technology isn't ready for police use"
+    excerpt: "I discussed how some nightmares of tech-noir films are becoming reality. As an advocate for artificial intelligence (AI), my last intention is to stoke unreasonable fear over new technologies. Unfortunately,"
+    publishedDateTime: 2020-10-08T17:36:00Z
+    webUrl: "https://www.jhunewsletter.com/article/2020/10/facial-recognition-technology-isnt-ready-for-police-use"
+    type: article
+    provider:
+      name: Johns Hopkins Newsletter
+      domain: jhunewsletter.com
+    quality: 39
+    images:
+      - url: "https://snworksceo.imgix.net/jhn/6ffb2208-cb6b-4bc4-9e76-33b4fa2b56a1.sized-1000x1000.png?w=800&h=600"
+        width: 720
+        height: 600
+        isCached: true
+  - title: "Government deal done over facial recognition technology"
+    excerpt: "The Government has done a deal over facial recognition technology that throws access to it wide open. The Internal Affairs Department has signed a master agreement with a leading global biometrics tech supplier that just about any organisation,"
+    publishedDateTime: 2020-10-11T23:41:00Z
+    webUrl: "https://www.rnz.co.nz/national/programmes/morningreport/audio/2018767922/government-deal-done-over-facial-recognition-technology"
+    type: article
+    provider:
+      name: rnz
+      domain: rnz.co.nz
+    quality: 39
+    images:
+      - url: "https://www.rnz.co.nz/assets/news_crops/110255/eight_col_121526165_l.jpg?1601428940"
+        width: 720
+        height: 450
+        isCached: true
 
 secured: "rkhEMNHujsY8jI+E8iV+4vImGJ8TuEkCIlt3YchRXEdjbNBIlopvV7zk64VETG8WubtxscIcLkcH2AVYQRN8CyRg57MfBYPDst4oekjVINmNBV89e3CHmBySt5kYsiKNM3nKf1TqXfIBUudqE4j+5tyAzJP3f+EK+eT+hhsM4+x8Im5jp2y9bNg22MJQvW4PXKTsIWppy2CUzAPT8oytO6hBVG/jf+oYxkjQWi16r4Ji8wdEq/lqqQU4eVttwmNGtlYcZe9hKIrh8MW8wrGrLLrQX0b5vXkdRAMxNU/5gw6irEqpM2mifNGYpMxyi4QoZCUBI6TCU3PITLe8GerqTN4+U4ge/ZnkgzbXaoMAaiH7YqRIJlbjXmrPVwsPzDOi9ZjYawPfGrtXAc8Y8vAQLIreqCOB91dmglbh4uLqMo7xbUAIPx7RmbVWE4PM2tNeOBUzuhNhPHLr+3XJm6RiI+miPEqXBu5xYMm/7Egl6UCdOVCiBInS63xl3FjX56DzzBxtDP+Ln8TVjUwvjxKPKA==;RmUtBL5YOr86iVPeUtgJEQ=="
 ---

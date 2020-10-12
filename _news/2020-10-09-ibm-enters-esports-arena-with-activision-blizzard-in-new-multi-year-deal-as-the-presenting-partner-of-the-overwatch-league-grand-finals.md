@@ -1,20 +1,24 @@
 ---
 category: news
 title: "IBM Enters Esports Arena with Activision Blizzard in New Multi-Year Deal as the Presenting Partner of the Overwatch League Grand Finals"
-excerpt: "IBM's Watson artificial intelligence, and machine learning Through the course of the deal, IBM and the Overwatch League plan to leverage IBM's suite of advanced cloud and AI products."
-publishedDateTime: 2020-10-09T06:18:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/10/n17846724/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner"
-webUrl: "https://www.benzinga.com/pressreleases/20/10/n17846724/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17846724"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17846724"
+excerpt: "Those solutions, which are currently under development, will leverage IBM's suite of analytics tools to process in-match data, adding Watson's AI capabilities through the use of Watson Machine ..."
+publishedDateTime: 2020-10-09T04:11:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-1029664315"
+webUrl: "https://markets.businessinsider.com/news/stocks/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-1029664315"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-1029664315"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-1029664315"
 type: article
-quality: 0
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
@@ -150,6 +154,6 @@ related:
         height: 1206
         isCached: true
 
-secured: "SyAiCQ+Rqbic8dZusG4YzRbbGBqLMBEFmXRwEclmXG4DBwku0AmP1nywpeOSLZCCK2/IXt43Ygg9EwT2/zz5GCRZwb+Vh34GoiKOdw2L5Sa1eNA7igL+PGvtUIuNFrNncbY8DFC+6b89TlA1BRrITq5/mRhc4OVnDyRxDHa7npAxLvp9sZMe6Ne7Qru1Y9H1AwdtwhJziWwmLq3GVCpcRLSnnsdIwrsIUkt2Ik9y/aarIltgUQJBu7jB6/p/TQ6d7GYzw6wNC7DjxjBTajmKBo1MK6qXoQ76bYbvVkP21DyS1PP6obNRgYin1Fs2N0RNg2JDjuoWDWIFCt/Wexs5kOXR3Cz5TC8X16/MjT+QlzE=;TJy2nu4PxU+dhcC1vMoDcw=="
+secured: "ACSNax0JObet2hra/Do/MuiRRoDng3vvSOKG44zg4tyRUOyXWylanFSydinXoMxFiPf4JKwDcwrsZQB+HXs0bRap+FW1CTK1bnFR8v/o+UZvQ/iqj+99xdJk95YDswrSPdHL7z1WZVB8PJC1kO4/RIE+3IcjHtPi/H9zKMN+DX9yEsSZOKVncdvUyC7t6ND9/1dtHlJkZfCxotVrm6eq8C5HP6oVws4KSgEV9+0zGB5ClBR3+ONH3zq9i5aLHkLFN/HZJPC8f1ZrLqpL4xxCxsBt/LvbCLLSIqkgw6bV3FTEK2G4RLxDWqAjRRJHgfoekUhGJq9C13dAzlFB93/XotNe9I91M/grhW3htDpooy4=;/8ACCZFSTC8NKKKoe94sMg=="
 ---
 

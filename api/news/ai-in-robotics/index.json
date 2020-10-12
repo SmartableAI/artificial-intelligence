@@ -233,51 +233,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-09-microsoft-365-to-get-big-nvidia-ai-editing-boost.md",
-      "title": "Microsoft 365 to get big Nvidia AI-editing boost",
-      "excerpt": "Nvidia talked up plans to work with Microsoft to add its AI to Microsoft 365. For this columnist, that would be most welcome news.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3584779/microsoft-365-to-get-big-nvidia-ai-editing-boost.html",
-      "originalUrl": "https://www.computerworld.com/article/3584779/microsoft-365-to-get-big-nvidia-ai-editing-boost.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_robot_touch_human_hand_by_kentoh_gettyimages_1060703206-100817766-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3584779/microsoft-365-to-get-big-nvidia-ai-editing-boost.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3584779/microsoft-365-to-get-big-nvidia-ai-editing-boost.amp.html",
-      "publishedDateTime": "2020-10-08T15:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI",
-        "IBM AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2020-10-09-playstation-inventor-starts-new-career-making-robots-for-no-pay.md",
       "title": "PlayStation Inventor Starts New Career Making Robots for No Pay",
       "excerpt": "Ken Kutaragi, the legendary inventor of the PlayStation gaming console, is taking on one of the hardest jobs in robotics. And he’s getting paid nothing to do it.",
@@ -1427,6 +1382,57 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-executives-say-artificial-intelligence-will-boost-productivity-but-their-employees-arent-so-sure.md",
+      "title": "Executives Say Artificial Intelligence Will Boost Productivity; But Their Employees Aren’t So Sure",
+      "excerpt": "For example, while 82 percent of executives see their companies bringing in robot and SI trainers over the next 15 years, compared to only 44 percent of employees. Business leaders see artificial intelligence as taking a prominent role within their organizations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/09/28/executives-say-technology-will-boost-productivity-but-their-employees-arent-so-sure/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2020/09/28/executives-say-technology-will-boost-productivity-but-their-employees-arent-so-sure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1190049247%2F0x0.jpg",
+          "width": 1200,
+          "height": 477,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/09/28/executives-say-technology-will-boost-productivity-but-their-employees-arent-so-sure/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/09/28/executives-say-technology-will-boost-productivity-but-their-employees-arent-so-sure/amp/",
+      "publishedDateTime": "2020-09-30T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

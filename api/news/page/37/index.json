@@ -2,6 +2,98 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2020-09-10-homegrown-robotics-upstart-greyorange-scores-100mn-at-a-700mn-valuation.md",
+      "title": "Homegrown robotics upstart GreyOrange scores $100Mn at a $700Mn valuation",
+      "excerpt": "GreyOrange is one of those rare 'Born in India' firms who have made a significant mark in the robotics industry.",
+      "sourceUrl": null,
+      "webUrl": "https://thetechportal.com/2020/09/10/greyorange-robotics-india-funding-100-million/",
+      "originalUrl": "https://thetechportal.com/2020/09/10/greyorange-robotics-india-funding-100-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thetechportal.com/wp-content/uploads/2020/09/grey-orange-robotics-the-tech-portal.jpg",
+          "width": 1920,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thetechportal.com/2020/09/10/greyorange-robotics-india-funding-100-million/?amp",
+      "cdnAmpWebUrl": "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2020/09/10/greyorange-robotics-india-funding-100-million/?amp",
+      "publishedDateTime": "2020-09-10T05:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thetechportal.com",
+        "domain": "thetechportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-palmer-luckeys-ghost-4-military-drones-can-swarm-into-an-ai-surveillance-system.md",
+      "title": "Palmer Luckey's Ghost 4 military drones can swarm into an AI surveillance system",
+      "excerpt": "Palmer Luckey rose to tech fame for inventing the Oculus Rift, a virtual reality headset that helped rekindle interest in the technology. Now he's got a high-tech product to show off: the. Built by Anduril Industries,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/palmer-luckey-ghost-4-military-drones-can-swarm-into-an-ai-surveillance-system/",
+      "originalUrl": "https://www.cnet.com/news/palmer-luckey-ghost-4-military-drones-can-swarm-into-an-ai-surveillance-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/EAPkxcwgsXC9qCvQP8TyNiDX73I=/2020/09/10/791c1d31-19e3-4d6e-85c9-2cb44879111a/anduril-ghost-4-drone-over-water.jpg",
+          "width": 2087,
+          "height": 1179,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/palmer-luckey-ghost-4-military-drones-can-swarm-into-an-ai-surveillance-system/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/palmer-luckey-ghost-4-military-drones-can-swarm-into-an-ai-surveillance-system/",
+      "publishedDateTime": "2020-09-10T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-10-ai-and-automation-vs-the-covid-19-pandemic-trading-liberty-for-safety.md",
       "title": "AI and automation vs. the COVID-19 pandemic: Trading liberty for safety",
       "excerpt": "Reports on the use of AI to respond to COVID-19 may have been greatly exaggerated. But does the rush to pandemic-fighting solutions like thermal scanners, face recognition and immunity passports signal the normalization of surveillance technologies?",
@@ -1044,99 +1136,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-norfolk-va-pd-used-facial-recognition-not-even-officials-knew.md",
-      "title": "Norfolk, Va., PD Used Facial Recognition, Not Even Officials Knew",
-      "excerpt": "The Clearview AI application was piloted by police in the city, but most city leaders and the public had no idea it was being used. The technology has raised concerns among civil rights and privacy advocates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/public-safety/Norfolk-Va-PD-Used-Facial-Recognition-Not-Even-Officials-Knew.html",
-      "originalUrl": "https://www.govtech.com/public-safety/Norfolk-Va-PD-Used-Facial-Recognition-Not-Even-Officials-Knew.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/shutterstock_1139687675+(1).jpg",
-          "width": 1119,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/public-safety/Norfolk-Va-PD-Used-Facial-Recognition-Not-Even-Officials-Knew.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Norfolk-Va-PD-Used-Facial-Recognition-Not-Even-Officials-Knew.html?AMP",
-      "publishedDateTime": "2020-09-09T14:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-xanadu-brings-photonic-quantum-computing-to-the-cloud.md",
-      "title": "Xanadu Brings Photonic Quantum Computing To The Cloud",
-      "excerpt": "Goodson dives deeper as Xanadu announced on September 2nd that it would offer cloud access to its gate-based photonic quantum computers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/09/09/xanadu-brings-photonic-quantum-computing-to-the-cloud/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2020/09/09/xanadu-brings-photonic-quantum-computing-to-the-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5943894acc64f5fe4887d1%2F0x0.jpg",
-          "width": 1200,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/09/09/xanadu-brings-photonic-quantum-computing-to-the-cloud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/09/09/xanadu-brings-photonic-quantum-computing-to-the-cloud/amp/",
-      "publishedDateTime": "2020-09-09T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

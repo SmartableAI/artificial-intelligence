@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-13-alphabets-latest-x-project-is-a-crop-sniffing-plant-buggy.md",
+      "title": "Alphabet’s latest X project is a crop-sniffing plant buggy",
+      "excerpt": "Alphabet’s X lab, the former Google division that launched the Waymo self-driving car unit and other ambitious ... of software and hardware prototypes based on breakthroughs in artificial intelligence, simulation, sensors, robotics and more,” according ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2020/10/12/21513353/alphabet-google-x-lab-moonshot-computational-agriculture-mineral-revealed",
+      "originalUrl": "https://www.theverge.com/2020/10/12/21513353/alphabet-google-x-lab-moonshot-computational-agriculture-mineral-revealed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/fEhH-7XeZxcqbha6HpEOqIrqcMY=/0x0:1400x1050/1400x933/filters:focal(588x413:812x637):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67620551/0_iPVx58EEMvD9xVDT.0.jpeg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/10/12/21513353/alphabet-google-x-lab-moonshot-computational-agriculture-mineral-revealed",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/12/21513353/alphabet-google-x-lab-moonshot-computational-agriculture-mineral-revealed",
+      "publishedDateTime": "2020-10-12T13:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-12-south-korea-targets-to-develop-50-artificial-intelligence-chips-by-2030.md",
       "title": "South Korea targets to develop 50 Artificial Intelligence chips by 2030",
       "excerpt": "South Korea aims to develop up to 50 types of artificial intelligence-focused system semiconductors by 2030, the ICT ministry said Monday, as the country strives to take",
@@ -104,7 +155,7 @@
       "originalUrl": "https://mashable.com/article/tesla-fsd-beta/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 215,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -409,57 +460,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
-      "excerpt": "Artificial intelligence (AI) involves using computers ... deploying AI brains into the Waymo self-driving car business, and applying these technologies to medical research and weather forecasting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "originalUrl": "https://www.fool.com/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F594319%2Fartificial-intelligence-digital-brain.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "publishedDateTime": "2020-10-07T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1202,49 +1202,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-29-data-science-to-accelerate-drug-discovery-with-artificial-intelligence-and-machine-learning-says-frost-sullivan.md",
-      "title": "Data Science to Accelerate Drug Discovery with Artificial Intelligence and Machine Learning, Says Frost & Sullivan",
-      "excerpt": "When combined with other emerging tech areas, artificial intelligence (AI) technologies move to the next phase of advancements. Hence, they are expected to witness adoption by pharma and biotech ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanzen.net/nachricht/aktien/data-science-to-accelerate-drug-discovery-with-artificial-intelligence-and-machine-learning-says-frost-sullivan-9342599",
-      "originalUrl": "https://www.finanzen.net/nachricht/aktien/data-science-to-accelerate-drug-discovery-with-artificial-intelligence-and-machine-learning-says-frost-sullivan-9342599",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-29T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanzen",
-        "domain": "finanzen.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2020-09-29-startup-circle-how-is-superproai-an-ai-driven-knowledge-hub.md",
       "title": "Startup Circle: How is Superpro.ai an AI-driven knowledge hub?",
       "excerpt": "A life-long learner, he has filed more than 30 patents in Europe and the US around Artificial Intelligence and has raised multi-million dollar investments. Excerpts of the interview: Superpro.ai ...",
@@ -1357,6 +1314,48 @@
       "provider": {
         "name": "Raconteur",
         "domain": "raconteur.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-how-analytics-and-ai-driven-processes-will-revolutionize-the-industrial-sector.md",
+      "title": "How Analytics and AI-driven Processes Will Revolutionize the Industrial Sector",
+      "excerpt": "Artificial Intelligence and analytics fall into four categories reflecting the type of insight delivered; these categories are predictive, performance, prescriptive and prognostic insights–the Four P’s of industrial AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automation.com/en-us/articles/september-2020/analytics-ai-processes-revolutionize-industrial?listname=Automation & Control News & Articles",
+      "originalUrl": "https://www.automation.com/en-us/articles/september-2020/analytics-ai-processes-revolutionize-industrial?listname=Automation & Control News & Articles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.automation.com/getmedia/4e040a94-7b96-4132-94d9-6c07174cfd84/Jim-Chappell-sept-2020-web.png?width=500&height=313&ext=.png",
+          "width": 500,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation",
+        "domain": "automation.com",
         "images": null,
         "publishers": null,
         "authors": null

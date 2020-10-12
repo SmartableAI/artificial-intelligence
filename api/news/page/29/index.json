@@ -2,6 +2,90 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-09-16-10-british-ai-startups-to-look-out-for-in-2016.md",
+      "title": "10 British AI startups to look out for in 2016",
+      "excerpt": "Google-owned startup DeepMind, a group of approximately 140 people aiming to solve intelligence, is arguably one of the most interesting technology companies operating in the UK right now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.in/tech/10-british-ai-startups-to-look-out-for-in-2016/slidelist/51167031.cms",
+      "originalUrl": "https://www.businessinsider.in/tech/10-british-ai-startups-to-look-out-for-in-2016/slidelist/51167031.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/msid-51167032,width-640,resizemode-4,imgsize-532732/deepmind-on-a-mission-to-solve-general-intelligence.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-15T13:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-16-artificial-intelligence-technologies-transforming-medical-imaging.md",
+      "title": "Artificial Intelligence Technologies Transforming Medical Imaging",
+      "excerpt": "ResearchAndMarkets.com published a new article on the AI industry \"Artificial Intelligence Technologies Transforming Medical Imaging\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-technologies-transforming-medical-imaging/article_6844480e-3883-5cb2-be0a-7eb5124c2f4c.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-technologies-transforming-medical-imaging/article_6844480e-3883-5cb2-be0a-7eb5124c2f4c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-15T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-16-ai-robot-serves-customers-at-seoul-restaurant.md",
       "title": "A.I. robot serves customers at Seoul restaurant",
       "excerpt": "\"Aglio Kim\", a trolley-like robot which uses artificial intelligence (A.I.), is delivering food to customers at a restaurant in Seoul, in order to minimise human contact and help ensure social distancing.",
@@ -1059,90 +1143,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-observeai-raises-54-million-in-series-b-funding-round-to-expand-contact-center-ai-solution.md",
-      "title": "Observe.AI raises $54 million in series B funding round to expand contact center AI solution",
-      "excerpt": "Observe.AI raises $54 million in series B funding round to expand contact center AI solution. Observe.AI, a provider of contact center AI, has announced a $54 million series B fin",
-      "sourceUrl": null,
-      "webUrl": "https://www.kmworld.com/Articles/News/News/Observe.AI raises-%2454-million-in-series-B-funding-round-to-expand-contact-center-AI-solution-142844.aspx",
-      "originalUrl": "https://www.kmworld.com/Articles/News/News/Observe.AI raises-%2454-million-in-series-B-funding-round-to-expand-contact-center-AI-solution-142844.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kmworld.com/images/subscribe_magazines_km.png",
-          "width": 772,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-15T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KMWorld Magazine",
-        "domain": "kmworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-ibm-joins-forces-with-nielsen-global-consumer-business-to-expand-data-targeting-offerings-for-marketers.md",
-      "title": "IBM Joins Forces With Nielsen Global Consumer Business To Expand Data Targeting Offerings For Marketers",
-      "excerpt": "The Weather Targeting data tool is part of a suite of AI-driven targeting solutions. Most recently, IBM Watson Advertising used the technology to assist with the COVID-19 pandemic by enabling ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/ibm-joins-forces-with-nielsen-global-consumer-business-to-expand-data-targeting-offerings-for-marketers-301130149.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/ibm-joins-forces-with-nielsen-global-consumer-business-to-expand-data-targeting-offerings-for-marketers-301130149.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook",
-          "width": 2698,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-15T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

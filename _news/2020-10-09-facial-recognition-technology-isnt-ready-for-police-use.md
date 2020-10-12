@@ -25,21 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition data leaks is rampant across China as Covid-19 pushes wider use of the technology"
-    excerpt: "Incorrectly configured databases remains a widespread security problem in China even as citizens increasingly express concerns."
-    publishedDateTime: 2020-10-08T03:47:00Z
-    webUrl: "https://www.scmp.com/abacus/tech/article/3104512/facial-recognition-data-leaks-rampant-across-china-covid-19-pushes"
-    ampWebUrl: "https://amp.scmp.com/abacus/tech/article/3104512/facial-recognition-data-leaks-rampant-across-china-covid-19-pushes"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/abacus/tech/article/3104512/facial-recognition-data-leaks-rampant-across-china-covid-19-pushes"
+  - title: "Imposter ID'd With Facial Recognition Technology At Local Airport"
+    excerpt: "With the help of the Simplified Arrival process, customs officials detected a traveler's mismatched documents at Washington Dulles Airport."
+    publishedDateTime: 2020-10-09T01:16:00Z
+    webUrl: "https://patch.com/virginia/herndon/imposter-idd-facial-recognition-technology-local-airport"
+    ampWebUrl: "https://patch.com/virginia/herndon/amp/29007924/imposter-idd-with-facial-recognition-technology-at-local-airport"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/virginia/herndon/amp/29007924/imposter-idd-with-facial-recognition-technology-at-local-airport"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
+      name: Patch
+      domain: patch.com
     quality: 74
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/10/08/2e658938-077f-11eb-afc8-92e0da0ef1c3_image_hires_105537.jpg?itok=FA7tyBxR&v=1602125752"
-        width: 1200
-        height: 630
+      - url: "https://patch.com/img/cdn20/users/23738464/20201008/041638/styles/patch_image/public/cbpo-pax2h___08161627748.jpg?width=984"
+        width: 984
+        height: 738
+        isCached: true
+  - title: "Government signs deal allowing local businesses access to facial recognition technology"
+    excerpt: "The Government has done a deal over facial recognition technology that throws access to it wide open. The Department of Internal Affairs has signed a master agreement with a leading global biometrics tech supplier that just about any organisation,"
+    publishedDateTime: 2020-10-11T22:07:00Z
+    webUrl: "https://www.newshub.co.nz/home/new-zealand/2020/10/government-signs-deal-allowing-local-businesses-access-to-facial-recognition-technology.html"
+    ampWebUrl: "https://www.newshub.co.nz/home/new-zealand/2020/10/government-signs-deal-allowing-local-businesses-access-to-facial-recognition-technology.amp.html"
+    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2020/10/government-signs-deal-allowing-local-businesses-access-to-facial-recognition-technology.amp.html"
+    type: article
+    provider:
+      name: Newshub
+      domain: newshub.co.nz
+    quality: 51
+    images:
+      - url: "https://www.newshub.co.nz/home/new-zealand/2020/10/government-signs-deal-allowing-local-businesses-access-to-facial-recognition-technology/_jcr_content/par/image.dynimg.768.q75.jpg/v1602452244144/GETTY-face-recognition-technology-stock-pic-1120.jpg"
+        width: 768
+        height: 438
         isCached: true
   - title: "Government deal done over facial recognition technology"
     excerpt: "The Government has done a deal over facial recognition technology that throws access to it wide open. The Internal Affairs Department has signed a master agreement with a leading global biometrics tech supplier that just about any organisation,"

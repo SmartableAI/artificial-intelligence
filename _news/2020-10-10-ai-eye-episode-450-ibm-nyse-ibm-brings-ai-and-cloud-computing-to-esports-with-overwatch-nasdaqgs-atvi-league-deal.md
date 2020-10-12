@@ -141,16 +141,16 @@ related:
       domain: bizjournals.com
     quality: 23
   - title: "IBM Enters Esports Arena with Activision Blizzard in New Multi-Year Deal as the Presenting Partner of the Overwatch League Grand Finals"
-    excerpt: "IBM's Watson artificial intelligence, and machine learning Through the course of the deal, IBM and the Overwatch League plan to leverage IBM's suite of advanced cloud and AI products."
-    publishedDateTime: 2020-10-09T06:18:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/10/n17846724/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17846724"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17846724"
+    excerpt: "Those solutions, which are currently under development, will leverage IBM's suite of analytics tools to process in-match data, adding Watson's AI capabilities through the use of Watson Machine ..."
+    publishedDateTime: 2020-10-09T04:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-1029664315"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-1029664315"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-1029664315"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 22
 
 secured: "tKsKtjSoV6oFNX4EQUelf5E4O77kshFuXVKwyYAWetzYREPdYlHeDj8/yunTKJxJ74UEKFRk+h2aqZMAk41HvmYsPb4/Trh5IFsMgPiV4bxMxmsW1G4fPdhVfWiraJELkHf6IF3wdSIYFrRDGJfnNaSATNDEuniOrfbovJWUWAa0XpHwez3knh3uGwq89rTq51aNo5gSDWNSXePItI3Nzr+omaszBUItOI7t2h4AnsIg52UQKm2jx72QSMus8mukank8QW7oQtEABz8wYN63+vTlS+y13voPsAx52Ph7wlZUco7HnYHxekGF5WXqtOylm3q3vCJAVMknbZlogLzhORL9M0l38lTA9nWAVV3dap4=;E5mewz+mSkMOXmC3IKh/aA=="
 ---

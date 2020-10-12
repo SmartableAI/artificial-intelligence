@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/article/tesla-fsd-beta.amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-fsd-beta.amp"
 type: article
 quality: 104
-heat: 215
+heat: 225
 published: true
 
 provider:
@@ -152,6 +152,22 @@ related:
       - url: "https://static.seekingalpha.com/uploads/2020/10/12/saupload_tsla_1.png"
         width: 612
         height: 232
+        isCached: true
+  - title: "Elon Musk announces Tesla is set to rollout 'Full Self-Driving' beta to a small number of drivers"
+    excerpt: "Tesla CEO Elon Musk announced the firm is releasing an upgrade to Autopilot that adds 'Full Self-Driving' abilities with certain features that makes the car semi-autonomous."
+    publishedDateTime: 2020-10-12T20:28:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8832421/Elon-Musk-announces-Tesla-set-rollout-Self-Driving-beta-small-number-drivers.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8832421/amp/Elon-Musk-announces-Tesla-set-rollout-Self-Driving-beta-small-number-drivers.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8832421/amp/Elon-Musk-announces-Tesla-set-rollout-Self-Driving-beta-small-number-drivers.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 46
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/10/12/21/34306966-0-image-a-20_1602534251674.jpg"
+        width: 636
+        height: 382
         isCached: true
   - title: "Tesla Battery Day: Full Self-Driving Next Month"
     excerpt: "The recent Tesla Battery day was about its plan to scale battery production from Giga to Tera and reduce cost by 2x."

@@ -473,6 +473,56 @@
       ]
     },
     {
+      "path": "_news/2020-10-08-nvidia-gtc-presentation-on-trends-for-2021-showed-they-see-more-business-artificial-intelligence-moving-to-production.md",
+      "title": "NVIDIA GTC Presentation On Trends For 2021 Showed They See More Business Artificial Intelligence Moving To Production",
+      "excerpt": "While the message of the technical folks might still be a bit too focused on training, this presentation mentioned runtime more than I’ve previously heard. The industry application of AI is still relatively new,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2020/10/08/nvidia-gtc-presentation-on-trends-for-2021-showed-they-see-more-business-artificial-intelligence-moving-to-production/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2020/10/08/nvidia-gtc-presentation-on-trends-for-2021-showed-they-see-more-business-artificial-intelligence-moving-to-production/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/10/08/nvidia-gtc-presentation-on-trends-for-2021-showed-they-see-more-business-artificial-intelligence-moving-to-production/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/10/08/nvidia-gtc-presentation-on-trends-for-2021-showed-they-see-more-business-artificial-intelligence-moving-to-production/amp/",
+      "publishedDateTime": "2020-10-08T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-ibm-shares-rise-on-plans-to-spin-off-its-it-infrastructure-unit-and-focus-on-the-cloud-business.md",
       "title": "IBM shares rise on plans to spin off its IT infrastructure unit and focus on the cloud business",
       "excerpt": "IBM said on Thursday it would spin off its IT infrastructure unit to focus more on cloud computing, a high-margin business that has seen a boost as companies increasingly ramp up their digital shift.",
@@ -1117,57 +1167,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-highlights-from-nvidias-landmark-gpu-technology-conference-eweek.md",
-      "title": "Highlights from NVIDIA’s Landmark GPU Technology Conference - eWEEK",
-      "excerpt": "CEO described the combination of GPUs and the abundance of data as the “big bang” of modern AI. It’s arrived. Are you ready?",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/web/index.php/innovation/highlights-from-nvidia-s-landmark-gpu-technology-conference",
-      "originalUrl": "https://www.eweek.com/web/index.php/innovation/highlights-from-nvidia-s-landmark-gpu-technology-conference",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2020/06/NVIDIA.logo.black.green.JPG?alias=social_image",
-          "width": 560,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

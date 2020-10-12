@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-09-10-the-8-best-ai-stocks-on-the-market-today.md",
-      "title": "The 8 Best AI Stocks on the Market Today",
-      "excerpt": "Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is one of the hottest and most controversial",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/best-ai-stocks-on-the-market-today-1029575327",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/best-ai-stocks-on-the-market-today-1029575327",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/best-ai-stocks-on-the-market-today-1029575327",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/best-ai-stocks-on-the-market-today-1029575327",
-      "publishedDateTime": "2020-09-09T11:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-09-tamr-data-mastering-platform-now-available-on-microsoft-azure.md",
       "title": "Tamr Data Mastering Platform Now Available on Microsoft Azure",
       "excerpt": "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced its cloud-native capabilities on Microsoft Azure. These capabilities allow companies to master",
@@ -1346,6 +1303,49 @@
         "Microsoft AI",
         "AI",
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-01-tech-moves-former-amazon-vp-brad-porter-joins-scale-ai-as-cto-uw-names-new-communication-leadership-director-and-more.md",
+      "title": "Tech Moves: Former Amazon VP Brad Porter joins Scale AI as CTO; UW names new Communication Leadership director; and more",
+      "excerpt": "Brad Porter, the longtime Amazon robotics leader, has surfaced as the first chief technology officer of Scale AI, a San Francisco-based company seeking to accelerate the development of",
+      "sourceUrl": null,
+      "webUrl": "https://mobile.twitter.com/bradporter_?lang=en",
+      "originalUrl": "https://www.geekwire.com/2020/tech-moves-former-amazon-vp-brad-porter-joins-scale-ai-cto-uw-names-new-communication-leadership-director/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-31T13:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "Microsoft AI"
       ]
     }
   ],

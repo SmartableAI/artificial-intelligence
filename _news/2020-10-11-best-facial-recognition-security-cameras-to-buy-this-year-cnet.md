@@ -73,6 +73,15 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "Voters to Decide on Strengthening Facial Recognition Ban"
+    excerpt: "On Nov. 3, Portland voters will decide if an ordinance that would allow citizens to sue the city for illegal surveillance and require the city to suppress illegally obtained evidence, the Portland Press Herald reported. In addition, violations of the ..."
+    publishedDateTime: 2020-10-12T21:56:00Z
+    webUrl: "https://www.usnews.com/news/best-states/maine/articles/2020-10-12/voters-to-decide-on-strengthening-facial-recognition-ban"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "Facial Recognition Technology Can prove a Curse"
     excerpt: "Divyanshu Dembi Facial recognition technology as a concept, is not new. Charles Darwin, in his book Expressions of Emotions argued that human facial"
     publishedDateTime: 2020-10-10T18:34:00Z
