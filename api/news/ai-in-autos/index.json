@@ -62,7 +62,7 @@
       "originalUrl": "https://www.fleetequipmentmag.com/torc-robotics-scale-self-driving-fleet-daimler-trucks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -290,50 +290,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-maxim-integrateds-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices.md",
-      "title": "Maxim Integrated's Neural Network Accelerator Chip Enables IoT Artificial Intelligence in Battery-Powered Devices",
-      "excerpt": "For details about Maxim Integrated's Artificial Intelligence solutions, visit http://bit.ly/Maxim_AI To order MAX78000 or learn more, visit http://bit.ly/MAX78000 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanzen.net/nachricht/aktien/maxim-integrated-s-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-9368772",
-      "originalUrl": "https://www.finanzen.net/nachricht/aktien/maxim-integrated-s-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-9368772",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanzen",
-        "domain": "finanzen.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
       ]
     },
     {
@@ -600,6 +556,48 @@
       ]
     },
     {
+      "path": "_news/2020-10-02-7-artificial-intelligence-stocks-to-buy-for-october.md",
+      "title": "7 Artificial Intelligence Stocks to Buy for October",
+      "excerpt": "But if there is one on Wall Street, it’s the rise of artificial intelligence stocks. Yes, there is the profitability angle from machine learning and other relevant technology facilitates.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/7-artificial-intelligence-stocks-to-buy-october-1029644435",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/7-artificial-intelligence-stocks-to-buy-october-1029644435",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/7-artificial-intelligence-stocks-to-buy-october-1029644435",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/7-artificial-intelligence-stocks-to-buy-october-1029644435",
+      "publishedDateTime": "2020-10-02T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-01-getting-started-with-aws-deepracer-community-races.md",
       "title": "Getting started with AWS DeepRacer community races",
       "excerpt": "AWS DeepRacer allows you to get hands-on with machine learning (ML) through a fully autonomous 1/18th scale race car driven by reinforcement learning, a 3D racing simulator on the AWS DeepRacer console, a global racing league, and hundreds of customer-initiated community races. With AWS DeepRacer community",
@@ -756,6 +754,48 @@
       ]
     },
     {
+      "path": "_news/2020-10-01-ayn-infotech-strengthens-organizations-through-artificial-intelligence-and-blockchain-enabled-enterprise-software-solutions.md",
+      "title": "AYN InfoTech Strengthens Organizations Through Artificial Intelligence And Blockchain Enabled Enterprise Software Solutions",
+      "excerpt": "AYN InfoTech is one such company that has made a formidable mark for being a leader in Enterprise Software Solutions using Artificial Intelligence and Blockchain. They have built this reputation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanzen.net/nachricht/aktien/ayn-infotech-strengthens-organizations-through-artificial-intelligence-and-blockchain-enabled-enterprise-software-solutions-9350130",
+      "originalUrl": "https://www.finanzen.net/nachricht/aktien/ayn-infotech-strengthens-organizations-through-artificial-intelligence-and-blockchain-enabled-enterprise-software-solutions-9350130",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-01T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanzen",
+        "domain": "finanzen.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-01-baidu-fundraising-puts-3bn-value-on-smart-device-business.md",
       "title": "Baidu fundraising puts $3bn value on smart device business",
       "excerpt": "HONG KONG -- Chinese web search leader Baidu has brought in outside investors for its voice assistant and smart device business, setting the stage for a potential spinoff while valuing the ...",
@@ -800,33 +840,33 @@
     {
       "path": "_news/2020-09-30-worldwide-self-driving-taxi-industry-to-2024-key-leading-countries.md",
       "title": "Worldwide Self-driving Taxi Industry to 2024 - Key Leading Countries",
-      "excerpt": "PRNewswire/ -- The \"Global Self-driving Taxi Market 2020-2024\" report has been added to ResearchAndMarkets.com's offering. The self-driving taxi market",
+      "excerpt": "PRNewswire/ -- The 'Global Self-driving Taxi Market 2020-2024' report has been added to ResearchAndMarkets.com's",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/worldwide-self-driving-taxi-industry-to-2024---key-leading-countries-301142078.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/worldwide-self-driving-taxi-industry-to-2024---key-leading-countries-301142078.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/worldwide-self-driving-taxi-industry-to-2024-key-leading-countries-1029636271",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/worldwide-self-driving-taxi-industry-to-2024-key-leading-countries-1029636271",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook",
-          "width": 800,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T08:45:00-07:00",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/worldwide-self-driving-taxi-industry-to-2024-key-leading-countries-1029636271",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/worldwide-self-driving-taxi-industry-to-2024-key-leading-countries-1029636271",
+      "publishedDateTime": "2020-09-30T09:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -933,21 +973,21 @@
       ]
     },
     {
-      "path": "_news/2020-09-29-bjarke-ingels-group-plans-ai-city-in-china-to-advance-future-of-artificial-intelligence.md",
-      "title": "bjarke ingels group plans AI CITY in china to advance future of artificial intelligence",
-      "excerpt": "BIG AI CITY seeks to provide terminus, and the world’s leading tech companies, with a place to advance the future of artificial intelligence and robotics, and build the foundations of a new sustainable development.",
+      "path": "_news/2020-09-29-data-science-to-accelerate-drug-discovery-with-artificial-intelligence-and-machine-learning-says-frost-sullivan.md",
+      "title": "Data Science to Accelerate Drug Discovery with Artificial Intelligence and Machine Learning, Says Frost & Sullivan",
+      "excerpt": "When combined with other emerging tech areas, artificial intelligence (AI) technologies move to the next phase of advancements. Hence, they are expected to witness adoption by pharma and biotech ...",
       "sourceUrl": null,
-      "webUrl": "https://www.designboom.com/architecture/bjarke-ingels-group-ai-city-china-artificial-intelligence-terminus-group-09-29-2020/",
-      "originalUrl": "https://www.designboom.com/architecture/bjarke-ingels-group-ai-city-china-artificial-intelligence-terminus-group-09-29-2020/",
+      "webUrl": "https://www.finanzen.net/nachricht/aktien/data-science-to-accelerate-drug-discovery-with-artificial-intelligence-and-machine-learning-says-frost-sullivan-9342599",
+      "originalUrl": "https://www.finanzen.net/nachricht/aktien/data-science-to-accelerate-drug-discovery-with-artificial-intelligence-and-machine-learning-says-frost-sullivan-9342599",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.designboom.com/wp-content/uploads/2020/09/bjarke-ingels-group-BIG-AI-city-terminus-group-chongqing-china-designboom-Fb.jpg",
-          "width": 1000,
-          "height": 526,
+          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
+          "width": 600,
+          "height": 315,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -956,11 +996,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-29T09:55:00-07:00",
+      "publishedDateTime": "2020-09-29T08:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Designboom",
-        "domain": "designboom.com",
+        "name": "Finanzen",
+        "domain": "finanzen.net",
         "images": null,
         "publishers": null,
         "authors": null
@@ -971,7 +1011,8 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1336,57 +1377,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-swedens-ericsson-telia-present-self-driving-bus-ahead-of-5g-spectrum-auction.md",
-      "title": "Sweden's Ericsson, Telia present self-driving bus ahead of 5G spectrum auction",
-      "excerpt": "STOCKHOLM (Reuters) - Telecoms gear maker Ericsson ERICb.ST and mobile operator Telia TELIA.ST on Thursday showcased a self-driving, electric bus in Stockholm as the companies look at new business ...",
-      "sourceUrl": null,
-      "webUrl": "https://uk.reuters.com/article/uk-ericsson-autonomous-idUKKCN26F2WN",
-      "originalUrl": "https://uk.reuters.com/article/uk-ericsson-autonomous-idUKKCN26F2WN",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200924&t=2&i=1534799334&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8N1NF",
-          "width": 726,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://uk.mobile.reuters.com/article/amp/idUKKCN26F2WN",
-      "cdnAmpWebUrl": "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKCN26F2WN",
-      "publishedDateTime": "2020-09-24T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

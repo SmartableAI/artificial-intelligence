@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/microsoft-and-red-hat-announce-genera
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/microsoft-and-red-hat-announce-general-availability-of-azure-red-hat-openshift-in-india-to-fuel-hybrid-cloud-development-and-transform-businesses/?amp"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 800
     height: 533
     isCached: true
-
-related:
-  - title: "Webinar: Transforming Business Models with System Soft Technologies and Microsoft Azure"
-    excerpt: "(GLOBE NEWSWIRE) -- System Soft Technologies (SSTech), a leader in enterprise IT services, solutions and products, today announced the company is making available its recent webinar about how organizations are using Microsoft Azure Cloud Services to enhance their business operations and spur growth during these uncertain economic times."
-    publishedDateTime: 2020-10-07T16:00:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-north-america-products-and-services-abd7775219a08f49fc7dd2b81b837978"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 46
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "a+V0f52lcB+djaXYmaWFfcx81r4lTrT/X9TBSukimudunUHgIz7kvTvm3X5F95MkpSMc7Bd2ETNofvOIH2JnB9Uhb6sS7F4NyFZ8Hgi3vAgFK8Yta0dxMYyr7ZhOWDOfcj6+ZazLaTVTjrGO8tOpyM2qzAeJWmLZ6BFZ65300mnYvvGKMdLYfEhYywQtCU911iQfXvM1U1YK0J8DygNdK6YANxEHLRdmUc/PUPlKFXFclYBRQ/HcYIMcedrxmZqFaDzJx1I0MYQ1CWNmMSx2GJOa71d4dSIWYfeFWbgVIOIdBoalQ6Lee2XCtej/6RLoK0wCVuByd970E8xZKlW5HrTymqfObWk+SySGLW2MEqRK1Imw9qB26bK7BhCy6dmsGX3oVeFDf7UFY0gRf3y35eD37XNWhH8lg7ntd/h6e6OGxh26BaEk+erO1ZnaIyssd72pUgXwC9HdnUdjtUhXh14VY5kvbgeyu+lWivikU8YI7m450YfodAlRD254uIK7X0J5ozOKerKGLxN84VP3Cg==;MQiGbp6bfQaOtxorynWoQA=="
 ---

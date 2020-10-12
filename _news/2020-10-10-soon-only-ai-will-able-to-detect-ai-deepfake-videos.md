@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "This AI Deepfakes Reality In The Name Of Privacy"
+    excerpt: "The deepfake technology I’m taking about is from a Berlin-based startup called Brighter AI, which provides privacy solutions for an increasingly surveilled world: license plate blurring and face blurring so companies with cameras can comply with European privacy laws,"
+    publishedDateTime: 2020-10-08T08:40:00Z
+    webUrl: "https://www.forbes.com/sites/johnkoetsier/2020/10/07/synthetic-faces-this-ai-falsifies-reality-in-the-name-of-privacy/"
+    ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/10/07/synthetic-faces-this-ai-falsifies-reality-in-the-name-of-privacy/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/10/07/synthetic-faces-this-ai-falsifies-reality-in-the-name-of-privacy/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7de968419bf5f836413c4d%2F0x0.jpg"
+        width: 1000
+        height: 693
+        isCached: true
   - title: "AI Weekly: Nvidia’s Maxine opens the door to deepfakes and bias in video calls"
     excerpt: "Will AI power video chats of the future? That’s what Nvidia implied this week with the unveiling of Maxine, a platform that provides developers with a suite of GPU-accelerated AI conferencing ..."
     publishedDateTime: 2020-10-09T19:51:00Z
@@ -40,6 +56,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "In a battle of AI versus AI, researchers are preparing for the coming wave of deepfake propaganda"
+    excerpt: "Fake videos generated with sophisticated AI tools are a looming threat. Researchers are racing to build tools that can detect them, tools that are crucial for journalists to counter disinformation."
+    publishedDateTime: 2020-10-09T12:28:00Z
+    webUrl: "https://theconversation.com/in-a-battle-of-ai-versus-ai-researchers-are-preparing-for-the-coming-wave-of-deepfake-propaganda-146536"
+    ampWebUrl: "https://theconversation.com/amp/in-a-battle-of-ai-versus-ai-researchers-are-preparing-for-the-coming-wave-of-deepfake-propaganda-146536"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/in-a-battle-of-ai-versus-ai-researchers-are-preparing-for-the-coming-wave-of-deepfake-propaganda-146536"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 26
 
 secured: "4X4yLeoQCP45bZRO3i3FUp5gpzik7aY/lPsv7OXn117T2Fr5SOa8s77QKCxP7E8r3ApmG6bndv2TWxehmRH5Ra/JPFwgdlkbBTPlNBPKoUWgINmFYY56kN0N/ILIS93yiNZAaGZzLufZJB462nac5KV8duaaBjj/2Cfg4+EzPTgsstdKFdqmDmciz5yvWhZXZYIsDGHXWH0PLPnDMCpuFRuYD05o7kEpytOMlxzBuicBGtg/6tNcBCW2lznQ2Mul6FoQ6TnoB2+TdQlEY7NC6WxYdyjhTRu0G+e+/U0hVPt2fKetEwW1BUFNnuVIie8JPOuRF+3moi6NdoYEiNYhsjJhBJJDpwjzwLCgNMoP730=;aweLk3UsSStpN5vr67Xf1Q=="
 ---

@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "Facebook India appoints Sunil Abraham as Public Policy Director"
-    excerpt: "Facebook on Monday said it has appointed Sunil Abraham as the Public Policy, Director for Data and Emerging Tech, to lead and shape the company's stance on tech policy issues in India. Reporting to the Public Policy Director,"
-    publishedDateTime: 2020-10-12T07:11:00Z
-    webUrl: "https://www.thehindubusinessline.com/news/national/facebook-india-appoints-sunil-abraham-as-public-policy-director/article32832591.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/news/national/facebook-india-appoints-sunil-abraham-as-public-policy-director/article32832591.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/national/facebook-india-appoints-sunil-abraham-as-public-policy-director/article32832591.ece/amp/"
+    excerpt: "Facebook India on Monday announced Sunil Abraham as the company’s public policy director for data and emerging technology. He will lead the company’s stance on technology-related policy issues in India."
+    publishedDateTime: 2020-10-12T08:47:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/facebook-india-appoints-sunil-abraham-as-public-policy-director/article32833378.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/facebook-india-appoints-sunil-abraham-as-public-policy-director/article32833378.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/facebook-india-appoints-sunil-abraham-as-public-policy-director/article32833378.ece/amp/"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
+      name: The Hindu
+      domain: thehindu.com
     quality: 44
     images:
-      - url: "https://www.thehindubusinessline.com/news/national/yjw3s9/article32832590.ece/ALTERNATES/LANDSCAPE_615/BL13FB"
+      - url: "https://www.thehindu.com/sci-tech/technology/3pxhg9/article32833395.ece/ALTERNATES/LANDSCAPE_615/facebook-public-policy-directorjpg"
         width: 615
         height: 384
         isCached: true

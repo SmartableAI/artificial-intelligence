@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Facebook India appoints Sunil Abraham as Public Policy Director"
-excerpt: "Facebook on Monday said it has appointed Sunil Abraham as the Public Policy, Director for Data and Emerging Tech, to lead and shape the company's stance on tech policy issues in India. Reporting to the Public Policy Director,"
-publishedDateTime: 2020-10-12T07:11:00Z
-originalUrl: "https://www.thehindubusinessline.com/news/national/facebook-india-appoints-sunil-abraham-as-public-policy-director/article32832591.ece"
-webUrl: "https://www.thehindubusinessline.com/news/national/facebook-india-appoints-sunil-abraham-as-public-policy-director/article32832591.ece"
-ampWebUrl: "https://www.thehindubusinessline.com/news/national/facebook-india-appoints-sunil-abraham-as-public-policy-director/article32832591.ece/amp/"
-cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/national/facebook-india-appoints-sunil-abraham-as-public-policy-director/article32832591.ece/amp/"
+excerpt: "Facebook India on Monday announced Sunil Abraham as the company’s public policy director for data and emerging technology. He will lead the company’s stance on technology-related policy issues in India."
+publishedDateTime: 2020-10-12T08:47:00Z
+originalUrl: "https://www.thehindu.com/sci-tech/technology/facebook-india-appoints-sunil-abraham-as-public-policy-director/article32833378.ece"
+webUrl: "https://www.thehindu.com/sci-tech/technology/facebook-india-appoints-sunil-abraham-as-public-policy-director/article32833378.ece"
+ampWebUrl: "https://www.thehindu.com/sci-tech/technology/facebook-india-appoints-sunil-abraham-as-public-policy-director/article32833378.ece/amp/"
+cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/facebook-india-appoints-sunil-abraham-as-public-policy-director/article32833378.ece/amp/"
 type: article
 quality: 44
 heat: 44
 published: false
 
 provider:
-  name: Business Line
-  domain: thehindubusinessline.com
+  name: The Hindu
+  domain: thehindu.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://www.thehindubusinessline.com/news/national/yjw3s9/article32832590.ece/ALTERNATES/LANDSCAPE_615/BL13FB"
+  - url: "https://www.thehindu.com/sci-tech/technology/3pxhg9/article32833395.ece/ALTERNATES/LANDSCAPE_615/facebook-public-policy-directorjpg"
     width: 615
     height: 384
     isCached: true
@@ -42,6 +42,6 @@ related:
         height: 600
         isCached: true
 
-secured: "7vc1BdFkAmM4hwWhCSDWMKiYKPCyoevH9P5R6loVFMh1b++IikNqhp7oodDk/mE8O1YadThYgAkZWtQxTbbarPy7EORUJCfMisocaca/cVwjCwIraUVnJx8DeTC70mXzBITQV1Nerhd3JQ/jmZ9qK6Mub9oKML8FmQtcSdCVF76WVTfJL2QaHJCpsmRglF4liqrcR0p/jMJb6m4jOn753P9P8DytL6WDLxX8YfLHc9YfEqVwtlZRs62v7VCMpvGe8DsFGNIdB8xxFnq+lDiq1NoN69Tr6qd5JmxPByEqePc8/+/E7ctraeFs0gjILZOhirBvX3BnEfdun90XEu1oSwyOb37WAVJ/ai9aaC6vVlw=;kna7NMAC33TiqHV5NDHEUw=="
+secured: "cQUhI9J1uE1AscuNm0IxDzP2HyrN8MnMwjLWFKENxrjXyC24xkfR4IhEgNLUBrrhsb4H94ag1azmli+XvZfr+foOKZQgaMxPXG6phIAUTIV53LVBELhdjaZoRVfPaXIkFWCSlEsCceMBL4lPcV6lDbAfRyIjF2aer65JoVpiol89xjaC8FySRuXNiZkUVJpHC8parVbt68nui9yVZC6dXZvLdF92o5X/r1cqdqQhqhIxJRF/H0Nq0ianY42iTRbPn1s47Z7inDku48jVsBxZZL8udok34qfCJkJp82w11IGnsYU2hdDrIOYa+z8QOgqfGS9qW/5os+zasE+MWvOSsGFLi6pBsEwumIpHnMZ3Dfs=;2eFymgeJNBc2wfnEetXuOQ=="
 ---
 

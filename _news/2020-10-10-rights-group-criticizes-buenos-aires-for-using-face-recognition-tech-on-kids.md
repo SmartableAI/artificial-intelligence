@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26U23Z"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26U23Z"
 type: article
 quality: 101
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -31,6 +31,17 @@ images:
     isCached: true
 
 related:
+  - title: "Rights Group Blasts Argentina for Using Face Recognition Tech on Kids"
+    excerpt: "Human Rights Watch wants the city of Buenos Aires to stop using live facial recognition to identify children accused of committing crimes, the rights group said on Friday. New York-based Human Rights Watch said Buenos Aires started using the technology in 2019,"
+    publishedDateTime: 2020-10-09T17:22:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2020-10-09/rights-group-blasts-argentina-for-using-face-recognition-tech-on-kids"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-10-09/rights-group-blasts-argentina-for-using-face-recognition-tech-on-kids?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-10-09/rights-group-blasts-argentina-for-using-face-recognition-tech-on-kids?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 69
   - title: "Buenos Aires is using facial recognition system that tracks child suspects, rights group says"
     excerpt: "The country has made public the warrants of children wanted for alleged crimes, in violation of international law, according to Human Rights Watch."
     publishedDateTime: 2020-10-09T13:43:00Z

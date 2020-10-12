@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/startups-that-won-indias-ai-solution
 webUrl: "https://analyticsindiamag.com/startups-that-won-indias-ai-solution-challenge-at-raise-2020/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -33,7 +33,7 @@ related:
     provider:
       name: Analytics Insight
       domain: analyticsinsight.net
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Artificial-Intelligence-10.jpg"
         width: 1440

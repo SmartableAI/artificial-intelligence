@@ -1,28 +1,24 @@
 ---
 category: news
 title: "IBM Enters Esports Arena with Activision Blizzard in New Multi-Year Deal as the Presenting Partner of the Overwatch League Grand Finals"
-excerpt: "IBM's Watson artificial intelligence, and machine learning ARMONK, New York and IRVINE, California, Oct. 9, 2020 /PRNewswire/ -- Today, IBM and the Overwatch League™, the world's first ..."
-publishedDateTime: 2020-10-09T06:01:00Z
-originalUrl: "https://www.finanzen.net/nachricht/aktien/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-9375853"
-webUrl: "https://www.finanzen.net/nachricht/aktien/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-9375853"
+excerpt: "IBM's Watson artificial intelligence, and machine learning Through the course of the deal, IBM and the Overwatch League plan to leverage IBM's suite of advanced cloud and AI products."
+publishedDateTime: 2020-10-09T06:18:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/10/n17846724/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner"
+webUrl: "https://www.benzinga.com/pressreleases/20/10/n17846724/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17846724"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17846724"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Finanzen
-  domain: finanzen.net
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - IBM AI
   - AI
-
-images:
-  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "IBM Inks Its First-Ever Esports Deal With The Overwatch League"
@@ -154,6 +150,6 @@ related:
         height: 1206
         isCached: true
 
-secured: "3qBkeJodDE5mIwPGI22OtHEbBy0Tbjs8W3JMG9zWsG4N46zvaAj93JT0Q+g62fpkXdzTy8snobzoftDu6mq8XScIQ3yiVvamgBTfBLpcGFb90Txp7zEY9fuHnsX3OaLINaR12tFK4L/okkvAm9EQ58WCt/Qge6jnlo+GDAR6LYClNKkatBA9fDzT+pWGnXVEQc+Xspj1JLNL06+BbF8Q/1qfVPgEDEAdUJ1MPuLBCIuIwCsSZVAfPqxnxFtLlXAD8/x/AHsSZkcKJjc1zF5c62/susl10OXiiuiDYt7nHI542P4u5ptLrkCR7io/WDkiaF1o9uQCzET3O9n25ByN8PNYgsDADfapeww+4DZY4OA=;tR6203RcOcfubWhVLfvd9g=="
+secured: "pT0lQo8Fd1mnvWmHXbMxbVlRcMJCG4DNxg+ioLtnEiO1ER5Dw6DKntmF86uI7VFu5160iQ9YFmdJqXN78EDccCp384vqoIQSuDfg+1Q3gPAsgDIii3diIMYISKUWVyb167P72xU7++wnd0mo7dOIY2vW3a+8osSIsaFfJZ/nrs8Vrd/dxY27ss8RKJED+gYAoU3vSAiBEhRNUVKSWtMqqfhH3JbZQKkvzWIhlrGHFu4yhp64NVS8SO+B7JMH8fZvdenM5pIVDZLOSYJK4v4rgl3Oy+wJBnnyKnyjmKm2CJQWOKbQXlwcyai016LviUOZuwL+RusbRg6ueFKsrd0y7kHqafYriy6zrQSljBigtNs=;y/QoE9mufPH53SLcVD84Tw=="
 ---
 

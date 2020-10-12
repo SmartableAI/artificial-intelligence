@@ -7,7 +7,7 @@ originalUrl: "https://www.fleetequipmentmag.com/torc-robotics-scale-self-driving
 webUrl: "https://www.fleetequipmentmag.com/torc-robotics-scale-self-driving-fleet-daimler-trucks/"
 type: article
 quality: 71
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Torc to scale self-driving fleet with next-gen Daimler test trucks designed for its L4 system"
+    excerpt: "just-auto gives its paid members access to the very best automotive market coverage. And now there’s just-auto plus, our premium membership that gives you exclusive component forecast data, company profiles and extended news coverage - just for premium members. Today I can offer you 30 days access for $1 - and that includes just-auto plus."
+    publishedDateTime: 2020-10-12T09:40:00Z
+    webUrl: "https://www.just-auto.com/news/torc-to-scale-self-driving-fleet-with-next-gen-daimler-test-trucks-designed-for-its-l4-system_id198141.aspx"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 28
+    images:
+      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Torc to scale self-driving fleet with DTNA test trucks in early 2021"
     excerpt: "According to both companies, the goal is to co-develop a Level 4 Freightliner Cascadia that includes safety-critical redundancy components, as well as integration of additional computes and hardware that are required for self-driving technology."
     publishedDateTime: 2020-10-09T14:31:00Z

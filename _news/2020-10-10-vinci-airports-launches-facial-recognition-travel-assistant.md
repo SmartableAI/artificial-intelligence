@@ -7,7 +7,7 @@ originalUrl: "https://www.hstoday.us/industry/vinci-airports-launches-facial-rec
 webUrl: "https://www.hstoday.us/industry/vinci-airports-launches-facial-recognition-travel-assistant/"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,33 +23,6 @@ images:
     width: 1280
     height: 853
     isCached: true
-
-related:
-  - title: "CBP expands facial recognition program to international travelers at San Francisco and San Jose airports"
-    excerpt: "U.S. Customs and Border Protection is expanding a controversial facial recognition program to airports in San Jose and San Francisco."
-    publishedDateTime: 2020-10-07T16:56:00Z
-    webUrl: "https://venturebeat.com/2020/10/07/cbp-expands-facial-recognition-program-to-international-travelers-at-san-francisco-and-san-jose-airports/"
-    ampWebUrl: "https://venturebeat.com/2020/10/07/cbp-expands-facial-recognition-program-to-international-travelers-at-san-francisco-and-san-jose-airports/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/07/cbp-expands-facial-recognition-program-to-international-travelers-at-san-francisco-and-san-jose-airports/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1199708189-e1600898324155.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Cincinnati startup picked for San Francisco virtual accelerator"
-    excerpt: "A San Francisco-based equity-free accelerator has selected six startups to participate in its latest cohort, and a company from Cincinnati made the list. Cloverleaf, a firm that uses data to help companies put together stronger teams,"
-    publishedDateTime: 2020-10-09T15:02:00Z
-    webUrl: "https://www.bizjournals.com/cincinnati/inno/stories/news/2020/10/09/cloverleaf-picked-for-san-francisco-accelerator.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 2
 
 secured: "+8ReUXZPeuQayJ2wWabHDcMBgDoKgBt0cCjibBjuWaSP678yDwkEXQRmF8HuwSg0xfvU0mhxiS85GEgm05vj3zwO7bR6hRBC7j/3pS7ts0nwjreWhYoxpiWWnw6EuATEVw7HPhNETcKRxx3IEXPQZvdE0bPtgCE1HqWAdywFMaswIKC7o4ozf6vjrkVKTCoSz3HLQTkQld3yHVcISicgLGhaORpKRM8kPHrZBpJ6CR75M3k4Vu9bY2c5EZVlvM2jPsdABksDk33R8Yup4w51Lam0QYK8pfU9juAh6IHdwPyEleLnXeT7u9PFagVkyJu6a+S8m1T9PuirYftSiUKWRVKNNPUOifY/9LxSjPYWpM4yXx/pfuvBPHjaWJdJbELCK3fa3gbT4t2Tg6HPQED0kzQ4zy7v2KxoIHdJbaK/j5w3TuUh31kAs3jvi3B9YyHhoLQr8DRztVHD6mmXA3MGSlhK6YE/P0dYzmBtM+A20ZbEV+EKFwg7DvCisweTlUZBDhX98g2TjMD+KW1slRVo2Q==;MEw2ZYOa2nKHA8Q35WRf4A=="
 ---

@@ -2,6 +2,98 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-06-where-artificial-intelligence-meets-urban-planning.md",
+      "title": "Where Artificial Intelligence Meets Urban Planning",
+      "excerpt": "First-year doctoral student is disseminating an AI program capable of changing the world of urban planning. Before you ever step into a new coffee shop, years of urban planning have gone into building that brick-and-mortar building in your neighborhood.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ucf.edu/news/where-artificial-intelligence-meets-urban-planning/",
+      "originalUrl": "https://www.ucf.edu/news/where-artificial-intelligence-meets-urban-planning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ucf.edu/news/files/2020/10/AI.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.ucf.edu/news/where-artificial-intelligence-meets-urban-planning/?amp",
+      "cdnAmpWebUrl": "https://www-ucf-edu.cdn.ampproject.org/c/s/www.ucf.edu/news/where-artificial-intelligence-meets-urban-planning/?amp",
+      "publishedDateTime": "2020-10-06T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UCF Today",
+        "domain": "ucf.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-healthcare-leaders-pioneer-a-new-collaboration-model-to-transform-the-future-of-drug-development.md",
+      "title": "Healthcare Leaders Pioneer A New Collaboration Model To Transform The Future Of Drug Development",
+      "excerpt": "The reinvention of drug development through partnership was the the theme of this breakthrough discussion of leaders. Through collaboration and use of AI in drug development new barriers can be broken",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robertreiss/2020/10/06/healthcare-leaders-pioneer-a-new-collaboration-model-to-transform-the-future-of-drug-development/",
+      "originalUrl": "https://www.forbes.com/sites/robertreiss/2020/10/06/healthcare-leaders-pioneer-a-new-collaboration-model-to-transform-the-future-of-drug-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7c684c02408a41404d0e10%2F0x0.jpg",
+          "width": 1097,
+          "height": 730,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robertreiss/2020/10/06/healthcare-leaders-pioneer-a-new-collaboration-model-to-transform-the-future-of-drug-development/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertreiss/2020/10/06/healthcare-leaders-pioneer-a-new-collaboration-model-to-transform-the-future-of-drug-development/amp/",
+      "publishedDateTime": "2020-10-06T05:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-tipalti-raises-150-million-to-automate-payment-workflows-with-ai.md",
       "title": "Tipalti raises $150 million to automate payment workflows with AI",
       "excerpt": "Payments automation company Tipalti has raised $150 million at a $2 billion valuation to further expand its global workforce.",
@@ -1089,108 +1181,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-madrona-leads-39m-seed-round-for-cybersecurity-compliance-startup-strike-graph.md",
-      "title": "Madrona leads $3.9M seed round for cybersecurity compliance startup Strike Graph",
-      "excerpt": "Seattle startup Strike Graph raised a $3.9 million seed round led by Madrona Venture Group. The company, founded less than a year ago and spun out of Madrona Venture Labs, helps companies prepare",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/madrona-leads-3-9m-seed-round-cybersecurity-compliance-startup-strike-graph/",
-      "originalUrl": "https://www.geekwire.com/2020/madrona-leads-3-9m-seed-round-cybersecurity-compliance-startup-strike-graph/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/10/5f7289d48e1dc9851e9ae568_Wall_3426-p-1600-630x499.jpeg",
-          "width": 630,
-          "height": 499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/madrona-leads-3-9m-seed-round-cybersecurity-compliance-startup-strike-graph/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/madrona-leads-3-9m-seed-round-cybersecurity-compliance-startup-strike-graph/amp/",
-      "publishedDateTime": "2020-10-05T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-nvidia-jetson-nano-2gb-is-59-gateway-into-ai-and-robotics.md",
-      "title": "NVIDIA Jetson Nano 2GB is $59 gateway into AI and robotics",
-      "excerpt": "That’s because it taps the same Jetson AI at the Edge platform as the rest of NVIDIA’s Jetson ... The Jetson Nano 2GB gets a 128-core NVIDIA Maxwell GPU and a 64-bit quad-core Arm A57 CPU running at 1.43 GHz. They’re combined with 2GB of LPDDR4 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/nvidia-jetson-nano-2gb-is-59-gateway-into-ai-and-robotics-05641043/",
-      "originalUrl": "https://www.slashgear.com/nvidia-jetson-nano-2gb-is-59-gateway-into-ai-and-robotics-05641043/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/10/nvidia-jetso-nano-2gb.jpg",
-          "width": 1559,
-          "height": 975,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/nvidia-jetson-nano-2gb-is-59-gateway-into-ai-and-robotics-05641043/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidia-jetson-nano-2gb-is-59-gateway-into-ai-and-robotics-05641043/amp/",
-      "publishedDateTime": "2020-10-05T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

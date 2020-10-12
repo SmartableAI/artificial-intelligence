@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://eandt.theiet.org/media/13988/dreamstime_xxl_92026060.jpg?crop=0,0.253125,0,0.25468749999999996&cropmode=percentage&width=1200&height=450&rnd=132463725450000000"

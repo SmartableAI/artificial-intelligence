@@ -2,6 +2,191 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-10-01-saas-based-startup-infilect-raises-15-mn-in-pre-series-a-round.md",
+      "title": "SaaS-Based Startup Infilect Raises $1.5 Mn In Pre-Series A Round",
+      "excerpt": "Bangalore-based software-as-a-service (SaaS) startup Infilect has raised USD 1.5 million in Pre-series A round. The investment round was led by Mela Ventures and 1Crowd along with participation from The Chennai Angles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/357009",
+      "originalUrl": "https://www.entrepreneur.com/article/357009",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1601530012-Infilect-Founders-Logo2.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/357009",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/357009",
+      "publishedDateTime": "2020-09-30T22:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-legaltech-artificial-intelligence-market-to-witness-a-sizable-expansion-of-3594-cagr-by-2026-zion-market-research.md",
+      "title": "LegalTech Artificial Intelligence Market To Witness A Sizable Expansion of 35.94% CAGR by 2026 – Zion Market Research",
+      "excerpt": "According to the report, the global legaltech artificial intelligence market was valued at approximately USD 3,245 million in 2018 and is expected to generate around USD 37,858 million by 2026, at a CAGR of around 35.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/marketersmedia/technology-business-corporate-news-technology-issues-computer-and-data-security-6170fb08a59333afc9d0d5a88c330456",
+      "originalUrl": "https://apnews.com/press-release/marketersmedia/technology-business-corporate-news-technology-issues-computer-and-data-security-6170fb08a59333afc9d0d5a88c330456",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-30T19:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-va-boston-and-bu-researchers-use-machine-learning-to-streamline-the-diagnostic-tool-for-ptsd.md",
+      "title": "VA Boston and BU researchers use machine learning to streamline the diagnostic tool for PTSD",
+      "excerpt": "Post-traumatic stress disorder (PTSD) affects eight million adults in the US, including hundreds of thousands of veterans of the conflicts in Iraq and Afghanistan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20200930/VA-Boston-and-BU-researchers-use-machine-learning-to-streamline-the-diagnostic-tool-for-PTSD.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20200930/VA-Boston-and-BU-researchers-use-machine-learning-to-streamline-the-diagnostic-tool-for-PTSD.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2016%2f3%2fAbstract_medicine_background-Hilch-1000_f0a8c263e6e04ed18dfcc5ef27c17907-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200930/VA-Boston-and-BU-researchers-use-machine-learning-to-streamline-the-diagnostic-tool-for-PTSD.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200930/VA-Boston-and-BU-researchers-use-machine-learning-to-streamline-the-diagnostic-tool-for-PTSD.aspx",
+      "publishedDateTime": "2020-09-30T17:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning.md",
+      "title": "Will AI cross the proverbial chasm? Algorithmia resolves the practical pitfalls of machine learning",
+      "excerpt": "Also: AI startup Abacus goes live with commercial deep learning service, takes $13M Series A financing To Daniel, the gulf that he observed in academia between pure research and software engineering is the thing that has always shot down AI in past.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/09/29/8d457003-6fff-4124-8566-6fa533c43731/kenny-daniel-algorithmia-2020.png",
+          "width": 2053,
+          "height": 1118,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning/",
+      "publishedDateTime": "2020-09-30T16:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-this-month-in-aws-machine-learning-september-2020-edition.md",
       "title": "This month in AWS Machine Learning: September 2020 edition",
       "excerpt": "Every day there is something new going on in the world of AWS Machine Learning—from launches to new use cases to interactive trainings. We’re packaging some of the not-to-miss information from the ML Blog and beyond for easy perusing each month. Check back at the end of each month for the latest roundup.",
@@ -838,6 +1023,48 @@
       ]
     },
     {
+      "path": "_news/2020-09-30-worldwide-self-driving-taxi-industry-to-2024-key-leading-countries.md",
+      "title": "Worldwide Self-driving Taxi Industry to 2024 - Key Leading Countries",
+      "excerpt": "PRNewswire/ -- The 'Global Self-driving Taxi Market 2020-2024' report has been added to ResearchAndMarkets.com's",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/worldwide-self-driving-taxi-industry-to-2024-key-leading-countries-1029636271",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/worldwide-self-driving-taxi-industry-to-2024-key-leading-countries-1029636271",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/worldwide-self-driving-taxi-industry-to-2024-key-leading-countries-1029636271",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/worldwide-self-driving-taxi-industry-to-2024-key-leading-countries-1029636271",
+      "publishedDateTime": "2020-09-30T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-detroit-extends-contract-of-facial-recognition-program-that-doesnt-work.md",
       "title": "Detroit Extends Contract of Facial Recognition Program That Doesn’t Work",
       "excerpt": "The city’s own police chief admits the technology misidentifies 96 percent of time and yet the city voted to extend its use.",
@@ -885,48 +1112,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-worldwide-self-driving-taxi-industry-to-2024-key-leading-countries.md",
-      "title": "Worldwide Self-driving Taxi Industry to 2024 - Key Leading Countries",
-      "excerpt": "PRNewswire/ -- The \"Global Self-driving Taxi Market 2020-2024\" report has been added to ResearchAndMarkets.com's offering. The self-driving taxi market",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/worldwide-self-driving-taxi-industry-to-2024---key-leading-countries-301142078.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/worldwide-self-driving-taxi-industry-to-2024---key-leading-countries-301142078.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook",
-          "width": 800,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -1019,184 +1204,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-using-machine-learning-to-tackle-some-of-the-worlds-biggest-problems-infographic.md",
-      "title": "Using machine learning to tackle some of the world’s biggest problems (Infographic)",
-      "excerpt": "A look at some of the promising applications of machine learning to benefit society from understanding climate change to finding homes for the homeless.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/30/using-machine-learning-to-tackle-some-of-the-worlds-biggest-problems-infographic/",
-      "originalUrl": "https://venturebeat.com/2020/09/30/using-machine-learning-to-tackle-some-of-the-worlds-biggest-problems-infographic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/aws_VB-feature-image-01.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/30/using-machine-learning-to-tackle-some-of-the-worlds-biggest-problems-infographic/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/30/using-machine-learning-to-tackle-some-of-the-worlds-biggest-problems-infographic/amp/",
-      "publishedDateTime": "2020-09-30T07:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-ai-chipmaker-hailo-accelerates-deep-learning-at-the-edge.md",
-      "title": "AI chipmaker Hailo accelerates deep learning at the edge",
-      "excerpt": "Artificial intelligence chip company Hailo Technologies Ltd. said today it’s launching two new acceleration modules that will boost the processing capabilities of edge devices that run its specialist hardware.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2020/09/30/ai-chipmaker-hailo-accelerates-deep-learning-edge/",
-      "originalUrl": "https://siliconangle.com/2020/09/30/ai-chipmaker-hailo-accelerates-deep-learning-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/Hailo-8-chip-breakthrough-performance-for-deep-learning-applications-at-your-fingertip-800x534.jpg",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-neuromaker-stem-announces-partnership-with-vinci-robotics-academy.md",
-      "title": "NeuroMaker STEM Announces Partnership with Vinci Robotics Academy",
-      "excerpt": "NeuroMaker, the STEM education arm of Somerville based company BrainCo announces their partnership with Vinci Robotics Academy, a 501(c)(3) non-profit organization that operates STEAM educational programs in the greater Boston area.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/neuromaker-stem-announces-partnership-with-vinci-robotics-academy-1029635620",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/neuromaker-stem-announces-partnership-with-vinci-robotics-academy-1029635620",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/neuromaker-stem-announces-partnership-with-vinci-robotics-academy-1029635620",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/neuromaker-stem-announces-partnership-with-vinci-robotics-academy-1029635620",
-      "publishedDateTime": "2020-09-30T06:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-andor-health-collaborates-with-mentor-to-deliver-next-generation-ai-powered-virtual-experiences-with-microsoft-technology.md",
-      "title": "Andor Health Collaborates with Mentor to Deliver Next Generation, AI-Powered Virtual Experiences with Microsoft Technology",
-      "excerpt": "Andor Health and Mentor Worldwide LLC have formed a collaboration to provide the aesthetic physician community with the next-generation virtual health experiences to enhance the relationship between a surgeon and their patients.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-medical-technology-health-artificial-intelligence-computing-and-information-technology-7ebeb192b3437584eac7a740d6619523",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-medical-technology-health-artificial-intelligence-computing-and-information-technology-7ebeb192b3437584eac7a740d6619523",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

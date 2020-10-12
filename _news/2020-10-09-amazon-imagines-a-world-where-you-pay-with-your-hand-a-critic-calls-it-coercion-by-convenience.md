@@ -9,7 +9,7 @@ ampWebUrl: "https://www.inquirer.com/business/amazon-go-one-alexa-surveillance-p
 cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/business/amazon-go-one-alexa-surveillance-privacy-critics-20201008.html?outputType=amp"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1200
     height: 929
     isCached: true
-
-related:
-  - title: "Amazon imagines a world where you pay with your hand. Privacy experts aren’t so sure."
-    excerpt: "First came the always-on microphone, then the flying indoor surveillance drone and now a palm-reading payment system. Amazon has made a business of pushing privacy boundaries."
-    publishedDateTime: 2020-10-07T15:04:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2020/10/07/amazon-palm-privacy/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2020/10/07/amazon-palm-privacy/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/10/07/amazon-palm-privacy/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P4Y5BYGJIZEGRFKW7RDFJK5YUE.jpeg&w=1440"
-        width: 1440
-        height: 650
-        isCached: true
 
 secured: "Wuese0cRzcJmwhxwVQPbGc1UVQUD/hiaeq3PUNN/9wqYgiOxFnL53oI6ESlvxZfaLfB8Dp8vAq9PLInoCMw+NLUjAtcJTgaJD7VE3WzNwEOlR9lB+dn8qjPzJe1F2HOZi0AdnLQpFASeMohW3U1UmtQNGrki0JI6Ak/wfeeV9cXX97AGkkv+Ilz8ODf71J6XiOhdncxVSdDihzfsW3HvoQ+MRFXx5ns9QUtQcb6hUDd4lvmNQZUGqjpgMgdWw+d3v2qmzL1ToEBVq0M/ICOzxdnn2Q0Q7kEKwbEEWYbBTPAFn7G5p2A5UpRhVxa1D6ZUwqEO6KlbCO28qq/6/vE733Z1ZMAyGy9HSfTCxqJrkXmqsnBLh7YVUrYK5LS+Clr3XzeNn+aaZSyQLZn330eGej9Hmo77VqIWmYSTmL/ce5OKz4Ibzhj8+LLNBzXBKhSv/MVzxImG5E/EklyRppieFI5Cx7Oo+lycgT/qpnlFLtVPWZlL7WA1cU0v6pHwg/fA0k4fFjFy+PAy/e2d8AVTog==;uRxBuHR5erMvsLVMSxC/dQ=="
 ---

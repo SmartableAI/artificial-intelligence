@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-12T05:53:00Z
 originalUrl: "https://www.analyticsinsight.net/top-artificial-intelligence-jobs-india-october-2020/"
 webUrl: "https://www.analyticsinsight.net/top-artificial-intelligence-jobs-india-october-2020/"
 type: article
-quality: 39
-heat: -1
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AWS AI
 
 images:
   - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Artificial-Intelligence-10.jpg"
@@ -54,6 +55,6 @@ related:
         height: 652
         isCached: true
 
-secured: "Lqn4sLxJglrz8fQ03XQyTjQM11Gl+r8u9r94owZL0pVUaG3DVefZqF7Z9gJ1RQU/IaV8j7vLiVCA25SjTZTc0TEOdrYMD3udrh/w861JYZAQqZsrR+AzmIe9d9BQgpFYCFJvqpa8qv/zUMELmxnTbJ/i9mAjvmCHTOUlFqEraTAiSBeuQkFxYyk8kzf0t81J4uxjMfvipYIHaJJh8s5VfqzJBnhoAZEjQCpxAU8NmXNBK8iPujMfSoXqpsDnqsgQgDuulWphgczV+BKSH7jD4njP8u5B15QAcGLbnH7rdXLR5YODFqvNMqypOxdQAEje9sRqVSLkxkPOO7zfoJ1fidtvBZ4yYti5rQicJR2lx/s=;I5U6QFpW801P2zCJR23Q8g=="
+secured: "Vfe4iJ46xvUbKfKE4DKR4lm1Zsc5lRA8O4auOFgbq7KoGDTXTIOhruJMRtg0zFnmXMnOcf3iNgHQVtF7CBKAngxoCXBjNLjxs2K1viv4nCQrHYhH0wwSD9kNVsa0LvbADP1sCc39+HSgovTgJ3fFZaCrmmV4vzH5Si5J5LIwxbyjQIAlbkPi6DKOeKNjiK/fZbVEuQlrhhe8Y0F2YSZXyjzuB/s3lKpZpDvqkG02nXgBJgjYWzEHu3+hDfbJ2XbGy0YLUTOaZ3vPZ0TTRIzMaHznBblcQ2nDfSDBFmJkY2Oq1I9GdO1DnzSc+eFQ8qKtW9Iny6GeEN6e5v2/g28BteYkq+D747QJS7fSzwRG6TKJIg5XaKh9cYrFXM+PsAJ5hkgQpqDjpp8mJfQPE6Vj6IAHbb5z4xURfwbeJ746rc89H8fuFMuJUFsKoHS5EgZ7cU2oKUldPWDOr2CY0SWWvhGyES0r52nWNENC6TydBV3coVpHpb3URHBOHIuNxaEiD7/O+gyt1Ws5UTFgDwOADQ==;EFfClQoPcXnLhKb+vNcibQ=="
 ---
 

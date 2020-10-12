@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/making-cycling-safer
 webUrl: "https://aws.amazon.com/blogs/machine-learning/making-cycling-safer-with-aws-deeplens-and-amazon-sagemaker-object-detection/"
 type: article
 quality: 133
-heat: 183
+heat: 153
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
 
 related:
   - title: "Amazon announces price cuts on GPU instances in AWS Sagemaker"
-    excerpt: "AWS also announced Wednesday that it's launching an interactive cloud training series for the first time ever on its Twitch streaming platform."
-    publishedDateTime: 2020-10-07T16:00:00Z
-    webUrl: "https://www.zdnet.com/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 101
-  - title: "Amazon announces price cuts on GPU instances in AWS Sagemaker"
     excerpt: "Amazon Web Services is cutting the price of GPU instances on Sagemaker, its fully managed machine learning service. AWS said customers will see up to 18% in price reductions on all ml.p2 and ml.p3 ..."
     publishedDateTime: 2020-10-07T22:22:00Z
     webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/"
@@ -52,20 +41,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 101
-  - title: "Amazon SageMaker price reductions: Up to 18% lower prices on ml.p3 and ml.p2 instances"
-    excerpt: "Effective October 1st, 2020, we’re reducing the prices for ml.p3 and ml.p2 instances in Amazon SageMaker by up to 18% so you can maximize your machine learning (ML) budgets and innovate with deep learning using these accelerated compute instances. The new price reductions apply to ml.p3 and ml.p2 instances"
-    publishedDateTime: 2020-10-07T16:34:18Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-price-reductions-up-to-18-lower-prices-on-ml-p3-and-ml-p2-instances/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 98
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
-        width: 1260
-        height: 630
-        isCached: true
   - title: "AWS Cuts Prices for SageMaker GPU Instances"
     excerpt: "Amazon Web Services is cutting prices on its SageMaker managed service for machine learning and deep learning as it attracts more financial services,"
     publishedDateTime: 2020-10-07T21:41:00Z
@@ -79,20 +54,6 @@ related:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/cloud_money_shutterstock_chanpipat.jpg"
         width: 934
         height: 482
-        isCached: true
-  - title: "Amazon cuts the cost of AWS SageMaker instances by up to 18%"
-    excerpt: "Amazon Web Services Inc. said today it’s making its popular Amazon SageMaker artificial intelligence service ... applications that run in the AWS cloud. The service eliminates much of the ..."
-    publishedDateTime: 2020-10-07T16:13:00Z
-    webUrl: "https://siliconangle.com/2020/10/07/amazon-cuts-cost-aws-sagemaker-instances-18/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/109116640_3079370392100305_7323083359618987076_o.png"
-        width: 1200
-        height: 628
         isCached: true
 
 secured: "l4gCE/e1GIaRQ54ipb4TIYRqt2jB8Y1XMqQFo0aTFMM8QPLh30Wyw/NJpPrz20KdxlY6/IpsLE13oVcyhYi37x5WKCIDhmFbPITclbr/E2Yku58whnNMwa1sPVclrQ/xMGfttaQuaYnQwnmMEcPszzZYs9p3FGVflKhujsYpc13O5nlUl0KElAEKfLauPHtlXbJgkyMCPdHDr77WfCYODmZUi7KZhe7z9+1H5y+l65LGgdDMuNfffNOnJKpAJeaYulPuQsaZLO2fBh2YII+yZ6EOZXUir7IlBqtrz1ie/jEXl6PNqjp0f0HUzMyFG7skhBQTivWhW+hHSqvSIncspsT/qK5hJem2ISSG4hEd+AM=;2r8fDFU7nCgRINTDBzSJCw=="

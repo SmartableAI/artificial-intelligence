@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/ashleystahl/2020/10/09/what-the-future-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ashleystahl/2020/10/09/what-the-future-of-work-means-for-our-mental-health/amp/"
 type: article
 quality: 74
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,33 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence and What It Means for Future Tech Development"
-    excerpt: "Artificial intelligence is a major development that will change our lives for the better. Let’s take a look at what we can expect from it in the future."
-    publishedDateTime: 2020-10-08T08:28:00Z
-    webUrl: "https://europeansting.com/artificial-intelligence-and-what-it-means-for-future-tech-development/"
+  - title: "Can Robots Help People With Their Mental Health?"
+    excerpt: "A study found that most think robots can support their mental health better than people, but experts say there are crucial human qualities technology can’t replicate."
+    publishedDateTime: 2020-10-12T08:08:00Z
+    webUrl: "https://www.vice.com/en/article/qj4g3m/robot-ai-tech-mental-health-therapist-psychiatry-anxiety-depression-treatment"
+    ampWebUrl: "https://www.vice.com/amp/en_us/article/qj4g3m/robot-ai-tech-mental-health-therapist-psychiatry-anxiety-depression-treatment"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/qj4g3m/robot-ai-tech-mental-health-therapist-psychiatry-anxiety-depression-treatment"
     type: article
     provider:
-      name: europeansting.com
-      domain: europeansting.com
-    quality: 37
+      name: VICE
+      domain: vice.com
+    quality: 89
     images:
-      - url: "https://europeansting.files.wordpress.com/2020/10/macbook-pixabay-1.png?w=1200"
-        width: 1200
-        height: 787
-        isCached: true
-  - title: "How technology is shaping the future of health care"
-    excerpt: "In this latest eBook, we’ve curated a selection of recent STAT stories covering CRISPR: the businesses being built on them, and their potential impact on all our lives. Learn more."
-    publishedDateTime: 2020-10-10T08:49:00Z
-    webUrl: "https://www.statnews.com/technology-future-health-care/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 24
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2020/10/ebook-lp-image-1024x576.jpeg"
-        width: 1024
-        height: 576
+      - url: "https://video-images.vice.com//articles/5f83e97aaac519009b0749a8/lede/1602481457528-photos-hobby-jibmsms4ka-unsplash.jpeg?crop=1xw:0.7805xh;0xw,0.1098xh"
+        width: 4468
+        height: 2510
         isCached: true
 
 secured: "t0S5maaU4IaxcAdBHGFod8LBg3bKomIO/4Ngc6a7nDXXruCr1xWiUdSWQ49AsN4BphRwX0RsL/iw18CjzNchfu7EOLxsK2Y4Mb+OVMXC+OhRn7j5K/mwPlzm7KMdbb4K5oWnQeTpFP1pjvGg3CmwSVFN3noPjYRkYNa/S0xSAcCFMjBV7XPMqHvK67Uo0adlHT4TxI+GMThk9PlHqo1lfEtcCNcwfeF2mO9XSul3+9+OGO+u2KJcWoVHkWiSd2I3GiHn0znQab+gixpF3vR7WwanPYZWbO8Ck/q6DK7H4vocPIJkvUhfFyWgNxewyGYV2y5gnRBwYSVB2Z0u8HEjT9+GtHbSjd9Kd/nZdd09WHwMQ28dBuAJHDtXWCDCPWzKSngkDs2dFHZQHHAqnzwYdzepNzqDDppudVPHOnDkpgIEfH8q6uXEh+nfyqHmCU9Wlu84/c8HIcLXgDADplooaDZnv5kvUB59uRa4GLR8eGSTmONbMq4AJ07bVFrKSUO2VCAoeR9AsUfaWrRLM2gY7w==;eG3Gnt+cF/lItPTPH/HMxg=="

@@ -2,6 +2,98 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-08-transparent-truths-about-ai-ethics-assessing-a-seven-point-set-of-principles-from-capgemini.md",
+      "title": "Transparent truths about AI ethics - assessing a seven point set of principles from Capgemini",
+      "excerpt": "Transparency isn't the silver bullet that's going to address every ethical concern around AI deployment, but it's an essential bedrock on which to build. (via Pixabay) With debate raging about bias and lack of diversity in teams and data sources and the growing risk of AI automating social problems or giving them a veneer of digital neutrality,",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/transparent-truths-about-ai-ethics-assessing-seven-point-set-principles-capgemini",
+      "originalUrl": "https://diginomica.com/transparent-truths-about-ai-ethics-assessing-seven-point-set-principles-capgemini",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2020-04/ethics.png",
+          "width": 1404,
+          "height": 930,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/transparent-truths-about-ai-ethics-assessing-seven-point-set-principles-capgemini?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/transparent-truths-about-ai-ethics-assessing-seven-point-set-principles-capgemini?amp",
+      "publishedDateTime": "2020-10-08T02:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-this-ai-deepfakes-reality-in-the-name-of-privacy.md",
+      "title": "This AI Deepfakes Reality In The Name Of Privacy",
+      "excerpt": "The deepfake technology I’m taking about is from a Berlin-based startup called Brighter AI, which provides privacy solutions for an increasingly surveilled world: license plate blurring and face blurring so companies with cameras can comply with European privacy laws,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/10/07/synthetic-faces-this-ai-falsifies-reality-in-the-name-of-privacy/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2020/10/07/synthetic-faces-this-ai-falsifies-reality-in-the-name-of-privacy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7de968419bf5f836413c4d%2F0x0.jpg",
+          "width": 1000,
+          "height": 693,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/10/07/synthetic-faces-this-ai-falsifies-reality-in-the-name-of-privacy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/10/07/synthetic-faces-this-ai-falsifies-reality-in-the-name-of-privacy/amp/",
+      "publishedDateTime": "2020-10-08T01:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-maxim-integrateds-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices.md",
       "title": "Maxim Integrated's Neural Network Accelerator Chip Enables IoT Artificial Intelligence in Battery-Powered Devices",
       "excerpt": "PRNewswire/ -- The MAX78000 low-power neural network accelerated microcontroller from Maxim Integrated Products, Inc. (NASDAQ: MXIM) moves artificial intelligence (AI) to the edge without performance compromises in battery-powered internet of things (IoT) devices.",
@@ -302,7 +394,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/making-cycling-safer-with-aws-deeplens-and-amazon-sagemaker-object-detection/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 183,
+      "heat": 153,
       "tags": null,
       "images": [
         {
@@ -878,50 +970,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-07-maxim-integrateds-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices.md",
-      "title": "Maxim Integrated's Neural Network Accelerator Chip Enables IoT Artificial Intelligence in Battery-Powered Devices",
-      "excerpt": "For details about Maxim Integrated's Artificial Intelligence solutions, visit http://bit.ly/Maxim_AI To order MAX78000 or learn more, visit http://bit.ly/MAX78000 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanzen.net/nachricht/aktien/maxim-integrated-s-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-9368772",
-      "originalUrl": "https://www.finanzen.net/nachricht/aktien/maxim-integrated-s-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-9368772",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanzen",
-        "domain": "finanzen.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2020-10-07-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
       "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
       "excerpt": "Artificial intelligence (AI) involves using computers ... deploying AI brains into the Waymo self-driving car business, and applying these technologies to medical research and weather forecasting.",
@@ -1157,48 +1205,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-robot-reapers-and-ai-just-another-day-on-the-farm.md",
-      "title": "Robot reapers and AI: Just another day on the farm",
-      "excerpt": "Technology is now enabling farmers to manage each section of the farm based on its unique conditions and needs. A good example of this in action is the spraying of herbicides, which had traditionally been done at the same rate across the whole field.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/robot-reapers-and-ai-just-another-day-on-the-farm/",
-      "originalUrl": "https://www.zdnet.com/article/robot-reapers-and-ai-just-another-day-on-the-farm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robot-reapers-and-ai-just-another-day-on-the-farm/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robot-reapers-and-ai-just-another-day-on-the-farm/",
-      "publishedDateTime": "2020-10-07T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-03-scalise-hit-with-ethics-complaint-over-doctored-barkan-video.md",
+      "title": "Scalise hit with ethics complaint over doctored Barkan video",
+      "excerpt": "The House Democratic campaign arm has filed a formal ethics complaint against Republican Whip Rep. Steve Scalise (La.), who shared a video doctored to alter the wording of a question posed by activist Ady Barkan to former Vice President Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/latino/514923-scalise-hit-with-ethics-complaint-over-doctored-barkan-video",
+      "originalUrl": "https://thehill.com/latino/514923-scalise-hit-with-ethics-complaint-over-doctored-barkan-video",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/scalisesteve_08242020hilltv.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/latino/514923-scalise-hit-with-ethics-complaint-over-doctored-barkan-video?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/latino/514923-scalise-hit-with-ethics-complaint-over-doctored-barkan-video?amp",
+      "publishedDateTime": "2020-09-03T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-03-can-googles-new-ai-ethics-service-be-of-any-help.md",
       "title": "Can Google’s New AI Ethics Service Be Of Any Help?",
       "excerpt": "Google’s cloud division has come out with their new AI Ethics Services for helping companies developing AI solutions.",

@@ -1,60 +1,26 @@
 ---
 category: news
 title: "7 Artificial Intelligence Stocks to Buy for October"
-excerpt: "But if there is one on Wall Street, it’s the rise of artificial intelligence stocks. Yes, there is the profitability angle from machine learning and other relevant technology facilitates. But this crisis has been a crash course in the sector’s viability."
-publishedDateTime: 2020-10-02T13:58:00Z
-originalUrl: "https://www.nasdaq.com/articles/7-artificial-intelligence-stocks-to-buy-for-october-2020-10-02"
-webUrl: "https://www.nasdaq.com/articles/7-artificial-intelligence-stocks-to-buy-for-october-2020-10-02"
-ampWebUrl: "https://www.nasdaq.com/articles/7-artificial-intelligence-stocks-to-buy-for-october-2020-10-02?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-artificial-intelligence-stocks-to-buy-for-october-2020-10-02?amp"
+excerpt: "But if there is one on Wall Street, it’s the rise of artificial intelligence stocks. Yes, there is the profitability angle from machine learning and other relevant technology facilitates."
+publishedDateTime: 2020-10-02T14:17:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/7-artificial-intelligence-stocks-to-buy-october-1029644435"
+webUrl: "https://markets.businessinsider.com/news/stocks/7-artificial-intelligence-stocks-to-buy-october-1029644435"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/7-artificial-intelligence-stocks-to-buy-october-1029644435"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/7-artificial-intelligence-stocks-to-buy-october-1029644435"
 type: article
-quality: 71
-heat: -1
-published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - IBM AI
+  - AI in Autos
   - AI
-  - AI in Healthcare
 
-related:
-  - title: "3 Top Artificial Intelligence Stocks to Buy in October"
-    excerpt: "Artificial intelligence (AI) is a fast-growing segment of technology. According to researcher IDC, global spending on AI (hardware, software, and services built on them) is expected to exceed $150 billion this year."
-    publishedDateTime: 2020-10-05T15:10:00Z
-    webUrl: "https://www.fool.com/investing/2020/10/05/3-top-artificial-intelligence-stocks-to-buy-in-oct/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/10/05/3-top-artificial-intelligence-stocks-to-buy-in-oct/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/05/3-top-artificial-intelligence-stocks-to-buy-in-oct/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 89
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F593834%2Fartificial-intelligence-getty-62817.jpg&w=1200&op=resize"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "7 Artificial Intelligence Stocks to Buy for October"
-    excerpt: "IBM offers the patient investor potentially significant upside. As you know, with its AI platform Watson, Big Blue has been helping multiple enterprises and industries maximize their efficiency."
-    publishedDateTime: 2020-10-02T18:31:00Z
-    webUrl: "https://investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/"
-    ampWebUrl: "https://investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/amp/"
-    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/10/7-artificial-intelligence-stocks-to-buy-october/amp/"
-    type: article
-    provider:
-      name: InvestorPlace
-      domain: investorplace.com
-    quality: 59
-    images:
-      - url: "https://investorplace.com/wp-content/uploads/2019/07/ai1600b.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-
-secured: "GQ3alvDZEKiiKnfZzSmSuznakf6OMIkbvLalWBUyPCuNR6yT1HRsDS9wnEMEReV/nl32QhgiOb+0aAIlyeQuLd/iC13a53uZgKEkJ8J1PX0qnsvfg83AEJq6ysZYToGO8Ynrt4PjLxFk6f8PjRjjhja6P1YEkEZoYgT/uvVaFqH4IzUqF77Ju6qKpm90qDZnlhO8io5xIYIo3/gjiMJonT79sJ2u6In/69G01Zje0PTfltQ9h+ibgX4/DoLcrqq761SNvO36LtEF3HmWLEStAqjbXSuagxQIgxwQj7nuM8xynPlI+n8gtEQd5DBoDEyRWXvscRsQQdes6aXXO049Tkf4x2pJgjoQdsKyzaZpE/o=;gwmfH8AlR/1U3VBmMUQVvw=="
+secured: "tiHvG8HD2yZJUMoUJ6nMPwLxD735U3SrgwmNNh2W6BvO0OwGArhEgoj/icBZgS/3MouptPXMGv9pGeOwF7gJz2Y/FtpDpfTu2S8ohjbc5uxIAuxrWGY5OF33NiSFRFM35PO4Wx1Yop/09w8tSzOSpIRRrXmoQfnpX8LyNRBelM1bST9dq85eQ3/w/PL3UnkZKdvjK2/MZS60FBX7L061eOB4gqjePWmLzH1le3pR+cjX3kfU7gRFbr9Ds58K9HX7yjKEYDiq4kH8t3fwtzG5NpqHdsYqvUuEGonGt299kx6KILYTYAxTnsyCsUtuCKaNbF+XhDHEbB/1sIwHI+/j1rvQ9+2/D91VlxNbJXCkYDw=;jBrJI48NSI3P/6gdI1Aw5g=="
 ---
 
