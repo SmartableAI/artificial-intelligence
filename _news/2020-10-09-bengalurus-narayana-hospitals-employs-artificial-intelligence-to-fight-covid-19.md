@@ -99,20 +99,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "New Artificial Intelligence Algorithm Uses Routine Clinical Laboratory Tests to Identify Patients Likely Infected with COVID-19"
-    excerpt: "Frustrated by shortages of essential COVID-19 tests and supplies—as well by lengthy coronavirus test turn-around times—researchers at Weill Cornell Medicine have created an Artificial Intelligence (AI) algorithm that can use routine clinical laboratory test data to determine if a patient is infected with SARS-CoV-2,"
-    publishedDateTime: 2020-10-07T09:37:00Z
-    webUrl: "https://www.darkdaily.com/new-artificial-intelligence-algorithm-uses-routine-clinical-laboratory-tests-to-identify-patients-likely-infected-with-covid-19/"
-    type: article
-    provider:
-      name: Ranking
-      domain: darkdaily.com
-    quality: 11
-    images:
-      - url: "https://www.darkdaily.com/wp-content/uploads/Sarina-Yang-PhD-Weill-Cornell-400w@72ppi.jpg"
-        width: 400
-        height: 513
-        isCached: true
 
 secured: "jhkPLu3JRAnRpmG2jy44MwZDAvEH69pKT4QsflLhT2AcqJ6u+xUiCITHR5mVIh9so90mBi6fK7FXpCqqgPIi7B30bp/JyQy6eJqzP+OslX3CfdD75WVaP15VNXKXiZ5nj7GFAlq3M34w0P9mdRn7TtXvKYriwN59LkkrBgM776edLuOjkcGf3yaEhsnU5glBi7UbjeIM8LykiSBRRFmFY2b5lWjHsfPrk04YCZHTs8w8UA55BFIQxCTKctnj1i7SmLRV/K29tzIi+WMNVs/zjFcJSPhMBNEr6FhdiHysrcCFO0r9LhY95Tl1F4MjhiIj8Iiw5T5RrxoD5bN1ZWuyAPzUW63XOw4vqfEsraxUsvicnKgBs5r5l9tpUiiS5MhprZyww01AtSSL8jpUcPTmbS1dBt+DjT6K1YuKXRIi17DsUL5zC4jv2rm2HO2iJhF3d4vtfxZ+PtN4T1Mh7+jbkRWWwJxyHV3P18+ikrGze05ji9vyRkG53zNFO5KcUVlDfEyhr45p431tlC1WWVTThw==;OEExhHWELTL9lUQMLLGbWg=="
 ---

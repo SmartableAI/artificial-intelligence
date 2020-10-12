@@ -99,20 +99,6 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 34
-  - title: "New Artificial Intelligence Algorithm Uses Routine Clinical Laboratory Tests to Identify Patients Likely Infected with COVID-19"
-    excerpt: "Frustrated by shortages of essential COVID-19 tests and supplies—as well by lengthy coronavirus test turn-around times—researchers at Weill Cornell Medicine have created an Artificial Intelligence (AI) algorithm that can use routine clinical laboratory test data to determine if a patient is infected with SARS-CoV-2,"
-    publishedDateTime: 2020-10-07T09:37:00Z
-    webUrl: "https://www.darkdaily.com/new-artificial-intelligence-algorithm-uses-routine-clinical-laboratory-tests-to-identify-patients-likely-infected-with-covid-19/"
-    type: article
-    provider:
-      name: Ranking
-      domain: darkdaily.com
-    quality: 11
-    images:
-      - url: "https://www.darkdaily.com/wp-content/uploads/Sarina-Yang-PhD-Weill-Cornell-400w@72ppi.jpg"
-        width: 400
-        height: 513
-        isCached: true
 
 secured: "q9etlR1R6VQVLV/FvmzKKF4M3KpHwoeEtUK7iGwwnat6Ckeog+P/iZxIxmUv/Tjfz8X5/GxteG0lePjZpvCIL3fi/ZcyH+cbE7k6nqCbk/jmyuGIPAIFXDYC9D9i8UsgGT8gsAGQSTEURLZKwZX4+hYICI/Tc2XQaF/mqaR+XbZO7Bq5QuSv+F3U/vkEh3M2QiM3IR0axCzvhx0h48MLfOv5rTtKsn9pua0BsUKy65XmOdv4x7iOBksxuKTVe/wmYeq2WPki9DRSbXT1y4fBU0GsXFzw3qSvMo7nPtFqT8/8PKmHLFbWIKSXoR5FgHnswJqxKKNbimQ5dNHLDWaWNnYEVkrIazj/g4hQ+y9oyyR+4/LJpqsD+X/cqJN8qrtwBX2MlaRIM4O/zt6PncVxSm62x4L8O5ehp9ZVZ5NuugXH5QCVS20jEfL6HzVCr/b4v79pWDmOA7Z862h0LQmkK16CcjT++ASbXmHPbJkqG7Gev+yHEUbR+z/j7JK6jQEnES7SmLt6msY8ME56+hE1cA==;YI+H8O4UhPl49opabXH1JQ=="
 ---

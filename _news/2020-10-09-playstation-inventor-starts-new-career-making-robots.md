@@ -71,6 +71,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Video game console inventor starts new career making robots for no pay"
+    excerpt: "Ken Kutaragi, the legendary inventor of the PlayStation gaming console, is taking on one of the hardest jobs in robotics. And he’s getting paid nothing to do it."
+    publishedDateTime: 2020-10-12T02:04:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/10/12/video-game-console-inventor-starts-new-career-making-robots-for-no-pay"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/10/10/893762.jpg"
+        width: 1240
+        height: 826
+        isCached: true
 
 secured: "WlR9VRLUIywQGd1uC/wbM0GBucAHm7yUJ5rxgkGivVhqW04Nw6UR/A103BDJvoXcJSZP+X+AofHFSajpD/ArMPrx6r1DtOJjJfuOsUQzIxOctMQFbU+7gpxJGBHJ+pZ/fTDZloGkppydE+fpLM0iZrAykOZNPReGVoQd7SxtSquBbwjMg1D1lUc4mPZ6IP0Rl6jcTVC9cIDDi6/LnrluN5KbxEz6Xf1JSamGZEqb6UEn0vj6nnRto6yHSbIejNirAvdzLC+Z3UO9MhFt+F8JhHkxzaThB2b3iGPZey5o/WxF3wqAXJZp0kQIo7+NayzicNuv2hKy0KLwiSDB6+MYjE0pypnrLPC9LVphyOg0V7h1iUEqXbCN3bAvyIvom4FpEji8GPPwUZeyxr9UpDzgIU2pNs5wUkwIFQm0XY/0fkZFAbYaJIdCyYsm5BZmrwCgUMWTcih3Q9MisjdR4aVYq+AraaAxdpdjeoGgZTQDdv+t8zywTeyA4xgERTxv8KvgqjF7Uww7soi5ta80Qy1RpQ==;1UJ+BLCz4NCYa3BFEu/YEw=="
 ---

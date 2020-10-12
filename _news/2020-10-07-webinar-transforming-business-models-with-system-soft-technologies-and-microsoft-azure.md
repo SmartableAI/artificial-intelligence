@@ -36,6 +36,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 80
+  - title: "Microsoft and Red Hat announce general availability of Azure Red Hat OpenShift in India to fuel hybrid cloud development and transform businesses"
+    excerpt: "Underlining a mutual commitment to enable true hybrid cloud computing in India, Microsoft and Red Hat today announced the general availability of Azure Red Hat OpenShift in the country."
+    publishedDateTime: 2020-10-12T02:38:00Z
+    webUrl: "https://indiaeducationdiary.in/microsoft-and-red-hat-announce-general-availability-of-azure-red-hat-openshift-in-india-to-fuel-hybrid-cloud-development-and-transform-businesses/"
+    ampWebUrl: "https://indiaeducationdiary.in/microsoft-and-red-hat-announce-general-availability-of-azure-red-hat-openshift-in-india-to-fuel-hybrid-cloud-development-and-transform-businesses/?amp"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/microsoft-and-red-hat-announce-general-availability-of-azure-red-hat-openshift-in-india-to-fuel-hybrid-cloud-development-and-transform-businesses/?amp"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 52
+    images:
+      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2017/05/microsoft_headquarters-800x533.jpg?fit=800%2C533&ssl=1"
+        width: 800
+        height: 533
+        isCached: true
   - title: "ZEISS joins Microsoft for data-driven healthcare"
     excerpt: "ZEISS, a German manufacturer of optical systems and optoelectronics, and Microsoft has inked a multi-year strategic partnership for better patient care through data-driven healthcare and enhance quality and efficiency in manufacturing by embracing a cloud-first approach."
     publishedDateTime: 2020-10-08T17:32:00Z

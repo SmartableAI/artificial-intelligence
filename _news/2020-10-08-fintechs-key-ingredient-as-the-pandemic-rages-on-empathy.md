@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence and machine learning: A new blueprint for the fintech industry"
-    excerpt: "There is no doubt that artificial intelligence (AI) and machine learning (ML) is becoming a hot topic within the fintech industry. At almost every seminar and conference, we are hearing about the rise of these emerging technologies and the potential they have to disrupt businesses."
-    publishedDateTime: 2020-10-07T11:00:00Z
-    webUrl: "https://www.itproportal.com/features/artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry/"
-    ampWebUrl: "https://www.itproportal.com/amp/features/artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry/"
-    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry/"
-    type: article
-    provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 68
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ADy2QfDipAoaDjWjQ4zRq-1200-80.jpg"
-        width: 800
-        height: 500
-        isCached: true
   - title: "AI in Fintech Market 2020 Status and Outlook Growth"
     excerpt: "AI in Fintech Market Size 2020 Analysis Trends Top Manufacturers Growth Statistics Porters Five Forces and SWOT Analysis Opportunities and Forecast California The qualitative research study by Data Bridge Market Research titled AI in Fintech market size is expected to"
     publishedDateTime: 2020-10-09T07:33:00Z
@@ -73,29 +57,20 @@ related:
         width: 1024
         height: 1024
         isCached: true
-  - title: "The limitless innovation in the fintech environment"
-    excerpt: "By Stefan Pajkovic, CEO at TradeCore Innovation is no barrier for tech companies. Large organisations are known for pushing the boundaries, especially when it comes to developing new products or services to disrupt the market."
-    publishedDateTime: 2020-10-07T09:28:00Z
-    webUrl: "https://www.globalbankingandfinance.com/the-limitless-innovation-in-the-fintech-environment/"
+  - title: "Georgia State to Offer Graduate Certificates in AI Business Innovation, Disruptive Innovation and Entrepreneurship, and Fintech Innovation"
+    excerpt: "Georgia State University’s Robinson College of Business will admit new students to three stand-alone graduate certificate programs that address current and emerging market demand for innovation."
+    publishedDateTime: 2020-10-09T17:20:00Z
+    webUrl: "https://news.gsu.edu/2020/10/09/georgia-state-to-offer-graduate-certificates-in-ai-business-innovation-disruptive-innovation-and-entrepreneurship-and-fintech-innovation/"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 24
+      name: Georgia State University
+      domain: gsu.edu
+    quality: 5
     images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/10/Untitled-design-2020-10-07T143803.769.jpg"
-        width: 750
-        height: 422
+      - url: "https://news.gsu.edu/files/2014/09/disruptive-innovation-photo-1661x1125.jpg"
+        width: 1661
+        height: 1125
         isCached: true
-  - title: "Leading SME lending platform Validus the first fintech approved as a PFI by Enterprise Singapore"
-    excerpt: "Southeast Asia's leading SME lending platform Validus Capital (Validus) is Singapore's first fintech to be approved as a Participating Financial Institution (PFI) under Enterprise Singapore's Enterprise Financing Scheme."
-    publishedDateTime: 2020-10-08T10:00:00Z
-    webUrl: "https://www.ryt9.com/en/anpi/244735"
-    type: article
-    provider:
-      name: RYT9
-      domain: ryt9.com
-    quality: 0
 
 secured: "adPJmaMBRWDyQ4zTQ3hTv1YaEOrlhM8aT5CKTrzUPL9/4LQ08DAtNfz+4merr95Jn4p1lLGGJ6Qco6/1xsB0sMIA6X2gbUxPErt7AGz/RASxgjMQaOJj2w/upX99qr5opI7sQguGIerouYbZi3ZvNYTYLLZGTe7vFmrf99QoKjQY3CDP4w3IH3owrRMB7jo2swmJDQ201sRR0x5wHDZ8EljciFDlCpEJb/ozbaQ7dCAe2txGEJl/eyUwVWeJkduYGcJdTPIFFF6kvYHXuGtRNuH1et2tp+Sa7KYwPbD4VdridPW2ZknwqksDDdrQgb3a018jAI+s4Gy1sycTOJ3fCeMKCpSM6ingdUzdDhimlO8zZwlcKzmoSlACwbLqXVOhMb+zdo64ExC4pA+LRTaQpyeeuVwCefxSGf9jvYa4RxY5ox02Y+YzEua+Cay9kSCFvP7eGKQ05og+ClZP+of2+uxsyVqohdmAsnerb8TRstyvLJ3fOq8x0L65WWRM7wBUcxZSrq9x0W/kbtkLOs3tOA==;qqegC0KsrSyrO6++L7a6Ng=="
 ---

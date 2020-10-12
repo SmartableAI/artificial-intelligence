@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/tamr-announces-the-only
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406"
 type: article
 quality: 80
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -26,6 +26,22 @@ topics:
   - AWS AI
 
 related:
+  - title: "Microsoft and Red Hat announce general availability of Azure Red Hat OpenShift in India to fuel hybrid cloud development and transform businesses"
+    excerpt: "Underlining a mutual commitment to enable true hybrid cloud computing in India, Microsoft and Red Hat today announced the general availability of Azure Red Hat OpenShift in the country."
+    publishedDateTime: 2020-10-12T02:38:00Z
+    webUrl: "https://indiaeducationdiary.in/microsoft-and-red-hat-announce-general-availability-of-azure-red-hat-openshift-in-india-to-fuel-hybrid-cloud-development-and-transform-businesses/"
+    ampWebUrl: "https://indiaeducationdiary.in/microsoft-and-red-hat-announce-general-availability-of-azure-red-hat-openshift-in-india-to-fuel-hybrid-cloud-development-and-transform-businesses/?amp"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/microsoft-and-red-hat-announce-general-availability-of-azure-red-hat-openshift-in-india-to-fuel-hybrid-cloud-development-and-transform-businesses/?amp"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 52
+    images:
+      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2017/05/microsoft_headquarters-800x533.jpg?fit=800%2C533&ssl=1"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Webinar: Transforming Business Models with System Soft Technologies and Microsoft Azure"
     excerpt: "(GLOBE NEWSWIRE) -- System Soft Technologies (SSTech), a leader in enterprise IT services, solutions and products, today announced the company is making available its recent webinar about how organizations are using Microsoft Azure Cloud Services to enhance their business operations and spur growth during these uncertain economic times."
     publishedDateTime: 2020-10-07T16:00:00Z
