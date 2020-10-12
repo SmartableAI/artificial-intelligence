@@ -2,6 +2,267 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-09-14-how-safe-are-driverless-cars.md",
+      "title": "How Safe Are Driverless Cars?",
+      "excerpt": "Science-fiction author Isaac Asimov, imagining a future of artificial intelligence ... on trying to figure out how we can program our driverless cars to make the right moral decisions in these ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/talking-apes/202009/how-safe-are-driverless-cars",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/talking-apes/202009/how-safe-are-driverless-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/talking-apes/202009/how-safe-are-driverless-cars?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/talking-apes/202009/how-safe-are-driverless-cars?amp",
+      "publishedDateTime": "2020-09-14T09:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-zenrobotics-helps-to-start-automated-mrf-in-finland.md",
+      "title": "ZenRobotics helps to start automated MRF in Finland",
+      "excerpt": "ZenRobotics, Helsinki, has announced that it has partnered with Remeo, a Finnish environmental management firm, to construct an advanced and fully automated material recovery facility (MRF) in Vantaa,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cdrecycler.com/article/zenrobotics-remeo-partner-start-automated-robotic-mrf-finland/",
+      "originalUrl": "https://www.cdrecycler.com/article/zenrobotics-remeo-partner-start-automated-robotic-mrf-finland/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.cdrecycler.com/fileuploads/image/2020/09/14/Remeo-Oy-tulevaisuuden-kierrtyslaitos-havainnekuva-123.gif?w=736&h=414&mode=crop",
+          "width": 736,
+          "height": 414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-14T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "C&D Recycling",
+        "domain": "cdrecycler.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-ibm-watson-powers-aipex-the-first-fully-ai-driven-index.md",
+      "title": "IBM Watson powers AiPEX, the first fully AI-driven index",
+      "excerpt": "With financial markets making historic gains and losses week after week, stability and risk mitigation are critical factors for success in equity investing. Historically, quantitative criteria for indexes offered through financial products and index annuities have relied exclusively on structured historical",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/09/ibm-watson-powers-aipex-the-first-fully-ai-driven-index/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/09/ibm-watson-powers-aipex-the-first-fully-ai-driven-index/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/09/1156_Watson_Blog_EquBot-HSBC_Leadspace_Final-990x498.jpg",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-14T09:02:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-big-data-reveals-new-insights-into-what-our-dreams-say-about-us.md",
+      "title": "Big Data Reveals New Insights Into What Our Dreams Say About Us",
+      "excerpt": "Some scientists enthuse about possible uses in therapy; Covid-fueled dreams of massive bug attacks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/big-data-reveals-new-insights-into-what-our-dreams-say-about-us-11600098682?mod=hp_featst_pos4",
+      "originalUrl": "https://www.wsj.com/articles/big-data-reveals-new-insights-into-what-our-dreams-say-about-us-11600098682?mod=hp_featst_pos4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-231790/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/big-data-reveals-new-insights-into-what-our-dreams-say-about-us-11600098682",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/big-data-reveals-new-insights-into-what-our-dreams-say-about-us-11600098682",
+      "publishedDateTime": "2020-09-14T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-new-insights-into-dreams-and-what-they-say-about-us.md",
+      "title": "New Insights Into Dreams and What They Say About Us",
+      "excerpt": "They’re advancing artificial intelligence and digital databases into the realm of the unconscious, experimenting with new ways to identify those in mental distress and at the same time provoking ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/big-data-reveals-new-insights-into-what-our-dreams-say-about-us-11600098682",
+      "originalUrl": "https://www.wsj.com/articles/big-data-reveals-new-insights-into-what-our-dreams-say-about-us-11600098682",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-231790/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/big-data-reveals-new-insights-into-what-our-dreams-say-about-us-11600098682",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/big-data-reveals-new-insights-into-what-our-dreams-say-about-us-11600098682",
+      "publishedDateTime": "2020-09-14T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-ibm-to-leverage-watson-enhance-fantasy-football-experience.md",
+      "title": "IBM to Leverage Watson, Enhance Fantasy Football Experience",
+      "excerpt": "International Business Machines Corporation IBM will be leveraging the AI capabilities of Watson to enrich ESPN Fantasy Football experience for gamers. IBM unveiled a new feature called Trade Assistant (only for mobile iOS and Android) to help gamers make judicious decisions regarding adding and offloading players from the teams.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ibm-to-leverage-watson-enhance-fantasy-football-experience-2020-09-14",
+      "originalUrl": "https://www.nasdaq.com/articles/ibm-to-leverage-watson-enhance-fantasy-football-experience-2020-09-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/ibm-to-leverage-watson-enhance-fantasy-football-experience-2020-09-14?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-to-leverage-watson-enhance-fantasy-football-experience-2020-09-14?amp",
+      "publishedDateTime": "2020-09-14T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-idriverplus-raises-over-146-million-for-autonomous-street-cleaners-and-cars.md",
       "title": "Idriverplus raises over $14.6 million for autonomous street cleaners and cars",
       "excerpt": "Beijing-based self-driving startup Idriverplus raised $14.6 million in funding to further develop its autonomous robot and vehicle platform.",
@@ -884,283 +1145,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-tech-mega-deal-nvidia-will-buy-chip-designer-for-40-billion.md",
-      "title": "Tech mega-deal: Nvidia will buy chip designer for $40 billion",
-      "excerpt": "Santa Clara-based Nvidia has agreed to pay $40 billion to buy Arm, an England-based unit of tech titan Softbank, marking one of the largest semiconductor industry deals ever. “In the years ahead, trillions of computers running AI will create a new internet-of-things that is thousands of times larger than today’s internet-of-people,",
-      "sourceUrl": null,
-      "webUrl": "https://www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/",
-      "originalUrl": "https://www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mercurynews.com/wp-content/uploads/2020/02/2020-02-silicon-valley-SVINDEX-Nvidia-03.jpg?w=1024&h=549",
-          "width": 1024,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/amp/",
-      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/amp/",
-      "publishedDateTime": "2020-09-14T04:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mercury News",
-        "domain": "mercurynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-the-surprisingly-critical-yet-often-undervalued-ingredient-for-ai-success.md",
-      "title": "The Surprisingly Critical (Yet Often Undervalued) Ingredient For AI Success",
-      "excerpt": "It’s easy to become enamored with ML and AI technologies and all that they can offer, but true success relies on the humans behind the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/14/the-surprisingly-critical-yet-often-undervalued-ingredient-for-ai-success/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/14/the-surprisingly-critical-yet-often-undervalued-ingredient-for-ai-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5b7915a5d68b0459dfcbb7%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/14/the-surprisingly-critical-yet-often-undervalued-ingredient-for-ai-success/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/14/the-surprisingly-critical-yet-often-undervalued-ingredient-for-ai-success/amp/",
-      "publishedDateTime": "2020-09-14T04:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-chip-maker-nvidia-takes-a-40b-chance-on-arm-holdings.md",
-      "title": "Chip maker Nvidia takes a $40B chance on Arm Holdings",
-      "excerpt": "Nvidia's deal to buy Arm would launch the processor maker as a world-class power with reach into servers and cell phones - if regulators allow it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3574972/chip-maker-nvidia-takes-a-40b-chance-on-arm-holdings.html",
-      "originalUrl": "https://www.networkworld.com/article/3574972/chip-maker-nvidia-takes-a-40b-chance-on-arm-holdings.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/02/gamble_chance_risk_chips_thinkstock_490734911-100749268-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3574972/chip-maker-nvidia-takes-a-40b-chance-on-arm-holdings.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3574972/chip-maker-nvidia-takes-a-40b-chance-on-arm-holdings.amp.html",
-      "publishedDateTime": "2020-09-14T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-amazon-google-and-microsoft-take-their-clouds-to-the-edge.md",
-      "title": "Amazon, Google, and Microsoft take their clouds to the edge",
-      "excerpt": "As enterprises ramp up edge computing deployments, the big three clouds are ponying up a surprising array of edge options for a broad range of needs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3575071/amazon-google-and-microsoft-take-their-clouds-to-the-edge.html",
-      "originalUrl": "https://www.infoworld.com/article/3575071/amazon-google-and-microsoft-take-their-clouds-to-the-edge.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/09/spot_edge_computing_3x2_2400x1600_06_ifw_a_multiple_cloud_instances_service_options_personal_clouds_by_gremlin_gettyimages-940308630-100857218-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3575071/amazon-google-and-microsoft-take-their-clouds-to-the-edge.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3575071/amazon-google-and-microsoft-take-their-clouds-to-the-edge.amp.html",
-      "publishedDateTime": "2020-09-14T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-better-outcomes-with-ai-frost-sullivan-names-microsoft-the-leading-ai-platform-for-healthcare-it.md",
-      "title": "Better outcomes with AI: Frost & Sullivan names Microsoft the leading AI platform for healthcare IT",
-      "excerpt": "Frost & Sullivan have recognized Microsoft as the “undisputed leader” in global AI platforms for the healthcare IT sector. ",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/better-health-outcomes-with-ai-frost-sullivan-names-microsoft-the-leading-ai-platform-for-healthcare-it/",
-      "originalUrl": "https://azure.microsoft.com/blog/better-health-outcomes-with-ai-frost-sullivan-names-microsoft-the-leading-ai-platform-for-healthcare-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f86335ef-966f-4fca-bef4-121bf3aab9af.jpg",
-          "width": 954,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-14T03:00:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-nvidia-acquires-chip-design-giant-arm-limited-in-40-billion-usd-deal.md",
-      "title": "NVIDIA Acquires Chip Design Giant Arm Limited in $40 Billion USD Deal",
-      "excerpt": "Shortly unveiling its highly-anticipated “Ampere” RTX 3000 series of graphics cards just earlier this month, NVIDIA has now announced that it intends to acquire chip design firm Arm Limited ...",
-      "sourceUrl": null,
-      "webUrl": "https://hypebeast.com/2020/9/nvidia-arm-limited-40-billion-usd-acquisition",
-      "originalUrl": "https://hypebeast.com/2020/9/nvidia-arm-limited-40-billion-usd-acquisition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F09%2Fnvidia-arm-limited-40-billion-usd-acquisition-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max",
-          "width": 1170,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://hypebeast.com/2020/9/nvidia-arm-limited-40-billion-usd-acquisition?amp=1",
-      "cdnAmpWebUrl": "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/9/nvidia-arm-limited-40-billion-usd-acquisition?amp=1",
-      "publishedDateTime": "2020-09-14T02:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hypebeast",
-        "domain": "hypebeast.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

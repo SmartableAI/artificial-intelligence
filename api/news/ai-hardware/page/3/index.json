@@ -2,6 +2,99 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-15-record-chip-deal-lands-nvidia-in-crosshairs-of-us-china-tensions.md",
+      "title": "Record chip deal lands Nvidia in crosshairs of US-China tensions",
+      "excerpt": "Nvidia's planned purchase of UK-based Arm gives US firm serious sway in an industry crucial to global tech supremacy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aljazeera.com/ajimpact/record-chip-deal-lands-nvidia-crosshairs-china-tensions-200914125714528.html",
+      "originalUrl": "https://www.aljazeera.com/ajimpact/record-chip-deal-lands-nvidia-crosshairs-china-tensions-200914125714528.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.aljazeera.com/mritems/imagecache/mbdxlarge/mritems/Images/2020/9/14/a14de634fc5e4757afa0738981cb30c7_18.jpg",
+          "width": 583,
+          "height": 325,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.aljazeera.com/amp/ajimpact/record-chip-deal-lands-nvidia-crosshairs-china-tensions-200914125714528.html",
+      "cdnAmpWebUrl": "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/ajimpact/record-chip-deal-lands-nvidia-crosshairs-china-tensions-200914125714528.html",
+      "publishedDateTime": "2020-09-14T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Jazeera English",
+        "domain": "aljazeera.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-nvidia-wants-its-gpus-in-your-arm-powered-smartphone.md",
+      "title": "Nvidia wants its GPUs in your Arm-powered smartphone",
+      "excerpt": "Nvidia chief executive Jensen Huang says he wants to use ARM's licensing model to license GPUs. That probably means that your ARM-powered smartphone will feature an Nvidia GPU, someday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/3575077/nvidia-wants-its-gpus-in-your-arm-powered-smartphone.html",
+      "originalUrl": "https://www.pcworld.com/article/3575077/nvidia-wants-its-gpus-in-your-arm-powered-smartphone.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/06/dsc06888-100759987-large.jpg",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/3575077/nvidia-wants-its-gpus-in-your-arm-powered-smartphone.amp.html",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3575077/nvidia-wants-its-gpus-in-your-arm-powered-smartphone.amp.html",
+      "publishedDateTime": "2020-09-14T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-ai-chip-market-outlook-to-2030-emerging-trends-and-will-generate-new-growth-opportunities-status.md",
       "title": "AI Chip Market Outlook to 2030: Emerging Trends and Will Generate New Growth Opportunities Status",
       "excerpt": "AI Chip Market research report provides an in-depth analysis of the market size, share, growth rate, drivers, restraints, challenges, threats, and growth opportunities in existing and potential markets.",
@@ -1306,109 +1399,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-06-nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming.md",
-      "title": "Nvidia tells us more about how well the RTX 3090 GPU performs 8K gaming",
-      "excerpt": "Nvidia’s GeForce RTX 3090 launch saw the firm declare that its top-end Ampere graphics card can handle 8K gaming smoothly – meaning at 60 frames per second (fps) – but now further details have been shared on what kind of frame-rates we can expect with various games,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming",
-      "originalUrl": "https://www.techradar.com/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/ZY3deEipHnrs5a3gWYKjcZ-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming",
-      "publishedDateTime": "2020-09-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-05-glaxos-biology-research-with-novel-cerebras-machine-shows-hardware-may-change-how-ai-is-done.md",
-      "title": "Glaxo’s biology research with novel Cerebras machine shows hardware may change how AI is done",
-      "excerpt": "A novel computer system built by Cerebras Systems of Los Altos, California, is already leading to changes in the way drug giant Glaxo builds large neural nets for drug development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/glaxos-biology-research-with-novel-cerebras-machine-shows-hardware-may-change-how-ai-is-done/",
-      "originalUrl": "https://www.zdnet.com/article/glaxos-biology-research-with-novel-cerebras-machine-shows-hardware-may-change-how-ai-is-done/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/09/05/85444d14-f9ca-4917-966b-19ce28b3cfe1/cerebras-wse.jpg",
-          "width": 1030,
-          "height": 1036,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/glaxos-biology-research-with-novel-cerebras-machine-shows-hardware-may-change-how-ai-is-done/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/glaxos-biology-research-with-novel-cerebras-machine-shows-hardware-may-change-how-ai-is-done/",
-      "publishedDateTime": "2020-09-05T09:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

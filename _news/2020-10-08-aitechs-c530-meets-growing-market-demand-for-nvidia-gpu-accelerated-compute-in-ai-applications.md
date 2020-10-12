@@ -7,7 +7,7 @@ originalUrl: "https://www.eejournal.com/industry_news/aitechs-c530-meets-growing
 webUrl: "https://www.eejournal.com/industry_news/aitechs-c530-meets-growing-market-demand-for-nvidia-gpu-accelerated-compute-in-ai-applications/"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     width: 512
     height: 512
     isCached: true
-
-related:
-  - title: "Highlights from NVIDIA’s Landmark GPU Technology Conference - eWEEK"
-    excerpt: "CEO described the combination of GPUs and the abundance of data as the “big bang” of modern AI. It’s arrived. Are you ready?"
-    publishedDateTime: 2020-10-08T00:00:00Z
-    webUrl: "https://www.eweek.com/web/index.php/innovation/highlights-from-nvidia-s-landmark-gpu-technology-conference"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 69
-    images:
-      - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2020/06/NVIDIA.logo.black.green.JPG?alias=social_image"
-        width: 560
-        height: 300
-        isCached: true
-  - title: "Highlights from NVIDIA’s Landmark GPU Technology Conference"
-    excerpt: "CEO described the combination of GPUs and the abundance of data as the “big bang” of modern AI. It’s arrived. Are you ready?"
-    publishedDateTime: 2020-10-08T00:00:00Z
-    webUrl: "https://www.eweek.com/innovation/highlights-from-nvidia-s-landmark-gpu-technology-conference"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 69
-    images:
-      - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2020/06/NVIDIA.logo.black.green.JPG?alias=social_image"
-        width: 560
-        height: 300
-        isCached: true
 
 secured: "2v1BQSmZhGaeJcOwgI8U6Kwl8aLhBdYFMJ+JgkeGLI2dovclifM/xcOpW9YBbInhcQu4QbFgdjVMgNUV1Ub4KobGLp8VSzYuV0ofU0eJ5OxTc30uWPmqaeJWakMza3LzXj2yzyvbbKYsLjqk2M+eGDRBzo/R47miFRdM+hWTs2yd3JFq8DUXRUSg4CWjoVOJ4ycSU6Cq7cSen2KLAEciZbc3PCrGulsPXA5Cvq8Cn8CWXZU7qrlYTnhLrDYNSvNpnZJkan8suAALJmW4ZMwIPeNozOikSEuZ9yzZShMwK+EKN0ZsDgW8FVg/+hcoMk5ch9BLxThw5CyP5Upziv4WNvFCZTbxMDwit8OcwRzDDNM=;MV8EO/qUIEmPdN1MMjf6FQ=="
 ---

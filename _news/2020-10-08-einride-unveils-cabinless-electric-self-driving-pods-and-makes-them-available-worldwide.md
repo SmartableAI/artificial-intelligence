@@ -39,6 +39,20 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "Einride launches self-driving electric freight truck"
+    excerpt: "The driverless vehicles will come in four different models, which can transport freight around various locations, from factory facilities to motorways."
+    publishedDateTime: 2020-10-12T16:11:00Z
+    webUrl: "https://www.designweek.co.uk/issues/12-18-october-2020/einride-freight-vehicle/"
+    type: article
+    provider:
+      name: Design Week
+      domain: designweek.co.uk
+    quality: 24
+    images:
+      - url: "https://centaur-wp.s3.eu-central-1.amazonaws.com/designweek/prod/content/uploads/2020/10/12160644/einride_next-gen-pod_preview-714x500.jpg"
+        width: 714
+        height: 500
+        isCached: true
   - title: "Q&A: Einride powers a self-driving truck future"
     excerpt: "Einride pod operates at SAE Level 4 autonomy and will continue to do so as it rolls out commercially on a global scale in the coming years. Source: Einride Swedish automotive startup Einride has been working on pilot projects for its autonomous and electric logistics platform but now the company is going global with its second-generation self-driving logistics platform."
     publishedDateTime: 2020-10-09T00:00:00Z

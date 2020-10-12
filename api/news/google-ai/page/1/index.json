@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-13-android-studio-41-simplifies-using-tensorflow-lite-models-and-android-emulator.md",
+      "title": "Android Studio 4.1 simplifies using TensorFlow Lite models and Android Emulator",
+      "excerpt": "Version 4.1 includes easier implementation of on-device TensorFlow Lite models, the ability to run Android Emulator directly in the IDE, and support for foldable form factors. There’s also a new ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/12/google-android-studio-4-1-tensorflow-lite-emulator/",
+      "originalUrl": "https://venturebeat.com/2020/10/12/google-android-studio-4-1-tensorflow-lite-emulator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/11/android_studio_wide-e1494818664896.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/12/google-android-studio-4-1-tensorflow-lite-emulator/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/12/google-android-studio-4-1-tensorflow-lite-emulator/amp/",
+      "publishedDateTime": "2020-10-12T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2020-10-12-fast-reinforcement-learning-through-the-composition-of-behaviours.md",
       "title": "Fast reinforcement learning through the composition of behaviours",
       "excerpt": "",
@@ -1384,50 +1436,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-develop-ml-applications-with-the-glow-neural-network-compiler-and-tensorflow-lite-for-imx-rt-crossover-mcus.md",
-      "title": "Develop ML Applications with the Glow Neural Network Compiler and TensorFlow Lite for i.MX RT Crossover MCUs",
-      "excerpt": "TensorFlow Lite, as an inference engine, is one such example of a deep learning tool that has gained tremendous popularity in recent years. A relative newcomer to this field is Glow, the open source neural network compiler. This session explores the trade ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.allaboutcircuits.com/tech-days/summer-2020/nxp-semiconductors/webinars/develop-ml-applications-with-the-glow-neural-network-compiler-and-tensorflow-lite-for-i.mx-rt-crossover-mcus/",
-      "originalUrl": "https://www.allaboutcircuits.com/tech-days/summer-2020/nxp-semiconductors/webinars/develop-ml-applications-with-the-glow-neural-network-compiler-and-tensorflow-lite-for-i.mx-rt-crossover-mcus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.allaboutcircuits.com/uploads/tech-days/NXP_ImageCodeGraphic_Op01v042_%28002%29.jpg",
-          "width": 2400,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-13T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "All About Circuits",
-        "domain": "allaboutcircuits.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning",
-        "TensorFlow"
       ]
     }
   ],

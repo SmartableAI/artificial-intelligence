@@ -57,6 +57,15 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "Global Edge Artificial Intelligence (AI) Chip Market 2020 Industry Development and Growth Forecast to 2025"
+    excerpt: "The development prediction report titled Global Edge Artificial Intelligence (AI) Chip Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2025 focuses on thoughtful insights and facts relating to the market."
+    publishedDateTime: 2020-10-12T16:27:00Z
+    webUrl: "https://ipsnews.net/business/2020/10/12/global-edge-artificial-intelligence-ai-chip-market-2020-industry-development-and-growth-forecast-to-2025/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 31
   - title: "Georgia State to Offer Graduate Certificates in AI Business Innovation, Disruptive Innovation and Entrepreneurship, and Fintech Innovation"
     excerpt: "Georgia State University’s Robinson College of Business will admit new students to three stand-alone graduate certificate programs that address current and emerging market demand for innovation."
     publishedDateTime: 2020-10-09T17:20:00Z

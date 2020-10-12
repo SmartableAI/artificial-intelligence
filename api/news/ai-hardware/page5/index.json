@@ -2,6 +2,90 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-08-31-qualcomm-snapdragon-732g-with-improved-cpu-gpu-and-ai-performance-announced.md",
+      "title": "Qualcomm Snapdragon 732G with improved CPU, GPU, and AI performance announced",
+      "excerpt": "When compared to the 730G, the 732G promises to offer better AI and gaming performance, with upgraded CPU and GPU. To give you a quick rundown, the Snapdragon 732G offers the Kryo 470 prime cores ...",
+      "sourceUrl": null,
+      "webUrl": "https://techpp.com/2020/08/31/qualcomm-snapdragon-732g-specs-features/",
+      "originalUrl": "https://techpp.com/2020/08/31/qualcomm-snapdragon-732g-specs-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techpp.com/wp-content/uploads/2020/08/Qualcomm-Snapdragon-732G.jpg",
+          "width": 700,
+          "height": 326,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techpp.com/2020/08/31/qualcomm-snapdragon-732g-specs-features/amp/",
+      "cdnAmpWebUrl": "https://techpp-com.cdn.ampproject.org/c/s/techpp.com/2020/08/31/qualcomm-snapdragon-732g-specs-features/amp/",
+      "publishedDateTime": "2020-08-31T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techno-Science.net",
+        "domain": "techpp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-31-israeli-ai-chip-developer-hailo-opens-doors-on-japanese-expansion.md",
+      "title": "Israeli AI chip developer Hailo opens doors on Japanese expansion",
+      "excerpt": "Israeli microprocessor developer Hailo sees a path to support and dominate growing Asian AI chip market by establishing new Japanese",
+      "sourceUrl": null,
+      "webUrl": "https://www.geektime.com/hailo-announces-japanese-expansion/",
+      "originalUrl": "https://www.geektime.com/hailo-announces-japanese-expansion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geektime.com/content/images/2020/08/Hailo-8-AI-processor.jpg",
+          "width": 1600,
+          "height": 1598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geektime.com/hailo-announces-japanese-expansion/amp/",
+      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/hailo-announces-japanese-expansion/amp/",
+      "publishedDateTime": "2020-08-31T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geektime",
+        "domain": "geektime.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-31-china-is-gunning-to-be-the-world-leader-in-ai-chips-while-restricting-exports.md",
       "title": "China Is Gunning To Be The World Leader In AI Chips While Restricting Exports",
       "excerpt": "China has passed the US in AI chip patenting and their brightest star, Cambricon has more than four times as many patents as Nvidia.",

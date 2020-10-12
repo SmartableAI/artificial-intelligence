@@ -1,25 +1,23 @@
 ---
 category: news
 title: "DeepTarget Utilizes Machine Learning Algorithms to Improve Customer Experience"
-excerpt: "DeepTarget Inc., a solution provider that utilizes data mining and machine learning to deliver targeted communications across digital channels for banks and credit"
+excerpt: "DeepTarget uses leading-edge machine learning techniques to help financial institutions enhance the quality of the customer and member experience."
 publishedDateTime: 2020-10-12T14:32:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/10/b17869836/deeptarget-utilizes-machine-learning-algorithms-to-improve-customer-experience"
-webUrl: "https://www.benzinga.com/pressreleases/20/10/b17869836/deeptarget-utilizes-machine-learning-algorithms-to-improve-customer-experience"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17869836"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17869836"
+originalUrl: "https://www.businesswire.com/news/home/20201012005560/en/DeepTarget-Utilizes-Machine-Learning-Algorithms-to-Improve-Customer-Experience"
+webUrl: "https://www.businesswire.com/news/home/20201012005560/en/DeepTarget-Utilizes-Machine-Learning-Algorithms-to-Improve-Customer-Experience"
 type: article
-quality: 35
-heat: 35
+quality: 15
+heat: 15
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "vXI4VmbNDIjYG2k4QJmhDiLUrGsswICvx1ftKsARj5162sckBcLUE18KJQ+lG2f6SeeUYfSmIlv9ahvJOCGV/Ok4v1nSMaguJTKrpid5r0JARDfnSZjDt5dxnuCRuSmkSW8ZIq6PM52HuOUI7UeDq7sitfKvsdyM/trB8n7ZjO3nVVWYaAk6h5LFalBCYwxA5hJfE3qCHbiy7Nc6qLrRmBWKZuK0QwGKuOAZowgnQDbF4peqVZrNGX4qn/7Wc+e2pa9Y8ibu0ae4WcVCnmmQkPORMYmZsGWQQzxpgnFjcsgP8KhMrUAfmyEcMlyg0DtMzZp4hhRidwbGucegWZPzoYv9Ace/k1z4V9bp4MbmrHc=;ULRHIHHH/HSfUfrTy726dw=="
+secured: "0e1771+RaeQ6PQoK4QLc8e0SFmbYTeiJrmVAPAFqHWdG/Eud+egwidYOlWwGztOmSoC0oUz4JOI7mVn5u+a25U7D+f7IVPiX/MvJQwPAg/xycUepQb7yXvB+7QG7ru5AIFrqinpEW0Z0Z6KeqttrFa06biaP06JcuLsw5/v5wlhnWVLXeVlV9n1WPyiUYGQ5ksVj4h7yWbVXH95FFx/HkkOAguJHAi61sZ75QvI6tmSWzmnvBFgs3KvAu7x7z5wnrXaqmwPVRO+c1Rpt42Pg/sFAf4sO5SrnFFq19PFeh7KrB2uZmvA7z9tyBLXGsgZN89J4J+j6eUm2CJMMUga16LV2DyM/hInqzt1l4IFhzdk=;CMsyzQViDI0dg98ZYs9D7g=="
 ---
 

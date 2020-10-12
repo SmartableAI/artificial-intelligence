@@ -9,7 +9,7 @@ ampWebUrl: "https://techwireasia.com/amp/2020/10/facial-recognition-tech-will-bo
 cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/10/facial-recognition-tech-will-boost-biometric-id-acceptance-in-sea/"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Vein biometrics could answer security challenges of face recognition"
+    excerpt: "Vein recognition is a biometric modality around which activity has picked up substantially, in terms of research but also pilots and new products. Nok Nok Labs VP of Products Rolf Lindeman tells"
+    publishedDateTime: 2020-10-12T17:01:00Z
+    webUrl: "https://www.biometricupdate.com/202010/vein-biometrics-could-answer-security-challenges-of-face-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/12124609/selfie-biometric-authentication.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Face Forensics announces tattoo recognition upgrade to biometric algorithm"
     excerpt: "Face Forensics has released an update to its Full Face Recognition (f2) solution which improves the program’s biometric algorithms to enable images to be matched against an existing database with"
     publishedDateTime: 2020-10-08T17:56:00Z

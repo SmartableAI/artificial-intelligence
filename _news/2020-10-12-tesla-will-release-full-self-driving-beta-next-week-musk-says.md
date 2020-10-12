@@ -63,6 +63,38 @@ related:
         width: 1820
         height: 834
         isCached: true
+  - title: "Tesla's 'Full Self-Driving' beta releases to some drivers on October 20th"
+    excerpt: "A small group of Tesla drivers will get the chance to test the company's 'Full Self-Driving' rewrite next week."
+    publishedDateTime: 2020-10-12T17:19:00Z
+    webUrl: "https://www.engadget.com/tesla-full-self-driving-beta-october-20-171500591.html"
+    ampWebUrl: "https://www.engadget.com/amp/tesla-full-self-driving-beta-october-20-171500591.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-full-self-driving-beta-october-20-171500591.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 88
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F3b890af0-0cab-11eb-aff2-f11b123b62a1&client=amp-blogside-v2&signature=d1805af9a493dbf66adae49607fe3512a7edbe41"
+        width: 600
+        height: 350
+        isCached: true
+  - title: "Tesla Will Offer “Full Self-Driving Beta” to Some Drivers Next Week"
+    excerpt: "As we’ve previously discussed in detail, Tesla’s history with self-driving and autonomous technology in cars has been confusing at best and deliberately misleading at worst. The company has been integrating its so-called Autopilot hardware and software since 2014,"
+    publishedDateTime: 2020-10-12T16:50:00Z
+    webUrl: "https://www.insidehook.com/daily_brief/vehicles/tesla-full-self-driving-beta-test"
+    ampWebUrl: "https://www.insidehook.com/daily_brief/vehicles/tesla-full-self-driving-beta-test/amp"
+    cdnAmpWebUrl: "https://www-insidehook-com.cdn.ampproject.org/c/s/www.insidehook.com/daily_brief/vehicles/tesla-full-self-driving-beta-test/amp"
+    type: article
+    provider:
+      name: InsideHook
+      domain: insidehook.com
+    quality: 59
+    images:
+      - url: "https://www.insidehook.com/wp-content/uploads/2020/10/Tesla-Full-Self-Driving-Beta.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Tesla Will Release Full Self-Driving Beta To Some Drivers Next Week"
     excerpt: "The time has finally come. We can only hope the FSD rewrite is as profound as Elon Musk claims."
     publishedDateTime: 2020-10-12T13:46:00Z
@@ -78,6 +110,22 @@ related:
       - url: "https://cdn.motor1.com/images/mgl/VZGoK/s1/musk-personally-pushes-autopilot-to-the-limit-to-improve-system.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Elon Musk says Tesla will release a beta version of its 'Full Self-Driving' feature that's not fully autonomous next week to some drivers"
+    excerpt: "Good Subscriber Account active since DOW S&P 500 NASDAQ 100 Tesla will release a new beta version of its \"Full Self-Driving\" driver-assistance package next week, Tesla CEO Elon Musk tweeted Monday."
+    publishedDateTime: 2020-10-12T16:44:00Z
+    webUrl: "https://businessinsider.com/tesla-release-beta-full-self-driving-autopilot-elon-musk-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/tesla-release-beta-full-self-driving-autopilot-elon-musk-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-release-beta-full-self-driving-autopilot-elon-musk-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
+    images:
+      - url: "https://i.insider.com/5f847796642e9400180b5586?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Tesla to release self-driving Beta capable of ‘zero intervention’ in a few weeks"
     excerpt: "Tesla CEO Elon Musk stated earlier today that the latest build of FSD software would be released “in a few weeks.” Musk’s idea of a completely self-driving vehicle has been evident for several years."
@@ -149,6 +197,6 @@ related:
       domain: infosurhoy.com
     quality: 10
 
-secured: "ec4r5c5vniMdeUdHQbQ9VrPFS90oqDbLUjcINP6p5iweZKWfZPGYusKe7O/ucKOwzImC2A+8GqVd71jpdMRv5Hx9+thgNhrVUAHWt3/FkCvpH66UxfCI2h0KMyS//cbW+Q7+UIH9wUb/+TEqJnWWduowkOP1JSRppHUJlCu826v2S0QDmQiR0H81Kt1KwlzH+vuMVFgkYgZUykdxZkiFr5+sPAQ2VP1V7aNwvERCcWjjoh8TDyAX/KhipqSlh3MNJLtjJEGJGu2VHYVYCqzYGxQUw1u9CyHjcmTuvlC5NpENmm/NAaSTM4AgIVg8pukkeM2k+cM/G2sj2+XFoRnGCzHXtzP2RtmnhpbVFRC5xMA=;0tSvow4aY8790mgz4bZYsA=="
+secured: "Ddx3DeGZPf/BcmBrdHSOYp08Q1sUAetREqJkotmZIW4e7r+uN7VVJfkvp8Y+3VIa5hACQ38e2zSKxtNkuaM2rwsOZeRuVAQulVPws3D1/srT2lAIdX7bp3BsegG71r6FqwewapZLXlIla36O7FhtnuB5mQxrL67KwshVZCdq62sSVrnqnR4GvHAKEZA2ksE3rMHS5J5989E2kM3bVQ64RRmIuq/4LgICsXtPAKw01ILsSJtsifZTnI2qEyd1mIgIlBo/74lJS8Qt00Lw879lgpbIh8Io8QdWmH5WiJOOoshJjADCvDT/m7BWfVFQP1koQ0K178yS51S8GVWYXo230zdFs+OppkvwTvcclacub+0M5vo+J+9RlPnFMvGqh8/1bGM97IQyPEyP/ytOuZZimaunfiqqIXhsJrk5EJdmf8Q3vm7cObmG6khRSFfDQ3ckQq63M/3KHn9OeeXLlkrzeQ2Eh3G0k0GK8Rj3qN1YJuR7IBjF1dRkPu5MHma+H1HdJg77BlNxStB+x+EXBn9K+g==;0cFnmnB2rcwlVWgoJ0rJng=="
 ---
 
