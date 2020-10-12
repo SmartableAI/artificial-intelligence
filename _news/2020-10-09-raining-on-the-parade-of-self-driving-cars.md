@@ -41,22 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Delivery During Coronavirus: Japan Post Goes Extra Mile, Tests Robots for Last-Mile Shipment"
-    excerpt: "Following the footsteps of other countries, Japan Post testing DeliRo robots that can carry weights up to 30 kilograms and deliver packages within a kilometer radius"
-    publishedDateTime: 2020-10-07T13:11:00Z
-    webUrl: "https://www.ibtimes.sg/delivery-during-coronavirus-japan-post-goes-extra-mile-tests-robots-last-mile-shipment-52288"
-    ampWebUrl: "https://amp.ibtimes.sg/delivery-during-coronavirus-japan-post-goes-extra-mile-tests-robots-last-mile-shipment-52288"
-    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/delivery-during-coronavirus-japan-post-goes-extra-mile-tests-robots-last-mile-shipment-52288"
-    type: article
-    provider:
-      name: Ellen
-      domain: ibtimes.sg
-    quality: 48
-    images:
-      - url: "https://data.ibtimes.sg/en/full/43136/deliro.jpg"
-        width: 1200
-        height: 898
-        isCached: true
   - title: "Self-Driving Cars Are Not Self-Driving–Marketing Confusing."
     excerpt: "Motorists using active driving assistance systems, which combine vehicle acceleration with braking and steering, tend to overlook safety limitations when the branding and marketing used to sell it"
     publishedDateTime: 2020-10-11T20:18:00Z

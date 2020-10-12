@@ -38,6 +38,20 @@ related:
         width: 1601
         height: 901
         isCached: true
+  - title: "Demand for AI talent pool continues to surge in India."
+    excerpt: "AI has become a most sought-after career opportunity for tech enthusiasts. Getting an education in AI requires a degree in computer science and equivalent streams, along with technical skills such as programming languages,"
+    publishedDateTime: 2020-10-12T05:53:00Z
+    webUrl: "https://www.analyticsinsight.net/top-artificial-intelligence-jobs-india-october-2020/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Artificial-Intelligence-10.jpg"
+        width: 1440
+        height: 720
+        isCached: true
 
 secured: "ZkMiWOkVjU/1vB2YE6xnFo49afsFFlenGL1GUJErMdMlb5hzNjZ3wQJaBUYO/wn8oAQs9+GaJFyX97tyvs4DAsC5hhZ8cVNnRgRt1BEg6tVJ8umPbH+LYZ4DGxl1XGmgi6cbC57sEUpL6B9GdSX+E9/tThmRectd9JQbJcNLgDNtUUKCUNhcrOsq3CL8lR9PIrsnTT1dXYHqT3W/OMVQ2Y68tcgWXeb3Av++ho2tSr6ihsN0OBI8hPsGkPAWcdPnG8xrbmlm+e8rR3A81vbkQIrpmBiY9yY/dG6LhHv7LPRgLZ/31alwZx3fKFe/njLMRJ72aUvEFkMfjGH4SC4AG8bzTjH3xxXrupRiAdDSBHc=;3Kw9XvXfhvucIIwYyQogXQ=="
 ---

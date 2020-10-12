@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The future of work: AI and mental health"
-    excerpt: "Workers face unprecedented mental health crises, driven by the COVID-19 pandemic and other emergencies—but AI can help restore the balance."
-    publishedDateTime: 2020-10-07T13:08:00Z
-    webUrl: "https://www.oracle.com/news/connect/how-ai-and-humans-working-together-can-help-employee-mental-health.html"
-    type: article
-    provider:
-      name: Oracle
-      domain: oracle.com
-    quality: 39
-    images:
-      - url: "https://www.oracle.com/a/tech/img/og-ai-work-facebook.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence and What It Means for Future Tech Development"
     excerpt: "Artificial intelligence is a major development that will change our lives for the better. Let’s take a look at what we can expect from it in the future."
     publishedDateTime: 2020-10-08T08:28:00Z

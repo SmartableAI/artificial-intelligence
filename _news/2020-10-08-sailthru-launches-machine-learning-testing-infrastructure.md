@@ -7,7 +7,7 @@ originalUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID
 webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=143253"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 480
     height: 610
     isCached: true
-
-related:
-  - title: "Sailthru Announces New Machine Learning Testing Infrastructure"
-    excerpt: "Stock quotes by finanzen.net NEW YORK, Oct. 07, 2020 (GLOBE NEWSWIRE) -- Sailthru, the leading personalized marketing automation technology provider for retailers and publishers, today announced a new investment in wide-scale testing infrastructure to make it easier for marketers to test copy and design assets that drive engagement and conversion."
-    publishedDateTime: 2020-10-07T13:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sailthru-announces-new-machine-learning-testing-infrastructure-1029657213"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
 
 secured: "xkSwGu6jyhhTcaCK8WCUUTQDX3AO1wxWzhipN30FHR5Sek5OeVHYCpyToJFSGbvHKgd0QxOnUKt3tSp9/vXCBnUHl740Msn4C0by0rI5KJ/w6oNcueq9N93MOSW8VIw80xPttS+Dol5/seTO7YcMzr4WMoe0Gr3mPlUQkjayd6KsUtk7ujuVFtE9o54RblumDqWR9o4d5pjU7XyZ297fVjnxilkEot6HuZy/EdHQPkUfJXdl8pHAFx3N5I+4DPMDrxXeN6NZgxw0i5Bsm93K/6F550WeLGsGSXdz2q3sDtlfIzGvcaoxhBAD/PPh33sdyaJ2ubBsbFqKOcO3+X0PZx3qse4tYSnZW59o3408lxE=;Wk2v4ZK5CK3D5U6Ah1KLSA=="
 ---

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Demand for AI talent pool continues to surge in India."
+    excerpt: "AI has become a most sought-after career opportunity for tech enthusiasts. Getting an education in AI requires a degree in computer science and equivalent streams, along with technical skills such as programming languages,"
+    publishedDateTime: 2020-10-12T05:53:00Z
+    webUrl: "https://www.analyticsinsight.net/top-artificial-intelligence-jobs-india-october-2020/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Artificial-Intelligence-10.jpg"
+        width: 1440
+        height: 720
+        isCached: true
   - title: "In Message To China, India And Japan Seal Agreements For Cooperation In 5G Tech And Artificial Intelligence"
     excerpt: "India and Japan have reached the consensus on an ambitious agreement of cooperation in 5G technology, artificial intelligence and several other crucial fields. The agreement on various crucial subjects holds significance as it comes when both the countries are dealing with Chinese hostilities at various fronts."
     publishedDateTime: 2020-10-08T09:44:00Z

@@ -27,34 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Fight for Free Speech"
-    excerpt: "Leftist faculty teach immature young people all manner of nonsense that contradicts commonsense and the principles of liberty. Chief among their lessons is a need to attack free speech in the form of prohibitions against so-called hate speech and microaggressions."
-    publishedDateTime: 2020-10-07T14:30:00Z
-    webUrl: "https://thenewamerican.com/the-fight-for-free-speech/"
-    type: article
-    provider:
-      name: The New American
-      domain: thenewamerican.com
-    quality: 24
-    images:
-      - url: "https://thenewamerican.com/assets/sites/2/media/k2/items/src/e686115d8bae0aa58bf88143240c00cb.jpg"
-        width: 947
-        height: 500
-        isCached: true
-  - title: "WILLIAMS: The fight for free speech"
-    excerpt: "The violence, looting and mayhem that this nation has seen over the last several months has much of its roots in academia, where leftist faculty teach immature young people all manner of nonsense that contradicts commonsense and the principles of liberty."
-    publishedDateTime: 2020-10-07T14:03:00Z
-    webUrl: "https://nsjonline.com/article/2020/10/williams-the-fight-for-free-speech/"
-    type: article
-    provider:
-      name: North State Journal
-      domain: nsjonline.com
-    quality: 24
-    images:
-      - url: "https://nsjonline.com/wp-content/uploads/2017/08/ws-326x245.jpg"
-        width: 326
-        height: 245
-        isCached: true
   - title: "WALTER WILLIAMS: The fight for free speech"
     excerpt: "The violence, looting and mayhem this nation has seen over the last several months has much of its roots in academia, where leftist faculty teach immature young people all manner of nonsense that contradicts common sense and the principles of liberty."
     publishedDateTime: 2020-10-08T08:13:00Z
@@ -153,7 +125,21 @@ related:
         width: 300
         height: 207
         isCached: true
+  - title: "The fight for free speech"
+    excerpt: "The violence, looting and mayhem that this nation has seen over the last several months has much of its roots in academia, where leftist faculty teach immature young people all manner of nonsense that contradicts commonsense and the principles of liberty."
+    publishedDateTime: 2020-10-12T07:22:00Z
+    webUrl: "https://www.newsandsentinel.com/uncategorized/2020/10/the-fight-for-free-speech/"
+    type: article
+    provider:
+      name: Parkersburg News and Sentinel
+      domain: newsandsentinel.com
+    quality: 24
+    images:
+      - url: "https://d14e0irai0gcaa.cloudfront.net/www.newsandsentinel.com/images/2016/09/15131213/ns-fb.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "sqkxC6RF2adB/dYHyntNiwL9nqZapvqsfzlMJmQGoArpoqta2r6s78ONdhM/wOEpvpab1YXt5pf029GBQVPwrRKdpwFpWwJgB95WAjf+QVaxmgmNFsf3tr42ZiTLX4N5CHHhL35Ls0/iZBfFKmNPgrwMqK2TOGbKnis7ssnRluYLn5zMYz6St6m2JsWlsB46fgWGY34t02lQHcJr/k09G5wb7kcBDmf7pfXAVqjgGtz4pILO2n2B+1EM8pIhdkh58Lt9O2SeiWlKvJM8gk8fgEqRLtWZFpdGVtFg++d14gEUzGCbyOAqMNZ0MUN5+Qe9ecEFmbAJAltSV7D2/132gpBGw3Ix2z/SoLNWNxTXdDY=;+7K2aS5Xsb+8Zo/DXw0ahQ=="
+secured: "sFt+WIinWnUoAagbKDVewaXgSFqB9XzYrWUcEcweFDNB8A2domV50s160bO1pcIT51uclHB+8OVkGP6Vx3aC8knUnpqnUu14Te/nK5bWMmRMGEE/63c+XS/kDwmX20Qnoq6R7qT+1gx4ObierLr2aRsnAJdbZTjoS6sEg03yWa04BPJTA5tPJxfUMDBNMQi6tgKJiutW/e/wf7PwY0+93pERNHIy9YGU8UEDhZgfcInUtOIa3vIXeeG1SJlZYsbwDMF1H7edp+GeCqPntIm46E9M1Q8smTz8030+kJgrXnHFmRgmik5qUjlqKWiIWTCIiM8pFi3FaTGJ3XeagOFHkfHNN8oydTpbFlDC3+cZRrZY9vKeGhfAbsljlZHY7dzUgB66IcCbBVZcmaJEK2Txu16cSMlgvrrknLytnnz50/fYyI53JiUI0WJK3d3hjFiiH8spCmEITtSQEyRBpNIco6+rE9nWarMDP/m9Fe4WEnI3zO8dgJshhfKvmbQRGKfIXoEM5vmmJl9LkjGK0Jm4ow==;UH3/ieoa3rqzZp1hPfyonA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/10/07/startups-joining-sk-telecoms-accel
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/07/startups-joining-sk-telecoms-accelerator-include-ai-driven-mapping-and-vision-for-delivery-robots/amp/"
 type: article
 quality: 92
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 480
     height: 360
     isCached: true
-
-related:
-  - title: "Deep-AI Launches Industry-First Integrated AI Training and Inference Solution for the Edge"
-    excerpt: "AI Technologies is emerging from stealth and launching the industry’s first integrated training and inference solution for deep learning at the edge. With Deep-AI, every inference node at the edge also becomes a training node,"
-    publishedDateTime: 2020-10-07T14:15:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/deep-ai-launches-industry-first-integrated-ai-training-and-inference-solution-for-the-edge/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 31
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/Segars-Haas-Huang-Oct2020-405x228.png"
-        width: 405
-        height: 228
-        isCached: true
 
 secured: "gjbD1Mpy6t0EC02SmHYlZd/msETh7iGWln/Kd9CtD7Eo2AS0guw0KwBCtVuBOeNAPHE9LdwsKODRKr+8bU4FLdeRInXBHIwxf1BbAgITGfgrIiDMZkcHdOTYOWvvBT1ML4egDuPJ+p4YbR5xnNl0M5UhnGGJBYVQgesSc8zeEtUEb/EBXyH7irRnhf2cNyYAZInMS/dL1lLFlpcWMMKyG2ALp11eZBu1bKGB/8TITBf8P8k1gKkKhXsHTryKG6h5WIv6+C3b2pmc8k4hVQnMiqMVO1dVy719nsy3x16VzUCKaNDfBbdDONiofL1YjsPEbGpzrpqPGU/vA0ZFFT+yIp47gL+c/E3SBF2JXSsN+Aqw0eUL1/SpTKAi8M5X6Wp7JaoFv+wwk3XpODC0YHGsMcOU8bVyXkIlIyXZ6Sfpkelw0q4sfLBYD6zT1P0Mj3eJ6Er71EisswBUAlLnmtyKGSWchJxa2yK121j21k69HCzRTcIa54rVoW6WAYWHt8W1SiqF4KtAOuqeg4EfG/YCaA==;b2m7ApNvbhfoy9v7vp3xOg=="
 ---
