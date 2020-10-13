@@ -1,32 +1,22 @@
 ---
 category: news
 title: "3 Top Artificial Intelligence Stocks to Buy Right Now"
-excerpt: "Artificial intelligence (AI) involves using computers ... deploying AI brains into the Waymo self-driving car business, and applying these technologies to medical research and weather forecasting."
-publishedDateTime: 2020-10-07T13:48:00Z
-originalUrl: "https://www.fool.com/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/"
-webUrl: "https://www.fool.com/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/"
-ampWebUrl: "https://www.fool.com/amp/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/"
-cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/"
+excerpt: "Artificial intelligence (AI) involves using computers for tasks that normally require intelligent human behavior. AI systems can easily beat human grandmasters in chess, they have started to drive cars,"
+publishedDateTime: 2020-10-07T14:37:00Z
+originalUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-10-07?time=1602083216"
+webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-10-07?time=1602083216"
+ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-10-07?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-10-07?amp"
 type: article
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - AI in Autos
+  - AI in Healthcare
   - AI
 
-images:
-  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F594319%2Fartificial-intelligence-digital-brain.jpg&w=1200&op=resize"
-    width: 1200
-    height: 800
-    isCached: true
-
-secured: "LEqpRLcUOphFpAdvrJClIXRTDl4rTFQZksXdRZW1zw/NeU7HxVwTIasyBTJFFjyhFq+3EoJ/tOltOeTgiHwV88U5z3gFD4O1rHjtAhzE7DA/t2h4ILl1mSn506SPWTk0fDKkgIN7OdW+N01wGnwM0K5wrWd8oucCSR149Hi8BPGE81LjUQ+TKfWG+PiroN6QL9IQV+9Je3YwbclTnUhUmyIQK54/ZEQtfDR9A1jWrMgFmcBKoKiAhxz/Rs5IrYdg9pb9jXo/5C6bhrg9cPTa/EaPnhrF88wXlzk3B4dzJ4C+69W611K4TmJE2IbgROqsXCarvkD0RguPx6WX/hvV1/7irEw0oKFDDPOk8F2TpP0=;q//sUBpvg80QZ/qwJNlpwg=="
+secured: "/67hyrJwHAsGBoxBTU0FJmUP5dHkgB6/jMXdj6+wAZ9UUkIXNSk/5KMa7qx/1bD0Yjog8TpnM9+UvOxOlTwCRhvMluGFG+6vz8/i6Pm0MUfPsTqBPRujP1AHK2hQlEybdgco4bpmcbDY2RIdMjt9aeV8Mvfl3bKFBvan+8gmLaTqmQ8l91QJdS/47JYRN52GGyxdJTqpkSldv+fUOjBp1Lx5dNuUFF9/laBuen/L6XrpjAix4nYP0krgzbnHob/Qk3zFI4mBexsZ8sLOmmFTFqiyA8cTqqDZCl0RUrsdqijz5zH11qG/phu9PkHVw7AV00oH42bOuWiTGTq/jHrM+2VCj1CNC0ymPe8q4E/T484=;gZ991nmFk8juftS7K7FzaQ=="
 ---
 

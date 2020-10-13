@@ -53,6 +53,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "StreamlineMD Selects Aidéo Technologies’ AI-Powered Auto-Coding Tool for Revenue Cycle ..."
+    excerpt: "(GLOBE NEWSWIRE) -- Aidéo Technologies  – a leader in AI-enabled automation technology for the healthcare industry – announced today that StreamlineMD has chosen the company’s AI-powered auto-coding tool Gemini AutoCode™ to enhance revenue,"
+    publishedDateTime: 2020-10-13T17:18:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-north-america-health-care-industry-medical-technology-56568f78b7650d56face9e234abf7777"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "IWHLAklgolr15CzNZtZ4Jz+TGgYS1PzqI0Rykq4HOpk2WclsgO+AGxnrM71hlKPzQRuZggzB/ER3EKYAe/sAQ6ZPDOiltp3SLRxVme6TUN03Dlq2eBc1Sn3IF+7NxLMwEM09mzxljkFf2VxhrqMjUj7jzYXAwtVaNWGhR61I1OWydMrjUnbRxG0B5U8vthdiuZfZFOdWG9qJyBLFTducDZ5TbfRQ7817KtdHoO+qFvr7LRFG27RTSCepu0e35QTb+SI9CoeDqWq6U4Xm/OKHnFEkFjow2tNdOuihChYAQ/JBivaF0qzQ0HpWm6Bt658s1NveUiaJeP9IymkQ9U55rgD2WLYxHlNq/vn168sBI4o=;1r3vns1A9TzLLj5HckR1KQ=="
 ---

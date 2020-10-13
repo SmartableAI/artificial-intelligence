@@ -9,8 +9,8 @@ ampWebUrl: "https://madison.com/business/otologic-technologies-hopes-bring-artif
 cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/business/otologic-technologies-hopes-bring-artificial-intelligence-into-the-exam-room/article_507777b3-1f7d-5b4a-a45c-1268c0e5ec63.amp.html"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Madison.com
@@ -43,17 +43,6 @@ related:
         width: 366
         height: 232
         isCached: true
-  - title: "5 Technologies that are redefining the gaming industry"
-    excerpt: "Artificial intelligence is undoubtedly one of the most celebrated technologies in the 21st century. Its application is varied and widespread. In gaming, however, the incorporation of AI dates back ..."
-    publishedDateTime: 2020-10-09T05:55:00Z
-    webUrl: "https://www.ciol.com/5-technologies-redefining-gaming-industry/"
-    ampWebUrl: "https://www.ciol.com/5-technologies-redefining-gaming-industry/amp/"
-    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/5-technologies-redefining-gaming-industry/amp/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 24
 
 secured: "dKN7UsTe1PEYBWCk4/rWYBZVDSqkTomTjltNon3AWAEDPeAAtplUe2m2bkPnrIu9Achr5yEQ62gNKy5+mmbfrT2Zi84ZJj3G0K0ygNWwLW7gQKiTJOudcOM9+t5DAQtLVWJPt32Exbvz504yXhIgYj5Dob3snTKGyuBhKZEnpHqI9zdJdo9hOR1YDoFiDAT1hkXiws7gReLVDfz8X6pYuL2VZQ2aX6vUTJ/EtDxjN/6+mLZ33EJ9Gj+YdeZxICsV86C//xKrRtJxE+PDYjUNn+rlbwTOiVbxeNV3lFfP7uDoJfBhZhEcSSsFPIAymBBoYDAsmKddwWwUDhOWgMgZpaTii7WPdstPAwHy7VJfwR4gvBRaxpgMaO9kNSTadZwFoe7TeCMB27uFP7ahUUqF/ohwDUWrMmojTzpyGkzm0Ex+YP3SZN6c98+MFW5sAS9MZPDAE4IFxbQjjV7qCUGk0mfPtzNJzclQiW1TWTB9rYtywdvQQfa50kOtC02cMIJ4hOB1VANKjGsxysch6I76OQ==;hEOMeGzLM0/MUzaSn6aNqQ=="
 ---

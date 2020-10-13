@@ -34,7 +34,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f84f4978d786028fac3acbb%2F0x0.jpg"
         width: 1200
@@ -102,20 +102,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Avnet poised to play key role in next-generation automotive technology"
-    excerpt: "The automotive industry is undergoing an historic transformation which will fundamentally shift the way vehicles are manufactured as well as change the way we look at and use cars, and possibly"
-    publishedDateTime: 2020-10-09T03:00:00Z
-    webUrl: "https://roboticsandautomationnews.com/2020/10/09/avnet-poised-to-play-key-role-in-next-generation-automotive-technology/37155/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 24
-    images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/10/avnet-image-larger.jpg"
-        width: 750
-        height: 354
-        isCached: true
   - title: "The Next Level of Alt Data"
     excerpt: "New sources of information continue to be revealed by technological innovation, placing an emphasis on blending it with experience and investment expertise."
     publishedDateTime: 2020-10-12T14:09:00Z
@@ -129,6 +115,20 @@ related:
       - url: "https://institutionalinvestor.euromoneycdn.com/Media/images/institutional-investor/tl-2020-10/CFM2-586706738-COVER.jpg"
         width: 585
         height: 384
+        isCached: true
+  - title: "Tyto Care Launches the Next Generation of Telehealth with an AI-Powered Diagnostic Support Solution"
+    excerpt: "Tyto Care, the healthcare industry's first all-in-one modular device and examination platform for AI-powered, on-demand, remote medical"
+    publishedDateTime: 2020-10-13T19:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/tyto-care-launches-the-next-generation-of-telehealth-with-an-ai-powered-diagnostic-support-solution-301151340.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 23
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "PkDk3QnDKGp+HN0Og942g2o7tQtxbG3py765OkF4OUitmcHpnMgVJ/Rcjo3WFzVVU2QIPs8Zz0B5FWNf7BDL1bUrUV0Wy7q+e02el8RzgFfCFdsYks6MXyFQYKEFZ/VFGZ7gZiRrbPpwXRTXyJXThINx7BgEuPrZL4TnmgV1jeJaa/KZIq7u/5jlJLoKbu7HRYXBLn9gh+mfpO3e/TxAm4zOT5sMsiislwNcdyb1Vy9r1jukPv4R1ggM0n/QWNkegWLBGURN1RQVw1/FF3m+iVCzr85VYM0NTnzzGd0WAmGrxG41ZHByUcYWAL0oEQtx69OsRGV99CWg9VVORW+1ueWmSIArxnhABNIhYXdx9WM=;rlqvAZ314Jo8yDxx2vHKNA=="

@@ -34,6 +34,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "3 ways to implement AI in software development"
+    excerpt: "Application development tools have long used AI to improve code completion, though AI has always had limits as to what it can do. New breakthroughs with AI in software development now give artificial systems a much bigger hand in the development process."
+    publishedDateTime: 2020-10-13T19:25:00Z
+    webUrl: "https://www.theserverside.com/feature/3-ways-to-implement-AI-in-software-development"
+    ampWebUrl: "https://www.theserverside.com/feature/3-ways-to-implement-AI-in-software-development?amp=1"
+    cdnAmpWebUrl: "https://www-theserverside-com.cdn.ampproject.org/c/s/www.theserverside.com/feature/3-ways-to-implement-AI-in-software-development?amp=1"
+    type: article
+    provider:
+      name: TheServerSide
+      domain: theserverside.com
+    quality: 57
+    images:
+      - url: "https://cdn.ttgtmedia.com/visuals/searchEnterpriseAI/ai-platforms/searchEnterpriseAI_020.png"
+        width: 1200
+        height: 400
+        isCached: true
   - title: "How Will AI Impact the Future of Marketing? We’re Teaming up with Marketing AI Institute to Find Out."
     excerpt: "Drift is teaming up with the Marketing AI Institute to better understand the true impact of AI on marketing. Be a part of this ground-breaking research here."
     publishedDateTime: 2020-10-12T14:19:00Z

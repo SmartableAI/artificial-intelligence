@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-12T17:23:00Z
 originalUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/10121AIEye-KR-REKR.asp"
 webUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/10121AIEye-KR-REKR.asp"
 type: article
-quality: 0
+quality: 2
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.investorideas.com/images/AI-Eye.jpg"

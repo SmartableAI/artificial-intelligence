@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/olive-unveils-ai-powered-platform-
 webUrl: "https://www.businessinsider.com/olive-unveils-ai-powered-platform-to-streamline-healthcare-admin-2020-10"
 type: article
 quality: 72
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "StreamlineMD Selects Aidéo Technologies’ AI-Powered Auto-Coding Tool for Revenue Cycle ..."
+    excerpt: "(GLOBE NEWSWIRE) -- Aidéo Technologies  – a leader in AI-enabled automation technology for the healthcare industry – announced today that StreamlineMD has chosen the company’s AI-powered auto-coding tool Gemini AutoCode™ to enhance revenue,"
+    publishedDateTime: 2020-10-13T17:18:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-north-america-health-care-industry-medical-technology-56568f78b7650d56face9e234abf7777"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

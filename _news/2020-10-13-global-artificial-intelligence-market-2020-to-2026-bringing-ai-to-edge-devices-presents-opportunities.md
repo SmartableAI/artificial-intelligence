@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-13T12:08:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/global-artificial-intelligence-market-2020-to-2026-bringing-ai-to-edge-devices-presents-opportunities-1029673557"
 webUrl: "https://markets.businessinsider.com/news/stocks/global-artificial-intelligence-market-2020-to-2026-bringing-ai-to-edge-devices-presents-opportunities-1029673557"
 type: article
-quality: 49
-heat: 49
+quality: 51
+heat: 61
 published: false
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - Natural Language Processing
   - AI
   - Machine Learning
+  - Facebook AI
 
 related:
   - title: "Asia Pacific Digital Transformation Research Report 2020-2025: Focus on 5G, Artificial Intelligence, Internet of Things, and Smart Cities"

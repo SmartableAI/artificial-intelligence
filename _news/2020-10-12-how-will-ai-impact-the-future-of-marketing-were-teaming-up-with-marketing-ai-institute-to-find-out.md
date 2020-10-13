@@ -40,6 +40,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "3 ways to implement AI in software development"
+    excerpt: "Application development tools have long used AI to improve code completion, though AI has always had limits as to what it can do. New breakthroughs with AI in software development now give artificial systems a much bigger hand in the development process."
+    publishedDateTime: 2020-10-13T19:25:00Z
+    webUrl: "https://www.theserverside.com/feature/3-ways-to-implement-AI-in-software-development"
+    ampWebUrl: "https://www.theserverside.com/feature/3-ways-to-implement-AI-in-software-development?amp=1"
+    cdnAmpWebUrl: "https://www-theserverside-com.cdn.ampproject.org/c/s/www.theserverside.com/feature/3-ways-to-implement-AI-in-software-development?amp=1"
+    type: article
+    provider:
+      name: TheServerSide
+      domain: theserverside.com
+    quality: 57
+    images:
+      - url: "https://cdn.ttgtmedia.com/visuals/searchEnterpriseAI/ai-platforms/searchEnterpriseAI_020.png"
+        width: 1200
+        height: 400
+        isCached: true
   - title: "Adobe adds AI features to its digital marketing software"
     excerpt: "Adobe's (NASDAQ:ADBE) digital marketing software now comes with integrated AI tools to help campaigns better target ads based on previously viewed or currently viewing content.The type of AI tech isn't new,"
     publishedDateTime: 2020-10-12T18:29:00Z

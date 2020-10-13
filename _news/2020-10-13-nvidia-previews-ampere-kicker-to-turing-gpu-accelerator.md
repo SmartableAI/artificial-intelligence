@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2020/10/12/nvidia-previews-ampere-kicke
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/10/12/nvidia-previews-ampere-kicker-to-turing-gpu-accelerator/amp/"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,19 @@ images:
     width: 812
     height: 514
     isCached: true
+
+related:
+  - title: "Saturn Cloud Enables Easy and Powerful NVIDIA GPU Computing For Everyone"
+    excerpt: "Today, Saturn Cloud, the GPU data science company, announces the launch of Saturn Cloud Hosted, an open platform for multi-node multi-GPU computing in the cloud. The platform is available to anyone and everyone: corporations,"
+    publishedDateTime: 2020-10-13T18:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/saturn-cloud-enables-easy-and-powerful-nvidia-gpu-computing-for-everyone-1029675847"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/saturn-cloud-enables-easy-and-powerful-nvidia-gpu-computing-for-everyone-1029675847"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/saturn-cloud-enables-easy-and-powerful-nvidia-gpu-computing-for-everyone-1029675847"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
 
 secured: "T57CTm2jmUxI8qvXCAX4ttWsMdAHwqcrd1X5vSvbNmDTHtMUzlqEAf2lytkkptlDwyONi6GGu+N2Jh1+PkI4dkF54c5CqpyEY1V9UH1GRDxF755JS5sU58Wf5mUTyJtyj26yMpgefdrbKdpY2mU5OTa0ptGvl67AsVpXjqYDi19UGFlb0XOu0BR8SUK2HkzkbP45+4LAseLGHnzl3dr+IhOHs/qedLfYMZN9h4NT3vefALlpAyTwY9Al+S2eUe9r/uNHBz8n1QHSvdWs+5s0my+lcf1ZI4zCfmo2k129sX55zVBAfcGFIKz0ixaaD4RW2YAs6aRJC8jJyVJt3VWkywx6+BXg3kmrm4StMb8puh/lg08MgaT061s9hnuve1nOwlwfu5cIFGtig5iC6ofpChuXTkRCgmkGWAzefQ1ijimphLAIJySqR+PzBHmKQptmQcxNDNbu1QhWFwfg87+yJgtaI9ify0eXCJNuTG+EHWySSLX3XokofoVj2GlOMXTHerGmwxujOWZlb9zqpfuyEw==;L5KsXJU621eBWWUGZ8EceQ=="
 ---

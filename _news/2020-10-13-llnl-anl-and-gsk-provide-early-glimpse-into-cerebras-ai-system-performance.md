@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-13T16:27:00Z
 originalUrl: "https://www.hpcwire.com/2020/10/13/llnl-anl-and-gsk-provide-early-glimpse-into-cerebras-ai-system-performance/"
 webUrl: "https://www.hpcwire.com/2020/10/13/llnl-anl-and-gsk-provide-early-glimpse-into-cerebras-ai-system-performance/"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/Cerebras-CS-1-cropped.jpg"
@@ -23,6 +24,22 @@ images:
     height: 479
     isCached: true
 
-secured: "8ti3BCL9WkzcePDQ5h7DRfWG1ITRn7/NOHxHHV5WqSEsQ6v3ABSJfsQtpQg5cYOjc3oCu0JRXtnJja34YIFleVvoU+P2Gpyh7IrBkCFO5LReUJ9H+4FLUG0532la4O7SUjUTEnkqZGdycEJ5z4ungaRgYx8vLrJFRYCzBkHkng41aP0WKC714PPTolxTA2ug2M9SFyFVK4VN5kmBQy9CvVkBeHeNJc9cKt3wC3SHcf0DHlBoY6IO9hBOnjUI51BQgyYfL/cruSGIvTW1sKqssGFyoWvHpRUTmBR7oIuR2VOm20wKTGF6ZypZTSAijeipWZivBhXgetp3/4VZAkHwo1WibGd442t0ijo8T1o9QJQ=;53SixgEqrz6E1ZX6LKNvcg=="
+related:
+  - title: "Expert System rebrands as Expert.ai"
+    excerpt: "The rebrand follows the rollout of the company's 2020-2024 strategic plan which aims to accelerate global growth and capitalize on the AI market"
+    publishedDateTime: 2020-10-13T18:35:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=143327"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 37
+    images:
+      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
+        width: 772
+        height: 594
+        isCached: true
+
+secured: "CvOC/wGC994Kunht6JIxQtSQe5y9ngyUk4xGZoxrQAbwO+/uwauovriJYPSDqWgXUhjaDhMog1X7iXgThPkTH7OQWAYEQxgZg7M66tpD+lRiZh3yiZL5HAB1DszvxyZbKThf2FjV2IvSVNrAkmowHap3hqokbUkSAMZMop8bJWjZ+gvR6n4WQqsN8bBnTpoK1VbwaS4e5iwkgt9uHMGNzV7onr2abfgjsYqfQIoSpk3jJ0zgLzMm9ZT9t4/lRs1DvZJceoLop7kjzE1X1C8BPGKX48M8lFcJJmwFk/ZAw3CfrpHMLL3CPuoOhEb85/qJcvi3y1Er4QS42lvEGmESST99pld+WhC/ok5+k1GuPobNeyDP3zo+Rar3NrOS1inBwigmSfqAuxdicfomSzPeKrLF0pBAb8hJrU5qRs41nnh8TcH2fq2zZNJhuR7NW20lVmI1KA/zaA8CJBylnR4B89IANMDPT2uPbriQQHcx65h8hQT/RNHrahDaMdjd/xltJaUzPd7bz5Q+O5Y8mWIYpQ==;MiV1pa9wZ/OlPSHIOAKDAw=="
 ---
 

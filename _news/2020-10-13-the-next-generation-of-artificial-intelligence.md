@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of
 ampWebUrl: "https://www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/amp/"
 type: article
-quality: 89
-heat: 159
+quality: 91
+heat: 161
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Facebook AI
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f84f4978d786028fac3acbb%2F0x0.jpg"
@@ -104,20 +105,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Avnet poised to play key role in next-generation automotive technology"
-    excerpt: "The automotive industry is undergoing an historic transformation which will fundamentally shift the way vehicles are manufactured as well as change the way we look at and use cars, and possibly"
-    publishedDateTime: 2020-10-09T03:00:00Z
-    webUrl: "https://roboticsandautomationnews.com/2020/10/09/avnet-poised-to-play-key-role-in-next-generation-automotive-technology/37155/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 24
-    images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/10/avnet-image-larger.jpg"
-        width: 750
-        height: 354
-        isCached: true
   - title: "The Next Level of Alt Data"
     excerpt: "New sources of information continue to be revealed by technological innovation, placing an emphasis on blending it with experience and investment expertise."
     publishedDateTime: 2020-10-12T14:09:00Z
@@ -131,6 +118,20 @@ related:
       - url: "https://institutionalinvestor.euromoneycdn.com/Media/images/institutional-investor/tl-2020-10/CFM2-586706738-COVER.jpg"
         width: 585
         height: 384
+        isCached: true
+  - title: "Tyto Care Launches the Next Generation of Telehealth with an AI-Powered Diagnostic Support Solution"
+    excerpt: "Tyto Care, the healthcare industry's first all-in-one modular device and examination platform for AI-powered, on-demand, remote medical"
+    publishedDateTime: 2020-10-13T19:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/tyto-care-launches-the-next-generation-of-telehealth-with-an-ai-powered-diagnostic-support-solution-301151340.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 23
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "ZNfGLFG0F1chceUZMBucWGGTlDSotLw4TpimBuCoZRB3o2OaKDK9n9A8kKjm5Df17Lvey4YESDQ8q8DgqQnhmeo1hhMEwk3cYNTl6bVG9NRv725ccB+uPyS1Ct9Zyfhh5L384/VVXcW8zEf8k9Si3BV1+lnKmvy+/O1IU8E+jCUezywXzJgPtaiy1mbsGxVgzJ8sL1MmlL1l7M7hWqblvZL5f6U3jS0cWAmS2+NH/1bDMM/UZkeiJ55dJVECcWYylVQoZFFWFV2xoVodSD/1w+b7QCcUXF2j1JkE4rGXmcAzI7lKpxrPogAdqt+aCTfUpOq7FPvMP0PQUkvHLQMajMoJgUKux+HXJhaOiTSSDoB9qrj7eaRPP4P1uJLYHfx3kIHctowx+Nv3BnFbHhsrLa9Sc9XtJGziaxTqhqoZ1Z1xhU0faxgi+QuvNHPcWZUH/EqbgwKTNcsVjPzSQoY0MacbZqlVSjNEoDNDBWsWzTrbTO4q7ARmPiVMwcVj/4NGo76d05plZaWVIyHafhQcJw==;thLVjr5fPNsO3WGNHfWnUw=="

@@ -7,7 +7,7 @@ originalUrl: "https://bangordailynews.com/2020/10/13/politics/portland-voters-to
 webUrl: "https://bangordailynews.com/2020/10/13/politics/portland-voters-to-decide-on-strengthening-facial-recognition-ban/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition deal opens access to public and private parties"
-    excerpt: "The government has done a deal over facial recognition technology that throws access to it wide open. The Department of Internal Affairs has signed a master agreement with a leading global biometrics tech supplier that just about any organisation,"
-    publishedDateTime: 2020-10-11T19:14:00Z
-    webUrl: "https://www.nzherald.co.nz/technology/facial-recognition-deal-opens-access-to-public-and-private-parties/WYCET4X7G5BMLQYSELSD7LBHBA/"
+  - title: "Portland voters asked to strengthen facial surveillance ban"
+    excerpt: "Question B on the city ballot would add enforcement provisions – including a private right of action for people to sue the city – to an existing prohibition on city employees using facial recognition technology."
+    publishedDateTime: 2020-10-12T08:26:00Z
+    webUrl: "https://www.centralmaine.com/2020/10/12/portland-voters-asked-to-strengthen-facial-surveillance-ban/"
     type: article
     provider:
-      name: The New Zealand Herald
-      domain: nzherald.co.nz
-    quality: 39
+      name: Kennebec Journal
+      domain: centralmaine.com
+    quality: 24
     images:
-      - url: "https://www.nzherald.co.nz/resizer/z_KV0bXxbvv_DCZtGHsbff6ujSY=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/RZPFWX7I2GZDU3MHXMT3BKUDZA.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Government facial recognition tech deal offers wide access"
-    excerpt: "The Department of Internal Affairs has signed an agreement with a global biometrics tech supplier that just about any organisation can join."
-    publishedDateTime: 2020-10-11T18:42:00Z
-    webUrl: "https://www.stuff.co.nz/national/crime/300130018/government-facial-recognition-tech-deal-offers-wide-access"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 39
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/o/m/q/d/image.related.StuffLandscapeSixteenByNine.1420x800.4yotsy.png/1602441234083.jpg"
-        width: 1420
-        height: 797
+      - url: "https://multifiles.pressherald.com/uploads/sites/10/2019/11/FacialRecognitionPromoWeb-e1574135144357.jpg"
+        width: 816
+        height: 554
         isCached: true
 
 secured: "RAVFxWBRchThcmZA8ahMd3XzbkD+5Ji8eXBrxGANBhngaGOz/jC8tiv2e+hW4RyZXnZyR6a6WoUoBjcX/5zGLsfiPoL6eXLCMJq9eAaL6uYUXtbf4xVfU2w2tHUkeVkmzAHM9MdlqJhpHQA3Fm2avo72cPPbnaLS0kWWDPz+9C4n6bzEdsyss550ZCGpLhaoe+iTRDgXD/vcZLqlODgApuAOMZsdu0Qf7Gxzgacq8ixgofxI761YGVYxZsHoEJVzwP5eLYfNk5kmtkZQftWBqHoZB0RdQ4QGzQ+GxJ5Klw2hanaMDwAi84Mh4kTg7YRzaIvbIh4W46UiQhDlGmoNmLsncB7wRKQg5/tsFBBq6sUO6w5r/4Bh+C2YCe4xJhxbz4pUDbF7qDTED3CwQMZA2FEdAXSNMEpeFivyaDrIWsubjuaWby20yfk132pFq920bUxKEOp6ZcMPuSVpTKtemSkLd4dhoZHdGIrLrayQ+9WXZru+Vd4afZsSVkPi8Z6Y4jfikymjvkR6ne6iwQqFpw==;9low80p7dF7d5/Ivtf7QgQ=="

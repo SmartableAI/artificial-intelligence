@@ -39,7 +39,7 @@ related:
     provider:
       name: The National Interest
       domain: nationalinterest.org
-    quality: 37
+    quality: 39
     images:
       - url: "https://nationalinterest.org/sites/default/files/main_images/2019-11-11T203337Z_1214682097_RC289D9IZ78P_RTRMADP_3_TWITTER-DEEPFAKES.JPG"
         width: 1800

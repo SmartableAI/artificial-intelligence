@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Deep learning takes on synthetic biology"
-excerpt: "Machine learning is helping biologists solve hard problems, including designing effective synthetic biology tools. Two teams from the Wyss Institute and MIT have created a set of algorithms that can effectively predict the efficacy of thousands of RNA-based sensors called toehold switches,"
-publishedDateTime: 2020-10-07T09:05:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-10/wifb-dlt100620.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-10/wifb-dlt100620.php"
+excerpt: "Two teams of scientists from the Wyss Institute at Harvard University and the Massachusetts Institute of Technology have devised pathways around this roadblock by going beyond human brains; they developed a set of machine learning algorithms that can analyze reams of RNA-based “toehold” sequences and predict which ones will be most effective at sensing and responding to a desired target sequence."
+publishedDateTime: 2020-10-07T09:00:00Z
+originalUrl: "https://news.harvard.edu/gazette/story/2020/10/analyzing-toehold-sequences-for-synthetic-biology/"
+webUrl: "https://news.harvard.edu/gazette/story/2020/10/analyzing-toehold-sequences-for-synthetic-biology/"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Harvard Medical School
+  domain: harvard.edu
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
+  - url: "https://news.harvard.edu/wp-content/uploads/2020/10/ribocomputing_H_2500-945x630.jpg"
+    width: 945
+    height: 630
     isCached: true
 
-secured: "J0zqVgU4kzWu8F89xLG0nHA8mtZ2PkgNkoV8ctEOULdDHGLa94+jCV+aVEB71OLL4CjmEpIfEqFLuj1v33dd3rHGedEbhDdpHqZEsyxEcorcVq2iaGXmVJJmndAJInm1XX57DFU5jq1LkLuGnwP+WpLX/tmqmjjELl27JmvQ9hXyU2zRw2njfSpSD55LWxBkDQ4pM60YKjVqLWlnrOS9rfIXDZsxf8CcnM7vDs0LOJX94RWBdebTgMnBEXbigZRgmY8QN52Vu6lkmu6l4Lgc0NFLq4Jtir4MdgWSstfF6YPWS5Boyip5AN9OokfFqWPVJwFXWhJhkuulCdWu+kRN/ZjLT8Ro3k0NY64Zc9kEtos=;gyXLo8pYx/AishRfbkwiXw=="
+secured: "AVbNnDwkJig3i3k2rWUHEXpwUNJX0GnCvGGGOH474EK71WvONzfkJmJKeRpE9KGrNVRjcTbalkvnJ4+jFB0guj0lWvD/+I4nxtGbrLqMmMCQZQQ8EbooDDJJsYzlMG/o4z9+Qsg1cpy6LX08w2radczCVtYvSQhBXnxWadwtQu/43lqqYbhhgA6AsST+joU0+/a66AOzfI1u12PlIdsaOFt0mj0uPDVJmIO8HpmykfMdzw4tdqJyrLwcP4lqlHkQdKm7ARRFXKXJYn/EqQdG1JD/A29/Z4yLzrhyEtEG6Jg//vqVXb/1Br06R7k/Qg+0nVcqnBgf6WFskQejAW8yxk4+/X278YCNY8yuKmQa4Js=;nHla6mS3Yz2c7KgufIVX1w=="
 ---
 

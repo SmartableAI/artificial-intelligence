@@ -25,37 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Imposter ID'd With Facial Recognition Technology At Local Airport"
-    excerpt: "With the help of the Simplified Arrival process, customs officials detected a traveler's mismatched documents at Washington Dulles Airport."
-    publishedDateTime: 2020-10-09T01:16:00Z
-    webUrl: "https://patch.com/virginia/herndon/imposter-idd-facial-recognition-technology-local-airport"
-    ampWebUrl: "https://patch.com/virginia/herndon/amp/29007924/imposter-idd-with-facial-recognition-technology-at-local-airport"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/virginia/herndon/amp/29007924/imposter-idd-with-facial-recognition-technology-at-local-airport"
+  - title: "VINCI Airports Launches Facial Recognition Travel Assistant"
+    excerpt: "VINCI Airports has launched a travel assistant that uses facial recognition technology. Mona allows travelers to set up a customer account by downloading an app to their smartphone either at home or at a terminal in the airport in order to take advantage of this new service,"
+    publishedDateTime: 2020-10-10T10:35:00Z
+    webUrl: "https://www.hstoday.us/industry/vinci-airports-launches-facial-recognition-travel-assistant/"
     type: article
     provider:
-      name: Patch
-      domain: patch.com
-    quality: 74
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 54
     images:
-      - url: "https://patch.com/img/cdn20/users/23738464/20201008/041638/styles/patch_image/public/cbpo-pax2h___08161627748.jpg?width=984"
-        width: 984
-        height: 738
-        isCached: true
-  - title: "Government signs deal allowing local businesses access to facial recognition technology"
-    excerpt: "The Government has done a deal over facial recognition technology that throws access to it wide open. The Department of Internal Affairs has signed a master agreement with a leading global biometrics tech supplier that just about any organisation,"
-    publishedDateTime: 2020-10-11T22:07:00Z
-    webUrl: "https://www.newshub.co.nz/home/new-zealand/2020/10/government-signs-deal-allowing-local-businesses-access-to-facial-recognition-technology.html"
-    ampWebUrl: "https://www.newshub.co.nz/home/new-zealand/2020/10/government-signs-deal-allowing-local-businesses-access-to-facial-recognition-technology.amp.html"
-    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2020/10/government-signs-deal-allowing-local-businesses-access-to-facial-recognition-technology.amp.html"
-    type: article
-    provider:
-      name: Newshub
-      domain: newshub.co.nz
-    quality: 51
-    images:
-      - url: "https://www.newshub.co.nz/home/new-zealand/2020/10/government-signs-deal-allowing-local-businesses-access-to-facial-recognition-technology/_jcr_content/par/image.dynimg.768.q75.jpg/v1602452244144/GETTY-face-recognition-technology-stock-pic-1120.jpg"
-        width: 768
-        height: 438
+      - url: "https://www.hstoday.us/wp-content/uploads/2020/10/monavinci.jpeg"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "/vf1pkQ0pQbXVOAOrBRn89fVwKnSlL5om+oy0UQyQiceXbDDvbJVF6dHl0ifxfSoLn2/sA6tx5wmG77lW8bBioaKmtOI2tWQJgt3L3UJHdjGQxEEcsUox5D5dC3kF0Qd2dcJ0tzYKLnXI16+QGTw4zdaqhfkkq0WCflQ9TuuiXm5UP4cWZYubg4fvbE1CdnfEzmcGZH5CCSSGmwnk2L4rtL+dT6QvCVCV3CyPyja/x66px8SzPE2XWLfrxnSRi+QyCmvnj7VKGpFMTzotrFpktD+D0zrW+LqyOnWkTywtuND4Skfimzw4tlh4DYFBvIxo5QZMBlILEFLItiYElSgn0cF3DPs+Qu9JccK7tDAapw=;R+VlD3S2nxatlngzvtNkOQ=="

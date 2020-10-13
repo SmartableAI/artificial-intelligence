@@ -35,7 +35,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f84f4978d786028fac3acbb%2F0x0.jpg"
         width: 1200
@@ -114,19 +114,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Avnet poised to play key role in next-generation automotive technology"
-    excerpt: "The automotive industry is undergoing an historic transformation which will fundamentally shift the way vehicles are manufactured as well as change the way we look at and use cars, and possibly"
-    publishedDateTime: 2020-10-09T03:00:00Z
-    webUrl: "https://roboticsandautomationnews.com/2020/10/09/avnet-poised-to-play-key-role-in-next-generation-automotive-technology/37155/"
+  - title: "Tyto Care Launches the Next Generation of Telehealth with an AI-Powered Diagnostic Support Solution"
+    excerpt: "Tyto Care, the healthcare industry's first all-in-one modular device and examination platform for AI-powered, on-demand, remote medical"
+    publishedDateTime: 2020-10-13T19:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/tyto-care-launches-the-next-generation-of-telehealth-with-an-ai-powered-diagnostic-support-solution-301151340.html"
     type: article
     provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 24
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 23
     images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/10/avnet-image-larger.jpg"
-        width: 750
-        height: 354
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "mLczbivIA1GOk7mKOYhadHBarOe/obl7bCGVC1oiXIjI8DgXCp+IRRbapRoTyHoKCjaA+hHp2kJC4lrKFaa9AUG2cXo/SxHNsPMT7f0rLAaISOtqwkrqfbq1209a1fa/wpJdoPr92CA5m5o1mGrqv2rwLj/g9LexhUr7vJJB+8OF4hhwNnV6hzbBgl/j1IrodSNEeKL66HHtt6LXAmcQO1V1Rw4iId6go28KVCUzd9r3rApiun2IPByZjFC5QIw4iHMGEx6tR0V591VO04e2I40mushabFv89RrDUy2TPJuMx+BIj7wEIMd80XqP2weu51FeSRkO/kBAwMVn1nWLhCKSdbbhYk4f6ufNZJ8w49Q=;HM/yODWCPGxIXCHnhhrU3Q=="

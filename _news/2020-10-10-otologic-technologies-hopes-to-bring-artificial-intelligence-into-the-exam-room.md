@@ -43,17 +43,6 @@ related:
         width: 366
         height: 232
         isCached: true
-  - title: "5 Technologies that are redefining the gaming industry"
-    excerpt: "Artificial intelligence is undoubtedly one of the most celebrated technologies in the 21st century. Its application is varied and widespread. In gaming, however, the incorporation of AI dates back ..."
-    publishedDateTime: 2020-10-09T05:55:00Z
-    webUrl: "https://www.ciol.com/5-technologies-redefining-gaming-industry/"
-    ampWebUrl: "https://www.ciol.com/5-technologies-redefining-gaming-industry/amp/"
-    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/5-technologies-redefining-gaming-industry/amp/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 24
 
 secured: "6k5TzneV3O+Wbniw3uhdEFZmTpIgtRWK7czAqBnGYWqOoB3xjs/3MZoCJ1hGtdPR+m5Dv+jdzSiPsfp//T9YWeqfU1vSOZeht4OR1kZflvmV8MjRsDqlu3ZA1YLRcLqFUek8xI584QXfsbutiiSz8VObCGvwV5+8VsPRiE3Ry2jIpssru8lNifbMS+15gUljt7etQRROay5P7TOhWWuR69QEZ2wA50rbiaxZQzDunP+t9zzymd1hkAv4lPfWygORQ7+GWRi92BZvvb3BABxkC4pLtGNcIifZKL1EJanKZuJO49ldas72SU5hpptlxwLrRxxBN5d4yeX3pv3+b2PQDDJPqN0KbFt+/d1jrIR4HBvMoNZZNXUKfuOaQ28LB6IG2o2iLFiXrj2YS93e8Rx2nWInPfeARv1lL+WaFe3rgfEPV/D/UH/vfsdisa8l1jJjXZfAdvyw86/L6KrJGRWgUK9/o8xj869heRFhaeU5QSPoqEFFGxAknQf5JyAu+k1/ecgg85o5SNH7Wlt7Zoy0jQ==;MGOOmg+kaxgVF8h2BSlzJQ=="
 ---

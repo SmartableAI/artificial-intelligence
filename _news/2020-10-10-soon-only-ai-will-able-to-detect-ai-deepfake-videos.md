@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-10T00:00:00Z
 originalUrl: "https://nationalinterest.org/blog/reboot/soon-only-ai-will-able-detect-ai-deepfake-videos-170542"
 webUrl: "https://nationalinterest.org/blog/reboot/soon-only-ai-will-able-detect-ai-deepfake-videos-170542"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://nationalinterest.org/sites/default/files/main_images/2019-11-11T203337Z_1214682097_RC289D9IZ78P_RTRMADP_3_TWITTER-DEEPFAKES.JPG"
