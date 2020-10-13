@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/adobe-photoshop-premiere-elements-2021-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/adobe-photoshop-premiere-elements-2021-features-145621547.html"
 type: article
 quality: 85
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 600
     height: 350
     isCached: true
-
-related:
-  - title: "Adobe Unveils Photoshop Elements 2021 with New AI-Powered Editing Tools"
-    excerpt: "Moving Photos allows you to apply some pre-designed, AI-powered animations to your still ... Premiere Elements 2021 comes with three updates of its own: GPU Acceleration, more music to choose ..."
-    publishedDateTime: 2020-10-08T13:14:00Z
-    webUrl: "https://petapixel.com/2020/10/08/adobe-unveils-photoshop-elements-2021-with-new-ai-powered-editing-tools/"
-    type: article
-    provider:
-      name: PetaPixel
-      domain: petapixel.com
-    quality: 39
-    images:
-      - url: "https://petapixel.com/assets/uploads/2020/10/elements_feature.jpg"
-        width: 1600
-        height: 840
-        isCached: true
 
 secured: "1hJ6YN1S2L3cpDD+fLfFP5d8uqMkFAYyg/07gVqsfIx2ADwcBzi6dhX4/tpbUXaaFLDCXvUBjVVSFy+iDle8h0XyWCTQmF/y3ohUqxPi6nP63tSzNJQ2iq5gbP9fmnBFDCJU/+RbBJClxIozerZYDleSf56sOk+4ZMIlMVo8zaRlUejQFB1fdPnQvTubfBoxHTfpqIjO2noMCVwpOF3HqCtdz+NG7iUTfBmHDBrtMDQGSGeGkpb8Um8cROw2cOGTnYrhXjEhxCDU9Rzq/dUz5qArXmfpQmxejYQ7E3i4Xa1mFZNUlOKLPyK+8twigwmkG9PEceajXwVtbbTxk7o2GLkBxSSFWe7Gf8BXa57FJtiDGHI5IBl4SYNyVtfaEpzHh0HxsyzhYeKFkm8vgW7rn7g3FRL0fZpV0s8+kZWerc6JZ5qkAyFKSNGJk+NhWR+I/IkoFgNOnbDVSsc/je59bAw63fzaT+CoUCYWY0qS8cKBNpfRCRw9O1yrv8C7/Y705xNHb6OAxIVV7lm5WXH6nw==;Ii+KVhYoCBcpY0lznv/ccQ=="
 ---

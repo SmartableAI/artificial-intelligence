@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/12/microsoft-partners-with-team-glea
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/12/microsoft-partners-with-team-gleason-to-build-a-computer-vision-dataset-for-als/amp/"
 type: article
 quality: 102
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "IBM spinning off legacy IT business to step up cloud competition with Amazon, Microsoft"
+    excerpt: "In IBM chief executive officer Arvind Krishna’s first big move, he is spinning off a slower-growth business that manages corporate computer systems so the tech giant can focus on the boom in demand for cloud services and step up competition with Amazon and Microsoft."
+    publishedDateTime: 2020-10-09T06:44:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3104787/ibm-spin-legacy-it-business-step-cloud-competition-amazon-microsoft"
+    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3104787/ibm-spin-legacy-it-business-step-cloud-competition-amazon-microsoft"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3104787/ibm-spin-legacy-it-business-step-cloud-competition-amazon-microsoft"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 83
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/10/09/5bd7ae50-09d2-11eb-afc8-92e0da0ef1c3_image_hires_095827.jpg?itok=DVVdPC5n&v=1602208714"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "AVzyZLWKyxKz7+JeWrIBPeB1AAN0CtUcRb/6gKQboXKEBjLSWHWLrajZGGEqnY0rY0KsPwm2IxZcN8e7rDS5KauJOVjTWCypPAJbJlvPmUNhOUxG5nj2fWj3s62LLtZEhqPZPEttBnsZluPcNoyoPwj3t1rc3QBJoXKI+oomjne6MewFjTgjMpSqoa68fRBH0qCdH5rjsNcU2kiCFhXMLS5mvxMu7kMRDsncd80u9HlBSxfZwoNQqhXgjoEWYGXyIKFYvMe0WX5FgTSGObY6J7mDJVhU8z/FcPwnaBY2U3/upumALWHPXwhsuHrBG8nMHBvXShGttcIi2C5xNh9xel6vRdFFVcUWabUW69JphTFmRL7U+7dli0aY7saEifCLO5z1Lv92TWTLRxoL06uwfYIdSf6ULerxl8moMe5V6B621j3pZ4y2oxVjVRviODoFZUADc/dluOU+zdy5NPB+XCT0pjsswwxh0VLumIAvpr+2beRBnKgpzKjZqdkHwrSDs7Msr/N6Zfsc+kSO0S9Cjw==;PsoFXIWiqoHwjXWaTJjM1w=="
 ---

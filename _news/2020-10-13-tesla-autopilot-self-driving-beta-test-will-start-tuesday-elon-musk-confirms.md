@@ -91,6 +91,17 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Tesla’s Full Self-Driving beta lands for select drivers next week"
+    excerpt: "Tesla boss Elon Musk has given a date for what will initially be a limited rollout of a beta version of its Full Self-Driving (FSD) software: Tuesday, October 20. The flamboyant CEO offered the tidbit on Twitter in a response to a tweet from CleanTechnica."
+    publishedDateTime: 2020-10-13T01:33:00Z
+    webUrl: "https://www.digitaltrends.com/cars/teslas-full-self-driving-beta-lands-for-some-drivers-next-week/"
+    ampWebUrl: "https://www.digitaltrends.com/cars/teslas-full-self-driving-beta-lands-for-some-drivers-next-week/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/teslas-full-self-driving-beta-lands-for-some-drivers-next-week/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 69
   - title: "Tesla Will Offer “Full Self-Driving Beta” to Some Drivers Next Week"
     excerpt: "As we’ve previously discussed in detail, Tesla’s history with self-driving and autonomous technology in cars has been confusing at best and deliberately misleading at worst. The company has been integrating its so-called Autopilot hardware and software since 2014,"
     publishedDateTime: 2020-10-12T16:50:00Z
@@ -225,6 +236,6 @@ related:
       domain: infosurhoy.com
     quality: 10
 
-secured: "NMutRSyePpYwMZO+6HLjUReGc98xRPP3502YoxC3fBOop0rXRlp+MyU5FuQWSRyK/P0aUYCA7E9NCuw3TREYh0M+IDQ3c6/Q82yVuqXw8enYfYbnVYxmKQaSF13C96FJLLx823odf6NoV8My87D6ZCbkEbfcTUpZSdCRPUbIlFk83vyu04JxqXkH4Ui564bQvx4Lg7A90/vfFL3Uimtx9P4AYQ3jiNnZm5VEvOc10pE36Wa7sv0q9ybVeO59OOyTq0X1iDpZhqQ15IzQKvXYXB+UxE0Nsgxi5jANCcWxXAtB1/r/nqXcXC+Yr/BpfZmoqnORazph4Eg5Onihs7LsL2AUgfAGZBHHIg+HeIzNKt4=;XlQf3rFiZwdCRc8u2gVZgw=="
+secured: "fAyoy9zkBrMr1PBVKqGotpO/qLAnfCnBKb0TP9idl+hov2CPj738Uli5tFcyZntxuZg6cioTM6oqNIj3GiIzR1XJt0/N0Di9K7flNfetsrLnEQ0TJ5bAEFmnzcCbFuLMN8L8yhJ3c94mVa3aocO3t0cIRZ4HE4qs9993oY4osHi13ZjJfOjHg9AwT08tCyNCHIKC53aBMXXtmX4Rl29o+yLSQtag9gcvcQYvI4Q+qeixdikbMcH15iM4ku7LS0S2oWNc5JMpaww2s5NaJUdEdg7rKmOzizd/BTZhkAkQMpGoeZPCtMBMynzJdEEjUansfd774IhfNg47nFPxtNmGp7AgumuWAa4DSJgVZiPw2luE2p/btuVEc1yV1ujEF4Z8txvSV9kBfoj7kDMUTtObcs3bZslrvZ9gGl5iz1PlqA7F9y/MeE12fToCzqeiPyqHaC1cQikabO94Vjcnvx9/Yn3RGmnc1zrkauz4o048xnlxT2z02rbGwnM7VroLXn2V1OFUcuA+gnh0wFu2wONYnQ==;SnMGWrFc+vzbD1a1eAjp4w=="
 ---
 

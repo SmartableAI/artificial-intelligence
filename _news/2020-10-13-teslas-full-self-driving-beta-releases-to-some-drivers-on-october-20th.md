@@ -79,6 +79,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla’s Full Self-Driving beta lands for select drivers next week"
+    excerpt: "Tesla boss Elon Musk has given a date for what will initially be a limited rollout of a beta version of its Full Self-Driving (FSD) software: Tuesday, October 20. The flamboyant CEO offered the tidbit on Twitter in a response to a tweet from CleanTechnica."
+    publishedDateTime: 2020-10-13T01:33:00Z
+    webUrl: "https://www.digitaltrends.com/cars/teslas-full-self-driving-beta-lands-for-some-drivers-next-week/"
+    ampWebUrl: "https://www.digitaltrends.com/cars/teslas-full-self-driving-beta-lands-for-some-drivers-next-week/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/teslas-full-self-driving-beta-lands-for-some-drivers-next-week/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 69
   - title: "Tesla Will Offer “Full Self-Driving Beta” to Some Drivers Next Week"
     excerpt: "As we’ve previously discussed in detail, Tesla’s history with self-driving and autonomous technology in cars has been confusing at best and deliberately misleading at worst. The company has been integrating its so-called Autopilot hardware and software since 2014,"
     publishedDateTime: 2020-10-12T16:50:00Z

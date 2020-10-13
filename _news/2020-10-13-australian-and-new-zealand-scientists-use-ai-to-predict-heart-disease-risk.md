@@ -3,10 +3,10 @@ category: news
 title: "Australian and New Zealand scientists use AI to predict heart disease risk"
 excerpt: "Scientists from the University of Melbourne and University of Otago have jointly developed and trained an artificial intelligence (AI) system to predict a person's risk of cardiovascular disease (CVD) by looking at the retinas of their eyes."
 publishedDateTime: 2020-10-13T02:10:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/australian-and-new-zealand-scientists-use-ai-to-predict-heart-disease-risk/"
-webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/australian-and-new-zealand-scientists-use-ai-to-predict-heart-disease-risk/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/australian-and-new-zealand-scientists-use-ai-to-predict-heart-disease-risk/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/australian-and-new-zealand-scientists-use-ai-to-predict-heart-disease-risk/"
+originalUrl: "https://www.zdnet.com/article/australian-and-new-zealand-scientists-use-ai-to-predict-heart-disease-risk/"
+webUrl: "https://www.zdnet.com/article/australian-and-new-zealand-scientists-use-ai-to-predict-heart-disease-risk/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/australian-and-new-zealand-scientists-use-ai-to-predict-heart-disease-risk/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australian-and-new-zealand-scientists-use-ai-to-predict-heart-disease-risk/"
 type: article
 quality: 85
 heat: 85
@@ -29,6 +29,6 @@ images:
     height: 694
     isCached: true
 
-secured: "UySTd6NudUgFG6Cv5W4N/7nd8j8SO4KawxPu4uiujcVGzVaPwWk172V7pfcPTXgJTuwb1LnN8WmShHa3qFaogeNYUKBuorctUF5VUQppEd5uBxwI6sh2/LsYQn62RDDvq+7jnXPLZwYYpfkLwWSrcXpCn3Mqhoxwxu+tgwvqtDySVU1hVU40U03tOcNQUjI02w3k1Z5KJx5Nwn3RlazZymseNOinFxt8cT9SqW0pLcNiOpuSdyPXoJIwgBoreZ6867WyOBffM8jTXnQhLaRDRlb+7VhTeDCYpdHAB1e8s+2AYnUjAEO8k7wTRT2iIwvkz7rPC0gnpozqinFXMM/Xr1RkaGYueMv4nQUfHbDVNBo=;yk0ZMCrbITbtpmTMvjkpKg=="
+secured: "qSCNuBbXxi087WX35NnJ1ug6HSml/r/kujnV/xQ+BRcXeYwVkr+g+73M5UbPYjRrQmC270Rcu0YJvbCs9VIw8IqJAfZj2T/nESDpCDIKMqV8jZogBLVJHUaGuJCnlF7hleM2p2+yjMn078s6Jr3ri6pNgEL4KBZM5C6kFhmB3WR8QvnMPRV2HnvMkWTA9FL6CQehDmf4Aj9l0oeT1cfCrIBmsEmPxEKtLrdDc1y8qHQeX3De0JjnN1ivb/O+xkvSBmvQlhd+G7W4ojfxEHpoag2dE0gxwUZs/EkUNtXik424CY7zlRoE7uKVheNYFpuhaNKBh3lVcoAOndPXEIqikGXyRFrx8q+2bZB8O7ByXDs=;bzAixGlSMOZ5zbBVdoKIwA=="
 ---
 

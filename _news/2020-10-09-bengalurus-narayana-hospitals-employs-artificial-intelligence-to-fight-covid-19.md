@@ -37,22 +37,6 @@ related:
         width: 950
         height: 907
         isCached: true
-  - title: "Warwick researcher to explore the use of robots and artificial intelligence in hospital settings"
-    excerpt: "Hospitals all over the world must increase their efficiency and productivity and boost quality and safety, while containing and reducing costs."
-    publishedDateTime: 2020-10-08T14:29:00Z
-    webUrl: "https://www.news-medical.net/news/20201008/Warwick-researcher-to-explore-the-use-of-robots-and-artificial-intelligence-in-hospital-settings.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20201008/Warwick-researcher-to-explore-the-use-of-robots-and-artificial-intelligence-in-hospital-settings.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201008/Warwick-researcher-to-explore-the-use-of-robots-and-artificial-intelligence-in-hospital-settings.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 63
-    images:
-      - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fHospital-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "AI tool can help doctors prioritize care, make discharging plans for COVID-19 patients"
     excerpt: "An artificial intelligence tool can help doctors when deciding which COVID-19 patients can be sent home, according to a study that started in May. Researchers at New York University used the AI tool to analyze thousands of COVID-19 cases."
     publishedDateTime: 2020-10-08T19:47:00Z
@@ -68,6 +52,20 @@ related:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/7edc30c/2147483647/strip/true/crop/5402x3039+0+281/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F55%2F12%2F2e70d270412a84fd17fd3a89179e%2Fap-20280514929484.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Data-Driven Businesses Are Better Prepared to Emerge from COVID-19"
+    excerpt: "Again, many cloud tools lend themselves to running statistical tests, like GCP AI Platform Notebooks (serverless Jupyter Notebook environment running Python and R), Amazon Sagemaker, Microsoft Azure Notebooks. This is where machine learning (ML ..."
+    publishedDateTime: 2020-10-09T19:37:00Z
+    webUrl: "https://www.datanami.com/2020/10/09/data-driven-businesses-are-better-prepared-to-emerge-from-covid-19/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 24
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/graphs_covid_shutterstock_PopTika.jpg"
+        width: 1000
+        height: 457
         isCached: true
 
 secured: "jhkPLu3JRAnRpmG2jy44MwZDAvEH69pKT4QsflLhT2AcqJ6u+xUiCITHR5mVIh9so90mBi6fK7FXpCqqgPIi7B30bp/JyQy6eJqzP+OslX3CfdD75WVaP15VNXKXiZ5nj7GFAlq3M34w0P9mdRn7TtXvKYriwN59LkkrBgM776edLuOjkcGf3yaEhsnU5glBi7UbjeIM8LykiSBRRFmFY2b5lWjHsfPrk04YCZHTs8w8UA55BFIQxCTKctnj1i7SmLRV/K29tzIi+WMNVs/zjFcJSPhMBNEr6FhdiHysrcCFO0r9LhY95Tl1F4MjhiIj8Iiw5T5RrxoD5bN1ZWuyAPzUW63XOw4vqfEsraxUsvicnKgBs5r5l9tpUiiS5MhprZyww01AtSSL8jpUcPTmbS1dBt+DjT6K1YuKXRIi17DsUL5zC4jv2rm2HO2iJhF3d4vtfxZ+PtN4T1Mh7+jbkRWWwJxyHV3P18+ikrGze05ji9vyRkG53zNFO5KcUVlDfEyhr45p431tlC1WWVTThw==;OEExhHWELTL9lUQMLLGbWg=="

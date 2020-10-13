@@ -1,29 +1,27 @@
 ---
 category: news
 title: "The disinfectant robot market is expected to register a CAGR of 36.4% during the forecast period (2020-2025"
-excerpt: "The disinfectant robot market is expected to register a CAGR of 36.4% during the forecast period (2020-2025), owing to the rising demand"
-publishedDateTime: 2020-10-12T13:50:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/the-disinfectant-robot-market-is-expected-to-register-a-cagr-of-36-4-during-the-forecast-period-2020-2025--301150124.html"
-webUrl: "https://www.prnewswire.com/news-releases/the-disinfectant-robot-market-is-expected-to-register-a-cagr-of-36-4-during-the-forecast-period-2020-2025--301150124.html"
+excerpt: "The disinfectant robot market is expected to register a CAGR of 36.4% during the forecast period (2020-2025), owing to the rising demand for hygiene globally across various sectors. The global Disinfectant Robot Market (henceforth,"
+publishedDateTime: 2020-10-12T14:08:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/the-disinfectant-robot-market-is-expected-to-register-a-cagr-of-36-4-during-the-forecast-period-2020-2025-1029670262"
+webUrl: "https://markets.businessinsider.com/news/stocks/the-disinfectant-robot-market-is-expected-to-register-a-cagr-of-36-4-during-the-forecast-period-2020-2025-1029670262"
 type: article
-quality: 21
-heat: 21
+quality: 31
+heat: 31
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "j2WYNLRHrY7pxgadEXQtWd4cWWWPoZavyFOmjhmU3G7Wvsn7D/nMahcA0nIe6D0kGRpT82U4DTpRJTT1pz6Mm1uWLLR5/BAir2PgHSrJBszeliwpLUM6fZN4JUXVk5kafvVRzc1jafCvh7d03SSpZsWCCL4LnMaG3xYWk9M+nj+MxAOBeMk5YP5qV9/XdL8fl374yXmYTGydaFo9dyJrUALrogMn6ZeZClkvdHaP93I//sS+M6YnzbqNyb9mIPY6EfBWKxqTYCEaYBjUmjdWLtt4jFCJhFuoTxfVW9FfSfqwmwrDY1nH+H2ChRqZXbxLVswZjcSyMPx11u2qsgZzHmCcmE9nv9NSch6ESjsn024=;Usrm59E/K0mgWWkeH1xkxQ=="
+secured: "WOA9/uYCvly8/16u6EXf4TzT8Ax6ReC0EGNBdzjnbuMxD9tEzoGzkw7A4hVmf5qbiUdSEgV/PM9sxLdTotflG15B0O96NDnQQnueafgFPwy1KfWAmqf1ZWE7KwKeNYhU6ew9Gmftad2z/34wYZFjRcWNtloQuzfne+6fpZ2Xpatryd67RuRuImQcW3kZ71dXJArJO3BfJZRpECkVtSX/KQWsjw+Ryycf1ob1nwlryTIdUHdBAPBvHbvRw/pjzz9nj+IhsraXvAIE/kXApN8FC+WJdJ7ZOtvFtqFOKSA2EFavqxKxEPaV1mh8sC+WttXGkYe50ZnXRiYHuAvPY/X4J29z9yzmEG1kvTg8x5LGFG4=;PvFtWrQjxtzlADTYqnmT7A=="
 ---
 

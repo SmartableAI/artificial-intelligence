@@ -42,22 +42,6 @@ related:
         width: 950
         height: 907
         isCached: true
-  - title: "Warwick researcher to explore the use of robots and artificial intelligence in hospital settings"
-    excerpt: "Hospitals all over the world must increase their efficiency and productivity and boost quality and safety, while containing and reducing costs."
-    publishedDateTime: 2020-10-08T14:29:00Z
-    webUrl: "https://www.news-medical.net/news/20201008/Warwick-researcher-to-explore-the-use-of-robots-and-artificial-intelligence-in-hospital-settings.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20201008/Warwick-researcher-to-explore-the-use-of-robots-and-artificial-intelligence-in-hospital-settings.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201008/Warwick-researcher-to-explore-the-use-of-robots-and-artificial-intelligence-in-hospital-settings.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 63
-    images:
-      - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fHospital-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "Bengaluru’s Narayana Hospitals employs artificial intelligence to fight Covid-19"
     excerpt: "has broken away from the traditional doctor consultations to leverage artificial intelligence to reduce the risk of virus transmission. Provision of patients’ vitals in real-time on doctors’ mobile phones, robots that transport blood samples ..."
     publishedDateTime: 2020-10-09T06:41:00Z
@@ -69,6 +53,20 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 34
+  - title: "Data-Driven Businesses Are Better Prepared to Emerge from COVID-19"
+    excerpt: "Again, many cloud tools lend themselves to running statistical tests, like GCP AI Platform Notebooks (serverless Jupyter Notebook environment running Python and R), Amazon Sagemaker, Microsoft Azure Notebooks. This is where machine learning (ML ..."
+    publishedDateTime: 2020-10-09T19:37:00Z
+    webUrl: "https://www.datanami.com/2020/10/09/data-driven-businesses-are-better-prepared-to-emerge-from-covid-19/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 24
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/graphs_covid_shutterstock_PopTika.jpg"
+        width: 1000
+        height: 457
+        isCached: true
 
 secured: "yt/8bT23t7/QqpHS3exI//NpcJS1UuugASNWJ885aX2wloOatdCx3ebRQ8qs9mIvGZAHMDXaxe9JNXbzpbR6nt4r9ZZvzX0EbcKM70A9LN87mbqU8mOhQVqQYQWWlm2acmG2eDSl4NnuX6sGjGc4H9fuXL5+IYjq9vphsd/g6HpmSnqy1lcbKMLXgcEiNWj6mXfADjQcwaf3zTOLHjv0i5pFvdRn3fN8V+rkxwExHLRMAz/fsMHpUIkuMiTXUzM+k12+tntLVM4sRj2IcSq4CXr5Wv5ok7Hd6zX6r65yCdJJkr3gr17TpsmVCMYHY16tBjk+TPM55O4WmWSFfOWVwVpgcUwwm7m2zJZ43EDJhMg=;WpmJTGqlq276UWUu3aUcFw=="
 ---

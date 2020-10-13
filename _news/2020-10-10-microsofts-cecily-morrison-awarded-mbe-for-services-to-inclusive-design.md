@@ -139,20 +139,6 @@ related:
         width: 1000
         height: 800
         isCached: true
-  - title: "UCSF teams with Microsoft, others to fast-track AI in healthcare: 5 details"
-    excerpt: "University of California San Francisco teamed Microsoft Azure, Intel and Fortanix to establish a confidential computing platform that will accelerate the development and validation of clinical algorithms."
-    publishedDateTime: 2020-10-08T14:28:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/ucsf-teams-with-microsoft-others-to-fast-track-ai-in-healthcare-5-details.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 69
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Microsoft Touts Arm Partnership on Edge Devices and Azure Tools"
     excerpt: "Microsoft and Arm are collaborating on Azure developer tools for 'intelligent edge devices' that use artificial intelligence, per a Thursday announcement."
     publishedDateTime: 2020-10-09T22:36:00Z

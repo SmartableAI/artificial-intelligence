@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "IPL 2020: Former BCCI Treasurer Anirudh Chaudhary asks for use of Artificial Intelligence post Sunil Narine’s suspect bowling action"
+    excerpt: "Kolkata Knight Riders have been going through a rough phase after their star spinner, Sunil Narine has been warned for his bowling action"
+    publishedDateTime: 2020-10-13T06:51:00Z
+    webUrl: "https://www.crictracker.com/ipl-2020-former-bcci-treasurer-anirudh-chaudhary-asks-for-use-of-artificial-intelligence-post-sunil-narines-suspect-bowling-action/"
+    ampWebUrl: "https://www.crictracker.com/ipl-2020-former-bcci-treasurer-anirudh-chaudhary-asks-for-use-of-artificial-intelligence-post-sunil-narines-suspect-bowling-action/?amp"
+    cdnAmpWebUrl: "https://www-crictracker-com.cdn.ampproject.org/c/s/www.crictracker.com/ipl-2020-former-bcci-treasurer-anirudh-chaudhary-asks-for-use-of-artificial-intelligence-post-sunil-narines-suspect-bowling-action/?amp"
+    type: article
+    provider:
+      name: CricTracker
+      domain: crictracker.com
+    quality: 26
+    images:
+      - url: "https://www.crictracker.com/wp-content/uploads/2019/01/Anirudh-Chaudhry.jpg"
+        width: 640
+        height: 400
+        isCached: true
   - title: "IPL 13: Former BCCI Treasurer wants use of Artificial Intelligence after Narine incident"
     excerpt: "Speaking to ANI, former BCCI Treasurer Anirudh Chaudhry -- first chairman of the Data Management Committee of the board that rolled out the online database management system used by the BCCI in the administration of domestic cricket -- said that it was time to introduce the use of Artificial Intelligence in such cases to increase the fairness quotient of the game."
     publishedDateTime: 2020-10-12T07:29:00Z

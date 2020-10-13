@@ -9,8 +9,8 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/9/21508974/ibm-split-i
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/9/21508974/ibm-split-into-two-companies-newco-hybrid-cloud-legacy-it"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: The Verge
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM shares rise on plans to spin off its IT infrastructure unit and focus on the cloud business"
-    excerpt: "IBM said on Thursday it would spin off its IT infrastructure unit to focus more on cloud computing, a high-margin business that has seen a boost as companies increasingly ramp up their digital shift."
-    publishedDateTime: 2020-10-08T14:20:00Z
-    webUrl: "https://www.cnbc.com/2020/10/08/ibm-shares-surge-on-plans-to-spin-off-unit-into-separate-publicly-traded-company-.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/10/08/ibm-shares-surge-on-plans-to-spin-off-unit-into-separate-publicly-traded-company-.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/08/ibm-shares-surge-on-plans-to-spin-off-unit-into-separate-publicly-traded-company-.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 160
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106365286-1580420465213preview-2.jpg?v=1595268430"
-        width: 3915
-        height: 2534
-        isCached: true
   - title: "IBM is breaking up into two companies, renewed focus on AI and the cloud"
     excerpt: "IBM has announced that it will be splitting the company into two in order to increase its revenue margins. According to a statement issued by CEO"
     publishedDateTime: 2020-10-10T11:31:00Z
@@ -62,22 +46,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "IBM spinning off legacy IT business to step up cloud competition with Amazon, Microsoft"
-    excerpt: "In IBM chief executive officer Arvind Krishna’s first big move, he is spinning off a slower-growth business that manages corporate computer systems so the tech giant can focus on the boom in demand for cloud services and step up competition with Amazon and Microsoft."
-    publishedDateTime: 2020-10-09T06:44:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3104787/ibm-spin-legacy-it-business-step-cloud-competition-amazon-microsoft"
-    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3104787/ibm-spin-legacy-it-business-step-cloud-competition-amazon-microsoft"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3104787/ibm-spin-legacy-it-business-step-cloud-competition-amazon-microsoft"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 83
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/10/09/5bd7ae50-09d2-11eb-afc8-92e0da0ef1c3_image_hires_095827.jpg?itok=DVVdPC5n&v=1602208714"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "IBM To Split Into Two Companies In Order To Focus On Cloud Computing, AI Businesses"
     excerpt: "In recent years IBM has seen a slowdown in sales of software and only seasonal demand for its mainframe servers – hence the heavy push into cloud computing and AI. “To drive growth, our strategy must be rooted in the reality of the world we live in and ..."
     publishedDateTime: 2020-10-09T13:50:00Z
@@ -92,31 +60,6 @@ related:
         width: 1024
         height: 570
         isCached: true
-  - title: "IBM Splits Itself in Two"
-    excerpt: "Big Blue is splitting its operations as part of an ongoing effort to become the world's top hybrid cloud and artificial intelligence (AI) provider."
-    publishedDateTime: 2020-10-08T21:36:00Z
-    webUrl: "https://rcpmag.com/articles/2020/10/08/ibm-splits-itself-in-two.aspx"
-    type: article
-    provider:
-      name: Redmond Channel Partner
-      domain: rcpmag.com
-    quality: 24
-    images:
-      - url: "https://rcpmag.com/-/media/ECG/visualstudiomagazine/Images/introimages/130724VSMWardSplit_v2.jpg"
-        width: 647
-        height: 450
-        isCached: true
-  - title: "IBM to spin off managed infrastructure; call it NewCo"
-    excerpt: "The new IBM will concentrate on cloud computing and artificial intelligence. It will help its customers modernize tech infrastructure such as private data centres. “Now is the right time to ..."
-    publishedDateTime: 2020-10-09T12:37:00Z
-    webUrl: "https://www.ciol.com/ibm-spin-off-managed-infrastructure-newco/"
-    ampWebUrl: "https://www.ciol.com/ibm-spin-off-managed-infrastructure-newco/amp/"
-    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/ibm-spin-off-managed-infrastructure-newco/amp/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 24
 
 secured: "dh29Pk53wPn/+js6gPUzUIQdzgBkWDBENVVAKYdKRHaP2QM0V0tOzzIKecEngteXVIpcmuw/biEB3lAUB6zdIhnIqB3wyx5AmfSoeheLLzH57OV1moeiJI4ywNLR3q5tQrdEC28FcJft1UIgqMrBqQsrELlwIwMrIAc/G8LlvvHty8wfIRdkh2hI3OiCEFC2IZCEGeYafElDybwleAMbUf2pXmdELF4gvXeuJDmW51pDV+ItWj/Rhouzx1ooId2eVG3FTtFx3frHZ2uEqLf72hQSdpEXKq3THV29vz41T5ivcn1oVTtgM4yAPWHl4TCHC8k2Rq1LakrDuJag7hS2JxjDImef5U+tx2hjpeSQ47CgcUhPGw5xpjlNmJgNqMU8WHEmNm86jsL4zFf7D4yvh54b5uY0+TrYv+8H3yvzd3oJVBqPzmznJ3aZTO9I6hDy0H+b46R5EfWBxlbpmMJ4c8f1aw1lnFFJbvXJETj7pbIClbxp5cxFOkt5j66MSSHpVy7sxK23jY08An7QsT21Ow==;q+nogGfPifTkh1zrNQOvbg=="
 ---
