@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "FDA clears GE Healthcare AI-powered cardiovascular ultrasound system"
+    excerpt: "GE Healthcare announced that it received FDA 510(k) clearance for its Ultra Edition package on Vivid cardivascular ultrasound systems."
+    publishedDateTime: 2020-10-13T17:44:00Z
+    webUrl: "https://www.massdevice.com/fda-clears-ge-healthcare-ai-powered-cardiovascular-ultrasound-system/"
+    type: article
+    provider:
+      name: MassDevice
+      domain: massdevice.com
+    quality: 54
+    images:
+      - url: "https://www.massdevice.com/wp-content/uploads/2019/07/GE-Healthcare-logo.png"
+        width: 770
+        height: 500
+        isCached: true
   - title: "GE Healthcare Gets FDA Clearance for AI-Powered Cardiovascular Ultrasound System"
     excerpt: "GE Healthcare said it received U.S. Food and Drug Administration 510k clearance for its Ultra Edition package on Vivid cardiovascular ultrasound systems. The healthcare business of General Electric Co."
     publishedDateTime: 2020-10-12T12:26:00Z
@@ -34,6 +48,22 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 29
+  - title: "MedTech Startup See-Mode Technologies Receives FDA Clearance for AI Software That Automatically Analyses and Reports Vascular Ultrasound Scans"
+    excerpt: "Mode Technologies, a MedTech startup based in Singapore and Australia that seeks to empower clinicians to better predict stroke, today announced that it has received 510(k) clearance from the"
+    publishedDateTime: 2020-10-12T13:00:00Z
+    webUrl: "https://www.asiaone.com/business/medtech-startup-see-mode-technologies-receives-fda-clearance-ai-software-automatically"
+    ampWebUrl: "https://www.asiaone.com/business/medtech-startup-see-mode-technologies-receives-fda-clearance-ai-software-automatically?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/medtech-startup-see-mode-technologies-receives-fda-clearance-ai-software-automatically?amp"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 21
+    images:
+      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Oct2020/LOGO_0.jpg?itok=EnrZtCRh"
+        width: 763
+        height: 509
+        isCached: true
 
 secured: "Bm8UjOTUeKrjJSr82KlA1pTOimTbcxt3QL3ykUtOYHD3Uejo0l9GfKx/0IwXTW9XmGgq17l71TOVkArb7195bsb4PfHi49ATD7Xd8pjxMNZ1MFKc1+nPeaw70GzxgxEy4tOsFJZImUkbmrD1eZX0dpoyVcHP0LKQs9/jAEHJq/dS4rM4IISyDXVa547SrLN0n4810KhlZtASKD9hGRQYMqQrkFLPtG/I0J9OTZ5aA92aOJ+ugMt3VMNqq9GvW9VMR6M60Lwx0HApyMUrvU/AX/dVw2y8nf9BQ8YnY4UaaCbKYgAvFnQRvE6HJAapUnmnCepYoUw7n256kKHE0hR0dQFE3mKp6ouv3glPB6Bl3EM=;Ilkww/19b2J4oGKFobNgXg=="
 ---

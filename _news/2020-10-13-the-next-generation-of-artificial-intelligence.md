@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2020/10/12/the-next-generation
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 159
+published: true
 
 provider:
   name: Forbes
@@ -31,94 +31,106 @@ images:
     isCached: true
 
 related:
-  - title: "The Responsible Innovation Framework For The Age Of AI"
-    excerpt: "This year, with facial recognition, privacy, and ethics gaining more attention in the marketplace, technology leaders are increasingly thinking about AI’s impact on people’s lives."
-    publishedDateTime: 2020-10-08T23:36:00Z
-    webUrl: "https://www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7f9c645440271868a67e29%2F0x0.jpg"
-        width: 1200
-        height: 986
-        isCached: true
-  - title: "Spotify open-sources Klio, a framework for AI audio research"
-    excerpt: "Over the years, the company has begun to tap natural language processing, audio models, and filtering to serve up recommendations and curate playlists including Discovery Weekly and Release Radar."
-    publishedDateTime: 2020-10-13T15:51:00Z
-    webUrl: "https://venturebeat.com/2020/10/13/spotify-open-sources-klio-a-framework-for-ai-audio-research/"
-    ampWebUrl: "https://venturebeat.com/2020/10/13/spotify-open-sources-klio-a-framework-for-ai-audio-research/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/13/spotify-open-sources-klio-a-framework-for-ai-audio-research/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/04/spotify-nyse.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 669
-        isCached: true
-  - title: "The Impact of Artificial Intelligence on Surgery"
-    excerpt: "AI-enabled remote surgery can help overcome the global shortage of doctors, and it can improve training, raise standards, and drive innovation within the medical profession."
-    publishedDateTime: 2020-10-09T00:28:00Z
-    webUrl: "https://www.forbes.com/sites/calumchace/2020/10/08/the-impact-of-ai-on-surgery/"
-    ampWebUrl: "https://www.forbes.com/sites/calumchace/2020/10/08/the-impact-of-ai-on-surgery/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2020/10/08/the-impact-of-ai-on-surgery/amp/"
+  - title: "Four Ways AI Can Improve Revenue Operations"
+    excerpt: "How can RevOps best drive value, profit, and growth? The answer lies in a strong foundation of advanced analytics and AI."
+    publishedDateTime: 2020-10-13T11:05:00Z
+    webUrl: "https://www.forbes.com/sites/joelshapiro/2020/10/13/four-ways-ai-can-improve-revenue-operations/"
+    ampWebUrl: "https://www.forbes.com/sites/joelshapiro/2020/10/13/four-ways-ai-can-improve-revenue-operations/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joelshapiro/2020/10/13/four-ways-ai-can-improve-revenue-operations/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7f278b79657261d13693d3%2F0x0.jpg"
-        width: 1200
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f84b56436b3adb34c19d5b2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D8032%26cropY1%3D161%26cropY2%3D4681"
+        width: 1199
         height: 675
         isCached: true
-  - title: "When AI hurts people, who is held responsible?"
-    excerpt: "How to determine whether a human was at fault when AI plays a role in a person’s injury or death is no easy task. If AI is in control and something goes wrong, when is it the human’s fault and ..."
-    publishedDateTime: 2020-10-12T18:50:00Z
-    webUrl: "https://venturebeat.com/2020/10/12/when-ai-hurts-people-who-is-held-responsible/"
-    ampWebUrl: "https://venturebeat.com/2020/10/12/when-ai-hurts-people-who-is-held-responsible/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/12/when-ai-hurts-people-who-is-held-responsible/amp/"
+  - title: "Omdia identifies a key shift from cloud-based AI-solutions to AI at the Edge"
+    excerpt: "Leading analyst house Omdia has today released its latest report identifying the key areas for growth for AI-at-the-Edge. 'Connecting The Dots: AI at the Edge' has found that more compute is needed at edge locations to manage and support new and proliferating latency-sensitive IoT devices and software technologies that are analysing an increasing amount of data."
+    publishedDateTime: 2020-10-13T15:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/omdia-identifies-a-key-shift-from-cloud-based-ai-solutions-to-ai-at-the-edge-1029675306"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/omdia-identifies-a-key-shift-from-cloud-based-ai-solutions-to-ai-at-the-edge-1029675306"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/omdia-identifies-a-key-shift-from-cloud-based-ai-solutions-to-ai-at-the-edge-1029675306"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+  - title: "Signal, Noise and the Coming Era of AI Curation"
+    excerpt: "A look at how \"AI curation\" is being used to figure out what's useful information in the world of crypto and what's just fluff."
+    publishedDateTime: 2020-10-11T19:00:00Z
+    webUrl: "https://www.coindesk.com/ai-curation-speaking-of-bitcoin-podcast"
+    ampWebUrl: "https://www.coindesk.com/ai-curation-speaking-of-bitcoin-podcast?amp=1"
+    cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/ai-curation-speaking-of-bitcoin-podcast?amp=1"
+    type: article
+    provider:
+      name: CoinDesk
+      domain: coindesk.com
+    quality: 57
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/12/uber-self-driving-car-transportation.jpg?w=1200&#038;strip=all"
+      - url: "https://static.coindesk.com/wp-content/uploads/2020/10/SOB-AI-Curation-From-Page-1200x628.jpg"
         width: 1200
-        height: 800
+        height: 628
         isCached: true
-  - title: "India startups leading movement on AI innovations to create solutions for the world"
-    excerpt: "ResponsibleAI for Social Empowerment 2020’summit witnessed discussion on themes like leveraging AI for pandemic preparedness, role of AI in fostering"
-    publishedDateTime: 2020-10-09T17:42:00Z
-    webUrl: "https://indiaeducationdiary.in/india-startups-leading-movement-on-ai-innovations-to-create-solutions-for-the-world/"
-    ampWebUrl: "https://indiaeducationdiary.in/india-startups-leading-movement-on-ai-innovations-to-create-solutions-for-the-world/?amp"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/india-startups-leading-movement-on-ai-innovations-to-create-solutions-for-the-world/?amp"
+  - title: "Mindset4Dementia app uses AI for next generation screening tool"
+    excerpt: "A team of students and doctors, led by UCL medic Hamzah Selim, has launched an innovative app which uses fun brain games to screen people for signs of dementia."
+    publishedDateTime: 2020-10-13T12:31:00Z
+    webUrl: "https://medicalxpress.com/news/2020-10-mindset4dementia-app-ai-screening-tool.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-10-mindset4dementia-app-ai-screening-tool.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-mindset4dementia-app-ai-screening-tool.amp"
     type: article
     provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 31
-  - title: "A policy framework for the technology can accelerate development in India’s AI sector"
-    excerpt: "Tata Sons Chairman N Chandrasekaran addressed the key aspects of AI in education, healthcare and data governance that India should take in order to become the global AI capital."
-    publishedDateTime: 2020-10-12T13:43:00Z
-    webUrl: "https://www.analyticsinsight.net/india-can-ai-capital-needed-improvements-existing-programs/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 30
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
     images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Artificial-Intelligence-13.jpg"
-        width: 1680
-        height: 840
+      - url: "https://scx2.b-cdn.net/gfx/news/2020/9-alzheimers.jpg"
+        width: 1280
+        height: 988
+        isCached: true
+  - title: "How to Build, Deploy, and Operationalize AI Assistants"
+    excerpt: "While chatbot PoCs are simple, building production-grade conversational software is challenging. Enterprises experience challenges in production systems that have large user bases, security mandates,"
+    publishedDateTime: 2020-10-09T12:15:00Z
+    webUrl: "https://www.infoq.com/articles/build-deploy-ai-assistants/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 43
+    images:
+      - url: "https://res.infoq.com/articles/build-deploy-ai-assistants/en/headerimage/croppted-build-deploy-ai-assistants-1602098758941.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Avnet poised to play key role in next-generation automotive technology"
+    excerpt: "The automotive industry is undergoing an historic transformation which will fundamentally shift the way vehicles are manufactured as well as change the way we look at and use cars, and possibly"
+    publishedDateTime: 2020-10-09T03:00:00Z
+    webUrl: "https://roboticsandautomationnews.com/2020/10/09/avnet-poised-to-play-key-role-in-next-generation-automotive-technology/37155/"
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 24
+    images:
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/10/avnet-image-larger.jpg"
+        width: 750
+        height: 354
+        isCached: true
+  - title: "The Next Level of Alt Data"
+    excerpt: "New sources of information continue to be revealed by technological innovation, placing an emphasis on blending it with experience and investment expertise."
+    publishedDateTime: 2020-10-12T14:09:00Z
+    webUrl: "https://www.institutionalinvestor.com/article/b1nqwsq33p0wck/the-next-level-of-alt-data"
+    type: article
+    provider:
+      name: Institutional Investor
+      domain: institutionalinvestor.com
+    quality: 24
+    images:
+      - url: "https://institutionalinvestor.euromoneycdn.com/Media/images/institutional-investor/tl-2020-10/CFM2-586706738-COVER.jpg"
+        width: 585
+        height: 384
         isCached: true
 
 secured: "ZNfGLFG0F1chceUZMBucWGGTlDSotLw4TpimBuCoZRB3o2OaKDK9n9A8kKjm5Df17Lvey4YESDQ8q8DgqQnhmeo1hhMEwk3cYNTl6bVG9NRv725ccB+uPyS1Ct9Zyfhh5L384/VVXcW8zEf8k9Si3BV1+lnKmvy+/O1IU8E+jCUezywXzJgPtaiy1mbsGxVgzJ8sL1MmlL1l7M7hWqblvZL5f6U3jS0cWAmS2+NH/1bDMM/UZkeiJ55dJVECcWYylVQoZFFWFV2xoVodSD/1w+b7QCcUXF2j1JkE4rGXmcAzI7lKpxrPogAdqt+aCTfUpOq7FPvMP0PQUkvHLQMajMoJgUKux+HXJhaOiTSSDoB9qrj7eaRPP4P1uJLYHfx3kIHctowx+Nv3BnFbHhsrLa9Sc9XtJGziaxTqhqoZ1Z1xhU0faxgi+QuvNHPcWZUH/EqbgwKTNcsVjPzSQoY0MacbZqlVSjNEoDNDBWsWzTrbTO4q7ARmPiVMwcVj/4NGo76d05plZaWVIyHafhQcJw==;thLVjr5fPNsO3WGNHfWnUw=="

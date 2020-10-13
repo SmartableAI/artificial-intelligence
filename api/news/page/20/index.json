@@ -2,6 +2,287 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-09-24-immervision-introduces-joyce-the-first-humanoid-robot-with-intelligent-vision-developed-by-the-computer-vision-community.md",
+      "title": "Immervision Introduces JOYCE, the First Humanoid Robot with Intelligent Vision Developed by the Computer Vision Community",
+      "excerpt": "MONTREAL–(BUSINESS WIRE)–Immervision, the Montreal-based leader in wide-angle intelligent vision, introduces JOYCE, the first humanoid robot developed by the computer vision community to help machines gain human-like perception and beyond. Watch the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eejournal.com/industry_news/immervision-introduces-joyce-the-first-humanoid-robot-with-intelligent-vision-developed-by-the-computer-vision-community/",
+      "originalUrl": "https://www.eejournal.com/industry_news/immervision-introduces-joyce-the-first-humanoid-robot-with-intelligent-vision-developed-by-the-computer-vision-community/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-23T14:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronic Engineering Journal",
+        "domain": "eejournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-congress-will-try-again-in-2021-on-self-driving-car-reform.md",
+      "title": "Congress will try again in 2021 on self-driving car reform",
+      "excerpt": "The U.S. Congress will try again in 2021 to try to approve long-stalled reforms to speed the adoption of self-driving cars, a key Democratic lawmaker said Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-autos-self-driving-congress-idINKCN26E2RA",
+      "originalUrl": "https://www.reuters.com/article/us-autos-self-driving-congress-idINKCN26E2RA",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20200923&t=2&i=1534629164&r=LYNXNPEG8M1P8&w=800",
+          "width": 800,
+          "height": 511,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-23T13:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-baidu-offers-quantum-computing-from-the-cloud.md",
+      "title": "Baidu offers quantum computing from the cloud",
+      "excerpt": "Following its developer conference last week, Baidu today detailed Quantum Leaf, a new cloud quantum computing platform designed for programming, simulating, and executing quantum workloads. It’s aimed at providing a programming environment for quantum infrastructure as a service setups,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/23/baidu-offers-quantum-computing-from-the-cloud/",
+      "originalUrl": "https://venturebeat.com/2020/09/23/baidu-offers-quantum-computing-from-the-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/9e8a9be4-add4-432a-b207-b64b6ad60760-e1590588506627.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/23/baidu-offers-quantum-computing-from-the-cloud/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/23/baidu-offers-quantum-computing-from-the-cloud/amp/",
+      "publishedDateTime": "2020-09-23T12:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure.md",
+      "title": "Jumio Unveils Identity Verification With Biometrics For Microsoft Azure",
+      "excerpt": "California-based Jumio said its artificial intelligence (AI)-fueled identity verification offerings are now available to Microsoft Azure Active Directory External Identities for business-to-consumer (B2C) clients. The technology allows for a biometric and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/",
+      "originalUrl": "https://www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2020/09/identity-verification-artifical-intelligence-457x305.jpg",
+          "width": 457,
+          "height": 305,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/amp/",
+      "publishedDateTime": "2020-09-23T12:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-from-sci-fi-to-everyday-business-welcome-to-the-age-of-the-robot.md",
+      "title": "From Sci-Fi To Everyday Business: Welcome To The Age Of The Robot",
+      "excerpt": "However, it wasn’t until the more sophisticated use of artificial intelligence (AI) that modern robots acquired more advanced capabilities like navigating unpredictable obstacles and autonomous decision-making. A high-speed cellular connection over 5G ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tmobile/2020/09/23/from-sci-fi-to-everyday-business-welcome-to-the-age-of-the-robot/",
+      "originalUrl": "https://www.forbes.com/sites/tmobile/2020/09/23/from-sci-fi-to-everyday-business-welcome-to-the-age-of-the-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6b5e6aff65b850f6ba8d96%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tmobile/2020/09/23/from-sci-fi-to-everyday-business-welcome-to-the-age-of-the-robot/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tmobile/2020/09/23/from-sci-fi-to-everyday-business-welcome-to-the-age-of-the-robot/amp/",
+      "publishedDateTime": "2020-09-23T11:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-robot-beats-humans-at-curling-thanks-to-deep-learning-program.md",
+      "title": "Robot beats humans at curling thanks to deep learning program",
+      "excerpt": "Thanks to a new deep learning program, a curling robot, appropriately named Curly, was able to win three out of four matches against curlers from South Korea's national teams.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Science_News/2020/09/23/Robot-beats-humans-at-curling-thanks-to-deep-learning-program/5991600873549/",
+      "originalUrl": "https://www.upi.com/Science_News/2020/09/23/Robot-beats-humans-at-curling-thanks-to-deep-learning-program/5991600873549/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/i/5991600873549/2020/1/16008835508632/v1.5/Robot-beats-humans-at-curling-thanks-to-deep-learning-program.jpg",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Science_News/2020/09/23/Robot-beats-humans-at-curling-thanks-to-deep-learning-program/5991600873549/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2020/09/23/Robot-beats-humans-at-curling-thanks-to-deep-learning-program/5991600873549/",
+      "publishedDateTime": "2020-09-23T11:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-south-korea-tech-giants-expanding-robotics-amid-covid-19.md",
       "title": "South Korea tech giants expanding robotics amid COVID-19",
       "excerpt": "South Korea's biggest tech companies are investing in robotics as a solution to the risks of human contact amid the coronavirus pandemic.",
@@ -884,267 +1165,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-israels-mobileye-dubais-habtoor-partner-on-self-driving-cars.md",
-      "title": "Israel's Mobileye, Dubai's Habtoor Partner on Self-Driving Cars",
-      "excerpt": "Israel's Mobileye and United Arab Emirate's Al Habtoor Group launched a partnership on Wednesday to create a fleet of self-driving \"robotaxis\" that could take to the streets of Dubai by the end of 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars?context=amp",
-      "publishedDateTime": "2020-09-23T05:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-regina-barzilay-wins-1m-association-for-the-advancement-of-artificial-intelligence-squirrel-ai-award.md",
-      "title": "Regina Barzilay wins $1M Association for the Advancement of Artificial Intelligence Squirrel AI award",
-      "excerpt": "... the Association for the Advancement of Artificial Intelligence (AAAI) — announced today the winner of their new Squirrel AI Award for Artificial Intelligence for the Benefit of Humanity, a $1 million award given to honor individuals whose work in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aaai.org/Awards/squirrel-ai-award-call.php",
-      "originalUrl": "https://news.mit.edu/2020/regina-barzilay-wins-aaai-squirrel-ai-award-artificial-intelligence-0923",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aaai.org/Awards/AAAI-Squirrel-AI-Award-for-Artificial-Intelligence-for-the-Benefit-of-Humanity.jpg",
-          "width": 1300,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-23T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-sigmasense-closes-22m-series-a-funding-round-with-groundbreaking-invention-enabling-touchless-touch-screens.md",
-      "title": "SigmaSense Closes $22M Series A Funding Round with Groundbreaking Invention Enabling Touchless Touch Screens",
-      "excerpt": "object recognition, digital pens and high hover for touchless gestures on LCD, OLED, EPD and Mini-LED screens AUSTIN, Texas--(BUSINESS WIRE)--SigmaSense, the global leader in touch screen ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200923005265/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20200923005265/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200923005265/en/823840/23/SigmaSense_Logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-23T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-how-artificial-intelligence-can-enable-ethically-driven-investments.md",
-      "title": "How Artificial Intelligence Can Enable Ethically Driven Investments",
-      "excerpt": "Individuals and investment firms are increasingly interested in more than a balance sheet when making investment decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/09/23/how-artificial-intelligence-can-enable-ethically-driven-investments/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/09/23/how-artificial-intelligence-can-enable-ethically-driven-investments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a42c7eeeca94f314ea8ef%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/09/23/how-artificial-intelligence-can-enable-ethically-driven-investments/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/09/23/how-artificial-intelligence-can-enable-ethically-driven-investments/amp/",
-      "publishedDateTime": "2020-09-23T04:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-pnc-acquires-local-pittsburgh-fintech-to-boost-card-marketing.md",
-      "title": "Pnc Acquires Local Pittsburgh Fintech To Boost Card Marketing",
-      "excerpt": "ECB says 'stablecoin' an unstable name; and other information you need to start your day, from PaymentsSource and around the web.",
-      "sourceUrl": null,
-      "webUrl": "https://www.paymentssource.com/news/pnc-acquires-local-pittsburgh-fintech-to-boost-card-marketing",
-      "originalUrl": "https://www.paymentssource.com/news/pnc-acquires-local-pittsburgh-fintech-to-boost-card-marketing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-23T03:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PaymentsSource",
-        "domain": "paymentssource.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-ai-is-reshaping-the-way-we-buy-sell-and-value-homes.md",
-      "title": "AI is reshaping the way we buy, sell and value homes",
-      "excerpt": "Algorithms and computer vision can help people narrow choices when looking to buy a home. The housing market continues to defy gravity. Sales of existing homes rose more than 10% last month ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketplace.org/shows/marketplace-tech/artificial-intelligence-housing-market-computer-vision-real-estate/",
-      "originalUrl": "https://www.marketplace.org/shows/marketplace-tech/artificial-intelligence-housing-market-computer-vision-real-estate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketplace.org/wp-content/uploads/2019/05/MP_show-1.png?w=300",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.marketplace.org/shows/marketplace-tech/artificial-intelligence-housing-market-computer-vision-real-estate?amp",
-      "cdnAmpWebUrl": "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/artificial-intelligence-housing-market-computer-vision-real-estate?amp",
-      "publishedDateTime": "2020-09-23T03:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marketplace",
-        "domain": "marketplace.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

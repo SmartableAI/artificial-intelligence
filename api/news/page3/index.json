@@ -2,6 +2,139 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-10-nine-common-mistakes-businesses-make-when-using-chatbots.md",
+      "title": "Nine Common Mistakes Businesses Make When Using Chatbots",
+      "excerpt": "Without proper insight into how AI-powered chatbots can achieve their goals, it's unlikely that businesses will employ them adequately.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/10/09/nine-common-mistakes-businesses-make-when-using-chatbots/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/10/09/nine-common-mistakes-businesses-make-when-using-chatbots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f807b0eead21d7ff9456eee%2F0x0.jpg",
+          "width": 1200,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/10/09/nine-common-mistakes-businesses-make-when-using-chatbots/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/10/09/nine-common-mistakes-businesses-make-when-using-chatbots/amp/",
+      "publishedDateTime": "2020-10-09T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-playstation-founder-ken-kutaragi-has-started-a-new-career-in-robotics.md",
+      "title": "PlayStation founder Ken Kutaragi has started a new career in robotics",
+      "excerpt": "Ken Kutaragi, the former Sony executive widely credited as ‘The Father of PlayStation’, has started a new career in the robotics industry. Since late August Kutaragi has been working as the CEO of Tokyo’s Ascent Robotics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.videogameschronicle.com/news/playstation-founder-ken-kutaragi-has-started-a-new-career-in-robotics/",
+      "originalUrl": "https://www.videogameschronicle.com/news/playstation-founder-ken-kutaragi-has-started-a-new-career-in-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.videogameschronicle.com/files/2020/10/np_file_43360.jpeg",
+          "width": 2000,
+          "height": 1334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.videogameschronicle.com/news/playstation-founder-ken-kutaragi-has-started-a-new-career-in-robotics/amp/",
+      "cdnAmpWebUrl": "https://www-videogameschronicle-com.cdn.ampproject.org/c/s/www.videogameschronicle.com/news/playstation-founder-ken-kutaragi-has-started-a-new-career-in-robotics/amp/",
+      "publishedDateTime": "2020-10-09T09:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Video Games Chronicle",
+        "domain": "videogameschronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-taught-by-ai-these-drones-can-perform-incredible-aerial-acrobatics.md",
+      "title": "Taught by AI, these drones can perform incredible aerial acrobatics",
+      "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/video/drones-ai-acrobatics/",
+      "originalUrl": "https://mashable.com/video/drones-ai-acrobatics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F10%252F09%252F14%252Ffb5066ec3bbf42fd9e04464cf84e4044.072ce.jpg%252F1200x630.jpg?signature=38gJR6xTZKIdNAONhPFavOs_Rtw=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/video/drones-ai-acrobatics.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/drones-ai-acrobatics.amp",
+      "publishedDateTime": "2020-10-09T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-09-study-explores-the-use-of-robots-ai-to-ease-covid-19-pressures-on-hospitals.md",
       "title": "Study Explores the Use of Robots, AI to Ease COVID-19 Pressures on Hospitals",
       "excerpt": "Hospitals across the globe could raise their productivity and efficiency as well as increase safety and quality while limiting and decreasing charges.",
@@ -187,7 +320,7 @@
       "originalUrl": "https://www.theverge.com/2020/10/9/21508974/ibm-split-into-two-companies-newco-hybrid-cloud-legacy-it",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -650,6 +783,39 @@
       ]
     },
     {
+      "path": "_news/2020-10-09-computer-vision-market-research-report-by-component-by-application-global-forecast-to-2025-cumulative-impact-of-covid-19.md",
+      "title": "Computer Vision Market Research Report by Component, by Application - Global Forecast to 2025 - Cumulative Impact of COVID-19",
+      "excerpt": "Reportlinker.com announces the release of the report \"Computer Vision Market Research Report by Component, by Application",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/10/g17845162/computer-vision-market-research-report-by-component-by-application-global-forecast-to-2025-cumulat",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/g17845162/computer-vision-market-research-report-by-component-by-application-global-forecast-to-2025-cumulat",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17845162",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17845162",
+      "publishedDateTime": "2020-10-08T15:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-09-daily-crunch-waymo-opens-up-driverless-ride-hailing.md",
       "title": "Daily Crunch: Waymo opens up driverless ride-hailing",
       "excerpt": "Alphabet’s self-driving technology company hits a major milestone, Apple TV+ extends its free subscription period and Affirm files to go public. This is your Daily Crunch for. The big story: Waymo opens up driverless ride-hailing Waymo hit a major milestone today: It’s",
@@ -962,198 +1128,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-from-the-data-and-ai-expert-labs-start-with-outcomes.md",
-      "title": "From the Data and AI Expert Labs: Start with outcomes",
-      "excerpt": "IBM’s Data and AI Expert Labs help guide organizations on their AI journeys. Expert Labs consultants represent years of data and AI expertise and offer best practices and business strategies to meet each organization’s unique needs. In From the Data and AI Expert Labs, I’ll take the expert learnings",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/10/from-the-data-and-ai-expert-labs/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/10/from-the-data-and-ai-expert-labs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/10/2020_08_28_Blog_DataAndAIExpertLabs_Leadspace_V1.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-08T09:09:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-instagram-uses-artificial-intelligence-ai-to-hide-abusive-comments.md",
-      "title": "Instagram Uses Artificial Intelligence (AI) to Hide Abusive Comments",
-      "excerpt": "As Instagram turns 10, it has decided to roll out many new features including the use of AI to block abusive comments on the social media platform. Instagram said that it'll detect the comments",
-      "sourceUrl": null,
-      "webUrl": "https://english.madhyamam.com/technology/instagram-uses-artificial-intelligence-ai-to-hide-abusive-comments-582599",
-      "originalUrl": "https://english.madhyamam.com/technology/instagram-uses-artificial-intelligence-ai-to-hide-abusive-comments-582599",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://english.madhyamam.com/h-upload/2020/10/08/713407-instagram.jpg",
-          "width": 1311,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://english.madhyamam.com/amp/technology/instagram-uses-artificial-intelligence-ai-to-hide-abusive-comments-582599",
-      "cdnAmpWebUrl": "https://english-madhyamam-com.cdn.ampproject.org/c/s/english.madhyamam.com/amp/technology/instagram-uses-artificial-intelligence-ai-to-hide-abusive-comments-582599",
-      "publishedDateTime": "2020-10-08T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Madhyamam",
-        "domain": "madhyamam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-headroom-which-uses-ai-to-supercharge-videoconferencing-raises-5m.md",
-      "title": "Headroom, which uses AI to supercharge videoconferencing, raises $5M",
-      "excerpt": "Videoconferencing has become a cornerstone of how many of us work these days — so much so that one leading service, Zoom, has graduated into verb status because of how much it’s getting used. But does that mean videoconferencing works as well as it should?",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/08/headroom-which-uses-ai-to-supercharge-videoconferencing-raises-5m/",
-      "originalUrl": "https://techcrunch.com/2020/10/08/headroom-which-uses-ai-to-supercharge-videoconferencing-raises-5m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-08-at-4.25.11-PM.png?w=1024",
-          "width": 1024,
-          "height": 975,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/08/headroom-which-uses-ai-to-supercharge-videoconferencing-raises-5m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/08/headroom-which-uses-ai-to-supercharge-videoconferencing-raises-5m/amp/",
-      "publishedDateTime": "2020-10-08T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-adobe-brings-more-ai-powered-tools-to-photoshop-and-premiere-elements-2021.md",
-      "title": "Adobe brings more AI-powered tools to Photoshop and Premiere Elements 2021",
-      "excerpt": "The 2021 versions of Photoshop Elements and Premiere Elements are now available, and Adobe has added a number of AI-powered features to them. Those apps are Adobe’s streamlined versions of Photoshop and Premiere,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/adobe-photoshop-premiere-elements-2021-features-145621547.html",
-      "originalUrl": "https://www.engadget.com/adobe-photoshop-premiere-elements-2021-features-145621547.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fabc49140-0972-11eb-ba75-f5d17a69c7b3&client=amp-blogside-v2&signature=cd018cb59a311d621eb9a96941740f44bd8713c6",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/adobe-photoshop-premiere-elements-2021-features-145621547.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/adobe-photoshop-premiere-elements-2021-features-145621547.html",
-      "publishedDateTime": "2020-10-08T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

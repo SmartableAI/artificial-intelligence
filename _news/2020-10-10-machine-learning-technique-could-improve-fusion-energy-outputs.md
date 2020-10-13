@@ -41,6 +41,20 @@ related:
         width: 1920
         height: 1783
         isCached: true
+  - title: "Machine-learning technique from Sandia Labs could improve fusion energy outputs"
+    excerpt: "Machine learning techniques are being used to improve simulations of the reactor's wall material as it interacts with plasma. This has been beyond he scope of atomic-scale simulations of the past.The expected result should suggest procedural or structural modifications to improve nuclear energy output."
+    publishedDateTime: 2020-10-12T04:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-10/dnl-mtf101220.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 20
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/245693_web.jpg"
+        width: 1440
+        height: 961
+        isCached: true
 
 secured: "sV+NouBCjeTWb3WxFKI84BFi32+AfQW+S3anCivmY1G9hzCW74eruzljrFgw5tZ3wWl0nub0VgME+hu8WF5qsQ64g2mx0WB+u8EVSvRcMfA900VHSsIm/f6VqZQMbd3Nb0fk1H4qRArf4QfXRL2xab7GyvGDaxxXuM+8IAHgJN9waW8OvBYkY8yyFAgkkXzVdAgzxT/eKZYbT3tA9R6oasI5ARz8j1rS5jErDk2jl+qSbVzEqJbTJhmh4zq3vkmegzVOUCACDVfn/1SjuM+O377p1Tm1rIkTMYpQLQpGvc1DQdms4m0RpmWG+cUcA4JN8n6W7n4s8P0onzz/rDkupGq3KOdI0IGR7qa1OV3iTbIEPChjsJUCyfnnOqBo/oixpn0Rz33xukDGi3ECNDhTRf611U760LVp0h2IOKDRoOBM+lTCNVHj30Mskc1vs/E3j/cLAKQHHKYScHRuaFy7W2aChXPsCr+9u7m/PPbabOcTHstzq5C+29vN7ifBnkKRuG47IEekLWYonMqOp5PSCg==;OhfHZOT7wOjUCGZpSgNgBw=="
 ---

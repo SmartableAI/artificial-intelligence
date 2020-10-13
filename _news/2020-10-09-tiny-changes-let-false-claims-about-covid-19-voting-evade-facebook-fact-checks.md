@@ -39,17 +39,17 @@ related:
         width: 1120
         height: 629
         isCached: true
-  - title: "Facebook can’t catch misinformation it’s already identified as false, activist group says"
-    excerpt: "With less than four weeks to go before a pivotal US election, Facebook has sought to reassure the public it has learned from its 2016 mistakes. On Wednesday, the company rolled out a new policy against voter intimidation and announced it will temporarily suspend political ads after polls close on Election Day."
-    publishedDateTime: 2020-10-09T16:21:00Z
-    webUrl: "https://krdo.com/money/2020/10/09/facebook-cant-catch-misinformation-its-already-identified-as-false-activist-group-says/"
+  - title: "Facebook can't catch misinformation it's already identified as false, activist group says"
+    excerpt: "By Brian Fung, CNN Business With less than four weeks to go before a pivotal US election, Facebook has sought to reassure the public it has learned from its 2016 mistakes. On Wednesday,"
+    publishedDateTime: 2020-10-09T12:04:00Z
+    webUrl: "https://www.kitv.com/story/42744708/facebook-cant-catch-misinformation-its-already-identified-as-false-activist-group-says"
     type: article
     provider:
-      name: KRDO
-      domain: krdo.com
+      name: KITV
+      domain: kitv.com
     quality: 15
     images:
-      - url: "https://krdo.b-cdn.net/2020/10/hypatia-h_e7760f18a55c47e96f3cf28dd733f1dd-h_d607d081f29fc54810d6e2ecf3a4c1f2_preview.jpg"
+      - url: "https://CNNWIRE.images.worldnow.com/images/19955213_G.jpg?lastEditedDate=1602226966000"
         width: 500
         height: 333
         isCached: true

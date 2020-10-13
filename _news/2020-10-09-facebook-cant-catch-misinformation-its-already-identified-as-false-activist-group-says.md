@@ -1,25 +1,25 @@
 ---
 category: news
-title: "Facebook can’t catch misinformation it’s already identified as false, activist group says"
-excerpt: "With less than four weeks to go before a pivotal US election, Facebook has sought to reassure the public it has learned from its 2016 mistakes. On Wednesday, the company rolled out a new policy against voter intimidation and announced it will temporarily suspend political ads after polls close on Election Day."
-publishedDateTime: 2020-10-09T16:21:00Z
-originalUrl: "https://krdo.com/money/2020/10/09/facebook-cant-catch-misinformation-its-already-identified-as-false-activist-group-says/"
-webUrl: "https://krdo.com/money/2020/10/09/facebook-cant-catch-misinformation-its-already-identified-as-false-activist-group-says/"
+title: "Facebook can't catch misinformation it's already identified as false, activist group says"
+excerpt: "By Brian Fung, CNN Business With less than four weeks to go before a pivotal US election, Facebook has sought to reassure the public it has learned from its 2016 mistakes. On Wednesday,"
+publishedDateTime: 2020-10-09T12:04:00Z
+originalUrl: "https://www.kitv.com/story/42744708/facebook-cant-catch-misinformation-its-already-identified-as-false-activist-group-says"
+webUrl: "https://www.kitv.com/story/42744708/facebook-cant-catch-misinformation-its-already-identified-as-false-activist-group-says"
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: KRDO
-  domain: krdo.com
+  name: KITV
+  domain: kitv.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://krdo.b-cdn.net/2020/10/hypatia-h_e7760f18a55c47e96f3cf28dd733f1dd-h_d607d081f29fc54810d6e2ecf3a4c1f2_preview.jpg"
+  - url: "https://CNNWIRE.images.worldnow.com/images/19955213_G.jpg?lastEditedDate=1602226966000"
     width: 500
     height: 333
     isCached: true
@@ -54,6 +54,6 @@ related:
         height: 629
         isCached: true
 
-secured: "xm3JVEu5Pb9M/LNdJhKLG2yjlnaG5xnGcaYhQzBIoRH4PuZwQwiCNSIe9EWxHMy0bwIs9KdXMrDUdYsS0NvURwn8/5baecrdXkJq5LLrOgKCyEO1l7QKAJv/Wvtj9YIiz0DChXfE4I2JY4ehgK28j9aQpI3Q0qfkXC5diKLAL6rc9kPmbRUYsNIqViwoXfkwKOsYTAk9J/1BRETpqJt9cNWegCoXEVM5Z35hG9Bog8qTrrbSm7VdYb1RaPPCYQwTAA+dHs+4wpVstTa8vnM4tlI9SeGGxgHs6lOZSZ8iRzeA6LVrAb4De/LQOjUAuNVeeJ50uxOReC+tJhx2sU2iLOL2mbpSnydJv5moqpQsTel4S+4GYzrS4lN3ojAT0I62id352iQclP7wwuAsLGTQXAlegxxS2aXFB5imicoAzkBZc+v/YaXb8Mu9PEvMXfZNCJDBr+1Pyl2iuA3dcQo55INwEmr8NpDX7/CvdMk2CkZ6j3mGaAxwUxdaUjmDEAe8WlebgMjrTGPx93wbJoC5Hg==;JUBwVCM5SVyZDX7EcQ3Axw=="
+secured: "nuV1kmWSZJkRhqQ0lJo9GqecRNCDhr4JsgUHfBO6S5zq8KGubXoAfZL7NcyYQuHVyCLX7KiDzjp29yobqBuTwGegTVMfY4Fc5APW3L/sFy4Yb7tydKfM2aT3kBruN00WXYd6B+ZXYSpSrBZgkzrNsciHux95rXfpcaBTnRXLLIfidotDQKto0i7zBOI9xefKRW5xLCbDAPWz8nyeCgk/Bhu/tpxB54IHkFkIlhYC8YxYncBRkZ6dQvy0c2EVHtq2AmkeDaNZQPmDshKX2m3fXpZ3PJc4n5W4pp6hghrsVLux+2+SLpSq5FHUKI3MvjCPz2gwq8W6B8XZzFEOxdhT0bDYKnmc9lsLPx0YeT0vF1I=;pxsu0fHwRfhZBUnb4yTCvQ=="
 ---
 

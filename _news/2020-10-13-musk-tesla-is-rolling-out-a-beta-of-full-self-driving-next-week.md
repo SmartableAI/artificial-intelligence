@@ -248,20 +248,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Tesla Battery Day: Full Self-Driving Next Month"
-    excerpt: "The recent Tesla Battery day was about its plan to scale battery production from Giga to Tera and reduce cost by 2x."
-    publishedDateTime: 2020-10-09T00:30:00Z
-    webUrl: "https://seekingalpha.com/article/4378222-tesla-battery-day-full-self-driving-next-month"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 39
-    images:
-      - url: "https://static2.seekingalpha.com/uploads/2020/9/23/saupload_tesla-battery-day-drew-baglino-elon-musk-cost-reduction-improvement_thumb1.png"
-        width: 1280
-        height: 716
-        isCached: true
   - title: "Russia to launch self-driving tram and vessel experiments"
     excerpt: "Several ministries of the Russian Federation, including The Ministry of Finance, the Ministry of Transport, the Ministry of Natural Resources, the"
     publishedDateTime: 2020-10-11T11:17:00Z
@@ -288,6 +274,6 @@ related:
       domain: infosurhoy.com
     quality: 10
 
-secured: "3jBNc8a3JgBJCEGpUMFY+CdnF0j1cFExVRlYxlYPvGB8acafokZ//vvVqVRXRZjHqwn38i7u18KuJzF8Jj9aN5vZGUwMx181mRUxmyRBVz7abVLZGpkwdEEW7Xmz8ABjqr4PAgQTDEQhLILgG0gtSqPTRglAZ100b5PGZ6kTN4wSN/nNLmfcJ4u9d4Tdm88EWg9USJTcWxg5o+aPSudSzh6ycvkopuumdNA023MgjQWLdrlYmybaPn6AJS13K4zWtKOHoaiB5arnuhvH3ld7LvQ74EHY4XYRterXRBlfN4kpQlqa80ikzUt0ng7NUHgFp341BZJGTtk5BKDnOHIjHDUj5jqJyEiV6/a79SUKxRw=;j5nESjJZEt2gSt0ypcSX5Q=="
+secured: "c7G17Nhy+Uom6znnUR1PDUpLML1QOxI6Wj4hmECBXAoPruWPeuxLtsQfdhlaVqif7LXhDAXSrKGOsbcEalVb8UBl3Y4ECjfFl6ZbgP/az7LholSGHHN4dNWXH6vIAFS8Og/uFe4ALz1YiYTRXZyj800ulKiuM0gI06ol6oLJNyH2yagdKn02oK7E/YIJZZ+R94jDZhq4WVi8lhv5PeDr4GQnTtoGkEFjlM09aZK8gidVZRW0rgFOWKSxRfCoJlc6sXCQk7CYbm/VvWknkB2ZRC0Ebwmex2OPqBGlRA040+hZX5O5jMocjlTLkdnl70UqfCIuTh5PobrX9nJebHxPSykdnKBGLViMfnQi1uGndrB+Nft//OhnAyIrdcqDpUagaJmmUzqMtJwG0R0TV/yx+fPnOEyAw/U+PxIyQAKxEn8M3tYBjhTvIozkrjV3GQZJzNbK5uHOe5dkUce9mwe+EXhQHtcm/tpTWgjxxhMZQywib89xKI5pngs4OAaDL85HK2PqSlVIie0pPK4xm1IYPw==;5ZumtFEChWq5k9rWTMu/Iw=="
 ---
 

@@ -251,20 +251,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Tesla Battery Day: Full Self-Driving Next Month"
-    excerpt: "The recent Tesla Battery day was about its plan to scale battery production from Giga to Tera and reduce cost by 2x."
-    publishedDateTime: 2020-10-09T00:30:00Z
-    webUrl: "https://seekingalpha.com/article/4378222-tesla-battery-day-full-self-driving-next-month"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 39
-    images:
-      - url: "https://static2.seekingalpha.com/uploads/2020/9/23/saupload_tesla-battery-day-drew-baglino-elon-musk-cost-reduction-improvement_thumb1.png"
-        width: 1280
-        height: 716
-        isCached: true
   - title: "Russia to launch self-driving tram and vessel experiments"
     excerpt: "Several ministries of the Russian Federation, including The Ministry of Finance, the Ministry of Transport, the Ministry of Natural Resources, the"
     publishedDateTime: 2020-10-11T11:17:00Z

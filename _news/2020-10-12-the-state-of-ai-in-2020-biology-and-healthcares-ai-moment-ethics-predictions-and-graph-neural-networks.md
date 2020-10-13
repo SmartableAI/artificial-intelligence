@@ -2,14 +2,14 @@
 category: news
 title: "The state of AI in 2020: Biology and healthcare's AI moment, ethics, predictions, and graph neural networks"
 excerpt: "Research and industry breakthroughs, ethics, and predictions. This is what AI looks like today, and what it's likely to look like tomorrow."
-publishedDateTime: 2020-10-12T15:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/"
-webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/"
+publishedDateTime: 2020-10-12T14:46:00Z
+originalUrl: "https://www.zdnet.com/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/"
+webUrl: "https://www.zdnet.com/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/"
 type: article
-quality: 120
-heat: 130
+quality: 105
+heat: 115
 published: true
 
 provider:
@@ -21,10 +21,10 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
   - AI
   - AI Ethics
   - AI in Healthcare
+  - AI Hardware
 
 images:
   - url: "https://zdnet4.cbsistatic.com/hub/i/2020/10/12/fff374f0-59d9-4c75-8931-70212d1b7506/fda-ml.png"
@@ -48,6 +48,6 @@ related:
         height: 300
         isCached: true
 
-secured: "MDE9ggWhx3TTpV7lD5fBHCKt5WX5j9CXhYdpDcGiwuGqUC0PGt02CdRVpMn24/Qg1nrqgVPi9tyLYRkQvxWFgBM3hJv5Tw/sK70+neNlvLWVFuBH+DPK/3e42D5VOIfaBQ9Juj4BNjrGtzNVauP+QSotvJQ3S/LhpgpP45wZY2BsEsfEC0IzLwc2PA+/wof4T1w/Cw2YFDws2w/OWw85m0j1IOyKfnGULED08eZRacqRL5j2TU7ZUuohqZuBUoW/nDCYEMTG5vMg4b12usi48dZnB/rtyd1pEtv3s1BLMlNewC+BcBQmnWPW43TOB5DwsOxTg+7gyG6IW+YSZBI2ciUitNiN6phmUiG5IdYnzcE=;8a8RT/bz/Wk477m3M222GQ=="
+secured: "+LgDNTwZ1wX9N6u79QlxkscaGrVjOtTYIJSSp940Z0rLlWCvA/XSW3dnaorn7VbJCxLDi+cRV/TisZdgnbDny/Rz+8M19sn6CvT8JqY6iDxUK1GRiuNZUi9TCYO6+WtMYXOlgJF3aU+vsK6EplJNvqvOvH7iG8TpRzQ9NAkWqAxIJq6E/7jaAhlJ5QwbInYJLRhtnKPSqmy16Ak4xorS0jZSuRxfwRlBIsk7WFhyCrYzY20n1v2vcXFQJ56SpQrX+CbLiBT2ZEUEnEgs6ynNb8t05PASNcgpfF+RYv8ew4eVRTyjnWzCRBag62DpkYbgcixH+/abvJ+HZJ/OBsLdJJiDvfxOZt8NDSDQ8yf3iR8=;p5gCv/Hu9bZhemflH+RkQw=="
 ---
 

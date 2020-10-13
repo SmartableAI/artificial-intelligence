@@ -7,7 +7,7 @@ originalUrl: "https://www.sify.com/news/facebook-donates-1mn-pound-to-birthplace
 webUrl: "https://www.sify.com/news/facebook-donates-1mn-pound-to-birthplace-of-computer-news-international-uknn4qibadhgf.html"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Facebook AI
   - AI
+
+related:
+  - title: "Facebook Donates £1 Million to Help Keep Bletchley Park Open"
+    excerpt: "Facebook is donating £1 million (nearly $1.3 million) to help keep Bletchley Park in the U.K. open to the public. Bletchley Park, in Milton Keynes, was where nearly 10,000 people—75% of them women—worked to change the course of World War II by cracking the secret code used by the Nazis to communicate."
+    publishedDateTime: 2020-10-13T16:44:00Z
+    webUrl: "https://www.adweek.com/digital/facebook-donates-1-million-to-help-keep-bletchley-park-open/"
+    type: article
+    provider:
+      name: Adweek
+      domain: adweek.com
+    quality: 24
+    images:
+      - url: "https://www.adweek.com/wp-content/uploads/2020/10/BletchleyPark-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "9xsyyH2PAgv9uIQjTqXC2YbPz8fYUKeZtrYKKKh1jjh/8H3deATWgON9GuxAnipf9yIDSWJdRnMf+4YOPjzNdBcQo2PPEeH5OxrP69XjQOOqOIJmXpVvV9jesRtgQIvEH4yatMBVPc5MJWeWHZriBmXoGzMvhM8AfutWlgzjVEpAF6le1iJZCRC9deP//jc3meDN3AGQHBRkaDHXHlXs9PMQAwpfUAw6gGEtRjCT9e6nZty/p9yIUJELASMh/3WaLukjRKzlP6arMLuahcQyRqB631puCYFAf5b5lt4nLjEADqgnE1uW0f+QGjSVnkiezBX4Lzcf6Jk9bBOEoGIXwljcNodfKtBgh2GvAG7cqo4=;DUuYTb6WVufyx+2p40w5+g=="
 ---

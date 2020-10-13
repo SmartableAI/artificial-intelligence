@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-13-spotify-open-sources-klio-a-framework-for-ai-audio-research.md",
+      "title": "Spotify open-sources Klio, a framework for AI audio research",
+      "excerpt": "Over the years, the company has begun to tap natural language processing, audio models, and filtering to serve up recommendations and curate playlists including Discovery Weekly and Release Radar.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/13/spotify-open-sources-klio-a-framework-for-ai-audio-research/",
+      "originalUrl": "https://venturebeat.com/2020/10/13/spotify-open-sources-klio-a-framework-for-ai-audio-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/04/spotify-nyse.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/13/spotify-open-sources-klio-a-framework-for-ai-audio-research/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/13/spotify-open-sources-klio-a-framework-for-ai-audio-research/amp/",
+      "publishedDateTime": "2020-10-13T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-12-can-facial-recognition-tech-boost-asias-biometric-acceptance.md",
       "title": "Can facial recognition tech boost Asia’s biometric acceptance?",
       "excerpt": "Biometric facial recognition technology is becoming increasingly accepted, including in Southeast Asia where it has shown potential.",
@@ -10,7 +61,7 @@
       "originalUrl": "https://techwireasia.com/2020/10/facial-recognition-tech-will-boost-biometric-id-acceptance-in-sea/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -484,6 +535,49 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-microsoft-translator-now-supports-assamese-too.md",
+      "title": "Microsoft Translator now supports Assamese too",
+      "excerpt": "Microsoft India said on Wednesday that it has added Assamese as the latest Indian language in Microsoft Translator, increasing the number of Indian languages it supports to 12. The Azure-based service will now provide real-time translation and transliteration support for the language.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1100880896/Microsoft-Translator-now-supports-Assamese-too",
+      "originalUrl": "https://menafn.com/1100880896/Microsoft-Translator-now-supports-Assamese-too",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2020-09/30/I_9ee6f788-9image_story.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-30T04:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1250,100 +1344,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-mastercards-vp-of-ai-talks-bots-nlp-and-why-fintechs-need-ai-for-customer-service-vb-live.md",
-      "title": "Mastercard’s VP of AI talks bots, NLP, and why fintechs need AI for customer service (VB Live)",
-      "excerpt": "Join this VB Live event for insights on why AI is essential for fintech companies, plus how to implement it, how to make it perfom, and more. Register here for free. AI has been around for a long ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/23/mastercards-vp-of-ai-talks-bots-nlp-and-why-fintechs-need-ai-for-customer-service-vb-live/",
-      "originalUrl": "https://venturebeat.com/2020/09/23/mastercards-vp-of-ai-talks-bots-nlp-and-why-fintechs-need-ai-for-customer-service-vb-live/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/mastercard-in-control-mineraltree.jpg?w=1200&#038;strip=all",
-          "width": 993,
-          "height": 565,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/23/mastercards-vp-of-ai-talks-bots-nlp-and-why-fintechs-need-ai-for-customer-service-vb-live/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/23/mastercards-vp-of-ai-talks-bots-nlp-and-why-fintechs-need-ai-for-customer-service-vb-live/amp/",
-      "publishedDateTime": "2020-09-23T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-the-next-big-breakthrough-in-ai-will-be-around-language.md",
-      "title": "The Next Big Breakthrough in AI Will Be Around Language",
-      "excerpt": "The 2020s are going to bring major advances in language-based AI tasks. GPT-3, a state-of-the-art natural language processing tool developed by OpenAI, will soon be able to produce short stories, songs,",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2020/09/the-next-big-breakthrough-in-ai-will-be-around-language",
-      "originalUrl": "https://hbr.org/2020/09/the-next-big-breakthrough-in-ai-will-be-around-language",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2020/09/Sep20_23_183428120-4.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://hbr.org/amp/2020/09/the-next-big-breakthrough-in-ai-will-be-around-language",
-      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/09/the-next-big-breakthrough-in-ai-will-be-around-language",
-      "publishedDateTime": "2020-09-23T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

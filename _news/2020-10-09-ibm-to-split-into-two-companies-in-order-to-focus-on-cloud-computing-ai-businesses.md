@@ -56,6 +56,17 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "4 Things to Know About IBM's Spin-Off Plans"
+    excerpt: "IBM's (NYSE: IBM) stock recently rallied after the tech giant announced it would spin off its managed infrastructure services unit into a new company. That split will enable IBM to divest its slower-growth IT services and focus on its higher-growth hybrid cloud and AI businesses."
+    publishedDateTime: 2020-10-13T17:02:00Z
+    webUrl: "https://www.nasdaq.com/articles/4-things-to-know-about-ibms-spin-off-plans-2020-10-13"
+    ampWebUrl: "https://www.nasdaq.com/articles/4-things-to-know-about-ibms-spin-off-plans-2020-10-13?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-things-to-know-about-ibms-spin-off-plans-2020-10-13?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
 
 secured: "QZyeJZ7h92uZhwJ18qq66baV5N5Arx93q3wxW5EOWMQ8lMSHAeAIVWa3pKl1VVmBr5rtlgHq3RklPWj4HuY5UDGQL/E17yok0fVFj2SmwbQee5+SzcLfb7dPtk7FRlmOX8z8hE3Jxek3OcNfaU2s+axvT9n93GFEb34MNSKqDSW6iyxb1ipoWNwuIsN2WJcFPl6fTuvGQlUFt2I0yaAgUHivJav20ax/AxnF2uMiH1Wq7pVZbRBswGjEt1sJ4lTZidj9k6wAZ0cshrDAjM4Mo4DDsz4A3TVsGXcJrARkqviu00jpvxD35NXDU4GjoCQHEFlD2vTW6Rp5oeSAaVa/qWJKuNIyZ9bSfZ2STc9QnVg=;pjnIw+gucoStNCUVIn7MUw=="
 ---

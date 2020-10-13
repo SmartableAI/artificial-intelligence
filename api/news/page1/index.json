@@ -2,28 +2,79 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-10-13-omdia-identifies-a-key-shift-from-cloud-based-ai-solutions-to-ai-at-the-edge.md",
-      "title": "Omdia identifies a key shift from cloud-based AI-solutions to AI at the Edge",
-      "excerpt": "Leading analyst house Omdia has today released its latest report identifying the key areas for growth for AI-at-the-Edge. 'Connecting The Dots: AI at the Edge' has found that more compute is needed at edge locations to manage and support new and proliferating latency-sensitive IoT devices and software technologies that are analysing an increasing amount of data.",
+      "path": "_news/2020-10-14-fda-clears-ge-healthcare-ai-powered-cardiovascular-ultrasound-system.md",
+      "title": "FDA clears GE Healthcare AI-powered cardiovascular ultrasound system",
+      "excerpt": "GE Healthcare announced that it received FDA 510(k) clearance for its Ultra Edition package on Vivid cardivascular ultrasound systems.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/omdia-identifies-a-key-shift-from-cloud-based-ai-solutions-to-ai-at-the-edge-1029675306",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/omdia-identifies-a-key-shift-from-cloud-based-ai-solutions-to-ai-at-the-edge-1029675306",
+      "webUrl": "https://www.massdevice.com/fda-clears-ge-healthcare-ai-powered-cardiovascular-ultrasound-system/",
+      "originalUrl": "https://www.massdevice.com/fda-clears-ge-healthcare-ai-powered-cardiovascular-ultrasound-system/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 84,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.massdevice.com/wp-content/uploads/2019/07/GE-Healthcare-logo.png",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/omdia-identifies-a-key-shift-from-cloud-based-ai-solutions-to-ai-at-the-edge-1029675306",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/omdia-identifies-a-key-shift-from-cloud-based-ai-solutions-to-ai-at-the-edge-1029675306",
-      "publishedDateTime": "2020-10-13T08:40:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-13T10:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "MassDevice",
+        "domain": "massdevice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-amazon-personalize-improvements-reduce-model-training-time-by-up-to-40-and-latency-for-generating-recommendations-by-up-to-30.md",
+      "title": "Amazon Personalize improvements reduce model training time by up to 40% and latency for generating recommendations by up to 30%",
+      "excerpt": "We’re excited to announce new efficiency improvements for Amazon Personalize. These improvements decrease the time required to train solutions (the machine learning models trained with your data) by up to 40% and reduce the latency for generating real-time recommendations by up to 30%. Amazon Personalize",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-personalize-improvements-reduce-model-training-time-by-up-to-40-and-latency-for-generating-recommendations-by-up-to-30/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-personalize-improvements-reduce-model-training-time-by-up-to-40-and-latency-for-generating-recommendations-by-up-to-30/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/12/2-1-5.jpg",
+          "width": 900,
+          "height": 617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-13T09:48:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -39,6 +90,58 @@
         "news"
       ],
       "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-spotify-open-sources-klio-a-framework-for-ai-audio-research.md",
+      "title": "Spotify open-sources Klio, a framework for AI audio research",
+      "excerpt": "Over the years, the company has begun to tap natural language processing, audio models, and filtering to serve up recommendations and curate playlists including Discovery Weekly and Release Radar.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/13/spotify-open-sources-klio-a-framework-for-ai-audio-research/",
+      "originalUrl": "https://venturebeat.com/2020/10/13/spotify-open-sources-klio-a-framework-for-ai-audio-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/04/spotify-nyse.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/13/spotify-open-sources-klio-a-framework-for-ai-audio-research/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/13/spotify-open-sources-klio-a-framework-for-ai-audio-research/amp/",
+      "publishedDateTime": "2020-10-13T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -217,56 +320,6 @@
         "name": "PR Newswire",
         "domain": "prnewswire.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-four-ways-ai-can-improve-revenue-operations.md",
-      "title": "Four Ways AI Can Improve Revenue Operations",
-      "excerpt": "How can RevOps best drive value, profit, and growth? The answer lies in a strong foundation of advanced analytics and AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joelshapiro/2020/10/13/four-ways-ai-can-improve-revenue-operations/",
-      "originalUrl": "https://www.forbes.com/sites/joelshapiro/2020/10/13/four-ways-ai-can-improve-revenue-operations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f84b56436b3adb34c19d5b2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D8032%26cropY1%3D161%26cropY2%3D4681",
-          "width": 1199,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joelshapiro/2020/10/13/four-ways-ai-can-improve-revenue-operations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joelshapiro/2020/10/13/four-ways-ai-can-improve-revenue-operations/amp/",
-      "publishedDateTime": "2020-10-13T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -581,6 +634,57 @@
       ]
     },
     {
+      "path": "_news/2020-10-13-the-next-generation-of-artificial-intelligence.md",
+      "title": "The Next Generation Of Artificial Intelligence",
+      "excerpt": "What will the next generation of artificial intelligence look like? Which novel AI approaches will unlock currently unimaginable possibilities in technology and business? This article highlights three emerging areas within AI that are poised to redefine the field—and society—in the years ahead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f84f4978d786028fac3acbb%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-10-12T18:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-alphabets-latest-x-project-is-a-crop-sniffing-plant-buggy.md",
       "title": "Alphabet’s latest X project is a crop-sniffing plant buggy",
       "excerpt": "Alphabet’s X lab, the former Google division that launched the Waymo self-driving car unit and other ambitious ... of software and hardware prototypes based on breakthroughs in artificial intelligence, simulation, sensors, robotics and more,” according ...",
@@ -784,6 +888,56 @@
         "AI",
         "AWS AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-when-ai-hurts-people-who-is-held-responsible.md",
+      "title": "When AI hurts people, who is held responsible?",
+      "excerpt": "How to determine whether a human was at fault when AI plays a role in a person’s injury or death is no easy task. If AI is in control and something goes wrong, when is it the human’s fault and ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/12/when-ai-hurts-people-who-is-held-responsible/",
+      "originalUrl": "https://venturebeat.com/2020/10/12/when-ai-hurts-people-who-is-held-responsible/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/12/uber-self-driving-car-transportation.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/12/when-ai-hurts-people-who-is-held-responsible/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/12/when-ai-hurts-people-who-is-held-responsible/amp/",
+      "publishedDateTime": "2020-10-12T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -1020,159 +1174,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-hidden-factor-steering-for-trouble-in-latest-elon-musk-versus-waymo-self-driving-cars-squabble.md",
-      "title": "Hidden Factor Steering For Trouble In Latest Elon Musk Versus Waymo Self-Driving Cars Squabble",
-      "excerpt": "Latest spat of Elon Musk and Waymo highlights steering for troubles in self-driving. getty. There is an elephant in the room, but it seems as though nobody is noticing it. In the",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/12/hidden-factor-steering-for-trouble-in-latest-elon-musk-versus-waymo-self-driving-cars-squabble/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/12/hidden-factor-steering-for-trouble-in-latest-elon-musk-versus-waymo-self-driving-cars-squabble/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8393a16e24fdc40c0501f3%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3685%26cropY1%3D1078%26cropY2%3D3843",
-          "width": 1199,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/12/hidden-factor-steering-for-trouble-in-latest-elon-musk-versus-waymo-self-driving-cars-squabble/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/12/hidden-factor-steering-for-trouble-in-latest-elon-musk-versus-waymo-self-driving-cars-squabble/amp/",
-      "publishedDateTime": "2020-10-12T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-microsoft-partners-with-team-gleason-to-build-a-computer-vision-dataset-for-als.md",
-      "title": "Microsoft partners with Team Gleason to build a computer vision dataset for ALS",
-      "excerpt": "The organizations hope to foster innovation in computer vision and broaden the potential for connectivity and communication for people with accessibility challenges. Microsoft and Team Gleason ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/12/microsoft-partners-with-team-gleason-to-build-a-computer-vision-dataset-for-als/",
-      "originalUrl": "https://venturebeat.com/2020/10/12/microsoft-partners-with-team-gleason-to-build-a-computer-vision-dataset-for-als/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/07/microsoft-logo.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/12/microsoft-partners-with-team-gleason-to-build-a-computer-vision-dataset-for-als/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/12/microsoft-partners-with-team-gleason-to-build-a-computer-vision-dataset-for-als/amp/",
-      "publishedDateTime": "2020-10-12T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-snapdocs-raises-60-million-to-expedite-mortgage-processing-with-ai.md",
-      "title": "Snapdocs raises $60 million to expedite mortgage processing with AI",
-      "excerpt": "Snapdocs’ AI algorithms identify which pages can be electronically signed and which require ink, after which they detect where electronic signature tags are needed and apply metadata that ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/12/snapdocs-raises-60-million-to-expedite-mortgage-processing-with-ai/",
-      "originalUrl": "https://venturebeat.com/2020/10/12/snapdocs-raises-60-million-to-expedite-mortgage-processing-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/2b47b5a2-dc97-41b3-b717-99340b453453-e1601998506908.png?w=1200&#038;strip=all",
-          "width": 1199,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/12/snapdocs-raises-60-million-to-expedite-mortgage-processing-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/12/snapdocs-raises-60-million-to-expedite-mortgage-processing-with-ai/amp/",
-      "publishedDateTime": "2020-10-12T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

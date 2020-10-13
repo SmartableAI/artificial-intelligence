@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/9/21508974/ibm-split-i
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/9/21508974/ibm-split-into-two-companies-newco-hybrid-cloud-legacy-it"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -46,6 +46,17 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "4 Things to Know About IBM's Spin-Off Plans"
+    excerpt: "IBM's (NYSE: IBM) stock recently rallied after the tech giant announced it would spin off its managed infrastructure services unit into a new company. That split will enable IBM to divest its slower-growth IT services and focus on its higher-growth hybrid cloud and AI businesses."
+    publishedDateTime: 2020-10-13T17:02:00Z
+    webUrl: "https://www.nasdaq.com/articles/4-things-to-know-about-ibms-spin-off-plans-2020-10-13"
+    ampWebUrl: "https://www.nasdaq.com/articles/4-things-to-know-about-ibms-spin-off-plans-2020-10-13?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-things-to-know-about-ibms-spin-off-plans-2020-10-13?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "IBM To Split Into Two Companies In Order To Focus On Cloud Computing, AI Businesses"
     excerpt: "In recent years IBM has seen a slowdown in sales of software and only seasonal demand for its mainframe servers – hence the heavy push into cloud computing and AI. “To drive growth, our strategy must be rooted in the reality of the world we live in and ..."
     publishedDateTime: 2020-10-09T13:50:00Z

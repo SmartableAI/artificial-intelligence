@@ -262,20 +262,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Tesla Battery Day: Full Self-Driving Next Month"
-    excerpt: "The recent Tesla Battery day was about its plan to scale battery production from Giga to Tera and reduce cost by 2x."
-    publishedDateTime: 2020-10-09T00:30:00Z
-    webUrl: "https://seekingalpha.com/article/4378222-tesla-battery-day-full-self-driving-next-month"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 39
-    images:
-      - url: "https://static2.seekingalpha.com/uploads/2020/9/23/saupload_tesla-battery-day-drew-baglino-elon-musk-cost-reduction-improvement_thumb1.png"
-        width: 1280
-        height: 716
-        isCached: true
   - title: "Tesla Autopilot’s Flaw Found! Instant Apparitions, Phantom Objects Can Cause Full Self-Driving to Malfunction and Harm Passengers"
     excerpt: "Tesla's Autopilot was fool-proof and promising, as advertised by the company; still, Israel-based researchers found its ultimate flaw and weakness using"
     publishedDateTime: 2020-10-12T15:27:00Z

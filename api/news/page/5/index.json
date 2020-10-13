@@ -2,6 +2,191 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-08-3-ways-criminals-use-artificial-intelligence-in-cybersecurity-attacks.md",
+      "title": "3 ways criminals use artificial intelligence in cybersecurity attacks",
+      "excerpt": "Bad actors use machine learning to break passwords more quickly and build malware that knows how to hide, experts warn.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/3-ways-criminals-use-artificial-intelligence-in-cybersecurity-attacks/",
+      "originalUrl": "https://www.techrepublic.com/article/3-ways-criminals-use-artificial-intelligence-in-cybersecurity-attacks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/3-ways-criminals-use-artificial-intelligence-in-cybersecurity-attacks/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/3-ways-criminals-use-artificial-intelligence-in-cybersecurity-attacks/",
+      "publishedDateTime": "2020-10-07T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-predicting-defender-trajectories-in-nfls-next-gen-stats.md",
+      "title": "Predicting Defender Trajectories in NFL’s Next Gen Stats",
+      "excerpt": "NFL’s Next Gen Stats (NGS) powered by AWS accurately captures player and ball data in real time for every play and every NFL game—over 300 million data points per season—through the extensive use of sensors in players’ pads and the ball. With this rich set of tracking data, NGS uses AWS machine learning",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/predicting-defender-trajectories-in-nfls-next-gen-stats/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/predicting-defender-trajectories-in-nfls-next-gen-stats/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/06/1-Diagram_Update-544x630.jpg",
+          "width": 544,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-07T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-cbp-expands-facial-recognition-program-to-international-travelers-at-san-francisco-and-san-jose-airports.md",
+      "title": "CBP expands facial recognition program to international travelers at San Francisco and San Jose airports",
+      "excerpt": "U.S. Customs and Border Protection is expanding a controversial facial recognition program to airports in San Jose and San Francisco.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/07/cbp-expands-facial-recognition-program-to-international-travelers-at-san-francisco-and-san-jose-airports/",
+      "originalUrl": "https://venturebeat.com/2020/10/07/cbp-expands-facial-recognition-program-to-international-travelers-at-san-francisco-and-san-jose-airports/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1199708189-e1600898324155.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/07/cbp-expands-facial-recognition-program-to-international-travelers-at-san-francisco-and-san-jose-airports/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/07/cbp-expands-facial-recognition-program-to-international-travelers-at-san-francisco-and-san-jose-airports/amp/",
+      "publishedDateTime": "2020-10-07T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-biochip-innovation-combines-ai-and-nanoparticle-printing-for-cancer-cell-analysis.md",
+      "title": "Biochip innovation combines AI and nanoparticle printing for cancer cell analysis",
+      "excerpt": "Electrical engineers, computer scientists and biomedical engineers at the University of California, Irvine have created a new lab-on-a-chip that can help study tumor heterogeneity to reduce resistance to cancer therapies.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2020-10-biochip-combines-ai-nanoparticle-cancer.html",
+      "originalUrl": "https://phys.org/news/2020-10-biochip-combines-ai-nanoparticle-cancer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2018/5c18fceef3bbb.jpg",
+          "width": 2500,
+          "height": 1917,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2020-10-biochip-combines-ai-nanoparticle-cancer.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-biochip-combines-ai-nanoparticle-cancer.amp",
+      "publishedDateTime": "2020-10-07T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-bringing-the-power-of-embedded-analytics-to-your-apps-and-services-with-amazon-quicksight.md",
       "title": "Bringing The Power Of Embedded Analytics To Your Apps And Services With Amazon QuickSight",
       "excerpt": "The constant evolution of the platform has been impressive: ML-powered anomaly detection, Amazon SageMaker integration, embedding, theming, and cross-visual filtering. Our users consume insights ...",
@@ -349,6 +534,50 @@
       ]
     },
     {
+      "path": "_news/2020-10-07-maxim-integrateds-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices.md",
+      "title": "Maxim Integrated's Neural Network Accelerator Chip Enables IoT Artificial Intelligence in Battery-Powered Devices",
+      "excerpt": "For details about Maxim Integrated's Artificial Intelligence solutions, visit http://bit.ly/Maxim_AI To order MAX78000 or learn more, visit http://bit.ly/MAX78000 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanzen.net/nachricht/aktien/maxim-integrated-s-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-9368772",
+      "originalUrl": "https://www.finanzen.net/nachricht/aktien/maxim-integrated-s-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-9368772",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-07T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanzen",
+        "domain": "finanzen.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
       "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
       "excerpt": "Artificial intelligence (AI) involves using computers ... deploying AI brains into the Waymo self-driving car business, and applying these technologies to medical research and weather forecasting.",
@@ -584,49 +813,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-maxim-integrateds-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices.md",
-      "title": "Maxim Integrated's Neural Network Accelerator Chip Enables IoT Artificial Intelligence in Battery-Powered Devices",
-      "excerpt": "PRNewswire/ -- The MAX78000 low-power neural network accelerated microcontroller from Maxim Integrated Products, Inc. (NASDAQ: MXIM) moves",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/maxim-integrateds-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-301147039.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/maxim-integrateds-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-301147039.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1307840/Maxim__MAX78000.jpg?p=facebook",
-          "width": 1920,
-          "height": 1005,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     },
     {
@@ -951,94 +1137,35 @@
       ]
     },
     {
-      "path": "_news/2020-10-07-edtech-startup-winuall-raises-inr-147-cr-from-prime-venture-partners-and-beenext.md",
-      "title": "Edtech Startup Winuall Raises INR 14.7 Cr From Prime Venture Partners and BEENEXT",
-      "excerpt": "The company said it will use the fresh capital to enhance product capabilities and hire across technology, product, AI and business development teams",
+      "path": "_news/2020-10-07-deep-learning-takes-on-synthetic-biology.md",
+      "title": "Deep learning takes on synthetic biology",
+      "excerpt": "Machine learning is helping biologists solve hard problems, including designing effective synthetic biology tools. Two teams from the Wyss Institute and MIT have created a set of algorithms that can effectively predict the efficacy of thousands of RNA-based sensors called toehold switches,",
       "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/357349",
-      "originalUrl": "https://www.entrepreneur.com/article/357349",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-10/wifb-dlt100620.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-10/wifb-dlt100620.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1602061319-online1.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
+          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/357349",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/357349",
-      "publishedDateTime": "2020-10-07T02:02:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-07T02:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-researchers-probe-into-rna-using-deep-learning-to-develop-sensors-for-a-covid-19-diagnostic.md",
-      "title": "Researchers probe into RNA using deep learning to develop sensors for a COVID-19 diagnostic",
-      "excerpt": "Two teams at the Wyss Institute have demonstrated the use of NLP and CV techniques to optimize RNA sequences to develop improved sensors for the SARS-CoV-2 genome that is responsible for COVID-19.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/researchers-probe-into-rna-using-deep-learning-to-develop-sensors-for-a-covid-19-diagnostic",
-      "originalUrl": "https://www.neowin.net/news/researchers-probe-into-rna-using-deep-learning-to-develop-sensors-for-a-covid-19-diagnostic",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/10/1602006122_ribocomputing_story.jpg",
-          "width": 760,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/researchers-probe-into-rna-using-deep-learning-to-develop-sensors-for-a-covid-19-diagnostic/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/researchers-probe-into-rna-using-deep-learning-to-develop-sensors-for-a-covid-19-diagnostic/",
-      "publishedDateTime": "2020-10-07T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1049,149 +1176,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-study-shows-people-prefer-robot-over-their-boss-6-ways-to-be-a-leader-people-prefer.md",
-      "title": "Study Shows People Prefer Robot Over Their Boss: 6 Ways To Be A Leader People Prefer",
-      "excerpt": "These are stressful times—among the most stressful in history—and people need help. Often, they turn to their employers and specifically their leaders. But they don’t always get what they need. A new global study reports people actually prefer robots to humans for help with mental health issues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tracybrower/2020/10/07/study-shows-people-prefer-robot-over-their-boss-6-ways-to-be-a-leader-people-prefer/",
-      "originalUrl": "https://www.forbes.com/sites/tracybrower/2020/10/07/study-shows-people-prefer-robot-over-their-boss-6-ways-to-be-a-leader-people-prefer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7d1aa51a223b41447ae3d1%2F0x0.jpg",
-          "width": 1200,
-          "height": 648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tracybrower/2020/10/07/study-shows-people-prefer-robot-over-their-boss-6-ways-to-be-a-leader-people-prefer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tracybrower/2020/10/07/study-shows-people-prefer-robot-over-their-boss-6-ways-to-be-a-leader-people-prefer/amp/",
-      "publishedDateTime": "2020-10-06T23:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-smartphone-tracking-data-and-artificial-intelligence-turn-peoples-movements-into-detailed-insights-and-profits.md",
-      "title": "Smartphone Tracking Data And Artificial Intelligence Turn People’s Movements Into Detailed Insights And Profits",
-      "excerpt": "Cosmose AI, a company that uses machine learning to predict who will go shopping as well as when and where, plus measures the effectiveness of online ads to online and in-person store visits, expanded during the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/10/07/smartphone-tracking-data-and-artificial-intelligence-turn-peoples-movements-into-detailed-insights-and-profits/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2020/10/07/smartphone-tracking-data-and-artificial-intelligence-turn-peoples-movements-into-detailed-insights-and-profits/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7d4156567f8cbd8ccb2fea%2F0x0.jpg",
-          "width": 1199,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/10/07/smartphone-tracking-data-and-artificial-intelligence-turn-peoples-movements-into-detailed-insights-and-profits/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/10/07/smartphone-tracking-data-and-artificial-intelligence-turn-peoples-movements-into-detailed-insights-and-profits/amp/",
-      "publishedDateTime": "2020-10-06T21:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-ea-ceo-teases-new-machine-learning-and-ai-features-for-next-gen-games.md",
-      "title": "EA CEO teases new machine learning and AI features for next-gen games",
-      "excerpt": "EA's new experimental technologies like AI/machine learning will start manifesting in next-gen PlayStation 5, Xbox Series X games.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/75521/ea-ceo-teases-new-machine-learning-and-ai-features-for-next-gen-games/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/75521/ea-ceo-teases-new-machine-learning-and-ai-features-for-next-gen-games/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tweaktown.com/images/news/7/5/75521_6_ea-ceo-teases-new-machine-learning-and-ai-features-for-next-gen-games_full.png",
-          "width": 1200,
-          "height": 722,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.tweaktown.com/news/75521/ea-ceo-teases-new-machine-learning-and-ai-features-for-next-gen-games/amp.html",
-      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/75521/ea-ceo-teases-new-machine-learning-and-ai-features-for-next-gen-games/amp.html",
-      "publishedDateTime": "2020-10-06T20:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://techwireasia.com/amp/2020/10/facial-recognition-tech-will-bo
 cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/10/facial-recognition-tech-will-boost-biometric-id-acceptance-in-sea/"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Airport facial recognition could soon handle masks, biometric boarding pilot begins in Brazil"
+    excerpt: "The use of facial biometrics in airport systems is increasing in France and around the world, and the country’s national data protection regulator, CNIL, is cautioning stakeholders to ensure that"
+    publishedDateTime: 2020-10-13T17:38:00Z
+    webUrl: "https://www.biometricupdate.com/202010/airport-facial-recognition-could-soon-handle-masks-biometric-boarding-pilot-begins-in-brazil"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 43
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/13132346/airport-facial-recognition-masks.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Vein biometrics could answer security challenges of face recognition"
     excerpt: "Vein recognition is a biometric modality around which activity has picked up substantially, in terms of research but also pilots and new products. Nok Nok Labs VP of Products Rolf Lindeman tells"
     publishedDateTime: 2020-10-12T17:01:00Z

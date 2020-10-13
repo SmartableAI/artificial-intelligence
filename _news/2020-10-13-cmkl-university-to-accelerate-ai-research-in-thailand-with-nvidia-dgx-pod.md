@@ -1,31 +1,29 @@
 ---
 category: news
-title: "CMKL University To Accelerate AI Research In Thailand With NVIDIA DGX POD"
-excerpt: "NVIDIA today announced another large deployment in Southeast Asia of the NVIDIA DGX POD AI accelerated computing infrastructure to drive artificial intelligence (AI) research at CMKL University in Thailand."
-publishedDateTime: 2020-10-13T04:09:00Z
-originalUrl: "https://www.scoop.co.nz/stories/SC2010/S00024/cmkl-university-to-accelerate-ai-research-in-thailand-with-nvidia-dgx-pod.htm"
-webUrl: "https://www.scoop.co.nz/stories/SC2010/S00024/cmkl-university-to-accelerate-ai-research-in-thailand-with-nvidia-dgx-pod.htm"
-ampWebUrl: "https://m.scoop.co.nz/stories/SC2010/S00024/cmkl-university-to-accelerate-ai-research-in-thailand-with-nvidia-dgx-pod.htm"
-cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/SC2010/S00024/cmkl-university-to-accelerate-ai-research-in-thailand-with-nvidia-dgx-pod.htm"
+title: "CMKL University to Accelerate AI Research in Thailand with NVIDIA DGX POD"
+excerpt: "NVIDIA announced another large deployment in Southeast Asia of the NVIDIA DGX POD AI accelerated computing infrastructure to drive"
+publishedDateTime: 2020-10-13T16:55:00Z
+originalUrl: "https://www.hpcwire.com/off-the-wire/cmkl-university-to-accelerate-ai-research-in-thailand-with-nvidia-dgx-pod/"
+webUrl: "https://www.hpcwire.com/off-the-wire/cmkl-university-to-accelerate-ai-research-in-thailand-with-nvidia-dgx-pod/"
 type: article
-quality: 58
-heat: 58
+quality: 38
+heat: 38
 published: false
 
 provider:
-  name: Scoop
-  domain: scoop.co.nz
+  name: HPCwire
+  domain: hpcwire.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://m.scoop.co.nz/stories/images/1802/firstunion.png"
-    width: 380
-    height: 380
+  - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/Cerebras-CS-1-cropped-405x228.jpg"
+    width: 405
+    height: 228
     isCached: true
 
-secured: "rCZK89kIQTxgw8y0l6kTrdx5+loSwCEMHNtRsFNCxyAtPdaO6B0VLhkjXJRW2p3gkoPJXFOFCBGVZrPvw9cHkMGZpdlOSZ1yw9nJ1ogf2qH0HZw9SKYqJKreq+0GyPluM9tL3af1OemTOu6mBXd3X2thtkBmUXKZxZVqbxKXMxegQ9lnDJRjSapIiOxDnnPHDorjibj751Pagw5JzTxLVsRwI982dd+ERruYEr79HQ40AvCgDzsVL2+iRCM/HlTd2pMde/ThcVXjRPa9bU9JqPygQkWuiAtzmljstjHopDS2RPhm3FppCWkWQWrMwEU/OZRkH6Fpyqp15eZxmqCOs/XfGy/7YQOJ3wIRej3wQ3u5WF56YBzCO1deQsQbHUkPm9CL38Aht6OnDfhZiXjQ7Jo5BvcZhv9R9vU/c31qPjTokkthNT3dkLNaoefkWeIlkoJev8+me5m8yjEJoM7XYrQpyyZ7x7Ay8sFBr9MIvxV7L2LdWU835HNCOHHB4Oo2rFkCtBkcQ133PuMv+A28aA==;l+F0LNwzp4sUtu3QVVhkJA=="
+secured: "H5ZD7mLM55Ngf1KsTVsxN4avrd6VKW8klpU1rghpzKWQfEzmi+DDwtmcUA/6JokDrfTguSFJ0ZuysZfhOrGEYAf24xbXgD1+a1KNddvgZr7ErIJ+LaliPvsYyrOdrbZGtttIAFXO7k7sEdHp515psXPWQ5RCbPBAZBEjmM1EfrXWOKxjRIYsGBSKavezkdqxtLxtbIQzDPSCdFHi9ktyVATFGsWHJzmfTCI+o3hXDcB8ZkPb3zDWi4Dl35mO6pIMD+HeRVqaw2sr1S9knlx7vXX4ovYdC3wd+3K9wJyfwOKoKLwIWrh/NIdNmM7xGEM/j+7r/hn8FCADFcRBs58NKnGiM5V7myr9pGPtB8ae40w=;P/LUtsdFiJA3zI1x3/XLgw=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-29-cognitive-services-market-swot-analysis-and-surge-from-2020-2026-microsoft-ibm-aws-google-etc.md",
+      "title": "Cognitive Services Market Swot Analysis And Surge From 2020-2026 | Microsoft, IBM, AWS, Google, etc.",
+      "excerpt": "Some of the key companies profiled in the report include Microsoft, IBM, AWS, Google, Nuance Communications, Baidu, SAS, Qualcomm Technologies, Nokia, TCS, and Apple. The Cognitive Services ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2145583/cognitive-services-market-swot-analysis-and-surge-from",
+      "originalUrl": "https://www.openpr.com/news/2145583/cognitive-services-market-swot-analysis-and-surge-from",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/9/T929977171_g.jpg",
+          "width": 800,
+          "height": 501,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2145583/cognitive-services-market-swot-analysis-and-surge-from",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2145583/cognitive-services-market-swot-analysis-and-surge-from",
+      "publishedDateTime": "2020-09-29T02:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-28-aws-inferentia-is-now-available-in-11-aws-regions-with-best-in-class-performance-for-running-object-detection-models-at-scale.md",
       "title": "AWS Inferentia is now available in 11 AWS Regions, with best-in-class performance for running object detection models at scale",
       "excerpt": "AWS has expanded the availability of Amazon EC2 Inf1 instances to four new AWS Regions, bringing the total number of supported Regions to 11: US East (N. Virginia, Ohio), US West (Oregon), Asia Pacific (Mumbai, Singapore, Sydney, Tokyo), Europe (Frankfurt, Ireland, Paris), and South America (S&atilde;o",
@@ -1373,58 +1416,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-how-amazon-is-using-machine-learning-to-eliminate-915000-tons-of-packaging.md",
-      "title": "How Amazon is using machine learning to eliminate 915,000 tons of packaging",
-      "excerpt": "ML has reduced Amazon's use of boxes from 69% to 42%, eliminating 915,000 tons of packaging material, and reducing carbon emissions significantly.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/14/how-amazon-is-using-machine-learning-to-eliminate-915000-tons-of-packaging/",
-      "originalUrl": "https://venturebeat.com/2020/09/14/how-amazon-is-using-machine-learning-to-eliminate-915000-tons-of-packaging/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/Amazon-RPM-Counter.jpg?w=300&resize=323%2C215&strip=all",
-          "width": 323,
-          "height": 215,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/14/how-amazon-is-using-machine-learning-to-eliminate-915000-tons-of-packaging/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/14/how-amazon-is-using-machine-learning-to-eliminate-915000-tons-of-packaging/amp/",
-      "publishedDateTime": "2020-09-14T07:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI",
         "AWS AI"
       ]

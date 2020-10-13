@@ -2,6 +2,108 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-09-voice-assistants-dont-work-for-kids-the-problem-with-speech-recognition-in-the-classroom.md",
+      "title": "Voice assistants don’t work for kids: The problem with speech recognition in the classroom",
+      "excerpt": "Young \"remote learners\" often struggle to navigate the keyboards, menus, and interfaces required to make good on the promise of education technology.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/09/voice-assistants-dont-work-for-kids-the-problem-with-speech-recognition-in-the-classroom/",
+      "originalUrl": "https://techcrunch.com/2020/09/09/voice-assistants-dont-work-for-kids-the-problem-with-speech-recognition-in-the-classroom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/vocalpitchchangeswithage.jpg?w=680",
+          "width": 680,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/09/voice-assistants-dont-work-for-kids-the-problem-with-speech-recognition-in-the-classroom/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/09/voice-assistants-dont-work-for-kids-the-problem-with-speech-recognition-in-the-classroom/amp/",
+      "publishedDateTime": "2020-09-09T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-researchers-data-set-pinpoints-challenges-adapting-speech-recognition-models-to-new-hardware.md",
+      "title": "Researchers’ data set pinpoints challenges adapting speech recognition models to new hardware",
+      "excerpt": "Researchers developed a data set -- Libra-Adapt -- designed to show the challenges in adapting voice recognition models to new devices and settings.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/09/researchers-data-set-pinpoints-challenges-adapting-speech-recognition-models-to-new-hardware/",
+      "originalUrl": "https://venturebeat.com/2020/09/09/researchers-data-set-pinpoints-challenges-adapting-speech-recognition-models-to-new-hardware/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/03/mvimg_20180316_123236-e1527729518370.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/09/researchers-data-set-pinpoints-challenges-adapting-speech-recognition-models-to-new-hardware/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/09/researchers-data-set-pinpoints-challenges-adapting-speech-recognition-models-to-new-hardware/amp/",
+      "publishedDateTime": "2020-09-09T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-09-how-ai-is-impacting-customer-experience-in-fintech-vb-live.md",
       "title": "How AI is impacting customer experience in fintech (VB Live)",
       "excerpt": "Learn how companies like MasterCard are implementing AI and NLP strategies that transform how fintech customer experience is done.",

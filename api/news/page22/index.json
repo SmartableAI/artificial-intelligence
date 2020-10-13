@@ -2,6 +2,328 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-09-23-police-commission-to-review-lapds-facial-recognition-use-after-times-report.md",
+      "title": "Police Commission to review LAPD’s facial recognition use after Times report",
+      "excerpt": "The Los Angeles Police Commission on Tuesday said it would review the city Police Department’s use of facial recognition software and how it compared with programs in other major cities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/california/story/2020-09-22/la-police-commission-review-lapd-facial-recognition-use",
+      "originalUrl": "https://www.latimes.com/california/story/2020-09-22/la-police-commission-review-lapd-facial-recognition-use",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/7d4f744/2147483647/strip/true/crop/2160x1411+0+15/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F61%2Fb6%2Fbc9c16f9413a936c8274be8e184c%2Fendorsement-final.jpg",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/california/story/2020-09-22/la-police-commission-review-lapd-facial-recognition-use?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2020-09-22/la-police-commission-review-lapd-facial-recognition-use?_amp=true",
+      "publishedDateTime": "2020-09-22T13:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-experian-and-biocatch-provide-a-global-financial-services-provider-with-a-73-lift-in-fraud-detection.md",
+      "title": "Experian and BioCatch Provide a Global Financial Services Provider With a 73% Lift in Fraud Detection",
+      "excerpt": "Amidst the pandemic, consumers have progressively shifted more and more of their activities online. Concurrently, there has been a surge",
+      "sourceUrl": null,
+      "webUrl": "https://www.paymentsjournal.com/experian-and-biocatch-provide-a-global-financial-services-provider-with-a-73-lift-in-fraud-detection/",
+      "originalUrl": "https://www.paymentsjournal.com/experian-and-biocatch-provide-a-global-financial-services-provider-with-a-73-lift-in-fraud-detection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.paymentsjournal.com/wp-content/uploads/2020/09/broken-padlock-computer-keyboard-as-concept-broken-digital-security_263726-106.jpg",
+          "width": 626,
+          "height": 414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.paymentsjournal.com/experian-and-biocatch-provide-a-global-financial-services-provider-with-a-73-lift-in-fraud-detection/amp/",
+      "cdnAmpWebUrl": "https://www-paymentsjournal-com.cdn.ampproject.org/c/s/www.paymentsjournal.com/experian-and-biocatch-provide-a-global-financial-services-provider-with-a-73-lift-in-fraud-detection/amp/",
+      "publishedDateTime": "2020-09-22T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PaymentsJournal",
+        "domain": "paymentsjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-correcting-and-replacing-ses-becomes-microsoft-azure-orbital-founding-connectivity-partner.md",
+      "title": "CORRECTING and REPLACING SES Becomes Microsoft Azure Orbital Founding Connectivity Partner",
+      "excerpt": "SES Becomes Microsoft Azure Orbital Founding Connectivity Partner (Photo: Business Wire) The updated release reads: SES BECOMES MICROSOFT AZURE ORBITAL FOUNDING CONNECTIVITY PARTNER SES’s proven low-latency MEO managed services to be part of Microsoft’s new multi-orbit satellite connectivity integrated with Azure,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/business-wire/17a08d01d2314154b83e6bfa51a8632b",
+      "originalUrl": "https://apnews.com/business-wire/17a08d01d2314154b83e6bfa51a8632b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-ses-becomes-microsoft-azure-orbital-founding-connectivity-partner.md",
+      "title": "SES Becomes Microsoft Azure Orbital Founding Connectivity Partner",
+      "excerpt": "SES's proven low-latency MEO managed services to be part of Microsoft's new multi-orbit satellite connectivity integrated with Azure, promising optimized cloud",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/09/b17611271/ses-becomes-microsoft-azure-orbital-founding-connectivity-partner",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/09/b17611271/ses-becomes-microsoft-azure-orbital-founding-connectivity-partner",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200922005927/en/823710/4/SES_Press_Release_SES_Becomes_Microsoft_Azure_Orbital_Founding_Connectivity_Partner_image.jpg",
+          "width": 480,
+          "height": 310,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17611271",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17611271",
+      "publishedDateTime": "2020-09-22T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-contact-center-ai-software-market-2020-global-trend-segmentation-and-opportunities-forecast-to-2026.md",
+      "title": "Contact Center AI Software Market 2020 Global Trend, Segmentation and Opportunities Forecast To 2026",
+      "excerpt": "Sep 22, 2020 (Heraldkeepers) -- New Study Reports “Contact Center AI Software Market 2020 Global Market Opportunities, Challenges, Strategies and Forecasts 2026” has been Added on WiseGuyReports. The fundamental dynamics that are explored in the report ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/contact-center-ai-software-market-2020-global-trend-segmentation-and-opportunities-forecast-to-2026-2020-09-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/contact-center-ai-software-market-2020-global-trend-segmentation-and-opportunities-forecast-to-2026-2020-09-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T11:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-microsoft-releases-the-innereye-deep-learning-toolkit-to-improve-patient-care.md",
+      "title": "Microsoft releases the InnerEye Deep Learning Toolkit to improve patient care",
+      "excerpt": "With this in mind, the team released the InnerEye Deep Learning Toolkit as open-source software today. Built on top of PyTorch and integrated heavily with Microsoft Azure, the toolkit is meant to ease the process of training and deploying models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-releases-the-innereye-deep-learning-toolkit-to-improve-patient-care",
+      "originalUrl": "https://www.neowin.net/news/microsoft-releases-the-innereye-deep-learning-toolkit-to-improve-patient-care",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/09/1600790738_1400x788_innereye_still_nologo-5f653b8eedf12_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-releases-the-innereye-deep-learning-toolkit-to-improve-patient-care/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-releases-the-innereye-deep-learning-toolkit-to-improve-patient-care/",
+      "publishedDateTime": "2020-09-22T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-brainframe-smart-vision-ai-developers-kit-is-accelerating-computer-vision-applications.md",
+      "title": "BrainFrame: Smart Vision AI Developers Kit Is Accelerating Computer Vision Applications",
+      "excerpt": "Imagine being able to embark on a real-time computer vision project in a few hours, with no code to build a traffic control system, a warehouse monitoring system, or an in-store point of sale optimization system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/junwu1/2020/09/22/brainframe-smart-vision-ai-developers-kit-is-accelerating-computer-vision-applications/",
+      "originalUrl": "https://www.forbes.com/sites/junwu1/2020/09/22/brainframe-smart-vision-ai-developers-kit-is-accelerating-computer-vision-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a29457ce62549d45493de%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/junwu1/2020/09/22/brainframe-smart-vision-ai-developers-kit-is-accelerating-computer-vision-applications/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/09/22/brainframe-smart-vision-ai-developers-kit-is-accelerating-computer-vision-applications/amp/",
+      "publishedDateTime": "2020-09-22T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-global-regenerative-medicine-market-report-2020-2024-with-impact-analysis-of-covid-19-artificial-intelligence-to-advance-regenerative-medicine.md",
       "title": "Global Regenerative Medicine Market Report 2020-2024 with Impact Analysis of COVID-19 - Artificial Intelligence to Advance Regenerative Medicine",
       "excerpt": "Whereas, the market growth would be further supported by various market trends like three dimensional bioprinting , artificial intelligence ... by Products (Cell Therapy, Tissue Engineering ...",
@@ -854,332 +1176,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-sams-club-partners-with-seattle-startup-98point6-to-offer-customers-telehealth-service.md",
-      "title": "Sam’s Club partners with Seattle startup 98point6 to offer customers telehealth service",
-      "excerpt": "Sam's Club, a division of Walmart, is promoting Seattle startup 98point6 as a telehealth service for its customers. The grocery giant will offer virtual healthcare through 98point6, a",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/sams-club-partners-seattle-startup-98point6-offer-customers-telehealth-service/",
-      "originalUrl": "https://www.geekwire.com/2020/sams-club-partners-seattle-startup-98point6-offer-customers-telehealth-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/04/98point6_Homescreen_Lifestyle1-Landscape-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/sams-club-partners-seattle-startup-98point6-offer-customers-telehealth-service/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/sams-club-partners-seattle-startup-98point6-offer-customers-telehealth-service/amp/",
-      "publishedDateTime": "2020-09-22T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-this-is-an-ai-whats-your-emergency.md",
-      "title": "This is an AI, what's your emergency?",
-      "excerpt": "Complex emergencies are getting far too complex for human dispatchers to coordinate, so AI/ML is the new norm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/this-is-an-ai-whats-your-emergency/",
-      "originalUrl": "https://www.zdnet.com/article/this-is-an-ai-whats-your-emergency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/09/20/19687817-bd0c-4d01-9a10-1e9f74f0621e/emergency-response.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-is-an-ai-whats-your-emergency/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-is-an-ai-whats-your-emergency/",
-      "publishedDateTime": "2020-09-22T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-ai-as-service-projected-to-witness-vigorous-expansion-by-2020-2025.md",
-      "title": "AI as Service Projected to Witness Vigorous Expansion by 2020-2025",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Sep 22, 2020 (PRNews Times via COMTEX) -- The GlobalAI as Service Market will be analyzed on the basis of key market vendors, their product benchmarking, SWOT analysis, and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-as-service-projected-to-witness-vigorous-expansion-by-2020-2025-2020-09-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-as-service-projected-to-witness-vigorous-expansion-by-2020-2025-2020-09-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T02:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-artificial-intelligence-ai-in-construction-market-study-covid-19-impact-analysis-growth-factors-outlook-till-2028.md",
-      "title": "Artificial Intelligence (AI) in Construction Market Study COVID-19 Impact Analysis, Growth Factors, Outlook Till 2028",
-      "excerpt": "An estimated 51.2 % of the global population was using internet by the end of 2018 - International Telecommunication",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-study-covid-19-impact-analysis-growth-factors-outlook-till-2028-2020-09-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-study-covid-19-impact-analysis-growth-factors-outlook-till-2028-2020-09-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T01:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-build-powerful-and-responsible-ai-solutions-with-azure.md",
-      "title": "Build powerful and responsible AI solutions with Azure",
-      "excerpt": "As organizations assess safely reopening and continue navigating unexpected shifts in the world, getting insights to respond in an agile and conscientious manner is vital.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/build-powerful-and-responsible-ai-solutions-with-azure/",
-      "originalUrl": "https://azure.microsoft.com/blog/build-powerful-and-responsible-ai-solutions-with-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T01:00:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-iit-madras-faculty-develop-ai-models-to-process-text-in-11-indian-regional-languages.md",
-      "title": "IIT Madras Faculty Develop AI Models to Process Text in 11 Indian Regional Languages",
-      "excerpt": "Indian Institute of Technology Madras Faculty has developed Artificial Intelligence Models and datasets to process texts in 11 Indian Regional Languages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.voicendata.com/iit-madras-faculty-develop-ai-models-process-text-11-indian-regional-languages/",
-      "originalUrl": "https://www.voicendata.com/iit-madras-faculty-develop-ai-models-process-text-11-indian-regional-languages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.voicendata.com/wp-content/uploads/2020/09/AI-and-Machine-Learning-Models-in-Business.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.voicendata.com/iit-madras-faculty-develop-ai-models-process-text-11-indian-regional-languages/amp/",
-      "cdnAmpWebUrl": "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/iit-madras-faculty-develop-ai-models-process-text-11-indian-regional-languages/amp/",
-      "publishedDateTime": "2020-09-22T00:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Voicendata.com",
-        "domain": "voicendata.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-danforth-center-to-play-role-in-new-20m-federal-artificial-intelligence-institute.md",
-      "title": "Danforth Center to play role in new $20M federal artificial intelligence institute",
-      "excerpt": "I'm excited to be part of a fantastic team of colleagues in diverse disciplines ranging from artificial intelligence to robotics to plant biology,” said Mockler. “The AIFARMS institute is poised to address fundamental challenges facing world ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.11alive.com/article/news/local/business-journal/danforth-center-federal-artificial-intelligence-institute/63-e0a2f815-6829-4494-adf3-19d4a673c0d0",
-      "originalUrl": "https://www.11alive.com/article/news/local/business-journal/danforth-center-federal-artificial-intelligence-institute/63-e0a2f815-6829-4494-adf3-19d4a673c0d0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.11alive.com/assets/KSDK/images/e2a0510b-f6e3-41e6-85cb-149cd541767f/e2a0510b-f6e3-41e6-85cb-149cd541767f_750x422.jpg",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.11alive.com/amp/article/news/local/business-journal/danforth-center-federal-artificial-intelligence-institute/63-e0a2f815-6829-4494-adf3-19d4a673c0d0",
-      "cdnAmpWebUrl": "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/local/business-journal/danforth-center-federal-artificial-intelligence-institute/63-e0a2f815-6829-4494-adf3-19d4a673c0d0",
-      "publishedDateTime": "2020-09-21T23:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "11Alive",
-        "domain": "11alive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
