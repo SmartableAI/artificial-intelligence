@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-06-xbox-series-xs-machine-learning-auto-hdr-renders-stunning-results.md",
+      "title": "Xbox Series X’s machine-learning auto-HDR renders stunning results",
+      "excerpt": "Xbox Series X and S can apply this effect to games that launched before television HDR was even invented. I’ve tested auto-HDR in a number of backward compatible games on a preview version of the Xbox Series X hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/06/xbox-series-xs-machine-learning-auto-hdr-renders-stunning-results/",
+      "originalUrl": "https://venturebeat.com/2020/10/06/xbox-series-xs-machine-learning-auto-hdr-renders-stunning-results/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/Yakuza-HDR.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/06/xbox-series-xs-machine-learning-auto-hdr-renders-stunning-results/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/06/xbox-series-xs-machine-learning-auto-hdr-renders-stunning-results/amp/",
+      "publishedDateTime": "2020-10-06T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-this-ai-startup-helps-hospitals-navigate-operational-troubles-of-covid-19-and-beyond.md",
       "title": "This AI Startup Helps Hospitals Navigate Operational Troubles Of Covid-19 And Beyond",
       "excerpt": "M Health Fairview, one of the largest health systems in Minnesota, got an urgent message from one of its vendors: Mountain View, California-based artificial intelligence startup Qventus. The 13-hospital system had contracted the company to help streamline its operations,",
@@ -1132,56 +1183,6 @@
         "AI Hardware",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-nasa-releases-images-of-the-first-craters-on-mars-discovered-by-ai.md",
-      "title": "NASA releases images of the first craters on Mars discovered by AI",
-      "excerpt": "The AI tool spotted a cluster of craters that were created when a meteor shattered over Mars earlier this decade.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/10/05/nasa-releases-images-of-the-first-craters-on-mars-discovered-by-ai/",
-      "originalUrl": "https://thenextweb.com/neural/2020/10/05/nasa-releases-images-of-the-first-craters-on-mars-discovered-by-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-05T121503.426-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/10/05/nasa-releases-images-of-the-first-craters-on-mars-discovered-by-ai/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/05/nasa-releases-images-of-the-first-craters-on-mars-discovered-by-ai/amp/",
-      "publishedDateTime": "2020-10-05T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

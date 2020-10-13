@@ -2,6 +2,39 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2020-09-09-self-driving-buses-being-tested-across-japan-let-you-pay-with-your-face.md",
+      "title": "Self-driving buses being tested across Japan let you pay with your face",
+      "excerpt": "Being cautious is certainly wise, but we really seem to be dragging our collective heels when it comes to self-driving vehicles. Considering in Japan reports of cars barreling straight into storefronts seem to happen frequently, it’s hard to imagine ...",
+      "sourceUrl": null,
+      "webUrl": "https://japantoday.com/category/tech/Self-driving-buses-being-tested-across-Japan-let-you-pay-with-your-face?comment-order=oldest",
+      "originalUrl": "https://japantoday.com/category/tech/Self-driving-buses-being-tested-across-Japan-let-you-pay-with-your-face?comment-order=oldest",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-08T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Japan Today",
+        "domain": "japantoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-09-3-ways-ai-will-continue-to-accelerate-the-transition-to-remote-work.md",
       "title": "3 Ways AI Will Continue To Accelerate The Transition To Remote Work",
       "excerpt": "In response to the Covid-19 pandemic, businesses of all shapes and sizes have had to quickly adapt to remote work. Many experts predict that this year’s rapid transition to remote work constitutes a point of no return.",
@@ -1121,48 +1154,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-chatbots-at-the-front-line-of-online-therapy-brains-byte-back-podcast.md",
-      "title": "Chatbots at the front line of online therapy (Brains Byte Back podcast)",
-      "excerpt": "Many of us have probably interacted with chatbots, perhaps even without knowing, when interacting with businesses, but what if chatbots were not just designed to help businesses, but also our mental health.",
-      "sourceUrl": null,
-      "webUrl": "https://sociable.co/web/chatbots-at-the-front-line-of-online-therapy-brains-byte-back-podcast/",
-      "originalUrl": "https://sociable.co/web/chatbots-at-the-front-line-of-online-therapy-brains-byte-back-podcast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sociable.co/wp-content/uploads/2020/09/bbb-chatbots.png",
-          "width": 640,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://sociable.co/web/chatbots-at-the-front-line-of-online-therapy-brains-byte-back-podcast/amp/",
-      "cdnAmpWebUrl": "https://sociable-co.cdn.ampproject.org/c/s/sociable.co/web/chatbots-at-the-front-line-of-online-therapy-brains-byte-back-podcast/amp/",
-      "publishedDateTime": "2020-09-08T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sociable",
-        "domain": "sociable.co",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

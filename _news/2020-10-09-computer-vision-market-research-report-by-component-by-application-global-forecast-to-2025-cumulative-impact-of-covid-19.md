@@ -1,25 +1,27 @@
 ---
 category: news
 title: "Computer Vision Market Research Report by Component, by Application - Global Forecast to 2025 - Cumulative Impact of COVID-19"
-excerpt: "Reportlinker.com announces the release of the report \"Computer Vision Market Research Report by Component, by Application"
-publishedDateTime: 2020-10-08T22:29:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/10/g17845162/computer-vision-market-research-report-by-component-by-application-global-forecast-to-2025-cumulat"
-webUrl: "https://www.benzinga.com/pressreleases/20/10/g17845162/computer-vision-market-research-report-by-component-by-application-global-forecast-to-2025-cumulat"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17845162"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17845162"
+excerpt: "Reportlinker.com announces the release of the report \"Computer Vision Market Research Report by Component, by Application - Global Forecast to 2025 - Cumulative Impact of COVID-19\" -  The Global Computer Vision Market is expected to grow from USD 11,"
+publishedDateTime: 2020-10-08T22:40:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/computer-vision-market-research-report-by-component-by-application-global-forecast-to-2025-cumulative-impact-of-covid-19-1029664022"
+webUrl: "https://markets.businessinsider.com/news/stocks/computer-vision-market-research-report-by-component-by-application-global-forecast-to-2025-cumulative-impact-of-covid-19-1029664022"
 type: article
-quality: 12
-heat: 12
+quality: 22
+heat: 22
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
-secured: "La+R88PjBSthKHmHk3jFdpYpi1svLhQgK+UghZQgONszvppDTpXukWpf+9lVYT2z2gU3bZN2JwRDvJRZPoTIHpMto+UbVQ02jeL0I8FT0xc1xaQqgHE+rBp+42VP86P0jlbt+JyoN+Ad8RYBDH3k6oCQqci2DXekz9fksHczLzUTqFQA4t9Jx9EOU/9aWyi5xFQjiB4zsSaI41nioccB271YxQqN7kx4GJbWqbk4yllWQDn7kmA3w1eK4bdF+ETYUp8A81DCP1rEw7+ylq1jMzwUsU+UE0HGBmGaexOX43FRm/v0tRU8DAdCnVvrMRhuVBz4SMcMLi/kvELetAZpZNWe3tBniroX87r2u8c9Nik=;fnYEP+N8xOqBd/pY3Imn3g=="
+secured: "CvRnyYxsUr8Q7Bt1hPt6uyFmlHC9xYXYgMkPcfOhx6hgAqKljpopWcdFr2kQ2te3REYX2tguD+HWX8Mc+HojF6I/nQiMzCofTfHt5bwaNO+HExUGwXriUBA9gXn2Tm8iXvLn9GrRdKBvMNh3N45bt27M+LU7WAef617954p6Byv/U59PmdIf3nFlPRwbjQyu/25joCNMa5S6hrtyLOh7VyedmqJ6YXdAwgEgY/lhA4JKERd6bLXEwr1J4cqQ6Ti+gJE5dbLQ+hjmGCkw89+sHo977peTjL9beazTEQwNqVfMMYXIFWxzw6/82b/cv17sSO9af3HXPrURioQxb2EywvkXdAcYxVVn+WooZ8+grmc=;AWffl8fz9sjqzrQ/oy0Tig=="
 ---
 

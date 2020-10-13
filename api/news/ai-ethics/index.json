@@ -10,7 +10,7 @@
       "originalUrl": "https://www.techrepublic.com/article/microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 203,
       "tags": null,
       "images": [
         {
@@ -50,7 +50,8 @@
       "topics": [
         "AI Ethics",
         "AI",
-        "Microsoft AI"
+        "Microsoft AI",
+        "Computer Vision"
       ]
     },
     {

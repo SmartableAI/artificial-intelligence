@@ -2,6 +2,56 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-10-05-nasa-releases-images-of-the-first-craters-on-mars-discovered-by-ai.md",
+      "title": "NASA releases images of the first craters on Mars discovered by AI",
+      "excerpt": "The AI tool spotted a cluster of craters that were created when a meteor shattered over Mars earlier this decade.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/10/05/nasa-releases-images-of-the-first-craters-on-mars-discovered-by-ai/",
+      "originalUrl": "https://thenextweb.com/neural/2020/10/05/nasa-releases-images-of-the-first-craters-on-mars-discovered-by-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-05T121503.426-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/10/05/nasa-releases-images-of-the-first-craters-on-mars-discovered-by-ai/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/05/nasa-releases-images-of-the-first-craters-on-mars-discovered-by-ai/amp/",
+      "publishedDateTime": "2020-10-05T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry.md",
       "title": "IBM Brings Artificial Intelligence At Scale To The Marketing And Media Industry",
       "excerpt": "IBM today announced three new products to add to its growing suite of AI solutions for brand and publishers. IBM intends to work with industry leaders, including Xandr/AT&T, Magnite, Nielsen, MediaMath,",
@@ -1057,56 +1107,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-there-is-already-a-beer-created-by-artificial-intelligence.md",
-      "title": "There is already a beer created by Artificial Intelligence",
-      "excerpt": "To carry out this project, the creators chose the Indian Pale Ale type of beer. Technology has become a large part of our lives and with it Artificial Intelligence (AI) has intruded into our daily lives, so much so that with the help of it we have been ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/357127",
-      "originalUrl": "https://www.entrepreneur.com/article/357127",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1601668159-Depositphotos-57033799-l-2015.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/357127",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/357127",
-      "publishedDateTime": "2020-10-02T12:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

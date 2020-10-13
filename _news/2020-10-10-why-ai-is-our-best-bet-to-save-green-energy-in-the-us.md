@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ibtimes.com/why-ai-our-best-bet-save-green-energy-us-305
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/why-ai-our-best-bet-save-green-energy-us-3059936?amp=1"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 1200
     height: 803
     isCached: true
-
-related:
-  - title: "Breakthrough in energy efficient artificial intelligence"
-    excerpt: "Thanks to a mathematical breakthrough, AI applications can become a hundred to a thousand times more energy efficient. This will make it possible to put much more elaborate AI in chips, enabling applications to run on a smartphone or smartwatch where before this was done in the cloud."
-    publishedDateTime: 2020-10-08T06:34:00Z
-    webUrl: "https://www.cwi.nl/news/2020/scientific-breakthrough-in-energy-efficient-ai"
-    type: article
-    provider:
-      name: CWI
-      domain: www.cwi.nl
-    quality: 19
 
 secured: "k9BDovWatZvWZzt+M6aFqIZewY8GRZv2+61/dZg/NNVs7HN1DSwn8d88SwwN+HxnbevvDXfGV3UUDCr3FLYWb2l6YB4zvZAn3ub7fKb5olWEdg4jIUYvYiwzs+4OJx/Z3Zsu9jw1OpC0HVNcQ6bO2EXUib1Zkw6iz2zl3AkFeKnv3BwDDt+VcZWDWnDH2Jo1EbWlrHLAwqJCHeIT5K/wKm3W8aIuGyeXlVesI3yFsqz0ruAYp92FltXWK7LZZjBMJZP4OQcyMLsB9LLHs9UiVb7E4l2HuWvLpPS2EXo9cRp5FjIhsSomWl6Scj1ND2K8x7wFVaSK7gWqUsBfMe7zJPSAjtPm3Rv52tV7WgiDSPM2iqscTP2UzyUP1maDY5RqzuS5KJiC0+gGQgd+OHVsNghfOFhCA2V6fAebcYvVgR3IIRYNCgnitL/KE2tEjmLCDLwUqA2I7mf8ykxKE6jVRHrZQrpWL8ikvu0zUbpRJCO1bFrboc37jFNnj+FjGovfnpbnTQq1Sk8Gil3mkaeVTQ==;6483Go+XcUQ3VcuSkZ1nZQ=="
 ---

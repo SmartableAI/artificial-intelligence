@@ -8,8 +8,8 @@ webUrl: "https://www.techrepublic.com/article/microsoft-wants-ai-to-be-more-help
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs/"
 type: article
-quality: 101
-heat: 131
+quality: 103
+heat: 203
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - AI Ethics
   - AI
   - Microsoft AI
+  - Computer Vision
 
 images:
   - url: "https://tr3.cbsistatic.com/hub/i/r/2018/06/28/1491d2a1-5b91-4521-a753-791b9f03ed42/resize/1200x/0a58b39878159fc665d3cd9d948840c6/istock-873015278.jpg"
@@ -32,6 +33,38 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft parteners chip maker Arm to boost AI innovation for IoT devices"
+    excerpt: "SoftBank-owned UK chip maker Arm has partnered with Microsoft to create Azure-based tools to enable developers transfer data from Arm-based Internet of Things (IoT) devices to Azure Cloud"
+    publishedDateTime: 2020-10-09T05:56:00Z
+    webUrl: "https://www.business-standard.com/article/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 90
+    images:
+      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-09/29/full/1601348370-9773.jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Microsoft partners chip maker Arm to boost AI innovation for IoT devices"
+    excerpt: "SoftBank-owned UK chip maker Arm has partnered with Microsoft to create Azure-based tools to enable developers transfer data from Arm-based Internet of Things (IoT) devices to Azure Cloud"
+    publishedDateTime: 2020-10-12T04:17:00Z
+    webUrl: "https://www.business-standard.com/article/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 90
+    images:
+      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-09/29/full/1601348370-9773.jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Microsoft’s Cecily Morrison awarded MBE for services to inclusive design"
     excerpt: "The post Microsoft’s Cecily Morrison awarded MBE for services to inclusive design appeared first on The AI Blog.\n"
     publishedDateTime: 2020-10-10T15:36:31Z
@@ -62,6 +95,52 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft partners with ARM to improve AI innovation for IoT products"
+    excerpt: "Microsoft partners with ARM to improve AI innovation for IoT products.The partnership will allow developers to target a large range of ARM-based devices."
+    publishedDateTime: 2020-10-09T15:53:00Z
+    webUrl: "https://www.theindianwire.com/ai/microsoft-partners-with-arm-to-improve-ai-innovation-for-iot-products-294431/"
+    ampWebUrl: "https://www.theindianwire.com/ai/microsoft-partners-with-arm-to-improve-ai-innovation-for-iot-products-294431/?amp"
+    cdnAmpWebUrl: "https://www-theindianwire-com.cdn.ampproject.org/c/s/www.theindianwire.com/ai/microsoft-partners-with-arm-to-improve-ai-innovation-for-iot-products-294431/?amp"
+    type: article
+    provider:
+      name: The Indian Wire
+      domain: theindianwire.com
+    quality: 74
+    images:
+      - url: "https://www.theindianwire.com/wp-content/uploads/2020/10/1601348370-9773.jpg"
+        width: 620
+        height: 464
+        isCached: true
+  - title: "Microsoft, ARM partner to improve AI innovation for IoT products: Know how"
+    excerpt: "devices to Azure Cloud. The partnership will enable developers to easily target a broad range of Arm-based devices like intelligent computer-vision-enabled cameras, connected vehicles, AI gateways and intelligent appliances. With over 30 billion active IoT ..."
+    publishedDateTime: 2020-10-09T06:33:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news-microsoft-arm-collaborate-for-improved-ai-in-iot-devices-655568"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-microsoft-arm-collaborate-for-improved-ai-in-iot-devices-655568"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-microsoft-arm-collaborate-for-improved-ai-in-iot-devices-655568"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 72
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/09/microsoft-1601391325.jpg"
+        width: 1199
+        height: 674
+        isCached: true
+  - title: "Microsoft, chip maker Arm to boost AI innovation for IoT devices"
+    excerpt: "SoftBank-owned UK chip maker Arm has partnered with Microsoft to create Azure-based tools to enable developers transfer data from Arm-based Internet of Things (IoT) devices to Azure Cloud. The partner"
+    publishedDateTime: 2020-10-09T07:20:00Z
+    webUrl: "https://www.dailypioneer.com/2020/technology/microsoft--chip-maker-arm-to-boost-ai-innovation-for-iot-devices.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 71
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/microsoft--chip-maker-arm-to-boost-ai-innovation-for-iot-devices-2020-10-09.jpg"
+        width: 1000
+        height: 800
+        isCached: true
   - title: "UCSF teams with Microsoft, others to fast-track AI in healthcare: 5 details"
     excerpt: "University of California San Francisco teamed Microsoft Azure, Intel and Fortanix to establish a confidential computing platform that will accelerate the development and validation of clinical algorithms."
     publishedDateTime: 2020-10-08T14:28:00Z
@@ -76,7 +155,30 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Microsoft Touts Arm Partnership on Edge Devices and Azure Tools"
+    excerpt: "Microsoft and Arm are collaborating on Azure developer tools for 'intelligent edge devices' that use artificial intelligence, per a Thursday announcement."
+    publishedDateTime: 2020-10-09T22:36:00Z
+    webUrl: "https://rcpmag.com/articles/2020/10/09/microsoft-and-arm-edge-device-partnership.aspx"
+    type: article
+    provider:
+      name: Redmond Channel Partner
+      domain: rcpmag.com
+    quality: 54
+    images:
+      - url: "https://rcpmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2016/1216vrm_CrankyAdmin_Image1.jpg"
+        width: 647
+        height: 450
+        isCached: true
+  - title: "ZEISS joins Microsoft for data-driven healthcare"
+    excerpt: "ZEISS, a German manufacturer of optical systems and optoelectronics, and Microsoft has inked a multi-year strategic partnership for better patient care through data-driven healthcare and enhance quality and efficiency in manufacturing by embracing a cloud-first approach."
+    publishedDateTime: 2020-10-08T17:32:00Z
+    webUrl: "https://www.sify.com/movies/zeiss-joins-microsoft-for-data-driven-healthcare-news-bollywood-ukigPvegbiagc.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 36
 
-secured: "AzPmXhNpcMqPWgq9Nn3fsYhGcBy00J8ipNp24uYSKpJ4YATpun5QV7FRN1nEGB1LqcCZbJLdIOef75tcSaf76Xuorlzo/GsNUYNFqi6JLCSwBDO57HF+qXedGkPv94V5oMOAR/7R7K6e+O32X2v+cdJaALMxTDUogBmWFUrx69yUD6ZE6RifEQgHaMiuegUm/RaPnHAWKs0IBdYw4Cbyjc0dIfWQ7hMdCp5d4fGM5esqqf5aS7QuTktqzjhffgfcj4iz/uRe//CgmdzH0VD4+pMaten6oXEOmM1x2POvN1JIVLpO6yoKMbacPkwTOrlhFeMy+0ZHHrgu5l7xYgVhz8A0M91N92guFI61T57IPnQ=;hYD/XlGdfw1nJGWCQMpmCQ=="
+secured: "fHYYW+WUm2om7ZCCl4sA1BbE1i0yJz4nKubLgqJ5ZAWqpeBaE3Xt7WWeaH282+H1FLldtgwgvIUjo2ni2oZ06JgHO7L5PuTWOjkr6+/Rus1gI/SvQSzPig6cpW3c3amfu7pmwgxRITJlVbF7Ata7/n4DMNiqIJZWdQaOLL20yn4DghbSGOcfpPrhjQQ8TIiylyXv1B+IfmusiU7Ffb24SngQWktRc6Fn0SEj2cIZnm0aT5uRcK7E5WXTVSThoOwoZGUI3+7gcL8TIZEoaZfPxrkvDUv6KL70WOHHCQwsfou0TY+/Vrlmeu316Oz/VBknUpyl+l3H9vrDps/hy46HmiJspuPIHs4RELmBOYoxK7FG7028jJsrLB7M3LfYe5eqKDrONAlxebTn6TooFA6Ip4hgJ3FoRHb+dsfukTRIIgyeKT6f9FNPkK5Wpz/c9tO802csA9jsOioFqNfXR25Ytl3BvuAB48DypN/JCLQTxjJrykr+h7yW2yyn9q5XqD/p/T+5UF9VRazqjXpQzY0iGw==;mNXitLQhhSxuOm5T+PP+7A=="
 ---
 

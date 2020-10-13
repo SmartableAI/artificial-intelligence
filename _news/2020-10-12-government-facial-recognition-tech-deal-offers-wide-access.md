@@ -25,131 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition software helps identify missing teen"
-    excerpt: "A 13-year-old autistic boy who went missing from Uttar Pradesh five years ago was traced at a child home in Assam with the help of facial recognition tool of Telangana police ‘Darpan’. He was reunited with his parents on Friday."
-    publishedDateTime: 2020-10-09T16:36:00Z
-    webUrl: "https://www.thehindu.com/news/national/telangana/facial-recognition-software-helps-identify-missing-teen/article32816177.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/telangana/facial-recognition-software-helps-identify-missing-teen/article32816177.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/facial-recognition-software-helps-identify-missing-teen/article32816177.ece/amp/"
+  - title: "Facial recognition deal opens access to public and private parties"
+    excerpt: "The government has done a deal over facial recognition technology that throws access to it wide open. The Department of Internal Affairs has signed a master agreement with a leading global biometrics tech supplier that just about any organisation,"
+    publishedDateTime: 2020-10-11T19:14:00Z
+    webUrl: "https://www.nzherald.co.nz/technology/facial-recognition-deal-opens-access-to-public-and-private-parties/WYCET4X7G5BMLQYSELSD7LBHBA/"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Home Office's facial recognition software 'systemically racist'"
-    excerpt: "An investigation into facial recognition software used to check passport photos found it was more than twice as likely to reject pictures of black women than white men."
-    publishedDateTime: 2020-10-09T01:01:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-8821801/Home-Offices-facial-recognition-software-systemically-racist.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-8821801/amp/Home-Offices-facial-recognition-software-systemically-racist.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8821801/amp/Home-Offices-facial-recognition-software-systemically-racist.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 59
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/10/09/01/34174796-0-image-a-117_1602205033570.jpg"
-        width: 636
-        height: 382
-        isCached: true
-  - title: "Face recognition tool reunites UP boy with parents after 5 years"
-    excerpt: "Hyderabad: A 13-year-old autistic boy who went missing from near his house in Uttar Pradesh five years ago was traced to a Child Welfare Home in Assam."
-    publishedDateTime: 2020-10-09T22:44:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/hyderabad/face-recognition-tool-reunites-up-boy-with-parents-after-5-years/articleshow/78582144.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/hyderabad/face-recognition-tool-reunites-up-boy-with-parents-after-5-years/amp_articleshow/78582144.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/face-recognition-tool-reunites-up-boy-with-parents-after-5-years/amp_articleshow/78582144.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/photo/msid-47529300/47529300.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "California bar exam takers say facial recognition software rejected them"
-    excerpt: "Questions of fairness algorithms dogged California’s first remote bar exam as test takers of color reported problems with facial recognition software. The company that made the software denied discriminatory intent."
-    publishedDateTime: 2020-10-08T11:40:00Z
-    webUrl: "https://www.sfchronicle.com/business/article/California-bar-exam-takers-say-facial-recognition-15629617.php"
-    ampWebUrl: "https://www.sfchronicle.com/business/amp/California-bar-exam-takers-say-facial-recognition-15629617.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/business/amp/California-bar-exam-takers-say-facial-recognition-15629617.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 58
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/45/23/20075758/5/375x250.jpg"
-        width: 375
-        height: 249
-        isCached: true
-  - title: "Face recognition tool reunites Uttar Pradesh boy with parents after 5 years"
-    excerpt: "Hyderabad: Telangana State police's face recognition tool 'Darpan' has helped reunite a missing boy from Uttar Pradesh with his parents after five years. Som Soni, a resident of Handia in ..."
-    publishedDateTime: 2020-10-09T14:24:00Z
-    webUrl: "https://gulfnews.com/technology/face-recognition-tool-reunites-uttar-pradesh-boy-with-parents-after-5-years-1.1602246616056"
-    ampWebUrl: "https://gulfnews.com/amp/technology/face-recognition-tool-reunites-uttar-pradesh-boy-with-parents-after-5-years-1.1602246616056"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/face-recognition-tool-reunites-uttar-pradesh-boy-with-parents-after-5-years-1.1602246616056"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 57
-    images:
-      - url: "https://imagevars.gulfnews.com/2020/10/09/20201009-darpan_1750d5c11df_large.jpg"
-        width: 750
-        height: 563
-        isCached: true
-  - title: "Boy missing from UP found in Assam after 5 years with help of Telangana Police's facial recognition software"
-    excerpt: "The Golapara Police of Assam spotted Sam, and admitted him to the local child welfare centre Naveen S GarewalTribune News ServiceHyderabad, October 9"
-    publishedDateTime: 2020-10-09T15:05:00Z
-    webUrl: "https://www.tribuneindia.com/news/schools/boy-missing-from-up-found-in-assam-after-5-years-with-help-of-telangana-polices-facial-recognition-software-153319"
-    ampWebUrl: "https://www.tribuneindia.com/news/schools/boy-missing-from-up-found-in-assam-after-5-years-with-help-of-telangana-polices-facial-recognition-software-153319"
-    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/schools/boy-missing-from-up-found-in-assam-after-5-years-with-help-of-telangana-polices-facial-recognition-software-153319"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 40
-    images:
-      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/10/2020_10$largeimg_1014741573.jpg"
-        width: 660
-        height: 440
-        isCached: true
-  - title: "Face recognition tool reunites UP boy with parents after 5 years"
-    excerpt: "The missing boy was found by Goalpara police on July 23, 2015 and was sent to the Child Welfare Centre Telangana State police's face recognition tool 'Darpan' has helped reunite a missing boy from Uttar Pradesh with his parents after five years."
-    publishedDateTime: 2020-10-09T12:07:00Z
-    webUrl: "https://www.tribuneindia.com/news/nation/face-recognition-tool-reunites-up-boy-with-parents-after-5-years-153319"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
+      name: The New Zealand Herald
+      domain: nzherald.co.nz
     quality: 39
     images:
-      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/10/2020_10$largeimg_1014741573.jpg"
-        width: 660
-        height: 440
-        isCached: true
-  - title: "Nigerian teens design phone app which helps dementia patients identify loved ones by showing them photos and plays them uplifting songs if facial recognition senses a change in ..."
-    excerpt: "Irish girls took first place in the the Technovation World Summit with an app that helps dementia patients and caretakers. Memory Haven includes memory games and photo albums."
-    publishedDateTime: 2020-10-09T21:28:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8824059/Nigerian-Irish-teens-win-international-prize-app-helps-people-dementia.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8824059/amp/Nigerian-Irish-teens-win-international-prize-app-helps-people-dementia.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8824059/amp/Nigerian-Irish-teens-win-international-prize-app-helps-people-dementia.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 6
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/10/09/21/34208010-0-image-a-26_1602274978382.jpg"
-        width: 636
-        height: 382
+      - url: "https://www.nzherald.co.nz/resizer/z_KV0bXxbvv_DCZtGHsbff6ujSY=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/RZPFWX7I2GZDU3MHXMT3BKUDZA.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "WVAKJjqBYUUQIHC1543cBIxW6YgLANss0bSyo6LV1DJrysYM0kEvTl47S4W698/C91//3MfUzSlSwIi3A3wMLDbsiXVRzIJyKYD3pdM0ZSrt7o5pfExh7dBSSqr7An9brrKRIvAjT6tOzZythnp61reZnQcSf6a/oNbSyjWvdi/6eWkT7RZsQVRZi4BQK2C0uRE3F3gI6F6NnER9l80jt6MpCk0+0hZKegr6/m9/WEWDwzGQOCbjjDHzNWFR1FUIELDZL2e+sDR6u/fF4x+auVM3PdhR3p7piGwh+MsZNIPszMllTeqnsXJu8PFksAXDuENse8aRjP/rOXyf9rIFrRz5fSyEf6C1ucqtOR0TN+x+gXLaf0hVKiX36GKjpvXdp8OW+fBQwKHQevjo9cNeRMKaiDpdFChXhSfZ2SizM+dxcOJ7ZBEsWonpLJMDgwEi/AzG6xzkcHEnjBLZX52dBv4fiCeF2hb1/P3mPyD9DRc/OZ6h6rnar1wqt76IG/cIGtzfvZVLBNh5E36LHRgkcQ==;C8NNwXO2DYDx7DIH6Ylf8A=="

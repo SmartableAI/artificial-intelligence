@@ -2,6 +2,108 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-16-over-1000-parents-sign-open-letter-protesting-facial-recognition-in-schools.md",
+      "title": "Over 1,000 parents sign open letter protesting facial recognition in schools",
+      "excerpt": "More than 1,000 parents from all 50 U.S. states signed an open letter advocating for a ban on facial recognition in schools.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/16/over-1000-parents-sign-open-letter-protesting-facial-recognition-in-schools/",
+      "originalUrl": "https://venturebeat.com/2020/09/16/over-1000-parents-sign-open-letter-protesting-facial-recognition-in-schools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/block_image-e1597092687237.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/16/over-1000-parents-sign-open-letter-protesting-facial-recognition-in-schools/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/16/over-1000-parents-sign-open-letter-protesting-facial-recognition-in-schools/amp/",
+      "publishedDateTime": "2020-09-16T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-16-computer-vision-market-in-deep-analysis-and-experts-review-report-2020-2025.md",
+      "title": "Computer Vision Market In-deep Analysis And Experts Review Report 2020-2025",
+      "excerpt": "The report titled \"Computer Vision Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-in-deep-analysis-and-experts-review-report-2020-2025-2020-09-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-in-deep-analysis-and-experts-review-report-2020-2025-2020-09-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-16T00:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-16-best-facial-recognition-home-security-cameras-of-2020.md",
       "title": "Best facial recognition home security cameras of 2020",
       "excerpt": "Select home security cameras have facial recognition, a feature that lets you make a database of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your profile of known faces.",
@@ -1268,81 +1370,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-3-start-ups-selected-for-innovation-challenge.md",
-      "title": "3 start-ups selected for Innovation Challenge",
-      "excerpt": "Three start-ups have been selected to develop proof-of-concept (PoC) systems in the RTX Innovation Challenge in Computer Vision that aerospace and defence company Raytheon Technologies had ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/cities/Hyderabad/3-start-ups-selected-for-innovation-challenge/article32518345.ece",
-      "originalUrl": "https://www.thehindu.com/news/cities/Hyderabad/3-start-ups-selected-for-innovation-challenge/article32518345.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th.thgim.com/static/theme/default/base/img/og-image.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/news/cities/Hyderabad/3-start-ups-selected-for-innovation-challenge/article32518345.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Hyderabad/3-start-ups-selected-for-innovation-challenge/article32518345.ece/amp/",
-      "publishedDateTime": "2020-09-03T16:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-israels-rafael-anyvision-to-form-face-recognition-jv-for-defence.md",
-      "title": "Israel's Rafael, AnyVision to form face recognition JV for defence",
-      "excerpt": "Israel's Rafael Advanced Defense Systems said on Thursday it planned to establish a joint venture with startup AnyVision to apply facial recognition technologies to military systems, while AnyVision raised $43 million in a private funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/israels-rafael-anyvision-to-form-face-recognition-jv-for-defence-2020-09-03",
-      "originalUrl": "https://www.nasdaq.com/articles/israels-rafael-anyvision-to-form-face-recognition-jv-for-defence-2020-09-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/israels-rafael-anyvision-to-form-face-recognition-jv-for-defence-2020-09-03?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/israels-rafael-anyvision-to-form-face-recognition-jv-for-defence-2020-09-03?amp",
-      "publishedDateTime": "2020-09-03T12:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

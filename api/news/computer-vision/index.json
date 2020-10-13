@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-13-microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs.md",
+      "title": "Microsoft wants AI to be more helpful for people who are blind or use wheelchairs",
+      "excerpt": "Transparency and Ethics (FATE) in AI group, said in the blog post. SEE: Natural language processing: A cheat sheet (TechRepublic) Topic areas range from personalized image recognition for blind or low-vision people to improved facial recognition for people ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs/",
+      "originalUrl": "https://www.techrepublic.com/article/microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 203,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2018/06/28/1491d2a1-5b91-4521-a753-791b9f03ed42/resize/1200x/0a58b39878159fc665d3cd9d948840c6/istock-873015278.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs/",
+      "publishedDateTime": "2020-10-12T13:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-10-12-amazon-rekognition-adds-support-for-six-new-content-moderation-categories.md",
       "title": "Amazon Rekognition adds support for six new content moderation categories",
       "excerpt": "Amazon Rekognition content moderation is a deep learning-based service that can detect inappropriate, unwanted, or offensive images and videos, making it easier to find and remove such content at scale. Amazon Rekognition provides a detailed taxonomy of moderation categories, such as Explicit Nudity,",
@@ -54,6 +107,48 @@
       ]
     },
     {
+      "path": "_news/2020-10-12-in-singapore-facial-recognition-is-getting-woven-into-everyday-life.md",
+      "title": "In Singapore, facial recognition is getting woven into everyday life",
+      "excerpt": "Citizens of the island state will soon use their face to sign in to pay taxes and access over 400 digital services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/tech-news/singapore-facial-recognition-getting-woven-everyday-life-n1242945",
+      "originalUrl": "https://www.nbcnews.com/tech/tech-news/singapore-facial-recognition-getting-woven-everyday-life-n1242945",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_39/3414967/200925-singapore-face-recognition-al-1030_8d8fed63df4768948a8bd02b8f9dfc21.jpg",
+          "width": 2500,
+          "height": 1407,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1242945",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242945",
+      "publishedDateTime": "2020-10-12T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-12-microsoft-partners-with-team-gleason-to-build-a-computer-vision-dataset-for-als.md",
       "title": "Microsoft partners with Team Gleason to build a computer vision dataset for ALS",
       "excerpt": "The organizations hope to foster innovation in computer vision and broaden the potential for connectivity and communication for people with accessibility challenges. Microsoft and Team Gleason ...",
@@ -62,7 +157,7 @@
       "originalUrl": "https://venturebeat.com/2020/10/12/microsoft-partners-with-team-gleason-to-build-a-computer-vision-dataset-for-als/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 172,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -157,7 +252,7 @@
       "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-to-buy-this-year/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -251,34 +346,34 @@
       ]
     },
     {
-      "path": "_news/2020-10-09-facial-recognition-software-helps-identify-missing-teen.md",
-      "title": "Facial recognition software helps identify missing teen",
-      "excerpt": "A 13-year-old autistic boy who went missing from Uttar Pradesh five years ago was traced at a child home in Assam with the help of facial recognition tool of Telangana police ‘Darpan’. He was reunited with his parents on Friday.",
+      "path": "_news/2020-10-10-face-recognition-tool-reunites-up-boy-with-parents-after-5-years.md",
+      "title": "Face recognition tool reunites UP boy with parents after 5 years",
+      "excerpt": "Hyderabad: A 13-year-old autistic boy who went missing from near his house in Uttar Pradesh five years ago was traced to a Child Welfare Home in Assam.",
       "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/national/telangana/facial-recognition-software-helps-identify-missing-teen/article32816177.ece",
-      "originalUrl": "https://www.thehindu.com/news/national/telangana/facial-recognition-software-helps-identify-missing-teen/article32816177.ece",
+      "webUrl": "https://timesofindia.indiatimes.com/city/hyderabad/face-recognition-tool-reunites-up-boy-with-parents-after-5-years/articleshow/78582144.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/city/hyderabad/face-recognition-tool-reunites-up-boy-with-parents-after-5-years/articleshow/78582144.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://th.thgim.com/static/theme/default/base/img/og-image.jpg",
-          "width": 300,
-          "height": 300,
+          "url": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/news/national/telangana/facial-recognition-software-helps-identify-missing-teen/article32816177.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/facial-recognition-software-helps-identify-missing-teen/article32816177.ece/amp/",
-      "publishedDateTime": "2020-10-09T09:36:00-07:00",
+      "ampWebUrl": "https://m.timesofindia.com/city/hyderabad/face-recognition-tool-reunites-up-boy-with-parents-after-5-years/amp_articleshow/78582144.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/face-recognition-tool-reunites-up-boy-with-parents-after-5-years/amp_articleshow/78582144.cms",
+      "publishedDateTime": "2020-10-09T15:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
+        "name": "India Times",
+        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1365,100 +1460,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-study-indicates-neither-algorithmic-differences-nor-diverse-data-sets-solve-facial-recognition-bias.md",
-      "title": "Study indicates neither algorithmic differences nor diverse data sets solve facial recognition bias",
-      "excerpt": "Facial recognition models fail to recognize Black, Middle Eastern, and Latino people more often than those with lighter skin. That’s according to a study by researchers at Witchita State ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/28/study-indicates-neither-algorithmic-differences-nor-diverse-data-sets-solve-facial-recognition-bias/",
-      "originalUrl": "https://venturebeat.com/2020/09/28/study-indicates-neither-algorithmic-differences-nor-diverse-data-sets-solve-facial-recognition-bias/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/biometrics-e1601309807874.jpg?w=1200&#038;strip=all",
-          "width": 1198,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/28/study-indicates-neither-algorithmic-differences-nor-diverse-data-sets-solve-facial-recognition-bias/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/28/study-indicates-neither-algorithmic-differences-nor-diverse-data-sets-solve-facial-recognition-bias/amp/",
-      "publishedDateTime": "2020-09-28T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-amazon-made-rekognition-software-now-able-to-detect-fear.md",
-      "title": "Amazon-made Rekognition software now able to detect fear",
-      "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/video/amazon-rekognition-adds-fear/",
-      "originalUrl": "https://mashable.com/video/amazon-rekognition-adds-fear/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2019%252F08%252F14%252F5c%252Fd535431604e94fd58731c9b7cc541e31.7b409.jpg%252F1200x630.jpg?signature=kObCpPJ-dBTpK78Z0j4YY8TPxt4=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/video/amazon-rekognition-adds-fear.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/amazon-rekognition-adds-fear.amp",
-      "publishedDateTime": "2020-09-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

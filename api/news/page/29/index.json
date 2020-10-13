@@ -2,6 +2,57 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-09-15-reducing-training-time-with-apache-mxnet-and-horovod-on-amazon-sagemaker.md",
+      "title": "Reducing training time with Apache MXNet and Horovod on Amazon SageMaker",
+      "excerpt": "Amazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning (ML) models quickly. Amazon SageMaker removes the heavy lifting from each step of the ML process to make it easier to develop high-quality models.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reducing-training-time-with-apache-mxnet-and-horovod-on-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reducing-training-time-with-apache-mxnet-and-horovod-on-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/11/1-Ring-allreduce.jpg",
+          "width": 900,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-15T14:16:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-16-10-british-ai-startups-to-look-out-for-in-2016.md",
       "title": "10 British AI startups to look out for in 2016",
       "excerpt": "Google-owned startup DeepMind, a group of approximately 140 people aiming to solve intelligence, is arguably one of the most interesting technology companies operating in the UK right now.",
@@ -1111,39 +1162,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-nvidia-arm-deal-revs-up-chip-industry-4-stocks-in-focus.md",
-      "title": "NVIDIA-Arm Deal Revs Up Chip Industry: 4 Stocks in Focus",
-      "excerpt": "NVIDIA is now well poised to upscale its inference technology, robust drivers, and accelerators by utilizing Arm’s robust architecture and chip designs. Arm acquisition is expected to aid NVIDIA in offering end-to-end ecosystem of technology across the data center,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/nvidia-arm-deal-revs-up-chip-industry%3A-4-stocks-in-focus-2020-09-15",
-      "originalUrl": "https://www.nasdaq.com/articles/nvidia-arm-deal-revs-up-chip-industry%3A-4-stocks-in-focus-2020-09-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/nvidia-arm-deal-revs-up-chip-industry%3A-4-stocks-in-focus-2020-09-15?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidia-arm-deal-revs-up-chip-industry%3A-4-stocks-in-focus-2020-09-15?amp",
-      "publishedDateTime": "2020-09-15T07:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

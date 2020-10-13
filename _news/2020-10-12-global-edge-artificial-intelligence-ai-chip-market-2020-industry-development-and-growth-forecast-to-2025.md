@@ -79,6 +79,15 @@ related:
         width: 1661
         height: 1125
         isCached: true
+  - title: "Global Artificial Intelligence in Education Market Innovative Trends, Driving Factors and Growth Analysis 2020-2025"
+    excerpt: "MarketandResearch.biz has released a new market research report namely, Global Artificial Intelligence in Education Market Growth (Status and Outlook) 2020-2025 that will provide you every microscopic detail about the market."
+    publishedDateTime: 2020-10-12T23:08:00Z
+    webUrl: "https://ipsnews.net/business/2020/10/09/global-artificial-intelligence-in-education-market-innovative-trends-driving-factors-and-growth-analysis-2020-2025/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 0
 
 secured: "XcRd+iKPaJd1kF+ZtygQ6GcMF0K03Gy729nmjbg4TFoK6TRaOu1qjQaoshcyOxf3ztwZ93T0h5M9RR3xhW9LzhnxszbxlZoCghSR4WnirvYKHF8jCQW0v/kQ88sP8oOe5EejR4g0p76iQfpVQjnzuSbBfjElExtW77BANQ/5DdJyu0AYRAL7W5Fx8v4Rjs6mpqfCxDzk1vI1FsSLqOEM48miXB73oyZbynLjUKpeGg10krlK3vawwWEf1nIxN8q9UEyidm524ek7pGFShB0AJo3Xl9BEq1XnXio9Zh6KUo9wbHrNUWuetJ/jZ+DcyKnkC4PeIUQPL+s/eYBxCGGHDux9V4zu9FC2wAUDA2QsHQU=;SqpBy6KdLJDurviqAT+djg=="
 ---

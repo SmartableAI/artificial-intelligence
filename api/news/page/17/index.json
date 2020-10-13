@@ -2,6 +2,57 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-09-25-ai-system-detects-loneliness-in-natural-speech-patterns.md",
+      "title": "AI system detects loneliness in natural speech patterns",
+      "excerpt": "A new proof of concept study, led by researchers at University of California San Diego School of Medicine, has demonstrated how speech-analyzing artificial intelligence tools can effectively predict the level of loneliness in older adults.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/health-wellbeing/ai-loneliness-natural-speech-language/",
+      "originalUrl": "https://newatlas.com/health-wellbeing/ai-loneliness-natural-speech-language/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/78f4ee9/2147483647/strip/true/crop/2000x1333+0+4/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fc1%2F6c%2F6dec48c041d6aa9d714bfb5dfa8a%2Fdepositphotos-59728757-l-2015.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/health-wellbeing/ai-loneliness-natural-speech-language/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/health-wellbeing/ai-loneliness-natural-speech-language/?amp=true",
+      "publishedDateTime": "2020-09-24T19:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.md",
       "title": "Microsoft Ignite showcases first Project Cortex AI tool for SharePoint",
       "excerpt": "Civil engineering firm Mott McDonald has been testing SharePoint Syntex, the first product to come out of Microsoft’s Project Cortex proving ground for AI-based content management tools.",
@@ -1156,57 +1207,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-nvidias-most-powerful-1500-gpu-sold-out-in-minutes.md",
-      "title": "Nvidia's Most Powerful, $1,500 GPU Sold Out In Minutes",
-      "excerpt": "Within minutes of it going on sale at 6 a.m. Eastern, it had sold out on Nvidia's official site, online electronics retailer Newegg, and B&H.  Nvidia launched it’s RTX 3080 last week and sold out in seconds.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en_us/article/jgx7pb/nvidias-most-powerful-dollar1500-gpu-sold-out-in-minutes",
-      "originalUrl": "https://www.vice.com/en_us/article/jgx7pb/nvidias-most-powerful-dollar1500-gpu-sold-out-in-minutes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com//articles/5f6cb091ec90ba0095871394/lede/1600958744805-knmhdjg.jpeg?crop=1xw:0.75xh;center,center",
-          "width": 1500,
-          "height": 843,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en_us/article/jgx7pb/nvidias-most-powerful-dollar1500-gpu-sold-out-in-minutes",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/jgx7pb/nvidias-most-powerful-dollar1500-gpu-sold-out-in-minutes",
-      "publishedDateTime": "2020-09-24T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

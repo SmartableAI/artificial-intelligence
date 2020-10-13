@@ -71,6 +71,17 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "Maine voters to decide on strengthening facial recognition ban"
+    excerpt: "This year, residents of Portland, Maine, will vote on a proposal to add enforcements to the ordinance that bans the"
+    publishedDateTime: 2020-10-12T23:21:00Z
+    webUrl: "https://whdh.com/news/maine-voters-to-decide-on-strengthening-facial-recognition-ban/"
+    ampWebUrl: "https://whdh.com/news/maine-voters-to-decide-on-strengthening-facial-recognition-ban/amp/"
+    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/maine-voters-to-decide-on-strengthening-facial-recognition-ban/amp/"
+    type: article
+    provider:
+      name: WHDH
+      domain: whdh.com
+    quality: 54
   - title: "Best facial recognition security cameras to buy this year - CNET"
     excerpt: "As President Trump’s National Security Advisor, John Bolton spent many of his 453 days in the room where it happened, and the facts speak for themselves. The result is a White House memoir that is the most comprehensive and substantial account of the Trump Administration,"
     publishedDateTime: 2020-10-11T08:35:00Z

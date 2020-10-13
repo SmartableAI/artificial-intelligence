@@ -2,6 +2,48 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-09-28-ai-artificial-intelligence-chip-market.md",
+      "title": "AI (Artificial Intelligence) Chip Market",
+      "excerpt": "The latest study on the AI Artificial Intelligence Chip market published by the Reports and Data offers a deep understanding of the various market dynamics such as the challenges drivers trends and opportunities The report further elaborates on the micro",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2144662/ai-artificial-intelligence-chip-market-scope-and-growing",
+      "originalUrl": "https://www.openpr.com/news/2144662/ai-artificial-intelligence-chip-market-scope-and-growing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/9/T928328884_g.jpg",
+          "width": 650,
+          "height": 303,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2144662/ai-artificial-intelligence-chip-market-scope-and-growing",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2144662/ai-artificial-intelligence-chip-market-scope-and-growing",
+      "publishedDateTime": "2020-09-28T05:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-28-worldwide-voice-recognition-biometrics-market-is-forecast-to-grow-by-usd-260-billion-during-2020-2024-progressing-at-a-cagr-of-19.md",
       "title": "Worldwide Voice Recognition Biometrics Market is Forecast to Grow by USD 2.60 Billion During 2020-2024, Progressing at a CAGR of 19%",
       "excerpt": "The \"Global Voice Recognition Biometrics Market 2020-2024\" report has been added to ResearchAndMarkets.com's offering. The voice recognition biometrics market is poised to grow by USD 2.60 billion during 2020-2024 progressing at a CAGR of 19% during the forecast period.",
@@ -1079,56 +1121,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-using-artificial-intelligence-to-tame-the-most-volatile-asset-class-in-history.md",
-      "title": "Using Artificial Intelligence To Tame The Most Volatile Asset Class In History",
-      "excerpt": "The digital asset space, also known as cryptocurrencies, has seen a precipitous rise in popularity this year in spite of being highly volatile as these digital assets have also recorded the most successful gains in all of the recorded history of money markets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2020/09/25/using-artificial-intelligence-to-tame-the-most-volatile-asset-class-in-history/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2020/09/25/using-artificial-intelligence-to-tame-the-most-volatile-asset-class-in-history/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6e46911dd414185365cccd%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D625%26cropY2%3D4000",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2020/09/25/using-artificial-intelligence-to-tame-the-most-volatile-asset-class-in-history/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2020/09/25/using-artificial-intelligence-to-tame-the-most-volatile-asset-class-in-history/amp/",
-      "publishedDateTime": "2020-09-25T12:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

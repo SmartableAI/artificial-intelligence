@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-securit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-to-buy-this-year/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -63,6 +63,17 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "Maine voters to decide on strengthening facial recognition ban"
+    excerpt: "This year, residents of Portland, Maine, will vote on a proposal to add enforcements to the ordinance that bans the"
+    publishedDateTime: 2020-10-12T23:21:00Z
+    webUrl: "https://whdh.com/news/maine-voters-to-decide-on-strengthening-facial-recognition-ban/"
+    ampWebUrl: "https://whdh.com/news/maine-voters-to-decide-on-strengthening-facial-recognition-ban/amp/"
+    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/maine-voters-to-decide-on-strengthening-facial-recognition-ban/amp/"
+    type: article
+    provider:
+      name: WHDH
+      domain: whdh.com
+    quality: 54
   - title: "Voters to Decide on Strengthening Facial Recognition Ban"
     excerpt: "On Nov. 3, Portland voters will decide if an ordinance that would allow citizens to sue the city for illegal surveillance and require the city to suppress illegally obtained evidence, the Portland Press Herald reported. In addition, violations of the ..."
     publishedDateTime: 2020-10-12T21:56:00Z

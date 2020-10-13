@@ -2,6 +2,56 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-03-there-is-already-a-beer-created-by-artificial-intelligence.md",
+      "title": "There is already a beer created by Artificial Intelligence",
+      "excerpt": "To carry out this project, the creators chose the Indian Pale Ale type of beer. Technology has become a large part of our lives and with it Artificial Intelligence (AI) has intruded into our daily lives, so much so that with the help of it we have been ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/357127",
+      "originalUrl": "https://www.entrepreneur.com/article/357127",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1601668159-Depositphotos-57033799-l-2015.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/357127",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/357127",
+      "publishedDateTime": "2020-10-02T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-03-run-a-deep-learning-model-in-java-a-quick-take.md",
       "title": "Run a Deep Learning Model in Java: A Quick Take",
       "excerpt": "For instance, NumPy for data analysis; Matplotlib for visualizations; frameworks such as MXNet, PyTorch, TensorFlow, and many more. But there are very few resources for Java users, even though it is the most popular language in enterprise. We set out with ...",
@@ -1130,56 +1180,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-via-acquires-delivery-logistics-startup-fleetonomy-to-bolster-fulfillment-with-ai.md",
-      "title": "Via acquires delivery logistics startup Fleetonomy to bolster fulfillment with AI",
-      "excerpt": "Via acquired Fleetonomy, a startup that analyzes delivery data and delivers insights to maximize inventory and conduct proactive maintenance.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/01/via-acquires-delivery-logistics-startup-fleetonomy-to-bolster-fulfillment-with-ai/",
-      "originalUrl": "https://venturebeat.com/2020/10/01/via-acquires-delivery-logistics-startup-fleetonomy-to-bolster-fulfillment-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/232a9c02-eb55-4af8-be59-38fb161b1f93-e1601359046546.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/01/via-acquires-delivery-logistics-startup-fleetonomy-to-bolster-fulfillment-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/01/via-acquires-delivery-logistics-startup-fleetonomy-to-bolster-fulfillment-with-ai/amp/",
-      "publishedDateTime": "2020-10-01T11:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
