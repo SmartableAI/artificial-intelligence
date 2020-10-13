@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/bespoken-spirits-whiskey-startup-s
 webUrl: "https://www.businessinsider.com/bespoken-spirits-whiskey-startup-seed-funding-pitch-deck-2020-10"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Here's the pitch deck that won Silicon Valley's Bespoken Sprits $2.6 million for its 'Nespresso machine' for whisky"
-    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since DOW S&P 500 NASDAQ 100 Bespoken Spirits, the drinks startup using machine learning to age whisky faster, has raised $2.6 million in seed funding."
-    publishedDateTime: 2020-10-08T11:44:00Z
-    webUrl: "https://www.businessinsider.com/bespoken-spirits-whiskey-startup-seed-funding-pitch-deck-2020-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 32
-    images:
-      - url: "https://i.insider.com/5f7edf4cc655f6001969ed9b?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "fBqMdAx6dMLKg6BH/lvNzQZIniZCz3r64fimp7VetcwS8MPRdAvxpuYcCoXbcWxrY4ScV/7P00Q+5vx3mJf6U3wvN0I2fVFvbz2Y6hJlDkVHmf/9zy8qgQCrJC+h7fskFbJXkxI9LmrwS4TiyYZYDXxB7ByqU01t1bXa4QKsbtUbs/ySb1pa2VlaeweuavjjKm00tVwV7/ccQRL9vPV2tHpobP4e1mx4aleZcpintFQJmdQbScI4qBbqyePpAybAu2kCpmn6QoEqF6vr7eMRFmgsF9x9TxWtIg7INAtHPthyPXFvvL/WUNnNhePKyHAZMh3bqBvEMZ0q33P3VqLWI9dEZIbPE45WwdAnidKA/IE=;dPjkfwVvgMhMs4k33vBWyg=="
 ---

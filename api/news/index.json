@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-13-australian-and-new-zealand-scientists-use-ai-to-predict-heart-disease-risk.md",
+      "title": "Australian and New Zealand scientists use AI to predict heart disease risk",
+      "excerpt": "Scientists from the University of Melbourne and University of Otago have jointly developed and trained an artificial intelligence (AI) system to predict a person's risk of cardiovascular disease (CVD) by looking at the retinas of their eyes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/australian-and-new-zealand-scientists-use-ai-to-predict-heart-disease-risk/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/australian-and-new-zealand-scientists-use-ai-to-predict-heart-disease-risk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2018/03/21/e73671aa-bc24-416f-8438-c99c8a8c2675/screen-shot-2018-03-21-at-15-44-24.jpg",
+          "width": 1092,
+          "height": 694,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/australian-and-new-zealand-scientists-use-ai-to-predict-heart-disease-risk/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/australian-and-new-zealand-scientists-use-ai-to-predict-heart-disease-risk/",
+      "publishedDateTime": "2020-10-12T19:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-alphabets-latest-x-project-is-a-crop-sniffing-plant-buggy.md",
       "title": "Alphabet’s latest X project is a crop-sniffing plant buggy",
       "excerpt": "Alphabet’s X lab, the former Google division that launched the Waymo self-driving car unit and other ambitious ... of software and hardware prototypes based on breakthroughs in artificial intelligence, simulation, sensors, robotics and more,” according ...",
@@ -318,7 +368,7 @@
       "originalUrl": "https://www.reuters.com/article/us-adobe-ai-idUSKBN26X24O",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -711,7 +761,7 @@
       "originalUrl": "https://mashable.com/article/tesla-fsd-beta/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -1167,47 +1217,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-signal-noise-and-the-coming-era-of-ai-curation.md",
-      "title": "Signal, Noise and the Coming Era of AI Curation",
-      "excerpt": "A look at how \"AI curation\" is being used to figure out what's useful information in the world of crypto and what's just fluff.",
-      "sourceUrl": null,
-      "webUrl": "https://www.coindesk.com/ai-curation-speaking-of-bitcoin-podcast",
-      "originalUrl": "https://www.coindesk.com/ai-curation-speaking-of-bitcoin-podcast",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.coindesk.com/wp-content/uploads/2020/10/SOB-AI-Curation-From-Page-1200x628.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.coindesk.com/ai-curation-speaking-of-bitcoin-podcast?amp=1",
-      "cdnAmpWebUrl": "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/ai-curation-speaking-of-bitcoin-podcast?amp=1",
-      "publishedDateTime": "2020-10-11T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinDesk",
-        "domain": "coindesk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

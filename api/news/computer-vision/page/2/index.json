@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-29-cloud-native-brings-computer-vision-to-the-critical-edge.md",
+      "title": "Cloud Native Brings Computer Vision to the Critical Edge",
+      "excerpt": "EPA regulations mandate monitoring of flare stacks to ensure that the pilot flame remains lit, prompting use of off-stack thermal cameras outfitted with computer vision (CV) technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/resources/208803/cloud-native-brings-computer-vision-to-the-critical-edge",
+      "originalUrl": "https://www.computerworld.com/resources/208803/cloud-native-brings-computer-vision-to-the-critical-edge",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/ctw/computerworld-logo300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-28T11:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-study-indicates-neither-algorithmic-differences-nor-diverse-data-sets-solve-facial-recognition-bias.md",
       "title": "Study indicates neither algorithmic differences nor diverse data sets solve facial recognition bias",
       "excerpt": "Facial recognition models fail to recognize Black, Middle Eastern, and Latino people more often than those with lighter skin. That’s according to a study by researchers at Witchita State ...",
@@ -1321,57 +1363,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-aidoc-raises-20-million-more-for-its-computer-vision-medical-tools.md",
-      "title": "Aidoc raises $20 million more for its computer vision medical tools",
-      "excerpt": "Aidoc, which bills itself as an AI solutions provider for radiologists, today closed a $20 million extension to the series B it raised in April 2019.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/16/aidoc-raises-20-million-more-for-its-computer-vision-medical-tools/",
-      "originalUrl": "https://venturebeat.com/2020/09/16/aidoc-raises-20-million-more-for-its-computer-vision-medical-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/Aidoc-Covid-e1599583845771.jpeg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/16/aidoc-raises-20-million-more-for-its-computer-vision-medical-tools/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/16/aidoc-raises-20-million-more-for-its-computer-vision-medical-tools/amp/",
-      "publishedDateTime": "2020-09-16T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

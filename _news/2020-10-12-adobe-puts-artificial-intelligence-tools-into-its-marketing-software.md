@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26X24O"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X24O"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "9 AI Softwares to Keep An Eye On In 2021"
-    excerpt: "In the last few years, technological progress has reached a new high. AI or artificial intelligence is no longer an obscure buzzword used by the geeks!"
-    publishedDateTime: 2020-10-08T12:34:00Z
-    webUrl: "https://www.albawaba.com/business/9-ai-softwares-keep-eye-2021-1385415"
-    ampWebUrl: "https://www.albawaba.com/amp/business/9-ai-softwares-keep-eye-2021-1385415"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/9-ai-softwares-keep-eye-2021-1385415"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 61
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/rimshami/AIsoftware-shutterstock-8Oct20.jpg?itok=IPJHo11K"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "How Will AI Impact the Future of Marketing? We’re Teaming up with Marketing AI Institute to Find Out."
     excerpt: "Drift is teaming up with the Marketing AI Institute to better understand the true impact of AI on marketing. Be a part of this ground-breaking research here."
     publishedDateTime: 2020-10-12T14:19:00Z

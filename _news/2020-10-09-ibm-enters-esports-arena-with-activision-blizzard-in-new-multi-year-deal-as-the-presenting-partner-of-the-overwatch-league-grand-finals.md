@@ -1,28 +1,28 @@
 ---
 category: news
 title: "IBM Enters Esports Arena with Activision Blizzard in New Multi-Year Deal as the Presenting Partner of the Overwatch League Grand Finals"
-excerpt: "Those solutions, which are currently under development, will leverage IBM's suite of analytics tools to process in-match data, adding Watson's AI capabilities through the use of Watson Machine ..."
-publishedDateTime: 2020-10-09T04:11:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-1029664315"
-webUrl: "https://markets.businessinsider.com/news/stocks/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-1029664315"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-1029664315"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-1029664315"
+excerpt: "IBM's Watson artificial intelligence, and machine learning ARMONK, New York and IRVINE, California, Oct. 9, 2020 /PRNewswire/ -- Today, IBM and the Overwatch League™, the world's first ..."
+publishedDateTime: 2020-10-09T06:01:00Z
+originalUrl: "https://www.finanzen.net/nachricht/aktien/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-9375853"
+webUrl: "https://www.finanzen.net/nachricht/aktien/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-9375853"
 type: article
-quality: 22
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Finanzen
+  domain: finanzen.net
 
 topics:
   - IBM AI
   - AI
+
+images:
+  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "IBM Inks Its First-Ever Esports Deal With The Overwatch League"
@@ -154,6 +154,6 @@ related:
         height: 1206
         isCached: true
 
-secured: "+MwtLXjC8Mf5zgvA88U7oRN2c6jemneDSg4kBp0uo72Lbkxr2vF++1GmtnEsO9J9A5Nt9gS3N5H6idnkUSx0QmCtKgwxKG02OfmMdp114I0uiKZaw7ejW7OcPvqriMa1rLtK5hyA19uPNDSuMmDMlN97PNNnwG0YIFF3qXUn5rBfDpL7U3wucHUEV03NQJOqCfm6Tw3/Xx/BLubgPS9eCSz42CUIcb+MF0tl5U49OxSsmEg0xYfCsgQo9ZO0zSmZCojSCy/8vq3E4GI7fns1VhN3BB+rkfn8Cj2Q1b+J+Jd6+ZlyE73aO3VwJwNlWTp38wDyByNToZSUdk+MCo3v7aXB9+Igmc2wHgIa/YgrTkA=;BMYoDWPNSjpTfo1Z/0bOOA=="
+secured: "UJ7QMNPD9M1AJ5H7BTNfDUM+8gNmMV8lUPMRipinOihM77Flgg1FeLUZoXQhg5Vl67MjE6WpMNjVlLGTkU+IrEgdMsWNYjbKKZQim9K3dor3UeU/+Jl/IGu4hHdzTBxssLxX2rmd3YWQ+rSzWt+2C4/xgLKhqTnHEZcMI68/P9t+c5dpgk+fUbhyLZ45a6eLi6BTl/Ra4a2Ljf0BS7tNIA1CSKF9X7dd/qdr7wsAuTyPEDy0k8slxnAnb5a+r7yXlkftcAshBeiupxIEAndBms8+6wlFpbYSpyror7HJ5IdvKU2ynyMZrMWH7oqpF8vvP8K1w/OgsQSH3ib7SBxlkpmoCegzdJOPBTPuTKEQK9s=;kqx0brjlCKnCHxs8JJcjBg=="
 ---
 

@@ -40,22 +40,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "9 AI Softwares to Keep An Eye On In 2021"
-    excerpt: "In the last few years, technological progress has reached a new high. AI or artificial intelligence is no longer an obscure buzzword used by the geeks!"
-    publishedDateTime: 2020-10-08T12:34:00Z
-    webUrl: "https://www.albawaba.com/business/9-ai-softwares-keep-eye-2021-1385415"
-    ampWebUrl: "https://www.albawaba.com/amp/business/9-ai-softwares-keep-eye-2021-1385415"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/9-ai-softwares-keep-eye-2021-1385415"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 61
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/rimshami/AIsoftware-shutterstock-8Oct20.jpg?itok=IPJHo11K"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "Adobe adds AI features to its digital marketing software"
     excerpt: "Adobe's (NASDAQ:ADBE) digital marketing software now comes with integrated AI tools to help campaigns better target ads based on previously viewed or currently viewing content.The type of AI tech isn't new,"
     publishedDateTime: 2020-10-12T18:29:00Z

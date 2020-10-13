@@ -533,6 +533,48 @@
       ]
     },
     {
+      "path": "_news/2020-10-08-acuant-announces-facial-recognition-software-awarded-elite-ibeta-compliancepad-level-one-and-two.md",
+      "title": "Acuant Announces Facial Recognition Software Awarded Elite iBeta Compliance/PAD Level One and Two",
+      "excerpt": "Acuant, a leading global provider of identity verification, today announced that Acuant FaceID provides facial recognition with",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/acuant-announces-facial-recognition-software-awarded-elite-ibeta-compliancepad-level-one-and-two-301148064.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/acuant-announces-facial-recognition-software-awarded-elite-ibeta-compliancepad-level-one-and-two-301148064.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/928737/Large_Acuant_May_2019_Logo.jpg?p=facebook",
+          "width": 2145,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-08T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-facial-recognition-data-leaks-is-rampant-across-china-as-covid-19-pushes-wider-use-of-the-technology.md",
       "title": "Facial recognition data leaks is rampant across China as Covid-19 pushes wider use of the technology",
       "excerpt": "Incorrectly configured databases remains a widespread security problem in China even as citizens increasingly express concerns.",
@@ -1408,48 +1450,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-cloud-native-brings-computer-vision-to-the-critical-edge.md",
-      "title": "Cloud Native Brings Computer Vision to the Critical Edge",
-      "excerpt": "EPA regulations mandate monitoring of flare stacks to ensure that the pilot flame remains lit, prompting use of off-stack thermal cameras outfitted with computer vision (CV) technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/resources/208803/cloud-native-brings-computer-vision-to-the-critical-edge",
-      "originalUrl": "https://www.computerworld.com/resources/208803/cloud-native-brings-computer-vision-to-the-critical-edge",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ctw/computerworld-logo300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-28T11:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Tesla Will Release Full Self-Driving Beta To Some Drivers Next Week"
-excerpt: "The time has finally come. We can only hope the FSD rewrite is as profound as Elon Musk claims."
-publishedDateTime: 2020-10-12T13:46:00Z
-originalUrl: "https://insideevs.com/news/448487/tesla-release-full-self-driving-beta-next-week/"
-webUrl: "https://insideevs.com/news/448487/tesla-release-full-self-driving-beta-next-week/"
-ampWebUrl: "https://insideevs.com/news/448487/tesla-release-full-self-driving-beta-next-week/amp/"
-cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/448487/tesla-release-full-self-driving-beta-next-week/amp/"
+title: "Tesla Autopilot Self-Driving Beta Test Will Start Tuesday, Elon Musk Confirms"
+excerpt: "Tesla CEO Elon Musk announced via Twitter on Monday that the company's autopilot self-driving mode would be made available in a small beta test starting next week. The closed beta"
+publishedDateTime: 2020-10-13T05:10:00Z
+originalUrl: "https://www.ibtimes.com/tesla-autopilot-self-driving-beta-test-will-start-tuesday-elon-musk-confirms-3061130"
+webUrl: "https://www.ibtimes.com/tesla-autopilot-self-driving-beta-test-will-start-tuesday-elon-musk-confirms-3061130"
+ampWebUrl: "https://www.ibtimes.com/tesla-autopilot-self-driving-beta-test-will-start-tuesday-elon-musk-confirms-3061130?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tesla-autopilot-self-driving-beta-test-will-start-tuesday-elon-musk-confirms-3061130?amp=1"
 type: article
-quality: 59
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Inside EVs
-  domain: insideevs.com
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cdn.motor1.com/images/mgl/VZGoK/s1/musk-personally-pushes-autopilot-to-the-limit-to-improve-system.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/23/tesla-is-one-of-several-major-automakers-suing.jpg"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -107,6 +107,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Tesla Will Release Full Self-Driving Beta To Some Drivers Next Week"
+    excerpt: "The time has finally come. We can only hope the FSD rewrite is as profound as Elon Musk claims."
+    publishedDateTime: 2020-10-12T13:46:00Z
+    webUrl: "https://insideevs.com/news/448487/tesla-release-full-self-driving-beta-next-week/"
+    ampWebUrl: "https://insideevs.com/news/448487/tesla-release-full-self-driving-beta-next-week/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/448487/tesla-release-full-self-driving-beta-next-week/amp/"
+    type: article
+    provider:
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 59
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/VZGoK/s1/musk-personally-pushes-autopilot-to-the-limit-to-improve-system.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Elon Musk says Tesla will release a beta version of its 'Full Self-Driving' feature that's not fully autonomous next week to some drivers"
     excerpt: "Good Subscriber Account active since DOW S&P 500 NASDAQ 100 Tesla will release a new beta version of its \"Full Self-Driving\" driver-assistance package next week, Tesla CEO Elon Musk tweeted Monday."
     publishedDateTime: 2020-10-12T16:44:00Z
@@ -122,22 +138,6 @@ related:
       - url: "https://i.insider.com/5f847796642e9400180b5586?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Tesla Autopilot Self-Driving Beta Test Will Start Tuesday, Elon Musk Confirms"
-    excerpt: "Tesla CEO Elon Musk announced via Twitter on Monday that the company's autopilot self-driving mode would be made available in a small beta test starting next week. The closed beta"
-    publishedDateTime: 2020-10-13T05:10:00Z
-    webUrl: "https://www.ibtimes.com/tesla-autopilot-self-driving-beta-test-will-start-tuesday-elon-musk-confirms-3061130"
-    ampWebUrl: "https://www.ibtimes.com/tesla-autopilot-self-driving-beta-test-will-start-tuesday-elon-musk-confirms-3061130?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tesla-autopilot-self-driving-beta-test-will-start-tuesday-elon-musk-confirms-3061130?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 56
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/23/tesla-is-one-of-several-major-automakers-suing.jpg"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Tesla to release self-driving Beta capable of ‘zero intervention’ in a few weeks"
     excerpt: "Tesla CEO Elon Musk stated earlier today that the latest build of FSD software would be released “in a few weeks.” Musk’s idea of a completely self-driving vehicle has been evident for several years."
@@ -225,6 +225,6 @@ related:
       domain: infosurhoy.com
     quality: 10
 
-secured: "VDlzNZFrUToTqhq9Q4TauIDdzTTu+oao+nZB/SNJCuO7OUrYWZkn+o2NU5tC1yVS2SXZ3036hbmesgya6zMkHHYIo+Vb3CqvyWlCtBl0pFNHpKaDt8r4MTra9DUT7Vgh2p1Oyy+Y6XZdX32LojvWnx2aKYUsSYLk2+e4e54J1oirUCaCgXOFxzPvUsec6dyrOwD8iidMremItLOJwTONwZet+QbN3Q2zxrzxz0+F/HdOmi0wqGZimkm58zKZ1Zfme7B1sWS9puoGUVO39BVWkXX4cgaFMjWmcdrrs8fdBAlZJXS5Ow4vwbsYU3EXTzRbzZGY47VjgQJQSXOqdvkNtWClz3rMmFoE2Y7Z1vcL+HJ6xdSS9szuCq+ouuSzNYu7kxX+cGZKKRru4NTGX/WDtDq3+H5mG5tCsc1zhOVmMPhWrPELu1XkWAYh2NAWfcjaDUKRBrRS4HC25khJGXC+6odD9UFRwqnElw+GXVdLFB7Mr8nwWH8V9C0MX8CHiX61Z/fltGniVbUuWvDALmA05A==;+tpY+H7mWhh7VJOJO8oQuA=="
+secured: "NMutRSyePpYwMZO+6HLjUReGc98xRPP3502YoxC3fBOop0rXRlp+MyU5FuQWSRyK/P0aUYCA7E9NCuw3TREYh0M+IDQ3c6/Q82yVuqXw8enYfYbnVYxmKQaSF13C96FJLLx823odf6NoV8My87D6ZCbkEbfcTUpZSdCRPUbIlFk83vyu04JxqXkH4Ui564bQvx4Lg7A90/vfFL3Uimtx9P4AYQ3jiNnZm5VEvOc10pE36Wa7sv0q9ybVeO59OOyTq0X1iDpZhqQ15IzQKvXYXB+UxE0Nsgxi5jANCcWxXAtB1/r/nqXcXC+Yr/BpfZmoqnORazph4Eg5Onihs7LsL2AUgfAGZBHHIg+HeIzNKt4=;XlQf3rFiZwdCRc8u2gVZgw=="
 ---
 

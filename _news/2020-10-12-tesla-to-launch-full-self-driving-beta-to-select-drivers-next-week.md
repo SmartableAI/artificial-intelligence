@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/article/tesla-fsd-beta.amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-fsd-beta.amp"
 type: article
 quality: 104
-heat: 225
+heat: 235
 published: true
 
 provider:
@@ -122,6 +122,22 @@ related:
       - url: "https://i.insider.com/5f847796642e9400180b5586?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Tesla Autopilot Self-Driving Beta Test Will Start Tuesday, Elon Musk Confirms"
+    excerpt: "Tesla CEO Elon Musk announced via Twitter on Monday that the company's autopilot self-driving mode would be made available in a small beta test starting next week. The closed beta"
+    publishedDateTime: 2020-10-13T05:10:00Z
+    webUrl: "https://www.ibtimes.com/tesla-autopilot-self-driving-beta-test-will-start-tuesday-elon-musk-confirms-3061130"
+    ampWebUrl: "https://www.ibtimes.com/tesla-autopilot-self-driving-beta-test-will-start-tuesday-elon-musk-confirms-3061130?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tesla-autopilot-self-driving-beta-test-will-start-tuesday-elon-musk-confirms-3061130?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 56
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/23/tesla-is-one-of-several-major-automakers-suing.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Tesla to release self-driving Beta capable of ‘zero intervention’ in a few weeks"
     excerpt: "Tesla CEO Elon Musk stated earlier today that the latest build of FSD software would be released “in a few weeks.” Musk’s idea of a completely self-driving vehicle has been evident for several years."

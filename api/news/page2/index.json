@@ -2,6 +2,47 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-12-signal-noise-and-the-coming-era-of-ai-curation.md",
+      "title": "Signal, Noise and the Coming Era of AI Curation",
+      "excerpt": "A look at how \"AI curation\" is being used to figure out what's useful information in the world of crypto and what's just fluff.",
+      "sourceUrl": null,
+      "webUrl": "https://www.coindesk.com/ai-curation-speaking-of-bitcoin-podcast",
+      "originalUrl": "https://www.coindesk.com/ai-curation-speaking-of-bitcoin-podcast",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.coindesk.com/wp-content/uploads/2020/10/SOB-AI-Curation-From-Page-1200x628.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.coindesk.com/ai-curation-speaking-of-bitcoin-podcast?amp=1",
+      "cdnAmpWebUrl": "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/ai-curation-speaking-of-bitcoin-podcast?amp=1",
+      "publishedDateTime": "2020-10-11T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinDesk",
+        "domain": "coindesk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-11-best-facial-recognition-security-cameras-to-buy-this-year.md",
       "title": "Best facial recognition security cameras to buy this year",
       "excerpt": "Select home security cameras have facial recognition, an advanced option that lets you make a profile of friends and family members who regularly come to your house. Then, when the camera sees a face,",
@@ -851,48 +892,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-introducing-ifrs-17-software-with-machine-learning.md",
-      "title": "Introducing IFRS 17 Software With Machine Learning",
-      "excerpt": "Data is universally indicated as the key challenge in IFRS 17 implementations. \"We designed our IFRS 17 solution from start to finish with data quality in mind. 3Blocks has differentiated itself in this regard by adding machine learning to the arsenal of data checks and validation.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/introducing-ifrs-17-software-with-machine-learning-1029661785",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/introducing-ifrs-17-software-with-machine-learning-1029661785",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/introducing-ifrs-17-software-with-machine-learning-1029661785",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/introducing-ifrs-17-software-with-machine-learning-1029661785",
-      "publishedDateTime": "2020-10-09T04:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
