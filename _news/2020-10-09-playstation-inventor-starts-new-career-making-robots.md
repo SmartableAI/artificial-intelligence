@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "PlayStation Inventor Starts New Career Making Robots for No Pay"
-    excerpt: "Ken Kutaragi, the legendary inventor of the PlayStation gaming console, is taking on one of the hardest jobs in robotics. And he’s getting paid nothing to do it."
-    publishedDateTime: 2020-10-08T21:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-10-08/playstation-inventor-starts-new-career-making-robots-for-no-pay"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-10-08/playstation-inventor-starts-new-career-making-robots-for-no-pay"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-08/playstation-inventor-starts-new-career-making-robots-for-no-pay"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 89
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/istV08PYj0w0/v0/360x-1.jpg"
-        width: 360
-        height: 240
-        isCached: true
   - title: "PlayStation founder Ken Kutaragi has started a new career in robotics"
     excerpt: "Ken Kutaragi, the former Sony executive widely credited as ‘The Father of PlayStation’, has started a new career in the robotics industry. Since late August Kutaragi has been working as the CEO of Tokyo’s Ascent Robotics,"
     publishedDateTime: 2020-10-09T16:43:00Z
@@ -70,20 +54,6 @@ related:
       - url: "https://www.moneyweb.co.za/wp-content/uploads/2020/10/365165821-1024x683.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Video game console inventor starts new career making robots for no pay"
-    excerpt: "Ken Kutaragi, the legendary inventor of the PlayStation gaming console, is taking on one of the hardest jobs in robotics. And he’s getting paid nothing to do it."
-    publishedDateTime: 2020-10-12T02:04:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/10/12/video-game-console-inventor-starts-new-career-making-robots-for-no-pay"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2020/10/10/893762.jpg"
-        width: 1240
-        height: 826
         isCached: true
 
 secured: "WlR9VRLUIywQGd1uC/wbM0GBucAHm7yUJ5rxgkGivVhqW04Nw6UR/A103BDJvoXcJSZP+X+AofHFSajpD/ArMPrx6r1DtOJjJfuOsUQzIxOctMQFbU+7gpxJGBHJ+pZ/fTDZloGkppydE+fpLM0iZrAykOZNPReGVoQd7SxtSquBbwjMg1D1lUc4mPZ6IP0Rl6jcTVC9cIDDi6/LnrluN5KbxEz6Xf1JSamGZEqb6UEn0vj6nnRto6yHSbIejNirAvdzLC+Z3UO9MhFt+F8JhHkxzaThB2b3iGPZey5o/WxF3wqAXJZp0kQIo7+NayzicNuv2hKy0KLwiSDB6+MYjE0pypnrLPC9LVphyOg0V7h1iUEqXbCN3bAvyIvom4FpEji8GPPwUZeyxr9UpDzgIU2pNs5wUkwIFQm0XY/0fkZFAbYaJIdCyYsm5BZmrwCgUMWTcih3Q9MisjdR4aVYq+AraaAxdpdjeoGgZTQDdv+t8zywTeyA4xgERTxv8KvgqjF7Uww7soi5ta80Qy1RpQ==;1UJ+BLCz4NCYa3BFEu/YEw=="

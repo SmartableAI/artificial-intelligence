@@ -33,6 +33,17 @@ related:
         width: 1260
         height: 630
         isCached: true
+  - title: "CUJO AI Launches a Patented Device Identification Solution Solving Major Issues Caused by MAC Address Randomization"
+    excerpt: "CUJO AI, a pioneer and global leader in the development and application of artificial intelligence to improve the security, control, and privacy of connected devices, today announced its newly patented Device Identification feature,"
+    publishedDateTime: 2020-10-13T12:55:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cujo-ai-launches-a-patented-device-identification-solution-solving-major-issues-caused-by-mac-address-randomization-1029673993"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/cujo-ai-launches-a-patented-device-identification-solution-solving-major-issues-caused-by-mac-address-randomization-1029673993"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cujo-ai-launches-a-patented-device-identification-solution-solving-major-issues-caused-by-mac-address-randomization-1029673993"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
   - title: "SparkCognition Advances the Science of Artificial Intelligence with 85 Patents"
     excerpt: "Since SparkCognition’s inception, we have placed a major emphasis on advancing the science of AI through research – making advancement through innovation a core company value,” said Amir Husain, founder and CEO of SparkCognition,"
     publishedDateTime: 2020-10-12T13:00:00Z

@@ -1,28 +1,27 @@
 ---
 category: news
 title: "Microsoft Translator now supports Assamese too"
-excerpt: "Microsoft India said on Wednesday that it has added Assamese as the latest Indian language in Microsoft Translator, increasing the number of Indian languages it supports to 12."
-publishedDateTime: 2020-09-30T09:21:00Z
-originalUrl: "https://www.thehansindia.com/technology/tech-news/microsoft-translator-now-supports-assamese-too-648777"
-webUrl: "https://www.thehansindia.com/technology/tech-news/microsoft-translator-now-supports-assamese-too-648777"
-ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/microsoft-translator-now-supports-assamese-too-648777"
-cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/microsoft-translator-now-supports-assamese-too-648777"
+excerpt: "Microsoft India said on Wednesday that it has added Assamese as the latest Indian language in Microsoft Translator, increasing the number of Indian languages it supports to 12. The Azure-based service will now provide real-time translation and transliteration support for the language."
+publishedDateTime: 2020-09-30T11:54:00Z
+originalUrl: "https://menafn.com/1100880896/Microsoft-Translator-now-supports-Assamese-too"
+webUrl: "https://menafn.com/1100880896/Microsoft-Translator-now-supports-Assamese-too"
 type: article
 
 provider:
-  name: The Hans India
-  domain: thehansindia.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Microsoft AI
   - AI
+  - Natural Language Processing
 
 images:
-  - url: "https://assets.thehansindia.com/h-upload/2020/09/30/1002386-microsoft.jpg"
-    width: 1000
-    height: 600
+  - url: "https://menafn.com/updates/pr/2020-09/30/I_9ee6f788-9image_story.jpg"
+    width: 400
+    height: 300
     isCached: true
 
-secured: "3h5g6MyF0c9LaBWRhhKJbsLUITY3xh9MF3G/6aUqxToPDgEVaFU0to8UMqoEUQ+LpN3v3lAUNTdylZ69bmCfoBUxEyHq/dwfJNYpJhijy2hbcAHFcBiHUzddU/rMO6NFgXw6AJSffPVSyQ9mXJvPxqtPzCWFLhbU+NpE5CEnd9p2/oYnnjj2gsO5Sv2ThmM3kPG08rEpebgNPHBlxMGv14BKXv7Gy0L55SN6/93in2n3hV6mJWq2jjgGSBmfVXZDXqjZghv1aAINH5Otbq9CBEwnVvmDcS/5exeKLTbXRAMIk76vhww+gbOMWnevDmt43oTv4WPuy8I8CagsnYjCvaI5nMDIwKY+ew8/fh8srn8=;oix16OdcbeCTjZR3JaOgAg=="
+secured: "zulj/9Bn6HBH3a4v8bTcOnNWupaTBp/HUSbEsrZO3fMA7ONWCfJ8wdEq83qG+lV7csXzAKd6VLq7gO57lHTCJbtGYuJhbIhPEMJoGxdPmjXHUtfYzJvMbdz3HuaVbB5rTQpiFf0OIspr81g4cFmbUrgHvJqp92jRlWN4ZwAbM28foKJ5G4ADlY74HlsCsMIpjW6v6i1XUP8f7HFE+4aegJotbuy7bLxPytn3B6ZQg9OQWZl+KO3hA6bzVlHDLv5Tl8sI9fO4zACXKcBmwsWeXNRz+/7dLKFmjz1DIAc6HWRPFYNc2LsWK+U14tt1wPdUSKkAYCJ5Nf9cCP/2V6vcttWHBza/o2hW/n9eehq7VHI=;tcBmcR5G3fo0wAT4BBMWUg=="
 ---
 

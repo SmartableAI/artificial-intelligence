@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/17870637"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17870637"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Global Artificial Intelligence Market (2020 to 2026) - Bringing AI to Edge Devices Presents Opportunities"
+    excerpt: "Market by Technology (Machine learning, Natural Language Processing, Context Aware Computing, Computer Vision), Hardware (Processor, Memory, Network), End-User Industry, and Region - Global Forecast to 2026\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2020-10-13T12:08:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-artificial-intelligence-market-2020-to-2026-bringing-ai-to-edge-devices-presents-opportunities-1029673557"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "LSiH+cGqb84nYBrdjUT0i5v9tSJF6AeBWLcIXM03uUJTeGYdhdwRWVCgnq24DcmPVcb6arXKoUllXdr/Q+UUJdD074b3Hp9cRPeHKEBIWB3NDctQB5zjeVa8TAWytzi1Um61XshZueSj8B/TmqMYdMldTfv0l8tD6P+cIOjGiGMaI9O7iRDJLrVy54VIJzja8HCIe2qqAVi5eG2oQPkvxgADYZ0nnqLLrNLFzWAOEhZExcWDdcNwLhlPSDxlDRHiC1+N16blUr3NydReR+LrFsOtAuZE0637wLF6X1RP9MfxwexFqJxxaF0YC64tQGP4Xr9PkphrLgO7cvQQrjovIJzIZIvwpOF93euSDQ3bjbo=;MEDIDBGrHBOtUgBEVDkDIQ=="
 ---

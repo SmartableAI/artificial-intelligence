@@ -43,22 +43,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Waymo rolls out driverless autonomous vehicles WITHOUT a backup driver in Phoenix"
-    excerpt: "But he cautioned that 'given the secrecy about every company´s autonomous technology, people in Phoenix can only hope that the driverless cars turn out ... of clips which are processed using artificial intelligence to accurately identify people, signs ..."
-    publishedDateTime: 2020-10-08T20:00:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8820183/Waymo-removing-backup-drivers-autonomous-vehicles.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8820183/amp/Waymo-removing-backup-drivers-autonomous-vehicles.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8820183/amp/Waymo-removing-backup-drivers-autonomous-vehicles.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 69
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/10/08/20/34164124-0-image-a-4_1602187103476.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "wqKFAI8GndDuFbQhB8fi9G8isBADb4UxCvkyuLsA0xQKvxF2BJ9zGlxG1sAQm2b32iw8VQGvwwO1qFeQ7n+0qF+yBvrK27b+UshPUJPLIHM6g/8TSOSPdw7PI8a/jRVvHCpUFq9YoJu6UYL7ukrIdTpUyRS4TxDmx80MK7dW17d03TZbLWFYidVUJ3m3herlXs0vDMOeMkhabhEMTJjVzPWWUoZk1WG8/c6ujenOUH7XB2syNGVGyRRaqZxasXXD6kTv5qboVdbqjIIZl2lnQAuosmp6nfpPx1HzNyxjnYYdN5htN0aBzR+3wY+Wo248NHfts/MNDz4Nmx04Nb1dLK633q48/bsAFwrotDSyXdKVXOaVnw3DLdFwc/rYW00hc4Tz9TUUPIHJH3Wmuf4WS9TDfurfDEq7g+0H4EecRboiW68MCaVcR9xs7shi9PO4kamYJmxROcusagF8Z+hV6HZOb9m+HdwgtZYFNDUYEvaWuhEAsuLRi/ji9V8mSAWE5zqf9qpOR0gi1OULSQWoAw==;/hvQP8c6GaeKuEagwYJTVw=="
 ---

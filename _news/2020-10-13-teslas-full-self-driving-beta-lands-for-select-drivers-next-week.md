@@ -89,6 +89,17 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Tesla to Deploy Limited Full Self-Driving Beta Next Week"
+    excerpt: "Tesla TSLA recently announced that it will launch limited models of full self-driving (FSD) vehicles on Oct 20. The fleet of fully-autonomous vehicles to be rolled out next week will be first available for a small number of careful and expert drivers for testing."
+    publishedDateTime: 2020-10-13T12:49:00Z
+    webUrl: "https://www.nasdaq.com/articles/tesla-to-deploy-limited-full-self-driving-beta-next-week-2020-10-13"
+    ampWebUrl: "https://www.nasdaq.com/articles/tesla-to-deploy-limited-full-self-driving-beta-next-week-2020-10-13?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-to-deploy-limited-full-self-driving-beta-next-week-2020-10-13?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "Tesla's Elon Musk: Some 'expert, careful' drivers get beta Full Self-Driving next week"
     excerpt: "Tesla will offer a limited number of \"expert and careful\" drivers a beta of its long-awaited Full Self-Driving capability in Autopilot next Tuesday, according to Tesla chief Elon Musk.  As usual, Musk teased the Full Self-Driving (FSD) beta release in a tweet."
     publishedDateTime: 2020-10-13T09:45:00Z

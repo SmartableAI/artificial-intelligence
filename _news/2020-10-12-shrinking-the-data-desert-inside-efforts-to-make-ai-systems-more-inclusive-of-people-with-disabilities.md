@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-12T14:45:49Z
 originalUrl: "https://blogs.microsoft.com/ai/shrinking-the-data-desert/"
 webUrl: "https://blogs.microsoft.com/ai/shrinking-the-data-desert/"
 type: article
-quality: 72
-heat: 72
+quality: 172
+heat: 172
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 576
     isCached: true
 
-secured: "2pzMBgETLn5ukLIhDXsJ7j9m/6AMdCWiCWF22691L1xBcK6i/YYcE4zvtdZMmkf7yPnmCpuRyBrehJaSU2hbxDrXiyo/+ENVHJeVJuBG+ujot0lbgGsBEh+uGv3WZhd4I3EMtkITAJTXON8/Ti6rXAvK3gBHBme0PLNwJoJCA/cKQC03E6WAmqL1hYHuhrDvsDXRybcqN6pRJ1tQKDDfZLnV+V0jJfHa3/+MwsLnTdhRV5BRco7BeiarE9I2HShhFiPq3hnrQF/HmTxB0MfM54S9JoQWtEpHQOnVH2hLht2YzLAKhoreqtF7+TPB2RtzvX6yKskWqvkkNIjWnioZtYgWgxUEnNwnZ9+hKGW6k8k=;BVCNmHFV8I5viV0vFMn4iQ=="
+secured: "Cp7SLGDFF+4sBSp5loODI7ol4fN0rqYXu67hmDdo7oD9O48nPbjBjcBcStHoRSMSBRgekz/0GMjPGipU/1mtfTq7mJ8yQnh6z7Tksmx4YmKbj/mefR+zFSJekBnAtiE4bqsZUSehp99iPgm8rbein+ShTzdXMF7Cgo2KQMVZKgNHUZe3LIEegL+BaE7xNplgP+H+G064hTXyV3a9apDw2AYSaOybHAo26tUFTsS6LS+h6lHc8XOORg6kcHf9n5aGn0w7RAMDTCGjmeTH+XRnJl3RQgWS0jTnL2yKwV6N3161o2+Fri8ezg94P0C7WKQMUpLuTANJRHvc/SmVkEiYrDnfpzXn8TD6JRdOGkfc7JC00hh1tbsaBFz2ZSd9kq8Y;9ZOJnYpgLQW03vGqL3alMA=="
 ---
 

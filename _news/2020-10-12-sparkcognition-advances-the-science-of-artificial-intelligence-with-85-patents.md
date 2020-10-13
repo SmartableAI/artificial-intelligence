@@ -38,6 +38,17 @@ related:
         width: 1260
         height: 630
         isCached: true
+  - title: "CUJO AI Launches a Patented Device Identification Solution Solving Major Issues Caused by MAC Address Randomization"
+    excerpt: "CUJO AI, a pioneer and global leader in the development and application of artificial intelligence to improve the security, control, and privacy of connected devices, today announced its newly patented Device Identification feature,"
+    publishedDateTime: 2020-10-13T12:55:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cujo-ai-launches-a-patented-device-identification-solution-solving-major-issues-caused-by-mac-address-randomization-1029673993"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/cujo-ai-launches-a-patented-device-identification-solution-solving-major-issues-caused-by-mac-address-randomization-1029673993"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cujo-ai-launches-a-patented-device-identification-solution-solving-major-issues-caused-by-mac-address-randomization-1029673993"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
   - title: "Local VFW receives national recognition"
     excerpt: "The Teacher of the Year and Law Enforcement of the Year offer the community a chance to recognize those who are making a difference in their organization, and the Patriots Pen and Voice of Democracy writing competitions offer students a chance to win ..."
     publishedDateTime: 2020-10-11T12:02:00Z

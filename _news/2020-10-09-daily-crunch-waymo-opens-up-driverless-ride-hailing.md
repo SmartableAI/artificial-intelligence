@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/10/08/daily-crunch-waymo-opens-up-driver
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/08/daily-crunch-waymo-opens-up-driverless-ride-hailing/amp/"
 type: article
 quality: 119
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo rolls out driverless autonomous vehicles WITHOUT a backup driver in Phoenix"
-    excerpt: "But he cautioned that 'given the secrecy about every company´s autonomous technology, people in Phoenix can only hope that the driverless cars turn out ... of clips which are processed using artificial intelligence to accurately identify people, signs ..."
-    publishedDateTime: 2020-10-08T20:00:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8820183/Waymo-removing-backup-drivers-autonomous-vehicles.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8820183/amp/Waymo-removing-backup-drivers-autonomous-vehicles.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8820183/amp/Waymo-removing-backup-drivers-autonomous-vehicles.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 69
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/10/08/20/34164124-0-image-a-4_1602187103476.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "Waymo Ditches Human Safety Drivers in Its Self-Driving Taxis"
     excerpt: "Waymo One, the self-driving taxi service operated by Google parent company Alphabet’s autonomous vehicle offshoot, is back after a pandemic hiatus, and it’s opening its doors to the public. As it does,"
     publishedDateTime: 2020-10-09T18:20:00Z

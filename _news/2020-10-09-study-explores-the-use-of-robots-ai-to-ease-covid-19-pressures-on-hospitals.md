@@ -9,7 +9,7 @@ ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=11686"
 cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11686"
 type: article
 quality: 71
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI tool can help doctors prioritize care, make discharging plans for COVID-19 patients"
-    excerpt: "An artificial intelligence tool can help doctors when deciding which COVID-19 patients can be sent home, according to a study that started in May. Researchers at New York University used the AI tool to analyze thousands of COVID-19 cases."
-    publishedDateTime: 2020-10-08T19:47:00Z
-    webUrl: "https://www.pix11.com/news/national/coronavirus/ai-tool-can-help-doctors-prioritize-care-make-discharging-plans-for-covid-19-patients"
-    ampWebUrl: "https://www.pix11.com/news/national/coronavirus/ai-tool-can-help-doctors-prioritize-care-make-discharging-plans-for-covid-19-patients?_amp=true"
-    cdnAmpWebUrl: "https://www-pix11-com.cdn.ampproject.org/c/s/www.pix11.com/news/national/coronavirus/ai-tool-can-help-doctors-prioritize-care-make-discharging-plans-for-covid-19-patients?_amp=true"
-    type: article
-    provider:
-      name: WPIX
-      domain: pix11.com
-    quality: 49
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/7edc30c/2147483647/strip/true/crop/5402x3039+0+281/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F55%2F12%2F2e70d270412a84fd17fd3a89179e%2Fap-20280514929484.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Bengaluru’s Narayana Hospitals employs artificial intelligence to fight Covid-19"
     excerpt: "has broken away from the traditional doctor consultations to leverage artificial intelligence to reduce the risk of virus transmission. Provision of patients’ vitals in real-time on doctors’ mobile phones, robots that transport blood samples ..."
     publishedDateTime: 2020-10-09T06:41:00Z

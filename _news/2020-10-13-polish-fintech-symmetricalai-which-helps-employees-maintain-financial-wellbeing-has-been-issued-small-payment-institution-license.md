@@ -60,6 +60,20 @@ related:
       name: Inter Press Service
       domain: ipsnews.net
     quality: 31
+  - title: "Artificial Intelligence Market Growth, Product Analysis, Demand, Revenue and Threat, Forecast To 2029 | Atomwise Inc. and Google Inc."
+    excerpt: "MarketResearch.Biz :Artificial Intelligence Market Overview: The report provides each quantitative and qualitative information of the global Artificial Intelligence market for the period of 2020 to 2029."
+    publishedDateTime: 2020-10-12T12:09:00Z
+    webUrl: "https://apnews.com/press-release/wired-release/technology-business-greater-china-corporate-news-north-america-6b56b49cd71fc71252c63b48ea7331af"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 8
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Georgia State to Offer Graduate Certificates in AI Business Innovation, Disruptive Innovation and Entrepreneurship, and Fintech Innovation"
     excerpt: "Georgia State University’s Robinson College of Business will admit new students to three stand-alone graduate certificate programs that address current and emerging market demand for innovation."
     publishedDateTime: 2020-10-09T17:20:00Z

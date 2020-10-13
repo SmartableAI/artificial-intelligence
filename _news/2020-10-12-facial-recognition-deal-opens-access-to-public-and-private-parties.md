@@ -39,6 +39,20 @@ related:
         width: 1420
         height: 797
         isCached: true
+  - title: "Portland voters to decide on strengthening facial recognition ban"
+    excerpt: "Bennett | BDN PORTLAND, Maine — This year, Portland residents will vote on a proposal to add enforcements to the ordinance that bans the use of facial recognition software by police and city ..."
+    publishedDateTime: 2020-10-13T09:34:00Z
+    webUrl: "https://bangordailynews.com/2020/10/13/politics/portland-voters-to-decide-on-strengthening-facial-recognition-ban/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 39
+    images:
+      - url: "https://i2.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/10/early-vote-2-1.jpg?fit=1024%2C683&#038;ssl=1"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "8GQ49Uy2nAky+tO55POmQintVt9bK6PJV87LPMQ0tgVGJ3h8k7UEtW8Rsuc6t75HQ7hAS/R0aPpkRKrcZLTMr6ysarRCWnd4h7z34OFOZ55AKKi9jUrwhQHLdM1akBtwWqBwPf9H1rrtLfx5GgJjZrVaiT+E78M729Z1UBx2AtMXmT2f4X9R9W2334sdvJXNWBFwuvHDUnm9v9L/7bc5TzD9VEo4DRn2rkoLdvMyBBVBXQYNiJDMDyMUlgY/Mh0tGOg7fTtP0VcBJk9BSk9wRfyhJCVJ4DknLrnofTS0wBPMoPDiVSsFXjUpUZeWX8KrFt8U4gqigmc04VklC28Gn/+lDytNKfOOzzNPH0dDoPg=;QbWVonUaqPXMps6wvPgVPw=="
 ---

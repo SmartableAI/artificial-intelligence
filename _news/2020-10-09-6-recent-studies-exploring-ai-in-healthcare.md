@@ -7,8 +7,8 @@ originalUrl: "https://www.beckershospitalreview.com/artificial-intelligence/6-re
 webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/6-recent-studies-exploring-ai-in-healthcare.html"
 type: article
 quality: 54
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: Becker's Hospital Review
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Olive rolled out a new AI-powered healthcare platform that streamlines revenue cycle management"
+    excerpt: "Olive debuted a platform that speeds up revenue cycle management processes for healthcare workers—like prior authorizations and patient verifications."
+    publishedDateTime: 2020-10-13T13:34:00Z
+    webUrl: "https://www.businessinsider.com/olive-unveils-ai-powered-platform-to-streamline-healthcare-admin-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: "https://i.insider.com/5f85a833c255d800190b987e?width=1200&format=jpeg"
+        width: 650
+        height: 324
+        isCached: true
   - title: "New AI Platform to Work Hand-in-Hand with Healthcare Workers"
     excerpt: "PRNewswire/ -- For the capacity-stricken healthcare sector, the last six months have reinforced the need for an AI workforce to ensure financial continuity while delivering superior patient care. As health systems across the country struggle to streamline processes and revitalize revenues without impacting patient care,"
     publishedDateTime: 2020-10-12T13:00:00Z
@@ -38,34 +52,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "On heels of $100M funding round, Olive expands healthcare AI capabilities"
-    excerpt: "Healthcare software startup Olive is expanding its artificial intelligence capabilities to assist healthcare workers with day-to-day tasks like prior authorizations and insurance verifications. The company's new Olive Helps platform,"
-    publishedDateTime: 2020-10-12T12:00:00Z
-    webUrl: "https://www.fiercehealthcare.com/tech/heels-100m-funding-round-olive-expands-healthcare-ai-capabilities"
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 53
-    images:
-      - url: "https://qtxasset.com/fiercehealthcare/1602270586/GettyImages-899023542.jpg/GettyImages-899023542.jpg?s6QSCLVsKF0j8yq07lPNxxduzW8zU.ex"
-        width: 6584
-        height: 4395
-        isCached: true
-  - title: "Navina completes Seed investment round of $7 Million to solve the healthcare crisis using Artificial Intelligence, starting with primary care"
-    excerpt: "PRNewswire/ -- Navina, the developer of an AI-driven platform for primary care, announced today the completion of a $7 million Seed funding round led by"
-    publishedDateTime: 2020-10-13T10:01:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/navina-completes-seed-investment-round-of-7-million-to-solve-the-healthcare-crisis-using-artificial-intelligence-starting-with-primary-care-301150885.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 19
-    images:
-      - url: "https://mma.prnewswire.com/media/1311576/Navina_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
         isCached: true
 
 secured: "IWHLAklgolr15CzNZtZ4Jz+TGgYS1PzqI0Rykq4HOpk2WclsgO+AGxnrM71hlKPzQRuZggzB/ER3EKYAe/sAQ6ZPDOiltp3SLRxVme6TUN03Dlq2eBc1Sn3IF+7NxLMwEM09mzxljkFf2VxhrqMjUj7jzYXAwtVaNWGhR61I1OWydMrjUnbRxG0B5U8vthdiuZfZFOdWG9qJyBLFTducDZ5TbfRQ7817KtdHoO+qFvr7LRFG27RTSCepu0e35QTb+SI9CoeDqWq6U4Xm/OKHnFEkFjow2tNdOuihChYAQ/JBivaF0qzQ0HpWm6Bt658s1NveUiaJeP9IymkQ9U55rgD2WLYxHlNq/vn168sBI4o=;1r3vns1A9TzLLj5HckR1KQ=="
