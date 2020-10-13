@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-13T07:42:00Z
 originalUrl: "https://www.miningjournal.net/life/tuesday-health/2020/10/health-matters-artificial-intelligence-is-changing-modern-medicine/"
 webUrl: "https://www.miningjournal.net/life/tuesday-health/2020/10/health-matters-artificial-intelligence-is-changing-modern-medicine/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://ogden_images.s3.amazonaws.com/www.miningjournal.net/images/2020/06/02094419/McLean-ConWay-NEW-709x840.jpg"
@@ -23,6 +24,6 @@ images:
     height: 840
     isCached: true
 
-secured: "giEdaoMx61PFEdSVdQyjYPwySAPoqVdlamcmO6wcss/weTJ533tYEu9igcxHS31C41ziWOvpE7qvzvds8G8ev443TNWNuvx6uxPfO4JhJ+IRFW6tK5YFiLbKQYSOOWORfHnmW4lV/yvf43uALNQ4x/zyPWAYS9bRfU4lyDrhkLG1VZOioRD2a6WX8Fcd30RVhuE2yeJYmT2FjCEBEu1UyHov7jHppW9wF3vy/L8tfGiMyXIZJrCB3aRrBa2kRNUgKYvpf4xTmOAW5vzXlQKldOTa3FQ19uCSLEOvNWP7Mz+03gyjeegKn+2DWK89skePtf+S12xhErF9pbV2YabN1Q5UNFl0XybilhEmfgzel6k=;vwjr3j2jrPgiNTUTY4Bs3Q=="
+secured: "FHkaOLMWP38m2+IyAMHiSFVrAWEKT0PIqdsfDZdynPH4zE+P6GBzZtBr5Z/1chzp5qdkuqNh1l8QP99Uftwdvyr3iGJUFmRY+wU3wZJd2uYQm8cVSr7V74IganUmCZ0wxPvSneMy+17z9/EqX7brxe9iUgFtqo2S4WVN7JPnb6naJ0qKAJRDOtdhnm4HyJrZw4nTfs6nICo7jKE9CwkbjvRUd6M3ljaScOlAcLoymC6dalun7vdzxWJrgvTOwMy2/aqQjxA5V52GFSv4ZksSC1XMvUFmoWrEX6+amBzwKxUtxdYG6eQd0rMoe4ma91dCyY4ZNIbFeeqYxF/lCBkcJzPnez+hfnKjY4eHuEscfdf9bkSCFzMTFBA1E3K3w69XfvYFqaRTdOfWti2D0Ss5LKkQL+5Lp9G2C3lWNAR1yCwH/O2k5PJ2TZ3WHHVQIfXpxBzLGl/ATQw9qzA84kqWlQ+1RlMhanXUDSki7TkA0IrWQsoKzYX7sjxhSsLfnBAON3mpeqdYJhfF4kxNiahKgQ==;4AYl8i1j1zPLCzdwDLpGWA=="
 ---
 

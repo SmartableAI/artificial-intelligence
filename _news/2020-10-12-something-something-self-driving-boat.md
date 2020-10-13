@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Self-Driving Delivery Robot Hits the Streets in Japan"
+    excerpt: "Following this notion, Japan’s postal service has recently unveiled a self-driving delivery robot! The self-driving delivery robot is the size of a wheelchair and has built-in cameras and sensors. It was first operated on a sidewalk in Tokyo’s Chiyoda Ward in Japan."
+    publishedDateTime: 2020-10-13T09:11:00Z
+    webUrl: "https://www.tripzilla.com/self-driving-delivery-robot-japan/115421"
+    type: article
+    provider:
+      name: TripZilla
+      domain: tripzilla.com
+    quality: 41
+    images:
+      - url: "https://s3-ap-southeast-1.amazonaws.com/tz-mag-media/wp-content/uploads/2020/10/13154623/robot.jpg"
+        width: 660
+        height: 434
+        isCached: true
   - title: "Raining on the parade of self-driving cars"
     excerpt: "Developing sensors that enable autonomous vehicles to cope with tough weather conditions is tricky – and the economics may be more challenging still"
     publishedDateTime: 2020-10-09T16:39:00Z
@@ -68,6 +82,20 @@ related:
       - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2018/05/teslacrassh.jpg"
         width: 789
         height: 502
+        isCached: true
+  - title: "Vending machines in Japan are now selling face masks and sanitising wipes"
+    excerpt: "In this age of Covid-19 coronavirus, face masks and hand sanitisers have become a normal part of our daily lives. And now, it’s getting easier to obtain these items as some vending machines in Japan have started offering safety products such as face masks and sanitising wipes next to bottles of tea and coffee."
+    publishedDateTime: 2020-10-13T09:46:00Z
+    webUrl: "https://www.timeout.com/tokyo/news/vending-machines-in-japan-are-now-selling-face-masks-and-sanitising-wipes-101320"
+    type: article
+    provider:
+      name: Time Out
+      domain: timeout.com
+    quality: 23
+    images:
+      - url: "https://media.timeout.com/images/105705018/image.jpg"
+        width: 1749
+        height: 984
         isCached: true
 
 secured: "eY/AK4KzIxAmH3rVfycJq5BBQ8lotjsaKGo9kpNksoGsfH853MgTdKZHSR5pDNu9F/368AdVAGEIORHyAW11ZBSLKAz39jMwXqusA8Euua6q+BK18nXKzhVzRqBu603XvPAEPqdncsrSBKbUNt0HpVCbk71+4OI7+6BJr5ifLqVAeuY+PVF5vQIK7KIT5/XrcDuE6BvDHdTf3h9ThlRfA1tHt9eQH0sh18lVgVC4KUHlew1+Qwdd6TSF/IRTYDu4u5x8J8i11Ghwq9+0VcCARDDnlhZwarCTU6QpJLXEty2d0qza6sb08gyBOO9c/9Tp41oXUlYrBU9q93X1ncSZaIKs6SB6f82qgJfIDK2C0K0=;W8SkTOk3l972Y8KMvzLi9g=="

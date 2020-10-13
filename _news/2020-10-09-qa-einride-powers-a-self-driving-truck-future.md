@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "einride unveils cabinless, electric, self-driving pods and makes them available worldwide"
-    excerpt: "swedish company, einride, has launched the next generation of its groundbreaking self-driving electric pod, with new functionality and pricing, making it commercially available on"
-    publishedDateTime: 2020-10-08T15:48:00Z
-    webUrl: "https://www.designboom.com/technology/einride-pods-self-driving-trucks-10-08-2020/"
-    type: article
-    provider:
-      name: Designboom
-      domain: designboom.com
-    quality: 30
-    images:
-      - url: "https://www.designboom.com/wp-content/uploads/2020/10/einride-next-gen-pod-self-driving-truck-designboom-fb.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Einride launches self-driving electric freight truck"
     excerpt: "The driverless vehicles will come in four different models, which can transport freight around various locations, from factory facilities to motorways."
     publishedDateTime: 2020-10-12T16:11:00Z

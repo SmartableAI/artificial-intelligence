@@ -2,6 +2,101 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-09-25-aiera-ceo-on-companys-machine-learning-platform-benefits-of-ai-investing.md",
+      "title": "Aiera CEO on company's machine learning platform, benefits of AI investing",
+      "excerpt": "Ken Sena, cofounder and CEO at Aiera, on the benefits of AI investing, highlighting the company's machine learning platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2020/09/25/aiera-ceo-on-companys-machine-learning-platform-benefits-of-ai-investing.html",
+      "originalUrl": "https://www.cnbc.com/video/2020/09/25/aiera-ceo-on-companys-machine-learning-platform-benefits-of-ai-investing.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106717211-16010328336ED2-REQ-092520-WEX-SenaAlTech.jpg?v=1601032832",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-25T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-deep-learning-courses-for-nlp-market.md",
+      "title": "Deep Learning Courses for NLP Market",
+      "excerpt": "New York, United States - The Deep Learning Courses for NLP Market has developed swiftly in recent years and has made a significant contribution to the global financial situation in terms of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2142848/huge-growth-in-global-deep-learning-courses-for-nlp-market-set",
+      "originalUrl": "https://www.openpr.com/news/2142848/huge-growth-in-global-deep-learning-courses-for-nlp-market-set",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/9/T925537321_g.jpg",
+          "width": 450,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2142848/huge-growth-in-global-deep-learning-courses-for-nlp-market-set",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2142848/huge-growth-in-global-deep-learning-courses-for-nlp-market-set",
+      "publishedDateTime": "2020-09-25T04:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-improve-hey-siri-on-iphone-by-re-training-voice-recognition.md",
       "title": "Improve “Hey Siri” on iPhone by Re-Training Voice Recognition",
       "excerpt": "Training Voice Recognition So after a lot of requests from our users here is a guide about Improve “Hey Siri” on iPhone by Re-Training Voice Recognition. Having Hey Siri enabled for hands-free activation of the virtual assistant is no doubt useful,",
@@ -1079,99 +1174,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-amazon-redesigns-the-echo-with-a-new-spherical-design-and-a-custom-machine-learning-processor.md",
-      "title": "Amazon redesigns the Echo with a new spherical design and a custom machine learning processor",
-      "excerpt": "Amazon has announced the fourth-generation version of its main Echo smart speaker, bringing a new spherical design and better sound performance. But the biggest change is a new, on-device speech recognition module that will locally process your audio on the Echo,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/9/24/21452347/amazon-echo-4th-generation-features-price-release-date-alexa",
-      "originalUrl": "https://www.theverge.com/2020/9/24/21452347/amazon-echo-4th-generation-features-price-release-date-alexa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/tEU5cAXnuXGjzhmDHRI_SkJtjws=/0x0:1920x1080/1400x933/filters:focal(807x387:1113x693):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67463013/msedge_X9RFhS71eu.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/9/24/21452347/amazon-echo-4th-generation-features-price-release-date-alexa",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/9/24/21452347/amazon-echo-4th-generation-features-price-release-date-alexa",
-      "publishedDateTime": "2020-09-24T11:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-researchers-demonstrate-how-deep-learning-can-advance-study-of-neural-degeneration.md",
-      "title": "Researchers demonstrate how deep learning can advance study of neural degeneration",
-      "excerpt": "elegans. The tool uses deep learning, a form of AI, and should facilitate and expedite research into neural degeneration. \"Researchers want to study the mechanisms that drive neural degeneration ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-09/ncsu-rdh092420.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-09/ncsu-rdh092420.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/243999_web.jpg",
-          "width": 706,
-          "height": 652,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-24T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

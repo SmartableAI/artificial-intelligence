@@ -2,6 +2,101 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-10-05-gtc-2020-round-up-nvidia-announces-virtual-world-for-robots-ai-video-calls.md",
+      "title": "GTC 2020 round-up: Nvidia announces virtual world for robots, AI video calls",
+      "excerpt": "Nvidia's GPU Technology Conference, also known as GTC, is all about artificial intelligence. We'll give you a rundown of everything that was announced.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/",
+      "originalUrl": "https://www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/nvidia-gtc-2020-jensen-huang-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/?amp",
+      "publishedDateTime": "2020-10-05T09:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-want-india-to-become-global-hub-for-artificial-intelligence-pm-modi.md",
+      "title": "Want India to become global hub for Artificial Intelligence: PM Modi",
+      "excerpt": "Prime Minister Narendra Modi on Monday said that artificial intelligence (AI ... Similarly, it can play a crucial role in healthcare and education. The RAISE summit will also give opportunity to top 15 startups will be given an opportunity to showcase ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/news/india/want-india-to-become-global-hub-for-artificial-intelligence-pm-modi-11601912327145.html",
+      "originalUrl": "https://www.livemint.com/news/india/want-india-to-become-global-hub-for-artificial-intelligence-pm-modi-11601912327145.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2020/10/05/600x338/PTI05-10-2020_000245B_1601912413370_1601912427169.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/news/india/want-india-to-become-global-hub-for-artificial-intelligence-pm-modi/amp-11601912327145.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/want-india-to-become-global-hub-for-artificial-intelligence-pm-modi/amp-11601912327145.html",
+      "publishedDateTime": "2020-10-05T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-3-top-artificial-intelligence-stocks-to-buy-in-october.md",
       "title": "3 Top Artificial Intelligence Stocks to Buy in October",
       "excerpt": "Artificial intelligence (AI) is a fast-growing segment ... from quantum computing to start-ups like self-driving car outfit Waymo. This research racks up substantial losses right now, with the ...",
@@ -1023,109 +1118,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-04-why-investors-should-focus-more-on-the-infrastructure-supporting-the-ai-revolution.md",
-      "title": "Why Investors Should Focus More On The Infrastructure Supporting The AI Revolution",
-      "excerpt": "AI has been heralded as the catalyst for a new industrial revolution. While the potential for massive impact is very real, venture investors looking to capitalize on growth ought to spend more time considering the enabling infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/columbiabusinessschool/2020/10/04/why-investors-should-focus-more-on-the-infrastructure-supporting-the-ai-revolution/",
-      "originalUrl": "https://www.forbes.com/sites/columbiabusinessschool/2020/10/04/why-investors-should-focus-more-on-the-infrastructure-supporting-the-ai-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f78d185a61efd5ea2abacc9%2F0x0.jpg%3FcropX1%3D1438%26cropX2%3D6256%26cropY1%3D1321%26cropY2%3D4128",
-          "width": 1200,
-          "height": 699,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/columbiabusinessschool/2020/10/04/why-investors-should-focus-more-on-the-infrastructure-supporting-the-ai-revolution/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/columbiabusinessschool/2020/10/04/why-investors-should-focus-more-on-the-infrastructure-supporting-the-ai-revolution/amp/",
-      "publishedDateTime": "2020-10-04T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-10-04-many-top-ai-researchers-get-financial-backing-from-big-tech.md",
-      "title": "Many Top AI Researchers Get Financial Backing From Big Tech",
-      "excerpt": "Abdalla found that more than half of tenure-track AI faculty at four prominent universities who disclose their funding sources have received some sort of backing from Big Tech. Abdalla says he doesn’t believe any of those faculty are acting unethically ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/top-ai-researchers-financial-backing-big-tech/",
-      "originalUrl": "https://www.wired.com/story/top-ai-researchers-financial-backing-big-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f73d8fe8f19c83a58c68524/master/pass/Big-Tech-Influence.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/top-ai-researchers-financial-backing-big-tech/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/top-ai-researchers-financial-backing-big-tech/amp",
-      "publishedDateTime": "2020-10-04T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "AI Ethics"
       ]
     }
   ],

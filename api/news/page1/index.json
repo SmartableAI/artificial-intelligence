@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-13-imagination-technologies-takes-aim-at-data-centers-with-new-chip-designs.md",
+      "title": "Imagination Technologies takes aim at data centers with new chip designs",
+      "excerpt": "Imagination Technologies on Tuesday released new chip technology that it hopes will help it expand into the market for data center chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/imagination-tech-idUSL1N2H31H2",
+      "originalUrl": "https://www.reuters.com/article/imagination-tech-idUSL1N2H31H2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2H31H2",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2H31H2",
+      "publishedDateTime": "2020-10-13T01:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-drone-maker-delair-spins-out-its-computer-vision-platform-to-create-alteia.md",
       "title": "Drone maker Delair spins out its computer vision platform to create Alteia",
       "excerpt": "In a recognition of how the drone business has shifted in recent years, Delair announced today that it will spin out its drone-data platform into a separate company called Alteia. The new company ...",
@@ -791,7 +833,7 @@
       "originalUrl": "https://www.zdnet.com/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -832,8 +874,7 @@
         "AI Hardware",
         "AI",
         "AI Ethics",
-        "AI in Healthcare",
-        "Machine Learning"
+        "AI in Healthcare"
       ]
     },
     {
@@ -1163,48 +1204,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-robotics-startup-miko-raises-inr-23-cr-from-stride-ventures-angel-investors.md",
-      "title": "Robotics Startup Miko raises INR 23 Cr From Stride Ventures, Angel Investors",
-      "excerpt": "This infusion comes after the startup had raised INR 15.98 Cr from investors such as WNS group CEO and NASSCOM’s chairman Keshav Rurugesh, Inderjit Kaur Arora, Suresh Subramani, Giridhar Sanjeevi and a few others last year.",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/miko-raises-inr-23-cr-from-stride-ventures-angel-investors/",
-      "originalUrl": "https://inc42.com/buzz/miko-raises-inr-23-cr-from-stride-ventures-angel-investors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2020/10/Untitled-design-11-1.jpg",
-          "width": 1020,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/miko-raises-inr-23-cr-from-stride-ventures-angel-investors/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/miko-raises-inr-23-cr-from-stride-ventures-angel-investors/amp/",
-      "publishedDateTime": "2020-10-12T01:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

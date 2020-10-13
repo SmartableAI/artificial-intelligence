@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/the-state-of-ai-in-2020-biology-and-healt
 ampWebUrl: "https://www.zdnet.com/google-amp/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/"
 type: article
-quality: 122
-heat: 132
+quality: 105
+heat: 115
 published: true
 
 provider:
@@ -25,7 +25,6 @@ topics:
   - AI
   - AI Ethics
   - AI in Healthcare
-  - Machine Learning
 
 images:
   - url: "https://zdnet4.cbsistatic.com/hub/i/2020/10/12/fff374f0-59d9-4c75-8931-70212d1b7506/fda-ml.png"
@@ -49,6 +48,6 @@ related:
         height: 300
         isCached: true
 
-secured: "z8ovd1CiqP7Xd18uSM6vTufgeDBcQXEFJfbT86+apI3hUVt4ZNg8jffiJK7+SQqXBuKcpNFHa8oXwBAyFDq+eNPB5OCGrJfBGLss2P9fj8MAto1rOQ7Zt4mbotdnmEMLNt9h23Fdkui8zKdIEwXJ0gZjfNvLJTe6ghfcyEpOsMOVUFijRVi8zllhkbI4cAw3/VIqw46ljspaeS0M3UFOXrxOfibvAecwN6AnsD8mGaOKsVuKZcfbcsx3RFG+sSFojcCUavQbSa7iErLLlJhMu/t5tfvqLWJqe9a2mpZOPCCEPb91Pg3KGeQwR3805XV1PILrDzmE/sOn5SEdcp2k68PiGLaeFT4tyGKTnY/6gZ/+FbprESsvDujwSGxRC8nDNnoNEneiG6ii9pQgDEYSxe3uiBR6c3dBS/PCDN8JkW4YmCb72JwC5xZ5soOvkmglCLIrshg5AM0s7sG9tXREVh4gDUBe1COXhNXB5w5IOLonyzwkvFbZNhE9ZecU1iATEw7f16+AKe3Kl8jilgjjrQ==;/bs5VpqROal8JrgbXqFOUw=="
+secured: "rale6QpSDDN4VWW3DpN6u0e4LWVIPNI2sLY9xQX32gpax5PCwhppvAYERnVxCfbUMr8Z1Y3pp7givmUtTahxeoeQQ4dk3PJ3rQRyDI0GfnymYSEX0psx01VA1qZxVP71tNPBH+y7UY2RoLkWk+yaQYHhwf1tkxTbnM+N2lNCPQWq/nU2vEaKf0LOrioKMKrg1yqPrJ3oj7OczqtICA1DF4zGrf7SwFC93GTOtWYXUg58sIaRlkJwt7hfoJbnXrwqEbgUG7ew5PaDfPd+Bsz8SJFkNVAqdUWAtZRCfRbnHfgE8J1DDuoYwveXLfMtaNoJ7cBo99g4PfOTo8kuelf8IAJUHnKSuZ/CAoKH5KimWb4=;7A5uag7VxcCie9ay4ZqN9g=="
 ---
 

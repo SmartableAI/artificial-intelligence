@@ -2,6 +2,99 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-09-18-tesla-driver-20-charged-after-found-asleep-at-wheel-of-self-driving-car-traveling-over-90-mph-cops.md",
+      "title": "Tesla driver, 20, charged after found asleep at wheel of self-driving car traveling over 90 mph: cops",
+      "excerpt": "A Canadian man has been charged after he was found asleep at the wheel of a self-driving Tesla traveling over 93 mph down a highway in the province of Alberta, authorities said on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/auto/tesla-driver-20-charged-after-found-asleep-at-wheel-of-self-driving-vehicle-going-over-90-mph",
+      "originalUrl": "https://www.foxnews.com/auto/tesla-driver-20-charged-after-found-asleep-at-wheel-of-self-driving-vehicle-going-over-90-mph",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/RCMP.png?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/auto/tesla-driver-20-charged-after-found-asleep-at-wheel-of-self-driving-vehicle-going-over-90-mph.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/tesla-driver-20-charged-after-found-asleep-at-wheel-of-self-driving-vehicle-going-over-90-mph.amp",
+      "publishedDateTime": "2020-09-17T21:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-nvidia-rtx-3090-3080-3070-gpu-all-specs-prices-and-release-dates-detailed.md",
+      "title": "Nvidia RTX 3090, 3080, 3070 GPU: All Specs, Prices, And Release Dates Detailed",
+      "excerpt": "Nvidia revealed its new RTX 3000 line of Ampere-powered GPU earlier this month ... of the Turing-based RTX 20 series which first introduced real-time ray tracing and AI capabilities in graphics hardware. Those video cards feature multiple processing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gamespot.com/articles/nvidia-rtx-3090-3080-3070-gpu-all-specs-prices-and-release-dates-detailed/1100-6481673/",
+      "originalUrl": "https://www.gamespot.com/articles/nvidia-rtx-3090-3080-3070-gpu-all-specs-prices-and-release-dates-detailed/1100-6481673/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3728918-pcgaming_rtx30series_impressions_20200901_site.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/nvidia-rtx-3090-3080-3070-gpu-all-specs-prices-and-release-dates-detailed/1100-6481673/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/nvidia-rtx-3090-3080-3070-gpu-all-specs-prices-and-release-dates-detailed/1100-6481673/",
+      "publishedDateTime": "2020-09-17T19:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-during-pandemic-more-workers-being-replaced-by-robots-new-study-finds.md",
       "title": "During pandemic, more workers being replaced by robots, new study finds",
       "excerpt": "The coronavirus pandemic is accelerating the trend of robots replacing humans in the workplace, which could result in a recovery from recession that nonetheless costs jobs, according to a new report.",
@@ -1093,109 +1186,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-chinas-baidu-wants-to-be-an-autonomous-vehicle-powerhouse.md",
-      "title": "China’s Baidu Wants To Be An Autonomous Vehicle Powerhouse",
-      "excerpt": "as a Google imitator, is now going toe-to-toe with Google subsidiary Waymo, as well as Samsung ... and doing “deep learning” for artificial intelligence machines out of their California ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kenrapoza/2020/09/17/chinas-baidu-wants-to-be-an-autonomous-vehicle-powerhouse/",
-      "originalUrl": "https://www.forbes.com/sites/kenrapoza/2020/09/17/chinas-baidu-wants-to-be-an-autonomous-vehicle-powerhouse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f628020062c802e3d14ad8f%2F0x0.jpg",
-          "width": 1200,
-          "height": 784,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/kenrapoza/2020/09/17/chinas-baidu-wants-to-be-an-autonomous-vehicle-powerhouse/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kenrapoza/2020/09/17/chinas-baidu-wants-to-be-an-autonomous-vehicle-powerhouse/amp/",
-      "publishedDateTime": "2020-09-17T05:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-ibms-watson-assistant-can-now-field-election-questions.md",
-      "title": "IBM’s Watson Assistant can now field election questions",
-      "excerpt": "IBM is teaming up with states to deploy a Watson Assistant solution that answers questions about the election via phone or online.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/17/ibms-watson-assistant-can-now-field-election-questions/",
-      "originalUrl": "https://venturebeat.com/2020/09/17/ibms-watson-assistant-can-now-field-election-questions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/17/ibms-watson-assistant-can-now-field-election-questions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/17/ibms-watson-assistant-can-now-field-election-questions/amp/",
-      "publishedDateTime": "2020-09-17T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

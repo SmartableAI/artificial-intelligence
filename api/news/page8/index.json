@@ -2,6 +2,109 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-04-why-investors-should-focus-more-on-the-infrastructure-supporting-the-ai-revolution.md",
+      "title": "Why Investors Should Focus More On The Infrastructure Supporting The AI Revolution",
+      "excerpt": "AI has been heralded as the catalyst for a new industrial revolution. While the potential for massive impact is very real, venture investors looking to capitalize on growth ought to spend more time considering the enabling infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/columbiabusinessschool/2020/10/04/why-investors-should-focus-more-on-the-infrastructure-supporting-the-ai-revolution/",
+      "originalUrl": "https://www.forbes.com/sites/columbiabusinessschool/2020/10/04/why-investors-should-focus-more-on-the-infrastructure-supporting-the-ai-revolution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f78d185a61efd5ea2abacc9%2F0x0.jpg%3FcropX1%3D1438%26cropX2%3D6256%26cropY1%3D1321%26cropY2%3D4128",
+          "width": 1200,
+          "height": 699,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/columbiabusinessschool/2020/10/04/why-investors-should-focus-more-on-the-infrastructure-supporting-the-ai-revolution/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/columbiabusinessschool/2020/10/04/why-investors-should-focus-more-on-the-infrastructure-supporting-the-ai-revolution/amp/",
+      "publishedDateTime": "2020-10-04T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-10-04-many-top-ai-researchers-get-financial-backing-from-big-tech.md",
+      "title": "Many Top AI Researchers Get Financial Backing From Big Tech",
+      "excerpt": "Abdalla found that more than half of tenure-track AI faculty at four prominent universities who disclose their funding sources have received some sort of backing from Big Tech. Abdalla says he doesn’t believe any of those faculty are acting unethically ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/top-ai-researchers-financial-backing-big-tech/",
+      "originalUrl": "https://www.wired.com/story/top-ai-researchers-financial-backing-big-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f73d8fe8f19c83a58c68524/master/pass/Big-Tech-Influence.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/top-ai-researchers-financial-backing-big-tech/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/top-ai-researchers-financial-backing-big-tech/amp",
+      "publishedDateTime": "2020-10-04T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-10-04-machine-learning-tool-searches-the-lungs-for-signs-of-heart-failure.md",
       "title": "Machine learning tool searches the lungs for signs of heart failure",
       "excerpt": "One of the ways physicians can gain some forewarning of impending heart failure is through the detection of excess fluid in the lungs, and MIT researchers have developed a new machine learning ...",
@@ -1059,98 +1162,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-facebooks-ai-matches-people-in-need-with-those-willing-to-assist.md",
-      "title": "Facebook’s AI matches people in need with those willing to assist",
-      "excerpt": "Facebook's machine learning algorithms can match those in need of help during the pandemic with those willing to provide help, and vice versa.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/02/facebooks-ai-matches-people-in-need-with-those-willing-to-assist/",
-      "originalUrl": "https://venturebeat.com/2020/10/02/facebooks-ai-matches-people-in-need-with-those-willing-to-assist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/moderator-e1591354274848.jpeg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/02/facebooks-ai-matches-people-in-need-with-those-willing-to-assist/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/02/facebooks-ai-matches-people-in-need-with-those-willing-to-assist/amp/",
-      "publishedDateTime": "2020-10-02T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-how-is-artificial-intelligence-used-in-b2b-companies-here-are-powerful-examples.md",
-      "title": "How Is Artificial Intelligence Used In B2B Companies: Here Are Powerful Examples",
-      "excerpt": "Can B2B companies leverage AI just as well as B2C companies? Absolutely! Artificial intelligence is vitally important to helping B2B companies improve their products and services as well as operations and business processes,",
-      "sourceUrl": null,
-      "webUrl": "https://mobile.twitter.com/BernardMarr?ref_src=twsrc^google|twcamp^serp|twgr^author",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2020/10/02/how-is-artificial-intelligence-used-in-b2b-companies-here-are-powerful-examples/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-01T21:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

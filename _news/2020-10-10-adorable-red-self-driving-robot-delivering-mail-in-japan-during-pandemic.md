@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/adorable-red-self-driving-robot
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/adorable-red-self-driving-robot-delivering-mail-in-japan-during-pandemic/"
 type: article
 quality: 105
-heat: 135
+heat: 155
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Self-Driving Delivery Robot Hits the Streets in Japan"
+    excerpt: "Following this notion, Japan’s postal service has recently unveiled a self-driving delivery robot! The self-driving delivery robot is the size of a wheelchair and has built-in cameras and sensors. It was first operated on a sidewalk in Tokyo’s Chiyoda Ward in Japan."
+    publishedDateTime: 2020-10-13T09:11:00Z
+    webUrl: "https://www.tripzilla.com/self-driving-delivery-robot-japan/115421"
+    type: article
+    provider:
+      name: TripZilla
+      domain: tripzilla.com
+    quality: 41
+    images:
+      - url: "https://s3-ap-southeast-1.amazonaws.com/tz-mag-media/wp-content/uploads/2020/10/13154623/robot.jpg"
+        width: 660
+        height: 434
+        isCached: true
   - title: "Raining on the parade of self-driving cars"
     excerpt: "Developing sensors that enable autonomous vehicles to cope with tough weather conditions is tricky – and the economics may be more challenging still"
     publishedDateTime: 2020-10-09T16:39:00Z
@@ -73,6 +87,20 @@ related:
       - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2018/05/teslacrassh.jpg"
         width: 789
         height: 502
+        isCached: true
+  - title: "Vending machines in Japan are now selling face masks and sanitising wipes"
+    excerpt: "In this age of Covid-19 coronavirus, face masks and hand sanitisers have become a normal part of our daily lives. And now, it’s getting easier to obtain these items as some vending machines in Japan have started offering safety products such as face masks and sanitising wipes next to bottles of tea and coffee."
+    publishedDateTime: 2020-10-13T09:46:00Z
+    webUrl: "https://www.timeout.com/tokyo/news/vending-machines-in-japan-are-now-selling-face-masks-and-sanitising-wipes-101320"
+    type: article
+    provider:
+      name: Time Out
+      domain: timeout.com
+    quality: 23
+    images:
+      - url: "https://media.timeout.com/images/105705018/image.jpg"
+        width: 1749
+        height: 984
         isCached: true
 
 secured: "HOyghhM6TiXIjzqcLCoui734vCgSQc8o+cGnq1Gld+nk91sDOYpfepkP1eKzh6H/8wbe31q2jcXH5AbGVZ8sl+/rd7BykIskcQeK4A07zrzSLzJ0FYOAQ8oS60QsuEBKavy0B5gdKyzKCoq/urRpvYY65XAftdMFoN6bBEm3IMZw887MnLjVXOMSYbvePq6z2bXOwlhSYNTImoxG5jfPm+xWOlnNNtaV0naZVUcyoRAF23brUXRSbSOuUOit4ZreLC1UGUt4zmofBvivfeCfGrNqAqF4rggwA7imWEjrGtkL7KAlkGw1M7kflQEeOQIFXsPFmal2+c9YS+SeTcwgD3/L+HEplBE2jwDq01qz4h/jr/FbHFs/PXJJSv5wOaTQeoOzspM/lfBn/Nt4aOaK7UG2nzIzT2rUcMMjAT/4RSqT7/l1vCXhxwxESBFePnQpmz0/FRGC06gg9asZJ/B757SobuZCf7uV2bv236/qmxQNarvfs3W1zQlUfeerrq2To2e2joegjPjV6BngoJGMGg==;6/ZArpCysAzO/gwaJyixjQ=="

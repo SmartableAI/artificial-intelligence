@@ -7,8 +7,8 @@ originalUrl: "https://www.beckershospitalreview.com/artificial-intelligence/6-re
 webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/6-recent-studies-exploring-ai-in-healthcare.html"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Becker's Hospital Review
@@ -25,19 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Tomorrow’s Europe: Episode 3 – Artificial intelligence in healthcare"
-    excerpt: "France's President Macron declared that the global population is at war with the coronavirus. Recent comments of his however suggest that now"
-    publishedDateTime: 2020-10-08T15:26:00Z
-    webUrl: "https://www.brusselstimes.com/tomorrows-europe/134843/tomorrows-europe-episode-3-artificial-intelligence-in-healthcare/"
+  - title: "New AI Platform to Work Hand-in-Hand with Healthcare Workers"
+    excerpt: "PRNewswire/ -- For the capacity-stricken healthcare sector, the last six months have reinforced the need for an AI workforce to ensure financial continuity while delivering superior patient care. As health systems across the country struggle to streamline processes and revitalize revenues without impacting patient care,"
+    publishedDateTime: 2020-10-12T13:00:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-health-care-industry-3c9a37e2cbd3844564b927e50b614212"
     type: article
     provider:
-      name: The Brussels Times
-      domain: brusselstimes.com
+      name: Associated Press
+      domain: apnews.com
     quality: 54
     images:
-      - url: "https://www.brusselstimes.com/wp-content/uploads/gmedia_featured/200928_1020_The_Brussels_Times_Podcasts-1024x1024.jpg"
-        width: 1024
-        height: 1024
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "On heels of $100M funding round, Olive expands healthcare AI capabilities"
+    excerpt: "Healthcare software startup Olive is expanding its artificial intelligence capabilities to assist healthcare workers with day-to-day tasks like prior authorizations and insurance verifications. The company's new Olive Helps platform,"
+    publishedDateTime: 2020-10-12T12:00:00Z
+    webUrl: "https://www.fiercehealthcare.com/tech/heels-100m-funding-round-olive-expands-healthcare-ai-capabilities"
+    type: article
+    provider:
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 53
+    images:
+      - url: "https://qtxasset.com/fiercehealthcare/1602270586/GettyImages-899023542.jpg/GettyImages-899023542.jpg?s6QSCLVsKF0j8yq07lPNxxduzW8zU.ex"
+        width: 6584
+        height: 4395
         isCached: true
 
 secured: "IWHLAklgolr15CzNZtZ4Jz+TGgYS1PzqI0Rykq4HOpk2WclsgO+AGxnrM71hlKPzQRuZggzB/ER3EKYAe/sAQ6ZPDOiltp3SLRxVme6TUN03Dlq2eBc1Sn3IF+7NxLMwEM09mzxljkFf2VxhrqMjUj7jzYXAwtVaNWGhR61I1OWydMrjUnbRxG0B5U8vthdiuZfZFOdWG9qJyBLFTducDZ5TbfRQ7817KtdHoO+qFvr7LRFG27RTSCepu0e35QTb+SI9CoeDqWq6U4Xm/OKHnFEkFjow2tNdOuihChYAQ/JBivaF0qzQ0HpWm6Bt658s1NveUiaJeP9IymkQ9U55rgD2WLYxHlNq/vn168sBI4o=;1r3vns1A9TzLLj5HckR1KQ=="

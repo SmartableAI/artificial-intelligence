@@ -62,22 +62,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The Impact of AI on Surgery"
-    excerpt: "AI-enabled remote surgery can help overcome the global shortage of doctors, and it can improve training, raise standards, and drive innovation within the medical profession."
-    publishedDateTime: 2020-10-08T15:06:00Z
-    webUrl: "https://www.forbes.com/sites/calumchace/2020/10/08/the-impact-of-ai-on-surgery/"
-    ampWebUrl: "https://www.forbes.com/sites/calumchace/2020/10/08/the-impact-of-ai-on-surgery/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2020/10/08/the-impact-of-ai-on-surgery/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7f278b79657261d13693d3%2F0x0.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "When AI hurts people, who is held responsible?"
     excerpt: "How to determine whether a human was at fault when AI plays a role in a person’s injury or death is no easy task. If AI is in control and something goes wrong, when is it the human’s fault and ..."
     publishedDateTime: 2020-10-12T18:50:00Z
@@ -109,20 +93,6 @@ related:
       - url: "https://europeansting.files.wordpress.com/2020/10/robots-2020_.jpeg?w=1200"
         width: 1200
         height: 864
-        isCached: true
-  - title: "How Do We Accelerate Endpoint AI Innovation? Put Developers First"
-    excerpt: "Dipti Vachani reveals how together with Microsoft, Arm is optimizing the developer experience with streamlined, scalable tools that put creativity first"
-    publishedDateTime: 2020-10-08T15:58:00Z
-    webUrl: "https://www.arm.com/blogs/blueprint/arm-microsoft-ai"
-    type: article
-    provider:
-      name: ARM architecture
-      domain: arm.com
-    quality: 39
-    images:
-      - url: "https://www.arm.com/blogs/blueprint/wp-content/uploads/2020/10/dipti_topimg.jpg"
-        width: 1940
-        height: 980
         isCached: true
   - title: "India startups leading movement on AI innovations to create solutions for the world"
     excerpt: "ResponsibleAI for Social Empowerment 2020’summit witnessed discussion on themes like leveraging AI for pandemic preparedness, role of AI in fostering"

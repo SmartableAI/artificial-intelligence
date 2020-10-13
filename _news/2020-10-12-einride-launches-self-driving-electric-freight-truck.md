@@ -7,7 +7,7 @@ originalUrl: "https://www.designweek.co.uk/issues/12-18-october-2020/einride-fre
 webUrl: "https://www.designweek.co.uk/issues/12-18-october-2020/einride-freight-vehicle/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "einride unveils cabinless, electric, self-driving pods and makes them available worldwide"
-    excerpt: "swedish company, einride, has launched the next generation of its groundbreaking self-driving electric pod, with new functionality and pricing, making it commercially available on"
-    publishedDateTime: 2020-10-08T15:48:00Z
-    webUrl: "https://www.designboom.com/technology/einride-pods-self-driving-trucks-10-08-2020/"
-    type: article
-    provider:
-      name: Designboom
-      domain: designboom.com
-    quality: 30
-    images:
-      - url: "https://www.designboom.com/wp-content/uploads/2020/10/einride-next-gen-pod-self-driving-truck-designboom-fb.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Q&A: Einride powers a self-driving truck future"
     excerpt: "Einride pod operates at SAE Level 4 autonomy and will continue to do so as it rolls out commercially on a global scale in the coming years. Source: Einride Swedish automotive startup Einride has been working on pilot projects for its autonomous and electric logistics platform but now the company is going global with its second-generation self-driving logistics platform."
     publishedDateTime: 2020-10-09T00:00:00Z

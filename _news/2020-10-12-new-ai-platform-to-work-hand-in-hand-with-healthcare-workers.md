@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-h
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-health-care-industry-3c9a37e2cbd3844564b927e50b614212"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,36 @@ images:
     width: 700
     height: 450
     isCached: true
+
+related:
+  - title: "6 recent studies exploring AI in healthcare"
+    excerpt: "In the past decade or so, researchers have piloted more and more studies exploring artificial intelligence's potential to transform healthcare for the better, including reducing workflow inefficiencies,"
+    publishedDateTime: 2020-10-09T16:03:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/6-recent-studies-exploring-ai-in-healthcare.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/4.jpg"
+        width: 400
+        height: 300
+        isCached: true
+  - title: "On heels of $100M funding round, Olive expands healthcare AI capabilities"
+    excerpt: "Healthcare software startup Olive is expanding its artificial intelligence capabilities to assist healthcare workers with day-to-day tasks like prior authorizations and insurance verifications. The company's new Olive Helps platform,"
+    publishedDateTime: 2020-10-12T12:00:00Z
+    webUrl: "https://www.fiercehealthcare.com/tech/heels-100m-funding-round-olive-expands-healthcare-ai-capabilities"
+    type: article
+    provider:
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 53
+    images:
+      - url: "https://qtxasset.com/fiercehealthcare/1602270586/GettyImages-899023542.jpg/GettyImages-899023542.jpg?s6QSCLVsKF0j8yq07lPNxxduzW8zU.ex"
+        width: 6584
+        height: 4395
+        isCached: true
 
 secured: "myfaaoCJW4nPvC0mFmPV/mwkJWAtwsAjXL9Xsw1eEdmjyt3Zeq/s2ikOkzGYU+xRsNe7MfeEmjEK/xyj1w9SF4uueYU0NUVexD0hHUQJP8dGxXKzB0f28uINV3pcIjQGf0LC75FHMPCBc5Ez8tPrel+UdCeHUTTQkWkTgGQuob+4o7O3HRmZ7o5iZlE+ArK4YYwEPF3zCf3Fkn4RI6kUxkIRl1OUNRZ2Mq82Sf9MF3FHpRVR4XjoczKxCpaeSbP0/ixf0nlD1Bfz5tLvYcz9u9pETKt6lCK59oacYqeAxgrlbZH5bZXWYf86U8u75W+8g3bsDx6HgB7OJfSNhRyXmjWd1+MeXtzFRmZMSROzkXI=;3H2w50fSyLED7uCM01r1ng=="
 ---

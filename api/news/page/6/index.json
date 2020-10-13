@@ -2,6 +2,108 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-06-ai-researchers-challenge-a-robot-to-ride-a-skateboard-in-simulation.md",
+      "title": "AI researchers challenge a robot to ride a skateboard in simulation",
+      "excerpt": "Nvidia AI researchers say they created a more energy efficient and effective way to make four-legged robots walk.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/06/ai-researchers-challenge-a-robot-to-ride-a-skateboard-in-simulation/",
+      "originalUrl": "https://venturebeat.com/2020/10/06/ai-researchers-challenge-a-robot-to-ride-a-skateboard-in-simulation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/maxresdefault-1.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/06/ai-researchers-challenge-a-robot-to-ride-a-skateboard-in-simulation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/06/ai-researchers-challenge-a-robot-to-ride-a-skateboard-in-simulation/amp/",
+      "publishedDateTime": "2020-10-06T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-fintech-in-asia-is-about-to-look-a-lot-more-chinese-but-its-not-who-you-think.md",
+      "title": "Fintech In Asia Is About To Look A Lot More Chinese, But It’s Not Who You Think",
+      "excerpt": "Nowhere in the world has fintech had more of an impact than in mainland China. From making a payment on a phone to borrowing money, hundreds of millions of Chinese individuals and businesses have turned to digital apps to handle their day to day finances.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/zennonkapron/2020/10/06/fintech-in-asia-is-about-to-look-a-lot-more-chinese-but-its-not-who-you-think/",
+      "originalUrl": "https://www.forbes.com/sites/zennonkapron/2020/10/06/fintech-in-asia-is-about-to-look-a-lot-more-chinese-but-its-not-who-you-think/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7c7d273c98dee7a40a3b21%2F0x0.jpg",
+          "width": 1199,
+          "height": 821,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/zennonkapron/2020/10/06/fintech-in-asia-is-about-to-look-a-lot-more-chinese-but-its-not-who-you-think/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zennonkapron/2020/10/06/fintech-in-asia-is-about-to-look-a-lot-more-chinese-but-its-not-who-you-think/amp/",
+      "publishedDateTime": "2020-10-06T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-this-robot-fry-chef-on-rails-can-be-yours-for-30000.md",
       "title": "This robot fry chef on rails can be yours for $30,000",
       "excerpt": "The robot uses machine learning to identify foodstuff and a camera array (which includes a 3D depth-sensing cam from Intel and a thermal camera) to navigate its environment. A robotic arm then wields a spatula and grabs baskets full of food to fry.",
@@ -1093,101 +1195,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-gtc-2020-round-up-nvidia-announces-virtual-world-for-robots-ai-video-calls.md",
-      "title": "GTC 2020 round-up: Nvidia announces virtual world for robots, AI video calls",
-      "excerpt": "Nvidia's GPU Technology Conference, also known as GTC, is all about artificial intelligence. We'll give you a rundown of everything that was announced.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/",
-      "originalUrl": "https://www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/nvidia-gtc-2020-jensen-huang-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/?amp",
-      "publishedDateTime": "2020-10-05T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-want-india-to-become-global-hub-for-artificial-intelligence-pm-modi.md",
-      "title": "Want India to become global hub for Artificial Intelligence: PM Modi",
-      "excerpt": "Prime Minister Narendra Modi on Monday said that artificial intelligence (AI ... Similarly, it can play a crucial role in healthcare and education. The RAISE summit will also give opportunity to top 15 startups will be given an opportunity to showcase ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/india/want-india-to-become-global-hub-for-artificial-intelligence-pm-modi-11601912327145.html",
-      "originalUrl": "https://www.livemint.com/news/india/want-india-to-become-global-hub-for-artificial-intelligence-pm-modi-11601912327145.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2020/10/05/600x338/PTI05-10-2020_000245B_1601912413370_1601912427169.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/india/want-india-to-become-global-hub-for-artificial-intelligence-pm-modi/amp-11601912327145.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/want-india-to-become-global-hub-for-artificial-intelligence-pm-modi/amp-11601912327145.html",
-      "publishedDateTime": "2020-10-05T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

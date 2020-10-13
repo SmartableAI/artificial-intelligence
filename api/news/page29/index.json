@@ -2,6 +2,98 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-09-16-this-entrepreneur-is-using-ai-to-bring-affordable-treatments-to-cancer-patients.md",
+      "title": "This Entrepreneur Is Using AI To Bring Affordable Treatments To Cancer Patients",
+      "excerpt": "Cancer takes the lives of 10M people a year. Potentially life-saving cancer treatments might already exist: repurposed generic drugs. Dr. Laura Kleiman and her tech nonprofit Reboot Rx are leveraging AI to determine which generic drugs are most promising for treating cancer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/fastforward/2020/09/15/the-entrepreneur-using-ai-to-improve-cancer-care/",
+      "originalUrl": "https://www.forbes.com/sites/fastforward/2020/09/15/the-entrepreneur-using-ai-to-improve-cancer-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f612902c97dbeb3b752c762%2F0x0.jpg%3FcropX1%3D219%26cropX2%3D2599%26cropY1%3D88%26cropY2%3D1426",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/fastforward/2020/09/15/the-entrepreneur-using-ai-to-improve-cancer-care/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/fastforward/2020/09/15/the-entrepreneur-using-ai-to-improve-cancer-care/amp/",
+      "publishedDateTime": "2020-09-15T17:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-16-bp-and-microsoft-join-forces-to-advance-sustainability-goals.md",
+      "title": "bp and Microsoft join forces to advance sustainability goals",
+      "excerpt": "(NEW YORK) — bp and Microsoft have joined forces to advance their sustainability goals. To become net-zero, bp will need to remove or offset the same amount of emissions it releases each year into the atmosphere.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wbal.com/article/478897/113/bp-and-microsoft-join-forces-to-advance-sustainability-goals",
+      "originalUrl": "https://www.wbal.com/article/478897/113/bp-and-microsoft-join-forces-to-advance-sustainability-goals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.s3-media.wbal.com/Media/2020/09/15/8d5481f7-6748-4cbd-bfd9-73a82679572b/original.jpg",
+          "width": 630,
+          "height": 354,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wbal.com/article/478897/113/bp-and-microsoft-join-forces-to-advance-sustainability-goals/amp",
+      "cdnAmpWebUrl": "https://www-wbal-com.cdn.ampproject.org/c/s/www.wbal.com/article/478897/113/bp-and-microsoft-join-forces-to-advance-sustainability-goals/amp",
+      "publishedDateTime": "2020-09-15T17:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBAL",
+        "domain": "wbal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-16-buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag.md",
       "title": "Buy Or Build An Autonomous Race Car To Take The Checkered Flag",
       "excerpt": "For those of us whose interest and expertise lie in software, Amazon Web Services just launched AWS DeepRacer: a complete package for exploring machine learning on autonomous vehicles.",
@@ -1075,109 +1167,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-oracle-open-sources-java-machine-learning-library.md",
-      "title": "Oracle open-sources Java machine learning library",
-      "excerpt": "Tribuo offers tools for building and deploying classification, clustering, and regression models in Java, along with interfaces to TensorFlow, XGBoost, and ONNX",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3574935/oracle-open-sources-java-machine-learning-library.html",
-      "originalUrl": "https://www.infoworld.com/article/3574935/oracle-open-sources-java-machine-learning-library.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/07/machine-learning-and-mlops-hpe-ezmeral-softwaretg-100851051-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3574935/oracle-open-sources-java-machine-learning-library.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3574935/oracle-open-sources-java-machine-learning-library.amp.html",
-      "publishedDateTime": "2020-09-15T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-deepmind-wants-to-teach-robots-to-play-board-games.md",
-      "title": "DeepMind wants to teach robots to play board games",
-      "excerpt": "To encourage the development of techniques that might overcome it, researchers at DeepMind created custom scenarios for the physics engine MuJoCo that task an AI agent with coordinating perception ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/15/deepmind-wants-to-teach-robots-to-play-board-games/",
-      "originalUrl": "https://venturebeat.com/2020/09/15/deepmind-wants-to-teach-robots-to-play-board-games/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/0963552c-4d31-4cf0-9aea-d44c0262ab4f-e1600151359544.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/15/deepmind-wants-to-teach-robots-to-play-board-games/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/15/deepmind-wants-to-teach-robots-to-play-board-games/amp/",
-      "publishedDateTime": "2020-09-15T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

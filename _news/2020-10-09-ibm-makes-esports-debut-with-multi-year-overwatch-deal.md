@@ -140,19 +140,16 @@ related:
         height: 1206
         isCached: true
   - title: "IBM Enters Esports Arena with Activision Blizzard in New Multi-Year Deal as the Presenting Partner of the Overwatch League Grand Finals"
-    excerpt: "IBM's Watson artificial intelligence, and machine learning ARMONK, New York and IRVINE, California, Oct. 9, 2020 /PRNewswire/ -- Today, IBM and the Overwatch League™, the world's first ..."
-    publishedDateTime: 2020-10-09T06:01:00Z
-    webUrl: "https://www.finanzen.net/nachricht/aktien/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals-9375853"
+    excerpt: "IBM's Watson artificial intelligence, and machine learning Through the course of the deal, IBM and the Overwatch League plan to leverage IBM's suite of advanced cloud and AI products."
+    publishedDateTime: 2020-10-09T06:18:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/10/n17846724/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17846724"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17846724"
     type: article
     provider:
-      name: Finanzen
-      domain: finanzen.net
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 0
-    images:
-      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "UC4Fys4HnTNzSxYVogr7aNN674BrFcWLAvKztKvmFyzkNfpaaF5t0NNSwoKt5ODExkknKHvqaCCIhjTH1+MdPQjPMmSSrtz7dcGgRXL9C51UDq0vZpHLGMxOXL2YsVQQNDFn0p2absxoikkGk0imkuaeNRugffk3G+uIMlFF5wPxegkuOY2S/YKK2NOxpNKtzaqk46yXQCX2TwkVEOzwS8DT1JG2+HsQ72QgV+xT2CK/TwH6y3ldr2/7Sa3nKoZAPY9fsIweKzegBmc9NuMwSmmJGlhLwBTP2GTH+rf27hVMewEhHYGyskulyYKgY+eKWPOzodD0LeN6Gxt7kHULKIbX3GE9uREVCyODI2OSzCZ9IE1HK7w7nrLvCiMiM5fIfV3RhdDwoPrHb8ZnTI86gRcy8eOrshZ4hEfJkVFGiyyAfTBMN5EP+VSAYP+nxIMAVx2M0MJHkfks1CrrbC0/L/qlWwZ+zaXyhJOCjm8L67KY+b+00qeZNKlAJWX+GpxhdnSGclgcLNZTEGuYCWdItw==;ztTIhBzovMxtn/upuxBo4A=="
 ---
