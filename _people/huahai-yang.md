@@ -15,14 +15,14 @@ website: https://t.co/s5ydlRJnm8
 twitter:
   username: huahaiy
   url: https://twitter.com/huahaiy
-  followers: 1000
+  followers: 1001
 
 linkedin:
   url: https://www.linkedin.com/in/huahaiyang/
 
 googleScholar:
   url: https://scholar.google.com/citations?user=KvPSD8EAAAAJ
-  citations: 181709
+  citations: 182114
 
 topics:
   - AI
