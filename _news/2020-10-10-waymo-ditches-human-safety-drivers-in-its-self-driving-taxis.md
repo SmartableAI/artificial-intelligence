@@ -27,21 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Daily Crunch: Waymo opens up driverless ride-hailing"
-    excerpt: "Alphabet’s self-driving technology company hits a major milestone, Apple TV+ extends its free subscription period and Affirm files to go public. This is your Daily Crunch for. The big story: Waymo opens up driverless ride-hailing Waymo hit a major milestone today: It’s"
-    publishedDateTime: 2020-10-08T22:12:00Z
-    webUrl: "https://techcrunch.com/2020/10/08/daily-crunch-waymo-opens-up-driverless-ride-hailing/"
-    ampWebUrl: "https://techcrunch.com/2020/10/08/daily-crunch-waymo-opens-up-driverless-ride-hailing/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/08/daily-crunch-waymo-opens-up-driverless-ride-hailing/amp/"
+  - title: "Hidden Factor Steering For Trouble In Latest Elon Musk Versus Waymo Self-Driving Cars Squabble"
+    excerpt: "Latest spat of Elon Musk and Waymo highlights steering for troubles in self-driving. getty. There is an elephant in the room, but it seems as though nobody is noticing it. In the"
+    publishedDateTime: 2020-10-12T16:01:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/12/hidden-factor-steering-for-trouble-in-latest-elon-musk-versus-waymo-self-driving-cars-squabble/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/12/hidden-factor-steering-for-trouble-in-latest-elon-musk-versus-waymo-self-driving-cars-squabble/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/12/hidden-factor-steering-for-trouble-in-latest-elon-musk-versus-waymo-self-driving-cars-squabble/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 119
+      name: Forbes
+      domain: forbes.com
+    quality: 77
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2018/07/waymo.jpeg?w=1024"
-        width: 1024
-        height: 683
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8393a16e24fdc40c0501f3%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3685%26cropY1%3D1078%26cropY2%3D3843"
+        width: 1199
+        height: 900
+        isCached: true
+  - title: "EPFL tests out self-driving delivery service"
+    excerpt: "EPFL's Lausanne campus will serve as a testing ground for a high-tech delivery service that uses a self-driving van. A"
+    publishedDateTime: 2020-10-12T09:40:00Z
+    webUrl: "https://www.miragenews.com/epfl-tests-out-self-driving-delivery-service/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 24
+    images:
+      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/newsdevelopments-image.jpg"
+        width: 1416
+        height: 829
         isCached: true
 
 secured: "wqKFAI8GndDuFbQhB8fi9G8isBADb4UxCvkyuLsA0xQKvxF2BJ9zGlxG1sAQm2b32iw8VQGvwwO1qFeQ7n+0qF+yBvrK27b+UshPUJPLIHM6g/8TSOSPdw7PI8a/jRVvHCpUFq9YoJu6UYL7ukrIdTpUyRS4TxDmx80MK7dW17d03TZbLWFYidVUJ3m3herlXs0vDMOeMkhabhEMTJjVzPWWUoZk1WG8/c6ujenOUH7XB2syNGVGyRRaqZxasXXD6kTv5qboVdbqjIIZl2lnQAuosmp6nfpPx1HzNyxjnYYdN5htN0aBzR+3wY+Wo248NHfts/MNDz4Nmx04Nb1dLK633q48/bsAFwrotDSyXdKVXOaVnw3DLdFwc/rYW00hc4Tz9TUUPIHJH3Wmuf4WS9TDfurfDEq7g+0H4EecRboiW68MCaVcR9xs7shi9PO4kamYJmxROcusagF8Z+hV6HZOb9m+HdwgtZYFNDUYEvaWuhEAsuLRi/ji9V8mSAWE5zqf9qpOR0gi1OULSQWoAw==;/hvQP8c6GaeKuEagwYJTVw=="

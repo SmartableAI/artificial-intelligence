@@ -2,6 +2,90 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-26-iiit-sri-city-adds-mtech-programme-in-ai-machine-learning.md",
+      "title": "IIIT Sri City adds MTech Programme in AI & Machine Learning",
+      "excerpt": "IBM inaugurated the new MTech Programme in AI & ML at IIIT Sri City. She congratulated IIIT Sri City for pioneering the effort to produce",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/news/education/iiit-sri-city-adds-mtech-programme-in-ai-machine-learning/article32702623.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/news/education/iiit-sri-city-adds-mtech-programme-in-ai-machine-learning/article32702623.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/news/national/ukl1r2/article32452998.ece/ALTERNATES/LANDSCAPE_615/bl28-machine-learning",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/news/education/iiit-sri-city-adds-mtech-programme-in-ai-machine-learning/article32702623.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/education/iiit-sri-city-adds-mtech-programme-in-ai-machine-learning/article32702623.ece/amp/",
+      "publishedDateTime": "2020-09-26T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-26-study-mri-with-machine-learning-reveals-brain-changes-from-ptsd.md",
+      "title": "Study: MRI with machine learning reveals brain changes from PTSD",
+      "excerpt": "A new machine learning approach added to conventional magnetic resonance imaging can identify the regions of the brain causing dissociative symptoms in people with post-traumatic stress disorder, researchers found.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Health_News/2020/09/25/Study-MRI-with-machine-learning-reveals-brain-changes-from-PTSD/2911601057266/",
+      "originalUrl": "https://www.upi.com/Health_News/2020/09/25/Study-MRI-with-machine-learning-reveals-brain-changes-from-PTSD/2911601057266/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/i/2911601057266/2020/1/16010604892035/v1.5/Study-MRI-with-machine-learning-reveals-brain-changes-from-PTSD.jpg",
+          "width": 544,
+          "height": 365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Health_News/2020/09/25/Study-MRI-with-machine-learning-reveals-brain-changes-from-PTSD/2911601057266/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2020/09/25/Study-MRI-with-machine-learning-reveals-brain-changes-from-PTSD/2911601057266/",
+      "publishedDateTime": "2020-09-25T22:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-26-4-things-to-remember-when-adapting-aiml-learning-models-during-a-pandemic.md",
       "title": "4 things to remember when adapting AI/ML learning models during a pandemic",
       "excerpt": "The progress seen in AI/machine learning leading up to and during the pandemic cannot be ignored, but this crisis brings with it a unique opportunity for updates and innovation in modeling.",
@@ -368,6 +452,48 @@
       ]
     },
     {
+      "path": "_news/2020-09-25-researchers-demonstrate-how-deep-learning-can-advance-study-of-neural-degeneration.md",
+      "title": "Researchers demonstrate how deep learning can advance study of neural degeneration",
+      "excerpt": "elegans. The tool uses deep learning, a form of AI, and should facilitate and expedite research into neural degeneration. \"Having tools that allow us to identify these patterns of neural ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2020-09-deep-advance-neural-degeneration.html",
+      "originalUrl": "https://phys.org/news/2020-09-deep-advance-neural-degeneration.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/232-researchersd.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2020-09-deep-advance-neural-degeneration.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-09-deep-advance-neural-degeneration.amp",
+      "publishedDateTime": "2020-09-24T13:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-amazon-redesigns-the-echo-with-a-new-spherical-design-and-a-custom-machine-learning-processor.md",
       "title": "Amazon redesigns the Echo with a new spherical design and a custom machine learning processor",
       "excerpt": "Amazon has announced the fourth-generation version of its main Echo smart speaker, bringing a new spherical design and better sound performance. But the biggest change is a new, on-device speech recognition module that will locally process your audio on the Echo,",
@@ -406,48 +532,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-researchers-demonstrate-how-deep-learning-can-advance-study-of-neural-degeneration.md",
-      "title": "Researchers demonstrate how deep learning can advance study of neural degeneration",
-      "excerpt": "elegans. The tool uses deep learning, a form of AI, and should facilitate and expedite research into neural degeneration. \"Researchers want to study the mechanisms that drive neural degeneration ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-09/ncsu-rdh092420.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-09/ncsu-rdh092420.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/243999_web.jpg",
-          "width": 706,
-          "height": 652,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-24T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1287,91 +1371,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning.md",
-      "title": "Parcel Perform collaborates with Amazon Web Services (AWS) to improve e-commerce delivery experience with machine learning",
-      "excerpt": "Parcel Perform and Amazon Machine Learning Solutions Lab collaborated closely to build a flexible, scalable solution, combining AWS' expertise in ML and ML services like Amazon SageMaker ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-1029608850",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-1029608850",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-1029608850",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-1029608850",
-      "publishedDateTime": "2020-09-21T17:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-deep-learning-helps-explore-the-structural-and-strategic-bases-of-autism.md",
-      "title": "Deep learning helps explore the structural and strategic bases of autism?",
-      "excerpt": "But what if artificial intelligence (AI) could help? Deep learning, a type of AI, deploys artificial neural networks based on the human brain to recognize patterns in a way that is akin to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-09/tkai-dlh092220.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-09/tkai-dlh092220.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://eurekalert.org/multimedia/pub/web/243770_web.jpg",
-          "width": 600,
-          "height": 378,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

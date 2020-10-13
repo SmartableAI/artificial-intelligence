@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-13-announcing-advanced-azure-machine-learning-nanodegree-program-with-udacity.md",
+      "title": "Announcing advanced Azure Machine Learning nanodegree program with Udacity",
+      "excerpt": "Earlier this year we announced a free ‘introduction to Machine Learning’ course with Udacity, empowering 10,000 scholars from all over the world to learn the basics of machine learning. Today, we announce the new Machine Learning Engineer for Microsoft Azure Nanodegree Program on Udacity—students can",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/announcing-advanced-azure-machine-learning-nanodegree-program-with-udacity/",
+      "originalUrl": "https://azure.microsoft.com/blog/announcing-advanced-azure-machine-learning-nanodegree-program-with-udacity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-13T02:00:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs.md",
       "title": "Microsoft wants AI to be more helpful for people who are blind or use wheelchairs",
       "excerpt": "Transparency and Ethics (FATE) in AI group, said in the blog post. SEE: Natural language processing: A cheat sheet (TechRepublic) Topic areas range from personalized image recognition for blind or low-vision people to improved facial recognition for people ...",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.techrepublic.com/article/microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 193,
+      "heat": 183,
       "tags": null,
       "images": [
         {
@@ -115,7 +158,7 @@
       "originalUrl": "https://blogs.microsoft.com/ai/shrinking-the-data-desert/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 172,
+      "heat": 182,
       "tags": null,
       "images": [
         {
@@ -734,49 +777,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-30-microsoft-translator-now-supports-assamese-too.md",
-      "title": "Microsoft Translator now supports Assamese too",
-      "excerpt": "Microsoft India said on Wednesday that it has added Assamese as the latest Indian language in Microsoft Translator, increasing the number of Indian languages it supports to 12. The Azure-based service will now provide real-time translation and transliteration support for the language.",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1100880896/Microsoft-Translator-now-supports-Assamese-too",
-      "originalUrl": "https://menafn.com/1100880896/Microsoft-Translator-now-supports-Assamese-too",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2020-09/30/I_9ee6f788-9image_story.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T04:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2020-09-30-microsoft-unveils-azure-for-operators-to-unlock-5g-potential.md",
       "title": "Microsoft unveils Azure for Operators to unlock 5G potential",
       "excerpt": "Microsoft has announced a new cloud platform called Azure for Operators that has been designed to help telecommunications operators unlock the full potential of 5G. The new offering will help communication service providers create new opportunities and provide core infrastructure,",
@@ -815,6 +815,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-microsoft-translator-now-supports-assamese-too.md",
+      "title": "Microsoft Translator now supports Assamese too",
+      "excerpt": "Microsoft India said on Wednesday that it has added Assamese as the latest Indian language in Microsoft Translator, increasing the number of Indian languages it supports to 12.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/technology/tech-news/microsoft-translator-now-supports-assamese-too-648777",
+      "originalUrl": "https://www.thehansindia.com/technology/tech-news/microsoft-translator-now-supports-assamese-too-648777",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2020/09/30/1002386-microsoft.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/microsoft-translator-now-supports-assamese-too-648777",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/microsoft-translator-now-supports-assamese-too-648777",
+      "publishedDateTime": "2020-09-30T02:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -890,6 +932,48 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-microsoft-positions-itself-as-the-platform-of-choice-for-5g.md",
+      "title": "Microsoft Positions Itself as the Platform of Choice for 5G",
+      "excerpt": "Microsoft is also promoting other services, such as Azure Cognitive Services and Azure Machine Learning, to deliver artificial intelligence (AI) support to mobile operators. It also offers ...",
+      "sourceUrl": null,
+      "webUrl": "https://rcpmag.com/articles/2020/09/29/microsoft-platform-for-5g.aspx",
+      "originalUrl": "https://rcpmag.com/articles/2020/09/29/microsoft-platform-for-5g.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://rcpmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/PartyLIghtsinSkySmall.jpg",
+          "width": 647,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-29T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Redmond Channel Partner",
+        "domain": "rcpmag.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1317,100 +1401,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-how-microsoft-flight-simulator-became-a-living-game-with-azure-ai.md",
-      "title": "How 'Microsoft Flight Simulator' became a 'living game' with Azure AI",
-      "excerpt": "Microsoft Flight Simulator is a triumph, one that fully captures the meditative experience of soaring through the clouds. But to bring the game to life, Microsoft and developer Asobo Studio needed more than an upgraded graphics engine to make its planes look more realistic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/microsoft-flight-simulator-azure-ai-machine-learning-193545436.html",
-      "originalUrl": "https://www.engadget.com/microsoft-flight-simulator-azure-ai-machine-learning-193545436.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F92036cb1-ff61-11ea-bf3e-731546a38c60&client=amp-blogside-v2&signature=ffe8a2b4c0f922e4dd987dfb384f0ddaa42ed397",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-25T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-10-mlops-platforms-to-manage-the-machine-learning-lifecycle.md",
-      "title": "10 MLops platforms to manage the machine learning lifecycle",
-      "excerpt": "We’ve identified several cloud platforms and frameworks for managing the machine learning lifecycle. These currently include Algorithmia, Amazon SageMaker, Azure Machine Learning, Domino Data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/683217/10-mlops-platforms-manage-machine-learning-lifecycle/",
-      "originalUrl": "https://www.arnnet.com.au/article/683217/10-mlops-platforms-manage-machine-learning-lifecycle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/m.jpg",
-          "width": 700,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-24T21:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

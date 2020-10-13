@@ -2,6 +2,275 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-09-26-profiting-from-the-rise-of-robotics.md",
+      "title": "Profiting from the Rise of Robotics",
+      "excerpt": "O f the many hyper-growth themes emerging today, artificial intelligence (AI) and robotics are among those sure to have the most profound impact on day-to-day life. With that stat",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/profiting-from-the-rise-of-robotics-2020-09-25",
+      "originalUrl": "https://www.nasdaq.com/articles/profiting-from-the-rise-of-robotics-2020-09-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/profiting-from-the-rise-of-robotics-2020-09-25?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/profiting-from-the-rise-of-robotics-2020-09-25?amp",
+      "publishedDateTime": "2020-09-25T10:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-26-google-launches-ai-platform-prediction-in-general-availability.md",
+      "title": "Google launches AI Platform Prediction in general availability",
+      "excerpt": "courtesy of an engine that selects compatible cloud hardware (e.g., AI accelerator chips) automatically. On supported virtual machines, it shows metrics like graphics card, processor, RAM ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/25/google-launches-ai-platform-prediction-in-general-availability/",
+      "originalUrl": "https://venturebeat.com/2020/09/25/google-launches-ai-platform-prediction-in-general-availability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/25/google-launches-ai-platform-prediction-in-general-availability/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/25/google-launches-ai-platform-prediction-in-general-availability/amp/",
+      "publishedDateTime": "2020-09-25T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-this-extraordinary-ai-has-stunned-computer-scientists-with-its-writing.md",
+      "title": "This Extraordinary AI Has Stunned Computer Scientists With Its Writing",
+      "excerpt": "For example, it could be asked to translate something from English ... op-ed around 500 words.” “Keep the language simple and concise,” he instructed. “Focus on why humans have nothing to fear from AI.” GPT-3 produced eight different essays ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fastcompany.com/90554974/this-extraordinary-ai-has-stunned-computer-scientists-with-its-writing-ability",
+      "originalUrl": "https://www.fastcompany.com/90554974/this-extraordinary-ai-has-stunned-computer-scientists-with-its-writing-ability",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/09/p-190554974-a-language-generation-programand8217s-ability-to-write-articles-produce-code-and-compose-poetry-has-wowed-scientists.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-25T09:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fast Company",
+        "domain": "fastcompany.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-three-coming-shifts-in-ai.md",
+      "title": "Three Coming Shifts In AI",
+      "excerpt": "Beyond the announcements and the hype, is AI really evolving? In this article, I’d like to focus not on far-off, vague hopes and wishes about AI, but instead on a few concrete developments that lie in the not-so-distant future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/amirhusain/2020/09/25/three-coming-shifts-in-ai/",
+      "originalUrl": "https://www.forbes.com/sites/amirhusain/2020/09/25/three-coming-shifts-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6e0dde8f8678b1a065cccb%2F0x0.jpg%3FcropX1%3D639%26cropX2%3D1859%26cropY1%3D1084%26cropY2%3D1771",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/amirhusain/2020/09/25/three-coming-shifts-in-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amirhusain/2020/09/25/three-coming-shifts-in-ai/amp/",
+      "publishedDateTime": "2020-09-25T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-palestinian-leader-calls-for-new-peace-process-in-un-speech.md",
+      "title": "Palestinian leader calls for new peace process in UN speech",
+      "excerpt": "Palestinian President Mahmoud Abbas has called for an international conference early next year to launch a \"genuine peace process.”",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/International/wireStory/palestinian-leader-calls-peace-process-speech-73242966",
+      "originalUrl": "https://abcnews.go.com/International/wireStory/palestinian-leader-calls-peace-process-speech-73242966",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/International/WireAP_dc953cda8c164be68954efa57304a11b_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/palestinian-leader-calls-peace-process-speech-73242966",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/palestinian-leader-calls-peace-process-speech-73242966",
+      "publishedDateTime": "2020-09-25T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-mit-prof-wins-1m-award-for-machine-learning-based-cancer-detection.md",
+      "title": "MIT Prof Wins $1M Award for Machine Learning-Based Cancer Detection",
+      "excerpt": "Professor Regina Barzilay of MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) pioneered new advances in breast cancer detection using machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/mit-prof-wins-1m-award-for-machine-learning-based-cancer-detection",
+      "originalUrl": "https://www.pcmag.com/news/mit-prof-wins-1m-award-for-machine-learning-based-cancer-detection",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/030rLSKD8S7Pi7pPiiqgCuw-1.1601045739.fit_lim.size_1200x630.jpg",
+          "width": 805,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/mit-prof-wins-1m-award-for-machine-learning-based-cancer-detection?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/mit-prof-wins-1m-award-for-machine-learning-based-cancer-detection?amp=true",
+      "publishedDateTime": "2020-09-25T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-ai-can-detect-how-lonely-you-are-by-analysing-your-speech.md",
       "title": "AI can detect how lonely you are by analysing your speech",
       "excerpt": "Researchers in the US used several AI tools, including IBM Watson, to analyse transcripts of older adults interviewed about feelings of loneliness.",
@@ -859,303 +1128,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-improved-ocr-and-structured-data-extraction-with-amazon-textract.md",
-      "title": "Improved OCR and structured data extraction with Amazon Textract",
-      "excerpt": "Optical character recognition (OCR) technology, which enables extracting text from an image, has been around since the mid-20th century, and continues to be a research topic today. OCR and document understanding are still vibrant areas of research because they’re both valuable and hard problems to solve.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improved-ocr-and-structured-data-extraction-with-amazon-textract/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improved-ocr-and-structured-data-extraction-with-amazon-textract/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-24T15:52:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-lapd-officers-reportedly-used-facial-recognition-30000-times-in-the-past-decade-contradicting-the-departments-previous-denials.md",
-      "title": "LAPD officers reportedly used facial recognition 30,000 times in the past decade, contradicting the department's previous denials",
-      "excerpt": "Despite frequent denials and refusals to respond to public records requests, the LAPD has been using the controversial technology widely since 2009.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/lapd-used-facial-recognition-tech-30000-times-despite-denials-2020-9",
-      "originalUrl": "https://www.businessinsider.com/lapd-used-facial-recognition-tech-30000-times-despite-denials-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f697d0e57b7da001ee12f99?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/lapd-used-facial-recognition-tech-30000-times-despite-denials-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lapd-used-facial-recognition-tech-30000-times-despite-denials-2020-9?amp",
-      "publishedDateTime": "2020-09-24T15:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-lemonade-cfo-tim-bixby-to-present-at-the-barclays-global-financial-services-conference.md",
-      "title": "Lemonade CFO Tim Bixby to Present at the Barclays Global Financial Services Conference",
-      "excerpt": "Tim Bixby, Chief Financial Officer of Lemonade (LMND), will present at the Barclays Global Financial Services Conference on Wednesday, September 16, 2",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200916005883/en/Lemonade-CFO-Tim-Bixby-to-Present-at-the-Barclays-Global-Financial-Services-Conference",
-      "originalUrl": "https://www.businesswire.com/news/home/20200916005883/en/Lemonade-CFO-Tim-Bixby-to-Present-at-the-Barclays-Global-Financial-Services-Conference",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200916005883/en/812026/23/Lemonade_Logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-24T15:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-breonna-taylor-case-sparks-amazon-web-services-ceo-to-call-for-police-culture-change.md",
-      "title": "Breonna Taylor case sparks Amazon Web Services CEO to call for police ‘culture change’",
-      "excerpt": "Amazon Web Services CEO Andy Jassy, who has been at the center of the debate over the use of Amazon technology by law enforcement, has weighed in on the culture of policing in the wake of the",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/breonna-taylor-case-sparks-amazon-web-services-ceo-tweet-need-police-culture-change/",
-      "originalUrl": "https://www.geekwire.com/2020/breonna-taylor-case-sparks-amazon-web-services-ceo-tweet-need-police-culture-change/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/12/AJ%402x-630x467.png",
-          "width": 630,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/breonna-taylor-case-sparks-amazon-web-services-ceo-tweet-need-police-culture-change/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/breonna-taylor-case-sparks-amazon-web-services-ceo-tweet-need-police-culture-change/amp/",
-      "publishedDateTime": "2020-09-24T14:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-how-to-lead-plan-and-forecast-revenue-in-wartime-with-ai.md",
-      "title": "How To Lead, Plan And Forecast Revenue In Wartime With AI",
-      "excerpt": "Alyssa Filter, CFO of the sales forecasting platform Clari, a revenue operations platform used by such companies as Zoom, Okta, Lenovo and Adobe, shares advice in an interview on how she is helping lead the company through this crisis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lucianapaulise/2020/09/23/how-to-lead-plan-and-forecast-revenue-in-wartime-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/lucianapaulise/2020/09/23/how-to-lead-plan-and-forecast-revenue-in-wartime-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6b8b35a5b58517abba8d96%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1390%26cropY1%3D342%26cropY2%3D1124",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lucianapaulise/2020/09/23/how-to-lead-plan-and-forecast-revenue-in-wartime-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lucianapaulise/2020/09/23/how-to-lead-plan-and-forecast-revenue-in-wartime-with-ai/amp/",
-      "publishedDateTime": "2020-09-24T14:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-swedens-ericsson-telia-present-self-driving-bus-ahead-of-5g-spectrum-auction.md",
-      "title": "Sweden's Ericsson, Telia present self-driving bus ahead of 5G spectrum auction",
-      "excerpt": "Telecoms gear maker Ericsson and mobile operator Telia on Thursday showcased a self-driving, electric bus in Stockholm as the companies look at new business areas ahead of mass deployment of 5G technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-ericsson-autonomous-idUSKCN26F2V6",
-      "originalUrl": "https://www.reuters.com/article/us-ericsson-autonomous-idUSKCN26F2V6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200924&t=2&i=1534799334&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8N1NF",
-          "width": 726,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN26F2V6",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26F2V6",
-      "publishedDateTime": "2020-09-24T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

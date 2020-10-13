@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 986
         isCached: true
+  - title: "Spotify open-sources Klio, a framework for AI audio research"
+    excerpt: "Over the years, the company has begun to tap natural language processing, audio models, and filtering to serve up recommendations and curate playlists including Discovery Weekly and Release Radar."
+    publishedDateTime: 2020-10-13T15:51:00Z
+    webUrl: "https://venturebeat.com/2020/10/13/spotify-open-sources-klio-a-framework-for-ai-audio-research/"
+    ampWebUrl: "https://venturebeat.com/2020/10/13/spotify-open-sources-klio-a-framework-for-ai-audio-research/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/13/spotify-open-sources-klio-a-framework-for-ai-audio-research/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/04/spotify-nyse.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 669
+        isCached: true
   - title: "The Next Generation Of Artificial Intelligence"
     excerpt: "What will the next generation of artificial intelligence look like? Which novel AI approaches will unlock currently unimaginable possibilities in technology and business? This article highlights three emerging areas within AI that are poised to redefine the field—and society—in the years ahead."
     publishedDateTime: 2020-10-13T01:28:00Z

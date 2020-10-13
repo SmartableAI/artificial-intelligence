@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Researchers demonstrate how deep learning can advance study of neural degeneration"
-excerpt: "elegans. The tool uses deep learning, a form of AI, and should facilitate and expedite research into neural degeneration. \"Researchers want to study the mechanisms that drive neural degeneration ..."
-publishedDateTime: 2020-09-24T18:05:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-09/ncsu-rdh092420.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-09/ncsu-rdh092420.php"
+excerpt: "elegans. The tool uses deep learning, a form of AI, and should facilitate and expedite research into neural degeneration. \"Having tools that allow us to identify these patterns of neural ..."
+publishedDateTime: 2020-09-24T20:13:00Z
+originalUrl: "https://phys.org/news/2020-09-deep-advance-neural-degeneration.html"
+webUrl: "https://phys.org/news/2020-09-deep-advance-neural-degeneration.html"
+ampWebUrl: "https://phys.org/news/2020-09-deep-advance-neural-degeneration.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-09-deep-advance-neural-degeneration.amp"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/243999_web.jpg"
-    width: 706
-    height: 652
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/232-researchersd.jpg"
+    width: 1440
+    height: 810
     isCached: true
 
-secured: "XeYUinnPxGqW8e3cyDna6NfF886UlBULeNtvxm4uF6AvWIYVxkNAhwxyQ5tTnyOcuPlDGwLWeI9p8NmhN5qCZ4PQRT6D8vOaQWFBMh3isdIaKf2auvMnEVIs2xg5fPY6t6N/yOnazx5NT0sriHEroVWy0JAZmzNbr9OB76lj5PoH+ZUx/efUsdFObgDlK866K9WxgZfgREzNboLl/3/dAmVZmQuS2TNow09GJbpoCEjxYtM4SmzYYjTWWAnLrHhOfdAowORgfhjQXSGEGUdgKKMQ/2TkZp7cytHevlkzCD5wlweQgICCmqj0R33/BXwtChnobmswT7dGVkwQSNsxlrLPh3fvLZTdbh9hak7Z6so=;wjsy8NF2nDXEGpzPf2X2sA=="
+secured: "UiEsMdFgzxynQ00vnmbCkOzsQeUoCc8/JpD4YhRtq9XHU8kZx8c28Gf+ptM7S5edCMDujTb35DjQguKCPM/wiGIWuXEGhGQm2s1eMySjuHWjN16VwbMqvlLhfrJydi9UyIp7lKwNmMeMpJJdcA+EjVsk7BMaiRPgY5vgYh5OBp6+E85FRsLMPKzYq+8seR1SBcqP1XDokqxu8jOp5ahLLSgXMiZ2SOj3jLLGXRF15d4ArsjkB+X+b3SoTKXNyyh3AqFMtP7eASiJ8VXKojODl45AbySsAHQixB6994SrBqGc5bIOCW4FE5XlqRkKELEXgVA/uBlU0EQSNjndb1GqqIfXcvjPh6rgcfdaPDrSKKs=;BkHa/yJnjpWNOxQ3OQLrQQ=="
 ---
 

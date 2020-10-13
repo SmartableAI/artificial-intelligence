@@ -1,24 +1,27 @@
 ---
 category: news
 title: "CloudCommerce Adds Artificial Intelligence (AI) Layer to SWARM"
-excerpt: "SAN ANTONIO, Oct. (GLOBE NEWSWIRE) -- CloudCommerce, Inc. (CLWD), a leading provider of digital advertising solutions, today announced that it has entered into"
-publishedDateTime: 2020-10-13T07:01:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/10/g17877452/cloudcommerce-adds-artificial-intelligence-ai-layer-to-swarm"
-webUrl: "https://www.benzinga.com/pressreleases/20/10/g17877452/cloudcommerce-adds-artificial-intelligence-ai-layer-to-swarm"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17877452"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17877452"
+excerpt: "( CLWD ), a leading provider of digital advertising solutions, today announced that it has entered into a license agreement with Pattern89 to add its artificial intelligence (AI) technology to SWARM,"
+publishedDateTime: 2020-10-13T07:13:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/cloudcommerce-adds-artificial-intelligence-ai-layer-to-swarm-1029672436"
+webUrl: "https://markets.businessinsider.com/news/stocks/cloudcommerce-adds-artificial-intelligence-ai-layer-to-swarm-1029672436"
 type: article
-quality: 52
-heat: 52
+quality: 64
+heat: 64
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
+  - Facebook AI
 
-secured: "f8ykrpQQlDfKG8LcVI8gvU0fdF31BU+ParW34LbjiscpgKndF6sxq3wrvbvtBqXhAXb42autJYLWgtSuU26IqzZv5u8lHFO16b+3qg9Kn8yEzZzXxgcmeYzEVjnq5Ku+l2Xz06yqj5zj8UEqzvk3zHmrDUAHWl1TRXMb14OLsg6RQDINPEIRTO2n2FgXQtlnc69Tmt8Ka0Uzq8f81KvuoQmK1lcU9QUcWX+HOokhxq+SXuJOmz7LH3ADkPiUIHfy6j0egd/dvxPXZtg41NTr1vKA472p1NwbH/cL2n42R0dL9sun98iZUigQ22alDFd5XIRnKHW3jfeexz/Xf0pYL9aOAm5dhu/rvzkg856lKmo=;vSfiI0W21JS4IXu4h3Py8w=="
+secured: "gY6/H10IZTxXll7FO1yqATSIqKAoYP6ZNLjnUUY7JoNMFHQ/u95e0K6JKF8MUhqYBnHYv2kcCTs6fDlm1DhaZC1sUN+1PaD7O/vmujQUSHQq/sG7NRQ3F1hDwfBIc+mIPRjkxKsLzBYCpUgNqLRzSTaKj366oRzTZcYHvQOLrioMgzgM+ROGE5Pv+j/KCk5iyBqvKU3jc7Z/hSoqU+Fip6y06mH0KL9arKciAnjopq/yBGnWqRyh/ZS8vyUdtJ0j/hGk400TghthgEV/C7jU5lpvPUAEjxQTRdOnL2bpM3EEYlepEo/0jRRH7AOWbkyAy4w2EHzmOxWD2d2IqYvinY8DrPTVaNxF3scCx71Qumw=;TiTC28Kw7pdeviPros6nMQ=="
 ---
 

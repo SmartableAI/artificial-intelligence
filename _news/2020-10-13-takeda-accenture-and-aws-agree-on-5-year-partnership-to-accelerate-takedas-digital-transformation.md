@@ -7,7 +7,7 @@ originalUrl: "https://www.finchannel.com/business/161-pharmacy/78621-takeda-acce
 webUrl: "https://www.finchannel.com/business/161-pharmacy/78621-takeda-accenture-and-aws-agree-on-5-year-partnership-to-accelerate-takeda-s-digital-transformation"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 640
     height: 426
     isCached: true
+
+related:
+  - title: "Takeda to transform into a 'cloud-first company' through Accenture, AWS partnership"
+    excerpt: "As an increasing number of biopharmaceutical companies go all-in on artificial intelligence, Takeda has now committed to equipping each of its scientists with cloud-based research tools by the end of this decade."
+    publishedDateTime: 2020-10-13T14:50:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/takeda-to-transform-into-a-cloud-first-company-through-accenture-aws-partnership"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 35
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1602599226/Takeda.jpg/Takeda.jpg?BYeb2lf3iREiBNdvLaU1Xh_lI6I_5aaJ"
+        width: 800
+        height: 536
+        isCached: true
 
 secured: "EL+K6PqL3rkUAgyHCXApOVEGZsnRZrfx2KDM2CazACTvoYVAuT+fvpvh3wopfVRiT18CJaO3IbkmYMmV+IyPizp67qCSSfZSjUOmREnYqPl/GTLBPEicG9AsuS2twwkJXTmlr+t2/f+EijB6rh8A1j/THPgqS7tt8SqYsNKklILnBYqqUJ9sqf10OJng+Q4qOHj5/9l85qC2/eNByGYueYrnA9HjUV/wa28d4Si2i37fYwgf2s0B5Dehf+xILCZh614VN3LF5nOK1dGHL43LAFHJOSjj6JMzKFyEpSiREW8v8ngXooF89MTQGMsMc/CMJIckU1Wcm/jolm5kUo2PQ7KahTyn4WT8EF7vuCOD9M8=;ODJy7mA8oBqAhNaF+rRDCw=="
 ---

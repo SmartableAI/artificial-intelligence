@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/12/hidden-factor-ste
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/12/hidden-factor-steering-for-trouble-in-latest-elon-musk-versus-waymo-self-driving-cars-squabble/amp/"
 type: article
 quality: 77
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Waymo Ditches Human Safety Drivers in Its Self-Driving Taxis"
+    excerpt: "Waymo One, the self-driving taxi service operated by Google parent company Alphabet’s autonomous vehicle offshoot, is back after a pandemic hiatus, and it’s opening its doors to the public. As it does,"
+    publishedDateTime: 2020-10-09T18:20:00Z
+    webUrl: "https://futurism.com/waymo-ditches-safety-drivers-self-driving-taxis"
+    ampWebUrl: "https://futurism.com/waymo-ditches-safety-drivers-self-driving-taxis/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/waymo-ditches-safety-drivers-self-driving-taxis/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 59
+    images:
+      - url: "https://wp-assets.futurism.com/2020/10/waymo-opening-autonomous-taxi-service-public-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "EPFL tests out self-driving delivery service"
     excerpt: "EPFL's Lausanne campus will serve as a testing ground for a high-tech delivery service that uses a self-driving van. A"
     publishedDateTime: 2020-10-12T09:40:00Z

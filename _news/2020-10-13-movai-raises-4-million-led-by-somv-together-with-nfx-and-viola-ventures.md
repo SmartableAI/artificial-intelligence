@@ -21,6 +21,22 @@ provider:
 topics:
   - AI
 
-secured: "Lu63RStbs1g8G23vyxuUz2C3fCZbCNH1y+LmLVo4FWyosyPiJuPe8mKb3xJlg8QxKXYJ/c/GMLNUQtvKekvj1Gg2h7H1H/0Ie4uLTOf2kXhYtpwRaQfNfFtjmOj9dXn6JhKB6NGGHshlxhTJHoLEZkduVmrS60zPZWdHYc/hpz7UBQWYM38UVTxplbmryblzFEyiVZbMI0IU/korURK2LlOnTY15ZSN1R9Le9H/krFSpN7uWr/12NFDwjUXgI3cLLW3bxe6d4suVomwtQ1cfsZXoFiM9HXoXUEDyUd/PCeyeuQsD8+/QdtleUm+ByJKPJtmpMBo1J0hxsF+OGXEPLzOw5xrgGQISp6LPECngHUY=;tbwFV6Fr+vmMvxZVJymfIw=="
+related:
+  - title: "MOV.AI Closes $4M Financing Round"
+    excerpt: "MOV.AI, a Lisbon, Portugal-based provider of an enterprise-grade ROS development & run time environment for cobots (collaborative robots), closed a $4m financing round, bringing the total capital raised to $8m. The round was led by SOMV and existing ..."
+    publishedDateTime: 2020-10-13T14:51:00Z
+    webUrl: "https://www.finsmes.com/2020/10/mov-ai-closes-4m-financing-round.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2020/10/mov-ai.jpg"
+        width: 400
+        height: 400
+        isCached: true
+
+secured: "huFTw+TJ/AVCOWsga8dC9NyvIylI9NUIHWj7zu/5wE2qHJLgwziKBsteVXWyOu6r/+ORxlKk1X5UUbCpnJgw13Wvyce+0b0+m8vrTJZTcrzYdQakLMFbxTOYWjEAYRcF84CpWQHHcf7HTR228wq6E2cUrUmvfiCoH7mppBwfduQOb9QQ0DYsZ2Zf8SHuh2lYfwHZ47aG8u7yVsjFxJxCOru+NbDZz5eO3LwPRoB/1MxBUkhhjrQjuPN8SSM129TvaUdsWVpjBVsFA2Y6O8iolNyaZuosWDPTppm7XB8VY0HvSgwmOzkFjBkF7vd5ZYOs8uryJfDU9tK+rWSG2UELf0k5zU9Fkg9oXppBgnlp2/k=;QnQcJDVcPFrj9YhrkOpmEQ=="
 ---
 

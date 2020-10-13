@@ -39,6 +39,20 @@ related:
         width: 723
         height: 407
         isCached: true
+  - title: "Facebook changes course to ban Holocaust denial"
+    excerpt: "In a major departure from Mark Zuckerberg’s past approach to Holocaust denial on Facebook, the company said Monday that it would ban such content and make related changes in the coming weeks. — FCC slot,"
+    publishedDateTime: 2020-10-13T14:08:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-tech/2020/10/13/facebook-changes-course-to-ban-holocaust-denial-790938"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 24
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "xm3JVEu5Pb9M/LNdJhKLG2yjlnaG5xnGcaYhQzBIoRH4PuZwQwiCNSIe9EWxHMy0bwIs9KdXMrDUdYsS0NvURwn8/5baecrdXkJq5LLrOgKCyEO1l7QKAJv/Wvtj9YIiz0DChXfE4I2JY4ehgK28j9aQpI3Q0qfkXC5diKLAL6rc9kPmbRUYsNIqViwoXfkwKOsYTAk9J/1BRETpqJt9cNWegCoXEVM5Z35hG9Bog8qTrrbSm7VdYb1RaPPCYQwTAA+dHs+4wpVstTa8vnM4tlI9SeGGxgHs6lOZSZ8iRzeA6LVrAb4De/LQOjUAuNVeeJ50uxOReC+tJhx2sU2iLOL2mbpSnydJv5moqpQsTel4S+4GYzrS4lN3ojAT0I62id352iQclP7wwuAsLGTQXAlegxxS2aXFB5imicoAzkBZc+v/YaXb8Mu9PEvMXfZNCJDBr+1Pyl2iuA3dcQo55INwEmr8NpDX7/CvdMk2CkZ6j3mGaAxwUxdaUjmDEAe8WlebgMjrTGPx93wbJoC5Hg==;JUBwVCM5SVyZDX7EcQ3Axw=="
 ---

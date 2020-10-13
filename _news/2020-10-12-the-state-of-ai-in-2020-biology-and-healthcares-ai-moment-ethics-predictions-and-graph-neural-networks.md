@@ -2,14 +2,14 @@
 category: news
 title: "The state of AI in 2020: Biology and healthcare's AI moment, ethics, predictions, and graph neural networks"
 excerpt: "Research and industry breakthroughs, ethics, and predictions. This is what AI looks like today, and what it's likely to look like tomorrow."
-publishedDateTime: 2020-10-12T14:46:00Z
-originalUrl: "https://www.zdnet.com/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/"
-webUrl: "https://www.zdnet.com/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/"
+publishedDateTime: 2020-10-12T15:00:00Z
+originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/"
+webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/"
 type: article
-quality: 122
-heat: 132
+quality: 120
+heat: 130
 published: true
 
 provider:
@@ -21,11 +21,10 @@ provider:
       height: 50
 
 topics:
-  - AI Hardware
+  - Machine Learning
   - AI
   - AI Ethics
   - AI in Healthcare
-  - Machine Learning
 
 images:
   - url: "https://zdnet4.cbsistatic.com/hub/i/2020/10/12/fff374f0-59d9-4c75-8931-70212d1b7506/fda-ml.png"
@@ -49,6 +48,6 @@ related:
         height: 300
         isCached: true
 
-secured: "8VOydjM5+W0sfO4hDPvZaJomJoNkyl35f1vJrvk+xjjPDRI1E5koDBjmHMXT7Mt5uPcMnRAQ4g1Klo4bEerFRFsgDiyj6/tSWVVLj66Up/jlZlJJk0YSi7yX1cr3kigqi5/BCR5Hv1Lh/znCn3cdq2TnfvgR6IIlI6tbuHqNoC4iW35DbU4oEQO7s+xCZ85TbL7C0AvT6CUjZbLVTyZcTouI1nf3q2m3PRDdBTH7tKy81hHhxaPjV4W0xOg6UWMtEhxJb8Oj6jfigOwfHhqi+K17+4fCRYV9CK0ZSdTeIzY5sLiH+mjQIJLzVYkh0mEA9gpogf7qkZTDTXZ1uBrZe9/uUQDcg/G/+6JqBWegPRNqA5nfcbieRS37hDMWygrzqC3tjhQWZYweCVYwHtXbHXFyKtq89zrEXwFyf9MiowpFkJ5pByW6cAfjMxhufBcZ43259n9fWvNTR2D7jDkgSOfPBSOgKD2aD75MTY29w1OR/FO9k6D1Jwypzo5ULZXnIiqV2uLIIApsTtIwppagxg==;rL71J9JdebV8qf2EknTtUg=="
+secured: "MDE9ggWhx3TTpV7lD5fBHCKt5WX5j9CXhYdpDcGiwuGqUC0PGt02CdRVpMn24/Qg1nrqgVPi9tyLYRkQvxWFgBM3hJv5Tw/sK70+neNlvLWVFuBH+DPK/3e42D5VOIfaBQ9Juj4BNjrGtzNVauP+QSotvJQ3S/LhpgpP45wZY2BsEsfEC0IzLwc2PA+/wof4T1w/Cw2YFDws2w/OWw85m0j1IOyKfnGULED08eZRacqRL5j2TU7ZUuohqZuBUoW/nDCYEMTG5vMg4b12usi48dZnB/rtyd1pEtv3s1BLMlNewC+BcBQmnWPW43TOB5DwsOxTg+7gyG6IW+YSZBI2ciUitNiN6phmUiG5IdYnzcE=;8a8RT/bz/Wk477m3M222GQ=="
 ---
 

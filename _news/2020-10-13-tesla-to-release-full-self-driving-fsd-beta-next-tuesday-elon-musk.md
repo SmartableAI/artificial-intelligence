@@ -156,6 +156,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Musk: Tesla Is Rolling Out a Beta of “Full Self-Driving” Next Week"
+    excerpt: "Driving Beta” to certain owners some time next week, according to a tweet by CEO Elon Musk. In August, Musk promised that the next Full Self-Driving update will be a “quantum leap, because it’s a fundamental architectural rewrite,"
+    publishedDateTime: 2020-10-13T14:22:00Z
+    webUrl: "https://futurism.com/the-byte/tesla-beta-full-self-driving"
+    ampWebUrl: "https://futurism.com/tesla-beta-full-self-driving/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/tesla-beta-full-self-driving/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 59
+    images:
+      - url: "https://wp-assets.futurism.com/2020/10/tesla-beta-full-self-driving-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Elon Musk says Tesla will release a beta version of its 'Full Self-Driving' feature that's not fully autonomous next week to some drivers"
     excerpt: "Good Subscriber Account active since DOW S&P 500 NASDAQ 100 Tesla will release a new beta version of its \"Full Self-Driving\" driver-assistance package next week, Tesla CEO Elon Musk tweeted Monday."
     publishedDateTime: 2020-10-12T16:44:00Z
@@ -201,6 +217,20 @@ related:
       - url: "https://static.seekingalpha.com/uploads/2020/10/12/saupload_tsla_1.png"
         width: 612
         height: 232
+        isCached: true
+  - title: "Tesla to launch 'Full Self Driving' beta to select drivers"
+    excerpt: "Tesla CEO Elon Musk has revealed that the company will launch its next-gen Full Self Driving (FSD) set of features to a limited number of expert and careful drivers on. \"Limited FSD beta releasing on Tuesday next week,"
+    publishedDateTime: 2020-10-13T15:03:00Z
+    webUrl: "https://www.dailypioneer.com/2020/technology/tesla-to-launch--full-self-driving--beta-to-select-drivers.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 54
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/tesla-to-launch--full-self-driving--beta-to-select-drivers-2020-10-13.jpg"
+        width: 1000
+        height: 800
         isCached: true
   - title: "Elon Musk announces Tesla is set to rollout 'Full Self-Driving' beta to a small number of drivers"
     excerpt: "Tesla CEO Elon Musk announced the firm is releasing an upgrade to Autopilot that adds 'Full Self-Driving' abilities with certain features that makes the car semi-autonomous."

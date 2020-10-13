@@ -1,23 +1,27 @@
 ---
 category: news
 title: "Asia Pacific Digital Transformation Research Report 2020-2025: Focus on 5G, Artificial Intelligence, Internet of Things, and Smart Cities"
-excerpt: "G, Artificial Intelligence, Internet of Things, and Smart Cities in APAC 2020 - 2025\" report has been added to ResearchAndMarkets.com's offering. We sift through this volatile market for consistent trades so you don't have to."
+excerpt: "G, Artificial Intelligence, Internet of Things, and Smart Cities in APAC 2020 - 2025\" report has been added to ResearchAndMarkets.com's offering. The AI segment is currently very fragmented, characterized with most companies focusing on silo approaches to solutions."
 publishedDateTime: 2020-10-12T15:15:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/10/n17870637/asia-pacific-digital-transformation-research-report-2020-2025-focus-on-5g-artificial-intelligence-"
-webUrl: "https://www.benzinga.com/pressreleases/20/10/n17870637/asia-pacific-digital-transformation-research-report-2020-2025-focus-on-5g-artificial-intelligence-"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17870637"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17870637"
+originalUrl: "https://www.prnewswire.com/news-releases/asia-pacific-digital-transformation-research-report-2020-2025-focus-on-5g-artificial-intelligence-internet-of-things-and-smart-cities-301150156.html"
+webUrl: "https://www.prnewswire.com/news-releases/asia-pacific-digital-transformation-research-report-2020-2025-focus-on-5g-artificial-intelligence-internet-of-things-and-smart-cities-301150156.html"
 type: article
 quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
+
+images:
+  - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+    width: 800
+    height: 419
+    isCached: true
 
 related:
   - title: "Global Artificial Intelligence Market (2020 to 2026) - Bringing AI to Edge Devices Presents Opportunities"
@@ -28,8 +32,8 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 47
+    quality: 49
 
-secured: "LSiH+cGqb84nYBrdjUT0i5v9tSJF6AeBWLcIXM03uUJTeGYdhdwRWVCgnq24DcmPVcb6arXKoUllXdr/Q+UUJdD074b3Hp9cRPeHKEBIWB3NDctQB5zjeVa8TAWytzi1Um61XshZueSj8B/TmqMYdMldTfv0l8tD6P+cIOjGiGMaI9O7iRDJLrVy54VIJzja8HCIe2qqAVi5eG2oQPkvxgADYZ0nnqLLrNLFzWAOEhZExcWDdcNwLhlPSDxlDRHiC1+N16blUr3NydReR+LrFsOtAuZE0637wLF6X1RP9MfxwexFqJxxaF0YC64tQGP4Xr9PkphrLgO7cvQQrjovIJzIZIvwpOF93euSDQ3bjbo=;MEDIDBGrHBOtUgBEVDkDIQ=="
+secured: "uxlkiaUlHg2l8IdTrJAt/8kUw0+sqe31Ts4ZUwA9iW19ZUyt3FA/EMoM9qCVSRL6CquY/AI7EgosCJMX8aGjokRK7G3NJNzFWlhIyDuHuG8p8df35u5I3qUaepBWggt9ZPM/7LN1+fcB1tLNl8Xn50T8Xk2BKs9stdLQJXenP1pLP1YVP8Ra8Djcoqwf9Ltd9rHTHz5uNKXThEvVGqAJbxcE/dfkUDtxykFe4oGZjrSI2cHtWCOrOM2YFWzWlHZz8ia2qZjM9vtbf2VicRXjLMquY90233elatsauKrklpFRbiCVIJrghEy11osrsxApLTT/AjCROAXOZw9yuirfBqxmOANOfSFMECDuu+8h1HE=;TvAXLqmUiWH70CTAbKySOg=="
 ---
 

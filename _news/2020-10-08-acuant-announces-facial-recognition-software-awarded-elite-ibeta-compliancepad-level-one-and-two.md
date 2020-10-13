@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Acuant Announces Facial Recognition Software Awarded Elite iBeta Compliance/PAD Level One and Two"
-excerpt: "Acuant, a leading global provider of identity verification, today announced that Acuant FaceID provides facial recognition with"
+excerpt: "Acuant, a leading global provider of identity verification, today announced that Acuant FaceID provides facial recognition with liveness detection technology that has been awarded PAD Level 1 and Level 2 compliance by iBeta,"
 publishedDateTime: 2020-10-08T11:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/acuant-announces-facial-recognition-software-awarded-elite-ibeta-compliancepad-level-one-and-two-301148064.html"
-webUrl: "https://www.prnewswire.com/news-releases/acuant-announces-facial-recognition-software-awarded-elite-ibeta-compliancepad-level-one-and-two-301148064.html"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-government-and-politics-biometrics-computing-and-information-technology-software-3fb1cc6d39351af4d15eb9878c1e6e85"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-government-and-politics-biometrics-computing-and-information-technology-software-3fb1cc6d39351af4d15eb9878c1e6e85"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/928737/Large_Acuant_May_2019_Logo.jpg?p=facebook"
-    width: 2145
-    height: 1125
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "a5oHSxbmvHJq7MXTimBiKUOvF1sTUIu3YBOqE1N73DTQtfd+fzlCrKthcjhwuAzEUB8V3tKj7TG+YbAuC3LoA5IMjyjLJRv/BquFr+mXb5soKcLvH5Ms31E+w1DKKCrXURluEeOyIp/DpQI4OWjlmoNf9or5s0+/PPwq+4UEMQzZI7En0gjj3RxJlHxZtqf0f6ySZrcOTgjw6WR4HS/yaWRxaSj3EcOkuAejTRSK26gZ1vETPqhWXBn5DrWQxc6Y+K2/QbXdcgnuauANkn6/x7pLEcRh9nxgx6FVJ+OARPyLF/GqbPQfrcKW40/o939KhQrPOE1wa7pZpylROE1z0g3LCmsNE++JthX9uFbpmOY=;I2k5aDQajW3Pt8efvI5DbA=="
+secured: "uqYTEN+of+1rKokstEhSp/HzbG0E0kCPkXuMJFurJiACet/o75f1rOlijUjCj7HR4mYvvGKEdZJXQurVg+vbYpgU/wHIJerGgo6X/oLCjOrKIbhSnsVqw2C87VXDdnqtJ34SV7bmPk1p8EE2mQb89NaRTXg8muPE/BxqSqIJcB5FuLJXKJVJNic9wzEuwL6o0IIHTXZWnK4RYGeCxMCyOpFHbsh7yNgqsFY7uKdXkO+MNtvTB2eW3nAgUQY+L24ihMVQMxrRZgTHkqcMhmp3VaNZNgaf8auil1nNe2X00bvymkXlpGkJSuDWs9ZC1lyr2ju99NryDeP8DpnuheLT7RYQmk4MDxQKumUOh6Unqfo=;EoWKpH/6t9CycxzLgPSrvw=="
 ---
 
