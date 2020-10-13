@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "scale_ai"
   url: "https://twitter.com/scale_ai"
-  followers: 5585
+  followers: 5586
 
 size: 51-200 employees
 yearFounded: 2016
@@ -49,6 +49,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "eUS9MYT7mt4y/h3+8YhCcmkvkRk1x4mXksIZcOZKFfo4yqxDzUS2FpzVkRjrZjtfTNBe0Pflg4jlcvpUFVntzXoGXMqEW1fr1A03VndZtjecdXMTb7OmJZNYi2oR6yOoj1AwxjuEKqKfLOOMTJmKtbFF5a9Ofofnljxo5Uw7ePX9URvpls/V79vQrwEDz2vCAPIzEGRPjnQSILM/kTbPLcYHD1hDsqFllpepNTM1z2KaMwnPq+Z5bfusMMpBIcwO+jHmXeKRGA5u40z2l44/J5y5YH/EcNDwE8SqizRVvkW3DUrNwCvORSrWKdEpLJwj3iieYey83f6Mn6/bSrEET34PzuPw7T3S+ecyD67glKh5xpN24Da6JO+C4HF08nrbr5rzZ54/7YQXH9tmKGlHtDEOtccEMtYQ/VgooTOJ0Q8=;GDb0P/GNloWSzKQeHcm7Dw=="
+secured: "V+MnvmzyLtlKIIacgBHkGJ17eKQ7pTS3Qcg1QygYzwnQBboN8gjfWbaTcwNk6WU0c2QHuyawNwl04UgkWzcgQ/e9E83SZh6m6mrHci8I9+Az3/LCdUfBcV37JJQ1QsT1m+emS7EtfmGOIewa6R1p3elMyHS4MSh6kPn4nG+adisYLymb+WrPeX7VCIHtOrEKTmshHh17q/FOzP1c2XPNtuNWEzuiD0DkAMYomg5BZ3IjCdPc6+FLOjNftPASC3LDrITiYmJn6GWjbW/lvFE2iLFj3Ov+g3EM7OPFiLtTvgkiKeiyFBO26+YJSVIUANYT0B+1j/8lprv76mOogCjjYv48oy31kfrOAo6FPqDr7dsp5ww8mf11I+moDynQjfEfcuKTRVdNwNaD3tbKF1FwZd1iFVkF/k2I0eZHk63F72E=;g8fWVNbIvsXuQwd/0isoBg=="
 ---
 

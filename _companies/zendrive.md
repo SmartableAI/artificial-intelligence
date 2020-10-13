@@ -2,7 +2,7 @@
 name: "Zendrive"
 overview: "Zendrive is leading the evolution of safety in an era of transportation innovation and mobile ubiquity. We've measured and analyzed 160-billion miles of driving data and are using it to better predict risk, reduce collisions, and save lives and money."
 type: "profile"
-heat: 50
+heat: 65
 
 website: http://www.zendrive.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "zendrive"
   url: "https://twitter.com/zendrive"
-  followers: 2100
+  followers: 2102
 
 size: 51-200 employees
 yearFounded: 2013
@@ -42,6 +42,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "/bGsOup3tb4wG8rHiUwrf6RANeAxDimtHBpllALzZtQBxzsr4c9/F0zMy/U+KDlXeul00RyZTMQnLYNEW1s96CxPC235U+khRwCQyJrmr+lVzWh1stn49kjmQhFsniUd6U0+JK1Gw/0s1k1ul2PpGmRnZrlwhf9NrCg2wKqZA9nnTwFiKdfcah6pAUVOcybTPb4zyv9GnkNaF193jFMIJd2Dfb6NtyZ7r+cpzKiemrd9RDEZMFraJTvz7LpNjiUhs/qlDS9axkJNDjeydRN3//ITuJOuFQxxP/h64VkKmV4K7nymNMjcILaPRVyMv7z9CT29MfHoPmG2vbqpzIeN2j6vv/b6onHa6QabjbpmpeAkYuTfPoPAiIHsqP5y7/jZvkP+IUz/fasDPD+PqRsEh/BRHxnNUs641em7k3pkyjg=;YW0XIz3YS0d6ZIHZRbtnTw=="
+secured: "UkzB3xSdTMiwBsHPEncyaQW09+PWLYhHRiQtuAm3D2Idp0n/OJY6YhJdmDVbMTbhzbPVKZq8acr0HhrIHGCtmFlawdWlF7vKhHlq4lIolUFJPtA2eo6wZMV/1aOUVce+IUG7NDDFp8poiwHn5nNMSmh6g++1cjDM975u3twfGgzvSIbaTw5247OlevQ778RQXKhabKL5SxgYE7A2GTVJbwqWSxSwN8UMiudEccUMeCjkNv/YJ0AjBBNNsypNdi480RYamkaUmsgaDbJqcWpV0Q01cK5BaW0wPhu4R1xv/ZNClhCqepOa/qTnHP+ayzGQRYdWcc+3SZKYN3amBaow+xbJqucDYPOx2deKHdHAINGgPPkGVwfoSS9A+3iHB6LJrGQnvlGC/FBVvwpB1V0ynoeh7FJO5PPQ4IUs+gmgUFI=;vI/8xHzeC+yUDh6xo9Yc0Q=="
 ---
 

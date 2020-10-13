@@ -2,7 +2,7 @@
 name: "Pinpoint"
 overview: "Pinpoint delivers a new kind of performance intelligence—one that synthesizes the work activity in your delivery tools, and applies data science to unlock faster, smarter engineering."
 type: "profile"
-heat: 50
+heat: 41
 
 website: https://pinpoint.com/
 
@@ -38,6 +38,6 @@ images:
     isCached: true
     title: "Pinpoint"
 
-secured: "7EklNruJapcyGn9y1nXgujFVPi8MpP96QTNG+VuJre0j11/PBndxkspg29vmxC/QkEeP855Thh4908THmuusNJWq9VBqMwiizfQjxjmHejCsLApwSqSt9Yf3yigPbT0Dc+hhOU0vBEtd/ivOf0ciCwAiYPm33ETOPb5pgKNrVk4ITPTSV0dOAKQhGlFbolAGsoDm04jxfQt8+WOcp3Ey39XdsBSgKNf5AzqnVbV4nF1iSJpJGCUl3rbLSNpyRW60/Cllg8in7X8IRGrjgTkAANeNaUHLwK5nKDz2f15V3r6Hb59kU5jv4hHXAAUa3o3/SuNuK5wr0H2Kyg7oj07ifJLTJFNAJJf7RHyz/HMc4FGbvW8waiQuTUg0dHQczYJ8ba5Y0yWykDon3Gs0RpF+Ow==;yUTSx03YKQ0nwkzEId6bxw=="
+secured: "aITpEKu8be57eBTJhediy7ttRI0P1uizoCr/35QceJgisqq5n6+c4ODBghFohZ6Wk+hf5C2f3oB31mYcs8BPgtxlACSKMyFPDjyWkhjPpUrS6ec7PtgYTw85tv882eWKGh/7G+C0e5EMuu2dYT925HiJ5eRxHgR4Nr1tN4Gl+jkuUnSARItyu71vafZ8Lv9okZya8EB2uzd0Z1Tfyix50kIuCWiPBGGZGOROC2InW7VT6H/EYfA7y5xTh/uiYMALTWzxR+1+9cZr3BDVAfFB2JffxkHuticM0i8BtHk/yWxP0YfIjZFboOi7wCyQtECWWwMWWc4fn1chZxf0I3GIAn8al5WlSqDde1Hy0+KW3xIoYURA5QJqD650063FsETJu/OZVtb7D8hzb/4PwanfBg==;IXB1nLa06mZAYnR2Nn5wKA=="
 ---
 
