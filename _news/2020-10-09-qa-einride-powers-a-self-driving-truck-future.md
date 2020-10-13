@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Einride Says First Self-Driving 'Pods' Available for Pre-Order"
-    excerpt: "Einride is launching the next generation of its electric and self-driving ‘Pod’ cargo vehicle. Available on the global market for the first time, this series of Autonomous Electric Transport (AET) vehicles,"
-    publishedDateTime: 2020-10-08T07:21:00Z
-    webUrl: "https://www.truckinginfo.com/10127558/einride-says-first-self-driving-pods-available-for-pre-order"
-    type: article
-    provider:
-      name: Truckinginfo
-      domain: truckinginfo.com
-    quality: 39
-    images:
-      - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/news/2020-10/einride_next-gen-pod_environment-__-1200x630-s.jpg"
-        width: 945
-        height: 630
-        isCached: true
   - title: "einride unveils cabinless, electric, self-driving pods and makes them available worldwide"
     excerpt: "swedish company, einride, has launched the next generation of its groundbreaking self-driving electric pod, with new functionality and pricing, making it commercially available on"
     publishedDateTime: 2020-10-08T15:48:00Z

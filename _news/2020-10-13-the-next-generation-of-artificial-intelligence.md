@@ -1,14 +1,14 @@
 ---
 category: news
-title: "The Impact of Artificial Intelligence on Surgery"
-excerpt: "AI-enabled remote surgery can help overcome the global shortage of doctors, and it can improve training, raise standards, and drive innovation within the medical profession."
-publishedDateTime: 2020-10-09T00:28:00Z
-originalUrl: "https://www.forbes.com/sites/calumchace/2020/10/08/the-impact-of-ai-on-surgery/"
-webUrl: "https://www.forbes.com/sites/calumchace/2020/10/08/the-impact-of-ai-on-surgery/"
-ampWebUrl: "https://www.forbes.com/sites/calumchace/2020/10/08/the-impact-of-ai-on-surgery/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2020/10/08/the-impact-of-ai-on-surgery/amp/"
+title: "The Next Generation Of Artificial Intelligence"
+excerpt: "What will the next generation of artificial intelligence look like? Which novel AI approaches will unlock currently unimaginable possibilities in technology and business? This article highlights three emerging areas within AI that are poised to redefine the field—and society—in the years ahead."
+publishedDateTime: 2020-10-13T01:28:00Z
+originalUrl: "https://www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/"
+webUrl: "https://www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/"
+ampWebUrl: "https://www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/amp/"
 type: article
-quality: 87
+quality: 89
 heat: -1
 published: false
 
@@ -21,12 +21,13 @@ provider:
       height: 50
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7f278b79657261d13693d3%2F0x0.jpg"
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f84f4978d786028fac3acbb%2F0x0.jpg"
     width: 1200
-    height: 675
+    height: 800
     isCached: true
 
 related:
@@ -46,25 +47,25 @@ related:
         width: 1200
         height: 986
         isCached: true
-  - title: "The Next Generation Of Artificial Intelligence"
-    excerpt: "What will the next generation of artificial intelligence look like? Which novel AI approaches will unlock currently unimaginable possibilities in technology and business? This article highlights three emerging areas within AI that are poised to redefine the field—and society—in the years ahead."
-    publishedDateTime: 2020-10-13T01:28:00Z
-    webUrl: "https://www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/amp/"
+  - title: "The Impact of AI on Surgery"
+    excerpt: "AI-enabled remote surgery can help overcome the global shortage of doctors, and it can improve training, raise standards, and drive innovation within the medical profession."
+    publishedDateTime: 2020-10-08T15:06:00Z
+    webUrl: "https://www.forbes.com/sites/calumchace/2020/10/08/the-impact-of-ai-on-surgery/"
+    ampWebUrl: "https://www.forbes.com/sites/calumchace/2020/10/08/the-impact-of-ai-on-surgery/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2020/10/08/the-impact-of-ai-on-surgery/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 87
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f84f4978d786028fac3acbb%2F0x0.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7f278b79657261d13693d3%2F0x0.jpg"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "The Impact of AI on Surgery"
+  - title: "The Impact of Artificial Intelligence on Surgery"
     excerpt: "AI-enabled remote surgery can help overcome the global shortage of doctors, and it can improve training, raise standards, and drive innovation within the medical profession."
-    publishedDateTime: 2020-10-08T15:06:00Z
+    publishedDateTime: 2020-10-09T00:28:00Z
     webUrl: "https://www.forbes.com/sites/calumchace/2020/10/08/the-impact-of-ai-on-surgery/"
     ampWebUrl: "https://www.forbes.com/sites/calumchace/2020/10/08/the-impact-of-ai-on-surgery/amp/"
     cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2020/10/08/the-impact-of-ai-on-surgery/amp/"
@@ -150,6 +151,6 @@ related:
         height: 840
         isCached: true
 
-secured: "X2Q2UwNrBNP7mvbVOK/LLOr2ubauIG+P7ngB54m94tAicb4axqNJ8NvRir/8aPwX1NW+CAkZ9I0B73Mx7ZymfLNXnKt0HUZKnWkM7QaK04S4+aIR/bGldkXN2OZcJWNRlat+Bbzh1XbEQ2XEnpgeMlzrJOLnSv4s70ZNGcLy924+gW+K7Bv/rYS1wrsh+cLce7eMld+nH9I0kZnMrGyqsaQLQQnckYJWYGonqfTGK9J5ePIRvSHd5Gs/7nIiqAPGjU9WRpcqK00JniIqBwphLY8IZ7SXFTZfi/p7wf+FsQYjdFef2ISNaUgFN3H+scNlEYRx9TpWHkbO0kvccwGXBCSI/+RXjntXFbIxwzja4Cg/7St6WxRhLJ0OqmQ7z8946jh8edoRcEHwDvpmqZuzP8LNrZ/H3al3iUQrEkJRViIgGTqgl9r5G2X8ge9mxOA67tZ1oS0iWfoKA38eYphpgv93mhs5IRFKP8QHI+iunsmItYhauXnRzxsod1jsolx9goFKA21w5J0+nKSN6jTgEw==;CKEh6G7KHyRKDu+tKHz+2Q=="
+secured: "D1s47sm/00H7wkFHF7AqVrZFcEvULKjIq4zTRKa6MU2NG77J16mQqs/Uo+j4U9BhxMRSn9S9cOgRc/SxUVqUFvW1pL5gKySEW/HetZF+Uadl720546YQ/2euaCAe95elU/qSY9B2MI4i0zhoKsCAAGmcVwonWPI+AiaPuA3kxzQZOttcc/YTHzGKZM0X+1QM4V8ntQN5kmtjgThCG6E6RjzRWlBlHtcHU+bWCnEaBecsJbIK+9cHh4Gy9FFLNHvetupvp6mXnZkAYUCM0X2Q+pP+g31mbDa8rK+jFcMCvCy9wiNntRqYL7saC40Td3XR7yASyASag1CtoLBIkGXQzb9JyJdDWgbBO1RuMF7xetk=;WZw+uEMJ6Yx6B8xDqcJv/Q=="
 ---
 

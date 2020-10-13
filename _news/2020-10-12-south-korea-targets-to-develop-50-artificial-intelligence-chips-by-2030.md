@@ -9,7 +9,7 @@ ampWebUrl: "https://english.madhyamam.com/amp/technology/south-korea-targets-to-
 cdnAmpWebUrl: "https://english-madhyamam-com.cdn.ampproject.org/c/s/english.madhyamam.com/amp/technology/south-korea-targets-to-develop-50-artificial-intelligence-chips-by-2030-584315"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Design In Korea"
-    excerpt: "But what about artificial intelligence (AI) chips? When it comes to AI, US and Chinese companies seem to dominate the conversation. Occasionally, there is some buzz about Europe, but Korea never seems to come up. Are they just not interested? Not at all."
-    publishedDateTime: 2020-10-08T07:40:00Z
-    webUrl: "https://semiengineering.com/ai-design-in-korea/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 39
-    images:
-      - url: "https://i2.wp.com/semiengineering.com/wp-content/uploads/Arteris-IP_AI-Korea-fig1.jpg?fit=740%2C512&#038;ssl=1"
-        width: 740
-        height: 512
-        isCached: true
   - title: "S Korea aims to develop 50 AI chips by 2030"
     excerpt: "AI chips refer to high performance and power efficient semiconductors that specialize in AI services. Early this year, South Korea placed big bets on developing the next-generation chips with a ..."
     publishedDateTime: 2020-10-12T19:55:00Z

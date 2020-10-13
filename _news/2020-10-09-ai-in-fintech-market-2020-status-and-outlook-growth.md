@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2153314/ai-in-fintech-market-2020-status-
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2153314/ai-in-fintech-market-2020-status-and-outlook-growth-challenges"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -88,6 +88,17 @@ related:
     provider:
       name: Inter Press Service
       domain: ipsnews.net
+    quality: 0
+  - title: "UAE’s Fintech Galaxy to Focus on Financial Inclusion via Hackathon for Implementing Digital Lending and Other Financial Tech Solutions"
+    excerpt: "UAE's Fintech Galaxy to focus on financial inclusion via hackathon for implementing digital lending and other financial tech solutions."
+    publishedDateTime: 2020-10-13T00:39:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/10/167842-uaes-fintech-galaxy-to-focus-on-financial-inclusion-via-hackathon-for-implementing-digital-lending-and-other-financial-tech-solutions/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/10/167842-uaes-fintech-galaxy-to-focus-on-financial-inclusion-via-hackathon-for-implementing-digital-lending-and-other-financial-tech-solutions/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/167842-uaes-fintech-galaxy-to-focus-on-financial-inclusion-via-hackathon-for-implementing-digital-lending-and-other-financial-tech-solutions/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
     quality: 0
 
 secured: "kXnmkybOvtB1YYelL0DQUO3mft2Kv8DjxcbqizOKcn+rJxip364vmT6urWZbcTR/5GZyOj1yvxJWqo8SZnFuCEPV4Y2Fwu6RSwS2mTMUdrOkJWxnp+iC8f4swGx42PWOefipGyT39LD0qAcZdXyrrBxvXFbW9qiHLtdQpWjhZlCJciBV2KANC6ZjrxpO0kaeMvHSxOJyEL5TWeNL9Ezdtv30BljUpURY3UsMEIDlU57lwz0MU9/7/1cMriYGc4T+V3f0d9dBR0cpjEkXRoUh2y+JGB9G+l8Sglh49EHu0ul2iltAd99PpQJwGJ+COEB7UXQPIICkhmX31qMBI6iZnWHhaq9jNysHH/5vgVa3DeYtbIEd2dFA7Xkdc+T6D3lFjB74bDf4OMdb0Ex6x4HjmeYF1GuBOdaEvHuB2mCHBuqJNyLzOz5jyMKKv9vEFCn2Y+qL+VT247D6CxviVjvMqkobVZo0n2HPTN3DWSDb069Nd+VohEEO7RSLbXD/mXX3XyM11fr4rQzAxL38fUhz7Q==;9Q0aztFmXNJ2LVopdjGZmA=="

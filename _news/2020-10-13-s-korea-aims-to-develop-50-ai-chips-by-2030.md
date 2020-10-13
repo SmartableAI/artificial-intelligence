@@ -35,20 +35,6 @@ related:
         width: 500
         height: 300
         isCached: true
-  - title: "AI Design In Korea"
-    excerpt: "But what about artificial intelligence (AI) chips? When it comes to AI, US and Chinese companies seem to dominate the conversation. Occasionally, there is some buzz about Europe, but Korea never seems to come up. Are they just not interested? Not at all."
-    publishedDateTime: 2020-10-08T07:40:00Z
-    webUrl: "https://semiengineering.com/ai-design-in-korea/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 39
-    images:
-      - url: "https://i2.wp.com/semiengineering.com/wp-content/uploads/Arteris-IP_AI-Korea-fig1.jpg?fit=740%2C512&#038;ssl=1"
-        width: 740
-        height: 512
-        isCached: true
 
 secured: "8j6HXy7E94akVPgzZhr2gzjHPlFJC7dH7vbMWdkXeCcxlEvDvBKAQR6K8HLw9uKv58Ie87YJuYg/qfg8FaZZrADuHILMsexpc+bCFclE65PbyDJ67pD56TZ+Qh8OFMzvM6FxbBhk6hlNTi033PUqtqvByZoXfQL8Q/iRKhya4SsjnB6JC0N7+rEv25Q/v4GUhBzwxmOeLjY6rWaTulda3z0ED7oq1RjAapB4QTOKvtccUZcK0rhsk82LFlffoGoE9mO1IKVHY3/N3cPZsAmM9qsc2sCyyhuqr40Mr6sHjr4w0l74thPr50GJEo7CybrdwmhxuHH5q+Y9q4kbki+OIl+sCVrkAUgR0KZksbNuaGs=;1/pk7hO8JArviWVyd1KkSQ=="
 ---

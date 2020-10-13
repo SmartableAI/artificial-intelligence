@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2020/10/09/ai-weekly-nvidias-maxine-opens-th
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/09/ai-weekly-nvidias-maxine-opens-the-door-to-deepfakes-and-bias-in-video-calls/amp/"
 type: article
 quality: 85
-heat: -1
-published: false
+heat: 105
+published: true
 
 provider:
   name: VentureBeat
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "This AI Deepfakes Reality In The Name Of Privacy"
-    excerpt: "The deepfake technology I’m taking about is from a Berlin-based startup called Brighter AI, which provides privacy solutions for an increasingly surveilled world: license plate blurring and face blurring so companies with cameras can comply with European privacy laws,"
-    publishedDateTime: 2020-10-08T08:40:00Z
-    webUrl: "https://www.forbes.com/sites/johnkoetsier/2020/10/07/synthetic-faces-this-ai-falsifies-reality-in-the-name-of-privacy/"
-    ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/10/07/synthetic-faces-this-ai-falsifies-reality-in-the-name-of-privacy/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/10/07/synthetic-faces-this-ai-falsifies-reality-in-the-name-of-privacy/amp/"
+  - title: "NVIDIA’s AI-Based Video Compression Reduces Bandwidth to One-Tenth of H.264"
+    excerpt: "NVIDIA Maxine provides cloud-based suite of GPU-accelerated AI video conferencing software to enhance streaming video."
+    publishedDateTime: 2020-10-08T13:42:00Z
+    webUrl: "https://www.tvtechnology.com/equipment/nvidias-new-ai-based-video-compression-tech-reduces-bandwidth-to-one-tenth-of-h264"
+    ampWebUrl: "https://www.tvtechnology.com/amp/equipment/nvidias-new-ai-based-video-compression-tech-reduces-bandwidth-to-one-tenth-of-h264"
+    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/equipment/nvidias-new-ai-based-video-compression-tech-reduces-bandwidth-to-one-tenth-of-h264"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 57
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7de968419bf5f836413c4d%2F0x0.jpg"
-        width: 1000
-        height: 693
+      - url: "https://cdn.mos.cms.futurecdn.net/oAt9y535FRR44FCx6eWzkn-1200-80.jpg"
+        width: 725
+        height: 408
         isCached: true
   - title: "Soon, Only AI Will Able to Detect AI \"Deepfake\" Videos"
     excerpt: "Deepfakes are here to stay. Managing disinformation and protecting the public will be more challenging than ever as artificial intelligence gets more powerful."
@@ -61,17 +61,6 @@ related:
         width: 1800
         height: 1012
         isCached: true
-  - title: "In a battle of AI versus AI, researchers are preparing for the coming wave of deepfake propaganda"
-    excerpt: "Fake videos generated with sophisticated AI tools are a looming threat. Researchers are racing to build tools that can detect them, tools that are crucial for journalists to counter disinformation."
-    publishedDateTime: 2020-10-09T12:28:00Z
-    webUrl: "https://theconversation.com/in-a-battle-of-ai-versus-ai-researchers-are-preparing-for-the-coming-wave-of-deepfake-propaganda-146536"
-    ampWebUrl: "https://theconversation.com/amp/in-a-battle-of-ai-versus-ai-researchers-are-preparing-for-the-coming-wave-of-deepfake-propaganda-146536"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/in-a-battle-of-ai-versus-ai-researchers-are-preparing-for-the-coming-wave-of-deepfake-propaganda-146536"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 26
 
 secured: "HLSXGcTCazfy/f5VzYEKmDR6MhEwMBRNYzbxr5O8l8FjFFUoynaZfGNIXRGwKz+cnZZJAx6m6uYAhA058hBTP73SX1R3FUWJ6Yec2Lkyx1ppHbjoLpXu7vIJJQXb0ii83GyY2vqmOqYMQxuiZlUQQWt2B5zfQKZXpSpcLSeAwfBCxHoltpBnGtD36uSiQas/mJZ34tV/Hjfx8GFH9SeEzHy5ar1RIFwhX9tNGqRyV6Q7LN2R6vzZD4swRzJJn+gzDbw7biv7mBy/PDJtTO3SpZog2YAV68uz6fQVfsn4K6o1d+xh93eAP1q42Wat8ET2OjrAHqxA/sX8CYfEoqgn11KTArqcU8f84K59LEUzsAdMVF3uPQzv0jpbGxPsH3B60mFdZFGRED8dLP+Laoyu767gHJcBPWn1mtRt6LZ6o13hlJHke49GsbPFEvuMS5PAACnj0gkrMx/DD6gKkESHR1r2V0hDRFw4dEhSdhoIqx28VDC1dyK7hjunhTiQfKgABeTiaiIjmHQ+hAyDrmhcWQ==;38rdG9B4F0sfWhlSZ6mo+Q=="
 ---

@@ -89,6 +89,17 @@ related:
       name: Inter Press Service
       domain: ipsnews.net
     quality: 0
+  - title: "UAE’s Fintech Galaxy to Focus on Financial Inclusion via Hackathon for Implementing Digital Lending and Other Financial Tech Solutions"
+    excerpt: "UAE's Fintech Galaxy to focus on financial inclusion via hackathon for implementing digital lending and other financial tech solutions."
+    publishedDateTime: 2020-10-13T00:39:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/10/167842-uaes-fintech-galaxy-to-focus-on-financial-inclusion-via-hackathon-for-implementing-digital-lending-and-other-financial-tech-solutions/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/10/167842-uaes-fintech-galaxy-to-focus-on-financial-inclusion-via-hackathon-for-implementing-digital-lending-and-other-financial-tech-solutions/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/167842-uaes-fintech-galaxy-to-focus-on-financial-inclusion-via-hackathon-for-implementing-digital-lending-and-other-financial-tech-solutions/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 0
 
 secured: "I54RXvI2i6G3sLHWNpI1jmxAiTzSU/Hzkff92vi5Iaf2j0I6gdIuzSFIefcRbWci1EYGAlu/3iTfD6u+Nv9gtUE2TOSXk28TRsOsy0clYHvyQ5TdLVWCQ4yZhZzfAWpsULm4EIL13hi3QBKqxdX/LONhQkGNv8IXOX6eXSYn6bZuzn7mCs02+DnlMjabi2DvHOmonzN65RHbB3oLb5sSQWTpyTBlfoXQhAl7JXXF/2D1STXv+x/zu8QZVgZvRc2Y1hhLMdBpw7ujg4wxKs/c/M/hLGJMSMQfxSa18/QNOSq0J1r6mVsJ8bhEss+F2o8NpCILsZL57UGYEfyh0AB5dvRBSnUZGrfX22cyuRR4Tur+zlFafUYnGLFWu3RPOpSj5NNzABcIR4vRhjiyKHNm/CnOuW6f/rxWAI25xHjwXelOTr0ZAbvb+jZAW3kCHq6eG9dpFEpT/7tWcLH/albC1cLF6G5BOcbZbwHLF1Yx2iOG9x15jrqJr2UBfKxC/bo1VTnfvDOqj7znCvw9lt2NWA==;EzDBRmAewi6hqh8Ow1f9BQ=="
 ---

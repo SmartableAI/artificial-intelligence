@@ -7,7 +7,7 @@ originalUrl: "https://www.designboom.com/technology/einride-pods-self-driving-tr
 webUrl: "https://www.designboom.com/technology/einride-pods-self-driving-trucks-10-08-2020/"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Einride Says First Self-Driving 'Pods' Available for Pre-Order"
-    excerpt: "Einride is launching the next generation of its electric and self-driving ‘Pod’ cargo vehicle. Available on the global market for the first time, this series of Autonomous Electric Transport (AET) vehicles,"
-    publishedDateTime: 2020-10-08T07:21:00Z
-    webUrl: "https://www.truckinginfo.com/10127558/einride-says-first-self-driving-pods-available-for-pre-order"
-    type: article
-    provider:
-      name: Truckinginfo
-      domain: truckinginfo.com
-    quality: 39
-    images:
-      - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/news/2020-10/einride_next-gen-pod_environment-__-1200x630-s.jpg"
-        width: 945
-        height: 630
-        isCached: true
   - title: "Einride launches self-driving electric freight truck"
     excerpt: "The driverless vehicles will come in four different models, which can transport freight around various locations, from factory facilities to motorways."
     publishedDateTime: 2020-10-12T16:11:00Z

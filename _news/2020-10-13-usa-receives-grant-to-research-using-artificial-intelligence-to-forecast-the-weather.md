@@ -8,8 +8,8 @@ webUrl: "https://www.wkrg.com/mobile-county/usa-receives-grant-to-research-using
 ampWebUrl: "https://www.wkrg.com/mobile-county/usa-receives-grant-to-research-using-artificial-intelligence-to-forecast-the-weather/amp/"
 cdnAmpWebUrl: "https://www-wkrg-com.cdn.ampproject.org/c/s/www.wkrg.com/mobile-county/usa-receives-grant-to-research-using-artificial-intelligence-to-forecast-the-weather/amp/"
 type: article
-quality: 52
-heat: 52
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.wkrg.com/wp-content/uploads/sites/49/2020/10/B59F8BC3142442D99BD26A1ECAA3BFF4.jpg?w=1280"
@@ -26,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "JWX0KopqGXgc9KrqoTtsc5aJPlMarfHwAgymB2P4Z4+Z7kEmKW5Q84ZXI57X8PSpl0+lTwYFTT7XgoZpkh9eh5WKngA2OLpDb25YaZfZYuiDmcxYWFxerxVYU1/tRpvqAh20CPkwKgJ6LiaCwY0RCNtqYS48cPSm3/iSo9lDH0yCGD3vPJa2Dfo/skYjGVcHgew5+t+Pw0b2YW4zEeDAJxzKM4m6pJkaA/V+EKLhuKUXc36RXuFQyNDl/L411Jrsy24wtflzyRRDVY9mGBjWH1cU3aZWd5jr0wrZ9QRBrOa+cdvbx1hOiNrKr2WgyFRFtPWQtCxbGGP6maHvQVZ0e9lvVk+DGxC6/CatSQ4If2k=;N8xRUARod3kFS2CJ2HYvPQ=="
+secured: "zHF+spddlynl59rFsWplcHkftZoIBR9wvsHQFLidBR+noMqeWvLQYh1sNtMpbi8Fxw02A3od1c6elea3CSp961oTzlj+bSlTi1xwwCrKHQ9Vnlj4+ONcspE2RvxOFIxK54fssRM/9Da5psb12QJxb2UK3gdKSeqNtenN/0QMptasu9XhGoEMvd7ObWZVRCuyHeAlCsR1FiZaj7nu0TWUkzqimZu/sNFLknmxo9EKXEp2i8Mwvqt0FNxfcW2U2bTyZaRQbuIJeMThGBwNO0sw/6iwrGhwdDd5wKz9Po7RUNTuyQLr/DSvbyunK2y/6ytBPIymTaxs/oy9KUGeBCDWdOZcAMCVaodnCS6goRZjoDIbKyFVikL/IfbF94cHyWU5dvWn6STWdZJcY4ofWAjtBZZDMDoWQdR4grid25/m1pTxWi1OnKe3ggZYXiXvEbHaQftxQnW0EAkbEYq+pd/ixK05zbs9kksuEBQUv8h1dxDw/bVSCrXsthg9rqyuflBOgkghlxsms1B+EKeZNWQrOw==;hHYT7OuxiZu2ecUgTRbAow=="
 ---
 

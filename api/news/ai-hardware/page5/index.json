@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-01-mediatek-helio-g95-chip-announced-for-gaming-smartphones.md",
+      "title": "MediaTek Helio G95 chip announced for gaming smartphones",
+      "excerpt": "MediaTek today announced its latest gaming-focused chipset, the Helio G95. An upgraded version of the G90T, the new chip is slightly faster in CPU and GPU benchmarks and comes with other new features.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/mediatek-helio-g95-chip-announced-for-gaming-smartphones",
+      "originalUrl": "https://www.neowin.net/news/mediatek-helio-g95-chip-announced-for-gaming-smartphones",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/09/1598936959_mediatek-helio-g95_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/mediatek-helio-g95-chip-announced-for-gaming-smartphones/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/mediatek-helio-g95-chip-announced-for-gaming-smartphones/",
+      "publishedDateTime": "2020-08-31T22:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-31-qualcomm-snapdragon-732g-with-improved-cpu-gpu-and-ai-performance-announced.md",
       "title": "Qualcomm Snapdragon 732G with improved CPU, GPU, and AI performance announced",
       "excerpt": "When compared to the 730G, the 732G promises to offer better AI and gaming performance, with upgraded CPU and GPU. To give you a quick rundown, the Snapdragon 732G offers the Kryo 470 prime cores ...",

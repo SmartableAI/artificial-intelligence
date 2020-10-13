@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 986
         isCached: true
+  - title: "The Next Generation Of Artificial Intelligence"
+    excerpt: "What will the next generation of artificial intelligence look like? Which novel AI approaches will unlock currently unimaginable possibilities in technology and business? This article highlights three emerging areas within AI that are poised to redefine the field—and society—in the years ahead."
+    publishedDateTime: 2020-10-13T01:28:00Z
+    webUrl: "https://www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f84f4978d786028fac3acbb%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The Impact of AI on Surgery"
     excerpt: "AI-enabled remote surgery can help overcome the global shortage of doctors, and it can improve training, raise standards, and drive innovation within the medical profession."
     publishedDateTime: 2020-10-08T15:06:00Z
