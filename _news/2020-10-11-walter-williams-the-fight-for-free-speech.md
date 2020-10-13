@@ -41,20 +41,6 @@ related:
         width: 340
         height: 246
         isCached: true
-  - title: "WALTER WILLIAMS: The fight for free speech (column)"
-    excerpt: "It is a tragic state of affairs when free speech and inquiry require protection at institutions of higher learning."
-    publishedDateTime: 2020-10-08T18:16:00Z
-    webUrl: "https://www.annistonstar.com/the_daily_home/free/walter-williams-the-fight-for-free-speech-column/article_6453e9d0-0992-11eb-8ff8-0b2a3e72f26b.html"
-    type: article
-    provider:
-      name: Anniston Star
-      domain: annistonstar.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/annistonstar.com/content/tncms/assets/v3/editorial/4/74/47436cd8-fb52-11e5-a7e1-d36fba67df42/5703f3478401e.image.jpg"
-        width: 398
-        height: 330
-        isCached: true
   - title: "OPINION | WALTER WILLIAMS: The fight for free speech"
     excerpt: "The violence, looting and mayhem this nation has seen over the last several months has much of its roots in academia, where leftist faculty teach immature young people all manner of nonsense that contradicts common sense and the principles of liberty."
     publishedDateTime: 2020-10-10T02:09:00Z

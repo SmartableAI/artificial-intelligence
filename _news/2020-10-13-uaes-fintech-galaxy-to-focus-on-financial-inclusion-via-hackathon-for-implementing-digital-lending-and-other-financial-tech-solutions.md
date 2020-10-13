@@ -60,6 +60,17 @@ related:
       name: Inter Press Service
       domain: ipsnews.net
     quality: 31
+  - title: "Polish Fintech Symmetrical.ai, which helps Employees Maintain Financial Wellbeing, has been Issued Small Payment Institution License"
+    excerpt: "Polish-British Fintech Symmetrical.ai, which helps employees maintain financial well-being, has been issued a small payment institution license. The company said that the new permit should allow it to make Symmetrical-backed salaries “even faster ..."
+    publishedDateTime: 2020-10-13T11:51:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/10/167897-polish-fintech-symmetrical-ai-which-helps-employees-maintain-financial-wellbeing-has-been-issued-small-payment-institution-license/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/10/167897-polish-fintech-symmetrical-ai-which-helps-employees-maintain-financial-wellbeing-has-been-issued-small-payment-institution-license/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/167897-polish-fintech-symmetrical-ai-which-helps-employees-maintain-financial-wellbeing-has-been-issued-small-payment-institution-license/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 8
   - title: "Georgia State to Offer Graduate Certificates in AI Business Innovation, Disruptive Innovation and Entrepreneurship, and Fintech Innovation"
     excerpt: "Georgia State University’s Robinson College of Business will admit new students to three stand-alone graduate certificate programs that address current and emerging market demand for innovation."
     publishedDateTime: 2020-10-09T17:20:00Z

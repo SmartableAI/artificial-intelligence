@@ -84,22 +84,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How man and machine can work together in the age of AI"
-    excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Jens Martin Skibsted, Partner, Manyone A/S In reskilling"
-    publishedDateTime: 2020-10-08T17:34:00Z
-    webUrl: "https://europeansting.com/2020/10/08/how-man-and-machine-can-work-together-in-the-age-of-ai/"
-    ampWebUrl: "https://europeansting.com/2020/10/08/how-man-and-machine-can-work-together-in-the-age-of-ai/amp/"
-    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2020/10/08/how-man-and-machine-can-work-together-in-the-age-of-ai/amp/"
-    type: article
-    provider:
-      name: europeansting.com
-      domain: europeansting.com
-    quality: 59
-    images:
-      - url: "https://europeansting.files.wordpress.com/2020/10/robots-2020_.jpeg?w=1200"
-        width: 1200
-        height: 864
-        isCached: true
   - title: "A policy framework for the technology can accelerate development in India’s AI sector"
     excerpt: "Tata Sons Chairman N Chandrasekaran addressed the key aspects of AI in education, healthcare and data governance that India should take in order to become the global AI capital."
     publishedDateTime: 2020-10-12T13:43:00Z

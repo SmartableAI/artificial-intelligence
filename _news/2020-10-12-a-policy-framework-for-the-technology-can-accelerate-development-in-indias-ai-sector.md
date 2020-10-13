@@ -88,22 +88,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How man and machine can work together in the age of AI"
-    excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Jens Martin Skibsted, Partner, Manyone A/S In reskilling"
-    publishedDateTime: 2020-10-08T17:34:00Z
-    webUrl: "https://europeansting.com/2020/10/08/how-man-and-machine-can-work-together-in-the-age-of-ai/"
-    ampWebUrl: "https://europeansting.com/2020/10/08/how-man-and-machine-can-work-together-in-the-age-of-ai/amp/"
-    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2020/10/08/how-man-and-machine-can-work-together-in-the-age-of-ai/amp/"
-    type: article
-    provider:
-      name: europeansting.com
-      domain: europeansting.com
-    quality: 59
-    images:
-      - url: "https://europeansting.files.wordpress.com/2020/10/robots-2020_.jpeg?w=1200"
-        width: 1200
-        height: 864
-        isCached: true
   - title: "India startups leading movement on AI innovations to create solutions for the world"
     excerpt: "ResponsibleAI for Social Empowerment 2020’summit witnessed discussion on themes like leveraging AI for pandemic preparedness, role of AI in fostering"
     publishedDateTime: 2020-10-09T17:42:00Z

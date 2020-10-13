@@ -64,6 +64,17 @@ related:
       name: Inter Press Service
       domain: ipsnews.net
     quality: 31
+  - title: "Polish Fintech Symmetrical.ai, which helps Employees Maintain Financial Wellbeing, has been Issued Small Payment Institution License"
+    excerpt: "Polish-British Fintech Symmetrical.ai, which helps employees maintain financial well-being, has been issued a small payment institution license. The company said that the new permit should allow it to make Symmetrical-backed salaries “even faster ..."
+    publishedDateTime: 2020-10-13T11:51:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/10/167897-polish-fintech-symmetrical-ai-which-helps-employees-maintain-financial-wellbeing-has-been-issued-small-payment-institution-license/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/10/167897-polish-fintech-symmetrical-ai-which-helps-employees-maintain-financial-wellbeing-has-been-issued-small-payment-institution-license/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/167897-polish-fintech-symmetrical-ai-which-helps-employees-maintain-financial-wellbeing-has-been-issued-small-payment-institution-license/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 8
   - title: "Global Artificial Intelligence in Education Market Innovative Trends, Driving Factors and Growth Analysis 2020-2025"
     excerpt: "MarketandResearch.biz has released a new market research report namely, Global Artificial Intelligence in Education Market Growth (Status and Outlook) 2020-2025 that will provide you every microscopic detail about the market."
     publishedDateTime: 2020-10-12T23:08:00Z

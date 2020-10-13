@@ -57,20 +57,6 @@ related:
         width: 768
         height: 438
         isCached: true
-  - title: "Facial recognition technology isn't ready for police use"
-    excerpt: "I discussed how some nightmares of tech-noir films are becoming reality. As an advocate for artificial intelligence (AI), my last intention is to stoke unreasonable fear over new technologies. Unfortunately,"
-    publishedDateTime: 2020-10-08T17:36:00Z
-    webUrl: "https://www.jhunewsletter.com/article/2020/10/facial-recognition-technology-isnt-ready-for-police-use"
-    type: article
-    provider:
-      name: Johns Hopkins Newsletter
-      domain: jhunewsletter.com
-    quality: 39
-    images:
-      - url: "https://snworksceo.imgix.net/jhn/6ffb2208-cb6b-4bc4-9e76-33b4fa2b56a1.sized-1000x1000.png?w=800&h=600"
-        width: 720
-        height: 600
-        isCached: true
 
 secured: "/vf1pkQ0pQbXVOAOrBRn89fVwKnSlL5om+oy0UQyQiceXbDDvbJVF6dHl0ifxfSoLn2/sA6tx5wmG77lW8bBioaKmtOI2tWQJgt3L3UJHdjGQxEEcsUox5D5dC3kF0Qd2dcJ0tzYKLnXI16+QGTw4zdaqhfkkq0WCflQ9TuuiXm5UP4cWZYubg4fvbE1CdnfEzmcGZH5CCSSGmwnk2L4rtL+dT6QvCVCV3CyPyja/x66px8SzPE2XWLfrxnSRi+QyCmvnj7VKGpFMTzotrFpktD+D0zrW+LqyOnWkTywtuND4Skfimzw4tlh4DYFBvIxo5QZMBlILEFLItiYElSgn0cF3DPs+Qu9JccK7tDAapw=;R+VlD3S2nxatlngzvtNkOQ=="
 ---

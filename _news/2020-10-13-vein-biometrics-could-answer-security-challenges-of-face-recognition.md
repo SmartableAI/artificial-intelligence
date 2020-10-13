@@ -41,20 +41,6 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "Face Forensics announces tattoo recognition upgrade to biometric algorithm"
-    excerpt: "Face Forensics has released an update to its Full Face Recognition (f2) solution which improves the program’s biometric algorithms to enable images to be matched against an existing database with"
-    publishedDateTime: 2020-10-08T17:56:00Z
-    webUrl: "https://www.biometricupdate.com/202010/face-forensics-announces-tattoo-recognition-upgrade-to-biometric-algorithm"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 22
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/08135223/tattoo-recognition-biometric-algorithms-scaled.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
 
 secured: "9mbq3TTyJMedDMDeSb2yoJRIfWCfh5nFCSmXs+j9j20fZek4H5Y60DtgnV5NcTEKgPp75BtJTG1J9Y+WV2/JsdPA70HEMDmK2QfXgfGkJcraHnYH/4/lBICjmYjRrHZ6plLgAAElyxgAuQ5m2gw04kYWvjVKG1/HpVyNpcnOVm71H+DyBqCTxn7EZu9f9hvbj0HF4bvia0ltVk0/dyEXmg0sglWeJ/cvZnJZw7l4kGwWSzrQMhbb6ayIk9oIuDWIvpjQCj9cVsxfBl2CZw+yOqadVRkV8md4rlLpcI8loiI4DI1zpP3hmr9GgvDApCeHApSMEbaE/b7EeabzXZQO7OjoJrf/BEDxYn+XxmjO3LKObl+Z9tO0sYG0kRgWTHuXmyakAA6L2tylhDj9C7kBp8TULCltxiX/VE9JMRJD/H1W/JSW9BYS06Lh4Nx4/o0vB6r5/InwKGvL9x0nozh9qRfTapfBmoeBVZw/pkXwjIYtp+BwTv/+dQnfSLZqCIXBEyXXfIVShDcpLxAB92XBEQ==;TjczF436yb3RSEY/7c087w=="
 ---

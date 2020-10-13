@@ -95,7 +95,7 @@
       "originalUrl": "https://www.zdnet.com/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -136,7 +136,8 @@
         "AI Hardware",
         "AI",
         "AI Ethics",
-        "AI in Healthcare"
+        "AI in Healthcare",
+        "Machine Learning"
       ]
     },
     {
@@ -560,19 +561,19 @@
     {
       "path": "_news/2020-10-07-maxim-integrateds-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices.md",
       "title": "Maxim Integrated's Neural Network Accelerator Chip Enables IoT Artificial Intelligence in Battery-Powered Devices",
-      "excerpt": "For details about Maxim Integrated's Artificial Intelligence solutions, visit http://bit.ly/Maxim_AI To order MAX78000 or learn more, visit http://bit.ly/MAX78000 ...",
+      "excerpt": "PRNewswire/ -- The MAX78000 low-power neural network accelerated microcontroller from Maxim Integrated Products, Inc. (NASDAQ: MXIM) moves",
       "sourceUrl": null,
-      "webUrl": "https://www.finanzen.net/nachricht/aktien/maxim-integrated-s-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-9368772",
-      "originalUrl": "https://www.finanzen.net/nachricht/aktien/maxim-integrated-s-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-9368772",
+      "webUrl": "https://www.prnewswire.com/news-releases/maxim-integrateds-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-301147039.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/maxim-integrateds-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-301147039.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
-          "width": 600,
-          "height": 315,
+          "url": "https://mma.prnewswire.com/media/1307840/Maxim__MAX78000.jpg?p=facebook",
+          "width": 1920,
+          "height": 1005,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -581,11 +582,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T07:00:00-07:00",
+      "publishedDateTime": "2020-10-07T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Finanzen",
-        "domain": "finanzen.net",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -595,9 +596,8 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI",
         "Machine Learning",
+        "AI",
         "AI Hardware"
       ]
     },

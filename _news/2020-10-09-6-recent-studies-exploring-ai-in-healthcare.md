@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/artificial-intelligence/6-re
 webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/6-recent-studies-exploring-ai-in-healthcare.html"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       - url: "https://qtxasset.com/fiercehealthcare/1602270586/GettyImages-899023542.jpg/GettyImages-899023542.jpg?s6QSCLVsKF0j8yq07lPNxxduzW8zU.ex"
         width: 6584
         height: 4395
+        isCached: true
+  - title: "Navina completes Seed investment round of $7 Million to solve the healthcare crisis using Artificial Intelligence, starting with primary care"
+    excerpt: "PRNewswire/ -- Navina, the developer of an AI-driven platform for primary care, announced today the completion of a $7 million Seed funding round led by"
+    publishedDateTime: 2020-10-13T10:01:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/navina-completes-seed-investment-round-of-7-million-to-solve-the-healthcare-crisis-using-artificial-intelligence-starting-with-primary-care-301150885.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 19
+    images:
+      - url: "https://mma.prnewswire.com/media/1311576/Navina_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
         isCached: true
 
 secured: "IWHLAklgolr15CzNZtZ4Jz+TGgYS1PzqI0Rykq4HOpk2WclsgO+AGxnrM71hlKPzQRuZggzB/ER3EKYAe/sAQ6ZPDOiltp3SLRxVme6TUN03Dlq2eBc1Sn3IF+7NxLMwEM09mzxljkFf2VxhrqMjUj7jzYXAwtVaNWGhR61I1OWydMrjUnbRxG0B5U8vthdiuZfZFOdWG9qJyBLFTducDZ5TbfRQ7817KtdHoO+qFvr7LRFG27RTSCepu0e35QTb+SI9CoeDqWq6U4Xm/OKHnFEkFjow2tNdOuihChYAQ/JBivaF0qzQ0HpWm6Bt658s1NveUiaJeP9IymkQ9U55rgD2WLYxHlNq/vn168sBI4o=;1r3vns1A9TzLLj5HckR1KQ=="

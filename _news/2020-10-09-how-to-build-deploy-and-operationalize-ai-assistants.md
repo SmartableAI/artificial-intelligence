@@ -27,35 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Signal, Noise and the Coming Era of AI Curation"
-    excerpt: "A look at how \"AI curation\" is being used to figure out what's useful information in the world of crypto and what's just fluff."
-    publishedDateTime: 2020-10-11T19:00:00Z
-    webUrl: "https://www.coindesk.com/ai-curation-speaking-of-bitcoin-podcast"
-    ampWebUrl: "https://www.coindesk.com/ai-curation-speaking-of-bitcoin-podcast?amp=1"
-    cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/ai-curation-speaking-of-bitcoin-podcast?amp=1"
+  - title: "Four Ways AI Can Improve Revenue Operations"
+    excerpt: "How can RevOps best drive value, profit, and growth? The answer lies in a strong foundation of advanced analytics and AI."
+    publishedDateTime: 2020-10-13T11:05:00Z
+    webUrl: "https://www.forbes.com/sites/joelshapiro/2020/10/13/four-ways-ai-can-improve-revenue-operations/"
+    ampWebUrl: "https://www.forbes.com/sites/joelshapiro/2020/10/13/four-ways-ai-can-improve-revenue-operations/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joelshapiro/2020/10/13/four-ways-ai-can-improve-revenue-operations/amp/"
     type: article
     provider:
-      name: CoinDesk
-      domain: coindesk.com
-    quality: 57
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://static.coindesk.com/wp-content/uploads/2020/10/SOB-AI-Curation-From-Page-1200x628.jpg"
-        width: 1200
-        height: 628
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f84b56436b3adb34c19d5b2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D8032%26cropY1%3D161%26cropY2%3D4681"
+        width: 1199
+        height: 675
         isCached: true
-  - title: "National Security AI Commission at Odds Over U.S. Response to Malign AI"
-    excerpt: "The National Security Commission on Artificial Intelligence voted on quarter three recommendations in what was likely its last public meeting for 2020"
-    publishedDateTime: 2020-10-09T17:16:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2020/10/national-security-ai-commission-odds-over-us-response-malign-ai/169152/"
+  - title: "Artificial Intelligence is Improving Education Sector like never before"
+    excerpt: "Artificial intelligence significantly utilizes deep learning, machine learning, and advanced analytics to improve the performance of each student and enhance the education sector in multiple ways."
+    publishedDateTime: 2020-10-12T08:09:00Z
+    webUrl: "https://www.analyticsinsight.net/artificial-intelligence-empowering-education-sector/"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
+      name: Analytics Insight
+      domain: analyticsinsight.net
     quality: 37
     images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2020/10/09/shutterstock_766717948/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Artificial-Intellignce.jpg"
+        width: 1680
+        height: 840
         isCached: true
 
 secured: "UBiJtD67NBxt5AOE4ct4kZ6n8gRN0+ZkKygycxBRVEH9Z6mORFN5qkh9SWBsqDJX0h4fbqjcTF3btw0Up2n+lgUJXNvPNvQIVkyvzWxGXEZNwruBAtuwQ76S7Z9FSs03PUKlCEo7gUCANmgnjjrHeCJWYQeCET+oWKSLuHZxJFYEttf5W2ePWDxcZfB0Oi+Y231oPwz4xqw7yHn8k3TbrlTncvM0Gnbt5JgjiJ4xpgCpC3T+vNUsV4e45Th0nWFVK+kPDeL13axkP6EIcIXliIdlcpbkSZIaPTFPBJ6iX5KLFI4QVrSgckdeyS80RnzguGNjWrq9kI6EwCtX8fD/jebFmtJm0ZpltEw00agSDaKx5xRQi+sP8nBLbXHaOgmTQcVR3mnivGDwNqXhdFSofSRNYdJaBdzBElZ83Z2+CV4uo2dBb6N9cd5juN7gvLrjKuwRd+U9U9gesdkhA7vg3PXzFN9KzsoWpQ5EQbvQboBas/NUSDiSjt96Ym5eI8G/c0l6vFJh2VaGrKGQ7pqOlg==;sWkgr5ccqnC0sDWwZX7Etg=="

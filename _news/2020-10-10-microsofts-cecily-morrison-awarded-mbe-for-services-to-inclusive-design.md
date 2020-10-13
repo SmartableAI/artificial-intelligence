@@ -139,6 +139,22 @@ related:
         width: 1000
         height: 800
         isCached: true
+  - title: "Microsoft, AICTE collaborate to skill students, educators in AI, IoT, Big Data, more"
+    excerpt: "As part of the partnership, over 1,500-course modules from Microsoft will be made available to students and educators free of cost through AICTE's e-learning portal ELIS."
+    publishedDateTime: 2020-10-13T10:10:00Z
+    webUrl: "https://yourstory.com/2020/10/microsoft-aicte-skill-students-educators-ai-iot-big-data"
+    ampWebUrl: "https://yourstory.com/2020/10/microsoft-aicte-skill-students-educators-ai-iot-big-data/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/10/microsoft-aicte-skill-students-educators-ai-iot-big-data/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 67
+    images:
+      - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/Microsoftpng1572886233736png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Microsoft Touts Arm Partnership on Edge Devices and Azure Tools"
     excerpt: "Microsoft and Arm are collaborating on Azure developer tools for 'intelligent edge devices' that use artificial intelligence, per a Thursday announcement."
     publishedDateTime: 2020-10-09T22:36:00Z
@@ -153,15 +169,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "ZEISS joins Microsoft for data-driven healthcare"
-    excerpt: "ZEISS, a German manufacturer of optical systems and optoelectronics, and Microsoft has inked a multi-year strategic partnership for better patient care through data-driven healthcare and enhance quality and efficiency in manufacturing by embracing a cloud-first approach."
-    publishedDateTime: 2020-10-08T17:32:00Z
-    webUrl: "https://www.sify.com/movies/zeiss-joins-microsoft-for-data-driven-healthcare-news-bollywood-ukigPvegbiagc.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 36
 
 secured: "UcKMTfF0oFmY1lD+7TwY6//0yxW7/yuoQ5paladXhGgRJoIf9Q4inmHm5cDeaA218/zrs7aWwDryrqF3L6cL9oPvuDmTZ6gYq7FoqwK2dtxo+OD4r3UdiM4m1BVizGrSCPGxK7HGsrqybc+H/9P0tcuQ8Ra/siyk3AZsPclfn2sCK/P5SWyLLderPVGtR8v/IGb5Sng5dMTOoKb8HlJEbU44wxgo7hQfLfBKfcbihTe8jX4rogY4Usox6eXJGznnmzQ1kM2EXIHymbEvtWqeJpN5EyvDazChycJGqWGSNkZ1+5Ej09/7iYxZtx0R9pQFW9j5KVu3++xUVD11JhfVpHXDEjBtDJjaCftWK4Mk4jQ=;4bTFHJ25ZJ8S12fm81TbvA=="
 ---

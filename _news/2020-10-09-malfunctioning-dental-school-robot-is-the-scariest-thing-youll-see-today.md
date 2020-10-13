@@ -9,7 +9,7 @@ ampWebUrl: "https://www.unilad.co.uk/technology/malfunctioning-dental-school-rob
 cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/malfunctioning-dental-school-robot-is-the-scariest-thing-youll-see-today/amp/"
 type: article
 quality: 58
-heat: -1
+heat: 58
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 808
     height: 417
     isCached: true
-
-related:
-  - title: "Come, give the malfunctioning dental school robot a kiss"
-    excerpt: "A video shows a dental school robot, designed to give clinical experience to students, malfunctioning so that it throws its head around and gnaws at the air."
-    publishedDateTime: 2020-10-08T18:08:00Z
-    webUrl: "https://news.avclub.com/come-give-the-malfunctioning-dental-school-robot-a-kis-1845313018"
-    ampWebUrl: "https://news.avclub.com/come-give-the-malfunctioning-dental-school-robot-a-kis-1845313018/amp"
-    cdnAmpWebUrl: "https://news-avclub-com.cdn.ampproject.org/c/s/news.avclub.com/come-give-the-malfunctioning-dental-school-robot-a-kis-1845313018/amp"
-    type: article
-    provider:
-      name: AV Club
-      domain: avclub.com
-    quality: 59
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/dxrwfu8zrhsbptpocvyb.png"
-        width: 800
-        height: 446
-        isCached: true
 
 secured: "Xdy5tWextM9Ghdr/uAZny/thDy13xQq/1CAVaeXnHWghiGw8kzf3Ny3JKpnTDTb7BHlGlC8zXHGQuamMAiqsXU/wJTLRkuVIm25p/7swwHvzZrGJl7beaSaPNAWwQkkVCzNevgK/tfoZJi/xSgLfBlkV+oyGj4N3m7VlTokp+IElN91kIBCU6uazLXwuyqUQ/6VsupP/zgVIUzWEL5arlQLw90wTM7RBQONeESOor4E+EHjNa5M0JoU2At4AsCiCWojrNLr0DRNmi01YTC0+Er8tj2SJxdmZ2qW4Bl88J5nsHP9KfNl+ibdOJQ+hU2bm0PGR8N8HYEW985bcbnoVn1CLshKtBpvLBxw714OXOdk=;7LdJ/NgXW0YtosQmIzrS4w=="
 ---

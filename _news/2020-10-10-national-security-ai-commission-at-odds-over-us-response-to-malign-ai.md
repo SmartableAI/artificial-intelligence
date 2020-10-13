@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "How to Build, Deploy, and Operationalize AI Assistants"
-    excerpt: "While chatbot PoCs are simple, building production-grade conversational software is challenging. Enterprises experience challenges in production systems that have large user bases, security mandates,"
-    publishedDateTime: 2020-10-09T12:15:00Z
-    webUrl: "https://www.infoq.com/articles/build-deploy-ai-assistants/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 43
-    images:
-      - url: "https://res.infoq.com/articles/build-deploy-ai-assistants/en/headerimage/croppted-build-deploy-ai-assistants-1602098758941.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "uax3xJ69+z4uT4+AOy2Z9hlWQqLd4QTiDk529Af0qpi7JxccGJ5izsfrV62laKornYjCMOt3lhnCTiohZQQd9ul844PcANpRrOpBd1bjK8+2zn/6uU+h76SGP/O7h4XbogJOBFD+v1Xdut+5bz465Hm/YS/hD++xpsXqSLvoXDZdNSAiUSpnf4/z6mI7nhJQjaMxgnNVWkyoqam+bhz5YVLe0iInF8XaRjzTX4+LlLjkpi+6mQe5eW0svAD94fc7Ox6npHrWvZ1vaa/tEp7NfVDX6SsDSRC6xS0jqYtMD/sTBsOyV46gD/KDW6usQSSsKJsGNa+CVk4bDaV5rfbVWlg3Qj+JG6+4ybnHexj3yAMYZhgAt/L0NpxVnXuQYvoCVXhpkK1yCpREa1xyRMJ7dvyGvouiNji3nd18YI8ljH8gBj/g4s7b3eOg3iFa8HV2GqLysVFSD9CiNwUO9bfcSM/S94JrdsiEbHj070nXRzVBaOgDHSiLetOjhLffDo7m7YomFCSdFT8onYXL9pFyIQ==;UzqDWxNw+qLoW08Yv2PKgw=="
 ---

@@ -73,6 +73,22 @@ related:
         width: 770
         height: 431
         isCached: true
+  - title: "Facebook India appoints Sunil Abraham as Public Policy Director for Data and Emerging Tech"
+    excerpt: "As part of Facebook India's public policy leadership team, Abraham will contribute to important policy development initiatives and proceedings in India and the South Asia region on data protection, privacy,"
+    publishedDateTime: 2020-10-13T10:51:00Z
+    webUrl: "https://yourstory.com/2020/10/facebook-india-appoints-sunil-abraham-public-policy-director"
+    ampWebUrl: "https://yourstory.com/2020/10/facebook-india-appoints-sunil-abraham-public-policy-director/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/10/facebook-india-appoints-sunil-abraham-public-policy-director/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 34
+    images:
+      - url: "https://images.yourstory.com/cs/1/5e3fc0b0c1b111eabd588167c58200e3/facebooktargetingmistakes-1597061004949.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "LaQM6A+frGuFt9xSQeJ7nKDsvfEU5q9LmZ7ATB8wX5bjnNMk5l5LqJJ0voc7tmBg9kfSPvItI3UqojLgA/kjkWHntbYux4ZypZhqjPkz1XYLF5BPOvd3tpwEseQOOhj3bVe601mik19I7XI3dB8iWhSydM8C/OzHl15walicbRXPdRNrajoAXpk7kMesVi6CiT+ofU34gYhj9dIddDegcnLTculDR3TpUKmdimvTH2ISNFfin2mqoDQta5wr3vO0/4WuCj+ZhM3lYZc/xBvyOJLG4NCqu9QsXsQ2Csh12V7Agdxnu54aplllMASmgtrX9ARV3CsQ6gvqCf2hDQmXUThYf5C9H3a0petyOi9A4U0=;qjcOAbBSxdzjurAXZ8RbBQ=="
 ---

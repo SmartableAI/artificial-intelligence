@@ -10,7 +10,7 @@
       "originalUrl": "https://techwireasia.com/2020/10/facial-recognition-tech-will-boost-biometric-id-acceptance-in-sea/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -445,19 +445,19 @@
       ]
     },
     {
-      "path": "_news/2020-09-30-microsoft-translator-now-supports-assamese-too.md",
-      "title": "Microsoft Translator now supports Assamese too",
-      "excerpt": "Microsoft India said on Wednesday that it has added Assamese as the latest Indian language in Microsoft Translator, increasing the number of Indian languages it supports to 12. The Azure-based service will now provide real-time translation and transliteration support for the language.",
+      "path": "_news/2020-09-30-automatic-voice-and-speech-recognition-software-market-poised-for-significant-growth.md",
+      "title": "Automatic Voice and Speech Recognition Software Market Poised for Significant Growth",
+      "excerpt": "Global Automatic Voice and Speech Recognition Software Market Premium Insight Industry Trends FPNV Positioning Matrix Competitive News Feed Analysis Company Usability Profiles Market Sizing Forecasts to 2024 Covid 19 Outbreak Impact research report added by Report Ocean is an in",
       "sourceUrl": null,
-      "webUrl": "https://menafn.com/1100880896/Microsoft-Translator-now-supports-Assamese-too",
-      "originalUrl": "https://menafn.com/1100880896/Microsoft-Translator-now-supports-Assamese-too",
+      "webUrl": "https://www.openpr.com/news/2147034/automatic-voice-and-speech-recognition-software-market-poised",
+      "originalUrl": "https://www.openpr.com/news/2147034/automatic-voice-and-speech-recognition-software-market-poised",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/updates/pr/2020-09/30/I_9ee6f788-9image_story.jpg",
+          "url": "https://cdn.openpr.com/T/9/T930326399_g.jpg",
           "width": 400,
           "height": 300,
           "title": null,
@@ -466,13 +466,13 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T04:54:00-07:00",
+      "ampWebUrl": "https://www.openpr.com/amp/2147034/automatic-voice-and-speech-recognition-software-market-poised",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2147034/automatic-voice-and-speech-recognition-software-market-poised",
+      "publishedDateTime": "2020-09-30T03:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
+        "name": "openpr.com",
+        "domain": "openpr.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -483,8 +483,7 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
+        "AI"
       ]
     },
     {

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.coindesk.com/ai-curation-speaking-of-bitcoin-podcast?amp
 cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/ai-curation-speaking-of-bitcoin-podcast?amp=1"
 type: article
 quality: 57
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: CoinDesk
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "How to Build, Deploy, and Operationalize AI Assistants"
-    excerpt: "While chatbot PoCs are simple, building production-grade conversational software is challenging. Enterprises experience challenges in production systems that have large user bases, security mandates,"
-    publishedDateTime: 2020-10-09T12:15:00Z
-    webUrl: "https://www.infoq.com/articles/build-deploy-ai-assistants/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 43
-    images:
-      - url: "https://res.infoq.com/articles/build-deploy-ai-assistants/en/headerimage/croppted-build-deploy-ai-assistants-1602098758941.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "National Security AI Commission at Odds Over U.S. Response to Malign AI"
     excerpt: "The National Security Commission on Artificial Intelligence voted on quarter three recommendations in what was likely its last public meeting for 2020"
     publishedDateTime: 2020-10-09T17:16:00Z

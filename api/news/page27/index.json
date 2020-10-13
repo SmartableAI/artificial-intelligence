@@ -2,6 +2,98 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-09-17-computer-vision-company-chooch-ai-makes-breakthroughs-in-edge-ai-in-speed-accuracy-and-scale.md",
+      "title": "Computer Vision Company Chooch AI Makes Breakthroughs in Edge AI in Speed, Accuracy and Scale",
+      "excerpt": "Chooch AI, a horizontal computer vision AI platform, today published the latest video presentation of an expert panel with Convergint Technologies and NVIDIA. Chooch AI is a member of the NVIDIA Inception program.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/globenewswire-mobile/47b59cde3e91723c62f05905b28641bf",
+      "originalUrl": "https://apnews.com/globenewswire-mobile/47b59cde3e91723c62f05905b28641bf",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-17T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-how-artificial-intelligence-is-helping-companies-identify-nail-new-product-opportunities.md",
+      "title": "How Artificial Intelligence Is Helping Companies Identify & Nail New Product Opportunities",
+      "excerpt": "The best and most cutting edge examples of how firms are using AI in the new product & service development process to identify and optimize new business ideas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michellegreenwald/2020/09/17/how-artificial-intelligence-is-helping-companies-identify--nail-new-product-opportunities/",
+      "originalUrl": "https://www.forbes.com/sites/michellegreenwald/2020/09/17/how-artificial-intelligence-is-helping-companies-identify--nail-new-product-opportunities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6205e8a15156fd3358e745%2F0x0.jpg",
+          "width": 1200,
+          "height": 609,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-17T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-17-chinas-baidu-wants-to-be-an-autonomous-vehicle-powerhouse.md",
       "title": "China’s Baidu Wants To Be An Autonomous Vehicle Powerhouse",
       "excerpt": "as a Google imitator, is now going toe-to-toe with Google subsidiary Waymo, as well as Samsung ... and doing “deep learning” for artificial intelligence machines out of their California ...",
@@ -1076,109 +1168,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-pluralsight-inc-registered-shs-a-buy.md",
-      "title": "Pluralsight Inc Registered Shs -A- Buy",
-      "excerpt": "© 2020 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/analysts-opinions/pluralsight-inc-registered-shs--a--buy-729349",
-      "originalUrl": "https://markets.businessinsider.com/analysts-opinions/pluralsight-inc-registered-shs--a--buy-729349",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://markets.businessinsider.com/Images/FacebookIcon.jpg",
-          "width": 800,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-16T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-sensiml-integrates-googles-tensorflow-lite-for-microcontrollers.md",
-      "title": "SensiML Integrates Google's TensorFlow Lite for Microcontrollers",
-      "excerpt": "Developers working with Google's TensorFlow Lite for Microcontrollers open source neural network inference engine now have the option to leverage SensiML's powerful automated data labeling and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/sensiml-integrates-googles-tensorflow-lite-for-microcontrollers-2020-09-16?dist=bigcharts&tesla=y",
-      "originalUrl": "https://www.marketwatch.com/press-release/sensiml-integrates-googles-tensorflow-lite-for-microcontrollers-2020-09-16?dist=bigcharts&tesla=y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-16T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
         "AI"
       ]
     }

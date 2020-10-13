@@ -53,6 +53,20 @@ related:
         width: 6584
         height: 4395
         isCached: true
+  - title: "Navina completes Seed investment round of $7 Million to solve the healthcare crisis using Artificial Intelligence, starting with primary care"
+    excerpt: "PRNewswire/ -- Navina, the developer of an AI-driven platform for primary care, announced today the completion of a $7 million Seed funding round led by"
+    publishedDateTime: 2020-10-13T10:01:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/navina-completes-seed-investment-round-of-7-million-to-solve-the-healthcare-crisis-using-artificial-intelligence-starting-with-primary-care-301150885.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 19
+    images:
+      - url: "https://mma.prnewswire.com/media/1311576/Navina_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
 
 secured: "myfaaoCJW4nPvC0mFmPV/mwkJWAtwsAjXL9Xsw1eEdmjyt3Zeq/s2ikOkzGYU+xRsNe7MfeEmjEK/xyj1w9SF4uueYU0NUVexD0hHUQJP8dGxXKzB0f28uINV3pcIjQGf0LC75FHMPCBc5Ez8tPrel+UdCeHUTTQkWkTgGQuob+4o7O3HRmZ7o5iZlE+ArK4YYwEPF3zCf3Fkn4RI6kUxkIRl1OUNRZ2Mq82Sf9MF3FHpRVR4XjoczKxCpaeSbP0/ixf0nlD1Bfz5tLvYcz9u9pETKt6lCK59oacYqeAxgrlbZH5bZXWYf86U8u75W+8g3bsDx6HgB7OJfSNhRyXmjWd1+MeXtzFRmZMSROzkXI=;3H2w50fSyLED7uCM01r1ng=="
 ---

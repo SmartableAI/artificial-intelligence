@@ -9,7 +9,7 @@ ampWebUrl: "https://patch.com/virginia/herndon/amp/29007924/imposter-idd-with-fa
 cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/virginia/herndon/amp/29007924/imposter-idd-with-facial-recognition-technology-at-local-airport"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://www.newshub.co.nz/home/new-zealand/2020/10/government-signs-deal-allowing-local-businesses-access-to-facial-recognition-technology/_jcr_content/par/image.dynimg.768.q75.jpg/v1602452244144/GETTY-face-recognition-technology-stock-pic-1120.jpg"
         width: 768
         height: 438
-        isCached: true
-  - title: "Facial recognition technology isn't ready for police use"
-    excerpt: "I discussed how some nightmares of tech-noir films are becoming reality. As an advocate for artificial intelligence (AI), my last intention is to stoke unreasonable fear over new technologies. Unfortunately,"
-    publishedDateTime: 2020-10-08T17:36:00Z
-    webUrl: "https://www.jhunewsletter.com/article/2020/10/facial-recognition-technology-isnt-ready-for-police-use"
-    type: article
-    provider:
-      name: Johns Hopkins Newsletter
-      domain: jhunewsletter.com
-    quality: 39
-    images:
-      - url: "https://snworksceo.imgix.net/jhn/6ffb2208-cb6b-4bc4-9e76-33b4fa2b56a1.sized-1000x1000.png?w=800&h=600"
-        width: 720
-        height: 600
         isCached: true
   - title: "Government deal done over facial recognition technology"
     excerpt: "The Government has done a deal over facial recognition technology that throws access to it wide open. The Internal Affairs Department has signed a master agreement with a leading global biometrics tech supplier that just about any organisation,"

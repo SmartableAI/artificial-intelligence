@@ -1426,44 +1426,35 @@
       ]
     },
     {
-      "path": "_news/2020-09-28-aws-inferentia-is-now-available-in-11-aws-regions-with-best-in-class-performance-for-running-object-detection-models-at-scale.md",
-      "title": "AWS Inferentia is now available in 11 AWS Regions, with best-in-class performance for running object detection models at scale",
-      "excerpt": "AWS has expanded the availability of Amazon EC2 Inf1 instances to four new AWS Regions, bringing the total number of supported Regions to 11: US East (N. Virginia, Ohio), US West (Oregon), Asia Pacific (Mumbai, Singapore, Sydney, Tokyo), Europe (Frankfurt, Ireland, Paris), and South America (S&atilde;o",
+      "path": "_news/2020-09-29-cognitive-services-market-swot-analysis-and-surge-from-2020-2026-microsoft-ibm-aws-google-etc.md",
+      "title": "Cognitive Services Market Swot Analysis And Surge From 2020-2026 | Microsoft, IBM, AWS, Google, etc.",
+      "excerpt": "Some of the key companies profiled in the report include Microsoft, IBM, AWS, Google, Nuance Communications, Baidu, SAS, Qualcomm Technologies, Nokia, TCS, and Apple. The Cognitive Services ...",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-inferentia-is-now-available-in-11-aws-regions-with-best-in-class-performance-for-running-object-detection-models-at-scale/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-inferentia-is-now-available-in-11-aws-regions-with-best-in-class-performance-for-running-object-detection-models-at-scale/",
+      "webUrl": "https://www.openpr.com/news/2145583/cognitive-services-market-swot-analysis-and-surge-from",
+      "originalUrl": "https://www.openpr.com/news/2145583/cognitive-services-market-swot-analysis-and-surge-from",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
+          "url": "https://cdn.openpr.com/T/9/T929977171_g.jpg",
+          "width": 800,
+          "height": 501,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-28T13:44:03-07:00",
+      "ampWebUrl": "https://www.openpr.com/amp/2145583/cognitive-services-market-swot-analysis-and-surge-from",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2145583/cognitive-services-market-swot-analysis-and-surge-from",
+      "publishedDateTime": "2020-09-29T02:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1472,6 +1463,7 @@
         "news"
       ],
       "topics": [
+        "Microsoft AI",
         "AI",
         "AWS AI"
       ]
