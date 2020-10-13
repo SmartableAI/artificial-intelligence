@@ -41,22 +41,6 @@ related:
         width: 800
         height: 480
         isCached: true
-  - title: "Fintech’s Key Ingredient as the Pandemic Rages On? Empathy."
-    excerpt: "Global financial crisis and personal financial hardship have marked 2020, and fintechs are in the trenches with their users."
-    publishedDateTime: 2020-10-08T10:36:00Z
-    webUrl: "https://www.financemagnates.com/fintech/news/fintechs-key-ingredient-as-the-pandemic-rages-on-empathy/"
-    ampWebUrl: "https://www.financemagnates.com/fintech/news/fintechs-key-ingredient-as-the-pandemic-rages-on-empathy/amp/"
-    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/fintechs-key-ingredient-as-the-pandemic-rages-on-empathy/amp/"
-    type: article
-    provider:
-      name: Finance Magnates
-      domain: financemagnates.com
-    quality: 44
-    images:
-      - url: "https://www.financemagnates.com/wp-content/uploads/2018/05/Fintech-880x400.jpg"
-        width: 880
-        height: 400
-        isCached: true
   - title: "Global Edge Artificial Intelligence (AI) Chip Market 2020 Industry Development and Growth Forecast to 2025"
     excerpt: "The development prediction report titled Global Edge Artificial Intelligence (AI) Chip Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2025 focuses on thoughtful insights and facts relating to the market."
     publishedDateTime: 2020-10-12T16:27:00Z

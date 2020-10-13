@@ -73,15 +73,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "Leading SME lending platform Validus the first fintech approved as a PFI by Enterprise Singapore"
-    excerpt: "Southeast Asia's leading SME lending platform Validus Capital (Validus) is Singapore's first fintech to be approved as a Participating Financial Institution (PFI) under Enterprise Singapore's Enterprise Financing Scheme."
-    publishedDateTime: 2020-10-08T10:00:00Z
-    webUrl: "https://www.ryt9.com/en/anpi/244735"
-    type: article
-    provider:
-      name: RYT9
-      domain: ryt9.com
-    quality: 0
 
 secured: "/9C5WD5PJ9I5qbug9jRbJh1eLCwRa7t7Tt3KL9q1Gb2IYuVJEAGPkShLFb6uH1mCl+pBTkAadtn9844axeFrUw+FmpA/PQh+4FSg9pOg/aRHwrkIlgi+Npi/qPpvRxGQKhRh03Z+TQXf8hUGgsVSeCMDJz/tQ8e8CnEQK+/NeK45pU+5zA7Y/cp9+7LMoxsYQtP9+czU4bZ4UxEY1ubeaFuwZSGq+VAxhKEmkob7ZSU8vjFXBAcKfzqrR0Kw3IH8WIIR734v9SxCrVrtkmSZ68mOsIv2kfQhX1Tc2zgiREx3OSM9HR67+ZcK4NVO+9mhSOhfcHFu1kPtChkTXEgmsHaBoRTI9SuxBukP9omxwnUQGKEGBj7VT/teUIUKGifMeWAKNUqqQyIHjF4rsqjBDe/Ea3TWVa1KwLkP0A8/cZlUwNqdgnLqmlOCqT9EBqPLq7aFIhh8OiS8KNcjLAS2b0ruXxcD48ACIC60Q9VE0I9GkwAuqDlZT0yQRfrqFfa1IshbbwFnQZuHg8b6vWUBzw==;pDb6cuTiGC6DhYvI5ZUU5A=="
 ---

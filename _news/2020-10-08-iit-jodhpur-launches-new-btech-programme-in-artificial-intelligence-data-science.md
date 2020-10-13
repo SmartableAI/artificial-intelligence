@@ -36,20 +36,6 @@ related:
       name: Rojgar Samachar
       domain: jagranjosh.com
     quality: 35
-  - title: "Banaras Hindu University Plans To Launch New PG Programme In Artificial Intelligence"
-    excerpt: "Considering the importance of Artificial Intelligence in different areas, including Cyber Security, Banaras Hindu University, Varanasi, Uttar Pradesh, has planned to launch a new postgraduate programme in Artificial Intelligence -- MSc in AI."
-    publishedDateTime: 2020-10-08T09:38:00Z
-    webUrl: "https://www.ndtv.com/education/banaras-hindu-university-plans-launch-new-pg-programme-in-artificial-intelligence"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 30
-    images:
-      - url: "https://cache.careers360.mobi/media/presets/860X430/article_images/2020/10/8/bhu.jpg"
-        width: 860
-        height: 430
-        isCached: true
 
 secured: "j3Q22Vbu6koR5hd87KcjlbM55zvXaezpreEo5pYrG6UUW6hefr1MV3C4xEm1xHQnvL+D8HbJkR7sFjG0zS4hq55I75FDDhgaun/9UWWhv4+KcF1gDINLXPvb1XScD3HPCGH1acJaQT6YAjZV9g4Cf6e8JbjcSxn+Oa+4/k+SgocWxAQPrWwVwna3FrGkfTFv1uORs+t1OGaN3eMzdBHKx9CF73eLPWDaDaXnaL6pBxGtaOjsfqtc0Sl1CiDc6voYiSwhPjrVVUksGTa5iIwfD9x5v0fF06bcCGhlxa4gak4GYhe770e+JOyuZf1A14dnRCEWf0RpvlX5jvpAMf/1q2F3ZNqdZAITqVnTrr1JQss=;6jqpd+gPoXrDgjmXy10MXw=="
 ---

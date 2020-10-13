@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2020/10/how-cogability-and-the-un
 webUrl: "https://www.ibm.com/blogs/watson/2020/10/how-cogability-and-the-university-of-florida-are-using-watson-to-build-the-future-of-education/"
 type: article
 quality: 105
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -26,6 +26,24 @@ images:
     width: 990
     height: 498
     isCached: true
+
+related:
+  - title: "IRS, Army using automation to cut hours out of the acquisition process"
+    excerpt: "The use of robotics process automation, natural language processing and other emerging technologies are gaining momentum in the federal acquisition community to move contracting officers away"
+    publishedDateTime: 2020-10-12T21:09:00Z
+    webUrl: "https://federalnewsnetwork.com/reporters-notebook-jason-miller/2020/10/irs-army-using-automation-to-cut-hours-out-of-the-acquisition-process/"
+    ampWebUrl: "https://federalnewsnetwork.com/reporters-notebook-jason-miller/2020/10/irs-army-using-automation-to-cut-hours-out-of-the-acquisition-process/amp/"
+    cdnAmpWebUrl: "https://federalnewsnetwork-com.cdn.ampproject.org/c/s/federalnewsnetwork.com/reporters-notebook-jason-miller/2020/10/irs-army-using-automation-to-cut-hours-out-of-the-acquisition-process/amp/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 44
+    images:
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2020/10/mitchell-winans-2-300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "8rW9RIIMUKUzn050FGszPen3CS8nKbSX0th9a33iZlKLNE1HngWKD5+4x9SJdpR+zS5bnBnuwIKOW/QwpK8K9GkKcfYKHhzdpDb7UlzBukF+6BlOqegb4R81hj7Lz2NXko1rYfe7J/p3rkthbPFhq4G60y2f/RlzNiiDjMLKmhrR83RAOFQ/p+hfc3PJtDO15dFt5Dw7QdUwHrF+Y43OYVDHhChRB9tTCns5ob9sXe410Yyka1cz7FjjP9eHR4YgkwdY6/A9gonX4xpjUZZM0Etz0SFjnev0YXFH0k86EOPO6YJDS6ZTcej6If1z5Cx0cSTYln7hkapwirM6GMZDbJ09o29j4lPk6hh5iSgNO+Y=;jrMFO9eKQJIZtvvIrgCNhw=="
 ---
