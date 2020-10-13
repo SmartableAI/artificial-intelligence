@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2153314/ai-in-fintech-market-2020-status-
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2153314/ai-in-fintech-market-2020-status-and-outlook-growth-challenges"
 type: article
 quality: 59
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "5 fintech startups to get funding from ING-Unicef program"
+    excerpt: "Dutch financial giant ING and the United Nations Children’s Fund (Unicef) have selected five promising local fintech startups that will receive fresh funding and mentorship under their joint program"
+    publishedDateTime: 2020-10-13T21:10:00Z
+    webUrl: "https://business.inquirer.net/309482/5-fintech-startups-to-get-funding-from-ing-unicef-program"
+    ampWebUrl: "https://business.inquirer.net/309482/5-fintech-startups-to-get-funding-from-ing-unicef-program/amp"
+    cdnAmpWebUrl: "https://business-inquirer-net.cdn.ampproject.org/c/s/business.inquirer.net/309482/5-fintech-startups-to-get-funding-from-ing-unicef-program/amp"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 44
+    images:
+      - url: "https://newsinfo.inquirer.net/wp-content/blogs.dir/10/files/2020/10/News87524-e1602260971308-300x225.jpg"
+        width: 300
+        height: 225
+        isCached: true
   - title: "FinTech, Automotive AI, and More in This Week’s Top Mobile ID Stories"
     excerpt: "It's been another rich and varied week in Mobile ID World news, and that's reflected in this week's roundup of our most popular stories."
     publishedDateTime: 2020-10-10T18:50:00Z

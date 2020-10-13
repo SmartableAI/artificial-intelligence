@@ -1,24 +1,28 @@
 ---
 category: news
 title: "CloudCommerce Adds Artificial Intelligence (AI) Layer to SWARM"
-excerpt: "SAN ANTONIO, Oct. (GLOBE NEWSWIRE) -- CloudCommerce, Inc. (CLWD), a leading provider of digital advertising solutions, today announced that it has entered into"
+excerpt: "( CLWD), a leading provider of digital advertising solutions, today announced that it has entered into a license agreement with Pattern89 to add its artificial intelligence (AI) technology to SWARM, the Company’s proprietary audience intelligence solution."
 publishedDateTime: 2020-10-13T07:01:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/10/g17877452/cloudcommerce-adds-artificial-intelligence-ai-layer-to-swarm"
-webUrl: "https://www.benzinga.com/pressreleases/20/10/g17877452/cloudcommerce-adds-artificial-intelligence-ai-layer-to-swarm"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17877452"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17877452"
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-marketing-and-advertising-corporate-news-products-and-services-9810f74b52d1cedcdaee6c67344d828a"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-marketing-and-advertising-corporate-news-products-and-services-9810f74b52d1cedcdaee6c67344d828a"
 type: article
 quality: 52
 heat: 52
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
-secured: "2vgZNwEULB/k4/Qocw2XIR7FG/yr9GDrzHzBC7q/MUrMzYVw/SGRDlJ+9okxb1i+zfiyBpTyIT8gzn2koCDjfxv+rNg3cfhvDo9VhGV7UNmkoI2W/++NueJPlWH3t5qOPK4QncuB5RmSJpKqvU2YLA8T5aSGFu9RIjXLOAqtBV7qaQyfHpyvwoGMCIsHoX2IJyZBmbKFR3Lrl8bp5l4wkElyouTJlcFHoNgG8ckerCaFBEOBx5W+Wagz07bi2KwSGdtZ/q/VLX9Fm3gEO9BEMueQcYBwuVITLZrGi4gpYo9TxtPAVaQQokfTbZRX3dI0J0gFkN7mTzumNkFsxKay66xkb1tTDNb4ciiM7trqWo8=;fteeUczXzXH/IBSupVx2AA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "kbBr1H1ZXHL0awDUZIoNfCHh2DxcLjpxqAAtIvQM2qARS81TdbHTxWEEhVPAVTHaJQPQ85qynRKFVpfwE6EXMiLPokAyFlrwka6pFrFJyhu9Xz4ftu8/k/J64/IbtnFTm81fPiaZBxJ0snZbgxsqoVeZOPK/S3UHkq2vLVbCmNgFATW7Um6kOwycfJSO9rAUB4WKuaEfVL03gl1/6M7kTNYMSOc9ySB8xa19s10THRvl7G6d2SANt2VCZeTdPX56KIFqnsIQk71VKfryl4K71efcbMx2rYXMyvIhI4qZdjUWBPh3bGN7hwZ06XKF4B4OrkEOASc+uTAYnjhHrsv3pXV+1TsKK9zjqhwGk7/FdxM=;GMzPoiY3wtsf4GDrudWjCg=="
 ---
 

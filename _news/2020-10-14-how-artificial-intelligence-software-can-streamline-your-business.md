@@ -1,0 +1,44 @@
+---
+category: news
+title: "How Artificial Intelligence Software Can Streamline Your Business"
+excerpt: "In recent years, computers and technology have redefined many areas of our lives – everything from how we watch media to how we communicate and shop. However, as the tech […]"
+publishedDateTime: 2020-10-13T21:36:00Z
+originalUrl: "https://ctovision.com/how-artificial-intelligence-software-can-streamline-your-business/"
+webUrl: "https://ctovision.com/how-artificial-intelligence-software-can-streamline-your-business/"
+type: article
+quality: 37
+heat: -1
+published: false
+
+provider:
+  name: ctovision.com
+  domain: ctovision.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://ctovision.com/wp-content/uploads/space.jpg"
+    width: 632
+    height: 422
+    isCached: true
+
+related:
+  - title: "How Artificial Intelligence Software Can Streamline Your Business"
+    excerpt: "However, as the tech industry has matured and software/hardware has become more complex and competent, we have seen the emergence of one particularly exciting area of computing – namely Artificial Intelligence (AI)."
+    publishedDateTime: 2020-10-12T17:10:00Z
+    webUrl: "https://www.finsmes.com/2020/10/how-artificial-intelligence-software-can-streamline-your-business.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2018/12/robotics.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+
+secured: "5L+4FFRd1BpWPPLicVPwE1RvcksFTJC8sCkgqWZDMZ5NicDFSh/8cVIjOWNtMi4OH7HJMoUFMjATfCkbnyRA4LUHUnzz0eetheiIjNHviY6Wutz3Br6heF37dp7LFZEcUshdorUmRiaWJArpzEm1UBjNYWk8hAnxhRKHlHewO+L2Bzp0EQrjtVCvORN6KJsambFDwtETfFKf+rncVLTOvf99Asnt76W6mSoxgJbGhZGH2wb9IXKA9cMkI7lSN2YgEua4NdB4jQ/sfHHWOJukOhOCW+jMzK/sdnR3t4yr6G8Ei5A9kYY94TUF7qtVh1JywP718RfyCnN2HI3OocuJ3m+lYiqLBzIXBT3XOIpfzHE=;rsN55LTb1R+BfV7KDtKISA=="
+---
+

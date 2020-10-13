@@ -23,6 +23,22 @@ images:
     height: 667
     isCached: true
 
+related:
+  - title: "How Artificial Intelligence Software Can Streamline Your Business"
+    excerpt: "In recent years, computers and technology have redefined many areas of our lives – everything from how we watch media to how we communicate and shop. However, as the tech […]"
+    publishedDateTime: 2020-10-13T21:36:00Z
+    webUrl: "https://ctovision.com/how-artificial-intelligence-software-can-streamline-your-business/"
+    type: article
+    provider:
+      name: ctovision.com
+      domain: ctovision.com
+    quality: 37
+    images:
+      - url: "https://ctovision.com/wp-content/uploads/space.jpg"
+        width: 632
+        height: 422
+        isCached: true
+
 secured: "HSNd9SCpXVbZjNqgzp/AH1U3j8vTy0Jl/Dy6FgfAZ3MYqbKv980DMVXsRHzvLp3HVCDjYP5Wv+q8izJCkhr8Jx0dQ0Gv+E19ek12MQECLllgjBcz0oYxHnFR7efWSenXmMv0o8BxGIYiNTya61qgwpPVkFFC2/aHE8PpKWT3U2LFgGgGRBLVWqRA9Nw+Oi2i7z8mgjRrSczmZAhnXxWUTgVVbrN0Eo7zuAOJmJv4sJ2blGmf1haUjI0zVXAbkxVFg7VBEIvuF4rkGyJj/90Aq2BBA3gqGx2jLHPD4zxPAQgMq7s+jvLKpwrR286ZCWIJhJh8NaBX3mE3kEuV3+in3H5ZxB1Gh/ko3Uc0sH7jVCw=;dkaPCy2ITF3kQk5xedbzUw=="
 ---
 

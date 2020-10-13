@@ -41,6 +41,22 @@ related:
         width: 800
         height: 480
         isCached: true
+  - title: "5 fintech startups to get funding from ING-Unicef program"
+    excerpt: "Dutch financial giant ING and the United Nations Children’s Fund (Unicef) have selected five promising local fintech startups that will receive fresh funding and mentorship under their joint program"
+    publishedDateTime: 2020-10-13T21:10:00Z
+    webUrl: "https://business.inquirer.net/309482/5-fintech-startups-to-get-funding-from-ing-unicef-program"
+    ampWebUrl: "https://business.inquirer.net/309482/5-fintech-startups-to-get-funding-from-ing-unicef-program/amp"
+    cdnAmpWebUrl: "https://business-inquirer-net.cdn.ampproject.org/c/s/business.inquirer.net/309482/5-fintech-startups-to-get-funding-from-ing-unicef-program/amp"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 44
+    images:
+      - url: "https://newsinfo.inquirer.net/wp-content/blogs.dir/10/files/2020/10/News87524-e1602260971308-300x225.jpg"
+        width: 300
+        height: 225
+        isCached: true
   - title: "Global Edge Artificial Intelligence (AI) Chip Market 2020 Industry Development and Growth Forecast to 2025"
     excerpt: "The development prediction report titled Global Edge Artificial Intelligence (AI) Chip Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2025 focuses on thoughtful insights and facts relating to the market."
     publishedDateTime: 2020-10-12T16:27:00Z

@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Navina completes Seed investment round of $7 Million to solve the healthcare crisis using Artificial Intelligence, starting with primary care"
-excerpt: "PRNewswire/ -- Navina, the developer of an AI-driven platform for primary care, announced today the completion of a $7 million Seed funding round led by"
-publishedDateTime: 2020-10-13T10:01:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/navina-completes-seed-investment-round-of-7-million-to-solve-the-healthcare-crisis-using-artificial-intelligence-starting-with-primary-care-301150885.html"
-webUrl: "https://www.prnewswire.com/news-releases/navina-completes-seed-investment-round-of-7-million-to-solve-the-healthcare-crisis-using-artificial-intelligence-starting-with-primary-care-301150885.html"
+excerpt: "PRNewswire/ -- Navina, the developer of an AI-driven platform for primary care, announced today the completion of a $7 million Seed funding round led by Grove Ventures. Navina has already been integrated into several large,"
+publishedDateTime: 2020-10-13T10:13:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20201013ln56426/navina-completes-seed-investment-round-of-7-million-to-solve-the-healthcare-crisis-using-artificial-intelligence-starting-with-primary-care"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20201013ln56426/navina-completes-seed-investment-round-of-7-million-to-solve-the-healthcare-crisis-using-artificial-intelligence-starting-with-primary-care"
 type: article
-quality: 19
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
-  - AI in Healthcare
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1311576/Navina_Logo.jpg?p=facebook"
-    width: 2700
-    height: 1414
-    isCached: true
+  - AI in Healthcare
 
 related:
   - title: "On heels of $100M funding round, Olive expands healthcare AI capabilities"
@@ -40,6 +34,6 @@ related:
         height: 4395
         isCached: true
 
-secured: "Lk5QDkBhUiX4Ms4pU53yojYELQjBol8v+LmzW1pRnO50sbVa3CQIuIwHauM73sTTsgFulMS6I/t9/8t87+YMvQcmFvCQ6oFW+6aLyJnEh9XDE3jngwq9a5zmnrwFKJP7zNNsQHUtULmXomjES/GxrTa8pyILyZOcbkpXIxzjZdLStzFmeh5tsm/1HyyGzNjKukD4RInR2+rYtmb5tUJno+lvm6VS/a1JsSHZXw7vuQ/WHFUWVCX0Ns3ETybJPG9V6vlJevTIUyEjyGDyVSfdni2dqq9VrY3/BDMxxMBZLWPDjU2SCh3m+Nb457kv51FnTLDCuWlQIbkcZjuC526i+dCnHtW7Z1V4oa3v5xY8K+U=;rWtPGVRazFtZdYiEmhpWqA=="
+secured: "HV9e1hFqzfPmzA9fTMp2Y0BwdOaTb2sp3cU6oS0DGTFGsLp/I7VMwmZzpcWxrLodVCv1ZyMeQzFmF9LJjW7u6iA6mP5vo1lnO6WTWUN9CTtT+pG9Al+p0b72ZWOxt9+WSKcBa0ObY+2aDfvANO2zVM8TYEtnNL+SAMB5TRy8bk1XVotwu3kMdcnUDQYF+aOf2+s9Znyg6t1KIA2zTLRRcHteyJDq7OOgX4ZMAK6RSnVsC1fl66hz8DgKJl+L8m6BQFaA+wVUwO2YWqWIJl+ml3C67Hfa+7PoB6R+Qo9JCkxPC3rMZzIjDa3N0h/vKc9nI5vOM9BoMlSJTO7oVR00TQIwf4u1p8GlYNGV74aHyUI=;1smPIJCKjXgl8+k8K/KUhA=="
 ---
 

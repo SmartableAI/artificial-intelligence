@@ -70,15 +70,6 @@ related:
         width: 750
         height: 369
         isCached: true
-  - title: "Letter to Buenos Aires Mayor Horacio Rodríguez Larreta re: facial recognition system and children’s rights"
-    excerpt: "I am writing on behalf of Human Rights Watch to share our concern regarding the loading of images and personal information of children into a facial recognition system deployed in some subway stations of the city of Buenos Aires. Our research shows that ..."
-    publishedDateTime: 2020-10-09T04:59:00Z
-    webUrl: "https://www.hrw.org/news/2020/10/09/letter-buenos-aires-mayor-horacio-rodriguez-larreta-re-facial-recognition-system"
-    type: article
-    provider:
-      name: Human Rights Watch
-      domain: hrw.org
-    quality: 16
 
 secured: "Ev0wALRvnmPxYDOX2CDr/yMmCEcgEuUQQ7/gGU1iCLONMvu2ZpXE9Qrvt+pGKldZgBghqEF/XEkUcpV2gJirTzZ8x31lNCQV42EQmKClJIcO0FnVMHRVDyDKF70zlBg0iwXb8IAo1gMbrWaF5GMIy4ov8fOUQkfwx8ResnyvEm4DRqzvxbvru8JdjopS25HChc51MMBim9rQ++3OZ31o9SzJdPEg0Pd1vdHDHZj2FSpEp2BhxOJLni28/4qASPN1XfVVuKWcT0NtzvFBRtFMiqqc+OEpalayFMLa+9IG/z0NSHOaX6qy+L+4EYraLbIIDajOX9Ao1O2UsFICis+GlL+jji9g/u1WQxxEyapWHG1SfJQiZeFubrkVsmrx9HtOU9alUNBVRvJCaGTKqrqMSwF3FeO5uxuw9s+8XtSrTk/s2yh/xsYGLl7BvXLIK5DPNpqGs47FxEj8d9DXFr8LUSn/v1RBvAlahtV8Swp6bxg414+M+tPSHtLxD4O1GcK0+ToXxgRt3gFczBJskp1nuA==;oGr/taZp7m3HREPUMxJAyA=="
 ---

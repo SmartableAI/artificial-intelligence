@@ -24,6 +24,22 @@ images:
     height: 801
     isCached: true
 
+related:
+  - title: "Telpo releasing series of new face biometrics products"
+    excerpt: "Telpo has announced that it will be launching a series of new biometric facial recognition products on each of the three remaining Wednesdays of October 2020. The Chinese technology provider said"
+    publishedDateTime: 2020-10-13T19:54:00Z
+    webUrl: "https://www.biometricupdate.com/202010/telpo-releasing-series-of-new-face-biometrics-products"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/13152353/telpo-office.png"
+        width: 750
+        height: 300
+        isCached: true
+
 secured: "sfkYXQ9VWfOBnBCq+z0fKvX1WnLYAPhrdOvkfP6CuE9LjQk2W+AEHIlqv4SQuB9g+UHvY0bsM4NrcqytYuLiDMFM9833ihOkcWkSkM6b/PSNmENmgbvdbl8WpDHblnzhBOSRMcbVaQtW4CfdueXRXnkgOXZzt0DACaia5vSp/Pkbf/uo8kom2gv1zAKPYUvYosiedLcWRVyOeWUFGCcMmT9bbgfychQhU64sdWY0WILdaa3wMuHHxrw3lrQ/nqP1/gpqdTkbmghTcIas2LTpxcg5A7plFT4ab3jx/EILcfTxG7HAjZj4Uv5anyJU+cg/8hpWnuuzpqHwHZg05iPFb9D6mYoWJOC5L0hFrz8DC5G8/RZQ8fzBJtkwMSBQos8Gk9t4a3Rua19eK4XQ1ERifIkHKbHh78ckoT0qQi4G214VhqTpfcejNPkj6XhDN/D8GO5K5ZrZkL1d1WCUehjav5uEsT9Y/rJhVusgeXpxsi/CgapL/bdwUiqcmIppC75o0B4/JvSzGLn6Ds1SRLCGrQ==;KfDuEY5/l1E1Hi28NwB1+g=="
 ---
 

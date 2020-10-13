@@ -1,23 +1,26 @@
 ---
 category: news
 title: "Broadridge's AI-driven Corporate Bond Trading Platform LTX® Selects 7 Chord as Third-Party Pricing Provider"
-excerpt: "Broadridge Financial Solutions, Inc., a global Fintech leader, today announced that it selected 7 Chord, an independent predictive pricing and analytics provider, as the source for intraday corporate bond prices on its new artificial intelligence- driven,"
+excerpt: "PRNewswire/ -- (NYSE:BR), a global Fintech leader, today announced that it selected 7 Chord, an independent predictive pricing and analytics provider,"
 publishedDateTime: 2020-10-06T12:00:00Z
-originalUrl: "https://www.nasdaq.com/press-release/broadridges-ai-driven-corporate-bond-trading-platform-ltxr-selects-7-chord-as-third"
-webUrl: "https://www.nasdaq.com/press-release/broadridges-ai-driven-corporate-bond-trading-platform-ltxr-selects-7-chord-as-third"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/broadridges-ai-driven-corporate-bond-trading-platform-ltx-selects-7-chord-as-third-party-pricing/article_61c7d200-cbdf-596b-8ad6-dfee29d1a627.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/broadridges-ai-driven-corporate-bond-trading-platform-ltx-selects-7-chord-as-third-party-pricing/article_61c7d200-cbdf-596b-8ad6-dfee29d1a627.html"
 type: article
-quality: 31
-heat: 31
-published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "hJks93kjbdSRLPKlIsW0WPC+XDliJY4VZ0z7YfGqfS+riu89bWWQG0jFU+c+aA4B4ty3+q9D88I7bdG+COEKxJuGU4ZipyblBIB4yIQ8hes5MXpko7pB22ocF2j4cgJblWde8pmp+vUKBozVsfCCcjxc0zQS9TmFuHqy4pyXHYUgpA4W0CGXSFDQ30UbT0WHiY2OAH5Y31WhFYy0wk0CjvgY2lyWwn1dPQ17l3R/2ZUNZpppsS/gsyFvj6VLr3bdlki4gT27och7FKbTfr8dmTlTpyB15jXwulENPXweagDYBRczD+8mebBYZmAyB4d6aShNvhlW5y4UsfUEXq6BgNU2CnSDlZP4tMVRq7ta+dA=;Oq6RbZRqo2yzqVYIKClCFw=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "v8UvvasLL4keqMhtg9XfUGo1yRdUaXx/l4Cg1h5fJ8HKc+eTFJ3UHHp9h+GrneI53OXbljQWO0etvbL/xSWaHdvmg5qKiRA4hOJEu726JZJoOhhIWOTwar3IjY8ugtYcbTp0vXbqwh56IFEf+BIhPrqtU+RsDRPL//768PJVYFofq7AgCx8xjd19vhNya6mf5Egw+G+gZ7oi5MU3rV8aRvmUvL9PaYfDUeT4ui1UuhugfTJIQKd3n/uqgFGQxReXgV8MQ2e3aA8Uf6YhL2lQQTtG0JF7M5cACSXnK/SxxAPSGG5EPqF/hfPy0rderg5AYmP+BOBFmyIeDaYhd+z+DFr0p2Abtc1yFiit/36J8x8=;JzoqUntKl4mB/OUdRhOx2A=="
 ---
 

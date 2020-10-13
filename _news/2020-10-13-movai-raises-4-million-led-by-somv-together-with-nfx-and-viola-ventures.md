@@ -1,25 +1,28 @@
 ---
 category: news
 title: "MOV.AI raises $4 million led by SOMV together with NFX and Viola Ventures"
-excerpt: "MOV.AI operating system is designed for robot manufactures and ROS developers, enabling the best human-robot collaboration experience.LISBON,"
-publishedDateTime: 2020-10-13T07:20:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/mov-ai-raises-4-million-led-by-somv-together-with-nfx-and-viola-ventures-1029672463"
-webUrl: "https://markets.businessinsider.com/news/stocks/mov-ai-raises-4-million-led-by-somv-together-with-nfx-and-viola-ventures-1029672463"
+excerpt: "PRNewswire/ -- MOV.AI ( a provider of an enterprise-grade ROS development & run time environment for cobots (collaborative robots), announces"
+publishedDateTime: 2020-10-13T07:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/movai-raises-4-million-led-by-somv-together-with-nfx-and-viola-ventures-301150427.html"
+webUrl: "https://www.prnewswire.com/news-releases/movai-raises-4-million-led-by-somv-together-with-nfx-and-viola-ventures-301150427.html"
 type: article
-quality: 46
-heat: 46
+quality: 38
+heat: 38
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
+  - AI in Robotics
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1311080/movai_Logo.jpg?p=facebook"
+    width: 2359
+    height: 1238
+    isCached: true
 
 related:
   - title: "MOV.AI Closes $4M Financing Round"
@@ -37,6 +40,6 @@ related:
         height: 400
         isCached: true
 
-secured: "JIG5Ov1Lo3eez4GRFsV7kqFRQ6k7/UnkzazWDUbYvhy1XjrpHZwfxGriqhVZ1+s7W5OiffJeLFzYlvdN/w1QLCtzy0PgHKH+Lgtp2oPdFS6iI3cKJe/vmpGtUMNuewf9q3QPvN3+JdGtkhUNu/l5vXS/Vnf6GFb4UBgiztFHq4a7gY0B/gZA9k5mH/X3VO+G56+SYbkW8yc9bwfIcVh/qtZbeRb4oniani4k89XxsqqOPRHUvHoL/ct6BxjSBty9lYyqCAzmzXG6gttAGG4E4JbYdgSGsRP98NM/2NuutFHWvrFjLssccu7jZltQfJORAwuBOrS0CuXePT2RvMc5DB/elK6ekuFOI53o08+rirk=;scu99FSnCmb7TfPZCk2XKw=="
+secured: "n6ifcb++nWudsxfC1GuWUo5LYKgCVEocTb6zAGCnPlRQkINBO8vEwELKSxPYfFilMxe/a3jTL7HOJjzrUreKqBrhaZ996tWVkSUgXKT10FIX6bZICiQmdA29iquNFAmqiawdDs5NiHuZmU0jRZkpufnfnY+r8xBrBJPM1FadHAOmGMoEy7YiYLEdEyIxQ80Um5Ko8R/jDlNFRdBA/7NUXmOd+4rm1jdibfXGg3BDsMrJ751t8iNIZA77LzWzzm6B0u2fcbAHQ2I49Ve5P1it7XTUJg93ATV7Hsl3yWIhUCl8wCKNRHUufuaMFrbZI3wEjJshw7ToLJN3OjmJ9qp9uTp3lX8OVsbhji8TSbBCqqc=;SgmJ+GKOc7gJXqWVPkIEvA=="
 ---
 

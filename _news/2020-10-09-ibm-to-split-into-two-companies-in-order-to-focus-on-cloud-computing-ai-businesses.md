@@ -57,16 +57,21 @@ related:
         height: 1667
         isCached: true
   - title: "4 Things to Know About IBM's Spin-Off Plans"
-    excerpt: "IBM's (NYSE: IBM) stock recently rallied after the tech giant announced it would spin off its managed infrastructure services unit into a new company. That split will enable IBM to divest its slower-growth IT services and focus on its higher-growth hybrid cloud and AI businesses."
-    publishedDateTime: 2020-10-13T17:02:00Z
-    webUrl: "https://www.nasdaq.com/articles/4-things-to-know-about-ibms-spin-off-plans-2020-10-13"
-    ampWebUrl: "https://www.nasdaq.com/articles/4-things-to-know-about-ibms-spin-off-plans-2020-10-13?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-things-to-know-about-ibms-spin-off-plans-2020-10-13?amp"
+    excerpt: "IBM's stock recently rallied after the tech giant announced it would spin off its managed infrastructure services unit into a new company. That split will enable IBM to divest its"
+    publishedDateTime: 2020-10-13T20:30:00Z
+    webUrl: "https://www.fool.com/investing/2020/10/13/4-things-to-know-about-ibms-spin-off-plans/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/10/13/4-things-to-know-about-ibms-spin-off-plans/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/13/4-things-to-know-about-ibms-spin-off-plans/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
+      name: The Motley Fool
+      domain: fool.com
+    quality: 74
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F594946%2Fgettyimages-1183989198.jpg&w=1200&op=resize"
+        width: 1200
+        height: 631
+        isCached: true
 
 secured: "QZyeJZ7h92uZhwJ18qq66baV5N5Arx93q3wxW5EOWMQ8lMSHAeAIVWa3pKl1VVmBr5rtlgHq3RklPWj4HuY5UDGQL/E17yok0fVFj2SmwbQee5+SzcLfb7dPtk7FRlmOX8z8hE3Jxek3OcNfaU2s+axvT9n93GFEb34MNSKqDSW6iyxb1ipoWNwuIsN2WJcFPl6fTuvGQlUFt2I0yaAgUHivJav20ax/AxnF2uMiH1Wq7pVZbRBswGjEt1sJ4lTZidj9k6wAZ0cshrDAjM4Mo4DDsz4A3TVsGXcJrARkqviu00jpvxD35NXDU4GjoCQHEFlD2vTW6Rp5oeSAaVa/qWJKuNIyZ9bSfZ2STc9QnVg=;pjnIw+gucoStNCUVIn7MUw=="
 ---

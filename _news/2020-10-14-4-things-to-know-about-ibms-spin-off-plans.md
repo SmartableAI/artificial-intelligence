@@ -1,24 +1,34 @@
 ---
 category: news
 title: "4 Things to Know About IBM's Spin-Off Plans"
-excerpt: "IBM's (NYSE: IBM) stock recently rallied after the tech giant announced it would spin off its managed infrastructure services unit into a new company. That split will enable IBM to divest its slower-growth IT services and focus on its higher-growth hybrid cloud and AI businesses."
-publishedDateTime: 2020-10-13T17:02:00Z
-originalUrl: "https://www.nasdaq.com/articles/4-things-to-know-about-ibms-spin-off-plans-2020-10-13"
-webUrl: "https://www.nasdaq.com/articles/4-things-to-know-about-ibms-spin-off-plans-2020-10-13"
-ampWebUrl: "https://www.nasdaq.com/articles/4-things-to-know-about-ibms-spin-off-plans-2020-10-13?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-things-to-know-about-ibms-spin-off-plans-2020-10-13?amp"
+excerpt: "IBM's stock recently rallied after the tech giant announced it would spin off its managed infrastructure services unit into a new company. That split will enable IBM to divest its"
+publishedDateTime: 2020-10-13T20:30:00Z
+originalUrl: "https://www.fool.com/investing/2020/10/13/4-things-to-know-about-ibms-spin-off-plans/"
+webUrl: "https://www.fool.com/investing/2020/10/13/4-things-to-know-about-ibms-spin-off-plans/"
+ampWebUrl: "https://www.fool.com/amp/investing/2020/10/13/4-things-to-know-about-ibms-spin-off-plans/"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/13/4-things-to-know-about-ibms-spin-off-plans/"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
+
+images:
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F594946%2Fgettyimages-1183989198.jpg&w=1200&op=resize"
+    width: 1200
+    height: 631
+    isCached: true
 
 related:
   - title: "IBM will spin off legacy business to focus on cloud and AI services"
@@ -68,6 +78,6 @@ related:
         height: 570
         isCached: true
 
-secured: "pZYctaPA/rowQuaJMFSBJf7OoaO4ai3gfGdRow1zaIQZHCNSudRumOnIimrO9zoyy7K3m4risITj5f3+Nv5vx7bXcjgzJOnuMZ1pCb7te/pyFluoOAG7jAbQ8kvyZO0NTBNExi3LDq+5VREZA67VHmm0vLz7qF1ezgH1YMOaF8RcJUKc0noANvIO1m3Di8b9Nkw2fZlOZ7aF4Y4F2/bECISIxkE9cQVQiSRR/y8ip7aUIY2E58fA9H7avzwmnJuMA7lEepfu0mfvIpJt5AqFYyRbbKCvUXN9wE5IcQq1C9Ecgf4/And+R2rEr7e9WAYFUqMoik3888jsod4ddykkwHTAMbhKBGG8c0AR/SP9ez84kyA7qbphxhWo+VgEhqtp+MnmabSsTVlliGa/BKOYzo4CH6L0xfRaQJyTufDD3k05ZnHfNDVPPQPH3zQxRb1uFdzmFZhP2zCr5yFe7AmmNrb7+d1Sfq0i5/aP3VaMM0/KAqoGJf+Ek4fcFwcMfAaKqkBIXdZ7NyPS7W0Uw9HSBg==;EnjkWEM5QI2tSGIfnk1S3A=="
+secured: "gN4zNiJSkH2u2fGpBnYgS7u1CCOXFHnDCZvsP8XqzsjsY9Z+1qOl97BSYFvqlAqjUT6O84KseLqNeZnwp5ER5JOI0AIGtA+H49mUhPBtpMLbngo63TId86iJfykPDUmz+CJPlCAlzEgW9tAdOPFbU4e9xSxyxML1vT2S7CzvJ5iUO5g1W4KprGVO9uhqdLRtYyo7e9LbxWFUAzqkYD3j3/ctk/MUbxYd4/wWczSnycsXnDrURDRoJKGb8VXbnUxblyDIk5lWFgUXBL/+9xSC/jcuFrvc3Zx/6DLn314NAExws7A+wIi4JnC37j4dNirq8T1uRZF86e5wIr8+JctVGIji/BUFB9RyFBzynhWIa9Q=;86liS8akW3u5OZcJI1f7Uw=="
 ---
 

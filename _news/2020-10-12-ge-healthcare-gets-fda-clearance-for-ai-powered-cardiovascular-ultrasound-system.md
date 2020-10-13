@@ -33,6 +33,20 @@ related:
         width: 770
         height: 500
         isCached: true
+  - title: "GE Healthcare Combines Ultrasound and AI for Cardio Exam Solution"
+    excerpt: "The Chicago, IL-based company has received FDA clearance for the Vivid Ultra Edition, an AI-powered cardiovascular ultrasound system."
+    publishedDateTime: 2020-10-13T20:45:00Z
+    webUrl: "https://www.mddionline.com/digital-health/ge-healthcare-combines-ultrasound-and-ai-cardio-exam-solution"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 54
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_Oct132020at31508PM.jpg"
+        width: 770
+        height: 400
+        isCached: true
   - title: "MedTech Startup See-Mode Technologies Receives FDA Clearance for AI Software That Automatically Analyses and Reports Vascular Ultrasound Scans"
     excerpt: "Mode Technologies, a MedTech startup based in Singapore and Australia that seeks to empower clinicians to better predict stroke, today announced that it has received 510(k) clearance from the"
     publishedDateTime: 2020-10-12T13:00:00Z

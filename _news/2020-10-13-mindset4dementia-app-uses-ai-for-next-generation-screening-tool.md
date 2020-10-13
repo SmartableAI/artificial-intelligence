@@ -114,18 +114,18 @@ related:
         height: 384
         isCached: true
   - title: "Tyto Care Launches the Next Generation of Telehealth with an AI-Powered Diagnostic Support Solution"
-    excerpt: "Tyto Care, the healthcare industry's first all-in-one modular device and examination platform for AI-powered, on-demand, remote medical"
+    excerpt: "Tyto Care, the healthcare industry’s first all-in-one modular device and examination platform for AI-powered, on-demand, remote medical exams, today announced its AI-powered diagnostic support solution,"
     publishedDateTime: 2020-10-13T19:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/tyto-care-launches-the-next-generation-of-telehealth-with-an-ai-powered-diagnostic-support-solution-301151340.html"
+    webUrl: "https://apnews.com/press-release/pr-newswire/virus-outbreak-business-corporate-news-diseases-and-conditions-products-and-services-8c62e6554746b11439c958c8ca542754"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 23
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "Bbddb8Ww42BO++KhzcrbSMFX+/TJ89BrfzWQ/zu+t8rW7F2zkjYnALjvOpCGVVkHnsF+W7c7JDSqGQwQpO3sT/D/gwWzCAtHhN/COhZhrox+hYCHE4Bp11DoPL+0Y7fYFySQPtaRu5w44aBHoh9fYympdINjmnkXeZ87utPSIn1LRYAxGqmVvADddwGGF9ql+CoVoJIPPTOgH8sT1gXmqJ1hnoC631AzEsaV0shFThO1GocVw14l4TyCOyZMEY+tecPojRSes0Zltc5u0G6dQHe24GYQfe+sGSO2hJyiRiLSBpRNDvrxE0Qdln3GhRIgDoM906Xo7F3U4MB1SbG8Inq5DVE4izTWIXk3qvGMTwo=;0G0Y0A/CoMJFFlTkb8gRrw=="

@@ -1,40 +1,29 @@
 ---
 category: news
-title: "Synopsys IC Compiler II Delivers First-Pass Silicon Success for Graphcore's Multi-Billion Gate AI Processor"
-excerpt: "(Nasdaq: SNPS) today announced that Graphcore achieved first-pass silicon success using the industry-leading IC Compiler ™ II place-and-route solution, part of the Synopsys Fusion Platform, for designing its second-generation Colossus MK2 GC200 Intelligence Processing Unit (IPU),"
-publishedDateTime: 2020-10-12T14:19:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/synopsys-ic-compiler-ii-delivers-first-pass-silicon-success-for-graphcores-multi-billion-gate-ai/article_d7a83610-4fb7-5a95-8a08-a9b7882218a9.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/synopsys-ic-compiler-ii-delivers-first-pass-silicon-success-for-graphcores-multi-billion-gate-ai/article_d7a83610-4fb7-5a95-8a08-a9b7882218a9.html"
+title: "Synopsys IC Compiler II Delivers First-Pass Silicon Success for Graphcore’s Multi-Billion Gate AI Processor"
+excerpt: "Highlights IC Compiler II, part of the Synopsys Fusion Platform, with its industry-leading capacity and throughput, accelerated"
+publishedDateTime: 2020-10-12T16:38:00Z
+originalUrl: "https://www.eejournal.com/industry_news/synopsys-ic-compiler-ii-delivers-first-pass-silicon-success-for-graphcores-multi-billion-gate-ai-processor/"
+webUrl: "https://www.eejournal.com/industry_news/synopsys-ic-compiler-ii-delivers-first-pass-silicon-success-for-graphcores-multi-billion-gate-ai-processor/"
 type: article
 quality: 21
 heat: 21
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Electronic Engineering Journal
+  domain: eejournal.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png"
+    width: 512
+    height: 512
     isCached: true
 
-related:
-  - title: "Numem Selected by NASA for 'DNN Radiation Hardened Co-Processor Companion Chip to NASA's Upcoming High-Performance Spaceflight Computing Processor'"
-    excerpt: "Numem, the leading provider of NuRAM & SmartMem Smart Compute Memory IP Cores based on MRAM, has been selected for Phase I of the “DNN Radiation Hardened Co-processor as companion chip to NASA’s upcoming High-Performance Spaceflight Computing Processor” to enable AI processing."
-    publishedDateTime: 2020-10-12T09:37:00Z
-    webUrl: "https://www.design-reuse.com/news/48796/numem-nasa-dnn-radiation-hardened-co-processor.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 0
-
-secured: "oTuUgUtCLagN1kGOjHFdOrJYWqeO4vwUR27UmCk2NfaiP8h6iH/Lh7ji8T0lKv5siPcwUF0vkcUXIBBSfYp1sWyvni+wHoTUIe3OwbBE0dwUHDliYRep8ycMGBYyVwfGuy4620vmqXYZWqlHoKJ1yU2AlVxSUtcVUiXzBqrecQ+guUBWtUuilHXkPzHZyxWJvREpW9VlQyeB+LIjuRJ5tm8d4C1U4mUpX3UOyDxmCNH6P+y6wbOvlOL3awvyjXtDSxdpfXOHiNRYlmXaqGd8lF1b2xV8aeUnzHSFLVAx1IniOwPu/LKOq0/jOc0JXMWJvQBuJogTPZkotoTHncZfXRNEfHtrm1COlXArpyPRspY=;dxxk9moxtBzJeT43cprwKQ=="
+secured: "JgVTrOkPVdmw95XhzuEcqTaJoFaFeUe4q0tNu6JLXTLfMWNsnS7SGIZiR/rAX4r8dCLeS23lsh4+n2Ch+C5k63tQER3h5+uG65rUkUzrDc/5pV1mkqxbLzP6ha/b+svivzFMlFwszhtUJNJpHR215OKwpVYq+Dah/1neZIUOLJRikMJ78ExmcZsAzy5TLd4g2b6D2ZS9Z0BXwx2weu7urGKGXUGDl+wUxE341b+I6RdzPDF3fkx2fcD66bebiM23Cy1ins5xdDCcbGekc0CdzvtJg3O62t1AobEWvmcMpt7xigHUfMzNlxWuxTb0hrOWCQK+g9Y9w9HovWbKs0pdesDQE8Q+NxcmUwZzVkIOmiY=;5s9NHfiuQo5EeTUrYp0zhw=="
 ---
 

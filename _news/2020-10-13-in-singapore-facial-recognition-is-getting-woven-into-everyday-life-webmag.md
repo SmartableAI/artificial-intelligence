@@ -73,6 +73,20 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "Hyundai's new Singapore R&D hub features helipad for flying cars"
+    excerpt: "Hyundai Motor has begun building a research and development center in Singapore for next-generation applications such as artificial intelligence and driverless technology, the South Korean automaker said Tuesday."
+    publishedDateTime: 2020-10-13T14:12:00Z
+    webUrl: "https://asia.nikkei.com/Business/Automobiles/Hyundai-s-new-Singapore-R-D-hub-features-helipad-for-flying-cars"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F9%252F0%252F5%252F3%252F29933509-9-eng-GB%252FCropped-1602598991%25E7%258F%25BE%25E4%25BB%25A3%25E8%2587%25AA%25E3%2580%2581%25E3%2582%25B7%25E3%2583%25B3%25E3%2582%25AC%25E3%2583%259D%25E3%2583%25BC%25E3%2583%25AB%25E3%2581%25AB%25EF%25BC%25A9%25EF%25BC%25B4%25E9%2596%258B%25E7%2599%25BA%25E6%258B%25A0%25E7%2582%25B9%25E3%2580%2580%25E2%2596%25A020201013211857361_Data.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "/9C5WD5PJ9I5qbug9jRbJh1eLCwRa7t7Tt3KL9q1Gb2IYuVJEAGPkShLFb6uH1mCl+pBTkAadtn9844axeFrUw+FmpA/PQh+4FSg9pOg/aRHwrkIlgi+Npi/qPpvRxGQKhRh03Z+TQXf8hUGgsVSeCMDJz/tQ8e8CnEQK+/NeK45pU+5zA7Y/cp9+7LMoxsYQtP9+czU4bZ4UxEY1ubeaFuwZSGq+VAxhKEmkob7ZSU8vjFXBAcKfzqrR0Kw3IH8WIIR734v9SxCrVrtkmSZ68mOsIv2kfQhX1Tc2zgiREx3OSM9HR67+ZcK4NVO+9mhSOhfcHFu1kPtChkTXEgmsHaBoRTI9SuxBukP9omxwnUQGKEGBj7VT/teUIUKGifMeWAKNUqqQyIHjF4rsqjBDe/Ea3TWVa1KwLkP0A8/cZlUwNqdgnLqmlOCqT9EBqPLq7aFIhh8OiS8KNcjLAS2b0ruXxcD48ACIC60Q9VE0I9GkwAuqDlZT0yQRfrqFfa1IshbbwFnQZuHg8b6vWUBzw==;pDb6cuTiGC6DhYvI5ZUU5A=="
 ---

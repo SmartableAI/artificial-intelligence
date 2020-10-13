@@ -39,6 +39,20 @@ related:
         width: 770
         height: 500
         isCached: true
+  - title: "GE Healthcare Combines Ultrasound and AI for Cardio Exam Solution"
+    excerpt: "The Chicago, IL-based company has received FDA clearance for the Vivid Ultra Edition, an AI-powered cardiovascular ultrasound system."
+    publishedDateTime: 2020-10-13T20:45:00Z
+    webUrl: "https://www.mddionline.com/digital-health/ge-healthcare-combines-ultrasound-and-ai-cardio-exam-solution"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 54
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_Oct132020at31508PM.jpg"
+        width: 770
+        height: 400
+        isCached: true
   - title: "GE Healthcare Gets FDA Clearance for AI-Powered Cardiovascular Ultrasound System"
     excerpt: "GE Healthcare said it received U.S. Food and Drug Administration 510k clearance for its Ultra Edition package on Vivid cardiovascular ultrasound systems. The healthcare business of General Electric Co."
     publishedDateTime: 2020-10-12T12:26:00Z
