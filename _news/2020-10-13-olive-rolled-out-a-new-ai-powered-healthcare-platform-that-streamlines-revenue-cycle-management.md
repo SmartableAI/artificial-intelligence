@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/olive-unveils-ai-powered-platform-
 webUrl: "https://www.businessinsider.com/olive-unveils-ai-powered-platform-to-streamline-healthcare-admin-2020-10"
 type: article
 quality: 72
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "6 recent studies exploring AI in healthcare"
-    excerpt: "In the past decade or so, researchers have piloted more and more studies exploring artificial intelligence's potential to transform healthcare for the better, including reducing workflow inefficiencies,"
-    publishedDateTime: 2020-10-09T16:03:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/6-recent-studies-exploring-ai-in-healthcare.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/4.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "New AI Platform to Work Hand-in-Hand with Healthcare Workers"
     excerpt: "PRNewswire/ -- For the capacity-stricken healthcare sector, the last six months have reinforced the need for an AI workforce to ensure financial continuity while delivering superior patient care. As health systems across the country struggle to streamline processes and revitalize revenues without impacting patient care,"
     publishedDateTime: 2020-10-12T13:00:00Z

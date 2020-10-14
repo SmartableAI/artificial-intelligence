@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-securit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-to-buy-this-year/"
 type: article
 quality: 89
-heat: 149
+heat: 169
 published: true
 
 provider:
@@ -110,6 +110,34 @@ related:
       - url: "https://www.dailyexcelsior.com/wp-content/uploads/2020/10/11-11.jpg"
         width: 1000
         height: 668
+        isCached: true
+  - title: "Attendance in Sectt through Facial Recognition System"
+    excerpt: "Employees of the Civil Secretariat will mark their attendance through a Facial Recognition system from next week. The use of the biometric attendance system, which requires people to put a finger on the surface of the scanner,"
+    publishedDateTime: 2020-10-13T21:35:00Z
+    webUrl: "https://www.dailyexcelsior.com/attendance-in-sectt-through-facial-recognition-system/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 39
+    images:
+      - url: "https://www.dailyexcelsior.com/wp-content/uploads/2020/10/attendqancwe.jpg"
+        width: 800
+        height: 795
+        isCached: true
+  - title: "Lawmakers consider banning facial recognition"
+    excerpt: "Should police be able to use facial recognition technology?"
+    publishedDateTime: 2020-10-13T22:54:00Z
+    webUrl: "https://www.wcax.com/video/2020/10/13/lawmakers-consider-banning-facial-recognition/"
+    type: article
+    provider:
+      name: WCAX3
+      domain: wcax.com
+    quality: 39
+    images:
+      - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/e2S0knkKNZ5ab8QW42iHuCfto7o=/980x0/smart/do0bihdskp9dy.cloudfront.net/10-13-2020/t_28fc284ae6df48a7a37ec9d1be82479a_name_file_1280x720_2000_v3_1_.jpg"
+        width: 980
+        height: 551
         isCached: true
 
 secured: "pPWplSwkTyRn4akUDTw2TeJMryl7tilwptnH2zDZQm72s1rSOXRJov5FCC1NPXLuk0zo3K9CgzwN+isP6OoErCO3p8p5icg9lAMxDAyTJgVbK2JULFm+5D7t4pxfYoU6pByTFYAOAtq0L0MpzWMiA6c8Tk/8ZsGddxzsqe14RUJzrseQd8i8If665Ddn5uYZE+c+5trQjNxETDhjfn5TfEVUM6xpyq+FYPSyOAkr52lqVOTdlNlDZ+fgKchk2KPSzI898OW2hKNjl/jLs/ueSqvONkLWmbzJEmuiD+QjSKoZjYGtyXP967b5+W9QbX6Uj5EO+j6c1gIhxAoRc6DfLK3gpBpz69bPZPhNh5HqKauz3DdmgrC5zORbTN09Sa0rW5T7+NT4by9wgzAHAeHlnRAkdsYkzR1TO9pCkURn7eQHeXyM9omb4b3vLOZliaiWDDqEvSkbRzNZrOzeo032t3tfwo/JEvO9rnFfqRBMyovmKsP+fWG6JP35vdVumq/5zvPHD4WX5QlMTGALi0EAwQ==;pVL2nCcn6TTBAdcnyzlT8w=="

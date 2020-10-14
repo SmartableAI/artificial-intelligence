@@ -39,20 +39,6 @@ related:
         width: 650
         height: 324
         isCached: true
-  - title: "6 recent studies exploring AI in healthcare"
-    excerpt: "In the past decade or so, researchers have piloted more and more studies exploring artificial intelligence's potential to transform healthcare for the better, including reducing workflow inefficiencies,"
-    publishedDateTime: 2020-10-09T16:03:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/6-recent-studies-exploring-ai-in-healthcare.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/4.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "StreamlineMD Selects Aidéo Technologies’ AI-Powered Auto-Coding Tool for Revenue Cycle ..."
     excerpt: "(GLOBE NEWSWIRE) -- Aidéo Technologies  – a leader in AI-enabled automation technology for the healthcare industry – announced today that StreamlineMD has chosen the company’s AI-powered auto-coding tool Gemini AutoCode™ to enhance revenue,"
     publishedDateTime: 2020-10-13T17:18:00Z

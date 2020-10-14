@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/adorable-red-self-driving-robot
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/adorable-red-self-driving-robot-delivering-mail-in-japan-during-pandemic/"
 type: article
 quality: 105
-heat: 155
+heat: 165
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Caterpillar bets on self-driving machines impervious to pandemics"
+    excerpt: "How can a company like Caterpillar <CAT.N> try to counter a slump in sales of bulldozers and trucks during a pandemic that has made every human a potential disease vector?"
+    publishedDateTime: 2020-10-12T16:36:00Z
+    webUrl: "https://www.reuters.com/article/us-caterpillar-services-technology-focus-idUSKBN26X1ET"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26X1ET"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X1ET"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201012&t=2&i=1537123187&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9B0S1"
+        width: 807
+        height: 545
+        isCached: true
   - title: "Self-Driving Delivery Robot Hits the Streets in Japan"
     excerpt: "Following this notion, Japan’s postal service has recently unveiled a self-driving delivery robot! The self-driving delivery robot is the size of a wheelchair and has built-in cameras and sensors. It was first operated on a sidewalk in Tokyo’s Chiyoda Ward in Japan."
     publishedDateTime: 2020-10-13T09:11:00Z

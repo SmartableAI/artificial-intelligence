@@ -72,6 +72,20 @@ related:
         width: 1420
         height: 797
         isCached: true
+  - title: "Vermont lawmakers approve ban on facial recognition technology"
+    excerpt: "Darren Perron spoke with Jay Diaz with the Vermont ACLU and Claire Garvey, a senior associate at Georgetown University Center on Privacy and Technology, who has studied facial recognition."
+    publishedDateTime: 2020-10-13T22:51:00Z
+    webUrl: "https://www.wcax.com/2020/10/13/vermont-lawmakers-approve-ban-on-facial-recognition-technology/"
+    type: article
+    provider:
+      name: WCAX3
+      domain: wcax.com
+    quality: 39
+    images:
+      - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/w1yRg1ibSlqj1jcDMeW3bLsHrGU=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/JKYAV7HQLFHVHEQPD73SJAXCMM.PNG"
+        width: 980
+        height: 502
+        isCached: true
 
 secured: "SGrGSd5Sfo6gs1sSmqbQgDAeMQtv0SbPyZl8nNuOhrN5TTHsxG5hPvMIs6iMlV/BGuzfBb7Ic7a4jYT1XqsjBGqxkEwYXMvdRLVFkcjF8Bwa050m1C9lvsii4hA5wgzTrnIGH8RBCl26vdMJKOdvEWlQGVNjY9tGiX7A/HzGW9JeDN1GqxvHapT5c9xIFJy6C6rUtjq5WguiLyytkqsAmcaBh0kD70OKtGwrntkU7vju3TLcRrvB5e8hHO22w06ggXtIb6zTgLCRPXVVJqaPnT2GXQDnB/B9w8s0GSXQAVrCOlkBBL6QRRCGJiwfMOXXChgsxaIC6Rg2D8DXkQ1RQQPvO6gLUdfovf1o97n85I4=;fea3z9ylZ3MzqHaSv5uUSg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.fiercehealthcare.com/tech/heels-100m-funding-round-oli
 webUrl: "https://www.fiercehealthcare.com/tech/heels-100m-funding-round-olive-expands-healthcare-ai-capabilities"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 6584
     height: 4395
     isCached: true
-
-related:
-  - title: "Navina completes Seed investment round of $7 Million to solve the healthcare crisis using Artificial Intelligence, starting with primary care"
-    excerpt: "PRNewswire/ -- Navina, the developer of an AI-driven platform for primary care, announced today the completion of a $7 million Seed funding round led by Grove Ventures. Navina has already been integrated into several large,"
-    publishedDateTime: 2020-10-13T10:13:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20201013ln56426/navina-completes-seed-investment-round-of-7-million-to-solve-the-healthcare-crisis-using-artificial-intelligence-starting-with-primary-care"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
 
 secured: "0muqnWdxeDXp3/WxsegvDcJOC6IwNO4gV33NtffHY2EYuv79RfFrh6ZLzDrZaB6v1RGBFh870MNhe2kpovlpy7POjFE4twPvx+anBUwkrrwswFeOxkXw+Tvnz/4Qcy8r9TTE9zO7gVpC3pU631Y1CsO17wmBNg1LrGGvHywa6C0eGm2aNqyumT1C/8Qk/DbBpwe3c3mlWTaXPzjrq1SreVAdJ3Y2IP5Mk6PSIGGfeCbLvSHDskZ+cL+UfEkXhVPEh5J57/7MSaPVIa5r/qRsNmWry/NBRTKOOX/G31UFmvzfg5EF7LWLMHq3QE0LmDARpK+92FLeZAXPtAB8Pr18WOhnSK7TXjm3omx+r1kUxz0=;OuEL1ZfIyNBUoMwB16++sg=="
 ---

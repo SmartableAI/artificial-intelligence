@@ -19,21 +19,49 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "On heels of $100M funding round, Olive expands healthcare AI capabilities"
-    excerpt: "Healthcare software startup Olive is expanding its artificial intelligence capabilities to assist healthcare workers with day-to-day tasks like prior authorizations and insurance verifications. The company's new Olive Helps platform,"
-    publishedDateTime: 2020-10-12T12:00:00Z
-    webUrl: "https://www.fiercehealthcare.com/tech/heels-100m-funding-round-olive-expands-healthcare-ai-capabilities"
+  - title: "These 8 tech companies are using AI to improve healthcare, renewable energy, and more"
+    excerpt: "We often see news and headlines about the dark side of AI, its weaponization, and “algorithmic warfare”. A plethora of AI-driven, dystopian paradigms await us in the future, but there is also a bright side!"
+    publishedDateTime: 2020-10-13T22:08:00Z
+    webUrl: "https://techcrunch.com/sponsor/idb-taiwan/these-8-tech-companies-are-using-ai-to-improve-healthcare-renewable-energy-and-more/"
     type: article
     provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 53
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 77
     images:
-      - url: "https://qtxasset.com/fiercehealthcare/1602270586/GettyImages-899023542.jpg/GettyImages-899023542.jpg?s6QSCLVsKF0j8yq07lPNxxduzW8zU.ex"
-        width: 6584
-        height: 4395
+      - url: "https://techcrunch.com/wp-content/uploads/2020/08/1024x683_Hero-Image_thingnario.jpg?w=600"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "6 recent studies exploring AI in healthcare"
+    excerpt: "In the past decade or so, researchers have piloted more and more studies exploring artificial intelligence's potential to transform healthcare for the better, including reducing workflow inefficiencies,"
+    publishedDateTime: 2020-10-09T16:03:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/6-recent-studies-exploring-ai-in-healthcare.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/4.jpg"
+        width: 400
+        height: 300
+        isCached: true
+  - title: "How Is Artificial Intelligence Used In B2B Companies: Here Are Powerful Examples"
+    excerpt: "There’s often a misconception that artificial intelligence (AI) is only applicable to businesses in the B2C space. It's thought that since B2C companies have more customers, they have more data to leverage to make AI impactful."
+    publishedDateTime: 2020-10-11T13:36:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-artificial-intelligence-used-b2b-companies-here-powerful-marr"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 34
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGQWfYANMb3rw/article-cover_image-shrink_720_1280/0?e=1608163200&v=beta&t=r0-X7ooUKQ0yxEnWb7s7etVufEzuJ1JRIhISgQ2E98s"
+        width: 1280
+        height: 692
         isCached: true
 
-secured: "HV9e1hFqzfPmzA9fTMp2Y0BwdOaTb2sp3cU6oS0DGTFGsLp/I7VMwmZzpcWxrLodVCv1ZyMeQzFmF9LJjW7u6iA6mP5vo1lnO6WTWUN9CTtT+pG9Al+p0b72ZWOxt9+WSKcBa0ObY+2aDfvANO2zVM8TYEtnNL+SAMB5TRy8bk1XVotwu3kMdcnUDQYF+aOf2+s9Znyg6t1KIA2zTLRRcHteyJDq7OOgX4ZMAK6RSnVsC1fl66hz8DgKJl+L8m6BQFaA+wVUwO2YWqWIJl+ml3C67Hfa+7PoB6R+Qo9JCkxPC3rMZzIjDa3N0h/vKc9nI5vOM9BoMlSJTO7oVR00TQIwf4u1p8GlYNGV74aHyUI=;1smPIJCKjXgl8+k8K/KUhA=="
+secured: "R387uDspa0s3sjwg6b2UfCE7UAfQENN3MCAWvXTn6/ZDNZxERjShVKOfWxRsrCu5VmHVD6+23NTUfUrWVJwyUcISrVYeFFFh/O6Ot25ZFsmUteJefJffj2c14F9j+PuOr87FaMAKh/etBSwMFHHp25B9fMZg3we4knLXGFjW/zJThg+b/KCo1iPLfN4DrXf9sCmahcq02X7lup9S1HldadipfhJ/s2YYeFaZtpOXLkY3lEWgrNCKJeMXNqeRFUt0Nf6ENaSDPxAj2YJ5KKanuysp+IP4JzIpxVt3+qKzH+SAe1nUufhMGyoInm+7FkMolzZ9NihR0zfvH6nE4UW3ngGM82BIF7lA1S3O4PKV9ww=;VvQuHXVhLv59EH7OvagIAw=="
 ---
 

@@ -197,6 +197,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tesla’s Revamped Self-Driving Software Will Go Into Beta Testing Next Week"
+    excerpt: "Tesla ’s long-awaited, revamped Autopilot is moving one step closer to becoming a reality. After years in development and no shortage of serious setbacks, the California-based electric car giant is set to begin beta testing its new self-driving software next week."
+    publishedDateTime: 2020-10-13T21:53:00Z
+    webUrl: "https://robbreport.com/motors/aviation/tesla-revamped-autopilot-software-beta-testing-1234574779/"
+    ampWebUrl: "https://robbreport.com/motors/aviation/tesla-revamped-autopilot-software-beta-testing-1234574779/amp/"
+    cdnAmpWebUrl: "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/aviation/tesla-revamped-autopilot-software-beta-testing-1234574779/amp/"
+    type: article
+    provider:
+      name: Robb Report
+      domain: robbreport.com
+    quality: 57
+    images:
+      - url: "https://robbreport.com/wp-content/uploads/2020/10/press_autopilot2.jpg?w=1000"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Tesla Autopilot Self-Driving Beta Test Will Start Tuesday, Elon Musk Confirms"
     excerpt: "Tesla CEO Elon Musk announced via Twitter on Monday that the company's autopilot self-driving mode would be made available in a small beta test starting next week. The closed beta"
     publishedDateTime: 2020-10-13T05:10:00Z

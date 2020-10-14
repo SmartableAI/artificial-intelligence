@@ -28,7 +28,7 @@ related:
   - title: "UJET Unveils Virtual Agent"
     excerpt: "UJET Virtual Agent provides conversational artificial intelligence and automation for contact center interactions."
     publishedDateTime: 2020-10-13T18:21:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/UJET-Unveils-Virtual-Agent-143328.aspx"
+    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=143328"
     type: article
     provider:
       name: Destination CRM

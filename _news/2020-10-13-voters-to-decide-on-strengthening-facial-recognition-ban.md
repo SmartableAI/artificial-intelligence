@@ -110,6 +110,34 @@ related:
         width: 1000
         height: 668
         isCached: true
+  - title: "Attendance in Sectt through Facial Recognition System"
+    excerpt: "Employees of the Civil Secretariat will mark their attendance through a Facial Recognition system from next week. The use of the biometric attendance system, which requires people to put a finger on the surface of the scanner,"
+    publishedDateTime: 2020-10-13T21:35:00Z
+    webUrl: "https://www.dailyexcelsior.com/attendance-in-sectt-through-facial-recognition-system/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 39
+    images:
+      - url: "https://www.dailyexcelsior.com/wp-content/uploads/2020/10/attendqancwe.jpg"
+        width: 800
+        height: 795
+        isCached: true
+  - title: "Lawmakers consider banning facial recognition"
+    excerpt: "Should police be able to use facial recognition technology?"
+    publishedDateTime: 2020-10-13T22:54:00Z
+    webUrl: "https://www.wcax.com/video/2020/10/13/lawmakers-consider-banning-facial-recognition/"
+    type: article
+    provider:
+      name: WCAX3
+      domain: wcax.com
+    quality: 39
+    images:
+      - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/e2S0knkKNZ5ab8QW42iHuCfto7o=/980x0/smart/do0bihdskp9dy.cloudfront.net/10-13-2020/t_28fc284ae6df48a7a37ec9d1be82479a_name_file_1280x720_2000_v3_1_.jpg"
+        width: 980
+        height: 551
+        isCached: true
 
 secured: "aHlYau/irsHwfiqxUM/LsrTBGoo5ewRNUWmYd+gD4FEqbmZPFFekUbdAamzUC985ZeMUG/emUV8bPZXkuJCgau/QyLGQXUbkKurhMFh6tGynazEcyydJemHT+vdDaHY4UYASOuEz4Tb15RA3p1eq/zDggtuvilUhGHHy63Ihn3U6fVeWdDIzRSPCvGEJ3QpU2xsbTzuVtEt4w7Bsmq7ZYJMtw8zdOHlVCs03XpiaB532lgl5ZwD6rLTRzM3RMuyr/Xj6AiMO/peLfVOgLYuaqns/7tlVwSjOZ8xCCT17TZcuvjE7E/FvCHC797+u5sHGxXfb/GlfO67jaOuPK4FsPlVhOhcPXACqeSlYo4UE8bE=;kjRLuhQkKeRAOd2mCHotiA=="
 ---

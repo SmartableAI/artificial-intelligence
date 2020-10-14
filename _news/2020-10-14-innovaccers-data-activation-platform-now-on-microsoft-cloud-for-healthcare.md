@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "IBM spinning off legacy IT business to step up cloud competition with Amazon, Microsoft"
-    excerpt: "In IBM chief executive officer Arvind Krishna’s first big move, he is spinning off a slower-growth business that manages corporate computer systems so the tech giant can focus on the boom in demand for cloud services and step up competition with Amazon and Microsoft."
-    publishedDateTime: 2020-10-09T06:44:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3104787/ibm-spin-legacy-it-business-step-cloud-competition-amazon-microsoft"
-    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3104787/ibm-spin-legacy-it-business-step-cloud-competition-amazon-microsoft"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3104787/ibm-spin-legacy-it-business-step-cloud-competition-amazon-microsoft"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 83
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/10/09/5bd7ae50-09d2-11eb-afc8-92e0da0ef1c3_image_hires_095827.jpg?itok=DVVdPC5n&v=1602208714"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "IGse2nIbEH22S/oDxNhnOcONo6P3ZWIb4YnMTs1ow9ppWoxrBRAkf/MDVzpaDAjZKLKu1PI+ebP6LfUpEF2KdaXHRyvccpBFEmFazVcuP4L7K0Rn2dRfiA9a/MmXdmX0lCYQj3PA0/0K1KM9Hx/M7WlPGcNC5GjP1C4Gzklcp3vjTJnxXSPhxFBFjAVbqtGyt7zzrADZHpdsGbPm1rLZJOY28XOqZcRXLYRl70R3IBJHxrHjq5trh6ia9/hcb3s5fqJR0d5BVWLnmcQH1W33jWF3Cw8sQhNvbdMpePxt2GykM7no02LFvB/0VbBY8IpzUbgG4tLH7tLVonNcYq7Coqamr0Qx2xXwkOrTlGBQKSg=;a8noLJ2CB3Qt5uvROTs6mg=="
 ---

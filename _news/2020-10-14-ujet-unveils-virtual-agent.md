@@ -3,8 +3,8 @@ category: news
 title: "UJET Unveils Virtual Agent"
 excerpt: "UJET Virtual Agent provides conversational artificial intelligence and automation for contact center interactions."
 publishedDateTime: 2020-10-13T18:21:00Z
-originalUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/UJET-Unveils-Virtual-Agent-143328.aspx"
-webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/UJET-Unveils-Virtual-Agent-143328.aspx"
+originalUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=143328"
+webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=143328"
 type: article
 quality: 24
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 682
         isCached: true
 
-secured: "dsKmVKsX4Rluq4dkuWK2l+ZPJS5rQcVA7aPCfyZRU6Jp8fv1RkiilJGuhNqkjXZSSF2qzrhJ8TQB6zsyxMRuFuh9CPcUGQ0o0nupJpLNEUfbtDZDnrc0iYx5ktzlaAqUwKuFkAnZNnRYO1K2SRKv4MK9PzM9mk816y3AuV+SRLnb0Hfrk1vAZidkPqziwBJGsrr1UutZzWsf1lOtKIn9ekRa2DFOloKFzg0kOLadaX/xueS/TBQWn9tiXeowNih/exDOrYT3vQZ0lFQkEmZeWzGJ3W2Tr8+I3rLEoSWvmcBb0kBxCxsFhvtCHthaZeipzSsf8vG9xJkXNjvxmppwEesyUq41KRB5blbbcsE34sc=;68aFH9z+lMruAB//VAORKQ=="
+secured: "qBw1Jho3qDH49TGGJkKT+RXRdaoDO8hGd9cfWPRnRjg2mAXlBgJuIJYpgjzqww2Hye2A/tnq0GeEKFwy9P/kwr03nDk83memq6Z/fnAsyRH4nO7Fws6eWcNmWwHRHwA3xnFwrBYEJLtuZUVy4tGUOXkKMeZo0IA5jQt8Fph+FRSVUFF+/viPIoy3iHrA+NkLk0Zy5DQnEMVEl3P4/ikdT25Yg0c/obdTA6v7i4IXa0RfnTsCKoebYjO14nngKO+SYfejOw8H4pTm0QvRJnrIRb2hZenabeXs3iOBbaOMWVSqFbvXqhpX8L2Mu5c7uALhPcfcTYca2vk9yFZqeDWlxoy5ahdMRdrNj1rqwOwXrPM=;jkOgx9biZWaVmA06oawWXg=="
 ---
 

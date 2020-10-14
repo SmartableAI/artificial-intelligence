@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-13-using-speaker-diarization-for-streaming-transcription-with-amazon-transcribe-and-amazon-transcribe-medical.md",
+      "title": "Using speaker diarization for streaming transcription with Amazon Transcribe and Amazon Transcribe Medical",
+      "excerpt": "Conversational audio data that requires transcription, such as phone calls, doctor visits, and online meetings, often has multiple speakers. In these use cases, it’s important to accurately label the speaker and associate them to the audio content delivered. For example, you can distinguish between a",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-speaker-diarization-for-streaming-transcription-with-amazon-transcribe-and-amazon-transcribe-medical/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-speaker-diarization-for-streaming-transcription-with-amazon-transcribe-and-amazon-transcribe-medical/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/13/Can-you-tell-me-about-the-Amazon-Transcribe-speaker-diarization-for-streaming-audio_-4.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-13T15:37:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-spotify-open-sources-klio-a-framework-for-ai-audio-research.md",
       "title": "Spotify open-sources Klio, a framework for AI audio research",
       "excerpt": "Over the years, the company has begun to tap natural language processing, audio models, and filtering to serve up recommendations and curate playlists including Discovery Weekly and Release Radar.",
@@ -222,19 +275,19 @@
     {
       "path": "_news/2020-10-06-marquis-software-deploys-the-highest-level-of-biometric-security-by-using-awares-knomi-for-face-voice-authentication.md",
       "title": "Marquis Software Deploys the Highest Level of Biometric Security by Using Aware's Knomi® for Face + Voice Authentication",
-      "excerpt": "PRNewswire/ -- Aware, Inc. (NASDAQ: AWRE), a leading global provider of biometrics software products, solutions and services, today announced that",
+      "excerpt": "PRNewswire/ -- Aware, Inc. (NASDAQ: AWRE), a leading global provider of biometrics software products, solutions and services, today announced that Marquis Software is leveraging Aware's",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/marquis-software-deploys-the-highest-level-of-biometric-security-by-using-awares-knomi-for-face--voice-authentication-301146607.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/marquis-software-deploys-the-highest-level-of-biometric-security-by-using-awares-knomi-for-face--voice-authentication-301146607.html",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/marquis-software-deploys-the-highest-level-of-biometric-security-by-using-awares-knomi-for-face/article_b2f07913-d238-5d5c-8784-2efb2285e4e8.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/marquis-software-deploys-the-highest-level-of-biometric-security-by-using-awares-knomi-for-face/article_b2f07913-d238-5d5c-8784-2efb2285e4e8.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1283061/Aware_Logo.jpg?p=facebook",
-          "width": 1060,
-          "height": 555,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/67/a6718b10-331c-5d20-b28b-40e4526893ab/5f7c721f2c356.image.jpg?resize=400%2C311",
+          "width": 400,
+          "height": 311,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -247,8 +300,8 @@
       "publishedDateTime": "2020-10-06T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -509,19 +562,19 @@
     {
       "path": "_news/2020-09-30-systran-partners-with-ted-to-create-specialized-translation-models-expanding-professional-applications-of-machine-translation.md",
       "title": "SYSTRAN Partners with TED to Create Specialized Translation Models Expanding Professional Applications of Machine Translation",
-      "excerpt": "PRNewswire/ -- SYSTRAN, the leader in AI-based translation technology, announces its new partnership with TED, a nonprofit organization devoted to Ideas",
+      "excerpt": "PRNewswire/ -- SYSTRAN, the leader in AI-based translation technology, announces its new partnership with TED, a nonprofit organization devoted to Ideas Worth Spreading, to build",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/systran-partners-with-ted-to-create-specialized-translation-models-expanding-professional-applications-of-machine-translation-301141876.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/systran-partners-with-ted-to-create-specialized-translation-models-expanding-professional-applications-of-machine-translation-301141876.html",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/systran-partners-with-ted-to-create-specialized-translation-models-expanding-professional-applications-of-machine-translation/article_2876188d-59c2-5b5d-a412-76b6c422d0af.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/systran-partners-with-ted-to-create-specialized-translation-models-expanding-professional-applications-of-machine-translation/article_2876188d-59c2-5b5d-a412-76b6c422d0af.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1227311/LOGO_SYSTRAN_VERTICAL_RVB_4K.jpg?p=facebook",
-          "width": 2700,
-          "height": 1414,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/bd/5bdf5785-9e57-5d52-a934-b7dbdfecc3fd/5f747897330a8.image.jpg?resize=400%2C347",
+          "width": 400,
+          "height": 347,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -531,11 +584,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T05:00:00-07:00",
+      "publishedDateTime": "2020-09-30T05:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1330,50 +1383,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-transforming-enterprises-through-robot-processing-automation.md",
-      "title": "Transforming Enterprises Through Robot Processing Automation",
-      "excerpt": "Robot Processing Automation (RPA) is the process of automating tasks which are repetitive and are performed by humans using software and hardware in a variety of applications. Unlike cognitive intelligence or deep learning,",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/transforming-enterprises-through-robot-processing-automation/",
-      "originalUrl": "https://www.analyticsinsight.net/transforming-enterprises-through-robot-processing-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2020/09/RPA.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-24T11:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

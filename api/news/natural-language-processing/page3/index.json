@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-10-researchers-find-cutting-edge-language-models-fall-short-in-basic-reasoning.md",
+      "title": "Researchers find cutting-edge language models fall short in basic reasoning",
+      "excerpt": "A new paper finds that even cutting-edge language models like OpenAI's GPT-3 perform poorly when it comes to commonsense reasoning.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/09/researchers-find-cutting-edge-language-models-fall-short-in-basic-reasoning/",
+      "originalUrl": "https://venturebeat.com/2020/09/09/researchers-find-cutting-edge-language-models-fall-short-in-basic-reasoning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/09/researchers-find-cutting-edge-language-models-fall-short-in-basic-reasoning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/09/researchers-find-cutting-edge-language-models-fall-short-in-basic-reasoning/amp/",
+      "publishedDateTime": "2020-09-09T11:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-09-voice-assistants-dont-work-for-kids-the-problem-with-speech-recognition-in-the-classroom.md",
       "title": "Voice assistants don’t work for kids: The problem with speech recognition in the classroom",
       "excerpt": "Young \"remote learners\" often struggle to navigate the keyboards, menus, and interfaces required to make good on the promise of education technology.",
@@ -1428,59 +1480,7 @@
         "AI",
         "IBM AI"
       ]
-    },
-    {
-      "path": "_news/2020-08-28-ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing.md",
-      "title": "IBM hopes to power US Open's digital experiences with Watson's natural language processing",
-      "excerpt": "The US Open can't have fans this year so IBM is hoping it can use AI to fuel debates, experiences and even the noise in the stadium.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/08/28/b59c73bd-e81b-4c3c-8115-c06cc32d2467/us-open-questions.png",
-          "width": 813,
-          "height": 505,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/",
-      "publishedDateTime": "2020-08-28T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 4
 }

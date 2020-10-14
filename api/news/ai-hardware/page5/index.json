@@ -2,40 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-09-02-nvidia-announces-geforce-rtx-30-series-gpu-new-tech.md",
-      "title": "NVIDIA Announces GeForce RTX 30 Series GPU, New Tech",
-      "excerpt": "NVIDIA unveiled its GeForce RTX 30 Series GPUs, powered by the NVIDIA Ampere architecture, which delivers the greatest-ever generational leap in GeForce history.",
-      "sourceUrl": null,
-      "webUrl": "https://www.worthplaying.com/article/2020/9/1/news/121526/",
-      "originalUrl": "https://www.worthplaying.com/article/2020/9/1/news/121526/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-01T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Worth Playing",
-        "domain": "worthplaying.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-01-nvidia-broadcast-brings-rtx-powered-ai-to-livestreaming-video.md",
       "title": "Nvidia Broadcast brings RTX-powered AI to livestreaming video",
       "excerpt": "Nvidia Broadcast is a new tool that brings together all of the companys RTX AI features for creating video and audio content.",

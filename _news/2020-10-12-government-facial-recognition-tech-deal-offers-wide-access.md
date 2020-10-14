@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vermont lawmakers approve ban on facial recognition technology"
+    excerpt: "Darren Perron spoke with Jay Diaz with the Vermont ACLU and Claire Garvey, a senior associate at Georgetown University Center on Privacy and Technology, who has studied facial recognition."
+    publishedDateTime: 2020-10-13T22:51:00Z
+    webUrl: "https://www.wcax.com/2020/10/13/vermont-lawmakers-approve-ban-on-facial-recognition-technology/"
+    type: article
+    provider:
+      name: WCAX3
+      domain: wcax.com
+    quality: 39
+    images:
+      - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/w1yRg1ibSlqj1jcDMeW3bLsHrGU=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/JKYAV7HQLFHVHEQPD73SJAXCMM.PNG"
+        width: 980
+        height: 502
+        isCached: true
   - title: "Nigerian teens design phone app which helps dementia patients identify loved ones by showing them photos and plays them uplifting songs if facial recognition senses a change in ..."
     excerpt: "Irish girls took first place in the the Technovation World Summit with an app that helps dementia patients and caretakers. Memory Haven includes memory games and photo albums."
     publishedDateTime: 2020-10-09T21:28:00Z

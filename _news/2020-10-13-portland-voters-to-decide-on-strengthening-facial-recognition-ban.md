@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Facial recognition legislation delayed in New Orleans, considered in Pennsylvania"
+    excerpt: "A proposed ban on the use of facial recognition by city agencies in New Orleans will not be put to a vote this week, and will next be considered on November 5, according to The Lens. The delay"
+    publishedDateTime: 2020-10-13T21:59:00Z
+    webUrl: "https://www.biometricupdate.com/202010/facial-recognition-legislation-delayed-in-new-orleans-considered-in-pennsylvania"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/10124235/facial-recognition-crowds.jpg"
+        width: 1920
+        height: 1005
+        isCached: true
   - title: "Portland voters asked to strengthen facial surveillance ban"
     excerpt: "Question B on the city ballot would add enforcement provisions – including a private right of action for people to sue the city – to an existing prohibition on city employees using facial recognition technology."
     publishedDateTime: 2020-10-12T08:26:00Z

@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-09-30-intel-heidelberg-university-team-up-to-bring-radeon-gpu-support-to-ai.md",
-      "title": "Intel, Heidelberg University team up to bring Radeon GPU support to AI",
-      "excerpt": "We've been following Intel's oneAPI—an artificial intelligence development platform designed to abstract hardware away from the task of developing AI code—with great interest since its launch last November.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2020/09/intel-heidelberg-university-team-up-to-bring-radeon-gpu-support-to-ai/",
-      "originalUrl": "https://arstechnica.com/gadgets/2020/09/intel-heidelberg-university-team-up-to-bring-radeon-gpu-support-to-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2020/09/pexels-alex-knight-2599244-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-30-nvidia-and-vmware-partner-to-bring-ai-into-the-mainstream.md",
       "title": "NVIDIA and VMWare Partner to Bring AI Into the Mainstream",
       "excerpt": "Follow @dannyvena At its annual VMworld cloud computing conference, VMware (NYSE:VMW) today announced a partnership with NVIDIA (NASDAQ:NVDA) that has an ambitious goal: to make artificial intelligence (AI) available to every enterprise,",
@@ -1475,6 +1423,59 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-what-are-deepfakes-ai-that-deceives.md",
+      "title": "What are deepfakes? AI that deceives",
+      "excerpt": "Deepfakes extend the idea of video compositing with deep learning to make someone appear to say or do something they didn’t really say or do",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3574949/what-are-deepfakes-ai-that-deceives.html",
+      "originalUrl": "https://www.infoworld.com/article/3574949/what-are-deepfakes-ai-that-deceives.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/10/cso_a_binary_mask_identity_artificial_intelligence_deepfakes_fraud_by_brownmantis_cc0_via_pixabay_1200x800-100812618-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3574949/what-are-deepfakes-ai-that-deceives.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3574949/what-are-deepfakes-ai-that-deceives.amp.html",
+      "publishedDateTime": "2020-09-15T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

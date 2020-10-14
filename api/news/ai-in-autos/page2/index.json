@@ -2,6 +2,93 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-29-data-science-to-accelerate-drug-discovery-with-artificial-intelligence-and-machine-learning-says-frost-sullivan.md",
+      "title": "Data Science to Accelerate Drug Discovery with Artificial Intelligence and Machine Learning, Says Frost & Sullivan",
+      "excerpt": "When combined with other emerging tech areas, artificial intelligence (AI) technologies move to the next phase of advancements. Hence, they are expected to witness adoption by pharma and biotech ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanzen.net/nachricht/aktien/data-science-to-accelerate-drug-discovery-with-artificial-intelligence-and-machine-learning-says-frost-sullivan-9342599",
+      "originalUrl": "https://www.finanzen.net/nachricht/aktien/data-science-to-accelerate-drug-discovery-with-artificial-intelligence-and-machine-learning-says-frost-sullivan-9342599",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-29T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanzen",
+        "domain": "finanzen.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-startup-circle-how-is-superproai-an-ai-driven-knowledge-hub.md",
+      "title": "Startup Circle: How is Superpro.ai an AI-driven knowledge hub?",
+      "excerpt": "A life-long learner, he has filed more than 30 patents in Europe and the US around Artificial Intelligence and has raised multi-million dollar investments. Excerpts of the interview: Superpro.ai ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ciol.com/startup-circle-superpro-ai-ai-driven-knowledge-hub/",
+      "originalUrl": "https://www.ciol.com/startup-circle-superpro-ai-ai-driven-knowledge-hub/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ciol.com/wp-content/uploads/2020/09/superpro.jpg",
+          "width": 850,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ciol.com/startup-circle-superpro-ai-ai-driven-knowledge-hub/amp/",
+      "cdnAmpWebUrl": "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/startup-circle-superpro-ai-ai-driven-knowledge-hub/amp/",
+      "publishedDateTime": "2020-09-29T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOL",
+        "domain": "ciol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-new-system-allows-self-driving-cars-to-make-more-human-decisions.md",
       "title": "New System Allows Self-Driving Cars to Make More Human Decisions",
       "excerpt": "(Image source: Chelsea Turner) A team of scientists at MIT have created a system using simple maps and visual data to enable driverless cars to navigate ... director of the Computer Science and Artificial Intelligence Laboratory (CSAIL) and a professor ...",
@@ -1286,101 +1373,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-waymo-autonomous-trucks-begin-texas-testing.md",
-      "title": "Waymo autonomous trucks begin Texas testing",
-      "excerpt": "The Waymo Driver platform has so far accrued 20 million miles driven on public roads across more than 25 cities, and the artificial intelligence technology has done another 15 billion miles in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fleetowner.com/equipment/article/21140213/waymo-autonomous-trucks-begin-texas-testing",
-      "originalUrl": "https://www.fleetowner.com/equipment/article/21140213/waymo-autonomous-trucks-begin-texas-testing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://base.imgix.net/files/base/ebm/fleetowner/image/2020/08/waymo_truck_brick_building.5f466a38d84e8.png?auto=format&fit=max&w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-17T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fleet Owner",
-        "domain": "fleetowner.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-chinas-baidu-wants-to-be-an-autonomous-vehicle-powerhouse.md",
-      "title": "China’s Baidu Wants To Be An Autonomous Vehicle Powerhouse",
-      "excerpt": "as a Google imitator, is now going toe-to-toe with Google subsidiary Waymo, as well as Samsung ... and doing “deep learning” for artificial intelligence machines out of their California ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kenrapoza/2020/09/17/chinas-baidu-wants-to-be-an-autonomous-vehicle-powerhouse/",
-      "originalUrl": "https://www.forbes.com/sites/kenrapoza/2020/09/17/chinas-baidu-wants-to-be-an-autonomous-vehicle-powerhouse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f628020062c802e3d14ad8f%2F0x0.jpg",
-          "width": 1200,
-          "height": 784,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/kenrapoza/2020/09/17/chinas-baidu-wants-to-be-an-autonomous-vehicle-powerhouse/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kenrapoza/2020/09/17/chinas-baidu-wants-to-be-an-autonomous-vehicle-powerhouse/amp/",
-      "publishedDateTime": "2020-09-17T05:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

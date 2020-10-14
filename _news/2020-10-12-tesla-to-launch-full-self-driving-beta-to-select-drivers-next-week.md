@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/article/tesla-fsd-beta.amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-fsd-beta.amp"
 type: article
 quality: 104
-heat: 275
+heat: 284
 published: true
 
 provider:
@@ -176,6 +176,22 @@ related:
       - url: "https://fossbytes.com/wp-content/uploads/2020/10/Tesla-FSD-beta.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Tesla’s Revamped Self-Driving Software Will Go Into Beta Testing Next Week"
+    excerpt: "Tesla ’s long-awaited, revamped Autopilot is moving one step closer to becoming a reality. After years in development and no shortage of serious setbacks, the California-based electric car giant is set to begin beta testing its new self-driving software next week."
+    publishedDateTime: 2020-10-13T21:53:00Z
+    webUrl: "https://robbreport.com/motors/aviation/tesla-revamped-autopilot-software-beta-testing-1234574779/"
+    ampWebUrl: "https://robbreport.com/motors/aviation/tesla-revamped-autopilot-software-beta-testing-1234574779/amp/"
+    cdnAmpWebUrl: "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/aviation/tesla-revamped-autopilot-software-beta-testing-1234574779/amp/"
+    type: article
+    provider:
+      name: Robb Report
+      domain: robbreport.com
+    quality: 57
+    images:
+      - url: "https://robbreport.com/wp-content/uploads/2020/10/press_autopilot2.jpg?w=1000"
+        width: 1000
+        height: 563
         isCached: true
   - title: "Elon Musk says Tesla will release a beta version of its 'Full Self-Driving' feature that's not fully autonomous next week to some drivers"
     excerpt: "Good Subscriber Account active since DOW S&P 500 NASDAQ 100 Tesla will release a new beta version of its \"Full Self-Driving\" driver-assistance package next week, Tesla CEO Elon Musk tweeted Monday."

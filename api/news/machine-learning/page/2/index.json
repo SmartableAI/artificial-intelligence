@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-03-run-a-deep-learning-model-in-java-a-quick-take.md",
+      "title": "Run a Deep Learning Model in Java: A Quick Take",
+      "excerpt": "For instance, NumPy for data analysis; Matplotlib for visualizations; frameworks such as MXNet, PyTorch, TensorFlow, and many more. But there are very few resources for Java users, even though it is the most popular language in enterprise. We set out with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3584152/run-a-deep-learning-model-in-java-a-quick-take.html",
+      "originalUrl": "https://www.infoworld.com/article/3584152/run-a-deep-learning-model-in-java-a-quick-take.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/09/artificial-intelligence-neural-network-human-face-picture-id1150038843-100860324-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-02T12:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-covid-19-and-mining-social-media-enabling-machine-learning-workloads-with-big-data.md",
       "title": "COVID-19 and Mining Social Media - Enabling Machine Learning Workloads with Big Data",
       "excerpt": "In this article, author Adi Pollock discusses how to enable machine learning workloads with big data to query and analyze COVID-19 tweets to understand social sentiment towards COVID-19.",
@@ -1384,49 +1437,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-webinar-leveraging-deep-learning-and-ai-applications-in-manufacturing.md",
-      "title": "Webinar: Leveraging Deep Learning and AI Applications in Manufacturing",
-      "excerpt": "Do AI and Deep Learning belong on the factory floor or are they just for those with their heads in the clouds? Is being \"on the edge\" actually a good thing when you want to improve quality and reduce costs? As a manufacturer seeking to improve your ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.industryweek.com/webinars/webinar/21141473/leveraging-deep-learning-and-ai-applications-in-manufacturing",
-      "originalUrl": "https://www.industryweek.com/webinars/webinar/21141473/leveraging-deep-learning-and-ai-applications-in-manufacturing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://base.imgix.net/files/base/ebm/industryweek/image/2020/09/Feature.5f5ac8cbb92b0.png?auto=format&fit=max&w=1200",
-          "width": 1200,
-          "height": 514,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-28T01:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IndustryWeek",
-        "domain": "industryweek.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

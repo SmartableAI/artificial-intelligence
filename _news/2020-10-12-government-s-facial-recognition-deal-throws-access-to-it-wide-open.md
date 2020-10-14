@@ -107,6 +107,34 @@ related:
         width: 1000
         height: 668
         isCached: true
+  - title: "Attendance in Sectt through Facial Recognition System"
+    excerpt: "Employees of the Civil Secretariat will mark their attendance through a Facial Recognition system from next week. The use of the biometric attendance system, which requires people to put a finger on the surface of the scanner,"
+    publishedDateTime: 2020-10-13T21:35:00Z
+    webUrl: "https://www.dailyexcelsior.com/attendance-in-sectt-through-facial-recognition-system/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 39
+    images:
+      - url: "https://www.dailyexcelsior.com/wp-content/uploads/2020/10/attendqancwe.jpg"
+        width: 800
+        height: 795
+        isCached: true
+  - title: "Lawmakers consider banning facial recognition"
+    excerpt: "Should police be able to use facial recognition technology?"
+    publishedDateTime: 2020-10-13T22:54:00Z
+    webUrl: "https://www.wcax.com/video/2020/10/13/lawmakers-consider-banning-facial-recognition/"
+    type: article
+    provider:
+      name: WCAX3
+      domain: wcax.com
+    quality: 39
+    images:
+      - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/e2S0knkKNZ5ab8QW42iHuCfto7o=/980x0/smart/do0bihdskp9dy.cloudfront.net/10-13-2020/t_28fc284ae6df48a7a37ec9d1be82479a_name_file_1280x720_2000_v3_1_.jpg"
+        width: 980
+        height: 551
+        isCached: true
 
 secured: "SWaMCfdH8XuRmp08ppBhNn2LFeEzRYijYrO7odQuuZTHXK+nYcEcijlwAR1gKaw8qU8Fiej7DBdEWNkgMavTet/DDpOcGpD0MAroWCvIriWB0PAzVBtiVeC+Gan3fBetCB6WYtQ4z9j46mgTVTLaaHibteAzbWc+fWHCqXqH/182/aYgZJVif07LfPiZm36A+2OWnl1DhN0ppHz6VkIc1IvleTIzjpnLJR21haTuEt+iCiCdLw4SDXzkjRXfOyeIRY+b+lCi6yYjw9FxhMSO2+BjZvDx7WwYzmYWAtpEebciDjq3oFk22gPuu8dTZc9GkbBs43JGteD2XXZYiPMzqPdqbqBV7/qsUXVaZitht9tQF62KG8kI0jFwM77lOsV+P28UgABU7KL3+bZZHzQf4ZfQCg5bMHazeio/lgXP8veslo6VDFGB+kfch2kI2ccMJJvnA3eq6bGvTdkCxo80jwsr6ou/fy+JXB7T1/+m00yOSuknAG/hXRXqvqYP/x1XMZ1ouyrbaRUx3GYFNL8DQg==;ydou7l4z4vEQxsW/fUUDiQ=="
 ---

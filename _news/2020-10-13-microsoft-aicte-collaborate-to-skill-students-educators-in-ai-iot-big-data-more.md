@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Microsoft parteners chip maker Arm to boost AI innovation for IoT devices"
-    excerpt: "SoftBank-owned UK chip maker Arm has partnered with Microsoft to create Azure-based tools to enable developers transfer data from Arm-based Internet of Things (IoT) devices to Azure Cloud"
-    publishedDateTime: 2020-10-09T05:56:00Z
-    webUrl: "https://www.business-standard.com/article/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/microsoft-parteners-chip-maker-arm-to-boost-ai-innovation-for-iot-devices-120100900315_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 90
-    images:
-      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-09/29/full/1601348370-9773.jpg&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Microsoft partners chip maker Arm to boost AI innovation for IoT devices"
     excerpt: "SoftBank-owned UK chip maker Arm has partnered with Microsoft to create Azure-based tools to enable developers transfer data from Arm-based Internet of Things (IoT) devices to Azure Cloud"
     publishedDateTime: 2020-10-12T04:17:00Z
@@ -104,22 +88,6 @@ related:
       - url: "https://www.theindianwire.com/wp-content/uploads/2020/10/1601348370-9773.jpg"
         width: 620
         height: 464
-        isCached: true
-  - title: "Microsoft, ARM partner to improve AI innovation for IoT products: Know how"
-    excerpt: "devices to Azure Cloud. The partnership will enable developers to easily target a broad range of Arm-based devices like intelligent computer-vision-enabled cameras, connected vehicles, AI gateways and intelligent appliances. With over 30 billion active IoT ..."
-    publishedDateTime: 2020-10-09T06:33:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news-microsoft-arm-collaborate-for-improved-ai-in-iot-devices-655568"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-microsoft-arm-collaborate-for-improved-ai-in-iot-devices-655568"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-microsoft-arm-collaborate-for-improved-ai-in-iot-devices-655568"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 72
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/09/microsoft-1601391325.jpg"
-        width: 1199
-        height: 674
         isCached: true
   - title: "Microsoft, chip maker Arm to boost AI innovation for IoT devices"
     excerpt: "SoftBank-owned UK chip maker Arm has partnered with Microsoft to create Azure-based tools to enable developers transfer data from Arm-based Internet of Things (IoT) devices to Azure Cloud. The partner"

@@ -2,6 +2,144 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-09-17-activity-detection-on-a-live-video-stream-with-amazon-sagemaker.md",
+      "title": "Activity detection on a live video stream with Amazon SageMaker",
+      "excerpt": "Live video streams are continuously generated across industries including media and entertainment, retail, and many more. Live events like sports, music, news, and other special events are broadcast for viewers on TV and other online streaming platforms. AWS customers increasingly rely on machine learning",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/activity-detection-on-a-live-video-stream-with-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/activity-detection-on-a-live-video-stream-with-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/01/1-Flow.jpg",
+          "width": 900,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-17T08:59:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-waymo-autonomous-trucks-begin-texas-testing.md",
+      "title": "Waymo autonomous trucks begin Texas testing",
+      "excerpt": "The Waymo Driver platform has so far accrued 20 million miles driven on public roads across more than 25 cities, and the artificial intelligence technology has done another 15 billion miles in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fleetowner.com/equipment/article/21140213/waymo-autonomous-trucks-begin-texas-testing",
+      "originalUrl": "https://www.fleetowner.com/equipment/article/21140213/waymo-autonomous-trucks-begin-texas-testing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/fleetowner/image/2020/08/waymo_truck_brick_building.5f466a38d84e8.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-17T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fleet Owner",
+        "domain": "fleetowner.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-ibm-watson-assistant-can-help-states-deliver-critical-voting-information-to-citizens.md",
+      "title": "IBM Watson Assistant Can Help States Deliver Critical Voting Information to Citizens",
+      "excerpt": "PRNewswire/ -- With COVID-19 causing uncertainty about voting logistics and procedures across the country, IBM",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-watson-assistant-can-help-states-deliver-critical-voting-information-to-citizens-1029598387",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-watson-assistant-can-help-states-deliver-critical-voting-information-to-citizens-1029598387",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ibm-watson-assistant-can-help-states-deliver-critical-voting-information-to-citizens-1029598387",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-watson-assistant-can-help-states-deliver-critical-voting-information-to-citizens-1029598387",
+      "publishedDateTime": "2020-09-17T07:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-17-rapidai-raises-25-million-to-analyze-medical-scans-with-ai-algorithms.md",
       "title": "RapidAI raises $25 million to analyze medical scans with AI algorithms",
       "excerpt": "RapidAI, a company developing algorithms that analyze medical imagery primarily from stroke victims, has raised $25 million in venture capital.",
@@ -1063,135 +1201,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-7-self-driving-car-companies-racing-to-gains.md",
-      "title": "7 Self-Driving Car Companies Racing to Gains",
-      "excerpt": "Editor’s Note: This article was updated on Sept. 18, 2020, to correct the road fatality statistic. Self-driving car companies hit a major pothole earlier this year. Long a favorite of tech ...",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2020/09/7-self-driving-car-companies-autonomous-vehicle-stocks/",
-      "originalUrl": "https://investorplace.com/2020/09/7-self-driving-car-companies-autonomous-vehicle-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-16T11:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-facebook-employees-will-soon-be-wearing-ar-research-glasses-around-town.md",
-      "title": "Facebook employees will soon be wearing AR research glasses around town",
-      "excerpt": "The employees are gathering data about how the glasses perceive the world and what kind of privacy considerations they may need to make people feel comfortable around them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fastcompany.com/90551313/facebook-employees-will-soon-be-wearing-ar-research-glasses-around-town?partner=feedburner",
-      "originalUrl": "https://www.fastcompany.com/90551313/facebook-employees-will-soon-be-wearing-ar-research-glasses-around-town?partner=feedburner",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/09/p-1-facebook-employees-will-soon-be-wearing-ar-research-glasses-around-town.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-16T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fast Company",
-        "domain": "fastcompany.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-machine-learning-based-object-recognition-system-as-a-blind-aid.md",
-      "title": "MACHINE LEARNING BASED OBJECT RECOGNITION SYSTEM AS A BLIND AID",
-      "excerpt": "This project introduces a live object recognition system that serves as a blind aid. Visually impaired people heavily rely on their other senses such as touch and auditory signals for ...",
-      "sourceUrl": null,
-      "webUrl": "https://medium.com/@mpchannels/machine-learning-based-object-recognition-system-as-a-blind-aid-7214f668f4b2",
-      "originalUrl": "https://medium.com/@mpchannels/machine-learning-based-object-recognition-system-as-a-blind-aid-7214f668f4b2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/697/1*lY3zY_AsH53ynKsMf2KubQ.jpeg",
-          "width": 697,
-          "height": 457,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-16T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

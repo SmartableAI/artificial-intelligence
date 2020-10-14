@@ -181,6 +181,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tesla’s Revamped Self-Driving Software Will Go Into Beta Testing Next Week"
+    excerpt: "Tesla ’s long-awaited, revamped Autopilot is moving one step closer to becoming a reality. After years in development and no shortage of serious setbacks, the California-based electric car giant is set to begin beta testing its new self-driving software next week."
+    publishedDateTime: 2020-10-13T21:53:00Z
+    webUrl: "https://robbreport.com/motors/aviation/tesla-revamped-autopilot-software-beta-testing-1234574779/"
+    ampWebUrl: "https://robbreport.com/motors/aviation/tesla-revamped-autopilot-software-beta-testing-1234574779/amp/"
+    cdnAmpWebUrl: "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/aviation/tesla-revamped-autopilot-software-beta-testing-1234574779/amp/"
+    type: article
+    provider:
+      name: Robb Report
+      domain: robbreport.com
+    quality: 57
+    images:
+      - url: "https://robbreport.com/wp-content/uploads/2020/10/press_autopilot2.jpg?w=1000"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Elon Musk says Tesla will release a beta version of its 'Full Self-Driving' feature that's not fully autonomous next week to some drivers"
     excerpt: "Good Subscriber Account active since DOW S&P 500 NASDAQ 100 Tesla will release a new beta version of its \"Full Self-Driving\" driver-assistance package next week, Tesla CEO Elon Musk tweeted Monday."
     publishedDateTime: 2020-10-12T16:44:00Z
@@ -283,6 +299,6 @@ related:
       domain: infosurhoy.com
     quality: 10
 
-secured: "M4nFz+burrLrve5Q7MurJ2iOjqigPYscYCvJfQJ8ANRakgQYRzFE3SVtq5R3YZAKREKM3WAmUcp9v4q2jGdoDXxESQYqV4twWWKkqPSvAQXFIXdm3UI/eNdwu/zrMis9XXum8P7qh6t9PF3YssniH18tCmM6++5WFMg/ZeSuPJfj0YpFnOgL2qLppTkS5sIWzeTVMYuXKDc9o9Lm8yhHpSOKEZ2s40aywV02h5U0I47MD4TjGidZMDr7DjWPcuf8hoM4+zr9rHpot2g6dsdl5Q7wFHvn2HT8qHcgt3LSpxXIlQCnSKUywk/AmuyqHWd6NkPFqQqy4IbLhGJqTX+xtJyTv0alPkL/SaGMAbtOJU4=;eqgnftsmnU4VkkGGfmGJHg=="
+secured: "MYqUrXNYN0udpZed90Rk/dluDz+zxAdwDTLYeRQUYrs9xKsFiM9+xPC+AGBNfMSoeuha0f4eMOHO929DIbRHyc90etZkBaGuEpqr23FZvD8ASF8Ed07v3a78GOcMKYzV3XPL2nhZ8Z2ydwBKDKWhxgFqgvfnaTWQn/5M6VH6574E/npI1teFvHF6YowXAnGWbHe1XT4EWgnjL9yXkgTCIWOT9NagTAYjTOtO+YwOyyTNcOaRBmeEl7GHRUmc3K5rX/VkYl2L4jCaP1pUVd7hxsAUIMWUj0T1gpRrWlPCvBwhZKSu+dXi0Chm79sagGJ6C4IsVNdZjbIHdFjXH6Kj99dQcrhTEbjSXrk2ifnmXPzIT0VWywpGVEaEyBJKXvkTQ0xYDWLJ5pHrcpO+nWmW1CcZbac3kgyUn4y5g8qrklfQ7KT8H5UQJRwV7kvG+nKV53mtMJU0HCBA9fxBmt521Uxd9BPWJEMfInKVCNqY6RKRqC2+IPOH624c6UNyKUnDAsHcZesBg8jY+nvH8I9Ypg==;pE5AtJEs9iQKWQ78a/QiMQ=="
 ---
 

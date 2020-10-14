@@ -2,40 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-10-14-3-chip-stocks-that-are-changing-the-world.md",
-      "title": "3 Chip Stocks That Are Changing The World",
-      "excerpt": "Nvidia's announced acquisition would significantly expand the enterprise's chip market control. Nvidia now primarily focuses on GPUs and is leveraging the technology's hyperfast computing power to develop \"true AI.\" The purchase of Arm will give Nvidia a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-chip-stocks-that-are-changing-the-world-2020-10-13",
-      "originalUrl": "https://www.nasdaq.com/articles/3-chip-stocks-that-are-changing-the-world-2020-10-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-chip-stocks-that-are-changing-the-world-2020-10-13?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-chip-stocks-that-are-changing-the-world-2020-10-13?amp",
-      "publishedDateTime": "2020-10-13T12:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-14-saturn-cloud-enables-easy-and-powerful-nvidia-gpu-computing-for-everyone.md",
       "title": "Saturn Cloud Enables Easy and Powerful NVIDIA GPU Computing For Everyone",
       "excerpt": "Today, Saturn Cloud, the GPU data science company, announces the launch of Saturn Cloud Hosted, an open platform for multi-node multi-GPU computing in the cloud. The platform is available to anyone and everyone: corporations,",
@@ -230,7 +196,7 @@
       "originalUrl": "https://newsd.in/intel-s-hyderabad-ai-centre-to-focus-on-road-safety-health/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -651,19 +617,19 @@
     {
       "path": "_news/2020-10-07-maxim-integrateds-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices.md",
       "title": "Maxim Integrated's Neural Network Accelerator Chip Enables IoT Artificial Intelligence in Battery-Powered Devices",
-      "excerpt": "PRNewswire/ -- The MAX78000 low-power neural network accelerated microcontroller from Maxim Integrated Products, Inc. (NASDAQ: MXIM) moves",
+      "excerpt": "For details about Maxim Integrated's Artificial Intelligence solutions, visit http://bit.ly/Maxim_AI To order MAX78000 or learn more, visit http://bit.ly/MAX78000 ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/maxim-integrateds-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-301147039.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/maxim-integrateds-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-301147039.html",
+      "webUrl": "https://www.finanzen.net/nachricht/aktien/maxim-integrated-s-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-9368772",
+      "originalUrl": "https://www.finanzen.net/nachricht/aktien/maxim-integrated-s-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-9368772",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1307840/Maxim__MAX78000.jpg?p=facebook",
-          "width": 1920,
-          "height": 1005,
+          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
+          "width": 600,
+          "height": 315,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -673,11 +639,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T05:00:00-07:00",
+      "publishedDateTime": "2020-10-07T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Finanzen",
+        "domain": "finanzen.net",
         "images": null,
         "publishers": null,
         "authors": null
@@ -687,8 +653,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AI in Autos",
         "AI",
+        "Machine Learning",
         "AI Hardware"
       ]
     },
@@ -1423,6 +1390,58 @@
         "AI Hardware",
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-intel-heidelberg-university-team-up-to-bring-radeon-gpu-support-to-ai.md",
+      "title": "Intel, Heidelberg University team up to bring Radeon GPU support to AI",
+      "excerpt": "We've been following Intel's oneAPI—an artificial intelligence development platform designed to abstract hardware away from the task of developing AI code—with great interest since its launch last November.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2020/09/intel-heidelberg-university-team-up-to-bring-radeon-gpu-support-to-ai/",
+      "originalUrl": "https://arstechnica.com/gadgets/2020/09/intel-heidelberg-university-team-up-to-bring-radeon-gpu-support-to-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2020/09/pexels-alex-knight-2599244-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-30T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],

@@ -2,6 +2,92 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-03-tech-stocks-5g-will-live-up-to-all-the-hype-heres-how-to-invest.md",
+      "title": "Tech stocks: 5G will live up to all the hype – here's how to invest",
+      "excerpt": "Taken together they are central to realising the potential from the key digital themes such as big data, artificial intelligence ... uses are discovered. For driverless vehicles, 5G is a big ...",
+      "sourceUrl": null,
+      "webUrl": "https://moneyweek.com/investments/stocks-and-shares/tech-stocks/601939/5g-will-live-up-to-the-hype-heres-how-to-invest",
+      "originalUrl": "https://moneyweek.com/investments/stocks-and-shares/tech-stocks/601939/5g-will-live-up-to-the-hype-heres-how-to-invest",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.moneyweek.com/image/private/s--ULKxhs4q--/v1599129501/1015_MW_P20_Cover-Story.jpg",
+          "width": 1408,
+          "height": 792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://moneyweek.com/investments/stocks-and-shares/tech-stocks/601939/5g-will-live-up-to-the-hype-heres-how-to-invest?amp",
+      "cdnAmpWebUrl": "https://moneyweek-com.cdn.ampproject.org/c/s/moneyweek.com/investments/stocks-and-shares/tech-stocks/601939/5g-will-live-up-to-the-hype-heres-how-to-invest?amp",
+      "publishedDateTime": "2020-09-03T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MoneyWeek",
+        "domain": "moneyweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-what-coronavirus-means-for-the-future-of-self-driving-cars.md",
+      "title": "What coronavirus means for the future of self-driving cars",
+      "excerpt": "It's 2025 and driverless cars still aren't zooming around everywhere. Where are the chilled out passengers on their phones, or napping, as an invisible \"driver\" navigates a crowded intersection? They're still mostly stuck in the backseat as a human driver shuttles them around.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/autonomous-vehicles-2025/",
+      "originalUrl": "https://mashable.com/article/autonomous-vehicles-2025/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F09%252F03%252F6f%252Fa6d4e4206f524273a456c835e927fc6a.f164f.jpg%252F1200x630.jpg?signature=Gkxu5UScrquIxeAET3ZxIXak-BE=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/autonomous-vehicles-2025.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/autonomous-vehicles-2025.amp",
+      "publishedDateTime": "2020-09-03T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-03-track-self-driving-car-tests-in-your-area-with-the-latest-internet-tool.md",
       "title": "Track self-driving car tests in your area with the latest internet tool",
       "excerpt": "Curious about the locations where autonomous cars are tested? The US Department of Transportation has a new tool for that.",

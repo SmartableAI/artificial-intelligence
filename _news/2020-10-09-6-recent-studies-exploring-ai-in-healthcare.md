@@ -25,48 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "Olive rolled out a new AI-powered healthcare platform that streamlines revenue cycle management"
-    excerpt: "Olive debuted a platform that speeds up revenue cycle management processes for healthcare workers—like prior authorizations and patient verifications."
-    publishedDateTime: 2020-10-13T13:34:00Z
-    webUrl: "https://www.businessinsider.com/olive-unveils-ai-powered-platform-to-streamline-healthcare-admin-2020-10"
+  - title: "These 8 tech companies are using AI to improve healthcare, renewable energy, and more"
+    excerpt: "We often see news and headlines about the dark side of AI, its weaponization, and “algorithmic warfare”. A plethora of AI-driven, dystopian paradigms await us in the future, but there is also a bright side!"
+    publishedDateTime: 2020-10-13T22:08:00Z
+    webUrl: "https://techcrunch.com/sponsor/idb-taiwan/these-8-tech-companies-are-using-ai-to-improve-healthcare-renewable-energy-and-more/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 77
     images:
-      - url: "https://i.insider.com/5f85a833c255d800190b987e?width=1200&format=jpeg"
-        width: 650
-        height: 324
+      - url: "https://techcrunch.com/wp-content/uploads/2020/08/1024x683_Hero-Image_thingnario.jpg?w=600"
+        width: 600
+        height: 400
         isCached: true
-  - title: "New AI Platform to Work Hand-in-Hand with Healthcare Workers"
-    excerpt: "PRNewswire/ -- For the capacity-stricken healthcare sector, the last six months have reinforced the need for an AI workforce to ensure financial continuity while delivering superior patient care. As health systems across the country struggle to streamline processes and revitalize revenues without impacting patient care,"
-    publishedDateTime: 2020-10-12T13:00:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-health-care-industry-3c9a37e2cbd3844564b927e50b614212"
+  - title: "How Is Artificial Intelligence Used In B2B Companies: Here Are Powerful Examples"
+    excerpt: "There’s often a misconception that artificial intelligence (AI) is only applicable to businesses in the B2C space. It's thought that since B2C companies have more customers, they have more data to leverage to make AI impactful."
+    publishedDateTime: 2020-10-11T13:36:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-artificial-intelligence-used-b2b-companies-here-powerful-marr"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 34
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGQWfYANMb3rw/article-cover_image-shrink_720_1280/0?e=1608163200&v=beta&t=r0-X7ooUKQ0yxEnWb7s7etVufEzuJ1JRIhISgQ2E98s"
+        width: 1280
+        height: 692
         isCached: true
-  - title: "StreamlineMD Selects Aidéo Technologies’ AI-Powered Auto-Coding Tool for Revenue Cycle ..."
-    excerpt: "(GLOBE NEWSWIRE) -- Aidéo Technologies  – a leader in AI-enabled automation technology for the healthcare industry – announced today that StreamlineMD has chosen the company’s AI-powered auto-coding tool Gemini AutoCode™ to enhance revenue,"
-    publishedDateTime: 2020-10-13T17:18:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-north-america-health-care-industry-medical-technology-56568f78b7650d56face9e234abf7777"
+  - title: "Navina completes Seed investment round of $7 Million to solve the healthcare crisis using Artificial Intelligence, starting with primary care"
+    excerpt: "PRNewswire/ -- Navina, the developer of an AI-driven platform for primary care, announced today the completion of a $7 million Seed funding round led by Grove Ventures. Navina has already been integrated into several large,"
+    publishedDateTime: 2020-10-13T10:13:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20201013ln56426/navina-completes-seed-investment-round-of-7-million-to-solve-the-healthcare-crisis-using-artificial-intelligence-starting-with-primary-care"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 27
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "IWHLAklgolr15CzNZtZ4Jz+TGgYS1PzqI0Rykq4HOpk2WclsgO+AGxnrM71hlKPzQRuZggzB/ER3EKYAe/sAQ6ZPDOiltp3SLRxVme6TUN03Dlq2eBc1Sn3IF+7NxLMwEM09mzxljkFf2VxhrqMjUj7jzYXAwtVaNWGhR61I1OWydMrjUnbRxG0B5U8vthdiuZfZFOdWG9qJyBLFTducDZ5TbfRQ7817KtdHoO+qFvr7LRFG27RTSCepu0e35QTb+SI9CoeDqWq6U4Xm/OKHnFEkFjow2tNdOuihChYAQ/JBivaF0qzQ0HpWm6Bt658s1NveUiaJeP9IymkQ9U55rgD2WLYxHlNq/vn168sBI4o=;1r3vns1A9TzLLj5HckR1KQ=="
 ---

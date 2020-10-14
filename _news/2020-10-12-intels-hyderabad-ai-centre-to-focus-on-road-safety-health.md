@@ -9,7 +9,7 @@ ampWebUrl: "https://newsd.in/intel-s-hyderabad-ai-centre-to-focus-on-road-safety
 cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/intel-s-hyderabad-ai-centre-to-focus-on-road-safety-health/amp/"
 type: article
 quality: 59
-heat: 110
+heat: 109
 published: true
 
 provider:

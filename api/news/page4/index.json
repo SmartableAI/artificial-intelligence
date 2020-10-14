@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-09-imposter-idd-with-facial-recognition-technology-at-local-airport.md",
+      "title": "Imposter ID'd With Facial Recognition Technology At Local Airport",
+      "excerpt": "With the help of the Simplified Arrival process, customs officials detected a traveler's mismatched documents at Washington Dulles Airport.",
+      "sourceUrl": null,
+      "webUrl": "https://patch.com/virginia/herndon/imposter-idd-facial-recognition-technology-local-airport",
+      "originalUrl": "https://patch.com/virginia/herndon/imposter-idd-facial-recognition-technology-local-airport",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/users/23738464/20201008/041638/styles/patch_image/public/cbpo-pax2h___08161627748.jpg?width=984",
+          "width": 984,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://patch.com/virginia/herndon/amp/29007924/imposter-idd-with-facial-recognition-technology-at-local-airport",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/virginia/herndon/amp/29007924/imposter-idd-with-facial-recognition-technology-at-local-airport",
+      "publishedDateTime": "2020-10-08T18:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-the-responsible-innovation-framework-for-the-age-of-ai.md",
+      "title": "The Responsible Innovation Framework For The Age Of AI",
+      "excerpt": "This year, with facial recognition, privacy, and ethics gaining more attention in the marketplace, technology leaders are increasingly thinking about AI’s impact on people’s lives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7f9c645440271868a67e29%2F0x0.jpg",
+          "width": 1200,
+          "height": 986,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/amp/",
+      "publishedDateTime": "2020-10-08T16:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-09-computer-vision-market-research-report-by-component-by-application-global-forecast-to-2025-cumulative-impact-of-covid-19.md",
       "title": "Computer Vision Market Research Report by Component, by Application - Global Forecast to 2025 - Cumulative Impact of COVID-19",
       "excerpt": "Reportlinker.com announces the release of the report \"Computer Vision Market Research Report by Component, by Application - Global Forecast to 2025 - Cumulative Impact of COVID-19\" -  The Global Computer Vision Market is expected to grow from USD 11,",
@@ -852,6 +947,50 @@
       ]
     },
     {
+      "path": "_news/2020-10-08-introducing-ifrs-17-software-with-machine-learning.md",
+      "title": "Introducing IFRS 17 Software With Machine Learning",
+      "excerpt": "Data is universally indicated as the key challenge in IFRS 17 implementations. \"We designed our IFRS 17 solution from start to finish with",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/introducing-ifrs-17-software-with-machine-learning-301148539.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/introducing-ifrs-17-software-with-machine-learning-301148539.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1308815/3Blocks_software.jpg?p=facebook",
+          "width": 900,
+          "height": 471,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-08T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-nine-big-hurdles-of-adopting-artificial-intelligence-and-how-to-overcome-them.md",
       "title": "Nine Big Hurdles Of Adopting Artificial Intelligence (And How To Overcome Them)",
       "excerpt": "Artificial intelligence is an extremely valuable tool that can save your business time, energy and money. However, implementing AI can be a big challenge for any company. From choosing the right AI-powered tool to setting up the right data inputs and ...",
@@ -1045,153 +1184,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-ex-aston-martin-ceo-palmer-joins-silicon-valley-slovakian-ai-battery-group.md",
-      "title": "Ex-Aston Martin CEO Palmer Joins Silicon Valley - Slovakian AI Battery Group",
-      "excerpt": "Discarded Aston Martin CEO Dr Andy Palmer has bounced back, joining a project to create a world-first artificial intelligence (AI) battery production center.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michaeltaylor/2020/10/08/ex-aston-martin-ceo-palmer-joins-silicon-valleyslovakian-ai-battery-group/",
-      "originalUrl": "https://www.forbes.com/sites/michaeltaylor/2020/10/08/ex-aston-martin-ceo-palmer-joins-silicon-valleyslovakian-ai-battery-group/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7ee032632d6eec4c53409c%2F0x0.jpg",
-          "width": 1200,
-          "height": 1808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michaeltaylor/2020/10/08/ex-aston-martin-ceo-palmer-joins-silicon-valleyslovakian-ai-battery-group/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeltaylor/2020/10/08/ex-aston-martin-ceo-palmer-joins-silicon-valleyslovakian-ai-battery-group/amp/",
-      "publishedDateTime": "2020-10-08T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-transparent-truths-about-ai-ethics-assessing-a-seven-point-set-of-principles-from-capgemini.md",
-      "title": "Transparent truths about AI ethics - assessing a seven point set of principles from Capgemini",
-      "excerpt": "Transparency isn't the silver bullet that's going to address every ethical concern around AI deployment, but it's an essential bedrock on which to build. (via Pixabay) With debate raging about bias and lack of diversity in teams and data sources and the growing risk of AI automating social problems or giving them a veneer of digital neutrality,",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/transparent-truths-about-ai-ethics-assessing-seven-point-set-principles-capgemini",
-      "originalUrl": "https://diginomica.com/transparent-truths-about-ai-ethics-assessing-seven-point-set-principles-capgemini",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2020-04/ethics.png",
-          "width": 1404,
-          "height": 930,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/transparent-truths-about-ai-ethics-assessing-seven-point-set-principles-capgemini?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/transparent-truths-about-ai-ethics-assessing-seven-point-set-principles-capgemini?amp",
-      "publishedDateTime": "2020-10-08T02:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-this-ai-deepfakes-reality-in-the-name-of-privacy.md",
-      "title": "This AI Deepfakes Reality In The Name Of Privacy",
-      "excerpt": "The deepfake technology I’m taking about is from a Berlin-based startup called Brighter AI, which provides privacy solutions for an increasingly surveilled world: license plate blurring and face blurring so companies with cameras can comply with European privacy laws,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/10/07/synthetic-faces-this-ai-falsifies-reality-in-the-name-of-privacy/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2020/10/07/synthetic-faces-this-ai-falsifies-reality-in-the-name-of-privacy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7de968419bf5f836413c4d%2F0x0.jpg",
-          "width": 1000,
-          "height": 693,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/10/07/synthetic-faces-this-ai-falsifies-reality-in-the-name-of-privacy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/10/07/synthetic-faces-this-ai-falsifies-reality-in-the-name-of-privacy/amp/",
-      "publishedDateTime": "2020-10-08T01:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

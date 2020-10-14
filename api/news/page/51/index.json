@@ -2,6 +2,125 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2020-09-02-unsupervised-learning-an-overview-on-emerging-machine-learningartificial-intelligence-approaches.md",
+      "title": "Unsupervised Learning: An Overview on Emerging Machine Learning/Artificial Intelligence Approaches",
+      "excerpt": "3.1 Unsupervised Learning Will Empower a Higher Level of Autonomy Among Self ... Self-driving Cars Is Facilitating the Adoption of Unsupervised Learning Techniques 4.2 The Accuracy of Artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/09/g17345739/unsupervised-learning-an-overview-on-emerging-machine-learningartificial-intelligence-approaches",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/09/g17345739/unsupervised-learning-an-overview-on-emerging-machine-learningartificial-intelligence-approaches",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17345739",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17345739",
+      "publishedDateTime": "2020-09-02T02:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-vic-contact-tracing-now-ready-for-the-reopening-says-andrews.md",
+      "title": "Vic contact tracing now ready for the reopening says Andrews",
+      "excerpt": "Artificial intelligence is being used to bolster Victoria's contact tracing system as Premier DanielAndrews moved to reassure business and the community the much criticised system is in shape for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.afr.com/policy/health-and-education/vic-contact-tracing-now-ready-for-the-reopening-says-andrews-20200902-p55rr7",
+      "originalUrl": "https://www.afr.com/policy/health-and-education/vic-contact-tracing-now-ready-for-the-reopening-says-andrews-20200902-p55rr7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.ffx.io/images/$zoom_0.3027%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/e_sharpen:25%2Cq_85%2Cf_auto/f5f8b061941c1e0c0b7344603dd56a0e852de2ff",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-02T01:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Australian Financial Review",
+        "domain": "afr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-anti-procrastination-glasses-will-use-ai-to-track-your-activities.md",
+      "title": "‘Anti-Procrastination’ Glasses Will Use AI To Track Your Activities",
+      "excerpt": "Speaking of which, new ‘anti-procrastination’ smart glasses have been launched that can keep you from procrastinating by tracking your activities and providing personalized insights. SEE ALSO: This AI Startup Rents Out Robots That Can Do Human Jobs Amid The Coronavirus Pandemic The glasses called the ‘Specs’ have been launched by a startup named Auctify,",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/16767/anti-procrastination-glasses-will-use-ai-to-track-your-activities",
+      "originalUrl": "https://in.mashable.com/tech/16767/anti-procrastination-glasses-will-use-ai-to-track-your-activities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/photo/default/ai-glasses-specs_n54f.620.jpg",
+          "width": 620,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/tech/16767/anti-procrastination-glasses-will-use-ai-to-track-your-activities?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/16767/anti-procrastination-glasses-will-use-ai-to-track-your-activities?amp=1",
+      "publishedDateTime": "2020-09-02T01:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-02-the-next-generation-of-nlp-how-new-capabilities-empower-businesses-to-make-data-informed-decisions.md",
       "title": "The next generation of NLP: how new capabilities empower businesses to make data-informed decisions",
       "excerpt": "Language is constantly evolving &#8211; it shifts to meet the changing dynamics of our society. The business world is no different &#8211; it has its own vernacular that evolves in response to new innovations, changing consumer expectations and world events. The language of business is documented in",
@@ -1023,144 +1142,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-how-to-run-distributed-training-using-horovod-and-mxnet-on-aws-dl-containers-and-aws-deep-learning-amis.md",
-      "title": "How to run distributed training using Horovod and MXNet on AWS DL Containers and AWS  Deep Learning AMIs",
-      "excerpt": "Distributed training of large deep learning models has become an indispensable way of model training for computer vision (CV) and natural language processing (NLP) applications. Open source frameworks such as Horovod provide distributed training support to Apache MXNet, PyTorch, and TensorFlow. Converting",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/horovod-mxnet-distributed-training/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/horovod-mxnet-distributed-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/01/1-Architecture.jpg",
-          "width": 900,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-01T12:29:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-geforce-rtx-3080-is-nvidias-new-flagship-next-gen-gpu.md",
-      "title": "GeForce RTX 3080 is Nvidia’s New Flagship Next-Gen GPU",
-      "excerpt": "The RTX 3080 is said to be up to twice as fast as the original RTX 2080. Built on a custom 8N manufacturing process, it has 28 billion transistors, 8704 CUDA Cores, and a 10 GB GDDR6X VRAM. It was also confirmed that the images showing the curved heatsink and bi-directional fans of the GPU that were leaked earlier in the year are indeed accurate.",
-      "sourceUrl": null,
-      "webUrl": "https://gamingbolt.com/geforce-rtx-3080-is-nvidias-new-flagship-next-gen-gpu",
-      "originalUrl": "https://gamingbolt.com/geforce-rtx-3080-is-nvidias-new-flagship-next-gen-gpu",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gamingbolt.com/geforce-rtx-3080-is-nvidias-new-flagship-next-gen-gpu/amp",
-      "cdnAmpWebUrl": "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/geforce-rtx-3080-is-nvidias-new-flagship-next-gen-gpu/amp",
-      "publishedDateTime": "2020-09-01T12:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "From Software",
-        "domain": "gamingbolt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-nvidia-unveils-geforce-rtx-30-series-gpus.md",
-      "title": "NVIDIA unveils GeForce RTX 30 Series GPUs",
-      "excerpt": "NVIDIA introduced its new GeForce RTX 30 Series GPUs today. The new cards will be available starting in September. The new series of GPUs will be the biggest jump forward in graphics technology in the history of the company,",
-      "sourceUrl": null,
-      "webUrl": "https://dotesports.com/hardware/news/nvidia-unveils-geforce-rtx-30-series-gpus",
-      "originalUrl": "https://dotesports.com/hardware/news/nvidia-unveils-geforce-rtx-30-series-gpus",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn1.dotesports.com/wp-content/uploads/2020/09/01132606/geforce-rtx-3090-product-gallery-full-screen-3840-2-scaled.jpg",
-          "width": 2560,
-          "height": 1441,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://dotesports.com/hardware/news/nvidia-unveils-geforce-rtx-30-series-gpus/amp",
-      "cdnAmpWebUrl": "https://dotesports-com.cdn.ampproject.org/c/s/dotesports.com/hardware/news/nvidia-unveils-geforce-rtx-30-series-gpus/amp",
-      "publishedDateTime": "2020-09-01T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dot Esports",
-        "domain": "dotesports.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }
