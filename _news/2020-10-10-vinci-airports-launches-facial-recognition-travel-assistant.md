@@ -7,8 +7,8 @@ originalUrl: "https://www.hstoday.us/industry/vinci-airports-launches-facial-rec
 webUrl: "https://www.hstoday.us/industry/vinci-airports-launches-facial-recognition-travel-assistant/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Homeland Security Today
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Brazil’s Government Wants Facial Recognition Boarding at Every Airport"
-    excerpt: "The Ministry of Infrastructure wants to implement a new technology for the boarding process in Brazil's airports. The project, called 'Embarque Seguro' (Safe Boarding), enables the use of facial recog"
-    publishedDateTime: 2020-10-11T10:16:00Z
-    webUrl: "https://riotimesonline.com/brazil-news/technology/government-wants-facial-recognition-at-every-airport-in-brazil/"
-    type: article
-    provider:
-      name: The Rio Times
-      domain: riotimesonline.com
-    quality: 54
-    images:
-      - url: "https://riotimes-11af1.kxcdn.com/wp-content/uploads/2020/10/Facial-Recog.jpeg"
-        width: 2048
-        height: 1463
-        isCached: true
   - title: "Government deal done over facial recognition technology"
     excerpt: "The Government has done a deal over facial recognition technology that throws access to it wide open. The Internal Affairs Department has signed a master agreement with a leading global biometrics tech supplier that just about any organisation,"
     publishedDateTime: 2020-10-11T23:41:00Z

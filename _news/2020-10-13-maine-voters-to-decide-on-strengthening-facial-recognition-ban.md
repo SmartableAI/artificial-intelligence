@@ -37,22 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Software Helps Reunite Boy With Family After 5 Years"
-    excerpt: "A boy from Uttar Pradesh, who went missing five years ago, was traced to a child welfare home in Assam and reunited with his family, thanks to Telangana Police's facial recognition tool, DARPAN."
-    publishedDateTime: 2020-10-10T04:12:00Z
-    webUrl: "https://www.ndtv.com/india-news/facial-recognition-software-darpan-helps-reunite-autistic-boy-with-family-2307958"
-    ampWebUrl: "https://www.ndtv.com/india-news/facial-recognition-software-darpan-helps-reunite-autistic-boy-with-family-2307958?amp=1&akamai-rum=off"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/facial-recognition-software-darpan-helps-reunite-autistic-boy-with-family-2307958?amp=1&akamai-rum=off"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 59
-    images:
-      - url: "https://c.ndtvimg.com/2020-10/o20s9tco_darpan-som-soni_625x300_10_October_20.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Government 's facial recognition deal throws access to it wide open"
     excerpt: "The government has done a deal over facial recognition technology that throws access to it wide open. The Department of Internal Affairs has signed a master agreement with a leading global biometrics tech supplier that just about any organisation,"
     publishedDateTime: 2020-10-11T19:37:00Z

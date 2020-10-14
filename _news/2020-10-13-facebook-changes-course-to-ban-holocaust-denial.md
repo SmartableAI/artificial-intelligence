@@ -41,6 +41,22 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Facebook plans to use AI to help fight climate change"
+    excerpt: "The social network teams up with Carnegie Mellon University to find new ways to store and use renewable energy."
+    publishedDateTime: 2020-10-14T20:43:00Z
+    webUrl: "https://www.cnet.com/news/facebook-plans-to-use-ai-to-help-fight-climate-change/?via=indexdotco"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-plans-to-use-ai-to-help-fight-climate-change/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-plans-to-use-ai-to-help-fight-climate-change/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://cnet2.cbsistatic.com/img/DLI_wPn6SSXK7hKxFajKVx567f0=/1200x630/2019/12/30/913bf7f7-7ec0-4894-bb35-3807a65e36bb/facebook-logo-phone-4597.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI in Fashion Market is set to see Revolutionary growth in decade | Microsoft, IBM, Google, AWS, SAP, Facebook"
     excerpt: "Latest released the research study on Global AI in Fashion Market offers a detailed overview of the factors influencing the global business scope AI in Fashion Market research report shows the latest market insights current situation analysis with upcoming trends"
     publishedDateTime: 2020-10-13T20:36:00Z

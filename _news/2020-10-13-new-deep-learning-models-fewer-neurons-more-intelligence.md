@@ -1,10 +1,10 @@
 ---
 category: news
 title: "New deep learning models: Fewer neurons, more intelligence"
-excerpt: "An international research team has developed a new artificial intelligence system based on the brains of tiny animals, such as threadworms. This novel AI-system can control a vehicle with just a few artificial neurons."
+excerpt: "An international research team from TU Wien, IST Austria and MIT has developed a new artificial intelligence system based on the brains of tiny animals, such as threadworms. This novel AI-system can control a vehicle with just a few artificial neurons."
 publishedDateTime: 2020-10-13T16:26:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-10/vuot-ndl101420.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-10/vuot-ndl101420.php"
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-10/iosa-ndl101320.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-10/iosa-ndl101320.php"
 type: article
 quality: 39
 heat: 39
@@ -19,11 +19,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
+  - url: "https://media.eurekalert.org/multimedia_prod/pub/web/245741_web.jpg"
+    width: 720
+    height: 697
     isCached: true
 
-secured: "AMcSOYVo2bLayQOlGpLh3Tjy+4JefmzLvegRCS1NgJ6ZhYsvNEQ0XkOUeIusaVLA7SF9YjmFZy74mTF5/ByBdBrEpehZ+SexLi1/UYNWA7YlZw4W+Y3qn8DaKBjtHWNJe0sdlvwYMYF3WJ9Z4Iw5QkaW4TGJlKY7k69ta54R3hY2SgXTtSD+zOqR5wjcsBHNIv3lBD22cv146xyfqyv/GyrywfFhgv7CcemneLfGtz2Bfsp8Ym3ToDsIdqLk1gfFAL1ovjtgn39gNCRK3h2BGPIIZ47aES1YE8UWZpTLSqxzH4XnZe/RLOpkQ3JPMjTDOPZy7hxOKhxAXmbH73Gnak9UfN5aE+3uvhI17e9EO8I=;B/aIco2eXoZQmYHyF6CV+g=="
+secured: "No7IFQDOnPGUL6JDtZCv5KJmltAd7NofJbZP1GNEPKgx8Wpaukct6PHBHWeADQLMw9q6gl0o4rWrDxoLbHBDArtAi+2G1eXsqBLM5hlke00ghnc0aJVLreC0q+sd6dtdsAjhsAQYCAXoKjwsjCwSon62H5aRSYJnmVwVLoTjOXH+x+ByX/I3V4GwQyweSvw4zbWWcMTqzFNe84qkt1bKoTMwWU+Xjgqsg0PU3NJCTaQH9O+OHa13vsBWHFdK5036DdrBgHUc7cU4pwJS1CTG62WTlKRtC8PpBSBx5zhzSeNZQdWzBfeKamUBO7Ip0O4/CZ/OZMsOGq4bm90Rj/8Qbw1zEMk/YHM1UtrMcz/Gs6o=;ESMJP+sIIZuTHrM6Xf327w=="
 ---
 

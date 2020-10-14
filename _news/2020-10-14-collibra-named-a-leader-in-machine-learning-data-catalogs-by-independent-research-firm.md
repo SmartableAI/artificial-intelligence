@@ -26,16 +26,14 @@ images:
 
 related:
   - title: "Alation Named a Leader in Machine Learning Data Catalogs Report by Independent Global Research Firm"
-    excerpt: "Received top score in strategy category and highest possible scores in 26 criteria including machine learning Alation Inc., the leader in enterprise data intelligence"
-    publishedDateTime: 2020-10-14T13:22:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/10/b17902825/alation-named-a-leader-in-machine-learning-data-catalogs-report-by-independent-global-research-fir"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17902825"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17902825"
+    excerpt: "Alation Inc., the leader in enterprise data intelligence solutions, has been named a Leader in the “The Forrester Wave™: Machine Learning Data Catalog"
+    publishedDateTime: 2020-10-14T15:48:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201014005579/en/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 25
+      name: Business Wire
+      domain: businesswire.com
+    quality: 5
 
 secured: "4wP558i1m9XxE2y0oWGgu+m1EN7UX4w7/oBHwA5+EvQF35pRxvc4wVEozdN9NN6SjkXH0XJUS8v0AuIUo8sunuOBX+e47JHrz818ZvaUv530k1mVQmyi3ytazfHZ8UnkUmjiQ8PnofRb0ouiOtmDjAUnaDajYoO46bh7jU3Fhu2kFs6a41p5WgPSc/JNApO3EMuzfBVP70m8GoFwY58rl3XiYt9PBkniHloGj8csO4lpuaKKUURsY2LIiYlAzcArpCgO4/v4B8/NbL4Og49DH1n8Ty0Qq8IO9ogbp+SeB8B5WGHx3ZM7ayv7brzeuT7fAvuK9vyUTtkgemXMpsZn9UyLckeKd3PwhKFj8JAuIYY=;/I8+T94DH9KSqV5UB6GNpw=="
 ---

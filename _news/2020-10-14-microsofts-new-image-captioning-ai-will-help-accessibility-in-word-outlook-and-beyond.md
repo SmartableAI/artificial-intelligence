@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Microsoft claims its image captioning system is more accurate than humans"
+    excerpt: "Microsoft today announced the availability of its artificial intelligence-based technology for image captioning via the Azure Cognitive Services. The company also claims the system can now describe images as well as humans do. The new milestone should help ..."
+    publishedDateTime: 2020-10-14T20:34:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-claims-its-image-captioning-system-is-more-accurate-than-humans"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-claims-its-image-captioning-system-is-more-accurate-than-humans/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-claims-its-image-captioning-system-is-more-accurate-than-humans/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 103
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2018/07/1531417203_microsoftai_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Microsoft partners chip maker Arm to boost AI innovation for IoT devices"
     excerpt: "SoftBank-owned UK chip maker Arm has partnered with Microsoft to create Azure-based tools to enable developers transfer data from Arm-based Internet of Things (IoT) devices to Azure Cloud"
     publishedDateTime: 2020-10-12T04:17:00Z
@@ -90,6 +106,22 @@ related:
       - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/10/Cecily1-scaled.jpg"
         width: 1961
         height: 2560
+        isCached: true
+  - title: "Microsoft makes breakthrough in AI-assisted image captioning"
+    excerpt: "The power of the cloud continues to impress as Microsoft-powered AI can now write image captions as good or better than real people."
+    publishedDateTime: 2020-10-14T21:19:00Z
+    webUrl: "https://www.shacknews.com/article/120919/microsoft-makes-breakthrough-in-ai-assisted-image-captioning"
+    ampWebUrl: "https://www.shacknews.com/article/120919/microsoft-makes-breakthrough-in-ai-assisted-image-captioning?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/120919/microsoft-makes-breakthrough-in-ai-assisted-image-captioning?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 74
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/10/14/microsoft-image-captioning-1_feature.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Microsoft, AICTE collaborate to skill students, educators in AI, IoT, Big Data, more"
     excerpt: "As part of the partnership, over 1,500-course modules from Microsoft will be made available to students and educators free of cost through AICTE's e-learning portal ELIS."
