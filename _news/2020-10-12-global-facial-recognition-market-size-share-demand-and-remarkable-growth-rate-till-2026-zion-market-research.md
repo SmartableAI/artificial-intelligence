@@ -20,6 +20,22 @@ topics:
   - Computer Vision
   - AI
 
+related:
+  - title: "Artificial Intelligence Market Growth, Product Analysis, Demand, Revenue and Threat, Forecast To 2029 | Atomwise Inc. and Google Inc."
+    excerpt: "MarketResearch.Biz :Artificial Intelligence Market Overview: The report provides each quantitative and qualitative information of the global Artificial Intelligence market for the period of 2020 to 2029."
+    publishedDateTime: 2020-10-12T12:09:00Z
+    webUrl: "https://apnews.com/press-release/wired-release/technology-business-greater-china-corporate-news-north-america-6b56b49cd71fc71252c63b48ea7331af"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 8
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "RSk40jzvPWUhqC/EonTQzNcNt7d3ebjAqrnt7U23GmOjXptB4mjFLxy1FhYD2u9kXOo8wsJLFFmllII22Anh9wT72FDsQnvpEMaeLNHaQCywLM5IZO8DAjVpIHLTFAwCJYYovkoVRzGtZ43IXDanizRu05uQua4Yg1Joi9iD0/j9Qkc/g1m1URLVHKaKQHpCvxs+LyKdSdF1TED/qONFLCq2mhahSuILInVqRUKVN2VKyIG5ghUu/p0WyqYrTT6xx/qihZMNrcCgyniTKpioBH5z6uYeBDcXR0y7fcaM34FPLmR9Noez7cWDPlhszIY7bOyKZD8FdyqfxHCrbkOKsCTKhNAN7XRc8haR5WhT0D0=;KVdaJJDeUbdXePZ/pH9AOQ=="
 ---
 

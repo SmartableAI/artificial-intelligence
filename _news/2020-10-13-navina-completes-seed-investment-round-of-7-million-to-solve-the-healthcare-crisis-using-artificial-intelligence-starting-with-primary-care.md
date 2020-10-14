@@ -27,7 +27,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 77
+    quality: 79
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2020/08/1024x683_Hero-Image_thingnario.jpg?w=600"
         width: 600
@@ -62,6 +62,6 @@ related:
         height: 692
         isCached: true
 
-secured: "R387uDspa0s3sjwg6b2UfCE7UAfQENN3MCAWvXTn6/ZDNZxERjShVKOfWxRsrCu5VmHVD6+23NTUfUrWVJwyUcISrVYeFFFh/O6Ot25ZFsmUteJefJffj2c14F9j+PuOr87FaMAKh/etBSwMFHHp25B9fMZg3we4knLXGFjW/zJThg+b/KCo1iPLfN4DrXf9sCmahcq02X7lup9S1HldadipfhJ/s2YYeFaZtpOXLkY3lEWgrNCKJeMXNqeRFUt0Nf6ENaSDPxAj2YJ5KKanuysp+IP4JzIpxVt3+qKzH+SAe1nUufhMGyoInm+7FkMolzZ9NihR0zfvH6nE4UW3ngGM82BIF7lA1S3O4PKV9ww=;VvQuHXVhLv59EH7OvagIAw=="
+secured: "Zly3/Jf6DUAYwYVqyDE7TBCiCKYsB9iCciWwXHaLky6QLCxx/9rO7JzndlbLPbeMEhYeaw2r/Av8YlgTcdftO2c5ZhTQUmJbiIBOei+wW/2Dd6Pe8uSJ1ssE5+5aMlL2Pt1JhHkV/lYJQ98bFADblRg8cUdblbKbtFIZi0HPmwM2tJrkiI0VTO517MBGT1hwYp8sRyQDqEEOUsPkzNmGEX+N/h4HajOA6sxcLjnA9PhqFB5fRtHjrGooQTPwnpEZ41sDFe2MqomqRrZzZku+j5roZQ96Bu0nS1x/904JSM8c1/dA2ZVOokzXzek4BRKQn3vzZOe6XtgTvZeU01fSB809vCKBqcLCeaehBYZ05/c=;xGPJv0GANwGYJnAOZnqRNg=="
 ---
 

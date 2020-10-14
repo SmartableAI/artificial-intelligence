@@ -25,106 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Fintech Market 2020 Status and Outlook Growth"
-    excerpt: "AI in Fintech Market Size 2020 Analysis Trends Top Manufacturers Growth Statistics Porters Five Forces and SWOT Analysis Opportunities and Forecast California The qualitative research study by Data Bridge Market Research titled AI in Fintech market size is expected to"
-    publishedDateTime: 2020-10-09T07:33:00Z
-    webUrl: "https://www.openpr.com/news/2153314/ai-in-fintech-market-2020-status-and-outlook-growth-challenges"
-    ampWebUrl: "https://www.openpr.com/amp/2153314/ai-in-fintech-market-2020-status-and-outlook-growth-challenges"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2153314/ai-in-fintech-market-2020-status-and-outlook-growth-challenges"
+  - title: "Global Facial Recognition Market Size, Share, Demand And Remarkable Growth Rate Till 2026 | Zion Market Research"
+    excerpt: "The global Facial Recognition market is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Zion Market Research in its latest report published this information. The report is titled “Global Facial Recognition Market Size ..."
+    publishedDateTime: 2020-10-12T07:22:00Z
+    webUrl: "https://www.openpr.com/news/2155170/global-facial-recognition-market-size-share-demand"
+    ampWebUrl: "https://www.openpr.com/amp/2155170/global-facial-recognition-market-size-share-demand"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2155170/global-facial-recognition-market-size-share-demand"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 59
-    images:
-      - url: "https://cdn.openpr.com/T/a/Ta09134345_g.jpg"
-        width: 800
-        height: 480
-        isCached: true
-  - title: "5 fintech startups to get funding from ING-Unicef program"
-    excerpt: "Dutch financial giant ING and the United Nations Children’s Fund (Unicef) have selected five promising local fintech startups that will receive fresh funding and mentorship under their joint program"
-    publishedDateTime: 2020-10-13T21:10:00Z
-    webUrl: "https://business.inquirer.net/309482/5-fintech-startups-to-get-funding-from-ing-unicef-program"
-    ampWebUrl: "https://business.inquirer.net/309482/5-fintech-startups-to-get-funding-from-ing-unicef-program/amp"
-    cdnAmpWebUrl: "https://business-inquirer-net.cdn.ampproject.org/c/s/business.inquirer.net/309482/5-fintech-startups-to-get-funding-from-ing-unicef-program/amp"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 44
-    images:
-      - url: "https://newsinfo.inquirer.net/wp-content/blogs.dir/10/files/2020/10/News87524-e1602260971308-300x225.jpg"
-        width: 300
-        height: 225
-        isCached: true
-  - title: "FinTech, Automotive AI, and More in This Week’s Top Mobile ID Stories"
-    excerpt: "It's been another rich and varied week in Mobile ID World news, and that's reflected in this week's roundup of our most popular stories."
-    publishedDateTime: 2020-10-10T18:50:00Z
-    webUrl: "https://mobileidworld.com/fintech-automotive-ai-and-more-in-this-weeks-top-mobile-id-stories-110101/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 39
-    images:
-      - url: "https://mobileidworld.com/wp-content/uploads/61668108_thumbnail-1024x1024.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
-  - title: "Global Edge Artificial Intelligence (AI) Chip Market 2020 Industry Development and Growth Forecast to 2025"
-    excerpt: "The development prediction report titled Global Edge Artificial Intelligence (AI) Chip Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2025 focuses on thoughtful insights and facts relating to the market."
-    publishedDateTime: 2020-10-12T16:27:00Z
-    webUrl: "https://ipsnews.net/business/2020/10/12/global-edge-artificial-intelligence-ai-chip-market-2020-industry-development-and-growth-forecast-to-2025/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 31
-  - title: "Polish Fintech Symmetrical.ai, which helps Employees Maintain Financial Wellbeing, has been Issued Small Payment Institution License"
-    excerpt: "Polish-British Fintech Symmetrical.ai, which helps employees maintain financial well-being, has been issued a small payment institution license. The company said that the new permit should allow it to make Symmetrical-backed salaries “even faster ..."
-    publishedDateTime: 2020-10-13T11:51:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/10/167897-polish-fintech-symmetrical-ai-which-helps-employees-maintain-financial-wellbeing-has-been-issued-small-payment-institution-license/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/10/167897-polish-fintech-symmetrical-ai-which-helps-employees-maintain-financial-wellbeing-has-been-issued-small-payment-institution-license/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/167897-polish-fintech-symmetrical-ai-which-helps-employees-maintain-financial-wellbeing-has-been-issued-small-payment-institution-license/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 8
-  - title: "Georgia State to Offer Graduate Certificates in AI Business Innovation, Disruptive Innovation and Entrepreneurship, and Fintech Innovation"
-    excerpt: "Georgia State University’s Robinson College of Business will admit new students to three stand-alone graduate certificate programs that address current and emerging market demand for innovation."
-    publishedDateTime: 2020-10-09T17:20:00Z
-    webUrl: "https://news.gsu.edu/2020/10/09/georgia-state-to-offer-graduate-certificates-in-ai-business-innovation-disruptive-innovation-and-entrepreneurship-and-fintech-innovation/"
-    type: article
-    provider:
-      name: Georgia State University
-      domain: gsu.edu
-    quality: 5
-    images:
-      - url: "https://news.gsu.edu/files/2014/09/disruptive-innovation-photo-1661x1125.jpg"
-        width: 1661
-        height: 1125
-        isCached: true
-  - title: "Global Artificial Intelligence in Education Market Innovative Trends, Driving Factors and Growth Analysis 2020-2025"
-    excerpt: "MarketandResearch.biz has released a new market research report namely, Global Artificial Intelligence in Education Market Growth (Status and Outlook) 2020-2025 that will provide you every microscopic detail about the market."
-    publishedDateTime: 2020-10-12T23:08:00Z
-    webUrl: "https://ipsnews.net/business/2020/10/09/global-artificial-intelligence-in-education-market-innovative-trends-driving-factors-and-growth-analysis-2020-2025/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 0
-  - title: "UAE’s Fintech Galaxy to Focus on Financial Inclusion via Hackathon for Implementing Digital Lending and Other Financial Tech Solutions"
-    excerpt: "UAE's Fintech Galaxy to focus on financial inclusion via hackathon for implementing digital lending and other financial tech solutions."
-    publishedDateTime: 2020-10-13T00:39:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/10/167842-uaes-fintech-galaxy-to-focus-on-financial-inclusion-via-hackathon-for-implementing-digital-lending-and-other-financial-tech-solutions/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/10/167842-uaes-fintech-galaxy-to-focus-on-financial-inclusion-via-hackathon-for-implementing-digital-lending-and-other-financial-tech-solutions/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/167842-uaes-fintech-galaxy-to-focus-on-financial-inclusion-via-hackathon-for-implementing-digital-lending-and-other-financial-tech-solutions/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 0
+    quality: 18
 
 secured: "HeoHNihqTC4meJl7+reNc1c7UgNV/FFyE1/rLK1UXSN+TlmqkVsSMq+hXRGTTxcB+oHawR+8bKX2um9hL+O++595SA6yOdjfvHH93v+QYMHcnsh3lxPVwBw35OYduXGc8xsYq44QkWKHNkkuACZfn4ypyNbflG6q8btXuL8pCqwfMzlgvEO9AT3tfW1v3bqZsj8q8ibQGP19hvsKHZVEcDiY9ViUQmfUrytbT0n/a7r6wKaSQkYbWlZL95oconpKTBwg8G50RKwyP9YpUSqLeBeSvJnbMFWI0UWVOKdOuyl2uqtuzvtcWELel+Zc+8z5RdUk5urzblPmOurll4uVFzQL2SjRSWS2QAZOUXHMUZE=;cOpYPTystym6z4KTj4rgUA=="
 ---

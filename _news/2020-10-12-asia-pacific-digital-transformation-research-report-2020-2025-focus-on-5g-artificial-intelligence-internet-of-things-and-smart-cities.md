@@ -33,6 +33,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
+  - title: "Global Edge Artificial Intelligence (AI) Chip Market 2020 Industry Development and Growth Forecast to 2025"
+    excerpt: "The development prediction report titled Global Edge Artificial Intelligence (AI) Chip Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2025 focuses on thoughtful insights and facts relating to the market."
+    publishedDateTime: 2020-10-12T16:27:00Z
+    webUrl: "https://ipsnews.net/business/2020/10/12/global-edge-artificial-intelligence-ai-chip-market-2020-industry-development-and-growth-forecast-to-2025/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 31
 
 secured: "uxlkiaUlHg2l8IdTrJAt/8kUw0+sqe31Ts4ZUwA9iW19ZUyt3FA/EMoM9qCVSRL6CquY/AI7EgosCJMX8aGjokRK7G3NJNzFWlhIyDuHuG8p8df35u5I3qUaepBWggt9ZPM/7LN1+fcB1tLNl8Xn50T8Xk2BKs9stdLQJXenP1pLP1YVP8Ra8Djcoqwf9Ltd9rHTHz5uNKXThEvVGqAJbxcE/dfkUDtxykFe4oGZjrSI2cHtWCOrOM2YFWzWlHZz8ia2qZjM9vtbf2VicRXjLMquY90233elatsauKrklpFRbiCVIJrghEy11osrsxApLTT/AjCROAXOZw9yuirfBqxmOANOfSFMECDuu+8h1HE=;TvAXLqmUiWH70CTAbKySOg=="
 ---

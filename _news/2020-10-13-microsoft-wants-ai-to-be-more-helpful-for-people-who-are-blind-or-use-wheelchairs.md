@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-wants-ai-t
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs/"
 type: article
 quality: 103
-heat: 163
+heat: 153
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://www.theindianwire.com/wp-content/uploads/2020/10/1601348370-9773.jpg"
         width: 620
         height: 464
-        isCached: true
-  - title: "Microsoft, chip maker Arm to boost AI innovation for IoT devices"
-    excerpt: "SoftBank-owned UK chip maker Arm has partnered with Microsoft to create Azure-based tools to enable developers transfer data from Arm-based Internet of Things (IoT) devices to Azure Cloud. The partner"
-    publishedDateTime: 2020-10-09T07:20:00Z
-    webUrl: "https://www.dailypioneer.com/2020/technology/microsoft--chip-maker-arm-to-boost-ai-innovation-for-iot-devices.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 71
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/microsoft--chip-maker-arm-to-boost-ai-innovation-for-iot-devices-2020-10-09.jpg"
-        width: 1000
-        height: 800
         isCached: true
   - title: "Microsoft, AICTE collaborate to skill students, educators in AI, IoT, Big Data, more"
     excerpt: "As part of the partnership, over 1,500-course modules from Microsoft will be made available to students and educators free of cost through AICTE's e-learning portal ELIS."

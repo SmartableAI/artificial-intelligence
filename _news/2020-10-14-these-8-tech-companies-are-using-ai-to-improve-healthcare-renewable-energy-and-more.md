@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-13T22:08:00Z
 originalUrl: "https://techcrunch.com/sponsor/idb-taiwan/these-8-tech-companies-are-using-ai-to-improve-healthcare-renewable-energy-and-more/"
 webUrl: "https://techcrunch.com/sponsor/idb-taiwan/these-8-tech-companies-are-using-ai-to-improve-healthcare-renewable-energy-and-more/"
 type: article
-quality: 77
-heat: 107
+quality: 79
+heat: 109
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/08/1024x683_Hero-Image_thingnario.jpg?w=600"
@@ -67,6 +68,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "V2e9teGLNtW0QH2lQvswrUo0I/8PO/Er4ovor0gPBZh1UNkT3I256cXei2dIpN3AFUJeh7hm9t0WjSChdhtkE5fViLftgQ13Q+Y4lXYYPwgMlFNNM13qYf+a96mCZSj+7xJL8L/ncZnRYlINOinBPCgjA9eQQuRHpAv7ImJ9dJiDZPvR1vF/pwo2kTcXK93QjJ8nuxwUTQ5iO+AN4gY01NRw+1L+PsoKB03xC2b+6xvYpcCy7HUzlrRSQtzhVy7RZAGLe3OyYMCqnUwPDbVZKrNDVcRpCS/tdajKGxD9BNZEfYzaUlc3QDhA3jg4lIrbRWfpxjVu2hk7nfdfJsY6KNDm0sXQkY2ZzzwbRQ4V/ow=;/OvI+tklcT765Goy2Ezd7g=="
+secured: "54QwL+WWT4L/qn/M3Y2pFJaeD64SYkLyCvDW8G5H7G0ZmRdx1KJBjR+pUfROJOuWt0ubT9gODe78F1WSSH/zlWBsRFW6noQs6sQWhRP4cIKJWG/ejwLqtFCmAD0qeZCGBoRgXgXBMR1TAlHUtAnuM219xVZuDj8brXra14bUkpDftYW2VnaAF+cpfNLrfHBhIvAGtPdYBW/6u0bAIRDi0C5AEgPLG9Y8EzZWSyQdVpfh9MD2ujXQpdELmJq18cUCwf/ckRVginNEjPXUuSdpgapcI+sI3reT4f7wIbn44C2VwgP0Ty03l/IiDJkV1ABnczwujP0hdkYIj3SzvsLdVvkNCSi5pQgx4nOTp+51cfpMoDZTgT/fRihoSh5DVdD1zZfFdbMFCR4Qm8TEcIPCxCQvCqaT16WK40Ow92oqh3jwDeKwOeHZ/kZR/t85nNCoyUbDM97pjZ0JiR+j173sqIVQ//XwPFCnh+g2CZFj4OWAm1yyYMBxPtmoCYexd4RT6VWJaFnrCBL5OVHHIVAyyw==;A6F1dt7/4KFXSUTPk+A50w=="
 ---
 

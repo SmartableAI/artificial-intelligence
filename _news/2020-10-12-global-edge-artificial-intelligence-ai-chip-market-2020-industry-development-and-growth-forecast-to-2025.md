@@ -19,111 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "AI in Fintech Market 2020 Status and Outlook Growth"
-    excerpt: "AI in Fintech Market Size 2020 Analysis Trends Top Manufacturers Growth Statistics Porters Five Forces and SWOT Analysis Opportunities and Forecast California The qualitative research study by Data Bridge Market Research titled AI in Fintech market size is expected to"
-    publishedDateTime: 2020-10-09T07:33:00Z
-    webUrl: "https://www.openpr.com/news/2153314/ai-in-fintech-market-2020-status-and-outlook-growth-challenges"
-    ampWebUrl: "https://www.openpr.com/amp/2153314/ai-in-fintech-market-2020-status-and-outlook-growth-challenges"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2153314/ai-in-fintech-market-2020-status-and-outlook-growth-challenges"
+  - title: "Global Artificial Intelligence Market (2020 to 2026) - Bringing AI to Edge Devices Presents Opportunities"
+    excerpt: "Market by Technology (Machine learning, Natural Language Processing, Context Aware Computing, Computer Vision), Hardware (Processor, Memory, Network), End-User Industry, and Region - Global Forecast to 2026\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2020-10-13T12:08:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-artificial-intelligence-market-2020-to-2026-bringing-ai-to-edge-devices-presents-opportunities-1029673557"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+  - title: "Asia Pacific Digital Transformation Research Report 2020-2025: Focus on 5G, Artificial Intelligence, Internet of Things, and Smart Cities"
+    excerpt: "G, Artificial Intelligence, Internet of Things, and Smart Cities in APAC 2020 - 2025\" report has been added to ResearchAndMarkets.com's offering. The AI segment is currently very fragmented, characterized with most companies focusing on silo approaches to solutions."
+    publishedDateTime: 2020-10-12T15:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/asia-pacific-digital-transformation-research-report-2020-2025-focus-on-5g-artificial-intelligence-internet-of-things-and-smart-cities-301150156.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 4
     images:
-      - url: "https://cdn.openpr.com/T/a/Ta09134345_g.jpg"
+      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
         width: 800
-        height: 480
+        height: 419
         isCached: true
-  - title: "5 fintech startups to get funding from ING-Unicef program"
-    excerpt: "Dutch financial giant ING and the United Nations Children’s Fund (Unicef) have selected five promising local fintech startups that will receive fresh funding and mentorship under their joint program"
-    publishedDateTime: 2020-10-13T21:10:00Z
-    webUrl: "https://business.inquirer.net/309482/5-fintech-startups-to-get-funding-from-ing-unicef-program"
-    ampWebUrl: "https://business.inquirer.net/309482/5-fintech-startups-to-get-funding-from-ing-unicef-program/amp"
-    cdnAmpWebUrl: "https://business-inquirer-net.cdn.ampproject.org/c/s/business.inquirer.net/309482/5-fintech-startups-to-get-funding-from-ing-unicef-program/amp"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 44
-    images:
-      - url: "https://newsinfo.inquirer.net/wp-content/blogs.dir/10/files/2020/10/News87524-e1602260971308-300x225.jpg"
-        width: 300
-        height: 225
-        isCached: true
-  - title: "FinTech, Automotive AI, and More in This Week’s Top Mobile ID Stories"
-    excerpt: "It's been another rich and varied week in Mobile ID World news, and that's reflected in this week's roundup of our most popular stories."
-    publishedDateTime: 2020-10-10T18:50:00Z
-    webUrl: "https://mobileidworld.com/fintech-automotive-ai-and-more-in-this-weeks-top-mobile-id-stories-110101/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 39
-    images:
-      - url: "https://mobileidworld.com/wp-content/uploads/61668108_thumbnail-1024x1024.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
-  - title: "Artificial Intelligence Market Growth, Product Analysis, Demand, Revenue and Threat, Forecast To 2029 | Atomwise Inc. and Google Inc."
-    excerpt: "MarketResearch.Biz :Artificial Intelligence Market Overview: The report provides each quantitative and qualitative information of the global Artificial Intelligence market for the period of 2020 to 2029."
-    publishedDateTime: 2020-10-12T12:09:00Z
-    webUrl: "https://apnews.com/press-release/wired-release/technology-business-greater-china-corporate-news-north-america-6b56b49cd71fc71252c63b48ea7331af"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 8
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Polish Fintech Symmetrical.ai, which helps Employees Maintain Financial Wellbeing, has been Issued Small Payment Institution License"
-    excerpt: "Polish-British Fintech Symmetrical.ai, which helps employees maintain financial well-being, has been issued a small payment institution license. The company said that the new permit should allow it to make Symmetrical-backed salaries “even faster ..."
-    publishedDateTime: 2020-10-13T11:51:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/10/167897-polish-fintech-symmetrical-ai-which-helps-employees-maintain-financial-wellbeing-has-been-issued-small-payment-institution-license/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/10/167897-polish-fintech-symmetrical-ai-which-helps-employees-maintain-financial-wellbeing-has-been-issued-small-payment-institution-license/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/167897-polish-fintech-symmetrical-ai-which-helps-employees-maintain-financial-wellbeing-has-been-issued-small-payment-institution-license/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 8
-  - title: "Georgia State to Offer Graduate Certificates in AI Business Innovation, Disruptive Innovation and Entrepreneurship, and Fintech Innovation"
-    excerpt: "Georgia State University’s Robinson College of Business will admit new students to three stand-alone graduate certificate programs that address current and emerging market demand for innovation."
-    publishedDateTime: 2020-10-09T17:20:00Z
-    webUrl: "https://news.gsu.edu/2020/10/09/georgia-state-to-offer-graduate-certificates-in-ai-business-innovation-disruptive-innovation-and-entrepreneurship-and-fintech-innovation/"
-    type: article
-    provider:
-      name: Georgia State University
-      domain: gsu.edu
-    quality: 5
-    images:
-      - url: "https://news.gsu.edu/files/2014/09/disruptive-innovation-photo-1661x1125.jpg"
-        width: 1661
-        height: 1125
-        isCached: true
-  - title: "Global Artificial Intelligence in Education Market Innovative Trends, Driving Factors and Growth Analysis 2020-2025"
-    excerpt: "MarketandResearch.biz has released a new market research report namely, Global Artificial Intelligence in Education Market Growth (Status and Outlook) 2020-2025 that will provide you every microscopic detail about the market."
-    publishedDateTime: 2020-10-12T23:08:00Z
-    webUrl: "https://ipsnews.net/business/2020/10/09/global-artificial-intelligence-in-education-market-innovative-trends-driving-factors-and-growth-analysis-2020-2025/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 0
-  - title: "UAE’s Fintech Galaxy to Focus on Financial Inclusion via Hackathon for Implementing Digital Lending and Other Financial Tech Solutions"
-    excerpt: "UAE's Fintech Galaxy to focus on financial inclusion via hackathon for implementing digital lending and other financial tech solutions."
-    publishedDateTime: 2020-10-13T00:39:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/10/167842-uaes-fintech-galaxy-to-focus-on-financial-inclusion-via-hackathon-for-implementing-digital-lending-and-other-financial-tech-solutions/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/10/167842-uaes-fintech-galaxy-to-focus-on-financial-inclusion-via-hackathon-for-implementing-digital-lending-and-other-financial-tech-solutions/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/167842-uaes-fintech-galaxy-to-focus-on-financial-inclusion-via-hackathon-for-implementing-digital-lending-and-other-financial-tech-solutions/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 0
 
 secured: "XcRd+iKPaJd1kF+ZtygQ6GcMF0K03Gy729nmjbg4TFoK6TRaOu1qjQaoshcyOxf3ztwZ93T0h5M9RR3xhW9LzhnxszbxlZoCghSR4WnirvYKHF8jCQW0v/kQ88sP8oOe5EejR4g0p76iQfpVQjnzuSbBfjElExtW77BANQ/5DdJyu0AYRAL7W5Fx8v4Rjs6mpqfCxDzk1vI1FsSLqOEM48miXB73oyZbynLjUKpeGg10krlK3vawwWEf1nIxN8q9UEyidm524ek7pGFShB0AJo3Xl9BEq1XnXio9Zh6KUo9wbHrNUWuetJ/jZ+DcyKnkC4PeIUQPL+s/eYBxCGGHDux9V4zu9FC2wAUDA2QsHQU=;SqpBy6KdLJDurviqAT+djg=="
 ---

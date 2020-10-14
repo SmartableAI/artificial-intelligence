@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "AI in Fintech Market 2020 Status and Outlook Growth"
-    excerpt: "AI in Fintech Market Size 2020 Analysis Trends Top Manufacturers Growth Statistics Porters Five Forces and SWOT Analysis Opportunities and Forecast California The qualitative research study by Data Bridge Market Research titled AI in Fintech market size is expected to"
-    publishedDateTime: 2020-10-09T07:33:00Z
-    webUrl: "https://www.openpr.com/news/2153314/ai-in-fintech-market-2020-status-and-outlook-growth-challenges"
-    ampWebUrl: "https://www.openpr.com/amp/2153314/ai-in-fintech-market-2020-status-and-outlook-growth-challenges"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2153314/ai-in-fintech-market-2020-status-and-outlook-growth-challenges"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
-    images:
-      - url: "https://cdn.openpr.com/T/a/Ta09134345_g.jpg"
-        width: 800
-        height: 480
-        isCached: true
   - title: "5 fintech startups to get funding from ING-Unicef program"
     excerpt: "Dutch financial giant ING and the United Nations Children’s Fund (Unicef) have selected five promising local fintech startups that will receive fresh funding and mentorship under their joint program"
     publishedDateTime: 2020-10-13T21:10:00Z
@@ -53,42 +37,19 @@ related:
         width: 300
         height: 225
         isCached: true
-  - title: "FinTech, Automotive AI, and More in This Week’s Top Mobile ID Stories"
-    excerpt: "It's been another rich and varied week in Mobile ID World news, and that's reflected in this week's roundup of our most popular stories."
-    publishedDateTime: 2020-10-10T18:50:00Z
-    webUrl: "https://mobileidworld.com/fintech-automotive-ai-and-more-in-this-weeks-top-mobile-id-stories-110101/"
+  - title: "GIC Leads $100 Million Funding into India’s Fintech Razorpay"
+    excerpt: "Digital payments startup Razorpay is the latest to join the unicorn club in India after raising $100 million in a funding round led by Singapore sovereign wealth fund GIC. The Bangalore, India-based fintech company has a new valuation just north of $1 billion after its Series D funding round,"
+    publishedDateTime: 2020-10-13T14:43:00Z
+    webUrl: "https://www.ai-cio.com/news/gic-leads-100-million-funding-indias-fintech-razorpay/"
     type: article
     provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 39
+      name: Ai-cio.com
+      domain: ai-cio.com
+    quality: 24
     images:
-      - url: "https://mobileidworld.com/wp-content/uploads/61668108_thumbnail-1024x1024.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
-  - title: "Global Edge Artificial Intelligence (AI) Chip Market 2020 Industry Development and Growth Forecast to 2025"
-    excerpt: "The development prediction report titled Global Edge Artificial Intelligence (AI) Chip Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2025 focuses on thoughtful insights and facts relating to the market."
-    publishedDateTime: 2020-10-12T16:27:00Z
-    webUrl: "https://ipsnews.net/business/2020/10/12/global-edge-artificial-intelligence-ai-chip-market-2020-industry-development-and-growth-forecast-to-2025/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 31
-  - title: "Artificial Intelligence Market Growth, Product Analysis, Demand, Revenue and Threat, Forecast To 2029 | Atomwise Inc. and Google Inc."
-    excerpt: "MarketResearch.Biz :Artificial Intelligence Market Overview: The report provides each quantitative and qualitative information of the global Artificial Intelligence market for the period of 2020 to 2029."
-    publishedDateTime: 2020-10-12T12:09:00Z
-    webUrl: "https://apnews.com/press-release/wired-release/technology-business-greater-china-corporate-news-north-america-6b56b49cd71fc71252c63b48ea7331af"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 8
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://s3.amazonaws.com/si-interactive/prod/ai-cio-com/wp-content/uploads/2020/10/13102621/CIO-101320-CGIC-LeadsFunding-Fintech-iStock-1202705835-web.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Polish Fintech Symmetrical.ai, which helps Employees Maintain Financial Wellbeing, has been Issued Small Payment Institution License"
     excerpt: "Polish-British Fintech Symmetrical.ai, which helps employees maintain financial well-being, has been issued a small payment institution license. The company said that the new permit should allow it to make Symmetrical-backed salaries “even faster ..."
@@ -101,29 +62,6 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 8
-  - title: "Georgia State to Offer Graduate Certificates in AI Business Innovation, Disruptive Innovation and Entrepreneurship, and Fintech Innovation"
-    excerpt: "Georgia State University’s Robinson College of Business will admit new students to three stand-alone graduate certificate programs that address current and emerging market demand for innovation."
-    publishedDateTime: 2020-10-09T17:20:00Z
-    webUrl: "https://news.gsu.edu/2020/10/09/georgia-state-to-offer-graduate-certificates-in-ai-business-innovation-disruptive-innovation-and-entrepreneurship-and-fintech-innovation/"
-    type: article
-    provider:
-      name: Georgia State University
-      domain: gsu.edu
-    quality: 5
-    images:
-      - url: "https://news.gsu.edu/files/2014/09/disruptive-innovation-photo-1661x1125.jpg"
-        width: 1661
-        height: 1125
-        isCached: true
-  - title: "Global Artificial Intelligence in Education Market Innovative Trends, Driving Factors and Growth Analysis 2020-2025"
-    excerpt: "MarketandResearch.biz has released a new market research report namely, Global Artificial Intelligence in Education Market Growth (Status and Outlook) 2020-2025 that will provide you every microscopic detail about the market."
-    publishedDateTime: 2020-10-12T23:08:00Z
-    webUrl: "https://ipsnews.net/business/2020/10/09/global-artificial-intelligence-in-education-market-innovative-trends-driving-factors-and-growth-analysis-2020-2025/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 0
 
 secured: "A0BVgBIvMuYQSlBPrNB/SW9SRQgR6BHYjkR3Bz5UVjt/12SvTM2ApFSrZ2OiW/6qgkwF1x7nRGjqupBPmViA8M811YBA1humrLXQt9I9i2kFIW+7xNhXxXeLz8HQ68mXKcxtvATuWdgMirMnc9h1pfCiur6No4WznllUeULXXJLQtcWytxOE0uIF3ZguBl6DybnENfnxlj6yHwObrhVYlCHWa0ag2xwkG/l4Q44IaBxz1Cb8Fv35Bj31jomiAqAvsHxty02mLFeekuSnVZv4ni7j69GpODSE5AVt5jm16niOsfcINByqDJuDuBUGEBWyIpMp2E6590Jxcu+0GnRAnfezIK9pAqdwe2FcSo+W5hSz00Gi06rsDST0VJMIBB/pX2NWzXcUsyoh9FiRqt+C2cxEPdVJ56jzHbA6v6hllGFAsy/qQc2cQtfdCkbhreK9w4frP+WA9wM2Hn0GYIUfrVTllJqxwKwqIB/Xm3TE9j+9I3XUcGo+7NWG67vKug19ot+RfnWMag9SVRK1Ww1bUQ==;Yjumq6dHhIT660VF5xcD0g=="
 ---

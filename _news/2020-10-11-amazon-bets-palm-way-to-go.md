@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Amazon bets palm way to go"
-excerpt: "It’s even made its own facial recognition software, Rekognition, that was used by law enforcement until Amazon paused its use of the program for a year. But some privacy experts worry the new biometric scanning device, which sends images of people’s ..."
-publishedDateTime: 2020-10-11T12:45:00Z
-originalUrl: "https://www.arkansasonline.com/news/2020/oct/11/amazon-bets-palm-way-go/?business"
-webUrl: "https://www.arkansasonline.com/news/2020/oct/11/amazon-bets-palm-way-go/?business"
+excerpt: "It’s even made its own facial recognition software, Rekognition, that was used by law enforcement until Amazon paused its use of the program for a year. But some privacy experts worry the new ..."
+publishedDateTime: 2020-10-11T14:57:00Z
+originalUrl: "https://www.arkansasonline.com/news/2020/oct/11/amazon-bets-palm-way-go/"
+webUrl: "https://www.arkansasonline.com/news/2020/oct/11/amazon-bets-palm-way-go/"
 type: article
 quality: 24
 heat: 24
@@ -24,6 +24,6 @@ images:
     height: 300
     isCached: true
 
-secured: "5KmdMgd8Gp9N5ZTH6Sw9cu9u0Ho6BtAAg8vSePdnVxhA3JHaI5XombQRpeau8aylGbh71YKBX89996am9f78zQ0qbrFldHSDAbCdZikNTICC3luIDu3ONDiweg/k5r6Hhk9huTxe1g9Eo9Mwg4nXWecz3JZNhn8ttbAIttnyvl6Z6pBQ03qpD0m2aumL802Qbmp9zYCzAdXyZS7/xqTJYM88P5LQMbaNEt7Vcw/KOEOp288F8UPZ3pNmrJ/8AxNDRP5mXC3+BPCxs29al8wVEa2Dmqy8lQpeHO83GpP320KJu+uKgwc/KZquNxMIjZigC7zi7ojG0N+OqrSypbePOV/J2JvNF9GrYoj0HktueEo=;Eq92fs7M0MFc57eFKHHA1w=="
+secured: "Jg2XRLk5KehdVVn+1oIV18sBQ3SfszuYpf0wCpgsCw3bU72BhVsC0d21TNHtJLfLKZ45n1Z4zahtN4iXCSOyqICLjOpDMPYatT8HsSkGaY/yfL71F3Htu2qXf2R5mrddaQPSe0TWNyfpV3t+rAZtZackw69vb4GviuQ17gKAIXs+Ah/Hm53Eqs2i7PO27oGfGCjf1cNFij0UBYke8Gi68tb6CyLsg+X8oCANyP3Ug2vuMQDXnDuqdhuorisirC+mG3Yu0Xhiagspeawr2mJQEoWTq7I7YAJnD2TnuVEOZW7iBbCZ143sSqGIn5xUQ4BvntisR8OH3dqRevFKG70VkjFjhKDxaRnt6za8zKgWoFw=;sWpeXWkcs8AIwojQ2gDg6A=="
 ---
 
