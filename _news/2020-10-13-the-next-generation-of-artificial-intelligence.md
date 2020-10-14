@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2020/10/12/the-next-generation
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/amp/"
 type: article
 quality: 91
-heat: 161
+heat: 171
 published: true
 
 provider:
@@ -99,11 +99,25 @@ related:
     provider:
       name: Control Engineering
       domain: controleng.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://www.controleng.com/wp-content/uploads/sites/2/2020/10/Capture2.png"
         width: 645
         height: 350
+        isCached: true
+  - title: "Roche Enlists Dyno to Bring AI to Next-Generation Liver, CNS Gene Therapies"
+    excerpt: "Roche made a splash with its acquisition of Spark Therapeutics, whose Luxturna, a gene therapy for an inherited form of vision loss, was the first such"
+    publishedDateTime: 2020-10-14T10:08:00Z
+    webUrl: "https://xconomy.com/boston/2020/10/14/roche-enlists-dyno-to-bring-ai-to-next-generation-liver-cns-gene-therapies/"
+    type: article
+    provider:
+      name: Xconomy
+      domain: xconomy.com
+    quality: 35
+    images:
+      - url: "https://media.xconomy.com/wordpress/wp-content/images/2020/10/14003723/iStock-1173782127.jpg"
+        width: 1254
+        height: 836
         isCached: true
   - title: "The Next Level of Alt Data"
     excerpt: "New sources of information continue to be revealed by technological innovation, placing an emphasis on blending it with experience and investment expertise."

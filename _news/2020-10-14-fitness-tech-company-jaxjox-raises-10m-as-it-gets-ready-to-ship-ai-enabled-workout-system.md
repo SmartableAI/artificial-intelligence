@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2020/fitness-tech-company-jaxjox-raises-10m
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/fitness-tech-company-jaxjox-raises-10m-gets-ready-ship-ai-enabled-workout-system/amp/"
 type: article
 quality: 77
-heat: 77
+heat: 78
 published: true
 
 provider:

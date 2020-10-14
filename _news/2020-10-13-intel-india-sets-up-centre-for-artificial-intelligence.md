@@ -75,20 +75,6 @@ related:
         width: 336
         height: 322
         isCached: true
-  - title: "Hailo Goes Head to Head With Intel and Google on AI Acceleration Modules"
-    excerpt: "... Acceleration Module Hailo's AI acceleration modules have some leverage over other competitors because it integrates the Hailo-8 processor—a device that Hailo says delivers 26 tera-operations per second (TOPS) in chip processing capabilities and 3 ..."
-    publishedDateTime: 2020-10-09T17:47:00Z
-    webUrl: "https://www.allaboutcircuits.com/news/hailo-goes-head-to-head-intel-google-ai-acceleration-modules/"
-    type: article
-    provider:
-      name: All About Circuits
-      domain: allaboutcircuits.com
-    quality: 38
-    images:
-      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/AI_acceleration_roundup.jpg"
-        width: 700
-        height: 330
-        isCached: true
   - title: "Intel, IIIT-Hyderabad, PHFI And Telangana Government Launch Applied Artificial Intelligence Research Center"
     excerpt: "The new center will focus on leveraging artificial intelligence (AI) to solve India’s population scale challenges in key sectors such as healthcare and smart mobility Through collaboration with"
     publishedDateTime: 2020-10-12T17:20:00Z

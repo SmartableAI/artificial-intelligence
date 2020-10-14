@@ -108,11 +108,25 @@ related:
     provider:
       name: Control Engineering
       domain: controleng.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://www.controleng.com/wp-content/uploads/sites/2/2020/10/Capture2.png"
         width: 645
         height: 350
+        isCached: true
+  - title: "Roche Enlists Dyno to Bring AI to Next-Generation Liver, CNS Gene Therapies"
+    excerpt: "Roche made a splash with its acquisition of Spark Therapeutics, whose Luxturna, a gene therapy for an inherited form of vision loss, was the first such"
+    publishedDateTime: 2020-10-14T10:08:00Z
+    webUrl: "https://xconomy.com/boston/2020/10/14/roche-enlists-dyno-to-bring-ai-to-next-generation-liver-cns-gene-therapies/"
+    type: article
+    provider:
+      name: Xconomy
+      domain: xconomy.com
+    quality: 35
+    images:
+      - url: "https://media.xconomy.com/wordpress/wp-content/images/2020/10/14003723/iStock-1173782127.jpg"
+        width: 1254
+        height: 836
         isCached: true
   - title: "Tyto Care Launches the Next Generation of Telehealth with an AI-Powered Diagnostic Support Solution"
     excerpt: "Tyto Care, the healthcare industry’s first all-in-one modular device and examination platform for AI-powered, on-demand, remote medical exams, today announced its AI-powered diagnostic support solution,"

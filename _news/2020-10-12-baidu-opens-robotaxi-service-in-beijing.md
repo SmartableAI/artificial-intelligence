@@ -39,6 +39,20 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Baidu launches program in Beijing to offer free trials of its self-driving taxi service"
+    excerpt: "A woman takes a self-driving taxi at an appointed location on the Daoxianghu Road in Haidian District of Beijing, capital of China, Oct. 14, 2020. China's internet giant Baidu has launched a program in Beijing to offer free trials of its self-driving taxi service from Saturday."
+    publishedDateTime: 2020-10-14T09:25:00Z
+    webUrl: "https://www.globaltimes.cn/content/1203461.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 31
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0//attachment/2020/2020-10-14/8f785bee-602c-4d06-bef8-37e0f3039055.jpeg"
+        width: 800
+        height: 480
+        isCached: true
 
 secured: "QwYlndgs/OcEWw0JoTw7KJs6Szkn/HB/K1HtkADt94OooleiycQdIp2sCWVh4sk0p6Q7xnWhyzibYZNmUu9cmecTtI/N7c3X1G2tM997f9HaeJsqiOSmsGOCPziO627pKwlTBMluWGlvvS/rU/NQkWIvFfVKgNoi5cLGTS5wMHSYcBcCVJlPGiX2YtPCk5/z4mFGLgmE57Czco7BPVGhjXZMucR+U+iHzbNXBbVMwJLewAVHuGF9Dw1UCaCoEObtlT4frV+uUyRPTYzBDAywvkIxbz5J0B13tMArwb/e2M8+JqZ7OR8brfId8xVVuQDd4n1SkpNQ7+LqeRYqtA78y95zcw4taBB6gtN0cF5uyLRu7rglnimtoZB/JH8+A+FRPz56pM7eCu+L3afPYuQoU0LzmUm5uC6DTRkQw9HEJKO6rELds7APHkpwGI2tmNx8ytbXGYztOU4K8KcAvnruAW7XGoUizwDzP2CG06QAvrDKPJlXip7YuAzPnNRw6Saqlo6cQ3Hmldnlwm2mVU7yAA==;XSgM2ADnlJFp9LIdJAzZQQ=="
 ---

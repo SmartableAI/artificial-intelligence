@@ -42,17 +42,6 @@ related:
         width: 660
         height: 440
         isCached: true
-  - title: "India startups leading movement on AI innovations to create solutions for the world"
-    excerpt: "ResponsibleAI for Social Empowerment 2020’summit witnessed discussion on themes like leveraging AI for pandemic preparedness, role of AI in fostering"
-    publishedDateTime: 2020-10-09T17:42:00Z
-    webUrl: "https://indiaeducationdiary.in/india-startups-leading-movement-on-ai-innovations-to-create-solutions-for-the-world/"
-    ampWebUrl: "https://indiaeducationdiary.in/india-startups-leading-movement-on-ai-innovations-to-create-solutions-for-the-world/?amp"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/india-startups-leading-movement-on-ai-innovations-to-create-solutions-for-the-world/?amp"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 31
   - title: "A policy framework for the technology can accelerate development in India’s AI sector"
     excerpt: "Tata Sons Chairman N Chandrasekaran addressed the key aspects of AI in education, healthcare and data governance that India should take in order to become the global AI capital."
     publishedDateTime: 2020-10-12T13:43:00Z

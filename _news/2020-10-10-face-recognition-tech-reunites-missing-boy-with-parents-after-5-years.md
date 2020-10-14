@@ -43,17 +43,6 @@ related:
         width: 814
         height: 545
         isCached: true
-  - title: "Rights Group Blasts Argentina for Using Face Recognition Tech on Kids"
-    excerpt: "Human Rights Watch wants the city of Buenos Aires to stop using live facial recognition to identify children accused of committing crimes, the rights group said on Friday. New York-based Human Rights Watch said Buenos Aires started using the technology in 2019,"
-    publishedDateTime: 2020-10-09T17:22:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2020-10-09/rights-group-blasts-argentina-for-using-face-recognition-tech-on-kids"
-    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-10-09/rights-group-blasts-argentina-for-using-face-recognition-tech-on-kids?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-10-09/rights-group-blasts-argentina-for-using-face-recognition-tech-on-kids?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 69
 
 secured: "CeoOsIycsmUB1peBOPIsRs0m0XYCAX/zxTVI+q5xG2qNK706RkiqIqBuUHx4rD+05j5ad0boa0lAJfrNvx90PxAuMSZkABTrsG63qobiX503AeHUePsenZqIlhwOKt+a5H6hKATr1OpLJyFL9GfvG9vcezVsIa9uzQwpso/uZ8nRgZDTmqGsAv4cTcrjrdwqwcYhDrcsNH5D1OuaraAuW/8Ezz5MuoBcM3okmcmL7r+nznQlRhtvOYtpvBrPOUNBIr+vgU20ffBPHUvO1PS63iqIZaFSTTImvvR3WwJCpCwdm+mRTNtCUqDIm5be7OxH+f1RPAuSH10qrEt0vEAdwCjVQKva8nU4M/ubq7NihGA=;BD/BVGWEKvOUihcAyd9uVA=="
 ---

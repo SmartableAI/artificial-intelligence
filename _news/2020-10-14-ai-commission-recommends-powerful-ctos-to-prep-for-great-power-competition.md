@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "National Security AI Commission at Odds Over U.S. Response to Malign AI"
-    excerpt: "The National Security Commission on Artificial Intelligence voted on quarter three recommendations in what was likely its last public meeting for 2020"
-    publishedDateTime: 2020-10-09T17:16:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2020/10/national-security-ai-commission-odds-over-us-response-malign-ai/169152/"
+  - title: "Pentagon needs a more powerful CTO office, says AI advisory panel"
+    excerpt: "The DOD's CTO needs more teeth, according to the former Deputy Secretary of Defense and the National Security Commissions on Artificial Intelligence."
+    publishedDateTime: 2020-10-13T21:22:00Z
+    webUrl: "https://www.fedscoop.com/pentagon-cto-eric-schmidt-national-security-commision-on-ai/"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
+      name: FedScoop
+      domain: fedscoop.com
     quality: 37
     images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2020/10/09/shutterstock_766717948/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://www.fedscoop.com/wp-content/uploads/2020/10/michael-kratsios-2020.jpg"
+        width: 1920
+        height: 1024
         isCached: true
 
 secured: "EIionofsxhCe+FK6QFXcwq/PAar7f3UDvbiOy6EwS2RVgyWD5+S7XsdSi0dzo7HKl4jbc4FDCodbbO4TySXw08644wo8ftts0xe+JdPLjQvSZZ1hzRI//7jLWUgE8a7ZYqVbAb9R5CxDacJsEc7vZFJy7bXx64tCELk9y7opCfO/8H+Ai+S0vLmN56zXoeaTbLdyICR0vJWoe2fBPWZKZgzDi+VramCOOERF1qDGiG4JNlSZfgRy9z1fJ8xVOj3R1bnac04jnDgrKhyO9qhirCCSkrg8PpyfFPoMao+uicnGpWA74l8EinrY2GIQyYssGZuAoZwnE1dNNqvnC6PEdQEgL4xhxpU31kYWWiQxYxM=;uh005BDAbzm6BqrWPbLJnQ=="

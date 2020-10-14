@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Tisane Labs' Solutions on Microsoft Azure Add Wikidata Extraction Feature"
-excerpt: "Tisane Labs, a supplier of text analytics AI solutions, today announced a new feature in Tisane API, already available on Microsoft Azure Marketplace and AppSource. With the new feature, Tisane API now allows tagging and extraction of Wikidata entities,"
-publishedDateTime: 2020-10-13T17:54:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-1029675775"
-webUrl: "https://markets.businessinsider.com/news/stocks/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-1029675775"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-1029675775"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-1029675775"
+excerpt: "Tisane Labs, a supplier of text analytics AI solutions, today announced a new feature in Tisane API, already available on Microsoft"
+publishedDateTime: 2020-10-13T17:31:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-301151377.html"
+webUrl: "https://www.prnewswire.com/news-releases/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-301151377.html"
 type: article
-quality: 83
-heat: 83
-published: true
+quality: 53
+heat: 53
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "Enkef4DYSc0KrbyEfG38CIfYxODrjIpJuHyZryUm9g0razCLtHETgm7cCc10o9G46iE3gD+1MebvV1ewnQluITyUH5zksSSgCIhsTUY7wiyzf6By0jG+pqKdQ1jayhehGRap1So/u0qikG4fsvMe7pRWMfGjIJRPn51XAQtckFCXcqUDC3fDWypAWlWmEF8p753cUgPTgNwKxEcWJyOU4ZEcU5f6gwNMIkE70ZuEYh6C9dBDNwrTE/bbC+wn6II0H3lwr92GMdU7cJ/B7B7i0F3IN4QaPSCOFuSFbWJoeKrwLrbwYc21Ho0nyuxAVrmg2kEW5iXsGQFRP5CNnXjc1+2DExQnkqgnfWN7cKlWiUc=;7dfVqMdf8NXJMGh/w/BCfQ=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "kJlN1XkQ01MsuYQeQu8XRtMeHtmv6CHcUboQubbxOlsEyyATsZwAbZZUgV3XtZImrEyJE0T5lBdmHoIyDbI8UBzvgJSToXi4mZUqgedO7x/Lj77tMcqi0GjYc6t0WW1re6aHNignq2gBjn3oTq2VH1lwvYQcEpHmu2iTXcCFnWJ1z1iw7z+rKbq+NzrrVsCojBxAuB2DuOuPTmh4DOBeLWBr07N5lSsLm4Q9vrxhl4kdNMhbhHBXtiwca36zBtzr4iHhVroIfBGbscbu85TxeAbe45l10L7BP415YHheVEM++HpgN2z8yBTXnc4NAtTBJLZKTAthoMQeYv31WycFW1yBhM6M8aXMz07SubI2u2g=;SvJ4kmx3e2OvrAK/MIAFuA=="
 ---
 

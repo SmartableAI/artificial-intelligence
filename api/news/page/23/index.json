@@ -2,6 +2,143 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-09-23-jumio-to-enable-biometric-based-identity-proofing-services-for-microsoft-azure-active-directory.md",
+      "title": "Jumio to Enable Biometric-Based Identity Proofing Services for Microsoft Azure Active Directory",
+      "excerpt": "Jumio, a leading provider of AI-powered end-to-end identity verification and authentication solutions, today announced that its AI-powered identity ve",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20200922005002/en/Jumio-to-Enable-Biometric-Based-Identity-Proofing-Services-for-Microsoft-Azure-Active-Directory",
+      "originalUrl": "https://www.businesswire.com/news/home/20200922005002/en/Jumio-to-Enable-Biometric-Based-Identity-Proofing-Services-for-Microsoft-Azure-Active-Directory",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200922005002/en/820130/23/Microsoft-Azure-AD-B2C-Flowchart_%281%29.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T15:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-seattle-startup-resonance-ai-raises-22m-to-analyze-dialogue-mood-music-in-video-content.md",
+      "title": "Seattle startup Resonance AI raises $2.2M to analyze dialogue, mood, music in video content",
+      "excerpt": "TV news broadcasters, productions studios, and others are using technology from a Seattle startup to analyze their video content and make changes based on audience reception.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/seattle-startup-resonance-ai-raises-2-2m-analyze-dialogue-mood-music-video-content/",
+      "originalUrl": "https://www.geekwire.com/2020/seattle-startup-resonance-ai-raises-2-2m-analyze-dialogue-mood-music-video-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/09/image007-630x473.jpg",
+          "width": 630,
+          "height": 473,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/seattle-startup-resonance-ai-raises-2-2m-analyze-dialogue-mood-music-video-content/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-startup-resonance-ai-raises-2-2m-analyze-dialogue-mood-music-video-content/amp/",
+      "publishedDateTime": "2020-09-22T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-police-commission-to-review-lapds-facial-recognition-use-after-times-report.md",
+      "title": "Police Commission to review LAPD’s facial recognition use after Times report",
+      "excerpt": "The Los Angeles Police Commission on Tuesday said it would review the city Police Department’s use of facial recognition software and how it compared with programs in other major cities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/california/story/2020-09-22/la-police-commission-review-lapd-facial-recognition-use",
+      "originalUrl": "https://www.latimes.com/california/story/2020-09-22/la-police-commission-review-lapd-facial-recognition-use",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/7d4f744/2147483647/strip/true/crop/2160x1411+0+15/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F61%2Fb6%2Fbc9c16f9413a936c8274be8e184c%2Fendorsement-final.jpg",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/california/story/2020-09-22/la-police-commission-review-lapd-facial-recognition-use?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2020-09-22/la-police-commission-review-lapd-facial-recognition-use?_amp=true",
+      "publishedDateTime": "2020-09-22T13:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-experian-and-biocatch-provide-a-global-financial-services-provider-with-a-73-lift-in-fraud-detection.md",
       "title": "Experian and BioCatch Provide a Global Financial Services Provider With a 73% Lift in Fraud Detection",
       "excerpt": "Amidst the pandemic, consumers have progressively shifted more and more of their activities online. Concurrently, there has been a surge",
@@ -1055,160 +1192,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-machine-learning-answers-facebook-stock-is-down-20-in-a-month-what-are-the-chances-itll-rebound.md",
-      "title": "Machine Learning Answers: Facebook Stock Is Down 20% In A Month, What Are The Chances It’ll Rebound?",
-      "excerpt": "Facebook stock reached an all-time high of almost $305 less than a month ago before a larger sell-off in the technology industry drove the stock price down nearly 20% to its current level of around $250.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2020/09/22/machine-learning-answers-facebook-stock-is-down-20-in-a-month-what-are-the-chances-itll-rebound/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2020/09/22/machine-learning-answers-facebook-stock-is-down-20-in-a-month-what-are-the-chances-itll-rebound/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f69a7bf9ce76e0ec3ed24e9%2F0x0.jpg",
-          "width": 1200,
-          "height": 816,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2020/09/22/machine-learning-answers-facebook-stock-is-down-20-in-a-month-what-are-the-chances-itll-rebound/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2020/09/22/machine-learning-answers-facebook-stock-is-down-20-in-a-month-what-are-the-chances-itll-rebound/amp/",
-      "publishedDateTime": "2020-09-22T04:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-hybrid-ai-through-data-space-time-and-industrial-applications-beyond-limits-scores-113m-series-c-to-scale-up.md",
-      "title": "Hybrid AI through data, space, time, and industrial applications: Beyond Limits scores $113M Series C to scale up",
-      "excerpt": "Abdallat went on to add that today we already have a collection of independent AI system that are experts in their own field, and increasingly outperform humans: \"As you start connecting them together, you have a network of intelligence society ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/hybrid-ai-through-data-space-time-and-industrial-applications-beyond-limits-scores-113m-series-c-to-scale-up/",
-      "originalUrl": "https://www.zdnet.com/article/hybrid-ai-through-data-space-time-and-industrial-applications-beyond-limits-scores-113m-series-c-to-scale-up/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/09/22/7c255cb1-23de-4d9d-b3fb-158143cf2d40/aj-abdallat-headshot.jpg",
-          "width": 1200,
-          "height": 807,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/hybrid-ai-through-data-space-time-and-industrial-applications-beyond-limits-scores-113m-series-c-to-scale-up/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hybrid-ai-through-data-space-time-and-industrial-applications-beyond-limits-scores-113m-series-c-to-scale-up/",
-      "publishedDateTime": "2020-09-22T04:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-sams-club-partners-with-seattle-startup-98point6-to-offer-customers-telehealth-service.md",
-      "title": "Sam’s Club partners with Seattle startup 98point6 to offer customers telehealth service",
-      "excerpt": "Sam's Club, a division of Walmart, is promoting Seattle startup 98point6 as a telehealth service for its customers. The grocery giant will offer virtual healthcare through 98point6, a",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/sams-club-partners-seattle-startup-98point6-offer-customers-telehealth-service/",
-      "originalUrl": "https://www.geekwire.com/2020/sams-club-partners-seattle-startup-98point6-offer-customers-telehealth-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/04/98point6_Homescreen_Lifestyle1-Landscape-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/sams-club-partners-seattle-startup-98point6-offer-customers-telehealth-service/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/sams-club-partners-seattle-startup-98point6-offer-customers-telehealth-service/amp/",
-      "publishedDateTime": "2020-09-22T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

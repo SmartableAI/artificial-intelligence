@@ -9,7 +9,7 @@ ampWebUrl: "https://www.business2community.com/mobile-apps/chatbot-app-developme
 cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/mobile-apps/chatbot-app-development-are-ai-based-chatbots-necessary-to-build-into-a-mobile-app-02353875/amp"
 type: article
 quality: 50
-heat: -1
+heat: 50
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 900
     height: 471
     isCached: true
-
-related:
-  - title: "Nine Common Mistakes Businesses Make When Using Chatbots"
-    excerpt: "Without proper insight into how AI-powered chatbots can achieve their goals, it's unlikely that businesses will employ them adequately."
-    publishedDateTime: 2020-10-09T17:22:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2020/10/09/nine-common-mistakes-businesses-make-when-using-chatbots/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2020/10/09/nine-common-mistakes-businesses-make-when-using-chatbots/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/10/09/nine-common-mistakes-businesses-make-when-using-chatbots/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 172
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f807b0eead21d7ff9456eee%2F0x0.jpg"
-        width: 1200
-        height: 580
-        isCached: true
 
 secured: "nnSYbcz0t9EW4mRDGEC1WNTR11UCMPsX02I9ElT+cbNw3L3mDZjmzp1upNYUwafy1KA9vnFqhfHLvJUnzkz5uRuCibNbkWvAuR8b/iwl1PoJ7BtHU2GgvbPOOOdI2f3I+vfBuBm+RyYEcwaYLeKqyxKjvlQTY7taxAVAKNFwrlsh/pX9LlfStv5MnJw1t2pNOsyyypvueGO8U/4T5twHx+059mGj695YYOsge0lUa86j86gRp0VKxujy3Kb4/aUH6ssiAjnry398recQkGWyxZ5WXRlKiDUWgHyRLgykO4/mpiJqNf2E34E0PxHNtG4uPnH/tqmXCzoKDOqDmRDaZgJcgtGMFxTv/unkDdrno14TUem7Mql/EPfWCwuB2jATxouQLiK+f25x/d6kfUMFsE4k7AQcLcFow7l+KZcfJYHvISEYlMpK69ZPUEuIKrzXtfDWA+QMOA22+A7BQYuNHyMKKVqQnTXhWbEf5CvlHzP0+L7wBXxVRZ4RLUEhw/DHpkL9OLZSLN7w89J2bZsiNQ==;kpC/BUTP7JvdMdUb3vmo9A=="
 ---

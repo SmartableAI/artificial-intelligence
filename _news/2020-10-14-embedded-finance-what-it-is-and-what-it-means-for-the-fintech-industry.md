@@ -33,20 +33,6 @@ related:
         width: 1024
         height: 1024
         isCached: true
-  - title: "Georgia State to Offer Graduate Certificates in AI Business Innovation, Disruptive Innovation and Entrepreneurship, and Fintech Innovation"
-    excerpt: "Georgia State University’s Robinson College of Business will admit new students to three stand-alone graduate certificate programs that address current and emerging market demand for innovation."
-    publishedDateTime: 2020-10-09T17:20:00Z
-    webUrl: "https://news.gsu.edu/2020/10/09/georgia-state-to-offer-graduate-certificates-in-ai-business-innovation-disruptive-innovation-and-entrepreneurship-and-fintech-innovation/"
-    type: article
-    provider:
-      name: Georgia State University
-      domain: gsu.edu
-    quality: 5
-    images:
-      - url: "https://news.gsu.edu/files/2014/09/disruptive-innovation-photo-1661x1125.jpg"
-        width: 1661
-        height: 1125
-        isCached: true
 
 secured: "fxc/R8y95qkzU1UUmslhPmABq8UWNww/wdqXyi355N8ZWP2nV2xs1tAUZio1BXRWT0KGquPVDHzeubByy/A3oHxuNDPZUpnaOPOvVvkO0KPiEouHcDyhnf3/IcZMnJkc/7h6snyspGwW94cGHpOGucFfkG56VCMbpSjoNFT98r9NTjd79/9d3ih/G/nPqghhj6qYRC1ryUwGRGY+VBuiENIbRL6uU98kmic1Jgz3XSQAnnEa34suZwM5RcfFIaaVOUESf2E8dMDClOxV0pGDKiqk5Tr1fq0NKA71mAZ5CgaLKYh8+R6eL+50Yvn9Oyvc/HAISEwtruL/raKw9PaG8drguaNy45wJB33NP+hZ2d4=;7ZGYr/GRYPwQDEWsCzff/A=="
 ---

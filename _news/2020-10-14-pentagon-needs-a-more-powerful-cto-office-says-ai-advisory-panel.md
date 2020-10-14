@@ -23,6 +23,22 @@ images:
     height: 1024
     isCached: true
 
+related:
+  - title: "AI Commission Recommends Powerful CTOs to Prep for Great Power Competition"
+    excerpt: "The National Security Commission on Artificial Intelligence offers 66 recommendations for out-innovating China."
+    publishedDateTime: 2020-10-13T20:55:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2020/10/ai-commission-recommends-powerful-ctos-prep-great-power-competition/169211/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 35
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2020/10/13/shutterstock_1218220324/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+
 secured: "WHeNM+bTP0OMHCX9zaq4ibm8eRttb63fAcwZdAV/jPqhDeIMZxaA+35zQcaGZ8YGCfE4g1zTq3HtMc1mKog9UgBEYPeWajIjp681bU5rUxPu0rD24thUBVKLAlOLJfNfTHpT3u0rVKVDV0YMzrJ95lii9M5hPwplqq8cjev0ERyE9TEwwh5cyYj6+IGKW94peUkbflLbjFbLF6jkN7dx/F3Y4/1vtaiI9sPXwVGJqhk3MFvZc1CqzwAvGO7HoE0rI5T13OEURarVo9LqIRU/ujd95yigkZcEiiga4jVx53X7YSUL1AHaUH/ESh/wdtdKZhwAxbUlvEdr3Q+SnmpNcjt4Y4KrIHSvnPSoduGJ8AQ=;bk2c5NHjDH0cbwCj8U5c4A=="
 ---
 
