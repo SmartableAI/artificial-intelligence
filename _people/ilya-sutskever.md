@@ -2,7 +2,7 @@
 name: "Ilya Sutskever"
 bio: "Co-founder and Chief Scientist of OpenAI. I spent three wonderful years as a Research Scientist at the Google Brain Team. Before that, I was a co-founder of DNNresearch. And before that, I was a postdoc in Stanford with Andrew Ng's group. And in the beginning, I was a student in the Machine Learning group of Toronto, working with Geoffrey Hinton."
 type: "profile"
-heat: 225
+heat: 173
 
 affiliation:
   name: openai.com
@@ -11,7 +11,7 @@ affiliation:
 twitter:
   username: ilyasut
   url: https://twitter.com/ilyasut
-  followers: 58860
+  followers: 58863
 
 googleScholar:
   url: https://scholar.google.com/citations?user=x04W_mMAAAAJ
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Ilya Sutskever"
 
-secured: "QGGMyO93bT7zTRwx8LaoEDiusl3fhY+hjl7XQCOw2vKHuLzvaJ7xNhazHWSnsIH9sJvklUJeyQGogljGAsXHYRfxW4ozRYttOReQCrg8s+OQI1KNOFEKBkp0Wz4AYCHQo40b4hksFt7iQUtWB9Q2H0wwahOYCe5VkqCPLJhQ8mQUz4ofUEEQPb0Hu3a7XSCPFCnV/x9OUl1toulejDIbXF2ZHV1wdhp0yZIc2IUQ2dXmGLfl8juBCcuTThz84y9eQeZGDOlFmI8QLYSQF79kDDIvN4KzwP3fyklxya5FLFksHZ5tMdwGQ0H7ADb3dFqX76oQj/FlhxfuswykdXEfjQZtSmzWF0CeT1HQ7OHLf3nLhUM4fyOeoE2eyn/vD3xdRyHaL8BLzBHelRqqsdeFmGL7C3/Kg0kpQm+Vii1C/uw=;iuJGeT6KSCTBKbXAYUgh8A=="
+secured: "OpVazdsYhGMeiqtqAvYDZQKehOEBFbgcLbjpCmnKyGjUXpqnfaqOeJXHkQQdrQ/yt30kIBEwh9qXLTmJvTSjlnSEt04nmYywt5vrYEDyPOTb9nxRhD5zcdLlubbdidW/e0X+hnLg4AMNtK+9pChPUG0mv6Hae2jrXdk59y+3/UJ79S7GD34HXkjnlEVtNCBejnUU4Q4b2Ea6DfDG625991+A+LWCWQ8aAZT8cTAjDK5tvMR6MEnW4bcBEz+WlBLYcSLMNYQwc3Id/7C4hx/pqkiKOR0nkcO/g2Bmv/MjVvEccgzb2golvcIMkwhBbzEn9Mol2SzdsZzwSZtfzR9YCY1onM/aJeMGPJUkI3XvNu5wK6wZqe4sxAGdARQqZVf9ZhwhkWM752AWBssvdaaZBwNTSglLniJEJBzV2BuPbhg=;iv9OYjlULmNyOwpfigSqaw=="
 ---
 
