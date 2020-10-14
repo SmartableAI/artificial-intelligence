@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-10-01-at-2473-cagr-3d-sensor-market-size-to-surpass-usd-722175-million-by-2025.md",
+      "title": "At 24.73% CAGR, 3D Sensor Market Size to Surpass USD 7221.75 Million by 2025",
+      "excerpt": "Global 3D Sensor Market is valued at USD 1537.61 Million in 2018 and expected to reach USD 7221.75 Million by 2025 with",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/at-2473-cagr-3d-sensor-market-size-to-surpass-usd-722175-million-by-2025-2020-09-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/at-2473-cagr-3d-sensor-market-size-to-surpass-usd-722175-million-by-2025-2020-09-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-30T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-01-facial-recognition-contract-extension-reopens-rifts-among-detroit-police-commissioners.md",
       "title": "Facial recognition contract extension reopens rifts among Detroit police commissioners",
       "excerpt": "Facial recognition technology, a contentious topic in Detroit that has drawn national headlines, continues to garner attention and spark debate. The Detroit City Council Tuesday voted 6-3 to extend a $220,000 contract with law enforcement technology ...",
@@ -1169,49 +1221,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-intelemarks-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion.md",
-      "title": "Intelemark's New Microsoft Azure Cloud-Based AI Proprietary Software Fuels International Expansion",
-      "excerpt": "Intelemark, a national leader in the lead generation/appointment setting industry for more than 20 years, is pleased to announce the successful implementation of our third generation cloud-based proprietary software.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanzen.net/nachricht/aktien/intelemark-s-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion-9346878",
-      "originalUrl": "https://www.finanzen.net/nachricht/aktien/intelemark-s-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion-9346878",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanzen",
-        "domain": "finanzen.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

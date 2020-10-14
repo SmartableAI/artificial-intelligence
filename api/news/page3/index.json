@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-12-can-robots-help-people-with-their-mental-health.md",
+      "title": "Can Robots Help People With Their Mental Health?",
+      "excerpt": "A study found that most think robots can support their mental health better than people, but experts say there are crucial human qualities technology can’t replicate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/qj4g3m/robot-ai-tech-mental-health-therapist-psychiatry-anxiety-depression-treatment",
+      "originalUrl": "https://www.vice.com/en/article/qj4g3m/robot-ai-tech-mental-health-therapist-psychiatry-anxiety-depression-treatment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com//articles/5f83e97aaac519009b0749a8/lede/1602481457528-photos-hobby-jibmsms4ka-unsplash.jpeg?crop=1xw:0.7805xh;0xw,0.1098xh",
+          "width": 4468,
+          "height": 2510,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en_us/article/qj4g3m/robot-ai-tech-mental-health-therapist-psychiatry-anxiety-depression-treatment",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/qj4g3m/robot-ai-tech-mental-health-therapist-psychiatry-anxiety-depression-treatment",
+      "publishedDateTime": "2020-10-12T01:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-10-12-can-facial-recognition-tech-boost-asias-biometric-acceptance.md",
       "title": "Can facial recognition tech boost Asia’s biometric acceptance?",
       "excerpt": "Biometric facial recognition technology is becoming increasingly accepted, including in Southeast Asia where it has shown potential.",
@@ -306,7 +359,7 @@
       "originalUrl": "https://www.techspot.com/news/87053-ibm-set-launch-new-cloud-computing-company-end.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -357,7 +410,7 @@
       "originalUrl": "https://www.reuters.com/article/uk-argentina-rights/rights-group-blasts-argentina-for-using-face-recognition-tech-on-kids-idUKKBN26U208",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -388,49 +441,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-face-recognition-tool-reunites-up-boy-with-parents-after-5-years.md",
-      "title": "Face recognition tool reunites UP boy with parents after 5 years",
-      "excerpt": "Hyderabad: A 13-year-old autistic boy who went missing from near his house in Uttar Pradesh five years ago was traced to a Child Welfare Home in Assam.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/hyderabad/face-recognition-tool-reunites-up-boy-with-parents-after-5-years/articleshow/78582144.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/hyderabad/face-recognition-tool-reunites-up-boy-with-parents-after-5-years/articleshow/78582144.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/hyderabad/face-recognition-tool-reunites-up-boy-with-parents-after-5-years/amp_articleshow/78582144.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/face-recognition-tool-reunites-up-boy-with-parents-after-5-years/amp_articleshow/78582144.cms",
-      "publishedDateTime": "2020-10-09T15:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -846,7 +856,7 @@
       "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=11686",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {

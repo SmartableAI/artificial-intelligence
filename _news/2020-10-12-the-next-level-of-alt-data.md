@@ -100,6 +100,20 @@ related:
         width: 1280
         height: 988
         isCached: true
+  - title: "Exploring the benefits of AI and machine learning"
+    excerpt: "Learning Objectives Artificial intelligence (AI) and machine learning (ML) are being used more by manufacturers as they realize their benefi"
+    publishedDateTime: 2020-10-14T07:06:00Z
+    webUrl: "https://www.controleng.com/articles/exploring-the-benefits-of-ai-and-machine-learning/"
+    type: article
+    provider:
+      name: Control Engineering
+      domain: controleng.com
+    quality: 54
+    images:
+      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2020/10/Capture2.png"
+        width: 645
+        height: 350
+        isCached: true
   - title: "Tyto Care Launches the Next Generation of Telehealth with an AI-Powered Diagnostic Support Solution"
     excerpt: "Tyto Care, the healthcare industry’s first all-in-one modular device and examination platform for AI-powered, on-demand, remote medical exams, today announced its AI-powered diagnostic support solution,"
     publishedDateTime: 2020-10-13T19:30:00Z

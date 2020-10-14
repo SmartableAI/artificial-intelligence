@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26U23Z"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26U23Z"
 type: article
 quality: 101
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 69
-  - title: "Buenos Aires is using facial recognition system that tracks child suspects, rights group says"
-    excerpt: "The country has made public the warrants of children wanted for alleged crimes, in violation of international law, according to Human Rights Watch."
-    publishedDateTime: 2020-10-09T13:43:00Z
-    webUrl: "https://www.washingtonpost.com/world/2020/10/09/argentina-facial-recognition-juvenile-suspects/"
-    ampWebUrl: "https://www.washingtonpost.com/world/2020/10/09/argentina-facial-recognition-juvenile-suspects/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/2020/10/09/argentina-facial-recognition-juvenile-suspects/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 63
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PFIWNYXZEQI6VBPXLFARRCUYZU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Face recognition tech reunites missing boy with parents after 5 years"
     excerpt: "A missing boy from India’s Uttar Pradesh was reunited with his parents after five years with the help of face recognition technology. 13-year-old Som Soni, a resident of Handia in Allahabad, had been missing since July 14,"
     publishedDateTime: 2020-10-10T03:22:00Z

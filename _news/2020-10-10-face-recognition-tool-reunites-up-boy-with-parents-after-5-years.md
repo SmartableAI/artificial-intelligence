@@ -9,8 +9,8 @@ ampWebUrl: "https://m.timesofindia.com/city/hyderabad/face-recognition-tool-reun
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/face-recognition-tool-reunites-up-boy-with-parents-after-5-years/amp_articleshow/78582144.cms"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: India Times
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Face recognition tool reunites Uttar Pradesh boy with parents after 5 years"
-    excerpt: "Hyderabad: Telangana State police's face recognition tool 'Darpan' has helped reunite a missing boy from Uttar Pradesh with his parents after five years. Som Soni, a resident of Handia in ..."
-    publishedDateTime: 2020-10-09T14:24:00Z
-    webUrl: "https://gulfnews.com/technology/face-recognition-tool-reunites-uttar-pradesh-boy-with-parents-after-5-years-1.1602246616056"
-    ampWebUrl: "https://gulfnews.com/amp/technology/face-recognition-tool-reunites-uttar-pradesh-boy-with-parents-after-5-years-1.1602246616056"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/face-recognition-tool-reunites-uttar-pradesh-boy-with-parents-after-5-years-1.1602246616056"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 57
-    images:
-      - url: "https://imagevars.gulfnews.com/2020/10/09/20201009-darpan_1750d5c11df_large.jpg"
-        width: 750
-        height: 563
-        isCached: true
   - title: "Boy missing from UP found in Assam after 5 years with help of Telangana Police's facial recognition software"
     excerpt: "The Golapara Police of Assam spotted Sam, and admitted him to the local child welfare centre Naveen S GarewalTribune News ServiceHyderabad, October 9"
     publishedDateTime: 2020-10-09T15:05:00Z

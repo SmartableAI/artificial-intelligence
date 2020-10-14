@@ -45,22 +45,6 @@ related:
         width: 4468
         height: 2510
         isCached: true
-  - title: "What The Future Of Work Means For Our Mental Health"
-    excerpt: "Are you struggling with your wellness? Here are three ways the future of work will directly impact mental health."
-    publishedDateTime: 2020-10-09T14:16:00Z
-    webUrl: "https://www.forbes.com/sites/ashleystahl/2020/10/09/what-the-future-of-work-means-for-our-mental-health/"
-    ampWebUrl: "https://www.forbes.com/sites/ashleystahl/2020/10/09/what-the-future-of-work-means-for-our-mental-health/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ashleystahl/2020/10/09/what-the-future-of-work-means-for-our-mental-health/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7b6abcdd10f3a9923bd091%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "TgZtBMttBPOTsVrkw3BUZOCWGKBHrZYPwcVpHKgC634nXuPphm73szInbdRkXkFuPdZYuO2Ru0ZMT3BcMlXDJJBcVAhuPA4ua/fIfv/my8xa9Gomf4ANkfKTR2EGwVSGiI2Z/oxDeTazkSl8vAMcXQCpw6kCNWyLbISM3wwrOemDWp1jfrZ1vHEgVpvRzccqbytnTWYptHFfKBjxM/+zXg1bHrWqUB6/fRXxidUKy319l6UqaTsBx8sxfDehdAxgroMZ6Nbo8O77neGoZvlB2JTWr8duJbZp2AaWw7cx1ddqD7tK0sH3B/aOJpxNQdHYxT4iSZjdTpUdY2dVdo+RDqiO64l0/Eu+t8JhqlrUF0OZZhf+lVX+HNOwERNWWsuTB2eDHpQ6cGM0lI5kh+iiiYhzZlbHKf+nfqD/8z0X5+KpGFlvNgxRP6RELA2q+HGkE2qXGGF7WCggmQVTN1U1YmxxxWjTDNtFq56GoTZDpuCNB9TNem6tPNaF3bIzy8y2fUOSz6yuD/9O2+raLPHiEg==;sFROLYDwSrRj8IEBL048lQ=="
 ---

@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Metaliquid and Minerva Networks Deliver AI-Driven Highlights Creator Solution"
-excerpt: "New solution used to analyze the Vice Presidential Debate and fed into Minerva’s Smart Highlights technology for a custom highlights reel."
-publishedDateTime: 2020-10-13T20:37:00Z
-originalUrl: "https://www.pr.com/press-release/823294"
-webUrl: "https://www.pr.com/press-release/823294"
+excerpt: "New solution used to analyze the Vice Presidential Debate and fed into Minerva’s Smart Highlights technology for a custom highlights reel. Milan, Italy, October 13, 2020 -- ( PR.com )-- Metaliquid, the EU leading video recognition and content intelligence company,"
+publishedDateTime: 2020-10-13T20:03:00Z
+originalUrl: "https://apnews.com/press-release/prcom/technology-business-corporate-news-products-and-services-television-industry-eb7964a8d72963ac0e85598a1be9ee1d"
+webUrl: "https://apnews.com/press-release/prcom/technology-business-corporate-news-products-and-services-television-industry-eb7964a8d72963ac0e85598a1be9ee1d"
 type: article
-quality: 14
-heat: 14
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: PR
-  domain: pr.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
-secured: "yPONcEAvYSR8RTDRQx2Co0QLSmhEaAA+QoFlRJ11X7T8XT9Jk94ywkoHHlKU1VhV1cLOnuY67yIlf4JNNeI/gJCZ+5rBCDSvtXQ5smCmeqFPDNy4sJDQfdhZSmZ6uyFfToEoufDfjUOpM9fP4ED5kEOF5edU/IhrjYSEtfNIALZ8tn9FQ1rpIj8kcIn68JyOkeuUJudnQbCqs/AwjYVZwSfdzTVhcigOL8I62otD4f/u5yPT+9OqL/Wm8s2i2dWDwfdFHLE6vdE59kQabGO6AwPZragWDhfM5Qum/1x3u6LyPlaNgrsA4t4jj2V4Ue9uHAg2Bs9Kgv9zmF7upDd5q3Viv8QEa9urNHyA2HU4NcY=;LD45KS69vpNrtkAmZ1bzWQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "qTjgGLrY2J2xQ72mWJcvmE1CXqowCVmGJCmfpxC3h7xgyoqScfAcgzvUbsyp5wt+D4ID6JN3noP0LwWHyZeo9cw6RFKOFuJewmGsgI9y/bWG1EPFNGSX8j9RentLJ4cfcbDsk9Z2rWpqUPyWvE7BrVUN0DJFE0HvftYkcLzRW202tPW28F86TPae7TszQLnPpm+1W7MKKiVgeXIXqyDv2dn8S9WaMU9zoWUB9eC0/5XSlGMt7C0xqZZcfD8d35YiNnRqCV+DKUo7B5VLSnnMO7tq7hfpzIunp646KizaEs+lSRJUI1GuYkIroUt4Q31IKA93KTYLEeWORRgpTKcojFHp9sEqZBrU6dC4byN7mHA=;edd3ru2l267FGS6bS+Ns2g=="
 ---
 

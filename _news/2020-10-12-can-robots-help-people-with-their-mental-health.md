@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en_us/article/qj4g3m/robot-ai-tech-mental-h
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/qj4g3m/robot-ai-tech-mental-health-therapist-psychiatry-anxiety-depression-treatment"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "What The Future Of Work Means For Our Mental Health"
-    excerpt: "Are you struggling with your wellness? Here are three ways the future of work will directly impact mental health."
-    publishedDateTime: 2020-10-09T14:16:00Z
-    webUrl: "https://www.forbes.com/sites/ashleystahl/2020/10/09/what-the-future-of-work-means-for-our-mental-health/"
-    ampWebUrl: "https://www.forbes.com/sites/ashleystahl/2020/10/09/what-the-future-of-work-means-for-our-mental-health/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ashleystahl/2020/10/09/what-the-future-of-work-means-for-our-mental-health/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7b6abcdd10f3a9923bd091%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "DIGITAL HEALTH STARTUPS TO WATCH: An inside look at the top US startups transforming healthcare through AI, telehealth, and medical devices"
     excerpt: "Insider Intelligence examines the top five US startups in the areas of digital health with the most number of deals in the first half of 2020."
     publishedDateTime: 2020-10-12T18:40:00Z

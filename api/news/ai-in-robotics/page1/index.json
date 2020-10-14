@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-14-how-robotics-technology-is-beneficial-in-a-modern-warehouse.md",
+      "title": "How robotics technology is beneficial in a modern warehouse",
+      "excerpt": "The 6 River Systems platform complements Expeditors’ core technology strategy of focusing on investments that deliver value to our customers and our operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.stattimes.com/news/how-robotics-technology-is-beneficial-in-a-modern-warehouse-logistics/",
+      "originalUrl": "https://www.stattimes.com/news/how-robotics-technology-is-beneficial-in-a-modern-warehouse-logistics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.stattimes.com/statbackend/assets/uploads/how-robotics-technology-is-beneficial-in-a-modern-warehouse.jpg",
+          "width": 442,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.stattimes.com/news/how-robotics-technology-is-beneficial-in-a-modern-warehouse-logistics/amp/",
+      "cdnAmpWebUrl": "https://www-stattimes-com.cdn.ampproject.org/c/s/www.stattimes.com/news/how-robotics-technology-is-beneficial-in-a-modern-warehouse-logistics/amp/",
+      "publishedDateTime": "2020-10-13T23:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "air cargo",
+        "domain": "stattimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-robotics-a-game-changer-for-businesses-in-post-covid-19-india.md",
       "title": "Robotics, a Game Changer for Businesses in Post COVID-19 India",
       "excerpt": "Robots are moving from controlled environments to uncontrolled environments and from select industries to every industry faster than we could have expected. Tha",
@@ -245,7 +288,7 @@
       "originalUrl": "https://www.vice.com/en/article/qj4g3m/robot-ai-tech-mental-health-therapist-psychiatry-anxiety-depression-treatment",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -394,7 +437,7 @@
       "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=11686",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -1394,49 +1437,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-shares-up-13.md",
-      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) Shares Up 1.3%",
-      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) shot up 1.3% during trading on Thursday . The stock traded as high as $39.44 and last traded at $39.44. 11,825 shares were traded during mid-day trading,",
-      "sourceUrl": null,
-      "webUrl": "https://theenterpriseleader.com/2020/10/02/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-shares-up-1-3.html",
-      "originalUrl": "https://theenterpriseleader.com/2020/10/02/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-shares-up-1-3.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theenterpriseleader.com/2020/10/02/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-shares-up-1-3.html/amp",
-      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2020/10/02/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-shares-up-1-3.html/amp",
-      "publishedDateTime": "2020-10-02T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theenterpriseleader.com",
-        "domain": "theenterpriseleader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

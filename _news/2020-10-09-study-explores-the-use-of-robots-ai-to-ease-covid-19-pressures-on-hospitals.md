@@ -9,7 +9,7 @@ ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=11686"
 cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11686"
 type: article
 quality: 71
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
         width: 1000
         height: 457
         isCached: true
+  - title: "Compunnel Digital Launches Complete AI COVID-19 Response System; The Technology Uses Sophisticated Machine Learning to Monitor for Safety Compliance"
+    excerpt: "Compunnel Digital, a leading global IT and consulting company, has launched the first complete safety compliance monitoring and COVID-19 response system for the enterprise. The program was created in partnership with Dori."
+    publishedDateTime: 2020-10-14T07:34:00Z
+    webUrl: "https://www.pr.com/press-release/823135"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 0
 
 secured: "TEZW+cdxPbDivCRAE8Py10+BXbOnOtNbGTromewbKkQwbBulHVZEAcjx6iEqDA3N7nS4KDL30Au4CYeAW0pRzsB9N1QFcPgvtBWTYWDzBq5Qm0ZPrG0Rj+Z+ZvNs3L4MlrX9PVKwCMiNXiMOpFe6Eo3xmskj0IKI+gzZ3zWJEefxznZllw2P/5jF8K8zp8vMHIIw4LzcEKvfwcvHwrF/1Wh+htNVEsDCHA0aESkt9On1qhp6K2ASigVY2yb4PgW66IfkbBm37e//Hmud3bDCiCGq6o+rVfzZ9wCdwHhzJ9aqonxZrjDdlbPehUMwze5YfJB+VJwmYkDornD7UDW+287aRnKhWdExCUFjKhaXm7A=;5gx7tUG1MUyTO27vgqshpQ=="
 ---

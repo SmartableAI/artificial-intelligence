@@ -2,6 +2,58 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-09-26-follow-the-leader-a-shortcut-to-autonomous-trucking.md",
+      "title": "Follow-the-leader: A shortcut to autonomous trucking",
+      "excerpt": "The order will equip 1,120 trucks with Locomation's convoy technology, which enables driverless trucks ... group of specialists in robotics and artificial intelligence along with trucking industry ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/follow-the-leader-a-shortcut-to-autonomous-trucking/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/follow-the-leader-a-shortcut-to-autonomous-trucking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/10/02/e94a8b84-1a90-4769-9cf5-e4ca9eada4a6/thumbnail/1200x675/c709c06b21f8abf2c522b622f5bdb8d9/after-successful-trial-autonomous-trucks-5f734947156d30063519746a-1-oct-02-2020-17-33-40-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/follow-the-leader-a-shortcut-to-autonomous-trucking/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/follow-the-leader-a-shortcut-to-autonomous-trucking/",
+      "publishedDateTime": "2020-09-25T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-26-profiting-from-the-rise-of-robotics.md",
       "title": "Profiting from the Rise of Robotics",
       "excerpt": "O f the many hyper-growth themes emerging today, artificial intelligence (AI) and robotics are among those sure to have the most profound impact on day-to-day life. With that stat",
@@ -1102,57 +1154,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-spectrum-labs-raises-10m-for-its-ai-based-platform-to-combat-online-toxicity.md",
-      "title": "Spectrum Labs raises $10M for its AI-based platform to combat online toxicity",
-      "excerpt": "With the U.S. presidential election now 40 days away, all eyes are focused on how online conversations, in conjunction with other hallmarks of online life like viral videos, news clips and misleading ads,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/24/spectrum-labs-raises-10m-for-its-ai-based-platform-to-combat-online-toxicity/",
-      "originalUrl": "https://techcrunch.com/2020/09/24/spectrum-labs-raises-10m-for-its-ai-based-platform-to-combat-online-toxicity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1050765184.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/24/spectrum-labs-raises-10m-for-its-ai-based-platform-to-combat-online-toxicity/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/24/spectrum-labs-raises-10m-for-its-ai-based-platform-to-combat-online-toxicity/amp/",
-      "publishedDateTime": "2020-09-24T17:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,50 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-09-29-pure-vector-engines-get-gpu-math-help-for-next-earth-simulator.md",
+      "title": "Pure Vector Engines Get GPU Math Help for Next Earth Simulator",
+      "excerpt": "For those who have followed the evolution of supercomputing over the years, the Earth Simulator series of systems has represented the state of the art in",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2020/09/28/pure-vector-engines-get-gpu-math-help-for-next-earth-simulator/",
+      "originalUrl": "https://www.nextplatform.com/2020/09/28/pure-vector-engines-get-gpu-math-help-for-next-earth-simulator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/shutterstock_787937605-scaled.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2020/09/28/pure-vector-engines-get-gpu-math-help-for-next-earth-simulator/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/09/28/pure-vector-engines-get-gpu-math-help-for-next-earth-simulator/amp/",
+      "publishedDateTime": "2020-09-28T13:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-take-a-look-at-this-new-drone-on-demand-mobile-app.md",
       "title": "Take A Look At This New Drone On Demand Mobile App",
       "excerpt": "Aquiline Drones is bringing a “Drone-on-Demand” (DoD) mobile app to the market. The DoD app will be accessible through all mobile devices, including smartphones and tablets. According to the company,",
@@ -1133,49 +1177,6 @@
       "provider": {
         "name": "modernreaders.com",
         "domain": "modernreaders.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-bear-robotics-and-softbank-robotics-group-announce-new-food-service-robot.md",
-      "title": "Bear Robotics and SoftBank Robotics Group Announce New Food Service Robot",
-      "excerpt": "Bear Robotics, a robotics and artificial intelligence company, and SoftBank Robotics Group, a leading robotics manufacturer and solutions provider, have collaborated to bring a new robot named Servi to the food service and hospitality field.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/corporate-news-artificial-intelligence-technology-business-north-america-144b7c6660a14e33ac09029d04417d88",
-      "originalUrl": "https://apnews.com/press-release/business-wire/corporate-news-artificial-intelligence-technology-business-north-america-144b7c6660a14e33ac09029d04417d88",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-28T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-09-conduent-teams-up-with-buoy-health-and-ibm-watson-health-to-help-its-clients-manage-covid-19-related-workplace-challenges.md",
+      "title": "Conduent Teams Up with Buoy Health and IBM Watson Health to Help its Clients Manage COVID-19 Related Workplace Challenges",
+      "excerpt": "Conduent Incorporated (Nasdaq: CNDT), a business process services and solutions company, today announced a collaboration with Buoy Health and IBM Watson Health to integrate both companies' cutting edge technologies and timely health care resources onto Conduent's Life@Work platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/conduent-teams-up-with-buoy-health-and-ibm-watson-health-to-help-its-clients-manage-covid-19-related-workplace-challenges-2020-09-09-81974627",
+      "originalUrl": "https://www.marketwatch.com/press-release/conduent-teams-up-with-buoy-health-and-ibm-watson-health-to-help-its-clients-manage-covid-19-related-workplace-challenges-2020-09-09-81974627",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-09T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-08-a-peek-behind-the-curtain-as-ibm-watson-media-flexes-its-ai-muscle-at-the-us-open.md",
       "title": "A peek behind the curtain as IBM Watson Media flexes its AI muscle at the US Open",
       "excerpt": "Dubbed IBM Watson Media, this new tech uses artificial intelligence and machine learning along with a combination of on-site and cloud-based computing to automatically generate compelling ...",

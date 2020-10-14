@@ -55,6 +55,15 @@ related:
         width: 1000
         height: 457
         isCached: true
+  - title: "Compunnel Digital Launches Complete AI COVID-19 Response System; The Technology Uses Sophisticated Machine Learning to Monitor for Safety Compliance"
+    excerpt: "Compunnel Digital, a leading global IT and consulting company, has launched the first complete safety compliance monitoring and COVID-19 response system for the enterprise. The program was created in partnership with Dori."
+    publishedDateTime: 2020-10-14T07:34:00Z
+    webUrl: "https://www.pr.com/press-release/823135"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 0
 
 secured: "IY6ggKFbjDqwyIFisTtmAcGonSs7zoZ2c1c35vzw2OX6yVBxMnHpqfPm447s9ot1w3Wn3Zk57oTXu+Oc68ClXrfjq48H42OTNglptuLKGW6lf9p7TYDoEqbwzCEFbVosnoHUQyvifFEjwK5oQj21qgj4hlwHUngKyf3+qjzPmmg5sLspOs/StF4YyGRm6Q/1nzt2XZskYHf0dPZshC3nC9k2UXWZ/rB4LKLkHVEAPAJZzUvNA6r9nFtq9cuWRtM7sQxiS98HKMovE+l6hstN43CTJWyQBI5GlztrbASmW2wB0MHWKA5GaIEcYIsdrO66SB3bALYhwI1P3Yslt7IY3fz6YkNReL+Ah31R6r8OyNg=;h/lUS+sj7faEFCE+nWMN9w=="
 ---

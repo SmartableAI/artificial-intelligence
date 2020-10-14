@@ -1,29 +1,22 @@
 ---
 category: news
 title: "Ricoh and IBM to deliver expanded services to customers via hybrid cloud"
-excerpt: "Ricoh USA, Inc. and IBM today announced a significant expansion of their existing collaboration to help enable delivery of Ricoh's innovative information management"
-publishedDateTime: 2020-10-06T13:52:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ricoh-and-ibm-to-deliver-expanded-services-to-customers-via-hybrid-cloud/article_73822d6d-e8a0-5fcc-8490-75983b444305.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ricoh-and-ibm-to-deliver-expanded-services-to-customers-via-hybrid-cloud/article_73822d6d-e8a0-5fcc-8490-75983b444305.html"
+excerpt: "\"For everything from Watson AI integration to running everyday applications, IBM Cloud does so much for so many businesses around the world. We are in constant conversation with our partners ..."
+publishedDateTime: 2020-10-06T09:31:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/10/n17800929/ricoh-and-ibm-to-deliver-expanded-services-to-customers-via-hybrid-cloud"
+webUrl: "https://www.benzinga.com/pressreleases/20/10/n17800929/ricoh-and-ibm-to-deliver-expanded-services-to-customers-via-hybrid-cloud"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17800929"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17800929"
 type: article
-quality: 23
-heat: 23
-published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "hwyrndm0xljeeUKa04GAocDMZnA6WwGzDopHmqBKFr9r9MaI+ou0Q78S/Nnx6OJ4Z9xaU8e7JNn4hj31KGihtvskROxtfuJ1tL7thrjsvy98tQh584/pCSv+Sk4cVQIqfBd8r1HpGVGixSG3xuCirtKSuMw3mFK49sYIKomDorG/qJDH1A+kPCSj2ZjO/j+T5YjC1GkEXBLBwAaLMrvoKnp1K8DYJ2pEsfnWIv4/H09UXeNIEfFuUp2cGCH/+JxSSMp7ZY5+dNs9Xu1iw7VXp2wczRP8zE2tLRqnxG3ZYiP4B8mVU8HJgCIb2Ep7K2usa/aUh5SS+mQkHx8chRgeUz8zswrlnuTqOmacOT7tGeQ=;D/CowtcfNEB20MSffD+Xeg=="
+secured: "hH5teJ3Xz/Xah2ypTYedVl1Qv43O06pM95IW4ejx1A6EvFpsbRxeWIpqApTUftp07W0G1zYJ5A7kP8G05r639Z27U4dNa/AHt9fIyrFhnVi7VJtrnPrLQJT/8+9TbovIQpb8A7WupHUkvt/CYSPtoOE+Ull5tBnRJvSYoT1tLvNmpFpgcbYy3EDaZLsJ0TKpllrUXjQO257qmsAd9rREbDA373yeSlE+9Otj1AbasP2CGADi+fzEPactGU8BsNGgQMDBISNsC7I8I3ijVA5olzzbc1YAKcKgI73vPT4t0GA8h92DcJ2A5c1XTm+EFCOjyt7hAtG+DdFZebq2RK/FBWrzgWnpig1qfSN1B7JkLVI=;n5e62lSWDO5MrS3mPeG4sg=="
 ---
 

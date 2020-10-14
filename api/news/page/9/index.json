@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-10-05-artificial-intelligence-ai-chips-market-will-showcase-positive-impact-during-2020-2024-increasing-adoption-of-ai-chips-in-data-centers-to.md",
+      "title": "Artificial Intelligence (AI) Chips Market Will Showcase Positive Impact During 2020-2024 | Increasing Adoption of AI Chips in Data Centers to Boost the Market Growth | Technavio",
+      "excerpt": "Technavio has been monitoring the artificial intelligence (AI) chips market and it is poised to grow by USD 54.03 bn during 2020-2024, progressing at a CAGR of over 42% during the forecast period. The report offers an up-to-date analysis regarding the current market scenario,",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201005005351/en/Artificial-Intelligence-AI-Chips-Market-Will-Showcase-Positive-Impact-During-2020-2024-Increasing-Adoption-of-AI-Chips-in-Data-Centers-to-Boost-the-Market-Growth-Technavio",
+      "originalUrl": "https://www.businesswire.com/news/home/20201005005351/en/Artificial-Intelligence-AI-Chips-Market-Will-Showcase-Positive-Impact-During-2020-2024-Increasing-Adoption-of-AI-Chips-in-Data-Centers-to-Boost-the-Market-Growth-Technavio",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201005005351/en/827284/23/IRTNTR41328.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-05T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-pediatric-diabetes-covid-19-and-artificial-intelligence-ibm-watson-supports-families-during-pandemic-shutdown.md",
       "title": "Pediatric Diabetes, COVID-19 and Artificial Intelligence: IBM Watson supports families during pandemic shutdown",
       "excerpt": "IBM Canada ProBono volunteer program delivers a virtual agent using Watson Assistant for Quebec's Diabetic Children Foundation",
@@ -1141,58 +1184,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-landmark-court-decision-says-robots-cant-be-inventors-but-the-fight-isnt-over.md",
-      "title": "Landmark court decision says robots can’t be inventors. But the fight isn’t over",
-      "excerpt": "The United Kingdom's highest court tossed out a case that would've established that machines can be creative and win patents for their inventions",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/features/court-decides-robots-machines-cant-be-inventors/",
-      "originalUrl": "https://www.digitaltrends.com/features/court-decides-robots-machines-cant-be-inventors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/imagecomposite_aibrain_200723-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/features/court-decides-robots-machines-cant-be-inventors/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/court-decides-robots-machines-cant-be-inventors/?amp",
-      "publishedDateTime": "2020-10-02T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

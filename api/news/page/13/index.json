@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-09-30-intelemarks-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion.md",
+      "title": "Intelemark's New Microsoft Azure Cloud-Based AI Proprietary Software Fuels International Expansion",
+      "excerpt": "Intelemark, a national leader in the lead generation/appointment setting industry for more than 20 years, is pleased to announce the successful implementation of our third generation cloud-based proprietary software.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanzen.net/nachricht/aktien/intelemark-s-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion-9346878",
+      "originalUrl": "https://www.finanzen.net/nachricht/aktien/intelemark-s-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion-9346878",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-30T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanzen",
+        "domain": "finanzen.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-artificial-intelligence-used-to-predict-loneliness-in-senior-citizens.md",
       "title": "Artificial Intelligence Used To Predict Loneliness In Senior Citizens",
       "excerpt": "Publishing in the American Journal of Psychiatry, the researchers were able to harness natural language processing (NLP) and machine learning to classify the sentiment and emotions of speech.",
@@ -1131,58 +1174,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-examsofts-remote-bar-exam-sparks-privacy-and-facial-recognition-concerns.md",
-      "title": "ExamSoft’s remote bar exam sparks privacy and facial recognition concerns",
-      "excerpt": "To administer bar exams in 20 different states next week, ExamSoft is using facial recognition and collecting the biometric data of legal professionals.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/29/examsofts-remote-bar-exam-sparks-privacy-and-facial-recognition-concerns/",
-      "originalUrl": "https://venturebeat.com/2020/09/29/examsofts-remote-bar-exam-sparks-privacy-and-facial-recognition-concerns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/kiana-caton.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/29/examsofts-remote-bar-exam-sparks-privacy-and-facial-recognition-concerns/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/29/examsofts-remote-bar-exam-sparks-privacy-and-facial-recognition-concerns/amp/",
-      "publishedDateTime": "2020-09-29T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

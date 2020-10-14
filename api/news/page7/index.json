@@ -848,6 +848,40 @@
       ]
     },
     {
+      "path": "_news/2020-10-06-ricoh-and-ibm-to-deliver-expanded-services-to-customers-via-hybrid-cloud.md",
+      "title": "Ricoh and IBM to deliver expanded services to customers via hybrid cloud",
+      "excerpt": "\"For everything from Watson AI integration to running everyday applications, IBM Cloud does so much for so many businesses around the world. We are in constant conversation with our partners ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/10/n17800929/ricoh-and-ibm-to-deliver-expanded-services-to-customers-via-hybrid-cloud",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/n17800929/ricoh-and-ibm-to-deliver-expanded-services-to-customers-via-hybrid-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17800929",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17800929",
+      "publishedDateTime": "2020-10-06T02:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-this-ai-startup-raised-15-million-to-help-patients-transcribe-doctor-appointments.md",
       "title": "This AI Startup Raised $15 Million To Help Patients Transcribe Doctor Appointments",
       "excerpt": "Technology has this potential to help so many more people than I could ever see in my weekly clinic,” says Abridge cofounder and CEO Dr. Shiv Rao, 41, a cardiologist who still occasionally sees patients.",
@@ -1180,58 +1214,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-collaborating-with-ai-to-create-bach-like-compositions-in-aws-deepcomposer.md",
-      "title": "Collaborating with AI to create Bach-like compositions in AWS DeepComposer",
-      "excerpt": "AWS DeepComposer provides a creative and hands-on experience for learning generative AI and machine learning (ML). We recently launched the Edit melody feature, which allows you to add, remove, or edit specific notes, giving you full control of the pitch, length, and timing for each note. In this post,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/collaborating-with-ai-to-create-bach-like-compositions-in-aws-deepcomposer/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/collaborating-with-ai-to-create-bach-like-compositions-in-aws-deepcomposer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/02/3-.jpg",
-          "width": 900,
-          "height": 546,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-05T15:27:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

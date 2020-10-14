@@ -54,22 +54,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 69
-  - title: "Buenos Aires is using facial recognition system that tracks child suspects, rights group says"
-    excerpt: "The country has made public the warrants of children wanted for alleged crimes, in violation of international law, according to Human Rights Watch."
-    publishedDateTime: 2020-10-09T13:43:00Z
-    webUrl: "https://www.washingtonpost.com/world/2020/10/09/argentina-facial-recognition-juvenile-suspects/"
-    ampWebUrl: "https://www.washingtonpost.com/world/2020/10/09/argentina-facial-recognition-juvenile-suspects/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/2020/10/09/argentina-facial-recognition-juvenile-suspects/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 63
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PFIWNYXZEQI6VBPXLFARRCUYZU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
 
 secured: "CeoOsIycsmUB1peBOPIsRs0m0XYCAX/zxTVI+q5xG2qNK706RkiqIqBuUHx4rD+05j5ad0boa0lAJfrNvx90PxAuMSZkABTrsG63qobiX503AeHUePsenZqIlhwOKt+a5H6hKATr1OpLJyFL9GfvG9vcezVsIa9uzQwpso/uZ8nRgZDTmqGsAv4cTcrjrdwqwcYhDrcsNH5D1OuaraAuW/8Ezz5MuoBcM3okmcmL7r+nznQlRhtvOYtpvBrPOUNBIr+vgU20ffBPHUvO1PS63iqIZaFSTTImvvR3WwJCpCwdm+mRTNtCUqDIm5be7OxH+f1RPAuSH10qrEt0vEAdwCjVQKva8nU4M/ubq7NihGA=;BD/BVGWEKvOUihcAyd9uVA=="
 ---
