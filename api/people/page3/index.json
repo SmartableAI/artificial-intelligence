@@ -34,7 +34,8 @@
           "title": "Lev Dudko",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/lily-asquith.md",
@@ -67,7 +68,8 @@
           "title": "Lily Asquith",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/lotfi-a-zadeh.md",
@@ -102,7 +104,8 @@
           "title": "Lotfi A. Zadeh",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/luc-van-gool.md",
@@ -139,7 +142,8 @@
           "title": "Luc Van Gool",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/lydia-e-kavraki.md",
@@ -173,7 +177,8 @@
           "title": "Lydia E. Kavraki",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/maja-j-mataric.md",
@@ -212,7 +217,8 @@
           "title": "Maja J Mataric",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/maurizio-pierini.md",
@@ -245,7 +251,8 @@
           "title": "Maurizio Pierini",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/mherubahsan-161-15-726.md",
@@ -277,7 +284,8 @@
           "title": "Mherubahsan 161-15-726",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/michael-i-jordan.md",
@@ -314,7 +322,8 @@
           "title": "Michael I. Jordan",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/nick-bostrom.md",
@@ -350,7 +359,8 @@
           "title": "Nick Bostrom",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/ray-kurzweil.md",
@@ -377,7 +387,8 @@
           "title": "Ray Kurzweil",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/stuart-j-russell.md",
@@ -403,7 +414,8 @@
       "topics": [
         "AI"
       ],
-      "heat": 50
+      "heat": 50,
+      "content": "\r\n"
     },
     {
       "path": "_people/yoshua-bengio.md",
@@ -441,7 +453,8 @@
           "title": "Yoshua Bengio",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/andrew-moore.md",
@@ -476,7 +489,8 @@
           "title": "Andrew Moore",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/jean-liu.md",
@@ -513,7 +527,8 @@
           "title": "Jean Liu",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/noramay-cadena.md",
@@ -529,7 +544,7 @@
       "twitter": {
         "username": "noramayc",
         "url": "https://twitter.com/noramayc",
-        "followers": 17108
+        "followers": 17107
       },
       "topics": [
         "AI"
@@ -543,7 +558,8 @@
           "title": "Noramay Cadena",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/sonja-betschart.md",
@@ -575,7 +591,8 @@
           "title": "Sonja Betschart",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/christopher-m-bishop.md",
@@ -623,7 +640,8 @@
           "title": "Christopher M. Bishop",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/huahai-yang.md",
@@ -639,7 +657,7 @@
       "twitter": {
         "username": "huahaiy",
         "url": "https://twitter.com/huahaiy",
-        "followers": 1002
+        "followers": 1001
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/huahaiyang/"
@@ -666,7 +684,8 @@
           "title": "Huahai Yang",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/verity-harding.md",
@@ -698,7 +717,8 @@
           "title": "Verity Harding",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/kyle-cranmer.md",
@@ -739,7 +759,8 @@
           "title": "Kyle Cranmer",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/mariya-yao.md",
@@ -754,7 +775,7 @@
       "twitter": {
         "username": "thinkmariya",
         "url": "https://twitter.com/thinkmariya",
-        "followers": 28381
+        "followers": 28382
       },
       "topics": [
         "AI"
@@ -768,7 +789,8 @@
           "title": "Mariya Yao",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/kai-fu-lee.md",
@@ -784,7 +806,7 @@
       "twitter": {
         "username": "kaifulee",
         "url": "https://twitter.com/kaifulee",
-        "followers": 1578358
+        "followers": 1578381
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=lm2nBYkAAAAJ",
@@ -815,7 +837,8 @@
           "title": "Kai-Fu Lee",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/rodney-brooks.md",
@@ -831,7 +854,7 @@
       "twitter": {
         "username": "rodneyabrooks",
         "url": "https://twitter.com/rodneyabrooks",
-        "followers": 21556
+        "followers": 21554
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/rodney-brooks-1a137517/"
@@ -861,7 +884,8 @@
           "title": "Rodney Brooks",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/sougwen-chung.md",
@@ -898,7 +922,8 @@
           "title": "Sougwen Chung",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/vishal-sikka.md",
@@ -913,7 +938,7 @@
       "twitter": {
         "username": "vsikka",
         "url": "https://twitter.com/vsikka",
-        "followers": 249262
+        "followers": 249261
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Vishal_Sikka"
@@ -935,7 +960,8 @@
           "title": "Vishal Sikka",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     }
   ]
 }

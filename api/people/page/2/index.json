@@ -15,7 +15,7 @@
       "twitter": {
         "username": "DBonacorsi",
         "url": "https://twitter.com/DBonacorsi",
-        "followers": 673
+        "followers": 674
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=7_xEzmUAAAAJ",
@@ -39,7 +39,8 @@
           "title": "Daniele Bonacorsi",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/jack-clark.md",
@@ -69,7 +70,8 @@
           "title": "Jack Clark",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/alex-smola.md",
@@ -118,7 +120,8 @@
           "title": "Alex Smola",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/madeline-gannon.md",
@@ -134,7 +137,7 @@
       "twitter": {
         "username": "madelinegannon",
         "url": "https://twitter.com/madelinegannon",
-        "followers": 2978
+        "followers": 2980
       },
       "topics": [
         "AI",
@@ -149,7 +152,8 @@
           "title": "Madeline Gannon",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/rajat-monga.md",
@@ -208,7 +212,8 @@
           "title": "Rajat Monga",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/sebastian-thrun.md",
@@ -265,7 +270,8 @@
           "title": "Sebastian Thrun",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/collections/female-pioneers-in-robotics-2020.md",
@@ -379,7 +385,8 @@
           "title": "Jean Liu",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/carol-e-reiley.md",
@@ -395,7 +402,7 @@
       "twitter": {
         "username": "robot_MD",
         "url": "https://twitter.com/robot_MD",
-        "followers": 11513
+        "followers": 11515
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/carol-reiley-7a91072/"
@@ -413,7 +420,8 @@
           "title": "Carol E. Reiley",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/oren-etzioni.md",
@@ -429,7 +437,7 @@
       "twitter": {
         "username": "etzioni",
         "url": "https://twitter.com/etzioni",
-        "followers": 25082
+        "followers": 25085
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=-hmxit8AAAAJ",
@@ -456,7 +464,8 @@
           "title": "Oren Etzioni",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/rosalind-picard.md",
@@ -472,7 +481,7 @@
       "twitter": {
         "username": "rosalindpicard",
         "url": "https://twitter.com/rosalindpicard",
-        "followers": 10922
+        "followers": 10924
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/rosalind-picard-0111bb/"
@@ -498,7 +507,8 @@
           "title": "Rosalind Picard",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/alice-agogino.md",
@@ -529,7 +539,8 @@
           "title": "Alice M. Agogino",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/andrew-zisserman.md",
@@ -565,7 +576,8 @@
           "title": "Andrew Zisserman",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/anil-k-jain.md",
@@ -599,7 +611,8 @@
           "title": "Anil K. Jain",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/chuen-tsai-sun.md",
@@ -631,7 +644,8 @@
           "title": "Chuen-Tsai Sun",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/daniela-l-rus.md",
@@ -683,7 +697,8 @@
           "title": "Daniela L. Rus",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/david-lopez-mateos.md",
@@ -722,7 +737,8 @@
           "title": "David Lopez Mateos",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/erekle-magradze.md",
@@ -759,7 +775,8 @@
           "title": "Erekle Magradze",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/fedor-ratnikov.md",
@@ -792,7 +809,8 @@
           "title": "Fedor Ratnikov",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/francisco-matorras.md",
@@ -830,7 +848,8 @@
           "title": "Francisco Matorras",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/harry-shum.md",
@@ -846,7 +865,7 @@
       "twitter": {
         "username": "harryshum",
         "url": "https://twitter.com/harryshum",
-        "followers": 17618
+        "followers": 17621
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=9akH-n8AAAAJ",
@@ -882,7 +901,8 @@
           "title": "Harry Shum",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/jacob-searcy.md",
@@ -924,7 +944,8 @@
           "title": "Jacob Searcy",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/james-peng.md",
@@ -957,7 +978,8 @@
           "title": "James Peng",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/javier-m-duarte.md",
@@ -997,7 +1019,8 @@
           "title": "Javier M. Duarte",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/jitendra-malik.md",
@@ -1031,7 +1054,8 @@
           "title": "Jitendra Malik",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/john-giannandrea.md",
@@ -1056,7 +1080,8 @@
       "topics": [
         "AI"
       ],
-      "heat": 50
+      "heat": 50,
+      "content": "\r\n"
     },
     {
       "path": "_people/jonathan-hays.md",
@@ -1089,7 +1114,8 @@
           "title": "Jonathan Hays",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/josh-cogan.md",
@@ -1136,7 +1162,8 @@
           "title": "Josh Cogan",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/kalyanmoy-deb.md",
@@ -1169,7 +1196,8 @@
           "title": "Kalyanmoy Deb",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/karl-iagnemma.md",
@@ -1209,7 +1237,8 @@
           "title": "Karl Iagnemma",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/leo-breiman.md",
@@ -1246,7 +1275,8 @@
           "title": "Leo Breiman",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     }
   ],
   "nextPage": 3

@@ -17,7 +17,7 @@
       "twitter": {
         "username": "lmoroney",
         "url": "https://twitter.com/lmoroney",
-        "followers": 20576
+        "followers": 20578
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/laurence-moroney/"
@@ -37,7 +37,8 @@
           "title": "Laurence Moroney",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/rajat-monga.md",
@@ -96,7 +97,8 @@
           "title": "Rajat Monga",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     }
   ],
   "nextPage": 2

@@ -15,7 +15,7 @@
       "twitter": {
         "username": "bschoelkopf",
         "url": "https://twitter.com/bschoelkopf",
-        "followers": 5730
+        "followers": 5731
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=DZ-fHPgAAAAJ",
@@ -40,7 +40,8 @@
           "title": "Bernhard Schölkopf",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/leo-breiman.md",
@@ -77,7 +78,8 @@
           "title": "Leo Breiman",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/michael-i-jordan.md",
@@ -114,7 +116,8 @@
           "title": "Michael I. Jordan",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/kyle-cranmer.md",
@@ -155,7 +158,8 @@
           "title": "Kyle Cranmer",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     }
   ],
   "nextPage": 2

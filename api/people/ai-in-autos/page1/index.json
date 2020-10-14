@@ -16,7 +16,7 @@
       "twitter": {
         "username": "elonmusk",
         "url": "https://twitter.com/elonmusk",
-        "followers": 39323395
+        "followers": 39324300
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Elon_Musk"
@@ -34,7 +34,8 @@
           "title": "Elon Musk",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/lex-fridman.md",
@@ -50,7 +51,7 @@
       "twitter": {
         "username": "LexFridman",
         "url": "https://twitter.com/LexFridman",
-        "followers": 347471
+        "followers": 347542
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=wZH_N7cAAAAJ",
@@ -83,7 +84,8 @@
           "title": "Lex Fridman",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/john-krafcik.md",
@@ -99,7 +101,7 @@
       "twitter": {
         "username": "johnkrafcik",
         "url": "https://twitter.com/johnkrafcik",
-        "followers": 14342
+        "followers": 14343
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/johnkrafcik/"
@@ -120,7 +122,8 @@
           "title": "John Krafcik",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/alexandr-wang.md",
@@ -136,7 +139,7 @@
       "twitter": {
         "username": "alexandr_wang",
         "url": "https://twitter.com/alexandr_wang",
-        "followers": 9292
+        "followers": 9293
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/alexandrwang/"
@@ -161,7 +164,8 @@
           "title": "Alexandr Wang",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/james-peng.md",
@@ -194,7 +198,8 @@
           "title": "James Peng",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/karl-iagnemma.md",
@@ -234,7 +239,8 @@
           "title": "Karl Iagnemma",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/jean-liu.md",
@@ -271,7 +277,8 @@
           "title": "Jean Liu",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     }
   ],
   "nextPage": 2

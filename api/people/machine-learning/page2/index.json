@@ -34,7 +34,8 @@
           "title": "Lev Dudko",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/lily-asquith.md",
@@ -67,7 +68,8 @@
           "title": "Lily Asquith",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/luc-van-gool.md",
@@ -104,7 +106,8 @@
           "title": "Luc Van Gool",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/maurizio-pierini.md",
@@ -137,7 +140,8 @@
           "title": "Maurizio Pierini",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/michael-i-jordan.md",
@@ -174,7 +178,8 @@
           "title": "Michael I. Jordan",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/yoshua-bengio.md",
@@ -212,7 +217,8 @@
           "title": "Yoshua Bengio",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/andrew-moore.md",
@@ -247,7 +253,8 @@
           "title": "Andrew Moore",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/christopher-m-bishop.md",
@@ -295,7 +302,8 @@
           "title": "Christopher M. Bishop",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/kyle-cranmer.md",
@@ -336,7 +344,8 @@
           "title": "Kyle Cranmer",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/kai-fu-lee.md",
@@ -352,7 +361,7 @@
       "twitter": {
         "username": "kaifulee",
         "url": "https://twitter.com/kaifulee",
-        "followers": 1578358
+        "followers": 1578381
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=lm2nBYkAAAAJ",
@@ -383,7 +392,8 @@
           "title": "Kai-Fu Lee",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     }
   ],
   "nextPage": 3

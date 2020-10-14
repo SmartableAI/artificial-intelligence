@@ -17,7 +17,7 @@
       "twitter": {
         "username": "chrmanning",
         "url": "https://twitter.com/chrmanning",
-        "followers": 71493
+        "followers": 71496
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=1zmDOdwAAAAJ",
@@ -56,7 +56,8 @@
           "title": "Christopher D Manning",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/ray-kurzweil.md",
@@ -83,7 +84,8 @@
           "title": "Ray Kurzweil",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/huahai-yang.md",
@@ -99,7 +101,7 @@
       "twitter": {
         "username": "huahaiy",
         "url": "https://twitter.com/huahaiy",
-        "followers": 1002
+        "followers": 1001
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/huahaiyang/"
@@ -126,7 +128,8 @@
           "title": "Huahai Yang",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     }
   ],
   "nextPage": 2

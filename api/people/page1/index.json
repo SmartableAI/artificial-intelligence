@@ -16,7 +16,7 @@
       "twitter": {
         "username": "elonmusk",
         "url": "https://twitter.com/elonmusk",
-        "followers": 39323395
+        "followers": 39324300
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Elon_Musk"
@@ -34,7 +34,8 @@
           "title": "Elon Musk",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/andrew-ng.md",
@@ -50,7 +51,7 @@
       "twitter": {
         "username": "AndrewYNg",
         "url": "https://twitter.com/AndrewYNg",
-        "followers": 536473
+        "followers": 536501
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/andrewyng/"
@@ -94,7 +95,8 @@
           "title": "Andrew Ng",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/lex-fridman.md",
@@ -110,7 +112,7 @@
       "twitter": {
         "username": "LexFridman",
         "url": "https://twitter.com/LexFridman",
-        "followers": 347471
+        "followers": 347542
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=wZH_N7cAAAAJ",
@@ -143,7 +145,8 @@
           "title": "Lex Fridman",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/yann-lecun.md",
@@ -159,7 +162,7 @@
       "twitter": {
         "username": "ylecun",
         "url": "https://twitter.com/ylecun",
-        "followers": 225905
+        "followers": 225933
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=WLN3QrAAAAAJ",
@@ -188,7 +191,8 @@
           "title": "Yann LeCun",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/collections/the-most-influential-ai-researchers-in-2020.md",
@@ -305,7 +309,8 @@
           "title": "Andrew Ng",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/collections/top-ai-professors-in-stanford.md",
@@ -422,7 +427,8 @@
           "title": "Andrew Ng",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/andrej-karpathy.md",
@@ -438,7 +444,7 @@
       "twitter": {
         "username": "karpathy",
         "url": "https://twitter.com/karpathy",
-        "followers": 304981
+        "followers": 304996
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/andrej-karpathy-9a650716/"
@@ -458,7 +464,8 @@
           "title": "Andrej Karpathy",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/john-carmack.md",
@@ -474,7 +481,7 @@
       "twitter": {
         "username": "ID_AA_Carmack",
         "url": "https://twitter.com/ID_AA_Carmack",
-        "followers": 894830
+        "followers": 894825
       },
       "affiliation": {
         "path": "",
@@ -494,7 +501,8 @@
           "title": "John Carmack",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/fei-fei-li.md",
@@ -510,7 +518,7 @@
       "twitter": {
         "username": "drfeifei",
         "url": "https://twitter.com/drfeifei",
-        "followers": 367333
+        "followers": 367345
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=rDfyQnIAAAAJ",
@@ -553,7 +561,8 @@
           "title": "Fei-Fei Li",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/jeff-dean.md",
@@ -568,7 +577,7 @@
       "twitter": {
         "username": "jeffdean",
         "url": "https://twitter.com/jeffdean",
-        "followers": 171510
+        "followers": 171526
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=NMS69lQAAAAJ",
@@ -606,7 +615,8 @@
           "title": "Jeff Dean",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/demis-hassabis.md",
@@ -621,7 +631,7 @@
       "twitter": {
         "username": "demishassabis",
         "url": "https://twitter.com/demishassabis",
-        "followers": 198592
+        "followers": 198598
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=dYpPMQEAAAAJ",
@@ -645,7 +655,8 @@
           "title": "Demis Hassabis",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/geoffrey-hinton.md",
@@ -659,7 +670,7 @@
       "twitter": {
         "username": "geoffreyhinton",
         "url": "https://twitter.com/geoffreyhinton",
-        "followers": 93422
+        "followers": 93430
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=JicYPdAAAAAJ",
@@ -686,7 +697,8 @@
           "title": "Geoffrey Hinton",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/collections/godfathers-of-ai-won-2018-turing-award.md",
@@ -782,7 +794,8 @@
           "title": "Yoshua Bengio",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/christopher-d-manning.md",
@@ -798,7 +811,7 @@
       "twitter": {
         "username": "chrmanning",
         "url": "https://twitter.com/chrmanning",
-        "followers": 71493
+        "followers": 71496
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=1zmDOdwAAAAJ",
@@ -837,7 +850,8 @@
           "title": "Christopher D Manning",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/ilya-sutskever.md",
@@ -851,7 +865,7 @@
       "twitter": {
         "username": "ilyasut",
         "url": "https://twitter.com/ilyasut",
-        "followers": 58850
+        "followers": 58855
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=x04W_mMAAAAJ",
@@ -878,7 +892,8 @@
           "title": "Ilya Sutskever",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/animashree-anandkumar.md",
@@ -894,7 +909,7 @@
       "twitter": {
         "username": "animaanandkumar",
         "url": "https://twitter.com/animaanandkumar",
-        "followers": 39411
+        "followers": 39418
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/anima-anandkumar/"
@@ -920,7 +935,8 @@
           "title": "Animashree Anandkumar",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/chelsea-finn.md",
@@ -936,7 +952,7 @@
       "twitter": {
         "username": "chelseabfinn",
         "url": "https://twitter.com/chelseabfinn",
-        "followers": 28307
+        "followers": 28313
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=1xw2vTsAAAAJ",
@@ -959,7 +975,8 @@
           "title": "Chelsea Finn",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/kate-crawford.md",
@@ -975,7 +992,7 @@
       "twitter": {
         "username": "katecrawford",
         "url": "https://twitter.com/katecrawford",
-        "followers": 65918
+        "followers": 65921
       },
       "topics": [
         "AI"
@@ -989,7 +1006,8 @@
           "title": "Kate Crawford",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/nando-de-freitas.md",
@@ -1029,7 +1047,8 @@
           "title": "Nando de Freitas",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/soumith-chintala.md",
@@ -1070,7 +1089,8 @@
           "title": "Soumith Chintala",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/laurence-moroney.md",
@@ -1086,7 +1106,7 @@
       "twitter": {
         "username": "lmoroney",
         "url": "https://twitter.com/lmoroney",
-        "followers": 20576
+        "followers": 20578
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/laurence-moroney/"
@@ -1106,7 +1126,8 @@
           "title": "Laurence Moroney",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/john-krafcik.md",
@@ -1122,7 +1143,7 @@
       "twitter": {
         "username": "johnkrafcik",
         "url": "https://twitter.com/johnkrafcik",
-        "followers": 14342
+        "followers": 14343
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/johnkrafcik/"
@@ -1143,7 +1164,8 @@
           "title": "John Krafcik",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/alexandr-wang.md",
@@ -1159,7 +1181,7 @@
       "twitter": {
         "username": "alexandr_wang",
         "url": "https://twitter.com/alexandr_wang",
-        "followers": 9292
+        "followers": 9293
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/alexandrwang/"
@@ -1184,7 +1206,8 @@
           "title": "Alexandr Wang",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/collections/top-ai-professors-in-mit.md",
@@ -1297,7 +1320,8 @@
           "title": "Daniela L. Rus",
           "isCached": false
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/joy-buolamwini.md",
@@ -1313,7 +1337,7 @@
       "twitter": {
         "username": "jovialjoy",
         "url": "https://twitter.com/jovialjoy",
-        "followers": 33202
+        "followers": 33207
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/buolamwini/"
@@ -1338,7 +1362,8 @@
           "title": "Joy Buolamwini",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/rana-el-kaliouby.md",
@@ -1354,7 +1379,7 @@
       "twitter": {
         "username": "kaliouby",
         "url": "https://twitter.com/kaliouby",
-        "followers": 22511
+        "followers": 22513
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/kaliouby/"
@@ -1374,7 +1399,8 @@
           "title": "Rana el Kaliouby",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/bernhard-scholkopf.md",
@@ -1388,7 +1414,7 @@
       "twitter": {
         "username": "bschoelkopf",
         "url": "https://twitter.com/bschoelkopf",
-        "followers": 5730
+        "followers": 5731
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=DZ-fHPgAAAAJ",
@@ -1413,7 +1439,8 @@
           "title": "Bernhard Schölkopf",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/taryn-southern.md",
@@ -1449,7 +1476,8 @@
           "title": "Taryn Southern",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/collections/top-ai-artists.md",
@@ -1539,7 +1567,8 @@
           "title": "Joy Buolamwini",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/martin-ford.md",
@@ -1555,7 +1584,7 @@
       "twitter": {
         "username": "MFordFuture",
         "url": "https://twitter.com/MFordFuture",
-        "followers": 47778
+        "followers": 47777
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Martin_Ford_(author)"
@@ -1572,7 +1601,8 @@
           "title": "Martin Ford",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     }
   ],
   "nextPage": 2
