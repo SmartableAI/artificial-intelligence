@@ -2,7 +2,7 @@
 name: "Nuro"
 overview: "At Nuro our mission is to accelerate the benefits of robotics for everyday life. More efficient use of our resources, our time, and our attention. For all of us."
 type: "profile"
-heat: 78
+heat: 72
 
 website: https://nuro.ai/
 
@@ -47,6 +47,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=XKXbacNQGI8"
 
-secured: "rildkX/X9dT/pgin3lwpWntSUC3ZvoAigHIGgN4+OPtk8H5szwF/uPwDYfxHW/19eiTy5cPbN4h3/F7XKJugyZRzz6js6RJXFglFDh484G/y85sJ1O0R8/+r09Xb6aGU486DXISaaa4UecOXyQv95rfYkSYvCcotmTlelYHln8GfQJkg4P1kdUOb4gQNtKT1BIwk5V+37xuB8pXua5PFuOd+pcDdvL3nP0+dK0raHWGj/2s10GLqS/dMmgEn/NVgzPRsHwlA6bhF79beAGHQ4ZcXbvl0MqFoM/obBFBvYIx+5jkO2stz15E0T+Z9GGVDAHXjddVnZNn1fUvsD1f0FvtljwvL/jitDj613YjoGyKlPRl/VGh3S43gM9eEyfXXJll80nLfbyVQwCVFO7i5vB/guxczDdA9/bMyB9qM4Ps=;4YERll0a8+ZYdQqKJiwFHg=="
+secured: "fN9aG38ACd6uYpHSl8jBksu79w1hjuY/jTc/m3mYHn2XAognhMPQKF3vk+3a7aebt2wAzxG2WGWq9cNplVDuS0N4WCVviNmv7d7dAVu7FXSwnOBHiQrCA7Hx7CptOPDtYPk6ETOLG3ewROYZJeZvs9zY0hvU7k1bgAsQIBYpJbSbc/SBgtWX4w/VjsIZSPEtf3LTaf+MhzKC9xDYggmK91tYI3ZM3OnxinhZCM+a/Kv2vBTUvpg4ZnFGOk4+yhhJo+L8cQSoNWhc+klBsEywoIl4SPx82pZwAyYqnC4kcNgupiTULMh4KfntG2SY64itqJchA52Qh8vvKXepmMh2+j1Sl33xL3wmc6QWPyXyQ2KKM9VfeGxiIxW4ckybpWHyFPvLda2ucx7F3I1wsjxJm/FbNim98FWA1dw3iI/TLRE=;ntTXuEyHXlQXJgwaC+Chdw=="
 ---
 
